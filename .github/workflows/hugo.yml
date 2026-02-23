@@ -41,7 +41,7 @@ jobs:
               title=$(basename "$f" .md | sed 's/-/ /g; s/\b\w/\u&/g')
             fi
             # Get git commit date for this file
-            date=$(git log -1 --format="%cs" -- "$f" 2>/dev/null || date +%Y-%m-%d)
+            date=$(git log -1 --format="%cI" -- "$f" 2>/dev/null || date -Iseconds)
             # Remove the # heading line and prepend frontmatter
             sed -i '0,/^# .*/{/^# .*/d}' "$f"
             tmp=$(mktemp)
