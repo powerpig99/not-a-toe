@@ -1,4 +1,4 @@
-## Why AI Is Exposing the Fatal Flaw in Modern Schooling
+# Why AI Is Exposing the Fatal Flaw in Modern Schooling
 
 A viral post recently praised Alpha School in San Francisco: AI-taught kids outperforming the top 0.1% globally, five-year-olds performing at the level of nine-year-olds, teenagers operating at college level and beyond. Impressive numbers. But any measurement that ignores pre-enrollment baselines and reports only outcomes is deeply misleading. A $30k–$50k/year private school attracting high-agency, high-SES families starts with kids already in the top tail. Without rigorous pre/post controls, the gains tell you almost nothing about the method.
 
