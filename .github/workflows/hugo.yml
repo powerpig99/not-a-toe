@@ -37,7 +37,7 @@ jobs:
               continue
             fi
             # Extract title from first # heading, fallback to filename
-            title=$(grep -m1 '^# ' "$f" | sed 's/^# //')
+            title=$(grep -m1 '^# ' "$f" | sed 's/^# //' | sed 's/"/\\"/g')
             if [ -z "$title" ]; then
               title=$(basename "$f" .md | sed 's/-/ /g; s/\b\w/\u&/g')
             fi
