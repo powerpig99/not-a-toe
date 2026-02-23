@@ -27,6 +27,28 @@ jobs:
           hugo-version: "0.145.0"
           extended: true
 
+      - name: Add frontmatter to raw posts
+        run: |
+          for f in content/posts/*.md; do
+            [ -f "$f" ] || continue
+            # Skip files that already have frontmatter
+            if head -1 "$f" | grep -q '^---$'; then
+              continue
+            fi
+            # Extract title from first # heading, fallback to filename
+            title=$(grep -m1 '^# ' "$f" | sed 's/^# //')
+            if [ -z "$title" ]; then
+              title=$(basename "$f" .md | sed 's/-/ /g; s/\b\w/\u&/g')
+            fi
+            # Get git commit date for this file
+            date=$(git log -1 --format="%cs" -- "$f" 2>/dev/null || date +%Y-%m-%d)
+            # Remove the # heading line and prepend frontmatter
+            sed -i '0,/^# .*/{/^# .*/d}' "$f"
+            tmp=$(mktemp)
+            printf -- '---\ntitle: "%s"\ndate: %s\n---\n' "$title" "$date" | cat - "$f" > "$tmp"
+            mv "$tmp" "$f"
+          done
+
       - name: Build
         run: hugo --minify
 
