@@ -1,1 +1,5 @@
-{{- /* Intentionally empty — suppresses OpenGraph card preview */ -}}
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ end }}{{ end }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="{{ "images/card.png" | absURL }}" />
