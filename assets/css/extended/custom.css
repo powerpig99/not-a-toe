@@ -1,3 +1,8 @@
+/* Align nav with content width */
+.nav {
+    max-width: calc(var(--main-width) + var(--gap) * 2);
+}
+
 /* Smaller headings across the board */
 .post-title {
     font-size: 24px;
