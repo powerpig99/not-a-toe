@@ -1,6 +1,6 @@
 baseURL: "https://powerpig99.github.io/not-a-toe/"
 title: "Not a ToE"
-theme: "hugo-bearblog"
+theme: "PaperMod"
 languageCode: "en-US"
 enableRobotsTXT: true
 
@@ -12,3 +12,6 @@ ignoreErrors:
 
 params:
   description: "Not a ToE"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowPostNavLinks: true
