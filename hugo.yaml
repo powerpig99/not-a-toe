@@ -1,0 +1,14 @@
+baseURL: "https://powerpig99.github.io/not-a-toe/"
+title: "Not a ToE"
+theme: "hugo-bearblog"
+languageCode: "en-US"
+enableRobotsTXT: true
+
+disableKinds:
+  - taxonomy
+
+ignoreErrors:
+  - error-disable-taxonomy
+
+params:
+  description: "Not a ToE"
