@@ -1,6 +1,6 @@
 {{ define "main" }}
 <ul class="blog-posts">
-  {{ range where site.RegularPages "Section" "posts" }}
+  {{ range (where site.RegularPages "Section" "posts").ByDate.Reverse }}
   <li>
     <span>
       <i>
