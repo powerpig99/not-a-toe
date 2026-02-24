@@ -24,6 +24,8 @@ const contentDir = path.join(scriptDir, 'content', 'posts');
 const staticDir = path.join(scriptDir, 'static');
 const outputDir = path.join(scriptDir, 'public');
 const styleFile = path.join(scriptDir, 'style.css');
+const faviconSvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="black"/><text x="4" y="36" fill="white" font-family="Georgia, serif" font-size="9">Not_a_ToE</text></svg>`;
+const faviconDataUri = `data:image/svg+xml,${encodeURIComponent(faviconSvg)}`;
 
 const baseUrl = new URL(SITE.baseUrl);
 const basePath = baseUrl.pathname.replace(/\/$/, '');
@@ -105,6 +107,7 @@ function markdownToHtml(markdownBody) {
   let paragraph = [];
   let listType = null;
   let listItems = [];
+  let listStart = null;
   let quoteLines = [];
 
   function flushParagraph() {
@@ -116,9 +119,14 @@ function markdownToHtml(markdownBody) {
   function flushList() {
     if (!listType || !listItems.length) return;
     const items = listItems.map((item) => `<li>${formatInline(item)}</li>`).join('');
-    chunks.push(`<${listType}>${items}</${listType}>`);
+    if (listType === 'ol' && listStart && listStart !== 1) {
+      chunks.push(`<ol start="${listStart}">${items}</ol>`);
+    } else {
+      chunks.push(`<${listType}>${items}</${listType}>`);
+    }
     listType = null;
     listItems = [];
+    listStart = null;
   }
 
   function flushQuote() {
@@ -172,11 +180,12 @@ function markdownToHtml(markdownBody) {
         flushList();
       }
       listType = 'ul';
+      listStart = null;
       listItems.push(unorderedMatch[1]);
       continue;
     }
 
-    const orderedMatch = /^\d+\.\s+(.+)$/.exec(trimmed);
+    const orderedMatch = /^(\d+)\.\s+(.+)$/.exec(trimmed);
     if (orderedMatch) {
       flushParagraph();
       flushQuote();
@@ -184,7 +193,10 @@ function markdownToHtml(markdownBody) {
         flushList();
       }
       listType = 'ol';
-      listItems.push(orderedMatch[1]);
+      if (!listItems.length) {
+        listStart = Number.parseInt(orderedMatch[1], 10);
+      }
+      listItems.push(orderedMatch[2]);
       continue;
     }
 
@@ -226,6 +238,10 @@ function getGitDate(filePath) {
     return lastDate;
   }
 
+  return fs.statSync(filePath).mtime.toISOString();
+}
+
+function getFileDate(filePath) {
   return fs.statSync(filePath).mtime.toISOString();
 }
 
@@ -301,12 +317,14 @@ function readPosts() {
     const htmlBody = markdownToHtml(markdownBody);
     const plainText = markdownToSummaryText(markdownBody);
     const dateIso = getGitDate(fullPath);
+    const fileDateIso = getFileDate(fullPath);
     const words = wordCount(plainText);
 
     return {
       slug,
       title,
       dateIso,
+      fileDateIso,
       dateDisplay: formatDate(dateIso),
       readingTime: Math.max(1, Math.ceil(words / WORDS_PER_MINUTE)),
       htmlBody,
@@ -346,6 +364,7 @@ function renderPage({ title, description, content, canonicalPath, ogType = 'webs
   <title>${escapeHtml(fullTitle)}</title>
   <meta name="description" content="${escapeHtml(description)}">
   <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
+  <link rel="icon" type="image/svg+xml" href="${escapeHtml(faviconDataUri)}">
   <link rel="stylesheet" href="${withBase('style.css')}">
   <meta property="og:title" content="${escapeHtml(fullTitle)}">
   <meta property="og:description" content="${escapeHtml(description)}">
@@ -433,14 +452,14 @@ function xmlEscape(text) {
 }
 
 function generateSitemap(posts) {
-  const urls = [
-    absoluteUrl(''),
-    absoluteUrl('llms.txt'),
-    absoluteUrl('llms-full.txt'),
-    ...posts.map((post) => absoluteUrl(post.outputPath)),
-  ];
-
-  const rows = urls.map((url) => `  <url><loc>${xmlEscape(url)}</loc></url>`).join('\n');
+  const staticRows = [absoluteUrl(''), absoluteUrl('llms.txt'), absoluteUrl('llms-full.txt')].map(
+    (url) => `  <url><loc>${xmlEscape(url)}</loc></url>`,
+  );
+  const postRows = posts.map(
+    (post) =>
+      `  <url><loc>${xmlEscape(absoluteUrl(post.outputPath))}</loc><lastmod>${xmlEscape(post.fileDateIso)}</lastmod></url>`,
+  );
+  const rows = [...staticRows, ...postRows].join('\n');
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${rows}
