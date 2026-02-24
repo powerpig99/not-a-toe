@@ -108,12 +108,13 @@ main.wrap {
   font-size: 1.28rem;
 }
 
-.post-card h2 a {
+.post-card-link {
+  display: block;
   color: var(--text);
   text-decoration: none;
 }
 
-.post-card h2 a:hover {
+.post-card-link:hover h2 {
   color: var(--accent);
 }
 

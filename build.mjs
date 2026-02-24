@@ -9,6 +9,7 @@ const SITE = {
   description: 'Not a ToE - rewritten from the ground up.',
   baseUrl: 'https://powerpig99.github.io/not-a-toe/',
   language: 'en-US',
+  pinnedSlug: 'not-a-toe-rewrite',
   images: {
     og: 'images/card.jpg',
     twitter: 'images/card-twitter.jpg',
@@ -296,11 +297,15 @@ function readPosts() {
 }
 
 function sortPosts(posts) {
-  return posts
+  const pinned = posts.find((post) => post.slug === SITE.pinnedSlug) || null;
+  const rest = posts
+    .filter((post) => post.slug !== SITE.pinnedSlug)
     .sort((a, b) => {
       if (a.dateIso !== b.dateIso) return b.dateIso.localeCompare(a.dateIso);
       return a.slug.localeCompare(b.slug);
     });
+
+  return pinned ? [pinned, ...rest] : rest;
 }
 
 function renderPage({ title, description, content, canonicalPath, ogType = 'website', ogImagePath = SITE.images.og }) {
@@ -353,9 +358,11 @@ function renderIndex(posts) {
   const cards = posts
     .map((post) => {
       return `    <article class="post-card">
-      <h2><a href="${withBase(post.outputPath)}">${escapeHtml(post.title)}</a></h2>
-      <p class="meta"><time datetime="${escapeAttribute(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
-      <p>${escapeHtml(post.excerpt)}</p>
+      <a class="post-card-link" href="${withBase(post.outputPath)}">
+        <h2>${escapeHtml(post.title)}</h2>
+        <p class="meta"><time datetime="${escapeAttribute(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
+        <p>${escapeHtml(post.excerpt)}</p>
+      </a>
     </article>`;
     })
     .join('\n');
