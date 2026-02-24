@@ -97,12 +97,11 @@ a {
   padding-left: 1.3em;
 }
 
-.essay-content hr,
-.post-nav {
-  margin-top: 24px;
-  padding-top: 14px;
+.essay-content hr {
+  margin: 24px 0;
+  border: 0;
   border-top: 1px solid currentColor;
-  opacity: 0.6;
+  opacity: 0.45;
 }
 
 .essay-content blockquote {
@@ -119,6 +118,10 @@ a {
 }
 
 .post-nav {
+  margin-top: 24px;
+  padding-top: 14px;
+  border-top: 1px solid currentColor;
+  opacity: 0.6;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
