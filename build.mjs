@@ -373,10 +373,7 @@ function renderIndex(posts) {
     })
     .join('\n');
 
-  const content = `    <section class="index-header">
-      <h1>${escapeHtml(SITE.title)}</h1>
-    </section>
-    <section class="post-list">
+  const content = `    <section class="post-list">
 ${cards}
     </section>`;
 
