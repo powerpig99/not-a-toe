@@ -1,4 +1,4 @@
-### The Risk You Delegate Is the Risk You Create
+# The Risk You Delegate Is the Risk You Create
 
 Approximately 40,000 people die on American roads every year. NHTSA attributes roughly 94% of crashes to human error—distraction, impairment, fatigue, misjudgment. This number barely fluctuates. It is the baseline cost of humans operating vehicles, and it has been stable for decades.
 

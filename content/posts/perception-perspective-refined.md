@@ -1,4 +1,4 @@
-### Perception and Perspective: The Collapse That Isn't There
+# Perception and Perspective: The Collapse That Isn't There
 
 Earlier today, a clip from Lex Fridman's podcast resurfaced on my timeline. In it, Lex asks former CIA officer Andrew Bustamante: "What is one 'spy trick' you would teach everyone that they can use to improve their life instantly?"
 

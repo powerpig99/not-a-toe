@@ -1,4 +1,3 @@
 public/
-resources/
-.hugo_build.lock
-post_tweet.py
+__pycache__/
+.DS_Store

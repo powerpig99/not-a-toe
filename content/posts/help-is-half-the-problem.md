@@ -1,4 +1,4 @@
-**help is half the problem**
+# Help Is Half the Problem
 
 A marker arm spins in perfect, tireless circles around a fixed point it can never reach. The video is hypnotic because every single person watching it feels the exact same loop somewhere in their life: the endless helping, fixing, saving, supporting, advising, rescuing—while the other person stays exactly where they were.
 
