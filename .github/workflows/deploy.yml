@@ -28,13 +28,7 @@ jobs:
           node-version: '22'
 
       - name: Restore post file mtimes from git
-        run: |
-          while IFS= read -r -d '' file; do
-            ts="$(git log -1 --format=%cI -- "$file")"
-            if [ -n "$ts" ]; then
-              touch -d "$ts" "$file"
-            fi
-          done < <(find content/posts -type f -name '*.md' -print0)
+        run: scripts/restore-post-mtimes.sh
 
       - name: Build site
         run: node build.mjs

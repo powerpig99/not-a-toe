@@ -11,6 +11,7 @@
 Run:
 
 ```bash
+scripts/restore-post-mtimes.sh
 node build.mjs
 ```
 
