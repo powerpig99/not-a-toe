@@ -49,19 +49,6 @@ function escapeHtml(text) {
     .replaceAll("'", '&#39;');
 }
 
-function escapeAttribute(text) {
-  return escapeHtml(text);
-}
-
-function decodeBasicEntities(text) {
-  return text
-    .replaceAll('&amp;', '&')
-    .replaceAll('&lt;', '<')
-    .replaceAll('&gt;', '>')
-    .replaceAll('&quot;', '"')
-    .replaceAll('&#39;', "'");
-}
-
 function applyEmphasis(text) {
   return text
     .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
@@ -71,7 +58,7 @@ function applyEmphasis(text) {
 function renderTextSegment(rawText) {
   let output = '';
   let cursor = 0;
-  const linkRegex = /\[([^\]]+)\]\(([^)\s]+)\)/g;
+  const linkRegex = /\[([^\]]+)\]\(([^)]*)\)/g;
   let match;
 
   while ((match = linkRegex.exec(rawText)) !== null) {
@@ -83,7 +70,12 @@ function renderTextSegment(rawText) {
       output += applyEmphasis(escapeHtml(before));
     }
 
-    output += `<a href="${escapeAttribute(href)}">${applyEmphasis(escapeHtml(label))}</a>`;
+    const cleanHref = href.trim();
+    if (!cleanHref) {
+      output += applyEmphasis(escapeHtml(label));
+    } else {
+      output += `<a href="${escapeHtml(cleanHref)}">${applyEmphasis(escapeHtml(label))}</a>`;
+    }
     cursor = start + full.length;
   }
 
@@ -131,7 +123,7 @@ function markdownToHtml(markdownBody) {
 
   function flushQuote() {
     if (!quoteLines.length) return;
-    chunks.push(`<blockquote><p>${formatInline(quoteLines.join(' '))}</p></blockquote>`);
+    chunks.push(`<blockquote>${markdownToHtml(quoteLines.join('\n'))}</blockquote>`);
     quoteLines = [];
   }
 
@@ -246,9 +238,23 @@ function formatDate(dateIso) {
   }).format(date);
 }
 
-function toPlainText(html) {
-  const withoutTags = html.replace(/<[^>]+>/g, ' ');
-  return decodeBasicEntities(withoutTags).replace(/\s+/g, ' ').trim();
+function markdownToSummaryText(markdown) {
+  return markdown
+    .replace(/```[\s\S]*?```/g, ' ')
+    .replace(/`([^`]+)`/g, '$1')
+    .replace(/!\[([^\]]*)\]\(([^)]*)\)/g, '$1')
+    .replace(/\[([^\]]+)\]\(([^)]*)\)/g, '$1')
+    .replace(/^>\s?/gm, '')
+    .replace(/^#{1,6}\s+/gm, '')
+    .replace(/^\s*[-*+]\s+/gm, '')
+    .replace(/^\s*\d+\.\s+/gm, '')
+    .replace(/^(-{3,}|\*{3,}|_{3,})$/gm, ' ')
+    .replace(/\*\*([^*]+)\*\*/g, '$1')
+    .replace(/(?<!\*)\*([^*]+)\*(?!\*)/g, '$1')
+    .replace(/__([^_]+)__/g, '$1')
+    .replace(/(?<!_)_([^_]+)_(?!_)/g, '$1')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 function buildExcerpt(text, limit = EXCERPT_LIMIT) {
@@ -293,7 +299,7 @@ function readPosts() {
 
     const markdownBody = lines.slice(1).join('\n').trimStart();
     const htmlBody = markdownToHtml(markdownBody);
-    const plainText = toPlainText(htmlBody);
+    const plainText = markdownToSummaryText(markdownBody);
     const dateIso = getGitDate(fullPath);
     const words = wordCount(plainText);
 
@@ -338,20 +344,20 @@ function renderPage({ title, description, content, canonicalPath, ogType = 'webs
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="index,follow">
   <title>${escapeHtml(fullTitle)}</title>
-  <meta name="description" content="${escapeAttribute(description)}">
-  <link rel="canonical" href="${escapeAttribute(canonicalUrl)}">
+  <meta name="description" content="${escapeHtml(description)}">
+  <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
   <link rel="stylesheet" href="${withBase('style.css')}">
-  <meta property="og:title" content="${escapeAttribute(fullTitle)}">
-  <meta property="og:description" content="${escapeAttribute(description)}">
-  <meta property="og:type" content="${escapeAttribute(ogType)}">
-  <meta property="og:url" content="${escapeAttribute(canonicalUrl)}">
-  <meta property="og:site_name" content="${escapeAttribute(SITE.title)}">
-  <meta property="og:locale" content="${escapeAttribute(SITE.language)}">
-  <meta property="og:image" content="${escapeAttribute(ogImage)}">
+  <meta property="og:title" content="${escapeHtml(fullTitle)}">
+  <meta property="og:description" content="${escapeHtml(description)}">
+  <meta property="og:type" content="${escapeHtml(ogType)}">
+  <meta property="og:url" content="${escapeHtml(canonicalUrl)}">
+  <meta property="og:site_name" content="${escapeHtml(SITE.title)}">
+  <meta property="og:locale" content="${escapeHtml(SITE.language)}">
+  <meta property="og:image" content="${escapeHtml(ogImage)}">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="${escapeAttribute(fullTitle)}">
-  <meta name="twitter:description" content="${escapeAttribute(description)}">
-  <meta name="twitter:image" content="${escapeAttribute(absoluteUrl(SITE.images.twitter))}">
+  <meta name="twitter:title" content="${escapeHtml(fullTitle)}">
+  <meta name="twitter:description" content="${escapeHtml(description)}">
+  <meta name="twitter:image" content="${escapeHtml(absoluteUrl(SITE.images.twitter))}">
 </head>
 <body>
   <main class="wrap">
@@ -367,7 +373,7 @@ function renderIndex(posts) {
     .map((post) => {
       return `    <article class="post-item">
       <h2><a href="${withBase(post.outputPath)}">${escapeHtml(post.title)}</a></h2>
-      <p class="meta"><time datetime="${escapeAttribute(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
+      <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
       <p>${escapeHtml(post.excerpt)}</p>
     </article>`;
     })
@@ -400,7 +406,7 @@ function renderPost(post, newerPost, olderPost) {
     <article class="essay">
       <header class="essay-header">
         <h1>${escapeHtml(post.title)}</h1>
-        <p class="meta"><time datetime="${escapeAttribute(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
+        <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
       </header>
       <div class="essay-content">
 ${post.htmlBody}
