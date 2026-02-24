@@ -334,7 +334,6 @@ function renderPage({ title, description, content, canonicalPath, ogType = 'webs
   <header class="site-header">
     <div class="wrap">
       <a class="site-title" href="${withBase('')}">${escapeHtml(SITE.title)}</a>
-      <a class="site-link" href="${withBase('llms.txt')}">LLMS</a>
     </div>
   </header>
   <main class="wrap">
@@ -342,7 +341,7 @@ ${content}
   </main>
   <footer class="site-footer">
     <div class="wrap">
-      <p>${escapeHtml(SITE.title)} · Markdown essays for humans and LLMs.</p>
+      <p>${escapeHtml(SITE.title)}</p>
     </div>
   </footer>
 </body>
@@ -364,7 +363,6 @@ function renderIndex(posts) {
   const content = `    <section class="hero">
       <h1>${escapeHtml(SITE.title)}</h1>
       <p>${escapeHtml(SITE.description)}</p>
-      <p class="hero-links"><a href="${withBase('llms.txt')}">llms.txt</a> · <a href="${withBase('llms-full.txt')}">llms-full.txt</a></p>
     </section>
     <section class="post-list">
 ${cards}
