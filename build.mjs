@@ -336,19 +336,9 @@ function renderPage({ title, description, content, canonicalPath, ogType = 'webs
   <meta name="twitter:image" content="${escapeAttribute(absoluteUrl(SITE.images.twitter))}">
 </head>
 <body>
-  <header class="site-header">
-    <div class="wrap">
-      <a class="site-title" href="${withBase('')}">${escapeHtml(SITE.title)}</a>
-    </div>
-  </header>
   <main class="wrap">
 ${content}
   </main>
-  <footer class="site-footer">
-    <div class="wrap">
-      <p>${escapeHtml(SITE.title)}</p>
-    </div>
-  </footer>
 </body>
 </html>
 `;
@@ -357,19 +347,16 @@ ${content}
 function renderIndex(posts) {
   const cards = posts
     .map((post) => {
-      return `    <article class="post-card">
-      <a class="post-card-link" href="${withBase(post.outputPath)}">
-        <h2>${escapeHtml(post.title)}</h2>
-        <p class="meta"><time datetime="${escapeAttribute(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
-        <p>${escapeHtml(post.excerpt)}</p>
-      </a>
+      return `    <article class="post-item">
+      <h2><a href="${withBase(post.outputPath)}">${escapeHtml(post.title)}</a></h2>
+      <p class="meta"><time datetime="${escapeAttribute(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
+      <p>${escapeHtml(post.excerpt)}</p>
     </article>`;
     })
     .join('\n');
 
-  const content = `    <section class="hero">
+  const content = `    <section class="index-header">
       <h1>${escapeHtml(SITE.title)}</h1>
-      <p>${escapeHtml(SITE.description)}</p>
     </section>
     <section class="post-list">
 ${cards}
@@ -394,11 +381,11 @@ function renderPost(post, newerPost, olderPost) {
 
   const navHtml = navLinks.length ? `<nav class="post-nav">${navLinks.join('')}</nav>` : '';
 
-  const content = `    <article class="essay">
+  const content = `    <p class="back-link"><a href="${withBase('')}">← Home</a></p>
+    <article class="essay">
       <header class="essay-header">
         <h1>${escapeHtml(post.title)}</h1>
         <p class="meta"><time datetime="${escapeAttribute(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
-        <p class="essay-tools"><a href="./essay.md">Raw Markdown</a></p>
       </header>
       <div class="essay-content">
 ${post.htmlBody}
