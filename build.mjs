@@ -9,7 +9,7 @@ const SITE = {
   description: 'Not a ToE - rewritten from the ground up.',
   baseUrl: 'https://powerpig99.github.io/not-a-toe/',
   language: 'en-US',
-  pinnedSlug: 'not-a-toe-rewrite',
+  pinnedSlug: 'not-a-theory-of-everything',
   images: {
     og: 'images/card.jpg',
     twitter: 'images/card-twitter.jpg',
@@ -206,14 +206,32 @@ function markdownToHtml(markdownBody) {
 }
 
 function getGitDate(filePath) {
-  const result = spawnSync('git', ['log', '-1', '--format=%cI', '--', filePath], {
+  const repoPath = path.relative(scriptDir, filePath);
+
+  // Use the file's first commit as publish date so later edits don't reshuffle chronology.
+  const createdResult = spawnSync('git', ['log', '--follow', '--diff-filter=A', '--format=%cI', '--', repoPath], {
     cwd: scriptDir,
     encoding: 'utf8',
   });
 
-  const date = result.stdout.trim();
-  if (result.status === 0 && date) {
-    return date;
+  if (createdResult.status === 0) {
+    const lines = createdResult.stdout
+      .split(/\r?\n/)
+      .map((line) => line.trim())
+      .filter(Boolean);
+    if (lines.length > 0) {
+      return lines.at(-1);
+    }
+  }
+
+  const lastResult = spawnSync('git', ['log', '-1', '--format=%cI', '--', repoPath], {
+    cwd: scriptDir,
+    encoding: 'utf8',
+  });
+
+  const lastDate = lastResult.stdout.trim();
+  if (lastResult.status === 0 && lastDate) {
+    return lastDate;
   }
 
   return fs.statSync(filePath).mtime.toISOString();
