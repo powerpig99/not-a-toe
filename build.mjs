@@ -2,7 +2,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { spawnSync } from 'node:child_process';
 
 const SITE = {
   title: 'Not a ToE',
@@ -209,38 +208,6 @@ function markdownToHtml(markdownBody) {
   return chunks.join('\n');
 }
 
-function getGitDate(filePath) {
-  const repoPath = path.relative(scriptDir, filePath);
-
-  // Use the file's first commit as publish date so later edits don't reshuffle chronology.
-  const createdResult = spawnSync('git', ['log', '--follow', '--diff-filter=A', '--format=%cI', '--', repoPath], {
-    cwd: scriptDir,
-    encoding: 'utf8',
-  });
-
-  if (createdResult.status === 0) {
-    const lines = createdResult.stdout
-      .split(/\r?\n/)
-      .map((line) => line.trim())
-      .filter(Boolean);
-    if (lines.length > 0) {
-      return lines.at(-1);
-    }
-  }
-
-  const lastResult = spawnSync('git', ['log', '-1', '--format=%cI', '--', repoPath], {
-    cwd: scriptDir,
-    encoding: 'utf8',
-  });
-
-  const lastDate = lastResult.stdout.trim();
-  if (lastResult.status === 0 && lastDate) {
-    return lastDate;
-  }
-
-  return fs.statSync(filePath).mtime.toISOString();
-}
-
 function getFileDate(filePath) {
   return fs.statSync(filePath).mtime.toISOString();
 }
@@ -316,15 +283,13 @@ function readPosts() {
     const markdownBody = lines.slice(1).join('\n').trimStart();
     const htmlBody = markdownToHtml(markdownBody);
     const plainText = markdownToSummaryText(markdownBody);
-    const dateIso = getGitDate(fullPath);
-    const fileDateIso = getFileDate(fullPath);
+    const dateIso = getFileDate(fullPath);
     const words = wordCount(plainText);
 
     return {
       slug,
       title,
       dateIso,
-      fileDateIso,
       dateDisplay: formatDate(dateIso),
       readingTime: Math.max(1, Math.ceil(words / WORDS_PER_MINUTE)),
       htmlBody,
@@ -457,7 +422,7 @@ function generateSitemap(posts) {
   );
   const postRows = posts.map(
     (post) =>
-      `  <url><loc>${xmlEscape(absoluteUrl(post.outputPath))}</loc><lastmod>${xmlEscape(post.fileDateIso)}</lastmod></url>`,
+      `  <url><loc>${xmlEscape(absoluteUrl(post.outputPath))}</loc><lastmod>${xmlEscape(post.dateIso)}</lastmod></url>`,
   );
   const rows = [...staticRows, ...postRows].join('\n');
   return `<?xml version="1.0" encoding="UTF-8"?>
