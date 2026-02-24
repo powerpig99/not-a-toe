@@ -32,20 +32,33 @@ a {
 }
 
 .post-item h2 {
-  margin: 0 0 8px;
+  margin: 0 0 6px;
   line-height: 1.3;
   font-size: 1.4rem;
 }
 
 .post-item p {
   margin: 0;
-  opacity: 0.9;
+}
+
+.meta {
+  margin: 0 0 10px;
+  font-size: 0.95rem;
+  opacity: 0.8;
+}
+
+.back-link {
+  margin: 0 0 18px;
 }
 
 .essay-header h1 {
-  margin: 0 0 16px;
+  margin: 0 0 8px;
   line-height: 1.2;
   font-size: clamp(1.7rem, 5vw, 2.3rem);
+}
+
+.essay-content {
+  margin-top: 22px;
 }
 
 .essay-content h1,
@@ -87,6 +100,7 @@ a {
 .essay-content hr {
   display: block;
   height: 0;
+  padding: 0;
   margin: 24px 0;
   border: 0;
   border-top: 1px solid currentColor;
@@ -108,4 +122,19 @@ a {
 
 .essay-content a {
   text-decoration: underline;
+}
+
+.post-nav {
+  margin-top: 24px;
+  padding-top: 14px;
+  border-top: 1px solid currentColor;
+  opacity: 0.6;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.nav-link {
+  max-width: 100%;
 }
