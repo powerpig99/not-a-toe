@@ -120,10 +120,6 @@ a {
   border: 1px solid currentColor;
 }
 
-.essay-content a {
-  text-decoration: underline;
-}
-
 .post-nav {
   margin-top: 24px;
   padding-top: 14px;
@@ -137,4 +133,8 @@ a {
 
 .nav-link {
   max-width: 100%;
+}
+
+.essay-content a {
+  text-decoration: underline;
 }

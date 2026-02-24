@@ -24,14 +24,6 @@ const contentDir = path.join(scriptDir, 'content', 'posts');
 const staticDir = path.join(scriptDir, 'static');
 const outputDir = path.join(scriptDir, 'public');
 const styleFile = path.join(scriptDir, 'style.css');
-const styleVersion = (() => {
-  const result = spawnSync('git', ['rev-parse', '--short', 'HEAD'], {
-    cwd: scriptDir,
-    encoding: 'utf8',
-  });
-  const value = result.stdout.trim();
-  return result.status === 0 && value ? value : String(Date.now());
-})();
 
 const baseUrl = new URL(SITE.baseUrl);
 const basePath = baseUrl.pathname.replace(/\/$/, '');
@@ -348,7 +340,7 @@ function renderPage({ title, description, content, canonicalPath, ogType = 'webs
   <title>${escapeHtml(fullTitle)}</title>
   <meta name="description" content="${escapeAttribute(description)}">
   <link rel="canonical" href="${escapeAttribute(canonicalUrl)}">
-  <link rel="stylesheet" href="${withBase(`style.css?v=${styleVersion}`)}">
+  <link rel="stylesheet" href="${withBase('style.css')}">
   <meta property="og:title" content="${escapeAttribute(fullTitle)}">
   <meta property="og:description" content="${escapeAttribute(description)}">
   <meta property="og:type" content="${escapeAttribute(ogType)}">
@@ -401,6 +393,7 @@ function renderPost(post, newerPost, olderPost) {
   if (olderPost) {
     navLinks.push(`<a class="nav-link" href="${withBase(olderPost.outputPath)}">${escapeHtml(olderPost.title)} →</a>`);
   }
+
   const navHtml = navLinks.length ? `<nav class="post-nav">${navLinks.join('')}</nav>` : '';
 
   const content = `    <p class="back-link"><a href="${withBase('')}">← Home</a></p>
