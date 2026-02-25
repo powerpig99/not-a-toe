@@ -12,7 +12,13 @@ Run:
 
 ```bash
 scripts/restore-post-mtimes.sh
-node build.mjs
+scripts/build-then.sh
+```
+
+For deterministic local checks (no stale `public/` reads), run the check command through `build-then.sh`:
+
+```bash
+scripts/build-then.sh rg -n "style.css\\?v=" public/index.html
 ```
 
 This generates `public/` with:
