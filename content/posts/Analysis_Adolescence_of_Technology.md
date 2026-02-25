@@ -1,6 +1,6 @@
 # The Exponential and the Linear Eye
 
-**An Ontological Analysis of "The Adolescence of Technology"**
+*An Ontological Analysis of "The Adolescence of Technology".*
 
 ---
 

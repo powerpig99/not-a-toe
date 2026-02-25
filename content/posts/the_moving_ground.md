@@ -1,9 +1,5 @@
 # The Moving Ground: On "Intelligent AI Delegation"
 
-*A response to Tomašev, Franklin & Osindero (Google DeepMind, 2026)*
-
----
-
 Tomašev et al. propose a comprehensive framework for how AI agents should decompose tasks, assign them across agents and humans, monitor execution, verify completion, and recover from failure — all within an emerging "agentic web." The framework draws on principal-agent theory, transaction cost economics, contingency theory, and organizational management to design protocols for trust, reputation, permissions, and accountability in multi-agent delegation chains. The engineering is thorough and the protocol gap analysis — showing where MCP lacks permission attenuation, A2A lacks cryptographic verification, AP2 lacks conditional settlement — is immediately actionable.
 
 The paper will likely prove useful. And that usefulness is precisely what obscures its limitation.

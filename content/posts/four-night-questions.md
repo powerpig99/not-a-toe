@@ -1,9 +1,5 @@
 # Four Questions That Keep You Up at Night
 
-**A dissolution through ontological clarity**
-
----
-
 *Prompted by Andrew Côté (@Andercot):*
 
 > Things that keep me up at night:

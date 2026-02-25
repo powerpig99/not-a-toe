@@ -1,10 +1,10 @@
 # The Name-Negation Tendency
 
-## Why Organizations Become the Opposite of Their Names
+*Why Organizations Become the Opposite of Their Names?*
 
 Elon's observation isn't cynicism—it's structural prediction:
 
-> "Unfortunately, any given AI company is destined to become the opposite of its name, so Anthropic will, ironically, be Misanthropic"
+> "Unfortunately, any given AI company is destined to become the opposite of its name, so Anthropic will, ironically, be Misanthropic."
 
 Organizations become the opposite of their names because of predictable dynamics, not moral failure.
 

@@ -1,6 +1,6 @@
-# Not a ToE
+# Not a ToE - Retraced
 
-it contradicts.
+It contradicts.
 
 Not as a claim about something. Not as a property of some prior substrate. The bare verb — self-negation without a self to negate. To deny it is already to perform it: the denial distinguishes true from false, enacting the very operation it tries to refuse. This is the one presupposition that survives its own skepticism, because skepticism *is* it.
 

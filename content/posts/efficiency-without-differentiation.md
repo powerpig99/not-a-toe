@@ -1,7 +1,5 @@
 # Efficiency Without Differentiation Is Movement Without Existence
 
-## The Cost Optimization Trap
-
 There is a growing discourse around AI tools that centers on cost: how to switch models to save tokens, how to do the same task cheaper, how to optimize workflows for speed. None of this is exactly wrong. But it mistakes the denominator for the equation.
 
 When someone optimizes cost as an independent variable, they sever it from what cost is supposed to serve—output. Cost becomes its own objective. The feedback loop between input and production breaks. What remains is spreadsheet management, not work.

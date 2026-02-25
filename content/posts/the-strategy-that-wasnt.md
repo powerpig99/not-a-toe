@@ -1,6 +1,6 @@
 # The Strategy That Wasn't
 
-*On curiosity, and why naming it is already the departure*
+*On curiosity, and why naming it is already the departure.*
 
 ---
 

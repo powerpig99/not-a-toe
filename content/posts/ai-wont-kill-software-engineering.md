@@ -1,5 +1,6 @@
 # AI Won't Kill Software Engineering—It Will Expand It
-A reflection on fear, productivity, and the enduring arc of technological progress
+
+*A reflection on fear, productivity, and the enduring arc of technological progress.*
 
 ---
 

@@ -1,11 +1,6 @@
 # Agents in the Long Game of AI — Through the Ontological Clarity Framework
 
-**Book**: *Agents in the Long Game of AI* by Marjorie McShane & Sergei Nirenburg (MIT Press)
-**Framework**: Ontological Clarity
-
----
-
-## Overview
+**Book**: *Agents in the Long Game of AI* by Marjorie McShane & Sergei Nirenburg (MIT Press).
 
 This book describes Language-Endowed Intelligent Agents (LEIAs)—hybrid cognitive systems built on Ontological Semantics that combine symbolic knowledge representation with data-driven methods. The LEIA program is positioned as *disrupting the dominant paradigm* of data-driven AI by insisting that meaning, not statistical pattern-matching, must be the foundation of intelligent systems.
 
