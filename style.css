@@ -39,6 +39,7 @@ a {
 
 .post-item p {
   margin: 0;
+  font-size: clamp(1.22rem, 1.12rem + 0.55vw, 1.34rem);
 }
 
 .meta {
