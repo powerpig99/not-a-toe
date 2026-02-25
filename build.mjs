@@ -239,8 +239,20 @@ function markdownToSummaryText(markdown) {
 }
 
 function splitSentences(text) {
-  const matches = text.match(/[^.!?]+[.!?]+(?:["')\]]+)?|[^.!?]+$/g);
-  return (matches ?? []).map((sentence) => sentence.trim()).filter(Boolean);
+  const protectedText = text
+    .replace(/"([^"\n]*)"/g, (_, inner) => `"${inner.replaceAll('.', '\uE000').replaceAll('!', '\uE001').replaceAll('?', '\uE002')}"`)
+    .replace(/“([^”\n]*)”/g, (_, inner) => `“${inner.replaceAll('.', '\uE000').replaceAll('!', '\uE001').replaceAll('?', '\uE002')}”`);
+
+  const matches = protectedText.match(/[^.!?]+[.!?]+(?:["')\]]+)?|[^.!?]+$/g);
+  return (matches ?? [])
+    .map((sentence) =>
+      sentence
+        .replaceAll('\uE000', '.')
+        .replaceAll('\uE001', '!')
+        .replaceAll('\uE002', '?')
+        .trim(),
+    )
+    .filter(Boolean);
 }
 
 function isSubsectionHeading(trimmedLine) {
