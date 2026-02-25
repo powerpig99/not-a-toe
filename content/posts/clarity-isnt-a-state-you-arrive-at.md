@@ -1,7 +1,5 @@
 # Clarity Isn't a State You Arrive At. It's the Movement Itself.
 
-## The Lens That Can't See Itself
-
 Someone declares: *finally, what everyone knew in their heart is confirmed.* A court decision, contested and non-unanimous, with the most prominent dissent on record and vocal presidential opposition — yet rendered, from inside one lens, as universal inner knowledge merely awaiting expression.
 
 This isn't error. This is what cognition does. The lens doesn't first perceive clearly, then distort. The perceiving *is* already through the lens. There is no pre-lens vantage point from which distortion could be measured. "Bias" as usually conceived presupposes a correct baseline — a view from nowhere. No such view exists.

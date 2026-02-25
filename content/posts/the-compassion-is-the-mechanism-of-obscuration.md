@@ -1,6 +1,6 @@
 # The Compassion Is the Mechanism of Obscuration
 
-## On Charity, Agency, and the Feedback Loop That Cannot Be Allowed to Close
+*On Charity, Agency, and the Feedback Loop That Cannot Be Allowed to Close*
 
 ---
 

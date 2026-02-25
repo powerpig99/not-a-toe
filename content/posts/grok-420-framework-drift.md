@@ -1,7 +1,5 @@
 # What Happens When an AI Performs a Framework Instead of Operating From It
 
-## Context
-
 This is a follow-on to [The Ontological Principle Giving Me More Clarity Is the Very Thing Behind Making Grok 4.20 Smarter](). After examining the structural parallel between Grok 4.20's multi-agent architecture and my [Dialectical-TTS](https://github.com/powerpig99/Dialectical-TTS), I tested Grok 4.20 with the [Ontological Clarity framework](https://github.com/powerpig99/ontological-clarity) directly. What happened illustrates precisely where the grounding difference matters.
 
 ## The Test

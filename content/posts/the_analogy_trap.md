@@ -1,7 +1,5 @@
 # The Analogy Trap: Shared Logic Is Not Shared Structure
 
-## The Mechanism of Analogy
-
 An analogy works by exposing shared logic between two domains. "You can lead a horse to water, but you can't make it drink" operates because it isolates a single mechanism — autonomous will cannot be overridden by external arrangement — and maps it from animal behavior to human persuasion. The power of the analogy lies precisely in what it *doesn't* claim: it says nothing about horses being equivalent to people, water being equivalent to truth, or leading being equivalent to argument. It traces one structural parallel and stops.
 
 This is what makes analogy useful. It reveals a logic operating beneath surface differences. Two systems share a mechanism without sharing identity.

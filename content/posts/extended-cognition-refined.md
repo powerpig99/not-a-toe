@@ -1,9 +1,5 @@
 # Tools as Active Extensions of Cognition
 
----
-
-## The Framing Problem
-
 The extended mind thesis—Clark and Chalmers, 1998—observes that cognitive processes can extend beyond biological boundaries. The common phrasing: "tools become part of cognition."
 
 This phrasing is imprecise. It implies static merger, as if the tool dissolves into the self, erasing externality. The formulation reifies the very boundary it claims to dissolve.

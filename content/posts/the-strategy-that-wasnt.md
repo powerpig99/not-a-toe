@@ -1,6 +1,6 @@
 # The Strategy That Wasn't
 
-## On curiosity, and why naming it is already the departure
+*On curiosity, and why naming it is already the departure*
 
 ---
 
@@ -12,7 +12,7 @@ This is projection collapse: forcing what happened onto the axis of *intentional
 
 ---
 
-### The false dichotomy
+## The false dichotomy
 
 The debate frames "scrappy bottom-up innovation" against "top-down planning" — as though these are two strategies to choose between. Both terms live on the same axis: *organizational decision-making*. The actual generative mechanism doesn't register on that axis at all.
 
@@ -22,7 +22,7 @@ The Google "20% time" comparison is instructive as a failure case. Google named 
 
 ---
 
-### What actually operates
+## What actually operates
 
 Strip the narrative. What's left?
 
@@ -36,7 +36,7 @@ The locus is individual choice, not organizational condition. This is precisely 
 
 ---
 
-### The observer trap
+## The observer trap
 
 Here is where the debate reveals something structural.
 
@@ -48,7 +48,7 @@ Success creates retroactive legibility. Then people debate which *kind* of legib
 
 ---
 
-### The structural impossibility
+## The structural impossibility
 
 "Let's have a side-project strategy" is not merely self-defeating in the way "try to be spontaneous" is. It's actively corrosive.
 
@@ -70,7 +70,7 @@ No organizational move produces the choice. No organizational move prevents it e
 
 ---
 
-### What this dissolves
+## What this dissolves
 
 The debate between "organic innovation" and "top-down planning" doesn't need resolution. It needs dissolution. Neither term applies to what generated the outcomes. Both project organizational locus onto something that operated at individual locus.
 

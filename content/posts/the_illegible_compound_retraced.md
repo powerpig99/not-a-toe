@@ -1,6 +1,6 @@
 # The Illegible Compound — Retraced
 
-## Why the Real Barrier to Learning Is Never Where We Look for It
+*Why the Real Barrier to Learning Is Never Where We Look for It*
 
 *Looking is observing. Learning is being.*
 
