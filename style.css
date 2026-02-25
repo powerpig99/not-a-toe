@@ -44,7 +44,8 @@ a {
 
 .meta {
   margin: 0 0 10px;
-  font-size: 0.95rem;
+  font-size: clamp(1.1rem, 1.02rem + 0.35vw, 1.22rem);
+  line-height: 1.45;
   opacity: 0.8;
 }
 

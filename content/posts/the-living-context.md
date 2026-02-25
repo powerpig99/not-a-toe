@@ -4,15 +4,19 @@ The viral story goes: engineer writes spec, points Claude at Asana board, agents
 
 This misses the mechanism.
 
-A spec is a static projection—a finite slice of what the developer distinguishes about the problem. It captures distinctions that survived articulation. But articulation is lossy. The spec freezes what the developer knew at the moment of writing, in the dimensions that language and tickets can represent. Everything orthogonal to those dimensions—the tacit sense of how pieces interact, the felt wrongness when an architecture doesn't fit, the accumulated intuition from months of iterating with the tool—drops out.
+## The spec as delta
 
-What actually made Monday morning work wasn't just the spec. The spec does real work—it's a projection that carries genuine distinctions about the problem. But a spec operates within a projection-space it doesn't create. The living context the developer had already built through sustained interaction with Claude Code—custom instructions, project docs, CLAUDE.md layers, skill files, hooks, sub-agent patterns—is what made the spec *sufficient*. Each of these is a distinction that survived repeated testing against the tool's actual behavior. Together they form the dense lattice the spec activates within.
+A spec contains the context the living context doesn't already hold. It's the delta—the specific distinctions about *this* feature, *this* problem, that the accumulated lattice hasn't encountered yet.
+
+But the viral framing treats the delta as the whole. "Write better specs" assumes the spec is the load-bearing structure—that what you articulate into tickets is what makes agents work. This confuses the missing piece with the foundation it plugs into.
+
+How much the spec has to carry depends entirely on what's already there. Thin living context: the spec has to carry everything—architecture, conventions, edge cases, tool behavior, interaction patterns—and it can't. No static document holds that much. Dense living context: the spec only needs to carry what's new, and the rest propagates from the lattice already in place. The same spec, handed to a developer who hasn't built that context, produces different results. The spec hasn't changed. The projection-space it activates within has.
+
+What actually made Monday morning work wasn't just the spec. The spec does real work—it carries genuine distinctions about the problem. But it operates within a projection-space it doesn't create. The living context the developer had already built through sustained interaction with Claude Code—custom instructions, project docs, CLAUDE.md layers, skill files, hooks, sub-agent patterns—is what made the spec *sufficient*. Each of these is a distinction that survived repeated testing against the tool's actual behavior. Together they form the dense lattice the spec activates within. The spec completes the context. It doesn't replace it.
 
 ## Context engineering, not spec engineering
 
-"Context engineering" sounds like practical advice about prompting. It isn't. The model *is* context-dependent projection selection. There's no model separate from its context receiving instructions. There's one process: which distinctions propagate through the projection cascade. The spec is input context. But it activates against architectural context (what the model can represent) and training context (what distinctions stabilized into the weights). The living context the developer builds is the alignment layer between all three—the accumulated shaping of which distinctions actually survive into working code.
-
-This is why the same spec, handed to a developer who hasn't built that living context, produces different results. The spec hasn't changed. The projection-space it activates within has.
+"Context engineering" sounds like practical advice about prompting. It isn't. The model *is* context-dependent projection selection. There's no model separate from its context receiving instructions. There's one process: which distinctions propagate through the projection cascade. The spec is input context—the delta. But it activates against architectural context (what the model can represent) and training context (what distinctions stabilized into the weights). The living context the developer builds is the alignment layer between all three—the accumulated shaping of which distinctions actually survive into working code.
 
 ## The self-referential loop
 
@@ -22,7 +26,7 @@ This loop *is* the mechanism behind every "1000x developer" story. Not specs. No
 
 ## What the viral stories obscure
 
-Viral stories optimize for transmissibility, which means compressing the mechanism into a narrative: engineer → spec → agents → result. The compression drops exactly what matters—the months of iterative context-building that made the spec *sufficient*. It's the same pattern as compressing "years of deliberate practice" into "talented person performs." The compression isn't wrong. It's incomplete in the dimension that matters most.
+Viral stories optimize for transmissibility, which means compressing the mechanism into a narrative: engineer → spec → agents → result. The compression drops exactly what matters—the months of iterative context-building that made the spec sufficient as a delta rather than insufficient as a whole. It's the same pattern as compressing "years of deliberate practice" into "talented person performs." The compression isn't wrong. It's incomplete in the dimension that matters most.
 
 The people sharing these stories aren't lying. They're projecting onto the dimensions their audience can receive: specs, agent counts, tooling features. The dimension they can't transmit—the felt, accumulated, self-referential living context—doesn't compress into a tweet. So it drops out. And everyone optimizes for the visible dimensions while the invisible one does the actual work.
 
