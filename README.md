@@ -6,7 +6,17 @@
 2. The first line must be `# Title`.
 3. Filename is the post slug and permalink (`/posts/<filename>/`).
 
-## Build
+## Publish (default)
+
+For normal publishing, just commit and push. GitHub Actions handles mtime restore and build:
+
+```bash
+git add content/posts/<slug>.md
+git commit -m "Add <title> essay"
+git push origin main
+```
+
+## Local build (optional)
 
 Run:
 
