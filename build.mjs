@@ -9,6 +9,7 @@ const SITE = {
   baseUrl: 'https://powerpig99.github.io/not-a-toe/',
   language: 'en-US',
   pinnedSlug: 'not-a-theory-of-everything',
+  socialImage: 'images/toe-bang.png',
 };
 
 const WORDS_PER_MINUTE = 265;
@@ -315,6 +316,7 @@ function sortPosts(posts) {
 function renderPage({ title, description, content, canonicalPath, ogType = 'website' }) {
   const fullTitle = title ? `${title} | ${SITE.title}` : SITE.title;
   const canonicalUrl = absoluteUrl(canonicalPath);
+  const socialImageUrl = absoluteUrl(SITE.socialImage);
 
   return `<!doctype html>
 <html lang="${SITE.language}">
@@ -333,9 +335,11 @@ function renderPage({ title, description, content, canonicalPath, ogType = 'webs
   <meta property="og:url" content="${escapeHtml(canonicalUrl)}">
   <meta property="og:site_name" content="${escapeHtml(SITE.title)}">
   <meta property="og:locale" content="${escapeHtml(SITE.language)}">
+  <meta property="og:image" content="${escapeHtml(socialImageUrl)}">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="${escapeHtml(fullTitle)}">
   <meta name="twitter:description" content="${escapeHtml(description)}">
+  <meta name="twitter:image" content="${escapeHtml(socialImageUrl)}">
 </head>
 <body>
   <main class="wrap">
