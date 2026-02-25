@@ -312,7 +312,7 @@ function sortPosts(posts) {
   return pinned ? [pinned, ...rest] : rest;
 }
 
-function renderPage({ title, description, content, canonicalPath, ogType = 'website' }) {
+function renderPage({ title, description, content, canonicalPath }) {
   const fullTitle = title ? `${title} | ${SITE.title}` : SITE.title;
   const canonicalUrl = absoluteUrl(canonicalPath);
 
@@ -327,15 +327,6 @@ function renderPage({ title, description, content, canonicalPath, ogType = 'webs
   <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
   <link rel="icon" type="image/svg+xml" href="${escapeHtml(faviconDataUri)}">
   <link rel="stylesheet" href="${withBase(`style.css?v=${styleVersion}`)}">
-  <meta property="og:title" content="${escapeHtml(fullTitle)}">
-  <meta property="og:description" content="${escapeHtml(description)}">
-  <meta property="og:type" content="${escapeHtml(ogType)}">
-  <meta property="og:url" content="${escapeHtml(canonicalUrl)}">
-  <meta property="og:site_name" content="${escapeHtml(SITE.title)}">
-  <meta property="og:locale" content="${escapeHtml(SITE.language)}">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="${escapeHtml(fullTitle)}">
-  <meta name="twitter:description" content="${escapeHtml(description)}">
 </head>
 <body>
   <main class="wrap">
@@ -397,7 +388,6 @@ ${post.htmlBody}
     description: post.description || SITE.description,
     content,
     canonicalPath: post.outputPath,
-    ogType: 'article',
   });
 }
 
