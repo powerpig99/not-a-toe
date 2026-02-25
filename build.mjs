@@ -15,7 +15,6 @@ const SITE = {
 
 const WORDS_PER_MINUTE = 265;
 const SUMMARY_MAX_SENTENCES = 3;
-const THEMATIC_BREAK_PATTERN = /^(-{3,}|\*{3,}|_{3,})$/;
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const contentDir = path.join(scriptDir, 'content', 'posts');
@@ -244,74 +243,55 @@ function splitSentences(text) {
   return (matches ?? []).map((sentence) => sentence.trim()).filter(Boolean);
 }
 
-function isThematicBreak(trimmedLine) {
-  return THEMATIC_BREAK_PATTERN.test(trimmedLine);
+function isSubsectionHeading(trimmedLine) {
+  return /^(##|###)\s+/.test(trimmedLine);
 }
 
-function isSubtitleBoundary(trimmedLine) {
-  if (!trimmedLine) return false;
+function isNonSentenceBlockLine(trimmedLine) {
+  if (/^(-{3,}|\*{3,}|_{3,})$/.test(trimmedLine)) return true;
   if (/^#{1,6}\s+/.test(trimmedLine)) return true;
-  if (isThematicBreak(trimmedLine)) return true;
-  if (/^\*\*[^*].*[^*]\*\*$/.test(trimmedLine)) return true;
-  if (/^\*[^*].*[^*]\*$/.test(trimmedLine)) return true;
-  if (/^__[^_].*[^_]__$/.test(trimmedLine)) return true;
-  if (/^_[^_].*[^_]_$/.test(trimmedLine)) return true;
+  if (/^([-*+]|\d+\.)\s+/.test(trimmedLine)) return true;
+  if (/^\|.*\|$/.test(trimmedLine)) return true;
+  if (/^!\[[^\]]*]\([^)]+\)$/.test(trimmedLine)) return true;
+  if (/^<[^>]+>$/.test(trimmedLine)) return true;
   return false;
 }
 
-function isLikelyPlainSubtitle(line, nextSignificantLine) {
-  if (!line || !nextSignificantLine) return false;
-  if (!isThematicBreak(nextSignificantLine)) return false;
-
-  const text = line.trim();
-  if (!text) return false;
-  if (isSubtitleBoundary(text)) return true;
-
-  const hasTerminalPunctuation = /[.!?]["')\]]*$/.test(text);
-  if (hasTerminalPunctuation) return false;
-
-  return text.length <= 140;
-}
-
-function extractSummaryBeforeSubtitle(markdownBody) {
+function extractSummaryBeforeSubsection(markdownBody) {
   const lines = markdownBody.split(/\r?\n/);
-  const significantLines = lines.map((line) => line.trim()).filter(Boolean);
-
-  if (significantLines.length >= 2 && isLikelyPlainSubtitle(significantLines[0], significantLines[1])) {
-    return '';
-  }
-
-  const summaryLines = [];
+  const sentences = [];
+  let inCodeFence = false;
 
   for (const line of lines) {
     const trimmed = line.trim();
-    if (!trimmed) {
-      if (summaryLines.length) break;
+
+    if (/^(```|~~~)/.test(trimmed)) {
+      inCodeFence = !inCodeFence;
       continue;
     }
+    if (inCodeFence) continue;
 
-    if (isSubtitleBoundary(trimmed)) {
+    if (isSubsectionHeading(trimmed)) {
       break;
     }
+    if (!trimmed) continue;
+    if (isNonSentenceBlockLine(trimmed)) continue;
 
-    summaryLines.push(trimmed);
+    const proseLine = trimmed.replace(/^>\s?/, '');
+    const plain = markdownToSummaryText(proseLine);
+    if (!plain) continue;
+
+    const lineSentences = splitSentences(plain);
+    for (const sentence of lineSentences) {
+      if (!/[A-Za-z0-9]/.test(sentence)) continue;
+      sentences.push(sentence);
+      if (sentences.length >= SUMMARY_MAX_SENTENCES) {
+        return sentences.join(' ');
+      }
+    }
   }
 
-  if (!summaryLines.length) {
-    return '';
-  }
-
-  const plain = markdownToSummaryText(summaryLines.join(' '));
-  if (!plain) {
-    return '';
-  }
-
-  const sentences = splitSentences(plain);
-  if (!sentences.length) {
-    return '';
-  }
-
-  return sentences.slice(0, SUMMARY_MAX_SENTENCES).join(' ');
+  return sentences.join(' ');
 }
 
 function wordCount(text) {
@@ -384,7 +364,7 @@ function readPosts(files) {
     const markdownBody = lines.slice(1).join('\n').trimStart();
     const htmlBody = markdownToHtml(markdownBody);
     const plainText = markdownToSummaryText(markdownBody);
-    const summary = extractSummaryBeforeSubtitle(markdownBody);
+    const summary = extractSummaryBeforeSubsection(markdownBody);
     const dateIso = getFileDate(fullPath);
     const words = wordCount(plainText);
 
