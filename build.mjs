@@ -23,6 +23,7 @@ const contentDir = path.join(scriptDir, 'content', 'posts');
 const staticDir = path.join(scriptDir, 'static');
 const outputDir = path.join(scriptDir, 'public');
 const styleFile = path.join(scriptDir, 'style.css');
+const styleVersion = String(Math.floor(fs.statSync(styleFile).mtimeMs));
 const faviconSvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="black"/><text x="4" y="36" fill="white" font-family="Georgia, serif" font-size="9">Not_a_ToE</text></svg>`;
 const faviconDataUri = `data:image/svg+xml,${encodeURIComponent(faviconSvg)}`;
 
@@ -330,7 +331,7 @@ function renderPage({ title, description, content, canonicalPath, ogType = 'webs
   <meta name="description" content="${escapeHtml(description)}">
   <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
   <link rel="icon" type="image/svg+xml" href="${escapeHtml(faviconDataUri)}">
-  <link rel="stylesheet" href="${withBase('style.css')}">
+  <link rel="stylesheet" href="${withBase(`style.css?v=${styleVersion}`)}">
   <meta property="og:title" content="${escapeHtml(fullTitle)}">
   <meta property="og:description" content="${escapeHtml(description)}">
   <meta property="og:type" content="${escapeHtml(ogType)}">
