@@ -14,7 +14,8 @@ const SITE = {
 };
 
 const WORDS_PER_MINUTE = 265;
-const EXCERPT_LIMIT = 300;
+const SUMMARY_MAX_SENTENCES = 3;
+const THEMATIC_BREAK_PATTERN = /^(-{3,}|\*{3,}|_{3,})$/;
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const contentDir = path.join(scriptDir, 'content', 'posts');
@@ -238,19 +239,79 @@ function markdownToSummaryText(markdown) {
     .trim();
 }
 
-function buildExcerpt(text, limit = EXCERPT_LIMIT) {
-  if (text.length <= limit) {
-    return text;
+function splitSentences(text) {
+  const matches = text.match(/[^.!?]+[.!?]+(?:["')\]]+)?|[^.!?]+$/g);
+  return (matches ?? []).map((sentence) => sentence.trim()).filter(Boolean);
+}
+
+function isThematicBreak(trimmedLine) {
+  return THEMATIC_BREAK_PATTERN.test(trimmedLine);
+}
+
+function isSubtitleBoundary(trimmedLine) {
+  if (!trimmedLine) return false;
+  if (/^#{1,6}\s+/.test(trimmedLine)) return true;
+  if (isThematicBreak(trimmedLine)) return true;
+  if (/^\*\*[^*].*[^*]\*\*$/.test(trimmedLine)) return true;
+  if (/^\*[^*].*[^*]\*$/.test(trimmedLine)) return true;
+  if (/^__[^_].*[^_]__$/.test(trimmedLine)) return true;
+  if (/^_[^_].*[^_]_$/.test(trimmedLine)) return true;
+  return false;
+}
+
+function isLikelyPlainSubtitle(line, nextSignificantLine) {
+  if (!line || !nextSignificantLine) return false;
+  if (!isThematicBreak(nextSignificantLine)) return false;
+
+  const text = line.trim();
+  if (!text) return false;
+  if (isSubtitleBoundary(text)) return true;
+
+  const hasTerminalPunctuation = /[.!?]["')\]]*$/.test(text);
+  if (hasTerminalPunctuation) return false;
+
+  return text.length <= 140;
+}
+
+function extractSummaryBeforeSubtitle(markdownBody) {
+  const lines = markdownBody.split(/\r?\n/);
+  const significantLines = lines.map((line) => line.trim()).filter(Boolean);
+
+  if (significantLines.length >= 2 && isLikelyPlainSubtitle(significantLines[0], significantLines[1])) {
+    return '';
   }
 
-  const partial = text.slice(0, limit);
-  const boundary = Math.max(partial.lastIndexOf('. '), partial.lastIndexOf('! '), partial.lastIndexOf('? '));
-  if (boundary > 120) {
-    return partial.slice(0, boundary + 1).trim();
+  const summaryLines = [];
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed) {
+      if (summaryLines.length) break;
+      continue;
+    }
+
+    if (isSubtitleBoundary(trimmed)) {
+      break;
+    }
+
+    summaryLines.push(trimmed);
   }
 
-  const space = partial.lastIndexOf(' ');
-  return `${partial.slice(0, space > 0 ? space : limit).trim()}...`;
+  if (!summaryLines.length) {
+    return '';
+  }
+
+  const plain = markdownToSummaryText(summaryLines.join(' '));
+  if (!plain) {
+    return '';
+  }
+
+  const sentences = splitSentences(plain);
+  if (!sentences.length) {
+    return '';
+  }
+
+  return sentences.slice(0, SUMMARY_MAX_SENTENCES).join(' ');
 }
 
 function wordCount(text) {
@@ -323,6 +384,7 @@ function readPosts(files) {
     const markdownBody = lines.slice(1).join('\n').trimStart();
     const htmlBody = markdownToHtml(markdownBody);
     const plainText = markdownToSummaryText(markdownBody);
+    const summary = extractSummaryBeforeSubtitle(markdownBody);
     const dateIso = getFileDate(fullPath);
     const words = wordCount(plainText);
 
@@ -334,8 +396,8 @@ function readPosts(files) {
       readingTime: Math.max(1, Math.ceil(words / WORDS_PER_MINUTE)),
       htmlBody,
       plainText,
-      excerpt: buildExcerpt(plainText),
-      description: buildExcerpt(plainText, 220),
+      excerpt: summary,
+      description: summary,
       markdownSource: source.endsWith('\n') ? source : `${source}\n`,
       outputPath: `posts/${slug}/`,
       sourcePath: path.join('content', 'posts', fileName),
@@ -395,10 +457,11 @@ ${content}
 function renderIndex(posts) {
   const cards = posts
     .map((post) => {
+      const excerptHtml = post.excerpt ? `<p>${escapeHtml(post.excerpt)}</p>` : '';
       return `    <article class="post-item">
       <h2><a href="${withBase(post.outputPath)}">${escapeHtml(post.title)}</a></h2>
       <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
-      <p>${escapeHtml(post.excerpt)}</p>
+      ${excerptHtml ? `\n      ${excerptHtml}` : ''}
     </article>`;
     })
     .join('\n');
