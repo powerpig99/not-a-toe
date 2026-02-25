@@ -5,6 +5,7 @@
 1. Add essays in `content/posts/*.md`.
 2. The first line must be `# Title`.
 3. Filename is the post slug and permalink (`/posts/<filename>/`).
+4. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) for standardized LLM output.
 
 ## Publish (default)
 
