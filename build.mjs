@@ -9,7 +9,7 @@ const SITE = {
   baseUrl: 'https://powerpig99.github.io/not-a-toe/',
   language: 'en-US',
   pinnedSlug: 'not-a-theory-of-everything',
-  socialImage: 'images/toe-bang.png',
+  socialImage: 'https://raw.githubusercontent.com/powerpig99/not-a-toe/main/assets/toe-bang.png',
 };
 
 const WORDS_PER_MINUTE = 265;
@@ -17,7 +17,6 @@ const EXCERPT_LIMIT = 300;
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const contentDir = path.join(scriptDir, 'content', 'posts');
-const staticDir = path.join(scriptDir, 'static');
 const outputDir = path.join(scriptDir, 'public');
 const styleFile = path.join(scriptDir, 'style.css');
 const styleVersion = String(Math.floor(fs.statSync(styleFile).mtimeMs));
@@ -316,7 +315,7 @@ function sortPosts(posts) {
 function renderPage({ title, description, content, canonicalPath, ogType = 'website' }) {
   const fullTitle = title ? `${title} | ${SITE.title}` : SITE.title;
   const canonicalUrl = absoluteUrl(canonicalPath);
-  const socialImageUrl = absoluteUrl(SITE.socialImage);
+  const socialImageUrl = SITE.socialImage;
 
   return `<!doctype html>
 <html lang="${SITE.language}">
@@ -415,9 +414,7 @@ function xmlEscape(text) {
 }
 
 function generateSitemap(posts) {
-  const staticRows = [absoluteUrl(''), absoluteUrl('llms.txt'), absoluteUrl('llms-full.txt')].map(
-    (url) => `  <url><loc>${xmlEscape(url)}</loc></url>`,
-  );
+  const staticRows = [absoluteUrl('')].map((url) => `  <url><loc>${xmlEscape(url)}</loc></url>`);
   const postRows = posts.map(
     (post) =>
       `  <url><loc>${xmlEscape(absoluteUrl(post.outputPath))}</loc><lastmod>${xmlEscape(post.dateIso)}</lastmod></url>`,
@@ -428,41 +425,6 @@ function generateSitemap(posts) {
 ${rows}
 </urlset>
 `;
-}
-
-function generateLlmsTxt(posts) {
-  const lines = [
-    `# ${SITE.title}`,
-    `> ${SITE.description}`,
-    '',
-    '## Essays',
-  ];
-
-  for (const post of posts) {
-    lines.push(`- [${post.title}](${absoluteUrl(post.outputPath)}): ${post.description}`);
-  }
-
-  lines.push('');
-  lines.push(`Full corpus: ${absoluteUrl('llms-full.txt')}`);
-  return `${lines.join('\n')}\n`;
-}
-
-function generateLlmsFull(posts) {
-  const sections = [`# ${SITE.title}`, `> ${SITE.description}`, ''];
-
-  for (const post of posts) {
-    sections.push(`## ${post.title}`);
-    sections.push(`URL: ${absoluteUrl(post.outputPath)}`);
-    sections.push(`Date: ${post.dateDisplay}`);
-    sections.push(`Reading time: ${post.readingTime} min`);
-    sections.push('');
-    sections.push(post.markdownSource.trimEnd());
-    sections.push('');
-    sections.push('---');
-    sections.push('');
-  }
-
-  return `${sections.join('\n')}\n`;
 }
 
 function cleanPublicDir() {
@@ -477,10 +439,6 @@ function writeFile(relativePath, contents) {
 }
 
 function copyStaticAssets() {
-  if (fs.existsSync(staticDir)) {
-    fs.cpSync(staticDir, outputDir, { recursive: true });
-  }
-
   if (!fs.existsSync(styleFile)) {
     throw new Error('style.css not found.');
   }
@@ -501,11 +459,8 @@ function build() {
     const older = index < posts.length - 1 ? posts[index + 1] : null;
 
     writeFile(path.join(post.outputPath, 'index.html'), renderPost(post, newer, older));
-    writeFile(path.join(post.outputPath, 'essay.md'), post.markdownSource);
   });
 
-  writeFile('llms.txt', generateLlmsTxt(posts));
-  writeFile('llms-full.txt', generateLlmsFull(posts));
   writeFile('sitemap.xml', generateSitemap(posts));
   writeFile('robots.txt', `User-agent: *\nAllow: /\nSitemap: ${absoluteUrl('sitemap.xml')}\n`);
 }
