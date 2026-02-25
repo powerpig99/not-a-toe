@@ -239,9 +239,23 @@ function markdownToSummaryText(markdown) {
 }
 
 function splitSentences(text) {
+  const protectQuotedPunctuation = (inner) => {
+    let terminalIndex = inner.length - 1;
+    while (terminalIndex >= 0 && /\s/.test(inner[terminalIndex])) {
+      terminalIndex -= 1;
+    }
+
+    return inner.replace(/[.!?]/g, (char, index) => {
+      if (index === terminalIndex) return char;
+      if (char === '.') return '\uE000';
+      if (char === '!') return '\uE001';
+      return '\uE002';
+    });
+  };
+
   const protectedText = text
-    .replace(/"([^"\n]*)"/g, (_, inner) => `"${inner.replaceAll('.', '\uE000').replaceAll('!', '\uE001').replaceAll('?', '\uE002')}"`)
-    .replace(/“([^”\n]*)”/g, (_, inner) => `“${inner.replaceAll('.', '\uE000').replaceAll('!', '\uE001').replaceAll('?', '\uE002')}”`);
+    .replace(/"([^"\n]*)"/g, (_, inner) => `"${protectQuotedPunctuation(inner)}"`)
+    .replace(/“([^”\n]*)”/g, (_, inner) => `“${protectQuotedPunctuation(inner)}”`);
 
   const matches = protectedText.match(/[^.!?]+[.!?]+(?:["')\]]+)?|[^.!?]+$/g);
   return (matches ?? [])
