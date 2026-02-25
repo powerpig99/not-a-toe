@@ -19,16 +19,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # Required so `git log -1 -- <file>` works for every post file.
+          # Required so `git log -1 -- <file>` inside build.mjs works for every post file.
           fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-
-      - name: Restore post file mtimes from git
-        run: scripts/restore-post-mtimes.sh
 
       - name: Build site
         run: node build.mjs

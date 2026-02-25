@@ -21,14 +21,13 @@ git push origin main
 Run:
 
 ```bash
-scripts/restore-post-mtimes.sh
 node build.mjs
 ```
 
 For deterministic local checks (no stale `public/` reads), run the build and check in one command:
 
 ```bash
-scripts/restore-post-mtimes.sh && node build.mjs && rg -n "style.css\\?v=" public/index.html
+node build.mjs && rg -n "style.css\\?v=" public/index.html
 ```
 
 This generates `public/` with:

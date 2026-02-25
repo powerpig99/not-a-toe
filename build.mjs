@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import { execFileSync } from 'node:child_process';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -256,13 +257,55 @@ function wordCount(text) {
   return text.split(/\s+/).filter(Boolean).length;
 }
 
-function readPosts() {
-  const files = fs
+function listPostFiles() {
+  return fs
     .readdirSync(contentDir)
     .filter((file) => file.endsWith('.md'))
     .sort((a, b) => a.localeCompare(b));
+}
 
-  return files.map((fileName) => {
+function restorePostMtimesFromGit(files) {
+  let restored = 0;
+  let skipped = 0;
+
+  for (const fileName of files) {
+    const fullPath = path.join(contentDir, fileName);
+    const relativePath = path.relative(scriptDir, fullPath).split(path.sep).join('/');
+
+    let timestamp;
+    try {
+      timestamp = execFileSync('git', ['log', '-1', '--format=%cI', '--', relativePath], {
+        cwd: scriptDir,
+        encoding: 'utf8',
+        stdio: ['ignore', 'pipe', 'ignore'],
+      }).trim();
+    } catch {
+      skipped += 1;
+      continue;
+    }
+
+    if (!timestamp) {
+      skipped += 1;
+      continue;
+    }
+
+    const date = new Date(timestamp);
+    if (Number.isNaN(date.getTime())) {
+      skipped += 1;
+      continue;
+    }
+
+    fs.utimesSync(fullPath, date, date);
+    restored += 1;
+  }
+
+  console.log(`Restored mtimes for ${restored} files (skipped ${skipped}).`);
+}
+
+function readPosts(files) {
+  const postFiles = files ?? listPostFiles();
+
+  return postFiles.map((fileName) => {
     const fullPath = path.join(contentDir, fileName);
     const slug = path.basename(fileName, '.md');
     const source = fs.readFileSync(fullPath, 'utf8').replace(/^\uFEFF/, '');
@@ -447,10 +490,13 @@ function copyStaticAssets() {
 }
 
 function build() {
+  const files = listPostFiles();
+  restorePostMtimesFromGit(files);
+
   cleanPublicDir();
   copyStaticAssets();
 
-  const posts = sortPosts(readPosts());
+  const posts = sortPosts(readPosts(files));
 
   writeFile('index.html', renderIndex(posts));
 
