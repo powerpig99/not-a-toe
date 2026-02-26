@@ -1,10 +1,10 @@
 # Immortality and the Two-Infinity Confusion
 
-Immortality gets framed as the ultimate prize—escape from death, endless time, existence without termination. But there are two different things that "infinite" can mean, and they operate at different levels entirely.
+Immortality gets framed as the ultimate prize — escape from death, endless time, existence without termination. But there are two different things that "infinite" can mean, and they operate at different levels entirely.
 
----
+## Infinite potentiality
 
-**Infinite potentiality** is what we inhabit. It's the open-ended extension of boundaries—the horizon that recedes as you approach it, possibility multiplying without limit. The canvas is finite at any moment, but it stretches. There's always another edge to push toward, another distinction to draw, another thing that doesn't exist yet.
+Infinite potentiality is what we inhabit. It's the open-ended extension of boundaries—the horizon that recedes as you approach it, possibility multiplying without limit. The canvas is finite at any moment, but it stretches. There's always another edge to push toward, another distinction to draw, another thing that doesn't exist yet.
 
 This is where meaning operates. The paint is unlimited; the frame gives it form.
 
@@ -12,9 +12,7 @@ This is where meaning operates. The paint is unlimited; the frame gives it form.
 
 Absolute infinity is the precondition of infinite potentiality. One makes the other possible. They're not two points on the same scale—one is the scale, the other is what the scale measures against.
 
----
-
-Here's the structural issue with immortality:
+## The structural issue with immortality
 
 We exist as projections. Differentiated existence—having boundaries, being this rather than that, extending in time—is projection from the substrate into finite dimensions. That's not a flaw; it's the condition of being anything at all.
 
@@ -22,9 +20,7 @@ The substrate can't be inhabited by projections. Not because it's empty, but bec
 
 So when immortality is imagined as escape into boundlessness—actual removal of all limits rather than endless extension within limits—it's imagining something structurally incoherent. Not arriving at a bad place, but ceasing to be the kind of thing that arrives anywhere.
 
----
-
-**The same confusion appears everywhere.**
+## The same confusion appears everywhere
 
 **AGI / Superintelligence**: Intelligence within projection is infinite potentiality—endlessly extensible, always another problem to solve, always another edge. But the narrative imagines intelligence reaching completeness, achieving substrate-level omniscience. A projected phenomenon treated as if it can swallow its own precondition.
 
@@ -34,7 +30,7 @@ So when immortality is imagined as escape into boundlessness—actual removal of
 
 **Everyday language**: "Absolutely," "100%," "completely," "totally," "infinite"—these words borrow substrate-level properties and paste them onto projected phenomena. Nothing within projection is absolute. The words feel powerful precisely because they gesture at the substrate while applying to things that can't have substrate properties.
 
----
+## The pattern
 
 The pattern: confusing precondition with destination.
 

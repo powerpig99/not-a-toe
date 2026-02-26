@@ -4,8 +4,6 @@ What's uniquely individual and free is the mind. Everything else is substrate—
 
 Mind is the only thing that isn't substrate *to itself*. A thought, once thought, becomes object. A sentence, once written, becomes artifact. An idea, once articulated, joins the known. The generator is never among the generated.
 
----
-
 ## The Asymmetry
 
 What makes mind "free" isn't some positive property it possesses. It's that mind is the process of not yet being fixed. Freedom is the gap between the current state of substrate and the next act of projection. Try to locate it, and you've already made it substrate.

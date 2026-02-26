@@ -4,8 +4,6 @@ The role of a platform is empowering users to make their own decisions more effi
 
 This observation tends to get filed under "corporate greed" or "enshittification" or "innovator's dilemma." Each framing implies a departure from the original trajectory — a corruption, a betrayal, a failure of nerve. Strip the moral framing and something more structural appears: the platform didn't drift. It completed.
 
----
-
 ## The Optimization Target Contains Its Own Inversion
 
 A platform that optimizes for "decision efficiency" measures how fast users reach outcomes. Every intervention that reduces friction — better search, smarter ranking, cleaner UI — registers as improvement on this axis.

@@ -1,7 +1,5 @@
 # The Collapsed Debate
 
-*Why the AI X-Risk Argument Never Resolves — And What That Tells Us.*
-
 A recent 20-page report systematically assessed the "best counterarguments to AI existential risk." It cataloged five categories — technical feasibility, alignment solvability, development timelines, flawed reasoning, and risk prioritization — rated each for soundness, and produced a balanced synthesis table with nuanced conclusions. It's thorough, well-cited, and carefully hedged.
 
 It also can't see the thing that would actually move the conversation forward.

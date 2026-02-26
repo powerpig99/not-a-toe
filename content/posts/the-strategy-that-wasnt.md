@@ -1,16 +1,8 @@
 # The Strategy That Wasn't
 
-*On curiosity, and why naming it is already the departure.*
-
----
-
-The debate over Anthropic's "side-project strategy" makes a precise error: it replaces a mechanism with its retrospective projection, then debates the projection.
-
-Claude Code started as Boris Cherny scratching an itch. Cowork followed the same pattern. MCP emerged from engineers needing tool interop. None of these were strategy. They were individuals following curiosity — choosing to build before anyone framed the choice. The "strategy" arrived later — when observers (including the creators themselves, looking back) needed a legible narrative to explain outcomes.
+The debate over Anthropic's "side-project strategy" makes a precise error: it replaces a mechanism with its retrospective projection, then debates the projection. Claude Code started as Boris Cherny scratching an itch. Cowork followed the same pattern. MCP emerged from engineers needing tool interop. None of these were strategy — they were individuals following curiosity, choosing to build before anyone framed the choice.
 
 This is projection collapse: forcing what happened onto the axis of *intentional planning* when it operated on a different axis entirely — one with no name because naming it is already the collapse.
-
----
 
 ## The false dichotomy
 

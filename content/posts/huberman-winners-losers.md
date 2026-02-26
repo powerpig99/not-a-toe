@@ -2,8 +2,6 @@
 
 Andrew Huberman: "Someone I really respect said this, 'There are basically two kinds of people in life. Winners and losers.' And the definition is this—losers take things that happen to them... and they wallow and they use it for self or outward destruction." "Winners take whatever they feel, it sucks, and they transmute it into things that are good for themselves and for the world."
 
----
-
 ## The Moral Framing to Strip
 
 "Winners" and "losers" smuggle in evaluation. The statement presents itself as definitional but actually prescribes: you *should* transmute, and if you don't, you're in the inferior category. The framing is moral exhortation dressed as observation.

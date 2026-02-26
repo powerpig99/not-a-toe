@@ -6,6 +6,8 @@ Bustamante's answer is straightforward and appealing: in any conflict—personal
 
 It works. Actively reconstructing another's viewpoint is one of the most effective tools for de-escalation and connection. Practiced consistently, it delivers the rapid gains he describes.
 
+## The structural confusion
+
 Yet the framing rests on a structural confusion: it treats perception and perspective as two separate things, then asks you to switch from one to the other—as though you could step out of your own perceiving and into a neutral or external stance.
 
 My reply to the post was this:

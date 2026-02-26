@@ -6,6 +6,8 @@ A benchmark is a fixed formal structure: defined format, scoring criteria, succe
 
 This isn't the usual "teaching to the test" worry. It's not that models will overfit to ARC's specific puzzles, though they will. It's that *any* benchmark for fluid intelligence forces the dimension of "operates without prior frame" onto the axis of "performs within this specific frame." You're measuring the shadow and calling it the light source.
 
+## The pattern
+
 The pattern plays out predictably. Each version of ARC gets solved. Chollet releases ARC-AGI-2. The goalposts shift. This is presented as the benchmark working as intended—tracking the remaining gap. But what's actually happening is that the *formalization* keeps getting consumed, not that fluid intelligence keeps getting closer. Each test captures a static snapshot of what novelty looked like at the time the test was designed. Intelligence moves. The snapshot doesn't.
 
 This connects to a deeper point about the "AGI gap." Chollet recently said we'll have AGI when it's no longer possible to point to something humans can do and AI can't—and expects that by 2030. But each capability gain redefines what counts as the gap. The remaining one percent after closing ninety-nine isn't one percent of the original problem. It's a freshly visible hundred percent that only became articulable from the new vantage point. The gap appears to shrink against a fixed reference, but the reference isn't fixed.

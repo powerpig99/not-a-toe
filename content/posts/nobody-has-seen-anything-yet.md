@@ -2,6 +2,8 @@
 
 What changes now is not whether cognition is distributed—it always has been, across notation, tools, institutions, other minds. What changes is the cycle time of the iteration loop itself.
 
+## Iteration compressed
+
 Current tools already demonstrate this. Embed an AI system in a knowledge base—a codebase, a research literature, a legal corpus, an organization's decision history—and iteration cycles compress from days to minutes. The knowledge base becomes active: the system engages existing structure, proposes refinements, tests coherence, surfaces gaps.
 
 At close resolution, this is human plus tool—a person directing a system. At wider resolution, the tool is itself crystallized human iteration: built by humans, trained on human output, extending patterns humans established. The boundary between "human capability" and "tool capability" depends on where the frame is drawn. What remains constant across frames: iteration is happening, and its cycle time has compressed.

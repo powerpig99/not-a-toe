@@ -8,9 +8,9 @@ My own experience confirms this. My kids learn far more in roughly one hour per 
 
 Schools defend their role with structured accountability, social and emotional development, curated curriculum, and credentialing. These are real functions. But notice: they're bundled. Knowledge transmission, social coordination, childcare logistics, and credential signaling are separate problems forced through a single institution. AI unbundles the first. The others don't require a school—they require coordination, which is a different and increasingly solvable problem.
 
----
+## The action-result connection
 
-But the deeper issue isn't efficiency. It's what happens to the connection between action and result.
+The deeper issue isn't efficiency. It's what happens to the connection between action and result.
 
 When you act and the consequence flows directly from your action, you learn. Not because someone told you to, but because reality responded. That tight loop—choice, action, feedback—is how competence and judgment actually develop. This has always been true. It's how learning worked before schools existed. It's how every skill you actually retained was built. The mechanism was never missing. It was buried.
 
@@ -18,7 +18,7 @@ Mass schooling systematically buries it. Your effort is filtered through grading
 
 This creates a dependency cycle. Loosened feedback loops produce passivity—not because learners are deficient, but because the environment stopped responding to them. The system then points to this passivity as evidence that more structure is needed. More scaffolding, more pacing control, more institutional mediation. The institution's survival metrics—enrollment, retention, funding—scale with perceived necessity. Necessity grows when its outputs lack self-sufficiency. This isn't conspiracy. It's incentive structure operating as designed.
 
----
+## Signal past the noise floor
 
 AI didn't invent tight feedback loops. It amplified the signal past the noise floor.
 
@@ -26,7 +26,7 @@ Previously, preserving direct action-result coupling in education required excep
 
 What AI does is raise the signal-to-noise ratio at the platform level. You ask, you get a response calibrated to your actual understanding. You push deeper, it goes deeper. You skip what you know, you dwell where you're stuck. The scaffolding responds to you and naturally fades as competence rises. The mechanism that was always operating is now visible without requiring exceptional effort to uncover it.
 
----
+## The incentive inversion
 
 This reveals something important about where AI is actually heading—and why this time the incentives are different.
 
@@ -38,7 +38,7 @@ This is a fundamentally different incentive geometry. Traditional platforms loos
 
 My own interaction with AI—including the conversation that refined this very essay—is direct evidence. No curriculum. No institutional layer. Just general capability meeting edge context. The result is something no pre-designed program could have produced, because the adaptation happened at the edge, in real time, shaped by my own judgment and direction.
 
----
+## Access and expansion
 
 This also shifts who can access it, and how the expansion works.
 
@@ -50,9 +50,7 @@ An honest constraint remains: tight feedback loops are only as useful as your ab
 
 But notice: this is the same evaluation work that was always needed. Schools didn't solve it—they obscured it behind grades and credentials that substituted institutional judgment for direct assessment. AI at least makes the question visible again. And as general AI capability improves, even this evaluation support becomes increasingly accessible—not by replacing parental judgment, but by making the signal legible enough that less interpretation is required.
 
----
-
-For families navigating this now: the downstream frictions—college admissions, socialization, credentials—don't bind when competence develops through direct feedback rather than institutional dependency. Those gates become optional, engaged when they serve intrinsic goals. Bypass via demonstrated capability, apprenticeships, or direct contribution. When the foundation is real coupling between action and result, credentials become something you choose, not something you need.
+## For families navigating this now the downstream frictions—college admissions, socialization, credentials—don't bind when competence develops through direct feedback rather than institutional dependency. Those gates become optional, engaged when they serve intrinsic goals. Bypass via demonstrated capability, apprenticeships, or direct contribution. When the foundation is real coupling between action and result, credentials become something you choose, not something you need.
 
 This shift is accelerating. As AI raises the signal-to-noise ratio, the cohort of effective opt-outs grows. Each one reveals institutional necessities as partly artifacts of the institution's own feedback degradation.
 

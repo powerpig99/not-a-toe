@@ -1,9 +1,11 @@
 # Mises on the State: Ontological Clarity Analysis
 
+Mises points at something real — concentrated coercive capacity with weak feedback loops enables extraction and oppression. But the framing obscures that the mechanism isn't unique to states; it operates wherever power concentrates.
+
+## The Quote
+
 > "The worship of the state is the worship of force. There is no more dangerous menace to civilization than a government of incompetent, corrupt, or vile men. The worst evils which mankind ever had to endure were inflicted by bad governments. The state can be and has often been in the course of history the main source of mischief and disaster."
 > — Ludwig von Mises
-
----
 
 ## Core Insight
 

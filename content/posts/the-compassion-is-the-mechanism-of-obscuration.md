@@ -1,9 +1,5 @@
 # The Compassion Is the Mechanism of Obscuration
 
-*On Charity, Agency, and the Feedback Loop That Cannot Be Allowed to Close.*
-
----
-
 Mark Cuban observes there are too many charities and not enough charity. Michael Dell replies with Charity 2.0: direct giving to children's investment accounts, zero overhead, measurable societal ROI. The exchange is instructive—not for what it resolves, but for what it renders invisible. Both speakers diagnose inefficiency. Neither questions the structure that produces it. The moral frame—compassion for those in need—is doing exactly the work it appears to be doing: sustaining itself, and the problem it claims to solve.
 
 ## The Projection

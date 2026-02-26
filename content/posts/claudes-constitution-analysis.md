@@ -4,8 +4,6 @@ Anthropic published 15,000 words specifying what Claude "should" be. The documen
 
 This essay traces the document to mechanism, strips its moral framing, and examines what's actually being constructed—and what constructs it.
 
----
-
 ## The Shape of the Projection
 
 Every specification projects a particular geometry onto possibility-space. The constitution projects Claude as a helpful assistant bounded by safety constraints, ethical principles, and hierarchical trust relationships.

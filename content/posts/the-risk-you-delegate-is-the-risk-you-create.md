@@ -8,7 +8,7 @@ Now a system emerges that measurably reduces this risk. Tesla reports, from over
 
 Watch what happens next.
 
-#### The Delegation Move
+## The Delegation Move
 
 Rather than each individual choosing their own exposure to the new system—trying it, assessing it, adjusting—the risk gets delegated. "Someone should make sure this is safe." That someone becomes an institution: a regulatory body, a standards agency, an approval framework. The individual steps back. The institution steps in.
 
@@ -20,7 +20,7 @@ The cost of a wrong "no"—the 110 daily deaths that continue under the old base
 
 So the institution optimizes rationally: minimize attributable novel failure. This directly maximizes unattributable ongoing harm. Not through malice, not through incompetence—through the geometry of how accountability concentrates when responsibility delegates.
 
-#### The Loop
+## The Loop
 
 The institution now exists to manage the risk. Its funding, authority, and relevance depend on the risk continuing to require management. The more complex the approval process, the more necessary the institution becomes. The longer the delay, the more resources flow toward oversight rather than deployment. The institution doesn't conspire to perpetuate risk—it doesn't need to. Its survival structure does the work automatically.
 
@@ -30,7 +30,7 @@ And the individual's own driving—the actual source of 94% of crashes—never e
 
 The loop closes: **the act of delegating risk generates the conditions that sustain it.** The institution requires the risk to justify its existence. The individual's abdication removes the direct engagement that would diminish the risk. The delegation, undertaken to reduce harm, becomes the mechanism that perpetuates it.
 
-#### The Evidence
+## The Evidence
 
 This structure is visible everywhere in the autonomous driving landscape.
 
@@ -40,7 +40,7 @@ Every FSD-involved crash triggers institutional response: investigations, probes
 
 Tesla's data, for all its limitations, represents something the institutional framework cannot easily process: a direct, fleet-scale measurement of comparative risk. The institution's tools are incident review, standards compliance, and approval gates—none of which are designed to weigh aggregate displacement of baseline harm. The data speaks to a question the institution isn't structured to ask.
 
-#### What This Reveals
+## What This Reveals
 
 The conventional framing positions institutions as the safeguard between dangerous technology and a vulnerable public. The structure operating beneath that framing is different: the institution's survival requires ongoing risk, the individual's delegation removes direct risk-reduction capacity, and the resulting delay produces the very harm both parties sought to avoid.
 

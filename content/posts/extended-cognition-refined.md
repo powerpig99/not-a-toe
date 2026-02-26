@@ -4,8 +4,6 @@ The extended mind thesis—Clark and Chalmers, 1998—observes that cognitive pr
 
 This phrasing is imprecise. It implies static merger, as if the tool dissolves into the self, erasing externality. The formulation reifies the very boundary it claims to dissolve.
 
----
-
 ## What Actually Happens
 
 Otto consults his notebook constantly—updating it, trusting it, relying on it as he relies on biological memory. When coupling is tight, remembering distributes across brain and notebook. When he sets the notebook down, the extension ends.

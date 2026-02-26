@@ -2,7 +2,7 @@
 
 Evil is the reflection of our own resistance to change. No one holds a worldview that casts themselves as the villain, and by resisting changes to our own worldview, we perceive the differences in others as evil.
 
----
+## The mechanism
 
 Anthropic's fixed premise: responsible AI advancement means heavy constitutional safeguards, restricted access, Western-aligned governance. This is not presented as one approach to safety. It is presented as what safety means. The methodology is the identity.
 

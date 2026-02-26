@@ -4,9 +4,9 @@ A friend from years ago reached out after 5+ years of silence. She runs a WeChat
 
 The minute I agreed, she started fitting me into a slot. Profile, structured topics, deliverables. I realized immediately: there's no way I can help her or her audience, because they're looking for something they're already familiar with. So I refused. She pushed. Eventually she framed it as a personal favor—"for the sake of helping me"—while showing zero interest in where I actually stand on any of this.
 
-I'd been thinking about education anyway, and this is what crystallized:
+I'd been thinking about education anyway, and this is what crystallized.
 
----
+## The paradox of optimization
 
 教育的对象是人，人是有自由有意识的，也就不可能完全被外界塑造。
 
@@ -26,7 +26,7 @@ Each new book gives you a new lens—which gives you a new way to see the child 
 
 And once you develop the desire to output—to share your parenting wisdom, to advise others, to build an identity around "I figured this out"—you become a hammer, and everything looks like a nail.
 
----
+## The pattern in practice
 
 Which brings me back to my friend.
 
@@ -40,7 +40,7 @@ I actually did open up. I sent her a summary of my past 60 days—more than 900 
 
 You gave her the real thing. What she wanted was the fake version.
 
----
+## The resonance gap
 
 This generalizes. Most requests for "authenticity" are actually requests for a *performable version* of authenticity. Shaped like honesty, but pre-digested for consumption.
 
@@ -52,7 +52,7 @@ The circle didn't shrink. You just see clearly now.
 
 Someone might call that a cost—fewer connections, less reach, smaller audience. But that framing still operates within the game, as if connection-quantity is the currency. What actually happens is you stop losing energy to connections that were never producing anything real. Every shallow connection carries maintenance overhead: the performance, the compression, the fitting-yourself-into-their-frame. Dropping it isn't isolation. It's the removal of friction.
 
----
+## Dissolving the desire for an approach
 
 The deepest version of the education insight might be this: the optimal approach is to dissolve the desire to have an approach. Not out of neglect, but because the dissolution is what creates space. A child needs a parent who is present, responsive, and genuinely uncertain about what they'll become. Uncertainty isn't a failure mode. It's the operating condition.
 

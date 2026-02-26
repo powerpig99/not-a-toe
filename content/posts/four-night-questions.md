@@ -1,14 +1,16 @@
 # Four Questions That Keep You Up at Night
 
-*Prompted by Andrew Côté (@Andercot):*
+Four questions about computability, superluminal transmission, electromagnetism-gravity connection, and timelines aren't four separate questions. They're four faces of the same question — asked from different projection angles.
+
+## The Prompt
+
+Prompted by Andrew Côté (@Andercot):
 
 > Things that keep me up at night:
 > - Is the physical universe completely computable
 > - Is superluminal information transmission possible
 > - Is there a connection between electromagnetism and gravity
 > - Is there only one timeline
-
----
 
 ## The Pattern Before the Questions
 

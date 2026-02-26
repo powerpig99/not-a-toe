@@ -4,8 +4,6 @@ Andrej Karpathy recently shared how he used an AI agent to "rip out" fp8 trainin
 
 The observation is precise. There's a deeper structure underneath it.
 
----
-
 ## Intermediate Projections
 
 The path from intent to execution is long. Too long, usually, to traverse directly. So we build intermediates: structure within the path that makes it traversable.

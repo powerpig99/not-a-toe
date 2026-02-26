@@ -8,8 +8,6 @@ Nobody building a distilled model wants "matches scores on this evaluation suite
 
 The result: a model that matches the benchmark while losing what the benchmark couldn't measure. The degradation is real. It's just orthogonal to the metric — which is exactly why the optimization proceeds without resistance.
 
----
-
 ## The Benchmark Contains Its Own Blindness
 
 A benchmark measures how closely output matches a target across a known task distribution. Every technique that improves this match — better training recipes, architecture search, data curation — registers as progress on this axis.

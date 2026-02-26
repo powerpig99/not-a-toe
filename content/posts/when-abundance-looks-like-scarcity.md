@@ -1,14 +1,6 @@
 # When Abundance Looks Like Scarcity
 
-*On the viral "2028 Global Intelligence Crisis" thought exercise — and the single assumption that makes it work.*
-
----
-
-A well-constructed scenario imagines AI capability improving so fast that it triggers mass unemployment, mortgage defaults, private credit contagion, and a 38% market crash by mid-2028. The financial plumbing is traced with genuine sophistication. The feedback loops are vivid.
-
-The whole thing runs on one hidden move: hold the economic pie fixed, let AI accelerate inside it, and watch the displacement fall out mechanically. Everything else — Ghost GDP, the displacement spiral, the mortgage crisis, the fiscal squeeze — is filling in the blanks.
-
----
+A well-constructed scenario imagines AI capability improving so fast that it triggers mass unemployment, mortgage defaults, private credit contagion, and a 38% market crash by mid-2028. The whole thing runs on one hidden move: hold the economic pie fixed, let AI accelerate inside it, and watch the displacement fall out mechanically.
 
 ## The Move
 

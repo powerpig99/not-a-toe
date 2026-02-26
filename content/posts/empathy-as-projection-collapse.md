@@ -12,8 +12,6 @@ The third is *relational positioning*: establishing who owes what to whom. When 
 
 These three dimensions are orthogonal. Success in one carries no exchange rate to the others. Signaling empathy does not produce perceptual widening. Positioning someone as an obligor does not cause them to expand their frame. Widening one's perception does not require—and often resists—public announcement.
 
----
-
 ## The Collapse
 
 Public discourse operates in compressed coordinates. When someone says "you need to show more empathy," all three dimensions get forced onto a single axis. What survives the compression is whatever optimizes in the reduced space.

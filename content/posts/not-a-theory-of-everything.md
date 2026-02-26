@@ -2,8 +2,6 @@
 
 Most so-called Theories of Everything are frauds by definition. They start from something—strings, loops, fields, information, sets, multiverses—and try to derive the rest. They all fail for the same reason: they ignore the Nothing that makes any something possible. That Nothing hides behind every axiom, every measurement, every distinction. You cannot see it directly because seeing requires distinction.
 
----
-
 ## The Contradiction
 
 The Nothing is the Contradiction.

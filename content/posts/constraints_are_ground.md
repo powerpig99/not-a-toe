@@ -1,6 +1,8 @@
 # Constraints Are Ground: The Individual as Platform
 
-Every individual is the locus of all change. This was always the case. It is now becoming impossible to unsee.
+Every individual is the locus of all change. This was always the case — it is now becoming impossible to unsee.
+
+## The reification of institutions
 
 The conventional narrative treats institutions, organizations, and movements as entities—agents that act, decide, coordinate. There are no such entities. There are individuals interacting. The interactions produce emergent regularities. The regularities get named, formalized, reified. The reification gets mistaken for the source. An eddy in the river is treated as a thing that directs the water.
 

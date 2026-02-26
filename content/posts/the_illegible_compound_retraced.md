@@ -1,10 +1,8 @@
 # The Illegible Compound — Retraced
 
-*Why the Real Barrier to Learning Is Never Where We Look for It.*
+The real barrier to learning is never where we look for it. What is perceivable objectively — outcomes, trajectories, visible differences between people — is the compounded result of imperceptible subjective choices.
 
-*Looking is observing. Learning is being.*
-
----
+## The structure underneath
 
 What is perceivable objectively—outcomes, trajectories, visible differences between people—is the compounded result of imperceptible subjective choices. These choices can only be felt at the moment by the subject, and rarely consciously even then. They are not available for audit, not even by the one making them. The objective world is residue. The generative process was never objective to begin with.
 

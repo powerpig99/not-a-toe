@@ -1,28 +1,22 @@
 # AI Won't Kill Software Engineering—It Will Expand It
 
-*A reflection on fear, productivity, and the enduring arc of technological progress.*
+The conversation about AI and software engineering jobs hit a nerve on X, with nearly every software engineer reportedly experiencing some degree of mental health crisis. The anxiety feels intense — but history, economics, and human nature suggest it's largely misplaced.
 
----
+## The Thread
 
-This week on X, the conversation about AI and software engineering jobs hit a nerve. It started with Tom Dale (@tomdale):
+Tom Dale (@tomdale) observed the crisis. Eric S. Raymond (@esrtweet) responded forcefully:
 
-> "I don't know why this week became the tipping point, but nearly every software engineer I've talked to is experiencing some degree of mental health crisis."
-
-Eric S. Raymond (@esrtweet) responded forcefully:
-
-> "If you are a software engineer 'experiencing some degree of mental health crisis', now hear this... Get over yourself. Every previous 'programming is obsolete' panic has been a bust, and this one's going to be too... As usual, the answer is: upskill yourself and adapt."
+> "Get over yourself. Every previous 'programming is obsolete' panic has been a bust, and this one's going to be too... As usual, the answer is: upskill yourself and adapt."
 
 When challenged that AI lets one coder do the work of many (reducing total jobs), ESR pointed to:
 
 > "Now go study Jevons's law and learn exactly why you're wrong."
 
-My own post in that thread tried to reframe it:
+My own post tried to reframe it:
 
 > "It's a horizon mismatch or perspective clash. Judging the future by present reality ignores that both can't be true simultaneously. You can either focus on the present, where skills are still valued, or the future, where they're valued even more due to AI augmentation—without devaluing the present just because the future is more valuable."
 
-That idea sparked a richer private conversation exploring why the anxiety feels so intense—and why history, economics, and human nature suggest it's largely misplaced. Here's the fuller synthesis.
-
----
+That idea sparked a richer private conversation. Here's the fuller synthesis.
 
 ## 1. Jevons Paradox isn't paradoxical—it's a forced perspective collapse
 

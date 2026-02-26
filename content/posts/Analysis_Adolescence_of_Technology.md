@@ -1,12 +1,6 @@
 # The Exponential and the Linear Eye
 
-*An Ontological Analysis of "The Adolescence of Technology".*
-
----
-
-Dario Amodei's essay maps five risks from powerful AI: autonomous misalignment, empowered destruction, power seizure, economic disruption, and emergent weirdness. The mechanism-tracing is often sharp. But the essay's central framing—humanity facing a "technological adolescence," a "rite of passage," a "test"—reveals more about how we parse exponential change than about the change itself.
-
----
+Dario Amodei's essay maps five risks from powerful AI: autonomous misalignment, empowered destruction, power seizure, economic disruption, and emergent weirdness. The mechanism-tracing is often sharp, but the essay's central framing — humanity facing a "technological adolescence," a "rite of passage," a "test" — reveals more about how we parse exponential change than about the change itself.
 
 ## The Sensing Artifact
 

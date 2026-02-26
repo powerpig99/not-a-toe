@@ -10,8 +10,6 @@ The book is the third in a sequence: *Ontological Semantics* (2004) → *Linguis
 
 **A note on the framework itself**: The Not a ToE—"Everything is layered projections of the infinite-dimensional orthogonal binary hyperspace from Nothing—the infinitely self-referencing Contradiction"—is the generative ground traced as far as we can currently go. The Ontological Clarity framework is the minimum operational method for working from that ground. The ground is held provisionally, which is why it traces further than any previous effort, including this one—claiming finality stops the tracing. Both the Not a ToE and the LEIA ontology are stopping points, but one remains refinable. The other treats its stopping point operationally as foundation—not by explicit claim, but by building everything above it with nothing beneath it.
 
----
-
 ## Part I: What They See Correctly
 
 ### 1. Mechanism vs. Veneer

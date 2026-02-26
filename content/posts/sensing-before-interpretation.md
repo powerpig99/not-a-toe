@@ -1,12 +1,6 @@
 # Sensing Before Interpretation
 
-In August 2017, Andrej Karpathy posted on Twitter:
-
-> "Gradient descent can write code better than you. I'm sorry."
-
-Nine years later, this tweet resurfaced — and the interference pattern it generates tells us more about how understanding works than about AI itself.
-
----
+In August 2017, Andrej Karpathy tweeted that gradient descent can write code better than you. Nine years later, this tweet resurfaced — and the interference pattern it generates tells us more about how understanding works than about AI itself.
 
 ## The surface reading
 

@@ -1,18 +1,10 @@
 # AI as Augmentation: Dissolving the "Replacement" Frame
 
-AI researcher Chip Huyen (@chipro) posted a poll asking: *"How long do you think AI will be able to fully automate your job?"* One of the follow-up questions was directed at those who answered "Never": *"What do you do?"*
-
-My reply was simple:
-
-> "We all use AI and other tools to do what we couldn't do ourselves—just most of us keep forgetting that."
-
-That short observation kept unfolding. What follows is a reflection on what the "replacement" framing obscures—and what becomes visible once you stop forcing the question.
-
----
+We all use AI and other tools to do what we couldn't do ourselves — most of us just keep forgetting that. What follows is a reflection on what the "replacement" framing obscures, and what becomes visible once you stop forcing the question.
 
 ## The Collapsed Frame
 
-The poll itself enacts a collapse. It asks *when* AI will automate your job—presupposing a boundary between "you" and "your tools" that has never existed in practice. The question forces two orthogonal projections onto a single axis:
+AI researcher Chip Huyen (@chipro) posted a poll asking when AI will fully automate your job. The poll enacts a collapse — it asks *when*, presupposing a boundary between "you" and "your tools" that has never existed in practice. The question forces two orthogonal projections onto a single axis:
 
 - **The capability projection**: what work gets accomplished, by what means, at what scale.
 - **The identity projection**: who "I" am as a worker, what counts as "my" contribution.

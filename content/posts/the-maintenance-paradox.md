@@ -2,8 +2,6 @@
 
 The version of yourself you're protecting is precisely what the protecting prevents you from becoming.
 
----
-
 ## The Lie Almost No One Escapes
 
 Maintaining a preferred self-model *is* lying. Not metaphorically. Not "like" lying. The mechanism is identical: holding a representation in place against what's actually operating, consuming attention to bridge the gap between model and reality.

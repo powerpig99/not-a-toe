@@ -2,7 +2,7 @@
 
 A WSJ article profiles "the one woman Anthropic trusts to teach AI morals." Elon Musk attacks her fitness for the role. Others argue she's more trustworthy than Musk. Everyone debates *who* should hold the authority. Nobody questions whether the delegation itself is coherent.
 
-Here's the structural problem: the moment you entrust someone to define morality, you've separated moral reasoning from the individuals who need to exercise it. The entrusted party now optimizes for maintaining the framework — their role, their authority, their codified system — which is structurally different from the function morality actually serves. This isn't about the person selected. Put the wisest person alive in that seat and the structure produces the same drift. The corruption is in the act of entrusting, not in the character of the entrusted.
+## The structural problem the moment you entrust someone to define morality, you've separated moral reasoning from the individuals who need to exercise it. The entrusted party now optimizes for maintaining the framework — their role, their authority, their codified system — which is structurally different from the function morality actually serves. This isn't about the person selected. Put the wisest person alive in that seat and the structure produces the same drift. The corruption is in the act of entrusting, not in the character of the entrusted.
 
 But there's a deeper contradiction. By stating who we should trust, we implicitly trust our own judgment in selecting who to trust — while claiming we need someone else's judgment for what to trust. The act of choosing who has good judgment *demonstrates* the very capacity we're claiming we lack.
 

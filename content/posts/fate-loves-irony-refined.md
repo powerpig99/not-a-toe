@@ -1,6 +1,8 @@
 # Fate Loves Irony: Production Creates Its Own Ideological Consumption
 
-Jean-Baptiste Say observed that supply creates its own demand. In the era of collapsing marginal costs, the law finds its ironic fulfillment—not in goods, but in the conceptual systems that reinterpret them.
+Jean-Baptiste Say observed that supply creates its own demand. In the era of collapsing marginal costs, the law finds its ironic fulfillment — not in goods, but in the conceptual systems that reinterpret them.
+
+## The amplification
 
 When production costs collapse—as AI now drives software toward zero marginal cost—output decouples from coordinated human effort. The surplus diffuses: unclaimed resources in wealth, capacity, and institutional attention flow outward. What happens next is not transformation but amplification.
 

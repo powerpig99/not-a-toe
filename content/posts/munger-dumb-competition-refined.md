@@ -4,8 +4,6 @@ Charlie Munger's advice to Flexport CEO Ryan Petersen: *"The key to success is d
 
 A coherent insight wrapped in category confusion.
 
----
-
 ## The Coherent Insight
 
 Competition dynamics vary by domain. In AI research, the talent pool is concentrated—PhD-level researchers at DeepMind, OpenAI, Anthropic, top university labs. Your optimization pressure faces counter-pressure from unusually capable actors. In application domains, you face incumbents optimized along established vectors who lack capacity for rapid reorientation.

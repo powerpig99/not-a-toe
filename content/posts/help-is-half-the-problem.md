@@ -4,6 +4,8 @@ A marker arm spins in perfect, tireless circles around a fixed point it can neve
 
 That arm doesn't stop because the helper lacks skill, love, or persistence. It stops only when one of the two participants refuses to keep the mechanism running.
 
+## The geometry
+
 A codependent loop is a closed system. Two inputs, one circuit, zero net displacement. The helper supplies motion; the helped supplies the fixed point. Motion around a fixed point is a circle. Neither input alone produces the circle—both are necessary and sufficient. Remove either, and the geometry collapses.
 
 This is not a dysfunction. It is a system operating exactly at equilibrium. The helper receives identity, purpose, or emotional regulation from being indispensable. The helped receives attention, validation, and externalized responsibility. Both inputs optimize for what they actually optimize for—not what they narrate. The loop sustains because the exchange balances internally, regardless of what either party says they want.
