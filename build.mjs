@@ -8,6 +8,7 @@ const SITE = {
   title: 'Not a ToE',
   description: 'Not a ToE - rewritten from the ground up.',
   baseUrl: 'https://powerpig99.github.io/not-a-toe/',
+  sourceRawBaseUrl: 'https://raw.githubusercontent.com/powerpig99/not-a-toe/main/',
   language: 'en-US',
   pinnedSlug: 'not-a-theory-of-everything',
   socialImage: 'https://raw.githubusercontent.com/powerpig99/not-a-toe/main/assets/toe-bang.png',
@@ -37,6 +38,11 @@ function withBase(relativePath = '') {
 
 function absoluteUrl(relativePath = '') {
   return new URL(withBase(relativePath), SITE.baseUrl).toString();
+}
+
+function absoluteSourceUrl(relativePath = '') {
+  const clean = relativePath.split(path.sep).join('/').replace(/^\/+/, '');
+  return new URL(clean, SITE.sourceRawBaseUrl).toString();
 }
 
 function escapeHtml(text) {
@@ -375,6 +381,7 @@ function readPosts(files) {
   return postFiles.map((fileName) => {
     const fullPath = path.join(contentDir, fileName);
     const slug = path.basename(fileName, '.md');
+    const sourcePath = path.posix.join('content', 'posts', fileName);
     const source = fs.readFileSync(fullPath, 'utf8').replace(/^\uFEFF/, '');
     const lines = source.split(/\r?\n/);
 
@@ -400,13 +407,13 @@ function readPosts(files) {
       dateIso,
       dateDisplay: formatDate(dateIso),
       readingTime: Math.max(1, Math.ceil(words / WORDS_PER_MINUTE)),
+      wordCount: words,
       htmlBody,
       plainText,
       excerpt: summary,
       description: summary,
-      markdownSource: source.endsWith('\n') ? source : `${source}\n`,
       outputPath: `posts/${slug}/`,
-      sourcePath: path.join('content', 'posts', fileName),
+      sourcePath,
     };
   });
 }
@@ -423,10 +430,32 @@ function sortPosts(posts) {
   return pinned ? [pinned, ...rest] : rest;
 }
 
-function renderPage({ title, description, content, canonicalPath, ogType = 'website' }) {
+function renderAlternateLinks(alternateLinks = []) {
+  return alternateLinks
+    .map((link) => {
+      const titleAttr = link.title ? ` title="${escapeHtml(link.title)}"` : '';
+      const href = link.url ?? absoluteUrl(link.path);
+      return `  <link rel="alternate" type="${escapeHtml(link.type)}" href="${escapeHtml(href)}"${titleAttr}>`;
+    })
+    .join('\n');
+}
+
+function renderPage({
+  title,
+  description,
+  content,
+  canonicalPath,
+  ogType = 'website',
+  alternateLinks = [],
+}) {
   const fullTitle = title ? `${title} | ${SITE.title}` : SITE.title;
   const canonicalUrl = absoluteUrl(canonicalPath);
   const socialImageUrl = SITE.socialImage;
+  const builtInAlternateLinks = [
+    { type: 'application/json', path: 'posts.json', title: `${SITE.title} post manifest` },
+    { type: 'application/x-ndjson', path: 'posts.jsonl', title: `${SITE.title} post manifest JSONL` },
+  ];
+  const alternateLinksHtml = renderAlternateLinks([...builtInAlternateLinks, ...alternateLinks]);
 
   return `<!doctype html>
 <html lang="${SITE.language}">
@@ -437,6 +466,7 @@ function renderPage({ title, description, content, canonicalPath, ogType = 'webs
   <title>${escapeHtml(fullTitle)}</title>
   <meta name="description" content="${escapeHtml(description)}">
   <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
+${alternateLinksHtml}
   <link rel="icon" type="image/svg+xml" href="${escapeHtml(faviconDataUri)}">
   <link rel="stylesheet" href="${withBase(`style.css?v=${styleVersion}`)}">
   <meta property="og:title" content="${escapeHtml(fullTitle)}">
@@ -513,6 +543,13 @@ ${post.htmlBody}
     content,
     canonicalPath: post.outputPath,
     ogType: 'article',
+    alternateLinks: [
+      {
+        type: 'text/markdown',
+        url: absoluteSourceUrl(post.sourcePath),
+        title: `${post.title} (Markdown source)`,
+      },
+    ],
   });
 }
 
@@ -537,6 +574,41 @@ function generateSitemap(posts) {
 ${rows}
 </urlset>
 `;
+}
+
+function postMachineRecord(post) {
+  return {
+    slug: post.slug,
+    title: post.title,
+    date_iso: post.dateIso,
+    date_display: post.dateDisplay,
+    reading_time_minutes: post.readingTime,
+    word_count: post.wordCount,
+    excerpt: post.excerpt,
+    html_path: withBase(post.outputPath),
+    html_url: absoluteUrl(post.outputPath),
+    source_path: post.sourcePath,
+    md_url: absoluteSourceUrl(post.sourcePath),
+  };
+}
+
+function generatePostsManifest(posts) {
+  const records = posts.map((post) => postMachineRecord(post));
+  const payload = {
+    site: {
+      title: SITE.title,
+      base_url: SITE.baseUrl,
+      language: SITE.language,
+    },
+    count: records.length,
+    posts: records,
+  };
+  return `${JSON.stringify(payload, null, 2)}\n`;
+}
+
+function generatePostsJsonl(posts) {
+  if (!posts.length) return '';
+  return `${posts.map((post) => JSON.stringify(postMachineRecord(post))).join('\n')}\n`;
 }
 
 function cleanPublicDir() {
@@ -576,6 +648,8 @@ function build() {
     writeFile(path.join(post.outputPath, 'index.html'), renderPost(post, newer, older));
   });
 
+  writeFile('posts.json', generatePostsManifest(posts));
+  writeFile('posts.jsonl', generatePostsJsonl(posts));
   writeFile('sitemap.xml', generateSitemap(posts));
   writeFile('robots.txt', `User-agent: *\nAllow: /\nSitemap: ${absoluteUrl('sitemap.xml')}\n`);
 }

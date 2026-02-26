@@ -35,6 +35,7 @@ This generates `public/` with:
 
 - `index.html`
 - `posts/<slug>/index.html`
+- `posts.json` and `posts.jsonl` (machine-readable post index with source markdown URLs)
 - `sitemap.xml` and `robots.txt`
 
 Social preview image is referenced from `assets/toe-bang.png` via metadata URL and is not copied into `public/`.
