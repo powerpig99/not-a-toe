@@ -1,6 +1,6 @@
 # Fidelity, Not Optimality
 
-The iterative loop described in [The Minimizing Path](/posts/minimizing-path) makes a directional claim: each cycle compresses the gap between implementation and behavior. This note traces what that claim actually warrants, where the formal machinery supports it, and where it doesn't.
+The iterative loop described in [The Minimizing Path](/not-a-toe/posts/minimizing-path) makes a directional claim: each cycle compresses the gap between implementation and behavior. This note traces what that claim actually warrants, where the formal machinery supports it, and where it doesn't.
 
 ## The Behavior as Function
 
