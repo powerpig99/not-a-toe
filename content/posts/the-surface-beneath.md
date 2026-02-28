@@ -6,15 +6,15 @@ Kolmogorov complexity, Turing completeness, and Solomonoff induction are themsel
 
 The formal frameworks share a structural commitment: search over discrete program space. Levin's universal search enumerates candidates in order of length plus runtime. Solomonoff's prior assigns probability by program length. Kolmogorov complexity is defined as the shortest string in a discrete encoding. Every move is combinatorial — select from a countable set, evaluate, keep or discard.
 
-Reality doesn't search this way. Physical systems don't enumerate configurations and select. They follow surfaces. They descend gradients under constraint. They settle into basins shaped by the landscape they're moving through. The convergence is continuous, not combinatorial. The difference is not cosmetic.
+Reality doesn't search this way. Physical systems don't enumerate configurations and select. They follow surfaces. They descend gradients under constraint. They settle into basins shaped by the landscape they're moving through. At the resolution we can observe, the convergence operates at finer grain than enumeration can model. The difference is not cosmetic.
 
-## What Gradient Descent Actually Models
+## What Gradient Descent Models
 
-Gradient descent is our closest formalization of how convergence operates in practice — not just in neural networks, but as a structural analogy for how physical systems, evolutionary processes, and learning organisms find stable configurations. The mechanism: compute local slope, move downhill, repeat. No enumeration. No global view. Just the surface and the step.
+Gradient descent is a finer-grained formalization of how convergence operates than enumeration provides — not just in neural networks, but as a structural analogy for how physical systems, evolutionary processes, and learning organisms find stable configurations. The mechanism: compute local slope, move downhill, repeat. No enumeration. No global view. Just the surface and the step.
 
 The failure modes follow from the geometry, not from combinatorics. Local minima trap. Saddle points slow. Basin geometry determines which attractors are reachable from which starting points. Momentum carries past shallow traps but overshoots deep ones. The landscape is the constraint, and the landscape is not given in advance — it shifts as the system moves through it.
 
-This is closer to how the loop in [The Minimizing Path](/not-a-toe/posts/minimizing-path) actually operates. The agent doesn't enumerate programs and select the shortest consistent one. It proposes local modifications, evaluates fidelity, and moves downhill on the loss surface. The formalism that matches is optimization under constraint, not search over program space.
+This is closer to how the loop in [The Minimizing Path](/not-a-toe/posts/minimizing-path) operates in practice. The agent doesn't enumerate programs and select the shortest consistent one. It proposes local modifications, evaluates fidelity, and moves downhill on the loss surface. The formalism that matches is optimization under constraint, not search over program space.
 
 ## Where the Gradient Shifts
 
@@ -42,8 +42,10 @@ This is why math feels discovered rather than invented — and why that distinct
 
 ## The Same Shape, Deeper
 
-The discrete/symbolic projection works until it doesn't. Where it diverges from the continuous gradient beneath it is exactly where the interesting questions live: basin selection, landscape dynamics, the irreducibility of the sensing end.
+The discrete/symbolic projection works until it doesn't. Where it diverges from the finer-grained gradient it attempts to model is exactly where the interesting questions live: basin selection, landscape dynamics, the irreducibility of the sensing end.
 
-The continuous framing doesn't solve these questions. It locates them more precisely. And locating them is itself a refinement of sensing resolution — not an arrival at the right frame, but a higher-resolution lens that will, in turn, reveal its own edges. Each articulation sharpens what you can notice next, which generates the next misfit.
+The continuous framing doesn't solve these questions. It locates them more precisely. And "continuous" is itself provisional — not a property of reality but what discrete looks like when the resolution exceeds the framework. Reality's grain exceeds any formal framework attempting to describe it, while itself being limited by the finest distinction the act of observing can make. There is no level where you arrive at "the continuous." There is only finer grain, each time revealing the previous continuum as discrete at higher resolution.
+
+This framing, too, is a lens — higher resolution than the one it replaces, and one that will reveal its own edges in turn.
 
 The loop doesn't close here. The sensing refines.
