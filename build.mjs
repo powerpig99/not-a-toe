@@ -525,8 +525,10 @@ function renderPost(post, newerPost, olderPost) {
 
   const navHtml = navLinks.length ? `<nav class="post-nav">${navLinks.join('')}</nav>` : '';
 
-  const content = `    <p class="back-link"><a href="${withBase('')}">← Home</a></p>
-    <article>
+  const content = `    <header class="site-header">
+      <a class="site-name" href="${withBase('')}">${escapeHtml(SITE.title)}</a>
+    </header>
+    <article class="post">
       <header class="essay-header">
         <h1>${escapeHtml(post.title)}</h1>
         <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
