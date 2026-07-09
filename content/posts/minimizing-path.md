@@ -4,7 +4,7 @@ Software construction is becoming cheap enough to dissolve the assumption that i
 
 ## The Compression Claim
 
-An iterative agent observing a live application, proposing patches, measuring behavioral fidelity, and selecting for reduced mismatch — this is a real and useful loop. It moves toward something. Not toward Kolmogorov complexity in any technically rigorous sense — K is uncomputable, the convergence claims overreach, and appeals to Solomonoff induction tend to do rhetorical work where mathematical work is needed. But the direction is genuine: each iteration reduces spurious complexity, each cycle compresses the gap between implementation and behavior. The mechanism operates.
+An iterative agent observing a live application, proposing patches, measuring behavioral fidelity, and selecting for reduced mismatch — this is a real and useful loop. It moves toward something. Not toward Kolmogorov complexity in any technically rigorous sense — K is uncomputable, the convergence claims overreach, and appeals to Solomonoff induction tend to do rhetorical work where mathematical work is needed. (The technical details of what the loop warrants and where it stops are in [Fidelity, Not Optimality](../fidelity-not-optimality/).) But the direction is genuine: each iteration reduces spurious complexity, each cycle compresses the gap between implementation and behavior. The mechanism operates.
 
 The harder claim — that we converge toward the minimal program — dissolves under scrutiny. What actually happens is behavioral approximation improves with iteration. That's sufficient. The minimal program exists as a mathematical object; whether any practical search approaches it is a separate question, and the answer is not guaranteed. What the loop delivers is increasing fidelity, not convergence to an optimum. These look similar from inside a successful iteration and differ categorically in what they promise.
 
@@ -46,4 +46,4 @@ The gap between sensing and transmissible articulation is irreducible. This is n
 
 Which means: the trying is not moving toward a state where transmission becomes complete. That state would terminate the movement, not fulfill it. The gap doesn't prevent the reaching. The gap is what reaching is.
 
-The move continues.
+The move continues. [The Surface Beneath](../the-surface-beneath/) traces where it moves next — into the recognition that the formal models themselves are projections, and that the process they model operates at finer grain than enumeration can capture.

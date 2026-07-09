@@ -1,6 +1,6 @@
 # The Surface Beneath
 
-Kolmogorov complexity, Turing completeness, and Solomonoff induction are themselves projections — mathematical models that cast computation as discrete, symbolic, enumerative. They are extraordinarily stable projections. They are not the territory. But calling them "distortions" already concedes too much to the idea that there's an undistorted view to compare them against. What they are, more precisely, is gradients — the surfaces along which our shared local reality self-distinguishes most stably. Gradient descent is another gradient, at different scale. They look different because of scope, not because one is closer to the truth. They are all reality's self-distinction formalized at the grain each can capture. [Fidelity, Not Optimality](/not-a-toe/posts/fidelity-not-optimality) traces what the formal machinery warrants. This essay traces what the formalizations share.
+Kolmogorov complexity, Turing completeness, and Solomonoff induction are themselves projections — mathematical models that cast computation as discrete, symbolic, enumerative. They are extraordinarily stable projections. They are not the territory. But calling them "distortions" already concedes too much to the idea that there's an undistorted view to compare them against. What they are, more precisely, is gradients — the surfaces along which our shared local reality self-distinguishes most stably. Gradient descent is another gradient, at different scale. They look different because of scope, not because one is closer to the truth. They are all reality's self-distinction formalized at the grain each can capture. [Fidelity, Not Optimality](../fidelity-not-optimality/) traces what the formal machinery warrants. This essay traces what the formalizations share.
 
 ## The Enumeration Assumption
 
@@ -18,7 +18,7 @@ But gradient descent is still a formalization. It assumes a surface, a slope, a 
 
 The failure modes follow from the geometry, not from combinatorics. Local minima trap. Saddle points slow. Basin geometry determines which attractors are reachable from which starting points. Momentum carries past shallow traps but overshoots deep ones. The landscape is the constraint, and the landscape is not given in advance — it shifts as the system moves through it.
 
-This is closer to how the loop in [The Minimizing Path](/not-a-toe/posts/minimizing-path) operates in practice. The agent doesn't enumerate programs and select the shortest consistent one. It proposes local modifications, evaluates fidelity, and moves downhill on the loss surface. The formalism that fits better is optimization under constraint, not search over program space. Better, not right — a gradient at different grain, not the territory.
+This is closer to how the loop in [The Minimizing Path](../minimizing-path/) operates in practice. The agent doesn't enumerate programs and select the shortest consistent one. It proposes local modifications, evaluates fidelity, and moves downhill on the loss surface. The formalism that fits better is optimization under constraint, not search over program space. Better, not right — a gradient at different grain, not the territory.
 
 ## Where the Gradients Diverge
 

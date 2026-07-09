@@ -474,7 +474,7 @@ ${alternateLinksHtml}
   <meta property="og:type" content="${escapeHtml(ogType)}">
   <meta property="og:url" content="${escapeHtml(canonicalUrl)}">
   <meta property="og:site_name" content="${escapeHtml(SITE.title)}">
-  <meta property="og:locale" content="${escapeHtml(SITE.language)}">
+  <meta property="og:locale" content="${escapeHtml(SITE.language.replace('-', '_'))}">
   <meta property="og:image" content="${escapeHtml(socialImageUrl)}">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="${escapeHtml(fullTitle)}">
@@ -526,7 +526,7 @@ function renderPost(post, newerPost, olderPost) {
   const navHtml = navLinks.length ? `<nav class="post-nav">${navLinks.join('')}</nav>` : '';
 
   const content = `    <p class="back-link"><a href="${withBase('')}">← Home</a></p>
-    <article class="essay">
+    <article>
       <header class="essay-header">
         <h1>${escapeHtml(post.title)}</h1>
         <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>

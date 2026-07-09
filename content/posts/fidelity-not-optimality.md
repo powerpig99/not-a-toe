@@ -1,6 +1,6 @@
 # Fidelity, Not Optimality
 
-The iterative loop described in [The Minimizing Path](/not-a-toe/posts/minimizing-path) makes a directional claim: each cycle compresses the gap between implementation and behavior. This note traces what that claim actually warrants, where the formal machinery supports it, and where it doesn't.
+The iterative loop described in [The Minimizing Path](../minimizing-path/) makes a directional claim: each cycle compresses the gap between implementation and behavior. This note traces what that claim actually warrants, where the formal machinery supports it, and where it doesn't.
 
 ## The Behavior as Function
 
@@ -73,3 +73,5 @@ The agent never proves it reached K(f). It keeps reducing *d* until the human or
 The minimizing path does not need K(f) reachability to work. What it needs: fidelity improves with iteration (true by construction), compression tends to accompany fidelity (true by statistical tendency), and the user's sensing of misfit provides signal the loop cannot generate internally (argued in the main essay). These three together are sufficient. The K(f) optimum is a mathematical attractor that shapes the direction of movement without being a reachable destination.
 
 The honest framing: the loop moves toward shorter, more faithful programs. It does not converge to the shortest. The direction is real. The destination is not.
+
+But the formal frameworks used here — Kolmogorov complexity, Solomonoff induction, Levin search — are themselves projections that cast convergence as discrete enumeration. [The Surface Beneath](../the-surface-beneath/) traces what happens when you notice this: the process operates at finer grain than enumeration models, and the sensing end becomes not just irreducible but structurally different from what the formal models can represent.
