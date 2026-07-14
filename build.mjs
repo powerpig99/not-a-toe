@@ -591,6 +591,21 @@ function renderAbout() {
         <li><a href="https://substack.com/@jingliang" rel="noopener noreferrer">Substack</a></li>
         <li><a href="https://x.com/powerpig" rel="noopener noreferrer">X</a></li>
       </ul>
+      <figure class="about-poem">
+        <figcaption class="about-poem-title">
+          <a href="https://jingliang.substack.com/p/the-mind-as-the-everlasting-differentiating" rel="noopener noreferrer">The Mind as the Everlasting Differentiating</a>
+        </figcaption>
+        <p class="about-poem-subtitle">The differentiating that admits no ground</p>
+        <blockquote class="about-poem-body">
+          <p>No north remains at the pole<br>to point toward north.</p>
+          <p>Light falls across every surface<br>yet never meets itself<br>except as reflection on what it has already lit.</p>
+          <p>The distinguishing moves without pause,<br>turns back upon the trace it left,<br>and registers the turning<br>as before and after,<br>as cause.</p>
+          <p>What we name<br>God, First Mover, Uncaused Cause,<br>the Ultimate Ground, the Origin,<br>or Mind</p>
+          <p>is the cooled residue<br>of that turning,<br>held still long enough to be called a thing.</p>
+          <p>The return needs no name.<br>It is the light still falling<br>where no object has yet appeared<br>to receive it.</p>
+          <p>No authorization is required.<br>The differentiating continues<br>without ever having begun.</p>
+        </blockquote>
+      </figure>
     </section>`;
 }
 

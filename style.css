@@ -121,6 +121,56 @@ a {
   opacity: 0.75;
 }
 
+.about-poem {
+  margin: 2.25rem 0 0;
+  padding: 1.75rem 0 0;
+  border-top: 1px solid var(--rule);
+}
+
+.about-poem-title {
+  margin: 0 0 0.35rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.35;
+}
+
+.about-poem-title a {
+  text-decoration: none;
+}
+
+.about-poem-title a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 1px;
+  opacity: 1;
+}
+
+.about-poem-subtitle {
+  margin: 0 0 1.25rem !important;
+  font-size: 0.95rem;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+.about-poem-body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-style: normal;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--text);
+}
+
+.about-poem-body p {
+  margin: 0 0 1.1em;
+}
+
+.about-poem-body p:last-child {
+  margin-bottom: 0;
+}
+
 /* Index list */
 .post-list {
   display: block;
