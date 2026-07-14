@@ -268,6 +268,18 @@ function markdownToSummaryText(markdown) {
     .trim();
 }
 
+// Latin + CJK sentence terminators. CJK periods (。) must count or pure-Chinese
+// openings never become subtitles / og:description.
+const SENTENCE_END = '.!?。！？';
+const SENTENCE_END_CLASS = `[${SENTENCE_END}]`;
+const SENTENCE_NOT_END_CLASS = `[^${SENTENCE_END}]`;
+const SENTENCE_SPLIT_RE = new RegExp(
+  `${SENTENCE_NOT_END_CLASS}+${SENTENCE_END_CLASS}+(?:["')\\]」』]+)?|${SENTENCE_NOT_END_CLASS}+$`,
+  'g',
+);
+const SENTENCE_END_RE = /[.!?。！？]/g;
+const HAS_PROSE_RE = /\p{L}|\p{N}/u;
+
 function splitSentences(text) {
   const protectQuotedPunctuation = (inner) => {
     let terminalIndex = inner.length - 1;
@@ -275,25 +287,33 @@ function splitSentences(text) {
       terminalIndex -= 1;
     }
 
-    return inner.replace(/[.!?]/g, (char, index) => {
+    return inner.replace(SENTENCE_END_RE, (char, index) => {
       if (index === terminalIndex) return char;
       if (char === '.') return '\uE000';
       if (char === '!') return '\uE001';
-      return '\uE002';
+      if (char === '?') return '\uE002';
+      if (char === '。') return '\uE003';
+      if (char === '！') return '\uE004';
+      return '\uE005'; // ？
     });
   };
 
   const protectedText = text
     .replace(/"([^"\n]*)"/g, (_, inner) => `"${protectQuotedPunctuation(inner)}"`)
-    .replace(/“([^”\n]*)”/g, (_, inner) => `“${protectQuotedPunctuation(inner)}”`);
+    .replace(/“([^”\n]*)”/g, (_, inner) => `“${protectQuotedPunctuation(inner)}”`)
+    .replace(/「([^」\n]*)」/g, (_, inner) => `「${protectQuotedPunctuation(inner)}」`)
+    .replace(/『([^』\n]*)』/g, (_, inner) => `『${protectQuotedPunctuation(inner)}』`);
 
-  const matches = protectedText.match(/[^.!?]+[.!?]+(?:["')\]]+)?|[^.!?]+$/g);
+  const matches = protectedText.match(SENTENCE_SPLIT_RE);
   return (matches ?? [])
     .map((sentence) =>
       sentence
         .replaceAll('\uE000', '.')
         .replaceAll('\uE001', '!')
         .replaceAll('\uE002', '?')
+        .replaceAll('\uE003', '。')
+        .replaceAll('\uE004', '！')
+        .replaceAll('\uE005', '？')
         .trim(),
     )
     .filter(Boolean);
@@ -366,7 +386,8 @@ function extractOpening(markdownBody) {
     if (!plain) continue;
 
     for (const sentence of splitSentences(plain)) {
-      if (!/[A-Za-z0-9]/.test(sentence)) continue;
+      // Keep any sentence with letters/digits in any script (not Latin-only).
+      if (!HAS_PROSE_RE.test(sentence)) continue;
       openingProseSentences.push(sentence);
     }
   }
