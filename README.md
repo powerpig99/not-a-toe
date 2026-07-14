@@ -5,7 +5,8 @@
 1. Add essays in `content/posts/*.md`.
 2. The first line must be `# Title`.
 3. Filename is the post slug and permalink (`/posts/<filename>/`).
-4. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) for standardized LLM output.
+4. Optional title/cover image: place `assets/covers/<slug>.jpg` (also `.jpeg`, `.png`, `.webp`). Build copies it to `public/covers/` and renders it above the title.
+5. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) for standardized LLM output.
 
 ## Publish (default)
 

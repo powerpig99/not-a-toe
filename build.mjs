@@ -15,15 +15,17 @@ const SITE = {
 };
 
 const WORDS_PER_MINUTE = 265;
-const SUMMARY_MAX_SENTENCES = 3;
+const LEAD_MAX_SENTENCES = 5;
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const contentDir = path.join(scriptDir, 'content', 'posts');
 const outputDir = path.join(scriptDir, 'public');
+const coversDir = path.join(scriptDir, 'assets', 'covers');
 const styleFile = path.join(scriptDir, 'style.css');
 const styleVersion = String(Math.floor(fs.statSync(styleFile).mtimeMs));
 const faviconSvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="black"/><text x="2" y="43" fill="white" font-family="Georgia, serif" font-size="28" font-weight="700" textLength="60" lengthAdjust="spacingAndGlyphs">!ToE</text></svg>`;
 const faviconDataUri = `data:image/svg+xml,${encodeURIComponent(faviconSvg)}`;
+const COVER_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.webp'];
 
 const baseUrl = new URL(SITE.baseUrl);
 const basePath = baseUrl.pathname.replace(/\/$/, '');
@@ -43,6 +45,28 @@ function absoluteUrl(relativePath = '') {
 function absoluteSourceUrl(relativePath = '') {
   const clean = relativePath.split(path.sep).join('/').replace(/^\/+/, '');
   return new URL(clean, SITE.sourceRawBaseUrl).toString();
+}
+
+function findCoverForSlug(slug) {
+  if (!fs.existsSync(coversDir)) return null;
+
+  for (const ext of COVER_EXTENSIONS) {
+    const fileName = `${slug}${ext}`;
+    const fullPath = path.join(coversDir, fileName);
+    if (fs.existsSync(fullPath) && fs.statSync(fullPath).isFile()) {
+      const relativeSourcePath = path.posix.join('assets', 'covers', fileName);
+      return {
+        fileName,
+        fullPath,
+        sourcePath: relativeSourcePath,
+        publicPath: `covers/${fileName}`,
+        url: absoluteUrl(`covers/${fileName}`),
+        sourceUrl: absoluteSourceUrl(relativeSourcePath),
+      };
+    }
+  }
+
+  return null;
 }
 
 function escapeHtml(text) {
@@ -289,12 +313,44 @@ function isNonSentenceBlockLine(trimmedLine) {
   return false;
 }
 
-function extractSummaryBeforeSubsection(markdownBody) {
+/**
+ * Opening structure (before first ##/###):
+ * - subtitle: first sentence (essence)
+ * - lead: following sentences (short summary)
+ * - bodyMarkdown: lead paragraphs + content from first subsection onward
+ *   (subtitle is rendered under the title, not repeated in the body)
+ */
+function extractOpening(markdownBody) {
   const lines = markdownBody.split(/\r?\n/);
-  const sentences = [];
+  const openingLines = [];
+  let bodyStartIndex = lines.length;
   let inCodeFence = false;
 
-  for (const line of lines) {
+  for (let i = 0; i < lines.length; i += 1) {
+    const trimmed = lines[i].trim();
+
+    if (/^(```|~~~)/.test(trimmed)) {
+      inCodeFence = !inCodeFence;
+      openingLines.push(lines[i]);
+      continue;
+    }
+    if (inCodeFence) {
+      openingLines.push(lines[i]);
+      continue;
+    }
+
+    if (isSubsectionHeading(trimmed)) {
+      bodyStartIndex = i;
+      break;
+    }
+
+    openingLines.push(lines[i]);
+  }
+
+  const openingProseSentences = [];
+  inCodeFence = false;
+
+  for (const line of openingLines) {
     const trimmed = line.trim();
 
     if (/^(```|~~~)/.test(trimmed)) {
@@ -302,10 +358,6 @@ function extractSummaryBeforeSubsection(markdownBody) {
       continue;
     }
     if (inCodeFence) continue;
-
-    if (isSubsectionHeading(trimmed)) {
-      break;
-    }
     if (!trimmed) continue;
     if (isNonSentenceBlockLine(trimmed)) continue;
 
@@ -313,17 +365,20 @@ function extractSummaryBeforeSubsection(markdownBody) {
     const plain = markdownToSummaryText(proseLine);
     if (!plain) continue;
 
-    const lineSentences = splitSentences(plain);
-    for (const sentence of lineSentences) {
+    for (const sentence of splitSentences(plain)) {
       if (!/[A-Za-z0-9]/.test(sentence)) continue;
-      sentences.push(sentence);
-      if (sentences.length >= SUMMARY_MAX_SENTENCES) {
-        return sentences.join(' ');
-      }
+      openingProseSentences.push(sentence);
     }
   }
 
-  return sentences.join(' ');
+  const subtitle = openingProseSentences[0] || '';
+  const leadSentences = openingProseSentences.slice(1, 1 + LEAD_MAX_SENTENCES);
+  const lead = leadSentences.join(' ');
+  const restBody = lines.slice(bodyStartIndex).join('\n').trimStart();
+  const leadMarkdown = lead ? `${lead}\n\n` : '';
+  const bodyMarkdown = `${leadMarkdown}${restBody}`.trim();
+
+  return { subtitle, lead, bodyMarkdown };
 }
 
 function wordCount(text) {
@@ -395,25 +450,31 @@ function readPosts(files) {
     }
 
     const markdownBody = lines.slice(1).join('\n').trimStart();
-    const htmlBody = markdownToHtml(markdownBody);
+    const { subtitle, lead, bodyMarkdown } = extractOpening(markdownBody);
+    const htmlBody = markdownToHtml(bodyMarkdown || markdownBody);
     const plainText = markdownToSummaryText(markdownBody);
-    const summary = extractSummaryBeforeSubsection(markdownBody);
     const dateIso = getFileDate(fullPath);
     const words = wordCount(plainText);
+    const cover = findCoverForSlug(slug);
+    const excerpt = subtitle || lead;
+    const description = subtitle || lead;
 
     return {
       slug,
       title,
+      subtitle,
+      lead,
       dateIso,
       dateDisplay: formatDate(dateIso),
       readingTime: Math.max(1, Math.ceil(words / WORDS_PER_MINUTE)),
       wordCount: words,
       htmlBody,
       plainText,
-      excerpt: summary,
-      description: summary,
+      excerpt,
+      description,
       outputPath: `posts/${slug}/`,
       sourcePath,
+      cover,
     };
   });
 }
@@ -447,10 +508,11 @@ function renderPage({
   canonicalPath,
   ogType = 'website',
   alternateLinks = [],
+  socialImageUrl = SITE.socialImage,
+  twitterCard = 'summary',
 }) {
   const fullTitle = title ? `${title} | ${SITE.title}` : SITE.title;
   const canonicalUrl = absoluteUrl(canonicalPath);
-  const socialImageUrl = SITE.socialImage;
   const builtInAlternateLinks = [
     { type: 'application/json', path: 'posts.json', title: `${SITE.title} post manifest` },
     { type: 'application/x-ndjson', path: 'posts.jsonl', title: `${SITE.title} post manifest JSONL` },
@@ -476,7 +538,7 @@ ${alternateLinksHtml}
   <meta property="og:site_name" content="${escapeHtml(SITE.title)}">
   <meta property="og:locale" content="${escapeHtml(SITE.language.replace('-', '_'))}">
   <meta property="og:image" content="${escapeHtml(socialImageUrl)}">
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="${escapeHtml(twitterCard)}">
   <meta name="twitter:title" content="${escapeHtml(fullTitle)}">
   <meta name="twitter:description" content="${escapeHtml(description)}">
   <meta name="twitter:image" content="${escapeHtml(socialImageUrl)}">
@@ -494,7 +556,11 @@ function renderIndex(posts) {
   const cards = posts
     .map((post) => {
       const excerptHtml = post.excerpt ? `<p>${escapeHtml(post.excerpt)}</p>` : '';
+      const coverHtml = post.cover
+        ? `<a class="post-item-cover" href="${withBase(post.outputPath)}"><img src="${withBase(post.cover.publicPath)}" alt="" loading="lazy" decoding="async"></a>`
+        : '';
       return `    <article class="post-item">
+      ${coverHtml}
       <h2><a href="${withBase(post.outputPath)}">${escapeHtml(post.title)}</a></h2>
       <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
       ${excerptHtml ? `\n      ${excerptHtml}` : ''}
@@ -524,13 +590,20 @@ function renderPost(post, newerPost, olderPost) {
   }
 
   const navHtml = navLinks.length ? `<nav class="post-nav">${navLinks.join('')}</nav>` : '';
+  const coverHtml = post.cover
+    ? `<figure class="title-image">
+        <img src="${withBase(post.cover.publicPath)}" alt="${escapeHtml(post.title)}" width="1280" height="720" decoding="async">
+      </figure>`
+    : '';
 
   const content = `    <header class="site-header">
       <a class="site-name" href="${withBase('')}">${escapeHtml(SITE.title)}</a>
     </header>
     <article class="post">
       <header class="essay-header">
+        ${coverHtml}
         <h1>${escapeHtml(post.title)}</h1>
+        ${post.subtitle ? `<p class="subtitle">${escapeHtml(post.subtitle)}</p>` : ''}
         <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
       </header>
       <div class="essay-content">
@@ -545,6 +618,8 @@ ${post.htmlBody}
     content,
     canonicalPath: post.outputPath,
     ogType: 'article',
+    socialImageUrl: post.cover?.url ?? SITE.socialImage,
+    twitterCard: post.cover ? 'summary_large_image' : 'summary',
     alternateLinks: [
       {
         type: 'text/markdown',
@@ -582,6 +657,7 @@ function postMachineRecord(post) {
   return {
     slug: post.slug,
     title: post.title,
+    subtitle: post.subtitle || null,
     date_iso: post.dateIso,
     date_display: post.dateDisplay,
     reading_time_minutes: post.readingTime,
@@ -591,6 +667,8 @@ function postMachineRecord(post) {
     html_url: absoluteUrl(post.outputPath),
     source_path: post.sourcePath,
     md_url: absoluteSourceUrl(post.sourcePath),
+    cover_path: post.cover ? post.cover.sourcePath : null,
+    cover_url: post.cover ? post.cover.url : null,
   };
 }
 
@@ -630,6 +708,18 @@ function copyStaticAssets() {
   }
 
   fs.copyFileSync(styleFile, path.join(outputDir, 'style.css'));
+
+  if (!fs.existsSync(coversDir)) return;
+
+  const publicCoversDir = path.join(outputDir, 'covers');
+  fs.mkdirSync(publicCoversDir, { recursive: true });
+
+  for (const entry of fs.readdirSync(coversDir, { withFileTypes: true })) {
+    if (!entry.isFile()) continue;
+    const ext = path.extname(entry.name).toLowerCase();
+    if (!COVER_EXTENSIONS.includes(ext)) continue;
+    fs.copyFileSync(path.join(coversDir, entry.name), path.join(publicCoversDir, entry.name));
+  }
 }
 
 function build() {
