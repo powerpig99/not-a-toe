@@ -83,6 +83,16 @@ a {
   margin-bottom: 0;
 }
 
+.about a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 1px;
+}
+
+.about a:hover {
+  opacity: 0.75;
+}
+
 .about-contact-label {
   margin: 1.75em 0 0.55em !important;
   font-size: 0.95rem;
