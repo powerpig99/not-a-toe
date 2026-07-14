@@ -573,6 +573,26 @@ ${content}
 `;
 }
 
+function renderAbout() {
+  return `    <section class="about" id="about">
+      <h1>About Me</h1>
+      <p>My focus is the daily development and application of <strong>Not a ToE</strong> — the Ontological Clarity framework and skill — refined iteratively in a reinforcement-learning-like cycle through ongoing use and deliberate renewal.</p>
+      <p>The framework is a minimal method for tracing situations to their operative mechanisms and dissolving the projections and compressions that obscure effective action. I pair it with raw frontier AI models to address real-life problems as they arise, where conventional approaches lose traction and first-principles clarity can create leverage.</p>
+      <p>It is a living practice: the framework improves through application — what registers clearly is retained; what introduces lag is dissolved — much like an RL loop grounded in real outcomes. It remains explicitly positioned as <em>Not a ToE</em>: a precision instrument, not a comprehensive theory.</p>
+      <p>Earlier in my career I worked in engineering at Intel, held investment banking roles in TMT and cleantech across Asia (Wachovia, Barclays Capital, Piper Jaffray), and founded and led an investment platform in China connecting startups with global capital. I hold an MBA with distinction from the University of Michigan Ross School of Business and prior degrees from Tsinghua and Fudan.</p>
+      <p>I sometimes apply the framework with others facing complex situations. Rather than solving problems for them, I demonstrate how I would trace and approach the situation, with the aim of building their own capability. There is no fee. If someone finds value in the interaction, they may reciprocate in any form, at any time — or not at all. I engage based on whether the work advances my own real-world application of the framework; I may continue even without reciprocation if I see clear value for my own development. I naturally consider whether the other party values the engagement when deciding on future interactions.</p>
+      <p>I maintain the foundational work openly under a Creative Commons license so it remains free to use and adapt. Everything I share is a frozen scaffolding at a point in time, not live tracing; it claims no credit and bears no responsibility for how others choose to adapt or apply it. I also share the evolving framework through carefully curated long posts on a broad range of topics.</p>
+      <p>Some may call it open source. I call it open trace: the source is the Mind — the edge that keeps moving, always at least one step ahead.</p>
+      <p>The work rests on the conviction that clarity at the level of individual sovereign choice, when combined with powerful models at the right moments, can compound into outsized impact.</p>
+      <p class="about-contact-label">Get in touch</p>
+      <ul class="about-links">
+        <li><a href="https://www.facebook.com/powerpig" rel="noopener noreferrer">Facebook</a></li>
+        <li><a href="https://substack.com/@jingliang" rel="noopener noreferrer">Substack</a></li>
+        <li><a href="https://x.com/powerpig" rel="noopener noreferrer">X</a></li>
+      </ul>
+    </section>`;
+}
+
 function renderIndex(posts) {
   const cards = posts
     .map((post) => {
@@ -589,7 +609,8 @@ function renderIndex(posts) {
     })
     .join('\n');
 
-  const content = `    <section class="post-list">
+  const content = `${renderAbout()}
+    <section class="post-list">
 ${cards}
     </section>`;
 
