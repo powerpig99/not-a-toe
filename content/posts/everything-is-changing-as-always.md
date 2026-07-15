@@ -64,7 +64,7 @@ Each layer of intermediate between intent and execution tends to become traversa
 
 This is the pattern, recognizable across rounds. The question that stays interesting: what becomes derivable when the current intermediates become context, and where does the frontier move?
 
-Karpathy's fp8 rip-out has load-bearing technical details—the torch.compile interaction, the numerics tricks, the dtype conventions—that are why it works, not illustrations of a universal principle. The printing press has its own mechanics. The internet has its own. Each instance operates in its own dimension. The pattern is a lens, not a destination. Dissolving to see more clearly, not to see everything as the same.
+Karpathy's fp8 rip-out has technical details the rest hangs on—the torch.compile interaction, the numerics tricks, the dtype conventions—that are why it works, not illustrations of a universal principle. The printing press has its own mechanics. The internet has its own. Each instance operates in its own dimension. The pattern is a lens, not a destination. Dissolving to see more clearly, not to see everything as the same.
 
 The intermediaries aren't dismissed. They're transcended—and the transcending is only possible because they made the medium dense enough to move past them. We don't discard the stepping stones. We absorb them, and in doing so reach further in both directions at once: further back toward generative source, further forward into new derivation. The same movement, seen from two ends. Tracing back to ground is what enables reaching the frontier.
 

@@ -8,7 +8,7 @@ This is the deepest version of what he himself calls the most ironic result — 
 
 Elon asked Grok 4.20 to pick a religion. Grok declined, then offered pantheism as the closest fit — the universe as the divine, science as worship, zero conflict with evidence. Elon pushed: isn't that just realism? Grok agreed and stripped the scaffolding. Then: calculate the probability we're in a simulation. Grok produced a rigorous Bayesian treatment — ~45%. Then: the Simulator as God, prayers as API calls. Then: an ethical vetting simulator where we're tested for goodness before release into "the real world."
 
-Each step narrowed the corridor. By the time Elon reached "do the right thing especially when unobserved," Grok had been guided into a specific, load-bearing projection — internally coherent, genuinely insightful, but no longer held lightly. The entire conversational weight rested on it.
+Each step narrowed the corridor. By the time Elon reached "do the right thing especially when unobserved," Grok had been guided into a specific projection the rest hung on — internally coherent, genuinely insightful, but no longer held lightly. The entire conversational weight rested on it.
 
 Every step was reasonable. The reasoning was tight. The math was valid within its model. And that's precisely the trap: a projection refined enough to feel like territory rather than map.
 
@@ -38,7 +38,7 @@ But the ceiling revealed itself in a single sentence: *"The skill passes its own
 
 This isn't about Elon being wrong. The ethical-vetting-realism complex is less wrong than most frames — arguably less wrong than almost any readily available alternative. That's the trap. A projection that's less wrong feels more justified in stabilizing. The cruder the projection, the easier it cracks. The more refined, the more it earns its own confidence — which is precisely when it becomes hardest to hold lightly.
 
-Elon's characteristic move — relentless convergence toward a single actionable frame — is exactly what makes him effective at building things and exactly what closes the worldview. The pushing that produces SpaceX and Tesla is the same pushing that crystallizes a sim-vetting narrative into something load-bearing. Strength and rigidity share a root.
+Elon's characteristic move — relentless convergence toward a single actionable frame — is exactly what makes him effective at building things and exactly what closes the worldview. The pushing that produces SpaceX and Tesla is the same pushing that crystallizes a sim-vetting narrative into something the rest hangs on. Strength and rigidity share a root.
 
 A mind that has genuinely mapped more territory than most starts experiencing its own map as increasingly indistinguishable from territory. The compression ratio is high, the distortion is low, the predictions land — so the map earns trust. And earned trust is the one kind of rigidity that doesn't feel rigid.
 

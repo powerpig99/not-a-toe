@@ -18,7 +18,7 @@ Sophistication of derivation as camouflage for selection of premises.
 
 ## The Assumptions
 
-The load-bearing assumption is nominal accounting — every feedback loop runs on it.
+The assumption everything else rests on is nominal accounting — every feedback loop runs on it.
 
 A product manager loses a $180,000 job. The memo assumes they take a $45,000 gig driving for Uber, registers this as 75% income destruction, and feeds it into a consumption collapse model, a mortgage stress model, a tax revenue shortfall model. Each model runs on nominal income. Each produces catastrophic outputs.
 

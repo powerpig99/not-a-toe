@@ -62,4 +62,4 @@ Karpathy's practical advice is sound: expose your product via CLI, write Skills,
 
 But the reasoning — "CLIs are legacy, and legacy happens to work for agents" — runs backward. CLIs aren't useful to agents because they're old. They're old because they're foundational. They're foundational because they're the first stable symbolic interface — the layer where human language and machine operation first share a surface. Everything above is accommodation. Agents strip the accommodation.
 
-The question isn't whether to "build for agents." It's recognizing that the symbolic command layer was always the load-bearing structure, and the GUI era was an extended accommodation for human perceptual constraints. What's changing isn't the stack. It's which layers need to be rendered.
+The question isn't whether to "build for agents." It's recognizing that the symbolic command layer was always what the stack rests on, and the GUI era was an extended accommodation for human perceptual constraints. What's changing isn't the stack. It's which layers need to be rendered.

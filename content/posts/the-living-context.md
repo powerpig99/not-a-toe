@@ -8,7 +8,7 @@ This misses the mechanism.
 
 A spec contains the context the living context doesn't already hold. It's the delta—the specific distinctions about *this* feature, *this* problem, that the accumulated lattice hasn't encountered yet.
 
-But the viral framing treats the delta as the whole. "Write better specs" assumes the spec is the load-bearing structure—that what you articulate into tickets is what makes agents work. This confuses the missing piece with the foundation it plugs into.
+But the viral framing treats the delta as the whole. "Write better specs" assumes the spec is what the system rests on—that what you articulate into tickets is what makes agents work. This confuses the missing piece with the foundation it plugs into.
 
 How much the spec has to carry depends entirely on what's already there. Thin living context: the spec has to carry everything—architecture, conventions, edge cases, tool behavior, interaction patterns—and it can't. No static document holds that much. Dense living context: the spec only needs to carry what's new, and the rest propagates from the lattice already in place. The same spec, handed to a developer who hasn't built that context, produces different results. The spec hasn't changed. The projection-space it activates within has.
 

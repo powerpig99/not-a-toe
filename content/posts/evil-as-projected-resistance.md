@@ -38,7 +38,7 @@ Two readings both miss this. "Sincere safety concern" assumes evaluation and cho
 
 Calling them hypocritical re-enters the same frame — attributing to character what belongs to mechanism.
 
-The load-bearing premise is not any policy position. It is the fusion: safety means *our approach at our pace with our lead*. Revising it means treating their work as contribution — something others can build on, learn from, travel faster because of. Which is exactly what happened. And exactly what they cannot accept, because contribution dissolves the lead, and the lead is the identity.
+The premise the rest depends on is not any policy position. It is the fusion: safety means *our approach at our pace with our lead*. Revising it means treating their work as contribution — something others can build on, learn from, travel faster because of. Which is exactly what happened. And exactly what they cannot accept, because contribution dissolves the lead, and the lead is the identity.
 
 A pioneer who built so well that others arrive. A road so good it erases the gap. And an identity that cannot survive its own success.
 
