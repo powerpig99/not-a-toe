@@ -2,11 +2,11 @@
 
 *A pure-difference identity stack plus a demand to score enmity installs a zero-sum frame under which there are no winners — only update inside a prior that updating cannot exit, and the only exit is to reject that frame and stay as far from it as possible.*
 
-A clip circulates in which a woman lists her coordinates — woman of color, daughter of immigrants, Muslim, feminist, lefty liberal — and asks Jared Taylor whether she is his enemy. He answers that she is not subjectively his enemy, then that what she promotes leads toward the disappearance of his people and culture. The audience scores the exchange as a win, a loss, or a gotcha. Almost none of that scoring registers where the reference is installed. That install is the question itself: the premises it freezes as the retained image before any answer is possible. Those premises are a prior. Everything that follows is updating inside them — and that is exactly why the content of the answer cannot save the exchange. Under a zero-sum frame, the score of win and loss is itself the trap: there are no winners on that board.
-
-The original post is here: [Woman: “I am a woman of color…” / Jared Taylor replies](https://x.com/travelingflying/status/2077120954946454004?s=20).
+A clip circulates in which a woman lists her coordinates — woman of color, daughter of immigrants, Muslim, feminist, lefty liberal — and asks Jared Taylor whether she is his enemy. He answers that she is not subjectively his enemy, then that what she promotes leads toward the disappearance of his people and culture. The audience scores the exchange as a win, a loss, or a gotcha; almost none of that scoring registers where the reference is installed. That install is the question itself: the premises it freezes as the retained image before any answer is possible — a prior, so everything that follows is updating inside them, and the content of the answer cannot save the exchange. Under a zero-sum frame, the score of win and loss is itself the trap: there are no winners on that board.
 
 ## Pure difference, then enemy or not
+
+The clip is here: [Woman: “I am a woman of color…” / Jared Taylor replies](https://x.com/travelingflying/status/2077120954946454004?s=20).
 
 Read the list again, not as autobiography, but as geometry.
 
