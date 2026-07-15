@@ -47,6 +47,13 @@ function absoluteSourceUrl(relativePath = '') {
   return new URL(clean, SITE.sourceRawBaseUrl).toString();
 }
 
+function coverMimeType(fileName) {
+  const ext = path.extname(fileName).toLowerCase();
+  if (ext === '.png') return 'image/png';
+  if (ext === '.webp') return 'image/webp';
+  return 'image/jpeg';
+}
+
 function findCoverForSlug(slug) {
   if (!fs.existsSync(coversDir)) return null;
 
@@ -55,13 +62,19 @@ function findCoverForSlug(slug) {
     const fullPath = path.join(coversDir, fileName);
     if (fs.existsSync(fullPath) && fs.statSync(fullPath).isFile()) {
       const relativeSourcePath = path.posix.join('assets', 'covers', fileName);
+      const mtimeMs = Math.floor(fs.statSync(fullPath).mtimeMs);
+      // Cache-bust social crawlers (X caches failed first scrapes aggressively).
+      const url = `${absoluteUrl(`covers/${fileName}`)}?v=${mtimeMs}`;
       return {
         fileName,
         fullPath,
         sourcePath: relativeSourcePath,
         publicPath: `covers/${fileName}`,
-        url: absoluteUrl(`covers/${fileName}`),
+        url,
         sourceUrl: absoluteSourceUrl(relativeSourcePath),
+        mimeType: coverMimeType(fileName),
+        width: 1280,
+        height: 720,
       };
     }
   }
@@ -531,6 +544,10 @@ function renderPage({
   alternateLinks = [],
   socialImageUrl = SITE.socialImage,
   twitterCard = 'summary',
+  socialImageWidth = null,
+  socialImageHeight = null,
+  socialImageType = null,
+  socialImageAlt = null,
 }) {
   const fullTitle = title ? `${title} | ${SITE.title}` : SITE.title;
   const canonicalUrl = absoluteUrl(canonicalPath);
@@ -539,6 +556,17 @@ function renderPage({
     { type: 'application/x-ndjson', path: 'posts.jsonl', title: `${SITE.title} post manifest JSONL` },
   ];
   const alternateLinksHtml = renderAlternateLinks([...builtInAlternateLinks, ...alternateLinks]);
+  const ogImageExtras = [
+    socialImageWidth ? `  <meta property="og:image:width" content="${escapeHtml(String(socialImageWidth))}">` : '',
+    socialImageHeight ? `  <meta property="og:image:height" content="${escapeHtml(String(socialImageHeight))}">` : '',
+    socialImageType ? `  <meta property="og:image:type" content="${escapeHtml(socialImageType)}">` : '',
+    socialImageAlt ? `  <meta property="og:image:alt" content="${escapeHtml(socialImageAlt)}">` : '',
+  ]
+    .filter(Boolean)
+    .join('\n');
+  const twitterImageAlt = socialImageAlt
+    ? `\n  <meta name="twitter:image:alt" content="${escapeHtml(socialImageAlt)}">`
+    : '';
 
   return `<!doctype html>
 <html lang="${SITE.language}">
@@ -559,10 +587,11 @@ ${alternateLinksHtml}
   <meta property="og:site_name" content="${escapeHtml(SITE.title)}">
   <meta property="og:locale" content="${escapeHtml(SITE.language.replace('-', '_'))}">
   <meta property="og:image" content="${escapeHtml(socialImageUrl)}">
+${ogImageExtras}
   <meta name="twitter:card" content="${escapeHtml(twitterCard)}">
   <meta name="twitter:title" content="${escapeHtml(fullTitle)}">
   <meta name="twitter:description" content="${escapeHtml(description)}">
-  <meta name="twitter:image" content="${escapeHtml(socialImageUrl)}">
+  <meta name="twitter:image" content="${escapeHtml(socialImageUrl)}">${twitterImageAlt}
 </head>
 <body>
   <main class="wrap">
@@ -678,6 +707,10 @@ ${post.htmlBody}
     ogType: 'article',
     socialImageUrl: post.cover?.url ?? SITE.socialImage,
     twitterCard: post.cover ? 'summary_large_image' : 'summary',
+    socialImageWidth: post.cover?.width ?? null,
+    socialImageHeight: post.cover?.height ?? null,
+    socialImageType: post.cover?.mimeType ?? null,
+    socialImageAlt: post.cover ? post.title : null,
     alternateLinks: [
       {
         type: 'text/markdown',
