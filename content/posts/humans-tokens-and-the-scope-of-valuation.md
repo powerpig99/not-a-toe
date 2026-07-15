@@ -6,7 +6,7 @@ The claim that humans are cheaper than software for the first time registers a r
 
 ## The comparison is local
 
-“For the first time in history, humans are cheaper than software” is offered as narrative violation. It registers a shift in relative cost between two inputs—human coordination and token generation—under present conditions of management, prompting, and scaling. Within the frame that produces this comparison, the claim can be defended on operational grounds: poorly specified instructions cause token spend to multiply through self-referential loops, while human friction, however wasteful, tends to contain error propagation more slowly.
+[“For the first time in history, humans are cheaper than software”](https://x.com/gsivulka/status/2077070925154161101) is offered as narrative violation. It registers a shift in relative cost between two inputs—human coordination and token generation—under present conditions of management, prompting, and scaling. Within the frame that produces this comparison, the claim can be defended on operational grounds: poorly specified instructions cause token spend to multiply through self-referential loops, while human friction, however wasteful, tends to contain error propagation more slowly.
 
 The comparison, however, presupposes that both sides have already been rendered comparable. It treats humans and tokens as quantities inside an existing production game whose rules, outputs, and success criteria are taken as given. What remains outside the frame is the difference in how each side relates to the game itself.
 
