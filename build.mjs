@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import { execFileSync } from 'node:child_process';
 import fs from 'node:fs';
+import crypto from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -62,9 +63,10 @@ function findCoverForSlug(slug) {
     const fullPath = path.join(coversDir, fileName);
     if (fs.existsSync(fullPath) && fs.statSync(fullPath).isFile()) {
       const relativeSourcePath = path.posix.join('assets', 'covers', fileName);
-      const mtimeMs = Math.floor(fs.statSync(fullPath).mtimeMs);
-      // Cache-bust social crawlers (X caches failed first scrapes aggressively).
-      const url = `${absoluteUrl(`covers/${fileName}`)}?v=${mtimeMs}`;
+      // Content hash (not mtime): X caches failed first scrapes; a new hash forces re-fetch
+      // when the cover bytes change. mtime alone is noisy across CI checkouts.
+      const hash = crypto.createHash('sha256').update(fs.readFileSync(fullPath)).digest('hex').slice(0, 12);
+      const url = `${absoluteUrl(`covers/${fileName}`)}?v=${hash}`;
       return {
         fileName,
         fullPath,
