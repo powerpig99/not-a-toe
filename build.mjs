@@ -281,6 +281,21 @@ function markdownToSummaryText(markdown) {
     .trim();
 }
 
+/** Protect markdown links so sentence-splitting does not treat URL punctuation as ends. */
+function withProtectedLinks(text) {
+  const links = [];
+  const protectedText = text.replace(/\[([^\]]+)\]\(([^)]*)\)/g, (full) => {
+    const idx = links.length;
+    links.push(full);
+    return `\uE100${idx}\uE101`;
+  });
+  return { protectedText, links };
+}
+
+function restoreProtectedLinks(text, links) {
+  return text.replace(/\uE100(\d+)\uE101/g, (_, idx) => links[Number(idx)] ?? '');
+}
+
 // Latin + CJK sentence terminators. CJK periods (。) must count or pure-Chinese
 // openings never become subtitles / og:description.
 const SENTENCE_END = '.!?。！？';
@@ -380,7 +395,10 @@ function extractOpening(markdownBody) {
     openingLines.push(lines[i]);
   }
 
-  const openingProseSentences = [];
+  // Plain sentences for subtitle / meta; markdown-preserving sentences for body lead
+  // so links (and other inline markup that survives summary stripping of emphasis) remain.
+  const plainSentences = [];
+  const markdownSentences = [];
   inCodeFence = false;
 
   for (const line of openingLines) {
@@ -395,22 +413,27 @@ function extractOpening(markdownBody) {
     if (isNonSentenceBlockLine(trimmed)) continue;
 
     const proseLine = trimmed.replace(/^>\s?/, '');
-    const plain = markdownToSummaryText(proseLine);
-    if (!plain) continue;
+    const { protectedText, links } = withProtectedLinks(proseLine);
+    // Strip emphasis etc. for sentence boundaries; placeholders keep link spans intact.
+    const forSplit = markdownToSummaryText(protectedText);
+    if (!forSplit) continue;
 
-    for (const sentence of splitSentences(plain)) {
+    for (const sentence of splitSentences(forSplit)) {
+      const withLinks = restoreProtectedLinks(sentence, links);
+      const plain = markdownToSummaryText(withLinks);
       // Keep any sentence with letters/digits in any script (not Latin-only).
-      if (!HAS_PROSE_RE.test(sentence)) continue;
-      openingProseSentences.push(sentence);
+      if (!HAS_PROSE_RE.test(plain)) continue;
+      plainSentences.push(plain);
+      markdownSentences.push(withLinks);
     }
   }
 
-  const subtitle = openingProseSentences[0] || '';
-  const leadSentences = openingProseSentences.slice(1, 1 + LEAD_MAX_SENTENCES);
+  const subtitle = plainSentences[0] || '';
+  const leadSentences = plainSentences.slice(1, 1 + LEAD_MAX_SENTENCES);
   const lead = leadSentences.join(' ');
+  const leadMarkdown = markdownSentences.slice(1, 1 + LEAD_MAX_SENTENCES).join(' ');
   const restBody = lines.slice(bodyStartIndex).join('\n').trimStart();
-  const leadMarkdown = lead ? `${lead}\n\n` : '';
-  const bodyMarkdown = `${leadMarkdown}${restBody}`.trim();
+  const bodyMarkdown = `${leadMarkdown ? `${leadMarkdown}\n\n` : ''}${restBody}`.trim();
 
   return { subtitle, lead, bodyMarkdown };
 }
