@@ -7,6 +7,12 @@
 3. Filename is the post slug and permalink (`/posts/<filename>/`).
 4. Optional title/cover image: place `assets/covers/<slug>.jpg` (also `.jpeg`, `.png`, `.webp`). Build copies it to `public/covers/` and renders it above the title.
 5. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) for standardized LLM output.
+6. Internal cross-links stay **relative** (`[title](../other-slug/)`) in source. For Substack or other external paste, project absolute URLs without editing the source:
+
+```bash
+node scripts/export-absolute-md.mjs <slug>          # writes export/<slug>.md (gitignored)
+node scripts/export-absolute-md.mjs <slug> --stdout # pipe to clipboard: | pbcopy
+```
 
 ## Publish (default)
 
