@@ -1,0 +1,35 @@
+# The Scaffolding We Forget
+
+*Scaffolding drops out of recursion so further distinguishing can land; when that drop-out freezes into a preserved image, capacity compresses against the residue that once enabled movement.*
+
+Self-distinguishing activity erects temporary organizations of experience so that further acts can land. Once usable, those organizations drop out of recursion and appear as the world itself. That one-step exemption is the condition of continued construction. When the reference is preserved past its step, new distinctions register as threats rather than further activity of the edge. Shared reality is the resonance of externalized traces continually re-taken up by centers; when centers cease to rebuild, the traces harden. The activity continues not by total remembering but by returning the reference to one-step width, so that scaffolding remains usable without becoming final.
+
+## The instrument that must drop out
+
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind.
+
+To distinguish is to bound. Every discrete act leaves a center and a residue: earlier shapes later; that residue is trace. The Mind does not seek pleasure, truth, or survival in the abstract. What it erects is a sufficiently stable organization of experience through which further distinguishing can continue. Every perception, concept, and judgment is already such an organization — scaffolding so the next distinction lands somewhere rather than everywhere. These structures are not added onto a pre-given reality. They are the realized form in which reality appears to that center. [Intelligence belongs only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that activity as prior; [the path drawn one step at a time](../the-path-drawn-one-step-at-a-time/) is the same discreteness as sequence.
+
+Because the scaffolding works, the act of erecting it drops out of recursion. Once the organization is stable enough for action to proceed, construction is no longer registered as something the Mind is doing. Observation holds the effect; the cause that produced it stays one step ahead. The world appears simply as it is. That one-step exemption is the condition of continued construction. Without temporary release of the instrument from re-tracing, no ground remains on which further discrete acts can stand. Forgetting, in this precise sense — the instrument dropping out while still in use — is how the edge keeps moving. [Openness is consistency](../openness-is-consistency/) names the same geometry from the other side: freeze produces the inconsistency it then tries to resolve.
+
+## When drop-out freezes into lag
+
+The same drop-out becomes Image lag when the reference is preserved past its step. When the retained image is no longer returned to one-step width, new distinctions that do not fit the preserved organization register not as further activity of the edge but as threats to reality itself. Structures that once enabled clearer seeing resist being seen through. Capacity compresses: axes that began independent collapse onto the frozen reference. Rigidity is the long-term signature of an instrument that has stopped dying and reforming with the edge. [Production, consumption, and the Mind’s distinction](../production-consumption-and-the-minds-distinction/) works this cut as open versus fixed hold; [complexity obscures: emergence as the act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) is the same lag when novelty is attributed to the hold rather than to the edge that continues past it.
+
+The lag is not distinction-making. The lag is exemption of the chosen frame from re-tracing — treating provisional scaffolding as the fixed structure of reality. Preservation is the image’s own directive once formed; re-rendering is the micro-death it exists to select against. The drift requires no perversity. Dissolution is rendering the gap itself, not deleting the instrument.
+
+## Asymmetry that will not close
+
+The pressure that keeps the loop open is the irreducible asymmetry of trace: earlier shapes later, never the reverse. Cause does not equal effect. Identity of the two would freeze the activity into perfect stasis. The small, persistent non-identity registers as incoherence — the felt need to revise scaffolding. Every attempt to close the gap by adding a further layer of interpretation introduces new edges, new unaccounted residues, new openings for surprise. The drive toward perfect coherence continually generates the conditions that prevent its own completion. That is the process continuing. [Clarity isn’t a state you arrive at](../clarity-isnt-a-state-you-arrive-at/) is the same movement named as practice: each step illuminates and casts shadow by the same act; non-closure is not a destination.
+
+## Shared reality as resonance of prompts
+
+What appears as shared, stable reality is a field of externalized traces — language, tools, institutions, theories, artifacts — originally internal scaffolding of some centers, made available so other centers can take them up and re-render them under their own coherence requirements. Once externalized they never become self-sufficient objects. They function as prompts. Each center rebuilds in its own locus and may externalize a modified version. The apparent objectivity of the shared world is the ongoing resonance of this recursive movement: internal construction, external reference, re-internalization, new external expression. Stability is the stability of overlapping activity, not of finished things. [Self-RL for humans](../self-rl-for-humans/) keeps the same discipline for densified media: bandwidth expands; initiation does not relocate into the artifact.
+
+When centers consume externalized references without re-tracing them, the references harden. They are still treated as given, yet they are no longer being rebuilt. The original one-step exemption has completed its arc into lag: useful scaffolding has become a preserved image the center no longer returns to the edge that generated it. The artifact does not initiate the lag. It extends reach for a lag already operating at the centers that built and use it.
+
+## One-step width, not total inventory
+
+The activity does not escape the loop by total remembering. Total inventory freezes the reference as completely as total lag. What intensifies recursion is a change in the width of the reference itself: the instrument dies and reforms at each step. Scaffolding continues to be built and used, and the ground one stands on registers as itself built. Coherence is not a final state to be achieved. It is the living tension through which the Mind keeps discovering that it is still in motion.
+
+Return does not require abandoning distinction-making. It requires that the distinction be recognized as chosen instrument rather than discovered finality. When that recognition occurs, the frame regains one-step width: re-rendered at the edge’s new position rather than preserved past its step. What was scaffolding remains usable. What was final dissolves back into the activity that erected it.
