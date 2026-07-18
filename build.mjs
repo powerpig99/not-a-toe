@@ -328,7 +328,10 @@ function splitSentences(text) {
     });
   };
 
-  const protectedText = text
+  // Version numbers and decimals (4.5, 1.5T) must not end sentences.
+  let protectedText = text.replace(/(\d)\.(\d)/g, '$1\uE006$2');
+
+  protectedText = protectedText
     .replace(/"([^"\n]*)"/g, (_, inner) => `"${protectQuotedPunctuation(inner)}"`)
     .replace(/“([^”\n]*)”/g, (_, inner) => `“${protectQuotedPunctuation(inner)}”`)
     .replace(/「([^」\n]*)」/g, (_, inner) => `「${protectQuotedPunctuation(inner)}」`)
@@ -344,6 +347,7 @@ function splitSentences(text) {
         .replaceAll('\uE003', '。')
         .replaceAll('\uE004', '！')
         .replaceAll('\uE005', '？')
+        .replaceAll('\uE006', '.')
         .trim(),
     )
     .filter(Boolean);
