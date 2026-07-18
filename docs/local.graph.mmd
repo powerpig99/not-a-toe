@@ -1,0 +1,114 @@
+%% Disposable local-memory projection — regenerate; do not edit
+flowchart LR
+  classDef tracker fill:#1a1a2e,color:#eee,stroke:#e94560
+  classDef memory fill:#16213e,color:#eee,stroke:#0f3460
+  classDef domain fill:#0f3460,color:#eee,stroke:#533483
+  classDef root fill:#e94560,color:#fff,stroke:#fff
+  domain_authoring["authoring"]
+  class domain_authoring domain
+  domain_cover_styles["cover-styles"]
+  class domain_cover_styles domain
+  domain_export_pointer["export-pointer"]
+  class domain_export_pointer domain
+  domain_export_projection["export-projection"]
+  class domain_export_projection domain
+  domain_index["index"]
+  class domain_index domain
+  domain_llm_format["llm-format"]
+  class domain_llm_format domain
+  domain_local_graph_projection["local-graph-projection"]
+  class domain_local_graph_projection domain
+  domain_manifest["manifest"]
+  class domain_manifest domain
+  domain_site_build["site-build"]
+  class domain_site_build domain
+  domain_substack_export["substack-export"]
+  class domain_substack_export domain
+  memory_project["MEMORY.md"]
+  class memory_project memory
+  project_not_a_toe["not-a-toe"]
+  class project_not_a_toe root
+  tracker_build["build"]
+  class tracker_build tracker
+  tracker_covers["covers"]
+  class tracker_covers tracker
+  tracker_export["export"]
+  class tracker_export tracker
+  tracker_export_script["export-script"]
+  class tracker_export_script tracker
+  tracker_export_stub["export-stub"]
+  class tracker_export_stub tracker
+  tracker_format["format"]
+  class tracker_format tracker
+  tracker_local["local"]
+  class tracker_local tracker
+  tracker_local_graph_script["local-graph-script"]
+  class tracker_local_graph_script tracker
+  tracker_posts["posts"]
+  class tracker_posts tracker
+  tracker_root["root"]
+  class tracker_root tracker
+  project_not_a_toe --> tracker_posts
+  tracker_posts -->|owns| domain_authoring
+  tracker_posts --> tracker_format
+  tracker_posts --> tracker_covers
+  tracker_posts --> tracker_export
+  tracker_posts --> tracker_local
+  tracker_posts --> tracker_root
+  tracker_posts --> tracker_covers
+  tracker_posts --> tracker_export
+  project_not_a_toe --> tracker_format
+  tracker_format -->|owns| domain_llm_format
+  tracker_format --> tracker_posts
+  tracker_format --> tracker_local
+  tracker_format --> tracker_export
+  tracker_format --> tracker_covers
+  project_not_a_toe --> tracker_export
+  tracker_export -->|owns| domain_substack_export
+  tracker_export --> tracker_posts
+  tracker_export --> tracker_export_script
+  tracker_export --> tracker_covers
+  tracker_export --> tracker_local
+  project_not_a_toe --> tracker_export_stub
+  tracker_export_stub -->|owns| domain_export_pointer
+  tracker_export_stub --> tracker_export
+  project_not_a_toe --> tracker_covers
+  tracker_covers -->|owns| domain_cover_styles
+  tracker_covers --> tracker_posts
+  tracker_covers --> tracker_export
+  tracker_covers --> tracker_local
+  project_not_a_toe --> tracker_root
+  tracker_root -->|owns| domain_index
+  tracker_root --> tracker_posts
+  tracker_root --> tracker_format
+  tracker_root --> tracker_covers
+  tracker_root --> tracker_export
+  tracker_root --> tracker_local
+  tracker_root --> tracker_covers
+  tracker_root --> tracker_format
+  tracker_root --> tracker_posts
+  tracker_root --> tracker_export
+  project_not_a_toe --> tracker_local
+  tracker_local -->|owns| domain_manifest
+  tracker_local --> tracker_posts
+  tracker_local --> tracker_format
+  tracker_local --> tracker_export
+  tracker_local --> tracker_export_stub
+  tracker_local --> tracker_covers
+  tracker_local --> tracker_root
+  project_not_a_toe --> tracker_build
+  tracker_build -->|owns| domain_site_build
+  project_not_a_toe --> tracker_export_script
+  tracker_export_script -->|owns| domain_export_projection
+  project_not_a_toe --> tracker_local_graph_script
+  tracker_local_graph_script -->|owns| domain_local_graph_projection
+  project_not_a_toe --> memory_project
+  memory_project --> tracker_posts
+  memory_project --> tracker_format
+  memory_project --> tracker_export
+  memory_project --> tracker_export_stub
+  memory_project --> tracker_covers
+  memory_project --> tracker_root
+  memory_project --> tracker_local
+  memory_project --> tracker_build
+  memory_project --> tracker_export_script

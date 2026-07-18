@@ -1,0 +1,713 @@
+{
+  "meta": {
+    "projection": "disposable",
+    "not_source_of_truth": true,
+    "regenerate": "node scripts/project-local-graph.mjs",
+    "generated_at": "2026-07-18T14:55:03.471Z",
+    "project": "not-a-toe",
+    "manifest": "docs/local-memory.md",
+    "sources": {
+      "content/posts/README.md": "6961767969ac",
+      "docs/essay-format.md": "388f6c702d3d",
+      "docs/export-for-substack.md": "6d4be40b410e",
+      "export/README.md": "ef1d457eae2a",
+      "assets/covers/STYLES.md": "138af45bdaa8",
+      "README.md": "62037a59cb26",
+      "docs/local-memory.md": "b1273060b5e4",
+      "build.mjs": "d202ad542f2c",
+      "scripts/export-absolute-md.mjs": "d89e7491528e",
+      "scripts/project-local-graph.mjs": "4808483b9c49",
+      "MEMORY.md": "674c1fe880f7"
+    },
+    "stats": {
+      "posts": 98,
+      "covers": 28,
+      "trackers_listed": 10,
+      "trackers_present": 10
+    },
+    "counts": {
+      "nodes": 22,
+      "edges": 64,
+      "missing": 0,
+      "by_kind": {
+        "project": 1,
+        "tracker": 7,
+        "domain": 10,
+        "script": 3,
+        "memory": 1
+      }
+    },
+    "missing": []
+  },
+  "hubs": [
+    {
+      "id": "tracker:root",
+      "name": "root",
+      "count": 9
+    },
+    {
+      "id": "memory:project",
+      "name": "MEMORY.md",
+      "count": 9
+    },
+    {
+      "id": "tracker:posts",
+      "name": "posts",
+      "count": 7
+    },
+    {
+      "id": "tracker:local",
+      "name": "local",
+      "count": 6
+    },
+    {
+      "id": "tracker:format",
+      "name": "format",
+      "count": 4
+    },
+    {
+      "id": "tracker:export",
+      "name": "export",
+      "count": 4
+    },
+    {
+      "id": "tracker:covers",
+      "name": "covers",
+      "count": 3
+    },
+    {
+      "id": "tracker:export-stub",
+      "name": "export-stub",
+      "count": 1
+    }
+  ],
+  "nodes": [
+    {
+      "id": "domain:authoring",
+      "kind": "domain",
+      "name": "authoring",
+      "layer": "domain"
+    },
+    {
+      "id": "domain:cover-styles",
+      "kind": "domain",
+      "name": "cover-styles",
+      "layer": "domain"
+    },
+    {
+      "id": "domain:export-pointer",
+      "kind": "domain",
+      "name": "export-pointer",
+      "layer": "domain"
+    },
+    {
+      "id": "domain:export-projection",
+      "kind": "domain",
+      "name": "export-projection",
+      "layer": "domain"
+    },
+    {
+      "id": "domain:index",
+      "kind": "domain",
+      "name": "index",
+      "layer": "domain"
+    },
+    {
+      "id": "domain:llm-format",
+      "kind": "domain",
+      "name": "llm-format",
+      "layer": "domain"
+    },
+    {
+      "id": "domain:local-graph-projection",
+      "kind": "domain",
+      "name": "local-graph-projection",
+      "layer": "domain"
+    },
+    {
+      "id": "domain:manifest",
+      "kind": "domain",
+      "name": "manifest",
+      "layer": "domain"
+    },
+    {
+      "id": "domain:site-build",
+      "kind": "domain",
+      "name": "site-build",
+      "layer": "domain"
+    },
+    {
+      "id": "domain:substack-export",
+      "kind": "domain",
+      "name": "substack-export",
+      "layer": "domain"
+    },
+    {
+      "id": "memory:project",
+      "kind": "memory",
+      "name": "MEMORY.md",
+      "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
+      "hash": "674c1fe880f7",
+      "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
+      "headings": [
+        "not-a-toe",
+        "Living trackers (do not duplicate)",
+        "Build (thin)",
+        "User preferences",
+        "X notes",
+        "Resume"
+      ],
+      "layer": "memory"
+    },
+    {
+      "id": "project:not-a-toe",
+      "kind": "project",
+      "name": "not-a-toe",
+      "summary": "Vanilla JS static site for Not a ToE essays.",
+      "layer": "root"
+    },
+    {
+      "id": "tracker:build",
+      "kind": "script",
+      "name": "build",
+      "path": "build.mjs",
+      "owns": "site-build",
+      "exists": true,
+      "hash": "d202ad542f2c",
+      "summary": "binary/script",
+      "headings": [],
+      "layer": "tracker"
+    },
+    {
+      "id": "tracker:covers",
+      "kind": "tracker",
+      "name": "covers",
+      "path": "assets/covers/STYLES.md",
+      "owns": "cover-styles",
+      "exists": true,
+      "hash": "138af45bdaa8",
+      "summary": "Living inventory for essay covers in this folder.",
+      "headings": [
+        "Cover styles",
+        "Principle",
+        "Spec",
+        "Style families (used)",
+        "Inventory (by slug)",
+        "Crowded — prefer not to extend",
+        "Unused candidates (pick from here or invent)",
+        "Workflow for a new cover"
+      ],
+      "layer": "tracker"
+    },
+    {
+      "id": "tracker:export",
+      "kind": "tracker",
+      "name": "export",
+      "path": "docs/export-for-substack.md",
+      "owns": "substack-export",
+      "exists": true,
+      "hash": "6d4be40b410e",
+      "summary": "Living guide for projecting a site post into markdown with **absolute** links, without changing the source of truth.",
+      "headings": [
+        "Export for Substack (and other external paste)",
+        "Principle",
+        "Command",
+        "Write export/<slug>.md (gitignored)",
+        "Clipboard (macOS)",
+        "Custom path",
+        "What the script does",
+        "Substack paste workflow",
+        "Title / H1 double-up",
+        "Checklist (Substack)",
+        "Inventory note",
+        "Failure modes"
+      ],
+      "layer": "tracker"
+    },
+    {
+      "id": "tracker:export-script",
+      "kind": "script",
+      "name": "export-script",
+      "path": "scripts/export-absolute-md.mjs",
+      "owns": "export-projection",
+      "exists": true,
+      "hash": "d89e7491528e",
+      "summary": "binary/script",
+      "headings": [],
+      "layer": "tracker"
+    },
+    {
+      "id": "tracker:export-stub",
+      "kind": "tracker",
+      "name": "export-stub",
+      "path": "export/README.md",
+      "owns": "export-pointer",
+      "exists": true,
+      "hash": "ef1d457eae2a",
+      "summary": "Markdown here is a **projection** of `content/posts/` with absolute links for Substack and other paste targets.",
+      "headings": [
+        "export/ (generated, not source)"
+      ],
+      "layer": "tracker"
+    },
+    {
+      "id": "tracker:format",
+      "kind": "tracker",
+      "name": "format",
+      "path": "docs/essay-format.md",
+      "owns": "llm-format",
+      "exists": true,
+      "hash": "388f6c702d3d",
+      "summary": "Use this exact spec when drafting essays for this site.",
+      "headings": [
+        "Essay Formatting Guide",
+        "Copy-Paste Prompt",
+        "Opening Structure",
+        "Title",
+        "First body section",
+        "Why This Works",
+        "Cross-links",
+        "Optional Title Image"
+      ],
+      "layer": "tracker"
+    },
+    {
+      "id": "tracker:local",
+      "kind": "tracker",
+      "name": "local",
+      "path": "docs/local-memory.md",
+      "owns": "manifest",
+      "exists": true,
+      "hash": "b1273060b5e4",
+      "summary": "Manifest of operational `.md` files for this project.",
+      "headings": [
+        "Local memory — living trackers and sleep audit",
+        "Principle",
+        "Living trackers (audit set)",
+        "Sleep audit procedure",
+        "Prune rules",
+        "Graph"
+      ],
+      "layer": "tracker"
+    },
+    {
+      "id": "tracker:local-graph-script",
+      "kind": "script",
+      "name": "local-graph-script",
+      "path": "scripts/project-local-graph.mjs",
+      "owns": "local-graph-projection",
+      "exists": true,
+      "hash": "4808483b9c49",
+      "summary": "binary/script",
+      "headings": [],
+      "layer": "tracker"
+    },
+    {
+      "id": "tracker:posts",
+      "kind": "tracker",
+      "name": "posts",
+      "path": "content/posts/README.md",
+      "owns": "authoring",
+      "exists": true,
+      "hash": "6961767969ac",
+      "summary": "Living guide for essays in this folder.",
+      "headings": [
+        "Posts — authoring contract",
+        "Principle",
+        "File layout",
+        "Markdown structure",
+        "Title",
+        "First body section",
+        "Voice and refinement (from practice)",
+        "Cross-link checklist",
+        "Cover",
+        "Ship (site)",
+        "typical new essay",
+        "open public/posts/<slug>/index.html"
+      ],
+      "layer": "tracker"
+    },
+    {
+      "id": "tracker:root",
+      "kind": "tracker",
+      "name": "root",
+      "path": "README.md",
+      "owns": "index",
+      "exists": true,
+      "hash": "62037a59cb26",
+      "summary": "## Authoring contract Guides (read these instead of re-deriving the workflow each time): | Topic | Doc | |-------|-----| | Posts: structure, voice, cross-links, ship checklist | [`…",
+      "headings": [
+        "Not a ToE",
+        "Authoring contract",
+        "Publish (default)",
+        "Local build (optional)"
+      ],
+      "layer": "tracker"
+    }
+  ],
+  "edges": [
+    {
+      "from": "project:not-a-toe",
+      "to": "tracker:posts",
+      "rel": "has_tracker"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "domain:authoring",
+      "rel": "owns"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "tracker:format",
+      "rel": "points_to",
+      "label": "`docs/essay-format.md`"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "tracker:covers",
+      "rel": "points_to",
+      "label": "`assets/covers/STYLES.md`"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "tracker:export",
+      "rel": "points_to",
+      "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "tracker:local",
+      "rel": "points_to",
+      "label": "`docs/local-memory.md`"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "tracker:root",
+      "rel": "points_to",
+      "label": "`README.md`"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "tracker:covers",
+      "rel": "points_to",
+      "label": "`assets/covers/STYLES.md`"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "tracker:export",
+      "rel": "points_to",
+      "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "project:not-a-toe",
+      "to": "tracker:format",
+      "rel": "has_tracker"
+    },
+    {
+      "from": "tracker:format",
+      "to": "domain:llm-format",
+      "rel": "owns"
+    },
+    {
+      "from": "tracker:format",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
+    },
+    {
+      "from": "tracker:format",
+      "to": "tracker:local",
+      "rel": "points_to",
+      "label": "`docs/local-memory.md`"
+    },
+    {
+      "from": "tracker:format",
+      "to": "tracker:export",
+      "rel": "points_to",
+      "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "tracker:format",
+      "to": "tracker:covers",
+      "rel": "points_to",
+      "label": "`assets/covers/STYLES.md`"
+    },
+    {
+      "from": "project:not-a-toe",
+      "to": "tracker:export",
+      "rel": "has_tracker"
+    },
+    {
+      "from": "tracker:export",
+      "to": "domain:substack-export",
+      "rel": "owns"
+    },
+    {
+      "from": "tracker:export",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
+    },
+    {
+      "from": "tracker:export",
+      "to": "tracker:export-script",
+      "rel": "points_to",
+      "label": "`scripts/export-absolute-md.mjs`"
+    },
+    {
+      "from": "tracker:export",
+      "to": "tracker:covers",
+      "rel": "points_to",
+      "label": "`assets/covers/STYLES.md`"
+    },
+    {
+      "from": "tracker:export",
+      "to": "tracker:local",
+      "rel": "points_to",
+      "label": "`docs/local-memory.md`"
+    },
+    {
+      "from": "project:not-a-toe",
+      "to": "tracker:export-stub",
+      "rel": "has_tracker"
+    },
+    {
+      "from": "tracker:export-stub",
+      "to": "domain:export-pointer",
+      "rel": "owns"
+    },
+    {
+      "from": "tracker:export-stub",
+      "to": "tracker:export",
+      "rel": "points_to",
+      "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "project:not-a-toe",
+      "to": "tracker:covers",
+      "rel": "has_tracker"
+    },
+    {
+      "from": "tracker:covers",
+      "to": "domain:cover-styles",
+      "rel": "owns"
+    },
+    {
+      "from": "tracker:covers",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
+    },
+    {
+      "from": "tracker:covers",
+      "to": "tracker:export",
+      "rel": "points_to",
+      "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "tracker:covers",
+      "to": "tracker:local",
+      "rel": "points_to",
+      "label": "`docs/local-memory.md`"
+    },
+    {
+      "from": "project:not-a-toe",
+      "to": "tracker:root",
+      "rel": "has_tracker"
+    },
+    {
+      "from": "tracker:root",
+      "to": "domain:index",
+      "rel": "owns"
+    },
+    {
+      "from": "tracker:root",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
+    },
+    {
+      "from": "tracker:root",
+      "to": "tracker:format",
+      "rel": "points_to",
+      "label": "`docs/essay-format.md`"
+    },
+    {
+      "from": "tracker:root",
+      "to": "tracker:covers",
+      "rel": "points_to",
+      "label": "`assets/covers/STYLES.md`"
+    },
+    {
+      "from": "tracker:root",
+      "to": "tracker:export",
+      "rel": "points_to",
+      "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "tracker:root",
+      "to": "tracker:local",
+      "rel": "points_to",
+      "label": "`docs/local-memory.md`"
+    },
+    {
+      "from": "tracker:root",
+      "to": "tracker:covers",
+      "rel": "points_to",
+      "label": "`assets/covers/STYLES.md`"
+    },
+    {
+      "from": "tracker:root",
+      "to": "tracker:format",
+      "rel": "points_to",
+      "label": "`docs/essay-format.md`"
+    },
+    {
+      "from": "tracker:root",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
+    },
+    {
+      "from": "tracker:root",
+      "to": "tracker:export",
+      "rel": "points_to",
+      "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "project:not-a-toe",
+      "to": "tracker:local",
+      "rel": "has_tracker"
+    },
+    {
+      "from": "tracker:local",
+      "to": "domain:manifest",
+      "rel": "owns"
+    },
+    {
+      "from": "tracker:local",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
+    },
+    {
+      "from": "tracker:local",
+      "to": "tracker:format",
+      "rel": "points_to",
+      "label": "`docs/essay-format.md`"
+    },
+    {
+      "from": "tracker:local",
+      "to": "tracker:export",
+      "rel": "points_to",
+      "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "tracker:local",
+      "to": "tracker:export-stub",
+      "rel": "points_to",
+      "label": "`export/README.md`"
+    },
+    {
+      "from": "tracker:local",
+      "to": "tracker:covers",
+      "rel": "points_to",
+      "label": "`assets/covers/STYLES.md`"
+    },
+    {
+      "from": "tracker:local",
+      "to": "tracker:root",
+      "rel": "points_to",
+      "label": "`README.md`"
+    },
+    {
+      "from": "project:not-a-toe",
+      "to": "tracker:build",
+      "rel": "has_tracker"
+    },
+    {
+      "from": "tracker:build",
+      "to": "domain:site-build",
+      "rel": "owns"
+    },
+    {
+      "from": "project:not-a-toe",
+      "to": "tracker:export-script",
+      "rel": "has_tracker"
+    },
+    {
+      "from": "tracker:export-script",
+      "to": "domain:export-projection",
+      "rel": "owns"
+    },
+    {
+      "from": "project:not-a-toe",
+      "to": "tracker:local-graph-script",
+      "rel": "has_tracker"
+    },
+    {
+      "from": "tracker:local-graph-script",
+      "to": "domain:local-graph-projection",
+      "rel": "owns"
+    },
+    {
+      "from": "project:not-a-toe",
+      "to": "memory:project",
+      "rel": "has_memory"
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:format",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:export",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:export-stub",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:covers",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:root",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:local",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:build",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:export-script",
+      "rel": "points_to",
+      "implicit": true
+    }
+  ]
+}

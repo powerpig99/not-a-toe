@@ -1,6 +1,6 @@
 # Essay Formatting Guide
 
-Use this exact spec when asking an LLM to draft essays for this site.
+Use this exact spec when drafting essays for this site. For full authoring workflow (voice, cross-links, cover, ship, Substack), see [`content/posts/README.md`](../content/posts/README.md). Sleep audits living trackers via [`docs/local-memory.md`](local-memory.md).
 
 ## Copy-Paste Prompt
 
@@ -19,6 +19,8 @@ Output rules (strict):
 9. Keep quotes properly closed; punctuation inside quotes is allowed.
 10. No frontmatter (`---` metadata), no HTML.
 11. End with a newline.
+12. Internal cross-links use relative form only: `[title](../other-slug/)`. Do not use absolute site URLs in the source file.
+13. Fold any seed observation (tweet, note) into the prose so the essay stands alone; do not depend on a deletable external post link.
 ```
 
 ## Opening Structure
@@ -40,10 +42,18 @@ Output rules (strict):
 - The following sentences before the first subsection are the **lead** (kept in the essay body as the opening paragraph).
 - Keeping the opening as pure prose makes previews deterministic on index and X cards.
 
+## Cross-links
+
+- In **source** (`content/posts/`): `[axis name](../slug/)`.
+- Pointers only — restore an axis; do not restate the linked essay.
+- For Substack paste, project absolute URLs with the export script — see [`docs/export-for-substack.md`](export-for-substack.md).
+
 ## Optional Title Image
 
-Place a landscape cover at `assets/covers/<slug>.jpg` (or `.jpeg` / `.png` / `.webp`), matching the markdown filename without extension. The build:
+Place a landscape cover at `assets/covers/<slug>.jpg` (or `.jpeg` / `.png` / `.webp`), matching the markdown filename without extension. Target **1280×720**. The build:
 
 - copies it to `public/covers/`
 - renders it above the essay title
 - uses it for `og:image` / Twitter large-image card when present
+
+**Style rule:** each new cover must use a visual style not already in the set. Track families, inventory, unused candidates, and the update workflow in [`assets/covers/STYLES.md`](../assets/covers/STYLES.md). Read that file before generating; update it after installing a new cover.

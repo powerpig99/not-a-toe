@@ -1,4 +1,5 @@
 public/
 __pycache__/
 .DS_Store
-export/
+export/*
+!export/README.md
