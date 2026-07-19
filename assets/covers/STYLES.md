@@ -50,13 +50,14 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic dual-path** | Photoreal or near-photoreal landscape with luminous forked road | `the-path-drawn-one-step-at-a-time` |
 | **Technical blueprint / diazo** | Deep blue print stock, white line work, systems plate, empty title block | `looping-and-graphing` |
 | **Stained glass panel** | Leaded jewel-tone panes, cathedral glow, translucent color and grit | `token-efficiency-emulation-and-the-unclosable-gap` |
-| **Mezzotint / aquatint** | Velvet black field, soft grain, silver-gray burnished highlights, tonal plate | `a-living-external-cortex` |
+| **Art Deco poster / chrome and sunburst** | Cream/gold/black geometric sunburst, chrome-brass machine form, stepped chevrons, teal band | `the-flywheel-of-the-mind` |
+| **Chinese gongbi fine-line color** | Meticulous outline, mineral-pigment washes on silk-cream ground, botanical-graph hybrid | `a-living-external-cortex` |
 
 ## Inventory (by slug)
 
 | Slug | Style family |
 |------|----------------|
-| `a-living-external-cortex` | Mezzotint / aquatint |
+| `a-living-external-cortex` | Chinese gongbi fine-line color |
 | `a-new-deeper-look-at-antifragility` | Painterly glass / gold path |
 | `agi-and-asi-are-temporary-goalposts` | Metaphysical plaza oil |
 | `better-than-free-after-the-checklist-closes` | Paper craft / tabletop still |
@@ -77,6 +78,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
 | `the-allocation-of-causal-power-in-validation` | Dark chalk / light trails |
 | `the-brain-does-not-backprop` | Dark chalk / light trails |
+| `the-flywheel-of-the-mind` | Art Deco poster / chrome and sunburst |
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
 | `the-meaning-of-life-is-in-the-drafting` | Risograph flat print |
 | `the-non-definitive-definition-of-intelligence` | Cyanotype |
@@ -109,10 +111,9 @@ Not exhaustive. Prefer something not in Style families above.
 - Ceramic glaze still life on porcelain
 - Anaglyph red-cyan stereo graphic
 - Pixel art / limited-palette retro game screen (no UI text)
-- Chinese gongbi fine-line color (not sumi-e wash)
-- Art Deco poster / chrome and sunburst
 - Comic halftone / Ben-Day dots
 - Sand animation / grain board still
+- Mezzotint / aquatint (velvet black, silver-gray burnished highlights)
 
 ## Workflow for a new cover
 
