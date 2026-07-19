@@ -48,6 +48,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Metaphysical plaza oil** | de Chirico–like arcade, empty frames, hard sun, teal sky | `agi-and-asi-are-temporary-goalposts` |
 | **Surreal desert allegory** | Painted open landscape, symbolic props (rulers, frames, scoreboards) | `the-frame-that-conceals-improvement`, `the-question-that-installs-the-war` |
 | **Cinematic dual-path** | Photoreal or near-photoreal landscape with luminous forked road | `the-path-drawn-one-step-at-a-time` |
+| **Technical blueprint / diazo** | Deep blue print stock, white line work, systems plate, empty title block | `looping-and-graphing` |
 
 ## Inventory (by slug)
 
@@ -62,6 +63,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
 | `humans-tokens-and-the-scope-of-valuation` | Oil split composition |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |
+| `looping-and-graphing` | Technical blueprint / diazo |
 | `mei-you-pu-du-zhi-you-zi-du` | Dark chalk / light trails |
 | `no-system-can-be-kept-closed` | Risograph flat print |
 | `not-a-theory-of-everything` | Dark chalk / light trails |
@@ -105,7 +107,6 @@ Not exhaustive. Prefer something not in Style families above.
 - Ceramic glaze still life on porcelain
 - Anaglyph red-cyan stereo graphic
 - Pixel art / limited-palette retro game screen (no UI text)
-- Technical blueprint / diazo print (not cyanotype plant print)
 - Chinese gongbi fine-line color (not sumi-e wash)
 - Art Deco poster / chrome and sunburst
 - Comic halftone / Ben-Day dots
