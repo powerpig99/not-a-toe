@@ -49,6 +49,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Surreal desert allegory** | Painted open landscape, symbolic props (rulers, frames, scoreboards) | `the-frame-that-conceals-improvement`, `the-question-that-installs-the-war` |
 | **Cinematic dual-path** | Photoreal or near-photoreal landscape with luminous forked road | `the-path-drawn-one-step-at-a-time` |
 | **Technical blueprint / diazo** | Deep blue print stock, white line work, systems plate, empty title block | `looping-and-graphing` |
+| **Stained glass panel** | Leaded jewel-tone panes, cathedral glow, translucent color and grit | `token-efficiency-emulation-and-the-unclosable-gap` |
 
 ## Inventory (by slug)
 
@@ -81,6 +82,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-question-that-installs-the-war` | Surreal desert allegory |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
+| `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
 | `what-always-listens-cannot-originate` | Ukiyo-e / nishiki-e |
 | `you-wu-zhi-bian` | Minimal horizon band |
 
@@ -96,8 +98,7 @@ Not exhaustive. Prefer something not in Style families above.
 - Mezzotint / aquatint (velvet dark, soft grain)
 - Cloisonné / enamel medallion
 - Byzantine or glass mosaic
-- Stained glass panel
-- Bauhaus primary-color geometry (distinct from constructivist poster if cleaner, less rayburst)
+- Bauhaus primary-color geometry (flat primaries, cream stock — distinct from constructivist)
 - Cut-paper shadowbox / layered Scherenschnitte
 - Soft clay / stop-motion puppet still
 - Embroidery / needlework on linen
