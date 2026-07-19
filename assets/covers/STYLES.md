@@ -50,11 +50,13 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic dual-path** | Photoreal or near-photoreal landscape with luminous forked road | `the-path-drawn-one-step-at-a-time` |
 | **Technical blueprint / diazo** | Deep blue print stock, white line work, systems plate, empty title block | `looping-and-graphing` |
 | **Stained glass panel** | Leaded jewel-tone panes, cathedral glow, translucent color and grit | `token-efficiency-emulation-and-the-unclosable-gap` |
+| **Mezzotint / aquatint** | Velvet black field, soft grain, silver-gray burnished highlights, tonal plate | `a-living-external-cortex` |
 
 ## Inventory (by slug)
 
 | Slug | Style family |
 |------|----------------|
+| `a-living-external-cortex` | Mezzotint / aquatint |
 | `a-new-deeper-look-at-antifragility` | Painterly glass / gold path |
 | `agi-and-asi-are-temporary-goalposts` | Metaphysical plaza oil |
 | `better-than-free-after-the-checklist-closes` | Paper craft / tabletop still |
@@ -95,7 +97,6 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 Not exhaustive. Prefer something not in Style families above.
 
-- Mezzotint / aquatint (velvet dark, soft grain)
 - Cloisonné / enamel medallion
 - Byzantine or glass mosaic
 - Bauhaus primary-color geometry (flat primaries, cream stock — distinct from constructivist)
