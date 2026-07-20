@@ -53,6 +53,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Art Deco poster / chrome and sunburst** | Cream/gold/black geometric sunburst, chrome-brass machine form, stepped chevrons, teal band | `the-flywheel-of-the-mind` |
 | **Chinese gongbi fine-line color** | Meticulous outline, mineral-pigment washes on silk-cream ground, botanical-graph hybrid | `a-living-external-cortex` |
 | **Wet-plate collodion / ambrotype** | Dark glass plate, silver-black chemical image, emulsion stain, fixed residue as sole readable term | `two-failures-of-trace` |
+| **Mingei / katazome stencil** | Handmade washi texture, indigo–charcoal stencil, imperfect dye registration, folk-craft gate and current | `what-works-is-the-belief` |
 
 ## Inventory (by slug)
 
@@ -90,6 +91,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
 | `what-always-listens-cannot-originate` | Ukiyo-e / nishiki-e |
+| `what-works-is-the-belief` | Mingei / katazome stencil |
 | `you-wu-zhi-bian` | Minimal horizon band |
 
 ## Crowded — prefer not to extend
