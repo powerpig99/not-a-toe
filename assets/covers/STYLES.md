@@ -54,6 +54,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Chinese gongbi fine-line color** | Meticulous outline, mineral-pigment washes on silk-cream ground, botanical-graph hybrid | `a-living-external-cortex` |
 | **Wet-plate collodion / ambrotype** | Dark glass plate, silver-black chemical image, emulsion stain, fixed residue as sole readable term | `two-failures-of-trace` |
 | **Mingei / katazome stencil** | Handmade washi texture, indigo–charcoal stencil, imperfect dye registration, folk-craft gate and current | `what-works-is-the-belief` |
+| **Solarized surreal photograph** | Man Ray–adjacent Sabattier print: metallic silver, inverted midtones, rim glow, chemical grain | `performative-hindsight-that-pretends-to-be-foresight` |
 
 ## Inventory (by slug)
 
@@ -75,6 +76,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `not-a-theory-of-everything` | Dark chalk / light trails |
 | `openness-is-consistency` | Painterly glass / gold path |
 | `ownership-and-self-worthiness` | Dark chalk / light trails |
+| `performative-hindsight-that-pretends-to-be-foresight` | Solarized surreal photograph |
 | `production-consumption-and-the-minds-distinction` | Photoreal tableau |
 | `self-rl-for-humans` | Dark chalk / light trails |
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
@@ -109,7 +111,6 @@ Not exhaustive. Prefer something not in Style families above.
 - Cut-paper shadowbox / layered Scherenschnitte
 - Soft clay / stop-motion puppet still
 - Embroidery / needlework on linen
-- Solarized surreal photograph (Man Ray–adjacent)
 - Fresco / buon fresco wall fragment
 - Ceramic glaze still life on porcelain
 - Anaglyph red-cyan stereo graphic
