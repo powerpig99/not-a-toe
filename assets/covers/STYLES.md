@@ -62,6 +62,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cut-paper shadowbox / Scherenschnitte** | Layered cardstock diorama, soft studio shadow, ivory ground, paper craft still | `a-creation-cannot-replace-its-source` |
 | **Mezzotint / aquatint** | Velvet black copper-plate print, burnished silver-gray highlights, fine chemical grit, classical plate mark | `not-a-theory-of-everything` |
 | **Sand animation / grain board** | Golden sand on dark board, raking light, continuous trail drawn through residual pits, documentary craft still | `causality-all-the-way` |
+| **Byzantine glass mosaic** | Gold and ultramarine tesserae, mortar lines, antique glass shine, plaster border, museum-wall light | `evil-as-the-minds-own-creation` |
 
 ## Inventory (by slug)
 
@@ -77,6 +78,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `closed-reality-in-benchmark-maxing` | Photoreal tableau |
 | `complexity-obscures-emergence-as-the-act-of-mind` | Copperplate engraving |
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
+| `evil-as-the-minds-own-creation` | Byzantine glass mosaic |
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
 | `humans-tokens-and-the-scope-of-valuation` | Oil split composition |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |
@@ -116,7 +118,6 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 Not exhaustive. Prefer something not in Style families above.
 
 - Cloisonné / enamel medallion
-- Byzantine or glass mosaic
 - Soft clay / stop-motion puppet still
 - Embroidery / needlework on linen
 - Fresco / buon fresco wall fragment
