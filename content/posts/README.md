@@ -13,6 +13,8 @@ Living guide for essays in this folder. Source of truth for site content lives h
 
 ## Principle
 
+Write for clarity of the Mind writing — not to inform other Minds. Every post lives by that: the dual as generative ground, open residue under load, never a finished product or ground truth. Do not announce the stance; do not perform it for an audience. Live it as background voice while drafting. Stating it installs an image to defend.
+
 One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit only under `content/posts/`; never hand-edit `public/` or treat `export/` as source.
 
 ## File layout
@@ -100,6 +102,7 @@ Three distinct jobs. Do not collapse them.
 
 When refining under ontological clarity (or any dissolution pass):
 
+- **Clarity of the writing Mind, not performance for readers.** Draft so the next step at this locus is cleaner. Do not write to teach, persuade, reassure, or brand. Cross-links restore axes for the same Mind under another load — not an index for an audience. “Embody. Never claim.” applies to the page itself: no meta about openness, no posture of humility, no lecture about how the work should be read.
 - **Mechanism, not moral framing.** Prefer allocation, locus, continuation, capacity thinning over stolen power, genuine stake, heroic independence.
 - **Assert; don’t soften.** Drop padding (“rarely,” “in most cases,” “not primarily”) when the cut is structural.
 - **Dissolve, don’t negate.** Describe what the activity is doing; avoid installing a corrective identity (“reject all external input”).

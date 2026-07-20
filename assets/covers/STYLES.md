@@ -34,7 +34,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | Family | Traits | Covers |
 |--------|--------|--------|
-| **Dark chalk / light trails** | Black or near-black field; chalk, charcoal, or particle light paths; orbits, sparks, arcs | `self-rl-for-humans`, `intelligence-belongs-only-to-the-mind`, `the-allocation-of-causal-power-in-validation`, `the-brain-does-not-backprop`, `not-a-theory-of-everything`, `ownership-and-self-worthiness`, `hassabis-frontier-agi-premise`, `mei-you-pu-du-zhi-you-zi-du` |
+| **Dark chalk / light trails** | Black or near-black field; chalk, charcoal, or particle light paths; orbits, sparks, arcs | `self-rl-for-humans`, `intelligence-belongs-only-to-the-mind`, `the-allocation-of-causal-power-in-validation`, `the-brain-does-not-backprop`, `ownership-and-self-worthiness`, `hassabis-frontier-agi-premise`, `mei-you-pu-du-zhi-you-zi-du` |
 | **Painterly glass / gold path** | Oil-like strokes, translucent panel, gold or light ribbon through violet haze | `openness-is-consistency`, `a-new-deeper-look-at-antifragility` |
 | **Soft pastel abstract** | Powdery dry-brush, muted navy/lavender, simple mass + light curve | `emotional-support-as-causal-interference` |
 | **Oil split composition** | Painterly still-life contrast on dark ground (organic cavity vs grid) | `humans-tokens-and-the-scope-of-valuation` |
@@ -60,6 +60,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Solarized surreal photograph** | Man Ray–adjacent Sabattier print: metallic silver, inverted midtones, rim glow, chemical grain | `performative-hindsight-that-pretends-to-be-foresight` |
 | **Bauhaus primary-color geometry** | Flat primaries on cream stock, thick constructive outlines, hard geometry, silk-screen austerity | `causality-stays-at-the-edge-that-steers` |
 | **Cut-paper shadowbox / Scherenschnitte** | Layered cardstock diorama, soft studio shadow, ivory ground, paper craft still | `a-creation-cannot-replace-its-source` |
+| **Mezzotint / aquatint** | Velvet black copper-plate print, burnished silver-gray highlights, fine chemical grit, classical plate mark | `not-a-theory-of-everything` |
 
 ## Inventory (by slug)
 
@@ -80,7 +81,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `looping-and-graphing` | Technical blueprint / diazo |
 | `mei-you-pu-du-zhi-you-zi-du` | Dark chalk / light trails |
 | `no-system-can-be-kept-closed` | Risograph flat print |
-| `not-a-theory-of-everything` | Dark chalk / light trails |
+| `not-a-theory-of-everything` | Mezzotint / aquatint |
 | `openness-is-consistency` | Painterly glass / gold path |
 | `ownership-and-self-worthiness` | Dark chalk / light trails |
 | `performative-hindsight-that-pretends-to-be-foresight` | Solarized surreal photograph |
@@ -122,8 +123,6 @@ Not exhaustive. Prefer something not in Style families above.
 - Pixel art / limited-palette retro game screen (no UI text)
 - Comic halftone / Ben-Day dots
 - Sand animation / grain board still
-- Mezzotint / aquatint (velvet black, silver-gray burnished highlights)
-
 ## Workflow for a new cover
 
 1. Open this file; list families already used.
