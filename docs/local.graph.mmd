@@ -64,6 +64,7 @@ flowchart LR
   tracker_posts --> tracker_export_x
   tracker_posts --> tracker_local
   tracker_posts --> tracker_root
+  tracker_posts --> tracker_export_x
   tracker_posts --> tracker_covers
   tracker_posts --> tracker_export
   tracker_posts --> tracker_export_x
@@ -74,6 +75,7 @@ flowchart LR
   tracker_format --> tracker_posts
   tracker_format --> tracker_export
   tracker_format --> tracker_covers
+  tracker_format --> tracker_posts
   project_not_a_toe --> tracker_export
   tracker_export -->|owns| domain_substack_export
   tracker_export --> tracker_posts
@@ -87,6 +89,7 @@ flowchart LR
   tracker_export_x --> tracker_export
   tracker_export_x --> tracker_covers
   tracker_export_x --> tracker_local
+  tracker_export_x --> tracker_covers
   project_not_a_toe --> tracker_export_stub
   tracker_export_stub -->|owns| domain_export_pointer
   tracker_export_stub --> tracker_export
@@ -95,6 +98,7 @@ flowchart LR
   tracker_covers -->|owns| domain_cover_styles
   tracker_covers --> tracker_posts
   tracker_covers --> tracker_export
+  tracker_covers --> tracker_export_x
   tracker_covers --> tracker_local
   project_not_a_toe --> tracker_root
   tracker_root -->|owns| domain_index

@@ -3,23 +3,23 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-20T12:48:01.984Z",
+    "generated_at": "2026-07-20T13:46:17.175Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "ff43c60a0800",
-      "docs/essay-format.md": "6736c8b2f6f7",
-      "docs/export-for-substack.md": "6d4be40b410e",
-      "docs/export-for-x-article.md": "0625c8d04fad",
+      "content/posts/README.md": "b09b7d2cca1b",
+      "docs/essay-format.md": "536646a2ab2f",
+      "docs/export-for-substack.md": "4e99a5ee89ef",
+      "docs/export-for-x-article.md": "ae09a55c5e8b",
       "export/README.md": "b58f6146e1bb",
-      "assets/covers/STYLES.md": "eb280a72fce7",
-      "README.md": "a9a76ef6fb49",
+      "assets/covers/STYLES.md": "011f2030561d",
+      "README.md": "9135e5760356",
       "docs/local-memory.md": "f541d670f60d",
       "build.mjs": "d202ad542f2c",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "e611a0d39c06"
+      "MEMORY.md": "12f6064ecaa0"
     },
     "stats": {
       "posts": 107,
@@ -29,7 +29,7 @@
     },
     "counts": {
       "nodes": 26,
-      "edges": 81,
+      "edges": 85,
       "missing": 0,
       "by_kind": {
         "project": 1,
@@ -48,14 +48,14 @@
       "count": 11
     },
     {
-      "id": "tracker:root",
-      "name": "root",
+      "id": "tracker:posts",
+      "name": "posts",
       "count": 10
     },
     {
-      "id": "tracker:posts",
-      "name": "posts",
-      "count": 9
+      "id": "tracker:root",
+      "name": "root",
+      "count": 10
     },
     {
       "id": "tracker:local",
@@ -65,12 +65,12 @@
     {
       "id": "tracker:format",
       "name": "format",
-      "count": 5
+      "count": 6
     },
     {
       "id": "tracker:export-x",
       "name": "export-x",
-      "count": 5
+      "count": 6
     },
     {
       "id": "tracker:export",
@@ -80,7 +80,7 @@
     {
       "id": "tracker:covers",
       "name": "covers",
-      "count": 3
+      "count": 4
     },
     {
       "id": "tracker:export-stub",
@@ -166,7 +166,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "e611a0d39c06",
+      "hash": "12f6064ecaa0",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -204,7 +204,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "eb280a72fce7",
+      "hash": "011f2030561d",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -225,7 +225,7 @@
       "path": "docs/export-for-substack.md",
       "owns": "substack-export",
       "exists": true,
-      "hash": "6d4be40b410e",
+      "hash": "4e99a5ee89ef",
       "summary": "Living guide for projecting a site post into markdown with **absolute** links, without changing the source of truth.",
       "headings": [
         "Export for Substack (and other external paste)",
@@ -278,7 +278,7 @@
       "path": "docs/export-for-x-article.md",
       "owns": "x-article-export",
       "exists": true,
-      "hash": "0625c8d04fad",
+      "hash": "ae09a55c5e8b",
       "summary": "Living guide for projecting a site post into a native **X Article** without changing the source of truth.",
       "headings": [
         "Export / publish for X Articles",
@@ -292,7 +292,7 @@
         "Skip cover / skip canonical footer",
         "What the script does",
         "Recommended workflow",
-        "Checklist"
+        "Cover media"
       ],
       "layer": "tracker"
     },
@@ -303,7 +303,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "6736c8b2f6f7",
+      "hash": "536646a2ab2f",
       "summary": "Use this exact spec when drafting essays for this site.",
       "headings": [
         "Essay Formatting Guide",
@@ -355,7 +355,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "ff43c60a0800",
+      "hash": "b09b7d2cca1b",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",
@@ -364,12 +364,12 @@
         "Markdown structure",
         "Title",
         "First body section",
+        "Section headings (body `##` / `###`)",
         "Title, subtitle, lead",
         "Voice and refinement (from practice)",
         "Cross-link checklist",
         "Cover",
-        "Ship (site)",
-        "typical new essay"
+        "Ship (site)"
       ],
       "layer": "tracker"
     },
@@ -380,7 +380,7 @@
       "path": "README.md",
       "owns": "index",
       "exists": true,
-      "hash": "a9a76ef6fb49",
+      "hash": "9135e5760356",
       "summary": "## Authoring contract Guides (read these instead of re-deriving the workflow each time): | Topic | Doc | |-------|-----| | Posts: structure, voice, cross-links, ship checklist | [`…",
       "headings": [
         "Not a ToE",
@@ -453,6 +453,12 @@
     },
     {
       "from": "tracker:posts",
+      "to": "tracker:export-x",
+      "rel": "points_to",
+      "label": "`docs/export-for-x-article.md`"
+    },
+    {
+      "from": "tracker:posts",
       "to": "tracker:covers",
       "rel": "points_to",
       "label": "`assets/covers/STYLES.md`"
@@ -508,6 +514,12 @@
       "to": "tracker:covers",
       "rel": "points_to",
       "label": "`assets/covers/STYLES.md`"
+    },
+    {
+      "from": "tracker:format",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
     },
     {
       "from": "project:not-a-toe",
@@ -584,6 +596,12 @@
       "label": "`docs/local-memory.md`"
     },
     {
+      "from": "tracker:export-x",
+      "to": "tracker:covers",
+      "rel": "points_to",
+      "label": "`assets/covers/STYLES.md`"
+    },
+    {
       "from": "project:not-a-toe",
       "to": "tracker:export-stub",
       "rel": "has_tracker"
@@ -626,6 +644,12 @@
       "to": "tracker:export",
       "rel": "points_to",
       "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "tracker:covers",
+      "to": "tracker:export-x",
+      "rel": "points_to",
+      "label": "`docs/export-for-x-article.md`"
     },
     {
       "from": "tracker:covers",
