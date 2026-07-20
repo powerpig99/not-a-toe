@@ -50,6 +50,37 @@ Lead: 2–4 complete sentences summarizing the argument.
 
 The build uses the first sentence before the first heading as subtitle (index excerpt, meta description) and keeps the rest of the open as the lead paragraph on the essay page.
 
+## Title, subtitle, lead
+
+Three distinct jobs. Do not collapse them.
+
+| Slot | Job | Test |
+|------|-----|------|
+| **Title** | Self-explanatory name of the cut | A reader who never opens the body still knows what claim the post makes |
+| **Subtitle** | Essence only — one sentence | Names the core geometry or distinction; does **not** walk the argument |
+| **Lead** | Summary of the post | Maps the main moves (usually 2–4 sentences); does **not** merely rephrase the subtitle |
+
+**Title**
+- Prefer a declarative phrase the index and link previews can stand on alone.
+- Avoid opaque labels that only make sense after the body (“Two Failures of Trace,” “The Geometry”) unless the phrase is already a stable term in prior posts.
+- Self-explanatory ≠ long. Compress the cut; do not outline the essay.
+
+**Subtitle**
+- One complete sentence (italic `*...*` is fine).
+- Capture *what the post is saying at root* — the irreducible distinction — not a miniature of the sections.
+- If it reads like a compressed lead (two failures, then capacity, then close), cut it back to essence.
+
+**Lead**
+- Summarize the blog post: what freezes, what dissolves, what remains.
+- May name the sequence of cuts the body will open; the subtitle must not.
+- Pure prose before first `##` — no lists, blockquotes, or horizontal rules in the open.
+
+**Anti-repetition check**
+1. Read title alone — does it state the claim?
+2. Read subtitle alone — essence without section map?
+3. Read lead alone — full summary without depending on the subtitle for the map?
+4. If subtitle and lead share the same sentence structure or the same ordered list of points, rewrite until jobs separate.
+
 ## Voice and refinement (from practice)
 
 When refining under ontological clarity (or any dissolution pass):

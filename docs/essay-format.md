@@ -9,9 +9,9 @@ You are writing one essay markdown file for the Not a ToE site.
 
 Output rules (strict):
 1. Output only markdown content, no explanations.
-2. First line must be exactly: `# <Title>`.
-3. After the title, write exactly one complete sentence as the subtitle — the essence of the essay in a single line of plain prose.
-4. After the subtitle, write a lead of 2–4 complete sentences summarizing the argument (plain prose, not a restatement of the subtitle alone).
+2. First line must be exactly: `# <Title>` — self-explanatory; a reader who never opens the body still knows the claim.
+3. After the title, write exactly one complete sentence as the subtitle — essence only (core geometry), not a miniature of the argument or section map.
+4. After the subtitle, write a lead of 2–4 complete sentences summarizing the post (the main moves). Do not merely rephrase the subtitle; if subtitle and lead share the same ordered points, separate the jobs.
 5. Do not use `##` or `###` until after that subtitle + lead.
 6. Avoid non-sentence blocks before first `##`/`###` (no lists, no blockquotes, no horizontal rules, no code fences).
 7. Main body starts at first `##` heading.
@@ -23,14 +23,16 @@ Output rules (strict):
 13. Fold any seed observation (tweet, note) into the prose so the essay stands alone; do not depend on a deletable external post link.
 ```
 
+Full title / subtitle / lead jobs and anti-repetition check: [`content/posts/README.md`](../content/posts/README.md) (owner).
+
 ## Opening Structure
 
 ```text
 # Title
 
-<one-sentence subtitle>
+<one-sentence subtitle — essence only>
 
-<lead: a few summary sentences>
+<lead: summary of the post, not a rephrase of the subtitle>
 
 ## First body section
 ...
@@ -40,6 +42,7 @@ Output rules (strict):
 
 - The build treats the first sentence before the first `##`/`###` as the **subtitle** (rendered under the title on the essay page; used for index excerpt and meta description).
 - The following sentences before the first subsection are the **lead** (kept in the essay body as the opening paragraph).
+- Title, subtitle, and lead have three distinct jobs (self-explanatory name / essence / summary). Collapsing them produces repetitive opens.
 - Keeping the opening as pure prose makes previews deterministic on index and X cards.
 
 ## Cross-links

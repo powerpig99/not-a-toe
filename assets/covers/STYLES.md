@@ -52,6 +52,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Stained glass panel** | Leaded jewel-tone panes, cathedral glow, translucent color and grit | `token-efficiency-emulation-and-the-unclosable-gap` |
 | **Art Deco poster / chrome and sunburst** | Cream/gold/black geometric sunburst, chrome-brass machine form, stepped chevrons, teal band | `the-flywheel-of-the-mind` |
 | **Chinese gongbi fine-line color** | Meticulous outline, mineral-pigment washes on silk-cream ground, botanical-graph hybrid | `a-living-external-cortex` |
+| **Wet-plate collodion / ambrotype** | Dark glass plate, silver-black chemical image, emulsion stain, fixed residue as sole readable term | `two-failures-of-trace` |
 
 ## Inventory (by slug)
 
@@ -87,6 +88,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
+| `two-failures-of-trace` | Wet-plate collodion / ambrotype |
 | `what-always-listens-cannot-originate` | Ukiyo-e / nishiki-e |
 | `you-wu-zhi-bian` | Minimal horizon band |
 
@@ -105,7 +107,6 @@ Not exhaustive. Prefer something not in Style families above.
 - Cut-paper shadowbox / layered Scherenschnitte
 - Soft clay / stop-motion puppet still
 - Embroidery / needlework on linen
-- Wet-plate collodion / ambrotype B&W photo
 - Solarized surreal photograph (Man Ray–adjacent)
 - Fresco / buon fresco wall fragment
 - Ceramic glaze still life on porcelain
