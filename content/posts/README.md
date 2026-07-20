@@ -1,6 +1,6 @@
 # Posts — authoring contract
 
-Living guide for essays in this folder. Source of truth for site content lives here as `*.md`. Covers and Substack paste have their own trackers; this file is for writing, linking, and shipping the post itself.
+Living guide for essays in this folder. Source of truth for site content lives here as `*.md`. Covers and Substack paste have their own trackers; this file is for writing, linking, and shipping the post itself. **Not a site post** — the build skips `README.md` (slug would otherwise be `/posts/README/`).
 
 | Related | Path |
 |---------|------|

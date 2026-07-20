@@ -451,7 +451,7 @@ function wordCount(text) {
 function listPostFiles() {
   return fs
     .readdirSync(contentDir)
-    .filter((file) => file.endsWith('.md'))
+    .filter((file) => file.endsWith('.md') && file !== 'README.md')
     .sort((a, b) => a.localeCompare(b));
 }
 
