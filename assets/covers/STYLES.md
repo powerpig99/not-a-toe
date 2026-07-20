@@ -63,6 +63,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Mezzotint / aquatint** | Velvet black copper-plate print, burnished silver-gray highlights, fine chemical grit, classical plate mark | `not-a-theory-of-everything` |
 | **Sand animation / grain board** | Golden sand on dark board, raking light, continuous trail drawn through residual pits, documentary craft still | `causality-all-the-way` |
 | **Byzantine glass mosaic** | Gold and ultramarine tesserae, mortar lines, antique glass shine, plaster border, museum-wall light | `evil-as-the-minds-own-creation` |
+| **Embroidery / needlework on linen** | Hand-stitched plant and cut scaffold threads on cream linen weave, soft studio textile light, raised stitch shadow | `when-need-stops-being-the-measure` |
 
 ## Inventory (by slug)
 
@@ -106,6 +107,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
 | `what-always-listens-cannot-originate` | Ukiyo-e / nishiki-e |
 | `what-works-is-the-belief` | Mingei / katazome stencil |
+| `when-need-stops-being-the-measure` | Embroidery / needlework on linen |
 | `you-wu-zhi-bian` | Minimal horizon band |
 
 ## Crowded — prefer not to extend
@@ -119,7 +121,6 @@ Not exhaustive. Prefer something not in Style families above.
 
 - Cloisonné / enamel medallion
 - Soft clay / stop-motion puppet still
-- Embroidery / needlework on linen
 - Fresco / buon fresco wall fragment
 - Ceramic glaze still life on porcelain
 - Anaglyph red-cyan stereo graphic
