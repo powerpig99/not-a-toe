@@ -3,23 +3,23 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-20T12:13:30.881Z",
+    "generated_at": "2026-07-20T12:48:01.984Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
       "content/posts/README.md": "ff43c60a0800",
       "docs/essay-format.md": "6736c8b2f6f7",
       "docs/export-for-substack.md": "6d4be40b410e",
-      "docs/export-for-x-article.md": "00bbc1eae221",
+      "docs/export-for-x-article.md": "0625c8d04fad",
       "export/README.md": "b58f6146e1bb",
       "assets/covers/STYLES.md": "eb280a72fce7",
       "README.md": "a9a76ef6fb49",
       "docs/local-memory.md": "f541d670f60d",
       "build.mjs": "d202ad542f2c",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
-      "scripts/publish-x-article.mjs": "ad97db417e91",
+      "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "adf3327e8432"
+      "MEMORY.md": "e611a0d39c06"
     },
     "stats": {
       "posts": 107,
@@ -29,7 +29,7 @@
     },
     "counts": {
       "nodes": 26,
-      "edges": 79,
+      "edges": 81,
       "missing": 0,
       "by_kind": {
         "project": 1,
@@ -43,6 +43,11 @@
   },
   "hubs": [
     {
+      "id": "memory:project",
+      "name": "MEMORY.md",
+      "count": 11
+    },
+    {
       "id": "tracker:root",
       "name": "root",
       "count": 10
@@ -50,11 +55,6 @@
     {
       "id": "tracker:posts",
       "name": "posts",
-      "count": 9
-    },
-    {
-      "id": "memory:project",
-      "name": "MEMORY.md",
       "count": 9
     },
     {
@@ -166,7 +166,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "adf3327e8432",
+      "hash": "e611a0d39c06",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -278,7 +278,7 @@
       "path": "docs/export-for-x-article.md",
       "owns": "x-article-export",
       "exists": true,
-      "hash": "00bbc1eae221",
+      "hash": "0625c8d04fad",
       "summary": "Living guide for projecting a site post into a native **X Article** without changing the source of truth.",
       "headings": [
         "Export / publish for X Articles",
@@ -398,7 +398,7 @@
       "path": "scripts/publish-x-article.mjs",
       "owns": "x-article-projection",
       "exists": true,
-      "hash": "ad97db417e91",
+      "hash": "13625fa17198",
       "summary": "binary/script",
       "headings": [],
       "layer": "tracker"
@@ -820,6 +820,12 @@
     },
     {
       "from": "memory:project",
+      "to": "tracker:export-x",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
       "to": "tracker:export-stub",
       "rel": "points_to",
       "implicit": true
@@ -851,6 +857,12 @@
     {
       "from": "memory:project",
       "to": "tracker:export-script",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:x-article-script",
       "rel": "points_to",
       "implicit": true
     }
