@@ -61,6 +61,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Bauhaus primary-color geometry** | Flat primaries on cream stock, thick constructive outlines, hard geometry, silk-screen austerity | `causality-stays-at-the-edge-that-steers` |
 | **Cut-paper shadowbox / Scherenschnitte** | Layered cardstock diorama, soft studio shadow, ivory ground, paper craft still | `a-creation-cannot-replace-its-source` |
 | **Mezzotint / aquatint** | Velvet black copper-plate print, burnished silver-gray highlights, fine chemical grit, classical plate mark | `not-a-theory-of-everything` |
+| **Sand animation / grain board** | Golden sand on dark board, raking light, continuous trail drawn through residual pits, documentary craft still | `causality-all-the-way` |
 
 ## Inventory (by slug)
 
@@ -71,6 +72,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `a-new-deeper-look-at-antifragility` | Painterly glass / gold path |
 | `agi-and-asi-are-temporary-goalposts` | Metaphysical plaza oil |
 | `better-than-free-after-the-checklist-closes` | Paper craft / tabletop still |
+| `causality-all-the-way` | Sand animation / grain board |
 | `causality-stays-at-the-edge-that-steers` | Bauhaus primary-color geometry |
 | `closed-reality-in-benchmark-maxing` | Photoreal tableau |
 | `complexity-obscures-emergence-as-the-act-of-mind` | Copperplate engraving |
@@ -122,7 +124,6 @@ Not exhaustive. Prefer something not in Style families above.
 - Anaglyph red-cyan stereo graphic
 - Pixel art / limited-palette retro game screen (no UI text)
 - Comic halftone / Ben-Day dots
-- Sand animation / grain board still
 ## Workflow for a new cover
 
 1. Open this file; list families already used.
