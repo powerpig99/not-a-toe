@@ -55,15 +55,19 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Wet-plate collodion / ambrotype** | Dark glass plate, silver-black chemical image, emulsion stain, fixed residue as sole readable term | `two-failures-of-trace` |
 | **Mingei / katazome stencil** | Handmade washi texture, indigo–charcoal stencil, imperfect dye registration, folk-craft gate and current | `what-works-is-the-belief` |
 | **Solarized surreal photograph** | Man Ray–adjacent Sabattier print: metallic silver, inverted midtones, rim glow, chemical grain | `performative-hindsight-that-pretends-to-be-foresight` |
+| **Bauhaus primary-color geometry** | Flat primaries on cream stock, thick constructive outlines, hard geometry, silk-screen austerity | `causality-stays-at-the-edge-that-steers` |
+| **Cut-paper shadowbox / Scherenschnitte** | Layered cardstock diorama, soft studio shadow, ivory ground, paper craft still | `a-creation-cannot-replace-its-source` |
 
 ## Inventory (by slug)
 
 | Slug | Style family |
 |------|----------------|
+| `a-creation-cannot-replace-its-source` | Cut-paper shadowbox / Scherenschnitte |
 | `a-living-external-cortex` | Chinese gongbi fine-line color |
 | `a-new-deeper-look-at-antifragility` | Painterly glass / gold path |
 | `agi-and-asi-are-temporary-goalposts` | Metaphysical plaza oil |
 | `better-than-free-after-the-checklist-closes` | Paper craft / tabletop still |
+| `causality-stays-at-the-edge-that-steers` | Bauhaus primary-color geometry |
 | `closed-reality-in-benchmark-maxing` | Photoreal tableau |
 | `complexity-obscures-emergence-as-the-act-of-mind` | Copperplate engraving |
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
@@ -107,8 +111,6 @@ Not exhaustive. Prefer something not in Style families above.
 
 - Cloisonné / enamel medallion
 - Byzantine or glass mosaic
-- Bauhaus primary-color geometry (flat primaries, cream stock — distinct from constructivist)
-- Cut-paper shadowbox / layered Scherenschnitte
 - Soft clay / stop-motion puppet still
 - Embroidery / needlework on linen
 - Fresco / buon fresco wall fragment
