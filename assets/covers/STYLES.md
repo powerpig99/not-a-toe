@@ -1,11 +1,12 @@
 # Cover styles
 
-Living inventory for essay covers in this folder. Filename = essay slug (`content/posts/<slug>.md` → `assets/covers/<slug>.jpg`). Site build expects landscape **1280×720** JPEG (or jpeg/png/webp).
+Living inventory for essay covers in this folder. Filename = essay slug (`content/posts/<slug>.md` → `assets/covers/<slug>.jpg`). Install as landscape **16:9** JPEG (or jpeg/png/webp) at **1280×720** — the shared aspect for site, Substack featured image, and X Article cover.
 
 | Related | Path |
 |---------|------|
 | Post authoring | [`content/posts/README.md`](../../content/posts/README.md) |
 | Substack export | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) |
+| X Article export | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 | Local memory / sleep audit | [`docs/local-memory.md`](../../docs/local-memory.md) |
 
 ## Principle
@@ -20,9 +21,11 @@ Differentiation is on **style** (medium, print/photo tradition, palette discipli
 
 | Rule | Detail |
 |------|--------|
-| Size | 1280×720 landscape |
+| Aspect | **16:9** landscape only — X Article cover, Substack image, site og/title image share this file |
+| Size | **1280×720** install (generate at 16:9; 1600×900 is fine if resized to 1280×720 before install) |
 | Text | None (no title, no logo, no legible caption) |
 | Fit | Concept reads the essay’s cut; style is independent of other covers |
+| Not | Square, portrait, 3:1 profile-banner, or ultra-wide crop-only banners as the essay cover |
 | After generate | Install as `<slug>.jpg`, update Inventory + Style families below |
 
 ## Style families (used)
@@ -126,6 +129,8 @@ Not exhaustive. Prefer something not in Style families above.
 1. Open this file; list families already used.
 2. Choose a **new** family (from Unused candidates or invent).
 3. Prompt for that medium explicitly; ban crowded defaults (“dark abstract chalk,” “risograph red,” “cinematic fog cube”) unless the essay has no cover and you are replacing a style (then update the row).
-4. Generate at 16:9; resize to 1280×720 if needed; save as `assets/covers/<slug>.jpg`.
+4. Generate at **16:9** (`aspect_ratio: "16:9"` when using image tools); resize to 1280×720 if needed; save as `assets/covers/<slug>.jpg`.
 5. Append the slug to Inventory and the family row (or add a new Style families row).
 6. If a candidate from Unused was taken, move it into Style families and drop it from Unused.
+
+Same asset is reused for Substack paste cover and X Article `cover_media` — do not maintain a second aspect-ratio set.

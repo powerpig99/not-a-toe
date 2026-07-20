@@ -19,7 +19,7 @@ One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit 
 
 ```text
 content/posts/<slug>.md          # source (this folder)
-assets/covers/<slug>.jpg         # optional 1280×720 cover
+assets/covers/<slug>.jpg         # optional 16:9 / 1280×720 (site + Substack + X Article)
 export/<slug>.md                 # generated paste projection (gitignored)
 public/posts/<slug>/index.html   # build output only
 ```
@@ -45,11 +45,25 @@ Lead: 2–4 complete sentences summarizing the argument.
 | Subtitle | Exactly one sentence after the title, before any `##` (often italic with `*...*`) |
 | Lead | Following sentences before first `##`; pure prose — no lists, quotes blocks, or HRs in the open |
 | Body | Starts at first `##` / `###` |
+| Section headings | Name the cut of that section — a specific claim or distinction. Not a generic slot |
 | Allowed | Headings, paragraphs, `[text](url)`, `*`/`**`, `>`, lists, `---` in body only |
 | Forbidden | YAML frontmatter, HTML, non-prose blocks before first section heading |
 | End | Trailing newline |
 
 The build uses the first sentence before the first heading as subtitle (index excerpt, meta description) and keeps the rest of the open as the lead paragraph on the essay page.
+
+### Section headings (body `##` / `###`)
+
+Each heading is a miniature claim: what that block distinguishes. A reader skimming only headings should still feel the argument’s spine.
+
+| Prefer | Avoid |
+|--------|--------|
+| Names the freeze, branch, or return in that section | Slot labels that could sit on any essay |
+| Readable alone (stand-alone sense if quoted) | Meta wrappers for “the ending” or “the recap” |
+
+**Do not use** generic closers or placeholders, including: *What Remains*, *What Remains True*, *In Closing*, *Conclusion*, *Summary*, *Key Takeaways*, *Final Thoughts*, *The Point*, *Bringing It Together*, *Recap*.
+
+If the last section returns the reference or dissolves a freeze, **name that return** (e.g. the geometry, the edge, the disqualification) — not that something “remains.”
 
 ## Title, subtitle, lead
 
@@ -113,12 +127,20 @@ When refining under ontological clarity (or any dissolution pass):
 
 ## Cover
 
-Optional but usual for new essays.
+Optional but usual for new essays. **One file serves three surfaces:** this site, Substack featured image, and X Article cover media.
+
+| Surface | Role of the same file |
+|---------|------------------------|
+| Site | Title image + `og:image` / large Twitter card |
+| Substack | Upload as post cover / social image (prefer local re-upload) |
+| X Article | Uploaded as `cover_media` via [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 
 1. Read [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md) — pick a **style family not already used**.
-2. Generate landscape art (16:9), no text; install as `assets/covers/<slug>.jpg` at **1280×720**.
+2. Generate landscape art at **16:9** (X Article / in-stream safe; also Substack-friendly), no text. Install as `assets/covers/<slug>.jpg` at **1280×720** (or 1600×900 resized down to 1280×720 for the site install).
 3. Update STYLES.md inventory and family tables.
 4. Build copies cover to `public/covers/` and uses it for `og:image` / X card when present.
+
+Do not generate square, portrait, or ultra-wide banners as the essay cover — those crop badly when the same asset is reused as X Article cover and Substack image.
 
 ## Ship (site)
 
@@ -143,12 +165,13 @@ Do not commit `public/` or `export/` as source of truth (`export/` is gitignored
 ## New essay checklist
 
 1. [ ] Draft `content/posts/<slug>.md` to format contract (title / subtitle / lead / `##` body).
-2. [ ] Refine for mechanism language; fold any seed tweet into the lead so the essay stands alone.
-3. [ ] Add relative cross-links as axis pointers; verify slugs exist.
-4. [ ] Cover: new style per STYLES.md; install 1280×720; update STYLES.md.
-5. [ ] Commit + push (or local `node build.mjs` first).
-6. [ ] If posting to Substack: follow [`docs/export-for-substack.md`](../../docs/export-for-substack.md).
-7. [ ] If posting as X Article: follow [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) (dry-run → `--draft` → review → publish).
+2. [ ] Section headings name each cut — no generic slots (*What Remains*, *Conclusion*, *Summary*, …).
+3. [ ] Refine for mechanism language; fold any seed tweet into the lead so the essay stands alone.
+4. [ ] Add relative cross-links as axis pointers; verify slugs exist.
+5. [ ] Cover: new style per STYLES.md; **16:9** landscape; install 1280×720; update STYLES.md.
+6. [ ] Commit + push (or local `node build.mjs` first).
+7. [ ] If posting to Substack: follow [`docs/export-for-substack.md`](../../docs/export-for-substack.md).
+8. [ ] If posting as X Article: follow [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) (dry-run → `--draft` → review → publish).
 
 ## After shipping
 

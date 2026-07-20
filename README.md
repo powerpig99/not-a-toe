@@ -16,7 +16,7 @@ Guides (read these instead of re-deriving the workflow each time):
 1. Add essays in `content/posts/*.md`.
 2. The first line must be `# Title`.
 3. Filename is the post slug and permalink (`/posts/<filename>/`).
-4. Optional title/cover image: place `assets/covers/<slug>.jpg` (also `.jpeg`, `.png`, `.webp`). Build copies it to `public/covers/` and renders it above the title. **New covers need a style not already in** [`assets/covers/STYLES.md`](assets/covers/STYLES.md).
+4. Optional title/cover image: place `assets/covers/<slug>.jpg` (also `.jpeg`, `.png`, `.webp`) as **16:9** landscape (1280×720) — same file for site, Substack, and X Article cover. Build copies it to `public/covers/` and renders it above the title. **New covers need a style not already in** [`assets/covers/STYLES.md`](assets/covers/STYLES.md).
 5. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) for standardized LLM output; full checklist in [`content/posts/README.md`](content/posts/README.md).
 6. Internal cross-links stay **relative** (`[title](../other-slug/)`) in source. For Substack or other external paste, project absolute URLs without editing the source (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)):
 

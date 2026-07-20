@@ -15,12 +15,13 @@ Output rules (strict):
 5. Do not use `##` or `###` until after that subtitle + lead.
 6. Avoid non-sentence blocks before first `##`/`###` (no lists, no blockquotes, no horizontal rules, no code fences).
 7. Main body starts at first `##` heading.
-8. Use only simple markdown: headings, paragraphs, links `[text](url)`, emphasis `*`/`**`, quotes `>`, lists (`-` and `1.`), horizontal rule (`---`) only in body.
-9. Keep quotes properly closed; punctuation inside quotes is allowed.
-10. No frontmatter (`---` metadata), no HTML.
-11. End with a newline.
-12. Internal cross-links use relative form only: `[title](../other-slug/)`. Do not use absolute site URLs in the source file.
-13. Fold any seed observation (tweet, note) into the prose so the essay stands alone; do not depend on a deletable external post link.
+8. Every `##` / `###` names the cut of that section (a specific claim or distinction). Do not use generic slots: What Remains, Conclusion, Summary, Key Takeaways, In Closing, Final Thoughts, The Point, Recap.
+9. Use only simple markdown: headings, paragraphs, links `[text](url)`, emphasis `*`/`**`, quotes `>`, lists (`-` and `1.`), horizontal rule (`---`) only in body.
+10. Keep quotes properly closed; punctuation inside quotes is allowed.
+11. No frontmatter (`---` metadata), no HTML.
+12. End with a newline.
+13. Internal cross-links use relative form only: `[title](../other-slug/)`. Do not use absolute site URLs in the source file.
+14. Fold any seed observation (tweet, note) into the prose so the essay stands alone; do not depend on a deletable external post link.
 ```
 
 Full title / subtitle / lead jobs and anti-repetition check: [`content/posts/README.md`](../content/posts/README.md) (owner).
@@ -53,10 +54,10 @@ Full title / subtitle / lead jobs and anti-repetition check: [`content/posts/REA
 
 ## Optional Title Image
 
-Place a landscape cover at `assets/covers/<slug>.jpg` (or `.jpeg` / `.png` / `.webp`), matching the markdown filename without extension. Target **1280×720**. The build:
+Place a **16:9** landscape cover at `assets/covers/<slug>.jpg` (or `.jpeg` / `.png` / `.webp`), matching the markdown filename without extension. Target **1280×720**. That aspect is the shared install for site title image, Substack featured image, and X Article `cover_media` — one file, three consumers. The build:
 
 - copies it to `public/covers/`
 - renders it above the essay title
 - uses it for `og:image` / Twitter large-image card when present
 
-**Style rule:** each new cover must use a visual style not already in the set. Track families, inventory, unused candidates, and the update workflow in [`assets/covers/STYLES.md`](../assets/covers/STYLES.md). Read that file before generating; update it after installing a new cover.
+Generate at `aspect_ratio` **16:9** (not square, portrait, or ultra-wide). Full style rule, inventory, and workflow: [`assets/covers/STYLES.md`](../assets/covers/STYLES.md). Authoring contract: [`content/posts/README.md`](../content/posts/README.md).

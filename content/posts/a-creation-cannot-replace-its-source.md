@@ -34,7 +34,7 @@ Both poles of the dichotomy still treat “the human” as a transferable invent
 
 What looks like “humans replaced by AI” is almost always role-residue reorganized through denser media, with initiation still performed wherever a center still frames, chooses, and answers for outcomes — or thinned by [allocation of continuation outward](../the-allocation-of-causal-power-in-validation/), which is still an act at a human locus, not a transfer the model completes.
 
-## What remains
+## Residue is not the activity that produced it
 
 The practical recognition is not a heroic defense of the human as object. It is return of the reference to the edge that creates and steers. Instruments stay usable. Bandwidth can rise without end. The groove can be sharpened. The rotation does not leave for the groove. [The flywheel of the Mind](../the-flywheel-of-the-mind/) is that turn under another name.
 
