@@ -37,12 +37,14 @@ const TRACKERS = [
   { id: 'posts', rel: 'content/posts/README.md', owns: 'authoring' },
   { id: 'format', rel: 'docs/essay-format.md', owns: 'llm-format' },
   { id: 'export', rel: 'docs/export-for-substack.md', owns: 'substack-export' },
+  { id: 'export-x', rel: 'docs/export-for-x-article.md', owns: 'x-article-export' },
   { id: 'export-stub', rel: 'export/README.md', owns: 'export-pointer' },
   { id: 'covers', rel: 'assets/covers/STYLES.md', owns: 'cover-styles' },
   { id: 'root', rel: 'README.md', owns: 'index' },
   { id: 'local', rel: 'docs/local-memory.md', owns: 'manifest' },
   { id: 'build', rel: 'build.mjs', owns: 'site-build', kind: 'script' },
   { id: 'export-script', rel: 'scripts/export-absolute-md.mjs', owns: 'export-projection', kind: 'script' },
+  { id: 'x-article-script', rel: 'scripts/publish-x-article.mjs', owns: 'x-article-projection', kind: 'script' },
   { id: 'local-graph-script', rel: 'scripts/project-local-graph.mjs', owns: 'local-graph-projection', kind: 'script' },
 ];
 

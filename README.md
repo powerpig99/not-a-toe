@@ -10,6 +10,7 @@ Guides (read these instead of re-deriving the workflow each time):
 | LLM markdown format (copy-paste prompt) | [`docs/essay-format.md`](docs/essay-format.md) |
 | Cover style differentiation | [`assets/covers/STYLES.md`](assets/covers/STYLES.md) |
 | Substack / external export | [`docs/export-for-substack.md`](docs/export-for-substack.md) |
+| X Article publish | [`docs/export-for-x-article.md`](docs/export-for-x-article.md) |
 | Local memory / sleep audit / graph | [`docs/local-memory.md`](docs/local-memory.md) |
 
 1. Add essays in `content/posts/*.md`.
@@ -22,6 +23,10 @@ Guides (read these instead of re-deriving the workflow each time):
 ```bash
 node scripts/export-absolute-md.mjs <slug>          # writes export/<slug>.md (gitignored)
 node scripts/export-absolute-md.mjs <slug> --stdout # pipe to clipboard: | pbcopy
+
+# X Article (dry-run default; --draft then --publish-id when ready)
+node scripts/publish-x-article.mjs <slug>
+node scripts/publish-x-article.mjs <slug> --draft
 ```
 
 ## Publish (default)

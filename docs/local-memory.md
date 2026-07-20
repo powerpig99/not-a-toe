@@ -19,6 +19,7 @@ Manifest of operational `.md` files for this project. Temporary ground at projec
 | `posts` | [`content/posts/README.md`](../content/posts/README.md) | Authoring contract, voice, cross-links, ship checklist |
 | `format` | [`docs/essay-format.md`](essay-format.md) | LLM copy-paste format prompt only |
 | `export` | [`docs/export-for-substack.md`](export-for-substack.md) | Absolute-link projection, Substack paste |
+| `export-x` | [`docs/export-for-x-article.md`](export-for-x-article.md) | X Article content_state projection + draft/publish |
 | `export-stub` | [`export/README.md`](../export/README.md) | Pointer only — not a second export guide |
 | `covers` | [`assets/covers/STYLES.md`](../assets/covers/STYLES.md) | Cover style families, inventory, differentiation rule |
 | `root` | [`README.md`](../README.md) | Index of guides + minimal authoring summary |

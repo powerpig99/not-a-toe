@@ -7,6 +7,7 @@ Living guide for essays in this folder. Source of truth for site content lives h
 | Markdown format (LLM copy-paste) | [`docs/essay-format.md`](../../docs/essay-format.md) |
 | Cover style differentiation | [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md) |
 | Substack / external export | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) |
+| X Article publish | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 | Local memory / sleep audit | [`docs/local-memory.md`](../../docs/local-memory.md) |
 | Site authoring summary | [`README.md`](../../README.md) |
 
@@ -147,6 +148,7 @@ Do not commit `public/` or `export/` as source of truth (`export/` is gitignored
 4. [ ] Cover: new style per STYLES.md; install 1280×720; update STYLES.md.
 5. [ ] Commit + push (or local `node build.mjs` first).
 6. [ ] If posting to Substack: follow [`docs/export-for-substack.md`](../../docs/export-for-substack.md).
+7. [ ] If posting as X Article: follow [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) (dry-run → `--draft` → review → publish).
 
 ## After shipping
 
