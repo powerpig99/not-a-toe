@@ -66,12 +66,16 @@ function findCoverForSlug(slug) {
       // Content hash (not mtime): X caches failed first scrapes; a new hash forces re-fetch
       // when the cover bytes change. mtime alone is noisy across CI checkouts.
       const hash = crypto.createHash('sha256').update(fs.readFileSync(fullPath)).digest('hex').slice(0, 12);
-      const url = `${absoluteUrl(`covers/${fileName}`)}?v=${hash}`;
+      const publicPath = `covers/${fileName}`;
+      // Content hash on every cover URL (page <img>, index thumbs, og/twitter). Path alone
+      // is long-cached by browsers/CDNs after a replace of the same filename.
+      const url = `${absoluteUrl(publicPath)}?v=${hash}`;
       return {
         fileName,
         fullPath,
         sourcePath: relativeSourcePath,
-        publicPath: `covers/${fileName}`,
+        publicPath,
+        hash,
         url,
         sourceUrl: absoluteSourceUrl(relativeSourcePath),
         mimeType: coverMimeType(fileName),
@@ -672,7 +676,7 @@ function renderIndex(posts) {
     .map((post) => {
       const excerptHtml = post.excerpt ? `<p>${escapeHtml(post.excerpt)}</p>` : '';
       const coverHtml = post.cover
-        ? `<a class="post-item-cover" href="${withBase(post.outputPath)}"><img src="${withBase(post.cover.publicPath)}" alt="" loading="lazy" decoding="async"></a>`
+        ? `<a class="post-item-cover" href="${withBase(post.outputPath)}"><img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="" loading="lazy" decoding="async"></a>`
         : '';
       return `    <article class="post-item">
       ${coverHtml}
@@ -708,7 +712,7 @@ function renderPost(post, newerPost, olderPost) {
   const navHtml = navLinks.length ? `<nav class="post-nav">${navLinks.join('')}</nav>` : '';
   const coverHtml = post.cover
     ? `<figure class="title-image">
-        <img src="${withBase(post.cover.publicPath)}" alt="${escapeHtml(post.title)}" width="1280" height="720" decoding="async">
+        <img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="${escapeHtml(post.title)}" width="1280" height="720" decoding="async">
       </figure>`
     : '';
 
