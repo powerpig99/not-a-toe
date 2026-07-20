@@ -3,31 +3,31 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-19T08:02:10.082Z",
+    "generated_at": "2026-07-20T09:43:00.595Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "6961767969ac",
-      "docs/essay-format.md": "388f6c702d3d",
+      "content/posts/README.md": "9dfa25ab9caf",
+      "docs/essay-format.md": "6736c8b2f6f7",
       "docs/export-for-substack.md": "6d4be40b410e",
       "export/README.md": "ef1d457eae2a",
-      "assets/covers/STYLES.md": "3e920177ead5",
+      "assets/covers/STYLES.md": "927f5bee93a3",
       "README.md": "62037a59cb26",
       "docs/local-memory.md": "b1273060b5e4",
       "build.mjs": "d202ad542f2c",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
       "scripts/project-local-graph.mjs": "4808483b9c49",
-      "MEMORY.md": "7b05f3e9dc78"
+      "MEMORY.md": "e6c1c5031be8"
     },
     "stats": {
-      "posts": 101,
-      "covers": 31,
+      "posts": 104,
+      "covers": 34,
       "trackers_listed": 10,
       "trackers_present": 10
     },
     "counts": {
       "nodes": 22,
-      "edges": 64,
+      "edges": 65,
       "missing": 0,
       "by_kind": {
         "project": 1,
@@ -63,7 +63,7 @@
     {
       "id": "tracker:format",
       "name": "format",
-      "count": 4
+      "count": 5
     },
     {
       "id": "tracker:export",
@@ -147,7 +147,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "7b05f3e9dc78",
+      "hash": "e6c1c5031be8",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -185,7 +185,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "3e920177ead5",
+      "hash": "927f5bee93a3",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -257,7 +257,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "388f6c702d3d",
+      "hash": "6736c8b2f6f7",
       "summary": "Use this exact spec when drafting essays for this site.",
       "headings": [
         "Essay Formatting Guide",
@@ -309,7 +309,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "6961767969ac",
+      "hash": "9dfa25ab9caf",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",
@@ -318,12 +318,12 @@
         "Markdown structure",
         "Title",
         "First body section",
+        "Title, subtitle, lead",
         "Voice and refinement (from practice)",
         "Cross-link checklist",
         "Cover",
         "Ship (site)",
-        "typical new essay",
-        "open public/posts/<slug>/index.html"
+        "typical new essay"
       ],
       "layer": "tracker"
     },
@@ -419,6 +419,12 @@
       "to": "tracker:local",
       "rel": "points_to",
       "label": "`docs/local-memory.md`"
+    },
+    {
+      "from": "tracker:format",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
     },
     {
       "from": "tracker:format",
