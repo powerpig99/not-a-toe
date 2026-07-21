@@ -66,6 +66,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Embroidery / needlework on linen** | Hand-stitched plant and cut scaffold threads on cream linen weave, soft studio textile light, raised stitch shadow | `when-need-stops-being-the-measure` |
 | **Sgraffito plaster / scraped fresco** | Layered wall plaster, raking light, deep scrape as luminous interior; shallow surface scratches as flat silhouettes | `the-npc-impression-is-structural` |
 | **Suminagashi / floating-ink marbling** | Cream washi, black–indigo ink on water transferred as concentric ripples; wet-paper sheen; effect-lines forming a frame | `when-the-effect-authors-the-frame` |
+| **Pinhole / camera obscura photograph** | Soft circular vignette, optical blur, dust motes in raking beam, cream–warm gray, chemical grain; empty-calendar ghost as residue | `closed-reality-in-the-pursuit-of-serendipity` |
 
 ## Inventory (by slug)
 
@@ -79,6 +80,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `causality-all-the-way` | Sand animation / grain board |
 | `causality-stays-at-the-edge-that-steers` | Bauhaus primary-color geometry |
 | `closed-reality-in-benchmark-maxing` | Photoreal tableau |
+| `closed-reality-in-the-pursuit-of-serendipity` | Pinhole / camera obscura photograph |
 | `complexity-obscures-emergence-as-the-act-of-mind` | Copperplate engraving |
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |
