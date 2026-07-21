@@ -20,6 +20,8 @@ What avoids the substitution is carrying only what the child cannot yet carry �
 
 Parents cannot make children into anything. Any attempt to shape outcomes — emotional buffering, steering, heavy guidance — inserts the parent’s preferences into the child’s process. What remains past the narrow limit of unreadiness is non-replacement: contact with reality left available so the child can form structure through it. Between centers there is only what is available to be taken up; no center completes another’s return.
 
+When management of the felt state is installed as the prior that reorganizes the field before contact — so that restraint of modulation already reads as harm — the substitution is structural rather than occasional. [When the effect authors the frame](../when-the-effect-authors-the-frame/) is that prior-as-frame face of the same topology.
+
 ## In adult relationships
 
 The same pattern appears between adults. When emotional support functions as ongoing regulation of one person’s felt state by the other, structural dependence forms. One party becomes accustomed to external management of internal experience; the other becomes accustomed to providing it. The relationship organizes around mutual effect-regulation rather than around two centers that keep their own updates and choose to relate.

@@ -9,11 +9,14 @@ Living guide for essays in this folder. Source of truth for site content lives h
 | Substack / external export | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) |
 | X Article publish | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 | Local memory / sleep audit | [`docs/local-memory.md`](../../docs/local-memory.md) |
+| Posts lattice (cross-link graph) | `node scripts/project-posts-graph.mjs` → [`docs/posts.graph.json`](../../docs/posts.graph.json) |
 | Site authoring summary | [`README.md`](../../README.md) |
 
 ## Principle
 
 Write for clarity of the Mind writing — not to inform other Minds. Every post lives by that: the dual as generative ground, open residue under load, never a finished product or ground truth. Do not announce the stance; do not perform it for an audience. Live it as background voice while drafting. Stating it installs an image to defend.
+
+Posts are **living documents**: same-slug revise when a newer cut clarifies an older face; prefer pointer updates over URL churn. Relations live only as relative cross-links in prose — the posts graph is a disposable projection of those links, never a second inventory.
 
 One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit only under `content/posts/`; never hand-edit `public/` or treat `export/` as source.
 
@@ -127,6 +130,17 @@ When refining under ontological clarity (or any dissolution pass):
 2. One pointer per cut is enough; avoid a laundry list in one paragraph.
 3. Verify the target file exists: `content/posts/<slug>.md`.
 4. After adding links, re-read: if a paragraph only exists to summarize another essay, delete the summary and keep the pointer.
+5. After shipping a new or revised post, sleep (or an explicit pass) reviews **1-hop neighbors** for pointer updates — see [`docs/local-memory.md`](../../docs/local-memory.md) posts lattice. Do not force reverse links; one-way is default.
+
+### Posts graph (projection only)
+
+```bash
+node scripts/project-posts-graph.mjs                 # docs/posts.graph.json
+node scripts/project-posts-graph.mjs --neighbors <slug>
+node scripts/project-posts-graph.mjs --diff           # seeds vs prior graph + review sets
+```
+
+Edges = relative `](../slug/)` links already in these files. Never hand-edit the JSON; never maintain a separate `related:` list.
 
 ## Cover
 
@@ -170,13 +184,16 @@ Do not commit `public/` or `export/` as source of truth (`export/` is gitignored
 1. [ ] Draft `content/posts/<slug>.md` to format contract (title / subtitle / lead / `##` body).
 2. [ ] Section headings name each cut — no generic slots (*What Remains*, *Conclusion*, *Summary*, …).
 3. [ ] Refine for mechanism language; fold any seed tweet into the lead so the essay stands alone.
-4. [ ] Add relative cross-links as axis pointers; verify slugs exist.
+4. [ ] Add relative cross-links as axis pointers; verify slugs exist (`node scripts/project-posts-graph.mjs` → `missing_targets` must stay 0).
 5. [ ] Cover: new style per STYLES.md; **16:9** landscape; install 1280×720; update STYLES.md.
 6. [ ] Commit + push (or local `node build.mjs` first).
 7. [ ] If posting to Substack: follow [`docs/export-for-substack.md`](../../docs/export-for-substack.md).
 8. [ ] If posting as X Article: follow [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) (dry-run → `--draft` → review → publish).
+9. [ ] Neighbor review: deferred to project `/sleep` unless this draft **depends** on correcting an older claim now — then edit that neighbor in the same session (pointer only).
 
 ## After shipping
 
 - Prefer not to rewrite published URLs/slugs; add a new post or revise in place under the same slug.
+- Living updates: same-slug edits when a newer cut clarifies an older face; regenerate posts graph after link changes.
 - If cross-links are added later, re-run Substack export only if you will update the Substack version by hand.
+- Sleep (operator call) runs the related-post currency pass on seeds from `--diff` — see [`docs/local-memory.md`](../../docs/local-memory.md).

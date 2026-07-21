@@ -11,7 +11,7 @@ Guides (read these instead of re-deriving the workflow each time):
 | Cover style differentiation | [`assets/covers/STYLES.md`](assets/covers/STYLES.md) |
 | Substack / external export | [`docs/export-for-substack.md`](docs/export-for-substack.md) |
 | X Article publish | [`docs/export-for-x-article.md`](docs/export-for-x-article.md) |
-| Local memory / sleep audit / graph | [`docs/local-memory.md`](docs/local-memory.md) |
+| Local memory / sleep audit / graphs | [`docs/local-memory.md`](docs/local-memory.md) — trackers: `node scripts/project-local-graph.mjs`; posts lattice: `node scripts/project-posts-graph.mjs` |
 
 1. Add essays in `content/posts/*.md`.
 2. The first line must be `# Title`.

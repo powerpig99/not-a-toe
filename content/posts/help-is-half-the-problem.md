@@ -18,6 +18,8 @@ The ledger, read without moral coordinates: this stasis is maintained, renewed, 
 
 This is why "helping is half the problem" is precision, not cynicism. Every time motion is supplied in the absence of the other's own motion, the supplier co-authors the stasis. The arm spins because the helper keeps spinning it, and the helped keeps providing the axis. Both are working hard—avoiding displacement takes endless effort—yet the compound direction never changes.
 
+The fixed point need not be a person. A shared prior can occupy the axis — for example a narrative that elevates management of the felt or projected register as the duty both adults must orbit, so one center’s motion is the demand that the other supply that modulation. [When the effect authors the frame](../when-the-effect-authors-the-frame/) is that face: the loop runs around a prior rather than around a helped body.
+
 The exit is available in every moment, to either input. The helper stops supplying motion the other hasn't generated. The helped stops requiring motion they won't generate. The contract ends the instant one input withdraws.
 
 Everything else is theater.

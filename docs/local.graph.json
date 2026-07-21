@@ -3,23 +3,23 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-21T16:30:08.365Z",
+    "generated_at": "2026-07-21T19:56:33.894Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "5ae00244d23b",
-      "docs/essay-format.md": "9302841a2bee",
+      "content/posts/README.md": "961334406130",
+      "docs/essay-format.md": "fe7aa519b365",
       "docs/export-for-substack.md": "4e99a5ee89ef",
       "docs/export-for-x-article.md": "ae09a55c5e8b",
       "export/README.md": "b58f6146e1bb",
       "assets/covers/STYLES.md": "7d88a2e052dd",
-      "README.md": "500d5ac29bed",
-      "docs/local-memory.md": "45c9376dff0d",
+      "README.md": "ec4ab5b1e77a",
+      "docs/local-memory.md": "d107677229f5",
       "build.mjs": "fc814f2a36f4",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "c52790c566c9"
+      "MEMORY.md": "1371696669e3"
     },
     "stats": {
       "posts": 113,
@@ -29,7 +29,7 @@
     },
     "counts": {
       "nodes": 26,
-      "edges": 85,
+      "edges": 88,
       "missing": 0,
       "by_kind": {
         "project": 1,
@@ -43,14 +43,14 @@
   },
   "hubs": [
     {
-      "id": "memory:project",
-      "name": "MEMORY.md",
-      "count": 11
-    },
-    {
       "id": "tracker:posts",
       "name": "posts",
-      "count": 10
+      "count": 12
+    },
+    {
+      "id": "memory:project",
+      "name": "MEMORY.md",
+      "count": 12
     },
     {
       "id": "tracker:root",
@@ -166,7 +166,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "c52790c566c9",
+      "hash": "1371696669e3",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -303,7 +303,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "9302841a2bee",
+      "hash": "fe7aa519b365",
       "summary": "Use this exact spec when drafting essays for this site.",
       "headings": [
         "Essay Formatting Guide",
@@ -324,15 +324,16 @@
       "path": "docs/local-memory.md",
       "owns": "manifest",
       "exists": true,
-      "hash": "45c9376dff0d",
+      "hash": "d107677229f5",
       "summary": "Manifest of operational `.md` files for this project.",
       "headings": [
         "Local memory — living trackers and sleep audit",
         "Principle",
         "Living trackers (audit set)",
         "Sleep audit procedure",
+        "Sleep prompt sketch (posts pass)",
         "Prune rules",
-        "Graph"
+        "Graphs"
       ],
       "layer": "tracker"
     },
@@ -355,7 +356,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "5ae00244d23b",
+      "hash": "961334406130",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",
@@ -368,8 +369,8 @@
         "Title, subtitle, lead",
         "Voice and refinement (from practice)",
         "Cross-link checklist",
-        "Cover",
-        "Ship (site)"
+        "Posts graph (projection only)",
+        "Cover"
       ],
       "layer": "tracker"
     },
@@ -380,7 +381,7 @@
       "path": "README.md",
       "owns": "index",
       "exists": true,
-      "hash": "500d5ac29bed",
+      "hash": "ec4ab5b1e77a",
       "summary": "## Authoring contract Guides (read these instead of re-deriving the workflow each time): | Topic | Doc | |-------|-----| | Posts: structure, voice, cross-links, ship checklist | [`…",
       "headings": [
         "Not a ToE",
@@ -453,6 +454,12 @@
     },
     {
       "from": "tracker:posts",
+      "to": "tracker:local",
+      "rel": "points_to",
+      "label": "`docs/local-memory.md`"
+    },
+    {
+      "from": "tracker:posts",
       "to": "tracker:export-x",
       "rel": "points_to",
       "label": "`docs/export-for-x-article.md`"
@@ -474,6 +481,12 @@
       "to": "tracker:export-x",
       "rel": "points_to",
       "label": "`docs/export-for-x-article.md`"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "tracker:local",
+      "rel": "points_to",
+      "label": "`docs/local-memory.md`"
     },
     {
       "from": "project:not-a-toe",
@@ -887,6 +900,12 @@
     {
       "from": "memory:project",
       "to": "tracker:x-article-script",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:local-graph-script",
       "rel": "points_to",
       "implicit": true
     }
