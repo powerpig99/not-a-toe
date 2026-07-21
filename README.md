@@ -60,4 +60,4 @@ This generates `public/` with:
 - `posts.json` and `posts.jsonl` (machine-readable post index with source markdown URLs)
 - `sitemap.xml` and `robots.txt`
 
-Social preview image is referenced from `assets/toe-bang.png` via metadata URL and is not copied into `public/`.
+Social preview image is referenced from `assets/toe-bang.png` via metadata URL. The same file is also copied into `public/apple-touch-icon.png` for iOS Safari “Add to Home Screen”.

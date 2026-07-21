@@ -22,11 +22,13 @@ const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const contentDir = path.join(scriptDir, 'content', 'posts');
 const outputDir = path.join(scriptDir, 'public');
 const coversDir = path.join(scriptDir, 'assets', 'covers');
+const appleTouchIconSource = path.join(scriptDir, 'assets', 'toe-bang.png');
 const styleFile = path.join(scriptDir, 'style.css');
 const styleVersion = String(Math.floor(fs.statSync(styleFile).mtimeMs));
 const faviconSvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="black"/><text x="2" y="43" fill="white" font-family="Georgia, serif" font-size="28" font-weight="700" textLength="60" lengthAdjust="spacingAndGlyphs">!ToE</text></svg>`;
 const faviconDataUri = `data:image/svg+xml,${encodeURIComponent(faviconSvg)}`;
 const COVER_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.webp'];
+const APPLE_TOUCH_ICON = 'apple-touch-icon.png';
 
 const baseUrl = new URL(SITE.baseUrl);
 const basePath = baseUrl.pathname.replace(/\/$/, '');
@@ -612,6 +614,8 @@ function renderPage({
   <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
 ${alternateLinksHtml}
   <link rel="icon" type="image/svg+xml" href="${escapeHtml(faviconDataUri)}">
+  <link rel="apple-touch-icon" href="${withBase(APPLE_TOUCH_ICON)}">
+  <meta name="apple-mobile-web-app-title" content="${escapeHtml(SITE.title)}">
   <link rel="stylesheet" href="${withBase(`style.css?v=${styleVersion}`)}">
   <meta property="og:title" content="${escapeHtml(fullTitle)}">
   <meta property="og:description" content="${escapeHtml(description)}">
@@ -832,6 +836,11 @@ function copyStaticAssets() {
   }
 
   fs.copyFileSync(styleFile, path.join(outputDir, 'style.css'));
+
+  if (!fs.existsSync(appleTouchIconSource)) {
+    throw new Error('assets/toe-bang.png not found (required for apple-touch-icon).');
+  }
+  fs.copyFileSync(appleTouchIconSource, path.join(outputDir, APPLE_TOUCH_ICON));
 
   if (!fs.existsSync(coversDir)) return;
 
