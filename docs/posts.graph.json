@@ -3,13 +3,13 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-21T20:14:40.564Z",
+    "generated_at": "2026-07-21T20:47:28.246Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
-      "content/posts/a-creation-cannot-replace-its-source.md": "d9d38ff97971",
+      "content/posts/a-creation-cannot-replace-its-source.md": "1a56045b2ad4",
       "content/posts/a-living-external-cortex.md": "5c0736f4f2e0",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
@@ -19,7 +19,7 @@
       "content/posts/amplification-paradox.md": "c32adcf37267",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/causality-all-the-way.md": "129ce3703737",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "24b9aa2577f5",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "9bb629357eb6",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "30fd9b2890a4",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -50,11 +50,11 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "59c67f39cc90",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "028d8e0a29ac",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/looping-and-graphing.md": "290d99859db3",
-      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "9b572373a877",
+      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "7386717ff3a3",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "f41a28ab1419",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
@@ -98,6 +98,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "dd3b0162f298",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "1449f6d87732",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "31a6b3c2981c",
       "content/posts/the-npc-impression-is-structural.md": "5ff4fbd827e2",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "7d9fd4d52830",
@@ -113,7 +114,7 @@
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "036c2f91a81c",
       "content/posts/two-failures-of-trace.md": "fc0851d22465",
-      "content/posts/what-always-listens-cannot-originate.md": "54ef70082707",
+      "content/posts/what-always-listens-cannot-originate.md": "7bd944369110",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "45b32d397b1d",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
@@ -124,23 +125,23 @@
       "content/posts/you-wu-zhi-bian.md": "7362a727e3c4"
     },
     "stats": {
-      "posts": 114,
-      "edges": 246,
-      "unique_directed": 240,
+      "posts": 115,
+      "edges": 262,
+      "unique_directed": 256,
       "missing_targets": 0,
-      "one_way": 220,
+      "one_way": 226,
       "isolated": 41,
-      "posts_with_outbound": 36
+      "posts_with_outbound": 38
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 21
+      "in_degree": 22
     },
     {
       "slug": "self-rl-for-humans",
-      "in_degree": 13
+      "in_degree": 14
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -163,11 +164,11 @@
       "in_degree": 10
     },
     {
-      "slug": "no-system-can-be-kept-closed",
-      "in_degree": 8
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 9
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
+      "slug": "no-system-can-be-kept-closed",
       "in_degree": 8
     },
     {
@@ -176,14 +177,26 @@
     },
     {
       "slug": "what-always-listens-cannot-originate",
+      "in_degree": 7
+    },
+    {
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 6
+    },
+    {
+      "slug": "two-failures-of-trace",
+      "in_degree": 6
+    },
+    {
+      "slug": "causality-stays-at-the-edge-that-steers",
+      "in_degree": 5
     },
     {
       "slug": "looping-and-graphing",
       "in_degree": 5
     },
     {
-      "slug": "ownership-and-self-worthiness",
+      "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "in_degree": 5
     },
     {
@@ -191,7 +204,7 @@
       "in_degree": 5
     },
     {
-      "slug": "two-failures-of-trace",
+      "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 5
     },
     {
@@ -199,19 +212,7 @@
       "in_degree": 5
     },
     {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 4
-    },
-    {
       "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 4
-    },
-    {
-      "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
-      "in_degree": 4
-    },
-    {
-      "slug": "the-meaning-of-life-is-in-the-drafting",
       "in_degree": 4
     }
   ],
@@ -221,16 +222,24 @@
       "out_degree": 28
     },
     {
+      "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "out_degree": 12
+    },
+    {
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
       "out_degree": 12
     },
     {
-      "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "slug": "a-creation-cannot-replace-its-source",
       "out_degree": 11
     },
     {
-      "slug": "a-creation-cannot-replace-its-source",
-      "out_degree": 10
+      "slug": "the-model-never-becomes-a-second-edge",
+      "out_degree": 11
+    },
+    {
+      "slug": "what-always-listens-cannot-originate",
+      "out_degree": 11
     },
     {
       "slug": "better-than-free-after-the-checklist-closes",
@@ -241,16 +250,12 @@
       "out_degree": 10
     },
     {
-      "slug": "what-always-listens-cannot-originate",
-      "out_degree": 10
+      "slug": "causality-stays-at-the-edge-that-steers",
+      "out_degree": 9
     },
     {
       "slug": "two-failures-of-trace",
       "out_degree": 9
-    },
-    {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "out_degree": 8
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -291,10 +296,6 @@
     {
       "slug": "what-works-is-the-belief",
       "out_degree": 7
-    },
-    {
-      "slug": "causality-all-the-way",
-      "out_degree": 6
     }
   ],
   "missing": [],
@@ -348,15 +349,16 @@
       "slug": "a-creation-cannot-replace-its-source",
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
-      "hash": "d9d38ff97971",
-      "in_degree": 1,
-      "out_degree": 10,
+      "hash": "1a56045b2ad4",
+      "in_degree": 2,
+      "out_degree": 11,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
         "causality-stays-at-the-edge-that-steers",
         "what-always-listens-cannot-originate",
+        "the-model-never-becomes-a-second-edge",
         "two-failures-of-trace",
         "ai-as-augmentation",
         "amplification-paradox",
@@ -426,7 +428,7 @@
       "path": "content/posts/ai-as-augmentation.md",
       "title": "AI as Augmentation: Dissolving the \"Replacement\" Frame",
       "hash": "36af20653d5c",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 0,
       "links_out": []
     },
@@ -448,7 +450,7 @@
       "path": "content/posts/amplification-paradox.md",
       "title": "The Amplification Paradox",
       "hash": "c32adcf37267",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 0,
       "links_out": []
     },
@@ -509,9 +511,9 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
-      "hash": "24b9aa2577f5",
-      "in_degree": 4,
-      "out_degree": 8,
+      "hash": "9bb629357eb6",
+      "in_degree": 5,
+      "out_degree": 9,
       "links_out": [
         "what-always-listens-cannot-originate",
         "intelligence-belongs-only-to-the-mind",
@@ -520,6 +522,7 @@
         "two-failures-of-trace",
         "mei-you-pu-du-zhi-you-zi-du",
         "the-allocation-of-causal-power-in-validation",
+        "the-model-never-becomes-a-second-edge",
         "complexity-obscures-emergence-as-the-act-of-mind"
       ]
     },
@@ -899,10 +902,12 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "59c67f39cc90",
-      "in_degree": 21,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "028d8e0a29ac",
+      "in_degree": 22,
+      "out_degree": 1,
+      "links_out": [
+        "the-model-never-becomes-a-second-edge"
+      ]
     },
     {
       "id": "post:intelligence-crisis-response",
@@ -951,14 +956,15 @@
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "Lossless Knowledge of an Open Field Is Incoherent",
-      "hash": "9b572373a877",
-      "in_degree": 4,
-      "out_degree": 11,
+      "hash": "7386717ff3a3",
+      "in_degree": 5,
+      "out_degree": 12,
       "links_out": [
         "distillation-compression-agency",
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
         "a-creation-cannot-replace-its-source",
+        "the-model-never-becomes-a-second-edge",
         "what-always-listens-cannot-originate",
         "looping-and-graphing",
         "no-system-can-be-kept-closed",
@@ -1177,7 +1183,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "ad6d510eef32",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 0,
       "links_out": []
     },
@@ -1294,7 +1300,7 @@
       "path": "content/posts/self-rl-for-humans.md",
       "title": "What Looks Like RL for AIs Is Self-RL for Humans",
       "hash": "0af62aecf5bc",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 0,
       "links_out": []
     },
@@ -1387,7 +1393,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
       "hash": "8a567ee3c278",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 0,
       "links_out": []
     },
@@ -1556,6 +1562,29 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "overfitting-as-the-follower-mode",
         "clarity-isnt-a-state-you-arrive-at"
+      ]
+    },
+    {
+      "id": "post:the-model-never-becomes-a-second-edge",
+      "kind": "post",
+      "slug": "the-model-never-becomes-a-second-edge",
+      "path": "content/posts/the-model-never-becomes-a-second-edge.md",
+      "title": "The Model Never Becomes a Second Edge",
+      "hash": "1449f6d87732",
+      "in_degree": 5,
+      "out_degree": 11,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "self-rl-for-humans",
+        "lossless-knowledge-of-an-open-field-is-incoherent",
+        "two-failures-of-trace",
+        "what-always-listens-cannot-originate",
+        "causality-stays-at-the-edge-that-steers",
+        "the-allocation-of-causal-power-in-validation",
+        "a-creation-cannot-replace-its-source",
+        "ownership-and-self-worthiness",
+        "ai-as-augmentation",
+        "amplification-paradox"
       ]
     },
     {
@@ -1728,7 +1757,7 @@
       "path": "content/posts/two-failures-of-trace.md",
       "title": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
       "hash": "fc0851d22465",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 9,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1748,9 +1777,9 @@
       "slug": "what-always-listens-cannot-originate",
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "What Always Listens Cannot Originate",
-      "hash": "54ef70082707",
-      "in_degree": 6,
-      "out_degree": 10,
+      "hash": "7bd944369110",
+      "in_degree": 7,
+      "out_degree": 11,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-allocation-of-causal-power-in-validation",
@@ -1761,7 +1790,8 @@
         "recursive-contradiction-of-entrusted-morality",
         "the-risk-you-delegate-is-the-risk-you-create",
         "mei-you-pu-du-zhi-you-zi-du",
-        "ai-as-augmentation"
+        "ai-as-augmentation",
+        "the-model-never-becomes-a-second-edge"
       ]
     },
     {
@@ -1903,6 +1933,12 @@
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
       "label": "What always listens cannot originate"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
@@ -2134,6 +2170,12 @@
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity obscures emergence"
@@ -2337,6 +2379,12 @@
       "label": "When the effect authors the frame"
     },
     {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "the model never becomes a second edge"
+    },
+    {
       "from": "looping-and-graphing",
       "to": "self-rl-for-humans",
       "rel": "points_to",
@@ -2401,6 +2449,12 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A creation cannot replace its source"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -2919,6 +2973,72 @@
       "label": "Clarity isn't a state you arrive at"
     },
     {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to The Mind"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What looks like RL for AIs"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless knowledge of an open field is incoherent"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What always listens cannot originate"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A creation cannot replace its source"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "ownership and self-worthiness"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "ai-as-augmentation",
+      "rel": "points_to",
+      "label": "AI as augmentation"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "amplification-paradox",
+      "rel": "points_to",
+      "label": "The amplification paradox"
+    },
+    {
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
@@ -3247,6 +3367,12 @@
       "to": "ai-as-augmentation",
       "rel": "points_to",
       "label": "AI as augmentation"
+    },
+    {
+      "from": "what-always-listens-cannot-originate",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
     },
     {
       "from": "what-works-is-the-belief",

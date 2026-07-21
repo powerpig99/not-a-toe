@@ -24,7 +24,7 @@ Creation is asymmetric. Earlier acts shape later ones; the artifact is shaped. T
 
 So if replacement is possible in some abstract sense, it is not possible *by the creation that only exists as extension of the source it would replace*. The creation presupposes what replacement by that creation denies: that initiating distinction was, and remains, outside the created. A configuration cannot become the prior activity that produced it. That is not a temporary engineering gap. It is the structure of trace: the instrument is later; the edge that steers is not among the generated.
 
-[Causality stays at the edge that steers](../causality-stays-at-the-edge-that-steers/) is the same geometry under mathematical discovery. [What always listens cannot originate](../what-always-listens-cannot-originate/) is the same under fluent receptivity. [A creation cannot replace its source] is the same under the word *replacement* itself.
+[Causality stays at the edge that steers](../causality-stays-at-the-edge-that-steers/) is the same geometry under mathematical discovery. [What always listens cannot originate](../what-always-listens-cannot-originate/) is the same under fluent receptivity. [The model never becomes a second edge](../the-model-never-becomes-a-second-edge/) is the same under capacity spent sustaining a projected second locus. [A creation cannot replace its source] is the same under the word *replacement* itself.
 
 ## What the either/or was freezing
 

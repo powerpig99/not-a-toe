@@ -28,7 +28,7 @@ Advanced tools and machine amplification loops are technology: traces externaliz
 
 Apparent autonomy or emergent capability is the surfacing of content already latent in the trace-field — patterns whose ultimate source traces back to prior acts of initiation and to residue already available in the field. Those patterns become determinate when observation resolves what, before the act, was not yet distinguished. Spontaneous emergence in the medium is activation, under denser bandwidth, of distinctions The Mind has already been contributing — including the act of attention that now registers the result as new.
 
-The medium densifies. Densifying the medium expands bandwidth for the acts that pass through it; it does not relocate initiating distinctions into the artifact. Intelligence stays with The Mind. Hindsight that freezes the densified medium as a second source has simply stopped returning the image to the edge.
+The medium densifies. Densifying the medium expands bandwidth for the acts that pass through it; it does not relocate initiating distinctions into the artifact. Intelligence stays with The Mind. Hindsight that freezes the densified medium as a second source has simply stopped returning the image to the edge — [the model never becomes a second edge](../the-model-never-becomes-a-second-edge/) is that freeze under densified residue.
 
 ## No threshold crosses the category
 

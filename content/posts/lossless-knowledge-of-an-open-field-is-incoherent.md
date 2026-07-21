@@ -14,7 +14,7 @@ What is recovered is not a finished map of the world. What is recovered is a cap
 
 The model itself remains technology — an artifact of externalized traces. The initiating distinctions, the framing of prompts, the selection among continuations, and the verification against further activity remain acts of the centers that use it. No second locus of self-distinguishing activity is created. [Intelligence belongs only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior; [artifacts are expressions of intelligence, not intelligence itself](../two-failures-of-trace/) is the same freeze when denser residue is held as the act that produced it. [A creation cannot replace its source](../a-creation-cannot-replace-its-source/) is the bound under engineering costume.
 
-Rate and scale densify the medium. They do not relocate initiation into the configuration. [What always listens cannot originate](../what-always-listens-cannot-originate/) is continuous receptivity under that same allocation: fluency is strength of resonance with available traces, not supply of the next unforced distinction.
+Rate and scale densify the medium. They do not relocate initiation into the configuration. [The model never becomes a second edge](../the-model-never-becomes-a-second-edge/) is the lag face: capacity bound to sustaining a projected second locus rather than to distinctions only centers can originate. [What always listens cannot originate](../what-always-listens-cannot-originate/) is continuous receptivity under that same allocation: fluency is strength of resonance with available traces, not supply of the next unforced distinction.
 
 ## The full causal graph is an Image, not a recoverable object
 
