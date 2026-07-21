@@ -68,6 +68,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Suminagashi / floating-ink marbling** | Cream washi, black–indigo ink on water transferred as concentric ripples; wet-paper sheen; effect-lines forming a frame | `when-the-effect-authors-the-frame` |
 | **Pinhole / camera obscura photograph** | Soft circular vignette, optical blur, dust motes in raking beam, cream–warm gray, chemical grain; empty-calendar ghost as residue | `closed-reality-in-the-pursuit-of-serendipity` |
 | **Cloisonné / enamel medallion** | Antique gold wire cells, multi-scale jewel enamel facets, museum light on glaze and patina; lossy partition of a continuous field | `lossless-knowledge-of-an-open-field-is-incoherent` |
+| **Gouache narrative still life** | Matte opaque gouache, cream–charcoal desk scene, clear objects, soft window light; real hand + residue medium + mirror lag | `the-model-never-becomes-a-second-edge` |
 
 ## Inventory (by slug)
 
@@ -104,6 +105,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-flywheel-of-the-mind` | Art Deco poster / chrome and sunburst |
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
 | `the-meaning-of-life-is-in-the-drafting` | Risograph flat print |
+| `the-model-never-becomes-a-second-edge` | Gouache narrative still life |
 | `the-non-definitive-definition-of-intelligence` | Cyanotype |
 | `the-npc-impression-is-structural` | Sgraffito plaster / scraped fresco |
 | `the-path-drawn-one-step-at-a-time` | Cinematic dual-path |
