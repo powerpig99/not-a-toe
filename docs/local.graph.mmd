@@ -64,10 +64,12 @@ flowchart LR
   tracker_posts --> tracker_export_x
   tracker_posts --> tracker_local
   tracker_posts --> tracker_root
+  tracker_posts --> tracker_local
   tracker_posts --> tracker_export_x
   tracker_posts --> tracker_covers
   tracker_posts --> tracker_export
   tracker_posts --> tracker_export_x
+  tracker_posts --> tracker_local
   project_not_a_toe --> tracker_format
   tracker_format -->|owns| domain_llm_format
   tracker_format --> tracker_posts
@@ -141,3 +143,4 @@ flowchart LR
   memory_project --> tracker_build
   memory_project --> tracker_export_script
   memory_project --> tracker_x_article_script
+  memory_project --> tracker_local_graph_script
