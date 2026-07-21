@@ -4,7 +4,7 @@ Manifest of operational `.md` files for this project. Temporary ground at projec
 
 | Related | Path |
 |---------|------|
-| Skill sleep (framework store graph) | `~/.claude/skills/ontological-clarity/` · `node project-store-graph.mjs` |
+| Skill sleep (framework store graph) | `~/.grok/skills/ontological-clarity/` (active) · mirror `~/.claude/skills/ontological-clarity/` · `node project-store-graph.mjs` |
 | Project local graph | `node scripts/project-local-graph.mjs` → `docs/local.graph.json` |
 | Claude project memory | `~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md` |
 
@@ -43,8 +43,8 @@ Entered with project `/sleep` (or when sleep residue is operational). Operator c
 
    ```bash
    node scripts/project-local-graph.mjs
-   # framework store, from skill dir:
-   node ~/.claude/skills/ontological-clarity/project-store-graph.mjs
+   # framework store, from skill dir (prefer active grok copy):
+   node ~/.grok/skills/ontological-clarity/project-store-graph.mjs
    ```
 
 6. **Vital sign** — report net length change on trackers (excluding inventory rows that merely list new world residue) and whether MEMORY shrank.

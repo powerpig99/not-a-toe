@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-20T19:50:50.623Z",
+    "generated_at": "2026-07-21T08:26:00.233Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -12,18 +12,18 @@
       "docs/export-for-substack.md": "4e99a5ee89ef",
       "docs/export-for-x-article.md": "ae09a55c5e8b",
       "export/README.md": "b58f6146e1bb",
-      "assets/covers/STYLES.md": "0f2cdc2db609",
-      "README.md": "9135e5760356",
-      "docs/local-memory.md": "f541d670f60d",
-      "build.mjs": "57a280cd32e4",
+      "assets/covers/STYLES.md": "4f1f36876e91",
+      "README.md": "500d5ac29bed",
+      "docs/local-memory.md": "45c9376dff0d",
+      "build.mjs": "fc814f2a36f4",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "eb6f91c78068"
+      "MEMORY.md": "53b394f250d4"
     },
     "stats": {
-      "posts": 110,
-      "covers": 40,
+      "posts": 111,
+      "covers": 41,
       "trackers_listed": 12,
       "trackers_present": 12
     },
@@ -166,7 +166,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "eb6f91c78068",
+      "hash": "53b394f250d4",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -192,7 +192,7 @@
       "path": "build.mjs",
       "owns": "site-build",
       "exists": true,
-      "hash": "57a280cd32e4",
+      "hash": "fc814f2a36f4",
       "summary": "binary/script",
       "headings": [],
       "layer": "tracker"
@@ -204,7 +204,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "0f2cdc2db609",
+      "hash": "4f1f36876e91",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -324,7 +324,7 @@
       "path": "docs/local-memory.md",
       "owns": "manifest",
       "exists": true,
-      "hash": "f541d670f60d",
+      "hash": "45c9376dff0d",
       "summary": "Manifest of operational `.md` files for this project.",
       "headings": [
         "Local memory — living trackers and sleep audit",
@@ -380,7 +380,7 @@
       "path": "README.md",
       "owns": "index",
       "exists": true,
-      "hash": "9135e5760356",
+      "hash": "500d5ac29bed",
       "summary": "## Authoring contract Guides (read these instead of re-deriving the workflow each time): | Topic | Doc | |-------|-----| | Posts: structure, voice, cross-links, ship checklist | [`…",
       "headings": [
         "Not a ToE",
