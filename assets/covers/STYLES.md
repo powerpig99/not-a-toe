@@ -67,6 +67,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Sgraffito plaster / scraped fresco** | Layered wall plaster, raking light, deep scrape as luminous interior; shallow surface scratches as flat silhouettes | `the-npc-impression-is-structural` |
 | **Suminagashi / floating-ink marbling** | Cream washi, black–indigo ink on water transferred as concentric ripples; wet-paper sheen; effect-lines forming a frame | `when-the-effect-authors-the-frame` |
 | **Pinhole / camera obscura photograph** | Soft circular vignette, optical blur, dust motes in raking beam, cream–warm gray, chemical grain; empty-calendar ghost as residue | `closed-reality-in-the-pursuit-of-serendipity` |
+| **Cloisonné / enamel medallion** | Antique gold wire cells, multi-scale jewel enamel facets, museum light on glaze and patina; lossy partition of a continuous field | `lossless-knowledge-of-an-open-field-is-incoherent` |
 
 ## Inventory (by slug)
 
@@ -88,6 +89,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `humans-tokens-and-the-scope-of-valuation` | Oil split composition |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |
 | `looping-and-graphing` | Technical blueprint / diazo |
+| `lossless-knowledge-of-an-open-field-is-incoherent` | Cloisonné / enamel medallion |
 | `mei-you-pu-du-zhi-you-zi-du` | Dark chalk / light trails |
 | `no-system-can-be-kept-closed` | Risograph flat print |
 | `not-a-theory-of-everything` | Mezzotint / aquatint |
@@ -125,7 +127,6 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 Not exhaustive. Prefer something not in Style families above.
 
-- Cloisonné / enamel medallion
 - Soft clay / stop-motion puppet still
 - Ceramic glaze still life on porcelain
 - Anaglyph red-cyan stereo graphic

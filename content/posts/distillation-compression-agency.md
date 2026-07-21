@@ -87,3 +87,5 @@ This isn't a case against distillation. It's the structure of any compression th
 The question isn't whether to distill. It's whether the compression finds the generative ground or freezes the outputs. Whether the resulting artifact extends the user's agency or substitutes for it. Whether what survives the compression is a principle or a catalog.
 
 The proxy was never the purpose. Everyone knows this. The optimization follows it anyway — because it's the only thing with a gradient. The metric that can't distinguish enabling from replacing runs the optimization until enabling disappears. Not corruption. Completion — of a target nobody wanted to complete.
+
+[Lossless knowledge of an open field is incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) is the same geometry one step earlier: any centered registration is partial by constitution, so compression that pretends to seal the field is not a delayed ideal but a category error — and controlled lossiness is the condition under which finite engines stay generative.
