@@ -64,6 +64,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Sand animation / grain board** | Golden sand on dark board, raking light, continuous trail drawn through residual pits, documentary craft still | `causality-all-the-way` |
 | **Byzantine glass mosaic** | Gold and ultramarine tesserae, mortar lines, antique glass shine, plaster border, museum-wall light | `evil-as-the-minds-own-creation` |
 | **Embroidery / needlework on linen** | Hand-stitched plant and cut scaffold threads on cream linen weave, soft studio textile light, raised stitch shadow | `when-need-stops-being-the-measure` |
+| **Sgraffito plaster / scraped fresco** | Layered wall plaster, raking light, deep scrape as luminous interior; shallow surface scratches as flat silhouettes | `the-npc-impression-is-structural` |
 
 ## Inventory (by slug)
 
@@ -99,6 +100,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
 | `the-meaning-of-life-is-in-the-drafting` | Risograph flat print |
 | `the-non-definitive-definition-of-intelligence` | Cyanotype |
+| `the-npc-impression-is-structural` | Sgraffito plaster / scraped fresco |
 | `the-path-drawn-one-step-at-a-time` | Cinematic dual-path |
 | `the-question-that-installs-the-war` | Surreal desert allegory |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
@@ -121,7 +123,6 @@ Not exhaustive. Prefer something not in Style families above.
 
 - Cloisonné / enamel medallion
 - Soft clay / stop-motion puppet still
-- Fresco / buon fresco wall fragment
 - Ceramic glaze still life on porcelain
 - Anaglyph red-cyan stereo graphic
 - Pixel art / limited-palette retro game screen (no UI text)
