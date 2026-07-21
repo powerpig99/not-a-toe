@@ -65,6 +65,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Byzantine glass mosaic** | Gold and ultramarine tesserae, mortar lines, antique glass shine, plaster border, museum-wall light | `evil-as-the-minds-own-creation` |
 | **Embroidery / needlework on linen** | Hand-stitched plant and cut scaffold threads on cream linen weave, soft studio textile light, raised stitch shadow | `when-need-stops-being-the-measure` |
 | **Sgraffito plaster / scraped fresco** | Layered wall plaster, raking light, deep scrape as luminous interior; shallow surface scratches as flat silhouettes | `the-npc-impression-is-structural` |
+| **Suminagashi / floating-ink marbling** | Cream washi, black–indigo ink on water transferred as concentric ripples; wet-paper sheen; effect-lines forming a frame | `when-the-effect-authors-the-frame` |
 
 ## Inventory (by slug)
 
@@ -110,6 +111,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `what-always-listens-cannot-originate` | Ukiyo-e / nishiki-e |
 | `what-works-is-the-belief` | Mingei / katazome stencil |
 | `when-need-stops-being-the-measure` | Embroidery / needlework on linen |
+| `when-the-effect-authors-the-frame` | Suminagashi / floating-ink marbling |
 | `you-wu-zhi-bian` | Minimal horizon band |
 
 ## Crowded — prefer not to extend
