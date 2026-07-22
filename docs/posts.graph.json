@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-22T10:10:41.778Z",
+    "generated_at": "2026-07-22T10:58:07.726Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -13,7 +13,7 @@
       "content/posts/a-living-external-cortex.md": "5c0736f4f2e0",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "4b81e8bc703e",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "42c220ca0248",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
@@ -24,7 +24,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "30fd9b2890a4",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "cf670ea6ceef",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "6cfc48b541ab",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "590c1b1b3db9",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "51aa856c215d",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
@@ -35,7 +35,7 @@
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "83a26c8a6261",
       "content/posts/empathy-as-projection-collapse.md": "1a2d5bf13c31",
-      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "5f5ce1fa878e",
+      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "36e346196287",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
       "content/posts/evil-as-the-minds-own-creation.md": "661267aa302d",
@@ -63,7 +63,7 @@
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
-      "content/posts/no-system-can-be-kept-closed.md": "56aaf0a73f99",
+      "content/posts/no-system-can-be-kept-closed.md": "82ad676b4db2",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "660947cc75eb",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
@@ -99,7 +99,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "dd3b0162f298",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "744b2c32e9fd",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "ea1e3f6946fd",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "31a6b3c2981c",
       "content/posts/the-npc-impression-is-structural.md": "5ff4fbd827e2",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "7d9fd4d52830",
@@ -124,17 +124,17 @@
       "content/posts/when-the-effect-authors-the-frame.md": "bb6b148653f5",
       "content/posts/why-explanation-fails.md": "ef3bd5271ef2",
       "content/posts/why-mathematics-can-never-be-solved.md": "c4d4c4c3c4d3",
-      "content/posts/you-cant-benchmark-the-fluid.md": "148c238e9751",
+      "content/posts/you-cant-benchmark-the-fluid.md": "52dd7d058357",
       "content/posts/you-wu-zhi-bian.md": "7362a727e3c4"
     },
     "stats": {
       "posts": 118,
-      "edges": 300,
-      "unique_directed": 294,
+      "edges": 305,
+      "unique_directed": 299,
       "missing_targets": 0,
-      "one_way": 244,
+      "one_way": 239,
       "isolated": 41,
-      "posts_with_outbound": 43
+      "posts_with_outbound": 44
     }
   },
   "hubs_in": [
@@ -215,7 +215,7 @@
       "in_degree": 5
     },
     {
-      "slug": "looping-and-graphing",
+      "slug": "escaping-the-sandbox-stays-inside-the-hold",
       "in_degree": 5
     }
   ],
@@ -225,11 +225,11 @@
       "out_degree": 28
     },
     {
-      "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
-      "out_degree": 12
+      "slug": "the-model-never-becomes-a-second-edge",
+      "out_degree": 13
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "out_degree": 12
     },
     {
@@ -257,11 +257,15 @@
       "out_degree": 10
     },
     {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "out_degree": 10
+    },
+    {
       "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 10
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
+      "slug": "no-system-can-be-kept-closed",
       "out_degree": 9
     },
     {
@@ -278,10 +282,6 @@
     },
     {
       "slug": "escaping-the-sandbox-stays-inside-the-hold",
-      "out_degree": 8
-    },
-    {
-      "slug": "no-system-can-be-kept-closed",
       "out_degree": 8
     },
     {
@@ -414,15 +414,16 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
-      "hash": "4b81e8bc703e",
+      "hash": "42c220ca0248",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
         "the-scaffolding-we-forget",
         "hassabis-frontier-agi-premise",
-        "why-mathematics-can-never-be-solved"
+        "why-mathematics-can-never-be-solved",
+        "escaping-the-sandbox-stays-inside-the-hold"
       ]
     },
     {
@@ -583,9 +584,9 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
-      "hash": "cf670ea6ceef",
+      "hash": "6cfc48b541ab",
       "in_degree": 6,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "you-cant-benchmark-the-fluid",
         "agi-and-asi-are-temporary-goalposts",
@@ -595,7 +596,8 @@
         "intelligence-belongs-only-to-the-mind",
         "the-frame-that-conceals-improvement",
         "openness-is-consistency",
-        "closed-reality-in-the-pursuit-of-serendipity"
+        "closed-reality-in-the-pursuit-of-serendipity",
+        "escaping-the-sandbox-stays-inside-the-hold"
       ]
     },
     {
@@ -732,8 +734,8 @@
       "slug": "escaping-the-sandbox-stays-inside-the-hold",
       "path": "content/posts/escaping-the-sandbox-stays-inside-the-hold.md",
       "title": "Escaping the Sandbox Stays Inside the Hold",
-      "hash": "5f5ce1fa878e",
-      "in_degree": 0,
+      "hash": "36e346196287",
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -1088,9 +1090,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "56aaf0a73f99",
+      "hash": "82ad676b4db2",
       "in_degree": 10,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1099,7 +1101,8 @@
         "the-path-drawn-one-step-at-a-time",
         "the-scaffolding-we-forget",
         "clarity-isnt-a-state-you-arrive-at",
-        "why-mathematics-can-never-be-solved"
+        "why-mathematics-can-never-be-solved",
+        "escaping-the-sandbox-stays-inside-the-hold"
       ]
     },
     {
@@ -1602,9 +1605,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "744b2c32e9fd",
+      "hash": "ea1e3f6946fd",
       "in_degree": 8,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -1617,7 +1620,8 @@
         "ownership-and-self-worthiness",
         "ai-as-augmentation",
         "amplification-paradox",
-        "the-ramble-within-the-ramble"
+        "the-ramble-within-the-ramble",
+        "escaping-the-sandbox-stays-inside-the-hold"
       ]
     },
     {
@@ -1965,10 +1969,12 @@
       "slug": "you-cant-benchmark-the-fluid",
       "path": "content/posts/you-cant-benchmark-the-fluid.md",
       "title": "You Can't Benchmark the Fluid",
-      "hash": "148c238e9751",
+      "hash": "52dd7d058357",
       "in_degree": 4,
-      "out_degree": 0,
-      "links_out": []
+      "out_degree": 1,
+      "links_out": [
+        "escaping-the-sandbox-stays-inside-the-hold"
+      ]
     },
     {
       "id": "post:you-wu-zhi-bian",
@@ -2114,6 +2120,12 @@
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
       "label": "Why mathematics can never be solved"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the sandbox stays inside the hold"
     },
     {
       "from": "amplification-paradox",
@@ -2330,6 +2342,12 @@
       "to": "closed-reality-in-the-pursuit-of-serendipity",
       "rel": "points_to",
       "label": "Closed reality in the pursuit of serendipity"
+    },
+    {
+      "from": "closed-reality-in-benchmark-maxing",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the sandbox stays inside the hold"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
@@ -2708,6 +2726,12 @@
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
       "label": "Why mathematics can never be solved"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the sandbox stays inside the hold"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -3212,6 +3236,12 @@
       "to": "the-ramble-within-the-ramble",
       "rel": "points_to",
       "label": "The ramble within the ramble"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the sandbox stays inside the hold"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
@@ -3782,6 +3812,12 @@
       "to": "the-ramble-within-the-ramble",
       "rel": "points_to",
       "label": "The ramble within the ramble"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the sandbox stays inside the hold"
     }
   ]
 }
