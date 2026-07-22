@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-22T10:58:07.726Z",
+    "generated_at": "2026-07-22T11:05:51.686Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -13,7 +13,7 @@
       "content/posts/a-living-external-cortex.md": "5c0736f4f2e0",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "42c220ca0248",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "3a779afdb1e5",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
@@ -414,7 +414,7 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
-      "hash": "42c220ca0248",
+      "hash": "3a779afdb1e5",
       "in_degree": 5,
       "out_degree": 6,
       "links_out": [
@@ -2089,7 +2089,7 @@
       "from": "agi-and-asi-are-temporary-goalposts",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "intelligence belongs only to the Mind"
+      "label": "Intelligence belongs only to the Mind"
     },
     {
       "from": "agi-and-asi-are-temporary-goalposts",
