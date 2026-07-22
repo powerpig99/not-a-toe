@@ -152,15 +152,37 @@ function markdownToHtml(markdownBody) {
   const lines = markdownBody.split(/\r?\n/);
   const chunks = [];
 
+  // Each entry: { text, brAfter } — brAfter is CommonMark hard line break (two trailing spaces or \).
   let paragraph = [];
   let listType = null;
   let listItems = [];
   let listStart = null;
   let quoteLines = [];
 
+  function lineHasHardBreak(rawLine) {
+    // Two or more trailing spaces, or a single trailing backslash (GFM-style).
+    return / {2,}$/.test(rawLine) || /\\$/.test(rawLine.trimEnd());
+  }
+
+  function paragraphText(rawLine) {
+    let text = rawLine.trim();
+    if (text.endsWith('\\')) {
+      text = text.slice(0, -1).trimEnd();
+    }
+    return text;
+  }
+
   function flushParagraph() {
     if (!paragraph.length) return;
-    chunks.push(`<p>${formatInline(paragraph.join(' '))}</p>`);
+    // CommonMark hard breaks: two trailing spaces (or a trailing \) before newline → <br>
+    let html = '';
+    for (let i = 0; i < paragraph.length; i += 1) {
+      if (i > 0) {
+        html += paragraph[i - 1].brAfter ? '<br>' : ' ';
+      }
+      html += formatInline(paragraph[i].text);
+    }
+    chunks.push(`<p>${html}</p>`);
     paragraph = [];
   }
 
@@ -212,7 +234,8 @@ function markdownToHtml(markdownBody) {
       continue;
     }
 
-    const quoteMatch = /^>\s?(.*)$/.exec(trimmed);
+    // Keep trailing spaces on quote content so hard breaks survive the recursive render.
+    const quoteMatch = /^>\s?(.*)$/.exec(line.trimStart());
     if (quoteMatch) {
       flushParagraph();
       flushList();
@@ -250,7 +273,10 @@ function markdownToHtml(markdownBody) {
 
     flushList();
     flushQuote();
-    paragraph.push(trimmed);
+    paragraph.push({
+      text: paragraphText(line),
+      brAfter: lineHasHardBreak(line),
+    });
   }
 
   flushAll();

@@ -73,6 +73,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Anaglyph red-cyan stereo graphic** | Cream print stock, dual red/cyan channel offset of one form, graphic ink tangle resolving into a single taut cut | `the-ramble-within-the-ramble` |
 | **Persian miniature illumination** | Aged ivory parchment, lapis–vermillion–malachite jewel planes, burnished gold borders and path, flat pavilion lattice | `escaping-the-sandbox-stays-inside-the-hold` |
 | **Drypoint cartographic plate** | Warm ivory rag paper, sepia iron-gall drypoint, incomplete map with grid continuing past torn edge, field-lines from stylus, plate tone | `the-reality-distortion-field-names-the-closed-map` |
+| **Comic halftone / Ben-Day dots** | Cream newsprint, cyan–magenta–black process dots, slight misregistration, graphic speech-mass vs rain on cracked basin | `reality-is-the-minds-ongoing-realization` |
 
 ## Inventory (by slug)
 
@@ -103,6 +104,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `ownership-and-self-worthiness` | Dark chalk / light trails |
 | `performative-hindsight-that-pretends-to-be-foresight` | Solarized surreal photograph |
 | `production-consumption-and-the-minds-distinction` | Photoreal tableau |
+| `reality-is-the-minds-ongoing-realization` | Comic halftone / Ben-Day dots |
 | `self-rl-for-humans` | Dark chalk / light trails |
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
 | `the-allocation-of-causal-power-in-validation` | Dark chalk / light trails |
@@ -140,7 +142,6 @@ Not exhaustive. Prefer something not in Style families above.
 - Soft clay / stop-motion puppet still
 - Ceramic glaze still life on porcelain
 - Pixel art / limited-palette retro game screen (no UI text)
-- Comic halftone / Ben-Day dots
 ## Workflow for a new cover
 
 1. Open this file; list families already used.

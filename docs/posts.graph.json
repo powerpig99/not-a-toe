@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-22T12:54:56.871Z",
+    "generated_at": "2026-07-22T16:01:48.786Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -76,6 +76,7 @@
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/production-consumption-and-the-minds-distinction.md": "dea77dcf1691",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "50b6d8bc0c01",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "e695779caec2",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -129,23 +130,23 @@
       "content/posts/you-wu-zhi-bian.md": "7362a727e3c4"
     },
     "stats": {
-      "posts": 119,
-      "edges": 322,
-      "unique_directed": 316,
+      "posts": 120,
+      "edges": 330,
+      "unique_directed": 324,
       "missing_targets": 0,
-      "one_way": 246,
+      "one_way": 254,
       "isolated": 40,
-      "posts_with_outbound": 45
+      "posts_with_outbound": 46
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 24
+      "in_degree": 25
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 14
+      "in_degree": 15
     },
     {
       "slug": "self-rl-for-humans",
@@ -160,11 +161,15 @@
       "in_degree": 13
     },
     {
+      "slug": "no-system-can-be-kept-closed",
+      "in_degree": 12
+    },
+    {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "in_degree": 11
     },
     {
-      "slug": "no-system-can-be-kept-closed",
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
       "in_degree": 11
     },
     {
@@ -172,12 +177,8 @@
       "in_degree": 11
     },
     {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 10
-    },
-    {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 9
+      "in_degree": 10
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
@@ -294,11 +295,11 @@
       "out_degree": 8
     },
     {
-      "slug": "the-meaning-of-life-is-in-the-drafting",
+      "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 8
     },
     {
-      "slug": "what-works-is-the-belief",
+      "slug": "the-meaning-of-life-is-in-the-drafting",
       "out_degree": 8
     }
   ],
@@ -936,7 +937,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "028d8e0a29ac",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 1,
       "links_out": [
         "the-model-never-becomes-a-second-edge"
@@ -1025,7 +1026,7 @@
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
       "hash": "f41a28ab1419",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 0,
       "links_out": []
     },
@@ -1094,7 +1095,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
       "hash": "82ad676b4db2",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 9,
       "links_out": [
         "openness-is-consistency",
@@ -1188,7 +1189,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "410dd79e7607",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 8,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1296,6 +1297,26 @@
       "in_degree": 1,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:reality-is-the-minds-ongoing-realization",
+      "kind": "post",
+      "slug": "reality-is-the-minds-ongoing-realization",
+      "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
+      "title": "Reality Is the Mind's Ongoing Realization",
+      "hash": "50b6d8bc0c01",
+      "in_degree": 0,
+      "out_degree": 8,
+      "links_out": [
+        "the-question-that-installs-the-war",
+        "why-explanation-fails",
+        "mei-you-pu-du-zhi-you-zi-du",
+        "intelligence-belongs-only-to-the-mind",
+        "the-scaffolding-we-forget",
+        "openness-is-consistency",
+        "no-system-can-be-kept-closed",
+        "the-meaning-of-life-is-in-the-drafting"
+      ]
     },
     {
       "id": "post:recursive-contradiction-of-entrusted-morality",
@@ -1590,7 +1611,7 @@
       "path": "content/posts/the-meaning-of-life-is-in-the-drafting.md",
       "title": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing",
       "hash": "dd3b0162f298",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1682,7 +1703,7 @@
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "The Question That Installs the War",
       "hash": "1c7a456730b6",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 0,
       "links_out": []
     },
@@ -1749,7 +1770,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "fe8208a7708e",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 7,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1964,7 +1985,7 @@
       "path": "content/posts/why-explanation-fails.md",
       "title": "Why Explanation Fails",
       "hash": "ef3bd5271ef2",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 0,
       "links_out": []
     },
@@ -3121,6 +3142,54 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The question that installs the war"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "why-explanation-fails",
+      "rel": "points_to",
+      "label": "why explanation fails"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "no system can be kept closed"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The meaning of life is in the drafting"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
