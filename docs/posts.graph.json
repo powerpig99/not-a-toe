@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-22T16:01:48.786Z",
+    "generated_at": "2026-07-22T17:13:06.175Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -99,17 +99,17 @@
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
-      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "dd3b0162f298",
+      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "f3ddf4ac7520",
       "content/posts/the-model-never-becomes-a-second-edge.md": "ea1e3f6946fd",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "31a6b3c2981c",
       "content/posts/the-npc-impression-is-structural.md": "5ff4fbd827e2",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "7d9fd4d52830",
-      "content/posts/the-question-that-installs-the-war.md": "1c7a456730b6",
+      "content/posts/the-question-that-installs-the-war.md": "2212901bec84",
       "content/posts/the-ramble-within-the-ramble.md": "4b0befa6bea2",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "1f420cbfbbcb",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "ea13a5b24119",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "3287f06b8fde",
-      "content/posts/the-scaffolding-we-forget.md": "fe8208a7708e",
+      "content/posts/the-scaffolding-we-forget.md": "f2c68601e219",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
@@ -124,19 +124,19 @@
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "e0b2c905e534",
       "content/posts/when-the-effect-authors-the-frame.md": "bb6b148653f5",
-      "content/posts/why-explanation-fails.md": "ef3bd5271ef2",
+      "content/posts/why-explanation-fails.md": "5fe163a22059",
       "content/posts/why-mathematics-can-never-be-solved.md": "c4d4c4c3c4d3",
       "content/posts/you-cant-benchmark-the-fluid.md": "52dd7d058357",
       "content/posts/you-wu-zhi-bian.md": "7362a727e3c4"
     },
     "stats": {
       "posts": 120,
-      "edges": 330,
-      "unique_directed": 324,
+      "edges": 334,
+      "unique_directed": 328,
       "missing_targets": 0,
-      "one_way": 254,
+      "one_way": 250,
       "isolated": 40,
-      "posts_with_outbound": 46
+      "posts_with_outbound": 48
     }
   },
   "hubs_in": [
@@ -279,6 +279,10 @@
       "out_degree": 9
     },
     {
+      "slug": "the-meaning-of-life-is-in-the-drafting",
+      "out_degree": 9
+    },
+    {
       "slug": "the-ramble-within-the-ramble",
       "out_degree": 9
     },
@@ -296,10 +300,6 @@
     },
     {
       "slug": "reality-is-the-minds-ongoing-realization",
-      "out_degree": 8
-    },
-    {
-      "slug": "the-meaning-of-life-is-in-the-drafting",
       "out_degree": 8
     }
   ],
@@ -1305,7 +1305,7 @@
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "Reality Is the Mind's Ongoing Realization",
       "hash": "50b6d8bc0c01",
-      "in_degree": 0,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -1610,9 +1610,9 @@
       "slug": "the-meaning-of-life-is-in-the-drafting",
       "path": "content/posts/the-meaning-of-life-is-in-the-drafting.md",
       "title": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing",
-      "hash": "dd3b0162f298",
+      "hash": "f3ddf4ac7520",
       "in_degree": 5,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "what-cannot-be-kept",
@@ -1621,6 +1621,7 @@
         "meaning-of-life-refined",
         "mei-you-pu-du-zhi-you-zi-du",
         "overfitting-as-the-follower-mode",
+        "reality-is-the-minds-ongoing-realization",
         "clarity-isnt-a-state-you-arrive-at"
       ]
     },
@@ -1702,10 +1703,12 @@
       "slug": "the-question-that-installs-the-war",
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "The Question That Installs the War",
-      "hash": "1c7a456730b6",
+      "hash": "2212901bec84",
       "in_degree": 3,
-      "out_degree": 0,
-      "links_out": []
+      "out_degree": 1,
+      "links_out": [
+        "reality-is-the-minds-ongoing-realization"
+      ]
     },
     {
       "id": "post:the-ramble-within-the-ramble",
@@ -1769,9 +1772,9 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
-      "hash": "fe8208a7708e",
+      "hash": "f2c68601e219",
       "in_degree": 10,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-path-drawn-one-step-at-a-time",
@@ -1779,7 +1782,8 @@
         "production-consumption-and-the-minds-distinction",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "clarity-isnt-a-state-you-arrive-at",
-        "self-rl-for-humans"
+        "self-rl-for-humans",
+        "reality-is-the-minds-ongoing-realization"
       ]
     },
     {
@@ -1984,10 +1988,12 @@
       "slug": "why-explanation-fails",
       "path": "content/posts/why-explanation-fails.md",
       "title": "Why Explanation Fails",
-      "hash": "ef3bd5271ef2",
+      "hash": "5fe163a22059",
       "in_degree": 2,
-      "out_degree": 0,
-      "links_out": []
+      "out_degree": 1,
+      "links_out": [
+        "reality-is-the-minds-ongoing-realization"
+      ]
     },
     {
       "id": "post:why-mathematics-can-never-be-solved",
@@ -3283,6 +3289,12 @@
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind's ongoing realization"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn't a state you arrive at"
@@ -3436,6 +3448,12 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind's ongoing realization"
     },
     {
       "from": "the-ramble-within-the-ramble",
@@ -3622,6 +3640,12 @@
       "to": "self-rl-for-humans",
       "rel": "points_to",
       "label": "Self-RL for humans"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind's ongoing realization"
     },
     {
       "from": "the-surface-beneath",
@@ -3940,6 +3964,12 @@
       "to": "the-compassion-is-the-mechanism-of-obscuration",
       "rel": "points_to",
       "label": "The compassion is the mechanism of obscuration"
+    },
+    {
+      "from": "why-explanation-fails",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind's ongoing realization"
     },
     {
       "from": "why-mathematics-can-never-be-solved",

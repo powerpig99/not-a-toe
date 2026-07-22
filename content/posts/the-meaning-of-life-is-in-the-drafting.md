@@ -32,7 +32,7 @@ What freezes is the reference. Finished forms are held past their step and used 
 
 ## Coming home to the page
 
-To live as a cause is not to reject the world or withdraw into isolation. It is the quieter discipline of returning attention to the live draft while the ink is still wet. It means noticing when the gaze has lingered too long on consequences and bringing it back to the actual movements of one's own life — the small decisions, the quality of presence, the direction one is leaning *before* the consequence appears.
+To live as a cause is not to reject the world or withdraw into isolation. It is the quieter discipline of returning attention to the live draft while the ink is still wet. It means noticing when the gaze has lingered too long on consequences and bringing it back to the actual movements of one's own life — the small decisions, the quality of presence, the direction one is leaning *before* the consequence appears. [Reality is the Mind's ongoing realization](../reality-is-the-minds-ongoing-realization/) is the same return under the face of exchange: attention scored for glance freezes the draft; attention that takes up what was not yet held reopens it.
 
 Return is not arrival at a cleared state. Each return re-opens the draft for one more sentence. The practice compounds: what once occupied the whole of attention as "what others made of me" occupies less of the field; boundary is freed for the next distinction. Looking outward remains available. It stops being the only room in the house. [Clarity isn't a state you arrive at](../clarity-isnt-a-state-you-arrive-at/) is that practice named as movement: each step illuminates and casts shadow by the same act; non-closure is not a destination.
 

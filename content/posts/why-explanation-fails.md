@@ -14,7 +14,7 @@ When you hold views provisionally and care about mechanism rather than being rig
 
 He came to the conversation with something that looked like curiosity. But curiosity is a posture, not a deficit. If he were actually curious, the conversation would have felt completely different — we'd both have been tracing something together. What he had was reassurance-seeking dressed as inquiry. He wanted to stress-test his existing frame, not risk it. Every question was a probe for confirmation, and every answer that didn't confirm was reclassified as error.
 
-This is a common collapse: mistaking the desire for validation for the desire for understanding. They feel identical from the inside. The difference only shows up in how you respond when the answer isn't what you expected.
+This is a common collapse: mistaking the desire for validation for the desire for understanding. They feel identical from the inside. The difference only shows up in how you respond when the answer isn't what you expected. [Reality is the Mind's ongoing realization](../reality-is-the-minds-ongoing-realization/) is the same cut as exchange: attention that harvests confirmation freezes the map; update is taking up what this locus did not yet contain.
 
 ## The Container Problem
 

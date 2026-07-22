@@ -17,7 +17,7 @@ Output rules (strict):
 7. Avoid non-sentence blocks before first `##`/`###` (no lists, no blockquotes, no horizontal rules, no code fences).
 8. Main body starts at first `##` heading.
 9. Every `##` / `###` names the cut of that section (a specific claim or distinction). Do not use generic slots: What Remains, Conclusion, Summary, Key Takeaways, In Closing, Final Thoughts, The Point, Recap.
-10. Use only simple markdown: headings, paragraphs, links `[text](url)`, emphasis `*`/`**`, quotes `>`, lists (`-` and `1.`), horizontal rule (`---`) only in body.
+10. Use only simple markdown: headings, paragraphs, links `[text](url)`, emphasis `*`/`**`, quotes `>`, lists (`-` and `1.`), horizontal rule (`---`) only in body. Hard line breaks (two trailing spaces) are allowed in the body for verse; keep the open pure prose.
 11. Keep quotes properly closed; punctuation inside quotes is allowed.
 12. No frontmatter (`---` metadata), no HTML.
 13. End with a newline.

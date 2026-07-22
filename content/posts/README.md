@@ -51,7 +51,7 @@ Lead: 2–4 complete sentences summarizing the argument.
 | Lead | Following sentences before first `##`; pure prose — no lists, quotes blocks, or HRs in the open |
 | Body | Starts at first `##` / `###` |
 | Section headings | Name the cut of that section — a specific claim or distinction. Not a generic slot |
-| Allowed | Headings, paragraphs, `[text](url)`, `*`/`**`, `>`, lists, `---` in body only |
+| Allowed | Headings, paragraphs, `[text](url)`, `*`/`**`, `>`, lists, `---` in body only; hard line breaks (two trailing spaces) for verse in body |
 | Forbidden | YAML frontmatter, HTML, non-prose blocks before first section heading |
 | End | Trailing newline |
 
