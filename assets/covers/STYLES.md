@@ -69,6 +69,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Pinhole / camera obscura photograph** | Soft circular vignette, optical blur, dust motes in raking beam, cream–warm gray, chemical grain; empty-calendar ghost as residue | `closed-reality-in-the-pursuit-of-serendipity` |
 | **Cloisonné / enamel medallion** | Antique gold wire cells, multi-scale jewel enamel facets, museum light on glaze and patina; lossy partition of a continuous field | `lossless-knowledge-of-an-open-field-is-incoherent` |
 | **Gouache narrative still life** | Matte opaque gouache, cream–charcoal desk scene, clear objects, soft window light; real hand + residue medium + mirror lag | `the-model-never-becomes-a-second-edge` |
+| **Dutch Golden Age vanitas still** | Warm umber parchment desk, brass instruments, candle raking light, folio whose diagrams continue past the paper edge into air | `why-mathematics-can-never-be-solved` |
 
 ## Inventory (by slug)
 
@@ -118,6 +119,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `what-works-is-the-belief` | Mingei / katazome stencil |
 | `when-need-stops-being-the-measure` | Embroidery / needlework on linen |
 | `when-the-effect-authors-the-frame` | Suminagashi / floating-ink marbling |
+| `why-mathematics-can-never-be-solved` | Dutch Golden Age vanitas still |
 | `you-wu-zhi-bian` | Minimal horizon band |
 
 ## Crowded — prefer not to extend
