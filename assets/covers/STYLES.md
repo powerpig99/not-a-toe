@@ -70,6 +70,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cloisonné / enamel medallion** | Antique gold wire cells, multi-scale jewel enamel facets, museum light on glaze and patina; lossy partition of a continuous field | `lossless-knowledge-of-an-open-field-is-incoherent` |
 | **Gouache narrative still life** | Matte opaque gouache, cream–charcoal desk scene, clear objects, soft window light; real hand + residue medium + mirror lag | `the-model-never-becomes-a-second-edge` |
 | **Dutch Golden Age vanitas still** | Warm umber parchment desk, brass instruments, candle raking light, folio whose diagrams continue past the paper edge into air | `why-mathematics-can-never-be-solved` |
+| **Anaglyph red-cyan stereo graphic** | Cream print stock, dual red/cyan channel offset of one form, graphic ink tangle resolving into a single taut cut | `the-ramble-within-the-ramble` |
 
 ## Inventory (by slug)
 
@@ -111,6 +112,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-npc-impression-is-structural` | Sgraffito plaster / scraped fresco |
 | `the-path-drawn-one-step-at-a-time` | Cinematic dual-path |
 | `the-question-that-installs-the-war` | Surreal desert allegory |
+| `the-ramble-within-the-ramble` | Anaglyph red-cyan stereo graphic |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
@@ -133,7 +135,6 @@ Not exhaustive. Prefer something not in Style families above.
 
 - Soft clay / stop-motion puppet still
 - Ceramic glaze still life on porcelain
-- Anaglyph red-cyan stereo graphic
 - Pixel art / limited-palette retro game screen (no UI text)
 - Comic halftone / Ben-Day dots
 ## Workflow for a new cover
