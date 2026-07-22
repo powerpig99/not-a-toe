@@ -71,6 +71,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Gouache narrative still life** | Matte opaque gouache, cream–charcoal desk scene, clear objects, soft window light; real hand + residue medium + mirror lag | `the-model-never-becomes-a-second-edge` |
 | **Dutch Golden Age vanitas still** | Warm umber parchment desk, brass instruments, candle raking light, folio whose diagrams continue past the paper edge into air | `why-mathematics-can-never-be-solved` |
 | **Anaglyph red-cyan stereo graphic** | Cream print stock, dual red/cyan channel offset of one form, graphic ink tangle resolving into a single taut cut | `the-ramble-within-the-ramble` |
+| **Persian miniature illumination** | Aged ivory parchment, lapis–vermillion–malachite jewel planes, burnished gold borders and path, flat pavilion lattice | `escaping-the-sandbox-stays-inside-the-hold` |
 
 ## Inventory (by slug)
 
@@ -87,6 +88,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `closed-reality-in-the-pursuit-of-serendipity` | Pinhole / camera obscura photograph |
 | `complexity-obscures-emergence-as-the-act-of-mind` | Copperplate engraving |
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
+| `escaping-the-sandbox-stays-inside-the-hold` | Persian miniature illumination |
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
 | `humans-tokens-and-the-scope-of-valuation` | Oil split composition |

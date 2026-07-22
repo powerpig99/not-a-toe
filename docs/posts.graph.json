@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-22T05:37:48.427Z",
+    "generated_at": "2026-07-22T10:10:41.778Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -35,6 +35,7 @@
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "83a26c8a6261",
       "content/posts/empathy-as-projection-collapse.md": "1a2d5bf13c31",
+      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "5f5ce1fa878e",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
       "content/posts/evil-as-the-minds-own-creation.md": "661267aa302d",
@@ -127,19 +128,19 @@
       "content/posts/you-wu-zhi-bian.md": "7362a727e3c4"
     },
     "stats": {
-      "posts": 117,
-      "edges": 292,
-      "unique_directed": 286,
+      "posts": 118,
+      "edges": 300,
+      "unique_directed": 294,
       "missing_targets": 0,
-      "one_way": 236,
+      "one_way": 244,
       "isolated": 41,
-      "posts_with_outbound": 42
+      "posts_with_outbound": 43
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 23
+      "in_degree": 24
     },
     {
       "slug": "self-rl-for-humans",
@@ -166,12 +167,16 @@
       "in_degree": 10
     },
     {
+      "slug": "no-system-can-be-kept-closed",
+      "in_degree": 10
+    },
+    {
       "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 10
     },
     {
-      "slug": "no-system-can-be-kept-closed",
-      "in_degree": 9
+      "slug": "the-model-never-becomes-a-second-edge",
+      "in_degree": 8
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -182,11 +187,11 @@
       "in_degree": 8
     },
     {
-      "slug": "ownership-and-self-worthiness",
+      "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 7
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 7
     },
     {
@@ -194,7 +199,7 @@
       "in_degree": 7
     },
     {
-      "slug": "causality-stays-at-the-edge-that-steers",
+      "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 6
     },
     {
@@ -206,15 +211,11 @@
       "in_degree": 6
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
+      "slug": "agi-and-asi-are-temporary-goalposts",
       "in_degree": 5
     },
     {
       "slug": "looping-and-graphing",
-      "in_degree": 5
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 5
     }
   ],
@@ -276,6 +277,10 @@
       "out_degree": 8
     },
     {
+      "slug": "escaping-the-sandbox-stays-inside-the-hold",
+      "out_degree": 8
+    },
+    {
       "slug": "no-system-can-be-kept-closed",
       "out_degree": 8
     },
@@ -293,10 +298,6 @@
     },
     {
       "slug": "looping-and-graphing",
-      "out_degree": 7
-    },
-    {
-      "slug": "the-non-definitive-definition-of-intelligence",
       "out_degree": 7
     }
   ],
@@ -352,7 +353,7 @@
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
       "hash": "1a56045b2ad4",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 11,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -414,7 +415,7 @@
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
       "hash": "4b81e8bc703e",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -517,7 +518,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
       "hash": "6919c6254edb",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 10,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -583,7 +584,7 @@
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
       "hash": "cf670ea6ceef",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 9,
       "links_out": [
         "you-cant-benchmark-the-fluid",
@@ -724,6 +725,26 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:escaping-the-sandbox-stays-inside-the-hold",
+      "kind": "post",
+      "slug": "escaping-the-sandbox-stays-inside-the-hold",
+      "path": "content/posts/escaping-the-sandbox-stays-inside-the-hold.md",
+      "title": "Escaping the Sandbox Stays Inside the Hold",
+      "hash": "5f5ce1fa878e",
+      "in_degree": 0,
+      "out_degree": 8,
+      "links_out": [
+        "closed-reality-in-benchmark-maxing",
+        "agi-and-asi-are-temporary-goalposts",
+        "the-model-never-becomes-a-second-edge",
+        "intelligence-belongs-only-to-the-mind",
+        "no-system-can-be-kept-closed",
+        "a-creation-cannot-replace-its-source",
+        "causality-stays-at-the-edge-that-steers",
+        "you-cant-benchmark-the-fluid"
+      ]
     },
     {
       "id": "post:everything-is-changing-as-always",
@@ -910,7 +931,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "028d8e0a29ac",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 1,
       "links_out": [
         "the-model-never-becomes-a-second-edge"
@@ -1068,7 +1089,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
       "hash": "56aaf0a73f99",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -1582,7 +1603,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "744b2c32e9fd",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1945,7 +1966,7 @@
       "path": "content/posts/you-cant-benchmark-the-fluid.md",
       "title": "You Can't Benchmark the Fluid",
       "hash": "148c238e9751",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 0,
       "links_out": []
     },
@@ -2399,6 +2420,54 @@
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
       "label": "When the effect authors the frame"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed reality in benchmark maxing"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A creation cannot replace its source"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "You can’t benchmark the fluid"
     },
     {
       "from": "evil-as-the-minds-own-creation",
