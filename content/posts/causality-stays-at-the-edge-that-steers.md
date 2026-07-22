@@ -38,7 +38,7 @@ Language that speaks of “human + AI collaboration,” of tools that “enable�
 
 Dissolution does not require rejecting the tool. The tool stays usable. What is released is only the frozen claim that recombination under direction is a second source of distinguishing. The exploration, the construction and refinement of the instrument, its application, and the evaluation of results are continuous acts of the same activity, now operating through an externalized substrate. No second center appears. [The model never becomes a second edge](../the-model-never-becomes-a-second-edge/) is the same restore when capacity is no longer spent maintaining the co-agent image.
 
-[Complexity obscures emergence](../complexity-obscures-emergence-as-the-act-of-mind/) when denser scaffolding is taken for the activity that erected it. Collaboration language is that take-for applied to dialogue with a model: the denser search trail is held as co-authorship of discovery.
+[Complexity obscures emergence](../complexity-obscures-emergence-as-the-act-of-mind/) when denser scaffolding is taken for the activity that erected it. Collaboration language is that take-for applied to dialogue with a model: the denser search trail is held as co-authorship of discovery. [The ramble within the ramble](../the-ramble-within-the-ramble/) is the same lag when a cleaned echo of a voice outpouring registers as the model having figured it out.
 
 ## The concrete case
 

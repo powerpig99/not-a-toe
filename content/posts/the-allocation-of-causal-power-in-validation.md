@@ -36,4 +36,4 @@ The location of causal power decides the function of validation.
 
 When continuation is drawn from Mind’s own following, validation expands capacity for felt coherence from within distinguishing activity. External response, kept secondary, sharpens without displacing locus.
 
-When continuation is drawn from external supply, validation binds that capacity to responses that never complete this center’s return. The activity still occurs; the edge still distinguishes. What has shifted is only where Mind places the cause of its next step — and whether that placement is remembered as its own.
+When continuation is drawn from external supply, validation binds that capacity to responses that never complete this center’s return. The activity still occurs; the edge still distinguishes. What has shifted is only where Mind places the cause of its next step — and whether that placement is remembered as its own. [The ramble within the ramble](../the-ramble-within-the-ramble/) is the same placement when a cleaned echo or engagement metric is treated as supply of the organizing act.
