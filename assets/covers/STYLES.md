@@ -72,6 +72,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Dutch Golden Age vanitas still** | Warm umber parchment desk, brass instruments, candle raking light, folio whose diagrams continue past the paper edge into air | `why-mathematics-can-never-be-solved` |
 | **Anaglyph red-cyan stereo graphic** | Cream print stock, dual red/cyan channel offset of one form, graphic ink tangle resolving into a single taut cut | `the-ramble-within-the-ramble` |
 | **Persian miniature illumination** | Aged ivory parchment, lapis–vermillion–malachite jewel planes, burnished gold borders and path, flat pavilion lattice | `escaping-the-sandbox-stays-inside-the-hold` |
+| **Drypoint cartographic plate** | Warm ivory rag paper, sepia iron-gall drypoint, incomplete map with grid continuing past torn edge, field-lines from stylus, plate tone | `the-reality-distortion-field-names-the-closed-map` |
 
 ## Inventory (by slug)
 
@@ -114,6 +115,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-npc-impression-is-structural` | Sgraffito plaster / scraped fresco |
 | `the-path-drawn-one-step-at-a-time` | Cinematic dual-path |
 | `the-question-that-installs-the-war` | Surreal desert allegory |
+| `the-reality-distortion-field-names-the-closed-map` | Drypoint cartographic plate |
 | `the-ramble-within-the-ramble` | Anaglyph red-cyan stereo graphic |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
