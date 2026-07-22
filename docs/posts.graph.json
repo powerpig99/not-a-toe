@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-22T11:05:51.686Z",
+    "generated_at": "2026-07-22T12:54:56.871Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -18,14 +18,14 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/causality-all-the-way.md": "129ce3703737",
+      "content/posts/causality-all-the-way.md": "879677eb3a42",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "6919c6254edb",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "30fd9b2890a4",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "6cfc48b541ab",
-      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "590c1b1b3db9",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "b5d3a28726ab",
+      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "a2d52b7a3da9",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "51aa856c215d",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
@@ -72,7 +72,7 @@
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "ad6d510eef32",
       "content/posts/perception-perspective-refined.md": "726559169efb",
-      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "88ee90a17cc7",
+      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "30d0dff879ba",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/production-consumption-and-the-minds-distinction.md": "dea77dcf1691",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
@@ -105,6 +105,7 @@
       "content/posts/the-path-drawn-one-step-at-a-time.md": "7d9fd4d52830",
       "content/posts/the-question-that-installs-the-war.md": "1c7a456730b6",
       "content/posts/the-ramble-within-the-ramble.md": "4b0befa6bea2",
+      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "1f420cbfbbcb",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "ea13a5b24119",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "3287f06b8fde",
       "content/posts/the-scaffolding-we-forget.md": "fe8208a7708e",
@@ -118,7 +119,7 @@
       "content/posts/two-failures-of-trace.md": "fc0851d22465",
       "content/posts/what-always-listens-cannot-originate.md": "15c7acd1b801",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
-      "content/posts/what-works-is-the-belief.md": "45b32d397b1d",
+      "content/posts/what-works-is-the-belief.md": "0d108876c73b",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "e0b2c905e534",
       "content/posts/when-the-effect-authors-the-frame.md": "bb6b148653f5",
@@ -128,19 +129,23 @@
       "content/posts/you-wu-zhi-bian.md": "7362a727e3c4"
     },
     "stats": {
-      "posts": 118,
-      "edges": 305,
-      "unique_directed": 299,
+      "posts": 119,
+      "edges": 322,
+      "unique_directed": 316,
       "missing_targets": 0,
-      "one_way": 239,
-      "isolated": 41,
-      "posts_with_outbound": 44
+      "one_way": 246,
+      "isolated": 40,
+      "posts_with_outbound": 45
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
       "in_degree": 24
+    },
+    {
+      "slug": "openness-is-consistency",
+      "in_degree": 14
     },
     {
       "slug": "self-rl-for-humans",
@@ -151,15 +156,19 @@
       "in_degree": 13
     },
     {
-      "slug": "openness-is-consistency",
+      "slug": "the-path-drawn-one-step-at-a-time",
       "in_degree": 13
     },
     {
-      "slug": "the-path-drawn-one-step-at-a-time",
-      "in_degree": 12
+      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
+      "in_degree": 11
     },
     {
-      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
+      "slug": "no-system-can-be-kept-closed",
+      "in_degree": 11
+    },
+    {
+      "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 11
     },
     {
@@ -167,19 +176,15 @@
       "in_degree": 10
     },
     {
-      "slug": "no-system-can-be-kept-closed",
-      "in_degree": 10
+      "slug": "the-scaffolding-we-forget",
+      "in_degree": 9
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 10
-    },
-    {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 8
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 8
     },
     {
@@ -187,7 +192,7 @@
       "in_degree": 8
     },
     {
-      "slug": "causality-stays-at-the-edge-that-steers",
+      "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 7
     },
     {
@@ -197,10 +202,6 @@
     {
       "slug": "two-failures-of-trace",
       "in_degree": 7
-    },
-    {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 6
     },
     {
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -233,6 +234,10 @@
       "out_degree": 12
     },
     {
+      "slug": "the-reality-distortion-field-names-the-closed-map",
+      "out_degree": 12
+    },
+    {
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
       "out_degree": 12
     },
@@ -249,6 +254,10 @@
       "out_degree": 11
     },
     {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "out_degree": 11
+    },
+    {
       "slug": "better-than-free-after-the-checklist-closes",
       "out_degree": 10
     },
@@ -257,12 +266,12 @@
       "out_degree": 10
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
+      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 10
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "out_degree": 10
+      "slug": "closed-reality-in-the-pursuit-of-serendipity",
+      "out_degree": 9
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -277,10 +286,6 @@
       "out_degree": 9
     },
     {
-      "slug": "closed-reality-in-the-pursuit-of-serendipity",
-      "out_degree": 8
-    },
-    {
       "slug": "escaping-the-sandbox-stays-inside-the-hold",
       "out_degree": 8
     },
@@ -293,12 +298,8 @@
       "out_degree": 8
     },
     {
-      "slug": "evil-as-the-minds-own-creation",
-      "out_degree": 7
-    },
-    {
-      "slug": "looping-and-graphing",
-      "out_degree": 7
+      "slug": "what-works-is-the-belief",
+      "out_degree": 8
     }
   ],
   "missing": [],
@@ -327,7 +328,6 @@
     "nobody-has-seen-anything-yet",
     "on-education",
     "platform-decision-capture",
-    "reality-doesnt-invoice-by-committee",
     "scaffolds-or-specialized-contexts",
     "school_essay_final",
     "sensing-before-interpretation",
@@ -500,15 +500,16 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "129ce3703737",
-      "in_degree": 0,
-      "out_degree": 6,
+      "hash": "879677eb3a42",
+      "in_degree": 1,
+      "out_degree": 7,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "performative-hindsight-that-pretends-to-be-foresight",
         "causality-stays-at-the-edge-that-steers",
         "the-allocation-of-causal-power-in-validation",
         "what-works-is-the-belief",
+        "the-reality-distortion-field-names-the-closed-map",
         "complexity-obscures-emergence-as-the-act-of-mind"
       ]
     },
@@ -519,7 +520,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
       "hash": "6919c6254edb",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 10,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -584,9 +585,9 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
-      "hash": "6cfc48b541ab",
-      "in_degree": 6,
-      "out_degree": 10,
+      "hash": "b5d3a28726ab",
+      "in_degree": 7,
+      "out_degree": 11,
       "links_out": [
         "you-cant-benchmark-the-fluid",
         "agi-and-asi-are-temporary-goalposts",
@@ -597,6 +598,7 @@
         "the-frame-that-conceals-improvement",
         "openness-is-consistency",
         "closed-reality-in-the-pursuit-of-serendipity",
+        "the-reality-distortion-field-names-the-closed-map",
         "escaping-the-sandbox-stays-inside-the-hold"
       ]
     },
@@ -606,9 +608,9 @@
       "slug": "closed-reality-in-the-pursuit-of-serendipity",
       "path": "content/posts/closed-reality-in-the-pursuit-of-serendipity.md",
       "title": "Closed Reality in the Pursuit of Serendipity",
-      "hash": "590c1b1b3db9",
-      "in_degree": 1,
-      "out_degree": 8,
+      "hash": "a2d52b7a3da9",
+      "in_degree": 2,
+      "out_degree": 9,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "openness-is-consistency",
@@ -617,6 +619,7 @@
         "production-consumption-and-the-minds-distinction",
         "the-scaffolding-we-forget",
         "a-new-deeper-look-at-antifragility",
+        "the-reality-distortion-field-names-the-closed-map",
         "clarity-isnt-a-state-you-arrive-at"
       ]
     },
@@ -1091,7 +1094,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
       "hash": "82ad676b4db2",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 9,
       "links_out": [
         "openness-is-consistency",
@@ -1185,7 +1188,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "410dd79e7607",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 8,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1237,16 +1240,17 @@
       "slug": "performative-hindsight-that-pretends-to-be-foresight",
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "Performative Hindsight That Pretends to Be Foresight",
-      "hash": "88ee90a17cc7",
-      "in_degree": 1,
-      "out_degree": 6,
+      "hash": "30d0dff879ba",
+      "in_degree": 2,
+      "out_degree": 7,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "mei-you-pu-du-zhi-you-zi-du",
         "the-frame-that-conceals-improvement",
         "the-allocation-of-causal-power-in-validation",
         "the-meaning-of-life-is-in-the-drafting",
-        "two-failures-of-trace"
+        "two-failures-of-trace",
+        "the-reality-distortion-field-names-the-closed-map"
       ]
     },
     {
@@ -1289,7 +1293,7 @@
       "path": "content/posts/reality-doesnt-invoice-by-committee.md",
       "title": "Reality Doesn't Invoice by Committee",
       "hash": "8d63e4eff365",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 0,
       "links_out": []
     },
@@ -1426,7 +1430,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
       "hash": "b15ca5b77d8a",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 1,
       "links_out": [
         "the-ramble-within-the-ramble"
@@ -1667,7 +1671,7 @@
       "path": "content/posts/the-path-drawn-one-step-at-a-time.md",
       "title": "The Path Drawn One Step at a Time",
       "hash": "7d9fd4d52830",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 0,
       "links_out": []
     },
@@ -1704,6 +1708,30 @@
       ]
     },
     {
+      "id": "post:the-reality-distortion-field-names-the-closed-map",
+      "kind": "post",
+      "slug": "the-reality-distortion-field-names-the-closed-map",
+      "path": "content/posts/the-reality-distortion-field-names-the-closed-map.md",
+      "title": "The Reality Distortion Field Names the Closed Map",
+      "hash": "1f420cbfbbcb",
+      "in_degree": 5,
+      "out_degree": 12,
+      "links_out": [
+        "the-path-drawn-one-step-at-a-time",
+        "no-system-can-be-kept-closed",
+        "closed-reality-in-benchmark-maxing",
+        "closed-reality-in-the-pursuit-of-serendipity",
+        "causality-all-the-way",
+        "performative-hindsight-that-pretends-to-be-foresight",
+        "the-allocation-of-causal-power-in-validation",
+        "openness-is-consistency",
+        "the-scaffolding-we-forget",
+        "reality-doesnt-invoice-by-committee",
+        "what-works-is-the-belief",
+        "causality-stays-at-the-edge-that-steers"
+      ]
+    },
+    {
       "id": "post:the-risk-you-delegate-is-the-risk-you-create",
       "kind": "post",
       "slug": "the-risk-you-delegate-is-the-risk-you-create",
@@ -1721,7 +1749,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "fe8208a7708e",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 7,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1870,9 +1898,9 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "What Works Is the Belief",
-      "hash": "45b32d397b1d",
-      "in_degree": 1,
-      "out_degree": 7,
+      "hash": "0d108876c73b",
+      "in_degree": 2,
+      "out_degree": 8,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
         "no-system-can-be-kept-closed",
@@ -1880,7 +1908,8 @@
         "the-risk-you-delegate-is-the-risk-you-create",
         "name-negation-tendency",
         "what-cannot-be-kept",
-        "clarity-isnt-a-state-you-arrive-at"
+        "clarity-isnt-a-state-you-arrive-at",
+        "the-reality-distortion-field-names-the-closed-map"
       ]
     },
     {
@@ -2225,6 +2254,12 @@
     },
     {
       "from": "causality-all-the-way",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The reality distortion field names the closed map"
+    },
+    {
+      "from": "causality-all-the-way",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity obscures: emergence as the act of Mind"
@@ -2345,6 +2380,12 @@
     },
     {
       "from": "closed-reality-in-benchmark-maxing",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The reality distortion field names the closed map"
+    },
+    {
+      "from": "closed-reality-in-benchmark-maxing",
       "to": "escaping-the-sandbox-stays-inside-the-hold",
       "rel": "points_to",
       "label": "Escaping the sandbox stays inside the hold"
@@ -2390,6 +2431,12 @@
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
       "label": "Antifragility as prosthesis, not driver"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The reality distortion field names the closed map"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
@@ -3010,6 +3057,12 @@
       "label": "Artifacts are expressions of intelligence, not intelligence itself"
     },
     {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The reality distortion field names the closed map"
+    },
+    {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "openness-is-consistency",
       "rel": "points_to",
@@ -3370,6 +3423,78 @@
       "label": "Why mathematics can never be solved"
     },
     {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The path drawn one step at a time"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed reality in benchmark maxing"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
+      "label": "Closed reality in the pursuit of serendipity"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative hindsight that pretends to be foresight"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "reality-doesnt-invoice-by-committee",
+      "rel": "points_to",
+      "label": "Reality doesn’t invoice by committee"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What works is the belief"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
       "from": "the-scaffolding-we-forget-local-models-as-default",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
@@ -3680,6 +3805,12 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The reality distortion field names the closed map"
     },
     {
       "from": "when-need-stops-being-the-measure",
