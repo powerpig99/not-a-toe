@@ -50,4 +50,4 @@ The original shape of the account stays intact. Observations still hold effects.
 
 Success is continuation at the edge while the next act draws its own authorization. Mistake is a further mark already shaping what follows. Failure is a particular chain ending. Learning is the re-tracing. Abstraction is the pattern drawn across effects — useful as instrument, live while redrawn with the step.
 
-Full causality remains with the activity — all the way. Observation holds effect. Conjecture is further distinguishing. The map is instrument. The score is noticing. The next distinction is drawn in the act that draws it.
+Full causality remains with the activity — all the way. Observation holds effect. Conjecture is further distinguishing. The map is instrument. The score is noticing. The next distinction is drawn in the act that draws it. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) is the same restore when the map is generational, systemic, or conditional: each discrete act remains its own lever; aggregates stay residue.

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-23T07:17:29.257Z",
+    "generated_at": "2026-07-23T07:32:47.330Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -18,7 +18,7 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/causality-all-the-way.md": "879677eb3a42",
+      "content/posts/causality-all-the-way.md": "b500f34f82e7",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "6919c6254edb",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "30fd9b2890a4",
@@ -71,11 +71,11 @@
       "content/posts/on-education.md": "d62f17d7f550",
       "content/posts/openness-is-consistency.md": "410dd79e7607",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "ad6d510eef32",
+      "content/posts/ownership-and-self-worthiness.md": "27e754156200",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "30d0dff879ba",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "dea77dcf1691",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "1e8941668d9e",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "50b6d8bc0c01",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "e695779caec2",
@@ -120,7 +120,7 @@
       "content/posts/therapy-opens-the-feedback-loop.md": "2a57cc4c2249",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "036c2f91a81c",
       "content/posts/two-failures-of-trace.md": "fc0851d22465",
-      "content/posts/what-always-listens-cannot-originate.md": "15c7acd1b801",
+      "content/posts/what-always-listens-cannot-originate.md": "fd5ad97dafc5",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "0d108876c73b",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
@@ -133,12 +133,12 @@
     },
     "stats": {
       "posts": 122,
-      "edges": 353,
-      "unique_directed": 347,
+      "edges": 357,
+      "unique_directed": 351,
       "missing_targets": 0,
-      "one_way": 261,
+      "one_way": 257,
       "isolated": 40,
-      "posts_with_outbound": 50
+      "posts_with_outbound": 51
     }
   },
   "hubs_in": [
@@ -233,6 +233,10 @@
       "out_degree": 13
     },
     {
+      "slug": "what-always-listens-cannot-originate",
+      "out_degree": 13
+    },
+    {
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "out_degree": 12
     },
@@ -242,10 +246,6 @@
     },
     {
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
-      "out_degree": 12
-    },
-    {
-      "slug": "what-always-listens-cannot-originate",
       "out_degree": 12
     },
     {
@@ -261,15 +261,15 @@
       "out_degree": 11
     },
     {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "out_degree": 11
+    },
+    {
       "slug": "better-than-free-after-the-checklist-closes",
       "out_degree": 10
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
-      "out_degree": 10
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 10
     },
     {
@@ -297,11 +297,11 @@
       "out_degree": 9
     },
     {
-      "slug": "escaping-the-sandbox-stays-inside-the-hold",
+      "slug": "causality-all-the-way",
       "out_degree": 8
     },
     {
-      "slug": "openness-is-consistency",
+      "slug": "escaping-the-sandbox-stays-inside-the-hold",
       "out_degree": 8
     }
   ],
@@ -503,9 +503,9 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "879677eb3a42",
+      "hash": "b500f34f82e7",
       "in_degree": 2,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -513,7 +513,8 @@
         "the-allocation-of-causal-power-in-validation",
         "what-works-is-the-belief",
         "the-reality-distortion-field-names-the-closed-map",
-        "complexity-obscures-emergence-as-the-act-of-mind"
+        "complexity-obscures-emergence-as-the-act-of-mind",
+        "individual-choices-as-the-only-causal-levers"
       ]
     },
     {
@@ -941,7 +942,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "5e06f3f0ae5c",
-      "in_degree": 0,
+      "in_degree": 4,
       "out_degree": 9,
       "links_out": [
         "causality-all-the-way",
@@ -1244,10 +1245,12 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "ad6d510eef32",
+      "hash": "27e754156200",
       "in_degree": 8,
-      "out_degree": 0,
-      "links_out": []
+      "out_degree": 1,
+      "links_out": [
+        "individual-choices-as-the-only-causal-levers"
+      ]
     },
     {
       "id": "post:perception-perspective-refined",
@@ -1296,9 +1299,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "dea77dcf1691",
+      "hash": "1e8941668d9e",
       "in_degree": 6,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1308,6 +1311,7 @@
         "efficiency-without-differentiation",
         "the-allocation-of-causal-power-in-validation",
         "fate-loves-irony-refined",
+        "individual-choices-as-the-only-causal-levers",
         "self-rl-for-humans",
         "clarity-isnt-a-state-you-arrive-at"
       ]
@@ -1931,9 +1935,9 @@
       "slug": "what-always-listens-cannot-originate",
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "What Always Listens Cannot Originate",
-      "hash": "15c7acd1b801",
+      "hash": "fd5ad97dafc5",
       "in_degree": 9,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-allocation-of-causal-power-in-validation",
@@ -1941,6 +1945,7 @@
         "self-rl-for-humans",
         "conscience-power-delegation",
         "sovereignty-belief-and-regulatory-structures",
+        "individual-choices-as-the-only-causal-levers",
         "recursive-contradiction-of-entrusted-morality",
         "the-risk-you-delegate-is-the-risk-you-create",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -2335,6 +2340,12 @@
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity obscures: emergence as the act of Mind"
+    },
+    {
+      "from": "causality-all-the-way",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -3159,6 +3170,12 @@
       "label": "Why mathematics can never be solved"
     },
     {
+      "from": "ownership-and-self-worthiness",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -3247,6 +3264,12 @@
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
       "label": "Fate loves irony"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
@@ -3967,6 +3990,12 @@
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "sovereignty, belief, and regulatory structures"
+    },
+    {
+      "from": "what-always-listens-cannot-originate",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "what-always-listens-cannot-originate",

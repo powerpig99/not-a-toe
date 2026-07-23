@@ -32,7 +32,7 @@ Neither compounds alone. Ownership without felt authorship stays brittle: outcom
 
 Externalized locus is the failure of both at once.
 
-Consequences registered as arriving from elsewhere weaken the update and starve felt authorship. The center that cannot keep outcomes as its own cannot sustain “I author.” The center that cannot sustain “I author” has no standing reason to keep outcomes as its own. Drift reinforces itself in the opposite direction: thinner reading, thinner action, thinner self — each presented as the world’s doing.
+Consequences registered as arriving from elsewhere weaken the update and starve felt authorship. The center that cannot keep outcomes as its own cannot sustain “I author.” The center that cannot sustain “I author” has no standing reason to keep outcomes as its own. Drift reinforces itself in the opposite direction: thinner reading, thinner action, thinner self — each presented as the world’s doing. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) is that presentation under comfort and inherited condition: easier payoffs delay return of consequence; they do not relocate the lever that still has to close the update.
 
 Scale is the test.
 
