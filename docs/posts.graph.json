@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-23T07:32:47.330Z",
+    "generated_at": "2026-07-23T07:53:29.694Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -18,7 +18,7 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/causality-all-the-way.md": "b500f34f82e7",
+      "content/posts/causality-all-the-way.md": "33fa622aee83",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "6919c6254edb",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "30fd9b2890a4",
@@ -58,7 +58,7 @@
       "content/posts/looping-and-graphing.md": "290d99859db3",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "7386717ff3a3",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "f41a28ab1419",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "c264e22c08f2",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
@@ -76,6 +76,7 @@
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "30d0dff879ba",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/production-consumption-and-the-minds-distinction.md": "1e8941668d9e",
+      "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "50b6d8bc0c01",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "e695779caec2",
@@ -104,7 +105,7 @@
       "content/posts/the-model-never-becomes-a-second-edge.md": "ea1e3f6946fd",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "31a6b3c2981c",
       "content/posts/the-npc-impression-is-structural.md": "5ff4fbd827e2",
-      "content/posts/the-path-drawn-one-step-at-a-time.md": "7d9fd4d52830",
+      "content/posts/the-path-drawn-one-step-at-a-time.md": "3a5db81e792a",
       "content/posts/the-question-that-installs-the-war.md": "2212901bec84",
       "content/posts/the-ramble-within-the-ramble.md": "4b0befa6bea2",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "1f420cbfbbcb",
@@ -129,16 +130,16 @@
       "content/posts/why-explanation-fails.md": "5fe163a22059",
       "content/posts/why-mathematics-can-never-be-solved.md": "c4d4c4c3c4d3",
       "content/posts/you-cant-benchmark-the-fluid.md": "52dd7d058357",
-      "content/posts/you-wu-zhi-bian.md": "7362a727e3c4"
+      "content/posts/you-wu-zhi-bian.md": "e6b05b2e023b"
     },
     "stats": {
-      "posts": 122,
-      "edges": 357,
-      "unique_directed": 351,
+      "posts": 123,
+      "edges": 370,
+      "unique_directed": 364,
       "missing_targets": 0,
-      "one_way": 257,
+      "one_way": 262,
       "isolated": 40,
-      "posts_with_outbound": 51
+      "posts_with_outbound": 55
     }
   },
   "hubs_in": [
@@ -148,7 +149,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 16
+      "in_degree": 17
     },
     {
       "slug": "self-rl-for-humans",
@@ -156,15 +157,19 @@
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 13
+      "in_degree": 14
+    },
+    {
+      "slug": "the-path-drawn-one-step-at-a-time",
+      "in_degree": 14
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 13
     },
     {
-      "slug": "the-path-drawn-one-step-at-a-time",
-      "in_degree": 13
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
+      "in_degree": 12
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -172,10 +177,6 @@
     },
     {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
-      "in_degree": 11
-    },
-    {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
       "in_degree": 11
     },
     {
@@ -219,8 +220,8 @@
       "in_degree": 6
     },
     {
-      "slug": "agi-and-asi-are-temporary-goalposts",
-      "in_degree": 5
+      "slug": "why-mathematics-can-never-be-solved",
+      "in_degree": 6
     }
   ],
   "hubs_out": [
@@ -273,6 +274,10 @@
       "out_degree": 10
     },
     {
+      "slug": "causality-all-the-way",
+      "out_degree": 9
+    },
+    {
       "slug": "closed-reality-in-the-pursuit-of-serendipity",
       "out_degree": 9
     },
@@ -282,6 +287,10 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
+      "out_degree": 9
+    },
+    {
+      "slug": "qian-yin-hou-guo",
       "out_degree": 9
     },
     {
@@ -295,14 +304,6 @@
     {
       "slug": "two-failures-of-trace",
       "out_degree": 9
-    },
-    {
-      "slug": "causality-all-the-way",
-      "out_degree": 8
-    },
-    {
-      "slug": "escaping-the-sandbox-stays-inside-the-hold",
-      "out_degree": 8
     }
   ],
   "missing": [],
@@ -503,9 +504,9 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "b500f34f82e7",
-      "in_degree": 2,
-      "out_degree": 8,
+      "hash": "33fa622aee83",
+      "in_degree": 3,
+      "out_degree": 9,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -514,7 +515,8 @@
         "what-works-is-the-belief",
         "the-reality-distortion-field-names-the-closed-map",
         "complexity-obscures-emergence-as-the-act-of-mind",
-        "individual-choices-as-the-only-causal-levers"
+        "individual-choices-as-the-only-causal-levers",
+        "qian-yin-hou-guo"
       ]
     },
     {
@@ -557,7 +559,7 @@
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "Clarity Isn't a State You Arrive At. It's the Movement Itself.",
       "hash": "30fd9b2890a4",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 0,
       "links_out": []
     },
@@ -942,7 +944,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "5e06f3f0ae5c",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 9,
       "links_out": [
         "causality-all-the-way",
@@ -1051,10 +1053,12 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "f41a28ab1419",
-      "in_degree": 11,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "c264e22c08f2",
+      "in_degree": 12,
+      "out_degree": 1,
+      "links_out": [
+        "qian-yin-hou-guo"
+      ]
     },
     {
       "id": "post:minimizing-path",
@@ -1215,7 +1219,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "410dd79e7607",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 8,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1270,7 +1274,7 @@
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "Performative Hindsight That Pretends to Be Foresight",
       "hash": "30d0dff879ba",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 7,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1314,6 +1318,27 @@
         "individual-choices-as-the-only-causal-levers",
         "self-rl-for-humans",
         "clarity-isnt-a-state-you-arrive-at"
+      ]
+    },
+    {
+      "id": "post:qian-yin-hou-guo",
+      "kind": "post",
+      "slug": "qian-yin-hou-guo",
+      "path": "content/posts/qian-yin-hou-guo.md",
+      "title": "前因，后果",
+      "hash": "a0f4c2f1a944",
+      "in_degree": 4,
+      "out_degree": 9,
+      "links_out": [
+        "the-path-drawn-one-step-at-a-time",
+        "causality-all-the-way",
+        "individual-choices-as-the-only-causal-levers",
+        "why-mathematics-can-never-be-solved",
+        "openness-is-consistency",
+        "you-wu-zhi-bian",
+        "clarity-isnt-a-state-you-arrive-at",
+        "performative-hindsight-that-pretends-to-be-foresight",
+        "mei-you-pu-du-zhi-you-zi-du"
       ]
     },
     {
@@ -1721,10 +1746,12 @@
       "slug": "the-path-drawn-one-step-at-a-time",
       "path": "content/posts/the-path-drawn-one-step-at-a-time.md",
       "title": "The Path Drawn One Step at a Time",
-      "hash": "7d9fd4d52830",
-      "in_degree": 13,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "3a5db81e792a",
+      "in_degree": 14,
+      "out_degree": 1,
+      "links_out": [
+        "qian-yin-hou-guo"
+      ]
     },
     {
       "id": "post:the-question-that-installs-the-war",
@@ -2052,7 +2079,7 @@
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "Why Mathematics Can Never Be Solved",
       "hash": "c4d4c4c3c4d3",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 12,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -2088,10 +2115,12 @@
       "slug": "you-wu-zhi-bian",
       "path": "content/posts/you-wu-zhi-bian.md",
       "title": "有无之边",
-      "hash": "7362a727e3c4",
-      "in_degree": 1,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "e6b05b2e023b",
+      "in_degree": 2,
+      "out_degree": 1,
+      "links_out": [
+        "qian-yin-hou-guo"
+      ]
     }
   ],
   "edges": [
@@ -2346,6 +2375,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "causality-all-the-way",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -2864,6 +2899,12 @@
       "label": "Clarity isn’t a state you arrive at"
     },
     {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
+    },
+    {
       "from": "minimizing-path",
       "to": "fidelity-not-optimality",
       "rel": "points_to",
@@ -3284,6 +3325,60 @@
       "label": "Clarity isn’t a state you arrive at"
     },
     {
+      "from": "qian-yin-hou-guo",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The path drawn one step at a time"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why mathematics can never be solved"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "you-wu-zhi-bian",
+      "rel": "points_to",
+      "label": "有无之边"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity isn't a state you arrive at"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative hindsight that pretends to be foresight"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
@@ -3582,6 +3677,12 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
     },
     {
       "from": "the-question-that-installs-the-war",
@@ -4236,6 +4337,12 @@
       "to": "escaping-the-sandbox-stays-inside-the-hold",
       "rel": "points_to",
       "label": "Escaping the sandbox stays inside the hold"
+    },
+    {
+      "from": "you-wu-zhi-bian",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
     }
   ]
 }
