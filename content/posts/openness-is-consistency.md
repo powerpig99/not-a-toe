@@ -42,4 +42,4 @@ The desire for closure is not a flaw in thinking that can be corrected by better
 
 When that desire is seen rather than obeyed, the configuration loosens. What remains is not a new theory that finally succeeds where others failed, but the simple continuation of sensed difference without the added burden of having to close upon itself. That continuation is openness. Openness is consistency. [Why mathematics can never be solved](../why-mathematics-can-never-be-solved/) is the demand under mathematical costume: a completed formal landscape forced as ground for activity that only continues.
 
-Openness does not resolve contradictions by absorbing them. It renders the demand for their resolution unnecessary — and with that demand, inconsistency has nothing left to feed on.
+Openness does not resolve contradictions by absorbing them. It renders the demand for their resolution unnecessary — and with that demand, inconsistency has nothing left to feed on. [Open vision in a closed arena](../open-vision-in-a-closed-arena/) is the same cut under firm strategy: multi-agent scale and restraint as open recognition operating inside residue that still rewards enclosure.

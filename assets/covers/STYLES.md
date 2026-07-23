@@ -80,6 +80,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Silverpoint / metalpoint on gesso** | Cream prepared ground, single-weight gray metal lines, paper tooth, museum raking light; stylus lag trail | `qian-yin-hou-guo` |
 | **Kintsugi ceramic still life** | Documentary museum still life: ceramic vessel with gold repair seams on a continuous slate ledger grid that tries to absorb the discrete bowl | `the-coordinators-category-error` |
 | **Pixel art / limited-palette retro** | Soft cream–indigo-teal limited palette, visible square pixels, gentle dithering; side-scroll tunnel with paved open door vs successive unfinished chambers | `whatever-is-one-prompt-away` |
+| **Limestone bas-relief / architectural frieze** | Cream–warm gray stone low relief, museum side light, chisel grain; closed arena rings with open-horizon gap past the bound | `open-vision-in-a-closed-arena` |
 
 ## Inventory (by slug)
 
@@ -107,6 +108,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `mei-you-pu-du-zhi-you-zi-du` | Dark chalk / light trails |
 | `no-system-can-be-kept-closed` | Risograph flat print |
 | `not-a-theory-of-everything` | Mezzotint / aquatint |
+| `open-vision-in-a-closed-arena` | Limestone bas-relief / architectural frieze |
 | `openness-is-consistency` | Painterly glass / gold path |
 | `ownership-and-self-worthiness` | Dark chalk / light trails |
 | `performative-hindsight-that-pretends-to-be-foresight` | Solarized surreal photograph |

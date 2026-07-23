@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-23T11:53:52.027Z",
+    "generated_at": "2026-07-23T12:19:42.898Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -24,7 +24,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "30fd9b2890a4",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "c60abafa7da1",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "72b1dc3ed2d5",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "a2d52b7a3da9",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "51aa856c215d",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
@@ -64,12 +64,13 @@
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
-      "content/posts/no-system-can-be-kept-closed.md": "82ad676b4db2",
+      "content/posts/no-system-can-be-kept-closed.md": "cb74a91466f0",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "660947cc75eb",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
       "content/posts/on-education.md": "d62f17d7f550",
-      "content/posts/openness-is-consistency.md": "410dd79e7607",
+      "content/posts/open-vision-in-a-closed-arena.md": "778c106f4067",
+      "content/posts/openness-is-consistency.md": "32609c50030d",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "27e754156200",
       "content/posts/perception-perspective-refined.md": "726559169efb",
@@ -135,13 +136,13 @@
       "content/posts/you-wu-zhi-bian.md": "e6b05b2e023b"
     },
     "stats": {
-      "posts": 125,
-      "edges": 400,
-      "unique_directed": 394,
+      "posts": 126,
+      "edges": 412,
+      "unique_directed": 405,
       "missing_targets": 0,
-      "one_way": 274,
+      "one_way": 279,
       "isolated": 39,
-      "posts_with_outbound": 58
+      "posts_with_outbound": 59
     }
   },
   "hubs_in": [
@@ -151,7 +152,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 18
+      "in_degree": 19
     },
     {
       "slug": "self-rl-for-humans",
@@ -166,15 +167,15 @@
       "in_degree": 15
     },
     {
+      "slug": "no-system-can-be-kept-closed",
+      "in_degree": 14
+    },
+    {
       "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 14
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 13
-    },
-    {
-      "slug": "no-system-can-be-kept-closed",
       "in_degree": 13
     },
     {
@@ -190,24 +191,24 @@
       "in_degree": 9
     },
     {
-      "slug": "what-always-listens-cannot-originate",
+      "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 9
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 8
+      "slug": "what-always-listens-cannot-originate",
+      "in_degree": 9
     },
     {
       "slug": "ownership-and-self-worthiness",
       "in_degree": 8
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 8
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "in_degree": 7
+      "slug": "the-model-never-becomes-a-second-edge",
+      "in_degree": 8
     },
     {
       "slug": "two-failures-of-trace",
@@ -218,11 +219,11 @@
       "in_degree": 7
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
+      "slug": "agi-and-asi-are-temporary-goalposts",
       "in_degree": 6
     },
     {
-      "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "slug": "individual-choices-as-the-only-causal-levers",
       "in_degree": 6
     }
   ],
@@ -230,6 +231,10 @@
     {
       "slug": "not-a-theory-of-everything",
       "out_degree": 28
+    },
+    {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "out_degree": 13
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -242,10 +247,6 @@
     {
       "slug": "why-mathematics-can-never-be-solved",
       "out_degree": 13
-    },
-    {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "out_degree": 12
     },
     {
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -284,6 +285,10 @@
       "out_degree": 10
     },
     {
+      "slug": "no-system-can-be-kept-closed",
+      "out_degree": 10
+    },
+    {
       "slug": "the-scaffolding-we-forget",
       "out_degree": 10
     },
@@ -296,15 +301,11 @@
       "out_degree": 9
     },
     {
-      "slug": "no-system-can-be-kept-closed",
+      "slug": "openness-is-consistency",
       "out_degree": 9
     },
     {
       "slug": "qian-yin-hou-guo",
-      "out_degree": 9
-    },
-    {
-      "slug": "the-coordinators-category-error",
       "out_degree": 9
     }
   ],
@@ -420,7 +421,7 @@
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
       "hash": "3a779afdb1e5",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 6,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -592,9 +593,9 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
-      "hash": "c60abafa7da1",
-      "in_degree": 8,
-      "out_degree": 12,
+      "hash": "72b1dc3ed2d5",
+      "in_degree": 9,
+      "out_degree": 13,
       "links_out": [
         "you-cant-benchmark-the-fluid",
         "agi-and-asi-are-temporary-goalposts",
@@ -607,7 +608,8 @@
         "closed-reality-in-the-pursuit-of-serendipity",
         "the-reality-distortion-field-names-the-closed-map",
         "escaping-the-sandbox-stays-inside-the-hold",
-        "whatever-is-one-prompt-away"
+        "whatever-is-one-prompt-away",
+        "open-vision-in-a-closed-arena"
       ]
     },
     {
@@ -617,7 +619,7 @@
       "path": "content/posts/closed-reality-in-the-pursuit-of-serendipity.md",
       "title": "Closed Reality in the Pursuit of Serendipity",
       "hash": "a2d52b7a3da9",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -1128,9 +1130,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "82ad676b4db2",
-      "in_degree": 13,
-      "out_degree": 9,
+      "hash": "cb74a91466f0",
+      "in_degree": 14,
+      "out_degree": 10,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1140,7 +1142,8 @@
         "the-scaffolding-we-forget",
         "clarity-isnt-a-state-you-arrive-at",
         "why-mathematics-can-never-be-solved",
-        "escaping-the-sandbox-stays-inside-the-hold"
+        "escaping-the-sandbox-stays-inside-the-hold",
+        "open-vision-in-a-closed-arena"
       ]
     },
     {
@@ -1217,14 +1220,34 @@
       "links_out": []
     },
     {
+      "id": "post:open-vision-in-a-closed-arena",
+      "kind": "post",
+      "slug": "open-vision-in-a-closed-arena",
+      "path": "content/posts/open-vision-in-a-closed-arena.md",
+      "title": "Open Vision in a Closed Arena",
+      "hash": "778c106f4067",
+      "in_degree": 3,
+      "out_degree": 8,
+      "links_out": [
+        "no-system-can-be-kept-closed",
+        "openness-is-consistency",
+        "agi-and-asi-are-temporary-goalposts",
+        "closed-reality-in-benchmark-maxing",
+        "what-works-is-the-belief",
+        "production-consumption-and-the-minds-distinction",
+        "closed-reality-in-the-pursuit-of-serendipity",
+        "the-reality-distortion-field-names-the-closed-map"
+      ]
+    },
+    {
       "id": "post:openness-is-consistency",
       "kind": "post",
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "410dd79e7607",
-      "in_degree": 18,
-      "out_degree": 8,
+      "hash": "32609c50030d",
+      "in_degree": 19,
+      "out_degree": 9,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -1233,7 +1256,8 @@
         "what-cannot-be-kept",
         "self-rl-for-humans",
         "clarity-isnt-a-state-you-arrive-at",
-        "why-mathematics-can-never-be-solved"
+        "why-mathematics-can-never-be-solved",
+        "open-vision-in-a-closed-arena"
       ]
     },
     {
@@ -1308,7 +1332,7 @@
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
       "hash": "2bbbe9282e76",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 12,
       "links_out": [
         "openness-is-consistency",
@@ -1824,7 +1848,7 @@
       "path": "content/posts/the-reality-distortion-field-names-the-closed-map.md",
       "title": "The Reality Distortion Field Names the Closed Map",
       "hash": "1f420cbfbbcb",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 12,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -2031,7 +2055,7 @@
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "What Works Is the Belief",
       "hash": "0d108876c73b",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 8,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
@@ -2571,6 +2595,12 @@
       "label": "Whatever is one prompt away"
     },
     {
+      "from": "closed-reality-in-benchmark-maxing",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open vision in a closed arena"
+    },
+    {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
@@ -3045,6 +3075,12 @@
       "label": "Escaping the sandbox stays inside the hold"
     },
     {
+      "from": "no-system-can-be-kept-closed",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open vision in a closed arena"
+    },
+    {
       "from": "not-a-theory-of-everything",
       "to": "not-a-toe-rewrite",
       "rel": "points_to",
@@ -3237,6 +3273,60 @@
       "label": "the meaning of life is in the drafting"
     },
     {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed reality in benchmark maxing"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What works is the belief"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
+      "label": "Closed reality in the pursuit of serendipity"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The reality distortion field names the closed map"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
       "from": "openness-is-consistency",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -3283,6 +3373,12 @@
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
       "label": "Why mathematics can never be solved"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open vision in a closed arena"
     },
     {
       "from": "ownership-and-self-worthiness",
