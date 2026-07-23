@@ -200,8 +200,6 @@ a {
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 20 / 9;
-  object-fit: cover;
 }
 
 .post-item h2 {
@@ -252,8 +250,6 @@ a {
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 20 / 9;
-  object-fit: cover;
 }
 
 .essay-header h1 {

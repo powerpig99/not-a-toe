@@ -57,6 +57,53 @@ function coverMimeType(fileName) {
   return 'image/jpeg';
 }
 
+/** Read pixel size from JPEG / PNG / WebP without a dependency. */
+function readImageSize(buf, ext) {
+  const e = ext.toLowerCase();
+  if ((e === '.jpg' || e === '.jpeg') && buf[0] === 0xff && buf[1] === 0xd8) {
+    let i = 2;
+    while (i + 9 < buf.length) {
+      if (buf[i] !== 0xff) break;
+      const marker = buf[i + 1];
+      // SOF0 / SOF1 / SOF2
+      if (marker === 0xc0 || marker === 0xc1 || marker === 0xc2) {
+        return { width: buf.readUInt16BE(i + 7), height: buf.readUInt16BE(i + 5) };
+      }
+      if (marker === 0xd9 || marker === 0xda) break;
+      const len = buf.readUInt16BE(i + 2);
+      if (len < 2) break;
+      i += 2 + len;
+    }
+  }
+  if (e === '.png' && buf.length >= 24 && buf[0] === 0x89 && buf[1] === 0x50) {
+    return { width: buf.readUInt32BE(16), height: buf.readUInt32BE(20) };
+  }
+  if (e === '.webp' && buf.length >= 30 && buf.toString('ascii', 0, 4) === 'RIFF' && buf.toString('ascii', 8, 12) === 'WEBP') {
+    const fourcc = buf.toString('ascii', 12, 16);
+    if (fourcc === 'VP8X' && buf.length >= 30) {
+      const width = 1 + buf[24] + (buf[25] << 8) + (buf[26] << 16);
+      const height = 1 + buf[27] + (buf[28] << 8) + (buf[29] << 16);
+      return { width, height };
+    }
+    if (fourcc === 'VP8 ' && buf.length >= 30) {
+      // Lossy bitstream starts at offset 20; frame tag then 3-byte width/height at 26.
+      const width = buf.readUInt16LE(26) & 0x3fff;
+      const height = buf.readUInt16LE(28) & 0x3fff;
+      return { width, height };
+    }
+    if (fourcc === 'VP8L' && buf.length >= 25) {
+      const b0 = buf[21];
+      const b1 = buf[22];
+      const b2 = buf[23];
+      const b3 = buf[24];
+      const width = 1 + (((b1 & 0x3f) << 8) | b0);
+      const height = 1 + (((b3 & 0xf) << 10) | (b2 << 2) | ((b1 & 0xc0) >> 6));
+      return { width, height };
+    }
+  }
+  return null;
+}
+
 function findCoverForSlug(slug) {
   if (!fs.existsSync(coversDir)) return null;
 
@@ -67,11 +114,13 @@ function findCoverForSlug(slug) {
       const relativeSourcePath = path.posix.join('assets', 'covers', fileName);
       // Content hash (not mtime): X caches failed first scrapes; a new hash forces re-fetch
       // when the cover bytes change. mtime alone is noisy across CI checkouts.
-      const hash = crypto.createHash('sha256').update(fs.readFileSync(fullPath)).digest('hex').slice(0, 12);
+      const bytes = fs.readFileSync(fullPath);
+      const hash = crypto.createHash('sha256').update(bytes).digest('hex').slice(0, 12);
       const publicPath = `covers/${fileName}`;
       // Content hash on every cover URL (page <img>, index thumbs, og/twitter). Path alone
       // is long-cached by browsers/CDNs after a replace of the same filename.
       const url = `${absoluteUrl(publicPath)}?v=${hash}`;
+      const size = readImageSize(bytes, ext) ?? { width: 1280, height: 576 };
       return {
         fileName,
         fullPath,
@@ -81,8 +130,8 @@ function findCoverForSlug(slug) {
         url,
         sourceUrl: absoluteSourceUrl(relativeSourcePath),
         mimeType: coverMimeType(fileName),
-        width: 1280,
-        height: 576,
+        width: size.width,
+        height: size.height,
       };
     }
   }
@@ -742,7 +791,7 @@ function renderPost(post, newerPost, olderPost) {
   const navHtml = navLinks.length ? `<nav class="post-nav">${navLinks.join('')}</nav>` : '';
   const coverHtml = post.cover
     ? `<figure class="title-image">
-        <img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="${escapeHtml(post.title)}" width="1280" height="576" decoding="async">
+        <img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="${escapeHtml(post.title)}" width="${post.cover.width}" height="${post.cover.height}" decoding="async">
       </figure>`
     : '';
 

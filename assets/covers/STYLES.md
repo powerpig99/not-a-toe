@@ -27,7 +27,7 @@ Differentiation is on **style** (medium, print/photo tradition, palette discipli
 | Fit | Concept reads the essay’s cut; style is independent of other covers |
 | Not | Square, portrait, 16:9, 3:1 profile-banner, or other non-20:9 crops as the essay cover |
 | After generate | Install as `<slug>.jpg`, update Inventory + Style families below |
-| Legacy assets | Keep older covers as installed (many are 16:9). Do **not** bulk-regenerate or re-crop them for 20:9. Regenerate a legacy cover only when the operator explicitly asks for that slug. Site CSS uses `object-fit: cover` in a 20:9 box, so 16:9 files display with a mild center crop until replaced. |
+| Legacy assets | Keep older covers as installed (many are 16:9). Do **not** bulk-regenerate or re-crop them for 20:9. Regenerate a legacy cover only when the operator explicitly asks for that slug. The site shows each cover at its native aspect ratio (no crop mask). |
 
 ## Style families (used)
 
