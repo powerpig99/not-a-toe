@@ -3,33 +3,33 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-23T07:53:29.750Z",
+    "generated_at": "2026-07-23T08:32:45.835Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "302956fe184c",
+      "content/posts/README.md": "c8481732a554",
       "docs/essay-format.md": "add57bdb30a3",
       "docs/export-for-substack.md": "a0b53c416d33",
       "docs/export-for-x-article.md": "98005d2c0b49",
       "export/README.md": "b58f6146e1bb",
-      "assets/covers/STYLES.md": "5c7d4b7a2c5e",
-      "README.md": "6f06b2175886",
+      "assets/covers/STYLES.md": "d338728fc5f0",
+      "README.md": "5073027c3312",
       "docs/local-memory.md": "d107677229f5",
       "build.mjs": "3ca9c64086f3",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "0826e193cfc2"
+      "MEMORY.md": "e7aea5a944ae"
     },
     "stats": {
-      "posts": 123,
-      "covers": 53,
+      "posts": 124,
+      "covers": 54,
       "trackers_listed": 12,
       "trackers_present": 12
     },
     "counts": {
       "nodes": 26,
-      "edges": 88,
+      "edges": 92,
       "missing": 0,
       "by_kind": {
         "project": 1,
@@ -45,7 +45,7 @@
     {
       "id": "tracker:posts",
       "name": "posts",
-      "count": 12
+      "count": 15
     },
     {
       "id": "memory:project",
@@ -55,7 +55,7 @@
     {
       "id": "tracker:root",
       "name": "root",
-      "count": 10
+      "count": 11
     },
     {
       "id": "tracker:local",
@@ -166,7 +166,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "0826e193cfc2",
+      "hash": "e7aea5a944ae",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -204,7 +204,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "5c7d4b7a2c5e",
+      "hash": "d338728fc5f0",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -356,7 +356,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "302956fe184c",
+      "hash": "c8481732a554",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",
@@ -381,14 +381,15 @@
       "path": "README.md",
       "owns": "index",
       "exists": true,
-      "hash": "6f06b2175886",
+      "hash": "5073027c3312",
       "summary": "## Authoring contract Guides (read these instead of re-deriving the workflow each time): | Topic | Doc | |-------|-----| | Posts: structure, voice, cross-links, ship checklist | [`…",
       "headings": [
         "Not a ToE",
         "Authoring contract",
         "X Article (dry-run default; --draft then --publish-id when ready)",
         "Publish (default)",
-        "Local build (optional)"
+        "if no run starts: gh workflow run deploy.yml --ref main",
+        "Local build (optional preflight)"
       ],
       "layer": "tracker"
     },
@@ -469,6 +470,24 @@
       "to": "tracker:covers",
       "rel": "points_to",
       "label": "`assets/covers/STYLES.md`"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "tracker:export",
+      "rel": "points_to",
+      "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "tracker:export-x",
+      "rel": "points_to",
+      "label": "`docs/export-for-x-article.md`"
+    },
+    {
+      "from": "tracker:posts",
+      "to": "tracker:local",
+      "rel": "points_to",
+      "label": "`docs/local-memory.md`"
     },
     {
       "from": "tracker:posts",
@@ -739,6 +758,12 @@
       "to": "tracker:export",
       "rel": "points_to",
       "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "tracker:root",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
     },
     {
       "from": "project:not-a-toe",

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-23T07:53:29.694Z",
+    "generated_at": "2026-07-23T08:32:45.777Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -51,14 +51,14 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "5e06f3f0ae5c",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "35d7b3f4354a",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "028d8e0a29ac",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/looping-and-graphing.md": "290d99859db3",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "7386717ff3a3",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "c264e22c08f2",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "84ca8180f73d",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
@@ -91,6 +91,7 @@
       "content/posts/the-brain-does-not-backprop.md": "1969898cd8c6",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "401e128e06ad",
+      "content/posts/the-coordinators-category-error.md": "58a8c06bb44c",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-flywheel-of-the-mind.md": "74dcdf186f39",
@@ -104,18 +105,18 @@
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "f3ddf4ac7520",
       "content/posts/the-model-never-becomes-a-second-edge.md": "ea1e3f6946fd",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "31a6b3c2981c",
-      "content/posts/the-npc-impression-is-structural.md": "5ff4fbd827e2",
+      "content/posts/the-npc-impression-is-structural.md": "37573302100b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "3a5db81e792a",
       "content/posts/the-question-that-installs-the-war.md": "2212901bec84",
       "content/posts/the-ramble-within-the-ramble.md": "4b0befa6bea2",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "1f420cbfbbcb",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "ea13a5b24119",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "3287f06b8fde",
-      "content/posts/the-scaffolding-we-forget.md": "f2c68601e219",
+      "content/posts/the-scaffolding-we-forget.md": "cad381260af5",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
-      "content/posts/the_analogy_trap.md": "332d8430491a",
+      "content/posts/the_analogy_trap.md": "97a10a756773",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "2a57cc4c2249",
@@ -133,19 +134,19 @@
       "content/posts/you-wu-zhi-bian.md": "e6b05b2e023b"
     },
     "stats": {
-      "posts": 123,
-      "edges": 370,
-      "unique_directed": 364,
+      "posts": 124,
+      "edges": 384,
+      "unique_directed": 378,
       "missing_targets": 0,
-      "one_way": 262,
-      "isolated": 40,
-      "posts_with_outbound": 55
+      "one_way": 268,
+      "isolated": 39,
+      "posts_with_outbound": 57
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 25
+      "in_degree": 26
     },
     {
       "slug": "openness-is-consistency",
@@ -160,16 +161,16 @@
       "in_degree": 14
     },
     {
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 14
+    },
+    {
       "slug": "the-path-drawn-one-step-at-a-time",
       "in_degree": 14
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 13
-    },
-    {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 12
+      "in_degree": 13
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -181,7 +182,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 10
+      "in_degree": 11
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
@@ -208,6 +209,10 @@
       "in_degree": 7
     },
     {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "in_degree": 6
+    },
+    {
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "in_degree": 6
     },
@@ -217,10 +222,6 @@
     },
     {
       "slug": "the-ramble-within-the-ramble",
-      "in_degree": 6
-    },
-    {
-      "slug": "why-mathematics-can-never-be-solved",
       "in_degree": 6
     }
   ],
@@ -274,15 +275,15 @@
       "out_degree": 10
     },
     {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "out_degree": 10
+    },
+    {
       "slug": "causality-all-the-way",
       "out_degree": 9
     },
     {
       "slug": "closed-reality-in-the-pursuit-of-serendipity",
-      "out_degree": 9
-    },
-    {
-      "slug": "individual-choices-as-the-only-causal-levers",
       "out_degree": 9
     },
     {
@@ -294,15 +295,15 @@
       "out_degree": 9
     },
     {
+      "slug": "the-coordinators-category-error",
+      "out_degree": 9
+    },
+    {
       "slug": "the-meaning-of-life-is-in-the-drafting",
       "out_degree": 9
     },
     {
       "slug": "the-ramble-within-the-ramble",
-      "out_degree": 9
-    },
-    {
-      "slug": "two-failures-of-trace",
       "out_degree": 9
     }
   ],
@@ -345,7 +346,6 @@
     "the-maintenance-paradox",
     "the-strategy-that-wasnt",
     "the-tightening-loop",
-    "the_analogy_trap",
     "the_illegible_compound_retraced",
     "the_moving_ground"
   ],
@@ -357,7 +357,7 @@
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
       "hash": "1a56045b2ad4",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 11,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -897,7 +897,7 @@
       "path": "content/posts/help-is-half-the-problem.md",
       "title": "Help Is Half the Problem",
       "hash": "ab76bdb2d800",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 2,
       "links_out": [
         "therapy-opens-the-feedback-loop",
@@ -943,9 +943,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "5e06f3f0ae5c",
-      "in_degree": 5,
-      "out_degree": 9,
+      "hash": "35d7b3f4354a",
+      "in_degree": 6,
+      "out_degree": 10,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -955,6 +955,7 @@
         "ownership-and-self-worthiness",
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
+        "the-coordinators-category-error",
         "openness-is-consistency"
       ]
     },
@@ -965,7 +966,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "028d8e0a29ac",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 1,
       "links_out": [
         "the-model-never-becomes-a-second-edge"
@@ -1053,10 +1054,11 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "c264e22c08f2",
-      "in_degree": 12,
-      "out_degree": 1,
+      "hash": "84ca8180f73d",
+      "in_degree": 13,
+      "out_degree": 2,
       "links_out": [
+        "the-coordinators-category-error",
         "qian-yin-hou-guo"
       ]
     },
@@ -1471,10 +1473,12 @@
       "slug": "the_analogy_trap",
       "path": "content/posts/the_analogy_trap.md",
       "title": "The Analogy Trap: Shared Logic Is Not Shared Structure",
-      "hash": "332d8430491a",
+      "hash": "97a10a756773",
       "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "out_degree": 1,
+      "links_out": [
+        "the-coordinators-category-error"
+      ]
     },
     {
       "id": "post:the_illegible_compound_retraced",
@@ -1505,7 +1509,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
       "hash": "b15ca5b77d8a",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 1,
       "links_out": [
         "the-ramble-within-the-ramble"
@@ -1540,9 +1544,30 @@
       "path": "content/posts/the-compassion-is-the-mechanism-of-obscuration.md",
       "title": "The Compassion Is the Mechanism of Obscuration",
       "hash": "401e128e06ad",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:the-coordinators-category-error",
+      "kind": "post",
+      "slug": "the-coordinators-category-error",
+      "path": "content/posts/the-coordinators-category-error.md",
+      "title": "The Coordinator’s Category Error",
+      "hash": "58a8c06bb44c",
+      "in_degree": 5,
+      "out_degree": 9,
+      "links_out": [
+        "the-scaffolding-we-forget",
+        "intelligence-belongs-only-to-the-mind",
+        "a-creation-cannot-replace-its-source",
+        "individual-choices-as-the-only-causal-levers",
+        "mei-you-pu-du-zhi-you-zi-du",
+        "the-npc-impression-is-structural",
+        "help-is-half-the-problem",
+        "the-compassion-is-the-mechanism-of-obscuration",
+        "the-allocation-of-causal-power-in-validation"
+      ]
     },
     {
       "id": "post:the-defining-seat",
@@ -1729,12 +1754,13 @@
       "slug": "the-npc-impression-is-structural",
       "path": "content/posts/the-npc-impression-is-structural.md",
       "title": "The NPC Impression Is Structural, Not a Ranking of Minds",
-      "hash": "5ff4fbd827e2",
-      "in_degree": 0,
-      "out_degree": 5,
+      "hash": "37573302100b",
+      "in_degree": 1,
+      "out_degree": 6,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "intelligence-belongs-only-to-the-mind",
+        "the-coordinators-category-error",
         "the-question-that-installs-the-war",
         "the-path-drawn-one-step-at-a-time",
         "clarity-isnt-a-state-you-arrive-at"
@@ -1828,9 +1854,9 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
-      "hash": "f2c68601e219",
-      "in_degree": 10,
-      "out_degree": 8,
+      "hash": "cad381260af5",
+      "in_degree": 11,
+      "out_degree": 9,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-path-drawn-one-step-at-a-time",
@@ -1839,6 +1865,7 @@
         "complexity-obscures-emergence-as-the-act-of-mind",
         "clarity-isnt-a-state-you-arrive-at",
         "self-rl-for-humans",
+        "the-coordinators-category-error",
         "reality-is-the-minds-ongoing-realization"
       ]
     },
@@ -2774,6 +2801,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
@@ -2897,6 +2930,12 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -3457,6 +3496,60 @@
       "label": "The ramble within the ramble"
     },
     {
+      "from": "the-coordinators-category-error",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "a creation cannot replace its source"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC impression is structural"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help is half the problem"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-compassion-is-the-mechanism-of-obscuration",
+      "rel": "points_to",
+      "label": "the compassion is the mechanism of obscuration"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
       "from": "the-flywheel-of-the-mind",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -3659,6 +3752,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "intelligence belongs only to the Mind"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -3878,6 +3977,12 @@
     },
     {
       "from": "the-scaffolding-we-forget",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "Reality is the Mind's ongoing realization"
@@ -3893,6 +3998,12 @@
       "to": "minimizing-path",
       "rel": "points_to",
       "label": "The Minimizing Path"
+    },
+    {
+      "from": "the_analogy_trap",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
