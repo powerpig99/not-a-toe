@@ -77,6 +77,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Comic halftone / Ben-Day dots** | Cream newsprint, cyan–magenta–black process dots, slight misregistration, graphic speech-mass vs rain on cracked basin | `reality-is-the-minds-ongoing-realization` |
 | **Sandblasted glass etching** | Frosted dark glass panel, teal–amber luminous path, grain, museum side light; opened circuit with third node | `therapy-opens-the-feedback-loop` |
 | **Soft clay / stop-motion puppet still** | Warm polymer clay board, hand-pressed footprints and short path segments, soft studio light, fingerprint texture | `individual-choices-as-the-only-causal-levers` |
+| **Silverpoint / metalpoint on gesso** | Cream prepared ground, single-weight gray metal lines, paper tooth, museum raking light; stylus lag trail | `qian-yin-hou-guo` |
 
 ## Inventory (by slug)
 
@@ -133,6 +134,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `when-need-stops-being-the-measure` | Embroidery / needlework on linen |
 | `when-the-effect-authors-the-frame` | Suminagashi / floating-ink marbling |
 | `why-mathematics-can-never-be-solved` | Dutch Golden Age vanitas still |
+| `qian-yin-hou-guo` | Silverpoint / metalpoint on gesso |
 | `you-wu-zhi-bian` | Minimal horizon band |
 
 ## Crowded — prefer not to extend
