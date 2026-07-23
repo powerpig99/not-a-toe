@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-23T10:53:31.190Z",
+    "generated_at": "2026-07-23T11:29:06.433Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -24,7 +24,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "30fd9b2890a4",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "b5d3a28726ab",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "c60abafa7da1",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "a2d52b7a3da9",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "51aa856c215d",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
@@ -94,7 +94,7 @@
       "content/posts/the-coordinators-category-error.md": "58a8c06bb44c",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
-      "content/posts/the-flywheel-of-the-mind.md": "74dcdf186f39",
+      "content/posts/the-flywheel-of-the-mind.md": "63836836ed53",
       "content/posts/the-frame-that-conceals-improvement.md": "4b8ef3047d50",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-limitation-is-doing-work.md": "ebff2fbf2a2e",
@@ -112,7 +112,7 @@
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "1f420cbfbbcb",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "ea13a5b24119",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "3287f06b8fde",
-      "content/posts/the-scaffolding-we-forget.md": "cad381260af5",
+      "content/posts/the-scaffolding-we-forget.md": "c1e964e57e64",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
@@ -125,6 +125,7 @@
       "content/posts/what-always-listens-cannot-originate.md": "fd5ad97dafc5",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "0d108876c73b",
+      "content/posts/whatever-is-one-prompt-away.md": "8b97cdf3f4fe",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "a814842d6a67",
       "content/posts/when-the-effect-authors-the-frame.md": "49097d2eb679",
@@ -134,13 +135,13 @@
       "content/posts/you-wu-zhi-bian.md": "e6b05b2e023b"
     },
     "stats": {
-      "posts": 124,
-      "edges": 384,
-      "unique_directed": 378,
+      "posts": 125,
+      "edges": 398,
+      "unique_directed": 392,
       "missing_targets": 0,
-      "one_way": 268,
+      "one_way": 276,
       "isolated": 39,
-      "posts_with_outbound": 57
+      "posts_with_outbound": 58
     }
   },
   "hubs_in": [
@@ -150,22 +151,22 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 17
+      "in_degree": 18
     },
     {
       "slug": "self-rl-for-humans",
-      "in_degree": 15
+      "in_degree": 16
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 14
-    },
-    {
-      "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 14
+      "in_degree": 15
     },
     {
       "slug": "the-path-drawn-one-step-at-a-time",
+      "in_degree": 15
+    },
+    {
+      "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 14
     },
     {
@@ -174,14 +175,14 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
+      "in_degree": 13
+    },
+    {
+      "slug": "the-scaffolding-we-forget",
       "in_degree": 12
     },
     {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
-      "in_degree": 11
-    },
-    {
-      "slug": "the-scaffolding-we-forget",
       "in_degree": 11
     },
     {
@@ -193,6 +194,10 @@
       "in_degree": 9
     },
     {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "in_degree": 8
+    },
+    {
       "slug": "ownership-and-self-worthiness",
       "in_degree": 8
     },
@@ -201,11 +206,15 @@
       "in_degree": 8
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
+      "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 7
     },
     {
       "slug": "two-failures-of-trace",
+      "in_degree": 7
+    },
+    {
+      "slug": "why-mathematics-can-never-be-solved",
       "in_degree": 7
     },
     {
@@ -214,14 +223,6 @@
     },
     {
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
-      "in_degree": 6
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "in_degree": 6
-    },
-    {
-      "slug": "the-ramble-within-the-ramble",
       "in_degree": 6
     }
   ],
@@ -237,6 +238,10 @@
     {
       "slug": "what-always-listens-cannot-originate",
       "out_degree": 13
+    },
+    {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "out_degree": 12
     },
     {
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -259,11 +264,11 @@
       "out_degree": 11
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
+      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 11
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
+      "slug": "whatever-is-one-prompt-away",
       "out_degree": 11
     },
     {
@@ -276,6 +281,10 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
+      "out_degree": 10
+    },
+    {
+      "slug": "the-scaffolding-we-forget",
       "out_degree": 10
     },
     {
@@ -296,14 +305,6 @@
     },
     {
       "slug": "the-coordinators-category-error",
-      "out_degree": 9
-    },
-    {
-      "slug": "the-meaning-of-life-is-in-the-drafting",
-      "out_degree": 9
-    },
-    {
-      "slug": "the-ramble-within-the-ramble",
       "out_degree": 9
     }
   ],
@@ -559,7 +560,7 @@
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "Clarity Isn't a State You Arrive At. It's the Movement Itself.",
       "hash": "30fd9b2890a4",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 0,
       "links_out": []
     },
@@ -591,9 +592,9 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
-      "hash": "b5d3a28726ab",
-      "in_degree": 7,
-      "out_degree": 11,
+      "hash": "c60abafa7da1",
+      "in_degree": 8,
+      "out_degree": 12,
       "links_out": [
         "you-cant-benchmark-the-fluid",
         "agi-and-asi-are-temporary-goalposts",
@@ -605,7 +606,8 @@
         "openness-is-consistency",
         "closed-reality-in-the-pursuit-of-serendipity",
         "the-reality-distortion-field-names-the-closed-map",
-        "escaping-the-sandbox-stays-inside-the-hold"
+        "escaping-the-sandbox-stays-inside-the-hold",
+        "whatever-is-one-prompt-away"
       ]
     },
     {
@@ -1127,7 +1129,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
       "hash": "82ad676b4db2",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 9,
       "links_out": [
         "openness-is-consistency",
@@ -1221,7 +1223,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "410dd79e7607",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 8,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1306,7 +1308,7 @@
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
       "hash": "1e8941668d9e",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 11,
       "links_out": [
         "openness-is-consistency",
@@ -1414,7 +1416,7 @@
       "path": "content/posts/self-rl-for-humans.md",
       "title": "What Looks Like RL for AIs Is Self-RL for Humans",
       "hash": "0af62aecf5bc",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 0,
       "links_out": []
     },
@@ -1597,13 +1599,14 @@
       "slug": "the-flywheel-of-the-mind",
       "path": "content/posts/the-flywheel-of-the-mind.md",
       "title": "The Flywheel of the Mind",
-      "hash": "74dcdf186f39",
-      "in_degree": 2,
-      "out_degree": 3,
+      "hash": "63836836ed53",
+      "in_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
-        "looping-and-graphing"
+        "looping-and-graphing",
+        "whatever-is-one-prompt-away"
       ]
     },
     {
@@ -1690,7 +1693,7 @@
       "path": "content/posts/the-meaning-of-life-is-in-the-drafting.md",
       "title": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing",
       "hash": "f3ddf4ac7520",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 9,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1773,7 +1776,7 @@
       "path": "content/posts/the-path-drawn-one-step-at-a-time.md",
       "title": "The Path Drawn One Step at a Time",
       "hash": "3a5db81e792a",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 1,
       "links_out": [
         "qian-yin-hou-guo"
@@ -1854,9 +1857,9 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
-      "hash": "cad381260af5",
-      "in_degree": 11,
-      "out_degree": 9,
+      "hash": "c1e964e57e64",
+      "in_degree": 12,
+      "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-path-drawn-one-step-at-a-time",
@@ -1866,7 +1869,8 @@
         "clarity-isnt-a-state-you-arrive-at",
         "self-rl-for-humans",
         "the-coordinators-category-error",
-        "reality-is-the-minds-ongoing-realization"
+        "reality-is-the-minds-ongoing-realization",
+        "whatever-is-one-prompt-away"
       ]
     },
     {
@@ -2040,6 +2044,29 @@
       ]
     },
     {
+      "id": "post:whatever-is-one-prompt-away",
+      "kind": "post",
+      "slug": "whatever-is-one-prompt-away",
+      "path": "content/posts/whatever-is-one-prompt-away.md",
+      "title": "Whatever Is One Prompt Away",
+      "hash": "8b97cdf3f4fe",
+      "in_degree": 3,
+      "out_degree": 11,
+      "links_out": [
+        "the-path-drawn-one-step-at-a-time",
+        "the-scaffolding-we-forget",
+        "closed-reality-in-benchmark-maxing",
+        "why-mathematics-can-never-be-solved",
+        "no-system-can-be-kept-closed",
+        "openness-is-consistency",
+        "the-flywheel-of-the-mind",
+        "self-rl-for-humans",
+        "the-meaning-of-life-is-in-the-drafting",
+        "production-consumption-and-the-minds-distinction",
+        "clarity-isnt-a-state-you-arrive-at"
+      ]
+    },
+    {
       "id": "post:when-abundance-looks-like-scarcity",
       "kind": "post",
       "slug": "when-abundance-looks-like-scarcity",
@@ -2106,7 +2133,7 @@
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "Why Mathematics Can Never Be Solved",
       "hash": "c4d4c4c3c4d3",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 12,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -2534,6 +2561,12 @@
       "to": "escaping-the-sandbox-stays-inside-the-hold",
       "rel": "points_to",
       "label": "Escaping the sandbox stays inside the hold"
+    },
+    {
+      "from": "closed-reality-in-benchmark-maxing",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever is one prompt away"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
@@ -3568,6 +3601,12 @@
       "label": "Looping and graphing"
     },
     {
+      "from": "the-flywheel-of-the-mind",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever is one prompt away"
+    },
+    {
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -3988,6 +4027,12 @@
       "label": "Reality is the Mind's ongoing realization"
     },
     {
+      "from": "the-scaffolding-we-forget",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever is one prompt away"
+    },
+    {
       "from": "the-surface-beneath",
       "to": "fidelity-not-optimality",
       "rel": "points_to",
@@ -4292,6 +4337,72 @@
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
       "label": "The reality distortion field names the closed map"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "the path drawn one step at a time"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "closed reality in benchmark maxing"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "why mathematics can never be solved"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "the flywheel of the Mind"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "Self-RL for humans"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The meaning of life is in the drafting"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity isn’t a state you arrive at"
     },
     {
       "from": "when-need-stops-being-the-measure",

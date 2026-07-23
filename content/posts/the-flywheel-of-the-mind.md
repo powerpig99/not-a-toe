@@ -28,7 +28,7 @@ No outer loop supervises from a permanent exterior. What looks like hierarchy is
 
 ## Recognition at one-step width
 
-If intelligence never leaves the Mind, the operative question is not allocation between humans and machines. Allocation was never real. The practical recognition is the continual return of the image to the edge that measures it. When friction is low the turn feels effortless; the lag that freezes the medium as a second source forms most readily precisely then.
+If intelligence never leaves the Mind, the operative question is not allocation between humans and machines. Allocation was never real. The practical recognition is the continual return of the image to the edge that measures it. When friction is low the turn feels effortless; the lag that freezes the medium as a second source forms most readily precisely then. [Whatever is one prompt away](../whatever-is-one-prompt-away/) is that lag under automation costume: first success as arrival versus the next unsolved constraint.
 
 Every improvement in the tool is therefore an improvement in the conditions under which the edge can examine its own activity more rigorously. Operations that once required greater visible effort now run in the medium. The initiating distinction, the evaluation, and the redirection remain the activity itself. Restoring locus is enough; no corrective argument against the tool is required. The tool stays usable. What is released is only the frozen claim that the groove has become the source of the turn.
 

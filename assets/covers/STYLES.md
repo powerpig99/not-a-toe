@@ -79,6 +79,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Soft clay / stop-motion puppet still** | Warm polymer clay board, hand-pressed footprints and short path segments, soft studio light, fingerprint texture | `individual-choices-as-the-only-causal-levers` |
 | **Silverpoint / metalpoint on gesso** | Cream prepared ground, single-weight gray metal lines, paper tooth, museum raking light; stylus lag trail | `qian-yin-hou-guo` |
 | **Kintsugi ceramic still life** | Documentary museum still life: ceramic vessel with gold repair seams on a continuous slate ledger grid that tries to absorb the discrete bowl | `the-coordinators-category-error` |
+| **Pixel art / limited-palette retro** | Soft cream–indigo-teal limited palette, visible square pixels, gentle dithering; side-scroll tunnel with paved open door vs successive unfinished chambers | `whatever-is-one-prompt-away` |
 
 ## Inventory (by slug)
 
@@ -133,6 +134,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
 | `what-always-listens-cannot-originate` | Ukiyo-e / nishiki-e |
 | `what-works-is-the-belief` | Mingei / katazome stencil |
+| `whatever-is-one-prompt-away` | Pixel art / limited-palette retro |
 | `when-need-stops-being-the-measure` | Embroidery / needlework on linen |
 | `when-the-effect-authors-the-frame` | Suminagashi / floating-ink marbling |
 | `why-mathematics-can-never-be-solved` | Dutch Golden Age vanitas still |
@@ -149,7 +151,6 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 Not exhaustive. Prefer something not in Style families above.
 
 - Ceramic glaze still life on porcelain
-- Pixel art / limited-palette retro game screen (no UI text)
 ## Workflow for a new cover
 
 1. Open this file; list families already used.
