@@ -76,6 +76,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Drypoint cartographic plate** | Warm ivory rag paper, sepia iron-gall drypoint, incomplete map with grid continuing past torn edge, field-lines from stylus, plate tone | `the-reality-distortion-field-names-the-closed-map` |
 | **Comic halftone / Ben-Day dots** | Cream newsprint, cyan–magenta–black process dots, slight misregistration, graphic speech-mass vs rain on cracked basin | `reality-is-the-minds-ongoing-realization` |
 | **Sandblasted glass etching** | Frosted dark glass panel, teal–amber luminous path, grain, museum side light; opened circuit with third node | `therapy-opens-the-feedback-loop` |
+| **Soft clay / stop-motion puppet still** | Warm polymer clay board, hand-pressed footprints and short path segments, soft studio light, fingerprint texture | `individual-choices-as-the-only-causal-levers` |
 
 ## Inventory (by slug)
 
@@ -96,6 +97,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
 | `humans-tokens-and-the-scope-of-valuation` | Oil split composition |
+| `individual-choices-as-the-only-causal-levers` | Soft clay / stop-motion puppet still |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |
 | `looping-and-graphing` | Technical blueprint / diazo |
 | `lossless-knowledge-of-an-open-field-is-incoherent` | Cloisonné / enamel medallion |
@@ -142,7 +144,6 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 Not exhaustive. Prefer something not in Style families above.
 
-- Soft clay / stop-motion puppet still
 - Ceramic glaze still life on porcelain
 - Pixel art / limited-palette retro game screen (no UI text)
 ## Workflow for a new cover

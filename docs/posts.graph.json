@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-23T07:08:36.923Z",
+    "generated_at": "2026-07-23T07:17:29.257Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -51,6 +51,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "5e06f3f0ae5c",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "028d8e0a29ac",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -131,13 +132,13 @@
       "content/posts/you-wu-zhi-bian.md": "7362a727e3c4"
     },
     "stats": {
-      "posts": 121,
-      "edges": 344,
-      "unique_directed": 338,
+      "posts": 122,
+      "edges": 353,
+      "unique_directed": 347,
       "missing_targets": 0,
-      "one_way": 252,
+      "one_way": 261,
       "isolated": 40,
-      "posts_with_outbound": 49
+      "posts_with_outbound": 50
     }
   },
   "hubs_in": [
@@ -147,7 +148,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 15
+      "in_degree": 16
     },
     {
       "slug": "self-rl-for-humans",
@@ -158,15 +159,15 @@
       "in_degree": 13
     },
     {
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 13
+    },
+    {
       "slug": "the-path-drawn-one-step-at-a-time",
       "in_degree": 13
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 12
-    },
-    {
-      "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 12
     },
     {
@@ -183,6 +184,14 @@
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
+      "in_degree": 9
+    },
+    {
+      "slug": "what-always-listens-cannot-originate",
+      "in_degree": 9
+    },
+    {
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 8
     },
     {
@@ -190,15 +199,7 @@
       "in_degree": 8
     },
     {
-      "slug": "what-always-listens-cannot-originate",
-      "in_degree": 8
-    },
-    {
       "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 7
-    },
-    {
-      "slug": "ownership-and-self-worthiness",
       "in_degree": 7
     },
     {
@@ -210,15 +211,15 @@
       "in_degree": 6
     },
     {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "in_degree": 6
+    },
+    {
       "slug": "the-ramble-within-the-ramble",
       "in_degree": 6
     },
     {
       "slug": "agi-and-asi-are-temporary-goalposts",
-      "in_degree": 5
-    },
-    {
-      "slug": "escaping-the-sandbox-stays-inside-the-hold",
       "in_degree": 5
     }
   ],
@@ -276,6 +277,10 @@
       "out_degree": 9
     },
     {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "out_degree": 9
+    },
+    {
       "slug": "no-system-can-be-kept-closed",
       "out_degree": 9
     },
@@ -297,10 +302,6 @@
     },
     {
       "slug": "openness-is-consistency",
-      "out_degree": 8
-    },
-    {
-      "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 8
     }
   ],
@@ -503,7 +504,7 @@
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
       "hash": "879677eb3a42",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 7,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -522,7 +523,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
       "hash": "6919c6254edb",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -824,7 +825,7 @@
       "path": "content/posts/fate-loves-irony-refined.md",
       "title": "Fate Loves Irony: Production Creates Its Own Ideological Consumption",
       "hash": "55f2935f273b",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 0,
       "links_out": []
     },
@@ -932,6 +933,27 @@
       "in_degree": 1,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:individual-choices-as-the-only-causal-levers",
+      "kind": "post",
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
+      "title": "Individual Choices as the Only Causal Levers",
+      "hash": "5e06f3f0ae5c",
+      "in_degree": 0,
+      "out_degree": 9,
+      "links_out": [
+        "causality-all-the-way",
+        "causality-stays-at-the-edge-that-steers",
+        "the-allocation-of-causal-power-in-validation",
+        "production-consumption-and-the-minds-distinction",
+        "fate-loves-irony-refined",
+        "ownership-and-self-worthiness",
+        "what-always-listens-cannot-originate",
+        "sovereignty-belief-and-regulatory-structures",
+        "openness-is-consistency"
+      ]
     },
     {
       "id": "post:intelligence-belongs-only-to-the-mind",
@@ -1192,7 +1214,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "410dd79e7607",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 8,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1223,7 +1245,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "ad6d510eef32",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 0,
       "links_out": []
     },
@@ -1275,7 +1297,7 @@
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
       "hash": "dea77dcf1691",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 10,
       "links_out": [
         "openness-is-consistency",
@@ -1394,7 +1416,7 @@
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
       "hash": "77b9c3fa364d",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 4,
       "links_out": [
         "hassabis-frontier-agi-premise",
@@ -1454,7 +1476,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
       "hash": "b15ca5b77d8a",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 1,
       "links_out": [
         "the-ramble-within-the-ramble"
@@ -1910,7 +1932,7 @@
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "What Always Listens Cannot Originate",
       "hash": "15c7acd1b801",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2655,6 +2677,60 @@
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
       "label": "When the effect authors the frame"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Fate loves irony"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What always listens cannot originate"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
