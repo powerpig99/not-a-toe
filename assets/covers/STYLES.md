@@ -78,6 +78,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Sandblasted glass etching** | Frosted dark glass panel, teal–amber luminous path, grain, museum side light; opened circuit with third node | `therapy-opens-the-feedback-loop` |
 | **Soft clay / stop-motion puppet still** | Warm polymer clay board, hand-pressed footprints and short path segments, soft studio light, fingerprint texture | `individual-choices-as-the-only-causal-levers` |
 | **Silverpoint / metalpoint on gesso** | Cream prepared ground, single-weight gray metal lines, paper tooth, museum raking light; stylus lag trail | `qian-yin-hou-guo` |
+| **Kintsugi ceramic still life** | Documentary museum still life: ceramic vessel with gold repair seams on a continuous slate ledger grid that tries to absorb the discrete bowl | `the-coordinators-category-error` |
 
 ## Inventory (by slug)
 
@@ -114,6 +115,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
 | `the-allocation-of-causal-power-in-validation` | Dark chalk / light trails |
 | `the-brain-does-not-backprop` | Dark chalk / light trails |
+| `the-coordinators-category-error` | Kintsugi ceramic still life |
 | `the-flywheel-of-the-mind` | Art Deco poster / chrome and sunburst |
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
 | `the-meaning-of-life-is-in-the-drafting` | Risograph flat print |
