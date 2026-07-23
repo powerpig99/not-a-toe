@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-23T12:19:42.898Z",
+    "generated_at": "2026-07-23T12:39:47.978Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -13,7 +13,7 @@
       "content/posts/a-living-external-cortex.md": "5c0736f4f2e0",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "3a779afdb1e5",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "121fcfdd5920",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
@@ -25,7 +25,7 @@
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/closed-reality-in-benchmark-maxing.md": "72b1dc3ed2d5",
-      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "a2d52b7a3da9",
+      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ab8cdff33837",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "51aa856c215d",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
@@ -76,7 +76,7 @@
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "30d0dff879ba",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "2bbbe9282e76",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "edc7b8e96579",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "50b6d8bc0c01",
@@ -110,7 +110,7 @@
       "content/posts/the-path-drawn-one-step-at-a-time.md": "3a5db81e792a",
       "content/posts/the-question-that-installs-the-war.md": "2212901bec84",
       "content/posts/the-ramble-within-the-ramble.md": "4b0befa6bea2",
-      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "1f420cbfbbcb",
+      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "8e14faa67e39",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "ea13a5b24119",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "3287f06b8fde",
       "content/posts/the-scaffolding-we-forget.md": "c1e964e57e64",
@@ -137,10 +137,10 @@
     },
     "stats": {
       "posts": 126,
-      "edges": 412,
-      "unique_directed": 405,
+      "edges": 416,
+      "unique_directed": 409,
       "missing_targets": 0,
-      "one_way": 279,
+      "one_way": 275,
       "isolated": 39,
       "posts_with_outbound": 59
     }
@@ -211,6 +211,10 @@
       "in_degree": 8
     },
     {
+      "slug": "open-vision-in-a-closed-arena",
+      "in_degree": 7
+    },
+    {
       "slug": "two-failures-of-trace",
       "in_degree": 7
     },
@@ -220,10 +224,6 @@
     },
     {
       "slug": "agi-and-asi-are-temporary-goalposts",
-      "in_degree": 6
-    },
-    {
-      "slug": "individual-choices-as-the-only-causal-levers",
       "in_degree": 6
     }
   ],
@@ -237,7 +237,15 @@
       "out_degree": 13
     },
     {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "out_degree": 13
+    },
+    {
       "slug": "the-model-never-becomes-a-second-edge",
+      "out_degree": 13
+    },
+    {
+      "slug": "the-reality-distortion-field-names-the-closed-map",
       "out_degree": 13
     },
     {
@@ -250,14 +258,6 @@
     },
     {
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
-      "out_degree": 12
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "out_degree": 12
-    },
-    {
-      "slug": "the-reality-distortion-field-names-the-closed-map",
       "out_degree": 12
     },
     {
@@ -281,6 +281,10 @@
       "out_degree": 10
     },
     {
+      "slug": "closed-reality-in-the-pursuit-of-serendipity",
+      "out_degree": 10
+    },
+    {
       "slug": "individual-choices-as-the-only-causal-levers",
       "out_degree": 10
     },
@@ -294,10 +298,6 @@
     },
     {
       "slug": "causality-all-the-way",
-      "out_degree": 9
-    },
-    {
-      "slug": "closed-reality-in-the-pursuit-of-serendipity",
       "out_degree": 9
     },
     {
@@ -420,16 +420,17 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
-      "hash": "3a779afdb1e5",
+      "hash": "121fcfdd5920",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
         "the-scaffolding-we-forget",
         "hassabis-frontier-agi-premise",
         "why-mathematics-can-never-be-solved",
-        "escaping-the-sandbox-stays-inside-the-hold"
+        "escaping-the-sandbox-stays-inside-the-hold",
+        "open-vision-in-a-closed-arena"
       ]
     },
     {
@@ -618,9 +619,9 @@
       "slug": "closed-reality-in-the-pursuit-of-serendipity",
       "path": "content/posts/closed-reality-in-the-pursuit-of-serendipity.md",
       "title": "Closed Reality in the Pursuit of Serendipity",
-      "hash": "a2d52b7a3da9",
+      "hash": "ab8cdff33837",
       "in_degree": 3,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "openness-is-consistency",
@@ -630,7 +631,8 @@
         "the-scaffolding-we-forget",
         "a-new-deeper-look-at-antifragility",
         "the-reality-distortion-field-names-the-closed-map",
-        "clarity-isnt-a-state-you-arrive-at"
+        "clarity-isnt-a-state-you-arrive-at",
+        "open-vision-in-a-closed-arena"
       ]
     },
     {
@@ -1226,7 +1228,7 @@
       "path": "content/posts/open-vision-in-a-closed-arena.md",
       "title": "Open Vision in a Closed Arena",
       "hash": "778c106f4067",
-      "in_degree": 3,
+      "in_degree": 7,
       "out_degree": 8,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -1331,9 +1333,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "2bbbe9282e76",
+      "hash": "edc7b8e96579",
       "in_degree": 8,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1346,7 +1348,8 @@
         "fate-loves-irony-refined",
         "individual-choices-as-the-only-causal-levers",
         "self-rl-for-humans",
-        "clarity-isnt-a-state-you-arrive-at"
+        "clarity-isnt-a-state-you-arrive-at",
+        "open-vision-in-a-closed-arena"
       ]
     },
     {
@@ -1847,9 +1850,9 @@
       "slug": "the-reality-distortion-field-names-the-closed-map",
       "path": "content/posts/the-reality-distortion-field-names-the-closed-map.md",
       "title": "The Reality Distortion Field Names the Closed Map",
-      "hash": "1f420cbfbbcb",
+      "hash": "8e14faa67e39",
       "in_degree": 6,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "no-system-can-be-kept-closed",
@@ -1862,7 +1865,8 @@
         "the-scaffolding-we-forget",
         "reality-doesnt-invoice-by-committee",
         "what-works-is-the-belief",
-        "causality-stays-at-the-edge-that-steers"
+        "causality-stays-at-the-edge-that-steers",
+        "open-vision-in-a-closed-arena"
       ]
     },
     {
@@ -2343,6 +2347,12 @@
       "label": "Escaping the sandbox stays inside the hold"
     },
     {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open vision in a closed arena"
+    },
+    {
       "from": "amplification-paradox",
       "to": "the-ramble-within-the-ramble",
       "rel": "points_to",
@@ -2653,6 +2663,12 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open vision in a closed arena"
     },
     {
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -3501,6 +3517,12 @@
       "label": "Clarity isn’t a state you arrive at"
     },
     {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open vision in a closed arena"
+    },
+    {
       "from": "qian-yin-hou-guo",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -4057,6 +4079,12 @@
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open vision in a closed arena"
     },
     {
       "from": "the-scaffolding-we-forget-local-models-as-default",
