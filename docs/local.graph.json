@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-23T10:53:31.250Z",
+    "generated_at": "2026-07-23T11:53:43.133Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -12,18 +12,18 @@
       "docs/export-for-substack.md": "a0b53c416d33",
       "docs/export-for-x-article.md": "98005d2c0b49",
       "export/README.md": "b58f6146e1bb",
-      "assets/covers/STYLES.md": "34ebda80785b",
+      "assets/covers/STYLES.md": "47e2527bb006",
       "README.md": "5073027c3312",
       "docs/local-memory.md": "d107677229f5",
       "build.mjs": "3ccb3c756627",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "e2b4a8a003b3"
+      "MEMORY.md": "1b7b16171b9c"
     },
     "stats": {
-      "posts": 124,
-      "covers": 54,
+      "posts": 125,
+      "covers": 55,
       "trackers_listed": 12,
       "trackers_present": 12
     },
@@ -166,7 +166,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "e2b4a8a003b3",
+      "hash": "1b7b16171b9c",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -204,7 +204,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "34ebda80785b",
+      "hash": "47e2527bb006",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",

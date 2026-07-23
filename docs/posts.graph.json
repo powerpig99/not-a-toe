@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-23T11:29:06.433Z",
+    "generated_at": "2026-07-23T11:53:52.027Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -75,7 +75,7 @@
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "30d0dff879ba",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "1e8941668d9e",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "2bbbe9282e76",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "50b6d8bc0c01",
@@ -125,21 +125,21 @@
       "content/posts/what-always-listens-cannot-originate.md": "fd5ad97dafc5",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "0d108876c73b",
-      "content/posts/whatever-is-one-prompt-away.md": "8b97cdf3f4fe",
+      "content/posts/whatever-is-one-prompt-away.md": "73acd4322e4f",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "a814842d6a67",
       "content/posts/when-the-effect-authors-the-frame.md": "49097d2eb679",
       "content/posts/why-explanation-fails.md": "5fe163a22059",
-      "content/posts/why-mathematics-can-never-be-solved.md": "c4d4c4c3c4d3",
+      "content/posts/why-mathematics-can-never-be-solved.md": "098e4d04d830",
       "content/posts/you-cant-benchmark-the-fluid.md": "52dd7d058357",
       "content/posts/you-wu-zhi-bian.md": "e6b05b2e023b"
     },
     "stats": {
       "posts": 125,
-      "edges": 398,
-      "unique_directed": 392,
+      "edges": 400,
+      "unique_directed": 394,
       "missing_targets": 0,
-      "one_way": 276,
+      "one_way": 274,
       "isolated": 39,
       "posts_with_outbound": 58
     }
@@ -240,11 +240,19 @@
       "out_degree": 13
     },
     {
+      "slug": "why-mathematics-can-never-be-solved",
+      "out_degree": 13
+    },
+    {
       "slug": "closed-reality-in-benchmark-maxing",
       "out_degree": 12
     },
     {
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "out_degree": 12
+    },
+    {
+      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 12
     },
     {
@@ -256,15 +264,7 @@
       "out_degree": 12
     },
     {
-      "slug": "why-mathematics-can-never-be-solved",
-      "out_degree": 12
-    },
-    {
       "slug": "a-creation-cannot-replace-its-source",
-      "out_degree": 11
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 11
     },
     {
@@ -1307,14 +1307,15 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "1e8941668d9e",
+      "hash": "2bbbe9282e76",
       "in_degree": 7,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
         "the-path-drawn-one-step-at-a-time",
         "a-new-deeper-look-at-antifragility",
+        "whatever-is-one-prompt-away",
         "humans-tokens-and-the-scope-of-valuation",
         "efficiency-without-differentiation",
         "the-allocation-of-causal-power-in-validation",
@@ -2049,8 +2050,8 @@
       "slug": "whatever-is-one-prompt-away",
       "path": "content/posts/whatever-is-one-prompt-away.md",
       "title": "Whatever Is One Prompt Away",
-      "hash": "8b97cdf3f4fe",
-      "in_degree": 3,
+      "hash": "73acd4322e4f",
+      "in_degree": 5,
       "out_degree": 11,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -2132,9 +2133,9 @@
       "slug": "why-mathematics-can-never-be-solved",
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "Why Mathematics Can Never Be Solved",
-      "hash": "c4d4c4c3c4d3",
+      "hash": "098e4d04d830",
       "in_degree": 7,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
@@ -2146,6 +2147,7 @@
         "the-scaffolding-we-forget",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "you-cant-benchmark-the-fluid",
+        "whatever-is-one-prompt-away",
         "clarity-isnt-a-state-you-arrive-at",
         "the-ramble-within-the-ramble"
       ]
@@ -3356,6 +3358,12 @@
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever is one prompt away"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
       "to": "humans-tokens-and-the-scope-of-valuation",
       "rel": "points_to",
       "label": "Humans, tokens, and the scope of valuation"
@@ -4541,6 +4549,12 @@
       "to": "you-cant-benchmark-the-fluid",
       "rel": "points_to",
       "label": "You can’t benchmark the fluid"
+    },
+    {
+      "from": "why-mathematics-can-never-be-solved",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever is one prompt away"
     },
     {
       "from": "why-mathematics-can-never-be-solved",
