@@ -31,15 +31,20 @@ node scripts/publish-x-article.mjs <slug> --draft
 
 ## Publish (default)
 
-For normal publishing, just commit and push. GitHub Actions handles mtime restore and build:
+CI builds and deploys Pages on push to `main`. **Push is not live** until Actions finishes and the post URL returns 200.
+
+Full ship checklist (preflight → push → `gh run watch` → curl → Substack): [`content/posts/README.md`](content/posts/README.md) § Ship checklist.
 
 ```bash
 git add content/posts/<slug>.md
 git commit -m "Add <title> essay"
 git push origin main
+gh run watch --exit-status
+curl -sI "https://powerpig99.github.io/not-a-toe/posts/<slug>/" | head -1
+# if no run starts: gh workflow run deploy.yml --ref main
 ```
 
-## Local build (optional)
+## Local build (optional preflight)
 
 Run:
 
@@ -60,4 +65,4 @@ This generates `public/` with:
 - `posts.json` and `posts.jsonl` (machine-readable post index with source markdown URLs)
 - `sitemap.xml` and `robots.txt`
 
-Social preview image is referenced from `assets/toe-bang.png` via metadata URL. The same file is also copied into `public/apple-touch-icon.png` for iOS Safari “Add to Home Screen”.
+Do not commit `public/` as source of truth. Social preview image is referenced from `assets/toe-bang.png` via metadata URL. The same file is also copied into `public/apple-touch-icon.png` for iOS Safari “Add to Home Screen”.

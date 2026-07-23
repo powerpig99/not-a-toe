@@ -159,25 +159,74 @@ Optional but usual for new essays. **One file serves three surfaces:** this site
 
 Do not generate square, portrait, or 16:9 as the essay cover — keep one 20:9 asset for site, X Article cover, and Substack image. **Leave older (pre-20:9) covers as they are** unless the operator explicitly asks to regenerate that slug — no bulk re-crop or re-generate for aspect migration.
 
-## Ship (site)
+## Ship checklist (site)
 
-Default path: commit and push; GitHub Actions builds.
+**One source:** `content/posts/<slug>.md` (+ cover under `assets/covers/`).  
+**Build lives on CI:** push → GitHub Actions runs `node build.mjs` → deploys Pages.  
+**Do not** commit `public/` or treat `export/` as canon (`export/` is gitignored).  
+**Push ≠ live.** Source on `main` can be correct while Pages still serves the previous SHA. Do not claim published until the live URL returns 200.
+
+### 1. Preflight (local)
 
 ```bash
-# typical new essay
+node build.mjs
+# optional: open public/posts/<slug>/index.html
+# optional: node scripts/project-posts-graph.mjs  # missing_targets must stay 0
+```
+
+Local build is a check, not the publisher. Fix format/link/cover issues here before commit.
+
+### 2. Commit and push
+
+```bash
 git add content/posts/<slug>.md assets/covers/<slug>.jpg assets/covers/STYLES.md
+# plus any neighbor pointer edits in the same ship
 git commit -m "Add <title> essay"
 git push origin main
 ```
 
-Local check (optional):
+### 3. Wait for Actions (required)
 
 ```bash
-node build.mjs
-# open public/posts/<slug>/index.html
+gh run list --limit 3
+gh run watch --exit-status          # blocks until the latest run for this branch finishes
+# if no run appears within ~2 min after push:
+gh workflow run deploy.yml --ref main
+gh run watch --exit-status
 ```
 
-Do not commit `public/` or `export/` as source of truth (`export/` is gitignored).
+Workflow: [`.github/workflows/deploy.yml`](../../.github/workflows/deploy.yml) — `push` to `main` and `workflow_dispatch`. Manual dispatch is the escape hatch when push webhooks lag or fail to start.
+
+### 4. Verify live (required before “published”)
+
+```bash
+curl -sI "https://powerpig99.github.io/not-a-toe/posts/<slug>/" | head -1
+# expect: HTTP/2 200
+# optional: cover
+curl -sI "https://powerpig99.github.io/not-a-toe/covers/<slug>.jpg" | head -1
+```
+
+404 with a green local build almost always means **deploy has not finished** (or never started) — not a broken essay. Re-check step 3; do not re-architect the post.
+
+### 5. External surfaces (after live)
+
+| Surface | When | Command / doc |
+|---------|------|----------------|
+| Substack | After live (absolute links + cover URL need Pages) | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) · `node scripts/export-absolute-md.mjs <slug> --stdout \| pbcopy` |
+| X Article | Optional; live draft/publish tabled if enrollment blocked | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
+| Neighbor pointers | Usually `/sleep`; same session only if an older claim must be corrected now | [`docs/local-memory.md`](../../docs/local-memory.md) |
+
+### Copy-paste ship block
+
+```bash
+SLUG=<slug>
+node build.mjs
+git add content/posts/"$SLUG".md assets/covers/"$SLUG".jpg assets/covers/STYLES.md
+git commit -m "Add <title> essay"
+git push origin main
+gh run watch --exit-status || { gh workflow run deploy.yml --ref main && gh run watch --exit-status; }
+curl -sI "https://powerpig99.github.io/not-a-toe/posts/${SLUG}/" | head -1
+```
 
 ## New essay checklist
 
@@ -186,8 +235,8 @@ Do not commit `public/` or `export/` as source of truth (`export/` is gitignored
 3. [ ] Refine for mechanism language; fold any seed tweet into the lead so the essay stands alone.
 4. [ ] Add relative cross-links as axis pointers; verify slugs exist (`node scripts/project-posts-graph.mjs` → `missing_targets` must stay 0).
 5. [ ] Cover: new style per STYLES.md; **20:9** landscape; install 1280×576; update STYLES.md.
-6. [ ] Commit + push (or local `node build.mjs` first).
-7. [ ] If posting to Substack: follow [`docs/export-for-substack.md`](../../docs/export-for-substack.md).
+6. [ ] **Ship checklist** above: preflight → commit/push → `gh run watch` → live URL 200.
+7. [ ] If posting to Substack: only after live; follow [`docs/export-for-substack.md`](../../docs/export-for-substack.md).
 8. [ ] If posting as X Article: follow [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) (dry-run → `--draft` → review → publish).
 9. [ ] Neighbor review: deferred to project `/sleep` unless this draft **depends** on correcting an older claim now — then edit that neighbor in the same session (pointer only).
 
