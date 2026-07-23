@@ -119,8 +119,8 @@ Use the same file as the site cover: `assets/covers/<slug>.jpg`.
 
 | Rule | Detail |
 |------|--------|
-| Aspect | **16:9** landscape (X Article + in-stream safe; matches site install) |
-| Size | **1280×720** (or equivalent 16:9 resized to that) |
+| Aspect | **20:9** landscape (matches site install) |
+| Size | **1280×576** (or equivalent 20:9 resized to that) |
 | Source | One cover for site / Substack / X — see [`assets/covers/STYLES.md`](../assets/covers/STYLES.md) |
 
 Do not substitute a square, portrait, or profile-banner crop for Article cover. If the site cover is wrong aspect, fix the cover asset first; do not invent a second image only for X.
@@ -128,7 +128,7 @@ Do not substitute a square, portrait, or profile-banner crop for Article cover. 
 ## Checklist
 
 1. [ ] `content/posts/<slug>.md` final (relative links only).
-2. [ ] Cover at `assets/covers/<slug>.jpg` (16:9) if you want cover media on the Article.
+2. [ ] Cover at `assets/covers/<slug>.jpg` (20:9) if you want cover media on the Article.
 3. [ ] Credentials loaded (env or `~/.config/x-api/credentials.json`).
 4. [ ] X Premium active on the account that owns the access token.
 5. [ ] Dry-run → `--draft` → review → `--publish-id` (or `--publish` when confident).

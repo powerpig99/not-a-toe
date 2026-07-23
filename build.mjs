@@ -82,7 +82,7 @@ function findCoverForSlug(slug) {
         sourceUrl: absoluteSourceUrl(relativeSourcePath),
         mimeType: coverMimeType(fileName),
         width: 1280,
-        height: 720,
+        height: 576,
       };
     }
   }
@@ -742,7 +742,7 @@ function renderPost(post, newerPost, olderPost) {
   const navHtml = navLinks.length ? `<nav class="post-nav">${navLinks.join('')}</nav>` : '';
   const coverHtml = post.cover
     ? `<figure class="title-image">
-        <img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="${escapeHtml(post.title)}" width="1280" height="720" decoding="async">
+        <img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="${escapeHtml(post.title)}" width="1280" height="576" decoding="async">
       </figure>`
     : '';
 

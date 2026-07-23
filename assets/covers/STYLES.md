@@ -1,6 +1,6 @@
 # Cover styles
 
-Living inventory for essay covers in this folder. Filename = essay slug (`content/posts/<slug>.md` → `assets/covers/<slug>.jpg`). Install as landscape **16:9** JPEG (or jpeg/png/webp) at **1280×720** — the shared aspect for site, Substack featured image, and X Article cover.
+Living inventory for essay covers in this folder. Filename = essay slug (`content/posts/<slug>.md` → `assets/covers/<slug>.jpg`). Install as landscape **20:9** JPEG (or jpeg/png/webp) at **1280×576** — the shared aspect for site, Substack featured image, and X Article cover.
 
 | Related | Path |
 |---------|------|
@@ -21,12 +21,13 @@ Differentiation is on **style** (medium, print/photo tradition, palette discipli
 
 | Rule | Detail |
 |------|--------|
-| Aspect | **16:9** landscape only — X Article cover, Substack image, site og/title image share this file |
-| Size | **1280×720** install (generate at 16:9; 1600×900 is fine if resized to 1280×720 before install) |
+| Aspect | **20:9** landscape only — X Article cover, Substack image, site og/title image share this file |
+| Size | **1280×576** install (generate at 20:9; 1600×720 is fine if resized to 1280×576 before install) |
 | Text | None (no title, no logo, no legible caption) |
 | Fit | Concept reads the essay’s cut; style is independent of other covers |
-| Not | Square, portrait, 3:1 profile-banner, or ultra-wide crop-only banners as the essay cover |
+| Not | Square, portrait, 16:9, 3:1 profile-banner, or other non-20:9 crops as the essay cover |
 | After generate | Install as `<slug>.jpg`, update Inventory + Style families below |
+| Legacy assets | Keep older covers as installed (many are 16:9). Do **not** bulk-regenerate or re-crop them for 20:9. Regenerate a legacy cover only when the operator explicitly asks for that slug. Site CSS uses `object-fit: cover` in a 20:9 box, so 16:9 files display with a mild center crop until replaced. |
 
 ## Style families (used)
 
@@ -74,6 +75,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Persian miniature illumination** | Aged ivory parchment, lapis–vermillion–malachite jewel planes, burnished gold borders and path, flat pavilion lattice | `escaping-the-sandbox-stays-inside-the-hold` |
 | **Drypoint cartographic plate** | Warm ivory rag paper, sepia iron-gall drypoint, incomplete map with grid continuing past torn edge, field-lines from stylus, plate tone | `the-reality-distortion-field-names-the-closed-map` |
 | **Comic halftone / Ben-Day dots** | Cream newsprint, cyan–magenta–black process dots, slight misregistration, graphic speech-mass vs rain on cracked basin | `reality-is-the-minds-ongoing-realization` |
+| **Sandblasted glass etching** | Frosted dark glass panel, teal–amber luminous path, grain, museum side light; opened circuit with third node | `therapy-opens-the-feedback-loop` |
 
 ## Inventory (by slug)
 
@@ -121,6 +123,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-ramble-within-the-ramble` | Anaglyph red-cyan stereo graphic |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
+| `therapy-opens-the-feedback-loop` | Sandblasted glass etching |
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
 | `what-always-listens-cannot-originate` | Ukiyo-e / nishiki-e |
@@ -147,7 +150,7 @@ Not exhaustive. Prefer something not in Style families above.
 1. Open this file; list families already used.
 2. Choose a **new** family (from Unused candidates or invent).
 3. Prompt for that medium explicitly; ban crowded defaults (“dark abstract chalk,” “risograph red,” “cinematic fog cube”) unless the essay has no cover and you are replacing a style (then update the row).
-4. Generate at **16:9** (`aspect_ratio: "16:9"` when using image tools); resize to 1280×720 if needed; save as `assets/covers/<slug>.jpg`.
+4. Generate at **20:9** (`aspect_ratio: "20:9"` when using image tools); resize to 1280×576 if needed; save as `assets/covers/<slug>.jpg`.
 5. Append the slug to Inventory and the family row (or add a new Style families row).
 6. If a candidate from Unused was taken, move it into Style families and drop it from Unused.
 

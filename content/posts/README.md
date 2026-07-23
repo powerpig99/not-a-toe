@@ -24,7 +24,7 @@ One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit 
 
 ```text
 content/posts/<slug>.md          # source (this folder)
-assets/covers/<slug>.jpg         # optional 16:9 / 1280×720 (site + Substack + X Article)
+assets/covers/<slug>.jpg         # optional 20:9 / 1280×576 (site + Substack + X Article)
 export/<slug>.md                 # generated paste projection (gitignored)
 public/posts/<slug>/index.html   # build output only
 ```
@@ -153,11 +153,11 @@ Optional but usual for new essays. **One file serves three surfaces:** this site
 | X Article | Uploaded as `cover_media` via [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 
 1. Read [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md) — pick a **style family not already used**.
-2. Generate landscape art at **16:9** (X Article / in-stream safe; also Substack-friendly), no text. Install as `assets/covers/<slug>.jpg` at **1280×720** (or 1600×900 resized down to 1280×720 for the site install).
+2. Generate landscape art at **20:9** (site default; also Substack / X Article), no text. Install as `assets/covers/<slug>.jpg` at **1280×576** (or 1600×720 resized down to 1280×576 for the site install).
 3. Update STYLES.md inventory and family tables.
 4. Build copies cover to `public/covers/` and uses it for `og:image` / X card when present.
 
-Do not generate square, portrait, or ultra-wide banners as the essay cover — those crop badly when the same asset is reused as X Article cover and Substack image.
+Do not generate square, portrait, or 16:9 as the essay cover — keep one 20:9 asset for site, X Article cover, and Substack image. **Leave older (pre-20:9) covers as they are** unless the operator explicitly asks to regenerate that slug — no bulk re-crop or re-generate for aspect migration.
 
 ## Ship (site)
 
@@ -185,7 +185,7 @@ Do not commit `public/` or `export/` as source of truth (`export/` is gitignored
 2. [ ] Section headings name each cut — no generic slots (*What Remains*, *Conclusion*, *Summary*, …).
 3. [ ] Refine for mechanism language; fold any seed tweet into the lead so the essay stands alone.
 4. [ ] Add relative cross-links as axis pointers; verify slugs exist (`node scripts/project-posts-graph.mjs` → `missing_targets` must stay 0).
-5. [ ] Cover: new style per STYLES.md; **16:9** landscape; install 1280×720; update STYLES.md.
+5. [ ] Cover: new style per STYLES.md; **20:9** landscape; install 1280×576; update STYLES.md.
 6. [ ] Commit + push (or local `node build.mjs` first).
 7. [ ] If posting to Substack: follow [`docs/export-for-substack.md`](../../docs/export-for-substack.md).
 8. [ ] If posting as X Article: follow [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) (dry-run → `--draft` → review → publish).

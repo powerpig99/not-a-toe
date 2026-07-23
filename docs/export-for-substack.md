@@ -69,7 +69,7 @@ There is no official auto-publish API in this repo. Operator paste is intentiona
 3. **Substack editor**
    - New post (or update existing).
    - Paste markdown (or paste then fix formatting if the editor mangles headings).
-   - **Cover / social image:** upload `assets/covers/<slug>.jpg` locally (16:9 landscape, same file as site + X Article cover), or use the cover URL the script printed if Substack accepts remote images. Prefer re-upload so Substack holds its own copy (X/GitHub hotlink quirks).
+   - **Cover / social image:** upload `assets/covers/<slug>.jpg` locally (20:9 landscape, same file as site + X Article cover), or use the cover URL the script printed if Substack accepts remote images. Prefer re-upload so Substack holds its own copy (X/GitHub hotlink quirks).
    - Title: usually the same as `# Title` in the file; Substack title field is separate from body — paste body **without** duplicating a second H1 if the editor already has the title, or paste full file and delete the duplicate H1 as needed.
    - Subtitle: optional; can reuse the italic one-sentence line from the open.
 4. **Publish** on Substack when ready. Site and Substack are parallel surfaces, not a single CMS.
@@ -86,7 +86,7 @@ Subtitle italic line can stay as the first paragraph under the title.
 ## Checklist (Substack)
 
 1. [ ] `content/posts/<slug>.md` final (relative links only).
-2. [ ] Cover at `assets/covers/<slug>.jpg` if used (16:9 shared with site + X Article); site pushed so cover URL resolves.
+2. [ ] Cover at `assets/covers/<slug>.jpg` if used (20:9 shared with site + X Article); site pushed so cover URL resolves.
 3. [ ] `node scripts/export-absolute-md.mjs <slug>` (or `--stdout | pbcopy`).
 4. [ ] Paste into Substack; fix H1 / cover; publish.
 5. [ ] Do not commit `export/` (gitignored). Do not copy absolute URLs back into `content/posts/`.
