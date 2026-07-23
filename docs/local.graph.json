@@ -3,27 +3,27 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-22T17:13:06.293Z",
+    "generated_at": "2026-07-23T07:08:37.043Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "c2792bfad4be",
-      "docs/essay-format.md": "c0db1af77d7f",
-      "docs/export-for-substack.md": "4e99a5ee89ef",
-      "docs/export-for-x-article.md": "ae09a55c5e8b",
+      "content/posts/README.md": "302956fe184c",
+      "docs/essay-format.md": "add57bdb30a3",
+      "docs/export-for-substack.md": "a0b53c416d33",
+      "docs/export-for-x-article.md": "98005d2c0b49",
       "export/README.md": "b58f6146e1bb",
-      "assets/covers/STYLES.md": "9568edeb3bfd",
-      "README.md": "ec4ab5b1e77a",
+      "assets/covers/STYLES.md": "50a64508fc0a",
+      "README.md": "6f06b2175886",
       "docs/local-memory.md": "d107677229f5",
-      "build.mjs": "562dfd2445e8",
+      "build.mjs": "3ca9c64086f3",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "fc8c3c8d5a32"
+      "MEMORY.md": "c9c43b3ce349"
     },
     "stats": {
-      "posts": 120,
-      "covers": 50,
+      "posts": 121,
+      "covers": 51,
       "trackers_listed": 12,
       "trackers_present": 12
     },
@@ -166,7 +166,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "fc8c3c8d5a32",
+      "hash": "c9c43b3ce349",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -192,7 +192,7 @@
       "path": "build.mjs",
       "owns": "site-build",
       "exists": true,
-      "hash": "562dfd2445e8",
+      "hash": "3ca9c64086f3",
       "summary": "binary/script",
       "headings": [],
       "layer": "tracker"
@@ -204,7 +204,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "9568edeb3bfd",
+      "hash": "50a64508fc0a",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -225,7 +225,7 @@
       "path": "docs/export-for-substack.md",
       "owns": "substack-export",
       "exists": true,
-      "hash": "4e99a5ee89ef",
+      "hash": "a0b53c416d33",
       "summary": "Living guide for projecting a site post into markdown with **absolute** links, without changing the source of truth.",
       "headings": [
         "Export for Substack (and other external paste)",
@@ -278,7 +278,7 @@
       "path": "docs/export-for-x-article.md",
       "owns": "x-article-export",
       "exists": true,
-      "hash": "ae09a55c5e8b",
+      "hash": "98005d2c0b49",
       "summary": "Living guide for projecting a site post into a native **X Article** without changing the source of truth.",
       "headings": [
         "Export / publish for X Articles",
@@ -303,7 +303,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "c0db1af77d7f",
+      "hash": "add57bdb30a3",
       "summary": "Use this exact spec when drafting essays for this site.",
       "headings": [
         "Essay Formatting Guide",
@@ -356,7 +356,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "c2792bfad4be",
+      "hash": "302956fe184c",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",
@@ -381,7 +381,7 @@
       "path": "README.md",
       "owns": "index",
       "exists": true,
-      "hash": "ec4ab5b1e77a",
+      "hash": "6f06b2175886",
       "summary": "## Authoring contract Guides (read these instead of re-deriving the workflow each time): | Topic | Doc | |-------|-----| | Posts: structure, voice, cross-links, ship checklist | [`…",
       "headings": [
         "Not a ToE",

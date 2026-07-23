@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-22T17:13:06.175Z",
+    "generated_at": "2026-07-23T07:08:36.923Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -33,7 +33,7 @@
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
-      "content/posts/emotional-support-as-causal-interference.md": "83a26c8a6261",
+      "content/posts/emotional-support-as-causal-interference.md": "80c6a3433fec",
       "content/posts/empathy-as-projection-collapse.md": "1a2d5bf13c31",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "36e346196287",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
@@ -47,7 +47,7 @@
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "ccd881c3fcee",
-      "content/posts/help-is-half-the-problem.md": "56d2c83eae1d",
+      "content/posts/help-is-half-the-problem.md": "ab76bdb2d800",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
@@ -116,27 +116,28 @@
       "content/posts/the_analogy_trap.md": "332d8430491a",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
+      "content/posts/therapy-opens-the-feedback-loop.md": "2a57cc4c2249",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "036c2f91a81c",
       "content/posts/two-failures-of-trace.md": "fc0851d22465",
       "content/posts/what-always-listens-cannot-originate.md": "15c7acd1b801",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "0d108876c73b",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
-      "content/posts/when-need-stops-being-the-measure.md": "e0b2c905e534",
-      "content/posts/when-the-effect-authors-the-frame.md": "bb6b148653f5",
+      "content/posts/when-need-stops-being-the-measure.md": "a814842d6a67",
+      "content/posts/when-the-effect-authors-the-frame.md": "49097d2eb679",
       "content/posts/why-explanation-fails.md": "5fe163a22059",
       "content/posts/why-mathematics-can-never-be-solved.md": "c4d4c4c3c4d3",
       "content/posts/you-cant-benchmark-the-fluid.md": "52dd7d058357",
       "content/posts/you-wu-zhi-bian.md": "7362a727e3c4"
     },
     "stats": {
-      "posts": 120,
-      "edges": 334,
-      "unique_directed": 328,
+      "posts": 121,
+      "edges": 344,
+      "unique_directed": 338,
       "missing_targets": 0,
-      "one_way": 250,
+      "one_way": 252,
       "isolated": 40,
-      "posts_with_outbound": 48
+      "posts_with_outbound": 49
     }
   },
   "hubs_in": [
@@ -150,7 +151,7 @@
     },
     {
       "slug": "self-rl-for-humans",
-      "in_degree": 14
+      "in_degree": 15
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -165,15 +166,15 @@
       "in_degree": 12
     },
     {
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 12
+    },
+    {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "in_degree": 11
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 11
-    },
-    {
-      "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 11
     },
     {
@@ -714,11 +715,12 @@
       "slug": "emotional-support-as-causal-interference",
       "path": "content/posts/emotional-support-as-causal-interference.md",
       "title": "Emotional Support as Causal Interference",
-      "hash": "83a26c8a6261",
-      "in_degree": 3,
-      "out_degree": 1,
+      "hash": "80c6a3433fec",
+      "in_degree": 4,
+      "out_degree": 2,
       "links_out": [
-        "when-the-effect-authors-the-frame"
+        "when-the-effect-authors-the-frame",
+        "therapy-opens-the-feedback-loop"
       ]
     },
     {
@@ -890,10 +892,11 @@
       "slug": "help-is-half-the-problem",
       "path": "content/posts/help-is-half-the-problem.md",
       "title": "Help Is Half the Problem",
-      "hash": "56d2c83eae1d",
-      "in_degree": 2,
-      "out_degree": 1,
+      "hash": "ab76bdb2d800",
+      "in_degree": 3,
+      "out_degree": 2,
       "links_out": [
+        "therapy-opens-the-feedback-loop",
         "when-the-effect-authors-the-frame"
       ]
     },
@@ -1358,7 +1361,7 @@
       "path": "content/posts/self-rl-for-humans.md",
       "title": "What Looks Like RL for AIs Is Self-RL for Humans",
       "hash": "0af62aecf5bc",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 0,
       "links_out": []
     },
@@ -1451,7 +1454,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
       "hash": "b15ca5b77d8a",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 1,
       "links_out": [
         "the-ramble-within-the-ramble"
@@ -1838,6 +1841,24 @@
       "links_out": []
     },
     {
+      "id": "post:therapy-opens-the-feedback-loop",
+      "kind": "post",
+      "slug": "therapy-opens-the-feedback-loop",
+      "path": "content/posts/therapy-opens-the-feedback-loop.md",
+      "title": "Therapy Opens the Feedback Loop",
+      "hash": "2a57cc4c2249",
+      "in_degree": 4,
+      "out_degree": 6,
+      "links_out": [
+        "when-the-effect-authors-the-frame",
+        "emotional-support-as-causal-interference",
+        "the-allocation-of-causal-power-in-validation",
+        "help-is-half-the-problem",
+        "self-rl-for-humans",
+        "when-need-stops-being-the-measure"
+      ]
+    },
+    {
       "id": "post:token-efficiency-emulation-and-the-unclosable-gap",
       "kind": "post",
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
@@ -1954,13 +1975,14 @@
       "slug": "when-need-stops-being-the-measure",
       "path": "content/posts/when-need-stops-being-the-measure.md",
       "title": "When Need Stops Being the Measure",
-      "hash": "e0b2c905e534",
-      "in_degree": 1,
-      "out_degree": 5,
+      "hash": "a814842d6a67",
+      "in_degree": 2,
+      "out_degree": 6,
       "links_out": [
         "emotional-support-as-causal-interference",
         "ownership-and-self-worthiness",
         "the-scaffolding-we-forget",
+        "therapy-opens-the-feedback-loop",
         "help-is-half-the-problem",
         "mei-you-pu-du-zhi-you-zi-du"
       ]
@@ -1971,15 +1993,16 @@
       "slug": "when-the-effect-authors-the-frame",
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "When the Effect Authors the Frame",
-      "hash": "bb6b148653f5",
-      "in_degree": 2,
-      "out_degree": 5,
+      "hash": "49097d2eb679",
+      "in_degree": 3,
+      "out_degree": 6,
       "links_out": [
         "emotional-support-as-causal-interference",
         "when-need-stops-being-the-measure",
         "help-is-half-the-problem",
         "mei-you-pu-du-zhi-you-zi-du",
-        "the-compassion-is-the-mechanism-of-obscuration"
+        "the-compassion-is-the-mechanism-of-obscuration",
+        "therapy-opens-the-feedback-loop"
       ]
     },
     {
@@ -2514,6 +2537,12 @@
       "label": "When the effect authors the frame"
     },
     {
+      "from": "emotional-support-as-causal-interference",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy opens the feedback loop"
+    },
+    {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
@@ -2614,6 +2643,12 @@
       "to": "the-surface-beneath",
       "rel": "points_to",
       "label": "The Surface Beneath"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy opens the feedback loop"
     },
     {
       "from": "help-is-half-the-problem",
@@ -3660,6 +3695,42 @@
       "label": "The Minimizing Path"
     },
     {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the effect authors the frame"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional support as causal interference"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help is half the problem"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "Self-RL for humans"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "when-need-stops-being-the-measure",
+      "rel": "points_to",
+      "label": "When need stops being the measure"
+    },
+    {
       "from": "token-efficiency-emulation-and-the-unclosable-gap",
       "to": "efficiency-without-differentiation",
       "rel": "points_to",
@@ -3925,6 +3996,12 @@
     },
     {
       "from": "when-need-stops-being-the-measure",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy opens the feedback loop"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
       "to": "help-is-half-the-problem",
       "rel": "points_to",
       "label": "Help is half the problem"
@@ -3964,6 +4041,12 @@
       "to": "the-compassion-is-the-mechanism-of-obscuration",
       "rel": "points_to",
       "label": "The compassion is the mechanism of obscuration"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "therapy opens the feedback loop"
     },
     {
       "from": "why-explanation-fails",

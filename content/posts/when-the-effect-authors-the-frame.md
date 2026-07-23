@@ -36,7 +36,7 @@ Prevailing narratives function as cultural-scale effect-management.
 
 Aggregated feared outcomes are elevated into the ready-made prior that then dictates individual moves. Local discernment is pre-empted. The narrative does not merely influence from outside a still-open field; it supplies the polarity in which the felt or projected state is already primary, so that non-modulation appears as the harm. Biology, attachment science, and risk of isolation or intervention are real traces. Under the narrative they are reorganized as warrants for the prior rather than as data to be read against capacity and conditions in this encounter. [The compassion is the mechanism of obscuration](../the-compassion-is-the-mechanism-of-obscuration/) tracks the same sealing at another scale: the moral frame converts mechanistic distinction into apparent cruelty, so that questioning management of the register registers as failure of care.
 
-That sealing is stabilized residue patterning which alignments are available to later acts. The parent who still reads capacity against conditions is not inventing a private ethics. They are refusing to let the ready-made prior finish the sorting before contact begins.
+That sealing is stabilized residue patterning which alignments are available to later acts. The parent who still reads capacity against conditions is not inventing a private ethics. They are refusing to let the ready-made prior finish the sorting before contact begins. Ordinary adult difficulty registered as clinical issue requiring professional modulation of the felt state is the same prior under institutional costume — [therapy opens the feedback loop](../therapy-opens-the-feedback-loop/).
 
 ## Discernment stays local; the substitution can be noticed
 
