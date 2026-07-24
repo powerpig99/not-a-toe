@@ -47,4 +47,4 @@ What the architecture achieves is reduction of unnecessary drag. Reasoning can b
 
 The result is an external cortex that stays dynamic and portable — capable of growing in coherence with the operator’s own clarity rather than imposing a frozen image of allowed reality. It is the closest the image can come while remaining image: one-step instrument, regenerable from priors, open at the edge.
 
-Shared as part of the [Ontos](https://github.com/powerpig99/ontos) project. Ideas free with or without credit. Code under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Regenerate from priors.
+Shared as part of the [Ontos](https://github.com/powerpig99/ontos) project. Ideas free with or without credit. Code under [MIT](https://github.com/powerpig99/ontos/blob/main/LICENSE). Regenerate from priors.
