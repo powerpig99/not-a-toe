@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-24T14:19:39.772Z",
+    "generated_at": "2026-07-24T15:04:38.596Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -52,7 +52,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "35d7b3f4354a",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "59bfb2b61324",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "028d8e0a29ac",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -75,7 +75,7 @@
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "27e754156200",
       "content/posts/perception-perspective-refined.md": "726559169efb",
-      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "30d0dff879ba",
+      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "1ebe4417aeab",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/production-consumption-and-the-minds-distinction.md": "edc7b8e96579",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
@@ -89,7 +89,7 @@
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "77b9c3fa364d",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "b15ca5b77d8a",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "f7bd2aa04adb",
       "content/posts/the-brain-does-not-backprop.md": "1969898cd8c6",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "401e128e06ad",
@@ -138,10 +138,10 @@
     },
     "stats": {
       "posts": 127,
-      "edges": 422,
-      "unique_directed": 415,
+      "edges": 425,
+      "unique_directed": 418,
       "missing_targets": 0,
-      "one_way": 281,
+      "one_way": 278,
       "isolated": 39,
       "posts_with_outbound": 60
     }
@@ -270,6 +270,10 @@
       "out_degree": 11
     },
     {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "out_degree": 11
+    },
+    {
       "slug": "whatever-is-one-prompt-away",
       "out_degree": 11
     },
@@ -283,10 +287,6 @@
     },
     {
       "slug": "closed-reality-in-the-pursuit-of-serendipity",
-      "out_degree": 10
-    },
-    {
-      "slug": "individual-choices-as-the-only-causal-levers",
       "out_degree": 10
     },
     {
@@ -904,7 +904,7 @@
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
       "hash": "99b0a244d8e2",
-      "in_degree": 0,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -968,13 +968,14 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "35d7b3f4354a",
+      "hash": "59bfb2b61324",
       "in_degree": 7,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
         "the-allocation-of-causal-power-in-validation",
+        "having-more-is-never-the-cause",
         "production-consumption-and-the-minds-distinction",
         "fate-loves-irony-refined",
         "ownership-and-self-worthiness",
@@ -1322,12 +1323,13 @@
       "slug": "performative-hindsight-that-pretends-to-be-foresight",
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "Performative Hindsight That Pretends to Be Foresight",
-      "hash": "30d0dff879ba",
+      "hash": "1ebe4417aeab",
       "in_degree": 4,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "mei-you-pu-du-zhi-you-zi-du",
+        "having-more-is-never-the-cause",
         "the-frame-that-conceals-improvement",
         "the-allocation-of-causal-power-in-validation",
         "the-meaning-of-life-is-in-the-drafting",
@@ -1557,11 +1559,12 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "b15ca5b77d8a",
+      "hash": "f7bd2aa04adb",
       "in_degree": 15,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
-        "the-ramble-within-the-ramble"
+        "the-ramble-within-the-ramble",
+        "having-more-is-never-the-cause"
       ]
     },
     {
@@ -2907,6 +2910,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "Production, consumption, and the Mind’s distinction"
@@ -3471,6 +3480,12 @@
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-frame-that-conceals-improvement",
       "rel": "points_to",
       "label": "the frame that conceals improvement"
@@ -3708,6 +3723,12 @@
       "to": "the-ramble-within-the-ramble",
       "rel": "points_to",
       "label": "The ramble within the ramble"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
     },
     {
       "from": "the-coordinators-category-error",
