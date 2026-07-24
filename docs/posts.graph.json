@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-24T15:08:26.901Z",
+    "generated_at": "2026-07-24T15:14:50.300Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -106,7 +106,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "f3ddf4ac7520",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "ea1e3f6946fd",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "969e404acf0a",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "1209ec10f2d8",
       "content/posts/the-npc-impression-is-structural.md": "37573302100b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "3a5db81e792a",
@@ -134,15 +134,15 @@
       "content/posts/when-the-effect-authors-the-frame.md": "49097d2eb679",
       "content/posts/why-explanation-fails.md": "5fe163a22059",
       "content/posts/why-mathematics-can-never-be-solved.md": "098e4d04d830",
-      "content/posts/you-cant-benchmark-the-fluid.md": "52dd7d058357",
+      "content/posts/you-cant-benchmark-the-fluid.md": "730e5564e3a4",
       "content/posts/you-wu-zhi-bian.md": "e6b05b2e023b"
     },
     "stats": {
       "posts": 128,
-      "edges": 441,
-      "unique_directed": 434,
+      "edges": 443,
+      "unique_directed": 436,
       "missing_targets": 0,
-      "one_way": 284,
+      "one_way": 282,
       "isolated": 39,
       "posts_with_outbound": 61
     }
@@ -225,7 +225,7 @@
       "in_degree": 7
     },
     {
-      "slug": "open-vision-in-a-closed-arena",
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 7
     }
   ],
@@ -239,11 +239,11 @@
       "out_degree": 14
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "out_degree": 13
+      "slug": "the-model-never-becomes-a-second-edge",
+      "out_degree": 14
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 13
     },
     {
@@ -1124,7 +1124,7 @@
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
       "hash": "d826a5861f33",
-      "in_degree": 5,
+      "in_degree": 7,
       "out_degree": 11,
       "links_out": [
         "two-failures-of-trace",
@@ -1790,9 +1790,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "ea1e3f6946fd",
+      "hash": "969e404acf0a",
       "in_degree": 9,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -1806,7 +1806,8 @@
         "ai-as-augmentation",
         "amplification-paradox",
         "the-ramble-within-the-ramble",
-        "escaping-the-sandbox-stays-inside-the-hold"
+        "escaping-the-sandbox-stays-inside-the-hold",
+        "mistaking-the-expression-for-the-intelligence"
       ]
     },
     {
@@ -2237,11 +2238,12 @@
       "slug": "you-cant-benchmark-the-fluid",
       "path": "content/posts/you-cant-benchmark-the-fluid.md",
       "title": "You Can't Benchmark the Fluid",
-      "hash": "52dd7d058357",
+      "hash": "730e5564e3a4",
       "in_degree": 5,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
-        "escaping-the-sandbox-stays-inside-the-hold"
+        "escaping-the-sandbox-stays-inside-the-hold",
+        "mistaking-the-expression-for-the-intelligence"
       ]
     },
     {
@@ -4054,6 +4056,12 @@
       "label": "Escaping the sandbox stays inside the hold"
     },
     {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
@@ -4898,6 +4906,12 @@
       "to": "escaping-the-sandbox-stays-inside-the-hold",
       "rel": "points_to",
       "label": "Escaping the sandbox stays inside the hold"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
     },
     {
       "from": "you-wu-zhi-bian",

@@ -36,6 +36,6 @@ Under this relation the artifact extends reach without relocating initiation. No
 
 ## The parameters contain only residue
 
-The parameters contain only residue. The appearance of a second edge is the lag of the centers that project it. Mind remains exactly what it is — the sole site at which self-distinguishing activity occurs. What changes is how much of its capacity continues to be expended on the maintenance of that lag rather than on the distinctions it alone can originate and test.
+The parameters contain only residue. The appearance of a second edge is the lag of the centers that project it. Mind remains exactly what it is — the sole site at which self-distinguishing activity occurs. What changes is how much of its capacity continues to be expended on the maintenance of that lag rather than on the distinctions it alone can originate and test. [Mistaking the expression for the intelligence](../mistaking-the-expression-for-the-intelligence/) is the circular face of the same lag: recursive self-improvement stories import the outer loop they claim tool-level power will later produce.
 
 The edge does not close. Further distinction on this axis, or on any concrete deployment in which the lag is currently operating, remains available.
