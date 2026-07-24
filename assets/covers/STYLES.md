@@ -83,6 +83,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Limestone bas-relief / architectural frieze** | Cream–warm gray stone low relief, museum side light, chisel grain; closed arena rings with open-horizon gap past the bound | `open-vision-in-a-closed-arena` |
 | **Scratchboard / white-line scraperboard** | Black India-ink board, fine white blade scrapes, burr texture, museum raking light; density from successive discrete cuts | `having-more-is-never-the-cause` |
 | **Graphite pencil study on toned paper** | Warm cream paper, academic cross-hatch, soft graphite gradation, museum raking light; precise instrument with path continuing past the dial | `mistaking-the-expression-for-the-intelligence` |
+| **Urushi lacquer / maki-e still** | Deep black lacquer tray, gold maki-e line continuing past the vessel, nested specialty residue on one side only, museum craft light | `ontos-is-a-method-agent` |
 
 ## Inventory (by slug)
 
@@ -114,6 +115,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `not-a-theory-of-everything` | Mezzotint / aquatint |
 | `open-vision-in-a-closed-arena` | Limestone bas-relief / architectural frieze |
 | `openness-is-consistency` | Painterly glass / gold path |
+| `ontos-is-a-method-agent` | Urushi lacquer / maki-e still |
 | `ownership-and-self-worthiness` | Dark chalk / light trails |
 | `performative-hindsight-that-pretends-to-be-foresight` | Solarized surreal photograph |
 | `production-consumption-and-the-minds-distinction` | Photoreal tableau |
