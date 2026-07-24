@@ -12,7 +12,7 @@ That presentation treats looping and graphing as successive instruments on a tim
 
 ## Mind is the irreducible prior
 
-Self-distinguishing activity occurs — uncaused, unceasing. That is Mind. Call it the edge, the prior; the name adds nothing. It cannot be denied without performing it. No ground lies beneath it, and none is required.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. It cannot be denied without performing it. No ground lies beneath it, and none is required.
 
 Mind is not produced by biological machinery, and artificial systems do not generate or instantiate it. What can be engineered, scaled, scheduled, and graph-edited is residue: externalized traces through which centers extend reach and bandwidth. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/). Every named loop and every named graph is already that activity under a particular hold — not a ladder by which non-mind climbs into Mind.
 

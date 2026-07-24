@@ -6,7 +6,7 @@ Steve Jobs and those like him did not bend a fixed reality. They chose to be the
 
 ## The closed assumption after the fact
 
-Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind. Every act draws a bound; the next act draws again. Residue of earlier acts is position. Observation holds effect; the cause that produced it remains one step ahead. [The path drawn one step at a time](../the-path-drawn-one-step-at-a-time/) is that asymmetry as sequence.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every act draws a bound; the next act draws again. Residue of earlier acts is position. Observation holds effect; the cause that produced it remains one step ahead. [The path drawn one step at a time](../the-path-drawn-one-step-at-a-time/) is that asymmetry as sequence.
 
 A consensus map of constraints is residue: prior distinctions densified into shared alignment about what counts as feasible. The map is real at the acts that drew it. It densifies coordination. It is not exhaustive ground of what further acts can cause. [No system can be kept closed](../no-system-can-be-kept-closed/) is the same remainder wherever a finite hold is treated as final: structure stays usable; exhaustiveness does not travel with it.
 

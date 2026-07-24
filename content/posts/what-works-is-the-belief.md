@@ -12,7 +12,7 @@ That surface invites a policy debate: tighten further, loosen, harmonize, ban op
 
 ## What a ban is
 
-Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind. Every ban is a hold: selected bounds on which alignments later acts find easy or costly. The hold is real at the act that draws it. It patterns availability among centers that treat it as ground. It does not relocate the edge that continues past it.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every ban is a hold: selected bounds on which alignments later acts find easy or costly. The hold is real at the act that draws it. It patterns availability among centers that treat it as ground. It does not relocate the edge that continues past it.
 
 A prohibition therefore does not operate as a law of the field. It operates as a belief held until it hardens into procedure. Those who believe the ban works treat the procedure as the structure of the situation: the task is closed, the model refuses, the comparison is illegitimate. Capacity under that belief thins on the refused axis — not because the activity has stopped, but because this locus has installed a ceiling and is living under it. [Sovereignty, belief, and the generation of regulatory structures](../sovereignty-belief-and-regulatory-structures/) is the same cut one step earlier: individual sovereignty cannot be delegated; what generates the SRO and the state face is the collective expression of the belief that it can. Here the generated face is the ban itself. The belief is the prior; the policy is its stabilization.
 

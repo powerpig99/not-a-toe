@@ -6,7 +6,7 @@
 
 ## The real entry point is the Mind
 
-Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind. Tools are externalized traces that extend reach; they do not relocate the edge into the artifact. The real entry point for any task is that activity — the Mind choosing instruments — not a layer of the stack that has been elevated to default. Local access and direct access to raw frontier models are both available under that choice. Hybrid and shifting arrangements are available as well. None of them is the entry point itself. [Intelligence belongs only to the Mind](../intelligence-belongs-only-to-the-mind/) holds the activity as prior; [Self-RL for humans](../self-rl-for-humans/) keeps the same discipline for densified media: bandwidth expands; initiation does not transfer.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Tools are externalized traces that extend reach; they do not relocate the edge into the artifact. The real entry point for any task is that activity — the Mind choosing instruments — not a layer of the stack that has been elevated to default. Local access and direct access to raw frontier models are both available under that choice. Hybrid and shifting arrangements are available as well. None of them is the entry point itself. [Intelligence belongs only to the Mind](../intelligence-belongs-only-to-the-mind/) holds the activity as prior; [Self-RL for humans](../self-rl-for-humans/) keeps the same discipline for densified media: bandwidth expands; initiation does not transfer.
 
 ## Capacity held open
 

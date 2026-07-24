@@ -84,6 +84,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Scratchboard / white-line scraperboard** | Black India-ink board, fine white blade scrapes, burr texture, museum raking light; density from successive discrete cuts | `having-more-is-never-the-cause` |
 | **Graphite pencil study on toned paper** | Warm cream paper, academic cross-hatch, soft graphite gradation, museum raking light; precise instrument with path continuing past the dial | `mistaking-the-expression-for-the-intelligence` |
 | **Urushi lacquer / maki-e still** | Deep black lacquer tray, gold maki-e line continuing past the vessel, nested specialty residue on one side only, museum craft light | `ontos-is-a-method-agent` |
+| **Charcoal wipe / continuous redraw on newsprint** | Gray newsprint tooth, charcoal path re-drawn over wiped ghost trails, closed catalog of unjoined dots aside, raking side light | `the-real-scarcity-is-not-memory-but-continuous-re-tracing` |
 
 ## Inventory (by slug)
 
@@ -135,6 +136,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-question-that-installs-the-war` | Surreal desert allegory |
 | `the-reality-distortion-field-names-the-closed-map` | Drypoint cartographic plate |
 | `the-ramble-within-the-ramble` | Anaglyph red-cyan stereo graphic |
+| `the-real-scarcity-is-not-memory-but-continuous-re-tracing` | Charcoal wipe / continuous redraw on newsprint |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
 | `therapy-opens-the-feedback-loop` | Sandblasted glass etching |

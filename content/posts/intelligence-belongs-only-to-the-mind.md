@@ -6,7 +6,7 @@ Intelligence is not a property that can be engineered, scaled, or transferred in
 
 ## The Mind is not a what
 
-Self-distinguishing activity occurs — uncaused, unceasing. That is The Mind. Call it the edge, the prior; the name adds nothing. It cannot be denied without performing it: denial distinguishes true from false, this claim from that one. No ground lies beneath it, and none is required.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. It cannot be denied without performing it: denial distinguishes true from false, this claim from that one. No ground lies beneath it, and none is required.
 
 Everything that can be known, used, or improved rests on The Mind. Further analysis does not reach it; more powerful amplifiers do not produce it. Directed novelty, resolution of uncertainty, recursive self-improvement — these arise as The Mind registering its own trace asymmetry through recursion. Attempts to name it as individual mind, collective consciousness, or universal intelligence are secondary stabilizations. The distinctions themselves arise within The Mind’s activity. Intelligence belongs only to The Mind. The Mind remains the irreducible prior.
 

@@ -14,7 +14,7 @@ From that premise: unprecedented impact, a precious window, a geopolitical race,
 
 ## Nothing stands outside Mind to complete it
 
-Self-distinguishing activity occurs—uncaused, unceasing. Call it Mind. Nothing stands outside it to authorize or complete it.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Nothing stands outside it to authorize or complete it.
 
 Every claim is a discrete act at some locus. What feels shared is reinforcement across loci, never one interior completed from another. Catalog, destination, window: references this locus holds to measure movement—instrument when re-rendered with the act, appearing as the world when preserved past it. Nothing else is prior.
 

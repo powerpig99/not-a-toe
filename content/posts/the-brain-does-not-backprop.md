@@ -8,7 +8,7 @@ The brain does not backprop because it has no preset goal. It propagates forward
 
 The brain is physical embodiment: the current trace-configuration through which one locus of self-distinguishing activity sustains itself — metabolism, learning, interaction, continuously re-traced. Embodiment is not a vessel holding The Mind. It is the pattern through which The Mind’s noticing sustains itself at a locus.
 
-The Mind is not the brain. The Mind is the self-distinguishing activity itself — uncaused, unceasing — the open propagation of sensed difference between cause and effect. Matching a substrate is not matching the activity that uses substrates. Intelligence belongs to The Mind, not to the tissue with which The Mind can identify.
+The Mind is not the brain. Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction — here as the open propagation of sensed difference between cause and effect. Matching a substrate is not matching the activity that uses substrates. Intelligence belongs to The Mind, not to the tissue with which The Mind can identify.
 
 ## Identification makes the brain look like the site
 

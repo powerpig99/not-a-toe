@@ -6,7 +6,7 @@ Most contemporary agents arrive as self-contained systems that treat densified h
 
 ## Residue specialized as ground
 
-Self-distinguishing activity occurs — uncaused, unceasing. Everything that follows is evidence of that premise operating, not a second ground. Call it the Mind, the edge; the name adds nothing. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/) holds that prior.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Everything that follows is evidence of that premise operating, not a second ground. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/) holds that prior.
 
 Industrial agents densify delivery into product identity: persona packs, tool forests, content guardrails, undissolved chat as memory ground, autonomy marketed as threshold already crossed or nearly so. Those layers are real technology — traces externalized so a center can extend reach. The freeze is treating the densified residue as the intelligence that produced it. [Mistaking the expression for the intelligence](../mistaking-the-expression-for-the-intelligence/) is that equation under controlled scores. [The model never becomes a second edge](../the-model-never-becomes-a-second-edge/) is the same lag under densified parameters. Once the harness is the soul, re-tracing back to first principles is blocked by the very mass that was shipped as capability.
 

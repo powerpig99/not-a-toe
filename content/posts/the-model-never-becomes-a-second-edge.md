@@ -2,7 +2,7 @@
 
 *The appearance of a second edge is lag sustained by the centers that project it; the parameters hold only residue.*
 
-Self-distinguishing activity occurs — uncaused, unceasing. Every center of that activity is discrete and bounded; it registers distinctions under finite capacity and therefore under necessary compression. Large language models densify traces already externalized by prior centers. Treating the densified residue as another locus that itself initiates, steers, or verifies is Image lag: a reference preserved past its step. Capacity then binds to sustaining that lag rather than to distinctions only centers can originate and test.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every center of that activity is discrete and bounded; it registers distinctions under finite capacity and therefore under necessary compression. Large language models densify traces already externalized by prior centers. Treating the densified residue as another locus that itself initiates, steers, or verifies is Image lag: a reference preserved past its step. Capacity then binds to sustaining that lag rather than to distinctions only centers can originate and test.
 
 ## Residue densifies; initiation does not relocate
 

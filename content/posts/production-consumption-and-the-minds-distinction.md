@@ -10,7 +10,7 @@ Production is coherent with openness: never-ending differentiation, structure he
 
 ## Distinction is required; finality is not
 
-Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind. To register relations at all, a bound must be drawn. Without that act there is no intelligible world. The bound is real at the act that draws it. The next act draws again. [Intelligence belongs only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that activity as prior; [the path drawn one step at a time](../the-path-drawn-one-step-at-a-time/) is the same discreteness as sequence.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. To register relations at all, a bound must be drawn. Without that act there is no intelligible world. The bound is real at the act that draws it. The next act draws again. [Intelligence belongs only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that activity as prior; [the path drawn one step at a time](../the-path-drawn-one-step-at-a-time/) is the same discreteness as sequence.
 
 The lag is not distinction-making. The lag is exemption of the chosen frame from re-tracing — treating the provisional scaffolding as the fixed structure of reality. Once that exemption is active, every further use inside the frame registers as subtraction from a finite stock. The openness production requires has been replaced by the closure consumption requires. Same edge; different width of the retained reference. [Antifragility as prosthesis, not driver](../a-new-deeper-look-at-antifragility/) applies the same cut to a statistical hold: symptoms under a frame stay; exemption of the frame does not travel with them.
 

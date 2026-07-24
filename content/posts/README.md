@@ -105,6 +105,14 @@ Three distinct jobs. Do not collapse them.
 
 When refining under ontological clarity (or any dissolution pass):
 
+- **Premise formula (house).** When the irreducible prior is introduced by name, use this exact pair of sentences (or the first two clauses of a longer sentence that continues the derivation):
+
+  ```text
+  Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction.
+  ```
+
+  Do not leave the bare “self-distinguishing activity occurs” without the Mind/observer gloss. Do not invent parallel intros (“That is Mind,” “Call it the edge; the name adds nothing,” “Call it Mind”) as substitutes. Essay-specific derivation may continue immediately after the formula; it does not replace it.
+
 - **Clarity of the writing Mind, not performance for readers.** Draft so the next step at this locus is cleaner. Do not write to teach, persuade, reassure, or brand. Cross-links restore axes for the same Mind under another load — not an index for an audience. “Embody. Never claim.” applies to the page itself: no meta about openness, no posture of humility, no lecture about how the work should be read.
 - **Mechanism, not moral framing.** Prefer allocation, locus, continuation, capacity thinning over stolen power, genuine stake, heroic independence.
 - **Assert; don’t soften.** Drop padding (“rarely,” “in most cases,” “not primarily”) when the cut is structural.

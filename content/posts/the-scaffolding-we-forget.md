@@ -6,7 +6,7 @@ Self-distinguishing activity erects temporary organizations of experience so tha
 
 ## The instrument that must drop out
 
-Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction.
 
 To distinguish is to bound. Every discrete act leaves a center and a residue: earlier shapes later; that residue is trace. The Mind does not seek pleasure, truth, or survival in the abstract. What it erects is a sufficiently stable organization of experience through which further distinguishing can continue. Every perception, concept, and judgment is already such an organization — scaffolding so the next distinction lands somewhere rather than everywhere. These structures are not added onto a pre-given reality. They are the realized form in which reality appears to that center. [Intelligence belongs only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that activity as prior; [the path drawn one step at a time](../the-path-drawn-one-step-at-a-time/) is the same discreteness as sequence.
 

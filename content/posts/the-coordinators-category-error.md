@@ -6,7 +6,7 @@ A recurring construction treats the activity of coordination as something that m
 
 ## Coordination already operates at centers
 
-Self-distinguishing activity occurs at loci. Each center withholds, assents, generates private context that never enters any shared channel, and refuses a common model when the common model fails to register. Those acts *are* coordination under load — not a preliminary stage awaiting a substrate that finally makes coordination native.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. It occurs at loci. Each center withholds, assents, generates private context that never enters any shared channel, and refuses a common model when the common model fails to register. Those acts *are* coordination under load — not a preliminary stage awaiting a substrate that finally makes coordination native.
 
 What densifies when people, code, workflows, and agents are placed on one cryptographically continuous history is the medium of available residue: one searchable record, signed events, fewer seams where information drops. [The scaffolding we forget](../the-scaffolding-we-forget/) is that densification used as temporary instrument. The change is real at the level of trace. Bandwidth rises. Audit trails lengthen. Agents that once could not see what humans saw in another tool may now read the same channel.
 

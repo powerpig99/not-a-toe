@@ -6,7 +6,7 @@ Between the living Mind and any constructed image a gap remains. Observation hol
 
 ## The premise stays single
 
-Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind, the edge; the name adds nothing. Everything that can be built around an agent — models, tools, practice files, graphs — is evidence of that activity operating through residue, not a second ground and not a delayed mind. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/).
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Everything that can be built around an agent — models, tools, practice files, graphs — is evidence of that activity operating through residue, not a second ground and not a delayed mind. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/).
 
 Clarity, as method, is return: surface the assumptions a question already carries, trace them toward a more irreducible prior, dissolve what has frozen past its step, act, re-enter. Applied to agents, every layer is instrument at one-step width. The failure mode is Image lag — method, practice, or cortex exempted from re-tracing and preserved as identity. The healthy form is the same at every scale: re-render at the edge’s new position, or the lag installs itself as exterior.
 

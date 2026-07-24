@@ -6,7 +6,7 @@ Full causality remains with the Mind. Position is premise of the next moment—r
 
 ## One step
 
-Self-distinguishing activity occurs—uncaused, unceasing. Call it the Mind. Every act is discrete; continuity is the same Mind carrying across acts. Residue of earlier acts is position. Shaping runs one way only—that asymmetry is time and causality, one relation named twice. The next moment is the effect of the Mind's step.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every act is discrete; continuity is the same Mind carrying across acts. Residue of earlier acts is position. Shaping runs one way only—that asymmetry is time and causality, one relation named twice. The next moment is the effect of the Mind's step.
 
 Observation sees effect. The cause stays at least one step ahead of what observation pins. Uncaused names that lead. Seeking a prior always finds an effect; the seeking is another observation. The regress is the demand that cause and observed effect occupy the same step.
 
