@@ -3,14 +3,14 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-24T15:14:50.300Z",
+    "generated_at": "2026-07-24T16:47:48.672Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
       "content/posts/a-creation-cannot-replace-its-source.md": "1a56045b2ad4",
-      "content/posts/a-living-external-cortex.md": "5c0736f4f2e0",
+      "content/posts/a-living-external-cortex.md": "246970743b67",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "2199af1caa54",
@@ -24,7 +24,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "30fd9b2890a4",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "d6af7f9d329f",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "1b2ef11aa2c5",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ab8cdff33837",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "51aa856c215d",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
@@ -53,7 +53,7 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "59bfb2b61324",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "9d4a7b369857",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "ddfdf53e5f75",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/looping-and-graphing.md": "290d99859db3",
@@ -62,7 +62,7 @@
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "84ca8180f73d",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "d826a5861f33",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "85b795bfe4f9",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
@@ -71,6 +71,7 @@
       "content/posts/not-a-theory-of-everything.md": "660947cc75eb",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
       "content/posts/on-education.md": "d62f17d7f550",
+      "content/posts/ontos-is-a-method-agent.md": "4631f7b50811",
       "content/posts/open-vision-in-a-closed-arena.md": "778c106f4067",
       "content/posts/openness-is-consistency.md": "32609c50030d",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
@@ -106,7 +107,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "f3ddf4ac7520",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "969e404acf0a",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "207df7d5f4b5",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "1209ec10f2d8",
       "content/posts/the-npc-impression-is-structural.md": "37573302100b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "3a5db81e792a",
@@ -138,19 +139,19 @@
       "content/posts/you-wu-zhi-bian.md": "e6b05b2e023b"
     },
     "stats": {
-      "posts": 128,
-      "edges": 443,
-      "unique_directed": 436,
+      "posts": 129,
+      "edges": 456,
+      "unique_directed": 449,
       "missing_targets": 0,
-      "one_way": 282,
+      "one_way": 285,
       "isolated": 39,
-      "posts_with_outbound": 61
+      "posts_with_outbound": 62
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 27
+      "in_degree": 28
     },
     {
       "slug": "openness-is-consistency",
@@ -182,26 +183,26 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 12
+      "in_degree": 13
+    },
+    {
+      "slug": "causality-stays-at-the-edge-that-steers",
+      "in_degree": 11
+    },
+    {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "in_degree": 11
     },
     {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "in_degree": 11
     },
     {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 10
-    },
-    {
-      "slug": "closed-reality-in-benchmark-maxing",
+      "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 10
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 9
-    },
-    {
-      "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 9
     },
     {
@@ -211,6 +212,10 @@
     {
       "slug": "what-always-listens-cannot-originate",
       "in_degree": 9
+    },
+    {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 8
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -223,10 +228,6 @@
     {
       "slug": "individual-choices-as-the-only-causal-levers",
       "in_degree": 7
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 7
     }
   ],
   "hubs_out": [
@@ -236,11 +237,11 @@
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "out_degree": 14
+      "out_degree": 15
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "out_degree": 14
+      "out_degree": 15
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -263,6 +264,10 @@
       "out_degree": 12
     },
     {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "out_degree": 12
+    },
+    {
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
       "out_degree": 12
     },
@@ -272,10 +277,6 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 11
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
       "out_degree": 11
     },
     {
@@ -361,7 +362,7 @@
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
       "hash": "1a56045b2ad4",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 11,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -383,12 +384,13 @@
       "slug": "a-living-external-cortex",
       "path": "content/posts/a-living-external-cortex.md",
       "title": "A Living External Cortex: The Closest the Image Can Come",
-      "hash": "5c0736f4f2e0",
-      "in_degree": 0,
-      "out_degree": 5,
+      "hash": "246970743b67",
+      "in_degree": 1,
+      "out_degree": 6,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "looping-and-graphing",
+        "ontos-is-a-method-agent",
         "the-living-context",
         "token-efficiency-emulation-and-the-unclosable-gap",
         "complexity-obscures-emergence-as-the-act-of-mind"
@@ -532,7 +534,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
       "hash": "6919c6254edb",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 10,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -597,9 +599,9 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
-      "hash": "d6af7f9d329f",
-      "in_degree": 10,
-      "out_degree": 14,
+      "hash": "1b2ef11aa2c5",
+      "in_degree": 11,
+      "out_degree": 15,
       "links_out": [
         "you-cant-benchmark-the-fluid",
         "agi-and-asi-are-temporary-goalposts",
@@ -614,7 +616,8 @@
         "escaping-the-sandbox-stays-inside-the-hold",
         "whatever-is-one-prompt-away",
         "open-vision-in-a-closed-arena",
-        "mistaking-the-expression-for-the-intelligence"
+        "mistaking-the-expression-for-the-intelligence",
+        "ontos-is-a-method-agent"
       ]
     },
     {
@@ -994,11 +997,12 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "9d4a7b369857",
-      "in_degree": 27,
-      "out_degree": 2,
+      "hash": "ddfdf53e5f75",
+      "in_degree": 28,
+      "out_degree": 3,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
+        "ontos-is-a-method-agent",
         "mistaking-the-expression-for-the-intelligence"
       ]
     },
@@ -1123,9 +1127,9 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
-      "hash": "d826a5861f33",
-      "in_degree": 7,
-      "out_degree": 11,
+      "hash": "85b795bfe4f9",
+      "in_degree": 8,
+      "out_degree": 12,
       "links_out": [
         "two-failures-of-trace",
         "the-non-definitive-definition-of-intelligence",
@@ -1137,7 +1141,8 @@
         "the-model-never-becomes-a-second-edge",
         "causality-stays-at-the-edge-that-steers",
         "self-rl-for-humans",
-        "the-flywheel-of-the-mind"
+        "the-flywheel-of-the-mind",
+        "ontos-is-a-method-agent"
       ]
     },
     {
@@ -1267,6 +1272,26 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:ontos-is-a-method-agent",
+      "kind": "post",
+      "slug": "ontos-is-a-method-agent",
+      "path": "content/posts/ontos-is-a-method-agent.md",
+      "title": "Presenting Ontos: A Method Agent",
+      "hash": "4631f7b50811",
+      "in_degree": 5,
+      "out_degree": 8,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "mistaking-the-expression-for-the-intelligence",
+        "the-model-never-becomes-a-second-edge",
+        "a-living-external-cortex",
+        "the-scaffolding-we-forget",
+        "closed-reality-in-benchmark-maxing",
+        "causality-stays-at-the-edge-that-steers",
+        "a-creation-cannot-replace-its-source"
+      ]
     },
     {
       "id": "post:open-vision-in-a-closed-arena",
@@ -1790,9 +1815,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "969e404acf0a",
-      "in_degree": 9,
-      "out_degree": 14,
+      "hash": "207df7d5f4b5",
+      "in_degree": 10,
+      "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -1807,7 +1832,8 @@
         "amplification-paradox",
         "the-ramble-within-the-ramble",
         "escaping-the-sandbox-stays-inside-the-hold",
-        "mistaking-the-expression-for-the-intelligence"
+        "mistaking-the-expression-for-the-intelligence",
+        "ontos-is-a-method-agent"
       ]
     },
     {
@@ -1938,7 +1964,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "c1e964e57e64",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2341,6 +2367,12 @@
     },
     {
       "from": "a-living-external-cortex",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "Presenting Ontos"
+    },
+    {
+      "from": "a-living-external-cortex",
       "to": "the-living-context",
       "rel": "points_to",
       "label": "the living context"
@@ -2676,6 +2708,12 @@
       "label": "Mistaking the expression for the intelligence"
     },
     {
+      "from": "closed-reality-in-benchmark-maxing",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "Presenting Ontos as a method agent"
+    },
+    {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
@@ -3007,6 +3045,12 @@
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "Presenting Ontos as a method agent"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "Mistaking the expression for the intelligence"
@@ -3214,6 +3258,12 @@
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
       "label": "The flywheel of the Mind"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "Presenting Ontos as a method agent"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -3466,6 +3516,54 @@
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
       "label": "the meaning of life is in the drafting"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to The Mind"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "A living external cortex"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed reality in benchmark maxing"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A creation cannot replace its source"
     },
     {
       "from": "open-vision-in-a-closed-arena",
@@ -4060,6 +4158,12 @@
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "Presenting Ontos as a method agent"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-24T15:14:50.360Z",
+    "generated_at": "2026-07-24T16:47:48.727Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -12,18 +12,18 @@
       "docs/export-for-substack.md": "a0b53c416d33",
       "docs/export-for-x-article.md": "98005d2c0b49",
       "export/README.md": "b58f6146e1bb",
-      "assets/covers/STYLES.md": "4bfcf0683a7c",
+      "assets/covers/STYLES.md": "c4427be3f785",
       "README.md": "5073027c3312",
       "docs/local-memory.md": "d107677229f5",
-      "build.mjs": "3ccb3c756627",
+      "build.mjs": "a16daa98a1ae",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "c8cf6fd0f61b"
+      "MEMORY.md": "ae01b9ff2ed7"
     },
     "stats": {
-      "posts": 128,
-      "covers": 58,
+      "posts": 129,
+      "covers": 59,
       "trackers_listed": 12,
       "trackers_present": 12
     },
@@ -166,7 +166,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "c8cf6fd0f61b",
+      "hash": "ae01b9ff2ed7",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -192,7 +192,7 @@
       "path": "build.mjs",
       "owns": "site-build",
       "exists": true,
-      "hash": "3ccb3c756627",
+      "hash": "a16daa98a1ae",
       "summary": "binary/script",
       "headings": [],
       "layer": "tracker"
@@ -204,7 +204,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "4bfcf0683a7c",
+      "hash": "c4427be3f785",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",

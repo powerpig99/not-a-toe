@@ -42,7 +42,7 @@ Insight is often the surfacing of previously latent patterns in the field alread
 
 ## Coevolution without equivalence
 
-The Mind and its most powerful tools coevolve without equivalence. The tools extend the reach and speed of loops already running. They allow more rapid iteration, broader exploration of the latent field, and more efficient surfacing of what was previously unresolved. They create conditions under which The Mind can more effectively notice, initiate, and stabilize new patterns. They do not relocate the source of initiation. They do not become intelligent. They do not become The Mind.
+The Mind and its most powerful tools coevolve without equivalence. The tools extend the reach and speed of loops already running. They allow more rapid iteration, broader exploration of the latent field, and more efficient surfacing of what was previously unresolved. They create conditions under which The Mind can more effectively notice, initiate, and stabilize new patterns. They do not relocate the source of initiation. They do not become intelligent. They do not become The Mind. [Presenting Ontos as a method agent](../ontos-is-a-method-agent/) is that coevolution held as dual: method ground open, practice regenerable, sovereignty at the edge that steers.
 
 Reinforcement learning for tools is recursive self-improvement of the distinguishing, acting, and re-tracing that designs, trains, operates, evaluates, and redirects them — The Mind through a higher-bandwidth instrument. The medium densifies. Intelligence does not migrate into it. Watching the medium thicken and mistaking the thickness for a new initiator is observation that forgot it cannot stay outside.
 
