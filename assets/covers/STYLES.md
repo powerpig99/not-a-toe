@@ -81,6 +81,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Kintsugi ceramic still life** | Documentary museum still life: ceramic vessel with gold repair seams on a continuous slate ledger grid that tries to absorb the discrete bowl | `the-coordinators-category-error` |
 | **Pixel art / limited-palette retro** | Soft cream–indigo-teal limited palette, visible square pixels, gentle dithering; side-scroll tunnel with paved open door vs successive unfinished chambers | `whatever-is-one-prompt-away` |
 | **Limestone bas-relief / architectural frieze** | Cream–warm gray stone low relief, museum side light, chisel grain; closed arena rings with open-horizon gap past the bound | `open-vision-in-a-closed-arena` |
+| **Scratchboard / white-line scraperboard** | Black India-ink board, fine white blade scrapes, burr texture, museum raking light; density from successive discrete cuts | `having-more-is-never-the-cause` |
 
 ## Inventory (by slug)
 
@@ -100,6 +101,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `escaping-the-sandbox-stays-inside-the-hold` | Persian miniature illumination |
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
+| `having-more-is-never-the-cause` | Scratchboard / white-line scraperboard |
 | `humans-tokens-and-the-scope-of-valuation` | Oil split composition |
 | `individual-choices-as-the-only-causal-levers` | Soft clay / stop-motion puppet still |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |

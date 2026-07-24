@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-23T12:39:47.978Z",
+    "generated_at": "2026-07-24T14:19:39.772Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -47,6 +47,7 @@
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "ccd881c3fcee",
+      "content/posts/having-more-is-never-the-cause.md": "99b0a244d8e2",
       "content/posts/help-is-half-the-problem.md": "ab76bdb2d800",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
@@ -136,13 +137,13 @@
       "content/posts/you-wu-zhi-bian.md": "e6b05b2e023b"
     },
     "stats": {
-      "posts": 126,
-      "edges": 416,
-      "unique_directed": 409,
+      "posts": 127,
+      "edges": 422,
+      "unique_directed": 415,
       "missing_targets": 0,
-      "one_way": 275,
+      "one_way": 281,
       "isolated": 39,
-      "posts_with_outbound": 59
+      "posts_with_outbound": 60
     }
   },
   "hubs_in": [
@@ -163,15 +164,15 @@
       "in_degree": 15
     },
     {
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 15
+    },
+    {
       "slug": "the-path-drawn-one-step-at-a-time",
       "in_degree": 15
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 14
-    },
-    {
-      "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 14
     },
     {
@@ -195,12 +196,12 @@
       "in_degree": 9
     },
     {
-      "slug": "what-always-listens-cannot-originate",
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 9
     },
     {
-      "slug": "ownership-and-self-worthiness",
-      "in_degree": 8
+      "slug": "what-always-listens-cannot-originate",
+      "in_degree": 9
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -211,20 +212,20 @@
       "in_degree": 8
     },
     {
-      "slug": "open-vision-in-a-closed-arena",
+      "slug": "two-failures-of-trace",
+      "in_degree": 8
+    },
+    {
+      "slug": "individual-choices-as-the-only-causal-levers",
       "in_degree": 7
     },
     {
-      "slug": "two-failures-of-trace",
+      "slug": "open-vision-in-a-closed-arena",
       "in_degree": 7
     },
     {
       "slug": "why-mathematics-can-never-be-solved",
       "in_degree": 7
-    },
-    {
-      "slug": "agi-and-asi-are-temporary-goalposts",
-      "in_degree": 6
     }
   ],
   "hubs_out": [
@@ -897,6 +898,24 @@
       "links_out": []
     },
     {
+      "id": "post:having-more-is-never-the-cause",
+      "kind": "post",
+      "slug": "having-more-is-never-the-cause",
+      "path": "content/posts/having-more-is-never-the-cause.md",
+      "title": "Having More Is Never the Cause",
+      "hash": "99b0a244d8e2",
+      "in_degree": 0,
+      "out_degree": 6,
+      "links_out": [
+        "performative-hindsight-that-pretends-to-be-foresight",
+        "individual-choices-as-the-only-causal-levers",
+        "the-allocation-of-causal-power-in-validation",
+        "two-failures-of-trace",
+        "ownership-and-self-worthiness",
+        "the-flywheel-of-the-mind"
+      ]
+    },
+    {
       "id": "post:help-is-half-the-problem",
       "kind": "post",
       "slug": "help-is-half-the-problem",
@@ -950,7 +969,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "35d7b3f4354a",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 10,
       "links_out": [
         "causality-all-the-way",
@@ -1280,7 +1299,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "27e754156200",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 1,
       "links_out": [
         "individual-choices-as-the-only-causal-levers"
@@ -1304,7 +1323,7 @@
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "Performative Hindsight That Pretends to Be Foresight",
       "hash": "30d0dff879ba",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 7,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1539,7 +1558,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
       "hash": "b15ca5b77d8a",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 1,
       "links_out": [
         "the-ramble-within-the-ramble"
@@ -1628,7 +1647,7 @@
       "path": "content/posts/the-flywheel-of-the-mind.md",
       "title": "The Flywheel of the Mind",
       "hash": "63836836ed53",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 4,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2002,7 +2021,7 @@
       "path": "content/posts/two-failures-of-trace.md",
       "title": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
       "hash": "fc0851d22465",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 9,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2819,6 +2838,42 @@
       "to": "the-surface-beneath",
       "rel": "points_to",
       "label": "The Surface Beneath"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative hindsight that pretends to be foresight"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "The flywheel of the Mind"
     },
     {
       "from": "help-is-half-the-problem",
