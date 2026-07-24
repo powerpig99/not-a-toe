@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-24T15:04:38.596Z",
+    "generated_at": "2026-07-24T15:08:26.901Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -13,7 +13,7 @@
       "content/posts/a-living-external-cortex.md": "5c0736f4f2e0",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "121fcfdd5920",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "2199af1caa54",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
@@ -24,7 +24,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "30fd9b2890a4",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "72b1dc3ed2d5",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "d6af7f9d329f",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ab8cdff33837",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "51aa856c215d",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
@@ -53,7 +53,7 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "59bfb2b61324",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "028d8e0a29ac",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "9d4a7b369857",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/looping-and-graphing.md": "290d99859db3",
@@ -62,6 +62,7 @@
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "84ca8180f73d",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "d826a5861f33",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
@@ -106,7 +107,7 @@
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "f3ddf4ac7520",
       "content/posts/the-model-never-becomes-a-second-edge.md": "ea1e3f6946fd",
-      "content/posts/the-non-definitive-definition-of-intelligence.md": "31a6b3c2981c",
+      "content/posts/the-non-definitive-definition-of-intelligence.md": "1209ec10f2d8",
       "content/posts/the-npc-impression-is-structural.md": "37573302100b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "3a5db81e792a",
       "content/posts/the-question-that-installs-the-war.md": "2212901bec84",
@@ -123,7 +124,7 @@
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "2a57cc4c2249",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "036c2f91a81c",
-      "content/posts/two-failures-of-trace.md": "fc0851d22465",
+      "content/posts/two-failures-of-trace.md": "b3abd22841c9",
       "content/posts/what-always-listens-cannot-originate.md": "fd5ad97dafc5",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "0d108876c73b",
@@ -137,19 +138,19 @@
       "content/posts/you-wu-zhi-bian.md": "e6b05b2e023b"
     },
     "stats": {
-      "posts": 127,
-      "edges": 425,
-      "unique_directed": 418,
+      "posts": 128,
+      "edges": 441,
+      "unique_directed": 434,
       "missing_targets": 0,
-      "one_way": 278,
+      "one_way": 284,
       "isolated": 39,
-      "posts_with_outbound": 60
+      "posts_with_outbound": 61
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 26
+      "in_degree": 27
     },
     {
       "slug": "openness-is-consistency",
@@ -157,7 +158,7 @@
     },
     {
       "slug": "self-rl-for-humans",
-      "in_degree": 16
+      "in_degree": 17
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -189,14 +190,22 @@
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 9
+      "in_degree": 10
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 9
+      "in_degree": 10
     },
     {
       "slug": "ownership-and-self-worthiness",
+      "in_degree": 9
+    },
+    {
+      "slug": "the-model-never-becomes-a-second-edge",
+      "in_degree": 9
+    },
+    {
+      "slug": "two-failures-of-trace",
       "in_degree": 9
     },
     {
@@ -208,12 +217,8 @@
       "in_degree": 8
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 8
-    },
-    {
-      "slug": "two-failures-of-trace",
-      "in_degree": 8
+      "slug": "agi-and-asi-are-temporary-goalposts",
+      "in_degree": 7
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -221,10 +226,6 @@
     },
     {
       "slug": "open-vision-in-a-closed-arena",
-      "in_degree": 7
-    },
-    {
-      "slug": "why-mathematics-can-never-be-solved",
       "in_degree": 7
     }
   ],
@@ -235,7 +236,7 @@
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "out_degree": 13
+      "out_degree": 14
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -274,6 +275,10 @@
       "out_degree": 11
     },
     {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "out_degree": 11
+    },
+    {
       "slug": "whatever-is-one-prompt-away",
       "out_degree": 11
     },
@@ -298,15 +303,11 @@
       "out_degree": 10
     },
     {
+      "slug": "two-failures-of-trace",
+      "out_degree": 10
+    },
+    {
       "slug": "causality-all-the-way",
-      "out_degree": 9
-    },
-    {
-      "slug": "openness-is-consistency",
-      "out_degree": 9
-    },
-    {
-      "slug": "qian-yin-hou-guo",
       "out_degree": 9
     }
   ],
@@ -360,7 +361,7 @@
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
       "hash": "1a56045b2ad4",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 11,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -421,14 +422,15 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
-      "hash": "121fcfdd5920",
-      "in_degree": 6,
-      "out_degree": 7,
+      "hash": "2199af1caa54",
+      "in_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
         "the-scaffolding-we-forget",
         "hassabis-frontier-agi-premise",
+        "mistaking-the-expression-for-the-intelligence",
         "why-mathematics-can-never-be-solved",
         "escaping-the-sandbox-stays-inside-the-hold",
         "open-vision-in-a-closed-arena"
@@ -530,7 +532,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
       "hash": "6919c6254edb",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 10,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -595,9 +597,9 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
-      "hash": "72b1dc3ed2d5",
-      "in_degree": 9,
-      "out_degree": 13,
+      "hash": "d6af7f9d329f",
+      "in_degree": 10,
+      "out_degree": 14,
       "links_out": [
         "you-cant-benchmark-the-fluid",
         "agi-and-asi-are-temporary-goalposts",
@@ -611,7 +613,8 @@
         "the-reality-distortion-field-names-the-closed-map",
         "escaping-the-sandbox-stays-inside-the-hold",
         "whatever-is-one-prompt-away",
-        "open-vision-in-a-closed-arena"
+        "open-vision-in-a-closed-arena",
+        "mistaking-the-expression-for-the-intelligence"
       ]
     },
     {
@@ -991,11 +994,12 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "028d8e0a29ac",
-      "in_degree": 26,
-      "out_degree": 1,
+      "hash": "9d4a7b369857",
+      "in_degree": 27,
+      "out_degree": 2,
       "links_out": [
-        "the-model-never-becomes-a-second-edge"
+        "the-model-never-becomes-a-second-edge",
+        "mistaking-the-expression-for-the-intelligence"
       ]
     },
     {
@@ -1112,6 +1116,29 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:mistaking-the-expression-for-the-intelligence",
+      "kind": "post",
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
+      "title": "Mistaking the Expression for the Intelligence",
+      "hash": "d826a5861f33",
+      "in_degree": 5,
+      "out_degree": 11,
+      "links_out": [
+        "two-failures-of-trace",
+        "the-non-definitive-definition-of-intelligence",
+        "you-cant-benchmark-the-fluid",
+        "closed-reality-in-benchmark-maxing",
+        "intelligence-belongs-only-to-the-mind",
+        "agi-and-asi-are-temporary-goalposts",
+        "a-creation-cannot-replace-its-source",
+        "the-model-never-becomes-a-second-edge",
+        "causality-stays-at-the-edge-that-steers",
+        "self-rl-for-humans",
+        "the-flywheel-of-the-mind"
+      ]
     },
     {
       "id": "post:munger-dumb-competition-refined",
@@ -1465,7 +1492,7 @@
       "path": "content/posts/self-rl-for-humans.md",
       "title": "What Looks Like RL for AIs Is Self-RL for Humans",
       "hash": "0af62aecf5bc",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 0,
       "links_out": []
     },
@@ -1650,7 +1677,7 @@
       "path": "content/posts/the-flywheel-of-the-mind.md",
       "title": "The Flywheel of the Mind",
       "hash": "63836836ed53",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 4,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1764,7 +1791,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "ea1e3f6946fd",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1788,9 +1815,9 @@
       "slug": "the-non-definitive-definition-of-intelligence",
       "path": "content/posts/the-non-definitive-definition-of-intelligence.md",
       "title": "The Non-Definitive Definition of Intelligence",
-      "hash": "31a6b3c2981c",
-      "in_degree": 0,
-      "out_degree": 7,
+      "hash": "1209ec10f2d8",
+      "in_degree": 1,
+      "out_degree": 8,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "you-cant-benchmark-the-fluid",
@@ -1798,7 +1825,8 @@
         "the-path-drawn-one-step-at-a-time",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
-        "intelligence-belongs-only-to-the-mind"
+        "intelligence-belongs-only-to-the-mind",
+        "mistaking-the-expression-for-the-intelligence"
       ]
     },
     {
@@ -2023,9 +2051,9 @@
       "slug": "two-failures-of-trace",
       "path": "content/posts/two-failures-of-trace.md",
       "title": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
-      "hash": "fc0851d22465",
-      "in_degree": 8,
-      "out_degree": 9,
+      "hash": "b3abd22841c9",
+      "in_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "token-efficiency-emulation-and-the-unclosable-gap",
@@ -2035,7 +2063,8 @@
         "the-allocation-of-causal-power-in-validation",
         "self-rl-for-humans",
         "complexity-obscures-emergence-as-the-act-of-mind",
-        "lossless-knowledge-of-an-open-field-is-incoherent"
+        "lossless-knowledge-of-an-open-field-is-incoherent",
+        "mistaking-the-expression-for-the-intelligence"
       ]
     },
     {
@@ -2209,7 +2238,7 @@
       "path": "content/posts/you-cant-benchmark-the-fluid.md",
       "title": "You Can't Benchmark the Fluid",
       "hash": "52dd7d058357",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 1,
       "links_out": [
         "escaping-the-sandbox-stays-inside-the-hold"
@@ -2355,6 +2384,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "intelligence belongs only to the Mind"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
     },
     {
       "from": "agi-and-asi-are-temporary-goalposts",
@@ -2631,6 +2666,12 @@
       "to": "open-vision-in-a-closed-arena",
       "rel": "points_to",
       "label": "Open vision in a closed arena"
+    },
+    {
+      "from": "closed-reality-in-benchmark-maxing",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
@@ -2963,6 +3004,12 @@
       "label": "the model never becomes a second edge"
     },
     {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
       "from": "looping-and-graphing",
       "to": "self-rl-for-humans",
       "rel": "points_to",
@@ -3099,6 +3146,72 @@
       "to": "the-surface-beneath",
       "rel": "points_to",
       "label": "The Surface Beneath"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "The non-definitive definition of intelligence"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "You can't benchmark the fluid"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed reality in benchmark maxing"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A creation cannot replace its source"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "Self-RL for humans"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "The flywheel of the Mind"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -3983,6 +4096,12 @@
       "label": "Intelligence belongs only to the Mind"
     },
     {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
       "from": "the-npc-impression-is-structural",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
@@ -4419,6 +4538,12 @@
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
       "label": "Lossless knowledge of an open field is incoherent"
+    },
+    {
+      "from": "two-failures-of-trace",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
     },
     {
       "from": "what-always-listens-cannot-originate",

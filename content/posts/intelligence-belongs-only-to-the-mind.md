@@ -48,6 +48,6 @@ Reinforcement learning for tools is recursive self-improvement of the distinguis
 
 ## The measure
 
-Progress is not how intelligent the tools become — they do not become intelligent. Progress is how much more capably The Mind exercises its uninitiated capacity through them — how much farther discrete acts reach into what could not be done before, how much denser the available field of reinforcement becomes.
+Progress is not how intelligent the tools become — they do not become intelligent. Progress is how much more capably The Mind exercises its uninitiated capacity through them — how much farther discrete acts reach into what could not be done before, how much denser the available field of reinforcement becomes. [Mistaking the expression for the intelligence](../mistaking-the-expression-for-the-intelligence/) is the same cut under psychometric and benchmark costume: controlled performance held as the activity itself.
 
 The tools remain instruments. Intelligence belongs only to The Mind — the irreducible prior.
