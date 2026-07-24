@@ -3,33 +3,33 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-24T16:47:48.727Z",
+    "generated_at": "2026-07-24T21:31:54.831Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "c8481732a554",
-      "docs/essay-format.md": "add57bdb30a3",
+      "content/posts/README.md": "51c7d7f21e1f",
+      "docs/essay-format.md": "bae3bb021d69",
       "docs/export-for-substack.md": "a0b53c416d33",
       "docs/export-for-x-article.md": "98005d2c0b49",
       "export/README.md": "b58f6146e1bb",
-      "assets/covers/STYLES.md": "c4427be3f785",
+      "assets/covers/STYLES.md": "491243a38172",
       "README.md": "5073027c3312",
       "docs/local-memory.md": "d107677229f5",
       "build.mjs": "a16daa98a1ae",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "ae01b9ff2ed7"
+      "MEMORY.md": "905451f9ab5b"
     },
     "stats": {
-      "posts": 129,
-      "covers": 59,
+      "posts": 130,
+      "covers": 60,
       "trackers_listed": 12,
       "trackers_present": 12
     },
     "counts": {
       "nodes": 26,
-      "edges": 92,
+      "edges": 93,
       "missing": 0,
       "by_kind": {
         "project": 1,
@@ -58,14 +58,14 @@
       "count": 11
     },
     {
-      "id": "tracker:local",
-      "name": "local",
+      "id": "tracker:format",
+      "name": "format",
       "count": 7
     },
     {
-      "id": "tracker:format",
-      "name": "format",
-      "count": 6
+      "id": "tracker:local",
+      "name": "local",
+      "count": 7
     },
     {
       "id": "tracker:export-x",
@@ -166,7 +166,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "ae01b9ff2ed7",
+      "hash": "905451f9ab5b",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -204,7 +204,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "c4427be3f785",
+      "hash": "491243a38172",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -303,7 +303,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "add57bdb30a3",
+      "hash": "bae3bb021d69",
       "summary": "Use this exact spec when drafting essays for this site.",
       "headings": [
         "Essay Formatting Guide",
@@ -356,7 +356,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "c8481732a554",
+      "hash": "51c7d7f21e1f",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",
@@ -528,6 +528,12 @@
       "to": "tracker:local",
       "rel": "points_to",
       "label": "`docs/local-memory.md`"
+    },
+    {
+      "from": "tracker:format",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
     },
     {
       "from": "tracker:format",
