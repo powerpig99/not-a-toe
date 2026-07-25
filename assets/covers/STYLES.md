@@ -86,6 +86,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Urushi lacquer / maki-e still** | Deep black lacquer tray, gold maki-e line continuing past the vessel, nested specialty residue on one side only, museum craft light | `ontos-is-a-method-agent` |
 | **Charcoal wipe / continuous redraw on newsprint** | Gray newsprint tooth, charcoal path re-drawn over wiped ghost trails, closed catalog of unjoined dots aside, raking side light | `the-real-scarcity-is-not-memory-but-continuous-re-tracing` |
 | **Victorian stereograph dual-panel** | Cream antique card mount, twin albumen panels of one coin (obverse/reverse), monocular loupe between that can cover only one face, sepia museum light, chemical grain | `the-paradoxical-nature-of-bystander-insights` |
+| **Encaustic wax on wood panel** | Warm beeswax layers, fused color, wood grain, museum raking light; open multi-climate strata under a cooler opaque scoreboard frame and blank gold steward seal | `the-climate-problem-registers-only-as-perception` |
 
 ## Inventory (by slug)
 
@@ -127,6 +128,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
 | `the-allocation-of-causal-power-in-validation` | Dark chalk / light trails |
 | `the-brain-does-not-backprop` | Dark chalk / light trails |
+| `the-climate-problem-registers-only-as-perception` | Encaustic wax on wood panel |
 | `the-coordinators-category-error` | Kintsugi ceramic still life |
 | `the-flywheel-of-the-mind` | Art Deco poster / chrome and sunburst |
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
