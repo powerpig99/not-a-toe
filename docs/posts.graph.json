@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-25T15:48:52.578Z",
+    "generated_at": "2026-07-25T18:14:53.979Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -24,7 +24,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "18a15782b299",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "1b2ef11aa2c5",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "81c9cdbb3f92",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7fd19d08e93c",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "45e1416ea203",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
@@ -89,7 +89,7 @@
       "content/posts/self-rl-for-humans.md": "0af62aecf5bc",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "77b9c3fa364d",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "a410a6855d52",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "f7bd2aa04adb",
@@ -118,6 +118,7 @@
       "content/posts/the-ramble-within-the-ramble.md": "4b0befa6bea2",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "513304ed20a9",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "1628846c3a5f",
+      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "909afd987c74",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "ea13a5b24119",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "12b86f04ce42",
       "content/posts/the-scaffolding-we-forget.md": "e886c54289af",
@@ -132,7 +133,7 @@
       "content/posts/two-failures-of-trace.md": "b3abd22841c9",
       "content/posts/what-always-listens-cannot-originate.md": "fd5ad97dafc5",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
-      "content/posts/what-works-is-the-belief.md": "a0c7f1bb874e",
+      "content/posts/what-works-is-the-belief.md": "e52c3a0dc472",
       "content/posts/whatever-is-one-prompt-away.md": "23cc714ee413",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "a814842d6a67",
@@ -143,27 +144,31 @@
       "content/posts/you-wu-zhi-bian.md": "e6b05b2e023b"
     },
     "stats": {
-      "posts": 133,
-      "edges": 509,
-      "unique_directed": 502,
+      "posts": 134,
+      "edges": 523,
+      "unique_directed": 516,
       "missing_targets": 0,
-      "one_way": 314,
+      "one_way": 322,
       "isolated": 38,
-      "posts_with_outbound": 68
+      "posts_with_outbound": 69
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 28
+      "in_degree": 29
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 21
+      "in_degree": 22
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 18
+    },
+    {
+      "slug": "no-system-can-be-kept-closed",
+      "in_degree": 17
     },
     {
       "slug": "self-rl-for-humans",
@@ -174,8 +179,8 @@
       "in_degree": 17
     },
     {
-      "slug": "no-system-can-be-kept-closed",
-      "in_degree": 16
+      "slug": "closed-reality-in-benchmark-maxing",
+      "in_degree": 15
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -184,10 +189,6 @@
     {
       "slug": "the-scaffolding-we-forget",
       "in_degree": 15
-    },
-    {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 14
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -214,6 +215,10 @@
       "in_degree": 10
     },
     {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 9
+    },
+    {
       "slug": "ownership-and-self-worthiness",
       "in_degree": 9
     },
@@ -222,12 +227,8 @@
       "in_degree": 9
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 8
-    },
-    {
       "slug": "agi-and-asi-are-temporary-goalposts",
-      "in_degree": 7
+      "in_degree": 8
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -241,7 +242,7 @@
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "out_degree": 15
+      "out_degree": 16
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -300,6 +301,10 @@
       "out_degree": 11
     },
     {
+      "slug": "the-risk-is-the-belief-in-oversight-itself",
+      "out_degree": 11
+    },
+    {
       "slug": "the-scaffolding-we-forget",
       "out_degree": 11
     },
@@ -309,10 +314,6 @@
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
-      "out_degree": 10
-    },
-    {
-      "slug": "no-system-can-be-kept-closed",
       "out_degree": 10
     }
   ],
@@ -428,7 +429,7 @@
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
       "hash": "2199af1caa54",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -604,9 +605,9 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
-      "hash": "1b2ef11aa2c5",
-      "in_degree": 14,
-      "out_degree": 15,
+      "hash": "81c9cdbb3f92",
+      "in_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "you-cant-benchmark-the-fluid",
         "agi-and-asi-are-temporary-goalposts",
@@ -622,7 +623,8 @@
         "whatever-is-one-prompt-away",
         "open-vision-in-a-closed-arena",
         "mistaking-the-expression-for-the-intelligence",
-        "ontos-is-a-method-agent"
+        "ontos-is-a-method-agent",
+        "the-risk-is-the-belief-in-oversight-itself"
       ]
     },
     {
@@ -767,7 +769,7 @@
       "path": "content/posts/escaping-the-sandbox-stays-inside-the-hold.md",
       "title": "Escaping the Sandbox Stays Inside the Hold",
       "hash": "36e346196287",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 8,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -1007,7 +1009,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "554df57ed3bf",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 3,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -1139,7 +1141,7 @@
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
       "hash": "85b795bfe4f9",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 12,
       "links_out": [
         "two-failures-of-trace",
@@ -1196,7 +1198,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
       "hash": "f4938f425021",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 10,
       "links_out": [
         "openness-is-consistency",
@@ -1331,7 +1333,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "4ef53f3358e2",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 9,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1563,14 +1565,15 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "77b9c3fa364d",
-      "in_degree": 3,
-      "out_degree": 4,
+      "hash": "a410a6855d52",
+      "in_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "hassabis-frontier-agi-premise",
         "recursive-contradiction-of-entrusted-morality",
         "the-risk-you-delegate-is-the-risk-you-create",
-        "sovereignty-essay"
+        "sovereignty-essay",
+        "the-risk-is-the-belief-in-oversight-itself"
       ]
     },
     {
@@ -1973,7 +1976,7 @@
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "The Question That Installs the War",
       "hash": "2212901bec84",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 1,
       "links_out": [
         "reality-is-the-minds-ongoing-realization"
@@ -2031,7 +2034,7 @@
       "path": "content/posts/the-reality-distortion-field-names-the-closed-map.md",
       "title": "The Reality Distortion Field Names the Closed Map",
       "hash": "1628846c3a5f",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -2047,6 +2050,29 @@
         "what-works-is-the-belief",
         "causality-stays-at-the-edge-that-steers",
         "open-vision-in-a-closed-arena"
+      ]
+    },
+    {
+      "id": "post:the-risk-is-the-belief-in-oversight-itself",
+      "kind": "post",
+      "slug": "the-risk-is-the-belief-in-oversight-itself",
+      "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
+      "title": "The Risk Is the Belief in Oversight Itself",
+      "hash": "909afd987c74",
+      "in_degree": 3,
+      "out_degree": 11,
+      "links_out": [
+        "closed-reality-in-benchmark-maxing",
+        "intelligence-belongs-only-to-the-mind",
+        "escaping-the-sandbox-stays-inside-the-hold",
+        "no-system-can-be-kept-closed",
+        "mistaking-the-expression-for-the-intelligence",
+        "what-works-is-the-belief",
+        "sovereignty-belief-and-regulatory-structures",
+        "openness-is-consistency",
+        "the-question-that-installs-the-war",
+        "agi-and-asi-are-temporary-goalposts",
+        "the-reality-distortion-field-names-the-closed-map"
       ]
     },
     {
@@ -2241,9 +2267,9 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "What Works Is the Belief",
-      "hash": "a0c7f1bb874e",
-      "in_degree": 3,
-      "out_degree": 8,
+      "hash": "e52c3a0dc472",
+      "in_degree": 4,
+      "out_degree": 9,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
         "no-system-can-be-kept-closed",
@@ -2252,7 +2278,8 @@
         "name-negation-tendency",
         "what-cannot-be-kept",
         "clarity-isnt-a-state-you-arrive-at",
-        "the-reality-distortion-field-names-the-closed-map"
+        "the-reality-distortion-field-names-the-closed-map",
+        "the-risk-is-the-belief-in-oversight-itself"
       ]
     },
     {
@@ -2824,6 +2851,12 @@
       "to": "ontos-is-a-method-agent",
       "rel": "points_to",
       "label": "Presenting Ontos as a method agent"
+    },
+    {
+      "from": "closed-reality-in-benchmark-maxing",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The risk is the belief in oversight itself"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
@@ -4092,6 +4125,12 @@
       "label": "Surrender as misaligned sovereignty"
     },
     {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The risk is the belief in oversight itself"
+    },
+    {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
@@ -4800,6 +4839,72 @@
       "label": "Open vision in a closed arena"
     },
     {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed reality in benchmark maxing"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the sandbox stays inside the hold"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What works is the belief"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The question that installs the war"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The reality distortion field names the closed map"
+    },
+    {
       "from": "the-scaffolding-we-forget-local-models-as-default",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
@@ -5200,6 +5305,12 @@
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
       "label": "The reality distortion field names the closed map"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The risk is the belief in oversight itself"
     },
     {
       "from": "whatever-is-one-prompt-away",

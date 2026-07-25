@@ -88,6 +88,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Victorian stereograph dual-panel** | Cream antique card mount, twin albumen panels of one coin (obverse/reverse), monocular loupe between that can cover only one face, sepia museum light, chemical grain | `the-paradoxical-nature-of-bystander-insights` |
 | **Encaustic wax on wood panel** | Warm beeswax layers, fused color, wood grain, museum raking light; open multi-climate strata under a cooler opaque scoreboard frame and blank gold steward seal | `the-climate-problem-registers-only-as-perception` |
 | **Fresco strappo / detached mural fragment** | Warm plaster museum wall, mineral ochre–rose consoling wash over unfinished contour and hatch, open pinholes on raw far edge, raking side light, grit | `sympathy-is-a-placeholder-for-lack-of-clarity` |
+| **Security-print guilloche engraving** | Cream rag banknote paper, rose-engine green–umber lattice, sealed supervisory windows with open stock continuing past the hold, plate tone, raking light | `the-risk-is-the-belief-in-oversight-itself` |
 
 ## Inventory (by slug)
 
@@ -141,6 +142,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-path-drawn-one-step-at-a-time` | Cinematic dual-path |
 | `the-question-that-installs-the-war` | Surreal desert allegory |
 | `the-reality-distortion-field-names-the-closed-map` | Drypoint cartographic plate |
+| `the-risk-is-the-belief-in-oversight-itself` | Security-print guilloche engraving |
 | `the-ramble-within-the-ramble` | Anaglyph red-cyan stereo graphic |
 | `the-real-scarcity-is-not-memory-but-continuous-re-tracing` | Charcoal wipe / continuous redraw on newsprint |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
