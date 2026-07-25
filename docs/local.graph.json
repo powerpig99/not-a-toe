@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-24T21:31:54.831Z",
+    "generated_at": "2026-07-25T15:48:52.633Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -12,29 +12,30 @@
       "docs/export-for-substack.md": "a0b53c416d33",
       "docs/export-for-x-article.md": "98005d2c0b49",
       "export/README.md": "b58f6146e1bb",
-      "assets/covers/STYLES.md": "491243a38172",
+      "assets/covers/STYLES.md": "943bea036b4c",
       "README.md": "5073027c3312",
-      "docs/local-memory.md": "d107677229f5",
+      "docs/local-memory.md": "fcaff4f22b90",
       "build.mjs": "a16daa98a1ae",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "905451f9ab5b"
+      "MEMORY.md": "9b2cea4e08ca"
     },
     "stats": {
-      "posts": 130,
-      "covers": 60,
+      "posts": 133,
+      "covers": 63,
       "trackers_listed": 12,
       "trackers_present": 12
     },
     "counts": {
-      "nodes": 26,
-      "edges": 93,
+      "nodes": 27,
+      "edges": 95,
       "missing": 0,
       "by_kind": {
         "project": 1,
         "tracker": 8,
         "domain": 12,
+        "file_ref": 1,
         "script": 4,
         "memory": 1
       }
@@ -58,13 +59,13 @@
       "count": 11
     },
     {
-      "id": "tracker:format",
-      "name": "format",
-      "count": 7
-    },
-    {
       "id": "tracker:local",
       "name": "local",
+      "count": 9
+    },
+    {
+      "id": "tracker:format",
+      "name": "format",
       "count": 7
     },
     {
@@ -162,11 +163,18 @@
       "layer": "domain"
     },
     {
+      "id": "file:grok-memory-graph-readme-md",
+      "kind": "file_ref",
+      "name": "README.md",
+      "path": ".grok/memory-graph/README.md",
+      "layer": "ref"
+    },
+    {
       "id": "memory:project",
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "905451f9ab5b",
+      "hash": "9b2cea4e08ca",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -204,7 +212,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "491243a38172",
+      "hash": "943bea036b4c",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -324,7 +332,7 @@
       "path": "docs/local-memory.md",
       "owns": "manifest",
       "exists": true,
-      "hash": "d107677229f5",
+      "hash": "fcaff4f22b90",
       "summary": "Manifest of operational `.md` files for this project.",
       "headings": [
         "Local memory — living trackers and sleep audit",
@@ -783,6 +791,12 @@
     },
     {
       "from": "tracker:local",
+      "to": "file:grok-memory-graph-readme-md",
+      "rel": "points_to",
+      "label": "`.grok/memory-graph/`"
+    },
+    {
+      "from": "tracker:local",
       "to": "tracker:posts",
       "rel": "points_to",
       "label": "`content/posts/README.md`"
@@ -822,6 +836,12 @@
       "to": "tracker:root",
       "rel": "points_to",
       "label": "`README.md`"
+    },
+    {
+      "from": "tracker:local",
+      "to": "file:grok-memory-graph-readme-md",
+      "rel": "points_to",
+      "label": "`.grok/memory-graph/README.md`"
     },
     {
       "from": "project:not-a-toe",

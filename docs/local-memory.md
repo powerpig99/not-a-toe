@@ -7,6 +7,8 @@ Manifest of operational `.md` files for this project. Temporary ground at projec
 | Skill sleep (framework store graph) | `~/.grok/skills/ontological-clarity/` (active) · mirror `~/.claude/skills/ontological-clarity/` · `node project-store-graph.mjs` |
 | Project local graph (trackers) | `node scripts/project-local-graph.mjs` → `docs/local.graph.json` |
 | Posts lattice (essay cross-links) | `node scripts/project-posts-graph.mjs` → `docs/posts.graph.json` |
+| Knowledge graph (project leaf) | [`.grok/memory-graph/`](../.grok/memory-graph/README.md) · leaf of **Grok Build Memory** `~/.grok/memory-graph` · `sync` registers `project-not-a-toe` in parent · `up` / `evolve` · default method: ontological-clarity |
+| Grok Build Memory (global root) | `~/.grok/memory-graph` · `projects.json` · `node ~/.grok/memory-graph/retrieval.mjs projects\|down project-not-a-toe` |
 | Claude project memory | `~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md` |
 
 ## Principle
@@ -27,13 +29,14 @@ Manifest of operational `.md` files for this project. Temporary ground at projec
 | `covers` | [`assets/covers/STYLES.md`](../assets/covers/STYLES.md) | Cover style families, inventory, differentiation rule |
 | `root` | [`README.md`](../README.md) | Index of guides + minimal authoring summary |
 | `local` | [`docs/local-memory.md`](local-memory.md) | This manifest + sleep audit steps |
+| `knowledge-graph` | [`.grok/memory-graph/README.md`](../.grok/memory-graph/README.md) | Project leaf graph (parent: `~/.grok/memory-graph`); dual-write from `/sleep` when lasting; `sync` registers leaf |
 | `memory` | Claude `memory/MEMORY.md` (outside repo) | Resume cursor, non-derivable prefs only |
 
 Essay bodies under `content/posts/*.md` are **content**, not trackers. Sleep does not rewrite essays for inventory hygiene. It may run a **related-post currency pass** (below) when new or changed posts appear, and may note cover/style inventory drift against `assets/covers/`.
 
 ## Sleep audit procedure
 
-Entered with project `/sleep` (or when sleep residue is operational). Operator call only.
+**Pipeline:** session (perception) → **`/bridge`** working memory `memory/context.graph.json` → **`/sleep`** attaches into `memory/memory.graph.json` (context graph left on disk; ignored by new sessions without `/resume-bridge`; next bridge replaces it) → **`/deep-sleep`** bottom-up abstracts the memory tree (+ store/trackers; dual-write to `.grok/memory-graph/`). Mid-day: bridge then `/clear` + later `/resume-bridge`. Operator call only.
 
 1. **Load graphs** — `docs/local.graph.json` and `docs/posts.graph.json` if present (speed); else walk the tracker table and regenerate posts graph.
 2. **Per tracker** — open file; for each claim that is a fact about the repo (paths, commands, counts, inventories):

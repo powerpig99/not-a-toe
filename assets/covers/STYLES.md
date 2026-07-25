@@ -87,6 +87,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Charcoal wipe / continuous redraw on newsprint** | Gray newsprint tooth, charcoal path re-drawn over wiped ghost trails, closed catalog of unjoined dots aside, raking side light | `the-real-scarcity-is-not-memory-but-continuous-re-tracing` |
 | **Victorian stereograph dual-panel** | Cream antique card mount, twin albumen panels of one coin (obverse/reverse), monocular loupe between that can cover only one face, sepia museum light, chemical grain | `the-paradoxical-nature-of-bystander-insights` |
 | **Encaustic wax on wood panel** | Warm beeswax layers, fused color, wood grain, museum raking light; open multi-climate strata under a cooler opaque scoreboard frame and blank gold steward seal | `the-climate-problem-registers-only-as-perception` |
+| **Fresco strappo / detached mural fragment** | Warm plaster museum wall, mineral ochre–rose consoling wash over unfinished contour and hatch, open pinholes on raw far edge, raking side light, grit | `sympathy-is-a-placeholder-for-lack-of-clarity` |
 
 ## Inventory (by slug)
 
@@ -126,6 +127,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `reality-is-the-minds-ongoing-realization` | Comic halftone / Ben-Day dots |
 | `self-rl-for-humans` | Dark chalk / light trails |
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
+| `sympathy-is-a-placeholder-for-lack-of-clarity` | Fresco strappo / detached mural fragment |
 | `the-allocation-of-causal-power-in-validation` | Dark chalk / light trails |
 | `the-brain-does-not-backprop` | Dark chalk / light trails |
 | `the-climate-problem-registers-only-as-perception` | Encaustic wax on wood panel |

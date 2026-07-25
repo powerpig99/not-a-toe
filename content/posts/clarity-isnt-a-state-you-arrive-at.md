@@ -36,7 +36,7 @@ An essay about clarity, then, is already a departure from clarity. The framework
 
 ## What Remains
 
-Clarity isn't a state. Arriving would mean stopping at a position, which means looking through a lens, which means the invisible filtering has resumed.
+Clarity isn't a state. Arriving would mean stopping at a position, which means looking through a lens, which means the invisible filtering has resumed. [Sympathy is a placeholder for lack of clarity](../sympathy-is-a-placeholder-for-lack-of-clarity/) is that false arrival under a consoling label: intensity taken as completed contact so the movement freezes.
 
 Clarity is the movement — the repeated stepping-out that never lands. Each step illuminates and casts shadow by the same act. Each articulation reveals and crystallizes simultaneously. The practice is the movement, not any frame it passes through.
 

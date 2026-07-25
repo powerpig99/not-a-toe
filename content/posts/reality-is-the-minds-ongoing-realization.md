@@ -41,7 +41,7 @@ Exchange that updates treats the other not as audience or opponent, but as a sou
 
 What arrives is not "more content" in the abstract. It is a distinction that compresses differently than the field already held — a re-cut of axes, a bound redrawn, a residue that will not score cleanly on the old board. Each such take-up is a small update to the operating configuration of the center. Over sequences of such updates, what is called realization accumulates: a clearer, more accurate, or more differentiated grasp of what is the case under this locus's recursion.
 
-Other centers appear only as traces in this field. There is no climbing into another's recursion; [没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) names that bound without making isolation a program. Resonance is mutual reinforcement of traces, not shared interior. The update that matters still closes only here. Cross-locus completion of the other's return is a category error. What this locus can do is take up what is available and re-render.
+Other centers appear only as traces in this field. There is no climbing into another's recursion; [没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) names that bound without making isolation a program. Resonance is mutual reinforcement of traces, not shared interior. The update that matters still closes only here. Cross-locus completion of the other's return is a category error. [Sympathy is a placeholder for lack of clarity](../sympathy-is-a-placeholder-for-lack-of-clarity/) is consoling intensity held as if that completion had occurred. What this locus can do is take up what is available and re-render.
 
 ## Reality as ongoing realization
 

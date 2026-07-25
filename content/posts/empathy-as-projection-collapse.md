@@ -64,4 +64,4 @@ The collapse is not in the demand. It is in the word. "Empathy" compresses ortho
 
 This does not mean the perceptual-widening operation is impossible or rare. It means it operates on axes that public language represents poorly. Its evidence is indirect. Its practice is private. Its results appear as changed behavior, not as declarations.
 
-The operations continue. They do not need the word.
+The operations continue. They do not need the word. [Sympathy is a placeholder for lack of clarity](../sympathy-is-a-placeholder-for-lack-of-clarity/) is the private face of the same freeze: intensity retained as proof of contact so that distinguishing stops.
