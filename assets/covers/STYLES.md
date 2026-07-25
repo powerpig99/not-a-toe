@@ -85,6 +85,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Graphite pencil study on toned paper** | Warm cream paper, academic cross-hatch, soft graphite gradation, museum raking light; precise instrument with path continuing past the dial | `mistaking-the-expression-for-the-intelligence` |
 | **Urushi lacquer / maki-e still** | Deep black lacquer tray, gold maki-e line continuing past the vessel, nested specialty residue on one side only, museum craft light | `ontos-is-a-method-agent` |
 | **Charcoal wipe / continuous redraw on newsprint** | Gray newsprint tooth, charcoal path re-drawn over wiped ghost trails, closed catalog of unjoined dots aside, raking side light | `the-real-scarcity-is-not-memory-but-continuous-re-tracing` |
+| **Victorian stereograph dual-panel** | Cream antique card mount, twin albumen panels of one coin (obverse/reverse), monocular loupe between that can cover only one face, sepia museum light, chemical grain | `the-paradoxical-nature-of-bystander-insights` |
 
 ## Inventory (by slug)
 
@@ -95,6 +96,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `a-new-deeper-look-at-antifragility` | Painterly glass / gold path |
 | `agi-and-asi-are-temporary-goalposts` | Metaphysical plaza oil |
 | `better-than-free-after-the-checklist-closes` | Paper craft / tabletop still |
+| `the-paradoxical-nature-of-bystander-insights` | Victorian stereograph dual-panel |
 | `causality-all-the-way` | Sand animation / grain board |
 | `causality-stays-at-the-edge-that-steers` | Bauhaus primary-color geometry |
 | `closed-reality-in-benchmark-maxing` | Photoreal tableau |
