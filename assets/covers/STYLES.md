@@ -89,6 +89,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Encaustic wax on wood panel** | Warm beeswax layers, fused color, wood grain, museum raking light; open multi-climate strata under a cooler opaque scoreboard frame and blank gold steward seal | `the-climate-problem-registers-only-as-perception` |
 | **Fresco strappo / detached mural fragment** | Warm plaster museum wall, mineral ochre–rose consoling wash over unfinished contour and hatch, open pinholes on raw far edge, raking side light, grit | `sympathy-is-a-placeholder-for-lack-of-clarity` |
 | **Security-print guilloche engraving** | Cream rag banknote paper, rose-engine green–umber lattice, sealed supervisory windows with open stock continuing past the hold, plate tone, raking light | `the-risk-is-the-belief-in-oversight-itself` |
+| **Palimpsest vellum / multi-ink redraw** | Aged cream vellum, successive translucent iron-gall map layers, ghost cartographies under newest path, bone stylus mid-redraw, raking museum light | `the-strongest-belief-of-the-mind` |
 
 ## Inventory (by slug)
 
@@ -147,6 +148,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-real-scarcity-is-not-memory-but-continuous-re-tracing` | Charcoal wipe / continuous redraw on newsprint |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
+| `the-strongest-belief-of-the-mind` | Palimpsest vellum / multi-ink redraw |
 | `therapy-opens-the-feedback-loop` | Sandblasted glass etching |
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
