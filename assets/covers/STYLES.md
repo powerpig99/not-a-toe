@@ -92,6 +92,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Palimpsest vellum / multi-ink redraw** | Aged cream vellum, successive translucent iron-gall map layers, ghost cartographies under newest path, bone stylus mid-redraw, raking museum light | `the-strongest-belief-of-the-mind` |
 | **Celadon kiln shelf still life** | Pale jade celadon bowl with open residual interior, unworked clay coil beside it, dark kiln shelf, cool museum side light, crackle glaze | `only-if-it-is-not-kept-empty` |
 | **Lithographic crayon / stone print** | Warm gray limestone ground, greasy black crayon, plate tone, museum raking light; multi-story scaffold densifying as it extends past the plate edge | `the-scaffolding-that-keeps-growing` |
+| **Magic-lantern glass slide still** | Antique hand-painted glass slide on dark wood, fixed translucent figure-on-ladder image, living chalk trail continuing past the glass, amber projection cone + cool museum light | `the-fixed-image-of-transcendence` |
 
 ## Inventory (by slug)
 
@@ -136,6 +137,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-brain-does-not-backprop` | Dark chalk / light trails |
 | `the-climate-problem-registers-only-as-perception` | Encaustic wax on wood panel |
 | `the-coordinators-category-error` | Kintsugi ceramic still life |
+| `the-fixed-image-of-transcendence` | Magic-lantern glass slide still |
 | `the-flywheel-of-the-mind` | Art Deco poster / chrome and sunburst |
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
 | `the-meaning-of-life-is-in-the-drafting` | Risograph flat print |
