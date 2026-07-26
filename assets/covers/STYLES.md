@@ -94,6 +94,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Lithographic crayon / stone print** | Warm gray limestone ground, greasy black crayon, plate tone, museum raking light; multi-story scaffold densifying as it extends past the plate edge | `the-scaffolding-that-keeps-growing` |
 | **Magic-lantern glass slide still** | Antique hand-painted glass slide on dark wood, fixed translucent figure-on-ladder image, living chalk trail continuing past the glass, amber projection cone + cool museum light | `the-fixed-image-of-transcendence` |
 | **Chart-recorder / oscillograph strip** | Aged cream fanfold paper, pen-trace still life, thin early initiating spike then delayed denser oscillatory lag, mechanical grid, raking museum light | `symptom-and-cause-in-the-narratives-of-progress` |
+| **Dendrochronology / polished tree-ring section** | Warm ivory linen, polished trunk cross-section, successive growth rings as discrete compounding layers, open cambium edge still living, cream–amber–olive, natural-history museum light | `curiosity-first-the-hidden-engine-of-talent-and-development` |
 
 ## Inventory (by slug)
 
@@ -110,6 +111,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `closed-reality-in-benchmark-maxing` | Photoreal tableau |
 | `closed-reality-in-the-pursuit-of-serendipity` | Pinhole / camera obscura photograph |
 | `complexity-obscures-emergence-as-the-act-of-mind` | Copperplate engraving |
+| `curiosity-first-the-hidden-engine-of-talent-and-development` | Dendrochronology / polished tree-ring section |
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
 | `escaping-the-sandbox-stays-inside-the-hold` | Persian miniature illumination |
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-26T22:05:11.051Z",
+    "generated_at": "2026-07-26T23:01:16.150Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -30,6 +30,7 @@
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
+      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "e25d04f78f26",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
@@ -47,7 +48,7 @@
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
-      "content/posts/having-more-is-never-the-cause.md": "99b0a244d8e2",
+      "content/posts/having-more-is-never-the-cause.md": "d5cf63163012",
       "content/posts/help-is-half-the-problem.md": "ab76bdb2d800",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
@@ -62,7 +63,7 @@
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "190b8673d831",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "4373ad21304a",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "bea4e1d37e05",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
@@ -76,7 +77,7 @@
       "content/posts/open-vision-in-a-closed-arena.md": "778c106f4067",
       "content/posts/openness-is-consistency.md": "9e158f698208",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "27e754156200",
+      "content/posts/ownership-and-self-worthiness.md": "025760b02a68",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "6df4ed4d0f7d",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
@@ -149,13 +150,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 139,
-      "edges": 632,
-      "unique_directed": 622,
+      "posts": 140,
+      "edges": 645,
+      "unique_directed": 635,
       "missing_targets": 0,
-      "one_way": 320,
+      "one_way": 327,
       "isolated": 38,
-      "posts_with_outbound": 76
+      "posts_with_outbound": 77
     }
   },
   "hubs_in": [
@@ -180,12 +181,12 @@
       "in_degree": 19
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "self-rl-for-humans",
       "in_degree": 18
     },
     {
-      "slug": "self-rl-for-humans",
-      "in_degree": 17
+      "slug": "the-scaffolding-we-forget",
+      "in_degree": 18
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -200,6 +201,10 @@
       "in_degree": 14
     },
     {
+      "slug": "the-scaffolding-that-keeps-growing",
+      "in_degree": 12
+    },
+    {
       "slug": "the-strongest-belief-of-the-mind",
       "in_degree": 12
     },
@@ -212,15 +217,15 @@
       "in_degree": 11
     },
     {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 11
+    },
+    {
       "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 11
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 11
-    },
-    {
-      "slug": "the-scaffolding-that-keeps-growing",
       "in_degree": 11
     },
     {
@@ -233,10 +238,6 @@
     },
     {
       "slug": "agi-and-asi-are-temporary-goalposts",
-      "in_degree": 10
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 10
     }
   ],
@@ -258,6 +259,10 @@
       "out_degree": 16
     },
     {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "out_degree": 14
+    },
+    {
       "slug": "no-system-can-be-kept-closed",
       "out_degree": 14
     },
@@ -276,10 +281,6 @@
     {
       "slug": "why-mathematics-can-never-be-solved",
       "out_degree": 14
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "out_degree": 13
     },
     {
       "slug": "openness-is-consistency",
@@ -715,6 +716,28 @@
       "links_out": []
     },
     {
+      "id": "post:curiosity-first-the-hidden-engine-of-talent-and-development",
+      "kind": "post",
+      "slug": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
+      "title": "Curiosity First: The Hidden Engine of Talent and Development",
+      "hash": "e25d04f78f26",
+      "in_degree": 3,
+      "out_degree": 10,
+      "links_out": [
+        "mistaking-the-expression-for-the-intelligence",
+        "having-more-is-never-the-cause",
+        "performative-hindsight-that-pretends-to-be-foresight",
+        "token-efficiency-emulation-and-the-unclosable-gap",
+        "ownership-and-self-worthiness",
+        "individual-choices-as-the-only-causal-levers",
+        "the-fixed-image-of-transcendence",
+        "self-rl-for-humans",
+        "the-scaffolding-that-keeps-growing",
+        "whatever-is-one-prompt-away"
+      ]
+    },
+    {
       "id": "post:cybersecurity-arms-race",
       "kind": "post",
       "slug": "cybersecurity-arms-race",
@@ -938,15 +961,16 @@
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
-      "hash": "99b0a244d8e2",
-      "in_degree": 4,
-      "out_degree": 6,
+      "hash": "d5cf63163012",
+      "in_degree": 5,
+      "out_degree": 7,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
         "individual-choices-as-the-only-causal-levers",
         "the-allocation-of-causal-power-in-validation",
         "two-failures-of-trace",
         "ownership-and-self-worthiness",
+        "curiosity-first-the-hidden-engine-of-talent-and-development",
         "the-flywheel-of-the-mind"
       ]
     },
@@ -1004,7 +1028,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "6757ffe7c803",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 12,
       "links_out": [
         "causality-all-the-way",
@@ -1160,13 +1184,14 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
-      "hash": "4373ad21304a",
-      "in_degree": 10,
-      "out_degree": 13,
+      "hash": "bea4e1d37e05",
+      "in_degree": 11,
+      "out_degree": 14,
       "links_out": [
         "two-failures-of-trace",
         "the-non-definitive-definition-of-intelligence",
         "you-cant-benchmark-the-fluid",
+        "curiosity-first-the-hidden-engine-of-talent-and-development",
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
         "agi-and-asi-are-temporary-goalposts",
@@ -1415,11 +1440,12 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "27e754156200",
-      "in_degree": 9,
-      "out_degree": 1,
+      "hash": "025760b02a68",
+      "in_degree": 10,
+      "out_degree": 2,
       "links_out": [
-        "individual-choices-as-the-only-causal-levers"
+        "individual-choices-as-the-only-causal-levers",
+        "curiosity-first-the-hidden-engine-of-talent-and-development"
       ]
     },
     {
@@ -1440,7 +1466,7 @@
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "Performative Hindsight That Pretends to Be Foresight",
       "hash": "6df4ed4d0f7d",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1589,7 +1615,7 @@
       "path": "content/posts/self-rl-for-humans.md",
       "title": "What Looks Like RL for AIs Is Self-RL for Humans",
       "hash": "0af62aecf5bc",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 0,
       "links_out": []
     },
@@ -1840,7 +1866,7 @@
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "The Fixed Image of Transcendence",
       "hash": "88248907f005",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 11,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2209,7 +2235,7 @@
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "The Scaffolding That Keeps Growing",
       "hash": "b13973313253",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 10,
       "links_out": [
         "openness-is-consistency",
@@ -2351,7 +2377,7 @@
       "path": "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md",
       "title": "Token Efficiency, Emulation, and the Unclosable Gap",
       "hash": "036c2f91a81c",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 12,
       "links_out": [
         "efficiency-without-differentiation",
@@ -2458,7 +2484,7 @@
       "path": "content/posts/whatever-is-one-prompt-away.md",
       "title": "Whatever Is One Prompt Away",
       "hash": "87f6fd4e207c",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -3188,6 +3214,66 @@
       "label": "Self-RL for humans"
     },
     {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative hindsight that pretends to be foresight"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token efficiency, emulation, and the unclosable gap"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The fixed image of transcendence"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "Self-RL for humans"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever is one prompt away"
+    },
+    {
       "from": "distillation-compression-agency",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
@@ -3366,6 +3452,12 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity first"
     },
     {
       "from": "having-more-is-never-the-cause",
@@ -3648,6 +3740,12 @@
       "to": "you-cant-benchmark-the-fluid",
       "rel": "points_to",
       "label": "You can't benchmark the fluid"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity first"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -4230,6 +4328,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity first"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
