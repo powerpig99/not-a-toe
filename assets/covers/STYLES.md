@@ -90,6 +90,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Fresco strappo / detached mural fragment** | Warm plaster museum wall, mineral ochre–rose consoling wash over unfinished contour and hatch, open pinholes on raw far edge, raking side light, grit | `sympathy-is-a-placeholder-for-lack-of-clarity` |
 | **Security-print guilloche engraving** | Cream rag banknote paper, rose-engine green–umber lattice, sealed supervisory windows with open stock continuing past the hold, plate tone, raking light | `the-risk-is-the-belief-in-oversight-itself` |
 | **Palimpsest vellum / multi-ink redraw** | Aged cream vellum, successive translucent iron-gall map layers, ghost cartographies under newest path, bone stylus mid-redraw, raking museum light | `the-strongest-belief-of-the-mind` |
+| **Celadon kiln shelf still life** | Pale jade celadon bowl with open residual interior, unworked clay coil beside it, dark kiln shelf, cool museum side light, crackle glaze | `only-if-it-is-not-kept-empty` |
 
 ## Inventory (by slug)
 
@@ -160,6 +161,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `why-mathematics-can-never-be-solved` | Dutch Golden Age vanitas still |
 | `qian-yin-hou-guo` | Silverpoint / metalpoint on gesso |
 | `you-wu-zhi-bian` | Minimal horizon band |
+| `only-if-it-is-not-kept-empty` | Celadon kiln shelf still life |
 
 ## Crowded — prefer not to extend
 

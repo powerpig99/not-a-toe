@@ -24,4 +24,4 @@ Improve-by-own-acts is the step left intact.
 
 ## Release
 
-Clarity is one-step width. Direction is registration by centers that track sequence. Movement. [前因，后果](../qian-yin-hou-guo/) is the same asymmetry under Chinese naming: prior cause and later consequence as interval, not two simultaneous events; the retained reference–explanation lagging observation is what registers a sown consequence as external cause.
+Clarity is one-step width. Direction is registration by centers that track sequence. Movement. [前因，后果](../qian-yin-hou-guo/) is the same asymmetry under Chinese naming: prior cause and later consequence as interval, not two simultaneous events; the retained reference–explanation lagging observation is what registers a sown consequence as external cause. [The strongest belief of the Mind](../the-strongest-belief-of-the-mind/) is position as chosen premise under the hardest-cohering map — instrument, not finished co-author of the step. [The climate problem registers only as perception](../the-climate-problem-registers-only-as-perception/) is problem-status installed as unchosen ground of the planetary field rather than as a further discrete hold.

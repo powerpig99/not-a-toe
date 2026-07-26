@@ -46,6 +46,6 @@ The conventional framing positions institutions as the safeguard between dangero
 
 This isn't an argument against regulation as such. It's a structural observation: **delegating risk to concentrated accountability structures converts a distributed, diminishing problem into a concentrated, self-sustaining one.** The distributed version—millions of individuals choosing exposure to an improving system—shrinks as the system improves with each mile driven. The concentrated version—institutional gates that optimize for zero attributable failure—has no mechanism to shrink, because the cost of the status quo is never attributed.
 
-The risk you delegate is the risk you create. Not as paradox. As mechanism. The 40,000 annual deaths persist not because we lack a better system, but because the structure through which we collectively manage risk is itself the primary obstacle to reducing it.
+The risk you delegate is the risk you create. Not as paradox. As mechanism. The 40,000 annual deaths persist not because we lack a better system, but because the structure through which we collectively manage risk is itself the primary obstacle to reducing it. [The climate problem registers only as perception](../the-climate-problem-registers-only-as-perception/) is the same apparatus under planetary costume: solution layers whose funding and necessity require residual on a closed suite that an open multi-factor field will not finish.
 
 This is how the mechanism works. What you do with it is yours.
