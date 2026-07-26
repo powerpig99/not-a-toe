@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-26T06:23:37.237Z",
+    "generated_at": "2026-07-26T07:39:45.026Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -13,7 +13,7 @@
       "content/posts/a-living-external-cortex.md": "aa8953161686",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "edb444708d81",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "011e814fad07",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
@@ -21,7 +21,7 @@
       "content/posts/causality-all-the-way.md": "f3e674ecec92",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "6919c6254edb",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
-      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "c5320e8f45d0",
+      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "ae37471af83b",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/closed-reality-in-benchmark-maxing.md": "a23a04810024",
@@ -66,15 +66,15 @@
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
-      "content/posts/no-system-can-be-kept-closed.md": "0b169a9bc21d",
+      "content/posts/no-system-can-be-kept-closed.md": "11d13f979f57",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "610b1ba4fa6b",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
       "content/posts/on-education.md": "d62f17d7f550",
-      "content/posts/only-if-it-is-not-kept-empty.md": "fd8bc2f5b48f",
+      "content/posts/only-if-it-is-not-kept-empty.md": "0e830287ad49",
       "content/posts/ontos-is-a-method-agent.md": "a87170f33de8",
       "content/posts/open-vision-in-a-closed-arena.md": "778c106f4067",
-      "content/posts/openness-is-consistency.md": "48be7cce713f",
+      "content/posts/openness-is-consistency.md": "9e158f698208",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "27e754156200",
       "content/posts/perception-perspective-refined.md": "726559169efb",
@@ -83,7 +83,7 @@
       "content/posts/production-consumption-and-the-minds-distinction.md": "08a7d263db86",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
-      "content/posts/reality-is-the-minds-ongoing-realization.md": "b0e448e9d1e8",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "2b02b81bad59",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "e695779caec2",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -114,15 +114,16 @@
       "content/posts/the-non-definitive-definition-of-intelligence.md": "804dac3addfb",
       "content/posts/the-npc-impression-is-structural.md": "b9a505f434c6",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "9ac1c2f57cfd",
-      "content/posts/the-path-drawn-one-step-at-a-time.md": "7b09b2855353",
+      "content/posts/the-path-drawn-one-step-at-a-time.md": "904e7ac686d9",
       "content/posts/the-question-that-installs-the-war.md": "b65394259159",
       "content/posts/the-ramble-within-the-ramble.md": "4b0befa6bea2",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "ade144f6399b",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "be8e0511f2a5",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "909afd987c74",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "9f3b2c8c0cff",
+      "content/posts/the-scaffolding-that-keeps-growing.md": "b13973313253",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "12b86f04ce42",
-      "content/posts/the-scaffolding-we-forget.md": "32d97ca4151d",
+      "content/posts/the-scaffolding-we-forget.md": "401e51d21428",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "c5f30d4d5c8d",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
@@ -136,23 +137,23 @@
       "content/posts/what-always-listens-cannot-originate.md": "fd5ad97dafc5",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "7c946cf744da",
-      "content/posts/whatever-is-one-prompt-away.md": "23cc714ee413",
+      "content/posts/whatever-is-one-prompt-away.md": "87f6fd4e207c",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "a814842d6a67",
       "content/posts/when-the-effect-authors-the-frame.md": "49097d2eb679",
       "content/posts/why-explanation-fails.md": "5fe163a22059",
-      "content/posts/why-mathematics-can-never-be-solved.md": "098e4d04d830",
+      "content/posts/why-mathematics-can-never-be-solved.md": "60add3a8fd57",
       "content/posts/you-cant-benchmark-the-fluid.md": "730e5564e3a4",
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 136,
-      "edges": 581,
-      "unique_directed": 572,
+      "posts": 137,
+      "edges": 602,
+      "unique_directed": 592,
       "missing_targets": 0,
       "one_way": 306,
       "isolated": 38,
-      "posts_with_outbound": 73
+      "posts_with_outbound": 74
     }
   },
   "hubs_in": [
@@ -162,26 +163,26 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 24
+      "in_degree": 25
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 19
+      "in_degree": 20
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 19
+      "in_degree": 20
     },
     {
       "slug": "the-path-drawn-one-step-at-a-time",
+      "in_degree": 19
+    },
+    {
+      "slug": "the-scaffolding-we-forget",
       "in_degree": 18
     },
     {
       "slug": "self-rl-for-humans",
-      "in_degree": 17
-    },
-    {
-      "slug": "the-scaffolding-we-forget",
       "in_degree": 17
     },
     {
@@ -225,15 +226,15 @@
       "in_degree": 10
     },
     {
+      "slug": "the-scaffolding-that-keeps-growing",
+      "in_degree": 10
+    },
+    {
       "slug": "what-always-listens-cannot-originate",
       "in_degree": 10
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 9
-    },
-    {
-      "slug": "ownership-and-self-worthiness",
+      "slug": "agi-and-asi-are-temporary-goalposts",
       "in_degree": 9
     }
   ],
@@ -255,7 +256,19 @@
       "out_degree": 15
     },
     {
+      "slug": "no-system-can-be-kept-closed",
+      "out_degree": 14
+    },
+    {
       "slug": "the-reality-distortion-field-names-the-closed-map",
+      "out_degree": 14
+    },
+    {
+      "slug": "the-scaffolding-we-forget",
+      "out_degree": 14
+    },
+    {
+      "slug": "why-mathematics-can-never-be-solved",
       "out_degree": 14
     },
     {
@@ -263,7 +276,7 @@
       "out_degree": 13
     },
     {
-      "slug": "no-system-can-be-kept-closed",
+      "slug": "openness-is-consistency",
       "out_degree": 13
     },
     {
@@ -271,15 +284,11 @@
       "out_degree": 13
     },
     {
-      "slug": "the-scaffolding-we-forget",
-      "out_degree": 13
-    },
-    {
       "slug": "what-always-listens-cannot-originate",
       "out_degree": 13
     },
     {
-      "slug": "why-mathematics-can-never-be-solved",
+      "slug": "whatever-is-one-prompt-away",
       "out_degree": 13
     },
     {
@@ -288,10 +297,6 @@
     },
     {
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
-      "out_degree": 12
-    },
-    {
-      "slug": "openness-is-consistency",
       "out_degree": 12
     },
     {
@@ -304,10 +309,6 @@
     },
     {
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
-      "out_degree": 12
-    },
-    {
-      "slug": "whatever-is-one-prompt-away",
       "out_degree": 12
     },
     {
@@ -430,9 +431,9 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
-      "hash": "edb444708d81",
-      "in_degree": 8,
-      "out_degree": 9,
+      "hash": "011e814fad07",
+      "in_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -442,7 +443,8 @@
         "why-mathematics-can-never-be-solved",
         "escaping-the-sandbox-stays-inside-the-hold",
         "open-vision-in-a-closed-arena",
-        "the-risk-is-the-belief-in-oversight-itself"
+        "the-risk-is-the-belief-in-oversight-itself",
+        "the-scaffolding-that-keeps-growing"
       ]
     },
     {
@@ -575,13 +577,14 @@
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "Clarity Isn't a State You Arrive At. It's the Movement Itself.",
-      "hash": "c5320e8f45d0",
-      "in_degree": 19,
-      "out_degree": 3,
+      "hash": "ae37471af83b",
+      "in_degree": 20,
+      "out_degree": 4,
       "links_out": [
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "only-if-it-is-not-kept-empty",
-        "the-climate-problem-registers-only-as-perception"
+        "the-climate-problem-registers-only-as-perception",
+        "the-scaffolding-that-keeps-growing"
       ]
     },
     {
@@ -1210,9 +1213,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "0b169a9bc21d",
-      "in_degree": 19,
-      "out_degree": 13,
+      "hash": "11d13f979f57",
+      "in_degree": 20,
+      "out_degree": 14,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1226,7 +1229,8 @@
         "open-vision-in-a-closed-arena",
         "only-if-it-is-not-kept-empty",
         "the-climate-problem-registers-only-as-perception",
-        "the-strongest-belief-of-the-mind"
+        "the-strongest-belief-of-the-mind",
+        "the-scaffolding-that-keeps-growing"
       ]
     },
     {
@@ -1309,9 +1313,9 @@
       "slug": "only-if-it-is-not-kept-empty",
       "path": "content/posts/only-if-it-is-not-kept-empty.md",
       "title": "Only If It Is Not Kept Empty",
-      "hash": "fd8bc2f5b48f",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "0e830287ad49",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
         "you-wu-zhi-bian",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -1320,7 +1324,8 @@
         "openness-is-consistency",
         "closed-reality-in-the-pursuit-of-serendipity",
         "the-scaffolding-we-forget",
-        "clarity-isnt-a-state-you-arrive-at"
+        "clarity-isnt-a-state-you-arrive-at",
+        "the-scaffolding-that-keeps-growing"
       ]
     },
     {
@@ -1369,9 +1374,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "48be7cce713f",
-      "in_degree": 24,
-      "out_degree": 12,
+      "hash": "9e158f698208",
+      "in_degree": 25,
+      "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -1384,7 +1389,8 @@
         "open-vision-in-a-closed-arena",
         "only-if-it-is-not-kept-empty",
         "the-strongest-belief-of-the-mind",
-        "the-climate-problem-registers-only-as-perception"
+        "the-climate-problem-registers-only-as-perception",
+        "the-scaffolding-that-keeps-growing"
       ]
     },
     {
@@ -1520,9 +1526,9 @@
       "slug": "reality-is-the-minds-ongoing-realization",
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "Reality Is the Mind's Ongoing Realization",
-      "hash": "b0e448e9d1e8",
-      "in_degree": 6,
-      "out_degree": 10,
+      "hash": "2b02b81bad59",
+      "in_degree": 7,
+      "out_degree": 11,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
@@ -1533,6 +1539,7 @@
         "openness-is-consistency",
         "no-system-can-be-kept-closed",
         "the-strongest-belief-of-the-mind",
+        "the-scaffolding-that-keeps-growing",
         "the-meaning-of-life-is-in-the-drafting"
       ]
     },
@@ -2010,13 +2017,14 @@
       "slug": "the-path-drawn-one-step-at-a-time",
       "path": "content/posts/the-path-drawn-one-step-at-a-time.md",
       "title": "The Path Drawn One Step at a Time",
-      "hash": "7b09b2855353",
-      "in_degree": 18,
-      "out_degree": 3,
+      "hash": "904e7ac686d9",
+      "in_degree": 19,
+      "out_degree": 4,
       "links_out": [
         "qian-yin-hou-guo",
         "the-strongest-belief-of-the-mind",
-        "the-climate-problem-registers-only-as-perception"
+        "the-climate-problem-registers-only-as-perception",
+        "the-scaffolding-that-keeps-growing"
       ]
     },
     {
@@ -2142,14 +2150,36 @@
       ]
     },
     {
+      "id": "post:the-scaffolding-that-keeps-growing",
+      "kind": "post",
+      "slug": "the-scaffolding-that-keeps-growing",
+      "path": "content/posts/the-scaffolding-that-keeps-growing.md",
+      "title": "The Scaffolding That Keeps Growing",
+      "hash": "b13973313253",
+      "in_degree": 10,
+      "out_degree": 10,
+      "links_out": [
+        "openness-is-consistency",
+        "no-system-can-be-kept-closed",
+        "the-scaffolding-we-forget",
+        "the-path-drawn-one-step-at-a-time",
+        "clarity-isnt-a-state-you-arrive-at",
+        "whatever-is-one-prompt-away",
+        "agi-and-asi-are-temporary-goalposts",
+        "why-mathematics-can-never-be-solved",
+        "reality-is-the-minds-ongoing-realization",
+        "only-if-it-is-not-kept-empty"
+      ]
+    },
+    {
       "id": "post:the-scaffolding-we-forget",
       "kind": "post",
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
-      "hash": "32d97ca4151d",
-      "in_degree": 17,
-      "out_degree": 13,
+      "hash": "401e51d21428",
+      "in_degree": 18,
+      "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-path-drawn-one-step-at-a-time",
@@ -2163,7 +2193,8 @@
         "whatever-is-one-prompt-away",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "only-if-it-is-not-kept-empty",
-        "the-strongest-belief-of-the-mind"
+        "the-strongest-belief-of-the-mind",
+        "the-scaffolding-that-keeps-growing"
       ]
     },
     {
@@ -2371,9 +2402,9 @@
       "slug": "whatever-is-one-prompt-away",
       "path": "content/posts/whatever-is-one-prompt-away.md",
       "title": "Whatever Is One Prompt Away",
-      "hash": "23cc714ee413",
-      "in_degree": 6,
-      "out_degree": 12,
+      "hash": "87f6fd4e207c",
+      "in_degree": 7,
+      "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-scaffolding-we-forget",
@@ -2386,7 +2417,8 @@
         "self-rl-for-humans",
         "the-meaning-of-life-is-in-the-drafting",
         "production-consumption-and-the-minds-distinction",
-        "clarity-isnt-a-state-you-arrive-at"
+        "clarity-isnt-a-state-you-arrive-at",
+        "the-scaffolding-that-keeps-growing"
       ]
     },
     {
@@ -2455,9 +2487,9 @@
       "slug": "why-mathematics-can-never-be-solved",
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "Why Mathematics Can Never Be Solved",
-      "hash": "098e4d04d830",
-      "in_degree": 7,
-      "out_degree": 13,
+      "hash": "60add3a8fd57",
+      "in_degree": 8,
+      "out_degree": 14,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
@@ -2471,7 +2503,8 @@
         "you-cant-benchmark-the-fluid",
         "whatever-is-one-prompt-away",
         "clarity-isnt-a-state-you-arrive-at",
-        "the-ramble-within-the-ramble"
+        "the-ramble-within-the-ramble",
+        "the-scaffolding-that-keeps-growing"
       ]
     },
     {
@@ -2665,6 +2698,12 @@
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
       "label": "The risk is the belief in oversight itself"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
     },
     {
       "from": "amplification-paradox",
@@ -2875,6 +2914,12 @@
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
       "label": "The climate problem registers only as perception"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
     },
     {
       "from": "closed-reality-in-benchmark-maxing",
@@ -3669,6 +3714,12 @@
       "label": "The strongest belief of the Mind"
     },
     {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
+    },
+    {
       "from": "not-a-theory-of-everything",
       "to": "not-a-toe-rewrite",
       "rel": "points_to",
@@ -3915,6 +3966,12 @@
       "label": "Clarity isn’t a state you arrive at"
     },
     {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
+    },
+    {
       "from": "ontos-is-a-method-agent",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -4087,6 +4144,12 @@
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
       "label": "The climate problem registers only as perception"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -4351,6 +4414,12 @@
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
       "label": "The strongest belief of the Mind"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
@@ -4923,6 +4992,12 @@
       "label": "The climate problem registers only as perception"
     },
     {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
+    },
+    {
       "from": "the-question-that-installs-the-war",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
@@ -5223,6 +5298,72 @@
       "label": "The climate problem registers only as perception"
     },
     {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The path drawn one step at a time"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever is one prompt away"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why mathematics can never be solved"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind’s ongoing realization"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "Only if it is not kept empty"
+    },
+    {
       "from": "the-scaffolding-we-forget-local-models-as-default",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
@@ -5317,6 +5458,12 @@
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
       "label": "The strongest belief of the Mind"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
@@ -5811,6 +5958,12 @@
       "label": "Clarity isn’t a state you arrive at"
     },
     {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
+    },
+    {
       "from": "when-need-stops-being-the-measure",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
@@ -5965,6 +6118,12 @@
       "to": "the-ramble-within-the-ramble",
       "rel": "points_to",
       "label": "The ramble within the ramble"
+    },
+    {
+      "from": "why-mathematics-can-never-be-solved",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
     },
     {
       "from": "you-cant-benchmark-the-fluid",

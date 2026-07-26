@@ -91,6 +91,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Security-print guilloche engraving** | Cream rag banknote paper, rose-engine green–umber lattice, sealed supervisory windows with open stock continuing past the hold, plate tone, raking light | `the-risk-is-the-belief-in-oversight-itself` |
 | **Palimpsest vellum / multi-ink redraw** | Aged cream vellum, successive translucent iron-gall map layers, ghost cartographies under newest path, bone stylus mid-redraw, raking museum light | `the-strongest-belief-of-the-mind` |
 | **Celadon kiln shelf still life** | Pale jade celadon bowl with open residual interior, unworked clay coil beside it, dark kiln shelf, cool museum side light, crackle glaze | `only-if-it-is-not-kept-empty` |
+| **Lithographic crayon / stone print** | Warm gray limestone ground, greasy black crayon, plate tone, museum raking light; multi-story scaffold densifying as it extends past the plate edge | `the-scaffolding-that-keeps-growing` |
 
 ## Inventory (by slug)
 
@@ -147,6 +148,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-risk-is-the-belief-in-oversight-itself` | Security-print guilloche engraving |
 | `the-ramble-within-the-ramble` | Anaglyph red-cyan stereo graphic |
 | `the-real-scarcity-is-not-memory-but-continuous-re-tracing` | Charcoal wipe / continuous redraw on newsprint |
+| `the-scaffolding-that-keeps-growing` | Lithographic crayon / stone print |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
 | `the-strongest-belief-of-the-mind` | Palimpsest vellum / multi-ink redraw |
