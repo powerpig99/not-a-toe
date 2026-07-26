@@ -93,6 +93,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Celadon kiln shelf still life** | Pale jade celadon bowl with open residual interior, unworked clay coil beside it, dark kiln shelf, cool museum side light, crackle glaze | `only-if-it-is-not-kept-empty` |
 | **Lithographic crayon / stone print** | Warm gray limestone ground, greasy black crayon, plate tone, museum raking light; multi-story scaffold densifying as it extends past the plate edge | `the-scaffolding-that-keeps-growing` |
 | **Magic-lantern glass slide still** | Antique hand-painted glass slide on dark wood, fixed translucent figure-on-ladder image, living chalk trail continuing past the glass, amber projection cone + cool museum light | `the-fixed-image-of-transcendence` |
+| **Chart-recorder / oscillograph strip** | Aged cream fanfold paper, pen-trace still life, thin early initiating spike then delayed denser oscillatory lag, mechanical grid, raking museum light | `symptom-and-cause-in-the-narratives-of-progress` |
 
 ## Inventory (by slug)
 
@@ -132,6 +133,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `reality-is-the-minds-ongoing-realization` | Comic halftone / Ben-Day dots |
 | `self-rl-for-humans` | Dark chalk / light trails |
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
+| `symptom-and-cause-in-the-narratives-of-progress` | Chart-recorder / oscillograph strip |
 | `sympathy-is-a-placeholder-for-lack-of-clarity` | Fresco strappo / detached mural fragment |
 | `the-allocation-of-causal-power-in-validation` | Dark chalk / light trails |
 | `the-brain-does-not-backprop` | Dark chalk / light trails |

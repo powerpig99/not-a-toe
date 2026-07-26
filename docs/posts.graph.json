@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-26T14:30:12.504Z",
+    "generated_at": "2026-07-26T22:05:11.051Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -52,7 +52,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "97a6e68e3adb",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "6757ffe7c803",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "c3e6682b5b2f",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -80,7 +80,7 @@
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "6df4ed4d0f7d",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "08a7d263db86",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "a99a8c1bcd30",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "2b02b81bad59",
@@ -93,6 +93,7 @@
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "a410a6855d52",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "98d6a44f5e69",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "f02a313b7795",
       "content/posts/the-brain-does-not-backprop.md": "1d1eea26006d",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "f2097e51f0bc",
@@ -135,26 +136,26 @@
       "content/posts/therapy-opens-the-feedback-loop.md": "eda47a242643",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "036c2f91a81c",
       "content/posts/two-failures-of-trace.md": "93a7ee0a653d",
-      "content/posts/what-always-listens-cannot-originate.md": "fd5ad97dafc5",
+      "content/posts/what-always-listens-cannot-originate.md": "3e91cad302f9",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
-      "content/posts/what-works-is-the-belief.md": "7c946cf744da",
+      "content/posts/what-works-is-the-belief.md": "de9cd674a54b",
       "content/posts/whatever-is-one-prompt-away.md": "87f6fd4e207c",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "a814842d6a67",
-      "content/posts/when-the-effect-authors-the-frame.md": "49097d2eb679",
+      "content/posts/when-the-effect-authors-the-frame.md": "5794510885d3",
       "content/posts/why-explanation-fails.md": "5fe163a22059",
       "content/posts/why-mathematics-can-never-be-solved.md": "60add3a8fd57",
       "content/posts/you-cant-benchmark-the-fluid.md": "730e5564e3a4",
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 138,
-      "edges": 616,
-      "unique_directed": 606,
+      "posts": 139,
+      "edges": 632,
+      "unique_directed": 622,
       "missing_targets": 0,
-      "one_way": 314,
+      "one_way": 320,
       "isolated": 38,
-      "posts_with_outbound": 75
+      "posts_with_outbound": 76
     }
   },
   "hubs_in": [
@@ -187,11 +188,11 @@
       "in_degree": 17
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 16
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 17
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
+      "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 16
     },
     {
@@ -211,6 +212,10 @@
       "in_degree": 11
     },
     {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "in_degree": 11
+    },
+    {
       "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 11
     },
@@ -223,19 +228,15 @@
       "in_degree": 11
     },
     {
+      "slug": "what-always-listens-cannot-originate",
+      "in_degree": 11
+    },
+    {
       "slug": "agi-and-asi-are-temporary-goalposts",
       "in_degree": 10
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 10
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "in_degree": 10
-    },
-    {
-      "slug": "the-climate-problem-registers-only-as-perception",
       "in_degree": 10
     }
   ],
@@ -249,12 +250,12 @@
       "out_degree": 17
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 16
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "out_degree": 15
+      "slug": "the-model-never-becomes-a-second-edge",
+      "out_degree": 16
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -266,6 +267,10 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
+      "out_degree": 14
+    },
+    {
+      "slug": "what-always-listens-cannot-originate",
       "out_degree": 14
     },
     {
@@ -285,15 +290,15 @@
       "out_degree": 13
     },
     {
-      "slug": "what-always-listens-cannot-originate",
-      "out_degree": 13
-    },
-    {
       "slug": "whatever-is-one-prompt-away",
       "out_degree": 13
     },
     {
       "slug": "closed-reality-in-the-pursuit-of-serendipity",
+      "out_degree": 12
+    },
+    {
+      "slug": "individual-choices-as-the-only-causal-levers",
       "out_degree": 12
     },
     {
@@ -314,10 +319,6 @@
     },
     {
       "slug": "a-creation-cannot-replace-its-source",
-      "out_degree": 11
-    },
-    {
-      "slug": "agi-and-asi-are-temporary-goalposts",
       "out_degree": 11
     }
   ],
@@ -938,7 +939,7 @@
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
       "hash": "99b0a244d8e2",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -1002,9 +1003,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "97a6e68e3adb",
-      "in_degree": 7,
-      "out_degree": 11,
+      "hash": "6757ffe7c803",
+      "in_degree": 8,
+      "out_degree": 12,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1016,7 +1017,8 @@
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
         "the-coordinators-category-error",
-        "openness-is-consistency"
+        "openness-is-consistency",
+        "symptom-and-cause-in-the-narratives-of-progress"
       ]
     },
     {
@@ -1438,7 +1440,7 @@
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "Performative Hindsight That Pretends to Be Foresight",
       "hash": "6df4ed4d0f7d",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 10,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1470,9 +1472,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "08a7d263db86",
-      "in_degree": 10,
-      "out_degree": 15,
+      "hash": "a99a8c1bcd30",
+      "in_degree": 11,
+      "out_degree": 16,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1488,7 +1490,8 @@
         "clarity-isnt-a-state-you-arrive-at",
         "the-paradoxical-nature-of-bystander-insights",
         "open-vision-in-a-closed-arena",
-        "only-if-it-is-not-kept-empty"
+        "only-if-it-is-not-kept-empty",
+        "symptom-and-cause-in-the-narratives-of-progress"
       ]
     },
     {
@@ -1619,7 +1622,7 @@
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
       "hash": "a410a6855d52",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "hassabis-frontier-agi-premise",
@@ -1657,6 +1660,29 @@
         "therapy-opens-the-feedback-loop",
         "clarity-isnt-a-state-you-arrive-at",
         "reality-is-the-minds-ongoing-realization"
+      ]
+    },
+    {
+      "id": "post:symptom-and-cause-in-the-narratives-of-progress",
+      "kind": "post",
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
+      "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
+      "title": "Symptom and Cause in the Narratives of Progress",
+      "hash": "98d6a44f5e69",
+      "in_degree": 5,
+      "out_degree": 11,
+      "links_out": [
+        "when-the-effect-authors-the-frame",
+        "individual-choices-as-the-only-causal-levers",
+        "the-allocation-of-causal-power-in-validation",
+        "production-consumption-and-the-minds-distinction",
+        "performative-hindsight-that-pretends-to-be-foresight",
+        "what-always-listens-cannot-originate",
+        "sovereignty-belief-and-regulatory-structures",
+        "the-coordinators-category-error",
+        "what-works-is-the-belief",
+        "having-more-is-never-the-cause",
+        "the-reality-distortion-field-names-the-closed-map"
       ]
     },
     {
@@ -1701,7 +1727,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
       "hash": "f02a313b7795",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 3,
       "links_out": [
         "the-ramble-within-the-ramble",
@@ -1771,7 +1797,7 @@
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "The Coordinator’s Category Error",
       "hash": "5129d8efec5d",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 9,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -2121,7 +2147,7 @@
       "path": "content/posts/the-reality-distortion-field-names-the-closed-map.md",
       "title": "The Reality Distortion Field Names the Closed Map",
       "hash": "be8e0511f2a5",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 14,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -2371,9 +2397,9 @@
       "slug": "what-always-listens-cannot-originate",
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "What Always Listens Cannot Originate",
-      "hash": "fd5ad97dafc5",
-      "in_degree": 10,
-      "out_degree": 13,
+      "hash": "3e91cad302f9",
+      "in_degree": 11,
+      "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-allocation-of-causal-power-in-validation",
@@ -2387,7 +2413,8 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "ai-as-augmentation",
         "the-model-never-becomes-a-second-edge",
-        "the-ramble-within-the-ramble"
+        "the-ramble-within-the-ramble",
+        "symptom-and-cause-in-the-narratives-of-progress"
       ]
     },
     {
@@ -2407,9 +2434,9 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "What Works Is the Belief",
-      "hash": "7c946cf744da",
-      "in_degree": 5,
-      "out_degree": 10,
+      "hash": "de9cd674a54b",
+      "in_degree": 6,
+      "out_degree": 11,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
         "no-system-can-be-kept-closed",
@@ -2420,7 +2447,8 @@
         "clarity-isnt-a-state-you-arrive-at",
         "the-reality-distortion-field-names-the-closed-map",
         "the-risk-is-the-belief-in-oversight-itself",
-        "the-strongest-belief-of-the-mind"
+        "the-strongest-belief-of-the-mind",
+        "symptom-and-cause-in-the-narratives-of-progress"
       ]
     },
     {
@@ -2483,16 +2511,17 @@
       "slug": "when-the-effect-authors-the-frame",
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "When the Effect Authors the Frame",
-      "hash": "49097d2eb679",
-      "in_degree": 3,
-      "out_degree": 6,
+      "hash": "5794510885d3",
+      "in_degree": 4,
+      "out_degree": 7,
       "links_out": [
         "emotional-support-as-causal-interference",
         "when-need-stops-being-the-measure",
         "help-is-half-the-problem",
         "mei-you-pu-du-zhi-you-zi-du",
         "the-compassion-is-the-mechanism-of-obscuration",
-        "therapy-opens-the-feedback-loop"
+        "therapy-opens-the-feedback-loop",
+        "symptom-and-cause-in-the-narratives-of-progress"
       ]
     },
     {
@@ -3423,6 +3452,12 @@
       "label": "Openness is consistency"
     },
     {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
@@ -4347,6 +4382,12 @@
       "label": "Only if it is not kept empty"
     },
     {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
       "from": "qian-yin-hou-guo",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -4537,6 +4578,72 @@
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "Reality is the Mind’s ongoing realization"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the effect authors the frame"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative hindsight that pretends to be foresight"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What always listens cannot originate"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What works is the belief"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The reality distortion field names the closed map"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -5937,6 +6044,12 @@
       "label": "The ramble within the ramble"
     },
     {
+      "from": "what-always-listens-cannot-originate",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
       "from": "what-works-is-the-belief",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
@@ -5995,6 +6108,12 @@
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
       "label": "The strongest belief of the Mind"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
     },
     {
       "from": "whatever-is-one-prompt-away",
@@ -6145,6 +6264,12 @@
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
       "label": "therapy opens the feedback loop"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
     },
     {
       "from": "why-explanation-fails",
