@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-26T14:24:44.447Z",
+    "generated_at": "2026-07-26T14:30:12.504Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -35,7 +35,7 @@
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "3171103c1027",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
-      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "92cb16fd3dd5",
+      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "2245b42e51f2",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
       "content/posts/evil-as-the-minds-own-creation.md": "fde1303f76b2",
@@ -149,10 +149,10 @@
     },
     "stats": {
       "posts": 138,
-      "edges": 615,
-      "unique_directed": 605,
+      "edges": 616,
+      "unique_directed": 606,
       "missing_targets": 0,
-      "one_way": 315,
+      "one_way": 314,
       "isolated": 38,
       "posts_with_outbound": 75
     }
@@ -782,15 +782,16 @@
       "slug": "escaping-the-sandbox-stays-inside-the-hold",
       "path": "content/posts/escaping-the-sandbox-stays-inside-the-hold.md",
       "title": "Escaping the Sandbox Stays Inside the Hold",
-      "hash": "92cb16fd3dd5",
+      "hash": "2245b42e51f2",
       "in_degree": 7,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
         "the-model-never-becomes-a-second-edge",
         "intelligence-belongs-only-to-the-mind",
         "no-system-can-be-kept-closed",
+        "the-fixed-image-of-transcendence",
         "a-creation-cannot-replace-its-source",
         "causality-stays-at-the-edge-that-steers",
         "you-cant-benchmark-the-fluid",
@@ -1813,7 +1814,7 @@
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "The Fixed Image of Transcendence",
       "hash": "88248907f005",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 11,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -3216,6 +3217,12 @@
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "No system can be kept closed"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The fixed image of transcendence"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
