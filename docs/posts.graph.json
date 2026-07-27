@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-27T08:08:24.079Z",
+    "generated_at": "2026-07-27T08:42:49.898Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
