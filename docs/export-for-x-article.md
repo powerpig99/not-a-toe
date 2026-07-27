@@ -21,12 +21,12 @@ open -a MacDown export/<slug>.md
 
 Then in the X Article editor:
 
-1. Set **title**.
-2. **Paste** body from MacDown preview (⌘V) — not “Match Style.”
+1. **Paste** body from MacDown preview (⌘V) — not “Match Style.” Keep the in-body title heading.
+2. Set the platform **title** field if required (still keep the H1 in the body).
 3. Upload cover from `assets/covers/<slug>.jpg` (20:9).
 4. Publish when ready.
 
-Full detail, flags, and failure modes: [`export-for-substack.md`](export-for-substack.md). Optional escape hatch: `--rich --no-title` for RTF clipboard without MacDown.
+Full detail, flags, and failure modes: [`export-for-substack.md`](export-for-substack.md). Optional escape hatch: `--rich` for RTF clipboard without MacDown (keeps H1; add `--no-title` only if you want it dropped).
 
 ## Parked: Articles API
 

@@ -67,27 +67,22 @@ Re-run after any edit to the source if you will re-paste.
 3. **MacDown**
    - Open the preview (rendered view).
    - Select all in the **preview** and copy (not the raw markdown pane).
+   - The export keeps the leading `# Title` — leave it in the paste.
 4. **Editor**
-   - Set **title** in the platform title field.
    - **Paste** (⌘V) into the body — not “Paste and Match Style.”
-   - If the body opens with a duplicate H1, delete it (title field already holds the title).
+   - Keep the title heading from the export (do not strip the H1).
+   - Platform title field: set if the editor requires it separately; still keep the in-body title.
    - **Cover:** upload `assets/covers/<slug>.jpg` (20:9) from disk; prefer local re-upload over hotlinking.
    - Subtitle: optional; italic open line is already in the export when present.
 5. **Publish** when ready. Site, Substack, and X Article are parallel surfaces, not one CMS.
 
-### Title / H1 double-up
-
-If the editor has a title field (both Substack and X Article do):
-
-- Paste full export and delete a duplicate H1 in the body, **or**
-- Use `--rich --no-title` if taking the RTF escape hatch (drops leading H1 in that path only).
-
 ## Optional: `--rich` (RTF clipboard)
 
-macOS only. Renders markdown → HTML → RTF via `textutil` and copies to the clipboard. Use when MacDown is unavailable; prefer MacDown when it is.
+macOS only. Renders markdown → HTML → RTF via `textutil` and copies to the clipboard. Use when MacDown is unavailable; prefer MacDown when it is. Keeps the leading H1 by default.
 
 ```bash
-node scripts/export-absolute-md.mjs <slug> --rich --no-title
+node scripts/export-absolute-md.mjs <slug> --rich
+# optional: --no-title only if you deliberately want the H1 dropped
 ```
 
 Also writes `export/<slug>.html` as a debug helper. **Does not modify** the source file.

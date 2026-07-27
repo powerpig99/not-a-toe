@@ -12,8 +12,8 @@ open -a MacDown export/<slug>.md
 # Optional raw markdown to clipboard
 node scripts/export-absolute-md.mjs <slug> --stdout | pbcopy
 
-# Optional RTF clipboard (escape hatch without MacDown)
-node scripts/export-absolute-md.mjs <slug> --rich --no-title
+# Optional RTF clipboard (escape hatch without MacDown; keeps title)
+node scripts/export-absolute-md.mjs <slug> --rich
 
 # X Article API dry-run / receipts (parked path)
 node scripts/publish-x-article.mjs <slug>
