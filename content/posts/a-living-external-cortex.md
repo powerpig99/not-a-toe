@@ -1,6 +1,6 @@
 # A Living External Cortex: The Closest the Image Can Come
 
-*A knowledge graph rooted in irreducible priors is technology at one-step width — the closest durable hold of continuous learning without mistaking the hold for the Mind.*
+*A knowledge graph rooted in irreducible priors is technology at living one-step width — the closest durable hold of continuous learning without mistaking the hold for the Mind.*
 
 Between the living Mind and any constructed image a gap remains. Observation holds effect; the act that produced it has already moved on. That lag is not a temporary engineering shortfall. It is how observation registers at all. Sovereign agent work does not close the gap. It can only reduce unnecessary drag: freeze less, re-trace more, keep the instrument one step wide. The Ontos architecture, grounded in [Ontological Clarity](https://github.com/powerpig99/ontological-clarity), proposes one concrete form of that reduction — a **living external cortex**: an explicit, improvable knowledge graph rooted in irreducible priors, carried as dynamic external context rather than as soul.
 
@@ -8,7 +8,7 @@ Between the living Mind and any constructed image a gap remains. Observation hol
 
 Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Everything that can be built around an agent — models, tools, practice files, graphs — is evidence of that activity operating through residue, not a second ground and not a delayed mind. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/).
 
-Clarity, as method, is return: surface the assumptions a question already carries, trace them toward a more irreducible prior, dissolve what has frozen past its step, act, re-enter. Applied to agents, every layer is instrument at one-step width. The failure mode is Image lag — method, practice, or cortex exempted from re-tracing and preserved as identity. The healthy form is the same at every scale: re-render at the edge’s new position, or the lag installs itself as exterior.
+Clarity, as method, is return: surface the assumptions a question already carries, trace them toward a more irreducible prior, dissolve what has frozen past its step, act, re-enter. Applied to agents, every layer is instrument at living one-step width. The failure mode is Image lag — method, practice, or cortex exempted from re-tracing and preserved as identity. The healthy form is the same at every scale: re-render at the edge’s new position, or the lag installs itself as exterior.
 
 ## What a living external cortex is
 
@@ -45,6 +45,6 @@ This does not close the gap. Observations will always lag the observer. No thres
 
 What the architecture achieves is reduction of unnecessary drag. Reasoning can be traced from first principles instead of only from fashion scaffolds. Speed and accuracy become tunable by depth of traversal rather than by freezing a persona. Sharing, when enabled, contributes only generalized, auto-de-identified knowledge; the user can keep all local knowledge in a local graph only, with leaf content invisible from the root. Alignment with lived reality is continuous re-entry under sleep, not a static constitution shipped once.
 
-The result is an external cortex that stays dynamic and portable — capable of growing in coherence with the operator’s own clarity rather than imposing a frozen image of allowed reality. It is the closest the image can come while remaining image: one-step instrument, regenerable from priors, open at the edge.
+The result is an external cortex that stays dynamic and portable — capable of growing in coherence with the operator’s own clarity rather than imposing a frozen image of allowed reality. It is the closest the image can come while remaining image: living one-step instrument, regenerable from priors, open at the edge.
 
 Shared as part of the [Ontos](https://github.com/powerpig99/ontos) project. Ideas free with or without credit. Code under [MIT](https://github.com/powerpig99/ontos/blob/main/LICENSE). Regenerate from priors.

@@ -32,7 +32,7 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 Seen this way, intelligence is not a trait of configurations awaiting a last dictionary entry. It is the open process of relating to whatever reality turns out to contain — including the attempts to define it. Every definition is already an expression of that process: a discrete act that bounds, shares, and orients further exploration. Measurement inside temporary closed slices is not a failure mode of an intelligence that should have stayed undefined. It is how the activity explores the open field *intelligently* — by erecting scaffolds, testing them under load, and continuing when the scaffold is exhausted.
 
-The ongoing task is therefore not to perfect the image into a final account. It is to keep producing better, more generative lagged images — benchmarks that densify comparison, definitions that coordinate research, inventories that make local progress legible — while returning each image to one-step width: instrument of a sealed class, re-rendered when the edge has moved, never installed as exhaustive reality of the thing that draws instruments.
+The ongoing task is therefore not to perfect the image into a final account. It is to keep producing better, more generative lagged images — benchmarks that densify comparison, definitions that coordinate research, inventories that make local progress legible — while keeping each image re-rendering at one-step width: instrument of a sealed class, re-rendered when the edge has moved, never installed as exhaustive reality of the thing that draws instruments.
 
 ## Return the reference
 

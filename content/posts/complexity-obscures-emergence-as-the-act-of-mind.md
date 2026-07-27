@@ -38,7 +38,7 @@ What later “emerges,” therefore, was not generated inside the system as a hi
 
 Any attempt to locate the source in complexity itself, in model architecture, in mathematical structure, or in the intrinsic properties of data repeats the same operation. It takes the scaffolding for the activity that erected it. It selects premises — that the system is the primary reality, that observation is secondary to what is observed, that structure under a chosen hold is structure prior to any hold — while treating that selection as if it were not a selection. The account that seeks emergence in complexity reinstalls the very premise-selection it leaves unexamined.
 
-The Mind is not an additional factor to be added to or subtracted from the explanation. It is the irreducible prior. Complexity is its scaffolding. Emergence is its openness registering against that scaffolding. When the choosing stays unreturned, emergence appears as a property of the complex object. When the choosing is held as choosing — the reference returned to one-step width — the two are seen as one relation rather than as twin products of the system.
+The Mind is not an additional factor to be added to or subtracted from the explanation. It is the irreducible prior. Complexity is its scaffolding. Emergence is its openness registering against that scaffolding. When the choosing stays unreturned, emergence appears as a property of the complex object. When the choosing is held as choosing — the reference kept re-rendering at one-step width — the two are seen as one relation rather than as twin products of the system.
 
 ## Scaffolding is not the source
 

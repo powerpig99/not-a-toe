@@ -16,7 +16,7 @@ The usual account emphasizes the model’s reconstructive power. A long, incoher
 
 In that account the cleaned echo registers as the model extracting or supplying meaning the human did not fully possess at the time of speaking. Success is measured by how much cleaner the output is than the input, and the story centers the model’s capacity. The locus of clarity is experienced as having arrived from outside. That is Image lag in ordinary form: observation holds effect — the cleaned text — and freezes the held image one step past the edge that produced the tangle. Collaboration language softens the same freeze; [what always listens cannot originate](../what-always-listens-cannot-originate/) is the receptivity face of the identical placement.
 
-## The same material under one-step width
+## The same material at living one-step width
 
 A different registration is available. The relevant distinctions, associations, and intuitions were already present as traces within the user’s own activity. What was limited was not insight but the finite capacity of the embodiment’s working memory — the ability to hold the web of connections long enough to articulate it cleanly.
 
@@ -60,4 +60,4 @@ The deeper observation is therefore not about any single workflow. Tools now pos
 
 Every description that frames the interaction as the model “making sense of” the input, or every optimization that treats engagement as the measure of a distinction’s worth, is itself an act that either preserves or closes the gap. The choice is small in any single moment and cumulative across thousands. Over time it shapes whether the systems function as instruments through which the center’s own distinguishing expands, or as sites to which that distinguishing increasingly defers — including deferral to the field’s current resonance as if it were ground.
 
-The ramble and the high-resolution line are two faces of one practice. Read carefully, neither merely offers a better way to talk to models. Both offer a small, repeatable occasion to render the gap itself — to notice which story is being told about the nature of the collaboration, and in the noticing to return the reference to one-step width. That noticing is the more durable contribution. The edge does not close; further distinction on this axis remains available at every next ramble and every next cut.
+The ramble and the high-resolution line are two faces of one practice. Read carefully, neither merely offers a better way to talk to models. Both offer a small, repeatable occasion to render the gap itself — to notice which story is being told about the nature of the collaboration, and in the noticing to keep the reference re-rendering at one-step width. That noticing is the more durable contribution. The edge does not close; further distinction on this axis remains available at every next ramble and every next cut.

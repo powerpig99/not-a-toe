@@ -34,7 +34,7 @@ The same geometry appears at every scale where a configuration is mistaken for t
 
 Attempts can still be made. Descriptions can still be offered. Signals in apical dendrites can still be noted and their role in behavioral change still examined. These attempts remain consistent when they are not required to deliver finality. They are movements within the same propagation, not attempts to arrest it. Finality is the attempt for closure. Without that demand, description remains open — which is to say, consistent. [Self-RL for humans](../self-rl-for-humans/) keeps the same discipline for externalized media: densification expands bandwidth; it does not relocate initiation into the artifact.
 
-Every equation of the Mind with process inside its embodiment begins after identification has already taken place. The equation can be precise within that freeze. Precision is not exhaustiveness. Returning the image to one-step width leaves the findings in place and releases the claim that they close the account. What is released is inconsistency, not structure.
+Every equation of the Mind with process inside its embodiment begins after identification has already taken place. The equation can be precise within that freeze. Precision is not exhaustiveness. Keeping the image re-rendering at one-step width leaves the findings in place and releases the claim that they close the account. What is released is inconsistency, not structure.
 
 ## Desire for closure is configuration, not defect
 

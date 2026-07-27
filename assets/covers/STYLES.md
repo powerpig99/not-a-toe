@@ -101,6 +101,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Bokashi woodblock / graded indigo print** | Cream washi, indigo lattice gate partially open, warm amber path continuing past the bars into empty ground, imperfect registration, graded washes, raking craft light | `restriction-is-a-selective-tax` |
 | **Wire-service teletype / ticker-tape still** | Cream linen table, vintage teletype platen, dual paper ribbons (one continuous clearing print, one fragmented re-readings), brass keys and ink spool, cool museum side light, no legible text | `price-as-utterance-understanding-as-trade` |
 | **Camera lucida / brass prism drawing still** | Cream writing desk, brass camera lucida over open notebook, abstract ink trail without portrait or legible text, optical glass reflecting only paper, museum raking light, craft grain | `writing-without-the-image` |
+| **Marine pilot chart / sailing-directions still** | Cream linen desk, open abstract current chart without legible text, amber wake-line continuing past torn edge into empty paper, brass dividers and pocket compass as instruments only, cool museum side light | `expertise-as-reference-not-replacement` |
 
 ## Inventory (by slug)
 
@@ -121,6 +122,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
 | `escaping-the-sandbox-stays-inside-the-hold` | Persian miniature illumination |
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |
+| `expertise-as-reference-not-replacement` | Marine pilot chart / sailing-directions still |
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
 | `having-more-is-never-the-cause` | Scratchboard / white-line scraperboard |
 | `hierarchy-from-individual-difference` | Quipu / knotted-cord still life |

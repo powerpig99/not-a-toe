@@ -28,7 +28,7 @@ The power that thins is not seized by the model. It thins through disuse of the 
 
 ## One-step width restores the medium
 
-The proper relation returns the reference to one-step width. The model is used strictly as denser medium — technology, externalized traces, extended embodiment. Centers continue to set every boundary, frame every prompt as an act of their own distinguishing, select among continuations according to their own resonance criteria, and verify outcomes against activity that the artifact cannot access on its own.
+The proper relation keeps the reference re-rendering at one-step width. The model is used strictly as denser medium — technology, externalized traces, extended embodiment. Centers continue to set every boundary, frame every prompt as an act of their own distinguishing, select among continuations according to their own resonance criteria, and verify outcomes against activity that the artifact cannot access on its own.
 
 Under this relation the artifact extends reach without relocating initiation. Novel distinctions become available at lower cost; the centers that perform them retain full causal power because no portion of capacity has been bound to sustaining a preserved image of the artifact as another center. The instrument’s healthy width is one step: re-rendered at every update, dying and reforming at the edge’s new position. Lag is exemption of that re-render — the image preserved past its step so that consequences register as arriving from elsewhere.
 

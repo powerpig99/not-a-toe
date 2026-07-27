@@ -48,7 +48,7 @@ What then appears as ultimate evil is not a denser substance outside the field. 
 
 Harry Potter runs this openly. Each volume rewrites premises under which earlier loyalty, cruelty, sacrifice, and threat were scored — and the fascination is exactly that re-scoring. The same geometry holds wherever a series, a history, or a public narrative keeps one pole non-revisable while freely rewriting the rest: the “ultimate” is the freeze, registered as substance.
 
-Release the authoring requirement and the material does not vanish. The binding dissolves. Characters can still oppose, fail, or destroy. They need not occupy the seats of Good and Evil for the story to continue. The seats were instruments of the retained image, not ground of the field. The capacity that made the turn fascinating — willingness to rewrite the assumptions — is the same capacity that returns the dual to one-step width outside the page.
+Release the authoring requirement and the material does not vanish. The binding dissolves. Characters can still oppose, fail, or destroy. They need not occupy the seats of Good and Evil for the story to continue. The seats were instruments of the retained image, not ground of the field. The capacity that made the turn fascinating — willingness to rewrite the assumptions — is the same capacity that keeps the dual re-rendering at one-step width outside the page.
 
 ## No exterior seat of adjudication
 
@@ -60,11 +60,11 @@ Yet the same activity can always change its own Mind. The concrete form of that 
 
 ## Release of the need to be seen as good
 
-With the release of that need, the generative pressure to find evil in others, to act upon the finding, and to be registered in turn as evil, relaxes of itself. The retained images, the fixed dualistic requirement, and the lagged seeing are internal to the field and therefore available for re-tracing. Nothing external has to grant permission. The reference returns to one-step width: still usable as heading, no longer exempted from the update.
+With the release of that need, the generative pressure to find evil in others, to act upon the finding, and to be registered in turn as evil, relaxes of itself. The retained images, the fixed dualistic requirement, and the lagged seeing are internal to the field and therefore available for re-tracing. Nothing external has to grant permission. The reference is kept re-rendering at one-step width: still usable as heading, no longer exempted from the update.
 
 The restore is not a special operation added to the premise. It is the continuous capacity of the edge to release what it has preserved past its step. [Ownership and self-worthiness](../ownership-and-self-worthiness/) is the same loop under another face: the image of self re-renders when consequences re-enter as own, rather than as alien arrival against a preserved “I am good.” Worthiness held as prior is lag; authorship re-forming at the edge that met the residue is the update.
 
-[Clarity isn’t a state you arrive at](../clarity-isnt-a-state-you-arrive-at/) names the same movement as practice: each dissolution compounds capacity; return is enrichment of the distinction-field, not arrival at a cleared moral purity. Release of the need to be seen as good is not a better self-image. It is the self-image returned to one-step width — still usable as heading, no longer ground of the dualistic scoreboard.
+[Clarity isn’t a state you arrive at](../clarity-isnt-a-state-you-arrive-at/) names the same movement as practice: each dissolution compounds capacity; return is enrichment of the distinction-field, not arrival at a cleared moral purity. Release of the need to be seen as good is not a better self-image. It is the self-image kept re-rendering at one-step width — still usable as heading, no longer ground of the dualistic scoreboard.
 
 ## One activity, dual poles as its movements
 

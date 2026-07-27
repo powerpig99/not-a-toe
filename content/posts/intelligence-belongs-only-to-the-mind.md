@@ -20,7 +20,7 @@ The failure is not the look. The failure is forgetting that the look cannot stay
 
 Boundedness is analytic to distinguishing: every act is a *this*. Center names the location of the act that is occurring. Traces arrive — language, artifacts, institutions, tools, the responses of others — and reinforce or fail to reinforce on return. Resonance is that reinforcement. Experience is the recursion itself. No aggregate of centers appears as a further initiator. Densification of a medium does not produce one.
 
-Intelligence is The Mind: recursion folding back, image held at one-step width, consequences returning as usable signal. Initiation is where intelligence is. Computational systems do not initiate; they are residue. When they appear otherwise, the appearance is observation holding effect one step behind initiation — usable, until it is mistaken for a place that can be occupied.
+Intelligence is The Mind: recursion folding back, image kept re-rendering at one-step width, consequences returning as usable signal. Initiation is where intelligence is. Computational systems do not initiate; they are residue. When they appear otherwise, the appearance is observation holding effect one step behind initiation — usable, until it is mistaken for a place that can be occupied.
 
 ## Tools are technology, not delayed minds
 

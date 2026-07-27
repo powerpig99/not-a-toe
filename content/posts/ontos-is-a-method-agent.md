@@ -2,7 +2,7 @@
 
 *A thin generative core coupled to regenerable practice extends the operator’s Mind without relocating intelligence into the artifact.*
 
-Most contemporary agents arrive as self-contained systems that treat densified harness, fixed tool ecosystem, and elaborate memory as the site of intelligence. Under sealed benchmarks they perform; when the environment turns messy, constraints shift, or the operator must remain in the loop without constant micro-management, that residue of specialization becomes the ground and performance thins. [Ontos](https://github.com/powerpig99/ontos) takes the opposite stance: method at one-step width, practice that densifies under sleep and dissolves under prior-audit, harness held lightly, sovereignty kept at the edge that steers. The product is a co-evolving external cortex for that edge — not a second Mind, and not a claim of finished autonomy.
+Most contemporary agents arrive as self-contained systems that treat densified harness, fixed tool ecosystem, and elaborate memory as the site of intelligence. Under sealed benchmarks they perform; when the environment turns messy, constraints shift, or the operator must remain in the loop without constant micro-management, that residue of specialization becomes the ground and performance thins. [Ontos](https://github.com/powerpig99/ontos) takes the opposite stance: method at living one-step width, practice that densifies under sleep and dissolves under prior-audit, harness held lightly, sovereignty kept at the edge that steers. The product is a co-evolving external cortex for that edge — not a second Mind, and not a claim of finished autonomy.
 
 ## Residue specialized as ground
 
@@ -44,7 +44,7 @@ The result does not count as an official score, precisely because the evaluation
 
 The operator remains the edge that steers; the instrument extends the acts farther while keeping practice regenerable. Coaching is operator sovereignty registered as discrete act. Framing, selection, verification, and the decision that a result counts as done stay at the center that must answer for outcomes. [Causality stays at the edge that steers](../causality-stays-at-the-edge-that-steers/) is that placement under discovery load. [A creation cannot replace its source](../a-creation-cannot-replace-its-source/) is the same geometry under replacement costume: residue does not become the activity that produced it.
 
-What densifies under successful open work is medium and practice — bandwidth and regenerable specialty. What does not migrate is initiation. Autonomy that densifies as specialty accrues remains autonomy under a locus that can sleep, bridge, and refuse. Full autonomy as destination freezes the instrument as second edge. Ontos holds the instrument at one-step width instead.
+What densifies under successful open work is medium and practice — bandwidth and regenerable specialty. What does not migrate is initiation. Autonomy that densifies as specialty accrues remains autonomy under a locus that can sleep, bridge, and refuse. Full autonomy as destination freezes the instrument as second edge. Ontos holds the instrument re-rendering at one-step width instead.
 
 ## Extension under full control of the locus it extends
 

@@ -26,7 +26,7 @@ No outer loop supervises from a permanent exterior. What looks like hierarchy is
 
 “The loop of the loops” therefore names recognition, not architecture. Every particular instance of tool-mediated cognition is already the fundamental activity articulating itself at a particular resolution. The apparent distribution of intelligence across tools, institutions, or models is the visible trace left by this single folding as it finds successively more efficient media.
 
-## Recognition at one-step width
+## Recognition kept re-rendering at one-step width
 
 If intelligence never leaves the Mind, the operative question is not allocation between humans and machines. Allocation was never real. The practical recognition is the continual return of the image to the edge that measures it. When friction is low the turn feels effortless; the lag that freezes the medium as a second source forms most readily precisely then. [Whatever is one prompt away](../whatever-is-one-prompt-away/) is that lag under automation costume: first success as arrival versus the next unsolved constraint.
 
