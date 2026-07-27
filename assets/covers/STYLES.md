@@ -98,6 +98,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Quipu / knotted-cord still life** | Cream linen ground, horizontal bar with hanging cords of unequal knot sequences, stepped ordered fringe, warm earth fibers, museum raking light | `hierarchy-from-individual-difference` |
 | **Miniature proscenium stage still life** | Scale-model wooden theater box, empty stage with hand-mirror, idle lectern and paper audience cutouts aside, cream table, soft museum side light | `when-observation-becomes-performance` |
 | **Monotype ghost-print still life** | Cream rag paper, dark first pull beside pale ghost second pull of one plate, inked plate and brayer, overlapping residue as shared-looking field, cool museum side light, ink grain | `the-source-of-shared-change` |
+| **Bokashi woodblock / graded indigo print** | Cream washi, indigo lattice gate partially open, warm amber path continuing past the bars into empty ground, imperfect registration, graded washes, raking craft light | `restriction-is-a-selective-tax` |
 
 ## Inventory (by slug)
 
@@ -137,6 +138,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `performative-hindsight-that-pretends-to-be-foresight` | Solarized surreal photograph |
 | `production-consumption-and-the-minds-distinction` | Photoreal tableau |
 | `reality-is-the-minds-ongoing-realization` | Comic halftone / Ben-Day dots |
+| `restriction-is-a-selective-tax` | Bokashi woodblock / graded indigo print |
 | `self-rl-for-humans` | Dark chalk / light trails |
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
 | `symptom-and-cause-in-the-narratives-of-progress` | Chart-recorder / oscillograph strip |
