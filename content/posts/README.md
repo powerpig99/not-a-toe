@@ -6,8 +6,8 @@ Living guide for essays in this folder. Source of truth for site content lives h
 |---------|------|
 | Markdown format (LLM copy-paste) | [`docs/essay-format.md`](../../docs/essay-format.md) |
 | Cover style differentiation | [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md) |
-| Substack / external export | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) |
-| X Article publish | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
+| Substack + X Article paste | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) (`--rich`) |
+| X Article (API parked) | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 | Local memory / sleep audit | [`docs/local-memory.md`](../../docs/local-memory.md) |
 | Posts lattice (cross-link graph) | `node scripts/project-posts-graph.mjs` → [`docs/posts.graph.json`](../../docs/posts.graph.json) |
 | Site authoring summary | [`README.md`](../../README.md) |
@@ -158,7 +158,7 @@ Optional but usual for new essays. **One file serves three surfaces:** this site
 |---------|------------------------|
 | Site | Title image + `og:image` / large Twitter card |
 | Substack | Upload as post cover / social image (prefer local re-upload) |
-| X Article | Uploaded as `cover_media` via [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
+| X Article | Upload same file as Article cover in the editor (paste path; API parked) |
 
 1. Read [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md) — pick a **style family not already used**.
 2. Generate landscape art at **20:9** (site default; also Substack / X Article), no text. Install as `assets/covers/<slug>.jpg` at **1280×576** (or 1600×720 resized down to 1280×576 for the site install).
@@ -220,8 +220,8 @@ curl -sI "https://powerpig99.github.io/not-a-toe/covers/<slug>.jpg" | head -1
 
 | Surface | When | Command / doc |
 |---------|------|----------------|
-| Substack | After live (absolute links + cover URL need Pages) | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) · `node scripts/export-absolute-md.mjs <slug> --stdout \| pbcopy` |
-| X Article | Optional; live draft/publish tabled if enrollment blocked | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
+| Substack | After live | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) · `node scripts/export-absolute-md.mjs <slug> --rich --no-title` |
+| X Article | After live; **same paste** as Substack (API parked) | same command · [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 | Neighbor pointers | Usually `/sleep`; same session only if an older claim must be corrected now | [`docs/local-memory.md`](../../docs/local-memory.md) |
 
 ### Copy-paste ship block
@@ -244,13 +244,12 @@ curl -sI "https://powerpig99.github.io/not-a-toe/posts/${SLUG}/" | head -1
 4. [ ] Add relative cross-links as axis pointers; verify slugs exist (`node scripts/project-posts-graph.mjs` → `missing_targets` must stay 0).
 5. [ ] Cover: new style per STYLES.md; **20:9** landscape; install 1280×576; update STYLES.md.
 6. [ ] **Ship checklist** above: preflight → commit/push → `gh run watch` → live URL 200.
-7. [ ] If posting to Substack: only after live; follow [`docs/export-for-substack.md`](../../docs/export-for-substack.md).
-8. [ ] If posting as X Article: follow [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) (dry-run → `--draft` → review → publish).
-9. [ ] Neighbor review **in the same ship**: for every outbound cross-link, add a reverse pointer on that neighbor (two-way default). Pointer clause only; regenerate posts graph after.
+7. [ ] If posting to Substack and/or X Article: only after live; `node scripts/export-absolute-md.mjs <slug> --rich --no-title` then paste ([`docs/export-for-substack.md`](../../docs/export-for-substack.md)).
+8. [ ] Neighbor review **in the same ship**: for every outbound cross-link, add a reverse pointer on that neighbor (two-way default). Pointer clause only; regenerate posts graph after.
 
 ## After shipping
 
 - Prefer not to rewrite published URLs/slugs; add a new post or revise in place under the same slug.
 - Living updates: same-slug edits when a newer cut clarifies an older face; regenerate posts graph after link changes.
-- If cross-links are added later, re-run Substack export only if you will update the Substack version by hand.
+- If cross-links are added later, re-run `--rich` paste only if you will update Substack / X Article by hand.
 - Sleep (operator call) runs the related-post currency pass on seeds from `--diff` — see [`docs/local-memory.md`](../../docs/local-memory.md).
