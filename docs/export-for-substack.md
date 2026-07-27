@@ -1,6 +1,6 @@
-# Export for Substack and X Article (rich paste)
+# Export for Substack and X Article
 
-Living guide for projecting a site post into **formatted paste** (headings, emphasis, links) without changing the source of truth. Same path for **Substack** and **X Article** body paste.
+Living guide for projecting a site post into markdown with **absolute** links, then pasting **rendered** rich text from a markdown previewer (MacDown). Same path for **Substack** and **X Article** body paste.
 
 | Related | Path |
 |---------|------|
@@ -17,49 +17,40 @@ Living guide for projecting a site post into **formatted paste** (headings, emph
 | Consumer | Link / form | Where |
 |----------|-------------|--------|
 | This site (build) | Relative `[text](../slug/)` | `content/posts/<slug>.md` only |
-| Substack / X Article body | Absolute links, **rendered rich text** on clipboard | `export-absolute-md.mjs --rich` |
+| Substack / X Article body | Absolute links; **rendered** paste from MacDown (or equivalent) | `export/<slug>.md` via script |
 
 Never edit `content/posts/` to “fix” external editors. Never treat `export/` as editable canon. The script is the disposable projection; the relative file is the source.
 
 `export/` is **gitignored**. Local paste artifacts only.
 
-Plain markdown on the clipboard does **not** auto-render in Substack or the X Article editor — both want paste that already carries formatting. Use `--rich` (HTML → RTF → macOS clipboard).
+Plain markdown on the clipboard does **not** auto-render in Substack or the X Article editor. The default path is: absolute `.md` → open in MacDown → copy from the **preview** (rendered HTML) → paste into the editor.
 
 ## Command
 
 ```bash
-# Default for Substack + X Article paste (macOS)
-node scripts/export-absolute-md.mjs <slug> --rich --no-title
-
-# Keep leading H1 in the paste (if the editor has no separate title field)
-node scripts/export-absolute-md.mjs <slug> --rich
-
-# Absolute markdown file only (gitignored; editors will show raw markdown)
+# Default: write export/<slug>.md (absolute links; gitignored)
 node scripts/export-absolute-md.mjs <slug>
 
-# HTML fragment file / stdout
+# Clipboard as raw markdown (macOS) — usually open the file in MacDown instead
+node scripts/export-absolute-md.mjs <slug> --stdout | pbcopy
+
+# Custom path
+node scripts/export-absolute-md.mjs <slug> -o /tmp/<slug>.md
+
+# Optional: RTF clipboard without MacDown (escape hatch)
+node scripts/export-absolute-md.mjs <slug> --rich --no-title
+
+# Optional: HTML fragment file / stdout
 node scripts/export-absolute-md.mjs <slug> --html
 node scripts/export-absolute-md.mjs <slug> --html --stdout
-
-# Custom path (markdown)
-node scripts/export-absolute-md.mjs <slug> -o /tmp/<slug>.md
 ```
 
-`<slug>` is the post filename without `.md` (e.g. `hierarchy-from-individual-difference`).
+`<slug>` is the post filename without `.md` (e.g. `when-observation-becomes-performance`).
 
-On success `--rich` prints:
+On success the default path prints:
 
-- confirmation that RTF is on the clipboard
-- `export/<slug>.html` written (debug / re-paste helper)
+- path of `export/<slug>.md`
 - source, cover URL, live post URL
-
-## What `--rich` does
-
-1. Reads `content/posts/<slug>.md` (must exist).
-2. Rewrites relative post links to absolute site URLs.
-3. Renders markdown → HTML (headings, paragraphs, emphasis, links, lists, blockquotes).
-4. Converts HTML → RTF via macOS `textutil` and copies to the clipboard via `pbcopy`.
-5. Also writes `export/<slug>.html` (gitignored). **Does not modify** the source file.
 
 Re-run after any edit to the source if you will re-paste.
 
@@ -69,29 +60,44 @@ Re-run after any edit to the source if you will re-paste.
 2. **Export**
 
    ```bash
-   node scripts/export-absolute-md.mjs <slug> --rich --no-title
+   node scripts/export-absolute-md.mjs <slug>
+   open -a MacDown export/<slug>.md   # or open in your previewer
    ```
 
-3. **Editor**
+3. **MacDown**
+   - Open the preview (rendered view).
+   - Select all in the **preview** and copy (not the raw markdown pane).
+4. **Editor**
    - Set **title** in the platform title field.
    - **Paste** (⌘V) into the body — not “Paste and Match Style.”
+   - If the body opens with a duplicate H1, delete it (title field already holds the title).
    - **Cover:** upload `assets/covers/<slug>.jpg` (20:9) from disk; prefer local re-upload over hotlinking.
-   - Subtitle: optional; italic open line is already in the paste when present.
-4. **Publish** when ready. Site, Substack, and X Article are parallel surfaces, not one CMS.
+   - Subtitle: optional; italic open line is already in the export when present.
+5. **Publish** when ready. Site, Substack, and X Article are parallel surfaces, not one CMS.
 
 ### Title / H1 double-up
 
 If the editor has a title field (both Substack and X Article do):
 
-- Prefer `--no-title` so the leading `# Title` is omitted from the paste.
-- Or paste full export and delete a duplicate H1 in the body.
+- Paste full export and delete a duplicate H1 in the body, **or**
+- Use `--rich --no-title` if taking the RTF escape hatch (drops leading H1 in that path only).
+
+## Optional: `--rich` (RTF clipboard)
+
+macOS only. Renders markdown → HTML → RTF via `textutil` and copies to the clipboard. Use when MacDown is unavailable; prefer MacDown when it is.
+
+```bash
+node scripts/export-absolute-md.mjs <slug> --rich --no-title
+```
+
+Also writes `export/<slug>.html` as a debug helper. **Does not modify** the source file.
 
 ## Checklist
 
 1. [ ] `content/posts/<slug>.md` final (relative links only).
 2. [ ] Cover at `assets/covers/<slug>.jpg` if used; site live so cover URL resolves.
-3. [ ] `node scripts/export-absolute-md.mjs <slug> --rich --no-title`
-4. [ ] Paste into Substack and/or X Article body; set title; upload cover; publish.
+3. [ ] `node scripts/export-absolute-md.mjs <slug>`
+4. [ ] Open `export/<slug>.md` in MacDown; copy from **preview**; paste into Substack and/or X Article; set title; upload cover; publish.
 5. [ ] Do not commit `export/`. Do not copy absolute URLs back into `content/posts/`.
 
 ## Inventory note
@@ -102,10 +108,10 @@ Files under `export/` are local and gitignored. Do not maintain a committed list
 
 | Symptom | Cause | Fix |
 |---------|--------|-----|
-| Raw markdown in editor | Pasted absolute `.md` or plain text | Use `--rich`; avoid “Match Style” |
-| Relative links | Pasted from `content/posts/` | Re-run script |
+| Raw markdown in editor | Copied from source pane, not preview | Copy from MacDown **preview** |
+| Relative links | Pasted from `content/posts/` | Re-run script; use `export/<slug>.md` |
 | Absolute links in site source | Hand-edited source for paste | Revert to `../slug/`; re-export |
-| Flat paste (no formatting) | Clipboard only plain text | Re-run `--rich` on macOS; paste into empty block |
+| Flat paste (no formatting) | “Paste and Match Style” or plain-text clipboard | Paste ordinary; or re-copy from preview |
 | Cover 404 | Not deployed or wrong slug | Push cover + post; match filename |
 | “Two sources of truth” drift | Editing `export/` by hand | Delete export file; edit source; re-export |
 

@@ -9,7 +9,7 @@ Guides (read these instead of re-deriving the workflow each time):
 | Posts: structure, voice, cross-links, ship checklist | [`content/posts/README.md`](content/posts/README.md) |
 | LLM markdown format (copy-paste prompt) | [`docs/essay-format.md`](docs/essay-format.md) |
 | Cover style differentiation | [`assets/covers/STYLES.md`](assets/covers/STYLES.md) |
-| Substack + X Article paste | [`docs/export-for-substack.md`](docs/export-for-substack.md) (`--rich`) |
+| Substack + X Article paste | [`docs/export-for-substack.md`](docs/export-for-substack.md) (absolute `.md` → MacDown preview) |
 | X Article (API parked) | [`docs/export-for-x-article.md`](docs/export-for-x-article.md) |
 | Local memory / sleep audit / graphs | [`docs/local-memory.md`](docs/local-memory.md) — trackers: `node scripts/project-local-graph.mjs`; posts lattice: `node scripts/project-posts-graph.mjs` |
 
@@ -18,11 +18,12 @@ Guides (read these instead of re-deriving the workflow each time):
 3. Filename is the post slug and permalink (`/posts/<filename>/`).
 4. Optional title/cover image: place `assets/covers/<slug>.jpg` (also `.jpeg`, `.png`, `.webp`) as **20:9** landscape (1280×576) — same file for site, Substack, and X Article cover. Build copies it to `public/covers/` and renders it above the title. **New covers need a style not already in** [`assets/covers/STYLES.md`](assets/covers/STYLES.md).
 5. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) for standardized LLM output; full checklist in [`content/posts/README.md`](content/posts/README.md).
-6. Internal cross-links stay **relative** (`[title](../other-slug/)`) in source. For **Substack and X Article** body paste, use rendered rich text (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)):
+6. Internal cross-links stay **relative** (`[title](../other-slug/)`) in source. For **Substack and X Article** body paste, export absolute markdown and copy the **MacDown preview** (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)):
 
 ```bash
-node scripts/export-absolute-md.mjs <slug> --rich --no-title   # RTF clipboard (macOS)
-node scripts/export-absolute-md.mjs <slug>                     # absolute .md only (not for paste render)
+node scripts/export-absolute-md.mjs <slug>          # write export/<slug>.md
+open -a MacDown export/<slug>.md                    # copy from rendered preview
+# optional escape hatch: --rich --no-title          # RTF clipboard without MacDown
 ```
 
 X Articles API publish is **parked**; see [`docs/export-for-x-article.md`](docs/export-for-x-article.md).

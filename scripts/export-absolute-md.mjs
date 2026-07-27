@@ -8,7 +8,7 @@
  *   node scripts/export-absolute-md.mjs <slug> --stdout
  *   node scripts/export-absolute-md.mjs <slug> -o path/to/out.md
  *   node scripts/export-absolute-md.mjs <slug> --html          # write export/<slug>.html
- *   node scripts/export-absolute-md.mjs <slug> --rich          # rendered RTF → macOS clipboard (Substack paste)
+ *   node scripts/export-absolute-md.mjs <slug> --rich          # optional RTF → macOS clipboard (no MacDown)
  *   node scripts/export-absolute-md.mjs <slug> --html --stdout # HTML fragment to stdout
  */
 import { spawnSync } from 'node:child_process';
@@ -35,12 +35,13 @@ Options:
   --stdout          Write to stdout (markdown unless --html)
   -o <file>         Write to path
   --html            HTML fragment (absolute links); default file export/<slug>.html
-  --rich            Render to RTF and copy to macOS clipboard for Substack paste
+  --rich            Optional: RTF → macOS clipboard (escape hatch without MacDown)
   --no-title        With --rich/--html: drop leading H1 (Substack title field already set)
   -h, --help        This help
 
-Substack + X Article body: use --rich (formatted paste; plain markdown does not auto-render).
-X Articles API (publish-x-article.mjs) is parked — see docs/export-for-x-article.md.
+Default: write export/<slug>.md with absolute links. Open in MacDown and copy the
+rendered preview for Substack / X Article paste (plain markdown does not auto-render).
+--rich is optional. X Articles API (publish-x-article.mjs) is parked — see docs/export-for-x-article.md.
 `);
   process.exit(1);
 }
@@ -148,4 +149,4 @@ fs.mkdirSync(path.dirname(outPath), { recursive: true });
 fs.writeFileSync(outPath, projected.endsWith('\n') ? projected : `${projected}\n`);
 console.log(`Wrote ${path.relative(root, outPath)} (absolute markdown; source unchanged).`);
 printMeta();
-console.log(`Tip: for Substack / X Article paste use  node scripts/export-absolute-md.mjs ${slug} --rich --no-title`);
+console.log(`Tip: open in MacDown and copy the rendered preview:  open -a MacDown ${path.relative(root, outPath)}`);
