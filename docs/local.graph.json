@@ -3,18 +3,18 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-26T14:30:12.559Z",
+    "generated_at": "2026-07-27T07:08:40.093Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "51c7d7f21e1f",
+      "content/posts/README.md": "985c6ef8b6f1",
       "docs/essay-format.md": "bae3bb021d69",
       "docs/export-for-substack.md": "a0b53c416d33",
       "docs/export-for-x-article.md": "98005d2c0b49",
       "export/README.md": "b58f6146e1bb",
-      "assets/covers/STYLES.md": "80d2725e8816",
+      "assets/covers/STYLES.md": "84ba9d62482d",
       "README.md": "5073027c3312",
-      "docs/local-memory.md": "fcaff4f22b90",
+      "docs/local-memory.md": "fc00e6156bc1",
       "build.mjs": "a16daa98a1ae",
       "scripts/export-absolute-md.mjs": "d89e7491528e",
       "scripts/publish-x-article.mjs": "13625fa17198",
@@ -22,8 +22,8 @@
       "MEMORY.md": "9b2cea4e08ca"
     },
     "stats": {
-      "posts": 138,
-      "covers": 68,
+      "posts": 141,
+      "covers": 71,
       "trackers_listed": 12,
       "trackers_present": 12
     },
@@ -212,7 +212,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "80d2725e8816",
+      "hash": "84ba9d62482d",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -332,7 +332,7 @@
       "path": "docs/local-memory.md",
       "owns": "manifest",
       "exists": true,
-      "hash": "fcaff4f22b90",
+      "hash": "fc00e6156bc1",
       "summary": "Manifest of operational `.md` files for this project.",
       "headings": [
         "Local memory — living trackers and sleep audit",
@@ -364,7 +364,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "51c7d7f21e1f",
+      "hash": "985c6ef8b6f1",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",

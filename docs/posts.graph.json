@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-26T23:01:16.150Z",
+    "generated_at": "2026-07-27T07:08:36.377Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -30,7 +30,7 @@
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
-      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "e25d04f78f26",
+      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "b997ff055db3",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
@@ -39,7 +39,7 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "2245b42e51f2",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
-      "content/posts/evil-as-the-minds-own-creation.md": "fde1303f76b2",
+      "content/posts/evil-as-the-minds-own-creation.md": "3478a2544ee9",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/fate-loves-irony-refined.md": "55f2935f273b",
@@ -48,12 +48,13 @@
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
-      "content/posts/having-more-is-never-the-cause.md": "d5cf63163012",
+      "content/posts/having-more-is-never-the-cause.md": "0ae01719b721",
       "content/posts/help-is-half-the-problem.md": "ab76bdb2d800",
+      "content/posts/hierarchy-from-individual-difference.md": "120e472c4d03",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "6757ffe7c803",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "a7a68b38088b",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "c3e6682b5b2f",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -77,7 +78,7 @@
       "content/posts/open-vision-in-a-closed-arena.md": "778c106f4067",
       "content/posts/openness-is-consistency.md": "9e158f698208",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "025760b02a68",
+      "content/posts/ownership-and-self-worthiness.md": "92155a2cd40f",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "6df4ed4d0f7d",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
@@ -94,8 +95,8 @@
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "a410a6855d52",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "98d6a44f5e69",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "f02a313b7795",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "348b698037a8",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "951b5c6ccb7b",
       "content/posts/the-brain-does-not-backprop.md": "1d1eea26006d",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "f2097e51f0bc",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
@@ -103,9 +104,9 @@
       "content/posts/the-coordinators-category-error.md": "5129d8efec5d",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
-      "content/posts/the-fixed-image-of-transcendence.md": "88248907f005",
+      "content/posts/the-fixed-image-of-transcendence.md": "bf64a266f53c",
       "content/posts/the-flywheel-of-the-mind.md": "63836836ed53",
-      "content/posts/the-frame-that-conceals-improvement.md": "2b67783ff6da",
+      "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-limitation-is-doing-work.md": "ebff2fbf2a2e",
       "content/posts/the-living-context.md": "802b03eb6a18",
@@ -115,7 +116,7 @@
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "c54814386d70",
       "content/posts/the-model-never-becomes-a-second-edge.md": "2a74e818c324",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "804dac3addfb",
-      "content/posts/the-npc-impression-is-structural.md": "b9a505f434c6",
+      "content/posts/the-npc-impression-is-structural.md": "8149390c7d09",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "9ac1c2f57cfd",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "904e7ac686d9",
       "content/posts/the-question-that-installs-the-war.md": "b65394259159",
@@ -150,13 +151,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 140,
-      "edges": 645,
-      "unique_directed": 635,
+      "posts": 141,
+      "edges": 665,
+      "unique_directed": 655,
       "missing_targets": 0,
       "one_way": 327,
       "isolated": 38,
-      "posts_with_outbound": 77
+      "posts_with_outbound": 78
     }
   },
   "hubs_in": [
@@ -185,12 +186,12 @@
       "in_degree": 18
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 18
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 17
+      "slug": "the-scaffolding-we-forget",
+      "in_degree": 18
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -221,6 +222,10 @@
       "in_degree": 11
     },
     {
+      "slug": "ownership-and-self-worthiness",
+      "in_degree": 11
+    },
+    {
       "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 11
     },
@@ -235,10 +240,6 @@
     {
       "slug": "what-always-listens-cannot-originate",
       "in_degree": 11
-    },
-    {
-      "slug": "agi-and-asi-are-temporary-goalposts",
-      "in_degree": 10
     }
   ],
   "hubs_out": [
@@ -283,6 +284,10 @@
       "out_degree": 14
     },
     {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "out_degree": 13
+    },
+    {
       "slug": "openness-is-consistency",
       "out_degree": 13
     },
@@ -299,11 +304,15 @@
       "out_degree": 12
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
+      "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "out_degree": 12
     },
     {
-      "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
+      "out_degree": 12
+    },
+    {
+      "slug": "the-fixed-image-of-transcendence",
       "out_degree": 12
     },
     {
@@ -313,14 +322,6 @@
     {
       "slug": "the-strongest-belief-of-the-mind",
       "out_degree": 12
-    },
-    {
-      "slug": "token-efficiency-emulation-and-the-unclosable-gap",
-      "out_degree": 12
-    },
-    {
-      "slug": "a-creation-cannot-replace-its-source",
-      "out_degree": 11
     }
   ],
   "missing": [],
@@ -721,9 +722,9 @@
       "slug": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
       "title": "Curiosity First: The Hidden Engine of Talent and Development",
-      "hash": "e25d04f78f26",
-      "in_degree": 3,
-      "out_degree": 10,
+      "hash": "b997ff055db3",
+      "in_degree": 4,
+      "out_degree": 11,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
         "having-more-is-never-the-cause",
@@ -734,7 +735,8 @@
         "the-fixed-image-of-transcendence",
         "self-rl-for-humans",
         "the-scaffolding-that-keeps-growing",
-        "whatever-is-one-prompt-away"
+        "whatever-is-one-prompt-away",
+        "hierarchy-from-individual-difference"
       ]
     },
     {
@@ -850,11 +852,12 @@
       "slug": "evil-as-the-minds-own-creation",
       "path": "content/posts/evil-as-the-minds-own-creation.md",
       "title": "Evil as the Mind’s Own Creation",
-      "hash": "fde1303f76b2",
-      "in_degree": 2,
-      "out_degree": 8,
+      "hash": "3478a2544ee9",
+      "in_degree": 3,
+      "out_degree": 9,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
+        "hierarchy-from-individual-difference",
         "evil-as-projected-resistance",
         "the-question-that-installs-the-war",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -961,13 +964,14 @@
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
-      "hash": "d5cf63163012",
-      "in_degree": 5,
-      "out_degree": 7,
+      "hash": "0ae01719b721",
+      "in_degree": 6,
+      "out_degree": 8,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
         "individual-choices-as-the-only-causal-levers",
         "the-allocation-of-causal-power-in-validation",
+        "hierarchy-from-individual-difference",
         "two-failures-of-trace",
         "ownership-and-self-worthiness",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -986,6 +990,28 @@
       "links_out": [
         "therapy-opens-the-feedback-loop",
         "when-the-effect-authors-the-frame"
+      ]
+    },
+    {
+      "id": "post:hierarchy-from-individual-difference",
+      "kind": "post",
+      "slug": "hierarchy-from-individual-difference",
+      "path": "content/posts/hierarchy-from-individual-difference.md",
+      "title": "Hierarchy from Individual Difference",
+      "hash": "120e472c4d03",
+      "in_degree": 10,
+      "out_degree": 10,
+      "links_out": [
+        "having-more-is-never-the-cause",
+        "the-frame-that-conceals-improvement",
+        "individual-choices-as-the-only-causal-levers",
+        "evil-as-the-minds-own-creation",
+        "the-npc-impression-is-structural",
+        "ownership-and-self-worthiness",
+        "the-fixed-image-of-transcendence",
+        "curiosity-first-the-hidden-engine-of-talent-and-development",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "the-allocation-of-causal-power-in-validation"
       ]
     },
     {
@@ -1027,9 +1053,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "6757ffe7c803",
-      "in_degree": 9,
-      "out_degree": 12,
+      "hash": "a7a68b38088b",
+      "in_degree": 10,
+      "out_degree": 13,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1041,6 +1067,7 @@
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
         "the-coordinators-category-error",
+        "hierarchy-from-individual-difference",
         "openness-is-consistency",
         "symptom-and-cause-in-the-narratives-of-progress"
       ]
@@ -1440,12 +1467,13 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "025760b02a68",
-      "in_degree": 10,
-      "out_degree": 2,
+      "hash": "92155a2cd40f",
+      "in_degree": 11,
+      "out_degree": 3,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
-        "curiosity-first-the-hidden-engine-of-talent-and-development"
+        "curiosity-first-the-hidden-engine-of-talent-and-development",
+        "hierarchy-from-individual-difference"
       ]
     },
     {
@@ -1694,13 +1722,14 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "98d6a44f5e69",
-      "in_degree": 5,
-      "out_degree": 11,
+      "hash": "348b698037a8",
+      "in_degree": 6,
+      "out_degree": 12,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "individual-choices-as-the-only-causal-levers",
         "the-allocation-of-causal-power-in-validation",
+        "hierarchy-from-individual-difference",
         "production-consumption-and-the-minds-distinction",
         "performative-hindsight-that-pretends-to-be-foresight",
         "what-always-listens-cannot-originate",
@@ -1752,10 +1781,11 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "f02a313b7795",
-      "in_degree": 17,
-      "out_degree": 3,
+      "hash": "951b5c6ccb7b",
+      "in_degree": 18,
+      "out_degree": 4,
       "links_out": [
+        "hierarchy-from-individual-difference",
         "the-ramble-within-the-ramble",
         "having-more-is-never-the-cause",
         "the-strongest-belief-of-the-mind"
@@ -1865,14 +1895,15 @@
       "slug": "the-fixed-image-of-transcendence",
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "The Fixed Image of Transcendence",
-      "hash": "88248907f005",
-      "in_degree": 4,
-      "out_degree": 11,
+      "hash": "bf64a266f53c",
+      "in_degree": 5,
+      "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "agi-and-asi-are-temporary-goalposts",
         "the-model-never-becomes-a-second-edge",
         "mistaking-the-expression-for-the-intelligence",
+        "hierarchy-from-individual-difference",
         "a-creation-cannot-replace-its-source",
         "the-scaffolding-that-keeps-growing",
         "escaping-the-sandbox-stays-inside-the-hold",
@@ -1904,10 +1935,11 @@
       "slug": "the-frame-that-conceals-improvement",
       "path": "content/posts/the-frame-that-conceals-improvement.md",
       "title": "The Frame That Conceals Improvement",
-      "hash": "2b67783ff6da",
-      "in_degree": 3,
-      "out_degree": 1,
+      "hash": "67167b57a7ab",
+      "in_degree": 4,
+      "out_degree": 2,
       "links_out": [
+        "hierarchy-from-individual-difference",
         "the-paradoxical-nature-of-bystander-insights"
       ]
     },
@@ -2053,13 +2085,14 @@
       "slug": "the-npc-impression-is-structural",
       "path": "content/posts/the-npc-impression-is-structural.md",
       "title": "The NPC Impression Is Structural, Not a Ranking of Minds",
-      "hash": "b9a505f434c6",
-      "in_degree": 2,
-      "out_degree": 7,
+      "hash": "8149390c7d09",
+      "in_degree": 3,
+      "out_degree": 8,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "intelligence-belongs-only-to-the-mind",
         "the-coordinators-category-error",
+        "hierarchy-from-individual-difference",
         "the-question-that-installs-the-war",
         "the-path-drawn-one-step-at-a-time",
         "clarity-isnt-a-state-you-arrive-at",
@@ -3274,6 +3307,12 @@
       "label": "Whatever is one prompt away"
     },
     {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
       "from": "distillation-compression-agency",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
@@ -3371,6 +3410,12 @@
     },
     {
       "from": "evil-as-the-minds-own-creation",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
       "to": "evil-as-projected-resistance",
       "rel": "points_to",
       "label": "Evil as projected resistance"
@@ -3443,6 +3488,12 @@
     },
     {
       "from": "having-more-is-never-the-cause",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
       "to": "two-failures-of-trace",
       "rel": "points_to",
       "label": "Artifacts are expressions of intelligence, not intelligence itself"
@@ -3476,6 +3527,66 @@
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
       "label": "When the effect authors the frame"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "the-frame-that-conceals-improvement",
+      "rel": "points_to",
+      "label": "The frame that conceals improvement"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind’s own creation"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC impression is structural"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The fixed image of transcendence"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity first"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -3536,6 +3647,12 @@
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The coordinator’s category error"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -4336,6 +4453,12 @@
       "label": "Curiosity first"
     },
     {
+      "from": "ownership-and-self-worthiness",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -4703,6 +4826,12 @@
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "Production, consumption, and the Mind’s distinction"
@@ -4748,6 +4877,12 @@
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
       "label": "The reality distortion field names the closed map"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -4907,6 +5042,12 @@
     },
     {
       "from": "the-fixed-image-of-transcendence",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A creation cannot replace its source"
@@ -4970,6 +5111,12 @@
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
       "label": "Whatever is one prompt away"
+    },
+    {
+      "from": "the-frame-that-conceals-improvement",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
     },
     {
       "from": "the-frame-that-conceals-improvement",
@@ -5198,6 +5345,12 @@
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The coordinator’s category error"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
     },
     {
       "from": "the-npc-impression-is-structural",

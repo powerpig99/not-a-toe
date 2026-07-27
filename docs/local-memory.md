@@ -58,10 +58,10 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers. Sleep doe
    3. **Neighbor set** — for each seed, 1-hop: `links_out` + inbound citers. Cap total neighbors reviewed per sleep (e.g. ≤15), prioritizing shared geometry over hub bulk.
    4. **Review each neighbor** (read; no silent mass rewrite):
       - Does the seed’s cut make an existing claim stale or incomplete on the **same** axis?
+      - **Two-way is default:** for each outbound link from the seed, ensure the neighbor has a reverse pointer to the seed (single clause; same geometry). Add if missing.
       - Is a **single pointer clause** enough? If yes, add `[text](../seed-slug/)`. If the paragraph would summarize the seed, stop.
       - Broken `../slug/` → fix immediately (lint).
-      - Do **not** add reverse links by default; only when the older post’s own cut is clarified by naming the newer face.
-      - One-way edges are normal. Isolation can be correct.
+      - Skip reverse only when the neighbor genuinely has no shared axis (rare); note the skip. Isolation is exception, not default.
    5. If prose changed and Substack/X will be updated by hand, re-export those surfaces (export trackers).
    6. If any links changed, regenerate posts graph again.
 6. **Regenerate tracker / skill graphs**
@@ -80,6 +80,7 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers. Sleep doe
 Seeds: <from --diff or new slugs>
 For each neighbor in 1-hop review_set:
 - open content/posts/<neighbor>.md
+- two-way default: ensure reverse pointer from neighbor → seed when shared geometry
 - if same geometry and no pointer, add one clause + relative link
 - do not restate the seed essay
 - regenerate: node scripts/project-posts-graph.mjs

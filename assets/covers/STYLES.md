@@ -95,6 +95,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Magic-lantern glass slide still** | Antique hand-painted glass slide on dark wood, fixed translucent figure-on-ladder image, living chalk trail continuing past the glass, amber projection cone + cool museum light | `the-fixed-image-of-transcendence` |
 | **Chart-recorder / oscillograph strip** | Aged cream fanfold paper, pen-trace still life, thin early initiating spike then delayed denser oscillatory lag, mechanical grid, raking museum light | `symptom-and-cause-in-the-narratives-of-progress` |
 | **Dendrochronology / polished tree-ring section** | Warm ivory linen, polished trunk cross-section, successive growth rings as discrete compounding layers, open cambium edge still living, cream–amber–olive, natural-history museum light | `curiosity-first-the-hidden-engine-of-talent-and-development` |
+| **Quipu / knotted-cord still life** | Cream linen ground, horizontal bar with hanging cords of unequal knot sequences, stepped ordered fringe, warm earth fibers, museum raking light | `hierarchy-from-individual-difference` |
 
 ## Inventory (by slug)
 
@@ -117,6 +118,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
 | `having-more-is-never-the-cause` | Scratchboard / white-line scraperboard |
+| `hierarchy-from-individual-difference` | Quipu / knotted-cord still life |
 | `humans-tokens-and-the-scope-of-valuation` | Oil split composition |
 | `individual-choices-as-the-only-causal-levers` | Soft clay / stop-motion puppet still |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |

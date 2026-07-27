@@ -138,7 +138,7 @@ When refining under ontological clarity (or any dissolution pass):
 2. One pointer per cut is enough; avoid a laundry list in one paragraph.
 3. Verify the target file exists: `content/posts/<slug>.md`.
 4. After adding links, re-read: if a paragraph only exists to summarize another essay, delete the summary and keep the pointer.
-5. After shipping a new or revised post, sleep (or an explicit pass) reviews **1-hop neighbors** for pointer updates — see [`docs/local-memory.md`](../../docs/local-memory.md) posts lattice. Do not force reverse links; one-way is default.
+5. After shipping a new or revised post, **always** update **reverse links** on 1-hop neighbors (two-way is default). For each outbound `](../other-slug/)`, open that neighbor and add a single pointer clause back to this slug where the same geometry appears — see [`docs/local-memory.md`](../../docs/local-memory.md) posts lattice. Pointer only; do not restate this essay.
 
 ### Posts graph (projection only)
 
@@ -246,7 +246,7 @@ curl -sI "https://powerpig99.github.io/not-a-toe/posts/${SLUG}/" | head -1
 6. [ ] **Ship checklist** above: preflight → commit/push → `gh run watch` → live URL 200.
 7. [ ] If posting to Substack: only after live; follow [`docs/export-for-substack.md`](../../docs/export-for-substack.md).
 8. [ ] If posting as X Article: follow [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) (dry-run → `--draft` → review → publish).
-9. [ ] Neighbor review: deferred to project `/sleep` unless this draft **depends** on correcting an older claim now — then edit that neighbor in the same session (pointer only).
+9. [ ] Neighbor review **in the same ship**: for every outbound cross-link, add a reverse pointer on that neighbor (two-way default). Pointer clause only; regenerate posts graph after.
 
 ## After shipping
 

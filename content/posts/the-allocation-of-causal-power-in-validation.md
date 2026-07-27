@@ -28,7 +28,7 @@ When causal power is allocated outward, continuation depends on responses marked
 
 Over repeated enactments, the distinctions Mind produces increasingly require external ratification to continue. Capacity to generate continuation from within its own activity thins — not because the activity has stopped, but because the reference for the next step has been preserved past the edge that must re-render it. Continuation registers as an effect produced by another center. Openness, once the prior condition of distinguishing, inverts into something that must be caused across an apparent boundary.
 
-Under that allocation, external validation becomes the primary source of continuation. It sustains distinctions this locus no longer carries forward through its own activity. Praise, status, and narrative can mimic coherence for a while; they do not close the update when treated as cause rather than effect.
+Under that allocation, external validation becomes the primary source of continuation. It sustains distinctions this locus no longer carries forward through its own activity. Praise, status, and narrative can mimic coherence for a while; they do not close the update when treated as cause rather than effect. [Hierarchy from individual difference](../hierarchy-from-individual-difference/) is that allocation under ranking: a lower place under a shared measure relocates supply into conditions or chance while the discrete acts that would alter the traces remain only at this edge.
 
 ## What the allocation decides
 
