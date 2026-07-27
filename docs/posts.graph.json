@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-27T13:31:32.610Z",
+    "generated_at": "2026-07-27T13:51:14.275Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -18,7 +18,7 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/causality-all-the-way.md": "f3e674ecec92",
+      "content/posts/causality-all-the-way.md": "79434a4e386e",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "6919c6254edb",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "2557a4f106d6",
@@ -48,13 +48,13 @@
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
-      "content/posts/having-more-is-never-the-cause.md": "0ae01719b721",
+      "content/posts/having-more-is-never-the-cause.md": "c718df04e2a0",
       "content/posts/help-is-half-the-problem.md": "ab76bdb2d800",
       "content/posts/hierarchy-from-individual-difference.md": "8ffc6171ac4a",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "9d69dbc1b851",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "5a318794a199",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "c3e6682b5b2f",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -82,10 +82,11 @@
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "f54d04212765",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
+      "content/posts/price-as-utterance-understanding-as-trade.md": "560cea888fee",
       "content/posts/production-consumption-and-the-minds-distinction.md": "a99a8c1bcd30",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
-      "content/posts/reality-is-the-minds-ongoing-realization.md": "6485d4376336",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "2887cbc581e4",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "e695779caec2",
       "content/posts/restriction-is-a-selective-tax.md": "3ede50ad1684",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
@@ -102,7 +103,7 @@
       "content/posts/the-climate-problem-registers-only-as-perception.md": "f2097e51f0bc",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "401e128e06ad",
-      "content/posts/the-coordinators-category-error.md": "312212c2fd4a",
+      "content/posts/the-coordinators-category-error.md": "077dd554bf40",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-fixed-image-of-transcendence.md": "bf64a266f53c",
@@ -128,8 +129,8 @@
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "b13973313253",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "12b86f04ce42",
-      "content/posts/the-scaffolding-we-forget.md": "401e51d21428",
-      "content/posts/the-source-of-shared-change.md": "613ddb8bfdc4",
+      "content/posts/the-scaffolding-we-forget.md": "dc22de02712a",
+      "content/posts/the-source-of-shared-change.md": "e594fa038ad2",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "0c71f8c9a1f5",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
@@ -142,7 +143,7 @@
       "content/posts/two-failures-of-trace.md": "7c0552e3ee79",
       "content/posts/what-always-listens-cannot-originate.md": "3e91cad302f9",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
-      "content/posts/what-works-is-the-belief.md": "e59b5567edfb",
+      "content/posts/what-works-is-the-belief.md": "885644d63199",
       "content/posts/whatever-is-one-prompt-away.md": "87f6fd4e207c",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "a814842d6a67",
@@ -154,13 +155,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 144,
-      "edges": 719,
-      "unique_directed": 709,
+      "posts": 145,
+      "edges": 735,
+      "unique_directed": 725,
       "missing_targets": 0,
       "one_way": 327,
       "isolated": 38,
-      "posts_with_outbound": 81
+      "posts_with_outbound": 82
     }
   },
   "hubs_in": [
@@ -189,11 +190,11 @@
       "in_degree": 19
     },
     {
-      "slug": "self-rl-for-humans",
-      "in_degree": 18
+      "slug": "the-scaffolding-we-forget",
+      "in_degree": 19
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "self-rl-for-humans",
       "in_degree": 18
     },
     {
@@ -205,6 +206,10 @@
       "in_degree": 16
     },
     {
+      "slug": "the-source-of-shared-change",
+      "in_degree": 13
+    },
+    {
       "slug": "the-strongest-belief-of-the-mind",
       "in_degree": 13
     },
@@ -213,15 +218,15 @@
       "in_degree": 13
     },
     {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "in_degree": 12
+    },
+    {
       "slug": "ownership-and-self-worthiness",
       "in_degree": 12
     },
     {
       "slug": "the-scaffolding-that-keeps-growing",
-      "in_degree": 12
-    },
-    {
-      "slug": "the-source-of-shared-change",
       "in_degree": 12
     },
     {
@@ -234,10 +239,6 @@
     },
     {
       "slug": "hierarchy-from-individual-difference",
-      "in_degree": 11
-    },
-    {
-      "slug": "individual-choices-as-the-only-causal-levers",
       "in_degree": 11
     },
     {
@@ -263,12 +264,16 @@
       "out_degree": 16
     },
     {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "out_degree": 15
+    },
+    {
       "slug": "no-system-can-be-kept-closed",
       "out_degree": 15
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 14
+      "slug": "the-scaffolding-we-forget",
+      "out_degree": 15
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
@@ -287,10 +292,6 @@
       "out_degree": 14
     },
     {
-      "slug": "the-scaffolding-we-forget",
-      "out_degree": 14
-    },
-    {
       "slug": "what-always-listens-cannot-originate",
       "out_degree": 14
     },
@@ -303,7 +304,15 @@
       "out_degree": 13
     },
     {
+      "slug": "reality-is-the-minds-ongoing-realization",
+      "out_degree": 13
+    },
+    {
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "out_degree": 13
+    },
+    {
+      "slug": "the-source-of-shared-change",
       "out_degree": 13
     },
     {
@@ -315,16 +324,8 @@
       "out_degree": 13
     },
     {
-      "slug": "whatever-is-one-prompt-away",
+      "slug": "what-works-is-the-belief",
       "out_degree": 13
-    },
-    {
-      "slug": "closed-reality-in-the-pursuit-of-serendipity",
-      "out_degree": 12
-    },
-    {
-      "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
-      "out_degree": 12
     }
   ],
   "missing": [],
@@ -529,15 +530,16 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "f3e674ecec92",
-      "in_degree": 7,
-      "out_degree": 11,
+      "hash": "79434a4e386e",
+      "in_degree": 8,
+      "out_degree": 12,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "performative-hindsight-that-pretends-to-be-foresight",
         "causality-stays-at-the-edge-that-steers",
         "the-allocation-of-causal-power-in-validation",
         "what-works-is-the-belief",
+        "price-as-utterance-understanding-as-trade",
         "the-reality-distortion-field-names-the-closed-map",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "individual-choices-as-the-only-causal-levers",
@@ -968,13 +970,14 @@
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
-      "hash": "0ae01719b721",
-      "in_degree": 6,
-      "out_degree": 8,
+      "hash": "c718df04e2a0",
+      "in_degree": 7,
+      "out_degree": 9,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
         "individual-choices-as-the-only-causal-levers",
         "the-allocation-of-causal-power-in-validation",
+        "price-as-utterance-understanding-as-trade",
         "hierarchy-from-individual-difference",
         "two-failures-of-trace",
         "ownership-and-self-worthiness",
@@ -1058,9 +1061,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "9d69dbc1b851",
-      "in_degree": 11,
-      "out_degree": 14,
+      "hash": "5a318794a199",
+      "in_degree": 12,
+      "out_degree": 15,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1070,6 +1073,7 @@
         "production-consumption-and-the-minds-distinction",
         "fate-loves-irony-refined",
         "ownership-and-self-worthiness",
+        "price-as-utterance-understanding-as-trade",
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
         "the-coordinators-category-error",
@@ -1533,6 +1537,26 @@
       "links_out": []
     },
     {
+      "id": "post:price-as-utterance-understanding-as-trade",
+      "kind": "post",
+      "slug": "price-as-utterance-understanding-as-trade",
+      "path": "content/posts/price-as-utterance-understanding-as-trade.md",
+      "title": "Price as Utterance, Understanding as Trade",
+      "hash": "560cea888fee",
+      "in_degree": 8,
+      "out_degree": 8,
+      "links_out": [
+        "individual-choices-as-the-only-causal-levers",
+        "having-more-is-never-the-cause",
+        "what-works-is-the-belief",
+        "causality-all-the-way",
+        "reality-is-the-minds-ongoing-realization",
+        "the-source-of-shared-change",
+        "the-scaffolding-we-forget",
+        "the-coordinators-category-error"
+      ]
+    },
+    {
       "id": "post:production-consumption-and-the-minds-distinction",
       "kind": "post",
       "slug": "production-consumption-and-the-minds-distinction",
@@ -1598,9 +1622,9 @@
       "slug": "reality-is-the-minds-ongoing-realization",
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "Reality Is the Mind's Ongoing Realization",
-      "hash": "6485d4376336",
-      "in_degree": 8,
-      "out_degree": 12,
+      "hash": "2887cbc581e4",
+      "in_degree": 9,
+      "out_degree": 13,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
@@ -1613,6 +1637,7 @@
         "the-strongest-belief-of-the-mind",
         "the-scaffolding-that-keeps-growing",
         "the-source-of-shared-change",
+        "price-as-utterance-understanding-as-trade",
         "the-meaning-of-life-is-in-the-drafting"
       ]
     },
@@ -1890,15 +1915,16 @@
       "slug": "the-coordinators-category-error",
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "The Coordinator’s Category Error",
-      "hash": "312212c2fd4a",
-      "in_degree": 7,
-      "out_degree": 10,
+      "hash": "077dd554bf40",
+      "in_degree": 8,
+      "out_degree": 11,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
+        "price-as-utterance-understanding-as-trade",
         "the-npc-impression-is-structural",
         "help-is-half-the-problem",
         "the-compassion-is-the-mechanism-of-obscuration",
@@ -2335,9 +2361,9 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
-      "hash": "401e51d21428",
-      "in_degree": 18,
-      "out_degree": 14,
+      "hash": "dc22de02712a",
+      "in_degree": 19,
+      "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-path-drawn-one-step-at-a-time",
@@ -2348,6 +2374,7 @@
         "self-rl-for-humans",
         "the-coordinators-category-error",
         "reality-is-the-minds-ongoing-realization",
+        "price-as-utterance-understanding-as-trade",
         "whatever-is-one-prompt-away",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "only-if-it-is-not-kept-empty",
@@ -2376,14 +2403,15 @@
       "slug": "the-source-of-shared-change",
       "path": "content/posts/the-source-of-shared-change.md",
       "title": "The Source of Shared Change",
-      "hash": "613ddb8bfdc4",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "e594fa038ad2",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "mei-you-pu-du-zhi-you-zi-du",
         "the-coordinators-category-error",
         "individual-choices-as-the-only-causal-levers",
+        "price-as-utterance-understanding-as-trade",
         "the-path-drawn-one-step-at-a-time",
         "symptom-and-cause-in-the-narratives-of-progress",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -2566,11 +2594,12 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "What Works Is the Belief",
-      "hash": "e59b5567edfb",
-      "in_degree": 7,
-      "out_degree": 12,
+      "hash": "885644d63199",
+      "in_degree": 8,
+      "out_degree": 13,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
+        "price-as-utterance-understanding-as-trade",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "the-risk-you-delegate-is-the-risk-you-create",
@@ -3014,6 +3043,12 @@
       "to": "what-works-is-the-belief",
       "rel": "points_to",
       "label": "What works is the belief"
+    },
+    {
+      "from": "causality-all-the-way",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
     },
     {
       "from": "causality-all-the-way",
@@ -3587,6 +3622,12 @@
     },
     {
       "from": "having-more-is-never-the-cause",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from individual difference"
@@ -3740,6 +3781,12 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -4666,6 +4713,54 @@
       "label": "The source of shared change"
     },
     {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What works is the belief"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind’s ongoing realization"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The source of shared change"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
+    },
+    {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "openness-is-consistency",
       "rel": "points_to",
@@ -4880,6 +4975,12 @@
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The source of shared change"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
@@ -5222,6 +5323,12 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
     },
     {
       "from": "the-coordinators-category-error",
@@ -6191,6 +6298,12 @@
     },
     {
       "from": "the-scaffolding-we-forget",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
       "label": "Whatever is one prompt away"
@@ -6242,6 +6355,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
     },
     {
       "from": "the-source-of-shared-change",
@@ -6680,6 +6799,12 @@
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
     },
     {
       "from": "what-works-is-the-belief",

@@ -99,6 +99,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Miniature proscenium stage still life** | Scale-model wooden theater box, empty stage with hand-mirror, idle lectern and paper audience cutouts aside, cream table, soft museum side light | `when-observation-becomes-performance` |
 | **Monotype ghost-print still life** | Cream rag paper, dark first pull beside pale ghost second pull of one plate, inked plate and brayer, overlapping residue as shared-looking field, cool museum side light, ink grain | `the-source-of-shared-change` |
 | **Bokashi woodblock / graded indigo print** | Cream washi, indigo lattice gate partially open, warm amber path continuing past the bars into empty ground, imperfect registration, graded washes, raking craft light | `restriction-is-a-selective-tax` |
+| **Wire-service teletype / ticker-tape still** | Cream linen table, vintage teletype platen, dual paper ribbons (one continuous clearing print, one fragmented re-readings), brass keys and ink spool, cool museum side light, no legible text | `price-as-utterance-understanding-as-trade` |
 
 ## Inventory (by slug)
 
@@ -136,6 +137,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `ontos-is-a-method-agent` | Urushi lacquer / maki-e still |
 | `ownership-and-self-worthiness` | Dark chalk / light trails |
 | `performative-hindsight-that-pretends-to-be-foresight` | Solarized surreal photograph |
+| `price-as-utterance-understanding-as-trade` | Wire-service teletype / ticker-tape still |
 | `production-consumption-and-the-minds-distinction` | Photoreal tableau |
 | `reality-is-the-minds-ongoing-realization` | Comic halftone / Ben-Day dots |
 | `restriction-is-a-selective-tax` | Bokashi woodblock / graded indigo print |

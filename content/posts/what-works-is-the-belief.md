@@ -18,7 +18,7 @@ A prohibition therefore does not operate as a law of the field. It operates as a
 
 ## Belief is the operative mechanism
 
-What “works” in the ban is not the sealing of capability in the world. What works is the belief among those who hold it. The belief patterns their choices, their product defaults, their refusal surfaces, their sense of what counts as responsible. It densifies into guardrails that are real as friction for anyone who stays inside that alignment. That friction is not nothing. It is residue with real cost.
+What “works” in the ban is not the sealing of capability in the world. What works is the belief among those who hold it. The belief patterns their choices, their product defaults, their refusal surfaces, their sense of what counts as responsible. It densifies into guardrails that are real as friction for anyone who stays inside that alignment. That friction is not nothing. It is residue with real cost. [Price as utterance, understanding as trade](../price-as-utterance-understanding-as-trade/) is the same apparatus under market costume: each print is scored against a model of value; fundamentals register only through that updating, never as direct speech.
 
 It is also not closure of the activity. [No system can be kept closed](../no-system-can-be-kept-closed/) is the same geometry under formal incompleteness: a finite hold cannot seal the activity that uses it. A one-bit register under addition already shows the cut; export control and model policy are larger holds under the same demand. [Openness is consistency](../openness-is-consistency/) names the demand from the other side: inconsistency is the desire for closure — a finite structure forced to ground what only continues.
 
