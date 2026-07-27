@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-27T13:51:14.275Z",
+    "generated_at": "2026-07-27T16:49:15.257Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -21,16 +21,16 @@
       "content/posts/causality-all-the-way.md": "79434a4e386e",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "6919c6254edb",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
-      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "2557a4f106d6",
+      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "c1510885993b",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/closed-reality-in-benchmark-maxing.md": "a23a04810024",
-      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "1a8fcc9b00cb",
+      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "8f605b908150",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "45e1416ea203",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
-      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "b997ff055db3",
+      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "266eadbcdde6",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
@@ -115,7 +115,7 @@
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
-      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "bab77a863e38",
+      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "b4b639525b39",
       "content/posts/the-model-never-becomes-a-second-edge.md": "2a74e818c324",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "804dac3addfb",
       "content/posts/the-npc-impression-is-structural.md": "8149390c7d09",
@@ -140,28 +140,29 @@
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "eda47a242643",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "036c2f91a81c",
-      "content/posts/two-failures-of-trace.md": "7c0552e3ee79",
+      "content/posts/two-failures-of-trace.md": "7ebc0ffdc667",
       "content/posts/what-always-listens-cannot-originate.md": "3e91cad302f9",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "885644d63199",
       "content/posts/whatever-is-one-prompt-away.md": "87f6fd4e207c",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "a814842d6a67",
-      "content/posts/when-observation-becomes-performance.md": "75cb673e7849",
+      "content/posts/when-observation-becomes-performance.md": "bd47b7219ff3",
       "content/posts/when-the-effect-authors-the-frame.md": "5794510885d3",
       "content/posts/why-explanation-fails.md": "5fe163a22059",
       "content/posts/why-mathematics-can-never-be-solved.md": "60add3a8fd57",
+      "content/posts/writing-without-the-image.md": "71c34cb6805d",
       "content/posts/you-cant-benchmark-the-fluid.md": "730e5564e3a4",
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 145,
-      "edges": 735,
-      "unique_directed": 725,
+      "posts": 146,
+      "edges": 747,
+      "unique_directed": 737,
       "missing_targets": 0,
       "one_way": 327,
       "isolated": 38,
-      "posts_with_outbound": 82
+      "posts_with_outbound": 83
     }
   },
   "hubs_in": [
@@ -174,12 +175,12 @@
       "in_degree": 25
     },
     {
-      "slug": "no-system-can-be-kept-closed",
+      "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 22
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 21
+      "slug": "no-system-can-be-kept-closed",
+      "in_degree": 22
     },
     {
       "slug": "the-path-drawn-one-step-at-a-time",
@@ -206,15 +207,15 @@
       "in_degree": 16
     },
     {
+      "slug": "two-failures-of-trace",
+      "in_degree": 14
+    },
+    {
       "slug": "the-source-of-shared-change",
       "in_degree": 13
     },
     {
       "slug": "the-strongest-belief-of-the-mind",
-      "in_degree": 13
-    },
-    {
-      "slug": "two-failures-of-trace",
       "in_degree": 13
     },
     {
@@ -292,12 +293,20 @@
       "out_degree": 14
     },
     {
+      "slug": "two-failures-of-trace",
+      "out_degree": 14
+    },
+    {
       "slug": "what-always-listens-cannot-originate",
       "out_degree": 14
     },
     {
       "slug": "why-mathematics-can-never-be-solved",
       "out_degree": 14
+    },
+    {
+      "slug": "closed-reality-in-the-pursuit-of-serendipity",
+      "out_degree": 13
     },
     {
       "slug": "openness-is-consistency",
@@ -308,23 +317,15 @@
       "out_degree": 13
     },
     {
+      "slug": "the-meaning-of-life-is-in-the-drafting",
+      "out_degree": 13
+    },
+    {
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "out_degree": 13
     },
     {
       "slug": "the-source-of-shared-change",
-      "out_degree": 13
-    },
-    {
-      "slug": "the-strongest-belief-of-the-mind",
-      "out_degree": 13
-    },
-    {
-      "slug": "two-failures-of-trace",
-      "out_degree": 13
-    },
-    {
-      "slug": "what-works-is-the-belief",
       "out_degree": 13
     }
   ],
@@ -587,15 +588,16 @@
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "Clarity Isn't a State You Arrive At. It's the Movement Itself.",
-      "hash": "2557a4f106d6",
-      "in_degree": 21,
-      "out_degree": 5,
+      "hash": "c1510885993b",
+      "in_degree": 22,
+      "out_degree": 6,
       "links_out": [
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "only-if-it-is-not-kept-empty",
         "the-climate-problem-registers-only-as-perception",
         "the-scaffolding-that-keeps-growing",
-        "when-observation-becomes-performance"
+        "when-observation-becomes-performance",
+        "writing-without-the-image"
       ]
     },
     {
@@ -655,15 +657,16 @@
       "slug": "closed-reality-in-the-pursuit-of-serendipity",
       "path": "content/posts/closed-reality-in-the-pursuit-of-serendipity.md",
       "title": "Closed Reality in the Pursuit of Serendipity",
-      "hash": "1a8fcc9b00cb",
-      "in_degree": 5,
-      "out_degree": 12,
+      "hash": "8f605b908150",
+      "in_degree": 6,
+      "out_degree": 13,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "openness-is-consistency",
         "the-path-drawn-one-step-at-a-time",
         "no-system-can-be-kept-closed",
         "production-consumption-and-the-minds-distinction",
+        "writing-without-the-image",
         "the-scaffolding-we-forget",
         "only-if-it-is-not-kept-empty",
         "a-new-deeper-look-at-antifragility",
@@ -728,9 +731,9 @@
       "slug": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
       "title": "Curiosity First: The Hidden Engine of Talent and Development",
-      "hash": "b997ff055db3",
-      "in_degree": 4,
-      "out_degree": 11,
+      "hash": "266eadbcdde6",
+      "in_degree": 5,
+      "out_degree": 12,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
         "having-more-is-never-the-cause",
@@ -738,6 +741,7 @@
         "token-efficiency-emulation-and-the-unclosable-gap",
         "ownership-and-self-worthiness",
         "individual-choices-as-the-only-causal-levers",
+        "writing-without-the-image",
         "the-fixed-image-of-transcendence",
         "self-rl-for-humans",
         "the-scaffolding-that-keeps-growing",
@@ -2080,12 +2084,13 @@
       "slug": "the-meaning-of-life-is-in-the-drafting",
       "path": "content/posts/the-meaning-of-life-is-in-the-drafting.md",
       "title": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing",
-      "hash": "bab77a863e38",
-      "in_degree": 10,
-      "out_degree": 12,
+      "hash": "b4b639525b39",
+      "in_degree": 11,
+      "out_degree": 13,
       "links_out": [
         "when-observation-becomes-performance",
         "the-path-drawn-one-step-at-a-time",
+        "writing-without-the-image",
         "what-cannot-be-kept",
         "ownership-and-self-worthiness",
         "the-allocation-of-causal-power-in-validation",
@@ -2532,9 +2537,9 @@
       "slug": "two-failures-of-trace",
       "path": "content/posts/two-failures-of-trace.md",
       "title": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
-      "hash": "7c0552e3ee79",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "7ebc0ffdc667",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "token-efficiency-emulation-and-the-unclosable-gap",
@@ -2548,6 +2553,7 @@
         "mistaking-the-expression-for-the-intelligence",
         "the-paradoxical-nature-of-bystander-insights",
         "when-observation-becomes-performance",
+        "writing-without-the-image",
         "the-source-of-shared-change"
       ]
     },
@@ -2673,14 +2679,15 @@
       "slug": "when-observation-becomes-performance",
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "When Observation Becomes Performance",
-      "hash": "75cb673e7849",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "bd47b7219ff3",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
         "mei-you-pu-du-zhi-you-zi-du",
         "the-paradoxical-nature-of-bystander-insights",
         "two-failures-of-trace",
+        "writing-without-the-image",
         "performative-hindsight-that-pretends-to-be-foresight",
         "clarity-isnt-a-state-you-arrive-at",
         "the-source-of-shared-change"
@@ -2742,6 +2749,24 @@
         "clarity-isnt-a-state-you-arrive-at",
         "the-ramble-within-the-ramble",
         "the-scaffolding-that-keeps-growing"
+      ]
+    },
+    {
+      "id": "post:writing-without-the-image",
+      "kind": "post",
+      "slug": "writing-without-the-image",
+      "path": "content/posts/writing-without-the-image.md",
+      "title": "Writing Without the Image",
+      "hash": "71c34cb6805d",
+      "in_degree": 6,
+      "out_degree": 6,
+      "links_out": [
+        "curiosity-first-the-hidden-engine-of-talent-and-development",
+        "when-observation-becomes-performance",
+        "closed-reality-in-the-pursuit-of-serendipity",
+        "the-meaning-of-life-is-in-the-drafting",
+        "two-failures-of-trace",
+        "clarity-isnt-a-state-you-arrive-at"
       ]
     },
     {
@@ -3177,6 +3202,12 @@
       "label": "When observation becomes performance"
     },
     {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing without the image"
+    },
+    {
       "from": "closed-reality-in-benchmark-maxing",
       "to": "you-cant-benchmark-the-fluid",
       "rel": "points_to",
@@ -3310,6 +3341,12 @@
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing without the image"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The scaffolding we forget"
@@ -3415,6 +3452,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing without the image"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -5482,6 +5525,12 @@
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing without the image"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "what-cannot-be-kept",
       "rel": "points_to",
       "label": "what cannot be kept"
@@ -6706,6 +6755,12 @@
     },
     {
       "from": "two-failures-of-trace",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing without the image"
+    },
+    {
+      "from": "two-failures-of-trace",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The source of shared change"
@@ -7012,6 +7067,12 @@
     },
     {
       "from": "when-observation-becomes-performance",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing without the image"
+    },
+    {
+      "from": "when-observation-becomes-performance",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
       "label": "Performative hindsight that pretends to be foresight"
@@ -7159,6 +7220,42 @@
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity first: the hidden engine of talent and development"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When observation becomes performance"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
+      "label": "Closed reality in the pursuit of serendipity"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The meaning of life is in the drafting"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts as expressions of intelligence, not intelligence itself"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity isn’t a state you arrive at"
     },
     {
       "from": "you-cant-benchmark-the-fluid",

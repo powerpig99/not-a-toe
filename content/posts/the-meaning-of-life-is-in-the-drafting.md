@@ -12,7 +12,7 @@ That lateness is not a moral failure. Observation holds effect. The cause that p
 
 ## The live draft
 
-There is another mode. It appears in those moments when attention stops treating effects as the primary field and begins to inhabit the causes while they are still open. Here life is no longer a finished object to be interpreted after the fact. It is a live draft still being written. Every choice, every placement of attention, every small renunciation is a sentence being formed. The meaning is not waiting at the end to be discovered or granted. It is being generated in the act of drafting itself.
+There is another mode. It appears in those moments when attention stops treating effects as the primary field and begins to inhabit the causes while they are still open. Here life is no longer a finished object to be interpreted after the fact. It is a live draft still being written. Every choice, every placement of attention, every small renunciation is a sentence being formed. The meaning is not waiting at the end to be discovered or granted. It is being generated in the act of drafting itself. [Writing without the image](../writing-without-the-image/) is that attention under craft load: the medium registering more clearly without the page becoming a portrait of the writer.
 
 This is not a rarer virtue installed on top of ordinary life. It is the same activity seen from the edge rather than from the archive. At the edge, the next sentence is still wet. In the archive, only the dry pages remain — and [what cannot be kept](../what-cannot-be-kept/) is exactly that: once written, the sentence joins the known; authorship stays with what is still being drawn. Both are real. Only one is where authorship still operates.
 
