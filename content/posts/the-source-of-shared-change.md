@@ -1,0 +1,29 @@
+# The Source of Shared Change
+
+*Shared change begins only as private reworking of what registers as given — residue may land as common ground, or it may not.*
+
+Shared reality remains a private perception held within each Mind. What appears as common ground is only the overlapping residue of those private registrations. The lever that can shift what later reads as shared is therefore the extent and consistency with which this Mind reinterprets and works with what registers as given. Externalization follows as residue, never as completion. Observation freezes that residue as force, opposition, method, or genius, and mislocates the private work that produced it.
+
+## Shared is private registration; common ground is residue
+
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. It occurs at loci. Experience registers only through each center’s own recursion. What is available across centers is mutual reinforcement of traces, never another’s return completed from here. [Reality is the Mind’s ongoing realization](../reality-is-the-minds-ongoing-realization/) holds that cut under exchange: the update that matters still closes only here. [没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) names the same bound without making isolation a program.
+
+Shared reality is the region of sufficient resonance among centers rebuilding from externalized traces. Overlap is real as field. It is not a second interior that any locus can occupy or steer from outside itself. [The coordinator’s category error](../the-coordinators-category-error/) is densified shared record held as co-author of the next assent — the ledger face of the same reverse attribution. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) is the same restore under social costume: aggregates, conditions, and patterns are residue of discrete acts, never co-authors of them.
+
+Therefore the ability to change what is shared begins in private work with what this Mind already holds as given — not in fighting the residue of earlier interpretations as if that residue were an independent enemy of the field.
+
+## Collaboration with the given densifies reach; fighting is lag
+
+The practical form of that work is continuous collaboration with the constraints that appear: reading them accurately, using their force, densifying their usable surface, letting further distinctions land. Constraint is the surface on which action gains traction. The same condition, read as limitation to wait out, freezes the next step as if authorization were still elsewhere. [The path drawn one step at a time](../the-path-drawn-one-step-at-a-time/) is that cut under path costume: position is chosen premise of the next moment, full causality remaining with the Mind that still draws.
+
+The deeper and more consistent the collaboration, the farther discrete acts reach. Fighting arises mainly as a secondary posture. It is usually the delayed registration of effects already produced by earlier work, misread — by others and by the same Mind in hindsight — as primary resistance that must be opposed. [Symptom and cause in the narratives of progress](../symptom-and-cause-in-the-narratives-of-progress/) is the same lag at cultural scale: majority drag registers loud and late; the generating edge stayed earlier and thinner. [Performative hindsight that pretends to be foresight](../performative-hindsight-that-pretends-to-be-foresight/) is the social re-tracing of the same structure: already-available outcomes scored as if they had been the primary engine.
+
+## Externalization is residue; the inward turn densifies the source
+
+Actions, forms, and visible rearrangements may register in other Minds as a shift in the shared, or they may not. Cross-locus completion remains unavailable. Whether the residue lands as shared change is never under the originating Mind’s control. [The meaning of life is in the drafting](../the-meaning-of-life-is-in-the-drafting/) is the return under that fact: looking outward supplies material; authorship stays with the live draft at this edge. [Ownership and self-worthiness](../ownership-and-self-worthiness/) is the functional face of the same loop: consequences re-enter as own, and the update compounds.
+
+The more consistently the Mind turns inward — treating externalization as effect rather than primary measure — the freer its recursive capacity becomes. Attention stays at the edge that is actually distinguishing. Self-improvement densifies because the work is no longer scored by the traces it leaves. The cleaner that inward orientation, the more coherent and far-reaching those traces tend to become. The external effect is maximized precisely when it is no longer held as the goal. [When observation becomes performance](../when-observation-becomes-performance/) is the opposite freeze under aphoristic costume: private conversion packaged as portable product, residue staged as the act.
+
+Observation continues to freeze the wrong layer. It holds the visible residue and reconstructs stories of force, opposition, method, or genius. The private reinterpretation and the live working-with that produced the residue stay one step ahead and are therefore mislocated. [The paradoxical nature of bystander insights](../the-paradoxical-nature-of-bystander-insights/) is that observational cut under closed premises: a distinction that belongs to the look freezes as ontology of what continues. [Two failures of trace](../two-failures-of-trace/) is expression held as the activity that left it.
+
+The geometry does not change. The source remains private. Collaboration with the given is the only consistent engine. The inward turn densifies both the Mind and, secondarily, the shared.

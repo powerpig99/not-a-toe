@@ -10,7 +10,7 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 What is called an individual choice is that registration at one locus: this act, then the next, under a field already patterned by prior acts. Each such act is its own lever — independent of the others, not a position on a shared plane of “individual choice.” No aggregate of persons, no generational label, no environmental condition such as prosperity or comfort, and no psychological pattern is granted a second lever of initiation. Those names mark residual configurations — densified traces of many discrete acts, available as field for later ones. They do not perform the distinguishing that produced them.
 
-Between centers there is only availability-patterning. Cross-locus completion of another’s return is a category error. Scale does not invent a super-center that can carry what each locus still carries alone.
+Between centers there is only availability-patterning. Cross-locus completion of another’s return is a category error. Scale does not invent a super-center that can carry what each locus still carries alone. [The source of shared change](../the-source-of-shared-change/) is the same restore when the target is the shared itself: what shifts later as common ground begins as private reworking of the given, not as co-authorship by residue.
 
 ## Progress and drag are differential consistency
 

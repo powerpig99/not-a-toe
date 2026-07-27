@@ -97,6 +97,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Dendrochronology / polished tree-ring section** | Warm ivory linen, polished trunk cross-section, successive growth rings as discrete compounding layers, open cambium edge still living, cream–amber–olive, natural-history museum light | `curiosity-first-the-hidden-engine-of-talent-and-development` |
 | **Quipu / knotted-cord still life** | Cream linen ground, horizontal bar with hanging cords of unequal knot sequences, stepped ordered fringe, warm earth fibers, museum raking light | `hierarchy-from-individual-difference` |
 | **Miniature proscenium stage still life** | Scale-model wooden theater box, empty stage with hand-mirror, idle lectern and paper audience cutouts aside, cream table, soft museum side light | `when-observation-becomes-performance` |
+| **Monotype ghost-print still life** | Cream rag paper, dark first pull beside pale ghost second pull of one plate, inked plate and brayer, overlapping residue as shared-looking field, cool museum side light, ink grain | `the-source-of-shared-change` |
 
 ## Inventory (by slug)
 
@@ -160,6 +161,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-scaffolding-that-keeps-growing` | Lithographic crayon / stone print |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
+| `the-source-of-shared-change` | Monotype ghost-print still life |
 | `the-strongest-belief-of-the-mind` | Palimpsest vellum / multi-ink redraw |
 | `therapy-opens-the-feedback-loop` | Sandblasted glass etching |
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
