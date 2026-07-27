@@ -96,6 +96,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Chart-recorder / oscillograph strip** | Aged cream fanfold paper, pen-trace still life, thin early initiating spike then delayed denser oscillatory lag, mechanical grid, raking museum light | `symptom-and-cause-in-the-narratives-of-progress` |
 | **Dendrochronology / polished tree-ring section** | Warm ivory linen, polished trunk cross-section, successive growth rings as discrete compounding layers, open cambium edge still living, cream–amber–olive, natural-history museum light | `curiosity-first-the-hidden-engine-of-talent-and-development` |
 | **Quipu / knotted-cord still life** | Cream linen ground, horizontal bar with hanging cords of unequal knot sequences, stepped ordered fringe, warm earth fibers, museum raking light | `hierarchy-from-individual-difference` |
+| **Miniature proscenium stage still life** | Scale-model wooden theater box, empty stage with hand-mirror, idle lectern and paper audience cutouts aside, cream table, soft museum side light | `when-observation-becomes-performance` |
 
 ## Inventory (by slug)
 
@@ -167,6 +168,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `what-works-is-the-belief` | Mingei / katazome stencil |
 | `whatever-is-one-prompt-away` | Pixel art / limited-palette retro |
 | `when-need-stops-being-the-measure` | Embroidery / needlework on linen |
+| `when-observation-becomes-performance` | Miniature proscenium stage still life |
 | `when-the-effect-authors-the-frame` | Suminagashi / floating-ink marbling |
 | `why-mathematics-can-never-be-solved` | Dutch Golden Age vanitas still |
 | `qian-yin-hou-guo` | Silverpoint / metalpoint on gesso |

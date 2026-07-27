@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-27T07:08:36.377Z",
+    "generated_at": "2026-07-27T08:08:24.079Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -21,7 +21,7 @@
       "content/posts/causality-all-the-way.md": "f3e674ecec92",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "6919c6254edb",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
-      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "ae37471af83b",
+      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "2557a4f106d6",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/closed-reality-in-benchmark-maxing.md": "a23a04810024",
@@ -50,7 +50,7 @@
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
       "content/posts/having-more-is-never-the-cause.md": "0ae01719b721",
       "content/posts/help-is-half-the-problem.md": "ab76bdb2d800",
-      "content/posts/hierarchy-from-individual-difference.md": "120e472c4d03",
+      "content/posts/hierarchy-from-individual-difference.md": "2b62b7aba83b",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
@@ -61,7 +61,7 @@
       "content/posts/looping-and-graphing.md": "91731e982a9f",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "7386717ff3a3",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "190b8673d831",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "ff7f982e7781",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "bea4e1d37e05",
@@ -80,7 +80,7 @@
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "92155a2cd40f",
       "content/posts/perception-perspective-refined.md": "726559169efb",
-      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "6df4ed4d0f7d",
+      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "dcc1d4aa4ff5",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/production-consumption-and-the-minds-distinction.md": "a99a8c1bcd30",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
@@ -113,11 +113,11 @@
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
-      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "c54814386d70",
+      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "e7fec47625e2",
       "content/posts/the-model-never-becomes-a-second-edge.md": "2a74e818c324",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "804dac3addfb",
       "content/posts/the-npc-impression-is-structural.md": "8149390c7d09",
-      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "9ac1c2f57cfd",
+      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "8c98ad930d57",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "904e7ac686d9",
       "content/posts/the-question-that-installs-the-war.md": "b65394259159",
       "content/posts/the-ramble-within-the-ramble.md": "4b0befa6bea2",
@@ -137,13 +137,14 @@
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "eda47a242643",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "036c2f91a81c",
-      "content/posts/two-failures-of-trace.md": "93a7ee0a653d",
+      "content/posts/two-failures-of-trace.md": "bd5a3e131ddb",
       "content/posts/what-always-listens-cannot-originate.md": "3e91cad302f9",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "de9cd674a54b",
       "content/posts/whatever-is-one-prompt-away.md": "87f6fd4e207c",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "a814842d6a67",
+      "content/posts/when-observation-becomes-performance.md": "26b830634181",
       "content/posts/when-the-effect-authors-the-frame.md": "5794510885d3",
       "content/posts/why-explanation-fails.md": "5fe163a22059",
       "content/posts/why-mathematics-can-never-be-solved.md": "60add3a8fd57",
@@ -151,13 +152,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 141,
-      "edges": 665,
-      "unique_directed": 655,
+      "posts": 142,
+      "edges": 677,
+      "unique_directed": 667,
       "missing_targets": 0,
       "one_way": 327,
       "isolated": 38,
-      "posts_with_outbound": 78
+      "posts_with_outbound": 79
     }
   },
   "hubs_in": [
@@ -170,12 +171,12 @@
       "in_degree": 25
     },
     {
-      "slug": "no-system-can-be-kept-closed",
+      "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 21
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 20
+      "slug": "no-system-can-be-kept-closed",
+      "in_degree": 21
     },
     {
       "slug": "the-path-drawn-one-step-at-a-time",
@@ -199,7 +200,7 @@
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 14
+      "in_degree": 15
     },
     {
       "slug": "the-scaffolding-that-keeps-growing",
@@ -207,6 +208,10 @@
     },
     {
       "slug": "the-strongest-belief-of-the-mind",
+      "in_degree": 12
+    },
+    {
+      "slug": "two-failures-of-trace",
       "in_degree": 12
     },
     {
@@ -231,10 +236,6 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 11
-    },
-    {
-      "slug": "two-failures-of-trace",
       "in_degree": 11
     },
     {
@@ -292,6 +293,10 @@
       "out_degree": 13
     },
     {
+      "slug": "the-paradoxical-nature-of-bystander-insights",
+      "out_degree": 13
+    },
+    {
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "out_degree": 13
     },
@@ -313,10 +318,6 @@
     },
     {
       "slug": "the-fixed-image-of-transcendence",
-      "out_degree": 12
-    },
-    {
-      "slug": "the-paradoxical-nature-of-bystander-insights",
       "out_degree": 12
     },
     {
@@ -582,14 +583,15 @@
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "Clarity Isn't a State You Arrive At. It's the Movement Itself.",
-      "hash": "ae37471af83b",
-      "in_degree": 20,
-      "out_degree": 4,
+      "hash": "2557a4f106d6",
+      "in_degree": 21,
+      "out_degree": 5,
       "links_out": [
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "only-if-it-is-not-kept-empty",
         "the-climate-problem-registers-only-as-perception",
-        "the-scaffolding-that-keeps-growing"
+        "the-scaffolding-that-keeps-growing",
+        "when-observation-becomes-performance"
       ]
     },
     {
@@ -998,7 +1000,7 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "Hierarchy from Individual Difference",
-      "hash": "120e472c4d03",
+      "hash": "2b62b7aba83b",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -1171,12 +1173,13 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "190b8673d831",
-      "in_degree": 14,
-      "out_degree": 3,
+      "hash": "ff7f982e7781",
+      "in_degree": 15,
+      "out_degree": 4,
       "links_out": [
         "the-coordinators-category-error",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
+        "when-observation-becomes-performance",
         "qian-yin-hou-guo"
       ]
     },
@@ -1493,9 +1496,9 @@
       "slug": "performative-hindsight-that-pretends-to-be-foresight",
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "Performative Hindsight That Pretends to Be Foresight",
-      "hash": "6df4ed4d0f7d",
-      "in_degree": 9,
-      "out_degree": 10,
+      "hash": "dcc1d4aa4ff5",
+      "in_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -1503,6 +1506,7 @@
         "the-frame-that-conceals-improvement",
         "the-allocation-of-causal-power-in-validation",
         "the-meaning-of-life-is-in-the-drafting",
+        "when-observation-becomes-performance",
         "two-failures-of-trace",
         "the-paradoxical-nature-of-bystander-insights",
         "the-reality-distortion-field-names-the-closed-map",
@@ -2015,10 +2019,11 @@
       "slug": "the-meaning-of-life-is-in-the-drafting",
       "path": "content/posts/the-meaning-of-life-is-in-the-drafting.md",
       "title": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing",
-      "hash": "c54814386d70",
-      "in_degree": 8,
-      "out_degree": 10,
+      "hash": "e7fec47625e2",
+      "in_degree": 9,
+      "out_degree": 11,
       "links_out": [
+        "when-observation-becomes-performance",
         "the-path-drawn-one-step-at-a-time",
         "what-cannot-be-kept",
         "ownership-and-self-worthiness",
@@ -2105,9 +2110,9 @@
       "slug": "the-paradoxical-nature-of-bystander-insights",
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
       "title": "The Paradoxical Nature of Bystander Insights",
-      "hash": "9ac1c2f57cfd",
-      "in_degree": 5,
-      "out_degree": 12,
+      "hash": "8c98ad930d57",
+      "in_degree": 6,
+      "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "two-failures-of-trace",
@@ -2120,7 +2125,8 @@
         "the-frame-that-conceals-improvement",
         "performative-hindsight-that-pretends-to-be-foresight",
         "causality-all-the-way",
-        "the-scaffolding-we-forget"
+        "the-scaffolding-we-forget",
+        "when-observation-becomes-performance"
       ]
     },
     {
@@ -2433,9 +2439,9 @@
       "slug": "two-failures-of-trace",
       "path": "content/posts/two-failures-of-trace.md",
       "title": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
-      "hash": "93a7ee0a653d",
-      "in_degree": 11,
-      "out_degree": 11,
+      "hash": "bd5a3e131ddb",
+      "in_degree": 12,
+      "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "token-efficiency-emulation-and-the-unclosable-gap",
@@ -2447,7 +2453,8 @@
         "complexity-obscures-emergence-as-the-act-of-mind",
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "mistaking-the-expression-for-the-intelligence",
-        "the-paradoxical-nature-of-bystander-insights"
+        "the-paradoxical-nature-of-bystander-insights",
+        "when-observation-becomes-performance"
       ]
     },
     {
@@ -2562,6 +2569,24 @@
         "therapy-opens-the-feedback-loop",
         "help-is-half-the-problem",
         "mei-you-pu-du-zhi-you-zi-du"
+      ]
+    },
+    {
+      "id": "post:when-observation-becomes-performance",
+      "kind": "post",
+      "slug": "when-observation-becomes-performance",
+      "path": "content/posts/when-observation-becomes-performance.md",
+      "title": "When Observation Becomes Performance",
+      "hash": "26b830634181",
+      "in_degree": 6,
+      "out_degree": 6,
+      "links_out": [
+        "the-meaning-of-life-is-in-the-drafting",
+        "mei-you-pu-du-zhi-you-zi-du",
+        "the-paradoxical-nature-of-bystander-insights",
+        "two-failures-of-trace",
+        "performative-hindsight-that-pretends-to-be-foresight",
+        "clarity-isnt-a-state-you-arrive-at"
       ]
     },
     {
@@ -3041,6 +3066,12 @@
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When observation becomes performance"
     },
     {
       "from": "closed-reality-in-benchmark-maxing",
@@ -3824,6 +3855,12 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When observation becomes performance"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
       "label": "前因，后果"
@@ -4496,6 +4533,12 @@
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When observation becomes performance"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "two-failures-of-trace",
       "rel": "points_to",
       "label": "Artifacts are expressions of intelligence, not intelligence itself"
@@ -5126,6 +5169,12 @@
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When observation becomes performance"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
       "label": "the path drawn one step at a time"
@@ -5447,6 +5496,12 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The scaffolding we forget"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When observation becomes performance"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -6223,6 +6278,12 @@
       "label": "The paradoxical nature of bystander insights"
     },
     {
+      "from": "two-failures-of-trace",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When observation becomes performance"
+    },
+    {
       "from": "what-always-listens-cannot-originate",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -6485,6 +6546,42 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The meaning of life is in the drafting"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The paradoxical nature of bystander insights"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "artifacts as expressions of intelligence, not intelligence itself"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative hindsight that pretends to be foresight"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity isn’t a state you arrive at"
     },
     {
       "from": "when-the-effect-authors-the-frame",

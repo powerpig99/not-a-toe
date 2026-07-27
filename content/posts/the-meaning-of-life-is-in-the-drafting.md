@@ -2,7 +2,7 @@
 
 *Meaning is generated in the live drafting of causes, not recovered from hardened effects — and it thins when the outward gaze never returns to the page.*
 
-Most of life is first met as consequence: outcomes already shaped, then explained, claimed, or denied. Another register opens when attention inhabits the causes while they are still being written. Looking outward supplies material and perspective; the draft thins not because we looked, but because we never came home. Meaning is not a conclusion waiting at the end. It is the rhythm of drafting and returning.
+Most of life is first met as consequence: outcomes already shaped, then explained, claimed, or denied. Another register opens when attention inhabits the causes while they are still being written. Looking outward supplies material and perspective; the draft thins not because we looked, but because we never came home. Meaning is not a conclusion waiting at the end. It is the rhythm of drafting and returning. [When observation becomes performance](../when-observation-becomes-performance/) is that return under aphoristic costume: an observation about others packaged as portable wisdom freezes the private conversion as product for an audience.
 
 ## After the fact
 
