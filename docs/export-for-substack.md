@@ -37,8 +37,8 @@ node scripts/export-absolute-md.mjs <slug> --stdout | pbcopy
 # Custom path
 node scripts/export-absolute-md.mjs <slug> -o /tmp/<slug>.md
 
-# Optional: RTF clipboard without MacDown (escape hatch)
-node scripts/export-absolute-md.mjs <slug> --rich --no-title
+# Optional: RTF clipboard without MacDown (escape hatch; keeps H1)
+node scripts/export-absolute-md.mjs <slug> --rich
 
 # Optional: HTML fragment file / stdout
 node scripts/export-absolute-md.mjs <slug> --html
