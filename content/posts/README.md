@@ -116,7 +116,7 @@ When refining under ontological clarity (or any dissolution pass):
 - **Clarity of the writing Mind, not performance for readers.** Draft so the next step at this locus is cleaner. Do not write to teach, persuade, reassure, or brand. Cross-links restore axes for the same Mind under another load — not an index for an audience. “Embody. Never claim.” applies to the page itself: no meta about openness, no posture of humility, no lecture about how the work should be read.
 - **Mechanism, not moral framing.** Prefer allocation, locus, continuation, capacity thinning over stolen power, genuine stake, heroic independence.
 - **Assert; don’t soften.** Drop padding (“rarely,” “in most cases,” “not primarily”) when the cut is structural.
-- **Dissolve, don’t negate.** Describe what the activity is doing; avoid installing a corrective identity (“reject all external input”).
+- **Negation discipline.** Soft negation as differentiation is ordinary and often inevitable: holding two axes apart (“sequence alone supplies difference; shared alignment supplies ranking”). Assertive negation of rival takes or theories installs a closed boundary — avoid it; state the geometry as identity. Exception: assertive negation of a **closed-reality assumption** opens rather than seals (freeze of a finite hold as exhaustive ground). That negation is allowed and sometimes required. Describe what the activity is doing; do not install a corrective identity.
 - **Stand alone.** Fold ephemeral posts (X, drafts) into the prose. Do **not** depend on a link to something you may delete. Link durable site posts and stable external sources when needed.
 - **Cross-links as pointers.** Restore an axis with a short clause + link; do not restate the linked essay. Pattern:
 

@@ -24,6 +24,7 @@ Output rules (strict):
 14. Internal cross-links use relative form only: `[title](../other-slug/)`. Do not use absolute site URLs in the source file.
 15. Fold any seed observation (tweet, note) into the prose so the essay stands alone; do not depend on a deletable external post link.
 16. When introducing the irreducible prior by name, use the house premise formula exactly: `Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction.` Essay-specific derivation continues after that formula; it does not replace it. Owner detail: [`content/posts/README.md`](../content/posts/README.md).
+17. Negation: soft differentiation is fine; assertive negation of other takes is closed. Assertive negation is reserved for dissolving a closed-reality assumption. Prefer stating identity. Owner detail: [`content/posts/README.md`](../content/posts/README.md) voice section.
 ```
 
 Full title / subtitle / lead jobs and anti-repetition check: [`content/posts/README.md`](../content/posts/README.md) (owner).
