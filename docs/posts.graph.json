@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-28T09:40:36.681Z",
+    "generated_at": "2026-07-28T19:14:23.295Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -40,13 +40,14 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "2245b42e51f2",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
-      "content/posts/evil-as-the-minds-own-creation.md": "9479449b7776",
+      "content/posts/evil-as-the-minds-own-creation.md": "f5f726b461fa",
       "content/posts/expertise-as-reference-not-replacement.md": "22a4549fe3d7",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/fate-loves-irony-refined.md": "55f2935f273b",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
+      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "7bb93c7770a6",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
@@ -64,7 +65,7 @@
       "content/posts/looping-and-graphing.md": "91731e982a9f",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "7386717ff3a3",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "63440ad0f7ae",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "fe0310f3afcf",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "e944535fb362",
@@ -79,13 +80,13 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "0e830287ad49",
       "content/posts/ontos-is-a-method-agent.md": "864d542c7296",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "7f572601a265",
+      "content/posts/openness-is-consistency.md": "48dda20aee1f",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "00093354ee49",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "f54d04212765",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/preference-clusters-and-the-language-of-judgment.md": "452b00d9a451",
+      "content/posts/preference-clusters-and-the-language-of-judgment.md": "795b10e06078",
       "content/posts/price-as-utterance-understanding-as-trade.md": "27e4f99f9d21",
       "content/posts/production-consumption-and-the-minds-distinction.md": "11076691e07e",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
@@ -127,7 +128,7 @@
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "125b5e29766b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "02969233f4f4",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "cdad3d254542",
-      "content/posts/the-question-that-installs-the-war.md": "d9a82f7ea15f",
+      "content/posts/the-question-that-installs-the-war.md": "75b7ba4e2aeb",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "2c91f67fd1fa",
@@ -162,13 +163,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 152,
-      "edges": 875,
-      "unique_directed": 865,
+      "posts": 153,
+      "edges": 885,
+      "unique_directed": 875,
       "missing_targets": 0,
       "one_way": 333,
       "isolated": 38,
-      "posts_with_outbound": 89
+      "posts_with_outbound": 90
     }
   },
   "hubs_in": [
@@ -178,7 +179,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 28
+      "in_degree": 29
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -193,12 +194,12 @@
       "in_degree": 22
     },
     {
-      "slug": "the-path-drawn-one-step-at-a-time",
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
       "in_degree": 21
     },
     {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 20
+      "slug": "the-path-drawn-one-step-at-a-time",
+      "in_degree": 21
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -221,12 +222,12 @@
       "in_degree": 16
     },
     {
-      "slug": "two-failures-of-trace",
+      "slug": "preference-clusters-and-the-language-of-judgment",
       "in_degree": 15
     },
     {
-      "slug": "preference-clusters-and-the-language-of-judgment",
-      "in_degree": 14
+      "slug": "two-failures-of-trace",
+      "in_degree": 15
     },
     {
       "slug": "the-strongest-belief-of-the-mind",
@@ -283,6 +284,10 @@
       "out_degree": 16
     },
     {
+      "slug": "openness-is-consistency",
+      "out_degree": 16
+    },
+    {
       "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 16
     },
@@ -295,7 +300,7 @@
       "out_degree": 16
     },
     {
-      "slug": "openness-is-consistency",
+      "slug": "preference-clusters-and-the-language-of-judgment",
       "out_degree": 15
     },
     {
@@ -313,10 +318,6 @@
     {
       "slug": "what-works-is-the-belief",
       "out_degree": 15
-    },
-    {
-      "slug": "preference-clusters-and-the-language-of-judgment",
-      "out_degree": 14
     },
     {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
@@ -897,14 +898,15 @@
       "slug": "evil-as-the-minds-own-creation",
       "path": "content/posts/evil-as-the-minds-own-creation.md",
       "title": "Evil as the Mind’s Own Creation",
-      "hash": "9479449b7776",
-      "in_degree": 5,
-      "out_degree": 11,
+      "hash": "f5f726b461fa",
+      "in_degree": 6,
+      "out_degree": 12,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "hierarchy-from-individual-difference",
         "evil-as-projected-resistance",
         "the-question-that-installs-the-war",
+        "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "mei-you-pu-du-zhi-you-zi-du",
         "openness-is-consistency",
         "ownership-and-self-worthiness",
@@ -995,6 +997,23 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "kind": "post",
+      "slug": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "path": "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md",
+      "title": "Good and Evil Are the Two Sides of the Coin and the Cut",
+      "hash": "7bb93c7770a6",
+      "in_degree": 5,
+      "out_degree": 5,
+      "links_out": [
+        "evil-as-the-minds-own-creation",
+        "the-question-that-installs-the-war",
+        "preference-clusters-and-the-language-of-judgment",
+        "mei-you-pu-du-zhi-you-zi-du",
+        "openness-is-consistency"
+      ]
     },
     {
       "id": "post:grok-420-framework-drift",
@@ -1276,9 +1295,9 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "63440ad0f7ae",
-      "in_degree": 20,
-      "out_degree": 9,
+      "hash": "fe0310f3afcf",
+      "in_degree": 21,
+      "out_degree": 10,
       "links_out": [
         "the-coordinators-category-error",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -1288,6 +1307,7 @@
         "qian-yin-hou-guo",
         "expertise-as-reference-not-replacement",
         "preference-clusters-and-the-language-of-judgment",
+        "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self"
       ]
     },
@@ -1550,12 +1570,13 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "7f572601a265",
-      "in_degree": 28,
-      "out_degree": 15,
+      "hash": "48dda20aee1f",
+      "in_degree": 29,
+      "out_degree": 16,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
+        "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "a-new-deeper-look-at-antifragility",
         "the-brain-does-not-backprop",
         "what-cannot-be-kept",
@@ -1651,14 +1672,15 @@
       "slug": "preference-clusters-and-the-language-of-judgment",
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
       "title": "Preference Clusters and the Language of Judgment",
-      "hash": "452b00d9a451",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "795b10e06078",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
         "hierarchy-from-individual-difference",
         "evil-as-the-minds-own-creation",
+        "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "the-allocation-of-causal-power-in-validation",
         "restriction-is-a-selective-tax",
         "what-works-is-the-belief",
@@ -2411,10 +2433,11 @@
       "slug": "the-question-that-installs-the-war",
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "The Question That Installs the War",
-      "hash": "d9a82f7ea15f",
-      "in_degree": 6,
-      "out_degree": 3,
+      "hash": "75b7ba4e2aeb",
+      "in_degree": 7,
+      "out_degree": 4,
       "links_out": [
+        "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "reality-is-the-minds-ongoing-realization",
         "the-climate-problem-registers-only-as-perception",
         "preference-clusters-and-the-language-of-judgment"
@@ -3913,6 +3936,12 @@
     },
     {
       "from": "evil-as-the-minds-own-creation",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and evil are the two sides of the coin and the cut"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
@@ -4036,6 +4065,36 @@
       "to": "the-surface-beneath",
       "rel": "points_to",
       "label": "The Surface Beneath"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind’s own creation"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The question that installs the war"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
     },
     {
       "from": "having-more-is-never-the-cause",
@@ -4558,6 +4617,12 @@
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
       "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and evil are the two sides of the coin and the cut"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -5161,6 +5226,12 @@
     },
     {
       "from": "openness-is-consistency",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and evil are the two sides of the coin and the cut"
+    },
+    {
+      "from": "openness-is-consistency",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
       "label": "Antifragility as prosthesis, not driver"
@@ -5362,6 +5433,12 @@
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
       "label": "Evil as the Mind’s own creation"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and evil are the two sides of the coin and the cut"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
@@ -6778,6 +6855,12 @@
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity obscures: emergence as the act of Mind"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and evil are the two sides of the coin and the cut"
     },
     {
       "from": "the-question-that-installs-the-war",

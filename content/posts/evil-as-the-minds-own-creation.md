@@ -20,7 +20,7 @@ With the reference fixed, the range of acts the center can authorize expands. Un
 
 Those expanded acts remain this center’s. Registered from any locus where the assumed image does not match the actual orientation of the other, they arrive as larger external mismatch. The willingness to escalate and the potential for reciprocal appearance are the same lag operating: each side’s preserved image of its own necessity authors the contrasting pole in the field, then meets the residue of the other’s corresponding move as confirmation. The loop requires no independent evil-substance. It is Image lag at each locus, mutually reinforcing where traces collide.
 
-[The question that installs the war](../the-question-that-installs-the-war/) is the public speech-act form of the same install: pure difference plus a forced hostility scoreboard. Here the scoreboard is good versus evil, installed by the retained self-image before any particular act is examined on its own axes.
+[The question that installs the war](../the-question-that-installs-the-war/) is the public speech-act form of the same install: pure difference plus a forced hostility scoreboard. Here the scoreboard is good versus evil, installed by the retained self-image before any particular act is examined on its own axes. [Good and evil are the two sides of the coin and the cut](../good-and-evil-are-the-two-sides-of-the-coin-and-the-cut/) is the same dual as residue of the forgotten separation that first makes the poles available — faces of one cut, not independent substances locked in struggle.
 
 ## The generative origin is prior to the act
 
