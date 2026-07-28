@@ -3,28 +3,28 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-28T06:08:41.420Z",
+    "generated_at": "2026-07-28T06:53:07.847Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
-      "content/posts/a-creation-cannot-replace-its-source.md": "1a56045b2ad4",
+      "content/posts/a-creation-cannot-replace-its-source.md": "de0c30475c66",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "3f6b2a9d7258",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "ba1ab8e4c45e",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/causality-all-the-way.md": "79434a4e386e",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "6919c6254edb",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "abf062a4d24e",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "19959ca80788",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "56a0bacb25af",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "7c6fad8c19c7",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ae1e874dfdf6",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "4b0a1c9e0af3",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
@@ -56,7 +56,7 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "3463a3643ec7",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "32b5b9433b80",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "c172a91da386",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/looping-and-graphing.md": "91731e982a9f",
@@ -65,11 +65,11 @@
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "57b35fd3d9ce",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "23dd8f9a05d2",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "e944535fb362",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
-      "content/posts/no-system-can-be-kept-closed.md": "04f05a4a420c",
+      "content/posts/no-system-can-be-kept-closed.md": "082dda84cc15",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
@@ -108,7 +108,7 @@
       "content/posts/the-coordinators-category-error.md": "077dd554bf40",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
-      "content/posts/the-fixed-image-of-transcendence.md": "44de1ef58c8c",
+      "content/posts/the-fixed-image-of-transcendence.md": "2a7584cef1c9",
       "content/posts/the-flywheel-of-the-mind.md": "c37210784477",
       "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
@@ -118,11 +118,12 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "690dcf27c15b",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "c1b6db6e54ba",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "1885d5293e22",
       "content/posts/the-npc-impression-is-structural.md": "38727198369a",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "125b5e29766b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "4800a34f2896",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "cdad3d254542",
       "content/posts/the-question-that-installs-the-war.md": "d9a82f7ea15f",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
@@ -142,7 +143,7 @@
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "e859c0e48fd3",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "27c1b012d261",
-      "content/posts/two-failures-of-trace.md": "7ebc0ffdc667",
+      "content/posts/two-failures-of-trace.md": "fed5266305d0",
       "content/posts/what-always-listens-cannot-originate.md": "3e91cad302f9",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "bd75f9c8bc49",
@@ -158,30 +159,30 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 148,
-      "edges": 793,
-      "unique_directed": 783,
+      "posts": 149,
+      "edges": 819,
+      "unique_directed": 809,
       "missing_targets": 0,
-      "one_way": 327,
+      "one_way": 333,
       "isolated": 38,
-      "posts_with_outbound": 85
+      "posts_with_outbound": 86
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 31
+      "in_degree": 32
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 25
-    },
-    {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 23
+      "in_degree": 26
     },
     {
       "slug": "no-system-can-be-kept-closed",
+      "in_degree": 24
+    },
+    {
+      "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 23
     },
     {
@@ -197,16 +198,20 @@
       "in_degree": 20
     },
     {
+      "slug": "self-rl-for-humans",
+      "in_degree": 19
+    },
+    {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "in_degree": 18
+    },
+    {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "in_degree": 18
     },
     {
-      "slug": "self-rl-for-humans",
-      "in_degree": 18
-    },
-    {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 17
+      "slug": "two-failures-of-trace",
+      "in_degree": 15
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -217,8 +222,8 @@
       "in_degree": 14
     },
     {
-      "slug": "two-failures-of-trace",
-      "in_degree": 14
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 13
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -229,23 +234,19 @@
       "in_degree": 13
     },
     {
+      "slug": "causality-stays-at-the-edge-that-steers",
+      "in_degree": 12
+    },
+    {
+      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
+      "in_degree": 12
+    },
+    {
       "slug": "expertise-as-reference-not-replacement",
       "in_degree": 12
     },
     {
       "slug": "hierarchy-from-individual-difference",
-      "in_degree": 12
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 12
-    },
-    {
-      "slug": "preference-clusters-and-the-language-of-judgment",
-      "in_degree": 12
-    },
-    {
-      "slug": "the-scaffolding-that-keeps-growing",
       "in_degree": 12
     }
   ],
@@ -256,7 +257,7 @@
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "out_degree": 18
+      "out_degree": 19
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -264,6 +265,14 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
+      "out_degree": 17
+    },
+    {
+      "slug": "the-model-never-becomes-a-second-edge",
+      "out_degree": 17
+    },
+    {
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "out_degree": 16
     },
     {
@@ -271,7 +280,7 @@
       "out_degree": 16
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "out_degree": 16
     },
     {
@@ -279,11 +288,11 @@
       "out_degree": 16
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
+      "slug": "the-reality-distortion-field-names-the-closed-map",
       "out_degree": 15
     },
     {
-      "slug": "the-reality-distortion-field-names-the-closed-map",
+      "slug": "two-failures-of-trace",
       "out_degree": 15
     },
     {
@@ -296,10 +305,6 @@
     },
     {
       "slug": "the-source-of-shared-change",
-      "out_degree": 14
-    },
-    {
-      "slug": "two-failures-of-trace",
       "out_degree": 14
     },
     {
@@ -324,10 +329,6 @@
     },
     {
       "slug": "reality-is-the-minds-ongoing-realization",
-      "out_degree": 13
-    },
-    {
-      "slug": "the-meaning-of-life-is-in-the-drafting",
       "out_degree": 13
     }
   ],
@@ -379,9 +380,9 @@
       "slug": "a-creation-cannot-replace-its-source",
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
-      "hash": "1a56045b2ad4",
-      "in_degree": 7,
-      "out_degree": 11,
+      "hash": "de0c30475c66",
+      "in_degree": 8,
+      "out_degree": 12,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -393,7 +394,8 @@
         "ai-as-augmentation",
         "amplification-paradox",
         "the-allocation-of-causal-power-in-validation",
-        "the-flywheel-of-the-mind"
+        "the-flywheel-of-the-mind",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -442,9 +444,9 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
-      "hash": "3f6b2a9d7258",
-      "in_degree": 10,
-      "out_degree": 11,
+      "hash": "ba1ab8e4c45e",
+      "in_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -456,7 +458,8 @@
         "open-vision-in-a-closed-arena",
         "the-risk-is-the-belief-in-oversight-itself",
         "the-scaffolding-that-keeps-growing",
-        "the-fixed-image-of-transcendence"
+        "the-fixed-image-of-transcendence",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -557,9 +560,9 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
-      "hash": "6919c6254edb",
-      "in_degree": 11,
-      "out_degree": 10,
+      "hash": "abf062a4d24e",
+      "in_degree": 12,
+      "out_degree": 11,
       "links_out": [
         "what-always-listens-cannot-originate",
         "intelligence-belongs-only-to-the-mind",
@@ -570,7 +573,8 @@
         "the-allocation-of-causal-power-in-validation",
         "the-model-never-becomes-a-second-edge",
         "complexity-obscures-emergence-as-the-act-of-mind",
-        "the-ramble-within-the-ramble"
+        "the-ramble-within-the-ramble",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -631,9 +635,9 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
-      "hash": "56a0bacb25af",
-      "in_degree": 17,
-      "out_degree": 18,
+      "hash": "7c6fad8c19c7",
+      "in_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "you-cant-benchmark-the-fluid",
         "agi-and-asi-are-temporary-goalposts",
@@ -652,7 +656,8 @@
         "mistaking-the-expression-for-the-intelligence",
         "expertise-as-reference-not-replacement",
         "ontos-is-a-method-agent",
-        "the-risk-is-the-belief-in-oversight-itself"
+        "the-risk-is-the-belief-in-oversight-itself",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -687,7 +692,7 @@
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "Complexity Obscures: Emergence as the Act of Mind",
       "hash": "4b0a1c9e0af3",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 4,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1124,14 +1129,15 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "32b5b9433b80",
-      "in_degree": 31,
-      "out_degree": 4,
+      "hash": "c172a91da386",
+      "in_degree": 32,
+      "out_degree": 5,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
         "ontos-is-a-method-agent",
         "mistaking-the-expression-for-the-intelligence",
-        "the-strongest-belief-of-the-mind"
+        "the-strongest-belief-of-the-mind",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -1261,9 +1267,9 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
-      "hash": "23dd8f9a05d2",
-      "in_degree": 12,
-      "out_degree": 15,
+      "hash": "e944535fb362",
+      "in_degree": 13,
+      "out_degree": 16,
       "links_out": [
         "two-failures-of-trace",
         "the-non-definitive-definition-of-intelligence",
@@ -1279,7 +1285,8 @@
         "the-flywheel-of-the-mind",
         "expertise-as-reference-not-replacement",
         "ontos-is-a-method-agent",
-        "the-risk-is-the-belief-in-oversight-itself"
+        "the-risk-is-the-belief-in-oversight-itself",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -1321,9 +1328,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "04f05a4a420c",
-      "in_degree": 23,
-      "out_degree": 16,
+      "hash": "082dda84cc15",
+      "in_degree": 24,
+      "out_degree": 17,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1340,7 +1347,8 @@
         "only-if-it-is-not-kept-empty",
         "the-climate-problem-registers-only-as-perception",
         "the-strongest-belief-of-the-mind",
-        "the-scaffolding-that-keeps-growing"
+        "the-scaffolding-that-keeps-growing",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -1486,7 +1494,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "75a41e99c3c3",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1769,7 +1777,7 @@
       "path": "content/posts/self-rl-for-humans.md",
       "title": "What Looks Like RL for AIs Is Self-RL for Humans",
       "hash": "0af62aecf5bc",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 0,
       "links_out": []
     },
@@ -2029,9 +2037,9 @@
       "slug": "the-fixed-image-of-transcendence",
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "The Fixed Image of Transcendence",
-      "hash": "44de1ef58c8c",
-      "in_degree": 5,
-      "out_degree": 12,
+      "hash": "2a7584cef1c9",
+      "in_degree": 6,
+      "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "agi-and-asi-are-temporary-goalposts",
@@ -2044,7 +2052,8 @@
         "closed-reality-in-benchmark-maxing",
         "no-system-can-be-kept-closed",
         "performative-hindsight-that-pretends-to-be-foresight",
-        "evil-as-the-minds-own-creation"
+        "evil-as-the-minds-own-creation",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -2174,9 +2183,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "690dcf27c15b",
-      "in_degree": 11,
-      "out_degree": 16,
+      "hash": "c1b6db6e54ba",
+      "in_degree": 12,
+      "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -2193,7 +2202,8 @@
         "escaping-the-sandbox-stays-inside-the-hold",
         "mistaking-the-expression-for-the-intelligence",
         "ontos-is-a-method-agent",
-        "the-fixed-image-of-transcendence"
+        "the-fixed-image-of-transcendence",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -2203,7 +2213,7 @@
       "path": "content/posts/the-non-definitive-definition-of-intelligence.md",
       "title": "The Non-Definitive Definition of Intelligence",
       "hash": "1885d5293e22",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 8,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -2277,6 +2287,34 @@
         "the-climate-problem-registers-only-as-perception",
         "the-scaffolding-that-keeps-growing",
         "the-source-of-shared-change"
+      ]
+    },
+    {
+      "id": "post:the-presumption-of-agi-and-the-view-from-outside",
+      "kind": "post",
+      "slug": "the-presumption-of-agi-and-the-view-from-outside",
+      "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
+      "title": "The Presumption of AGI and the View from Outside",
+      "hash": "cdad3d254542",
+      "in_degree": 10,
+      "out_degree": 16,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "mistaking-the-expression-for-the-intelligence",
+        "closed-reality-in-benchmark-maxing",
+        "the-non-definitive-definition-of-intelligence",
+        "openness-is-consistency",
+        "no-system-can-be-kept-closed",
+        "why-mathematics-can-never-be-solved",
+        "the-model-never-becomes-a-second-edge",
+        "two-failures-of-trace",
+        "what-always-listens-cannot-originate",
+        "causality-stays-at-the-edge-that-steers",
+        "self-rl-for-humans",
+        "agi-and-asi-are-temporary-goalposts",
+        "a-creation-cannot-replace-its-source",
+        "the-fixed-image-of-transcendence",
+        "complexity-obscures-emergence-as-the-act-of-mind"
       ]
     },
     {
@@ -2607,9 +2645,9 @@
       "slug": "two-failures-of-trace",
       "path": "content/posts/two-failures-of-trace.md",
       "title": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
-      "hash": "7ebc0ffdc667",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "fed5266305d0",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "token-efficiency-emulation-and-the-unclosable-gap",
@@ -2624,7 +2662,8 @@
         "the-paradoxical-nature-of-bystander-insights",
         "when-observation-becomes-performance",
         "writing-without-the-image",
-        "the-source-of-shared-change"
+        "the-source-of-shared-change",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -2634,7 +2673,7 @@
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "What Always Listens Cannot Originate",
       "hash": "3e91cad302f9",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2804,7 +2843,7 @@
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "Why Mathematics Can Never Be Solved",
       "hash": "b9cdc4ec4a5e",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 14,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -2938,6 +2977,12 @@
       "label": "The flywheel of the Mind"
     },
     {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
+    },
+    {
       "from": "a-living-external-cortex",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -3044,6 +3089,12 @@
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
       "label": "The fixed image of transcendence"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
     },
     {
       "from": "amplification-paradox",
@@ -3244,6 +3295,12 @@
       "label": "The ramble within the ramble"
     },
     {
+      "from": "causality-stays-at-the-edge-that-steers",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
+    },
+    {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
@@ -3392,6 +3449,12 @@
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
       "label": "The risk is the belief in oversight itself"
+    },
+    {
+      "from": "closed-reality-in-benchmark-maxing",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
@@ -4072,6 +4135,12 @@
       "label": "The strongest belief of the Mind"
     },
     {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
+    },
+    {
       "from": "looping-and-graphing",
       "to": "self-rl-for-humans",
       "rel": "points_to",
@@ -4336,6 +4405,12 @@
       "label": "The risk is the belief in oversight itself"
     },
     {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
+    },
+    {
       "from": "no-system-can-be-kept-closed",
       "to": "openness-is-consistency",
       "rel": "points_to",
@@ -4430,6 +4505,12 @@
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -5782,6 +5863,12 @@
       "label": "Evil as the Mind’s own creation"
     },
     {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
+    },
+    {
       "from": "the-flywheel-of-the-mind",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -5992,6 +6079,12 @@
       "label": "The fixed image of transcendence"
     },
     {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
+    },
+    {
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
@@ -6200,6 +6293,102 @@
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The source of shared change"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed reality in benchmark maxing"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "The non-definitive definition of intelligence"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why mathematics can never be solved"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What always listens cannot originate"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "Self-RL for humans"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A creation cannot replace its source"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The fixed image of transcendence"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity obscures: emergence as the act of Mind"
     },
     {
       "from": "the-question-that-installs-the-war",
@@ -7100,6 +7289,12 @@
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The source of shared change"
+    },
+    {
+      "from": "two-failures-of-trace",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
     },
     {
       "from": "what-always-listens-cannot-originate",

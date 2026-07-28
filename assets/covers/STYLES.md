@@ -103,6 +103,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Camera lucida / brass prism drawing still** | Cream writing desk, brass camera lucida over open notebook, abstract ink trail without portrait or legible text, optical glass reflecting only paper, museum raking light, craft grain | `writing-without-the-image` |
 | **Marine pilot chart / sailing-directions still** | Cream linen desk, open abstract current chart without legible text, amber wake-line continuing past torn edge into empty paper, brass dividers and pocket compass as instruments only, cool museum side light | `expertise-as-reference-not-replacement` |
 | **Iron-filing magnetograph / scientific plate** | Warm cream rag paper, fine black iron filings in dense aligned field-line clusters, one off-axis misaligned cluster, archival grain, museum side light, no text | `preference-clusters-and-the-language-of-judgment` |
+| **Glass-dome museum terrestrial model still** | Cream pedestal, sealed glass dome over hyper-detailed miniature Earth, worn walking path continuing past the case on polished floor, cool museum side light, documentary grain | `the-presumption-of-agi-and-the-view-from-outside` |
 
 ## Inventory (by slug)
 
@@ -162,6 +163,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-non-definitive-definition-of-intelligence` | Cyanotype |
 | `the-npc-impression-is-structural` | Sgraffito plaster / scraped fresco |
 | `the-path-drawn-one-step-at-a-time` | Cinematic dual-path |
+| `the-presumption-of-agi-and-the-view-from-outside` | Glass-dome museum terrestrial model still |
 | `the-question-that-installs-the-war` | Surreal desert allegory |
 | `the-reality-distortion-field-names-the-closed-map` | Drypoint cartographic plate |
 | `the-risk-is-the-belief-in-oversight-itself` | Security-print guilloche engraving |
