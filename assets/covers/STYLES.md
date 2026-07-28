@@ -105,6 +105,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Iron-filing magnetograph / scientific plate** | Warm cream rag paper, fine black iron filings in dense aligned field-line clusters, one off-axis misaligned cluster, archival grain, museum side light, no text | `preference-clusters-and-the-language-of-judgment` |
 | **Glass-dome museum terrestrial model still** | Cream pedestal, sealed glass dome over hyper-detailed miniature Earth, worn walking path continuing past the case on polished floor, cool museum side light, documentary grain | `the-presumption-of-agi-and-the-view-from-outside` |
 | **Brass iris diaphragm still** | Precision brass camera aperture on dark velvet, blades mostly closed with a thin light cone through a partial opening, cool studio craft light, documentary metal grain | `advocating-openness-of-others-is-a-desire-for-closure-of-the-self` |
+| **Egg tempera / gesso panel still** | Cream gesso wood panel, matte mineral egg-tempera pigments, fine craquelure; nested open doorways through successive rooms, rearranged furniture in the near hold, clearer empty light beyond | `how-belief-actually-changes` |
 
 ## Inventory (by slug)
 
@@ -131,6 +132,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
 | `having-more-is-never-the-cause` | Scratchboard / white-line scraperboard |
 | `hierarchy-from-individual-difference` | Quipu / knotted-cord still life |
+| `how-belief-actually-changes` | Egg tempera / gesso panel still |
 | `humans-tokens-and-the-scope-of-valuation` | Oil split composition |
 | `individual-choices-as-the-only-causal-levers` | Soft clay / stop-motion puppet still |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |

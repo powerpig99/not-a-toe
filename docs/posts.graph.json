@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-28T07:29:47.088Z",
+    "generated_at": "2026-07-28T08:53:08.659Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -19,7 +19,7 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/causality-all-the-way.md": "79434a4e386e",
+      "content/posts/causality-all-the-way.md": "fc3950d8ebcd",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "abf062a4d24e",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "19959ca80788",
@@ -40,7 +40,7 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "2245b42e51f2",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
-      "content/posts/evil-as-the-minds-own-creation.md": "c30f02a2bd57",
+      "content/posts/evil-as-the-minds-own-creation.md": "9479449b7776",
       "content/posts/expertise-as-reference-not-replacement.md": "22a4549fe3d7",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
@@ -53,10 +53,11 @@
       "content/posts/having-more-is-never-the-cause.md": "c718df04e2a0",
       "content/posts/help-is-half-the-problem.md": "ab76bdb2d800",
       "content/posts/hierarchy-from-individual-difference.md": "7b58c4ad0fe1",
+      "content/posts/how-belief-actually-changes.md": "bffa547050be",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "3463a3643ec7",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "788519671366",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "12e4a15aeeb2",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -78,7 +79,7 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "0e830287ad49",
       "content/posts/ontos-is-a-method-agent.md": "864d542c7296",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "38aef85a8d88",
+      "content/posts/openness-is-consistency.md": "7f572601a265",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "00093354ee49",
       "content/posts/perception-perspective-refined.md": "726559169efb",
@@ -89,7 +90,7 @@
       "content/posts/production-consumption-and-the-minds-distinction.md": "11076691e07e",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
-      "content/posts/reality-is-the-minds-ongoing-realization.md": "b6b6046d2672",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "294eb43341b7",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "e695779caec2",
       "content/posts/restriction-is-a-selective-tax.md": "8bcfeb0c7ebe",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
@@ -101,7 +102,7 @@
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "aefccbe5db3d",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "60f848d4076f",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "84068e4e8f93",
       "content/posts/the-brain-does-not-backprop.md": "1d1eea26006d",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "93350a2b9274",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
@@ -123,7 +124,7 @@
       "content/posts/the-non-definitive-definition-of-intelligence.md": "1885d5293e22",
       "content/posts/the-npc-impression-is-structural.md": "38727198369a",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "125b5e29766b",
-      "content/posts/the-path-drawn-one-step-at-a-time.md": "4800a34f2896",
+      "content/posts/the-path-drawn-one-step-at-a-time.md": "02969233f4f4",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "cdad3d254542",
       "content/posts/the-question-that-installs-the-war.md": "d9a82f7ea15f",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
@@ -134,9 +135,9 @@
       "content/posts/the-scaffolding-that-keeps-growing.md": "09624418241e",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "663e9819b021",
       "content/posts/the-scaffolding-we-forget.md": "95238f61188d",
-      "content/posts/the-source-of-shared-change.md": "8e9552f17820",
+      "content/posts/the-source-of-shared-change.md": "44caac7599b9",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
-      "content/posts/the-strongest-belief-of-the-mind.md": "655a26077ca5",
+      "content/posts/the-strongest-belief-of-the-mind.md": "1b615dfabf24",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the_analogy_trap.md": "97a10a756773",
@@ -152,21 +153,21 @@
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "2d5ae672adc8",
       "content/posts/when-observation-becomes-performance.md": "0e24a0d18fe4",
-      "content/posts/when-the-effect-authors-the-frame.md": "5794510885d3",
-      "content/posts/why-explanation-fails.md": "5fe163a22059",
+      "content/posts/when-the-effect-authors-the-frame.md": "62095b25a6ac",
+      "content/posts/why-explanation-fails.md": "b6c6dc19048e",
       "content/posts/why-mathematics-can-never-be-solved.md": "b9cdc4ec4a5e",
       "content/posts/writing-without-the-image.md": "77678ec5448a",
       "content/posts/you-cant-benchmark-the-fluid.md": "730e5564e3a4",
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 150,
-      "edges": 839,
-      "unique_directed": 829,
+      "posts": 151,
+      "edges": 861,
+      "unique_directed": 851,
       "missing_targets": 0,
       "one_way": 333,
       "isolated": 38,
-      "posts_with_outbound": 87
+      "posts_with_outbound": 88
     }
   },
   "hubs_in": [
@@ -176,7 +177,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 27
+      "in_degree": 28
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -188,11 +189,11 @@
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 21
+      "in_degree": 22
     },
     {
       "slug": "the-path-drawn-one-step-at-a-time",
-      "in_degree": 20
+      "in_degree": 21
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -212,6 +213,10 @@
     },
     {
       "slug": "the-source-of-shared-change",
+      "in_degree": 16
+    },
+    {
+      "slug": "individual-choices-as-the-only-causal-levers",
       "in_degree": 15
     },
     {
@@ -219,7 +224,7 @@
       "in_degree": 15
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
+      "slug": "the-strongest-belief-of-the-mind",
       "in_degree": 14
     },
     {
@@ -232,10 +237,6 @@
     },
     {
       "slug": "preference-clusters-and-the-language-of-judgment",
-      "in_degree": 13
-    },
-    {
-      "slug": "the-strongest-belief-of-the-mind",
       "in_degree": 13
     },
     {
@@ -261,12 +262,12 @@
       "out_degree": 19
     },
     {
-      "slug": "no-system-can-be-kept-closed",
+      "slug": "individual-choices-as-the-only-causal-levers",
       "out_degree": 18
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 17
+      "slug": "no-system-can-be-kept-closed",
+      "out_degree": 18
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -289,11 +290,15 @@
       "out_degree": 16
     },
     {
-      "slug": "the-reality-distortion-field-names-the-closed-map",
+      "slug": "the-source-of-shared-change",
+      "out_degree": 16
+    },
+    {
+      "slug": "openness-is-consistency",
       "out_degree": 15
     },
     {
-      "slug": "the-source-of-shared-change",
+      "slug": "the-reality-distortion-field-names-the-closed-map",
       "out_degree": 15
     },
     {
@@ -305,7 +310,7 @@
       "out_degree": 15
     },
     {
-      "slug": "openness-is-consistency",
+      "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 14
     },
     {
@@ -317,20 +322,16 @@
       "out_degree": 14
     },
     {
+      "slug": "the-strongest-belief-of-the-mind",
+      "out_degree": 14
+    },
+    {
       "slug": "what-always-listens-cannot-originate",
       "out_degree": 14
     },
     {
       "slug": "why-mathematics-can-never-be-solved",
       "out_degree": 14
-    },
-    {
-      "slug": "closed-reality-in-the-pursuit-of-serendipity",
-      "out_degree": 13
-    },
-    {
-      "slug": "preference-clusters-and-the-language-of-judgment",
-      "out_degree": 13
     }
   ],
   "missing": [],
@@ -559,15 +560,16 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "79434a4e386e",
-      "in_degree": 8,
-      "out_degree": 12,
+      "hash": "fc3950d8ebcd",
+      "in_degree": 9,
+      "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "performative-hindsight-that-pretends-to-be-foresight",
         "causality-stays-at-the-edge-that-steers",
         "the-allocation-of-causal-power-in-validation",
         "what-works-is-the-belief",
+        "how-belief-actually-changes",
         "price-as-utterance-understanding-as-trade",
         "the-reality-distortion-field-names-the-closed-map",
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -894,9 +896,9 @@
       "slug": "evil-as-the-minds-own-creation",
       "path": "content/posts/evil-as-the-minds-own-creation.md",
       "title": "Evil as the Mind’s Own Creation",
-      "hash": "c30f02a2bd57",
-      "in_degree": 4,
-      "out_degree": 10,
+      "hash": "9479449b7776",
+      "in_degree": 5,
+      "out_degree": 11,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "hierarchy-from-individual-difference",
@@ -906,6 +908,7 @@
         "openness-is-consistency",
         "ownership-and-self-worthiness",
         "clarity-isnt-a-state-you-arrive-at",
+        "how-belief-actually-changes",
         "the-climate-problem-registers-only-as-perception",
         "preference-clusters-and-the-language-of-judgment"
       ]
@@ -1085,6 +1088,29 @@
       ]
     },
     {
+      "id": "post:how-belief-actually-changes",
+      "kind": "post",
+      "slug": "how-belief-actually-changes",
+      "path": "content/posts/how-belief-actually-changes.md",
+      "title": "How Belief Actually Changes",
+      "hash": "bffa547050be",
+      "in_degree": 11,
+      "out_degree": 11,
+      "links_out": [
+        "the-path-drawn-one-step-at-a-time",
+        "the-strongest-belief-of-the-mind",
+        "why-explanation-fails",
+        "the-source-of-shared-change",
+        "causality-all-the-way",
+        "when-the-effect-authors-the-frame",
+        "openness-is-consistency",
+        "evil-as-the-minds-own-creation",
+        "the-allocation-of-causal-power-in-validation",
+        "reality-is-the-minds-ongoing-realization",
+        "individual-choices-as-the-only-causal-levers"
+      ]
+    },
+    {
       "id": "post:huberman-winners-losers",
       "kind": "post",
       "slug": "huberman-winners-losers",
@@ -1123,9 +1149,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "3463a3643ec7",
-      "in_degree": 14,
-      "out_degree": 17,
+      "hash": "788519671366",
+      "in_degree": 15,
+      "out_degree": 18,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1141,6 +1167,7 @@
         "the-coordinators-category-error",
         "hierarchy-from-individual-difference",
         "openness-is-consistency",
+        "how-belief-actually-changes",
         "expertise-as-reference-not-replacement",
         "symptom-and-cause-in-the-narratives-of-progress",
         "preference-clusters-and-the-language-of-judgment"
@@ -1520,9 +1547,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "38aef85a8d88",
-      "in_degree": 27,
-      "out_degree": 14,
+      "hash": "7f572601a265",
+      "in_degree": 28,
+      "out_degree": 15,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -1536,6 +1563,7 @@
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "only-if-it-is-not-kept-empty",
         "the-strongest-belief-of-the-mind",
+        "how-belief-actually-changes",
         "the-climate-problem-registers-only-as-perception",
         "the-scaffolding-that-keeps-growing"
       ]
@@ -1725,9 +1753,9 @@
       "slug": "reality-is-the-minds-ongoing-realization",
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "Reality Is the Mind's Ongoing Realization",
-      "hash": "b6b6046d2672",
-      "in_degree": 9,
-      "out_degree": 13,
+      "hash": "294eb43341b7",
+      "in_degree": 10,
+      "out_degree": 14,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
@@ -1741,7 +1769,8 @@
         "the-scaffolding-that-keeps-growing",
         "the-source-of-shared-change",
         "price-as-utterance-understanding-as-trade",
-        "the-meaning-of-life-is-in-the-drafting"
+        "the-meaning-of-life-is-in-the-drafting",
+        "how-belief-actually-changes"
       ]
     },
     {
@@ -1949,9 +1978,9 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "60f848d4076f",
-      "in_degree": 21,
-      "out_degree": 7,
+      "hash": "84068e4e8f93",
+      "in_degree": 22,
+      "out_degree": 8,
       "links_out": [
         "hierarchy-from-individual-difference",
         "expertise-as-reference-not-replacement",
@@ -1959,7 +1988,8 @@
         "having-more-is-never-the-cause",
         "restriction-is-a-selective-tax",
         "preference-clusters-and-the-language-of-judgment",
-        "the-strongest-belief-of-the-mind"
+        "the-strongest-belief-of-the-mind",
+        "how-belief-actually-changes"
       ]
     },
     {
@@ -2309,15 +2339,16 @@
       "slug": "the-path-drawn-one-step-at-a-time",
       "path": "content/posts/the-path-drawn-one-step-at-a-time.md",
       "title": "The Path Drawn One Step at a Time",
-      "hash": "4800a34f2896",
-      "in_degree": 20,
-      "out_degree": 5,
+      "hash": "02969233f4f4",
+      "in_degree": 21,
+      "out_degree": 6,
       "links_out": [
         "qian-yin-hou-guo",
         "the-strongest-belief-of-the-mind",
         "the-climate-problem-registers-only-as-perception",
         "the-scaffolding-that-keeps-growing",
-        "the-source-of-shared-change"
+        "the-source-of-shared-change",
+        "how-belief-actually-changes"
       ]
     },
     {
@@ -2545,9 +2576,9 @@
       "slug": "the-source-of-shared-change",
       "path": "content/posts/the-source-of-shared-change.md",
       "title": "The Source of Shared Change",
-      "hash": "8e9552f17820",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "44caac7599b9",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -2563,6 +2594,7 @@
         "when-observation-becomes-performance",
         "the-paradoxical-nature-of-bystander-insights",
         "two-failures-of-trace",
+        "how-belief-actually-changes",
         "preference-clusters-and-the-language-of-judgment"
       ]
     },
@@ -2583,9 +2615,9 @@
       "slug": "the-strongest-belief-of-the-mind",
       "path": "content/posts/the-strongest-belief-of-the-mind.md",
       "title": "The Strongest Belief of the Mind",
-      "hash": "655a26077ca5",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "1b615dfabf24",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-scaffolding-we-forget",
@@ -2599,7 +2631,8 @@
         "not-a-theory-of-everything",
         "the-reality-distortion-field-names-the-closed-map",
         "what-works-is-the-belief",
-        "restriction-is-a-selective-tax"
+        "restriction-is-a-selective-tax",
+        "how-belief-actually-changes"
       ]
     },
     {
@@ -2843,9 +2876,9 @@
       "slug": "when-the-effect-authors-the-frame",
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "When the Effect Authors the Frame",
-      "hash": "5794510885d3",
-      "in_degree": 4,
-      "out_degree": 7,
+      "hash": "62095b25a6ac",
+      "in_degree": 5,
+      "out_degree": 8,
       "links_out": [
         "emotional-support-as-causal-interference",
         "when-need-stops-being-the-measure",
@@ -2853,6 +2886,7 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "the-compassion-is-the-mechanism-of-obscuration",
         "therapy-opens-the-feedback-loop",
+        "how-belief-actually-changes",
         "symptom-and-cause-in-the-narratives-of-progress"
       ]
     },
@@ -2862,11 +2896,12 @@
       "slug": "why-explanation-fails",
       "path": "content/posts/why-explanation-fails.md",
       "title": "Why Explanation Fails",
-      "hash": "5fe163a22059",
-      "in_degree": 2,
-      "out_degree": 1,
+      "hash": "b6c6dc19048e",
+      "in_degree": 3,
+      "out_degree": 2,
       "links_out": [
-        "reality-is-the-minds-ongoing-realization"
+        "reality-is-the-minds-ongoing-realization",
+        "how-belief-actually-changes"
       ]
     },
     {
@@ -3284,6 +3319,12 @@
       "to": "what-works-is-the-belief",
       "rel": "points_to",
       "label": "What works is the belief"
+    },
+    {
+      "from": "causality-all-the-way",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
     },
     {
       "from": "causality-all-the-way",
@@ -3869,6 +3910,12 @@
     },
     {
       "from": "evil-as-the-minds-own-creation",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
       "label": "The climate problem registers only as perception"
@@ -4102,6 +4149,72 @@
       "label": "Preference clusters and the language of judgment"
     },
     {
+      "from": "how-belief-actually-changes",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The path drawn one step at a time"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The strongest belief of the Mind"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "why-explanation-fails",
+      "rel": "points_to",
+      "label": "Why explanation fails"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The source of shared change"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the effect authors the frame"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind’s own creation"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind’s ongoing realization"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "causality-all-the-way",
       "rel": "points_to",
@@ -4184,6 +4297,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -5063,6 +5182,12 @@
     },
     {
       "from": "openness-is-consistency",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
+    },
+    {
+      "from": "openness-is-consistency",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
       "label": "The climate problem registers only as perception"
@@ -5530,6 +5655,12 @@
       "label": "The meaning of life is in the drafting"
     },
     {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
+    },
+    {
       "from": "restriction-is-a-selective-tax",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
@@ -5804,6 +5935,12 @@
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
       "label": "The strongest belief of the Mind"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
@@ -6434,6 +6571,12 @@
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The source of shared change"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -7121,6 +7264,12 @@
     },
     {
       "from": "the-source-of-shared-change",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
+    },
+    {
+      "from": "the-source-of-shared-change",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
       "label": "Preference clusters and the language of judgment"
@@ -7214,6 +7363,12 @@
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
       "label": "Restriction is a selective tax"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
     },
     {
       "from": "the-surface-beneath",
@@ -7823,6 +7978,12 @@
     },
     {
       "from": "when-the-effect-authors-the-frame",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and cause in the narratives of progress"
@@ -7832,6 +7993,12 @@
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "Reality is the Mind's ongoing realization"
+    },
+    {
+      "from": "why-explanation-fails",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
     },
     {
       "from": "why-mathematics-can-never-be-solved",
