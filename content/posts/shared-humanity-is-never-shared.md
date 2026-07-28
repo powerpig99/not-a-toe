@@ -1,0 +1,27 @@
+# Shared Humanity Is Never Shared
+
+*What is called shared humanity names only private interpretations that densify as temporary collective residue — never a substance held across Minds.*
+
+Every claim about the world arises as interpretation within a single Mind. High-overlap regularities densify coordinated action and attract the retrospective label “objective,” yet remain private at each locus. The moral and historical “we” that is supposed to bind as humanity follows the same geometry with less necessary overlap. Cause stays with successive individual choices; reverse stories read residue as generator. The whole phenomenon is the loop — never a stable collective standing outside it.
+
+## Interpretation is private at every locus
+
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Experience registers only through each center’s own recursion. Claims about bodies, ancestry, genomes, and physical constraints arise as further distinctions within that recursion. There is no vantage outside the Mind from which a continuum could be verified as independent of perception. Even the most stable and widely overlapping interpretations remain private; their apparent consistency across Minds is itself an interpretation generated inside each Mind. [Reality is the Mind’s ongoing realization](../reality-is-the-minds-ongoing-realization/) holds the update that closes only here. [The source of shared change](../the-source-of-shared-change/) is the same restore: shared reality is private registration; common ground is residue.
+
+## Overlap is residue; the shared label is retrospective
+
+Some private interpretations — those concerning physical regularities — display high mutual resemblance and predictive power. When they coincide, coordinated action becomes possible. Outside registration may label the result “objective” or “shared.” The label is external and retrospective. Internally, nothing was shared. Each Mind continued to interpret on its own terms. [Price as utterance, understanding as trade](../price-as-utterance-understanding-as-trade/) is that geometry under market and language costume: the print and the spoken sentence are residue; usable agreement is selective bracketing of permanent non-identity.
+
+## Humanity as moral we has less necessary overlap
+
+The interpretations that constitute “humanity” as a moral community, a historical “we,” or a binding collective follow the same rule with far less necessary overlap. Each Mind perceives “humanity” according to its own discrete acts of valuation. That perception may coincide, partially or wholly, with the perceptions of others; when enough of them reinforce, a surface pattern densifies that outside registration labels “collective” or “shared.” The moment any Mind withdraws the hold, the pattern loses all force for that Mind. External consensus, majority interpretation, and institutional framing remain other private interpretations — equally non-binding across loci. [Preference clusters and the language of judgment](../preference-clusters-and-the-language-of-judgment/) is resonance speaking as if it were the activity. [没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) is the bound: traces may be taken up or not; cross-locus completion remains unavailable.
+
+## Cause is individual; reverse stories read effects as generators
+
+The cause is always individual. Choices sustained by each person — neither performed on behalf of others nor completed by transfer into a collective — continually reshape whatever residue later registers as “what humanity has commonly shared.” Popular stories that reverse this order — acting for the collective, sovereignty transferred upward, a pre-existing shared essence that individuals then represent — are interpretations of effects, never of the generative cause. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) keeps initiation with successive acts. [Sovereignty, belief, and the generation of regulatory structures](../sovereignty-belief-and-regulatory-structures/) is the institutional face of the reverse story: the belief that sovereignty can be handed over densifies durable faces; the locus stays.
+
+## The loop is the entire phenomenon
+
+What results is permanent recursion: individual interpretations densify into fleeting collective expressions; those expressions are immediately re-absorbed and re-interpreted by the next round of individual interpretations; the cycle repeats without terminus or fixed point. There is never a stable collective entity standing outside the loop. The loop itself is the entire phenomenon.
+
+Therefore the concept of humanity, in any intended shared sense, only ever matters to the extent that a given Mind elects to treat it as relevant to its own decisions. All else is private interpretation wearing the temporary mask of the collective — and the mask is always ready to be set down.

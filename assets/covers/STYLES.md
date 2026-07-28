@@ -106,6 +106,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Glass-dome museum terrestrial model still** | Cream pedestal, sealed glass dome over hyper-detailed miniature Earth, worn walking path continuing past the case on polished floor, cool museum side light, documentary grain | `the-presumption-of-agi-and-the-view-from-outside` |
 | **Brass iris diaphragm still** | Precision brass camera aperture on dark velvet, blades mostly closed with a thin light cone through a partial opening, cool studio craft light, documentary metal grain | `advocating-openness-of-others-is-a-desire-for-closure-of-the-self` |
 | **Egg tempera / gesso panel still** | Cream gesso wood panel, matte mineral egg-tempera pigments, fine craquelure; nested open doorways through successive rooms, rearranged furniture in the near hold, clearer empty light beyond | `how-belief-actually-changes` |
+| **Phenakistoscope / stopped zoetrope still** | Cream linen table, Victorian spinning disk stopped so discrete painted panels read as separate private frames, viewing slit-card aside, soft museum raking light, craft wood grain | `shared-humanity-is-never-shared` |
 
 ## Inventory (by slug)
 
@@ -152,6 +153,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `reality-is-the-minds-ongoing-realization` | Comic halftone / Ben-Day dots |
 | `restriction-is-a-selective-tax` | Bokashi woodblock / graded indigo print |
 | `self-rl-for-humans` | Dark chalk / light trails |
+| `shared-humanity-is-never-shared` | Phenakistoscope / stopped zoetrope still |
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
 | `symptom-and-cause-in-the-narratives-of-progress` | Chart-recorder / oscillograph strip |
 | `sympathy-is-a-placeholder-for-lack-of-clarity` | Fresco strappo / detached mural fragment |
