@@ -108,6 +108,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Egg tempera / gesso panel still** | Cream gesso wood panel, matte mineral egg-tempera pigments, fine craquelure; nested open doorways through successive rooms, rearranged furniture in the near hold, clearer empty light beyond | `how-belief-actually-changes` |
 | **Phenakistoscope / stopped zoetrope still** | Cream linen table, Victorian spinning disk stopped so discrete painted panels read as separate private frames, viewing slit-card aside, soft museum raking light, craft wood grain | `shared-humanity-is-never-shared` |
 | **Coining-die pair / mint-die still** | Cream linen mint bench, matched antique coining dies face-to-face with empty gap between, no coin present, cool raking craft light, brass–steel grain | `good-and-evil-are-the-two-sides-of-the-coin-and-the-cut` |
+| **Sealing-wax / official seal still** | Cream linen desk, antique sealing wax and blank-faced metal seal matrix, sealed document vs open unmarked sheet continuing past the frame, cool raking craft light, wax gloss and paper tooth | `empowerment-establishes-the-centralization-of-power` |
 
 ## Inventory (by slug)
 
@@ -127,6 +128,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `complexity-obscures-emergence-as-the-act-of-mind` | Copperplate engraving |
 | `curiosity-first-the-hidden-engine-of-talent-and-development` | Dendrochronology / polished tree-ring section |
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
+| `empowerment-establishes-the-centralization-of-power` | Sealing-wax / official seal still |
 | `escaping-the-sandbox-stays-inside-the-hold` | Persian miniature illumination |
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |
 | `expertise-as-reference-not-replacement` | Marine pilot chart / sailing-directions still |
