@@ -36,6 +36,6 @@ Armstrong’s software-industry comparison is exact on its own register: harm th
 
 ## Expression, not transfer
 
-Sovereignty remains with the individual. It is expressed in the continuous act of choosing delegations of choice and of receiving the consequences of those choices as own. Structures that form when many centers jointly treat sovereignty as delegable are real as residue. They do not complete the transfer the belief describes.
+Sovereignty remains with the individual. It is expressed in the continuous act of choosing delegations of choice and of receiving the consequences of those choices as own. Structures that form when many centers jointly treat sovereignty as delegable are real as residue. They do not complete the transfer the belief describes. [Advocating openness of others is a desire for closure of the self](../advocating-openness-of-others-is-a-desire-for-closure-of-the-self/) is sovereignty and privacy as the moral dressing that makes the inward close desirable — same selective bound, elevated into right; neither dissolves the bound that makes a distinct locus possible.
 
 The origin of the regulatory proposal under discussion is that belief, collectively expressed. The institutional forms that follow—SRO, government regulator, dual gate—are what that expression leaves when it hardens. Seeing the sequence does not convert into a prescription for which residue to keep or discard. The seeing is the indication of origin. What follows from it is further discrete act at each locus that encounters it.

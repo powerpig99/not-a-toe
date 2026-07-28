@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-28T06:53:07.847Z",
+    "generated_at": "2026-07-28T07:29:47.088Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -12,6 +12,7 @@
       "content/posts/a-creation-cannot-replace-its-source.md": "de0c30475c66",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
+      "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "c948c0a4e8d6",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "ba1ab8e4c45e",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
@@ -56,47 +57,47 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "3463a3643ec7",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "c172a91da386",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "12e4a15aeeb2",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/looping-and-graphing.md": "91731e982a9f",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "7386717ff3a3",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "57b35fd3d9ce",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "d61786420a9b",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "e944535fb362",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
-      "content/posts/no-system-can-be-kept-closed.md": "082dda84cc15",
+      "content/posts/no-system-can-be-kept-closed.md": "1460e8122d40",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
       "content/posts/on-education.md": "d62f17d7f550",
       "content/posts/only-if-it-is-not-kept-empty.md": "0e830287ad49",
       "content/posts/ontos-is-a-method-agent.md": "864d542c7296",
-      "content/posts/open-vision-in-a-closed-arena.md": "2b2586518d89",
-      "content/posts/openness-is-consistency.md": "75a41e99c3c3",
+      "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
+      "content/posts/openness-is-consistency.md": "38aef85a8d88",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "00093354ee49",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "f54d04212765",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/preference-clusters-and-the-language-of-judgment.md": "9e8ce57211fb",
+      "content/posts/preference-clusters-and-the-language-of-judgment.md": "8a78a719a494",
       "content/posts/price-as-utterance-understanding-as-trade.md": "0c831fcc46a3",
       "content/posts/production-consumption-and-the-minds-distinction.md": "11076691e07e",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "b6b6046d2672",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "e695779caec2",
-      "content/posts/restriction-is-a-selective-tax.md": "9f7dd8f8e63e",
+      "content/posts/restriction-is-a-selective-tax.md": "8bcfeb0c7ebe",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/self-rl-for-humans.md": "0af62aecf5bc",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "a7204f01ec45",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "f8fa7d4a5b14",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "aefccbe5db3d",
@@ -133,7 +134,7 @@
       "content/posts/the-scaffolding-that-keeps-growing.md": "09624418241e",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "663e9819b021",
       "content/posts/the-scaffolding-we-forget.md": "95238f61188d",
-      "content/posts/the-source-of-shared-change.md": "6399d394027c",
+      "content/posts/the-source-of-shared-change.md": "8e9552f17820",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "655a26077ca5",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
@@ -146,7 +147,7 @@
       "content/posts/two-failures-of-trace.md": "fed5266305d0",
       "content/posts/what-always-listens-cannot-originate.md": "3e91cad302f9",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
-      "content/posts/what-works-is-the-belief.md": "bd75f9c8bc49",
+      "content/posts/what-works-is-the-belief.md": "3e76ee614faa",
       "content/posts/whatever-is-one-prompt-away.md": "430830ef2fd6",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "2d5ae672adc8",
@@ -159,27 +160,27 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 149,
-      "edges": 819,
-      "unique_directed": 809,
+      "posts": 150,
+      "edges": 839,
+      "unique_directed": 829,
       "missing_targets": 0,
       "one_way": 333,
       "isolated": 38,
-      "posts_with_outbound": 86
+      "posts_with_outbound": 87
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 32
+      "in_degree": 33
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 26
+      "in_degree": 27
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 24
+      "in_degree": 25
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -198,6 +199,10 @@
       "in_degree": 20
     },
     {
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
+      "in_degree": 19
+    },
+    {
       "slug": "self-rl-for-humans",
       "in_degree": 19
     },
@@ -206,8 +211,8 @@
       "in_degree": 18
     },
     {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 18
+      "slug": "the-source-of-shared-change",
+      "in_degree": 15
     },
     {
       "slug": "two-failures-of-trace",
@@ -218,15 +223,15 @@
       "in_degree": 14
     },
     {
-      "slug": "the-source-of-shared-change",
-      "in_degree": 14
-    },
-    {
       "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 13
     },
     {
       "slug": "ownership-and-self-worthiness",
+      "in_degree": 13
+    },
+    {
+      "slug": "preference-clusters-and-the-language-of-judgment",
       "in_degree": 13
     },
     {
@@ -244,10 +249,6 @@
     {
       "slug": "expertise-as-reference-not-replacement",
       "in_degree": 12
-    },
-    {
-      "slug": "hierarchy-from-individual-difference",
-      "in_degree": 12
     }
   ],
   "hubs_out": [
@@ -260,11 +261,11 @@
       "out_degree": 19
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 17
+      "slug": "no-system-can-be-kept-closed",
+      "out_degree": 18
     },
     {
-      "slug": "no-system-can-be-kept-closed",
+      "slug": "individual-choices-as-the-only-causal-levers",
       "out_degree": 17
     },
     {
@@ -292,8 +293,20 @@
       "out_degree": 15
     },
     {
+      "slug": "the-source-of-shared-change",
+      "out_degree": 15
+    },
+    {
       "slug": "two-failures-of-trace",
       "out_degree": 15
+    },
+    {
+      "slug": "what-works-is-the-belief",
+      "out_degree": 15
+    },
+    {
+      "slug": "openness-is-consistency",
+      "out_degree": 14
     },
     {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
@@ -304,15 +317,7 @@
       "out_degree": 14
     },
     {
-      "slug": "the-source-of-shared-change",
-      "out_degree": 14
-    },
-    {
       "slug": "what-always-listens-cannot-originate",
-      "out_degree": 14
-    },
-    {
-      "slug": "what-works-is-the-belief",
       "out_degree": 14
     },
     {
@@ -324,11 +329,7 @@
       "out_degree": 13
     },
     {
-      "slug": "openness-is-consistency",
-      "out_degree": 13
-    },
-    {
-      "slug": "reality-is-the-minds-ongoing-realization",
+      "slug": "preference-clusters-and-the-language-of-judgment",
       "out_degree": 13
     }
   ],
@@ -426,6 +427,28 @@
       "in_degree": 3,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "kind": "post",
+      "slug": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "path": "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md",
+      "title": "Advocating Openness of Others Is a Desire for Closure of the Self",
+      "hash": "c948c0a4e8d6",
+      "in_degree": 10,
+      "out_degree": 10,
+      "links_out": [
+        "mei-you-pu-du-zhi-you-zi-du",
+        "intelligence-belongs-only-to-the-mind",
+        "the-source-of-shared-change",
+        "preference-clusters-and-the-language-of-judgment",
+        "open-vision-in-a-closed-arena",
+        "what-works-is-the-belief",
+        "sovereignty-belief-and-regulatory-structures",
+        "restriction-is-a-selective-tax",
+        "no-system-can-be-kept-closed",
+        "openness-is-consistency"
+      ]
     },
     {
       "id": "post:agents_leia_ontological_clarity",
@@ -1129,11 +1152,12 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "c172a91da386",
-      "in_degree": 32,
-      "out_degree": 5,
+      "hash": "12e4a15aeeb2",
+      "in_degree": 33,
+      "out_degree": 6,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "ontos-is-a-method-agent",
         "mistaking-the-expression-for-the-intelligence",
         "the-strongest-belief-of-the-mind",
@@ -1223,9 +1247,9 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "57b35fd3d9ce",
-      "in_degree": 18,
-      "out_degree": 7,
+      "hash": "d61786420a9b",
+      "in_degree": 19,
+      "out_degree": 8,
       "links_out": [
         "the-coordinators-category-error",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -1233,7 +1257,8 @@
         "the-source-of-shared-change",
         "qian-yin-hou-guo",
         "expertise-as-reference-not-replacement",
-        "preference-clusters-and-the-language-of-judgment"
+        "preference-clusters-and-the-language-of-judgment",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self"
       ]
     },
     {
@@ -1328,9 +1353,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "082dda84cc15",
-      "in_degree": 24,
-      "out_degree": 17,
+      "hash": "1460e8122d40",
+      "in_degree": 25,
+      "out_degree": 18,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1348,7 +1373,8 @@
         "the-climate-problem-registers-only-as-perception",
         "the-strongest-belief-of-the-mind",
         "the-scaffolding-that-keeps-growing",
-        "the-presumption-of-agi-and-the-view-from-outside"
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self"
       ]
     },
     {
@@ -1472,9 +1498,9 @@
       "slug": "open-vision-in-a-closed-arena",
       "path": "content/posts/open-vision-in-a-closed-arena.md",
       "title": "Open Vision in a Closed Arena",
-      "hash": "2b2586518d89",
-      "in_degree": 8,
-      "out_degree": 9,
+      "hash": "480f576f3e0f",
+      "in_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
@@ -1484,7 +1510,8 @@
         "production-consumption-and-the-minds-distinction",
         "closed-reality-in-the-pursuit-of-serendipity",
         "the-reality-distortion-field-names-the-closed-map",
-        "preference-clusters-and-the-language-of-judgment"
+        "preference-clusters-and-the-language-of-judgment",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self"
       ]
     },
     {
@@ -1493,9 +1520,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "75a41e99c3c3",
-      "in_degree": 26,
-      "out_degree": 13,
+      "hash": "38aef85a8d88",
+      "in_degree": 27,
+      "out_degree": 14,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -1506,6 +1533,7 @@
         "clarity-isnt-a-state-you-arrive-at",
         "why-mathematics-can-never-be-solved",
         "open-vision-in-a-closed-arena",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "only-if-it-is-not-kept-empty",
         "the-strongest-belief-of-the-mind",
         "the-climate-problem-registers-only-as-perception",
@@ -1592,9 +1620,9 @@
       "slug": "preference-clusters-and-the-language-of-judgment",
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
       "title": "Preference Clusters and the Language of Judgment",
-      "hash": "9e8ce57211fb",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "8a78a719a494",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "the-source-of-shared-change",
         "hierarchy-from-individual-difference",
@@ -1607,7 +1635,8 @@
         "individual-choices-as-the-only-causal-levers",
         "the-question-that-installs-the-war",
         "open-vision-in-a-closed-arena",
-        "no-system-can-be-kept-closed"
+        "no-system-can-be-kept-closed",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self"
       ]
     },
     {
@@ -1732,9 +1761,9 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "Restriction Is a Selective Tax",
-      "hash": "9f7dd8f8e63e",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "8bcfeb0c7ebe",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "hierarchy-from-individual-difference",
@@ -1745,7 +1774,8 @@
         "the-risk-is-the-belief-in-oversight-itself",
         "sovereignty-belief-and-regulatory-structures",
         "the-risk-you-delegate-is-the-risk-you-create",
-        "preference-clusters-and-the-language-of-judgment"
+        "preference-clusters-and-the-language-of-judgment",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self"
       ]
     },
     {
@@ -1809,16 +1839,17 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "a7204f01ec45",
-      "in_degree": 6,
-      "out_degree": 6,
+      "hash": "f8fa7d4a5b14",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
         "hassabis-frontier-agi-premise",
         "recursive-contradiction-of-entrusted-morality",
         "the-risk-you-delegate-is-the-risk-you-create",
         "sovereignty-essay",
         "the-risk-is-the-belief-in-oversight-itself",
-        "restriction-is-a-selective-tax"
+        "restriction-is-a-selective-tax",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self"
       ]
     },
     {
@@ -2514,12 +2545,13 @@
       "slug": "the-source-of-shared-change",
       "path": "content/posts/the-source-of-shared-change.md",
       "title": "The Source of Shared Change",
-      "hash": "6399d394027c",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "8e9552f17820",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "mei-you-pu-du-zhi-you-zi-du",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "the-coordinators-category-error",
         "individual-choices-as-the-only-causal-levers",
         "price-as-utterance-understanding-as-trade",
@@ -2709,9 +2741,9 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "What Works Is the Belief",
-      "hash": "bd75f9c8bc49",
-      "in_degree": 9,
-      "out_degree": 14,
+      "hash": "3e76ee614faa",
+      "in_degree": 10,
+      "out_degree": 15,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
         "price-as-utterance-understanding-as-trade",
@@ -2726,7 +2758,8 @@
         "restriction-is-a-selective-tax",
         "the-strongest-belief-of-the-mind",
         "symptom-and-cause-in-the-narratives-of-progress",
-        "preference-clusters-and-the-language-of-judgment"
+        "preference-clusters-and-the-language-of-judgment",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self"
       ]
     },
     {
@@ -3017,6 +3050,66 @@
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity obscures emergence"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The source of shared change"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open vision in a closed arena"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What works is the belief"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction is a selective tax"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
     },
     {
       "from": "agi-and-asi-are-temporary-goalposts",
@@ -4118,6 +4211,12 @@
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
       "to": "ontos-is-a-method-agent",
       "rel": "points_to",
       "label": "Presenting Ontos as a method agent"
@@ -4301,6 +4400,12 @@
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
       "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
     },
     {
       "from": "minimizing-path",
@@ -4511,6 +4616,12 @@
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
       "label": "The presumption of AGI and the view from outside"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -4873,6 +4984,12 @@
       "label": "Preference clusters and the language of judgment"
     },
     {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
+    },
+    {
       "from": "openness-is-consistency",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -4925,6 +5042,12 @@
       "to": "open-vision-in-a-closed-arena",
       "rel": "points_to",
       "label": "Open vision in a closed arena"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
     },
     {
       "from": "openness-is-consistency",
@@ -5123,6 +5246,12 @@
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "No system can be kept closed"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
@@ -5461,6 +5590,12 @@
       "label": "Preference clusters and the language of judgment"
     },
     {
+      "from": "restriction-is-a-selective-tax",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
+    },
+    {
       "from": "sovereignty-belief-and-regulatory-structures",
       "to": "hassabis-frontier-agi-premise",
       "rel": "points_to",
@@ -5495,6 +5630,12 @@
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
       "label": "Restriction is a selective tax"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -6908,6 +7049,12 @@
     },
     {
       "from": "the-source-of-shared-change",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
+    },
+    {
+      "from": "the-source-of-shared-change",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The coordinator’s category error"
@@ -7463,6 +7610,12 @@
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
       "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
     },
     {
       "from": "whatever-is-one-prompt-away",

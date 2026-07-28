@@ -104,11 +104,13 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Marine pilot chart / sailing-directions still** | Cream linen desk, open abstract current chart without legible text, amber wake-line continuing past torn edge into empty paper, brass dividers and pocket compass as instruments only, cool museum side light | `expertise-as-reference-not-replacement` |
 | **Iron-filing magnetograph / scientific plate** | Warm cream rag paper, fine black iron filings in dense aligned field-line clusters, one off-axis misaligned cluster, archival grain, museum side light, no text | `preference-clusters-and-the-language-of-judgment` |
 | **Glass-dome museum terrestrial model still** | Cream pedestal, sealed glass dome over hyper-detailed miniature Earth, worn walking path continuing past the case on polished floor, cool museum side light, documentary grain | `the-presumption-of-agi-and-the-view-from-outside` |
+| **Brass iris diaphragm still** | Precision brass camera aperture on dark velvet, blades mostly closed with a thin light cone through a partial opening, cool studio craft light, documentary metal grain | `advocating-openness-of-others-is-a-desire-for-closure-of-the-self` |
 
 ## Inventory (by slug)
 
 | Slug | Style family |
 |------|----------------|
+| `advocating-openness-of-others-is-a-desire-for-closure-of-the-self` | Brass iris diaphragm still |
 | `a-creation-cannot-replace-its-source` | Cut-paper shadowbox / Scherenschnitte |
 | `a-living-external-cortex` | Chinese gongbi fine-line color |
 | `a-new-deeper-look-at-antifragility` | Painterly glass / gold path |
