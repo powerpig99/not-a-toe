@@ -11,3 +11,5 @@ And it's not even a simplification. Judging *what* to trust is local, contextual
 Worse, each act of delegation atrophies the judgment that made the selection possible. The more you outsource, the less capable you become of evaluating whether the outsourcing is working. The endpoint: people defending authorities on the basis of an original selection made by a version of themselves that no longer exists.
 
 The question was never *who* should we entrust with defining morality. It's whether entrusting is a coherent operation at all.
+
+[Externalized virtue becomes its opposite](../externalized-virtue-becomes-its-opposite/) is the same transaction at scale: private conviction elevated into mandate, free compliance densifying the vessel, institutions crystallizing as residue while the lever stays at each choosing locus.

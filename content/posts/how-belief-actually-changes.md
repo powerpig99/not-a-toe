@@ -30,7 +30,7 @@ Revision begins only as a discrete act of this Mind: consent to leave the old pr
 
 The step is not a journey to an exterior stand from which the old map can finally be judged. Stepping “outside” is itself a further discrete act within the activity — a re-draw of the instrument while the Mind continues. [Openness is consistency](../openness-is-consistency/) names what the freeze was doing: forcing a finite hold to ground what only continues. The voluntary step is release of that demand for long enough that a different hold can be tried.
 
-[Evil as the Mind’s own creation](../evil-as-the-minds-own-creation/) watches the same re-draw under narrative load: turns re-score when assumptions are rewritten; what hardens as ultimate is the locus whose premises the seeing refuses to reopen. Hardness is magnitude of exemption, not independent substance. Conversion of conviction is that reopening under ordinary life-load.
+[Evil as the Mind’s own creation](../evil-as-the-minds-own-creation/) watches the same re-draw under narrative load: turns re-score when assumptions are rewritten; what hardens as ultimate is the locus whose premises the seeing refuses to reopen. Hardness is magnitude of exemption, not independent substance. Conversion of conviction is that reopening under ordinary life-load. [Externalized virtue becomes its opposite](../externalized-virtue-becomes-its-opposite/) is hardness under greater-good costume: conviction elevated into mandate and taken for granted until the warrant expires while power and identity remain.
 
 ## Greater coherence ratifies
 

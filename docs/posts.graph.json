@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-28T20:03:39.821Z",
+    "generated_at": "2026-07-29T15:05:54.277Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -22,7 +22,7 @@
       "content/posts/causality-all-the-way.md": "fc3950d8ebcd",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "abf062a4d24e",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
-      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "19959ca80788",
+      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "65c9e56821ca",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/closed-reality-in-benchmark-maxing.md": "7c6fad8c19c7",
@@ -37,29 +37,30 @@
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "3171103c1027",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
-      "content/posts/empowerment-establishes-the-centralization-of-power.md": "61f1324011dc",
+      "content/posts/empowerment-establishes-the-centralization-of-power.md": "aa79d573ee15",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "2245b42e51f2",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
-      "content/posts/evil-as-the-minds-own-creation.md": "f5f726b461fa",
+      "content/posts/evil-as-the-minds-own-creation.md": "aad0e6a4db66",
       "content/posts/expertise-as-reference-not-replacement.md": "22a4549fe3d7",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
+      "content/posts/externalized-virtue-becomes-its-opposite.md": "bd1442a6e4e0",
       "content/posts/fate-loves-irony-refined.md": "55f2935f273b",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
-      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "7bb93c7770a6",
+      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "924bb961dad6",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
       "content/posts/having-more-is-never-the-cause.md": "b918f986fefe",
       "content/posts/help-is-half-the-problem.md": "ab76bdb2d800",
-      "content/posts/hierarchy-from-individual-difference.md": "acab592e3250",
-      "content/posts/how-belief-actually-changes.md": "bffa547050be",
+      "content/posts/hierarchy-from-individual-difference.md": "09eaaeaa6cd8",
+      "content/posts/how-belief-actually-changes.md": "748632dd4a69",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "7a2c7d83d5c4",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "701cd51a25ae",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "12e4a15aeeb2",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -83,25 +84,25 @@
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
       "content/posts/openness-is-consistency.md": "48dda20aee1f",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "ad84ccea8c92",
+      "content/posts/ownership-and-self-worthiness.md": "96150fce9a0b",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "f54d04212765",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/preference-clusters-and-the-language-of-judgment.md": "795b10e06078",
+      "content/posts/preference-clusters-and-the-language-of-judgment.md": "d01cd3e42bd8",
       "content/posts/price-as-utterance-understanding-as-trade.md": "27e4f99f9d21",
       "content/posts/production-consumption-and-the-minds-distinction.md": "11076691e07e",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "e3bd8ce953eb",
-      "content/posts/recursive-contradiction-of-entrusted-morality.md": "e695779caec2",
+      "content/posts/recursive-contradiction-of-entrusted-morality.md": "ee7d088b2100",
       "content/posts/restriction-is-a-selective-tax.md": "8bcfeb0c7ebe",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/self-rl-for-humans.md": "0af62aecf5bc",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
-      "content/posts/shared-humanity-is-never-shared.md": "d61482512955",
+      "content/posts/shared-humanity-is-never-shared.md": "2d762eff0fb0",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "dc0dc1944e6e",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "efb1f37d5e45",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "aefccbe5db3d",
@@ -129,11 +130,11 @@
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "125b5e29766b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "02969233f4f4",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "cdad3d254542",
-      "content/posts/the-question-that-installs-the-war.md": "75b7ba4e2aeb",
+      "content/posts/the-question-that-installs-the-war.md": "e3ed17b91d6f",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "2c91f67fd1fa",
-      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "27f382a2b1be",
+      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "b7d27deca4cd",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "09624418241e",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "663e9819b021",
@@ -164,13 +165,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 154,
-      "edges": 903,
-      "unique_directed": 893,
+      "posts": 155,
+      "edges": 931,
+      "unique_directed": 921,
       "missing_targets": 0,
       "one_way": 333,
       "isolated": 38,
-      "posts_with_outbound": 91
+      "posts_with_outbound": 93
     }
   },
   "hubs_in": [
@@ -188,7 +189,7 @@
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 23
+      "in_degree": 24
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -215,15 +216,19 @@
       "in_degree": 18
     },
     {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "in_degree": 18
+    },
+    {
       "slug": "the-source-of-shared-change",
       "in_degree": 18
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 17
+      "slug": "preference-clusters-and-the-language-of-judgment",
+      "in_degree": 16
     },
     {
-      "slug": "preference-clusters-and-the-language-of-judgment",
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 15
     },
     {
@@ -231,7 +236,11 @@
       "in_degree": 15
     },
     {
-      "slug": "ownership-and-self-worthiness",
+      "slug": "externalized-virtue-becomes-its-opposite",
+      "in_degree": 14
+    },
+    {
+      "slug": "hierarchy-from-individual-difference",
       "in_degree": 14
     },
     {
@@ -239,19 +248,11 @@
       "in_degree": 14
     },
     {
-      "slug": "hierarchy-from-individual-difference",
-      "in_degree": 13
-    },
-    {
       "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 13
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 12
-    },
-    {
-      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "in_degree": 12
     }
   ],
@@ -262,7 +263,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 20
+      "out_degree": 21
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -289,6 +290,10 @@
       "out_degree": 16
     },
     {
+      "slug": "preference-clusters-and-the-language-of-judgment",
+      "out_degree": 16
+    },
+    {
       "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 16
     },
@@ -299,10 +304,6 @@
     {
       "slug": "the-scaffolding-we-forget",
       "out_degree": 16
-    },
-    {
-      "slug": "preference-clusters-and-the-language-of-judgment",
-      "out_degree": 15
     },
     {
       "slug": "reality-is-the-minds-ongoing-realization",
@@ -321,19 +322,19 @@
       "out_degree": 15
     },
     {
+      "slug": "externalized-virtue-becomes-its-opposite",
+      "out_degree": 14
+    },
+    {
+      "slug": "hierarchy-from-individual-difference",
+      "out_degree": 14
+    },
+    {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 14
     },
     {
       "slug": "the-paradoxical-nature-of-bystander-insights",
-      "out_degree": 14
-    },
-    {
-      "slug": "the-strongest-belief-of-the-mind",
-      "out_degree": 14
-    },
-    {
-      "slug": "what-always-listens-cannot-originate",
       "out_degree": 14
     }
   ],
@@ -622,9 +623,9 @@
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "Clarity Isn't a State You Arrive At. It's the Movement Itself.",
-      "hash": "19959ca80788",
-      "in_degree": 23,
-      "out_degree": 7,
+      "hash": "65c9e56821ca",
+      "in_degree": 24,
+      "out_degree": 8,
       "links_out": [
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "only-if-it-is-not-kept-empty",
@@ -632,6 +633,7 @@
         "the-scaffolding-that-keeps-growing",
         "expertise-as-reference-not-replacement",
         "when-observation-becomes-performance",
+        "externalized-virtue-becomes-its-opposite",
         "writing-without-the-image"
       ]
     },
@@ -855,11 +857,12 @@
       "slug": "empowerment-establishes-the-centralization-of-power",
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
       "title": "Empowerment Establishes the Centralization of Power",
-      "hash": "61f1324011dc",
-      "in_degree": 9,
-      "out_degree": 9,
+      "hash": "aa79d573ee15",
+      "in_degree": 10,
+      "out_degree": 10,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
+        "externalized-virtue-becomes-its-opposite",
         "sovereignty-belief-and-regulatory-structures",
         "mei-you-pu-du-zhi-you-zi-du",
         "individual-choices-as-the-only-causal-levers",
@@ -920,12 +923,13 @@
       "slug": "evil-as-the-minds-own-creation",
       "path": "content/posts/evil-as-the-minds-own-creation.md",
       "title": "Evil as the Mind’s Own Creation",
-      "hash": "f5f726b461fa",
-      "in_degree": 6,
-      "out_degree": 12,
+      "hash": "aad0e6a4db66",
+      "in_degree": 7,
+      "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "hierarchy-from-individual-difference",
+        "externalized-virtue-becomes-its-opposite",
         "evil-as-projected-resistance",
         "the-question-that-installs-the-war",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -985,6 +989,32 @@
       "links_out": []
     },
     {
+      "id": "post:externalized-virtue-becomes-its-opposite",
+      "kind": "post",
+      "slug": "externalized-virtue-becomes-its-opposite",
+      "path": "content/posts/externalized-virtue-becomes-its-opposite.md",
+      "title": "Externalized Virtue Becomes Its Opposite",
+      "hash": "bd1442a6e4e0",
+      "in_degree": 14,
+      "out_degree": 14,
+      "links_out": [
+        "evil-as-the-minds-own-creation",
+        "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+        "empowerment-establishes-the-centralization-of-power",
+        "recursive-contradiction-of-entrusted-morality",
+        "individual-choices-as-the-only-causal-levers",
+        "how-belief-actually-changes",
+        "preference-clusters-and-the-language-of-judgment",
+        "the-question-that-installs-the-war",
+        "sovereignty-belief-and-regulatory-structures",
+        "the-risk-is-the-belief-in-oversight-itself",
+        "hierarchy-from-individual-difference",
+        "shared-humanity-is-never-shared",
+        "ownership-and-self-worthiness",
+        "clarity-isnt-a-state-you-arrive-at"
+      ]
+    },
+    {
       "id": "post:fate-loves-irony-refined",
       "kind": "post",
       "slug": "fate-loves-irony-refined",
@@ -1026,11 +1056,12 @@
       "slug": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "path": "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md",
       "title": "Good and Evil Are the Two Sides of the Coin and the Cut",
-      "hash": "7bb93c7770a6",
-      "in_degree": 5,
-      "out_degree": 5,
+      "hash": "924bb961dad6",
+      "in_degree": 6,
+      "out_degree": 6,
       "links_out": [
         "evil-as-the-minds-own-creation",
+        "externalized-virtue-becomes-its-opposite",
         "the-question-that-installs-the-war",
         "preference-clusters-and-the-language-of-judgment",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -1112,12 +1143,13 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "Hierarchy from Individual Difference",
-      "hash": "acab592e3250",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "09eaaeaa6cd8",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "having-more-is-never-the-cause",
         "the-frame-that-conceals-improvement",
+        "externalized-virtue-becomes-its-opposite",
         "individual-choices-as-the-only-causal-levers",
         "empowerment-establishes-the-centralization-of-power",
         "evil-as-the-minds-own-creation",
@@ -1137,9 +1169,9 @@
       "slug": "how-belief-actually-changes",
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "How Belief Actually Changes",
-      "hash": "bffa547050be",
-      "in_degree": 11,
-      "out_degree": 11,
+      "hash": "748632dd4a69",
+      "in_degree": 12,
+      "out_degree": 12,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-strongest-belief-of-the-mind",
@@ -1149,6 +1181,7 @@
         "when-the-effect-authors-the-frame",
         "openness-is-consistency",
         "evil-as-the-minds-own-creation",
+        "externalized-virtue-becomes-its-opposite",
         "the-allocation-of-causal-power-in-validation",
         "reality-is-the-minds-ongoing-realization",
         "individual-choices-as-the-only-causal-levers"
@@ -1193,9 +1226,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "7a2c7d83d5c4",
-      "in_degree": 17,
-      "out_degree": 20,
+      "hash": "701cd51a25ae",
+      "in_degree": 18,
+      "out_degree": 21,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1211,6 +1244,7 @@
         "sovereignty-belief-and-regulatory-structures",
         "the-coordinators-category-error",
         "empowerment-establishes-the-centralization-of-power",
+        "externalized-virtue-becomes-its-opposite",
         "hierarchy-from-individual-difference",
         "openness-is-consistency",
         "how-belief-actually-changes",
@@ -1635,11 +1669,12 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "ad84ccea8c92",
-      "in_degree": 14,
-      "out_degree": 6,
+      "hash": "96150fce9a0b",
+      "in_degree": 15,
+      "out_degree": 7,
       "links_out": [
         "empowerment-establishes-the-centralization-of-power",
+        "externalized-virtue-becomes-its-opposite",
         "individual-choices-as-the-only-causal-levers",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "hierarchy-from-individual-difference",
@@ -1699,9 +1734,9 @@
       "slug": "preference-clusters-and-the-language-of-judgment",
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
       "title": "Preference Clusters and the Language of Judgment",
-      "hash": "795b10e06078",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "d01cd3e42bd8",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
@@ -1713,6 +1748,7 @@
         "what-works-is-the-belief",
         "expertise-as-reference-not-replacement",
         "mei-you-pu-du-zhi-you-zi-du",
+        "externalized-virtue-becomes-its-opposite",
         "individual-choices-as-the-only-causal-levers",
         "the-question-that-installs-the-war",
         "open-vision-in-a-closed-arena",
@@ -1834,10 +1870,12 @@
       "slug": "recursive-contradiction-of-entrusted-morality",
       "path": "content/posts/recursive-contradiction-of-entrusted-morality.md",
       "title": "The Recursive Contradiction of Entrusted Morality",
-      "hash": "e695779caec2",
-      "in_degree": 3,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "ee7d088b2100",
+      "in_degree": 4,
+      "out_degree": 1,
+      "links_out": [
+        "externalized-virtue-becomes-its-opposite"
+      ]
     },
     {
       "id": "post:restriction-is-a-selective-tax",
@@ -1912,9 +1950,9 @@
       "slug": "shared-humanity-is-never-shared",
       "path": "content/posts/shared-humanity-is-never-shared.md",
       "title": "Shared Humanity Is Never Shared",
-      "hash": "d61482512955",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "2d762eff0fb0",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "the-source-of-shared-change",
@@ -1922,7 +1960,8 @@
         "preference-clusters-and-the-language-of-judgment",
         "mei-you-pu-du-zhi-you-zi-du",
         "individual-choices-as-the-only-causal-levers",
-        "sovereignty-belief-and-regulatory-structures"
+        "sovereignty-belief-and-regulatory-structures",
+        "externalized-virtue-becomes-its-opposite"
       ]
     },
     {
@@ -1942,9 +1981,9 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "dc0dc1944e6e",
-      "in_degree": 9,
-      "out_degree": 9,
+      "hash": "efb1f37d5e45",
+      "in_degree": 10,
+      "out_degree": 10,
       "links_out": [
         "hassabis-frontier-agi-premise",
         "empowerment-establishes-the-centralization-of-power",
@@ -1954,7 +1993,8 @@
         "the-risk-is-the-belief-in-oversight-itself",
         "restriction-is-a-selective-tax",
         "shared-humanity-is-never-shared",
-        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self"
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+        "externalized-virtue-becomes-its-opposite"
       ]
     },
     {
@@ -2462,11 +2502,12 @@
       "slug": "the-question-that-installs-the-war",
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "The Question That Installs the War",
-      "hash": "75b7ba4e2aeb",
-      "in_degree": 7,
-      "out_degree": 4,
+      "hash": "e3ed17b91d6f",
+      "in_degree": 8,
+      "out_degree": 5,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+        "externalized-virtue-becomes-its-opposite",
         "reality-is-the-minds-ongoing-realization",
         "the-climate-problem-registers-only-as-perception",
         "preference-clusters-and-the-language-of-judgment"
@@ -2551,9 +2592,9 @@
       "slug": "the-risk-is-the-belief-in-oversight-itself",
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
       "title": "The Risk Is the Belief in Oversight Itself",
-      "hash": "27f382a2b1be",
-      "in_degree": 7,
-      "out_degree": 12,
+      "hash": "b7d27deca4cd",
+      "in_degree": 8,
+      "out_degree": 13,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -2563,6 +2604,7 @@
         "what-works-is-the-belief",
         "restriction-is-a-selective-tax",
         "sovereignty-belief-and-regulatory-structures",
+        "externalized-virtue-becomes-its-opposite",
         "openness-is-consistency",
         "the-question-that-installs-the-war",
         "agi-and-asi-are-temporary-goalposts",
@@ -3553,6 +3595,12 @@
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "writing-without-the-image",
       "rel": "points_to",
       "label": "Writing without the image"
@@ -3889,6 +3937,12 @@
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, belief, and the generation of regulatory structures"
@@ -4006,6 +4060,12 @@
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
     },
     {
       "from": "evil-as-the-minds-own-creation",
@@ -4140,6 +4200,90 @@
       "label": "Preference clusters and the language of judgment"
     },
     {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind’s own creation"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and evil are the two sides of the coin and the cut"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment establishes the centralization of power"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "recursive-contradiction-of-entrusted-morality",
+      "rel": "points_to",
+      "label": "The recursive contradiction of entrusted morality"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "individual choices as the only causal levers"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The question that installs the war"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The risk is the belief in oversight itself"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared humanity is never shared"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity isn’t a state you arrive at"
+    },
+    {
       "from": "fidelity-not-optimality",
       "to": "minimizing-path",
       "rel": "points_to",
@@ -4156,6 +4300,12 @@
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
       "label": "Evil as the Mind’s own creation"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -4264,6 +4414,12 @@
       "to": "the-frame-that-conceals-improvement",
       "rel": "points_to",
       "label": "The frame that conceals improvement"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
     },
     {
       "from": "hierarchy-from-individual-difference",
@@ -4381,6 +4537,12 @@
     },
     {
       "from": "how-belief-actually-changes",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "how-belief-actually-changes",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
       "label": "The allocation of causal power in validation"
@@ -4480,6 +4642,12 @@
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
       "label": "Empowerment establishes the centralization of power"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -5425,6 +5593,12 @@
     },
     {
       "from": "ownership-and-self-worthiness",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -5584,6 +5758,12 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
@@ -5910,6 +6090,12 @@
       "label": "How belief actually changes"
     },
     {
+      "from": "recursive-contradiction-of-entrusted-morality",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
+    },
+    {
       "from": "restriction-is-a-selective-tax",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
@@ -6018,6 +6204,12 @@
       "label": "Sovereignty, belief, and the generation of regulatory structures"
     },
     {
+      "from": "shared-humanity-is-never-shared",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
+    },
+    {
       "from": "sovereignty-belief-and-regulatory-structures",
       "to": "hassabis-frontier-agi-premise",
       "rel": "points_to",
@@ -6070,6 +6262,12 @@
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
       "label": "Advocating openness of others is a desire for closure of the self"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -6991,6 +7189,12 @@
     },
     {
       "from": "the-question-that-installs-the-war",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "Reality is the Mind's ongoing realization"
@@ -7276,6 +7480,12 @@
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",

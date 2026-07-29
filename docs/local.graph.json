@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-07-28T08:55:52.522Z",
+    "generated_at": "2026-07-29T15:05:59.973Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -12,7 +12,7 @@
       "docs/export-for-substack.md": "ad3ca8f50548",
       "docs/export-for-x-article.md": "2edc1c5fa75d",
       "export/README.md": "22b7a12b144a",
-      "assets/covers/STYLES.md": "84c91d242ce7",
+      "assets/covers/STYLES.md": "504daf211fec",
       "README.md": "30d9c1909662",
       "docs/local-memory.md": "53621964650f",
       "build.mjs": "a16daa98a1ae",
@@ -22,8 +22,8 @@
       "MEMORY.md": "9b2cea4e08ca"
     },
     "stats": {
-      "posts": 151,
-      "covers": 81,
+      "posts": 155,
+      "covers": 85,
       "trackers_listed": 12,
       "trackers_present": 12
     },
@@ -219,7 +219,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "84c91d242ce7",
+      "hash": "504daf211fec",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",

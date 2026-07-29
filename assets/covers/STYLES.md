@@ -109,6 +109,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Phenakistoscope / stopped zoetrope still** | Cream linen table, Victorian spinning disk stopped so discrete painted panels read as separate private frames, viewing slit-card aside, soft museum raking light, craft wood grain | `shared-humanity-is-never-shared` |
 | **Coining-die pair / mint-die still** | Cream linen mint bench, matched antique coining dies face-to-face with empty gap between, no coin present, cool raking craft light, brass–steel grain | `good-and-evil-are-the-two-sides-of-the-coin-and-the-cut` |
 | **Sealing-wax / official seal still** | Cream linen desk, antique sealing wax and blank-faced metal seal matrix, sealed document vs open unmarked sheet continuing past the frame, cool raking craft light, wax gloss and paper tooth | `empowerment-establishes-the-centralization-of-power` |
+| **Processional figure / portable shrine still** | Cream linen craft table, folk-craft blank-faced wooden figure on carrying poles, supporting hands mid-elevation, empty pedestal with worn ring, cool raking museum light, ivory–umber–charcoal | `externalized-virtue-becomes-its-opposite` |
 
 ## Inventory (by slug)
 
@@ -132,6 +133,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `escaping-the-sandbox-stays-inside-the-hold` | Persian miniature illumination |
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |
 | `expertise-as-reference-not-replacement` | Marine pilot chart / sailing-directions still |
+| `externalized-virtue-becomes-its-opposite` | Processional figure / portable shrine still |
 | `good-and-evil-are-the-two-sides-of-the-coin-and-the-cut` | Coining-die pair / mint-die still |
 | `preference-clusters-and-the-language-of-judgment` | Iron-filing magnetograph / scientific plate |
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
