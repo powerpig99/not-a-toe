@@ -34,7 +34,7 @@ The freeze of the observational stand is the demand that the further act seal th
 
 So-called substrate reality stays, if it is anything, outside the Mind’s control as an exterior knob. Everything that registers follows as causal residue and remains open. Felt control of destination increases when understanding coheres with what is perceived — successive redraws under the present map fitting hard enough that destination feels available. Certainty that the account has finally stepped out freezes the reference past its step: the map stops dying into the next redraw and scores every arrival against a preserved sheet.
 
-The strongest conviction is therefore absolute for the Mind and an artifact of the Mind. That double character is the permanent condition under which the activity operates — open to better instruments and longer lives as densifications of the field, still the same geometry of registration.
+The strongest conviction is therefore absolute for the Mind and an artifact of the Mind. That double character is the permanent condition under which the activity operates — open to better instruments and longer lives as densifications of the field, still the same geometry of registration. [Data is local; intelligence is allocated](../data-is-local-intelligence-is-allocated/) is that geometry under data and recognition costume: signal, quality, and intelligence remain allocations inside the loop that then feels its own coherence as world.
 
 ## Desire under the same condition
 

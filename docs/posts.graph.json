@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-30T04:39:54.231Z",
+    "generated_at": "2026-07-30T06:06:11.815Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -27,12 +27,13 @@
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/closed-reality-in-benchmark-maxing.md": "7c6fad8c19c7",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ae1e874dfdf6",
-      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "f61d0ce3cf22",
+      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "b85a27d0e91a",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "f487b012280e",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
+      "content/posts/data-is-local-intelligence-is-allocated.md": "539adbf793e3",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "3171103c1027",
@@ -55,13 +56,13 @@
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
       "content/posts/having-more-is-never-the-cause.md": "b918f986fefe",
       "content/posts/help-is-half-the-problem.md": "ab76bdb2d800",
-      "content/posts/hierarchy-from-individual-difference.md": "09eaaeaa6cd8",
+      "content/posts/hierarchy-from-individual-difference.md": "b77a3a14ede5",
       "content/posts/how-belief-actually-changes.md": "748632dd4a69",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "701cd51a25ae",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "2f7a2287c58a",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "5c6bd16ba47b",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/looping-and-graphing.md": "91731e982a9f",
@@ -70,11 +71,11 @@
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "963b01a30509",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "fb0da8fd9209",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "eeff40304902",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
-      "content/posts/no-system-can-be-kept-closed.md": "1460e8122d40",
+      "content/posts/no-system-can-be-kept-closed.md": "816e99b3274f",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
@@ -88,17 +89,17 @@
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "f54d04212765",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/preference-clusters-and-the-language-of-judgment.md": "d01cd3e42bd8",
+      "content/posts/preference-clusters-and-the-language-of-judgment.md": "ce85a37193e1",
       "content/posts/price-as-utterance-understanding-as-trade.md": "27e4f99f9d21",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "11076691e07e",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "079bb7fa6e7c",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
-      "content/posts/reality-is-the-minds-ongoing-realization.md": "e3bd8ce953eb",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "a9453ec65ad4",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "ee7d088b2100",
       "content/posts/restriction-is-a-selective-tax.md": "8bcfeb0c7ebe",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
-      "content/posts/self-rl-for-humans.md": "0af62aecf5bc",
+      "content/posts/self-rl-for-humans.md": "11dfa6b5d601",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-humanity-is-never-shared.md": "2d762eff0fb0",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
@@ -126,7 +127,7 @@
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
       "content/posts/the-model-never-becomes-a-second-edge.md": "cf5de6e6d19d",
-      "content/posts/the-non-definitive-definition-of-intelligence.md": "1885d5293e22",
+      "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "38727198369a",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "125b5e29766b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "02969233f4f4",
@@ -142,7 +143,7 @@
       "content/posts/the-scaffolding-we-forget.md": "95238f61188d",
       "content/posts/the-source-of-shared-change.md": "bc956b43157d",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
-      "content/posts/the-strongest-belief-of-the-mind.md": "1b615dfabf24",
+      "content/posts/the-strongest-belief-of-the-mind.md": "6413c8ab93f6",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
@@ -166,19 +167,19 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 156,
-      "edges": 948,
-      "unique_directed": 938,
+      "posts": 157,
+      "edges": 970,
+      "unique_directed": 960,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 95
+      "posts_with_outbound": 97
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 34
+      "in_degree": 35
     },
     {
       "slug": "openness-is-consistency",
@@ -186,7 +187,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 25
+      "in_degree": 26
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -205,12 +206,12 @@
       "in_degree": 21
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "self-rl-for-humans",
       "in_degree": 20
     },
     {
-      "slug": "self-rl-for-humans",
-      "in_degree": 19
+      "slug": "the-scaffolding-we-forget",
+      "in_degree": 20
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -226,35 +227,35 @@
     },
     {
       "slug": "preference-clusters-and-the-language-of-judgment",
-      "in_degree": 16
+      "in_degree": 17
     },
     {
       "slug": "two-failures-of-trace",
       "in_degree": 16
     },
     {
+      "slug": "hierarchy-from-individual-difference",
+      "in_degree": 15
+    },
+    {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 15
+    },
+    {
       "slug": "ownership-and-self-worthiness",
       "in_degree": 15
     },
     {
-      "slug": "externalized-virtue-becomes-its-opposite",
-      "in_degree": 14
-    },
-    {
-      "slug": "hierarchy-from-individual-difference",
-      "in_degree": 14
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 14
-    },
-    {
       "slug": "the-strongest-belief-of-the-mind",
-      "in_degree": 14
+      "in_degree": 15
     },
     {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
-      "in_degree": 13
+      "in_degree": 14
+    },
+    {
+      "slug": "externalized-virtue-becomes-its-opposite",
+      "in_degree": 14
     }
   ],
   "hubs_out": [
@@ -272,6 +273,10 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
+      "out_degree": 19
+    },
+    {
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "out_degree": 18
     },
     {
@@ -283,7 +288,11 @@
       "out_degree": 18
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
+      "slug": "preference-clusters-and-the-language-of-judgment",
+      "out_degree": 17
+    },
+    {
+      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 17
     },
     {
@@ -295,11 +304,7 @@
       "out_degree": 16
     },
     {
-      "slug": "preference-clusters-and-the-language-of-judgment",
-      "out_degree": 16
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
+      "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 16
     },
     {
@@ -311,11 +316,15 @@
       "out_degree": 16
     },
     {
-      "slug": "reality-is-the-minds-ongoing-realization",
+      "slug": "hierarchy-from-individual-difference",
       "out_degree": 15
     },
     {
       "slug": "the-reality-distortion-field-names-the-closed-map",
+      "out_degree": 15
+    },
+    {
+      "slug": "the-strongest-belief-of-the-mind",
       "out_degree": 15
     },
     {
@@ -327,15 +336,7 @@
       "out_degree": 14
     },
     {
-      "slug": "hierarchy-from-individual-difference",
-      "out_degree": 14
-    },
-    {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
-      "out_degree": 14
-    },
-    {
-      "slug": "the-paradoxical-nature-of-bystander-insights",
       "out_degree": 14
     }
   ],
@@ -723,15 +724,16 @@
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "Complexity Obscures: Emergence as the Act of Mind",
-      "hash": "f61d0ce3cf22",
-      "in_degree": 13,
-      "out_degree": 5,
+      "hash": "b85a27d0e91a",
+      "in_degree": 14,
+      "out_degree": 6,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-flight-analogy-leaves-the-mind-untouched",
         "openness-is-consistency",
         "production-consumption-and-the-minds-distinction",
-        "self-rl-for-humans"
+        "self-rl-for-humans",
+        "data-is-local-intelligence-is-allocated"
       ]
     },
     {
@@ -801,6 +803,29 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:data-is-local-intelligence-is-allocated",
+      "kind": "post",
+      "slug": "data-is-local-intelligence-is-allocated",
+      "path": "content/posts/data-is-local-intelligence-is-allocated.md",
+      "title": "Data Is Local; Intelligence Is Allocated",
+      "hash": "539adbf793e3",
+      "in_degree": 11,
+      "out_degree": 11,
+      "links_out": [
+        "preference-clusters-and-the-language-of-judgment",
+        "hierarchy-from-individual-difference",
+        "complexity-obscures-emergence-as-the-act-of-mind",
+        "self-rl-for-humans",
+        "intelligence-belongs-only-to-the-mind",
+        "mistaking-the-expression-for-the-intelligence",
+        "the-non-definitive-definition-of-intelligence",
+        "production-consumption-and-the-minds-distinction",
+        "no-system-can-be-kept-closed",
+        "reality-is-the-minds-ongoing-realization",
+        "the-strongest-belief-of-the-mind"
+      ]
     },
     {
       "id": "post:distillation-compression-agency",
@@ -1146,10 +1171,11 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "Hierarchy from Individual Difference",
-      "hash": "09eaaeaa6cd8",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "b77a3a14ede5",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
+        "data-is-local-intelligence-is-allocated",
         "having-more-is-never-the-cause",
         "the-frame-that-conceals-improvement",
         "externalized-virtue-becomes-its-opposite",
@@ -1262,14 +1288,15 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "2f7a2287c58a",
-      "in_degree": 34,
-      "out_degree": 7,
+      "hash": "5c6bd16ba47b",
+      "in_degree": 35,
+      "out_degree": 8,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "ontos-is-a-method-agent",
         "mistaking-the-expression-for-the-intelligence",
+        "data-is-local-intelligence-is-allocated",
         "the-strongest-belief-of-the-mind",
         "the-presumption-of-agi-and-the-view-from-outside",
         "the-flight-analogy-leaves-the-mind-untouched"
@@ -1406,9 +1433,9 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
-      "hash": "fb0da8fd9209",
-      "in_degree": 14,
-      "out_degree": 17,
+      "hash": "eeff40304902",
+      "in_degree": 15,
+      "out_degree": 18,
       "links_out": [
         "two-failures-of-trace",
         "the-flight-analogy-leaves-the-mind-untouched",
@@ -1417,6 +1444,7 @@
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
+        "data-is-local-intelligence-is-allocated",
         "agi-and-asi-are-temporary-goalposts",
         "a-creation-cannot-replace-its-source",
         "the-model-never-becomes-a-second-edge",
@@ -1468,14 +1496,15 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "1460e8122d40",
-      "in_degree": 25,
-      "out_degree": 18,
+      "hash": "816e99b3274f",
+      "in_degree": 26,
+      "out_degree": 19,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
         "production-consumption-and-the-minds-distinction",
         "complexity-obscures-emergence-as-the-act-of-mind",
+        "data-is-local-intelligence-is-allocated",
         "the-path-drawn-one-step-at-a-time",
         "the-scaffolding-we-forget",
         "clarity-isnt-a-state-you-arrive-at",
@@ -1739,9 +1768,9 @@
       "slug": "preference-clusters-and-the-language-of-judgment",
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
       "title": "Preference Clusters and the Language of Judgment",
-      "hash": "d01cd3e42bd8",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "ce85a37193e1",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
@@ -1751,6 +1780,7 @@
         "the-allocation-of-causal-power-in-validation",
         "restriction-is-a-selective-tax",
         "what-works-is-the-belief",
+        "data-is-local-intelligence-is-allocated",
         "expertise-as-reference-not-replacement",
         "mei-you-pu-du-zhi-you-zi-du",
         "externalized-virtue-becomes-its-opposite",
@@ -1788,9 +1818,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "11076691e07e",
-      "in_degree": 11,
-      "out_degree": 16,
+      "hash": "079bb7fa6e7c",
+      "in_degree": 12,
+      "out_degree": 17,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1803,6 +1833,7 @@
         "fate-loves-irony-refined",
         "individual-choices-as-the-only-causal-levers",
         "self-rl-for-humans",
+        "data-is-local-intelligence-is-allocated",
         "clarity-isnt-a-state-you-arrive-at",
         "the-paradoxical-nature-of-bystander-insights",
         "open-vision-in-a-closed-arena",
@@ -1848,9 +1879,9 @@
       "slug": "reality-is-the-minds-ongoing-realization",
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "Reality Is the Mind's Ongoing Realization",
-      "hash": "e3bd8ce953eb",
-      "in_degree": 11,
-      "out_degree": 15,
+      "hash": "a9453ec65ad4",
+      "in_degree": 12,
+      "out_degree": 16,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
@@ -1861,6 +1892,7 @@
         "openness-is-consistency",
         "no-system-can-be-kept-closed",
         "the-strongest-belief-of-the-mind",
+        "data-is-local-intelligence-is-allocated",
         "the-scaffolding-that-keeps-growing",
         "the-source-of-shared-change",
         "price-as-utterance-understanding-as-trade",
@@ -1933,10 +1965,12 @@
       "slug": "self-rl-for-humans",
       "path": "content/posts/self-rl-for-humans.md",
       "title": "What Looks Like RL for AIs Is Self-RL for Humans",
-      "hash": "0af62aecf5bc",
-      "in_degree": 19,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "11dfa6b5d601",
+      "in_degree": 20,
+      "out_degree": 1,
+      "links_out": [
+        "data-is-local-intelligence-is-allocated"
+      ]
     },
     {
       "id": "post:sensing-before-interpretation",
@@ -2419,9 +2453,9 @@
       "slug": "the-non-definitive-definition-of-intelligence",
       "path": "content/posts/the-non-definitive-definition-of-intelligence.md",
       "title": "The Non-Definitive Definition of Intelligence",
-      "hash": "1885d5293e22",
-      "in_degree": 2,
-      "out_degree": 8,
+      "hash": "083f959ee674",
+      "in_degree": 3,
+      "out_degree": 9,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "you-cant-benchmark-the-fluid",
@@ -2430,6 +2464,7 @@
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
+        "data-is-local-intelligence-is-allocated",
         "mistaking-the-expression-for-the-intelligence"
       ]
     },
@@ -2767,9 +2802,9 @@
       "slug": "the-strongest-belief-of-the-mind",
       "path": "content/posts/the-strongest-belief-of-the-mind.md",
       "title": "The Strongest Belief of the Mind",
-      "hash": "1b615dfabf24",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "6413c8ab93f6",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-scaffolding-we-forget",
@@ -2781,6 +2816,7 @@
         "openness-is-consistency",
         "no-system-can-be-kept-closed",
         "not-a-theory-of-everything",
+        "data-is-local-intelligence-is-allocated",
         "the-reality-distortion-field-names-the-closed-map",
         "what-works-is-the-belief",
         "restriction-is-a-selective-tax",
@@ -3871,6 +3907,12 @@
       "label": "Self-RL for humans"
     },
     {
+      "from": "complexity-obscures-emergence-as-the-act-of-mind",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
@@ -3941,6 +3983,72 @@
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity obscures emergence as the act of Mind"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "Self-RL for humans"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "The non-definitive definition of intelligence"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind's ongoing realization"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The strongest belief of the Mind"
     },
     {
       "from": "distillation-compression-agency",
@@ -4448,6 +4556,12 @@
     },
     {
       "from": "hierarchy-from-individual-difference",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
       "label": "Having more is never the cause"
@@ -4754,6 +4868,12 @@
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
       "label": "The strongest belief of the Mind"
@@ -5012,6 +5132,12 @@
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI and ASI are temporary goalposts"
@@ -5093,6 +5219,12 @@
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity obscures: emergence as the act of Mind"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -5804,6 +5936,12 @@
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
       "label": "Expertise as reference, not replacement"
@@ -5972,6 +6110,12 @@
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
@@ -6110,6 +6254,12 @@
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The scaffolding that keeps growing"
@@ -6215,6 +6365,12 @@
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
       "label": "Advocating openness of others is a desire for closure of the self"
+    },
+    {
+      "from": "self-rl-for-humans",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
     },
     {
       "from": "shared-humanity-is-never-shared",
@@ -7025,6 +7181,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
@@ -7997,6 +8159,12 @@
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
       "label": "Not a theory of everything"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
     },
     {
       "from": "the-strongest-belief-of-the-mind",

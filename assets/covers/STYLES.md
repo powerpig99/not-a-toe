@@ -111,6 +111,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Sealing-wax / official seal still** | Cream linen desk, antique sealing wax and blank-faced metal seal matrix, sealed document vs open unmarked sheet continuing past the frame, cool raking craft light, wax gloss and paper tooth | `empowerment-establishes-the-centralization-of-power` |
 | **Processional figure / portable shrine still** | Cream linen craft table, folk-craft blank-faced wooden figure on carrying poles, supporting hands mid-elevation, empty pedestal with worn ring, cool raking museum light, ivory–umber–charcoal | `externalized-virtue-becomes-its-opposite` |
 | **Photogram / cameraless object print** | Pure black photographic paper, cream border, white silhouettes of feather and airfoil, chemical silver grain, soft edge bloom, archival cameraless print | `the-flight-analogy-leaves-the-mind-untouched` |
+| **Terrazzo / polished aggregate still** | Cream linen craft table, polished terrazzo sample slab, discrete multi-colored chips denser on one side with isolated chips alone, cool museum side light, mineral grain | `data-is-local-intelligence-is-allocated` |
 
 ## Inventory (by slug)
 
@@ -129,6 +130,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `closed-reality-in-the-pursuit-of-serendipity` | Pinhole / camera obscura photograph |
 | `complexity-obscures-emergence-as-the-act-of-mind` | Copperplate engraving |
 | `curiosity-first-the-hidden-engine-of-talent-and-development` | Dendrochronology / polished tree-ring section |
+| `data-is-local-intelligence-is-allocated` | Terrazzo / polished aggregate still |
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
 | `empowerment-establishes-the-centralization-of-power` | Sealing-wax / official seal still |
 | `escaping-the-sandbox-stays-inside-the-hold` | Persian miniature illumination |
