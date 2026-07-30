@@ -40,7 +40,7 @@ And the proposed "solution" of forcing involuntary compliance through pain is th
 
 None of this means analogy is unreliable. It means analogy is a tool that requires discipline in proportion to its power.
 
-The discipline is: hold the shared logic, release the equivalence. An analogy illuminates *one mechanism* operating across domains. The moment it starts licensing conclusions about properties *other* than that mechanism, it has crossed from illumination to smuggling. The test is simple: can you state the shared mechanism explicitly, and does your conclusion follow from that mechanism alone, or does it require properties imported from one domain to the other?
+The discipline is: hold the shared logic, release the equivalence. An analogy illuminates *one mechanism* operating across domains. The moment it starts licensing conclusions about properties *other* than that mechanism, it has crossed from illumination to smuggling. The test is simple: can you state the shared mechanism explicitly, and does your conclusion follow from that mechanism alone, or does it require properties imported from one domain to the other? [The flight analogy leaves the Mind untouched](../the-flight-analogy-leaves-the-mind-untouched/) is that smuggling under consciousness costume: technological underestimation of feathers licenses nothing about transfer of the activity that draws the analogy.
 
 The proverb passes this test. "External arrangement cannot override autonomous will" — this mechanism holds in both domains, and the proverb claims nothing more.
 

@@ -3,13 +3,13 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-29T15:05:54.277Z",
+    "generated_at": "2026-07-30T04:39:54.231Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
-      "content/posts/a-creation-cannot-replace-its-source.md": "de0c30475c66",
+      "content/posts/a-creation-cannot-replace-its-source.md": "2e21681b5a52",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "c948c0a4e8d6",
@@ -27,7 +27,7 @@
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/closed-reality-in-benchmark-maxing.md": "7c6fad8c19c7",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ae1e874dfdf6",
-      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "4b0a1c9e0af3",
+      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "f61d0ce3cf22",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
@@ -61,7 +61,7 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "701cd51a25ae",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "12e4a15aeeb2",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "2f7a2287c58a",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/looping-and-graphing.md": "91731e982a9f",
@@ -70,7 +70,7 @@
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "963b01a30509",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "e944535fb362",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "fb0da8fd9209",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
@@ -107,7 +107,7 @@
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "aefccbe5db3d",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "92478c2d002c",
-      "content/posts/the-brain-does-not-backprop.md": "1d1eea26006d",
+      "content/posts/the-brain-does-not-backprop.md": "90ccd4619ab1",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "93350a2b9274",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "401e128e06ad",
@@ -115,6 +115,7 @@
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-fixed-image-of-transcendence.md": "2a7584cef1c9",
+      "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "ce58e971860a",
       "content/posts/the-flywheel-of-the-mind.md": "c37210784477",
       "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
@@ -124,12 +125,12 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "c1b6db6e54ba",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "cf5de6e6d19d",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "1885d5293e22",
       "content/posts/the-npc-impression-is-structural.md": "38727198369a",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "125b5e29766b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "02969233f4f4",
-      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "cdad3d254542",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "e5de2e814b0b",
       "content/posts/the-question-that-installs-the-war.md": "e3ed17b91d6f",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
@@ -144,12 +145,12 @@
       "content/posts/the-strongest-belief-of-the-mind.md": "1b615dfabf24",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
-      "content/posts/the_analogy_trap.md": "97a10a756773",
+      "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "e859c0e48fd3",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "27c1b012d261",
-      "content/posts/two-failures-of-trace.md": "fed5266305d0",
+      "content/posts/two-failures-of-trace.md": "1f3a162c58b9",
       "content/posts/what-always-listens-cannot-originate.md": "3e91cad302f9",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "3e76ee614faa",
@@ -165,19 +166,19 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 155,
-      "edges": 931,
-      "unique_directed": 921,
+      "posts": 156,
+      "edges": 948,
+      "unique_directed": 938,
       "missing_targets": 0,
-      "one_way": 333,
+      "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 93
+      "posts_with_outbound": 95
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 33
+      "in_degree": 34
     },
     {
       "slug": "openness-is-consistency",
@@ -228,11 +229,11 @@
       "in_degree": 16
     },
     {
-      "slug": "ownership-and-self-worthiness",
-      "in_degree": 15
+      "slug": "two-failures-of-trace",
+      "in_degree": 16
     },
     {
-      "slug": "two-failures-of-trace",
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 15
     },
     {
@@ -244,16 +245,16 @@
       "in_degree": 14
     },
     {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 14
+    },
+    {
       "slug": "the-strongest-belief-of-the-mind",
       "in_degree": 14
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
+      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "in_degree": 13
-    },
-    {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 12
     }
   ],
   "hubs_out": [
@@ -274,16 +275,20 @@
       "out_degree": 18
     },
     {
+      "slug": "the-model-never-becomes-a-second-edge",
+      "out_degree": 18
+    },
+    {
       "slug": "the-source-of-shared-change",
       "out_degree": 18
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "out_degree": 17
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "out_degree": 16
+      "slug": "the-presumption-of-agi-and-the-view-from-outside",
+      "out_degree": 17
     },
     {
       "slug": "openness-is-consistency",
@@ -298,11 +303,11 @@
       "out_degree": 16
     },
     {
-      "slug": "the-presumption-of-agi-and-the-view-from-outside",
+      "slug": "the-scaffolding-we-forget",
       "out_degree": 16
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "two-failures-of-trace",
       "out_degree": 16
     },
     {
@@ -311,10 +316,6 @@
     },
     {
       "slug": "the-reality-distortion-field-names-the-closed-map",
-      "out_degree": 15
-    },
-    {
-      "slug": "two-failures-of-trace",
       "out_degree": 15
     },
     {
@@ -386,9 +387,9 @@
       "slug": "a-creation-cannot-replace-its-source",
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
-      "hash": "de0c30475c66",
-      "in_degree": 8,
-      "out_degree": 12,
+      "hash": "2e21681b5a52",
+      "in_degree": 9,
+      "out_degree": 13,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -401,7 +402,8 @@
         "amplification-paradox",
         "the-allocation-of-causal-power-in-validation",
         "the-flywheel-of-the-mind",
-        "the-presumption-of-agi-and-the-view-from-outside"
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "the-flight-analogy-leaves-the-mind-untouched"
       ]
     },
     {
@@ -721,11 +723,12 @@
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "Complexity Obscures: Emergence as the Act of Mind",
-      "hash": "4b0a1c9e0af3",
-      "in_degree": 12,
-      "out_degree": 4,
+      "hash": "f61d0ce3cf22",
+      "in_degree": 13,
+      "out_degree": 5,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
+        "the-flight-analogy-leaves-the-mind-untouched",
         "openness-is-consistency",
         "production-consumption-and-the-minds-distinction",
         "self-rl-for-humans"
@@ -1259,16 +1262,17 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "12e4a15aeeb2",
-      "in_degree": 33,
-      "out_degree": 6,
+      "hash": "2f7a2287c58a",
+      "in_degree": 34,
+      "out_degree": 7,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "ontos-is-a-method-agent",
         "mistaking-the-expression-for-the-intelligence",
         "the-strongest-belief-of-the-mind",
-        "the-presumption-of-agi-and-the-view-from-outside"
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "the-flight-analogy-leaves-the-mind-untouched"
       ]
     },
     {
@@ -1402,11 +1406,12 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
-      "hash": "e944535fb362",
-      "in_degree": 13,
-      "out_degree": 16,
+      "hash": "fb0da8fd9209",
+      "in_degree": 14,
+      "out_degree": 17,
       "links_out": [
         "two-failures-of-trace",
+        "the-flight-analogy-leaves-the-mind-untouched",
         "the-non-definitive-definition-of-intelligence",
         "you-cant-benchmark-the-fluid",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -2059,11 +2064,12 @@
       "slug": "the_analogy_trap",
       "path": "content/posts/the_analogy_trap.md",
       "title": "The Analogy Trap: Shared Logic Is Not Shared Structure",
-      "hash": "97a10a756773",
+      "hash": "3fba4bdc48b2",
       "in_degree": 0,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
-        "the-coordinators-category-error"
+        "the-coordinators-category-error",
+        "the-flight-analogy-leaves-the-mind-untouched"
       ]
     },
     {
@@ -2115,10 +2121,12 @@
       "slug": "the-brain-does-not-backprop",
       "path": "content/posts/the-brain-does-not-backprop.md",
       "title": "The Brain Does Not Backprop, but Propagates",
-      "hash": "1d1eea26006d",
-      "in_degree": 2,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "90ccd4619ab1",
+      "in_degree": 3,
+      "out_degree": 1,
+      "links_out": [
+        "the-flight-analogy-leaves-the-mind-untouched"
+      ]
     },
     {
       "id": "post:the-climate-problem-registers-only-as-perception",
@@ -2232,6 +2240,26 @@
         "performative-hindsight-that-pretends-to-be-foresight",
         "evil-as-the-minds-own-creation",
         "the-presumption-of-agi-and-the-view-from-outside"
+      ]
+    },
+    {
+      "id": "post:the-flight-analogy-leaves-the-mind-untouched",
+      "kind": "post",
+      "slug": "the-flight-analogy-leaves-the-mind-untouched",
+      "path": "content/posts/the-flight-analogy-leaves-the-mind-untouched.md",
+      "title": "The Flight Analogy Leaves the Mind Untouched",
+      "hash": "ce58e971860a",
+      "in_degree": 9,
+      "out_degree": 8,
+      "links_out": [
+        "the-brain-does-not-backprop",
+        "intelligence-belongs-only-to-the-mind",
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "a-creation-cannot-replace-its-source",
+        "the-model-never-becomes-a-second-edge",
+        "complexity-obscures-emergence-as-the-act-of-mind",
+        "mistaking-the-expression-for-the-intelligence",
+        "two-failures-of-trace"
       ]
     },
     {
@@ -2361,9 +2389,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "c1b6db6e54ba",
-      "in_degree": 12,
-      "out_degree": 17,
+      "hash": "cf5de6e6d19d",
+      "in_degree": 13,
+      "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -2373,6 +2401,7 @@
         "causality-stays-at-the-edge-that-steers",
         "the-allocation-of-causal-power-in-validation",
         "a-creation-cannot-replace-its-source",
+        "the-flight-analogy-leaves-the-mind-untouched",
         "ownership-and-self-worthiness",
         "ai-as-augmentation",
         "amplification-paradox",
@@ -2474,12 +2503,13 @@
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "The Presumption of AGI and the View from Outside",
-      "hash": "cdad3d254542",
-      "in_degree": 10,
-      "out_degree": 16,
+      "hash": "e5de2e814b0b",
+      "in_degree": 11,
+      "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "mistaking-the-expression-for-the-intelligence",
+        "the-flight-analogy-leaves-the-mind-untouched",
         "closed-reality-in-benchmark-maxing",
         "the-non-definitive-definition-of-intelligence",
         "openness-is-consistency",
@@ -2832,9 +2862,9 @@
       "slug": "two-failures-of-trace",
       "path": "content/posts/two-failures-of-trace.md",
       "title": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
-      "hash": "fed5266305d0",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "1f3a162c58b9",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "token-efficiency-emulation-and-the-unclosable-gap",
@@ -2850,7 +2880,8 @@
         "when-observation-becomes-performance",
         "writing-without-the-image",
         "the-source-of-shared-change",
-        "the-presumption-of-agi-and-the-view-from-outside"
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "the-flight-analogy-leaves-the-mind-untouched"
       ]
     },
     {
@@ -3172,6 +3203,12 @@
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
       "label": "The presumption of AGI and the view from outside"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The flight analogy leaves the Mind untouched"
     },
     {
       "from": "a-living-external-cortex",
@@ -3802,6 +3839,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "complexity-obscures-emergence-as-the-act-of-mind",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The flight analogy leaves the Mind untouched"
     },
     {
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -4722,6 +4765,12 @@
       "label": "The presumption of AGI and the view from outside"
     },
     {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The flight analogy leaves the Mind untouched"
+    },
+    {
       "from": "looping-and-graphing",
       "to": "self-rl-for-humans",
       "rel": "points_to",
@@ -4924,6 +4973,12 @@
       "to": "two-failures-of-trace",
       "rel": "points_to",
       "label": "Artifacts are expressions of intelligence, not intelligence itself"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The flight analogy leaves the Mind untouched"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -6450,6 +6505,12 @@
       "label": "How belief actually changes"
     },
     {
+      "from": "the-brain-does-not-backprop",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The flight analogy leaves the Mind untouched"
+    },
+    {
       "from": "the-climate-problem-registers-only-as-perception",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -6654,6 +6715,54 @@
       "label": "The presumption of AGI and the view from outside"
     },
     {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "The brain does not backprop, but propagates"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A creation cannot replace its source"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity obscures emergence"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+    },
+    {
       "from": "the-flywheel-of-the-mind",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -6814,6 +6923,12 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A creation cannot replace its source"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The flight analogy leaves the Mind untouched"
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
@@ -7096,6 +7211,12 @@
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The flight analogy leaves the Mind untouched"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -7926,6 +8047,12 @@
       "label": "The coordinator’s category error"
     },
     {
+      "from": "the_analogy_trap",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The flight analogy leaves the Mind untouched"
+    },
+    {
       "from": "therapy-opens-the-feedback-loop",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
@@ -8134,6 +8261,12 @@
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
       "label": "The presumption of AGI and the view from outside"
+    },
+    {
+      "from": "two-failures-of-trace",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The flight analogy leaves the Mind untouched"
     },
     {
       "from": "what-always-listens-cannot-originate",

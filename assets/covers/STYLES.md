@@ -110,6 +110,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Coining-die pair / mint-die still** | Cream linen mint bench, matched antique coining dies face-to-face with empty gap between, no coin present, cool raking craft light, brass–steel grain | `good-and-evil-are-the-two-sides-of-the-coin-and-the-cut` |
 | **Sealing-wax / official seal still** | Cream linen desk, antique sealing wax and blank-faced metal seal matrix, sealed document vs open unmarked sheet continuing past the frame, cool raking craft light, wax gloss and paper tooth | `empowerment-establishes-the-centralization-of-power` |
 | **Processional figure / portable shrine still** | Cream linen craft table, folk-craft blank-faced wooden figure on carrying poles, supporting hands mid-elevation, empty pedestal with worn ring, cool raking museum light, ivory–umber–charcoal | `externalized-virtue-becomes-its-opposite` |
+| **Photogram / cameraless object print** | Pure black photographic paper, cream border, white silhouettes of feather and airfoil, chemical silver grain, soft edge bloom, archival cameraless print | `the-flight-analogy-leaves-the-mind-untouched` |
 
 ## Inventory (by slug)
 
@@ -168,6 +169,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-climate-problem-registers-only-as-perception` | Encaustic wax on wood panel |
 | `the-coordinators-category-error` | Kintsugi ceramic still life |
 | `the-fixed-image-of-transcendence` | Magic-lantern glass slide still |
+| `the-flight-analogy-leaves-the-mind-untouched` | Photogram / cameraless object print |
 | `the-flywheel-of-the-mind` | Art Deco poster / chrome and sunburst |
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
 | `the-meaning-of-life-is-in-the-drafting` | Risograph flat print |
