@@ -112,6 +112,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Processional figure / portable shrine still** | Cream linen craft table, folk-craft blank-faced wooden figure on carrying poles, supporting hands mid-elevation, empty pedestal with worn ring, cool raking museum light, ivory–umber–charcoal | `externalized-virtue-becomes-its-opposite` |
 | **Photogram / cameraless object print** | Pure black photographic paper, cream border, white silhouettes of feather and airfoil, chemical silver grain, soft edge bloom, archival cameraless print | `the-flight-analogy-leaves-the-mind-untouched` |
 | **Terrazzo / polished aggregate still** | Cream linen craft table, polished terrazzo sample slab, discrete multi-colored chips denser on one side with isolated chips alone, cool museum side light, mineral grain | `data-is-local-intelligence-is-allocated` |
+| **Möbius paper sculpture still** | Seamless warm ivory tabletop, single continuous twisted cream cotton-paper band as closed loop, soft studio side light, paper tooth and fiber, quiet craft still | `no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind` |
 
 ## Inventory (by slug)
 
@@ -150,6 +151,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `lossless-knowledge-of-an-open-field-is-incoherent` | Cloisonné / enamel medallion |
 | `mei-you-pu-du-zhi-you-zi-du` | Dark chalk / light trails |
 | `mistaking-the-expression-for-the-intelligence` | Graphite pencil study on toned paper |
+| `no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind` | Möbius paper sculpture still |
 | `no-system-can-be-kept-closed` | Risograph flat print |
 | `not-a-theory-of-everything` | Mezzotint / aquatint |
 | `open-vision-in-a-closed-arena` | Limestone bas-relief / architectural frieze |

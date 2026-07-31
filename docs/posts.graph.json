@@ -3,18 +3,18 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-30T06:06:11.815Z",
+    "generated_at": "2026-07-31T08:15:05.981Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
-      "content/posts/a-creation-cannot-replace-its-source.md": "2e21681b5a52",
+      "content/posts/a-creation-cannot-replace-its-source.md": "ae1fe6cf5246",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "c948c0a4e8d6",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "ba1ab8e4c45e",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "cbc342ede0ce",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
@@ -27,19 +27,19 @@
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/closed-reality-in-benchmark-maxing.md": "7c6fad8c19c7",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ae1e874dfdf6",
-      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "b85a27d0e91a",
+      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "0bd426efb058",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "f487b012280e",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
-      "content/posts/data-is-local-intelligence-is-allocated.md": "539adbf793e3",
+      "content/posts/data-is-local-intelligence-is-allocated.md": "5371ac004403",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "3171103c1027",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "aa79d573ee15",
-      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "2245b42e51f2",
+      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
       "content/posts/evil-as-the-minds-own-creation.md": "aad0e6a4db66",
@@ -62,10 +62,10 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "701cd51a25ae",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "5c6bd16ba47b",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "145d0055cc20",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
-      "content/posts/looping-and-graphing.md": "91731e982a9f",
+      "content/posts/looping-and-graphing.md": "ade0630eb08a",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "7386717ff3a3",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "963b01a30509",
@@ -75,7 +75,8 @@
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
-      "content/posts/no-system-can-be-kept-closed.md": "816e99b3274f",
+      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "8d80d1c91398",
+      "content/posts/no-system-can-be-kept-closed.md": "3397cfaff325",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
@@ -94,12 +95,12 @@
       "content/posts/production-consumption-and-the-minds-distinction.md": "079bb7fa6e7c",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
-      "content/posts/reality-is-the-minds-ongoing-realization.md": "a9453ec65ad4",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "272fc1803662",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "ee7d088b2100",
       "content/posts/restriction-is-a-selective-tax.md": "8bcfeb0c7ebe",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
-      "content/posts/self-rl-for-humans.md": "11dfa6b5d601",
+      "content/posts/self-rl-for-humans.md": "31d0f27b2e38",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-humanity-is-never-shared.md": "2d762eff0fb0",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
@@ -115,7 +116,7 @@
       "content/posts/the-coordinators-category-error.md": "077dd554bf40",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
-      "content/posts/the-fixed-image-of-transcendence.md": "2a7584cef1c9",
+      "content/posts/the-fixed-image-of-transcendence.md": "b9b513bc7cee",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "ce58e971860a",
       "content/posts/the-flywheel-of-the-mind.md": "c37210784477",
       "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
@@ -126,12 +127,12 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "cf5de6e6d19d",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "c5afca757d25",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "38727198369a",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "125b5e29766b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "02969233f4f4",
-      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "e5de2e814b0b",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "5557821c7272",
       "content/posts/the-question-that-installs-the-war.md": "e3ed17b91d6f",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
@@ -143,16 +144,16 @@
       "content/posts/the-scaffolding-we-forget.md": "95238f61188d",
       "content/posts/the-source-of-shared-change.md": "bc956b43157d",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
-      "content/posts/the-strongest-belief-of-the-mind.md": "6413c8ab93f6",
+      "content/posts/the-strongest-belief-of-the-mind.md": "195e4f50cddb",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "e859c0e48fd3",
-      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "27c1b012d261",
+      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "b7b56f743d05",
       "content/posts/two-failures-of-trace.md": "1f3a162c58b9",
-      "content/posts/what-always-listens-cannot-originate.md": "3e91cad302f9",
+      "content/posts/what-always-listens-cannot-originate.md": "a90b891f7758",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "3e76ee614faa",
       "content/posts/whatever-is-one-prompt-away.md": "a51ba94ce285",
@@ -167,19 +168,19 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 157,
-      "edges": 970,
-      "unique_directed": 960,
+      "posts": 158,
+      "edges": 1002,
+      "unique_directed": 992,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 97
+      "posts_with_outbound": 98
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 35
+      "in_degree": 36
     },
     {
       "slug": "openness-is-consistency",
@@ -187,7 +188,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 26
+      "in_degree": 27
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -202,12 +203,12 @@
       "in_degree": 22
     },
     {
-      "slug": "the-path-drawn-one-step-at-a-time",
+      "slug": "self-rl-for-humans",
       "in_degree": 21
     },
     {
-      "slug": "self-rl-for-humans",
-      "in_degree": 20
+      "slug": "the-path-drawn-one-step-at-a-time",
+      "in_degree": 21
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -230,8 +231,20 @@
       "in_degree": 17
     },
     {
+      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "in_degree": 16
+    },
+    {
+      "slug": "the-strongest-belief-of-the-mind",
+      "in_degree": 16
+    },
+    {
       "slug": "two-failures-of-trace",
       "in_degree": 16
+    },
+    {
+      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
+      "in_degree": 15
     },
     {
       "slug": "hierarchy-from-individual-difference",
@@ -244,18 +257,6 @@
     {
       "slug": "ownership-and-self-worthiness",
       "in_degree": 15
-    },
-    {
-      "slug": "the-strongest-belief-of-the-mind",
-      "in_degree": 15
-    },
-    {
-      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
-      "in_degree": 14
-    },
-    {
-      "slug": "externalized-virtue-becomes-its-opposite",
-      "in_degree": 14
     }
   ],
   "hubs_out": [
@@ -268,11 +269,15 @@
       "out_degree": 21
     },
     {
+      "slug": "no-system-can-be-kept-closed",
+      "out_degree": 20
+    },
+    {
       "slug": "closed-reality-in-benchmark-maxing",
       "out_degree": 19
     },
     {
-      "slug": "no-system-can-be-kept-closed",
+      "slug": "the-model-never-becomes-a-second-edge",
       "out_degree": 19
     },
     {
@@ -280,7 +285,7 @@
       "out_degree": 18
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "out_degree": 18
     },
     {
@@ -296,19 +301,23 @@
       "out_degree": 17
     },
     {
-      "slug": "the-presumption-of-agi-and-the-view-from-outside",
+      "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 17
+    },
+    {
+      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "out_degree": 16
     },
     {
       "slug": "openness-is-consistency",
       "out_degree": 16
     },
     {
-      "slug": "reality-is-the-minds-ongoing-realization",
+      "slug": "the-scaffolding-we-forget",
       "out_degree": 16
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "the-strongest-belief-of-the-mind",
       "out_degree": 16
     },
     {
@@ -324,20 +333,12 @@
       "out_degree": 15
     },
     {
-      "slug": "the-strongest-belief-of-the-mind",
+      "slug": "what-always-listens-cannot-originate",
       "out_degree": 15
     },
     {
       "slug": "what-works-is-the-belief",
       "out_degree": 15
-    },
-    {
-      "slug": "externalized-virtue-becomes-its-opposite",
-      "out_degree": 14
-    },
-    {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
-      "out_degree": 14
     }
   ],
   "missing": [],
@@ -388,9 +389,9 @@
       "slug": "a-creation-cannot-replace-its-source",
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
-      "hash": "2e21681b5a52",
-      "in_degree": 9,
-      "out_degree": 13,
+      "hash": "ae1fe6cf5246",
+      "in_degree": 10,
+      "out_degree": 14,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -404,7 +405,8 @@
         "the-allocation-of-causal-power-in-validation",
         "the-flywheel-of-the-mind",
         "the-presumption-of-agi-and-the-view-from-outside",
-        "the-flight-analogy-leaves-the-mind-untouched"
+        "the-flight-analogy-leaves-the-mind-untouched",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -475,9 +477,9 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
-      "hash": "ba1ab8e4c45e",
-      "in_degree": 11,
-      "out_degree": 12,
+      "hash": "cbc342ede0ce",
+      "in_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -490,7 +492,8 @@
         "the-risk-is-the-belief-in-oversight-itself",
         "the-scaffolding-that-keeps-growing",
         "the-fixed-image-of-transcendence",
-        "the-presumption-of-agi-and-the-view-from-outside"
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -724,16 +727,17 @@
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "Complexity Obscures: Emergence as the Act of Mind",
-      "hash": "b85a27d0e91a",
-      "in_degree": 14,
-      "out_degree": 6,
+      "hash": "0bd426efb058",
+      "in_degree": 15,
+      "out_degree": 7,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-flight-analogy-leaves-the-mind-untouched",
         "openness-is-consistency",
         "production-consumption-and-the-minds-distinction",
         "self-rl-for-humans",
-        "data-is-local-intelligence-is-allocated"
+        "data-is-local-intelligence-is-allocated",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -810,9 +814,9 @@
       "slug": "data-is-local-intelligence-is-allocated",
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
       "title": "Data Is Local; Intelligence Is Allocated",
-      "hash": "539adbf793e3",
-      "in_degree": 11,
-      "out_degree": 11,
+      "hash": "5371ac004403",
+      "in_degree": 12,
+      "out_degree": 12,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
         "hierarchy-from-individual-difference",
@@ -824,7 +828,8 @@
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
         "reality-is-the-minds-ongoing-realization",
-        "the-strongest-belief-of-the-mind"
+        "the-strongest-belief-of-the-mind",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -907,9 +912,9 @@
       "slug": "escaping-the-sandbox-stays-inside-the-hold",
       "path": "content/posts/escaping-the-sandbox-stays-inside-the-hold.md",
       "title": "Escaping the Sandbox Stays Inside the Hold",
-      "hash": "2245b42e51f2",
-      "in_degree": 7,
-      "out_degree": 10,
+      "hash": "cdaca9e4abfa",
+      "in_degree": 8,
+      "out_degree": 11,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
@@ -919,6 +924,7 @@
         "the-fixed-image-of-transcendence",
         "a-creation-cannot-replace-its-source",
         "causality-stays-at-the-edge-that-steers",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "you-cant-benchmark-the-fluid",
         "the-risk-is-the-belief-in-oversight-itself"
       ]
@@ -1288,9 +1294,9 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "5c6bd16ba47b",
-      "in_degree": 35,
-      "out_degree": 8,
+      "hash": "145d0055cc20",
+      "in_degree": 36,
+      "out_degree": 9,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
@@ -1299,7 +1305,8 @@
         "data-is-local-intelligence-is-allocated",
         "the-strongest-belief-of-the-mind",
         "the-presumption-of-agi-and-the-view-from-outside",
-        "the-flight-analogy-leaves-the-mind-untouched"
+        "the-flight-analogy-leaves-the-mind-untouched",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -1330,9 +1337,9 @@
       "slug": "looping-and-graphing",
       "path": "content/posts/looping-and-graphing.md",
       "title": "Looping and Graphing: Mind as the Loop of Loops",
-      "hash": "91731e982a9f",
-      "in_degree": 6,
-      "out_degree": 8,
+      "hash": "ade0630eb08a",
+      "in_degree": 7,
+      "out_degree": 9,
       "links_out": [
         "self-rl-for-humans",
         "intelligence-belongs-only-to-the-mind",
@@ -1341,6 +1348,7 @@
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "lossless-knowledge-of-an-open-field-is-incoherent",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "the-living-context"
       ]
     },
@@ -1491,14 +1499,42 @@
       "links_out": []
     },
     {
+      "id": "post:no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "kind": "post",
+      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
+      "title": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind",
+      "hash": "8d80d1c91398",
+      "in_degree": 16,
+      "out_degree": 16,
+      "links_out": [
+        "data-is-local-intelligence-is-allocated",
+        "what-always-listens-cannot-originate",
+        "token-efficiency-emulation-and-the-unclosable-gap",
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "the-model-never-becomes-a-second-edge",
+        "intelligence-belongs-only-to-the-mind",
+        "looping-and-graphing",
+        "self-rl-for-humans",
+        "no-system-can-be-kept-closed",
+        "a-creation-cannot-replace-its-source",
+        "escaping-the-sandbox-stays-inside-the-hold",
+        "reality-is-the-minds-ongoing-realization",
+        "the-strongest-belief-of-the-mind",
+        "complexity-obscures-emergence-as-the-act-of-mind",
+        "the-fixed-image-of-transcendence",
+        "agi-and-asi-are-temporary-goalposts"
+      ]
+    },
+    {
       "id": "post:no-system-can-be-kept-closed",
       "kind": "post",
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "816e99b3274f",
-      "in_degree": 26,
-      "out_degree": 19,
+      "hash": "3397cfaff325",
+      "in_degree": 27,
+      "out_degree": 20,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1518,6 +1554,7 @@
         "the-strongest-belief-of-the-mind",
         "the-scaffolding-that-keeps-growing",
         "the-presumption-of-agi-and-the-view-from-outside",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self"
       ]
     },
@@ -1879,9 +1916,9 @@
       "slug": "reality-is-the-minds-ongoing-realization",
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "Reality Is the Mind's Ongoing Realization",
-      "hash": "a9453ec65ad4",
-      "in_degree": 12,
-      "out_degree": 16,
+      "hash": "272fc1803662",
+      "in_degree": 13,
+      "out_degree": 17,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
@@ -1898,7 +1935,8 @@
         "price-as-utterance-understanding-as-trade",
         "shared-humanity-is-never-shared",
         "the-meaning-of-life-is-in-the-drafting",
-        "how-belief-actually-changes"
+        "how-belief-actually-changes",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -1965,11 +2003,12 @@
       "slug": "self-rl-for-humans",
       "path": "content/posts/self-rl-for-humans.md",
       "title": "What Looks Like RL for AIs Is Self-RL for Humans",
-      "hash": "11dfa6b5d601",
-      "in_degree": 20,
-      "out_degree": 1,
+      "hash": "31d0f27b2e38",
+      "in_degree": 21,
+      "out_degree": 2,
       "links_out": [
-        "data-is-local-intelligence-is-allocated"
+        "data-is-local-intelligence-is-allocated",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -2257,9 +2296,9 @@
       "slug": "the-fixed-image-of-transcendence",
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "The Fixed Image of Transcendence",
-      "hash": "2a7584cef1c9",
-      "in_degree": 6,
-      "out_degree": 13,
+      "hash": "b9b513bc7cee",
+      "in_degree": 7,
+      "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "agi-and-asi-are-temporary-goalposts",
@@ -2273,7 +2312,8 @@
         "no-system-can-be-kept-closed",
         "performative-hindsight-that-pretends-to-be-foresight",
         "evil-as-the-minds-own-creation",
-        "the-presumption-of-agi-and-the-view-from-outside"
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -2423,9 +2463,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "cf5de6e6d19d",
-      "in_degree": 13,
-      "out_degree": 18,
+      "hash": "c5afca757d25",
+      "in_degree": 14,
+      "out_degree": 19,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -2444,7 +2484,8 @@
         "mistaking-the-expression-for-the-intelligence",
         "ontos-is-a-method-agent",
         "the-fixed-image-of-transcendence",
-        "the-presumption-of-agi-and-the-view-from-outside"
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -2538,9 +2579,9 @@
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "The Presumption of AGI and the View from Outside",
-      "hash": "e5de2e814b0b",
-      "in_degree": 11,
-      "out_degree": 17,
+      "hash": "5557821c7272",
+      "in_degree": 12,
+      "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "mistaking-the-expression-for-the-intelligence",
@@ -2558,7 +2599,8 @@
         "agi-and-asi-are-temporary-goalposts",
         "a-creation-cannot-replace-its-source",
         "the-fixed-image-of-transcendence",
-        "complexity-obscures-emergence-as-the-act-of-mind"
+        "complexity-obscures-emergence-as-the-act-of-mind",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -2802,9 +2844,9 @@
       "slug": "the-strongest-belief-of-the-mind",
       "path": "content/posts/the-strongest-belief-of-the-mind.md",
       "title": "The Strongest Belief of the Mind",
-      "hash": "6413c8ab93f6",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "195e4f50cddb",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-scaffolding-we-forget",
@@ -2820,7 +2862,8 @@
         "the-reality-distortion-field-names-the-closed-map",
         "what-works-is-the-belief",
         "restriction-is-a-selective-tax",
-        "how-belief-actually-changes"
+        "how-belief-actually-changes",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -2874,9 +2917,9 @@
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
       "path": "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md",
       "title": "Token Efficiency, Emulation, and the Unclosable Gap",
-      "hash": "27c1b012d261",
-      "in_degree": 5,
-      "out_degree": 12,
+      "hash": "b7b56f743d05",
+      "in_degree": 6,
+      "out_degree": 13,
       "links_out": [
         "efficiency-without-differentiation",
         "distillation-compression-agency",
@@ -2889,7 +2932,8 @@
         "looping-and-graphing",
         "clarity-isnt-a-state-you-arrive-at",
         "the-meaning-of-life-is-in-the-drafting",
-        "lossless-knowledge-of-an-open-field-is-incoherent"
+        "lossless-knowledge-of-an-open-field-is-incoherent",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -2926,9 +2970,9 @@
       "slug": "what-always-listens-cannot-originate",
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "What Always Listens Cannot Originate",
-      "hash": "3e91cad302f9",
-      "in_degree": 12,
-      "out_degree": 14,
+      "hash": "a90b891f7758",
+      "in_degree": 13,
+      "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-allocation-of-causal-power-in-validation",
@@ -2942,6 +2986,7 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "ai-as-augmentation",
         "the-model-never-becomes-a-second-edge",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "the-ramble-within-the-ramble",
         "symptom-and-cause-in-the-narratives-of-progress"
       ]
@@ -3247,6 +3292,12 @@
       "label": "The flight analogy leaves the Mind untouched"
     },
     {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+    },
+    {
       "from": "a-living-external-cortex",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -3419,6 +3470,12 @@
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
       "label": "The presumption of AGI and the view from outside"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
     },
     {
       "from": "amplification-paradox",
@@ -3913,6 +3970,12 @@
       "label": "Data is local; intelligence is allocated"
     },
     {
+      "from": "complexity-obscures-emergence-as-the-act-of-mind",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+    },
+    {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
@@ -4051,6 +4114,12 @@
       "label": "The strongest belief of the Mind"
     },
     {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+    },
+    {
       "from": "distillation-compression-agency",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
@@ -4187,6 +4256,12 @@
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
@@ -4891,6 +4966,12 @@
       "label": "The flight analogy leaves the Mind untouched"
     },
     {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+    },
+    {
       "from": "looping-and-graphing",
       "to": "self-rl-for-humans",
       "rel": "points_to",
@@ -4931,6 +5012,12 @@
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
       "label": "Lossless knowledge of an open field is incoherent"
+    },
+    {
+      "from": "looping-and-graphing",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
     },
     {
       "from": "looping-and-graphing",
@@ -5197,6 +5284,102 @@
       "label": "The presumption of AGI and the view from outside"
     },
     {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What always listens cannot originate"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token efficiency, emulation, and the unclosable gap"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
+      "label": "Looping and graphing"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "Self-RL for humans"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A creation cannot replace its source"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the sandbox stays inside the hold"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind's ongoing realization"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The strongest belief of the Mind"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity obscures emergence as the act of Mind"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The fixed image of transcendence"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI are temporary goalposts"
+    },
+    {
       "from": "no-system-can-be-kept-closed",
       "to": "openness-is-consistency",
       "rel": "points_to",
@@ -5303,6 +5486,12 @@
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
       "label": "The presumption of AGI and the view from outside"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -6295,6 +6484,12 @@
       "label": "How belief actually changes"
     },
     {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+    },
+    {
       "from": "recursive-contradiction-of-entrusted-morality",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
@@ -6371,6 +6566,12 @@
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
       "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "self-rl-for-humans",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
     },
     {
       "from": "shared-humanity-is-never-shared",
@@ -6871,6 +7072,12 @@
       "label": "The presumption of AGI and the view from outside"
     },
     {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+    },
+    {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "the-brain-does-not-backprop",
       "rel": "points_to",
@@ -7139,6 +7346,12 @@
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
       "label": "The presumption of AGI and the view from outside"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
@@ -7463,6 +7676,12 @@
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity obscures: emergence as the act of Mind"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
     },
     {
       "from": "the-question-that-installs-the-war",
@@ -8197,6 +8416,12 @@
       "label": "How belief actually changes"
     },
     {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+    },
+    {
       "from": "the-surface-beneath",
       "to": "fidelity-not-optimality",
       "rel": "points_to",
@@ -8339,6 +8564,12 @@
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
       "label": "Lossless knowledge of an open field is incoherent"
+    },
+    {
+      "from": "token-efficiency-emulation-and-the-unclosable-gap",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
     },
     {
       "from": "two-failures-of-trace",
@@ -8507,6 +8738,12 @@
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "what-always-listens-cannot-originate",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
     },
     {
       "from": "what-always-listens-cannot-originate",
