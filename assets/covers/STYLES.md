@@ -114,6 +114,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Terrazzo / polished aggregate still** | Cream linen craft table, polished terrazzo sample slab, discrete multi-colored chips denser on one side with isolated chips alone, cool museum side light, mineral grain | `data-is-local-intelligence-is-allocated` |
 | **Möbius paper sculpture still** | Seamless warm ivory tabletop, single continuous twisted cream cotton-paper band as closed loop, soft studio side light, paper tooth and fiber, quiet craft still | `no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind` |
 | **Natural-history specimen drawer still** | Cream wood museum drawer, felt-lined cells with unique eggs and small bird forms as discrete cases, closed brass type-loop medallion set aside, archival raking light | `exceptionality-perception-and-the-self-limiting-field-of-problems` |
+| **Porcelain mold / residual clay still** | Cream linen craft table, blank white porcelain mold as uniform template, wet clay mid-press into the mold, free hand-thrown vessels of divergent silhouettes aside, cool museum side light, clay tooth and glaze sheen | `the-belief-in-utopia-is-the-path-to-dystopia` |
 
 ## Inventory (by slug)
 
@@ -199,6 +200,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
 | `what-always-listens-cannot-originate` | Ukiyo-e / nishiki-e |
 | `what-works-is-the-belief` | Mingei / katazome stencil |
+| `the-belief-in-utopia-is-the-path-to-dystopia` | Porcelain mold / residual clay still |
 | `whatever-is-one-prompt-away` | Pixel art / limited-palette retro |
 | `when-need-stops-being-the-measure` | Embroidery / needlework on linen |
 | `when-observation-becomes-performance` | Miniature proscenium stage still life |
@@ -218,7 +220,6 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 Not exhaustive. Prefer something not in Style families above.
 
-- Ceramic glaze still life on porcelain
 ## Workflow for a new cover
 
 1. Open this file; list families already used.
