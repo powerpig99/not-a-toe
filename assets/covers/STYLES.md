@@ -113,6 +113,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Photogram / cameraless object print** | Pure black photographic paper, cream border, white silhouettes of feather and airfoil, chemical silver grain, soft edge bloom, archival cameraless print | `the-flight-analogy-leaves-the-mind-untouched` |
 | **Terrazzo / polished aggregate still** | Cream linen craft table, polished terrazzo sample slab, discrete multi-colored chips denser on one side with isolated chips alone, cool museum side light, mineral grain | `data-is-local-intelligence-is-allocated` |
 | **Möbius paper sculpture still** | Seamless warm ivory tabletop, single continuous twisted cream cotton-paper band as closed loop, soft studio side light, paper tooth and fiber, quiet craft still | `no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind` |
+| **Natural-history specimen drawer still** | Cream wood museum drawer, felt-lined cells with unique eggs and small bird forms as discrete cases, closed brass type-loop medallion set aside, archival raking light | `exceptionality-perception-and-the-self-limiting-field-of-problems` |
 
 ## Inventory (by slug)
 
@@ -133,6 +134,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `curiosity-first-the-hidden-engine-of-talent-and-development` | Dendrochronology / polished tree-ring section |
 | `data-is-local-intelligence-is-allocated` | Terrazzo / polished aggregate still |
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
+| `exceptionality-perception-and-the-self-limiting-field-of-problems` | Natural-history specimen drawer still |
 | `empowerment-establishes-the-centralization-of-power` | Sealing-wax / official seal still |
 | `escaping-the-sandbox-stays-inside-the-hold` | Persian miniature illumination |
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |

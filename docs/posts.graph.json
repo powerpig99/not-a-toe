@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-07-31T08:15:05.981Z",
+    "generated_at": "2026-08-01T09:16:27.237Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -19,8 +19,8 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/causality-all-the-way.md": "fc3950d8ebcd",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "abf062a4d24e",
+      "content/posts/causality-all-the-way.md": "56eee1834f0d",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "aa75b80885ea",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "65c9e56821ca",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -33,20 +33,21 @@
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "f487b012280e",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
-      "content/posts/data-is-local-intelligence-is-allocated.md": "5371ac004403",
+      "content/posts/data-is-local-intelligence-is-allocated.md": "58cecf3ef520",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "3171103c1027",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
-      "content/posts/empowerment-establishes-the-centralization-of-power.md": "aa79d573ee15",
+      "content/posts/empowerment-establishes-the-centralization-of-power.md": "1c1ae09181d4",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
       "content/posts/evil-as-the-minds-own-creation.md": "aad0e6a4db66",
+      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "2cbe23017a5b",
       "content/posts/expertise-as-reference-not-replacement.md": "22a4549fe3d7",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
-      "content/posts/externalized-virtue-becomes-its-opposite.md": "bd1442a6e4e0",
+      "content/posts/externalized-virtue-becomes-its-opposite.md": "9a07ea1e2c76",
       "content/posts/fate-loves-irony-refined.md": "55f2935f273b",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
@@ -54,14 +55,14 @@
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
-      "content/posts/having-more-is-never-the-cause.md": "b918f986fefe",
-      "content/posts/help-is-half-the-problem.md": "ab76bdb2d800",
-      "content/posts/hierarchy-from-individual-difference.md": "b77a3a14ede5",
+      "content/posts/having-more-is-never-the-cause.md": "29aade51bd7f",
+      "content/posts/help-is-half-the-problem.md": "20ca31d0f720",
+      "content/posts/hierarchy-from-individual-difference.md": "62d285cd6cd9",
       "content/posts/how-belief-actually-changes.md": "748632dd4a69",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "701cd51a25ae",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "12a5be35fe18",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "145d0055cc20",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -90,9 +91,9 @@
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "f54d04212765",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/preference-clusters-and-the-language-of-judgment.md": "ce85a37193e1",
+      "content/posts/preference-clusters-and-the-language-of-judgment.md": "fbb71d791108",
       "content/posts/price-as-utterance-understanding-as-trade.md": "27e4f99f9d21",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "079bb7fa6e7c",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "f23f3dd2e8e4",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "272fc1803662",
@@ -102,18 +103,18 @@
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/self-rl-for-humans.md": "31d0f27b2e38",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
-      "content/posts/shared-humanity-is-never-shared.md": "2d762eff0fb0",
+      "content/posts/shared-humanity-is-never-shared.md": "39a0f304e9d8",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "efb1f37d5e45",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "00f89477cbc9",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "aefccbe5db3d",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "f19f006be30b",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "92478c2d002c",
       "content/posts/the-brain-does-not-backprop.md": "90ccd4619ab1",
-      "content/posts/the-climate-problem-registers-only-as-perception.md": "93350a2b9274",
+      "content/posts/the-climate-problem-registers-only-as-perception.md": "66261ee03e5c",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "401e128e06ad",
-      "content/posts/the-coordinators-category-error.md": "077dd554bf40",
+      "content/posts/the-coordinators-category-error.md": "21d15783bc0f",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-fixed-image-of-transcendence.md": "b9b513bc7cee",
@@ -129,8 +130,8 @@
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
       "content/posts/the-model-never-becomes-a-second-edge.md": "c5afca757d25",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
-      "content/posts/the-npc-impression-is-structural.md": "38727198369a",
-      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "125b5e29766b",
+      "content/posts/the-npc-impression-is-structural.md": "18a80725d410",
+      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "6c7c7eff2d9b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "02969233f4f4",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "5557821c7272",
       "content/posts/the-question-that-installs-the-war.md": "e3ed17b91d6f",
@@ -142,7 +143,7 @@
       "content/posts/the-scaffolding-that-keeps-growing.md": "09624418241e",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "663e9819b021",
       "content/posts/the-scaffolding-we-forget.md": "95238f61188d",
-      "content/posts/the-source-of-shared-change.md": "bc956b43157d",
+      "content/posts/the-source-of-shared-change.md": "2539ee37124b",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "195e4f50cddb",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
@@ -160,7 +161,7 @@
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "2d5ae672adc8",
       "content/posts/when-observation-becomes-performance.md": "0e24a0d18fe4",
-      "content/posts/when-the-effect-authors-the-frame.md": "62095b25a6ac",
+      "content/posts/when-the-effect-authors-the-frame.md": "2ff178520237",
       "content/posts/why-explanation-fails.md": "b6c6dc19048e",
       "content/posts/why-mathematics-can-never-be-solved.md": "b9cdc4ec4a5e",
       "content/posts/writing-without-the-image.md": "77678ec5448a",
@@ -168,13 +169,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 158,
-      "edges": 1002,
-      "unique_directed": 992,
+      "posts": 159,
+      "edges": 1042,
+      "unique_directed": 1032,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 98
+      "posts_with_outbound": 99
     }
   },
   "hubs_in": [
@@ -211,24 +212,32 @@
       "in_degree": 21
     },
     {
+      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "in_degree": 20
+    },
+    {
       "slug": "the-scaffolding-we-forget",
       "in_degree": 20
+    },
+    {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "in_degree": 19
+    },
+    {
+      "slug": "the-source-of-shared-change",
+      "in_degree": 19
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 18
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 18
-    },
-    {
-      "slug": "the-source-of-shared-change",
-      "in_degree": 18
-    },
-    {
       "slug": "preference-clusters-and-the-language-of-judgment",
-      "in_degree": 17
+      "in_degree": 18
+    },
+    {
+      "slug": "hierarchy-from-individual-difference",
+      "in_degree": 16
     },
     {
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -247,15 +256,7 @@
       "in_degree": 15
     },
     {
-      "slug": "hierarchy-from-individual-difference",
-      "in_degree": 15
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 15
-    },
-    {
-      "slug": "ownership-and-self-worthiness",
+      "slug": "externalized-virtue-becomes-its-opposite",
       "in_degree": 15
     }
   ],
@@ -266,7 +267,11 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 21
+      "out_degree": 22
+    },
+    {
+      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "out_degree": 20
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -281,7 +286,19 @@
       "out_degree": 19
     },
     {
+      "slug": "the-source-of-shared-change",
+      "out_degree": 19
+    },
+    {
       "slug": "mistaking-the-expression-for-the-intelligence",
+      "out_degree": 18
+    },
+    {
+      "slug": "preference-clusters-and-the-language-of-judgment",
+      "out_degree": 18
+    },
+    {
+      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 18
     },
     {
@@ -289,20 +306,12 @@
       "out_degree": 18
     },
     {
-      "slug": "the-source-of-shared-change",
-      "out_degree": 18
-    },
-    {
-      "slug": "preference-clusters-and-the-language-of-judgment",
-      "out_degree": 17
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "out_degree": 17
-    },
-    {
       "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 17
+    },
+    {
+      "slug": "hierarchy-from-individual-difference",
+      "out_degree": 16
     },
     {
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -325,19 +334,11 @@
       "out_degree": 16
     },
     {
-      "slug": "hierarchy-from-individual-difference",
+      "slug": "externalized-virtue-becomes-its-opposite",
       "out_degree": 15
     },
     {
-      "slug": "the-reality-distortion-field-names-the-closed-map",
-      "out_degree": 15
-    },
-    {
-      "slug": "what-always-listens-cannot-originate",
-      "out_degree": 15
-    },
-    {
-      "slug": "what-works-is-the-belief",
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 15
     }
   ],
@@ -570,14 +571,15 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "fc3950d8ebcd",
-      "in_degree": 9,
-      "out_degree": 13,
+      "hash": "56eee1834f0d",
+      "in_degree": 10,
+      "out_degree": 14,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "performative-hindsight-that-pretends-to-be-foresight",
         "causality-stays-at-the-edge-that-steers",
         "the-allocation-of-causal-power-in-validation",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "what-works-is-the-belief",
         "how-belief-actually-changes",
         "price-as-utterance-understanding-as-trade",
@@ -595,9 +597,9 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
-      "hash": "abf062a4d24e",
-      "in_degree": 12,
-      "out_degree": 11,
+      "hash": "aa75b80885ea",
+      "in_degree": 13,
+      "out_degree": 12,
       "links_out": [
         "what-always-listens-cannot-originate",
         "intelligence-belongs-only-to-the-mind",
@@ -609,6 +611,7 @@
         "the-model-never-becomes-a-second-edge",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "the-ramble-within-the-ramble",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
@@ -814,12 +817,13 @@
       "slug": "data-is-local-intelligence-is-allocated",
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
       "title": "Data Is Local; Intelligence Is Allocated",
-      "hash": "5371ac004403",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "58cecf3ef520",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
         "hierarchy-from-individual-difference",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "self-rl-for-humans",
         "intelligence-belongs-only-to-the-mind",
@@ -890,9 +894,9 @@
       "slug": "empowerment-establishes-the-centralization-of-power",
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
       "title": "Empowerment Establishes the Centralization of Power",
-      "hash": "aa79d573ee15",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "1c1ae09181d4",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "externalized-virtue-becomes-its-opposite",
@@ -903,7 +907,8 @@
         "whatever-is-one-prompt-away",
         "having-more-is-never-the-cause",
         "hierarchy-from-individual-difference",
-        "the-source-of-shared-change"
+        "the-source-of-shared-change",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems"
       ]
     },
     {
@@ -977,6 +982,38 @@
       ]
     },
     {
+      "id": "post:exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "kind": "post",
+      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "path": "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md",
+      "title": "Exceptionality, Perception, and the Self-Limiting Field of Problems",
+      "hash": "2cbe23017a5b",
+      "in_degree": 20,
+      "out_degree": 20,
+      "links_out": [
+        "causality-all-the-way",
+        "causality-stays-at-the-edge-that-steers",
+        "individual-choices-as-the-only-causal-levers",
+        "sovereignty-belief-and-regulatory-structures",
+        "the-paradoxical-nature-of-bystander-insights",
+        "hierarchy-from-individual-difference",
+        "shared-humanity-is-never-shared",
+        "the-source-of-shared-change",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "help-is-half-the-problem",
+        "when-the-effect-authors-the-frame",
+        "externalized-virtue-becomes-its-opposite",
+        "empowerment-establishes-the-centralization-of-power",
+        "preference-clusters-and-the-language-of-judgment",
+        "the-climate-problem-registers-only-as-perception",
+        "data-is-local-intelligence-is-allocated",
+        "the-coordinators-category-error",
+        "having-more-is-never-the-cause",
+        "production-consumption-and-the-minds-distinction",
+        "the-npc-impression-is-structural"
+      ]
+    },
+    {
       "id": "post:expertise-as-reference-not-replacement",
       "kind": "post",
       "slug": "expertise-as-reference-not-replacement",
@@ -1028,9 +1065,9 @@
       "slug": "externalized-virtue-becomes-its-opposite",
       "path": "content/posts/externalized-virtue-becomes-its-opposite.md",
       "title": "Externalized Virtue Becomes Its Opposite",
-      "hash": "bd1442a6e4e0",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "9a07ea1e2c76",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -1040,6 +1077,7 @@
         "how-belief-actually-changes",
         "preference-clusters-and-the-language-of-judgment",
         "the-question-that-installs-the-war",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "sovereignty-belief-and-regulatory-structures",
         "the-risk-is-the-belief-in-oversight-itself",
         "hierarchy-from-individual-difference",
@@ -1141,15 +1179,16 @@
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
-      "hash": "b918f986fefe",
-      "in_degree": 8,
-      "out_degree": 10,
+      "hash": "29aade51bd7f",
+      "in_degree": 9,
+      "out_degree": 11,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
         "individual-choices-as-the-only-causal-levers",
         "empowerment-establishes-the-centralization-of-power",
         "the-allocation-of-causal-power-in-validation",
         "price-as-utterance-understanding-as-trade",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "hierarchy-from-individual-difference",
         "two-failures-of-trace",
         "ownership-and-self-worthiness",
@@ -1163,11 +1202,12 @@
       "slug": "help-is-half-the-problem",
       "path": "content/posts/help-is-half-the-problem.md",
       "title": "Help Is Half the Problem",
-      "hash": "ab76bdb2d800",
-      "in_degree": 4,
-      "out_degree": 2,
+      "hash": "20ca31d0f720",
+      "in_degree": 5,
+      "out_degree": 3,
       "links_out": [
         "therapy-opens-the-feedback-loop",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "when-the-effect-authors-the-frame"
       ]
     },
@@ -1177,14 +1217,15 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "Hierarchy from Individual Difference",
-      "hash": "b77a3a14ede5",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "62d285cd6cd9",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "having-more-is-never-the-cause",
         "the-frame-that-conceals-improvement",
         "externalized-virtue-becomes-its-opposite",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "individual-choices-as-the-only-causal-levers",
         "empowerment-establishes-the-centralization-of-power",
         "evil-as-the-minds-own-creation",
@@ -1261,9 +1302,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "701cd51a25ae",
-      "in_degree": 18,
-      "out_degree": 21,
+      "hash": "12a5be35fe18",
+      "in_degree": 19,
+      "out_degree": 22,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1278,6 +1319,7 @@
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
         "the-coordinators-category-error",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "empowerment-establishes-the-centralization-of-power",
         "externalized-virtue-becomes-its-opposite",
         "hierarchy-from-individual-difference",
@@ -1805,15 +1847,16 @@
       "slug": "preference-clusters-and-the-language-of-judgment",
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
       "title": "Preference Clusters and the Language of Judgment",
-      "hash": "ce85a37193e1",
-      "in_degree": 17,
-      "out_degree": 17,
+      "hash": "fbb71d791108",
+      "in_degree": 18,
+      "out_degree": 18,
       "links_out": [
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
         "hierarchy-from-individual-difference",
         "evil-as-the-minds-own-creation",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-allocation-of-causal-power-in-validation",
         "restriction-is-a-selective-tax",
         "what-works-is-the-belief",
@@ -1855,9 +1898,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "079bb7fa6e7c",
-      "in_degree": 12,
-      "out_degree": 17,
+      "hash": "f23f3dd2e8e4",
+      "in_degree": 13,
+      "out_degree": 18,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1870,6 +1913,7 @@
         "fate-loves-irony-refined",
         "individual-choices-as-the-only-causal-levers",
         "self-rl-for-humans",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "data-is-local-intelligence-is-allocated",
         "clarity-isnt-a-state-you-arrive-at",
         "the-paradoxical-nature-of-bystander-insights",
@@ -2028,9 +2072,9 @@
       "slug": "shared-humanity-is-never-shared",
       "path": "content/posts/shared-humanity-is-never-shared.md",
       "title": "Shared Humanity Is Never Shared",
-      "hash": "2d762eff0fb0",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "39a0f304e9d8",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "the-source-of-shared-change",
@@ -2039,7 +2083,8 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "individual-choices-as-the-only-causal-levers",
         "sovereignty-belief-and-regulatory-structures",
-        "externalized-virtue-becomes-its-opposite"
+        "externalized-virtue-becomes-its-opposite",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems"
       ]
     },
     {
@@ -2059,11 +2104,12 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "efb1f37d5e45",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "00f89477cbc9",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "hassabis-frontier-agi-premise",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "empowerment-establishes-the-centralization-of-power",
         "recursive-contradiction-of-entrusted-morality",
         "the-risk-you-delegate-is-the-risk-you-create",
@@ -2111,14 +2157,15 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "aefccbe5db3d",
-      "in_degree": 8,
-      "out_degree": 14,
+      "hash": "f19f006be30b",
+      "in_degree": 9,
+      "out_degree": 15,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "individual-choices-as-the-only-causal-levers",
         "the-allocation-of-causal-power-in-validation",
         "hierarchy-from-individual-difference",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "production-consumption-and-the-minds-distinction",
         "performative-hindsight-that-pretends-to-be-foresight",
         "what-always-listens-cannot-originate",
@@ -2207,11 +2254,12 @@
       "slug": "the-climate-problem-registers-only-as-perception",
       "path": "content/posts/the-climate-problem-registers-only-as-perception.md",
       "title": "The Climate Problem Registers Only as Perception",
-      "hash": "93350a2b9274",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "66261ee03e5c",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "causality-all-the-way",
         "closed-reality-in-benchmark-maxing",
         "no-system-can-be-kept-closed",
@@ -2251,9 +2299,9 @@
       "slug": "the-coordinators-category-error",
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "The Coordinator’s Category Error",
-      "hash": "077dd554bf40",
-      "in_degree": 8,
-      "out_degree": 11,
+      "hash": "21d15783bc0f",
+      "in_degree": 9,
+      "out_degree": 12,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
@@ -2261,6 +2309,7 @@
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
         "price-as-utterance-understanding-as-trade",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-npc-impression-is-structural",
         "help-is-half-the-problem",
         "the-compassion-is-the-mechanism-of-obscuration",
@@ -2515,14 +2564,15 @@
       "slug": "the-npc-impression-is-structural",
       "path": "content/posts/the-npc-impression-is-structural.md",
       "title": "The NPC Impression Is Structural, Not a Ranking of Minds",
-      "hash": "38727198369a",
-      "in_degree": 3,
-      "out_degree": 8,
+      "hash": "18a80725d410",
+      "in_degree": 4,
+      "out_degree": 9,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "intelligence-belongs-only-to-the-mind",
         "the-coordinators-category-error",
         "hierarchy-from-individual-difference",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-question-that-installs-the-war",
         "the-path-drawn-one-step-at-a-time",
         "clarity-isnt-a-state-you-arrive-at",
@@ -2535,9 +2585,9 @@
       "slug": "the-paradoxical-nature-of-bystander-insights",
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
       "title": "The Paradoxical Nature of Bystander Insights",
-      "hash": "125b5e29766b",
-      "in_degree": 7,
-      "out_degree": 14,
+      "hash": "6c7c7eff2d9b",
+      "in_degree": 8,
+      "out_degree": 15,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "two-failures-of-trace",
@@ -2552,7 +2602,8 @@
         "causality-all-the-way",
         "the-scaffolding-we-forget",
         "when-observation-becomes-performance",
-        "the-source-of-shared-change"
+        "the-source-of-shared-change",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems"
       ]
     },
     {
@@ -2803,9 +2854,9 @@
       "slug": "the-source-of-shared-change",
       "path": "content/posts/the-source-of-shared-change.md",
       "title": "The Source of Shared Change",
-      "hash": "bc956b43157d",
-      "in_degree": 18,
-      "out_degree": 18,
+      "hash": "2539ee37124b",
+      "in_degree": 19,
+      "out_degree": 19,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -2814,6 +2865,7 @@
         "individual-choices-as-the-only-causal-levers",
         "price-as-utterance-understanding-as-trade",
         "shared-humanity-is-never-shared",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "empowerment-establishes-the-centralization-of-power",
         "the-path-drawn-one-step-at-a-time",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -3111,9 +3163,9 @@
       "slug": "when-the-effect-authors-the-frame",
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "When the Effect Authors the Frame",
-      "hash": "62095b25a6ac",
-      "in_degree": 5,
-      "out_degree": 8,
+      "hash": "2ff178520237",
+      "in_degree": 6,
+      "out_degree": 9,
       "links_out": [
         "emotional-support-as-causal-interference",
         "when-need-stops-being-the-measure",
@@ -3122,7 +3174,8 @@
         "the-compassion-is-the-mechanism-of-obscuration",
         "therapy-opens-the-feedback-loop",
         "how-belief-actually-changes",
-        "symptom-and-cause-in-the-narratives-of-progress"
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems"
       ]
     },
     {
@@ -3569,6 +3622,12 @@
     },
     {
       "from": "causality-all-the-way",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "causality-all-the-way",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
       "label": "What works is the belief"
@@ -3680,6 +3739,12 @@
       "to": "the-ramble-within-the-ramble",
       "rel": "points_to",
       "label": "The ramble within the ramble"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -4061,6 +4126,12 @@
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity obscures emergence as the act of Mind"
@@ -4210,6 +4281,12 @@
       "label": "The source of shared change"
     },
     {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
@@ -4354,6 +4431,126 @@
       "label": "Preference clusters and the language of judgment"
     },
     {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The paradoxical nature of bystander insights"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared humanity is never shared"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The source of shared change"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help is half the problem"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the effect authors the frame"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment establishes the centralization of power"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-climate-problem-registers-only-as-perception",
+      "rel": "points_to",
+      "label": "The climate problem registers only as perception"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC impression is structural"
+    },
+    {
       "from": "expertise-as-reference-not-replacement",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
@@ -4475,6 +4672,12 @@
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, belief, and the generation of regulatory structures"
@@ -4589,6 +4792,12 @@
     },
     {
       "from": "having-more-is-never-the-cause",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from individual difference"
@@ -4625,6 +4834,12 @@
     },
     {
       "from": "help-is-half-the-problem",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "help-is-half-the-problem",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
       "label": "When the effect authors the frame"
@@ -4652,6 +4867,12 @@
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
       "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
       "from": "hierarchy-from-individual-difference",
@@ -4868,6 +5089,12 @@
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The coordinator’s category error"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -6107,6 +6334,12 @@
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
       "label": "The allocation of causal power in validation"
@@ -6296,6 +6529,12 @@
       "to": "self-rl-for-humans",
       "rel": "points_to",
       "label": "Self-RL for humans"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
@@ -6622,10 +6861,22 @@
       "label": "Externalized virtue becomes its opposite"
     },
     {
+      "from": "shared-humanity-is-never-shared",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
       "from": "sovereignty-belief-and-regulatory-structures",
       "to": "hassabis-frontier-agi-premise",
       "rel": "points_to",
       "label": "The catalog that isn’t there"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -6746,6 +6997,12 @@
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
@@ -6875,6 +7132,12 @@
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "Causality all the way"
@@ -6962,6 +7225,12 @@
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
       "label": "Price as utterance, understanding as trade"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
       "from": "the-coordinators-category-error",
@@ -7433,6 +7702,12 @@
     },
     {
       "from": "the-npc-impression-is-structural",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
       "label": "the question that installs the war"
@@ -7538,6 +7813,12 @@
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The source of shared change"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -8246,6 +8527,12 @@
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
       "label": "Shared humanity is never shared"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
       "from": "the-source-of-shared-change",
@@ -9068,6 +9355,12 @@
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
       "from": "why-explanation-fails",
