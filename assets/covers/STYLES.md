@@ -116,6 +116,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Natural-history specimen drawer still** | Cream wood museum drawer, felt-lined cells with unique eggs and small bird forms as discrete cases, closed brass type-loop medallion set aside, archival raking light | `exceptionality-perception-and-the-self-limiting-field-of-problems` |
 | **Porcelain mold / residual clay still** | Cream linen craft table, blank white porcelain mold as uniform template, wet clay mid-press into the mold, free hand-thrown vessels of divergent silhouettes aside, cool museum side light, clay tooth and glaze sheen | `the-belief-in-utopia-is-the-path-to-dystopia` |
 | **Workshop pegboard still** | Cream pegboard wall, empty hooks in sequence with mid-row tools temporarily hung, soft raking workshop light, documentary craft grain | `the-utility-men-of-progress` |
+| **Lost-wax investment casting still** | Cream linen craft table, cracked ceramic shell shards as abundant residue, empty mold cavity, thin bronze pour trail already off-frame, cool museum side light | `the-illusion-of-free-intelligence` |
 
 ## Inventory (by slug)
 
@@ -151,6 +152,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `humans-tokens-and-the-scope-of-valuation` | Oil split composition |
 | `individual-choices-as-the-only-causal-levers` | Soft clay / stop-motion puppet still |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |
+| `the-illusion-of-free-intelligence` | Lost-wax investment casting still |
 | `looping-and-graphing` | Technical blueprint / diazo |
 | `lossless-knowledge-of-an-open-field-is-incoherent` | Cloisonné / enamel medallion |
 | `mei-you-pu-du-zhi-you-zi-du` | Dark chalk / light trails |
