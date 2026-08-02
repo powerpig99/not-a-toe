@@ -115,6 +115,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Möbius paper sculpture still** | Seamless warm ivory tabletop, single continuous twisted cream cotton-paper band as closed loop, soft studio side light, paper tooth and fiber, quiet craft still | `no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind` |
 | **Natural-history specimen drawer still** | Cream wood museum drawer, felt-lined cells with unique eggs and small bird forms as discrete cases, closed brass type-loop medallion set aside, archival raking light | `exceptionality-perception-and-the-self-limiting-field-of-problems` |
 | **Porcelain mold / residual clay still** | Cream linen craft table, blank white porcelain mold as uniform template, wet clay mid-press into the mold, free hand-thrown vessels of divergent silhouettes aside, cool museum side light, clay tooth and glaze sheen | `the-belief-in-utopia-is-the-path-to-dystopia` |
+| **Workshop pegboard still** | Cream pegboard wall, empty hooks in sequence with mid-row tools temporarily hung, soft raking workshop light, documentary craft grain | `the-utility-men-of-progress` |
 
 ## Inventory (by slug)
 
@@ -195,6 +196,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
 | `the-source-of-shared-change` | Monotype ghost-print still life |
 | `the-strongest-belief-of-the-mind` | Palimpsest vellum / multi-ink redraw |
+| `the-utility-men-of-progress` | Workshop pegboard still |
 | `therapy-opens-the-feedback-loop` | Sandblasted glass etching |
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
