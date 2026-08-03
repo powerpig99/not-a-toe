@@ -117,6 +117,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Porcelain mold / residual clay still** | Cream linen craft table, blank white porcelain mold as uniform template, wet clay mid-press into the mold, free hand-thrown vessels of divergent silhouettes aside, cool museum side light, clay tooth and glaze sheen | `the-belief-in-utopia-is-the-path-to-dystopia` |
 | **Workshop pegboard still** | Cream pegboard wall, empty hooks in sequence with mid-row tools temporarily hung, soft raking workshop light, documentary craft grain | `the-utility-men-of-progress` |
 | **Lost-wax investment casting still** | Cream linen craft table, cracked ceramic shell shards as abundant residue, empty mold cavity, thin bronze pour trail already off-frame, cool museum side light | `the-illusion-of-free-intelligence` |
+| **Trompe-l’oeil recursive frame still** | Cream museum wall, gilt outer frame holding a gallery scene that itself holds the same framed scene nested smaller, oil trompe-l’oeil depth, raking light, canvas weave | `self-image-speaks-as-if-from-nowhere` |
 
 ## Inventory (by slug)
 
@@ -170,6 +171,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `reality-is-the-minds-ongoing-realization` | Comic halftone / Ben-Day dots |
 | `restriction-is-a-selective-tax` | Bokashi woodblock / graded indigo print |
 | `self-rl-for-humans` | Dark chalk / light trails |
+| `self-image-speaks-as-if-from-nowhere` | Trompe-l’oeil recursive frame still |
 | `shared-humanity-is-never-shared` | Phenakistoscope / stopped zoetrope still |
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
 | `symptom-and-cause-in-the-narratives-of-progress` | Chart-recorder / oscillograph strip |

@@ -3,24 +3,24 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-02T15:22:03.892Z",
+    "generated_at": "2026-08-03T06:40:39.926Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
-      "content/posts/a-creation-cannot-replace-its-source.md": "b20748f9103b",
+      "content/posts/a-creation-cannot-replace-its-source.md": "17ac27a4dfed",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "c948c0a4e8d6",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "73153b5f2ff5",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "1e9c94ff8764",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "48537bfd9dcf",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/causality-all-the-way.md": "56eee1834f0d",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "e421797735cb",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "5ccc2903b1a8",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "65c9e56821ca",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -33,7 +33,7 @@
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "f487b012280e",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
-      "content/posts/data-is-local-intelligence-is-allocated.md": "34e21872bb25",
+      "content/posts/data-is-local-intelligence-is-allocated.md": "967829af2954",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "3171103c1027",
@@ -42,7 +42,7 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
-      "content/posts/evil-as-the-minds-own-creation.md": "14ab67458101",
+      "content/posts/evil-as-the-minds-own-creation.md": "b176bcd5ee63",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "17968458e979",
       "content/posts/expertise-as-reference-not-replacement.md": "22a4549fe3d7",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
@@ -57,13 +57,13 @@
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
       "content/posts/having-more-is-never-the-cause.md": "9b156d789627",
       "content/posts/help-is-half-the-problem.md": "20ca31d0f720",
-      "content/posts/hierarchy-from-individual-difference.md": "93a74dd0464b",
+      "content/posts/hierarchy-from-individual-difference.md": "6be06922deed",
       "content/posts/how-belief-actually-changes.md": "748632dd4a69",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "efd0cb59b1c0",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "0b69deb55d84",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "262d15800b78",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/looping-and-graphing.md": "ade0630eb08a",
@@ -72,11 +72,11 @@
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "fb1d6fda8b2d",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "c967c751ba59",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "1c3fc3d38ff8",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
-      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "8d80d1c91398",
+      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "0a29300d5e3e",
       "content/posts/no-system-can-be-kept-closed.md": "d8f73ac8a826",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
@@ -101,9 +101,10 @@
       "content/posts/restriction-is-a-selective-tax.md": "8bcfeb0c7ebe",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
+      "content/posts/self-image-speaks-as-if-from-nowhere.md": "08c9e2ee3199",
       "content/posts/self-rl-for-humans.md": "030928421839",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
-      "content/posts/shared-humanity-is-never-shared.md": "64463e160712",
+      "content/posts/shared-humanity-is-never-shared.md": "28ba97fc14d2",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "39828de5b43b",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
@@ -118,11 +119,11 @@
       "content/posts/the-coordinators-category-error.md": "21d15783bc0f",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
-      "content/posts/the-fixed-image-of-transcendence.md": "bc67f738765a",
+      "content/posts/the-fixed-image-of-transcendence.md": "ebf44e2e9959",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "ce58e971860a",
       "content/posts/the-flywheel-of-the-mind.md": "56f2d9dba432",
       "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
-      "content/posts/the-illusion-of-free-intelligence.md": "f6c0a937f4f2",
+      "content/posts/the-illusion-of-free-intelligence.md": "3a32d8163c98",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-limitation-is-doing-work.md": "ebff2fbf2a2e",
       "content/posts/the-living-context.md": "802b03eb6a18",
@@ -130,12 +131,12 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "818369f9357a",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "33bc032b79d9",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
-      "content/posts/the-npc-impression-is-structural.md": "18a80725d410",
+      "content/posts/the-npc-impression-is-structural.md": "4138fd2688b2",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "6c7c7eff2d9b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "02969233f4f4",
-      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "5557821c7272",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "5fd9107ff8c8",
       "content/posts/the-question-that-installs-the-war.md": "a1f2eee52b47",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
@@ -167,24 +168,24 @@
       "content/posts/when-the-effect-authors-the-frame.md": "2ff178520237",
       "content/posts/why-explanation-fails.md": "b6c6dc19048e",
       "content/posts/why-mathematics-can-never-be-solved.md": "0b8192c1934d",
-      "content/posts/writing-without-the-image.md": "77678ec5448a",
+      "content/posts/writing-without-the-image.md": "9009b34790ea",
       "content/posts/you-cant-benchmark-the-fluid.md": "730e5564e3a4",
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 162,
-      "edges": 1136,
-      "unique_directed": 1126,
+      "posts": 163,
+      "edges": 1169,
+      "unique_directed": 1158,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 102
+      "posts_with_outbound": 103
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 37
+      "in_degree": 38
     },
     {
       "slug": "openness-is-consistency",
@@ -231,12 +232,12 @@
       "in_degree": 21
     },
     {
-      "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "slug": "hierarchy-from-individual-difference",
       "in_degree": 20
     },
     {
-      "slug": "hierarchy-from-individual-difference",
-      "in_degree": 19
+      "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "in_degree": 20
     },
     {
       "slug": "preference-clusters-and-the-language-of-judgment",
@@ -252,15 +253,15 @@
     },
     {
       "slug": "the-illusion-of-free-intelligence",
+      "in_degree": 18
+    },
+    {
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 17
     },
     {
-      "slug": "two-failures-of-trace",
+      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "in_degree": 17
-    },
-    {
-      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
-      "in_degree": 16
     }
   ],
   "hubs_out": [
@@ -281,27 +282,27 @@
       "out_degree": 21
     },
     {
+      "slug": "the-model-never-becomes-a-second-edge",
+      "out_degree": 21
+    },
+    {
       "slug": "the-source-of-shared-change",
       "out_degree": 21
+    },
+    {
+      "slug": "hierarchy-from-individual-difference",
+      "out_degree": 20
+    },
+    {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "out_degree": 20
     },
     {
       "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
       "out_degree": 20
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
-      "out_degree": 20
-    },
-    {
       "slug": "closed-reality-in-benchmark-maxing",
-      "out_degree": 19
-    },
-    {
-      "slug": "hierarchy-from-individual-difference",
-      "out_degree": 19
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
       "out_degree": 19
     },
     {
@@ -314,7 +315,15 @@
     },
     {
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
+      "out_degree": 19
+    },
+    {
+      "slug": "the-illusion-of-free-intelligence",
       "out_degree": 18
+    },
+    {
+      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "out_degree": 17
     },
     {
       "slug": "openness-is-consistency",
@@ -322,10 +331,6 @@
     },
     {
       "slug": "reality-is-the-minds-ongoing-realization",
-      "out_degree": 17
-    },
-    {
-      "slug": "the-illusion-of-free-intelligence",
       "out_degree": 17
     },
     {
@@ -337,11 +342,7 @@
       "out_degree": 17
     },
     {
-      "slug": "externalized-virtue-becomes-its-opposite",
-      "out_degree": 16
-    },
-    {
-      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "slug": "a-creation-cannot-replace-its-source",
       "out_degree": 16
     }
   ],
@@ -393,9 +394,9 @@
       "slug": "a-creation-cannot-replace-its-source",
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
-      "hash": "b20748f9103b",
-      "in_degree": 11,
-      "out_degree": 15,
+      "hash": "17ac27a4dfed",
+      "in_degree": 12,
+      "out_degree": 16,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -411,7 +412,8 @@
         "the-presumption-of-agi-and-the-view-from-outside",
         "the-flight-analogy-leaves-the-mind-untouched",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-        "the-illusion-of-free-intelligence"
+        "the-illusion-of-free-intelligence",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -482,9 +484,9 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
-      "hash": "73153b5f2ff5",
-      "in_degree": 13,
-      "out_degree": 14,
+      "hash": "1e9c94ff8764",
+      "in_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -499,7 +501,8 @@
         "the-fixed-image-of-transcendence",
         "the-presumption-of-agi-and-the-view-from-outside",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-        "the-illusion-of-free-intelligence"
+        "the-illusion-of-free-intelligence",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -602,9 +605,9 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
-      "hash": "e421797735cb",
-      "in_degree": 14,
-      "out_degree": 13,
+      "hash": "5ccc2903b1a8",
+      "in_degree": 15,
+      "out_degree": 14,
       "links_out": [
         "what-always-listens-cannot-originate",
         "intelligence-belongs-only-to-the-mind",
@@ -618,7 +621,8 @@
         "the-ramble-within-the-ramble",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-presumption-of-agi-and-the-view-from-outside",
-        "the-illusion-of-free-intelligence"
+        "the-illusion-of-free-intelligence",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -824,9 +828,9 @@
       "slug": "data-is-local-intelligence-is-allocated",
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
       "title": "Data Is Local; Intelligence Is Allocated",
-      "hash": "34e21872bb25",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "967829af2954",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
         "hierarchy-from-individual-difference",
@@ -841,7 +845,8 @@
         "reality-is-the-minds-ongoing-realization",
         "the-strongest-belief-of-the-mind",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-        "the-illusion-of-free-intelligence"
+        "the-illusion-of-free-intelligence",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -971,10 +976,11 @@
       "slug": "evil-as-the-minds-own-creation",
       "path": "content/posts/evil-as-the-minds-own-creation.md",
       "title": "Evil as the Mind’s Own Creation",
-      "hash": "14ab67458101",
-      "in_degree": 8,
-      "out_degree": 14,
+      "hash": "b176bcd5ee63",
+      "in_degree": 9,
+      "out_degree": 15,
       "links_out": [
+        "self-image-speaks-as-if-from-nowhere",
         "the-path-drawn-one-step-at-a-time",
         "hierarchy-from-individual-difference",
         "externalized-virtue-becomes-its-opposite",
@@ -1232,9 +1238,9 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "Hierarchy from Individual Difference",
-      "hash": "93a74dd0464b",
-      "in_degree": 19,
-      "out_degree": 19,
+      "hash": "6be06922deed",
+      "in_degree": 20,
+      "out_degree": 20,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "having-more-is-never-the-cause",
@@ -1247,6 +1253,7 @@
         "evil-as-the-minds-own-creation",
         "restriction-is-a-selective-tax",
         "the-npc-impression-is-structural",
+        "self-image-speaks-as-if-from-nowhere",
         "ownership-and-self-worthiness",
         "the-fixed-image-of-transcendence",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -1357,9 +1364,9 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "0b69deb55d84",
-      "in_degree": 37,
-      "out_degree": 10,
+      "hash": "262d15800b78",
+      "in_degree": 38,
+      "out_degree": 11,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
@@ -1370,7 +1377,8 @@
         "the-presumption-of-agi-and-the-view-from-outside",
         "the-flight-analogy-leaves-the-mind-untouched",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-        "the-illusion-of-free-intelligence"
+        "the-illusion-of-free-intelligence",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -1506,9 +1514,9 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
-      "hash": "c967c751ba59",
-      "in_degree": 16,
-      "out_degree": 19,
+      "hash": "1c3fc3d38ff8",
+      "in_degree": 17,
+      "out_degree": 20,
       "links_out": [
         "two-failures-of-trace",
         "the-flight-analogy-leaves-the-mind-untouched",
@@ -1528,7 +1536,8 @@
         "ontos-is-a-method-agent",
         "the-risk-is-the-belief-in-oversight-itself",
         "the-presumption-of-agi-and-the-view-from-outside",
-        "the-illusion-of-free-intelligence"
+        "the-illusion-of-free-intelligence",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -1570,9 +1579,9 @@
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind",
-      "hash": "8d80d1c91398",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "0a29300d5e3e",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "what-always-listens-cannot-originate",
@@ -1589,7 +1598,8 @@
         "the-strongest-belief-of-the-mind",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "the-fixed-image-of-transcendence",
-        "agi-and-asi-are-temporary-goalposts"
+        "agi-and-asi-are-temporary-goalposts",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -2075,6 +2085,34 @@
       "links_out": []
     },
     {
+      "id": "post:self-image-speaks-as-if-from-nowhere",
+      "kind": "post",
+      "slug": "self-image-speaks-as-if-from-nowhere",
+      "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
+      "title": "Self-Image Speaks as if from Nowhere",
+      "hash": "08c9e2ee3199",
+      "in_degree": 16,
+      "out_degree": 16,
+      "links_out": [
+        "writing-without-the-image",
+        "evil-as-the-minds-own-creation",
+        "causality-stays-at-the-edge-that-steers",
+        "the-model-never-becomes-a-second-edge",
+        "intelligence-belongs-only-to-the-mind",
+        "agi-and-asi-are-temporary-goalposts",
+        "the-fixed-image-of-transcendence",
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "the-npc-impression-is-structural",
+        "hierarchy-from-individual-difference",
+        "shared-humanity-is-never-shared",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "the-illusion-of-free-intelligence",
+        "data-is-local-intelligence-is-allocated",
+        "mistaking-the-expression-for-the-intelligence",
+        "a-creation-cannot-replace-its-source"
+      ]
+    },
+    {
       "id": "post:self-rl-for-humans",
       "kind": "post",
       "slug": "self-rl-for-humans",
@@ -2106,9 +2144,9 @@
       "slug": "shared-humanity-is-never-shared",
       "path": "content/posts/shared-humanity-is-never-shared.md",
       "title": "Shared Humanity Is Never Shared",
-      "hash": "64463e160712",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "28ba97fc14d2",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "the-source-of-shared-change",
@@ -2119,7 +2157,8 @@
         "sovereignty-belief-and-regulatory-structures",
         "externalized-virtue-becomes-its-opposite",
         "the-belief-in-utopia-is-the-path-to-dystopia",
-        "exceptionality-perception-and-the-self-limiting-field-of-problems"
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -2414,9 +2453,9 @@
       "slug": "the-fixed-image-of-transcendence",
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "The Fixed Image of Transcendence",
-      "hash": "bc67f738765a",
-      "in_degree": 8,
-      "out_degree": 15,
+      "hash": "ebf44e2e9959",
+      "in_degree": 9,
+      "out_degree": 16,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "agi-and-asi-are-temporary-goalposts",
@@ -2426,6 +2465,7 @@
         "a-creation-cannot-replace-its-source",
         "the-scaffolding-that-keeps-growing",
         "escaping-the-sandbox-stays-inside-the-hold",
+        "self-image-speaks-as-if-from-nowhere",
         "closed-reality-in-benchmark-maxing",
         "no-system-can-be-kept-closed",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -2492,9 +2532,9 @@
       "slug": "the-illusion-of-free-intelligence",
       "path": "content/posts/the-illusion-of-free-intelligence.md",
       "title": "The Illusion of Free Intelligence",
-      "hash": "f6c0a937f4f2",
-      "in_degree": 17,
-      "out_degree": 17,
+      "hash": "3a32d8163c98",
+      "in_degree": 18,
+      "out_degree": 18,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "ownership-and-self-worthiness",
@@ -2512,7 +2552,8 @@
         "data-is-local-intelligence-is-allocated",
         "production-consumption-and-the-minds-distinction",
         "whatever-is-one-prompt-away",
-        "the-scaffolding-we-forget"
+        "the-scaffolding-we-forget",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -2612,9 +2653,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "818369f9357a",
-      "in_degree": 15,
-      "out_degree": 20,
+      "hash": "33bc032b79d9",
+      "in_degree": 16,
+      "out_degree": 21,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -2635,7 +2676,8 @@
         "the-fixed-image-of-transcendence",
         "the-presumption-of-agi-and-the-view-from-outside",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-        "the-illusion-of-free-intelligence"
+        "the-illusion-of-free-intelligence",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -2665,9 +2707,9 @@
       "slug": "the-npc-impression-is-structural",
       "path": "content/posts/the-npc-impression-is-structural.md",
       "title": "The NPC Impression Is Structural, Not a Ranking of Minds",
-      "hash": "18a80725d410",
-      "in_degree": 4,
-      "out_degree": 9,
+      "hash": "4138fd2688b2",
+      "in_degree": 5,
+      "out_degree": 10,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "intelligence-belongs-only-to-the-mind",
@@ -2677,6 +2719,7 @@
         "the-question-that-installs-the-war",
         "the-path-drawn-one-step-at-a-time",
         "clarity-isnt-a-state-you-arrive-at",
+        "self-image-speaks-as-if-from-nowhere",
         "sympathy-is-a-placeholder-for-lack-of-clarity"
       ]
     },
@@ -2731,9 +2774,9 @@
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "The Presumption of AGI and the View from Outside",
-      "hash": "5557821c7272",
-      "in_degree": 12,
-      "out_degree": 18,
+      "hash": "5fd9107ff8c8",
+      "in_degree": 13,
+      "out_degree": 19,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "mistaking-the-expression-for-the-intelligence",
@@ -2752,7 +2795,8 @@
         "a-creation-cannot-replace-its-source",
         "the-fixed-image-of-transcendence",
         "complexity-obscures-emergence-as-the-act-of-mind",
-        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -3357,16 +3401,17 @@
       "slug": "writing-without-the-image",
       "path": "content/posts/writing-without-the-image.md",
       "title": "Writing Without the Image",
-      "hash": "77678ec5448a",
-      "in_degree": 6,
-      "out_degree": 6,
+      "hash": "9009b34790ea",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "when-observation-becomes-performance",
         "closed-reality-in-the-pursuit-of-serendipity",
         "the-meaning-of-life-is-in-the-drafting",
         "two-failures-of-trace",
-        "clarity-isnt-a-state-you-arrive-at"
+        "clarity-isnt-a-state-you-arrive-at",
+        "self-image-speaks-as-if-from-nowhere"
       ]
     },
     {
@@ -3488,6 +3533,12 @@
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
       "label": "The illusion of free intelligence"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
     },
     {
       "from": "a-living-external-cortex",
@@ -3674,6 +3725,12 @@
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
       "label": "The illusion of free intelligence"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
     },
     {
       "from": "amplification-paradox",
@@ -3902,6 +3959,12 @@
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
       "label": "The illusion of free intelligence"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
@@ -4354,6 +4417,12 @@
       "label": "The illusion of free intelligence"
     },
     {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
       "from": "distillation-compression-agency",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
@@ -4520,6 +4589,12 @@
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
       "label": "The risk is the belief in oversight itself"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
     },
     {
       "from": "evil-as-the-minds-own-creation",
@@ -5117,6 +5192,12 @@
     },
     {
       "from": "hierarchy-from-individual-difference",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and self-worthiness"
@@ -5446,6 +5527,12 @@
       "label": "The illusion of free intelligence"
     },
     {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
       "from": "looping-and-graphing",
       "to": "self-rl-for-humans",
       "rel": "points_to",
@@ -5770,6 +5857,12 @@
       "label": "The illusion of free intelligence"
     },
     {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
@@ -5864,6 +5957,12 @@
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -7114,6 +7213,108 @@
       "label": "Advocating openness of others is a desire for closure of the self"
     },
     {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing without the image"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind’s own creation"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The fixed image of transcendence"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC impression is structural"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared humanity is never shared"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The illusion of free intelligence"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A creation cannot replace its source"
+    },
+    {
       "from": "self-rl-for-humans",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
@@ -7190,6 +7391,12 @@
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
       "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -7769,6 +7976,12 @@
     },
     {
       "from": "the-fixed-image-of-transcendence",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
       "label": "Closed reality in benchmark maxing"
@@ -8002,6 +8215,12 @@
       "label": "The scaffolding we forget"
     },
     {
+      "from": "the-illusion-of-free-intelligence",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
@@ -8200,6 +8419,12 @@
       "label": "The illusion of free intelligence"
     },
     {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
@@ -8300,6 +8525,12 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -8540,6 +8771,12 @@
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
       "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
     },
     {
       "from": "the-question-that-installs-the-war",
@@ -10190,6 +10427,12 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
     },
     {
       "from": "you-cant-benchmark-the-fluid",
