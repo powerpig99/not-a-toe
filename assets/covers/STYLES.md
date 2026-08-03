@@ -118,6 +118,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Workshop pegboard still** | Cream pegboard wall, empty hooks in sequence with mid-row tools temporarily hung, soft raking workshop light, documentary craft grain | `the-utility-men-of-progress` |
 | **Lost-wax investment casting still** | Cream linen craft table, cracked ceramic shell shards as abundant residue, empty mold cavity, thin bronze pour trail already off-frame, cool museum side light | `the-illusion-of-free-intelligence` |
 | **Trompe-l’oeil recursive frame still** | Cream museum wall, gilt outer frame holding a gallery scene that itself holds the same framed scene nested smaller, oil trompe-l’oeil depth, raking light, canvas weave | `self-image-speaks-as-if-from-nowhere` |
+| **Mirror galvanometer / optical-lever still** | Cream linen craft table, antique brass mirror galvanometer, successive glass reflections amplifying a thin beam into a long trail past the scale frame, cool museum side light, brass–glass grain | `the-artifacts-of-self-amplification` |
 
 ## Inventory (by slug)
 
@@ -176,6 +177,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
 | `symptom-and-cause-in-the-narratives-of-progress` | Chart-recorder / oscillograph strip |
 | `sympathy-is-a-placeholder-for-lack-of-clarity` | Fresco strappo / detached mural fragment |
+| `the-artifacts-of-self-amplification` | Mirror galvanometer / optical-lever still |
 | `the-allocation-of-causal-power-in-validation` | Dark chalk / light trails |
 | `the-brain-does-not-backprop` | Dark chalk / light trails |
 | `the-climate-problem-registers-only-as-perception` | Encaustic wax on wood panel |
