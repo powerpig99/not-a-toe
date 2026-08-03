@@ -120,6 +120,8 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Trompe-l’oeil recursive frame still** | Cream museum wall, gilt outer frame holding a gallery scene that itself holds the same framed scene nested smaller, oil trompe-l’oeil depth, raking light, canvas weave | `self-image-speaks-as-if-from-nowhere` |
 | **Mirror galvanometer / optical-lever still** | Cream linen craft table, antique brass mirror galvanometer, successive glass reflections amplifying a thin beam into a long trail past the scale frame, cool museum side light, brass–glass grain | `the-artifacts-of-self-amplification` |
 
+| **Laboratory glassware still / sealed continuous curve** | Cream linen lab desk, graduated cylinder with continuous amber gradient, black stopper seal, continuous pencil curve under hard black rectangular seal plate, cool museum side light, no text | `the-reversal-from-defensible-claim-to-dogma` |
+
 ## Inventory (by slug)
 
 | Slug | Style family |
@@ -194,6 +196,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-presumption-of-agi-and-the-view-from-outside` | Glass-dome museum terrestrial model still |
 | `the-question-that-installs-the-war` | Surreal desert allegory |
 | `the-reality-distortion-field-names-the-closed-map` | Drypoint cartographic plate |
+| `the-reversal-from-defensible-claim-to-dogma` | Laboratory glassware still / sealed continuous curve |
 | `the-risk-is-the-belief-in-oversight-itself` | Security-print guilloche engraving |
 | `the-ramble-within-the-ramble` | Anaglyph red-cyan stereo graphic |
 | `the-real-scarcity-is-not-memory-but-continuous-re-tracing` | Charcoal wipe / continuous redraw on newsprint |
