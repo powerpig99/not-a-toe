@@ -122,6 +122,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | **Laboratory glassware still / sealed continuous curve** | Cream linen lab desk, graduated cylinder with continuous amber gradient, black stopper seal, continuous pencil curve under hard black rectangular seal plate, cool museum side light, no text | `the-reversal-from-defensible-claim-to-dogma` |
 | **Assay touchstone / gold-streak still** | Cream linen craft table, black basalt touchstone with gold purity streaks as fixed standard, diverse metal samples forced into comparison against one streak, brass touch needles, cool museum side light | `the-source-of-all-harm` |
+| **Medieval volvelle / paper dial still** | Layered circular parchment dials, nested rotating discs with abstract non-legible marks, one disc sealed by blank wax tab while map grid continues past torn edge, cool museum raking light, paper tooth | `the-real-lesson-from-the-consciousness-vector-paper` |
 
 ## Inventory (by slug)
 
@@ -223,6 +224,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `qian-yin-hou-guo` | Silverpoint / metalpoint on gesso |
 | `you-wu-zhi-bian` | Minimal horizon band |
 | `only-if-it-is-not-kept-empty` | Celadon kiln shelf still life |
+| `the-real-lesson-from-the-consciousness-vector-paper` | Medieval volvelle / paper dial still |
 
 ## Crowded — prefer not to extend
 
