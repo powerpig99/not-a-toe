@@ -121,6 +121,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Mirror galvanometer / optical-lever still** | Cream linen craft table, antique brass mirror galvanometer, successive glass reflections amplifying a thin beam into a long trail past the scale frame, cool museum side light, brass–glass grain | `the-artifacts-of-self-amplification` |
 
 | **Laboratory glassware still / sealed continuous curve** | Cream linen lab desk, graduated cylinder with continuous amber gradient, black stopper seal, continuous pencil curve under hard black rectangular seal plate, cool museum side light, no text | `the-reversal-from-defensible-claim-to-dogma` |
+| **Assay touchstone / gold-streak still** | Cream linen craft table, black basalt touchstone with gold purity streaks as fixed standard, diverse metal samples forced into comparison against one streak, brass touch needles, cool museum side light | `the-source-of-all-harm` |
 
 ## Inventory (by slug)
 
@@ -203,6 +204,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-scaffolding-that-keeps-growing` | Lithographic crayon / stone print |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
+| `the-source-of-all-harm` | Assay touchstone / gold-streak still |
 | `the-source-of-shared-change` | Monotype ghost-print still life |
 | `the-strongest-belief-of-the-mind` | Palimpsest vellum / multi-ink redraw |
 | `the-utility-men-of-progress` | Workshop pegboard still |

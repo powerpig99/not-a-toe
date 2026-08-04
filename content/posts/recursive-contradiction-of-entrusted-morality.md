@@ -12,4 +12,4 @@ Worse, each act of delegation atrophies the judgment that made the selection pos
 
 The question was never *who* should we entrust with defining morality. It's whether entrusting is a coherent operation at all.
 
-[Externalized virtue becomes its opposite](../externalized-virtue-becomes-its-opposite/) is the same transaction at scale: private conviction elevated into mandate, free compliance densifying the vessel, institutions crystallizing as residue while the lever stays at each choosing locus.
+[Externalized virtue becomes its opposite](../externalized-virtue-becomes-its-opposite/) is the same transaction at scale: private conviction elevated into mandate, free compliance densifying the vessel, institutions crystallizing as residue while the lever stays at each choosing locus. [The source of all harm](../the-source-of-all-harm/) is that transaction under overconfidence costume: the claim that one judgment may author the good for another collapses into substitution once authorship of consequence is seen not to transfer.
