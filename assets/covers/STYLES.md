@@ -117,6 +117,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Porcelain mold / residual clay still** | Cream linen craft table, blank white porcelain mold as uniform template, wet clay mid-press into the mold, free hand-thrown vessels of divergent silhouettes aside, cool museum side light, clay tooth and glaze sheen | `the-belief-in-utopia-is-the-path-to-dystopia` |
 | **Workshop pegboard still** | Cream pegboard wall, empty hooks in sequence with mid-row tools temporarily hung, soft raking workshop light, documentary craft grain | `the-utility-men-of-progress` |
 | **Lost-wax investment casting still** | Cream linen craft table, cracked ceramic shell shards as abundant residue, empty mold cavity, thin bronze pour trail already off-frame, cool museum side light | `the-illusion-of-free-intelligence` |
+| **Marquetry / wood-inlay panel** | Warm walnut–maple grain, darker veneer path rising then flattening against a hard rectangular ebony border, open uncut grain continuing past the frame, museum raking light, craft glue lines | `closed-assumptions-squeeze-compounding-into-s-curves` |
 | **Trompe-l’oeil recursive frame still** | Cream museum wall, gilt outer frame holding a gallery scene that itself holds the same framed scene nested smaller, oil trompe-l’oeil depth, raking light, canvas weave | `self-image-speaks-as-if-from-nowhere` |
 | **Mirror galvanometer / optical-lever still** | Cream linen craft table, antique brass mirror galvanometer, successive glass reflections amplifying a thin beam into a long trail past the scale frame, cool museum side light, brass–glass grain | `the-artifacts-of-self-amplification` |
 
@@ -137,6 +138,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-paradoxical-nature-of-bystander-insights` | Victorian stereograph dual-panel |
 | `causality-all-the-way` | Sand animation / grain board |
 | `causality-stays-at-the-edge-that-steers` | Bauhaus primary-color geometry |
+| `closed-assumptions-squeeze-compounding-into-s-curves` | Marquetry / wood-inlay panel |
 | `closed-reality-in-benchmark-maxing` | Photoreal tableau |
 | `closed-reality-in-the-pursuit-of-serendipity` | Pinhole / camera obscura photograph |
 | `complexity-obscures-emergence-as-the-act-of-mind` | Copperplate engraving |
