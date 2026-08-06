@@ -30,4 +30,4 @@ When the prosthesis is treated as the deeper description rather than a useful lo
 
 ## Local cut, returned reference
 
-The framework retains practical power where the option space stays tractable and the chosen stabilization holds. Its value sharpens when kept in place: one effective way the Mind renders certain patterns observable, not the primary structure through which reality must be met. Antifragility in service of distinguishing, rather than distinguishing in service of antifragility.
+The framework retains practical power where the option space stays tractable and the chosen stabilization holds. Its value sharpens when kept in place: one effective way the Mind renders certain patterns observable, not the primary structure through which reality must be met. Antifragility in service of distinguishing, rather than distinguishing in service of antifragility. [The reality distortion field inverts the baseline](../the-reality-distortion-field-inverts-the-baseline/) is the same elevation of statistical texture into engineered openness: power laws register forced openings across magnitudes; converting them into a designable property reinstalls a closable future.

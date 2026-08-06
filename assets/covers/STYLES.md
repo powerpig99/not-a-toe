@@ -125,6 +125,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Assay touchstone / gold-streak still** | Cream linen craft table, black basalt touchstone with gold purity streaks as fixed standard, diverse metal samples forced into comparison against one streak, brass touch needles, cool museum side light | `the-source-of-all-harm` |
 | **Medieval volvelle / paper dial still** | Layered circular parchment dials, nested rotating discs with abstract non-legible marks, one disc sealed by blank wax tab while map grid continues past torn edge, cool museum raking light, paper tooth | `the-real-lesson-from-the-consciousness-vector-paper` |
 | **Wooden pigeon-hole sorter still** | Vintage wood cubby row on cream linen, most compartments sealed flush with blank plugs, one open hole with continuous blank ribbon trail continuing past the instrument, cool museum side light, craft grain | `the-price-of-closing-optionality` |
+| **Batik / wax-resist dye on cotton** | Cream cotton, indigo wax-resist lattice as unbroken average field, one white wax trail rupturing a cell and continuing past fabric edge, craft-studio side light, cloth weave and crackled wax | `the-reality-distortion-field-inverts-the-baseline` |
 
 ## Inventory (by slug)
 
@@ -201,6 +202,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-presumption-of-agi-and-the-view-from-outside` | Glass-dome museum terrestrial model still |
 | `the-price-of-closing-optionality` | Wooden pigeon-hole sorter still |
 | `the-question-that-installs-the-war` | Surreal desert allegory |
+| `the-reality-distortion-field-inverts-the-baseline` | Batik / wax-resist dye on cotton |
 | `the-reality-distortion-field-names-the-closed-map` | Drypoint cartographic plate |
 | `the-reversal-from-defensible-claim-to-dogma` | Laboratory glassware still / sealed continuous curve |
 | `the-risk-is-the-belief-in-oversight-itself` | Security-print guilloche engraving |

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-06T06:27:17.210Z",
+    "generated_at": "2026-08-06T07:24:03.785Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -11,8 +11,8 @@
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
       "content/posts/a-creation-cannot-replace-its-source.md": "6cbeb6a4134d",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
-      "content/posts/a-new-deeper-look-at-antifragility.md": "31a9e0273a7b",
-      "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "c948c0a4e8d6",
+      "content/posts/a-new-deeper-look-at-antifragility.md": "c6ddbfcbe94a",
+      "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "bcbd91e8fd31",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "42b7654eb518",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
@@ -25,7 +25,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "1ba96eb40898",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "e7d2266a6f76",
+      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "45583edb0890",
       "content/posts/closed-reality-in-benchmark-maxing.md": "67a42474cea8",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ae1e874dfdf6",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "9ad75ddf055a",
@@ -58,8 +58,8 @@
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
       "content/posts/having-more-is-never-the-cause.md": "9b156d789627",
       "content/posts/help-is-half-the-problem.md": "20ca31d0f720",
-      "content/posts/hierarchy-from-individual-difference.md": "51a65a2e59dc",
-      "content/posts/how-belief-actually-changes.md": "748632dd4a69",
+      "content/posts/hierarchy-from-individual-difference.md": "9f86eddc95a9",
+      "content/posts/how-belief-actually-changes.md": "9fe81a95fab9",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
@@ -78,7 +78,7 @@
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "0981dc245b6d",
-      "content/posts/no-system-can-be-kept-closed.md": "ea477b5e2fdc",
+      "content/posts/no-system-can-be-kept-closed.md": "c1e8cea7444c",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
@@ -86,11 +86,11 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "0e830287ad49",
       "content/posts/ontos-is-a-method-agent.md": "864d542c7296",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "0318da63b48f",
+      "content/posts/openness-is-consistency.md": "c8f97ffc751e",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "3b0a1037c0d2",
       "content/posts/perception-perspective-refined.md": "726559169efb",
-      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "0ec75e6dc6eb",
+      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "b9f3e9f2abcb",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "086376b3a006",
       "content/posts/price-as-utterance-understanding-as-trade.md": "abaa077a93dd",
@@ -110,7 +110,7 @@
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "bb872ef5daf7",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "a775f04ba861",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "360966c10627",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "92478c2d002c",
       "content/posts/the-artifacts-of-self-amplification.md": "ad88cbac7183",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "5be6ce22ad83",
@@ -139,12 +139,13 @@
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "6c7c7eff2d9b",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "02969233f4f4",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "5fd9107ff8c8",
-      "content/posts/the-price-of-closing-optionality.md": "dea4f87a2b77",
+      "content/posts/the-price-of-closing-optionality.md": "874eff68c0ba",
       "content/posts/the-question-that-installs-the-war.md": "a1f2eee52b47",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "e9556fcdd8fc",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
-      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "2f3d5a952310",
+      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "d6511515886c",
+      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "b066ec586665",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4af688fa6b26",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "069ca13ae46c",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
@@ -157,7 +158,7 @@
       "content/posts/the-strongest-belief-of-the-mind.md": "7528aaefb693",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
-      "content/posts/the-utility-men-of-progress.md": "15b564c934bc",
+      "content/posts/the-utility-men-of-progress.md": "5926d144536f",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
@@ -166,26 +167,26 @@
       "content/posts/two-failures-of-trace.md": "7ae92a71a6bc",
       "content/posts/what-always-listens-cannot-originate.md": "a90b891f7758",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
-      "content/posts/what-works-is-the-belief.md": "6d0eb0f9cbbc",
+      "content/posts/what-works-is-the-belief.md": "424092985cce",
       "content/posts/whatever-is-one-prompt-away.md": "f2384aefbb84",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "2d5ae672adc8",
       "content/posts/when-observation-becomes-performance.md": "d49e56d84cac",
-      "content/posts/when-the-effect-authors-the-frame.md": "2ff178520237",
+      "content/posts/when-the-effect-authors-the-frame.md": "98c1a44bde75",
       "content/posts/why-explanation-fails.md": "b6c6dc19048e",
-      "content/posts/why-mathematics-can-never-be-solved.md": "55f432049948",
+      "content/posts/why-mathematics-can-never-be-solved.md": "b0fedc20282d",
       "content/posts/writing-without-the-image.md": "9009b34790ea",
       "content/posts/you-cant-benchmark-the-fluid.md": "730e5564e3a4",
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 169,
-      "edges": 1343,
-      "unique_directed": 1330,
+      "posts": 170,
+      "edges": 1374,
+      "unique_directed": 1360,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 109
+      "posts_with_outbound": 111
     }
   },
   "hubs_in": [
@@ -195,11 +196,11 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 35
+      "in_degree": 36
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 32
+      "in_degree": 33
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -212,6 +213,10 @@
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "in_degree": 24
+    },
+    {
+      "slug": "hierarchy-from-individual-difference",
+      "in_degree": 23
     },
     {
       "slug": "self-rl-for-humans",
@@ -231,10 +236,6 @@
     },
     {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "in_degree": 22
-    },
-    {
-      "slug": "hierarchy-from-individual-difference",
       "in_degree": 22
     },
     {
@@ -281,10 +282,18 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "out_degree": 25
+      "out_degree": 26
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
+      "out_degree": 23
+    },
+    {
+      "slug": "hierarchy-from-individual-difference",
+      "out_degree": 23
+    },
+    {
+      "slug": "openness-is-consistency",
       "out_degree": 23
     },
     {
@@ -296,15 +305,7 @@
       "out_degree": 22
     },
     {
-      "slug": "hierarchy-from-individual-difference",
-      "out_degree": 22
-    },
-    {
       "slug": "mistaking-the-expression-for-the-intelligence",
-      "out_degree": 22
-    },
-    {
-      "slug": "openness-is-consistency",
       "out_degree": 22
     },
     {
@@ -320,11 +321,11 @@
       "out_degree": 21
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "out_degree": 20
+      "slug": "what-works-is-the-belief",
+      "out_degree": 21
     },
     {
-      "slug": "what-works-is-the-belief",
+      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 20
     },
     {
@@ -340,15 +341,15 @@
       "out_degree": 19
     },
     {
+      "slug": "the-reality-distortion-field-names-the-closed-map",
+      "out_degree": 19
+    },
+    {
       "slug": "the-scaffolding-we-forget",
       "out_degree": 19
     },
     {
       "slug": "agi-and-asi-are-temporary-goalposts",
-      "out_degree": 18
-    },
-    {
-      "slug": "externalized-virtue-becomes-its-opposite",
       "out_degree": 18
     }
   ],
@@ -447,10 +448,12 @@
       "slug": "a-new-deeper-look-at-antifragility",
       "path": "content/posts/a-new-deeper-look-at-antifragility.md",
       "title": "A New Deeper Look at Antifragility: Prosthesis, Not Driver",
-      "hash": "31a9e0273a7b",
-      "in_degree": 3,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "c6ddbfcbe94a",
+      "in_degree": 4,
+      "out_degree": 1,
+      "links_out": [
+        "the-reality-distortion-field-inverts-the-baseline"
+      ]
     },
     {
       "id": "post:advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
@@ -458,9 +461,9 @@
       "slug": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "path": "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md",
       "title": "Advocating Openness of Others Is a Desire for Closure of the Self",
-      "hash": "c948c0a4e8d6",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "bcbd91e8fd31",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "intelligence-belongs-only-to-the-mind",
@@ -471,7 +474,8 @@
         "sovereignty-belief-and-regulatory-structures",
         "restriction-is-a-selective-tax",
         "no-system-can-be-kept-closed",
-        "openness-is-consistency"
+        "openness-is-consistency",
+        "the-reality-distortion-field-inverts-the-baseline"
       ]
     },
     {
@@ -699,14 +703,15 @@
       "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "Closed Assumptions Squeeze Compounding into S-Curves",
-      "hash": "e7d2266a6f76",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "45583edb0890",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "the-reality-distortion-field-names-the-closed-map",
+        "the-reality-distortion-field-inverts-the-baseline",
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
         "the-strongest-belief-of-the-mind",
@@ -1292,9 +1297,9 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "Hierarchy from Individual Difference",
-      "hash": "51a65a2e59dc",
-      "in_degree": 22,
-      "out_degree": 22,
+      "hash": "9f86eddc95a9",
+      "in_degree": 23,
+      "out_degree": 23,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "having-more-is-never-the-cause",
@@ -1317,7 +1322,8 @@
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "the-illusion-of-free-intelligence",
         "the-artifacts-of-self-amplification",
-        "the-reversal-from-defensible-claim-to-dogma"
+        "the-reversal-from-defensible-claim-to-dogma",
+        "the-reality-distortion-field-inverts-the-baseline"
       ]
     },
     {
@@ -1326,14 +1332,15 @@
       "slug": "how-belief-actually-changes",
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "How Belief Actually Changes",
-      "hash": "748632dd4a69",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "9fe81a95fab9",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-strongest-belief-of-the-mind",
         "why-explanation-fails",
         "the-source-of-shared-change",
+        "the-reality-distortion-field-inverts-the-baseline",
         "causality-all-the-way",
         "when-the-effect-authors-the-frame",
         "openness-is-consistency",
@@ -1672,9 +1679,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "ea477b5e2fdc",
-      "in_degree": 32,
-      "out_degree": 25,
+      "hash": "c1e8cea7444c",
+      "in_degree": 33,
+      "out_degree": 26,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1700,7 +1707,8 @@
         "the-artifacts-of-self-amplification",
         "the-real-lesson-from-the-consciousness-vector-paper",
         "closed-assumptions-squeeze-compounding-into-s-curves",
-        "the-price-of-closing-optionality"
+        "the-price-of-closing-optionality",
+        "the-reality-distortion-field-inverts-the-baseline"
       ]
     },
     {
@@ -1846,9 +1854,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "0318da63b48f",
-      "in_degree": 35,
-      "out_degree": 22,
+      "hash": "c8f97ffc751e",
+      "in_degree": 36,
+      "out_degree": 23,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -1871,7 +1879,8 @@
         "the-reversal-from-defensible-claim-to-dogma",
         "the-real-lesson-from-the-consciousness-vector-paper",
         "closed-assumptions-squeeze-compounding-into-s-curves",
-        "the-price-of-closing-optionality"
+        "the-price-of-closing-optionality",
+        "the-reality-distortion-field-inverts-the-baseline"
       ]
     },
     {
@@ -1927,9 +1936,9 @@
       "slug": "performative-hindsight-that-pretends-to-be-foresight",
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "Performative Hindsight That Pretends to Be Foresight",
-      "hash": "0ec75e6dc6eb",
-      "in_degree": 12,
-      "out_degree": 13,
+      "hash": "b9f3e9f2abcb",
+      "in_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -1941,6 +1950,7 @@
         "two-failures-of-trace",
         "the-paradoxical-nature-of-bystander-insights",
         "the-reality-distortion-field-names-the-closed-map",
+        "the-reality-distortion-field-inverts-the-baseline",
         "the-climate-problem-registers-only-as-perception",
         "the-source-of-shared-change",
         "the-utility-men-of-progress"
@@ -2320,9 +2330,9 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "a775f04ba861",
-      "in_degree": 11,
-      "out_degree": 17,
+      "hash": "360966c10627",
+      "in_degree": 12,
+      "out_degree": 18,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "individual-choices-as-the-only-causal-levers",
@@ -2339,6 +2349,7 @@
         "restriction-is-a-selective-tax",
         "having-more-is-never-the-cause",
         "the-reality-distortion-field-names-the-closed-map",
+        "the-reality-distortion-field-inverts-the-baseline",
         "the-source-of-shared-change",
         "closed-assumptions-squeeze-compounding-into-s-curves"
       ]
@@ -2932,14 +2943,15 @@
       "slug": "the-price-of-closing-optionality",
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "The Price of Closing Optionality",
-      "hash": "dea4f87a2b77",
-      "in_degree": 9,
-      "out_degree": 9,
+      "hash": "874eff68c0ba",
+      "in_degree": 10,
+      "out_degree": 10,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
         "openness-is-consistency",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-reality-distortion-field-names-the-closed-map",
+        "the-reality-distortion-field-inverts-the-baseline",
         "restriction-is-a-selective-tax",
         "what-works-is-the-belief",
         "no-system-can-be-kept-closed",
@@ -3037,14 +3049,41 @@
       ]
     },
     {
+      "id": "post:the-reality-distortion-field-inverts-the-baseline",
+      "kind": "post",
+      "slug": "the-reality-distortion-field-inverts-the-baseline",
+      "path": "content/posts/the-reality-distortion-field-inverts-the-baseline.md",
+      "title": "The Reality Distortion Field Inverts the Baseline",
+      "hash": "d6511515886c",
+      "in_degree": 15,
+      "out_degree": 15,
+      "links_out": [
+        "the-reality-distortion-field-names-the-closed-map",
+        "how-belief-actually-changes",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "the-utility-men-of-progress",
+        "hierarchy-from-individual-difference",
+        "performative-hindsight-that-pretends-to-be-foresight",
+        "what-works-is-the-belief",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+        "closed-assumptions-squeeze-compounding-into-s-curves",
+        "no-system-can-be-kept-closed",
+        "openness-is-consistency",
+        "why-mathematics-can-never-be-solved",
+        "a-new-deeper-look-at-antifragility",
+        "the-price-of-closing-optionality",
+        "when-the-effect-authors-the-frame"
+      ]
+    },
+    {
       "id": "post:the-reality-distortion-field-names-the-closed-map",
       "kind": "post",
       "slug": "the-reality-distortion-field-names-the-closed-map",
       "path": "content/posts/the-reality-distortion-field-names-the-closed-map.md",
       "title": "The Reality Distortion Field Names the Closed Map",
-      "hash": "2f3d5a952310",
-      "in_degree": 13,
-      "out_degree": 18,
+      "hash": "b066ec586665",
+      "in_degree": 14,
+      "out_degree": 19,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "no-system-can-be-kept-closed",
@@ -3063,7 +3102,8 @@
         "open-vision-in-a-closed-arena",
         "the-strongest-belief-of-the-mind",
         "closed-assumptions-squeeze-compounding-into-s-curves",
-        "the-price-of-closing-optionality"
+        "the-price-of-closing-optionality",
+        "the-reality-distortion-field-inverts-the-baseline"
       ]
     },
     {
@@ -3339,9 +3379,9 @@
       "slug": "the-utility-men-of-progress",
       "path": "content/posts/the-utility-men-of-progress.md",
       "title": "The Utility Men of Progress",
-      "hash": "15b564c934bc",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "5926d144536f",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -3355,7 +3395,8 @@
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "openness-is-consistency",
         "closed-assumptions-squeeze-compounding-into-s-curves",
-        "the-illusion-of-free-intelligence"
+        "the-illusion-of-free-intelligence",
+        "the-reality-distortion-field-inverts-the-baseline"
       ]
     },
     {
@@ -3477,9 +3518,9 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "What Works Is the Belief",
-      "hash": "6d0eb0f9cbbc",
-      "in_degree": 15,
-      "out_degree": 20,
+      "hash": "424092985cce",
+      "in_degree": 16,
+      "out_degree": 21,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
         "the-source-of-all-harm",
@@ -3491,6 +3532,7 @@
         "what-cannot-be-kept",
         "clarity-isnt-a-state-you-arrive-at",
         "the-reality-distortion-field-names-the-closed-map",
+        "the-reality-distortion-field-inverts-the-baseline",
         "the-risk-is-the-belief-in-oversight-itself",
         "restriction-is-a-selective-tax",
         "the-strongest-belief-of-the-mind",
@@ -3588,9 +3630,9 @@
       "slug": "when-the-effect-authors-the-frame",
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "When the Effect Authors the Frame",
-      "hash": "2ff178520237",
-      "in_degree": 6,
-      "out_degree": 9,
+      "hash": "98c1a44bde75",
+      "in_degree": 7,
+      "out_degree": 10,
       "links_out": [
         "emotional-support-as-causal-interference",
         "when-need-stops-being-the-measure",
@@ -3600,7 +3642,8 @@
         "therapy-opens-the-feedback-loop",
         "how-belief-actually-changes",
         "symptom-and-cause-in-the-narratives-of-progress",
-        "exceptionality-perception-and-the-self-limiting-field-of-problems"
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "the-reality-distortion-field-inverts-the-baseline"
       ]
     },
     {
@@ -3623,13 +3666,14 @@
       "slug": "why-mathematics-can-never-be-solved",
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "Why Mathematics Can Never Be Solved",
-      "hash": "55f432049948",
-      "in_degree": 11,
-      "out_degree": 16,
+      "hash": "b0fedc20282d",
+      "in_degree": 12,
+      "out_degree": 17,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
         "no-system-can-be-kept-closed",
+        "the-reality-distortion-field-inverts-the-baseline",
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -3833,6 +3877,12 @@
       "label": "Complexity obscures emergence"
     },
     {
+      "from": "a-new-deeper-look-at-antifragility",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
+    },
+    {
       "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
@@ -3891,6 +3941,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
     },
     {
       "from": "agi-and-asi-are-temporary-goalposts",
@@ -4341,6 +4397,12 @@
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
       "label": "The reality distortion field names the closed map"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -5723,6 +5785,12 @@
       "label": "The reversal from defensible claim to dogma"
     },
     {
+      "from": "hierarchy-from-individual-difference",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
+    },
+    {
       "from": "how-belief-actually-changes",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -5745,6 +5813,12 @@
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The source of shared change"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
     },
     {
       "from": "how-belief-actually-changes",
@@ -6641,6 +6715,12 @@
       "label": "The price of closing optionality"
     },
     {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
+    },
+    {
       "from": "not-a-theory-of-everything",
       "to": "not-a-toe-rewrite",
       "rel": "points_to",
@@ -7139,6 +7219,12 @@
       "label": "The price of closing optionality"
     },
     {
+      "from": "openness-is-consistency",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
+    },
+    {
       "from": "ownership-and-self-worthiness",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
@@ -7275,6 +7361,12 @@
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
       "label": "The reality distortion field names the closed map"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
@@ -8271,6 +8363,12 @@
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
       "label": "The reality distortion field names the closed map"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
@@ -9636,6 +9734,12 @@
     },
     {
       "from": "the-price-of-closing-optionality",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
+    },
+    {
+      "from": "the-price-of-closing-optionality",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
       "label": "Restriction is a selective tax"
@@ -9917,6 +10021,102 @@
       "label": "Clarity isn’t a state you arrive at"
     },
     {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The reality distortion field names the closed map"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The utility men of progress"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative hindsight that pretends to be foresight"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What works is the belief"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed assumptions squeeze compounding into S-curves"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why mathematics can never be solved"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "a-new-deeper-look-at-antifragility",
+      "rel": "points_to",
+      "label": "Antifragility as prosthesis, not driver"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The price of closing optionality"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative hindsight that pretends to be foresight"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the effect authors the frame"
+    },
+    {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -10023,6 +10223,12 @@
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
       "label": "The price of closing optionality"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
@@ -10877,6 +11083,12 @@
       "label": "The illusion of free intelligence"
     },
     {
+      "from": "the-utility-men-of-progress",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
+    },
+    {
       "from": "the_analogy_trap",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
@@ -11274,6 +11486,12 @@
     },
     {
       "from": "what-works-is-the-belief",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
+    },
+    {
+      "from": "what-works-is-the-belief",
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
       "label": "The risk is the belief in oversight itself"
@@ -11579,6 +11797,12 @@
       "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
+    },
+    {
       "from": "why-explanation-fails",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
@@ -11607,6 +11831,12 @@
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "No system can be kept closed"
+    },
+    {
+      "from": "why-mathematics-can-never-be-solved",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
     },
     {
       "from": "why-mathematics-can-never-be-solved",
