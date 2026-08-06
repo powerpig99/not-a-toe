@@ -130,6 +130,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Wooden pigeon-hole sorter still** | Vintage wood cubby row on cream linen, most compartments sealed flush with blank plugs, one open hole with continuous blank ribbon trail continuing past the instrument, cool museum side light, craft grain | `the-price-of-closing-optionality` |
 | **Batik / wax-resist dye on cotton** | Cream cotton, indigo wax-resist lattice as unbroken average field, one white wax trail rupturing a cell and continuing past fabric edge, craft-studio side light, cloth weave and crackled wax | `the-reality-distortion-field-inverts-the-baseline` |
 | **Pepper’s ghost theatrical still** | Cream linen stage table, tilted glass plate projecting translucent sealed-vault silhouette, densified blank institutional seals aside, open instrument notebook and brass dividers as ordinary craft tools, cool museum side light | `the-imagining-of-ai-risk` |
+| **Mola reverse-appliqué textile** | Layered indigo–coral–cream cotton, two independent cut-layer motifs with only a narrow central band of partial intersection, residual uncut top cloth outside, hand-stitch texture, cool museum craft light | `shared-consciousness-is-intersecting-individualities` |
 
 ## Inventory (by slug)
 
@@ -187,6 +188,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `restriction-is-a-selective-tax` | Bokashi woodblock / graded indigo print |
 | `self-rl-for-humans` | Dark chalk / light trails |
 | `self-image-speaks-as-if-from-nowhere` | Trompe-l’oeil recursive frame still |
+| `shared-consciousness-is-intersecting-individualities` | Mola reverse-appliqué textile |
 | `shared-humanity-is-never-shared` | Phenakistoscope / stopped zoetrope still |
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
 | `symptom-and-cause-in-the-narratives-of-progress` | Chart-recorder / oscillograph strip |
