@@ -124,6 +124,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Laboratory glassware still / sealed continuous curve** | Cream linen lab desk, graduated cylinder with continuous amber gradient, black stopper seal, continuous pencil curve under hard black rectangular seal plate, cool museum side light, no text | `the-reversal-from-defensible-claim-to-dogma` |
 | **Assay touchstone / gold-streak still** | Cream linen craft table, black basalt touchstone with gold purity streaks as fixed standard, diverse metal samples forced into comparison against one streak, brass touch needles, cool museum side light | `the-source-of-all-harm` |
 | **Medieval volvelle / paper dial still** | Layered circular parchment dials, nested rotating discs with abstract non-legible marks, one disc sealed by blank wax tab while map grid continues past torn edge, cool museum raking light, paper tooth | `the-real-lesson-from-the-consciousness-vector-paper` |
+| **Wooden pigeon-hole sorter still** | Vintage wood cubby row on cream linen, most compartments sealed flush with blank plugs, one open hole with continuous blank ribbon trail continuing past the instrument, cool museum side light, craft grain | `the-price-of-closing-optionality` |
 
 ## Inventory (by slug)
 
@@ -198,6 +199,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-npc-impression-is-structural` | Sgraffito plaster / scraped fresco |
 | `the-path-drawn-one-step-at-a-time` | Cinematic dual-path |
 | `the-presumption-of-agi-and-the-view-from-outside` | Glass-dome museum terrestrial model still |
+| `the-price-of-closing-optionality` | Wooden pigeon-hole sorter still |
 | `the-question-that-installs-the-war` | Surreal desert allegory |
 | `the-reality-distortion-field-names-the-closed-map` | Drypoint cartographic plate |
 | `the-reversal-from-defensible-claim-to-dogma` | Laboratory glassware still / sealed continuous curve |
