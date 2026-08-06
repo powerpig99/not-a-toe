@@ -126,6 +126,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Medieval volvelle / paper dial still** | Layered circular parchment dials, nested rotating discs with abstract non-legible marks, one disc sealed by blank wax tab while map grid continues past torn edge, cool museum raking light, paper tooth | `the-real-lesson-from-the-consciousness-vector-paper` |
 | **Wooden pigeon-hole sorter still** | Vintage wood cubby row on cream linen, most compartments sealed flush with blank plugs, one open hole with continuous blank ribbon trail continuing past the instrument, cool museum side light, craft grain | `the-price-of-closing-optionality` |
 | **Batik / wax-resist dye on cotton** | Cream cotton, indigo wax-resist lattice as unbroken average field, one white wax trail rupturing a cell and continuing past fabric edge, craft-studio side light, cloth weave and crackled wax | `the-reality-distortion-field-inverts-the-baseline` |
+| **Pepper’s ghost theatrical still** | Cream linen stage table, tilted glass plate projecting translucent sealed-vault silhouette, densified blank institutional seals aside, open instrument notebook and brass dividers as ordinary craft tools, cool museum side light | `the-imagining-of-ai-risk` |
 
 ## Inventory (by slug)
 
@@ -163,6 +164,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `individual-choices-as-the-only-causal-levers` | Soft clay / stop-motion puppet still |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |
 | `the-illusion-of-free-intelligence` | Lost-wax investment casting still |
+| `the-imagining-of-ai-risk` | Pepper’s ghost theatrical still |
 | `looping-and-graphing` | Technical blueprint / diazo |
 | `lossless-knowledge-of-an-open-field-is-incoherent` | Cloisonné / enamel medallion |
 | `mei-you-pu-du-zhi-you-zi-du` | Dark chalk / light trails |
