@@ -17,6 +17,8 @@ Concept may echo the essay; medium and look must not. Before generating, read th
 
 Differentiation is on **style** (medium, print/photo tradition, palette discipline, rendering method)—not on subject alone. Two dark chalk abstracts on black are the same style even if one has orbits and the other has a spiral.
 
+**Crowded cluster to avoid by default:** cream-linen / museum craft-table documentary stills (brass prop + paper + cool side light). That look already saturates recent inventory. Prefer a different medium, palette, or print/photo tradition before inventing another tabletop still — even when the concept is “fold,” “mirror,” “tool,” or “residue.”
+
 ## Spec
 
 | Rule | Detail |
@@ -120,6 +122,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Marquetry / wood-inlay panel** | Warm walnut–maple grain, darker veneer path rising then flattening against a hard rectangular ebony border, open uncut grain continuing past the frame, museum raking light, craft glue lines | `closed-assumptions-squeeze-compounding-into-s-curves` |
 | **Trompe-l’oeil recursive frame still** | Cream museum wall, gilt outer frame holding a gallery scene that itself holds the same framed scene nested smaller, oil trompe-l’oeil depth, raking light, canvas weave | `self-image-speaks-as-if-from-nowhere` |
 | **Mirror galvanometer / optical-lever still** | Cream linen craft table, antique brass mirror galvanometer, successive glass reflections amplifying a thin beam into a long trail past the scale frame, cool museum side light, brass–glass grain | `the-artifacts-of-self-amplification` |
+| **Damascus / pattern-welded steel macro** | Full-bleed metallurgical macro, cold gray–black laminated striations folding denser into themselves, hard industrial rake light, oil sheen and forge scale, no tabletop props | `intelligence-folding-back-on-itself` |
 
 | **Laboratory glassware still / sealed continuous curve** | Cream linen lab desk, graduated cylinder with continuous amber gradient, black stopper seal, continuous pencil curve under hard black rectangular seal plate, cool museum side light, no text | `the-reversal-from-defensible-claim-to-dogma` |
 | **Assay touchstone / gold-streak still** | Cream linen craft table, black basalt touchstone with gold purity streaks as fixed standard, diverse metal samples forced into comparison against one streak, brass touch needles, cool museum side light | `the-source-of-all-harm` |
@@ -163,6 +166,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `humans-tokens-and-the-scope-of-valuation` | Oil split composition |
 | `individual-choices-as-the-only-causal-levers` | Soft clay / stop-motion puppet still |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |
+| `intelligence-folding-back-on-itself` | Damascus / pattern-welded steel macro |
 | `the-illusion-of-free-intelligence` | Lost-wax investment casting still |
 | `the-imagining-of-ai-risk` | Pepper’s ghost theatrical still |
 | `looping-and-graphing` | Technical blueprint / diazo |

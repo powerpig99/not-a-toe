@@ -48,6 +48,6 @@ What densifies under successful open work is medium and practice — bandwidth a
 
 ## Extension under full control of the locus it extends
 
-Ontos is a capable assistant that co-evolves with the Mind that uses it. Other agents can be employed in the same instrumental fashion; they remain specialized tools. Elevating any of them to the status of general method collapses the distinction Ontos deliberately preserves. Thin at the core and open at the periphery, Ontos extends human agency into open-ended problems of real environments — under the full control and privacy of the operator whose Mind it extends.
+Ontos is a capable assistant that co-evolves with the Mind that uses it. Other agents can be employed in the same instrumental fashion; they remain specialized tools. Elevating any of them to the status of general method collapses the distinction Ontos deliberately preserves. Thin at the core and open at the periphery, Ontos extends human agency into open-ended problems of real environments — under the full control and privacy of the operator whose Mind it extends. [Intelligence folding back on itself](../intelligence-folding-back-on-itself/) is that refusal under harness costume: denser agent frameworks as fold of the edge, not keys that unlock a second mind already latent in the model.
 
 Shared as part of the [Ontos](https://github.com/powerpig99/ontos) project. Ideas free with or without credit. Code under [MIT](https://github.com/powerpig99/ontos/blob/main/LICENSE). Regenerate from priors.
