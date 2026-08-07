@@ -134,6 +134,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Origami / continuous-sheet folded stair still** | Single cream paper sheet folded into discrete ascending terraces, continuous fiber from base to peak, soft museum side light, ivory–warm-gray, paper tooth and crease shadow only | `climbing-does-not-leave-the-ground` |
 | **Notarial embosser / dry-seal still** | Cream linen craft table, antique brass notarial embosser, one raised blank seal impressed on cream vellum as finished identity, unmarked sheet continuing past the emboss, cool museum raking light, brass–paper grain | `liberation-rhetoric-begins-by-defining-captivity` |
 | **Exchequer counting-board still** | Dark oak desk, black-and-cream chequered cloth, wooden and brass counters mid-transfer from depleted private pile to ordered public squares, blank brass nameplate over the public side, split tally sticks, cool museum raking light | `public-spending-does-not-create-capital` |
+| **Schlieren optical still** | Dark lab field, collimated light revealing invisible density gradients around a cabin silhouette; rigid price-scoreboard frame capturing only partial bands while protective flow continues past it; silver-blue charcoal optical grain | `ownership-cost-freezes-lagged-averages-as-vehicle-property` |
 
 ## Inventory (by slug)
 
@@ -186,6 +187,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `openness-is-consistency` | Painterly glass / gold path |
 | `ontos-is-a-method-agent` | Urushi lacquer / maki-e still |
 | `ownership-and-self-worthiness` | Dark chalk / light trails |
+| `ownership-cost-freezes-lagged-averages-as-vehicle-property` | Schlieren optical still |
 | `performative-hindsight-that-pretends-to-be-foresight` | Solarized surreal photograph |
 | `price-as-utterance-understanding-as-trade` | Wire-service teletype / ticker-tape still |
 | `production-consumption-and-the-minds-distinction` | Photoreal tableau |

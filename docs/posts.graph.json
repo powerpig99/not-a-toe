@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-07T11:00:15.642Z",
+    "generated_at": "2026-08-07T11:23:20.087Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -35,7 +35,7 @@
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "f487b012280e",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
-      "content/posts/data-is-local-intelligence-is-allocated.md": "46c317a27a01",
+      "content/posts/data-is-local-intelligence-is-allocated.md": "1b278274a5d9",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "3171103c1027",
@@ -46,7 +46,7 @@
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
       "content/posts/evil-as-the-minds-own-creation.md": "c05fb5c6b597",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "9ae938dda322",
-      "content/posts/expertise-as-reference-not-replacement.md": "56335a4cf5d4",
+      "content/posts/expertise-as-reference-not-replacement.md": "2f509d001664",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "74883652d5c3",
@@ -57,7 +57,7 @@
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
-      "content/posts/having-more-is-never-the-cause.md": "07403bfc5d8d",
+      "content/posts/having-more-is-never-the-cause.md": "ebc8350f51c1",
       "content/posts/help-is-half-the-problem.md": "fe18986840dc",
       "content/posts/hierarchy-from-individual-difference.md": "9f86eddc95a9",
       "content/posts/how-belief-actually-changes.md": "7ddd0a859449",
@@ -92,6 +92,7 @@
       "content/posts/openness-is-consistency.md": "f4f185751e8d",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "cbc7093d60d7",
+      "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "916dc4d56804",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "b9f3e9f2abcb",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
@@ -115,8 +116,8 @@
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "5ecd39a34975",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "f130703bfd19",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "d4ee71db4934",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "957f33c569a0",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "46883da22529",
       "content/posts/the-artifacts-of-self-amplification.md": "b35fac467d94",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "90ccd4619ab1",
@@ -150,7 +151,7 @@
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "e9556fcdd8fc",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
-      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "f65c50897387",
+      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "f5394b232aef",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "b066ec586665",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4af688fa6b26",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "f3ba12d83a05",
@@ -173,10 +174,10 @@
       "content/posts/two-failures-of-trace.md": "38487fb476f3",
       "content/posts/what-always-listens-cannot-originate.md": "a90b891f7758",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
-      "content/posts/what-works-is-the-belief.md": "e57c3d5db9b1",
+      "content/posts/what-works-is-the-belief.md": "0d6e8e3018a4",
       "content/posts/whatever-is-one-prompt-away.md": "f2384aefbb84",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
-      "content/posts/when-need-stops-being-the-measure.md": "2d5ae672adc8",
+      "content/posts/when-need-stops-being-the-measure.md": "ff23d1d0c5f3",
       "content/posts/when-observation-becomes-performance.md": "57e4edddc357",
       "content/posts/when-the-effect-authors-the-frame.md": "3ff766a5c65f",
       "content/posts/why-explanation-fails.md": "b6c6dc19048e",
@@ -186,13 +187,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 176,
-      "edges": 1523,
-      "unique_directed": 1506,
+      "posts": 177,
+      "edges": 1539,
+      "unique_directed": 1522,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 119
+      "posts_with_outbound": 120
     }
   },
   "hubs_in": [
@@ -217,11 +218,11 @@
       "in_degree": 26
     },
     {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 25
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 26
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
       "in_degree": 25
     },
     {
@@ -323,11 +324,11 @@
       "out_degree": 23
     },
     {
-      "slug": "the-source-of-shared-change",
-      "out_degree": 22
+      "slug": "what-works-is-the-belief",
+      "out_degree": 23
     },
     {
-      "slug": "what-works-is-the-belief",
+      "slug": "the-source-of-shared-change",
       "out_degree": 22
     },
     {
@@ -355,7 +356,7 @@
       "out_degree": 20
     },
     {
-      "slug": "the-presumption-of-agi-and-the-view-from-outside",
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 20
     }
   ],
@@ -921,9 +922,9 @@
       "slug": "data-is-local-intelligence-is-allocated",
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
       "title": "Data Is Local; Intelligence Is Allocated",
-      "hash": "46c317a27a01",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "1b278274a5d9",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
         "hierarchy-from-individual-difference",
@@ -935,6 +936,7 @@
         "the-non-definitive-definition-of-intelligence",
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
+        "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "reality-is-the-minds-ongoing-realization",
         "the-strongest-belief-of-the-mind",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -1134,11 +1136,12 @@
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "Expertise as Reference, Not Replacement",
-      "hash": "56335a4cf5d4",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "2f509d001664",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
+        "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "mistaking-the-expression-for-the-intelligence",
         "closed-reality-in-benchmark-maxing",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -1306,15 +1309,16 @@
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
-      "hash": "07403bfc5d8d",
-      "in_degree": 11,
-      "out_degree": 13,
+      "hash": "ebc8350f51c1",
+      "in_degree": 12,
+      "out_degree": 14,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
         "individual-choices-as-the-only-causal-levers",
         "empowerment-establishes-the-centralization-of-power",
         "the-allocation-of-causal-power-in-validation",
         "public-spending-does-not-create-capital",
+        "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "price-as-utterance-understanding-as-trade",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-utility-men-of-progress",
@@ -2039,6 +2043,26 @@
       ]
     },
     {
+      "id": "post:ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "kind": "post",
+      "slug": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "path": "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md",
+      "title": "Ownership Cost Freezes Lagged Averages as Vehicle Property",
+      "hash": "916dc4d56804",
+      "in_degree": 8,
+      "out_degree": 8,
+      "links_out": [
+        "the-allocation-of-causal-power-in-validation",
+        "data-is-local-intelligence-is-allocated",
+        "the-reality-distortion-field-inverts-the-baseline",
+        "what-works-is-the-belief",
+        "having-more-is-never-the-cause",
+        "when-need-stops-being-the-measure",
+        "expertise-as-reference-not-replacement",
+        "symptom-and-cause-in-the-narratives-of-progress"
+      ]
+    },
+    {
       "id": "post:perception-perspective-refined",
       "kind": "post",
       "slug": "perception-perspective-refined",
@@ -2502,9 +2526,9 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "f130703bfd19",
-      "in_degree": 13,
-      "out_degree": 19,
+      "hash": "957f33c569a0",
+      "in_degree": 14,
+      "out_degree": 20,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "individual-choices-as-the-only-causal-levers",
@@ -2517,6 +2541,7 @@
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
         "public-spending-does-not-create-capital",
+        "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "the-coordinators-category-error",
         "what-works-is-the-belief",
         "restriction-is-a-selective-tax",
@@ -2569,9 +2594,9 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "d4ee71db4934",
-      "in_degree": 25,
-      "out_degree": 11,
+      "hash": "46883da22529",
+      "in_degree": 26,
+      "out_degree": 12,
       "links_out": [
         "hierarchy-from-individual-difference",
         "empowerment-establishes-the-centralization-of-power",
@@ -2579,6 +2604,7 @@
         "the-ramble-within-the-ramble",
         "having-more-is-never-the-cause",
         "public-spending-does-not-create-capital",
+        "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "restriction-is-a-selective-tax",
         "preference-clusters-and-the-language-of-judgment",
         "the-strongest-belief-of-the-mind",
@@ -3267,9 +3293,9 @@
       "slug": "the-reality-distortion-field-inverts-the-baseline",
       "path": "content/posts/the-reality-distortion-field-inverts-the-baseline.md",
       "title": "The Reality Distortion Field Inverts the Baseline",
-      "hash": "f65c50897387",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "f5394b232aef",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "how-belief-actually-changes",
@@ -3278,6 +3304,7 @@
         "hierarchy-from-individual-difference",
         "performative-hindsight-that-pretends-to-be-foresight",
         "what-works-is-the-belief",
+        "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "no-system-can-be-kept-closed",
@@ -3741,9 +3768,9 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "What Works Is the Belief",
-      "hash": "e57c3d5db9b1",
-      "in_degree": 17,
-      "out_degree": 22,
+      "hash": "0d6e8e3018a4",
+      "in_degree": 18,
+      "out_degree": 23,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
         "the-source-of-all-harm",
@@ -3756,6 +3783,7 @@
         "clarity-isnt-a-state-you-arrive-at",
         "the-reality-distortion-field-names-the-closed-map",
         "the-reality-distortion-field-inverts-the-baseline",
+        "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "the-risk-is-the-belief-in-oversight-itself",
         "restriction-is-a-selective-tax",
         "the-strongest-belief-of-the-mind",
@@ -3814,16 +3842,17 @@
       "slug": "when-need-stops-being-the-measure",
       "path": "content/posts/when-need-stops-being-the-measure.md",
       "title": "When Need Stops Being the Measure",
-      "hash": "2d5ae672adc8",
-      "in_degree": 2,
-      "out_degree": 6,
+      "hash": "ff23d1d0c5f3",
+      "in_degree": 3,
+      "out_degree": 7,
       "links_out": [
         "emotional-support-as-causal-interference",
         "ownership-and-self-worthiness",
         "the-scaffolding-we-forget",
         "therapy-opens-the-feedback-loop",
         "help-is-half-the-problem",
-        "mei-you-pu-du-zhi-you-zi-du"
+        "mei-you-pu-du-zhi-you-zi-du",
+        "ownership-cost-freezes-lagged-averages-as-vehicle-property"
       ]
     },
     {
@@ -5244,6 +5273,12 @@
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership cost freezes lagged averages as vehicle property"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "Reality is the Mind's ongoing realization"
@@ -5694,6 +5729,12 @@
     },
     {
       "from": "expertise-as-reference-not-replacement",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership cost freezes lagged averages as vehicle property"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "Mistaking the expression for the intelligence"
@@ -5991,6 +6032,12 @@
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public spending does not create capital"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership cost freezes lagged averages as vehicle property"
     },
     {
       "from": "having-more-is-never-the-cause",
@@ -7991,6 +8038,54 @@
       "label": "The reversal from defensible claim to dogma"
     },
     {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What works is the belief"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "when-need-stops-being-the-measure",
+      "rel": "points_to",
+      "label": "When need stops being the measure"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as reference, not replacement"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -9204,6 +9299,12 @@
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership cost freezes lagged averages as vehicle property"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The coordinator’s category error"
@@ -9285,6 +9386,12 @@
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public spending does not create capital"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership cost freezes lagged averages as vehicle property"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -11106,6 +11213,12 @@
     },
     {
       "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership cost freezes lagged averages as vehicle property"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
       "label": "Advocating openness of others is a desire for closure of the self"
@@ -12594,6 +12707,12 @@
     },
     {
       "from": "what-works-is-the-belief",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership cost freezes lagged averages as vehicle property"
+    },
+    {
+      "from": "what-works-is-the-belief",
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
       "label": "The risk is the belief in oversight itself"
@@ -12789,6 +12908,12 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership cost freezes lagged averages as vehicle property"
     },
     {
       "from": "when-observation-becomes-performance",
