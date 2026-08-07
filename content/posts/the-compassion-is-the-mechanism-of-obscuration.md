@@ -30,7 +30,7 @@ Self-correction requires a closed loop. An agent acts, encounters consequences, 
 
 Charity intervenes at the consequence stage. It alleviates the signal before it can be read. The agent's action no longer produces its natural feedback. In its place is a different signal entirely: *someone helped you*. This signal carries information—but not about the agent's own action-consequence relationship. It carries information about dependency. It says: the locus of correction is elsewhere.
 
-This is not neutral. It is anti-informational with respect to agency. The recipient loses access to the very feedback that would enable the self-correction charity claims to support. The more effectively charity alleviates symptoms, the more thoroughly it disrupts the corrective loop.
+This is not neutral. It is anti-informational with respect to agency. The recipient loses access to the very feedback that would enable the self-correction charity claims to support. The more effectively charity alleviates symptoms, the more thoroughly it disrupts the corrective loop. [Liberation rhetoric begins by defining captivity](../liberation-rhetoric-begins-by-defining-captivity/) is the same displacement under freedom costume: continuation allocated to the speaker’s verdict while the lever of self-definition stays only at the edge that continues.
 
 ## Why Upgrades Exacerbate
 
