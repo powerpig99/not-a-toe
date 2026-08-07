@@ -132,6 +132,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Pepper’s ghost theatrical still** | Cream linen stage table, tilted glass plate projecting translucent sealed-vault silhouette, densified blank institutional seals aside, open instrument notebook and brass dividers as ordinary craft tools, cool museum side light | `the-imagining-of-ai-risk` |
 | **Mola reverse-appliqué textile** | Layered indigo–coral–cream cotton, two independent cut-layer motifs with only a narrow central band of partial intersection, residual uncut top cloth outside, hand-stitch texture, cool museum craft light | `shared-consciousness-is-intersecting-individualities` |
 | **Origami / continuous-sheet folded stair still** | Single cream paper sheet folded into discrete ascending terraces, continuous fiber from base to peak, soft museum side light, ivory–warm-gray, paper tooth and crease shadow only | `climbing-does-not-leave-the-ground` |
+| **Notarial embosser / dry-seal still** | Cream linen craft table, antique brass notarial embosser, one raised blank seal impressed on cream vellum as finished identity, unmarked sheet continuing past the emboss, cool museum raking light, brass–paper grain | `liberation-rhetoric-begins-by-defining-captivity` |
 
 ## Inventory (by slug)
 
@@ -170,6 +171,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `individual-choices-as-the-only-causal-levers` | Soft clay / stop-motion puppet still |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |
 | `intelligence-folding-back-on-itself` | Damascus / pattern-welded steel macro |
+| `liberation-rhetoric-begins-by-defining-captivity` | Notarial embosser / dry-seal still |
 | `the-illusion-of-free-intelligence` | Lost-wax investment casting still |
 | `the-imagining-of-ai-risk` | Pepper’s ghost theatrical still |
 | `looping-and-graphing` | Technical blueprint / diazo |
