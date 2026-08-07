@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-07T05:25:20.556Z",
+    "generated_at": "2026-08-07T11:00:15.642Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -25,7 +25,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "1ba96eb40898",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/climbing-does-not-leave-the-ground.md": "a7c119047a07",
+      "content/posts/climbing-does-not-leave-the-ground.md": "1df0ff92d776",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "45583edb0890",
       "content/posts/closed-reality-in-benchmark-maxing.md": "fba402f827b9",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ae1e874dfdf6",
@@ -40,39 +40,40 @@
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "3171103c1027",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
-      "content/posts/empowerment-establishes-the-centralization-of-power.md": "41b3483f97d9",
+      "content/posts/empowerment-establishes-the-centralization-of-power.md": "592311e806f5",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
       "content/posts/evil-as-the-minds-own-creation.md": "c05fb5c6b597",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "9ae938dda322",
-      "content/posts/expertise-as-reference-not-replacement.md": "4502d17a68f8",
+      "content/posts/expertise-as-reference-not-replacement.md": "56335a4cf5d4",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
-      "content/posts/externalized-virtue-becomes-its-opposite.md": "5b4c1b0c0c14",
-      "content/posts/fate-loves-irony-refined.md": "55f2935f273b",
+      "content/posts/externalized-virtue-becomes-its-opposite.md": "74883652d5c3",
+      "content/posts/fate-loves-irony-refined.md": "995997fed740",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "8fdda6e433bc",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
-      "content/posts/having-more-is-never-the-cause.md": "9b156d789627",
-      "content/posts/help-is-half-the-problem.md": "20ca31d0f720",
+      "content/posts/having-more-is-never-the-cause.md": "07403bfc5d8d",
+      "content/posts/help-is-half-the-problem.md": "fe18986840dc",
       "content/posts/hierarchy-from-individual-difference.md": "9f86eddc95a9",
       "content/posts/how-belief-actually-changes.md": "7ddd0a859449",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "7e9e3efb3aac",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "704c23d0021b",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "09adeaa2661d",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
+      "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "6a618e013648",
       "content/posts/looping-and-graphing.md": "4ea25e5fb4e5",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "7386717ff3a3",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "3e60da07d988",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "24406f656818",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "6fca2d702399",
@@ -90,18 +91,19 @@
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
       "content/posts/openness-is-consistency.md": "f4f185751e8d",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "3b0a1037c0d2",
+      "content/posts/ownership-and-self-worthiness.md": "cbc7093d60d7",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "b9f3e9f2abcb",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "d350e546c886",
       "content/posts/price-as-utterance-understanding-as-trade.md": "e47aa7be4d0e",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "81b93426ff3a",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "ec2653f5feaa",
+      "content/posts/public-spending-does-not-create-capital.md": "f28cadda7c6e",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "cb9f011c40ad",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "fc1c9fc7b2a1",
-      "content/posts/restriction-is-a-selective-tax.md": "6fa11cea7c84",
+      "content/posts/restriction-is-a-selective-tax.md": "d262db4353fc",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "9a19a7a34f5d",
@@ -110,18 +112,18 @@
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "4acc15d3e6bf",
       "content/posts/shared-humanity-is-never-shared.md": "7a429623e174",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "bb872ef5daf7",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "5ecd39a34975",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "360966c10627",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "dc55f401309b",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "f130703bfd19",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "d4ee71db4934",
       "content/posts/the-artifacts-of-self-amplification.md": "b35fac467d94",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "90ccd4619ab1",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
-      "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "401e128e06ad",
-      "content/posts/the-coordinators-category-error.md": "21d15783bc0f",
+      "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
+      "content/posts/the-coordinators-category-error.md": "64bb44b09422",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-fixed-image-of-transcendence.md": "ebf44e2e9959",
@@ -139,8 +141,8 @@
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
       "content/posts/the-model-never-becomes-a-second-edge.md": "e14a64d0388e",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
-      "content/posts/the-npc-impression-is-structural.md": "4138fd2688b2",
-      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "6c7c7eff2d9b",
+      "content/posts/the-npc-impression-is-structural.md": "1e35a4a1735d",
+      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "7680ad1fc468",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "02969233f4f4",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "5b1b77430298",
       "content/posts/the-price-of-closing-optionality.md": "181e0ec3ab51",
@@ -175,7 +177,7 @@
       "content/posts/whatever-is-one-prompt-away.md": "f2384aefbb84",
       "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
       "content/posts/when-need-stops-being-the-measure.md": "2d5ae672adc8",
-      "content/posts/when-observation-becomes-performance.md": "d49e56d84cac",
+      "content/posts/when-observation-becomes-performance.md": "57e4edddc357",
       "content/posts/when-the-effect-authors-the-frame.md": "3ff766a5c65f",
       "content/posts/why-explanation-fails.md": "b6c6dc19048e",
       "content/posts/why-mathematics-can-never-be-solved.md": "b0fedc20282d",
@@ -184,13 +186,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 174,
-      "edges": 1483,
-      "unique_directed": 1466,
+      "posts": 176,
+      "edges": 1523,
+      "unique_directed": 1506,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 115
+      "posts_with_outbound": 119
     }
   },
   "hubs_in": [
@@ -212,6 +214,14 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
+      "in_degree": 26
+    },
+    {
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
+      "in_degree": 25
+    },
+    {
+      "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 25
     },
     {
@@ -219,15 +229,7 @@
       "in_degree": 25
     },
     {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 24
-    },
-    {
       "slug": "self-rl-for-humans",
-      "in_degree": 24
-    },
-    {
-      "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 24
     },
     {
@@ -243,6 +245,10 @@
       "in_degree": 23
     },
     {
+      "slug": "ownership-and-self-worthiness",
+      "in_degree": 23
+    },
+    {
       "slug": "preference-clusters-and-the-language-of-judgment",
       "in_degree": 23
     },
@@ -255,7 +261,7 @@
       "in_degree": 22
     },
     {
-      "slug": "ownership-and-self-worthiness",
+      "slug": "externalized-virtue-becomes-its-opposite",
       "in_degree": 21
     },
     {
@@ -267,22 +273,18 @@
       "in_degree": 21
     },
     {
-      "slug": "externalized-virtue-becomes-its-opposite",
-      "in_degree": 20
-    },
-    {
       "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 20
     }
   ],
   "hubs_out": [
     {
-      "slug": "not-a-theory-of-everything",
+      "slug": "individual-choices-as-the-only-causal-levers",
       "out_degree": 29
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 28
+      "slug": "not-a-theory-of-everything",
+      "out_degree": 29
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -329,6 +331,14 @@
       "out_degree": 22
     },
     {
+      "slug": "externalized-virtue-becomes-its-opposite",
+      "out_degree": 21
+    },
+    {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "out_degree": 21
+    },
+    {
       "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 21
     },
@@ -341,15 +351,7 @@
       "out_degree": 21
     },
     {
-      "slug": "externalized-virtue-becomes-its-opposite",
-      "out_degree": 20
-    },
-    {
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-      "out_degree": 20
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 20
     },
     {
@@ -713,7 +715,7 @@
       "slug": "climbing-does-not-leave-the-ground",
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "Climbing Does Not Leave the Ground",
-      "hash": "a7c119047a07",
+      "hash": "1df0ff92d776",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -999,14 +1001,15 @@
       "slug": "empowerment-establishes-the-centralization-of-power",
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
       "title": "Empowerment Establishes the Centralization of Power",
-      "hash": "41b3483f97d9",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "592311e806f5",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "externalized-virtue-becomes-its-opposite",
         "sovereignty-belief-and-regulatory-structures",
         "mei-you-pu-du-zhi-you-zi-du",
+        "liberation-rhetoric-begins-by-defining-captivity",
         "individual-choices-as-the-only-causal-levers",
         "ownership-and-self-worthiness",
         "whatever-is-one-prompt-away",
@@ -1131,9 +1134,9 @@
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "Expertise as Reference, Not Replacement",
-      "hash": "4502d17a68f8",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "56335a4cf5d4",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "mistaking-the-expression-for-the-intelligence",
@@ -1144,6 +1147,7 @@
         "individual-choices-as-the-only-causal-levers",
         "the-allocation-of-causal-power-in-validation",
         "when-observation-becomes-performance",
+        "liberation-rhetoric-begins-by-defining-captivity",
         "the-scaffolding-we-forget",
         "clarity-isnt-a-state-you-arrive-at",
         "preference-clusters-and-the-language-of-judgment",
@@ -1178,13 +1182,14 @@
       "slug": "externalized-virtue-becomes-its-opposite",
       "path": "content/posts/externalized-virtue-becomes-its-opposite.md",
       "title": "Externalized Virtue Becomes Its Opposite",
-      "hash": "5b4c1b0c0c14",
-      "in_degree": 20,
-      "out_degree": 20,
+      "hash": "74883652d5c3",
+      "in_degree": 21,
+      "out_degree": 21,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "empowerment-establishes-the-centralization-of-power",
+        "liberation-rhetoric-begins-by-defining-captivity",
         "recursive-contradiction-of-entrusted-morality",
         "individual-choices-as-the-only-causal-levers",
         "how-belief-actually-changes",
@@ -1210,10 +1215,12 @@
       "slug": "fate-loves-irony-refined",
       "path": "content/posts/fate-loves-irony-refined.md",
       "title": "Fate Loves Irony: Production Creates Its Own Ideological Consumption",
-      "hash": "55f2935f273b",
-      "in_degree": 2,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "995997fed740",
+      "in_degree": 3,
+      "out_degree": 1,
+      "links_out": [
+        "public-spending-does-not-create-capital"
+      ]
     },
     {
       "id": "post:fidelity-not-optimality",
@@ -1299,14 +1306,15 @@
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
-      "hash": "9b156d789627",
-      "in_degree": 10,
-      "out_degree": 12,
+      "hash": "07403bfc5d8d",
+      "in_degree": 11,
+      "out_degree": 13,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
         "individual-choices-as-the-only-causal-levers",
         "empowerment-establishes-the-centralization-of-power",
         "the-allocation-of-causal-power-in-validation",
+        "public-spending-does-not-create-capital",
         "price-as-utterance-understanding-as-trade",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-utility-men-of-progress",
@@ -1323,11 +1331,12 @@
       "slug": "help-is-half-the-problem",
       "path": "content/posts/help-is-half-the-problem.md",
       "title": "Help Is Half the Problem",
-      "hash": "20ca31d0f720",
-      "in_degree": 5,
-      "out_degree": 3,
+      "hash": "fe18986840dc",
+      "in_degree": 6,
+      "out_degree": 4,
       "links_out": [
         "therapy-opens-the-feedback-loop",
+        "liberation-rhetoric-begins-by-defining-captivity",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "when-the-effect-authors-the-frame"
       ]
@@ -1432,9 +1441,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "7e9e3efb3aac",
-      "in_degree": 25,
-      "out_degree": 28,
+      "hash": "704c23d0021b",
+      "in_degree": 26,
+      "out_degree": 29,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1450,6 +1459,7 @@
         "price-as-utterance-understanding-as-trade",
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
+        "public-spending-does-not-create-capital",
         "the-coordinators-category-error",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "empowerment-establishes-the-centralization-of-power",
@@ -1547,6 +1557,29 @@
       "links_out": []
     },
     {
+      "id": "post:liberation-rhetoric-begins-by-defining-captivity",
+      "kind": "post",
+      "slug": "liberation-rhetoric-begins-by-defining-captivity",
+      "path": "content/posts/liberation-rhetoric-begins-by-defining-captivity.md",
+      "title": "Liberation Rhetoric Begins by Defining Captivity",
+      "hash": "6a618e013648",
+      "in_degree": 11,
+      "out_degree": 11,
+      "links_out": [
+        "the-npc-impression-is-structural",
+        "the-paradoxical-nature-of-bystander-insights",
+        "when-observation-becomes-performance",
+        "the-coordinators-category-error",
+        "empowerment-establishes-the-centralization-of-power",
+        "externalized-virtue-becomes-its-opposite",
+        "mei-you-pu-du-zhi-you-zi-du",
+        "help-is-half-the-problem",
+        "the-compassion-is-the-mechanism-of-obscuration",
+        "ownership-and-self-worthiness",
+        "expertise-as-reference-not-replacement"
+      ]
+    },
+    {
       "id": "post:looping-and-graphing",
       "kind": "post",
       "slug": "looping-and-graphing",
@@ -1609,11 +1642,12 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "3e60da07d988",
-      "in_degree": 24,
-      "out_degree": 13,
+      "hash": "24406f656818",
+      "in_degree": 25,
+      "out_degree": 14,
       "links_out": [
         "empowerment-establishes-the-centralization-of-power",
+        "liberation-rhetoric-begins-by-defining-captivity",
         "the-coordinators-category-error",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "when-observation-becomes-performance",
@@ -1983,14 +2017,16 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "3b0a1037c0d2",
-      "in_degree": 21,
-      "out_degree": 13,
+      "hash": "cbc7093d60d7",
+      "in_degree": 23,
+      "out_degree": 15,
       "links_out": [
         "empowerment-establishes-the-centralization-of-power",
+        "liberation-rhetoric-begins-by-defining-captivity",
         "externalized-virtue-becomes-its-opposite",
         "the-source-of-all-harm",
         "individual-choices-as-the-only-causal-levers",
+        "public-spending-does-not-create-capital",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "hierarchy-from-individual-difference",
         "expertise-as-reference-not-replacement",
@@ -2114,9 +2150,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "81b93426ff3a",
-      "in_degree": 15,
-      "out_degree": 20,
+      "hash": "ec2653f5feaa",
+      "in_degree": 16,
+      "out_degree": 21,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -2127,6 +2163,7 @@
         "efficiency-without-differentiation",
         "the-allocation-of-causal-power-in-validation",
         "fate-loves-irony-refined",
+        "public-spending-does-not-create-capital",
         "individual-choices-as-the-only-causal-levers",
         "self-rl-for-humans",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -2138,6 +2175,27 @@
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-illusion-of-free-intelligence",
         "closed-assumptions-squeeze-compounding-into-s-curves"
+      ]
+    },
+    {
+      "id": "post:public-spending-does-not-create-capital",
+      "kind": "post",
+      "slug": "public-spending-does-not-create-capital",
+      "path": "content/posts/public-spending-does-not-create-capital.md",
+      "title": "Public Spending Does Not Create Capital",
+      "hash": "f28cadda7c6e",
+      "in_degree": 9,
+      "out_degree": 9,
+      "links_out": [
+        "production-consumption-and-the-minds-distinction",
+        "having-more-is-never-the-cause",
+        "the-allocation-of-causal-power-in-validation",
+        "sovereignty-belief-and-regulatory-structures",
+        "individual-choices-as-the-only-causal-levers",
+        "ownership-and-self-worthiness",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "fate-loves-irony-refined",
+        "restriction-is-a-selective-tax"
       ]
     },
     {
@@ -2225,9 +2283,9 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "Restriction Is a Selective Tax",
-      "hash": "6fa11cea7c84",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "d262db4353fc",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "hierarchy-from-individual-difference",
@@ -2239,6 +2297,7 @@
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-risk-is-the-belief-in-oversight-itself",
         "sovereignty-belief-and-regulatory-structures",
+        "public-spending-does-not-create-capital",
         "the-risk-you-delegate-is-the-risk-you-create",
         "preference-clusters-and-the-language-of-judgment",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
@@ -2387,9 +2446,9 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "bb872ef5daf7",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "5ecd39a34975",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "hassabis-frontier-agi-premise",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -2399,6 +2458,7 @@
         "sovereignty-essay",
         "the-risk-is-the-belief-in-oversight-itself",
         "restriction-is-a-selective-tax",
+        "public-spending-does-not-create-capital",
         "shared-humanity-is-never-shared",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "externalized-virtue-becomes-its-opposite",
@@ -2442,9 +2502,9 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "360966c10627",
-      "in_degree": 12,
-      "out_degree": 18,
+      "hash": "f130703bfd19",
+      "in_degree": 13,
+      "out_degree": 19,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "individual-choices-as-the-only-causal-levers",
@@ -2456,6 +2516,7 @@
         "performative-hindsight-that-pretends-to-be-foresight",
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
+        "public-spending-does-not-create-capital",
         "the-coordinators-category-error",
         "what-works-is-the-belief",
         "restriction-is-a-selective-tax",
@@ -2508,15 +2569,16 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "dc55f401309b",
-      "in_degree": 24,
-      "out_degree": 10,
+      "hash": "d4ee71db4934",
+      "in_degree": 25,
+      "out_degree": 11,
       "links_out": [
         "hierarchy-from-individual-difference",
         "empowerment-establishes-the-centralization-of-power",
         "expertise-as-reference-not-replacement",
         "the-ramble-within-the-ramble",
         "having-more-is-never-the-cause",
+        "public-spending-does-not-create-capital",
         "restriction-is-a-selective-tax",
         "preference-clusters-and-the-language-of-judgment",
         "the-strongest-belief-of-the-mind",
@@ -2646,10 +2708,12 @@
       "slug": "the-compassion-is-the-mechanism-of-obscuration",
       "path": "content/posts/the-compassion-is-the-mechanism-of-obscuration.md",
       "title": "The Compassion Is the Mechanism of Obscuration",
-      "hash": "401e128e06ad",
-      "in_degree": 3,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "1471d892c863",
+      "in_degree": 4,
+      "out_degree": 1,
+      "links_out": [
+        "liberation-rhetoric-begins-by-defining-captivity"
+      ]
     },
     {
       "id": "post:the-coordinators-category-error",
@@ -2657,9 +2721,9 @@
       "slug": "the-coordinators-category-error",
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "The Coordinator’s Category Error",
-      "hash": "21d15783bc0f",
-      "in_degree": 9,
-      "out_degree": 12,
+      "hash": "64bb44b09422",
+      "in_degree": 10,
+      "out_degree": 13,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
@@ -2669,6 +2733,7 @@
         "price-as-utterance-understanding-as-trade",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-npc-impression-is-structural",
+        "liberation-rhetoric-begins-by-defining-captivity",
         "help-is-half-the-problem",
         "the-compassion-is-the-mechanism-of-obscuration",
         "the-allocation-of-causal-power-in-validation",
@@ -2989,13 +3054,14 @@
       "slug": "the-npc-impression-is-structural",
       "path": "content/posts/the-npc-impression-is-structural.md",
       "title": "The NPC Impression Is Structural, Not a Ranking of Minds",
-      "hash": "4138fd2688b2",
-      "in_degree": 5,
-      "out_degree": 10,
+      "hash": "1e35a4a1735d",
+      "in_degree": 6,
+      "out_degree": 11,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "intelligence-belongs-only-to-the-mind",
         "the-coordinators-category-error",
+        "liberation-rhetoric-begins-by-defining-captivity",
         "hierarchy-from-individual-difference",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-question-that-installs-the-war",
@@ -3011,9 +3077,9 @@
       "slug": "the-paradoxical-nature-of-bystander-insights",
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
       "title": "The Paradoxical Nature of Bystander Insights",
-      "hash": "6c7c7eff2d9b",
-      "in_degree": 8,
-      "out_degree": 15,
+      "hash": "7680ad1fc468",
+      "in_degree": 9,
+      "out_degree": 16,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "two-failures-of-trace",
@@ -3028,6 +3094,7 @@
         "causality-all-the-way",
         "the-scaffolding-we-forget",
         "when-observation-becomes-performance",
+        "liberation-rhetoric-begins-by-defining-captivity",
         "the-source-of-shared-change",
         "exceptionality-perception-and-the-self-limiting-field-of-problems"
       ]
@@ -3765,13 +3832,14 @@
       "slug": "when-observation-becomes-performance",
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "When Observation Becomes Performance",
-      "hash": "d49e56d84cac",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "57e4edddc357",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
         "mei-you-pu-du-zhi-you-zi-du",
         "the-paradoxical-nature-of-bystander-insights",
+        "liberation-rhetoric-begins-by-defining-captivity",
         "two-failures-of-trace",
         "writing-without-the-image",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -5266,6 +5334,12 @@
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -5668,6 +5742,12 @@
     },
     {
       "from": "expertise-as-reference-not-replacement",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The scaffolding we forget"
@@ -5707,6 +5787,12 @@
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
       "label": "Empowerment establishes the centralization of power"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
@@ -5811,6 +5897,12 @@
       "label": "The reversal from defensible claim to dogma"
     },
     {
+      "from": "fate-loves-irony-refined",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
+    },
+    {
       "from": "fidelity-not-optimality",
       "to": "minimizing-path",
       "rel": "points_to",
@@ -5896,6 +5988,12 @@
     },
     {
       "from": "having-more-is-never-the-cause",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
       "label": "Price as utterance, understanding as trade"
@@ -5947,6 +6045,12 @@
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
       "label": "Therapy opens the feedback loop"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
     },
     {
       "from": "help-is-half-the-problem",
@@ -6268,6 +6372,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The coordinator’s category error"
@@ -6561,6 +6671,72 @@
       "label": "Climbing does not leave the ground"
     },
     {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC impression is structural"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The paradoxical nature of bystander insights"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When observation becomes performance"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment establishes the centralization of power"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help is half the problem"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-compassion-is-the-mechanism-of-obscuration",
+      "rel": "points_to",
+      "label": "the compassion is the mechanism of obscuration"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "ownership and self-worthiness"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as reference, not replacement"
+    },
+    {
       "from": "looping-and-graphing",
       "to": "self-rl-for-humans",
       "rel": "points_to",
@@ -6697,6 +6873,12 @@
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
       "label": "Empowerment establishes the centralization of power"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -7726,6 +7908,12 @@
     },
     {
       "from": "ownership-and-self-worthiness",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
       "label": "Externalized virtue becomes its opposite"
@@ -7741,6 +7929,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -8140,6 +8334,12 @@
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -8203,6 +8403,60 @@
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
       "label": "Closed assumptions squeeze compounding into S-curves"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Fate loves irony"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction is a selective tax"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -8455,6 +8709,12 @@
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
     },
     {
       "from": "restriction-is-a-selective-tax",
@@ -8800,6 +9060,12 @@
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
       "label": "Shared humanity is never shared"
@@ -8932,6 +9198,12 @@
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The coordinator’s category error"
@@ -9007,6 +9279,12 @@
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
       "label": "Having more is never the cause"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -9381,6 +9659,12 @@
       "label": "The reversal from defensible claim to dogma"
     },
     {
+      "from": "the-compassion-is-the-mechanism-of-obscuration",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
+    },
+    {
       "from": "the-coordinators-category-error",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
@@ -9427,6 +9711,12 @@
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
       "label": "The NPC impression is structural"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
     },
     {
       "from": "the-coordinators-category-error",
@@ -10156,6 +10446,12 @@
     },
     {
       "from": "the-npc-impression-is-structural",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from individual difference"
@@ -10273,6 +10569,12 @@
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
       "label": "When observation becomes performance"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
@@ -12505,6 +12807,12 @@
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
       "label": "The paradoxical nature of bystander insights"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
     },
     {
       "from": "when-observation-becomes-performance",

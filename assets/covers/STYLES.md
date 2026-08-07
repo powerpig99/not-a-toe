@@ -133,6 +133,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Mola reverse-appliqué textile** | Layered indigo–coral–cream cotton, two independent cut-layer motifs with only a narrow central band of partial intersection, residual uncut top cloth outside, hand-stitch texture, cool museum craft light | `shared-consciousness-is-intersecting-individualities` |
 | **Origami / continuous-sheet folded stair still** | Single cream paper sheet folded into discrete ascending terraces, continuous fiber from base to peak, soft museum side light, ivory–warm-gray, paper tooth and crease shadow only | `climbing-does-not-leave-the-ground` |
 | **Notarial embosser / dry-seal still** | Cream linen craft table, antique brass notarial embosser, one raised blank seal impressed on cream vellum as finished identity, unmarked sheet continuing past the emboss, cool museum raking light, brass–paper grain | `liberation-rhetoric-begins-by-defining-captivity` |
+| **Exchequer counting-board still** | Dark oak desk, black-and-cream chequered cloth, wooden and brass counters mid-transfer from depleted private pile to ordered public squares, blank brass nameplate over the public side, split tally sticks, cool museum raking light | `public-spending-does-not-create-capital` |
 
 ## Inventory (by slug)
 
@@ -188,6 +189,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `performative-hindsight-that-pretends-to-be-foresight` | Solarized surreal photograph |
 | `price-as-utterance-understanding-as-trade` | Wire-service teletype / ticker-tape still |
 | `production-consumption-and-the-minds-distinction` | Photoreal tableau |
+| `public-spending-does-not-create-capital` | Exchequer counting-board still |
 | `reality-is-the-minds-ongoing-realization` | Comic halftone / Ben-Day dots |
 | `restriction-is-a-selective-tax` | Bokashi woodblock / graded indigo print |
 | `self-rl-for-humans` | Dark chalk / light trails |
