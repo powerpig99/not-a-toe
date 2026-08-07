@@ -131,6 +131,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Batik / wax-resist dye on cotton** | Cream cotton, indigo wax-resist lattice as unbroken average field, one white wax trail rupturing a cell and continuing past fabric edge, craft-studio side light, cloth weave and crackled wax | `the-reality-distortion-field-inverts-the-baseline` |
 | **Pepper’s ghost theatrical still** | Cream linen stage table, tilted glass plate projecting translucent sealed-vault silhouette, densified blank institutional seals aside, open instrument notebook and brass dividers as ordinary craft tools, cool museum side light | `the-imagining-of-ai-risk` |
 | **Mola reverse-appliqué textile** | Layered indigo–coral–cream cotton, two independent cut-layer motifs with only a narrow central band of partial intersection, residual uncut top cloth outside, hand-stitch texture, cool museum craft light | `shared-consciousness-is-intersecting-individualities` |
+| **Origami / continuous-sheet folded stair still** | Single cream paper sheet folded into discrete ascending terraces, continuous fiber from base to peak, soft museum side light, ivory–warm-gray, paper tooth and crease shadow only | `climbing-does-not-leave-the-ground` |
 
 ## Inventory (by slug)
 
@@ -145,6 +146,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-paradoxical-nature-of-bystander-insights` | Victorian stereograph dual-panel |
 | `causality-all-the-way` | Sand animation / grain board |
 | `causality-stays-at-the-edge-that-steers` | Bauhaus primary-color geometry |
+| `climbing-does-not-leave-the-ground` | Origami / continuous-sheet folded stair still |
 | `closed-assumptions-squeeze-compounding-into-s-curves` | Marquetry / wood-inlay panel |
 | `closed-reality-in-benchmark-maxing` | Photoreal tableau |
 | `closed-reality-in-the-pursuit-of-serendipity` | Pinhole / camera obscura photograph |
