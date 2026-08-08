@@ -26,7 +26,7 @@ AI makes cognitive work cheaper. The replacement frame asks: who loses their sli
 
 When building software costs nearly nothing, every organization, community, and individual becomes a potential creator. When analysis costs nearly nothing, decision quality improves everywhere. When translation, legal review, and financial planning cost nearly nothing, billions of people gain access to capabilities previously reserved for the few. Each expansion generates needs and activities that don't have names yet — just as "software engineer" had no name before computers existed.
 
-The scenario can't see this because its frame excludes it. If you've already decided the pie is fixed, expansion is invisible by construction.
+The scenario can't see this because its frame excludes it. If you've already decided the pie is fixed, expansion is invisible by construction. [The myth of population collapse explained](../the-myth-of-population-collapse-explained/) is the demographic face of that conversion: advanced surplus scored as closed stock until the next generation no longer registers as a project this edge can author.
 
 ---
 

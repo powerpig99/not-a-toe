@@ -135,6 +135,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Notarial embosser / dry-seal still** | Cream linen craft table, antique brass notarial embosser, one raised blank seal impressed on cream vellum as finished identity, unmarked sheet continuing past the emboss, cool museum raking light, brass–paper grain | `liberation-rhetoric-begins-by-defining-captivity` |
 | **Exchequer counting-board still** | Dark oak desk, black-and-cream chequered cloth, wooden and brass counters mid-transfer from depleted private pile to ordered public squares, blank brass nameplate over the public side, split tally sticks, cool museum raking light | `public-spending-does-not-create-capital` |
 | **Schlieren optical still** | Dark lab field, collimated light revealing invisible density gradients around a cabin silhouette; rigid price-scoreboard frame capturing only partial bands while protective flow continues past it; silver-blue charcoal optical grain | `ownership-cost-freezes-lagged-averages-as-vehicle-property` |
+| **Operant maze / conditioning apparatus still** | Cream linen museum table, wooden laboratory maze, pellet dispensers on short dependency paths, longer unsubsidized path without dispensers, cool museum side light, brass–wood craft grain | `the-myth-of-population-collapse-explained` |
 
 ## Inventory (by slug)
 
@@ -212,6 +213,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
 | `the-meaning-of-life-is-in-the-drafting` | Risograph flat print |
 | `the-model-never-becomes-a-second-edge` | Gouache narrative still life |
+| `the-myth-of-population-collapse-explained` | Operant maze / conditioning apparatus still |
 | `the-non-definitive-definition-of-intelligence` | Cyanotype |
 | `the-npc-impression-is-structural` | Sgraffito plaster / scraped fresco |
 | `the-path-drawn-one-step-at-a-time` | Cinematic dual-path |

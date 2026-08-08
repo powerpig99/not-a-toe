@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-07T11:23:20.087Z",
+    "generated_at": "2026-08-08T04:25:10.587Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -50,21 +50,21 @@
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "74883652d5c3",
-      "content/posts/fate-loves-irony-refined.md": "995997fed740",
+      "content/posts/fate-loves-irony-refined.md": "1692d0188cf8",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "8fdda6e433bc",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
-      "content/posts/having-more-is-never-the-cause.md": "ebc8350f51c1",
-      "content/posts/help-is-half-the-problem.md": "fe18986840dc",
-      "content/posts/hierarchy-from-individual-difference.md": "9f86eddc95a9",
+      "content/posts/having-more-is-never-the-cause.md": "d55e663429ae",
+      "content/posts/help-is-half-the-problem.md": "49dcac282b17",
+      "content/posts/hierarchy-from-individual-difference.md": "d967281c7131",
       "content/posts/how-belief-actually-changes.md": "7ddd0a859449",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "704c23d0021b",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "452538520c59",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "09adeaa2661d",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -89,17 +89,17 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "0e830287ad49",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "f4f185751e8d",
+      "content/posts/openness-is-consistency.md": "4e32aa58ac19",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "cbc7093d60d7",
+      "content/posts/ownership-and-self-worthiness.md": "ae5fa2f20a79",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "916dc4d56804",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "b9f3e9f2abcb",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "d350e546c886",
       "content/posts/price-as-utterance-understanding-as-trade.md": "e47aa7be4d0e",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "ec2653f5feaa",
-      "content/posts/public-spending-does-not-create-capital.md": "f28cadda7c6e",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "d8759494a898",
+      "content/posts/public-spending-does-not-create-capital.md": "de2e29970457",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "cb9f011c40ad",
@@ -108,7 +108,7 @@
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "9a19a7a34f5d",
-      "content/posts/self-rl-for-humans.md": "45068b967035",
+      "content/posts/self-rl-for-humans.md": "5d362f0ad134",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "4acc15d3e6bf",
       "content/posts/shared-humanity-is-never-shared.md": "7a429623e174",
@@ -116,7 +116,7 @@
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "5ecd39a34975",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "957f33c569a0",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "0b43f408caff",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "46883da22529",
       "content/posts/the-artifacts-of-self-amplification.md": "b35fac467d94",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
@@ -141,6 +141,7 @@
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
       "content/posts/the-model-never-becomes-a-second-edge.md": "e14a64d0388e",
+      "content/posts/the-myth-of-population-collapse-explained.md": "71466f57da7d",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "1e35a4a1735d",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "7680ad1fc468",
@@ -172,11 +173,11 @@
       "content/posts/therapy-opens-the-feedback-loop.md": "e859c0e48fd3",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "b7b56f743d05",
       "content/posts/two-failures-of-trace.md": "38487fb476f3",
-      "content/posts/what-always-listens-cannot-originate.md": "a90b891f7758",
+      "content/posts/what-always-listens-cannot-originate.md": "efb9ac42b92d",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "0d6e8e3018a4",
       "content/posts/whatever-is-one-prompt-away.md": "f2384aefbb84",
-      "content/posts/when-abundance-looks-like-scarcity.md": "db0c86162b4e",
+      "content/posts/when-abundance-looks-like-scarcity.md": "6a45742bfbd7",
       "content/posts/when-need-stops-being-the-measure.md": "ff23d1d0c5f3",
       "content/posts/when-observation-becomes-performance.md": "57e4edddc357",
       "content/posts/when-the-effect-authors-the-frame.md": "3ff766a5c65f",
@@ -187,13 +188,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 177,
-      "edges": 1539,
-      "unique_directed": 1522,
+      "posts": 178,
+      "edges": 1565,
+      "unique_directed": 1548,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 120
+      "posts_with_outbound": 122
     }
   },
   "hubs_in": [
@@ -203,7 +204,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 37
+      "in_degree": 38
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -215,7 +216,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 26
+      "in_degree": 27
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -226,11 +227,19 @@
       "in_degree": 25
     },
     {
+      "slug": "self-rl-for-humans",
+      "in_degree": 25
+    },
+    {
       "slug": "the-scaffolding-we-forget",
       "in_degree": 25
     },
     {
-      "slug": "self-rl-for-humans",
+      "slug": "hierarchy-from-individual-difference",
+      "in_degree": 24
+    },
+    {
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 24
     },
     {
@@ -239,14 +248,6 @@
     },
     {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "in_degree": 23
-    },
-    {
-      "slug": "hierarchy-from-individual-difference",
-      "in_degree": 23
-    },
-    {
-      "slug": "ownership-and-self-worthiness",
       "in_degree": 23
     },
     {
@@ -281,7 +282,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 29
+      "out_degree": 30
     },
     {
       "slug": "not-a-theory-of-everything",
@@ -292,6 +293,10 @@
       "out_degree": 27
     },
     {
+      "slug": "openness-is-consistency",
+      "out_degree": 25
+    },
+    {
       "slug": "the-model-never-becomes-a-second-edge",
       "out_degree": 25
     },
@@ -300,15 +305,11 @@
       "out_degree": 24
     },
     {
-      "slug": "openness-is-consistency",
+      "slug": "hierarchy-from-individual-difference",
       "out_degree": 24
     },
     {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "out_degree": 23
-    },
-    {
-      "slug": "hierarchy-from-individual-difference",
       "out_degree": 23
     },
     {
@@ -328,6 +329,10 @@
       "out_degree": 23
     },
     {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "out_degree": 22
+    },
+    {
       "slug": "the-source-of-shared-change",
       "out_degree": 22
     },
@@ -336,11 +341,11 @@
       "out_degree": 21
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
+      "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 21
     },
     {
-      "slug": "reality-is-the-minds-ongoing-realization",
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 21
     },
     {
@@ -353,10 +358,6 @@
     },
     {
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-      "out_degree": 20
-    },
-    {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 20
     }
   ],
@@ -1218,11 +1219,12 @@
       "slug": "fate-loves-irony-refined",
       "path": "content/posts/fate-loves-irony-refined.md",
       "title": "Fate Loves Irony: Production Creates Its Own Ideological Consumption",
-      "hash": "995997fed740",
-      "in_degree": 3,
-      "out_degree": 1,
+      "hash": "1692d0188cf8",
+      "in_degree": 4,
+      "out_degree": 2,
       "links_out": [
-        "public-spending-does-not-create-capital"
+        "public-spending-does-not-create-capital",
+        "the-myth-of-population-collapse-explained"
       ]
     },
     {
@@ -1309,15 +1311,16 @@
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
-      "hash": "ebc8350f51c1",
-      "in_degree": 12,
-      "out_degree": 14,
+      "hash": "d55e663429ae",
+      "in_degree": 13,
+      "out_degree": 15,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
         "individual-choices-as-the-only-causal-levers",
         "empowerment-establishes-the-centralization-of-power",
         "the-allocation-of-causal-power-in-validation",
         "public-spending-does-not-create-capital",
+        "the-myth-of-population-collapse-explained",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "price-as-utterance-understanding-as-trade",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -1335,10 +1338,11 @@
       "slug": "help-is-half-the-problem",
       "path": "content/posts/help-is-half-the-problem.md",
       "title": "Help Is Half the Problem",
-      "hash": "fe18986840dc",
-      "in_degree": 6,
-      "out_degree": 4,
+      "hash": "49dcac282b17",
+      "in_degree": 7,
+      "out_degree": 5,
       "links_out": [
+        "the-myth-of-population-collapse-explained",
         "therapy-opens-the-feedback-loop",
         "liberation-rhetoric-begins-by-defining-captivity",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -1351,9 +1355,9 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "Hierarchy from Individual Difference",
-      "hash": "9f86eddc95a9",
-      "in_degree": 23,
-      "out_degree": 23,
+      "hash": "d967281c7131",
+      "in_degree": 24,
+      "out_degree": 24,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "having-more-is-never-the-cause",
@@ -1368,6 +1372,7 @@
         "the-npc-impression-is-structural",
         "self-image-speaks-as-if-from-nowhere",
         "ownership-and-self-worthiness",
+        "the-myth-of-population-collapse-explained",
         "the-fixed-image-of-transcendence",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -1445,9 +1450,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "704c23d0021b",
-      "in_degree": 26,
-      "out_degree": 29,
+      "hash": "452538520c59",
+      "in_degree": 27,
+      "out_degree": 30,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1459,6 +1464,7 @@
         "the-utility-men-of-progress",
         "production-consumption-and-the-minds-distinction",
         "fate-loves-irony-refined",
+        "the-myth-of-population-collapse-explained",
         "ownership-and-self-worthiness",
         "price-as-utterance-understanding-as-trade",
         "what-always-listens-cannot-originate",
@@ -1974,9 +1980,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "f4f185751e8d",
-      "in_degree": 37,
-      "out_degree": 24,
+      "hash": "4e32aa58ac19",
+      "in_degree": 38,
+      "out_degree": 25,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -1987,6 +1993,7 @@
         "self-rl-for-humans",
         "clarity-isnt-a-state-you-arrive-at",
         "why-mathematics-can-never-be-solved",
+        "the-myth-of-population-collapse-explained",
         "open-vision-in-a-closed-arena",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "only-if-it-is-not-kept-empty",
@@ -2021,9 +2028,9 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "cbc7093d60d7",
-      "in_degree": 23,
-      "out_degree": 15,
+      "hash": "ae5fa2f20a79",
+      "in_degree": 24,
+      "out_degree": 16,
       "links_out": [
         "empowerment-establishes-the-centralization-of-power",
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -2031,6 +2038,7 @@
         "the-source-of-all-harm",
         "individual-choices-as-the-only-causal-levers",
         "public-spending-does-not-create-capital",
+        "the-myth-of-population-collapse-explained",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "hierarchy-from-individual-difference",
         "expertise-as-reference-not-replacement",
@@ -2174,9 +2182,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "ec2653f5feaa",
-      "in_degree": 16,
-      "out_degree": 21,
+      "hash": "d8759494a898",
+      "in_degree": 17,
+      "out_degree": 22,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -2191,6 +2199,7 @@
         "individual-choices-as-the-only-causal-levers",
         "self-rl-for-humans",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "the-myth-of-population-collapse-explained",
         "data-is-local-intelligence-is-allocated",
         "clarity-isnt-a-state-you-arrive-at",
         "the-paradoxical-nature-of-bystander-insights",
@@ -2207,9 +2216,9 @@
       "slug": "public-spending-does-not-create-capital",
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "Public Spending Does Not Create Capital",
-      "hash": "f28cadda7c6e",
-      "in_degree": 9,
-      "out_degree": 9,
+      "hash": "de2e29970457",
+      "in_degree": 10,
+      "out_degree": 10,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "having-more-is-never-the-cause",
@@ -2219,7 +2228,8 @@
         "ownership-and-self-worthiness",
         "symptom-and-cause-in-the-narratives-of-progress",
         "fate-loves-irony-refined",
-        "restriction-is-a-selective-tax"
+        "restriction-is-a-selective-tax",
+        "the-myth-of-population-collapse-explained"
       ]
     },
     {
@@ -2385,10 +2395,11 @@
       "slug": "self-rl-for-humans",
       "path": "content/posts/self-rl-for-humans.md",
       "title": "What Looks Like RL for AIs Is Self-RL for Humans",
-      "hash": "45068b967035",
-      "in_degree": 24,
-      "out_degree": 5,
+      "hash": "5d362f0ad134",
+      "in_degree": 25,
+      "out_degree": 6,
       "links_out": [
+        "the-myth-of-population-collapse-explained",
         "data-is-local-intelligence-is-allocated",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "the-illusion-of-free-intelligence",
@@ -2526,9 +2537,9 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "957f33c569a0",
-      "in_degree": 14,
-      "out_degree": 20,
+      "hash": "0b43f408caff",
+      "in_degree": 15,
+      "out_degree": 21,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "individual-choices-as-the-only-causal-levers",
@@ -2545,6 +2556,7 @@
         "the-coordinators-category-error",
         "what-works-is-the-belief",
         "restriction-is-a-selective-tax",
+        "the-myth-of-population-collapse-explained",
         "having-more-is-never-the-cause",
         "the-reality-distortion-field-names-the-closed-map",
         "the-reality-distortion-field-inverts-the-baseline",
@@ -3051,6 +3063,31 @@
         "intelligence-folding-back-on-itself",
         "climbing-does-not-leave-the-ground",
         "the-real-lesson-from-the-consciousness-vector-paper"
+      ]
+    },
+    {
+      "id": "post:the-myth-of-population-collapse-explained",
+      "kind": "post",
+      "slug": "the-myth-of-population-collapse-explained",
+      "path": "content/posts/the-myth-of-population-collapse-explained.md",
+      "title": "The Myth of Population Collapse Explained",
+      "hash": "71466f57da7d",
+      "in_degree": 13,
+      "out_degree": 13,
+      "links_out": [
+        "public-spending-does-not-create-capital",
+        "individual-choices-as-the-only-causal-levers",
+        "production-consumption-and-the-minds-distinction",
+        "fate-loves-irony-refined",
+        "self-rl-for-humans",
+        "ownership-and-self-worthiness",
+        "what-always-listens-cannot-originate",
+        "help-is-half-the-problem",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "when-abundance-looks-like-scarcity",
+        "hierarchy-from-individual-difference",
+        "having-more-is-never-the-cause",
+        "openness-is-consistency"
       ]
     },
     {
@@ -3730,9 +3767,9 @@
       "slug": "what-always-listens-cannot-originate",
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "What Always Listens Cannot Originate",
-      "hash": "a90b891f7758",
-      "in_degree": 13,
-      "out_degree": 15,
+      "hash": "efb9ac42b92d",
+      "in_degree": 14,
+      "out_degree": 16,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-allocation-of-causal-power-in-validation",
@@ -3741,6 +3778,7 @@
         "conscience-power-delegation",
         "sovereignty-belief-and-regulatory-structures",
         "individual-choices-as-the-only-causal-levers",
+        "the-myth-of-population-collapse-explained",
         "recursive-contradiction-of-entrusted-morality",
         "the-risk-you-delegate-is-the-risk-you-create",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -3831,10 +3869,12 @@
       "slug": "when-abundance-looks-like-scarcity",
       "path": "content/posts/when-abundance-looks-like-scarcity.md",
       "title": "When Abundance Looks Like Scarcity",
-      "hash": "db0c86162b4e",
-      "in_degree": 1,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "6a45742bfbd7",
+      "in_degree": 2,
+      "out_degree": 1,
+      "links_out": [
+        "the-myth-of-population-collapse-explained"
+      ]
     },
     {
       "id": "post:when-need-stops-being-the-measure",
@@ -5944,6 +5984,12 @@
       "label": "Public spending does not create capital"
     },
     {
+      "from": "fate-loves-irony-refined",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
+    },
+    {
       "from": "fidelity-not-optimality",
       "to": "minimizing-path",
       "rel": "points_to",
@@ -6035,6 +6081,12 @@
     },
     {
       "from": "having-more-is-never-the-cause",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
       "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "rel": "points_to",
       "label": "Ownership cost freezes lagged averages as vehicle property"
@@ -6086,6 +6138,12 @@
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
       "label": "The flywheel of the Mind"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
     },
     {
       "from": "help-is-half-the-problem",
@@ -6188,6 +6246,12 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
     },
     {
       "from": "hierarchy-from-individual-difference",
@@ -6392,6 +6456,12 @@
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
       "label": "Fate loves irony"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -7859,6 +7929,12 @@
     },
     {
       "from": "openness-is-consistency",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "openness-is-consistency",
       "to": "open-vision-in-a-closed-arena",
       "rel": "points_to",
       "label": "Open vision in a closed arena"
@@ -7982,6 +8058,12 @@
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public spending does not create capital"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -8453,6 +8535,12 @@
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
       "label": "Data is local; intelligence is allocated"
@@ -8552,6 +8640,12 @@
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
       "label": "Restriction is a selective tax"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -8945,6 +9039,12 @@
     },
     {
       "from": "self-rl-for-humans",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "self-rl-for-humans",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
       "label": "Data is local; intelligence is allocated"
@@ -9320,6 +9420,12 @@
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
       "label": "Restriction is a selective tax"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
@@ -10478,6 +10584,84 @@
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
       "label": "The real lesson from the consciousness vector paper"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Fate loves irony"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "Self-RL for humans"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What always listens cannot originate"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help is half the problem"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "when-abundance-looks-like-scarcity",
+      "rel": "points_to",
+      "label": "When abundance looks like scarcity"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
@@ -12593,6 +12777,12 @@
     },
     {
       "from": "what-always-listens-cannot-originate",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "what-always-listens-cannot-originate",
       "to": "recursive-contradiction-of-entrusted-morality",
       "rel": "points_to",
       "label": "the recursive contradiction of entrusted morality"
@@ -12872,6 +13062,12 @@
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
       "label": "The illusion of free intelligence"
+    },
+    {
+      "from": "when-abundance-looks-like-scarcity",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
     },
     {
       "from": "when-need-stops-being-the-measure",
