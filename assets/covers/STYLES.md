@@ -136,6 +136,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Exchequer counting-board still** | Dark oak desk, black-and-cream chequered cloth, wooden and brass counters mid-transfer from depleted private pile to ordered public squares, blank brass nameplate over the public side, split tally sticks, cool museum raking light | `public-spending-does-not-create-capital` |
 | **Schlieren optical still** | Dark lab field, collimated light revealing invisible density gradients around a cabin silhouette; rigid price-scoreboard frame capturing only partial bands while protective flow continues past it; silver-blue charcoal optical grain | `ownership-cost-freezes-lagged-averages-as-vehicle-property` |
 | **Operant maze / conditioning apparatus still** | Cream linen museum table, wooden laboratory maze, pellet dispensers on short dependency paths, longer unsubsidized path without dispensers, cool museum side light, brass–wood craft grain | `the-myth-of-population-collapse-explained` |
+| **Open assay balance still** | Cream linen museum table, antique dual-pan assay balance with visible knife-edge, pans unequal mid-weigh under continuous open adjustment, cool side light continuing past both pans into empty space, brass–ivory craft grain | `pessimism-is-the-shadow-of-optimism` |
 
 ## Inventory (by slug)
 
@@ -186,6 +187,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `not-a-theory-of-everything` | Mezzotint / aquatint |
 | `open-vision-in-a-closed-arena` | Limestone bas-relief / architectural frieze |
 | `openness-is-consistency` | Painterly glass / gold path |
+| `pessimism-is-the-shadow-of-optimism` | Open assay balance still |
 | `ontos-is-a-method-agent` | Urushi lacquer / maki-e still |
 | `ownership-and-self-worthiness` | Dark chalk / light trails |
 | `ownership-cost-freezes-lagged-averages-as-vehicle-property` | Schlieren optical still |

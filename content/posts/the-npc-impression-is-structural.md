@@ -20,7 +20,7 @@ When those signals remain thin or highly patterned, the center registers them as
 
 The philosophical zombie is conceivable precisely because the inference remains inductive. The gap is not a temporary epistemic shortfall awaiting better data. It is the permanent asymmetry between a center’s recursion on its own traces and the same center’s registration of every other locus as external signal.
 
-Observation holds effect; the cause that produced it remains one step ahead. For other minds, that gap is structural, not provisional. The look is ordinary. The lag is freezing the look as a permanent exterior survey from which agency levels can be inventoried — the same freeze [intelligence belongs only to the Mind](../intelligence-belongs-only-to-the-mind/) tracks when capacity is treated as a system property surveyed from outside.
+Observation holds effect; the cause that produced it remains one step ahead. For other minds, that gap is structural, not provisional. The look is ordinary. The lag is freezing the look as a permanent exterior survey from which agency levels can be inventoried — the same freeze [intelligence belongs only to the Mind](../intelligence-belongs-only-to-the-mind/) tracks when capacity is treated as a system property surveyed from outside. [Pessimism is the shadow of optimism](../pessimism-is-the-shadow-of-optimism/) is that freeze under dual-mood costume: dual-zero cancellation narrated as if a look could remain after both poles are gone.
 
 The NPC impression arises as the default reading of that asymmetry. It requires no arrogance. It is what capacity does when available traces are sparse relative to the resolution demanded by a retained image of full agency.
 

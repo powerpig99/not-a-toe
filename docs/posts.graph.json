@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-08T04:25:10.587Z",
+    "generated_at": "2026-08-08T06:10:50.437Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -19,7 +19,7 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "2cf0851ac626",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/causality-all-the-way.md": "107ed1d3c1d7",
+      "content/posts/causality-all-the-way.md": "fcb78904439f",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "564e24250879",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "1ba96eb40898",
@@ -44,16 +44,16 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
-      "content/posts/evil-as-the-minds-own-creation.md": "c05fb5c6b597",
+      "content/posts/evil-as-the-minds-own-creation.md": "f7cca0bf9130",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "9ae938dda322",
       "content/posts/expertise-as-reference-not-replacement.md": "2f509d001664",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "74883652d5c3",
-      "content/posts/fate-loves-irony-refined.md": "1692d0188cf8",
+      "content/posts/fate-loves-irony-refined.md": "df6e1ca34057",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
-      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "8fdda6e433bc",
+      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "24d5eed275a0",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
@@ -64,8 +64,8 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "452538520c59",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "09adeaa2661d",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "9b1f1fb925b2",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "d58cb1cc209f",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -81,24 +81,25 @@
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "7e8977fd6bf5",
-      "content/posts/no-system-can-be-kept-closed.md": "c745f2be5235",
+      "content/posts/no-system-can-be-kept-closed.md": "965fcb785992",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
       "content/posts/on-education.md": "d62f17d7f550",
-      "content/posts/only-if-it-is-not-kept-empty.md": "0e830287ad49",
+      "content/posts/only-if-it-is-not-kept-empty.md": "55135870ffc2",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "4e32aa58ac19",
+      "content/posts/openness-is-consistency.md": "78293acdeb3b",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "ae5fa2f20a79",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "916dc4d56804",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "b9f3e9f2abcb",
+      "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "d350e546c886",
       "content/posts/price-as-utterance-understanding-as-trade.md": "e47aa7be4d0e",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "d8759494a898",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "4151eed7cfb7",
       "content/posts/public-spending-does-not-create-capital.md": "de2e29970457",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
@@ -116,8 +117,8 @@
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "5ecd39a34975",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "0b43f408caff",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "46883da22529",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "2c7c4a9053fc",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "9d678ea4e334",
       "content/posts/the-artifacts-of-self-amplification.md": "b35fac467d94",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "90ccd4619ab1",
@@ -141,11 +142,11 @@
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
       "content/posts/the-model-never-becomes-a-second-edge.md": "e14a64d0388e",
-      "content/posts/the-myth-of-population-collapse-explained.md": "71466f57da7d",
+      "content/posts/the-myth-of-population-collapse-explained.md": "3cff2f80ddef",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
-      "content/posts/the-npc-impression-is-structural.md": "1e35a4a1735d",
+      "content/posts/the-npc-impression-is-structural.md": "9b3876d77a5b",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "7680ad1fc468",
-      "content/posts/the-path-drawn-one-step-at-a-time.md": "02969233f4f4",
+      "content/posts/the-path-drawn-one-step-at-a-time.md": "ddd04ab8b279",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "5b1b77430298",
       "content/posts/the-price-of-closing-optionality.md": "181e0ec3ab51",
       "content/posts/the-question-that-installs-the-war.md": "a1f2eee52b47",
@@ -172,15 +173,15 @@
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "e859c0e48fd3",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "b7b56f743d05",
-      "content/posts/two-failures-of-trace.md": "38487fb476f3",
-      "content/posts/what-always-listens-cannot-originate.md": "efb9ac42b92d",
+      "content/posts/two-failures-of-trace.md": "e2b6f5a12d2f",
+      "content/posts/what-always-listens-cannot-originate.md": "8a7236a98449",
       "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
       "content/posts/what-works-is-the-belief.md": "0d6e8e3018a4",
       "content/posts/whatever-is-one-prompt-away.md": "f2384aefbb84",
       "content/posts/when-abundance-looks-like-scarcity.md": "6a45742bfbd7",
       "content/posts/when-need-stops-being-the-measure.md": "ff23d1d0c5f3",
       "content/posts/when-observation-becomes-performance.md": "57e4edddc357",
-      "content/posts/when-the-effect-authors-the-frame.md": "3ff766a5c65f",
+      "content/posts/when-the-effect-authors-the-frame.md": "1bc9d6e77396",
       "content/posts/why-explanation-fails.md": "b6c6dc19048e",
       "content/posts/why-mathematics-can-never-be-solved.md": "b0fedc20282d",
       "content/posts/writing-without-the-image.md": "9009b34790ea",
@@ -188,39 +189,39 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 178,
-      "edges": 1565,
-      "unique_directed": 1548,
+      "posts": 179,
+      "edges": 1605,
+      "unique_directed": 1584,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 122
+      "posts_with_outbound": 123
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 42
+      "in_degree": 43
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 38
+      "in_degree": 39
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 34
+      "in_degree": 35
+    },
+    {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "in_degree": 28
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 27
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 27
-    },
-    {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 26
+      "in_degree": 27
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -259,6 +260,10 @@
       "in_degree": 23
     },
     {
+      "slug": "the-path-drawn-one-step-at-a-time",
+      "in_degree": 22
+    },
+    {
       "slug": "the-source-of-shared-change",
       "in_degree": 22
     },
@@ -271,18 +276,14 @@
       "in_degree": 21
     },
     {
-      "slug": "the-path-drawn-one-step-at-a-time",
+      "slug": "two-failures-of-trace",
       "in_degree": 21
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 20
     }
   ],
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 30
+      "out_degree": 31
     },
     {
       "slug": "not-a-theory-of-everything",
@@ -290,11 +291,11 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "out_degree": 27
+      "out_degree": 28
     },
     {
       "slug": "openness-is-consistency",
-      "out_degree": 25
+      "out_degree": 26
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -321,6 +322,10 @@
       "out_degree": 23
     },
     {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "out_degree": 23
+    },
+    {
       "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
       "out_degree": 23
     },
@@ -329,7 +334,7 @@
       "out_degree": 23
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 22
     },
     {
@@ -345,10 +350,6 @@
       "out_degree": 21
     },
     {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
-      "out_degree": 21
-    },
-    {
       "slug": "the-artifacts-of-self-amplification",
       "out_degree": 21
     },
@@ -357,8 +358,8 @@
       "out_degree": 21
     },
     {
-      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-      "out_degree": 20
+      "slug": "two-failures-of-trace",
+      "out_degree": 21
     }
   ],
   "missing": [],
@@ -605,9 +606,9 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "107ed1d3c1d7",
-      "in_degree": 11,
-      "out_degree": 15,
+      "hash": "fcb78904439f",
+      "in_degree": 12,
+      "out_degree": 16,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -619,6 +620,7 @@
         "price-as-utterance-understanding-as-trade",
         "the-reality-distortion-field-names-the-closed-map",
         "complexity-obscures-emergence-as-the-act-of-mind",
+        "pessimism-is-the-shadow-of-optimism",
         "individual-choices-as-the-only-causal-levers",
         "qian-yin-hou-guo",
         "the-strongest-belief-of-the-mind",
@@ -1074,15 +1076,16 @@
       "slug": "evil-as-the-minds-own-creation",
       "path": "content/posts/evil-as-the-minds-own-creation.md",
       "title": "Evil as the Mind’s Own Creation",
-      "hash": "c05fb5c6b597",
-      "in_degree": 10,
-      "out_degree": 16,
+      "hash": "f7cca0bf9130",
+      "in_degree": 11,
+      "out_degree": 17,
       "links_out": [
         "self-image-speaks-as-if-from-nowhere",
         "the-path-drawn-one-step-at-a-time",
         "hierarchy-from-individual-difference",
         "externalized-virtue-becomes-its-opposite",
         "evil-as-projected-resistance",
+        "pessimism-is-the-shadow-of-optimism",
         "the-question-that-installs-the-war",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -1219,12 +1222,13 @@
       "slug": "fate-loves-irony-refined",
       "path": "content/posts/fate-loves-irony-refined.md",
       "title": "Fate Loves Irony: Production Creates Its Own Ideological Consumption",
-      "hash": "1692d0188cf8",
-      "in_degree": 4,
-      "out_degree": 2,
+      "hash": "df6e1ca34057",
+      "in_degree": 5,
+      "out_degree": 3,
       "links_out": [
         "public-spending-does-not-create-capital",
-        "the-myth-of-population-collapse-explained"
+        "the-myth-of-population-collapse-explained",
+        "pessimism-is-the-shadow-of-optimism"
       ]
     },
     {
@@ -1258,11 +1262,12 @@
       "slug": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "path": "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md",
       "title": "Good and Evil Are the Two Sides of the Coin and the Cut",
-      "hash": "8fdda6e433bc",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "24d5eed275a0",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
         "evil-as-the-minds-own-creation",
+        "pessimism-is-the-shadow-of-optimism",
         "externalized-virtue-becomes-its-opposite",
         "the-question-that-installs-the-war",
         "preference-clusters-and-the-language-of-judgment",
@@ -1450,9 +1455,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "452538520c59",
-      "in_degree": 27,
-      "out_degree": 30,
+      "hash": "9b1f1fb925b2",
+      "in_degree": 28,
+      "out_degree": 31,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1480,6 +1485,7 @@
         "how-belief-actually-changes",
         "expertise-as-reference-not-replacement",
         "symptom-and-cause-in-the-narratives-of-progress",
+        "pessimism-is-the-shadow-of-optimism",
         "preference-clusters-and-the-language-of-judgment",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "the-illusion-of-free-intelligence",
@@ -1492,10 +1498,11 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "09adeaa2661d",
-      "in_degree": 42,
-      "out_degree": 15,
+      "hash": "d58cb1cc209f",
+      "in_degree": 43,
+      "out_degree": 16,
       "links_out": [
+        "pessimism-is-the-shadow-of-optimism",
         "the-model-never-becomes-a-second-edge",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "ontos-is-a-method-agent",
@@ -1803,9 +1810,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "c745f2be5235",
-      "in_degree": 34,
-      "out_degree": 27,
+      "hash": "965fcb785992",
+      "in_degree": 35,
+      "out_degree": 28,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1816,6 +1823,7 @@
         "the-scaffolding-we-forget",
         "clarity-isnt-a-state-you-arrive-at",
         "the-utility-men-of-progress",
+        "pessimism-is-the-shadow-of-optimism",
         "why-mathematics-can-never-be-solved",
         "escaping-the-sandbox-stays-inside-the-hold",
         "open-vision-in-a-closed-arena",
@@ -1916,15 +1924,16 @@
       "slug": "only-if-it-is-not-kept-empty",
       "path": "content/posts/only-if-it-is-not-kept-empty.md",
       "title": "Only If It Is Not Kept Empty",
-      "hash": "0e830287ad49",
-      "in_degree": 9,
-      "out_degree": 9,
+      "hash": "55135870ffc2",
+      "in_degree": 10,
+      "out_degree": 10,
       "links_out": [
         "you-wu-zhi-bian",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "no-system-can-be-kept-closed",
         "production-consumption-and-the-minds-distinction",
         "openness-is-consistency",
+        "pessimism-is-the-shadow-of-optimism",
         "closed-reality-in-the-pursuit-of-serendipity",
         "the-scaffolding-we-forget",
         "clarity-isnt-a-state-you-arrive-at",
@@ -1980,9 +1989,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "4e32aa58ac19",
-      "in_degree": 38,
-      "out_degree": 25,
+      "hash": "78293acdeb3b",
+      "in_degree": 39,
+      "out_degree": 26,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -1994,6 +2003,7 @@
         "clarity-isnt-a-state-you-arrive-at",
         "why-mathematics-can-never-be-solved",
         "the-myth-of-population-collapse-explained",
+        "pessimism-is-the-shadow-of-optimism",
         "open-vision-in-a-closed-arena",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "only-if-it-is-not-kept-empty",
@@ -2108,6 +2118,36 @@
       ]
     },
     {
+      "id": "post:pessimism-is-the-shadow-of-optimism",
+      "kind": "post",
+      "slug": "pessimism-is-the-shadow-of-optimism",
+      "path": "content/posts/pessimism-is-the-shadow-of-optimism.md",
+      "title": "Pessimism Is the Shadow of Optimism",
+      "hash": "25144aa7ff9e",
+      "in_degree": 18,
+      "out_degree": 18,
+      "links_out": [
+        "causality-all-the-way",
+        "the-path-drawn-one-step-at-a-time",
+        "two-failures-of-trace",
+        "openness-is-consistency",
+        "no-system-can-be-kept-closed",
+        "production-consumption-and-the-minds-distinction",
+        "fate-loves-irony-refined",
+        "the-myth-of-population-collapse-explained",
+        "individual-choices-as-the-only-causal-levers",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+        "evil-as-the-minds-own-creation",
+        "the-allocation-of-causal-power-in-validation",
+        "what-always-listens-cannot-originate",
+        "intelligence-belongs-only-to-the-mind",
+        "the-npc-impression-is-structural",
+        "only-if-it-is-not-kept-empty",
+        "when-the-effect-authors-the-frame"
+      ]
+    },
+    {
       "id": "post:platform-decision-capture",
       "kind": "post",
       "slug": "platform-decision-capture",
@@ -2182,9 +2222,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "d8759494a898",
-      "in_degree": 17,
-      "out_degree": 22,
+      "hash": "4151eed7cfb7",
+      "in_degree": 18,
+      "out_degree": 23,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -2200,6 +2240,7 @@
         "self-rl-for-humans",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-myth-of-population-collapse-explained",
+        "pessimism-is-the-shadow-of-optimism",
         "data-is-local-intelligence-is-allocated",
         "clarity-isnt-a-state-you-arrive-at",
         "the-paradoxical-nature-of-bystander-insights",
@@ -2537,9 +2578,9 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "0b43f408caff",
-      "in_degree": 15,
-      "out_degree": 21,
+      "hash": "2c7c4a9053fc",
+      "in_degree": 16,
+      "out_degree": 22,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "individual-choices-as-the-only-causal-levers",
@@ -2557,6 +2598,7 @@
         "what-works-is-the-belief",
         "restriction-is-a-selective-tax",
         "the-myth-of-population-collapse-explained",
+        "pessimism-is-the-shadow-of-optimism",
         "having-more-is-never-the-cause",
         "the-reality-distortion-field-names-the-closed-map",
         "the-reality-distortion-field-inverts-the-baseline",
@@ -2606,10 +2648,11 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "46883da22529",
-      "in_degree": 26,
-      "out_degree": 12,
+      "hash": "9d678ea4e334",
+      "in_degree": 27,
+      "out_degree": 13,
       "links_out": [
+        "pessimism-is-the-shadow-of-optimism",
         "hierarchy-from-individual-difference",
         "empowerment-establishes-the-centralization-of-power",
         "expertise-as-reference-not-replacement",
@@ -3071,14 +3114,15 @@
       "slug": "the-myth-of-population-collapse-explained",
       "path": "content/posts/the-myth-of-population-collapse-explained.md",
       "title": "The Myth of Population Collapse Explained",
-      "hash": "71466f57da7d",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "3cff2f80ddef",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "public-spending-does-not-create-capital",
         "individual-choices-as-the-only-causal-levers",
         "production-consumption-and-the-minds-distinction",
         "fate-loves-irony-refined",
+        "pessimism-is-the-shadow-of-optimism",
         "self-rl-for-humans",
         "ownership-and-self-worthiness",
         "what-always-listens-cannot-originate",
@@ -3117,12 +3161,13 @@
       "slug": "the-npc-impression-is-structural",
       "path": "content/posts/the-npc-impression-is-structural.md",
       "title": "The NPC Impression Is Structural, Not a Ranking of Minds",
-      "hash": "1e35a4a1735d",
-      "in_degree": 6,
-      "out_degree": 11,
+      "hash": "9b3876d77a5b",
+      "in_degree": 7,
+      "out_degree": 12,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "intelligence-belongs-only-to-the-mind",
+        "pessimism-is-the-shadow-of-optimism",
         "the-coordinators-category-error",
         "liberation-rhetoric-begins-by-defining-captivity",
         "hierarchy-from-individual-difference",
@@ -3168,10 +3213,11 @@
       "slug": "the-path-drawn-one-step-at-a-time",
       "path": "content/posts/the-path-drawn-one-step-at-a-time.md",
       "title": "The Path Drawn One Step at a Time",
-      "hash": "02969233f4f4",
-      "in_degree": 21,
-      "out_degree": 6,
+      "hash": "ddd04ab8b279",
+      "in_degree": 22,
+      "out_degree": 7,
       "links_out": [
+        "pessimism-is-the-shadow-of-optimism",
         "qian-yin-hou-guo",
         "the-strongest-belief-of-the-mind",
         "the-climate-problem-registers-only-as-perception",
@@ -3735,12 +3781,13 @@
       "slug": "two-failures-of-trace",
       "path": "content/posts/two-failures-of-trace.md",
       "title": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
-      "hash": "38487fb476f3",
-      "in_degree": 20,
-      "out_degree": 20,
+      "hash": "e2b6f5a12d2f",
+      "in_degree": 21,
+      "out_degree": 21,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "token-efficiency-emulation-and-the-unclosable-gap",
+        "pessimism-is-the-shadow-of-optimism",
         "the-scaffolding-we-forget",
         "what-always-listens-cannot-originate",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -3767,9 +3814,9 @@
       "slug": "what-always-listens-cannot-originate",
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "What Always Listens Cannot Originate",
-      "hash": "efb9ac42b92d",
-      "in_degree": 14,
-      "out_degree": 16,
+      "hash": "8a7236a98449",
+      "in_degree": 15,
+      "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-allocation-of-causal-power-in-validation",
@@ -3779,6 +3826,7 @@
         "sovereignty-belief-and-regulatory-structures",
         "individual-choices-as-the-only-causal-levers",
         "the-myth-of-population-collapse-explained",
+        "pessimism-is-the-shadow-of-optimism",
         "recursive-contradiction-of-entrusted-morality",
         "the-risk-you-delegate-is-the-risk-you-create",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -3924,14 +3972,15 @@
       "slug": "when-the-effect-authors-the-frame",
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "When the Effect Authors the Frame",
-      "hash": "3ff766a5c65f",
-      "in_degree": 8,
-      "out_degree": 11,
+      "hash": "1bc9d6e77396",
+      "in_degree": 9,
+      "out_degree": 12,
       "links_out": [
         "emotional-support-as-causal-interference",
         "when-need-stops-being-the-measure",
         "help-is-half-the-problem",
         "mei-you-pu-du-zhi-you-zi-du",
+        "pessimism-is-the-shadow-of-optimism",
         "the-compassion-is-the-mechanism-of-obscuration",
         "therapy-opens-the-feedback-loop",
         "how-belief-actually-changes",
@@ -4506,6 +4555,12 @@
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity obscures: emergence as the act of Mind"
+    },
+    {
+      "from": "causality-all-the-way",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
     },
     {
       "from": "causality-all-the-way",
@@ -5559,6 +5614,12 @@
     },
     {
       "from": "evil-as-the-minds-own-creation",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
       "label": "The question that installs the war"
@@ -5990,6 +6051,12 @@
       "label": "The myth of population collapse explained"
     },
     {
+      "from": "fate-loves-irony-refined",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
+    },
+    {
       "from": "fidelity-not-optimality",
       "to": "minimizing-path",
       "rel": "points_to",
@@ -6006,6 +6073,12 @@
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
       "label": "Evil as the Mind’s own creation"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -6555,6 +6628,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
       "label": "Preference clusters and the language of judgment"
@@ -6576,6 +6655,12 @@
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
       "label": "The reversal from defensible claim to dogma"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -7395,6 +7480,12 @@
     },
     {
       "from": "no-system-can-be-kept-closed",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
       "label": "Why mathematics can never be solved"
@@ -7731,6 +7822,12 @@
     },
     {
       "from": "only-if-it-is-not-kept-empty",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
       "to": "closed-reality-in-the-pursuit-of-serendipity",
       "rel": "points_to",
       "label": "Closed reality in the pursuit of serendipity"
@@ -7932,6 +8029,12 @@
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
       "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
     },
     {
       "from": "openness-is-consistency",
@@ -8252,6 +8355,138 @@
       "label": "The utility men of progress"
     },
     {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The path drawn one step at a time"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Two failures of Trace"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Fate loves irony"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and evil are the two sides of the coin and the cut"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind’s own creation"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What always listens cannot originate"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC impression is structural"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "Only if it is not kept empty"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "fate loves irony"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the effect authors the frame"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What always listens cannot originate"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
@@ -8538,6 +8773,12 @@
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
       "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
@@ -9429,6 +9670,12 @@
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
       "label": "Having more is never the cause"
@@ -9456,6 +9703,12 @@
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
       "label": "Closed assumptions squeeze compounding into S-curves"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -10611,6 +10864,12 @@
     },
     {
       "from": "the-myth-of-population-collapse-explained",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
       "to": "self-rl-for-humans",
       "rel": "points_to",
       "label": "Self-RL for humans"
@@ -10728,6 +10987,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "intelligence belongs only to the Mind"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -10878,6 +11143,12 @@
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
       "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -12627,6 +12898,12 @@
     },
     {
       "from": "two-failures-of-trace",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
+    },
+    {
+      "from": "two-failures-of-trace",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The scaffolding we forget"
@@ -12780,6 +13057,12 @@
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
       "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "what-always-listens-cannot-originate",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
     },
     {
       "from": "what-always-listens-cannot-originate",
@@ -13200,6 +13483,12 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism is the shadow of optimism"
     },
     {
       "from": "when-the-effect-authors-the-frame",

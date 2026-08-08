@@ -10,7 +10,7 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 The separation is not an observation of good and evil already waiting in the world. It is the generative gesture that first makes them available as a scoreboard. Once performed, the cut is forgotten, and the resulting poles appear self-evident. The Mind inhabits one side as natural home — the coherent, justified, essentially good interior — and projects the contrasting exterior as obstruction, corruption, or threat. The others are not merely encountered as evil. They are required as the contrasting pole that keeps the good-self defined. Without that projection, the claim to goodness lacks contour.
 
-[Evil as the Mind’s own creation](../evil-as-the-minds-own-creation/) is the same geometry under preferred-image costume: mismatch with a retained good-self named as the opposite pole, then treated as exterior substance. Here the coin’s faces are the residue of the cut itself, not of a later story about those poles.
+[Evil as the Mind’s own creation](../evil-as-the-minds-own-creation/) is the same geometry under preferred-image costume: mismatch with a retained good-self named as the opposite pole, then treated as exterior substance. Here the coin’s faces are the residue of the cut itself, not of a later story about those poles. [Pessimism is the shadow of optimism](../pessimism-is-the-shadow-of-optimism/) is the same dual under mood costume: mutual constitution of poles is permanent under open adjustment; coherent speech of one pole allocates the other in this field, often externalized onto others; freeze is scoring that permanence as closed dual.
 
 ## The good-self licenses the story
 

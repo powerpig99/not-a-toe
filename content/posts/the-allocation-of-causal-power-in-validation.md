@@ -14,7 +14,7 @@ Once the mark is drawn, a further distinction is already in play: what arises th
 
 Causality, at a center, is the activity registering its own trace asymmetry through recursion. Between centers there is only availability-patterning: traces that may be taken up or not. Cross-locus completion of another’s return is a category error, not an unfinished ideal.
 
-“Causal power” in validation names which side Mind treats as supplying the next step. The attribution is itself Mind’s act. When the act is forgotten, the supply appears to live outside the edge that still performs every following.
+“Causal power” in validation names which side Mind treats as supplying the next step. The attribution is itself Mind’s act. When the act is forgotten, the supply appears to live outside the edge that still performs every following. [Pessimism is the shadow of optimism](../pessimism-is-the-shadow-of-optimism/) is that placement under dual-mood costume: permanent mutual constitution of poles is real under open adjustment; freeze is treating that balance as a closed dual that relocates supply outside the edge still acting.
 
 ## Continuation held at the edge
 
