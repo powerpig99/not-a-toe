@@ -137,6 +137,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Schlieren optical still** | Dark lab field, collimated light revealing invisible density gradients around a cabin silhouette; rigid price-scoreboard frame capturing only partial bands while protective flow continues past it; silver-blue charcoal optical grain | `ownership-cost-freezes-lagged-averages-as-vehicle-property` |
 | **Operant maze / conditioning apparatus still** | Cream linen museum table, wooden laboratory maze, pellet dispensers on short dependency paths, longer unsubsidized path without dispensers, cool museum side light, brass–wood craft grain | `the-myth-of-population-collapse-explained` |
 | **Open assay balance still** | Cream linen museum table, antique dual-pan assay balance with visible knife-edge, pans unequal mid-weigh under continuous open adjustment, cool side light continuing past both pans into empty space, brass–ivory craft grain | `pessimism-is-the-shadow-of-optimism` |
+| **Crossed-polarizers optical-bench still** | Cream linen lab table, two circular polarizing glass filters on brass mounts partially rotated, residual luminous band through incomplete extinction continuing past the bench edge, cool museum side light, glass–metal grain | `the-hard-problem-of-consciousness-is-consistent-with-learning` |
 
 ## Inventory (by slug)
 
@@ -212,6 +213,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-fixed-image-of-transcendence` | Magic-lantern glass slide still |
 | `the-flight-analogy-leaves-the-mind-untouched` | Photogram / cameraless object print |
 | `the-flywheel-of-the-mind` | Art Deco poster / chrome and sunburst |
+| `the-hard-problem-of-consciousness-is-consistent-with-learning` | Crossed-polarizers optical-bench still |
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
 | `the-meaning-of-life-is-in-the-drafting` | Risograph flat print |
 | `the-model-never-becomes-a-second-edge` | Gouache narrative still life |

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-08T06:10:50.437Z",
+    "generated_at": "2026-08-08T12:52:41.852Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -19,10 +19,10 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "2cf0851ac626",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/causality-all-the-way.md": "fcb78904439f",
+      "content/posts/causality-all-the-way.md": "f8989dcd96d2",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "564e24250879",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
-      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "1ba96eb40898",
+      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "77f0fe05def1",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "1df0ff92d776",
@@ -65,7 +65,7 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "9b1f1fb925b2",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "d58cb1cc209f",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "10cdc12dd88c",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -76,12 +76,12 @@
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "24406f656818",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "6fca2d702399",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "244b1007fd77",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
-      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "7e8977fd6bf5",
-      "content/posts/no-system-can-be-kept-closed.md": "965fcb785992",
+      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "03b6239f7995",
+      "content/posts/no-system-can-be-kept-closed.md": "8221c568b601",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
@@ -89,7 +89,7 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "55135870ffc2",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "78293acdeb3b",
+      "content/posts/openness-is-consistency.md": "65f2edf09929",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "ae5fa2f20a79",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "916dc4d56804",
@@ -129,9 +129,10 @@
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-fixed-image-of-transcendence.md": "ebf44e2e9959",
-      "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "3a2e6341f400",
+      "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3cd05b0818a",
       "content/posts/the-flywheel-of-the-mind.md": "2eb37e0f1bfb",
       "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
+      "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "4a4e2fa3363f",
       "content/posts/the-illusion-of-free-intelligence.md": "306e1c61ce19",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
@@ -147,11 +148,11 @@
       "content/posts/the-npc-impression-is-structural.md": "9b3876d77a5b",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "7680ad1fc468",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "ddd04ab8b279",
-      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "5b1b77430298",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "af92c141bd54",
       "content/posts/the-price-of-closing-optionality.md": "181e0ec3ab51",
       "content/posts/the-question-that-installs-the-war.md": "a1f2eee52b47",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
-      "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "e9556fcdd8fc",
+      "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "81096306c2ef",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "f5394b232aef",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "b066ec586665",
@@ -172,10 +173,10 @@
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "e859c0e48fd3",
-      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "b7b56f743d05",
+      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "7123d871117c",
       "content/posts/two-failures-of-trace.md": "e2b6f5a12d2f",
       "content/posts/what-always-listens-cannot-originate.md": "8a7236a98449",
-      "content/posts/what-cannot-be-kept.md": "dfb97e223c55",
+      "content/posts/what-cannot-be-kept.md": "fd06d7067056",
       "content/posts/what-works-is-the-belief.md": "0d6e8e3018a4",
       "content/posts/whatever-is-one-prompt-away.md": "f2384aefbb84",
       "content/posts/when-abundance-looks-like-scarcity.md": "6a45742bfbd7",
@@ -189,35 +190,35 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 179,
-      "edges": 1605,
-      "unique_directed": 1584,
+      "posts": 180,
+      "edges": 1629,
+      "unique_directed": 1608,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 123
+      "posts_with_outbound": 125
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 43
+      "in_degree": 44
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 39
+      "in_degree": 40
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 35
+      "in_degree": 36
+    },
+    {
+      "slug": "clarity-isnt-a-state-you-arrive-at",
+      "in_degree": 28
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
       "in_degree": 28
-    },
-    {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 27
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -272,11 +273,11 @@
       "in_degree": 21
     },
     {
-      "slug": "the-artifacts-of-self-amplification",
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 21
     },
     {
-      "slug": "two-failures-of-trace",
+      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "in_degree": 21
     }
   ],
@@ -286,16 +287,16 @@
       "out_degree": 31
     },
     {
+      "slug": "no-system-can-be-kept-closed",
+      "out_degree": 29
+    },
+    {
       "slug": "not-a-theory-of-everything",
       "out_degree": 29
     },
     {
-      "slug": "no-system-can-be-kept-closed",
-      "out_degree": 28
-    },
-    {
       "slug": "openness-is-consistency",
-      "out_degree": 26
+      "out_degree": 27
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -310,11 +311,11 @@
       "out_degree": 24
     },
     {
-      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "out_degree": 23
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "out_degree": 24
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
+      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "out_degree": 23
     },
     {
@@ -346,6 +347,10 @@
       "out_degree": 21
     },
     {
+      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "out_degree": 21
+    },
+    {
       "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 21
     },
@@ -354,11 +359,7 @@
       "out_degree": 21
     },
     {
-      "slug": "the-scaffolding-we-forget",
-      "out_degree": 21
-    },
-    {
-      "slug": "two-failures-of-trace",
+      "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "out_degree": 21
     }
   ],
@@ -606,9 +607,9 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "fcb78904439f",
-      "in_degree": 12,
-      "out_degree": 16,
+      "hash": "f8989dcd96d2",
+      "in_degree": 13,
+      "out_degree": 17,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -625,7 +626,8 @@
         "qian-yin-hou-guo",
         "the-strongest-belief-of-the-mind",
         "the-climate-problem-registers-only-as-perception",
-        "climbing-does-not-leave-the-ground"
+        "climbing-does-not-leave-the-ground",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
       ]
     },
     {
@@ -674,9 +676,9 @@
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "Clarity Isn't a State You Arrive At. It's the Movement Itself.",
-      "hash": "1ba96eb40898",
-      "in_degree": 27,
-      "out_degree": 11,
+      "hash": "77f0fe05def1",
+      "in_degree": 28,
+      "out_degree": 12,
       "links_out": [
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "only-if-it-is-not-kept-empty",
@@ -688,7 +690,8 @@
         "the-source-of-all-harm",
         "writing-without-the-image",
         "the-real-lesson-from-the-consciousness-vector-paper",
-        "closed-assumptions-squeeze-compounding-into-s-curves"
+        "closed-assumptions-squeeze-compounding-into-s-curves",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
       ]
     },
     {
@@ -1498,9 +1501,9 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "d58cb1cc209f",
-      "in_degree": 43,
-      "out_degree": 16,
+      "hash": "10cdc12dd88c",
+      "in_degree": 44,
+      "out_degree": 17,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
         "the-model-never-becomes-a-second-edge",
@@ -1517,7 +1520,8 @@
         "the-artifacts-of-self-amplification",
         "intelligence-folding-back-on-itself",
         "climbing-does-not-leave-the-ground",
-        "the-real-lesson-from-the-consciousness-vector-paper"
+        "the-real-lesson-from-the-consciousness-vector-paper",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
       ]
     },
     {
@@ -1710,9 +1714,9 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
-      "hash": "6fca2d702399",
-      "in_degree": 20,
-      "out_degree": 23,
+      "hash": "244b1007fd77",
+      "in_degree": 21,
+      "out_degree": 24,
       "links_out": [
         "two-failures-of-trace",
         "the-flight-analogy-leaves-the-mind-untouched",
@@ -1736,7 +1740,8 @@
         "the-presumption-of-agi-and-the-view-from-outside",
         "the-illusion-of-free-intelligence",
         "self-image-speaks-as-if-from-nowhere",
-        "intelligence-folding-back-on-itself"
+        "intelligence-folding-back-on-itself",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
       ]
     },
     {
@@ -1778,9 +1783,9 @@
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind",
-      "hash": "7e8977fd6bf5",
-      "in_degree": 20,
-      "out_degree": 20,
+      "hash": "03b6239f7995",
+      "in_degree": 21,
+      "out_degree": 21,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "what-always-listens-cannot-originate",
@@ -1801,7 +1806,8 @@
         "self-image-speaks-as-if-from-nowhere",
         "the-artifacts-of-self-amplification",
         "intelligence-folding-back-on-itself",
-        "climbing-does-not-leave-the-ground"
+        "climbing-does-not-leave-the-ground",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
       ]
     },
     {
@@ -1810,9 +1816,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "965fcb785992",
-      "in_degree": 35,
-      "out_degree": 28,
+      "hash": "8221c568b601",
+      "in_degree": 36,
+      "out_degree": 29,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1841,7 +1847,8 @@
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-price-of-closing-optionality",
         "the-reality-distortion-field-inverts-the-baseline",
-        "the-imagining-of-ai-risk"
+        "the-imagining-of-ai-risk",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
       ]
     },
     {
@@ -1989,9 +1996,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "78293acdeb3b",
-      "in_degree": 39,
-      "out_degree": 26,
+      "hash": "65f2edf09929",
+      "in_degree": 40,
+      "out_degree": 27,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -2018,7 +2025,8 @@
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-price-of-closing-optionality",
         "the-reality-distortion-field-inverts-the-baseline",
-        "the-imagining-of-ai-risk"
+        "the-imagining-of-ai-risk",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
       ]
     },
     {
@@ -2877,9 +2885,9 @@
       "slug": "the-flight-analogy-leaves-the-mind-untouched",
       "path": "content/posts/the-flight-analogy-leaves-the-mind-untouched.md",
       "title": "The Flight Analogy Leaves the Mind Untouched",
-      "hash": "3a2e6341f400",
-      "in_degree": 10,
-      "out_degree": 9,
+      "hash": "d3cd05b0818a",
+      "in_degree": 11,
+      "out_degree": 10,
       "links_out": [
         "the-brain-does-not-backprop",
         "intelligence-belongs-only-to-the-mind",
@@ -2889,7 +2897,8 @@
         "complexity-obscures-emergence-as-the-act-of-mind",
         "mistaking-the-expression-for-the-intelligence",
         "two-failures-of-trace",
-        "the-real-lesson-from-the-consciousness-vector-paper"
+        "the-real-lesson-from-the-consciousness-vector-paper",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
       ]
     },
     {
@@ -2923,6 +2932,30 @@
       "links_out": [
         "hierarchy-from-individual-difference",
         "the-paradoxical-nature-of-bystander-insights"
+      ]
+    },
+    {
+      "id": "post:the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "kind": "post",
+      "slug": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "path": "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md",
+      "title": "The Hard Problem of Consciousness Is Consistent with Our Ability to Learn",
+      "hash": "4a4e2fa3363f",
+      "in_degree": 12,
+      "out_degree": 12,
+      "links_out": [
+        "openness-is-consistency",
+        "no-system-can-be-kept-closed",
+        "intelligence-belongs-only-to-the-mind",
+        "the-flight-analogy-leaves-the-mind-untouched",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "the-real-lesson-from-the-consciousness-vector-paper",
+        "mistaking-the-expression-for-the-intelligence",
+        "what-cannot-be-kept",
+        "token-efficiency-emulation-and-the-unclosable-gap",
+        "clarity-isnt-a-state-you-arrive-at",
+        "causality-all-the-way",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -3232,9 +3265,9 @@
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "The Presumption of AGI and the View from Outside",
-      "hash": "5b1b77430298",
-      "in_degree": 14,
-      "out_degree": 20,
+      "hash": "af92c141bd54",
+      "in_degree": 15,
+      "out_degree": 21,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "mistaking-the-expression-for-the-intelligence",
@@ -3255,7 +3288,8 @@
         "complexity-obscures-emergence-as-the-act-of-mind",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "self-image-speaks-as-if-from-nowhere",
-        "climbing-does-not-leave-the-ground"
+        "climbing-does-not-leave-the-ground",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
       ]
     },
     {
@@ -3326,9 +3360,9 @@
       "slug": "the-real-lesson-from-the-consciousness-vector-paper",
       "path": "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md",
       "title": "The Real Lesson from the Consciousness Vector Paper",
-      "hash": "e9556fcdd8fc",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "81096306c2ef",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "what-works-is-the-belief",
         "restriction-is-a-selective-tax",
@@ -3342,7 +3376,8 @@
         "openness-is-consistency",
         "the-risk-is-the-belief-in-oversight-itself",
         "the-source-of-all-harm",
-        "clarity-isnt-a-state-you-arrive-at"
+        "clarity-isnt-a-state-you-arrive-at",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
       ]
     },
     {
@@ -3756,9 +3791,9 @@
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
       "path": "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md",
       "title": "Token Efficiency, Emulation, and the Unclosable Gap",
-      "hash": "b7b56f743d05",
-      "in_degree": 6,
-      "out_degree": 13,
+      "hash": "7123d871117c",
+      "in_degree": 7,
+      "out_degree": 14,
       "links_out": [
         "efficiency-without-differentiation",
         "distillation-compression-agency",
@@ -3772,7 +3807,8 @@
         "clarity-isnt-a-state-you-arrive-at",
         "the-meaning-of-life-is-in-the-drafting",
         "lossless-knowledge-of-an-open-field-is-incoherent",
-        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
       ]
     },
     {
@@ -3843,10 +3879,12 @@
       "slug": "what-cannot-be-kept",
       "path": "content/posts/what-cannot-be-kept.md",
       "title": "What Cannot Be Kept",
-      "hash": "dfb97e223c55",
-      "in_degree": 5,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "fd06d7067056",
+      "in_degree": 6,
+      "out_degree": 1,
+      "links_out": [
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
+      ]
     },
     {
       "id": "post:what-works-is-the-belief",
@@ -4593,6 +4631,12 @@
       "label": "Climbing does not leave the ground"
     },
     {
+      "from": "causality-all-the-way",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
+    },
+    {
       "from": "causality-stays-at-the-edge-that-steers",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
@@ -4759,6 +4803,12 @@
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
       "label": "Closed assumptions squeeze compounding into S-curves"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
     },
     {
       "from": "climbing-does-not-leave-the-ground",
@@ -6753,6 +6803,12 @@
       "label": "The real lesson from the consciousness vector paper"
     },
     {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
+    },
+    {
       "from": "intelligence-folding-back-on-itself",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -7305,6 +7361,12 @@
       "label": "Intelligence folding back on itself"
     },
     {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
+    },
+    {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
@@ -7423,6 +7485,12 @@
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
       "label": "Climbing does not leave the ground"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -7591,6 +7659,12 @@
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
       "label": "The imagining of AI risk"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -8125,6 +8199,12 @@
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
       "label": "The imagining of AI risk"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -10359,6 +10439,12 @@
       "label": "The real lesson from the consciousness vector paper"
     },
     {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
+    },
+    {
       "from": "the-flywheel-of-the-mind",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -10411,6 +10497,78 @@
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
       "label": "The paradoxical nature of bystander insights"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The flight analogy leaves the Mind untouched"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The real lesson from the consciousness vector paper"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "what-cannot-be-kept",
+      "rel": "points_to",
+      "label": "What cannot be kept"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token efficiency, emulation, and the unclosable gap"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The presumption of AGI and the view from outside"
     },
     {
       "from": "the-illusion-of-free-intelligence",
@@ -11307,6 +11465,12 @@
       "label": "Climbing does not leave the ground"
     },
     {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
+    },
+    {
       "from": "the-price-of-closing-optionality",
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
@@ -11545,6 +11709,12 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "the-real-lesson-from-the-consciousness-vector-paper",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -12885,6 +13055,12 @@
       "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
     },
     {
+      "from": "token-efficiency-emulation-and-the-unclosable-gap",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
+    },
+    {
       "from": "two-failures-of-trace",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -13111,6 +13287,12 @@
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "what-cannot-be-kept",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The hard problem of consciousness is consistent with learning"
     },
     {
       "from": "what-works-is-the-belief",
