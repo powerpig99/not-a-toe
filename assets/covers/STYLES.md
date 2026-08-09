@@ -144,6 +144,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Dual-epoch residual continuum still** | Split field: warm ochre cave clay (carved face, pot, tablets, gear) into cool blue wireframe neural head and circuit mesh; essay equation as sole legible center; dust-to-data continuum, no second substrate | `technology-is-residual-of-human-compounding` |
 | **Industrial gear dissolving into residual waves** | Dark industrial left: large brass–iron gear and piston on tiled floor; center shatter of dark fragments; right luminous amber–cream flowing wave layers as residue continuum; cinematic split light | `the-average-is-residue-not-the-engine` |
 | **Graphite ridge / luminous edge abstract** | Dark charcoal–graphite surface with fine grain, soft ridge crest, translucent amber–orange luminous layers flowing only at the far edge into empty dark field; residual mass vs active perimeter, no props | `residual-control-recedes-to-the-edge` |
+| **Cloud chamber / vapor-track photograph** | Deep black chamber, silver vapor, bright curved ionization tracks as lagging residue through mist, open undisturbed field ahead of tracks, high-contrast scientific silver grain | `consciousness-never-appears-as-data-among-data` |
 
 ## Inventory (by slug)
 
@@ -163,6 +164,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `closed-reality-in-benchmark-maxing` | Photoreal tableau |
 | `closed-reality-in-the-pursuit-of-serendipity` | Pinhole / camera obscura photograph |
 | `complexity-obscures-emergence-as-the-act-of-mind` | Copperplate engraving |
+| `consciousness-never-appears-as-data-among-data` | Cloud chamber / vapor-track photograph |
 | `curiosity-first-the-hidden-engine-of-talent-and-development` | Dendrochronology / polished tree-ring section |
 | `data-is-local-intelligence-is-allocated` | Terrazzo / polished aggregate still |
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
