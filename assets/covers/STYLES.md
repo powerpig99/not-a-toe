@@ -142,6 +142,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Deep-space orbital epicycle diagram** | Photoreal Earth on starfield, successive thin-line epicycle systems in cream→blue→amber→green→violet increasing formal complexity left-to-right, deep navy void, no craft table | `the-rational-choice-postulate-is-the-original-sin` |
 | **Gilded reliquary / monstrance still** | Cream linen craft table, ornate gold protective casing and glass window claiming to safeguard a sacred light, bare candle flame continuing past the glass into empty air, cool museum raking light, brass–glass grain | `the-free-mind-is-displaced-by-what-claims-to-protect-it` |
 | **Dual-epoch residual continuum still** | Split field: warm ochre cave clay (carved face, pot, tablets, gear) into cool blue wireframe neural head and circuit mesh; essay equation as sole legible center; dust-to-data continuum, no second substrate | `technology-is-residual-of-human-compounding` |
+| **Galton board / quincunx still** | Cream linen museum table, wooden Galton board with brass pins, mass of dark glass beads piled in central bins as average mound, sparse trail into extreme bin, cool museum side light, wood–metal grain | `the-average-is-residue-not-the-engine` |
 
 ## Inventory (by slug)
 
@@ -244,6 +245,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-strongest-belief-of-the-mind` | Palimpsest vellum / multi-ink redraw |
 | `the-utility-men-of-progress` | Workshop pegboard still |
 | `technology-is-residual-of-human-compounding` | Dual-epoch residual continuum still |
+| `the-average-is-residue-not-the-engine` | Galton board / quincunx still |
 | `therapy-opens-the-feedback-loop` | Sandblasted glass etching |
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
