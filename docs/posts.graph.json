@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-08T12:52:41.852Z",
+    "generated_at": "2026-08-09T04:14:37.554Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -11,7 +11,7 @@
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
       "content/posts/a-creation-cannot-replace-its-source.md": "6607150b4bf8",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
-      "content/posts/a-new-deeper-look-at-antifragility.md": "c6ddbfcbe94a",
+      "content/posts/a-new-deeper-look-at-antifragility.md": "5c2c317e8efa",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "bcbd91e8fd31",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "c8efa2c5d96f",
@@ -19,15 +19,15 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "2cf0851ac626",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/causality-all-the-way.md": "f8989dcd96d2",
+      "content/posts/causality-all-the-way.md": "2ac551c512b8",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "564e24250879",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "77f0fe05def1",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "1df0ff92d776",
-      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "45583edb0890",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "fba402f827b9",
+      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "4d30bbf4713b",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "43b7cae378d4",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ae1e874dfdf6",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "13e25029736c",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
@@ -64,7 +64,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "9b1f1fb925b2",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "0c6e133cae12",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "10cdc12dd88c",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -89,18 +89,18 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "55135870ffc2",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "65f2edf09929",
+      "content/posts/openness-is-consistency.md": "34275007751b",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "ae5fa2f20a79",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "916dc4d56804",
       "content/posts/perception-perspective-refined.md": "726559169efb",
-      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "b9f3e9f2abcb",
+      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "8a3af9e554fe",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "d350e546c886",
-      "content/posts/price-as-utterance-understanding-as-trade.md": "e47aa7be4d0e",
+      "content/posts/price-as-utterance-understanding-as-trade.md": "aacea97efc6b",
       "content/posts/production-consumption-and-the-minds-distinction.md": "4151eed7cfb7",
-      "content/posts/public-spending-does-not-create-capital.md": "de2e29970457",
+      "content/posts/public-spending-does-not-create-capital.md": "1fa061fe7f18",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "cb9f011c40ad",
@@ -114,18 +114,18 @@
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "4acc15d3e6bf",
       "content/posts/shared-humanity-is-never-shared.md": "7a429623e174",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "5ecd39a34975",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "d9ff7b782b2c",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "2c7c4a9053fc",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "9d678ea4e334",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "445d33effe5c",
       "content/posts/the-artifacts-of-self-amplification.md": "b35fac467d94",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "90ccd4619ab1",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
-      "content/posts/the-coordinators-category-error.md": "64bb44b09422",
+      "content/posts/the-coordinators-category-error.md": "937c30d88530",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-fixed-image-of-transcendence.md": "ebf44e2e9959",
@@ -152,9 +152,10 @@
       "content/posts/the-price-of-closing-optionality.md": "181e0ec3ab51",
       "content/posts/the-question-that-installs-the-war.md": "a1f2eee52b47",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
+      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "17dd00f7da98",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "81096306c2ef",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
-      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "f5394b232aef",
+      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "b066ec586665",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4af688fa6b26",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "f3ba12d83a05",
@@ -190,13 +191,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 180,
-      "edges": 1629,
-      "unique_directed": 1608,
+      "posts": 181,
+      "edges": 1656,
+      "unique_directed": 1634,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 125
+      "posts_with_outbound": 126
     }
   },
   "hubs_in": [
@@ -206,23 +207,23 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 40
+      "in_degree": 41
     },
     {
       "slug": "no-system-can-be-kept-closed",
       "in_degree": 36
     },
     {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "in_degree": 29
+    },
+    {
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 28
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 28
-    },
-    {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 27
+      "in_degree": 28
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -237,16 +238,16 @@
       "in_degree": 25
     },
     {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "in_degree": 24
+    },
+    {
       "slug": "hierarchy-from-individual-difference",
       "in_degree": 24
     },
     {
       "slug": "ownership-and-self-worthiness",
       "in_degree": 24
-    },
-    {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 23
     },
     {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -284,7 +285,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 31
+      "out_degree": 32
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -296,15 +297,15 @@
     },
     {
       "slug": "openness-is-consistency",
-      "out_degree": 27
+      "out_degree": 28
+    },
+    {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "out_degree": 25
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
       "out_degree": 25
-    },
-    {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "out_degree": 24
     },
     {
       "slug": "hierarchy-from-individual-difference",
@@ -460,11 +461,12 @@
       "slug": "a-new-deeper-look-at-antifragility",
       "path": "content/posts/a-new-deeper-look-at-antifragility.md",
       "title": "A New Deeper Look at Antifragility: Prosthesis, Not Driver",
-      "hash": "c6ddbfcbe94a",
-      "in_degree": 4,
-      "out_degree": 1,
+      "hash": "5c2c317e8efa",
+      "in_degree": 5,
+      "out_degree": 2,
       "links_out": [
-        "the-reality-distortion-field-inverts-the-baseline"
+        "the-reality-distortion-field-inverts-the-baseline",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -607,9 +609,9 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "f8989dcd96d2",
-      "in_degree": 13,
-      "out_degree": 17,
+      "hash": "2ac551c512b8",
+      "in_degree": 14,
+      "out_degree": 18,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -627,7 +629,8 @@
         "the-strongest-belief-of-the-mind",
         "the-climate-problem-registers-only-as-perception",
         "climbing-does-not-leave-the-ground",
-        "the-hard-problem-of-consciousness-is-consistent-with-learning"
+        "the-hard-problem-of-consciousness-is-consistent-with-learning",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -748,9 +751,9 @@
       "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "Closed Assumptions Squeeze Compounding into S-Curves",
-      "hash": "45583edb0890",
-      "in_degree": 17,
-      "out_degree": 17,
+      "hash": "4d30bbf4713b",
+      "in_degree": 18,
+      "out_degree": 18,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
@@ -768,7 +771,8 @@
         "symptom-and-cause-in-the-narratives-of-progress",
         "why-mathematics-can-never-be-solved",
         "clarity-isnt-a-state-you-arrive-at",
-        "the-scaffolding-we-forget"
+        "the-scaffolding-we-forget",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -777,9 +781,9 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
-      "hash": "fba402f827b9",
-      "in_degree": 23,
-      "out_degree": 24,
+      "hash": "43b7cae378d4",
+      "in_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "you-cant-benchmark-the-fluid",
         "agi-and-asi-are-temporary-goalposts",
@@ -804,7 +808,8 @@
         "the-presumption-of-agi-and-the-view-from-outside",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-price-of-closing-optionality",
-        "intelligence-folding-back-on-itself"
+        "intelligence-folding-back-on-itself",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -1458,9 +1463,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "9b1f1fb925b2",
-      "in_degree": 28,
-      "out_degree": 31,
+      "hash": "0c6e133cae12",
+      "in_degree": 29,
+      "out_degree": 32,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1492,7 +1497,8 @@
         "preference-clusters-and-the-language-of-judgment",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "the-illusion-of-free-intelligence",
-        "the-reversal-from-defensible-claim-to-dogma"
+        "the-reversal-from-defensible-claim-to-dogma",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -1996,9 +2002,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "65f2edf09929",
-      "in_degree": 40,
-      "out_degree": 27,
+      "hash": "34275007751b",
+      "in_degree": 41,
+      "out_degree": 28,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -2026,7 +2032,8 @@
         "the-price-of-closing-optionality",
         "the-reality-distortion-field-inverts-the-baseline",
         "the-imagining-of-ai-risk",
-        "the-hard-problem-of-consciousness-is-consistent-with-learning"
+        "the-hard-problem-of-consciousness-is-consistent-with-learning",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -2105,9 +2112,9 @@
       "slug": "performative-hindsight-that-pretends-to-be-foresight",
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "Performative Hindsight That Pretends to Be Foresight",
-      "hash": "b9f3e9f2abcb",
-      "in_degree": 13,
-      "out_degree": 14,
+      "hash": "8a3af9e554fe",
+      "in_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -2122,7 +2129,8 @@
         "the-reality-distortion-field-inverts-the-baseline",
         "the-climate-problem-registers-only-as-perception",
         "the-source-of-shared-change",
-        "the-utility-men-of-progress"
+        "the-utility-men-of-progress",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -2207,9 +2215,9 @@
       "slug": "price-as-utterance-understanding-as-trade",
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "Price as Utterance, Understanding as Trade",
-      "hash": "e47aa7be4d0e",
-      "in_degree": 11,
-      "out_degree": 11,
+      "hash": "aacea97efc6b",
+      "in_degree": 12,
+      "out_degree": 12,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "having-more-is-never-the-cause",
@@ -2221,7 +2229,8 @@
         "shared-consciousness-is-intersecting-individualities",
         "the-scaffolding-we-forget",
         "the-coordinators-category-error",
-        "the-belief-in-utopia-is-the-path-to-dystopia"
+        "the-belief-in-utopia-is-the-path-to-dystopia",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -2265,9 +2274,9 @@
       "slug": "public-spending-does-not-create-capital",
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "Public Spending Does Not Create Capital",
-      "hash": "de2e29970457",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "1fa061fe7f18",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "having-more-is-never-the-cause",
@@ -2278,7 +2287,8 @@
         "symptom-and-cause-in-the-narratives-of-progress",
         "fate-loves-irony-refined",
         "restriction-is-a-selective-tax",
-        "the-myth-of-population-collapse-explained"
+        "the-myth-of-population-collapse-explained",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -2530,9 +2540,9 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "5ecd39a34975",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "d9ff7b782b2c",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "hassabis-frontier-agi-premise",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -2547,7 +2557,8 @@
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "externalized-virtue-becomes-its-opposite",
         "the-belief-in-utopia-is-the-path-to-dystopia",
-        "the-source-of-all-harm"
+        "the-source-of-all-harm",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -2656,9 +2667,9 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "9d678ea4e334",
-      "in_degree": 27,
-      "out_degree": 13,
+      "hash": "445d33effe5c",
+      "in_degree": 28,
+      "out_degree": 14,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
         "hierarchy-from-individual-difference",
@@ -2672,7 +2683,8 @@
         "preference-clusters-and-the-language-of-judgment",
         "the-strongest-belief-of-the-mind",
         "how-belief-actually-changes",
-        "climbing-does-not-leave-the-ground"
+        "climbing-does-not-leave-the-ground",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -2810,9 +2822,9 @@
       "slug": "the-coordinators-category-error",
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "The Coordinator’s Category Error",
-      "hash": "64bb44b09422",
-      "in_degree": 10,
-      "out_degree": 13,
+      "hash": "937c30d88530",
+      "in_degree": 11,
+      "out_degree": 14,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
@@ -2826,7 +2838,8 @@
         "help-is-half-the-problem",
         "the-compassion-is-the-mechanism-of-obscuration",
         "the-allocation-of-causal-power-in-validation",
-        "the-source-of-shared-change"
+        "the-source-of-shared-change",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -3355,6 +3368,31 @@
       ]
     },
     {
+      "id": "post:the-rational-choice-postulate-is-the-original-sin",
+      "kind": "post",
+      "slug": "the-rational-choice-postulate-is-the-original-sin",
+      "path": "content/posts/the-rational-choice-postulate-is-the-original-sin.md",
+      "title": "The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories",
+      "hash": "17dd00f7da98",
+      "in_degree": 13,
+      "out_degree": 13,
+      "links_out": [
+        "individual-choices-as-the-only-causal-levers",
+        "price-as-utterance-understanding-as-trade",
+        "closed-assumptions-squeeze-compounding-into-s-curves",
+        "the-reality-distortion-field-inverts-the-baseline",
+        "performative-hindsight-that-pretends-to-be-foresight",
+        "causality-all-the-way",
+        "sovereignty-belief-and-regulatory-structures",
+        "public-spending-does-not-create-capital",
+        "the-coordinators-category-error",
+        "a-new-deeper-look-at-antifragility",
+        "closed-reality-in-benchmark-maxing",
+        "the-allocation-of-causal-power-in-validation",
+        "openness-is-consistency"
+      ]
+    },
+    {
       "id": "post:the-real-lesson-from-the-consciousness-vector-paper",
       "kind": "post",
       "slug": "the-real-lesson-from-the-consciousness-vector-paper",
@@ -3411,9 +3449,9 @@
       "slug": "the-reality-distortion-field-inverts-the-baseline",
       "path": "content/posts/the-reality-distortion-field-inverts-the-baseline.md",
       "title": "The Reality Distortion Field Inverts the Baseline",
-      "hash": "f5394b232aef",
-      "in_degree": 17,
-      "out_degree": 17,
+      "hash": "da58bc8efbd0",
+      "in_degree": 18,
+      "out_degree": 18,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "how-belief-actually-changes",
@@ -3431,7 +3469,8 @@
         "a-new-deeper-look-at-antifragility",
         "the-price-of-closing-optionality",
         "when-the-effect-authors-the-frame",
-        "the-imagining-of-ai-risk"
+        "the-imagining-of-ai-risk",
+        "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
     {
@@ -4277,6 +4316,12 @@
       "label": "The reality distortion field inverts the baseline"
     },
     {
+      "from": "a-new-deeper-look-at-antifragility",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
+    },
+    {
       "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
@@ -4635,6 +4680,12 @@
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
       "label": "The hard problem of consciousness is consistent with learning"
+    },
+    {
+      "from": "causality-all-the-way",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -4997,6 +5048,12 @@
       "label": "The scaffolding we forget"
     },
     {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
+    },
+    {
       "from": "closed-reality-in-benchmark-maxing",
       "to": "you-cant-benchmark-the-fluid",
       "rel": "points_to",
@@ -5139,6 +5196,12 @@
       "to": "intelligence-folding-back-on-itself",
       "rel": "points_to",
       "label": "Intelligence folding back on itself"
+    },
+    {
+      "from": "closed-reality-in-benchmark-maxing",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
@@ -6707,6 +6770,12 @@
       "label": "The reversal from defensible claim to dogma"
     },
     {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
+    },
+    {
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
@@ -8207,6 +8276,12 @@
       "label": "The hard problem of consciousness is consistent with learning"
     },
     {
+      "from": "openness-is-consistency",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
+    },
+    {
       "from": "ownership-and-self-worthiness",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
@@ -8433,6 +8508,12 @@
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
       "label": "The utility men of progress"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
@@ -8771,6 +8852,12 @@
       "label": "The belief in utopia is the path to dystopia"
     },
     {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
+    },
+    {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "openness-is-consistency",
       "rel": "points_to",
@@ -8967,6 +9054,12 @@
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
       "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -9611,6 +9704,12 @@
       "label": "The source of all harm"
     },
     {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
+    },
+    {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
@@ -9861,6 +9960,12 @@
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
       "label": "Climbing does not leave the ground"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
     },
     {
       "from": "the-artifacts-of-self-amplification",
@@ -10287,6 +10392,12 @@
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The source of shared change"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
     },
     {
       "from": "the-fixed-image-of-transcendence",
@@ -11633,6 +11744,90 @@
       "label": "Why mathematics can never be solved"
     },
     {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed assumptions squeeze compounding into S-curves"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The reality distortion field inverts the baseline"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative hindsight that pretends to be foresight"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "a-new-deeper-look-at-antifragility",
+      "rel": "points_to",
+      "label": "A new deeper look at antifragility"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed reality in benchmark maxing"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
       "from": "the-real-lesson-from-the-consciousness-vector-paper",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
@@ -11901,6 +12096,12 @@
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
       "label": "The imagining of AI risk"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",

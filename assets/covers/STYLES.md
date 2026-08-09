@@ -23,13 +23,14 @@ Differentiation is on **style** (medium, print/photo tradition, palette discipli
 
 | Rule | Detail |
 |------|--------|
-| Aspect | **20:9** landscape only — X Article cover, Substack image, site og/title image share this file |
-| Size | **1280×576** install (generate at 20:9; 1600×720 is fine if resized to 1280×576 before install) |
+| Aspect | Prefer **20:9** landscape when the generator offers it (X Article cover compatibility). **16:9 as-is is fine** — install native aspect; **do not crop** to force 20:9. Site/Substack share the same file at native ratio (no crop mask). |
+| Size | Prefer **1280×576** for 20:9; for 16:9, **1280×720** (or native download) is fine |
 | Text | None (no title, no logo, no legible caption) |
 | Fit | Concept reads the essay’s cut; style is independent of other covers |
-| Not | Square, portrait, 16:9, 3:1 profile-banner, or other non-20:9 crops as the essay cover |
+| Not | Square, portrait, 3:1 profile-banner, or other non-landscape crops as the essay cover |
 | After generate | Install as `<slug>.jpg`, update Inventory + Style families below |
-| Legacy assets | Keep older covers as installed (many are 16:9). Do **not** bulk-regenerate or re-crop them for 20:9. Regenerate a legacy cover only when the operator explicitly asks for that slug. The site shows each cover at its native aspect ratio (no crop mask). |
+| Imagine Image 2.0 | Quality Mode on **grok.com/imagine** (+ mobile); API for 2.0 still coming soon. Grok Build `image_gen` has no model pick. Widest consumer ratio currently **16:9** — install as-is. |
+| Legacy assets | Keep older covers as installed. Do **not** bulk-regenerate for aspect. Regenerate a legacy cover only when the operator explicitly asks for that slug. |
 
 ## Style families (used)
 
@@ -138,6 +139,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Operant maze / conditioning apparatus still** | Cream linen museum table, wooden laboratory maze, pellet dispensers on short dependency paths, longer unsubsidized path without dispensers, cool museum side light, brass–wood craft grain | `the-myth-of-population-collapse-explained` |
 | **Open assay balance still** | Cream linen museum table, antique dual-pan assay balance with visible knife-edge, pans unequal mid-weigh under continuous open adjustment, cool side light continuing past both pans into empty space, brass–ivory craft grain | `pessimism-is-the-shadow-of-optimism` |
 | **Crossed-polarizers optical-bench still** | Cream linen lab table, two circular polarizing glass filters on brass mounts partially rotated, residual luminous band through incomplete extinction continuing past the bench edge, cool museum side light, glass–metal grain | `the-hard-problem-of-consciousness-is-consistent-with-learning` |
+| **Brass orrery / epicycle model still** | Cream linen craft table, brass mechanical orrery with nested epicycle rings, formal outer ring intact while free irregular arcs continue past the apparatus, cool museum side light, metal grain | `the-rational-choice-postulate-is-the-original-sin` |
 
 ## Inventory (by slug)
 
@@ -224,6 +226,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-presumption-of-agi-and-the-view-from-outside` | Glass-dome museum terrestrial model still |
 | `the-price-of-closing-optionality` | Wooden pigeon-hole sorter still |
 | `the-question-that-installs-the-war` | Surreal desert allegory |
+| `the-rational-choice-postulate-is-the-original-sin` | Brass orrery / epicycle model still |
 | `the-reality-distortion-field-inverts-the-baseline` | Batik / wax-resist dye on cotton |
 | `the-reality-distortion-field-names-the-closed-map` | Drypoint cartographic plate |
 | `the-reversal-from-defensible-claim-to-dogma` | Laboratory glassware still / sealed continuous curve |
