@@ -141,6 +141,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Crossed-polarizers optical-bench still** | Cream linen lab table, two circular polarizing glass filters on brass mounts partially rotated, residual luminous band through incomplete extinction continuing past the bench edge, cool museum side light, glass–metal grain | `the-hard-problem-of-consciousness-is-consistent-with-learning` |
 | **Deep-space orbital epicycle diagram** | Photoreal Earth on starfield, successive thin-line epicycle systems in cream→blue→amber→green→violet increasing formal complexity left-to-right, deep navy void, no craft table | `the-rational-choice-postulate-is-the-original-sin` |
 | **Gilded reliquary / monstrance still** | Cream linen craft table, ornate gold protective casing and glass window claiming to safeguard a sacred light, bare candle flame continuing past the glass into empty air, cool museum raking light, brass–glass grain | `the-free-mind-is-displaced-by-what-claims-to-protect-it` |
+| **Circular slide rule / product dial still** | Brass concentric product dials on dark velvet, thin steel cursor continuing past outer dial into empty fabric, cool museum raking light, metal grain | `technology-is-residual-of-human-compounding` |
 
 ## Inventory (by slug)
 
@@ -242,6 +243,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-source-of-shared-change` | Monotype ghost-print still life |
 | `the-strongest-belief-of-the-mind` | Palimpsest vellum / multi-ink redraw |
 | `the-utility-men-of-progress` | Workshop pegboard still |
+| `technology-is-residual-of-human-compounding` | Circular slide rule / product dial still |
 | `therapy-opens-the-feedback-loop` | Sandblasted glass etching |
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
