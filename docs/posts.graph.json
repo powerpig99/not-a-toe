@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-09T09:25:06.413Z",
+    "generated_at": "2026-08-09T15:32:14.117Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -20,7 +20,7 @@
       "content/posts/amplification-paradox.md": "2cf0851ac626",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/causality-all-the-way.md": "2ac551c512b8",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "70999499f45f",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "161c07fd7092",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "77f0fe05def1",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -91,7 +91,7 @@
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
       "content/posts/openness-is-consistency.md": "bee57b373266",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "ae5fa2f20a79",
+      "content/posts/ownership-and-self-worthiness.md": "0f95bfab5c53",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "916dc4d56804",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "8a3af9e554fe",
@@ -105,6 +105,7 @@
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "cb9f011c40ad",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "fc1c9fc7b2a1",
+      "content/posts/residual-control-recedes-to-the-edge.md": "5d8968729bc0",
       "content/posts/restriction-is-a-selective-tax.md": "d262db4353fc",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -118,10 +119,10 @@
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "40d64ebdd7e4",
-      "content/posts/technology-is-residual-of-human-compounding.md": "59b7d91cb26e",
+      "content/posts/technology-is-residual-of-human-compounding.md": "3b50785def9a",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "445d33effe5c",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
-      "content/posts/the-average-is-residue-not-the-engine.md": "67a94c28ae13",
+      "content/posts/the-average-is-residue-not-the-engine.md": "cd36166332bc",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "90ccd4619ab1",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -132,7 +133,7 @@
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-fixed-image-of-transcendence.md": "ebf44e2e9959",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3cd05b0818a",
-      "content/posts/the-flywheel-of-the-mind.md": "2eb37e0f1bfb",
+      "content/posts/the-flywheel-of-the-mind.md": "69400358f800",
       "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "77b8d96a176b",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "4a4e2fa3363f",
@@ -145,7 +146,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "dcda922e36b1",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "a9ea905964fb",
       "content/posts/the-myth-of-population-collapse-explained.md": "3cff2f80ddef",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "9b3876d77a5b",
@@ -165,7 +166,7 @@
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "12039fa88170",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "663e9819b021",
-      "content/posts/the-scaffolding-we-forget.md": "e0de246dbb1d",
+      "content/posts/the-scaffolding-we-forget.md": "d75eb9fdbf6d",
       "content/posts/the-source-of-all-harm.md": "01acb646930e",
       "content/posts/the-source-of-shared-change.md": "036ba23cedf8",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
@@ -182,7 +183,7 @@
       "content/posts/what-always-listens-cannot-originate.md": "8a7236a98449",
       "content/posts/what-cannot-be-kept.md": "fd06d7067056",
       "content/posts/what-works-is-the-belief.md": "0d6e8e3018a4",
-      "content/posts/whatever-is-one-prompt-away.md": "f2384aefbb84",
+      "content/posts/whatever-is-one-prompt-away.md": "0ec93ee6bb7a",
       "content/posts/when-abundance-looks-like-scarcity.md": "6a45742bfbd7",
       "content/posts/when-need-stops-being-the-measure.md": "ff23d1d0c5f3",
       "content/posts/when-observation-becomes-performance.md": "57e4edddc357",
@@ -194,13 +195,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 184,
-      "edges": 1709,
-      "unique_directed": 1686,
+      "posts": 185,
+      "edges": 1723,
+      "unique_directed": 1700,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 129
+      "posts_with_outbound": 130
     }
   },
   "hubs_in": [
@@ -237,11 +238,15 @@
       "in_degree": 26
     },
     {
-      "slug": "self-rl-for-humans",
+      "slug": "the-scaffolding-we-forget",
+      "in_degree": 26
+    },
+    {
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 25
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "self-rl-for-humans",
       "in_degree": 25
     },
     {
@@ -250,10 +255,6 @@
     },
     {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "in_degree": 24
-    },
-    {
-      "slug": "ownership-and-self-worthiness",
       "in_degree": 24
     },
     {
@@ -273,15 +274,15 @@
       "in_degree": 22
     },
     {
+      "slug": "the-model-never-becomes-a-second-edge",
+      "in_degree": 22
+    },
+    {
       "slug": "the-path-drawn-one-step-at-a-time",
       "in_degree": 22
     },
     {
       "slug": "the-source-of-shared-change",
-      "in_degree": 22
-    },
-    {
-      "slug": "two-failures-of-trace",
       "in_degree": 22
     }
   ],
@@ -303,11 +304,11 @@
       "out_degree": 29
     },
     {
-      "slug": "hierarchy-from-individual-difference",
-      "out_degree": 26
+      "slug": "the-model-never-becomes-a-second-edge",
+      "out_degree": 27
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "hierarchy-from-individual-difference",
       "out_degree": 26
     },
     {
@@ -351,6 +352,10 @@
       "out_degree": 22
     },
     {
+      "slug": "the-scaffolding-we-forget",
+      "out_degree": 22
+    },
+    {
       "slug": "the-source-of-shared-change",
       "out_degree": 22
     },
@@ -360,10 +365,6 @@
     },
     {
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-      "out_degree": 21
-    },
-    {
-      "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 21
     }
   ],
@@ -643,9 +644,9 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
-      "hash": "70999499f45f",
-      "in_degree": 19,
-      "out_degree": 18,
+      "hash": "161c07fd7092",
+      "in_degree": 20,
+      "out_degree": 19,
       "links_out": [
         "what-always-listens-cannot-originate",
         "intelligence-belongs-only-to-the-mind",
@@ -658,6 +659,7 @@
         "complexity-obscures-emergence-as-the-act-of-mind",
         "the-ramble-within-the-ramble",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "residual-control-recedes-to-the-edge",
         "the-presumption-of-agi-and-the-view-from-outside",
         "the-illusion-of-free-intelligence",
         "self-image-speaks-as-if-from-nowhere",
@@ -2071,10 +2073,11 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "ae5fa2f20a79",
-      "in_degree": 24,
-      "out_degree": 16,
+      "hash": "0f95bfab5c53",
+      "in_degree": 25,
+      "out_degree": 17,
       "links_out": [
+        "residual-control-recedes-to-the-edge",
         "empowerment-establishes-the-centralization-of-power",
         "liberation-rhetoric-begins-by-defining-captivity",
         "externalized-virtue-becomes-its-opposite",
@@ -2390,6 +2393,25 @@
       ]
     },
     {
+      "id": "post:residual-control-recedes-to-the-edge",
+      "kind": "post",
+      "slug": "residual-control-recedes-to-the-edge",
+      "path": "content/posts/residual-control-recedes-to-the-edge.md",
+      "title": "Residual Control Recedes to the Edge",
+      "hash": "5d8968729bc0",
+      "in_degree": 7,
+      "out_degree": 7,
+      "links_out": [
+        "causality-stays-at-the-edge-that-steers",
+        "whatever-is-one-prompt-away",
+        "ownership-and-self-worthiness",
+        "the-scaffolding-we-forget",
+        "the-model-never-becomes-a-second-edge",
+        "the-flywheel-of-the-mind",
+        "technology-is-residual-of-human-compounding"
+      ]
+    },
+    {
       "id": "post:restriction-is-a-selective-tax",
       "kind": "post",
       "slug": "restriction-is-a-selective-tax",
@@ -2653,9 +2675,9 @@
       "slug": "technology-is-residual-of-human-compounding",
       "path": "content/posts/technology-is-residual-of-human-compounding.md",
       "title": "Technology Is Residual of Human Compounding",
-      "hash": "59b7d91cb26e",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "3b50785def9a",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -2668,7 +2690,8 @@
         "hierarchy-from-individual-difference",
         "the-model-never-becomes-a-second-edge",
         "climbing-does-not-leave-the-ground",
-        "causality-stays-at-the-edge-that-steers"
+        "causality-stays-at-the-edge-that-steers",
+        "residual-control-recedes-to-the-edge"
       ]
     },
     {
@@ -2773,7 +2796,7 @@
       "slug": "the-average-is-residue-not-the-engine",
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "The Average Is Residue, Not the Engine",
-      "hash": "67a94c28ae13",
+      "hash": "cd36166332bc",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -2990,14 +3013,15 @@
       "slug": "the-flywheel-of-the-mind",
       "path": "content/posts/the-flywheel-of-the-mind.md",
       "title": "The Flywheel of the Mind",
-      "hash": "2eb37e0f1bfb",
-      "in_degree": 9,
-      "out_degree": 7,
+      "hash": "69400358f800",
+      "in_degree": 10,
+      "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
         "looping-and-graphing",
         "whatever-is-one-prompt-away",
+        "residual-control-recedes-to-the-edge",
         "the-illusion-of-free-intelligence",
         "the-artifacts-of-self-amplification",
         "intelligence-folding-back-on-itself"
@@ -3210,9 +3234,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "dcda922e36b1",
-      "in_degree": 21,
-      "out_degree": 26,
+      "hash": "a9ea905964fb",
+      "in_degree": 22,
+      "out_degree": 27,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -3224,6 +3248,7 @@
         "a-creation-cannot-replace-its-source",
         "the-flight-analogy-leaves-the-mind-untouched",
         "ownership-and-self-worthiness",
+        "residual-control-recedes-to-the-edge",
         "ai-as-augmentation",
         "amplification-paradox",
         "the-ramble-within-the-ramble",
@@ -3696,9 +3721,9 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
-      "hash": "e0de246dbb1d",
-      "in_degree": 25,
-      "out_degree": 21,
+      "hash": "d75eb9fdbf6d",
+      "in_degree": 26,
+      "out_degree": 22,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-path-drawn-one-step-at-a-time",
@@ -3711,6 +3736,7 @@
         "reality-is-the-minds-ongoing-realization",
         "price-as-utterance-understanding-as-trade",
         "whatever-is-one-prompt-away",
+        "residual-control-recedes-to-the-edge",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "expertise-as-reference-not-replacement",
         "only-if-it-is-not-kept-empty",
@@ -4057,9 +4083,9 @@
       "slug": "whatever-is-one-prompt-away",
       "path": "content/posts/whatever-is-one-prompt-away.md",
       "title": "Whatever Is One Prompt Away",
-      "hash": "f2384aefbb84",
-      "in_degree": 11,
-      "out_degree": 16,
+      "hash": "0ec93ee6bb7a",
+      "in_degree": 12,
+      "out_degree": 17,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-scaffolding-we-forget",
@@ -4076,6 +4102,7 @@
         "production-consumption-and-the-minds-distinction",
         "clarity-isnt-a-state-you-arrive-at",
         "the-scaffolding-that-keeps-growing",
+        "residual-control-recedes-to-the-edge",
         "the-illusion-of-free-intelligence"
       ]
     },
@@ -4849,6 +4876,12 @@
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
       "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Residual control recedes to the edge"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -8470,6 +8503,12 @@
     },
     {
       "from": "ownership-and-self-worthiness",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Residual control recedes to the edge"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
       "label": "Empowerment establishes the centralization of power"
@@ -9447,6 +9486,48 @@
       "label": "The source of all harm"
     },
     {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever is one prompt away"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "The flywheel of the Mind"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology is residual of human compounding"
+    },
+    {
       "from": "restriction-is-a-selective-tax",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
@@ -10165,6 +10246,12 @@
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Residual control recedes to the edge"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -10936,6 +11023,12 @@
     },
     {
       "from": "the-flywheel-of-the-mind",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Residual control recedes to the edge"
+    },
+    {
+      "from": "the-flywheel-of-the-mind",
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
       "label": "The illusion of free intelligence"
@@ -11401,6 +11494,12 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "ownership and self-worthiness"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Residual control recedes to the edge"
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
@@ -13000,6 +13099,12 @@
     },
     {
       "from": "the-scaffolding-we-forget",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Residual control recedes to the edge"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
       "label": "The real scarcity is not memory, but continuous re-tracing"
@@ -14131,6 +14236,12 @@
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Residual control recedes to the edge"
     },
     {
       "from": "whatever-is-one-prompt-away",

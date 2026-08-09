@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-08-06T06:27:17.271Z",
+    "generated_at": "2026-08-09T15:10:37.274Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -12,18 +12,18 @@
       "docs/export-for-substack.md": "ad3ca8f50548",
       "docs/export-for-x-article.md": "2edc1c5fa75d",
       "export/README.md": "22b7a12b144a",
-      "assets/covers/STYLES.md": "751fb5022cc0",
-      "README.md": "30d9c1909662",
+      "assets/covers/STYLES.md": "19c51dbc7289",
+      "README.md": "fac7b7c828aa",
       "docs/local-memory.md": "53621964650f",
-      "build.mjs": "a16daa98a1ae",
+      "build.mjs": "a6247a7ef0bb",
       "scripts/export-absolute-md.mjs": "48c872249e0d",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
       "MEMORY.md": "9b2cea4e08ca"
     },
     "stats": {
-      "posts": 169,
-      "covers": 99,
+      "posts": 184,
+      "covers": 114,
       "trackers_listed": 12,
       "trackers_present": 12
     },
@@ -207,7 +207,7 @@
       "path": "build.mjs",
       "owns": "site-build",
       "exists": true,
-      "hash": "a16daa98a1ae",
+      "hash": "a6247a7ef0bb",
       "summary": "binary/script",
       "headings": [],
       "layer": "tracker"
@@ -219,7 +219,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "751fb5022cc0",
+      "hash": "19c51dbc7289",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -391,7 +391,7 @@
       "path": "README.md",
       "owns": "index",
       "exists": true,
-      "hash": "30d9c1909662",
+      "hash": "fac7b7c828aa",
       "summary": "## Authoring contract Guides (read these instead of re-deriving the workflow each time): | Topic | Doc | |-------|-----| | Posts: structure, voice, cross-links, ship checklist | [`…",
       "headings": [
         "Not a ToE",

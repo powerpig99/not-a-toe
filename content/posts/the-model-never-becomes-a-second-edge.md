@@ -24,7 +24,7 @@ What registers as diminished causal power is the widening of that lag. Steering 
 
 [The allocation of causal power in validation](../the-allocation-of-causal-power-in-validation/) tracks the same placement at the point of continuation: which side is treated as supplying the next step. Once the model is treated as supply, deference no longer registers as the user’s own attribution. It registers as prudence, honesty about “what the system did,” or progress toward a threshold at which the medium will complete the transfer. No threshold opens that path. [A creation cannot replace its source](../a-creation-cannot-replace-its-source/) is the bound under engineering costume: residue does not become the activity that produced it. [The flight analogy leaves the Mind untouched](../the-flight-analogy-leaves-the-mind-untouched/) is the same bound when replaceability of embodiment is named as reconstitution of the Mind.
 
-The power that thins is not seized by the model. It thins through disuse of the update at the edge that still has to take every next step — the same geometry [ownership and self-worthiness](../ownership-and-self-worthiness/) names when consequences stop re-entering as own.
+The power that thins is not seized by the model. It thins through disuse of the update at the edge that still has to take every next step — the same geometry [ownership and self-worthiness](../ownership-and-self-worthiness/) names when consequences stop re-entering as own. [Residual control recedes to the edge](../residual-control-recedes-to-the-edge/) is the human-side invert of the same lag: initiation mislocated into residual substrate ownership while criteria and verification already hold the discrete acts.
 
 ## One-step width restores the medium
 
