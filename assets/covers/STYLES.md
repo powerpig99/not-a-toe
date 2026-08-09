@@ -140,6 +140,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Open assay balance still** | Cream linen museum table, antique dual-pan assay balance with visible knife-edge, pans unequal mid-weigh under continuous open adjustment, cool side light continuing past both pans into empty space, brass–ivory craft grain | `pessimism-is-the-shadow-of-optimism` |
 | **Crossed-polarizers optical-bench still** | Cream linen lab table, two circular polarizing glass filters on brass mounts partially rotated, residual luminous band through incomplete extinction continuing past the bench edge, cool museum side light, glass–metal grain | `the-hard-problem-of-consciousness-is-consistent-with-learning` |
 | **Deep-space orbital epicycle diagram** | Photoreal Earth on starfield, successive thin-line epicycle systems in cream→blue→amber→green→violet increasing formal complexity left-to-right, deep navy void, no craft table | `the-rational-choice-postulate-is-the-original-sin` |
+| **Gilded reliquary / monstrance still** | Cream linen craft table, ornate gold protective casing and glass window claiming to safeguard a sacred light, bare candle flame continuing past the glass into empty air, cool museum raking light, brass–glass grain | `the-free-mind-is-displaced-by-what-claims-to-protect-it` |
 
 ## Inventory (by slug)
 
@@ -215,6 +216,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-fixed-image-of-transcendence` | Magic-lantern glass slide still |
 | `the-flight-analogy-leaves-the-mind-untouched` | Photogram / cameraless object print |
 | `the-flywheel-of-the-mind` | Art Deco poster / chrome and sunburst |
+| `the-free-mind-is-displaced-by-what-claims-to-protect-it` | Gilded reliquary / monstrance still |
 | `the-hard-problem-of-consciousness-is-consistent-with-learning` | Crossed-polarizers optical-bench still |
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
 | `the-meaning-of-life-is-in-the-drafting` | Risograph flat print |
