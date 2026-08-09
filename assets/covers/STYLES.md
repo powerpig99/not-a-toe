@@ -139,7 +139,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Operant maze / conditioning apparatus still** | Cream linen museum table, wooden laboratory maze, pellet dispensers on short dependency paths, longer unsubsidized path without dispensers, cool museum side light, brass–wood craft grain | `the-myth-of-population-collapse-explained` |
 | **Open assay balance still** | Cream linen museum table, antique dual-pan assay balance with visible knife-edge, pans unequal mid-weigh under continuous open adjustment, cool side light continuing past both pans into empty space, brass–ivory craft grain | `pessimism-is-the-shadow-of-optimism` |
 | **Crossed-polarizers optical-bench still** | Cream linen lab table, two circular polarizing glass filters on brass mounts partially rotated, residual luminous band through incomplete extinction continuing past the bench edge, cool museum side light, glass–metal grain | `the-hard-problem-of-consciousness-is-consistent-with-learning` |
-| **Neon tube installation / pure black void** | Full-bleed pure black field, cool cyan closed neon ring as formal apparatus, broken amber arcs as free trajectories past the ring, tube bloom only, no table or museum props | `the-rational-choice-postulate-is-the-original-sin` |
+| **Deep-space orbital epicycle diagram** | Photoreal Earth on starfield, successive thin-line epicycle systems in cream→blue→amber→green→violet increasing formal complexity left-to-right, deep navy void, no craft table | `the-rational-choice-postulate-is-the-original-sin` |
 
 ## Inventory (by slug)
 
@@ -226,7 +226,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-presumption-of-agi-and-the-view-from-outside` | Glass-dome museum terrestrial model still |
 | `the-price-of-closing-optionality` | Wooden pigeon-hole sorter still |
 | `the-question-that-installs-the-war` | Surreal desert allegory |
-| `the-rational-choice-postulate-is-the-original-sin` | Neon tube installation / pure black void |
+| `the-rational-choice-postulate-is-the-original-sin` | Deep-space orbital epicycle diagram |
 | `the-reality-distortion-field-inverts-the-baseline` | Batik / wax-resist dye on cotton |
 | `the-reality-distortion-field-names-the-closed-map` | Drypoint cartographic plate |
 | `the-reversal-from-defensible-claim-to-dogma` | Laboratory glassware still / sealed continuous curve |
