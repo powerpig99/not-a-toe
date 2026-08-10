@@ -2,6 +2,8 @@
 
 Markdown and JSON here are **projections** of `content/posts/` for external surfaces (Substack / X Article paste, optional X dry-run receipts). Generated files are gitignored; only this pointer is tracked.
 
+**Absolute markdown only** for paste (`export/<slug>.md`). **No HTML export** in this folder — site HTML is `public/` via `node build.mjs` only.
+
 **Do not edit files in this folder as canon.** Edit `content/posts/<slug>.md`, then re-export.
 
 ```bash
@@ -12,7 +14,7 @@ open -a MacDown export/<slug>.md
 # Optional raw markdown to clipboard
 node scripts/export-absolute-md.mjs <slug> --stdout | pbcopy
 
-# Optional RTF clipboard (escape hatch without MacDown; keeps title)
+# Optional RTF clipboard (escape hatch without MacDown; keeps title; no HTML file)
 node scripts/export-absolute-md.mjs <slug> --rich
 
 # X Article API dry-run / receipts (parked path)

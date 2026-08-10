@@ -25,8 +25,8 @@ One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit 
 ```text
 content/posts/<slug>.md          # source (this folder)
 assets/covers/<slug>.jpg         # optional 20:9 / 1280×576 (site + Substack + X Article)
-export/<slug>.md                 # generated paste projection (gitignored)
-public/posts/<slug>/index.html   # build output only
+export/<slug>.md                 # generated paste projection only (gitignored); no HTML export
+public/posts/<slug>/index.html   # site build output only (CI / local build.mjs)
 ```
 
 ## Markdown structure
@@ -256,7 +256,7 @@ curl -sI "https://powerpig99.github.io/not-a-toe/covers/<slug>.jpg" | head -1
 
 | Surface | When | Command / doc |
 |---------|------|----------------|
-| Substack | After live | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) · `node scripts/export-absolute-md.mjs <slug>` → MacDown preview |
+| Substack | After live | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) · `node scripts/export-absolute-md.mjs <slug>` → MacDown preview (absolute `.md` only; **no** HTML export) |
 | X Article | After live; **same paste** as Substack (API parked) | same command · [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 | Neighbor pointers | Usually `/sleep`; same session only if an older claim must be corrected now | [`docs/local-memory.md`](../../docs/local-memory.md) |
 

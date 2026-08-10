@@ -16,14 +16,14 @@ Living guide for projecting a site post into markdown with **absolute** links, t
 
 | Consumer | Link / form | Where |
 |----------|-------------|--------|
-| This site (build) | Relative `[text](../slug/)` | `content/posts/<slug>.md` only |
+| This site (build) | Relative `[text](../slug/)` → HTML under `public/` | `content/posts/<slug>.md` only · `node build.mjs` |
 | Substack / X Article body | Absolute links; **rendered** paste from MacDown (or equivalent) | `export/<slug>.md` via script |
 
 Never edit `content/posts/` to “fix” external editors. Never treat `export/` as editable canon. The script is the disposable projection; the relative file is the source.
 
-`export/` is **gitignored**. Local paste artifacts only.
+`export/` is **gitignored**. Local paste artifacts only — **absolute markdown only** (`export/<slug>.md`). **No HTML export** under `export/`. Site HTML is only the Pages build (`public/`), not a paste projection.
 
-Plain markdown on the clipboard does **not** auto-render in Substack or the X Article editor. The default path is: absolute `.md` → open in MacDown → copy from the **preview** (rendered HTML) → paste into the editor.
+Plain markdown on the clipboard does **not** auto-render in Substack or the X Article editor. The default path is: absolute `.md` → open in MacDown → copy from the **preview** (rendered view) → paste into the editor.
 
 ## Command
 
@@ -37,13 +37,11 @@ node scripts/export-absolute-md.mjs <slug> --stdout | pbcopy
 # Custom path
 node scripts/export-absolute-md.mjs <slug> -o /tmp/<slug>.md
 
-# Optional: RTF clipboard without MacDown (escape hatch; keeps H1)
+# Optional: RTF clipboard without MacDown (escape hatch; keeps H1; no file write)
 node scripts/export-absolute-md.mjs <slug> --rich
-
-# Optional: HTML fragment file / stdout
-node scripts/export-absolute-md.mjs <slug> --html
-node scripts/export-absolute-md.mjs <slug> --html --stdout
 ```
+
+Do **not** use `--html` — removed. Agents and ship steps never write `export/<slug>.html`.
 
 `<slug>` is the post filename without `.md` (e.g. `when-observation-becomes-performance`).
 
@@ -78,14 +76,12 @@ Re-run after any edit to the source if you will re-paste.
 
 ## Optional: `--rich` (RTF clipboard)
 
-macOS only. Renders markdown → HTML → RTF via `textutil` and copies to the clipboard. Use when MacDown is unavailable; prefer MacDown when it is. Keeps the leading H1 by default.
+macOS only. Renders markdown → RTF via `textutil` and copies to the clipboard. Use when MacDown is unavailable; prefer MacDown when it is. Keeps the leading H1 by default. **Clipboard only** — does not write `export/<slug>.html` or any other HTML projection.
 
 ```bash
 node scripts/export-absolute-md.mjs <slug> --rich
 # optional: --no-title only if you deliberately want the H1 dropped
 ```
-
-Also writes `export/<slug>.html` as a debug helper. **Does not modify** the source file.
 
 ## Checklist
 

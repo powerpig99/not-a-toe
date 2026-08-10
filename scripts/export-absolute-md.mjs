@@ -7,13 +7,12 @@
  *   node scripts/export-absolute-md.mjs <slug>
  *   node scripts/export-absolute-md.mjs <slug> --stdout
  *   node scripts/export-absolute-md.mjs <slug> -o path/to/out.md
- *   node scripts/export-absolute-md.mjs <slug> --html          # write export/<slug>.html
- *   node scripts/export-absolute-md.mjs <slug> --rich          # optional RTF → macOS clipboard (no MacDown)
- *   node scripts/export-absolute-md.mjs <slug> --html --stdout # HTML fragment to stdout
+ *   node scripts/export-absolute-md.mjs <slug> --rich   # optional RTF → macOS clipboard (no MacDown)
+ *
+ * No HTML export file. Site HTML is only public/ via build.mjs.
  */
 import { spawnSync } from 'node:child_process';
 import fs from 'node:fs';
-import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
@@ -32,22 +31,30 @@ function usage() {
   console.error(`Usage: node scripts/export-absolute-md.mjs <slug> [options]
 
 Options:
-  --stdout          Write to stdout (markdown unless --html)
-  -o <file>         Write to path
-  --html            HTML fragment (absolute links); default file export/<slug>.html
+  --stdout          Write absolute markdown to stdout
+  -o <file>         Write absolute markdown to path
   --rich            Optional: RTF → macOS clipboard (escape hatch without MacDown)
-  --no-title        With --rich/--html: drop leading H1 (Substack title field already set)
+  --no-title        With --rich: drop leading H1 (Substack title field already set)
   -h, --help        This help
 
 Default: write export/<slug>.md with absolute links. Open in MacDown and copy the
 rendered preview for Substack / X Article paste (plain markdown does not auto-render).
---rich is optional. X Articles API (publish-x-article.mjs) is parked — see docs/export-for-x-article.md.
+
+No HTML export. Do not pass --html (removed). Site pages are public/ via build only.
+--rich is optional (clipboard only; does not write export/<slug>.html).
+X Articles API (publish-x-article.mjs) is parked — see docs/export-for-x-article.md.
 `);
   process.exit(1);
 }
 
 const args = process.argv.slice(2);
 if (args.length === 0 || args.includes('-h') || args.includes('--help')) usage();
+
+if (args.includes('--html')) {
+  console.error('HTML export is not used. Default path: absolute .md → MacDown preview paste.');
+  console.error('Optional escape hatch without MacDown: --rich (RTF clipboard only).');
+  process.exit(1);
+}
 
 const slug = args[0].replace(/\.md$/, '');
 const srcPath = path.join(postsDir, `${slug}.md`);
@@ -56,18 +63,12 @@ if (!fs.existsSync(srcPath)) {
   process.exit(1);
 }
 
-const wantHtml = args.includes('--html');
 const wantRich = args.includes('--rich');
 const noTitle = args.includes('--no-title');
 const stdout = args.includes('--stdout');
 const oIdx = args.indexOf('-o');
 const outArg = oIdx !== -1 ? args[oIdx + 1] : null;
 if (oIdx !== -1 && !outArg) usage();
-
-if (wantRich && wantHtml && stdout) {
-  console.error('Use either --rich (clipboard) or --html --stdout, not both.');
-  process.exit(1);
-}
 
 const source = fs.readFileSync(srcPath, 'utf8');
 let projected = toAbsoluteMarkdown(source);
@@ -87,16 +88,14 @@ function printMeta() {
 
 if (wantRich) {
   if (process.platform !== 'darwin') {
-    console.error('--rich requires macOS (textutil + pbcopy). On other OS use --html and paste via a browser/editor.');
+    console.error('--rich requires macOS (textutil + pbcopy). On other OS use absolute .md + a markdown previewer.');
     process.exit(1);
   }
 
   const fragment = postMarkdownToHtmlFragment(projected);
   const doc = wrapHtmlDocument(fragment, title);
-  const tmpHtml = path.join(os.tmpdir(), `not-a-toe-export-${slug}.html`);
-  fs.writeFileSync(tmpHtml, doc);
 
-  // HTML → RTF on clipboard: Substack / Docs / Word paste as formatted content.
+  // HTML → RTF on clipboard only (tmpdir unused; textutil stdin). No export/*.html.
   const conv = spawnSync(
     'textutil',
     ['-convert', 'rtf', '-stdin', '-stdout'],
@@ -112,33 +111,13 @@ if (wantRich) {
     process.exit(1);
   }
 
-  // Also keep a local HTML projection for re-export / debug (gitignored export/)
-  fs.mkdirSync(defaultOutDir, { recursive: true });
-  const htmlPath = path.join(defaultOutDir, `${slug}.html`);
-  fs.writeFileSync(htmlPath, `${fragment}\n`);
-
   console.log(`Rich text (RTF) copied to clipboard — paste into Substack or X Article body.`);
-  console.log(`Also wrote ${path.relative(root, htmlPath)} (HTML fragment).`);
   printMeta();
   if (noTitle) console.log('Leading H1 omitted (--no-title).');
   process.exit(0);
 }
 
-if (wantHtml) {
-  const fragment = postMarkdownToHtmlFragment(projected);
-  if (stdout) {
-    process.stdout.write(fragment.endsWith('\n') ? fragment : `${fragment}\n`);
-    process.exit(0);
-  }
-  const outPath = outArg || path.join(defaultOutDir, `${slug}.html`);
-  fs.mkdirSync(path.dirname(outPath), { recursive: true });
-  fs.writeFileSync(outPath, fragment.endsWith('\n') ? fragment : `${fragment}\n`);
-  console.log(`Wrote ${path.relative(root, outPath)} (HTML fragment; absolute links; source unchanged).`);
-  printMeta();
-  process.exit(0);
-}
-
-// Default: absolute markdown
+// Default: absolute markdown only
 if (stdout) {
   process.stdout.write(projected);
   process.exit(0);
