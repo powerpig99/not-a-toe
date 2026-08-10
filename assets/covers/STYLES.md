@@ -167,7 +167,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Geometric mesh dissolving into alpine panorama** | Cream paper left: blue–ochre circle/triangle network and low-poly shards fracturing at a vertical seam; right photoreal misty mountain valley and lake under broken sky; abstract inventory edge into open territory | `abstraction-boundaries-and-the-moving-edge-of-reality` |
 | **Cinematic dual-landscape monadnock** | Split cool fog / warm cosmic sky; standing rock with luminous golden tree-of-light and starfield cut; cool node-graph linking into the monadnock; roots as residual light into dark terrain | `causality-and-the-irreducible-prior` |
 | **Dual-terrain photoreal footstep** | Split cracked basalt / luminous water, bare foot mid-step on fractured edge, cool–warm atmospheric light, painterly photoreal allegory | `hardness-is-not-inherent-in-the-action` |
-| **Laser interferometry / fringe-field plate** | Full-bleed silver–charcoal interference fringes on steel-gray field; luminous curved membrane of higher-contrast fringes free of hardware; optical physics plate, no text | `hardware-locality-is-not-the-information-boundary` |
+| **Cinematic chip–network dual** | Dark void; isometric black microchip with golden fiber fan left of a jagged crack boundary; purple–blue particle wave mesh and node graph right; digital-cinematic light | `hardware-locality-is-not-the-information-boundary` |
 
 ## Inventory (by slug)
 
@@ -202,7 +202,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `good-and-evil-are-the-two-sides-of-the-coin-and-the-cut` | Coining-die pair / mint-die still |
 | `preference-clusters-and-the-language-of-judgment` | Iron-filing magnetograph / scientific plate |
 | `hardness-is-not-inherent-in-the-action` | Dual-terrain photoreal footstep |
-| `hardware-locality-is-not-the-information-boundary` | Laser interferometry / fringe-field plate |
+| `hardware-locality-is-not-the-information-boundary` | Cinematic chip–network dual |
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
 | `having-more-is-never-the-cause` | Scratchboard / white-line scraperboard |
 | `hierarchy-from-individual-difference` | Quipu / knotted-cord still life |
