@@ -9,8 +9,8 @@ Guides (read these instead of re-deriving the workflow each time):
 | Posts: structure, voice, cross-links, ship checklist | [`content/posts/README.md`](content/posts/README.md) |
 | LLM markdown format (copy-paste prompt) | [`docs/essay-format.md`](docs/essay-format.md) |
 | Cover style differentiation | [`assets/covers/STYLES.md`](assets/covers/STYLES.md) |
-| Substack + X Article paste | [`docs/export-for-substack.md`](docs/export-for-substack.md) (absolute `.md` → MacDown preview) |
-| X Article (API parked) | [`docs/export-for-x-article.md`](docs/export-for-x-article.md) |
+| Substack export | [`docs/export-for-substack.md`](docs/export-for-substack.md) (absolute-link markdown only) |
+| X Article (API parked; not export) | [`docs/export-for-x-article.md`](docs/export-for-x-article.md) |
 | Local memory / sleep audit / graphs | [`docs/local-memory.md`](docs/local-memory.md) — trackers: `node scripts/project-local-graph.mjs`; posts lattice: `node scripts/project-posts-graph.mjs` |
 
 1. Add essays in `content/posts/*.md`.
@@ -18,20 +18,17 @@ Guides (read these instead of re-deriving the workflow each time):
 3. Filename is the post slug and permalink (`/posts/<filename>/`).
 4. Optional title/cover image: place `assets/covers/<slug>.jpg` (also `.jpeg`, `.png`, `.webp`) — landscape; prefer **20:9** (1280×576) when available, **16:9 as-is** OK (no forced crop). Same file for site, Substack, and X Article. Build copies it to `public/covers/`. Spec + style differentiation: [`assets/covers/STYLES.md`](assets/covers/STYLES.md).
 5. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) as **reference** for site scaffold (subtitle, lead, sections). Full checklist + **refinement workflow** (operator draft is ground; surgical precision under `/ontological-clarity`; no rewrite/collapse into prior posts): [`content/posts/README.md`](content/posts/README.md).
-6. Internal cross-links stay **relative** (`[title](../other-slug/)`) in source. For **Substack and X Article** body paste, export absolute markdown and copy the **MacDown preview** (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)):
+6. Internal cross-links stay **relative** (`[title](../other-slug/)`) in source. For **Substack**, export absolute-link markdown (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)):
 
 ```bash
-node scripts/export-absolute-md.mjs <slug>          # write export/<slug>.md
-open -a MacDown export/<slug>.md                    # copy from rendered preview
+node scripts/export-absolute-md.mjs <slug>          # → export/<slug>.md
 ```
-
-X Articles API publish is **parked**; see [`docs/export-for-x-article.md`](docs/export-for-x-article.md).
 
 ## Publish (default)
 
 CI builds and deploys Pages on push to `main`. **Push is not live** until Actions finishes and the post URL returns 200.
 
-Full ship checklist (preflight → push → `gh run watch` → curl → Substack / X paste): [`content/posts/README.md`](content/posts/README.md) § Ship checklist.
+Full ship checklist (preflight → push → `gh run watch` → curl → optional Substack export): [`content/posts/README.md`](content/posts/README.md) § Ship checklist.
 
 ```bash
 git add content/posts/<slug>.md

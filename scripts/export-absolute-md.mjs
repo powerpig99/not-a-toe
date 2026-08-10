@@ -1,15 +1,12 @@
 #!/usr/bin/env node
 /**
- * Project a post for external paste (Substack, X Article, etc.).
- * Source of truth stays relative in content/posts/.
+ * Substack export: absolute-link markdown from content/posts/<slug>.md.
  *
- * Usage:
  *   node scripts/export-absolute-md.mjs <slug>
  *   node scripts/export-absolute-md.mjs <slug> --stdout
  *   node scripts/export-absolute-md.mjs <slug> -o path/to/out.md
  *
- * Absolute markdown only → open in MacDown → copy rendered preview.
- * No HTML export. No RTF clipboard. Site HTML is public/ via build.mjs only.
+ * Writes export/<slug>.md (gitignored). No HTML, RTF, or other modes.
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -22,18 +19,10 @@ const postsDir = path.join(root, 'content', 'posts');
 const defaultOutDir = path.join(root, 'export');
 
 function usage() {
-  console.error(`Usage: node scripts/export-absolute-md.mjs <slug> [options]
+  console.error(`Usage: node scripts/export-absolute-md.mjs <slug> [--stdout | -o <file>]
 
-Options:
-  --stdout          Write absolute markdown to stdout
-  -o <file>         Write absolute markdown to path
-  -h, --help        This help
-
-Default: write export/<slug>.md with absolute links. Open in MacDown and copy the
-rendered preview for Substack / X Article paste (plain markdown does not auto-render).
-
-Paste path only: absolute .md. No --html, no --rich. Site pages are public/ via build only.
-X Articles API (publish-x-article.mjs) is parked — see docs/export-for-x-article.md.
+Substack export only: write absolute-link markdown (default: export/<slug>.md).
+See docs/export-for-substack.md.
 `);
   process.exit(1);
 }
@@ -42,8 +31,7 @@ const args = process.argv.slice(2);
 if (args.length === 0 || args.includes('-h') || args.includes('--help')) usage();
 
 if (args.includes('--html') || args.includes('--rich') || args.includes('--no-title')) {
-  console.error('Removed flags: --html, --rich, --no-title.');
-  console.error('Paste path: node scripts/export-absolute-md.mjs <slug> → open MacDown → copy preview.');
+  console.error('Substack export is absolute markdown only. See docs/export-for-substack.md.');
   process.exit(1);
 }
 
@@ -59,14 +47,7 @@ const oIdx = args.indexOf('-o');
 const outArg = oIdx !== -1 ? args[oIdx + 1] : null;
 if (oIdx !== -1 && !outArg) usage();
 
-const source = fs.readFileSync(srcPath, 'utf8');
-const projected = toAbsoluteMarkdown(source);
-
-function printMeta() {
-  console.error(`Source: content/posts/${slug}.md`);
-  console.error(`Cover:  ${SITE_BASE}covers/${slug}.jpg`);
-  console.error(`Live:   ${SITE_BASE}posts/${slug}/`);
-}
+const projected = toAbsoluteMarkdown(fs.readFileSync(srcPath, 'utf8'));
 
 if (stdout) {
   process.stdout.write(projected);
@@ -76,6 +57,6 @@ if (stdout) {
 const outPath = outArg || path.join(defaultOutDir, `${slug}.md`);
 fs.mkdirSync(path.dirname(outPath), { recursive: true });
 fs.writeFileSync(outPath, projected.endsWith('\n') ? projected : `${projected}\n`);
-console.log(`Wrote ${path.relative(root, outPath)} (absolute markdown; source unchanged).`);
-printMeta();
-console.log(`Tip: open in MacDown and copy the rendered preview:  open -a MacDown ${path.relative(root, outPath)}`);
+console.log(`Wrote ${path.relative(root, outPath)} (absolute markdown for Substack).`);
+console.error(`Source: content/posts/${slug}.md`);
+console.error(`Live:   ${SITE_BASE}posts/${slug}/`);

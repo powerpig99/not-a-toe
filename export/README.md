@@ -1,22 +1,12 @@
 # export/ (generated, not source)
 
-Markdown and JSON here are **projections** of `content/posts/` for external surfaces (Substack / X Article paste, optional X dry-run receipts). Generated files are gitignored; only this pointer is tracked.
-
-**Absolute markdown only** for paste (`export/<slug>.md`). No HTML or RTF projections here — site HTML is `public/` via `node build.mjs` only.
-
-**Do not edit files in this folder as canon.** Edit `content/posts/<slug>.md`, then re-export.
+**Substack only:** absolute-link markdown projections of `content/posts/`. Gitignored; this pointer is tracked.
 
 ```bash
-# Absolute markdown → open in MacDown → copy rendered preview
 node scripts/export-absolute-md.mjs <slug>
-open -a MacDown export/<slug>.md
-
-# Optional raw markdown to clipboard (still use MacDown for rendered paste)
-node scripts/export-absolute-md.mjs <slug> --stdout | pbcopy
-
-# X Article API dry-run / receipts (parked path)
-node scripts/publish-x-article.mjs <slug>
-node scripts/publish-x-article.mjs <slug> --draft
+# → export/<slug>.md
 ```
 
-Workflows: [`docs/export-for-substack.md`](../docs/export-for-substack.md) · [`docs/export-for-x-article.md`](../docs/export-for-x-article.md).
+Do not edit files here as canon. Edit `content/posts/<slug>.md`, then re-export. Guide: [`docs/export-for-substack.md`](../docs/export-for-substack.md).
+
+Parked X Articles API receipts (if any) are unrelated to the Substack export path — see [`docs/export-for-x-article.md`](../docs/export-for-x-article.md).
