@@ -166,6 +166,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic silhouette / luminous network spiral** | Dark rocky overlook, lone silhouette facing golden network spiral and bright core, mist and star-field void, digital-cinematic light | `consciousness-never-appears-as-data-among-data` |
 | **Geometric mesh dissolving into alpine panorama** | Cream paper left: blue–ochre circle/triangle network and low-poly shards fracturing at a vertical seam; right photoreal misty mountain valley and lake under broken sky; abstract inventory edge into open territory | `abstraction-boundaries-and-the-moving-edge-of-reality` |
 | **Cinematic dual-landscape monadnock** | Split cool fog / warm cosmic sky; standing rock with luminous golden tree-of-light and starfield cut; cool node-graph linking into the monadnock; roots as residual light into dark terrain | `causality-and-the-irreducible-prior` |
+| **Silk-screen misregistration path** | Cream stock, continuous black ink path unbroken, translucent vermillion bar printed offset over a mid segment, imperfect registration, flat limited ink, graphic print field | `hardness-is-not-inherent-in-the-action` |
 
 ## Inventory (by slug)
 
@@ -199,6 +200,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `externalized-virtue-becomes-its-opposite` | Processional figure / portable shrine still |
 | `good-and-evil-are-the-two-sides-of-the-coin-and-the-cut` | Coining-die pair / mint-die still |
 | `preference-clusters-and-the-language-of-judgment` | Iron-filing magnetograph / scientific plate |
+| `hardness-is-not-inherent-in-the-action` | Silk-screen misregistration path |
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
 | `having-more-is-never-the-cause` | Scratchboard / white-line scraperboard |
 | `hierarchy-from-individual-difference` | Quipu / knotted-cord still life |

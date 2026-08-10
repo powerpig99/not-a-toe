@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-10T06:04:12.663Z",
+    "generated_at": "2026-08-10T08:05:50.851Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -12,7 +12,7 @@
       "content/posts/a-creation-cannot-replace-its-source.md": "749d2fef34a2",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "5c2c317e8efa",
-      "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "93ee69f092b3",
+      "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "4ae2ac5282f9",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "bcbd91e8fd31",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "c38d1c3e5b95",
@@ -20,22 +20,23 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "2cf0851ac626",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/causality-all-the-way.md": "0cff4b1184be",
+      "content/posts/causality-all-the-way.md": "3543a949a435",
+      "content/posts/causality-and-the-irreducible-prior.md": "c96665a92e38",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "161c07fd7092",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "f9b0fa1d2781",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/climbing-does-not-leave-the-ground.md": "679cf3f34b0e",
+      "content/posts/climbing-does-not-leave-the-ground.md": "3b3177a38140",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "6bbab439540e",
       "content/posts/closed-reality-in-benchmark-maxing.md": "bf12c4eac2ea",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ae1e874dfdf6",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "870784c953a3",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
-      "content/posts/consciousness-never-appears-as-data-among-data.md": "b1f13552108b",
+      "content/posts/consciousness-never-appears-as-data-among-data.md": "9eb1651079d0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
-      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "f487b012280e",
+      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "3de3ee2f22d8",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "f8f36d24f25f",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
@@ -57,22 +58,23 @@
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "24d5eed275a0",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
+      "content/posts/hardness-is-not-inherent-in-the-action.md": "f3616fb19b43",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
       "content/posts/having-more-is-never-the-cause.md": "72c75f459c46",
       "content/posts/help-is-half-the-problem.md": "49dcac282b17",
       "content/posts/hierarchy-from-individual-difference.md": "1c387c86f011",
-      "content/posts/how-belief-actually-changes.md": "7ddd0a859449",
+      "content/posts/how-belief-actually-changes.md": "679321935ef2",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "c7d88cfe94c3",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "e4db804a9b2b",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "b6e8a736da17",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "de3428097875",
-      "content/posts/looping-and-graphing.md": "4ea25e5fb4e5",
+      "content/posts/looping-and-graphing.md": "b2acdecafde8",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "991b89daed0c",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "4688c22dcbcf",
@@ -82,7 +84,7 @@
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
-      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "03b6239f7995",
+      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
       "content/posts/no-system-can-be-kept-closed.md": "823a4442c3d2",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
@@ -105,7 +107,7 @@
       "content/posts/public-spending-does-not-create-capital.md": "1fa061fe7f18",
       "content/posts/qian-yin-hou-guo.md": "a0f4c2f1a944",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
-      "content/posts/reality-is-the-minds-ongoing-realization.md": "8721586d941d",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "fc1c9fc7b2a1",
       "content/posts/residual-control-recedes-to-the-edge.md": "5d8968729bc0",
       "content/posts/restriction-is-a-selective-tax.md": "d262db4353fc",
@@ -184,7 +186,7 @@
       "content/posts/two-failures-of-trace.md": "af3222321df1",
       "content/posts/what-always-listens-cannot-originate.md": "8a7236a98449",
       "content/posts/what-cannot-be-kept.md": "fd06d7067056",
-      "content/posts/what-works-is-the-belief.md": "0d6e8e3018a4",
+      "content/posts/what-works-is-the-belief.md": "e8877c5d23bf",
       "content/posts/whatever-is-one-prompt-away.md": "2683afd3253b",
       "content/posts/when-abundance-looks-like-scarcity.md": "6a45742bfbd7",
       "content/posts/when-need-stops-being-the-measure.md": "ff23d1d0c5f3",
@@ -197,19 +199,19 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 187,
-      "edges": 1788,
-      "unique_directed": 1764,
+      "posts": 189,
+      "edges": 1812,
+      "unique_directed": 1788,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 132
+      "posts_with_outbound": 134
     }
   },
   "hubs_in": [
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 47
+      "in_degree": 48
     },
     {
       "slug": "openness-is-consistency",
@@ -221,7 +223,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 32
+      "in_degree": 33
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -280,18 +282,18 @@
       "in_degree": 22
     },
     {
-      "slug": "the-artifacts-of-self-amplification",
+      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "in_degree": 22
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "the-artifacts-of-self-amplification",
       "in_degree": 22
     }
   ],
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 35
+      "out_degree": 36
     },
     {
       "slug": "openness-is-consistency",
@@ -330,7 +332,15 @@
       "out_degree": 25
     },
     {
+      "slug": "what-works-is-the-belief",
+      "out_degree": 24
+    },
+    {
       "slug": "preference-clusters-and-the-language-of-judgment",
+      "out_degree": 23
+    },
+    {
+      "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 23
     },
     {
@@ -346,15 +356,11 @@
       "out_degree": 23
     },
     {
-      "slug": "what-works-is-the-belief",
-      "out_degree": 23
-    },
-    {
       "slug": "externalized-virtue-becomes-its-opposite",
       "out_degree": 22
     },
     {
-      "slug": "reality-is-the-minds-ongoing-realization",
+      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "out_degree": 22
     },
     {
@@ -363,10 +369,6 @@
     },
     {
       "slug": "the-source-of-shared-change",
-      "out_degree": 22
-    },
-    {
-      "slug": "two-failures-of-trace",
       "out_degree": 22
     }
   ],
@@ -482,9 +484,9 @@
       "slug": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "path": "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md",
       "title": "Abstraction, Boundaries, and the Moving Edge of Reality",
-      "hash": "93ee69f092b3",
-      "in_degree": 19,
-      "out_degree": 19,
+      "hash": "4ae2ac5282f9",
+      "in_degree": 20,
+      "out_degree": 20,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -504,7 +506,8 @@
         "production-consumption-and-the-minds-distinction",
         "the-strongest-belief-of-the-mind",
         "you-cant-benchmark-the-fluid",
-        "clarity-isnt-a-state-you-arrive-at"
+        "clarity-isnt-a-state-you-arrive-at",
+        "causality-and-the-irreducible-prior"
       ]
     },
     {
@@ -648,9 +651,9 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "0cff4b1184be",
-      "in_degree": 16,
-      "out_degree": 20,
+      "hash": "3543a949a435",
+      "in_degree": 17,
+      "out_degree": 21,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -671,7 +674,28 @@
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "the-rational-choice-postulate-is-the-original-sin",
         "consciousness-never-appears-as-data-among-data",
-        "abstraction-boundaries-and-the-moving-edge-of-reality"
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "causality-and-the-irreducible-prior"
+      ]
+    },
+    {
+      "id": "post:causality-and-the-irreducible-prior",
+      "kind": "post",
+      "slug": "causality-and-the-irreducible-prior",
+      "path": "content/posts/causality-and-the-irreducible-prior.md",
+      "title": "Causality and the Irreducible Prior",
+      "hash": "c96665a92e38",
+      "in_degree": 8,
+      "out_degree": 8,
+      "links_out": [
+        "causality-all-the-way",
+        "consciousness-never-appears-as-data-among-data",
+        "looping-and-graphing",
+        "climbing-does-not-leave-the-ground",
+        "intelligence-belongs-only-to-the-mind",
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "reality-is-the-minds-ongoing-realization",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
     {
@@ -769,9 +793,9 @@
       "slug": "climbing-does-not-leave-the-ground",
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "Climbing Does Not Leave the Ground",
-      "hash": "679cf3f34b0e",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "3b3177a38140",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -787,7 +811,8 @@
         "causality-all-the-way",
         "the-scaffolding-that-keeps-growing",
         "reality-is-the-minds-ongoing-realization",
-        "technology-is-residual-of-human-compounding"
+        "technology-is-residual-of-human-compounding",
+        "causality-and-the-irreducible-prior"
       ]
     },
     {
@@ -924,9 +949,9 @@
       "slug": "consciousness-never-appears-as-data-among-data",
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
       "title": "Consciousness Never Appears as Data Among Data",
-      "hash": "b1f13552108b",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "9eb1651079d0",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "causality-all-the-way",
         "intelligence-belongs-only-to-the-mind",
@@ -940,7 +965,8 @@
         "no-system-can-be-kept-closed",
         "reality-is-the-minds-ongoing-realization",
         "data-is-local-intelligence-is-allocated",
-        "shared-consciousness-is-intersecting-individualities"
+        "shared-consciousness-is-intersecting-individualities",
+        "causality-and-the-irreducible-prior"
       ]
     },
     {
@@ -971,9 +997,9 @@
       "slug": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
       "title": "Curiosity First: The Hidden Engine of Talent and Development",
-      "hash": "f487b012280e",
-      "in_degree": 5,
-      "out_degree": 12,
+      "hash": "3de3ee2f22d8",
+      "in_degree": 6,
+      "out_degree": 13,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
         "having-more-is-never-the-cause",
@@ -986,6 +1012,7 @@
         "self-rl-for-humans",
         "the-scaffolding-that-keeps-growing",
         "whatever-is-one-prompt-away",
+        "hardness-is-not-inherent-in-the-action",
         "hierarchy-from-individual-difference"
       ]
     },
@@ -1374,6 +1401,22 @@
       "links_out": []
     },
     {
+      "id": "post:hardness-is-not-inherent-in-the-action",
+      "kind": "post",
+      "slug": "hardness-is-not-inherent-in-the-action",
+      "path": "content/posts/hardness-is-not-inherent-in-the-action.md",
+      "title": "Hardness Is Not Inherent in the Action",
+      "hash": "f3616fb19b43",
+      "in_degree": 4,
+      "out_degree": 4,
+      "links_out": [
+        "how-belief-actually-changes",
+        "curiosity-first-the-hidden-engine-of-talent-and-development",
+        "individual-choices-as-the-only-causal-levers",
+        "what-works-is-the-belief"
+      ]
+    },
+    {
       "id": "post:hassabis-einstein-test",
       "kind": "post",
       "slug": "hassabis-einstein-test",
@@ -1484,9 +1527,9 @@
       "slug": "how-belief-actually-changes",
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "How Belief Actually Changes",
-      "hash": "7ddd0a859449",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "679321935ef2",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-strongest-belief-of-the-mind",
@@ -1501,7 +1544,8 @@
         "externalized-virtue-becomes-its-opposite",
         "the-allocation-of-causal-power-in-validation",
         "reality-is-the-minds-ongoing-realization",
-        "individual-choices-as-the-only-causal-levers"
+        "individual-choices-as-the-only-causal-levers",
+        "hardness-is-not-inherent-in-the-action"
       ]
     },
     {
@@ -1543,9 +1587,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "c7d88cfe94c3",
-      "in_degree": 32,
-      "out_degree": 35,
+      "hash": "b6e8a736da17",
+      "in_degree": 33,
+      "out_degree": 36,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1571,6 +1615,7 @@
         "hierarchy-from-individual-difference",
         "openness-is-consistency",
         "how-belief-actually-changes",
+        "hardness-is-not-inherent-in-the-action",
         "expertise-as-reference-not-replacement",
         "symptom-and-cause-in-the-narratives-of-progress",
         "pessimism-is-the-shadow-of-optimism",
@@ -1590,9 +1635,9 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "e4db804a9b2b",
-      "in_degree": 47,
-      "out_degree": 20,
+      "hash": "1466549a4396",
+      "in_degree": 48,
+      "out_degree": 21,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
         "the-model-never-becomes-a-second-edge",
@@ -1613,7 +1658,8 @@
         "the-real-lesson-from-the-consciousness-vector-paper",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "consciousness-never-appears-as-data-among-data",
-        "abstraction-boundaries-and-the-moving-edge-of-reality"
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "causality-and-the-irreducible-prior"
       ]
     },
     {
@@ -1699,9 +1745,9 @@
       "slug": "looping-and-graphing",
       "path": "content/posts/looping-and-graphing.md",
       "title": "Looping and Graphing: Mind as the Loop of Loops",
-      "hash": "4ea25e5fb4e5",
-      "in_degree": 8,
-      "out_degree": 10,
+      "hash": "b2acdecafde8",
+      "in_degree": 9,
+      "out_degree": 11,
       "links_out": [
         "self-rl-for-humans",
         "intelligence-belongs-only-to-the-mind",
@@ -1712,7 +1758,8 @@
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "the-living-context",
-        "intelligence-folding-back-on-itself"
+        "intelligence-folding-back-on-itself",
+        "causality-and-the-irreducible-prior"
       ]
     },
     {
@@ -1879,9 +1926,9 @@
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind",
-      "hash": "03b6239f7995",
-      "in_degree": 21,
-      "out_degree": 21,
+      "hash": "dcab651d2e54",
+      "in_degree": 22,
+      "out_degree": 22,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "what-always-listens-cannot-originate",
@@ -1903,7 +1950,8 @@
         "the-artifacts-of-self-amplification",
         "intelligence-folding-back-on-itself",
         "climbing-does-not-leave-the-ground",
-        "the-hard-problem-of-consciousness-is-consistent-with-learning"
+        "the-hard-problem-of-consciousness-is-consistent-with-learning",
+        "causality-and-the-irreducible-prior"
       ]
     },
     {
@@ -2428,9 +2476,9 @@
       "slug": "reality-is-the-minds-ongoing-realization",
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "Reality Is the Mind's Ongoing Realization",
-      "hash": "8721586d941d",
-      "in_degree": 18,
-      "out_degree": 22,
+      "hash": "da645c2e28c5",
+      "in_degree": 19,
+      "out_degree": 23,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
@@ -2453,7 +2501,8 @@
         "the-imagining-of-ai-risk",
         "intelligence-folding-back-on-itself",
         "climbing-does-not-leave-the-ground",
-        "consciousness-never-appears-as-data-among-data"
+        "consciousness-never-appears-as-data-among-data",
+        "causality-and-the-irreducible-prior"
       ]
     },
     {
@@ -4135,9 +4184,9 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "What Works Is the Belief",
-      "hash": "0d6e8e3018a4",
-      "in_degree": 18,
-      "out_degree": 23,
+      "hash": "e8877c5d23bf",
+      "in_degree": 19,
+      "out_degree": 24,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
         "the-source-of-all-harm",
@@ -4148,6 +4197,7 @@
         "name-negation-tendency",
         "what-cannot-be-kept",
         "clarity-isnt-a-state-you-arrive-at",
+        "hardness-is-not-inherent-in-the-action",
         "the-reality-distortion-field-names-the-closed-map",
         "the-reality-distortion-field-inverts-the-baseline",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
@@ -4656,6 +4706,12 @@
       "label": "Clarity isn’t a state you arrive at"
     },
     {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the irreducible prior"
+    },
+    {
       "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
@@ -5040,6 +5096,60 @@
       "label": "Abstraction, boundaries, and the moving edge of reality"
     },
     {
+      "from": "causality-all-the-way",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the irreducible prior"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness never appears as data among data"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
+      "label": "Looping and graphing"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing does not leave the ground"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind’s ongoing realization"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+    },
+    {
       "from": "causality-stays-at-the-edge-that-steers",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
@@ -5320,6 +5430,12 @@
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
       "label": "Technology is residual of human compounding"
+    },
+    {
+      "from": "climbing-does-not-leave-the-ground",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the irreducible prior"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -5820,6 +5936,12 @@
       "label": "Shared consciousness is intersecting individualities"
     },
     {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the irreducible prior"
+    },
+    {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
@@ -5884,6 +6006,12 @@
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
       "label": "Whatever is one prompt away"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "Hardness is not inherent in the action"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -6732,6 +6860,30 @@
       "label": "The source of all harm"
     },
     {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity first"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What works is the belief"
+    },
+    {
       "from": "having-more-is-never-the-cause",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
@@ -7098,6 +7250,12 @@
       "label": "Individual choices as the only causal levers"
     },
     {
+      "from": "how-belief-actually-changes",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "Hardness is not inherent in the action"
+    },
+    {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "causality-all-the-way",
       "rel": "points_to",
@@ -7240,6 +7398,12 @@
       "to": "how-belief-actually-changes",
       "rel": "points_to",
       "label": "How belief actually changes"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "Hardness is not inherent in the action"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -7426,6 +7590,12 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the irreducible prior"
     },
     {
       "from": "intelligence-folding-back-on-itself",
@@ -7678,6 +7848,12 @@
       "to": "intelligence-folding-back-on-itself",
       "rel": "points_to",
       "label": "Intelligence folding back on itself"
+    },
+    {
+      "from": "looping-and-graphing",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the irreducible prior"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -8140,6 +8316,12 @@
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
       "label": "The hard problem of consciousness is consistent with learning"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the irreducible prior"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -9880,6 +10062,12 @@
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "Consciousness never appears as data among data"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the irreducible prior"
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
@@ -14524,6 +14712,12 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "Hardness is not inherent in the action"
     },
     {
       "from": "what-works-is-the-belief",
