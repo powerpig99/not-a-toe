@@ -18,17 +18,17 @@ Guides (read these instead of re-deriving the workflow each time):
 3. Filename is the post slug and permalink (`/posts/<filename>/`).
 4. Optional title/cover image: place `assets/covers/<slug>.jpg` (also `.jpeg`, `.png`, `.webp`) — landscape; prefer **20:9** (1280×576) when available, **16:9 as-is** OK (no forced crop). Same file for site, Substack, and X Article. Build copies it to `public/covers/`. Spec + style differentiation: [`assets/covers/STYLES.md`](assets/covers/STYLES.md).
 5. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) as **reference** for site scaffold (subtitle, lead, sections). Full checklist + **refinement workflow** (operator draft is ground; surgical precision under `/ontological-clarity`; no rewrite/collapse into prior posts): [`content/posts/README.md`](content/posts/README.md).
-6. Internal cross-links stay **relative** (`[title](../other-slug/)`) in source. For **Substack / X Article** paste, one absolute-markdown export (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)):
+6. Internal cross-links stay **relative** (`[title](../other-slug/)`) in source. After live, **always generate** the absolute-markdown paste file for Substack / X Article (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)). Generate is required on ship; **paste** is operator-only and may wait:
 
 ```bash
-node scripts/export-absolute-md.mjs <slug>          # → export/<slug>.md (shared)
+node scripts/export-absolute-md.mjs <slug>          # → export/<slug>.md (required after live)
 ```
 
 ## Publish (default)
 
 CI builds and deploys Pages on push to `main`. **Push is not live** until Actions finishes and the post URL returns 200.
 
-Full ship checklist (preflight → push → `gh run watch` → curl → optional paste export): [`content/posts/README.md`](content/posts/README.md) § Ship checklist.
+Full ship checklist (preflight → reverse links → push → `gh run watch` → live curl → **required** export generate): [`content/posts/README.md`](content/posts/README.md) § Ship checklist. “Finish the rest” means that full sequence — not site-only.
 
 ```bash
 git add content/posts/<slug>.md
@@ -37,6 +37,7 @@ git push origin main
 gh run watch --exit-status
 curl -sI "https://powerpig99.github.io/not-a-toe/posts/<slug>/" | head -1
 # if no run starts: gh workflow run deploy.yml --ref main
+node scripts/export-absolute-md.mjs <slug>   # required after live; paste is operator
 ```
 
 ## Local build (optional preflight)

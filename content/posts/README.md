@@ -203,12 +203,25 @@ Optional but usual for new essays. **One file serves three surfaces:** this site
 
 **Leave older covers as they are** unless the operator explicitly asks to regenerate that slug. Operator drop supersedes agent-gen.
 
-## Ship checklist (site)
+## Ship checklist (full finish)
 
 **One source:** `content/posts/<slug>.md` (+ cover under `assets/covers/`).  
 **Build lives on CI:** push → GitHub Actions runs `node build.mjs` → deploys Pages.  
 **Do not** commit `public/` or treat `export/` as canon (`export/` is gitignored).  
 **Push ≠ live.** Source on `main` can be correct while Pages still serves the previous SHA. Do not claim published until the live URL returns 200.
+
+**“Finish the rest” means the full ship below** — not site-only. Generate the absolute-markdown paste file after live is **required** on every new or same-slug revised essay. **Paste** into Substack / X Article is operator-only and may wait; **generating** `export/<slug>.md` does not wait for that decision and is not optional for the agent.
+
+| Step | Required? | Who |
+|------|-----------|-----|
+| Preflight build + graph | Yes | Agent |
+| Cover + STYLES | Yes (usual) | Agent |
+| Reverse links on 1-hop neighbors (same ship) | Yes | Agent |
+| Commit / push / `gh run watch` / live 200 | Yes | Agent |
+| `node scripts/export-absolute-md.mjs <slug>` after live | **Yes** | Agent |
+| Paste into Substack / X Article + upload cover there | Operator | Operator only |
+
+Do **not** skip export generation because paste might not happen immediately. Do **not** treat “if posting” as license to omit the file. The file is the finish artifact; paste is a later operator act.
 
 ### 1. Preflight (local)
 
@@ -246,18 +259,32 @@ Workflow: [`.github/workflows/deploy.yml`](../../.github/workflows/deploy.yml) �
 ```bash
 curl -sI "https://powerpig99.github.io/not-a-toe/posts/<slug>/" | head -1
 # expect: HTTP/2 200
-# optional: cover
+# cover when present
 curl -sI "https://powerpig99.github.io/not-a-toe/covers/<slug>.jpg" | head -1
 ```
 
 404 with a green local build almost always means **deploy has not finished** (or never started) — not a broken essay. Re-check step 3; do not re-architect the post.
 
-### 5. External surfaces (after live)
+### 5. Absolute-markdown export (required after live)
 
-| Surface | When | Command / doc |
-|---------|------|----------------|
-| Substack / X Article | After live, if posting there | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) · same `export/<slug>.md` for both |
-| Neighbor pointers | Usually `/sleep`; same session only if an older claim must be corrected now | [`docs/local-memory.md`](../../docs/local-memory.md) |
+```bash
+node scripts/export-absolute-md.mjs <slug>
+# → export/<slug>.md  (gitignored; same file for Substack and X Article body paste)
+```
+
+Run **once per ship** after the live URL returns 200 so absolute links resolve. Owner detail: [`docs/export-for-substack.md`](../../docs/export-for-substack.md).
+
+| Do | Do not |
+|----|--------|
+| Generate `export/<slug>.md` before claiming the ship finished | Skip generation because paste is “maybe later” |
+| Re-run after same-slug source edits that will be re-pasted | Commit `export/` or edit source to absolute links for editors |
+| Leave paste to the operator | Claim Substack/X is published without operator paste |
+
+**Operator paste** (not agent): open `export/<slug>.md` in a markdown previewer → copy from the **rendered** preview into Substack and/or X Article → upload cover from `assets/covers/<slug>.jpg` if used.
+
+### 6. Neighbor pointers (same ship)
+
+For every outbound `](../other-slug/)`, add a reverse pointer on that neighbor in the **same** ship (two-way default). Pointer clause only; regenerate posts graph after. Broader currency pass on seeds is `/sleep` — see [`docs/local-memory.md`](../../docs/local-memory.md).
 
 ### Copy-paste ship block
 
@@ -265,10 +292,14 @@ curl -sI "https://powerpig99.github.io/not-a-toe/covers/<slug>.jpg" | head -1
 SLUG=<slug>
 node build.mjs
 git add content/posts/"$SLUG".md assets/covers/"$SLUG".jpg assets/covers/STYLES.md
+# plus neighbor reverse-link files when edited
 git commit -m "Add <title> essay"
 git push origin main
 gh run watch --exit-status || { gh workflow run deploy.yml --ref main && gh run watch --exit-status; }
 curl -sI "https://powerpig99.github.io/not-a-toe/posts/${SLUG}/" | head -1
+curl -sI "https://powerpig99.github.io/not-a-toe/covers/${SLUG}.jpg" | head -1
+node scripts/export-absolute-md.mjs "$SLUG"
+# operator: paste export/$SLUG.md (rendered) + cover into Substack / X Article when ready
 ```
 
 ## New essay checklist
@@ -277,14 +308,14 @@ curl -sI "https://powerpig99.github.io/not-a-toe/posts/${SLUG}/" | head -1
 2. [ ] Section headings name each cut — no generic slots (*What Remains*, *Conclusion*, *Summary*, …).
 3. [ ] Refine for mechanism language; fold any seed tweet into the lead so the essay stands alone.
 4. [ ] Add relative cross-links as axis pointers; verify slugs exist (`node scripts/project-posts-graph.mjs` → `missing_targets` must stay 0).
-5. [ ] Cover: new style per STYLES.md; **20:9** landscape; install 1280×576; update STYLES.md.
-6. [ ] **Ship checklist** above: preflight → commit/push → `gh run watch` → live URL 200.
-7. [ ] If posting to Substack and/or X Article: after live, `node scripts/export-absolute-md.mjs <slug>` once ([`docs/export-for-substack.md`](../../docs/export-for-substack.md)).
-8. [ ] Neighbor review **in the same ship**: for every outbound cross-link, add a reverse pointer on that neighbor (two-way default). Pointer clause only; regenerate posts graph after.
+5. [ ] Cover: new style per STYLES.md; **20:9** landscape preferred (**16:9 as-is** OK); install; update STYLES.md.
+6. [ ] Neighbor reverse pointers **in the same ship** (two-way default); regenerate posts graph.
+7. [ ] **Ship:** preflight → commit/push → `gh run watch` → live post (and cover) URL 200.
+8. [ ] **Export (required after live):** `node scripts/export-absolute-md.mjs <slug>` → `export/<slug>.md` ([`docs/export-for-substack.md`](../../docs/export-for-substack.md)). Paste into Substack / X is operator-only and may wait; generating the file does not.
 
 ## After shipping
 
 - Prefer not to rewrite published URLs/slugs; add a new post or revise in place under the same slug.
 - Living updates: same-slug edits when a newer cut clarifies an older face; regenerate posts graph after link changes.
-- If cross-links are added later, re-export absolute markdown only if you will update Substack / X Article by hand.
+- After same-slug body or link edits that will be re-pasted externally: re-run `node scripts/export-absolute-md.mjs <slug>` so `export/` matches source.
 - Sleep (operator call) runs the related-post currency pass on seeds from `--diff` — see [`docs/local-memory.md`](../../docs/local-memory.md).
