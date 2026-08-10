@@ -17,7 +17,7 @@ Guides (read these instead of re-deriving the workflow each time):
 2. The first line must be `# Title`.
 3. Filename is the post slug and permalink (`/posts/<filename>/`).
 4. Optional title/cover image: place `assets/covers/<slug>.jpg` (also `.jpeg`, `.png`, `.webp`) — landscape; prefer **20:9** (1280×576) when available, **16:9 as-is** OK (no forced crop). Same file for site, Substack, and X Article. Build copies it to `public/covers/`. Spec + style differentiation: [`assets/covers/STYLES.md`](assets/covers/STYLES.md).
-5. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) for standardized LLM output; full checklist in [`content/posts/README.md`](content/posts/README.md).
+5. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) as **reference** for site scaffold (subtitle, lead, sections). Full checklist + **refinement workflow** (operator draft is ground; surgical precision under `/ontological-clarity`; no rewrite/collapse into prior posts): [`content/posts/README.md`](content/posts/README.md).
 6. Internal cross-links stay **relative** (`[title](../other-slug/)`) in source. For **Substack and X Article** body paste, export absolute markdown and copy the **MacDown preview** (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)):
 
 ```bash

@@ -1,8 +1,10 @@
 # Essay Formatting Guide
 
-Use this exact spec when drafting essays for this site. For full authoring workflow (voice, cross-links, cover, ship, Substack), see [`content/posts/README.md`](../content/posts/README.md). Sleep audits living trackers via [`docs/local-memory.md`](local-memory.md).
+**Reference for site scaffold** — not absolute ground over the operator’s draft. When refining an operator-supplied essay under `/ontological-clarity`, keep the draft’s cut and title; use this file to place subtitle, lead, sections, and links as necessity of a site essay. Full refinement contract (surgical precision, no rewrite, no collapse into prior posts): [`content/posts/README.md`](../content/posts/README.md) § Refinement workflow. Sleep audits living trackers via [`docs/local-memory.md`](local-memory.md).
 
 ## Copy-Paste Prompt
+
+Use when **drafting from scratch** or when the operator asks for a full draft in site form. For **refinement of an existing operator draft**, do not use this prompt as a rewrite mandate — apply the refinement workflow in the posts README, then add only the scaffold items below that the draft still lacks.
 
 ```markdown
 You are writing one essay markdown file for the Not a ToE site.
@@ -10,8 +12,8 @@ You are writing one essay markdown file for the Not a ToE site.
 Output rules (strict):
 1. Output only markdown content, no explanations.
 2. Write for clarity of the Mind writing — not to inform other Minds. No performance for audience; no meta announcing openness or method as posture. Live the dual as background; do not claim it.
-3. First line must be exactly: `# <Title>` — self-explanatory; a reader who never opens the body still knows the claim.
-4. After the title, write exactly one complete sentence as the subtitle — essence only (core geometry), not a miniature of the argument or section map.
+3. First line must be exactly: `# <Title>` — self-explanatory; a reader who never opens the body still knows the claim. Prefer the operator’s title when one was given.
+4. After the title, write exactly one complete sentence as the subtitle — essence only (core geometry), not a miniature of the argument or section map. Prefer language already in the draft when refining.
 5. After the subtitle, write a lead of 2–4 complete sentences summarizing the post (the main moves). Do not merely rephrase the subtitle; if subtitle and lead share the same ordered points, separate the jobs.
 6. Do not use `##` or `###` until after that subtitle + lead.
 7. Avoid non-sentence blocks before first `##`/`###` (no lists, no blockquotes, no horizontal rules, no code fences).
@@ -21,13 +23,13 @@ Output rules (strict):
 11. Keep quotes properly closed; punctuation inside quotes is allowed.
 12. No frontmatter (`---` metadata), no HTML.
 13. End with a newline.
-14. Internal cross-links use relative form only: `[title](../other-slug/)`. Do not use absolute site URLs in the source file.
+14. Internal cross-links use relative form only: `[title](../other-slug/)`. Do not use absolute site URLs in the source file. Pointers restore axes; do not collapse the new cut into a remix of prior posts.
 15. Fold any seed observation (tweet, note) into the prose so the essay stands alone; do not depend on a deletable external post link.
-16. When introducing the irreducible prior by name, use the house premise formula exactly: `Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction.` Essay-specific derivation continues after that formula; it does not replace it. Owner detail: [`content/posts/README.md`](../content/posts/README.md).
-17. Negation: soft differentiation is fine; assertive negation of other takes is closed. Assertive negation is reserved for dissolving a closed-reality assumption. Prefer stating identity. Owner detail: [`content/posts/README.md`](../content/posts/README.md) voice section.
+16. When introducing the irreducible prior by name, use the house premise formula exactly: `Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction.` If refining a draft that already names the prior cleanly, do not force a full formula insert that rewrites the paragraph. Owner detail: [`content/posts/README.md`](../content/posts/README.md).
+17. Negation: soft differentiation is fine; assertive negation of other takes is closed. Assertive negation is reserved for dissolving a closed-reality assumption. Prefer stating identity. Owner detail: [`content/posts/README.md`](../content/posts/README.md) refinement / voice section.
 ```
 
-Full title / subtitle / lead jobs and anti-repetition check: [`content/posts/README.md`](../content/posts/README.md) (owner).
+Full title / subtitle / lead jobs, refinement workflow, and anti-repetition check: [`content/posts/README.md`](../content/posts/README.md) (owner).
 
 ## Opening Structure
 

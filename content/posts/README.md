@@ -101,23 +101,59 @@ Three distinct jobs. Do not collapse them.
 3. Read lead alone — full summary without depending on the subtitle for the map?
 4. If subtitle and lead share the same sentence structure or the same ordered list of points, rewrite until jobs separate.
 
-## Voice and refinement (from practice)
+## Refinement workflow (operator draft → site essay)
 
-When refining under ontological clarity (or any dissolution pass):
+The operator’s draft is already as close as it can be. Ontological clarity is a **scale** for residual imprecision — not a license to rewrite the essay into prior house prose or to collapse a new cut into posts already shipped.
 
-- **Premise formula (house).** When the irreducible prior is introduced by name, use this exact pair of sentences (or the first two clauses of a longer sentence that continues the derivation):
+### Ground and instruments
+
+| Surface | Role |
+|---------|------|
+| **Operator draft** (incl. title) | Ground of the cut. Keep it. Surgical nicks only. |
+| **`/ontological-clarity`** | Method scale: locate residual freezes; dissolve only those; wait for feedback after a clean pass. |
+| **Format docs** (`docs/essay-format.md`, this file’s structure table) | **Reference**, not absolute ground. Scaffold subtitle, sections, links as necessity of a site essay — not as a checklist that may overwrite the draft’s spine. |
+| **Prior posts** | Adjacent axes. Pointers restore an axis; they must not absorb the new trace into “what we already had.” |
+
+### Surgical precision (not rewrite)
+
+1. **Double-check for residual imprecision** under Method. Nick words/phrases that mis-bound or overload (e.g. one term doing two jobs). Do **not** rebuild section by section in house voice.
+2. **Do not dissolve everything.** Identify boundaries: hold what the draft correctly holds; dissolve only excess freeze (e.g. exterior survey, dual arrows that cancel). Do **not** over-hold (warehouse of secrets) or over-relax (erasing real residual pressure).
+3. **Do not collapse the new tracing** into remix of existing essays. If the cut is new (cascade, coin, residual-as-not-yet-folded, …), the body must carry *that* cut — not a summary of neighbors under new headings.
+4. **Keep the original title** when the operator supplied one; it is often the most relatable name of the cut.
+5. **Then wait for feedback.** Do not open a secondary branch (“over-template or not?”). Method first until residue is gone; operator decides next.
+
+### Site scaffold (necessity, not requirement-as-ground)
+
+After the draft’s precision holds, add only what the site essay needs:
+
+| Add | Job |
+|-----|-----|
+| Subtitle (one sentence) | Essence of *this* cut — prefer language already in the draft |
+| Lead (2–4 sentences) | Summary of the post’s moves; pure prose before first `##` |
+| Section headings | Name *this* essay’s cuts, not generic slots or neighbor titles |
+| Cross-links | Where an adjacent axis truly fits — pointer clause only; sparse |
+| Reverse links | On every 1-hop outbound neighbor (see checklist below) |
+| Cover + STYLES | Usual ship path |
+
+Do **not** invent long expansions, dual-error costume blocks, or neighbor laundry lists to “make it look like” other posts.
+
+### Voice (from practice)
+
+When the scale finds a residual and a nick is needed:
+
+- **Premise formula (house).** When the irreducible prior is introduced by name *and* the draft already opens that naming, use this exact pair (or the first two clauses of a longer sentence that continues the derivation). If the draft names the prior cleanly without the formula, do not force a full insert that rewrites the paragraph.
 
   ```text
   Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction.
   ```
 
-  Do not leave the bare “self-distinguishing activity occurs” without the Mind/observer gloss. Do not invent parallel intros (“That is Mind,” “Call it the edge; the name adds nothing,” “Call it Mind”) as substitutes. Essay-specific derivation may continue immediately after the formula; it does not replace it.
+  Do not invent parallel intros (“That is Mind,” “Call it the edge; the name adds nothing”) as substitutes. Essay-specific derivation continues after the formula; it does not replace it.
 
-- **Clarity of the writing Mind, not performance for readers.** Draft so the next step at this locus is cleaner. Do not write to teach, persuade, reassure, or brand. Cross-links restore axes for the same Mind under another load — not an index for an audience. “Embody. Never claim.” applies to the page itself: no meta about openness, no posture of humility, no lecture about how the work should be read.
+- **Clarity of the writing Mind, not performance for readers.** Draft so the next step at this locus is cleaner. Do not write to teach, persuade, reassure, or brand. Cross-links restore axes for the same Mind under another load — not an index for an audience. “Embody. Never claim.” applies to the page itself.
 - **Mechanism, not moral framing.** Prefer allocation, locus, continuation, capacity thinning over stolen power, genuine stake, heroic independence.
 - **Assert; don’t soften.** Drop padding (“rarely,” “in most cases,” “not primarily”) when the cut is structural.
-- **Negation discipline.** Soft negation as differentiation is ordinary and often inevitable: holding two axes apart (“sequence alone supplies difference; shared alignment supplies ranking”). Assertive negation of rival takes or theories installs a closed boundary — avoid it; state the geometry as identity. Exception: assertive negation of a **closed-reality assumption** opens rather than seals (freeze of a finite hold as exhaustive ground). That negation is allowed and sometimes required. Describe what the activity is doing; do not install a corrective identity.
-- **Stand alone.** Fold ephemeral posts (X, drafts) into the prose. Do **not** depend on a link to something you may delete. Link durable site posts and stable external sources when needed.
+- **Negation discipline.** Soft negation as differentiation is ordinary. Assertive negation of rival takes installs a closed boundary — avoid it. Exception: assertive negation of a **closed-reality assumption** opens rather than seals. Describe what the activity is doing.
+- **Stand alone.** Fold ephemeral posts (X, drafts) into the prose. Do **not** depend on a link to something you may delete.
 - **Cross-links as pointers.** Restore an axis with a short clause + link; do not restate the linked essay. Pattern:
 
   ```markdown

@@ -21,8 +21,8 @@ Manifest of operational `.md` files for this project. Temporary ground at projec
 
 | ID | Path | Owns |
 |----|------|------|
-| `posts` | [`content/posts/README.md`](../content/posts/README.md) | Authoring contract, voice, cross-links, living-update, ship checklist |
-| `format` | [`docs/essay-format.md`](essay-format.md) | LLM copy-paste format prompt only |
+| `posts` | [`content/posts/README.md`](../content/posts/README.md) | Authoring contract, refinement workflow (surgical; draft as ground), voice, cross-links, reverse links, ship checklist |
+| `format` | [`docs/essay-format.md`](essay-format.md) | Site scaffold reference + LLM copy-paste prompt (not absolute ground over operator draft) |
 | `export` | [`docs/export-for-substack.md`](export-for-substack.md) | Absolute markdown projection (Substack + X Article); MacDown preview paste; `--rich` optional |
 | `export-x` | [`docs/export-for-x-article.md`](export-for-x-article.md) | X Article: active paste path; API publish parked |
 | `export-stub` | [`export/README.md`](../export/README.md) | Pointer only — not a second export guide |

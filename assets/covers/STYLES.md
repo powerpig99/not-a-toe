@@ -146,6 +146,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Graphite ridge / luminous edge abstract** | Dark charcoal–graphite surface with fine grain, soft ridge crest, translucent amber–orange luminous layers flowing only at the far edge into empty dark field; residual mass vs active perimeter, no props | `residual-control-recedes-to-the-edge` |
 | **Cinematic silhouette / luminous network spiral** | Dark rocky overlook, lone silhouette facing golden network spiral and bright core, mist and star-field void, digital-cinematic light | `consciousness-never-appears-as-data-among-data` |
 | **Geometric mesh dissolving into alpine panorama** | Cream paper left: blue–ochre circle/triangle network and low-poly shards fracturing at a vertical seam; right photoreal misty mountain valley and lake under broken sky; abstract inventory edge into open territory | `abstraction-boundaries-and-the-moving-edge-of-reality` |
+| **Dichroic glass disk still** | Dark velvet museum still, single upright dichroic glass disk, complementary amber-gold / cyan-violet faces of one thin-film surface, residual spectral bloom past the rim, cool side light, coating grain | `causality-and-the-irreducible-prior` |
 
 ## Inventory (by slug)
 
@@ -160,6 +161,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `better-than-free-after-the-checklist-closes` | Paper craft / tabletop still |
 | `the-paradoxical-nature-of-bystander-insights` | Victorian stereograph dual-panel |
 | `causality-all-the-way` | Sand animation / grain board |
+| `causality-and-the-irreducible-prior` | Dichroic glass disk still |
 | `causality-stays-at-the-edge-that-steers` | Bauhaus primary-color geometry |
 | `climbing-does-not-leave-the-ground` | Origami / continuous-sheet folded stair still |
 | `closed-assumptions-squeeze-compounding-into-s-curves` | Marquetry / wood-inlay panel |
