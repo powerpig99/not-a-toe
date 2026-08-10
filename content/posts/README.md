@@ -196,12 +196,12 @@ Optional but usual for new essays. **One file serves three surfaces:** this site
 | Substack | Upload as post cover / social image (prefer local re-upload) |
 | X Article | Upload same file as Article cover in the editor (paste path; API parked) |
 
-1. Read [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md) — pick a **style family not already used**.
-2. Generate landscape art at **20:9** (site default; also Substack / X Article), no text. Install as `assets/covers/<slug>.jpg` at **1280×576** (or 1600×720 resized down to 1280×576 for the site install).
+1. Read [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md). **Do not default to still life / craft-table stills** (recent lag). Prefer a **new** style family; if unused styles run thin, **randomly reuse** a used family — never converge on one fixed look.
+2. Generate landscape art at **20:9** when available (Substack / X Article); **16:9 as-is** is fine (no forced crop). No text. Install as `assets/covers/<slug>.jpg`.
 3. Update STYLES.md inventory and family tables.
 4. Build copies cover to `public/covers/` and uses it for `og:image` / X card when present.
 
-Do not generate square, portrait, or 16:9 as the essay cover — keep one 20:9 asset for site, X Article cover, and Substack image. **Leave older (pre-20:9) covers as they are** unless the operator explicitly asks to regenerate that slug — no bulk re-crop or re-generate for aspect migration.
+**Leave older covers as they are** unless the operator explicitly asks to regenerate that slug. Operator drop supersedes agent-gen.
 
 ## Ship checklist (site)
 

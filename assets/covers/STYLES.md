@@ -11,13 +11,32 @@ Living inventory for essay covers in this folder. Filename = essay slug (`conten
 
 ## Principle
 
-**Each new cover uses a visual style not already taken by an existing cover.**
+**Pick a style that is actually different — do not converge.**
 
-Concept may echo the essay; medium and look must not. Before generating, read this file, pick a style absent from the inventory (or invent one not listed), generate, then add a row under Inventory and under Style families. Reusing a family dilutes the set into a house look that stops being chosen.
+Concept may echo the essay; medium and look must not. Differentiation is on **style** (medium, print/photo tradition, palette discipline, rendering method)—not on subject alone. Two dark chalk abstracts on black are the same style even if one has orbits and the other has a spiral.
 
-Differentiation is on **style** (medium, print/photo tradition, palette discipline, rendering method)—not on subject alone. Two dark chalk abstracts on black are the same style even if one has orbits and the other has a spiral.
+### Default lag to relax: “still life / tabletop still”
 
-**Crowded cluster to avoid by default:** cream-linen / museum craft-table documentary stills (brass prop + paper + cool side light). That look already saturates recent inventory. Prefer a different medium, palette, or print/photo tradition before inventing another tabletop still — even when the concept is “fold,” “mirror,” “tool,” or “residue.”
+Recent agent covers have **over-defaulted to stills** — museum craft tables, linen desks, prop arrays, soft side light, “documentary still life” framing. That is Image lag: a safe house look frozen as the cover form.
+
+| Prefer | Avoid as the automatic next pick |
+|--------|----------------------------------|
+| Print traditions, full-bleed fields, landscapes, diagrams, textile/pattern, abstract media, cinematic or graphic whole-frame | “X still,” “still life,” “craft table,” “museum side light + prop on linen” as the first idea |
+| Inventing a medium not in Style families | Another tabletop arrangement with a different prop |
+
+When the concept is “fold,” “mirror,” “tool,” “residue,” or “coin,” **do not** answer with another still-life prop shot. Force a different medium first.
+
+### Cream-linen / craft-table cluster (still crowded)
+
+Cream-linen / museum craft-table documentary stills (brass prop + paper + cool side light) remain **saturated**. Prefer any other family or invent before adding another.
+
+### When unused styles run thin
+
+1. **First:** invent a genuine new family (name medium + tradition + palette) not listed in Style families.
+2. **If invention stalls:** **randomly reuse** an existing family from the inventory — pick at random among used families, **not** the most recent one and **not** the largest crowded sets (Dark chalk; cream-linen stills; photoreal/surreal landscape stills).
+3. **Never** settle into one fixed house style (especially stills) because it is easy. Variation across the set is the goal; reuse is for diversity under exhaustion, not for comfort.
+
+**New family when possible; random used family when not — never converge.**
 
 ## Spec
 
@@ -274,19 +293,23 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 ## Crowded — prefer not to extend
 
 - **Dark chalk / light trails** (largest set)
+- **Stills / still-life / craft-table** family cluster (any “still life,” “craft table,” “museum prop,” cream-linen desk — recent default lag)
 - Photoreal tableau and surreal desert allegory (already several landscape stills)
 
 ## Unused candidates (pick from here or invent)
 
-Not exhaustive. Prefer something not in Style families above.
+Not exhaustive. Prefer inventing something not in Style families above. If empty or stuck: **random reuse** of a non-crowded used family (see Principle).
+
+Examples of non-still directions (illustrative only — invent, do not recycle as a new default list): full-bleed pattern, type poster without legible text, aerial/map, underwater, macro mineral, neon signage blur, stained atmospheric photograph, comic panel (no text), kinetic motion blur, collage tear, satellite false-color, botanical illustration plate, etc.
 
 ## Workflow for a new cover
 
 1. Open this file; list families already used.
-2. Choose a **new** family (from Unused candidates or invent).
-3. Prompt for that medium explicitly; ban crowded defaults (“dark abstract chalk,” “risograph red,” “cinematic fog cube”) unless the essay has no cover and you are replacing a style (then update the row).
-4. Generate at **20:9** (`aspect_ratio: "20:9"` when using image tools); resize to 1280×576 if needed; save as `assets/covers/<slug>.jpg`.
-5. Append the slug to Inventory and the family row (or add a new Style families row).
-6. If a candidate from Unused was taken, move it into Style families and drop it from Unused.
+2. **Reject still-default:** if the first idea is a tabletop/museum still, discard it and pick a different medium.
+3. Choose a **new** family (invent or Unused candidates). If no honest new style remains, **randomly** pick a used family that is **not** Dark chalk and **not** a still/craft-table look and **not** the last 2–3 covers’ families.
+4. Prompt for that medium **explicitly** (name the tradition/medium in the prompt). Ban lazy defaults: cream-linen still, dark chalk abstract, “cinematic fog cube,” generic still life with prop.
+5. Generate at **20:9** when available (`aspect_ratio: "20:9"`); **16:9 as-is** is fine — no forced crop. Install as `assets/covers/<slug>.jpg`.
+6. Append the slug to Inventory and the family row (or add a new Style families row). On random reuse, append the slug to that family’s Covers cell.
+7. Operator drop supersedes agent-gen when provided (install + update STYLES only).
 
 Same asset is reused for Substack paste cover and X Article `cover_media` — do not maintain a second aspect-ratio set.
