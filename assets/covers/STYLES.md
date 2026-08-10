@@ -5,8 +5,8 @@ Living inventory for essay covers in this folder. Filename = essay slug (`conten
 | Related | Path |
 |---------|------|
 | Post authoring | [`content/posts/README.md`](../../content/posts/README.md) |
-| Substack export | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) |
-| X Article export | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
+| Paste export (Substack + X Article) | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) — one absolute-markdown file |
+| X Article API (parked) | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 | Local memory / sleep audit | [`docs/local-memory.md`](../../docs/local-memory.md) |
 
 ## Principle

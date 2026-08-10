@@ -166,7 +166,7 @@ When the scale finds a residual and a nick is needed:
   [link text](../other-slug/)
   ```
 
-  Never put `https://powerpig99.github.io/not-a-toe/posts/...` in `content/posts/` — that is what the export script projects for Substack.
+  Never put `https://powerpig99.github.io/not-a-toe/posts/...` in `content/posts/` — that is what the shared paste export projects for Substack / X Article.
 
 ## Cross-link checklist
 
