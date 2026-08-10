@@ -23,7 +23,6 @@ Guides (read these instead of re-deriving the workflow each time):
 ```bash
 node scripts/export-absolute-md.mjs <slug>          # write export/<slug>.md
 open -a MacDown export/<slug>.md                    # copy from rendered preview
-# optional escape hatch: --rich                     # RTF clipboard without MacDown (keeps title)
 ```
 
 X Articles API publish is **parked**; see [`docs/export-for-x-article.md`](docs/export-for-x-article.md).

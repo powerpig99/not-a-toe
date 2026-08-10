@@ -256,7 +256,7 @@ curl -sI "https://powerpig99.github.io/not-a-toe/covers/<slug>.jpg" | head -1
 
 | Surface | When | Command / doc |
 |---------|------|----------------|
-| Substack | After live | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) · `node scripts/export-absolute-md.mjs <slug>` → MacDown preview (absolute `.md` only; **no** HTML export) |
+| Substack | After live | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) · `node scripts/export-absolute-md.mjs <slug>` → MacDown preview (absolute `.md` only) |
 | X Article | After live; **same paste** as Substack (API parked) | same command · [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 | Neighbor pointers | Usually `/sleep`; same session only if an older claim must be corrected now | [`docs/local-memory.md`](../../docs/local-memory.md) |
 

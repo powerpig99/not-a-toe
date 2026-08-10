@@ -28,20 +28,17 @@ Plain markdown on the clipboard does **not** auto-render in Substack or the X Ar
 ## Command
 
 ```bash
-# Default: write export/<slug>.md (absolute links; gitignored)
+# Write export/<slug>.md (absolute links; gitignored)
 node scripts/export-absolute-md.mjs <slug>
 
-# Clipboard as raw markdown (macOS) — usually open the file in MacDown instead
+# Clipboard as raw markdown (macOS) — still open MacDown for rendered paste
 node scripts/export-absolute-md.mjs <slug> --stdout | pbcopy
 
 # Custom path
 node scripts/export-absolute-md.mjs <slug> -o /tmp/<slug>.md
-
-# Optional: RTF clipboard without MacDown (escape hatch; keeps H1; no file write)
-node scripts/export-absolute-md.mjs <slug> --rich
 ```
 
-Do **not** use `--html` — removed. Agents and ship steps never write `export/<slug>.html`.
+**One paste path.** Absolute `.md` → MacDown preview → editor. No HTML export, no RTF/clipboard escape hatch (`--html` / `--rich` removed).
 
 `<slug>` is the post filename without `.md` (e.g. `when-observation-becomes-performance`).
 
@@ -73,15 +70,6 @@ Re-run after any edit to the source if you will re-paste.
    - **Cover:** upload `assets/covers/<slug>.jpg` (20:9) from disk; prefer local re-upload over hotlinking.
    - Subtitle: optional; italic open line is already in the export when present.
 5. **Publish** when ready. Site, Substack, and X Article are parallel surfaces, not one CMS.
-
-## Optional: `--rich` (RTF clipboard)
-
-macOS only. Renders markdown → RTF via `textutil` and copies to the clipboard. Use when MacDown is unavailable; prefer MacDown when it is. Keeps the leading H1 by default. **Clipboard only** — does not write `export/<slug>.html` or any other HTML projection.
-
-```bash
-node scripts/export-absolute-md.mjs <slug> --rich
-# optional: --no-title only if you deliberately want the H1 dropped
-```
 
 ## Checklist
 

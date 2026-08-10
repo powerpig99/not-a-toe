@@ -26,7 +26,7 @@ Then in the X Article editor:
 3. Upload cover from `assets/covers/<slug>.jpg` (20:9).
 4. Publish when ready.
 
-Full detail, flags, and failure modes: [`export-for-substack.md`](export-for-substack.md). Optional escape hatch: `--rich` for RTF clipboard without MacDown (keeps H1; add `--no-title` only if you want it dropped).
+Full detail and failure modes: [`export-for-substack.md`](export-for-substack.md). One paste path only: absolute `.md` → MacDown preview.
 
 ## Parked: Articles API
 
