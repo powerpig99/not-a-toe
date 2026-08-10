@@ -28,7 +28,7 @@ When the reference is preserved past its step, the same drop-out freezes into Im
 
 What recedes for the duration of the argument is not freedom. Freedom remains the prior activity — the Mind continuing to distinguish. What recedes is recognition that the particular default now treated as given was installed by that same activity. The scaffolding is no longer registered as scaffolding. It is registered as the way things are resolving.
 
-Local models as low-cost orchestrators of frontier capacity can remain a usable orientation. Cost, latency, privacy, and power are real axes on which centers will keep drawing bounds. The cut is not that the arrangement is empty. The cut is that its default status is not discovered in the capacity named by the first sentence. The capacity named by the first sentence is exactly what keeps every arrangement provisional: the edge can choose local, direct, hybrid, or a configuration not yet drawn.
+Local models as low-cost orchestrators of frontier capacity can remain a usable orientation. Cost, latency, privacy, and power are real axes on which centers will keep drawing bounds. The cut is not that the arrangement is empty. The cut is that its default status is not discovered in the capacity named by the first sentence. The capacity named by the first sentence is exactly what keeps every arrangement provisional: the edge can choose local, direct, hybrid, or a configuration not yet drawn. [Hardware locality is not the information boundary](../hardware-locality-is-not-the-information-boundary/) is the same provisional cut when local open systems are frozen as the condition of agency or of privacy rather than as chosen instruments under a specified information boundary.
 
 ## One-step width restored
 

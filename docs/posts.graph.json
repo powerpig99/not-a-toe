@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-10T08:05:50.851Z",
+    "generated_at": "2026-08-10T09:44:27.635Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -13,7 +13,7 @@
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "5c2c317e8efa",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "4ae2ac5282f9",
-      "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "bcbd91e8fd31",
+      "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "62458eed3052",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "c38d1c3e5b95",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
@@ -22,7 +22,7 @@
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/causality-all-the-way.md": "3543a949a435",
       "content/posts/causality-and-the-irreducible-prior.md": "c96665a92e38",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "161c07fd7092",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "c70a9529b18f",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "f9b0fa1d2781",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -38,7 +38,7 @@
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "3de3ee2f22d8",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
-      "content/posts/data-is-local-intelligence-is-allocated.md": "f8f36d24f25f",
+      "content/posts/data-is-local-intelligence-is-allocated.md": "8f500c34f2c4",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "3171103c1027",
@@ -59,6 +59,7 @@
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "24d5eed275a0",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "f3616fb19b43",
+      "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
       "content/posts/having-more-is-never-the-cause.md": "72c75f459c46",
@@ -85,7 +86,7 @@
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
-      "content/posts/no-system-can-be-kept-closed.md": "823a4442c3d2",
+      "content/posts/no-system-can-be-kept-closed.md": "4607351221ed",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
@@ -93,7 +94,7 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "55135870ffc2",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "7839b6d4f9de",
+      "content/posts/openness-is-consistency.md": "cdb695f59c01",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "0f95bfab5c53",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "916dc4d56804",
@@ -109,7 +110,7 @@
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "fc1c9fc7b2a1",
-      "content/posts/residual-control-recedes-to-the-edge.md": "5d8968729bc0",
+      "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
       "content/posts/restriction-is-a-selective-tax.md": "d262db4353fc",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -119,7 +120,7 @@
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "18185cc8fcb0",
       "content/posts/shared-humanity-is-never-shared.md": "7a429623e174",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "f0b680895e79",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "f3afd4ee5221",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "40d64ebdd7e4",
@@ -169,7 +170,7 @@
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "f3ba12d83a05",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "94dd360f407c",
-      "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "663e9819b021",
+      "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
       "content/posts/the-scaffolding-we-forget.md": "28249c3d9d61",
       "content/posts/the-source-of-all-harm.md": "01acb646930e",
       "content/posts/the-source-of-shared-change.md": "036ba23cedf8",
@@ -199,13 +200,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 189,
-      "edges": 1812,
-      "unique_directed": 1788,
+      "posts": 190,
+      "edges": 1828,
+      "unique_directed": 1804,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 134
+      "posts_with_outbound": 135
     }
   },
   "hubs_in": [
@@ -215,11 +216,11 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 45
+      "in_degree": 46
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 38
+      "in_degree": 39
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -297,11 +298,11 @@
     },
     {
       "slug": "openness-is-consistency",
-      "out_degree": 32
+      "out_degree": 33
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "out_degree": 31
+      "out_degree": 32
     },
     {
       "slug": "not-a-theory-of-everything",
@@ -516,9 +517,9 @@
       "slug": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "path": "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md",
       "title": "Advocating Openness of Others Is a Desire for Closure of the Self",
-      "hash": "bcbd91e8fd31",
-      "in_degree": 11,
-      "out_degree": 11,
+      "hash": "62458eed3052",
+      "in_degree": 12,
+      "out_degree": 12,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "intelligence-belongs-only-to-the-mind",
@@ -526,6 +527,7 @@
         "preference-clusters-and-the-language-of-judgment",
         "open-vision-in-a-closed-arena",
         "what-works-is-the-belief",
+        "hardware-locality-is-not-the-information-boundary",
         "sovereignty-belief-and-regulatory-structures",
         "restriction-is-a-selective-tax",
         "no-system-can-be-kept-closed",
@@ -704,9 +706,9 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
-      "hash": "161c07fd7092",
-      "in_degree": 20,
-      "out_degree": 19,
+      "hash": "c70a9529b18f",
+      "in_degree": 21,
+      "out_degree": 20,
       "links_out": [
         "what-always-listens-cannot-originate",
         "intelligence-belongs-only-to-the-mind",
@@ -720,6 +722,7 @@
         "the-ramble-within-the-ramble",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "residual-control-recedes-to-the-edge",
+        "hardware-locality-is-not-the-information-boundary",
         "the-presumption-of-agi-and-the-view-from-outside",
         "the-illusion-of-free-intelligence",
         "self-image-speaks-as-if-from-nowhere",
@@ -1033,9 +1036,9 @@
       "slug": "data-is-local-intelligence-is-allocated",
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
       "title": "Data Is Local; Intelligence Is Allocated",
-      "hash": "f8f36d24f25f",
-      "in_degree": 18,
-      "out_degree": 18,
+      "hash": "8f500c34f2c4",
+      "in_degree": 19,
+      "out_degree": 19,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
         "hierarchy-from-individual-difference",
@@ -1051,6 +1054,7 @@
         "reality-is-the-minds-ongoing-realization",
         "the-strongest-belief-of-the-mind",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "hardware-locality-is-not-the-information-boundary",
         "the-reversal-from-defensible-claim-to-dogma",
         "the-illusion-of-free-intelligence",
         "self-image-speaks-as-if-from-nowhere",
@@ -1414,6 +1418,26 @@
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "individual-choices-as-the-only-causal-levers",
         "what-works-is-the-belief"
+      ]
+    },
+    {
+      "id": "post:hardware-locality-is-not-the-information-boundary",
+      "kind": "post",
+      "slug": "hardware-locality-is-not-the-information-boundary",
+      "path": "content/posts/hardware-locality-is-not-the-information-boundary.md",
+      "title": "Hardware Locality Is Not the Information Boundary",
+      "hash": "eb4b20bef020",
+      "in_degree": 8,
+      "out_degree": 8,
+      "links_out": [
+        "residual-control-recedes-to-the-edge",
+        "the-scaffolding-we-forget-local-models-as-default",
+        "causality-stays-at-the-edge-that-steers",
+        "data-is-local-intelligence-is-allocated",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+        "sovereignty-belief-and-regulatory-structures",
+        "no-system-can-be-kept-closed",
+        "openness-is-consistency"
       ]
     },
     {
@@ -1960,9 +1984,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "823a4442c3d2",
-      "in_degree": 38,
-      "out_degree": 31,
+      "hash": "4607351221ed",
+      "in_degree": 39,
+      "out_degree": 32,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -1990,6 +2014,7 @@
         "the-real-lesson-from-the-consciousness-vector-paper",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-price-of-closing-optionality",
+        "hardware-locality-is-not-the-information-boundary",
         "the-reality-distortion-field-inverts-the-baseline",
         "the-imagining-of-ai-risk",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
@@ -2142,9 +2167,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "7839b6d4f9de",
-      "in_degree": 45,
-      "out_degree": 32,
+      "hash": "cdb695f59c01",
+      "in_degree": 46,
+      "out_degree": 33,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -2177,7 +2202,8 @@
         "the-rational-choice-postulate-is-the-original-sin",
         "the-average-is-residue-not-the-engine",
         "consciousness-never-appears-as-data-among-data",
-        "abstraction-boundaries-and-the-moving-edge-of-reality"
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "hardware-locality-is-not-the-information-boundary"
       ]
     },
     {
@@ -2525,9 +2551,9 @@
       "slug": "residual-control-recedes-to-the-edge",
       "path": "content/posts/residual-control-recedes-to-the-edge.md",
       "title": "Residual Control Recedes to the Edge",
-      "hash": "5d8968729bc0",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "f58149fbe577",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "causality-stays-at-the-edge-that-steers",
         "whatever-is-one-prompt-away",
@@ -2535,7 +2561,8 @@
         "the-scaffolding-we-forget",
         "the-model-never-becomes-a-second-edge",
         "the-flywheel-of-the-mind",
-        "technology-is-residual-of-human-compounding"
+        "technology-is-residual-of-human-compounding",
+        "hardware-locality-is-not-the-information-boundary"
       ]
     },
     {
@@ -2710,9 +2737,9 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "f0b680895e79",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "f3afd4ee5221",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "hassabis-frontier-agi-premise",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -2726,6 +2753,7 @@
         "public-spending-does-not-create-capital",
         "shared-humanity-is-never-shared",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+        "hardware-locality-is-not-the-information-boundary",
         "externalized-virtue-becomes-its-opposite",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "the-source-of-all-harm",
@@ -3890,13 +3918,14 @@
       "slug": "the-scaffolding-we-forget-local-models-as-default",
       "path": "content/posts/the-scaffolding-we-forget-local-models-as-default.md",
       "title": "The Scaffolding We Forget: Local Models as Default",
-      "hash": "663e9819b021",
-      "in_degree": 0,
-      "out_degree": 3,
+      "hash": "96bcbd7b1d66",
+      "in_degree": 1,
+      "out_degree": 4,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
-        "self-rl-for-humans"
+        "self-rl-for-humans",
+        "hardware-locality-is-not-the-information-boundary"
       ]
     },
     {
@@ -4749,6 +4778,12 @@
     },
     {
       "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware locality is not the information boundary"
+    },
+    {
+      "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, belief, and the generation of regulatory structures"
@@ -5220,6 +5255,12 @@
       "to": "residual-control-recedes-to-the-edge",
       "rel": "points_to",
       "label": "Residual control recedes to the edge"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware locality is not the information boundary"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -6105,6 +6146,12 @@
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware locality is not the information boundary"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
       "label": "The reversal from defensible claim to dogma"
@@ -6882,6 +6929,54 @@
       "to": "what-works-is-the-belief",
       "rel": "points_to",
       "label": "What works is the belief"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Residual control recedes to the edge"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "the-scaffolding-we-forget-local-models-as-default",
+      "rel": "points_to",
+      "label": "The scaffolding we forget: local models as default"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating openness of others is a desire for closure of the self"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
     },
     {
       "from": "having-more-is-never-the-cause",
@@ -8481,6 +8576,12 @@
     },
     {
       "from": "no-system-can-be-kept-closed",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware locality is not the information boundary"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
       "label": "The reality distortion field inverts the baseline"
@@ -9078,6 +9179,12 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware locality is not the information boundary"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -10124,6 +10231,12 @@
       "label": "Technology is residual of human compounding"
     },
     {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware locality is not the information boundary"
+    },
+    {
       "from": "restriction-is-a-selective-tax",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
@@ -10572,6 +10685,12 @@
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
       "label": "Advocating openness of others is a desire for closure of the self"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware locality is not the information boundary"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -13668,6 +13787,12 @@
       "to": "self-rl-for-humans",
       "rel": "points_to",
       "label": "Self-RL for humans"
+    },
+    {
+      "from": "the-scaffolding-we-forget-local-models-as-default",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware locality is not the information boundary"
     },
     {
       "from": "the-scaffolding-we-forget",

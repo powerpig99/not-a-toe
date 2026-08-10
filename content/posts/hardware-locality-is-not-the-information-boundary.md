@@ -1,0 +1,41 @@
+# Hardware Locality Is Not the Information Boundary
+
+*Agency and privacy track the bound that governs what is shared — not co-location with an inspectable operating system.*
+
+A recurring claim in the agentic era holds that local execution and open operating systems — especially those whose full codebases can enter model pretraining — are essential. The argument runs that agents require deep, intimate access to the systems they inhabit, so an open, fully inspectable kernel is uniquely suited to the work. Agentic workflows already operate largely through stable abstractions that make the underlying userspace recede. The preference for keeping computation tightly coupled to a particular machine is frequently contingent design, not a technical necessity. A parallel preference for local data is often framed as privacy or as protection of training value; privacy is a property of the information boundary, and individualized residue contributes almost nothing to general model capability. What matters is whether that boundary is clearly specified and reliably maintained — not which machine happens to run the process.
+
+## Agency already runs through abstractions
+
+Agentic workflows are already largely operating-system agnostic. Most production systems operate through APIs, containerized runtimes, browser environments, and portable language platforms. Once an agent interacts with tools and resources through stable interfaces, the kernel and userspace recede in importance. Capability depends on the quality of those abstractions and on the reliability of the controls placed around context — not on co-location with a particular operating system.
+
+The claim that full open-source codebases must enter pretraining freezes intimacy of stack knowledge as the seat of agency. Intimate knowledge of one userspace can be useful under some loads. Usefulness is not coextensive with the condition of agency. [Residual control recedes to the edge](../residual-control-recedes-to-the-edge/) is the same relocation under shell-ownership costume: low-level substrate control becomes residual as criteria, bounds, and verification carry the outcomes that matter. [The scaffolding we forget: local models as default](../the-scaffolding-we-forget-local-models-as-default/) is the invert when a usable local arrangement freezes as the entry the situation itself indicates. Here the freeze is open-kernel co-location held as the structure of agentic capacity.
+
+## Tight local coupling is contingent design
+
+The insistence on deep local agency is frequently an artifact of design rather than a technical necessity. Computation is kept tightly coupled to a particular machine, preserving the appearance that intimate knowledge of a specific operating system remains indispensable. That coupling is contingent. It can be relaxed through higher-level interfaces, remote or attested execution, and clearer separation between the agent’s control plane and any particular host.
+
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Tools and hosts are externalized traces that extend reach. They do not relocate the edge into the substrate. [Causality stays at the edge that steers](../causality-stays-at-the-edge-that-steers/) keeps framing, selection, and verification with the steerer while the instrument recombines residue under direction. Allocating initiation to the local open stack is medium-as-locus: densification of inspectable code registers as if the medium had become the seat of agency rather than higher-bandwidth hold under the edge that still chooses bounds.
+
+## Individualized residue is noise for general models
+
+A related justification for local preference is the protection of data that might improve models. The data that most improves general models is generalizable information — patterns that transfer across users and domains. Truly individualized information, the private residue of a single person’s files, habits, and context, contributes almost nothing to model capability. It is noise for training purposes. The intense focus on keeping such data local therefore cannot be grounded in its value for machine learning.
+
+[Data is local; intelligence is allocated](../data-is-local-intelligence-is-allocated/) is that geometry under quality costume: every signal is first high value for the producing center and noise almost everywhere else. Aggregation densifies residual structure; it does not promote private residue into general capability by relocating it into the training stock. Local custody of individualized material can remain a usable bound. The bound is not warranted by a training-value story that the material does not support.
+
+## Privacy is the boundary, not the stack
+
+Privacy is often offered as the more acceptable framing for the same local preference. In practice it functions as a socially legible cover for the desire for exclusive control. Privacy itself, however, is not a property of hardware location or of any particular software stack. It is a property of the boundary that governs what information is shared, with whom, under what conditions, and with what assurances. Hardware and software are mechanisms that may enforce or fail to enforce that boundary. They do not constitute it.
+
+[Advocating openness of others is a desire for closure of the self](../advocating-openness-of-others-is-a-desire-for-closure-of-the-self/) is privacy under moral costume: the word makes the inward close desirable without adding information about the relation itself. Stripped of the costume, the fact remains selective release of traces under a bound that keeps the locus distinct. [Sovereignty, belief, and the generation of regulatory structures](../sovereignty-belief-and-regulatory-structures/) is the same bound under institutional costume: the locus of choosing stays while belief densifies that the bound can be handed over. Local hardware can implement a chosen boundary. Locality of the hardware is not the property named by privacy.
+
+## There is no absolute locality
+
+There is, moreover, no absolute locality. Every system is already entangled in supply chains, firmware, networks, and external services. Absolute isolation is a rhetorical ideal, not a stable technical state. What exists are degrees of isolation and trust. The relevant question for agentic systems is therefore not whether computation occurs on a local device, but whether the information boundary is clearly defined and reliably maintained.
+
+[No system can be kept closed](../no-system-can-be-kept-closed/) is that remainder under formal costume: a finite hold cannot seal the activity that uses it. [Openness is consistency](../openness-is-consistency/) names the same demand from the other side — force a finite structure to ground what only continues, and surface contradiction multiplies. Absolute local isolation freezes a preferred degree of isolation as exhaustive ground. Degrees of isolation remain real as engineering. Exhaustiveness does not travel with any one degree.
+
+## Capability tracks the boundary, not the machine
+
+The clarity and integrity of the information boundary is what matters for privacy. Locality of hardware is not part of the property. Once the boundary is specified and enforced, the physical or architectural site of processing ceases to determine the privacy outcome. The same principle applies to agency more broadly: capability depends on the quality of the abstractions and the reliability of the controls placed around context, not on co-location with a particular operating system.
+
+Local open systems remain usable instruments. Full codebases in pretraining can remain useful residue under some training objectives. Cost, latency, offline operation, and preferred trust models are real axes on which centers will keep drawing bounds. The cut is not that those arrangements are empty. The cut is that their necessity is not discovered in the requirements of agency or of privacy. Effective agentic systems will be judged by the precision of the information boundaries they respect and the generality of the knowledge they can apply — not by the machine on which they happen to run.
