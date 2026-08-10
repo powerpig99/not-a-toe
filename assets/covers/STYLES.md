@@ -145,11 +145,13 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Industrial gear dissolving into residual waves** | Dark industrial left: large brass–iron gear and piston on tiled floor; center shatter of dark fragments; right luminous amber–cream flowing wave layers as residue continuum; cinematic split light | `the-average-is-residue-not-the-engine` |
 | **Graphite ridge / luminous edge abstract** | Dark charcoal–graphite surface with fine grain, soft ridge crest, translucent amber–orange luminous layers flowing only at the far edge into empty dark field; residual mass vs active perimeter, no props | `residual-control-recedes-to-the-edge` |
 | **Cinematic silhouette / luminous network spiral** | Dark rocky overlook, lone silhouette facing golden network spiral and bright core, mist and star-field void, digital-cinematic light | `consciousness-never-appears-as-data-among-data` |
+| **Library card-catalogue drawer still** | Vintage oak card-catalog drawer mid-pull, dense blank manila cards as closed inventory, brass pull and metal rod, empty wood floor past last cards, cool archival side light, cream–umber–brass | `abstraction-boundaries-and-the-moving-edge-of-reality` |
 
 ## Inventory (by slug)
 
 | Slug | Style family |
 |------|----------------|
+| `abstraction-boundaries-and-the-moving-edge-of-reality` | Library card-catalogue drawer still |
 | `advocating-openness-of-others-is-a-desire-for-closure-of-the-self` | Brass iris diaphragm still |
 | `a-creation-cannot-replace-its-source` | Cut-paper shadowbox / Scherenschnitte |
 | `a-living-external-cortex` | Chinese gongbi fine-line color |
