@@ -1,6 +1,6 @@
 # export/ (generated, not source)
 
-**Substack only:** absolute-link markdown projections of `content/posts/`. Gitignored; this pointer is tracked.
+**One projection:** absolute-link markdown from `content/posts/` for Substack and X Article paste. Same file for both. Gitignored; this pointer is tracked.
 
 ```bash
 node scripts/export-absolute-md.mjs <slug>
@@ -9,4 +9,4 @@ node scripts/export-absolute-md.mjs <slug>
 
 Do not edit files here as canon. Edit `content/posts/<slug>.md`, then re-export. Guide: [`docs/export-for-substack.md`](../docs/export-for-substack.md).
 
-Parked X Articles API receipts (if any) are unrelated to the Substack export path — see [`docs/export-for-x-article.md`](../docs/export-for-x-article.md).
+Parked X Articles API receipts (if any) are not a second paste export — see [`docs/export-for-x-article.md`](../docs/export-for-x-article.md).

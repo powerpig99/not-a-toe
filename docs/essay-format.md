@@ -56,7 +56,7 @@ Full title / subtitle / lead jobs, refinement workflow, and anti-repetition chec
 - In **source** (`content/posts/`): `[axis name](../slug/)`.
 - Pointers only — restore an axis; do not restate the linked essay.
 - Living updates (same-slug revise, sleep neighbor pass) still use relative pointers only — no absolute site URLs, no frontmatter `related:` list. The posts graph is a projection of these links: `node scripts/project-posts-graph.mjs`.
-- For Substack, project absolute-link markdown with the export script — see [`docs/export-for-substack.md`](export-for-substack.md).
+- For Substack / X Article paste, one absolute-link markdown export — see [`docs/export-for-substack.md`](export-for-substack.md).
 
 ## Optional Title Image
 

@@ -1,10 +1,19 @@
-# X Article (parked)
+# X Article
 
-X Article publish is **not** part of the export workflow. The only paste export is **Substack** absolute markdown: [`docs/export-for-substack.md`](export-for-substack.md).
+**No separate export.** Body paste uses the same absolute-markdown file as Substack:
 
-`scripts/publish-x-article.mjs` remains for a possible later resume (dry-run / draft / publish). It is not a default ship step and is not the Substack export.
+```bash
+node scripts/export-absolute-md.mjs <slug>
+# → export/<slug>.md
+```
+
+Guide: [`docs/export-for-substack.md`](export-for-substack.md).
+
+## Articles API (parked)
+
+`scripts/publish-x-article.mjs` is **parked** — not a ship step and not a second export path for paste. Kept for a possible later resume (dry-run / draft / publish).
 
 | Related | Path |
 |---------|------|
-| Substack export (active) | [`docs/export-for-substack.md`](export-for-substack.md) |
+| Shared paste export | [`docs/export-for-substack.md`](export-for-substack.md) |
 | Parked API script | [`scripts/publish-x-article.mjs`](../scripts/publish-x-article.mjs) |

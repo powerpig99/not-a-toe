@@ -1,11 +1,12 @@
-# Export for Substack
+# Export for Substack and X Article
 
-Project a site post to markdown with **absolute** links for Substack. That is the only paste export.
+One projection: site post → markdown with **absolute** links. Same file for **Substack** and **X Article** body paste. No separate X export.
 
 | Related | Path |
 |---------|------|
 | Source posts | [`content/posts/`](../content/posts/) · authoring [`content/posts/README.md`](../content/posts/README.md) |
 | Script | [`scripts/export-absolute-md.mjs`](../scripts/export-absolute-md.mjs) · helpers [`scripts/lib/post-markdown.mjs`](../scripts/lib/post-markdown.mjs) |
+| X Article API (parked; not this export) | [`docs/export-for-x-article.md`](export-for-x-article.md) |
 | Cover styles | [`assets/covers/STYLES.md`](../assets/covers/STYLES.md) |
 | Local memory | [`docs/local-memory.md`](local-memory.md) |
 
@@ -14,11 +15,11 @@ Project a site post to markdown with **absolute** links for Substack. That is th
 | Consumer | Form | Where |
 |----------|------|--------|
 | Site | Relative `[text](../slug/)` | `content/posts/<slug>.md` |
-| Substack | Absolute links | `export/<slug>.md` via script |
+| Substack / X Article paste | Absolute links | `export/<slug>.md` via script |
 
-Never edit source to “fix” Substack. Never treat `export/` as canon. Site HTML is `public/` via build only — not this export.
+Never edit source to “fix” external editors. Never treat `export/` as canon. Site HTML is `public/` via build only — not this export.
 
-`export/` is gitignored. Artifact: **one absolute-markdown file per slug**.
+`export/` is gitignored. Artifact: **one absolute-markdown file per slug**, shared by both surfaces.
 
 ## Command
 
@@ -31,11 +32,11 @@ Optional: `--stdout`, or `-o <path>`. No other modes.
 
 `<slug>` = filename without `.md`. Re-run after source edits when you will re-paste.
 
-## Substack paste (operator)
+## Paste (operator)
 
 1. Ship the site so absolute links resolve.
 2. `node scripts/export-absolute-md.mjs <slug>`
-3. Open `export/<slug>.md` in a markdown previewer (e.g. MacDown); copy from the **rendered** preview into Substack (plain markdown does not auto-render).
+3. Open `export/<slug>.md` in a markdown previewer (e.g. MacDown); copy from the **rendered** preview into Substack and/or X Article (plain markdown does not auto-render).
 4. Upload cover from `assets/covers/<slug>.jpg` if used; publish.
 
 ## Site base URL

@@ -23,8 +23,8 @@ Manifest of operational `.md` files for this project. Temporary ground at projec
 |----|------|------|
 | `posts` | [`content/posts/README.md`](../content/posts/README.md) | Authoring contract, refinement workflow (surgical; draft as ground), voice, cross-links, reverse links, ship checklist |
 | `format` | [`docs/essay-format.md`](essay-format.md) | Site scaffold reference + LLM copy-paste prompt (not absolute ground over operator draft) |
-| `export` | [`docs/export-for-substack.md`](export-for-substack.md) | Substack only: absolute-link markdown (`export/<slug>.md`) |
-| `export-x` | [`docs/export-for-x-article.md`](export-for-x-article.md) | X Article API parked; not the export path |
+| `export` | [`docs/export-for-substack.md`](export-for-substack.md) | Shared paste export: absolute-link markdown for Substack + X Article |
+| `export-x` | [`docs/export-for-x-article.md`](export-for-x-article.md) | Points at shared export; Articles API parked |
 | `export-stub` | [`export/README.md`](../export/README.md) | Pointer only — not a second export guide |
 | `covers` | [`assets/covers/STYLES.md`](../assets/covers/STYLES.md) | Cover style families, inventory, differentiation rule |
 | `root` | [`README.md`](../README.md) | Index of guides + minimal authoring summary |
