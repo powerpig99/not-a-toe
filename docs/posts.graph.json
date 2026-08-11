@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-10T09:44:27.635Z",
+    "generated_at": "2026-08-11T06:34:41.141Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -12,7 +12,7 @@
       "content/posts/a-creation-cannot-replace-its-source.md": "749d2fef34a2",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "5c2c317e8efa",
-      "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "4ae2ac5282f9",
+      "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "faf892063e82",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "62458eed3052",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "c38d1c3e5b95",
@@ -24,7 +24,7 @@
       "content/posts/causality-and-the-irreducible-prior.md": "c96665a92e38",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "c70a9529b18f",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
-      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "f9b0fa1d2781",
+      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "3b3177a38140",
@@ -76,7 +76,7 @@
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "de3428097875",
       "content/posts/looping-and-graphing.md": "b2acdecafde8",
-      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "991b89daed0c",
+      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "01056fcbfd40",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "4688c22dcbcf",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
@@ -86,7 +86,7 @@
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
-      "content/posts/no-system-can-be-kept-closed.md": "4607351221ed",
+      "content/posts/no-system-can-be-kept-closed.md": "e82ffa0cf137",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
@@ -94,7 +94,7 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "55135870ffc2",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "cdb695f59c01",
+      "content/posts/openness-is-consistency.md": "b620181afa2c",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "0f95bfab5c53",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "916dc4d56804",
@@ -102,6 +102,7 @@
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "8a3af9e554fe",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "008f74b4f474",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "d350e546c886",
       "content/posts/price-as-utterance-understanding-as-trade.md": "aacea97efc6b",
       "content/posts/production-consumption-and-the-minds-distinction.md": "3e0c30273b95",
@@ -171,7 +172,7 @@
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "94dd360f407c",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
-      "content/posts/the-scaffolding-we-forget.md": "28249c3d9d61",
+      "content/posts/the-scaffolding-we-forget.md": "9c210d57ed63",
       "content/posts/the-source-of-all-harm.md": "01acb646930e",
       "content/posts/the-source-of-shared-change.md": "036ba23cedf8",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
@@ -194,19 +195,19 @@
       "content/posts/when-observation-becomes-performance.md": "57e4edddc357",
       "content/posts/when-the-effect-authors-the-frame.md": "1bc9d6e77396",
       "content/posts/why-explanation-fails.md": "b6c6dc19048e",
-      "content/posts/why-mathematics-can-never-be-solved.md": "ef23d3b11717",
+      "content/posts/why-mathematics-can-never-be-solved.md": "99a49d1f0dea",
       "content/posts/writing-without-the-image.md": "9009b34790ea",
       "content/posts/you-cant-benchmark-the-fluid.md": "cc314ae189a8",
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 190,
-      "edges": 1828,
-      "unique_directed": 1804,
+      "posts": 191,
+      "edges": 1842,
+      "unique_directed": 1818,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 135
+      "posts_with_outbound": 136
     }
   },
   "hubs_in": [
@@ -216,11 +217,11 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 46
+      "in_degree": 47
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 39
+      "in_degree": 40
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -228,7 +229,7 @@
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 29
+      "in_degree": 30
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -236,7 +237,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 27
+      "in_degree": 28
     },
     {
       "slug": "hierarchy-from-individual-difference",
@@ -298,11 +299,11 @@
     },
     {
       "slug": "openness-is-consistency",
-      "out_degree": 33
+      "out_degree": 34
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "out_degree": 32
+      "out_degree": 33
     },
     {
       "slug": "not-a-theory-of-everything",
@@ -333,6 +334,10 @@
       "out_degree": 25
     },
     {
+      "slug": "the-scaffolding-we-forget",
+      "out_degree": 24
+    },
+    {
       "slug": "what-works-is-the-belief",
       "out_degree": 24
     },
@@ -350,10 +355,6 @@
     },
     {
       "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
-      "out_degree": 23
-    },
-    {
-      "slug": "the-scaffolding-we-forget",
       "out_degree": 23
     },
     {
@@ -485,9 +486,9 @@
       "slug": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "path": "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md",
       "title": "Abstraction, Boundaries, and the Moving Edge of Reality",
-      "hash": "4ae2ac5282f9",
-      "in_degree": 20,
-      "out_degree": 20,
+      "hash": "faf892063e82",
+      "in_degree": 21,
+      "out_degree": 21,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -508,7 +509,8 @@
         "the-strongest-belief-of-the-mind",
         "you-cant-benchmark-the-fluid",
         "clarity-isnt-a-state-you-arrive-at",
-        "causality-and-the-irreducible-prior"
+        "causality-and-the-irreducible-prior",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
       ]
     },
     {
@@ -749,9 +751,9 @@
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "Clarity Isn't a State You Arrive At. It's the Movement Itself.",
-      "hash": "f9b0fa1d2781",
-      "in_degree": 29,
-      "out_degree": 13,
+      "hash": "318770941822",
+      "in_degree": 30,
+      "out_degree": 14,
       "links_out": [
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "only-if-it-is-not-kept-empty",
@@ -765,7 +767,8 @@
         "the-real-lesson-from-the-consciousness-vector-paper",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
-        "abstraction-boundaries-and-the-moving-edge-of-reality"
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
       ]
     },
     {
@@ -1792,9 +1795,9 @@
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "Lossless Knowledge of an Open Field Is Incoherent",
-      "hash": "991b89daed0c",
-      "in_degree": 8,
-      "out_degree": 13,
+      "hash": "01056fcbfd40",
+      "in_degree": 9,
+      "out_degree": 14,
       "links_out": [
         "distillation-compression-agency",
         "intelligence-belongs-only-to-the-mind",
@@ -1808,7 +1811,8 @@
         "token-efficiency-emulation-and-the-unclosable-gap",
         "causality-stays-at-the-edge-that-steers",
         "clarity-isnt-a-state-you-arrive-at",
-        "abstraction-boundaries-and-the-moving-edge-of-reality"
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
       ]
     },
     {
@@ -1984,9 +1988,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "4607351221ed",
-      "in_degree": 39,
-      "out_degree": 32,
+      "hash": "e82ffa0cf137",
+      "in_degree": 40,
+      "out_degree": 33,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -2019,7 +2023,8 @@
         "the-imagining-of-ai-risk",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "consciousness-never-appears-as-data-among-data",
-        "abstraction-boundaries-and-the-moving-edge-of-reality"
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
       ]
     },
     {
@@ -2167,9 +2172,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "cdb695f59c01",
-      "in_degree": 46,
-      "out_degree": 33,
+      "hash": "b620181afa2c",
+      "in_degree": 47,
+      "out_degree": 34,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -2203,7 +2208,8 @@
         "the-average-is-residue-not-the-engine",
         "consciousness-never-appears-as-data-among-data",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
-        "hardware-locality-is-not-the-information-boundary"
+        "hardware-locality-is-not-the-information-boundary",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
       ]
     },
     {
@@ -2344,6 +2350,25 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "kind": "post",
+      "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
+      "title": "Potential Infinity and the Temporary Closures of Mathematical Thought",
+      "hash": "008f74b4f474",
+      "in_degree": 7,
+      "out_degree": 7,
+      "links_out": [
+        "the-scaffolding-we-forget",
+        "no-system-can-be-kept-closed",
+        "why-mathematics-can-never-be-solved",
+        "lossless-knowledge-of-an-open-field-is-incoherent",
+        "openness-is-consistency",
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "clarity-isnt-a-state-you-arrive-at"
+      ]
     },
     {
       "id": "post:preference-clusters-and-the-language-of-judgment",
@@ -3883,9 +3908,9 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
-      "hash": "28249c3d9d61",
-      "in_degree": 27,
-      "out_degree": 23,
+      "hash": "9c210d57ed63",
+      "in_degree": 28,
+      "out_degree": 24,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-path-drawn-one-step-at-a-time",
@@ -3909,7 +3934,8 @@
         "intelligence-folding-back-on-itself",
         "climbing-does-not-leave-the-ground",
         "closed-assumptions-squeeze-compounding-into-s-curves",
-        "abstraction-boundaries-and-the-moving-edge-of-reality"
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
       ]
     },
     {
@@ -4372,9 +4398,9 @@
       "slug": "why-mathematics-can-never-be-solved",
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "Why Mathematics Can Never Be Solved",
-      "hash": "ef23d3b11717",
-      "in_degree": 13,
-      "out_degree": 18,
+      "hash": "99a49d1f0dea",
+      "in_degree": 14,
+      "out_degree": 19,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
@@ -4393,7 +4419,8 @@
         "the-ramble-within-the-ramble",
         "the-scaffolding-that-keeps-growing",
         "closed-assumptions-squeeze-compounding-into-s-curves",
-        "abstraction-boundaries-and-the-moving-edge-of-reality"
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
       ]
     },
     {
@@ -4739,6 +4766,12 @@
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
       "label": "Causality and the irreducible prior"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential infinity and the temporary closures of mathematical thought"
     },
     {
       "from": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
@@ -5381,6 +5414,12 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential infinity and the temporary closures of mathematical thought"
     },
     {
       "from": "climbing-does-not-leave-the-ground",
@@ -8029,6 +8068,12 @@
       "label": "Abstraction, boundaries, and the moving edge of reality"
     },
     {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential infinity and the temporary closures of mathematical thought"
+    },
+    {
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
@@ -8611,6 +8656,12 @@
       "label": "Abstraction, boundaries, and the moving edge of reality"
     },
     {
+      "from": "no-system-can-be-kept-closed",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential infinity and the temporary closures of mathematical thought"
+    },
+    {
       "from": "not-a-theory-of-everything",
       "to": "not-a-toe-rewrite",
       "rel": "points_to",
@@ -9187,6 +9238,12 @@
       "label": "Hardware locality is not the information boundary"
     },
     {
+      "from": "openness-is-consistency",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential infinity and the temporary closures of mathematical thought"
+    },
+    {
       "from": "ownership-and-self-worthiness",
       "to": "residual-control-recedes-to-the-edge",
       "rel": "points_to",
@@ -9557,6 +9614,48 @@
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
       "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why mathematics can never be solved"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless knowledge of an open field is incoherent"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity isn’t a state you arrive at"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
@@ -13933,6 +14032,12 @@
       "label": "Abstraction, boundaries, and the moving edge of reality"
     },
     {
+      "from": "the-scaffolding-we-forget",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential infinity and the temporary closures of mathematical thought"
+    },
+    {
       "from": "the-source-of-all-harm",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
@@ -15341,6 +15446,12 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "why-mathematics-can-never-be-solved",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential infinity and the temporary closures of mathematical thought"
     },
     {
       "from": "writing-without-the-image",
