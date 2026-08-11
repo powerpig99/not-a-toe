@@ -8,7 +8,7 @@ The piece treats the current set of economic activities as roughly the complete 
 
 Then it lets AI capability grow exponentially within that fixed space.
 
-The result is arithmetic. If the pie doesn't grow but AI takes a larger slice, humans get a smaller one. Trace that through income, spending, credit, housing, tax receipts, and you get a crisis. You don't need 5,000 words of financial analysis to get there. You need the fixed-pie assumption and basic subtraction.
+The result is arithmetic. If the pie doesn't grow but AI takes a larger slice, humans get a smaller one. Trace that through income, spending, credit, housing, tax receipts, and you get a crisis. You don't need 5,000 words of financial analysis to get there. You need the fixed-pie assumption and basic subtraction. [Residual individualism](../residual-individualism/) is the same hold at source: fixed-pie mentality arises from sustained focus on the collective as the unit that has or lacks.
 
 The 5,000 words serve a different purpose: they make the assumption invisible. When you're following the mechanics of ARR-backed loan defaults and insurance company capital requirements, you're not asking whether the pie is actually fixed. The complexity camouflages the simplicity.
 
