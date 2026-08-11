@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-11T20:46:44.011Z",
+    "generated_at": "2026-08-11T20:57:27.391Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -70,7 +70,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "1de21c66e8aa",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "f19c026134e9",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -105,7 +105,7 @@
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "008f74b4f474",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "d350e546c886",
-      "content/posts/price-as-utterance-understanding-as-trade.md": "01598543ae17",
+      "content/posts/price-as-utterance-understanding-as-trade.md": "3044ff41ff78",
       "content/posts/production-consumption-and-the-minds-distinction.md": "59bd2266e262",
       "content/posts/public-spending-does-not-create-capital.md": "aa2b5aaa20fe",
       "content/posts/qian-yin-hou-guo.md": "ad668454294b",
@@ -113,7 +113,7 @@
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "fc1c9fc7b2a1",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
-      "content/posts/residual-individualism.md": "1a5034395109",
+      "content/posts/residual-individualism.md": "b7cfc87a7acf",
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -170,7 +170,7 @@
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "a396e946d072",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4af688fa6b26",
-      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "4c63c0806300",
+      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "3734f5b758d9",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "f3ba12d83a05",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "94dd360f407c",
@@ -1645,7 +1645,7 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "1de21c66e8aa",
+      "hash": "f19c026134e9",
       "in_degree": 36,
       "out_degree": 39,
       "links_out": [
@@ -2450,7 +2450,7 @@
       "slug": "price-as-utterance-understanding-as-trade",
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "Price as Utterance, Understanding as Trade",
-      "hash": "01598543ae17",
+      "hash": "3044ff41ff78",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -2640,7 +2640,7 @@
       "slug": "residual-individualism",
       "path": "content/posts/residual-individualism.md",
       "title": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies",
-      "hash": "1a5034395109",
+      "hash": "b7cfc87a7acf",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -3913,23 +3913,23 @@
       "kind": "post",
       "slug": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "path": "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md",
-      "title": "The Misallocation of Cause: Residual Choices and the Appearance of Policy Reversal",
-      "hash": "4c63c0806300",
+      "title": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors",
+      "hash": "3734f5b758d9",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
-        "individual-choices-as-the-only-causal-levers",
         "when-the-effect-authors-the-frame",
-        "price-as-utterance-understanding-as-trade",
-        "ownership-and-self-worthiness",
         "emotional-support-as-causal-interference",
+        "price-as-utterance-understanding-as-trade",
+        "individual-choices-as-the-only-causal-levers",
+        "ownership-and-self-worthiness",
         "therapy-opens-the-feedback-loop",
         "public-spending-does-not-create-capital",
         "the-myth-of-population-collapse-explained",
-        "residual-individualism",
         "symptom-and-cause-in-the-narratives-of-progress",
         "restriction-is-a-selective-tax",
-        "production-consumption-and-the-minds-distinction"
+        "production-consumption-and-the-minds-distinction",
+        "residual-individualism"
       ]
     },
     {
@@ -14058,15 +14058,15 @@
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
-      "to": "individual-choices-as-the-only-causal-levers",
-      "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
-    },
-    {
-      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
       "label": "When the effect authors the frame"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional support as causal interference"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -14076,15 +14076,15 @@
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
-      "to": "ownership-and-self-worthiness",
+      "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
-      "to": "emotional-support-as-causal-interference",
+      "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Emotional support as causal interference"
+      "label": "Ownership and self-worthiness"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -14106,12 +14106,6 @@
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
-      "to": "residual-individualism",
-      "rel": "points_to",
-      "label": "Residual individualism"
-    },
-    {
-      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and cause in the narratives of progress"
@@ -14127,6 +14121,12 @@
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual individualism"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
