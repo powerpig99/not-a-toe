@@ -169,6 +169,8 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Dual-terrain photoreal footstep** | Split cracked basalt / luminous water, bare foot mid-step on fractured edge, cool–warm atmospheric light, painterly photoreal allegory | `hardness-is-not-inherent-in-the-action` |
 | **Cinematic chip–network dual** | Dark void; isometric black microchip with golden fiber fan left of a jagged crack boundary; purple–blue particle wave mesh and node graph right; digital-cinematic light | `hardware-locality-is-not-the-information-boundary` |
 | **Painterly chamber / luminous infinity dual** | Oil-like strokes; dark stone arch with chalk triangle-circle mark and stepped plinth left; golden ∞ over open valley path with geometric diagram haze right; cream–umber–gold | `potential-infinity-and-the-temporary-closures-of-mathematical-thought` |
+| **Mixed-media profile / geometric residue field** | Cream paper ground; closed-eye face in profile dissolving into navy–ochre geometric lattice, ink spatter, and flowing residual lines; mixed-media collage | `residual-individualism` |
+
 ## Inventory (by slug)
 
 | Slug | Style family |
