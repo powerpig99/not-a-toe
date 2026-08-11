@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-11T13:20:09.586Z",
+    "generated_at": "2026-08-11T19:48:17.103Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -42,7 +42,7 @@
       "content/posts/data-is-local-intelligence-is-allocated.md": "8f500c34f2c4",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
-      "content/posts/emotional-support-as-causal-interference.md": "3171103c1027",
+      "content/posts/emotional-support-as-causal-interference.md": "eca5d2fc3888",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "592311e806f5",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
@@ -70,7 +70,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "9f8c5e5ecc40",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "22fd47a0dd72",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -97,7 +97,7 @@
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
       "content/posts/openness-is-consistency.md": "b620181afa2c",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "0f95bfab5c53",
+      "content/posts/ownership-and-self-worthiness.md": "c8cd28af062b",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "916dc4d56804",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "9f9598e7f790",
@@ -105,16 +105,16 @@
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "008f74b4f474",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "d350e546c886",
-      "content/posts/price-as-utterance-understanding-as-trade.md": "aacea97efc6b",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "fc781a1b2b08",
-      "content/posts/public-spending-does-not-create-capital.md": "1fa061fe7f18",
+      "content/posts/price-as-utterance-understanding-as-trade.md": "10612c1d25e1",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "f1f29371dfc0",
+      "content/posts/public-spending-does-not-create-capital.md": "619b3b6081b0",
       "content/posts/qian-yin-hou-guo.md": "ad668454294b",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "fc1c9fc7b2a1",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
-      "content/posts/residual-individualism.md": "50e1ffd9c453",
-      "content/posts/restriction-is-a-selective-tax.md": "d262db4353fc",
+      "content/posts/residual-individualism.md": "1f783e736b78",
+      "content/posts/restriction-is-a-selective-tax.md": "7667c991ccb7",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "9a19a7a34f5d",
@@ -126,7 +126,7 @@
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "1b889ebfe326",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "f1b482263bfc",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "f057fda301bd",
       "content/posts/technology-is-residual-of-human-compounding.md": "3b50785def9a",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "445d33effe5c",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
@@ -155,7 +155,7 @@
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
       "content/posts/the-model-never-becomes-a-second-edge.md": "a9ea905964fb",
-      "content/posts/the-myth-of-population-collapse-explained.md": "3cff2f80ddef",
+      "content/posts/the-myth-of-population-collapse-explained.md": "62e44c8f1c82",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "9b3876d77a5b",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "7680ad1fc468",
@@ -170,6 +170,7 @@
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "a396e946d072",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4af688fa6b26",
+      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "23daa8e20fb8",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "f3ba12d83a05",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "94dd360f407c",
@@ -185,7 +186,7 @@
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
-      "content/posts/therapy-opens-the-feedback-loop.md": "e859c0e48fd3",
+      "content/posts/therapy-opens-the-feedback-loop.md": "5d963bc116df",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "7123d871117c",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
@@ -195,7 +196,7 @@
       "content/posts/when-abundance-looks-like-scarcity.md": "6ba7612c2611",
       "content/posts/when-need-stops-being-the-measure.md": "ff23d1d0c5f3",
       "content/posts/when-observation-becomes-performance.md": "44b0740cc91b",
-      "content/posts/when-the-effect-authors-the-frame.md": "1bc9d6e77396",
+      "content/posts/when-the-effect-authors-the-frame.md": "55b8d68735e2",
       "content/posts/why-explanation-fails.md": "b6c6dc19048e",
       "content/posts/why-mathematics-can-never-be-solved.md": "99a49d1f0dea",
       "content/posts/writing-without-the-image.md": "9009b34790ea",
@@ -203,13 +204,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 193,
-      "edges": 1887,
-      "unique_directed": 1864,
+      "posts": 194,
+      "edges": 1911,
+      "unique_directed": 1888,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 138
+      "posts_with_outbound": 139
     }
   },
   "hubs_in": [
@@ -227,7 +228,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 35
+      "in_degree": 36
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -250,15 +251,15 @@
       "in_degree": 26
     },
     {
+      "slug": "ownership-and-self-worthiness",
+      "in_degree": 26
+    },
+    {
       "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 25
     },
     {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "in_degree": 25
-    },
-    {
-      "slug": "ownership-and-self-worthiness",
       "in_degree": 25
     },
     {
@@ -297,7 +298,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 38
+      "out_degree": 39
     },
     {
       "slug": "openness-is-consistency",
@@ -310,6 +311,10 @@
     {
       "slug": "not-a-theory-of-everything",
       "out_degree": 29
+    },
+    {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "out_degree": 27
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -328,20 +333,16 @@
       "out_degree": 26
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "out_degree": 26
+      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "out_degree": 25
     },
     {
-      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 25
     },
     {
       "slug": "the-scaffolding-we-forget",
       "out_degree": 25
-    },
-    {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
-      "out_degree": 24
     },
     {
       "slug": "what-works-is-the-belief",
@@ -1120,12 +1121,13 @@
       "slug": "emotional-support-as-causal-interference",
       "path": "content/posts/emotional-support-as-causal-interference.md",
       "title": "Emotional Support as Causal Interference",
-      "hash": "3171103c1027",
-      "in_degree": 5,
-      "out_degree": 3,
+      "hash": "eca5d2fc3888",
+      "in_degree": 6,
+      "out_degree": 4,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "therapy-opens-the-feedback-loop",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "sympathy-is-a-placeholder-for-lack-of-clarity"
       ]
     },
@@ -1643,9 +1645,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "9f8c5e5ecc40",
-      "in_degree": 35,
-      "out_degree": 38,
+      "hash": "22fd47a0dd72",
+      "in_degree": 36,
+      "out_degree": 39,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1681,6 +1683,7 @@
         "the-illusion-of-free-intelligence",
         "the-reversal-from-defensible-claim-to-dogma",
         "the-rational-choice-postulate-is-the-original-sin",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "technology-is-residual-of-human-compounding",
         "the-average-is-residue-not-the-engine",
         "consciousness-never-appears-as-data-among-data",
@@ -2263,9 +2266,9 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "0f95bfab5c53",
-      "in_degree": 25,
-      "out_degree": 17,
+      "hash": "c8cd28af062b",
+      "in_degree": 26,
+      "out_degree": 18,
       "links_out": [
         "residual-control-recedes-to-the-edge",
         "empowerment-establishes-the-centralization-of-power",
@@ -2278,6 +2281,7 @@
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "hierarchy-from-individual-difference",
         "expertise-as-reference-not-replacement",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-source-of-shared-change",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "the-utility-men-of-progress",
@@ -2446,9 +2450,9 @@
       "slug": "price-as-utterance-understanding-as-trade",
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "Price as Utterance, Understanding as Trade",
-      "hash": "aacea97efc6b",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "10612c1d25e1",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "having-more-is-never-the-cause",
@@ -2459,6 +2463,7 @@
         "shared-humanity-is-never-shared",
         "shared-consciousness-is-intersecting-individualities",
         "the-scaffolding-we-forget",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-coordinators-category-error",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "the-rational-choice-postulate-is-the-original-sin"
@@ -2470,9 +2475,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "fc781a1b2b08",
-      "in_degree": 21,
-      "out_degree": 26,
+      "hash": "f1f29371dfc0",
+      "in_degree": 22,
+      "out_degree": 27,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -2484,6 +2489,7 @@
         "the-allocation-of-causal-power-in-validation",
         "fate-loves-irony-refined",
         "public-spending-does-not-create-capital",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "individual-choices-as-the-only-causal-levers",
         "residual-individualism",
         "self-rl-for-humans",
@@ -2508,9 +2514,9 @@
       "slug": "public-spending-does-not-create-capital",
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "Public Spending Does Not Create Capital",
-      "hash": "1fa061fe7f18",
-      "in_degree": 11,
-      "out_degree": 11,
+      "hash": "619b3b6081b0",
+      "in_degree": 12,
+      "out_degree": 12,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "having-more-is-never-the-cause",
@@ -2522,6 +2528,7 @@
         "fate-loves-irony-refined",
         "restriction-is-a-selective-tax",
         "the-myth-of-population-collapse-explained",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-rational-choice-postulate-is-the-original-sin"
       ]
     },
@@ -2633,13 +2640,14 @@
       "slug": "residual-individualism",
       "path": "content/posts/residual-individualism.md",
       "title": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies",
-      "hash": "50e1ffd9c453",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "1f783e736b78",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "when-abundance-looks-like-scarcity",
         "individual-choices-as-the-only-causal-levers",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "sovereignty-belief-and-regulatory-structures",
         "what-always-listens-cannot-originate",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -2658,9 +2666,9 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "Restriction Is a Selective Tax",
-      "hash": "d262db4353fc",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "7667c991ccb7",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "hierarchy-from-individual-difference",
@@ -2673,6 +2681,7 @@
         "the-risk-is-the-belief-in-oversight-itself",
         "sovereignty-belief-and-regulatory-structures",
         "public-spending-does-not-create-capital",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-risk-you-delegate-is-the-risk-you-create",
         "preference-clusters-and-the-language-of-judgment",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
@@ -2884,9 +2893,9 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "f1b482263bfc",
-      "in_degree": 18,
-      "out_degree": 24,
+      "hash": "f057fda301bd",
+      "in_degree": 19,
+      "out_degree": 25,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "individual-choices-as-the-only-causal-levers",
@@ -2901,6 +2910,7 @@
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
         "public-spending-does-not-create-capital",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "the-coordinators-category-error",
         "what-works-is-the-belief",
@@ -3520,11 +3530,12 @@
       "slug": "the-myth-of-population-collapse-explained",
       "path": "content/posts/the-myth-of-population-collapse-explained.md",
       "title": "The Myth of Population Collapse Explained",
-      "hash": "3cff2f80ddef",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "62e44c8f1c82",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "public-spending-does-not-create-capital",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "individual-choices-as-the-only-causal-levers",
         "production-consumption-and-the-minds-distinction",
         "fate-loves-irony-refined",
@@ -3898,6 +3909,30 @@
       ]
     },
     {
+      "id": "post:the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "kind": "post",
+      "slug": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "path": "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md",
+      "title": "The Reversal of Causality in Wealth-Transfer Policies and Price Floors",
+      "hash": "23daa8e20fb8",
+      "in_degree": 12,
+      "out_degree": 12,
+      "links_out": [
+        "when-the-effect-authors-the-frame",
+        "emotional-support-as-causal-interference",
+        "price-as-utterance-understanding-as-trade",
+        "individual-choices-as-the-only-causal-levers",
+        "ownership-and-self-worthiness",
+        "therapy-opens-the-feedback-loop",
+        "public-spending-does-not-create-capital",
+        "the-myth-of-population-collapse-explained",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "restriction-is-a-selective-tax",
+        "production-consumption-and-the-minds-distinction",
+        "residual-individualism"
+      ]
+    },
+    {
       "id": "post:the-risk-is-the-belief-in-oversight-itself",
       "kind": "post",
       "slug": "the-risk-is-the-belief-in-oversight-itself",
@@ -4186,9 +4221,9 @@
       "slug": "therapy-opens-the-feedback-loop",
       "path": "content/posts/therapy-opens-the-feedback-loop.md",
       "title": "Therapy Opens the Feedback Loop",
-      "hash": "e859c0e48fd3",
-      "in_degree": 6,
-      "out_degree": 8,
+      "hash": "5d963bc116df",
+      "in_degree": 7,
+      "out_degree": 9,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "emotional-support-as-causal-interference",
@@ -4197,7 +4232,8 @@
         "help-is-half-the-problem",
         "self-rl-for-humans",
         "when-need-stops-being-the-measure",
-        "expertise-as-reference-not-replacement"
+        "expertise-as-reference-not-replacement",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors"
       ]
     },
     {
@@ -4432,9 +4468,9 @@
       "slug": "when-the-effect-authors-the-frame",
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "When the Effect Authors the Frame",
-      "hash": "1bc9d6e77396",
-      "in_degree": 9,
-      "out_degree": 12,
+      "hash": "55b8d68735e2",
+      "in_degree": 10,
+      "out_degree": 13,
       "links_out": [
         "emotional-support-as-causal-interference",
         "when-need-stops-being-the-measure",
@@ -4445,6 +4481,7 @@
         "therapy-opens-the-feedback-loop",
         "how-belief-actually-changes",
         "symptom-and-cause-in-the-narratives-of-progress",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-reality-distortion-field-inverts-the-baseline",
         "the-imagining-of-ai-risk"
@@ -6377,6 +6414,12 @@
     },
     {
       "from": "emotional-support-as-causal-interference",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
       "label": "Sympathy is a placeholder for lack of clarity"
@@ -7754,6 +7797,12 @@
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
       "label": "The rational choice postulate is the original sin"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -9497,6 +9546,12 @@
     },
     {
       "from": "ownership-and-self-worthiness",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The source of shared change"
@@ -10043,6 +10098,12 @@
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The coordinator’s category error"
@@ -10118,6 +10179,12 @@
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public spending does not create capital"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
@@ -10274,6 +10341,12 @@
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
       "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
     },
     {
       "from": "public-spending-does-not-create-capital",
@@ -10559,6 +10632,12 @@
     },
     {
       "from": "residual-individualism",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
+    },
+    {
+      "from": "residual-individualism",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, belief, and the generation of regulatory structures"
@@ -10682,6 +10761,12 @@
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public spending does not create capital"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
     },
     {
       "from": "restriction-is-a-selective-tax",
@@ -11222,6 +11307,12 @@
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public spending does not create capital"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
@@ -12731,6 +12822,12 @@
     },
     {
       "from": "the-myth-of-population-collapse-explained",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -13960,6 +14057,78 @@
       "label": "Ownership and self-worthiness"
     },
     {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the effect authors the frame"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional support as causal interference"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy opens the feedback loop"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The myth of population collapse explained"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction is a selective tax"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual individualism"
+    },
+    {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
@@ -14890,6 +15059,12 @@
       "label": "Expertise as reference, not replacement"
     },
     {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
+    },
+    {
       "from": "token-efficiency-emulation-and-the-unclosable-gap",
       "to": "efficiency-without-differentiation",
       "rel": "points_to",
@@ -15650,6 +15825,12 @@
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The reversal of causality in wealth-transfer policies and price floors"
     },
     {
       "from": "when-the-effect-authors-the-frame",
