@@ -3,18 +3,18 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-08-10T08:06:07.321Z",
+    "generated_at": "2026-08-11T07:26:18.011Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "7d6b33e1b363",
+      "content/posts/README.md": "f49ff10b103f",
       "docs/essay-format.md": "620b8e0bb080",
-      "docs/export-for-substack.md": "1db204d13c8d",
+      "docs/export-for-substack.md": "9a2df9f4dfab",
       "docs/export-for-x-article.md": "55ab96853de2",
-      "export/README.md": "28d13c811446",
-      "assets/covers/STYLES.md": "1db784c8c5b6",
-      "README.md": "4ba49685953b",
-      "docs/local-memory.md": "36a09f32f3e8",
+      "export/README.md": "c0a8866a454d",
+      "assets/covers/STYLES.md": "ad6d4caaea14",
+      "README.md": "49f14604587d",
+      "docs/local-memory.md": "df124867a651",
       "build.mjs": "a6247a7ef0bb",
       "scripts/export-absolute-md.mjs": "3bbb08fdfc89",
       "scripts/publish-x-article.mjs": "13625fa17198",
@@ -22,14 +22,14 @@
       "MEMORY.md": "9b2cea4e08ca"
     },
     "stats": {
-      "posts": 189,
-      "covers": 119,
+      "posts": 191,
+      "covers": 121,
       "trackers_listed": 12,
       "trackers_present": 12
     },
     "counts": {
       "nodes": 28,
-      "edges": 92,
+      "edges": 94,
       "missing": 0,
       "by_kind": {
         "project": 1,
@@ -71,7 +71,7 @@
     {
       "id": "tracker:export",
       "name": "export",
-      "count": 6
+      "count": 7
     },
     {
       "id": "tracker:covers",
@@ -86,7 +86,7 @@
     {
       "id": "tracker:export-stub",
       "name": "export-stub",
-      "count": 2
+      "count": 3
     }
   ],
   "nodes": [
@@ -219,7 +219,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "1db784c8c5b6",
+      "hash": "ad6d4caaea14",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -243,14 +243,16 @@
       "path": "docs/export-for-substack.md",
       "owns": "substack-export",
       "exists": true,
-      "hash": "1db204d13c8d",
+      "hash": "9a2df9f4dfab",
       "summary": "One projection: site post → markdown with **absolute** links.",
       "headings": [
         "Export for Substack and X Article",
         "Principle",
+        "Generate vs paste (do not conflate)",
         "Command",
         "→ export/<slug>.md",
-        "Paste (operator)",
+        "Ship sequence (agent)",
+        "Paste (operator only)",
         "Site base URL"
       ],
       "layer": "tracker"
@@ -274,7 +276,7 @@
       "path": "export/README.md",
       "owns": "export-pointer",
       "exists": true,
-      "hash": "28d13c811446",
+      "hash": "c0a8866a454d",
       "summary": "**One projection:** absolute-link markdown from `content/posts/` for Substack and X Article paste.",
       "headings": [
         "export/ (generated, not source)",
@@ -326,7 +328,7 @@
       "path": "docs/local-memory.md",
       "owns": "manifest",
       "exists": true,
-      "hash": "36a09f32f3e8",
+      "hash": "df124867a651",
       "summary": "Manifest of operational `.md` files for this project.",
       "headings": [
         "Local memory — living trackers and sleep audit",
@@ -358,7 +360,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "7d6b33e1b363",
+      "hash": "f49ff10b103f",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",
@@ -383,7 +385,7 @@
       "path": "README.md",
       "owns": "index",
       "exists": true,
-      "hash": "4ba49685953b",
+      "hash": "49f14604587d",
       "summary": "## Authoring contract Guides (read these instead of re-deriving the workflow each time): | Topic | Doc | |-------|-----| | Posts: structure, voice, cross-links, ship checklist | [`…",
       "headings": [
         "Not a ToE",
@@ -595,6 +597,12 @@
       "label": "`docs/local-memory.md`"
     },
     {
+      "from": "tracker:export",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
+    },
+    {
       "from": "project:not-a-toe",
       "to": "tracker:export-x",
       "rel": "has_tracker"
@@ -637,6 +645,12 @@
       "to": "tracker:export",
       "rel": "points_to",
       "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "tracker:export-stub",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
     },
     {
       "from": "tracker:export-stub",
