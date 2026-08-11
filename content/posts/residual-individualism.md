@@ -1,4 +1,4 @@
-# Residual Individualism
+# Residual Individualism: The Only Operative Variable in the Affairs of Human Societies
 
 *Only the choosing act under present constraints is independent; collective patterns, protective systems, and opposition remain residue of many such acts.*
 
