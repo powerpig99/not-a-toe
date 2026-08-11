@@ -278,6 +278,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `technology-is-residual-of-human-compounding` | Dual-epoch residual continuum still |
 | `the-average-is-residue-not-the-engine` | Industrial gear dissolving into residual waves |
 | `residual-control-recedes-to-the-edge` | Graphite ridge / luminous edge abstract |
+| `residual-individualism` | Mixed-media profile / geometric residue field |
 | `therapy-opens-the-feedback-loop` | Sandblasted glass etching |
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
