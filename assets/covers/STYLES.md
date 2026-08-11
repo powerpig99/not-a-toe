@@ -169,8 +169,6 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Dual-terrain photoreal footstep** | Split cracked basalt / luminous water, bare foot mid-step on fractured edge, cool–warm atmospheric light, painterly photoreal allegory | `hardness-is-not-inherent-in-the-action` |
 | **Cinematic chip–network dual** | Dark void; isometric black microchip with golden fiber fan left of a jagged crack boundary; purple–blue particle wave mesh and node graph right; digital-cinematic light | `hardware-locality-is-not-the-information-boundary` |
 | **Painterly chamber / luminous infinity dual** | Oil-like strokes; dark stone arch with chalk triangle-circle mark and stepped plinth left; golden ∞ over open valley path with geometric diagram haze right; cream–umber–gold | `potential-infinity-and-the-temporary-closures-of-mathematical-thought` |
-| **Flying-white calligraphy / residual stroke** | Mulberry paper field, dry-brush black residual stroke as sole independent path, pale seal-script lattice fading as passive residue, cream–ash, full-bleed calligraphic ground | `residual-individualism` |
-
 ## Inventory (by slug)
 
 | Slug | Style family |
@@ -280,7 +278,6 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `technology-is-residual-of-human-compounding` | Dual-epoch residual continuum still |
 | `the-average-is-residue-not-the-engine` | Industrial gear dissolving into residual waves |
 | `residual-control-recedes-to-the-edge` | Graphite ridge / luminous edge abstract |
-| `residual-individualism` | Flying-white calligraphy / residual stroke |
 | `therapy-opens-the-feedback-loop` | Sandblasted glass etching |
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
