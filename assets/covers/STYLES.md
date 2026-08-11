@@ -168,7 +168,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic dual-landscape monadnock** | Split cool fog / warm cosmic sky; standing rock with luminous golden tree-of-light and starfield cut; cool node-graph linking into the monadnock; roots as residual light into dark terrain | `causality-and-the-irreducible-prior` |
 | **Dual-terrain photoreal footstep** | Split cracked basalt / luminous water, bare foot mid-step on fractured edge, cool–warm atmospheric light, painterly photoreal allegory | `hardness-is-not-inherent-in-the-action` |
 | **Cinematic chip–network dual** | Dark void; isometric black microchip with golden fiber fan left of a jagged crack boundary; purple–blue particle wave mesh and node graph right; digital-cinematic light | `hardware-locality-is-not-the-information-boundary` |
-| **Harmonic pendulum light-trace / long-exposure photogram** | Full-bleed charcoal black; nested luminous incomplete circular arcs densifying then dissolving into open dark field; silver-cyan–amber grain; pure abstract continuum, no props | `potential-infinity-and-the-temporary-closures-of-mathematical-thought` |
+| **Painterly chamber / luminous infinity dual** | Oil-like strokes; dark stone arch with chalk triangle-circle mark and stepped plinth left; golden ∞ over open valley path with geometric diagram haze right; cream–umber–gold | `potential-infinity-and-the-temporary-closures-of-mathematical-thought` |
 
 ## Inventory (by slug)
 
@@ -229,7 +229,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `ownership-and-self-worthiness` | Dark chalk / light trails |
 | `ownership-cost-freezes-lagged-averages-as-vehicle-property` | Schlieren optical still |
 | `performative-hindsight-that-pretends-to-be-foresight` | Solarized surreal photograph |
-| `potential-infinity-and-the-temporary-closures-of-mathematical-thought` | Harmonic pendulum light-trace / long-exposure photogram |
+| `potential-infinity-and-the-temporary-closures-of-mathematical-thought` | Painterly chamber / luminous infinity dual |
 | `price-as-utterance-understanding-as-trade` | Wire-service teletype / ticker-tape still |
 | `production-consumption-and-the-minds-distinction` | Photoreal tableau |
 | `public-spending-does-not-create-capital` | Exchequer counting-board still |
