@@ -170,7 +170,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic chip–network dual** | Dark void; isometric black microchip with golden fiber fan left of a jagged crack boundary; purple–blue particle wave mesh and node graph right; digital-cinematic light | `hardware-locality-is-not-the-information-boundary` |
 | **Painterly chamber / luminous infinity dual** | Oil-like strokes; dark stone arch with chalk triangle-circle mark and stepped plinth left; golden ∞ over open valley path with geometric diagram haze right; cream–umber–gold | `potential-infinity-and-the-temporary-closures-of-mathematical-thought` |
 | **Mixed-media profile / geometric residue field** | Cream paper ground; closed-eye face in profile dissolving into navy–ochre geometric lattice, ink spatter, and flowing residual lines; mixed-media collage | `residual-individualism` |
-| **Stele-rubbing / 拓片 maxim field** | Cream xuan full-bleed, black ink transfer of ordered blank maxim plaques and cartouches (no legible text), unfinished raw stone cut at the margin where generative chisel work continues | `cheng-gong-xue` |
+| **Cinematic overlook / golden growth-path** | Photoreal mountain overlook at dawn, figure on cliff with books and globe, stone path into mist, luminous golden ascending arrow and particle trails toward sunrise | `cheng-gong-xue` |
 
 ## Inventory (by slug)
 
@@ -185,7 +185,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `better-than-free-after-the-checklist-closes` | Paper craft / tabletop still |
 | `the-paradoxical-nature-of-bystander-insights` | Victorian stereograph dual-panel |
 | `causality-all-the-way` | Sand animation / grain board |
-| `cheng-gong-xue` | Stele-rubbing / 拓片 maxim field |
+| `cheng-gong-xue` | Cinematic overlook / golden growth-path |
 | `causality-and-the-irreducible-prior` | Cinematic dual-landscape monadnock |
 | `causality-stays-at-the-edge-that-steers` | Bauhaus primary-color geometry |
 | `climbing-does-not-leave-the-ground` | Origami / continuous-sheet folded stair still |
