@@ -171,7 +171,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Painterly chamber / luminous infinity dual** | Oil-like strokes; dark stone arch with chalk triangle-circle mark and stepped plinth left; golden ∞ over open valley path with geometric diagram haze right; cream–umber–gold | `potential-infinity-and-the-temporary-closures-of-mathematical-thought` |
 | **Mixed-media profile / geometric residue field** | Cream paper ground; closed-eye face in profile dissolving into navy–ochre geometric lattice, ink spatter, and flowing residual lines; mixed-media collage | `residual-individualism` |
 | **Cinematic overlook / golden growth-path** | Photoreal mountain overlook at dawn, figure on cliff with books and globe, stone path into mist, luminous golden ascending arrow and particle trails toward sunrise | `cheng-gong-xue` |
-| **Servo reverse-loop schematic plate** | Cream drafting paper full-bleed, empty control-loop boxes, black forward arrows, bold orange reverse arrow forcing effect as input, bottom scale bar, coffee-ring stain, no text | `the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors` |
+| **Photoreal balance-scale allegory** | Cracked earth, stone fulcrum seesaw; money-bag low vs grain sacks high with red up-arrows; dashed transfer trails; cool city / warm arid dual light | `the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors` |
 
 ## Inventory (by slug)
 
@@ -270,7 +270,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-reality-distortion-field-inverts-the-baseline` | Batik / wax-resist dye on cotton |
 | `the-reality-distortion-field-names-the-closed-map` | Drypoint cartographic plate |
 | `the-reversal-from-defensible-claim-to-dogma` | Laboratory glassware still / sealed continuous curve |
-| `the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors` | Servo reverse-loop schematic plate |
+| `the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors` | Photoreal balance-scale allegory |
 | `the-risk-is-the-belief-in-oversight-itself` | Security-print guilloche engraving |
 | `the-ramble-within-the-ramble` | Anaglyph red-cyan stereo graphic |
 | `the-real-scarcity-is-not-memory-but-continuous-re-tracing` | Charcoal wipe / continuous redraw on newsprint |
