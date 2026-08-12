@@ -173,7 +173,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic overlook / golden growth-path** | Photoreal mountain overlook at dawn, figure on cliff with books and globe, stone path into mist, luminous golden ascending arrow and particle trails toward sunrise | `cheng-gong-xue` |
 | **Photoreal balance-scale allegory** | Cracked earth, stone fulcrum seesaw; money-bag low vs grain sacks high with red up-arrows; dashed transfer trails; cool city / warm arid dual light | `the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors` |
 | **Dual-field spiral feedback allegory** | Split red storm / deep-teal circuit fields; concentric arrow rings around a silhouetted figure on a ridge in a luminous center aperture; constellation and circuit-line overlays, cracked-paint texture | `moral-language-dilutes-the-feedback-that-scales-freedom` |
-| **Aerial karesansui / first-furrow gravel** | Full-bleed overhead raked gravel, one decisive first furrow, later rake lines remaining inside the opened field, silver-gray, overcast documentary aerial | `the-initial-distinction` |
+| **Split-nave / root-mass cinematic allegory** | Full-bleed split field: cracked classical hall with geometric star and labyrinth left; dark root-mass with embedded faces and red veins right; central figure bisected by a thin red cut | `the-initial-distinction` |
 
 ## Inventory (by slug)
 
@@ -220,7 +220,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `intelligence-folding-back-on-itself` | Damascus / pattern-welded steel macro |
 | `liberation-rhetoric-begins-by-defining-captivity` | Notarial embosser / dry-seal still |
 | `the-illusion-of-free-intelligence` | Lost-wax investment casting still |
-| `the-initial-distinction` | Aerial karesansui / first-furrow gravel |
+| `the-initial-distinction` | Split-nave / root-mass cinematic allegory |
 | `the-imagining-of-ai-risk` | Pepper’s ghost theatrical still |
 | `looping-and-graphing` | Technical blueprint / diazo |
 | `lossless-knowledge-of-an-open-field-is-incoherent` | Cloisonné / enamel medallion |
