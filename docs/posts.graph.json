@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-11T20:57:27.391Z",
+    "generated_at": "2026-08-12T05:22:31.375Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -53,11 +53,11 @@
       "content/posts/expertise-as-reference-not-replacement.md": "85822b748475",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
-      "content/posts/externalized-virtue-becomes-its-opposite.md": "b6ddbc72cd1a",
+      "content/posts/externalized-virtue-becomes-its-opposite.md": "eec7d7c6b7d4",
       "content/posts/fate-loves-irony-refined.md": "df6e1ca34057",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
-      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "24d5eed275a0",
+      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "2d54ac13cf93",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "f3616fb19b43",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
@@ -83,6 +83,7 @@
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "cbe3516728e9",
+      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "dff06f4010be",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
@@ -95,25 +96,25 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "55135870ffc2",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "b620181afa2c",
+      "content/posts/openness-is-consistency.md": "07450484e229",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "3a16957cef7b",
+      "content/posts/ownership-and-self-worthiness.md": "cab578cec418",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "916dc4d56804",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "9f9598e7f790",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "008f74b4f474",
-      "content/posts/preference-clusters-and-the-language-of-judgment.md": "d350e546c886",
+      "content/posts/preference-clusters-and-the-language-of-judgment.md": "1cb0d8ca3e76",
       "content/posts/price-as-utterance-understanding-as-trade.md": "3044ff41ff78",
       "content/posts/production-consumption-and-the-minds-distinction.md": "59bd2266e262",
       "content/posts/public-spending-does-not-create-capital.md": "aa2b5aaa20fe",
       "content/posts/qian-yin-hou-guo.md": "ad668454294b",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
-      "content/posts/recursive-contradiction-of-entrusted-morality.md": "fc1c9fc7b2a1",
+      "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
-      "content/posts/residual-individualism.md": "b7cfc87a7acf",
+      "content/posts/residual-individualism.md": "bcfd70791fec",
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -186,7 +187,7 @@
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
-      "content/posts/therapy-opens-the-feedback-loop.md": "aeba856e5e7e",
+      "content/posts/therapy-opens-the-feedback-loop.md": "5884e2734656",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "7123d871117c",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
@@ -204,13 +205,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 194,
-      "edges": 1911,
-      "unique_directed": 1888,
+      "posts": 195,
+      "edges": 1927,
+      "unique_directed": 1904,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 139
+      "posts_with_outbound": 140
     }
   },
   "hubs_in": [
@@ -220,7 +221,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 47
+      "in_degree": 48
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -247,11 +248,11 @@
       "in_degree": 27
     },
     {
-      "slug": "hierarchy-from-individual-difference",
-      "in_degree": 26
+      "slug": "ownership-and-self-worthiness",
+      "in_degree": 27
     },
     {
-      "slug": "ownership-and-self-worthiness",
+      "slug": "hierarchy-from-individual-difference",
       "in_degree": 26
     },
     {
@@ -268,14 +269,14 @@
     },
     {
       "slug": "externalized-virtue-becomes-its-opposite",
-      "in_degree": 23
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 23
+      "in_degree": 24
     },
     {
       "slug": "preference-clusters-and-the-language-of-judgment",
+      "in_degree": 24
+    },
+    {
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 23
     },
     {
@@ -302,7 +303,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "out_degree": 34
+      "out_degree": 35
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -345,16 +346,16 @@
       "out_degree": 25
     },
     {
-      "slug": "what-works-is-the-belief",
+      "slug": "externalized-virtue-becomes-its-opposite",
       "out_degree": 24
     },
     {
-      "slug": "externalized-virtue-becomes-its-opposite",
-      "out_degree": 23
+      "slug": "preference-clusters-and-the-language-of-judgment",
+      "out_degree": 24
     },
     {
-      "slug": "preference-clusters-and-the-language-of-judgment",
-      "out_degree": 23
+      "slug": "what-works-is-the-belief",
+      "out_degree": 24
     },
     {
       "slug": "reality-is-the-minds-ongoing-realization",
@@ -1336,9 +1337,9 @@
       "slug": "externalized-virtue-becomes-its-opposite",
       "path": "content/posts/externalized-virtue-becomes-its-opposite.md",
       "title": "Externalized Virtue Becomes Its Opposite",
-      "hash": "b6ddbc72cd1a",
-      "in_degree": 23,
-      "out_degree": 23,
+      "hash": "eec7d7c6b7d4",
+      "in_degree": 24,
+      "out_degree": 24,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -1359,6 +1360,7 @@
         "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "residual-individualism",
         "ownership-and-self-worthiness",
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
         "clarity-isnt-a-state-you-arrive-at",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "the-source-of-all-harm",
@@ -1411,15 +1413,16 @@
       "slug": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "path": "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md",
       "title": "Good and Evil Are the Two Sides of the Coin and the Cut",
-      "hash": "24d5eed275a0",
-      "in_degree": 9,
-      "out_degree": 9,
+      "hash": "2d54ac13cf93",
+      "in_degree": 10,
+      "out_degree": 10,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "pessimism-is-the-shadow-of-optimism",
         "externalized-virtue-becomes-its-opposite",
         "the-question-that-installs-the-war",
         "preference-clusters-and-the-language-of-judgment",
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
         "mei-you-pu-du-zhi-you-zi-du",
         "openness-is-consistency",
         "the-belief-in-utopia-is-the-path-to-dystopia",
@@ -1953,6 +1956,26 @@
       ]
     },
     {
+      "id": "post:moral-language-dilutes-the-feedback-that-scales-freedom",
+      "kind": "post",
+      "slug": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "path": "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md",
+      "title": "Moral Language Dilutes the Feedback That Scales Freedom",
+      "hash": "dff06f4010be",
+      "in_degree": 8,
+      "out_degree": 8,
+      "links_out": [
+        "ownership-and-self-worthiness",
+        "preference-clusters-and-the-language-of-judgment",
+        "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+        "therapy-opens-the-feedback-loop",
+        "externalized-virtue-becomes-its-opposite",
+        "recursive-contradiction-of-entrusted-morality",
+        "openness-is-consistency",
+        "residual-individualism"
+      ]
+    },
+    {
       "id": "post:munger-dumb-competition-refined",
       "kind": "post",
       "slug": "munger-dumb-competition-refined",
@@ -2209,13 +2232,14 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "b620181afa2c",
-      "in_degree": 47,
-      "out_degree": 34,
+      "hash": "07450484e229",
+      "in_degree": 48,
+      "out_degree": 35,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
         "a-new-deeper-look-at-antifragility",
         "the-brain-does-not-backprop",
         "what-cannot-be-kept",
@@ -2266,14 +2290,15 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "3a16957cef7b",
-      "in_degree": 26,
-      "out_degree": 18,
+      "hash": "cab578cec418",
+      "in_degree": 27,
+      "out_degree": 19,
       "links_out": [
         "residual-control-recedes-to-the-edge",
         "empowerment-establishes-the-centralization-of-power",
         "liberation-rhetoric-begins-by-defining-captivity",
         "externalized-virtue-becomes-its-opposite",
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
         "the-source-of-all-harm",
         "individual-choices-as-the-only-causal-levers",
         "public-spending-does-not-create-capital",
@@ -2415,9 +2440,9 @@
       "slug": "preference-clusters-and-the-language-of-judgment",
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
       "title": "Preference Clusters and the Language of Judgment",
-      "hash": "d350e546c886",
-      "in_degree": 23,
-      "out_degree": 23,
+      "hash": "1cb0d8ca3e76",
+      "in_degree": 24,
+      "out_degree": 24,
       "links_out": [
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
@@ -2434,6 +2459,7 @@
         "the-reversal-from-defensible-claim-to-dogma",
         "mei-you-pu-du-zhi-you-zi-du",
         "externalized-virtue-becomes-its-opposite",
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
         "individual-choices-as-the-only-causal-levers",
         "the-question-that-installs-the-war",
         "open-vision-in-a-closed-arena",
@@ -2606,11 +2632,12 @@
       "slug": "recursive-contradiction-of-entrusted-morality",
       "path": "content/posts/recursive-contradiction-of-entrusted-morality.md",
       "title": "The Recursive Contradiction of Entrusted Morality",
-      "hash": "fc1c9fc7b2a1",
-      "in_degree": 5,
-      "out_degree": 2,
+      "hash": "644799752a61",
+      "in_degree": 6,
+      "out_degree": 3,
       "links_out": [
         "externalized-virtue-becomes-its-opposite",
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
         "the-source-of-all-harm"
       ]
     },
@@ -2640,9 +2667,9 @@
       "slug": "residual-individualism",
       "path": "content/posts/residual-individualism.md",
       "title": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies",
-      "hash": "b7cfc87a7acf",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "bcfd70791fec",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "when-abundance-looks-like-scarcity",
@@ -2655,6 +2682,7 @@
         "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "liberation-rhetoric-begins-by-defining-captivity",
         "externalized-virtue-becomes-its-opposite",
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
         "cheng-gong-xue",
         "mei-you-pu-du-zhi-you-zi-du",
         "how-belief-actually-changes"
@@ -4221,14 +4249,15 @@
       "slug": "therapy-opens-the-feedback-loop",
       "path": "content/posts/therapy-opens-the-feedback-loop.md",
       "title": "Therapy Opens the Feedback Loop",
-      "hash": "aeba856e5e7e",
-      "in_degree": 7,
-      "out_degree": 9,
+      "hash": "5884e2734656",
+      "in_degree": 8,
+      "out_degree": 10,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "emotional-support-as-causal-interference",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "the-allocation-of-causal-power-in-validation",
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
         "help-is-half-the-problem",
         "self-rl-for-humans",
         "when-need-stops-being-the-measure",
@@ -7038,6 +7067,12 @@
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral language dilutes the feedback that scales freedom"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
@@ -7119,6 +7154,12 @@
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
       "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral language dilutes the feedback that scales freedom"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -8567,6 +8608,54 @@
       "label": "Consciousness never appears as data among data"
     },
     {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and evil are the two sides of the coin and the cut"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy opens the feedback loop"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "recursive-contradiction-of-entrusted-morality",
+      "rel": "points_to",
+      "label": "The recursive contradiction of entrusted morality"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual individualism"
+    },
+    {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
@@ -9294,6 +9383,12 @@
     },
     {
       "from": "openness-is-consistency",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral language dilutes the feedback that scales freedom"
+    },
+    {
+      "from": "openness-is-consistency",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
       "label": "Antifragility as prosthesis, not driver"
@@ -9501,6 +9596,12 @@
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
       "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral language dilutes the feedback that scales freedom"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -9993,6 +10094,12 @@
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
       "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral language dilutes the feedback that scales freedom"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
@@ -10560,6 +10667,12 @@
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral language dilutes the feedback that scales freedom"
+    },
+    {
+      "from": "recursive-contradiction-of-entrusted-morality",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
       "label": "The source of all harm"
@@ -10677,6 +10790,12 @@
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
       "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral language dilutes the feedback that scales freedom"
     },
     {
       "from": "residual-individualism",
@@ -15033,6 +15152,12 @@
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
       "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral language dilutes the feedback that scales freedom"
     },
     {
       "from": "therapy-opens-the-feedback-loop",

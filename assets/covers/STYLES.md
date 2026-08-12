@@ -172,6 +172,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Mixed-media profile / geometric residue field** | Cream paper ground; closed-eye face in profile dissolving into navy–ochre geometric lattice, ink spatter, and flowing residual lines; mixed-media collage | `residual-individualism` |
 | **Cinematic overlook / golden growth-path** | Photoreal mountain overlook at dawn, figure on cliff with books and globe, stone path into mist, luminous golden ascending arrow and particle trails toward sunrise | `cheng-gong-xue` |
 | **Photoreal balance-scale allegory** | Cracked earth, stone fulcrum seesaw; money-bag low vs grain sacks high with red up-arrows; dashed transfer trails; cool city / warm arid dual light | `the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors` |
+| **CRT phosphor oscilloscope / full-bleed screen** | Near-black phosphor glass, luminous green–amber feedback waveform compounding then damped by successive grid overlays, scanline grain, soft phosphor bloom, no desk props | `moral-language-dilutes-the-feedback-that-scales-freedom` |
 
 ## Inventory (by slug)
 
@@ -222,6 +223,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `looping-and-graphing` | Technical blueprint / diazo |
 | `lossless-knowledge-of-an-open-field-is-incoherent` | Cloisonné / enamel medallion |
 | `mei-you-pu-du-zhi-you-zi-du` | Dark chalk / light trails |
+| `moral-language-dilutes-the-feedback-that-scales-freedom` | CRT phosphor oscilloscope / full-bleed screen |
 | `mistaking-the-expression-for-the-intelligence` | Graphite pencil study on toned paper |
 | `no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind` | Möbius paper sculpture still |
 | `no-system-can-be-kept-closed` | Risograph flat print |
