@@ -12,7 +12,7 @@ What a center treats as obvious, necessary, or beyond question is the region of 
 
 ## The circle that argument cannot exit
 
-External argument and careful self-examination leave the walls where they are when they stay under the same premises. Both are generated and scored by the instrument that makes the current conclusions seem inevitable. Rigor inside the hold improves arrangement. It does not supply a stand outside the hold from which the hold could be forced open.
+External argument and careful self-examination leave the walls where they are when they stay under the same premises. Both are generated and scored by the instrument that makes the current conclusions seem inevitable. Rigor inside the hold improves arrangement. It does not supply a stand outside the hold from which the hold could be forced open. [The initial distinction](../the-initial-distinction/) is that circle when critical elimination is taken for an escape from the declaration that first opened the field.
 
 [Why explanation fails](../why-explanation-fails/) is that geometry under conversation costume: a larger context cannot be installed from inside a smaller one by adding surface area. Each expansion is read as further target when the receiver’s premises classify unexpected input as error. Debate mode is reasoning that treats confirmation of the present map as the job of the exchange. Tracing mode loosens the map. The difference is not intelligence. It is whether the premises of the next act are still exempt from re-tracing.
 
