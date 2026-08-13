@@ -2,11 +2,25 @@
 
 *Residual control migrates through individual choices; the politician marks that migration, not its origin.*
 
-When a politician speaks of “my wealth tax” and treats private assets as a standing political resource, the language already registers that residual control has been reallocated. The reallocation is not authored by the speaker; it arises through the decisions of many minds, each a free allocation of agency out of the Mind that is still deciding and still bearing the full consequences of its own prior decisions under unique constraints. Perceived undesirability, and the perceived sharing of that perception, arrive as license to cast blame onto others or onto things held outside one’s own choices — blame relocates the look, not the load. What stares back is the shadow of that externalization, materialized; targeting the politician continues the cycle by treating the pattern as an object to be corrected from a vantage outside the decisions that constitute it.
+When Bernie Sanders announces “My 5% wealth tax on less than 1,000 billionaires,” the possessive already registers that residual control has been reallocated. The reallocation is not authored by the speaker; it arises through the decisions of many minds, each a free allocation of agency out of the Mind that is still deciding and still bearing the full consequences of its own prior decisions under unique constraints. Perceived undesirability, and the perceived sharing of that perception, arrive as license to cast blame onto others or onto things held outside one’s own choices — blame relocates the look, not the load. What stares back is the shadow of that externalization, materialized; targeting the politician continues the cycle by treating the pattern as an object to be corrected from a vantage outside the decisions that constitute it.
 
 ## Ownership is residual control
 
-Ownership is residual control: the capacity to direct resources toward ends one has chosen for oneself. When a politician claims a fraction of other people’s wealth as “mine” to allocate, the possessive registers the reallocation as already complete. Private assets appear as a standing political resource only after residual control has already moved. The speech does not perform the transfer. It names a field in which many centers have already treated the directing of those resources as no longer belonging at the loci that formed them.
+Ownership is residual control: the capacity to direct resources toward ends one has chosen for oneself.
+
+Sanders writes:
+
+> My 5% wealth tax on less than 1,000 billionaires would raise over $4.4 trillion to:
+>
+> Provide $12,000 to a working family of 4  
+> Enact universal childcare  
+> Expand Medicare for dental, vision & hearing  
+> End homelessness  
+> Require a $60,000 minimum salary for teachers
+>
+> Let's get it done.
+
+The real question is who decides he can treat five percent of other people’s money as his — in his own words, “my” tax — as if those people were ATM machines, to buy his own political support. The possessive registers the reallocation as already complete. Private assets appear as a standing political resource only after residual control has already moved. The speech does not perform the transfer. It names a field in which many centers have already treated the directing of those resources as no longer belonging at the loci that formed them.
 
 [Ownership and self-worthiness](../ownership-and-self-worthiness/) is the functional face of the same bound: the model compounds only when consequences re-enter as own. Residual control is that closed loop under resource costume. Thinning it thins the update; the language of “my tax” is the public register of the thinning.
 
