@@ -174,6 +174,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Photoreal balance-scale allegory** | Cracked earth, stone fulcrum seesaw; money-bag low vs grain sacks high with red up-arrows; dashed transfer trails; cool city / warm arid dual light | `the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors` |
 | **Dual-field spiral feedback allegory** | Split red storm / deep-teal circuit fields; concentric arrow rings around a silhouetted figure on a ridge in a luminous center aperture; constellation and circuit-line overlays, cracked-paint texture | `moral-language-dilutes-the-feedback-that-scales-freedom` |
 | **Split-nave / root-mass cinematic allegory** | Full-bleed split field: cracked classical hall with geometric star and labyrinth left; dark root-mass with embedded faces and red veins right; central figure bisected by a thin red cut | `the-initial-distinction` |
+| **Wayang kulit / shadow-puppet screen** | Full-bleed amber backlit cotton screen, oil-lamp glow; large speaker-at-podium silhouette composed by many small hand-shadows and puppet figures along the lower edge; no table, no text | `politicians-appear-as-visible-symptoms-of-responsibility-diffusion` |
 
 ## Inventory (by slug)
 
@@ -233,6 +234,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `open-vision-in-a-closed-arena` | Limestone bas-relief / architectural frieze |
 | `openness-is-consistency` | Painterly glass / gold path |
 | `pessimism-is-the-shadow-of-optimism` | Open assay balance still |
+| `politicians-appear-as-visible-symptoms-of-responsibility-diffusion` | Wayang kulit / shadow-puppet screen |
 | `ontos-is-a-method-agent` | Urushi lacquer / maki-e still |
 | `ownership-and-self-worthiness` | Dark chalk / light trails |
 | `ownership-cost-freezes-lagged-averages-as-vehicle-property` | Schlieren optical still |
