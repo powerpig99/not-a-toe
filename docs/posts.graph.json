@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-13T05:40:07.866Z",
+    "generated_at": "2026-08-13T06:14:20.277Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -44,7 +44,7 @@
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "e80e0293548e",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
-      "content/posts/empowerment-establishes-the-centralization-of-power.md": "f8720272adfb",
+      "content/posts/empowerment-establishes-the-centralization-of-power.md": "6647b371fa2a",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
@@ -79,7 +79,7 @@
       "content/posts/looping-and-graphing.md": "b2acdecafde8",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "01056fcbfd40",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "ece13e7610dd",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "f2ce9917ce32",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "cbe3516728e9",
@@ -104,7 +104,7 @@
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "9f9598e7f790",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "cde2a0eacec5",
+      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "edb12f5d39bd",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "008f74b4f474",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "1cb0d8ca3e76",
       "content/posts/price-as-utterance-understanding-as-trade.md": "3044ff41ff78",
@@ -208,8 +208,8 @@
     },
     "stats": {
       "posts": 197,
-      "edges": 1949,
-      "unique_directed": 1926,
+      "edges": 1951,
+      "unique_directed": 1928,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
@@ -242,16 +242,16 @@
       "in_degree": 29
     },
     {
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
+      "in_degree": 28
+    },
+    {
       "slug": "ownership-and-self-worthiness",
       "in_degree": 28
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 28
-    },
-    {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 27
     },
     {
       "slug": "hierarchy-from-individual-difference",
@@ -1153,7 +1153,7 @@
       "slug": "empowerment-establishes-the-centralization-of-power",
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
       "title": "Empowerment Establishes the Centralization of Power",
-      "hash": "f8720272adfb",
+      "hash": "6647b371fa2a",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -1877,11 +1877,12 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "ece13e7610dd",
-      "in_degree": 27,
-      "out_degree": 16,
+      "hash": "f2ce9917ce32",
+      "in_degree": 28,
+      "out_degree": 17,
       "links_out": [
         "empowerment-establishes-the-centralization-of-power",
+        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "liberation-rhetoric-begins-by-defining-captivity",
         "the-coordinators-category-error",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -2430,11 +2431,12 @@
       "slug": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "Politicians Appear as Visible Symptoms of Responsibility Diffusion",
-      "hash": "cde2a0eacec5",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "edb12f5d39bd",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "ownership-and-self-worthiness",
+        "mei-you-pu-du-zhi-you-zi-du",
         "individual-choices-as-the-only-causal-levers",
         "public-spending-does-not-create-capital",
         "residual-individualism",
@@ -8429,6 +8431,12 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
       "label": "Liberation rhetoric begins by defining captivity"
@@ -10058,6 +10066,12 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
     },
     {
       "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
