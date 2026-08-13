@@ -2,7 +2,7 @@
 
 *Residual control migrates through individual choices; the politician marks that migration, not its origin.*
 
-When a politician speaks of “my wealth tax” and treats private assets as a standing political resource, the language already registers that residual control has been reallocated. The reallocation is not authored by the speaker; it arises through the decisions of many minds, each a free allocation of agency out of the Mind that is still deciding and still bearing the full consequences of its own prior decisions under unique constraints. Once agency is located outside those decisions, politicians become the expected target of blame, replacement, and new formal constraints — each of which continues the same diffusion by treating the pattern as an object to be corrected from a vantage outside the decisions that constitute it.
+When a politician speaks of “my wealth tax” and treats private assets as a standing political resource, the language already registers that residual control has been reallocated. The reallocation is not authored by the speaker; it arises through the decisions of many minds, each a free allocation of agency out of the Mind that is still deciding and still bearing the full consequences of its own prior decisions under unique constraints. Blame relocates the look, not the load: the consequence is already full, and shifting authorship onto others only dampens the signal that would train the next choice. Once agency is located outside those decisions, politicians become the expected target of blame, replacement, and new formal constraints — each of which continues the same diffusion by treating the pattern as an object to be corrected from a vantage outside the decisions that constitute it.
 
 ## Ownership is residual control
 
@@ -17,6 +17,14 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 The migration is one allocation, repeated under open costumes. Seeking the advertised benefit treats the political hand as the supplier of the next step. Weighing the personal cost of resistance and accommodating treats the already-densified pattern as weather. Preferring to describe the outcome as something done by others locates decisive agency outside the choosing mind. Treating oneself as able to lift another, or as author of another’s outcomes, locates the next step across a gap that cannot complete another’s return. [没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) is that completion as category error: traces may be taken up or not; no locus finishes another’s recursion. Further costumes remain the same allocation. Each is a discrete act at a Mind still freely deciding, still bearing the full consequences of its own prior decisions under unique constraints. None requires perversity. Preservation of a preferred reference — agency lives elsewhere — is the image’s own directive once formed.
 
 These decisions, similar across enough minds, produce a systematic migration of residual control into political hands. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) is that exclusivity under any costume: aggregates and conditions pattern payoffs; they do not author the next act. [Public spending does not create capital](../public-spending-does-not-create-capital/) is the accounting of what has already been extracted: removal first, political allocation second. Here the same sequence is read from the claimant’s language rather than from the ledger.
+
+## Blame relocates the look, not the load
+
+When residue of prior decisions arrives against a preferred image as something that should not have landed, shifting blame onto others registers as the next available move — for this Mind’s own outcomes, and for the outcomes of others. The move requires no perversity. The image preserves itself by locating the author of the mismatch elsewhere.
+
+The consequence is already full. Attribution does not subtract from it. What thins is only the signal that would train the next discrete act. The load stays at the locus whose prior decisions shaped the field; the look is sent across the gap. [Moral language dilutes the feedback that scales freedom](../moral-language-dilutes-the-feedback-that-scales-freedom/) is that damping when evaluative overlay stands between agent and raw consequence. Here the overlay is blame: a name for an author outside the deciding Mind, installed so the already-full residue can arrive as alien.
+
+Blaming the politician is this damping at public scale. The speaker is available as a conspicuous elsewhere. The field that prior choices already made remains; the update that would re-trace those choices is what recedes.
 
 ## Naming the pattern a system is a further choice
 
