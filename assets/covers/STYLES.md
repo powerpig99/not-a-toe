@@ -175,6 +175,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Dual-field spiral feedback allegory** | Split red storm / deep-teal circuit fields; concentric arrow rings around a silhouetted figure on a ridge in a luminous center aperture; constellation and circuit-line overlays, cracked-paint texture | `moral-language-dilutes-the-feedback-that-scales-freedom` |
 | **Split-nave / root-mass cinematic allegory** | Full-bleed split field: cracked classical hall with geometric star and labyrinth left; dark root-mass with embedded faces and red veins right; central figure bisected by a thin red cut | `the-initial-distinction` |
 | **Wayang kulit / shadow-puppet screen** | Full-bleed amber backlit cotton screen, oil-lamp glow; large speaker-at-podium silhouette composed by many small hand-shadows and puppet figures along the lower edge; no table, no text | `politicians-appear-as-visible-symptoms-of-responsibility-diffusion` |
+| **Industrial-node constellation / gold spiral** | Dark navy atmospheric field, gold particle spiral core, cyan factory/vehicle/chip icon-nodes on a thin-edge graph, orange accent nodes | `guan-yu-gui-yin` |
 
 ## Inventory (by slug)
 
@@ -208,6 +209,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `expertise-as-reference-not-replacement` | Marine pilot chart / sailing-directions still |
 | `externalized-virtue-becomes-its-opposite` | Processional figure / portable shrine still |
 | `good-and-evil-are-the-two-sides-of-the-coin-and-the-cut` | Coining-die pair / mint-die still |
+| `guan-yu-gui-yin` | Industrial-node constellation / gold spiral |
 | `preference-clusters-and-the-language-of-judgment` | Iron-filing magnetograph / scientific plate |
 | `hardness-is-not-inherent-in-the-action` | Dual-terrain photoreal footstep |
 | `hardware-locality-is-not-the-information-boundary` | Cinematic chip–network dual |

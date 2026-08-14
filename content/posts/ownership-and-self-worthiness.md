@@ -10,7 +10,7 @@ Ownership of consequences is commonly treated as a moral stance, which often pre
 
 What registers — success, failure, friction, surprise — is the only training signal available. If that signal is treated as noise from the world, from other people, from luck or system, the gradient is still there, but it no longer updates *this* model. The loop repeats without updating. Reading dulls. Action drifts from intention because intention is no longer being corrected by what actually followed from it.
 
-Keeping the outcome as own means treating what registered here as material for the next act. That is the condition for the update to run. [Residual control recedes to the edge](../residual-control-recedes-to-the-edge/) is ownership of the wrong residue: stack control preserved as agency while criteria, risk, and verification already supply the signal that trains.
+Keeping the outcome as own means treating what registered here as material for the next act. That is the condition for the update to run. [Residual control recedes to the edge](../residual-control-recedes-to-the-edge/) is ownership of the wrong residue: stack control preserved as agency while criteria, risk, and verification already supply the signal that trains. [关于归因：从事实到因果，从外部节点到内部迭代](../guan-yu-gui-yin/) is that loop under node-attribution costume: the author is relocated to factory, environment, system, or luck, so the signal thins and the next distinction cannot update from complete feedback.
 
 ## Felt authorship
 
