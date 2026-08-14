@@ -176,6 +176,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Split-nave / root-mass cinematic allegory** | Full-bleed split field: cracked classical hall with geometric star and labyrinth left; dark root-mass with embedded faces and red veins right; central figure bisected by a thin red cut | `the-initial-distinction` |
 | **Wayang kulit / shadow-puppet screen** | Full-bleed amber backlit cotton screen, oil-lamp glow; large speaker-at-podium silhouette composed by many small hand-shadows and puppet figures along the lower edge; no table, no text | `politicians-appear-as-visible-symptoms-of-responsibility-diffusion` |
 | **Industrial-node constellation / gold spiral** | Dark navy atmospheric field, gold particle spiral core, cyan factory/vehicle/chip icon-nodes on a thin-edge graph, orange accent nodes | `guan-yu-gui-yin` |
+| **Diffraction grating / slit-compression** | Full-bleed optical photograph, colored spectral bands forced through one slit into a single mixed bar, dark grating rulings, raking side light | `the-hours-ranking-freezes-adequacy-as-one-scoreboard` |
 
 ## Inventory (by slug)
 
@@ -264,6 +265,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-flywheel-of-the-mind` | Art Deco poster / chrome and sunburst |
 | `the-free-mind-is-displaced-by-what-claims-to-protect-it` | Gilded reliquary / monstrance still |
 | `the-hard-problem-of-consciousness-is-consistent-with-learning` | Crossed-polarizers optical-bench still |
+| `the-hours-ranking-freezes-adequacy-as-one-scoreboard` | Diffraction grating / slit-compression |
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
 | `the-meaning-of-life-is-in-the-drafting` | Risograph flat print |
 | `the-model-never-becomes-a-second-edge` | Gouache narrative still life |

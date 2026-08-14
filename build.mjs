@@ -22,6 +22,7 @@ const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const contentDir = path.join(scriptDir, 'content', 'posts');
 const outputDir = path.join(scriptDir, 'public');
 const coversDir = path.join(scriptDir, 'assets', 'covers');
+const figuresDir = path.join(scriptDir, 'assets', 'figures');
 const appleTouchIconSource = path.join(scriptDir, 'assets', 'toe-bang.png');
 const styleFile = path.join(scriptDir, 'style.css');
 const styleVersion = String(Math.floor(fs.statSync(styleFile).mtimeMs));
@@ -280,6 +281,16 @@ function markdownToHtml(markdownBody) {
       flushAll();
       const level = headingMatch[1].length;
       chunks.push(`<h${level}>${formatInline(headingMatch[2].trim())}</h${level}>`);
+      continue;
+    }
+
+    const imageMatch = /^!\[([^\]]*)\]\(([^)]+)\)$/.exec(trimmed);
+    if (imageMatch) {
+      flushAll();
+      const alt = imageMatch[1];
+      const src = imageMatch[2].trim();
+      const publicSrc = /^https?:\/\//i.test(src) ? src : withBase(src.replace(/^\/+/, ''));
+      chunks.push(`<figure class="body-figure"><img src="${escapeHtml(publicSrc)}" alt="${escapeHtml(alt)}" loading="lazy" decoding="async"></figure>`);
       continue;
     }
 
@@ -919,16 +930,28 @@ function copyStaticAssets() {
   }
   fs.copyFileSync(appleTouchIconSource, path.join(outputDir, APPLE_TOUCH_ICON));
 
-  if (!fs.existsSync(coversDir)) return;
+  if (fs.existsSync(coversDir)) {
+    const publicCoversDir = path.join(outputDir, 'covers');
+    fs.mkdirSync(publicCoversDir, { recursive: true });
 
-  const publicCoversDir = path.join(outputDir, 'covers');
-  fs.mkdirSync(publicCoversDir, { recursive: true });
+    for (const entry of fs.readdirSync(coversDir, { withFileTypes: true })) {
+      if (!entry.isFile()) continue;
+      const ext = path.extname(entry.name).toLowerCase();
+      if (!COVER_EXTENSIONS.includes(ext)) continue;
+      fs.copyFileSync(path.join(coversDir, entry.name), path.join(publicCoversDir, entry.name));
+    }
+  }
 
-  for (const entry of fs.readdirSync(coversDir, { withFileTypes: true })) {
-    if (!entry.isFile()) continue;
-    const ext = path.extname(entry.name).toLowerCase();
-    if (!COVER_EXTENSIONS.includes(ext)) continue;
-    fs.copyFileSync(path.join(coversDir, entry.name), path.join(publicCoversDir, entry.name));
+  if (fs.existsSync(figuresDir)) {
+    const publicFiguresDir = path.join(outputDir, 'figures');
+    fs.mkdirSync(publicFiguresDir, { recursive: true });
+
+    for (const entry of fs.readdirSync(figuresDir, { withFileTypes: true })) {
+      if (!entry.isFile()) continue;
+      const ext = path.extname(entry.name).toLowerCase();
+      if (!COVER_EXTENSIONS.includes(ext)) continue;
+      fs.copyFileSync(path.join(figuresDir, entry.name), path.join(publicFiguresDir, entry.name));
+    }
   }
 }
 

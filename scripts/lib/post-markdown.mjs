@@ -19,9 +19,18 @@ export function toAbsoluteHref(href, baseUrl = SITE_BASE) {
   return new URL(`posts/${rel}/`, base).toString();
 }
 
-/** Rewrite relative post links to absolute site URLs. */
+/** Rewrite relative post links and body figures to absolute site URLs. */
 export function toAbsoluteMarkdown(md, baseUrl = SITE_BASE) {
-  return md.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (full, text, href) => {
+  const base = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`;
+  const withImages = md.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (full, alt, src) => {
+    const target = src.trim();
+    if (/^https?:\/\//i.test(target) || target.startsWith('mailto:') || target.startsWith('#')) {
+      return full;
+    }
+    const clean = target.replace(/^\/+/, '');
+    return `![${alt}](${new URL(clean, base).toString()})`;
+  });
+  return withImages.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (full, text, href) => {
     const target = href.trim();
     if (/^https?:\/\//i.test(target) || target.startsWith('mailto:') || target.startsWith('#')) {
       return full;
@@ -171,6 +180,15 @@ export function markdownToHtml(markdownBody) {
       flushAll();
       const level = headingMatch[1].length;
       chunks.push(`<h${level}>${formatInline(headingMatch[2].trim())}</h${level}>`);
+      continue;
+    }
+
+    const imageMatch = /^!\[([^\]]*)\]\(([^)]+)\)$/.exec(trimmed);
+    if (imageMatch) {
+      flushAll();
+      const alt = imageMatch[1];
+      const src = imageMatch[2].trim();
+      chunks.push(`<figure class="body-figure"><img src="${escapeHtml(src)}" alt="${escapeHtml(alt)}" loading="lazy" decoding="async"></figure>`);
       continue;
     }
 

@@ -303,9 +303,24 @@ a {
 .essay-content p,
 .essay-content ul,
 .essay-content ol,
-.essay-content blockquote {
+.essay-content blockquote,
+.essay-content .body-figure {
   margin-top: 0;
   margin-bottom: 1.15em;
+}
+
+.essay-content .body-figure {
+  padding: 0;
+  overflow: hidden;
+  border-radius: 2px;
+  border: 1px solid var(--rule);
+  line-height: 0;
+}
+
+.essay-content .body-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .essay-content ul,
