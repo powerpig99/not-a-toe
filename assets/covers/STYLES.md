@@ -177,6 +177,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Wayang kulit / shadow-puppet screen** | Full-bleed amber backlit cotton screen, oil-lamp glow; large speaker-at-podium silhouette composed by many small hand-shadows and puppet figures along the lower edge; no table, no text | `politicians-appear-as-visible-symptoms-of-responsibility-diffusion` |
 | **Industrial-node constellation / gold spiral** | Dark navy atmospheric field, gold particle spiral core, cyan factory/vehicle/chip icon-nodes on a thin-edge graph, orange accent nodes | `guan-yu-gui-yin` |
 | **Monumental ranking hall / concrete interior** | Cool concrete hall, mixed stone–wood vertical bars, three horizontal luminous lines, lone figure facing the outlier column, raking window light, polished floor | `the-hours-ranking-freezes-adequacy-as-one-scoreboard` |
+| **Cinematic alpine trail / parchment map** | Photoreal mountain valley at sunrise, worn dirt path through fog, rolled parchment route-map in the foreground, title set in the sky | `the-map-after-the-territory` |
 
 ## Inventory (by slug)
 
@@ -267,6 +268,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-hard-problem-of-consciousness-is-consistent-with-learning` | Crossed-polarizers optical-bench still |
 | `the-hours-ranking-freezes-adequacy-as-one-scoreboard` | Monumental ranking hall / concrete interior |
 | `the-frame-that-conceals-improvement` | Surreal desert allegory |
+| `the-map-after-the-territory` | Cinematic alpine trail / parchment map |
 | `the-meaning-of-life-is-in-the-drafting` | Risograph flat print |
 | `the-model-never-becomes-a-second-edge` | Gouache narrative still life |
 | `the-myth-of-population-collapse-explained` | Operant maze / conditioning apparatus still |

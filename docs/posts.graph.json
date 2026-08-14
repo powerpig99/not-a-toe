@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-14T06:37:34.243Z",
+    "generated_at": "2026-08-14T10:11:20.507Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -23,7 +23,7 @@
       "content/posts/causality-all-the-way.md": "a6ec9534f756",
       "content/posts/causality-and-the-irreducible-prior.md": "c96665a92e38",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "c70a9529b18f",
-      "content/posts/cheng-gong-xue.md": "f664b0c4c2e4",
+      "content/posts/cheng-gong-xue.md": "da33de64273a",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -50,7 +50,7 @@
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
       "content/posts/evil-as-the-minds-own-creation.md": "f7cca0bf9130",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "3b036ee62bf9",
-      "content/posts/expertise-as-reference-not-replacement.md": "85822b748475",
+      "content/posts/expertise-as-reference-not-replacement.md": "3c44594af3ef",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "eec7d7c6b7d4",
@@ -67,7 +67,7 @@
       "content/posts/having-more-is-never-the-cause.md": "72c75f459c46",
       "content/posts/help-is-half-the-problem.md": "686ba3ac40ff",
       "content/posts/hierarchy-from-individual-difference.md": "1c387c86f011",
-      "content/posts/how-belief-actually-changes.md": "2776f4300f13",
+      "content/posts/how-belief-actually-changes.md": "4d8ab09ff782",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
@@ -158,7 +158,8 @@
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
-      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a47069ed2659",
+      "content/posts/the-map-after-the-territory.md": "b9882ace9c8c",
+      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a7c79e42ee6a",
       "content/posts/the-model-never-becomes-a-second-edge.md": "a9ea905964fb",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
@@ -209,13 +210,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 199,
-      "edges": 1977,
-      "unique_directed": 1954,
+      "posts": 200,
+      "edges": 1985,
+      "unique_directed": 1962,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 144
+      "posts_with_outbound": 145
     }
   },
   "hubs_in": [
@@ -749,9 +750,9 @@
       "slug": "cheng-gong-xue",
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学: Theories After Success, Mistaken for Theories Leading to Success",
-      "hash": "f664b0c4c2e4",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "da33de64273a",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
         "the-rational-choice-postulate-is-the-original-sin",
@@ -762,6 +763,7 @@
         "individual-choices-as-the-only-causal-levers",
         "when-observation-becomes-performance",
         "the-scaffolding-we-forget",
+        "the-map-after-the-territory",
         "causality-all-the-way",
         "qian-yin-hou-guo",
         "guan-yu-gui-yin"
@@ -1293,9 +1295,9 @@
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "Expertise as Reference, Not Replacement",
-      "hash": "85822b748475",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "3c44594af3ef",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
@@ -1310,6 +1312,7 @@
         "liberation-rhetoric-begins-by-defining-captivity",
         "the-scaffolding-we-forget",
         "clarity-isnt-a-state-you-arrive-at",
+        "the-map-after-the-territory",
         "cheng-gong-xue",
         "preference-clusters-and-the-language-of-judgment",
         "the-reversal-from-defensible-claim-to-dogma"
@@ -1612,9 +1615,9 @@
       "slug": "how-belief-actually-changes",
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "How Belief Actually Changes",
-      "hash": "2776f4300f13",
-      "in_degree": 17,
-      "out_degree": 17,
+      "hash": "4d8ab09ff782",
+      "in_degree": 18,
+      "out_degree": 18,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-strongest-belief-of-the-mind",
@@ -1632,7 +1635,8 @@
         "reality-is-the-minds-ongoing-realization",
         "individual-choices-as-the-only-causal-levers",
         "residual-individualism",
-        "hardness-is-not-inherent-in-the-action"
+        "hardness-is-not-inherent-in-the-action",
+        "the-map-after-the-territory"
       ]
     },
     {
@@ -3588,17 +3592,34 @@
       "links_out": []
     },
     {
+      "id": "post:the-map-after-the-territory",
+      "kind": "post",
+      "slug": "the-map-after-the-territory",
+      "path": "content/posts/the-map-after-the-territory.md",
+      "title": "Self-improvement writing is The Map After the Territory",
+      "hash": "b9882ace9c8c",
+      "in_degree": 4,
+      "out_degree": 4,
+      "links_out": [
+        "cheng-gong-xue",
+        "how-belief-actually-changes",
+        "the-meaning-of-life-is-in-the-drafting",
+        "expertise-as-reference-not-replacement"
+      ]
+    },
+    {
       "id": "post:the-meaning-of-life-is-in-the-drafting",
       "kind": "post",
       "slug": "the-meaning-of-life-is-in-the-drafting",
       "path": "content/posts/the-meaning-of-life-is-in-the-drafting.md",
       "title": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing",
-      "hash": "a47069ed2659",
-      "in_degree": 11,
-      "out_degree": 13,
+      "hash": "a7c79e42ee6a",
+      "in_degree": 12,
+      "out_degree": 14,
       "links_out": [
         "when-observation-becomes-performance",
         "the-path-drawn-one-step-at-a-time",
+        "the-map-after-the-territory",
         "writing-without-the-image",
         "what-cannot-be-kept",
         "ownership-and-self-worthiness",
@@ -5639,6 +5660,12 @@
     },
     {
       "from": "cheng-gong-xue",
+      "to": "the-map-after-the-territory",
+      "rel": "points_to",
+      "label": "Self-improvement writing is The Map After the Territory"
+    },
+    {
+      "from": "cheng-gong-xue",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "Causality all the way"
@@ -7049,6 +7076,12 @@
     },
     {
       "from": "expertise-as-reference-not-replacement",
+      "to": "the-map-after-the-territory",
+      "rel": "points_to",
+      "label": "Self-improvement writing is The Map After the Territory"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
@@ -7796,6 +7829,12 @@
       "to": "hardness-is-not-inherent-in-the-action",
       "rel": "points_to",
       "label": "Hardness is not inherent in the action"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-map-after-the-territory",
+      "rel": "points_to",
+      "label": "Self-improvement writing is The Map After the Territory"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -13078,6 +13117,30 @@
       "label": "Openness is consistency"
     },
     {
+      "from": "the-map-after-the-territory",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
+    },
+    {
+      "from": "the-map-after-the-territory",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
+    },
+    {
+      "from": "the-map-after-the-territory",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The meaning of life is in the drafting"
+    },
+    {
+      "from": "the-map-after-the-territory",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as reference, not replacement"
+    },
+    {
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
@@ -13088,6 +13151,12 @@
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
       "label": "the path drawn one step at a time"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "the-map-after-the-territory",
+      "rel": "points_to",
+      "label": "Self-improvement writing is The Map After the Territory"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",

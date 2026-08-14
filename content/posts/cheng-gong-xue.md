@@ -26,7 +26,7 @@ If the process itself were the dominant causal driver, progressive lift would fo
 
 The appeal of such wisdom is resonance of fit rather than operational transfer of the generating edge. Elegant hindsight confers a sense of mastery. Readers and followers gain the registration of superior pattern recognition without allocating scarce resources to what still looks unproven. The frameworks therefore travel well as status markers and conversational currency within the genre of 成功学. They travel less well as reliable engines for producing future value.
 
-[When observation becomes performance](../when-observation-becomes-performance/) is the private twin: quiet conversion restated as portable wisdom so the form lands as transferable advice. [The scaffolding we forget](../the-scaffolding-we-forget/) is drop-out under another face: useful organization works while it can leave; freeze is sealing it as the finished width of looking.
+[When observation becomes performance](../when-observation-becomes-performance/) is the private twin: quiet conversion restated as portable wisdom so the form lands as transferable advice. [The scaffolding we forget](../the-scaffolding-we-forget/) is drop-out under another face: useful organization works while it can leave; freeze is sealing it as the finished width of looking. [Self-improvement writing is The Map After the Territory](../the-map-after-the-territory/) is the reader-side twin: the cleaned account taken as what starts the walk.
 
 ## The doctrine accounts for what already exists
 
