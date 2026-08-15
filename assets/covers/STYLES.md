@@ -178,7 +178,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Industrial-node constellation / gold spiral** | Dark navy atmospheric field, gold particle spiral core, cyan factory/vehicle/chip icon-nodes on a thin-edge graph, orange accent nodes | `guan-yu-gui-yin` |
 | **Monumental ranking hall / concrete interior** | Cool concrete hall, mixed stone–wood vertical bars, three horizontal luminous lines, lone figure facing the outlier column, raking window light, polished floor | `the-hours-ranking-freezes-adequacy-as-one-scoreboard` |
 | **Cinematic alpine trail / parchment map** | Photoreal mountain valley at sunrise, worn dirt path through fog, rolled parchment route-map in the foreground, title set in the sky | `the-map-after-the-territory` |
-| **Karesansui / dry-landscape garden** | Full-bleed overcast garden photograph, empty weathered hinoki verandah, pale raked gravel lines that do not return, discrete mossy standing stones | `sowell-observed-the-surface-problem` |
+| **Cinematic dual-bank / cracked-sphere allegory** | Photoreal split landscape: storm-barren bank with seated observer, sunlit valley with standing figure, river cut, cracked stone sphere and eye between | `sowell-observed-the-surface-problem` |
 
 ## Inventory (by slug)
 
@@ -255,7 +255,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `shared-consciousness-is-intersecting-individualities` | Mola reverse-appliqué textile |
 | `shared-humanity-is-never-shared` | Phenakistoscope / stopped zoetrope still |
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
-| `sowell-observed-the-surface-problem` | Karesansui / dry-landscape garden |
+| `sowell-observed-the-surface-problem` | Cinematic dual-bank / cracked-sphere allegory |
 | `symptom-and-cause-in-the-narratives-of-progress` | Chart-recorder / oscillograph strip |
 | `sympathy-is-a-placeholder-for-lack-of-clarity` | Fresco strappo / detached mural fragment |
 | `the-artifacts-of-self-amplification` | Mirror galvanometer / optical-lever still |
