@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-15T17:51:22.872Z",
+    "generated_at": "2026-08-15T17:59:49.227Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -105,7 +105,7 @@
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "9f9598e7f790",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "fe4459ce5e2d",
+      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "659d441ca9fb",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "008f74b4f474",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "1cb0d8ca3e76",
       "content/posts/price-as-utterance-understanding-as-trade.md": "3044ff41ff78",
@@ -116,7 +116,7 @@
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
-      "content/posts/residual-individualism.md": "ef0055e970ec",
+      "content/posts/residual-individualism.md": "6c2dcdedfcdd",
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -128,7 +128,7 @@
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "ff27a36e9338",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
-      "content/posts/sowell-observed-the-surface-problem.md": "0b0f77f2fe86",
+      "content/posts/sowell-observed-the-surface-problem.md": "b3ab20e2391c",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "6730e444af0a",
       "content/posts/technology-is-residual-of-human-compounding.md": "3b50785def9a",
@@ -212,8 +212,8 @@
     },
     "stats": {
       "posts": 201,
-      "edges": 1995,
-      "unique_directed": 1972,
+      "edges": 1999,
+      "unique_directed": 1976,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
@@ -2463,14 +2463,15 @@
       "slug": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "Politicians Appear as Visible Symptoms of Responsibility Diffusion",
-      "hash": "fe4459ce5e2d",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "659d441ca9fb",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "ownership-and-self-worthiness",
         "mei-you-pu-du-zhi-you-zi-du",
         "individual-choices-as-the-only-causal-levers",
         "public-spending-does-not-create-capital",
+        "sowell-observed-the-surface-problem",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "when-the-effect-authors-the-frame",
         "residual-individualism",
@@ -2733,9 +2734,9 @@
       "slug": "residual-individualism",
       "path": "content/posts/residual-individualism.md",
       "title": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies",
-      "hash": "ef0055e970ec",
-      "in_degree": 17,
-      "out_degree": 17,
+      "hash": "6c2dcdedfcdd",
+      "in_degree": 18,
+      "out_degree": 18,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "when-abundance-looks-like-scarcity",
@@ -2751,6 +2752,7 @@
         "liberation-rhetoric-begins-by-defining-captivity",
         "externalized-virtue-becomes-its-opposite",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
+        "sowell-observed-the-surface-problem",
         "cheng-gong-xue",
         "mei-you-pu-du-zhi-you-zi-du",
         "how-belief-actually-changes"
@@ -2972,15 +2974,17 @@
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds",
-      "hash": "0b0f77f2fe86",
-      "in_degree": 5,
-      "out_degree": 5,
+      "hash": "b3ab20e2391c",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "ownership-and-self-worthiness",
         "the-risk-is-the-belief-in-oversight-itself",
         "the-paradoxical-nature-of-bystander-insights",
-        "self-image-speaks-as-if-from-nowhere"
+        "self-image-speaks-as-if-from-nowhere",
+        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+        "residual-individualism"
       ]
     },
     {
@@ -10279,6 +10283,12 @@
     },
     {
       "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell observed the surface problem"
+    },
+    {
+      "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
       "label": "Moral language dilutes the feedback that scales freedom"
@@ -11173,6 +11183,12 @@
     },
     {
       "from": "residual-individualism",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell observed the surface problem"
+    },
+    {
+      "from": "residual-individualism",
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
@@ -11722,6 +11738,18 @@
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
       "label": "Self-image speaks as if from nowhere"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual individualism"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
