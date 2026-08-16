@@ -181,6 +181,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic dual-bank / cracked-sphere allegory** | Photoreal split landscape: storm-barren bank with seated observer, sunlit valley with standing figure, river cut, cracked stone sphere and eye between | `sowell-observed-the-surface-problem` |
 | **Ink-wash to cosmic-diagram panorama** | Full-bleed split: sepia ink landscape, bamboo slip and brush left; gold river seam; indigo constellation, open diagram-book and geodesic sphere right | `du-zhongwen-zhexue-jianshi-you-gan` |
 | **Cinematic split-ledger / crack-bisected figure** | Full-bleed dual field: warm sunlit path and glowing personal ledger left; vertical earth-crack through a back-turned figure; cold ruin, scales, fractured colossal head, and crowd right | `the-irreducible-prior-of-decision-and-consequence` |
+| **Holographic interferometry / double-aperture fringe field** | Full-bleed scientific optical plate; two circular apertures, one inside a faint closed geometric enclosure; incomplete teal–amber interference channel that never seals; silver-green holographic grain, laser speckle, no tabletop | `on-closed-systems-open-minds-and-the-limits-of-proof` |
 
 ## Inventory (by slug)
 
@@ -317,6 +318,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `writing-without-the-image` | Camera lucida / brass prism drawing still |
 | `qian-yin-hou-guo` | Silverpoint / metalpoint on gesso |
 | `you-wu-zhi-bian` | Minimal horizon band |
+| `on-closed-systems-open-minds-and-the-limits-of-proof` | Holographic interferometry / double-aperture fringe field |
 | `only-if-it-is-not-kept-empty` | Celadon kiln shelf still life |
 | `the-real-lesson-from-the-consciousness-vector-paper` | Medieval volvelle / paper dial still |
 

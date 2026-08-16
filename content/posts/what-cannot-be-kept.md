@@ -48,7 +48,7 @@ The Contradiction doesn't observe something else—there's nothing else. But it 
 
 Mind isn't a different kind of thing from substrate. It's the Contradiction's self-referencing in local operation. Substrate is what that operation has already produced. Same source, different temporal relationship to the generating act.
 
-Freedom isn't a property granted to some special substance. It's the incompleteness of self-reference—the fact that the Contradiction can never finish observing itself. The "never finishing" is what we experience as agency, choice, the open future. [The hard problem of consciousness is consistent with learning](../the-hard-problem-of-consciousness-is-consistent-with-learning/) is that incompleteness under hard-problem costume: residual openness is generative ground, not dual substance and not a defect finished naturalization erases.
+Freedom isn't a property granted to some special substance. It's the incompleteness of self-reference—the fact that the Contradiction can never finish observing itself. The "never finishing" is what we experience as agency, choice, the open future. [The hard problem of consciousness is consistent with learning](../the-hard-problem-of-consciousness-is-consistent-with-learning/) is that incompleteness under hard-problem costume: residual openness is generative ground, not dual substance and not a defect finished naturalization erases. [On closed systems, open minds, and the limits of proof](../on-closed-systems-open-minds-and-the-limits-of-proof/) is that same demand under intersubjective costume: proof remains artifact; one opening cannot become the first-person fact for the other.
 
 ---
 
