@@ -18,6 +18,7 @@ const SITE = {
 const WORDS_PER_MINUTE = 265;
 const CJK_CHARS_PER_MINUTE = 400;
 const CJK_CHAR_RE = /[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff\uac00-\ud7af]/g;
+const CJK_PUNCT_RE = /[\u3000-\u303f\uff00-\uffef]/g;
 const LEAD_MAX_SENTENCES = 5;
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
@@ -540,7 +541,11 @@ function extractOpening(markdownBody) {
 
 function readingUnits(text) {
   const cjkChars = (text.match(CJK_CHAR_RE) || []).length;
-  const latinWords = (text.replace(CJK_CHAR_RE, ' ').match(/[A-Za-z0-9]+(?:['’-][A-Za-z0-9]+)*/g) || []).length;
+  const latinWords = text
+    .replace(CJK_CHAR_RE, ' ')
+    .replace(CJK_PUNCT_RE, ' ')
+    .split(/\s+/)
+    .filter(Boolean).length;
   return { cjkChars, latinWords, units: cjkChars + latinWords };
 }
 
