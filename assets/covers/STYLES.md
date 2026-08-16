@@ -183,6 +183,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic split-ledger / crack-bisected figure** | Full-bleed dual field: warm sunlit path and glowing personal ledger left; vertical earth-crack through a back-turned figure; cold ruin, scales, fractured colossal head, and crowd right | `the-irreducible-prior-of-decision-and-consequence` |
 | **Cinematic sealed-chamber / luminous-mind dual** | Full-bleed split: dark circular vault, checkerboard, glass cubes and geodesic sphere left; golden mountain pass, figure on cliff, translucent neural head and branching tree right | `on-closed-systems-open-minds-and-the-limits-of-proof` |
 | **Particle-flow compounding panorama** | Dark navy void; silver bell-curve dissolving into particle scatter; three orbital spheres (factory, tree, circuit); silver-to-gold compounding streams | `mi-lv-shi-jie-guo-de-biao-xiang` |
+| **Aerial pack-ice / polar lead** | Full-bleed downward aerial; discrete silver-blue floes of uneven size on charcoal open water; raking polar light; crystalline grain; field never reconstitutes into one sheet | `the-knowledge-problem-and-the-illusion-of-delegation` |
 
 ## Inventory (by slug)
 
@@ -232,6 +233,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `liberation-rhetoric-begins-by-defining-captivity` | Notarial embosser / dry-seal still |
 | `the-illusion-of-free-intelligence` | Lost-wax investment casting still |
 | `the-irreducible-prior-of-decision-and-consequence` | Cinematic split-ledger / crack-bisected figure |
+| `the-knowledge-problem-and-the-illusion-of-delegation` | Aerial pack-ice / polar lead |
 | `the-initial-distinction` | Split-nave / root-mass cinematic allegory |
 | `the-imagining-of-ai-risk` | Pepper’s ghost theatrical still |
 | `looping-and-graphing` | Technical blueprint / diazo |

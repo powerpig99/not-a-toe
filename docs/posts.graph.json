@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-16T14:23:45.372Z",
+    "generated_at": "2026-08-16T19:58:55.918Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -79,7 +79,7 @@
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "8151fa58a449",
       "content/posts/looping-and-graphing.md": "b2acdecafde8",
-      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "01056fcbfd40",
+      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "ea842bb4527b",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "8aaff5b7fd36",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "ebf019c2cbce",
@@ -91,7 +91,7 @@
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
-      "content/posts/no-system-can-be-kept-closed.md": "bf547f900c7e",
+      "content/posts/no-system-can-be-kept-closed.md": "a5c5f59964ed",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
@@ -119,7 +119,7 @@
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
-      "content/posts/residual-individualism.md": "6c2dcdedfcdd",
+      "content/posts/residual-individualism.md": "0f89120de59f",
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -129,9 +129,9 @@
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "f74c7c6a49a5",
       "content/posts/shared-humanity-is-never-shared.md": "7a429623e174",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "ff27a36e9338",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "7052251d0a3c",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
-      "content/posts/sowell-observed-the-surface-problem.md": "e02278a5b073",
+      "content/posts/sowell-observed-the-surface-problem.md": "c907917b4067",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "6730e444af0a",
       "content/posts/technology-is-residual-of-human-compounding.md": "3b50785def9a",
@@ -157,7 +157,8 @@
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "09cd6b3668c4",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
-      "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "7045827c11aa",
+      "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "05bc458dafb1",
+      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "0cfe86e750c4",
       "content/posts/the-limitation-is-doing-work.md": "ebff2fbf2a2e",
       "content/posts/the-living-context.md": "802b03eb6a18",
       "content/posts/the-loop-accelerates.md": "774efc991390",
@@ -215,13 +216,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 205,
-      "edges": 2041,
-      "unique_directed": 2018,
+      "posts": 206,
+      "edges": 2053,
+      "unique_directed": 2030,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 150
+      "posts_with_outbound": 151
     }
   },
   "hubs_in": [
@@ -235,7 +236,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 42
+      "in_degree": 43
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -317,7 +318,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "out_degree": 35
+      "out_degree": 36
     },
     {
       "slug": "not-a-theory-of-everything",
@@ -1893,10 +1894,11 @@
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "Lossless Knowledge of an Open Field Is Incoherent",
-      "hash": "01056fcbfd40",
-      "in_degree": 9,
-      "out_degree": 14,
+      "hash": "ea842bb4527b",
+      "in_degree": 10,
+      "out_degree": 15,
       "links_out": [
+        "the-knowledge-problem-and-the-illusion-of-delegation",
         "distillation-compression-agency",
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -2128,9 +2130,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "bf547f900c7e",
-      "in_degree": 42,
-      "out_degree": 35,
+      "hash": "a5c5f59964ed",
+      "in_degree": 43,
+      "out_degree": 36,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -2140,6 +2142,7 @@
         "the-path-drawn-one-step-at-a-time",
         "the-scaffolding-we-forget",
         "du-zhongwen-zhexue-jianshi-you-gan",
+        "the-knowledge-problem-and-the-illusion-of-delegation",
         "clarity-isnt-a-state-you-arrive-at",
         "the-utility-men-of-progress",
         "pessimism-is-the-shadow-of-optimism",
@@ -2804,9 +2807,9 @@
       "slug": "residual-individualism",
       "path": "content/posts/residual-individualism.md",
       "title": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies",
-      "hash": "6c2dcdedfcdd",
-      "in_degree": 18,
-      "out_degree": 18,
+      "hash": "0f89120de59f",
+      "in_degree": 19,
+      "out_degree": 19,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "when-abundance-looks-like-scarcity",
@@ -2823,6 +2826,7 @@
         "externalized-virtue-becomes-its-opposite",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "sowell-observed-the-surface-problem",
+        "the-knowledge-problem-and-the-illusion-of-delegation",
         "cheng-gong-xue",
         "mei-you-pu-du-zhi-you-zi-du",
         "how-belief-actually-changes"
@@ -3003,11 +3007,12 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "ff27a36e9338",
-      "in_degree": 19,
-      "out_degree": 19,
+      "hash": "7052251d0a3c",
+      "in_degree": 20,
+      "out_degree": 20,
       "links_out": [
         "hassabis-frontier-agi-premise",
+        "the-knowledge-problem-and-the-illusion-of-delegation",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-average-is-residue-not-the-engine",
         "empowerment-establishes-the-centralization-of-power",
@@ -3045,9 +3050,9 @@
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds",
-      "hash": "e02278a5b073",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "c907917b4067",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "ownership-and-self-worthiness",
@@ -3056,7 +3061,8 @@
         "the-paradoxical-nature-of-bystander-insights",
         "self-image-speaks-as-if-from-nowhere",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
-        "residual-individualism"
+        "residual-individualism",
+        "the-knowledge-problem-and-the-illusion-of-delegation"
       ]
     },
     {
@@ -3641,15 +3647,34 @@
       "slug": "the-irreducible-prior-of-decision-and-consequence",
       "path": "content/posts/the-irreducible-prior-of-decision-and-consequence.md",
       "title": "The Irreducible Prior of Decision and Consequence",
-      "hash": "7045827c11aa",
-      "in_degree": 5,
-      "out_degree": 5,
+      "hash": "05bc458dafb1",
+      "in_degree": 6,
+      "out_degree": 6,
       "links_out": [
         "ownership-and-self-worthiness",
         "qian-yin-hou-guo",
         "sowell-observed-the-surface-problem",
+        "the-knowledge-problem-and-the-illusion-of-delegation",
         "individual-choices-as-the-only-causal-levers",
         "public-spending-does-not-create-capital"
+      ]
+    },
+    {
+      "id": "post:the-knowledge-problem-and-the-illusion-of-delegation",
+      "kind": "post",
+      "slug": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
+      "title": "The Knowledge Problem and the Illusion of Delegation",
+      "hash": "0cfe86e750c4",
+      "in_degree": 6,
+      "out_degree": 6,
+      "links_out": [
+        "lossless-knowledge-of-an-open-field-is-incoherent",
+        "no-system-can-be-kept-closed",
+        "the-irreducible-prior-of-decision-and-consequence",
+        "sovereignty-belief-and-regulatory-structures",
+        "sowell-observed-the-surface-problem",
+        "residual-individualism"
       ]
     },
     {
@@ -8661,6 +8686,12 @@
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The knowledge problem and the illusion of delegation"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "distillation-compression-agency",
       "rel": "points_to",
       "label": "Distillation chooses what to lose"
@@ -9282,6 +9313,12 @@
       "to": "du-zhongwen-zhexue-jianshi-you-gan",
       "rel": "points_to",
       "label": "读《中文哲学简史》有感"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The knowledge problem and the illusion of delegation"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -11463,6 +11500,12 @@
     },
     {
       "from": "residual-individualism",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The knowledge problem and the illusion of delegation"
+    },
+    {
+      "from": "residual-individualism",
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
@@ -11883,6 +11926,12 @@
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The knowledge problem and the illusion of delegation"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
       "label": "Exceptionality, perception, and the self-limiting field of problems"
@@ -12036,6 +12085,12 @@
       "to": "residual-individualism",
       "rel": "points_to",
       "label": "Residual individualism"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The knowledge problem and the illusion of delegation"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -13533,6 +13588,12 @@
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The knowledge problem and the illusion of delegation"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -13542,6 +13603,42 @@
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public spending does not create capital"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless knowledge of an open field is incoherent"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "The irreducible prior of decision and consequence"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell observed the surface problem"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual individualism"
     },
     {
       "from": "the-map-after-the-territory",

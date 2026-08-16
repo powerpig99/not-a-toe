@@ -14,7 +14,7 @@ That observation registers the dual system as an operational failure of the SRO 
 
 ## One step earlier
 
-Individual sovereignty cannot be delegated. What appears as delegation is the expression of sovereignty: the act of choosing where choice is entrusted, while consequences continue to register at the locus that chose. Responsibility for those consequences does not transfer with the entrustment. It stays where the choosing occurs.
+Individual sovereignty cannot be delegated. What appears as delegation is the expression of sovereignty: the act of choosing where choice is entrusted, while consequences continue to register at the locus that chose. Responsibility for those consequences does not transfer with the entrustment. It stays where the choosing occurs. [The knowledge problem and the illusion of delegation](../the-knowledge-problem-and-the-illusion-of-delegation/) is that same non-transfer under knowledge-problem costume: what appears as delegation to a market, a title, or a collective never moves the load.
 
 An SRO is a collective expression of a different belief—that individual sovereignty itself can be handed over. Government is the same belief expressed at another scale of stabilization. The dual system Armstrong describes is not two independent architectures accidentally stacked. It is one prior generating multiple institutional faces. Each face is a durable residue of many centers externalizing sovereign choice into a shared pattern; the pattern then patterns which alignments later acts find available. Neither face relocates the locus of initiation. Both are treated, under the belief that produced them, as if they did.
 
