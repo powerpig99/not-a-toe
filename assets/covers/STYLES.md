@@ -180,6 +180,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic alpine trail / parchment map** | Photoreal mountain valley at sunrise, worn dirt path through fog, rolled parchment route-map in the foreground, title set in the sky | `the-map-after-the-territory` |
 | **Cinematic dual-bank / cracked-sphere allegory** | Photoreal split landscape: storm-barren bank with seated observer, sunlit valley with standing figure, river cut, cracked stone sphere and eye between | `sowell-observed-the-surface-problem` |
 | **Ink-wash to cosmic-diagram panorama** | Full-bleed split: sepia ink landscape, bamboo slip and brush left; gold river seam; indigo constellation, open diagram-book and geodesic sphere right | `du-zhongwen-zhexue-jianshi-you-gan` |
+| **Book-matched marble / opened-stone diptych** | Full-bleed sawn marble opened as two near-mirror faces, hairline kerf as the only split, cream–umber–slate veins continuous across both, raking mineral light, no table | `the-irreducible-prior-of-decision-and-consequence` |
 
 ## Inventory (by slug)
 
@@ -228,6 +229,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `intelligence-folding-back-on-itself` | Damascus / pattern-welded steel macro |
 | `liberation-rhetoric-begins-by-defining-captivity` | Notarial embosser / dry-seal still |
 | `the-illusion-of-free-intelligence` | Lost-wax investment casting still |
+| `the-irreducible-prior-of-decision-and-consequence` | Book-matched marble / opened-stone diptych |
 | `the-initial-distinction` | Split-nave / root-mass cinematic allegory |
 | `the-imagining-of-ai-risk` | Pepper’s ghost theatrical still |
 | `looping-and-graphing` | Technical blueprint / diazo |

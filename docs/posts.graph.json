@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-16T07:41:59.307Z",
+    "generated_at": "2026-08-16T13:01:25.387Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -72,7 +72,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "00f6b35e826c",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "e43ce5353258",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -100,7 +100,7 @@
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
       "content/posts/openness-is-consistency.md": "26cdd8985dbc",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "1d3dff393024",
+      "content/posts/ownership-and-self-worthiness.md": "ab34cc150580",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "9f9598e7f790",
@@ -111,8 +111,8 @@
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "1cb0d8ca3e76",
       "content/posts/price-as-utterance-understanding-as-trade.md": "3044ff41ff78",
       "content/posts/production-consumption-and-the-minds-distinction.md": "59bd2266e262",
-      "content/posts/public-spending-does-not-create-capital.md": "7c856d81c7e9",
-      "content/posts/qian-yin-hou-guo.md": "85bf55bf7e51",
+      "content/posts/public-spending-does-not-create-capital.md": "f6f02ea6a500",
+      "content/posts/qian-yin-hou-guo.md": "1dabc5110826",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
@@ -129,7 +129,7 @@
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "ff27a36e9338",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
-      "content/posts/sowell-observed-the-surface-problem.md": "b3ab20e2391c",
+      "content/posts/sowell-observed-the-surface-problem.md": "e02278a5b073",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "6730e444af0a",
       "content/posts/technology-is-residual-of-human-compounding.md": "3b50785def9a",
@@ -155,6 +155,7 @@
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "09cd6b3668c4",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
+      "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "7045827c11aa",
       "content/posts/the-limitation-is-doing-work.md": "ebff2fbf2a2e",
       "content/posts/the-living-context.md": "802b03eb6a18",
       "content/posts/the-loop-accelerates.md": "774efc991390",
@@ -212,13 +213,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 202,
-      "edges": 2011,
-      "unique_directed": 1988,
+      "posts": 203,
+      "edges": 2021,
+      "unique_directed": 1998,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 147
+      "posts_with_outbound": 148
     }
   },
   "hubs_in": [
@@ -236,7 +237,11 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 38
+      "in_degree": 39
+    },
+    {
+      "slug": "ownership-and-self-worthiness",
+      "in_degree": 31
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -244,10 +249,6 @@
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 30
-    },
-    {
-      "slug": "ownership-and-self-worthiness",
       "in_degree": 30
     },
     {
@@ -306,7 +307,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 41
+      "out_degree": 42
     },
     {
       "slug": "openness-is-consistency",
@@ -365,6 +366,10 @@
       "out_degree": 24
     },
     {
+      "slug": "ownership-and-self-worthiness",
+      "out_degree": 23
+    },
+    {
       "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 23
     },
@@ -378,10 +383,6 @@
     },
     {
       "slug": "causality-all-the-way",
-      "out_degree": 22
-    },
-    {
-      "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "out_degree": 22
     }
   ],
@@ -1698,12 +1699,13 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "00f6b35e826c",
-      "in_degree": 38,
-      "out_degree": 41,
+      "hash": "e43ce5353258",
+      "in_degree": 39,
+      "out_degree": 42,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
+        "the-irreducible-prior-of-decision-and-consequence",
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
         "shared-consciousness-is-intersecting-individualities",
@@ -2349,10 +2351,11 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "1d3dff393024",
-      "in_degree": 30,
-      "out_degree": 22,
+      "hash": "ab34cc150580",
+      "in_degree": 31,
+      "out_degree": 23,
       "links_out": [
+        "the-irreducible-prior-of-decision-and-consequence",
         "sowell-observed-the-surface-problem",
         "residual-control-recedes-to-the-edge",
         "guan-yu-gui-yin",
@@ -2626,9 +2629,9 @@
       "slug": "public-spending-does-not-create-capital",
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "Public Spending Does Not Create Capital",
-      "hash": "7c856d81c7e9",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "f6f02ea6a500",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "having-more-is-never-the-cause",
@@ -2636,6 +2639,7 @@
         "sovereignty-belief-and-regulatory-structures",
         "individual-choices-as-the-only-causal-levers",
         "ownership-and-self-worthiness",
+        "the-irreducible-prior-of-decision-and-consequence",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "symptom-and-cause-in-the-narratives-of-progress",
         "fate-loves-irony-refined",
@@ -2651,14 +2655,15 @@
       "slug": "qian-yin-hou-guo",
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果",
-      "hash": "85bf55bf7e51",
-      "in_degree": 7,
-      "out_degree": 12,
+      "hash": "1dabc5110826",
+      "in_degree": 8,
+      "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "du-zhongwen-zhexue-jianshi-you-gan",
         "causality-all-the-way",
         "guan-yu-gui-yin",
+        "the-irreducible-prior-of-decision-and-consequence",
         "individual-choices-as-the-only-causal-levers",
         "why-mathematics-can-never-be-solved",
         "openness-is-consistency",
@@ -2996,12 +3001,13 @@
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds",
-      "hash": "b3ab20e2391c",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "e02278a5b073",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "ownership-and-self-worthiness",
+        "the-irreducible-prior-of-decision-and-consequence",
         "the-risk-is-the-belief-in-oversight-itself",
         "the-paradoxical-nature-of-bystander-insights",
         "self-image-speaks-as-if-from-nowhere",
@@ -3583,6 +3589,23 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:the-irreducible-prior-of-decision-and-consequence",
+      "kind": "post",
+      "slug": "the-irreducible-prior-of-decision-and-consequence",
+      "path": "content/posts/the-irreducible-prior-of-decision-and-consequence.md",
+      "title": "The Irreducible Prior of Decision and Consequence",
+      "hash": "7045827c11aa",
+      "in_degree": 5,
+      "out_degree": 5,
+      "links_out": [
+        "ownership-and-self-worthiness",
+        "qian-yin-hou-guo",
+        "sowell-observed-the-surface-problem",
+        "individual-choices-as-the-only-causal-levers",
+        "public-spending-does-not-create-capital"
+      ]
     },
     {
       "id": "post:the-limitation-is-doing-work",
@@ -7938,6 +7961,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "The irreducible prior of decision and consequence"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The source of shared change"
@@ -9918,6 +9947,12 @@
     },
     {
       "from": "ownership-and-self-worthiness",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "The irreducible prior of decision and consequence"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
       "label": "Sowell observed the surface problem"
@@ -10860,6 +10895,12 @@
     },
     {
       "from": "public-spending-does-not-create-capital",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "The irreducible prior of decision and consequence"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
       "label": "Politicians appear as visible symptoms of responsibility diffusion"
@@ -10923,6 +10964,12 @@
       "to": "guan-yu-gui-yin",
       "rel": "points_to",
       "label": "关于归因：从事实到因果，从外部节点到内部迭代"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "The Irreducible Prior of Decision and Consequence"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -11799,6 +11846,12 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "The irreducible prior of decision and consequence"
     },
     {
       "from": "sowell-observed-the-surface-problem",
@@ -13299,6 +13352,36 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell observed the surface problem"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
     },
     {
       "from": "the-map-after-the-territory",
