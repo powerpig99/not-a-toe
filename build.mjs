@@ -16,6 +16,8 @@ const SITE = {
 };
 
 const WORDS_PER_MINUTE = 265;
+const CJK_CHARS_PER_MINUTE = 400;
+const CJK_CHAR_RE = /[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff\uac00-\ud7af]/g;
 const LEAD_MAX_SENTENCES = 5;
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
@@ -536,8 +538,14 @@ function extractOpening(markdownBody) {
   return { subtitle, lead, bodyMarkdown };
 }
 
-function wordCount(text) {
-  return text.split(/\s+/).filter(Boolean).length;
+function readingUnits(text) {
+  const cjkChars = (text.match(CJK_CHAR_RE) || []).length;
+  const latinWords = (text.replace(CJK_CHAR_RE, ' ').match(/[A-Za-z0-9]+(?:['’-][A-Za-z0-9]+)*/g) || []).length;
+  return { cjkChars, latinWords, units: cjkChars + latinWords };
+}
+
+function readingTimeMinutes({ cjkChars, latinWords }) {
+  return Math.max(1, Math.ceil(cjkChars / CJK_CHARS_PER_MINUTE + latinWords / WORDS_PER_MINUTE));
 }
 
 function listPostFiles() {
@@ -609,7 +617,7 @@ function readPosts(files) {
     const htmlBody = markdownToHtml(bodyMarkdown || markdownBody);
     const plainText = markdownToSummaryText(markdownBody);
     const dateIso = getFileDate(fullPath);
-    const words = wordCount(plainText);
+    const units = readingUnits(plainText);
     const cover = findCoverForSlug(slug);
     const excerpt = subtitle || lead;
     const description = subtitle || lead;
@@ -621,8 +629,8 @@ function readPosts(files) {
       lead,
       dateIso,
       dateDisplay: formatDate(dateIso),
-      readingTime: Math.max(1, Math.ceil(words / WORDS_PER_MINUTE)),
-      wordCount: words,
+      readingTime: readingTimeMinutes(units),
+      wordCount: units.units,
       htmlBody,
       plainText,
       excerpt,
