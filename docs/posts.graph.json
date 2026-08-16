@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-16T13:30:12.477Z",
+    "generated_at": "2026-08-16T14:23:45.372Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -23,13 +23,13 @@
       "content/posts/causality-all-the-way.md": "a6ec9534f756",
       "content/posts/causality-and-the-irreducible-prior.md": "c96665a92e38",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "c70a9529b18f",
-      "content/posts/cheng-gong-xue.md": "da33de64273a",
+      "content/posts/cheng-gong-xue.md": "44fc72472f43",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "3b3177a38140",
-      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "6bbab439540e",
+      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "0fe0b5225466",
       "content/posts/closed-reality-in-benchmark-maxing.md": "bf12c4eac2ea",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ae1e874dfdf6",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "870784c953a3",
@@ -82,6 +82,7 @@
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "01056fcbfd40",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "8aaff5b7fd36",
+      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "ebf019c2cbce",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "cbe3516728e9",
@@ -113,7 +114,7 @@
       "content/posts/price-as-utterance-understanding-as-trade.md": "3044ff41ff78",
       "content/posts/production-consumption-and-the-minds-distinction.md": "59bd2266e262",
       "content/posts/public-spending-does-not-create-capital.md": "f6f02ea6a500",
-      "content/posts/qian-yin-hou-guo.md": "1dabc5110826",
+      "content/posts/qian-yin-hou-guo.md": "8a887ca0d657",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
@@ -136,7 +137,7 @@
       "content/posts/technology-is-residual-of-human-compounding.md": "3b50785def9a",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "445d33effe5c",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
-      "content/posts/the-average-is-residue-not-the-engine.md": "3482e95da004",
+      "content/posts/the-average-is-residue-not-the-engine.md": "123695e9e8b0",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "90ccd4619ab1",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -214,13 +215,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 204,
-      "edges": 2033,
-      "unique_directed": 2010,
+      "posts": 205,
+      "edges": 2041,
+      "unique_directed": 2018,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 149
+      "posts_with_outbound": 150
     }
   },
   "hubs_in": [
@@ -755,9 +756,9 @@
       "slug": "cheng-gong-xue",
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学: Theories After Success, Mistaken for Theories Leading to Success",
-      "hash": "da33de64273a",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "44fc72472f43",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
         "the-rational-choice-postulate-is-the-original-sin",
@@ -771,7 +772,8 @@
         "the-map-after-the-territory",
         "causality-all-the-way",
         "qian-yin-hou-guo",
-        "guan-yu-gui-yin"
+        "guan-yu-gui-yin",
+        "mi-lv-shi-jie-guo-de-biao-xiang"
       ]
     },
     {
@@ -867,9 +869,9 @@
       "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "Closed Assumptions Squeeze Compounding into S-Curves",
-      "hash": "6bbab439540e",
-      "in_degree": 19,
-      "out_degree": 19,
+      "hash": "0fe0b5225466",
+      "in_degree": 20,
+      "out_degree": 20,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
@@ -889,7 +891,8 @@
         "clarity-isnt-a-state-you-arrive-at",
         "the-scaffolding-we-forget",
         "the-rational-choice-postulate-is-the-original-sin",
-        "abstraction-boundaries-and-the-moving-edge-of-reality"
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "mi-lv-shi-jie-guo-de-biao-xiang"
       ]
     },
     {
@@ -1953,6 +1956,22 @@
       ]
     },
     {
+      "id": "post:mi-lv-shi-jie-guo-de-biao-xiang",
+      "kind": "post",
+      "slug": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "path": "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md",
+      "title": "幂律是结果的表象，不是生成的逻辑",
+      "hash": "ebf019c2cbce",
+      "in_degree": 4,
+      "out_degree": 4,
+      "links_out": [
+        "qian-yin-hou-guo",
+        "cheng-gong-xue",
+        "closed-assumptions-squeeze-compounding-into-s-curves",
+        "the-average-is-residue-not-the-engine"
+      ]
+    },
+    {
       "id": "post:minimizing-path",
       "kind": "post",
       "slug": "minimizing-path",
@@ -2678,9 +2697,9 @@
       "slug": "qian-yin-hou-guo",
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果",
-      "hash": "1dabc5110826",
-      "in_degree": 8,
-      "out_degree": 13,
+      "hash": "8a887ca0d657",
+      "in_degree": 9,
+      "out_degree": 14,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "du-zhongwen-zhexue-jianshi-you-gan",
@@ -2694,7 +2713,8 @@
         "clarity-isnt-a-state-you-arrive-at",
         "performative-hindsight-that-pretends-to-be-foresight",
         "mei-you-pu-du-zhi-you-zi-du",
-        "cheng-gong-xue"
+        "cheng-gong-xue",
+        "mi-lv-shi-jie-guo-de-biao-xiang"
       ]
     },
     {
@@ -3224,9 +3244,9 @@
       "slug": "the-average-is-residue-not-the-engine",
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "The Average Is Residue, Not the Engine",
-      "hash": "3482e95da004",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "123695e9e8b0",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -3239,6 +3259,7 @@
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "sovereignty-belief-and-regulatory-structures",
         "hierarchy-from-individual-difference",
+        "mi-lv-shi-jie-guo-de-biao-xiang",
         "openness-is-consistency"
       ]
     },
@@ -5789,6 +5810,12 @@
       "label": "关于归因：从事实到因果，从外部节点到内部迭代"
     },
     {
+      "from": "cheng-gong-xue",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "幂律是结果的表象，不是生成的逻辑"
+    },
+    {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
@@ -6081,6 +6108,12 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "幂律是结果的表象，不是生成的逻辑"
     },
     {
       "from": "closed-reality-in-benchmark-maxing",
@@ -8825,6 +8858,30 @@
       "label": "关于归因：从事实到因果，从外部节点到内部迭代"
     },
     {
+      "from": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
+    },
+    {
+      "from": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
+    },
+    {
+      "from": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed assumptions squeeze compounding into S-curves"
+    },
+    {
+      "from": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The average is residue, not the engine"
+    },
+    {
       "from": "minimizing-path",
       "to": "fidelity-not-optimality",
       "rel": "points_to",
@@ -11105,6 +11162,12 @@
       "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
     },
     {
+      "from": "qian-yin-hou-guo",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "幂律是结果的表象，不是生成的逻辑"
+    },
+    {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
@@ -12537,6 +12600,12 @@
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "幂律是结果的表象，不是生成的逻辑"
     },
     {
       "from": "the-average-is-residue-not-the-engine",

@@ -182,6 +182,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Ink-wash to cosmic-diagram panorama** | Full-bleed split: sepia ink landscape, bamboo slip and brush left; gold river seam; indigo constellation, open diagram-book and geodesic sphere right | `du-zhongwen-zhexue-jianshi-you-gan` |
 | **Cinematic split-ledger / crack-bisected figure** | Full-bleed dual field: warm sunlit path and glowing personal ledger left; vertical earth-crack through a back-turned figure; cold ruin, scales, fractured colossal head, and crowd right | `the-irreducible-prior-of-decision-and-consequence` |
 | **Cinematic sealed-chamber / luminous-mind dual** | Full-bleed split: dark circular vault, checkerboard, glass cubes and geodesic sphere left; golden mountain pass, figure on cliff, translucent neural head and branching tree right | `on-closed-systems-open-minds-and-the-limits-of-proof` |
+| **Particle-flow compounding panorama** | Dark navy void; silver bell-curve dissolving into particle scatter; three orbital spheres (factory, tree, circuit); silver-to-gold compounding streams | `mi-lv-shi-jie-guo-de-biao-xiang` |
 
 ## Inventory (by slug)
 
@@ -236,6 +237,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `looping-and-graphing` | Technical blueprint / diazo |
 | `lossless-knowledge-of-an-open-field-is-incoherent` | Cloisonné / enamel medallion |
 | `mei-you-pu-du-zhi-you-zi-du` | Dark chalk / light trails |
+| `mi-lv-shi-jie-guo-de-biao-xiang` | Particle-flow compounding panorama |
 | `moral-language-dilutes-the-feedback-that-scales-freedom` | Dual-field spiral feedback allegory |
 | `mistaking-the-expression-for-the-intelligence` | Graphite pencil study on toned paper |
 | `no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind` | Möbius paper sculpture still |
