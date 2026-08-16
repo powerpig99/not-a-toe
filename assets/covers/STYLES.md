@@ -179,6 +179,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Monumental ranking hall / concrete interior** | Cool concrete hall, mixed stone–wood vertical bars, three horizontal luminous lines, lone figure facing the outlier column, raking window light, polished floor | `the-hours-ranking-freezes-adequacy-as-one-scoreboard` |
 | **Cinematic alpine trail / parchment map** | Photoreal mountain valley at sunrise, worn dirt path through fog, rolled parchment route-map in the foreground, title set in the sky | `the-map-after-the-territory` |
 | **Cinematic dual-bank / cracked-sphere allegory** | Photoreal split landscape: storm-barren bank with seated observer, sunlit valley with standing figure, river cut, cracked stone sphere and eye between | `sowell-observed-the-surface-problem` |
+| **Ink-wash to cosmic-diagram panorama** | Full-bleed split: sepia ink landscape, bamboo slip and brush left; gold river seam; indigo constellation, open diagram-book and geodesic sphere right | `du-zhongwen-zhexue-jianshi-you-gan` |
 
 ## Inventory (by slug)
 
@@ -204,6 +205,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `consciousness-never-appears-as-data-among-data` | Cinematic silhouette / luminous network spiral |
 | `curiosity-first-the-hidden-engine-of-talent-and-development` | Dendrochronology / polished tree-ring section |
 | `data-is-local-intelligence-is-allocated` | Terrazzo / polished aggregate still |
+| `du-zhongwen-zhexue-jianshi-you-gan` | Ink-wash to cosmic-diagram panorama |
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
 | `exceptionality-perception-and-the-self-limiting-field-of-problems` | Natural-history specimen drawer still |
 | `empowerment-establishes-the-centralization-of-power` | Sealing-wax / official seal still |

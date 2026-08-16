@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-15T17:59:49.227Z",
+    "generated_at": "2026-08-16T07:41:59.307Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -41,6 +41,7 @@
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "8f500c34f2c4",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
+      "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "0f8c8b9933cc",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "e80e0293548e",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
@@ -71,7 +72,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "0e62f7696cdd",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "00f6b35e826c",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -89,7 +90,7 @@
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
-      "content/posts/no-system-can-be-kept-closed.md": "e82ffa0cf137",
+      "content/posts/no-system-can-be-kept-closed.md": "9e5ff2ac9f05",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
@@ -111,7 +112,7 @@
       "content/posts/price-as-utterance-understanding-as-trade.md": "3044ff41ff78",
       "content/posts/production-consumption-and-the-minds-distinction.md": "59bd2266e262",
       "content/posts/public-spending-does-not-create-capital.md": "7c856d81c7e9",
-      "content/posts/qian-yin-hou-guo.md": "647124a8db25",
+      "content/posts/qian-yin-hou-guo.md": "85bf55bf7e51",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
@@ -152,7 +153,7 @@
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "aab8fde66b9c",
       "content/posts/the-illusion-of-free-intelligence.md": "1777907196fe",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
-      "content/posts/the-initial-distinction.md": "4ed54bdf523a",
+      "content/posts/the-initial-distinction.md": "09cd6b3668c4",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-limitation-is-doing-work.md": "ebff2fbf2a2e",
       "content/posts/the-living-context.md": "802b03eb6a18",
@@ -160,7 +161,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-map-after-the-territory.md": "b9882ace9c8c",
-      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "a7c79e42ee6a",
+      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "8a1a6c780055",
       "content/posts/the-model-never-becomes-a-second-edge.md": "a9ea905964fb",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
@@ -182,7 +183,7 @@
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "94dd360f407c",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
-      "content/posts/the-scaffolding-we-forget.md": "0b8122bf7040",
+      "content/posts/the-scaffolding-we-forget.md": "eaf81672a374",
       "content/posts/the-source-of-all-harm.md": "01acb646930e",
       "content/posts/the-source-of-shared-change.md": "80e99c4c1a1f",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
@@ -211,13 +212,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 201,
-      "edges": 1999,
-      "unique_directed": 1976,
+      "posts": 202,
+      "edges": 2011,
+      "unique_directed": 1988,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 146
+      "posts_with_outbound": 147
     }
   },
   "hubs_in": [
@@ -231,11 +232,11 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 40
+      "in_degree": 41
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 37
+      "in_degree": 38
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -251,7 +252,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 29
+      "in_degree": 30
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -305,7 +306,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 40
+      "out_degree": 41
     },
     {
       "slug": "openness-is-consistency",
@@ -313,7 +314,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "out_degree": 33
+      "out_degree": 34
     },
     {
       "slug": "not-a-theory-of-everything",
@@ -344,11 +345,11 @@
       "out_degree": 26
     },
     {
-      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "out_degree": 25
+      "slug": "the-scaffolding-we-forget",
+      "out_degree": 26
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "out_degree": 25
     },
     {
@@ -1114,6 +1115,24 @@
       ]
     },
     {
+      "id": "post:du-zhongwen-zhexue-jianshi-you-gan",
+      "kind": "post",
+      "slug": "du-zhongwen-zhexue-jianshi-you-gan",
+      "path": "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md",
+      "title": "读《中文哲学简史》有感",
+      "hash": "0f8c8b9933cc",
+      "in_degree": 6,
+      "out_degree": 6,
+      "links_out": [
+        "qian-yin-hou-guo",
+        "the-meaning-of-life-is-in-the-drafting",
+        "the-scaffolding-we-forget",
+        "no-system-can-be-kept-closed",
+        "individual-choices-as-the-only-causal-levers",
+        "the-initial-distinction"
+      ]
+    },
+    {
       "id": "post:efficiency-without-differentiation",
       "kind": "post",
       "slug": "efficiency-without-differentiation",
@@ -1679,9 +1698,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "0e62f7696cdd",
-      "in_degree": 37,
-      "out_degree": 40,
+      "hash": "00f6b35e826c",
+      "in_degree": 38,
+      "out_degree": 41,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -1707,6 +1726,7 @@
         "hierarchy-from-individual-difference",
         "residual-individualism",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+        "du-zhongwen-zhexue-jianshi-you-gan",
         "openness-is-consistency",
         "how-belief-actually-changes",
         "hardness-is-not-inherent-in-the-action",
@@ -2084,9 +2104,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
-      "hash": "e82ffa0cf137",
-      "in_degree": 40,
-      "out_degree": 33,
+      "hash": "9e5ff2ac9f05",
+      "in_degree": 41,
+      "out_degree": 34,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -2095,6 +2115,7 @@
         "data-is-local-intelligence-is-allocated",
         "the-path-drawn-one-step-at-a-time",
         "the-scaffolding-we-forget",
+        "du-zhongwen-zhexue-jianshi-you-gan",
         "clarity-isnt-a-state-you-arrive-at",
         "the-utility-men-of-progress",
         "pessimism-is-the-shadow-of-optimism",
@@ -2630,11 +2651,12 @@
       "slug": "qian-yin-hou-guo",
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果",
-      "hash": "647124a8db25",
-      "in_degree": 6,
-      "out_degree": 11,
+      "hash": "85bf55bf7e51",
+      "in_degree": 7,
+      "out_degree": 12,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
+        "du-zhongwen-zhexue-jianshi-you-gan",
         "causality-all-the-way",
         "guan-yu-gui-yin",
         "individual-choices-as-the-only-causal-levers",
@@ -3540,12 +3562,13 @@
       "slug": "the-initial-distinction",
       "path": "content/posts/the-initial-distinction.md",
       "title": "The Initial Distinction, where the rationalism attempted to and failed to escape irrationality",
-      "hash": "4ed54bdf523a",
-      "in_degree": 4,
-      "out_degree": 4,
+      "hash": "09cd6b3668c4",
+      "in_degree": 5,
+      "out_degree": 5,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "how-belief-actually-changes",
+        "du-zhongwen-zhexue-jianshi-you-gan",
         "help-is-half-the-problem",
         "openness-is-consistency"
       ]
@@ -3638,13 +3661,14 @@
       "slug": "the-meaning-of-life-is-in-the-drafting",
       "path": "content/posts/the-meaning-of-life-is-in-the-drafting.md",
       "title": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing",
-      "hash": "a7c79e42ee6a",
-      "in_degree": 12,
-      "out_degree": 14,
+      "hash": "8a1a6c780055",
+      "in_degree": 13,
+      "out_degree": 15,
       "links_out": [
         "when-observation-becomes-performance",
         "the-path-drawn-one-step-at-a-time",
         "the-map-after-the-territory",
+        "du-zhongwen-zhexue-jianshi-you-gan",
         "writing-without-the-image",
         "what-cannot-be-kept",
         "ownership-and-self-worthiness",
@@ -4185,15 +4209,16 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
-      "hash": "0b8122bf7040",
-      "in_degree": 29,
-      "out_degree": 25,
+      "hash": "eaf81672a374",
+      "in_degree": 30,
+      "out_degree": 26,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-path-drawn-one-step-at-a-time",
         "openness-is-consistency",
         "production-consumption-and-the-minds-distinction",
         "complexity-obscures-emergence-as-the-act-of-mind",
+        "du-zhongwen-zhexue-jianshi-you-gan",
         "clarity-isnt-a-state-you-arrive-at",
         "self-rl-for-humans",
         "the-coordinators-category-error",
@@ -6592,6 +6617,42 @@
       "label": "Lossless knowledge of an open field is incoherent"
     },
     {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The meaning of life is in the drafting"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "the-initial-distinction",
+      "rel": "points_to",
+      "label": "The initial distinction"
+    },
+    {
       "from": "emotional-support-as-causal-interference",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
@@ -8009,6 +8070,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "读《中文哲学简史》有感"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
@@ -9086,6 +9153,12 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The scaffolding we forget"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "读《中文哲学简史》有感"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -10832,6 +10905,12 @@
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
       "label": "The path drawn one step at a time"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "读《中文哲学简史》有感"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -13205,6 +13284,12 @@
     },
     {
       "from": "the-initial-distinction",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "读《中文哲学简史》有感"
+    },
+    {
+      "from": "the-initial-distinction",
       "to": "help-is-half-the-problem",
       "rel": "points_to",
       "label": "Help is half the problem"
@@ -13256,6 +13341,12 @@
       "to": "the-map-after-the-territory",
       "rel": "points_to",
       "label": "Self-improvement writing is The Map After the Territory"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "读《中文哲学简史》有感"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
@@ -15086,6 +15177,12 @@
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "complexity obscures: emergence as the act of Mind"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "读《中文哲学简史》有感"
     },
     {
       "from": "the-scaffolding-we-forget",
