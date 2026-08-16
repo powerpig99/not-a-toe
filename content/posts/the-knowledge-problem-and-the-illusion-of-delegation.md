@@ -2,13 +2,25 @@
 
 *Property rules and every other delegation interpret incompleteness; they do not gather knowledge or move the load.*
 
-Hayek’s observation that economic and social knowledge is dispersed, local, and tacit is accurate as far as it reaches. Public-property concentration is the severe symptom of that incompleteness; private residual claimancy is the milder one. Elevating the milder form as the causal solution claims a completeness the same constraint forbids, and the overlays that then protect the design recreate concentration under the language of private property. What looks like delegation never transfers consequence; institutionalization is the collective expression of an individual-level misallocation of agency.
+A 1977 argument over the case for private property treats the question as one of competing designs. Hayek’s observation that knowledge is dispersed, local, and tacit is accurate as far as it reaches: public-property concentration is the severe symptom of that incompleteness, private residual claimancy the milder one. Elevating the milder form as the causal solution claims a completeness the same constraint forbids, and the overlays that then protect the design recreate concentration under the language of private property. What looks like delegation never transfers consequence; institutionalization is the collective expression of an individual-level misallocation of agency.
+
+## The panel already argues over design
+
+In 1977 William F. Buckley put Friedrich Hayek and George Roche on *Firing Line* with Jeff Greenfield as examiner, under the title *Is There a Case for Private Property?* The hour is a contest over which arrangement should govern.
+
+Hayek’s case is not that owners are entitled. Knowledge of particular facts sits in fragments no single mind or committee can hold. The market, he says, is an undesigned instrument that uses those fragments through prices; a designed just distribution would require a central authority to possess what is permanently dispersed; “social justice” applied to an impersonal process nobody controls is empty. Redistribution after the fact treats people unequally in order to make them equal, and once taking from some to give to others is authorized there is no general rule. He also names the assumption the hour never leaves: the idea that we can design social institutions in their working is, on his own account, mistaken.
+
+Roche answers on a different axis. Social justice is nearly a contradiction, because the same egalitarian frame that denies a moral source then claims to assign shares by quantification, undercutting the individual choices in which morality still has content.
+
+Greenfield presses the opposite design. If racial exclusion from the vote is nameable as injustice, a norm already exists. Formal equality that forbids rich and poor alike from sleeping under bridges leaves the real inequality untouched. A simple rule — make money as you see fit, take a stated share to relieve the poor, or equalize the resources of candidates — is still a rule, not the administrative intervention *The Road to Serfdom* warned against.
+
+Buckley tests the middle: whether justice can arrive after the market has distributed, by taking from those with more than they need. Hayek’s reply is that the knowledge required to judge that “more” is the same dispersed stock no one holds.
+
+None of the four has complete knowledge to argue for anyone but themselves.
 
 ## Knowledge is permanently incomplete
 
-Friedrich Hayek’s central insight—that economic and social knowledge is radically dispersed, incomplete, local, and often tacit—remains one of the most consequential observations in social theory. No single mind, and no committee of minds, can possess a complete stock of what would be required to allocate resources or design society optimally. The pieces do not sit elsewhere waiting to be gathered. Finite minds register partially; the field continues. This epistemic constraint is not a temporary obstacle that better institutions or better planners can eventually overcome. It is permanent.
-
-The argument for exclusive control is not that owners are entitled. It is that no one can have sufficient information without acting on the fragments they actually hold. Taken seriously, that logic reaches further than the case for any particular arrangement. None of the participants has complete knowledge to argue for anyone but themselves.
+Friedrich Hayek’s central insight—that economic and social knowledge is radically dispersed, incomplete, local, and often tacit—remains one of the most consequential observations in social theory. No single mind, and no committee of minds, can possess a complete stock of what would be required to allocate resources or design society optimally. The pieces do not sit elsewhere waiting to be gathered. Finite minds register partially; the field continues. This epistemic constraint is not a temporary obstacle that better institutions or better planners can eventually overcome. It is permanent. Taken seriously, that logic reaches further than the case for any particular arrangement.
 
 [Lossless knowledge of an open field is incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) is that same bound under capture costume: complete registration of ongoing distinguishing contradicts centered activity.
 
