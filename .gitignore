@@ -6,3 +6,7 @@ export/*
 
 # Session resume graphs (bridge / sleep)
 memory/
+
+# Local harness + project knowledge leaf (not published)
+.claude/
+.grok/
