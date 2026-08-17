@@ -186,6 +186,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Aerial pack-ice / polar lead** | Full-bleed downward aerial; discrete silver-blue floes of uneven size on charcoal open water; raking polar light; crystalline grain; field never reconstitutes into one sheet | `the-knowledge-problem-and-the-illusion-of-delegation` |
 | **Cinematic mist-to-gold compounding panorama** | Cool fog and white point-cloud bell left; golden winding path through dark mountains; steep gold particle spike right with climbing silhouettes | `power-law-is-the-long-term-consequence-of-normal-distribution` |
 | **Cinematic split / wireframe-head and tape-debris** | Cool misty water and translucent wireframe head left; figure on a cracked path; dark right with clocks, chart fragments, shatter; gold seam | `the-paradox-of-fundamentals-is-the-unaware-switch-of-reference` |
+| **Cinematic split / lens-cut flux and measure** | Dark void; warm organic waves, golden cubes, and figures left; vertical crescent lens on a glowing base; cool blue pyramid, wireframe mountains, scales, and meters right | `the-observational-cut-in-ai-debates` |
 
 ## Inventory (by slug)
 
@@ -287,6 +288,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-model-never-becomes-a-second-edge` | Gouache narrative still life |
 | `the-myth-of-population-collapse-explained` | Operant maze / conditioning apparatus still |
 | `the-non-definitive-definition-of-intelligence` | Cyanotype |
+| `the-observational-cut-in-ai-debates` | Cinematic split / lens-cut flux and measure |
 | `the-npc-impression-is-structural` | Sgraffito plaster / scraped fresco |
 | `the-path-drawn-one-step-at-a-time` | Cinematic dual-path |
 | `the-paradox-of-fundamentals-is-the-unaware-switch-of-reference` | Cinematic split / wireframe-head and tape-debris |

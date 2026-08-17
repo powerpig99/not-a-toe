@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-17T06:24:44.090Z",
+    "generated_at": "2026-08-17T08:28:30.013Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -15,7 +15,7 @@
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "faf892063e82",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5d005f5a7e41",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "c38d1c3e5b95",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "fd9d3cf5c73a",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "2cf0851ac626",
@@ -153,7 +153,7 @@
       "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
-      "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "aab8fde66b9c",
+      "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
       "content/posts/the-illusion-of-free-intelligence.md": "1777907196fe",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "09cd6b3668c4",
@@ -171,12 +171,13 @@
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "9b3876d77a5b",
+      "content/posts/the-observational-cut-in-ai-debates.md": "170100d442c0",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "a957aa4aa8fe",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "16d0097ce60c",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "e974544cc099",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "af92c141bd54",
       "content/posts/the-price-of-closing-optionality.md": "181e0ec3ab51",
-      "content/posts/the-question-that-installs-the-war.md": "a1f2eee52b47",
+      "content/posts/the-question-that-installs-the-war.md": "f554178d2df7",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "6f4064d37dd5",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "3763c8faf4bb",
@@ -185,7 +186,7 @@
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "a396e946d072",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4af688fa6b26",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "876cca9b0963",
-      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "9634e8b62f34",
+      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "fae56a2911a4",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "94dd360f407c",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
@@ -211,20 +212,20 @@
       "content/posts/when-need-stops-being-the-measure.md": "ff23d1d0c5f3",
       "content/posts/when-observation-becomes-performance.md": "44b0740cc91b",
       "content/posts/when-the-effect-authors-the-frame.md": "62b9a8fd1c84",
-      "content/posts/why-explanation-fails.md": "b6c6dc19048e",
+      "content/posts/why-explanation-fails.md": "608ce06ef580",
       "content/posts/why-mathematics-can-never-be-solved.md": "99a49d1f0dea",
       "content/posts/writing-without-the-image.md": "9009b34790ea",
       "content/posts/you-cant-benchmark-the-fluid.md": "cc314ae189a8",
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 208,
-      "edges": 2069,
-      "unique_directed": 2046,
+      "posts": 209,
+      "edges": 2079,
+      "unique_directed": 2056,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 153
+      "posts_with_outbound": 154
     }
   },
   "hubs_in": [
@@ -572,14 +573,15 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
-      "hash": "c38d1c3e5b95",
-      "in_degree": 19,
-      "out_degree": 20,
+      "hash": "fd9d3cf5c73a",
+      "in_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
         "the-scaffolding-we-forget",
         "hassabis-frontier-agi-premise",
+        "the-observational-cut-in-ai-debates",
         "mistaking-the-expression-for-the-intelligence",
         "why-mathematics-can-never-be-solved",
         "escaping-the-sandbox-stays-inside-the-hold",
@@ -3570,16 +3572,17 @@
       "slug": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "path": "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md",
       "title": "The Hours Ranking Freezes Adequacy as One Scoreboard",
-      "hash": "aab8fde66b9c",
-      "in_degree": 6,
-      "out_degree": 6,
+      "hash": "1940f495097f",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "the-average-is-residue-not-the-engine",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "when-the-effect-authors-the-frame",
         "symptom-and-cause-in-the-narratives-of-progress",
-        "residual-individualism"
+        "residual-individualism",
+        "the-observational-cut-in-ai-debates"
       ]
     },
     {
@@ -3912,6 +3915,23 @@
       ]
     },
     {
+      "id": "post:the-observational-cut-in-ai-debates",
+      "kind": "post",
+      "slug": "the-observational-cut-in-ai-debates",
+      "path": "content/posts/the-observational-cut-in-ai-debates.md",
+      "title": "The Observational Cut in AI Debates",
+      "hash": "170100d442c0",
+      "in_degree": 5,
+      "out_degree": 5,
+      "links_out": [
+        "the-question-that-installs-the-war",
+        "why-explanation-fails",
+        "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+        "the-risk-is-the-belief-in-oversight-itself",
+        "agi-and-asi-are-temporary-goalposts"
+      ]
+    },
+    {
       "id": "post:the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
       "kind": "post",
       "slug": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
@@ -4038,13 +4058,14 @@
       "slug": "the-question-that-installs-the-war",
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "The Question That Installs the War",
-      "hash": "a1f2eee52b47",
-      "in_degree": 9,
-      "out_degree": 6,
+      "hash": "f554178d2df7",
+      "in_degree": 10,
+      "out_degree": 7,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "externalized-virtue-becomes-its-opposite",
         "reality-is-the-minds-ongoing-realization",
+        "the-observational-cut-in-ai-debates",
         "the-climate-problem-registers-only-as-perception",
         "preference-clusters-and-the-language-of-judgment",
         "the-belief-in-utopia-is-the-path-to-dystopia"
@@ -4271,10 +4292,11 @@
       "slug": "the-risk-is-the-belief-in-oversight-itself",
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
       "title": "The Risk Is the Belief in Oversight Itself",
-      "hash": "9634e8b62f34",
-      "in_degree": 14,
-      "out_degree": 19,
+      "hash": "fae56a2911a4",
+      "in_degree": 15,
+      "out_degree": 20,
       "links_out": [
+        "the-observational-cut-in-ai-debates",
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
         "escaping-the-sandbox-stays-inside-the-hold",
@@ -4833,12 +4855,13 @@
       "slug": "why-explanation-fails",
       "path": "content/posts/why-explanation-fails.md",
       "title": "Why Explanation Fails",
-      "hash": "b6c6dc19048e",
-      "in_degree": 3,
-      "out_degree": 2,
+      "hash": "608ce06ef580",
+      "in_degree": 4,
+      "out_degree": 3,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
-        "how-belief-actually-changes"
+        "how-belief-actually-changes",
+        "the-observational-cut-in-ai-debates"
       ]
     },
     {
@@ -5323,6 +5346,12 @@
       "to": "hassabis-frontier-agi-premise",
       "rel": "points_to",
       "label": "The catalog that isn’t there"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The observational cut in AI debates"
     },
     {
       "from": "agi-and-asi-are-temporary-goalposts",
@@ -13443,6 +13472,12 @@
       "label": "Residual individualism"
     },
     {
+      "from": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The observational cut in AI debates"
+    },
+    {
       "from": "the-illusion-of-free-intelligence",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
@@ -14241,6 +14276,36 @@
       "label": "Sympathy is a placeholder for lack of clarity"
     },
     {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The question that installs the war"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "why-explanation-fails",
+      "rel": "points_to",
+      "label": "Why explanation fails"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+      "rel": "points_to",
+      "label": "The hours ranking freezes adequacy as one scoreboard"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The risk is the belief in oversight itself"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI are temporary goalposts"
+    },
+    {
       "from": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
@@ -14629,6 +14694,12 @@
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "Reality is the Mind's ongoing realization"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The observational cut in AI debates"
     },
     {
       "from": "the-question-that-installs-the-war",
@@ -15373,6 +15444,12 @@
       "to": "residual-individualism",
       "rel": "points_to",
       "label": "Residual individualism"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The observational cut in AI debates"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
@@ -17149,6 +17226,12 @@
       "to": "how-belief-actually-changes",
       "rel": "points_to",
       "label": "How belief actually changes"
+    },
+    {
+      "from": "why-explanation-fails",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The observational cut in AI debates"
     },
     {
       "from": "why-mathematics-can-never-be-solved",
