@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-16T20:10:11.401Z",
+    "generated_at": "2026-08-17T05:08:53.750Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -29,7 +29,7 @@
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "3b3177a38140",
-      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "0fe0b5225466",
+      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "b6a36427b912",
       "content/posts/closed-reality-in-benchmark-maxing.md": "bf12c4eac2ea",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ae1e874dfdf6",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "870784c953a3",
@@ -60,7 +60,7 @@
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "d43109f0b737",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
-      "content/posts/guan-yu-gui-yin.md": "9ba214cba942",
+      "content/posts/guan-yu-gui-yin.md": "698c821dfc59",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "f3616fb19b43",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
@@ -82,7 +82,7 @@
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "ea842bb4527b",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "8aaff5b7fd36",
-      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "ebf019c2cbce",
+      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "634293b4399b",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "cbe3516728e9",
@@ -102,7 +102,7 @@
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
       "content/posts/openness-is-consistency.md": "395fd606a7fb",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "ab34cc150580",
+      "content/posts/ownership-and-self-worthiness.md": "bcb7410f50f8",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "9f9598e7f790",
@@ -110,6 +110,7 @@
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "659d441ca9fb",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "008f74b4f474",
+      "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "0bbe3e899e05",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "1cb0d8ca3e76",
       "content/posts/price-as-utterance-understanding-as-trade.md": "3044ff41ff78",
       "content/posts/production-consumption-and-the-minds-distinction.md": "59bd2266e262",
@@ -216,13 +217,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 206,
-      "edges": 2053,
-      "unique_directed": 2030,
+      "posts": 207,
+      "edges": 2061,
+      "unique_directed": 2038,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 151
+      "posts_with_outbound": 152
     }
   },
   "hubs_in": [
@@ -244,7 +245,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 31
+      "in_degree": 32
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -361,16 +362,16 @@
       "out_degree": 24
     },
     {
+      "slug": "ownership-and-self-worthiness",
+      "out_degree": 24
+    },
+    {
       "slug": "preference-clusters-and-the-language-of-judgment",
       "out_degree": 24
     },
     {
       "slug": "what-works-is-the-belief",
       "out_degree": 24
-    },
-    {
-      "slug": "ownership-and-self-worthiness",
-      "out_degree": 23
     },
     {
       "slug": "reality-is-the-minds-ongoing-realization",
@@ -870,9 +871,9 @@
       "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "Closed Assumptions Squeeze Compounding into S-Curves",
-      "hash": "0fe0b5225466",
-      "in_degree": 20,
-      "out_degree": 20,
+      "hash": "b6a36427b912",
+      "in_degree": 21,
+      "out_degree": 21,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
@@ -893,7 +894,8 @@
         "the-scaffolding-we-forget",
         "the-rational-choice-postulate-is-the-original-sin",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
-        "mi-lv-shi-jie-guo-de-biao-xiang"
+        "mi-lv-shi-jie-guo-de-biao-xiang",
+        "power-law-is-the-long-term-consequence-of-normal-distribution"
       ]
     },
     {
@@ -1484,14 +1486,15 @@
       "slug": "guan-yu-gui-yin",
       "path": "content/posts/guan-yu-gui-yin.md",
       "title": "关于归因：从事实到因果，从外部节点到内部迭代",
-      "hash": "9ba214cba942",
-      "in_degree": 5,
-      "out_degree": 5,
+      "hash": "698c821dfc59",
+      "in_degree": 6,
+      "out_degree": 6,
       "links_out": [
         "qian-yin-hou-guo",
         "openness-is-consistency",
         "cheng-gong-xue",
         "ownership-and-self-worthiness",
+        "power-law-is-the-long-term-consequence-of-normal-distribution",
         "mei-you-pu-du-zhi-you-zi-du"
       ]
     },
@@ -1963,14 +1966,15 @@
       "slug": "mi-lv-shi-jie-guo-de-biao-xiang",
       "path": "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md",
       "title": "幂律是结果的表象，不是生成的逻辑",
-      "hash": "ebf019c2cbce",
-      "in_degree": 4,
-      "out_degree": 4,
+      "hash": "634293b4399b",
+      "in_degree": 5,
+      "out_degree": 5,
       "links_out": [
         "qian-yin-hou-guo",
         "cheng-gong-xue",
         "closed-assumptions-squeeze-compounding-into-s-curves",
-        "the-average-is-residue-not-the-engine"
+        "the-average-is-residue-not-the-engine",
+        "power-law-is-the-long-term-consequence-of-normal-distribution"
       ]
     },
     {
@@ -2396,11 +2400,12 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "ab34cc150580",
-      "in_degree": 31,
-      "out_degree": 23,
+      "hash": "bcb7410f50f8",
+      "in_degree": 32,
+      "out_degree": 24,
       "links_out": [
         "the-irreducible-prior-of-decision-and-consequence",
+        "power-law-is-the-long-term-consequence-of-normal-distribution",
         "sowell-observed-the-surface-problem",
         "residual-control-recedes-to-the-edge",
         "guan-yu-gui-yin",
@@ -2566,6 +2571,22 @@
         "openness-is-consistency",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "clarity-isnt-a-state-you-arrive-at"
+      ]
+    },
+    {
+      "id": "post:power-law-is-the-long-term-consequence-of-normal-distribution",
+      "kind": "post",
+      "slug": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "path": "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md",
+      "title": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making",
+      "hash": "0bbe3e899e05",
+      "in_degree": 4,
+      "out_degree": 4,
+      "links_out": [
+        "ownership-and-self-worthiness",
+        "guan-yu-gui-yin",
+        "mi-lv-shi-jie-guo-de-biao-xiang",
+        "closed-assumptions-squeeze-compounding-into-s-curves"
       ]
     },
     {
@@ -6141,6 +6162,12 @@
       "label": "幂律是结果的表象，不是生成的逻辑"
     },
     {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+    },
+    {
       "from": "closed-reality-in-benchmark-maxing",
       "to": "you-cant-benchmark-the-fluid",
       "rel": "points_to",
@@ -7570,6 +7597,12 @@
     },
     {
       "from": "guan-yu-gui-yin",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+    },
+    {
+      "from": "guan-yu-gui-yin",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
@@ -8913,6 +8946,12 @@
       "label": "The average is residue, not the engine"
     },
     {
+      "from": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+    },
+    {
       "from": "minimizing-path",
       "to": "fidelity-not-optimality",
       "rel": "points_to",
@@ -10132,6 +10171,12 @@
     },
     {
       "from": "ownership-and-self-worthiness",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
       "label": "Sowell observed the surface problem"
@@ -10651,6 +10696,30 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "关于归因：从事实到因果，从外部节点到内部迭代"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "幂律是结果的表象，不是生成的逻辑"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed assumptions squeeze compounding into S-curves"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
