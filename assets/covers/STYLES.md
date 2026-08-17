@@ -184,6 +184,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic sealed-chamber / luminous-mind dual** | Full-bleed split: dark circular vault, checkerboard, glass cubes and geodesic sphere left; golden mountain pass, figure on cliff, translucent neural head and branching tree right | `on-closed-systems-open-minds-and-the-limits-of-proof` |
 | **Particle-flow compounding panorama** | Dark navy void; silver bell-curve dissolving into particle scatter; three orbital spheres (factory, tree, circuit); silver-to-gold compounding streams | `mi-lv-shi-jie-guo-de-biao-xiang` |
 | **Aerial pack-ice / polar lead** | Full-bleed downward aerial; discrete silver-blue floes of uneven size on charcoal open water; raking polar light; crystalline grain; field never reconstitutes into one sheet | `the-knowledge-problem-and-the-illusion-of-delegation` |
+| **Cinematic mist-to-gold compounding panorama** | Cool fog and white point-cloud bell left; golden winding path through dark mountains; steep gold particle spike right with climbing silhouettes | `power-law-is-the-long-term-consequence-of-normal-distribution` |
 
 ## Inventory (by slug)
 
@@ -248,6 +249,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `open-vision-in-a-closed-arena` | Limestone bas-relief / architectural frieze |
 | `openness-is-consistency` | Painterly glass / gold path |
 | `pessimism-is-the-shadow-of-optimism` | Open assay balance still |
+| `power-law-is-the-long-term-consequence-of-normal-distribution` | Cinematic mist-to-gold compounding panorama |
 | `politicians-appear-as-visible-symptoms-of-responsibility-diffusion` | Wayang kulit / shadow-puppet screen |
 | `ontos-is-a-method-agent` | Urushi lacquer / maki-e still |
 | `ownership-and-self-worthiness` | Dark chalk / light trails |
