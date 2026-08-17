@@ -187,6 +187,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic mist-to-gold compounding panorama** | Cool fog and white point-cloud bell left; golden winding path through dark mountains; steep gold particle spike right with climbing silhouettes | `power-law-is-the-long-term-consequence-of-normal-distribution` |
 | **Cinematic split / wireframe-head and tape-debris** | Cool misty water and translucent wireframe head left; figure on a cracked path; dark right with clocks, chart fragments, shatter; gold seam | `the-paradox-of-fundamentals-is-the-unaware-switch-of-reference` |
 | **Cinematic split / lens-cut flux and measure** | Dark void; warm organic waves, golden cubes, and figures left; vertical crescent lens on a glowing base; cool blue pyramid, wireframe mountains, scales, and meters right | `the-observational-cut-in-ai-debates` |
+| **Cinematic path / iteration-loop icons** | Dark barren left with broken chain; central walker on a luminous path ringed by five glowing cycle icons; gold valley, tree, and connected figures right | `ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng` |
 
 ## Inventory (by slug)
 
@@ -262,6 +263,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `production-consumption-and-the-minds-distinction` | Photoreal tableau |
 | `public-spending-does-not-create-capital` | Exchequer counting-board still |
 | `reality-is-the-minds-ongoing-realization` | Comic halftone / Ben-Day dots |
+| `ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng` | Cinematic path / iteration-loop icons |
 | `restriction-is-a-selective-tax` | Bokashi woodblock / graded indigo print |
 | `self-rl-for-humans` | Dark chalk / light trails |
 | `self-image-speaks-as-if-from-nowhere` | Trompe-l’oeil recursive frame still |

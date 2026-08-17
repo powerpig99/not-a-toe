@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-17T08:28:30.013Z",
+    "generated_at": "2026-08-17T11:36:09.035Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -60,7 +60,7 @@
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "d43109f0b737",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
-      "content/posts/guan-yu-gui-yin.md": "698c821dfc59",
+      "content/posts/guan-yu-gui-yin.md": "db28e64041aa",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "f3616fb19b43",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
@@ -81,7 +81,7 @@
       "content/posts/looping-and-graphing.md": "b2acdecafde8",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "5ea782d92c6b",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "8aaff5b7fd36",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "b903819a6709",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "634293b4399b",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
@@ -119,6 +119,7 @@
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
+      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "d86156e62d45",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
       "content/posts/residual-individualism.md": "0f89120de59f",
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
@@ -140,7 +141,7 @@
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-average-is-residue-not-the-engine.md": "123695e9e8b0",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
-      "content/posts/the-brain-does-not-backprop.md": "90ccd4619ab1",
+      "content/posts/the-brain-does-not-backprop.md": "d2f1958b9ac3",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
@@ -219,13 +220,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 209,
-      "edges": 2079,
-      "unique_directed": 2056,
+      "posts": 210,
+      "edges": 2085,
+      "unique_directed": 2062,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 154
+      "posts_with_outbound": 155
     }
   },
   "hubs_in": [
@@ -250,15 +251,15 @@
       "in_degree": 32
     },
     {
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
+      "in_degree": 31
+    },
+    {
       "slug": "the-scaffolding-we-forget",
       "in_degree": 31
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 30
-    },
-    {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
       "in_degree": 30
     },
     {
@@ -1490,15 +1491,16 @@
       "slug": "guan-yu-gui-yin",
       "path": "content/posts/guan-yu-gui-yin.md",
       "title": "关于归因：从事实到因果，从外部节点到内部迭代",
-      "hash": "698c821dfc59",
-      "in_degree": 6,
-      "out_degree": 6,
+      "hash": "db28e64041aa",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
         "qian-yin-hou-guo",
         "openness-is-consistency",
         "cheng-gong-xue",
         "ownership-and-self-worthiness",
         "power-law-is-the-long-term-consequence-of-normal-distribution",
+        "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "mei-you-pu-du-zhi-you-zi-du"
       ]
     },
@@ -1940,10 +1942,11 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "8aaff5b7fd36",
-      "in_degree": 30,
-      "out_degree": 19,
+      "hash": "b903819a6709",
+      "in_degree": 31,
+      "out_degree": 20,
       "links_out": [
+        "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "empowerment-establishes-the-centralization-of-power",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -2809,6 +2812,21 @@
       ]
     },
     {
+      "id": "post:ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "kind": "post",
+      "slug": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "path": "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md",
+      "title": "人生是一个持续的自我迭代过程",
+      "hash": "d86156e62d45",
+      "in_degree": 3,
+      "out_degree": 3,
+      "links_out": [
+        "guan-yu-gui-yin",
+        "mei-you-pu-du-zhi-you-zi-du",
+        "the-brain-does-not-backprop"
+      ]
+    },
+    {
       "id": "post:residual-control-recedes-to-the-edge",
       "kind": "post",
       "slug": "residual-control-recedes-to-the-edge",
@@ -3337,10 +3355,11 @@
       "slug": "the-brain-does-not-backprop",
       "path": "content/posts/the-brain-does-not-backprop.md",
       "title": "The Brain Does Not Backprop, but Propagates",
-      "hash": "90ccd4619ab1",
-      "in_degree": 3,
-      "out_degree": 1,
+      "hash": "d2f1958b9ac3",
+      "in_degree": 4,
+      "out_degree": 2,
       "links_out": [
+        "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "the-flight-analogy-leaves-the-mind-untouched"
       ]
     },
@@ -7659,6 +7678,12 @@
     },
     {
       "from": "guan-yu-gui-yin",
+      "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "rel": "points_to",
+      "label": "人生是一个持续的自我迭代过程"
+    },
+    {
+      "from": "guan-yu-gui-yin",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
@@ -8868,6 +8893,12 @@
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
       "label": "Potential infinity and the temporary closures of mathematical thought"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "rel": "points_to",
+      "label": "人生是一个持续的自我迭代过程"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -11498,6 +11529,24 @@
       "label": "The source of all harm"
     },
     {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "关于归因：从事实到因果，从外部节点到内部迭代"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "The brain does not backprop, but propagates"
+    },
+    {
       "from": "residual-control-recedes-to-the-edge",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
@@ -12942,6 +12991,12 @@
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
       "label": "The utility men of progress"
+    },
+    {
+      "from": "the-brain-does-not-backprop",
+      "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "rel": "points_to",
+      "label": "人生是一个持续的自我迭代过程"
     },
     {
       "from": "the-brain-does-not-backprop",
