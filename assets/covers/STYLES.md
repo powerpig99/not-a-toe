@@ -189,6 +189,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic split / lens-cut flux and measure** | Dark void; warm organic waves, golden cubes, and figures left; vertical crescent lens on a glowing base; cool blue pyramid, wireframe mountains, scales, and meters right | `the-observational-cut-in-ai-debates` |
 | **Cinematic path / iteration-loop icons** | Dark barren left with broken chain; central walker on a luminous path ringed by five glowing cycle icons; gold valley, tree, and connected figures right | `ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng` |
 | **Cinematic sealed-block / chained-sun dual** | Full-bleed split: dark cubic lattice and hanging iron chains left; golden corona ring and particle sun right; chains reaching toward the open light | `e-shi-feng-bi-de-shan` |
+| **Claude glass / black-mirror landscape** | Full-bleed valley; darkened convex black oval gathering the terrain into one warm miniature while the actual hills continue in cooler ungathered light; optical-print grain; no table, no figure | `no-genius-can-solve-the-knowledge-problem` |
 
 ## Inventory (by slug)
 
@@ -248,6 +249,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `mi-lv-shi-jie-guo-de-biao-xiang` | Particle-flow compounding panorama |
 | `moral-language-dilutes-the-feedback-that-scales-freedom` | Dual-field spiral feedback allegory |
 | `mistaking-the-expression-for-the-intelligence` | Graphite pencil study on toned paper |
+| `no-genius-can-solve-the-knowledge-problem` | Claude glass / black-mirror landscape |
 | `no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind` | Möbius paper sculpture still |
 | `no-system-can-be-kept-closed` | Risograph flat print |
 | `not-a-theory-of-everything` | Mezzotint / aquatint |

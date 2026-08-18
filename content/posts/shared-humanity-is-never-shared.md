@@ -10,7 +10,7 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 ## Overlap is residue; the shared label is retrospective
 
-Some private interpretations — those concerning physical regularities — display high mutual resemblance and predictive power. When they coincide, coordinated action becomes possible. Outside registration may label the result “objective” or “shared.” The label is external and retrospective. Internally, nothing was shared. Each Mind continued to interpret on its own terms. [Price as utterance, understanding as trade](../price-as-utterance-understanding-as-trade/) is that geometry under market and language costume: the print and the spoken sentence are residue; usable agreement is selective bracketing of permanent non-identity.
+Some private interpretations — those concerning physical regularities — display high mutual resemblance and predictive power. When they coincide, coordinated action becomes possible. Outside registration may label the result “objective” or “shared.” The label is external and retrospective. Internally, nothing was shared. Each Mind continued to interpret on its own terms. [No genius can solve the knowledge problem](../no-genius-can-solve-the-knowledge-problem/) is that same restore under knowledge costume: what is called shared knowledge is only interception of private reconstructions. [Price as utterance, understanding as trade](../price-as-utterance-understanding-as-trade/) is that geometry under market and language costume: the print and the spoken sentence are residue; usable agreement is selective bracketing of permanent non-identity.
 
 ## Humanity as moral we has less necessary overlap
 
