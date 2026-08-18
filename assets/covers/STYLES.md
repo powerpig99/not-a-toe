@@ -190,6 +190,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic path / iteration-loop icons** | Dark barren left with broken chain; central walker on a luminous path ringed by five glowing cycle icons; gold valley, tree, and connected figures right | `ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng` |
 | **Cinematic sealed-block / chained-sun dual** | Full-bleed split: dark cubic lattice and hanging iron chains left; golden corona ring and particle sun right; chains reaching toward the open light | `e-shi-feng-bi-de-shan` |
 | **Claude glass / black-mirror landscape** | Full-bleed valley; darkened convex black oval gathering the terrain into one warm miniature while the actual hills continue in cooler ungathered light; optical-print grain; no table, no figure | `no-genius-can-solve-the-knowledge-problem` |
+| **Cinematic oil allegory / silk-cocoon triad** | Dark oil; cracked stone bust with iron collar and wheel; silk-wrapped cracked sphere; butterfly toward light; silk threads becoming ground paths | `zuo-jian-bu-shi-zi-fu` |
 
 ## Inventory (by slug)
 
@@ -334,6 +335,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `writing-without-the-image` | Camera lucida / brass prism drawing still |
 | `qian-yin-hou-guo` | Silverpoint / metalpoint on gesso |
 | `you-wu-zhi-bian` | Minimal horizon band |
+| `zuo-jian-bu-shi-zi-fu` | Cinematic oil allegory / silk-cocoon triad |
 | `on-closed-systems-open-minds-and-the-limits-of-proof` | Cinematic sealed-chamber / luminous-mind dual |
 | `only-if-it-is-not-kept-empty` | Celadon kiln shelf still life |
 | `the-real-lesson-from-the-consciousness-vector-paper` | Medieval volvelle / paper dial still |
