@@ -28,7 +28,7 @@ node scripts/export-absolute-md.mjs <slug>          # → export/<slug>.md (requ
 
 CI builds and deploys Pages on push to `main`. **Push is not live** until Actions finishes and the post URL returns 200.
 
-Full ship checklist (preflight → reverse links → push → `gh run watch` → live curl → **required** export generate): [`content/posts/README.md`](content/posts/README.md) § Ship checklist. “Finish the rest” means that full sequence — not site-only.
+Full ship checklist (preflight → reverse links → **lattice consistency on same-axis old essays** → push → `gh run watch` → live curl → **required** export generate): [`content/posts/README.md`](content/posts/README.md) § Ship checklist. “Finish the rest” means that full sequence — not site-only.
 
 ```bash
 git add content/posts/<slug>.md

@@ -3,33 +3,33 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-08-11T07:26:18.011Z",
+    "generated_at": "2026-08-18T06:27:57.864Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "f49ff10b103f",
-      "docs/essay-format.md": "620b8e0bb080",
+      "content/posts/README.md": "c83b2ddb2313",
+      "docs/essay-format.md": "70f26c9e340a",
       "docs/export-for-substack.md": "9a2df9f4dfab",
       "docs/export-for-x-article.md": "55ab96853de2",
       "export/README.md": "c0a8866a454d",
-      "assets/covers/STYLES.md": "ad6d4caaea14",
-      "README.md": "49f14604587d",
-      "docs/local-memory.md": "df124867a651",
-      "build.mjs": "a6247a7ef0bb",
+      "assets/covers/STYLES.md": "51a2df3c4458",
+      "README.md": "db4420250c68",
+      "docs/local-memory.md": "304393247021",
+      "build.mjs": "fb6446eb769e",
       "scripts/export-absolute-md.mjs": "3bbb08fdfc89",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
       "MEMORY.md": "9b2cea4e08ca"
     },
     "stats": {
-      "posts": 191,
-      "covers": 121,
+      "posts": 212,
+      "covers": 142,
       "trackers_listed": 12,
       "trackers_present": 12
     },
     "counts": {
       "nodes": 28,
-      "edges": 94,
+      "edges": 95,
       "missing": 0,
       "by_kind": {
         "project": 1,
@@ -61,7 +61,7 @@
     {
       "id": "tracker:local",
       "name": "local",
-      "count": 9
+      "count": 10
     },
     {
       "id": "tracker:format",
@@ -207,7 +207,7 @@
       "path": "build.mjs",
       "owns": "site-build",
       "exists": true,
-      "hash": "a6247a7ef0bb",
+      "hash": "fb6446eb769e",
       "summary": "binary/script",
       "headings": [],
       "layer": "tracker"
@@ -219,7 +219,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "ad6d4caaea14",
+      "hash": "51a2df3c4458",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -307,7 +307,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "620b8e0bb080",
+      "hash": "70f26c9e340a",
       "summary": "**Reference for site scaffold** — not absolute ground over the operator’s draft.",
       "headings": [
         "Essay Formatting Guide",
@@ -328,7 +328,7 @@
       "path": "docs/local-memory.md",
       "owns": "manifest",
       "exists": true,
-      "hash": "df124867a651",
+      "hash": "304393247021",
       "summary": "Manifest of operational `.md` files for this project.",
       "headings": [
         "Local memory — living trackers and sleep audit",
@@ -360,7 +360,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "f49ff10b103f",
+      "hash": "c83b2ddb2313",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",
@@ -385,7 +385,7 @@
       "path": "README.md",
       "owns": "index",
       "exists": true,
-      "hash": "49f14604587d",
+      "hash": "db4420250c68",
       "summary": "## Authoring contract Guides (read these instead of re-deriving the workflow each time): | Topic | Doc | |-------|-----| | Posts: structure, voice, cross-links, ship checklist | [`…",
       "headings": [
         "Not a ToE",
@@ -831,6 +831,12 @@
       "to": "file:grok-memory-graph-readme-md",
       "rel": "points_to",
       "label": "`.grok/memory-graph/README.md`"
+    },
+    {
+      "from": "tracker:local",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
     },
     {
       "from": "project:not-a-toe",

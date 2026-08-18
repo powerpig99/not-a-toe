@@ -1,6 +1,6 @@
 # Essay Formatting Guide
 
-**Reference for site scaffold** — not absolute ground over the operator’s draft. When refining an operator-supplied essay under `/ontological-clarity`, keep the draft’s cut and title; use this file to place subtitle, lead, sections, and links as necessity of a site essay. Full refinement contract (surgical precision, no rewrite, no collapse into prior posts): [`content/posts/README.md`](../content/posts/README.md) § Refinement workflow. Sleep audits living trackers via [`docs/local-memory.md`](local-memory.md).
+**Reference for site scaffold** — not absolute ground over the operator’s draft. When refining an operator-supplied essay under `/ontological-clarity`, keep the draft’s cut and title; use this file to place subtitle, lead, sections, and links as necessity of a site essay. Full refinement contract (surgical precision, no rewrite, no collapse into prior posts) and **lattice consistency** (same-axis old claims updated in the same ship): [`content/posts/README.md`](../content/posts/README.md) § Refinement workflow and § Lattice consistency. Sleep leftover pass: [`docs/local-memory.md`](local-memory.md).
 
 ## Copy-Paste Prompt
 

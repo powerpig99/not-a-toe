@@ -112,7 +112,7 @@ The operator’s draft is already as close as it can be. Ontological clarity is 
 | **Operator draft** (incl. title) | Ground of the cut. Keep it. Surgical nicks only. |
 | **`/ontological-clarity`** | Method scale: locate residual freezes; dissolve only those; wait for feedback after a clean pass. |
 | **Format docs** (`docs/essay-format.md`, this file’s structure table) | **Reference**, not absolute ground. Scaffold subtitle, sections, links as necessity of a site essay — not as a checklist that may overwrite the draft’s spine. |
-| **Prior posts** | Adjacent axes. Pointers restore an axis; they must not absorb the new trace into “what we already had.” |
+| **Prior posts** | Adjacent axes. Pointers restore an axis; they must not absorb the new trace into “what we already had.” Same-axis old claims that the new cut makes false, over-closed, or incomplete must be nicked in the old prose (see Lattice consistency). |
 
 ### Surgical precision (not rewrite)
 
@@ -133,6 +133,7 @@ After the draft’s precision holds, add only what the site essay needs:
 | Section headings | Name *this* essay’s cuts, not generic slots or neighbor titles |
 | Cross-links | Where an adjacent axis truly fits — pointer clause only; sparse |
 | Reverse links | On every 1-hop outbound neighbor (see checklist below) |
+| Lattice consistency | Same-axis old claims nicked or restored — not deferred to `/sleep` |
 | Cover + STYLES | Usual ship path |
 
 Do **not** invent long expansions, dual-error costume blocks, or neighbor laundry lists to “make it look like” other posts.
@@ -149,7 +150,7 @@ When the scale finds a residual and a nick is needed:
 
   Do not invent parallel intros (“That is Mind,” “Call it the edge; the name adds nothing”) as substitutes. Essay-specific derivation continues after the formula; it does not replace it.
 
-- **Clarity of the writing Mind, not performance for readers.** Draft so the next step at this locus is cleaner. Do not write to teach, persuade, reassure, or brand. Cross-links restore axes for the same Mind under another load — not an index for an audience. “Embody. Never claim.” applies to the page itself.
+- **Clarity of the writing Mind, not performance for readers.** Draft so the next step at this Mind is cleaner. Do not write to teach, persuade, reassure, or brand. Cross-links restore axes for the same Mind under another load — not an index for an audience. “Embody. Never claim.” applies to the page itself. In public prose use **the Mind** or **the individual** as the sentence requires; house *locus* / *loci* stays internal to the skill derivation.
 - **Mechanism, not moral framing.** Prefer allocation, locus, continuation, capacity thinning over stolen power, genuine stake, heroic independence.
 - **Assert; don’t soften.** Drop padding (“rarely,” “in most cases,” “not primarily”) when the cut is structural.
 - **Negation discipline.** Soft negation as differentiation is ordinary. Assertive negation of rival takes installs a closed boundary — avoid it. Exception: assertive negation of a **closed-reality assumption** opens rather than seals. Describe what the activity is doing.
@@ -175,6 +176,26 @@ When the scale finds a residual and a nick is needed:
 3. Verify the target file exists: `content/posts/<slug>.md`.
 4. After adding links, re-read: if a paragraph only exists to summarize another essay, delete the summary and keep the pointer.
 5. After shipping a new or revised post, **always** update **reverse links** on 1-hop neighbors (two-way is default). For each outbound `](../other-slug/)`, open that neighbor and add a single pointer clause back to this slug where the same geometry appears — see [`docs/local-memory.md`](../../docs/local-memory.md) posts lattice. Pointer only; do not restate this essay.
+
+## Lattice consistency (same ship)
+
+A new essay is a further distinction in one field. Older posts that already speak on that axis must remain consistent with it. Reverse pointers are not this step. Apply `/ontological-clarity`: restore the bound; do not rewrite old essays into the new one; do not collapse two axes onto one name.
+
+1. **Name the new cut** in one sentence — the distinction, not the topic.
+2. **Find same-axis old prose.** Start with 1-hop neighbors, then search the named problem and the freeze the new cut dissolves (not the whole corpus). Same named problem, same freeze, or the same claim that intelligence, design, or thoughtfulness closes it. A shared word is not a shared axis.
+3. **Classify each hit, then act:**
+
+   | Class | What it is | Act |
+   |-------|------------|-----|
+   | **Inconsistent** | Old claim is now false or over-closed | Nick the old claim |
+   | **Incomplete on the same axis** | Old essay treated a shallower face as the whole of that named problem | Restore the missing bound in the old sentence (a pointer alone is not enough if the old sentence still overclaims) |
+   | **Adjacent, different axis** | Related face, not the same cut | Pointer only if it restores; do not collapse |
+   | **No shared axis** | Topic overlap only | Leave |
+
+4. A pointer is enough only when the old claim still holds and only the new face needs naming.
+5. Do this in the **same ship**. `/sleep` currency pass is a leftover catch, not the first pass.
+
+Do not warehouse hits. Do not over-relax: if an old heading or installing sentence still names the shallower face as the whole problem, that sentence is the update.
 
 ### Posts graph (projection only)
 
@@ -217,6 +238,7 @@ Optional but usual for new essays. **One file serves three surfaces:** this site
 | Preflight build + graph | Yes | Agent |
 | Cover + STYLES | Yes (usual) | Agent |
 | Reverse links on 1-hop neighbors (same ship) | Yes | Agent |
+| Lattice consistency on same-axis old essays (same ship) | Yes | Agent |
 | Commit / push / `gh run watch` / live 200 | Yes | Agent |
 | `node scripts/export-absolute-md.mjs <slug>` after live | **Yes** | Agent |
 | Paste into Substack / X Article + upload cover there | Operator | Operator only |
@@ -282,9 +304,13 @@ Run **once per ship** after the live URL returns 200 so absolute links resolve. 
 
 **Operator paste** (not agent): open `export/<slug>.md` in a markdown previewer → copy from the **rendered** preview into Substack and/or X Article → upload cover from `assets/covers/<slug>.jpg` if used.
 
-### 6. Neighbor pointers (same ship)
+### 6. Neighbor pointers and lattice consistency (same ship)
 
-For every outbound `](../other-slug/)`, add a reverse pointer on that neighbor in the **same** ship (two-way default). Pointer clause only; regenerate posts graph after. Broader currency pass on seeds is `/sleep` — see [`docs/local-memory.md`](../../docs/local-memory.md).
+For every outbound `](../other-slug/)`, add a reverse pointer on that neighbor in the **same** ship (two-way default). Pointer clause only.
+
+Then run **Lattice consistency**: name the new cut; search same-axis old prose; nick inconsistent or over-closed claims; restore incomplete same-axis bounds in the old sentence. A pointer is not a substitute for that nick. `/sleep` currency pass is a leftover catch — see [`docs/local-memory.md`](../../docs/local-memory.md).
+
+Regenerate the posts graph after either kind of edit.
 
 ### Copy-paste ship block
 
@@ -292,7 +318,7 @@ For every outbound `](../other-slug/)`, add a reverse pointer on that neighbor i
 SLUG=<slug>
 node build.mjs
 git add content/posts/"$SLUG".md assets/covers/"$SLUG".jpg assets/covers/STYLES.md
-# plus neighbor reverse-link files when edited
+# plus neighbor reverse-link files and same-axis consistency nicks when edited
 git commit -m "Add <title> essay"
 git push origin main
 gh run watch --exit-status || { gh workflow run deploy.yml --ref main && gh run watch --exit-status; }
@@ -309,7 +335,7 @@ node scripts/export-absolute-md.mjs "$SLUG"
 3. [ ] Refine for mechanism language; fold any seed tweet into the lead so the essay stands alone.
 4. [ ] Add relative cross-links as axis pointers; verify slugs exist (`node scripts/project-posts-graph.mjs` → `missing_targets` must stay 0).
 5. [ ] Cover: new style per STYLES.md; **20:9** landscape preferred (**16:9 as-is** OK); install; update STYLES.md.
-6. [ ] Neighbor reverse pointers **in the same ship** (two-way default); regenerate posts graph.
+6. [ ] Neighbor reverse pointers **in the same ship** (two-way default). **Lattice consistency:** identify same-axis old claims that are now false, over-closed, or incomplete; nick or restore them in the old prose; regenerate posts graph.
 7. [ ] **Ship:** preflight → commit/push → `gh run watch` → live post (and cover) URL 200.
 8. [ ] **Export (required after live):** `node scripts/export-absolute-md.mjs <slug>` → `export/<slug>.md` ([`docs/export-for-substack.md`](../../docs/export-for-substack.md)). Paste into Substack / X is operator-only and may wait; generating the file does not.
 
@@ -318,4 +344,4 @@ node scripts/export-absolute-md.mjs "$SLUG"
 - Prefer not to rewrite published URLs/slugs; add a new post or revise in place under the same slug.
 - Living updates: same-slug edits when a newer cut clarifies an older face; regenerate posts graph after link changes.
 - After same-slug body or link edits that will be re-pasted externally: re-run `node scripts/export-absolute-md.mjs <slug>` so `export/` matches source.
-- Sleep (operator call) runs the related-post currency pass on seeds from `--diff` — see [`docs/local-memory.md`](../../docs/local-memory.md).
+- Sleep (operator call) runs a leftover currency pass on seeds from `--diff` — see [`docs/local-memory.md`](../../docs/local-memory.md). Same-axis consistency of a new drop is ship-time, not sleep-time.
