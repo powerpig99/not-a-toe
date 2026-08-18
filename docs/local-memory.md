@@ -21,7 +21,7 @@ Manifest of operational `.md` files for this project. Temporary ground at projec
 
 | ID | Path | Owns |
 |----|------|------|
-| `posts` | [`content/posts/README.md`](../content/posts/README.md) | Authoring contract, refinement workflow (surgical; draft as ground), voice, cross-links, reverse links, ship checklist |
+| `posts` | [`content/posts/README.md`](../content/posts/README.md) | Authoring contract, refinement workflow (surgical; draft as ground), voice, cross-links, reverse links, lattice consistency (same-axis old claims, same ship), ship checklist |
 | `format` | [`docs/essay-format.md`](essay-format.md) | Site scaffold reference + LLM copy-paste prompt (not absolute ground over operator draft) |
 | `export` | [`docs/export-for-substack.md`](export-for-substack.md) | Shared absolute-markdown: **generate required after live** on ship; paste is operator-only |
 | `export-x` | [`docs/export-for-x-article.md`](export-for-x-article.md) | Points at shared export; Articles API parked |
@@ -36,7 +36,7 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers. Sleep doe
 
 ## Sleep audit procedure
 
-**Pipeline:** session (perception) → **`/bridge`** working memory `memory/context.graph.json` → **`/sleep`** attaches into `memory/memory.graph.json` (context graph left on disk; ignored by new sessions without `/resume-bridge`; next bridge replaces it) → **`/deep-sleep`** bottom-up abstracts the memory tree (+ store/trackers; dual-write to `.grok/memory-graph/`). Mid-day: bridge then `/clear` + later `/resume-bridge`. Operator call only.
+**Pipeline:** session (perception) → **`/bridge`** working memory `memory/context.graph.json` → **`/sleep`** writes provisional packages under `memory/packages/` (living graph untouched; context left on disk; ignored by new sessions without `/resume-bridge`; next bridge replaces it) → **`/deep-sleep`** resonance-tests packages, regenerates the living graph, climbs bottom→top (+ store/trackers; dual-write to `.grok/memory-graph/`). Mid-day: bridge then `/clear` + later `/resume-bridge`. Operator call only.
 
 1. **Load graphs** — `docs/local.graph.json` and `docs/posts.graph.json` if present (speed); else walk the tracker table and regenerate posts graph.
 2. **Per tracker** — open file; for each claim that is a fact about the repo (paths, commands, counts, inventories):
@@ -56,10 +56,10 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers. Sleep doe
       Or inspect one seed: `node scripts/project-posts-graph.mjs --neighbors <slug>`.
    2. **Seeds** — new or hash-changed slugs under `content/posts/` (from `--diff`, or git since last sleep). Cap attention; do not re-walk the whole corpus.
    3. **Neighbor set** — for each seed, 1-hop: `links_out` + inbound citers. Cap total neighbors reviewed per sleep (e.g. ≤15), prioritizing shared geometry over hub bulk.
-   4. **Review each neighbor** (read; no silent mass rewrite):
-      - Does the seed’s cut make an existing claim stale or incomplete on the **same** axis?
+   4. **Review each neighbor** (read; no silent mass rewrite). Drop-time lattice consistency is owned by [`content/posts/README.md`](../content/posts/README.md) § Lattice consistency — this sleep pass is a leftover catch, not the first pass:
+      - Does the seed’s cut make an existing claim stale, over-closed, or incomplete on the **same** axis? If the old sentence still overclaims, **nick the old claim** — a pointer is not enough.
       - **Two-way is default:** for each outbound link from the seed, ensure the neighbor has a reverse pointer to the seed (single clause; same geometry). Add if missing.
-      - Is a **single pointer clause** enough? If yes, add `[text](../seed-slug/)`. If the paragraph would summarize the seed, stop.
+      - Is a **single pointer clause** enough? Only when the old claim still holds and only the new face needs naming. If the paragraph would summarize the seed, stop.
       - Broken `../slug/` → fix immediately (lint).
       - Skip reverse only when the neighbor genuinely has no shared axis (rare); note the skip. Isolation is exception, not default.
    5. If prose changed and Substack/X will be updated by hand, re-export those surfaces (export trackers).
@@ -80,8 +80,9 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers. Sleep doe
 Seeds: <from --diff or new slugs>
 For each neighbor in 1-hop review_set:
 - open content/posts/<neighbor>.md
+- same-axis leftover: if the old claim is now false, over-closed, or incomplete, nick it (posts README § Lattice consistency)
 - two-way default: ensure reverse pointer from neighbor → seed when shared geometry
-- if same geometry and no pointer, add one clause + relative link
+- pointer only when the old claim still holds
 - do not restate the seed essay
 - regenerate: node scripts/project-posts-graph.mjs
 ```

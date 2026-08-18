@@ -22,4 +22,4 @@ The limit remains absolute precisely because knowledge is always relative. Every
 
 ## The structure is independent of any particular intelligence
 
-The structure of the problem is therefore independent of any particular intelligence. It is a problem no genius in the past, present or future can solve.
+The structure of the problem is therefore independent of any particular intelligence. It is a problem no genius in the past, present or future can solve. [Sowell observed the surface problem](../sowell-observed-the-surface-problem/) is that same prior under policy costume: the intellectual’s thoughtfulness is already the belief that problems can be solved across Minds.
