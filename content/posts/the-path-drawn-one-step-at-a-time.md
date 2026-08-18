@@ -10,7 +10,7 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 Observation sees effect. The cause stays at least one step ahead of what observation pins. Uncaused names that lead. Seeking a prior always finds an effect; the seeking is another observation. The regress is the demand that cause and observed effect occupy the same step.
 
-The Mind chooses which residue to distinguish from. Chosen premise is live instrument, re-rendered with the step. Residue alone is available. Frozen as unchosen ground, it wears the hat. [作茧不是自缚](../zuo-jian-bu-shi-zi-fu/) 是同一帽子：痕迹被读成枷锁，对照的是一块本应不受痕迹约束的自由。 From the premise it holds, the Mind draws the next position—once present, residue again.
+The Mind chooses which residue to distinguish from. Chosen premise is live instrument, re-rendered with the step. Residue alone is available. Frozen as unchosen ground, it wears the hat. [作茧是观察到的现象，自缚是对现象的解读](../zuo-jian-bu-shi-zi-fu/) 是同一帽子：痕迹被读成枷锁，对照的是一块本应不受痕迹约束的自由。 From the premise it holds, the Mind draws the next position—once present, residue again.
 
 ## Maintain, correct, impose
 
