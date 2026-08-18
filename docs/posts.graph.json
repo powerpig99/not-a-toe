@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-17T11:36:09.035Z",
+    "generated_at": "2026-08-18T04:02:40.995Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -42,6 +42,7 @@
       "content/posts/data-is-local-intelligence-is-allocated.md": "8f500c34f2c4",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "0f8c8b9933cc",
+      "content/posts/e-shi-feng-bi-de-shan.md": "103d01829ff9",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "e80e0293548e",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
@@ -49,7 +50,7 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
-      "content/posts/evil-as-the-minds-own-creation.md": "f7cca0bf9130",
+      "content/posts/evil-as-the-minds-own-creation.md": "118399c5c2b7",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "3b036ee62bf9",
       "content/posts/expertise-as-reference-not-replacement.md": "8e648977cb2a",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
@@ -100,7 +101,7 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "55135870ffc2",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "53fb9cdeca2c",
+      "content/posts/openness-is-consistency.md": "ac738c936f5d",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "bcb7410f50f8",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
@@ -109,7 +110,7 @@
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "659d441ca9fb",
-      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "008f74b4f474",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "335a9922f39a",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "35f6ab8e8017",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "1cb0d8ca3e76",
       "content/posts/price-as-utterance-understanding-as-trade.md": "3044ff41ff78",
@@ -119,7 +120,7 @@
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
-      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "d86156e62d45",
+      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "1ae8a15490db",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
       "content/posts/residual-individualism.md": "0f89120de59f",
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
@@ -187,12 +188,12 @@
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "a396e946d072",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4af688fa6b26",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "876cca9b0963",
-      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "fae56a2911a4",
+      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "40a647c869dd",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "94dd360f407c",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
       "content/posts/the-scaffolding-we-forget.md": "41593472ca65",
-      "content/posts/the-source-of-all-harm.md": "01acb646930e",
+      "content/posts/the-source-of-all-harm.md": "d496877d7de4",
       "content/posts/the-source-of-shared-change.md": "80e99c4c1a1f",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
@@ -220,19 +221,19 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 210,
-      "edges": 2085,
-      "unique_directed": 2062,
+      "posts": 211,
+      "edges": 2095,
+      "unique_directed": 2072,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 155
+      "posts_with_outbound": 156
     }
   },
   "hubs_in": [
     {
       "slug": "openness-is-consistency",
-      "in_degree": 52
+      "in_degree": 53
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -318,7 +319,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "out_degree": 39
+      "out_degree": 40
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -1147,6 +1148,23 @@
       ]
     },
     {
+      "id": "post:e-shi-feng-bi-de-shan",
+      "kind": "post",
+      "slug": "e-shi-feng-bi-de-shan",
+      "path": "content/posts/e-shi-feng-bi-de-shan.md",
+      "title": "恶是封闭的善",
+      "hash": "103d01829ff9",
+      "in_degree": 5,
+      "out_degree": 5,
+      "links_out": [
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+        "openness-is-consistency",
+        "the-source-of-all-harm",
+        "the-risk-is-the-belief-in-oversight-itself",
+        "evil-as-the-minds-own-creation"
+      ]
+    },
+    {
       "id": "post:efficiency-without-differentiation",
       "kind": "post",
       "slug": "efficiency-without-differentiation",
@@ -1263,9 +1281,9 @@
       "slug": "evil-as-the-minds-own-creation",
       "path": "content/posts/evil-as-the-minds-own-creation.md",
       "title": "Evil as the Mind’s Own Creation",
-      "hash": "f7cca0bf9130",
-      "in_degree": 11,
-      "out_degree": 17,
+      "hash": "118399c5c2b7",
+      "in_degree": 12,
+      "out_degree": 18,
       "links_out": [
         "self-image-speaks-as-if-from-nowhere",
         "the-path-drawn-one-step-at-a-time",
@@ -1283,7 +1301,8 @@
         "the-climate-problem-registers-only-as-perception",
         "preference-clusters-and-the-language-of-judgment",
         "the-belief-in-utopia-is-the-path-to-dystopia",
-        "the-source-of-all-harm"
+        "the-source-of-all-harm",
+        "e-shi-feng-bi-de-shan"
       ]
     },
     {
@@ -2347,9 +2366,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "53fb9cdeca2c",
-      "in_degree": 52,
-      "out_degree": 39,
+      "hash": "ac738c936f5d",
+      "in_degree": 53,
+      "out_degree": 40,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -2364,6 +2383,7 @@
         "why-mathematics-can-never-be-solved",
         "the-myth-of-population-collapse-explained",
         "pessimism-is-the-shadow-of-optimism",
+        "e-shi-feng-bi-de-shan",
         "open-vision-in-a-closed-arena",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "only-if-it-is-not-kept-empty",
@@ -2569,15 +2589,16 @@
       "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "Potential Infinity and the Temporary Closures of Mathematical Thought",
-      "hash": "008f74b4f474",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "335a9922f39a",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "the-scaffolding-we-forget",
         "no-system-can-be-kept-closed",
         "why-mathematics-can-never-be-solved",
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "openness-is-consistency",
+        "e-shi-feng-bi-de-shan",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "clarity-isnt-a-state-you-arrive-at"
       ]
@@ -2817,7 +2838,7 @@
       "slug": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "path": "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md",
       "title": "人生是一个持续的自我迭代过程",
-      "hash": "d86156e62d45",
+      "hash": "1ae8a15490db",
       "in_degree": 3,
       "out_degree": 3,
       "links_out": [
@@ -4311,9 +4332,9 @@
       "slug": "the-risk-is-the-belief-in-oversight-itself",
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
       "title": "The Risk Is the Belief in Oversight Itself",
-      "hash": "fae56a2911a4",
-      "in_degree": 15,
-      "out_degree": 20,
+      "hash": "40a647c869dd",
+      "in_degree": 16,
+      "out_degree": 21,
       "links_out": [
         "the-observational-cut-in-ai-debates",
         "closed-reality-in-benchmark-maxing",
@@ -4328,6 +4349,7 @@
         "externalized-virtue-becomes-its-opposite",
         "the-source-of-all-harm",
         "openness-is-consistency",
+        "e-shi-feng-bi-de-shan",
         "the-question-that-installs-the-war",
         "agi-and-asi-are-temporary-goalposts",
         "the-reality-distortion-field-names-the-closed-map",
@@ -4439,13 +4461,14 @@
       "slug": "the-source-of-all-harm",
       "path": "content/posts/the-source-of-all-harm.md",
       "title": "The Source of All Harm",
-      "hash": "01acb646930e",
-      "in_degree": 18,
-      "out_degree": 18,
+      "hash": "d496877d7de4",
+      "in_degree": 19,
+      "out_degree": 19,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "the-belief-in-utopia-is-the-path-to-dystopia",
+        "e-shi-feng-bi-de-shan",
         "mei-you-pu-du-zhi-you-zi-du",
         "externalized-virtue-becomes-its-opposite",
         "preference-clusters-and-the-language-of-judgment",
@@ -6867,6 +6890,36 @@
       "label": "The initial distinction"
     },
     {
+      "from": "e-shi-feng-bi-de-shan",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "e-shi-feng-bi-de-shan",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "e-shi-feng-bi-de-shan",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The source of all harm"
+    },
+    {
+      "from": "e-shi-feng-bi-de-shan",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The risk is the belief in oversight itself"
+    },
+    {
+      "from": "e-shi-feng-bi-de-shan",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind’s own creation"
+    },
+    {
       "from": "emotional-support-as-causal-interference",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
@@ -7147,6 +7200,12 @@
       "to": "the-source-of-all-harm",
       "rel": "points_to",
       "label": "The source of all harm"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "恶是封闭的善"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -10108,6 +10167,12 @@
     },
     {
       "from": "openness-is-consistency",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "恶是封闭的善"
+    },
+    {
+      "from": "openness-is-consistency",
       "to": "open-vision-in-a-closed-arena",
       "rel": "points_to",
       "label": "Open vision in a closed arena"
@@ -10783,6 +10848,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "恶是封闭的善"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -15580,6 +15651,12 @@
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "恶是封闭的善"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
       "label": "The question that installs the war"
@@ -15931,6 +16008,12 @@
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
       "label": "The belief in utopia is the path to dystopia"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "恶是封闭的善"
     },
     {
       "from": "the-source-of-all-harm",
