@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-18T04:02:40.995Z",
+    "generated_at": "2026-08-18T04:08:43.713Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -42,7 +42,7 @@
       "content/posts/data-is-local-intelligence-is-allocated.md": "8f500c34f2c4",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "0f8c8b9933cc",
-      "content/posts/e-shi-feng-bi-de-shan.md": "103d01829ff9",
+      "content/posts/e-shi-feng-bi-de-shan.md": "86742de8c987",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "e80e0293548e",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
@@ -186,7 +186,7 @@
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "a396e946d072",
-      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4af688fa6b26",
+      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "d40851e92070",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "876cca9b0963",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "40a647c869dd",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
@@ -222,8 +222,8 @@
     },
     "stats": {
       "posts": 211,
-      "edges": 2095,
-      "unique_directed": 2072,
+      "edges": 2097,
+      "unique_directed": 2074,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
@@ -1153,12 +1153,13 @@
       "slug": "e-shi-feng-bi-de-shan",
       "path": "content/posts/e-shi-feng-bi-de-shan.md",
       "title": "恶是封闭的善",
-      "hash": "103d01829ff9",
-      "in_degree": 5,
-      "out_degree": 5,
+      "hash": "86742de8c987",
+      "in_degree": 6,
+      "out_degree": 6,
       "links_out": [
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "openness-is-consistency",
+        "the-reversal-from-defensible-claim-to-dogma",
         "the-source-of-all-harm",
         "the-risk-is-the-belief-in-oversight-itself",
         "evil-as-the-minds-own-creation"
@@ -4280,9 +4281,9 @@
       "slug": "the-reversal-from-defensible-claim-to-dogma",
       "path": "content/posts/the-reversal-from-defensible-claim-to-dogma.md",
       "title": "The Reversal from Defensible Claim to Dogma",
-      "hash": "4af688fa6b26",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "d40851e92070",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
         "expertise-as-reference-not-replacement",
         "closed-reality-in-benchmark-maxing",
@@ -4295,6 +4296,7 @@
         "the-reality-distortion-field-names-the-closed-map",
         "externalized-virtue-becomes-its-opposite",
         "the-source-of-all-harm",
+        "e-shi-feng-bi-de-shan",
         "openness-is-consistency",
         "individual-choices-as-the-only-causal-levers",
         "when-observation-becomes-performance",
@@ -6900,6 +6902,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
+    },
+    {
+      "from": "e-shi-feng-bi-de-shan",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The reversal from defensible claim to dogma"
     },
     {
       "from": "e-shi-feng-bi-de-shan",
@@ -15468,6 +15476,12 @@
       "to": "the-source-of-all-harm",
       "rel": "points_to",
       "label": "The source of all harm"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "恶是封闭的善"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
