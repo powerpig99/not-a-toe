@@ -32,7 +32,7 @@ Manifest of operational `.md` files for this project. Temporary ground at projec
 | `knowledge-graph` | [`.grok/memory-graph/README.md`](../.grok/memory-graph/README.md) | Project leaf graph (parent: `~/.grok/memory-graph`); dual-write from `/sleep` when lasting; `sync` registers leaf |
 | `memory` | Claude `memory/MEMORY.md` (outside repo) | Resume cursor, non-derivable prefs only |
 
-Essay bodies under `content/posts/*.md` are **content**, not trackers. Sleep does not rewrite essays for inventory hygiene. It may run a **related-post currency pass** (below) when new or changed posts appear, and may note cover/style inventory drift against `assets/covers/`.
+Essay bodies under `content/posts/*.md` are **content**, not trackers — a living tracing, not a catalog of finished products. Sleep does not rewrite essays for inventory hygiene. It may run a leftover **related-post currency pass** (below) when new or changed posts appear, and may note cover/style inventory drift against `assets/covers/`. Drop-time re-tracing of same-axis old claims is owned by [`content/posts/README.md`](../content/posts/README.md) § Lattice consistency.
 
 ## Sleep audit procedure
 
@@ -45,7 +45,7 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers. Sleep doe
    - If the same fact appears in two trackers, keep the owner; replace the other with a one-line pointer.
 3. **MEMORY.md** — drop anything now owned by a tracker; keep resume + prefs that cannot be re-derived.
 4. **Covers inventory** — if `assets/covers/*.jpg` and STYLES inventory disagree, update STYLES (owner).
-5. **Posts lattice (living essays)** — currency pass, not inventory rewrite:
+5. **Posts lattice (living tracing)** — leftover currency pass, not inventory rewrite and not the drop-time re-trace:
    1. Capture prior posts graph (already on disk), then regenerate:
 
       ```bash
