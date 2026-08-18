@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-18T04:08:43.713Z",
+    "generated_at": "2026-08-18T06:16:15.205Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -34,7 +34,7 @@
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "ae1e874dfdf6",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "870784c953a3",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
-      "content/posts/consciousness-never-appears-as-data-among-data.md": "d24bb5a388b0",
+      "content/posts/consciousness-never-appears-as-data-among-data.md": "2422b659a645",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "4bb163cf855d",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "3de3ee2f22d8",
@@ -42,7 +42,7 @@
       "content/posts/data-is-local-intelligence-is-allocated.md": "8f500c34f2c4",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "0f8c8b9933cc",
-      "content/posts/e-shi-feng-bi-de-shan.md": "86742de8c987",
+      "content/posts/e-shi-feng-bi-de-shan.md": "9696809c12b7",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "e80e0293548e",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
@@ -91,6 +91,7 @@
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
+      "content/posts/no-genius-can-solve-the-knowledge-problem.md": "072141a007a6",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
       "content/posts/no-system-can-be-kept-closed.md": "a5c5f59964ed",
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
@@ -126,11 +127,11 @@
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
-      "content/posts/self-image-speaks-as-if-from-nowhere.md": "62ce1c3e039f",
+      "content/posts/self-image-speaks-as-if-from-nowhere.md": "22db3e991ad8",
       "content/posts/self-rl-for-humans.md": "5d362f0ad134",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "f74c7c6a49a5",
-      "content/posts/shared-humanity-is-never-shared.md": "7a429623e174",
+      "content/posts/shared-humanity-is-never-shared.md": "f4eb8c469df7",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "7052251d0a3c",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
@@ -161,7 +162,7 @@
       "content/posts/the-initial-distinction.md": "09cd6b3668c4",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "05bc458dafb1",
-      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "cc1ed548c34e",
+      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "3e9ac392c754",
       "content/posts/the-limitation-is-doing-work.md": "ebff2fbf2a2e",
       "content/posts/the-living-context.md": "802b03eb6a18",
       "content/posts/the-loop-accelerates.md": "774efc991390",
@@ -221,13 +222,13 @@
       "content/posts/you-wu-zhi-bian.md": "1af80511e1b6"
     },
     "stats": {
-      "posts": 211,
-      "edges": 2097,
-      "unique_directed": 2074,
+      "posts": 212,
+      "edges": 2105,
+      "unique_directed": 2082,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 156
+      "posts_with_outbound": 157
     }
   },
   "hubs_in": [
@@ -1006,10 +1007,11 @@
       "slug": "consciousness-never-appears-as-data-among-data",
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
       "title": "Consciousness Never Appears as Data Among Data",
-      "hash": "d24bb5a388b0",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "2422b659a645",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
+        "no-genius-can-solve-the-knowledge-problem",
         "causality-all-the-way",
         "intelligence-belongs-only-to-the-mind",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
@@ -1152,8 +1154,8 @@
       "kind": "post",
       "slug": "e-shi-feng-bi-de-shan",
       "path": "content/posts/e-shi-feng-bi-de-shan.md",
-      "title": "恶是封闭的善",
-      "hash": "86742de8c987",
+      "title": "恶是封闭的善，是善的教条化",
+      "hash": "9696809c12b7",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
@@ -2123,6 +2125,22 @@
       "links_out": []
     },
     {
+      "id": "post:no-genius-can-solve-the-knowledge-problem",
+      "kind": "post",
+      "slug": "no-genius-can-solve-the-knowledge-problem",
+      "path": "content/posts/no-genius-can-solve-the-knowledge-problem.md",
+      "title": "No Genius Can Solve the Knowledge Problem",
+      "hash": "072141a007a6",
+      "in_degree": 4,
+      "out_degree": 4,
+      "links_out": [
+        "consciousness-never-appears-as-data-among-data",
+        "the-knowledge-problem-and-the-illusion-of-delegation",
+        "shared-humanity-is-never-shared",
+        "self-image-speaks-as-if-from-nowhere"
+      ]
+    },
+    {
       "id": "post:no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "kind": "post",
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -2955,10 +2973,11 @@
       "slug": "self-image-speaks-as-if-from-nowhere",
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "Self-Image Speaks as if from Nowhere",
-      "hash": "62ce1c3e039f",
-      "in_degree": 18,
-      "out_degree": 18,
+      "hash": "22db3e991ad8",
+      "in_degree": 19,
+      "out_degree": 19,
       "links_out": [
+        "no-genius-can-solve-the-knowledge-problem",
         "writing-without-the-image",
         "evil-as-the-minds-own-creation",
         "causality-stays-at-the-edge-that-steers",
@@ -3038,12 +3057,13 @@
       "slug": "shared-humanity-is-never-shared",
       "path": "content/posts/shared-humanity-is-never-shared.md",
       "title": "Shared Humanity Is Never Shared",
-      "hash": "7a429623e174",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "f4eb8c469df7",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "the-source-of-shared-change",
+        "no-genius-can-solve-the-knowledge-problem",
         "price-as-utterance-understanding-as-trade",
         "preference-clusters-and-the-language-of-judgment",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -3734,10 +3754,11 @@
       "slug": "the-knowledge-problem-and-the-illusion-of-delegation",
       "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
       "title": "The Knowledge Problem and the Illusion of Delegation",
-      "hash": "cc1ed548c34e",
-      "in_degree": 6,
-      "out_degree": 6,
+      "hash": "3e9ac392c754",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
+        "no-genius-can-solve-the-knowledge-problem",
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "no-system-can-be-kept-closed",
         "the-irreducible-prior-of-decision-and-consequence",
@@ -6569,6 +6590,12 @@
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "No genius can solve the knowledge problem"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "Causality all the way"
@@ -9334,6 +9361,30 @@
       "label": "Residual individualism"
     },
     {
+      "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness never appears as data among data"
+    },
+    {
+      "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The knowledge problem and the illusion of delegation"
+    },
+    {
+      "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared humanity is never shared"
+    },
+    {
+      "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
@@ -11885,6 +11936,12 @@
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "No genius can solve the knowledge problem"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
       "to": "writing-without-the-image",
       "rel": "points_to",
       "label": "Writing without the image"
@@ -12116,6 +12173,12 @@
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The source of shared change"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "No genius can solve the knowledge problem"
     },
     {
       "from": "shared-humanity-is-never-shared",
@@ -13880,6 +13943,12 @@
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public spending does not create capital"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "No genius can solve the knowledge problem"
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
