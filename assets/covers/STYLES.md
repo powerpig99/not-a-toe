@@ -188,6 +188,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic split / wireframe-head and tape-debris** | Cool misty water and translucent wireframe head left; figure on a cracked path; dark right with clocks, chart fragments, shatter; gold seam | `the-paradox-of-fundamentals-is-the-unaware-switch-of-reference` |
 | **Cinematic split / lens-cut flux and measure** | Dark void; warm organic waves, golden cubes, and figures left; vertical crescent lens on a glowing base; cool blue pyramid, wireframe mountains, scales, and meters right | `the-observational-cut-in-ai-debates` |
 | **Cinematic path / iteration-loop icons** | Dark barren left with broken chain; central walker on a luminous path ringed by five glowing cycle icons; gold valley, tree, and connected figures right | `ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng` |
+| **Cinematic sealed-block / chained-sun dual** | Full-bleed split: dark cubic lattice and hanging iron chains left; golden corona ring and particle sun right; chains reaching toward the open light | `e-shi-feng-bi-de-shan` |
 
 ## Inventory (by slug)
 
@@ -218,6 +219,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `exceptionality-perception-and-the-self-limiting-field-of-problems` | Natural-history specimen drawer still |
 | `empowerment-establishes-the-centralization-of-power` | Sealing-wax / official seal still |
 | `escaping-the-sandbox-stays-inside-the-hold` | Persian miniature illumination |
+| `e-shi-feng-bi-de-shan` | Cinematic sealed-block / chained-sun dual |
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |
 | `expertise-as-reference-not-replacement` | Marine pilot chart / sailing-directions still |
 | `externalized-virtue-becomes-its-opposite` | Processional figure / portable shrine still |
