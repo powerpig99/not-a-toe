@@ -16,7 +16,7 @@ Living guide for essays in this folder. Source of truth for site content lives h
 
 Write for clarity of the Mind writing — not to inform other Minds. Every post lives by that: the dual as generative ground, open residue under load, never a finished product or ground truth. Do not announce the stance; do not perform it for an audience. Live it as background voice while drafting. Stating it installs an image to defend.
 
-Posts are **living documents**: same-slug revise when a newer cut clarifies an older face; prefer pointer updates over URL churn. Relations live only as relative cross-links in prose — the posts graph is a disposable projection of those links, never a second inventory.
+The collection is an evolving living tracing — not a catalog of finished products. Each essay is a further discrete act in one field; a later cut re-traces earlier residue on the same axis. Same-slug revise when a newer cut clarifies an older face; prefer pointer updates over URL churn. Lattice consistency is that re-tracing, not maintenance of a sealed set. Relations live only as relative cross-links in prose — the posts graph is a disposable projection of those links, never a second inventory.
 
 One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit only under `content/posts/`; never hand-edit `public/` or treat `export/` as source.
 
@@ -179,7 +179,7 @@ When the scale finds a residual and a nick is needed:
 
 ## Lattice consistency (same ship)
 
-A new essay is a further distinction in one field. Older posts that already speak on that axis must remain consistent with it. Reverse pointers are not this step. Apply `/ontological-clarity`: restore the bound; do not rewrite old essays into the new one; do not collapse two axes onto one name.
+A new essay is a further distinction in the same tracing. Older posts that already speak on that axis are residue to re-trace, not finished products to leave standing. Reverse pointers are not this step. Apply `/ontological-clarity`: restore the bound; do not rewrite old essays into the new one; do not collapse two axes onto one name.
 
 1. **Name the new cut** in one sentence — the distinction, not the topic.
 2. **Find same-axis old prose.** Start with 1-hop neighbors, then search the named problem and the freeze the new cut dissolves (not the whole corpus). Same named problem, same freeze, or the same claim that intelligence, design, or thoughtfulness closes it. A shared word is not a shared axis.
@@ -342,6 +342,6 @@ node scripts/export-absolute-md.mjs "$SLUG"
 ## After shipping
 
 - Prefer not to rewrite published URLs/slugs; add a new post or revise in place under the same slug.
-- Living updates: same-slug edits when a newer cut clarifies an older face; regenerate posts graph after link changes.
+- The collection stays a living tracing: same-slug revise when a newer cut clarifies an older face; do not treat a shipped URL as a finished product. Regenerate the posts graph after link changes.
 - After same-slug body or link edits that will be re-pasted externally: re-run `node scripts/export-absolute-md.mjs <slug>` so `export/` matches source.
 - Sleep (operator call) runs a leftover currency pass on seeds from `--diff` — see [`docs/local-memory.md`](../../docs/local-memory.md). Same-axis consistency of a new drop is ship-time, not sleep-time.
