@@ -2,7 +2,7 @@
 
 *Tools do nothing automatically; the effect is the stance the individual takes toward effort, output, and agency.*
 
-Homework scores once predicted exam performance. A large panel of more than 26,000 Chinese secondary-school students found that generative-AI adoption raised average homework scores by about 18 percent and cut completion time by roughly 30 percent, while closed-book monthly exam scores fell by around 20 percent within six months and high-stakes entrance-exam scores declined by 18 to 24 percent over a longer period. The losses concentrated among approximately 80 percent of AI users whose homework behavior — high scores paired with unusually short completion times — pointed to heavy outsourcing of effort. The inversion, and a with-AI exam curve sitting strictly below a without-AI curve, is presented as the tool eroding ability. The cause is the relation the student holds toward the tool, averaged and then scored without it.
+Homework scores once predicted exam performance. A large panel of more than 26,000 Chinese secondary-school students found that generative-AI adoption raised average homework scores by about 18 percent and cut completion time by roughly 30 percent, while closed-book monthly exam scores fell by around 20 percent within six months and high-stakes entrance-exam scores declined by 18 to 24 percent over a longer period. The losses concentrated among approximately 80 percent of AI users whose homework behavior — high scores paired with unusually short completion times — pointed to heavy outsourcing of effort. The inversion, and a with-AI exam curve sitting strictly below a without-AI curve, is presented as the tool eroding ability. Homework for AI users is raw capability plus the tool’s contribution; the exam measures only that raw remainder, then averages it.
 
 ## The circulating graph locates the cause in the tool
 
@@ -40,11 +40,13 @@ This mechanism also explains why current educational measurements produce the st
 
 [Closed reality in benchmark maxing](../closed-reality-in-benchmark-maxing/) is the sealed-field face: a scoreboard measures what it was drawn to measure. The closed-book exam is such a hold. Under that hold, substitution is decline. Treating the hold as the whole of capability — including capability exercised with the tool — is a further freeze. The exam remains a valid instrument for unaided performance. Exhaustiveness does not travel with it.
 
-## The unaided curve measures walking after transportation
+## The exam measures only raw capability
 
-A with-AI line that sits strictly below a without-AI line is taken as proof the tool uniformly diminished capability. The line is an average. Majority substitution with a minority remaining unaffected or amplifying produces a mean that stays below. That shape is what the mix looks like when forced onto one curve. It does not collapse the two relations into one effect of the instrument.
+For a student who uses AI, the homework score is raw capability plus the tool’s contribution to the output. The exam measures only raw capability. By definition, when the tool’s part is taken out of the score, what remains sits below.
 
-They are tested for abilities without AI. The with-AI curve is residual unaided performance after a period of use, not capability exercised with the tool. Amplification of reach need not appear as a higher unaided score. People who never had a chance to take modern transportation would on average be more capable of walking than those who do. The walking difference is real. It is not a measure of mobility. The operating field is not the unaided residual. Thank God we do not actually only walk around.
+The with-AI exam curve that sits strictly below the without-AI curve is that remainder, averaged. Individuals who use the tool to amplify their own capability exist. They are a minority among AI users. Their raw capability is averaged out by the rest of the group, whose homework behavior shows substitution.
+
+People who never had a chance to take modern transportation would on average be more capable of walking than those who do. The walking difference is real. It is not a measure of mobility. Thank God we do not actually only walk around.
 
 [Whatever is one prompt away](../whatever-is-one-prompt-away/) is that freeze when the old surface is scored as the whole of the field: walking remains; its share of reach shrinks.
 
