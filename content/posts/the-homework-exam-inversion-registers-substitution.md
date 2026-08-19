@@ -2,7 +2,7 @@
 
 *Tools do nothing automatically; the effect is the stance the individual takes toward effort, output, and agency.*
 
-Homework scores once predicted exam performance. A large panel of more than 26,000 Chinese secondary-school students found that generative-AI adoption raised average homework scores by about 18 percent and cut completion time by roughly 30 percent, while closed-book monthly exam scores fell by around 20 percent within six months and high-stakes entrance-exam scores declined by 18 to 24 percent over a longer period. The losses concentrated among approximately 80 percent of AI users whose homework behavior — high scores paired with unusually short completion times — pointed to heavy outsourcing of effort. The inversion, and a with-AI exam curve sitting strictly below a without-AI curve, is presented as the tool eroding ability. It is an artifact of the measurement: one score is raw capability plus AI, the other is raw capability only. At the same homework score the student who did not use AI is guaranteed the better exam.
+Homework scores once predicted exam performance. A large panel of more than 26,000 Chinese secondary-school students found that generative-AI adoption raised average homework scores by about 18 percent and cut completion time by roughly 30 percent, while closed-book monthly exam scores fell by around 20 percent within six months and high-stakes entrance-exam scores declined by 18 to 24 percent over a longer period. The losses concentrated among approximately 80 percent of AI users whose homework behavior — high scores paired with unusually short completion times — pointed to heavy outsourcing of effort. The inversion, and a with-AI exam curve sitting strictly below a without-AI curve, is presented as the tool eroding ability. It is an artifact of the measurement: one score is raw capability plus AI, the other is raw capability only. At the same homework score the student who did not use AI is guaranteed the better exam. The less capable also have more motivation to use AI when the homework score is allowed to include it, so the AI-user group is already selected toward lower raw.
 
 ## The circulating graph locates the cause in the tool
 
@@ -14,7 +14,7 @@ The freeze is treating the inversion as an effect the tool performs on the stude
 
 Tools, including generative AI, do nothing automatically to any person. Their effect on performance is determined entirely by how the individual relates to them. The decisive variable is not the technology’s presence but the user’s stance toward effort, output, and personal agency.
 
-As with all tools, the instrument amplifies the difference already present in how individuals relate to effort. The majority use it to do less themselves. Those who keep agency at the edge use it to do more. The tool does not make people less capable. Those already disposed to do less are more likely to use the tool to do less. [Causality stays at the edge that steers](../causality-stays-at-the-edge-that-steers/) is that placement under discovery costume: the model recombines residue; every initiating distinction remains the user’s own act.
+As with all tools, the instrument amplifies the difference already present in how individuals relate to effort. The majority use it to do less themselves. Those who keep agency at the edge use it to do more. The tool does not make people less capable. The less one’s capability, the more motivation to use AI to get a better score when that is allowed. Those already disposed to do less are more likely to use the tool to do less. [Causality stays at the edge that steers](../causality-stays-at-the-edge-that-steers/) is that placement under discovery costume: the model recombines residue; every initiating distinction remains the user’s own act.
 
 ## Substitution attributes results to the tool
 
@@ -45,6 +45,8 @@ This mechanism also explains why current educational measurements produce the st
 If one score includes raw capability plus AI and the other is raw capability only, one will always sit above the other. That is not a further fact about the tool. It is the composition of the two instruments. Homework for an AI user is the raw term plus the tool’s contribution. The exam is the raw term alone. Compare those two numbers and the homework number sits above.
 
 The graph is more misleading still once the homework score is held fixed. For the student who did not use AI, that number is already raw capability. For the student who did, that number is raw plus the tool. The exam then measures raw only. Whoever did not use AI will test better than whoever did, at the same homework score. The comparison is guaranteed by the measurement.
+
+Another factor stacks the same comparison. The lower the raw capability, the larger the gap between that remainder and the homework score the tool can supply, and the stronger the motivation to use AI when it is allowed. Selection into the AI-user group is already toward lower raw. The graph then reads that selection as the tool’s effect.
 
 The with-AI exam curve that sits strictly below the without-AI curve is the raw term, averaged. Individuals who use the tool to amplify their own capability exist. They are a minority among AI users. Their raw capability is averaged out by the rest of the group, whose homework behavior shows substitution.
 
