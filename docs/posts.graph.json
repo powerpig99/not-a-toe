@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-19T11:13:50.728Z",
+    "generated_at": "2026-08-19T11:24:55.232Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -158,7 +158,7 @@
       "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
-      "content/posts/the-homework-exam-inversion-registers-substitution.md": "8d8d5d224b2e",
+      "content/posts/the-homework-exam-inversion-registers-substitution.md": "d3361d1d272a",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
       "content/posts/the-illusion-of-free-intelligence.md": "1777907196fe",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
@@ -214,7 +214,7 @@
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
       "content/posts/what-works-is-the-belief.md": "e8877c5d23bf",
-      "content/posts/whatever-is-one-prompt-away.md": "2683afd3253b",
+      "content/posts/whatever-is-one-prompt-away.md": "4f4272f67a57",
       "content/posts/when-abundance-looks-like-scarcity.md": "6ba7612c2611",
       "content/posts/when-need-stops-being-the-measure.md": "ff23d1d0c5f3",
       "content/posts/when-observation-becomes-performance.md": "d827123b75cc",
@@ -228,8 +228,8 @@
     },
     "stats": {
       "posts": 217,
-      "edges": 2176,
-      "unique_directed": 2152,
+      "edges": 2178,
+      "unique_directed": 2154,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 37,
@@ -3703,9 +3703,9 @@
       "slug": "the-homework-exam-inversion-registers-substitution",
       "path": "content/posts/the-homework-exam-inversion-registers-substitution.md",
       "title": "The Homework–Exam Inversion Registers Substitution",
-      "hash": "8d8d5d224b2e",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "d3361d1d272a",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
         "causality-stays-at-the-edge-that-steers",
@@ -3713,6 +3713,7 @@
         "amplification-paradox",
         "token-efficiency-emulation-and-the-unclosable-gap",
         "closed-reality-in-benchmark-maxing",
+        "whatever-is-one-prompt-away",
         "individual-choices-as-the-only-causal-levers"
       ]
     },
@@ -4921,15 +4922,16 @@
       "slug": "whatever-is-one-prompt-away",
       "path": "content/posts/whatever-is-one-prompt-away.md",
       "title": "Whatever Is One Prompt Away",
-      "hash": "2683afd3253b",
-      "in_degree": 13,
-      "out_degree": 18,
+      "hash": "4f4272f67a57",
+      "in_degree": 14,
+      "out_degree": 19,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-scaffolding-we-forget",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "closed-reality-in-benchmark-maxing",
         "why-mathematics-can-never-be-solved",
+        "the-homework-exam-inversion-registers-substitution",
         "empowerment-establishes-the-centralization-of-power",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
@@ -14057,6 +14059,12 @@
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever is one prompt away"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -17654,6 +17662,12 @@
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
       "label": "why mathematics can never be solved"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "The homework–exam inversion registers substitution"
     },
     {
       "from": "whatever-is-one-prompt-away",
