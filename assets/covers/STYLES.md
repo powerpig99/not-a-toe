@@ -192,7 +192,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Claude glass / black-mirror landscape** | Full-bleed valley; darkened convex black oval gathering the terrain into one warm miniature while the actual hills continue in cooler ungathered light; optical-print grain; no table, no figure | `no-genius-can-solve-the-knowledge-problem` |
 | **Cinematic oil allegory / silk-cocoon triad** | Dark oil; cracked stone bust with iron collar and wheel; silk-wrapped cracked sphere; butterfly toward light; silk threads becoming ground paths | `zuo-jian-bu-shi-zi-fu` |
 | **Copper photogravure / desire-path aerial** | Full-bleed heliogravure valley; cabin traces joined by worn paths that look inevitable; ghosted denser house in plate-tone shadow; warm-black copper grain; no table | `not-predicting-is-predicting-without-awareness` |
-| **Ikat / warp-resist textile full-bleed** | Cream cotton, indigo–rust warp-resist, sheared motif that never arrives as the drawn figure; yarn tooth, blurred resist edges; no table | `rationality-never-travels-across-the-mind` |
+| **Cinematic split / geometric lattice and island reinterpretation** | Cool blue wireframe polyhedron and luminous path left; central figure on a disk under floating orbs; warm ochre right with isolated moss islands, knowledge-tree, and stone profile; no table, no text | `rationality-never-travels-across-the-mind` |
 
 ## Inventory (by slug)
 
@@ -270,7 +270,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `price-as-utterance-understanding-as-trade` | Wire-service teletype / ticker-tape still |
 | `production-consumption-and-the-minds-distinction` | Photoreal tableau |
 | `public-spending-does-not-create-capital` | Exchequer counting-board still |
-| `rationality-never-travels-across-the-mind` | Ikat / warp-resist textile full-bleed |
+| `rationality-never-travels-across-the-mind` | Cinematic split / geometric lattice and island reinterpretation |
 | `reality-is-the-minds-ongoing-realization` | Comic halftone / Ben-Day dots |
 | `ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng` | Cinematic path / iteration-loop icons |
 | `restriction-is-a-selective-tax` | Bokashi woodblock / graded indigo print |
