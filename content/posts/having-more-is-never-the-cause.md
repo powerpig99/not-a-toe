@@ -12,7 +12,7 @@ Jesus repeats the observation in several places (Matthew 13:12, 25:29; Mark 4:25
 
 In Gospel context the line usually concerns spiritual receptivity or faithful stewardship of what has been entrusted. The underlying registration is broader. Those who continue the coherent distinguishing that first produced visible advantage see that residue reinforced. Those who do not see even prior residue dissipate. Economists later named the same pattern the Matthew effect — not as a new mechanism, but as a label for one-way shaping made legible at social scale.
 
-Trace runs one way. Earlier acts shape the field available to later ones. What later centers meet as “advantage already present” is that shaping, re-rendered. The verse records the pattern. It does not install possession as a second engine.
+Trace runs one way. Earlier acts shape the field available to later ones. What later centers meet as “advantage already present” is that shaping, re-rendered. The verse records the pattern. It does not install possession as a second engine. [Not predicting is predicting without awareness](../not-predicting-is-predicting-without-awareness/) is that shaping when the freedom to defer is taken as a method rather than as fruit of prior predicting still compounding in the field.
 
 ## A new account stages residue already ambient
 

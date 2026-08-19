@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-19T05:14:01.202Z",
+    "generated_at": "2026-08-19T05:16:50.019Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -31,7 +31,7 @@
       "content/posts/climbing-does-not-leave-the-ground.md": "3b3177a38140",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "b6a36427b912",
       "content/posts/closed-reality-in-benchmark-maxing.md": "bf12c4eac2ea",
-      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "b4c59dbffea9",
+      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "870784c953a3",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "2422b659a645",
@@ -66,14 +66,14 @@
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
-      "content/posts/having-more-is-never-the-cause.md": "72c75f459c46",
+      "content/posts/having-more-is-never-the-cause.md": "152b38f49428",
       "content/posts/help-is-half-the-problem.md": "686ba3ac40ff",
       "content/posts/hierarchy-from-individual-difference.md": "1c387c86f011",
       "content/posts/how-belief-actually-changes.md": "4d8ab09ff782",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "1b8b2e1a04c2",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "2b552060cd77",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -97,7 +97,7 @@
       "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
-      "content/posts/not-predicting-is-predicting-without-awareness.md": "6d7c9b1f625b",
+      "content/posts/not-predicting-is-predicting-without-awareness.md": "06c21a27cffb",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b3d1ca64dcad",
       "content/posts/on-education.md": "d62f17d7f550",
       "content/posts/only-if-it-is-not-kept-empty.md": "d22c38a19167",
@@ -225,8 +225,8 @@
     },
     "stats": {
       "posts": 214,
-      "edges": 2135,
-      "unique_directed": 2112,
+      "edges": 2140,
+      "unique_directed": 2116,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
@@ -248,7 +248,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 40
+      "in_degree": 41
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -318,7 +318,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 43
+      "out_degree": 44
     },
     {
       "slug": "openness-is-consistency",
@@ -951,7 +951,7 @@
       "slug": "closed-reality-in-the-pursuit-of-serendipity",
       "path": "content/posts/closed-reality-in-the-pursuit-of-serendipity.md",
       "title": "Closed Reality in the Pursuit of Serendipity",
-      "hash": "b4c59dbffea9",
+      "hash": "7c59e734d934",
       "in_degree": 7,
       "out_degree": 14,
       "links_out": [
@@ -959,11 +959,11 @@
         "openness-is-consistency",
         "the-path-drawn-one-step-at-a-time",
         "no-system-can-be-kept-closed",
+        "not-predicting-is-predicting-without-awareness",
         "production-consumption-and-the-minds-distinction",
         "writing-without-the-image",
         "the-scaffolding-we-forget",
         "only-if-it-is-not-kept-empty",
-        "not-predicting-is-predicting-without-awareness",
         "a-new-deeper-look-at-antifragility",
         "the-paradoxical-nature-of-bystander-insights",
         "the-reality-distortion-field-names-the-closed-map",
@@ -1595,10 +1595,11 @@
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
-      "hash": "72c75f459c46",
-      "in_degree": 14,
-      "out_degree": 16,
+      "hash": "152b38f49428",
+      "in_degree": 15,
+      "out_degree": 17,
       "links_out": [
+        "not-predicting-is-predicting-without-awareness",
         "performative-hindsight-that-pretends-to-be-foresight",
         "individual-choices-as-the-only-causal-levers",
         "empowerment-establishes-the-centralization-of-power",
@@ -1742,12 +1743,13 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "1b8b2e1a04c2",
-      "in_degree": 40,
-      "out_degree": 43,
+      "hash": "2b552060cd77",
+      "in_degree": 41,
+      "out_degree": 44,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
+        "not-predicting-is-predicting-without-awareness",
         "the-irreducible-prior-of-decision-and-consequence",
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
@@ -2298,13 +2300,15 @@
       "slug": "not-predicting-is-predicting-without-awareness",
       "path": "content/posts/not-predicting-is-predicting-without-awareness.md",
       "title": "Not Predicting is Predicting without Awareness",
-      "hash": "6d7c9b1f625b",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "06c21a27cffb",
+      "in_degree": 10,
+      "out_degree": 10,
       "links_out": [
         "causality-all-the-way",
         "technology-is-residual-of-human-compounding",
         "the-utility-men-of-progress",
+        "having-more-is-never-the-cause",
+        "individual-choices-as-the-only-causal-levers",
         "the-paradoxical-nature-of-bystander-insights",
         "only-if-it-is-not-kept-empty",
         "closed-reality-in-the-pursuit-of-serendipity",
@@ -6526,6 +6530,12 @@
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not predicting is predicting without awareness"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "Production, consumption, and the Mind’s distinction"
@@ -7930,6 +7940,12 @@
     },
     {
       "from": "having-more-is-never-the-cause",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not predicting is predicting without awareness"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
       "label": "Performative hindsight that pretends to be foresight"
@@ -8335,6 +8351,12 @@
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not predicting is predicting without awareness"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -10033,6 +10055,18 @@
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
       "label": "The utility men of progress"
+    },
+    {
+      "from": "not-predicting-is-predicting-without-awareness",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having more is never the cause"
+    },
+    {
+      "from": "not-predicting-is-predicting-without-awareness",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "not-predicting-is-predicting-without-awareness",
