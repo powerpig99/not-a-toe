@@ -10,7 +10,7 @@ The ordinary freeze treats Technology as something standing apart — a stock hu
 
 Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every discrete act leaves residue; earlier shapes later. Technology, in the sense already derived, is that residue externalized into durable form so further discreteness can land farther and faster. Writing, calculation, institutions, software stacks, and models sit on one continuum of externalization. Densifying the medium expands bandwidth among centers; it does not relocate initiating distinctions into the artifact. [Intelligence belongs only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior. [Artifacts are expressions of intelligence, not intelligence itself](../two-failures-of-trace/) is the freeze when the act collapses onto the only term the look retains.
 
-What the present cut adds is the exact residual identity under successive compounding. Technology is not merely “tools we use.” It is what the continuum becomes beyond its prior hold — Human compounded, less the baseline that entered the product.
+What the present cut adds is the exact residual identity under successive compounding. Technology is not merely “tools we use.” It is what the continuum becomes beyond its prior hold — Human compounded, less the baseline that entered the product. [Not predicting is predicting without awareness](../not-predicting-is-predicting-without-awareness/) is that residue when “add only what you need” can only select among forms already predicted by others.
 
 ## The identity at every finite moment
 
