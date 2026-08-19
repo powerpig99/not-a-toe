@@ -194,6 +194,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Copper photogravure / desire-path aerial** | Full-bleed heliogravure valley; cabin traces joined by worn paths that look inevitable; ghosted denser house in plate-tone shadow; warm-black copper grain; no table | `not-predicting-is-predicting-without-awareness` |
 | **Cinematic split / geometric lattice and island reinterpretation** | Cool blue wireframe polyhedron and luminous path left; central figure on a disk under floating orbs; warm ochre right with isolated moss islands, knowledge-tree, and stone profile; no table, no text | `rationality-never-travels-across-the-mind` |
 | **Watercolor circulating-field illustration** | Cream paper, indigo–gold watercolor; dense data mass compressing through a luminous core into graph, landscape, and silhouetted observers; circulating ribbon | `the-scaling-loop` |
+| **Kinetic long-exposure ink / living brush trail** | Full-bleed near-black field; left a sealed dried ink mass; right a wet gold-amber motion-blurred brush trail still being drawn; paper-fiber grain, no table, no text | `the-homework-exam-inversion-registers-substitution` |
 
 ## Inventory (by slug)
 
@@ -234,6 +235,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `hardness-is-not-inherent-in-the-action` | Dual-terrain photoreal footstep |
 | `hardware-locality-is-not-the-information-boundary` | Cinematic chip–network dual |
 | `hassabis-frontier-agi-premise` | Dark chalk / light trails |
+| `the-homework-exam-inversion-registers-substitution` | Kinetic long-exposure ink / living brush trail |
 | `having-more-is-never-the-cause` | Scratchboard / white-line scraperboard |
 | `hierarchy-from-individual-difference` | Quipu / knotted-cord still life |
 | `how-belief-actually-changes` | Egg tempera / gesso panel still |

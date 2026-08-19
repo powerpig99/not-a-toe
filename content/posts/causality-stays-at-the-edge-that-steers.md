@@ -10,7 +10,7 @@ A recent report said a large language model had found a counterexample to the Ja
 
 That correction is not a dispute about credit or a defense of human specialness. It is a correction of where initiation is registered. Observation holds effect — candidate expressions, search trails, fluent recombinations — and freezes the held image one step past the edge that produced them. What registers as “the system discovered” is observation that stopped returning.
 
-The geometry is the same wherever fluent residue is treated as an independent source of the next step. [What always listens cannot originate](../what-always-listens-cannot-originate/) is the receptivity face: continuous listening is high-bandwidth availability of prior traces, not a locus that introduces ends. Here the face is mathematical discovery under an instrument. The cut is one.
+The geometry is the same wherever fluent residue is treated as an independent source of the next step. [What always listens cannot originate](../what-always-listens-cannot-originate/) is the receptivity face: continuous listening is high-bandwidth availability of prior traces, not a locus that introduces ends. Here the face is mathematical discovery under an instrument. The cut is one. [The homework–exam inversion registers substitution](../the-homework-exam-inversion-registers-substitution/) is that placement when the exam decline is treated as what the tool did to the student.
 
 ## Technology, not a delayed mind
 
