@@ -44,6 +44,8 @@ This mechanism also explains why current educational measurements produce the st
 
 If one score includes raw capability plus AI and the other is raw capability only, one will always sit above the other. That is not a further fact about the tool. It is the composition of the two instruments. Homework for an AI user is the raw term plus the tool’s contribution. The exam is the raw term alone. Compare those two numbers and the homework number sits above.
 
+Using the tool when the homework score is allowed to include it is rational. There is no reason to use a tool that does not raise the allowed score above raw capability. If it did not, the AI would be useless, and the use would not make sense. Take the homework number — AI allowed — as the reference, then test without AI, and the result is lower than they would score with the tool. That is what a useful instrument looks like under that rule. The graph reads the usefulness as decline.
+
 The graph is more misleading still once the homework score is held fixed. For the student who did not use AI, that number is already raw capability. For the student who did, that number is raw plus the tool. The exam then measures raw only. Whoever did not use AI will test better than whoever did, at the same homework score. The comparison is guaranteed by the measurement.
 
 Another factor stacks the same comparison. The lower the raw capability, the larger the gap between that remainder and the homework score the tool can supply, and the stronger the motivation to use AI when it is allowed. Selection into the AI-user group is already toward lower raw. The graph then reads that selection as the tool’s effect.
