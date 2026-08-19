@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-19T08:26:25.310Z",
+    "generated_at": "2026-08-19T11:13:50.728Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -18,11 +18,11 @@
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "fd9d3cf5c73a",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
-      "content/posts/amplification-paradox.md": "2cf0851ac626",
+      "content/posts/amplification-paradox.md": "c3b13c52eeb2",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/causality-all-the-way.md": "b09b92dac26c",
       "content/posts/causality-and-the-irreducible-prior.md": "c96665a92e38",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "c70a9529b18f",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "fca6385fbaf3",
       "content/posts/cheng-gong-xue.md": "44fc72472f43",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
@@ -30,7 +30,7 @@
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "3b3177a38140",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "618ae4ecd116",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "bf12c4eac2ea",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "d57165a32284",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "870784c953a3",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
@@ -73,7 +73,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "2b552060cd77",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "348df91faf5d",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -86,7 +86,7 @@
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "634293b4399b",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "cbe3516728e9",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "ab62bb2170df",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "9dd5cf7a04dd",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
@@ -141,7 +141,7 @@
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "6730e444af0a",
       "content/posts/technology-is-residual-of-human-compounding.md": "6c31f4a77ded",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "445d33effe5c",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "d4b3a556c07f",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-average-is-residue-not-the-engine.md": "123695e9e8b0",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
@@ -158,6 +158,7 @@
       "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
+      "content/posts/the-homework-exam-inversion-registers-substitution.md": "8d8d5d224b2e",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
       "content/posts/the-illusion-of-free-intelligence.md": "1777907196fe",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
@@ -208,7 +209,7 @@
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "5884e2734656",
-      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "7123d871117c",
+      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "ec63f1f3d6a3",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
@@ -226,13 +227,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 216,
-      "edges": 2162,
-      "unique_directed": 2138,
+      "posts": 217,
+      "edges": 2176,
+      "unique_directed": 2152,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 37,
-      "posts_with_outbound": 162
+      "posts_with_outbound": 163
     }
   },
   "hubs_in": [
@@ -250,7 +251,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 41
+      "in_degree": 42
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -270,7 +271,11 @@
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 28
+      "in_degree": 29
+    },
+    {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "in_degree": 26
     },
     {
       "slug": "hierarchy-from-individual-difference",
@@ -281,15 +286,15 @@
       "in_degree": 26
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 25
-    },
-    {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "in_degree": 25
     },
     {
       "slug": "externalized-virtue-becomes-its-opposite",
+      "in_degree": 24
+    },
+    {
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 24
     },
     {
@@ -299,10 +304,6 @@
     {
       "slug": "the-path-drawn-one-step-at-a-time",
       "in_degree": 24
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 23
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -320,7 +321,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 44
+      "out_degree": 45
     },
     {
       "slug": "openness-is-consistency",
@@ -343,6 +344,14 @@
       "out_degree": 28
     },
     {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "out_degree": 27
+    },
+    {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "out_degree": 27
+    },
+    {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 27
     },
@@ -351,15 +360,7 @@
       "out_degree": 27
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "out_degree": 26
-    },
-    {
       "slug": "hierarchy-from-individual-difference",
-      "out_degree": 26
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
       "out_degree": 26
     },
     {
@@ -634,12 +635,13 @@
       "slug": "amplification-paradox",
       "path": "content/posts/amplification-paradox.md",
       "title": "The Amplification Paradox",
-      "hash": "2cf0851ac626",
-      "in_degree": 4,
-      "out_degree": 2,
+      "hash": "c3b13c52eeb2",
+      "in_degree": 5,
+      "out_degree": 3,
       "links_out": [
         "the-ramble-within-the-ramble",
-        "the-artifacts-of-self-amplification"
+        "the-artifacts-of-self-amplification",
+        "the-homework-exam-inversion-registers-substitution"
       ]
     },
     {
@@ -736,11 +738,12 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
-      "hash": "c70a9529b18f",
-      "in_degree": 21,
-      "out_degree": 20,
+      "hash": "fca6385fbaf3",
+      "in_degree": 22,
+      "out_degree": 21,
       "links_out": [
         "what-always-listens-cannot-originate",
+        "the-homework-exam-inversion-registers-substitution",
         "intelligence-belongs-only-to-the-mind",
         "the-flywheel-of-the-mind",
         "self-rl-for-humans",
@@ -915,12 +918,13 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
-      "hash": "bf12c4eac2ea",
-      "in_degree": 25,
-      "out_degree": 26,
+      "hash": "d57165a32284",
+      "in_degree": 26,
+      "out_degree": 27,
       "links_out": [
         "you-cant-benchmark-the-fluid",
         "agi-and-asi-are-temporary-goalposts",
+        "the-homework-exam-inversion-registers-substitution",
         "no-system-can-be-kept-closed",
         "why-mathematics-can-never-be-solved",
         "the-source-of-all-harm",
@@ -1748,10 +1752,11 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "2b552060cd77",
-      "in_degree": 41,
-      "out_degree": 44,
+      "hash": "348df91faf5d",
+      "in_degree": 42,
+      "out_degree": 45,
       "links_out": [
+        "the-homework-exam-inversion-registers-substitution",
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
         "not-predicting-is-predicting-without-awareness",
@@ -2052,10 +2057,11 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
-      "hash": "cbe3516728e9",
-      "in_degree": 23,
-      "out_degree": 26,
+      "hash": "ab62bb2170df",
+      "in_degree": 24,
+      "out_degree": 27,
       "links_out": [
+        "the-homework-exam-inversion-registers-substitution",
         "two-failures-of-trace",
         "the-flight-analogy-leaves-the-mind-untouched",
         "the-non-definitive-definition-of-intelligence",
@@ -3339,11 +3345,12 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "445d33effe5c",
-      "in_degree": 28,
-      "out_degree": 14,
+      "hash": "d4b3a556c07f",
+      "in_degree": 29,
+      "out_degree": 15,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
+        "the-homework-exam-inversion-registers-substitution",
         "hierarchy-from-individual-difference",
         "empowerment-establishes-the-centralization-of-power",
         "expertise-as-reference-not-replacement",
@@ -3688,6 +3695,25 @@
         "causality-all-the-way",
         "the-presumption-of-agi-and-the-view-from-outside",
         "consciousness-never-appears-as-data-among-data"
+      ]
+    },
+    {
+      "id": "post:the-homework-exam-inversion-registers-substitution",
+      "kind": "post",
+      "slug": "the-homework-exam-inversion-registers-substitution",
+      "path": "content/posts/the-homework-exam-inversion-registers-substitution.md",
+      "title": "The Homework–Exam Inversion Registers Substitution",
+      "hash": "8d8d5d224b2e",
+      "in_degree": 7,
+      "out_degree": 7,
+      "links_out": [
+        "mistaking-the-expression-for-the-intelligence",
+        "causality-stays-at-the-edge-that-steers",
+        "the-allocation-of-causal-power-in-validation",
+        "amplification-paradox",
+        "token-efficiency-emulation-and-the-unclosable-gap",
+        "closed-reality-in-benchmark-maxing",
+        "individual-choices-as-the-only-causal-levers"
       ]
     },
     {
@@ -4754,12 +4780,13 @@
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
       "path": "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md",
       "title": "Token Efficiency, Emulation, and the Unclosable Gap",
-      "hash": "7123d871117c",
-      "in_degree": 7,
-      "out_degree": 14,
+      "hash": "ec63f1f3d6a3",
+      "in_degree": 8,
+      "out_degree": 15,
       "links_out": [
         "efficiency-without-differentiation",
         "distillation-compression-agency",
+        "the-homework-exam-inversion-registers-substitution",
         "self-rl-for-humans",
         "ownership-and-self-worthiness",
         "what-always-listens-cannot-originate",
@@ -5641,6 +5668,12 @@
       "label": "The artifacts of self-amplification"
     },
     {
+      "from": "amplification-paradox",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "The homework–exam inversion registers substitution"
+    },
+    {
       "from": "better-than-free-after-the-checklist-closes",
       "to": "when-abundance-looks-like-scarcity",
       "rel": "points_to",
@@ -5891,6 +5924,12 @@
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
       "label": "What always listens cannot originate"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "The homework–exam inversion registers substitution"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -6413,6 +6452,12 @@
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "closed-reality-in-benchmark-maxing",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "The homework–exam inversion registers substitution"
     },
     {
       "from": "closed-reality-in-benchmark-maxing",
@@ -8408,6 +8453,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "The homework–exam inversion registers substitution"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "Causality all the way"
@@ -9323,6 +9374,12 @@
       "to": "the-surface-beneath",
       "rel": "points_to",
       "label": "The Surface Beneath"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "The homework–exam inversion registers substitution"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -13028,6 +13085,12 @@
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "The homework–exam inversion registers substitution"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from individual difference"
@@ -13955,6 +14018,48 @@
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "Consciousness never appears as data among data"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "amplification-paradox",
+      "rel": "points_to",
+      "label": "The amplification paradox"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token efficiency, emulation, and the unclosable gap"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed reality in benchmark maxing"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -17045,6 +17150,12 @@
       "to": "distillation-compression-agency",
       "rel": "points_to",
       "label": "Distillation chooses what to lose"
+    },
+    {
+      "from": "token-efficiency-emulation-and-the-unclosable-gap",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "The homework–exam inversion registers substitution"
     },
     {
       "from": "token-efficiency-emulation-and-the-unclosable-gap",
