@@ -22,7 +22,7 @@ When the same individual is inside a real-time decision, the reference frame has
 
 ## The switch is unnoticed
 
-The switch between the two frames happens without awareness. From outside it looks like contradiction: the same person who affirms the fundamentals proceeds as if they do not constrain the choice. From inside there is no contradiction; there are simply two different retained measures, each coherent where it is held, treated as continuous. [Openness is consistency](../openness-is-consistency/) is the surface contradiction that appears when a finite hold is forced to ground what only continues. Here the finite hold is the image of already knowing, forced to cover the frame that is actually deciding.
+The switch between the two frames happens without awareness. From outside it looks like contradiction: the same person who affirms the fundamentals proceeds as if they do not constrain the choice. From inside there is no contradiction; there are simply two different retained measures, each coherent where it is held, treated as continuous. [Openness is consistency](../openness-is-consistency/) is the surface contradiction that appears when a finite hold is forced to ground what only continues. Here the finite hold is the image of already knowing, forced to cover the frame that is actually deciding. [Not predicting is predicting without awareness](../not-predicting-is-predicting-without-awareness/) is that switch when the operating reference is already choosing while the retained image is of not predicting.
 
 ## Knowledge is present; the operating reference is not
 
