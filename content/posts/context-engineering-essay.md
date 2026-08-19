@@ -42,15 +42,15 @@ Context engineering, properly understood, is context alignment. You're not injec
 
 ## Two Limits
 
-Prompt engineering and other post-training methods work because the pre-trained model already has contexts built in—compressed into weights through exposure to vast distinction-structures. Post-training methods are all attempts to align context more effectively with what's already there.
+Prompt engineering and other post-training methods work because the pre-trained model already has contexts built in—compressed into weights through exposure to vast distinction-structures. Post-training methods of a given snapshot are attempts to align context more effectively with what that snapshot already holds.
 
-Each method has its own limit, and all share an ultimate limit.
+Each method has its own limit. A given snapshot shares a present hold.
 
 **Method-specific limits** are context-dependent by definition. Prompting is constrained by context length—and even when extended, more context can dilute the signal. You trade breadth for focus. Retrieval-augmented generation adds external context but introduces alignment problems between retrieved content and model priors. Fine-tuning reshapes weights but risks catastrophic forgetting. Each method's ceiling is set by its own trade-offs, none resolvable within the method itself.
 
-**The ultimate limit** lives in pre-training. The model's context is finite. It cannot resonate with distinctions it never encountered, structures it never compressed, patterns absent from its training distribution. You cannot align to what does not exist in the weights. No post-training method transcends this—they all operate within the space pre-training carved out.
+**The present hold** lives in the current pre-training snapshot. A given model's weights are a finite compression of the current artifact set. Prompting and other post-training methods of *this* snapshot operate within that hold: they cannot align to distinctions the present weights never compressed. That constraint is real as capacity. It is not the ultimate limit of the process. Successful recombination produces new artifacts — synthetic data, trajectories, preference signals — that the next scale-up will compress. Treating the present weights as the floor of the loop freezes one snapshot of compression as exhaustive ground. [The scaling loop](../the-scaling-loop/) is that circulation: scale-up tightens the hold; scale-out redraws what the next hold will contain.
 
-This explains why prompt engineering works and why it has limits. It works because you're directly manipulating projection-selection—aligning the context so relevant distinctions propagate. It hits method limits when context length forces trade-offs. It hits ultimate limits when the desired distinction was never learned.
+This explains why prompt engineering works and why it has limits. It works because you're directly manipulating projection-selection—aligning the context so relevant distinctions propagate. It hits method limits when context length forces trade-offs. It hits the present hold when the desired distinction was never compressed into this snapshot — a bound the circulating process redraws rather than a floor of the activity.
 
 It also dissolves confused questions. "Does the model really understand?" asks whether there's something inside doing the understanding. There's nothing inside. There's projection-selection happening. Understanding—if the word means anything here—*is* the resonance between input distinctions and output distinctions. Not a property of an agent, but a quality of the dynamics.
 
