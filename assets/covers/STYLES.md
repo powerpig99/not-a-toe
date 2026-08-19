@@ -193,7 +193,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic oil allegory / silk-cocoon triad** | Dark oil; cracked stone bust with iron collar and wheel; silk-wrapped cracked sphere; butterfly toward light; silk threads becoming ground paths | `zuo-jian-bu-shi-zi-fu` |
 | **Copper photogravure / desire-path aerial** | Full-bleed heliogravure valley; cabin traces joined by worn paths that look inevitable; ghosted denser house in plate-tone shadow; warm-black copper grain; no table | `not-predicting-is-predicting-without-awareness` |
 | **Cinematic split / geometric lattice and island reinterpretation** | Cool blue wireframe polyhedron and luminous path left; central figure on a disk under floating orbs; warm ochre right with isolated moss islands, knowledge-tree, and stone profile; no table, no text | `rationality-never-travels-across-the-mind` |
-| **Nerikomi / laminated-clay spiral macro** | Full-bleed cut face of folded mineral clays, nested cream–indigo–iron-red–charcoal rings, wet outer seam still open, raking light, no table | `the-scaling-loop` |
+| **Watercolor circulating-field illustration** | Cream paper, indigo–gold watercolor; dense data mass compressing through a luminous core into graph, landscape, and silhouetted observers; circulating ribbon | `the-scaling-loop` |
 
 ## Inventory (by slug)
 
@@ -316,7 +316,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-ramble-within-the-ramble` | Anaglyph red-cyan stereo graphic |
 | `the-real-scarcity-is-not-memory-but-continuous-re-tracing` | Charcoal wipe / continuous redraw on newsprint |
 | `the-scaffolding-that-keeps-growing` | Lithographic crayon / stone print |
-| `the-scaling-loop` | Nerikomi / laminated-clay spiral macro |
+| `the-scaling-loop` | Watercolor circulating-field illustration |
 | `the-scaffolding-we-forget` | Ink wash / sumi-e |
 | `the-scaffolding-we-forget-local-models-as-default` | Constructivist poster |
 | `the-source-of-all-harm` | Assay touchstone / gold-streak still |
