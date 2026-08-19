@@ -191,6 +191,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic sealed-block / chained-sun dual** | Full-bleed split: dark cubic lattice and hanging iron chains left; golden corona ring and particle sun right; chains reaching toward the open light | `e-shi-feng-bi-de-shan` |
 | **Claude glass / black-mirror landscape** | Full-bleed valley; darkened convex black oval gathering the terrain into one warm miniature while the actual hills continue in cooler ungathered light; optical-print grain; no table, no figure | `no-genius-can-solve-the-knowledge-problem` |
 | **Cinematic oil allegory / silk-cocoon triad** | Dark oil; cracked stone bust with iron collar and wheel; silk-wrapped cracked sphere; butterfly toward light; silk threads becoming ground paths | `zuo-jian-bu-shi-zi-fu` |
+| **Copper photogravure / desire-path aerial** | Full-bleed heliogravure valley; cabin traces joined by worn paths that look inevitable; ghosted denser house in plate-tone shadow; warm-black copper grain; no table | `not-predicting-is-predicting-without-awareness` |
 
 ## Inventory (by slug)
 
@@ -254,6 +255,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind` | Möbius paper sculpture still |
 | `no-system-can-be-kept-closed` | Risograph flat print |
 | `not-a-theory-of-everything` | Mezzotint / aquatint |
+| `not-predicting-is-predicting-without-awareness` | Copper photogravure / desire-path aerial |
 | `open-vision-in-a-closed-arena` | Limestone bas-relief / architectural frieze |
 | `openness-is-consistency` | Painterly glass / gold path |
 | `pessimism-is-the-shadow-of-optimism` | Open assay balance still |
