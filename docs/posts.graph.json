@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-19T05:16:50.019Z",
+    "generated_at": "2026-08-19T06:02:47.614Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -115,10 +115,11 @@
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "335a9922f39a",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "68ab85660984",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "1cb0d8ca3e76",
-      "content/posts/price-as-utterance-understanding-as-trade.md": "3044ff41ff78",
+      "content/posts/price-as-utterance-understanding-as-trade.md": "6558c6cbe62e",
       "content/posts/production-consumption-and-the-minds-distinction.md": "59bd2266e262",
       "content/posts/public-spending-does-not-create-capital.md": "f6f02ea6a500",
       "content/posts/qian-yin-hou-guo.md": "8a887ca0d657",
+      "content/posts/rationality-never-travels-across-the-mind.md": "72444ca4458e",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
@@ -128,7 +129,7 @@
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
-      "content/posts/self-image-speaks-as-if-from-nowhere.md": "22db3e991ad8",
+      "content/posts/self-image-speaks-as-if-from-nowhere.md": "818834e2a5b6",
       "content/posts/self-rl-for-humans.md": "5d362f0ad134",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "32af5139e074",
@@ -183,7 +184,7 @@
       "content/posts/the-price-of-closing-optionality.md": "181e0ec3ab51",
       "content/posts/the-question-that-installs-the-war.md": "f554178d2df7",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
-      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "6f4064d37dd5",
+      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "34ea7216b243",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "3763c8faf4bb",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
@@ -214,7 +215,7 @@
       "content/posts/whatever-is-one-prompt-away.md": "2683afd3253b",
       "content/posts/when-abundance-looks-like-scarcity.md": "6ba7612c2611",
       "content/posts/when-need-stops-being-the-measure.md": "ff23d1d0c5f3",
-      "content/posts/when-observation-becomes-performance.md": "44b0740cc91b",
+      "content/posts/when-observation-becomes-performance.md": "d827123b75cc",
       "content/posts/when-the-effect-authors-the-frame.md": "62b9a8fd1c84",
       "content/posts/why-explanation-fails.md": "608ce06ef580",
       "content/posts/why-mathematics-can-never-be-solved.md": "99a49d1f0dea",
@@ -224,13 +225,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 214,
-      "edges": 2140,
-      "unique_directed": 2116,
+      "posts": 215,
+      "edges": 2148,
+      "unique_directed": 2124,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 38,
-      "posts_with_outbound": 159
+      "posts_with_outbound": 160
     }
   },
   "hubs_in": [
@@ -2713,14 +2714,15 @@
       "slug": "price-as-utterance-understanding-as-trade",
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "Price as Utterance, Understanding as Trade",
-      "hash": "3044ff41ff78",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "6558c6cbe62e",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "having-more-is-never-the-cause",
         "what-works-is-the-belief",
         "causality-all-the-way",
+        "rationality-never-travels-across-the-mind",
         "reality-is-the-minds-ongoing-realization",
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
@@ -2821,6 +2823,22 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "cheng-gong-xue",
         "mi-lv-shi-jie-guo-de-biao-xiang"
+      ]
+    },
+    {
+      "id": "post:rationality-never-travels-across-the-mind",
+      "kind": "post",
+      "slug": "rationality-never-travels-across-the-mind",
+      "path": "content/posts/rationality-never-travels-across-the-mind.md",
+      "title": "Rationality Never Travels Across the Mind",
+      "hash": "72444ca4458e",
+      "in_degree": 4,
+      "out_degree": 4,
+      "links_out": [
+        "the-rational-choice-postulate-is-the-original-sin",
+        "price-as-utterance-understanding-as-trade",
+        "self-image-speaks-as-if-from-nowhere",
+        "when-observation-becomes-performance"
       ]
     },
     {
@@ -3006,9 +3024,9 @@
       "slug": "self-image-speaks-as-if-from-nowhere",
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "Self-Image Speaks as if from Nowhere",
-      "hash": "22db3e991ad8",
-      "in_degree": 19,
-      "out_degree": 19,
+      "hash": "818834e2a5b6",
+      "in_degree": 20,
+      "out_degree": 20,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
         "writing-without-the-image",
@@ -3016,6 +3034,7 @@
         "causality-stays-at-the-edge-that-steers",
         "the-model-never-becomes-a-second-edge",
         "intelligence-belongs-only-to-the-mind",
+        "rationality-never-travels-across-the-mind",
         "sowell-observed-the-surface-problem",
         "agi-and-asi-are-temporary-goalposts",
         "the-fixed-image-of-transcendence",
@@ -4199,9 +4218,9 @@
       "slug": "the-rational-choice-postulate-is-the-original-sin",
       "path": "content/posts/the-rational-choice-postulate-is-the-original-sin.md",
       "title": "The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories",
-      "hash": "6f4064d37dd5",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "34ea7216b243",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "price-as-utterance-understanding-as-trade",
@@ -4217,6 +4236,7 @@
         "closed-reality-in-benchmark-maxing",
         "the-allocation-of-causal-power-in-validation",
         "openness-is-consistency",
+        "rationality-never-travels-across-the-mind",
         "consciousness-never-appears-as-data-among-data",
         "cheng-gong-xue"
       ]
@@ -4910,14 +4930,15 @@
       "slug": "when-observation-becomes-performance",
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "When Observation Becomes Performance",
-      "hash": "44b0740cc91b",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "d827123b75cc",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
         "mei-you-pu-du-zhi-you-zi-du",
         "the-paradoxical-nature-of-bystander-insights",
         "liberation-rhetoric-begins-by-defining-captivity",
+        "rationality-never-travels-across-the-mind",
         "two-failures-of-trace",
         "writing-without-the-image",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -11300,6 +11321,12 @@
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "Rationality never travels across the Mind"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "Reality is the Mind’s ongoing realization"
@@ -11681,6 +11708,30 @@
       "to": "mi-lv-shi-jie-guo-de-biao-xiang",
       "rel": "points_to",
       "label": "幂律是结果的表象，不是生成的逻辑"
+    },
+    {
+      "from": "rationality-never-travels-across-the-mind",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
+    },
+    {
+      "from": "rationality-never-travels-across-the-mind",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
+    },
+    {
+      "from": "rationality-never-travels-across-the-mind",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
+      "from": "rationality-never-travels-across-the-mind",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When observation becomes performance"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
@@ -12149,6 +12200,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "Rationality never travels across the Mind"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
@@ -15284,6 +15341,12 @@
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "Rationality never travels across the Mind"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "Consciousness never appears as data among data"
@@ -17525,6 +17588,12 @@
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
       "label": "Liberation rhetoric begins by defining captivity"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "Rationality never travels across the Mind"
     },
     {
       "from": "when-observation-becomes-performance",
