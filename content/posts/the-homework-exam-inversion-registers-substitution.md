@@ -2,13 +2,13 @@
 
 *Tools do nothing automatically; the effect is the stance the individual takes toward effort, output, and agency.*
 
-Homework scores once predicted exam performance. A large panel of more than 26,000 Chinese secondary-school students found that generative-AI adoption raised average homework scores by about 18 percent and cut completion time by roughly 30 percent, while closed-book monthly exam scores fell by around 20 percent within six months and high-stakes entrance-exam scores declined by 18 to 24 percent over a longer period. The losses concentrated among approximately 80 percent of AI users whose homework behavior — high scores paired with unusually short completion times — pointed to heavy outsourcing of effort. The inversion, and a with-AI exam curve sitting strictly below a without-AI curve, is presented as the tool eroding ability. Homework for AI users is raw capability plus the tool’s contribution; the exam measures only that raw remainder, then averages it.
+Homework scores once predicted exam performance. A large panel of more than 26,000 Chinese secondary-school students found that generative-AI adoption raised average homework scores by about 18 percent and cut completion time by roughly 30 percent, while closed-book monthly exam scores fell by around 20 percent within six months and high-stakes entrance-exam scores declined by 18 to 24 percent over a longer period. The losses concentrated among approximately 80 percent of AI users whose homework behavior — high scores paired with unusually short completion times — pointed to heavy outsourcing of effort. The inversion, and a with-AI exam curve sitting strictly below a without-AI curve, is presented as the tool eroding ability. It is an artifact of the measurement: one score is raw capability plus AI, the other is raw capability only, so one sits above the other.
 
 ## The circulating graph locates the cause in the tool
 
 The empirical pattern is real. Homework scores rose. Completion time fell. Unaided exam scores fell, and the fall was largest among those whose homework times revealed substitution. The graph of that inversion is a useful instrument. It densifies comparison between two registers that used to move together.
 
-The freeze is treating the inversion as an effect the tool performs on the student. [Mistaking the expression for the intelligence](../mistaking-the-expression-for-the-intelligence/) is that freeze when a score is held as the activity. Here the homework score becomes an expression of student-plus-tool while the exam remains an expression of the student alone. The two instruments no longer share a subject. Reading the gap as what AI did to capability relocates initiation into the medium.
+The freeze is treating the inversion as an effect the tool performs on the student. [Mistaking the expression for the intelligence](../mistaking-the-expression-for-the-intelligence/) is that freeze when a score is held as the activity. Here the homework score becomes an expression of student-plus-tool while the exam remains an expression of the student alone. The two instruments no longer share a subject. The gap is an artifact of that mismatch. Reading it as what AI did to capability relocates initiation into the medium.
 
 ## Tools do nothing automatically
 
@@ -40,11 +40,11 @@ This mechanism also explains why current educational measurements produce the st
 
 [Closed reality in benchmark maxing](../closed-reality-in-benchmark-maxing/) is the sealed-field face: a scoreboard measures what it was drawn to measure. The closed-book exam is such a hold. Under that hold, substitution is decline. Treating the hold as the whole of capability — including capability exercised with the tool — is a further freeze. The exam remains a valid instrument for unaided performance. Exhaustiveness does not travel with it.
 
-## The exam measures only raw capability
+## The inversion is an artifact of the measurement
 
-For a student who uses AI, the homework score is raw capability plus the tool’s contribution to the output. The exam measures only raw capability. By definition, when the tool’s part is taken out of the score, what remains sits below.
+If one score includes raw capability plus AI and the other is raw capability only, one will always sit above the other. That is not a further fact about the tool. It is the composition of the two instruments. Homework for an AI user is the raw term plus the tool’s contribution. The exam is the raw term alone. Compare those two numbers and the homework number sits above.
 
-The with-AI exam curve that sits strictly below the without-AI curve is that remainder, averaged. Individuals who use the tool to amplify their own capability exist. They are a minority among AI users. Their raw capability is averaged out by the rest of the group, whose homework behavior shows substitution.
+The with-AI exam curve that sits strictly below the without-AI curve is the raw term, averaged. Individuals who use the tool to amplify their own capability exist. They are a minority among AI users. Their raw capability is averaged out by the rest of the group, whose homework behavior shows substitution.
 
 People who never had a chance to take modern transportation would on average be more capable of walking than those who do. The walking difference is real. It is not a measure of mobility. Thank God we do not actually only walk around.
 
