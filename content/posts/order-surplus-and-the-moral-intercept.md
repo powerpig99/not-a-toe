@@ -22,13 +22,13 @@ That split is what a general technique usually produces. Most people take the ne
 
 ## Overproduction is compensated by overconsumption
 
-Leveraged production at a few places, wide use at many: the overproduction of the few has to be compensated by the overconsumption of the mass for that arrangement to exist or continue. That is how the feedback loop works. It is not a claim.
+Leveraged production at a few places, wide use at many: the overproduction of the few has to be compensated by the overconsumption of the mass for that arrangement to exist or continue. That is how the feedback loop works.
 
 The difference is where causal power is located, and the moral language around that location. Expressed collectively, the two faces are individualism and collectivism. If the next allocation is kept where the output was made, the resonant story is respect for personal assets. If it is placed on a collective object that must be moved, the resonant story is the justification of transfer. Those stories are the overlay. They do not author whether the producing sequence compounds or thins.
 
 Production is the source; consumption is the feedback that returns on the next round. Locate causal power on consumption, and the direction inverts: later registration is asked to authorize what has already occurred, the return is diluted, and the registered direction is contraction. A further step makes transfer necessary as if transfer were what the loop required. The mass is already overconsuming the few’s surplus. That compensation is the loop. Transfer as authorization is extra ground on the return.
 
-[The allocation of causal power in validation](../the-allocation-of-causal-power-in-validation/) is which side is treated as supplying the next step. [Residual individualism](../residual-individualism/) keeps causal power at residual acts; individualism and collectivism as collective moral language are the overlay on that location, not two engines. [Public spending does not create capital](../public-spending-does-not-create-capital/) is the collectivist face when reallocation is scored as origin of creation.
+[The allocation of causal power in validation](../the-allocation-of-causal-power-in-validation/) is which side is treated as supplying the next step. [Residual individualism](../residual-individualism/) keeps causal power at residual acts; individualism and collectivism as collective moral language are the overlay on that location. [Public spending does not create capital](../public-spending-does-not-create-capital/) is the collectivist face when reallocation is scored as origin of creation.
 
 ## Causality has a direction
 
