@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-20T09:29:40.558Z",
+    "generated_at": "2026-08-20T11:05:58.928Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -12,7 +12,7 @@
       "content/posts/a-creation-cannot-replace-its-source.md": "749d2fef34a2",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "5c2c317e8efa",
-      "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "faf892063e82",
+      "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "239e0da0e896",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5d005f5a7e41",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "fd9d3cf5c73a",
@@ -21,7 +21,7 @@
       "content/posts/amplification-paradox.md": "c479585570bb",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/causality-all-the-way.md": "87c4e018e0d5",
-      "content/posts/causality-and-the-irreducible-prior.md": "c96665a92e38",
+      "content/posts/causality-and-the-irreducible-prior.md": "7498a9bd1fda",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "1deb96197a97",
       "content/posts/cheng-gong-xue.md": "44fc72472f43",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
@@ -32,7 +32,7 @@
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "618ae4ecd116",
       "content/posts/closed-reality-in-benchmark-maxing.md": "d57165a32284",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
-      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "870784c953a3",
+      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "7623a955955f",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "5b80b9d897c0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
@@ -95,16 +95,16 @@
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "92cdaa6d6d0b",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
       "content/posts/no-system-can-be-kept-closed.md": "a5c5f59964ed",
-      "content/posts/nobody-has-seen-anything-yet.md": "fbc2396aa02a",
+      "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "06c21a27cffb",
-      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b3d1ca64dcad",
+      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b354e525a5d3",
       "content/posts/on-education.md": "d62f17d7f550",
       "content/posts/only-if-it-is-not-kept-empty.md": "d22c38a19167",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "8df9b7b92d81",
+      "content/posts/openness-is-consistency.md": "03afcc17003a",
       "content/posts/order-surplus-and-the-moral-intercept.md": "2f9f5444f34a",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "606e587bcaea",
@@ -114,7 +114,7 @@
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "659d441ca9fb",
-      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "335a9922f39a",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "fa9cdfe1ece3",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "aba8560f770f",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "1cb0d8ca3e76",
       "content/posts/price-as-utterance-understanding-as-trade.md": "6558c6cbe62e",
@@ -131,6 +131,7 @@
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
+      "content/posts/selection-contradiction-and-open-reality.md": "e92fef52583c",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "818834e2a5b6",
       "content/posts/self-rl-for-humans.md": "5d3466611e3a",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
@@ -231,19 +232,19 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 221,
-      "edges": 2248,
-      "unique_directed": 2224,
+      "posts": 222,
+      "edges": 2261,
+      "unique_directed": 2237,
       "missing_targets": 0,
-      "one_way": 334,
-      "isolated": 37,
-      "posts_with_outbound": 167
+      "one_way": 335,
+      "isolated": 36,
+      "posts_with_outbound": 169
     }
   },
   "hubs_in": [
     {
       "slug": "openness-is-consistency",
-      "in_degree": 55
+      "in_degree": 56
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -329,7 +330,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "out_degree": 42
+      "out_degree": 43
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -425,7 +426,6 @@
     "intelligence-traps-itself",
     "mises-state-analysis",
     "munger-dumb-competition-refined",
-    "nobody-has-seen-anything-yet",
     "on-education",
     "platform-decision-capture",
     "scaffolds-or-specialized-contexts",
@@ -515,12 +515,13 @@
       "slug": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "path": "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md",
       "title": "Abstraction, Boundaries, and the Moving Edge of Reality",
-      "hash": "faf892063e82",
-      "in_degree": 21,
-      "out_degree": 21,
+      "hash": "239e0da0e896",
+      "in_degree": 22,
+      "out_degree": 22,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "lossless-knowledge-of-an-open-field-is-incoherent",
+        "selection-contradiction-and-open-reality",
         "intelligence-belongs-only-to-the-mind",
         "causality-all-the-way",
         "openness-is-consistency",
@@ -724,9 +725,9 @@
       "slug": "causality-and-the-irreducible-prior",
       "path": "content/posts/causality-and-the-irreducible-prior.md",
       "title": "Causality and the Irreducible Prior",
-      "hash": "c96665a92e38",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "7498a9bd1fda",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
         "causality-all-the-way",
         "consciousness-never-appears-as-data-among-data",
@@ -734,6 +735,7 @@
         "climbing-does-not-leave-the-ground",
         "intelligence-belongs-only-to-the-mind",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "selection-contradiction-and-open-reality",
         "reality-is-the-minds-ongoing-realization",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
@@ -990,14 +992,15 @@
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "Complexity Obscures: Emergence as the Act of Mind",
-      "hash": "870784c953a3",
-      "in_degree": 19,
-      "out_degree": 11,
+      "hash": "7623a955955f",
+      "in_degree": 20,
+      "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-flight-analogy-leaves-the-mind-untouched",
         "openness-is-consistency",
         "production-consumption-and-the-minds-distinction",
+        "selection-contradiction-and-open-reality",
         "self-rl-for-humans",
         "data-is-local-intelligence-is-allocated",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -2284,10 +2287,12 @@
       "slug": "nobody-has-seen-anything-yet",
       "path": "content/posts/nobody-has-seen-anything-yet.md",
       "title": "Nobody Has Seen Anything Yet",
-      "hash": "fbc2396aa02a",
+      "hash": "684b9268b2c2",
       "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "out_degree": 1,
+      "links_out": [
+        "selection-contradiction-and-open-reality"
+      ]
     },
     {
       "id": "post:not-a-theory-of-everything",
@@ -2369,12 +2374,13 @@
       "slug": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "path": "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md",
       "title": "On Closed Systems, Open Minds, and the Limits of Proof",
-      "hash": "b3d1ca64dcad",
-      "in_degree": 6,
-      "out_degree": 6,
+      "hash": "b354e525a5d3",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
+        "selection-contradiction-and-open-reality",
         "consciousness-never-appears-as-data-among-data",
         "what-cannot-be-kept",
         "shared-consciousness-is-intersecting-individualities",
@@ -2464,14 +2470,15 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "8df9b7b92d81",
-      "in_degree": 55,
-      "out_degree": 42,
+      "hash": "03afcc17003a",
+      "in_degree": 56,
+      "out_degree": 43,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
+        "selection-contradiction-and-open-reality",
         "a-new-deeper-look-at-antifragility",
         "the-brain-does-not-backprop",
         "what-cannot-be-kept",
@@ -2714,11 +2721,12 @@
       "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "Potential Infinity and the Temporary Closures of Mathematical Thought",
-      "hash": "335a9922f39a",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "fa9cdfe1ece3",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
         "the-scaffolding-we-forget",
+        "selection-contradiction-and-open-reality",
         "no-system-can-be-kept-closed",
         "why-mathematics-can-never-be-solved",
         "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -3094,6 +3102,24 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:selection-contradiction-and-open-reality",
+      "kind": "post",
+      "slug": "selection-contradiction-and-open-reality",
+      "path": "content/posts/selection-contradiction-and-open-reality.md",
+      "title": "Selection, Contradiction, and Open Reality",
+      "hash": "e92fef52583c",
+      "in_degree": 7,
+      "out_degree": 6,
+      "links_out": [
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "causality-and-the-irreducible-prior",
+        "complexity-obscures-emergence-as-the-act-of-mind",
+        "openness-is-consistency",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+        "on-closed-systems-open-minds-and-the-limits-of-proof"
+      ]
     },
     {
       "id": "post:self-image-speaks-as-if-from-nowhere",
@@ -5451,6 +5477,12 @@
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, contradiction, and open reality"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence belongs only to the Mind"
@@ -6042,6 +6074,12 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, contradiction, and open reality"
     },
     {
       "from": "causality-and-the-irreducible-prior",
@@ -6858,6 +6896,12 @@
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "production and consumption"
+    },
+    {
+      "from": "complexity-obscures-emergence-as-the-act-of-mind",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, contradiction, and open reality"
     },
     {
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -10208,6 +10252,12 @@
       "label": "On closed systems, open minds, and the limits of proof"
     },
     {
+      "from": "nobody-has-seen-anything-yet",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, contradiction, and open reality"
+    },
+    {
       "from": "not-a-theory-of-everything",
       "to": "not-a-toe-rewrite",
       "rel": "points_to",
@@ -10479,6 +10529,12 @@
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, contradiction, and open reality"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "Consciousness never appears as data among data"
@@ -10710,6 +10766,12 @@
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
       "label": "Moral language dilutes the feedback that scales freedom"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, contradiction, and open reality"
     },
     {
       "from": "openness-is-consistency",
@@ -11514,6 +11576,12 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The scaffolding we forget"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, contradiction, and open reality"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -12624,6 +12692,42 @@
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
       "label": "The real lesson from the consciousness vector paper"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the irreducible prior"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity obscures: emergence as the act of Mind"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential infinity and the temporary closures of mathematical thought"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "On closed systems, open minds, and the limits of proof"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",

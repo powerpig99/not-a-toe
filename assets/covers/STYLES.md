@@ -199,6 +199,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic desk / dual-posture allegory** | Full-bleed split around a student at a laptop: cool-gray atrophy (wilted plant, broken chain, slumped figure) / teal-gold compounding (living plant, luminous brain, stair-path); operator drop | `studying-the-effect-of-ai-relocates-causality` |
 | **Cinematic split / nested-tunnel recursion** | Cool-gray left: stone head, charts, temple, desk; gold right: nested walking figures in a luminous tunnel; operator drop | `the-unobservable-driver-of-learning` |
 | **Cinematic portrait / product-constellation panorama** | Full-bleed photoreal composite: central portrait, Falcon launch, Mars habitat and Starship, Tesla vehicles and Megapack; cool–warm dual light; operator drop | `failure-as-information` |
+| **Coronagraph / occulting-disk optical plate** | Full-bleed scientific occulting disk, silver-white corona and diffraction rings streaming past the mask into open navy field; no tabletop | `selection-contradiction-and-open-reality` |
 
 ## Inventory (by slug)
 
@@ -283,6 +284,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `reality-is-the-minds-ongoing-realization` | Comic halftone / Ben-Day dots |
 | `ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng` | Cinematic path / iteration-loop icons |
 | `restriction-is-a-selective-tax` | Bokashi woodblock / graded indigo print |
+| `selection-contradiction-and-open-reality` | Coronagraph / occulting-disk optical plate |
 | `self-rl-for-humans` | Dark chalk / light trails |
 | `self-image-speaks-as-if-from-nowhere` | Trompe-l’oeil recursive frame still |
 | `shared-consciousness-is-intersecting-individualities` | Mola reverse-appliqué textile |
