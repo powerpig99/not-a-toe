@@ -195,6 +195,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic split / geometric lattice and island reinterpretation** | Cool blue wireframe polyhedron and luminous path left; central figure on a disk under floating orbs; warm ochre right with isolated moss islands, knowledge-tree, and stone profile; no table, no text | `rationality-never-travels-across-the-mind` |
 | **Watercolor circulating-field illustration** | Cream paper, indigo–gold watercolor; dense data mass compressing through a luminous core into graph, landscape, and silhouetted observers; circulating ribbon | `the-scaling-loop` |
 | **Split editorial watercolor / dual-curve diagram** | Cream paper; left watercolor student with homework–AI–exam icon flow; right overlapping green/red bell curves on a shared axis | `the-homework-exam-inversion-registers-substitution` |
+| **Cinematic production–kitchen dual / molecular stream** | Split field: industrial vial line in cool blue left; warm domestic kitchen compounding right; gold–cyan molecular ribbon and concentric intercept ring on the bench; operator drop | `order-surplus-and-the-moral-intercept` |
 
 ## Inventory (by slug)
 
@@ -262,6 +263,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `not-predicting-is-predicting-without-awareness` | Copper photogravure / desire-path aerial |
 | `open-vision-in-a-closed-arena` | Limestone bas-relief / architectural frieze |
 | `openness-is-consistency` | Painterly glass / gold path |
+| `order-surplus-and-the-moral-intercept` | Cinematic production–kitchen dual / molecular stream |
 | `pessimism-is-the-shadow-of-optimism` | Open assay balance still |
 | `power-law-is-the-long-term-consequence-of-normal-distribution` | Cinematic mist-to-gold compounding panorama |
 | `politicians-appear-as-visible-symptoms-of-responsibility-diffusion` | Wayang kulit / shadow-puppet screen |
