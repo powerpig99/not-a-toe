@@ -198,7 +198,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic production–kitchen dual / molecular stream** | Split field: industrial vial line in cool blue left; warm domestic kitchen compounding right; gold–cyan molecular ribbon and concentric intercept ring on the bench; operator drop | `order-surplus-and-the-moral-intercept` |
 | **Cinematic desk / dual-posture allegory** | Full-bleed split around a student at a laptop: cool-gray atrophy (wilted plant, broken chain, slumped figure) / teal-gold compounding (living plant, luminous brain, stair-path); operator drop | `studying-the-effect-of-ai-relocates-causality` |
 | **Cinematic split / nested-tunnel recursion** | Cool-gray left: stone head, charts, temple, desk; gold right: nested walking figures in a luminous tunnel; operator drop | `the-unobservable-driver-of-learning` |
-| **Lichtenberg figure / captured lightning in acrylic** | Full-bleed smoky acrylic slab, branching white electrical discharge from a dense left burst into a cleaner continuing path, cool silver-white on charcoal-smoke, raking museum light, no table | `failure-as-information` |
+| **Cinematic portrait / product-constellation panorama** | Full-bleed photoreal composite: central portrait, Falcon launch, Mars habitat and Starship, Tesla vehicles and Megapack; cool–warm dual light; operator drop | `failure-as-information` |
 
 ## Inventory (by slug)
 
@@ -233,7 +233,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `evil-as-the-minds-own-creation` | Byzantine glass mosaic |
 | `expertise-as-reference-not-replacement` | Marine pilot chart / sailing-directions still |
 | `externalized-virtue-becomes-its-opposite` | Processional figure / portable shrine still |
-| `failure-as-information` | Lichtenberg figure / captured lightning in acrylic |
+| `failure-as-information` | Cinematic portrait / product-constellation panorama |
 | `good-and-evil-are-the-two-sides-of-the-coin-and-the-cut` | Coining-die pair / mint-die still |
 | `guan-yu-gui-yin` | Industrial-node constellation / gold spiral |
 | `preference-clusters-and-the-language-of-judgment` | Iron-filing magnetograph / scientific plate |
