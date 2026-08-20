@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-19T11:24:55.232Z",
+    "generated_at": "2026-08-20T06:05:28.786Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -18,11 +18,11 @@
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "fd9d3cf5c73a",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
-      "content/posts/amplification-paradox.md": "c3b13c52eeb2",
+      "content/posts/amplification-paradox.md": "c479585570bb",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/causality-all-the-way.md": "b09b92dac26c",
+      "content/posts/causality-all-the-way.md": "87c4e018e0d5",
       "content/posts/causality-and-the-irreducible-prior.md": "c96665a92e38",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "fca6385fbaf3",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "1deb96197a97",
       "content/posts/cheng-gong-xue.md": "44fc72472f43",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
@@ -73,7 +73,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "348df91faf5d",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "27515cee4f61",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -87,7 +87,7 @@
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "ab62bb2170df",
-      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "9dd5cf7a04dd",
+      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "93b678f46885",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
@@ -104,8 +104,9 @@
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
       "content/posts/openness-is-consistency.md": "3397ebf3a5c5",
+      "content/posts/order-surplus-and-the-moral-intercept.md": "2f9f5444f34a",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "bcb7410f50f8",
+      "content/posts/ownership-and-self-worthiness.md": "7029fa080ff6",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "9f9598e7f790",
@@ -116,8 +117,8 @@
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "68ab85660984",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "1cb0d8ca3e76",
       "content/posts/price-as-utterance-understanding-as-trade.md": "6558c6cbe62e",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "8cb06c9ea355",
-      "content/posts/public-spending-does-not-create-capital.md": "f6f02ea6a500",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "001cb3ac05f8",
+      "content/posts/public-spending-does-not-create-capital.md": "13551c0f7f67",
       "content/posts/qian-yin-hou-guo.md": "8a887ca0d657",
       "content/posts/rationality-never-travels-across-the-mind.md": "6d12122abe9d",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
@@ -125,7 +126,7 @@
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "1ae8a15490db",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
-      "content/posts/residual-individualism.md": "0f89120de59f",
+      "content/posts/residual-individualism.md": "826b80e49461",
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -138,10 +139,11 @@
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "7052251d0a3c",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sowell-observed-the-surface-problem.md": "147da1cead49",
+      "content/posts/studying-the-effect-of-ai-relocates-causality.md": "4c18b0bb34c9",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "6730e444af0a",
-      "content/posts/technology-is-residual-of-human-compounding.md": "6c31f4a77ded",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "d4b3a556c07f",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "3ecbd2964bed",
+      "content/posts/technology-is-residual-of-human-compounding.md": "6d1923ce7a6f",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "9390d47e0be0",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-average-is-residue-not-the-engine.md": "123695e9e8b0",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
@@ -158,9 +160,9 @@
       "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
-      "content/posts/the-homework-exam-inversion-registers-substitution.md": "d3361d1d272a",
+      "content/posts/the-homework-exam-inversion-registers-substitution.md": "434ff7babe37",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
-      "content/posts/the-illusion-of-free-intelligence.md": "1777907196fe",
+      "content/posts/the-illusion-of-free-intelligence.md": "8f950998246e",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "09cd6b3668c4",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
@@ -185,7 +187,7 @@
       "content/posts/the-price-of-closing-optionality.md": "181e0ec3ab51",
       "content/posts/the-question-that-installs-the-war.md": "f554178d2df7",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
-      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "34ea7216b243",
+      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "5343aacf3c04",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "3763c8faf4bb",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
@@ -216,7 +218,7 @@
       "content/posts/what-works-is-the-belief.md": "e8877c5d23bf",
       "content/posts/whatever-is-one-prompt-away.md": "4f4272f67a57",
       "content/posts/when-abundance-looks-like-scarcity.md": "6ba7612c2611",
-      "content/posts/when-need-stops-being-the-measure.md": "ff23d1d0c5f3",
+      "content/posts/when-need-stops-being-the-measure.md": "cc3311bc921e",
       "content/posts/when-observation-becomes-performance.md": "d827123b75cc",
       "content/posts/when-the-effect-authors-the-frame.md": "62b9a8fd1c84",
       "content/posts/why-explanation-fails.md": "608ce06ef580",
@@ -227,13 +229,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 217,
-      "edges": 2178,
-      "unique_directed": 2154,
+      "posts": 219,
+      "edges": 2212,
+      "unique_directed": 2188,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 37,
-      "posts_with_outbound": 163
+      "posts_with_outbound": 165
     }
   },
   "hubs_in": [
@@ -246,16 +248,16 @@
       "in_degree": 48
     },
     {
+      "slug": "individual-choices-as-the-only-causal-levers",
+      "in_degree": 43
+    },
+    {
       "slug": "no-system-can-be-kept-closed",
       "in_degree": 43
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 42
-    },
-    {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 32
+      "in_degree": 33
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -266,12 +268,12 @@
       "in_degree": 31
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 30
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 31
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 29
+      "slug": "clarity-isnt-a-state-you-arrive-at",
+      "in_degree": 30
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -302,26 +304,26 @@
       "in_degree": 24
     },
     {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "in_degree": 24
+    },
+    {
       "slug": "the-path-drawn-one-step-at-a-time",
       "in_degree": 24
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
+      "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 23
     },
     {
       "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
-      "in_degree": 23
-    },
-    {
-      "slug": "the-source-of-shared-change",
       "in_degree": 23
     }
   ],
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 45
+      "out_degree": 46
     },
     {
       "slug": "openness-is-consistency",
@@ -337,6 +339,10 @@
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
+      "out_degree": 29
+    },
+    {
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 28
     },
     {
@@ -352,10 +358,6 @@
       "out_degree": 27
     },
     {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
-      "out_degree": 27
-    },
-    {
       "slug": "the-model-never-becomes-a-second-edge",
       "out_degree": 27
     },
@@ -368,11 +370,15 @@
       "out_degree": 25
     },
     {
-      "slug": "externalized-virtue-becomes-its-opposite",
+      "slug": "ownership-and-self-worthiness",
+      "out_degree": 25
+    },
+    {
+      "slug": "causality-all-the-way",
       "out_degree": 24
     },
     {
-      "slug": "ownership-and-self-worthiness",
+      "slug": "externalized-virtue-becomes-its-opposite",
       "out_degree": 24
     },
     {
@@ -382,10 +388,6 @@
     {
       "slug": "what-works-is-the-belief",
       "out_degree": 24
-    },
-    {
-      "slug": "causality-all-the-way",
-      "out_degree": 23
     },
     {
       "slug": "reality-is-the-minds-ongoing-realization",
@@ -635,13 +637,14 @@
       "slug": "amplification-paradox",
       "path": "content/posts/amplification-paradox.md",
       "title": "The Amplification Paradox",
-      "hash": "c3b13c52eeb2",
-      "in_degree": 5,
-      "out_degree": 3,
+      "hash": "c479585570bb",
+      "in_degree": 6,
+      "out_degree": 4,
       "links_out": [
         "the-ramble-within-the-ramble",
         "the-artifacts-of-self-amplification",
-        "the-homework-exam-inversion-registers-substitution"
+        "the-homework-exam-inversion-registers-substitution",
+        "studying-the-effect-of-ai-relocates-causality"
       ]
     },
     {
@@ -683,12 +686,13 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "b09b92dac26c",
-      "in_degree": 19,
-      "out_degree": 23,
+      "hash": "87c4e018e0d5",
+      "in_degree": 20,
+      "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "performative-hindsight-that-pretends-to-be-foresight",
+        "order-surplus-and-the-moral-intercept",
         "causality-stays-at-the-edge-that-steers",
         "the-allocation-of-causal-power-in-validation",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -738,12 +742,13 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
-      "hash": "fca6385fbaf3",
-      "in_degree": 22,
-      "out_degree": 21,
+      "hash": "1deb96197a97",
+      "in_degree": 23,
+      "out_degree": 22,
       "links_out": [
         "what-always-listens-cannot-originate",
         "the-homework-exam-inversion-registers-substitution",
+        "studying-the-effect-of-ai-relocates-causality",
         "intelligence-belongs-only-to-the-mind",
         "the-flywheel-of-the-mind",
         "self-rl-for-humans",
@@ -1752,11 +1757,12 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "348df91faf5d",
-      "in_degree": 42,
-      "out_degree": 45,
+      "hash": "27515cee4f61",
+      "in_degree": 43,
+      "out_degree": 46,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
+        "studying-the-effect-of-ai-relocates-causality",
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
         "not-predicting-is-predicting-without-awareness",
@@ -2096,15 +2102,16 @@
       "slug": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "path": "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md",
       "title": "Moral Language Dilutes the Feedback That Scales Freedom",
-      "hash": "9dd5cf7a04dd",
-      "in_degree": 9,
-      "out_degree": 9,
+      "hash": "93b678f46885",
+      "in_degree": 10,
+      "out_degree": 10,
       "links_out": [
         "ownership-and-self-worthiness",
         "preference-clusters-and-the-language-of-judgment",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "therapy-opens-the-feedback-loop",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+        "order-surplus-and-the-moral-intercept",
         "externalized-virtue-becomes-its-opposite",
         "recursive-contradiction-of-entrusted-morality",
         "openness-is-consistency",
@@ -2477,6 +2484,29 @@
       ]
     },
     {
+      "id": "post:order-surplus-and-the-moral-intercept",
+      "kind": "post",
+      "slug": "order-surplus-and-the-moral-intercept",
+      "path": "content/posts/order-surplus-and-the-moral-intercept.md",
+      "title": "Order, Surplus, and the Moral Intercept",
+      "hash": "2f9f5444f34a",
+      "in_degree": 11,
+      "out_degree": 11,
+      "links_out": [
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "the-illusion-of-free-intelligence",
+        "the-allocation-of-causal-power-in-validation",
+        "residual-individualism",
+        "public-spending-does-not-create-capital",
+        "causality-all-the-way",
+        "production-consumption-and-the-minds-distinction",
+        "technology-is-residual-of-human-compounding",
+        "ownership-and-self-worthiness",
+        "when-need-stops-being-the-measure",
+        "moral-language-dilutes-the-feedback-that-scales-freedom"
+      ]
+    },
+    {
       "id": "post:overfitting-as-the-follower-mode",
       "kind": "post",
       "slug": "overfitting-as-the-follower-mode",
@@ -2493,10 +2523,11 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "bcb7410f50f8",
-      "in_degree": 32,
-      "out_degree": 24,
+      "hash": "7029fa080ff6",
+      "in_degree": 33,
+      "out_degree": 25,
       "links_out": [
+        "order-surplus-and-the-moral-intercept",
         "the-irreducible-prior-of-decision-and-consequence",
         "power-law-is-the-long-term-consequence-of-normal-distribution",
         "sowell-observed-the-surface-problem",
@@ -2751,9 +2782,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "8cb06c9ea355",
-      "in_degree": 23,
-      "out_degree": 28,
+      "hash": "001cb3ac05f8",
+      "in_degree": 24,
+      "out_degree": 29,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -2763,6 +2794,7 @@
         "humans-tokens-and-the-scope-of-valuation",
         "efficiency-without-differentiation",
         "the-allocation-of-causal-power-in-validation",
+        "order-surplus-and-the-moral-intercept",
         "fate-loves-irony-refined",
         "public-spending-does-not-create-capital",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -2791,12 +2823,13 @@
       "slug": "public-spending-does-not-create-capital",
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "Public Spending Does Not Create Capital",
-      "hash": "f6f02ea6a500",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "13551c0f7f67",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "having-more-is-never-the-cause",
+        "order-surplus-and-the-moral-intercept",
         "the-allocation-of-causal-power-in-validation",
         "sovereignty-belief-and-regulatory-structures",
         "individual-choices-as-the-only-causal-levers",
@@ -2955,12 +2988,13 @@
       "slug": "residual-individualism",
       "path": "content/posts/residual-individualism.md",
       "title": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies",
-      "hash": "0f89120de59f",
-      "in_degree": 19,
-      "out_degree": 19,
+      "hash": "826b80e49461",
+      "in_degree": 20,
+      "out_degree": 20,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "when-abundance-looks-like-scarcity",
+        "order-surplus-and-the-moral-intercept",
         "individual-choices-as-the-only-causal-levers",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -3220,6 +3254,24 @@
       ]
     },
     {
+      "id": "post:studying-the-effect-of-ai-relocates-causality",
+      "kind": "post",
+      "slug": "studying-the-effect-of-ai-relocates-causality",
+      "path": "content/posts/studying-the-effect-of-ai-relocates-causality.md",
+      "title": "Studying the Effect of AI Relocates Causality",
+      "hash": "4c18b0bb34c9",
+      "in_degree": 6,
+      "out_degree": 6,
+      "links_out": [
+        "the-homework-exam-inversion-registers-substitution",
+        "amplification-paradox",
+        "causality-stays-at-the-edge-that-steers",
+        "the-allocation-of-causal-power-in-validation",
+        "the-rational-choice-postulate-is-the-original-sin",
+        "individual-choices-as-the-only-causal-levers"
+      ]
+    },
+    {
       "id": "post:sympathy-is-a-placeholder-for-lack-of-clarity",
       "kind": "post",
       "slug": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -3244,9 +3296,9 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "6730e444af0a",
-      "in_degree": 21,
-      "out_degree": 27,
+      "hash": "3ecbd2964bed",
+      "in_degree": 22,
+      "out_degree": 28,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "individual-choices-as-the-only-causal-levers",
@@ -3270,6 +3322,7 @@
         "restriction-is-a-selective-tax",
         "the-myth-of-population-collapse-explained",
         "pessimism-is-the-shadow-of-optimism",
+        "order-surplus-and-the-moral-intercept",
         "having-more-is-never-the-cause",
         "the-reality-distortion-field-names-the-closed-map",
         "the-reality-distortion-field-inverts-the-baseline",
@@ -3283,13 +3336,14 @@
       "slug": "technology-is-residual-of-human-compounding",
       "path": "content/posts/technology-is-residual-of-human-compounding.md",
       "title": "Technology Is Residual of Human Compounding",
-      "hash": "6c31f4a77ded",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "6d1923ce7a6f",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
         "not-predicting-is-predicting-without-awareness",
+        "order-surplus-and-the-moral-intercept",
         "the-artifacts-of-self-amplification",
         "a-creation-cannot-replace-its-source",
         "openness-is-consistency",
@@ -3345,12 +3399,14 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "d4b3a556c07f",
-      "in_degree": 29,
-      "out_degree": 15,
+      "hash": "9390d47e0be0",
+      "in_degree": 31,
+      "out_degree": 17,
       "links_out": [
+        "order-surplus-and-the-moral-intercept",
         "pessimism-is-the-shadow-of-optimism",
         "the-homework-exam-inversion-registers-substitution",
+        "studying-the-effect-of-ai-relocates-causality",
         "hierarchy-from-individual-difference",
         "empowerment-establishes-the-centralization-of-power",
         "expertise-as-reference-not-replacement",
@@ -3703,9 +3759,9 @@
       "slug": "the-homework-exam-inversion-registers-substitution",
       "path": "content/posts/the-homework-exam-inversion-registers-substitution.md",
       "title": "The Homework–Exam Inversion Registers Substitution",
-      "hash": "d3361d1d272a",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "434ff7babe37",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
         "causality-stays-at-the-edge-that-steers",
@@ -3714,6 +3770,7 @@
         "token-efficiency-emulation-and-the-unclosable-gap",
         "closed-reality-in-benchmark-maxing",
         "whatever-is-one-prompt-away",
+        "studying-the-effect-of-ai-relocates-causality",
         "individual-choices-as-the-only-causal-levers"
       ]
     },
@@ -3742,9 +3799,9 @@
       "slug": "the-illusion-of-free-intelligence",
       "path": "content/posts/the-illusion-of-free-intelligence.md",
       "title": "The Illusion of Free Intelligence",
-      "hash": "1777907196fe",
-      "in_degree": 20,
-      "out_degree": 20,
+      "hash": "8f950998246e",
+      "in_degree": 21,
+      "out_degree": 21,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "ownership-and-self-worthiness",
@@ -3763,6 +3820,7 @@
         "the-average-is-residue-not-the-engine",
         "production-consumption-and-the-minds-distinction",
         "whatever-is-one-prompt-away",
+        "order-surplus-and-the-moral-intercept",
         "the-scaffolding-we-forget",
         "self-image-speaks-as-if-from-nowhere",
         "the-artifacts-of-self-amplification"
@@ -4253,13 +4311,14 @@
       "slug": "the-rational-choice-postulate-is-the-original-sin",
       "path": "content/posts/the-rational-choice-postulate-is-the-original-sin.md",
       "title": "The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories",
-      "hash": "34ea7216b243",
-      "in_degree": 17,
-      "out_degree": 17,
+      "hash": "5343aacf3c04",
+      "in_degree": 18,
+      "out_degree": 18,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "price-as-utterance-understanding-as-trade",
         "the-average-is-residue-not-the-engine",
+        "studying-the-effect-of-ai-relocates-causality",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-reality-distortion-field-inverts-the-baseline",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -4967,9 +5026,9 @@
       "slug": "when-need-stops-being-the-measure",
       "path": "content/posts/when-need-stops-being-the-measure.md",
       "title": "When Need Stops Being the Measure",
-      "hash": "ff23d1d0c5f3",
-      "in_degree": 3,
-      "out_degree": 7,
+      "hash": "cc3311bc921e",
+      "in_degree": 4,
+      "out_degree": 8,
       "links_out": [
         "emotional-support-as-causal-interference",
         "ownership-and-self-worthiness",
@@ -4977,6 +5036,7 @@
         "therapy-opens-the-feedback-loop",
         "help-is-half-the-problem",
         "mei-you-pu-du-zhi-you-zi-du",
+        "order-surplus-and-the-moral-intercept",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property"
       ]
     },
@@ -5676,6 +5736,12 @@
       "label": "The homework–exam inversion registers substitution"
     },
     {
+      "from": "amplification-paradox",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "Studying the effect of AI relocates causality"
+    },
+    {
       "from": "better-than-free-after-the-checklist-closes",
       "to": "when-abundance-looks-like-scarcity",
       "rel": "points_to",
@@ -5746,6 +5812,12 @@
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
       "label": "performative hindsight that pretends to be foresight"
+    },
+    {
+      "from": "causality-all-the-way",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
     },
     {
       "from": "causality-all-the-way",
@@ -5932,6 +6004,12 @@
       "to": "the-homework-exam-inversion-registers-substitution",
       "rel": "points_to",
       "label": "The homework–exam inversion registers substitution"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "Studying the effect of AI relocates causality"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -8461,6 +8539,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "Studying the effect of AI relocates causality"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "Causality all the way"
@@ -9568,6 +9652,12 @@
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
       "label": "Politicians appear as visible symptoms of responsibility diffusion"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -10698,6 +10788,78 @@
       "label": "On closed systems, open minds, and the limits of proof"
     },
     {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The illusion of free intelligence"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual individualism"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public spending does not create capital"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology is residual of human compounding"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "when-need-stops-being-the-measure",
+      "rel": "points_to",
+      "label": "When need stops being the measure"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral language dilutes the feedback that scales freedom"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
+    },
+    {
       "from": "ownership-and-self-worthiness",
       "to": "the-irreducible-prior-of-decision-and-consequence",
       "rel": "points_to",
@@ -11539,6 +11701,12 @@
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
       "label": "Fate loves irony"
@@ -11668,6 +11836,12 @@
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
       "label": "Having more is never the cause"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
     },
     {
       "from": "public-spending-does-not-create-capital",
@@ -12082,6 +12256,12 @@
       "to": "when-abundance-looks-like-scarcity",
       "rel": "points_to",
       "label": "When abundance looks like scarcity"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
     },
     {
       "from": "residual-individualism",
@@ -12792,6 +12972,42 @@
       "label": "The knowledge problem and the illusion of delegation"
     },
     {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "the homework–exam inversion"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "amplification-paradox",
+      "rel": "points_to",
+      "label": "The amplification paradox"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The rational choice postulate is the original sin"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
@@ -12967,6 +13183,12 @@
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
       "label": "Having more is never the cause"
@@ -13012,6 +13234,12 @@
       "to": "not-predicting-is-predicting-without-awareness",
       "rel": "points_to",
       "label": "Not predicting is predicting without awareness"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
@@ -13081,6 +13309,12 @@
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
       "label": "Pessimism is the shadow of optimism"
@@ -13090,6 +13324,12 @@
       "to": "the-homework-exam-inversion-registers-substitution",
       "rel": "points_to",
       "label": "The homework–exam inversion registers substitution"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "Studying the effect of AI relocates causality"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -14065,6 +14305,12 @@
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "Studying the effect of AI relocates causality"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -14212,6 +14458,12 @@
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
       "label": "Whatever is one prompt away"
+    },
+    {
+      "from": "the-illusion-of-free-intelligence",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
     },
     {
       "from": "the-illusion-of-free-intelligence",
@@ -15454,6 +15706,12 @@
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
       "label": "The average is residue, not the engine"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "Studying the effect of AI relocates causality"
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
@@ -17794,6 +18052,12 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
     },
     {
       "from": "when-need-stops-being-the-measure",
