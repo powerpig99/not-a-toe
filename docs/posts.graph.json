@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-20T06:41:49.599Z",
+    "generated_at": "2026-08-20T09:29:40.558Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -37,7 +37,7 @@
       "content/posts/consciousness-never-appears-as-data-among-data.md": "5b80b9d897c0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
-      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "3de3ee2f22d8",
+      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "fe7ef9b57ef7",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "5d9c337e538d",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
@@ -56,13 +56,14 @@
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "eec7d7c6b7d4",
+      "content/posts/failure-as-information.md": "c19cdb30c5a5",
       "content/posts/fate-loves-irony-refined.md": "df6e1ca34057",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "d43109f0b737",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "db28e64041aa",
-      "content/posts/hardness-is-not-inherent-in-the-action.md": "f3616fb19b43",
+      "content/posts/hardness-is-not-inherent-in-the-action.md": "33876b76477c",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
@@ -103,10 +104,10 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "d22c38a19167",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "3397ebf3a5c5",
+      "content/posts/openness-is-consistency.md": "8df9b7b92d81",
       "content/posts/order-surplus-and-the-moral-intercept.md": "2f9f5444f34a",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "7029fa080ff6",
+      "content/posts/ownership-and-self-worthiness.md": "606e587bcaea",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "9f9598e7f790",
@@ -114,7 +115,7 @@
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "659d441ca9fb",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "335a9922f39a",
-      "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "68ab85660984",
+      "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "aba8560f770f",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "1cb0d8ca3e76",
       "content/posts/price-as-utterance-understanding-as-trade.md": "6558c6cbe62e",
       "content/posts/production-consumption-and-the-minds-distinction.md": "001cb3ac05f8",
@@ -131,7 +132,7 @@
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "818834e2a5b6",
-      "content/posts/self-rl-for-humans.md": "0b1b3f96c6a4",
+      "content/posts/self-rl-for-humans.md": "5d3466611e3a",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "32af5139e074",
       "content/posts/shared-humanity-is-never-shared.md": "f4eb8c469df7",
@@ -184,14 +185,14 @@
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "bee35e17aea8",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "af92c141bd54",
-      "content/posts/the-price-of-closing-optionality.md": "181e0ec3ab51",
+      "content/posts/the-price-of-closing-optionality.md": "84f30cd35b89",
       "content/posts/the-question-that-installs-the-war.md": "f554178d2df7",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "5343aacf3c04",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "3763c8faf4bb",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
-      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "a396e946d072",
+      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "c1d05dc9cc31",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "d40851e92070",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "876cca9b0963",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "40a647c869dd",
@@ -211,7 +212,7 @@
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
-      "content/posts/therapy-opens-the-feedback-loop.md": "5884e2734656",
+      "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "ec63f1f3d6a3",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
@@ -230,19 +231,19 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 220,
-      "edges": 2230,
-      "unique_directed": 2206,
+      "posts": 221,
+      "edges": 2248,
+      "unique_directed": 2224,
       "missing_targets": 0,
       "one_way": 334,
       "isolated": 37,
-      "posts_with_outbound": 166
+      "posts_with_outbound": 167
     }
   },
   "hubs_in": [
     {
       "slug": "openness-is-consistency",
-      "in_degree": 54
+      "in_degree": 55
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -258,7 +259,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 33
+      "in_degree": 34
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -277,15 +278,15 @@
       "in_degree": 30
     },
     {
+      "slug": "self-rl-for-humans",
+      "in_degree": 27
+    },
+    {
       "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 26
     },
     {
       "slug": "hierarchy-from-individual-difference",
-      "in_degree": 26
-    },
-    {
-      "slug": "self-rl-for-humans",
       "in_degree": 26
     },
     {
@@ -328,7 +329,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "out_degree": 41
+      "out_degree": 42
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -367,11 +368,11 @@
       "out_degree": 26
     },
     {
-      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "out_degree": 25
+      "slug": "ownership-and-self-worthiness",
+      "out_degree": 26
     },
     {
-      "slug": "ownership-and-self-worthiness",
+      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "out_degree": 25
     },
     {
@@ -1076,15 +1077,16 @@
       "slug": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
       "title": "Curiosity First: The Hidden Engine of Talent and Development",
-      "hash": "3de3ee2f22d8",
-      "in_degree": 6,
-      "out_degree": 13,
+      "hash": "fe7ef9b57ef7",
+      "in_degree": 7,
+      "out_degree": 14,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
         "having-more-is-never-the-cause",
         "performative-hindsight-that-pretends-to-be-foresight",
         "token-efficiency-emulation-and-the-unclosable-gap",
         "ownership-and-self-worthiness",
+        "failure-as-information",
         "individual-choices-as-the-only-causal-levers",
         "writing-without-the-image",
         "the-fixed-image-of-transcendence",
@@ -1455,6 +1457,27 @@
       ]
     },
     {
+      "id": "post:failure-as-information",
+      "kind": "post",
+      "slug": "failure-as-information",
+      "path": "content/posts/failure-as-information.md",
+      "title": "Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time",
+      "hash": "c19cdb30c5a5",
+      "in_degree": 9,
+      "out_degree": 9,
+      "links_out": [
+        "hardness-is-not-inherent-in-the-action",
+        "openness-is-consistency",
+        "ownership-and-self-worthiness",
+        "self-rl-for-humans",
+        "therapy-opens-the-feedback-loop",
+        "curiosity-first-the-hidden-engine-of-talent-and-development",
+        "power-law-is-the-long-term-consequence-of-normal-distribution",
+        "the-price-of-closing-optionality",
+        "the-reality-distortion-field-names-the-closed-map"
+      ]
+    },
+    {
       "id": "post:fate-loves-irony-refined",
       "kind": "post",
       "slug": "fate-loves-irony-refined",
@@ -1553,11 +1576,12 @@
       "slug": "hardness-is-not-inherent-in-the-action",
       "path": "content/posts/hardness-is-not-inherent-in-the-action.md",
       "title": "Hardness Is Not Inherent in the Action",
-      "hash": "f3616fb19b43",
-      "in_degree": 4,
-      "out_degree": 4,
+      "hash": "33876b76477c",
+      "in_degree": 5,
+      "out_degree": 5,
       "links_out": [
         "how-belief-actually-changes",
+        "failure-as-information",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "individual-choices-as-the-only-causal-levers",
         "what-works-is-the-belief"
@@ -2440,9 +2464,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "3397ebf3a5c5",
-      "in_degree": 54,
-      "out_degree": 41,
+      "hash": "8df9b7b92d81",
+      "in_degree": 55,
+      "out_degree": 42,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -2452,6 +2476,7 @@
         "the-brain-does-not-backprop",
         "what-cannot-be-kept",
         "self-rl-for-humans",
+        "failure-as-information",
         "clarity-isnt-a-state-you-arrive-at",
         "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
         "why-mathematics-can-never-be-solved",
@@ -2527,10 +2552,11 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "7029fa080ff6",
-      "in_degree": 33,
-      "out_degree": 25,
+      "hash": "606e587bcaea",
+      "in_degree": 34,
+      "out_degree": 26,
       "links_out": [
+        "failure-as-information",
         "order-surplus-and-the-moral-intercept",
         "the-irreducible-prior-of-decision-and-consequence",
         "power-law-is-the-long-term-consequence-of-normal-distribution",
@@ -2708,11 +2734,12 @@
       "slug": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "path": "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md",
       "title": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making",
-      "hash": "68ab85660984",
-      "in_degree": 4,
-      "out_degree": 4,
+      "hash": "aba8560f770f",
+      "in_degree": 5,
+      "out_degree": 5,
       "links_out": [
         "ownership-and-self-worthiness",
+        "failure-as-information",
         "guan-yu-gui-yin",
         "mi-lv-shi-jie-guo-de-biao-xiang",
         "closed-assumptions-squeeze-compounding-into-s-curves"
@@ -3106,10 +3133,11 @@
       "slug": "self-rl-for-humans",
       "path": "content/posts/self-rl-for-humans.md",
       "title": "What Looks Like RL for AIs Is Self-RL for Humans",
-      "hash": "0b1b3f96c6a4",
-      "in_degree": 26,
-      "out_degree": 7,
+      "hash": "5d3466611e3a",
+      "in_degree": 27,
+      "out_degree": 8,
       "links_out": [
+        "failure-as-information",
         "the-myth-of-population-collapse-explained",
         "data-is-local-intelligence-is-allocated",
         "the-scaling-loop",
@@ -4258,9 +4286,9 @@
       "slug": "the-price-of-closing-optionality",
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "The Price of Closing Optionality",
-      "hash": "181e0ec3ab51",
-      "in_degree": 11,
-      "out_degree": 11,
+      "hash": "84f30cd35b89",
+      "in_degree": 12,
+      "out_degree": 12,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
         "openness-is-consistency",
@@ -4270,6 +4298,7 @@
         "restriction-is-a-selective-tax",
         "what-works-is-the-belief",
         "no-system-can-be-kept-closed",
+        "failure-as-information",
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
         "the-imagining-of-ai-risk"
@@ -4433,9 +4462,9 @@
       "slug": "the-reality-distortion-field-names-the-closed-map",
       "path": "content/posts/the-reality-distortion-field-names-the-closed-map.md",
       "title": "The Reality Distortion Field Names the Closed Map",
-      "hash": "a396e946d072",
-      "in_degree": 15,
-      "out_degree": 20,
+      "hash": "c1d05dc9cc31",
+      "in_degree": 16,
+      "out_degree": 21,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "no-system-can-be-kept-closed",
@@ -4446,6 +4475,7 @@
         "the-allocation-of-causal-power-in-validation",
         "openness-is-consistency",
         "the-scaffolding-we-forget",
+        "failure-as-information",
         "reality-doesnt-invoice-by-committee",
         "what-works-is-the-belief",
         "causality-stays-at-the-edge-that-steers",
@@ -4849,9 +4879,9 @@
       "slug": "therapy-opens-the-feedback-loop",
       "path": "content/posts/therapy-opens-the-feedback-loop.md",
       "title": "Therapy Opens the Feedback Loop",
-      "hash": "5884e2734656",
-      "in_degree": 8,
-      "out_degree": 10,
+      "hash": "36a05580cbc0",
+      "in_degree": 9,
+      "out_degree": 11,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "emotional-support-as-causal-interference",
@@ -4860,6 +4890,7 @@
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "help-is-half-the-problem",
         "self-rl-for-humans",
+        "failure-as-information",
         "when-need-stops-being-the-measure",
         "expertise-as-reference-not-replacement",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors"
@@ -7016,6 +7047,12 @@
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as information"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -7957,6 +7994,60 @@
       "label": "The reversal from defensible claim to dogma"
     },
     {
+      "from": "failure-as-information",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "Hardness is not inherent in the action"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What looks like RL for AIs is Self-RL for humans"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy opens the feedback loop"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity first"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "Power-law is the long-term consequence of normal distribution"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The price of closing optionality"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The reality distortion field names the closed map"
+    },
+    {
       "from": "fate-loves-irony-refined",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
@@ -8099,6 +8190,12 @@
       "to": "how-belief-actually-changes",
       "rel": "points_to",
       "label": "How belief actually changes"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as information"
     },
     {
       "from": "hardness-is-not-inherent-in-the-action",
@@ -10640,6 +10737,12 @@
     },
     {
       "from": "openness-is-consistency",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as information"
+    },
+    {
+      "from": "openness-is-consistency",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
@@ -10901,6 +11004,12 @@
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
       "label": "Moral language dilutes the feedback that scales freedom"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as information"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -11453,6 +11562,12 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as information"
     },
     {
       "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
@@ -12635,6 +12750,12 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A creation cannot replace its source"
+    },
+    {
+      "from": "self-rl-for-humans",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as information"
     },
     {
       "from": "self-rl-for-humans",
@@ -15650,6 +15771,12 @@
     },
     {
       "from": "the-price-of-closing-optionality",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as information"
+    },
+    {
+      "from": "the-price-of-closing-optionality",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
       "label": "The reality distortion field names the closed map"
@@ -16217,6 +16344,12 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The scaffolding we forget"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as information"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
@@ -17525,6 +17658,12 @@
       "to": "self-rl-for-humans",
       "rel": "points_to",
       "label": "Self-RL for humans"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as information"
     },
     {
       "from": "therapy-opens-the-feedback-loop",

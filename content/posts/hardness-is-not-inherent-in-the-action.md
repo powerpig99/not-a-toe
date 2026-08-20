@@ -18,7 +18,7 @@ The act does not carry its label into the world. The label is further distinctio
 
 ## “Hard” licenses inaction
 
-Once the interpretation that labels an action “hard” is installed, it does not remain neutral. It converts into a rationalization that licenses inaction: because the step would demand overcoming something, it may legitimately be postponed or avoided. Once this justification takes hold, the resulting inaction becomes further evidence that the action was indeed too difficult, tightening the loop.
+Once the interpretation that labels an action “hard” is installed, it does not remain neutral. It converts into a rationalization that licenses inaction: because the step would demand overcoming something, it may legitimately be postponed or avoided. Once this justification takes hold, the resulting inaction becomes further evidence that the action was indeed too difficult, tightening the loop. [Failure as information](../failure-as-information/) is the inverse occupancy: “whether to continue” as a second computation already filling the gap, so the next engineering step never occupies the slot.
 
 [Curiosity first](../curiosity-first-the-hidden-engine-of-talent-and-development/) is the same self-sealing under talent costume: the gap is attributed to a fixed ranking, so the loop that would close the gap is not reopened. Here the ranking is difficulty itself, frozen as a property of the step rather than as a score under the present theory. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) restores the lever: conditions and felt load reshape the field of payoffs; they do not become a second engine that authors the next act or its deferral.
 
