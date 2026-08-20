@@ -1,6 +1,6 @@
 # Order, Surplus, and the Moral Intercept
 
-*The only constraint is order; the intercept is extra ground that makes later use a requirement rather than a continuation.*
+*The intercept is extra ground that inverts the direction of causality, so later use is asked to authorize the earlier act.*
 
 On 19 August 2026, Moderna and Merck reported that a personalized mRNA vaccine, given with pembrolizumab after surgery, reduced recurrence and distant spread of high-risk melanoma in a late-stage trial of 1,137 patients. The readout is taken as hope arriving, and a kitchen in which anyone mixes a drug is offered as the obvious sequel. What changed was a threshold clean enough to repeat as news, not the birth of a method. The freeze is asking later registration — hope, fairness of transfer, consumption that must absorb surplus — to authorize work already done, so the return arrives as a verdict instead of a reinforcer of the work that accumulated.
 
@@ -28,13 +28,13 @@ The same cut is restated as a cycle. Production is the source; consumption is th
 
 [Residual individualism](../residual-individualism/) is that collective object held as the bearer of capacity: division and expansion both register as operations on a pie. [Public spending does not create capital](../public-spending-does-not-create-capital/) is the movement scored as origin: reallocation of already-produced residue frozen as if a collective authored creation. Both stories — keep the allocation where the output was made, or move it as a duty — are still stories treated as the engine. The sequence of acts does not wait on which story spreads.
 
-## The only constraint is order
+## Causality has a direction
 
-None of this needs a ranking. Consumption is not the inferior pole and production is not the virtuous one. The only constraint is order. What has not been made cannot be used. Earlier acts leave the field in which later use occurs. That is how the sequence runs, not a preference.
+None of this needs a ranking. Consumption is not the inferior pole and production is not the virtuous one. What has not been made cannot be used. Earlier acts leave the field in which later use occurs. Later registration does not authorize the making. That is the direction, not a preference.
 
-The mRNA case is already that order. Platform work precedes the trial. The trial precedes whoever later receives a matched vaccine. Comments, patients, and follow-on labs are later use. They do not authorize the prior work. Waiting for a kitchen in which anyone can mix a drug does not produce the people who will write the next instruction. It produces a queue for the finished object.
+The mRNA case is already that direction. Platform work precedes the trial. The trial precedes whoever later receives a matched vaccine. Comments, patients, and follow-on labs are later use. They do not authorize the prior work. Waiting for a kitchen in which anyone can mix a drug does not produce the people who will write the next instruction. It produces a queue for the finished object.
 
-[Production, consumption, and the Mind’s distinction](../production-consumption-and-the-minds-distinction/) is a different axis on the same names: how the identical activity registers when the bound is held open or fixed. The polarity here is not hold-width. It is sequence. [Technology is residual of human compounding](../technology-is-residual-of-human-compounding/) is the platform as that residue: the vaccine is Human compounded, not a second force that arrived on the 19th.
+[Causality all the way](../causality-all-the-way/) is that one-way shaping: earlier acts shape later ones; a map held as source does not reverse the arrow. [Production, consumption, and the Mind’s distinction](../production-consumption-and-the-minds-distinction/) is a different axis on the same names: how the identical activity registers when the bound is held open or fixed. The polarity here is not hold-width. It is the direction of causality. [Technology is residual of human compounding](../technology-is-residual-of-human-compounding/) is the platform as that residue: the vaccine is Human compounded, not a second force that arrived on the 19th.
 
 ## Later pickup is continuation, not a ledger that failed
 
@@ -50,4 +50,4 @@ Public argument almost never leaves a different axis: which side is fair, who ow
 
 [Moral language dilutes the feedback that scales freedom](../moral-language-dilutes-the-feedback-that-scales-freedom/) is the overlay in the personal loop: evaluative categories between agent and own consequence. Here the overlay sits on the return itself. Fairness of transfer, hope as origin, the kitchen as the missing cause — extra ground that claims to explain continuation while thinning the reinforcer that would have sharpened it.
 
-The mechanism is the order of acts and what the return is allowed to do. The moral — or magical — intercept is the extra ground that weakens the reinforcer while claiming to explain it.
+The mechanism is the direction of causality and what the return is allowed to do. The moral — or magical — intercept is the extra ground that weakens the reinforcer while claiming to explain it.
