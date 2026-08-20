@@ -196,6 +196,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Watercolor circulating-field illustration** | Cream paper, indigo–gold watercolor; dense data mass compressing through a luminous core into graph, landscape, and silhouetted observers; circulating ribbon | `the-scaling-loop` |
 | **Split editorial watercolor / dual-curve diagram** | Cream paper; left watercolor student with homework–AI–exam icon flow; right overlapping green/red bell curves on a shared axis | `the-homework-exam-inversion-registers-substitution` |
 | **Cinematic production–kitchen dual / molecular stream** | Split field: industrial vial line in cool blue left; warm domestic kitchen compounding right; gold–cyan molecular ribbon and concentric intercept ring on the bench; operator drop | `order-surplus-and-the-moral-intercept` |
+| **Galton-board / quincunx scientific plate** | Full-bleed cream-sepia albumen of a Galton board filling the frame; two bead streams — dark iron and pale bone — through one peg lattice, collapsing into one pile as if the board authored the average; raking museum light, chemical grain, no table | `studying-the-effect-of-ai-relocates-causality` |
 
 ## Inventory (by slug)
 
@@ -285,6 +286,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `shared-humanity-is-never-shared` | Phenakistoscope / stopped zoetrope still |
 | `sovereignty-belief-and-regulatory-structures` | Linocut / woodcut monochrome |
 | `sowell-observed-the-surface-problem` | Cinematic dual-bank / cracked-sphere allegory |
+| `studying-the-effect-of-ai-relocates-causality` | Galton-board / quincunx scientific plate |
 | `symptom-and-cause-in-the-narratives-of-progress` | Chart-recorder / oscillograph strip |
 | `sympathy-is-a-placeholder-for-lack-of-clarity` | Fresco strappo / detached mural fragment |
 | `the-artifacts-of-self-amplification` | Mirror galvanometer / optical-lever still |
