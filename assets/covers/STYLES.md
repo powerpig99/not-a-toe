@@ -197,6 +197,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Split editorial watercolor / dual-curve diagram** | Cream paper; left watercolor student with homework–AI–exam icon flow; right overlapping green/red bell curves on a shared axis | `the-homework-exam-inversion-registers-substitution` |
 | **Cinematic production–kitchen dual / molecular stream** | Split field: industrial vial line in cool blue left; warm domestic kitchen compounding right; gold–cyan molecular ribbon and concentric intercept ring on the bench; operator drop | `order-surplus-and-the-moral-intercept` |
 | **Cinematic desk / dual-posture allegory** | Full-bleed split around a student at a laptop: cool-gray atrophy (wilted plant, broken chain, slumped figure) / teal-gold compounding (living plant, luminous brain, stair-path); operator drop | `studying-the-effect-of-ai-relocates-causality` |
+| **Chladni / cymatics nodal plate** | Full-bleed dark brushed-steel plate, white sand standing-wave figures, raking light on metal grain; driving vibration never appearing as a grain | `the-unobservable-driver-of-learning` |
 
 ## Inventory (by slug)
 
@@ -328,6 +329,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-source-of-all-harm` | Assay touchstone / gold-streak still |
 | `the-source-of-shared-change` | Monotype ghost-print still life |
 | `the-strongest-belief-of-the-mind` | Palimpsest vellum / multi-ink redraw |
+| `the-unobservable-driver-of-learning` | Chladni / cymatics nodal plate |
 | `the-utility-men-of-progress` | Workshop pegboard still |
 | `technology-is-residual-of-human-compounding` | Dual-epoch residual continuum still |
 | `the-average-is-residue-not-the-engine` | Industrial gear dissolving into residual waves |
