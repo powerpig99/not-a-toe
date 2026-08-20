@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-20T11:23:51.239Z",
+    "generated_at": "2026-08-20T12:18:29.170Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -22,13 +22,13 @@
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/causality-all-the-way.md": "87c4e018e0d5",
       "content/posts/causality-and-the-irreducible-prior.md": "eca0fc968681",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "1deb96197a97",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "7f3ab17e4c70",
       "content/posts/cheng-gong-xue.md": "44fc72472f43",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/climbing-does-not-leave-the-ground.md": "3b3177a38140",
+      "content/posts/climbing-does-not-leave-the-ground.md": "5728e783fe80",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "618ae4ecd116",
       "content/posts/closed-reality-in-benchmark-maxing.md": "d57165a32284",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
@@ -39,7 +39,7 @@
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "fe7ef9b57ef7",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
-      "content/posts/data-is-local-intelligence-is-allocated.md": "5d9c337e538d",
+      "content/posts/data-is-local-intelligence-is-allocated.md": "af415810ee62",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "9a36021499af",
       "content/posts/e-shi-feng-bi-de-shan.md": "9696809c12b7",
@@ -116,7 +116,7 @@
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "659d441ca9fb",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "fa9cdfe1ece3",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "aba8560f770f",
-      "content/posts/preference-clusters-and-the-language-of-judgment.md": "1cb0d8ca3e76",
+      "content/posts/preference-clusters-and-the-language-of-judgment.md": "345a4e5d11e5",
       "content/posts/price-as-utterance-understanding-as-trade.md": "6558c6cbe62e",
       "content/posts/production-consumption-and-the-minds-distinction.md": "001cb3ac05f8",
       "content/posts/public-spending-does-not-create-capital.md": "13551c0f7f67",
@@ -132,7 +132,7 @@
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/selection-contradiction-and-open-reality.md": "dbaff31a622e",
-      "content/posts/self-image-speaks-as-if-from-nowhere.md": "818834e2a5b6",
+      "content/posts/self-image-speaks-as-if-from-nowhere.md": "1b26c8b493df",
       "content/posts/self-rl-for-humans.md": "5d3466611e3a",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "32af5139e074",
@@ -144,8 +144,8 @@
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "ae77b9ede8b3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "3ecbd2964bed",
-      "content/posts/technology-is-residual-of-human-compounding.md": "6d1923ce7a6f",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "bf77d6340467",
+      "content/posts/technology-is-residual-of-human-compounding.md": "3a842a236e55",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "e9069f320206",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-average-is-residue-not-the-engine.md": "3d3de670f60b",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
@@ -156,10 +156,11 @@
       "content/posts/the-coordinators-category-error.md": "937c30d88530",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
+      "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "645ab52e348c",
       "content/posts/the-fixed-image-of-transcendence.md": "ebf44e2e9959",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3cd05b0818a",
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
-      "content/posts/the-frame-that-conceals-improvement.md": "67167b57a7ab",
+      "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
@@ -170,7 +171,7 @@
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "05bc458dafb1",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
-      "content/posts/the-limitation-is-doing-work.md": "ebff2fbf2a2e",
+      "content/posts/the-limitation-is-doing-work.md": "f988dff59391",
       "content/posts/the-living-context.md": "802b03eb6a18",
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
@@ -187,7 +188,7 @@
       "content/posts/the-path-drawn-one-step-at-a-time.md": "bee35e17aea8",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "af92c141bd54",
       "content/posts/the-price-of-closing-optionality.md": "84f30cd35b89",
-      "content/posts/the-question-that-installs-the-war.md": "f554178d2df7",
+      "content/posts/the-question-that-installs-the-war.md": "a860d1af6e16",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "5343aacf3c04",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "3763c8faf4bb",
@@ -232,13 +233,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 222,
-      "edges": 2261,
-      "unique_directed": 2237,
+      "posts": 223,
+      "edges": 2281,
+      "unique_directed": 2257,
       "missing_targets": 0,
       "one_way": 335,
       "isolated": 36,
-      "posts_with_outbound": 169
+      "posts_with_outbound": 171
     }
   },
   "hubs_in": [
@@ -264,7 +265,7 @@
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 32
+      "in_degree": 33
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -299,11 +300,15 @@
       "in_degree": 25
     },
     {
-      "slug": "externalized-virtue-becomes-its-opposite",
+      "slug": "preference-clusters-and-the-language-of-judgment",
+      "in_degree": 25
+    },
+    {
+      "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 24
     },
     {
-      "slug": "preference-clusters-and-the-language-of-judgment",
+      "slug": "externalized-virtue-becomes-its-opposite",
       "in_degree": 24
     },
     {
@@ -313,10 +318,6 @@
     {
       "slug": "the-path-drawn-one-step-at-a-time",
       "in_degree": 24
-    },
-    {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 23
     },
     {
       "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
@@ -377,6 +378,10 @@
       "out_degree": 25
     },
     {
+      "slug": "preference-clusters-and-the-language-of-judgment",
+      "out_degree": 25
+    },
+    {
       "slug": "causality-all-the-way",
       "out_degree": 24
     },
@@ -385,12 +390,12 @@
       "out_degree": 24
     },
     {
-      "slug": "preference-clusters-and-the-language-of-judgment",
+      "slug": "what-works-is-the-belief",
       "out_degree": 24
     },
     {
-      "slug": "what-works-is-the-belief",
-      "out_degree": 24
+      "slug": "causality-stays-at-the-edge-that-steers",
+      "out_degree": 23
     },
     {
       "slug": "reality-is-the-minds-ongoing-realization",
@@ -398,10 +403,6 @@
     },
     {
       "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
-      "out_degree": 23
-    },
-    {
-      "slug": "the-source-of-shared-change",
       "out_degree": 23
     }
   ],
@@ -746,13 +747,14 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
-      "hash": "1deb96197a97",
-      "in_degree": 23,
-      "out_degree": 22,
+      "hash": "7f3ab17e4c70",
+      "in_degree": 24,
+      "out_degree": 23,
       "links_out": [
         "what-always-listens-cannot-originate",
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "intelligence-belongs-only-to-the-mind",
         "the-flywheel-of-the-mind",
         "self-rl-for-humans",
@@ -865,14 +867,15 @@
       "slug": "climbing-does-not-leave-the-ground",
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "Climbing Does Not Leave the Ground",
-      "hash": "3b3177a38140",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "5728e783fe80",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
         "the-allocation-of-causal-power-in-validation",
         "the-presumption-of-agi-and-the-view-from-outside",
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "the-scaffolding-we-forget",
         "the-model-never-becomes-a-second-edge",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -1117,12 +1120,13 @@
       "slug": "data-is-local-intelligence-is-allocated",
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
       "title": "Data Is Local; Intelligence Is Allocated",
-      "hash": "5d9c337e538d",
-      "in_degree": 20,
-      "out_degree": 20,
+      "hash": "af415810ee62",
+      "in_degree": 21,
+      "out_degree": 21,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
         "hierarchy-from-individual-difference",
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "self-rl-for-humans",
@@ -2759,9 +2763,9 @@
       "slug": "preference-clusters-and-the-language-of-judgment",
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
       "title": "Preference Clusters and the Language of Judgment",
-      "hash": "1cb0d8ca3e76",
-      "in_degree": 24,
-      "out_degree": 24,
+      "hash": "345a4e5d11e5",
+      "in_degree": 25,
+      "out_degree": 25,
       "links_out": [
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
@@ -2779,6 +2783,7 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "externalized-virtue-becomes-its-opposite",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "individual-choices-as-the-only-causal-levers",
         "the-question-that-installs-the-war",
         "open-vision-in-a-closed-arena",
@@ -3127,9 +3132,9 @@
       "slug": "self-image-speaks-as-if-from-nowhere",
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "Self-Image Speaks as if from Nowhere",
-      "hash": "818834e2a5b6",
-      "in_degree": 20,
-      "out_degree": 20,
+      "hash": "1b26c8b493df",
+      "in_degree": 21,
+      "out_degree": 21,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
         "writing-without-the-image",
@@ -3139,6 +3144,7 @@
         "intelligence-belongs-only-to-the-mind",
         "rationality-never-travels-across-the-mind",
         "sowell-observed-the-surface-problem",
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "agi-and-asi-are-temporary-goalposts",
         "the-fixed-image-of-transcendence",
         "the-presumption-of-agi-and-the-view-from-outside",
@@ -3395,10 +3401,11 @@
       "slug": "technology-is-residual-of-human-compounding",
       "path": "content/posts/technology-is-residual-of-human-compounding.md",
       "title": "Technology Is Residual of Human Compounding",
-      "hash": "6d1923ce7a6f",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "3a842a236e55",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
         "not-predicting-is-predicting-without-awareness",
@@ -3458,15 +3465,16 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "bf77d6340467",
-      "in_degree": 32,
-      "out_degree": 18,
+      "hash": "e9069f320206",
+      "in_degree": 33,
+      "out_degree": 19,
       "links_out": [
         "order-surplus-and-the-moral-intercept",
         "pessimism-is-the-shadow-of-optimism",
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
         "the-unobservable-driver-of-learning",
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "hierarchy-from-individual-difference",
         "empowerment-establishes-the-centralization-of-power",
         "expertise-as-reference-not-replacement",
@@ -3688,6 +3696,28 @@
       "links_out": []
     },
     {
+      "id": "post:the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "kind": "post",
+      "slug": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "path": "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md",
+      "title": "The Distaste for “AI Slop” Is No Different From the Recurring Historical Pattern",
+      "hash": "645ab52e348c",
+      "in_degree": 10,
+      "out_degree": 10,
+      "links_out": [
+        "the-allocation-of-causal-power-in-validation",
+        "causality-stays-at-the-edge-that-steers",
+        "the-frame-that-conceals-improvement",
+        "self-image-speaks-as-if-from-nowhere",
+        "data-is-local-intelligence-is-allocated",
+        "the-limitation-is-doing-work",
+        "the-question-that-installs-the-war",
+        "climbing-does-not-leave-the-ground",
+        "technology-is-residual-of-human-compounding",
+        "preference-clusters-and-the-language-of-judgment"
+      ]
+    },
+    {
       "id": "post:the-fixed-image-of-transcendence",
       "kind": "post",
       "slug": "the-fixed-image-of-transcendence",
@@ -3764,10 +3794,11 @@
       "slug": "the-frame-that-conceals-improvement",
       "path": "content/posts/the-frame-that-conceals-improvement.md",
       "title": "The Frame That Conceals Improvement",
-      "hash": "67167b57a7ab",
-      "in_degree": 4,
-      "out_degree": 2,
+      "hash": "eabae0d41b34",
+      "in_degree": 5,
+      "out_degree": 3,
       "links_out": [
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "hierarchy-from-individual-difference",
         "the-paradoxical-nature-of-bystander-insights"
       ]
@@ -3983,10 +4014,12 @@
       "slug": "the-limitation-is-doing-work",
       "path": "content/posts/the-limitation-is-doing-work.md",
       "title": "The Limitation Is Doing Work",
-      "hash": "ebff2fbf2a2e",
-      "in_degree": 1,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "f988dff59391",
+      "in_degree": 2,
+      "out_degree": 1,
+      "links_out": [
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern"
+      ]
     },
     {
       "id": "post:the-living-context",
@@ -4336,12 +4369,13 @@
       "slug": "the-question-that-installs-the-war",
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "The Question That Installs the War",
-      "hash": "f554178d2df7",
-      "in_degree": 10,
-      "out_degree": 7,
+      "hash": "a860d1af6e16",
+      "in_degree": 11,
+      "out_degree": 8,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "externalized-virtue-becomes-its-opposite",
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "reality-is-the-minds-ongoing-realization",
         "the-observational-cut-in-ai-debates",
         "the-climate-problem-registers-only-as-perception",
@@ -6113,6 +6147,12 @@
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence belongs only to The Mind"
@@ -6416,6 +6456,12 @@
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
       "label": "The presumption of AGI and the view from outside"
+    },
+    {
+      "from": "climbing-does-not-leave-the-ground",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
     },
     {
       "from": "climbing-does-not-leave-the-ground",
@@ -7154,6 +7200,12 @@
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
@@ -11753,6 +11805,12 @@
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -12779,6 +12837,12 @@
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI and ASI are temporary goalposts"
@@ -13499,6 +13563,12 @@
     },
     {
       "from": "technology-is-residual-of-human-compounding",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence belongs only to the Mind"
@@ -13616,6 +13686,12 @@
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
       "label": "The unobservable driver of learning"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -14224,6 +14300,66 @@
       "label": "The rational choice postulate is the original sin"
     },
     {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-frame-that-conceals-improvement",
+      "rel": "points_to",
+      "label": "The frame that conceals improvement"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-limitation-is-doing-work",
+      "rel": "points_to",
+      "label": "The limitation is doing work"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The question that installs the war"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing does not leave the ground"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology is residual of human compounding"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference clusters and the language of judgment"
+    },
+    {
       "from": "the-fixed-image-of-transcendence",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -14432,6 +14568,12 @@
       "to": "the-scaling-loop",
       "rel": "points_to",
       "label": "The scaling loop"
+    },
+    {
+      "from": "the-frame-that-conceals-improvement",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
     },
     {
       "from": "the-frame-that-conceals-improvement",
@@ -14972,6 +15114,12 @@
       "to": "residual-individualism",
       "rel": "points_to",
       "label": "Residual individualism"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
     },
     {
       "from": "the-map-after-the-territory",
@@ -15914,6 +16062,12 @@
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
       "label": "Externalized virtue becomes its opposite"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "the distaste for “AI slop”"
     },
     {
       "from": "the-question-that-installs-the-war",

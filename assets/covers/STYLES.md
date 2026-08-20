@@ -143,6 +143,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Trompe-l’oeil recursive frame still** | Cream museum wall, gilt outer frame holding a gallery scene that itself holds the same framed scene nested smaller, oil trompe-l’oeil depth, raking light, canvas weave | `self-image-speaks-as-if-from-nowhere` |
 | **Mirror galvanometer / optical-lever still** | Cream linen craft table, antique brass mirror galvanometer, successive glass reflections amplifying a thin beam into a long trail past the scale frame, cool museum side light, brass–glass grain | `the-artifacts-of-self-amplification` |
 | **Damascus / pattern-welded steel macro** | Full-bleed metallurgical macro, cold gray–black laminated striations folding denser into themselves, hard industrial rake light, oil sheen and forge scale, no tabletop props | `intelligence-folding-back-on-itself` |
+| **Thin-layer chromatography / TLC plate** | Full-bleed silica gel plate, solvent front, separated pigment bands versus unseparated wash continuing past the edge; cool laboratory light, archival chemical grain; no table, no text | `the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern` |
 
 | **Laboratory glassware still / sealed continuous curve** | Cream linen lab desk, graduated cylinder with continuous amber gradient, black stopper seal, continuous pencil curve under hard black rectangular seal plate, cool museum side light, no text | `the-reversal-from-defensible-claim-to-dogma` |
 | **Assay touchstone / gold-streak still** | Cream linen craft table, black basalt touchstone with gold purity streaks as fixed standard, diverse metal samples forced into comparison against one streak, brass touch needles, cool museum side light | `the-source-of-all-harm` |
@@ -299,6 +300,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-brain-does-not-backprop` | Dark chalk / light trails |
 | `the-climate-problem-registers-only-as-perception` | Encaustic wax on wood panel |
 | `the-coordinators-category-error` | Kintsugi ceramic still life |
+| `the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern` | Thin-layer chromatography / TLC plate |
 | `the-fixed-image-of-transcendence` | Magic-lantern glass slide still |
 | `the-flight-analogy-leaves-the-mind-untouched` | Photogram / cameraless object print |
 | `the-flywheel-of-the-mind` | Art Deco poster / chrome and sunburst |
