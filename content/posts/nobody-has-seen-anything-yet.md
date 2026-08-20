@@ -22,7 +22,7 @@ Continuity is what discreteness looks like when interpretation cannot find the g
 
 What we call indeterminacy—quantum uncertainty, free will, autonomous agency—marks where process grain exceeds interpretive resolution. Below Planck scale, below the propagation limit expressed as lightspeed, below the grain of introspection: causation appears to break down. Outcomes appear uncaused, choices appear free, systems appear self-moving.
 
-They aren't. The gaps are in interpretation, not phenomenon.
+They register where a present description ceases to be reliable. Treating Planck, lightspeed, or introspection as demonstrated edges of the field those models track reinstalls an absolute remainder. [Selection, contradiction, and open reality](../selection-contradiction-and-open-reality/) is that bound: model-edges indicate where an informational description fails; what exceeds cannot be confirmed or disconfirmed in any final sense.
 
 Here a clarification becomes necessary. "Interpretation" suggests conscious analysis, but that's too narrow. We sense at fundamental limits—not just through eyes and ears, but through the full pre-interpretive contact with reality at each moment: intuition, felt sense, the immediate apprehension that precedes articulation. This sensing operates at limit-resolution. What lags is interpretation: the actualization of what we sense into usable distinction.
 
