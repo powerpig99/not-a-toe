@@ -12,7 +12,7 @@ The successful are measured against what still falls short of an ideal — an id
 
 When the high standard is impossible, everything actual sits at infinite distance from it. Distance collapses to sameness. Once nothing can pass, ranking no longer tracks registered movement. It tracks which side *feels* better to favor. The mind still experiences a clear ranking. The clarity is the feel, not the measure.
 
-Those who hold the much higher or impossible bar for the successful never apply the same bar to themselves. They do not have to pass it. Their position is the seat from which judgment is imposed — absolute moral high ground occupied not by surviving the measure, but by holding the measure while remaining outside it. The high ground is the exemption.
+Those who hold the much higher or impossible bar for the successful never apply the same bar to themselves. They do not have to pass it. Their position is the seat from which judgment is imposed — absolute moral high ground occupied not by surviving the measure, but by holding the measure while remaining outside it. The high ground is the exemption. [The distaste for “AI slop” is no different from the recurring historical pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) is that exemption under origin costume: unaided writing held as the bar, the critic’s own instrument-dependence left outside it.
 
 ## When reference and perspective move as one
 
