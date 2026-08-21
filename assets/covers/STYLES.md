@@ -203,7 +203,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic torn-seam / protest-to-instrument panorama** | Split: dark protest street, vintage car, and warning signs left; gold wireframe head, open hand with wrench, sunrise city right; torn-paper seam; operator drop | `the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern` |
 | **Cinematic fork / attribution signpost overlay** | Photoreal mountain fork, storm-stone vs sunlit valley, child at the split, Chinese title overlay, stone plaque vs wooden wayfinding post; operator drop | `wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai` |
 | **Cinematic Möbius / dual-weather infinity panorama** | Figure on circular dais, nested tunnel, gold–cyan Möbius light loop, lightning split, storm vs sunlit valley, title overlay; operator drop | `how-to-fix-your-whole-life-in-one-split-second` |
-| **Jacquard punched-card mill interior** | Full-bleed 19th-century mill, cascading punched-card chains as if weaving themselves, warm amber industrial light, living hands feeding the warp at the unbound edge | `agency-relocated-into-the-formal-model` |
+| **Cinematic figure / gold-stream geometric lattice** | Figure at left, gold particle stream from the chest into a silver-blue glass polyhedral lattice of currency glyphs and diagrams; dark void, cinematic light; operator drop | `agency-relocated-into-the-formal-model` |
 
 ## Inventory (by slug)
 
@@ -211,7 +211,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 |------|----------------|
 | `abstraction-boundaries-and-the-moving-edge-of-reality` | Geometric mesh dissolving into alpine panorama |
 | `advocating-openness-of-others-is-a-desire-for-closure-of-the-self` | Brass iris diaphragm still |
-| `agency-relocated-into-the-formal-model` | Jacquard punched-card mill interior |
+| `agency-relocated-into-the-formal-model` | Cinematic figure / gold-stream geometric lattice |
 | `a-creation-cannot-replace-its-source` | Cut-paper shadowbox / Scherenschnitte |
 | `a-living-external-cortex` | Chinese gongbi fine-line color |
 | `a-new-deeper-look-at-antifragility` | Painterly glass / gold path |
