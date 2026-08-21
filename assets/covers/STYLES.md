@@ -201,7 +201,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic portrait / product-constellation panorama** | Full-bleed photoreal composite: central portrait, Falcon launch, Mars habitat and Starship, Tesla vehicles and Megapack; cool–warm dual light; operator drop | `failure-as-information` |
 | **Cinematic funnel–infinity–horizon panorama** | Split: mountain funnel into gold network left; gold infinity at center; event-horizon accretion and shattered rock right; gold HUD icons; operator drop | `selection-contradiction-and-open-reality` |
 | **Cinematic torn-seam / protest-to-instrument panorama** | Split: dark protest street, vintage car, and warning signs left; gold wireframe head, open hand with wrench, sunrise city right; torn-paper seam; operator drop | `the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern` |
-| **Oil tiller-wake seascape** | Full-bleed cinematic oil; weathered tiller grip in near foreground; wake as residue of successive steering; weather-front as field; cool slate / warm ochre | `wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai` |
+| **Cinematic fork / attribution signpost overlay** | Photoreal mountain fork, storm-stone vs sunlit valley, child at the split, Chinese title overlay, stone plaque vs wooden wayfinding post; operator drop | `wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai` |
 
 ## Inventory (by slug)
 
@@ -345,7 +345,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `therapy-opens-the-feedback-loop` | Sandblasted glass etching |
 | `token-efficiency-emulation-and-the-unclosable-gap` | Stained glass panel |
 | `two-failures-of-trace` | Wet-plate collodion / ambrotype |
-| `wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai` | Oil tiller-wake seascape |
+| `wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai` | Cinematic fork / attribution signpost overlay |
 | `what-always-listens-cannot-originate` | Ukiyo-e / nishiki-e |
 | `what-works-is-the-belief` | Mingei / katazome stencil |
 | `the-belief-in-utopia-is-the-path-to-dystopia` | Porcelain mold / residual clay still |
