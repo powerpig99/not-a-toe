@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-21T03:53:06.821Z",
+    "generated_at": "2026-08-21T14:18:22.056Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -70,7 +70,8 @@
       "content/posts/having-more-is-never-the-cause.md": "152b38f49428",
       "content/posts/help-is-half-the-problem.md": "686ba3ac40ff",
       "content/posts/hierarchy-from-individual-difference.md": "1c387c86f011",
-      "content/posts/how-belief-actually-changes.md": "4d8ab09ff782",
+      "content/posts/how-belief-actually-changes.md": "b31fc8321707",
+      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "16c01750be6d",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
@@ -83,12 +84,12 @@
       "content/posts/looping-and-graphing.md": "b2acdecafde8",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "9c444c441407",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "b0b7611c473a",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "7fddde85b53e",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "634293b4399b",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "a28d3ac84802",
-      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "93b678f46885",
+      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "bc4d65cbecdd",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
@@ -107,13 +108,13 @@
       "content/posts/openness-is-consistency.md": "03afcc17003a",
       "content/posts/order-surplus-and-the-moral-intercept.md": "2f9f5444f34a",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "606e587bcaea",
+      "content/posts/ownership-and-self-worthiness.md": "3ed440fafcca",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "9f9598e7f790",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "659d441ca9fb",
+      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "779ff9a029ff",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "fa9cdfe1ece3",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "aba8560f770f",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "345a4e5d11e5",
@@ -123,9 +124,9 @@
       "content/posts/qian-yin-hou-guo.md": "8a887ca0d657",
       "content/posts/rationality-never-travels-across-the-mind.md": "6d12122abe9d",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
-      "content/posts/reality-is-the-minds-ongoing-realization.md": "da645c2e28c5",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "01fc141a7543",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
-      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "4317c0bd757d",
+      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "93ee8acd93d7",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
       "content/posts/residual-individualism.md": "826b80e49461",
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
@@ -178,7 +179,7 @@
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-map-after-the-territory.md": "b9882ace9c8c",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "8a1a6c780055",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "a9ea905964fb",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "732b747c056c",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "134a07cc1be4",
@@ -204,7 +205,7 @@
       "content/posts/the-scaffolding-we-forget.md": "dada444dd228",
       "content/posts/the-scaling-loop.md": "deedfa49f780",
       "content/posts/the-source-of-all-harm.md": "d496877d7de4",
-      "content/posts/the-source-of-shared-change.md": "80e99c4c1a1f",
+      "content/posts/the-source-of-shared-change.md": "7769192f1752",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
@@ -217,7 +218,7 @@
       "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "ec63f1f3d6a3",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
-      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "62db01c7d66f",
+      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "8f96f245ff26",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
       "content/posts/what-works-is-the-belief.md": "e8877c5d23bf",
@@ -234,13 +235,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 224,
-      "edges": 2297,
-      "unique_directed": 2273,
+      "posts": 225,
+      "edges": 2317,
+      "unique_directed": 2293,
       "missing_targets": 0,
       "one_way": 335,
       "isolated": 36,
-      "posts_with_outbound": 172
+      "posts_with_outbound": 173
     }
   },
   "hubs_in": [
@@ -262,15 +263,15 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 34
+      "in_degree": 35
+    },
+    {
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
+      "in_degree": 33
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 33
-    },
-    {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 32
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -321,8 +322,8 @@
       "in_degree": 24
     },
     {
-      "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
-      "in_degree": 23
+      "slug": "the-source-of-shared-change",
+      "in_degree": 24
     }
   ],
   "hubs_out": [
@@ -355,6 +356,10 @@
       "out_degree": 28
     },
     {
+      "slug": "the-model-never-becomes-a-second-edge",
+      "out_degree": 28
+    },
+    {
       "slug": "the-scaffolding-we-forget",
       "out_degree": 28
     },
@@ -363,15 +368,11 @@
       "out_degree": 27
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "ownership-and-self-worthiness",
       "out_degree": 27
     },
     {
       "slug": "hierarchy-from-individual-difference",
-      "out_degree": 26
-    },
-    {
-      "slug": "ownership-and-self-worthiness",
       "out_degree": 26
     },
     {
@@ -391,19 +392,19 @@
       "out_degree": 24
     },
     {
+      "slug": "reality-is-the-minds-ongoing-realization",
+      "out_degree": 24
+    },
+    {
+      "slug": "the-source-of-shared-change",
+      "out_degree": 24
+    },
+    {
       "slug": "what-works-is-the-belief",
       "out_degree": 24
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
-      "out_degree": 23
-    },
-    {
-      "slug": "reality-is-the-minds-ongoing-realization",
-      "out_degree": 23
-    },
-    {
-      "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
       "out_degree": 23
     }
   ],
@@ -1731,9 +1732,9 @@
       "slug": "how-belief-actually-changes",
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "How Belief Actually Changes",
-      "hash": "4d8ab09ff782",
-      "in_degree": 18,
-      "out_degree": 18,
+      "hash": "b31fc8321707",
+      "in_degree": 19,
+      "out_degree": 19,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-strongest-belief-of-the-mind",
@@ -1744,6 +1745,7 @@
         "the-imagining-of-ai-risk",
         "causality-all-the-way",
         "when-the-effect-authors-the-frame",
+        "how-to-fix-your-whole-life-in-one-split-second",
         "openness-is-consistency",
         "evil-as-the-minds-own-creation",
         "externalized-virtue-becomes-its-opposite",
@@ -1753,6 +1755,28 @@
         "residual-individualism",
         "hardness-is-not-inherent-in-the-action",
         "the-map-after-the-territory"
+      ]
+    },
+    {
+      "id": "post:how-to-fix-your-whole-life-in-one-split-second",
+      "kind": "post",
+      "slug": "how-to-fix-your-whole-life-in-one-split-second",
+      "path": "content/posts/how-to-fix-your-whole-life-in-one-split-second.md",
+      "title": "How to Fix Your Whole Life in One Split Second",
+      "hash": "16c01750be6d",
+      "in_degree": 10,
+      "out_degree": 10,
+      "links_out": [
+        "ownership-and-self-worthiness",
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
+        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+        "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+        "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "how-belief-actually-changes",
+        "the-source-of-shared-change",
+        "the-model-never-becomes-a-second-edge",
+        "mei-you-pu-du-zhi-you-zi-du",
+        "reality-is-the-minds-ongoing-realization"
       ]
     },
     {
@@ -2028,10 +2052,11 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "b0b7611c473a",
-      "in_degree": 32,
-      "out_degree": 21,
+      "hash": "7fddde85b53e",
+      "in_degree": 33,
+      "out_degree": 22,
       "links_out": [
+        "how-to-fix-your-whole-life-in-one-split-second",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "empowerment-establishes-the-centralization-of-power",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
@@ -2143,11 +2168,12 @@
       "slug": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "path": "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md",
       "title": "Moral Language Dilutes the Feedback That Scales Freedom",
-      "hash": "93b678f46885",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "bc4d65cbecdd",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "ownership-and-self-worthiness",
+        "how-to-fix-your-whole-life-in-one-split-second",
         "preference-clusters-and-the-language-of-judgment",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "therapy-opens-the-feedback-loop",
@@ -2569,9 +2595,9 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "606e587bcaea",
-      "in_degree": 34,
-      "out_degree": 26,
+      "hash": "3ed440fafcca",
+      "in_degree": 35,
+      "out_degree": 27,
       "links_out": [
         "failure-as-information",
         "order-surplus-and-the-moral-intercept",
@@ -2591,6 +2617,7 @@
         "the-myth-of-population-collapse-explained",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "hierarchy-from-individual-difference",
+        "how-to-fix-your-whole-life-in-one-split-second",
         "expertise-as-reference-not-replacement",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-source-of-shared-change",
@@ -2708,9 +2735,9 @@
       "slug": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "Politicians Appear as Visible Symptoms of Responsibility Diffusion",
-      "hash": "659d441ca9fb",
-      "in_degree": 11,
-      "out_degree": 11,
+      "hash": "779ff9a029ff",
+      "in_degree": 12,
+      "out_degree": 12,
       "links_out": [
         "ownership-and-self-worthiness",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -2719,6 +2746,7 @@
         "sowell-observed-the-surface-problem",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "when-the-effect-authors-the-frame",
+        "how-to-fix-your-whole-life-in-one-split-second",
         "residual-individualism",
         "sovereignty-belief-and-regulatory-structures",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -2953,9 +2981,9 @@
       "slug": "reality-is-the-minds-ongoing-realization",
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "Reality Is the Mind's Ongoing Realization",
-      "hash": "da645c2e28c5",
-      "in_degree": 19,
-      "out_degree": 23,
+      "hash": "01fc141a7543",
+      "in_degree": 20,
+      "out_degree": 24,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
@@ -2963,6 +2991,7 @@
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "intelligence-belongs-only-to-the-mind",
         "the-scaffolding-we-forget",
+        "how-to-fix-your-whole-life-in-one-split-second",
         "openness-is-consistency",
         "no-system-can-be-kept-closed",
         "the-strongest-belief-of-the-mind",
@@ -3003,10 +3032,11 @@
       "slug": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "path": "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md",
       "title": "人生是一个持续的自我迭代过程",
-      "hash": "4317c0bd757d",
-      "in_degree": 4,
-      "out_degree": 4,
+      "hash": "93ee8acd93d7",
+      "in_degree": 5,
+      "out_degree": 5,
       "links_out": [
+        "how-to-fix-your-whole-life-in-one-split-second",
         "guan-yu-gui-yin",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -4122,10 +4152,11 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "a9ea905964fb",
-      "in_degree": 22,
-      "out_degree": 27,
+      "hash": "732b747c056c",
+      "in_degree": 23,
+      "out_degree": 28,
       "links_out": [
+        "how-to-fix-your-whole-life-in-one-split-second",
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
         "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -4796,9 +4827,9 @@
       "slug": "the-source-of-shared-change",
       "path": "content/posts/the-source-of-shared-change.md",
       "title": "The Source of Shared Change",
-      "hash": "80e99c4c1a1f",
-      "in_degree": 23,
-      "out_degree": 23,
+      "hash": "7769192f1752",
+      "in_degree": 24,
+      "out_degree": 24,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -4816,6 +4847,7 @@
         "residual-individualism",
         "the-meaning-of-life-is-in-the-drafting",
         "ownership-and-self-worthiness",
+        "how-to-fix-your-whole-life-in-one-split-second",
         "when-observation-becomes-performance",
         "the-paradoxical-nature-of-bystander-insights",
         "two-failures-of-trace",
@@ -5031,9 +5063,9 @@
       "slug": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因：个人进步的障碍",
-      "hash": "62db01c7d66f",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "8f96f245ff26",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
@@ -5042,7 +5074,8 @@
         "when-the-effect-authors-the-frame",
         "the-average-is-residue-not-the-engine",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
-        "mei-you-pu-du-zhi-you-zi-du"
+        "mei-you-pu-du-zhi-you-zi-du",
+        "how-to-fix-your-whole-life-in-one-split-second"
       ]
     },
     {
@@ -8756,6 +8789,12 @@
     },
     {
       "from": "how-belief-actually-changes",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to fix your whole life in one split second"
+    },
+    {
+      "from": "how-belief-actually-changes",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
@@ -8807,6 +8846,66 @@
       "to": "the-map-after-the-territory",
       "rel": "points_to",
       "label": "Self-improvement writing is The Map After the Territory"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral language dilutes the feedback that scales freedom"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "rel": "points_to",
+      "label": "人生是一个持续的自我迭代过程"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因：个人进步的障碍"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How belief actually changes"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The source of shared change"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind’s ongoing realization"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -9590,6 +9689,12 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to fix your whole life in one split second"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "rel": "points_to",
       "label": "人生是一个持续的自我迭代过程"
@@ -9929,6 +10034,12 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to fix your whole life in one split second"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -11288,6 +11399,12 @@
     },
     {
       "from": "ownership-and-self-worthiness",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to fix your whole life in one split second"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
       "label": "Expertise as reference, not replacement"
@@ -11657,6 +11774,12 @@
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
       "label": "When the effect authors the frame"
+    },
+    {
+      "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to fix your whole life in one split second"
     },
     {
       "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
@@ -12410,6 +12533,12 @@
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to fix your whole life in one split second"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
@@ -12527,6 +12656,12 @@
       "to": "the-source-of-all-harm",
       "rel": "points_to",
       "label": "The source of all harm"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to fix your whole life in one split second"
     },
     {
       "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
@@ -15308,6 +15443,12 @@
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to fix your whole life in one split second"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence belongs only to The Mind"
@@ -17606,6 +17747,12 @@
     },
     {
       "from": "the-source-of-shared-change",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to fix your whole life in one split second"
+    },
+    {
+      "from": "the-source-of-shared-change",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
       "label": "When observation becomes performance"
@@ -18281,6 +18428,12 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to fix your whole life in one split second"
     },
     {
       "from": "what-always-listens-cannot-originate",

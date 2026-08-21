@@ -46,4 +46,4 @@
 
 ## 解释权只在自己手里
 
-进步从不是被外界批准的。它只发生在一个地方：一个人决定，把所有解释权，重新握回自己手中。
+进步从不是被外界批准的。它只发生在一个地方：一个人决定，把所有解释权，重新握回自己手中。[How to fix your whole life in one split second](../how-to-fix-your-whole-life-in-one-split-second/) 是那一握作为瞬时归属：其余只是怎么做。
