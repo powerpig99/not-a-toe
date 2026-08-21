@@ -202,7 +202,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic funnel–infinity–horizon panorama** | Split: mountain funnel into gold network left; gold infinity at center; event-horizon accretion and shattered rock right; gold HUD icons; operator drop | `selection-contradiction-and-open-reality` |
 | **Cinematic torn-seam / protest-to-instrument panorama** | Split: dark protest street, vintage car, and warning signs left; gold wireframe head, open hand with wrench, sunrise city right; torn-paper seam; operator drop | `the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern` |
 | **Cinematic fork / attribution signpost overlay** | Photoreal mountain fork, storm-stone vs sunlit valley, child at the split, Chinese title overlay, stone plaque vs wooden wayfinding post; operator drop | `wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai` |
-| **Lichtenberg figure / captured-discharge acrylic** | Full-bleed captured lightning as branching white-gold tree inside a clear acrylic slab, nested forks, raking museum light, dark charcoal ground, no table, no text | `how-to-fix-your-whole-life-in-one-split-second` |
+| **Cinematic Möbius / dual-weather infinity panorama** | Figure on circular dais, nested tunnel, gold–cyan Möbius light loop, lightning split, storm vs sunlit valley, title overlay; operator drop | `how-to-fix-your-whole-life-in-one-split-second` |
 
 ## Inventory (by slug)
 
@@ -248,7 +248,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `having-more-is-never-the-cause` | Scratchboard / white-line scraperboard |
 | `hierarchy-from-individual-difference` | Quipu / knotted-cord still life |
 | `how-belief-actually-changes` | Egg tempera / gesso panel still |
-| `how-to-fix-your-whole-life-in-one-split-second` | Lichtenberg figure / captured-discharge acrylic |
+| `how-to-fix-your-whole-life-in-one-split-second` | Cinematic Möbius / dual-weather infinity panorama |
 | `humans-tokens-and-the-scope-of-valuation` | Oil split composition |
 | `individual-choices-as-the-only-causal-levers` | Soft clay / stop-motion puppet still |
 | `intelligence-belongs-only-to-the-mind` | Dark chalk / light trails |
