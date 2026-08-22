@@ -10,7 +10,7 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 Taken alone, those traces remain separate. Separation is maximal. Ranking waits on a common measure; until one is applied, what remains is separate sequences. Identity registers here as this individual’s particular sequence — the feel of differing from others is the feel of a bounded life already underway.
 
-What also registers, as soon as individuals meet in a shared field, is the need for a dimension on which that difference can be located relative to other people. Sequence alone supplies difference; shared alignment supplies ranking and directed comparison. The dual is ordinary: difference as this Mind’s boundedness; mattering as position under a measure others can also read. Hierarchy is that dual under a common frame.
+What also registers, as soon as individuals meet in a shared field, is the need for a dimension on which that difference can be located relative to other people. Sequence alone supplies difference; shared alignment supplies ranking and directed comparison. The dual is ordinary: difference as this Mind’s boundedness; mattering as position under a measure others can also read. Hierarchy is that dual under a common frame. [The generative contradiction](../the-generative-contradiction/) is that dual as unresolved movement: differences constitute uniqueness and become the instruments of ranking.
 
 ## Common measure produces ordered places
 
