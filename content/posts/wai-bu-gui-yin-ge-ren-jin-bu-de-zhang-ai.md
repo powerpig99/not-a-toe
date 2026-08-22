@@ -46,4 +46,4 @@
 
 ## 解释权只在自己手里
 
-进步从不是被外界批准的。它只发生在一个地方：一个人决定，把所有解释权，重新握回自己手中。[How to fix your whole life in one split second](../how-to-fix-your-whole-life-in-one-split-second/) 是那一握作为瞬时归属：其余只是怎么做。
+进步从不是被外界批准的。它只发生在一个地方：一个人决定，把所有解释权，重新握回自己手中。收回不是一次结束；向外投射与收回仍是同一未解的运动。[The generative contradiction](../the-generative-contradiction/) is that dual as generative source, not a defect the reclaiming finishes. [How to fix your whole life in one split second](../how-to-fix-your-whole-life-in-one-split-second/) 是那一握作为瞬时归属：其余只是怎么做。
