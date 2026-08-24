@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-21T19:06:24.849Z",
+    "generated_at": "2026-08-24T07:05:45.358Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -23,7 +23,7 @@
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/causality-all-the-way.md": "87c4e018e0d5",
       "content/posts/causality-and-the-irreducible-prior.md": "eca0fc968681",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "7f3ab17e4c70",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "420084fab776",
       "content/posts/cheng-gong-xue.md": "44fc72472f43",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
@@ -47,7 +47,7 @@
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "dfa5e6a10207",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
-      "content/posts/empowerment-establishes-the-centralization-of-power.md": "43481702d602",
+      "content/posts/empowerment-establishes-the-centralization-of-power.md": "959b8be4d763",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
@@ -70,13 +70,13 @@
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
       "content/posts/having-more-is-never-the-cause.md": "152b38f49428",
       "content/posts/help-is-half-the-problem.md": "686ba3ac40ff",
-      "content/posts/hierarchy-from-individual-difference.md": "1c387c86f011",
+      "content/posts/hierarchy-from-individual-difference.md": "4726a4f6a0e8",
       "content/posts/how-belief-actually-changes.md": "b31fc8321707",
-      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "16c01750be6d",
+      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "301fced2d880",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "c684fa31d114",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "b6c90c06a32c",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -109,7 +109,7 @@
       "content/posts/openness-is-consistency.md": "03afcc17003a",
       "content/posts/order-surplus-and-the-moral-intercept.md": "2f9f5444f34a",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "3ed440fafcca",
+      "content/posts/ownership-and-self-worthiness.md": "96185ffe6f2b",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "9f9598e7f790",
@@ -133,7 +133,7 @@
       "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
-      "content/posts/selection-contradiction-and-open-reality.md": "dbaff31a622e",
+      "content/posts/selection-contradiction-and-open-reality.md": "805903f17e4e",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "1b26c8b493df",
       "content/posts/self-rl-for-humans.md": "5d3466611e3a",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
@@ -147,7 +147,7 @@
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "3ecbd2964bed",
       "content/posts/technology-is-residual-of-human-compounding.md": "3a842a236e55",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "5bd590d12b74",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "703de644ded9",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-average-is-residue-not-the-engine.md": "a55bf020d3fc",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
@@ -155,15 +155,16 @@
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
-      "content/posts/the-coordinators-category-error.md": "d23112352a85",
+      "content/posts/the-coordinators-category-error.md": "d8a060340030",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
-      "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "645ab52e348c",
+      "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-fixed-image-of-transcendence.md": "ebf44e2e9959",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3cd05b0818a",
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
+      "content/posts/the-generative-contradiction.md": "2cef8f7c85e8",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
@@ -180,6 +181,7 @@
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-map-after-the-territory.md": "b9882ace9c8c",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "8a1a6c780055",
+      "content/posts/the-misallocation-of-agency.md": "dc121c2a72ed",
       "content/posts/the-model-never-becomes-a-second-edge.md": "14a4e38b2701",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
@@ -219,7 +221,7 @@
       "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "ec63f1f3d6a3",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
-      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "8f96f245ff26",
+      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "e4673d9e56eb",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
       "content/posts/what-works-is-the-belief.md": "e8877c5d23bf",
@@ -236,13 +238,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 226,
-      "edges": 2335,
-      "unique_directed": 2311,
+      "posts": 228,
+      "edges": 2363,
+      "unique_directed": 2339,
       "missing_targets": 0,
-      "one_way": 335,
+      "one_way": 341,
       "isolated": 36,
-      "posts_with_outbound": 174
+      "posts_with_outbound": 176
     }
   },
   "hubs_in": [
@@ -256,7 +258,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 46
+      "in_degree": 47
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -264,11 +266,11 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 35
+      "in_degree": 36
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 34
+      "in_degree": 35
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -283,15 +285,19 @@
       "in_degree": 30
     },
     {
+      "slug": "hierarchy-from-individual-difference",
+      "in_degree": 27
+    },
+    {
       "slug": "self-rl-for-humans",
       "in_degree": 27
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
+      "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 26
     },
     {
-      "slug": "hierarchy-from-individual-difference",
+      "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 26
     },
     {
@@ -305,10 +311,6 @@
     {
       "slug": "preference-clusters-and-the-language-of-judgment",
       "in_degree": 25
-    },
-    {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 24
     },
     {
       "slug": "externalized-virtue-becomes-its-opposite",
@@ -330,7 +332,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 49
+      "out_degree": 50
     },
     {
       "slug": "openness-is-consistency",
@@ -361,6 +363,10 @@
       "out_degree": 28
     },
     {
+      "slug": "ownership-and-self-worthiness",
+      "out_degree": 28
+    },
+    {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 28
     },
@@ -369,12 +375,12 @@
       "out_degree": 27
     },
     {
-      "slug": "ownership-and-self-worthiness",
+      "slug": "hierarchy-from-individual-difference",
       "out_degree": 27
     },
     {
-      "slug": "hierarchy-from-individual-difference",
-      "out_degree": 26
+      "slug": "causality-stays-at-the-edge-that-steers",
+      "out_degree": 25
     },
     {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -403,10 +409,6 @@
     {
       "slug": "what-works-is-the-belief",
       "out_degree": 24
-    },
-    {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "out_degree": 23
     }
   ],
   "missing": [],
@@ -456,7 +458,7 @@
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
       "hash": "749d2fef34a2",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 20,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -771,14 +773,16 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
-      "hash": "7f3ab17e4c70",
-      "in_degree": 24,
-      "out_degree": 23,
+      "hash": "420084fab776",
+      "in_degree": 26,
+      "out_degree": 25,
       "links_out": [
         "what-always-listens-cannot-originate",
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+        "the-generative-contradiction",
+        "the-misallocation-of-agency",
         "intelligence-belongs-only-to-the-mind",
         "the-flywheel-of-the-mind",
         "self-rl-for-humans",
@@ -1269,11 +1273,12 @@
       "slug": "empowerment-establishes-the-centralization-of-power",
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
       "title": "Empowerment Establishes the Centralization of Power",
-      "hash": "43481702d602",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "959b8be4d763",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
+        "the-misallocation-of-agency",
         "externalized-virtue-becomes-its-opposite",
         "sovereignty-belief-and-regulatory-structures",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -1409,7 +1414,7 @@
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "Expertise as Reference, Not Replacement",
       "hash": "8e648977cb2a",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 18,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
@@ -1717,10 +1722,11 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "Hierarchy from Individual Difference",
-      "hash": "1c387c86f011",
-      "in_degree": 26,
-      "out_degree": 26,
+      "hash": "4726a4f6a0e8",
+      "in_degree": 27,
+      "out_degree": 27,
       "links_out": [
+        "the-generative-contradiction",
         "data-is-local-intelligence-is-allocated",
         "having-more-is-never-the-cause",
         "the-frame-that-conceals-improvement",
@@ -1786,15 +1792,16 @@
       "slug": "how-to-fix-your-whole-life-in-one-split-second",
       "path": "content/posts/how-to-fix-your-whole-life-in-one-split-second.md",
       "title": "How to Fix Your Whole Life in One Split Second",
-      "hash": "16c01750be6d",
+      "hash": "301fced2d880",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "ownership-and-self-worthiness",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "the-generative-contradiction",
         "how-belief-actually-changes",
         "the-source-of-shared-change",
         "the-model-never-becomes-a-second-edge",
@@ -1841,9 +1848,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "c684fa31d114",
-      "in_degree": 46,
-      "out_degree": 49,
+      "hash": "b6c90c06a32c",
+      "in_degree": 47,
+      "out_degree": 50,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -1867,6 +1874,7 @@
         "sovereignty-belief-and-regulatory-structures",
         "public-spending-does-not-create-capital",
         "the-coordinators-category-error",
+        "the-misallocation-of-agency",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "empowerment-establishes-the-centralization-of-power",
         "agency-relocated-into-the-formal-model",
@@ -2620,9 +2628,9 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "3ed440fafcca",
-      "in_degree": 35,
-      "out_degree": 27,
+      "hash": "96185ffe6f2b",
+      "in_degree": 36,
+      "out_degree": 28,
       "links_out": [
         "failure-as-information",
         "order-surplus-and-the-moral-intercept",
@@ -2631,6 +2639,7 @@
         "sowell-observed-the-surface-problem",
         "residual-control-recedes-to-the-edge",
         "guan-yu-gui-yin",
+        "the-generative-contradiction",
         "empowerment-establishes-the-centralization-of-power",
         "liberation-rhetoric-begins-by-defining-captivity",
         "externalized-virtue-becomes-its-opposite",
@@ -2860,7 +2869,7 @@
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "Price as Utterance, Understanding as Trade",
       "hash": "6558c6cbe62e",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 14,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -3095,7 +3104,7 @@
       "path": "content/posts/residual-individualism.md",
       "title": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies",
       "hash": "826b80e49461",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 20,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -3176,13 +3185,14 @@
       "slug": "selection-contradiction-and-open-reality",
       "path": "content/posts/selection-contradiction-and-open-reality.md",
       "title": "Selection, Contradiction, and Open Reality",
-      "hash": "dbaff31a622e",
-      "in_degree": 7,
-      "out_degree": 6,
+      "hash": "805903f17e4e",
+      "in_degree": 8,
+      "out_degree": 7,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "causality-and-the-irreducible-prior",
         "complexity-obscures-emergence-as-the-act-of-mind",
+        "the-generative-contradiction",
         "openness-is-consistency",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "on-closed-systems-open-minds-and-the-limits-of-proof"
@@ -3527,9 +3537,9 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "5bd590d12b74",
-      "in_degree": 34,
-      "out_degree": 20,
+      "hash": "703de644ded9",
+      "in_degree": 35,
+      "out_degree": 21,
       "links_out": [
         "order-surplus-and-the-moral-intercept",
         "pessimism-is-the-shadow-of-optimism",
@@ -3537,6 +3547,7 @@
         "studying-the-effect-of-ai-relocates-causality",
         "the-unobservable-driver-of-learning",
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+        "the-generative-contradiction",
         "hierarchy-from-individual-difference",
         "empowerment-establishes-the-centralization-of-power",
         "expertise-as-reference-not-replacement",
@@ -3718,14 +3729,15 @@
       "slug": "the-coordinators-category-error",
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "The Coordinator’s Category Error",
-      "hash": "d23112352a85",
-      "in_degree": 12,
-      "out_degree": 15,
+      "hash": "d8a060340030",
+      "in_degree": 13,
+      "out_degree": 16,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
         "individual-choices-as-the-only-causal-levers",
+        "the-misallocation-of-agency",
         "mei-you-pu-du-zhi-you-zi-du",
         "price-as-utterance-understanding-as-trade",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -3767,9 +3779,9 @@
       "slug": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "path": "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md",
       "title": "The Distaste for “AI Slop” Is No Different From the Recurring Historical Pattern",
-      "hash": "645ab52e348c",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "f6b314517261",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "causality-stays-at-the-edge-that-steers",
@@ -3780,6 +3792,7 @@
         "the-question-that-installs-the-war",
         "climbing-does-not-leave-the-ground",
         "technology-is-residual-of-human-compounding",
+        "the-generative-contradiction",
         "preference-clusters-and-the-language-of-judgment"
       ]
     },
@@ -3884,6 +3897,25 @@
         "externalized-virtue-becomes-its-opposite",
         "shared-consciousness-is-intersecting-individualities",
         "residual-individualism"
+      ]
+    },
+    {
+      "id": "post:the-generative-contradiction",
+      "kind": "post",
+      "slug": "the-generative-contradiction",
+      "path": "content/posts/the-generative-contradiction.md",
+      "title": "The Generative Contradiction",
+      "hash": "2cef8f7c85e8",
+      "in_degree": 8,
+      "out_degree": 7,
+      "links_out": [
+        "hierarchy-from-individual-difference",
+        "the-allocation-of-causal-power-in-validation",
+        "causality-stays-at-the-edge-that-steers",
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+        "ownership-and-self-worthiness",
+        "selection-contradiction-and-open-reality",
+        "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai"
       ]
     },
     {
@@ -4172,6 +4204,27 @@
         "reality-is-the-minds-ongoing-realization",
         "clarity-isnt-a-state-you-arrive-at",
         "the-strongest-belief-of-the-mind"
+      ]
+    },
+    {
+      "id": "post:the-misallocation-of-agency",
+      "kind": "post",
+      "slug": "the-misallocation-of-agency",
+      "path": "content/posts/the-misallocation-of-agency.md",
+      "title": "The Misallocation of Agency",
+      "hash": "dc121c2a72ed",
+      "in_degree": 4,
+      "out_degree": 9,
+      "links_out": [
+        "individual-choices-as-the-only-causal-levers",
+        "expertise-as-reference-not-replacement",
+        "what-always-listens-cannot-originate",
+        "price-as-utterance-understanding-as-trade",
+        "the-coordinators-category-error",
+        "a-creation-cannot-replace-its-source",
+        "empowerment-establishes-the-centralization-of-power",
+        "residual-individualism",
+        "causality-stays-at-the-edge-that-steers"
       ]
     },
     {
@@ -5094,9 +5147,9 @@
       "slug": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因：个人进步的障碍",
-      "hash": "8f96f245ff26",
-      "in_degree": 9,
-      "out_degree": 9,
+      "hash": "e4673d9e56eb",
+      "in_degree": 10,
+      "out_degree": 10,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
@@ -5106,6 +5159,7 @@
         "the-average-is-residue-not-the-engine",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "mei-you-pu-du-zhi-you-zi-du",
+        "the-generative-contradiction",
         "how-to-fix-your-whole-life-in-one-split-second"
       ]
     },
@@ -5116,7 +5170,7 @@
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "What Always Listens Cannot Originate",
       "hash": "8f0d91be568b",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6297,6 +6351,18 @@
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
       "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The generative contradiction"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The misallocation of agency"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -7596,6 +7662,12 @@
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The misallocation of agency"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
       "label": "Externalized virtue becomes its opposite"
@@ -8670,6 +8742,12 @@
     },
     {
       "from": "hierarchy-from-individual-difference",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The generative contradiction"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
       "label": "Data is local; intelligence is allocated"
@@ -8970,6 +9048,12 @@
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The generative contradiction"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
       "label": "How belief actually changes"
@@ -9129,6 +9213,12 @@
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The coordinator’s category error"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The misallocation of agency"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -11436,6 +11526,12 @@
     },
     {
       "from": "ownership-and-self-worthiness",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The generative contradiction"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
       "label": "Empowerment establishes the centralization of power"
@@ -13074,6 +13170,12 @@
     },
     {
       "from": "selection-contradiction-and-open-reality",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The generative contradiction"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
@@ -13998,6 +14100,12 @@
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The generative contradiction"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from individual difference"
@@ -14562,6 +14670,12 @@
     },
     {
       "from": "the-coordinators-category-error",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The misallocation of agency"
+    },
+    {
+      "from": "the-coordinators-category-error",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
@@ -14679,6 +14793,12 @@
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
       "label": "Technology is residual of human compounding"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The generative contradiction"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -14943,6 +15063,48 @@
       "to": "residual-individualism",
       "rel": "points_to",
       "label": "Residual individualism"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, contradiction, and open reality"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因：个人进步的障碍"
     },
     {
       "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
@@ -15561,6 +15723,60 @@
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
       "label": "The strongest belief of the Mind"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as reference, not replacement"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What always listens cannot originate"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as utterance, understanding as trade"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A creation cannot replace its source"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment establishes the centralization of power"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual individualism"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality stays at the edge that steers"
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
@@ -18567,6 +18783,12 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The generative contradiction"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
