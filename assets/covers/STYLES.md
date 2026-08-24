@@ -120,6 +120,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Sumi-e ink shan shui prism and golden refraction fan on Xuan paper** | Textured Xuan paper, rugged charcoal and ink shan shui crags on left, crystal prism on peak refracting light into an expansive burst of radiant gold leaf filaments into negative space (1024×434 operator drop) | `ones-potential-as-threat-or-inspiration` |
 | **Horology still life / cast-iron clockwork and incandescent hourglass dual** | Dark mahogany wood ground, heavy cast-iron gear train and pendulum ticking with mechanical inertia on left, incandescent glowing hourglass accelerating with golden spark filaments on right | `the-local-trap-of-technological-change` |
 | **Nautical chart & submerged golden trajectory still life** | Aged vellum paper, engraved nautical charts shrouded in thick charcoal fog, brilliant golden trajectory line cutting unseen beneath the mist and breaking through the torn map into open sea | `the-invisible-first-move` |
+| **Mezzotint engraving / architectural perspective grid & dual polarized shadow portals** | Velvety midnight-black ground, architectural perspective wireframe grid receding to a brilliant white open rectangular aperture, dual arched portals on left and right casting contrasting shadowed figures ('caution' vs 'progress'), with a sharp central golden incision cutting straight forward into open ground (1024×434 operator drop) | `moral-language-as-projection` |
 | **Lithographic crayon / stone print** | Warm gray limestone ground, greasy black crayon, plate tone, museum raking light; multi-story scaffold densifying as it extends past the plate edge | `the-scaffolding-that-keeps-growing` |
 | **Magic-lantern glass slide still** | Antique hand-painted glass slide on dark wood, fixed translucent figure-on-ladder image, living chalk trail continuing past the glass, amber projection cone + cool museum light | `the-fixed-image-of-transcendence` |
 | **Chart-recorder / oscillograph strip** | Aged cream fanfold paper, pen-trace still life, thin early initiating spike then delayed denser oscillatory lag, mechanical grid, raking museum light | `symptom-and-cause-in-the-narratives-of-progress` |
@@ -381,6 +382,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `ones-potential-as-threat-or-inspiration` | Sumi-e ink shan shui prism and golden refraction fan on Xuan paper |
 | `the-local-trap-of-technological-change` | Horology still life / cast-iron clockwork and incandescent hourglass dual |
 | `the-invisible-first-move` | Nautical chart & submerged golden trajectory still life |
+| `moral-language-as-projection` | Mezzotint engraving / architectural perspective grid & dual polarized shadow portals |
 
 ## Crowded — prefer not to extend
 
