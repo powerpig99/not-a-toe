@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-24T08:30:54.081Z",
+    "generated_at": "2026-08-24T08:51:26.637Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -71,7 +71,7 @@
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
       "content/posts/having-more-is-never-the-cause.md": "152b38f49428",
       "content/posts/help-is-half-the-problem.md": "686ba3ac40ff",
-      "content/posts/hierarchy-from-individual-difference.md": "4726a4f6a0e8",
+      "content/posts/hierarchy-from-individual-difference.md": "9b265c236b80",
       "content/posts/how-belief-actually-changes.md": "b31fc8321707",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "301fced2d880",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
@@ -104,6 +104,7 @@
       "content/posts/not-predicting-is-predicting-without-awareness.md": "06c21a27cffb",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b354e525a5d3",
       "content/posts/on-education.md": "d62f17d7f550",
+      "content/posts/ones-potential-as-threat-or-inspiration.md": "55cefc98b6b3",
       "content/posts/only-if-it-is-not-kept-empty.md": "d22c38a19167",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
@@ -131,7 +132,7 @@
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "93ee8acd93d7",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
       "content/posts/residual-individualism.md": "826b80e49461",
-      "content/posts/restriction-is-a-selective-tax.md": "92917f56b1c7",
+      "content/posts/restriction-is-a-selective-tax.md": "41418edaaaad",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/selection-contradiction-and-open-reality.md": "805903f17e4e",
@@ -241,13 +242,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 231,
-      "edges": 2386,
-      "unique_directed": 2362,
+      "posts": 232,
+      "edges": 2392,
+      "unique_directed": 2368,
       "missing_targets": 0,
-      "one_way": 352,
+      "one_way": 354,
       "isolated": 36,
-      "posts_with_outbound": 179
+      "posts_with_outbound": 180
     }
   },
   "hubs_in": [
@@ -257,7 +258,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 49
+      "in_degree": 50
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -289,7 +290,7 @@
     },
     {
       "slug": "hierarchy-from-individual-difference",
-      "in_degree": 27
+      "in_degree": 28
     },
     {
       "slug": "self-rl-for-humans",
@@ -366,6 +367,10 @@
       "out_degree": 29
     },
     {
+      "slug": "hierarchy-from-individual-difference",
+      "out_degree": 28
+    },
+    {
       "slug": "mistaking-the-expression-for-the-intelligence",
       "out_degree": 28
     },
@@ -375,10 +380,6 @@
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "out_degree": 27
-    },
-    {
-      "slug": "hierarchy-from-individual-difference",
       "out_degree": 27
     },
     {
@@ -1742,9 +1743,9 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "Hierarchy from Individual Difference",
-      "hash": "4726a4f6a0e8",
-      "in_degree": 27,
-      "out_degree": 27,
+      "hash": "9b265c236b80",
+      "in_degree": 28,
+      "out_degree": 28,
       "links_out": [
         "the-generative-contradiction",
         "data-is-local-intelligence-is-allocated",
@@ -1772,7 +1773,8 @@
         "technology-is-residual-of-human-compounding",
         "the-reversal-from-defensible-claim-to-dogma",
         "the-reality-distortion-field-inverts-the-baseline",
-        "the-average-is-residue-not-the-engine"
+        "the-average-is-residue-not-the-engine",
+        "ones-potential-as-threat-or-inspiration"
       ]
     },
     {
@@ -1869,7 +1871,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "b6c90c06a32c",
-      "in_degree": 49,
+      "in_degree": 50,
       "out_degree": 50,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2486,6 +2488,22 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:ones-potential-as-threat-or-inspiration",
+      "kind": "post",
+      "slug": "ones-potential-as-threat-or-inspiration",
+      "path": "content/posts/ones-potential-as-threat-or-inspiration.md",
+      "title": "One’s Potential as Threat or Inspiration",
+      "hash": "55cefc98b6b3",
+      "in_degree": 2,
+      "out_degree": 4,
+      "links_out": [
+        "hierarchy-from-individual-difference",
+        "the-average-is-residue-not-the-engine",
+        "restriction-is-a-selective-tax",
+        "individual-choices-as-the-only-causal-levers"
+      ]
     },
     {
       "id": "post:only-if-it-is-not-kept-empty",
@@ -3156,9 +3174,9 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "Restriction Is a Selective Tax",
-      "hash": "92917f56b1c7",
-      "in_degree": 17,
-      "out_degree": 17,
+      "hash": "41418edaaaad",
+      "in_degree": 18,
+      "out_degree": 18,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "hierarchy-from-individual-difference",
@@ -3176,7 +3194,8 @@
         "the-risk-you-delegate-is-the-risk-you-create",
         "preference-clusters-and-the-language-of-judgment",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
-        "the-real-lesson-from-the-consciousness-vector-paper"
+        "the-real-lesson-from-the-consciousness-vector-paper",
+        "ones-potential-as-threat-or-inspiration"
       ]
     },
     {
@@ -3628,7 +3647,7 @@
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "The Average Is Residue, Not the Engine",
       "hash": "2489f97079f9",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 17,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -8995,6 +9014,12 @@
       "label": "The average is residue, not the engine"
     },
     {
+      "from": "hierarchy-from-individual-difference",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "One’s Potential as Threat or Inspiration"
+    },
+    {
       "from": "how-belief-actually-changes",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -11063,6 +11088,30 @@
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
       "label": "Advocating openness of others is a desire for closure of the self"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The average is residue, not the engine"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction is a selective tax"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
@@ -13253,6 +13302,12 @@
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
       "label": "The real lesson from the consciousness vector paper"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "One’s Potential as Threat or Inspiration"
     },
     {
       "from": "selection-contradiction-and-open-reality",
