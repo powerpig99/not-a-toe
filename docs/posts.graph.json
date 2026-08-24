@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-24T09:13:16.814Z",
+    "generated_at": "2026-08-24T19:09:05.151Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -91,6 +91,7 @@
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "a28d3ac84802",
+      "content/posts/moral-language-as-projection.md": "4cdb2857eb72",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "bc4d65cbecdd",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
@@ -104,7 +105,7 @@
       "content/posts/not-predicting-is-predicting-without-awareness.md": "979df2924891",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b354e525a5d3",
       "content/posts/on-education.md": "d62f17d7f550",
-      "content/posts/ones-potential-as-threat-or-inspiration.md": "55cefc98b6b3",
+      "content/posts/ones-potential-as-threat-or-inspiration.md": "158cff173f93",
       "content/posts/only-if-it-is-not-kept-empty.md": "d22c38a19167",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
@@ -186,7 +187,7 @@
       "content/posts/the-map-after-the-territory.md": "b9882ace9c8c",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "8a1a6c780055",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "854e6880413d",
-      "content/posts/the-misallocation-of-agency.md": "9761652f041e",
+      "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
       "content/posts/the-model-never-becomes-a-second-edge.md": "f846e65e2764",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
@@ -244,13 +245,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 234,
-      "edges": 2404,
-      "unique_directed": 2380,
+      "posts": 235,
+      "edges": 2413,
+      "unique_directed": 2389,
       "missing_targets": 0,
-      "one_way": 358,
+      "one_way": 363,
       "isolated": 36,
-      "posts_with_outbound": 182
+      "posts_with_outbound": 183
     }
   },
   "hubs_in": [
@@ -260,7 +261,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 51
+      "in_degree": 52
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -1189,7 +1190,7 @@
       "path": "content/posts/deceleration-is-the-drag-felt-when-accelerating.md",
       "title": "Deceleration Is the Drag Felt When Accelerating",
       "hash": "4767532bf34f",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -1874,7 +1875,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "b6c90c06a32c",
-      "in_degree": 51,
+      "in_degree": 52,
       "out_degree": 50,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2221,6 +2222,25 @@
       ]
     },
     {
+      "id": "post:moral-language-as-projection",
+      "kind": "post",
+      "slug": "moral-language-as-projection",
+      "path": "content/posts/moral-language-as-projection.md",
+      "title": "Moral Language as Projection",
+      "hash": "4cdb2857eb72",
+      "in_degree": 2,
+      "out_degree": 7,
+      "links_out": [
+        "ones-potential-as-threat-or-inspiration",
+        "sovereignty-belief-and-regulatory-structures",
+        "order-surplus-and-the-moral-intercept",
+        "the-misallocation-of-agency",
+        "the-coordinators-category-error",
+        "deceleration-is-the-drag-felt-when-accelerating",
+        "individual-choices-as-the-only-causal-levers"
+      ]
+    },
+    {
       "id": "post:moral-language-dilutes-the-feedback-that-scales-freedom",
       "kind": "post",
       "slug": "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -2499,14 +2519,15 @@
       "slug": "ones-potential-as-threat-or-inspiration",
       "path": "content/posts/ones-potential-as-threat-or-inspiration.md",
       "title": "One’s Potential as Threat or Inspiration",
-      "hash": "55cefc98b6b3",
-      "in_degree": 2,
-      "out_degree": 4,
+      "hash": "158cff173f93",
+      "in_degree": 3,
+      "out_degree": 5,
       "links_out": [
         "hierarchy-from-individual-difference",
         "the-average-is-residue-not-the-engine",
         "restriction-is-a-selective-tax",
-        "individual-choices-as-the-only-causal-levers"
+        "individual-choices-as-the-only-causal-levers",
+        "moral-language-as-projection"
       ]
     },
     {
@@ -2637,7 +2658,7 @@
       "path": "content/posts/order-surplus-and-the-moral-intercept.md",
       "title": "Order, Surplus, and the Moral Intercept",
       "hash": "2f9f5444f34a",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -3376,7 +3397,7 @@
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
       "hash": "7052251d0a3c",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 20,
       "links_out": [
         "hassabis-frontier-agi-premise",
@@ -3779,7 +3800,7 @@
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "The Coordinator’s Category Error",
       "hash": "d8a060340030",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 16,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -4309,9 +4330,9 @@
       "slug": "the-misallocation-of-agency",
       "path": "content/posts/the-misallocation-of-agency.md",
       "title": "The Misallocation of Agency",
-      "hash": "9761652f041e",
-      "in_degree": 5,
-      "out_degree": 10,
+      "hash": "aa2581e378cd",
+      "in_degree": 6,
+      "out_degree": 11,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "expertise-as-reference-not-replacement",
@@ -4322,7 +4343,8 @@
         "the-mind-that-statistics-cannot-reveal",
         "empowerment-establishes-the-centralization-of-power",
         "residual-individualism",
-        "causality-stays-at-the-edge-that-steers"
+        "causality-stays-at-the-edge-that-steers",
+        "moral-language-as-projection"
       ]
     },
     {
@@ -10384,6 +10406,48 @@
       "label": "Consciousness never appears as data among data"
     },
     {
+      "from": "moral-language-as-projection",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "One’s Potential as Threat or Inspiration"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, surplus, and the moral intercept"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The Misallocation of Agency"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The coordinator’s category error"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "Deceleration Is the Drag Felt When Accelerating"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
@@ -11162,6 +11226,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "Moral Language as Projection"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
@@ -16088,6 +16158,12 @@
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "Moral Language as Projection"
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
