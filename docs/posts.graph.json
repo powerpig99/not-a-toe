@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-24T07:39:22.526Z",
+    "generated_at": "2026-08-24T08:16:11.801Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -41,6 +41,7 @@
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "a2788d8133b5",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "af415810ee62",
+      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "e5b612d8b950",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "9a36021499af",
       "content/posts/e-shi-feng-bi-de-shan.md": "9696809c12b7",
@@ -130,7 +131,7 @@
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "93ee8acd93d7",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
       "content/posts/residual-individualism.md": "826b80e49461",
-      "content/posts/restriction-is-a-selective-tax.md": "5740e1997198",
+      "content/posts/restriction-is-a-selective-tax.md": "92917f56b1c7",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/selection-contradiction-and-open-reality.md": "805903f17e4e",
@@ -145,7 +146,7 @@
       "content/posts/sowell-observed-the-surface-problem.md": "147da1cead49",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "ae77b9ede8b3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "3ecbd2964bed",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "024f66deebff",
       "content/posts/technology-is-residual-of-human-compounding.md": "3a842a236e55",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "703de644ded9",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
@@ -239,13 +240,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 229,
-      "edges": 2373,
-      "unique_directed": 2349,
+      "posts": 230,
+      "edges": 2380,
+      "unique_directed": 2356,
       "missing_targets": 0,
-      "one_way": 347,
+      "one_way": 350,
       "isolated": 36,
-      "posts_with_outbound": 177
+      "posts_with_outbound": 178
     }
   },
   "hubs_in": [
@@ -254,12 +255,12 @@
       "in_degree": 57
     },
     {
-      "slug": "intelligence-belongs-only-to-the-mind",
+      "slug": "individual-choices-as-the-only-causal-levers",
       "in_degree": 48
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 47
+      "slug": "intelligence-belongs-only-to-the-mind",
+      "in_degree": 48
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -356,6 +357,10 @@
       "out_degree": 29
     },
     {
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
+      "out_degree": 29
+    },
+    {
       "slug": "the-scaffolding-we-forget",
       "out_degree": 29
     },
@@ -365,10 +370,6 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "out_degree": 28
-    },
-    {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 28
     },
     {
@@ -1178,6 +1179,23 @@
       ]
     },
     {
+      "id": "post:deceleration-is-the-drag-felt-when-accelerating",
+      "kind": "post",
+      "slug": "deceleration-is-the-drag-felt-when-accelerating",
+      "path": "content/posts/deceleration-is-the-drag-felt-when-accelerating.md",
+      "title": "Deceleration Is the Drag Felt When Accelerating",
+      "hash": "e5b612d8b950",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "restriction-is-a-selective-tax",
+        "the-scaffolding-that-keeps-growing",
+        "failure-as-information",
+        "individual-choices-as-the-only-causal-levers"
+      ]
+    },
+    {
       "id": "post:distillation-compression-agency",
       "kind": "post",
       "slug": "distillation-compression-agency",
@@ -1503,7 +1521,7 @@
       "path": "content/posts/failure-as-information.md",
       "title": "Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time",
       "hash": "c19cdb30c5a5",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "hardness-is-not-inherent-in-the-action",
@@ -1850,7 +1868,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "b6c90c06a32c",
-      "in_degree": 47,
+      "in_degree": 48,
       "out_degree": 50,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -3137,9 +3155,9 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "Restriction Is a Selective Tax",
-      "hash": "5740e1997198",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "92917f56b1c7",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "hierarchy-from-individual-difference",
@@ -3150,6 +3168,7 @@
         "no-system-can-be-kept-closed",
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-risk-is-the-belief-in-oversight-itself",
+        "deceleration-is-the-drag-felt-when-accelerating",
         "sovereignty-belief-and-regulatory-structures",
         "public-spending-does-not-create-capital",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -3435,9 +3454,9 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "3ecbd2964bed",
-      "in_degree": 22,
-      "out_degree": 28,
+      "hash": "024f66deebff",
+      "in_degree": 23,
+      "out_degree": 29,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "individual-choices-as-the-only-causal-levers",
@@ -3461,6 +3480,7 @@
         "restriction-is-a-selective-tax",
         "the-myth-of-population-collapse-explained",
         "pessimism-is-the-shadow-of-optimism",
+        "deceleration-is-the-drag-felt-when-accelerating",
         "order-surplus-and-the-moral-intercept",
         "having-more-is-never-the-cause",
         "the-reality-distortion-field-names-the-closed-map",
@@ -4781,7 +4801,7 @@
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "The Scaffolding That Keeps Growing",
       "hash": "94dd360f407c",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 15,
       "links_out": [
         "openness-is-consistency",
@@ -7556,6 +7576,36 @@
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "Consciousness never appears as data among data"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction is a selective tax"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as information"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "distillation-compression-agency",
@@ -13139,6 +13189,12 @@
     },
     {
       "from": "restriction-is-a-selective-tax",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "Deceleration Is the Drag Felt When Accelerating"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, belief, and the generation of regulatory structures"
@@ -13958,6 +14014,12 @@
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
       "label": "Pessimism is the shadow of optimism"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "Deceleration Is the Drag Felt When Accelerating"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",

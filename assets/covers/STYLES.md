@@ -115,6 +115,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Celadon kiln shelf still life** | Pale jade celadon bowl with open residual interior, unworked clay coil beside it, dark kiln shelf, cool museum side light, crackle glaze | `only-if-it-is-not-kept-empty` |
 | **Intaglio aquatint / classical scaffolding and radiant locus** | Warm cream rag paper, sepia/charcoal copperplate etching and aquatint wash, incandescent focal sphere against rigid classical arches and construction scaffolding | `the-misallocation-of-agency` |
 | **Sumi-e ink shan shui and gold horizon ribbon on Xuan paper** | Textured Xuan paper, expressive black and charcoal sumi-e landscape with mountains and pine, luminous amber-gold boundary ribbon across mist (3168×1344 operator drop) | `xian-shi-de-bian-jie` |
+| **Sumi-e ink needle and gold shockwave filaments on Xuan paper** | Textured Xuan paper, razor needle piercing supersonic through negative space, dynamic charcoal ink wash and golden ribbon shockwave trails (1024×434 operator drop) | `deceleration-is-the-drag-felt-when-accelerating` |
 | **Lithographic crayon / stone print** | Warm gray limestone ground, greasy black crayon, plate tone, museum raking light; multi-story scaffold densifying as it extends past the plate edge | `the-scaffolding-that-keeps-growing` |
 | **Magic-lantern glass slide still** | Antique hand-painted glass slide on dark wood, fixed translucent figure-on-ladder image, living chalk trail continuing past the glass, amber projection cone + cool museum light | `the-fixed-image-of-transcendence` |
 | **Chart-recorder / oscillograph strip** | Aged cream fanfold paper, pen-trace still life, thin early initiating spike then delayed denser oscillatory lag, mechanical grid, raking museum light | `symptom-and-cause-in-the-narratives-of-progress` |
@@ -370,7 +371,8 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `only-if-it-is-not-kept-empty` | Celadon kiln shelf still life |
 | `the-real-lesson-from-the-consciousness-vector-paper` | Medieval volvelle / paper dial still |
 | `the-misallocation-of-agency` | Intaglio aquatint / classical scaffolding and radiant locus |
-| `xian-shi-de-bian-jie` | Sumi-e ink and gold leaf horizon seam on Xuan paper |
+| `xian-shi-de-bian-jie` | Sumi-e ink shan shui and gold horizon ribbon on Xuan paper |
+| `deceleration-is-the-drag-felt-when-accelerating` | Sumi-e ink needle and gold shockwave filaments on Xuan paper |
 
 ## Crowded — prefer not to extend
 
