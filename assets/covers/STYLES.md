@@ -113,6 +113,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Security-print guilloche engraving** | Cream rag banknote paper, rose-engine green–umber lattice, sealed supervisory windows with open stock continuing past the hold, plate tone, raking light | `the-risk-is-the-belief-in-oversight-itself` |
 | **Palimpsest vellum / multi-ink redraw** | Aged cream vellum, successive translucent iron-gall map layers, ghost cartographies under newest path, bone stylus mid-redraw, raking museum light | `the-strongest-belief-of-the-mind` |
 | **Celadon kiln shelf still life** | Pale jade celadon bowl with open residual interior, unworked clay coil beside it, dark kiln shelf, cool museum side light, crackle glaze | `only-if-it-is-not-kept-empty` |
+| **Intaglio aquatint / classical scaffolding and radiant locus** | Warm cream rag paper, sepia/charcoal copperplate etching and aquatint wash, incandescent focal sphere against rigid classical arches and construction scaffolding | `the-misallocation-of-agency` |
 | **Lithographic crayon / stone print** | Warm gray limestone ground, greasy black crayon, plate tone, museum raking light; multi-story scaffold densifying as it extends past the plate edge | `the-scaffolding-that-keeps-growing` |
 | **Magic-lantern glass slide still** | Antique hand-painted glass slide on dark wood, fixed translucent figure-on-ladder image, living chalk trail continuing past the glass, amber projection cone + cool museum light | `the-fixed-image-of-transcendence` |
 | **Chart-recorder / oscillograph strip** | Aged cream fanfold paper, pen-trace still life, thin early initiating spike then delayed denser oscillatory lag, mechanical grid, raking museum light | `symptom-and-cause-in-the-narratives-of-progress` |
@@ -367,6 +368,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `on-closed-systems-open-minds-and-the-limits-of-proof` | Cinematic sealed-chamber / luminous-mind dual |
 | `only-if-it-is-not-kept-empty` | Celadon kiln shelf still life |
 | `the-real-lesson-from-the-consciousness-vector-paper` | Medieval volvelle / paper dial still |
+| `the-misallocation-of-agency` | Intaglio aquatint / classical scaffolding and radiant locus |
 
 ## Crowded — prefer not to extend
 
