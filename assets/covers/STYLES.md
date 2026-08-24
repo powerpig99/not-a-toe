@@ -118,6 +118,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Sumi-e ink needle and gold shockwave filaments on Xuan paper** | Textured Xuan paper, razor needle piercing supersonic through negative space, dynamic charcoal ink wash and golden ribbon shockwave trails (1024×434 operator drop) | `deceleration-is-the-drag-felt-when-accelerating` |
 | **Copperplate Gaussian scatter & incandescent singular vector** | Aged cream rag paper, fine stippled scatterplot cloud and concentric Gaussian contours on coordinate grid, brilliant amber singular point casting a sharp golden ray forward (1024×434 operator drop) | `the-mind-that-statistics-cannot-reveal` |
 | **Sumi-e ink shan shui prism and golden refraction fan on Xuan paper** | Textured Xuan paper, rugged charcoal and ink shan shui crags on left, crystal prism on peak refracting light into an expansive burst of radiant gold leaf filaments into negative space (1024×434 operator drop) | `ones-potential-as-threat-or-inspiration` |
+| **Horology still life / cast-iron clockwork and incandescent hourglass dual** | Dark mahogany wood ground, heavy cast-iron gear train and pendulum ticking with mechanical inertia on left, incandescent glowing hourglass accelerating with golden spark filaments on right | `the-local-trap-of-technological-change` |
 | **Lithographic crayon / stone print** | Warm gray limestone ground, greasy black crayon, plate tone, museum raking light; multi-story scaffold densifying as it extends past the plate edge | `the-scaffolding-that-keeps-growing` |
 | **Magic-lantern glass slide still** | Antique hand-painted glass slide on dark wood, fixed translucent figure-on-ladder image, living chalk trail continuing past the glass, amber projection cone + cool museum light | `the-fixed-image-of-transcendence` |
 | **Chart-recorder / oscillograph strip** | Aged cream fanfold paper, pen-trace still life, thin early initiating spike then delayed denser oscillatory lag, mechanical grid, raking museum light | `symptom-and-cause-in-the-narratives-of-progress` |
@@ -377,6 +378,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `deceleration-is-the-drag-felt-when-accelerating` | Sumi-e ink needle and gold shockwave filaments on Xuan paper |
 | `the-mind-that-statistics-cannot-reveal` | Copperplate Gaussian scatter & incandescent singular vector |
 | `ones-potential-as-threat-or-inspiration` | Sumi-e ink shan shui prism and golden refraction fan on Xuan paper |
+| `the-local-trap-of-technological-change` | Horology still life / cast-iron clockwork and incandescent hourglass dual |
 
 ## Crowded — prefer not to extend
 
