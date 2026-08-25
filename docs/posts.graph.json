@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-25T08:13:27.592Z",
+    "generated_at": "2026-08-25T12:25:29.270Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -102,6 +102,7 @@
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
       "content/posts/no-system-can-be-kept-closed.md": "a5c5f59964ed",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
+      "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "201004f4bbf0",
       "content/posts/not-a-theory-of-everything.md": "3f06f28a89f3",
       "content/posts/not-a-toe-rewrite.md": "85b926b06701",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "979df2924891",
@@ -182,7 +183,7 @@
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
       "content/posts/the-limitation-is-doing-work.md": "f988dff59391",
       "content/posts/the-living-context.md": "802b03eb6a18",
-      "content/posts/the-local-trap-of-technological-change.md": "d8350cf39c81",
+      "content/posts/the-local-trap-of-technological-change.md": "28ac55a33297",
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
@@ -213,7 +214,7 @@
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "53e2131d75fe",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
-      "content/posts/the-scaffolding-we-forget.md": "e964fc08fbfe",
+      "content/posts/the-scaffolding-we-forget.md": "3098d153bf56",
       "content/posts/the-scaling-loop.md": "deedfa49f780",
       "content/posts/the-source-of-all-harm.md": "d496877d7de4",
       "content/posts/the-source-of-shared-change.md": "7769192f1752",
@@ -247,23 +248,23 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 237,
-      "edges": 2436,
-      "unique_directed": 2412,
+      "posts": 238,
+      "edges": 2444,
+      "unique_directed": 2420,
       "missing_targets": 0,
-      "one_way": 378,
+      "one_way": 382,
       "isolated": 36,
-      "posts_with_outbound": 185
+      "posts_with_outbound": 186
     }
   },
   "hubs_in": [
     {
       "slug": "openness-is-consistency",
-      "in_degree": 59
+      "in_degree": 60
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 54
+      "in_degree": 55
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -287,7 +288,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 33
+      "in_degree": 34
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -322,6 +323,10 @@
       "in_degree": 25
     },
     {
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
+      "in_degree": 25
+    },
+    {
       "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 25
     },
@@ -331,10 +336,6 @@
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
-      "in_degree": 24
-    },
-    {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "in_degree": 24
     }
   ],
@@ -360,15 +361,15 @@
       "out_degree": 30
     },
     {
+      "slug": "the-scaffolding-we-forget",
+      "out_degree": 30
+    },
+    {
       "slug": "not-a-theory-of-everything",
       "out_degree": 29
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
-      "out_degree": 29
-    },
-    {
-      "slug": "the-scaffolding-we-forget",
       "out_degree": 29
     },
     {
@@ -1920,7 +1921,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "b6c90c06a32c",
-      "in_degree": 54,
+      "in_degree": 55,
       "out_degree": 50,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2454,6 +2455,24 @@
       ]
     },
     {
+      "id": "post:non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "kind": "post",
+      "slug": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "path": "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md",
+      "title": "Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future",
+      "hash": "201004f4bbf0",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "the-scaffolding-we-forget",
+        "the-price-of-closing-optionality",
+        "the-local-trap-of-technological-change",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "individual-choices-as-the-only-causal-levers",
+        "openness-is-consistency"
+      ]
+    },
+    {
       "id": "post:not-a-theory-of-everything",
       "kind": "post",
       "slug": "not-a-theory-of-everything",
@@ -2648,7 +2667,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "03afcc17003a",
-      "in_degree": 59,
+      "in_degree": 60,
       "out_degree": 43,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -3545,7 +3564,7 @@
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
       "hash": "ba001bbc15a9",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 30,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -4268,14 +4287,15 @@
       "slug": "the-local-trap-of-technological-change",
       "path": "content/posts/the-local-trap-of-technological-change.md",
       "title": "The Local Trap of Technological Change",
-      "hash": "d8350cf39c81",
-      "in_degree": 2,
-      "out_degree": 4,
+      "hash": "28ac55a33297",
+      "in_degree": 3,
+      "out_degree": 5,
       "links_out": [
         "the-average-is-residue-not-the-engine",
         "technology-is-residual-of-human-compounding",
         "the-illusion-of-free-intelligence",
-        "deceleration-is-the-drag-felt-when-accelerating"
+        "deceleration-is-the-drag-felt-when-accelerating",
+        "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future"
       ]
     },
     {
@@ -4634,7 +4654,7 @@
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "The Price of Closing Optionality",
       "hash": "84f30cd35b89",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 12,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
@@ -4972,9 +4992,9 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
-      "hash": "e964fc08fbfe",
-      "in_degree": 33,
-      "out_degree": 29,
+      "hash": "3098d153bf56",
+      "in_degree": 34,
+      "out_degree": 30,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-path-drawn-one-step-at-a-time",
@@ -5004,6 +5024,7 @@
         "climbing-does-not-leave-the-ground",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
       ]
     },
@@ -11061,6 +11082,42 @@
       "label": "Selection, contradiction, and open reality"
     },
     {
+      "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The price of closing optionality"
+    },
+    {
+      "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "to": "the-local-trap-of-technological-change",
+      "rel": "points_to",
+      "label": "The local trap of technological change"
+    },
+    {
+      "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and cause in the narratives of progress"
+    },
+    {
+      "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
       "from": "not-a-theory-of-everything",
       "to": "not-a-toe-rewrite",
       "rel": "points_to",
@@ -16131,6 +16188,12 @@
       "label": "Deceleration is the drag felt when accelerating"
     },
     {
+      "from": "the-local-trap-of-technological-change",
+      "to": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "rel": "points_to",
+      "label": "Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future"
+    },
+    {
       "from": "the-map-after-the-territory",
       "to": "cheng-gong-xue",
       "rel": "points_to",
@@ -18403,6 +18466,12 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
+      "to": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "rel": "points_to",
+      "label": "Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future"
     },
     {
       "from": "the-scaffolding-we-forget",
