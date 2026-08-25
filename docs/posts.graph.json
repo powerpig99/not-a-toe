@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-24T19:09:05.151Z",
+    "generated_at": "2026-08-25T06:11:55.047Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -34,6 +34,7 @@
       "content/posts/closed-reality-in-benchmark-maxing.md": "d57165a32284",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "7623a955955f",
+      "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "ad0f19b1f66c",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "5b80b9d897c0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
@@ -227,7 +228,7 @@
       "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "ec63f1f3d6a3",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
-      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "e4673d9e56eb",
+      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "44869ec76009",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
       "content/posts/what-works-is-the-belief.md": "e8877c5d23bf",
@@ -239,29 +240,29 @@
       "content/posts/why-explanation-fails.md": "608ce06ef580",
       "content/posts/why-mathematics-can-never-be-solved.md": "99a49d1f0dea",
       "content/posts/writing-without-the-image.md": "9009b34790ea",
-      "content/posts/xian-shi-de-bian-jie.md": "27941362f12b",
+      "content/posts/xian-shi-de-bian-jie.md": "688efb757303",
       "content/posts/you-cant-benchmark-the-fluid.md": "cc314ae189a8",
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 235,
-      "edges": 2413,
-      "unique_directed": 2389,
+      "posts": 236,
+      "edges": 2425,
+      "unique_directed": 2401,
       "missing_targets": 0,
-      "one_way": 363,
+      "one_way": 371,
       "isolated": 36,
-      "posts_with_outbound": 183
+      "posts_with_outbound": 184
     }
   },
   "hubs_in": [
     {
       "slug": "openness-is-consistency",
-      "in_degree": 57
+      "in_degree": 58
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 52
+      "in_degree": 53
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -281,7 +282,7 @@
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 33
+      "in_degree": 34
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -1049,6 +1050,28 @@
       ]
     },
     {
+      "id": "post:cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "kind": "post",
+      "slug": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "path": "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md",
+      "title": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁",
+      "hash": "ad0f19b1f66c",
+      "in_degree": 2,
+      "out_degree": 10,
+      "links_out": [
+        "the-mind-that-statistics-cannot-reveal",
+        "the-average-is-residue-not-the-engine",
+        "xian-shi-de-bian-jie",
+        "moral-language-as-projection",
+        "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "guan-yu-gui-yin",
+        "the-misallocation-of-agency",
+        "individual-choices-as-the-only-causal-levers",
+        "mei-you-pu-du-zhi-you-zi-du",
+        "openness-is-consistency"
+      ]
+    },
+    {
       "id": "post:conscience-power-delegation",
       "kind": "post",
       "slug": "conscience-power-delegation",
@@ -1622,7 +1645,7 @@
       "path": "content/posts/guan-yu-gui-yin.md",
       "title": "关于归因：从事实到因果，从外部节点到内部迭代",
       "hash": "a170edfe2e69",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 8,
       "links_out": [
         "qian-yin-hou-guo",
@@ -1875,7 +1898,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "b6c90c06a32c",
-      "in_degree": 52,
+      "in_degree": 53,
       "out_degree": 50,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2112,7 +2135,7 @@
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
       "hash": "7fddde85b53e",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 22,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -2228,7 +2251,7 @@
       "path": "content/posts/moral-language-as-projection.md",
       "title": "Moral Language as Projection",
       "hash": "4cdb2857eb72",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 7,
       "links_out": [
         "ones-potential-as-threat-or-inspiration",
@@ -2603,7 +2626,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "03afcc17003a",
-      "in_degree": 57,
+      "in_degree": 58,
       "out_degree": 43,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -3674,7 +3697,7 @@
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "The Average Is Residue, Not the Engine",
       "hash": "2489f97079f9",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 17,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -4315,7 +4338,7 @@
       "path": "content/posts/the-mind-that-statistics-cannot-reveal.md",
       "title": "The Mind That Statistics Cannot Reveal",
       "hash": "854e6880413d",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 4,
       "links_out": [
         "the-average-is-residue-not-the-engine",
@@ -4331,7 +4354,7 @@
       "path": "content/posts/the-misallocation-of-agency.md",
       "title": "The Misallocation of Agency",
       "hash": "aa2581e378cd",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 11,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -5268,9 +5291,9 @@
       "slug": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因：个人进步的障碍",
-      "hash": "e4673d9e56eb",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "44869ec76009",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
@@ -5281,7 +5304,8 @@
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "mei-you-pu-du-zhi-you-zi-du",
         "the-generative-contradiction",
-        "how-to-fix-your-whole-life-in-one-split-second"
+        "how-to-fix-your-whole-life-in-one-split-second",
+        "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng"
       ]
     },
     {
@@ -5553,9 +5577,9 @@
       "slug": "xian-shi-de-bian-jie",
       "path": "content/posts/xian-shi-de-bian-jie.md",
       "title": "现实的边界",
-      "hash": "27941362f12b",
-      "in_degree": 2,
-      "out_degree": 8,
+      "hash": "688efb757303",
+      "in_degree": 3,
+      "out_degree": 9,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
         "qian-yin-hou-guo",
@@ -5564,7 +5588,8 @@
         "causality-all-the-way",
         "openness-is-consistency",
         "why-mathematics-can-never-be-solved",
-        "lossless-knowledge-of-an-open-field-is-incoherent"
+        "lossless-knowledge-of-an-open-field-is-incoherent",
+        "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng"
       ]
     },
     {
@@ -7350,6 +7375,66 @@
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "Consciousness never appears as data among data"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "the-mind-that-statistics-cannot-reveal",
+      "rel": "points_to",
+      "label": "The Mind That Statistics Cannot Reveal"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The average is residue, not the engine"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "xian-shi-de-bian-jie",
+      "rel": "points_to",
+      "label": "现实的边界"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "Moral Language as Projection"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因：个人进步的障碍"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "关于归因：从事实到因果，从外部节点到内部迭代"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The Misallocation of Agency"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
@@ -19190,6 +19275,12 @@
       "label": "How to fix your whole life in one split second"
     },
     {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
+    },
+    {
       "from": "what-always-listens-cannot-originate",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -20022,6 +20113,12 @@
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
       "label": "Lossless knowledge of an open field is incoherent"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
     },
     {
       "from": "you-cant-benchmark-the-fluid",

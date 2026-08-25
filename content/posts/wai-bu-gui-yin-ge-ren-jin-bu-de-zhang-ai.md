@@ -46,4 +46,4 @@
 
 ## 解释权只在自己手里
 
-进步从不是被外界批准的。它只发生在一个地方：一个人决定，把所有解释权，重新握回自己手中。收回不是一次结束；向外投射与收回仍是同一未解的运动。[The generative contradiction](../the-generative-contradiction/) is that dual as generative source, not a defect the reclaiming finishes. [How to fix your whole life in one split second](../how-to-fix-your-whole-life-in-one-split-second/) 是那一握作为瞬时归属：其余只是怎么做。
+进步从不是被外界批准的。它只发生在一个地方：一个人决定，把所有解释权，重新握回自己手中。收回不是一次结束；向外投射与收回仍是同一未解的运动。[The generative contradiction](../the-generative-contradiction/) is that dual as generative source, not a defect the reclaiming finishes. [How to fix your whole life in one split second](../how-to-fix-your-whole-life-in-one-split-second/) 是那一握作为瞬时归属：其余只是怎么做。[从“目的性”的评判，看认知系统的缺省状态与动态跃迁](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) 剖析了人际博弈中抽取“目的性太强”这一文化标签作为低能耗防御、逃避自我迭代的微观机制。
