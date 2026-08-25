@@ -122,6 +122,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Nautical chart & submerged golden trajectory still life** | Aged vellum paper, engraved nautical charts shrouded in thick charcoal fog, brilliant golden trajectory line cutting unseen beneath the mist and breaking through the torn map into open sea | `the-invisible-first-move` |
 | **Mezzotint engraving / architectural perspective grid & dual polarized shadow portals** | Velvety midnight-black ground, architectural perspective wireframe grid receding to a brilliant white open rectangular aperture, dual arched portals on left and right casting contrasting shadowed figures ('caution' vs 'progress'), with a sharp central golden incision cutting straight forward into open ground (1024×434 operator drop) | `moral-language-as-projection` |
 | **Japanese Urushi lacquer & Maki-e gold dust on dark wood panel** | Deep glossy black urushi lacquer circular enclosure on left, with a dynamic sweeping stream of sprinkled 24k gold leaf maki-e dust breaking through the barrier into warm cream minimalist space on the right | `cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng` |
+| **Incandescent molten glass flowing and solidifying into crystal-clear form** | Cinematic macro photography, glowing incandescent molten honey-gold glass pouring freely from a dark furnace on left, seamlessly twisting and cooling into an intricate, crystal-clear sculpted geometric structure on right | `freedom-as-ground` |
 | **Lithographic crayon / stone print** | Warm gray limestone ground, greasy black crayon, plate tone, museum raking light; multi-story scaffold densifying as it extends past the plate edge | `the-scaffolding-that-keeps-growing` |
 | **Magic-lantern glass slide still** | Antique hand-painted glass slide on dark wood, fixed translucent figure-on-ladder image, living chalk trail continuing past the glass, amber projection cone + cool museum light | `the-fixed-image-of-transcendence` |
 | **Chart-recorder / oscillograph strip** | Aged cream fanfold paper, pen-trace still life, thin early initiating spike then delayed denser oscillatory lag, mechanical grid, raking museum light | `symptom-and-cause-in-the-narratives-of-progress` |
@@ -385,6 +386,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-invisible-first-move` | Nautical chart & submerged golden trajectory still life |
 | `moral-language-as-projection` | Mezzotint engraving / architectural perspective grid & dual polarized shadow portals |
 | `cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng` | Japanese Urushi lacquer & Maki-e gold dust on dark wood panel |
+| `freedom-as-ground` | Incandescent molten glass flowing and solidifying into crystal-clear form |
 
 ## Crowded — prefer not to extend
 
