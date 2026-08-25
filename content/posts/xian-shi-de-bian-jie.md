@@ -46,4 +46,4 @@
 
 我们永远站在某一截被照亮的理解片段之上，而片段的两端，都隐入尚未抵达、也无法抵达的深处。
 
-可追溯，却无法穷尽——这既是因果给予心智的最高赠予，使我们能够认知、推演与行动；也是它赋予我们最根本的界限，要求心智放下对终极闭合的妄念，持续在当下的边沿中进行清醒的区分与前行。[Lossless knowledge of an open field is incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) 是同一无尽场的英文面：在开放的场域中，无损且穷尽的认知在结构上是自相矛盾的。
+可追溯，却无法穷尽——这既是因果给予心智的最高赠予，使我们能够认知、推演与行动；也是它赋予我们最根本的界限，要求心智放下对终极闭合的妄念，持续在当下的边沿中进行清醒的区分与前行。[Lossless knowledge of an open field is incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) 是同一无尽场的英文面：在开放的场域中，无损且穷尽的认知在结构上是自相矛盾的。[从“目的性”的评判，看认知系统的缺省状态与动态跃迁](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) 则将这一认知边界落地为人际互动中的防御机制：心智极易将当下有限的感知边界直接等同于系统的封闭，从而退化为评判外部的低能耗防御。
