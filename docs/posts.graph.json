@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-25T12:25:29.270Z",
+    "generated_at": "2026-08-25T14:41:03.539Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -93,7 +93,7 @@
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "a28d3ac84802",
-      "content/posts/moral-language-as-projection.md": "4cdb2857eb72",
+      "content/posts/moral-language-as-projection.md": "949f402a80cd",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "bc4d65cbecdd",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
@@ -131,7 +131,7 @@
       "content/posts/qian-yin-hou-guo.md": "a6b2414b6e65",
       "content/posts/rationality-never-travels-across-the-mind.md": "6d12122abe9d",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
-      "content/posts/reality-is-the-minds-ongoing-realization.md": "01fc141a7543",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "9122130b461d",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "93ee8acd93d7",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
@@ -159,6 +159,7 @@
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "d2f1958b9ac3",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
+      "content/posts/the-closed-loop-of-representation.md": "11e4c2de4e10",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
       "content/posts/the-coordinators-category-error.md": "d8a060340030",
@@ -248,27 +249,27 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 238,
-      "edges": 2444,
-      "unique_directed": 2420,
+      "posts": 239,
+      "edges": 2453,
+      "unique_directed": 2429,
       "missing_targets": 0,
-      "one_way": 382,
+      "one_way": 387,
       "isolated": 36,
-      "posts_with_outbound": 186
+      "posts_with_outbound": 187
     }
   },
   "hubs_in": [
     {
       "slug": "openness-is-consistency",
-      "in_degree": 60
+      "in_degree": 61
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 55
+      "in_degree": 56
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 49
+      "in_degree": 50
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -288,7 +289,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 34
+      "in_degree": 35
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -401,15 +402,15 @@
       "out_degree": 25
     },
     {
+      "slug": "reality-is-the-minds-ongoing-realization",
+      "out_degree": 25
+    },
+    {
       "slug": "causality-all-the-way",
       "out_degree": 24
     },
     {
       "slug": "externalized-virtue-becomes-its-opposite",
-      "out_degree": 24
-    },
-    {
-      "slug": "reality-is-the-minds-ongoing-realization",
       "out_degree": 24
     },
     {
@@ -906,7 +907,7 @@
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "Climbing Does Not Leave the Ground",
       "hash": "5728e783fe80",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1921,7 +1922,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "b6c90c06a32c",
-      "in_degree": 55,
+      "in_degree": 56,
       "out_degree": 50,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -1983,7 +1984,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "1466549a4396",
-      "in_degree": 49,
+      "in_degree": 50,
       "out_degree": 21,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -2273,9 +2274,9 @@
       "slug": "moral-language-as-projection",
       "path": "content/posts/moral-language-as-projection.md",
       "title": "Moral Language as Projection",
-      "hash": "4cdb2857eb72",
-      "in_degree": 3,
-      "out_degree": 7,
+      "hash": "949f402a80cd",
+      "in_degree": 4,
+      "out_degree": 8,
       "links_out": [
         "ones-potential-as-threat-or-inspiration",
         "sovereignty-belief-and-regulatory-structures",
@@ -2283,6 +2284,7 @@
         "the-misallocation-of-agency",
         "the-coordinators-category-error",
         "deceleration-is-the-drag-felt-when-accelerating",
+        "the-closed-loop-of-representation",
         "individual-choices-as-the-only-causal-levers"
       ]
     },
@@ -2667,7 +2669,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "03afcc17003a",
-      "in_degree": 60,
+      "in_degree": 61,
       "out_degree": 43,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -3143,13 +3145,14 @@
       "slug": "reality-is-the-minds-ongoing-realization",
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "Reality Is the Mind's Ongoing Realization",
-      "hash": "01fc141a7543",
-      "in_degree": 20,
-      "out_degree": 24,
+      "hash": "9122130b461d",
+      "in_degree": 21,
+      "out_degree": 25,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
         "mei-you-pu-du-zhi-you-zi-du",
+        "the-closed-loop-of-representation",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "intelligence-belongs-only-to-the-mind",
         "the-scaffolding-we-forget",
@@ -3831,6 +3834,25 @@
         "performative-hindsight-that-pretends-to-be-foresight",
         "openness-is-consistency",
         "the-reversal-from-defensible-claim-to-dogma"
+      ]
+    },
+    {
+      "id": "post:the-closed-loop-of-representation",
+      "kind": "post",
+      "slug": "the-closed-loop-of-representation",
+      "path": "content/posts/the-closed-loop-of-representation.md",
+      "title": "The Closed Loop of Representation",
+      "hash": "11e4c2de4e10",
+      "in_degree": 2,
+      "out_degree": 7,
+      "links_out": [
+        "reality-is-the-minds-ongoing-realization",
+        "the-scaffolding-we-forget",
+        "moral-language-as-projection",
+        "openness-is-consistency",
+        "climbing-does-not-leave-the-ground",
+        "intelligence-belongs-only-to-the-mind",
+        "individual-choices-as-the-only-causal-levers"
       ]
     },
     {
@@ -4993,7 +5015,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3098d153bf56",
-      "in_degree": 34,
+      "in_degree": 35,
       "out_degree": 30,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10627,6 +10649,12 @@
     },
     {
       "from": "moral-language-as-projection",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "moral-language-as-projection",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -13201,6 +13229,12 @@
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
       "label": "Sympathy is a placeholder for lack of clarity"
@@ -15160,6 +15194,48 @@
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
       "label": "The reversal from defensible claim to dogma"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality is the Mind's ongoing realization"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "Moral language as projection"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing does not leave the ground"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "the-compassion-is-the-mechanism-of-obscuration",
