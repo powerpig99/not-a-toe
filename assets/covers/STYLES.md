@@ -124,6 +124,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Japanese Urushi lacquer & Maki-e gold dust on dark wood panel** | Deep glossy black urushi lacquer circular enclosure on left, with a dynamic sweeping stream of sprinkled 24k gold leaf maki-e dust breaking through the barrier into warm cream minimalist space on the right | `cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng` |
 | **Incandescent molten glass flowing and solidifying into crystal-clear form** | Cinematic macro photography, glowing incandescent molten honey-gold glass pouring freely from a dark furnace on left, seamlessly twisting and cooling into an intricate, crystal-clear sculpted geometric structure on right | `freedom-as-ground` |
 | **Cinematic Tesla Cybercab robotaxi curbside at minimalist dawn transit pavilion** | Cinematic architectural automotive photography, gold-silver Tesla Cybercab parked curbside with upward-opening butterfly doors revealing a steering-wheel-free minimalist interior, illuminated ground light tracks and autonomous shuttles gliding in the background at dawn | `non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future` |
+| **Meditating silhouette inside concentric nested spherical shells & dual shadow portals** | Monochromatic sepia-warm minimalist composition, central meditating silhouette seated in lotus posture within nested, translucent concentric curved spherical shells, bathed in an overhead conical light beam with dual projected shadow figures flanking on left and right screens | `the-closed-loop-of-representation` |
 | **Lithographic crayon / stone print** | Warm gray limestone ground, greasy black crayon, plate tone, museum raking light; multi-story scaffold densifying as it extends past the plate edge | `the-scaffolding-that-keeps-growing` |
 | **Magic-lantern glass slide still** | Antique hand-painted glass slide on dark wood, fixed translucent figure-on-ladder image, living chalk trail continuing past the glass, amber projection cone + cool museum light | `the-fixed-image-of-transcendence` |
 | **Chart-recorder / oscillograph strip** | Aged cream fanfold paper, pen-trace still life, thin early initiating spike then delayed denser oscillatory lag, mechanical grid, raking museum light | `symptom-and-cause-in-the-narratives-of-progress` |
@@ -389,6 +390,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng` | Japanese Urushi lacquer & Maki-e gold dust on dark wood panel |
 | `freedom-as-ground` | Incandescent molten glass flowing and solidifying into crystal-clear form |
 | `non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future` | Cinematic Tesla Cybercab robotaxi curbside at minimalist dawn transit pavilion |
+| `the-closed-loop-of-representation` | Meditating silhouette inside concentric nested spherical shells & dual shadow portals |
 
 ## Crowded — prefer not to extend
 
