@@ -22,11 +22,11 @@ At the collective level, what political philosophy names the "social contract" i
 
 How any individual relates to this background remains entirely unconstrained:
 
-* One may treat it as a stepping stone to build upon.
-* One may experience it as a boundary or friction.
-* One may affirm and uphold it.
-* One may seek to reform or dismantle it.
-* One may wage war against it, or simply ignore it altogether.
+- One may treat it as a stepping stone to build upon.
+- One may experience it as a boundary or friction.
+- One may affirm and uphold it.
+- One may seek to reform or dismantle it.
+- One may wage war against it, or simply ignore it altogether.
 
 Every single stance is freely available to each and every individual. Yet every choice carries its own non-negotiable consequences—outcomes that may or may not align with expectations, and which must be borne by the very individual making the decision, whether they wish to or not. Freedom is not an exemption from reality or consequences; it is the sovereign truth that the choice, the act, and the resulting consequence belong to the same unsevered center.
 
