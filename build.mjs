@@ -306,7 +306,7 @@ function markdownToHtml(markdownBody) {
       continue;
     }
 
-    const unorderedMatch = /^-\s+(.+)$/.exec(trimmed);
+    const unorderedMatch = /^[-*+]\s+(.+)$/.exec(trimmed);
     if (unorderedMatch) {
       flushParagraph();
       flushQuote();
