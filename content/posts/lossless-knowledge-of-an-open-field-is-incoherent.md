@@ -40,7 +40,7 @@ LLMs, as externalized trace artifacts, lack by default the continuous reality-te
 
 In an open field of activity, no finite compressor is ever complete. A hypothetical lossless archive of existing traces would freeze the Image at a past step, offering little room for productive new distinctions. Controlled lossiness — the necessary compression and the controlled approximation — creates the space in which novel recombinations can be generated and then tested. Imperfection is not a defect awaiting a final engineering fix. It is the condition under which finite centers remain generative relative to an unceasing edge.
 
-[Clarity isn’t a state you arrive at](../clarity-isnt-a-state-you-arrive-at/) is that non-arrival as practice: every articulation freezes what it holds while the activity has already moved on. Seeking a lossless seal of the field is the freeze mistaking itself for completion.
+[Clarity isn’t a state you arrive at](../clarity-isnt-a-state-you-arrive-at/) is that non-arrival as practice: every articulation freezes what it holds while the activity has already moved on. Seeking a lossless seal of the field is the freeze mistaking itself for completion. [知道自己不知道：一种被修辞放大的认知假象](../zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/) demonstrates how the popular adage "knowing that you don't know" smuggles this exact fallacy by presuming a closed, pre-mapped disc of knowledge that can be surveyed from a God's-eye vantage point.
 
 ## Densification continues; the edge does not close
 

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-26T12:02:36.539Z",
+    "generated_at": "2026-08-26T17:08:15.551Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -88,7 +88,7 @@
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "94b96cd84d20",
       "content/posts/looping-and-graphing.md": "b2acdecafde8",
-      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "9c444c441407",
+      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "9d0c48e7550c",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "7fddde85b53e",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "634293b4399b",
@@ -231,7 +231,7 @@
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
-      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "ec63f1f3d6a3",
+      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "756eeec4aeef",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "44869ec76009",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
@@ -249,16 +249,17 @@
       "content/posts/xian-shi-de-bian-jie.md": "688efb757303",
       "content/posts/you-cant-benchmark-the-fluid.md": "cc314ae189a8",
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
+      "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "4490ab7f0be7",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 242,
-      "edges": 2480,
-      "unique_directed": 2456,
+      "posts": 243,
+      "edges": 2491,
+      "unique_directed": 2466,
       "missing_targets": 0,
-      "one_way": 402,
+      "one_way": 408,
       "isolated": 36,
-      "posts_with_outbound": 190
+      "posts_with_outbound": 191
     }
   },
   "hubs_in": [
@@ -272,7 +273,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 52
+      "in_degree": 53
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -335,11 +336,11 @@
       "in_degree": 25
     },
     {
-      "slug": "externalized-virtue-becomes-its-opposite",
+      "slug": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "in_degree": 24
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
+      "slug": "externalized-virtue-becomes-its-opposite",
       "in_degree": 24
     }
   ],
@@ -536,7 +537,7 @@
       "path": "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md",
       "title": "Abstraction, Boundaries, and the Moving Edge of Reality",
       "hash": "75ea3ced28ac",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 22,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1177,7 +1178,7 @@
       "path": "content/posts/curiosity-has-no-final-form.md",
       "title": "Curiosity Has No Final Form",
       "hash": "954585684515",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -2027,7 +2028,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "1466549a4396",
-      "in_degree": 52,
+      "in_degree": 53,
       "out_degree": 21,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -2161,9 +2162,9 @@
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "Lossless Knowledge of an Open Field Is Incoherent",
-      "hash": "9c444c441407",
-      "in_degree": 13,
-      "out_degree": 17,
+      "hash": "9d0c48e7550c",
+      "in_degree": 14,
+      "out_degree": 18,
       "links_out": [
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "the-scaling-loop",
@@ -2179,6 +2180,7 @@
         "token-efficiency-emulation-and-the-unclosable-gap",
         "causality-stays-at-the-edge-that-steers",
         "clarity-isnt-a-state-you-arrive-at",
+        "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
         "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
@@ -5032,7 +5034,7 @@
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "The Scaffolding That Keeps Growing",
       "hash": "cd0ef8c4ec26",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 17,
       "links_out": [
         "openness-is-consistency",
@@ -5343,9 +5345,9 @@
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
       "path": "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md",
       "title": "Token Efficiency, Emulation, and the Unclosable Gap",
-      "hash": "ec63f1f3d6a3",
-      "in_degree": 8,
-      "out_degree": 15,
+      "hash": "756eeec4aeef",
+      "in_degree": 9,
+      "out_degree": 16,
       "links_out": [
         "efficiency-without-differentiation",
         "distillation-compression-agency",
@@ -5356,6 +5358,7 @@
         "humans-tokens-and-the-scope-of-valuation",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "intelligence-belongs-only-to-the-mind",
+        "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
         "looping-and-graphing",
         "clarity-isnt-a-state-you-arrive-at",
         "the-meaning-of-life-is-in-the-drafting",
@@ -5472,7 +5475,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -5711,7 +5714,7 @@
       "path": "content/posts/xian-shi-de-bian-jie.md",
       "title": "现实的边界",
       "hash": "688efb757303",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 9,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -5753,6 +5756,26 @@
         "zuo-jian-bu-shi-zi-fu",
         "only-if-it-is-not-kept-empty",
         "qian-yin-hou-guo"
+      ]
+    },
+    {
+      "id": "post:zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "kind": "post",
+      "slug": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "path": "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md",
+      "title": "知道自己不知道：一种被修辞放大的认知假象",
+      "hash": "4490ab7f0be7",
+      "in_degree": 2,
+      "out_degree": 8,
+      "links_out": [
+        "lossless-knowledge-of-an-open-field-is-incoherent",
+        "xian-shi-de-bian-jie",
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "what-information-is",
+        "the-scaffolding-that-keeps-growing",
+        "curiosity-has-no-final-form",
+        "intelligence-belongs-only-to-the-mind",
+        "token-efficiency-emulation-and-the-unclosable-gap"
       ]
     },
     {
@@ -10412,6 +10435,12 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "rel": "points_to",
+      "label": "知道自己不知道：一种被修辞放大的认知假象"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -19463,6 +19492,12 @@
     },
     {
       "from": "token-efficiency-emulation-and-the-unclosable-gap",
+      "to": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "rel": "points_to",
+      "label": "知道自己不知道：一种被修辞放大的认知假象"
+    },
+    {
+      "from": "token-efficiency-emulation-and-the-unclosable-gap",
       "to": "looping-and-graphing",
       "rel": "points_to",
       "label": "Looping and graphing"
@@ -20618,6 +20653,60 @@
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
       "label": "前因，后果"
+    },
+    {
+      "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless knowledge of an open field is incoherent"
+    },
+    {
+      "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "to": "xian-shi-de-bian-jie",
+      "rel": "points_to",
+      "label": "现实的边界"
+    },
+    {
+      "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "Curiosity Has No Final Form"
+    },
+    {
+      "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token efficiency, emulation, and the unclosable gap"
+    },
+    {
+      "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",
