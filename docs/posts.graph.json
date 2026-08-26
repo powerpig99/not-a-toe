@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-26T09:10:11.338Z",
+    "generated_at": "2026-08-26T09:26:41.204Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -160,7 +160,7 @@
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "d2f1958b9ac3",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
-      "content/posts/the-closed-loop-of-representation.md": "11e4c2de4e10",
+      "content/posts/the-closed-loop-of-representation.md": "5b1bdb57f377",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
       "content/posts/the-coordinators-category-error.md": "d8a060340030",
@@ -207,7 +207,7 @@
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "9d0999a22ec2",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "3763c8faf4bb",
-      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b0f2179a4b2a",
+      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "fb9ca239147d",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "c1d05dc9cc31",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "d40851e92070",
@@ -235,6 +235,7 @@
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "44869ec76009",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
+      "content/posts/what-information-is.md": "5cf8efae167b",
       "content/posts/what-works-is-the-belief.md": "e8877c5d23bf",
       "content/posts/whatever-is-one-prompt-away.md": "4f4272f67a57",
       "content/posts/when-abundance-looks-like-scarcity.md": "6ba7612c2611",
@@ -250,38 +251,38 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 240,
-      "edges": 2463,
-      "unique_directed": 2439,
+      "posts": 241,
+      "edges": 2473,
+      "unique_directed": 2449,
       "missing_targets": 0,
-      "one_way": 393,
+      "one_way": 399,
       "isolated": 36,
-      "posts_with_outbound": 188
+      "posts_with_outbound": 189
     }
   },
   "hubs_in": [
     {
       "slug": "openness-is-consistency",
-      "in_degree": 62
+      "in_degree": 63
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 57
+      "in_degree": 58
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 51
+      "in_degree": 52
     },
     {
       "slug": "no-system-can-be-kept-closed",
       "in_degree": 43
     },
     {
-      "slug": "ownership-and-self-worthiness",
-      "in_degree": 36
+      "slug": "the-scaffolding-we-forget",
+      "in_degree": 37
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 36
     },
     {
@@ -534,7 +535,7 @@
       "path": "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md",
       "title": "Abstraction, Boundaries, and the Moving Edge of Reality",
       "hash": "75ea3ced28ac",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 22,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1174,7 +1175,7 @@
       "path": "content/posts/curiosity-has-no-final-form.md",
       "title": "Curiosity Has No Final Form",
       "hash": "954585684515",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 8,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -1944,7 +1945,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "b6c90c06a32c",
-      "in_degree": 57,
+      "in_degree": 58,
       "out_degree": 50,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2006,7 +2007,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "1466549a4396",
-      "in_degree": 51,
+      "in_degree": 52,
       "out_degree": 21,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -2691,7 +2692,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "03afcc17003a",
-      "in_degree": 62,
+      "in_degree": 63,
       "out_degree": 43,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -3864,11 +3865,12 @@
       "slug": "the-closed-loop-of-representation",
       "path": "content/posts/the-closed-loop-of-representation.md",
       "title": "The Closed Loop of Representation",
-      "hash": "11e4c2de4e10",
-      "in_degree": 2,
-      "out_degree": 7,
+      "hash": "5b1bdb57f377",
+      "in_degree": 3,
+      "out_degree": 8,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
+        "what-information-is",
         "the-scaffolding-we-forget",
         "moral-language-as-projection",
         "openness-is-consistency",
@@ -4820,9 +4822,9 @@
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
       "title": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
-      "hash": "b0f2179a4b2a",
-      "in_degree": 5,
-      "out_degree": 13,
+      "hash": "fb9ca239147d",
+      "in_degree": 6,
+      "out_degree": 14,
       "links_out": [
         "looping-and-graphing",
         "the-scaffolding-we-forget",
@@ -4835,6 +4837,7 @@
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "only-if-it-is-not-kept-empty",
         "causality-all-the-way",
+        "what-information-is",
         "the-flywheel-of-the-mind",
         "clarity-isnt-a-state-you-arrive-at"
       ]
@@ -5038,7 +5041,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3098d153bf56",
-      "in_degree": 36,
+      "in_degree": 37,
       "out_degree": 30,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5440,6 +5443,26 @@
       "links_out": [
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "on-closed-systems-open-minds-and-the-limits-of-proof"
+      ]
+    },
+    {
+      "id": "post:what-information-is",
+      "kind": "post",
+      "slug": "what-information-is",
+      "path": "content/posts/what-information-is.md",
+      "title": "What Information Is",
+      "hash": "5cf8efae167b",
+      "in_degree": 2,
+      "out_degree": 8,
+      "links_out": [
+        "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+        "the-scaffolding-we-forget",
+        "the-closed-loop-of-representation",
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "curiosity-has-no-final-form",
+        "intelligence-belongs-only-to-the-mind",
+        "openness-is-consistency",
+        "individual-choices-as-the-only-causal-levers"
       ]
     },
     {
@@ -15280,6 +15303,12 @@
     },
     {
       "from": "the-closed-loop-of-representation",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The scaffolding we forget"
@@ -17764,6 +17793,12 @@
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
       "label": "The flywheel of the Mind"
@@ -19717,6 +19752,54 @@
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
       "label": "On closed systems, open minds, and the limits of proof"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "The real scarcity is not memory, but continuous re-tracing"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "what-information-is",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "what-information-is",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "Curiosity Has No Final Form"
+    },
+    {
+      "from": "what-information-is",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "what-information-is",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "what-information-is",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "what-works-is-the-belief",
