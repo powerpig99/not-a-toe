@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-26T09:26:41.204Z",
+    "generated_at": "2026-08-26T12:02:36.539Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -34,7 +34,7 @@
       "content/posts/closed-reality-in-benchmark-maxing.md": "d57165a32284",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "7623a955955f",
-      "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "ad0f19b1f66c",
+      "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "7aab1d8dca9e",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "5b80b9d897c0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
@@ -64,7 +64,8 @@
       "content/posts/fate-loves-irony-refined.md": "df6e1ca34057",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
-      "content/posts/freedom-as-ground.md": "1e233492287b",
+      "content/posts/freedom-as-ground.md": "ebbb340ffccf",
+      "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "349bd3fc8b70",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "d43109f0b737",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "a170edfe2e69",
@@ -251,13 +252,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 241,
-      "edges": 2473,
-      "unique_directed": 2449,
+      "posts": 242,
+      "edges": 2480,
+      "unique_directed": 2456,
       "missing_targets": 0,
-      "one_way": 399,
+      "one_way": 402,
       "isolated": 36,
-      "posts_with_outbound": 189
+      "posts_with_outbound": 190
     }
   },
   "hubs_in": [
@@ -267,7 +268,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 58
+      "in_degree": 59
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -278,12 +279,12 @@
       "in_degree": 43
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 37
     },
     {
-      "slug": "ownership-and-self-worthiness",
-      "in_degree": 36
+      "slug": "the-scaffolding-we-forget",
+      "in_degree": 37
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -1060,9 +1061,9 @@
       "slug": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "path": "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md",
       "title": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁",
-      "hash": "ad0f19b1f66c",
-      "in_degree": 3,
-      "out_degree": 10,
+      "hash": "7aab1d8dca9e",
+      "in_degree": 4,
+      "out_degree": 11,
       "links_out": [
         "the-mind-that-statistics-cannot-reveal",
         "the-average-is-residue-not-the-engine",
@@ -1071,6 +1072,7 @@
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "guan-yu-gui-yin",
         "the-misallocation-of-agency",
+        "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
         "openness-is-consistency"
@@ -1636,9 +1638,9 @@
       "slug": "freedom-as-ground",
       "path": "content/posts/freedom-as-ground.md",
       "title": "Freedom as Ground",
-      "hash": "1e233492287b",
-      "in_degree": 2,
-      "out_degree": 9,
+      "hash": "ebbb340ffccf",
+      "in_degree": 3,
+      "out_degree": 10,
       "links_out": [
         "the-fixed-image-of-transcendence",
         "the-scaffolding-that-keeps-growing",
@@ -1648,7 +1650,25 @@
         "the-misallocation-of-agency",
         "xian-shi-de-bian-jie",
         "mei-you-pu-du-zhi-you-zi-du",
+        "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "openness-is-consistency"
+      ]
+    },
+    {
+      "id": "post:ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "kind": "post",
+      "slug": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "path": "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md",
+      "title": "个人选择：社会化与做自己的真正坐标",
+      "hash": "349bd3fc8b70",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "freedom-as-ground",
+        "individual-choices-as-the-only-causal-levers",
+        "the-scaffolding-that-keeps-growing",
+        "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+        "ownership-and-self-worthiness"
       ]
     },
     {
@@ -1945,7 +1965,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "b6c90c06a32c",
-      "in_degree": 58,
+      "in_degree": 59,
       "out_degree": 50,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2781,7 +2801,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "96185ffe6f2b",
-      "in_degree": 36,
+      "in_degree": 37,
       "out_degree": 28,
       "links_out": [
         "failure-as-information",
@@ -5012,7 +5032,7 @@
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "The Scaffolding That Keeps Growing",
       "hash": "cd0ef8c4ec26",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 17,
       "links_out": [
         "openness-is-consistency",
@@ -7533,6 +7553,12 @@
     },
     {
       "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "个人选择：社会化与做自己的真正坐标"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -8889,9 +8915,45 @@
     },
     {
       "from": "freedom-as-ground",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "个人选择：社会化与做自己的真正坐标"
+    },
+    {
+      "from": "freedom-as-ground",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "Freedom as Ground"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "从目的性的评判看认知缺失"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
