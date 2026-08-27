@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-26T17:08:15.551Z",
+    "generated_at": "2026-08-27T07:39:23.900Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -75,13 +75,13 @@
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
       "content/posts/having-more-is-never-the-cause.md": "152b38f49428",
       "content/posts/help-is-half-the-problem.md": "686ba3ac40ff",
-      "content/posts/hierarchy-from-individual-difference.md": "9b265c236b80",
+      "content/posts/hierarchy-from-individual-difference.md": "ae8555da4e2e",
       "content/posts/how-belief-actually-changes.md": "b31fc8321707",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "301fced2d880",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "b6c90c06a32c",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "3cd01360a9be",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -250,16 +250,17 @@
       "content/posts/you-cant-benchmark-the-fluid.md": "cc314ae189a8",
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "4490ab7f0be7",
+      "content/posts/zi-you-de-ce-bu-zhun.md": "e1b9fdbf46bd",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 243,
-      "edges": 2491,
-      "unique_directed": 2466,
+      "posts": 244,
+      "edges": 2504,
+      "unique_directed": 2479,
       "missing_targets": 0,
-      "one_way": 408,
+      "one_way": 417,
       "isolated": 36,
-      "posts_with_outbound": 191
+      "posts_with_outbound": 192
     }
   },
   "hubs_in": [
@@ -269,7 +270,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 59
+      "in_degree": 60
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -281,11 +282,11 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 37
+      "in_degree": 38
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 37
+      "in_degree": 38
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -301,7 +302,7 @@
     },
     {
       "slug": "hierarchy-from-individual-difference",
-      "in_degree": 28
+      "in_degree": 29
     },
     {
       "slug": "self-rl-for-humans",
@@ -340,14 +341,14 @@
       "in_degree": 24
     },
     {
-      "slug": "externalized-virtue-becomes-its-opposite",
+      "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "in_degree": 24
     }
   ],
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 50
+      "out_degree": 51
     },
     {
       "slug": "openness-is-consistency",
@@ -370,16 +371,16 @@
       "out_degree": 30
     },
     {
+      "slug": "hierarchy-from-individual-difference",
+      "out_degree": 29
+    },
+    {
       "slug": "not-a-theory-of-everything",
       "out_degree": 29
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 29
-    },
-    {
-      "slug": "hierarchy-from-individual-difference",
-      "out_degree": 28
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
@@ -732,7 +733,7 @@
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
       "hash": "87c4e018e0d5",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -940,7 +941,7 @@
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "Closed Assumptions Squeeze Compounding into S-Curves",
       "hash": "618ae4ecd116",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 22,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -1063,7 +1064,7 @@
       "path": "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md",
       "title": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁",
       "hash": "7aab1d8dca9e",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 11,
       "links_out": [
         "the-mind-that-statistics-cannot-reveal",
@@ -1640,7 +1641,7 @@
       "path": "content/posts/freedom-as-ground.md",
       "title": "Freedom as Ground",
       "hash": "ebbb340ffccf",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "the-fixed-image-of-transcendence",
@@ -1662,7 +1663,7 @@
       "path": "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md",
       "title": "个人选择：社会化与做自己的真正坐标",
       "hash": "349bd3fc8b70",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 5,
       "links_out": [
         "freedom-as-ground",
@@ -1838,9 +1839,9 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "Hierarchy from Individual Difference",
-      "hash": "9b265c236b80",
-      "in_degree": 28,
-      "out_degree": 28,
+      "hash": "ae8555da4e2e",
+      "in_degree": 29,
+      "out_degree": 29,
       "links_out": [
         "the-generative-contradiction",
         "data-is-local-intelligence-is-allocated",
@@ -1856,6 +1857,7 @@
         "the-npc-impression-is-structural",
         "self-image-speaks-as-if-from-nowhere",
         "ownership-and-self-worthiness",
+        "zi-you-de-ce-bu-zhun",
         "the-myth-of-population-collapse-explained",
         "the-fixed-image-of-transcendence",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -1965,9 +1967,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "b6c90c06a32c",
-      "in_degree": 59,
-      "out_degree": 50,
+      "hash": "3cd01360a9be",
+      "in_degree": 60,
+      "out_degree": 51,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -2004,6 +2006,7 @@
         "zuo-jian-bu-shi-zi-fu",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "openness-is-consistency",
+        "zi-you-de-ce-bu-zhun",
         "how-belief-actually-changes",
         "hardness-is-not-inherent-in-the-action",
         "expertise-as-reference-not-replacement",
@@ -2803,7 +2806,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "96185ffe6f2b",
-      "in_degree": 37,
+      "in_degree": 38,
       "out_degree": 28,
       "links_out": [
         "failure-as-information",
@@ -3888,7 +3891,7 @@
       "path": "content/posts/the-closed-loop-of-representation.md",
       "title": "The Closed Loop of Representation",
       "hash": "5b1bdb57f377",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
@@ -5063,7 +5066,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3098d153bf56",
-      "in_degree": 37,
+      "in_degree": 38,
       "out_degree": 30,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5475,7 +5478,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -5776,6 +5779,29 @@
         "curiosity-has-no-final-form",
         "intelligence-belongs-only-to-the-mind",
         "token-efficiency-emulation-and-the-unclosable-gap"
+      ]
+    },
+    {
+      "id": "post:zi-you-de-ce-bu-zhun",
+      "kind": "post",
+      "slug": "zi-you-de-ce-bu-zhun",
+      "path": "content/posts/zi-you-de-ce-bu-zhun.md",
+      "title": "自由的测不准：微观主权、统计涌现与自由意志的佯谬",
+      "hash": "e1b9fdbf46bd",
+      "in_degree": 2,
+      "out_degree": 11,
+      "links_out": [
+        "causality-all-the-way",
+        "the-closed-loop-of-representation",
+        "what-information-is",
+        "hierarchy-from-individual-difference",
+        "closed-assumptions-squeeze-compounding-into-s-curves",
+        "the-scaffolding-we-forget",
+        "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+        "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+        "ownership-and-self-worthiness",
+        "individual-choices-as-the-only-causal-levers",
+        "freedom-as-ground"
       ]
     },
     {
@@ -9394,6 +9420,12 @@
     },
     {
       "from": "hierarchy-from-individual-difference",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准：微观主权、统计涌现与自由意志的佯谬"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
       "label": "The myth of population collapse explained"
@@ -9865,6 +9897,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准：微观主权、统计涌现与自由意志的佯谬"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -20707,6 +20745,72 @@
       "to": "what-information-is",
       "rel": "points_to",
       "label": "What Information Is"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from individual difference"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed assumptions squeeze compounding into S-curves"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "个人选择：社会化与做自己的真正坐标"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "从目的性的评判看认知缺失"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "Freedom as Ground"
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",
