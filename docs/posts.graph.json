@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-27T13:55:22.222Z",
+    "generated_at": "2026-08-27T16:33:54.565Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -64,7 +64,7 @@
       "content/posts/fate-loves-irony-refined.md": "df6e1ca34057",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
-      "content/posts/freedom-as-ground.md": "ebbb340ffccf",
+      "content/posts/freedom-as-ground.md": "201a8b10935b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "349bd3fc8b70",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "d43109f0b737",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
@@ -155,7 +155,7 @@
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "ba001bbc15a9",
       "content/posts/technology-is-residual-of-human-compounding.md": "2d2d07f8486b",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "703de644ded9",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "4194479370e2",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-average-is-residue-not-the-engine.md": "2489f97079f9",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
@@ -248,19 +248,20 @@
       "content/posts/writing-without-the-image.md": "9009b34790ea",
       "content/posts/xian-shi-de-bian-jie.md": "688efb757303",
       "content/posts/you-cant-benchmark-the-fluid.md": "cc314ae189a8",
+      "content/posts/you-tiao-jian-de-zi-you.md": "8ecb6c44441c",
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "4490ab7f0be7",
       "content/posts/zi-you-de-ce-bu-zhun.md": "e1b9fdbf46bd",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 244,
-      "edges": 2504,
-      "unique_directed": 2479,
+      "posts": 245,
+      "edges": 2512,
+      "unique_directed": 2487,
       "missing_targets": 0,
-      "one_way": 417,
+      "one_way": 421,
       "isolated": 36,
-      "posts_with_outbound": 192
+      "posts_with_outbound": 193
     }
   },
   "hubs_in": [
@@ -270,7 +271,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 60
+      "in_degree": 61
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -282,18 +283,18 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 38
+      "in_degree": 39
     },
     {
       "slug": "the-scaffolding-we-forget",
       "in_degree": 38
     },
     {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 35
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 36
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
       "in_degree": 35
     },
     {
@@ -1640,12 +1641,13 @@
       "slug": "freedom-as-ground",
       "path": "content/posts/freedom-as-ground.md",
       "title": "Freedom as Ground",
-      "hash": "ebbb340ffccf",
-      "in_degree": 4,
-      "out_degree": 10,
+      "hash": "201a8b10935b",
+      "in_degree": 5,
+      "out_degree": 11,
       "links_out": [
         "the-fixed-image-of-transcendence",
         "the-scaffolding-that-keeps-growing",
+        "you-tiao-jian-de-zi-you",
         "individual-choices-as-the-only-causal-levers",
         "sovereignty-belief-and-regulatory-structures",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
@@ -1968,7 +1970,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "3cd01360a9be",
-      "in_degree": 60,
+      "in_degree": 61,
       "out_degree": 51,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2806,7 +2808,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "96185ffe6f2b",
-      "in_degree": 38,
+      "in_degree": 39,
       "out_degree": 28,
       "links_out": [
         "failure-as-information",
@@ -3721,12 +3723,13 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "703de644ded9",
-      "in_degree": 35,
-      "out_degree": 21,
+      "hash": "4194479370e2",
+      "in_degree": 36,
+      "out_degree": 22,
       "links_out": [
         "order-surplus-and-the-moral-intercept",
         "pessimism-is-the-shadow-of-optimism",
+        "you-tiao-jian-de-zi-you",
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
         "the-unobservable-driver-of-learning",
@@ -3891,7 +3894,7 @@
       "path": "content/posts/the-closed-loop-of-representation.md",
       "title": "The Closed Loop of Representation",
       "hash": "5b1bdb57f377",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
@@ -4008,7 +4011,7 @@
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "The Fixed Image of Transcendence",
       "hash": "7c3ba6ced47b",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5744,6 +5747,24 @@
         "escaping-the-sandbox-stays-inside-the-hold",
         "mistaking-the-expression-for-the-intelligence",
         "abstraction-boundaries-and-the-moving-edge-of-reality"
+      ]
+    },
+    {
+      "id": "post:you-tiao-jian-de-zi-you",
+      "kind": "post",
+      "slug": "you-tiao-jian-de-zi-you",
+      "path": "content/posts/you-tiao-jian-de-zi-you.md",
+      "title": "有条件的自由",
+      "hash": "8ecb6c44441c",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "freedom-as-ground",
+        "the-fixed-image-of-transcendence",
+        "the-closed-loop-of-representation",
+        "the-allocation-of-causal-power-in-validation",
+        "individual-choices-as-the-only-causal-levers",
+        "ownership-and-self-worthiness"
       ]
     },
     {
@@ -8925,6 +8946,12 @@
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
+      "label": "有条件的自由"
     },
     {
       "from": "freedom-as-ground",
@@ -14856,6 +14883,12 @@
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
+      "label": "有条件的自由"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
       "to": "the-homework-exam-inversion-registers-substitution",
       "rel": "points_to",
       "label": "The homework–exam inversion registers substitution"
@@ -20673,6 +20706,42 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "Freedom as Ground"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The fixed image of transcendence"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
     },
     {
       "from": "you-wu-zhi-bian",
