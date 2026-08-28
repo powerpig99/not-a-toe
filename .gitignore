@@ -10,3 +10,10 @@ memory/
 # Local harness + project knowledge leaf (not published)
 .claude/
 .grok/
+
+# NotebookLM automation output & virtualenv
+notebooklm-auto/.venv/
+notebooklm-auto/output/
+notebooklm-auto/logs/
+notebooklm-auto/input/
+
