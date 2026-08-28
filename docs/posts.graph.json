@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-28T06:08:49.792Z",
+    "generated_at": "2026-08-28T11:41:53.702Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -35,6 +35,7 @@
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "7623a955955f",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "68e14d743eca",
+      "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "119e4e76a764",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "5b80b9d897c0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
@@ -56,7 +57,7 @@
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
       "content/posts/evil-as-the-minds-own-creation.md": "118399c5c2b7",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "3b036ee62bf9",
-      "content/posts/expertise-as-reference-not-replacement.md": "8e648977cb2a",
+      "content/posts/expertise-as-reference-not-replacement.md": "9d8bb04e5df0",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "eec7d7c6b7d4",
@@ -226,7 +227,7 @@
       "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
-      "content/posts/the-unobservable-driver-of-learning.md": "77899a9908ef",
+      "content/posts/the-unobservable-driver-of-learning.md": "1c942a52811f",
       "content/posts/the-utility-men-of-progress.md": "35523a162e42",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
@@ -257,13 +258,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 247,
-      "edges": 2535,
-      "unique_directed": 2510,
+      "posts": 248,
+      "edges": 2548,
+      "unique_directed": 2523,
       "missing_targets": 0,
-      "one_way": 436,
+      "one_way": 445,
       "isolated": 36,
-      "posts_with_outbound": 195
+      "posts_with_outbound": 196
     }
   },
   "hubs_in": [
@@ -273,15 +274,15 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 62
+      "in_degree": 63
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 53
+      "in_degree": 54
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 44
+      "in_degree": 45
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -320,6 +321,10 @@
       "in_degree": 26
     },
     {
+      "slug": "causality-all-the-way",
+      "in_degree": 25
+    },
+    {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "in_degree": 25
     },
@@ -340,12 +345,8 @@
       "in_degree": 25
     },
     {
-      "slug": "abstraction-boundaries-and-the-moving-edge-of-reality",
-      "in_degree": 24
-    },
-    {
-      "slug": "causality-all-the-way",
-      "in_degree": 24
+      "slug": "the-scaffolding-that-keeps-growing",
+      "in_degree": 25
     }
   ],
   "hubs_out": [
@@ -736,7 +737,7 @@
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
       "hash": "87c4e018e0d5",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1085,6 +1086,29 @@
       ]
     },
     {
+      "id": "post:cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "kind": "post",
+      "slug": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "path": "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md",
+      "title": "从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制",
+      "hash": "119e4e76a764",
+      "in_degree": 2,
+      "out_degree": 11,
+      "links_out": [
+        "data-is-local-intelligence-is-allocated",
+        "intelligence-belongs-only-to-the-mind",
+        "expertise-as-reference-not-replacement",
+        "the-scaffolding-that-keeps-growing",
+        "no-system-can-be-kept-closed",
+        "causality-all-the-way",
+        "stability-and-excess",
+        "zi-you-de-ce-bu-zhun",
+        "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+        "the-unobservable-driver-of-learning",
+        "individual-choices-as-the-only-causal-levers"
+      ]
+    },
+    {
       "id": "post:conscience-power-delegation",
       "kind": "post",
       "slug": "conscience-power-delegation",
@@ -1214,7 +1238,7 @@
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
       "title": "Data Is Local; Intelligence Is Allocated",
       "hash": "af415810ee62",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 21,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
@@ -1495,9 +1519,9 @@
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "Expertise as Reference, Not Replacement",
-      "hash": "8e648977cb2a",
-      "in_degree": 19,
-      "out_degree": 18,
+      "hash": "9d8bb04e5df0",
+      "in_degree": 20,
+      "out_degree": 19,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
@@ -1508,6 +1532,7 @@
         "ownership-and-self-worthiness",
         "individual-choices-as-the-only-causal-levers",
         "the-allocation-of-causal-power-in-validation",
+        "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "when-observation-becomes-performance",
         "liberation-rhetoric-begins-by-defining-captivity",
         "the-scaffolding-we-forget",
@@ -1973,7 +1998,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "3cd01360a9be",
-      "in_degree": 62,
+      "in_degree": 63,
       "out_degree": 51,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2036,7 +2061,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "1466549a4396",
-      "in_degree": 53,
+      "in_degree": 54,
       "out_degree": 21,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -2455,7 +2480,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
       "hash": "a5c5f59964ed",
-      "in_degree": 44,
+      "in_degree": 45,
       "out_degree": 36,
       "links_out": [
         "openness-is-consistency",
@@ -3584,7 +3609,7 @@
       "path": "content/posts/stability-and-excess.md",
       "title": "Stability and excess: consciousness, introspection, and the cut of observation",
       "hash": "a439cbed2235",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "the-closed-loop-of-representation",
@@ -5067,7 +5092,7 @@
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "The Scaffolding That Keeps Growing",
       "hash": "cd0ef8c4ec26",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 17,
       "links_out": [
         "openness-is-consistency",
@@ -5305,14 +5330,15 @@
       "slug": "the-unobservable-driver-of-learning",
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "The Unobservable Driver of Learning",
-      "hash": "77899a9908ef",
-      "in_degree": 10,
-      "out_degree": 9,
+      "hash": "1c942a52811f",
+      "in_degree": 11,
+      "out_degree": 10,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
         "the-allocation-of-causal-power-in-validation",
         "mistaking-the-expression-for-the-intelligence",
+        "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "individual-choices-as-the-only-causal-levers",
         "consciousness-never-appears-as-data-among-data",
         "the-average-is-residue-not-the-engine",
@@ -5836,7 +5862,7 @@
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
       "title": "自由的测不准：微观主权、统计涌现与自由意志的佯谬",
       "hash": "e1b9fdbf46bd",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 11,
       "links_out": [
         "causality-all-the-way",
@@ -5859,7 +5885,7 @@
       "path": "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md",
       "title": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择",
       "hash": "bb9d4c1c3e6c",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 10,
       "links_out": [
         "the-scaffolding-that-keeps-growing",
@@ -7701,6 +7727,72 @@
       "label": "Openness is consistency"
     },
     {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as reference, not replacement"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "stability-and-excess",
+      "rel": "points_to",
+      "label": "Stability and excess: consciousness, introspection, and the cut of observation"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准：微观主权、统计涌现与自由意志的佯谬"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The unobservable driver of learning"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "no-genius-can-solve-the-knowledge-problem",
       "rel": "points_to",
@@ -8707,6 +8799,12 @@
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
       "label": "The allocation of causal power in validation"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制"
     },
     {
       "from": "expertise-as-reference-not-replacement",
@@ -19423,6 +19521,12 @@
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制"
     },
     {
       "from": "the-unobservable-driver-of-learning",
