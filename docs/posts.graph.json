@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-28T03:19:05.691Z",
+    "generated_at": "2026-08-28T06:08:49.792Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -142,7 +142,7 @@
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/selection-contradiction-and-open-reality.md": "805903f17e4e",
-      "content/posts/self-image-speaks-as-if-from-nowhere.md": "1b26c8b493df",
+      "content/posts/self-image-speaks-as-if-from-nowhere.md": "64edd66664f9",
       "content/posts/self-rl-for-humans.md": "5d3466611e3a",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "32af5139e074",
@@ -151,6 +151,7 @@
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "7052251d0a3c",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sowell-observed-the-surface-problem.md": "147da1cead49",
+      "content/posts/stability-and-excess.md": "a439cbed2235",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "ae77b9ede8b3",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "ba001bbc15a9",
@@ -161,7 +162,7 @@
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "d2f1958b9ac3",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
-      "content/posts/the-closed-loop-of-representation.md": "5b1bdb57f377",
+      "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
       "content/posts/the-coordinators-category-error.md": "d8a060340030",
@@ -256,19 +257,19 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 246,
-      "edges": 2524,
-      "unique_directed": 2499,
+      "posts": 247,
+      "edges": 2535,
+      "unique_directed": 2510,
       "missing_targets": 0,
-      "one_way": 429,
+      "one_way": 436,
       "isolated": 36,
-      "posts_with_outbound": 194
+      "posts_with_outbound": 195
     }
   },
   "hubs_in": [
     {
       "slug": "openness-is-consistency",
-      "in_degree": 63
+      "in_degree": 64
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -280,7 +281,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 43
+      "in_degree": 44
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -343,7 +344,7 @@
       "in_degree": 24
     },
     {
-      "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "slug": "causality-all-the-way",
       "in_degree": 24
     }
   ],
@@ -735,7 +736,7 @@
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
       "hash": "87c4e018e0d5",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -2454,7 +2455,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
       "hash": "a5c5f59964ed",
-      "in_degree": 43,
+      "in_degree": 44,
       "out_degree": 36,
       "links_out": [
         "openness-is-consistency",
@@ -2721,7 +2722,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "03afcc17003a",
-      "in_degree": 63,
+      "in_degree": 64,
       "out_degree": 43,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -3390,9 +3391,9 @@
       "slug": "self-image-speaks-as-if-from-nowhere",
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "Self-Image Speaks as if from Nowhere",
-      "hash": "1b26c8b493df",
-      "in_degree": 22,
-      "out_degree": 21,
+      "hash": "64edd66664f9",
+      "in_degree": 23,
+      "out_degree": 22,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
         "writing-without-the-image",
@@ -3400,6 +3401,7 @@
         "causality-stays-at-the-edge-that-steers",
         "the-model-never-becomes-a-second-edge",
         "intelligence-belongs-only-to-the-mind",
+        "stability-and-excess",
         "rationality-never-travels-across-the-mind",
         "sowell-observed-the-surface-problem",
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -3573,6 +3575,27 @@
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "residual-individualism",
         "the-knowledge-problem-and-the-illusion-of-delegation"
+      ]
+    },
+    {
+      "id": "post:stability-and-excess",
+      "kind": "post",
+      "slug": "stability-and-excess",
+      "path": "content/posts/stability-and-excess.md",
+      "title": "Stability and excess: consciousness, introspection, and the cut of observation",
+      "hash": "a439cbed2235",
+      "in_degree": 2,
+      "out_degree": 9,
+      "links_out": [
+        "the-closed-loop-of-representation",
+        "self-image-speaks-as-if-from-nowhere",
+        "the-fixed-image-of-transcendence",
+        "what-information-is",
+        "no-system-can-be-kept-closed",
+        "openness-is-consistency",
+        "causality-all-the-way",
+        "the-scaffolding-that-keeps-growing",
+        "the-unobservable-driver-of-learning"
       ]
     },
     {
@@ -3896,14 +3919,15 @@
       "slug": "the-closed-loop-of-representation",
       "path": "content/posts/the-closed-loop-of-representation.md",
       "title": "The Closed Loop of Representation",
-      "hash": "5b1bdb57f377",
-      "in_degree": 5,
-      "out_degree": 8,
+      "hash": "82ca9c5ee6cb",
+      "in_degree": 6,
+      "out_degree": 9,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "what-information-is",
         "the-scaffolding-we-forget",
         "moral-language-as-projection",
+        "stability-and-excess",
         "openness-is-consistency",
         "climbing-does-not-leave-the-ground",
         "intelligence-belongs-only-to-the-mind",
@@ -4014,7 +4038,7 @@
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "The Fixed Image of Transcendence",
       "hash": "7c3ba6ced47b",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5043,7 +5067,7 @@
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "The Scaffolding That Keeps Growing",
       "hash": "cd0ef8c4ec26",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 17,
       "links_out": [
         "openness-is-consistency",
@@ -5282,7 +5306,7 @@
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "The Unobservable Driver of Learning",
       "hash": "77899a9908ef",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -5484,7 +5508,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -14056,6 +14080,12 @@
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
+      "to": "stability-and-excess",
+      "rel": "points_to",
+      "label": "Stability and excess: consciousness, introspection, and the cut of observation"
+    },
+    {
+      "from": "self-image-speaks-as-if-from-nowhere",
       "to": "rationality-never-travels-across-the-mind",
       "rel": "points_to",
       "label": "Rationality never travels across the Mind"
@@ -14539,6 +14569,60 @@
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
       "label": "The knowledge problem and the illusion of delegation"
+    },
+    {
+      "from": "stability-and-excess",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The closed loop of representation"
+    },
+    {
+      "from": "stability-and-excess",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
+      "from": "stability-and-excess",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The fixed image of transcendence"
+    },
+    {
+      "from": "stability-and-excess",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "stability-and-excess",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "stability-and-excess",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is consistency"
+    },
+    {
+      "from": "stability-and-excess",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "stability-and-excess",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "stability-and-excess",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The unobservable driver of learning"
     },
     {
       "from": "studying-the-effect-of-ai-relocates-causality",
@@ -15517,6 +15601,12 @@
       "to": "moral-language-as-projection",
       "rel": "points_to",
       "label": "Moral language as projection"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "stability-and-excess",
+      "rel": "points_to",
+      "label": "Stability and excess: consciousness, introspection, and the cut of observation"
     },
     {
       "from": "the-closed-loop-of-representation",

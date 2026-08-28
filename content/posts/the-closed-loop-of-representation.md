@@ -39,7 +39,7 @@ The only coherent position is disciplined epistemic restraint:
 - Yet that external ground can never be definitively proved or disproved.
 - Both the dogmatic realist (who claims direct access to mind-independent objects) and the naive idealist (who dismisses reality as mere fiction) commit the same category error by claiming a perspective beyond the boundary of experience.
 
-[Openness is consistency](../openness-is-consistency/) anchors this balance: groundless openness acknowledges that reality is unclosed, without attempting to seal the mystery through dogmatic claims. [Climbing does not leave the ground](../climbing-does-not-leave-the-ground/) confirms the same discipline: recognizing that all models are constructed does not abolish the ground on which one currently stands.
+[Stability and excess: consciousness, introspection, and the cut of observation](../stability-and-excess/) carries this epistemic restraint directly into the mechanics of introspection: calling consciousness an "illusion" requires an impossible exterior court of adjudication that the closed-system premise itself ruled out; awareness is the open process of exceeding a form while holding it. [Openness is consistency](../openness-is-consistency/) anchors this balance: groundless openness acknowledges that reality is unclosed, without attempting to seal the mystery through dogmatic claims. [Climbing does not leave the ground](../climbing-does-not-leave-the-ground/) confirms the same discipline: recognizing that all models are constructed does not abolish the ground on which one currently stands.
 
 ## The closed economy of the minded locus
 
