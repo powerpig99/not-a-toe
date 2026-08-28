@@ -39,7 +39,6 @@ else
         echo "[*] Launching Brave Browser with --remote-debugging-port=${CDP_PORT}..."
         "${BRAVE_APP}" --remote-debugging-port=${CDP_PORT} >/dev/null 2>&1 &
         
-        # Wait up to 15 seconds for CDP to become active
         WAITED=0
         while ! curl -s "${CDP_URL}" >/dev/null 2>&1; do
             sleep 1
@@ -57,25 +56,30 @@ else
     fi
 fi
 
-# 3. Handle default source if provided as first argument
-SOURCE_ARG=""
+# 3. Handle arguments: URL or local file
+INPUT_ARG=""
 OUTPUT_ARG=""
 
 if [ -n "$1" ]; then
-    SOURCE_ARG="--source $1"
-    # Auto-generate output filename from source filename if not explicitly provided
-    if [ -z "$2" ]; then
-        BASENAME="$(basename "$1" .md)"
+    if [[ "$1" == http://* ]] || [[ "$1" == https://* ]]; then
+        INPUT_ARG="--url $1"
+        BASENAME="$(echo "$1" | sed 's:/*$::' | awk -F/ '{print $NF}')"
         OUTPUT_ARG="--output ./output/${BASENAME}.mp3"
     else
+        INPUT_ARG="--source $1"
+        BASENAME="$(basename "$1" .md)"
+        OUTPUT_ARG="--output ./output/${BASENAME}.mp3"
+    fi
+    
+    if [ -n "$2" ]; then
         OUTPUT_ARG="--output $2"
     fi
 fi
 
 # 4. Execute python automation script
 echo "[*] Executing generate_podcast.py..."
-python3 generate_podcast.py ${SOURCE_ARG} ${OUTPUT_ARG} "${@:3}"
+python3 generate_podcast.py ${INPUT_ARG} ${OUTPUT_ARG} "${@:3}"
 
 echo "========================================================"
-echo "  Generation process finished!                          "
+echo "  Process completed!                                    "
 echo "========================================================"
