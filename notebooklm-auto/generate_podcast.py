@@ -261,32 +261,49 @@ async def generate_podcast(
             await click_with_fallbacks(page, audio_overview_card_selectors, description="Studio Audio Overview card", timeout=12000)
             await page.wait_for_timeout(2000)
 
-            # 5. Fill custom prompt instructions in the Customize Audio Overview modal
-            log("Filling custom prompt instructions in Customize Audio Overview modal...")
-            prompt_input_selectors = [
-                'textarea[placeholder*="focus"]',
-                'textarea[placeholder*="instructions"]',
-                'textarea[placeholder*="关注"]',
-                'textarea[placeholder*="提示"]',
-                'textarea[aria-label*="instructions"]',
-                'textarea'
+            # 5. Handle Language Selection in Customize modal (Ensure Chinese is selected)
+            log("Configuring language in Customize Audio Overview modal...")
+            lang_dropdown = page.locator("div:has-text(\"Choose language\") ~ * [role=\"combobox\"], div:has-text(\"Choose language\") ~ * mat-select, [aria-label*=\"language\" i]").first
+            if await lang_dropdown.is_visible(timeout=3000):
+                curr_lang = await lang_dropdown.inner_text()
+                if "中文" not in curr_lang:
+                    log(f"Current language is '{curr_lang}', selecting '中文（简体）'...")
+                    await lang_dropdown.click()
+                    await page.wait_for_timeout(1000)
+                    chinese_opt = page.locator("mat-option:has-text(\"中文（简体）\"), [role=\"option\"]:has-text(\"中文（简体）\"), mat-option:has-text(\"中文\")").first
+                    if await chinese_opt.is_visible(timeout=3000):
+                        await chinese_opt.click()
+                        await page.wait_for_timeout(1000)
+                        log("Selected '中文（简体）' successfully.")
+
+            # 6. Fill custom prompt instructions specifically inside the dialog textarea
+            log("Filling custom prompt instructions into Customize Audio Overview dialog textarea...")
+            dialog_textarea_selectors = [
+                'mat-dialog-container textarea',
+                '.mat-mdc-dialog-container textarea',
+                '[role="dialog"] textarea',
+                'div:has-text("What should the AI hosts focus on") ~ * textarea',
+                'textarea:below(:text("What should the AI hosts focus on"))'
             ]
-            prompt_input = await find_element_with_fallbacks(page, prompt_input_selectors, description="Customize instructions textarea", timeout=8000)
-            if not prompt_input:
-                raise RuntimeError("Could not find textarea to input podcast prompt template")
+            dialog_textarea = await find_element_with_fallbacks(page, dialog_textarea_selectors, description="Dialog textarea", timeout=8000)
+            if not dialog_textarea:
+                raise RuntimeError("Could not find textarea inside Customize Audio Overview dialog")
 
-            await prompt_input.fill(prompt_content)
+            await dialog_textarea.click()
+            await dialog_textarea.fill(prompt_content)
             await page.wait_for_timeout(1000)
+            log(f"Filled {len(prompt_content)} characters into dialog textarea.")
 
-            # 6. Click "Generate" button in the modal
+            # 7. Click "Generate" button specifically inside the dialog
             log("Clicking 'Generate' button in modal...")
             generate_selectors = [
+                'mat-dialog-container button:has-text("Generate")',
+                '.mat-mdc-dialog-container button:has-text("Generate")',
+                '[role="dialog"] button:has-text("Generate")',
+                'mat-dialog-container button:has-text("生成")',
+                '.mat-mdc-dialog-container button:has-text("生成")',
                 'button:has-text("Generate")',
-                'button:has-text("生成")',
-                '[aria-label*="Generate"]',
-                '[aria-label*="生成"]',
-                'button:has-text("Create")',
-                'button:has-text("创建")'
+                'button:has-text("生成")'
             ]
             await click_with_fallbacks(page, generate_selectors, description="Generate audio button", timeout=10000)
             log("Audio Overview generation triggered!")
