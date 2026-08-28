@@ -12,7 +12,7 @@ const SITE = {
   sourceRawBaseUrl: 'https://raw.githubusercontent.com/powerpig99/not-a-toe/main/',
   language: 'en-US',
   pinnedSlug: 'not-a-theory-of-everything',
-  socialImage: 'https://raw.githubusercontent.com/powerpig99/not-a-toe/main/assets/toe-bang.png',
+  socialImage: 'https://raw.githubusercontent.com/powerpig99/not-a-toe/main/assets/podcast-cover.jpg',
 };
 
 const WORDS_PER_MINUTE = 265;
@@ -712,6 +712,7 @@ function renderPage({
   <meta name="description" content="${escapeHtml(description)}">
   <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
 ${alternateLinksHtml}
+  <link rel="icon" type="image/png" href="${withBase('favicon.png')}">
   <link rel="icon" type="image/svg+xml" href="${escapeHtml(faviconDataUri)}">
   <link rel="apple-touch-icon" href="${withBase(APPLE_TOUCH_ICON)}">
   <meta name="apple-mobile-web-app-title" content="${escapeHtml(SITE.title)}">
@@ -945,6 +946,16 @@ function copyStaticAssets() {
     throw new Error('assets/toe-bang.png not found (required for apple-touch-icon).');
   }
   fs.copyFileSync(appleTouchIconSource, path.join(outputDir, APPLE_TOUCH_ICON));
+
+  const faviconPngSource = path.join(scriptDir, 'assets', 'favicon.png');
+  if (fs.existsSync(faviconPngSource)) {
+    fs.copyFileSync(faviconPngSource, path.join(outputDir, 'favicon.png'));
+  }
+
+  const podcastCoverSource = path.join(scriptDir, 'assets', 'podcast-cover.jpg');
+  if (fs.existsSync(podcastCoverSource)) {
+    fs.copyFileSync(podcastCoverSource, path.join(outputDir, 'podcast-cover.jpg'));
+  }
 
   if (fs.existsSync(coversDir)) {
     const publicCoversDir = path.join(outputDir, 'covers');
