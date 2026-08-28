@@ -105,6 +105,8 @@ async def generate_podcast(
             context = contexts[0]
 
         page = await context.new_page()
+        # Enforce dark theme color scheme and set comfortable viewport
+        await page.emulate_media(color_scheme="dark")
         await page.set_viewport_size({"width": 1440, "height": 900})
 
         try:
