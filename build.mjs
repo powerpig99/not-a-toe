@@ -754,6 +754,7 @@ function renderAbout() {
       <ul class="about-links">
         <li><a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a></li>
         <li><a href="https://github.com/powerpig99/ontos" rel="noopener noreferrer">Ontos</a></li>
+        <li><a href="https://open.spotify.com/show/5PBB157vCDsIFbOvtWYCy9" rel="noopener noreferrer">Spotify (Podcast)</a></li>
         <li><a href="https://www.xiaoyuzhoufm.com/podcast/6a8dc3efdb7d3404ab81d2e8" rel="noopener noreferrer">小宇宙 (Podcast)</a></li>
         <li><a href="https://substack.com/@jingliang" rel="noopener noreferrer">Substack</a></li>
         <li><a href="https://x.com/powerpig" rel="noopener noreferrer">X</a></li>
