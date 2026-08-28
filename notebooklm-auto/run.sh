@@ -37,7 +37,7 @@ else
     
     if [ -f "${BRAVE_APP}" ]; then
         echo "[*] Launching Brave Browser with --remote-debugging-port=${CDP_PORT}..."
-        "${BRAVE_APP}" --remote-debugging-port=${CDP_PORT} >/dev/null 2>&1 &
+        "${BRAVE_APP}" --remote-debugging-port=${CDP_PORT} --disable-session-crashed-bubble --restore-last-session >/dev/null 2>&1 &
         
         WAITED=0
         while ! curl -s "${CDP_URL}" >/dev/null 2>&1; do

@@ -159,6 +159,10 @@ async def generate_podcast(
                 await page.wait_for_timeout(2000)
 
                 url_input_selectors = [
+                    'textarea[placeholder*="Paste any links"]',
+                    'textarea[placeholder*="links"]',
+                    'textarea[placeholder*="http"]',
+                    'textarea',
                     'input[type="url"]',
                     'input[placeholder*="http"]',
                     'input[placeholder*="URL"]',
@@ -353,20 +357,34 @@ async def generate_podcast(
                 await page.wait_for_timeout(poll_interval * 1000)
 
             # 8. Open options menu and download MP3
-            log("Opening audio options menu to download MP3...")
+            # 8. Open options menu on the Studio audio artifact and download MP3
+            log("Locating audio artifact in Studio panel to download MP3...")
+            
+            # Return to Studio root if currently inside a note or subview
+            studio_breadcrumb = page.locator("button:has-text(\"Studio\"), a:has-text(\"Studio\"), span:has-text(\"Studio\")").first
+            if await studio_breadcrumb.is_visible():
+                try:
+                    await studio_breadcrumb.click()
+                    await page.wait_for_timeout(1500)
+                except Exception:
+                    pass
+
+            # Click artifact more options button (button.artifact-more-button)
             menu_selectors = [
+                'button.artifact-more-button',
+                'button[aria-label="More"]',
+                'div:has-text("Deep Dive") ~ * button:has-text("more_vert")',
                 'button[aria-label*="More options"]',
                 'button[aria-label*="更多选项"]',
                 'button:has-text("more_vert")',
-                'mat-icon:has-text("more_vert")',
-                '[data-test-id*="audio-menu"]',
-                'button[aria-label*="Audio menu"]',
-                'button[aria-label*="音频菜单"]'
+                'mat-icon:has-text("more_vert")'
             ]
-            await click_with_fallbacks(page, menu_selectors, description="Audio more options menu", timeout=10000)
+            await click_with_fallbacks(page, menu_selectors, description="Audio artifact more options button", timeout=10000)
             await page.wait_for_timeout(1500)
 
             download_menu_selectors = [
+                '.mat-mdc-menu-content button:has-text("Download")',
+                '.mat-mdc-menu-content button:has-text("下载")',
                 'div[role="menuitem"]:has-text("Download")',
                 'div[role="menuitem"]:has-text("下载")',
                 'button:has-text("Download")',
