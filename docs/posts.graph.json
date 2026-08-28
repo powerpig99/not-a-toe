@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-27T16:33:54.565Z",
+    "generated_at": "2026-08-28T03:19:05.691Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -34,7 +34,7 @@
       "content/posts/closed-reality-in-benchmark-maxing.md": "d57165a32284",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "7623a955955f",
-      "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "7aab1d8dca9e",
+      "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "68e14d743eca",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "5b80b9d897c0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
@@ -117,7 +117,7 @@
       "content/posts/openness-is-consistency.md": "03afcc17003a",
       "content/posts/order-surplus-and-the-moral-intercept.md": "2f9f5444f34a",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
-      "content/posts/ownership-and-self-worthiness.md": "96185ffe6f2b",
+      "content/posts/ownership-and-self-worthiness.md": "7d49db6985d2",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "9f9598e7f790",
@@ -252,16 +252,17 @@
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "4490ab7f0be7",
       "content/posts/zi-you-de-ce-bu-zhun.md": "e1b9fdbf46bd",
+      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "bb9d4c1c3e6c",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 245,
-      "edges": 2512,
-      "unique_directed": 2487,
+      "posts": 246,
+      "edges": 2524,
+      "unique_directed": 2499,
       "missing_targets": 0,
-      "one_way": 421,
+      "one_way": 429,
       "isolated": 36,
-      "posts_with_outbound": 193
+      "posts_with_outbound": 194
     }
   },
   "hubs_in": [
@@ -271,7 +272,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 61
+      "in_degree": 62
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -283,7 +284,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 39
+      "in_degree": 40
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -380,15 +381,15 @@
       "out_degree": 29
     },
     {
+      "slug": "ownership-and-self-worthiness",
+      "out_degree": 29
+    },
+    {
       "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 29
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
-      "out_degree": 28
-    },
-    {
-      "slug": "ownership-and-self-worthiness",
       "out_degree": 28
     },
     {
@@ -734,7 +735,7 @@
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
       "hash": "87c4e018e0d5",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1064,9 +1065,9 @@
       "slug": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "path": "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md",
       "title": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁",
-      "hash": "7aab1d8dca9e",
-      "in_degree": 5,
-      "out_degree": 11,
+      "hash": "68e14d743eca",
+      "in_degree": 6,
+      "out_degree": 12,
       "links_out": [
         "the-mind-that-statistics-cannot-reveal",
         "the-average-is-residue-not-the-engine",
@@ -1075,6 +1076,7 @@
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "guan-yu-gui-yin",
         "the-misallocation-of-agency",
+        "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -1180,7 +1182,7 @@
       "path": "content/posts/curiosity-has-no-final-form.md",
       "title": "Curiosity Has No Final Form",
       "hash": "954585684515",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -1970,7 +1972,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "3cd01360a9be",
-      "in_degree": 61,
+      "in_degree": 62,
       "out_degree": 51,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2807,9 +2809,9 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
-      "hash": "96185ffe6f2b",
-      "in_degree": 39,
-      "out_degree": 28,
+      "hash": "7d49db6985d2",
+      "in_degree": 40,
+      "out_degree": 29,
       "links_out": [
         "failure-as-information",
         "order-surplus-and-the-moral-intercept",
@@ -2819,6 +2821,7 @@
         "residual-control-recedes-to-the-edge",
         "guan-yu-gui-yin",
         "the-generative-contradiction",
+        "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "empowerment-establishes-the-centralization-of-power",
         "liberation-rhetoric-begins-by-defining-captivity",
         "externalized-virtue-becomes-its-opposite",
@@ -3388,7 +3391,7 @@
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "Self-Image Speaks as if from Nowhere",
       "hash": "1b26c8b493df",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 21,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -4011,7 +4014,7 @@
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "The Fixed Image of Transcendence",
       "hash": "7c3ba6ced47b",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5040,7 +5043,7 @@
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "The Scaffolding That Keeps Growing",
       "hash": "cd0ef8c4ec26",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 17,
       "links_out": [
         "openness-is-consistency",
@@ -5481,7 +5484,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -5809,7 +5812,7 @@
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
       "title": "自由的测不准：微观主权、统计涌现与自由意志的佯谬",
       "hash": "e1b9fdbf46bd",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 11,
       "links_out": [
         "causality-all-the-way",
@@ -5823,6 +5826,28 @@
         "ownership-and-self-worthiness",
         "individual-choices-as-the-only-causal-levers",
         "freedom-as-ground"
+      ]
+    },
+    {
+      "id": "post:zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "kind": "post",
+      "slug": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "path": "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md",
+      "title": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择",
+      "hash": "bb9d4c1c3e6c",
+      "in_degree": 2,
+      "out_degree": 10,
+      "links_out": [
+        "the-scaffolding-that-keeps-growing",
+        "what-information-is",
+        "zi-you-de-ce-bu-zhun",
+        "self-image-speaks-as-if-from-nowhere",
+        "the-fixed-image-of-transcendence",
+        "curiosity-has-no-final-form",
+        "causality-all-the-way",
+        "ownership-and-self-worthiness",
+        "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+        "individual-choices-as-the-only-causal-levers"
       ]
     },
     {
@@ -7620,6 +7645,12 @@
       "to": "the-misallocation-of-agency",
       "rel": "points_to",
       "label": "The Misallocation of Agency"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择"
     },
     {
       "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
@@ -12294,6 +12325,12 @@
       "to": "the-generative-contradiction",
       "rel": "points_to",
       "label": "The generative contradiction"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -20880,6 +20917,66 @@
       "to": "freedom-as-ground",
       "rel": "points_to",
       "label": "Freedom as Ground"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准：微观主权、统计涌现与自由意志的佯谬"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-image speaks as if from nowhere"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The fixed image of transcendence"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "Curiosity Has No Final Form"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "从目的性的评判看认知缺失"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",
