@@ -56,4 +56,4 @@
 
 更深层而言，这篇文章对于任何一个作者或读者的真正价值，**从来不在于文本本身给出了多么严丝合缝的静态结论供人阅读或消费；而在于在整个推演与表达的过程中，心智能够不断向自身发起诚实而严厉的递归追问**——“我是不是真的看清了？”“我是不是在潜意识里又偷运了一层隐蔽的评判与优越感？”并在一次次的追问中惊喜地发现：原来自己还可以挖得更深，原来还可以剥离掉更多自欺的滤镜。
 
-正如 [The meaning of life is in the drafting](../the-meaning-of-life-is-in-the-drafting/) 与 [The unobservable driver of learning](../the-unobservable-driver-of-learning/) 所揭示的，写下的文字不过是心智运算留下的静态痕迹，而在这场不依附于外界评价、不断刺痛自身预设、持续拓宽认知边界的动态推演中，第一人称所经历的真实重构，才是任何思维探索中唯一不可剥夺的终极价值。穿透围观与评判的虚妄，在每一次微观决策中持续纠正自身的模型盲区——在这个开放的世界里，唯有你自己，能够重构自己的认知命运。
+正如 [The meaning of life is in the drafting](../the-meaning-of-life-is-in-the-drafting/) 与 [The unobservable driver of learning](../the-unobservable-driver-of-learning/) 所揭示的：**价值永远在于追问与刻画的活体过程（the tracing），而绝非身后留下的静态痕迹（the trace left behind）。** 写下的文字不过是心智运算退出的残影，而在这场不依附于外界评价、不断刺痛自身预设、持续拓宽认知边界的动态推演中，第一人称所经历的真实重构，才是任何思维探索中唯一不可剥夺的终极价值。穿透围观与评判的虚妄，在每一次微观决策中持续纠正自身的模型盲区——在这个开放的世界里，唯有你自己，能够重构自己的认知命运。
