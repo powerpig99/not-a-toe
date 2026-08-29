@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-29T04:35:28.739Z",
+    "generated_at": "2026-08-29T11:37:19.830Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -83,7 +83,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "3cd01360a9be",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "70011c36a8dd",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -235,6 +235,7 @@
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "756eeec4aeef",
+      "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "0c9929094957",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "44869ec76009",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
@@ -259,23 +260,23 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 249,
-      "edges": 2555,
-      "unique_directed": 2530,
+      "posts": 250,
+      "edges": 2562,
+      "unique_directed": 2537,
       "missing_targets": 0,
-      "one_way": 448,
+      "one_way": 453,
       "isolated": 36,
-      "posts_with_outbound": 197
+      "posts_with_outbound": 198
     }
   },
   "hubs_in": [
     {
-      "slug": "openness-is-consistency",
+      "slug": "individual-choices-as-the-only-causal-levers",
       "in_degree": 64
     },
     {
-      "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 63
+      "slug": "openness-is-consistency",
+      "in_degree": 64
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -283,7 +284,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 45
+      "in_degree": 46
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -353,7 +354,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 51
+      "out_degree": 52
     },
     {
       "slug": "openness-is-consistency",
@@ -1181,7 +1182,7 @@
       "path": "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md",
       "title": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则",
       "hash": "c05d0683a3eb",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 5,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1539,7 +1540,7 @@
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "Expertise as Reference, Not Replacement",
       "hash": "9d8bb04e5df0",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 19,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
@@ -2016,9 +2017,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "3cd01360a9be",
-      "in_degree": 63,
-      "out_degree": 51,
+      "hash": "70011c36a8dd",
+      "in_degree": 64,
+      "out_degree": 52,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -2041,6 +2042,7 @@
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
         "public-spending-does-not-create-capital",
+        "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
         "the-coordinators-category-error",
         "the-misallocation-of-agency",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -2500,7 +2502,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
       "hash": "a5c5f59964ed",
-      "in_degree": 45,
+      "in_degree": 46,
       "out_degree": 36,
       "links_out": [
         "openness-is-consistency",
@@ -5351,7 +5353,7 @@
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "The Unobservable Driver of Learning",
       "hash": "1c942a52811f",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 10,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -5444,6 +5446,24 @@
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "the-hard-problem-of-consciousness-is-consistent-with-learning"
+      ]
+    },
+    {
+      "id": "post:tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "kind": "post",
+      "slug": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "path": "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md",
+      "title": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏",
+      "hash": "0c9929094957",
+      "in_degree": 1,
+      "out_degree": 6,
+      "links_out": [
+        "no-system-can-be-kept-closed",
+        "individual-choices-as-the-only-causal-levers",
+        "expertise-as-reference-not-replacement",
+        "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+        "the-unobservable-driver-of-learning",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi"
       ]
     },
     {
@@ -5905,7 +5925,7 @@
       "path": "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md",
       "title": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择",
       "hash": "bb9d4c1c3e6c",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "the-scaffolding-that-keeps-growing",
@@ -10049,6 +10069,12 @@
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
       "label": "Public spending does not create capital"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "rel": "points_to",
+      "label": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -19895,6 +19921,42 @@
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
       "label": "The hard problem of consciousness is consistent with learning"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as reference, not replacement"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The unobservable driver of learning"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则"
     },
     {
       "from": "two-failures-of-trace",
