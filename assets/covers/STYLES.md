@@ -412,6 +412,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi` | Architectural precisionist blueprint & optical crystal lens focusing laser calibration matrix |
 | `tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui` | Radiant golden causal axis anchored in crystalline circuit bedrock vs dissolving zero-sum siphon gear rings |
 | `zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu` | Deep circular stone well chiaroscuro with parabolic mirror reflecting moonlight into golden decision matrix |
+| `the-mark-and-the-act` | Copperplate blueprint intaglio engraving on dark slate with automata channels and incandescent singular origin point |
 
 ## Crowded — prefer not to extend
 
