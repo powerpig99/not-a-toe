@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-28T18:44:39.739Z",
+    "generated_at": "2026-08-29T04:35:28.739Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -35,11 +35,12 @@
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "7623a955955f",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "68e14d743eca",
-      "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "119e4e76a764",
+      "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "e5289fa172f3",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "5b80b9d897c0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
+      "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "c05d0683a3eb",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "6a8035415fba",
       "content/posts/curiosity-has-no-final-form.md": "954585684515",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
@@ -95,7 +96,7 @@
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "634293b4399b",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "a28d3ac84802",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "8c5e0cb04283",
       "content/posts/moral-language-as-projection.md": "949f402a80cd",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "bc4d65cbecdd",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
@@ -258,13 +259,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 248,
-      "edges": 2548,
-      "unique_directed": 2523,
+      "posts": 249,
+      "edges": 2555,
+      "unique_directed": 2530,
       "missing_targets": 0,
-      "one_way": 445,
+      "one_way": 448,
       "isolated": 36,
-      "posts_with_outbound": 196
+      "posts_with_outbound": 197
     }
   },
   "hubs_in": [
@@ -278,7 +279,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 54
+      "in_degree": 55
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -321,15 +322,15 @@
       "in_degree": 26
     },
     {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 26
+    },
+    {
       "slug": "causality-all-the-way",
       "in_degree": 25
     },
     {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "in_degree": 25
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 25
     },
     {
@@ -379,6 +380,10 @@
       "out_degree": 29
     },
     {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "out_degree": 29
+    },
+    {
       "slug": "not-a-theory-of-everything",
       "out_degree": 29
     },
@@ -389,10 +394,6 @@
     {
       "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 29
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "out_degree": 28
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -1091,12 +1092,13 @@
       "slug": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "path": "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md",
       "title": "从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制",
-      "hash": "119e4e76a764",
-      "in_degree": 2,
-      "out_degree": 11,
+      "hash": "e5289fa172f3",
+      "in_degree": 3,
+      "out_degree": 12,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "intelligence-belongs-only-to-the-mind",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "expertise-as-reference-not-replacement",
         "the-scaffolding-that-keeps-growing",
         "no-system-can-be-kept-closed",
@@ -1170,6 +1172,23 @@
       "out_degree": 1,
       "links_out": [
         "the-scaling-loop"
+      ]
+    },
+    {
+      "id": "post:cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "kind": "post",
+      "slug": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "path": "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md",
+      "title": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则",
+      "hash": "c05d0683a3eb",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+        "mistaking-the-expression-for-the-intelligence",
+        "expertise-as-reference-not-replacement",
+        "the-unobservable-driver-of-learning"
       ]
     },
     {
@@ -1520,7 +1539,7 @@
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "Expertise as Reference, Not Replacement",
       "hash": "9d8bb04e5df0",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 19,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
@@ -2061,7 +2080,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "1466549a4396",
-      "in_degree": 54,
+      "in_degree": 55,
       "out_degree": 21,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -2312,9 +2331,9 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
-      "hash": "a28d3ac84802",
-      "in_degree": 25,
-      "out_degree": 28,
+      "hash": "8c5e0cb04283",
+      "in_degree": 26,
+      "out_degree": 29,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "the-unobservable-driver-of-learning",
@@ -2334,6 +2353,7 @@
         "self-rl-for-humans",
         "the-flywheel-of-the-mind",
         "cheng-gong-xue",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "expertise-as-reference-not-replacement",
         "the-reversal-from-defensible-claim-to-dogma",
         "ontos-is-a-method-agent",
@@ -5331,7 +5351,7 @@
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "The Unobservable Driver of Learning",
       "hash": "1c942a52811f",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 10,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -7740,6 +7760,12 @@
     },
     {
       "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
       "label": "Expertise as reference, not replacement"
@@ -7899,6 +7925,36 @@
       "to": "the-scaling-loop",
       "rel": "points_to",
       "label": "The scaling loop"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as reference, not replacement"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The unobservable driver of learning"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -10959,6 +11015,12 @@
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",

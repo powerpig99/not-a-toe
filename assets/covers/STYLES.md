@@ -409,6 +409,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin` | Cracked dark obsidian armor shell bursting open with radiant geometric golden crystal core |
 | `stability-and-excess` | Luminous figure stepping out of framed portrait across vertical light beam into open horizon |
 | `cong-xing-shi-mi-si-dao-luo-ji-bi-huan` | Minimalist split-plane dark wall and optical crystal prism refracting light into geometric crystal shards |
+| `cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi` | Architectural precisionist blueprint & optical crystal lens focusing laser calibration matrix |
 
 ## Crowded — prefer not to extend
 
