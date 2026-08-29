@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-29T16:45:38.583Z",
+    "generated_at": "2026-08-29T19:39:00.826Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -33,7 +33,7 @@
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "618ae4ecd116",
       "content/posts/closed-reality-in-benchmark-maxing.md": "d57165a32284",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
-      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "7623a955955f",
+      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "7565d5a1e4a7",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "68e14d743eca",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "e5289fa172f3",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
@@ -194,6 +194,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-map-after-the-territory.md": "b9882ace9c8c",
+      "content/posts/the-mark-and-the-act.md": "7472a32c538f",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "8a1a6c780055",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "854e6880413d",
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
@@ -261,19 +262,19 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 251,
-      "edges": 2568,
-      "unique_directed": 2543,
+      "posts": 252,
+      "edges": 2577,
+      "unique_directed": 2552,
       "missing_targets": 0,
-      "one_way": 457,
+      "one_way": 464,
       "isolated": 36,
-      "posts_with_outbound": 199
+      "posts_with_outbound": 200
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 64
+      "in_degree": 65
     },
     {
       "slug": "openness-is-consistency",
@@ -281,7 +282,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 55
+      "in_degree": 56
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -1046,9 +1047,9 @@
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "Complexity Obscures: Emergence as the Act of Mind",
-      "hash": "7623a955955f",
-      "in_degree": 20,
-      "out_degree": 12,
+      "hash": "7565d5a1e4a7",
+      "in_degree": 21,
+      "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-flight-analogy-leaves-the-mind-untouched",
@@ -1057,6 +1058,7 @@
         "selection-contradiction-and-open-reality",
         "self-rl-for-humans",
         "data-is-local-intelligence-is-allocated",
+        "the-mark-and-the-act",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "the-artifacts-of-self-amplification",
@@ -2019,7 +2021,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "70011c36a8dd",
-      "in_degree": 64,
+      "in_degree": 65,
       "out_degree": 52,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2083,7 +2085,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "1466549a4396",
-      "in_degree": 55,
+      "in_degree": 56,
       "out_degree": 21,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -3221,7 +3223,7 @@
       "path": "content/posts/rationality-never-travels-across-the-mind.md",
       "title": "Rationality Never Travels Across the Mind",
       "hash": "6d12122abe9d",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 4,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -3968,7 +3970,7 @@
       "path": "content/posts/the-closed-loop-of-representation.md",
       "title": "The Closed Loop of Representation",
       "hash": "82ca9c5ee6cb",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 9,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
@@ -4494,6 +4496,26 @@
         "how-belief-actually-changes",
         "the-meaning-of-life-is-in-the-drafting",
         "expertise-as-reference-not-replacement"
+      ]
+    },
+    {
+      "id": "post:the-mark-and-the-act",
+      "kind": "post",
+      "slug": "the-mark-and-the-act",
+      "path": "content/posts/the-mark-and-the-act.md",
+      "title": "The Mark and the Act",
+      "hash": "7472a32c538f",
+      "in_degree": 1,
+      "out_degree": 8,
+      "links_out": [
+        "complexity-obscures-emergence-as-the-act-of-mind",
+        "intelligence-belongs-only-to-the-mind",
+        "the-closed-loop-of-representation",
+        "when-observation-becomes-performance",
+        "rationality-never-travels-across-the-mind",
+        "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+        "what-information-is",
+        "individual-choices-as-the-only-causal-levers"
       ]
     },
     {
@@ -5575,7 +5597,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -5696,7 +5718,7 @@
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "When Observation Becomes Performance",
       "hash": "730f7c4d9ba0",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 14,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -5884,7 +5906,7 @@
       "path": "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md",
       "title": "止步于评判，是认知的歧途",
       "hash": "bc076ca8b93e",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 5,
       "links_out": [
         "when-observation-becomes-performance",
@@ -7682,6 +7704,12 @@
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
       "label": "Data is local; intelligence is allocated"
+    },
+    {
+      "from": "complexity-obscures-emergence-as-the-act-of-mind",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
     },
     {
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -16892,6 +16920,54 @@
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
       "label": "Expertise as reference, not replacement"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The closed loop of representation"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When observation becomes performance"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "Rationality never travels across the Mind"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "止步于评判，是认知的歧途"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What information is"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
