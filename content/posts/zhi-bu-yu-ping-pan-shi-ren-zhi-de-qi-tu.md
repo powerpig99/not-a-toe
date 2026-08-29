@@ -52,6 +52,6 @@
 
 当观察的矢量不再止步于外部评判，而是折射回第一人称的认知决策循环时，外部案例才具有了真实的转化意义。向外观察只是输入，向内重塑才是产出。
 
-更深层而言，写下这篇文章对我而言的真正价值，**从来不在于给出了一套多么严丝合缝的现成结论，更不是试图将某种想法打包传递给任何外部心智；而仅仅在于在这个第一人称推演与表达的过程中，我能够不断向自身发起诚实而严厉的递归追问**——“我是不是真的看清了？”“我是不是在潜意识里又叠加了一层先验假设与二次评判？”并在一次次的追问中剥离掉更多思维的惯性，完成当下微观边界的真实拓宽。
+更深层而言，这篇文章的真正价值，**从来不在于给出一套多么严丝合缝的静态结论，而在于在这个推演与表达的过程中，心智能够不断向自身发起诚实而严厉的递归追问**——“我是不是真的看清了？”“我是不是在潜意识里又叠加了一层先验假设与二次评判？”并在一次次的追问中剥离掉更多思维的惯性，完成微观边界的真实拓宽。
 
-[Rationality never travels across the Mind](../rationality-never-travels-across-the-mind/) 与 [没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) 确立了认知无法跨主体移植的边界：任何试图向外输出真理的冲动，本质上都是对心智界限的越界与幻觉。正如 [The meaning of life is in the drafting](../the-meaning-of-life-is-in-the-drafting/) 与 [The unobservable driver of learning](../the-unobservable-driver-of-learning/) 所揭示的：**价值永远在于追问与刻画的活体过程（the tracing），而绝非身后留下的静态痕迹（the trace left behind）。** 文本只是思维运动退出的残影，唯有在第一人称内部持续自我校准、不断打破既有预设的活体推演中，认知才得以真正演进。
+正如 [The meaning of life is in the drafting](../the-meaning-of-life-is-in-the-drafting/) 与 [The unobservable driver of learning](../the-unobservable-driver-of-learning/) 所揭示的：**价值永远在于追问与刻画的活体过程（the tracing），而绝非身后留下的静态痕迹（the trace left behind）。** 文本只是思维运动退出的残影，唯有在第一人称内部持续自我校准、不断打破既有预设的活体推演中，认知才得以真正演进。
