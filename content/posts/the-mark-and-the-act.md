@@ -44,6 +44,21 @@ So the agent is a close model of agency as it appears from outside: a bounded lo
 
 The structure that appears from many such steps is therefore not fundamentally different from social structure, and is fundamentally different. Not different: both are residue of micro-acts in a shared field. Different: the human step is a bound not drawn by the prior record; the model step is a draw inside given parameters. The sentence is only a paradox if those two facts are forced onto one axis and asked to vote.
 
+## From binary sampling to stabilized structure: The uncertainty of freedom
+
+This generative trajectory clarifies why identical starting conditions inevitably precipitate stabilized structural hierarchies. At each discrete turn, an agent makes a binary 0-or-1 decision: to execute this atomic action or that one, to retain this local observation in private memory or discard it. [自由的测不准：微观主权、统计涌现与自由意志的佯谬](../zi-you-de-ce-bu-zhun/) models this exact progression:
+
+1. **Microscopic binary bounds (0 or 1):** In any single short cross-section, hundreds of identical agents making independent stochastic choices collectively form a **normal distribution** (Gaussian scatter of movement and exploration across the terrain).
+2. **Temporal self-correlation:** As soon as an action writes a persistent mark into the environment or appends a note to private memory, subsequent choices are no longer independent of earlier ones. Each choice interacts with the trail it and others left behind, creating positive feedback loops.
+3. **Stabilization of structure:** Over repeated cycles, this recursive self-correlation shatters the Gaussian symmetry, precipitating **power-law distributions and persistent structures**—specialized foraging paths, tool reuse lineages, and automated machine controllers that outlast their authors.
+
+The same three-phase dynamic operates across all three domains:
+- In **physics**, microscopic discrete bounds yield thermal Gaussian equilibrium in short cross-sections, but self-correlate over cosmic time into stable macroscopic matter and gravitational wells.
+- In **agent simulations**, identical frozen models yield stochastic exploration initially, but self-correlate through environmental stigmergy into specialized technological controllers and machine lineages.
+- In **human society**, biological individuals sharing a common substrate make sovereign micro-choices that self-correlate into enduring institutions, legal codes, and capital infrastructure.
+
+Structure is neither an external law imposed from above nor a mystical emergent subject; it is the geometric residue of binary choices self-correlating through a field that keeps the marks.
+
 ## Anticipation cannot bind the unnamed
 
 A standing barrier installed in advance of an act must name a form. The unexpected, as unexpected, has no form. “Guard against what cannot be anticipated” joins two demands that cancel. If the effect has no shape, there is nothing to encode. If the effect has a shape, the task is no longer to bind the unnamed. It is to act on a known interface: allow, refuse, redesign, test, accept error at the next step.

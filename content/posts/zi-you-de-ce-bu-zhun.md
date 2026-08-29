@@ -54,7 +54,7 @@
 
 > **总产出 = (1 + δ₁) × (1 + δ₂) × ... × (1 + δₙ)**
 
-随着轮次增加，对称的正态分布被非对称的乘性复利彻底打破，系统在长周期统计中演变为具有极端长尾的幂律分布（Power Law）。[Hierarchy from individual difference](../hierarchy-from-individual-difference/) 与 [Closed assumptions squeeze compounding into S-curves](../closed-assumptions-squeeze-compounding-into-s-curves/) 严密推导了这一几何形态：处于长尾极端的巨大成效，常被外部旁观者神话为“天降横财”、“不可思议的超人意志”或“幸存者偏差的运气”；但从底层因果看，这不过是微观 0/1 决策在持续向内校准后，在数学上自然收敛的必然几何结果。
+随着轮次增加，对称的正态分布被非对称的乘性复利彻底打破，系统在长周期统计中演变为具有极端长尾的幂律分布（Power Law）。[Hierarchy from individual difference](../hierarchy-from-individual-difference/) 与 [Closed assumptions squeeze compounding into S-curves](../closed-assumptions-squeeze-compounding-into-s-curves/) 严密推导了这一几何形态，而 [The Mark and the Act](../the-mark-and-the-act/) 进一步将该机制延伸至多智能体与物理实在：处于长尾极端的巨大成效与沉淀下来的自动化结构，常被外部旁观者神话为“涌现的群体智能”或“集体文明主体”；但从底层因果看，这不过是微观 0/1 决策在多轮自相关与环境留痕中，在数学上自然收敛的必然几何结果。
 
 ## 四、 现实观测的断层陷阱：用二维阴影解释阴影
 
