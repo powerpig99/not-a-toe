@@ -48,13 +48,9 @@
 
 ### 3. 幂律分布的跃迁（自相关迭代与乘性复利）
 
-真实的生命与商业决策，绝非单次独立的抛硬币，而是跨轮次的动态演进过程。个体的后验决策与先验历史具有极强的自相关性。
+真实的生命与商业决策，绝非单次独立的抛硬币，而是跨轮次的动态演进过程。**个体的决策自相关从来不是发生在封闭真空里的单机运算，而是通过与外部物理世界的真实反馈回路（Feedback Loop）来维持的**：行动者运行自身内在逻辑，将动作输出至现实世界，接收现实因果的客观反馈，并据此向内校准内在逻辑。
 
-如果一个个体在每一次微观决策中，始终坚持**向内校准模型、根据现实反馈动态纠错**，这一微小的概率偏置将在多轮迭代中产生不可逆的乘性复利（Multiplicative Compounding）：每一轮校准后的输出都成为下一轮决策的更高基数，演化路径从线性的“加性叠加”跃迁为指数级的“连乘复利”：
-
-> **总产出 = (1 + δ₁) × (1 + δ₂) × ... × (1 + δₙ)**
-
-随着轮次增加，对称的正态分布被非对称的乘性复利彻底打破，系统在长周期统计中演变为具有极端长尾的幂律分布（Power Law）。[Hierarchy from individual difference](../hierarchy-from-individual-difference/) 与 [Closed assumptions squeeze compounding into S-curves](../closed-assumptions-squeeze-compounding-into-s-curves/) 严密推导了这一几何形态，而 [The Mark and the Act](../the-mark-and-the-act/) 进一步将该机制延伸至多智能体与物理实在：处于长尾极端的巨大成效与沉淀下来的自动化结构，常被外部旁观者神话为“涌现的群体智能”或“集体文明主体”；但从底层因果看，这不过是微观 0/1 决策在多轮自相关与环境留痕中，在数学上自然收敛的必然几何结果。
+更关键的是，在多主体交互场域中，持续自我校准的主体（如在环境中造出高效工具与机器的行动者）所沉淀下来的物理痕迹与制度脚手架，会被那些不具备强自纠能力的主体直接复用。校准主体与未校准主体通过共享的环境残迹形成了互补稳定的外部回路。随着轮次增加，对称的正态分布被非对称的乘性复利彻底打破，系统在长周期统计中演变为具有极端长尾的幂律分布（Power Law）。[Hierarchy from individual difference](../hierarchy-from-individual-difference/) 与 [Closed assumptions squeeze compounding into S-curves](../closed-assumptions-squeeze-compounding-into-s-curves/) 严密推导了这一几何形态，而 [The Mark and the Act](../the-mark-and-the-act/) 进一步将该机制延伸至多智能体与物理实在：处于长尾极端的巨大成效与沉淀下来的自动化结构，常被外部旁观者神话为“涌现的群体智能”或“集体文明主体”；但从底层因果看，这不过是微观 0/1 决策在外部反馈回路与环境留痕中，通过自相关与跨主体复用在数学上自然收敛的几何结果。
 
 ## 四、 现实观测的断层陷阱：用二维阴影解释阴影
 
