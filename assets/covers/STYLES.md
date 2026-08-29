@@ -410,7 +410,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `stability-and-excess` | Luminous figure stepping out of framed portrait across vertical light beam into open horizon |
 | `cong-xing-shi-mi-si-dao-luo-ji-bi-huan` | Minimalist split-plane dark wall and optical crystal prism refracting light into geometric crystal shards |
 | `cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi` | Architectural precisionist blueprint & optical crystal lens focusing laser calibration matrix |
-| `tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui` | Minimalist kinetic gold gyroscopic armature projecting closed vector polygon loop through chaotic flux |
+| `tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui` | Radiant golden causal axis anchored in crystalline circuit bedrock vs dissolving zero-sum siphon gear rings |
 
 ## Crowded — prefer not to extend
 
