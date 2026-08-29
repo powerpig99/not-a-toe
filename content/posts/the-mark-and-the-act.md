@@ -46,18 +46,21 @@ The structure that appears from many such steps is therefore not fundamentally d
 
 ## From binary sampling to stabilized structure: The uncertainty of freedom
 
-This generative trajectory clarifies why identical starting conditions inevitably precipitate stabilized structural hierarchies. At each discrete turn, an agent makes a binary 0-or-1 decision: to execute this atomic action or that one, to retain this local observation in private memory or discard it. [自由的测不准：微观主权、统计涌现与自由意志的佯谬](../zi-you-de-ce-bu-zhun/) models this exact progression:
+This generative trajectory clarifies why identical starting conditions inevitably precipitate stabilized structural hierarchies. Crucially, **temporal self-correlation does not occur in an isolated vacuum**. It is sustained and driven by an active **external feedback loop**: an agent runs its internal logic, emits an atomic act into the physical world, receives environmental feedback from deterministic physics, and refines its internal state based on the result.
+
+[自由的测不准：微观主权、统计涌现与自由意志的佯谬](../zi-you-de-ce-bu-zhun/) models how this environmental loop shatters initial symmetry:
 
 1. **Microscopic binary bounds (0 or 1):** In any single short cross-section, hundreds of identical agents making independent stochastic choices collectively form a **normal distribution** (Gaussian scatter of movement and exploration across the terrain).
-2. **Temporal self-correlation:** As soon as an action writes a persistent mark into the environment or appends a note to private memory, subsequent choices are no longer independent of earlier ones. Each choice interacts with the trail it and others left behind, creating positive feedback loops.
-3. **Stabilization of structure:** Over repeated cycles, this recursive self-correlation shatters the Gaussian symmetry, precipitating **power-law distributions and persistent structures**—specialized foraging paths, tool reuse lineages, and automated machine controllers that outlast their authors.
+2. **Environmental feedback and self-correlation:** When an agent acts, it does not merely update its private notebook; it leaves physical residue in the shared world (a cleared path, an assembled machine, an automated controller). The agent tests its proposal against deterministic physics, internalizes the feedback, and calibrates its next step.
+3. **Cross-agent stabilization through shared residue:** Consider two simple agents interacting in this shared field. One agent continuously refines its internal logic through environmental feedback and constructs a functional machine. The second agent may not self-correct, yet by walking past and utilizing the first agent’s persistent tool, the second agent’s behavior becomes passively structured and amplified by the first agent’s successful loop. 
+4. **Precipitation of macro structure:** Over repeated cycles, this reciprocal feedback between heterogeneous decision centers and physical residue shatters the Gaussian symmetry, precipitating **power-law distributions and persistent structures**—specialized division of labor, machine lineages, and self-maintaining infrastructures that outlast their authors.
 
-The same three-phase dynamic operates across all three domains:
-- In **physics**, microscopic discrete bounds yield thermal Gaussian equilibrium in short cross-sections, but self-correlate over cosmic time into stable macroscopic matter and gravitational wells.
-- In **agent simulations**, identical frozen models yield stochastic exploration initially, but self-correlate through environmental stigmergy into specialized technological controllers and machine lineages.
-- In **human society**, biological individuals sharing a common substrate make sovereign micro-choices that self-correlate into enduring institutions, legal codes, and capital infrastructure.
+The same dynamic operates across all three domains:
+- In **physics**, microscopic discrete bounds yield thermal Gaussian equilibrium in short cross-sections, but self-correlate through gravitational and electromagnetic feedback loops into stable macroscopic matter and celestial orbits.
+- In **agent simulations**, identical frozen models yield stochastic exploration initially, but self-correlate through environmental stigmergy and cross-agent machine reuse into specialized technological controllers.
+- In **human society**, biological individuals sharing a common substrate make sovereign micro-choices, emitting actions and receiving consequences; the reciprocal feedback between calibrating individuals and the institutional residue they construct stabilizes markets, legal systems, and capital structures.
 
-Structure is neither an external law imposed from above nor a mystical emergent subject; it is the geometric residue of binary choices self-correlating through a field that keeps the marks.
+Structure is neither an external law imposed from above nor a mystical emergent subject; it is the geometric residue of binary choices self-correlating through environmental feedback loops that keep the marks.
 
 ## Anticipation cannot bind the unnamed
 
