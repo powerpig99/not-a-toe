@@ -416,6 +416,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi` | East Asian sumi-e ink wash landscape on fibrous mulberry paper with bamboo stem glowing with golden biomechanical stress vectors and capillary fluid channels |
 | `yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo` | High-contrast macro crystalline realism on textured dark slate with incandescent golden snowflake crystal floating before cascading alpine avalanche |
 | `tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian` | Precisionist amber-obsidian hypercube sculpture casting cascading geometric 2D shadow projections onto dark limestone steps with vertical golden laser causal axis |
+| `zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan` | Kinetic chronometer instrument with central golden needle pivot casting coherent light into quantum orbital cloud and etched silicon binary micro-circuit grid on dark brushed graphite |
 
 ## Crowded — prefer not to extend
 

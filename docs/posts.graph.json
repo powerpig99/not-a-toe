@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-30T13:19:08.962Z",
+    "generated_at": "2026-08-30T15:04:11.310Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -237,7 +237,7 @@
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "756eeec4aeef",
-      "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "f62d9505c848",
+      "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "6e8311fe3321",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "4a8d0a1b5a8c",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "44869ec76009",
@@ -260,24 +260,25 @@
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "14e64a360be4",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "4490ab7f0be7",
+      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "0e7aa5b34784",
       "content/posts/zi-you-de-ce-bu-zhun.md": "e6f717651a1a",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "bb9d4c1c3e6c",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 255,
-      "edges": 2606,
-      "unique_directed": 2580,
+      "posts": 256,
+      "edges": 2612,
+      "unique_directed": 2586,
       "missing_targets": 0,
-      "one_way": 484,
+      "one_way": 488,
       "isolated": 36,
-      "posts_with_outbound": 203
+      "posts_with_outbound": 204
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 68
+      "in_degree": 69
     },
     {
       "slug": "openness-is-consistency",
@@ -336,6 +337,10 @@
       "in_degree": 26
     },
     {
+      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
+      "in_degree": 25
+    },
+    {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "in_degree": 25
     },
@@ -349,10 +354,6 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 25
-    },
-    {
-      "slug": "the-scaffolding-that-keeps-growing",
       "in_degree": 25
     }
   ],
@@ -1051,7 +1052,7 @@
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "Complexity Obscures: Emergence as the Act of Mind",
       "hash": "7565d5a1e4a7",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2046,7 +2047,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "c6a1de45c459",
-      "in_degree": 68,
+      "in_degree": 69,
       "out_degree": 53,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -5504,11 +5505,12 @@
       "slug": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "path": "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md",
       "title": "投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构",
-      "hash": "f62d9505c848",
-      "in_degree": 1,
-      "out_degree": 8,
+      "hash": "6e8311fe3321",
+      "in_degree": 2,
+      "out_degree": 9,
       "links_out": [
         "what-information-is",
+        "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
@@ -5644,7 +5646,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -5905,7 +5907,7 @@
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错",
       "hash": "d62c94f006e9",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "the-mark-and-the-act",
@@ -6000,6 +6002,23 @@
         "curiosity-has-no-final-form",
         "intelligence-belongs-only-to-the-mind",
         "token-efficiency-emulation-and-the-unclosable-gap"
+      ]
+    },
+    {
+      "id": "post:zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "kind": "post",
+      "slug": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
+      "title": "自由变量的同构与先验主权：量子、比特与微观选择",
+      "hash": "0e7aa5b34784",
+      "in_degree": 1,
+      "out_degree": 5,
+      "links_out": [
+        "what-information-is",
+        "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+        "complexity-obscures-emergence-as-the-act-of-mind",
+        "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+        "individual-choices-as-the-only-causal-levers"
       ]
     },
     {
@@ -20164,6 +20183,12 @@
     },
     {
       "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "自由变量的同构与先验主权"
+    },
+    {
+      "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity Obscures: Emergence as the Act of Mind"
@@ -21535,6 +21560,36 @@
       "to": "what-information-is",
       "rel": "points_to",
       "label": "What Information Is"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What information is"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "rel": "points_to",
+      "label": "投影的阶梯与因果的锚点"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
