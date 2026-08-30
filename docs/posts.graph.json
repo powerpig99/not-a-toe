@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-30T03:46:42.515Z",
+    "generated_at": "2026-08-30T03:49:14.883Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -68,6 +68,7 @@
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "201a8b10935b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "349bd3fc8b70",
+      "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "8e56c2c2156c",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "d43109f0b737",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "a170edfe2e69",
@@ -255,26 +256,26 @@
       "content/posts/you-cant-benchmark-the-fluid.md": "cc314ae189a8",
       "content/posts/you-tiao-jian-de-zi-you.md": "8ecb6c44441c",
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
-      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "bc076ca8b93e",
+      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "14e64a360be4",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "4490ab7f0be7",
       "content/posts/zi-you-de-ce-bu-zhun.md": "e6f717651a1a",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "bb9d4c1c3e6c",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 252,
-      "edges": 2579,
-      "unique_directed": 2554,
+      "posts": 253,
+      "edges": 2589,
+      "unique_directed": 2564,
       "missing_targets": 0,
-      "one_way": 464,
+      "one_way": 472,
       "isolated": 36,
-      "posts_with_outbound": 200
+      "posts_with_outbound": 201
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 65
+      "in_degree": 66
     },
     {
       "slug": "openness-is-consistency",
@@ -317,6 +318,10 @@
       "in_degree": 27
     },
     {
+      "slug": "causality-all-the-way",
+      "in_degree": 26
+    },
+    {
       "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 26
     },
@@ -327,10 +332,6 @@
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 26
-    },
-    {
-      "slug": "causality-all-the-way",
-      "in_degree": 25
     },
     {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -741,7 +742,7 @@
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
       "hash": "87c4e018e0d5",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1048,7 +1049,7 @@
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "Complexity Obscures: Emergence as the Act of Mind",
       "hash": "7565d5a1e4a7",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1097,7 +1098,7 @@
       "path": "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md",
       "title": "从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制",
       "hash": "e5289fa172f3",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 12,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -1185,7 +1186,7 @@
       "path": "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md",
       "title": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则",
       "hash": "c05d0683a3eb",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 5,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1727,6 +1728,27 @@
       ]
     },
     {
+      "id": "post:ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "kind": "post",
+      "slug": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "path": "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md",
+      "title": "格物致知与信息复杂度的本质：从第三人称凝视到具身因果推演",
+      "hash": "8e56c2c2156c",
+      "in_degree": 1,
+      "out_degree": 9,
+      "links_out": [
+        "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+        "the-closed-loop-of-representation",
+        "what-information-is",
+        "complexity-obscures-emergence-as-the-act-of-mind",
+        "the-mark-and-the-act",
+        "causality-all-the-way",
+        "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+        "individual-choices-as-the-only-causal-levers"
+      ]
+    },
+    {
       "id": "post:good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "kind": "post",
       "slug": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -2021,7 +2043,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "70011c36a8dd",
-      "in_degree": 65,
+      "in_degree": 66,
       "out_degree": 52,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -3970,7 +3992,7 @@
       "path": "content/posts/the-closed-loop-of-representation.md",
       "title": "The Closed Loop of Representation",
       "hash": "82ca9c5ee6cb",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 9,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
@@ -4505,7 +4527,7 @@
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "The Mark and the Act",
       "hash": "b0ee6df318ab",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -5598,7 +5620,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -5906,13 +5928,14 @@
       "slug": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "path": "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md",
       "title": "止步于评判，是认知的歧途",
-      "hash": "bc076ca8b93e",
-      "in_degree": 2,
-      "out_degree": 5,
+      "hash": "14e64a360be4",
+      "in_degree": 3,
+      "out_degree": 6,
       "links_out": [
         "when-observation-becomes-performance",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+        "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "the-meaning-of-life-is-in-the-drafting",
         "the-unobservable-driver-of-learning"
       ]
@@ -9308,6 +9331,60 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "止步于评判，是认知的歧途"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The closed loop of representation"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What information is"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality all the way"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "从形式迷思到逻辑闭环"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -21242,6 +21319,12 @@
       "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "rel": "points_to",
       "label": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "rel": "points_to",
+      "label": "格物致知与信息复杂度的本质"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
