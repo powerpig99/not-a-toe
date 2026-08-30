@@ -414,6 +414,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu` | Deep circular stone well chiaroscuro with parabolic mirror reflecting moonlight into golden decision matrix |
 | `the-mark-and-the-act` | Copperplate blueprint intaglio engraving on dark slate with automata channels and incandescent singular origin point |
 | `ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi` | East Asian sumi-e ink wash landscape on fibrous mulberry paper with bamboo stem glowing with golden biomechanical stress vectors and capillary fluid channels |
+| `yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo` | High-contrast macro crystalline realism on textured dark slate with incandescent golden snowflake crystal floating before cascading alpine avalanche |
 
 ## Crowded — prefer not to extend
 
