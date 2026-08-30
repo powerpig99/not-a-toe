@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-30T16:14:25.659Z",
+    "generated_at": "2026-08-30T16:31:58.682Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -67,6 +67,7 @@
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "201a8b10935b",
+      "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "38987a133587",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "349bd3fc8b70",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "70fb5346d4d6",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "d43109f0b737",
@@ -260,19 +261,19 @@
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "14e64a360be4",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "4490ab7f0be7",
-      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "7490fea54b7a",
+      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "bcba0c108125",
       "content/posts/zi-you-de-ce-bu-zhun.md": "e6f717651a1a",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "bb9d4c1c3e6c",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 256,
-      "edges": 2612,
-      "unique_directed": 2586,
+      "posts": 257,
+      "edges": 2617,
+      "unique_directed": 2591,
       "missing_targets": 0,
-      "one_way": 488,
+      "one_way": 491,
       "isolated": 36,
-      "posts_with_outbound": 204
+      "posts_with_outbound": 205
     }
   },
   "hubs_in": [
@@ -1189,7 +1190,7 @@
       "path": "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md",
       "title": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则",
       "hash": "c05d0683a3eb",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1711,6 +1712,22 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "openness-is-consistency"
+      ]
+    },
+    {
+      "id": "post:gao-wei-xin-xi-de-li-san-zhe-she",
+      "kind": "post",
+      "slug": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "path": "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md",
+      "title": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜",
+      "hash": "38987a133587",
+      "in_degree": 1,
+      "out_degree": 4,
+      "links_out": [
+        "what-information-is",
+        "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+        "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian"
       ]
     },
     {
@@ -5506,7 +5523,7 @@
       "path": "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md",
       "title": "投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构",
       "hash": "6e8311fe3321",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "what-information-is",
@@ -5646,7 +5663,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -6010,15 +6027,16 @@
       "slug": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权：量子、比特与微观选择",
-      "hash": "7490fea54b7a",
-      "in_degree": 1,
-      "out_degree": 5,
+      "hash": "bcba0c108125",
+      "in_degree": 2,
+      "out_degree": 6,
       "links_out": [
         "what-information-is",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
-        "individual-choices-as-the-only-causal-levers"
+        "individual-choices-as-the-only-causal-levers",
+        "gao-wei-xin-xi-de-li-san-zhe-she"
       ]
     },
     {
@@ -9362,6 +9380,30 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What information is"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "自由变量的同构与先验主权：量子、比特与微观选择"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "rel": "points_to",
+      "label": "投影的阶梯与因果的锚点"
     },
     {
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
@@ -21590,6 +21632,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "高维信息的离散折射与认知分层"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
