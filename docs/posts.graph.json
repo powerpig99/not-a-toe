@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-30T04:07:54.679Z",
+    "generated_at": "2026-08-30T09:31:57.678Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -84,7 +84,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "70011c36a8dd",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "c6a1de45c459",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -253,6 +253,7 @@
       "content/posts/why-mathematics-can-never-be-solved.md": "99a49d1f0dea",
       "content/posts/writing-without-the-image.md": "9009b34790ea",
       "content/posts/xian-shi-de-bian-jie.md": "688efb757303",
+      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "fb18486d7c60",
       "content/posts/you-cant-benchmark-the-fluid.md": "cc314ae189a8",
       "content/posts/you-tiao-jian-de-zi-you.md": "8ecb6c44441c",
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
@@ -263,19 +264,19 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 253,
-      "edges": 2589,
-      "unique_directed": 2564,
+      "posts": 254,
+      "edges": 2596,
+      "unique_directed": 2571,
       "missing_targets": 0,
-      "one_way": 472,
+      "one_way": 477,
       "isolated": 36,
-      "posts_with_outbound": 201
+      "posts_with_outbound": 202
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 66
+      "in_degree": 67
     },
     {
       "slug": "openness-is-consistency",
@@ -357,7 +358,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 52
+      "out_degree": 53
     },
     {
       "slug": "openness-is-consistency",
@@ -1049,7 +1050,7 @@
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "Complexity Obscures: Emergence as the Act of Mind",
       "hash": "7565d5a1e4a7",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1717,7 +1718,7 @@
       "path": "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md",
       "title": "个人选择：社会化与做自己的真正坐标",
       "hash": "349bd3fc8b70",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 5,
       "links_out": [
         "freedom-as-ground",
@@ -1734,7 +1735,7 @@
       "path": "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md",
       "title": "格物致知与信息复杂度的本质：从第三人称凝视到具身因果推演",
       "hash": "a742a5dda22c",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 9,
       "links_out": [
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
@@ -2042,9 +2043,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "70011c36a8dd",
-      "in_degree": 66,
-      "out_degree": 52,
+      "hash": "c6a1de45c459",
+      "in_degree": 67,
+      "out_degree": 53,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -2063,6 +2064,7 @@
         "fate-loves-irony-refined",
         "the-myth-of-population-collapse-explained",
         "ownership-and-self-worthiness",
+        "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "price-as-utterance-understanding-as-trade",
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
@@ -4527,7 +4529,7 @@
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "The Mark and the Act",
       "hash": "b0ee6df318ab",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 9,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -5501,7 +5503,7 @@
       "path": "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md",
       "title": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏",
       "hash": "4a8d0a1b5a8c",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -5872,6 +5874,24 @@
         "why-mathematics-can-never-be-solved",
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng"
+      ]
+    },
+    {
+      "id": "post:yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "kind": "post",
+      "slug": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
+      "title": "涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错",
+      "hash": "fb18486d7c60",
+      "in_degree": 1,
+      "out_degree": 6,
+      "links_out": [
+        "individual-choices-as-the-only-causal-levers",
+        "the-mark-and-the-act",
+        "complexity-obscures-emergence-as-the-act-of-mind",
+        "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+        "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+        "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi"
       ]
     },
     {
@@ -10171,6 +10191,12 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21229,6 +21255,42 @@
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
       "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "rel": "points_to",
+      "label": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "个人选择：社会化与做自己的真正坐标"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "rel": "points_to",
+      "label": "格物致知与信息复杂度的本质"
     },
     {
       "from": "you-cant-benchmark-the-fluid",
