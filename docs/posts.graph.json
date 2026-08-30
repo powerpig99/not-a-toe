@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-30T11:01:07.305Z",
+    "generated_at": "2026-08-30T11:02:37.738Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -253,7 +253,7 @@
       "content/posts/why-mathematics-can-never-be-solved.md": "99a49d1f0dea",
       "content/posts/writing-without-the-image.md": "9009b34790ea",
       "content/posts/xian-shi-de-bian-jie.md": "688efb757303",
-      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "ffd5f063323a",
+      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "6ebf5097fa72",
       "content/posts/you-cant-benchmark-the-fluid.md": "cc314ae189a8",
       "content/posts/you-tiao-jian-de-zi-you.md": "8ecb6c44441c",
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
@@ -265,7 +265,7 @@
     },
     "stats": {
       "posts": 254,
-      "edges": 2596,
+      "edges": 2597,
       "unique_directed": 2571,
       "missing_targets": 0,
       "one_way": 477,
@@ -5882,7 +5882,7 @@
       "slug": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错",
-      "hash": "ffd5f063323a",
+      "hash": "6ebf5097fa72",
       "in_degree": 1,
       "out_degree": 6,
       "links_out": [
@@ -21261,6 +21261,12 @@
       "to": "the-mark-and-the-act",
       "rel": "points_to",
       "label": "The Mark and the Act"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
