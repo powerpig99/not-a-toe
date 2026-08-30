@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-30T15:10:53.881Z",
+    "generated_at": "2026-08-30T15:13:09.517Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -260,7 +260,7 @@
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "14e64a360be4",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "4490ab7f0be7",
-      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "6634a2061451",
+      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "9362fd587f6b",
       "content/posts/zi-you-de-ce-bu-zhun.md": "e6f717651a1a",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "bb9d4c1c3e6c",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
@@ -6010,7 +6010,7 @@
       "slug": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权：量子、比特与微观选择",
-      "hash": "6634a2061451",
+      "hash": "9362fd587f6b",
       "in_degree": 1,
       "out_degree": 5,
       "links_out": [
