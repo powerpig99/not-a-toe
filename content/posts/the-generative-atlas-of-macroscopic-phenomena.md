@@ -4,30 +4,17 @@
 
 Across every domain of inquiry, human cognition tends to be hypnotized by massive macroscopic structures—treating physical laws, markets, biological evolution, and computer simulations as independent, top-down entities. Yet from an epistemological first-principles standpoint, **every macroscopic phenomenon is strictly the emergent consequence of micro free variables interacting under pure logic and causality**. Physical laws themselves are not pre-existing metaphysical containers, but the emergent macroscopic manifestations of quantum effects interacting through logic over time. Furthermore, computation and digital simulation reveal their strictly secondary nature, as both their initial bit configurations and their algorithmic transition rules are direct artifacts of human individual choices. Deconstructing this hierarchical isomorphism shatters the teleological illusions that plague modern thought and restores causal sovereignty to the micro act.
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│                    The Generative Hierarchy of Emergence under Pure Logic                   │
-├──────────────┬────────────────────────┬─────────────────────────┬───────────────────────────┤
-│ Stratum      │ Micro Free Variable    │ Governing Grammar       │ Emergent Macro Phenomenon │
-├──────────────┼────────────────────────┼─────────────────────────┼───────────────────────────┤
-│ 1. Physical  │ Quantum Effects        │ Pure Logic & Causality  │ Physical Laws, Spacetime, │
-│    Nature    │ (The Ultimate Variable)│ (Auto/Cross-Correlation)│ Chemistry, Life, Evolution│
-├──────────────┼────────────────────────┼─────────────────────────┼───────────────────────────┤
-│ 2. Human     │ Individual Free Choice │ Pure Logic & Causality  │ Markets, Cultures, Law,   │
-│    Society   │ (First-Person Agency)  │ (Scarcity, Incentives)  │ Institutions, History     │
-├──────────────┼────────────────────────┼─────────────────────────┼───────────────────────────┤
-│ 3. Compute & │ Bit States (0 / 1)     │ Human-Defined Logic     │ Virtual Worlds, AI Models,│
-│    Sims      │ (Secondary Construct)  │ (Code & Architectures)  │ Synthetic Ecosystems      │
-└──────────────┴────────────────────────┴─────────────────────────┴───────────────────────────┘
-```
+| Stratum | Micro Free Variable | Governing Grammar | Emergent Macro Phenomenon |
+| :--- | :--- | :--- | :--- |
+| **1. Physical Nature** | Quantum Effects *(The Ultimate Variable)* | Pure Logic & Causality *(Auto/Cross-Correlation)* | Physical Laws, Spacetime, Chemistry, Life, Evolution |
+| **2. Human Society** | Individual Free Choice *(First-Person Agency)* | Pure Logic & Causality *(Scarcity, Incentives)* | Markets, Cultures, Law, Institutions, History |
+| **3. Compute & Sims** | Bit States (0 / 1) *(Secondary Construct)* | Human-Defined Logic *(Code & Architectures)* | Virtual Worlds, AI Models, Synthetic Ecosystems |
 
 ## The Universal Generative Triad: First Principles vs. Operational Shorthands
 
 At the absolute foundation of reality, all macroscopic phenomena can be traced back to an invariant first-principles formula:
 
-```text
-Macro Phenomenon = Micro Free Variable × Pure Logic & Causality × Temporal Interaction
-```
+> **Macro Phenomenon** = Micro Free Variable × Pure Causal Constraints × Temporal Evolution
 
 This tripartite relationship identifies the absolute terminus of reductionism:
 
