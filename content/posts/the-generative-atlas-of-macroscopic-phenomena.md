@@ -54,6 +54,7 @@ Acknowledging this boundary is not a retreat into solipsism, but the bedrock of 
 It is essential to clarify that **tracing reality to its ultimate origin is not a demand that we must compute every practical problem from quantum wavefunctions**.
 
 In physics, engineering, economics, and everyday life, higher-level macroscopic theories and shorthand heuristics are indispensable:
+
 * An aeronautical engineer designing an airplane uses classical fluid dynamics, not quantum electrodynamics;
 * A navigator uses celestial mechanics and geometry without needing to account for subatomic particles;
 * A participant in the market uses price signals and contractual logic without needing a psychological treatise on every counterparty.
@@ -67,6 +68,7 @@ The purpose of establishing this generative atlas is not to disqualify useful do
 Understanding the generative hierarchy reveals why computation and digital simulations are **strictly secondary derivatives** rather than fundamental standalone realms.
 
 In a computer simulation or AI network:
+
 1. **The Initial Bit States (0 and 1)**: Do not assemble spontaneously in the wild; their initial conditions are deliberately configured by human individual choices;
 2. **The Transition Rules & Logic Gates**: The Boolean operators (AND, OR, NOT), instruction sets, and algorithmic architectures are explicitly designed and chosen by human conscious agents.
 
