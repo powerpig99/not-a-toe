@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-31T10:49:11.184Z",
+    "generated_at": "2026-08-31T17:39:09.111Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -50,7 +50,7 @@
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "9a36021499af",
       "content/posts/e-shi-feng-bi-de-shan.md": "9696809c12b7",
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
-      "content/posts/emotional-support-as-causal-interference.md": "dfa5e6a10207",
+      "content/posts/emotional-support-as-causal-interference.md": "8492f8158e6b",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "959b8be4d763",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
@@ -73,6 +73,7 @@
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "d43109f0b737",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "a170edfe2e69",
+      "content/posts/guidance-is-not-ownership.md": "d0eaa6580860",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "33876b76477c",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
@@ -271,19 +272,19 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 261,
-      "edges": 2653,
-      "unique_directed": 2626,
+      "posts": 262,
+      "edges": 2662,
+      "unique_directed": 2635,
       "missing_targets": 0,
-      "one_way": 518,
+      "one_way": 525,
       "isolated": 36,
-      "posts_with_outbound": 209
+      "posts_with_outbound": 210
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 70
+      "in_degree": 71
     },
     {
       "slug": "openness-is-consistency",
@@ -299,7 +300,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 40
+      "in_degree": 41
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -1382,11 +1383,12 @@
       "slug": "emotional-support-as-causal-interference",
       "path": "content/posts/emotional-support-as-causal-interference.md",
       "title": "Emotional Support as Causal Interference",
-      "hash": "dfa5e6a10207",
-      "in_degree": 7,
-      "out_degree": 5,
+      "hash": "8492f8158e6b",
+      "in_degree": 8,
+      "out_degree": 6,
       "links_out": [
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "guidance-is-not-ownership",
         "when-the-effect-authors-the-frame",
         "therapy-opens-the-feedback-loop",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -1829,6 +1831,26 @@
       ]
     },
     {
+      "id": "post:guidance-is-not-ownership",
+      "kind": "post",
+      "slug": "guidance-is-not-ownership",
+      "path": "content/posts/guidance-is-not-ownership.md",
+      "title": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control",
+      "hash": "d0eaa6580860",
+      "in_degree": 1,
+      "out_degree": 8,
+      "links_out": [
+        "the-generative-atlas-of-macroscopic-phenomena",
+        "sympathy-is-a-placeholder-for-lack-of-clarity",
+        "individual-choices-as-the-only-causal-levers",
+        "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+        "emotional-support-as-causal-interference",
+        "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+        "ownership-and-self-worthiness",
+        "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai"
+      ]
+    },
+    {
       "id": "post:hardness-is-not-inherent-in-the-action",
       "kind": "post",
       "slug": "hardness-is-not-inherent-in-the-action",
@@ -2069,7 +2091,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "c6a1de45c459",
-      "in_degree": 70,
+      "in_degree": 71,
       "out_degree": 53,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2929,7 +2951,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "7d49db6985d2",
-      "in_degree": 40,
+      "in_degree": 41,
       "out_degree": 29,
       "links_out": [
         "failure-as-information",
@@ -3761,7 +3783,7 @@
       "path": "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md",
       "title": "Sympathy Is a Placeholder for Lack of Clarity",
       "hash": "dbef12959442",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
@@ -4279,7 +4301,7 @@
       "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
       "title": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction",
       "hash": "3193b257409a",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 10,
       "links_out": [
         "what-information-is",
@@ -5682,7 +5704,7 @@
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因：个人进步的障碍",
       "hash": "44869ec76009",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -6010,7 +6032,7 @@
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错",
       "hash": "d62c94f006e9",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 6,
       "links_out": [
         "the-mark-and-the-act",
@@ -6114,7 +6136,7 @@
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权：量子、比特与微观选择",
       "hash": "47997131057e",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 7,
       "links_out": [
         "what-information-is",
@@ -8618,6 +8640,12 @@
     },
     {
       "from": "emotional-support-as-causal-interference",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
       "label": "When the effect authors the frame"
@@ -9701,6 +9729,54 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "rel": "points_to",
+      "label": "Sympathy is a placeholder for lack of clarity"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "自由变量的同构与先验主权：量子、比特与微观选择"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional support as causal interference"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果与集体归因倒错：从雪崩、盲从到第一人称因果自洽"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因：个人进步的障碍"
     },
     {
       "from": "hardness-is-not-inherent-in-the-action",
