@@ -420,6 +420,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `gao-wei-xin-xi-de-li-san-zhe-she` | Architectural precisionist optical crystal prism suspended in minimalist dark graphite space refracting golden light beam into distinct dimensional spectrum layers on limestone reflections |
 | `the-geometry-of-success` | Architectural cartographic blueprint and illuminated topological engraving on dark slate with crowded labyrinth geometric cage and solitary luminous pathfinder walking into open mountain terrain |
 | `lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun` | Kinetic precisionist astronomical gyroscope and fractured dark obsidian mirrors on textured dark slate with solitary incandescent golden walker striding along curving horizon holding golden plumb-line |
+| `shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi` | High-contrast dark obsidian camera obscura aperture and toroidal luminous geometry on brushed graphite with central golden fractal core radiating coherent self-contained diffusion field |
 
 ## Crowded — prefer not to extend
 

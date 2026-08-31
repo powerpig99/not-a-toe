@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-31T03:57:43.062Z",
+    "generated_at": "2026-08-31T05:42:42.537Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -93,7 +93,7 @@
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "94b96cd84d20",
       "content/posts/looping-and-graphing.md": "b2acdecafde8",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "9d0c48e7550c",
-      "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "7a0f8f768456",
+      "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "902922e94044",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "7fddde85b53e",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "634293b4399b",
@@ -152,6 +152,7 @@
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "32af5139e074",
       "content/posts/shared-humanity-is-never-shared.md": "f4eb8c469df7",
+      "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "8fa1bc209757",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "7052251d0a3c",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
@@ -269,13 +270,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 259,
-      "edges": 2633,
-      "unique_directed": 2607,
+      "posts": 260,
+      "edges": 2641,
+      "unique_directed": 2615,
       "missing_targets": 0,
-      "one_way": 503,
+      "one_way": 509,
       "isolated": 36,
-      "posts_with_outbound": 207
+      "posts_with_outbound": 208
     }
   },
   "hubs_in": [
@@ -842,7 +843,7 @@
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学: Theories After Success, Mistaken for Theories Leading to Success",
       "hash": "78e8cf1ffc50",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 15,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -1724,7 +1725,7 @@
       "path": "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md",
       "title": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜",
       "hash": "6fe0648263fc",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 4,
       "links_out": [
         "what-information-is",
@@ -2296,14 +2297,15 @@
       "slug": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "path": "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md",
       "title": "路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎",
-      "hash": "7a0f8f768456",
-      "in_degree": 1,
-      "out_degree": 6,
+      "hash": "902922e94044",
+      "in_degree": 2,
+      "out_degree": 7,
       "links_out": [
         "the-mark-and-the-act",
         "climbing-does-not-leave-the-ground",
         "the-geometry-of-success",
         "cheng-gong-xue",
+        "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
         "gao-wei-xin-xi-de-li-san-zhe-she",
         "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi"
       ]
@@ -3617,6 +3619,25 @@
       ]
     },
     {
+      "id": "post:shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "kind": "post",
+      "slug": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "path": "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md",
+      "title": "收不回的目光与知识的因果倒置：从注意力匮乏到结构的自然扩散",
+      "hash": "8fa1bc209757",
+      "in_degree": 1,
+      "out_degree": 7,
+      "links_out": [
+        "gao-wei-xin-xi-de-li-san-zhe-she",
+        "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+        "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+        "the-geometry-of-success",
+        "cheng-gong-xue",
+        "the-mark-and-the-act",
+        "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan"
+      ]
+    },
+    {
       "id": "post:simplicity-ultimate-sophistication",
       "kind": "post",
       "slug": "simplicity-ultimate-sophistication",
@@ -4276,7 +4297,7 @@
       "path": "content/posts/the-geometry-of-success.md",
       "title": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\"",
       "hash": "9b4a467d58a1",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "cheng-gong-xue",
@@ -4591,7 +4612,7 @@
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "The Mark and the Act",
       "hash": "b0ee6df318ab",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 9,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -5565,7 +5586,7 @@
       "path": "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md",
       "title": "投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构",
       "hash": "6e8311fe3321",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 9,
       "links_out": [
         "what-information-is",
@@ -6070,7 +6091,7 @@
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权：量子、比特与微观选择",
       "hash": "bcba0c108125",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "what-information-is",
@@ -11075,6 +11096,12 @@
     },
     {
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "rel": "points_to",
+      "label": "收不回的目光与知识的因果倒置：从注意力匮乏到结构的自然扩散"
+    },
+    {
+      "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "to": "gao-wei-xin-xi-de-li-san-zhe-she",
       "rel": "points_to",
       "label": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜"
@@ -14900,6 +14927,48 @@
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
       "label": "The real lesson from the consciousness vector paper"
+    },
+    {
+      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜"
+    },
+    {
+      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "rel": "points_to",
+      "label": "路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎"
+    },
+    {
+      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "rel": "points_to",
+      "label": "投影的阶梯与因果的锚点"
+    },
+    {
+      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\""
+    },
+    {
+      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
+    },
+    {
+      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
+      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "自由变量的同构与先验主权：量子、比特与微观选择"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
