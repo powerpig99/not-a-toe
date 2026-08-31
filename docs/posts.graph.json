@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-31T05:49:14.954Z",
+    "generated_at": "2026-08-31T05:53:38.333Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -152,7 +152,7 @@
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "32af5139e074",
       "content/posts/shared-humanity-is-never-shared.md": "f4eb8c469df7",
-      "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "0c19791375bd",
+      "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "2487e63c416f",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "7052251d0a3c",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
@@ -271,10 +271,10 @@
     },
     "stats": {
       "posts": 260,
-      "edges": 2641,
-      "unique_directed": 2615,
+      "edges": 2638,
+      "unique_directed": 2612,
       "missing_targets": 0,
-      "one_way": 509,
+      "one_way": 506,
       "isolated": 36,
       "posts_with_outbound": 208
     }
@@ -843,7 +843,7 @@
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学: Theories After Success, Mistaken for Theories Leading to Success",
       "hash": "78e8cf1ffc50",
-      "in_degree": 17,
+      "in_degree": 16,
       "out_degree": 15,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -929,7 +929,7 @@
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "Climbing Does Not Leave the Ground",
       "hash": "5728e783fe80",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1725,7 +1725,7 @@
       "path": "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md",
       "title": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜",
       "hash": "6fe0648263fc",
-      "in_degree": 4,
+      "in_degree": 3,
       "out_degree": 4,
       "links_out": [
         "what-information-is",
@@ -3623,18 +3623,15 @@
       "kind": "post",
       "slug": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
       "path": "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md",
-      "title": "收不回的目光与知识的因果倒置：从注意力匮乏到结构的自然扩散",
-      "hash": "0c19791375bd",
+      "title": "选择看见而非搜寻影子：从注意力的因果错位到知识的自然扩散",
+      "hash": "2487e63c416f",
       "in_degree": 1,
-      "out_degree": 7,
+      "out_degree": 4,
       "links_out": [
-        "gao-wei-xin-xi-de-li-san-zhe-she",
-        "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
-        "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
-        "the-geometry-of-success",
-        "cheng-gong-xue",
         "the-mark-and-the-act",
-        "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan"
+        "climbing-does-not-leave-the-ground",
+        "the-geometry-of-success",
+        "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun"
       ]
     },
     {
@@ -5586,7 +5583,7 @@
       "path": "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md",
       "title": "投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构",
       "hash": "6e8311fe3321",
-      "in_degree": 4,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "what-information-is",
@@ -6091,7 +6088,7 @@
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权：量子、比特与微观选择",
       "hash": "bcba0c108125",
-      "in_degree": 4,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "what-information-is",
@@ -14930,21 +14927,15 @@
     },
     {
       "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
-      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "the-mark-and-the-act",
       "rel": "points_to",
-      "label": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜"
+      "label": "The Mark and the Act"
     },
     {
       "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
-      "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎"
-    },
-    {
-      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
-      "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
-      "rel": "points_to",
-      "label": "投影的阶梯与因果的锚点"
+      "label": "Climbing does not leave the ground"
     },
     {
       "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
@@ -14954,21 +14945,9 @@
     },
     {
       "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
-      "to": "cheng-gong-xue",
+      "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "rel": "points_to",
-      "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
-    },
-    {
-      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
-      "to": "the-mark-and-the-act",
-      "rel": "points_to",
-      "label": "The Mark and the Act"
-    },
-    {
-      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
-      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
-      "rel": "points_to",
-      "label": "自由变量的同构与先验主权：量子、比特与微观选择"
+      "label": "路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
