@@ -122,16 +122,22 @@ This gives rise to **Macro Fetishism and the Teleological Fallacy**:
 
 [错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) and [No system can be kept closed](../no-system-can-be-kept-closed/) remind us: whenever you assign causal power to the macro container rather than the micro choice, you invert the compiler and blind yourself to the real levers of change.
 
-## The Sovereign Return to the Micro Lever
+## The Sovereign Return to the Micro Lever: Defining Action
 
 Recognizing the generative atlas of reality is not an abstract academic exercise; it is the ultimate foundation for personal agency and clarity.
+
+This brings us to a rigorous, unambiguous definition of **Action**:
+
+> **Action is literally the individual choice manifested causally through the physical and biological substrate.**
+
+Choice without substrate manifestation is an idle mental phantom; physical motion without conscious choice is deterministic automata. **Action is the precise interface where sovereign first-person agency couples with material reality.** Without individual choice, the individual—and by extension, the entire edifice of human civilization—collapses into a mindless, deterministic machine.
 
 You cannot alter a macroscopic shadow by pushing against the projection screen. You cannot fix a culture by preaching at the collective, nor can you redirect a historical cycle by fighting an abstract label.
 
 **The only legitimate causal lever in the universe is at the micro origin point:**
 
-* In physics, physical laws emerge from the logical correlations of quantum free variables;
+* In physics, physical regularities emerge from the causal correlations of quantum free variables;
 * In computation, virtual ecosystems are defined and executed through human-selected bit logic;
-* In human life, transformation occurs exclusively when an individual agent reclaims sovereign first-person ownership over their next concrete choice.
+* In human life, transformation occurs exclusively when an individual agent actualizes a sovereign choice through physical action.
 
-[The Mark and the Act](../the-mark-and-the-act/) established that the universe records only the mark of actualized choices. When you stop looking for salvation or oppression in the macro illusions of the world, and instead align your micro choices with rigorous logical and physical reality, you cease being an echo of the aggregate. You become an active compiler of the cosmos, laying down the microscopic code from which the future naturally emerges.
+[The Mark and the Act](../the-mark-and-the-act/) established that the universe records only the mark of actualized choices. When you stop looking for salvation or oppression in the macro illusions of the world, and instead align your micro choices with rigorous causal reality, you cease being an echo of the aggregate. You become an active compiler of the cosmos, laying down the microscopic code from which the future naturally emerges.
