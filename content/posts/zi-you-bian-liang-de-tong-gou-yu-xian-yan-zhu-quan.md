@@ -54,7 +54,7 @@
 
 首先是破除“被高维程序员操纵的模拟人”幻觉。我们不必陷入现实是否只是一场代码模拟的虚妄恐慌之中，因为任何模拟系统的定义权、编译器与解释权，其最初和最终的支点，依然是我们每一个活生生的个体在当下所做的第一人称微观选择。离开了个体的自由选择与因果介入，“模拟”本身便失去了任何语义支点。
 
-其次是确认第一人称因果主权的不可剥夺性。[涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 与 [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) 共同确立了因果的终极落点：因果主权从来没有失去过，外部宏大系统的裹挟感纯粹是事后把归因错置到统计副产物上的解释幻觉。
+其次是确认第一人称因果主权的不可剥夺性。[The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction](../the-generative-atlas-of-macroscopic-phenomena/)、[涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 与 [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) 共同确立了因果的终极落点：因果主权从来没有失去过，外部宏大系统的裹挟感纯粹是事后把归因错置到统计副产物上的解释幻觉。
 
 无论是研究最前沿的量子物理，还是构建最复杂的 AI 与数字系统，一切理论与模型都不是漂浮在虚空中的客观图腾。它们全部是人类心智为了在开放现实中进行推演，而借由微观选择所锚定出的离散坐标。[高维信息的离散折射与认知分层](../gao-wei-xin-xi-de-li-san-zhe-she/) 则进一步将这一第一人称锚点延伸至公共交流：拒绝低维讨好、输出完整的高维推演，不仅能让受众自适应分层，更能将外界反馈转化为诊断他人心智编译器的精密仪器。
 
