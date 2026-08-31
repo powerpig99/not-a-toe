@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-31T03:12:27.128Z",
+    "generated_at": "2026-08-31T03:24:18.698Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -93,6 +93,7 @@
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "94b96cd84d20",
       "content/posts/looping-and-graphing.md": "b2acdecafde8",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "9d0c48e7550c",
+      "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "327f2943b19c",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "7fddde85b53e",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "634293b4399b",
@@ -179,7 +180,7 @@
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
       "content/posts/the-generative-contradiction.md": "2cef8f7c85e8",
-      "content/posts/the-geometry-of-success.md": "edd4d8ad7e95",
+      "content/posts/the-geometry-of-success.md": "9b4a467d58a1",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
@@ -268,13 +269,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 258,
-      "edges": 2626,
-      "unique_directed": 2600,
+      "posts": 259,
+      "edges": 2633,
+      "unique_directed": 2607,
       "missing_targets": 0,
-      "one_way": 498,
+      "one_way": 503,
       "isolated": 36,
-      "posts_with_outbound": 206
+      "posts_with_outbound": 207
     }
   },
   "hubs_in": [
@@ -841,7 +842,7 @@
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学: Theories After Success, Mistaken for Theories Leading to Success",
       "hash": "78e8cf1ffc50",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 15,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -927,7 +928,7 @@
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "Climbing Does Not Leave the Ground",
       "hash": "5728e783fe80",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1192,7 +1193,7 @@
       "path": "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md",
       "title": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则",
       "hash": "c05d0683a3eb",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1723,7 +1724,7 @@
       "path": "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md",
       "title": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜",
       "hash": "6fe0648263fc",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 4,
       "links_out": [
         "what-information-is",
@@ -2287,6 +2288,24 @@
         "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
+      ]
+    },
+    {
+      "id": "post:lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "kind": "post",
+      "slug": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "path": "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md",
+      "title": "路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎",
+      "hash": "327f2943b19c",
+      "in_degree": 1,
+      "out_degree": 6,
+      "links_out": [
+        "the-mark-and-the-act",
+        "climbing-does-not-leave-the-ground",
+        "the-geometry-of-success",
+        "cheng-gong-xue",
+        "gao-wei-xin-xi-de-li-san-zhe-she",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi"
       ]
     },
     {
@@ -4256,9 +4275,9 @@
       "slug": "the-geometry-of-success",
       "path": "content/posts/the-geometry-of-success.md",
       "title": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\"",
-      "hash": "edd4d8ad7e95",
-      "in_degree": 1,
-      "out_degree": 8,
+      "hash": "9b4a467d58a1",
+      "in_degree": 2,
+      "out_degree": 9,
       "links_out": [
         "cheng-gong-xue",
         "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -4266,6 +4285,7 @@
         "the-mark-and-the-act",
         "climbing-does-not-leave-the-ground",
         "the-scaffolding-we-forget",
+        "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
         "gao-wei-xin-xi-de-li-san-zhe-she",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan"
       ]
@@ -4571,7 +4591,7 @@
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "The Mark and the Act",
       "hash": "b0ee6df318ab",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 9,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -11030,6 +11050,42 @@
       "label": "Potential infinity and the temporary closures of mathematical thought"
     },
     {
+      "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
+      "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing does not leave the ground"
+    },
+    {
+      "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\""
+    },
+    {
+      "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
+    },
+    {
+      "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜"
+    },
+    {
+      "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则"
+    },
+    {
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
@@ -16596,6 +16652,12 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The scaffolding we forget"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "rel": "points_to",
+      "label": "路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎"
     },
     {
       "from": "the-geometry-of-success",

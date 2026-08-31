@@ -48,7 +48,7 @@ When people attribute their initial breakthrough to the vehicle—the formula, t
 
 [The scaffolding we forget](../the-scaffolding-we-forget/) details this exact cognitive trap: organizations of experience drop out as world while remaining instruments of the edge that erected them. Winners remain parked in the vehicle at Point B, desperately trying to turn the surrounding swamp into a paved highway. They refuse to abandon the tool that made them successful in the first place, thus ensuring their eventual obsolescence.
 
-[高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜](../gao-wei-xin-xi-de-li-san-zhe-she/) and [自由变量的同构与先验主权：量子、比特与微观选择](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) establish that the causal lever never resides in the external artifact or static coordinate. The sovereign source is always the first-person agent capable of stepping into the next unmapped interval.
+[路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎](../lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/), [高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜](../gao-wei-xin-xi-de-li-san-zhe-she/), and [自由变量的同构与先验主权：量子、比特与微观选择](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) establish that the causal lever never resides in the external artifact, static coordinate, or other people's judgment. The sovereign source is always the first-person agent executing real-time micro-decisions at each unmapped intersection.
 
 ## Reality Has No Referee
 
