@@ -211,6 +211,9 @@ function markdownToHtml(markdownBody) {
   let listItems = [];
   let listStart = null;
   let quoteLines = [];
+  let inCodeBlock = false;
+  let codeBlockLines = [];
+  let codeBlockLang = '';
 
   function lineHasHardBreak(rawLine) {
     // Two or more trailing spaces, or a single trailing backslash (GFM-style).
@@ -262,10 +265,37 @@ function markdownToHtml(markdownBody) {
     flushParagraph();
     flushList();
     flushQuote();
+    if (inCodeBlock) {
+      chunks.push(`<pre><code${codeBlockLang ? ` class="language-${escapeHtml(codeBlockLang)}"` : ''}>${escapeHtml(codeBlockLines.join('\n'))}</code></pre>`);
+      inCodeBlock = false;
+      codeBlockLines = [];
+      codeBlockLang = '';
+    }
   }
 
   for (const line of lines) {
     const trimmed = line.trim();
+
+    if (/^(```|~~~)/.test(trimmed)) {
+      if (inCodeBlock) {
+        chunks.push(`<pre><code${codeBlockLang ? ` class="language-${escapeHtml(codeBlockLang)}"` : ''}>${escapeHtml(codeBlockLines.join('\n'))}</code></pre>`);
+        inCodeBlock = false;
+        codeBlockLines = [];
+        codeBlockLang = '';
+        continue;
+      } else {
+        flushAll();
+        inCodeBlock = true;
+        codeBlockLang = trimmed.replace(/^[~`]+/, '').trim();
+        codeBlockLines = [];
+        continue;
+      }
+    }
+
+    if (inCodeBlock) {
+      codeBlockLines.push(line);
+      continue;
+    }
 
     if (!trimmed) {
       flushAll();

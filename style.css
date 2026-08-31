@@ -39,6 +39,30 @@ a {
   padding: 28px 20px 64px;
 }
 
+pre {
+  background: color-mix(in srgb, var(--fg) 5%, transparent);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  overflow-x: auto;
+  font-family: ui-monospace, "SF Mono", Monaco, Consolas, monospace;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin: 1.5rem 0;
+}
+
+code {
+  font-family: ui-monospace, "SF Mono", Monaco, Consolas, monospace;
+  font-size: 0.9em;
+}
+
+pre code {
+  font-size: inherit;
+  background: none;
+  border: none;
+  padding: 0;
+}
+
 /* Publication chrome (article pages) */
 .site-header {
   margin: 0 0 2.5rem;
