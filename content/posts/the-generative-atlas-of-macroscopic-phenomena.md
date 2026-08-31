@@ -1,26 +1,26 @@
 # The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction
 
-*All macroscopic phenomena share a single generative grammar: indivisible micro free variables interacting under pure logic and causality. Physical laws are not external containers, but the emergent macroscopic regularities of quantum effects evolving under logic; computation and simulation are strictly secondary derivatives, as both bit initial conditions and logical rules are deliberate manifestations of human individual choice. What third-person observation measures as quantum randomness is identical to what first-person agency exercises as free choice.*
+*Causality itself is the single fundamental primitive of reality, having no beginning or ending. Time is not an independent dimension, but the intrinsic arrow and discrete step of causality; spacetime scales and the speed of light are conversion invariants locked by perceptual limits. Because human observation is bounded by an individual epistemological horizon, the causal chain beyond that boundary appears as an irreducible free variable: measured from the outside as quantum indeterminacy, and experienced from the inside as sovereign free choice.*
 
-Across every domain of inquiry, human cognition tends to be hypnotized by massive macroscopic structures—treating physical laws, markets, biological evolution, and computer simulations as independent, top-down entities. Yet from an epistemological first-principles standpoint, **every macroscopic phenomenon is strictly the emergent consequence of micro free variables interacting under pure logic and causality**. Physical laws themselves are not pre-existing metaphysical containers, but the emergent macroscopic manifestations of quantum effects interacting through logic over time. Furthermore, computation and digital simulation reveal their strictly secondary nature, as both their initial bit configurations and their algorithmic transition rules are direct artifacts of human individual choices. Deconstructing this hierarchical isomorphism shatters the teleological illusions that plague modern thought and restores causal sovereignty to the micro act.
+Across every domain of inquiry, human cognition tends to be hypnotized by massive macroscopic structures—treating physical laws, markets, biological evolution, and computer simulations as independent, top-down entities. Yet from an epistemological first-principles standpoint, **every macroscopic phenomenon is strictly the progressive unfolding of causality bounded by the observer's epistemological horizon**. Time and space are not external containers; time is the inherent direction and discrete step of causality ($C \to E$), while spacetime scales and the speed of light ($c$) are interlocked conversion invariants set by perceptual limits. What lies beyond an individual's epistemological horizon is fundamentally un-precomputable, manifesting as the "free variable" at the frontier of the causal chain. Deconstructing this hierarchical isomorphism shatters teleological illusions and establishes causality and individual agency as the irreducible base of reality.
 
 ## The Universal Generative Triad: First Principles vs. Operational Shorthands
 
 At the absolute foundation of reality, all macroscopic phenomena can be traced back to an invariant first-principles formula:
 
-> **Macro Phenomenon** = Micro Free Variable × Pure Causal Constraints × Temporal Evolution
+> **Macro Phenomenon** = Causality × Epistemological Horizon Boundary × Local Interaction
 
-| Stratum | Micro Free Variable | Governing Grammar | Emergent Macro Phenomenon |
+| Stratum | Horizon Frontier (Free Variable) | Governing Grammar | Emergent Macro Phenomenon |
 | :--- | :--- | :--- | :--- |
-| **1. Physical Nature** | Quantum Effects *(The Ultimate Variable)* | Pure Logic & Causality *(Auto/Cross-Correlation)* | Physical Laws, Spacetime, Chemistry, Life, Evolution |
-| **2. Human Society** | Individual Free Choice *(First-Person Agency)* | Pure Logic & Causality *(Scarcity, Incentives)* | Markets, Cultures, Law, Institutions, History |
+| **1. Physical Nature** | Quantum Effects *(External Boundary)* | Pure Causality *(Auto/Cross-Correlation)* | Physical Laws, Spacetime, Chemistry, Life, Evolution |
+| **2. Human Society** | Individual Free Choice *(Internal Boundary)* | Pure Causality *(Scarcity, Incentives)* | Markets, Cultures, Law, Institutions, History |
 | **3. Compute & Sims** | Bit States (0 / 1) *(Secondary Construct)* | Human-Defined Logic *(Code & Architectures)* | Virtual Worlds, AI Models, Synthetic Ecosystems |
 
 This tripartite relationship identifies the absolute terminus of reductionism:
 
-1. **The Indivisible Micro Free Variable**: The irreducible locus of spontaneity or state selection where deterministic explanation ends (the quantum event physically, the conscious choice subjectively);
+1. **The Epistemological Horizon Frontier**: The boundary beyond which deterministic pre-calculation cannot reach (manifesting as quantum indeterminacy physically, and conscious choice subjectively);
 2. **The Invariant Causal Constraints**: The non-negotiable grammar of interaction (causality, local state transitions, conservation laws, and reciprocal physical friction);
-3. **The Emergent Macro Phenomenon**: The statistical regularities and structures that crystallize when countless micro units interact across time.
+3. **The Emergent Macro Phenomenon**: The statistical regularities and structures that crystallize when causal chains interact across the horizon.
 
 ### First-Principles Grounding vs. Daily Shorthands
 
@@ -35,40 +35,41 @@ As long as the necessary initial conditions and local constraints of a given dom
 
 The purpose of establishing this generative atlas is not to disqualify useful domain-specific models, but to **clarify the ultimate epistemological base of reality**. It ensures that while we freely utilize effective macroscopic shorthands, we never fall into the trap of mistaking these useful models for self-existent, top-down metaphysical entities.
 
-## The Genesis of Physical Laws: Quantum Effects under Pure Logic
+## Causality, Time, and Spacetime: Deriving the Invariants
 
-A common error in reductionist physics is to assume that "physical laws" exist as a separate, pre-existing background container within which quantum events occur. In reality, **physical laws themselves are the emergent macroscopic manifestations of quantum effects interacting under pure logic and causality**.
+We can radically simplify our ontology by recognizing that **time is not something separate from causality**.
 
-All objective regularities derive from the temporal evolution of the ultimate free variable through two fundamental mechanisms:
+Causality itself has no beginning and no ending; it is the continuous relational fabric of existence. However, for an observer to model anything:
 
-1. **Auto-Correlation (Temporal Self-Consistency)**: The degree to which a quantum free variable preserves its state across successive intervals. Over time, persistent auto-correlations manifest as physical invariants—the conservation of energy, momentum, mass, and inertial identity;
-2. **Cross-Correlation (Relational Entanglement)**: The mutual constraint and phase-locking between multiple interacting free variables. Over time, persistent cross-correlations crystallize into what we call the fundamental forces of physics, electromagnetic bonding, thermodynamic laws, and the geometry of spacetime.
+1. **Time as the Arrow of Causality**: Time is simply the intrinsic direction of causality. Because an effect must follow its cause, the causal sequence defines the unidirectional arrow of time. The discrete step between a cause and its effect defines the minimum temporal quantum;
+2. **Spacetime Scales and the Speed of Light ($c$)**: The minimum observable scale of time is logically and physically locked to the minimum observable scale of space (the Planck scale). The speed of light ($c$) is not an arbitrary cosmic speed limit; it is the fundamental conversion invariant linking spatial translation to causal state transition within an observer's perceptual apparatus.
 
-Once these physical regularities emerge from quantum logic, they provide the substrate for higher-order emergence:
-* **Chemistry**: Atoms interacting under quantum electrodynamic constraints form molecular compounds;
-* **Biology & Evolution**: Molecules organized into self-replicating loops yield living organisms. Biological lineages do not evolve toward a mystical teleological goal; as [格物致知与信息复杂度的本质：从感知截面到因果编译](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/) demonstrates, evolution is the statistical residue of micro-mutations interacting with local physical selection pressures.
+Spacetime, physical forces, and thermodynamic gradients are the emergent macroscopic invariants that crystallize from the auto-correlation (temporal self-consistency) and cross-correlation (relational entanglement) of causal chains.
 
-## The Logical Proof: Quantum Action as the Ultimate Free Variable
+## The Origin of the Free Variable: The Epistemological Horizon
 
-This foundational truth does not require convoluted empirical derivation; it is established by **pure logical necessity**:
+Where does "indeterminism" or the "free variable" come from?
 
-* In the entire observable cosmos, **every single macroscopic physical, chemical, and biological process strictly obeys deterministic logic and causal chains once initial conditions are set**;
-* **The sole phenomenon in existence that deterministic logic cannot pre-calculate or reduce away is the quantum effect** (fundamental indeterminacy and spontaneous symmetry-breaking). It is crucial to emphasize that what physics textbooks describe as "wavefunction collapse" is an internal mathematical construct of the quantum formalism to model this transition, not an independently observable physical effect in itself. The actual observable reality is the discrete quantum event itself.
+In a pure ontological sense, causal chains extend indefinitely. However, **human knowledge and observation are strictly bounded by an individual epistemological horizon**. 
 
-Because every other layer of reality is strictly logical, **the quantum effect is, by undeniable logical necessity, the ultimate physical embodiment of the irreducible Free Variable**.
+Whenever we attempt to calculate the future state of a system:
+* Everything within our current observational horizon can be linked through deterministic logic;
+* **Anything sitting beyond our current epistemological horizon is un-precomputable**.
+
+The "Free Variable" is precisely the causal entry point crossing over our epistemological horizon. It is not an arbitrary violation of reality, but the mathematical boundary where our local pre-calculation terminates.
 
 ## The Observer Cut: Third-Person Randomness vs. First-Person Free Choice
 
-Here lies the most profound epistemological cut: the spontaneity of the free variable is absolute at its origin point. How this spontaneity is perceived depends entirely on the observer's coordinate:
+This brings us to the profound duality of how this horizon boundary is perceived:
 
-* **From the Third-Person External Perspective**: An outside observer looking at a micro free variable from the outside cannot predict its outcome deterministically. It registers as **"Pure Randomness" (Stochastic Probability Waves)**;
-* **From the First-Person Sovereign Perspective**: The agent residing at that micro origin point is not experiencing arbitrary noise. It is exercising **"Free Choice" (First-Person Causal Agency)**.
+* **From the Third-Person External Perspective**: When an external observer measures an un-precomputable causal event crossing their horizon, it is recorded as **Indeterministic Quantum Action**. (Physics describes this mathematically via probability waves, though what textbooks call "wavefunction collapse" is merely a formal modeling construct, not an observable physical event);
+* **From the First-Person Sovereign Perspective**: When a conscious subject experiences state selection at that exact same causal frontier from the inside, it is experienced as **Sovereign Free Choice**.
 
-"Quantum randomness" is simply the external shadow that internal freedom casts upon an observational apparatus.
+"Quantum randomness" is the external observational shadow that sovereign freedom casts upon a measurement apparatus.
 
-## The Epistemological Horizon: The Mind as the Observer and Boundary of Experienced Reality
+## The Epistemological Horizon: The Mind as the Boundary of Experienced Reality
 
-This brings us to a fundamental epistemological limit: **the individual mind is the unavoidable horizon within which any model of reality is experienced, formulated, and tested**.
+This establishes the foundational epistemological limit: **the individual mind is the unavoidable horizon within which any model of reality is experienced, formulated, and tested**.
 
 Whenever we theorize about an objective physical reality, we are inevitably doing so from within the cognitive compiler of our own first-person consciousness:
 
@@ -136,7 +137,7 @@ You cannot alter a macroscopic shadow by pushing against the projection screen. 
 
 **The only legitimate causal lever in the universe is at the micro origin point:**
 
-* In physics, physical regularities emerge from the causal correlations of quantum free variables;
+* In physics, physical regularities emerge from the causal correlations of quantum free variables at the horizon frontier;
 * In computation, virtual ecosystems are defined and executed through human-selected bit logic;
 * In human life, transformation occurs exclusively when an individual agent actualizes a sovereign choice through physical action.
 
