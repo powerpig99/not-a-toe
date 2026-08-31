@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-31T05:53:38.333Z",
+    "generated_at": "2026-08-31T05:57:41.371Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -152,7 +152,7 @@
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "32af5139e074",
       "content/posts/shared-humanity-is-never-shared.md": "f4eb8c469df7",
-      "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "2487e63c416f",
+      "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "d671cfd7911a",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "7052251d0a3c",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
@@ -271,10 +271,10 @@
     },
     "stats": {
       "posts": 260,
-      "edges": 2638,
-      "unique_directed": 2612,
+      "edges": 2640,
+      "unique_directed": 2613,
       "missing_targets": 0,
-      "one_way": 506,
+      "one_way": 507,
       "isolated": 36,
       "posts_with_outbound": 208
     }
@@ -3624,13 +3624,14 @@
       "slug": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
       "path": "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md",
       "title": "选择看见而非搜寻影子：从注意力的因果错位到知识的自然扩散",
-      "hash": "2487e63c416f",
+      "hash": "d671cfd7911a",
       "in_degree": 1,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-mark-and-the-act",
         "climbing-does-not-leave-the-ground",
         "the-geometry-of-success",
+        "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun"
       ]
     },
@@ -6088,7 +6089,7 @@
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权：量子、比特与微观选择",
       "hash": "bcba0c108125",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "what-information-is",
@@ -14936,6 +14937,18 @@
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
       "label": "Climbing does not leave the ground"
+    },
+    {
+      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\""
+    },
+    {
+      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "自由变量的同构与先验主权：量子、比特与微观选择"
     },
     {
       "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
