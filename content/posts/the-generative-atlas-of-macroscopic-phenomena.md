@@ -66,6 +66,18 @@ Here lies the most profound epistemological cut: the spontaneity of the free var
 
 "Quantum randomness" is simply the external shadow that internal freedom casts upon an observational apparatus.
 
+## The Epistemological Horizon: The Mind as the Observer and Boundary of Experienced Reality
+
+This brings us to a fundamental epistemological limit: **the individual mind is the unavoidable horizon within which any model of reality is experienced, formulated, and tested**.
+
+Whenever we theorize about an objective physical reality, we are inevitably doing so from within the cognitive compiler of our own first-person consciousness:
+
+* **Quantum Mechanics as External Observation**: Quantum physics provides the formal, third-person mathematical apparatus for measuring the micro event from the outside;
+* **Consciousness as Internal State Selection**: What we label subjectively as "free will," "attention," or "conscious intent" represents the first-person lived experience of that same state selection at the micro origin point;
+* **The Impossibility of the Unmediated Step-Out**: No individual agent can step outside the boundary of their own mind to observe an unmediated, observer-independent world.
+
+Acknowledging this boundary is not a retreat into solipsism, but the bedrock of epistemological consistency: all macroscopic models—from physical laws to economic structures—are cognitive scaffolding compiled by conscious observers to navigate real-world friction. Outside of conscious measurement and first-person engagement, reality cannot be ascribed definitive narrative meaning.
+
 ## The Secondary Nature of Computation and Simulation
 
 Understanding the generative hierarchy reveals why computation and digital simulations are **strictly secondary derivatives** rather than fundamental standalone realms.
