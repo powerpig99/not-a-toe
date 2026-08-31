@@ -124,4 +124,8 @@ You cannot alter a macroscopic shadow by pushing against the projection screen. 
 * In computation, virtual ecosystems are defined and executed through human-selected bit logic;
 * In human life, transformation occurs exclusively when an individual agent actualizes a sovereign choice through physical action.
 
-[The Mark and the Act](../the-mark-and-the-act/) established that the universe records only the mark of actualized choices. When you stop looking for salvation or oppression in the macro illusions of the world, and instead align your micro choices with rigorous causal reality, you cease being an echo of the aggregate. You become an active compiler of the cosmos, laying down the microscopic code from which the future naturally emerges.
+[The Mark and the Act](../the-mark-and-the-act/) established that the universe records only the mark of actualized choices. Yet even this understanding must remain reflexively grounded in the first-person stance without claiming final, dogmatic closure.
+
+As [No system can be kept closed](../no-system-can-be-kept-closed/) and [Curiosity Has No Final Form](../curiosity-has-no-final-form/) demonstrate, causality extends from infinity to infinity ($\infty \to \infty$). There is no static, sealed theoretical endpoint. We have articulated the most logically consistent framework for navigating reality precisely by realizing that we can never step outside our first-person epistemological horizon. You can construct any abstract model of an "objective external cosmos"—you can check out any time you like—but you can never leave the first-person origin point of conscious experience.
+
+The horizon is finite, but it is not fixed. Through continuous action, physical friction, and sovereign choice, that boundary expands into open reality, carrying infinite potentiality without ever needing to pretend it has reached a closed finality.
