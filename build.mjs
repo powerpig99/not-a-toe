@@ -211,6 +211,7 @@ function markdownToHtml(markdownBody) {
   let listItems = [];
   let listStart = null;
   let quoteLines = [];
+  let tableLines = [];
   let inCodeBlock = false;
   let codeBlockLines = [];
   let codeBlockLang = '';
@@ -261,10 +262,55 @@ function markdownToHtml(markdownBody) {
     quoteLines = [];
   }
 
+  function flushTable() {
+    if (!tableLines.length) return;
+    if (tableLines.length >= 2) {
+      const parseRow = (rowStr) => {
+        const cells = rowStr.trim().replace(/^\|/, '').replace(/\|$/, '').split('|');
+        return cells.map((c) => c.trim());
+      };
+      const headerCells = parseRow(tableLines[0]);
+      const alignRow = parseRow(tableLines[1]);
+      const aligns = alignRow.map((a) => {
+        const left = a.startsWith(':');
+        const right = a.endsWith(':');
+        if (left && right) return 'center';
+        if (right) return 'right';
+        if (left) return 'left';
+        return 'left';
+      });
+
+      let html = '<div class="table-wrap"><table><thead><tr>';
+      for (let i = 0; i < headerCells.length; i += 1) {
+        const align = aligns[i] || 'left';
+        html += `<th style="text-align:${align}">${formatInline(headerCells[i])}</th>`;
+      }
+      html += '</tr></thead><tbody>';
+      for (let r = 2; r < tableLines.length; r += 1) {
+        const rowCells = parseRow(tableLines[r]);
+        html += '<tr>';
+        for (let i = 0; i < headerCells.length; i += 1) {
+          const align = aligns[i] || 'left';
+          const val = rowCells[i] || '';
+          html += `<td style="text-align:${align}">${formatInline(val)}</td>`;
+        }
+        html += '</tr>';
+      }
+      html += '</tbody></table></div>';
+      chunks.push(html);
+    } else {
+      for (const tLine of tableLines) {
+        chunks.push(`<p>${formatInline(tLine)}</p>`);
+      }
+    }
+    tableLines = [];
+  }
+
   function flushAll() {
     flushParagraph();
     flushList();
     flushQuote();
+    flushTable();
     if (inCodeBlock) {
       chunks.push(`<pre><code${codeBlockLang ? ` class="language-${escapeHtml(codeBlockLang)}"` : ''}>${escapeHtml(codeBlockLines.join('\n'))}</code></pre>`);
       inCodeBlock = false;
@@ -301,6 +347,16 @@ function markdownToHtml(markdownBody) {
       flushAll();
       continue;
     }
+
+    const isTableRow = /^\|(.+)\|$/.test(trimmed);
+    if (isTableRow) {
+      flushParagraph();
+      flushList();
+      flushQuote();
+      tableLines.push(trimmed);
+      continue;
+    }
+    flushTable();
 
     const hrMatch = /^(-{3,}|\*{3,}|_{3,})$/.test(trimmed);
     if (hrMatch) {

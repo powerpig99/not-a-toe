@@ -63,6 +63,34 @@ pre code {
   padding: 0;
 }
 
+.table-wrap {
+  width: 100%;
+  overflow-x: auto;
+  margin: 1.75rem 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+th, td {
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--rule);
+  vertical-align: top;
+}
+
+th {
+  background: color-mix(in srgb, var(--fg) 4%, transparent);
+  font-weight: 700;
+}
+
+tr:nth-child(even) {
+  background: color-mix(in srgb, var(--fg) 2%, transparent);
+}
+
 /* Publication chrome (article pages) */
 .site-header {
   margin: 0 0 2.5rem;
