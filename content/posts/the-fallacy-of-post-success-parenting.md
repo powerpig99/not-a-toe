@@ -2,21 +2,21 @@
 
 *True capability is forged exclusively through micro-decisions made under friction and constraint; when successful parents mistake their accumulated surplus for a formula, attempt to clone their own path, and insulate their children from raw reality, they dismantle the very engine required for their offspring to surpass them.*
 
-A pervasive cultural reflex urges ordinary parents to imitate the child-rearing habits of the ultra-wealthy. When reports reveal that Silicon Valley executives strictly limit their children's screen time, delay smartphones, and enroll them in low-tech boutique schools, commentators routinely proclaim: "Pay attention to what successful people do with their own kids." This advice appears pragmatic on the surface, yet it embodies a catastrophic causal inversion. It confuses the post-success consumption of accumulated surplus with the generative engine that originally created capability. By mistaking insulation for a blueprint, successful parents and their imitators construct an over-engineered bubble that strips away the raw friction, risk, and autonomous decision-making necessary for any young mind to build genuine capacity.
+The common impulse to imitate the child-rearing habits of the successful embodies a clean causal inversion: it confuses the post-success consumption of accumulated surplus with the generative engine that originally created capability. When observers point to Silicon Valley executives restricting screens, delaying smartphones, or curating bespoke low-tech educations as a blueprint for success, they mistake the protective dividends of accumulated wealth for the cause of competence. By converting insulation into a model, the post-success household constructs an over-engineered greenhouse that strips away the raw friction, uncertainty, and sovereign decision-making necessary for any mind to build genuine capacity.
 
 ## The Role Model Illusion: Confusing Surplus with Generation
 
-The fundamental error in treating elite parenting as an instructional model lies in an unexamined baseline asymmetry: **the children of the ultra-successful operate from an unimaginably elevated starting point**. 
+The structural error in treating elite parenting as an instructional model lies in an unexamined baseline asymmetry: **the children of the successful operate from an unimaginably elevated starting point**. 
 
 When a wealthy executive raises their children in a low-tech environment with bespoke tutors and pristine nature retreats, they are deploying the dividends of prior triumph. They are not executing the generative process that forged their own competence. 
 
-As analyzed across [The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction](../the-generative-atlas-of-macroscopic-phenomena/) and [The geometry of success](../the-geometry-of-success/), macroscopic outcomes cannot be understood by observing the static state of the victor at the summit. The executives who now restrict technology became formidable, adaptive leaders precisely because their own youths were spent navigating raw friction:
+As analyzed across [The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction](../the-generative-atlas-of-macroscopic-phenomena/) and [The geometry of success](../the-geometry-of-success/), macroscopic outcomes cannot be understood by observing the static state of the victor at the summit. The individuals who now restrict technology became formidable, adaptive agents precisely because their own formative years were spent navigating raw friction:
 
-* Unfiltered self-directed exploration;
-* Intense trial and error under resource constraints;
+* Unfiltered, self-directed exploration;
+* Intense trial and error under severe resource constraints;
 * Immediate, unbuffered contact with the consequences of their choices.
 
-To look at what these individuals do *after* achieving immense status, wealth, and security—and to mistake their post-success lifestyle for the formula that generated their success—is pure survivorship bias. It is equivalent to studying how a retired athlete relaxes and concluding that lounging on a sofa is the secret to winning an Olympic medal.
+To look at what these individuals do *after* achieving immense status, wealth, and security—and to mistake their post-success lifestyle for the formula that generated their success—is pure survivorship bias. It is the mistake of observing how an athlete rests after winning a championship and concluding that resting was the engine of victory.
 
 ## The Hindsight Attribution Error: Formulas vs. Micro-Decisions Under Uncertainty
 
@@ -34,23 +34,23 @@ Success was never the mechanical output of a static habit list. It was generated
 
 ## Parental Overconfidence: Usurping the Driver's Seat
 
-Past market or professional triumph frequently breeds monumental parental hubris. Having mastered one domain—such as software engineering, finance, or corporate management—the successful parent assumes this gives them the authority and insight to "architect" the life of another conscious agent.
+Past market or professional triumph frequently breeds monumental parental hubris. Having mastered one domain—such as software engineering, finance, or corporate management—the successful parent assumes this grants them the epistemic authority to "architect" the life of another conscious agent.
 
 Instead of maintaining the stance of stewardship established in [Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control](../guidance-is-not-ownership/), the successful parent usurps the driver's seat:
 
-* They treat their child's future as a bespoke engineering project;
-* They curate every extracurricular activity, social network, and intellectual input;
-* They attempt to author the destination rather than providing the launchpad.
+* Treating the child's future as a bespoke engineering project;
+* Curating every extracurricular activity, social network, and intellectual input;
+* Attempting to author the destination rather than providing a launchpad.
 
-This overconfidence is devastating. As explored in [On education](../on-education/) and [Emotional support as causal interference](../emotional-support-as-causal-interference/), the more "effective" and comprehensive a parent's management apparatus becomes, the lower the ceiling on the child's independent development. By removing all open space and uncertainty, the parent's overconfident blueprint becomes a suffocating cage.
+This overconfidence is self-limiting. As explored in [On education](../on-education/) and [Emotional support as causal interference](../emotional-support-as-causal-interference/), the more "effective" and comprehensive a parent's management apparatus becomes, the lower the ceiling on the child's independent development. By removing all open space and uncertainty, the parent's overconfident blueprint becomes a suffocating cage.
 
 ## The Path-Cloning Trap: Resisting the Child's Sovereign Vector
 
 Alongside overconfidence comes the chronic tendency toward **path cloning**: the expectation that the child should replicate the parent's specific trajectory, attend the same elite institutions, enter approved professions, and adopt the parent's worldview.
 
-Because the parent's past path yielded undeniable wealth and prestige, any divergence by the child is viewed not as authentic exploration, but as a dangerous deviation:
+Because the parent's past path yielded undeniable wealth and prestige, any divergence by the child is viewed not as authentic exploration, but as an irrational deviation:
 
-* If the child shows a desire to forge their own vector in an unpaved, high-variance domain, they face subtle invalidation, anxiety, or overt parental resistance;
+* When the child shows a desire to forge their own vector in an unpaved, high-variance domain, they face subtle invalidation, anxiety, or overt parental resistance;
 * The parent demands compliance with a historical map, failing to recognize that the terrain has already changed;
 * The child's sovereign curiosity is subordinated to preserving the family's established social standing.
 
@@ -60,15 +60,15 @@ As articulated in [Curiosity first, compounded capability downstream](../curiosi
 
 The supreme paradox of elite child-rearing is that **unimaginably superior starting points rarely translate into generational surpassing**.
 
-Theoretically, a child endowed with immense material security, top-tier mentorship, and global networks possesses the ultimate foundation to take daring, historic risks. They could explore open scientific frontiers, build radical technologies, or pursue ambitious creative endeavors that someone facing survival pressure could never afford.
+Theoretically, an individual endowed with immense material security, top-tier mentorship, and global networks possesses the ultimate foundation to take daring, historic risks. They could explore open scientific frontiers, build radical technologies, or pursue ambitious creative endeavors that someone facing survival pressure could never afford.
 
 In practice, the opposite occurs. The towering success of the parent, combined with the cushioned environment, creates a debilitating reliance trap:
 
 1. **The Erasure of Adaptive Pressure**: The environment removes the existential necessity to solve hard problems independently;
-2. **Asymmetric Risk Psychology**: Failure carries the humiliation of falling short of a famous parent, while success merely meets baseline expectations;
-3. **External Attribution of Identity**: The child's achievements are perpetually credited to parental influence, eroding the internal sense of authentic agency.
+2. **Asymmetric Risk Psychology**: Failure carries the humiliation of falling short of a prominent parent, while success merely meets baseline expectations;
+3. **External Attribution of Identity**: Personal achievements are perpetually credited to parental influence, eroding the internal sense of authentic agency.
 
-As demonstrated in [Ownership and self-worthiness](../ownership-and-self-worthiness/) and [外部归因：个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/), self-worth and resilience are generated solely through the closed feedback loop of owning one's outcomes. When wealth and parental management absorb all the impact of poor decisions, the child is deprived of the error signals required to sharpen internal competence.
+As demonstrated in [Ownership and self-worthiness](../ownership-and-self-worthiness/) and [外部归因：个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/), self-worth and resilience are generated solely through the closed feedback loop of owning one's outcomes. When wealth and parental management absorb all the impact of poor decisions, the mind is deprived of the error signals required to sharpen internal competence.
 
 ## The Negative Feedback Loop and the Illusion of Comfort
 
@@ -76,14 +76,14 @@ This dynamic establishes a self-reinforcing negative feedback loop that remains 
 
 * The parent insulates the child from real-world struggle;
 * The child fails to develop robust problem-solving capacity and independent agency;
-* Observing the child's fragility, the parent feels justified in intensifying their supervision and control;
+* Observing the child's fragility, the parent feels justified in intensifying supervision and control;
 * The child becomes even more dependent, retreating into the comfortable safety of the parental estate.
 
-The child may live an extraordinarily comfortable, cultured life, but they remain an ornamental appendage to a past victory rather than a self-originating causal engine. They have been granted every advantage except the one thing that mattered: the freedom to struggle, fail, and build sovereign capacity on unpaved terrain.
+A person may live an extraordinarily comfortable, cultured life while remaining an ornamental appendage to a past victory rather than a self-originating causal engine. They are granted every advantage except the one thing that matters: the freedom to struggle, fail, and build sovereign capacity on unpaved terrain.
 
 ## Overriding Agency Is Counterproductive: Transcending the Golden Cage
 
-In the final analysis, **the ultimate responsibility for an individual's life remains non-negotiably with the child**. 
+In the final analysis, **the ultimate responsibility for an individual's life remains non-negotiably with the individual**. 
 
 Growing up inside a heavily curated, high-expectation household does not absolve the young adult of authorship. However, it introduces an ironic and tragic burden: instead of receiving genuine developmental assistance, the child must often expend immense cognitive and emotional energy **overcoming the unnecessary, artificial constraints imposed by their parents**.
 
@@ -92,21 +92,19 @@ Parental blueprinting, path cloning, and gilded micro-management are not real he
 Any intervention that attempts to override, substitute, or predetermine individual agency is **counterproductive by nature**:
 
 * Agency is the sole generating engine of human capability;
-* Attempting to bypass it from the outside will always produce developmental atrophy;
+* Attempting to bypass it from the outside invariably produces developmental atrophy;
 * No amount of financial capital, social leverage, or parental good intentions can compensate for the absence of authentic, self-authored trial and error.
 
 To achieve genuine maturity and surpass their origins, the offspring of the successful must ultimately do what their parents once did: claim 100% ownership of their choices, refuse to let parental overconfidence dictate their destination, and embrace the raw, unbuffered struggle of forging their own path.
 
-## Restoring the Generative Horizon: Learning from Struggle, Not Post-Success Insulation
+## The Source of Capability: Struggle Under Constraint, Not Post-Success Insulation
 
-If society wishes to learn from success, it must fundamentally redirect its gaze.
+Understanding capability requires tracing the causal arrow in the direction of its actual generation: competence is forged in the struggle, adaptation, failure, and unscripted micro-decisions at the bottom, never in the insulated lifestyle adopted after reaching the summit.
 
-We should not study how the successful raise their children after reaching the summit. We must study **how they struggled, adapted, failed, and made high-stakes micro-decisions when they were at the bottom**.
-
-True parental stewardship does not consist of designing a gilded, friction-free greenhouse. It consists of:
+Parental stewardship does not consist of designing a gilded, friction-free greenhouse. It operates as a launchpad:
 
 * Providing physical safety, emotional stability, and foundational causal models;
-* Cultivating a warm, supportive relationship that serves as a launchpad rather than a tether;
-* Having the humility to step out of the vehicle and allow the young person to face the raw friction of the world.
+* Cultivating a supportive relationship that fosters trust without imposing a destination;
+* Stepping out of the vehicle and allowing the individual to face the raw friction of the world.
 
-A child does not need their parents to author their future. They need the permission, space, and sovereign freedom to struggle through their own battles, navigate their own frontiers, and author a destiny that is entirely their own.
+A life cannot be authored by proxy. True capacity emerges only when an individual possesses the space, permission, and sovereign freedom to navigate their own frontiers, fight their own battles, and author a trajectory that is entirely their own.
