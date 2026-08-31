@@ -418,6 +418,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian` | Precisionist amber-obsidian hypercube sculpture casting cascading geometric 2D shadow projections onto dark limestone steps with vertical golden laser causal axis |
 | `zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan` | Kinetic chronometer instrument with central golden needle pivot casting coherent light into quantum orbital cloud and etched silicon binary micro-circuit grid on dark brushed graphite |
 | `gao-wei-xin-xi-de-li-san-zhe-she` | Architectural precisionist optical crystal prism suspended in minimalist dark graphite space refracting golden light beam into distinct dimensional spectrum layers on limestone reflections |
+| `the-geometry-of-success` | Architectural cartographic blueprint and illuminated topological engraving on dark slate with crowded labyrinth geometric cage and solitary luminous pathfinder walking into open mountain terrain |
 
 ## Crowded — prefer not to extend
 

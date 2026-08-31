@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-30T17:00:49.775Z",
+    "generated_at": "2026-08-31T03:12:27.128Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -24,7 +24,7 @@
       "content/posts/causality-all-the-way.md": "87c4e018e0d5",
       "content/posts/causality-and-the-irreducible-prior.md": "eca0fc968681",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "420084fab776",
-      "content/posts/cheng-gong-xue.md": "44fc72472f43",
+      "content/posts/cheng-gong-xue.md": "78e8cf1ffc50",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -179,6 +179,7 @@
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
       "content/posts/the-generative-contradiction.md": "2cef8f7c85e8",
+      "content/posts/the-geometry-of-success.md": "edd4d8ad7e95",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
@@ -267,13 +268,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 257,
-      "edges": 2617,
-      "unique_directed": 2591,
+      "posts": 258,
+      "edges": 2626,
+      "unique_directed": 2600,
       "missing_targets": 0,
-      "one_way": 491,
+      "one_way": 498,
       "isolated": 36,
-      "posts_with_outbound": 205
+      "posts_with_outbound": 206
     }
   },
   "hubs_in": [
@@ -299,7 +300,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 38
+      "in_degree": 39
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -318,6 +319,10 @@
       "in_degree": 29
     },
     {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "in_degree": 27
+    },
+    {
       "slug": "self-rl-for-humans",
       "in_degree": 27
     },
@@ -330,12 +335,12 @@
       "in_degree": 26
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 26
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 26
+      "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "in_degree": 25
     },
     {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -351,10 +356,6 @@
     },
     {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
-      "in_degree": 25
-    },
-    {
-      "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 25
     }
   ],
@@ -839,9 +840,9 @@
       "slug": "cheng-gong-xue",
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学: Theories After Success, Mistaken for Theories Leading to Success",
-      "hash": "44fc72472f43",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "78e8cf1ffc50",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
         "the-rational-choice-postulate-is-the-original-sin",
@@ -853,6 +854,7 @@
         "when-observation-becomes-performance",
         "the-scaffolding-we-forget",
         "the-map-after-the-territory",
+        "the-geometry-of-success",
         "causality-all-the-way",
         "qian-yin-hou-guo",
         "guan-yu-gui-yin",
@@ -925,7 +927,7 @@
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "Climbing Does Not Leave the Ground",
       "hash": "5728e783fe80",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -954,7 +956,7 @@
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "Closed Assumptions Squeeze Compounding into S-Curves",
       "hash": "618ae4ecd116",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 22,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -988,7 +990,7 @@
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
       "hash": "d57165a32284",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 27,
       "links_out": [
         "you-cant-benchmark-the-fluid",
@@ -1721,7 +1723,7 @@
       "path": "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md",
       "title": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜",
       "hash": "6fe0648263fc",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 4,
       "links_out": [
         "what-information-is",
@@ -4249,6 +4251,26 @@
       ]
     },
     {
+      "id": "post:the-geometry-of-success",
+      "kind": "post",
+      "slug": "the-geometry-of-success",
+      "path": "content/posts/the-geometry-of-success.md",
+      "title": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\"",
+      "hash": "edd4d8ad7e95",
+      "in_degree": 1,
+      "out_degree": 8,
+      "links_out": [
+        "cheng-gong-xue",
+        "closed-assumptions-squeeze-compounding-into-s-curves",
+        "closed-reality-in-benchmark-maxing",
+        "the-mark-and-the-act",
+        "climbing-does-not-leave-the-ground",
+        "the-scaffolding-we-forget",
+        "gao-wei-xin-xi-de-li-san-zhe-she",
+        "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan"
+      ]
+    },
+    {
       "id": "post:the-hard-problem-of-consciousness-is-consistent-with-learning",
       "kind": "post",
       "slug": "the-hard-problem-of-consciousness-is-consistent-with-learning",
@@ -4549,7 +4571,7 @@
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "The Mark and the Act",
       "hash": "b0ee6df318ab",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 9,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -5211,7 +5233,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3098d153bf56",
-      "in_degree": 38,
+      "in_degree": 39,
       "out_degree": 30,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6028,7 +6050,7 @@
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权：量子、比特与微观选择",
       "hash": "bcba0c108125",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "what-information-is",
@@ -7166,6 +7188,12 @@
       "to": "the-map-after-the-territory",
       "rel": "points_to",
       "label": "Self-improvement writing is The Map After the Territory"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\""
     },
     {
       "from": "cheng-gong-xue",
@@ -16532,6 +16560,54 @@
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
       "label": "外部归因：个人进步的障碍"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed assumptions squeeze compounding into S-curves"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed reality in benchmark maxing"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing does not leave the ground"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The scaffolding we forget"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "自由变量的同构与先验主权：量子、比特与微观选择"
     },
     {
       "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
