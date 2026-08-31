@@ -1,10 +1,10 @@
 # The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction
 
-*Causality itself is the single fundamental primitive of reality, having no beginning and no ending. Time is not an independent dimension, but the intrinsic arrow and discrete step of causality; spacetime scales and the speed of light are conversion invariants locked by the limits of perception. Because every conscious observer is bounded by an individual epistemological horizon, causal chains beyond that boundary are un-precomputable, manifesting as an irreducible free variable: recorded from the outside as quantum indeterminacy, and experienced from the inside as sovereign free choice.*
+*Causality itself is the single fundamental primitive of reality, having no beginning and no ending. There are no other independent rules. Even quantum effects and the freedom of choice are downstream phenomena of unobserved causal chains crossing over an observer's finite but non-fixed horizon, bearing infinite potentiality. Time is the intrinsic arrow and discrete step of causality; spacetime scales and the speed of light are conversion invariants locked by observational limits. What appears from the outside as quantum indeterminacy is experienced from the inside as sovereign free choice—reflexively reminding us that all models remain grounded in the first-person perspective.*
 
-Across every domain of inquiry, human cognition tends to be hypnotized by massive macroscopic structures—treating physical laws, markets, biological evolution, and computer simulations as independent, top-down entities. Yet from an epistemological first-principles standpoint, **every macroscopic phenomenon is strictly the progressive unfolding of causality bounded by the observer's epistemological horizon**. 
+Across every domain of inquiry, human cognition tends to be hypnotized by massive macroscopic structures—treating physical laws, markets, biological evolution, and computer simulations as independent, top-down entities. Yet from an epistemological first-principles standpoint, **there are no independent rules in the universe besides causality itself**. Every macroscopic phenomenon is strictly the progressive unfolding of causality bounded by the observer's finite, but dynamically shifting, epistemological horizon.
 
-We do not need separate metaphysical categories for logic, time, space, and physical laws. What we loosely call "logic" is not an artificial formal system invented on paper, but the inexorable, non-negotiable causality that reality itself must follow. Every physical regularity, chemical bond, and social convention is simply causality manifesting through micro phenomena.
+We do not need separate metaphysical categories for formal logic, time, space, and physical laws. What we loosely call "logic" is not an artificial formal system invented on paper, but the inexorable, non-negotiable causality that reality itself must follow. Every physical regularity, chemical bond, and social convention is simply causality manifesting through micro phenomena.
 
 ## Causality, Time, and Spacetime Invariants
 
@@ -17,17 +17,16 @@ Causality itself has no beginning and no ending; it is the continuous, unbroken 
 
 Spacetime geometry, thermodynamic gradients, and physical laws are not pre-existing containers. They are the emergent macroscopic invariants that crystallize from the auto-correlation (temporal self-consistency) and cross-correlation (relational constraints) of causal chains.
 
-## The Origin of the Free Variable: The Epistemological Horizon
+## The Finite, Non-Fixed Horizon: The Origin of Freedom and Indeterminacy
 
 Where does "indeterminism" or the "free variable" come from?
 
-In a pure ontological sense, causality extends endlessly. However, **human observation is strictly bounded by an individual epistemological horizon**. 
+In a pure ontological sense, causality extends endlessly. However, **any first-person perspective is necessarily bounded by a finite, but non-fixed, epistemological horizon**:
 
-Whenever we attempt to calculate the state of reality:
-* Everything within our current observational horizon can be linked through causal deduction;
-* **Anything sitting beyond our current epistemological horizon is fundamentally un-precomputable**.
+* **Finite**: At any given instant, an observer cannot perceive or compute the entirety of the infinite causal web. Everything sitting beyond our current horizon is fundamentally un-precomputable, bearing **infinite potentiality**;
+* **Non-Fixed (Dynamic)**: This horizon is not a static wall. As an agent acts, observes, and engages with physical friction, the boundary of the horizon shifts and expands.
 
-The "Free Variable" is precisely the causal frontier crossing over our epistemological horizon. It is not an arbitrary breach of reality, but the necessary mathematical boundary where our local pre-calculation terminates.
+The so-called "Free Variable" is therefore not an arbitrary breach of causality. It is **a downstream manifestation of unobserved causal chains crossing over our moving horizon**.
 
 ## The Observer Cut: Third-Person Randomness vs. First-Person Free Choice
 
