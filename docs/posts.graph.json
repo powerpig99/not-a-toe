@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-31T06:22:48.675Z",
+    "generated_at": "2026-08-31T08:20:19.839Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -180,6 +180,7 @@
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
+      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "d404d4fe97be",
       "content/posts/the-generative-contradiction.md": "2cef8f7c85e8",
       "content/posts/the-geometry-of-success.md": "9b4a467d58a1",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
@@ -264,25 +265,25 @@
       "content/posts/you-wu-zhi-bian.md": "1522665be00e",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "14e64a360be4",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "4490ab7f0be7",
-      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "bcba0c108125",
+      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "47997131057e",
       "content/posts/zi-you-de-ce-bu-zhun.md": "e6f717651a1a",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "bb9d4c1c3e6c",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 260,
-      "edges": 2641,
-      "unique_directed": 2615,
+      "posts": 261,
+      "edges": 2652,
+      "unique_directed": 2626,
       "missing_targets": 0,
-      "one_way": 509,
+      "one_way": 518,
       "isolated": 36,
-      "posts_with_outbound": 208
+      "posts_with_outbound": 209
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 69
+      "in_degree": 70
     },
     {
       "slug": "openness-is-consistency",
@@ -294,7 +295,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 46
+      "in_degree": 47
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -1194,7 +1195,7 @@
       "path": "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md",
       "title": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则",
       "hash": "c05d0683a3eb",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 5,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1758,7 +1759,7 @@
       "path": "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md",
       "title": "格物致知与信息复杂度的本质：从第三人称凝视到具身因果推演",
       "hash": "70fb5346d4d6",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
@@ -2068,7 +2069,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "c6a1de45c459",
-      "in_degree": 69,
+      "in_degree": 70,
       "out_degree": 53,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2572,7 +2573,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
       "hash": "a5c5f59964ed",
-      "in_degree": 46,
+      "in_degree": 47,
       "out_degree": 36,
       "links_out": [
         "openness-is-consistency",
@@ -3625,7 +3626,7 @@
       "path": "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md",
       "title": "选择看见而非搜寻影子：从注意力的因果错位到知识的自然扩散",
       "hash": "c38e493c7920",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 7,
       "links_out": [
         "the-mark-and-the-act",
@@ -4272,6 +4273,28 @@
       ]
     },
     {
+      "id": "post:the-generative-atlas-of-macroscopic-phenomena",
+      "kind": "post",
+      "slug": "the-generative-atlas-of-macroscopic-phenomena",
+      "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
+      "title": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction",
+      "hash": "d404d4fe97be",
+      "in_degree": 1,
+      "out_degree": 10,
+      "links_out": [
+        "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+        "what-information-is",
+        "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+        "individual-choices-as-the-only-causal-levers",
+        "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+        "the-geometry-of-success",
+        "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+        "no-system-can-be-kept-closed",
+        "the-mark-and-the-act"
+      ]
+    },
+    {
       "id": "post:the-generative-contradiction",
       "kind": "post",
       "slug": "the-generative-contradiction",
@@ -4297,7 +4320,7 @@
       "path": "content/posts/the-geometry-of-success.md",
       "title": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\"",
       "hash": "9b4a467d58a1",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 9,
       "links_out": [
         "cheng-gong-xue",
@@ -4612,7 +4635,7 @@
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "The Mark and the Act",
       "hash": "b0ee6df318ab",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 9,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -5726,7 +5749,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -5987,7 +6010,7 @@
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错",
       "hash": "d62c94f006e9",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "the-mark-and-the-act",
@@ -6090,13 +6113,14 @@
       "slug": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权：量子、比特与微观选择",
-      "hash": "bcba0c108125",
-      "in_degree": 4,
-      "out_degree": 6,
+      "hash": "47997131057e",
+      "in_degree": 5,
+      "out_degree": 7,
       "links_out": [
         "what-information-is",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+        "the-generative-atlas-of-macroscopic-phenomena",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "individual-choices-as-the-only-causal-levers",
         "gao-wei-xin-xi-de-li-san-zhe-she"
@@ -16645,6 +16669,66 @@
       "label": "Residual individualism"
     },
     {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "rel": "points_to",
+      "label": "格物致知与信息复杂度的本质：从感知截面到因果编译"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is: Selection Under Constraint"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "自由变量的同构与先验主权：量子、比特与微观选择"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果与集体归因倒错：从雪崩、盲从到第一人称因果自洽"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\""
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "rel": "points_to",
+      "label": "选择看见而非搜寻影子：从注意力的因果错位到知识的自然扩散"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No system can be kept closed"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
       "from": "the-generative-contradiction",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
@@ -21827,6 +21911,12 @@
       "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "rel": "points_to",
       "label": "投影的阶梯与因果的锚点"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
