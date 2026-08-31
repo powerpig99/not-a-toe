@@ -52,6 +52,7 @@ Lead: 2–4 complete sentences summarizing the argument.
 | Body | Starts at first `##` / `###` |
 | Section headings | Name the cut of that section — a specific claim or distinction. Not a generic slot |
 | Allowed | Headings, paragraphs, `[text](url)`, `*`/`**`, `>`, lists, `---` in body only; hard line breaks (two trailing spaces) for verse in body |
+| List formatting | **Blank line before & after (CRITICAL)**: Always insert an empty newline before and after every list block (`* ` or `1. `), especially after a colon `:`. Never start a list immediately on the following line without an empty line, otherwise CommonMark and Substack/X clipboard handlers flatten the list into a single paragraph with inline asterisks |
 | Forbidden | YAML frontmatter, HTML, non-prose blocks before first section heading |
 | End | Trailing newline |
 

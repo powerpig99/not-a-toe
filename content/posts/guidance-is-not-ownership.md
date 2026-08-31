@@ -23,6 +23,7 @@ Popular media constantly portrays parents as helpless victims of adolescent rebe
 The foundational reality of existence begins with an absolute causal asymmetry: **the child never chose or requested to be brought into the world**. 
 
 The parents unilaterally executed the causal choice to initiate a new conscious existence. Having taken that unilateral step, the parents owe the child the foundational duties of stewardship:
+
 1. Physical protection against catastrophic, irreversible harm;
 2. An environment structured for clear causal feedback;
 3. Honest, high-bandwidth models of causal reasoning;
@@ -33,6 +34,7 @@ Yet precision is required not to overstate the scope of this obligation: **paren
 The future is authored, owned, and carried solely by the child. To claim that parents owe their children a guaranteed destiny, success, or happiness is the inverse delusion of parental control: it breeds a culture of juvenile entitlement and external blame, where adult offspring hold parents responsible for their own shortcomings. 
 
 Sovereignty is strictly symmetric:
+
 * Parents do not own the child's will and have no right to drive the vehicle;
 * Children cannot outsource the authorship of their lives and have no right to demand that parents guarantee the destination.
 
@@ -68,6 +70,7 @@ As explored in [Emotional support as causal interference](../emotional-support-a
 This confusion is not unique to families; it infects institutional hierarchies across human society. 
 
 Institutional roles distribute asymmetric leverage, information, and power:
+
 * A CEO directs corporate resources;
 * A military commander issues operational orders;
 * A state enacts statutory mandates.
@@ -83,6 +86,7 @@ Rejecting deterministic agency-relocation is not a naive claim that choice opera
 **Constraints explain the menu of options on the table; they do not dissolve the mind selecting from them.** A constrained choice remains an authentic choice.
 
 The biological reductionism that excuses parents and infantilizes adolescents is itself a chosen stance:
+
 1. Parents adopt "hormonal hijacking" narratives because blaming biology is emotionally cheaper than confronting the loss of control and owning the structural limits of their authority;
 2. Psychologists and institutions market these narratives because pathologizing the individual creates an endless demand for external management and therapeutic mediation;
 3. Young people internalize these narratives, using "brain development" as an excuse to abdicate responsibility for the consequences of their own actions.
@@ -94,6 +98,7 @@ As demonstrated in [Ownership and self-worthiness](../ownership-and-self-worthin
 Early childhood demands tighter environmental boundaries; developing competence demands systemic, deliberate withdrawal.
 
 Roles can remain radically unequal in operational responsibility without denying the sovereign status of the other person's will:
+
 * In early childhood, the parent rides alongside, holding the handbrake against catastrophic cliffs while fostering a warm, supportive bond;
 * In adolescence, the parent moves to the passenger seat, offering maps and pointing out terrain while refusing to grab the wheel;
 * In maturity, the parent steps out of the vehicle entirely.
