@@ -423,6 +423,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi` | Japanese Shin-Hanga woodblock print on fibrous washi paper with minimalist wooden pavilion, reflective bronze water basin catching morning light on tatami, and open shoji screen looking out at distant misty mountain travelers |
 | `the-generative-atlas-of-macroscopic-phenomena` | Renaissance Leonardo da Vinci panoramic codex manuscript on open aged parchment table with quantum orbital harmonics on left, mechanical logic gears in center, and celestial astrolabe with human proportion on right |
 | `guidance-is-not-ownership` | Minimalist modernist serigraph risograph print on textured fibrous cotton rag paper with terracotta highway, open vintage vehicle, adult standing outside letting younger driver take the wheel toward distant mountain horizon at dawn |
+| `the-fallacy-of-post-success-parenting` | Constructivist Bauhaus architectural lithograph on heavy fibrous cream wove paper with towering obsidian colonnade casting dark angular shadows on manicured grounds and solitary young silhouette striding into rugged open mountain contours at dawn |
 
 ## Crowded — prefer not to extend
 

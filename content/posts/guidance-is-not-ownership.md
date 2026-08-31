@@ -38,7 +38,7 @@ Sovereignty is strictly symmetric:
 * Parents do not own the child's will and have no right to drive the vehicle;
 * Children cannot outsource the authorship of their lives and have no right to demand that parents guarantee the destination.
 
-The parent supplies the launchpad and stewardship; the child authors the trajectory.
+The parent supplies the launchpad and stewardship; the child authors the trajectory. [The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle](../the-fallacy-of-post-success-parenting/) traces how elite parents invert this launchpad when they attempt to clone their own historical paths.
 
 ## The Conservation of Authorship
 

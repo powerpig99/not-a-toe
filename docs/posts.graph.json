@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-31T17:40:17.091Z",
+    "generated_at": "2026-08-31T18:06:02.198Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -73,7 +73,7 @@
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "d43109f0b737",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "a170edfe2e69",
-      "content/posts/guidance-is-not-ownership.md": "e2ca959609c4",
+      "content/posts/guidance-is-not-ownership.md": "613ea416b174",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "33876b76477c",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
@@ -176,6 +176,7 @@
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
+      "content/posts/the-fallacy-of-post-success-parenting.md": "c9400dabc8be",
       "content/posts/the-fixed-image-of-transcendence.md": "7c3ba6ced47b",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3cd05b0818a",
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
@@ -272,13 +273,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 262,
-      "edges": 2662,
-      "unique_directed": 2635,
+      "posts": 263,
+      "edges": 2672,
+      "unique_directed": 2645,
       "missing_targets": 0,
-      "one_way": 525,
-      "isolated": 36,
-      "posts_with_outbound": 210
+      "one_way": 533,
+      "isolated": 35,
+      "posts_with_outbound": 211
     }
   },
   "hubs_in": [
@@ -300,7 +301,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 41
+      "in_degree": 42
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -466,7 +467,6 @@
     "intelligence-traps-itself",
     "mises-state-analysis",
     "munger-dumb-competition-refined",
-    "on-education",
     "platform-decision-capture",
     "scaffolds-or-specialized-contexts",
     "school_essay_final",
@@ -1213,7 +1213,7 @@
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
       "title": "Curiosity First: The Hidden Engine of Talent and Development",
       "hash": "6a8035415fba",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 16,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
@@ -1384,7 +1384,7 @@
       "path": "content/posts/emotional-support-as-causal-interference.md",
       "title": "Emotional Support as Causal Interference",
       "hash": "8492f8158e6b",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 6,
       "links_out": [
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
@@ -1836,12 +1836,13 @@
       "slug": "guidance-is-not-ownership",
       "path": "content/posts/guidance-is-not-ownership.md",
       "title": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control",
-      "hash": "e2ca959609c4",
-      "in_degree": 1,
-      "out_degree": 8,
+      "hash": "613ea416b174",
+      "in_degree": 2,
+      "out_degree": 9,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
+        "the-fallacy-of-post-success-parenting",
         "individual-choices-as-the-only-causal-levers",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "emotional-support-as-causal-interference",
@@ -2768,7 +2769,7 @@
       "path": "content/posts/on-education.md",
       "title": "On Education, Resonance, and Giving Someone the Real Thing",
       "hash": "d62f17d7f550",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 0,
       "links_out": []
     },
@@ -2951,7 +2952,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "7d49db6985d2",
-      "in_degree": 41,
+      "in_degree": 42,
       "out_degree": 29,
       "links_out": [
         "failure-as-information",
@@ -4191,6 +4192,27 @@
       ]
     },
     {
+      "id": "post:the-fallacy-of-post-success-parenting",
+      "kind": "post",
+      "slug": "the-fallacy-of-post-success-parenting",
+      "path": "content/posts/the-fallacy-of-post-success-parenting.md",
+      "title": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle",
+      "hash": "c9400dabc8be",
+      "in_degree": 1,
+      "out_degree": 9,
+      "links_out": [
+        "the-generative-atlas-of-macroscopic-phenomena",
+        "the-geometry-of-success",
+        "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+        "guidance-is-not-ownership",
+        "on-education",
+        "emotional-support-as-causal-interference",
+        "curiosity-first-the-hidden-engine-of-talent-and-development",
+        "ownership-and-self-worthiness",
+        "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai"
+      ]
+    },
+    {
       "id": "post:the-fixed-image-of-transcendence",
       "kind": "post",
       "slug": "the-fixed-image-of-transcendence",
@@ -4301,7 +4323,7 @@
       "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
       "title": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction",
       "hash": "3193b257409a",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 10,
       "links_out": [
         "what-information-is",
@@ -4342,7 +4364,7 @@
       "path": "content/posts/the-geometry-of-success.md",
       "title": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\"",
       "hash": "9b4a467d58a1",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 9,
       "links_out": [
         "cheng-gong-xue",
@@ -5704,7 +5726,7 @@
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因：个人进步的障碍",
       "hash": "44869ec76009",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 11,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -6032,7 +6054,7 @@
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错",
       "hash": "d62c94f006e9",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 6,
       "links_out": [
         "the-mark-and-the-act",
@@ -9741,6 +9763,12 @@
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
       "label": "Sympathy is a placeholder for lack of clarity"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle"
     },
     {
       "from": "guidance-is-not-ownership",
@@ -16479,6 +16507,60 @@
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
       "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The geometry of success"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果与集体归因倒错：从雪崩、盲从到第一人称因果自洽"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "on-education",
+      "rel": "points_to",
+      "label": "On education"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional support as causal interference"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity first, compounded capability downstream"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因：个人进步的障碍"
     },
     {
       "from": "the-fixed-image-of-transcendence",
