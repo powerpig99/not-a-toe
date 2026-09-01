@@ -119,7 +119,9 @@ Institutions are neither moral saviors nor oppressive monsters; they are the eme
 
 ## The Four Postures of Agency: Navigating the Evolutionary Field
 
-Because absolute, 100% personal responsibility is an asymptotic ideal that no finite mind fully achieves, individuals distribute their agency across four distinct evolutionary postures:
+These postures are not rigid, clear-cut categories or fixed psychological types. They represent a rough, heuristic abstraction mapping the continuous, multidimensional spectrum along which individuals allocate—or misallocate—their sovereign agency across different domains and moments. 
+
+Because absolute, 100% personal responsibility is an asymptotic ideal that no finite mind fully attains in practice, human behavior distributes across this spectrum:
 
 1. **The Navigators (Active Participation Without Reliance)**:
    These individuals shoulder the vast majority of their personal responsibility. They do not hide from institutions, nor do they look to institutions for salvation, identity, or guarantees. Instead, they treat institutions purely as **rugged terrain that must be navigated**. Because they never misallocate their sovereign freedom of choice onto external structures, they experience the highest rate of self-improvement and capability compounding in the entire social matrix.
@@ -129,6 +131,8 @@ Because absolute, 100% personal responsibility is an asymptotic ideal that no fi
    Certain individuals assume high personal responsibility but choose to detach entirely from societal interaction. Common among cynics or successful individuals who seek absolute safety, this withdrawal severs the agent from the rich, high-velocity feedback loops of the social field. By checking out, they severely limit their available option space, starve their predictive models of diverse friction, and experience a quiet, private form of evolutionary obsolescence.
 4. **The High-Agency Trap (The Savior / Override Reflex)**:
    Formidable, high-agency individuals frequently fall into the dangerous conceit that they can—and should—make decisions for other people, whether through direct micromanagement or institutional leverage. This well-intentioned or hubristic impulse immediately spawns dependency loops. It represents a hidden misallocation of the actor's own agency: they exhaust their finite cognitive energy attempting to manage and optimize the feedback loops of *others*, rather than focusing on the only loop they truly control—their own recursive self-improvement.
+
+In practice, no individual occupies a single posture in perpetuity. A person may operate as a clear-eyed navigator within their professional craft, while simultaneously succumbing to the high-agency savior trap within family dynamics, or seeking the comfort of an institutional buffer when facing unexpected crises. The value of this abstraction is not to classify personalities into static boxes, but to trace the dynamic spectrum where a mind leaks its sovereign causality into externalized loops versus where it maintains direct ownership of its error signals.
 
 ## The Paradox of Political Individualism: A Minor Dialect of Collectivism
 
