@@ -8,9 +8,11 @@ Roger Penrose and Stuart Hameroff famously placed orchestrated objective reducti
 
 This exchange is entirely about whether a particular phase alignment among quantum amplitudes can persist inside a neuron. That alignment is one coherence. The coherence through which an experienced world remains a single continuous field—holding a stable scene while remaining available for what arrives next—is an entirely different coherence.
 
-## Causality as the Sole Primitive
+## Causality as the Irreducible Prior
 
-To see why the two coherences belong to different orders of reality, one must begin with the single irreducible ground: **causality is the primitive**.
+To see why the two coherences belong to different orders of reality, one must begin with the single foundational ground: **causality is not an empirical claim, but the irreducible prior for any theory, model, or reasoning**.
+
+One cannot question, formulate, or test a physical law without already standing within the causal operation that links antecedent conditions to consequences. Any attempt to explain causality by appealing to a prior physical mechanism is a category error—because the explanation itself relies on the causal logic it purports to derive.
 
 Causality runs as an unbroken, continuous fabric from infinity toward infinity. Space, time, thermodynamic gradients, spacetime geometry, and the compact laws of physics used to navigate physical friction are not independent background containers; they are **macroscopic invariants of auto-correlation and cross-correlation** crystallizing across intersecting causal chains, as derived in [The Generative Atlas of Macroscopic Phenomena](../the-generative-atlas-of-macroscopic-phenomena/).
 
@@ -18,17 +20,19 @@ A compact physical law is a statistical symptom of this causal fabric—a local 
 
 There is no sealed cosmic origin standing behind the map, and no exterior platform from which an observer can stand outside the causal fabric to inspect reality as a finished object. Closure belongs exclusively to the compiled mathematical invariant; causality itself remains living, continuous, and unceasing.
 
-## The Finite Horizon and the Observer Duality
+## Where Perception Falls into Indeterminism: Chance and Choice
 
-The observational horizon of any sovereign center is finite at any given instant, yet dynamic and mobile as action proceeds.
+Because causality is the irreducible prior, every observable phenomenon must have a cause. A researcher or observer can trace a causal sequence backward through mechanical linkages, chemical gradients, and cellular pathways.
 
-Causal structure beyond that moving horizon remains uncomputed for the observer standing at the edge:
+Yet no causal chain can remain deterministically computable forever. Every causal chain must extend continuously until it **falls off the finite horizon of perception into an indeterministic event**.
 
-* **The Third-Person Perspective**: Recorded in the language of external physics as **quantum indeterminacy**—a wave function of probabilistic possibilities;
-* **The First-Person Perspective**: Undergone directly in conscious life as **the sovereign choice of a next state**;
-* **The Unity of the Cut**: Chance and choice meet at the exact same boundary. The cut is the aperture through which any model of an external cosmos is assembled.
+At that boundary where uncomputed causality crosses the perceptual horizon, the event presents a fundamental duality:
 
-Whether an observer measures a quantum collapse in a laboratory or consciously resolves a decision in daily life, they are experiencing the exact same causal crossing from opposite sides of the aperture.
+* **From the Outside (Third-Person Physics)**: It is registered as an **unobserved quantum event**—an irreducible probabilistic transition where a wave function resolves into a realized state;
+* **From the Inside (First-Person Consciousness)**: It is directly undergone as **a sovereign freedom of choice**—the actualization of a specific action among open potentials;
+* **The Unity of the Cut**: Quantum indeterminacy and subjective free choice are not two competing metaphysical substances; they are the external and internal faces of the exact same causal boundary where perception meets the uncomputed remainder.
+
+Chance and choice meet at one cut. That cut is the living aperture through which any model of an external cosmos is assembled.
 
 ## The Causal Inversion of the Quantum Brain Debate
 
