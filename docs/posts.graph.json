@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-08-31T18:06:02.198Z",
+    "generated_at": "2026-09-01T04:12:55.725Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -143,7 +143,7 @@
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "644799752a61",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "93ee8acd93d7",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
-      "content/posts/residual-individualism.md": "826b80e49461",
+      "content/posts/residual-individualism.md": "b7e7d68cba6f",
       "content/posts/restriction-is-a-selective-tax.md": "41418edaaaad",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -176,14 +176,15 @@
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
-      "content/posts/the-fallacy-of-post-success-parenting.md": "c9400dabc8be",
+      "content/posts/the-fallacy-of-post-success-parenting.md": "782ad619514f",
       "content/posts/the-fixed-image-of-transcendence.md": "7c3ba6ced47b",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3cd05b0818a",
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
-      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "3193b257409a",
+      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "d1c1bec27100",
       "content/posts/the-generative-contradiction.md": "2cef8f7c85e8",
+      "content/posts/the-generative-topology-of-free-variables.md": "984244880804",
       "content/posts/the-geometry-of-success.md": "9b4a467d58a1",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
@@ -273,13 +274,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 263,
-      "edges": 2672,
-      "unique_directed": 2645,
+      "posts": 264,
+      "edges": 2680,
+      "unique_directed": 2653,
       "missing_targets": 0,
-      "one_way": 533,
+      "one_way": 539,
       "isolated": 35,
-      "posts_with_outbound": 211
+      "posts_with_outbound": 212
     }
   },
   "hubs_in": [
@@ -301,7 +302,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 42
+      "in_degree": 43
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -1213,7 +1214,7 @@
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
       "title": "Curiosity First: The Hidden Engine of Talent and Development",
       "hash": "6a8035415fba",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 16,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
@@ -2952,7 +2953,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "7d49db6985d2",
-      "in_degree": 42,
+      "in_degree": 43,
       "out_degree": 29,
       "links_out": [
         "failure-as-information",
@@ -3094,7 +3095,7 @@
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "Politicians Appear as Visible Symptoms of Responsibility Diffusion",
       "hash": "779ff9a029ff",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 12,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -3429,9 +3430,9 @@
       "slug": "residual-individualism",
       "path": "content/posts/residual-individualism.md",
       "title": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies",
-      "hash": "826b80e49461",
-      "in_degree": 21,
-      "out_degree": 20,
+      "hash": "b7e7d68cba6f",
+      "in_degree": 22,
+      "out_degree": 21,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "when-abundance-looks-like-scarcity",
@@ -3448,6 +3449,7 @@
         "liberation-rhetoric-begins-by-defining-captivity",
         "externalized-virtue-becomes-its-opposite",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
+        "the-generative-topology-of-free-variables",
         "sowell-observed-the-surface-problem",
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "cheng-gong-xue",
@@ -3679,7 +3681,7 @@
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
       "hash": "7052251d0a3c",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 20,
       "links_out": [
         "hassabis-frontier-agi-premise",
@@ -4197,7 +4199,7 @@
       "slug": "the-fallacy-of-post-success-parenting",
       "path": "content/posts/the-fallacy-of-post-success-parenting.md",
       "title": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle",
-      "hash": "c9400dabc8be",
+      "hash": "782ad619514f",
       "in_degree": 1,
       "out_degree": 9,
       "links_out": [
@@ -4306,7 +4308,7 @@
       "path": "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md",
       "title": "The Free Mind Is Displaced by What Claims to Protect It",
       "hash": "c94bb15b363f",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
@@ -4322,9 +4324,9 @@
       "slug": "the-generative-atlas-of-macroscopic-phenomena",
       "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
       "title": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction",
-      "hash": "3193b257409a",
+      "hash": "d1c1bec27100",
       "in_degree": 3,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "what-information-is",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -4334,6 +4336,7 @@
         "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
         "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "no-system-can-be-kept-closed",
+        "the-generative-topology-of-free-variables",
         "the-mark-and-the-act",
         "curiosity-has-no-final-form"
       ]
@@ -4355,6 +4358,24 @@
         "ownership-and-self-worthiness",
         "selection-contradiction-and-open-reality",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai"
+      ]
+    },
+    {
+      "id": "post:the-generative-topology-of-free-variables",
+      "kind": "post",
+      "slug": "the-generative-topology-of-free-variables",
+      "path": "content/posts/the-generative-topology-of-free-variables.md",
+      "title": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence",
+      "hash": "984244880804",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "curiosity-first-the-hidden-engine-of-talent-and-development",
+        "ownership-and-self-worthiness",
+        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+        "sovereignty-belief-and-regulatory-structures",
+        "residual-individualism",
+        "the-free-mind-is-displaced-by-what-claims-to-protect-it"
       ]
     },
     {
@@ -14530,6 +14551,12 @@
     },
     {
       "from": "residual-individualism",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence"
+    },
+    {
+      "from": "residual-individualism",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
       "label": "Sowell observed the surface problem"
@@ -16876,6 +16903,12 @@
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "the-mark-and-the-act",
       "rel": "points_to",
       "label": "The Mark and the Act"
@@ -16933,6 +16966,42 @@
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
       "label": "外部归因：个人进步的障碍"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity first, compounded capability downstream"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "The free mind is displaced by what claims to protect it"
     },
     {
       "from": "the-geometry-of-success",
