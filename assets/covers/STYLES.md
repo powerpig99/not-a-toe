@@ -98,6 +98,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Drypoint cartographic plate** | Warm ivory rag paper, sepia iron-gall drypoint, incomplete map with grid continuing past torn edge, field-lines from stylus, plate tone | `the-reality-distortion-field-names-the-closed-map` |
 | **Comic halftone / Ben-Day dots** | Cream newsprint, cyan–magenta–black process dots, slight misregistration, graphic speech-mass vs rain on cracked basin | `reality-is-the-minds-ongoing-realization` |
 | **Sandblasted glass etching** | Frosted dark glass panel, teal–amber luminous path, grain, museum side light; opened circuit with third node | `therapy-opens-the-feedback-loop` |
+| **Banknote intaglio / guilloché engraving** | Intricate mathematical guilloché rosette security lattices, fine intaglio copperplate lathe waves, forest green & charcoal ink on deckle-edged cream cotton rag paper | `the-generative-mechanics-of-value-money-and-wealth` |
 | **Soft clay / stop-motion puppet still** | Warm polymer clay board, hand-pressed footprints and short path segments, soft studio light, fingerprint texture | `individual-choices-as-the-only-causal-levers` |
 | **Silverpoint / metalpoint on gesso** | Cream prepared ground, single-weight gray metal lines, paper tooth, museum raking light; stylus lag trail | `qian-yin-hou-guo` |
 | **Kintsugi ceramic still life** | Documentary museum still life: ceramic vessel with gold repair seams on a continuous slate ledger grid that tries to absorb the discrete bowl | `the-coordinators-category-error` |
@@ -425,6 +426,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `guidance-is-not-ownership` | Minimalist modernist serigraph risograph print on textured fibrous cotton rag paper with terracotta highway, open vintage vehicle, adult standing outside letting younger driver take the wheel toward distant mountain horizon at dawn |
 | `the-fallacy-of-post-success-parenting` | Constructivist Bauhaus architectural lithograph on heavy fibrous cream wove paper with towering obsidian colonnade casting dark angular shadows on manicured grounds and solitary young silhouette striding into rugged open mountain contours at dawn |
 | `the-generative-topology-of-free-variables` | Architectural cyanotype and illuminated intaglio etching on deep Prussian blue fibrous paper with quantum horizon particles, toroidal feedback loops, architectural gothic arches, and independent golden vector stride |
+| `the-generative-mechanics-of-value-money-and-wealth` | Fine intaglio banknote engraving on deckle-edged cream cotton rag paper with intricate guilloché rosettes in deep forest green and charcoal ink, central medallion with glowing sovereign spark of creative capability held in hand surrounded by promissory lathe arches |
 
 ## Crowded — prefer not to extend
 

@@ -68,7 +68,7 @@ In practice, the opposite occurs. The towering success of the parent, combined w
 2. **Asymmetric Risk Psychology**: Failure carries the humiliation of falling short of a prominent parent, while success merely meets baseline expectations;
 3. **External Attribution of Identity**: Personal achievements are perpetually credited to parental influence, eroding the internal sense of authentic agency.
 
-As demonstrated in [Ownership and self-worthiness](../ownership-and-self-worthiness/) and [外部归因：个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/), self-worth and resilience are generated solely through the closed feedback loop of owning one's outcomes. When wealth and parental management absorb all the impact of poor decisions, the mind is deprived of the error signals required to sharpen internal competence.
+As demonstrated in [Ownership and self-worthiness](../ownership-and-self-worthiness/) and [外部归因：个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/), self-worth and resilience are generated solely through the closed feedback loop of owning one's outcomes. When wealth and parental management absorb all the impact of poor decisions, the mind is deprived of the error signals required to sharpen internal competence. [The Generative Mechanics of Value, Money, and Wealth](../the-generative-mechanics-of-value-money-and-wealth/) formalizes how unearned surplus saturates the cybernetic loss function, tranquilizing personal capability development.
 
 ## The Negative Feedback Loop and the Illusion of Comfort
 
