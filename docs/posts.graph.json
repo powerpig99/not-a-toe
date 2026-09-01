@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-01T16:20:07.672Z",
+    "generated_at": "2026-09-01T19:19:36.978Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -184,7 +184,7 @@
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
-      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "d1c1bec27100",
+      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "0333e5e45908",
       "content/posts/the-generative-contradiction.md": "2cef8f7c85e8",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "cce9f4b4a1b2",
       "content/posts/the-generative-topology-of-free-variables.md": "10c9f17ef6d8",
@@ -216,6 +216,7 @@
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "134a07cc1be4",
       "content/posts/the-observational-cut-in-ai-debates.md": "170100d442c0",
+      "content/posts/the-other-coherence.md": "caeeee68fa73",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "5f263a356b4c",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "bee35e17aea8",
@@ -279,13 +280,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 269,
-      "edges": 2708,
-      "unique_directed": 2681,
+      "posts": 270,
+      "edges": 2711,
+      "unique_directed": 2684,
       "missing_targets": 0,
-      "one_way": 555,
+      "one_way": 556,
       "isolated": 35,
-      "posts_with_outbound": 217
+      "posts_with_outbound": 218
     }
   },
   "hubs_in": [
@@ -4370,9 +4371,9 @@
       "slug": "the-generative-atlas-of-macroscopic-phenomena",
       "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
       "title": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction",
-      "hash": "d1c1bec27100",
-      "in_degree": 3,
-      "out_degree": 11,
+      "hash": "0333e5e45908",
+      "in_degree": 4,
+      "out_degree": 12,
       "links_out": [
         "what-information-is",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -4384,7 +4385,8 @@
         "no-system-can-be-kept-closed",
         "the-generative-topology-of-free-variables",
         "the-mark-and-the-act",
-        "curiosity-has-no-final-form"
+        "curiosity-has-no-final-form",
+        "the-other-coherence"
       ]
     },
     {
@@ -4430,7 +4432,7 @@
       "path": "content/posts/the-generative-topology-of-free-variables.md",
       "title": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence",
       "hash": "10c9f17ef6d8",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 4,
       "links_out": [
         "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -4985,6 +4987,20 @@
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
         "the-risk-is-the-belief-in-oversight-itself",
         "agi-and-asi-are-temporary-goalposts"
+      ]
+    },
+    {
+      "id": "post:the-other-coherence",
+      "kind": "post",
+      "slug": "the-other-coherence",
+      "path": "content/posts/the-other-coherence.md",
+      "title": "The Other Coherence",
+      "hash": "caeeee68fa73",
+      "in_degree": 1,
+      "out_degree": 2,
+      "links_out": [
+        "the-generative-atlas-of-macroscopic-phenomena",
+        "the-generative-topology-of-free-variables"
       ]
     },
     {
@@ -17121,6 +17137,12 @@
       "label": "Curiosity Has No Final Form"
     },
     {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "the-other-coherence",
+      "rel": "points_to",
+      "label": "The Other Coherence"
+    },
+    {
       "from": "the-generative-contradiction",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
@@ -18529,6 +18551,18 @@
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "the-other-coherence",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena"
+    },
+    {
+      "from": "the-other-coherence",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "The Generative Topology of Free Variables"
     },
     {
       "from": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",

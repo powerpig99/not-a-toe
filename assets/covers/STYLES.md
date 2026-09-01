@@ -432,6 +432,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `agency-compounding-and-the-argument-over-ai-feudalism` | Constructivist precisionist architectural lithograph on heavy cream wove paper with massive static neo-feudal monolithic fortress on left and solitary silhouette ascending steep luminous golden compounding vector path high above into open horizon |
 | `the-look-of-constraint-is-not-the-loss-of-freedom` | Japanese Momoyama period gold-leaf folding screen (byōbu) with burnished gold ground, sumi ink geometric basin on one side opening into expansive unbounded moving horizon with mist, pine contours, and subtle malachite washes |
 | `self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success` | Vienna Secessionist mixed-media painting in the style of Gustav Klimt with textured 24k gold leaf, oil paint, spiraling mosaics, glowing artisan silhouette forging incandescent tool on anvil, and petrified figures in heavy gilded thrones and cages |
+| `the-other-coherence` | Persian Safavid illumination and lapis-gold miniature painting on aged cream parchment with ultramarine arabesques, gold filigree lattice on left dissolving through open archway aperture into radiant continuous starry cosmic horizon on right |
 
 ## Crowded — prefer not to extend
 
