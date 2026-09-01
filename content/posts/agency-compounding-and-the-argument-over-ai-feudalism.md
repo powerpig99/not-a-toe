@@ -41,15 +41,26 @@ Over an extended temporal horizon, relative societal standing is not determined 
 In basic mathematical terms:
 
 * A starting condition—family wealth, social background, early capital, or geographic luck—is a **constant intercept** (`b`);
-* An individual's self-directed rate of learning, error correction, and execution is a **dynamic slope** (`m`).
+* An individual's self-directed rate of learning, error correction, and execution is a **dynamic slope** (`m`);
+* Artificial intelligence acts as a **high-gain acceleration multiplier** (`k`).
 
-Given sufficient time (`t → +∞`), any persistent positive difference in slope mathematically overwhelms a finite starting intercept:
+When combined, an individual's trajectory unfolds as:
 
-> Trajectory(t) = m · t + b
+> Trajectory(t) = (k · m) · t + b
 
-This elementary dynamic explains why individuals consistently rise from near the bottom to the frontier of competence. The initial intercept is finite and static; the compounding slope is recursive and unbounded.
+In previous technological eras—such as the advent of the steam engine, electrification, or the early personal computer—an individual with a superior improvement slope still faced severe physical and logistical friction. Overtaking well-capitalized incumbents often required decades of capital accumulation and physical infrastructure construction.
 
-This dynamic also clarifies the limits of purely asset-centric survival strategies. Accumulating static assets is useful only if those assets serve as leverage within an active, living update loop. Assets acquired without an internal engine of capability remain a frozen intercept; they do not generate a higher slope. As derived in [Having More Is Never the Cause](../having-more-is-never-the-cause/) and [The Generative Mechanics of Value, Money, and Wealth](../the-generative-mechanics-of-value-money-and-wealth/), possession is merely the lagging residue of past decisions—it is never the generative cause of future growth.
+Because AI functions as a high-bandwidth cognitive multiplier, it **multiplies the compounding rate itself**. The temporal duration required for an active, self-directed slope to surpass a massive initial capital deficit (`Δb`) is drastically compressed:
+
+> t* = Δb / (k · Δm)
+
+As the acceleration factor (`k`) increases, the time required to overcome an initial disadvantage shrinks. Far from cementing a permanent feudal caste, **artificial intelligence actually erases initial starting disparities faster than any technological shift in human history**. 
+
+A lean, highly focused builder or small outsider team maintaining an unbuffered update loop can now iterate, ship, and outmaneuver bureaucratic corporate monopolies in a matter of months rather than decades.
+
+This dynamic exposes why the tool itself is never the decisive factor: the amplifier multiplies whatever slope is fed into it. The sole independent variable remains the **sovereign individual choice to maintain an uncompromised, consequence-bearing reinforcement loop**.
+
+Accumulating static assets without this living update rule remains a frozen intercept; it does not generate a higher slope. As derived in [Having More Is Never the Cause](../having-more-is-never-the-cause/) and [The Generative Mechanics of Value, Money, and Wealth](../the-generative-mechanics-of-value-money-and-wealth/), possession is merely the lagging residue of past decisions—it is never the generative cause of future growth.
 
 ## The Cognitive Tax of the Closed-World Model
 
