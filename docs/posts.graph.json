@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-01T12:50:10.614Z",
+    "generated_at": "2026-09-01T13:05:27.302Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -166,7 +166,7 @@
       "content/posts/technology-is-residual-of-human-compounding.md": "2d2d07f8486b",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "4194479370e2",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
-      "content/posts/the-average-is-residue-not-the-engine.md": "2489f97079f9",
+      "content/posts/the-average-is-residue-not-the-engine.md": "104f5bc3e9a2",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "d2f1958b9ac3",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -201,6 +201,7 @@
       "content/posts/the-limitation-is-doing-work.md": "f988dff59391",
       "content/posts/the-living-context.md": "802b03eb6a18",
       "content/posts/the-local-trap-of-technological-change.md": "28ac55a33297",
+      "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "6c7f50ab7017",
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
@@ -277,13 +278,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 267,
-      "edges": 2701,
-      "unique_directed": 2674,
+      "posts": 268,
+      "edges": 2704,
+      "unique_directed": 2677,
       "missing_targets": 0,
-      "one_way": 550,
+      "one_way": 551,
       "isolated": 35,
-      "posts_with_outbound": 215
+      "posts_with_outbound": 216
     }
   },
   "hubs_in": [
@@ -4005,9 +4006,9 @@
       "slug": "the-average-is-residue-not-the-engine",
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "The Average Is Residue, Not the Engine",
-      "hash": "2489f97079f9",
-      "in_degree": 21,
-      "out_degree": 17,
+      "hash": "104f5bc3e9a2",
+      "in_degree": 22,
+      "out_degree": 18,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
         "the-unobservable-driver-of-learning",
@@ -4023,6 +4024,7 @@
         "hierarchy-from-individual-difference",
         "mi-lv-shi-jie-guo-de-biao-xiang",
         "openness-is-consistency",
+        "the-look-of-constraint-is-not-the-loss-of-freedom",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "agency-relocated-into-the-formal-model",
         "the-mind-that-statistics-cannot-reveal"
@@ -4226,7 +4228,7 @@
       "path": "content/posts/the-fallacy-of-post-success-parenting.md",
       "title": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle",
       "hash": "ce24a26b4a1b",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 10,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
@@ -4684,6 +4686,20 @@
         "the-illusion-of-free-intelligence",
         "deceleration-is-the-drag-felt-when-accelerating",
         "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future"
+      ]
+    },
+    {
+      "id": "post:the-look-of-constraint-is-not-the-loss-of-freedom",
+      "kind": "post",
+      "slug": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "path": "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md",
+      "title": "The Look of Constraint Is Not the Loss of Freedom",
+      "hash": "6c7f50ab7017",
+      "in_degree": 1,
+      "out_degree": 2,
+      "links_out": [
+        "the-average-is-residue-not-the-engine",
+        "the-fallacy-of-post-success-parenting"
       ]
     },
     {
@@ -16201,6 +16217,12 @@
     },
     {
       "from": "the-average-is-residue-not-the-engine",
+      "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "rel": "points_to",
+      "label": "The Look of Constraint Is Not the Loss of Freedom"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
       "label": "外部归因：个人进步的障碍"
@@ -17764,6 +17786,18 @@
       "to": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
       "rel": "points_to",
       "label": "Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future"
+    },
+    {
+      "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "The Fallacy of Post-Success Parenting"
     },
     {
       "from": "the-map-after-the-territory",
