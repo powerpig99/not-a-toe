@@ -81,7 +81,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Wet-plate collodion / ambrotype** | Dark glass plate, silver-black chemical image, emulsion stain, fixed residue as sole readable term | `two-failures-of-trace` |
 | **Mingei / katazome stencil** | Handmade washi texture, indigo–charcoal stencil, imperfect dye registration, folk-craft gate and current | `what-works-is-the-belief` |
 | **Solarized surreal photograph** | Man Ray–adjacent Sabattier print: metallic silver, inverted midtones, rim glow, chemical grain | `performative-hindsight-that-pretends-to-be-foresight` |
-| **Bauhaus primary-color geometry** | Flat primaries on cream stock, thick constructive outlines, hard geometry, silk-screen austerity | `causality-stays-at-the-edge-that-steers` |
+| **Bauhaus primary-color geometry** | Flat primaries on cream stock, thick constructive outlines, hard geometry, silk-screen austerity | `causality-stays-at-the-edge-that-steers`, `agency-compounding-and-the-argument-over-ai-feudalism` |
 | **Cut-paper shadowbox / Scherenschnitte** | Layered cardstock diorama, soft studio shadow, ivory ground, paper craft still | `a-creation-cannot-replace-its-source` |
 | **Mezzotint / aquatint** | Velvet black copper-plate print, burnished silver-gray highlights, fine chemical grit, classical plate mark | `not-a-theory-of-everything`, `the-welfare-state-illusion-cost-diffusion-and-agency-atrophy` |
 | **Sand animation / grain board** | Golden sand on dark board, raking light, continuous trail drawn through residual pits, documentary craft still | `causality-all-the-way` |
@@ -428,6 +428,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-generative-topology-of-free-variables` | Architectural cyanotype and illuminated intaglio etching on deep Prussian blue fibrous paper with quantum horizon particles, toroidal feedback loops, architectural gothic arches, and independent golden vector stride |
 | `the-generative-mechanics-of-value-money-and-wealth` | Fine intaglio banknote engraving on deckle-edged cream cotton rag paper with intricate guilloché rosettes in deep forest green and charcoal ink, central medallion with glowing sovereign spark of creative capability held in hand surrounded by promissory lathe arches |
 | `the-welfare-state-illusion-cost-diffusion-and-agency-atrophy` | Fine dark mezzotint copperplate engraving on warm aged cream vellum with neoclassical government dome and monumental funnel diffusing gold coins over an anonymous crowd, with a solitary artisan craftsman carving a glowing geometric artifact at a focused workbench |
+| `agency-compounding-and-the-argument-over-ai-feudalism` | Constructivist precisionist architectural lithograph on heavy cream wove paper with massive static neo-feudal monolithic fortress on left and solitary silhouette ascending steep luminous golden compounding vector path high above into open horizon |
 
 ## Crowded — prefer not to extend
 
