@@ -8,7 +8,7 @@ Every structure in the observable cosmos—from stable atomic matter to market d
 
 Causality operates as an unbroken, infinite chain:
 
-$$\dots \to C_{t-1} \to E_{t-1} \to C_t \to E_t \to C_{t+1} \to \dots \quad (-\infty \to +\infty)$$
+> ... → C_{t-1} → E_{t-1} → C_t → E_t → C_{t+1} → ... (—∞ → +∞)
 
 It has no absolute beginning and no final closure. Yet the Mind, operating as a localized conscious observer, cannot hold the infinite entirety. At any given moment, cognition necessarily truncates the continuum into a local observational window: an **epistemological horizon** bounded by an apparent beginning and an apparent ending.
 
@@ -38,30 +38,30 @@ When this threshold event is registered, it presents a strict duality depending 
 * Observed from the **outside** (a third-person instrument measuring an external system), the crossing registers as an **indeterminate quantum collapse**—a probabilistic transition from superposition to a realized eigenvalue;
 * Experienced from the **inside** (the first-person subject living the moment of action), that exact same event is felt as **sovereign free choice and 100% control**.
 
-That these two descriptions represent the identical ontological event can be logically deduced through temporal synchronization. Consider the rate of quantum collapse ($R_{\text{collapse}}$) relative to the rate of conscious perception ($R_{\text{perceive}}$):
+That these two descriptions represent the identical ontological event can be logically deduced through temporal synchronization. Consider the rate of quantum collapse (*R_collapse*) relative to the rate of conscious perception (*R_perceive*):
 
-1. If perception operated faster than collapse ($R_{\text{perceive}} > R_{\text{collapse}}$), the mind would perceive the pre-collapsed, unmeasured causal chain directly. Indeterminacy would vanish, and the horizon would cease to exist.
-2. If collapse operated faster than perception ($R_{\text{collapse}} > R_{\text{perceive}}$), the state would settle into deterministic history before consciousness could register it. The observer could never detect probabilistic superpositions or uncertainty at all.
+1. If perception operated faster than collapse (*R_perceive* > *R_collapse*), the mind would perceive the pre-collapsed, unmeasured causal chain directly. Indeterminacy would vanish, and the horizon would cease to exist.
+2. If collapse operated faster than perception (*R_collapse* > *R_perceive*), the state would settle into deterministic history before consciousness could register it. The observer could never detect probabilistic superpositions or uncertainty at all.
 
-Because human perception arrives precisely at the horizon frontier, $R_{\text{perceive}} = R_{\text{collapse}}$. 
+Because human perception arrives precisely at the horizon frontier, *R_perceive* = *R_collapse*. 
 
 The boundary where the unknown becomes known is simultaneously the boundary where potentiality becomes choice. Randomness is nothing other than the external observational shadow of internal freedom.
 
 ## The Free Variable: Inertia, Complementarity, and Macro Identities
 
-At the split second a causal node crosses into realization, it functions mathematically as a **Free Variable ($V$)**.
+At the split second a causal node crosses into realization, it functions mathematically as a **Free Variable (*V*)**.
 
-A free variable possesses basic inertia: once actualized into a state (such as binary $0$ or $1$), it remains unchanged unless it interacts with its environment. 
+A free variable possesses basic inertia: once actualized into a state (such as binary 0 or 1), it remains unchanged unless it interacts with its environment. 
 
 When interaction occurs, it is governed by strict **logical complementarity**:
 
-$$\Delta V + \Delta E = 0$$
+> ΔV + ΔE = 0
 
 Whatever state change the free variable undergoes is logically matched by a complementary transformation in its interacting environment. An isolated variable cannot modify its state without an equal and opposite shift in the field with which it couples.
 
 When multiple free variables interact continuously, their complementary exchanges inevitably close into **feedback loops**:
 
-$$V_1 \rightleftharpoons V_2 \rightleftharpoons V_3 \rightleftharpoons V_1$$
+> V₁ ⇌ V₂ ⇌ V₃ ⇌ V₁
 
 The moment a feedback loop stabilizes, an emergent phenomenon occurs: **the loop becomes a new macro identity**.
 
