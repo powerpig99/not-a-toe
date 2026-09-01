@@ -431,6 +431,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-welfare-state-illusion-cost-diffusion-and-agency-atrophy` | Fine dark mezzotint copperplate engraving on warm aged cream vellum with neoclassical government dome and monumental funnel diffusing gold coins over an anonymous crowd, with a solitary artisan craftsman carving a glowing geometric artifact at a focused workbench |
 | `agency-compounding-and-the-argument-over-ai-feudalism` | Constructivist precisionist architectural lithograph on heavy cream wove paper with massive static neo-feudal monolithic fortress on left and solitary silhouette ascending steep luminous golden compounding vector path high above into open horizon |
 | `the-look-of-constraint-is-not-the-loss-of-freedom` | Japanese Momoyama period gold-leaf folding screen (byōbu) with burnished gold ground, sumi ink geometric basin on one side opening into expansive unbounded moving horizon with mist, pine contours, and subtle malachite washes |
+| `self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success` | Vienna Secessionist mixed-media painting in the style of Gustav Klimt with textured 24k gold leaf, oil paint, spiraling mosaics, glowing artisan silhouette forging incandescent tool on anvil, and petrified figures in heavy gilded thrones and cages |
 
 ## Crowded — prefer not to extend
 
