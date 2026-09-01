@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-01T09:03:42.153Z",
+    "generated_at": "2026-09-01T12:05:37.492Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -14,6 +14,7 @@
       "content/posts/a-new-deeper-look-at-antifragility.md": "5c2c317e8efa",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "75ea3ced28ac",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5d005f5a7e41",
+      "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "b7d938485a28",
       "content/posts/agency-relocated-into-the-formal-model.md": "86d69a48a123",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "fd9d3cf5c73a",
@@ -78,7 +79,7 @@
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
-      "content/posts/having-more-is-never-the-cause.md": "152b38f49428",
+      "content/posts/having-more-is-never-the-cause.md": "d70382d4af6c",
       "content/posts/help-is-half-the-problem.md": "686ba3ac40ff",
       "content/posts/hierarchy-from-individual-difference.md": "ae8555da4e2e",
       "content/posts/how-belief-actually-changes.md": "b31fc8321707",
@@ -276,13 +277,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 266,
-      "edges": 2692,
-      "unique_directed": 2665,
+      "posts": 267,
+      "edges": 2701,
+      "unique_directed": 2674,
       "missing_targets": 0,
-      "one_way": 543,
+      "one_way": 550,
       "isolated": 35,
-      "posts_with_outbound": 214
+      "posts_with_outbound": 215
     }
   },
   "hubs_in": [
@@ -296,7 +297,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 56
+      "in_degree": 57
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -327,6 +328,10 @@
       "in_degree": 29
     },
     {
+      "slug": "causality-all-the-way",
+      "in_degree": 27
+    },
+    {
       "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 27
     },
@@ -335,15 +340,15 @@
       "in_degree": 27
     },
     {
-      "slug": "causality-all-the-way",
-      "in_degree": 26
-    },
-    {
       "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 26
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 26
+    },
+    {
+      "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 26
     },
     {
@@ -360,10 +365,6 @@
     },
     {
       "slug": "preference-clusters-and-the-language-of-judgment",
-      "in_degree": 25
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 25
     }
   ],
@@ -612,6 +613,26 @@
       ]
     },
     {
+      "id": "post:agency-compounding-and-the-argument-over-ai-feudalism",
+      "kind": "post",
+      "slug": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "path": "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md",
+      "title": "Agency, Compounding, and the Argument Over AI Feudalism",
+      "hash": "b7d938485a28",
+      "in_degree": 1,
+      "out_degree": 8,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "the-generative-topology-of-free-variables",
+        "having-more-is-never-the-cause",
+        "the-generative-mechanics-of-value-money-and-wealth",
+        "the-model-never-becomes-a-second-edge",
+        "causality-all-the-way",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+        "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy"
+      ]
+    },
+    {
       "id": "post:agency-relocated-into-the-formal-model",
       "kind": "post",
       "slug": "agency-relocated-into-the-formal-model",
@@ -754,7 +775,7 @@
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
       "hash": "87c4e018e0d5",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -1919,9 +1940,9 @@
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
-      "hash": "152b38f49428",
-      "in_degree": 15,
-      "out_degree": 17,
+      "hash": "d70382d4af6c",
+      "in_degree": 16,
+      "out_degree": 18,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -1939,7 +1960,8 @@
         "two-failures-of-trace",
         "ownership-and-self-worthiness",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
-        "the-flywheel-of-the-mind"
+        "the-flywheel-of-the-mind",
+        "agency-compounding-and-the-argument-over-ai-feudalism"
       ]
     },
     {
@@ -2160,7 +2182,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "1466549a4396",
-      "in_degree": 56,
+      "in_degree": 57,
       "out_degree": 21,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -4372,7 +4394,7 @@
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims",
       "hash": "cce9f4b4a1b2",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -4389,7 +4411,7 @@
       "path": "content/posts/the-generative-topology-of-free-variables.md",
       "title": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence",
       "hash": "10c9f17ef6d8",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 4,
       "links_out": [
         "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -4807,7 +4829,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "f846e65e2764",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 30,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -5281,7 +5303,7 @@
       "path": "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md",
       "title": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors",
       "hash": "c9db12b044ea",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 14,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -5644,7 +5666,7 @@
       "path": "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md",
       "title": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency",
       "hash": "f10e58175efc",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 5,
       "links_out": [
         "residual-individualism",
@@ -6678,6 +6700,54 @@
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
       "label": "On closed systems, open minds, and the limits of proof"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence belongs only to the Mind"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "The Generative Topology of Free Variables"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "The Generative Mechanics of Value, Money, and Wealth"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -10044,6 +10114,12 @@
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
       "label": "The flywheel of the Mind"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "rel": "points_to",
+      "label": "Agency, Compounding, and the Argument Over AI Feudalism"
     },
     {
       "from": "help-is-half-the-problem",
