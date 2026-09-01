@@ -424,6 +424,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-generative-atlas-of-macroscopic-phenomena` | Renaissance Leonardo da Vinci panoramic codex manuscript on open aged parchment table with quantum orbital harmonics on left, mechanical logic gears in center, and celestial astrolabe with human proportion on right |
 | `guidance-is-not-ownership` | Minimalist modernist serigraph risograph print on textured fibrous cotton rag paper with terracotta highway, open vintage vehicle, adult standing outside letting younger driver take the wheel toward distant mountain horizon at dawn |
 | `the-fallacy-of-post-success-parenting` | Constructivist Bauhaus architectural lithograph on heavy fibrous cream wove paper with towering obsidian colonnade casting dark angular shadows on manicured grounds and solitary young silhouette striding into rugged open mountain contours at dawn |
+| `the-generative-topology-of-free-variables` | Architectural cyanotype and illuminated intaglio etching on deep Prussian blue fibrous paper with quantum horizon particles, toroidal feedback loops, architectural gothic arches, and independent golden vector stride |
 
 ## Crowded — prefer not to extend
 
