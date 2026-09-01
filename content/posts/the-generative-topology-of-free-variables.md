@@ -8,7 +8,7 @@ Every structure in the observable cosmos—from stable atomic matter to market d
 
 Causality operates as an unbroken, infinite chain:
 
-> ... → C_{t-1} → E_{t-1} → C_t → E_t → C_{t+1} → ... (—∞ → +∞)
+> ... → Cause → Effect → Cause → Effect → ... (—∞ → +∞)
 
 It has no absolute beginning and no final closure. Yet the Mind, operating as a localized conscious observer, cannot hold the infinite entirety. At any given moment, cognition necessarily truncates the continuum into a local observational window: an **epistemological horizon** bounded by an apparent beginning and an apparent ending.
 
@@ -92,16 +92,9 @@ As traced across [Curiosity first, compounded capability downstream](../curiosit
 
 A catastrophic breakdown occurs when two conscious free variables interact under **asymmetric causal attribution**:
 
-```
-Individual A: "You are the cause of my state." ────( Surrenders Sovereignty )────► Individual B
-       ▲                                                                               │
-       │                                                                               ▼
-       └────────────────( Usurps Driving Seat & Absorbs Consequence )──────────────────┘
-```
-
-1. **The Handover**: Individual A misallocates their own causal agency outward, believing that Individual B is the true source of their well-being, growth, or misery.
-2. **The Complementary Absorption**: Individual B complementarily believes that they are responsible for authoring Individual A's outcomes and attempts to drive the relationship.
-3. **The Dependency Lock**: A stable, mutually reinforcing feedback loop forms. B assumes the burden of control; A assumes the posture of reliance.
+1. **The Handover**: Individual A misallocates their own causal agency outward (*"You are the cause of my state"*), surrendering the driver's seat.
+2. **The Complementary Absorption**: Individual B complementarily assumes responsibility for authoring A's outcomes (*"I must drive and absorb your consequences"*).
+3. **The Dependency Lock**: A closed, self-reinforcing feedback loop forms. B bears the burden of steering; A adopts the posture of reliance.
 
 The consequences for Individual A's internal machinery are fatal. 
 
