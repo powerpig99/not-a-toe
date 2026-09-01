@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-01T04:44:13.668Z",
+    "generated_at": "2026-09-01T08:48:30.913Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -134,7 +134,7 @@
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "aba8560f770f",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "345a4e5d11e5",
       "content/posts/price-as-utterance-understanding-as-trade.md": "6558c6cbe62e",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "001cb3ac05f8",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "fe01f42b5749",
       "content/posts/public-spending-does-not-create-capital.md": "13551c0f7f67",
       "content/posts/qian-yin-hou-guo.md": "a6b2414b6e65",
       "content/posts/rationality-never-travels-across-the-mind.md": "6d12122abe9d",
@@ -176,7 +176,7 @@
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
-      "content/posts/the-fallacy-of-post-success-parenting.md": "782ad619514f",
+      "content/posts/the-fallacy-of-post-success-parenting.md": "ce24a26b4a1b",
       "content/posts/the-fixed-image-of-transcendence.md": "7c3ba6ced47b",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3cd05b0818a",
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
@@ -184,6 +184,7 @@
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "d1c1bec27100",
       "content/posts/the-generative-contradiction.md": "2cef8f7c85e8",
+      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "3f5715d87570",
       "content/posts/the-generative-topology-of-free-variables.md": "10c9f17ef6d8",
       "content/posts/the-geometry-of-success.md": "9b4a467d58a1",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
@@ -225,7 +226,7 @@
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "c1d05dc9cc31",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "d40851e92070",
-      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "876cca9b0963",
+      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c9db12b044ea",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "40a647c869dd",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "cd0ef8c4ec26",
@@ -274,13 +275,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 264,
-      "edges": 2678,
-      "unique_directed": 2651,
+      "posts": 265,
+      "edges": 2686,
+      "unique_directed": 2659,
       "missing_targets": 0,
-      "one_way": 537,
+      "one_way": 539,
       "isolated": 35,
-      "posts_with_outbound": 212
+      "posts_with_outbound": 213
     }
   },
   "hubs_in": [
@@ -302,7 +303,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 43
+      "in_degree": 44
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -361,7 +362,7 @@
       "in_degree": 25
     },
     {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
+      "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 25
     }
   ],
@@ -377,6 +378,10 @@
     {
       "slug": "no-system-can-be-kept-closed",
       "out_degree": 36
+    },
+    {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "out_degree": 30
     },
     {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
@@ -404,10 +409,6 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "out_degree": 29
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 29
     },
     {
@@ -1214,7 +1215,7 @@
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
       "title": "Curiosity First: The Hidden Engine of Talent and Development",
       "hash": "6a8035415fba",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 16,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
@@ -2953,7 +2954,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "7d49db6985d2",
-      "in_degree": 43,
+      "in_degree": 44,
       "out_degree": 29,
       "links_out": [
         "failure-as-information",
@@ -3219,9 +3220,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "001cb3ac05f8",
-      "in_degree": 24,
-      "out_degree": 29,
+      "hash": "fe01f42b5749",
+      "in_degree": 25,
+      "out_degree": 30,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -3230,6 +3231,7 @@
         "whatever-is-one-prompt-away",
         "humans-tokens-and-the-scope-of-valuation",
         "efficiency-without-differentiation",
+        "the-generative-mechanics-of-value-money-and-wealth",
         "the-allocation-of-causal-power-in-validation",
         "order-surplus-and-the-moral-intercept",
         "fate-loves-irony-refined",
@@ -4199,9 +4201,9 @@
       "slug": "the-fallacy-of-post-success-parenting",
       "path": "content/posts/the-fallacy-of-post-success-parenting.md",
       "title": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle",
-      "hash": "782ad619514f",
-      "in_degree": 1,
-      "out_degree": 9,
+      "hash": "ce24a26b4a1b",
+      "in_degree": 2,
+      "out_degree": 10,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
         "the-geometry-of-success",
@@ -4211,7 +4213,8 @@
         "emotional-support-as-causal-interference",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "ownership-and-self-worthiness",
-        "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai"
+        "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "the-generative-mechanics-of-value-money-and-wealth"
       ]
     },
     {
@@ -4358,6 +4361,23 @@
         "ownership-and-self-worthiness",
         "selection-contradiction-and-open-reality",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai"
+      ]
+    },
+    {
+      "id": "post:the-generative-mechanics-of-value-money-and-wealth",
+      "kind": "post",
+      "slug": "the-generative-mechanics-of-value-money-and-wealth",
+      "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
+      "title": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims",
+      "hash": "3f5715d87570",
+      "in_degree": 3,
+      "out_degree": 5,
+      "links_out": [
+        "production-consumption-and-the-minds-distinction",
+        "curiosity-first-the-hidden-engine-of-talent-and-development",
+        "ownership-and-self-worthiness",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+        "the-fallacy-of-post-success-parenting"
       ]
     },
     {
@@ -5258,9 +5278,9 @@
       "slug": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "path": "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md",
       "title": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors",
-      "hash": "876cca9b0963",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "c9db12b044ea",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -5274,6 +5294,7 @@
         "symptom-and-cause-in-the-narratives-of-progress",
         "restriction-is-a-selective-tax",
         "production-consumption-and-the-minds-distinction",
+        "the-generative-mechanics-of-value-money-and-wealth",
         "residual-individualism"
       ]
     },
@@ -13877,6 +13898,12 @@
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "The Generative Mechanics of Value, Money, and Wealth"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
       "label": "The allocation of causal power in validation"
@@ -16588,6 +16615,12 @@
       "label": "外部归因：个人进步的障碍"
     },
     {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "The Generative Mechanics of Value, Money, and Wealth"
+    },
+    {
       "from": "the-fixed-image-of-transcendence",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -16964,6 +16997,36 @@
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
       "label": "外部归因：个人进步的障碍"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, consumption, and the Mind's distinction"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity first, compounded capability downstream"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "The Fallacy of Post-Success Parenting"
     },
     {
       "from": "the-generative-topology-of-free-variables",
@@ -19496,6 +19559,12 @@
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "The Generative Mechanics of Value, Money, and Wealth"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
