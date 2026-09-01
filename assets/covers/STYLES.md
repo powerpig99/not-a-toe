@@ -83,7 +83,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Solarized surreal photograph** | Man Ray–adjacent Sabattier print: metallic silver, inverted midtones, rim glow, chemical grain | `performative-hindsight-that-pretends-to-be-foresight` |
 | **Bauhaus primary-color geometry** | Flat primaries on cream stock, thick constructive outlines, hard geometry, silk-screen austerity | `causality-stays-at-the-edge-that-steers` |
 | **Cut-paper shadowbox / Scherenschnitte** | Layered cardstock diorama, soft studio shadow, ivory ground, paper craft still | `a-creation-cannot-replace-its-source` |
-| **Mezzotint / aquatint** | Velvet black copper-plate print, burnished silver-gray highlights, fine chemical grit, classical plate mark | `not-a-theory-of-everything` |
+| **Mezzotint / aquatint** | Velvet black copper-plate print, burnished silver-gray highlights, fine chemical grit, classical plate mark | `not-a-theory-of-everything`, `the-welfare-state-illusion-cost-diffusion-and-agency-atrophy` |
 | **Sand animation / grain board** | Golden sand on dark board, raking light, continuous trail drawn through residual pits, documentary craft still | `causality-all-the-way` |
 | **Byzantine glass mosaic** | Gold and ultramarine tesserae, mortar lines, antique glass shine, plaster border, museum-wall light | `evil-as-the-minds-own-creation` |
 | **Embroidery / needlework on linen** | Hand-stitched plant and cut scaffold threads on cream linen weave, soft studio textile light, raised stitch shadow | `when-need-stops-being-the-measure` |
@@ -427,6 +427,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-fallacy-of-post-success-parenting` | Constructivist Bauhaus architectural lithograph on heavy fibrous cream wove paper with towering obsidian colonnade casting dark angular shadows on manicured grounds and solitary young silhouette striding into rugged open mountain contours at dawn |
 | `the-generative-topology-of-free-variables` | Architectural cyanotype and illuminated intaglio etching on deep Prussian blue fibrous paper with quantum horizon particles, toroidal feedback loops, architectural gothic arches, and independent golden vector stride |
 | `the-generative-mechanics-of-value-money-and-wealth` | Fine intaglio banknote engraving on deckle-edged cream cotton rag paper with intricate guilloché rosettes in deep forest green and charcoal ink, central medallion with glowing sovereign spark of creative capability held in hand surrounded by promissory lathe arches |
+| `the-welfare-state-illusion-cost-diffusion-and-agency-atrophy` | Fine dark mezzotint copperplate engraving on warm aged cream vellum with neoclassical government dome and monumental funnel diffusing gold coins over an anonymous crowd, with a solitary artisan craftsman carving a glowing geometric artifact at a focused workbench |
 
 ## Crowded — prefer not to extend
 

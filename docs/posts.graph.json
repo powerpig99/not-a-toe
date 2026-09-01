@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-01T08:54:11.464Z",
+    "generated_at": "2026-09-01T09:03:42.153Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -135,7 +135,7 @@
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "345a4e5d11e5",
       "content/posts/price-as-utterance-understanding-as-trade.md": "6558c6cbe62e",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe01f42b5749",
-      "content/posts/public-spending-does-not-create-capital.md": "13551c0f7f67",
+      "content/posts/public-spending-does-not-create-capital.md": "7314fd47c0df",
       "content/posts/qian-yin-hou-guo.md": "a6b2414b6e65",
       "content/posts/rationality-never-travels-across-the-mind.md": "6d12122abe9d",
       "content/posts/reality-doesnt-invoice-by-committee.md": "8d63e4eff365",
@@ -241,6 +241,7 @@
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-unobservable-driver-of-learning.md": "1c942a52811f",
       "content/posts/the-utility-men-of-progress.md": "35523a162e42",
+      "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "f10e58175efc",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
@@ -275,13 +276,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 265,
-      "edges": 2686,
-      "unique_directed": 2659,
+      "posts": 266,
+      "edges": 2692,
+      "unique_directed": 2665,
       "missing_targets": 0,
-      "one_way": 539,
+      "one_way": 543,
       "isolated": 35,
-      "posts_with_outbound": 213
+      "posts_with_outbound": 214
     }
   },
   "hubs_in": [
@@ -3096,7 +3097,7 @@
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "Politicians Appear as Visible Symptoms of Responsibility Diffusion",
       "hash": "779ff9a029ff",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 12,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -3262,9 +3263,9 @@
       "slug": "public-spending-does-not-create-capital",
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "Public Spending Does Not Create Capital",
-      "hash": "13551c0f7f67",
-      "in_degree": 15,
-      "out_degree": 15,
+      "hash": "7314fd47c0df",
+      "in_degree": 16,
+      "out_degree": 16,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "having-more-is-never-the-cause",
@@ -3275,6 +3276,7 @@
         "ownership-and-self-worthiness",
         "the-irreducible-prior-of-decision-and-consequence",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+        "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
         "symptom-and-cause-in-the-narratives-of-progress",
         "fate-loves-irony-refined",
         "restriction-is-a-selective-tax",
@@ -3433,7 +3435,7 @@
       "path": "content/posts/residual-individualism.md",
       "title": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies",
       "hash": "b7e7d68cba6f",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 21,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -4311,7 +4313,7 @@
       "path": "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md",
       "title": "The Free Mind Is Displaced by What Claims to Protect It",
       "hash": "c94bb15b363f",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 5,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
@@ -4370,7 +4372,7 @@
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims",
       "hash": "cce9f4b4a1b2",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 5,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -5633,6 +5635,23 @@
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-illusion-of-free-intelligence",
         "the-reality-distortion-field-inverts-the-baseline"
+      ]
+    },
+    {
+      "id": "post:the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "kind": "post",
+      "slug": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "path": "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md",
+      "title": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency",
+      "hash": "f10e58175efc",
+      "in_degree": 1,
+      "out_degree": 5,
+      "links_out": [
+        "residual-individualism",
+        "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+        "the-generative-mechanics-of-value-money-and-wealth",
+        "public-spending-does-not-create-capital",
+        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion"
       ]
     },
     {
@@ -14090,6 +14109,12 @@
     },
     {
       "from": "public-spending-does-not-create-capital",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and cause in the narratives of progress"
@@ -20621,6 +20646,36 @@
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
       "label": "The reality distortion field inverts the baseline"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "The free mind is displaced by what claims to protect it"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "The Generative Mechanics of Value, Money, and Wealth"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians appear as visible symptoms of responsibility diffusion"
     },
     {
       "from": "the_analogy_trap",
