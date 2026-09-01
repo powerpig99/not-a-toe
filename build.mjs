@@ -582,6 +582,38 @@ function extractOpening(markdownBody) {
     openingLines.push(lines[i]);
   }
 
+  // Check for explicit italic subtitle block at the start of openingLines
+  let firstNonEmptyIdx = -1;
+  for (let i = 0; i < openingLines.length; i += 1) {
+    if (openingLines[i].trim()) {
+      firstNonEmptyIdx = i;
+      break;
+    }
+  }
+
+  let hasExplicitItalicSubtitle = false;
+  let subtitleEndIdx = -1;
+
+  if (firstNonEmptyIdx !== -1) {
+    const firstLine = openingLines[firstNonEmptyIdx].trim();
+    // Single-line italic subtitle: *...* or _..._
+    if (/^(\*|_)[^*_]+(\*|_)$/.test(firstLine)) {
+      hasExplicitItalicSubtitle = true;
+      subtitleEndIdx = firstNonEmptyIdx;
+    } else if (/^(\*|_)/.test(firstLine)) {
+      // Check multi-line italic block
+      for (let j = firstNonEmptyIdx; j < openingLines.length; j += 1) {
+        const lineTrim = openingLines[j].trim();
+        if (!lineTrim) break;
+        if (/(\*|_)$/.test(lineTrim)) {
+          hasExplicitItalicSubtitle = true;
+          subtitleEndIdx = j;
+          break;
+        }
+      }
+    }
+  }
+
   // Plain sentences for subtitle / meta; markdown-preserving sentences for body lead
   // so links (and other inline markup that survives summary stripping of emphasis) remain.
   const plainSentences = [];
@@ -615,12 +647,24 @@ function extractOpening(markdownBody) {
     }
   }
 
-  const subtitle = plainSentences[0] || '';
+  let subtitle = '';
+  let bodyMarkdown = '';
+
+  if (hasExplicitItalicSubtitle) {
+    const subtitleRaw = openingLines.slice(firstNonEmptyIdx, subtitleEndIdx + 1).join(' ').trim();
+    subtitle = markdownToSummaryText(subtitleRaw);
+    const openingBody = openingLines.slice(subtitleEndIdx + 1).join('\n').trim();
+    const restBody = lines.slice(bodyStartIndex).join('\n').trim();
+    bodyMarkdown = [openingBody, restBody].filter(Boolean).join('\n\n').trim();
+  } else {
+    subtitle = plainSentences[0] || '';
+    const leadMarkdown = markdownSentences.slice(1).join(' ');
+    const restBody = lines.slice(bodyStartIndex).join('\n').trimStart();
+    bodyMarkdown = `${leadMarkdown ? `${leadMarkdown}\n\n` : ''}${restBody}`.trim();
+  }
+
   const leadSentences = plainSentences.slice(1, 1 + LEAD_MAX_SENTENCES);
   const lead = leadSentences.join(' ');
-  const leadMarkdown = markdownSentences.slice(1, 1 + LEAD_MAX_SENTENCES).join(' ');
-  const restBody = lines.slice(bodyStartIndex).join('\n').trimStart();
-  const bodyMarkdown = `${leadMarkdown ? `${leadMarkdown}\n\n` : ''}${restBody}`.trim();
 
   return { subtitle, lead, bodyMarkdown };
 }
