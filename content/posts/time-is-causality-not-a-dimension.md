@@ -1,6 +1,6 @@
 # Time Is the Irreversible Direction and Discrete Step of Causality
 
-*Time is the irreversible direction and discrete step of causal state transitions, mentally projected at this very moment to make sense of the past and forecast the future.*
+*The fourth dimension is an internal mental coordinate: we project back to the past to make sense of the present, and forward into the future to predict outcomes.*
 
 Physics and philosophy have long treated time as a fourth dimension—a physical coordinate axis along which entities travel, identical in mathematical form to length, width, and depth. We speak colloquially of "looking back" at the past, "moving forward" into the future, and measuring durations as if we were laying a measuring tape along a physical corridor.
 
@@ -8,7 +8,7 @@ In modern theoretical physics, this spatialization reached its zenith in the Min
 
 We do not need to deny that time can be modeled as a dimension. The crucial distinction is that **actual time is not the fourth dimension of our mental or theoretical models**.
 
-Our mental and theoretical models treat time as a fourth dimension as an engineered way to make sense of the past and present—by projecting accumulated traces backward into a mental "past," and projecting forward into a simulated "future" to predict outcomes with our models.
+Our mental and theoretical models treat time as a fourth dimension as an engineered way to navigate existence: we project back to the past to make sense of the present by discovering its causes, and project forward into the future to predict the effects of our actions.
 
 > *The fourth dimension of time is an engineered coordinate tool in our models; actual time is the irreversible causal progression of reality.*
 
@@ -22,7 +22,7 @@ In spatial dimensions, an observer can look to the left and to the right, take t
 
 Actual time presents no such geometric symmetry. An observer never looks sideways to view an event that occurred five minutes ago, nor peers ahead to observe tomorrow morning. Perception is anchored strictly, indivisibly, and perpetually at **this very moment**.
 
-We never leave the present. Every thought, every measurement, every calculation of an orbit, and every memory of childhood occurs exclusively within the instantaneous flash of the now. Treating time as a fourth dimension in our mental and theoretical models allows us to map the past and predict the future, but what consciousness actually perceives is the current state of reality as it transitions from one discrete step to the next.
+We never leave the present. Every thought, every measurement, every calculation of an orbit, and every memory of childhood occurs exclusively within the instantaneous flash of the now. Treating time as a fourth dimension in our mental and theoretical models allows us to project back to the past to make sense of the present and forecast what comes next, but what consciousness actually perceives is the current state of reality as it transitions from one discrete step to the next.
 
 ## The Ground of Actual Time: Direction and Step
 
@@ -129,7 +129,7 @@ The "fourth dimension" (*t*) is therefore an internal drafting grid constructed 
 
 ## The Grand Reification: Mistaking the Projection for the Territory
 
-Our mental and theoretical models treating time as the fourth dimension is an indispensable way to make sense of the past and present by projecting backward, and to predict what happens next by projecting forward. The model serves as an effective operational tool.
+Our mental and theoretical models treating time as the fourth dimension is an indispensable way to navigate reality: we project back to the past to make sense of the present, and project forward into the future to predict what will be the effect by following the theory or mental model. The model serves as an effective operational tool.
 
 The catastrophic confusion occurs when the operational coordinate grid is mistaken for the physical territory—the exact failure analyzed in [The Boundary of the Frame](../the-boundary-of-the-frame/). Because mathematical physics can represent time as an algebraic coordinate (*t*) alongside spatial coordinates (*x*, *y*, *z*), theorists succumbed to a fatal category error: they assumed that because time can be *plotted* like space in a mental or theoretical model, actual time in physical reality *is* space.
 
