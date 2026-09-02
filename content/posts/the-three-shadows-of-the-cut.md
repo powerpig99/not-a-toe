@@ -10,7 +10,7 @@ Yet, despite these genuine breakthroughs, the system halts at an exquisite layer
 
 ## The Triadic Architecture: The Modalities as Shadows
 
-Landry’s method rests upon two load-bearing commitments:
+Landry’s method rests upon two core premises:
 
 * **Foundational Triplication**: Every domain treated as real is modeled through three primal modalities that are declared distinct, inseparable, and non-interchangeable;
 * **Type Isomorphism**: These three modalities preserve identical structural roles across all domains—mapping across reality (change, causation, choice), universe (interaction, existence, creation), and language (statement, syntax, semantics).
@@ -21,7 +21,7 @@ The three modalities are defined by their experiential and structural postures:
 2. **The Omniscient**: Structural, third-person pattern and law—the world known all at once;
 3. **The Transcendent**: Pure possibility, open precondition, that which could be otherwise.
 
-Within Ontological Clarity, the origin of this triad becomes transparent. These three modalities are not three independent metaphysical pillars; they are the **three directional perspectives of a single moving causal edge**:
+Trace the causal cut directly, and the origin of this triad becomes transparent. These three modalities are not three independent metaphysical pillars; they are the **three directional perspectives of a single moving causal edge**:
 
 * **Looking Behind the Edge**: The accumulated, realized historical correlations of the causal chain. Once an event is realized, it becomes invariant, structural, and readable all at once as pattern and law. This is what Landry terms the **Omniscient**;
 * **Standing at the Edge**: The living aperture of the present distinction being drawn. This is the immediate, unbuffered collision of conscious action with consequence. This is what Landry terms the **Immanent**;
