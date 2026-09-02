@@ -440,6 +440,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-mirage-of-the-infinite-totality` | Renaissance celestial planisphere and copperplate engraving on deep indigo fibrous laid paper with monumental brass-and-silver coin standing on edge, one face showing engraved finite map of coordinates, the other dissolving into radiant concentric spirals expanding into open starry field |
 | `the-bank-shot-and-the-magic-trick` | Dramatic chiaroscuro oil painting in the style of Caravaggio of a focused gentleman executing a bank shot on a vintage billiard table under a single hanging brass lamp with dark velvety shadows, solid ivory cue ball struck with blue chalk dust |
 | `the-boundary-of-the-frame` | Classical geodetic copperplate engraving on aged ivory vellum paper with an ornate brass drafting frame hovering above an expansive mountain canyon at sunrise, technical blue coordinate gridlines inside the frame, unbroken natural terrain outside |
+| `time-is-causality-not-a-dimension` | Classical copperplate etching on aged tea-toned paper with a rigid mechanical brass ruler and linear timeline grid tearing and peeling open like brittle parchment, revealing a living stream of glowing amber embers and flowing river water moving into a golden sunrise canyon |
 
 ## Crowded — prefer not to extend
 

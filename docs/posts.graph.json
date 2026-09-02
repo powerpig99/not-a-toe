@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-02T17:54:43.055Z",
+    "generated_at": "2026-09-02T17:59:29.973Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -170,7 +170,7 @@
       "content/posts/the-average-is-residue-not-the-engine.md": "104f5bc3e9a2",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "64ff41889747",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
-      "content/posts/the-boundary-of-the-frame.md": "86b524e68ab2",
+      "content/posts/the-boundary-of-the-frame.md": "3e69ea5f602e",
       "content/posts/the-brain-does-not-backprop.md": "d2f1958b9ac3",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -256,6 +256,7 @@
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
+      "content/posts/time-is-causality-not-a-dimension.md": "c77056467d94",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "756eeec4aeef",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "6e8311fe3321",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "4a8d0a1b5a8c",
@@ -287,13 +288,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 277,
-      "edges": 2748,
-      "unique_directed": 2721,
+      "posts": 278,
+      "edges": 2753,
+      "unique_directed": 2726,
       "missing_targets": 0,
-      "one_way": 577,
+      "one_way": 580,
       "isolated": 35,
-      "posts_with_outbound": 224
+      "posts_with_outbound": 225
     }
   },
   "hubs_in": [
@@ -334,12 +335,12 @@
       "in_degree": 30
     },
     {
-      "slug": "hierarchy-from-individual-difference",
+      "slug": "causality-all-the-way",
       "in_degree": 29
     },
     {
-      "slug": "causality-all-the-way",
-      "in_degree": 28
+      "slug": "hierarchy-from-individual-difference",
+      "in_degree": 29
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -785,7 +786,7 @@
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
       "hash": "87c4e018e0d5",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -4067,7 +4068,7 @@
       "path": "content/posts/the-bank-shot-and-the-magic-trick.md",
       "title": "The Bank Shot and the Magic Trick",
       "hash": "64ff41889747",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 9,
       "links_out": [
         "the-look-of-constraint-is-not-the-loss-of-freedom",
@@ -4122,11 +4123,12 @@
       "slug": "the-boundary-of-the-frame",
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "The Boundary of the Frame",
-      "hash": "86b524e68ab2",
-      "in_degree": 1,
-      "out_degree": 9,
+      "hash": "3e69ea5f602e",
+      "in_degree": 2,
+      "out_degree": 10,
       "links_out": [
         "what-information-is",
+        "time-is-causality-not-a-dimension",
         "the-three-shadows-of-the-cut",
         "the-scaffolding-we-forget",
         "the-mirage-of-the-infinite-totality",
@@ -5751,7 +5753,7 @@
       "path": "content/posts/the-three-shadows-of-the-cut.md",
       "title": "The Three Shadows of the Cut: On Forrest Landry’s Immanent Metaphysics",
       "hash": "1ebeb38ad32d",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 2,
       "links_out": [
         "the-other-coherence",
@@ -5858,6 +5860,22 @@
         "when-need-stops-being-the-measure",
         "expertise-as-reference-not-replacement",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors"
+      ]
+    },
+    {
+      "id": "post:time-is-causality-not-a-dimension",
+      "kind": "post",
+      "slug": "time-is-causality-not-a-dimension",
+      "path": "content/posts/time-is-causality-not-a-dimension.md",
+      "title": "Time Is Causality, Not a Dimension",
+      "hash": "c77056467d94",
+      "in_degree": 1,
+      "out_degree": 4,
+      "links_out": [
+        "the-three-shadows-of-the-cut",
+        "the-bank-shot-and-the-magic-trick",
+        "the-boundary-of-the-frame",
+        "causality-all-the-way"
       ]
     },
     {
@@ -16653,6 +16671,12 @@
     },
     {
       "from": "the-boundary-of-the-frame",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "Time Is Causality, Not a Dimension"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
       "to": "the-three-shadows-of-the-cut",
       "rel": "points_to",
       "label": "The Three Shadows of the Cut"
@@ -21270,6 +21294,30 @@
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
       "label": "The misallocation of cause"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-three-shadows-of-the-cut",
+      "rel": "points_to",
+      "label": "The Three Shadows of the Cut"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "The Bank Shot and the Magic Trick"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
     },
     {
       "from": "token-efficiency-emulation-and-the-unclosable-gap",
