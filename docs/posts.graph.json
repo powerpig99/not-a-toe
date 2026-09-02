@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-02T14:43:43.633Z",
+    "generated_at": "2026-09-02T14:46:43.428Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -97,7 +97,7 @@
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "9d0c48e7550c",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "902922e94044",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "7fddde85b53e",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "84f32b4149ec",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "634293b4399b",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
@@ -168,7 +168,7 @@
       "content/posts/the-allocation-of-causal-power-in-validation.md": "4194479370e2",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-average-is-residue-not-the-engine.md": "104f5bc3e9a2",
-      "content/posts/the-bank-shot-and-the-magic-trick.md": "958f6304c156",
+      "content/posts/the-bank-shot-and-the-magic-trick.md": "aff198e186fa",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "d2f1958b9ac3",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
@@ -287,8 +287,8 @@
     },
     "stats": {
       "posts": 276,
-      "edges": 2736,
-      "unique_directed": 2709,
+      "edges": 2738,
+      "unique_directed": 2711,
       "missing_targets": 0,
       "one_way": 569,
       "isolated": 35,
@@ -326,7 +326,7 @@
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 35
+      "in_degree": 36
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -2387,9 +2387,9 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "7fddde85b53e",
-      "in_degree": 35,
-      "out_degree": 22,
+      "hash": "84f32b4149ec",
+      "in_degree": 36,
+      "out_degree": 23,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
@@ -2402,6 +2402,7 @@
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
         "qian-yin-hou-guo",
+        "the-bank-shot-and-the-magic-trick",
         "expertise-as-reference-not-replacement",
         "preference-clusters-and-the-language-of-judgment",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -4064,9 +4065,9 @@
       "slug": "the-bank-shot-and-the-magic-trick",
       "path": "content/posts/the-bank-shot-and-the-magic-trick.md",
       "title": "The Bank Shot and the Magic Trick",
-      "hash": "958f6304c156",
-      "in_degree": 4,
-      "out_degree": 7,
+      "hash": "aff198e186fa",
+      "in_degree": 5,
+      "out_degree": 8,
       "links_out": [
         "the-look-of-constraint-is-not-the-loss-of-freedom",
         "zi-you-de-ce-bu-zhun",
@@ -4074,7 +4075,8 @@
         "qian-yin-hou-guo",
         "the-generative-atlas-of-macroscopic-phenomena",
         "individual-choices-as-the-only-causal-levers",
-        "the-mirage-of-the-infinite-totality"
+        "the-mirage-of-the-infinite-totality",
+        "mei-you-pu-du-zhi-you-zi-du"
       ]
     },
     {
@@ -11606,6 +11608,12 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "The Bank Shot and the Magic Trick"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
       "label": "Expertise as reference, not replacement"
@@ -16463,6 +16471,12 @@
       "to": "the-mirage-of-the-infinite-totality",
       "rel": "points_to",
       "label": "The Mirage of the Infinite Totality"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普度，只有自度"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
