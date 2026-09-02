@@ -435,6 +435,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-other-coherence` | Persian Safavid illumination and lapis-gold miniature painting on aged cream parchment with ultramarine arabesques, gold filigree lattice on left dissolving through open archway aperture into radiant continuous starry cosmic horizon on right |
 | `the-geometry-of-emergence` | Precisionist optical kinetic screenprint on heavy fibrous cream wove paper with sharp luminous micro-aperture at bottom emitting golden causal vectors that branch and fold recursively into cascading 3D concentric grids and undulating macroscopic wave-forms |
 | `the-three-shadows-of-the-cut` | Suprematist geometric relief painting on aged off-white textured linen canvas with razor-thin diagonal slit of golden light slicing through matte black rectangle, projecting three distinct geometric shadow planes (cobalt blue, red, raw umber) into neutral void |
+| `war-revolution-and-the-fall-of-empires` | Piranesi-inspired dark copperplate etching with sepia ink wash on aged laid cotton paper with monumental fractured Roman triumphal arch and colonnade overgrown with ivy, shattered friezes on fractured stone road, and solitary traveler walking into expansive sunrise horizon |
 
 ## Crowded — prefer not to extend
 

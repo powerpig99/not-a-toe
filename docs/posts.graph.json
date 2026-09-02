@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-02T05:27:45.776Z",
+    "generated_at": "2026-09-02T06:14:38.222Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -151,7 +151,7 @@
       "content/posts/selection-contradiction-and-open-reality.md": "805903f17e4e",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "64edd66664f9",
       "content/posts/self-rl-for-humans.md": "5d3466611e3a",
-      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "10e70455f6bb",
+      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "959cc93e80f1",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "32af5139e074",
       "content/posts/shared-humanity-is-never-shared.md": "f4eb8c469df7",
@@ -257,6 +257,7 @@
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "4a8d0a1b5a8c",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "44869ec76009",
+      "content/posts/war-revolution-and-the-fall-of-empires.md": "39758458694c",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
       "content/posts/what-information-is.md": "5cf8efae167b",
@@ -282,13 +283,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 272,
-      "edges": 2717,
-      "unique_directed": 2690,
+      "posts": 273,
+      "edges": 2720,
+      "unique_directed": 2693,
       "missing_targets": 0,
-      "one_way": 560,
+      "one_way": 561,
       "isolated": 35,
-      "posts_with_outbound": 220
+      "posts_with_outbound": 221
     }
   },
   "hubs_in": [
@@ -314,7 +315,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 40
+      "in_degree": 41
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -3620,13 +3621,14 @@
       "slug": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "path": "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md",
       "title": "Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success",
-      "hash": "10e70455f6bb",
-      "in_degree": 1,
-      "out_degree": 3,
+      "hash": "959cc93e80f1",
+      "in_degree": 2,
+      "out_degree": 4,
       "links_out": [
         "the-generative-mechanics-of-value-money-and-wealth",
         "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
-        "empowerment-establishes-the-centralization-of-power"
+        "empowerment-establishes-the-centralization-of-power",
+        "war-revolution-and-the-fall-of-empires"
       ]
     },
     {
@@ -5472,7 +5474,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3098d153bf56",
-      "in_degree": 40,
+      "in_degree": 41,
       "out_degree": 30,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5902,6 +5904,20 @@
         "the-generative-contradiction",
         "how-to-fix-your-whole-life-in-one-split-second",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng"
+      ]
+    },
+    {
+      "id": "post:war-revolution-and-the-fall-of-empires",
+      "kind": "post",
+      "slug": "war-revolution-and-the-fall-of-empires",
+      "path": "content/posts/war-revolution-and-the-fall-of-empires.md",
+      "title": "War, Revolution, and the Mirage of Historical Lessons",
+      "hash": "39758458694c",
+      "in_degree": 1,
+      "out_degree": 2,
+      "links_out": [
+        "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+        "the-scaffolding-we-forget"
       ]
     },
     {
@@ -15153,6 +15169,12 @@
       "label": "Empowerment Establishes the Centralization of Power"
     },
     {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "war-revolution-and-the-fall-of-empires",
+      "rel": "points_to",
+      "label": "War, Revolution, and the Mirage of Historical Lessons"
+    },
+    {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
@@ -21391,6 +21413,18 @@
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
       "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
+    },
+    {
+      "from": "war-revolution-and-the-fall-of-empires",
+      "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "rel": "points_to",
+      "label": "Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success"
+    },
+    {
+      "from": "war-revolution-and-the-fall-of-empires",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "what-always-listens-cannot-originate",
