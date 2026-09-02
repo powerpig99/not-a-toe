@@ -44,6 +44,35 @@ Because causality operates through **discrete state transitions**. At the fundam
 
 Smooth temporal continuity is an observer-dependent macroscopic approximation—a cognitive blur compiled over countless micro-events. What any clock measures is never continuous "time"; a clock merely counts the discrete, cyclic causal steps of an oscillator (a swinging pendulum, a vibrating quartz crystal, a cesium atomic hyperfine transition). Time is the counting of discrete causal steps along an irreversible direction.
 
+### 3. The Minimal Step and Universal Constants: The Planck Scale and the Speed of Causality
+
+This discrete step is not merely an abstract philosophical concept; it is the foundational physical generator that defines the universal constants of nature.
+
+Theoretical physics has long struggled to explain why universal constants exist—treating numbers like the speed of light, Planck's constant, and the gravitational constant as mysterious arbitrary parameters baked into an external universe. When viewed through the lens of discrete causal transitions, their origin becomes structural and inevitable:
+
+* **The Planck Time (*t_P*)**: The minimal, irreducible duration required for a causal interaction to resolve across a boundary into a realized physical state. Below this scale, the concept of a time interval ceases to possess physical meaning, because no intermediate state transition can occur. It is the literal "one-step width" of reality, as explored in [The Geometry of Emergence](../the-geometry-of-emergence/);
+* **The Planck Length (*ℓ_P*)**: The minimal spatial boundary across which that discrete causal distinction can be established;
+* **The Speed of Light (*c*)**: Far from being merely the propagation speed of photons through a vacuum, *c* is the **universal speed of causality itself**. It is the strict ratio of the minimal spatial displacement to the minimal causal step (*c = ℓ_P / t_P*).
+
+The speed of light represents the absolute cosmic speed limit because **information cannot outrun the cadence of the causal step that generates it**. An effect cannot propagate across space faster than the minimum duration required for its antecedent cause to complete its state transition. To exceed *c* would require an interaction to manifest before its generating step has physically occurred—a structural contradiction.
+
+The fundamental constants of physics are not arbitrary cosmic dials. They are the exact geometric properties of reality's minimal causal step.
+
+### 4. The Rendering Frame Rate and the Locus of Free Choice
+
+What, then, is this minimal discrete step in its deepest ontological reality?
+
+It is the **resolution of the frame rate**—the fundamental refresh speed at which reality is rendered at the quantum horizon.
+
+Reality does not exist as a finished, pre-recorded movie reel waiting on an eternal shelf (the fatal fallacy of the static block universe). Reality is being actively and continuously rendered from moment to moment. The Planck scale defines the maximum resolution and refresh rate of this cosmic rendering engine: the discrete cadence at which open potentiality collapses across the quantum boundary into realized physical states.
+
+Crucially, this discrete frame rate is the exact physical locus of **our freedom of choice**:
+
+* **Open Potentiality Between Steps**: If time were an unbroken, continuous spatial dimension already laid out from beginning to end, free will would be an impossibility; every event would be permanently frozen into a four-dimensional crystal block. But because time proceeds in **discrete causal steps**, reality remains fundamentally open at the leading edge of every transition;
+* **The Dual Aspect of the Cut**: The accumulated past provides structural constraints and physical residue, but the resolution of the next discrete frame remains open until actualized. Observed from the third-person exterior, this discrete step is recorded as quantum resolution—a physical state transition occurring at the fundamental frame rate of the cosmos. Undergone from the first-person interior, **this exact same crossing is experienced as conscious choice and living intention**, as demonstrated in [The Geometry of Emergence](../the-geometry-of-emergence/) and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/).
+
+Freedom of choice does not hover in a magical void outside the laws of physics. It resides precisely in the discrete cadence of reality's rendering engine. Every conscious act is a direct participation in rendering the next frame of the universe.
+
 There is no subterranean cosmic vault where "the past" remains physically preserved, nor a warehouse where "the future" is waiting to happen. There is only the physical state of the universe right now, carrying the accumulated structural residue of every discrete causal step that preceded it.
 
 ## The Mental Projection: How the Coordinate Axis Is Born
