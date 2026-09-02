@@ -8,15 +8,20 @@ Projecting this mathematical convenience onto the structure of reality produces 
 
 Infinity is that potentiality itself. It is the inexhaustible remainder that can always be continued, rather than an extra, completed object sitting inside the cosmic inventory.
 
-## The Two Faces of the Coin
+## The Two Faces of the Coin: The Proper Epistemology
 
 The relationship between realized reality and open potentiality functions like the two sides of a single coin:
 
 * **The Realized Face**: The accumulated inventory of actualized distinctions—the historical record of consequences that have already landed in perception;
 * **The Potential Face**: The moving edge that remains open, available for subsequent differentiation and further steps;
-* **The Category Error**: Demanding to observe conceptualized potentiality as a completed totality is identical to demanding a simultaneous photograph of both sides of a coin in a single glance.
+* **The Error of False Totality**: Demanding to observe conceptualized potentiality as a completed totality is identical to demanding a simultaneous photograph of both sides of a coin in a single glance;
+* **The Error of Denial**: Treating the structural inability to view both sides simultaneously as a reason to deny either side.
 
-An observer inspects the realized marks on one face, or turns the coin to engage the open edge. Both aspects belong to the same unified reality, yet they represent complementary postures. Insisting that potentiality prove its validity by presenting itself as a finished, observable catalog demands that the open future be converted into past sediment before it is allowed to exist.
+Epistemic confusion oscillates between these two errors. The first demands that potentiality prove its reality by presenting itself as an already-finished object before it is recognized. The opposite error concludes that because potentiality cannot be displayed as an invariant object, potentiality is an illusion—or conversely, that because potentiality is boundless, the concrete sediment of realized reality is unreal.
+
+The proper epistemology is exact: **knowing that both sides exist, and knowing that they cannot be observed in a single simultaneous glance**.
+
+An observer inspects the realized marks on one face, or turns the coin to engage the open edge. Both orientations belong to the same unified dynamic. The inability to collapse both stances into a single view is the structural proof of the coin’s dimensionality, rather than a justification for denying either face.
 
 ## Hilbert and Aristotle: Potential Succession vs. Completed Collection
 
