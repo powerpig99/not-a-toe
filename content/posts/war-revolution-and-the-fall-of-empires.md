@@ -1,4 +1,4 @@
-# War, Revolution, and the Mirage of Historical Lessons
+# War, Revolution, and the Fall of Empires
 
 *Empires, wars, and revolutions are expressions of living alignment and capacity compression rather than fixed objects governed by historical laws; true understanding occurs in real-time reaction to immediate feedback, while treating past residue as a stored template blinds the observer to the open edge of reality.*
 
