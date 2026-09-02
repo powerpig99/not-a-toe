@@ -173,8 +173,8 @@ Deconstructing the myth of the time dimension dissolves fatalism and restores hu
 └─────────────────────────────────┘                     └─────────────────────────────────┘
 ```
 
-The past is not a permanent prison where you are frozen; it is the structural residue available to your mind *right now* to inform your understanding. 
+The past is the accumulated structural residue available to the living Mind *right now* to inform understanding. 
 
-The future is not an unalterable destination already recorded on a cosmic server; it is the open potentiality of the next causal step, waiting to be shaped by the boundary constraints you choose to establish.
+The future is the open potentiality of the next causal step, shaped by the boundary constraints established in the present.
 
 The theoretical dimension of time is an indispensable tool—a magnificent mental bridge constructed by the living Mind to navigate existence. But the bridge must never be mistaken for the river. The true engine of reality is causality moving in discrete, irreversible steps from state to state, and its only theater is the sovereign, unrepeatable present.
