@@ -97,30 +97,35 @@ Freedom of choice does not hover in a magical void outside the laws of physics. 
 
 There is no subterranean cosmic vault where "the past" remains physically preserved, nor a warehouse where "the future" is waiting to happen. There is only the physical state of the universe right now, carrying the accumulated structural residue of every discrete causal step that preceded it.
 
-## The Mental Projection: How the Coordinate Axis Is Born
+## The Mechanics of Mind: Projecting the Present to Understand and Predict
 
-Where, then, did the "dimension" of time originate? It was engineered by the living Mind as an operational heuristic.
+Where, then, did the "fourth dimension" of time originate? It was engineered by the living Mind as the ultimate operational heuristic.
 
-To navigate an environment governed by cause and effect, the conscious intellect must solve two urgent computational problems: it must understand why the present situation is shaped as it is, and it must evaluate how its current actions will alter what happens next.
+**We only perceive the present.** Consciousness is anchored strictly, indivisibly, and perpetually at this instantaneous moment. But to survive and exercise agency, the intellect must make sense of its current circumstances and decide what to do next.
 
-To solve this, the Mind executes a brilliant act of cognitive spatialization:
+To achieve this, consciousness executes an elegant three-stage cognitive loop:
+
+1. **Projecting Backward to Find the Cause**: We project the present back into the past to make sense of the present. By inspecting physical residue stored *at this moment*—sediment in a riverbed, photons hitting a detector, ink in an archive, synaptic connections in the brain—we work backward to figure out the **cause of the present**;
+2. **Formulating the Mental Model**: By projecting the present back into the past to uncover causes, the intellect extracts repeating patterns, causal laws, and relational invariances. This is how all mental models and scientific theories are constructed;
+3. **Projecting Forward to Predict the Effect**: Armed with the mental model or theory derived from tracing the present back into the past, we then project into the future to predict what will be the **effect** of our choices.
 
 ```text
-                      [ The Living Observer at THIS MOMENT ]
-                                        │
-           ┌────────────────────────────┴────────────────────────────┐
-           ▼                                                         ▼
-  [ Retrospective Projection ]                              [ Prospective Simulation ]
-  • Reads physical residue stored NOW                       • Models counterfactual paths
-  • Projects them along a spatial axis                      • Anticipates downstream constraints
-  • Labels the coordinate "The Past"                        • Labels the coordinate "The Future"
-  • Purpose: Trace the causal origin                        • Purpose: Aim the current action
+                       [ THE LIVING PRESENT ]
+                     (The Only Direct Perception)
+                                  │
+      ┌───────────────────────────┴───────────────────────────┐
+      │                                                       │
+      ▼                                                       ▼
+[ Retrospective Projection ]                        [ Prospective Simulation ]
+• Inspects residue existing NOW                     • Deploys model built from the past
+• Projects backward to discover                     • Projects forward into the future
+  THE CAUSE OF THE PRESENT                          • Predicts THE EFFECT of present actions
+      │                                                       ▲
+      └─────────────────► [ Mental Model / Theory ] ──────────┘
+                         (Extracts causal patterns)
 ```
 
-1. **Retrospect (The Past)**: The observer inspects physical residue and memory traces existing *at this moment*—sediment in a riverbed, photons hitting a detector, ink in an archive, synaptic weights in the brain. To make these traces intelligible, cognition arranges them into a linear sequence: a backward spatial line called "the past."
-2. **Forecast (The Future)**: To decide where to apply its agency right now, cognition projects simulated trajectories along that same line into "the future," calculating the probable reflections and bounces of its choices, as examined in [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/).
-
-The "time dimension" (*t*) is therefore an engineered coordinate system constructed entirely within the first-person aperture of the present moment. It is a mental drafting grid used to map antecedent causes and anticipate subsequent effects.
+The "fourth dimension" (*t*) is therefore an internal drafting grid constructed entirely within the aperture of the present moment. We project the present backward to explain its causes, and we project forward through our models to forecast their effects. As examined in [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/), this forward simulation allows us to aim our cue stick in the only place where reality is actually rendered: right now.
 
 ## The Grand Reification: Mistaking the Projection for the Territory
 
