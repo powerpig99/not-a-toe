@@ -434,6 +434,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success` | Vienna Secessionist mixed-media painting in the style of Gustav Klimt with textured 24k gold leaf, oil paint, spiraling mosaics, glowing artisan silhouette forging incandescent tool on anvil, and petrified figures in heavy gilded thrones and cages |
 | `the-other-coherence` | Persian Safavid illumination and lapis-gold miniature painting on aged cream parchment with ultramarine arabesques, gold filigree lattice on left dissolving through open archway aperture into radiant continuous starry cosmic horizon on right |
 | `the-geometry-of-emergence` | Precisionist optical kinetic screenprint on heavy fibrous cream wove paper with sharp luminous micro-aperture at bottom emitting golden causal vectors that branch and fold recursively into cascading 3D concentric grids and undulating macroscopic wave-forms |
+| `the-three-shadows-of-the-cut` | Suprematist geometric relief painting on aged off-white textured linen canvas with razor-thin diagonal slit of golden light slicing through matte black rectangle, projecting three distinct geometric shadow planes (cobalt blue, red, raw umber) into neutral void |
 
 ## Crowded — prefer not to extend
 

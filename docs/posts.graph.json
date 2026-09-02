@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-02T03:30:51.200Z",
+    "generated_at": "2026-09-02T05:18:33.691Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -212,7 +212,7 @@
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "8a1a6c780055",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "854e6880413d",
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "f846e65e2764",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "bcad700ede14",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "134a07cc1be4",
@@ -243,6 +243,7 @@
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
+      "content/posts/the-three-shadows-of-the-cut.md": "382d3d60c44a",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-unobservable-driver-of-learning.md": "1c942a52811f",
       "content/posts/the-utility-men-of-progress.md": "35523a162e42",
@@ -281,13 +282,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 271,
-      "edges": 2714,
-      "unique_directed": 2687,
+      "posts": 272,
+      "edges": 2717,
+      "unique_directed": 2690,
       "missing_targets": 0,
-      "one_way": 557,
+      "one_way": 560,
       "isolated": 35,
-      "posts_with_outbound": 219
+      "posts_with_outbound": 220
     }
   },
   "hubs_in": [
@@ -386,6 +387,10 @@
       "out_degree": 36
     },
     {
+      "slug": "the-model-never-becomes-a-second-edge",
+      "out_degree": 31
+    },
+    {
       "slug": "ownership-and-self-worthiness",
       "out_degree": 30
     },
@@ -395,10 +400,6 @@
     },
     {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
-      "out_degree": 30
-    },
-    {
-      "slug": "the-model-never-becomes-a-second-edge",
       "out_degree": 30
     },
     {
@@ -4449,7 +4450,7 @@
       "path": "content/posts/the-geometry-of-emergence.md",
       "title": "The Geometry of Emergence",
       "hash": "bead421f1444",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 2,
       "links_out": [
         "the-other-coherence",
@@ -4878,9 +4879,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "f846e65e2764",
+      "hash": "bcad700ede14",
       "in_degree": 26,
-      "out_degree": 30,
+      "out_degree": 31,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
         "intelligence-belongs-only-to-the-mind",
@@ -4911,7 +4912,8 @@
         "intelligence-folding-back-on-itself",
         "climbing-does-not-leave-the-ground",
         "technology-is-residual-of-human-compounding",
-        "the-real-lesson-from-the-consciousness-vector-paper"
+        "the-real-lesson-from-the-consciousness-vector-paper",
+        "the-three-shadows-of-the-cut"
       ]
     },
     {
@@ -5011,7 +5013,7 @@
       "path": "content/posts/the-other-coherence.md",
       "title": "The Other Coherence",
       "hash": "6716d26a61c7",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 3,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
@@ -5660,6 +5662,20 @@
       "links_out": [
         "fidelity-not-optimality",
         "minimizing-path"
+      ]
+    },
+    {
+      "id": "post:the-three-shadows-of-the-cut",
+      "kind": "post",
+      "slug": "the-three-shadows-of-the-cut",
+      "path": "content/posts/the-three-shadows-of-the-cut.md",
+      "title": "The Three Shadows of the Cut: On Forrest Landry’s Immanent Metaphysics",
+      "hash": "382d3d60c44a",
+      "in_degree": 1,
+      "out_degree": 2,
+      "links_out": [
+        "the-other-coherence",
+        "the-geometry-of-emergence"
       ]
     },
     {
@@ -18329,6 +18345,12 @@
       "label": "The real lesson from the consciousness vector paper"
     },
     {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-three-shadows-of-the-cut",
+      "rel": "points_to",
+      "label": "The Three Shadows of the Cut"
+    },
+    {
       "from": "the-myth-of-population-collapse-explained",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
@@ -20703,6 +20725,18 @@
       "to": "minimizing-path",
       "rel": "points_to",
       "label": "The Minimizing Path"
+    },
+    {
+      "from": "the-three-shadows-of-the-cut",
+      "to": "the-other-coherence",
+      "rel": "points_to",
+      "label": "The Other Coherence"
+    },
+    {
+      "from": "the-three-shadows-of-the-cut",
+      "to": "the-geometry-of-emergence",
+      "rel": "points_to",
+      "label": "The Geometry of Emergence"
     },
     {
       "from": "the-unobservable-driver-of-learning",
