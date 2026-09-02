@@ -12,7 +12,7 @@ Our mental and theoretical models treat time as a fourth dimension as an enginee
 
 > *The fourth dimension of time is an engineered coordinate tool in our models; actual time is the irreversible causal progression of reality.*
 
-**Time is the irreversible direction and discrete step of causal state transitions.** Treating time as a fourth dimension in mathematical physics or cognitive representation is a valuable heuristic to map antecedents and simulate consequences. The category error occurs only when the fourth dimension *in the model* is reified into *actual time in physical reality*.
+**Time is the irreversible direction and discrete step of causal state transitions.** Treating time as a fourth dimension in mathematical physics or cognitive representation is a valuable heuristic to map antecedents and simulate consequences. The category error occurs only when the fourth dimension *in the model* is reified into *actual time in physical reality*—a structural projection examined in depth in [Dimensions Are Projections](../dimensions-are-projections/).
 
 ## The Inescapable Now: Perception Anchored in the Present
 
