@@ -41,7 +41,7 @@ This dynamic governs the perpetual friction between human beings. Each individua
 
 Without the capacity to reconstruct the other person's geometry, onlookers judge the behavior as irrational, malicious, or foolish. 
 
-Most interpersonal conflict is not a dispute over reality, but a failure to perceive the unobserved cushions and angles of reflection that dictate another's path.
+Most interpersonal conflict is not a dispute over reality, but a failure to perceive the unobserved cushions and angles of reflection that dictate another's path—the exact perceptual trap analyzed in [The Look of Constraint Is Not the Loss of Freedom](../the-look-of-constraint-is-not-the-loss-of-freedom/), where external observers mistake adaptive path-navigation under constraint for erratic behavior or a loss of fundamental agency.
 
 ## Forecasting as the Projected Mirror Ball
 
@@ -66,7 +66,9 @@ Hindsight analysis produces an endless variety of retroactive narratives:
 
 * Commentators attribute the successful strike to external fortune, table anomalies, environmental currents, or unrepeatable genius;
 * The formal academic impulse aggregates thousands of amateur attempts into a dataset, plots a bell curve, and concludes that sinking bank shots is merely a normal distribution governed by random chance and regression to the mean;
-* To anyone who actually plays the game, this statistical reduction is an obvious category error: consistent success is the direct causal result of an accurate internal model coupled with persistent, disciplined physical practice.
+* As established in [自由的测不准：微观主权、统计涌现与自由意志的佯谬](../zi-you-de-ce-bu-zhun/), this statistical reduction commits a fundamental category error: it mistakes the *absence of third-person observational information* for the *absence of first-person causation*;
+* To anyone who actually plays the game, consistent success is the direct causal result of an accurate internal model coupled with persistent, disciplined physical practice;
+* Furthermore, retroactive doctrines that extract tidy rules after the fact confuse the finished result with the generative process, enacting the trap dissected in [成功学: Theories After Success, Mistaken for Theories Leading to Success](../cheng-gong-xue/).
 
 Statistical distributions record the downstream historical footprint of varying human competencies. They exert zero causal power over the player standing at the table with cue in hand.
 
@@ -74,6 +76,7 @@ Statistical distributions record the downstream historical footprint of varying 
 
 A foundational condition of perception is that every observation arrives as an effect:
 
+* Observation always stands on the side of the finished consequence, while the generative cause remains permanently one step ahead, as demonstrated in [前因，后果](../qian-yin-hou-guo/);
 * What lands upon the senses is the terminal consequence of prior sequences—the sound of the collision, the visible deflection of the ball, the finalized decision;
 * The intermediate causal links that carried the momentum to that point remain unobservable unless deliberately traced;
 * When an observer encounters an unfamiliar effect in isolation, the human mind instinctively fills the gap with magical narratives, systemic conspiracies, or arbitrary luck.
@@ -85,7 +88,7 @@ Understanding requires reconstructing the complete chain of transmission. To com
 This billiards geometry explains the overarching structure of macroscopic human phenomena—from financial markets and corporate enterprises to technological revolutions:
 
 * Macro structures are stabilized feedback loops of interacting micro choices, as demonstrated in [The Generative Atlas of Macroscopic Phenomena](../the-generative-atlas-of-macroscopic-phenomena/);
-* The primary free variable driving any macro development is sovereign individual choice, acting through physical constraints;
+* The primary free variable driving any macro development is sovereign individual choice, acting through physical constraints, as established in [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/);
 * To an outside observer who strips out agency, the horizon appears as pure statistical randomness or quantum indeterminacy;
 * From the first-person perspective, that indeterminacy is the exact locus of sovereign choice, focused practice, and consequential action.
 
