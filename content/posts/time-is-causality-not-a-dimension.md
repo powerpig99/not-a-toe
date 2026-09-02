@@ -24,37 +24,18 @@ Actual time presents no such geometric symmetry. An observer never looks sideway
 
 We never leave the present. Every thought, every measurement, every calculation of an orbit, and every memory of childhood occurs exclusively within the instantaneous flash of the now. Treating time as a fourth dimension in our mental and theoretical models allows us to project back to the past to make sense of the present and forecast what comes next, but what consciousness actually perceives is the current state of reality as it transitions from one discrete step to the next.
 
-## The Ground of Actual Time: Direction and Step
+## The Ground of Actual Time: Direction and Separation
 
 What, then, is the precise nature of actual time in the physical territory, as distinguished from the dimensional coordinate in our models?
 
-Causality is the unbroken fabric of physical interactions, transformations, and relationships that constitutes reality. Time is the **intrinsic directional cadence** of those interactions:
+Causality is the unbroken fabric of physical interactions and transformations that constitutes reality. Because of causality, it must have a **direction**, and it must have a **separation** between cause and effect:
 
-### 1. The Irreversible Direction: A Necessary Condition of Causality
+* **Direction gives the time arrow**: An antecedent cause must precede its consequent effect. The vector runs one way. If cause and effect were interchangeable, causality would cease to exist;
+* **Separation gives the minimum step size**: A cause cannot be simultaneous with its effect. If the transition were instantaneous—a step size of zero—cause and effect would collapse into each other with zero differentiation, snapping reality into an unobservable singularity. The step can never be zero.
 
-Causality is not symmetric. By its very definition, **irreversibility is a necessary condition for causality to function**.
+That is what gives the arrow of time and the minimum step size. That is it. That is all there is to actual time in physical reality.
 
-For an antecedent cause to produce a consequent effect requires an asymmetric, irreversible direction. If physical interactions were reversible—if an outcome could invert back into its origin with zero residual footprint—cause and effect would be completely interchangeable, and the distinction between before and after would evaporate. Actions would carry no consequence, and reality could leave no trace. 
-
-Reversibility belongs to spatial coordinates on a map, where lines can be traversed back and forth without altering anything. Causality, by contrast, is the actualization of state transitions in physical reality. If causality were reversible, it would lose all meaning. There is nothing more that needs to be said: irreversibility is the foundational condition without which causality cannot exist.
-
-### 2. The Discrete Step: Why Cause Needs Time to Become Effect
-
-Why is time fundamentally discrete rather than an infinitely smooth, continuous fluid?
-
-Because **a cause needs time to become an effect**.
-
-Causality cannot be instantaneous. If the transmission between cause and effect took zero duration, the cause and the effect would occur simultaneously. If cause and effect were simultaneous, there would be no separation, no transition, no transformation, and no sequence. Reality would have no room to unfold.
-
-That step, no matter how small it can go, **can never be zero**. 
-
-True mathematical continuity is therefore impossible in physical reality. In pure mathematics, calculus performs an indispensable sleight of hand: it analyzes changes over an interval and then takes the limit as the step approaches zero (*dt* → 0), treating the minimal step as effectively zero while retaining the ratio of change. We knowingly accept this sleight of hand in our equations because it provides immense computational utility. But it can never physically happen in reality.
-
-If the causal step were truly zero in the territory, the denominator vanishes, and everything instantly snaps into a **singularity**. Without a non-zero step, there is **no differentiation**—no contrast, no distinction, no boundary, and no information, as derived in [What Information Is](../what-information-is/). Everything would collapse into a single, undifferentiated, unobservable point. 
-
-The singularities that haunt theoretical physics—such as the Big Bang and the centers of black holes, examined in [The Boundary of the Frame](../the-boundary-of-the-frame/)—are not bizarre physical objects; they are the exact mathematical pathologies that arise when theorists mistake the mathematical sleight of hand for physical reality, forcing a discrete, non-zero causal step down to an absolute zero.
-
-### 3. Universal Constants as the Limits of Our Perception
+### Universal Constants as the Limits of Our Perception
 
 Because the causal step cannot be zero, there must exist an irreducible minimal boundary of realization. This minimal step is what defines the fundamental universal constants:
 
@@ -66,7 +47,7 @@ Crucially, these universal constants are **not pre-existing metaphysical facts**
 
 Our speed of observation, instrumentation, and cognitive registration is structurally bounded by the minimal causal step of the universe. The Planck scale and the speed of light mark the perimeter of the observable horizon—the resolution of our perceptual aperture. To treat universal constants as self-existing laws independent of observation is to commit the amnesia of the frame: forgetting that every constant is measured by an observer whose own apparatus is woven from the very causal steps being measured.
 
-### 4. The Rendering Frame Rate and the Sovereign Locus of Choice
+### The Rendering Frame Rate and the Sovereign Locus of Choice
 
 What, then, is this minimal discrete step in its deepest operational reality?
 
