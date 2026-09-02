@@ -34,6 +34,26 @@ In this uncompressed, fully orthogonal *N*-dimensional base, an essential truth 
 
 Because every basis state is purely orthogonal to every other (⟨*eᵢ*, *eⱼ*⟩ = 0 for all *i* ≠ *j*), each distinction exists in complete, uncoupled isolation. State *e₁* has no overlap with state *e₂*, shares no common axis, experiences no interference, and possesses no distance metric. Pure, uncompressed distinctions have no geometry. They simply *are*.
 
+### The Engine of Dimensional Extension: From *N* - 1 to *N* + 1
+
+How does an *N*-dimensional space become *N* + 1?
+
+A foundational trap in theoretical modeling is the **closed reality assumption**. When a formal model assumes a closed, self-contained *N*-dimensional reality, it deduces that the system possesses only ***N* - 1 degrees of freedom**. In statistics, thermodynamics, and coordinate geometry, closing a system requires fixing an internal origin or imposing a global constraint. To close the box from within consumes one degree of freedom, reducing available agency from *N* to *N* - 1.
+
+That deduction is mathematically sound within its premise, but it rests entirely on the assumption that reality can be closed.
+
+**Reality is fundamentally open.** As established in [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) and [Openness Is Consistency](../openness-is-consistency/), an *N*-dimensional space cannot be closed from within. To define, bound, or observe an *N*-dimensional space as a coherent whole requires an act of distinction that cannot be contained within those *N* axes:
+
+* A one-dimensional line cannot observe its own length as a completed entity without an orthogonal axis of height (2D);
+* A two-dimensional plane cannot bound itself as a finite surface without an orthogonal axis of depth (3D);
+* A three-dimensional spatial container cannot be held as a bounded object without an observational vantage point that stands outside its spatial coordinates.
+
+The very act of distinguishing an *N*-dimensional space **automatically defines an (*N* + 1)-th orthogonal dimension**—the vantage point of the boundary itself. 
+
+And because that (*N* + 1)-th space is now established, the act of holding *it* as an object of distinction immediately generates an (*N* + 2)-th dimension. **Recursively, the unceasing act of distinction extends the dimensionality of reality infinitely forward (*N* → *N* + 1 → *N* + 2 → ...).** 
+
+Dimensionality is not a static ceiling; it is the open, recursive staircase of the living Mind.
+
 ---
 
 ## II. The Birth of Relation: Compression into the log₂(*N*) Hypercube
