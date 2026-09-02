@@ -21,6 +21,16 @@ This is the foundational mechanics of the magic trick. A stage magician does not
 
 Magic is simply causality with an occluded bounce.
 
+## Working Relentlessly Hard to Make It Look Easy
+
+To make a magic trick appear as magic, the performer must invest an immense amount of first-person physical practice:
+
+* The sleight of hand must be executed with such speed, fluidity, and calibrated misdirection that the mechanical friction completely vanishes from the audience's view;
+* The common aphorism that one must "try super hard to make it look easy" is an operational description of causal compounding: the appearance of effortless absence is produced by the most rigorous presence of disciplined repetition;
+* When third-person spectators witness effortless ease, they mistake the absence of visible struggle for the absence of causal work, attributing the mastery to innate genius, luck, or supernatural gift.
+
+In reality, the smoother the bank shot, the more thousands of hours the player spent standing alone at the table, calibrating grip, spin, and velocity against physical resistance.
+
 ## Interpersonal Misunderstanding as Hidden Rebound
 
 This dynamic governs the perpetual friction between human beings. Each individual operates strictly from their own first-person coordinate system:
