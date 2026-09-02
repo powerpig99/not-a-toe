@@ -61,4 +61,4 @@ The coherence of conscious experience is the way a scene holds together as one c
 
 This is the ground on which consciousness is coherent, and the condition through which that coherence keeps perceived reality open. It is the alignment of a living field with itself as causality crosses the first-person aperture.
 
-Quantum phase coherence in a tubulin lattice is a local physical mechanism within the fabric. The experiential field is where all measuring occurs and where the maps of physics are drawn—at the living edge where causality continuously unfolds.
+Quantum phase coherence in a tubulin lattice is a local physical mechanism within the fabric. As explored in [The Geometry of Emergence](../the-geometry-of-emergence/), macroscopic patterns are recursive consequences of this living edge rather than separate causal engines. The experiential field is where all measuring occurs and where the maps of physics are drawn—at the living edge where causality continuously unfolds.
