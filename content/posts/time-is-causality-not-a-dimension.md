@@ -10,7 +10,7 @@ This formulation represents one of the most pervasive confusions in the history 
 
 > *The theoretical dimension of time is not actual time.*
 
-Actual time is not a spatialized axis waiting to be traversed. Nor is time merely an interchangeable synonym for causality. **Time is the irreversible direction and discrete step of causality.** The "time dimension" ($t$) is an engineered cognitive coordinate system—an internal mental projection constructed entirely within the living observer at this instantaneous aperture to make sense of accumulated history and forecast what comes next.
+Actual time is not a spatialized axis waiting to be traversed. Nor is time merely an interchangeable synonym for causality. **Time is the irreversible direction and discrete step of causality.** The "time dimension" (*t*) is an engineered cognitive coordinate system—an internal mental projection constructed entirely within the living observer at this instantaneous aperture to make sense of accumulated history and forecast what comes next.
 
 ## The Inescapable Now: We Do Not Perceive a Dimension
 
@@ -69,19 +69,19 @@ To solve this, the Mind executes a brilliant act of cognitive spatialization:
 1. **Retrospect (The Past)**: The observer inspects physical residue and memory traces existing *at this moment*—sediment in a riverbed, photons hitting a detector, ink in an archive, synaptic weights in the brain. To make these traces intelligible, cognition arranges them into a linear sequence: a backward spatial line called "the past."
 2. **Forecast (The Future)**: To decide where to apply its agency right now, cognition projects simulated trajectories along that same line into "the future," calculating the probable reflections and bounces of its choices, as examined in [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/).
 
-The "time dimension" ($t$) is therefore an engineered coordinate system constructed entirely within the first-person aperture of the present moment. It is a mental drafting grid used to map antecedent causes and anticipate subsequent effects.
+The "time dimension" (*t*) is therefore an engineered coordinate system constructed entirely within the first-person aperture of the present moment. It is a mental drafting grid used to map antecedent causes and anticipate subsequent effects.
 
 ## The Grand Reification: Mistaking the Projection for the Territory
 
 The catastrophic confusion occurs when the operational coordinate grid is mistaken for the physical territory—the exact failure analyzed in [The Boundary of the Frame](../the-boundary-of-the-frame/).
 
-Because mathematical physics can represent time as an algebraic variable ($t$) alongside spatial coordinates ($x, y, z$), theorists succumbed to a fatal category error: they assumed that because time can be *plotted* like space, time *is* space.
+Because mathematical physics can represent time as an algebraic variable (*t*) alongside spatial coordinates (*x*, *y*, *z*), theorists succumbed to a fatal category error: they assumed that because time can be *plotted* like space, time *is* space.
 
 This reification produces a cascade of metaphysical absurdities:
 
 * **The Block Universe Illusion**: Physicists declare that since spacetime is a four-dimensional geometric block, "the passage of time is a stubborn illusion," and all moments are equally real. This mistakes an engineered mathematical map for the living ground of reality;
 * **Time Travel Paradoxes**: Theorists spend decades debating whether one could build a closed timelike curve to travel back in time and prevent their own birth. Such paradoxes are mathematical artifacts of treating a coordinate line as a physical highway. You cannot travel to yesterday because "yesterday" is not a physical location in space; it was a previous state of the entire universe that has been irreversibly overwritten by subsequent causal interactions;
-* **Time-Reversal Symmetry**: Because the fundamental equations of classical and quantum mechanics are mathematically symmetric under the inversion of $t \to -t$, physicists wonder why "the arrow of time" only flows forward. The arrow of time is not a mysterious emergent property; it is the elementary definition of causality itself. In the actual territory, you cannot reverse $t$, because doing so would require mechanically reversing every thermodynamic dissipation and every quantum state transition across the entire universe—which is not traveling backward in time, but executing an unimaginably vast *forward* causal operation.
+* **Time-Reversal Symmetry**: Because the fundamental equations of classical and quantum mechanics are mathematically symmetric under the inversion of *t* → -*t*, physicists wonder why "the arrow of time" only flows forward. The arrow of time is not a mysterious emergent property; it is the elementary definition of causality itself. In the actual territory, you cannot reverse *t*, because doing so would require mechanically reversing every thermodynamic dissipation and every quantum state transition across the entire universe—which is not traveling backward in time, but executing an unimaginably vast *forward* causal operation.
 
 As established in [Causality All the Way](../causality-all-the-way/), the map can run its equations backward, but physical reality only ever runs forward.
 
