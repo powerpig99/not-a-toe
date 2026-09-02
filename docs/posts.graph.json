@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-02T06:21:41.182Z",
+    "generated_at": "2026-09-02T07:43:14.677Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -88,7 +88,7 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "c6a1de45c459",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "1466549a4396",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "b60b674b5303",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -170,6 +170,7 @@
       "content/posts/the-average-is-residue-not-the-engine.md": "104f5bc3e9a2",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
       "content/posts/the-brain-does-not-backprop.md": "d2f1958b9ac3",
+      "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
@@ -283,13 +284,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 273,
-      "edges": 2720,
-      "unique_directed": 2693,
+      "posts": 274,
+      "edges": 2724,
+      "unique_directed": 2697,
       "missing_targets": 0,
-      "one_way": 561,
+      "one_way": 563,
       "isolated": 35,
-      "posts_with_outbound": 221
+      "posts_with_outbound": 222
     }
   },
   "hubs_in": [
@@ -303,7 +304,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 57
+      "in_degree": 58
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -319,7 +320,7 @@
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 36
+      "in_degree": 37
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -346,15 +347,15 @@
       "in_degree": 27
     },
     {
+      "slug": "the-model-never-becomes-a-second-edge",
+      "in_degree": 27
+    },
+    {
       "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 26
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 26
-    },
-    {
-      "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 26
     },
     {
@@ -2187,9 +2188,9 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "1466549a4396",
-      "in_degree": 57,
-      "out_degree": 21,
+      "hash": "b60b674b5303",
+      "in_degree": 58,
+      "out_degree": 22,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
         "the-model-never-becomes-a-second-edge",
@@ -2197,6 +2198,7 @@
         "ontos-is-a-method-agent",
         "mistaking-the-expression-for-the-intelligence",
         "data-is-local-intelligence-is-allocated",
+        "the-causal-inversion-of-philosophical-agency",
         "the-strongest-belief-of-the-mind",
         "the-presumption-of-agi-and-the-view-from-outside",
         "the-flight-analogy-leaves-the-mind-untouched",
@@ -3961,7 +3963,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
       "hash": "4194479370e2",
-      "in_degree": 36,
+      "in_degree": 37,
       "out_degree": 22,
       "links_out": [
         "order-surplus-and-the-moral-intercept",
@@ -4099,6 +4101,21 @@
       "links_out": [
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "the-flight-analogy-leaves-the-mind-untouched"
+      ]
+    },
+    {
+      "id": "post:the-causal-inversion-of-philosophical-agency",
+      "kind": "post",
+      "slug": "the-causal-inversion-of-philosophical-agency",
+      "path": "content/posts/the-causal-inversion-of-philosophical-agency.md",
+      "title": "The Causal Inversion of Philosophical Agency",
+      "hash": "bd9d585ead91",
+      "in_degree": 1,
+      "out_degree": 3,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "the-allocation-of-causal-power-in-validation",
+        "the-model-never-becomes-a-second-edge"
       ]
     },
     {
@@ -4882,7 +4899,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "bcad700ede14",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 31,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -10964,6 +10981,12 @@
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
+      "to": "the-causal-inversion-of-philosophical-agency",
+      "rel": "points_to",
+      "label": "The Causal Inversion of Philosophical Agency"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
       "label": "The strongest belief of the Mind"
@@ -16499,6 +16522,24 @@
       "to": "the-flight-analogy-leaves-the-mind-untouched",
       "rel": "points_to",
       "label": "The flight analogy leaves the Mind untouched"
+    },
+    {
+      "from": "the-causal-inversion-of-philosophical-agency",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-causal-inversion-of-philosophical-agency",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "the-causal-inversion-of-philosophical-agency",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
