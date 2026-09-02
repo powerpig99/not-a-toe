@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-02T14:52:13.685Z",
+    "generated_at": "2026-09-02T17:43:39.781Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -168,8 +168,9 @@
       "content/posts/the-allocation-of-causal-power-in-validation.md": "4194479370e2",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-average-is-residue-not-the-engine.md": "104f5bc3e9a2",
-      "content/posts/the-bank-shot-and-the-magic-trick.md": "aff198e186fa",
+      "content/posts/the-bank-shot-and-the-magic-trick.md": "64ff41889747",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
+      "content/posts/the-boundary-of-the-frame.md": "25b716c75635",
       "content/posts/the-brain-does-not-backprop.md": "d2f1958b9ac3",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -286,13 +287,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 276,
-      "edges": 2738,
-      "unique_directed": 2711,
+      "posts": 277,
+      "edges": 2748,
+      "unique_directed": 2721,
       "missing_targets": 0,
-      "one_way": 569,
+      "one_way": 577,
       "isolated": 35,
-      "posts_with_outbound": 223
+      "posts_with_outbound": 224
     }
   },
   "hubs_in": [
@@ -306,11 +307,11 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 58
+      "in_degree": 59
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 47
+      "in_degree": 48
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -318,7 +319,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 41
+      "in_degree": 42
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -338,7 +339,7 @@
     },
     {
       "slug": "causality-all-the-way",
-      "in_degree": 27
+      "in_degree": 28
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -784,7 +785,7 @@
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
       "hash": "87c4e018e0d5",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -2192,7 +2193,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "b60b674b5303",
-      "in_degree": 58,
+      "in_degree": 59,
       "out_degree": 22,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -2633,7 +2634,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
       "hash": "a5c5f59964ed",
-      "in_degree": 47,
+      "in_degree": 48,
       "out_degree": 36,
       "links_out": [
         "openness-is-consistency",
@@ -4065,9 +4066,9 @@
       "slug": "the-bank-shot-and-the-magic-trick",
       "path": "content/posts/the-bank-shot-and-the-magic-trick.md",
       "title": "The Bank Shot and the Magic Trick",
-      "hash": "aff198e186fa",
-      "in_degree": 5,
-      "out_degree": 8,
+      "hash": "64ff41889747",
+      "in_degree": 6,
+      "out_degree": 9,
       "links_out": [
         "the-look-of-constraint-is-not-the-loss-of-freedom",
         "zi-you-de-ce-bu-zhun",
@@ -4076,6 +4077,7 @@
         "the-generative-atlas-of-macroscopic-phenomena",
         "individual-choices-as-the-only-causal-levers",
         "the-mirage-of-the-infinite-totality",
+        "the-boundary-of-the-frame",
         "mei-you-pu-du-zhi-you-zi-du"
       ]
     },
@@ -4112,6 +4114,27 @@
         "ownership-and-self-worthiness",
         "the-source-of-all-harm",
         "the-utility-men-of-progress"
+      ]
+    },
+    {
+      "id": "post:the-boundary-of-the-frame",
+      "kind": "post",
+      "slug": "the-boundary-of-the-frame",
+      "path": "content/posts/the-boundary-of-the-frame.md",
+      "title": "The Boundary of the Frame",
+      "hash": "25b716c75635",
+      "in_degree": 1,
+      "out_degree": 9,
+      "links_out": [
+        "what-information-is",
+        "the-three-shadows-of-the-cut",
+        "the-scaffolding-we-forget",
+        "the-mirage-of-the-infinite-totality",
+        "the-reversal-from-defensible-claim-to-dogma",
+        "no-system-can-be-kept-closed",
+        "causality-all-the-way",
+        "intelligence-belongs-only-to-the-mind",
+        "the-bank-shot-and-the-magic-trick"
       ]
     },
     {
@@ -4901,7 +4924,7 @@
       "path": "content/posts/the-mirage-of-the-infinite-totality.md",
       "title": "The Mirage of the Infinite Totality",
       "hash": "3b491a49b106",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 0,
       "links_out": []
     },
@@ -5398,7 +5421,7 @@
       "path": "content/posts/the-reversal-from-defensible-claim-to-dogma.md",
       "title": "The Reversal from Defensible Claim to Dogma",
       "hash": "d40851e92070",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 16,
       "links_out": [
         "expertise-as-reference-not-replacement",
@@ -5528,7 +5551,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "126ed0700868",
-      "in_degree": 41,
+      "in_degree": 42,
       "out_degree": 31,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5728,7 +5751,7 @@
       "path": "content/posts/the-three-shadows-of-the-cut.md",
       "title": "The Three Shadows of the Cut: On Forrest Landry’s Immanent Metaphysics",
       "hash": "1ebeb38ad32d",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 2,
       "links_out": [
         "the-other-coherence",
@@ -6026,7 +6049,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -16474,6 +16497,12 @@
     },
     {
       "from": "the-bank-shot-and-the-magic-trick",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普度，只有自度"
@@ -16615,6 +16644,60 @@
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
       "label": "The utility men of progress"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-three-shadows-of-the-cut",
+      "rel": "points_to",
+      "label": "The Three Shadows of the Cut"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "The Mirage of the Infinite Totality"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "The Bank Shot and the Magic Trick"
     },
     {
       "from": "the-brain-does-not-backprop",
