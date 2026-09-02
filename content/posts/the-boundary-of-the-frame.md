@@ -20,7 +20,7 @@ A formal theory, then, is an engineered coordinate system. Its axioms, definitio
 
 For any system of thought to assert a specific proposition, it must first execute a boundary operation: **a primary cut**.
 
-Information requires contrast; contrast requires distinction, as formulated in [What Information Is](../what-information-is/). To speak of an *object*, a boundary must distinguish it from an *environment*. To speak of a *cause*, an interaction must be bounded in *time*. To formulate any taxonomy—whether dualistic, triadic, or multidimensional—the continuous causal continuum must be partitioned into identifiable states, casting the structural shadows analyzed in [The Three Shadows of the Cut](../the-three-shadows-of-the-cut/).
+Information requires contrast; contrast requires distinction, as formulated in [What Information Is](../what-information-is/). To speak of an *object*, a boundary must distinguish it from an *environment*. To speak of a *cause*, an interaction must be bounded in *time*—a theoretical dimension that is itself an engineered mental projection rather than actual time, as demonstrated in [Time Is Causality, Not a Dimension](../time-is-causality-not-a-dimension/). To formulate any taxonomy—whether dualistic, triadic, or multidimensional—the continuous causal continuum must be partitioned into identifiable states, casting the structural shadows analyzed in [The Three Shadows of the Cut](../the-three-shadows-of-the-cut/).
 
 This leads to a fundamental principle of systematic modeling:
 
