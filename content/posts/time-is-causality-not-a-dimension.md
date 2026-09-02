@@ -1,16 +1,16 @@
 # Time Is the Irreversible Direction and Discrete Step of Causality
 
-*Time is not causality itself, nor is it an independent spatialized dimension; time is the irreversible direction and discrete step of causal state transitions, mentally projected at this very moment to make sense of the past and forecast the future.*
+*Time is the irreversible direction and discrete step of causal state transitions, mentally projected at this very moment to make sense of the past and forecast the future.*
 
 Physics and philosophy have long treated time as a fourth dimension—a physical coordinate axis along which entities travel, identical in mathematical form to length, width, and depth. We speak colloquially of "looking back" at the past, "moving forward" into the future, and measuring durations as if we were laying a measuring tape along a physical corridor.
 
 In modern theoretical physics, this spatialization reached its zenith in the Minkowski spacetime manifold and the "block universe" of General Relativity: the concept that the past, the present, and the future all coexist simultaneously like static landmarks across an unchanging four-dimensional landscape.
 
-This formulation represents one of the most pervasive confusions in the history of thought:
+This formulation mistakes an engineered coordinate tool for the living physical territory:
 
-> *The theoretical dimension of time is not actual time.*
+> *The theoretical dimension of time is an internal mental projection; actual time is the causal progression of reality.*
 
-Actual time is not a spatialized axis waiting to be traversed. Nor is time merely an interchangeable synonym for causality. **Time is the irreversible direction and discrete step of causality.** The "time dimension" (*t*) is an engineered cognitive coordinate system—an internal mental projection constructed entirely within the living observer at this instantaneous aperture to make sense of accumulated history and forecast what comes next.
+**Time is the irreversible direction and discrete step of causal state transitions.** What mathematical physics models as a "time dimension" (*t*) is an engineered cognitive coordinate system—an internal mental projection constructed entirely within the living observer at this very moment to make sense of the past and forecast the future.
 
 ## The Inescapable Now: We Do Not Perceive a Dimension
 
