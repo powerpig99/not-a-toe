@@ -39,9 +39,9 @@ That is what gives the arrow of time and the minimum step size. That is it. That
 
 Because the causal step cannot be zero, there must exist an irreducible minimal boundary of realization. This minimal step is what defines the fundamental universal constants:
 
-* **The Planck Time (*t_P*)**: The minimal, irreducible duration required for a cause to resolve across a boundary into an effect. Below this scale, the concept of a time interval ceases to possess physical meaning, because no intermediate causal step can exist;
-* **The Planck Length (*ℓ_P*)**: The corresponding minimal spatial boundary across which that discrete distinction can be established;
-* **The Speed of Light (*c*)**: Far from being merely a cosmic speed limit for photons in a vacuum, *c* is the **universal speed of causality itself** (*c = ℓ_P / t_P*). It defines the maximum rate at which one discrete causal step can propagate its constraints across space to condition the next step.
+* **The Planck Time** (*t_P*): The minimal, irreducible duration required for a cause to resolve across a boundary into an effect. Below this scale, the concept of a time interval ceases to possess physical meaning, because no intermediate causal step can exist;
+* **The Planck Length** (*ℓ_P*): The corresponding minimal spatial boundary across which that discrete distinction can be established;
+* **The Speed of Light** (*c*): Far from being merely a cosmic speed limit for photons in a vacuum, *c* is the **universal speed of causality itself** (*c = ℓ_P / t_P*). It defines the maximum rate at which one discrete causal step can propagate its constraints across space to condition the next step.
 
 Crucially, these universal constants are **not pre-existing metaphysical facts** engraved into an external cosmic container. They are the **mathematical description of the very limit of our perception**.
 
