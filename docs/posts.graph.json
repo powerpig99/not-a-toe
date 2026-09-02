@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-02T20:23:11.361Z",
+    "generated_at": "2026-09-02T20:26:27.060Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -257,7 +257,7 @@
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
-      "content/posts/time-is-causality-not-a-dimension.md": "942159f154c9",
+      "content/posts/time-is-causality-not-a-dimension.md": "0dc0fbdd1a36",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "756eeec4aeef",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "6e8311fe3321",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "4a8d0a1b5a8c",
@@ -290,10 +290,10 @@
     },
     "stats": {
       "posts": 279,
-      "edges": 2762,
-      "unique_directed": 2734,
+      "edges": 2760,
+      "unique_directed": 2733,
       "missing_targets": 0,
-      "one_way": 586,
+      "one_way": 585,
       "isolated": 35,
       "posts_with_outbound": 226
     }
@@ -5886,16 +5886,15 @@
       "slug": "time-is-causality-not-a-dimension",
       "path": "content/posts/time-is-causality-not-a-dimension.md",
       "title": "Time Is the Irreversible Direction and Discrete Step of Causality",
-      "hash": "942159f154c9",
+      "hash": "0dc0fbdd1a36",
       "in_degree": 2,
-      "out_degree": 7,
+      "out_degree": 6,
       "links_out": [
         "dimensions-are-projections",
-        "what-information-is",
-        "the-boundary-of-the-frame",
         "the-geometry-of-emergence",
         "individual-choices-as-the-only-causal-levers",
         "the-bank-shot-and-the-magic-trick",
+        "the-boundary-of-the-frame",
         "causality-all-the-way"
       ]
     },
@@ -6088,7 +6087,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 15,
+      "in_degree": 14,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -21351,18 +21350,6 @@
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "Dimensions Are Projections"
-    },
-    {
-      "from": "time-is-causality-not-a-dimension",
-      "to": "what-information-is",
-      "rel": "points_to",
-      "label": "What Information Is"
-    },
-    {
-      "from": "time-is-causality-not-a-dimension",
-      "to": "the-boundary-of-the-frame",
-      "rel": "points_to",
-      "label": "The Boundary of the Frame"
     },
     {
       "from": "time-is-causality-not-a-dimension",
