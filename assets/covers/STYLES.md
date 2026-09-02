@@ -438,6 +438,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `war-revolution-and-the-fall-of-empires` | Piranesi-inspired dark copperplate etching with sepia ink wash on aged laid cotton paper with monumental fractured Roman triumphal arch and colonnade overgrown with ivy, shattered friezes on fractured stone road, and solitary traveler walking into expansive sunrise horizon |
 | `the-causal-inversion-of-philosophical-agency` | Surrealist philosophical oil painting in the style of René Magritte with ornate gilded easel frame showing brass automaton holding quill over diagrams in walnut library, while solitary human thinker stands at open arched window looking out at misty sunrise mountains |
 | `the-mirage-of-the-infinite-totality` | Renaissance celestial planisphere and copperplate engraving on deep indigo fibrous laid paper with monumental brass-and-silver coin standing on edge, one face showing engraved finite map of coordinates, the other dissolving into radiant concentric spirals expanding into open starry field |
+| `the-bank-shot-and-the-magic-trick` | Dramatic chiaroscuro oil painting in the style of Caravaggio with antique billiard table under single overhead lamp, ivory ball rebounding sharply off dark wooden rail with chalk vector, and glowing phantom ghost ball floating beyond the cushion as an imagined mirror target |
 
 ## Crowded — prefer not to extend
 
