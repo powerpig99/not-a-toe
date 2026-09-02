@@ -6,25 +6,27 @@ Physics and philosophy have long treated time as a fourth dimension—a physical
 
 In modern theoretical physics, this spatialization reached its zenith in the Minkowski spacetime manifold and the "block universe" of General Relativity: the concept that the past, the present, and the future all coexist simultaneously like static landmarks across an unchanging four-dimensional landscape.
 
-This formulation mistakes an engineered coordinate tool for the living physical territory:
+We do not need to deny that time can be modeled as a dimension. The crucial distinction is that **actual time is not the fourth dimension of our mental or theoretical models**.
 
-> *The theoretical dimension of time is an internal mental projection; actual time is the causal progression of reality.*
+Our mental and theoretical models treat time as a fourth dimension as an engineered way to make sense of the past and present—by projecting accumulated traces backward into a mental "past," and projecting forward into a simulated "future" to predict outcomes with our models.
 
-**Time is the irreversible direction and discrete step of causal state transitions.** What mathematical physics models as a "time dimension" (*t*) is an engineered cognitive coordinate system—an internal mental projection constructed entirely within the living observer at this very moment to make sense of the past and forecast the future.
+> *The fourth dimension of time is an engineered coordinate tool in our models; actual time is the irreversible causal progression of reality.*
 
-## The Inescapable Now: We Do Not Perceive a Dimension
+**Time is the irreversible direction and discrete step of causal state transitions.** Treating time as a fourth dimension in mathematical physics or cognitive representation is a valuable heuristic to map antecedents and simulate consequences. The category error occurs only when the fourth dimension *in the model* is reified into *actual time in physical reality*.
 
-At no point in human experience does consciousness perceive time as a dimension.
+## The Inescapable Now: Perception Anchored in the Present
+
+At no point in human experience does consciousness perceive time as a physical spatial corridor.
 
 In spatial dimensions, an observer can look to the left and to the right, take three steps forward, and then take three steps backward to return to the starting coordinate. The terrain remains present across the entire span of the traverse. 
 
-Time presents no such symmetry. An observer never looks sideways to view an event that occurred five minutes ago, nor peers ahead to observe tomorrow morning. Perception is anchored strictly, indivisibly, and perpetually at **this very moment**.
+Actual time presents no such geometric symmetry. An observer never looks sideways to view an event that occurred five minutes ago, nor peers ahead to observe tomorrow morning. Perception is anchored strictly, indivisibly, and perpetually at **this very moment**.
 
-We never leave the present. Every thought, every measurement, every calculation of an orbit, and every memory of childhood occurs exclusively within the instantaneous flash of the now. To claim that we "perceive" a time dimension is a linguistic and conceptual conflation. What we actually perceive is the current state of reality; what we call the "dimension of time" is an abstraction compiled after the fact.
+We never leave the present. Every thought, every measurement, every calculation of an orbit, and every memory of childhood occurs exclusively within the instantaneous flash of the now. Treating time as a fourth dimension in our mental and theoretical models allows us to map the past and predict the future, but what consciousness actually perceives is the current state of reality as it transitions from one discrete step to the next.
 
-## Time: The Irreversible Direction and Discrete Step of Causality
+## The Ground of Actual Time: Direction and Step
 
-If time is not a dimension, and not simply identical to the total causal web itself, what is its precise nature?
+What, then, is the precise nature of actual time in the physical territory, as distinguished from the dimensional coordinate in our models?
 
 Causality is the unbroken fabric of physical interactions, transformations, and relationships that constitutes reality. Time is the **intrinsic directional cadence** of those interactions:
 
@@ -122,9 +124,9 @@ The "time dimension" (*t*) is therefore an engineered coordinate system construc
 
 ## The Grand Reification: Mistaking the Projection for the Territory
 
-The catastrophic confusion occurs when the operational coordinate grid is mistaken for the physical territory—the exact failure analyzed in [The Boundary of the Frame](../the-boundary-of-the-frame/).
+Our mental and theoretical models treating time as the fourth dimension is an indispensable way to make sense of the past and present by projecting backward, and to predict what happens next by projecting forward. The model serves as an effective operational tool.
 
-Because mathematical physics can represent time as an algebraic variable (*t*) alongside spatial coordinates (*x*, *y*, *z*), theorists succumbed to a fatal category error: they assumed that because time can be *plotted* like space, time *is* space.
+The catastrophic confusion occurs when the operational coordinate grid is mistaken for the physical territory—the exact failure analyzed in [The Boundary of the Frame](../the-boundary-of-the-frame/). Because mathematical physics can represent time as an algebraic coordinate (*t*) alongside spatial coordinates (*x*, *y*, *z*), theorists succumbed to a fatal category error: they assumed that because time can be *plotted* like space in a mental or theoretical model, actual time in physical reality *is* space.
 
 This reification produces a cascade of metaphysical absurdities:
 
