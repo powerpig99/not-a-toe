@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-02T06:14:38.222Z",
+    "generated_at": "2026-09-02T06:21:41.182Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -151,7 +151,7 @@
       "content/posts/selection-contradiction-and-open-reality.md": "805903f17e4e",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "64edd66664f9",
       "content/posts/self-rl-for-humans.md": "5d3466611e3a",
-      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "959cc93e80f1",
+      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "044eb2e3d81d",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "32af5139e074",
       "content/posts/shared-humanity-is-never-shared.md": "f4eb8c469df7",
@@ -257,7 +257,7 @@
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "4a8d0a1b5a8c",
       "content/posts/two-failures-of-trace.md": "af3222321df1",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "44869ec76009",
-      "content/posts/war-revolution-and-the-fall-of-empires.md": "39758458694c",
+      "content/posts/war-revolution-and-the-fall-of-empires.md": "91addf4a12b9",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
       "content/posts/what-information-is.md": "5cf8efae167b",
@@ -3621,7 +3621,7 @@
       "slug": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "path": "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md",
       "title": "Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success",
-      "hash": "959cc93e80f1",
+      "hash": "044eb2e3d81d",
       "in_degree": 2,
       "out_degree": 4,
       "links_out": [
@@ -5911,8 +5911,8 @@
       "kind": "post",
       "slug": "war-revolution-and-the-fall-of-empires",
       "path": "content/posts/war-revolution-and-the-fall-of-empires.md",
-      "title": "War, Revolution, and the Mirage of Historical Lessons",
-      "hash": "39758458694c",
+      "title": "War, Revolution, and the Fall of Empires",
+      "hash": "91addf4a12b9",
       "in_degree": 1,
       "out_degree": 2,
       "links_out": [
@@ -15172,7 +15172,7 @@
       "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "to": "war-revolution-and-the-fall-of-empires",
       "rel": "points_to",
-      "label": "War, Revolution, and the Mirage of Historical Lessons"
+      "label": "War, Revolution, and the Fall of Empires"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
