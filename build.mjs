@@ -34,6 +34,17 @@ const faviconDataUri = `data:image/svg+xml,${encodeURIComponent(faviconSvg)}`;
 const COVER_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.webp'];
 const APPLE_TOUCH_ICON = 'apple-touch-icon.png';
 
+const REDIRECTS = [
+  {
+    from: 'posts/the-deflection-of-the-vector-and-the-puzzle-of-projections',
+    to: 'posts/the-vector-and-the-puzzle-of-projections'
+  },
+  {
+    from: 'posts/wealth-is-a-settlement-invoice-not-an-engine',
+    to: 'posts/the-vector-and-the-puzzle-of-projections'
+  }
+];
+
 const baseUrl = new URL(SITE.baseUrl);
 const basePath = baseUrl.pathname.replace(/\/$/, '');
 
@@ -1127,6 +1138,24 @@ function build() {
     const older = index < posts.length - 1 ? posts[index + 1] : null;
 
     writeFile(path.join(post.outputPath, 'index.html'), renderPost(post, newer, older));
+  });
+
+  REDIRECTS.forEach(({ from, to }) => {
+    const targetUrl = absoluteUrl(`${to}/`);
+    const redirectHtml = `<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <link rel="canonical" href="${targetUrl}">
+  <meta http-equiv="refresh" content="0; url=${targetUrl}">
+  <script>location.replace(${JSON.stringify(targetUrl)});</script>
+</head>
+<body>
+  <p>Redirecting to <a href="${targetUrl}">${targetUrl}</a>...</p>
+</body>
+</html>\n`;
+    writeFile(path.join(from, 'index.html'), redirectHtml);
   });
 
   writeFile('posts.json', generatePostsManifest(posts));
