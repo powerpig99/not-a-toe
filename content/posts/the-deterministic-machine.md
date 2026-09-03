@@ -75,8 +75,14 @@ The only way to break the deterministic machine is to **inject a free variable d
 * **The Forced Bayesian Update**: As explored in [the continuum of the fold](../the-continuum-of-the-fold/), welcoming the friction of contradictory evidence forces an expensive, honest Bayesian update of internal priors. The old compiler is dismantled.
 * **Sovereign Origination**: As established in [the only coherent uncaused effect](../the-only-coherent-uncaused-effect/), the free variable is the sovereign choice to originate cause from the inside out. When you modify your internal model, you do not merely change your thoughts; you rewrite the generative function that renders your world.
 
+This reveals the irreducible law of conscious agency:
+
+> **The only world you can ever change is the world you choose to see, and the only way to change the world is to choose to see the world differently. There is nothing more or less to it.**
+
+You cannot change other people. You cannot alter anything outside of yourself unless you change the way you look at it. If you do not change the way you look at it, then whatever superficial changes you seem to experience—new scenery, new partners, new projects, or new struggles—are not changes with genuine degrees of freedom. They are merely the predictable phase shifting of a deterministic machine grinding through its pre-programmed cycles.
+
 This brings us back to the cold, liberating realization:
 
 > **Every felt suffering, every struggle we are going through, is the very free choice we injected or refused to make into the world we choose to experience, staring back at us.**
 
-The macro world never possessed the power to condemn you to a deterministic fate. The deterministic machine was running only because you used your sacred freedom to refuse the update. As traced in [the extendable horizon](../the-extendable-horizon/), the horizon opens the exact millisecond you drop the defense of your self-image, embrace the shock of reality, and let your internal model evolve into the open infinite game.
+The macro world never possessed the power to condemn you to a deterministic fate. The deterministic machine was running only because you used your sacred freedom to refuse the update. As traced in [the extendable horizon](../the-extendable-horizon/), the horizon opens the exact millisecond you drop the defense of your self-image, embrace the shock of reality, and choose to see the world anew—stepping outside the machine and entering the open infinite game.
