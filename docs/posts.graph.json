@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-03T18:57:14.052Z",
+    "generated_at": "2026-09-03T19:55:51.452Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -183,8 +183,9 @@
       "content/posts/the-coordinators-category-error.md": "d8a060340030",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
+      "content/posts/the-deterministic-machine.md": "d7cf25cc6438",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
-      "content/posts/the-extendable-horizon.md": "f406e3cbc0e5",
+      "content/posts/the-extendable-horizon.md": "fb6bf4861bd3",
       "content/posts/the-fallacy-of-post-success-parenting.md": "ce24a26b4a1b",
       "content/posts/the-fixed-image-of-transcendence.md": "7c3ba6ced47b",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3cd05b0818a",
@@ -226,7 +227,7 @@
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "134a07cc1be4",
       "content/posts/the-observational-cut-in-ai-debates.md": "170100d442c0",
-      "content/posts/the-only-coherent-uncaused-effect.md": "6b29cf875c6d",
+      "content/posts/the-only-coherent-uncaused-effect.md": "34aac56e0ab2",
       "content/posts/the-other-coherence.md": "d5db1aee1664",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "5f263a356b4c",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
@@ -295,13 +296,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 285,
-      "edges": 2830,
-      "unique_directed": 2799,
+      "posts": 286,
+      "edges": 2836,
+      "unique_directed": 2805,
       "missing_targets": 0,
-      "one_way": 621,
+      "one_way": 623,
       "isolated": 35,
-      "posts_with_outbound": 232
+      "posts_with_outbound": 233
     }
   },
   "hubs_in": [
@@ -4297,7 +4298,7 @@
       "path": "content/posts/the-continuum-of-the-fold.md",
       "title": "The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication",
       "hash": "f3e7a33f502d",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "the-geometry-of-mind",
@@ -4358,6 +4359,22 @@
       "links_out": []
     },
     {
+      "id": "post:the-deterministic-machine",
+      "kind": "post",
+      "slug": "the-deterministic-machine",
+      "path": "content/posts/the-deterministic-machine.md",
+      "title": "The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power",
+      "hash": "d7cf25cc6438",
+      "in_degree": 2,
+      "out_degree": 4,
+      "links_out": [
+        "the-geometry-of-mind",
+        "the-continuum-of-the-fold",
+        "the-only-coherent-uncaused-effect",
+        "the-extendable-horizon"
+      ]
+    },
+    {
       "id": "post:the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "kind": "post",
       "slug": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -4386,11 +4403,12 @@
       "slug": "the-extendable-horizon",
       "path": "content/posts/the-extendable-horizon.md",
       "title": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables",
-      "hash": "f406e3cbc0e5",
-      "in_degree": 3,
-      "out_degree": 8,
+      "hash": "fb6bf4861bd3",
+      "in_degree": 4,
+      "out_degree": 9,
       "links_out": [
         "the-arithmetic-of-the-register",
+        "the-deterministic-machine",
         "the-geometry-of-mind",
         "the-only-coherent-uncaused-effect",
         "the-scaffolding-we-forget",
@@ -4625,7 +4643,7 @@
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon",
       "hash": "d99b5da7fcc0",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 13,
       "links_out": [
         "the-boundary-of-the-frame",
@@ -5209,11 +5227,12 @@
       "slug": "the-only-coherent-uncaused-effect",
       "path": "content/posts/the-only-coherent-uncaused-effect.md",
       "title": "The Only Coherent Uncaused Effect",
-      "hash": "6b29cf875c6d",
-      "in_degree": 6,
-      "out_degree": 7,
+      "hash": "34aac56e0ab2",
+      "in_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-generative-mechanics-of-value-money-and-wealth",
+        "the-deterministic-machine",
         "the-geometry-of-mind",
         "the-vector-and-the-puzzle-of-projections",
         "the-generative-topology-of-free-variables",
@@ -17320,6 +17339,30 @@
       "label": "Agency relocated into the formal model"
     },
     {
+      "from": "the-deterministic-machine",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "the geometry of mind"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "the continuum of the fold"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "the only coherent uncaused effect"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "the extendable horizon"
+    },
+    {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
@@ -17396,6 +17439,12 @@
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
       "label": "ontological inflation"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "the-deterministic-machine",
+      "rel": "points_to",
+      "label": "the deterministic machine"
     },
     {
       "from": "the-extendable-horizon",
@@ -19364,6 +19413,12 @@
       "to": "the-generative-mechanics-of-value-money-and-wealth",
       "rel": "points_to",
       "label": "the generative mechanics of value, money, and wealth"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-deterministic-machine",
+      "rel": "points_to",
+      "label": "the deterministic machine"
     },
     {
       "from": "the-only-coherent-uncaused-effect",

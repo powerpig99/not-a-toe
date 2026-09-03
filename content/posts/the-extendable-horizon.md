@@ -35,7 +35,7 @@ What actually creates the "zero-sum pit"? It is never the coordinate an individu
 
 Every single moment an individual assumes that reality is fixed, finished, or rigged, they voluntarily surrender their own degrees of freedom:
 
-* **The Reactive Machine**: When an agent assumes that the rules, allocations, and boundaries of their local coordinate are absolute, they stop generating causes. They reduce their consciousness to a deterministic state machine: reacting to incoming stimuli, guarding their fragile self-image, and calculating petty defensive maneuvers against peers.
+* **The Reactive Machine**: When an agent assumes that the rules, allocations, and boundaries of their local coordinate are absolute, they stop generating causes. As unmasked in [the deterministic machine](../the-deterministic-machine/), they reduce their consciousness to a closed state machine: reacting to incoming stimuli, guarding their fragile self-image, and mistaking their model's deterministic phase shifts for an external fate.
 * **Checking Out of the Fold**: As established in [the geometry of mind](../the-geometry-of-mind/), defending a rigid coordinate is an attempt to check out of reality's accelerating feedback loop. It trades living agency for the frozen safety of an avatar.
 * **The Ever-Present Free Variable**: The alternative is never revoked. As demonstrated in [the only coherent uncaused effect](../the-only-coherent-uncaused-effect/), the capacity to inject a free variable does not require an institutional license, vast capital, or an outermost address. At any moment, right at the first-person knife-edge of decision, consciousness can declare: *"The precedent of this machine does not dictate my next action."*
 
