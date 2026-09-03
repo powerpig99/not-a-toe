@@ -218,7 +218,7 @@ As articulated in [The Fallacy of Post-Success Parenting](../the-fallacy-of-post
 
 ## The Sovereign Return: Bearing the Full Weight of Consequence
 
-True wealth is not gold in a vault, numbers on a bank screen, or deeds to physical property. All of these are inert historical artifacts—[lagging settlement invoices of past exchanges rather than generative engines](../wealth-is-a-settlement-invoice-not-an-engine/).
+True wealth is not gold in a vault, numbers on a bank screen, or deeds to physical property. All of these are inert historical artifacts—[lagging settlement invoices of past exchanges rather than generative engines](../the-deflection-of-the-vector-and-the-puzzle-of-projections/).
 
 True wealth is the **living, real-time, sovereign capability of the individual to observe reality, make distinctions, and execute actions that generate value for consciousness**.
 
