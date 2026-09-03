@@ -444,6 +444,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `time-is-causality-not-a-dimension` | Classical copperplate etching on aged tea-toned paper with a rigid mechanical brass ruler and linear timeline grid tearing and peeling open like brittle parchment, revealing a living stream of glowing amber embers and flowing river water moving into a golden sunrise canyon |
 | `dimensions-are-projections` | Constructivist cyanotype and Prussian blue architectural axonometric projection on deep indigo paper with crisp white technical drafting linework and warm copper geometric arcs, unfolding multi-dimensional hypercube casting downward projection rays onto intermediate drafting plane and 2D orthogonal grid |
 | `the-vector-and-the-puzzle-of-projections` | 19th-century architectural copperplate intaglio engraving and banknote guilloché print on aged ivory wove paper with monumental mechanical brass clockwork escapement gears cutting into raw stone, radiating geometric field lines bending space, and an unspooling mechanical paper ticker tape printout emerging at the perimeter |
+| `the-only-coherent-uncaused-effect` | High-contrast Japanese woodblock relief print (mokuhanga) with blind-stamped texture on fibrous off-white washi paper with labyrinthine charcoal and Prussian blue clockwork gears pierced by an incandescent golden wedge injecting radiant amber light into an open minimalist sunrise horizon |
 
 ## Crowded — prefer not to extend
 

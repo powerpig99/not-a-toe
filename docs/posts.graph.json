@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-03T05:16:26.699Z",
+    "generated_at": "2026-09-03T05:40:11.179Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -88,7 +88,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "c6a1de45c459",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "b19244d2a5ae",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "b60b674b5303",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -191,7 +191,7 @@
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "0333e5e45908",
       "content/posts/the-generative-contradiction.md": "2cef8f7c85e8",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "3c600d32c6d1",
-      "content/posts/the-generative-topology-of-free-variables.md": "10c9f17ef6d8",
+      "content/posts/the-generative-topology-of-free-variables.md": "23f787d49fed",
       "content/posts/the-geometry-of-emergence.md": "bead421f1444",
       "content/posts/the-geometry-of-success.md": "9b4a467d58a1",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
@@ -222,6 +222,7 @@
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "134a07cc1be4",
       "content/posts/the-observational-cut-in-ai-debates.md": "170100d442c0",
+      "content/posts/the-only-coherent-uncaused-effect.md": "10e6a99c4234",
       "content/posts/the-other-coherence.md": "d5db1aee1664",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "5f263a356b4c",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
@@ -252,7 +253,7 @@
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-unobservable-driver-of-learning.md": "1c942a52811f",
       "content/posts/the-utility-men-of-progress.md": "35523a162e42",
-      "content/posts/the-vector-and-the-puzzle-of-projections.md": "41ca0ecb8be6",
+      "content/posts/the-vector-and-the-puzzle-of-projections.md": "45b94912610b",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "f10e58175efc",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
@@ -290,19 +291,19 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 280,
-      "edges": 2778,
-      "unique_directed": 2751,
+      "posts": 281,
+      "edges": 2788,
+      "unique_directed": 2760,
       "missing_targets": 0,
-      "one_way": 599,
+      "one_way": 602,
       "isolated": 35,
-      "posts_with_outbound": 227
+      "posts_with_outbound": 228
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 74
+      "in_degree": 75
     },
     {
       "slug": "openness-is-consistency",
@@ -318,7 +319,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 45
+      "in_degree": 46
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -384,7 +385,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 53
+      "out_degree": 54
     },
     {
       "slug": "openness-is-consistency",
@@ -2151,9 +2152,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "c6a1de45c459",
-      "in_degree": 74,
-      "out_degree": 53,
+      "hash": "b19244d2a5ae",
+      "in_degree": 75,
+      "out_degree": 54,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -2181,6 +2182,7 @@
         "the-coordinators-category-error",
         "the-misallocation-of-agency",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "the-only-coherent-uncaused-effect",
         "empowerment-establishes-the-centralization-of-power",
         "agency-relocated-into-the-formal-model",
         "externalized-virtue-becomes-its-opposite",
@@ -3014,7 +3016,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "90d5381f0600",
-      "in_degree": 45,
+      "in_degree": 46,
       "out_degree": 30,
       "links_out": [
         "failure-as-information",
@@ -4148,7 +4150,7 @@
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "The Boundary of the Frame",
       "hash": "3e69ea5f602e",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 10,
       "links_out": [
         "what-information-is",
@@ -4510,7 +4512,7 @@
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims",
       "hash": "3c600d32c6d1",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 6,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -4527,10 +4529,11 @@
       "slug": "the-generative-topology-of-free-variables",
       "path": "content/posts/the-generative-topology-of-free-variables.md",
       "title": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence",
-      "hash": "10c9f17ef6d8",
-      "in_degree": 4,
-      "out_degree": 4,
+      "hash": "23f787d49fed",
+      "in_degree": 5,
+      "out_degree": 5,
       "links_out": [
+        "the-only-coherent-uncaused-effect",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "ownership-and-self-worthiness",
         "residual-individualism",
@@ -5109,6 +5112,24 @@
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
         "the-risk-is-the-belief-in-oversight-itself",
         "agi-and-asi-are-temporary-goalposts"
+      ]
+    },
+    {
+      "id": "post:the-only-coherent-uncaused-effect",
+      "kind": "post",
+      "slug": "the-only-coherent-uncaused-effect",
+      "path": "content/posts/the-only-coherent-uncaused-effect.md",
+      "title": "The Only Coherent Uncaused Effect",
+      "hash": "10e6a99c4234",
+      "in_degree": 3,
+      "out_degree": 6,
+      "links_out": [
+        "the-generative-mechanics-of-value-money-and-wealth",
+        "the-vector-and-the-puzzle-of-projections",
+        "the-generative-topology-of-free-variables",
+        "the-boundary-of-the-frame",
+        "individual-choices-as-the-only-causal-levers",
+        "ownership-and-self-worthiness"
       ]
     },
     {
@@ -5853,9 +5874,9 @@
       "slug": "the-vector-and-the-puzzle-of-projections",
       "path": "content/posts/the-vector-and-the-puzzle-of-projections.md",
       "title": "向量与投影的迷局",
-      "hash": "41ca0ecb8be6",
-      "in_degree": 2,
-      "out_degree": 12,
+      "hash": "45b94912610b",
+      "in_degree": 3,
+      "out_degree": 13,
       "links_out": [
         "dimensions-are-projections",
         "the-boundary-of-the-frame",
@@ -5867,6 +5888,7 @@
         "the-generative-mechanics-of-value-money-and-wealth",
         "time-is-causality-not-a-dimension",
         "the-bank-shot-and-the-magic-trick",
+        "the-only-coherent-uncaused-effect",
         "ownership-and-self-worthiness",
         "qian-yin-hou-guo"
       ]
@@ -10971,6 +10993,12 @@
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
       "label": "Exceptionality, perception, and the self-limiting field of problems"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "The only coherent uncaused effect"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -17640,6 +17668,12 @@
     },
     {
       "from": "the-generative-topology-of-free-variables",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "The only coherent uncaused effect"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
       "label": "Curiosity first, compounded capability downstream"
@@ -18993,6 +19027,48 @@
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "the generative mechanics of value, money, and wealth"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "mere angle rotations while core magnitude atrophies"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "the generative topology of free variables"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "the boundary of the frame"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices remain the only causal levers"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "a flickering shadow cast on a narrow public cross-section"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "ownership and self-worthiness"
     },
     {
       "from": "the-other-coherence",
@@ -21363,6 +21439,12 @@
       "to": "the-bank-shot-and-the-magic-trick",
       "rel": "points_to",
       "label": "加塞球与魔术戏法"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "唯一自洽的无因之果"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
