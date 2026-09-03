@@ -445,6 +445,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `dimensions-are-projections` | Constructivist cyanotype and Prussian blue architectural axonometric projection on deep indigo paper with crisp white technical drafting linework and warm copper geometric arcs, unfolding multi-dimensional hypercube casting downward projection rays onto intermediate drafting plane and 2D orthogonal grid |
 | `the-vector-and-the-puzzle-of-projections` | 19th-century architectural copperplate intaglio engraving and banknote guilloché print on aged ivory wove paper with monumental mechanical brass clockwork escapement gears cutting into raw stone, radiating geometric field lines bending space, and an unspooling mechanical paper ticker tape printout emerging at the perimeter |
 | `the-only-coherent-uncaused-effect` | High-contrast Japanese woodblock relief print (mokuhanga) with blind-stamped texture on fibrous off-white washi paper with labyrinthine charcoal and Prussian blue clockwork gears pierced by an incandescent golden wedge injecting radiant amber light into an open minimalist sunrise horizon |
+| `the-geometry-of-mind` | Himalayan mineral pigment and burnished 24k gold leaf geometric mandala painting on textured silk vellum with concentric nested harmonic rings, recursive self-referential vector axes in lapis lazuli, malachite green, cinnabar vermilion, a floating diamond needle origin at (0, 0, 0), and a razor-thin horizontal golden horizon beam dissolving into open dawn vellum |
 
 ## Crowded — prefer not to extend
 
