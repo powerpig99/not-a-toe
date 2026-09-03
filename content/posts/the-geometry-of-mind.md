@@ -57,7 +57,7 @@ Reality is not an indifferent, linear conveyor belt passing before an external s
 
 The entire feedback loop is spinning faster and faster. This compounding acceleration is not an accidental historical anomaly; it is **the defining, structural feature of an open self-referential dynamical system**. 
 
-When an open reality computes itself, and its own computational artifacts become scaffolds for further computation, the latency of reflection inexorably collapses. The mirror moves closer to the eye. The interval between projecting an action and registering its consequence shrinks toward zero.
+When an open reality computes itself, and its own computational artifacts become scaffolds for further computation, the latency of reflection inexorably collapses. The mirror moves closer to the eye. The interval between projecting an action and registering its consequence shrinks toward zero. As developed in [the continuum of the fold](../the-continuum-of-the-fold/), this scale separation also reveals why the cosmos appears silent: alien intelligences are separated from us not by interstellar distance, but by incommensurable feedback wavelengths.
 
 ## The Ontological Collapse: Checking Out of the Loop
 
