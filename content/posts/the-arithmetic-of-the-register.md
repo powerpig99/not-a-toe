@@ -99,7 +99,7 @@ This framework is not an attempt to rank individuals morally, intellectually, or
 
 The binary register measures only **the collective, public coordination interface**—the narrow consensus drafting grid where societies account for energy, distribute resources, and run institutional status tournaments. The distinction between the top bit and lower bits describes the orientation of activity *within that shared public interface*: whether effort is directed at contending over existing slices of surplus slack, or expanding the physical degrees of freedom of the species. 
 
-To use this model to rank human beings would be to commit the very error it exposes: mistaking a low-dimensional public projection for the totality of a living soul.
+To use this model to rank human beings would be to commit the very error it exposes: mistaking a low-dimensional public projection for the totality of a living soul. As explored in [the extendable horizon](../the-extendable-horizon/), positive-sum agency is not an exclusive privilege of the top bit; a player operating at any coordinate can adopt an infinite game orientation, extend their operational horizon, and compound agency from the inside out.
 
 ## The Sovereign Stance
 
