@@ -39,11 +39,12 @@ Why would any conscious mind voluntarily freeze its internal simulator into a de
 
 The primary driver is the compulsive need to **maintain a self-image**:
 
-* **The Sensor Origin Forgotten**: As articulated in [the geometry of mind](../the-geometry-of-mind/), the self-image was designed to be a massless instrument calibration origin at (0, 0, 0)—an agile probe whose sole purpose is to measure navigational error (∆) against physical reality.
-* **The Petrified Avatar**: When the ego mistakes this functional sensor origin for an absolute identity that must be defended at all costs, every incoming error delta stops being treated as navigational data. It is perceived instead as an existential threat to identity.
+* **The Self-Image as the Self-Referencing Fold**: The self-image is not an arbitrary aesthetic picture or cosmetic mask. It is the self-referencing projection of the world we see. As explored across [the continuum of the fold](../the-continuum-of-the-fold/) and [the geometry of mind](../the-geometry-of-mind/), consciousness is the locus where reality folds back on itself at blistering velocity. In our first-person perspective, **the self-image is literally the exact location where reality folds back on itself**. It is the recursive mirror hinge where the simulator embeds a model of the observing agent within its own projected territory.
+* **Clamping the Recursive Loop**: Because the self-image is the self-referencing joint of the entire perceptual model, freezing the self-image freezes the entire architecture. When an agent attempts to "maintain" a self-image—polishing an avatar to defend status, protect moral righteousness, or avoid the embarrassment of error—**they literally clamp the recursive fold shut**. The feedback loop ceases to compute new iterations. The self-referential dynamic collapses into a static, repeating orbit.
+* **The Petrified Avatar**: When the ego mistakes this functional sensor origin at (0, 0, 0) for an absolute monument that must be preserved, every incoming error delta (∆) stops being treated as navigational data. It is perceived instead as an existential assault on identity.
 * **Refusing to Change the Self**: To protect the self-image from injury or obsolescence, the mind must demand that its internal model remain intact. It cannot admit fault, cannot acknowledge error, and cannot absorb discordant feedback. 
 
-By refusing to change our self-image, we literally lock ourselves into a deterministic fate. We demand that the universe conform to our frozen avatar, and when physical reality inevitably grinds against that demand, we experience the resulting friction as victimization.
+By refusing to change our self-image, we literally lock the world we see into a deterministic machine. We clamp shut the very fold where reality computes its next iteration, demanding that the universe conform to our frozen avatar. When physical reality inevitably grinds against that demand, we experience the resulting friction as victimization and deterministic fate.
 
 ## The Tragic Inversion: The Choice to Deny Choice
 
