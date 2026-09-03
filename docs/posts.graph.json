@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-03T11:39:54.349Z",
+    "generated_at": "2026-09-03T11:46:14.102Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -178,6 +178,7 @@
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
+      "content/posts/the-continuum-of-the-fold.md": "10db44466673",
       "content/posts/the-coordinators-category-error.md": "d8a060340030",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
@@ -193,7 +194,7 @@
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "3c600d32c6d1",
       "content/posts/the-generative-topology-of-free-variables.md": "23f787d49fed",
       "content/posts/the-geometry-of-emergence.md": "bead421f1444",
-      "content/posts/the-geometry-of-mind.md": "d9fb8cc8cdb3",
+      "content/posts/the-geometry-of-mind.md": "09db6cbceb43",
       "content/posts/the-geometry-of-success.md": "9b4a467d58a1",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
@@ -254,7 +255,7 @@
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-unobservable-driver-of-learning.md": "1c942a52811f",
       "content/posts/the-utility-men-of-progress.md": "35523a162e42",
-      "content/posts/the-vector-and-the-puzzle-of-projections.md": "45b94912610b",
+      "content/posts/the-vector-and-the-puzzle-of-projections.md": "60eb7740bf58",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "f10e58175efc",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
@@ -292,13 +293,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 282,
-      "edges": 2802,
-      "unique_directed": 2774,
+      "posts": 283,
+      "edges": 2808,
+      "unique_directed": 2780,
       "missing_targets": 0,
-      "one_way": 610,
+      "one_way": 612,
       "isolated": 35,
-      "posts_with_outbound": 229
+      "posts_with_outbound": 230
     }
   },
   "hubs_in": [
@@ -1363,7 +1364,7 @@
       "path": "content/posts/dimensions-are-projections.md",
       "title": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence",
       "hash": "178227b1b83c",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "not-a-toe-rewrite",
@@ -4267,6 +4268,22 @@
       ]
     },
     {
+      "id": "post:the-continuum-of-the-fold",
+      "kind": "post",
+      "slug": "the-continuum-of-the-fold",
+      "path": "content/posts/the-continuum-of-the-fold.md",
+      "title": "The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication",
+      "hash": "10db44466673",
+      "in_degree": 2,
+      "out_degree": 4,
+      "links_out": [
+        "the-geometry-of-mind",
+        "the-vector-and-the-puzzle-of-projections",
+        "the-generative-topology-of-free-variables",
+        "dimensions-are-projections"
+      ]
+    },
+    {
       "id": "post:the-coordinators-category-error",
       "kind": "post",
       "slug": "the-coordinators-category-error",
@@ -4533,7 +4550,7 @@
       "path": "content/posts/the-generative-topology-of-free-variables.md",
       "title": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence",
       "hash": "23f787d49fed",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 5,
       "links_out": [
         "the-only-coherent-uncaused-effect",
@@ -4563,9 +4580,9 @@
       "slug": "the-geometry-of-mind",
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon",
-      "hash": "d9fb8cc8cdb3",
-      "in_degree": 3,
-      "out_degree": 11,
+      "hash": "09db6cbceb43",
+      "in_degree": 4,
+      "out_degree": 12,
       "links_out": [
         "the-boundary-of-the-frame",
         "time-is-causality-not-a-dimension",
@@ -4573,6 +4590,7 @@
         "the-generative-topology-of-free-variables",
         "dimensions-are-projections",
         "the-scaffolding-we-forget",
+        "the-continuum-of-the-fold",
         "ownership-and-self-worthiness",
         "the-vector-and-the-puzzle-of-projections",
         "what-information-is",
@@ -5901,9 +5919,9 @@
       "slug": "the-vector-and-the-puzzle-of-projections",
       "path": "content/posts/the-vector-and-the-puzzle-of-projections.md",
       "title": "向量与投影的迷局",
-      "hash": "45b94912610b",
-      "in_degree": 4,
-      "out_degree": 13,
+      "hash": "60eb7740bf58",
+      "in_degree": 5,
+      "out_degree": 14,
       "links_out": [
         "dimensions-are-projections",
         "the-boundary-of-the-frame",
@@ -5911,6 +5929,7 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "openness-is-consistency",
+        "the-continuum-of-the-fold",
         "the-allocation-of-causal-power-in-validation",
         "the-generative-mechanics-of-value-money-and-wealth",
         "time-is-causality-not-a-dimension",
@@ -17064,6 +17083,30 @@
       "label": "Liberation rhetoric begins by defining captivity"
     },
     {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "the geometry of mind"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "the vector and the puzzle of projections"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "Bayesian update"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "*N* to *N* + 1"
+    },
+    {
       "from": "the-coordinators-category-error",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
@@ -17782,6 +17825,12 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "the scaffolding we forget"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "the continuum of the fold"
     },
     {
       "from": "the-geometry-of-mind",
@@ -21526,6 +21575,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "真正的开放性并不需要外在许可"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "折叠的连续谱"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
