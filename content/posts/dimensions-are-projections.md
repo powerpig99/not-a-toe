@@ -52,7 +52,7 @@ The very act of distinguishing an *N*-dimensional space **automatically defines 
 
 And because that (*N* + 1)-th space is now established, the act of holding *it* as an object of distinction immediately generates an (*N* + 2)-th dimension. **Recursively, the unceasing act of distinction extends the dimensionality of reality infinitely forward (*N* → *N* + 1 → *N* + 2 → ...).** 
 
-Dimensionality is not a static ceiling; it is the open, recursive staircase of the living Mind.
+Dimensionality is not a static ceiling; it is the open, recursive staircase of the living Mind. [The geometry of mind](../the-geometry-of-mind/) traces this exact self-referential architecture: projecting a low-dimensional sensor origin while maintaining functional alignment with the open, unrendered generative horizon.
 
 ---
 

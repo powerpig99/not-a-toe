@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-03T07:42:59.254Z",
+    "generated_at": "2026-09-03T11:31:06.551Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -47,7 +47,7 @@
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "af415810ee62",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "4767532bf34f",
-      "content/posts/dimensions-are-projections.md": "919eb346e0cc",
+      "content/posts/dimensions-are-projections.md": "178227b1b83c",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "9a36021499af",
       "content/posts/e-shi-feng-bi-de-shan.md": "9696809c12b7",
@@ -171,7 +171,7 @@
       "content/posts/the-average-is-residue-not-the-engine.md": "104f5bc3e9a2",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "64ff41889747",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "f399bd63e3ed",
-      "content/posts/the-boundary-of-the-frame.md": "3e69ea5f602e",
+      "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "d2f1958b9ac3",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -193,6 +193,7 @@
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "3c600d32c6d1",
       "content/posts/the-generative-topology-of-free-variables.md": "23f787d49fed",
       "content/posts/the-geometry-of-emergence.md": "bead421f1444",
+      "content/posts/the-geometry-of-mind.md": "b3360d5dfb3a",
       "content/posts/the-geometry-of-success.md": "9b4a467d58a1",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
@@ -222,7 +223,7 @@
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "134a07cc1be4",
       "content/posts/the-observational-cut-in-ai-debates.md": "170100d442c0",
-      "content/posts/the-only-coherent-uncaused-effect.md": "3fba5680a916",
+      "content/posts/the-only-coherent-uncaused-effect.md": "6b29cf875c6d",
       "content/posts/the-other-coherence.md": "d5db1aee1664",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "5f263a356b4c",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
@@ -291,13 +292,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 281,
-      "edges": 2788,
-      "unique_directed": 2760,
+      "posts": 282,
+      "edges": 2801,
+      "unique_directed": 2773,
       "missing_targets": 0,
-      "one_way": 602,
+      "one_way": 609,
       "isolated": 35,
-      "posts_with_outbound": 228
+      "posts_with_outbound": 229
     }
   },
   "hubs_in": [
@@ -319,19 +320,19 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 46
+      "in_degree": 47
     },
     {
       "slug": "the-scaffolding-we-forget",
       "in_degree": 43
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
       "in_degree": 38
     },
     {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 37
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 38
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -1361,14 +1362,15 @@
       "slug": "dimensions-are-projections",
       "path": "content/posts/dimensions-are-projections.md",
       "title": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence",
-      "hash": "919eb346e0cc",
-      "in_degree": 2,
-      "out_degree": 9,
+      "hash": "178227b1b83c",
+      "in_degree": 3,
+      "out_degree": 10,
       "links_out": [
         "not-a-toe-rewrite",
         "what-information-is",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
+        "the-geometry-of-mind",
         "the-scaffolding-we-forget",
         "time-is-causality-not-a-dimension",
         "the-boundary-of-the-frame",
@@ -2415,7 +2417,7 @@
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
       "hash": "84f32b4149ec",
-      "in_degree": 37,
+      "in_degree": 38,
       "out_degree": 23,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -3016,7 +3018,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "90d5381f0600",
-      "in_degree": 46,
+      "in_degree": 47,
       "out_degree": 30,
       "links_out": [
         "failure-as-information",
@@ -4149,14 +4151,15 @@
       "slug": "the-boundary-of-the-frame",
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "The Boundary of the Frame",
-      "hash": "3e69ea5f602e",
-      "in_degree": 5,
-      "out_degree": 10,
+      "hash": "8c493f39d1f4",
+      "in_degree": 6,
+      "out_degree": 11,
       "links_out": [
         "what-information-is",
         "time-is-causality-not-a-dimension",
         "the-three-shadows-of-the-cut",
         "the-scaffolding-we-forget",
+        "the-geometry-of-mind",
         "the-mirage-of-the-infinite-totality",
         "the-reversal-from-defensible-claim-to-dogma",
         "no-system-can-be-kept-closed",
@@ -4530,7 +4533,7 @@
       "path": "content/posts/the-generative-topology-of-free-variables.md",
       "title": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence",
       "hash": "23f787d49fed",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "the-only-coherent-uncaused-effect",
@@ -4552,6 +4555,28 @@
       "links_out": [
         "the-other-coherence",
         "the-generative-atlas-of-macroscopic-phenomena"
+      ]
+    },
+    {
+      "id": "post:the-geometry-of-mind",
+      "kind": "post",
+      "slug": "the-geometry-of-mind",
+      "path": "content/posts/the-geometry-of-mind.md",
+      "title": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon",
+      "hash": "b3360d5dfb3a",
+      "in_degree": 3,
+      "out_degree": 10,
+      "links_out": [
+        "the-boundary-of-the-frame",
+        "time-is-causality-not-a-dimension",
+        "the-mirage-of-the-infinite-totality",
+        "the-generative-topology-of-free-variables",
+        "dimensions-are-projections",
+        "ownership-and-self-worthiness",
+        "the-vector-and-the-puzzle-of-projections",
+        "what-information-is",
+        "mei-you-pu-du-zhi-you-zi-du",
+        "the-only-coherent-uncaused-effect"
       ]
     },
     {
@@ -4954,7 +4979,7 @@
       "path": "content/posts/the-mirage-of-the-infinite-totality.md",
       "title": "The Mirage of the Infinite Totality",
       "hash": "3b491a49b106",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 0,
       "links_out": []
     },
@@ -5120,11 +5145,12 @@
       "slug": "the-only-coherent-uncaused-effect",
       "path": "content/posts/the-only-coherent-uncaused-effect.md",
       "title": "The Only Coherent Uncaused Effect",
-      "hash": "3fba5680a916",
-      "in_degree": 3,
-      "out_degree": 6,
+      "hash": "6b29cf875c6d",
+      "in_degree": 4,
+      "out_degree": 7,
       "links_out": [
         "the-generative-mechanics-of-value-money-and-wealth",
+        "the-geometry-of-mind",
         "the-vector-and-the-puzzle-of-projections",
         "the-generative-topology-of-free-variables",
         "the-boundary-of-the-frame",
@@ -5875,7 +5901,7 @@
       "path": "content/posts/the-vector-and-the-puzzle-of-projections.md",
       "title": "向量与投影的迷局",
       "hash": "45b94912610b",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 13,
       "links_out": [
         "dimensions-are-projections",
@@ -5940,7 +5966,7 @@
       "path": "content/posts/time-is-causality-not-a-dimension.md",
       "title": "Time Is the Irreversible Direction and Discrete Step of Causality",
       "hash": "74376219b8c9",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "dimensions-are-projections",
@@ -6140,7 +6166,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -8995,6 +9021,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The geometry of mind"
     },
     {
       "from": "dimensions-are-projections",
@@ -16828,6 +16860,12 @@
     },
     {
       "from": "the-boundary-of-the-frame",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The geometry of mind"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
       "to": "the-mirage-of-the-infinite-totality",
       "rel": "points_to",
       "label": "The Mirage of the Infinite Totality"
@@ -17707,6 +17745,66 @@
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
       "label": "The Generative Atlas of Macroscopic Phenomena"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "the boundary of the frame"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "time as the irreversible direction and discrete step of causality"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "the mirage of the infinite totality"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "complementary free variables"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "dimensions as projections"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "outcomes re-enter as the mind's own"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "the puzzle of projections"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "true surprise value"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "there is no universal salvation, only self-deliverance"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "the only coherent uncaused effect"
     },
     {
       "from": "the-geometry-of-success",
@@ -19033,6 +19131,12 @@
       "to": "the-generative-mechanics-of-value-money-and-wealth",
       "rel": "points_to",
       "label": "the generative mechanics of value, money, and wealth"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "the geometry of mind"
     },
     {
       "from": "the-only-coherent-uncaused-effect",

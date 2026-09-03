@@ -55,7 +55,7 @@ This principle applies not merely to simple engineering approximations, but to t
 
 General Relativity is an extraordinary masterpiece of geometric modeling. By representing gravitation as the curvature of a continuous pseudo-Riemannian spacetime manifold, it produces astonishingly precise predictions for planetary orbits, gravitational lensing, and satellite clock dilation. Within its calibrated scope, the framework operates with pristine local validity.
 
-The failure occurs not in the equations, but in the psychological conversion of an operational model into a totalizing dogma. When General Relativity is treated as an exhaustive, context-free ontology—when theorists assume that the smooth continuum of spacetime *is* the fabric of reality rather than an engineered coordinate system—the model is pushed far past its operational horizon.
+The failure occurs not in the equations, but in the psychological conversion of an operational model into a totalizing dogma. When General Relativity is treated as an exhaustive, context-free ontology—when theorists assume that the smooth continuum of spacetime *is* the fabric of reality rather than an engineered coordinate system—the model is pushed far past its operational horizon. [The geometry of mind](../the-geometry-of-mind/) exposes this exact cosmological fallacy in the myth of the static block universe: mistaking an engineered representational slice for the dynamic, self-referential runtime of existence.
 
 The mathematical consequence of this over-extension is the production of severe pathologies: **singularities and physical irregularities**.
 
