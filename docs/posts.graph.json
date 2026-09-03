@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-03T20:07:08.742Z",
+    "generated_at": "2026-09-03T20:43:37.510Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -183,7 +183,7 @@
       "content/posts/the-coordinators-category-error.md": "d8a060340030",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
-      "content/posts/the-deterministic-machine.md": "66c195543575",
+      "content/posts/the-deterministic-machine.md": "d2c72a2d68fd",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-extendable-horizon.md": "16c6a9ecd2f7",
       "content/posts/the-fallacy-of-post-success-parenting.md": "ce24a26b4a1b",
@@ -297,10 +297,10 @@
     },
     "stats": {
       "posts": 286,
-      "edges": 2838,
-      "unique_directed": 2805,
+      "edges": 2839,
+      "unique_directed": 2806,
       "missing_targets": 0,
-      "one_way": 623,
+      "one_way": 624,
       "isolated": 35,
       "posts_with_outbound": 233
     }
@@ -328,7 +328,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 45
+      "in_degree": 46
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -4364,12 +4364,13 @@
       "slug": "the-deterministic-machine",
       "path": "content/posts/the-deterministic-machine.md",
       "title": "The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power",
-      "hash": "66c195543575",
+      "hash": "d2c72a2d68fd",
       "in_degree": 2,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-continuum-of-the-fold",
         "the-geometry-of-mind",
+        "the-scaffolding-we-forget",
         "the-only-coherent-uncaused-effect",
         "the-extendable-horizon"
       ]
@@ -5708,7 +5709,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "126ed0700868",
-      "in_degree": 45,
+      "in_degree": 46,
       "out_degree": 31,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -17355,6 +17356,12 @@
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
       "label": "the continuum of the fold"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "the scaffolding we forget"
     },
     {
       "from": "the-deterministic-machine",
