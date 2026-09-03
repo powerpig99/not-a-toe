@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-03T11:58:10.343Z",
+    "generated_at": "2026-09-03T16:42:30.103Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -167,6 +167,7 @@
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "ba001bbc15a9",
       "content/posts/technology-is-residual-of-human-compounding.md": "2d2d07f8486b",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "988d487bdf17",
+      "content/posts/the-arithmetic-of-the-register.md": "b20445867149",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-average-is-residue-not-the-engine.md": "104f5bc3e9a2",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "64ff41889747",
@@ -178,7 +179,7 @@
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
-      "content/posts/the-continuum-of-the-fold.md": "10db44466673",
+      "content/posts/the-continuum-of-the-fold.md": "f3e7a33f502d",
       "content/posts/the-coordinators-category-error.md": "d8a060340030",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
@@ -194,7 +195,7 @@
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "3c600d32c6d1",
       "content/posts/the-generative-topology-of-free-variables.md": "23f787d49fed",
       "content/posts/the-geometry-of-emergence.md": "bead421f1444",
-      "content/posts/the-geometry-of-mind.md": "d21231ac07a6",
+      "content/posts/the-geometry-of-mind.md": "d99b5da7fcc0",
       "content/posts/the-geometry-of-success.md": "9b4a467d58a1",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
@@ -293,13 +294,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 283,
-      "edges": 2808,
-      "unique_directed": 2780,
+      "posts": 284,
+      "edges": 2817,
+      "unique_directed": 2788,
       "missing_targets": 0,
-      "one_way": 612,
+      "one_way": 616,
       "isolated": 35,
-      "posts_with_outbound": 230
+      "posts_with_outbound": 231
     }
   },
   "hubs_in": [
@@ -1364,7 +1365,7 @@
       "path": "content/posts/dimensions-are-projections.md",
       "title": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence",
       "hash": "178227b1b83c",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 10,
       "links_out": [
         "not-a-toe-rewrite",
@@ -4027,6 +4028,24 @@
       ]
     },
     {
+      "id": "post:the-arithmetic-of-the-register",
+      "kind": "post",
+      "slug": "the-arithmetic-of-the-register",
+      "path": "content/posts/the-arithmetic-of-the-register.md",
+      "title": "The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field",
+      "hash": "b20445867149",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "dimensions-are-projections",
+        "the-geometry-of-mind",
+        "the-boundary-of-the-frame",
+        "the-vector-and-the-puzzle-of-projections",
+        "the-continuum-of-the-fold",
+        "the-only-coherent-uncaused-effect"
+      ]
+    },
+    {
       "id": "post:the-artifacts-of-self-amplification",
       "kind": "post",
       "slug": "the-artifacts-of-self-amplification",
@@ -4153,7 +4172,7 @@
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "The Boundary of the Frame",
       "hash": "8c493f39d1f4",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 11,
       "links_out": [
         "what-information-is",
@@ -4273,14 +4292,15 @@
       "slug": "the-continuum-of-the-fold",
       "path": "content/posts/the-continuum-of-the-fold.md",
       "title": "The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication",
-      "hash": "10db44466673",
-      "in_degree": 2,
-      "out_degree": 4,
+      "hash": "f3e7a33f502d",
+      "in_degree": 3,
+      "out_degree": 5,
       "links_out": [
         "the-geometry-of-mind",
         "the-vector-and-the-puzzle-of-projections",
         "the-generative-topology-of-free-variables",
-        "dimensions-are-projections"
+        "dimensions-are-projections",
+        "the-arithmetic-of-the-register"
       ]
     },
     {
@@ -4580,9 +4600,9 @@
       "slug": "the-geometry-of-mind",
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon",
-      "hash": "d21231ac07a6",
-      "in_degree": 4,
-      "out_degree": 12,
+      "hash": "d99b5da7fcc0",
+      "in_degree": 5,
+      "out_degree": 13,
       "links_out": [
         "the-boundary-of-the-frame",
         "time-is-causality-not-a-dimension",
@@ -4595,7 +4615,8 @@
         "the-vector-and-the-puzzle-of-projections",
         "what-information-is",
         "mei-you-pu-du-zhi-you-zi-du",
-        "the-only-coherent-uncaused-effect"
+        "the-only-coherent-uncaused-effect",
+        "the-arithmetic-of-the-register"
       ]
     },
     {
@@ -5165,7 +5186,7 @@
       "path": "content/posts/the-only-coherent-uncaused-effect.md",
       "title": "The Only Coherent Uncaused Effect",
       "hash": "6b29cf875c6d",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 7,
       "links_out": [
         "the-generative-mechanics-of-value-money-and-wealth",
@@ -5920,7 +5941,7 @@
       "path": "content/posts/the-vector-and-the-puzzle-of-projections.md",
       "title": "向量与投影的迷局",
       "hash": "60eb7740bf58",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 14,
       "links_out": [
         "dimensions-are-projections",
@@ -16423,6 +16444,48 @@
       "label": "Agency relocated into the formal model"
     },
     {
+      "from": "the-arithmetic-of-the-register",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "dimensions as projections"
+    },
+    {
+      "from": "the-arithmetic-of-the-register",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "the geometry of mind"
+    },
+    {
+      "from": "the-arithmetic-of-the-register",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "the boundary of the frame"
+    },
+    {
+      "from": "the-arithmetic-of-the-register",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "the vector and the puzzle of projections"
+    },
+    {
+      "from": "the-arithmetic-of-the-register",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "the continuum of the fold"
+    },
+    {
+      "from": "the-arithmetic-of-the-register",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "the continuum of the fold"
+    },
+    {
+      "from": "the-arithmetic-of-the-register",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "the only coherent uncaused effect"
+    },
+    {
       "from": "the-artifacts-of-self-amplification",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -17105,6 +17168,12 @@
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "*N* to *N* + 1"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "the arithmetic of the register"
     },
     {
       "from": "the-coordinators-category-error",
@@ -17861,6 +17930,12 @@
       "to": "the-only-coherent-uncaused-effect",
       "rel": "points_to",
       "label": "the only coherent uncaused effect"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "the arithmetic of the register"
     },
     {
       "from": "the-geometry-of-success",
