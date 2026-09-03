@@ -6,7 +6,7 @@ In human civilization, a persistent paradox appears: the more an era generates u
 
 ## The Geometry of the Most Significant Bit (*bₙ*)
 
-Civilizational capacity and its accessible state space can be represented cleanly as an unsigned binary integer register of length *n*:
+Civilizational capacity and its accessible state space within the **shared public coordination interface** can be represented cleanly as an unsigned binary integer register of length *n*:
 
 ```text
 W = ∑_{k=0}^{n-1} b_k · 2ᵏ   where b_k ∈ {0, 1}
@@ -88,6 +88,18 @@ In physical and cybernetic truth, no such shared plane exists. Every conscious a
 * The ideological partisan assumes reality is the symbolic narrative war on the digital feed.
 
 Because they equate their local window [b_m, b_{m+k}] with the totality of the register, any trajectory directed toward the empty vacuum of *bₙ* cannot be processed as dimensional expansion. Within their compiler, it can only be categorized as irrationality, self-indulgent retirement, or failure.
+
+### A Critical Ontological Pointer: Public Grid vs. Individual Hyperspace
+
+A vital distinction must be maintained here to prevent this model from being inverted into an instrument of elitism or moral hierarchy:
+
+> **The binary register models the narrow, low-dimensional shared public space—not the rich, multi-dimensional interior hyperspace of individual human beings.**
+
+This framework is not an attempt to rank individuals morally, intellectually, or existentially. As established in [the vector and the puzzle of projections](../the-vector-and-the-puzzle-of-projections/), every conscious mind possesses an internal hyperspace of astronomical dimensionality that far exceeds any public coordinate system. A person whose outward labor operates within the lower bits of the public ledger—maintaining logistics, teaching children, or stewarding established infrastructure—is not a "lower-bit human." Their interior life, creative discernment, and personal sovereignty cannot be measured by a societal accounting register.
+
+The binary register measures only **the collective, public coordination interface**—the narrow consensus drafting grid where societies account for energy, distribute resources, and run institutional status tournaments. The distinction between the top bit and lower bits describes the orientation of activity *within that shared public interface*: whether effort is directed at contending over existing slices of surplus slack, or expanding the physical degrees of freedom of the species. 
+
+To use this model to rank human beings would be to commit the very error it exposes: mistaking a low-dimensional public projection for the totality of a living soul.
 
 ## The Sovereign Stance
 
