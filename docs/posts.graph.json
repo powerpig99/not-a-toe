@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-02T22:31:37.154Z",
+    "generated_at": "2026-09-03T04:05:45.237Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -166,7 +166,7 @@
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "ba001bbc15a9",
       "content/posts/technology-is-residual-of-human-compounding.md": "2d2d07f8486b",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "4194479370e2",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "31c569f24e31",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-average-is-residue-not-the-engine.md": "104f5bc3e9a2",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "64ff41889747",
@@ -190,7 +190,7 @@
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "0333e5e45908",
       "content/posts/the-generative-contradiction.md": "2cef8f7c85e8",
-      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "cce9f4b4a1b2",
+      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "dd8deaaca7dd",
       "content/posts/the-generative-topology-of-free-variables.md": "10c9f17ef6d8",
       "content/posts/the-geometry-of-emergence.md": "bead421f1444",
       "content/posts/the-geometry-of-success.md": "9b4a467d58a1",
@@ -264,6 +264,7 @@
       "content/posts/two-failures-of-trace.md": "af3222321df1",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "44869ec76009",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "91addf4a12b9",
+      "content/posts/wealth-is-a-settlement-invoice-not-an-engine.md": "fc43fedc4f07",
       "content/posts/what-always-listens-cannot-originate.md": "8f0d91be568b",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
       "content/posts/what-information-is.md": "5cf8efae167b",
@@ -289,13 +290,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "0d7a99e20b0d"
     },
     "stats": {
-      "posts": 279,
-      "edges": 2764,
-      "unique_directed": 2737,
+      "posts": 280,
+      "edges": 2775,
+      "unique_directed": 2748,
       "missing_targets": 0,
-      "one_way": 589,
+      "one_way": 596,
       "isolated": 35,
-      "posts_with_outbound": 226
+      "posts_with_outbound": 227
     }
   },
   "hubs_in": [
@@ -317,7 +318,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 44
+      "in_degree": 45
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -325,7 +326,7 @@
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 37
+      "in_degree": 38
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -881,7 +882,7 @@
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学: Theories After Success, Mistaken for Theories Leading to Success",
       "hash": "170d27e8cd97",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 16,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -1360,7 +1361,7 @@
       "path": "content/posts/dimensions-are-projections.md",
       "title": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence",
       "hash": "919eb346e0cc",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 9,
       "links_out": [
         "not-a-toe-rewrite",
@@ -3013,7 +3014,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "90d5381f0600",
-      "in_degree": 44,
+      "in_degree": 45,
       "out_degree": 30,
       "links_out": [
         "failure-as-information",
@@ -3351,7 +3352,7 @@
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果",
       "hash": "6d69e88c5dd7",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 16,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -3991,12 +3992,13 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "4194479370e2",
-      "in_degree": 37,
-      "out_degree": 22,
+      "hash": "31c569f24e31",
+      "in_degree": 38,
+      "out_degree": 23,
       "links_out": [
         "order-surplus-and-the-moral-intercept",
         "pessimism-is-the-shadow-of-optimism",
+        "wealth-is-a-settlement-invoice-not-an-engine",
         "you-tiao-jian-de-zi-you",
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -4090,7 +4092,7 @@
       "path": "content/posts/the-bank-shot-and-the-magic-trick.md",
       "title": "The Bank Shot and the Magic Trick",
       "hash": "64ff41889747",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 9,
       "links_out": [
         "the-look-of-constraint-is-not-the-loss-of-freedom",
@@ -4146,7 +4148,7 @@
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "The Boundary of the Frame",
       "hash": "3e69ea5f602e",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "what-information-is",
@@ -4507,15 +4509,16 @@
       "slug": "the-generative-mechanics-of-value-money-and-wealth",
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims",
-      "hash": "cce9f4b4a1b2",
-      "in_degree": 6,
-      "out_degree": 5,
+      "hash": "dd8deaaca7dd",
+      "in_degree": 7,
+      "out_degree": 6,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "ownership-and-self-worthiness",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
-        "the-fallacy-of-post-success-parenting"
+        "the-fallacy-of-post-success-parenting",
+        "wealth-is-a-settlement-invoice-not-an-engine"
       ]
     },
     {
@@ -5891,7 +5894,7 @@
       "path": "content/posts/time-is-causality-not-a-dimension.md",
       "title": "Time Is the Irreversible Direction and Discrete Step of Causality",
       "hash": "74376219b8c9",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "dimensions-are-projections",
@@ -6038,6 +6041,27 @@
       "links_out": [
         "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
         "the-scaffolding-we-forget"
+      ]
+    },
+    {
+      "id": "post:wealth-is-a-settlement-invoice-not-an-engine",
+      "kind": "post",
+      "slug": "wealth-is-a-settlement-invoice-not-an-engine",
+      "path": "content/posts/wealth-is-a-settlement-invoice-not-an-engine.md",
+      "title": "财富是因果的结算清单，而不是动力源",
+      "hash": "fc43fedc4f07",
+      "in_degree": 2,
+      "out_degree": 9,
+      "links_out": [
+        "the-allocation-of-causal-power-in-validation",
+        "the-generative-mechanics-of-value-money-and-wealth",
+        "dimensions-are-projections",
+        "the-boundary-of-the-frame",
+        "the-bank-shot-and-the-magic-trick",
+        "ownership-and-self-worthiness",
+        "qian-yin-hou-guo",
+        "cheng-gong-xue",
+        "time-is-causality-not-a-dimension"
       ]
     },
     {
@@ -16191,6 +16215,12 @@
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
+      "to": "wealth-is-a-settlement-invoice-not-an-engine",
+      "rel": "points_to",
+      "label": "财富是因果的结算清单，而不是动力源"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
       "to": "you-tiao-jian-de-zi-you",
       "rel": "points_to",
       "label": "有条件的自由"
@@ -17598,6 +17628,12 @@
       "to": "the-fallacy-of-post-success-parenting",
       "rel": "points_to",
       "label": "The Fallacy of Post-Success Parenting"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "wealth-is-a-settlement-invoice-not-an-engine",
+      "rel": "points_to",
+      "label": "lagging settlement invoices of past exchanges rather than generative engines"
     },
     {
       "from": "the-generative-topology-of-free-variables",
@@ -21804,6 +21840,60 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "wealth-is-a-settlement-invoice-not-an-engine",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "因果的裁量权拱手让渡"
+    },
+    {
+      "from": "wealth-is-a-settlement-invoice-not-an-engine",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "真实财富与价值的生成机制"
+    },
+    {
+      "from": "wealth-is-a-settlement-invoice-not-an-engine",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "维度作为注意力投影"
+    },
+    {
+      "from": "wealth-is-a-settlement-invoice-not-an-engine",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "观测框架的边界"
+    },
+    {
+      "from": "wealth-is-a-settlement-invoice-not-an-engine",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "加塞球与魔术戏法"
+    },
+    {
+      "from": "wealth-is-a-settlement-invoice-not-an-engine",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "wealth-is-a-settlement-invoice-not-an-engine",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因后果的链条"
+    },
+    {
+      "from": "wealth-is-a-settlement-invoice-not-an-engine",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学陷阱"
+    },
+    {
+      "from": "wealth-is-a-settlement-invoice-not-an-engine",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "时间不是超然的容器，时间本身就是因果的不可逆方向与离散步长"
     },
     {
       "from": "what-always-listens-cannot-originate",
