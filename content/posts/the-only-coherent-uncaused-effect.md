@@ -2,7 +2,7 @@
 
 *The sovereign choice is the sole aperture through which an individual injects a free variable into reality, breaking the closed simulation of a dead, mechanical machine.*
 
-In an invariant physical universe governed by the strict conservation of cause and consequence, an uncaused effect in the external world is an ontological absurdity. Yet within the inescapable first-person perspective of the conscious observer, there exists exactly one coherent phenomenon that does not arrive as an antecedent push: one's own sovereign choice. Without that discrete injection of a free variable, human experience remains trapped inside a deterministic state machine—a closed cognitive simulation endlessly mistaken for the objective world outside.
+Governed by the strict conservation of cause and consequence, an uncaused effect in the external world is an impossibility. Yet within the inescapable first-person perspective of the conscious observer, there exists exactly one coherent phenomenon that does not arrive as an antecedent push: one's own sovereign choice. Without that discrete injection of a free variable, human experience remains trapped inside a deterministic state machine—a closed cognitive simulation endlessly mistaken for the world outside.
 
 ## The Incoherence of the External Miracle
 
@@ -48,7 +48,7 @@ Choice does not break physical causality; it *initiates* it. It is the solitary 
 
 ## The World We Choose to See Is the World We Get
 
-The ancient aphorism that "we get the world we choose to see" is frequently degraded into sentimental wishful thinking. In truth, it is an uncompromising epistemological and physical theorem:
+The ancient aphorism that "we get the world we choose to see" is frequently degraded into sentimental wishful thinking. In truth, it is an uncompromising law of causality:
 
 1. **The choice of frame precedes the registration of evidence.** Reality does not present itself as raw, unmediated data. As shown in [the boundary of the frame](../the-boundary-of-the-frame/), observation requires a perimeter. The questions you decide to ask, the distinctions you choose to draw, and the friction you agree to endure determine which signals can penetrate your awareness and which are discarded as background noise.
 2. **Without choice, the perceptual frame is fossilized.** If you make no sovereign choice, your inherited, automated machine continues to project its stale expectations onto the canvas. It admits only the evidence that ratifies its existing fears and biases. The world appears frozen because the aperture through which you view it has calcified.

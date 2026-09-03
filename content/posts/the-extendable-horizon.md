@@ -2,7 +2,7 @@
 
 *Positive-sum agency is not an elite coordinate on the outer boundary of society, but an internal orientation capable of injecting a free variable from any position in the register.*
 
-The macro-cybernetic view of civilizational capacity reveals how societal abundance subsidizes zero-sum friction, but viewed strictly from the outside, it risks creating a fatal distortion: the illusion that non-zero-sum agency is an exclusive luxury reserved for the rare pioneer standing at the outermost boundary of the register, while everyone else is condemned to a bitter status pit. This externalist error reduces consciousness to an institutional coordinate. In truth, positive-sum creation is not a geographic location on a societal balance sheet; it is an unconstrained first-person orientation toward causality. The horizon is never a fixed ceiling, and the capacity to inject a free variable is an intrinsic birthright available at every single coordinate in the system.
+Examining civilizational capacity strictly from the outside reveals how societal abundance subsidizes zero-sum friction, but it risks creating a fatal distortion: the illusion that non-zero-sum agency is an exclusive luxury reserved for the rare pioneer standing at the outermost boundary of the register, while everyone else is condemned to a bitter status pit. This externalist error reduces consciousness to an institutional coordinate. In truth, positive-sum creation is not a geographic location on a societal balance sheet; it is an unconstrained first-person orientation toward causality. The horizon is never a fixed ceiling, and the capacity to inject a free variable is an intrinsic birthright available at every single coordinate in the system.
 
 ## The Externalist Trap: Why the Register Model Was Incomplete
 
@@ -25,7 +25,7 @@ Positive-sum agency is not an index location; it is an **internal orientation to
 
 * **Inspiration Over Envy**: A player with a positive-sum mindset does not perceive the expansion of the top bit as an invalidation of their own position or an existential threat to their relative status. Instead, they view the newly generated slack as an inspiring affordance—a physical invitation to extend their own operational horizon.
 * **Cultivating Local Negative Entropy**: Rather than competing for existing slices of administrative budget or social prestige, they ask generative questions: *"How can I use this newly unlocked capability to solve unsolved friction in my own domain? How can I refine craftsmanship, improve throughput, and reduce systemic waste right here?"*
-* **The Growth Mindset**: What modern psychology intuitively labels the "growth mindset" is, in cybernetic terms, the refusal to treat one's current address window as a conserved closed box. It is the understanding that value is created by doing genuine physical and cognitive work, not by rearranging claims on existing surplus.
+* **The Growth Mindset**: What is popularly called the "growth mindset" is the refusal to treat one's current address window as a conserved closed box. It is the understanding that value is created by doing genuine physical and cognitive work, not by rearranging claims on existing surplus.
 
 By treating their local domain as an open frontier of quality, an individual transforms any coordinate into an active generative site. They play an infinite game inside the shared interface.
 
@@ -63,7 +63,7 @@ When an individual or an enterprise begins from the bottom under a strictly clos
 
 This explains why every mature or "defined industry" exhibits the exact same chronic symptoms. Any defined industry—automotive manufacturing, legacy aviation, commercial banking, traditional publishing—is, almost by definition, the institutional crystallization of a fixed reality, especially when viewed in retrospect. It formalizes fixed standards, erects regulatory moats, and models growth as a contest over a closed pie. Once the industry's S-curve saturates, competition within the container inevitably degenerates into bitter infighting over fractional market shares, administrative rent-seeking, and brand litigation.
 
-Yet in physical reality, no industry ever remains permanently static:
+Yet no industry ever remains permanently static:
 
 * **The Fallacy of the Single S-Curve**: Bounded participants mistake the flattening of their specific industry's S-curve for the flattening of reality itself. They lament that "growth has reached its physical limits" or that "the age of progress is over."
 * **Overlapping S-Curves**: Macroeconomic history is never a single logistic curve; it is an open envelope of **overlapping S-curves**. Long before a mature curve finishes exhausting itself, a sovereign explorer operating with an infinite game mindset steps outside the established definition, instantiates a new degree of freedom, and ignites the bottom of a brand new exponential curve in an adjacent, unrendered domain.
@@ -89,7 +89,7 @@ Where ε_k represents the daily injection of a positive-sum free variable:
 
 1. **The Compounding of the Slope**: The agent who consistently exercises their free variable—treating anomalies as information, extending their horizon, and refusing to defend a static self-image—compounds their trajectory daily. Their operational slope (*S*) increases exponentially.
 2. **The Divergence from the Intercept**: The agent who relies on their initial starting privileges (their intercept, *I₀*) while playing closed, zero-sum games remains flat. Over an extended duration, slope completely overwhelms intercept.
-3. **The Power Law Emergence**: A Gaussian (normal) distribution of daily micro-decisions, compounded iteratively over years of disciplined physical feedback, mathematically produces a **power-law distribution of realized capability, wisdom, and negative-entropy generation**.
+3. **The Power Law Emergence**: A Gaussian (normal) distribution of daily micro-decisions, compounded iteratively through direct contact with reality, mathematically produces a **power-law distribution of realized capability, wisdom, and negative-entropy generation**.
 
 Those who move ahead are not endowed with superhuman biology; they are simply the individuals who consistently exercised the universally available option to inject a free variable rather than surrender to the machine.
 

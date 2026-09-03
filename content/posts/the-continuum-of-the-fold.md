@@ -2,7 +2,7 @@
 
 *Consciousness is not an anthropocentric privilege but the operational velocity of self-referential feedback—meaning the alien is separated by scale, not space, and minds communicate only through the shock of internal disruption.*
 
-Consciousness is neither a supernatural spark granted exclusively to humans nor an accidental biological byproduct of carbon neural tissue. In its foundational physical and cybernetic reality, consciousness is the self-referential folding back of reality upon itself—a causal feedback loop capable of measuring its own prior states, injecting free variables, and updating its trajectory. Because this folding back occurs across an immense continuum of spatial and temporal scales, the universe is saturated with consciousness. The traditional search for "aliens" is fundamentally flawed: the very concept of an alien is a logical contradiction, and believing in direct, unmediated communication between any two minds is an epistemological illusion.
+Consciousness is neither a supernatural spark granted exclusively to humans nor an accidental byproduct of carbon neural tissue. It is the self-referential folding back of reality upon itself—a causal feedback loop capable of measuring its own prior states, injecting free variables, and updating its trajectory. Because this folding back occurs across an immense continuum of spatial and temporal scales, the universe is saturated with consciousness. The traditional search for "aliens" is fundamentally flawed: the very concept of an alien contains an inescapable contradiction, and believing in direct, unmediated communication between any two minds is an illusion.
 
 ## The Continuum of the Loop: Consciousness Across Scales
 
@@ -47,7 +47,7 @@ The profound scale separation that exists across nature does not end at the boun
 
 One of the most persistent illusions of human culture is the belief in **direct communication between two minds**—the romantic fantasy that thoughts, feelings, and meanings can pass unmediated from one soul to another through emotional resonance or shared intimacy.
 
-Physics and information theory permit no such mystical merger:
+No such unmediated merger can occur:
 
 * **The Inescapable Skull Boundary**: Every human being is a closed, isolated, first-person causal state machine. There is no biological or metaphysical cable running between your consciousness and mine. As demonstrated in [the vector and the puzzle of projections](../the-vector-and-the-puzzle-of-projections/), we can never step outside our first-person perspective. We are literal parallel universes to each other.
 * **The Mediation of Physical Perturbation**: When you speak to another person, your mind does not touch theirs. You contract your diaphragm, vibrate air molecules, or tap keys to emit light from a screen. These are purely mechanical disturbances in the external physical territory.

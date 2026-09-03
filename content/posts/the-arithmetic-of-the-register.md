@@ -2,7 +2,7 @@
 
 *Societal abundance does not diminish zero-sum frenzy; it subsidizes it, as bounded sensors mistake their local address window for the entire universe.*
 
-In human civilization, a persistent paradox appears: the more an era generates unprecedented material abundance through technological leaps, the more its public discourse becomes consumed by bitter zero-sum warfare. Modern commentary diagnoses this pathology as moral decay, late-stage greed, or algorithmic malice, but these critiques operate at the wrong coordinate. The dynamic is governed by an exact mathematical and cybernetic mechanism: the arithmetic of binary register expansion, the low-dimensional projection of surplus slack, and the amnesia of bounded sensors mistaking their local window for the totality of reality.
+In human civilization, a persistent paradox appears: the more an era generates unprecedented material abundance through technological leaps, the more its public discourse becomes consumed by bitter zero-sum warfare. Modern commentary diagnoses this pathology as moral decay, late-stage greed, or algorithmic malice, but these critiques operate at the wrong coordinate. The dynamic is governed by a precise causal mechanism: the arithmetic of binary register expansion, the low-dimensional projection of surplus slack, and the amnesia of bounded sensors mistaking their local window for the totality of reality.
 
 ## The Geometry of the Most Significant Bit (*bₙ*)
 
@@ -52,7 +52,7 @@ Every dynamic system operates within a total energetic budget. In an impoverishe
 E_total ≈ E_survival
 ```
 
-Under these conditions, a society cannot afford sustained zero-sum friction. If agents spend their limited free energy fighting over internal relative positioning, the dissipated energy breaches the narrow survival margin, and the system hits an absorbing barrier—famine, war, or physical collapse. Physical reality provides an unforgiving, non-negotiable feedback loop that disciplines behavior toward positive-sum extraction from the physical terrain.
+Under these conditions, a society cannot afford sustained zero-sum friction. If agents spend their limited free energy fighting over internal relative positioning, the dissipated energy breaches the narrow survival margin, and the system hits an absorbing barrier—famine, war, or physical collapse. Reality provides an unforgiving, non-negotiable feedback loop that disciplines behavior toward positive-sum work.
 
 Now observe what occurs when the frontier explorer flips the top bit *bₙ*:
 
@@ -69,7 +69,7 @@ The result is a fundamental law of societal dynamics:
 
 > **The volume of zero-sum friction a society can sustain is a monotonically increasing function of the surplus measure created by its positive-sum frontier explorers.**
 
-The frontier explorer flips *bₙ*, unlocking vast energetic slack. That slack cascades downward, releasing the broader population from direct physical confrontation with nature. 
+The frontier explorer flips *bₙ*, unlocking vast energetic slack. That slack cascades downward, releasing the broader population from direct confrontation with nature. 
 
 Relieved from the immediate threat of systemic death, the surplus energy has nowhere to go except into the low-dimensional projection space where other human avatars exist. As detailed in [the vector and the puzzle of projections](../the-vector-and-the-puzzle-of-projections/), it directly finances the explosive growth of financialization, litigation, administrative gatekeeping, narrative warfare, and positional posturing. The positive-sum explorer creates the space; the crowd immediately converts that space into an arena for higher-velocity, zero-sum combat.
 
@@ -79,7 +79,7 @@ This dynamic is commonly labeled an "irony" or a "tragic paradox." But as establ
 
 The illusion of paradox arises only from the false assumption of an omniscient, shared observational plane—the naive belief that all human beings inhabit the same perceptual coordinate system and look upon the same reality.
 
-In physical and cybernetic truth, no such shared plane exists. Every conscious agent is an isolated, first-person causal state machine bounded by its own operational horizon. The only real error is **Ontological Inflation**:
+No such shared plane exists. Every conscious agent is an isolated, first-person causal state machine bounded by its own operational horizon. The only real error is **Ontological Inflation**:
 
 > *The ungrounded projection that mistakes the boundary of one's local perceptual window for the boundary of the entire universe.*
 
