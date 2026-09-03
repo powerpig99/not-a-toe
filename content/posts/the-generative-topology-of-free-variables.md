@@ -49,7 +49,7 @@ The boundary where the unknown becomes known is simultaneously the boundary wher
 
 ## The Free Variable: Inertia, Complementarity, and Macro Identities
 
-At the split second a causal node crosses into realization, it functions mathematically as a **Free Variable (*V*)**.
+At the split second a causal node crosses into realization, it functions mathematically as a **Free Variable (*V*)**. [The only coherent uncaused effect](../the-only-coherent-uncaused-effect/) identifies this moment as sovereign choice: the single aperture through which consciousness breaks deterministic mechanical simulations and introduces an un-derived degree of freedom into reality.
 
 A free variable possesses basic inertia: once actualized into a state (such as binary 0 or 1), it remains unchanged unless it interacts with its environment. 
 

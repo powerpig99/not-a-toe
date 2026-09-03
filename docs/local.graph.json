@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-09-03T04:42:55.029Z",
+    "generated_at": "2026-09-03T05:40:11.240Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -12,18 +12,18 @@
       "docs/export-for-substack.md": "9a2df9f4dfab",
       "docs/export-for-x-article.md": "55ab96853de2",
       "export/README.md": "c0a8866a454d",
-      "assets/covers/STYLES.md": "30a8fbce4199",
+      "assets/covers/STYLES.md": "50cf3f879225",
       "README.md": "544757900335",
       "docs/local-memory.md": "188219cb976c",
-      "build.mjs": "a21f76e5689e",
+      "build.mjs": "d830d3882820",
       "scripts/export-absolute-md.mjs": "3bbb08fdfc89",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
       "MEMORY.md": "9b2cea4e08ca"
     },
     "stats": {
-      "posts": 280,
-      "covers": 210,
+      "posts": 281,
+      "covers": 211,
       "trackers_listed": 12,
       "trackers_present": 12
     },
@@ -207,7 +207,7 @@
       "path": "build.mjs",
       "owns": "site-build",
       "exists": true,
-      "hash": "a21f76e5689e",
+      "hash": "d830d3882820",
       "summary": "binary/script",
       "headings": [],
       "layer": "tracker"
@@ -219,7 +219,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "30a8fbce4199",
+      "hash": "50cf3f879225",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
