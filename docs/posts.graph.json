@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-03T04:27:35.460Z",
+    "generated_at": "2026-09-03T04:42:54.970Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -166,7 +166,7 @@
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "dbef12959442",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "ba001bbc15a9",
       "content/posts/technology-is-residual-of-human-compounding.md": "2d2d07f8486b",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "505567ac1901",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "988d487bdf17",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-average-is-residue-not-the-engine.md": "104f5bc3e9a2",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "64ff41889747",
@@ -180,7 +180,6 @@
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
       "content/posts/the-coordinators-category-error.md": "d8a060340030",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
-      "content/posts/the-deflection-of-the-vector-and-the-puzzle-of-projections.md": "d049bfe0d92e",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-fallacy-of-post-success-parenting.md": "ce24a26b4a1b",
@@ -191,7 +190,7 @@
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "c94bb15b363f",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "0333e5e45908",
       "content/posts/the-generative-contradiction.md": "2cef8f7c85e8",
-      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "4a140cefb44d",
+      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "3c600d32c6d1",
       "content/posts/the-generative-topology-of-free-variables.md": "10c9f17ef6d8",
       "content/posts/the-geometry-of-emergence.md": "bead421f1444",
       "content/posts/the-geometry-of-success.md": "9b4a467d58a1",
@@ -253,6 +252,7 @@
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-unobservable-driver-of-learning.md": "1c942a52811f",
       "content/posts/the-utility-men-of-progress.md": "35523a162e42",
+      "content/posts/the-vector-and-the-puzzle-of-projections.md": "ce025c817ff7",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "f10e58175efc",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
@@ -3992,13 +3992,13 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
-      "hash": "505567ac1901",
+      "hash": "988d487bdf17",
       "in_degree": 38,
       "out_degree": 23,
       "links_out": [
         "order-surplus-and-the-moral-intercept",
         "pessimism-is-the-shadow-of-optimism",
-        "the-deflection-of-the-vector-and-the-puzzle-of-projections",
+        "the-vector-and-the-puzzle-of-projections",
         "you-tiao-jian-de-zi-you",
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -4301,30 +4301,6 @@
       "links_out": []
     },
     {
-      "id": "post:the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "kind": "post",
-      "slug": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "path": "content/posts/the-deflection-of-the-vector-and-the-puzzle-of-projections.md",
-      "title": "向量的偏转与投影的迷局",
-      "hash": "d049bfe0d92e",
-      "in_degree": 2,
-      "out_degree": 12,
-      "links_out": [
-        "dimensions-are-projections",
-        "the-boundary-of-the-frame",
-        "what-information-is",
-        "mei-you-pu-du-zhi-you-zi-du",
-        "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
-        "openness-is-consistency",
-        "the-allocation-of-causal-power-in-validation",
-        "the-generative-mechanics-of-value-money-and-wealth",
-        "time-is-causality-not-a-dimension",
-        "the-bank-shot-and-the-magic-trick",
-        "ownership-and-self-worthiness",
-        "qian-yin-hou-guo"
-      ]
-    },
-    {
       "id": "post:the-descent-that-doesnt-know-where-its-going",
       "kind": "post",
       "slug": "the-descent-that-doesnt-know-where-its-going",
@@ -4533,7 +4509,7 @@
       "slug": "the-generative-mechanics-of-value-money-and-wealth",
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims",
-      "hash": "4a140cefb44d",
+      "hash": "3c600d32c6d1",
       "in_degree": 7,
       "out_degree": 6,
       "links_out": [
@@ -4542,7 +4518,7 @@
         "ownership-and-self-worthiness",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-fallacy-of-post-success-parenting",
-        "the-deflection-of-the-vector-and-the-puzzle-of-projections"
+        "the-vector-and-the-puzzle-of-projections"
       ]
     },
     {
@@ -5869,6 +5845,30 @@
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-illusion-of-free-intelligence",
         "the-reality-distortion-field-inverts-the-baseline"
+      ]
+    },
+    {
+      "id": "post:the-vector-and-the-puzzle-of-projections",
+      "kind": "post",
+      "slug": "the-vector-and-the-puzzle-of-projections",
+      "path": "content/posts/the-vector-and-the-puzzle-of-projections.md",
+      "title": "向量与投影的迷局",
+      "hash": "ce025c817ff7",
+      "in_degree": 2,
+      "out_degree": 12,
+      "links_out": [
+        "dimensions-are-projections",
+        "the-boundary-of-the-frame",
+        "what-information-is",
+        "mei-you-pu-du-zhi-you-zi-du",
+        "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+        "openness-is-consistency",
+        "the-allocation-of-causal-power-in-validation",
+        "the-generative-mechanics-of-value-money-and-wealth",
+        "time-is-causality-not-a-dimension",
+        "the-bank-shot-and-the-magic-trick",
+        "ownership-and-self-worthiness",
+        "qian-yin-hou-guo"
       ]
     },
     {
@@ -16218,9 +16218,9 @@
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
-      "to": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
+      "to": "the-vector-and-the-puzzle-of-projections",
       "rel": "points_to",
-      "label": "向量的偏转与投影的迷局"
+      "label": "向量与投影的迷局"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -17093,78 +17093,6 @@
       "label": "Agency relocated into the formal model"
     },
     {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "dimensions-are-projections",
-      "rel": "points_to",
-      "label": "维度作为注意力投影"
-    },
-    {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "the-boundary-of-the-frame",
-      "rel": "points_to",
-      "label": "观测框架的边界"
-    },
-    {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "what-information-is",
-      "rel": "points_to",
-      "label": "真正的有效信息"
-    },
-    {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "mei-you-pu-du-zhi-you-zi-du",
-      "rel": "points_to",
-      "label": "跨越心智妄图普度与强求同频的妄念"
-    },
-    {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
-      "rel": "points_to",
-      "label": "从形式迷思到概念空转的陷阱"
-    },
-    {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "openness-is-consistency",
-      "rel": "points_to",
-      "label": "真正的开放性并不需要外在许可"
-    },
-    {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "the-allocation-of-causal-power-in-validation",
-      "rel": "points_to",
-      "label": "向外索取确认的因果倒置"
-    },
-    {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "the-generative-mechanics-of-value-money-and-wealth",
-      "rel": "points_to",
-      "label": "真实财富与价值的生成机制"
-    },
-    {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "time-is-causality-not-a-dimension",
-      "rel": "points_to",
-      "label": "时间是因果的不可逆方向与离散步长"
-    },
-    {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "the-bank-shot-and-the-magic-trick",
-      "rel": "points_to",
-      "label": "加塞球与魔术戏法"
-    },
-    {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "ownership-and-self-worthiness",
-      "rel": "points_to",
-      "label": "自我价值感与所有权"
-    },
-    {
-      "from": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
-      "to": "qian-yin-hou-guo",
-      "rel": "points_to",
-      "label": "因果律的链条自始至终是一致的"
-    },
-    {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
@@ -17706,7 +17634,7 @@
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
-      "to": "the-deflection-of-the-vector-and-the-puzzle-of-projections",
+      "to": "the-vector-and-the-puzzle-of-projections",
       "rel": "points_to",
       "label": "lagging settlement invoices of past exchanges rather than generative engines"
     },
@@ -21375,6 +21303,78 @@
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
       "label": "The reality distortion field inverts the baseline"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "维度作为注意力投影"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "观测框架的边界"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "真正的有效信息"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "跨越心智妄图普度与强求同频的妄念"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "从形式迷思到概念空转的陷阱"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "真正的开放性并不需要外在许可"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "向外索取确认的因果倒置"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "真实财富与价值的生成机制"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "时间是因果的不可逆方向与离散步长"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "加塞球与魔术戏法"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "因果律的链条自始至终是一致的"
     },
     {
       "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
