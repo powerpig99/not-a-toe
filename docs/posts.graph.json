@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-03T18:54:59.259Z",
+    "generated_at": "2026-09-03T18:57:14.052Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -31,7 +31,7 @@
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "5728e783fe80",
-      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "618ae4ecd116",
+      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "3f76b7642018",
       "content/posts/closed-reality-in-benchmark-maxing.md": "d57165a32284",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "7565d5a1e4a7",
@@ -184,7 +184,7 @@
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
-      "content/posts/the-extendable-horizon.md": "39720170a737",
+      "content/posts/the-extendable-horizon.md": "f406e3cbc0e5",
       "content/posts/the-fallacy-of-post-success-parenting.md": "ce24a26b4a1b",
       "content/posts/the-fixed-image-of-transcendence.md": "7c3ba6ced47b",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3cd05b0818a",
@@ -296,8 +296,8 @@
     },
     "stats": {
       "posts": 285,
-      "edges": 2828,
-      "unique_directed": 2797,
+      "edges": 2830,
+      "unique_directed": 2799,
       "missing_targets": 0,
       "one_way": 621,
       "isolated": 35,
@@ -366,12 +366,12 @@
       "in_degree": 26
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
+      "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "in_degree": 26
     },
     {
-      "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
-      "in_degree": 25
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 26
     },
     {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -1003,9 +1003,9 @@
       "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "Closed Assumptions Squeeze Compounding into S-Curves",
-      "hash": "618ae4ecd116",
-      "in_degree": 25,
-      "out_degree": 22,
+      "hash": "3f76b7642018",
+      "in_degree": 26,
+      "out_degree": 23,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
@@ -1028,7 +1028,8 @@
         "the-rational-choice-postulate-is-the-original-sin",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "mi-lv-shi-jie-guo-de-biao-xiang",
-        "power-law-is-the-long-term-consequence-of-normal-distribution"
+        "power-law-is-the-long-term-consequence-of-normal-distribution",
+        "the-extendable-horizon"
       ]
     },
     {
@@ -4385,14 +4386,15 @@
       "slug": "the-extendable-horizon",
       "path": "content/posts/the-extendable-horizon.md",
       "title": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables",
-      "hash": "39720170a737",
-      "in_degree": 2,
-      "out_degree": 7,
+      "hash": "f406e3cbc0e5",
+      "in_degree": 3,
+      "out_degree": 8,
       "links_out": [
         "the-arithmetic-of-the-register",
         "the-geometry-of-mind",
         "the-only-coherent-uncaused-effect",
         "the-scaffolding-we-forget",
+        "closed-assumptions-squeeze-compounding-into-s-curves",
         "agency-compounding-and-the-argument-over-ai-feudalism",
         "the-continuum-of-the-fold",
         "dimensions-are-projections"
@@ -8142,6 +8144,12 @@
       "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "rel": "points_to",
       "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon"
     },
     {
       "from": "closed-reality-in-benchmark-maxing",
@@ -17406,6 +17414,12 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "the scaffolding we forget"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "closed assumptions squeeze compounding into S-curves"
     },
     {
       "from": "the-extendable-horizon",
