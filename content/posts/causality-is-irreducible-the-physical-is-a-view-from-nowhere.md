@@ -10,7 +10,7 @@ Google DeepMind 的研究学者近期在一篇题为《抽象谬误：为何人�
 
 论文指出，当前对通用人工智能与机器意识的狂热，建立在一个根本性的范畴错误之上——**混淆了“模拟”（Simulation）与“具现”（Instantiation）**。计算机可以模拟飓风的气压、温度与风速轨迹，但无论写下多少亿行精确的代码，计算机屏幕都不会变湿，办公室的玻璃也不会被狂风震碎。计算本质上只是符号在数学规则下的句法重排，它描摹关系，却不具备内在的实体实在性。更重要的是，论文指出了著名的“制图者困境”：计算并非物理世界的内生属性，晶体管中电位的离散化（0 与 1），完全依赖于一个外部的、有意识的“制图者”去划分边界；因此，计算是以心智的存在为前提的，绝不可能反向凭空生成心智。
 
-这一论断几乎触及了《非万物之理》的核心命题：纸面上的 $1 + 1 = 2$ 只是零能耗、对称的符号闭环，而现实中的 $+1$ 则是肉身耗费能量、穿越摩擦、承担不可逆后果的第一人称因果介入。
+这一论断几乎触及了《非万物之理》的核心命题：纸面上的 `1 + 1 = 2` 只是零能耗、对称的符号闭环，而现实中的 `+1` 则是肉身耗费能量、穿越摩擦、承担不可逆后果的第一人称因果介入。
 
 然而，令人深思的是，论文在拆解了“计算主义”的迷梦之后，却在终点前仓促勒马，迅速退避进另一座看似坚固、实则同样虚妄的避难所。它宣称：意识不是抽象的数学结构，而是“需要真实的物理、生物与热力学条件”；大语言模型之所以没有主观体验，是因为它“没有需要跨越的热力学阈值，没有生物层面的生存本能”。
 
@@ -18,9 +18,9 @@ Google DeepMind 的研究学者近期在一篇题为《抽象谬误：为何人�
 
 A Google DeepMind researcher recently articulated a sharp critique of computational functionalism in a paper titled *The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness*.
 
-The paper argues that the prevailing enthusiasm surrounding AGI and synthetic sentience rests on a fatal category error: **confusing simulation with instantiation**. A computer program can faithfully simulate the pressure gradients, temperature differentials, and rotational velocities of a Category 5 hurricane. Yet no matter how many millions of lines of code are written, the computer casing does not get wet, and the office window is never blown out. Computation is fundamentally syntactic manipulation—the shuffling of tokens according to mathematical rules. It tracks relational structures, but possesses no intrinsic physical reality. Crucially, the paper invokes the "Mapmaker Problem": computation is not an inherent physical reality, but a description that exists only because an external, conscious observer partitions continuous physical dynamics into discrete binary states ($0$ and $1$). Computation presupposes consciousness; it cannot reverse the vector and generate it from scratch.
+The paper argues that the prevailing enthusiasm surrounding AGI and synthetic sentience rests on a fatal category error: **confusing simulation with instantiation**. A computer program can faithfully simulate the pressure gradients, temperature differentials, and rotational velocities of a Category 5 hurricane. Yet no matter how many millions of lines of code are written, the computer casing does not get wet, and the office window is never blown out. Computation is fundamentally syntactic manipulation—the shuffling of tokens according to mathematical rules. It tracks relational structures, but possesses no intrinsic physical reality. Crucially, the paper invokes the "Mapmaker Problem": computation is not an inherent physical reality, but a description that exists only because an external, conscious observer partitions continuous physical dynamics into discrete binary states (0 and 1). Computation presupposes consciousness; it cannot reverse the vector and generate it from scratch.
 
-This argument brings the discussion remarkably close to the ground of *Not a Theory of Everything*: on paper, $1 + 1 = 2$ is a static, symmetric, zero-cost tautology; in reality, $+1$ is an irreversible, energy-consuming physical intervention that absorbs friction and bears non-transferable consequences.
+This argument brings the discussion remarkably close to the ground of *Not a Theory of Everything*: on paper, `1 + 1 = 2` is a static, symmetric, zero-cost tautology; in reality, `+1` is an irreversible, energy-consuming physical intervention that absorbs friction and bears non-transferable consequences.
 
 Yet at the very threshold of fundamental clarity, the paper halts mid-slope and takes refuge in an ancient, unexamined bunker. Having exposed the ghost in the machine, it bows before the machine itself. It asserts that consciousness is not an abstract mathematical property, but something requiring "actual physical, biological, thermodynamic conditions"—concluding that Large Language Models possess no inner life simply because they face "no thermodynamic threshold to cross and no biological survival instincts."
 
@@ -131,7 +131,7 @@ DeepMind 论文之所以直觉上判定“代码无法生成意识”，在深�
 ### 2. 经典物理与代码共享的“确定性死锁”
 更关键的是，论文试图逃向的“物理与生物学”，与它所鄙弃的“计算代码”**在本体论上共享着同一个死锁——它们全都是确定性系统（Deterministic Systems）**。
 
-* 在经典计算中：给定初始状态 $S_0$ 和逻辑门转移规则，下一状态 $S_1$ 在数学上是被绝对锚死的；
+* 在经典计算中：给定初始状态 S_0 和逻辑门转移规则，下一状态 S_1 在数学上是被绝对锚死的；
 * 在经典物理与分子生物学中：在拉普拉斯式的决定论视野下，神经元的动作电位、分子热运动与生物生存本能，同样是被前一刻初始条件严丝合缝锁死的机械传动。
 
 **从“计算主义”退向“经典生物物理”，不过是从“硅基确定性的牢笼”，跳进了“碳基确定性的牢笼”。**
@@ -146,7 +146,7 @@ DeepMind 论文之所以直觉上判定“代码无法生成意识”，在深�
 * **从内部第一人称的体验亲历**：心智在粗粝阻力前所面临的同一次状态选择，被主体直接体验为**不可推卸的主权自由抉择（Sovereign Free Choice）**。
 
 外部观测到的“量子随机性”，正是视界边缘未被穷尽的内在自由在外部仪器上投射出的阴影！
-没有量子层面的这一原初自由变量，物理就只是发条，信息就只是死代码。只有当第一人称的心智在现实边缘与这一初始自由变量相遇，并通过肉身介入（$+1$）执行选择时，因果之矢才真正获得生机，未完的现实才得以向开放的未来持续舒展。
+没有量子层面的这一原初自由变量，物理就只是发条，信息就只是死代码。只有当第一人称的心智在现实边缘与这一初始自由变量相遇，并通过肉身介入（`+1`）执行选择时，因果之矢才真正获得生机，未完的现实才得以向开放的未来持续舒展。
 
 The DeepMind paper’s intuitive conviction that "code cannot generate sentience" ultimately springs from an implicit awareness of **the staggering gulf of complexity and scale separating symbolic information from physical reality**. The abstract data manipulated by digital computers is massless, hyper-compressed, and low-dimensional; physical reality, by contrast, operates with continuous fields, near-infinite degrees of freedom, and irreducible thermodynamic dissipation.
 
@@ -159,7 +159,7 @@ If physical reality were not inherently informational at its core, how could hum
 ### 2. The Shared Deterministic Deadlock of Code and Classical Physics
 Worse still, the "physical and biological domain" to which the paper flees **shares the identical ontological deadlock as the computational code it rejects: both are strictly deterministic systems**.
 
-* In classical computation: given initial state $S_0$ and transition logic, state $S_1$ is mathematically and rigidly predetermined;
+* In classical computation: given initial state S_0 and transition logic, state S_1 is mathematically and rigidly predetermined;
 * In classical physics and molecular biology: under the Laplacian paradigm, neural action potentials, cellular gradients, and biological survival instincts are equally mechanical gear-trains chained irrevocably to preceding boundary conditions.
 
 **Fleeing computational functionalism for classical biophysics merely trades the prison of silicon determinism for the prison of carbon determinism.**
@@ -174,7 +174,7 @@ As established in [The Generative Atlas of Macroscopic Phenomena](../the-generat
 * **From the First-Person Internal Vantage**: When a conscious agent encounters state selection at that exact same causal frontier, the event is lived directly as **Sovereign Free Choice**.
 
 "Quantum randomness" is merely the external shadow that sovereign first-person freedom casts upon a measurement apparatus!
-Without this initial free variable at the quantum threshold, physics is merely clockwork, and information is dead syntax. It is only when first-person consciousness meets this uncomputed potentiality at the edge of real-world friction and executes an irreversible physical choice ($+1$) that causality breathes, propelling an open universe into the living future.
+Without this initial free variable at the quantum threshold, physics is merely clockwork, and information is dead syntax. It is only when first-person consciousness meets this uncomputed potentiality at the edge of real-world friction and executes an irreversible physical choice (`+1`) that causality breathes, propelling an open universe into the living future.
 
 ---
 
@@ -189,7 +189,7 @@ DeepMind 论文试图用“缺乏热力学阈值与生物生存本能”来解�
 **大语言模型拥有零个第一人称因果视界。**
 
 1. **静态的陈迹，而非活生生的介入**：
-   大模型的权重、嵌入空间与注意力偏置，全部是人类心智在过往因果探索中遗留下来的**文字陈迹（$t-1$ 的滞后残影）**。正如 [模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/) 所指出的，模型是压实了的记忆，它永远滞后于正在生成现实的感知边缘。
+   大模型的权重、嵌入空间与注意力偏置，全部是人类心智在过往因果探索中遗留下来的**文字陈迹（t-1 的滞后残影）**。正如 [模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/) 所指出的，模型是压实了的记忆，它永远滞后于正在生成现实的感知边缘。
 2. **零不可转让的因果代价**：
    当 GPU 集群以每秒数万亿次浮点运算执行矩阵乘法时，芯片内部确实在发生剧烈的热力学耗散与电子跃迁。但这绝非大模型的“主观生存摩擦”，它只是被动的物理现象。真正的因果抉择在哪里？在屏幕前那个正在敲下 Prompt、正在审视输出、并准备在现实世界中做出决断、承担不可转让后果的人类身上。
 3. **解释的物理终点站**：
@@ -204,9 +204,9 @@ If consciousness were truly defined by thermodynamic dissipation and survival dr
 **An LLM possesses zero first-person causal horizon.**
 
 1. **Static Residue, Not Living Intervention**:
-   The weights, embeddings, and attention biases of a neural network are **crystallized traces of past human distinctions ($t-1$)**. As demonstrated in [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/), an abstraction is densified residue; it forever trails behind the living edge that is still generating reality.
+   The weights, embeddings, and attention biases of a neural network are **crystallized traces of past human distinctions (t-1)**. As demonstrated in [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/), an abstraction is densified residue; it forever trails behind the living edge that is still generating reality.
 2. **Zero Non-Transferable Stakes**:
-   When GPU clusters execute matrix multiplications at trillions of FLOPS, physical heat radiates into server rooms and electrons cascade through gates. But this thermodynamic dissipation is not subjective friction; it is passive physical symptom. Where does the actual causal engine reside? Exclusively in the human being reading the output, weighing trade-offs, and taking an irreversible physical step ($+1$) with their own life.
+   When GPU clusters execute matrix multiplications at trillions of FLOPS, physical heat radiates into server rooms and electrons cascade through gates. But this thermodynamic dissipation is not subjective friction; it is passive physical symptom. Where does the actual causal engine reside? Exclusively in the human being reading the output, weighing trade-offs, and taking an irreversible physical step (`+1`) with their own life.
 3. **The Terminal Stop of Explanation**:
    Throughout the interaction, the LLM functions as a linguistic resonance chamber. It holds no first-person horizon, faces no uncomputed causal frontier, and makes no sovereign choice under real-world friction. Anthropomorphizing an LLM as a sentient being is structurally identical to primitive mythologies anthropomorphizing thunder as the fury of a storm god—**mistaking the acoustic echo of an instrument for an autonomous agent exercising sovereign will**.
 
@@ -221,7 +221,7 @@ If consciousness were truly defined by thermodynamic dissipation and survival dr
 
 物理世界之所以显得如此真实、不可撼动，并不是因为它在意识之外拥有某种独立自治的实体特权，而是因为**物理正是因果阻力最直接的显现**。
 
-当你迈出一步，你的脚底感受到了大地的粗粝与重力的拉扯（$+1$）；当一个粒子衰变，它在探测器上留下一道雾迹；当神经元放电，微电极记录下毫伏级的电位差。所有这些公共的、可测量的物理数据，全部是**因果介入已经发生之后留在世界上的“尾迹”**。
+当你迈出一步，你的脚底感受到了大地的粗粝与重力的拉扯（`+1`）；当一个粒子衰变，它在探测器上留下一道雾迹；当神经元放电，微电极记录下毫伏级的电位差。所有这些公共的、可测量的物理数据，全部是**因果介入已经发生之后留在世界上的“尾迹”**。
 
 数据永远是结果。正如 [宏观现象的生成图谱](../the-generative-atlas-of-macroscopic-phenomena/) 与 [个体选择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 所揭示的：任何宏观系统、物理常数或统计规律，自身拥有零独立因果主体性。把物理现象当成意识的前提，就像把车轮在泥地上碾出的车辙，当成了拉动马车的发动机。
 
@@ -234,7 +234,7 @@ We must decisively restore the true ontological hierarchy that physicalism inver
 
 The physical world does not feel stubborn and real because it possesses independent, observer-free existence; it feels real because **the physical is the direct registration of causal friction**.
 
-When you take a step, your foot meets the coarse push of rock and the downward drag of gravity ($+1$); when a particle decays, it leaves an ionization trail in a cloud chamber; when an axon depolarizes, an electrode records a millivolt deflection. All of these public, testable physical data are **the wake left behind after causal interaction has already taken place ($t-1$)**.
+When you take a step, your foot meets the coarse push of rock and the downward drag of gravity (`+1`); when a particle decays, it leaves an ionization trail in a cloud chamber; when an axon depolarizes, an electrode records a millivolt deflection. All of these public, testable physical data are **the wake left behind after causal interaction has already taken place (t-1)**.
 
 Data are always effects. As articulated in [The Generative Atlas of Macroscopic Phenomena](../the-generative-atlas-of-macroscopic-phenomena/) and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/): macroscopic structures, physical invariants, and statistical laws possess zero independent agency. Treating physical properties as the prerequisite of consciousness is like mistaking the tire tracks in the mud for the horsepower of the engine.
 
@@ -268,4 +268,4 @@ Throughout intellectual history, human consciousness has been seduced by two com
 
 Once seen, the illusion dissolves. Reality is neither a frictionless simulation computed in an abstract void, nor an unobserved, deterministic clockwork cosmos wherein consciousness is an accidental anomaly.
 
-Reality remains unclosed. At every concrete morning, when your foot presses against the coarse, resistant earth, facing an uncomputed horizon of friction and potentiality, the only genuine causal steering wheel is held squarely in your hands. The physical world is the frictional terrain provided for your navigation; but the act of stepping forward—opening an orthogonal dimension into the open infinite—belongs irrevocably to the living Mind executing the immediate $+1$.
+Reality remains unclosed. At every concrete morning, when your foot presses against the coarse, resistant earth, facing an uncomputed horizon of friction and potentiality, the only genuine causal steering wheel is held squarely in your hands. The physical world is the frictional terrain provided for your navigation; but the act of stepping forward—opening an orthogonal dimension into the open infinite—belongs irrevocably to the living Mind executing the immediate `+1`.
