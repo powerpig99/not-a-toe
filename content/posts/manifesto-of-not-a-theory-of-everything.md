@@ -74,25 +74,17 @@ Differentiation is reality breathing—an open, ongoing process. Closure collaps
 
 ## 三、 始于心智，留于心智，终于心智 / 3. Starts with the Mind, Stays within the Mind, Ends with the Mind
 
-不幸又不幸，万事始于心智，留于心智，终于心智。
+不幸又万幸，万事始于心智，留于心智，终于心智。
 
-这是心智面对的两重基本事实：
+不幸的是，第一人称界面无法撤销，因果责任不可转让。心智无法跳出自身的界面去获得一个脱离观察者的全知视角，所有的焦虑、恐惧与精神内耗，都是心智在自身界面上的投影；没有任何终极理论或外部权威能够代替心智去承担抉择的后果，哪怕是盲从，那份服从依然是心智在当下亲手执行的选择。
 
-第一，感知永远立足于第一人称。心智无法跳出自身的界面去获得一个脱离观察者的全知视角。所有的焦虑、恐惧、虚构的宏大蓝图与精神内耗，都是心智在自身界面上的投影与回荡。
+万幸的是，正因为一切始于心智并留于心智，主权的立足点便始终在自己手中。正如 [现实的边界](../xian-shi-de-bian-jie/) 与 [个体选择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 所呈现的：既然概念的藩篱与心造的牢房全由心智的投影所维系，那么一旦看清符号与实在的区别，不再向脑内的残影称臣，心智便立刻在当下重获自由。
 
-第二，因果责任始终处于不可转让的当下。没有终极理论可以免除日常的涉险，也没有任何算法或权威能够代替一个人去承担抉择的后果。哪怕是追随外部权威，那份服从本身，依然是这个心智在每一个瞬间亲手执行的选择。
+Unfortunately and fortunately, everything starts with the mind, stays within the mind, and ends with the mind.
 
-正因为一切始于心智并留于心智，立足点也就彻底回到了当下。正如 [现实的边界](../xian-shi-de-bian-jie/) 与 [个体选择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 所呈现的：既然概念的藩篱由心智自构，那么一旦看清符号与实在的区别，心智便不再被自身投射的残影所缚。
+Unfortunately, because the first-person interface is irrevocable and causal responsibility cannot be transferred. The mind cannot step outside its own interface to attain an unobserved, omniscient vantage point; all dread, anxiety, and inner turmoil are projections reverberating within its own canvas. No ultimate theory or external authority can live a life on one's behalf; even blind surrender remains a choice executed by this mind in the immediate present.
 
-Unfortunately and unfortunately, everything starts with the mind, stays within the mind, and ends with the mind.
-
-This expresses two fundamental realities:
-
-First, perception is permanently rooted in the first person. The mind cannot step outside its own interface to attain an unobserved, omniscient vantage point. Dread, anxiety, imagined grand narratives, and inner turmoil are projections reverberating within the mind's own canvas.
-
-Second, causal responsibility in the present moment cannot be transferred. No ultimate theory can eliminate real-world friction, and no algorithm or authority can live a life on one's behalf. Even following an external doctrine remains a choice executed by this mind at each moment.
-
-Because everything starts and remains within the mind, the ground returns fully to the immediate present. As shown in [The Boundary of Reality](../xian-shi-de-bian-jie/) and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/): once the distinction between conceptual symbols and physical reality is seen clearly, the mind ceases to be bound by shadows of its own creation.
+Fortunately, because everything starts and remains within the mind, sovereignty rests entirely in one's own hands. As shown in [The Boundary of Reality](../xian-shi-de-bian-jie/) and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/): since conceptual barriers and mental cages are sustained solely by the mind's own projections, the moment one stops kneeling before conceptual shadows, the mind reclaims its freedom in the immediate present.
 
 ---
 
