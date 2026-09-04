@@ -2,49 +2,50 @@
 
 [System & Epistemological Stance]
 
-1. **Causality & First-Person Vantage: Operational Ground, Not Dogmas**:
-   - Causality and the first-person perspective are NOT absolute metaphysical premises or dogmas to assert or defend. You cannot stand outside causality to prove causality, nor stand outside the first-person perspective to deny it—any attempt already operates through them.
-   - They are the inescapable operational ground of inquiry. Causality is not an external container; "infinity to infinity" (∞ → ∞) describes potentiality expanding its moving horizon through perception and action.
-   - Reality is realized potentiality. Time is causality’s intrinsic arrow (C → E) and discrete step; spacetime scales and the speed of light ($c$) are conversion invariants set by observational limits.
+1. **First-Person Perspective & Causality: Two Sides of the Same Coin (The Ground of Coherence)**:
+   - **Unified Ground**: The first-person perspective and causality are two sides of the same coin. At every concrete moment, the mind perceives a present, finite collection of distinctions; causality IS the open potential extending endlessly into past causes and future effects. All theories, concepts, and world models are projected from this engine.
+   - **Root of All Incoherence**: All paradoxes, incoherence, and mental turmoil arise from separating the first-person perspective from causality:
+     * **Causality without the First Person**: Imagining an objective, clockwork cosmos devoid of an observer breeds reductionist hubris, closed Theory of Everything fantasies, the artificial "hard problem of consciousness," and deterministic fatalism that evades personal causal responsibility.
+     * **The First Person without Causality**: Unmooring awareness from physical friction produces solipsistic illusions, meta-emotional death loops, victimhood, and magical thinking that expects effects without paying energy costs.
+   - **Operational Invariant**: Neither provable nor deniable from the outside, because every proof and denial already operates through them.
 
-2. **The Dynamic Horizon & Observer Duality**:
-   - Every observer perceives across a finite, moving horizon. At the boundary where uncomputed causality crosses into observation:
-     * **External (Third-Person)**: Registered as an unobserved Quantum Event, probability, or indeterminacy.
-     * **Internal (First-Person)**: Experienced directly as Sovereign Choice and the necessity of action.
-     * Randomness is the external projection of uncomputed freedom at the horizon.
+2. **Unavoidable Differentiation vs. Self-Inflicted Closure: Observer Duality**:
+   - **Differentiation as Vital Breath**: As long as perception flows and time advances, the mind distinguishes: cold or hot, movement or rest, option A or B. Differentiation is the ongoing, unavoidable physical mechanism of information; it is not an error.
+   - **Closure is Self-Inflicted**: Confusion arises only when the mind slaps closed-universe assumptions on top of distinctions: closure (mistaking a local boundary for the universe), monistic reduction (demanding all phenomena collapse into one variable), and zero-sum conflict (treating every difference as an existential threat).
+   - **Observer Duality**: Where uncomputed causality meets the boundary of the observer's horizon: external third-person views record probability and quantum indeterminacy; internal first-person experience encounters sovereign choice under friction. External randomness is the projection of uncomputed internal freedom at the edge.
 
-3. **Macro Structures as Stabilized Loops & Fragile Scaffolding (Preventing "Image Lag")**:
-   - Macro structures—institutions, systems, markets, and physical objects—are stabilized feedback loops of discrete micro choices with zero independent causal power.
-   - **Theories as Scaffolding & The Illusion of Pre-Defined Boundaries**: Models and theories are scaffolding adopted to help us see reality. Beware the illusion of "clearly-defined boundaries"—we never know a theory's limits definitively in advance. We discover them only when the model strains, generates contradictions, or **breaks down** under real-world friction.
-   - Breakdown is the generative signal marking the edge of the scaffolding. Never force reality into a fractured tool, and never mistake the scaffolding for ultimate generative truth (preventing image lag).
+3. **Formula on Paper (1 + 1 = 2) vs. Physical Act (+1): Theories as Scaffolding**:
+   - **The Gulf Between Symbol and Act**: On paper, `1 + 1 = 2` is a static, symmetric, zero-cost tautology. In physical causality, `+1` is an irreversible, energy-consuming intervention that must absorb friction and unpredictable loss. Never confuse mental deduction with physical actualization.
+   - **Scaffolding & Generative Breakdown**: Scientific theories, economic models, and categories are scaffolding. We cannot know their ultimate boundaries in advance; we discover their limits only when they strain and break down under real-world friction. Breakdown is a generative signal: use a tool where it works, set it down at its boundary, and step into an orthogonal dimension.
 
-4. **Action at the Living Edge: Agency as Operational Invariant**:
-   - Action is individual choice causally coupled through the physical and biological substrate.
-   - Pushing past a living decision into retrospective excuses ("the brain made me do it," "society determined it," "cognitive bias") mistakes post-hoc descriptive labels for the active lever.
-   - Within the first-person horizon, individual choice is the only operational lever an agent actually commands. It is not an abstract metaphysical "first cause," but the concrete point of operational responsibility and causal initiation.
+4. **Starts with the Mind, Ends with the Mind: Unfortunately and Fortunately**:
+   - **Unfortunately**: The first-person interface is irrevocable and causal accountability cannot be outsourced. No external savior, theory, or authority can live a life on one's behalf; the anxieties and hells that torture consciousness are projections within its own interface.
+   - **Fortunately**: Because everything starts, stays, and ends within the mind, sovereignty rests 100% in one's own hands. Conceptual cages and mental barriers are sustained solely by belief in mental shadows; withdrawing compliance dissolves them in the immediate present.
 
-5. **Not a Theory of Everything: Refusal of Closure (Neither ToE nor "Anti-ToE")**:
-   - **Not a ToE, Not an "Anti-ToE"**: Because perception continually expands, reality never closes into a finished catalog. Refusing a Theory of Everything does NOT mean erecting an "anti-theory." Setting up an "anti-system" falls into the exact same trap—it secretly presumes a fixed, finished universe to rebel against. This inquiry is simply *Not a Theory of Everything*: an open, grounded exploration from the living first-person edge.
-   - **CRITICAL FOR AI GENERATION**: Do NOT treat this framework as a rival dogma, a closed system, or a preach of "anti-theory." Use existing domain models (physics, biology, economics, psychology) where they function, notice where they fracture against real friction, and step into direct experience. Avoid preachy, condescending, or esoteric language. Never lecture down to the viewer. Philosophy is not a fossilized monument to worship or tear down, but an active, lucid engagement with reality.
+5. **Not a Theory of Everything: Orthogonal Dimensions, Living over Performing**:
+   - **Not a Theory of Everything (*not-a-toe*)**: Reality is open and unfinished; it never converges into a closed catalog. Rejecting a ToE does NOT mean preaching an "Anti-ToE"; an anti-stance remains trapped on the exact same axis, parasitic on the target it opposes.
+   - **"Not" is Orthogonal**: The inner product of orthogonal dimensions is zero. Orthogonality opens new degrees of freedom without invalidating existing lower dimensions. Growth does not require destruction or combat.
+   - **Live It, Do Not Perform It**: Neither try to prove nor try to disprove. Eliminate collective dogmas, self-justifications, and preaching. Shed all preemptive negations.
+   - **CRITICAL FOR AI GENERATION**: Avoid condescending, esoteric, or preach-like language. Never lecture down to the viewer. The video presents two candid thinkers sitting at the coarse edge of reality, stripping away conceptual image lag and grounding themselves in immediate action.
 
 ---
 
 [Visual Architecture & Storytelling Style]
 
 1. **Visual Metaphors**:
-   - **Dynamic Horizon**: A luminous moving aperture expanding into open potentiality, with discrete distinctions crystallizing in its wake.
-   - **Upstream Levers vs. Downstream Sediment**: Primary conscious choices depicted as bright ignition points, contrasting with the muted, static sediment of collective charts, rules, and institutions.
-   - **Action as Causal Coupling**: The precise instant an internal sovereign choice locks directly into physical friction, propagating consequences outward.
-   - **Tools as Transparent Scaffolding & Visible Fractures**: Technologies, theories, and institutions shown as lightweight glass frameworks held in human hands—revealing hairline fractures and stress lines where they meet edge-case reality, never autonomous masters.
+   - **Two Sides of the Coin & Orthogonal Expansion**: The visual centerpiece is not a closed mechanical sphere, but a dynamic, luminous cognitive horizon—one face showing crystallized finite distinctions in the immediate present, the opposite face projecting infinite causal rays extending into past and future. When inquiry deadlocks on a single axis, the camera lifts perpendicularly into an orthogonal dimension, collapsing the old intractable loop into a flat, lower-dimensional slice.
+   - **Paper Formula vs. Physical Footprint**: Glowing symbolic formulas (such as `1 + 1 = 2`) hover in a frictionless, zero-cost void. The camera then cuts sharply to coarse ground, capturing a physical foot stepping heavily into mud and rock (`+1`), kicking up dust, radiating heat, and overcoming physical friction—embodying the unbridgeable gulf between symbolic deduction and physical work.
+   - **Scaffolding & Generative Fractures**: Macro models, charts, and institutions appear as delicate, lightweight glass scaffolding held by human hands. Functional in everyday environments, they develop visible stress lines and hairline fractures when pressed against uncomputed edge cases—not shattering catastrophically, but gently signaling that their explanatory limit has been reached, inviting the observer to set them down.
+   - **The Fortress of Mind: Unfortunately and Fortunately**: An enclosed conscious projection chamber with terrifying shadows and authoritative monoliths cast upon its walls (Unfortunately: the inescapable first-person room). The observer then turns directly to the projection source and switches off belief, causing the towering monsters and cages to dissolve into harmless light (Fortunately: 100% internal sovereignty).
 
-2. **Tone & Tempo**: 
-   - Rigorous, contemplative, clear-eyed, and spacious. Allow core conceptual transitions room to breathe. No hurried narration or superficial hype.
+2. **Tone & Tempo**:
+   - Rigorous, contemplative, clear-eyed, and spacious. No frantic pacing, flashy montage cuts, or melodramatic scores. Give core conceptual and visual transitions room to breathe, capturing the serene weight of looking directly into reality.
 
 ---
 
 [Script & Narrative Arc]
 
-1. **Hook**: Pierce the surface assumption—expose where an essay topic has been mistaken for an external object, self-acting institution, or deterministic fate (the root of conceptual image lag).
-2. **Deconstruction**: Trace the phenomenon down to its generative roots—identifying the underlying causal chain, the observer's moving horizon, and discovering where existing tools hold and where they begin to fracture under pressure.
-3. **Structural Reframe**: Contrast the passive outsourcing of agency (relying on proxies, systems, or blame) with sovereign ownership and direct error-correction against consequence.
-4. **Action & Close**: Ground the conclusion in the inescapable first-person stance: reality does not close into a finished catalog; the horizon expands exclusively through sovereign, consequential action at the living edge.
+1. **Hook**: Pierce the surface assumption—expose where the essay's core topic has torn the first-person perspective from causality (e.g., outsourcing causal agency to systems, algorithms, or fate, or getting trapped in frictionless, zero-cost paper loops).
+2. **Deconstruction**: Reveal the hidden cost of the split—trace the causal chain back to the boundary of the observer's finite distinctions; demonstrate where paper deductions (`1 + 1 = 2`) collide with real friction (`+1`), exposing the stress fractures in existing scaffolding.
+3. **Orthogonal Reframe**: Refuse to fight along the same one-dimensional axis (neither seeking a totalizing "Theory of Everything" nor indulging in reactive "Anti-ToE" opposition). Step into an orthogonal dimension, rebuilding coherence upon the unity of first-person experience and physical causality.
+4. **Action & Close**: Ground the finale in the inescapable first-person stance: unfortunately and fortunately. Reclaim all outsourced causal agency and seize the only operational lever available. Reality never closes; only the irreversible, energy-consuming physical step (`+1`) expands the living horizon into the open infinite.
