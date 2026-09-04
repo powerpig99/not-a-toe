@@ -1,22 +1,18 @@
 # 不是大一统理论 / Not a Theory of Everything
 
-*无受众的沉思：感知、诠释，与从不封顶的清晰。 / Reflection without an audience: sensing, interpreting, and never claiming final clarity.*
+*感知、诠释，与从不封顶的清晰。 / Sensing, interpreting, and never claiming final clarity.*
 
 ---
 
 ## 序言：立足点 / Preamble: The Ground
 
-`not-a-toe`（不是大一统理论）不是一个待证立的口号，也不是一面立给外部世界看的旗帜。它仅仅是一个心智在面对现实时，记下的最基础的边界条件。
+`not-a-toe`（不是大一统理论）不是一个待证立的口号。它仅仅是一个心智在面对现实时，记下的最基础的边界条件。
 
 没有“我们”。只有一个具体的心智在每一个具体的当下，试图尽可能清晰地去感知、诠释和呈现正在发生的存在，同时深知：任何清晰都只是局部的解析度，绝非终极的盖棺定论。
 
-这里没有任何需要向观众辩解的意图，也不存在需要向其自证的舞台——甚至连“观察着自己的那个自我”，都不应成为台下的看客。一旦心智把自身当成演员去审视，沉思就立刻退化成了自恋或自省的表演。
-
-`not-a-toe` (Not a Theory of Everything) is not a slogan to be defended, nor a banner raised for an outside world. It is simply the baseline boundary condition recorded by a mind encountering reality.
+`not-a-toe` (Not a Theory of Everything) is not a slogan to be defended. It is simply the baseline boundary condition recorded by a mind encountering reality.
 
 There is no "we." There is only this mind, at each concrete moment, attempting to sense, interpret, and present what is happening as clearly as possible, while never claiming final clarity. Any clarity reached is merely local resolution, never a completed enclosure.
-
-There is no intention to explain anything to an audience, nor a stage on which to justify oneself—not even the self observing itself as a spectator. The moment reflection watches itself perform, it degenerates into a theater of self-regard.
 
 ---
 
@@ -178,24 +174,16 @@ Truth is not property that can be signed over in a will. Each consciousness can 
 
 ## 七、 持续描摹：感知、诠释，与从不封顶的清晰 / 7. Keep Tracing: Sensing, Interpreting, and Never Claiming Final Clarity
 
-没有观众，甚至没有“作为一个观众来审视自身的那个自我”。
+事实是极其朴素的：
+这个心智在行进，在感知，在诠释，并试图尽可能清晰地呈现现实。
 
-一旦开始向外解释“为什么写下这些”，或者试图在内心里为自己扮演一个清醒的独行者，心智就已经从直接的因果摩擦中退席，溜回了安全的看台。
-
-剩下的只有极其朴素的事实：
-这个心智在行进，在感知，在诠释，并试图尽可能清晰地呈现现实的原貌。
-
-但清晰从不是终点，更不是一套终极的答案。任何被表述出来的清晰，都只是心智在某一尺度、某一断面上的聚焦。现实本身没有穹顶，也不存在一个可以彻底合拢的箱子。描摹不是为了给现实立法，而是在不可逆的时间洪流中，保持对粗粝摩擦的敏锐，记录下每一次被现实校准的刻度。
+但清晰从不是终点，更不是一套终极的答案。任何被表述出来的清晰，都只是心智在某一尺度、某一断面上的局部聚焦。现实本身没有穹顶，也不存在一个可以彻底合拢的箱子。描摹不是为了给现实立法，而是在不可逆的时间洪流中，保持对粗粝摩擦的敏锐，记录下每一次被现实校准的刻度。
 
 不试图证明什么，不设立标杆，也不宣称任何终极的清晰。
 
-只是在这个具体的角落，踩定真实的泥土，持续描摹。
+只是在这个具体的角落，踩定脚下的泥土，持续描摹。
 
-There is no audience—not even the self observing itself as an audience.
-
-The moment one begins explaining to an outside world why these words are written, or begins inwardly staging the drama of a solitary, sober thinker, the mind has already retreated from direct causal friction and slipped back into the spectator seats.
-
-What remains is only the plain, irreducible fact:
+The fact is entirely plain:
 This mind moving, sensing, interpreting, and presenting reality as clearly as it can.
 
 Yet clarity is never an endpoint, and certainly not a final answer. Any clarity that can be formulated is merely the mind focusing at a particular scale, across a particular slice of experience. Reality has no ceiling; there is no box that can ever be sealed shut. Tracing is not about handing down laws to the world; it is simply staying attuned to the coarse friction of irreversible time, recording each adjustment forced upon the mind by reality.
