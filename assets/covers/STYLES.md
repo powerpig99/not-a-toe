@@ -229,6 +229,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic Möbius / dual-weather infinity panorama** | Figure on circular dais, nested tunnel, gold–cyan Möbius light loop, lightning split, storm vs sunlit valley, title overlay; operator drop | `how-to-fix-your-whole-life-in-one-split-second` |
 | **Cinematic figure / gold-stream geometric lattice** | Figure at left, gold particle stream from the chest into a silver-blue glass polyhedral lattice of currency glyphs and diagrams; dark void, cinematic light; operator drop | `agency-relocated-into-the-formal-model` |
 | **Cinematic shatter-field / chest-sun panorama** | Split: dark shattered-glass circuit field left; figure on ridge with gold burst from the chest; sunlit river valley and sunrise right; operator drop | `the-generative-contradiction` |
+| **Cinematic action chiaroscuro / shattered blueprint** | Full-bleed dynamic action field: runner's mud-caked trail shoe striking coarse earth, kicking up golden dust while shattering rigid 2D blueprint grids and leg braces into fragments, opening into an expansive sunrise terrain | `po-chu-gai-nian-de-jian-yue` |
 
 ## Inventory (by slug)
 
@@ -451,6 +452,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-extendable-horizon` | Early 20th-century astronomical navigation chart and celestial astrolabe etching on weathered sea-salt vellum parchment with concentric expanding brass astrolabe meridian rings, glowing golden horizon curves lifting into deep indigo dawn, and a single brilliant focal point emitting an expanding spherical wave of golden ripples in the foreground |
 | `the-deterministic-machine` | 18th-century Enlightenment philosophical automaton and dark Baroque chiaroscuro mechanical clockwork engraving on aged fibrous paper with an octagonal glass display case enclosing blackened iron and polished brass gears, a suspended polished white porcelain mirror mask staring at its own reflection, and a single luminous golden key floating in open air outside |
 | `the-unclosable-trace` | Baroque chiaroscuro drafting scene on aged vellum with an intricate brass drafting compass and ink quill drawing an open glowing geometric incision that spirals into an infinite starry horizon, contrasting with shadowy bookshelves of locked encyclopedia volumes and cold classical marble busts in the background |
+| `po-chu-gai-nian-de-jian-yue` | Cinematic conceptual action chiaroscuro of a runner's mud-caked shoe forcefully striking coarse earth and kicking up golden dust, shattering rigid 2D blueprint gridlines and mechanical braces behind into flying fragments, striding into an open sunrise landscape |
 
 ## Crowded — prefer not to extend
 

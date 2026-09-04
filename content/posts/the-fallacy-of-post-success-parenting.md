@@ -105,6 +105,6 @@ Parental stewardship does not consist of designing a gilded, friction-free green
 
 * Providing physical safety, emotional stability, and foundational causal models;
 * Cultivating a supportive relationship that fosters trust without imposing a destination;
-* Stepping out of the vehicle and allowing the individual to face the raw friction of the world.
+* Stepping out of the vehicle and allowing the individual to face the raw friction of the world. [Overcoming the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/) articulates the cybernetic mechanics of this insulation: by clearing away real-world friction, parents inadvertently erase the primary loss functions that a developing mind requires to adjust its internal weights, stranding the next generation in an unclosable double bind.
 
 A life cannot be authored by proxy. True capacity emerges only when an individual possesses the space, permission, and sovereign freedom to navigate their own frontiers, fight their own battles, and author a trajectory that is entirely their own.

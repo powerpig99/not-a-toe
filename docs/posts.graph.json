@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-04T05:20:09.400Z",
+    "generated_at": "2026-09-04T06:55:49.237Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -36,12 +36,12 @@
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "7565d5a1e4a7",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "880b80df20dc",
-      "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "e66992834fae",
+      "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "5c6e9279a4aa",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "5b80b9d897c0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
-      "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "b6bc8f5a921c",
+      "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "056dc4f77e4b",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "dd0ed9c0fcf8",
       "content/posts/curiosity-has-no-final-form.md": "954585684515",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
@@ -131,6 +131,7 @@
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "341602f294d2",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
+      "content/posts/po-chu-gai-nian-de-jian-yue.md": "f6342a18faa4",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "747ea3076203",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "0d71e0d1ccb6",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "b3860817582f",
@@ -186,7 +187,7 @@
       "content/posts/the-deterministic-machine.md": "011f85bfb5e1",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-extendable-horizon.md": "16c6a9ecd2f7",
-      "content/posts/the-fallacy-of-post-success-parenting.md": "690e4af2d3d6",
+      "content/posts/the-fallacy-of-post-success-parenting.md": "cb2cd5c5ac3b",
       "content/posts/the-fixed-image-of-transcendence.md": "7c3ba6ced47b",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3cd05b0818a",
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
@@ -293,23 +294,23 @@
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "e4aab029e499",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "ef42796b2862",
       "content/posts/zi-you-de-ce-bu-zhun.md": "32b2df0b732b",
-      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "9b7a8bdca445",
+      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "203dc63091d4",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 287,
-      "edges": 2850,
-      "unique_directed": 2817,
+      "posts": 288,
+      "edges": 2867,
+      "unique_directed": 2834,
       "missing_targets": 0,
-      "one_way": 631,
+      "one_way": 640,
       "isolated": 35,
-      "posts_with_outbound": 234
+      "posts_with_outbound": 235
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 75
+      "in_degree": 76
     },
     {
       "slug": "openness-is-consistency",
@@ -324,11 +325,11 @@
       "in_degree": 50
     },
     {
-      "slug": "ownership-and-self-worthiness",
-      "in_degree": 47
+      "slug": "the-scaffolding-we-forget",
+      "in_degree": 48
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 47
     },
     {
@@ -340,16 +341,20 @@
       "in_degree": 38
     },
     {
+      "slug": "causality-all-the-way",
+      "in_degree": 30
+    },
+    {
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 30
     },
     {
-      "slug": "causality-all-the-way",
+      "slug": "hierarchy-from-individual-difference",
       "in_degree": 29
     },
     {
-      "slug": "hierarchy-from-individual-difference",
-      "in_degree": 29
+      "slug": "the-model-never-becomes-a-second-edge",
+      "in_degree": 28
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -357,10 +362,6 @@
     },
     {
       "slug": "self-rl-for-humans",
-      "in_degree": 27
-    },
-    {
-      "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 27
     },
     {
@@ -796,7 +797,7 @@
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
       "hash": "9344804c6770",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -890,7 +891,7 @@
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学: Theories After Success, Mistaken for Theories Leading to Success",
       "hash": "f451243afbd5",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 16,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -1154,9 +1155,9 @@
       "slug": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "path": "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md",
       "title": "从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制",
-      "hash": "e66992834fae",
-      "in_degree": 7,
-      "out_degree": 12,
+      "hash": "5c6e9279a4aa",
+      "in_degree": 8,
+      "out_degree": 13,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "intelligence-belongs-only-to-the-mind",
@@ -1169,7 +1170,8 @@
         "zi-you-de-ce-bu-zhun",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "the-unobservable-driver-of-learning",
-        "individual-choices-as-the-only-causal-levers"
+        "individual-choices-as-the-only-causal-levers",
+        "po-chu-gai-nian-de-jian-yue"
       ]
     },
     {
@@ -1242,15 +1244,16 @@
       "slug": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "path": "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md",
       "title": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则",
-      "hash": "b6bc8f5a921c",
-      "in_degree": 7,
-      "out_degree": 5,
+      "hash": "056dc4f77e4b",
+      "in_degree": 8,
+      "out_degree": 6,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "mistaking-the-expression-for-the-intelligence",
         "expertise-as-reference-not-replacement",
-        "the-unobservable-driver-of-learning"
+        "the-unobservable-driver-of-learning",
+        "po-chu-gai-nian-de-jian-yue"
       ]
     },
     {
@@ -2162,7 +2165,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "1822bc1fbdea",
-      "in_degree": 75,
+      "in_degree": 76,
       "out_degree": 54,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2394,7 +2397,7 @@
       "path": "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md",
       "title": "路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎",
       "hash": "da930db54d6f",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 7,
       "links_out": [
         "the-mark-and-the-act",
@@ -3160,6 +3163,31 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:po-chu-gai-nian-de-jian-yue",
+      "kind": "post",
+      "slug": "po-chu-gai-nian-de-jian-yue",
+      "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
+      "title": "破除概念的僭越：第一人称、因果之矢与未完的现实",
+      "hash": "f6342a18faa4",
+      "in_degree": 4,
+      "out_degree": 13,
+      "links_out": [
+        "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+        "the-arithmetic-of-the-register",
+        "xian-shi-de-bian-jie",
+        "the-model-never-becomes-a-second-edge",
+        "causality-all-the-way",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+        "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+        "the-deterministic-machine",
+        "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+        "individual-choices-as-the-only-causal-levers",
+        "cheng-gong-xue",
+        "the-fallacy-of-post-success-parenting",
+        "the-scaffolding-we-forget"
+      ]
     },
     {
       "id": "post:politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
@@ -4039,7 +4067,7 @@
       "path": "content/posts/the-arithmetic-of-the-register.md",
       "title": "The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field",
       "hash": "80aad6ff0d48",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 7,
       "links_out": [
         "dimensions-are-projections",
@@ -4366,7 +4394,7 @@
       "path": "content/posts/the-deterministic-machine.md",
       "title": "The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power",
       "hash": "011f85bfb5e1",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "the-continuum-of-the-fold",
@@ -4427,9 +4455,9 @@
       "slug": "the-fallacy-of-post-success-parenting",
       "path": "content/posts/the-fallacy-of-post-success-parenting.md",
       "title": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle",
-      "hash": "690e4af2d3d6",
-      "in_degree": 3,
-      "out_degree": 10,
+      "hash": "cb2cd5c5ac3b",
+      "in_degree": 4,
+      "out_degree": 11,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
         "the-geometry-of-success",
@@ -4440,7 +4468,8 @@
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "ownership-and-self-worthiness",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
-        "the-generative-mechanics-of-value-money-and-wealth"
+        "the-generative-mechanics-of-value-money-and-wealth",
+        "po-chu-gai-nian-de-jian-yue"
       ]
     },
     {
@@ -5098,7 +5127,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "07bfe796d04b",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 31,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -5711,7 +5740,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3fcc945ba028",
-      "in_degree": 47,
+      "in_degree": 48,
       "out_degree": 32,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6515,7 +6544,7 @@
       "path": "content/posts/xian-shi-de-bian-jie.md",
       "title": "现实的边界",
       "hash": "5bbd95975446",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 9,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -6683,9 +6712,9 @@
       "slug": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "path": "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md",
       "title": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择",
-      "hash": "9b7a8bdca445",
-      "in_degree": 4,
-      "out_degree": 10,
+      "hash": "203dc63091d4",
+      "in_degree": 5,
+      "out_degree": 11,
       "links_out": [
         "the-scaffolding-that-keeps-growing",
         "what-information-is",
@@ -6696,6 +6725,7 @@
         "causality-all-the-way",
         "ownership-and-self-worthiness",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+        "po-chu-gai-nian-de-jian-yue",
         "individual-choices-as-the-only-causal-levers"
       ]
     },
@@ -8676,6 +8706,12 @@
       "label": "个体选择作为唯一的因果杠杆"
     },
     {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
+    },
+    {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "no-genius-can-solve-the-knowledge-problem",
       "rel": "points_to",
@@ -8812,6 +8848,12 @@
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
       "label": "学习过程中不可观察的驱动力"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -14064,6 +14106,84 @@
       "label": "The allocation of causal power in validation"
     },
     {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "从形式迷思到逻辑闭环"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "寄存器的算术"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "xian-shi-de-bian-jie",
+      "rel": "points_to",
+      "label": "现实的边界"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "彻头彻尾的因果律"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "自尊的刚性外壳与隐性外部归因"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "the-deterministic-machine",
+      "rel": "points_to",
+      "label": "决定论机器"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "rel": "points_to",
+      "label": "路口的转向与地平说的行动悖论"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体选择作为唯一的因果杠杆"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "成功后育儿的谬误"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
       "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
@@ -17596,6 +17716,12 @@
       "to": "the-generative-mechanics-of-value-money-and-wealth",
       "rel": "points_to",
       "label": "The Generative Mechanics of Value, Money, and Wealth"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Overcoming the Usurpation of Concepts"
     },
     {
       "from": "the-fixed-image-of-transcendence",
@@ -23776,6 +23902,12 @@
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
       "label": "从目的性的评判看认知缺失"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
