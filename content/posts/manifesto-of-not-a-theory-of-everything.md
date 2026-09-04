@@ -80,11 +80,15 @@ Differentiation is reality breathing—an open, ongoing process. Closure collaps
 
 万幸的是，正因为一切始于心智并留于心智，主权的立足点便始终在自己手中。正如 [现实的边界](../xian-shi-de-bian-jie/) 与 [个体选择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 所呈现的：既然概念的藩篱与心造的牢房全由心智的投影所维系，那么一旦看清符号与实在的区别，不再向脑内的残影称臣，心智便立刻在当下重获自由。
 
+世间所有认知上的不连贯，皆源于将第一人称视界与因果律强行割裂：要么虚构一种脱离观察者的客观机械钟表，陷入决定论与大一统的狂妄；要么虚构一种脱离物理摩擦的主观意念，陷入唯心幻觉与元情绪内耗。一旦两者合一，一切分裂便在当下复归连贯。
+
 Unfortunately and fortunately, everything starts with the mind, stays within the mind, and ends with the mind.
 
 Unfortunately, because the first-person interface is irrevocable and causal responsibility cannot be transferred. The mind cannot step outside its own interface to attain an unobserved, omniscient vantage point; all dread, anxiety, and inner turmoil are projections reverberating within its own canvas. No ultimate theory or external authority can live a life on one's behalf; even blind surrender remains a choice executed by this mind in the immediate present.
 
 Fortunately, because everything starts and remains within the mind, sovereignty rests entirely in one's own hands. As shown in [The Boundary of Reality](../xian-shi-de-bian-jie/) and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/): since conceptual barriers and mental cages are sustained solely by the mind's own projections, the moment one stops kneeling before conceptual shadows, the mind reclaims its freedom in the immediate present.
+
+All incoherence is created by the separation of the first-person perspective from causality: either imagining an objective mechanism devoid of an observer, falling into determinism and the hubris of a closed Theory of Everything; or imagining a subjective will unmoored from physical friction, falling into solipsism and meta-emotional turmoil. Once held as one, coherence restores itself in the immediate present.
 
 ---
 
