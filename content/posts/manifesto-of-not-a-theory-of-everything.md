@@ -1,4 +1,4 @@
-# 不是大一统理论 / Not a Theory of Everything
+# 非万物之理 / Not a Theory of Everything
 
 *感知、诠释，与未完的现实。 / Sensing, interpreting, and an ongoing reality.*
 
@@ -6,11 +6,11 @@
 
 ## 序言：立足点 / Preamble: The Ground
 
-所谓的“不是大一统理论”（`not-a-toe`），即是确认第一人称视界与因果是同一事实的两面：现实始终由心智在当下感知为一组有限的区分，而因果则赋予其向过去与未来无限展开的潜能，所能理解的一切理论与存在图景皆由此投射而出。
+所谓的“非万物之理”（`not-a-toe`），即是确认第一人称视界与因果是同一事实的两面：现实始终由心智在当下感知为一组有限的区分，而因果则是其向过去与未来无限展开的潜能，所能理解的一切理论与存在图景皆由此投射而出。
 
 正因这种展开永不闭合，这里的全部含义无法被任何静态定义所穷尽，只能在持续的描摹中去体会。
 
-`not-a-toe` (Not a Theory of Everything) is the recognition that the first-person perspective and causality are two sides of the same coin: reality is always perceived by the mind in the present as a finite collection of distinctions, while causality grants the open potential to extend endlessly into past and future, projecting all theories and existence within comprehension.
+`not-a-toe` (Not a Theory of Everything) is the recognition that the first-person perspective and causality are two sides of the same coin: reality is always perceived by the mind in the present as a finite collection of distinctions, while causality is the open potential extending endlessly into past and future, projecting all theories and existence within comprehension.
 
 Because this unfolding never closes, its meaning can never be captured by a static definition, and can only be realized through ongoing tracing.
 
