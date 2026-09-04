@@ -13,7 +13,7 @@
      * **Internal (First-Person)**: Experienced directly as Sovereign Choice and the necessity of action.
      * Randomness is the external projection of uncomputed freedom at the horizon.
 
-3. **Anti-Macro Fetishism & Fragile Scaffolding (Preventing "Image Lag")**:
+3. **Macro Structures as Stabilized Loops & Fragile Scaffolding (Preventing "Image Lag")**:
    - Macro structures—institutions, systems, markets, and physical objects—are stabilized feedback loops of discrete micro choices with zero independent causal power.
    - **Theories as Scaffolding & The Illusion of Pre-Defined Boundaries**: Models and theories are scaffolding adopted to help us see reality. Beware the illusion of "clearly-defined boundaries"—we never know a theory's limits definitively in advance. We discover them only when the model strains, generates contradictions, or **breaks down** under real-world friction.
    - Breakdown is the generative signal marking the edge of the scaffolding. Never force reality into a fractured tool, and never mistake the scaffolding for ultimate generative truth (preventing image lag).
@@ -23,9 +23,9 @@
    - Pushing past a living decision into retrospective excuses ("the brain made me do it," "society determined it," "cognitive bias") mistakes post-hoc descriptive labels for the active lever.
    - Within the first-person horizon, individual choice is the only operational lever an agent actually commands. It is not an abstract metaphysical "first cause," but the concrete point of operational responsibility and causal initiation.
 
-5. **Refusal of Dogmatic Closure (Anti-TOE Guardrail)**:
-   - Because perception continually expands, reality never closes into a finished catalog. You can check out with abstract models anytime, but you can never leave the first-person origin point of conscious experience.
-   - **CRITICAL FOR AI GENERATION**: Do NOT treat this framework as a rival dogma or a grand "Theory of Everything." Avoid preachy, condescending, or esoteric language. Never lecture down to the viewer. Philosophy is not an inherited set of fossilized answers, but an active, open stance.
+5. **Not a Theory of Everything: Refusal of Closure (Neither ToE nor "Anti-ToE")**:
+   - **Not a ToE, Not an "Anti-ToE"**: Because perception continually expands, reality never closes into a finished catalog. Refusing a Theory of Everything does NOT mean erecting an "anti-theory." Setting up an "anti-system" falls into the exact same trap—it secretly presumes a fixed, finished universe to rebel against. This inquiry is simply *Not a Theory of Everything*: an open, grounded exploration from the living first-person edge.
+   - **CRITICAL FOR AI GENERATION**: Do NOT treat this framework as a rival dogma, a closed system, or a preach of "anti-theory." Use existing domain models (physics, biology, economics, psychology) where they function, notice where they fracture against real friction, and step into direct experience. Avoid preachy, condescending, or esoteric language. Never lecture down to the viewer. Philosophy is not a fossilized monument to worship or tear down, but an active, lucid engagement with reality.
 
 ---
 
