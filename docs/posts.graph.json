@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-04T12:24:34.006Z",
+    "generated_at": "2026-09-04T12:28:14.956Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -97,7 +97,7 @@
       "content/posts/looping-and-graphing.md": "b2acdecafde8",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "23b0506a4f6b",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "da930db54d6f",
-      "content/posts/manifesto-of-not-a-theory-of-everything.md": "d5baed940cda",
+      "content/posts/manifesto-of-not-a-theory-of-everything.md": "f6b901a9ead4",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "30b8585c7f67",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "ef157cded87e",
@@ -194,7 +194,7 @@
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "f6299229ed66",
-      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "692018d9ef9d",
+      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "a459e322881c",
       "content/posts/the-generative-contradiction.md": "30e18c0a4d95",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "3c600d32c6d1",
       "content/posts/the-generative-topology-of-free-variables.md": "23f787d49fed",
@@ -2415,8 +2415,8 @@
       "kind": "post",
       "slug": "manifesto-of-not-a-theory-of-everything",
       "path": "content/posts/manifesto-of-not-a-theory-of-everything.md",
-      "title": "不是大一统理论 / Not a Theory of Everything",
-      "hash": "d5baed940cda",
+      "title": "非万物之理 / Not a Theory of Everything",
+      "hash": "f6b901a9ead4",
       "in_degree": 1,
       "out_degree": 7,
       "links_out": [
@@ -4602,7 +4602,7 @@
       "slug": "the-generative-atlas-of-macroscopic-phenomena",
       "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
       "title": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction",
-      "hash": "692018d9ef9d",
+      "hash": "a459e322881c",
       "in_degree": 6,
       "out_degree": 13,
       "links_out": [
@@ -18174,7 +18174,7 @@
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "manifesto-of-not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "Manifesto of the Not-a-Theory of Everything"
+      "label": "非万物之理 / Not a Theory of Everything"
     },
     {
       "from": "the-generative-contradiction",
