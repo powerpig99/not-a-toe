@@ -51,50 +51,34 @@ function escapeHtml(text) {
 
 function applyEmphasis(text) {
   return text
-    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/(?<!\*)\*([^*]+)\*(?!\*)/g, '<em>$1</em>');
 }
 
-function renderTextSegment(rawText) {
-  let output = '';
-  let cursor = 0;
-  const linkRegex = /\[([^\]]+)\]\(([^)]*)\)/g;
-  let match;
-
-  while ((match = linkRegex.exec(rawText)) !== null) {
-    const [full, label, href] = match;
-    const start = match.index;
-
-    if (start > cursor) {
-      output += applyEmphasis(escapeHtml(rawText.slice(cursor, start)));
-    }
-
-    const cleanHref = href.trim();
-    if (!cleanHref) {
-      output += applyEmphasis(escapeHtml(label));
-    } else {
-      output += `<a href="${escapeHtml(cleanHref)}">${applyEmphasis(escapeHtml(label))}</a>`;
-    }
-    cursor = start + full.length;
-  }
-
-  if (cursor < rawText.length) {
-    output += applyEmphasis(escapeHtml(rawText.slice(cursor)));
-  }
-
-  return output;
-}
-
 function formatInline(text) {
-  const parts = text.split(/(`[^`]+`)/g);
-  return parts
-    .map((part) => {
-      if (part.startsWith('`') && part.endsWith('`') && part.length >= 2) {
-        return `<code>${escapeHtml(part.slice(1, -1))}</code>`;
-      }
-      return renderTextSegment(part);
-    })
-    .join('');
+  const codeTokens = [];
+  let processed = text.replace(/`([^`]+)`/g, (_full, codeContent) => {
+    const idx = codeTokens.length;
+    codeTokens.push(`<code>${escapeHtml(codeContent)}</code>`);
+    return `\uE000${idx}\uE001`;
+  });
+
+  const linkTokens = [];
+  processed = processed.replace(/\[([^\]]+)\]\(([^)]*)\)/g, (_full, label, href) => {
+    const idx = linkTokens.length;
+    const cleanHref = href.trim();
+    const renderedLabel = applyEmphasis(escapeHtml(label));
+    const html = cleanHref
+      ? `<a href="${escapeHtml(cleanHref)}">${renderedLabel}</a>`
+      : renderedLabel;
+    linkTokens.push(html);
+    return `\uE002${idx}\uE003`;
+  });
+
+  processed = applyEmphasis(escapeHtml(processed));
+  processed = processed.replace(/\uE002(\d+)\uE003/g, (_m, idx) => linkTokens[Number(idx)]);
+  processed = processed.replace(/\uE000(\d+)\uE001/g, (_m, idx) => codeTokens[Number(idx)]);
+  return processed;
 }
 
 /**
