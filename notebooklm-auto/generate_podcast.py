@@ -61,16 +61,9 @@ async def generate_podcast(
     cdp_url: str = DEFAULT_CDP_URL,
     timeout_mins: int = 15
 ):
-    prompt_file = Path(prompt_path).resolve()
     output_file = Path(output_path).resolve()
-
-    if not prompt_file.is_file():
-        raise FileNotFoundError(f"Prompt template file not found at: {prompt_file}")
-
     output_file.parent.mkdir(parents=True, exist_ok=True)
     LOG_DIR.mkdir(parents=True, exist_ok=True)
-
-    prompt_content = prompt_file.read_text(encoding="utf-8")
 
     if source_url:
         log(f"Source mode: Web URL -> {source_url}")
@@ -85,6 +78,18 @@ async def generate_podcast(
     else:
         raise ValueError("Either --url or --source must be specified.")
 
+    # Auto-detect post-specific prompt if default prompt is specified
+    prompt_file = Path(prompt_path).resolve()
+    if prompt_path == DEFAULT_PROMPT:
+        custom_prompt = Path(__file__).parent / "prompts" / f"{doc_title}.txt"
+        if custom_prompt.is_file():
+            prompt_file = custom_prompt
+            log(f"Auto-selected post-specific prompt: {prompt_file}")
+
+    if not prompt_file.is_file():
+        raise FileNotFoundError(f"Prompt template file not found at: {prompt_file}")
+
+    prompt_content = prompt_file.read_text(encoding="utf-8")
     log(f"Prompt file: {prompt_file} ({len(prompt_content)} chars)")
     log(f"Output destination: {output_file}")
     log(f"Connecting to Brave via CDP at {cdp_url}...")
