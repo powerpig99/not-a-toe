@@ -231,6 +231,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic shatter-field / chest-sun panorama** | Split: dark shattered-glass circuit field left; figure on ridge with gold burst from the chest; sunlit river valley and sunrise right; operator drop | `the-generative-contradiction` |
 | **Cinematic action chiaroscuro / shattered blueprint** | Full-bleed dynamic action field: runner's mud-caked trail shoe striking coarse earth, kicking up golden dust while shattering rigid 2D blueprint grids and leg braces into fragments, opening into an expansive sunrise terrain | `po-chu-gai-nian-de-jian-yue` |
 | **Tactile rustic landscape / open gate and worn trail shoes** | Grounded, unpretentious tactile dawn photography: rustic stone wall and open wooden gate ajar along a winding gravel trail through rolling misty hills, worn trail shoes on stone threshold in morning light | `manifesto-of-not-a-theory-of-everything` |
+| **Chiaroscuro mezzotint & radiant quantum fracture** | Velvety charcoal-black ground, etched Cartesian coordinate grid and armillary rings, cleaved perpendicularly by a brilliant golden quantum fracture and luminous interference waves expanding into open space | `causality-is-irreducible-the-physical-is-a-view-from-nowhere` |
 
 ## Inventory (by slug)
 
@@ -246,8 +247,8 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `better-than-free-after-the-checklist-closes` | Paper craft / tabletop still |
 | `the-paradoxical-nature-of-bystander-insights` | Victorian stereograph dual-panel |
 | `causality-all-the-way` | Sand animation / grain board |
-| `cheng-gong-xue` | Cinematic overlook / golden growth-path |
 | `causality-and-the-irreducible-prior` | Cinematic dual-landscape monadnock |
+| `causality-is-irreducible-the-physical-is-a-view-from-nowhere` | Chiaroscuro mezzotint & radiant quantum fracture |
 | `causality-stays-at-the-edge-that-steers` | Bauhaus primary-color geometry |
 | `climbing-does-not-leave-the-ground` | Origami / continuous-sheet folded stair still |
 | `closed-assumptions-squeeze-compounding-into-s-curves` | Marquetry / wood-inlay panel |
