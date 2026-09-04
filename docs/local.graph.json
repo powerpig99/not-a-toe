@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-09-04T13:04:29.560Z",
+    "generated_at": "2026-09-04T13:24:40.573Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
