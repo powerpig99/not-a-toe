@@ -14,7 +14,7 @@ The claim “I am not an NPC” is therefore not special insight. It is the ordi
 
 Other centers appear only as traces within this field — voices, gestures, repeated phrases, predictable responses — already shaped by the observer’s prior traces and capacity. There is no climbing into another locus. Resonance supplies the practical inference that other centers operate under the same premise; the inference never becomes penetration. Shared reality is the region of sufficient reinforcement; it is not shared interior.
 
-When those signals remain thin or highly patterned, the center registers them as scripted. The thinness is not a property discovered in the other. It is the width of the mediation itself. Consciousness is private because discreteness is private. [没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) is the same bound under another face: the other in this field is image, not the other’s completed recursion.
+When those signals remain thin or highly patterned, the center registers them as scripted. The thinness is not a property discovered in the other. It is the width of the mediation itself. Consciousness is private because discreteness is private. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/) is the same bound under another face: the other in this field is image, not the other’s completed recursion.
 
 ## The zombie gap is permanent asymmetry
 

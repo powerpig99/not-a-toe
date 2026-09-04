@@ -28,7 +28,7 @@ The framing of the problem — what would count as a counterexample, which class
 
 The model recombines residual traces under that direction. It contributes no autonomous framing, no independent insight, no verification that closes without the human edge taking the result into its own recursion. The apparent “discovery” is the human center registering its own next act, shaped by the traces it has extended into the instrument. [Artifacts are expressions of intelligence, not intelligence itself](../two-failures-of-trace/) is the same freeze under the dual load of *creation*: observation holds product; the act is one step ahead and routinely frozen onto the product.
 
-Between centers there is only availability-patterning. A model is not even a second center. Treating it as completing the mathematician’s return is a category error twice over — first as medium-as-locus, then as if residue could finish recursion. [没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) names the bound for other loci; here the bound is stricter: there is no other locus to complete.
+Between centers there is only availability-patterning. A model is not even a second center. Treating it as completing the mathematician’s return is a category error twice over — first as medium-as-locus, then as if residue could finish recursion. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/) names the bound for other loci; here the bound is stricter: there is no other locus to complete.
 
 ## Collaboration language as lag
 

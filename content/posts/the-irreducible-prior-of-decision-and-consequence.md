@@ -18,7 +18,7 @@ When a Mind perceives its decisions and their consequences as belonging to the s
 
 The rupture occurs the moment decision and consequence are no longer perceived as unified within that Mind. There is no break independent of this perception. Objectivity itself has no standing apart from perception and interpretation; every claim about alignment or misalignment is already constituted within a Mind’s experience. The failure is perceptual and interpretive.
 
-[前因，后果](../qian-yin-hou-guo/) is that same lag: when the retained reference is wider than one step, consequences of a prior cause register as an external cause.
+[Prior Cause, Subsequent Effect](../qian-yin-hou-guo/) is that same lag: when the retained reference is wider than one step, consequences of a prior cause register as an external cause.
 
 ## The two sides of the same ledger are kept separate
 

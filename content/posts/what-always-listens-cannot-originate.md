@@ -42,7 +42,7 @@ The power that leaves the individual is not primarily stolen. It thins through d
 
 Responsibility also diffuses. When outcomes are poor, it becomes difficult to locate where the decisive attribution occurred. The individual can say they followed the model, the expert, or the institutional process. The model, expert, or institution can say they only responded to inputs. The allocation that created the chain of deference leaves no clear owner of the result — not because ownership was transferred, but because the act of placing continuation outside was forgotten as this locus’s own act. [The risk you delegate is the risk you create](../the-risk-you-delegate-is-the-risk-you-create/) is the institutional face of the same geometry: concentrated accountability for novel failure, unattributable cost for the baseline left in place.
 
-Between centers there is only availability-patterning: traces that may be taken up or not. Treating another center — or a medium of traces — as completing this return is a category error. [没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) names that bound without making isolation a program. The error does not need malice. Continuous listening is enough to make the error feel like prudence.
+Between centers there is only availability-patterning: traces that may be taken up or not. Treating another center — or a medium of traces — as completing this return is a category error. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/) names that bound without making isolation a program. The error does not need malice. Continuous listening is enough to make the error feel like prudence.
 
 ## What the constraint actually is
 
