@@ -13,7 +13,7 @@ The classical line is more precise than its popular compression:
 
 Fashion clay into a vessel; usefulness arises from the empty space within. Form (*you* 有) supplies the structure; emptiness (*wu* 无) supplies residual capacity so the structure can function as a vessel at all. Without that residual, the vessel ceases to receive and therefore ceases to be a vessel. The popular rendering — “A bowl is most useful when it is empty” — keeps the practical force and drops the surrounding images of hubs and rooms. It also invites the freeze: temporary residual treated as preferred permanent state.
 
-That cut is the same geometry [有无之边](../you-wu-zhi-bian/) works at full length: 有 and 无 are instruments at the edge, not sides to join. Method does not answer which is true; it returns the width of the reference. Emptiness sealed as unique right path is the same over-wide reference as form sealed as ground.
+That cut is the same geometry [The Edge of Being and Non-Being](../you-wu-zhi-bian/) works at full length: 有 and 无 are instruments at the edge, not sides to join. Method does not answer which is true; it returns the width of the reference. Emptiness sealed as unique right path is the same over-wide reference as form sealed as ground.
 
 ## Residual capacity under a closed hold
 

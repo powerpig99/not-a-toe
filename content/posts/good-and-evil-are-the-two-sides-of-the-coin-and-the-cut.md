@@ -28,7 +28,7 @@ The loop is Image lag at each locus: a preferred self-image of necessary good pr
 
 This is not a claim that differences in harm, intention, or consequence are illusory, nor that any action can be casually redescribed into its opposite. Such assertions would install another absolute reference and repeat the same partitioning at a higher level. The differences remain real *within* the perception that has already performed the cut. What is at issue is the origin of the polarity itself. The Mind does not first encounter good and evil as independent realities and then choose sides. It first divides its experience, then finds the sides already waiting.
 
-Conflict stays conflict. Acts of others stay at their generating centers. What the cut manufactures is not the existence of other centers’ acts, but the dualistic binding that totalizes them as evil and the self as the necessary good that must answer them. [没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) holds the parallel bound: the other in this field is image, not the other’s completed interior.
+Conflict stays conflict. Acts of others stay at their generating centers. What the cut manufactures is not the existence of other centers’ acts, but the dualistic binding that totalizes them as evil and the self as the necessary good that must answer them. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/) holds the parallel bound: the other in this field is image, not the other’s completed interior.
 
 ## Language registers the trace, not the gesture
 

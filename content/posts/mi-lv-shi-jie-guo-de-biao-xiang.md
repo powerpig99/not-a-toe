@@ -18,7 +18,7 @@
 
 ## 聚合形状不是独立的真实形状
 
-因此，幂律不是「世界的真实形状」作为一个独立的东西，而是许多中心以不同速率迭代之后，在某个观测窗口里留下的聚合痕迹。极端值之所以支配总量，是因为速率高的中心持续把自己的痕迹叠加上去，而速率低的中心的痕迹相对稀释。把这个聚合形状当成必须服从的「客观规律」或投资金科玉律，等于把结果的统计描述提升为生成原因，把已经滞后的图像固定成了参考点。[成功学: Theories After Success, Mistaken for Theories Leading to Success](../cheng-gong-xue/) 是同一滞后做成可迁移原则的面：事后把已成结果整理成引擎。[Closed assumptions squeeze compounding into S-curves](../closed-assumptions-squeeze-compounding-into-s-curves/) 是另一条统计曲线被写成进步本性的面：S 形是封闭持守绑住观测之后的形状，不是开放活动自己的轨迹。[The average is residue, not the engine](../the-average-is-residue-not-the-engine/) 拒绝把平均值写成引擎；这里拒绝的是把尾部的形状写成生成逻辑。
+因此，幂律不是「世界的真实形状」作为一个独立的东西，而是许多中心以不同速率迭代之后，在某个观测窗口里留下的聚合痕迹。极端值之所以支配总量，是因为速率高的中心持续把自己的痕迹叠加上去，而速率低的中心的痕迹相对稀释。把这个聚合形状当成必须服从的「客观规律」或投资金科玉律，等于把结果的统计描述提升为生成原因，把已经滞后的图像固定成了参考点。[成功学: Theories After Success, Mistaken for Theories Leading to Success](../cheng-gong-xue/) 是同一滞后做成可迁移原则的面：事后把已成结果整理成引擎。[封闭假设将复利压扁为S曲线](../closed-assumptions-squeeze-compounding-into-s-curves/) 是另一条统计曲线被写成进步本性的面：S 形是封闭持守绑住观测之后的形状，不是开放活动自己的轨迹。[平均值是沉淀的残差，而非引擎](../the-average-is-residue-not-the-engine/) 拒绝把平均值写成引擎；这里拒绝的是把尾部的形状写成生成逻辑。
 
 ## 贝叶斯更新从来不是中立的发现
 
@@ -26,4 +26,4 @@ AI 分析的运作方式把这个滞后暴露得更清楚。那篇文章所从�
 
 ## 活动从未完成，起点可以被超越
 
-真正需要被追踪的，不是分布曲线本身，而是速率如何在具体中心上持续产生。起点可以被超越，是因为活动从未完成；预设条件可以改变结果，是因为贝叶斯更新从来不是中立的发现，而是操作者自己的区分在延伸。一旦把幂律从「客观规律」或「金科玉律」的位置上撤下来，它就只是它本来的样子——结果表象的统计规律。生成它的，始终是不同迭代速率在时间中的复利运作。[Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../power-law-is-the-long-term-consequence-of-normal-distribution/) 是同一复利的短窗口面：近似正态的增量经过足够乘法，留下长窗口里幂律模样的痕迹。
+真正需要被追踪的，不是分布曲线本身，而是速率如何在具体中心上持续产生。起点可以被超越，是因为活动从未完成；预设条件可以改变结果，是因为贝叶斯更新从来不是中立的发现，而是操作者自己的区分在延伸。一旦把幂律从「客观规律」或「金科玉律」的位置上撤下来，它就只是它本来的样子——结果表象的统计规律。生成它的，始终是不同迭代速率在时间中的复利运作。[幂律是微观决策正态分布的长期累积](../power-law-is-the-long-term-consequence-of-normal-distribution/) 是同一复利的短窗口面：近似正态的增量经过足够乘法，留下长窗口里幂律模样的痕迹。

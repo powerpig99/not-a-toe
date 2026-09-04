@@ -52,7 +52,7 @@ In early childhood, incomplete physical strength, narrower knowledge, and immatu
 
 These interventions alter external constraints; they do not establish an ontological hierarchy where the parent's will is primary and the child's is merely provisional. 
 
-As articulated in [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) and [自由变量的同构与先验主权：量子、比特与微观选择](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/), agency cannot be divided, leased, or transferred. Even when a child complies with an overwhelming command, the compliance is still a sovereign selection executed by the child to navigate the parent's imposed constraint.
+As articulated in [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) and [Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/), agency cannot be divided, leased, or transferred. Even when a child complies with an overwhelming command, the compliance is still a sovereign selection executed by the child to navigate the parent's imposed constraint.
 
 ## Guidance vs. Driving: The Mechanics of Governance Failure
 
@@ -77,7 +77,7 @@ Institutional roles distribute asymmetric leverage, information, and power:
 
 Yet these asymmetric roles distribute only the *menu of consequences*—they do not distribute degrees of volition. A legal mandate or physical force can alter the options available to an individual, but no external power can become the author of the selection itself.
 
-To infer from unequal social leverage that the person at the top "chooses" while the subordinate merely "executes" confuses the shape of an external constraint with the relocation of internal agency. As [涌现的伪因果与集体归因倒错：从雪崩、盲从到第一人称因果自洽](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) demonstrates, attributing generative agency to the structural container rather than to the individual agents at the micro-origin point is a recurring teleological illusion.
+To infer from unequal social leverage that the person at the top "chooses" while the subordinate merely "executes" confuses the shape of an external constraint with the relocation of internal agency. As [The Pseudo-Causality of Emergence](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) demonstrates, attributing generative agency to the structural container rather than to the individual agents at the micro-origin point is a recurring teleological illusion.
 
 ## Constraints Define the Menu, Not the Chooser
 
@@ -91,7 +91,7 @@ The biological reductionism that excuses parents and infantilizes adolescents is
 2. Psychologists and institutions market these narratives because pathologizing the individual creates an endless demand for external management and therapeutic mediation;
 3. Young people internalize these narratives, using "brain development" as an excuse to abdicate responsibility for the consequences of their own actions.
 
-As demonstrated in [Ownership and self-worthiness](../ownership-and-self-worthiness/) and [外部归因：个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/), when outcomes are attributed outward to biology or external forces, the signal never returns to the internal weights that can actually update. External attribution freezes the learning loop, leaving the individual without the error signal needed for genuine maturity.
+As demonstrated in [Ownership and self-worthiness](../ownership-and-self-worthiness/) and [External Attribution: The Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/), when outcomes are attributed outward to biology or external forces, the signal never returns to the internal weights that can actually update. External attribution freezes the learning loop, leaving the individual without the error signal needed for genuine maturity.
 
 ## The True Horizon of Authority: Stepping Out of the Vehicle
 

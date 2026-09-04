@@ -48,7 +48,7 @@ The structure that appears from many such steps is therefore not fundamentally d
 
 This generative trajectory clarifies why identical starting conditions inevitably precipitate stabilized structural hierarchies. Crucially, **temporal self-correlation does not occur in an isolated vacuum**. It is sustained and driven by an active **external feedback loop**: an agent runs its internal logic, emits an atomic act into the physical world, receives environmental feedback from deterministic physics, and refines its internal state based on the result.
 
-[自由的测不准：微观主权、统计涌现与自由意志的佯谬](../zi-you-de-ce-bu-zhun/) models how this environmental loop shatters initial symmetry:
+[The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) models how this environmental loop shatters initial symmetry:
 
 1. **Microscopic binary bounds (0 or 1):** In any single short cross-section, hundreds of identical agents making independent stochastic choices collectively form a **normal distribution** (Gaussian scatter of movement and exploration across the terrain).
 2. **Environmental feedback and self-correlation:** When an agent acts, it does not merely update its private notebook; it leaves physical residue in the shared world (a cleared path, an assembled machine, an automated controller). The agent tests its proposal against deterministic physics, internalizes the feedback, and calibrates its next step.
@@ -82,7 +82,7 @@ A center can follow the chain to the act that wrote the first relevant mark. Ano
 
 If the distinction at a locus is not caused from outside, then no account, however tight, becomes the cause of that locus’s next act. Interpretation at the societal level is itself a free human act: someone chooses the aggregate as ground. The cost of that choice remains at that locus. Consequences still arrive through the field those micro-acts keep writing. The choice is not cancelled by a clearer chain. Interpretation of the model run as a civilization is the same kind of act performed on residue that was never a free center. The observer’s freedom to stop at the picture does not make the picture the origin of the run.
 
-Origin and interpretation are not the same relation. One is where the mark is written. The other is how a later center chooses to hold it. [Rationality never travels across the Mind](../rationality-never-travels-across-the-mind/) and [止步于评判，是认知的歧途](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) establish this fundamental boundary: no interpretive frame possesses jurisdictional power over another sovereign locus.
+Origin and interpretation are not the same relation. One is where the mark is written. The other is how a later center chooses to hold it. [Rationality never travels across the Mind](../rationality-never-travels-across-the-mind/) and [Stopping at Judgment: The Stray Path of Cognition](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) establish this fundamental boundary: no interpretive frame possesses jurisdictional power over another sovereign locus.
 
 ## The bit, the trail, and the temptation of a floor
 

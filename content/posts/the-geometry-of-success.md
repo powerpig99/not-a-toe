@@ -16,7 +16,7 @@ Second is the phase of settlement and value crystallization. Having reached the 
 
 Third is the gold rush. Once the coordinates prove viable, latecomers converge from every direction—some on foot, some by car, some by train.
 
-Fourth is the hindsight illusion. Finding the pioneer already firmly entrenched at the center of the new territory, latecomers invent a backward-looking teleological narrative: *"The pioneer possessed secret insider knowledge; they understood the rigged rules and cut in line."* [成功学: Theories After Success, Mistaken for Theories Leading to Success](../cheng-gong-xue/) identifies this exact cognitive inversion: polishing principles from survivors after the fact, mistaking post-hoc rationalizations for the engine that opened the terrain.
+Fourth is the hindsight illusion. Finding the pioneer already firmly entrenched at the center of the new territory, latecomers invent a backward-looking teleological narrative: *"The pioneer possessed secret insider knowledge; they understood the rigged rules and cut in line."* [Theories After Success, Mistaken for Theories Leading to Success](../cheng-gong-xue/) identifies this exact cognitive inversion: polishing principles from survivors after the fact, mistaking post-hoc rationalizations for the engine that opened the terrain.
 
 ## Finite vs. Infinite Reality: The Closed-System Delusion
 
@@ -48,7 +48,7 @@ When people attribute their initial breakthrough to the vehicle—the formula, t
 
 [The scaffolding we forget](../the-scaffolding-we-forget/) details this exact cognitive trap: organizations of experience drop out as world while remaining instruments of the edge that erected them. Winners remain parked in the vehicle at Point B, desperately trying to turn the surrounding swamp into a paved highway. They refuse to abandon the tool that made them successful in the first place, thus ensuring their eventual obsolescence.
 
-[路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎](../lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/), [高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜](../gao-wei-xin-xi-de-li-san-zhe-she/), and [自由变量的同构与先验主权：量子、比特与微观选择](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) establish that the causal lever never resides in the external artifact, static coordinate, or other people's judgment. The sovereign source is always the first-person agent executing real-time micro-decisions at each unmapped intersection.
+[The Turning at the Crossroads and the Flat Earth Paradox](../lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/), [Discrete Refraction of High-Dimensional Information](../gao-wei-xin-xi-de-li-san-zhe-she/), and [Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) establish that the causal lever never resides in the external artifact, static coordinate, or other people's judgment. The sovereign source is always the first-person agent executing real-time micro-decisions at each unmapped intersection.
 
 ## Reality Has No Referee
 

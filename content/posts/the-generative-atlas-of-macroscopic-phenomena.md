@@ -76,7 +76,7 @@ As defined in [What Information Is: Selection Under Constraint](../what-informat
 
 Nowhere is the misunderstanding of emergence more destructive than in the interpretation of human civilization.
 
-The foundational micro variable of all human activity is **the individual free choice**. As articulated in [自由变量的同构与先验主权：量子、比特与微观选择](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) and [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/):
+The foundational micro variable of all human activity is **the individual free choice**. As articulated in [Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) and [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/):
 
 * Societies do not choose;
 * Classes do not choose;
@@ -101,10 +101,10 @@ Because the human mind is a pattern-recognition engine operating on sensory cros
 
 This gives rise to **Macro Fetishism and the Teleological Fallacy**:
 
-1. **The Myth of the Collective Will**: As deconstructed in [涌现的伪因果与集体归因倒错：从雪崩、盲从到第一人称因果自洽](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/), an avalanche is not a collective entity with an agenda to destroy a village; it is billions of individual snowflakes losing friction simultaneously. Attributing a collective mind to an emergent phenomenon is a category error;
-2. **Reverse Causation in Social Models**: When economists or sociologists treat "the system" as an active agent that dictates human behavior, they trap agents in cynicism. As explored in [The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the "Rigged Game"](../the-geometry-of-success/) and [选择看见而非搜寻影子：从注意力的因果错位到知识的自然扩散](../shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/), treating the macro game as fixed paralyzes the agent's first-person drive.
+1. **The Myth of the Collective Will**: As deconstructed in [The Pseudo-Causality of Emergence](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/), an avalanche is not a collective entity with an agenda to destroy a village; it is billions of individual snowflakes losing friction simultaneously. Attributing a collective mind to an emergent phenomenon is a category error;
+2. **Reverse Causation in Social Models**: When economists or sociologists treat "the system" as an active agent that dictates human behavior, they trap agents in cynicism. As explored in [The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the "Rigged Game"](../the-geometry-of-success/) and [Choosing to See Rather Than Chasing Shadows](../shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/), treating the macro game as fixed paralyzes the agent's first-person drive.
 
-[错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) and [No system can be kept closed](../no-system-can-be-kept-closed/) remind us: whenever you assign causal power to the macro container rather than the micro choice, you invert the compiler and blind yourself to the real levers of change.
+[Misplaced Causality and the Mind's Compiler](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) and [No system can be kept closed](../no-system-can-be-kept-closed/) remind us: whenever you assign causal power to the macro container rather than the micro choice, you invert the compiler and blind yourself to the real levers of change.
 
 ## The Sovereign Return to the Micro Lever: Defining Action
 

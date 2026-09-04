@@ -102,7 +102,7 @@ Causality is inverted: students are asked to follow the trace of a trace, as tho
 
 ## The Living Chase
 
-A genuine engagement with reality cannot be taught as settled content; it can only be practiced as an active stance. As affirmed in [mei you pu du zhi you zi du](../mei-you-pu-du-zhi-you-zi-du/), a teacher cannot force the cut to occur within another consciousness, nor can a text convey understanding like water poured into an empty glass. As shown in [intelligence belongs only to the mind](../intelligence-belongs-only-to-the-mind/), the text on the page remains completely inert until a living mind runs the distinction for itself, tests the boundaries against its own experience, and takes the risk of stepping into contradiction.
+A genuine engagement with reality cannot be taught as settled content; it can only be practiced as an active stance. As affirmed in [no universal salvation, only self-deliverance](../mei-you-pu-du-zhi-you-zi-du/), a teacher cannot force the cut to occur within another consciousness, nor can a text convey understanding like water poured into an empty glass. As shown in [intelligence belongs only to the mind](../intelligence-belongs-only-to-the-mind/), the text on the page remains completely inert until a living mind runs the distinction for itself, tests the boundaries against its own experience, and takes the risk of stepping into contradiction.
 
 A "not-a-theory of everything" does not aim to assemble an encyclopedic museum of all that exists. It recognizes that every trace drawn by the mind is provisional—a useful, temporary boundary that illuminates local structure without ever freezing the whole. 
 
