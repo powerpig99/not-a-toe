@@ -230,6 +230,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic figure / gold-stream geometric lattice** | Figure at left, gold particle stream from the chest into a silver-blue glass polyhedral lattice of currency glyphs and diagrams; dark void, cinematic light; operator drop | `agency-relocated-into-the-formal-model` |
 | **Cinematic shatter-field / chest-sun panorama** | Split: dark shattered-glass circuit field left; figure on ridge with gold burst from the chest; sunlit river valley and sunrise right; operator drop | `the-generative-contradiction` |
 | **Cinematic action chiaroscuro / shattered blueprint** | Full-bleed dynamic action field: runner's mud-caked trail shoe striking coarse earth, kicking up golden dust while shattering rigid 2D blueprint grids and leg braces into fragments, opening into an expansive sunrise terrain | `po-chu-gai-nian-de-jian-yue` |
+| **Tactile rustic landscape / open gate and worn trail shoes** | Grounded, unpretentious tactile dawn photography: rustic stone wall and open wooden gate ajar along a winding gravel trail through rolling misty hills, worn trail shoes on stone threshold in morning light | `manifesto-of-not-a-theory-of-everything` |
 
 ## Inventory (by slug)
 
@@ -453,6 +454,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-deterministic-machine` | 18th-century Enlightenment philosophical automaton and dark Baroque chiaroscuro mechanical clockwork engraving on aged fibrous paper with an octagonal glass display case enclosing blackened iron and polished brass gears, a suspended polished white porcelain mirror mask staring at its own reflection, and a single luminous golden key floating in open air outside |
 | `the-unclosable-trace` | Baroque chiaroscuro drafting scene on aged vellum with an intricate brass drafting compass and ink quill drawing an open glowing geometric incision that spirals into an infinite starry horizon, contrasting with shadowy bookshelves of locked encyclopedia volumes and cold classical marble busts in the background |
 | `po-chu-gai-nian-de-jian-yue` | Cinematic conceptual action chiaroscuro of a runner's mud-caked shoe forcefully striking coarse earth and kicking up golden dust, shattering rigid 2D blueprint gridlines and mechanical braces behind into flying fragments, striding into an open sunrise landscape |
+| `manifesto-of-not-a-theory-of-everything` | Grounded tactile dawn landscape with open rustic wooden gate on dry-stone wall, winding unpaved gravel trail through misty morning valley, worn trail walking shoes resting on threshold |
 
 ## Crowded — prefer not to extend
 
