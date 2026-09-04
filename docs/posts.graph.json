@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-04T06:55:49.237Z",
+    "generated_at": "2026-09-04T11:55:06.165Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -97,6 +97,7 @@
       "content/posts/looping-and-graphing.md": "b2acdecafde8",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "23b0506a4f6b",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "da930db54d6f",
+      "content/posts/manifesto-of-not-a-theory-of-everything.md": "a0f08623896a",
       "content/posts/meaning-of-life-refined.md": "434a76e39923",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "30b8585c7f67",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "ef157cded87e",
@@ -193,7 +194,7 @@
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "f6299229ed66",
-      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "109386239e42",
+      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "692018d9ef9d",
       "content/posts/the-generative-contradiction.md": "30e18c0a4d95",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "3c600d32c6d1",
       "content/posts/the-generative-topology-of-free-variables.md": "23f787d49fed",
@@ -298,19 +299,19 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 288,
-      "edges": 2867,
-      "unique_directed": 2834,
+      "posts": 289,
+      "edges": 2882,
+      "unique_directed": 2842,
       "missing_targets": 0,
-      "one_way": 640,
+      "one_way": 648,
       "isolated": 35,
-      "posts_with_outbound": 235
+      "posts_with_outbound": 236
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 76
+      "in_degree": 77
     },
     {
       "slug": "openness-is-consistency",
@@ -2165,7 +2166,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "1822bc1fbdea",
-      "in_degree": 76,
+      "in_degree": 77,
       "out_degree": 54,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2407,6 +2408,25 @@
         "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
         "gao-wei-xin-xi-de-li-san-zhe-she",
         "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi"
+      ]
+    },
+    {
+      "id": "post:manifesto-of-not-a-theory-of-everything",
+      "kind": "post",
+      "slug": "manifesto-of-not-a-theory-of-everything",
+      "path": "content/posts/manifesto-of-not-a-theory-of-everything.md",
+      "title": "不是大一统理论宣言 / Manifesto of the Not-a-Theory of Everything",
+      "hash": "a0f08623896a",
+      "in_degree": 1,
+      "out_degree": 7,
+      "links_out": [
+        "the-arithmetic-of-the-register",
+        "the-geometry-of-mind",
+        "xian-shi-de-bian-jie",
+        "individual-choices-as-the-only-causal-levers",
+        "po-chu-gai-nian-de-jian-yue",
+        "the-unclosable-trace",
+        "when-observation-becomes-performance"
       ]
     },
     {
@@ -3171,7 +3191,7 @@
       "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
       "title": "破除概念的僭越：第一人称、因果之矢与未完的现实",
       "hash": "f6342a18faa4",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 13,
       "links_out": [
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
@@ -4067,7 +4087,7 @@
       "path": "content/posts/the-arithmetic-of-the-register.md",
       "title": "The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field",
       "hash": "80aad6ff0d48",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 7,
       "links_out": [
         "dimensions-are-projections",
@@ -4582,9 +4602,9 @@
       "slug": "the-generative-atlas-of-macroscopic-phenomena",
       "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
       "title": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction",
-      "hash": "109386239e42",
+      "hash": "692018d9ef9d",
       "in_degree": 6,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "what-information-is",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -4597,7 +4617,8 @@
         "the-generative-topology-of-free-variables",
         "the-mark-and-the-act",
         "curiosity-has-no-final-form",
-        "the-other-coherence"
+        "the-other-coherence",
+        "manifesto-of-not-a-theory-of-everything"
       ]
     },
     {
@@ -4675,7 +4696,7 @@
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon",
       "hash": "c08b62d59996",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 13,
       "links_out": [
         "the-boundary-of-the-frame",
@@ -5966,7 +5987,7 @@
       "path": "content/posts/the-unclosable-trace.md",
       "title": "The Unclosable Trace: Why Philosophy Cannot Be Inherited",
       "hash": "a8f077c9838b",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "the-geometry-of-mind",
@@ -6425,7 +6446,7 @@
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "When Observation Becomes Performance",
       "hash": "12794106d847",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 14,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -6544,7 +6565,7 @@
       "path": "content/posts/xian-shi-de-bian-jie.md",
       "title": "现实的边界",
       "hash": "5bbd95975446",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 9,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -11908,6 +11929,90 @@
       "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "rel": "points_to",
       "label": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "寄存器的算术"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "心智的几何学"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "The Arithmetic of the Register"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "xian-shi-de-bian-jie",
+      "rel": "points_to",
+      "label": "现实的边界"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体选择作为唯一的因果杠杆"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "xian-shi-de-bian-jie",
+      "rel": "points_to",
+      "label": "The Boundary of Reality"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Overcoming the Usurpation of Concepts"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "未决之地的未竟之迹"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "当观察沦为表演"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "The Unclosable Trace"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -18064,6 +18169,12 @@
       "to": "the-other-coherence",
       "rel": "points_to",
       "label": "The Other Coherence"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "manifesto-of-not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "Manifesto of the Not-a-Theory of Everything"
     },
     {
       "from": "the-generative-contradiction",

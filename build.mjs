@@ -11,7 +11,7 @@ const SITE = {
   baseUrl: 'https://powerpig99.github.io/not-a-toe/',
   sourceRawBaseUrl: 'https://raw.githubusercontent.com/powerpig99/not-a-toe/main/',
   language: 'en-US',
-  pinnedSlug: 'the-generative-atlas-of-macroscopic-phenomena',
+  pinnedSlug: 'manifesto-of-not-a-theory-of-everything',
   socialImage: 'https://raw.githubusercontent.com/powerpig99/not-a-toe/main/assets/podcast-cover.jpg',
 };
 
