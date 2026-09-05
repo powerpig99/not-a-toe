@@ -307,7 +307,7 @@ function markdownToHtml(markdownBody) {
     flushTable();
     if (inCodeBlock) {
       if (codeBlockLang === 'mermaid') {
-        chunks.push(`<pre class="mermaid">${escapeHtml(codeBlockLines.join('\n'))}</pre>`);
+        chunks.push(`<div class="mermaid-wrap" title="Click to zoom in"><pre class="mermaid">${escapeHtml(codeBlockLines.join('\n'))}</pre><div class="mermaid-hint"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg><span>Click to zoom</span></div></div>`);
       } else {
         chunks.push(`<pre><code${codeBlockLang ? ` class="language-${escapeHtml(codeBlockLang)}"` : ''}>${escapeHtml(codeBlockLines.join('\n'))}</code></pre>`);
       }
@@ -323,7 +323,7 @@ function markdownToHtml(markdownBody) {
     if (/^(```|~~~)/.test(trimmed)) {
       if (inCodeBlock) {
         if (codeBlockLang === 'mermaid') {
-          chunks.push(`<pre class="mermaid">${escapeHtml(codeBlockLines.join('\n'))}</pre>`);
+          chunks.push(`<div class="mermaid-wrap" title="Click to zoom in"><pre class="mermaid">${escapeHtml(codeBlockLines.join('\n'))}</pre><div class="mermaid-hint"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg><span>Click to zoom</span></div></div>`);
         } else {
           chunks.push(`<pre><code${codeBlockLang ? ` class="language-${escapeHtml(codeBlockLang)}"` : ''}>${escapeHtml(codeBlockLines.join('\n'))}</code></pre>`);
         }
@@ -843,6 +843,58 @@ function renderPage({
       startOnLoad: true,
       theme: isDark ? 'dark' : 'neutral',
       fontFamily: 'inherit'
+    });
+
+    function createMermaidModal() {
+      let modal = document.getElementById('mermaid-modal');
+      if (modal) return modal;
+      modal = document.createElement('div');
+      modal.id = 'mermaid-modal';
+      modal.className = 'mermaid-modal';
+      modal.innerHTML = \`
+        <div class="mermaid-modal-backdrop"></div>
+        <div class="mermaid-modal-dialog">
+          <div class="mermaid-modal-header">
+            <span class="mermaid-modal-title">Diagram Zoom &middot; ESC or click outside to close</span>
+            <button class="mermaid-modal-close" aria-label="Close modal">&times;</button>
+          </div>
+          <div class="mermaid-modal-body"></div>
+        </div>
+      \`;
+      document.body.appendChild(modal);
+
+      const close = () => {
+        modal.classList.remove('open');
+        document.body.style.overflow = '';
+      };
+
+      modal.querySelector('.mermaid-modal-close').addEventListener('click', close);
+      modal.querySelector('.mermaid-modal-backdrop').addEventListener('click', close);
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && modal.classList.contains('open')) close();
+      });
+
+      return modal;
+    }
+
+    document.addEventListener('click', (e) => {
+      const wrap = e.target.closest('.mermaid-wrap, pre.mermaid');
+      if (!wrap || wrap.closest('.mermaid-modal')) return;
+      const svg = wrap.querySelector('svg');
+      if (!svg) return;
+
+      const modal = createMermaidModal();
+      const body = modal.querySelector('.mermaid-modal-body');
+      const clone = svg.cloneNode(true);
+      clone.style.maxWidth = '100%';
+      clone.style.maxHeight = '82vh';
+      clone.style.width = '100%';
+      clone.style.height = 'auto';
+
+      body.innerHTML = '';
+      body.appendChild(clone);
+      modal.classList.add('open');
+      document.body.style.overflow = 'hidden';
     });
   </script>\n`
     : '';
