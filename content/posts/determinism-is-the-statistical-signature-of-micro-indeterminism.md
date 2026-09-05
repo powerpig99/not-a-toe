@@ -48,7 +48,11 @@ From the inside of agency, freedom is never an arbitrary roll of the dice. Freed
 这正是现代物理学在微观层面所遭遇的终极困惑：
 物理学家在实验室里凝视一个基本粒子的跃迁，他们大惊失色地宣称粒子具有“固有的量子不确定性”。但他们忘记了，所谓的“不确定”，纯粹是因为测量仪器永远被隔绝在系统的外部。**外在观察到的不可预测性（Unpredictability），正是从内部切身体验到的自主抉择权（Freedom of Choice）。**
 
-当你身处内部时，因果是百分之百透明自洽的；而当你站在外部时，未经披露的自由变量在数学上就必然表现为不可测的随机。
+**更确切地讲，当因果之间发生实质递进时：**
+* **如果我们站在第一人称的角度去阐释它，这就是我们的自由选择；**
+* **如果我们站在观察角度去阐释它，它就变成了外部的不确定性——而这也正是我们一切“外部归因”的根本来源。**
+
+当你身处内部时，因果递进是百分之百透明自洽的；而当你站在外部观察时，未经披露的自由变量在数学上就必然表现为不可测的随机。一旦心智习惯用第三人称观察者的冷酷视角来审视自身，就会把原本生机勃勃的自由决断，彻底异化为受外部几率摆布的无力感。
 
 ---
 
@@ -64,7 +68,11 @@ Because the external observer cannot perceive the internal causal coherence driv
 This is the exact epistemological blind spot haunting quantum physics.
 The physicist stares into an apparatus, witnesses the discrete transition of an atomic state, and declares that nature is intrinsically random. But they have forgotten that this "randomness" is the inevitable optical artifact of observing a system across an external boundary without access to its localized agency. **The individual unpredictability recorded from the outside is the exact external shadow of the freedom of choice felt from the inside.**
 
-Inside the causal center, the action is internally coherent and deliberate; outside the boundary, an unobservable free variable can only ever register as mathematical unpredictability.
+**More precisely, when a causal progression takes place:**
+* **If we interpret it from the first-person perspective, it is our freedom of choice;**
+* **If we interpret it from an observational perspective, it turns into external uncertainty—and this is the very origin of all our external attributions.**
+
+Inside the causal center, the causal step is fully transparent, internally coherent, and deliberate; viewed across the boundary from an external standpoint, an unobservable free variable can only ever register as mathematical unpredictability. The moment consciousness adopts this detached observer stance toward its own agency, it alienates its sovereign act into a passive event dictated by external chance.
 
 ---
 
@@ -136,7 +144,7 @@ The smooth macroscopic trajectory is not an ontological discovery about the bedr
 **原本起源于第一人称自由决断的探索冲动，被降格为了外部的统计曲线；随后，这套统计曲线被奉为神明，反过来剥夺了创造它的第一人称主体性！**
 
 **必须在此做出最根本的澄明：这场认知倒错完全是心智自作自受的闭环——始于心智，运转于心智，也终结于心智。**
-这绝不是统计学或统计学家的过错。统计学与大数定律只是一套精巧、诚实且无辜的认知脚手架；它在数学上精确地记录了群体聚合后的几何轮廓。真正的倒错，出在**心智自己盲目相信了这套统计数据**。是心智主动把工具当成了本体，把自己为了平复认知焦虑而强加的平滑秩序误认成了客观宇宙天道，从而在自己编织的统计图表面前自缚手脚、向虚构的命运缴械投降。
+这绝不是统计学或统计学家的过错。统计学与大数定律只是一套精巧、诚实且无辜的认知脚手架；它在数学上精确地记录了群体聚合后的几何轮廓。真正的倒错，出在**心智自己盲目相信了这套统计数据**。是心智主动把工具当成了本体，对自己内部的因果递进进行了彻底的**外部归因**，把自己为了平复认知焦虑而强加的平滑秩序误认成了客观宇宙天道，从而在自己编织的统计图表面前自缚手脚、向虚构的命运缴械投降。
 
 **统计数据对我们个体的选择自由毫无支配权——除非我们主动把自己的选择权向其拱手相让。**
 
@@ -166,7 +174,7 @@ This is the most grotesque intellectual betrayal in history:
 **Agency—the living, first-person fountainhead of all action and thought—is observed from the outside, stripped of its interiority, averaged into a statistical curve, and then that very curve is wielded as a weapon to deny the reality of the agency that drew it.**
 
 **A decisive clarification must be made here: this entire entanglement is completely self-inflicted—originating in the mind, operating within the mind, and ending in the mind.**
-It is not the fault of the statistician, nor is it a defect of statistics. Statistics and the law of large numbers are innocent, highly capable cognitive scaffolding; mathematically, they report with immaculate precision the geometric shadow cast by aggregated populations. The fault lies entirely with **the mind choosing to believe the statistics as metaphysical law**. The mind manufactures a functional map to manage its own cognitive limits, forgets that it drew the map, mistakes computational convenience for ontological bedrock, and voluntarily surrenders its living sovereignty to its own creation.
+It is not the fault of the statistician, nor is it a defect of statistics. Statistics and the law of large numbers are innocent, highly capable cognitive scaffolding; mathematically, they report with immaculate precision the geometric shadow cast by aggregated populations. The fault lies entirely with **the mind choosing to believe the statistics as metaphysical law**. The mind performs a total **external attribution** on its own causal agency: it manufactures a functional map to manage its own cognitive limits, forgets that it drew the map, mistakes computational convenience for ontological bedrock, and voluntarily surrenders its living sovereignty to its own creation.
 
 **The statistics has no power over our individual freedom of choice unless we surrender our choice to it.**
 

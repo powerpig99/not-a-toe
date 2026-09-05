@@ -7,7 +7,7 @@ Reflective video monologue. A single candid thinker (Mingli) speaking directly t
   * *Indeterminism* is our sensed incoherence across time, projected outward as observed uncertainty.
 * **The Tri-Level Architecture**:
   * Level 3 (Inside the Agent): 100% internal coherence. The felt determinism of knowing why you act is the living reality of free choice.
-  * Level 2 (Outside the Agent): An observer without access to internal deliberation registers an unobservable free variable as pure unpredictability (quantum noise). Unpredictability outside is freedom felt inside.
+  * Level 2 (Outside the Agent): When a causal progression occurs, interpreting it from an observer's perspective turns it into external uncertainty—the very root of all external attribution. Unpredictability outside is freedom felt inside.
   * Level 1 (The Aggregate): Unable to predict a single free variable, the observer aggregates a population (N -> infinity). By dividing by sqrt(N), individual variance is washed away, creating a smooth curve.
 * **The Critical Insight**: The very predictivity of statistics comes from ignoring individual unpredictability.
 * **The Self-Inflicted Bondage**: The trap starts in the mind, operates in the mind, and ends in the mind. It is not the statistician's fault—statistics is an innocent, brilliant tool. The statistics has no power over our individual freedom of choice unless we surrender our choice to it.
@@ -24,7 +24,7 @@ And indeterminism? Indeterminism is simply our sensed incoherence across time. W
 
 Neither belongs to the object alone.
 
-From the inside of your own consciousness, you are one hundred percent internally coherent. You know your reasons, you weigh your values, and that felt certainty is the very reality of free choice. To an outsider who can't see your mind, your action looks like unpredictable noise. And when science averages a billion of those actions together, it purchases predictability by deliberately ignoring the individual.
+More precisely, when a causal progression occurs: if you interpret it from the inside of your own consciousness, it is your freedom of choice—you know your reasons, you weigh your values, and that felt certainty is the living reality of agency. But if that exact same causal progression is interpreted from the outside, from the observer's standpoint, it turns into external uncertainty. That is the very root of all our external attributions: mistaking our own unrevealed agency for cosmic randomness. And when science averages a billion of those steps together, it purchases predictability by deliberately ignoring the individual.
 
 And notice: this entire loop is completely self-inflicted. It starts in the mind, operates within the mind, and ends in the mind. It is not the fault of the statistician—statistics is an innocent and brilliant tool. The statistics has no power over our individual freedom of choice unless we surrender our choice to it.
 
