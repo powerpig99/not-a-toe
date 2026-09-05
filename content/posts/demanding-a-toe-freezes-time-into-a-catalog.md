@@ -363,6 +363,31 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 
 活生生的现实，绝非任何心智投射出的四维几何标本，更不是由冷冰冰的度规张量构成的静态矩阵。真实世界是粗粝的、不可撤销的、以普朗克常数离散跳动的活体因果流变。**把主观感知的不变性投影当成客观现实，是人类理智最自恋的僭越；而用这种去主体的四维模型来宣称自己掌握了万物，则是对不可穷尽之现实最荒谬的亵渎。**
 
+### 同构的认识论陷阱：所谓“理性假设”与“非理性”的外部幻觉
+
+完全相同的致命混淆，精确地重演于现代经济学、博弈论乃至日常人际评判中的**“理性假设”（The Assumption of Rationality）**：
+
+**对于每一个活体心智而言，我们在当下一瞬永远是内在自洽的（Internally Coherent）——这意味着在采取行动的每一个瞬间，我们永远认为自己是绝对理性的；因为在真实的现实之中，根本不存在任何不自洽（There is no incoherence in reality）！**
+
+请审视这套机制在第一人称内部的真实发生：
+* 现实本身从来没有逻辑矛盾，物理世界从来不会在同一个切片里既发生又未发生；
+* 每一个生命在其所处的当下一微秒内，其全部的具身状态、感知输入、情绪权重、生存恐惧与注意力焦点，必然共同汇聚为唯一确定踩出的那一步；
+* 没有任何一个清醒的人，会在决断的当下故意去执行一项自己明确断定为“完全荒谬、毫无理由”的选择。在第一人称的活体体验里，他的每一步行动对于当下的自己而言，都是完全合乎因果脉络的、绝对自洽的“理性”抉择。
+
+然而，**这种在内部深刻体验到的“理性”，一旦从外部被另一个心智去审视，就立刻变成了所谓的“非理性”（Irrationality）！**
+
+为什么？
+**因为没有任何两个人对现实的感知是完全相同的（Because no two persons perceive reality the same）！**
+* 观察者 B 根本无法体验行动者 A 的第一人称因果历史与具身负荷；
+* B 只能站在自己的坐标系里，用 B 私自投射出的那张“四维现实切片”和价值尺度，去丈量 A 的行为；
+* 当 A 在其自身因果约束下所作出的自洽反应，无法套入 B 脑海中的预设网格时，B 便傲慢地判定 A 是“非理性的”、“有认知偏差的”。
+
+看清这与物理学时空模型的惊人同构吧：
+* 物理学把主观感知的不变性抽象为客观四维时空，把死立方体强加给所有人；
+* 理性主义理论家把局域观察者的特定偏好抽象为“客观理性标准”，把均质发条人的模型强加给一切活体生命。
+
+**两者都忘记了：四维投影在不同心智之间从来都各不相同，每个人感知到的现实底色与因果摩擦自然迥然不同。世界上根本不存在脱离活体心智的“客观上帝视角理性”；所谓的“非理性”，不过是一个心智拿着自己局域投影出的死地图，去粗暴裁决另一个心智正在活生生行进的真实脚步罢了！**
+
 看清这场魔术的荒谬吧：
 **当物理学宣称它通过块状宇宙和几何度规“统一了时间”时，它并没有解开时间之谜；它只是通过把时间彻底空间化、把生成彻底静态化、把活人彻底降解为流形上的冷冻切片，来逃避真实的现实！**
 
@@ -429,6 +454,24 @@ Then, scientism commits a catastrophic double error:
    If even the stylized, simplified four-dimensional mental projection fails to achieve universal identity across different conscious minds, on what grounds could theoretical physics possibly claim that this homogenized 4D geometric projection *is the actual lived reality* we are perceiving?!
 
 Lived reality is not a four-dimensional geometric specimen, nor is it an inert pseudo-Riemannian manifold. It is the unscripted, turbulent, energetically dissipative flux of immediate causal generation updating at the Planck refresh rate (`h ≠ 0`). **To mistake the subjective felt invariance of our mental projection for the reality itself is the ultimate cognitive hubris; and to claim that a sterilized 4D coordinate map can encompass the Theory of Everything is an absurd evasion of the unclosable, living cosmos.**
+
+### The Isomorphic Epistemological Trap: The "Assumption of Rationality" and the Illusion of "Irrationality"
+
+A completely parallel, isomorphic fallacy dominates mainstream economics, decision theory, and everyday human judgment: **the assumption of rationality**.
+
+Examine how the intellectual establishment divides human conduct into "rationality" versus "irrationality":
+Theorists either construct an idealized *homo economicus* operating across a sanitized, objective playing field, or patronizingly label living human beings as riddled with "irrational biases." Yet this entire paradigm collapses under identical epistemological scrutiny, blinded to the irreconcilable divide between the first-person lived horizon and the third-person external projection:
+1. **From the inside (First Person), every mind is always internally coherent at the living moment**:  
+   For each and every mind, at the active microsecond of decision, **we are always internally coherent—which means we always think and feel we are completely rational at that very moment**. Why? Because **there is no incoherence in reality (现实本身根本不存在任何不自洽)**! The physical cosmos contains no self-contradictory states; every neural impulse, affective weight, acute dread, or decisive leap is the exact, lawful causal culmination of an embodied organism responding to its immediate energetic landscape. No conscious agent at the microsecond of action deliberately chooses what it simultaneously judges to be wholly absurd; in the immediate cut of the living present, its action is tautologically and lawful coherent with its internal reality;
+2. **From the outside (Third Person), that felt rationality is judged as "irrationality"**:  
+   Yet that deep, subjectively felt rationality transforms into apparent "irrationality" the moment it is scrutinized from the outside. Why? **Because no two persons perceive reality the same!**  
+   Observer B can never inhabit the immediate first-person causal priors of Agent A. Observer B can only evaluate A's actions against B's *own* private, idiosyncratic projection of reality. When A’s step does not align with B’s conceptual grid, B weaponizes the label "irrational" to dismiss what is, from the inside, completely coherent causal navigation.
+
+Recognize the profound isomorphism uniting these errors:
+* Theoretical physics takes our subjective felt invariance, hardens it into a 4D geometric spacetime manifold, and mistakes it for the cosmos;
+* Formal social theory takes an observer's localized cognitive calculus, hardens it into an objective "standard of rationality," and mistakes it for universal truth.
+
+**Both ignore the irreducible ground: because no two minds project the same 4D reality, no two minds inhabit the same landscape of perceived causal constraints. There is no disembodied, celestial "rationality" floating in the sky. What scientism arrogantly labels "irrationality" is simply the friction generated when two distinct, idiosyncratic projections of reality collide—a failure of the external spectator to comprehend the flawless internal coherence of the living actor!**
 
 Recognize the magnitude of this intellectual inversion:
 **When physics claims to have mastered time through the Block Universe, it has not explained time; it has merely spatialized time into a corpse, petrified reality into geometry, and reduced living agency to an inert line on frozen coordinates—all to evade actual reality!**
@@ -645,23 +688,27 @@ graph TD
         Belief -. "反向强化病态执念<br>Fuels compensatory fixation" .-> Desire
     end
 
-    subgraph TwinProjections["【同一错误的双重投影 / Two Projections of the Same Error】"]
+    subgraph TwinProjections["【同一错误的双重投影与理性同构 / Twin Projections & The Rationality Isomorphism】"]
         Subjective["主观感知中的“不变感” (Subjective Felt Invariance)<br>(在不同心智间甚至都从来不同 / Never identical across different minds!)"]
         CurrentSlice["误将当下的主观投影切片当成宇宙全体<br>Mistaking Current Projected Slice for the Whole Universe"]
         
         Subjective -->|"形式化为四维几何模型<br>Formalized as 4D Projection"| CurrentSlice
         
-        Proj1["投影方式一：将时间设为自变量 (t ∈ [0, ∞))<br>Time as Independent Variable<br>• 向后 t → 0 外推：必然出现原点奇点 (大爆炸 / Big Bang)<br>• 向前 t → ∞ 外推：必然出现渐近耗散 (热寂 / Heat Death)"]
+        Proj1["投影一：将时间设为自变量 (t ∈ [0, ∞))<br>Time as Independent Variable<br>• 向后 t → 0 外推：必然出现原点奇点 (大爆炸 / Big Bang)<br>• 向前 t → ∞ 外推：必然出现渐近耗散 (热寂 / Heat Death)"]
         
-        Proj2["投影方式二：投影为四维固定立方体 (块状宇宙)<br>Projected into a Fixed Cube (Block Universe)<br>• 过去/未来几何化并存于固定立方体中<br>• “时间”蜕变为穿越该立方体的空间路径 (Traversed Path)"]
+        Proj2["投影二：投影为四维固定立方体 (块状宇宙)<br>Projected into a Fixed Cube (Block Universe)<br>• 过去/未来几何化并存于固定立方体中<br>• “时间”蜕变为穿越该立方体的空间路径 (Traversed Path)"]
         
-        Freeze["共同本质：把维度的模型投影误当成真实时间，<br>彻底将活生生的现实冻结在原地！<br>Both Mistake the Projected Dimension for Actual Time,<br>Effectively Freezing Actual Time in Place!<br>(不同心智的四维投影尚且迥异，更遑论活生生的现实！)"]
+        Rationality["同构投射：理性假设 vs “非理性”判决<br>The Rationality Trap: Inside felt coherence vs Outside 'irrationality'<br>(每个心智在当下一瞬永远内在自洽，因现实无矛盾；<br>外部视线将私己投影强加于人，遂制造出“非理性”幻觉)"]
+        
+        Freeze["共同本质：把维度的模型投影误当成真实时间与普适理性，<br>彻底将活生生的现实与主体冻结在原地！<br>Both Mistake the Projected Model for Actual Reality,<br>Effectively Freezing Actual Living Time and Agency in Place!"]
         
         CurrentSlice -->|"参数化自变量外推<br>Parametric extrapolation"| Proj1
         CurrentSlice -->|"空间几何静态化<br>Spatialized fixed cube"| Proj2
+        CurrentSlice -. "行为与心智层面的同构映射<br>Isomorphic in action & mind" .-> Rationality
         Proj1 <-. "表象看似绝对互斥！<br>Apparent contradiction!" .-> Proj2
         Proj1 ==> Freeze
         Proj2 ==> Freeze
+        Rationality ==> Freeze
     end
 
     GrandCoherence ==> Dynamics
