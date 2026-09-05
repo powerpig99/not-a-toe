@@ -306,7 +306,11 @@ function markdownToHtml(markdownBody) {
     flushQuote();
     flushTable();
     if (inCodeBlock) {
-      chunks.push(`<pre><code${codeBlockLang ? ` class="language-${escapeHtml(codeBlockLang)}"` : ''}>${escapeHtml(codeBlockLines.join('\n'))}</code></pre>`);
+      if (codeBlockLang === 'mermaid') {
+        chunks.push(`<pre class="mermaid">${escapeHtml(codeBlockLines.join('\n'))}</pre>`);
+      } else {
+        chunks.push(`<pre><code${codeBlockLang ? ` class="language-${escapeHtml(codeBlockLang)}"` : ''}>${escapeHtml(codeBlockLines.join('\n'))}</code></pre>`);
+      }
       inCodeBlock = false;
       codeBlockLines = [];
       codeBlockLang = '';
@@ -318,7 +322,11 @@ function markdownToHtml(markdownBody) {
 
     if (/^(```|~~~)/.test(trimmed)) {
       if (inCodeBlock) {
-        chunks.push(`<pre><code${codeBlockLang ? ` class="language-${escapeHtml(codeBlockLang)}"` : ''}>${escapeHtml(codeBlockLines.join('\n'))}</code></pre>`);
+        if (codeBlockLang === 'mermaid') {
+          chunks.push(`<pre class="mermaid">${escapeHtml(codeBlockLines.join('\n'))}</pre>`);
+        } else {
+          chunks.push(`<pre><code${codeBlockLang ? ` class="language-${escapeHtml(codeBlockLang)}"` : ''}>${escapeHtml(codeBlockLines.join('\n'))}</code></pre>`);
+        }
         inCodeBlock = false;
         codeBlockLines = [];
         codeBlockLang = '';
@@ -826,6 +834,19 @@ function renderPage({
     ? `\n  <meta name="twitter:image:alt" content="${escapeHtml(socialImageAlt)}">`
     : '';
 
+  const hasMermaid = content.includes('class="mermaid"');
+  const mermaidScript = hasMermaid
+    ? `  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: isDark ? 'dark' : 'neutral',
+      fontFamily: 'inherit'
+    });
+  </script>\n`
+    : '';
+
   return `<!doctype html>
 <html lang="${SITE.language}">
 <head>
@@ -858,7 +879,7 @@ ${ogImageExtras}
   <main class="wrap">
 ${content}
   </main>
-</body>
+${mermaidScript}</body>
 </html>
 `;
 }
