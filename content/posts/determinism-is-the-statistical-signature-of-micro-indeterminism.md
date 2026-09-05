@@ -138,6 +138,8 @@ The smooth macroscopic trajectory is not an ontological discovery about the bedr
 **必须在此做出最根本的澄明：这场认知倒错完全是心智自作自受的闭环——始于心智，运转于心智，也终结于心智。**
 这绝不是统计学或统计学家的过错。统计学与大数定律只是一套精巧、诚实且无辜的认知脚手架；它在数学上精确地记录了群体聚合后的几何轮廓。真正的倒错，出在**心智自己盲目相信了这套统计数据**。是心智主动把工具当成了本体，把自己为了平复认知焦虑而强加的平滑秩序误认成了客观宇宙天道，从而在自己编织的统计图表面前自缚手脚、向虚构的命运缴械投降。
 
+**统计数据对我们个体的选择自由毫无支配权——除非我们主动把自己的选择权向其拱手相让。**
+
 ---
 
 Here, the ultimate psychological and epistemic symmetry underlying determinism and quantum indeterminacy is laid bare:
@@ -166,6 +168,8 @@ This is the most grotesque intellectual betrayal in history:
 **A decisive clarification must be made here: this entire entanglement is completely self-inflicted—originating in the mind, operating within the mind, and ending in the mind.**
 It is not the fault of the statistician, nor is it a defect of statistics. Statistics and the law of large numbers are innocent, highly capable cognitive scaffolding; mathematically, they report with immaculate precision the geometric shadow cast by aggregated populations. The fault lies entirely with **the mind choosing to believe the statistics as metaphysical law**. The mind manufactures a functional map to manage its own cognitive limits, forgets that it drew the map, mistakes computational convenience for ontological bedrock, and voluntarily surrenders its living sovereignty to its own creation.
 
+**The statistics has no power over our individual freedom of choice unless we surrender our choice to it.**
+
 ---
 
 ## 五、 终结大一统的幻象：重回不可逆的行动现场（`+1`） / 5. Dissolving the Idol: Returning to the Irreversible Step (`+1`)
@@ -179,7 +183,7 @@ It is not the fault of the statistician, nor is it a defect of statistics. Stati
 世界在根本上不是一座冰冷、死寂、早已写完剧本的决定论发条钟；世界是一个正在由无数个第一人称因果原点共同推进的、生生不息的开放现场。
 
 在每一个具体的当下，大一统理论（ToE）关于“万物皆被终极公式闭合”的狂妄构想瞬间化为齑粉：
-任何一套宏大的宏观方程、任何一份详尽的统计模型，在面对你此时此地即将做出的那一次具体决断时，都必须缴械投降。统计模型可以准确预测一亿人在面临选择时的总体分布，但它永远无法替坐在此时此地的你做主。
+任何一套宏大的宏观方程、任何一份详尽的统计模型，在面对你此时此地即将做出的那一次具体决断时，都必须缴械投降。统计模型可以准确预测一亿人在面临选择时的总体分布，但它永远无法替坐在此时此地的你做主——统计数据对你个人的选择自由毫无支配力，除非你自己向它投降。
 
 那一刻的决定权，百分之百牢牢握在你的第一人称视界之中。
 在你的内心，这种决断是百分之百内在自洽的；在外部世界的观察中，它是一次未被写死在剧本里的微观跃迁。
@@ -196,7 +200,7 @@ When all these pieces are joined, the mist of grand theories evaporates entirely
 The cosmos is not a frozen, clockwork machine that has already played out its script from eternity. Reality is an open, living frontier continuously propelled by localized, first-person causal centers.
 
 At this exact moment, the grand dream of a "Theory of Everything"—the illusion that all of existence can be sealed into an algebraic formula—collapses into dust:
-No overarching differential equation, and no vast statistical model, can ever rob you of the immediate intervention you are about to make. An actuarial model can predict the macroscopic distribution of a hundred million choices; it can never dictate the choice you make right now.
+No overarching differential equation, and no vast statistical model, can ever rob you of the immediate intervention you are about to make. An actuarial model can predict the macroscopic distribution of a hundred million choices; it can never dictate the choice you make right now. The statistics has no power over your individual freedom of choice unless you surrender your choice to it.
 
 The authority of the present step resides entirely within your first-person horizon.
 From the inside of your consciousness, the choice is fully coherent and self-determined. To an outside observer, it appears as an unpredetermined causal step.
