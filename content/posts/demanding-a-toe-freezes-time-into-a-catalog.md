@@ -68,20 +68,18 @@ Any attempt to claim that a Theory of Everything is grounded in a complete, obje
 当一个物理学家坐在黑板前，脑海中浮现出“我要将宇宙所有规律闭合为一组方程”的雄心壮志，或者当他在草稿纸上写下最后一个统一算符时，现实停下来了吗？时间被定格在那个瞬间了吗？
 
 绝对没有。
-就在那个念头萌生、神经元放电、粉笔划过黑板的那一微秒里，一个无法逆转的物理事实已经轰然发生：**宇宙早已经不可逆转地、不可阻挡地迈向了下一个时刻（`+1`）！**
+就在那个念头萌生、粉笔划过黑板的微秒之间，因果已经不可逆地向前推进：**现实早已不可阻挡地迈向了下一个时刻（`+1`）。**
 
-* 思考需要耗散自由能；
-* 记录需要擦除物理信息并释放熵（兰道尔原理）；
-* 任何形式的构想、书写与表达，都是现实本身正在踩出的一记鲜活的因果步长。
+这里无需罗列能量耗散或信息擦除之类的物理学注脚——因果不可逆地向前推进本身，就是唯一的根本原因。所谓的神经元放电、热量耗散或熵的增减，都只是因果流动在下游显现出的伴生症状；若将这些症状罗列为“原因”，反而在无意中将不可化约的因果降解为了局域的机械决定论。
 
-这就制造了一个荒诞的绝境：
-万物理论的根本目的，是要给现实拍一张“穷尽一切状态与法则的全景快照”；
-然而，**“按下快门”和“冲洗胶片”这一动作本身，就是现实自身不可分割的全新演化！**
+唯一的根本在于：因果不会停下。
+万物理论的初衷，是为现实制作一份穷尽一切状态与法则的静态全景快照；
+然而，**构想与记录这一动作本身，就是因果正在发生的全新一瞬！**
 
-在你自以为终于在方程里把现实的一切粒子和状态都“打包封口”的那个绝对瞬间，真实的宇宙早已经跨过门槛、带着你写下公式所产生的热量和新状态，潇洒地迈入了全新的下一瞬。你所捕获的所谓“万物全景”，在它落笔完成的第一毫秒，就已经沦为了被现实无情抛弃在后的旧投影！
+在你自以为终于在方程里把现实的一切都“打包封口”的瞬间，现实早已跨过门槛、进入了全新的下一瞬（`+1`）。你所捕获的所谓“万物全景”，在落笔完成的第一毫秒，就已经沦为了被现实甩在身后的旧投影。
 
-**索求万物理论，在它被提出来的瞬间就是自相矛盾的。**
-它试图以一个系统内部的局域动作去冻结整个系统的流动，但这个动作本身的存在，就是流动永不停歇的最铁证。你永远无法用一张包含所有地图的地图去覆盖领土，因为画出这张地图的墨水，本身就是领土上正在涌现的新地貌。
+**索求万物理论，在它被提出来的瞬间就已自溃。**
+它试图以一个系统内部的局域动作去冻结整个系统的流动，但这个动作本身的存在，就是流动永不停歇的最直接见证。你永远无法用一张包含所有地图的地图去覆盖领土，因为画出这张地图的墨水，本身就是领土上正在涌现的新地貌。
 
 ---
 
@@ -95,20 +93,18 @@ Tracing what actually occurs in physical reality:
 When a theorist sits before a chalkboard, seized by the ambition to enclose all cosmic laws into a final set of equations—or when they write down the final unified operator—does reality pause? Does time freeze to await the formula?
 
 Not for a femtosecond.
-At the exact microsecond the thought flashes through neural synapses and the chalk strikes the board, an inescapable physical event has transpired: **reality has already, inevitably, irreversibly moved onto the next moment (`+1`)!**
+At the exact microsecond the thought forms and the chalk touches the board, causality has already moved on: **reality has inexorably, irreversibly taken the next step (`+1`).**
 
-* Thinking dissipates free energy;
-* Inscribing symbols erases physical states and generates entropy (Landauer's Principle);
-* Every formulation, utterance, or proof is itself an active, discrete, irreversible causal step taken by the cosmos.
+There is no need to list physical footnotes like free energy dissipation or Landauer's Principle—the irreversible movement of causality is itself the single and sufficient ground. Neural firing, heat generation, or entropy changes are merely downstream symptoms of this movement. Listing them as if they were explanations risks inverting the relationship, mistaking incidental symptoms for deterministic causes.
 
-This produces an inescapable structural impasse:
-The explicit objective of a Theory of Everything is to produce an exhaustive, closed snapshot of all cosmic states and laws;
-Yet **the very act of capturing that snapshot is itself a brand-new, unscripted physical unfolding within the cosmos!**
+The fundamental ground is simply that causality moves on, irreversibly.
+The explicit objective of a Theory of Everything is to produce an exhaustive, closed snapshot of reality;
+Yet **the very act of capturing that snapshot is itself a brand-new, active causal step within reality!**
 
-At the precise moment you believe you have successfully sealed the universe inside your master equations, the living universe has already stepped over the threshold. Carrying the heat of your thoughts, the friction of your chalk, and the novel configuration of your brain, it has entered the next moment. The "complete cosmic catalog" you just inscribed is obsolete before the ink has dried—left behind as an outdated projection of a vanished instant.
+At the precise moment you believe you have successfully sealed the universe inside your master equations, reality has already stepped over the threshold into the next moment (`+1`). The "complete cosmic catalog" you just inscribed is obsolete before the ink has dried—left behind as an outdated projection of a vanished instant.
 
-**The demand for a Theory of Everything is self-defeating at the very instant of its formulation.**
-It attempts to use a local operation inside the system to freeze the flow of the whole, while the operation itself constitutes irrefutable proof that the flow cannot be arrested. You can never draw a map that encloses the whole territory, because the ink used to draw the map is itself newly emerging territory.
+**The demand for a Theory of Everything collapses in self-refutation at the very instant of its formulation.**
+It attempts to use a local operation inside the system to freeze the flow of the whole, while the operation itself constitutes direct proof that the flow cannot be arrested. You can never draw a map that encloses the whole territory, because the ink used to draw the map is itself newly emerging territory.
 
 ---
 
