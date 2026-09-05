@@ -177,13 +177,6 @@ function formatInline(text) {
     return `\uE000${idx}\uE001`;
   });
 
-  const mathTokens = [];
-  processed = processed.replace(/\\\(.+?\\\)|\$\$.+?\$\$|\\\[.+?\\\]/g, (mathMatch) => {
-    const idx = mathTokens.length;
-    mathTokens.push(escapeHtml(mathMatch));
-    return `\uE004${idx}\uE005`;
-  });
-
   const linkTokens = [];
   processed = processed.replace(/\[([^\]]+)\]\(([^)]*)\)/g, (_full, label, href) => {
     const idx = linkTokens.length;
@@ -198,7 +191,6 @@ function formatInline(text) {
 
   processed = applyEmphasis(escapeHtml(processed));
   processed = processed.replace(/\uE002(\d+)\uE003/g, (_m, idx) => linkTokens[Number(idx)]);
-  processed = processed.replace(/\uE004(\d+)\uE005/g, (_m, idx) => mathTokens[Number(idx)]);
   processed = processed.replace(/\uE000(\d+)\uE001/g, (_m, idx) => codeTokens[Number(idx)]);
   return processed;
 }
@@ -217,18 +209,6 @@ function markdownToHtml(markdownBody) {
   let inCodeBlock = false;
   let codeBlockLines = [];
   let codeBlockLang = '';
-  let inMathBlock = false;
-  let mathBlockLines = [];
-  let mathBlockDelim = '';
-
-  function flushMathBlock() {
-    if (!inMathBlock) return;
-    const mathContent = mathBlockLines.join('\n');
-    chunks.push(`<div class="math-display">\\[\n${escapeHtml(mathContent)}\n\\]</div>`);
-    inMathBlock = false;
-    mathBlockLines = [];
-    mathBlockDelim = '';
-  }
 
   function lineHasHardBreak(rawLine) {
     // Two or more trailing spaces, or a single trailing backslash (GFM-style).
@@ -325,7 +305,6 @@ function markdownToHtml(markdownBody) {
     flushList();
     flushQuote();
     flushTable();
-    flushMathBlock();
     if (inCodeBlock) {
       if (codeBlockLang === 'mermaid') {
         chunks.push(`<div class="mermaid-wrap" title="Click to zoom in"><pre class="mermaid">${escapeHtml(codeBlockLines.join('\n'))}</pre><div class="mermaid-hint"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg><span>Click to zoom</span></div></div>`);
@@ -363,59 +342,6 @@ function markdownToHtml(markdownBody) {
 
     if (inCodeBlock) {
       codeBlockLines.push(line);
-      continue;
-    }
-
-    if (inMathBlock) {
-      if (trimmed === mathBlockDelim || (mathBlockDelim && trimmed.endsWith(mathBlockDelim))) {
-        if (trimmed !== mathBlockDelim) {
-          const ending = trimmed.slice(0, -mathBlockDelim.length).trimEnd();
-          if (ending) mathBlockLines.push(ending);
-        }
-        flushMathBlock();
-        continue;
-      }
-      mathBlockLines.push(line);
-      continue;
-    }
-
-    if (trimmed.startsWith('\\[') && trimmed.endsWith('\\]') && trimmed.length >= 4) {
-      flushAll();
-      const inner = trimmed.slice(2, -2).trim();
-      chunks.push(`<div class="math-display">\\[\n${escapeHtml(inner)}\n\\]</div>`);
-      continue;
-    }
-
-    if (trimmed.startsWith('$$') && trimmed.endsWith('$$') && trimmed.length >= 4) {
-      flushAll();
-      const inner = trimmed.slice(2, -2).trim();
-      chunks.push(`<div class="math-display">\\[\n${escapeHtml(inner)}\n\\]</div>`);
-      continue;
-    }
-
-    if (trimmed === '\\[' || trimmed === '$$') {
-      flushAll();
-      inMathBlock = true;
-      mathBlockDelim = trimmed === '\\[' ? '\\]' : '$$';
-      mathBlockLines = [];
-      continue;
-    }
-
-    if (trimmed.startsWith('\\[') && !trimmed.endsWith('\\]')) {
-      flushAll();
-      inMathBlock = true;
-      mathBlockDelim = '\\]';
-      const first = trimmed.slice(2).trim();
-      mathBlockLines = first ? [first] : [];
-      continue;
-    }
-
-    if (trimmed.startsWith('$$') && !trimmed.endsWith('$$')) {
-      flushAll();
-      inMathBlock = true;
-      mathBlockDelim = '$$';
-      const first = trimmed.slice(2).trim();
-      mathBlockLines = first ? [first] : [];
       continue;
     }
 
@@ -979,29 +905,6 @@ function renderPage({
   </script>\n`
     : '';
 
-  const hasMath = content.includes('class="math-display"') || /\\\(|\\\[|\$\$/.test(content);
-  const mathHead = hasMath
-    ? `  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.css">\n`
-    : '';
-  const mathScript = hasMath
-    ? `  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.js"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/contrib/auto-render.min.js"></script>
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      if (typeof renderMathInElement === 'function') {
-        renderMathInElement(document.body, {
-          delimiters: [
-            {left: '$$', right: '$$', display: true},
-            {left: '\\\\[', right: '\\\\]', display: true},
-            {left: '\\\\(', right: '\\\\)', display: false}
-          ],
-          throwOnError: false
-        });
-      }
-    });
-  </script>\n`
-    : '';
-
   return `<!doctype html>
 <html lang="${SITE.language}">
 <head>
@@ -1017,7 +920,7 @@ ${alternateLinksHtml}
   <link rel="apple-touch-icon" href="${withBase(APPLE_TOUCH_ICON)}">
   <meta name="apple-mobile-web-app-title" content="${escapeHtml(SITE.title)}">
   <link rel="stylesheet" href="${withBase(`style.css?v=${styleVersion}`)}">
-${mathHead}  <meta property="og:title" content="${escapeHtml(fullTitle)}">
+  <meta property="og:title" content="${escapeHtml(fullTitle)}">
   <meta property="og:description" content="${escapeHtml(description)}">
   <meta property="og:type" content="${escapeHtml(ogType)}">
   <meta property="og:url" content="${escapeHtml(canonicalUrl)}">
@@ -1034,7 +937,7 @@ ${ogImageExtras}
   <main class="wrap">
 ${content}
   </main>
-${mathScript}${mermaidScript}</body>
+${mermaidScript}</body>
 </html>
 `;
 }

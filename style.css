@@ -63,22 +63,6 @@ pre code {
   padding: 0;
 }
 
-.math-display {
-  margin: 1.5rem 0;
-  text-align: center;
-  overflow-x: auto;
-  overflow-y: hidden;
-  max-width: 100%;
-}
-
-.math-display .katex-display {
-  margin: 0.5rem 0;
-}
-
-.katex {
-  font-size: 1.08em;
-}
-
 .mermaid-wrap {
   position: relative;
   margin: 1.75rem 0;
