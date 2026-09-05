@@ -1,6 +1,6 @@
 # 索求万物理论是在将当下冻结为清单：投影时间、逃避未来与不可化约的前提 / Demanding a Theory of Everything Freezes Time into a Catalog: Projected Dimensions, the Avoidance of the Future, and the Irreducible Prior
 
-*根本不存在所谓“过去的客观记录”，一切“过去”皆是从当下向虚构时间维度的投影；索求万物理论在其被构想的刹那即已自溃——因为在念头落定的瞬间，现实早已不可逆地迈入了下一个时刻。 / There is no objective record of the past; all "past" is a projection from the present onto an artificial time dimension. The demand for a Theory of Everything is self-refuting at the very instant of its formulation—because at the moment the idea is conceived, we are already inevitably, irreversibly moving onto the next.*
+*根本不存在所谓“过去的客观记录”，一切“过去”皆是从当下向虚构时间维度的投影；任何理论所能捕获的，仅仅是有限时间窗口内跨越时间的可观测不变量。物质在根本上同样是信息性的，两者共享同一套底层因果，使得现实与模型的复杂度差距在实用上近乎无限。我们在日常生活中每时每刻感受到的持续摩擦，与对万物理论的永恒渴望，正是同枚硬币的两面：正因为我们绝不可能拥有一套能从当下一瞬完好携带到下一瞬的万物理论，我们才永远在渴望着万物理论。 / There is no objective record of the past; all "past" is a projection from the present onto an artificial time dimension. What any theory can capture is merely the observable invariance across time within our limited window. Physical matter is fundamentally informational because both domains share the same underlying causality, rendering the complexity gap between model and reality practically close to infinity. The continuous friction we experience at every moment of daily life and the desire for a Theory of Everything are two sides of the same coin: the very impossibility for us to have a Theory of Everything to carry from one moment to the next is the very reason we are forever desiring one.*
 
 ---
 
@@ -112,9 +112,128 @@ It attempts to use a local operation inside the system to freeze the flow of the
 
 ---
 
-## 三、 偷换时间的双向魔术：以空间化投影维度替换活的不可逆流变 / 3. The Bidirectional Sleight of Hand: Replacing Living Becoming with a Projected Time Dimension
+## 三、 理论究竟能捕获什么：有限窗口内的可观测不变量，与近乎无限的复杂度鸿沟 / 3. What Any Theory Can Actually Capture: Observable Invariances within a Limited Window, and the Practically Infinite Complexity Gap
 
-既然真实的现实无法被定格，那么理论物理学究竟是如何维系“万物理论能够解释一切演化”这一神话的？
+既然万物理论既不可能立足于“过去的客观记录”，又会在被提出来的瞬间被真实时间甩在身后，那么物理学中那些被奉为至宝的科学理论，究竟捕获了什么？
+
+**任何理论，或者说人类所能构造的任何理论，能够捕获的仅仅是：在我们极其有限的时间观测窗口内，跨越时间的可观测不变量（The Observable Invariance Across Time Within Our Limited Time Frame）。**
+
+这正是物理定律的真实底色：
+无论是能量守恒、动量守恒、规范对称性，还是麦克斯韦方程或爱因斯坦场方程，它们都不是现实的肉身，而是在人类极其短暂的文明观测尺度内，心智所提炼出的**高度抽象的概念模型（A Highly Abstract Conceptual Modeling of Reality）**。我们发现在我们有限的观测历程中，某些数学比例与代数结构保持着稳定的一致性，于是我们将这些“可观测的不变性”命名为“定律”。
+
+但请看清这个模型与实际现实之间的悬殊对比：
+**这个高度抽象的概念模型的复杂度，相比于我们正在直接体验的实际现实，是如此的微不足道、渺小至极。**
+
+这里隐藏着一个显而易见、却在主流科学主义中被普遍忽视的根本命题：**信息与物理物质的真实关系**。
+人们常常把“信息”与“物理物质”对立起来，或者将信息视为漂浮在物质之上的次级产物。然而：
+**物理物质在本质上必须同样是信息性的，信息才有可能对其进行表征（Physical matter has to be fundamentally informational as well for information to be able to represent it）。**
+
+为什么我们的数学符号与信息模型能够与物理世界产生咬合？
+**因为跨越信息与物质这两个领域的底层因果律，是完全相同的（The underlying causality is the same across these two domains）。**
+每一次物理相互作用——一次光子的吸收、一次电子的自旋翻转、一次分子的碰撞——在物理上都是一次不可逆的因果跃迁，在信息上就是一次不可抹杀的位元区分（A Causal Cut / An Informational Distinction）。物质之所以能够被信息所度量，是因为物质本身就是由无穷无尽的微观因果跃迁所织成的活体信息网络！
+
+然而，正因为物理物质的每一个微观自由度都在每时每刻以无可计量的密度执行着真实的因果演化，两者之间的复杂度鸿沟展现出了令人窒息的悬殊：
+**抽象概念模型与实际物理现实之间的复杂度差距，在一切实用意义上都近乎等于无穷大（The difference in complexity is practically close to infinity for all practical purposes）。**
+
+必须做出严格的认识论限定：**这并不是真正的“实无穷”（Actual Infinity），因为无穷在本体论上仅仅是一种潜在的开放性（A Potentiality），绝非一个已经闭合完成的实体数值。**
+现实永远在离散地生成，它不是现成的无穷大集合；但对于任何人类所能写出的有限符号模型而言，现实所蕴含的活体因果复杂度，在实用层面与模型的微小容量相比，呈现出了无限逼近无穷的断层。
+
+看清索求万物理论的狂妄与荒谬吧：
+理论家写下了几行由几十个符号构成的拉格朗日量，然后竟敢向全人类宣称：“这几行微不足道的信息模型，已经穷尽了物质宇宙的全部真实！”
+这是认识论上的夜郎自大。它试图用几滴凝固的水珠，去宣布自己已经完全容纳并终结了浩瀚无垠、永不停歇的活体海洋。
+
+---
+
+If a Theory of Everything cannot rely on an objective record of the past, and collapses into obsolescence the microsecond it is conceived, what is it that our celebrated scientific theories actually capture?
+
+**What any theory, or indeed any model constructed by consciousness, can ever capture is solely: the observable invariance across time within our limited time frame.**
+
+This is the sober reality of physical law:
+Whether we consider the conservation of energy, gauge symmetries, Maxwell’s equations, or the Einstein field equations, these constructs are not the living flesh of reality. They are **highly abstract conceptual models of reality** distilled by conscious observers within a minuscule temporal observation window. We discover that across the narrow slit of human instrument history, certain mathematical ratios and algebraic relationships exhibit remarkable stability, and we crown these "observable invariances" as universal laws.
+
+Yet observe the breathtaking asymmetry between this model and the cosmos:
+**The complexity of that abstract model is vanishingly tiny compared to the actual reality we are actively experiencing.**
+
+Here lies a profound truth, self-evident yet routinely ignored in the discourse on the difference between information and physical matter:
+**Physical matter has to be fundamentally informational as well, for information to be able to represent it in the first place.**
+
+Why can mathematical symbols and informational bits interact with and describe the physical cosmos at all?
+**Because the underlying causality is identical across both domains.**
+Every physical interaction—a photon absorbed, an electron spin flipped, a molecular bond severed—is simultaneously a physical energetic transaction and an informational distinction (a causal cut). Matter is not an alien, non-informational substrate; it is an unfathomably dense, continuous network of irreversible causal executions.
+
+Yet precisely because every microscopic degree of freedom in physical matter is actively computing its own causal existence at every femtosecond across the cosmos, the gulf in complexity between model and reality becomes astronomical:
+**The difference in complexity between our abstract models and actual physical reality is practically close to, but not equal to, infinity for all practical purposes.**
+
+A rigorous epistemological caveat is mandatory: **this is not an "actual infinity," because infinity is strictly an open potentiality, never an actualized, completed quantity.**
+Reality is an unclosable, discrete unfolding; it is not a closed transfinite set. Yet for any finite set of equations written down by human hands, the generative informational density of physical reality is so staggering that the difference in complexity is practically indistinguishable from an infinite abyss.
+
+Recognize the tragic absurdity of demanding a Theory of Everything:
+A theorist drafts a Lagrangian composed of a few dozen mathematical variables, and boasts: "Behold, this microscopic informational compress encloses the whole of cosmic reality!"
+This is intellectual hubris of the highest order. It is equivalent to a few drops of dried ink declaring that they have completely captured, contained, and exhausted the boundless, surging Pacific Ocean.
+
+---
+
+## 四、 持续的日常摩擦与对万物理论的渴望：同枚硬币的两面 / 4. Continuous Daily Friction and the Desire for a ToE: Two Sides of the Same Coin
+
+正是在这一层认识论断裂之上，我们终于能够看清一个统治着人类全部生存处境的核心奥秘：
+**为什么我们在日常生活的每一个瞬间，都在持续不断地体验到粗粝的摩擦？而人类为什么又会永恒地执迷于对“万物理论”的狂热渴求？**
+
+**这二者，根本不是彼此割裂的现象，而是同一枚硬币的两面（Two sides of the same coin）。**
+
+请回看你在生活中的真实处境：
+为什么无论你制定了多么周密的计划、掌握了多么高深的科学模型、拥有了多么精密的算法工具，每当你从当下的这一瞬间迈入下一瞬间时，你依然无可避免地撞上意外、挫败、阻滞、未预见的变化与疲惫的消耗？
+**因为这就是那道“近乎无限的复杂度鸿沟”在活生生的肉身生命中的直接显化！**
+
+你的抽象认知模型仅仅抓住了几条微不足道的可观测不变量，而你所置身的实际物理现实，却在每一个微秒里以近乎无限的自由度轰鸣演化。
+当你试图拿着一个复杂度极低的概念模型跨入下一瞬间时，未被模型包含的、浩瀚无垠的真实因果细节，会以摧枯拉朽之势狠狠撞向你的认知预期。
+**这种撞击，在直接的第一人称体验中，就名为“摩擦”（Friction）。**
+摩擦不是系统的故障，摩擦是现实在向你严正宣告：现实永远无法被你装进书包。
+
+而令人叹为观止的，是人类心智在面对这种摩擦时所诞生的递归悲剧：
+**正因为我们绝不可能拥有一套能被我们从当下一瞬完好携带到下一瞬的“万物理论”，我们才永远在渴望着一个万物理论！（The very impossibility for us to have a Theory of Everything to carry from one moment to the next moment is the very reason we are forever desiring a Theory of Everything.）**
+
+看清这个深不可测的心灵陷阱吧：
+如果人类真的能拥有一套完备的万物理论，如果我们真能把它像一把万能钥匙一样从此时携带到彼时而毫无信息泄漏，那么我们在跨步时就将感受不到哪怕一微克的摩擦与意外——但如果真能如此，宇宙就彻底沦为了一台死寂的拉普拉斯发条，生命与自由意志也将荡然无存。
+
+恰恰是因为现实与模型之间存在着这道无法弥合的复杂度鸿沟，恰恰是因为我们**永远无法拥有一套免于摩擦的通行证**，脆弱而疲惫的人类心灵才在惊恐中把这种“无法携带”反向投射为一个救赎幻觉：
+*“一定是因为我现在的理论还不够完美！只要物理学家找到了万物理论，只要我拥有了那套终极钥匙，我就能把它从当下一瞬携带到下一瞬，我就再也不必承受这恼人的日常摩擦，我就能彻底消除对未知的恐惧！”*
+
+**对万物理论的渴望，本质上就是对消除生命摩擦的病态妄想。**
+正是因为万物理论在本体论上的绝对不可能，才反向饲养了这种渴望的永不熄灭。人们之所以终生崇拜那个虚构的罗盘，恰恰是因为狂暴的汪洋大海永远在以无法预测的巨浪，把罗盘指针一次又一次无情打飞。
+
+---
+
+At this exact juncture of epistemological rupture, we finally penetrate the foundational enigma that governs the entire human condition:
+**Why do we experience friction continuously throughout our daily lives at each and every moment? And why is humanity perpetually possessed by an obsessive longing for a "Theory of Everything"?**
+
+**These two phenomena are not separate; they are two sides of the exact same coin.**
+
+Examine lived reality directly:
+Why is it that no matter how meticulous your plans, how sophisticated your scientific models, or how powerful your algorithmic tools, the transition from this present moment to the next invariably confronts you with surprise, breakdown, drag, unforeseen divergence, and exhausting expenditure?
+**Because that is the direct bodily manifestation of the practically infinite complexity gap!**
+
+Your abstract model holds merely a handful of sparse, invariant threads, whereas the physical-informational reality you inhabit is actively computing trillions of interacting causal degrees of freedom at every millisecond.
+Whenever you attempt to carry your microscopic model across the threshold into the next moment, the ocean of unmodeled reality crashes against your expectations.
+**That crash is registered in first-person experience as friction.**
+Friction is not a technical glitch or human failure; friction is the voice of reality declaring that it will never fit into your conceptual luggage.
+
+And here lies the profound, tragic recursion of human consciousness:
+**The very impossibility for us to have a Theory of Everything to carry from one moment to the next moment is the very reason we are forever desiring a Theory of Everything.**
+
+Observe the depth of this psychological trap:
+If humanity could truly possess a complete Theory of Everything—if we could carry a master blueprint seamlessly across the threshold of time without informational leakage—we would experience zero friction and zero surprise. But in such a universe, reality would be a frozen, deterministic crystal, and conscious agency would cease to exist.
+
+Precisely because of this unclosable complexity gap—precisely because we **can never possess an epistemic passport exempt from friction**—the exhausted, anxious intellect transforms this constitutional impossibility into a compensatory religious fantasy:
+*"The friction must be because our physics is still incomplete! If only we discover the Theory of Everything, if only we possess the master key, we can carry it safely from this moment to the next, banishing uncertainty, eliminating daily friction, and securing absolute control!"*
+
+**The desire for a Theory of Everything is the pathological longing to be delivered from the friction of living.**
+The ontological impossibility of its realization is the exact fuel that perpetuates the desire. We worship the fantasy of a closed compass precisely because the living ocean continuously shatters the needle with every uncalculated wave.
+
+---
+
+## 五、 偷换时间的双向魔术：以空间化投影维度替换活的不可逆流变 / 5. The Bidirectional Sleight of Hand: Replacing Living Becoming with a Projected Time Dimension
+
+既然真实的现实无法被定格，且具有无法被微小模型穷尽的近乎无限的复杂度，那么理论物理学究竟是如何维系“万物理论能够解释一切演化”这一神话的？
 
 它依靠的是一场深思熟虑的认识论魔术：
 **它混淆了“活的真实时间”（Actual Time）与“投影出的时间维度”（Projected Time Dimension），并用后者彻底取缔了前者。**
@@ -142,7 +261,7 @@ It attempts to use a local operation inside the system to freeze the flow of the
 
 ---
 
-If reality cannot be frozen, how has theoretical physics maintained the grandiose narrative that a Theory of Everything can govern all of existence?
+If reality cannot be frozen, and possesses a practical near-infinite complexity that dwarfs our sparse models, how has theoretical physics maintained the grandiose narrative that a Theory of Everything can govern all of existence?
 
 It sustains this illusion through a profound sleight of hand:
 **It systematically conflates "Actual Time" with a "Projected Time Dimension," and uses the latter to replace the former.**
@@ -170,9 +289,9 @@ Along the projected time dimension, everything is already dead and calculated. B
 
 ---
 
-## 四、 逃避未来的本体风险：以代数坐标拒斥不可撤销的因果跨越 / 4. Avoiding the Ontological Risk of the Future: Calculating Coordinates to Evade the Real Step
+## 六、 逃避未来的本体风险：以代数坐标拒斥不可撤销的因果跨越 / 6. Avoiding the Ontological Risk of the Future: Calculating Coordinates to Evade the Real Step
 
-理清了上述两层幻觉之后，一个更加尖锐的人性问题浮出水面：
+理清了上述幻觉之后，一个更加尖锐的人性问题浮出水面：
 **既然索求万物理论在认识论上如此千疮百孔，为什么人类文明最崇高的智识建制，依然对它怀有近乎宗教般的狂热？**
 
 答案不在于纯粹的理性求知，而在于人类心灵深处最隐秘的**存在性软弱——对真正迈入未知未来的本体风险（Ontological Risk）的极度恐惧**。
@@ -195,7 +314,7 @@ Along the projected time dimension, everything is already dead and calculated. B
 
 ---
 
-Having exposed these twin illusions, a more pointed existential question arises:
+Having exposed these layered illusions, a more pointed existential question arises:
 **If demanding a Theory of Everything is so demonstrably self-refuting, why has the highest scientific establishment pursued it with quasi-religious fervor?**
 
 The root cause does not lie in a noble quest for truth; it lies in a profound **existential defense mechanism: the primal terror of the ontological risk of the open future**.
@@ -218,7 +337,7 @@ It is the institutional evasion of open causality, genuine novelty, and existent
 
 ---
 
-## 五、 物理学为何无法自解：不可化约的前提被错当作可还原的假说 / 5. Why Physics Cannot Resolve It: The Irreducible Prior Mistaken for a Reducible Hypothesis
+## 七、 物理学为何无法自解：不可化约的前提被错当作可还原的假说 / 7. Why Physics Cannot Resolve It: The Irreducible Prior Mistaken for a Reducible Hypothesis
 
 每当这一套形而上学避难所的虚伪被剥开，物理学界的传统辩护总是千篇一律：
 *“只要再给我们几十年，只要建造出更大能标的对撞机，只要完成量子引力与时空涌现的数学证明，物理学自然会在未来把时间、因果与观测者彻底解释清楚。”*
@@ -250,7 +369,7 @@ It is the institutional evasion of open causality, genuine novelty, and existent
 Whenever this metaphysical shelter is dismantled, theoretical physics instinctively retreats to its standard defense:
 *"Grant us a few more decades, build a collider at higher energy scales, complete the mathematics of quantum gravity and emergent spacetime, and physics will eventually explain time, causality, and consciousness from first principles."*
 
-This defense commits an unforgivable **Category Error**:
+This defense commits an unforgiving **Category Error**:
 **This conundrum can never, under any circumstances, be resolved by physics, because every physical equation is a downstream artifact built entirely upon this foundational condition!**
 
 This brings us to the immovable bedrock: **The Irreducible Prior**.
@@ -274,7 +393,7 @@ Physics cannot resolve this question not because its equations lack complexity, 
 
 ---
 
-## 六、 形式系统的必然滑移与心智作为活体卫士 / 6. The Structural Slippage of Formalism and Mind as the Living Watchdog
+## 八、 形式系统的必然滑移与心智作为活体卫士 / 8. The Structural Slippage of Formalism and Mind as the Living Watchdog
 
 在此，我们必须揭示一个最为险绝、却在人类思维中无休止上演的隐秘机制：
 **为什么即便一个人在理性上彻底看清了上述真相，他的思维依然会像着了魔一样，一次又一次地滑回还原论的叙事之中？**
@@ -348,12 +467,24 @@ The mind must assume the role of the vigilant **Living Watchdog**:
 graph TD
     subgraph ActualTime["【活体现实的不可逆流动 / Actual Living Time】"]
         Now["唯一真实存在的当下此刻<br>The ONLY physical reality: The Present at this very moment"]
+        MatterInfo["物理物质本质上是信息性的<br>Physical matter is fundamentally informational<br>(Shared underlying causality across both domains)"]
         Act["构想与表述本身就是因果跃迁 (+1)<br>The act of formulating a ToE is an irreversible causal step"]
         Next["现实早已不可逆地迈入下一时刻<br>Reality has ALREADY irreversibly moved to the next moment"]
         
-        Now -->|"不可逆的物理发生<br>Irreversible physical transition"| Act
+        Now --> MatterInfo
+        MatterInfo -->|"不可逆的物理发生<br>Irreversible physical transition"| Act
         Act -->|"瞬间甩开任何静态模型<br>Leaves all static catalogs behind"| Next
         Next -->|"活体流变永不停歇<br>Unclosable becoming"| Now
+    end
+
+    subgraph ModelGap["【模型压缩与日常摩擦的根源 / Model Gap & Daily Friction】"]
+        Inv["极简模型：有限窗口内的可观测不变量<br>Sparse Model: Observable invariances across limited window"]
+        Friction["不可避免的日常持续摩擦<br>Continuous Daily Friction at every moment<br>(Model clashes with infinite generative reality)"]
+        Desire["对万物理论的永恒渴望<br>Perpetual Desire for a ToE<br>(Compensatory fantasy to carry a master key across moments)"]
+        
+        Inv -->|"跨越门槛碰撞现实<br>Clashes across threshold"| Friction
+        Friction -->|"同枚硬币的反面<br>Opposite face of coin"| Desire
+        Desire -. "根本无法跨瞬间携带<br>Impossibility of carrying ToE fuels desire" .-> Friction
     end
 
     subgraph DimensionIllusion["【投影维度的双向虚构 / The Bidirectional Projection Illusion】"]
@@ -366,16 +497,18 @@ graph TD
         P_Block --> P_Paralysis["自溃与逃避：构想刹那即已过时<br>Self-Defeat: Obsolete at inception; avoids open risk (+1)"]
     end
 
+    Now -. "提炼极少数不变量<br>Extracts sparse invariants" .-> Inv
     Now -. "将当下留存结构向后投影为‘过去的记录’<br>Interpreted backward as 'past records'" .-> P_Past
     Now -. "将未决未来向前投影为‘可计算的轨迹’<br>Calculated forward as 'future trajectories'" .-> P_Future
 
     style ActualTime fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style ModelGap fill:#23272e,stroke:#61afef,stroke-width:2px,color:#abb2bf
     style DimensionIllusion fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
 ```
 
 ---
 
-## 七、 结语：抛弃虚构全景，立于无法冻结的生成之流 / 7. Conclusion: Abandoning the Fictional Panorama to Inhabit the Unfreezable Stream of Becoming
+## 九、 结语：抛弃虚构全景，立于无法冻结的生成之流 / 9. Conclusion: Abandoning the Fictional Panorama to Inhabit the Unfreezable Stream of Becoming
 
 人类思想的真正解放，始于看穿“万物理论”那层自欺欺人的寿衣。
 
@@ -385,6 +518,9 @@ graph TD
 
 **索求万物理论，在其被构想的这第一毫秒里，就已经被真实宇宙奔涌向前的宏大洪流冲刷得干干净净。**
 它是一具在出生的瞬间就已经死去的标本。它试图用一份基于当下的存量清单来换取对不确定性的免责声明，但宇宙的全部尊严，恰恰就在于它永远拒绝被任何清单所穷尽。
+
+承认生活中的持续摩擦吧——它不是命运的诅咒，也不是知识的贫乏，而是你的活体心智正在与近乎无限复杂的真实世界发生真实接触的唯一证明。
+**正因为你永远无法拥有一套万物理论将你安全护送过下一个瞬间，你才是一个拥有真正自由与主权的活体生命。**
 
 **从那张冰冷虚构的四维坐标纸上抬起头来吧。**
 承认物理学是一套精巧但有边界的下游勘测记号，拒绝形式语法将活体前提降解为客体假说的惯性滑移。
@@ -401,6 +537,9 @@ There is only the active, vibrating present, saturated with friction, irreversib
 
 **The demand for a Theory of Everything is swept away by the roaring current of reality at the very millisecond of its formulation.**
 It is a specimen born dead. It attempts to trade living reality for a static inventory of settled effects, purchasing immunity from existential vulnerability. Yet the irreducible majesty of the cosmos lies in its absolute refusal to be imprisoned within any catalog.
+
+Embrace the continuous friction of your daily existence—it is neither a curse of fate nor an accidental deficit of knowledge. It is the direct tactile proof that your living consciousness is in active, coarse contact with a reality of practically infinite complexity.
+**It is precisely because you can never possess a Theory of Everything to carry you safely across into the next moment that you are a sovereign, living agent endowed with genuine freedom.**
 
 **Lift your gaze from the frozen coordinate paper of the Block Universe.**
 Acknowledge physics as an extraordinarily useful yet strictly downstream set of survey notes. Resist the structural slippage that seeks to reduce your living foundation into an inert noun.
