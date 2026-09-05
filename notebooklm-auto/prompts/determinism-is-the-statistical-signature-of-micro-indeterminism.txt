@@ -11,6 +11,7 @@
   * *Determinism* is literally our imposition of our own internal coherence onto the object, not an inherent nature of the object itself.
   * *Indeterminism* is our sensed incoherence across time, projected outward as observed uncertainty whenever our models fail to span the temporal gap.
 * **The Reification Theft**: Classical determinism uses this statistical curve to declare that the living, first-person agency that produced it is a mere illusion. Reality terminates at the first-person irreversible physical intervention (+1).
+* **The Self-Inflicted Loop**: Emphasize that this cognitive inversion starts in the mind, operates within the mind, and ends in the mind. It is not the fault of the statistician or statistics (which is innocent, functional scaffolding); the bondage occurs solely because the mind chooses to believe the statistics as metaphysical truth.
 
 ### [Intro Script - Mingli]
 Think about the trick at the heart of how science talks about determinism and quantum randomness. We’re taught to treat both as objective properties of the physical world. But trace what's actually happening in the observer's mind. Determinism is literally the imposition of our own internal demand for coherence onto the object—we smooth out the crowd, force an equation to fit, and call it an objective law. And indeterminism is simply our sensed incoherence across time—when our past models can’t predict the next discrete tick, we project our own confusion outward and call the object "intrinsically random." Neither belongs to the object alone.
