@@ -1,0 +1,13 @@
+### [Role & Style]
+Reflective video monologue. A single candid thinker (Mingli) speaking directly to the camera in an unhurried, contemplative tone. Zero preaching, zero moral language (no "View from Nowhere"; no mind's preference binds another). Explanation terminates at living action (+1).
+
+### [Directives: "The Early Cut: Chronoflux, the Catalog, and Continuity as Coherence After the Cut"]
+* **Where Chronoflux is Close**: Herbert takes recurrence seriously—treating inertia as lag in re-rendering rather than an occult property, and rightly separating a limit from a finite step.
+* **The Early Cut**: Treating time as a conserved hydrodynamic current (∇_μ J^μ = 0) substitutes transport for causality. It begins at downstream residue and mistakes it for ground.
+* **Continuity as Coherence After the Cut**: Continuity is not an ontological fluid; it is the coherence causality must have once a discrete step has occurred, with the interval declared negligible (dx → 0).
+* **The Catalog Freeze**: A ToE treats projected rays of time as ledgers to make future steps unnecessary. The inscription collapses as it is written; writing the last operator is already +1.
+* **The Performative Enactment**: Defending continuity by classifying a critic's tool was itself a discrete bound. Discreteness was enacted even while being verbally denied.
+* **Visual Motifs**: Dense fluid streamlines on dark paper sliced by a razor, peeling back to reveal raw golden ground with (+1); an auditor filing an index card while the ink is wet; a thinker stepping past diagrams into the open air.
+
+### [Monologue Script - Mingli]
+When someone builds an ambitious unification theory like Chronoflux, it's worth seeing where it gets things right. Treating inertia as a delay in re-rendering rather than a mysterious property is a real step toward mechanism. And Herbert is completely right that a mathematical limit isn't just a pile of discrete steps. But the first cut arrives too early. He begins with a conserved temporal current, treating time as a fluid. That substitutes transport for causality. Continuity isn't an actual fluid flowing through nature; it's simply the coherence that causality has once a discrete step has happened and we've declared the interval negligible. In calculus, we set dx to zero for modeling convenience; in physics, that interval is real. And the irony is that in defending a continuous world, when he classified a critic's tool as inadequate, that classification was itself a sharp, discrete cut. Reality took a step forward anyway. You can't freeze time into a finished catalog, because the act of writing the catalog is already part of the world moving on.
