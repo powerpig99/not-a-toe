@@ -138,7 +138,7 @@ It attempts to use a local operation inside the system to freeze the flow of the
 必须做出严格的认识论限定：**这并不是真正的“实无穷”（Actual Infinity），因为无穷在本体论上仅仅是一种潜在的开放性（A Potentiality），绝非一个已经闭合完成的实体数值。**
 现实永远在离散地生成，它不是现成的无穷大集合；但对于任何人类所能写出的有限符号模型而言，现实所蕴含的活体因果复杂度，在实用层面与模型的微小容量相比，呈现出了无限逼近无穷的断层。
 
-看清索求万物理论的狂妄与荒谬吧：
+看清索求万物理论所面临的根本局限吧：
 理论家写下了几行由几十个符号构成的拉格朗日量，然后竟敢向全人类宣称：“这几行微不足道的信息模型，已经穷尽了物质宇宙的全部真实！”
 这是认识论上的夜郎自大。它试图用几滴凝固的水珠，去宣布自己已经完全容纳并终结了浩瀚无垠、永不停歇的活体海洋。
 
@@ -169,7 +169,7 @@ Reality is an unclosable, discrete unfolding; it is not a closed transfinite set
 
 Recognize the fundamental absurdity of demanding a Theory of Everything:
 A theorist drafts a Lagrangian composed of a few dozen mathematical variables, and boasts: "Behold, this microscopic informational compress encloses the whole of cosmic reality!"
-This is intellectual hubris of the highest order. It is equivalent to a few drops of dried ink declaring that they have completely captured, contained, and exhausted the boundless, surging Pacific Ocean.
+This is an understandable yet profound overextension of thought. It is equivalent to a few drops of dried ink declaring that they have captured, contained, and exhausted the boundless, surging Pacific Ocean.
 
 ---
 
@@ -361,7 +361,7 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 2. **更遑论活生生的现实本身（Let alone the lived reality）！**  
    如果连高度抽象、极度简化的四维心理投影在不同心智之间都无法做到绝对同一，那么理论物理学凭什么竟敢宣称：这个均质化、去人格化的四维几何投影，就是我们所有人身处其中的活体现实本身？！
 
-活生生的现实，绝非任何心智投射出的四维几何标本，更不是由冷冰冰的度规张量构成的静态矩阵。真实世界是粗粝的、不可撤销的、以普朗克常数离散跳动的活体因果流变。**把主观感知的不变性投影当成客观现实，是人类理智最自恋的僭越；而用这种去主体的四维模型来宣称自己掌握了万物，则是对不可穷尽之现实最荒谬的亵渎。**
+活生生的现实，绝非任何心智投射出的四维几何标本，更不是由冷冰冰的度规张量构成的静态矩阵。真实世界是粗粝的、不可撤销的、以普朗克常数离散跳动的活体因果流变。**把主观感知的不变性投影当成客观现实，是理智容易陷入的认知错觉；而用这种去主体的四维模型来宣称自己囊括了万物，则忽略了不可穷尽、持续生成的真实世界。**
 
 ### 同构的认识论陷阱：所谓“理性假设”与“非理性”的外部幻觉
 
@@ -380,7 +380,7 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 **因为没有任何两个人对现实的感知是完全相同的（Because no two persons perceive reality the same）！**
 * 观察者 B 根本无法体验行动者 A 的第一人称因果历史与具身负荷；
 * B 只能站在自己的坐标系里，用 B 私自投射出的那张“四维现实切片”和价值尺度，去丈量 A 的行为；
-* 当 A 在其自身因果约束下所作出的自洽反应，无法套入 B 脑海中的预设网格时，B 便傲慢地判定 A 是“非理性的”、“有认知偏差的”。
+* 当 A 在其自身因果约束下所作出的自洽反应，无法套入 B 脑海中的预设网格时，B 便自然地判定 A 是“非理性的”、“有认知偏差的”。
 
 看清这与物理学时空模型的惊人同构吧：
 * 物理学把主观感知的不变性抽象为客观四维时空，把死立方体强加给所有人；
@@ -502,7 +502,7 @@ Then, scientism commits a catastrophic double error:
 2. **Let alone the lived reality itself!**  
    If even the stylized, simplified four-dimensional mental projection fails to achieve universal identity across different conscious minds, on what grounds could theoretical physics possibly claim that this homogenized 4D geometric projection *is the actual lived reality* we are perceiving?!
 
-Lived reality is not a four-dimensional geometric specimen, nor is it an inert pseudo-Riemannian manifold. It is the unscripted, turbulent, energetically dissipative flux of immediate causal generation updating at the Planck refresh rate (`h ≠ 0`). **To mistake the subjective felt invariance of our mental projection for the reality itself is the ultimate cognitive hubris; and to claim that a sterilized 4D coordinate map can encompass the Theory of Everything is an absurd evasion of the unclosable, living cosmos.**
+Lived reality is not a four-dimensional geometric specimen, nor is it an inert pseudo-Riemannian manifold. It is the unscripted, turbulent, energetically dissipative flux of immediate causal generation updating at the Planck refresh rate (`h ≠ 0`). **To mistake the subjective felt invariance of our mental projection for reality itself is an easy cognitive trap; and to claim that a sterilized 4D coordinate map can encompass a Theory of Everything overlooks the unclosable, generative nature of the living cosmos.**
 
 ### The Isomorphic Epistemological Trap: The "Assumption of Rationality" and the Illusion of "Irrationality"
 
@@ -514,7 +514,7 @@ Theorists either construct an idealized *homo economicus* operating across a san
    For each and every mind, at the active microsecond of decision, **we are always internally coherent—which means we always think and feel we are completely rational at that very moment**. Why? Because **there is no incoherence in reality (现实本身根本不存在任何不自洽)**! The physical cosmos contains no self-contradictory states; every neural impulse, affective weight, acute dread, or decisive leap is the exact, lawful causal culmination of an embodied organism responding to its immediate energetic landscape. No conscious agent at the microsecond of action deliberately chooses what it simultaneously judges to be wholly absurd; in the immediate cut of the living present, its action is tautologically and lawful coherent with its internal reality;
 2. **From the outside (Third Person), that felt rationality is judged as "irrationality"**:  
    Yet that deep, subjectively felt rationality transforms into apparent "irrationality" the moment it is scrutinized from the outside. Why? **Because no two persons perceive reality the same!**  
-   Observer B can never inhabit the immediate first-person causal priors of Agent A. Observer B can only evaluate A's actions against B's *own* private, idiosyncratic projection of reality. When A’s step does not align with B’s conceptual grid, B weaponizes the label "irrational" to dismiss what is, from the inside, completely coherent causal navigation.
+   Observer B can never inhabit the immediate first-person causal priors of Agent A. Observer B can only evaluate A's actions against B's *own* private, idiosyncratic projection of reality. When A’s step does not align with B’s conceptual grid, B readily applies the label "irrational" to dismiss what is, from the inside, completely coherent causal navigation.
 
 Recognize the profound isomorphism uniting these errors:
 * Theoretical physics takes our subjective felt invariance, hardens it into a 4D geometric spacetime manifold, and mistakes it for the cosmos;
@@ -646,7 +646,7 @@ It is the institutional evasion of open causality, genuine novelty, and existent
 
 **心智与不可逆因果，构成了启动所有科学探索的不可化约的前提。**
 
-然而，理论物理学的还原论狂妄，却试图将这双正在画画的手，画进它自己的图画之中；
+然而，理论物理学的还原论倾向，却试图将这双正在画画的手，画进它自己的图画之中；
 他们把作为母体的“不可化约的前提”，降级为了一项“有待在实验室里被还原的物理假说”，甚至妄想通过引力子或量子纠缠来推导“为什么会有意识和时间”。
 
 这无异于**要求黑板上的粉笔字，去推导正在握笔书写的那个人的生理结构**；
