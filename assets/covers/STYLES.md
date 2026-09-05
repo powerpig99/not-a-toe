@@ -234,6 +234,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Chiaroscuro mezzotint & radiant quantum fracture** | Velvety charcoal-black ground, etched Cartesian coordinate grid and armillary rings, cleaved perpendicularly by a brilliant golden quantum fracture and luminous interference waves expanding into open space | `causality-is-irreducible-the-physical-is-a-view-from-nowhere` |
 | **Recursive feedback manifold & multiscale phase-space fold** | Full-bleed topological dynamic streams of white-silver and platinum light folding back into themselves on deep charcoal-indigo ground, forming nested recursive feedback loops at three distinct temporal cadences and scales (tight rapid vortex of reflection, interlocking harmonic loops of reasoning, expansive galactic arcs of imagination), split by a razor-thin open golden causal thread (dx ≠ 0) | `the-continuum-is-a-modeling-convenience` |
 | **Precisionist intaglio & fractured coordinate plates** | Split-composition architectural copperplate etching on heavy cream rag paper with rigid Cartesian coordinate grids and filing drawers on left, fractured along a vertical fault by an incandescent molten golden causal stream surging into an open dawn horizon on right | `demanding-a-toe-freezes-time-into-a-catalog` |
+| **Decollage & razor-incised paper relief** | Full-bleed fine art decollage and razor-incised relief on heavy fibrous charcoal-indigo paper with dense continuous hydrodynamic streamlines cleaved by a sharp diagonal razor cut curling back to reveal raw golden fibrous vellum marked with a discrete step (+1) | `the-early-cut` |
 
 ## Inventory (by slug)
 
@@ -338,6 +339,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-continuum-is-a-modeling-convenience` | Recursive feedback manifold & multiscale phase-space fold |
 | `the-coordinators-category-error` | Kintsugi ceramic still life |
 | `the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern` | Cinematic torn-seam / protest-to-instrument panorama |
+| `the-early-cut` | Decollage & razor-incised paper relief |
 | `the-fixed-image-of-transcendence` | Magic-lantern glass slide still |
 | `the-flight-analogy-leaves-the-mind-untouched` | Photogram / cameraless object print |
 | `the-flywheel-of-the-mind` | Art Deco poster / chrome and sunburst |
@@ -463,6 +465,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `causality-is-irreducible-the-physical-is-a-view-from-nowhere` | 18th-century scientific mezzotint and intaglio copperplate print on velvety charcoal-black textured rag paper with etched Cartesian coordinate grid cleaved perpendicularly by a brilliant golden quantum fracture and luminous interference waves expanding into open space |
 | `the-continuum-is-a-modeling-convenience` | Full-bleed fine art abstract visualization of reality and consciousness folding back on itself through nested recursive feedback loops at different speeds and scales on deep textured graphite-charcoal and midnight-indigo background, with continuous streams of luminous white-silver and platinum light folding backward into themselves in three distinct temporal cadences (tight rapid inner vortex, interlocking harmonic braided loop, expansive galactic arc), split by a razor-thin incandescent golden thread (dx ≠ 0) keeping causality open |
 | `demanding-a-toe-freezes-time-into-a-catalog` | Fine art split-composition architectural precisionist intaglio print and copperplate engraving on heavy cream rag paper with rigid Cartesian coordinate grids and filing drawers on left, fractured along a vertical fault by an incandescent molten golden causal stream surging into an open dawn horizon on right |
+| `the-early-cut` | Full-bleed fine art decollage and razor-incised paper relief on heavy fibrous charcoal-indigo paper with dense continuous hydrodynamic streamlines cleaved by a sharp diagonal razor cut curling back to reveal raw golden fibrous vellum marked with a discrete step (+1) |
 
 ## Crowded — prefer not to extend
 

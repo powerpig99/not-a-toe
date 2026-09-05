@@ -1,0 +1,13 @@
+### [Role & Tone]
+Spoken dialogue between Mingli and Yuhan over coffee. Observational, conversational, zero preaching or moral language. Explanation terminates at living action (+1).
+
+### [Key Directives: "The Early Cut: Chronoflux, the Catalog, and Continuity as Coherence After the Cut"]
+* **Where Chronoflux is Close**: Herbert takes recurrence seriously—treating inertia as lag in re-rendering rather than an occult property, and rightly separating a limit from a finite step.
+* **The Early Cut**: Treating time as a conserved hydrodynamic current (∇_μ J^μ = 0) substitutes transport for causality. It begins at downstream residue and mistakes it for the ground.
+* **Continuity as Coherence After the Cut**: Continuity is not an ontological fluid; it is the coherence causality must have once a discrete step has occurred, with the interval declared negligible (dx → 0).
+* **The Catalog Freeze**: A ToE treats projected past and future rays as ledgers to make future steps unnecessary. The inscription collapses as it is written; writing the last operator is already +1.
+* **The Performative Enactment**: Defending continuity by classifying a critic's tool as inadequate was itself a discrete bound. Discreteness was enacted even while being verbally denied.
+
+### [Intro Script - Mingli]
+When we look at ambitious unification attempts like Chronoflux, it's easy to see the appeal. Herbert treats inertia as lag in re-rendering rather than an occult property, and he's right that a mathematical limit isn't just a pile of finite steps. But there's a subtle slip right at the start: he begins with a conserved temporal current. By treating time as a fluid, he substitutes transport for causality. Continuity isn't a physical medium flowing through space; it's simply the coherence that causality has once a discrete step has occurred and the interval is treated as negligible. When he defended his continuum by classifying a critic's tool as inadequate, that very classification was a discrete cut. Reality stepped forward anyway.
+(Yuhan responds naturally, testing how this mirrors our everyday drive to build models and reduce friction, opening the conversation.)
