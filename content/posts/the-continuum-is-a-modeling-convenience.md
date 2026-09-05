@@ -86,7 +86,58 @@ Formal logic’s foundational Law of Non-Contradiction (that a proposition canno
 
 ---
 
-## 四、 敞开的因果进程与第一人称的当下一瞬 / 4. Causality as an Open Process and the First-Person Present
+## 四、 物理学中的奇点拜物教：把支架的断裂误当成绝对真理 / 4. The Fetish of the Singularity in Physics: Mistaking Broken Scaffolding for Absolute Truth
+
+这种把系统局限降级为“例外”、进而反向扭曲现实的认知错乱，并未止步于纯数学与形式逻辑。它最宏大、也最具危害性的蔓延，发生在了**现代物理学**以及被其深刻塑造的**日常科学观念**之中。
+
+在广义相对论中，黑洞中心与宇宙大爆炸起点（`t = 0`）处出现了著名的**“奇点”（Singularity）**。在数学方程中，当时空曲率与质量密度随着半径趋于零（`r → 0`）而除以零时，数值不可逆地走向了无穷大（`∞`）。
+
+一个数学方程中的“除零错误”，在严谨的物理认识论中究竟意味着什么？
+它绝非证明物理世界中真实存在着一个“体积为零、密度无限大的神异实体”；相反，**它是爱因斯坦引力场方程在声嘶力竭地尖叫：“我的时空连续统假定（`dx → 0`）在此彻底崩塌了！我的坐标网格在此撕裂了！微积分的平滑微分在此完全失去了描述能力！”**
+
+奇点，是地图的边缘撕裂处，而不是地形本身的物理地标。
+
+然而，令人震惊的现代神话诞生了：**主流物理学界与科普文化不仅没有把奇点当成拓开新维度的破局线索，反而拜倒在这一断裂面前，制造出了荒唐的“奇点拜物教”。** 他们面不改色地向大众宣布：宇宙诞生于一个“无限小、无限致密的奇点”——这无异于把数学软件弹出的“除以零错误代码”，当成了创世的实体原材料！他们不是去反思平滑连续性假定的破产，而是硬生生把浩瀚鲜活的宇宙，野蛮地塞进那个由于自身数学工具无能而产生的死结之中。
+
+这正是科学在现代日常生活中所引发的**普遍不幸**。
+
+**科学原本只是人类心智为了更好地理解现实、在粗粝摩擦中导航而锻造出的“探索工具”与“临时支架”；然而在教条主义的异化下，科学却被普遍误当成了“终极客观真理”本身。**
+
+当科学被理解为工具时，支架的断裂（无论是魏尔施特拉斯的怪物、哥德尔的裂隙，还是物理学中的奇点）是一场伟大的智性喜悦——它精准地指明了旧工具的边界，召唤心智放下旧工具，迈入正交的崭新维度；
+然而，当科学被异化为绝对真理的神坛时，任何超出理论框架的现实涌现，都被视为必须被消灭或视而不见的异端：
+* 在经济学中，活生生的人类面对真实困境所做的沉重抉择，因为不符合效用最大化公式，就被打上“非理性认知偏差”的耻辱烙印，硬塞进平滑的计量模型；
+* 在生物决定论中，第一人称心智的痛苦、勇气与意义建构，被粗暴降解为“多巴胺浓度的机械波动”，硬塞进发条般的神经还原论；
+* 在日常生活里，当具体的生命遭遇迷茫与重创，人们不再敢倾听自己肉身在粗粝世界中的真实反馈，反而拼命去比对各种外部的“成功学模型”、“科学量表”或“社会评价体系”——**削足适履地把活生生的自己，塞进那些早已千疮百孔的模型奇点之中。**
+
+**当现实与模型发生冲突时，教条的科学主义永远在责怪现实。这不仅仅是学术上的盲目，更是生命主权的普遍退化。**
+
+This cognitive distortion—quarantining foundational limits as mere "exceptions" and then aggressively disfiguring reality to fit the theory—did not halt at the borders of pure mathematics and logic. Its grandest and most hazardous escalation occurs within **modern physics** and the pervasive **scientism of everyday culture**.
+
+In General Relativity, at the center of a black hole and at the genesis of the Big Bang (`t = 0`), the field equations encounter the notorious **Singularity**. As radius approaches zero (`r → 0`), the equations divide by zero, and quantities like spacetime curvature and mass-density diverge toward infinity (`∞`).
+
+What does a mathematical "division-by-zero" actually signify in rigorous epistemology?
+It does not prove that there physically exists a mystical entity possessing "zero volume and infinite density." Rather, **it is the mathematics screaming at the top of its lungs: "My continuum assumption (`dx → 0`) has violently broken down! My coordinate grid has torn! Differential calculus has reached its absolute explanatory boundary here!"**
+
+A singularity is never a physical monument in the territory; it is the jagged tear where the map rips apart.
+
+Yet an astonishing modern mythology emerged: **instead of treating the singularity as an unmistakable clue to discard the continuum assumption and open an orthogonal dimension, mainstream physics and popular culture bowed before the rupture, inventing a grotesque "Singularity Fetish."** They announced with straight faces that the living cosmos erupted from "an infinitely dense, zero-volume point"—literally reifying a division-by-zero software bug into the primordial substance of creation! Rather than confronting the bankruptcy of smooth spacetime, formalism insisted on violently cramming the living universe into the breakdown knot of its own inadequate algebra.
+
+This represents the **common misfortune** of modern life represented by science.
+
+**Science was born as a provisional, empirical instrument forged by the living mind to navigate coarse friction and understand reality; yet under dogmatic institutional capture, science is habitually inverted into an idol of absolute truth.**
+
+When science is understood as **scaffolding**, a structural breakdown (whether a Weierstrass fractal, a Gödelian sentence, or a gravitational singularity) is a moment of liberation: it demarcates the precise limits of the tool, commanding us to set it down and explore an orthogonal degree of freedom.
+
+When science is worshipped as an **absolute idol**, however, any reality that overflows the formal container is treated as an intolerable threat:
+* In neoclassical economics, human beings making painful, costly trade-offs under real-world vulnerability are dismissed as suffering from "irrational cognitive biases" simply to squeeze their lives into a closed utility matrix;
+* In biological reductionism, the sovereign courage, ethical choices, and lived suffering of first-person consciousness are dismissed as mere "dopamine flutters," forcing the navigator into the iron cage of neuro-determinism;
+* In daily existence, when individuals encounter friction or crisis, they no longer trust their direct, first-person bodily sensory signals. Instead, they frantically consult external metrics, psychometric indices, and mechanistic rubrics—**procrusteanly squeezing their living souls into the broken singularities of external models.**
+
+**Whenever reality conflicts with the model, dogmatic scientism invariably blames reality.** This is not merely an intellectual error; it is the wholesale abdication of living sovereignty.
+
+---
+
+## 五、 敞开的因果进程与第一人称的当下一瞬 / 5. Causality as an Open Process and the First-Person Present
 
 当我们把这些关于“闭合”的人为假定与隔离高墙一层层拆除之后，留在原地的并非另一套更为庞大复杂的公理系统。
 
@@ -118,7 +169,7 @@ This present slice is unique and non-transferable to each individual mind. As ex
 
 ---
 
-## 五、 折叠的三重节律：反思、想象与理性 / 5. The Three Tempos of the Fold: Reflection, Imagination, and Reasoning
+## 六、 折叠的三重节律：反思、想象与理性 / 6. The Three Tempos of the Fold: Reflection, Imagination, and Reasoning
 
 在人类的经典认识论体系中，理性、想象与反思往往被割裂为互不相属的高低机能：康德将感性、知性与理性列为层级，笛卡尔将理性置于神圣王座。然而，这种机械的器官心理学完全遮蔽了认知的流动本相。
 
@@ -150,7 +201,7 @@ Reality, in the first-person present, turns back upon its own just-occurred dist
 
 ---
 
-## 六、 前提的遗忘症与自相矛盾的诞生 / 6. Premise Amnesia and the Genesis of Contradiction
+## 七、 前提的遗忘症与自相矛盾的诞生 / 7. Premise Amnesia and the Genesis of Contradiction
 
 在看清了折叠的节律之后，形式体系中每一个“公理”与“前提”的真实身世便彻底昭然若揭：
 
@@ -178,7 +229,7 @@ As demonstrated across [The Model Never Becomes a Second Edge](../the-model-neve
 
 ---
 
-## 七、 结语：在不可闭合的间距中前行 / 7. Conclusion: Navigating Within the Unclosable Interval
+## 八、 结语：在不可闭合的间距中前行 / 8. Conclusion: Navigating Within the Unclosable Interval
 
 理解微积分中的 `dx` 绝非为零，并不是要否定微积分与形式逻辑作为工具的无上精妙。
 
@@ -195,3 +246,4 @@ On the contrary, it provides an immense intellectual liberation. It releases hum
 We need not demand that the cosmos be a frictionless, preexisting continuum; continuity is merely the bridge our conscious horizon erects at each instant to harmonize past footprints with open horizons. Nor should we despair over the inevitable incompleteness, paradoxes, and stress fractures that haunt formal systems. Those cracks in the formal edifice are simply the persistent signature of the non-zero interval asserting its vitality: **reality is not dead, the arrow of causality has not frozen, and the horizon remains radically unclosed.**
 
 At every concrete morning, when your body executes an irreversible physical step (`+1`), you require neither a totalizing theoretical doctrine nor the hollow reassurance of a paper formula. It is precisely because the interval between cause and effect can never be sealed that the living mind—through the rhythmic fold of reflection, imagination, and reasoning—holds the sovereign power to steer an open universe into the unrendered dawn.
+
