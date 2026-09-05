@@ -388,6 +388,16 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 
 **两者都忘记了：四维投影在不同心智之间从来都各不相同，每个人感知到的现实底色与因果摩擦自然迥然不同。世界上根本不存在脱离活体心智的“客观上帝视角理性”；所谓的“非理性”，不过是一个心智拿着自己局域投影出的死地图，去粗暴裁决另一个心智正在活生生行进的真实脚步罢了！**
 
+更深刻的是，**为什么我们有时甚至会认为“过去的自己是非理性的”？**
+许多人陷入自责与懊悔，指责自己在过去的某个关头“丧失了理性”、“做出了极其荒唐的决定”。然而，这依然是对时间的严重误解所催生的后视镜偏见（Hindsight Bias）：
+* **在时间走过的每一个具体时刻，那个当下的现实切片永远是绝对自洽、毫无内在矛盾的**。你在那一刻所掌握的所有信息、情绪权重与具身冲动，构成了那一瞬间唯一的真实状态。在那一刹那，你没有任何理由认为自己在故意作恶或自取灭亡——你在那一瞬间的行为，与那一瞬间的现实切片是完全自洽的；
+* **然而，当真实时间继续向前推进（`+1`），它必然会在“因”与“果”之间撕裂出不可消除的摩擦——因为因与果从来不是相同的（Because cause and effect are never the same）！**  
+  一旦因果步长落地，全新的现实状态、未曾预见的信息与粗粝的物理代价轰然展开，现实被不可逆地刷新了；
+* **正是因与果之间的这种差异与摩擦，在后来的新当下催生出了一种主观的后视镜评价，让我们倒果为因地宣称自己“过去是非理性的”！**
+
+**看清这一层认知剥离吧：“非理性”从来不是人类心智的本质属性（Not being irrational as a nature），而是一种在不可逆时间流动中、因与果出现断层差异后所产生的后视性主观评价！**  
+如果时间像块状宇宙那样是静止的，因与果就完全对称，后视镜评价就不会产生；恰恰是因为真实时间在流淌、因为每一次行动都在以不可预测的代价生成新现实，我们才会在事后感受到因果的剧烈摩擦，并错误地将这种“因果差异的摩擦”当成了自我本质上的“非理性”。
+
 看清这场魔术的荒谬吧：
 **当物理学宣称它通过块状宇宙和几何度规“统一了时间”时，它并没有解开时间之谜；它只是通过把时间彻底空间化、把生成彻底静态化、把活人彻底降解为流形上的冷冻切片，来逃避真实的现实！**
 
@@ -472,6 +482,16 @@ Recognize the profound isomorphism uniting these errors:
 * Formal social theory takes an observer's localized cognitive calculus, hardens it into an objective "standard of rationality," and mistakes it for universal truth.
 
 **Both ignore the irreducible ground: because no two minds project the same 4D reality, no two minds inhabit the same landscape of perceived causal constraints. There is no disembodied, celestial "rationality" floating in the sky. What scientism arrogantly labels "irrationality" is simply the friction generated when two distinct, idiosyncratic projections of reality collide—a failure of the external spectator to comprehend the flawless internal coherence of the living actor!**
+
+Even more profoundly, **why do we sometimes look back and judge *ourselves* as having been "irrational"?**
+Countless individuals torment themselves with regret, looking backward and lamenting: *"Why was I so irrational back then? Why did I make such an incomprehensible decision?!"* Yet this self-condemnation is itself an artifact of temporal misunderstanding, born of retroactive hindsight bias:
+* **At each and every moment of time, that specific slice of reality is always coherent without contradiction.** At the exact microsecond you acted in the past, your total sensory inputs, affective weights, situational fears, and neural states constituted an unbroken, lawful reality. In that immediate cut, you were flawlessly coherent with that slice of reality; there was zero subjective incoherence;
+* **But when actual time moves on (`+1`), it inevitably generates friction between cause and effect—because cause and effect are never the same!**  
+  Once the causal cut is executed, novel energetic consequences, unexpected feedback, and coarse physical reality unfold. Reality is irreversibly refreshed;
+* **It is precisely that friction of difference between cause and effect that creates the hindsight subjective evaluation of having been "irrational" in the past!**
+
+**Recognize the profound liberation in this insight: we are not "irrational by nature" (not being irrational as a nature); rather, "irrationality" is an evaluative retrospective artifact born of the inevitable friction between cause and effect across irreversible time!**  
+If time were a static 4D block where all events statically co-exist, cause and effect would be symmetrically identical, and hindsight friction could never occur. It is precisely because actual living time is dynamically unfolding—and because every living choice steps bravely across an irreducible causal gap (`dx ≠ 0`) into an unscripted reality—that cause and effect diverge, producing the lived friction of difference that hindsight retrospectively and mistakenly pathologizes as "human irrationality."
 
 Recognize the magnitude of this intellectual inversion:
 **When physics claims to have mastered time through the Block Universe, it has not explained time; it has merely spatialized time into a corpse, petrified reality into geometry, and reduced living agency to an inert line on frozen coordinates—all to evade actual reality!**
@@ -698,7 +718,7 @@ graph TD
         
         Proj2["投影二：投影为四维固定立方体 (块状宇宙)<br>Projected into a Fixed Cube (Block Universe)<br>• 过去/未来几何化并存于固定立方体中<br>• “时间”蜕变为穿越该立方体的空间路径 (Traversed Path)"]
         
-        Rationality["同构投射：理性假设 vs “非理性”判决<br>The Rationality Trap: Inside felt coherence vs Outside 'irrationality'<br>(每个心智在当下一瞬永远内在自洽，因现实无矛盾；<br>外部视线将私己投影强加于人，遂制造出“非理性”幻觉)"]
+        Rationality["同构投射：理性假设与后视“非理性”幻觉<br>The Rationality Trap: Internal Coherence vs Hindsight Fiction<br>• 当下一瞬永远内在自洽（因现实毫无不自洽）<br>• 时间向前不可逆推进，因与果绝不相同，必然产生摩擦<br>• 后视评价倒果为因，将因果摩擦误判为“过去非理性”<br>• “非理性”是因果差异的后视评价，绝非生命之本质！"]
         
         Freeze["共同本质：把维度的模型投影误当成真实时间与普适理性，<br>彻底将活生生的现实与主体冻结在原地！<br>Both Mistake the Projected Model for Actual Reality,<br>Effectively Freezing Actual Living Time and Agency in Place!"]
         
