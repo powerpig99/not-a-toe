@@ -5,7 +5,7 @@
 
 ### [Core Directives: "Determinism is the Statistical Signature of Micro-Indeterminism"]
 * **Internal Coherence as Felt Agency**: From the first-person perspective, we are 100% internally coherent. We know our reasons, our perceptions, and our values. This felt determinism is not a mechanical cage; it is the very sense of control that constitutes freedom of choice.
-* **The External View as Noise**: From the outside, an observer cannot access our internal deliberation. To an outside instrument, an unobservable free variable registers as pure unpredictability—stochastic noise, quantum indeterminacy. Unpredictability outside is freedom felt inside.
+* **The External View as Noise & Root of External Attribution**: When a causal progression occurs: if interpreted from the first-person perspective, it is our freedom of choice; if interpreted from an observational perspective, it turns into external uncertainty—and this is the very source of all external attribution. Unpredictability outside is freedom felt inside.
 * **Purchasing Predictability by Erasing the Individual**: Because an observer cannot predict a single free variable, they aggregate a population (N -> infinity). By dividing by sqrt(N), individual variance is smoothed away. Out comes a smooth, predictable curve (the Ideal Gas Law, actuarial tables, supply-demand curves). The very predictivity of statistics comes from ignoring individual unpredictability.
 * **The Twin Projections**:
   * *Determinism* is literally our imposition of our own internal coherence onto the object, not an inherent nature of the object itself.
