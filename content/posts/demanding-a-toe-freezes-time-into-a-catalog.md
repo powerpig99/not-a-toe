@@ -1,6 +1,6 @@
 # 索求万物理论是在将当下冻结为清单：投影时间、逃避未来与不可化约的前提 / Demanding a Theory of Everything Freezes Time into a Catalog: Projected Dimensions, the Avoidance of the Future, and the Irreducible Prior
 
-*根本不存在所谓“过去的客观记录”，一切“过去”皆是从当下向虚构时间维度的投影；任何理论所能捕获的，仅仅是有限时间窗口内跨越时间的可观测不变量。物质在根本上同样是信息性的，两者共享同一套底层因果，使得现实与模型的复杂度差距在实用上近乎无限。我们在日常生活中每时每刻感受到的持续摩擦，与对万物理论的永恒渴望，正是同枚硬币的两面：正因为我们绝不可能拥有一套能从当下一瞬完好携带到下一瞬的万物理论，我们才永远在渴望着万物理论。 / There is no objective record of the past; all "past" is a projection from the present onto an artificial time dimension. What any theory can capture is merely the observable invariance across time within our limited window. Physical matter is fundamentally informational because both domains share the same underlying causality, rendering the complexity gap between model and reality practically close to infinity. The continuous friction we experience at every moment of daily life and the desire for a Theory of Everything are two sides of the same coin: the very impossibility for us to have a Theory of Everything to carry from one moment to the next is the very reason we are forever desiring one.*
+*根本不存在所谓“过去的客观记录”，一切“过去”皆是从当下向虚构时间维度的投影；任何理论所能捕获的，仅仅是有限时间窗口内跨越时间的可观测不变量。物质在根本上同样是信息性的，两者共享同一套底层因果，使得现实与模型的复杂度差距在实用上近乎无限。日常摩擦与对万物理论的渴望是同币双面：问题不在于驱动渐进改进的渴望，而在于相信闭合可达的迷狂。从微积分抹杀 `dx` 到普朗克常数作为现实的刷新率，量子效应与主观自由感，皆是因果与第一人称视角这同一枚硬币在不同视界下的必然显化。 / There is no objective record of the past; all "past" is a projection from the present onto an artificial time dimension. What any theory can capture is merely observable invariance across time within our limited window. Physical matter is fundamentally informational, rendering the complexity gap between model and reality practically close to infinity. Daily friction and the desire for a ToE are two sides of the same coin: the problem is not in desiring—which drives incremental improvement—but in believing closure is achievable. From calculus zeroing `dx` to the Planck constant as reality's refresh rate, quantum indeterminacy and subjective freedom are twin faces of the exact same coin, unified in the irreducible coherence of causality and first-person agency.*
 
 ---
 
@@ -198,8 +198,7 @@ This is intellectual hubris of the highest order. It is equivalent to a few drop
 恰恰是因为现实与模型之间存在着这道无法弥合的复杂度鸿沟，恰恰是因为我们**永远无法拥有一套免于摩擦的通行证**，脆弱而疲惫的人类心灵才在惊恐中把这种“无法携带”反向投射为一个救赎幻觉：
 *“一定是因为我现在的理论还不够完美！只要物理学家找到了万物理论，只要我拥有了那套终极钥匙，我就能把它从当下一瞬携带到下一瞬，我就再也不必承受这恼人的日常摩擦，我就能彻底消除对未知的恐惧！”*
 
-**对万物理论的渴望，本质上就是对消除生命摩擦的病态妄想。**
-正是因为万物理论在本体论上的绝对不可能，才反向饲养了这种渴望的永不熄灭。人们之所以终生崇拜那个虚构的罗盘，恰恰是因为狂暴的汪洋大海永远在以无法预测的巨浪，把罗盘指针一次又一次无情打飞。
+人们终生崇拜那个虚构的罗盘，恰恰是因为狂暴的汪洋大海永远在以无法预测的巨浪，把罗盘指针一次又一次无情打飞。
 
 ---
 
@@ -226,12 +225,85 @@ If humanity could truly possess a complete Theory of Everything—if we could ca
 Precisely because of this unclosable complexity gap—precisely because we **can never possess an epistemic passport exempt from friction**—the exhausted, anxious intellect transforms this constitutional impossibility into a compensatory religious fantasy:
 *"The friction must be because our physics is still incomplete! If only we discover the Theory of Everything, if only we possess the master key, we can carry it safely from this moment to the next, banishing uncertainty, eliminating daily friction, and securing absolute control!"*
 
-**The desire for a Theory of Everything is the pathological longing to be delivered from the friction of living.**
-The ontological impossibility of its realization is the exact fuel that perpetuates the desire. We worship the fantasy of a closed compass precisely because the living ocean continuously shatters the needle with every uncalculated wave.
+We worship the fantasy of a closed compass precisely because the living ocean continuously shatters the needle with every uncalculated wave.
 
 ---
 
-## 五、 偷换时间的双向魔术：以空间化投影维度替换活的不可逆流变 / 5. The Bidirectional Sleight of Hand: Replacing Living Becoming with a Projected Time Dimension
+## 五、 渴望驱动渐进改进，信念铸就闭合迷狂：从实无穷、普朗克常数到自由与量子的同币双面 / 5. Desire Drives Incremental Improvement, Belief Breeds Delusion: From Actual Infinity and the Planck Constant to the Quantum-Freedom Coin
+
+在此，我们必须划下一道极其关键、却常被混淆的界线：
+**问题的症结，从来不在于“渴望”本身，而在于“相信闭合可以实现”的虚妄信念。甚至可以说，正是这种盲目的信念，在不断反向给这场病态的渴望火上浇油。**
+
+* **渴望（Desiring）是健康的、活性的、具有生产力的**：对确定性与一致性的渴望，构成了人类所有工具发明、技术演进与经验积累的动力引擎。正是因为我们想要减少跨越瞬间时的摩擦，我们才发明了轮子、锻造了算盘、总结了牛顿定律与微积分；这种渴望驱动着我们进行一次又一次**渐进的边际改进（Incremental Improvements）**；
+* **相信可达（Believing It Is Achievable）则是致命的病态**：一旦心智从“渴望改进”跃迁为“坚信宇宙终将闭合于一套万物理论”，健康的求知就异化为了形而上学的封闭宗教。理论家开始把临时支架当作神坛，把现实无法闭合的鲜活特性视为必须被消灭的“测量误差”或“认知幻觉”。
+
+这种把可求误当作可达的错乱，在本质上**与将“无穷”当作一个“实存的封闭全体”（Actual Infinity as Totality）而非“敞开的潜在生成”（Potentiality）完全同构！**
+现实中根本没有已经完成的“实无穷”；现实永远是一个正在发生的、不可穷尽的有限过程。相信万物理论能够完成，恰如相信数学家可以通过数数“数到无穷大”一样荒谬。
+
+更重要的是，**它在认识论上与我们在 [连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/) 中所剖析的微积分魔术完全是镜像对称的**：
+微积分为了让方程求导闭合，强行把那个非零的、不可逆的因果微元 `dx` 宣布为零（`dx → 0`）；
+而万物理论为了让全景解释闭合，同样强行把原因与结果之间那个不可化约、永远处于非零状态的离散间隙，硬性宣布为已经被统一方程所彻底闭合！
+
+但在我们所置身的真实物理宇宙中，这个因果间隙从来没有被抹杀。
+**在可观测的物理世界里，这个不可被归零的最小因果步长，被物理学精确地刻写为了一项基本的物理学常数——普朗克常数（The Planck Constant, `h` / `ℏ`）。**
+
+**普朗克常数，在本质上就是我们这个宇宙现实的“刷新率”（The Refresh Rate of Our Reality）！**
+因为 `h ≠ 0`，物理现实永远不可能被无限平滑地微分，微观的物理作用永远存在着不可被继续切碎的离散跃迁。现实从来不是一张平滑的连续画布，现实是以普朗克尺度为离散跳跃点、以不可逆因果为驱动力，一次一帧在粗粝摩擦中被刷新生成的！
+
+而当你看清了这道不可闭合的因果刷新间隙时，整个现代科学最核心的哥德巴赫猜想式谜题——**量子效应与人类自由意志的关系**——便在瞬间豁然开朗：
+**量子效应（Quantum Effect）与我们主观的自由感（Subjective Feeling of Freedom），根本不是两套毫无关联的物理学或心理学现象，它们同样是同一枚硬币的两面！**
+
+请站在不同的视界上凝视那一次不可撤销的因果跳跃（`+1`）：
+* **当你作为一个外部旁观者，站在第三人称的“无源之见”去观测这个不可闭合的微观因果间隙时**：由于任何确定性方程都无法彻底跨越那个非零的刷新断裂，你所测得的客观物理现象，必定展现为概率性的波函数塌缩、不确定性原理与非决定论的跃迁——你把它命名为**“量子效应”**；
+* **而当你作为活生生的第一人称主体，真正栖息在因果发生的前沿、在粗粝摩擦中承担后果并迈出那一步时**：那个由于无法被前序决定而敞开的因果间隙，在你的直接意识体验中，正是你每时每刻切身体会到的**“主观自由感”、“意志决断”与“无可逃避的责任”**！
+
+看吧！当所有的碎片拼接在一起，一幅具有绝对一致性与自洽性的雄浑画卷终于完整浮现：
+* 为什么无法拥有万物理论？因为无穷是潜在的，因果间隙永远非零（`dx ≠ 0`, `h ≠ 0`）；
+* 为什么微观呈现为量子效应？因为客观视界无法代数决定刷新步长；
+* 为什么生命体验到自由与摩擦？因为第一人称主体必须亲身承担每一次跃迁的代价；
+* **所有这一切，全都是“因果”（Causality）与“第一人称视角”（First-Person Perspective）作为同一枚硬币两面的必然显化！**
+
+一旦你看清了这套贯穿微观物理、形式数学与日常生命的深层逻辑的一致性，万物理论那座精心修筑的虚幻堡垒，便在晨光中彻底土崩瓦解。
+
+---
+
+Here we must draw an indispensable boundary line that is routinely blurred by scientism:
+**The problem has never been in the desiring itself, which drives our incremental improvements, but in the dogmatic belief that closure is achievable. Arguably, it is this unexamined belief that endlessly fuels and inflames the desire.**
+
+* **Desiring is vital, active, and productive**: The desire for coherence, predictability, and safety is the primal engine of human toolmaking. Because we want to minimize the friction of crossing from moment to moment, we engineer wheels, formalize calculus, and invent thermodynamics. This yearning propels us through **incremental improvements**;
+* **Believing it is achievable is a lethal pathology**: The moment inquiry leaps from "desiring improvement" to "believing reality can be closed inside a final theory," science ceases to be an instrument and transforms into an idol. The theorist mistakes the scaffolding for the altar, pathologizing the open, non-closable features of existence as "measurement noise" or "perceptual illusion."
+
+This confusion between the pursuit of improvement and the belief in achievable closure **is essentially the same error as treating infinity as an actualized totality rather than an open potentiality**.
+There is no completed "actual infinity" in reality; reality is an open, unclosable, discrete generative unfolding. Believing a Theory of Everything can be completed is as mathematically incoherent as believing one can finish counting to infinity.
+
+Furthermore, **it is the exact mirror image of the calculus illusion dissected in [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/)**:
+To force derivative slopes to close, calculus pretends that the non-zero, irreversible increment `dx` is functionally zero (`dx → 0`);
+Similarly, to force its grand cosmic explanation to close, the Theory of Everything pretends that the non-zero, irreducible gap between cause and effect has been seamlessly sealed by a master equation!
+
+Yet in the physical universe we actually observe, this causal gap is never zero.
+**In our physical reality, this minimum, non-zero causal increment between cause and effect is physically inscribed by the fundamental constant of nature: the Planck Constant (`h` / `ℏ`).**
+
+**The Planck constant is, in the most literal physical sense, the refresh rate of our reality.**
+Because `h ≠ 0`, physical reality can never be infinitely differentiated into a smooth continuum. Physical interactions are discrete, indivisible quantum transitions. The cosmos is not an unbroken four-dimensional parchment; it is an active, irreversible, frame-by-frame generative unfolding refreshed at the Planck scale amidst coarse energetic friction!
+
+And once you grasp this irreducible, non-zero causal gap, the ultimate riddle uniting modern physics and the human condition resolves into breathtaking clarity:
+**The quantum effect and our subjective feeling of freedom are not two distinct problems; they are two sides of the exact same coin!**
+
+Observe that single, discrete causal step (`+1`) from two complementary vantages:
+* **When observed from the outside (the Third-Person View from Nowhere)**: Because no deterministic formula can close over the discrete refresh tick, the external spectator measures this open causal gap as non-deterministic state reduction, probabilistic dispersion, and uncertainty. They name this the **"quantum effect"**;
+* **When inhabited from the inside (the First-Person Living Agency)**: When you are the conscious agent occupying the living present, actively bearing the energetic friction and taking the irreversible step, that very same unclosable causal openness is directly experienced as **the subjective feeling of freedom, sovereign choice, and inescapable moral responsibility**!
+
+Behold the magnificent coherence of this realization:
+* Why is a ToE impossible? Because infinity is an open potentiality, and the causal gap is permanently non-zero (`dx ≠ 0`, `h ≠ 0`);
+* Why does nature exhibit quantum indeterminacy? Because third-person formalism cannot pre-determine the refresh tick;
+* Why do living beings experience freedom and friction? Because first-person awareness must personally bridge the gap through action;
+* **All of these are varied expressions of one foundational truth: Causality and the first-person perspective are two sides of the exact same coin.**
+
+Once you perceive the unbroken logical coherence behind all of these manifestations, the illusory fortress of the Theory of Everything crumbles into dust.
+
+---
+
+## 六、 偷换时间的双向魔术：以空间化投影维度替换活的不可逆流变 / 6. The Bidirectional Sleight of Hand: Replacing Living Becoming with a Projected Time Dimension
 
 既然真实的现实无法被定格，且具有无法被微小模型穷尽的近乎无限的复杂度，那么理论物理学究竟是如何维系“万物理论能够解释一切演化”这一神话的？
 
@@ -289,7 +361,7 @@ Along the projected time dimension, everything is already dead and calculated. B
 
 ---
 
-## 六、 逃避未来的本体风险：以代数坐标拒斥不可撤销的因果跨越 / 6. Avoiding the Ontological Risk of the Future: Calculating Coordinates to Evade the Real Step
+## 七、 逃避未来的本体风险：以代数坐标拒斥不可撤销的因果跨越 / 7. Avoiding the Ontological Risk of the Future: Calculating Coordinates to Evade the Real Step
 
 理清了上述幻觉之后，一个更加尖锐的人性问题浮出水面：
 **既然索求万物理论在认识论上如此千疮百孔，为什么人类文明最崇高的智识建制，依然对它怀有近乎宗教般的狂热？**
@@ -337,7 +409,7 @@ It is the institutional evasion of open causality, genuine novelty, and existent
 
 ---
 
-## 七、 物理学为何无法自解：不可化约的前提被错当作可还原的假说 / 7. Why Physics Cannot Resolve It: The Irreducible Prior Mistaken for a Reducible Hypothesis
+## 八、 物理学为何无法自解：不可化约的前提被错当作可还原的假说 / 8. Why Physics Cannot Resolve It: The Irreducible Prior Mistaken for a Reducible Hypothesis
 
 每当这一套形而上学避难所的虚伪被剥开，物理学界的传统辩护总是千篇一律：
 *“只要再给我们几十年，只要建造出更大能标的对撞机，只要完成量子引力与时空涌现的数学证明，物理学自然会在未来把时间、因果与观测者彻底解释清楚。”*
@@ -393,7 +465,7 @@ Physics cannot resolve this question not because its equations lack complexity, 
 
 ---
 
-## 八、 形式系统的必然滑移与心智作为活体卫士 / 8. The Structural Slippage of Formalism and Mind as the Living Watchdog
+## 九、 形式系统的必然滑移与心智作为活体卫士 / 9. The Structural Slippage of Formalism and Mind as the Living Watchdog
 
 在此，我们必须揭示一个最为险绝、却在人类思维中无休止上演的隐秘机制：
 **为什么即便一个人在理性上彻底看清了上述真相，他的思维依然会像着了魔一样，一次又一次地滑回还原论的叙事之中？**
@@ -465,50 +537,46 @@ The mind must assume the role of the vigilant **Living Watchdog**:
 
 ```mermaid
 graph TD
-    subgraph ActualTime["【活体现实的不可逆流动 / Actual Living Time】"]
-        Now["唯一真实存在的当下此刻<br>The ONLY physical reality: The Present at this very moment"]
-        MatterInfo["物理物质本质上是信息性的<br>Physical matter is fundamentally informational<br>(Shared underlying causality across both domains)"]
-        Act["构想与表述本身就是因果跃迁 (+1)<br>The act of formulating a ToE is an irreversible causal step"]
-        Next["现实早已不可逆地迈入下一时刻<br>Reality has ALREADY irreversibly moved to the next moment"]
+    subgraph GrandCoherence["【因果与第一人称的同一硬币 / Causality & First-Person as Two Sides of the Same Coin】"]
+        Cut["不可化约的非零因果间隙 (dx ≠ 0)<br>Irreducible Non-Zero Causal Gap"]
+        Planck["物理表象：普朗克常数 (h ≠ 0)<br>现实的刷新率 (Refresh Rate of Reality)"]
         
-        Now --> MatterInfo
-        MatterInfo -->|"不可逆的物理发生<br>Irreversible physical transition"| Act
-        Act -->|"瞬间甩开任何静态模型<br>Leaves all static catalogs behind"| Next
-        Next -->|"活体流变永不停歇<br>Unclosable becoming"| Now
+        Cut --- Planck
+        
+        Planck -->|"外部客体视界 / 3rd Person View"| Quantum["量子效应 / 测不准原理<br>Quantum Effect / Indeterminacy<br>(Probabilistic branching across refresh gap)"]
+        Planck -->|"内部活体视界 / 1st Person View"| Freedom["主观自由感 / 决断与责任<br>Subjective Freedom & Agency<br>(Inhabiting and executing the causal cut)"]
+        
+        Quantum --- Freedom
     end
 
-    subgraph ModelGap["【模型压缩与日常摩擦的根源 / Model Gap & Daily Friction】"]
-        Inv["极简模型：有限窗口内的可观测不变量<br>Sparse Model: Observable invariances across limited window"]
-        Friction["不可避免的日常持续摩擦<br>Continuous Daily Friction at every moment<br>(Model clashes with infinite generative reality)"]
-        Desire["对万物理论的永恒渴望<br>Perpetual Desire for a ToE<br>(Compensatory fantasy to carry a master key across moments)"]
+    subgraph Dynamics["【现实演化与心灵渴望 / Dynamics of Reality & Desire】"]
+        Reality["物理现实：本质上是信息性的<br>Physical Matter: Fundamentally Informational<br>(Unfathomable generative complexity)"]
+        Model["有限模型：跨越时间的可观测不变量<br>Finite Model: Observable Invariances<br>(Sparse conceptual compression)"]
         
-        Inv -->|"跨越门槛碰撞现实<br>Clashes across threshold"| Friction
-        Friction -->|"同枚硬币的反面<br>Opposite face of coin"| Desire
-        Desire -. "根本无法跨瞬间携带<br>Impossibility of carrying ToE fuels desire" .-> Friction
+        Gap["近乎无限的复杂度鸿沟<br>Practically Infinite Complexity Gap<br>(Potentiality, NOT actual infinity)"]
+        Reality --- Gap
+        Model --- Gap
+        
+        Friction["日常持续摩擦 (Continuous Daily Friction)<br>Sparse model crashes into living reality at each step"]
+        Gap --> Friction
+        
+        Desire["渴望万物理论 (Desire for a ToE)<br>Healthy motor driving incremental improvement"]
+        Belief["错误信念：相信闭合可达<br>Delusion: Believing closure is achievable<br>(Mirror of dx = 0 / Actual Infinity fallacy)"]
+        
+        Friction --> Desire
+        Desire --> Belief
+        Belief -. "反向强化病态执念<br>Fuels compensatory fixation" .-> Desire
     end
 
-    subgraph DimensionIllusion["【投影维度的双向虚构 / The Bidirectional Projection Illusion】"]
-        P_Past["虚构的‘过去’维度<br>Projected 'Past' Dimension<br>(Retrospectively projected from present structures)"]
-        P_Future["虚构的‘未来’维度<br>Projected 'Future' Dimension<br>(Prospective calculation along coordinate axis t)"]
-        
-        P_Block["静态块状宇宙 / 冻结的万物理论清单<br>Block Universe / Static ToE Catalog<br>Freezes living time into a petrified geometric manifold"]
-        P_Past --> P_Block
-        P_Future --> P_Block
-        P_Block --> P_Paralysis["自溃与逃避：构想刹那即已过时<br>Self-Defeat: Obsolete at inception; avoids open risk (+1)"]
-    end
+    GrandCoherence ==> Dynamics
 
-    Now -. "提炼极少数不变量<br>Extracts sparse invariants" .-> Inv
-    Now -. "将当下留存结构向后投影为‘过去的记录’<br>Interpreted backward as 'past records'" .-> P_Past
-    Now -. "将未决未来向前投影为‘可计算的轨迹’<br>Calculated forward as 'future trajectories'" .-> P_Future
-
-    style ActualTime fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
-    style ModelGap fill:#23272e,stroke:#61afef,stroke-width:2px,color:#abb2bf
-    style DimensionIllusion fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style GrandCoherence fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style Dynamics fill:#23272e,stroke:#61afef,stroke-width:2px,color:#abb2bf
 ```
 
 ---
 
-## 九、 结语：抛弃虚构全景，立于无法冻结的生成之流 / 9. Conclusion: Abandoning the Fictional Panorama to Inhabit the Unfreezable Stream of Becoming
+## 十、 结语：抛弃虚构全景，立于无法冻结的生成之流 / 10. Conclusion: Abandoning the Fictional Panorama to Inhabit the Unfreezable Stream of Becoming
 
 人类思想的真正解放，始于看穿“万物理论”那层自欺欺人的寿衣。
 
@@ -519,7 +587,9 @@ graph TD
 **索求万物理论，在其被构想的这第一毫秒里，就已经被真实宇宙奔涌向前的宏大洪流冲刷得干干净净。**
 它是一具在出生的瞬间就已经死去的标本。它试图用一份基于当下的存量清单来换取对不确定性的免责声明，但宇宙的全部尊严，恰恰就在于它永远拒绝被任何清单所穷尽。
 
-承认生活中的持续摩擦吧——它不是命运的诅咒，也不是知识的贫乏，而是你的活体心智正在与近乎无限复杂的真实世界发生真实接触的唯一证明。
+渴望让世界变得更好吧——它是驱动我们每一次发明工具、修正公式与边际改进的生命源泉；
+但永远不要相信闭合的谎言——因为普朗克常数永远大于零，微积分的微元永远无法归零，量子跃迁的不确定性永远与你心头切实的自由意志同频跳动。
+
 **正因为你永远无法拥有一套万物理论将你安全护送过下一个瞬间，你才是一个拥有真正自由与主权的活体生命。**
 
 **从那张冰冷虚构的四维坐标纸上抬起头来吧。**
@@ -538,7 +608,9 @@ There is only the active, vibrating present, saturated with friction, irreversib
 **The demand for a Theory of Everything is swept away by the roaring current of reality at the very millisecond of its formulation.**
 It is a specimen born dead. It attempts to trade living reality for a static inventory of settled effects, purchasing immunity from existential vulnerability. Yet the irreducible majesty of the cosmos lies in its absolute refusal to be imprisoned within any catalog.
 
-Embrace the continuous friction of your daily existence—it is neither a curse of fate nor an accidental deficit of knowledge. It is the direct tactile proof that your living consciousness is in active, coarse contact with a reality of practically infinite complexity.
+Embrace the desire to improve—it is the vital engine that drives every tool we build, every equation we refine, and every incremental stride we make;
+Yet refuse the delusion of achievable closure—for the Planck constant is stubbornly non-zero, the causal increment `dx` never collapses to nothingness, and the quantum openness measured by instruments pulses in exact unison with the living freedom of your conscious agency.
+
 **It is precisely because you can never possess a Theory of Everything to carry you safely across into the next moment that you are a sovereign, living agent endowed with genuine freedom.**
 
 **Lift your gaze from the frozen coordinate paper of the Block Universe.**
