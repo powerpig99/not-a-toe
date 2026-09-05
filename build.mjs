@@ -682,6 +682,12 @@ function readingUnits(text) {
 }
 
 function readingTimeMinutes({ cjkChars, latinWords }) {
+  // If post contains substantial content in both CJK and Latin (parallel bilingual post),
+  // readers read one language, so take the max duration instead of summing them.
+  const isBilingual = cjkChars >= 1000 && latinWords >= 1000;
+  if (isBilingual) {
+    return Math.max(1, Math.ceil(Math.max(cjkChars / CJK_CHARS_PER_MINUTE, latinWords / WORDS_PER_MINUTE)));
+  }
   return Math.max(1, Math.ceil(cjkChars / CJK_CHARS_PER_MINUTE + latinWords / WORDS_PER_MINUTE));
 }
 

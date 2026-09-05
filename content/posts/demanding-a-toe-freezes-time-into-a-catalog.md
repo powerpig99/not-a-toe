@@ -1,18 +1,18 @@
-# 索求万物理论是在将当下冻结为清单：投影时间、逃避未来与不可化约的前提 / Demanding a Theory of Everything Freezes Time into a Catalog: Projected Dimensions, the Avoidance of the Future, and the Irreducible Prior
+# 索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog
 
-*根本不存在所谓“过去的客观记录”，一切“过去”皆是从当下向虚构时间维度的投影；任何理论所能捕获的，仅仅是有限时间窗口内跨越时间的可观测不变量。物质在根本上同样是信息性的，两者共享同一套底层因果，使得现实与模型的复杂度差距在实用上近乎无限。日常摩擦与对万物理论的渴望是同币双面：问题不在于驱动渐进改进的渴望，而在于相信闭合可达的迷狂。从微积分抹杀 `dx` 到普朗克常数作为现实的刷新率，从大爆炸与热寂对块状宇宙的根本否定，到量子效应与主观自由感，皆是因果与第一人称视角这同一枚硬币在不同视界下的必然显化。 / There is no objective record of the past; all "past" is a projection from the present onto an artificial time dimension. What any theory can capture is merely observable invariance across time within our limited window. Physical matter is fundamentally informational, rendering the complexity gap between model and reality practically close to infinity. Daily friction and the desire for a ToE are two sides of the same coin: the problem is not in desiring—which drives incremental improvement—but in believing closure is achievable. From calculus zeroing `dx` to the Planck constant as reality's refresh rate, from the Big Bang and Heat Death demolishing the Block Universe to quantum indeterminacy and subjective freedom, all are twin faces of the exact same coin: the irreducible coherence of causality and first-person agency.*
+*投影时间、逃避未来与不可化约的前提。 / Projected dimensions, the avoidance of the future, and the irreducible prior.*
 
 ---
 
 ## 一、 根本不存在“过去的客观记录”：只有当下的此刻，与被投射出的时间维度 / 1. There Is No "Record of the Past": Only the Present, and the Projected Time Dimension
 
-在所有关于“万物理论”（Theory of Everything, ToE）的经典设想中，深植着一个从未被彻底反思的常识性错觉：
+在所有关于“万物理论”（ToE）的经典设想中，深植着一个从未被彻底反思的常识性错觉：
 人们理所当然地认为，科学之所以能够去总结宇宙的终极规律，是因为宇宙存在着一套客观、真实且完备的**“历史记录”**——只要我们挖掘出足够多的古老地层、捕获足够微弱的宇宙微波背景辐射、记录下足够详尽的粒子对撞数据，我们就拥有了一份关于“过往一切物理事实”的坚实底账。
 
 **然而，这是一个根本性的认识论错误：现实中根本不存在所谓“过去的客观记录”。**
 
 环顾四周，放眼整个物理宇宙：宇宙中哪有一座存放“过去”的客观仓库？哪有一张写满“历史”的底片？
-根本没有。**在每一个可被证实的真实物理层面上，唯一实际存在的，永远、且仅仅是“当下的此刻”（The Present Available at This Very Moment）。**
+根本没有。**在每一个可被证实的真实物理层面上，唯一实际存在的，永远且仅仅是“当下的此刻”。**
 
 * 你手里捧着的三叶虫化石，并不是“过去”，它是**此时此刻**躺在你掌心的一块排列特殊的方解石结晶；
 * 射电望远镜所接收到的宇宙微波背景光子，并不是“138 亿年前的大爆炸”，它是**此时此刻**在你的天线传感器里激发的微弱电流；
@@ -22,7 +22,7 @@
 所有这些东西，全部且仅仅存在于**当下的瞬时现实**之中。
 
 那么，所谓的“过去”究竟从何而来？
-**“过去”，根本不是实际的时间，而是心智在当下的这一瞬，把当下的物理构型向后投射到一条人造的几何维度轴线上，所虚拟出来的投影（A Projected Time Dimension）。**
+**“过去”，根本不是实际的时间，而是心智在当下的这一瞬，把当下的物理构型向后投射到一条人造的几何维度轴线上，所虚拟出来的投影。**
 
 正是心智在当下指着一块石头说：“这代表一亿年前的海洋”；正是理论家在当下指着一段光谱说：“这代表宇宙初期的暴胀”。是我们从唯一的“当下”出发，向后画出了一条标有虚构坐标 `t` 的射线，把当下的微观结构解释为那条轴线上的投影点。
 
@@ -59,12 +59,12 @@ Any attempt to claim that a Theory of Everything is grounded in a complete, obje
 ## 二、 构想即过时：索求万物理论在发生的一瞬即已自溃 / 2. Obsolete at Inception: The Demand for a ToE Collapses at the Moment of Formulation
 
 正是由于时间不是一个现成的维度，而是现实在不可逆地展开，我们遭遇了索求万物理论最致命、也最无可辩驳的悖论：
-**索求万物理论（Demanding a ToE）这一举动，在它被构想出来的这同一刹那，就已经被彻底证伪并宣告破产。**
+**索求万物理论这一举动，在它被构想出来的这同一刹那，就已经被彻底证伪并宣告破产。**
 
 为什么？
 因为**构想一个念头、写下一组方程、乃至发出“我要一个终极理论”的索求本身，就是一次实实在在的物理因果事件！**
 
-请仔细观察这一过程在物理世界中的实际发生：
+追踪这一过程在物理世界中的具体发生：
 当一个物理学家坐在黑板前，脑海中浮现出“我要将宇宙所有规律闭合为一组方程”的雄心壮志，或者当他在草稿纸上写下最后一个统一算符时，现实停下来了吗？时间被定格在那个瞬间了吗？
 
 绝对没有。
@@ -91,7 +91,7 @@ Because time is not a pre-existing dimension but the irreversible unfolding of r
 Why?
 Because **the act of conceiving an idea, writing down an equation, or uttering the demand for a ToE is itself an irreversible physical causal event!**
 
-Observe what actually happens in physical reality:
+Tracing what actually occurs in physical reality:
 When a theorist sits before a chalkboard, seized by the ambition to enclose all cosmic laws into a final set of equations—or when they write down the final unified operator—does reality pause? Does time freeze to await the formula?
 
 Not for a femtosecond.
@@ -116,29 +116,29 @@ It attempts to use a local operation inside the system to freeze the flow of the
 
 既然万物理论既不可能立足于“过去的客观记录”，又会在被提出来的瞬间被真实时间甩在身后，那么物理学中那些被奉为至宝的科学理论，究竟捕获了什么？
 
-**任何理论，或者说人类所能构造的任何理论，能够捕获的仅仅是：在我们极其有限的时间观测窗口内，跨越时间的可观测不变量（The Observable Invariance Across Time Within Our Limited Time Frame）。**
+**任何理论，或者说人类所能构造的任何理论，能够捕获的仅仅是：在我们极其有限的时间观测窗口内，跨越时间的可观测不变量。**
 
 这正是物理定律的真实底色：
-无论是能量守恒、动量守恒、规范对称性，还是麦克斯韦方程或爱因斯坦场方程，它们都不是现实的肉身，而是在人类极其短暂的文明观测尺度内，心智所提炼出的**高度抽象的概念模型（A Highly Abstract Conceptual Modeling of Reality）**。我们发现在我们有限的观测历程中，某些数学比例与代数结构保持着稳定的一致性，于是我们将这些“可观测的不变性”命名为“定律”。
+无论是能量守恒、动量守恒、规范对称性，还是麦克斯韦方程或爱因斯坦场方程，它们都不是现实的肉身，而是在人类极其短暂的文明观测尺度内，心智所提炼出的**高度抽象的概念模型**。我们发现在我们有限的观测历程中，某些数学比例与代数结构保持着稳定的一致性，于是我们将这些“可观测的不变性”命名为“定律”。
 
-但请看清这个模型与实际现实之间的悬殊对比：
+对比这一高度抽象的模型与直接经验到的现实：
 **这个高度抽象的概念模型的复杂度，相比于我们正在直接体验的实际现实，是如此的微不足道、渺小至极。**
 
 这里隐藏着一个显而易见、却在主流科学主义中被普遍忽视的根本命题：**信息与物理物质的真实关系**。
 人们常常把“信息”与“物理物质”对立起来，或者将信息视为漂浮在物质之上的次级产物。然而：
-**物理物质在本质上必须同样是信息性的，信息才有可能对其进行表征（Physical matter has to be fundamentally informational as well for information to be able to represent it）。**
+**物理物质在本质上同样具有信息性，信息才有可能对其进行表征。**
 
 为什么我们的数学符号与信息模型能够与物理世界产生咬合？
-**因为跨越信息与物质这两个领域的底层因果律，是完全相同的（The underlying causality is the same across these two domains）。**
-每一次物理相互作用——一次光子的吸收、一次电子的自旋翻转、一次分子的碰撞——在物理上都是一次不可逆的因果跃迁，在信息上就是一次不可抹杀的位元区分（A Causal Cut / An Informational Distinction）。物质之所以能够被信息所度量，是因为物质本身就是由无穷无尽的微观因果跃迁所织成的活体信息网络！
+**因为跨越信息与物质这两个领域的底层因果律，是完全相同的。**
+每一次物理相互作用——一次光子的吸收、一次电子的自旋翻转、一次分子的碰撞——在物理上都是一次不可逆的因果跃迁，在信息上就是一次不可抹杀的位元区分。物质之所以能够被信息所度量，是因为物质本身就是由无穷无尽的微观因果跃迁所织成的活体信息网络！
 
 然而，正因为物理物质的每一个微观自由度都在每时每刻以无可计量的密度执行着真实的因果演化，两者之间的复杂度鸿沟展现出了令人窒息的悬殊：
-**抽象概念模型与实际物理现实之间的复杂度差距，在一切实用意义上都近乎等于无穷大（The difference in complexity is practically close to infinity for all practical purposes）。**
+**抽象概念模型与实际物理现实之间的复杂度差距，在一切实用意义上都近乎等于无穷大。**
 
-必须做出严格的认识论限定：**这并不是真正的“实无穷”（Actual Infinity），因为无穷在本体论上仅仅是一种潜在的开放性（A Potentiality），绝非一个已经闭合完成的实体数值。**
+从认识论上严格辨析：**这并不是真正的“实无穷”，因为无穷在本体论上仅仅是一种潜在的开放性，绝非一个已经闭合完成的实体数值。**
 现实永远在离散地生成，它不是现成的无穷大集合；但对于任何人类所能写出的有限符号模型而言，现实所蕴含的活体因果复杂度，在实用层面与模型的微小容量相比，呈现出了无限逼近无穷的断层。
 
-看清索求万物理论所面临的根本局限吧：
+索求万物理论所面临的结构性局限便呈现于此：
 理论家写下了几行由几十个符号构成的拉格朗日量，然后竟敢向全人类宣称：“这几行微不足道的信息模型，已经穷尽了物质宇宙的全部真实！”
 这是认识论上的夜郎自大。它试图用几滴凝固的水珠，去宣布自己已经完全容纳并终结了浩瀚无垠、永不停歇的活体海洋。
 
@@ -151,7 +151,7 @@ If a Theory of Everything cannot rely on an objective record of the past, and co
 This is the sober reality of physical law:
 Whether we consider the conservation of energy, gauge symmetries, Maxwell’s equations, or the Einstein field equations, these constructs are not the living flesh of reality. They are **highly abstract conceptual models of reality** distilled by conscious observers within a minuscule temporal observation window. We discover that across the narrow slit of human instrument history, certain mathematical ratios and algebraic relationships exhibit remarkable stability, and we crown these "observable invariances" as universal laws.
 
-Yet observe the breathtaking asymmetry between this model and the cosmos:
+Comparing this sparse model with the generative cosmos:
 **The complexity of that abstract model is vanishingly tiny compared to the actual reality we are actively experiencing.**
 
 Here lies a profound truth, self-evident yet routinely ignored in the discourse on the difference between information and physical matter:
@@ -167,36 +167,36 @@ Yet precisely because every microscopic degree of freedom in physical matter is 
 A rigorous epistemological caveat is mandatory: **this is not an "actual infinity," because infinity is strictly an open potentiality, never an actualized, completed quantity.**
 Reality is an unclosable, discrete unfolding; it is not a closed transfinite set. Yet for any finite set of equations written down by human hands, the generative informational density of physical reality is so staggering that the difference in complexity is practically indistinguishable from an infinite abyss.
 
-Recognize the fundamental absurdity of demanding a Theory of Everything:
-A theorist drafts a Lagrangian composed of a few dozen mathematical variables, and boasts: "Behold, this microscopic informational compress encloses the whole of cosmic reality!"
+The structural limitation of demanding a Theory of Everything becomes clear here:
+A theorist drafts a Lagrangian composed of a few dozen mathematical variables, assuming that this microscopic informational compress encloses the whole of cosmic reality.
 This is an understandable yet profound overextension of thought. It is equivalent to a few drops of dried ink declaring that they have captured, contained, and exhausted the boundless, surging Pacific Ocean.
 
 ---
 
 ## 四、 持续的日常摩擦与对万物理论的渴望：同枚硬币的两面 / 4. Continuous Daily Friction and the Desire for a ToE: Two Sides of the Same Coin
 
-正是在这一层认识论断裂之上，我们终于能够看清一个统治着人类全部生存处境的核心奥秘：
+正是在这一层认识论断裂之上，呈现出日常生存处境中的一个核心机制：
 **为什么我们在日常生活的每一个瞬间，都在持续不断地体验到粗粝的摩擦？而人类为什么又会永恒地执迷于对“万物理论”的狂热渴求？**
 
-**这二者，根本不是彼此割裂的现象，而是同一枚硬币的两面（Two sides of the same coin）。**
+**这二者，根本不是彼此割裂的现象，而是同一枚硬币的两面。**
 
-请回看你在生活中的真实处境：
+回到日常生活中的直接经验：
 为什么无论你制定了多么周密的计划、掌握了多么高深的科学模型、拥有了多么精密的算法工具，每当你从当下的这一瞬间迈入下一瞬间时，你依然无可避免地撞上意外、挫败、阻滞、未预见的变化与疲惫的消耗？
 **因为这就是那道“近乎无限的复杂度鸿沟”在活生生的肉身生命中的直接显化！**
 
 你的抽象认知模型仅仅抓住了几条微不足道的可观测不变量，而你所置身的实际物理现实，却在每一个微秒里以近乎无限的自由度轰鸣演化。
 当你试图拿着一个复杂度极低的概念模型跨入下一瞬间时，未被模型包含的、浩瀚无垠的真实因果细节，会以摧枯拉朽之势狠狠撞向你的认知预期。
-**这种撞击，在直接的第一人称体验中，就名为“摩擦”（Friction）。**
+**这种撞击，在直接的第一人称体验中，就名为“摩擦”。**
 摩擦不是系统的故障，摩擦是现实在向你严正宣告：现实永远无法被你装进书包。
 
 而令人叹为观止的，是人类心智在面对这种摩擦时所展开的递归机制：
-**正因为我们绝不可能拥有一套能被我们从当下一瞬完好携带到下一瞬的“万物理论”，我们才永远在渴望着一个万物理论！（The very impossibility for us to have a Theory of Everything to carry from one moment to the next moment is the very reason we are forever desiring a Theory of Everything.）**
+**正因为我们绝不可能拥有一套能被我们从当下一瞬完好携带到下一瞬的“万物理论”，我们才永远在渴望着一个万物理论。**
 
-看清这个深不可测的心灵陷阱吧：
+这里呈现出一个递归的认知结构：
 如果人类真的能拥有一套完备的万物理论，如果我们真能把它像一把万能钥匙一样从此时携带到彼时而毫无信息泄漏，那么我们在跨步时就将感受不到哪怕一微克的摩擦与意外——但如果真能如此，宇宙就彻底沦为了一台死寂的拉普拉斯发条，生命与自由意志也将荡然无存。
 
 恰恰是因为现实与模型之间存在着这道无法弥合的复杂度鸿沟，恰恰是因为我们**永远无法拥有一套免于摩擦的通行证**，认知系统便容易将这种“无法一次性携带”反向构想为一种寻找终极全景模型的假设：
-*“一定是因为我现在的理论还不够完美！只要物理学家找到了万物理论，只要我拥有了那套终极钥匙，我就能把它从当下一瞬携带到下一瞬，我就再也不必承受这恼人的日常摩擦，我就能彻底消除对未知的恐惧！”*
+*“只要拥有了更完备的模型，就能将其跨越时间携带，从而消除未预测的摩擦与不确定性。”*
 
 人们终生崇拜那个虚构的罗盘，恰恰是因为狂暴的汪洋大海永远在以无法预测的巨浪，把罗盘指针一次又一次无情打飞。
 
@@ -207,7 +207,7 @@ At this exact juncture of epistemological rupture, we finally penetrate the foun
 
 **These two phenomena are not separate; they are two sides of the exact same coin.**
 
-Examine lived reality directly:
+Tracing lived reality directly:
 Why is it that no matter how meticulous your plans, how sophisticated your scientific models, or how powerful your algorithmic tools, the transition from this present moment to the next invariably confronts you with surprise, breakdown, drag, unforeseen divergence, and exhausting expenditure?
 **Because that is the direct bodily manifestation of the practically infinite complexity gap!**
 
@@ -219,11 +219,11 @@ Friction is not a technical glitch or human failure; friction is the voice of re
 And here lies the profound recursion of human consciousness:
 **The very impossibility for us to have a Theory of Everything to carry from one moment to the next moment is the very reason we are forever desiring a Theory of Everything.**
 
-Observe the depth of this psychological trap:
+A recursive cognitive dynamic unfolds here:
 If humanity could truly possess a complete Theory of Everything—if we could carry a master blueprint seamlessly across the threshold of time without informational leakage—we would experience zero friction and zero surprise. But in such a universe, reality would be a frozen, deterministic crystal, and conscious agency would cease to exist.
 
 Precisely because of this unclosable complexity gap—precisely because we **can never possess an epistemic passport exempt from friction**—the intellect readily conceptualizes this structural gap as a problem to be solved by postulating an ultimate master formula:
-*"The friction must be because our physics is still incomplete! If only we discover the Theory of Everything, if only we possess the master key, we can carry it safely from this moment to the next, banishing uncertainty, eliminating daily friction, and securing absolute control!"*
+*"If only a complete theory is discovered, it could be carried seamlessly across time, eliminating unpredicted friction and securing full predictability."*
 
 We worship the fantasy of a closed compass precisely because the living ocean continuously shatters the needle with every uncalculated wave.
 
@@ -231,13 +231,13 @@ We worship the fantasy of a closed compass precisely because the living ocean co
 
 ## 五、 渴望驱动渐进改进，闭合假定混淆范畴：从实无穷、普朗克常数到自由与量子的同币双面 / 5. Desire Drives Incremental Improvement, Assumptions of Closure Conflate Categories: From Potential Infinity and the Planck Constant to the Quantum-Freedom Coin
 
-在此，我们必须划下一道极其关键、却常被混淆的界线：
+追踪到此，呈现出的是两条截然不同的运作机制：
 **需要辨析的边界，在于区分“渴望”与“假定闭合可以实现”：前者是减少摩擦的认知动力，后者则是把有限模型等同于物理现实的范畴倒错。**
 
-* **渴望（Desiring）在功能上驱动着持续的建模与优化**：对确定性与可预测性的需求，构成了工具创造、技术演进与经验积累的动力机制。为了减少跨越瞬间时的摩擦，人类发展出轮子、算盘、经典力学与微积分；这种需求驱动着一次又一次**渐进的边际改进（Incremental Improvements）**；
-* **假定闭合可达（Assuming Closure Is Achievable）则是将工具倒置为本体**：一旦将作为认知界面的局部模型，等同于宇宙自身的完备全貌，便会将临时搭建的脚手架当作世界的绝对边界，把模型无法囊括的生成性与未决性归咎为“测量噪音”或“主观幻觉”。
+* **渴望在功能上驱动着持续的建模与优化**：对确定性与可预测性的需求，构成了工具创造、技术演进与经验积累的动力机制。为了减少跨越瞬间时的摩擦，人类发展出轮子、算盘、经典力学与微积分；这种需求驱动着一次又一次**渐进的边际改进**；
+* **假定闭合可达则是将工具倒置为本体**：一旦将作为认知界面的局部模型，等同于宇宙自身的完备全貌，便会将临时搭建的脚手架当作世界的绝对边界，把模型无法囊括的生成性与未决性归咎为“测量噪音”或“主观幻觉”。
 
-这种把可求误当作可达的错乱，在本质上**与将“无穷”当作一个“实存的封闭全体”（Actual Infinity as Totality）而非“敞开的潜在生成”（Potentiality）完全同构！**
+这种把可求误当作可达的错乱，在本质上**与将“无穷”当作一个“实存的封闭全体”而非“敞开的潜在生成”完全同构。**
 现实中根本没有已经完成的“实无穷”；现实永远是一个正在发生的、不可穷尽的有限过程。相信万物理论能够完成，恰如相信数学家可以通过数数“数到无穷大”一样荒谬。
 
 更重要的是，**它在认识论上与我们在 [连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/) 中所剖析的微积分魔术完全是镜像对称的**：
@@ -245,29 +245,29 @@ We worship the fantasy of a closed compass precisely because the living ocean co
 而万物理论为了让全景解释闭合，同样强行把原因与结果之间那个不可化约、永远处于非零状态的离散间隙，硬性宣布为已经被统一方程所彻底闭合！
 
 但在我们所置身的真实物理宇宙中，这个因果间隙从来没有被抹杀。
-**在可观测的物理世界里，这个不可被归零的最小因果步长，被物理学精确地刻写为了一项基本的物理学常数——普朗克常数（The Planck Constant, `h` / `ℏ`）。**
+**在可观测的物理世界里，这个不可被归零的最小因果步长，被物理学精确地刻写为了一项基本的物理学常数——普朗克常数（`h` / `ℏ`）。**
 
-**普朗克常数，在本质上就是我们这个宇宙现实的“刷新率”（The Refresh Rate of Our Reality）！**
+**普朗克常数，在本质上就是现实的“刷新率”。**
 因为 `h ≠ 0`，物理现实永远不可能被无限平滑地微分，微观的物理作用永远存在着不可被继续切碎的离散跃迁。现实从来不是一张平滑的连续画布，现实是以普朗克尺度为离散跳跃点、以不可逆因果为驱动力，一次一帧在粗粝摩擦中被刷新生成的！
 
-而当你看清了这道不可闭合的因果刷新间隙时，整个现代科学最核心的哥德巴赫猜想式谜题——**量子效应与人类自由意志的关系**——便在瞬间豁然开朗：
-**量子效应（Quantum Effect）与我们主观的自由感（Subjective Feeling of Freedom），根本不是两套毫无关联的物理学或心理学现象，它们同样是同一枚硬币的两面！**
+在这道不可闭合的因果刷新间隙中，量子效应与自由意志在结构上展现出清晰的同构性：
+**量子效应与主观自由感，根本不是两套毫无关联的物理学或心理学现象，它们同样是同一枚硬币的两面。**
 
-请站在不同的视界上凝视那一次不可撤销的因果跳跃（`+1`）：
+从不同的视界观察那一次不可撤销的因果跳跃（`+1`）：
 * **当你作为一个外部旁观者，站在第三人称的“无源之见”去观测这个不可闭合的微观因果间隙时**：由于任何确定性方程都无法彻底跨越那个非零的刷新断裂，你所测得的客观物理现象，必定展现为概率性的波函数塌缩、不确定性原理与非决定论的跃迁——你把它命名为**“量子效应”**；
 * **而当你作为活生生的第一人称主体，真正栖息在因果发生的前沿、在粗粝摩擦中承担后果并迈出那一步时**：那个由于无法被前序决定而敞开的因果间隙，在你的直接意识体验中，正是你每时每刻切身体会到的**“主观自由感”、“意志决断”与“对因果后果的直接承受”**！
 
-看吧！当所有的碎片拼接在一起，一幅具有绝对一致性与自洽性的雄浑画卷终于完整浮现：
+当这些视角连接在一起，因果与第一人称视角的内在一致性便清晰呈现：
 * 为什么无法拥有万物理论？因为无穷是潜在的，因果间隙永远非零（`dx ≠ 0`, `h ≠ 0`）；
 * 为什么微观呈现为量子效应？因为客观视界无法代数决定刷新步长；
-* 为什么生命体验到自由与摩擦？因为第一人称主体必须亲身承担每一次跃迁的代价；
-* **所有这一切，全都是“因果”（Causality）与“第一人称视角”（First-Person Perspective）作为同一枚硬币两面的必然显化！**
+* 为什么生命体验到自由与摩擦？因为第一人称主体直接承担着每一次跃迁的物理后果；
+* **所有这一切，全都是“因果”与“第一人称视角”作为同一枚硬币两面的必然显化。**
 
-一旦你看清了这套贯穿微观物理、形式数学与日常生命的深层逻辑的一致性，万物理论那座精心修筑的虚幻堡垒，便在晨光中彻底土崩瓦解。
+贯穿微观物理、形式数学与日常生命的这一致性，使万物理论（ToE）的神话退去光环。
 
 ---
 
-Here we must draw an indispensable boundary line that is routinely blurred by scientism:
+Tracing this mechanism reveals two distinct operational layers:
 **The problem has never been in the desiring itself, which drives our incremental improvements, but in the dogmatic belief that closure is achievable. Arguably, it is this unexamined belief that endlessly fuels and inflames the desire.**
 
 * **Desiring is vital, active, and productive**: The desire for coherence, predictability, and safety is the primal engine of human toolmaking. Because we want to minimize the friction of crossing from moment to moment, we engineer wheels, formalize calculus, and invent thermodynamics. This yearning propels us through **incremental improvements**;
@@ -289,17 +289,17 @@ Because `h ≠ 0`, physical reality can never be infinitely differentiated into 
 And once you grasp this irreducible, non-zero causal gap, the ultimate riddle uniting modern physics and the human condition resolves into breathtaking clarity:
 **The quantum effect and our subjective feeling of freedom are not two distinct problems; they are two sides of the exact same coin!**
 
-Observe that single, discrete causal step (`+1`) from two complementary vantages:
+Tracing that single, discrete causal step (`+1`) from two complementary vantages:
 * **When observed from the outside (the Third-Person View from Nowhere)**: Because no deterministic formula can close over the discrete refresh tick, the external spectator measures this open causal gap as non-deterministic state reduction, probabilistic dispersion, and uncertainty. They name this the **"quantum effect"**;
 * **When inhabited from the inside (the First-Person Living Agency)**: When you are the conscious agent occupying the living present, actively bearing the energetic friction and taking the irreversible step, that very same unclosable causal openness is directly experienced as **the subjective feeling of freedom, sovereign choice, and the direct bearing of causal consequences**!
 
-Behold the magnificent coherence of this realization:
+This reveals the structural coherence uniting both perspectives:
 * Why is a ToE impossible? Because infinity is an open potentiality, and the causal gap is permanently non-zero (`dx ≠ 0`, `h ≠ 0`);
 * Why does nature exhibit quantum indeterminacy? Because third-person formalism cannot pre-determine the refresh tick;
-* Why do living beings experience freedom and friction? Because first-person awareness must personally bridge the gap through action;
+* Why do living beings experience freedom and friction? Because the first-person living agent directly bears the physical consequences of every step;
 * **All of these are varied expressions of one foundational truth: Causality and the first-person perspective are two sides of the exact same coin.**
 
-Once you perceive the unbroken logical coherence behind all of these manifestations, the illusory fortress of the Theory of Everything crumbles into dust.
+Perceiving this structural coherence across scales reveals the limits of seeking an exhaustive Theory of Everything.
 
 ---
 
@@ -308,42 +308,42 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 既然真实的现实无法被定格，且具有无法被微小模型穷尽的近乎无限的复杂度，那么理论物理学究竟是如何维系“万物理论能够解释一切演化”这一神话的？
 
 它依靠的是一场深思熟虑的认识论魔术：
-**它混淆了“活的真实时间”（Actual Time）与“投影出的时间维度”（Projected Time Dimension），并用后者彻底取缔了前者。**
+**它混淆了“活的真实时间”与“投影出的时间维度”，并用后者替代了前者。**
 
 正如我们在 [时间即因果而非维度](../time-is-causality-not-a-dimension/) 与 [连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/) 中所揭示的，这两种时间具有本质的对立：
 
-| 范畴 | 活的真实时间（Actual Time） | 投影出的时间维度（Projected Time Dimension） |
+| 范畴 | 活的真实时间 | 投影出的时间维度 |
 | :--- | :--- | :--- |
 | **本体地位** | 唯一真实存在的生成前沿；现实正在发生的一瞬 | 心智在当下虚构出的一条几何轴线（坐标 `t`） |
 | **方向性** | 绝对单向、不可逆、伴随粗粝物理摩擦（`+1`） | 对称、可逆、可自由在纸面上向前向后遍历计算 |
-| **对未来的关系** | 未决的、开放的旷野；必须亲身踏入才能生成 | 现成的、预先存在的终点；被当作早已画好的轨迹 |
+| **对未来的关系** | 未决的、开放的因果前沿；通过实际行动生成 | 现成的、预先存在的终点；被当作早已画好的轨迹 |
 | **对“过去”的关系** | 过去已无实体，只有当下留存的微观状态 | 将当下的状态向后投影，虚构出一个静态的过去容器 |
-| **主体角色** | 第一人称行动者承担未决后果 | 站在宇宙外部的“无源之见”（View from Nowhere）冷眼旁观 |
+| **主体角色** | 第一人称行动者承担未决后果 | 站在宇宙外部的“无源之见”冷眼旁观 |
 
 为了建立一个封闭自洽的代数体系，物理学不能容忍活体时间的不可预测与不可逆摩擦。
 于是，它对现实进行了冷酷的双向截瘫手术：
 1. **向后**：它把当下存在的各种结构，虚构为一个客观存在的“大爆炸至今的历史信息库”；
 2. **向前**：它把尚未发生的未知未来，偷换为微分方程在坐标轴 `t` 上延伸出的连续解；
-3. **合成“块状宇宙”（Block Universe）**：理论家随后将这两条投影拼合在一起，宣布过去、现在与未来都是一张四维或高维流形上早就并存的静态几何。爱因斯坦甚至公然宣称：“过去、现在与未来的区分，只是一种顽固的幻觉。”
+3. **合成“块状宇宙”**：理论家随后将这两条投影拼合在一起，宣布过去、现在与未来都是一张四维或高维流形上早就并存的静态几何。爱因斯坦甚至公然宣称：“过去、现在与未来的区分，只是一种顽固的幻觉。”
 
-**然而，更为荒谬、也最具讽刺意味的内在破产在此刻轰然降临：如果你同时接受大爆炸（The Big Bang）与宇宙热寂（The Heat Death），那么块状宇宙在物理和本体论上就根本不可能成立！然而最具戏剧性的是，这两套彻底互斥的宇宙图景，竟然是从同一套引力场方程中被推导出来的！**
+**更为荒谬的内在破产在此刻呈现：如果同时接受大爆炸与宇宙热寂，那么块状宇宙在物理和本体论上便无法自洽成立；而这两套互斥的图景，正是从同一套方程中推导出来的。**
 
 这一看似不可思议的理论精神分裂，究竟从何而来？
 **它的根本根源，恰恰在于物理学犯下了同一个致命的范畴错误：误将宇宙当下的这一瞬间切片当成了宇宙的全体；随后，又将这个被冻结的存量切片用两种截然不同的数学方式向外投影！**
 
-请审视这两种殊途同归的数学投影：
+追踪这两种殊途同归的数学投影：
 1. **投影方式一：将时间设为独立自变量，并任其滑向零与无穷大（`t ∈ [0, ∞)`）**  
    理论家将当下的观测切片抽离出来，把时间抽象为一个独立标量自变量 `t`，并允许它在代数方程中肆意向两端延伸。  
    当你这样做时，其数学结果是不可避免的必然命运：
-   * 将当前切片的膨胀与演化向后外推至边界条件 `t → 0`，**方程必然会在原点被逼出一个数学奇点——大爆炸（The Big Bang）**；
-   * 将当前切片的熵增向前方外推至无穷大极限 `t → ∞`，**方程必然会在渐近线上遭遇彻底的耗散与冷寂——热寂（Heat Death）**。  
+   * 将当前切片的膨胀与演化向后外推至边界条件 `t → 0`，**方程必然会在原点被逼出一个数学奇点——大爆炸**；
+   * 将当前切片的熵增向前方外推至无穷大极限 `t → ∞`，**方程必然会在渐近线上遭遇彻底的耗散与冷寂——热寂**。  
    大爆炸与热寂，根本不是客观独立存放在某个宇宙仓库里的两座丰碑，而是将当下切片的局部梯度强行延伸至零和无穷大所制造出来的数学渐近假象！
 
 2. **投影方式二：将时空投影为一个静态的“固定立方体”（块状宇宙模型）**  
-   理论家提取了完全相同的当下切片，但这一次，他们将其直接封死在一个静态的四维几何容器中——一个**固定的立方体（Fixed Cube）**或刚性伪黎曼流形。  
-   在这个固定立方体中，过去、现在与未来所有的空间切片早就齐刷刷地并存在那里。在这里，“时间”被彻底剥夺了一切动态生成性，**它蜕变成了观察者穿越这个固定立方体时所走过的一条空间轨迹（Traversed Path）**！
+   理论家提取了完全相同的当下切片，但这一次，他们将其直接封死在一个静态的四维几何容器中——一个**固定的立方体**或刚性伪黎曼流形。  
+   在这个固定立方体中，过去、现在与未来所有的空间切片早就齐刷刷地并存在那里。在这里，“时间”被彻底剥夺了一切动态生成性，**它被当作观察者穿越这个固定立方体时所走过的一条空间轨迹**。
 
-**看清这两种理论投影背后共同的本体论盲区吧：**
+**这两种理论投影背后共享着相同的本体论机制：**
 * **它们都把对时间（与空间）维度的模型投影，误认为了真实的时间！**
 * **它们都在实质上彻底把活体现实中的真实时间冻结在了原地！**
 
@@ -351,83 +351,83 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 它们之所以在现代物理学中显得如此针锋相对、撕裂出无可愈合的认知失调——一边是不可逆的单向演化历史，另一边是一切早已并存的永恒雕塑——正是因为物理学根本没有看透：**这两套互相掐架的宇宙图景，不过是用不同的几何透镜去投影“当下切片”时，对真实时间施加的同一种冰冻手术！**
 
 更进一步，这里还潜藏着一个更为隐秘、更加底层的认识论盲点：
-**人们误将感知现实时所产生的“主观不变感”（Subjective Felt Invariance），凝固为一个“四维投影”（Four-Dimensional Projection），并把这个四维投影直接等同于我们所感知的现实本身！**
+**人们容易将感知现实时所产生的“主观不变感”，凝固为一个四维投影，并把这个投影直接等同于现实本身。**
 
-请仔细看清这场心理与数学的偷换：
+追踪这场感知经验与数学形式化之间的过渡：
 当生命在世界中存在时，我们的知觉系统为了生存与行动，会对现实进行极高密度的信息压缩与稳定化处理，从而在意识中生成一种关于空间延展与时间流逝的“主观不变感”。物理学将这种主观不变感形式化，抽象出一套三维空间加一维时间的“四维时空流形投影”。
 随后，科学主义犯下了双重致命的混淆：
-1. **甚至在不同心智之间，四维投影都从来不是相同的（In fact, even the four-dimensional projection is never the same across different minds）**：  
+1. **甚至在不同心智之间，四维投影从来不是相同的**：  
    每一个活体心智都受制于其独特的身体具身性、感知带宽、注意力焦点、时间分辨率与经验历史。没有任何两个人的感知时空投影是完全重合的——一个人在危机中体验到的时间拉长、在不同光线与空间中的几何感知，与另一个人迥然不同。四维投影从来不是客观天赐的均质硬币，它在每一个活体心智中都是差异化的认知建构；
-2. **更遑论活生生的现实本身（Let alone the lived reality）！**  
+2. **更遑论活生生的现实本身**：  
    如果连高度抽象、极度简化的四维心理投影在不同心智之间都无法做到绝对同一，那么理论物理学凭什么竟敢宣称：这个均质化、去人格化的四维几何投影，就是我们所有人身处其中的活体现实本身？！
 
 活生生的现实，绝非任何心智投射出的四维几何标本，更不是由冷冰冰的度规张量构成的静态矩阵。真实世界是粗粝的、不可撤销的、以普朗克常数离散跳动的活体因果流变。**把主观感知的不变性投影当成客观现实，是理智容易陷入的认知错觉；而用这种去主体的四维模型来宣称自己囊括了万物，则忽略了不可穷尽、持续生成的真实世界。**
 
 ### 同构的认识论陷阱：所谓“理性假设”与“非理性”的外部幻觉
 
-完全相同的致命混淆，精确地重演于现代经济学、博弈论乃至日常人际评判中的**“理性假设”（The Assumption of Rationality）**：
+完全相同的致命混淆，精确地重演于现代经济学、博弈论乃至日常人际评判中的**“理性假设”**：
 
-**对于每一个活体心智而言，我们在当下一瞬永远是内在自洽的（Internally Coherent）——这意味着在采取行动的每一个瞬间，我们永远认为自己是绝对理性的；因为在真实的现实之中，根本不存在任何不自洽（There is no incoherence in reality）！**
+**对于活体心智而言，我们在当下一瞬在自身视角中永远是内在自洽的——这意味着在采取行动的瞬间，心智总是依据当下的视角做出当时唯一成立的决定，因为现实在当下本身并不存在不自洽。**
 
-请审视这套机制在第一人称内部的真实发生：
+追踪这套机制在第一人称内部的具体发生：
 * 现实本身从来没有逻辑矛盾，物理世界从来不会在同一个切片里既发生又未发生；
 * 每一个生命在其所处的当下一微秒内，其全部的具身状态、感知输入、情绪权重、生存恐惧与注意力焦点，必然共同汇聚为唯一确定踩出的那一步；
 * 没有任何一个清醒的人，会在决断的当下故意去执行一项自己明确断定为“完全荒谬、毫无理由”的选择。在第一人称的活体体验里，他的每一步行动对于当下的自己而言，都是完全合乎因果脉络的、绝对自洽的“理性”抉择。
 
-然而，**这种在内部深刻体验到的“理性”，一旦从外部被另一个心智去审视，就立刻变成了所谓的“非理性”（Irrationality）！**
+然而，**这种在内部深刻体验到的自洽，一旦从外部被另一个心智审视，就呈现为所谓的“非理性”。**
 
-为什么？
-**因为没有任何两个人对现实的感知是完全相同的（Because no two persons perceive reality the same）！**
+原因在于：
+**没有任何两个人对现实的感知是完全相同的。**
 * 观察者 B 根本无法体验行动者 A 的第一人称因果历史与具身负荷；
 * B 只能站在自己的坐标系里，用 B 私自投射出的那张“四维现实切片”和价值尺度，去丈量 A 的行为；
 * 当 A 在其自身因果约束下所作出的自洽反应，无法套入 B 脑海中的预设网格时，B 便自然地判定 A 是“非理性的”、“有认知偏差的”。
 
-看清这与物理学时空模型的惊人同构吧：
+这与物理学时空模型呈现出结构上的同构：
 * 物理学把主观感知的不变性抽象为客观四维时空，把死立方体强加给所有人；
 * 理性主义理论家把局域观察者的特定偏好抽象为“客观理性标准”，把均质发条人的模型强加给一切活体生命。
 
 **两者都忘记了：四维投影在不同心智之间从来都各不相同，每个人感知到的现实底色与因果摩擦自然迥然不同。世界上根本不存在脱离活体心智的“客观上帝视角理性”；所谓的“非理性”，不过是一个心智拿着自己局域投影出的死地图，去粗暴裁决另一个心智正在活生生行进的真实脚步罢了！**
 
 更深刻的是，**为什么我们有时甚至会认为“过去的自己是非理性的”？**
-许多人陷入自责与懊悔，指责自己在过去的某个关头“丧失了理性”、“做出了极其荒唐的决定”。然而，这依然是对时间的严重误解所催生的后视镜偏见（Hindsight Bias）：
+回顾过去时，人们有时指责过去的自己“做出了非理性的决定”。然而，这依然是基于时间流动产生的后视评价：
 * **在时间走过的每一个具体时刻，那个当下的现实切片永远是绝对自洽、毫无内在矛盾的**。你在那一刻所掌握的所有信息、情绪权重与具身冲动，构成了那一瞬间唯一的真实状态。在那一刹那，心智依据其当时所处的全部神经输入与情境约束作出反应，其行为与那一瞬间的内部状态是完全自洽的；
-* **然而，当真实时间继续向前推进（`+1`），它必然会在“因”与“果”之间撕裂出不可消除的摩擦——因为因与果从来不是相同的（Because cause and effect are never the same）！**  
+* **然而，当真实时间继续向前推进（`+1`），它必然会在“因”与“果”之间产生差异摩擦——因为因与果从来不是相同的。**  
   一旦因果步长落地，全新的现实状态、未曾预见的信息与粗粝的物理代价轰然展开，现实被不可逆地刷新了；
 * **正是因与果之间的这种差异与摩擦，在后来的新当下催生出了一种主观的后视镜评价，让我们倒果为因地宣称自己“过去是非理性的”！**
 
-**看清这一层认知剥离吧：“非理性”从来不是人类心智的本质属性（Not being irrational as a nature），而是一种在不可逆时间流动中、因与果出现断层差异后所产生的后视性主观评价！**  
+**剥离后视评价的机制可以发现：“非理性”并非人类心智的固有属性，而是在不可逆时间流动中、因与果出现差异后所产生的后视性主观评价。**  
 如果时间像块状宇宙那样是静止的，因与果就完全对称，后视镜评价就不会产生；恰恰是因为真实时间在流淌、因为每一次行动都在以不可预测的代价生成新现实，我们才会在事后感受到因果的剧烈摩擦，并错误地将这种“因果差异的摩擦”当成了自我本质上的“非理性”。
 
 ### 理论的内部自洽与主权抽身：这不是悲剧，这只是现实的本来面目
 
 由此，我们顺理成章地抵达了另一个更为深邃的认识论推论：
-**即便从这套“非万物理论”（Not-a-ToE）的宏观视界来看，所有理论都不可避免地存在其固有的局限与边界；然而在其自身内部，或者更具体地说——在持守该理论的心智本身内部，在它主动走出自身之前，它是根本感受不到任何不自洽的（Within the mind holding the theory, there is no incoherence felt until it steps out of itself）！**
+**即便从“非万物理论”的宏观视界来看，所有理论都存在其固有的局限与边界；然而在其自身内部，在持守该理论的心智主动抽离之前，它是感受不到不自洽的。**
 
-请切身体察心智与理论的共生机制：
-* 当一个心智沉浸在一套理论体系（无论是牛顿力学、广义相对论、标准模型，还是某种经济学教条或日常生活信念）之中时，**那套理论就是它所切实体验到的“不变性”（The very invariance it experiences）**；
-* 而那套被它紧紧握住的不变性，**就是它所唯一识别与认定的现实（The reality it recognizes）！**
+追踪心智与理论的共生机制：
+* 当一个心智沉浸在一套理论体系（无论是牛顿力学、广义相对论、标准模型，还是某种经济学教条或日常生活信念）之中时，**那套理论就是它所切实体验到的“不变性”**；
+* 而那套不变性，**就是它所唯一识别与认定的现实。**
 * 就像现实的当下一个切片内部绝无逻辑矛盾一样，在一个被心智完全内化的理论闭环里，所有的逻辑推演、因果解释与感知过滤都是天衣无缝、浑然一体的。身处其中的人，理所当然地体验到充盈的自洽感与确定性。
 
 正因如此，物理学与哲学史上的无数争鸣，才陷入了长达数百年的对牛弹琴：
-**根本不存在任何能够从外部“解决理论间不自洽”的万能方案（There is no external solution in solving the incoherence of the theories）！**
+**并不存在任何能够从外部“解决理论间不自洽”的万能方案。**
 
 说得更直白一些：
-* **对于一个看不见信号的心智而言，信号只会被当作噪音一拂而去（To put it bluntly, for a mind which cannot see the signal, the signal is going to be brushed off as noise）！**
-* **心智选择去看任何东西，在本质上就天然意味着忽略其他一切（Whatever the mind chooses to see inherently means ignoring everything else）！**
-* **因此，在直接经验发生的当下瞬间，这个心智在其内部绝不可能感受到任何不自洽（There is no incoherence that can be felt by the mind at the very moment of experience）！**
+* **对于无法识别信号的心智而言，信号只会被当作噪音忽略；**
+* **心智选择关注特定面向，在本质上天然意味着忽略其他一切；**
+* **因此，在直接经验发生的当下瞬间，心智在其内部不会感受到不自洽；**
 * 你无法通过在外部向一个相对论学者挥舞量子力学、或向一个牛顿主义者兜售时空弯曲，来从外部强行“治愈”对方模型里的不自洽；任何外部的反例，在穿透其不变性网格时，都只会被当作可以忽略的“噪音”或“非理性”；
-* **打破这种局限的唯一途径，必须依赖每一个具体、活生生的心智，做出其独立的第一人称主权抉择，主动从既有的理论框架中抽身而出，如其所是地直视现实本身（It has to be each and every mind making a sovereign choice to step out of it and see it as is）！**
+* **这种局限无法通过外部理论解决，而是取决于具体心智做出第一人称的主权选择，主动从既有框架中抽身，直接面对现实本身。**
 
-正因如此，**这整个探索项目的意义（The exercise of this project），从来不是为了居高临下地去说服、争辩或纠正任何其他心智；它仅仅是这颗心智在当下为未来的自己、以及任何可能觉得有用的其他心智所搭建的一副脚手架——供他们在某一刻想要主动走出自身时，有一副可以借力的阶梯（The exercise of this project is just providing the scaffolding that this mind creates for the future self or any other mind who might find it useful to step out of itself）。**
+正因如此，**这一探索项目的意义，从来不是为了居高临下地去说服、争辩或纠正任何其他心智；它仅仅是这颗心智在当下为未来的自己、以及任何可能觉得有用的其他心智所搭建的一副脚手架——供他们在某一刻想要主动走出自身时，有一副可以借力的阶梯。**
 
 **这再次是“因果与第一人称视界为同枚硬币两面”的极致体现！**
 外部客观视界看到的是理论的边界、模型的摩擦与不可消除的量子因果刷新；而内部第一人称视界体验到的，则是心智是否行使自由意志与主权，主动迈出既有框架的那一步（`+1`）。
 
-**最重要的是：这一切绝非一出存在主义的悲剧，这不过是现实本然的运作方式（It is not a tragedy, it is just the way it is）！**
+**这一切并非悲剧，不过是现实本然的运作方式。**
 
 许多人在读到万物理论之不可能时，往往会升起一种虚无主义的哀伤，仿佛人类被永远诅咒在无法获得全知全能的流放之地。但事实恰恰相反：
 **这根本不是什么悲剧，这就是生命与世界最朴素、最美妙的日常真相。**
-* 在我们的日常生活中，事情原本就是如此简单：**我们所有人都在自主选择去看不同的东西，而无论我们选择去看什么，那就是我们所切实经验到的现实（In everyday life, we all choose to see different things, and whatever we choose to see is whatever reality we experience. As simple as that）！**
+* 在我们的日常生活中，事情原本就是如此简单：**每个人在日常生活中选择关注不同的面向，所选择关注的也就构成了所经验的现实。**
 * 画家选择去看光影的微妙渐变，他所经验到的就是一个流光溢彩的画意世界；
 * 工程师选择去看应力结构与承重极限，他所经验到的就是一个坚实严密的力学世界；
 * 母亲选择去看孩子的眼神与呼吸，她所经验到的就是一个充满爱意与牵绊的温情世界。
@@ -435,9 +435,9 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 每一个人所选择持守的“理论”或“视角”，不过是他为了在此刻的世界中行动而选定的那一组局部不变性。他在那一刻所经验到的现实，既自洽，又真实。
 当他需要探索新的可能时，他拥有不受任何既有公式禁锢的主权，随时抽身迈步，去看见另一片天空。
 
-**现实之所以不呈现为一套闭合的万物理论，不是出于某种外在意志的设定，而是源于因果生成本身的开放结构。道德语言往往预设了某种‘宇宙或现实应当如何’的更优版本，但现实中根本不存在那种脱离一切视角的‘无处之境’（View from Nowhere）。任何一颗心智的偏好，绝不会自动成为另一颗心智的偏好，更不可能成为所有心智乃至宇宙本身的普适偏好。每一个心智在每一个当下自主选择关注什么，就经验到怎样的现实。这里没有先验的道德法庭，事情，原本就是这么简单。**
+**现实之所以不呈现为一套闭合的万物理论，不是出于某种外在意志的设定，而是源于因果生成本身的开放结构。道德语言往往预设了某种‘宇宙或现实应当如何’的更优版本，但现实中根本不存在那种脱离一切视角的“无处之境”。任何一颗心智的偏好，绝不会自动成为另一颗心智的偏好，更不可能成为所有心智乃至宇宙本身的普适偏好。每一个心智在每一个当下自主选择关注什么，就经验到怎样的现实。这里没有先验的道德法庭，事情，原本就是这么简单。**
 
-看清这场魔术的荒谬吧：
+从这个角度审视：
 **当物理学宣称它通过块状宇宙和几何度规“统一了时间”时，它并没有解开时间之谜；它只是通过把时间彻底空间化、把生成彻底静态化、把活人彻底降解为流形上的冷冻切片，来逃避真实的现实！**
 
 在投影的时间维度上，一切都是已经完成的死物；但在活的真实时间里，每一次呼吸、每一次观测、每一次选择，都在以不可化约的粗粝代价，将整张地图撕开并推向不可逆的新生。
@@ -470,7 +470,7 @@ To achieve formal closure, mathematical physics performs a bilateral amputation:
 Where does this astonishing internal contradiction actually come from?
 **The contradiction comes from the very mistake of turning the current slice of the universe into the whole universe, and then projecting it in two different ways!**
 
-Examine these two divergent projection routes:
+Tracing these two divergent projection routes:
 1. **Projection Route 1: Using Time as the Independent Variable Allowed to Go to Zero and Infinity (`t ∈ [0, ∞)`)**  
    Theoretical physics isolates the current empirical slice, isolates time as an abstract continuous independent variable `t`, and allows the equations to extrapolate freely across the mathematical domain.  
    By doing that, the mathematical consequences are inevitable:
@@ -482,7 +482,7 @@ Examine these two divergent projection routes:
    Theoretical physics extracts the exact same current slice, but this time projects it into a static, rigid geometric container—a **"fixed cube"** (the 4D pseudo-Riemannian spacetime manifold).  
    Inside this fixed cube, all slices across past, present, and future already co-exist timelessly in full geometric reality. "Time" then ceases to be time at all: **it becomes merely the path you traverse through that static cube**!
 
-**Recognize the profound shared fallacy uniting both models:**
+**Both theoretical projections share the exact same underlying mechanism:**
 * **Both mistake the model of the projection of a time (and space) dimension as the actual time!**
 * **Both effectively freeze the actual time in place!**
 
@@ -494,7 +494,7 @@ They appear in violent contradiction—one insisting on an absolute irreversible
 Furthermore, an even more insidious and foundational epistemological fallacy lurks beneath this construct:
 **The subtle mistake of treating the subjective felt invariance in perceiving reality as a four-dimensional projection, and then treating that four-dimensional projection as the very reality we are perceiving.**
 
-Observe the layered psychological and mathematical sleight of hand:
+Tracing this layered cognitive and mathematical transition:
 As embodied living agents navigating the cosmos, our perceptual apparatus compresses and stabilizes sensory flux into a coherent experiential field, producing a **subjective felt invariance** of three-dimensional space and forward duration. Theoretical physics abstracts this felt stability into a formal mathematical construct: the "four-dimensional projection" (the 3+1 spacetime manifold).
 Then, scientism commits a catastrophic double error:
 1. **Even the four-dimensional projection is never the same across different minds**:  
@@ -508,7 +508,7 @@ Lived reality is not a four-dimensional geometric specimen, nor is it an inert p
 
 A completely parallel, isomorphic fallacy dominates mainstream economics, decision theory, and everyday human judgment: **the assumption of rationality**.
 
-Examine how the intellectual establishment divides human conduct into "rationality" versus "irrationality":
+A parallel dynamic appears in how formal models classify human conduct into "rationality" versus "irrationality":
 Theorists either construct an idealized *homo economicus* operating across a sanitized, objective playing field, or patronizingly label living human beings as riddled with "irrational biases." Yet this entire paradigm collapses under identical epistemological scrutiny, blinded to the irreconcilable divide between the first-person lived horizon and the third-person external projection:
 1. **From the inside (First Person), every mind is always internally coherent at the living moment**:  
    For each and every mind, at the active microsecond of decision, **we are always internally coherent—which means we always think and feel we are completely rational at that very moment**. Why? Because **there is no incoherence in reality (现实本身根本不存在任何不自洽)**! The physical cosmos contains no self-contradictory states; every neural impulse, affective weight, acute dread, or decisive leap is the exact, lawful causal culmination of an embodied organism responding to its immediate energetic landscape. No conscious agent at the microsecond of action deliberately chooses what it simultaneously judges to be wholly absurd; in the immediate cut of the living present, its action is tautologically and lawful coherent with its internal reality;
@@ -516,7 +516,7 @@ Theorists either construct an idealized *homo economicus* operating across a san
    Yet that deep, subjectively felt rationality transforms into apparent "irrationality" the moment it is scrutinized from the outside. Why? **Because no two persons perceive reality the same!**  
    Observer B can never inhabit the immediate first-person causal priors of Agent A. Observer B can only evaluate A's actions against B's *own* private, idiosyncratic projection of reality. When A’s step does not align with B’s conceptual grid, B readily applies the label "irrational" to dismiss what is, from the inside, completely coherent causal navigation.
 
-Recognize the profound isomorphism uniting these errors:
+The structural isomorphism between these frameworks is direct:
 * Theoretical physics takes our subjective felt invariance, hardens it into a 4D geometric spacetime manifold, and mistakes it for the cosmos;
 * Formal social theory takes an observer's localized cognitive calculus, hardens it into an objective "standard of rationality," and mistakes it for universal truth.
 
@@ -529,7 +529,7 @@ Countless individuals torment themselves with regret, looking backward and lamen
   Once the causal cut is executed, novel energetic consequences, unexpected feedback, and coarse physical reality unfold. Reality is irreversibly refreshed;
 * **It is precisely that friction of difference between cause and effect that creates the hindsight subjective evaluation of having been "irrational" in the past!**
 
-**Recognize the profound liberation in this insight: we are not "irrational by nature" (not being irrational as a nature); rather, "irrationality" is an evaluative retrospective artifact born of the inevitable friction between cause and effect across irreversible time!**  
+**Deconstructing this hindsight mechanism reveals: we are not "irrational by nature" (not being irrational as a nature); rather, "irrationality" is an evaluative retrospective artifact born of the inevitable friction between cause and effect across irreversible time.**  
 If time were a static 4D block where all events statically co-exist, cause and effect would be symmetrically identical, and hindsight friction could never occur. It is precisely because actual living time is dynamically unfolding—and because every living choice steps bravely across an irreducible causal gap (`dx ≠ 0`) into an unscripted reality—that cause and effect diverge, producing the lived friction of difference that hindsight retrospectively and mistakenly pathologizes as "human irrationality."
 
 ### The Internal Coherence of Theories and the Sovereign Step: Not a Tragedy, Just the Way It Is
@@ -537,7 +537,7 @@ If time were a static 4D block where all events statically co-exist, cause and e
 This brings us to a further, profoundly illuminating epistemological realization:
 **Even though from this "not-a-toe" vantage point we recognize that all theories possess inherent boundaries and inescapable limitations, within the theory itself—or more specifically, within the mind holding the theory—there is zero incoherence felt until that mind makes the sovereign choice to step out of itself.**
 
-Examine the symbiosis between mind and theoretical frameworks:
+Tracing the symbiosis between mind and theoretical frameworks:
 * For a conscious mind holding any specific theory—whether Newtonian mechanics, general relativity, quantum field theory, neoclassical economics, or an everyday intuitive worldview—**that theory constitutes the very invariance it actively experiences**;
 * And that invariance **is the reality it recognizes**!
 * Just as an immediate slice of physical reality contains no internal contradictions, a conceptual model fully internalized by a conscious mind operates as an unbroken, self-consistent loop. Every perception is filtered through its stable axioms; every deduction confirms its foundational geometry. Within that internal cognitive ecosystem, the mind experiences complete, undisturbed coherence.
@@ -550,7 +550,7 @@ To put it bluntly:
 * **Whatever the mind chooses to see inherently means ignoring everything else!**
 * **Therefore, there is no incoherence that can be felt by the mind at the very moment of experience!**
 * You cannot "solve" or dissolve the limitations of a framework from the outside by presenting external arguments to someone safely nested within their self-consistent loop; any external critique will either be digested and rationalized by the model's internal invariants, or brushed off as irrelevant noise, measurement error, or "irrationality";
-* **The resolution of incoherence can never be engineered by external coercion or meta-equations; it demands each and every living mind making a sovereign choice to step out of its conceptual container and see reality as it actually is.**
+* **The resolution of incoherence cannot be engineered by external formulas; it depends upon each living mind making a sovereign choice to step out of its conceptual container and see reality as it is.**
 
 And here lies the humble, serene ethos of our entire inquiry:
 **The exercise of this project is not to proselytize, argue, or correct any other mind; it is simply providing the scaffolding that this mind creates for the future self or any other mind who might find it useful to step out of itself.**
@@ -571,7 +571,7 @@ The "theories" or cognitive models we adopt are nothing more than the local inva
 
 **Reality does not remain unclosable to satisfy a preferred metaphysical design, but because the generative unfolding of causality possesses no single, disembodied "View from Nowhere." Moral language inherently presumes a preferred version of the universe or reality, yet there is no such celestial vantage point. The preference of this mind does not automatically become the preference of another mind, let alone all minds. Each conscious agent chooses what to attend to, and that choice constitutes the reality it experiences. There is neither an external tribunal nor a universal hierarchy of preferences. It is as simple as that.**
 
-Recognize the magnitude of this intellectual inversion:
+Following this theoretical inversion:
 **When physics claims to have mastered time through the Block Universe, it has not explained time; it has merely spatialized time into a corpse, petrified reality into geometry, and reduced living agency to an inert line on frozen coordinates—all to evade actual reality!**
 
 Along the projected time dimension, everything is already dead and calculated. But in actual living time, every breath, every measurement, and every sovereign decision tears through the static map, thrusting the cosmos into unscripted becoming.
@@ -632,12 +632,12 @@ It attempts to replace an open generative process with a static, pre-calculated 
 每当分析至此，理论界的传统回应往往是：
 *“只要再给我们几十年，只要建造出更大能标的对撞机，只要完成量子引力与时空涌现的数学证明，物理学自然会在未来把时间、因果与观测者彻底解释清楚。”*
 
-这种辩解在逻辑上面临着基础的**范畴倒错（Category Error）**：
+这种辩解在逻辑上面临着基础的**范畴倒错**：
 **这个问题永远、绝对不可能由物理学本身来解决，因为物理学的一切方程，全都是建立在这一前提之上的下游产物！**
 
-我们在整个认知图谱中反复申明的核心基石正是：**不可化约的前提（The Irreducible Prior）**。
+我们在整个认知图谱中反复申明的核心基石正是：**不可化约的前提**。
 
-请问：物理学到底是什么？
+回到根本：物理学是什么？
 物理学是一组从天上掉下来的绝对神启吗？
 不是。物理学是**一个活生生的、栖息于第一人称当下的心智，为了在粗粝的世界中寻找一致性，在不可逆的当下一瞬执行测量、做下记号、记录读数，进而提炼出的符号表象系统**。
 * 如果没有心智在当下劈出的那记区分，整个宇宙根本不存在任何“状态”与“自由度”的划分；
@@ -685,47 +685,47 @@ Physics cannot resolve this question not because its equations lack complexity, 
 
 ## 九、 形式系统的必然滑移与心智作为活体卫士 / 9. The Structural Slippage of Formalism and Mind as the Living Watchdog
 
-在此，我们必须揭示一个最为险绝、却在人类思维中无休止上演的隐秘机制：
-**为什么即便一个人在理性上彻底看清了上述真相，他的思维依然会像着了魔一样，一次又一次地滑回还原论的叙事之中？**
+在形式系统的运作中，还存在着一个反复出现的结构性滑移：
+**为什么即便在理性上理清了上述机制，思维依然会一次又一次地滑回还原论的叙事之中？**
 
 你一定无数次亲历过这种滑移：
 前一分钟，你刚刚彻底洞悉了“不可化约的前提是所有验证的先决基石”；然而仅仅过了几分钟，语言的惯性便开始作祟，人们便会不由自主地问出：*“那么，这个不可化约的前提本身该如何被证明？我们是否需要假定它的存在？未来的科学会不会找到它的产生机制？”*
 
-看吧！就在这一刹那，**不可化约的前提，被不动声色地从“不可动摇的先决条件”，降解为了一个“有待被证明的假设”！**
+在这一转换瞬间，**不可化约的前提被悄然置换为了一个“有待证明的假设”。**
 提问者一边心安理得地使用着它（用活着的心智在发问、在时间中组织语言），一边却反过来怀疑自己脚下踩着的这片唯一坚实的土地是否存在！
 
 这种思维的退化究竟因何而起？
-**这是语言、符号与一切形式逻辑系统所固有的“结构性滑移”（Structural Slippage）。**
+**这是语言、符号与形式逻辑系统固有的“结构性滑移”。**
 
-形式语言的本质是**客体化与名词化（Nominalization）**。语言的工作原理，就是把鲜活、流动的生命动作（动词），沉淀为静态、封闭的概念（名词）：
+形式语言的运作倾向于**客体化与名词化**。语言的工作原理，就是把鲜活、流动的生命动作（动词），沉淀为静态、封闭的概念（名词）：
 * 它把“正在进行的不可逆因果跨越”，变成了名词“因果律”；
 * 它把“正在觉察的第一人称生命介入”，变成了名词“观测者”；
 * 它把“先于一切形式体系的元始基准”，变成了名为“不可化约的前提”的一串字块。
 
 一旦活体经验被编码为静态名词，形式系统的语法机器就会立刻将其视为一个普通的内部客体。这个冰冷的机器会机械化地向它索要“输入参数”、“定义域”与“先验公理证明”。
 
-**这种不可避免的滑移，恰恰是“闭合之绝对不可能”（The Impossibility of Closure）的最铁证！**
+**这种不可避免的滑移，恰恰是“闭合之不可能”的明确证据。**
 它证明了没有任何形式符号系统能够自足地容纳赋予其生命的活体母体。
 
 面对这种由语言本身的重力所引发的滑移，我们该如何应对？
 没有哪套静态公式能防范这种滑移，因为公式本身就是滑移的产物。
 
-**唯有活的心智，能够抵抗这种滑移（Only the Mind Can Resist the Slippage）。**
+**唯有活的心智，能够抵抗这种滑移。**
 
-心智在此展现出**“活体观察者”（The Living Observer）**的解耦功能：
+心智在此展现出**“活体观察者”**的解耦功能：
 1. **辨析语法的固化**：当形式逻辑试图把先决前提降解为可选假说时，心智能够辨明其范畴倒错；
 2. **走出静态清单的局限**：当形式系统试图用投影坐标替代活体现实时，心智能够重新感知具身的真实摩擦；
 3. **回归生成的动词**：心智能够主动从写就的名词符号中抽身，重新立足于生成着的因果前沿（`+1`）。
 
 ---
 
-Here we must confront the most treacherous cognitive trap in the history of ideas:
+Within formal systems, a recurring structural slippage appears:
 **Why does human discourse perpetually slip back into the reductionist narrative, even after an inquirer has definitively recognized its falsity?**
 
 Every rigorous thinker has witnessed this regression:
 One moment you clearly establish that "the Irreducible Prior is the untransgressable precondition for all verification"; yet within minutes, driven by linguistic inertia, thought regresses and someone asks: *"So, how do we prove the Irreducible Prior? Shouldn't we treat it as an unverified assumption? Could future physics uncover its origin?"*
 
-Observe the sleight of hand! In that fleeting second, **the Irreducible Prior was covertly degraded from an untransgressable precondition into an optional hypothesis requiring validation!**
+In that fleeting transition, **the Irreducible Prior is quietly converted from an untransgressable precondition into an optional hypothesis requiring validation.**
 The inquirer continues to actively use it (employing living conscious thought to question, spending irreversible time to speak), while simultaneously doubting the existence of the very ground upon which they stand!
 
 Why is this slide universal?
@@ -839,10 +839,9 @@ graph TD
 
 **正因为没有任何理论能够替代现实走过下一个瞬间，每一个心智才拥有不可替代的第一人称观察与行动视角。这不是一出悲剧，也没有某种凌驾一切的终极偏好；在日常生活中，我们选择关注什么，就经验到怎样的现实。事情原本就是如此。这整个项目的全部字句，不过是这颗心智在当下为未来的自己与同路者搭建的一副轻盈脚手架；当你需要时，它可以作为一次抽身观察的阶梯。**
 
-**从那张冰冷虚构的四维坐标纸上抬起头来吧。**
-承认物理学是一套精巧但有边界的下游勘测记号，拒绝形式语法将活体前提降解为客体假说的惯性滑移。
-以清醒、勇敢、不可替代的第一人称心智，站立在现实那唯一真实的刀锋之上——
-不沉溺于虚构的过去，不恐惧敞开的未来，在不可逆的粗粝摩擦中，坚定地踩出属于你自己的下一步（`+1`）。
+**当心智从静态的四维坐标纸中抽身：**
+物理学便回归其作为下游勘测记号的工具位置，不再将先决的生成前提降解为客体假说。
+立足于第一人称的当下前沿，既不把静态记忆当作客观过去，也不把投影坐标误认为预定未来，而是在不可逆的生成摩擦中，踏实走出属于自己的下一步（`+1`）。
 
 ---
 
@@ -860,7 +859,6 @@ At the same time, recognizing that closure cannot be finalized reveals that real
 
 **Because no theory can substitute for reality stepping into the next moment, each mind retains an irreplaceable first-person perspective. This is neither a tragedy nor a preferred metaphysical state; it is simply how observation and action operate. In everyday life, whatever we choose to see is whatever reality we experience. As simple as that. The entire exercise of this project is nothing more than scaffolding erected by a living mind in the present for its future self and any fellow traveler who might find it useful to step out and look at reality as it is.**
 
-**Lift your gaze from the frozen coordinate paper of the Block Universe.**
-Acknowledge physics as an extraordinarily useful yet strictly downstream set of survey notes. Resist the structural slippage that seeks to reduce your living foundation into an inert noun.
-Take your place upon the razor's edge of the only reality that actually is—
-Neither clinging to an imaginary past, nor fleeing the open future, but standing firmly in coarse friction, and stepping with sovereign courage into the unscripted next (`+1`).
+**Stepping off the static coordinate paper of the Block Universe:**
+Physics returns to its functional role as a set of downstream survey notes, rather than degrading the living Prior into an internal noun.
+Rooted in the first-person present, thought no longer mistakes memory traces for a fixed past or projected axes for an unalterable future, but simply takes its own real causal step into the unscripted next (`+1`).
