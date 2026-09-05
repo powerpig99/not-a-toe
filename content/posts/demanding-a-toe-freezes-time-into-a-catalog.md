@@ -1,6 +1,6 @@
 # 索求万物理论是在将当下冻结为清单：投影时间、逃避未来与不可化约的前提 / Demanding a Theory of Everything Freezes Time into a Catalog: Projected Dimensions, the Avoidance of the Future, and the Irreducible Prior
 
-*根本不存在所谓“过去的客观记录”，一切“过去”皆是从当下向虚构时间维度的投影；任何理论所能捕获的，仅仅是有限时间窗口内跨越时间的可观测不变量。物质在根本上同样是信息性的，两者共享同一套底层因果，使得现实与模型的复杂度差距在实用上近乎无限。日常摩擦与对万物理论的渴望是同币双面：问题不在于驱动渐进改进的渴望，而在于相信闭合可达的迷狂。从微积分抹杀 `dx` 到普朗克常数作为现实的刷新率，量子效应与主观自由感，皆是因果与第一人称视角这同一枚硬币在不同视界下的必然显化。 / There is no objective record of the past; all "past" is a projection from the present onto an artificial time dimension. What any theory can capture is merely observable invariance across time within our limited window. Physical matter is fundamentally informational, rendering the complexity gap between model and reality practically close to infinity. Daily friction and the desire for a ToE are two sides of the same coin: the problem is not in desiring—which drives incremental improvement—but in believing closure is achievable. From calculus zeroing `dx` to the Planck constant as reality's refresh rate, quantum indeterminacy and subjective freedom are twin faces of the exact same coin, unified in the irreducible coherence of causality and first-person agency.*
+*根本不存在所谓“过去的客观记录”，一切“过去”皆是从当下向虚构时间维度的投影；任何理论所能捕获的，仅仅是有限时间窗口内跨越时间的可观测不变量。物质在根本上同样是信息性的，两者共享同一套底层因果，使得现实与模型的复杂度差距在实用上近乎无限。日常摩擦与对万物理论的渴望是同币双面：问题不在于驱动渐进改进的渴望，而在于相信闭合可达的迷狂。从微积分抹杀 `dx` 到普朗克常数作为现实的刷新率，从大爆炸与热寂对块状宇宙的根本否定，到量子效应与主观自由感，皆是因果与第一人称视角这同一枚硬币在不同视界下的必然显化。 / There is no objective record of the past; all "past" is a projection from the present onto an artificial time dimension. What any theory can capture is merely observable invariance across time within our limited window. Physical matter is fundamentally informational, rendering the complexity gap between model and reality practically close to infinity. Daily friction and the desire for a ToE are two sides of the same coin: the problem is not in desiring—which drives incremental improvement—but in believing closure is achievable. From calculus zeroing `dx` to the Planck constant as reality's refresh rate, from the Big Bang and Heat Death demolishing the Block Universe to quantum indeterminacy and subjective freedom, all are twin faces of the exact same coin: the irreducible coherence of causality and first-person agency.*
 
 ---
 
@@ -326,6 +326,20 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 2. **向前**：它把尚未发生的未知未来，偷换为微分方程在坐标轴 `t` 上延伸出的连续解；
 3. **合成“块状宇宙”（Block Universe）**：理论家随后将这两条投影拼合在一起，宣布过去、现在与未来都是一张四维或高维流形上早就并存的静态几何。爱因斯坦甚至公然宣称：“过去、现在与未来的区分，只是一种顽固的幻觉。”
 
+**然而，更为荒谬、也最具讽刺意味的内在破产在此刻轰然降临：如果你同时接受大爆炸（The Big Bang）与宇宙热寂（The Heat Death），那么块状宇宙在物理和本体论上就根本不可能成立！然而最具戏剧性的是，这两套彻底互斥的宇宙图景，竟然是从同一套引力场方程中被推导出来的！**
+
+请审视这套理论建构内部深刻的精神分裂：
+* **块状宇宙声称**：四维时空是一个静态、对称、无始无终的几何流形。时间只是一条与空间对等的几何坐标轴，过去、现在与未来在本体论上毫无二致地永远并存。在这里，根本没有真正的“发生”，时间的方向性只是一种主观幻觉；
+* **但宇宙学却同时宣布**：宇宙在时间的一端存在着一个极低熵、无限致密的绝对物理起点——**大爆炸（`t = 0`）**；而在时间的另一端，宇宙正不可逆转地滑向熵增极大、彻底死寂与弥散的终局——**热寂（Heat Death, `t → ∞`）**。
+
+试问：**一个两端具有绝对物理不对称性、从极端低熵奔向最大热力学死寂的宇宙，怎么可能是一个静态并存的几何块？！**
+在纯粹的空间维度中，从来不存在“左边必须是大爆炸爆炸源、右边必须是不可逆热死”的几何法则。如果时间真的只是像空间一样的几何展开，如果过去与未来在块状宇宙中具有完全对称的本体实在性，那么“从大爆炸到热寂”的热力学单向不可逆性就彻底沦为了无源之水。
+你不能既主张宇宙是一座所有历史早已并存的“永恒雕塑”，又主张宇宙是一场正在从诞生走向毁灭的“不可逆物理进程”。这两者在逻辑上是根本无法共存的！
+
+而现代物理学最荒诞的闹剧正在于此：
+**理论家使用广义相对论的同一套爱因斯坦场方程，在几何学上宣称时间是空间化的静态切片（块状宇宙），但在天体物理学中，当他们把物质代入同一套方程求解时，方程却声嘶力竭地吐出了一个动态膨胀、起源于奇点、终结于热寂的历史进程！**
+物理学用同一套数学工具，既制造了“时间不存在”的形而上学避难所，又推导出了“时间不可逆”的物理判决书。这种由于执念于静态闭合而导致的认知失调，无可辩驳地揭示了块状宇宙的破产——真实的时间绝非流形上的死坐标，而是宇宙正在无可撤销地耗散、生成并走向终局的活体流变。
+
 看清这场魔术的荒谬吧：
 **当物理学宣称它通过块状宇宙和几何度规“统一了时间”时，它并没有解开时间之谜；它只是通过把时间彻底空间化、把生成彻底静态化、把活人彻底降解为流形上的冷冻切片，来逃避真实的现实！**
 
@@ -353,6 +367,21 @@ To achieve formal closure, mathematical physics performs a bilateral amputation:
 1. **Retrospectively**: It reifies structures present right now into an objective historical storehouse extending back to the Big Bang;
 2. **Prospectively**: It substitutes the unwritten future with the continuous integral curves of differential equations extended along `t`;
 3. **Synthesis of the "Block Universe"**: Theorists splice these two projections together, declaring that past, present, and future co-exist simultaneously as a completed static manifold. Einstein famously declared: *"The distinction between past, present, and future is only a stubbornly persistent illusion."*
+
+**Yet an even more devastating and ironic internal collapse emerges here: the Block Universe is fundamentally and ontologically impossible if you accept the Big Bang and the Heat Death of the universe. In a staggering display of theoretical schizophrenia, both of these mutually exclusive cosmic narratives are derived from the exact same field equations!**
+
+Examine the profound internal contradiction tearing modern theoretical cosmology apart:
+* **The Block Universe asserts**: Spacetime is a static, eternal, four-dimensional pseudo-Riemannian manifold. Time is merely a geometric coordinate axis completely symmetric to spatial dimensions, where past, present, and future co-exist timelessly with equal ontological reality. There is no dynamic becoming; the arrow of time is dismissed as a parochial human illusion;
+* **Yet modern cosmology simultaneously insists**: The universe has an absolute, non-symmetric physical origin at one boundary—the ultra-dense, low-entropy singularity of the **Big Bang (`t = 0`)**; and it is irreversibly marching toward an absolute thermodynamic graveyard of maximum entropy, dissipation, and cold oblivion at the other—the **Heat Death (`t → ∞`)**.
+
+Ask the fundamental question: **How can a cosmos defined by an absolute, irreversible physical asymmetry—surging from singular low entropy to universal heat death—possibly be a static, timeless geometric block?!**
+In genuine spatial dimensions, there is no physical law decreeing that the left edge must be an explosive firecracker while the right edge must be cold, dead ashes. If time were truly just another spatial dimension where past, present, and future statically co-exist, the absolute thermodynamic arrow from the Big Bang to Heat Death collapses into an ungrounded, absurd anomaly.
+You cannot have it both ways: you cannot declare the universe to be an eternal sculpture where all history is already set, while simultaneously preaching that the universe is an irreversible, historical process hurtling from cosmic birth to thermal extinction. The two claims are logically and ontologically incompatible!
+
+And here lies the ultimate irony of theoretical physics:
+**Both irreconcilable doctrines are derived from the exact same Einstein field equations!**
+Theorists invoke the tensor geometry of the field equations to erect the static sanctuary of the Block Universe (proclaiming time to be a mere coordinate); yet when they solve those very same equations for matter and energy (the FLRW metric), the mathematics relentlessly forces an expanding, evolving, historically irreversible universe that erupts from a singularity and cools into oblivion.
+Physics uses the same mathematics to manufacture a metaphysical safe-house where time is an illusion, while simultaneously uncovering the physical death-warrant that proves temporal irreversibility is absolute. This internal schizophrenia is the definitive proof that the Block Universe is an untenable mirage: actual time is not a frozen coordinate, but the living, irreversible dissipation of reality itself.
 
 Recognize the magnitude of this intellectual inversion:
 **When physics claims to have mastered time through the Block Universe, it has not explained time; it has merely spatialized time into a corpse, petrified reality into geometry, and reduced living agency to an inert line on frozen coordinates—all to evade actual reality!**
@@ -568,10 +597,22 @@ graph TD
         Belief -. "反向强化病态执念<br>Fuels compensatory fixation" .-> Desire
     end
 
+    subgraph Schizophrenia["【同一套方程推导出的根本互斥 / The Internal Cosmic Schizophrenia】"]
+        FieldEq["爱因斯坦引力场方程 (Einstein Field Equations)<br>Same Mathematical Apparatus"]
+        Block["静态块状宇宙 (Block Universe)<br>Past/Future timelessly coexist on 4D manifold<br>(Time as symmetric coordinate)"]
+        History["动态历史流变 (Cosmic History)<br>Big Bang (Low Entropy) → Heat Death (Max Entropy)<br>(Irreversible thermodynamic arrow)"]
+        
+        FieldEq -->|"纯几何空间化推演<br>Geometric spatialization"| Block
+        FieldEq -->|"带入物质动态求解<br>Solved with dynamic matter"| History
+        Block <-. "根本不相容！<br>Fundamentally Incompatible!" .-> History
+    end
+
     GrandCoherence ==> Dynamics
+    Dynamics ==> Schizophrenia
 
     style GrandCoherence fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
     style Dynamics fill:#23272e,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style Schizophrenia fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
 ```
 
 ---
@@ -588,7 +629,7 @@ graph TD
 它是一具在出生的瞬间就已经死去的标本。它试图用一份基于当下的存量清单来换取对不确定性的免责声明，但宇宙的全部尊严，恰恰就在于它永远拒绝被任何清单所穷尽。
 
 渴望让世界变得更好吧——它是驱动我们每一次发明工具、修正公式与边际改进的生命源泉；
-但永远不要相信闭合的谎言——因为普朗克常数永远大于零，微积分的微元永远无法归零，量子跃迁的不确定性永远与你心头切实的自由意志同频跳动。
+但永远不要相信闭合的谎言——因为普朗克常数永远大于零，微积分的微元永远无法归零，大爆炸与热寂的历史彻底撕裂了块状宇宙的假面，量子跃迁的不确定性永远与你心头切实的自由意志同频跳动。
 
 **正因为你永远无法拥有一套万物理论将你安全护送过下一个瞬间，你才是一个拥有真正自由与主权的活体生命。**
 
@@ -609,7 +650,7 @@ There is only the active, vibrating present, saturated with friction, irreversib
 It is a specimen born dead. It attempts to trade living reality for a static inventory of settled effects, purchasing immunity from existential vulnerability. Yet the irreducible majesty of the cosmos lies in its absolute refusal to be imprisoned within any catalog.
 
 Embrace the desire to improve—it is the vital engine that drives every tool we build, every equation we refine, and every incremental stride we make;
-Yet refuse the delusion of achievable closure—for the Planck constant is stubbornly non-zero, the causal increment `dx` never collapses to nothingness, and the quantum openness measured by instruments pulses in exact unison with the living freedom of your conscious agency.
+Yet refuse the delusion of achievable closure—for the Planck constant is stubbornly non-zero, the causal increment `dx` never collapses to nothingness, the irreversible history from the Big Bang to Heat Death shatters the static Block Universe, and the quantum openness measured by instruments pulses in exact unison with the living freedom of your conscious agency.
 
 **It is precisely because you can never possess a Theory of Everything to carry you safely across into the next moment that you are a sovereign, living agent endowed with genuine freedom.**
 
