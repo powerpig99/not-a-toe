@@ -328,17 +328,40 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 
 **然而，更为荒谬、也最具讽刺意味的内在破产在此刻轰然降临：如果你同时接受大爆炸（The Big Bang）与宇宙热寂（The Heat Death），那么块状宇宙在物理和本体论上就根本不可能成立！然而最具戏剧性的是，这两套彻底互斥的宇宙图景，竟然是从同一套引力场方程中被推导出来的！**
 
-请审视这套理论建构内部深刻的精神分裂：
-* **块状宇宙声称**：四维时空是一个静态、对称、无始无终的几何流形。时间只是一条与空间对等的几何坐标轴，过去、现在与未来在本体论上毫无二致地永远并存。在这里，根本没有真正的“发生”，时间的方向性只是一种主观幻觉；
-* **但宇宙学却同时宣布**：宇宙在时间的一端存在着一个极低熵、无限致密的绝对物理起点——**大爆炸（`t = 0`）**；而在时间的另一端，宇宙正不可逆转地滑向熵增极大、彻底死寂与弥散的终局——**热寂（Heat Death, `t → ∞`）**。
+这一看似不可思议的理论精神分裂，究竟从何而来？
+**它的根本根源，恰恰在于物理学犯下了同一个致命的范畴错误：误将宇宙当下的这一瞬间切片当成了宇宙的全体；随后，又将这个被冻结的存量切片用两种截然不同的数学方式向外投影！**
 
-试问：**一个两端具有绝对物理不对称性、从极端低熵奔向最大热力学死寂的宇宙，怎么可能是一个静态并存的几何块？！**
-在纯粹的空间维度中，从来不存在“左边必须是大爆炸爆炸源、右边必须是不可逆热死”的几何法则。如果时间真的只是像空间一样的几何展开，如果过去与未来在块状宇宙中具有完全对称的本体实在性，那么“从大爆炸到热寂”的热力学单向不可逆性就彻底沦为了无源之水。
-你不能既主张宇宙是一座所有历史早已并存的“永恒雕塑”，又主张宇宙是一场正在从诞生走向毁灭的“不可逆物理进程”。这两者在逻辑上是根本无法共存的！
+请审视这两种殊途同归的数学投影：
+1. **投影方式一：将时间设为独立自变量，并任其滑向零与无穷大（`t ∈ [0, ∞)`）**  
+   理论家将当下的观测切片抽离出来，把时间抽象为一个独立标量自变量 `t`，并允许它在代数方程中肆意向两端延伸。  
+   当你这样做时，其数学结果是不可避免的必然命运：
+   * 将当前切片的膨胀与演化向后外推至边界条件 `t → 0`，**方程必然会在原点被逼出一个数学奇点——大爆炸（The Big Bang）**；
+   * 将当前切片的熵增向前方外推至无穷大极限 `t → ∞`，**方程必然会在渐近线上遭遇彻底的耗散与冷寂——热寂（Heat Death）**。  
+   大爆炸与热寂，根本不是客观独立存放在某个宇宙仓库里的两座丰碑，而是将当下切片的局部梯度强行延伸至零和无穷大所制造出来的数学渐近假象！
 
-而现代物理学最荒诞的闹剧正在于此：
-**理论家使用广义相对论的同一套爱因斯坦场方程，在几何学上宣称时间是空间化的静态切片（块状宇宙），但在天体物理学中，当他们把物质代入同一套方程求解时，方程却声嘶力竭地吐出了一个动态膨胀、起源于奇点、终结于热寂的历史进程！**
-物理学用同一套数学工具，既制造了“时间不存在”的形而上学避难所，又推导出了“时间不可逆”的物理判决书。这种由于执念于静态闭合而导致的认知失调，无可辩驳地揭示了块状宇宙的破产——真实的时间绝非流形上的死坐标，而是宇宙正在无可撤销地耗散、生成并走向终局的活体流变。
+2. **投影方式二：将时空投影为一个静态的“固定立方体”（块状宇宙模型）**  
+   理论家提取了完全相同的当下切片，但这一次，他们将其直接封死在一个静态的四维几何容器中——一个**固定的立方体（Fixed Cube）**或刚性伪黎曼流形。  
+   在这个固定立方体中，过去、现在与未来所有的空间切片早就齐刷刷地并存在那里。在这里，“时间”被彻底剥夺了一切动态生成性，**它蜕变成了观察者穿越这个固定立方体时所走过的一条空间轨迹（Traversed Path）**！
+
+**看清这两种理论投影背后共同的本体论盲区吧：**
+* **它们都把对时间（与空间）维度的模型投影，误认为了真实的时间！**
+* **它们都在实质上彻底把活体现实中的真实时间冻结在了原地！**
+
+前者用一条被两端奇异渐近线锁死的函数积分曲线冻结了时间；后者用一个把所有事件制成标本的固定几何立方体冻结了时间。
+它们之所以在现代物理学中显得如此针锋相对、撕裂出无可愈合的认知失调——一边是不可逆的单向演化历史，另一边是一切早已并存的永恒雕塑——正是因为物理学根本没有看透：**这两套互相掐架的宇宙图景，不过是用不同的几何透镜去投影“当下切片”时，对真实时间施加的同一种冰冻手术！**
+
+更进一步，这里还潜藏着一个更为隐秘、更加底层的认识论盲点：
+**人们误将感知现实时所产生的“主观不变感”（Subjective Felt Invariance），凝固为一个“四维投影”（Four-Dimensional Projection），并把这个四维投影直接等同于我们所感知的现实本身！**
+
+请仔细看清这场心理与数学的偷换：
+当生命在世界中存在时，我们的知觉系统为了生存与行动，会对现实进行极高密度的信息压缩与稳定化处理，从而在意识中生成一种关于空间延展与时间流逝的“主观不变感”。物理学将这种主观不变感形式化，抽象出一套三维空间加一维时间的“四维时空流形投影”。
+随后，科学主义犯下了双重致命的混淆：
+1. **甚至在不同心智之间，四维投影都从来不是相同的（In fact, even the four-dimensional projection is never the same across different minds）**：  
+   每一个活体心智都受制于其独特的身体具身性、感知带宽、注意力焦点、时间分辨率与经验历史。没有任何两个人的感知时空投影是完全重合的——一个人在危机中体验到的时间拉长、在不同光线与空间中的几何感知，与另一个人迥然不同。四维投影从来不是客观天赐的均质硬币，它在每一个活体心智中都是差异化的认知建构；
+2. **更遑论活生生的现实本身（Let alone the lived reality）！**  
+   如果连高度抽象、极度简化的四维心理投影在不同心智之间都无法做到绝对同一，那么理论物理学凭什么竟敢宣称：这个均质化、去人格化的四维几何投影，就是我们所有人身处其中的活体现实本身？！
+
+活生生的现实，绝非任何心智投射出的四维几何标本，更不是由冷冰冰的度规张量构成的静态矩阵。真实世界是粗粝的、不可撤销的、以普朗克常数离散跳动的活体因果流变。**把主观感知的不变性投影当成客观现实，是人类理智最自恋的僭越；而用这种去主体的四维模型来宣称自己掌握了万物，则是对不可穷尽之现实最荒谬的亵渎。**
 
 看清这场魔术的荒谬吧：
 **当物理学宣称它通过块状宇宙和几何度规“统一了时间”时，它并没有解开时间之谜；它只是通过把时间彻底空间化、把生成彻底静态化、把活人彻底降解为流形上的冷冻切片，来逃避真实的现实！**
@@ -370,23 +393,48 @@ To achieve formal closure, mathematical physics performs a bilateral amputation:
 
 **Yet an even more devastating and ironic internal collapse emerges here: the Block Universe is fundamentally and ontologically impossible if you accept the Big Bang and the Heat Death of the universe. In a staggering display of theoretical schizophrenia, both of these mutually exclusive cosmic narratives are derived from the exact same field equations!**
 
-Examine the profound internal contradiction tearing modern theoretical cosmology apart:
-* **The Block Universe asserts**: Spacetime is a static, eternal, four-dimensional pseudo-Riemannian manifold. Time is merely a geometric coordinate axis completely symmetric to spatial dimensions, where past, present, and future co-exist timelessly with equal ontological reality. There is no dynamic becoming; the arrow of time is dismissed as a parochial human illusion;
-* **Yet modern cosmology simultaneously insists**: The universe has an absolute, non-symmetric physical origin at one boundary—the ultra-dense, low-entropy singularity of the **Big Bang (`t = 0`)**; and it is irreversibly marching toward an absolute thermodynamic graveyard of maximum entropy, dissipation, and cold oblivion at the other—the **Heat Death (`t → ∞`)**.
+Where does this astonishing internal contradiction actually come from?
+**The contradiction comes from the very mistake of turning the current slice of the universe into the whole universe, and then projecting it in two different ways!**
 
-Ask the fundamental question: **How can a cosmos defined by an absolute, irreversible physical asymmetry—surging from singular low entropy to universal heat death—possibly be a static, timeless geometric block?!**
-In genuine spatial dimensions, there is no physical law decreeing that the left edge must be an explosive firecracker while the right edge must be cold, dead ashes. If time were truly just another spatial dimension where past, present, and future statically co-exist, the absolute thermodynamic arrow from the Big Bang to Heat Death collapses into an ungrounded, absurd anomaly.
-You cannot have it both ways: you cannot declare the universe to be an eternal sculpture where all history is already set, while simultaneously preaching that the universe is an irreversible, historical process hurtling from cosmic birth to thermal extinction. The two claims are logically and ontologically incompatible!
+Examine these two divergent projection routes:
+1. **Projection Route 1: Using Time as the Independent Variable Allowed to Go to Zero and Infinity (`t ∈ [0, ∞)`)**  
+   Theoretical physics isolates the current empirical slice, isolates time as an abstract continuous independent variable `t`, and allows the equations to extrapolate freely across the mathematical domain.  
+   By doing that, the mathematical consequences are inevitable:
+   * Extrapolating the current expanding slice backward toward the origin boundary condition `t → 0`, **there has to be a mathematical singularity at the origin—the Big Bang**;
+   * Extrapolating the current dissipative gradients forward toward `t → ∞`, **there has to be total thermodynamic dissipation at infinity—the Heat Death**.  
+   The Big Bang and Heat Death are not objective physical monuments residing in external reality; they are the mathematical boundary conditions forced into existence by taking the current slice and letting an independent variable `t` run to zero and infinity!
 
-And here lies the ultimate irony of theoretical physics:
-**Both irreconcilable doctrines are derived from the exact same Einstein field equations!**
-Theorists invoke the tensor geometry of the field equations to erect the static sanctuary of the Block Universe (proclaiming time to be a mere coordinate); yet when they solve those very same equations for matter and energy (the FLRW metric), the mathematics relentlessly forces an expanding, evolving, historically irreversible universe that erupts from a singularity and cools into oblivion.
-Physics uses the same mathematics to manufacture a metaphysical safe-house where time is an illusion, while simultaneously uncovering the physical death-warrant that proves temporal irreversibility is absolute. This internal schizophrenia is the definitive proof that the Block Universe is an untenable mirage: actual time is not a frozen coordinate, but the living, irreversible dissipation of reality itself.
+2. **Projection Route 2: Projecting Spacetime into a "Fixed Cube" (The Block Universe)**  
+   Theoretical physics extracts the exact same current slice, but this time projects it into a static, rigid geometric container—a **"fixed cube"** (the 4D pseudo-Riemannian spacetime manifold).  
+   Inside this fixed cube, all slices across past, present, and future already co-exist timelessly in full geometric reality. "Time" then ceases to be time at all: **it becomes merely the path you traverse through that static cube**!
+
+**Recognize the profound shared fallacy uniting both models:**
+* **Both mistake the model of the projection of a time (and space) dimension as the actual time!**
+* **Both effectively freeze the actual time in place!**
+
+Route 1 freezes time by locking it into a differential trajectory chained between an artificial origin singularity and asymptotic heat death.  
+Route 2 freezes time by entombing it in a petrified geometric solid where "time" is degraded into a spatial path traversed through a fixed cube.  
+
+They appear in violent contradiction—one insisting on an absolute irreversible cosmic history surging from origin to thermal extinction, the other insisting on a timeless, eternal block where change is a parochial illusion—only because theoretical physics fails to realize that **both are merely different mathematical projections of the exact same error: mistaking the current slice for the entire universe and freezing actual living time into a dead coordinate!**
+
+Furthermore, an even more insidious and foundational epistemological fallacy lurks beneath this construct:
+**The subtle mistake of treating the subjective felt invariance in perceiving reality as a four-dimensional projection, and then treating that four-dimensional projection as the very reality we are perceiving.**
+
+Observe the layered psychological and mathematical sleight of hand:
+As embodied living agents navigating the cosmos, our perceptual apparatus compresses and stabilizes sensory flux into a coherent experiential field, producing a **subjective felt invariance** of three-dimensional space and forward duration. Theoretical physics abstracts this felt stability into a formal mathematical construct: the "four-dimensional projection" (the 3+1 spacetime manifold).
+Then, scientism commits a catastrophic double error:
+1. **Even the four-dimensional projection is never the same across different minds**:  
+   Every conscious mind is an embodied, situated observer defined by its unique sensory bandwidth, neural latency, attentional resolution, subjective duration, and historical context. No two minds construct identical perceptual coordinates. The subjective temporal pacing and spatial orientation of one person in acute crisis or joy diverges wildly from that of another. The 4D projection is not an objective, prefabricated container; it is an idiosyncratic, variable cognitive construct that differs across every experiencing subject;
+2. **Let alone the lived reality itself!**  
+   If even the stylized, simplified four-dimensional mental projection fails to achieve universal identity across different conscious minds, on what grounds could theoretical physics possibly claim that this homogenized 4D geometric projection *is the actual lived reality* we are perceiving?!
+
+Lived reality is not a four-dimensional geometric specimen, nor is it an inert pseudo-Riemannian manifold. It is the unscripted, turbulent, energetically dissipative flux of immediate causal generation updating at the Planck refresh rate (`h ≠ 0`). **To mistake the subjective felt invariance of our mental projection for the reality itself is the ultimate cognitive hubris; and to claim that a sterilized 4D coordinate map can encompass the Theory of Everything is an absurd evasion of the unclosable, living cosmos.**
 
 Recognize the magnitude of this intellectual inversion:
 **When physics claims to have mastered time through the Block Universe, it has not explained time; it has merely spatialized time into a corpse, petrified reality into geometry, and reduced living agency to an inert line on frozen coordinates—all to evade actual reality!**
 
 Along the projected time dimension, everything is already dead and calculated. But in actual living time, every breath, every measurement, and every sovereign decision tears through the static map, thrusting the cosmos into unscripted becoming.
+
 
 ---
 
@@ -597,22 +645,31 @@ graph TD
         Belief -. "反向强化病态执念<br>Fuels compensatory fixation" .-> Desire
     end
 
-    subgraph Schizophrenia["【同一套方程推导出的根本互斥 / The Internal Cosmic Schizophrenia】"]
-        FieldEq["爱因斯坦引力场方程 (Einstein Field Equations)<br>Same Mathematical Apparatus"]
-        Block["静态块状宇宙 (Block Universe)<br>Past/Future timelessly coexist on 4D manifold<br>(Time as symmetric coordinate)"]
-        History["动态历史流变 (Cosmic History)<br>Big Bang (Low Entropy) → Heat Death (Max Entropy)<br>(Irreversible thermodynamic arrow)"]
+    subgraph TwinProjections["【同一错误的双重投影 / Two Projections of the Same Error】"]
+        Subjective["主观感知中的“不变感” (Subjective Felt Invariance)<br>(在不同心智间甚至都从来不同 / Never identical across different minds!)"]
+        CurrentSlice["误将当下的主观投影切片当成宇宙全体<br>Mistaking Current Projected Slice for the Whole Universe"]
         
-        FieldEq -->|"纯几何空间化推演<br>Geometric spatialization"| Block
-        FieldEq -->|"带入物质动态求解<br>Solved with dynamic matter"| History
-        Block <-. "根本不相容！<br>Fundamentally Incompatible!" .-> History
+        Subjective -->|"形式化为四维几何模型<br>Formalized as 4D Projection"| CurrentSlice
+        
+        Proj1["投影方式一：将时间设为自变量 (t ∈ [0, ∞))<br>Time as Independent Variable<br>• 向后 t → 0 外推：必然出现原点奇点 (大爆炸 / Big Bang)<br>• 向前 t → ∞ 外推：必然出现渐近耗散 (热寂 / Heat Death)"]
+        
+        Proj2["投影方式二：投影为四维固定立方体 (块状宇宙)<br>Projected into a Fixed Cube (Block Universe)<br>• 过去/未来几何化并存于固定立方体中<br>• “时间”蜕变为穿越该立方体的空间路径 (Traversed Path)"]
+        
+        Freeze["共同本质：把维度的模型投影误当成真实时间，<br>彻底将活生生的现实冻结在原地！<br>Both Mistake the Projected Dimension for Actual Time,<br>Effectively Freezing Actual Time in Place!<br>(不同心智的四维投影尚且迥异，更遑论活生生的现实！)"]
+        
+        CurrentSlice -->|"参数化自变量外推<br>Parametric extrapolation"| Proj1
+        CurrentSlice -->|"空间几何静态化<br>Spatialized fixed cube"| Proj2
+        Proj1 <-. "表象看似绝对互斥！<br>Apparent contradiction!" .-> Proj2
+        Proj1 ==> Freeze
+        Proj2 ==> Freeze
     end
 
     GrandCoherence ==> Dynamics
-    Dynamics ==> Schizophrenia
+    Dynamics ==> TwinProjections
 
     style GrandCoherence fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
     style Dynamics fill:#23272e,stroke:#61afef,stroke-width:2px,color:#abb2bf
-    style Schizophrenia fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style TwinProjections fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
 ```
 
 ---
