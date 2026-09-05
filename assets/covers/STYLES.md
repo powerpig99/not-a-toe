@@ -232,7 +232,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Cinematic action chiaroscuro / shattered blueprint** | Full-bleed dynamic action field: runner's mud-caked trail shoe striking coarse earth, kicking up golden dust while shattering rigid 2D blueprint grids and leg braces into fragments, opening into an expansive sunrise terrain | `po-chu-gai-nian-de-jian-yue` |
 | **Tactile rustic landscape / open gate and worn trail shoes** | Grounded, unpretentious tactile dawn photography: rustic stone wall and open wooden gate ajar along a winding gravel trail through rolling misty hills, worn trail shoes on stone threshold in morning light | `manifesto-of-not-a-theory-of-everything` |
 | **Chiaroscuro mezzotint & radiant quantum fracture** | Velvety charcoal-black ground, etched Cartesian coordinate grid and armillary rings, cleaved perpendicularly by a brilliant golden quantum fracture and luminous interference waves expanding into open space | `causality-is-irreducible-the-physical-is-a-view-from-nowhere` |
-| **Precisionist pleated paper relief & differential light seam** | Sculptural architectural paper relief on textured warm ivory and charcoal slate ground, continuous strip folding in three distinct rhythmic cadences (tight recursive accordion pleats, diagonal wing fold, faceted geometric creases), split by a razor-thin luminous golden light seam (dx interval) | `the-continuum-is-a-modeling-convenience` |
+| **Recursive feedback manifold & multiscale phase-space fold** | Full-bleed topological dynamic streams of white-silver and platinum light folding back into themselves on deep charcoal-indigo ground, forming nested recursive feedback loops at three distinct temporal cadences and scales (tight rapid vortex of reflection, interlocking harmonic loops of reasoning, expansive galactic arcs of imagination), split by a razor-thin open golden causal thread (dx ≠ 0) | `the-continuum-is-a-modeling-convenience` |
 
 ## Inventory (by slug)
 
@@ -333,7 +333,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-allocation-of-causal-power-in-validation` | Dark chalk / light trails |
 | `the-brain-does-not-backprop` | Dark chalk / light trails |
 | `the-climate-problem-registers-only-as-perception` | Encaustic wax on wood panel |
-| `the-continuum-is-a-modeling-convenience` | Precisionist pleated paper relief & differential light seam |
+| `the-continuum-is-a-modeling-convenience` | Recursive feedback manifold & multiscale phase-space fold |
 | `the-coordinators-category-error` | Kintsugi ceramic still life |
 | `the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern` | Cinematic torn-seam / protest-to-instrument panorama |
 | `the-fixed-image-of-transcendence` | Magic-lantern glass slide still |
@@ -459,7 +459,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `po-chu-gai-nian-de-jian-yue` | Cinematic conceptual action chiaroscuro of a runner's mud-caked shoe forcefully striking coarse earth and kicking up golden dust, shattering rigid 2D blueprint gridlines and mechanical braces behind into flying fragments, striding into an open sunrise landscape |
 | `manifesto-of-not-a-theory-of-everything` | Grounded tactile dawn landscape with open rustic wooden gate on dry-stone wall, winding unpaved gravel trail through misty morning valley, worn trail walking shoes resting on threshold |
 | `causality-is-irreducible-the-physical-is-a-view-from-nowhere` | 18th-century scientific mezzotint and intaglio copperplate print on velvety charcoal-black textured rag paper with etched Cartesian coordinate grid cleaved perpendicularly by a brilliant golden quantum fracture and luminous interference waves expanding into open space |
-| `the-continuum-is-a-modeling-convenience` | Sculptural architectural paper relief and precisionist pleated origami composition on textured warm ivory and charcoal slate background, with three distinct rhythmic cadences (tight accordion fold, diagonal wing fold, faceted diamond creases) split by a razor-thin incandescent golden light seam running down the central fold |
+| `the-continuum-is-a-modeling-convenience` | Full-bleed fine art abstract visualization of reality and consciousness folding back on itself through nested recursive feedback loops at different speeds and scales on deep textured graphite-charcoal and midnight-indigo background, with continuous streams of luminous white-silver and platinum light folding backward into themselves in three distinct temporal cadences (tight rapid inner vortex, interlocking harmonic braided loop, expansive galactic arc), split by a razor-thin incandescent golden thread (dx ≠ 0) keeping causality open |
 
 ## Crowded — prefer not to extend
 
