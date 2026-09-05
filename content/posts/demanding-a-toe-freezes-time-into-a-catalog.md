@@ -167,7 +167,7 @@ Yet precisely because every microscopic degree of freedom in physical matter is 
 A rigorous epistemological caveat is mandatory: **this is not an "actual infinity," because infinity is strictly an open potentiality, never an actualized, completed quantity.**
 Reality is an unclosable, discrete unfolding; it is not a closed transfinite set. Yet for any finite set of equations written down by human hands, the generative informational density of physical reality is so staggering that the difference in complexity is practically indistinguishable from an infinite abyss.
 
-Recognize the tragic absurdity of demanding a Theory of Everything:
+Recognize the fundamental absurdity of demanding a Theory of Everything:
 A theorist drafts a Lagrangian composed of a few dozen mathematical variables, and boasts: "Behold, this microscopic informational compress encloses the whole of cosmic reality!"
 This is intellectual hubris of the highest order. It is equivalent to a few drops of dried ink declaring that they have completely captured, contained, and exhausted the boundless, surging Pacific Ocean.
 
@@ -189,7 +189,7 @@ This is intellectual hubris of the highest order. It is equivalent to a few drop
 **这种撞击，在直接的第一人称体验中，就名为“摩擦”（Friction）。**
 摩擦不是系统的故障，摩擦是现实在向你严正宣告：现实永远无法被你装进书包。
 
-而令人叹为观止的，是人类心智在面对这种摩擦时所诞生的递归悲剧：
+而令人叹为观止的，是人类心智在面对这种摩擦时所展开的递归机制：
 **正因为我们绝不可能拥有一套能被我们从当下一瞬完好携带到下一瞬的“万物理论”，我们才永远在渴望着一个万物理论！（The very impossibility for us to have a Theory of Everything to carry from one moment to the next moment is the very reason we are forever desiring a Theory of Everything.）**
 
 看清这个深不可测的心灵陷阱吧：
@@ -216,7 +216,7 @@ Whenever you attempt to carry your microscopic model across the threshold into t
 **That crash is registered in first-person experience as friction.**
 Friction is not a technical glitch or human failure; friction is the voice of reality declaring that it will never fit into your conceptual luggage.
 
-And here lies the profound, tragic recursion of human consciousness:
+And here lies the profound recursion of human consciousness:
 **The very impossibility for us to have a Theory of Everything to carry from one moment to the next moment is the very reason we are forever desiring a Theory of Everything.**
 
 Observe the depth of this psychological trap:
@@ -398,6 +398,39 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 **看清这一层认知剥离吧：“非理性”从来不是人类心智的本质属性（Not being irrational as a nature），而是一种在不可逆时间流动中、因与果出现断层差异后所产生的后视性主观评价！**  
 如果时间像块状宇宙那样是静止的，因与果就完全对称，后视镜评价就不会产生；恰恰是因为真实时间在流淌、因为每一次行动都在以不可预测的代价生成新现实，我们才会在事后感受到因果的剧烈摩擦，并错误地将这种“因果差异的摩擦”当成了自我本质上的“非理性”。
 
+### 理论的内部自洽与主权抽身：这不是悲剧，这只是现实的本来面目
+
+由此，我们顺理成章地抵达了另一个更为深邃的认识论推论：
+**即便从这套“非万物理论”（Not-a-ToE）的宏观视界来看，所有理论都不可避免地存在其固有的局限与边界；然而在其自身内部，或者更具体地说——在持守该理论的心智本身内部，在它主动走出自身之前，它是根本感受不到任何不自洽的（Within the mind holding the theory, there is no incoherence felt until it steps out of itself）！**
+
+请切身体察心智与理论的共生机制：
+* 当一个心智沉浸在一套理论体系（无论是牛顿力学、广义相对论、标准模型，还是某种经济学教条或日常生活信念）之中时，**那套理论就是它所切实体验到的“不变性”（The very invariance it experiences）**；
+* 而那套被它紧紧握住的不变性，**就是它所唯一识别与认定的现实（The reality it recognizes）！**
+* 就像现实的当下一个切片内部绝无逻辑矛盾一样，在一个被心智完全内化的理论闭环里，所有的逻辑推演、因果解释与感知过滤都是天衣无缝、浑然一体的。身处其中的人，理所当然地体验到充盈的自洽感与确定性。
+
+正因如此，物理学与哲学史上的无数争鸣，才陷入了长达数百年的对牛弹琴：
+**根本不存在任何能够从外部“解决理论间不自洽”的万能方案（There is no external solution in solving the incoherence of the theories）！**
+* 你无法通过在外部向一个相对论学者挥舞量子力学、或向一个牛顿主义者兜售时空弯曲，来从外部强行“治愈”对方模型里的不自洽；
+* 因为任何外部的信息与反例，在穿透对方的心智防线时，要么被其内部的不变性网格强行吸收同化，要么被当作无关紧要的“噪音”和“非理性”弃置一旁；
+* **打破这种局限的唯一途径，必须依赖每一个具体、活生生的心智，做出其独立的第一人称主权抉择，主动从既有的理论框架中抽身而出，如其所是地直视现实本身（It has to be each and every mind making a sovereign choice to step out of it and see it as is）！**
+
+**这再次是“因果与第一人称视界为同枚硬币两面”的极致体现！**
+外部客观视界看到的是理论的边界、模型的摩擦与不可消除的量子因果刷新；而内部第一人称视界体验到的，则是心智是否行使自由意志与主权，主动迈出既有框架的那一步（`+1`）。
+
+**最重要的是：这一切绝非一出存在主义的悲剧，这不过是现实本然的运作方式（It is not a tragedy, it is just the way it is）！**
+
+许多人在读到万物理论之不可能时，往往会升起一种虚无主义的哀伤，仿佛人类被永远诅咒在无法获得全知全能的流放之地。但事实恰恰相反：
+**这根本不是什么悲剧，这就是生命与世界最朴素、最美妙的日常真相。**
+* 在我们的日常生活中，事情原本就是如此简单：**我们所有人都在自主选择去看不同的东西，而无论我们选择去看什么，那就是我们所切实经验到的现实（In everyday life, we all choose to see different things, and whatever we choose to see is whatever reality we experience. As simple as that）！**
+* 画家选择去看光影的微妙渐变，他所经验到的就是一个流光溢彩的画意世界；
+* 工程师选择去看应力结构与承重极限，他所经验到的就是一个坚实严密的力学世界；
+* 母亲选择去看孩子的眼神与呼吸，她所经验到的就是一个充满爱意与牵绊的温情世界。
+
+每一个人所选择持守的“理论”或“视角”，不过是他为了在此刻的世界中行动而选定的那一组局部不变性。他在那一刻所经验到的现实，既自洽，又真实。
+当他需要探索新的可能时，他拥有不受任何既有公式禁锢的主权，随时抽身迈步，去看见另一片天空。
+
+**现实之所以永远不肯闭合为一个死板的万物理论，不是为了惩罚人类，而是为了成全生命的自由。现实因其不可穷尽的敞开，才赋予了每一个心智在每一个当下自主选择“看什么”与“成为什么”的崇高尊严。事情，原本就是这么简单。**
+
 看清这场魔术的荒谬吧：
 **当物理学宣称它通过块状宇宙和几何度规“统一了时间”时，它并没有解开时间之谜；它只是通过把时间彻底空间化、把生成彻底静态化、把活人彻底降解为流形上的冷冻切片，来逃避真实的现实！**
 
@@ -493,6 +526,38 @@ Countless individuals torment themselves with regret, looking backward and lamen
 **Recognize the profound liberation in this insight: we are not "irrational by nature" (not being irrational as a nature); rather, "irrationality" is an evaluative retrospective artifact born of the inevitable friction between cause and effect across irreversible time!**  
 If time were a static 4D block where all events statically co-exist, cause and effect would be symmetrically identical, and hindsight friction could never occur. It is precisely because actual living time is dynamically unfolding—and because every living choice steps bravely across an irreducible causal gap (`dx ≠ 0`) into an unscripted reality—that cause and effect diverge, producing the lived friction of difference that hindsight retrospectively and mistakenly pathologizes as "human irrationality."
 
+### The Internal Coherence of Theories and the Sovereign Step: Not a Tragedy, Just the Way It Is
+
+This brings us to a further, profoundly illuminating epistemological realization:
+**Even though from this "not-a-toe" vantage point we recognize that all theories possess inherent boundaries and inescapable limitations, within the theory itself—or more specifically, within the mind holding the theory—there is zero incoherence felt until that mind makes the sovereign choice to step out of itself.**
+
+Examine the symbiosis between mind and theoretical frameworks:
+* For a conscious mind holding any specific theory—whether Newtonian mechanics, general relativity, quantum field theory, neoclassical economics, or an everyday intuitive worldview—**that theory constitutes the very invariance it actively experiences**;
+* And that invariance **is the reality it recognizes**!
+* Just as an immediate slice of physical reality contains no internal contradictions, a conceptual model fully internalized by a conscious mind operates as an unbroken, self-consistent loop. Every perception is filtered through its stable axioms; every deduction confirms its foundational geometry. Within that internal cognitive ecosystem, the mind experiences complete, undisturbed coherence.
+
+Consequently, centuries of intellectual warfare and cross-paradigm disputation reveal an insurmountable truth:
+**There is no external solution to resolve the incoherence of competing theories.**
+* You cannot "solve" or dissolve the limitations of a framework from the outside by presenting external arguments to someone safely nested within their self-consistent loop;
+* Any external critique or contradictory evidence will either be digested and rationalized by the model's internal invariants, or dismissed as irrelevant noise, measurement error, or "irrationality";
+* **The resolution of incoherence can never be engineered by external coercion or meta-equations; it demands each and every living mind making a sovereign choice to step out of its conceptual container and see reality as it actually is.**
+
+**Here again, we witness the absolute coherence of both sides of the same coin:**
+From the third-person outside, one observes the formal boundaries of sparse models, irreducible friction, and the discrete quantum refresh of reality (`h ≠ 0`). But from the first-person inside, one exercises the sovereign agency to break the syntactic trance, step beyond the horizon of the established map, and make contact with unmodeled becoming (`+1`).
+
+**Crucially, this is not a tragedy; it is just the way it is.**
+
+Too often, exposés on the limits of knowledge slip into melancholic despair, framing the impossibility of a Theory of Everything as a tragic exile—a cosmic sentence condemning humanity to perpetual blindness. But this is a profound misreading:
+**It is not a tragedy at all. It is simply the natural, liberating truth of everyday life.**
+* Consider direct, lived experience: **in everyday life, we all choose to see different things, and whatever we choose to see is whatever reality we experience. As simple as that.**
+* A painter chooses to attend to the play of chromatic luminance, and thereby experiences a reality composed of radiant harmonies;
+* A structural engineer chooses to attend to stress vectors, tensile loads, and shear forces, and thereby experiences a reality composed of physical stability;
+* A parent gazing at an infant chooses to attend to micro-expressions, breathing rhythms, and affective cues, and thereby experiences a reality woven of tenderness and vigilance.
+
+The "theories" or cognitive models we adopt are nothing more than the local invariances we sovereignly choose to track in order to navigate the living world. The reality each mind experiences in that moment is internally coherent, functional, and genuine. And whenever that horizon proves too narrow, the conscious agent retains the untransferable freedom to step outside of it, shifting attention to novel dimensions of existence.
+
+**Reality does not refuse to be cataloged in a Theory of Everything to mock our intellect; it remains unclosable to preserve our freedom. The practical infinite generative complexity of the cosmos is the very soil from which living agency, creative novelty, and the joy of discovery arise. It is as simple as that.**
+
 Recognize the magnitude of this intellectual inversion:
 **When physics claims to have mastered time through the Block Universe, it has not explained time; it has merely spatialized time into a corpse, petrified reality into geometry, and reduced living agency to an inert line on frozen coordinates—all to evade actual reality!**
 
@@ -508,7 +573,7 @@ Along the projected time dimension, everything is already dead and calculated. B
 
 答案不在于纯粹的理性求知，而在于人类心灵深处最隐秘的**存在性软弱——对真正迈入未知未来的本体风险（Ontological Risk）的极度恐惧**。
 
-真实的时间是残酷的。
+真实的时间是不可逆的。
 在真实的当下，你不可能通过倒带去撤销一个动作，你不可能通过改变坐标符号去消除一次坍缩；
 **迈向未来的唯一方式，是承受物理摩擦、背负不可逆的因果代价、踩出那一步未曾被任何既有公式担保的险步（`+1`）。**
 在这一步未曾落地之前：
@@ -529,9 +594,9 @@ Along the projected time dimension, everything is already dead and calculated. B
 Having exposed these layered illusions, a more pointed existential question arises:
 **If demanding a Theory of Everything is so demonstrably self-refuting, why has the highest scientific establishment pursued it with quasi-religious fervor?**
 
-The root cause does not lie in a noble quest for truth; it lies in a profound **existential defense mechanism: the primal terror of the ontological risk of the open future**.
+The root cause does not lie in pure theoretical curiosity alone; it stems from a primal desire for ontological certainty—a defensive architecture shielding the mind against the unscripted risks of the open future.
 
-Actual time is unforgiving.
+Actual time is strictly irreversible.
 In the living present, you cannot reverse an outcome by flipping a plus sign to a minus sign; you cannot undo physical entropy by running an index backward.
 **The only path into the future is to absorb real energetic friction, shoulder irreversible causal consequences, and step out into an unscripted void (`+1`).**
 Before that step is actualized:
@@ -728,7 +793,11 @@ graph TD
         Proj1 <-. "表象看似绝对互斥！<br>Apparent contradiction!" .-> Proj2
         Proj1 ==> Freeze
         Proj2 ==> Freeze
-        Rationality ==> Freeze
+        SovereignChoice["理论内部自洽与主权抽身<br>Internal Coherence & Sovereign Choice<br>• 心智在既有理论中感受不到任何不自洽<br>• 持守的理论即是体验的不变性，即是其认定的现实<br>• 无外部解：唯有第一人称主权抉择主动抽身走出<br>• 绝非悲剧，纯然是现实本貌：日常中选择看什么，就经验什么！"]
+        
+        Rationality --> SovereignChoice
+        SovereignChoice ==> Freeze
+        SovereignChoice -. "第一人称主权抽身跨越 (+1)<br>First-person sovereign step" .-> Freedom
     end
 
     GrandCoherence ==> Dynamics
@@ -755,7 +824,7 @@ graph TD
 渴望让世界变得更好吧——它是驱动我们每一次发明工具、修正公式与边际改进的生命源泉；
 但永远不要相信闭合的谎言——因为普朗克常数永远大于零，微积分的微元永远无法归零，大爆炸与热寂的历史彻底撕裂了块状宇宙的假面，量子跃迁的不确定性永远与你心头切实的自由意志同频跳动。
 
-**正因为你永远无法拥有一套万物理论将你安全护送过下一个瞬间，你才是一个拥有真正自由与主权的活体生命。**
+**正因为你永远无法拥有一套万物理论将你安全护送过下一个瞬间，你才是一个拥有真正自由与主权的活体生命。这不是一出存在主义的悲剧，这只是现实本然的清澈面目：在日常生活中，我们选择看到什么，就体验到怎样的现实。没有哪套死图章能封死活生生的生命。**
 
 **从那张冰冷虚构的四维坐标纸上抬起头来吧。**
 承认物理学是一套精巧但有边界的下游勘测记号，拒绝形式语法将活体前提降解为客体假说的惯性滑移。
@@ -776,7 +845,7 @@ It is a specimen born dead. It attempts to trade living reality for a static inv
 Embrace the desire to improve—it is the vital engine that drives every tool we build, every equation we refine, and every incremental stride we make;
 Yet refuse the delusion of achievable closure—for the Planck constant is stubbornly non-zero, the causal increment `dx` never collapses to nothingness, the irreversible history from the Big Bang to Heat Death shatters the static Block Universe, and the quantum openness measured by instruments pulses in exact unison with the living freedom of your conscious agency.
 
-**It is precisely because you can never possess a Theory of Everything to carry you safely across into the next moment that you are a sovereign, living agent endowed with genuine freedom.**
+**It is precisely because you can never possess a Theory of Everything to carry you safely across into the next moment that you are a sovereign, living agent endowed with genuine freedom. This is not an existential tragedy, but the very texture of reality: in everyday life, whatever we choose to see is whatever reality we experience. As simple as that. No static catalog can ever imprison living agency.**
 
 **Lift your gaze from the frozen coordinate paper of the Block Universe.**
 Acknowledge physics as an extraordinarily useful yet strictly downstream set of survey notes. Resist the structural slippage that seeks to reduce your living foundation into an inert noun.
