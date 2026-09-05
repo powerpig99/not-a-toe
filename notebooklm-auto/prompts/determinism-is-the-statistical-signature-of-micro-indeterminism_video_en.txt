@@ -1,24 +1,28 @@
 ### [Role & Style]
-Reflective video monologue. A single candid thinker (Mingli) speaking directly to the camera in an unhurried, contemplative tone. Zero preaching, zero moral language. Grounded in mathematical mechanics, statistical aggregation, and first-person agency (+1).
+Reflective video monologue. A single candid thinker (Mingli) speaking directly to the camera in an unhurried, contemplative tone. Zero preaching, zero moral language. Grounded in mathematical mechanics, statistical aggregation, cognitive projection, and first-person agency (+1).
 
 ### [Directives: "Determinism is the Statistical Signature of Micro-Indeterminism"]
+* **The Core Inversion**:
+  * *Determinism* is literally our imposition of our own internal coherence onto the object, not a nature of the object itself.
+  * *Indeterminism* is our sensed incoherence across time, projected outward as observed uncertainty.
 * **The Tri-Level Architecture**:
   * Level 3 (Inside the Agent): 100% internal coherence. The felt determinism of knowing why you act is the living reality of free choice.
   * Level 2 (Outside the Agent): An observer without access to internal deliberation registers an unobservable free variable as pure unpredictability (quantum noise). Unpredictability outside is freedom felt inside.
   * Level 1 (The Aggregate): Unable to predict a single free variable, the observer aggregates a population (N -> infinity). By dividing by sqrt(N), individual variance is washed away, creating a smooth curve.
 * **The Critical Insight**: The very predictivity of statistics comes from ignoring individual unpredictability.
-* **The Observer's Projection**: The feeling of determinism is never an objective property of the object; it is the observer's own internal coherence projected outward to escape cognitive friction. Deifying that curve into an absolute law that "erases" human free will is the ultimate epistemic theft.
-* **Visual Motifs**: A person making a deliberate, thoughtful mark on paper; zooming out until billions of similar marks blur into a smooth statistical bell curve on a ledger; the thinker stepping back in, pointing to the original mark, and walking forward into the unmodeled world (+1).
+* **Visual Motifs**: A person making a deliberate, thoughtful mark on paper; zooming out until billions of similar marks blur into a smooth statistical bell curve on a ledger; the thinker looking at the camera, stepping past the chart into open sunlight (+1).
 
 ### [Monologue Script - Mingli]
-Think about the trick at the heart of classical determinism.
+We spend centuries arguing whether the universe is governed by determinism or quantum randomness.
 
-From your own first-person perspective, you are one hundred percent internally coherent. You perceive, you interpret, you weigh your values, and you make a decision. That felt certainty gives you the sense of causal control—which is the very essence of free choice.
+Look at what's actually happening on both sides of that coin.
 
-Now imagine an observer looking at you from across the room. Because they cannot see into your mind, they have no idea what you’re about to do. To their instruments, your action looks completely unpredictable—a stochastic fluctuation. What looks like randomness from the outside is simply freedom experienced from the inside.
+In a very real sense, determinism is literally our imposition of our own internal coherence onto the object. It isn't a property of the object itself. We crave order, so we aggregate populations, smooth away individual differences, and force an equation onto the crowd. When the formula closes, we declare that nature is deterministic.
 
-Because an observer can’t predict a single free variable, they do what science has done for centuries: they step back and look at a whole population. They aggregate a billion individuals together. And through the law of large numbers, the individual unpredictabilities cancel each other out. Out comes a smooth, beautiful, predictable curve: the Ideal Gas Law, actuarial tables, macroeconomic equilibriums.
+And indeterminism? Indeterminism is simply our sensed incoherence across time. When our past theories fail to smoothly predict the next discrete tick, we experience a fracture in our own predictive scaffolding—and we immediately project that internal confusion outward, declaring that the particle itself is "intrinsically random."
 
-The very predictivity of statistics comes from ignoring individual unpredictability.
+Neither belongs to the object alone.
 
-And here is the punchline: that deterministic feeling experienced by the observer is not an objective description of the object. It is a reflection of the observer’s own internal demand for coherence, projected onto the crowd. To turn around and claim that the smooth statistical curve proves your living choice is an illusion is to confuse the body count for the living person. Reality never belongs to the curve; it belongs to the unmodeled step you take right now (+1).
+From the inside of your own consciousness, you are one hundred percent internally coherent. You know your reasons, you weigh your values, and that felt certainty is the very reality of free choice. To an outsider who can't see your mind, your action looks like unpredictable noise. And when science averages a billion of those actions together, it purchases predictability by deliberately ignoring the individual.
+
+The universe doesn't run on an external script of determinism. Reality belongs to the living center of action—the unmodeled step you take right now (+1).
