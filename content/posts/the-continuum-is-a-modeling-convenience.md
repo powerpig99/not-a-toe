@@ -138,6 +138,27 @@ Formal logic’s foundational Law of Non-Contradiction (that a proposition canno
 
 **当现实与模型发生冲突时，教条的科学主义永远在责怪现实。这不仅仅是学术上的盲目，更是生命主权的普遍退化。**
 
+```mermaid
+graph TD
+    A["第一人称肉身介入<br>(不可逆因果粗粝摩擦, dx ≠ 0)"] --> B["心智锻造临时探索支架<br>(微积分连续统 / 形式公理 / 图灵机符号)"]
+    B --> C["前提遗忘症 (Premise Amnesia)<br>(遗忘符号只是静态陈迹 t-1)"]
+    
+    C --> D1["纯数学领域<br>魏尔施特拉斯函数 / 哥德尔不完备"]
+    C --> D2["天体物理学<br>引力场方程除以零 (r → 0)"]
+    C --> D3["心智哲学与计算主义<br>坚信意识可被机器建模"]
+    C --> D4["大众流行传播<br>AGI 与技术奇点崇拜 (e^{kt} → ∞)"]
+    
+    D1 --> E1["体制化隔离<br>贬为'病态怪物'、禁闭自指"]
+    D2 --> E2["奇点拜物教<br>把除零报错神化为创世实体"]
+    D3 --> E3["幻觉主义 (Illusionism)<br>因无法塞进电路，反诬意识不存在"]
+    D4 --> E4["世俗宗教狂欢<br>顶礼膜拜 PPT 上的垂直渐近线"]
+    
+    E1 --> F["科学主义的普遍不幸：<br>当现实溢出模型时，教条永远在责怪现实"]
+    E2 --> F
+    E3 --> F
+    E4 --> F
+```
+
 This cognitive distortion—quarantining foundational limits as mere "exceptions" and then aggressively disfiguring reality to fit the theory—did not halt at the borders of pure mathematics and logic. Its grandest and most hazardous escalation occurs within **modern astrophysics**, the reductive dogma that **consciousness can be modeled by a machine**, the pervasive **obsession with AGI and the "Technological Singularity" in popular culture**, and the broader dogmatic scientism of everyday life.
 
 ### 1. The Myth of the Physical Singularity
@@ -188,6 +209,27 @@ When science is worshipped as an **absolute idol**, however, any reality that ov
 * In daily existence, when individuals encounter friction or crisis, they no longer trust their direct bodily sensory signals. Instead, they frantically consult external metrics, psychometric indices, and mechanistic rubrics—**procrusteanly squeezing their living souls into the broken singularities of external models.**
 
 **Whenever reality conflicts with the model, dogmatic scientism invariably blames reality.** This is not merely an intellectual error; it is the wholesale abdication of living sovereignty.
+
+```mermaid
+graph TD
+    A["First-Person Living Intervention<br>(Irreversible causal friction, dx ≠ 0)"] --> B["Mind Forges Provisional Scaffolding<br>(Calculus continuum / Formal axioms / Turing symbols)"]
+    B --> C["Premise Amnesia<br>(Forgetting symbols are frozen records t-1)"]
+    
+    C --> D1["Pure Mathematics<br>Weierstrass monsters / Gödel incompleteness"]
+    C --> D2["Astrophysics<br>Field equations divide by zero (r → 0)"]
+    C --> D3["Philosophy of Mind & Computationalism<br>Dogma that consciousness can be modeled by a machine"]
+    C --> D4["Popular Culture & Media<br>AGI & Technological Singularity cult (e^{kt} → ∞)"]
+    
+    D1 --> E1["Institutional Quarantine<br>Dismissed as 'pathological exceptions' & banned self-reference"]
+    D2 --> E2["Singularity Fetish<br>Reifying division-by-zero error into a cosmic god"]
+    D3 --> E3["Illusionism & Eliminativism<br>Denying subjective consciousness to keep machine model intact"]
+    D4 --> E4["Secular Eschatology<br>Worshipping vertical asymptotes on a slide"]
+    
+    E1 --> F["The Common Misfortune of Scientism:<br>Whenever reality overflows the model, dogma blames reality"]
+    E2 --> F
+    E3 --> F
+    E4 --> F
+```
 
 ---
 

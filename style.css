@@ -63,6 +63,22 @@ pre code {
   padding: 0;
 }
 
+pre.mermaid {
+  background: color-mix(in srgb, var(--fg) 3%, transparent);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  overflow-x: auto;
+}
+
+pre.mermaid svg {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
 .table-wrap {
   width: 100%;
   overflow-x: auto;
