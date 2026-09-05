@@ -135,6 +135,9 @@ The smooth macroscopic trajectory is not an ontological discovery about the bedr
 这是人类思想史上最荒唐的“以子弑母”：
 **原本起源于第一人称自由决断的探索冲动，被降格为了外部的统计曲线；随后，这套统计曲线被奉为神明，反过来剥夺了创造它的第一人称主体性！**
 
+**必须在此做出最根本的澄明：这场认知倒错完全是心智自作自受的闭环——始于心智，运转于心智，也终结于心智。**
+这绝不是统计学或统计学家的过错。统计学与大数定律只是一套精巧、诚实且无辜的认知脚手架；它在数学上精确地记录了群体聚合后的几何轮廓。真正的倒错，出在**心智自己盲目相信了这套统计数据**。是心智主动把工具当成了本体，把自己为了平复认知焦虑而强加的平滑秩序误认成了客观宇宙天道，从而在自己编织的统计图表面前自缚手脚、向虚构的命运缴械投降。
+
 ---
 
 Here, the ultimate psychological and epistemic symmetry underlying determinism and quantum indeterminacy is laid bare:
@@ -159,6 +162,9 @@ Classical mechanics and philosophical determinism turn back upon the living huma
 
 This is the most grotesque intellectual betrayal in history:
 **Agency—the living, first-person fountainhead of all action and thought—is observed from the outside, stripped of its interiority, averaged into a statistical curve, and then that very curve is wielded as a weapon to deny the reality of the agency that drew it.**
+
+**A decisive clarification must be made here: this entire entanglement is completely self-inflicted—originating in the mind, operating within the mind, and ending in the mind.**
+It is not the fault of the statistician, nor is it a defect of statistics. Statistics and the law of large numbers are innocent, highly capable cognitive scaffolding; mathematically, they report with immaculate precision the geometric shadow cast by aggregated populations. The fault lies entirely with **the mind choosing to believe the statistics as metaphysical law**. The mind manufactures a functional map to manage its own cognitive limits, forgets that it drew the map, mistakes computational convenience for ontological bedrock, and voluntarily surrenders its living sovereignty to its own creation.
 
 ---
 
