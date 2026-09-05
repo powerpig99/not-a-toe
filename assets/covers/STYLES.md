@@ -233,6 +233,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Tactile rustic landscape / open gate and worn trail shoes** | Grounded, unpretentious tactile dawn photography: rustic stone wall and open wooden gate ajar along a winding gravel trail through rolling misty hills, worn trail shoes on stone threshold in morning light | `manifesto-of-not-a-theory-of-everything` |
 | **Chiaroscuro mezzotint & radiant quantum fracture** | Velvety charcoal-black ground, etched Cartesian coordinate grid and armillary rings, cleaved perpendicularly by a brilliant golden quantum fracture and luminous interference waves expanding into open space | `causality-is-irreducible-the-physical-is-a-view-from-nowhere` |
 | **Recursive feedback manifold & multiscale phase-space fold** | Full-bleed topological dynamic streams of white-silver and platinum light folding back into themselves on deep charcoal-indigo ground, forming nested recursive feedback loops at three distinct temporal cadences and scales (tight rapid vortex of reflection, interlocking harmonic loops of reasoning, expansive galactic arcs of imagination), split by a razor-thin open golden causal thread (dx ≠ 0) | `the-continuum-is-a-modeling-convenience` |
+| **Precisionist intaglio & fractured coordinate plates** | Split-composition architectural copperplate etching on heavy cream rag paper with rigid Cartesian coordinate grids and filing drawers on left, fractured along a vertical fault by an incandescent molten golden causal stream surging into an open dawn horizon on right | `demanding-a-toe-freezes-time-into-a-catalog` |
 
 ## Inventory (by slug)
 
@@ -259,6 +260,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `consciousness-never-appears-as-data-among-data` | Cinematic silhouette / luminous network spiral |
 | `curiosity-first-the-hidden-engine-of-talent-and-development` | Dendrochronology / polished tree-ring section |
 | `data-is-local-intelligence-is-allocated` | Terrazzo / polished aggregate still |
+| `demanding-a-toe-freezes-time-into-a-catalog` | Precisionist intaglio & fractured coordinate plates |
 | `du-zhongwen-zhexue-jianshi-you-gan` | Ink-wash to cosmic-diagram panorama |
 | `emotional-support-as-causal-interference` | Soft pastel abstract |
 | `exceptionality-perception-and-the-self-limiting-field-of-problems` | Natural-history specimen drawer still |
@@ -460,6 +462,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `manifesto-of-not-a-theory-of-everything` | Grounded tactile dawn landscape with open rustic wooden gate on dry-stone wall, winding unpaved gravel trail through misty morning valley, worn trail walking shoes resting on threshold |
 | `causality-is-irreducible-the-physical-is-a-view-from-nowhere` | 18th-century scientific mezzotint and intaglio copperplate print on velvety charcoal-black textured rag paper with etched Cartesian coordinate grid cleaved perpendicularly by a brilliant golden quantum fracture and luminous interference waves expanding into open space |
 | `the-continuum-is-a-modeling-convenience` | Full-bleed fine art abstract visualization of reality and consciousness folding back on itself through nested recursive feedback loops at different speeds and scales on deep textured graphite-charcoal and midnight-indigo background, with continuous streams of luminous white-silver and platinum light folding backward into themselves in three distinct temporal cadences (tight rapid inner vortex, interlocking harmonic braided loop, expansive galactic arc), split by a razor-thin incandescent golden thread (dx ≠ 0) keeping causality open |
+| `demanding-a-toe-freezes-time-into-a-catalog` | Fine art split-composition architectural precisionist intaglio print and copperplate engraving on heavy cream rag paper with rigid Cartesian coordinate grids and filing drawers on left, fractured along a vertical fault by an incandescent molten golden causal stream surging into an open dawn horizon on right |
 
 ## Crowded — prefer not to extend
 
