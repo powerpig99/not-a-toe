@@ -1,6 +1,6 @@
 # 确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism
 
-*统计的预测力源于对个体不可预测性的抹杀；外在观察到的不可预测，正是内部切身体验到的自由抉择；而观察者感受到的决定论，不过是其自身内在自洽的投射。 / The predictive power of statistics is purchased by ignoring individual unpredictability; the unpredictability seen from outside is the very freedom of choice felt inside; and the determinism felt by an observer is merely the projection of their own internal coherence.*
+*决定论是我们强加在客体之上的内在自洽，不确定性是我们跨越时间感应到的不自洽投射；统计的预测力源于对个体自由变量的抹杀，而外在观察到的不可预测，正是内部切身体验到的自由抉择。 / Determinism is literally the imposition of our own internal coherence onto the object, while indeterminism is our sensed incoherence across time projected as uncertainty; the predictive power of statistics is purchased by erasing the individual, and the unpredictability seen from outside is the very freedom of choice felt inside.*
 
 ---
 
@@ -110,38 +110,48 @@ The smooth macroscopic trajectory is not an ontological discovery about the bedr
 
 ---
 
-## 四、 观察者的自洽投射：所谓“客观决定论”的真相 / 4. The Observer's Coherence Projection: The Truth of "Objective Determinism"
+## 四、 投射的镜像：自洽的强加与时间跨度上的不自洽 / 4. The Mirror of Projection: Imposing Coherence and Projecting Uncertainty
 
-正是在这里，我们揭示了形而上学决定论最隐秘、最深沉的心理与认识论倒错：
-**观察者所感受到的“决定论”（Deterministic Feeling），从来不是对被观察客体客观性质的真实描述；它永远只是观察者自身内在自洽在统计数据上的自恋投射。（The deterministic feeling as an observer is always a reflection of our internal coherence, not an objective description of the object.）**
+正是在这里，我们揭示了形而上学决定论与量子不确定性最深沉的心理与认识论对称性：
 
-追踪这一心理投射的完整闭环：
-1. **心智对不自洽的绝对恐惧**：作为一个认知系统，观察者自身必须维持高度的内在自洽才能做出决策与行动。面对外部单个自由变量的不可测性，观察者感到认知失控与摩擦；
-2. **通过群体聚合重建自洽**：为了平复这种认知焦虑，观察者把个体打包为系综，用大数定律过滤掉所有的自由变量，在图表上画出一条处处光滑、可以微分外推的连续曲线；
-3. **将自身的心智投影神化为宇宙规律**：当这条曲线成功闭合、带给观察者确定性的宁静时，观察者发生了一次致命的错觉——**他把自己在心智内部所感受到的自洽感，错误地投射给了外部的物体本身！**
+**在根本意义上，决定论完全是我们把自己心智内部的内在自洽，强加（imposition）在客体之上的结果，而不是客体自身的本性；同样，不确定性则是我们在跨越时间（across time）时所感应到的内在不自洽，并将其投射（project）为了观察到的“客观随机”。**
 
-观察者指着图表惊呼：“这个客体本身是受到决定论铁律支配的！”
-但他浑然不知，那个所谓的“客观铁律”，不过是他自己为了逃避个体自由变量带来的认知失控，强行施加在现实之上的统计滤镜。
+追踪这一双向心理投射的完整对称：
 
-更荒谬的篡位随之发生：
-古典物理学与唯物决定论在品尝了统计曲线的甜头之后，转过头来对坐在实验室里的活生生的人类宣判：
-> *“既然宏观的统计曲线是确定无疑的，那么你在第一人称中所感受到的选择自由，就必然是一场虚妄的生物电脉冲幻觉！”*
+1. **决定论作为自洽的强加**：
+   作为一个认知系统，观察者自身必须维持高度的内在自洽才能生存与行动。面对外部不可预测的自由变量，观察者感到认知失控。为了平复这种焦虑，观察者把群体聚合起来，用统计平滑抹去所有波折，强行在客体之上烙印上自身所渴望的自洽秩序。当观察者指着图表惊呼“世界是决定论的”时，他浑然不知，他只是在对着镜子欣赏自己强加给世界的心理秩序。
+2. **不确定性作为时间断裂的投射**：
+   与此相对，当观察者追踪一个客体跨越时间的演化时，如果过去的记忆与当前的推演无法顺畅闭合到下一瞬的真实状态，观察者心智内部便会产生切实的**不自洽感（sensed incoherence across time）**。因为无法忍受自身认知框架在时间缝隙面前的断裂，观察者立即将这种自身的无能向外甩出，宣布客体本身具有“内禀的量子不确定性”或“客观随机”。
+
+**决定论与不确定性，都不是客体本身的孤立属性！**
+它们是观察者的认知透镜在面对世界时投射出的两副面具：
+* 当透镜通过统计聚合把自洽强加于系统时，它宣称看到了“决定论”；
+* 当透镜在时间流淌中感应到自身模型的裂隙时，它宣称看到了“不确定性”。
+
+而最荒谬的篡位由此发生：
+古典物理学与唯物主义在品尝了强加自洽的甜头之后，反客为主，转过头来对坐在实验室里的活生生的人类宣判：
+> *“既然宏观的统计曲线是决定论的，那么你在第一人称中所感受到的选择自由，就必然是一场虚妄的生物电脉冲幻觉！”*
 
 这是人类思想史上最荒唐的“以子弑母”：
 **原本起源于第一人称自由决断的探索冲动，被降格为了外部的统计曲线；随后，这套统计曲线被奉为神明，反过来剥夺了创造它的第一人称主体性！**
 
 ---
 
-Here, the ultimate psychological and epistemic inversion underlying classical determinism is laid bare:
-**The deterministic feeling experienced by an observer is never an objective description of the observed system; it is always the projection of the observer’s own internal coherence onto the aggregated data.**
+Here, the ultimate psychological and epistemic symmetry underlying determinism and quantum indeterminacy is laid bare:
 
-Trace the psychological mechanics of this projection:
-1. **The Fear of Incoherence**: To act and deliberate, an observer requires an internally coherent model of reality. Confronted with the unmodeled, erratic behavior of an isolated free variable, the observer experiences cognitive friction and loss of control.
-2. **Manufacturing Coherence through the Crowd**: To resolve this anxiety, the observer aggregates the individuals into an ensemble, deploys statistical smoothing to erase the variance, and extracts a smooth, differentiable trajectory.
-3. **Deifying the Projection as Cosmic Law**: The moment the curve closes into a predictable equation, the observer experiences a restoration of internal peace. And immediately, the fatal slip occurs: **the observer confuses their own internal relief with an inherent property of the physical world!**
+**In a sense, determinism is literally our imposition of our own internal coherence onto the object, not an inherent nature of the object itself. And indeterminism is our sensed incoherence across time, projected outward as observed uncertainty.**
 
-The observer gazes at the chart and declares: "The system is fundamentally governed by deterministic necessity!"
-They do not realize that the "necessity" they celebrate is merely their own internal demand for coherence, projected outward via a statistical filter designed to hide the individual from view.
+Examine the two-way symmetry of this cognitive projection:
+
+1. **Determinism as the Imposition of Coherence**:
+   To act and deliberate, an observer requires an internally coherent cognitive model. Confronted with the unmodeled, erratic behavior of an isolated free variable, the observer experiences friction and cognitive loss of control. To resolve this anxiety, the observer aggregates individuals into an ensemble, deploys statistical smoothing, and forcibly imprints their own demand for coherence upon the object. When the observer proclaims that the system is "governed by deterministic law," they do not realize they are merely admiring their own internal coherence imposed upon the data.
+2. **Indeterminism as Sensed Incoherence Across Time**:
+   Conversely, as an observer tracks an object through time, whenever past memory and present equations fail to smoothly predict the next immediate tick, the observer experiences **sensed incoherence across time**. Unable to tolerate the fracture within their own predictive scaffolding, the observer projects their internal confusion outward, declaring that the object itself possesses "intrinsic quantum indeterminacy" or "objective randomness."
+
+**Neither determinism nor indeterminism belongs to the object in isolation.**
+They are the twin masks worn by the observer's cognitive apparatus navigating reality:
+* When the apparatus successfully imposes its own internal coherence via statistical aggregation, it announces **Determinism**.
+* When the apparatus senses its own predictive incoherence spanning the temporal gap, it announces **Indeterminism**.
 
 Then comes the final, tyrannical inversion:
 Classical mechanics and philosophical determinism turn back upon the living human being and declare:
