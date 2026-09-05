@@ -195,7 +195,7 @@ This is an understandable yet profound overextension of thought. It is equivalen
 看清这个深不可测的心灵陷阱吧：
 如果人类真的能拥有一套完备的万物理论，如果我们真能把它像一把万能钥匙一样从此时携带到彼时而毫无信息泄漏，那么我们在跨步时就将感受不到哪怕一微克的摩擦与意外——但如果真能如此，宇宙就彻底沦为了一台死寂的拉普拉斯发条，生命与自由意志也将荡然无存。
 
-恰恰是因为现实与模型之间存在着这道无法弥合的复杂度鸿沟，恰恰是因为我们**永远无法拥有一套免于摩擦的通行证**，脆弱而疲惫的人类心灵才在惊恐中把这种“无法携带”反向投射为一个救赎幻觉：
+恰恰是因为现实与模型之间存在着这道无法弥合的复杂度鸿沟，恰恰是因为我们**永远无法拥有一套免于摩擦的通行证**，认知系统便容易将这种“无法一次性携带”反向构想为一种寻找终极全景模型的假设：
 *“一定是因为我现在的理论还不够完美！只要物理学家找到了万物理论，只要我拥有了那套终极钥匙，我就能把它从当下一瞬携带到下一瞬，我就再也不必承受这恼人的日常摩擦，我就能彻底消除对未知的恐惧！”*
 
 人们终生崇拜那个虚构的罗盘，恰恰是因为狂暴的汪洋大海永远在以无法预测的巨浪，把罗盘指针一次又一次无情打飞。
@@ -222,20 +222,20 @@ And here lies the profound recursion of human consciousness:
 Observe the depth of this psychological trap:
 If humanity could truly possess a complete Theory of Everything—if we could carry a master blueprint seamlessly across the threshold of time without informational leakage—we would experience zero friction and zero surprise. But in such a universe, reality would be a frozen, deterministic crystal, and conscious agency would cease to exist.
 
-Precisely because of this unclosable complexity gap—precisely because we **can never possess an epistemic passport exempt from friction**—the exhausted, anxious intellect transforms this constitutional impossibility into a compensatory religious fantasy:
+Precisely because of this unclosable complexity gap—precisely because we **can never possess an epistemic passport exempt from friction**—the intellect readily conceptualizes this structural gap as a problem to be solved by postulating an ultimate master formula:
 *"The friction must be because our physics is still incomplete! If only we discover the Theory of Everything, if only we possess the master key, we can carry it safely from this moment to the next, banishing uncertainty, eliminating daily friction, and securing absolute control!"*
 
 We worship the fantasy of a closed compass precisely because the living ocean continuously shatters the needle with every uncalculated wave.
 
 ---
 
-## 五、 渴望驱动渐进改进，信念铸就闭合迷狂：从实无穷、普朗克常数到自由与量子的同币双面 / 5. Desire Drives Incremental Improvement, Belief Breeds Delusion: From Actual Infinity and the Planck Constant to the Quantum-Freedom Coin
+## 五、 渴望驱动渐进改进，闭合假定混淆范畴：从实无穷、普朗克常数到自由与量子的同币双面 / 5. Desire Drives Incremental Improvement, Assumptions of Closure Conflate Categories: From Potential Infinity and the Planck Constant to the Quantum-Freedom Coin
 
 在此，我们必须划下一道极其关键、却常被混淆的界线：
-**问题的症结，从来不在于“渴望”本身，而在于“相信闭合可以实现”的虚妄信念。甚至可以说，正是这种盲目的信念，在不断反向给这场病态的渴望火上浇油。**
+**需要辨析的边界，在于区分“渴望”与“假定闭合可以实现”：前者是减少摩擦的认知动力，后者则是把有限模型等同于物理现实的范畴倒错。**
 
-* **渴望（Desiring）是健康的、活性的、具有生产力的**：对确定性与一致性的渴望，构成了人类所有工具发明、技术演进与经验积累的动力引擎。正是因为我们想要减少跨越瞬间时的摩擦，我们才发明了轮子、锻造了算盘、总结了牛顿定律与微积分；这种渴望驱动着我们进行一次又一次**渐进的边际改进（Incremental Improvements）**；
-* **相信可达（Believing It Is Achievable）则是致命的病态**：一旦心智从“渴望改进”跃迁为“坚信宇宙终将闭合于一套万物理论”，健康的求知就异化为了形而上学的封闭宗教。理论家开始把临时支架当作神坛，把现实无法闭合的鲜活特性视为必须被消灭的“测量误差”或“认知幻觉”。
+* **渴望（Desiring）在功能上驱动着持续的建模与优化**：对确定性与可预测性的需求，构成了工具创造、技术演进与经验积累的动力机制。为了减少跨越瞬间时的摩擦，人类发展出轮子、算盘、经典力学与微积分；这种需求驱动着一次又一次**渐进的边际改进（Incremental Improvements）**；
+* **假定闭合可达（Assuming Closure Is Achievable）则是将工具倒置为本体**：一旦将作为认知界面的局部模型，等同于宇宙自身的完备全貌，便会将临时搭建的脚手架当作世界的绝对边界，把模型无法囊括的生成性与未决性归咎为“测量噪音”或“主观幻觉”。
 
 这种把可求误当作可达的错乱，在本质上**与将“无穷”当作一个“实存的封闭全体”（Actual Infinity as Totality）而非“敞开的潜在生成”（Potentiality）完全同构！**
 现实中根本没有已经完成的“实无穷”；现实永远是一个正在发生的、不可穷尽的有限过程。相信万物理论能够完成，恰如相信数学家可以通过数数“数到无穷大”一样荒谬。
@@ -255,7 +255,7 @@ We worship the fantasy of a closed compass precisely because the living ocean co
 
 请站在不同的视界上凝视那一次不可撤销的因果跳跃（`+1`）：
 * **当你作为一个外部旁观者，站在第三人称的“无源之见”去观测这个不可闭合的微观因果间隙时**：由于任何确定性方程都无法彻底跨越那个非零的刷新断裂，你所测得的客观物理现象，必定展现为概率性的波函数塌缩、不确定性原理与非决定论的跃迁——你把它命名为**“量子效应”**；
-* **而当你作为活生生的第一人称主体，真正栖息在因果发生的前沿、在粗粝摩擦中承担后果并迈出那一步时**：那个由于无法被前序决定而敞开的因果间隙，在你的直接意识体验中，正是你每时每刻切身体会到的**“主观自由感”、“意志决断”与“无可逃避的责任”**！
+* **而当你作为活生生的第一人称主体，真正栖息在因果发生的前沿、在粗粝摩擦中承担后果并迈出那一步时**：那个由于无法被前序决定而敞开的因果间隙，在你的直接意识体验中，正是你每时每刻切身体会到的**“主观自由感”、“意志决断”与“对因果后果的直接承受”**！
 
 看吧！当所有的碎片拼接在一起，一幅具有绝对一致性与自洽性的雄浑画卷终于完整浮现：
 * 为什么无法拥有万物理论？因为无穷是潜在的，因果间隙永远非零（`dx ≠ 0`, `h ≠ 0`）；
@@ -271,7 +271,7 @@ Here we must draw an indispensable boundary line that is routinely blurred by sc
 **The problem has never been in the desiring itself, which drives our incremental improvements, but in the dogmatic belief that closure is achievable. Arguably, it is this unexamined belief that endlessly fuels and inflames the desire.**
 
 * **Desiring is vital, active, and productive**: The desire for coherence, predictability, and safety is the primal engine of human toolmaking. Because we want to minimize the friction of crossing from moment to moment, we engineer wheels, formalize calculus, and invent thermodynamics. This yearning propels us through **incremental improvements**;
-* **Believing it is achievable is a lethal pathology**: The moment inquiry leaps from "desiring improvement" to "believing reality can be closed inside a final theory," science ceases to be an instrument and transforms into an idol. The theorist mistakes the scaffolding for the altar, pathologizing the open, non-closable features of existence as "measurement noise" or "perceptual illusion."
+* **Assuming closure is achievable inverts the tool into an ontology**: The moment inquiry shifts from using models for incremental navigation to asserting that reality itself can be enclosed within a final formula, the provisional scaffolding is mistaken for the absolute boundary of existence, dismissing the unclosable, generative features of the cosmos as mere "noise" or "illusion."
 
 This confusion between the pursuit of improvement and the belief in achievable closure **is essentially the same error as treating infinity as an actualized totality rather than an open potentiality**.
 There is no completed "actual infinity" in reality; reality is an open, unclosable, discrete generative unfolding. Believing a Theory of Everything can be completed is as mathematically incoherent as believing one can finish counting to infinity.
@@ -291,7 +291,7 @@ And once you grasp this irreducible, non-zero causal gap, the ultimate riddle un
 
 Observe that single, discrete causal step (`+1`) from two complementary vantages:
 * **When observed from the outside (the Third-Person View from Nowhere)**: Because no deterministic formula can close over the discrete refresh tick, the external spectator measures this open causal gap as non-deterministic state reduction, probabilistic dispersion, and uncertainty. They name this the **"quantum effect"**;
-* **When inhabited from the inside (the First-Person Living Agency)**: When you are the conscious agent occupying the living present, actively bearing the energetic friction and taking the irreversible step, that very same unclosable causal openness is directly experienced as **the subjective feeling of freedom, sovereign choice, and inescapable moral responsibility**!
+* **When inhabited from the inside (the First-Person Living Agency)**: When you are the conscious agent occupying the living present, actively bearing the energetic friction and taking the irreversible step, that very same unclosable causal openness is directly experienced as **the subjective feeling of freedom, sovereign choice, and the direct bearing of causal consequences**!
 
 Behold the magnificent coherence of this realization:
 * Why is a ToE impossible? Because infinity is an open potentiality, and the causal gap is permanently non-zero (`dx ≠ 0`, `h ≠ 0`);
@@ -390,7 +390,7 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 
 更深刻的是，**为什么我们有时甚至会认为“过去的自己是非理性的”？**
 许多人陷入自责与懊悔，指责自己在过去的某个关头“丧失了理性”、“做出了极其荒唐的决定”。然而，这依然是对时间的严重误解所催生的后视镜偏见（Hindsight Bias）：
-* **在时间走过的每一个具体时刻，那个当下的现实切片永远是绝对自洽、毫无内在矛盾的**。你在那一刻所掌握的所有信息、情绪权重与具身冲动，构成了那一瞬间唯一的真实状态。在那一刹那，你没有任何理由认为自己在故意作恶或自取灭亡——你在那一瞬间的行为，与那一瞬间的现实切片是完全自洽的；
+* **在时间走过的每一个具体时刻，那个当下的现实切片永远是绝对自洽、毫无内在矛盾的**。你在那一刻所掌握的所有信息、情绪权重与具身冲动，构成了那一瞬间唯一的真实状态。在那一刹那，心智依据其当时所处的全部神经输入与情境约束作出反应，其行为与那一瞬间的内部状态是完全自洽的；
 * **然而，当真实时间继续向前推进（`+1`），它必然会在“因”与“果”之间撕裂出不可消除的摩擦——因为因与果从来不是相同的（Because cause and effect are never the same）！**  
   一旦因果步长落地，全新的现实状态、未曾预见的信息与粗粝的物理代价轰然展开，现实被不可逆地刷新了；
 * **正是因与果之间的这种差异与摩擦，在后来的新当下催生出了一种主观的后视镜评价，让我们倒果为因地宣称自己“过去是非理性的”！**
@@ -435,7 +435,7 @@ Once you perceive the unbroken logical coherence behind all of these manifestati
 每一个人所选择持守的“理论”或“视角”，不过是他为了在此刻的世界中行动而选定的那一组局部不变性。他在那一刻所经验到的现实，既自洽，又真实。
 当他需要探索新的可能时，他拥有不受任何既有公式禁锢的主权，随时抽身迈步，去看见另一片天空。
 
-**现实之所以永远不肯闭合为一个死板的万物理论，不是为了惩罚人类，而是为了成全生命的自由。现实因其不可穷尽的敞开，才赋予了每一个心智在每一个当下自主选择“看什么”与“成为什么”的崇高尊严。事情，原本就是这么简单。**
+**现实之所以不呈现为一套闭合的万物理论，不是出于某种外在意志的设定，而是源于因果生成本身的开放结构。道德语言往往预设了某种‘宇宙或现实应当如何’的更优版本，但现实中根本不存在那种脱离一切视角的‘无处之境’（View from Nowhere）。任何一颗心智的偏好，绝不会自动成为另一颗心智的偏好，更不可能成为所有心智乃至宇宙本身的普适偏好。每一个心智在每一个当下自主选择关注什么，就经验到怎样的现实。这里没有先验的道德法庭，事情，原本就是这么简单。**
 
 看清这场魔术的荒谬吧：
 **当物理学宣称它通过块状宇宙和几何度规“统一了时间”时，它并没有解开时间之谜；它只是通过把时间彻底空间化、把生成彻底静态化、把活人彻底降解为流形上的冷冻切片，来逃避真实的现实！**
@@ -569,7 +569,7 @@ Too often, exposés on the limits of knowledge slip into melancholic despair, fr
 
 The "theories" or cognitive models we adopt are nothing more than the local invariances we sovereignly choose to track in order to navigate the living world. The reality each mind experiences in that moment is internally coherent, functional, and genuine. And whenever that horizon proves too narrow, the conscious agent retains the untransferable freedom to step outside of it, shifting attention to novel dimensions of existence.
 
-**Reality does not refuse to be cataloged in a Theory of Everything to mock our intellect; it remains unclosable to preserve our freedom. The practical infinite generative complexity of the cosmos is the very soil from which living agency, creative novelty, and the joy of discovery arise. It is as simple as that.**
+**Reality does not remain unclosable to satisfy a preferred metaphysical design, but because the generative unfolding of causality possesses no single, disembodied "View from Nowhere." Moral language inherently presumes a preferred version of the universe or reality, yet there is no such celestial vantage point. The preference of this mind does not automatically become the preference of another mind, let alone all minds. Each conscious agent chooses what to attend to, and that choice constitutes the reality it experiences. There is neither an external tribunal nor a universal hierarchy of preferences. It is as simple as that.**
 
 Recognize the magnitude of this intellectual inversion:
 **When physics claims to have mastered time through the Block Universe, it has not explained time; it has merely spatialized time into a corpse, petrified reality into geometry, and reduced living agency to an inert line on frozen coordinates—all to evade actual reality!**
@@ -582,9 +582,9 @@ Along the projected time dimension, everything is already dead and calculated. B
 ## 七、 逃避未来的本体风险：以代数坐标拒斥不可撤销的因果跨越 / 7. Avoiding the Ontological Risk of the Future: Calculating Coordinates to Evade the Real Step
 
 理清了上述幻觉之后，一个更加尖锐的人性问题浮出水面：
-**既然索求万物理论在认识论上如此千疮百孔，为什么人类文明最崇高的智识建制，依然对它怀有近乎宗教般的狂热？**
+**既然从认识论上看，任何理论都无法穷尽生成着的现实，为什么许多智识传统依然长期追求一套闭合的终极理论？**
 
-答案不在于纯粹的理性求知，而在于人类心灵深处最隐秘的**存在性软弱——对真正迈入未知未来的本体风险（Ontological Risk）的极度恐惧**。
+这主要源于认知系统对确定性与稳定性的结构性偏好：试图通过完备的静态模型，来规避面对未决未来时的因果不确定性。
 
 真实的时间是不可逆的。
 在真实的当下，你不可能通过倒带去撤销一个动作，你不可能通过改变坐标符号去消除一次坍缩；
@@ -594,18 +594,18 @@ Along the projected time dimension, everything is already dead and calculated. B
 * 没有哪个拉格朗日量能够替你分担犯错的痛苦；
 * 未来的形态完全取决于有意识的行动者在粗粝现实中所做出的断然决断。
 
-这种站在悬崖边缘、直面绝对未知的眩晕感，是人类心灵难以承受之重。
-而“万物理论”，正是为逃避这种眩晕而量身打造的终极象牙塔。
+直面未被模型担保的因果展开，往往伴随着认知上的不确定性。
+而“万物理论”，正是一种试图消除这种不确定性的理论构想。
 
-**理论家通过把现实伪装成一份基于当下的全知清单，并把未来宣称为一条已经被完全写定的几何流形，向世人贩卖了一种极其昂贵的鸦片：“不要怕，未来并不是深不可测的悬崖，未来只是一段已经被算好的坐标；宇宙的一切早已被大一统理论所封闭，我们不需要冒险去亲历，我们只需要坐在安乐椅里，推演它的代数解。”**
+**通过把现实视为一份基于当下的全知清单，并把未来表述为一条预先写定的几何流形，这种构想提供了一种确定性的承诺：“未来只是一段已经被算好的坐标；宇宙的一切已被大一统理论所封闭，只需推演其代数解即可。”**
 
-索求万物理论，本质上是**用对坐标维度的冷血算计，来逃避真正踏入未来的沉重步伐**。
-它是制度化科学对真正创造性、对生命偶发性、以及对未决因果责任的一场集体逃逸。它试图将宇宙降格为一个死去的发条玩具，只为了让自己免于承担作为一个活生生的因果主体所必须承担的风险。
+索求万物理论，本质上是**用对坐标维度的代数计算，替代了实际踏入未来的因果步长**。
+它试图用静态闭合的模型，免除身处开放因果流中所面临的未知与变数。
 
 ---
 
 Having exposed these layered illusions, a more pointed existential question arises:
-**If demanding a Theory of Everything is so demonstrably self-refuting, why has the highest scientific establishment pursued it with quasi-religious fervor?**
+**If any finite theory is structurally bounded, why have theoretical traditions pursued a complete Theory of Everything with such persistent dedication?**
 
 The root cause does not lie in pure theoretical curiosity alone; it stems from a primal desire for ontological certainty—a defensive architecture shielding the mind against the unscripted risks of the open future.
 
@@ -617,22 +617,22 @@ Before that step is actualized:
 * No Lagrangian density can absorb the suffering of error on your behalf;
 * The architecture of the future remains radically contingent upon the sovereign interventions of conscious navigators amidst coarse reality.
 
-To stand at this sheer cliff-edge, staring into an uncalculated abyss, induces existential vertigo.
-A Theory of Everything was engineered as the ultimate sedative against this dread.
+Stepping into an unmodeled future inherently carries causal unpredictability.
+A Theory of Everything represents the conceptual endeavor to minimize that unpredictability by projecting complete closure.
 
-**By masquerading reality as a frozen catalog compiled from the present, and by declaring the future to be an already-settled geometric trajectory, the ToE peddles an intoxicating fantasy: "Do not fear. The future is not an abyss; it is merely an already-calculated coordinate along the manifold. The cosmos is sealed, safe, and closed; you need not risk the agony of living action; you need only remain seated in the formal temple and compute its values."**
+**By modeling reality as a catalog compiled from the present, and treating the future as an already-determined geometric trajectory, it offers an architecture of total predictability: the notion that the future is merely a computed coordinate.**
 
-Demanding a ToE is **the substitution of coordinate calculation for the actual step into the future**.
-It is the institutional evasion of open causality, genuine novelty, and existential responsibility. It seeks to petrify the cosmos into a dead clockwork toy, solely to immunize the spectator from the terrifying burden of living as an active causal agent.
+Demanding a ToE is **the substitution of algebraic coordinates for the actual causal step into the future**.
+It attempts to replace an open generative process with a static, pre-calculated blueprint.
 
 ---
 
 ## 八、 物理学为何无法自解：不可化约的前提被错当作可还原的假说 / 8. Why Physics Cannot Resolve It: The Irreducible Prior Mistaken for a Reducible Hypothesis
 
-每当这一套形而上学避难所的虚伪被剥开，物理学界的传统辩护总是千篇一律：
+每当分析至此，理论界的传统回应往往是：
 *“只要再给我们几十年，只要建造出更大能标的对撞机，只要完成量子引力与时空涌现的数学证明，物理学自然会在未来把时间、因果与观测者彻底解释清楚。”*
 
-这种辩解再次犯下了不可饶恕的**范畴错乱（Category Error）**：
+这种辩解在逻辑上面临着基础的**范畴倒错（Category Error）**：
 **这个问题永远、绝对不可能由物理学本身来解决，因为物理学的一切方程，全都是建立在这一前提之上的下游产物！**
 
 我们在整个认知图谱中反复申明的核心基石正是：**不可化约的前提（The Irreducible Prior）**。
@@ -656,10 +656,10 @@ It is the institutional evasion of open causality, genuine novelty, and existent
 
 ---
 
-Whenever this metaphysical shelter is dismantled, theoretical physics instinctively retreats to its standard defense:
+Whenever this limitation is analyzed, the standard theoretical defense is:
 *"Grant us a few more decades, build a collider at higher energy scales, complete the mathematics of quantum gravity and emergent spacetime, and physics will eventually explain time, causality, and consciousness from first principles."*
 
-This defense commits an unforgiving **Category Error**:
+This defense commits a fundamental **Category Error**:
 **This conundrum can never, under any circumstances, be resolved by physics, because every physical equation is a downstream artifact built entirely upon this foundational condition!**
 
 This brings us to the immovable bedrock: **The Irreducible Prior**.
@@ -712,10 +712,10 @@ Physics cannot resolve this question not because its equations lack complexity, 
 
 **唯有活的心智，能够抵抗这种滑移（Only the Mind Can Resist the Slippage）。**
 
-心智必须时刻承担起**“活体卫士”（The Living Watchdog）**的崇高职责：
-1. **识破语法的催眠**：当形式逻辑试图把先决前提降解为可选假说时，心智必须当头棒喝，击碎其范畴倒错；
-2. **拒绝死清单的诱惑**：当科学主义试图用投影坐标来粉饰对未来的恐惧时，心智必须唤醒肉身在现实中的真实摩擦；
-3. **立足于生成的动词**：心智必须反复从写就的名词陈迹中抽身，打破符号的罗网，重新站立在那个正在劈开未来的唯一前沿（`+1`）。
+心智在此展现出**“活体观察者”（The Living Observer）**的解耦功能：
+1. **辨析语法的固化**：当形式逻辑试图把先决前提降解为可选假说时，心智能够辨明其范畴倒错；
+2. **走出静态清单的局限**：当形式系统试图用投影坐标替代活体现实时，心智能够重新感知具身的真实摩擦；
+3. **回归生成的动词**：心智能够主动从写就的名词符号中抽身，重新立足于生成着的因果前沿（`+1`）。
 
 ---
 
@@ -746,10 +746,10 @@ No static axiomatic rule can prevent this drift, for rules are themselves deposi
 
 **Only the living mind can resist this slippage.**
 
-The mind must assume the role of the vigilant **Living Watchdog**:
-1. **Break the Hypnosis of Syntax**: Whenever formal logic tries to demote the foundational Prior into an optional hypothesis, the mind must intervene to expose the category error;
-2. **Refuse the Seduction of the Dead Catalog**: Whenever scientism attempts to mask the fear of the future with projected coordinates, the mind must re-awaken bodily awareness to coarse physical friction;
-3. **Inhabit the Generative Verb**: The mind must repeatedly step out of inscribed nouns, shatter the spell of the archive, and plant its feet firmly on the moving edge that cuts into the future (`+1`).
+The mind performs the functional role of the **Living Observer**:
+1. **Disclose the Nominalization of Syntax**: When formal logic attempts to demote the foundational Prior into an optional hypothesis, the mind clarifies the category error;
+2. **Step Beyond the Static Catalog**: When formal systems attempt to replace living reality with projected coordinates, the mind re-orients toward physical friction;
+3. **Inhabit the Generative Verb**: The mind steps out of static nouns, planting its feet firmly on the moving edge of active causality (`+1`).
 
 ---
 
@@ -762,7 +762,7 @@ graph TD
         Cut --- Planck
         
         Planck -->|"外部客体视界 / 3rd Person View"| Quantum["量子效应 / 测不准原理<br>Quantum Effect / Indeterminacy<br>(Probabilistic branching across refresh gap)"]
-        Planck -->|"内部活体视界 / 1st Person View"| Freedom["主观自由感 / 决断与责任<br>Subjective Freedom & Agency<br>(Inhabiting and executing the causal cut)"]
+        Planck -->|"内部活体视界 / 1st Person View"| Freedom["主观自由感 / 决断与因果承接<br>Subjective Freedom & Causal Agency<br>(Inhabiting and executing the causal cut)"]
         
         Quantum --- Freedom
     end
@@ -778,12 +778,12 @@ graph TD
         Friction["日常持续摩擦 (Continuous Daily Friction)<br>Sparse model crashes into living reality at each step"]
         Gap --> Friction
         
-        Desire["渴望万物理论 (Desire for a ToE)<br>Healthy motor driving incremental improvement"]
+        Desire["渴望万物理论 (Desire for a ToE)<br>Functional motor driving incremental improvement"]
         Belief["错误信念：相信闭合可达<br>Delusion: Believing closure is achievable<br>(Mirror of dx = 0 / Actual Infinity fallacy)"]
         
         Friction --> Desire
         Desire --> Belief
-        Belief -. "反向强化病态执念<br>Fuels compensatory fixation" .-> Desire
+        Belief -. "强化对闭合的预设<br>Reinforces assumption of closure" .-> Desire
     end
 
     subgraph TwinProjections["【同一错误的双重投影与理性同构 / Twin Projections & The Rationality Isomorphism】"]
@@ -825,19 +825,19 @@ graph TD
 
 ## 十、 结语：抛弃虚构全景，立于无法冻结的生成之流 / 10. Conclusion: Abandoning the Fictional Panorama to Inhabit the Unfreezable Stream of Becoming
 
-人类思想的真正解放，始于看穿“万物理论”那层自欺欺人的寿衣。
+对认知边界的清晰理解，始于认识到“万物理论”概念本身的局限。
 
 根本没有什么过去的历史可以供你做最后的封存，根本没有什么未来的剧本可以供你做零风险的推演。
 只有此时，只有此刻；
 只有这个正在你眼前燃烧、震颤、充满着摩擦与未决生机的真实当下。
 
 **索求万物理论，在其被构想的这第一毫秒里，就已经被真实宇宙奔涌向前的宏大洪流冲刷得干干净净。**
-它是一具在出生的瞬间就已经死去的标本。它试图用一份基于当下的存量清单来换取对不确定性的免责声明，但宇宙的全部尊严，恰恰就在于它永远拒绝被任何清单所穷尽。
+它试图用一份基于当下的存量清单来封闭未来的所有可能，而物理生成过程的本质，恰恰就在于它无法被任何静态清单所穷尽。
 
-渴望让世界变得更好吧——它是驱动我们每一次发明工具、修正公式与边际改进的生命源泉；
-但永远不要相信闭合的谎言——因为普朗克常数永远大于零，微积分的微元永远无法归零，大爆炸与热寂的历史彻底撕裂了块状宇宙的假面，量子跃迁的不确定性永远与你心头切实的自由意志同频跳动。
+追求规律与模型，自然驱动着工具的创造与认识的迭代；
+而认识到闭合的不可能，则还原了现实的真实状态——普朗克常数永远非零，因果微元无法归零，大爆炸与热寂的单向历史展现了不可逆的时间之流，外部观测的量子不确定性与第一人称的选择体验相互呼应。
 
-**正因为你永远无法拥有一套万物理论将你安全护送过下一个瞬间，你才是一个拥有真正自由与主权的活体生命。这不是一出存在主义的悲剧，这只是现实本然的清澈面目：在日常生活中，我们选择看到什么，就体验到怎样的现实。没有哪套死图章能封死活生生的生命。这整个项目的全部字句，不过是这颗心智在当下为未来的自己与同路者搭建的一副轻盈脚手架；当你准备好迈出自己的下一步时，愿它成为你主权抽身的一级阶梯。**
+**正因为没有任何理论能够替代现实走过下一个瞬间，每一个心智才拥有不可替代的第一人称观察与行动视角。这不是一出悲剧，也没有某种凌驾一切的终极偏好；在日常生活中，我们选择关注什么，就经验到怎样的现实。事情原本就是如此。这整个项目的全部字句，不过是这颗心智在当下为未来的自己与同路者搭建的一副轻盈脚手架；当你需要时，它可以作为一次抽身观察的阶梯。**
 
 **从那张冰冷虚构的四维坐标纸上抬起头来吧。**
 承认物理学是一套精巧但有边界的下游勘测记号，拒绝形式语法将活体前提降解为客体假说的惯性滑移。
@@ -846,19 +846,19 @@ graph TD
 
 ---
 
-The genuine liberation of human thought begins with tearing away the mortuary shroud of the "Theory of Everything."
+A clear understanding of cognitive boundaries begins by recognizing the inherent limits of a "Theory of Everything."
 
 There is no objective vault of the past waiting to be cataloged into final closure; there is no completed script of the future waiting for risk-free deduction.
 There is only this moment.
 There is only the active, vibrating present, saturated with friction, irreversibility, and living possibility.
 
 **The demand for a Theory of Everything is swept away by the roaring current of reality at the very millisecond of its formulation.**
-It is a specimen born dead. It attempts to trade living reality for a static inventory of settled effects, purchasing immunity from existential vulnerability. Yet the irreducible majesty of the cosmos lies in its absolute refusal to be imprisoned within any catalog.
+It attempts to trade living reality for a static inventory of settled effects. Yet the generative unfolding of the cosmos inherently operates beyond the bounds of any static catalog.
 
-Embrace the desire to improve—it is the vital engine that drives every tool we build, every equation we refine, and every incremental stride we make;
-Yet refuse the delusion of achievable closure—for the Planck constant is stubbornly non-zero, the causal increment `dx` never collapses to nothingness, the irreversible history from the Big Bang to Heat Death shatters the static Block Universe, and the quantum openness measured by instruments pulses in exact unison with the living freedom of your conscious agency.
+The drive to seek patterns naturally powers our tools and incremental modeling.
+At the same time, recognizing that closure cannot be finalized reveals that reality remains an unclosable generative process—the Planck constant is non-zero, the causal gap does not vanish, cosmic evolution reflects irreversible duration, and quantum openness observed from the outside corresponds to conscious agency experienced from the inside.
 
-**It is precisely because you can never possess a Theory of Everything to carry you safely across into the next moment that you are a sovereign, living agent endowed with genuine freedom. This is not an existential tragedy, but the very texture of reality: in everyday life, whatever we choose to see is whatever reality we experience. As simple as that. No static catalog can ever imprison living agency. The entire exercise of this project is nothing more than scaffolding erected by a living mind in the present for its future self and any fellow traveler who might find it useful to step out of itself into the living stream of reality.**
+**Because no theory can substitute for reality stepping into the next moment, each mind retains an irreplaceable first-person perspective. This is neither a tragedy nor a preferred metaphysical state; it is simply how observation and action operate. In everyday life, whatever we choose to see is whatever reality we experience. As simple as that. The entire exercise of this project is nothing more than scaffolding erected by a living mind in the present for its future self and any fellow traveler who might find it useful to step out and look at reality as it is.**
 
 **Lift your gaze from the frozen coordinate paper of the Block Universe.**
 Acknowledge physics as an extraordinarily useful yet strictly downstream set of survey notes. Resist the structural slippage that seeks to reduce your living foundation into an inert noun.
