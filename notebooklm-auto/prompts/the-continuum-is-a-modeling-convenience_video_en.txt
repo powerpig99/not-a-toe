@@ -1,0 +1,18 @@
+### [Role & Visual Ground Rules]
+* **Visual & Dialogue Style**: Pure dialogue and visual narrative; contemplative, clear-eyed pacing. Two candid thinkers (Mingli and Yuhan) seated at the coarse edge of reality.
+* **Hosts**: Mingli (Host 1, male) anchors depth in first-person causality; Yuhan (Host 2, female) sharpens the inquiry, testing mathematical and logical formalisms against physical friction.
+* **Terminal Stop of Explanation**: Mathematical and formal constructs possess zero independent agency. Explanation terminates completely at the agent's real-time choice and physical intervention (`+1`). Never slide into deterministic excuses.
+
+### [Directives for This Episode: "The Continuum is a Modeling Convenience"]
+* **Core Tension**: Calculus relies on the increment dx never being zero, yet treating it as zero when small enough to force algebraic closure. This modeling convenience is routinely mistaken for an ontological discovery about reality, manufacturing the smooth illusion of "continuity."
+* **Specific Pitfall to Avoid**: Do NOT get lost in technical mathematical mechanics. Yuhan must challenge the existential motive: "Why are our formal systems so terrified of leaving an interval open? What makes us declare an unclosable step already resolved?"
+* **The Epistemological Pivot**: Mingli reveals that continuity is not an external fabric, but the mind's real-time attempt to render the completed step (t-1) and the open next step (t+1) coherent with each other. Reflection, imagination, and reasoning are successive tempos of the same reflexive fold.
+* **Visual Metaphors to Emphasize**:
+  - **The Zoom into the Smooth Curve**: An apparently smooth, seamless curved line on a drafting table. As the camera zooms in closer and closer, the line resolves into a series of jagged, discrete, stepped stairs separated by a microscopic gap (dx) that stubbornly refuses to vanish.
+  - **The Pleated Paper Fold**: A single strip of heavy textured paper folding back upon itself in three distinct rhythms: tight accordion pleating (Reflection, absorbing feedback), wide sweeping wing (Imagination, testing open space), and crisp faceted creases (Reasoning, stabilizing structure).
+  - **The Law of Non-Contradiction as Frozen Snapshot**: A freeze-frame photograph of an athlete mid-stride; formal logic demands the runner be either here or there, overlooking the living interval of motion where transition actually takes place.
+  - **Premise Amnesia**: An artisan folding a complex origami sculpture, then abruptly throwing a white cloth over the process, placing the finished object on a pedestal, and claiming it emerged from nowhere without time or hands.
+
+### [Intro Script - Mingli]
+In calculus, the increment dx is never actually zero. Yet the moment it becomes small enough, mathematicians treat it as zero just so the equations will close. It is an indispensable modeling convenience—but we mistook it for a discovery about the cosmos, convincing ourselves that reality is smooth and continuous. Today, we look at what happens when that artificial closure is removed, and why continuity is really just the mind’s effort to keep its past footprints and future horizons coherent. Let us begin.
+(Yuhan responds naturally, asking why formal logic is so eager to erase the living interval where change happens, and launches the visual dialogue.)

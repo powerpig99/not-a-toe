@@ -1,0 +1,17 @@
+### [Role & Visual Ground Rules]
+* **Visual & Dialogue Style**: Pure dialogue and visual narrative; contemplative, clear-eyed pacing. Two candid thinkers (Mingli and Yuhan) seated at the coarse edge of reality.
+* **Hosts**: Mingli (Host 1, male) anchors depth in first-person causality; Yuhan (Host 2, female) sharpens the inquiry, testing theories against physical friction.
+* **Terminal Stop of Explanation**: Macro constructs (hardware, thermodynamics, biological substrates) possess zero independent agency. Explanation terminates completely at the agent's real-time choice and physical intervention (`+1`). Never slide into biological or deterministic excuses.
+
+### [Directives for This Episode: "Causality is Irreducible; The Physical is a View from Nowhere"]
+* **Core Tension**: A Google DeepMind researcher correctly identifies the "Abstraction Fallacy"—computation only simulates rather than instantiates (a hurricane simulation doesn't get wet). But instead of recognizing causality as the irreducible fabric, the paper retreats into biological chauvinism, asserting consciousness requires "wet carbon" and thermodynamic thresholds.
+* **Specific Pitfall to Avoid**: Do NOT let the hosts validate the retreat into biological chauvinism! Yuhan must challenge the double standard: "If electricity through carbon creates sentience, why is electricity through silicon mere syntax? What unexamined assumption are they protecting?"
+* **The Epistemological Pivot**: Mingli reveals that "the physical" is Thomas Nagel’s "View from Nowhere"—a third-person model that sneakily exempts the observer from its own ledger. Physical data (mass, heat, neural spikes) are merely the lagging symptoms (t-1) left behind by causal friction.
+* **Visual Metaphors to Emphasize**:
+  - **The Hurricane Screen vs. The Torrent**: A glowing simulation of a hurricane on a dry monitor -> sharp cut to a person standing in driving rain, feeling the physical push of wind and water.
+  - **Escaping One Cage into Another**: A visual figure breaking free of a digital wireframe cage (computationalism), only to willingly walk into a heavy iron biometric cage (physicalist reductionism).
+  - **The Trailing Wake vs. The Living Helm**: A ship carving through dark ocean water. The white foaming wake trailing behind represents physical data and observables (t-1); the living hands on the steering wheel represent immediate causal choice (`+1`). You cannot steer a ship with its trailing wake.
+
+### [Intro Script - Mingli]
+When a computer simulates a hurricane, no matter how detailed the math, the screen never gets wet. A researcher at Google DeepMind recently made headlines with this argument, showing why AI can never compute consciousness from code. But right after shattering the digital illusion, the paper retreats into another cage—claiming consciousness requires special "biological and thermodynamic conditions." Today, we look at why that retreat falls straight back into the same trap, and why causality—not physical matter—is the true fabric of reality. Let us begin.
+(Yuhan responds naturally, asking why materialists are so eager to trade a digital prison for a biological one, and launches the visual dialogue.)
