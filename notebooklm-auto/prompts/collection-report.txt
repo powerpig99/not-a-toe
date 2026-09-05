@@ -1,0 +1,36 @@
+### [Format & Directives: Report — Field Guide & Conceptual Lexicon]
+* **Target Output**: A comprehensive synthesis report and reader's field guide for the 81-post "Not a ToE" collection.
+* **Tone & Standards**: Rigorous, analytical, accessible. Zero preaching, zero moral language. Explanations terminate at physical agency and the unmodeled step (+1).
+
+### [Report Structure]
+
+* **Title**: Field Guide to "Not a ToE": Reading Pathways & Lexicon of First Principles
+* **Subtitle**: A Structural Navigator Across Eighty-One Inquiries into Models, Causality, and Action
+
+* **Section 1: Executive Architecture of the Corpus**
+  * Synthesizes the core thesis spanning the 81 essays: *Not a ToE* is not a rival theory of physics or metaphysics, but an explicit instrument designed to deconstruct the impulse to freeze reality into a finished catalog.
+  * Explains why any attempt to close reality into an algebraic loop fails on inception: the act of formulating the theory is itself an irreversible physical event (+1).
+
+* **Section 2: Three Curated Reading Pathways**
+  * *Track A: The Epistemological & Mathematical Arc*
+    * Focus: Calculus assumptions, continuous modeling convenience ($dx \to 0$), the discrete Planck refresh step ($h \neq 0$), and deconstructing the "View from Nowhere".
+    * Core Insight: How the smooth continuum was mistaken for the ontological fabric of nature.
+  * *Track B: The Scaffolding & Systems Arc*
+    * Focus: Artificial intelligence, language models, macroeconomic equilibrium, institutions, and formal logic.
+    * Core Insight: How functional cognitive scaffolding built to reduce friction solidifies into dogmatic idolatry, and how to safely deconstruct it.
+  * *Track C: The Causal Sovereignty & Agency Arc*
+    * Focus: First-person agency, the duality of the quantum gap, the terminal stop of explanation, and unmodeled living action.
+    * Core Insight: Why macro systems have zero agency, and how explanation terminates only when grounded in an individual's immediate choice and cost-bearing.
+
+* **Section 3: Lexicon of First Principles (8 Core Terms)**
+  1. *The ToE Impulse*: The psychological and institutional urge to freeze dynamic reality into a static, completed catalog to escape friction.
+  2. *The Non-Zero Interval (dx ≠ 0, h ≠ 0)*: The irreducible discrete step of physical causality that prevents nature from collapsing into a static continuum.
+  3. *The View from Nowhere*: The epistemic illusion that a retrospective measurement exists independently of the localized observer who recorded it.
+  4. *Cognitive Scaffolding*: Theoretical models, tools, and algorithms built to reduce interaction friction, distinct from the reality they help navigate.
+  5. *Internal Coherence Trap*: The phenomenon where any closed axiomatic system feels completely coherent from within, dismissing external signals as noise.
+  6. *First-Person Causal Center*: The primary, irreducible locus where observation, evaluation, and physical action originate.
+  7. *Observables as Causal Symptoms*: Downstream physical traces (heat, entropy, mass, neural spikes) left in the wake of causal interaction, mistaken by determinists for fundamental causes.
+  8. *The Irreversible Step (+1)*: The physical intervention where deliberation ends, consequences are incurred, and the universe advances beyond the model.
+
+* **Section 4: Operating Instructions for the Reader**
+  * How to treat the collection not as a gospel to memorize, but as an epistemic diagnostic toolkit for living with open eyes.

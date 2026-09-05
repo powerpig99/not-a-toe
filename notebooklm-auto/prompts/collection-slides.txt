@@ -1,0 +1,56 @@
+### [Format & Directives: Slide Deck]
+* **Target Output**: A 10-slide keynote narrative deck synthesizing the 81-post "Not a ToE" collection.
+* **Tone**: Unpretentious, intellectually rigorous, visually grounded. Zero preaching, zero moral language.
+* **Key Narrative Arc**: Moving from the human urge for final answers, through the mathematical and physical deconstruction of the continuum, to the sovereign exit of living action (+1).
+
+### [Slide Deck Outline: 10 Slides]
+
+* **Slide 1: Title Slide**
+  * *Title*: Not a ToE: Deconstructing the Impulse to Freeze Reality
+  * *Subtitle*: An Instrument for Seeing Where Models End and Living Action Begins
+  * *Visual*: A simple transit instrument or surveyor's theodolite set against an open horizon.
+
+* **Slide 2: The Urge for the Catalog**
+  * *Headline*: Why do we keep chasing a Theory of Everything?
+  * *Key Points*: Wanting a theory is a natural drive to reduce friction. The subtle error is expecting reality to freeze into a finished equation to relieve us of causal responsibility.
+  * *Visual*: An infinite card catalog with blank cards slipping out.
+
+* **Slide 3: The Mathematical Convenience**
+  * *Headline*: How calculus made the continuum seductive (dx → 0).
+  * *Key Points*: Setting differential intervals to zero is brilliant engineering math. But continuous curves are computational conveniences, not ontological facts of nature.
+  * *Visual*: A smooth curve zoomed in to reveal discrete pixels underneath.
+
+* **Slide 4: The Physical Floor**
+  * *Headline*: Nature never zeroes the interval: the Planck constant (h ≠ 0).
+  * *Key Points*: The universe updates frame by frame. Below the modeling assumption lies an irreducible non-zero causal refresh step.
+  * *Visual*: An hourglass where grains fall one irreducible quantum at a time.
+
+* **Slide 5: The Dual Aspect of the Quantum Gap**
+  * *Headline*: Two sides of the same irreducible tick.
+  * *Key Points*: Observed from the third-person outside, the gap measures as quantum indeterminacy. Experienced from the first-person inside, it is lived choice, deliberation, and action.
+  * *Visual*: A coin spinning in mid-air—indeterminacy on one face, human agency on the other.
+
+* **Slide 6: Deconstructing the "View from Nowhere"**
+  * *Headline*: Mistaking the retrospective map for the forward territory.
+  * *Key Points*: Objective panoramas are retrospective measurements taken by a localized observer. Believing the model exists without the observer inverts causality.
+  * *Visual*: A cartographer drawing a map, forgetting that his own hand holds the pen.
+
+* **Slide 7: Scaffolding vs. Idolatry**
+  * *Headline*: Models are tools to navigate friction, not reality's boundary.
+  * *Key Points*: Science, economic equilibrium, AI, and language are functional scaffolding. Pathology sets in when the scaffolding hardens into a dogmatic cage.
+  * *Visual*: Sturdy construction scaffolding around a building, with an arrow pointing outward.
+
+* **Slide 8: The Internal Coherence Trap**
+  * *Headline*: Inside any theory, zero incoherence is felt.
+  * *Key Points*: A system only recognizes what fits its grammar. Signals outside the model are dismissed as noise or anomalies.
+  * *Visual*: A tinted pair of glasses that filter out all colors except blue.
+
+* **Slide 9: The Terminal Stop of Explanation**
+  * *Headline*: Grounding explanation in irreversible physical action (+1).
+  * *Key Points*: Macro systems and algorithms have zero autonomous will. Explanation terminates completely when traced to an individual's immediate choice and cost-bearing.
+  * *Visual*: A single physical footstep pressing into sand—irreversible, concrete, unmodeled.
+
+* **Slide 10: Sovereign Exit**
+  * *Headline*: Stepping off the scaffold into open reality.
+  * *Key Points*: Not a ToE offers no doctrine to worship. It provides the clarity to drop the scaffolding and step into the living present.
+  * *Visual*: A person stepping off the last wooden plank of scaffolding into an open, sunlit field.
