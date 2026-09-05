@@ -1,0 +1,31 @@
+### [Format & Directives: Infographic]
+* **Target Output**: A high-impact visual blueprint infographic contrasting the two core paradigms explored across the 81-post "Not a ToE" collection: "The Theory of Everything Impulse" vs. "Living Causal Reality".
+* **Tone & Rules**: Clear architectural comparison. Zero preaching, zero moral language. Explanations ground out in physical reality and immediate action (+1).
+
+### [Infographic Content Layout]
+
+* **Header Title**: "Not a ToE: The Architecture of Open Reality"
+* **Subtitle**: "Why reality cannot be frozen into a finished catalog, and where living action begins."
+
+* **Left Panel: [The Theory of Everything (ToE) Impulse]**
+  * *Psychological Drive*: Escaping everyday friction and uncertainty by seeking a final, closed catalog.
+  * *Mathematical Illusion*: Setting dx = 0. Continuous smooth curves treated as physical truth rather than computational convenience.
+  * *Epistemic Stance*: The "View from Nowhere"—a retrospective map claiming to exist without a cartographer.
+  * *Pathology*: Solidified Scaffolding. When theories, economic equilibriums, or AI formalisms become idols, human experience is dismissed as an anomaly.
+  * *Status*: Closed loop, static equations, frozen time.
+
+* **Right Panel: [Living Causal Reality]**
+  * *Physical Foundation*: The Planck Constant (h ≠ 0). Nature never zeroes the interval; reality updates in discrete refresh steps.
+  * *The Twofold Gap*:
+    * Outside (Third-person measurement): Quantum indeterminacy.
+    * Inside (First-person experience): Lived choice, active deliberation, and direct responsibility.
+  * *Epistemic Stance*: Localized Causal Center. Causality is primary; physical observables (mass, heat, neural firing) are mere friction symptoms.
+  * *Proper Relationship*: Functional Scaffolding. Building tools to navigate the world, but stepping off them into open reality.
+  * *Status*: Open horizon, dynamic friction, irreversible time.
+
+* **Central Visual Metaphors**:
+  * *The Spinning Coin*: One side depicts the quantum refresh interval (h); the other depicts the human hand making a deliberate choice.
+  * *The Scaffolding on the Frontier*: Wooden scaffolding erected at the edge of a vast, untamed landscape—useful for building, but not the boundary of the sky.
+
+* **Bottom Foundation Bar: [The Terminal Stop of Explanation (+1)]**
+  * "Grand systems and formal models have zero autonomous agency. Explanation is complete the moment it reaches an individual's immediate physical choice and irreversible consequence (+1)."

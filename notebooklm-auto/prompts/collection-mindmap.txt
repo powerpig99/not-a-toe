@@ -1,0 +1,26 @@
+### [Format & Directives: Mind Map]
+* **Target Output**: A structured hierarchical mind map visualizing the conceptual architecture of the 81-post "Not a ToE" collection.
+* **Core Philosophy**: Zero preaching, zero moral language. Grand theories and models possess zero independent causal agency. Explanation terminates at first-person choice and irreversible physical action (+1).
+* **Goal**: Show that the collection is not a list of separate opinions, but an interconnected precision instrument designed to deconstruct the impulse to freeze reality into a static catalog.
+
+### [Mind Map Hierarchy]
+
+* **Central Node: "Not a ToE: Reality as an Open Horizon"**
+  * **Branch 1: The Physics & Mathematical Floor**
+    * *The Continuum Illusion*: Calculus assumes dx → 0 for continuous calculation; physical reality never zeroes the interval.
+    * *The Planck Constant (h ≠ 0)*: The irreducible non-zero causal refresh step of the universe.
+    * *The Dual Aspect of the Gap*:
+      * Outside (Third-person measurement): Quantum indeterminacy.
+      * Inside (First-person experience): Lived choice, deliberation, and direct responsibility.
+  * **Branch 2: Epistemic Inversions**
+    * *The "View from Nowhere" Fallacy*: Retrospective measurements mistaken for an objective, observer-free reality.
+    * *The Measurement Center*: Causality is primary; physical observables (mass, charge, heat, neural firing) are downstream symptoms.
+    * *Internal Coherence Trap*: Every closed model feels 100% coherent from within; signals outside the model are dismissed as noise.
+  * **Branch 3: Scaffolding vs. Idolatry**
+    * *Functional Tools*: Science, AI systems, economics, and language are cognitive scaffolding built to reduce everyday friction.
+    * *The Dogmatic Trap*: When scaffolding hardens into a prison, and human life is blamed for overflowing the model.
+    * *Sovereign Exit*: Using scaffolding without worshiping it; stepping off the scaffold when the work requires open reality.
+  * **Branch 4: Dynamic Agency & The Terminal Stop (+1)**
+    * *Zero System Agency*: Institutions, algorithms, and formulas possess zero independent will.
+    * *The Sovereign Step (+1)*: Explanation terminates at an individual's immediate physical choice and irreversible consequence.
+    * *Open Horizon*: Reality never closes into an equation; life remains an unmodeled causal step.
