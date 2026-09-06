@@ -100,26 +100,32 @@ As articulated in [Time is Causality, Not a Dimension](../time-is-causality-not-
 
 一旦把现实冻结在这一张黑白采样帧上，物理学家便拥有了一个确定、封闭的形式系统。在这一张平整的数学底片上，微积分、群论与微分几何展现出了无与伦比的计算威力。理论家能够对这一采样帧内部的每一个像素进行编号、测距，并写下令人叹为观止的对称性方程。从广义相对论对水星近日点进动的微小修正，到量子电动力学对电子反常磁矩多达十二位有效数字的预测，这种在局部采样帧内部对像素属性的精准解构，带来了无与伦比的智力震撼。
 
+需要指出的是，这一黑白残留之所以能够被极其精密地数学建模，其根本原因在于：画面中的每一个像素与结构，都是过去因果动作沉淀下来的物理痕迹。它们之间存在着需要经过真实不可逆时间才能够形成的因果关联。正因为这些残留痕迹记录了已经发生且趋于稳定的历史因果序列，数学模型才能够对其展开高度精密的近似与拟合。然而，这种令人赞叹的精确度，本质上是对已经沉淀的局部历史数据的高阶拟合，根本不是对活生生宇宙的全局精确描述。将针对过去残留痕迹的局部拟合，误认为是统摄全部时空的先验定律，正是理论物理学最深层的过拟合陷阱。
+
 ```mermaid
 graph TD
-    subgraph LocalSampleSuccess["【单帧像素的局部高精度计算 / Local Pixel Precision in Single Frame】"]
-        SampleFrame["单张黑白采样帧内部<br>Inside the Desaturated Frame<br>Frozen, isolated, well-defined coordinate matrix"]
-        PixelEquations["极其精密的小数点后十二位预测<br>12-Decimal-Place Predictive Power<br>Mercury precession, GPS drift, anomalous magnetic moment"]
-        IntellectualAwe["智力折服与权威确立<br>Intellectual Intoxication<br>Derivations feel indisputably solid and verifiable"]
-        SampleFrame --> PixelEquations
-        PixelEquations --> IntellectualAwe
+    subgraph CausalResidueSource["【过去因果沉淀为残留痕迹 / Settled Residue of Past Causality】"]
+        PastCausality["不可逆因果演进经过时间沉淀<br>Past Causality Unfolding Over Time<br>Metabolic work; settled events leave durable traces"]
+        FrozenResidue["单帧画面是因果痕迹的凝结<br>Settled Physical Traces<br>Pixels are stabilized historical residue, not static axioms"]
+        PastCausality --> FrozenResidue
     end
 
-    subgraph TheCategoryFallacy["【地平说式的无限全貌外推 / The Flat Earth Cosmic Extrapolation】"]
+    subgraph LocalSampleSuccess["【局部高阶拟合的惊人精度 / High-Order Local Fitting】"]
+        HighOrderFit["对历史痕迹的局部高阶数学拟合<br>High-Order Local Curve Fitting<br>Equations fit stabilized relational traces with 12-decimal precision"]
+        IntellectualAwe["智力折服：误将拟合当真理<br>Overfitting Seduction<br>Mistaking local empirical success for eternal law"]
+        FrozenResidue --> HighOrderFit
+        HighOrderFit --> IntellectualAwe
+    end
+
+    subgraph TheCategoryFallacy["【过拟合外推与地平说范畴倒错 / Overfitting & Flat Earth Fallacy】"]
         FlatConstruction["施工现场地表平整 Δx → 0<br>Local Engineering Tangent Plane<br>Bridges and skyscrapers built safely on flat approximation"]
-        FlatEarthDoctrine["将局部切空间外推为宇宙结构<br>Extrapolating Flatness to Infinity<br>Declaring the entire planet is a flat disk"]
-        CosmicBlockExtrapolation["将单帧像素外推为四维永恒块<br>Extrapolating Frame to Cosmos<br>Declaring past and future are static geometric coordinates"]
-        FlatConstruction --> FlatEarthDoctrine
+        CosmicBlockExtrapolation["将局部拟合外推为全局永恒块<br>Extrapolating Local Fit to Infinity<br>Declaring past and future are static geometric coordinates"]
         FlatConstruction -.->|"等价的范畴错误<br>Identical Category Error"| CosmicBlockExtrapolation
     end
 
-    IntellectualAwe ==>|"倒错推论：因局部像素描述精准，遂认定外推体必为全貌<br>Illicit Inversion: Mistaking local precision for global truth"| CosmicBlockExtrapolation
+    IntellectualAwe ==>|"致命跳跃：从局部痕迹拟合到全局宇宙宣称<br>Fatal Leap: Confusing local residue fit with cosmic reality"| CosmicBlockExtrapolation
 
+    style CausalResidueSource fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
     style LocalSampleSuccess fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
     style TheCategoryFallacy fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
 ```
@@ -135,6 +141,8 @@ graph TD
 Why has this reduction captured nearly every educated mind for centuries? The answer lies in the astonishing, seductive precision of local mathematics.
 
 Once reality is frozen onto this single black-and-white sample slide, physicists possess a closed, predictable formal playground. On this static mathematical negative, calculus, group theory, and differential geometry operate with breathtaking power. Theorists can catalog every pixel, assign it exact spatial coordinates, and write down elegant symmetry equations. From General Relativity's subtle correction to Mercury’s perihelion precession to Quantum Electrodynamics predicting the electron's anomalous magnetic moment to twelve decimal places, the mathematical description of pixel relationships within that frozen frame is undeniably spectacular.
+
+What must be pointed out is that the reason this black-and-white residue can be mathematically modeled with such stunning precision in the first place is that every pixel and feature within the frame is a settled physical trace left behind by past causal actions. Between them lie genuine causal relationships that required irreversible physical time to unfold and stabilize. It is precisely because these settled residues encode already-established historical coherence that mathematical equations can achieve such extraordinary empirical accuracy. Yet this celebrated precision is fundamentally a high-order local fitting over settled historical residue—it is not a global exact description of the living cosmos. Mistaking a local polynomial fit over past fossils for an eternal law governing the living future represents the ultimate overfitting trap of theoretical physics.
 
 Nobody dares challenge the premise of the grand theory because minds are either intimidated by or infatuated with the intricate sophistication of its derivations and its local empirical precision. Yet local predictive success tells us nothing about the universe as a living whole. When this local sample frame is crowned as the comprehensive architecture of reality, it commits the identical category error as the Flat Earth.
 
