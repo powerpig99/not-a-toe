@@ -68,24 +68,32 @@ In a strict two-body universe, motion is relational. Absent a third physical bod
 
 为了判定远航的弟弟“真正经历了非对称的世界线弯曲”，物理学家调用了地球的质量分布、银河系的引力势场，甚至是遥远恒星构成的视界。如果这些具体的物质背景仍然不足以作为固定基准，诠释者便在脑海中虚拟出一个悬浮在宇宙之外的隐形机位。
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                 THE HIDDEN OBSERVER SLEIGHT OF HAND         │
-├─────────────────────────────────────────────────────────────┤
-│ 1. Claimed Premise:                                         │
-│    Motion is strictly relational; no privileged center.     │
-│                                                             │
-│ 2. Unacknowledged Move:                                     │
-│    Smuggle in distant stars / Earth as privileged anchor.   │
-│                                                             │
-│ 3. Theoretical Trap:                                        │
-│    Adopt a disembodied God's-eye camera outside the universe│
-│    to compare worldline intervals as pre-existing objects.  │
-│                                                             │
-│ 4. Operational Fact:                                        │
-│    Two living entities meet in the indivisible now;         │
-│    no entity travels across a dimensional highway.          │
-└─────────────────────────────────────────────────────────────┘
+```mermaid
+graph TD
+    subgraph S1["1. 宣称的前提 / Claimed Premise"]
+        P1["运动具有对等关系性，不存在特权参考系<br>Motion is strictly relational; no privileged reference frame"]
+    end
+
+    subgraph S2["2. 未言明的偷渡 / Unacknowledged Move"]
+        P2["暗中调用遥远星系与背景引力场作为不动基准<br>Quietly smuggle in distant cosmos / Earth as privileged anchor"]
+    end
+
+    subgraph S3["3. 理论陷阱 / Theoretical Trap: The Hidden Observer"]
+        P3["在宇宙之外虚构脱离肉身的‘上帝之眼’机位<br>Adopting a disembodied God's-eye vantage outside spacetime<br>将四维时空世界线当作物化实体从外部俯瞰比对<br>Comparing static worldline intervals as pre-existing objects"]
+    end
+
+    subgraph S4["4. 运行事实 / Operational Fact"]
+        P4["两个生命主体在不可分割的当下直接相遇握手<br>Two living entities meet directly in the indivisible present<br>没有任何实体在穿越多维几何走廊<br>No entity traverses a pre-existing dimensional corridor"]
+    end
+
+    P1 -->|"偷渡外部基准<br>Smuggling privileged frame"| P2
+    P2 -->|"设立超然机位<br>Erecting exterior vantage"| P3
+    P3 -.->|"遮蔽活生生的相遇<br>Obscuring direct contact"| P4
+
+    style S1 fill:#1c2025,stroke:#5c6370,color:#abb2bf
+    style S2 fill:#21252b,stroke:#e5c07b,stroke-width:1.5px,color:#abb2bf
+    style S3 fill:#2c2226,stroke:#e06c75,stroke-width:1.5px,color:#abb2bf
+    style S4 fill:#1e272c,stroke:#98c379,stroke-width:1.5px,color:#abb2bf
 ```
 
 这个悬浮于宇宙之外的机位，就是**隐秘观察者（The Hidden Observer）**。
@@ -122,20 +130,32 @@ The paradox is not born of physical contradiction; it is manufactured by this co
 
 在闵可夫斯基时空几何中，时间被空间化为第四个维度。整个宇宙的生灭演化被压缩为一个已经完成的、凝固的四维时空块。在这个模型中，过去、现在与未来如同书页般并列排列，物质的生命历程被绘制为静态的世界线。
 
-```text
-       STATIC 4D BLOCK (THE MAP)              LIVING CAUSALITY (THE TERRITORY)
-       
-            t (Coordinate)                                Living Now
-            ▲                                                 │
-            │     / Worldline B                               ▼
-            │    / (Turnaround)             [Center A] ◄── Causal ──► [Center B]
-            │   / \                                    Interaction
-            │  /   \                                          │
-            │ │     │                                         ▼
-            │ │     │ Worldline A                     [The Handshake]
-            │ └─────┴──────────► x             Both centers update state together;
-            Time is an engineered parameter    Reality rendered frame by frame;
-            viewed by an exterior spectator.   No pre-existing highway to traverse.
+```mermaid
+graph TB
+    subgraph Map["【静态四维时空块：工程地图 / Static 4D Block: The Map】"]
+        direction TB
+        M1["外部超然观察者（图纸外的旁观机位）<br>Exterior Spectator: Disembodied vantage outside manifold"]
+        M2["预设固化的四维坐标网格 (t, x)<br>Pre-existing frozen geometric coordinate grid"]
+        M3["静态世界线：线段 A 与折线 B 同时并存<br>Static Worldlines: Pre-drawn paths A & B co-existing"]
+        M4["时间被空间化为可度量的几何长度差异<br>Time spatialized as geometric path length differential<br>(τ_A ≠ τ_B treated as ontological time travel)"]
+        
+        M1 --> M2 --> M3 --> M4
+    end
+
+    subgraph Territory["【活生生的因果演进：物理现实 / Living Causality: The Territory】"]
+        direction TB
+        T1["不可分割的活生生当下 (Indivisible Living Present)<br>单一因果前沿推进，无外部超时间 (No exterior meta-time)"]
+        T2["局域因果中心 A ◄──相互作用 (Causal Dialogue)──► 局域因果中心 B<br>Local Causal Center A and Center B in relational interaction"]
+        T3["逐帧更新物质状态 (Frame-by-frame state updates)<br>环境应力调节物质振子节律 (Stress modulates cycle rates)"]
+        T4["终点握手：在同一时刻同一地点直接相遇<br>The Handshake: Direct physical contact at the causal frontier"]
+        
+        T1 --> T2 --> T3 --> T4
+    end
+
+    Map -.->|"范畴倒错：把计算图纸误认为物理现实<br>Category error: Mistaking the map for the territory"| Territory
+
+    style Map fill:#2c2226,stroke:#e06c75,stroke-width:1.5px,color:#abb2bf
+    style Territory fill:#1e272c,stroke:#98c379,stroke-width:1.5px,color:#abb2bf
 ```
 
 理论家面对这一静态几何体时，将自己置于模型之外。他计算两条世界线在四维几何中的路径积分，发现弯曲路径所累积的原时数值小于直线路径的数值。于是他得出结论：“远航的弟弟变年轻了，他穿越到了未来。”
@@ -173,21 +193,34 @@ In an active cosmos, no entity races ahead or lags behind across a temporal corr
 * **钟表不是“时间感应器”**：宇宙中不存在一条被称为“时间”的客观河流流淌其间以供钟表采集成数。钟表不过是一个局部的物理振子——一段摆动的钟摆、一块受激振动的石英晶体，或是一个在能级间跃迁的铯原子——连接着一个计数器。
 * **物理应力改变物理振子的跃迁频率**：在真实的物理实验中，原子钟并不处于虚无的两体真空。它们处于地球庞大的引力势场与自转离心力场之中。引力梯度的变化与加减速运动所施加的力学应力，直接作用于原子核与外层电子的相互作用网络，改变了其能级跃迁的物理频率。发生改变的不是形而上学意义上的“时间流动”，而是**具体物质振子在物理环境应力下的因果循环节律**。
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                 THE ODOMETER CORRESPONDENCE                 │
-├─────────────────────────────────────────────────────────────┤
-│ • Car A drives on smooth asphalt for 100 miles.             │
-│ • Car B drives through mud and rocks; wheels slip/drag.      │
-│ • They park side by side in the same garage at the same now.│
-│                                                             │
-│ • Car B's odometer displays fewer accumulated miles.        │
-│ • Does Car B exist in Car A's future?                       │
-│ • No: its mechanical sensor experienced different stresses. │
-│                                                             │
-│ Clocks are physical odometers measuring material cycles,    │
-│ not magic vessels traveling along a time corridor.          │
-└─────────────────────────────────────────────────────────────┘
+```mermaid
+graph TD
+    subgraph Departure["起点：同一时刻同一起跑线 / Common Departure"]
+        Start["车辆 A 与 车辆 B（或 原子钟 A 与 原子钟 B）<br>Vehicles A & B / Atomic Clocks A & B<br>处于相同因果初始态 (Identical Initial Causal State)"]
+    end
+
+    subgraph Stress["分离历程：不同的环境力学应力 / Asymmetric Physical Stresses"]
+        PathA["车辆 A / 地面钟表 A<br>平坦公路 / 地面引力场平稳环境<br>Standard terrestrial conditions & smooth rolling"]
+        PathB["车辆 B / 远航钟表 B<br>泥泞碎石打滑与阻力 / 飞船加减速与引力梯度调制<br>Mud, rock drag & wheel slip / High acceleration & field gradients"]
+    end
+
+    subgraph Reunion["终点：同一车库的不可分割当下 / Reunion in the Same Garage"]
+        Finish["并排停放在同一个车库 / 放置在同一个实验桌面上<br>Parked side by side in the same garage at the identical now"]
+    end
+
+    subgraph Readings["传感器读数差异：物理周期的机械累积 / Accumulated Cycle Differential"]
+        Diff["里程表读数不同：齿轮旋转圈数受机械阻力影响<br>原子钟计数不同：能级跃迁频率受引力与加速度应力调制<br>Sensor discrepancy reflects mechanical cycle history under stress"]
+        Truth["结论：车辆 B 并未穿越到未来，钟表只是测量物质循环的物理里程表<br>Conclusion: Car B did not time-travel; clocks are physical odometers"]
+    end
+
+    Start --> PathA --> Finish
+    Start --> PathB --> Finish
+    Finish --> Diff --> Truth
+
+    style Departure fill:#1c2025,stroke:#5c6370,color:#abb2bf
+    style Stress fill:#21252b,stroke:#e5c07b,color:#abb2bf
+    style Reunion fill:#1e272c,stroke:#61afef,stroke-width:1.5px,color:#abb2bf
+    style Readings fill:#2d261e,stroke:#98c379,stroke-width:1.5px,color:#abb2bf
 ```
 
 这对应着里程表的物理现实：两辆车从同一地点出发，在不同的道路应力下行驶并最终停在同一个车库里。一辆车的里程表记录了较少的英里数。没有任何理性的人会声称这辆车“穿越到了未来的车库”。两辆车共同停在此时此地的车库里，里程表的读数差异仅仅记录了机械齿轮在不同地面应力下的运转历史。
@@ -268,32 +301,42 @@ The popular narrative—that one twin lived a mere afternoon while the other liv
 
 这两者无法共存。在一个静态的四维几何实体内部，既没有开端，也没有演变，更没有终结。如果宇宙整体是一个已经画好的四维时空块，那么宣称宇宙在“膨胀”或在“变冷”，就必须在四维时空块之外引入一个供该几何体发生变化的外部超时间（meta-time）。如果时间仅仅是时空块内部一条空间化的坐标轴，那么大爆炸不是产生后续结果的源头，它只是一张四维地图的底边边界；热寂也不是正在逼近的未来，它只是地图的顶边边界。把动态的、不可逆的热力学演进硬塞进一个静态几何标本之中，是现代宇宙学最深刻的模型内耗。
 
-```text
-               INFINITE PATHS ON A STATIC 4D MAP
-               
-                       Event B (Reunion)
-                             ▲
-                            /|\
-                           / | \
-                    Path 1/  |  \Path 3
-                         /Path 2 \
-                        /    |    \
-                       /     |     \
-                             │
-                       Event A (Departure)
+```mermaid
+graph TD
+    subgraph Departure["出发事件 / Event A (Departure)"]
+        EA["同一因果起点：兄弟两人在同一时空点分离<br>Common Causal Origin: Observers depart from Event A"]
+    end
 
-     • Metric lengths:  tau_1 != tau_2 != tau_3 != ... != tau_infinity
-     • Standard Claim:  Infinite different "ages" and "time flows"
-                        all arrive at the exact same physical point B.
+    subgraph InfinitePaths["四维静态坐标纸上的无限几何曲线 / Infinite Paths on the Static Grid<br>度规积分：dτ = dt · √(1 - v²/c²)"]
+        P1["路径 1 (惯性静止线)<br>Path 1: Straight coordinate axis<br>度规积分配时：τ_1 = 50年 (Calculated Proper Time: 50 yrs)"]
+        P2["路径 2 (常规往返折线)<br>Path 2: Moderate cruising trajectory<br>度规积分配时：τ_2 = 5年 (Calculated Proper Time: 5 yrs)"]
+        P3["路径 3 (高曲率航线)<br>Path 3: High acceleration trajectory<br>度规积分配时：τ_3 = 2天 (Calculated Proper Time: 2 days)"]
+        PN["路径 ∞ (无限多条几何路径)<br>Path ∞: Arbitrary metric variations<br>度规积分配时：τ_n = 10分钟 (Calculated Proper Time: 10 mins)"]
+    end
+
+    subgraph Reunion["重逢事件 / Event B (The Handshake)"]
+        EB["同一物理现实：兄弟两人在同一个房间握手对视<br>The Living Present: All arrive at the same physical room"]
+    end
+
+    subgraph ParadoxRoot["正统解释的内在荒谬 / The Foundational Absurdity"]
+        Fallacy["正统推论：无限多个经历不同时间跨度的人，同时抵达物理同一点！<br>Orthodoxy: Infinite observers with wildly divergent ages converge at Point B<br>物理真相：点 B 是不可分割的活生生当下，度规长度差异只是图纸上的几何余数<br>Physical Reality: Point B is the indivisible now; metric variance is a mathematical artifact of the map"]
+    end
+
+    EA --> P1 --> EB
+    EA --> P2 --> EB
+    EA --> P3 --> EB
+    EA --> PN --> EB
+    EB --> Fallacy
+
+    style Departure fill:#1c2025,stroke:#5c6370,color:#abb2bf
+    style InfinitePaths fill:#21252b,stroke:#e5c07b,stroke-width:1.5px,color:#abb2bf
+    style Reunion fill:#1e272c,stroke:#61afef,stroke-width:1.5px,color:#abb2bf
+    style ParadoxRoot fill:#2c2226,stroke:#e06c75,stroke-width:1.5px,color:#abb2bf
 ```
 
 这一矛盾直接投射在微观运动学上，揭开了双生子佯谬的几何起源：**无限路径的荒谬**。
 
-在四维静态时空块中，连接分离点 A 与重逢点 B 的几何轨迹不仅有两条，而是存在**无限多条**。根据相对论时空度规公式：
-
-```text
-dtau = dt * sqrt(1 - v^2/c^2)
-```
+在四维静态时空块中，连接分离点 A 与重逢点 B 的几何轨迹不仅有两条，而是存在**无限多条**。根据相对论时空度规公式 `dτ = dt · √(1 - v² / c²)`：
 
 由于这无限多条弯曲路径在几何网格中拥有不同的曲率与坐标速度，理论模型为每一条路径赋予了不同的原时数值。按照标准教科书的解释：
 * 沿着路径 1 行进的观察者累积了五十年；
@@ -320,11 +363,7 @@ These paradigms cannot co-exist. Inside a static four-dimensional manifold, noth
 
 This incoherence projects directly onto kinematics, exposing the generic root of the Twin Paradox: **the absurdity of infinite paths**.
 
-Within a static four-dimensional coordinate block, between departure Event A and reunion Event B, an analyst can trace not merely two trajectories, but **infinitely many paths**. Under the relativistic metric:
-
-```text
-dtau = dt * sqrt(1 - v^2/c^2)
-```
+Within a static four-dimensional coordinate block, between departure Event A and reunion Event B, an analyst can trace not merely two trajectories, but **infinitely many paths**. Under the relativistic metric `dτ = dt · √(1 - v² / c²)`:
 
 Because these infinite curves possess differing coordinate velocities across the grid, the theoretical model assigns each path a distinct integrated proper time. Following textbook orthodoxy:
 * An observer traversing Path 1 records fifty years;
