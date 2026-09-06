@@ -10,12 +10,18 @@
 
 这种即时感知的局部不变性，诱发了理论物理学历史上最隐蔽的范畴跳跃：如果系统在局部微小时间段内表现得如同静态孤立系统，数学家便顺理成章地将真实的不可逆时间从方程中抽离。一旦排除了真实的因果流动，将现实截取为一个静态切片，任何数学维度的投影操作便都能在纸面上畅通无阻地展开。
 
+这里还隐藏着一个深刻的心理学错觉：将扩展的视界倒错为预先存在的容器。一个婴儿刚出生时，其感知的世界仅限于母亲的怀抱与摇篮的方寸之间；随着身心发育、语言习得与行动半径的延伸，他所经验的世界在不可逆地向外拓展。整个人类文明的演进同样如此，从幽闭的洞穴到辽阔的大陆，从太阳系到百亿光年外的深空视界。
+
+然而，人类认知中存在着一种固有的事后追认偏见：每当我们感知到一个更为庞大的世界，心智便会本能地想当然认为，那个更大的世界原本就一直完好无损地矗立在那里，等待着我们去“发现”。这种心理错觉让人误以为世界“本来就是这样一个静态客观的容器”。心智将自身感知视界在因果推进中不断显现的动态扩展，倒错地理解为了对一个早已封顶的四维预制大厦的被动巡览。这种心理投射，正是四维块状宇宙模型得以在理论家中生根发芽的情感温床。
+
 ```mermaid
 graph TD
     subgraph NaturalPerception["【第一人称观测视界 / First-Person Observational Window】"]
         DeltaT["极短观测窗口 Δt → 0<br>Infinitesimal Human Window<br>Changes appear imperceptible; baseline feels steady"]
         FeltInvariance["局部不变性直觉<br>Felt Invariance<br>Reality feels static, closed, and balanced"]
+        PsychologicalProjection["事后追认心理偏见<br>Retrospective Pre-Existence<br>Assuming larger perceived world was always already there"]
         DeltaT --> FeltInvariance
+        FeltInvariance --> PsychologicalProjection
     end
 
     subgraph MathematicalAbstraction["【公理化抽离与维度操纵 / Axiomatic Extraction & Manipulation】"]
@@ -26,7 +32,7 @@ graph TD
         IsolatedAssumption --> DimensionalExtrusion
     end
 
-    FeltInvariance ==>|"诱发范畴跳跃：将局部平稳当成宇宙全貌<br>Category Leap: Mistaking local steadiness for cosmic reality"| FreezeTime
+    PsychologicalProjection ==>|"诱发范畴跳跃：将视界扩展倒错为预存实体<br>Category Leap: Mistaking horizon expansion for pre-existing container"| FreezeTime
 
     style NaturalPerception fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
     style MathematicalAbstraction fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
@@ -39,6 +45,10 @@ graph TD
 Within our severely limited observational window, the cosmos exhibits a powerful illusion of stability. The stars appear fixed in the night sky, planets cycle through predictable orbits, and gravitational acceleration remains steady at human scales. Over an infinitesimal baseline (Δt approaching 0), any real scientific instrument requires a finite exposure window to capture signals—physics effectively collects the most adjacent frames of the living movie. Because this exposure interval is exceedingly brief, the image remains relatively stable across these immediate frames, and human perception naturally treats the local environment as a self-contained, closed, and static equilibrium system.
 
 This felt invariance of immediate perception invites the most insidious category jump in theoretical physics: because the local environment behaves like a static, isolated box over brief intervals, mathematicians casually strip irreversible physical time out of their equations. Once living causality is removed and reality is reduced to a frozen slice, arbitrary dimensional projections become child's play on paper.
+
+Underpinning this entire framework lies a profound psychological illusion: mistaking an expanding perceptual horizon for a pre-existing physical container. When an infant is born, its experienced world extends barely past its mother's chest and the rim of a crib. As the child grows, develops motor capacity, and expands its radius of action, its world expands continuously. The history of human civilization traces the identical arc: from the confines of a dark cave to oceans, continents, the solar system, and deep-field galaxies billions of light-years away.
+
+Yet human psychology harbors a persistent bias of retrospective projection: the moment our perception expands to encompass a larger world, the mind instinctively takes for granted that this larger domain was always already there in finished form, waiting passively to be discovered. This trick of the mind manufactures the illusion that "the world was always like this"—a pre-built, static container in which consciousness is merely an uninvited guest. The mind confuses the living, generative expansion of its own perceptual boundary with the passive discovery of an eternal four-dimensional block. This psychological reflex provides the emotional soil in which the block universe doctrine takes root.
 
 As demonstrated in [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/), as long as formal information is mathematically conserved during coordinate transformations, symbolic systems conjure the illusion of a flawless cosmic architecture. For the general public, this myth becomes unassailable. Almost nobody derives the tensor field equations from scratch; people accept the Big Bang and four-dimensional spacetime as established truth simply because academic authority sanctions it. Yet, as detailed in [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/), institutional consensus is merely a low-dimensional clearing price; even among theoretical physicists, different camps interpret the identical mathematical apparatus in wildly incompatible ways.
 
