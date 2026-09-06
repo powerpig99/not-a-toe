@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-06T05:58:55.518Z",
+    "generated_at": "2026-09-06T07:26:37.730Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -211,7 +211,7 @@
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
       "content/posts/the-illusion-of-free-intelligence.md": "8f950998246e",
-      "content/posts/the-illusion-of-the-shared-sandbox.md": "d170e219abed",
+      "content/posts/the-illusion-of-the-shared-sandbox.md": "c888968001f6",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "20cc20e40f0b",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
@@ -266,6 +266,7 @@
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "1ebeb38ad32d",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
+      "content/posts/the-twin-paradox-and-the-hidden-observer.md": "224bb8850078",
       "content/posts/the-unclosable-trace.md": "a8f077c9838b",
       "content/posts/the-unobservable-driver-of-learning.md": "1f564c8f6c1b",
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
@@ -275,7 +276,7 @@
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
-      "content/posts/time-is-causality-not-a-dimension.md": "74376219b8c9",
+      "content/posts/time-is-causality-not-a-dimension.md": "9973776838f8",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "fa4776e65544",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "0fa862a77e62",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "0f303e612d16",
@@ -307,13 +308,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 297,
-      "edges": 2936,
-      "unique_directed": 2867,
+      "posts": 298,
+      "edges": 2949,
+      "unique_directed": 2874,
       "missing_targets": 0,
-      "one_way": 667,
+      "one_way": 672,
       "isolated": 37,
-      "posts_with_outbound": 242
+      "posts_with_outbound": 243
     }
   },
   "hubs_in": [
@@ -350,12 +351,12 @@
       "in_degree": 38
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "causality-all-the-way",
       "in_degree": 31
     },
     {
-      "slug": "causality-all-the-way",
-      "in_degree": 30
+      "slug": "the-model-never-becomes-a-second-edge",
+      "in_degree": 31
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -808,7 +809,7 @@
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
       "hash": "9344804c6770",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -865,7 +866,7 @@
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
       "hash": "e3ffc8e7b02f",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 7,
       "links_out": [
         "dimensions-are-projections",
@@ -1403,7 +1404,7 @@
       "path": "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md",
       "title": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog",
       "hash": "bc0a82323095",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 2,
       "links_out": [
         "the-continuum-is-a-modeling-convenience",
@@ -1430,7 +1431,7 @@
       "path": "content/posts/dimensions-are-projections.md",
       "title": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence",
       "hash": "178227b1b83c",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "not-a-toe-rewrite",
@@ -4936,8 +4937,8 @@
       "slug": "the-illusion-of-the-shared-sandbox",
       "path": "content/posts/the-illusion-of-the-shared-sandbox.md",
       "title": "共享沙盒的幻象：内心世界、压缩与定义的陷阱 / The Illusion of the Shared Sandbox: Interiority, Compression, and the Trap of Definition",
-      "hash": "d170e219abed",
-      "in_degree": 1,
+      "hash": "c888968001f6",
+      "in_degree": 2,
       "out_degree": 6,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -6110,6 +6111,24 @@
       "links_out": []
     },
     {
+      "id": "post:the-twin-paradox-and-the-hidden-observer",
+      "kind": "post",
+      "slug": "the-twin-paradox-and-the-hidden-observer",
+      "path": "content/posts/the-twin-paradox-and-the-hidden-observer.md",
+      "title": "双生子佯谬与隐秘观察者：静态宇宙模型如何制造时间膨胀 / The Twin Paradox and the Hidden Observer: How the Frozen Universe Model Manufactures Time Dilation",
+      "hash": "224bb8850078",
+      "in_degree": 1,
+      "out_degree": 6,
+      "links_out": [
+        "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "the-illusion-of-the-shared-sandbox",
+        "dimensions-are-projections",
+        "demanding-a-toe-freezes-time-into-a-catalog",
+        "time-is-causality-not-a-dimension",
+        "causality-all-the-way"
+      ]
+    },
+    {
       "id": "post:the-unclosable-trace",
       "kind": "post",
       "slug": "the-unclosable-trace",
@@ -6253,15 +6272,16 @@
       "slug": "time-is-causality-not-a-dimension",
       "path": "content/posts/time-is-causality-not-a-dimension.md",
       "title": "Time Is the Irreversible Direction and Discrete Step of Causality",
-      "hash": "74376219b8c9",
-      "in_degree": 5,
-      "out_degree": 6,
+      "hash": "9973776838f8",
+      "in_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "dimensions-are-projections",
         "the-geometry-of-emergence",
         "individual-choices-as-the-only-causal-levers",
         "the-bank-shot-and-the-magic-trick",
         "the-boundary-of-the-frame",
+        "the-twin-paradox-and-the-hidden-observer",
         "causality-all-the-way"
       ]
     },
@@ -19107,7 +19127,7 @@
       "from": "the-illusion-of-the-shared-sandbox",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "Po Chu Gai Nian De Jian Yue"
+      "label": "Overcoming the Usurpation of Concepts"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
@@ -22356,6 +22376,78 @@
       "label": "The Geometry of Emergence"
     },
     {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "因果是不可约的先验，物理是没有视角的视角"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "共享沙盒的幻象"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "Causality is Irreducible, the Physical is a View from Nowhere"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "The Illusion of the Shared Sandbox"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "维度即投影"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "索要终极理论是将时间冻结为静态目录"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "Dimensions Are Projections"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "Demanding a TOE Freezes Time into a Catalog"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "时间是因果的方向与离散步长"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
       "from": "the-unclosable-trace",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
@@ -22792,6 +22884,12 @@
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
       "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "The Twin Paradox and the Hidden Observer"
     },
     {
       "from": "time-is-causality-not-a-dimension",
