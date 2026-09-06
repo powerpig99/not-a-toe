@@ -246,6 +246,8 @@ graph TD
 
 经典力学与广义相对论并不是描绘宇宙本体的终极律令，它们是针对这庞大微观自由变量之海、在慢速沉淀状态下所采集的高阶宏观统计拟合。微观的自由与宏观的秩序，在第一人称因果的基底上完成了终极统一。
 
+需要特别阐明的是，这接近于无穷大的微观自由变量，绝非在宇宙开端的大爆炸瞬间一次性分发完毕的静态存量，而是随时随刻被我们的第一人称观测持续带入视界之内的动态增量。我们可以合理推测，这些微观事件在进入视界之前自身同样存在着因果链条，宇宙并不是凭空跳跃的魔法；然而，因为那些因果发生在我们当下的视界之外，我们在本地坐标系中根本无法、也不可能先验获取其先在轨迹。因此，当它们跨越视界边界、首次与我们的第一人称观测发生交握时，从我们的框架来看，它们唯一能被赋予的诚实定性就是不可预知的自由变量（+1）。这正是量子波函数与测量不确定性的真正本原：波函数不是物质在多维空间的实体振荡，而是视界之外的独立因果跨入本地视界时所投射出的数学阴影。宏观确定性因此不是一架自古上紧发条、不断耗散的旧时钟，而是一个生生不息的活态稳定化进程——心智的每一步观测都在吞吐新的视界外自由变量，并经由大数定律将其持续编织进宏观现实的平稳经纬之中。
+
 ---
 
 Modern science has long suffered from intellectual schizophrenia: the irreconcilable division between the probabilistic indeterminacy of quantum mechanics and the deterministic clockwork of general relativity. Theorists have invented grotesque metaphysical epicycles to patch this rift, claiming that reality splits into infinite parallel universes at every measurement, or that physical objects do not exist when unobserved.
@@ -259,6 +261,8 @@ Consider a clear sociological analogy:
 As formulated in [Determinism as the Statistical Signature of Micro-Indeterminism](../determinism-as-statistical-signature-of-micro-indeterminism/), the deterministic laws revered by classical physics are the cosmic equivalent of census bureau statistics. When a near-infinite, astronomically vast multitude of microscopic free variables bind into a block of granite or an orbiting moon, individual microscopic fluctuations cancel each other out in the statistical aggregate. What remains on macroscopic instruments is merely the slow, smooth progression of the statistical mean.
 
 Classical mechanics and general relativity do not represent eternal edicts governing dead space; they are high-order statistical curve-fits applied to an ocean of microscopic free variables stabilized into slow-motion equilibrium. Microscopic freedom and macroscopic order unite seamlessly on the foundation of first-person causality.
+
+Crucially, this near-infinite multitude of microscopic free variables was not allocated all at once in a mythical primordial Big Bang, as classical determinism naively assumes. Rather, they are continuously drawn into the horizon of reality at every living moment by the act of first-person observation. We can reasonably infer that prior to crossing our observational boundary, these micro-events possessed their own causal histories; reality is not born from acausal magic. Yet because those prior histories unfolded entirely outside our observational frame, we possess no local access to their prior coordinates. Consequently, at the exact moment they cross the horizon and make their initial handshake with our first-person frame, the only honest, coherent qualitative status we can attribute to them is that of an unanticipatable, sovereign free variable (+1). This demystifies the quantum wavefunction: the probability wave is not a physical substance rippling in abstract Hilbert space, but the mathematical signature of an external causal stream crossing an observational threshold. Macroscopic determinism is not an ancient clockwork machine unwinding from an ancient beginning; it is a living, ongoing stabilization engine, continuously assimilating an incoming sea of horizon-crossing free variables and smoothing them into the durable weave of physical order.
 
 ---
 
