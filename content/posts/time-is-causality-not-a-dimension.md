@@ -102,7 +102,7 @@ The catastrophic confusion occurs when the operational coordinate grid is mistak
 
 This reification produces a cascade of metaphysical absurdities:
 
-* **The Block Universe Illusion**: Physicists declare that since spacetime is a four-dimensional geometric block, "the passage of time is a stubborn illusion," and all moments are equally real. This mistakes an engineered mathematical map for the living ground of reality;
+* **The Block Universe Illusion**: Physicists declare that since spacetime is a four-dimensional geometric block, "the passage of time is a stubborn illusion," and all moments are equally real. This mistakes an engineered mathematical map for the living ground of reality, manufacturing the apparent asymmetry deconstructed in [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/);
 * **Time Travel Paradoxes**: Theorists spend decades debating whether one could build a closed timelike curve to travel back in time and prevent their own birth. Such paradoxes are mathematical artifacts of treating a coordinate line as a physical highway. You cannot travel to yesterday because "yesterday" is not a physical location in space; it was a previous state of the entire universe that has been irreversibly overwritten by subsequent causal interactions;
 * **Time-Reversal Symmetry**: Because differential equations appear mathematically symmetric under the inversion of *t* → -*t*, physicists have spent a century puzzled by the arrow of time. They mistook the mathematical coordinate for physical reality. Equations on paper can run in both directions; actual causal state transitions cannot. Irreversibility is the necessary condition for causality to function at all;
 
