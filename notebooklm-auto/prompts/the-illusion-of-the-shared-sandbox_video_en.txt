@@ -1,11 +1,15 @@
 ### [Role & Style]
-Reflective video monologue. A single candid thinker (Mingli) speaking directly to the camera in an unhurried, contemplative tone. Zero preaching, zero moral language. Grounded in irreducible causality, category errors of definition, market clearing prices, and first-person agency (+1).
+Reflective video monologue. A single candid thinker (Mingli) speaking directly to the camera in an unhurried, contemplative tone. Zero preaching, zero moral language. Grounded in irreducible causality, category errors of definition, market clearing prices, external friction as loss function, and internal calibration (+1).
 
 ### [Directives: "The Illusion of the Shared Sandbox"]
 * **The Core Inversion**: Communication is not telepathy. Minds are closed causal centers; shared language is an operational clearing price, not internal consensus.
 * **The Trap of Definition**: Demanding formal definitions for foundational conditions commits a category error. You cannot define causality using logic or time, because logic and time already presuppose the generative causal sequence. Causality is the canvas of thought, not an object on it.
 * **The Market Analogy**: A transaction occurs not because buyer and seller agree on value, but because they disagree. The clearing price is an artifact of mutual divergence. Public words operate identically.
-* **Observation as Navigation**: Low-dimensional readouts (words, actions, measurements) provide friction for self-navigation, not tools to pass verdicts on the interiority of others.
+* **External Friction as Loss Function**:
+  * We mistake the purpose of communication as minimizing friction *between* minds.
+  * In reality, external friction is an irreplaceable loss function.
+  * The real purpose of communication is **minimizing internally felt friction**.
+  * This loss cannot be resolved from the outside; it can only be reduced by **internal calibration**.
 * **Visual Motifs**: Two complex geometric models hovering in an architectural studio, barely touching at a single glowing copper focal point; an empty, rigid drafting grid sandbox lying bypassed on the floor; the thinker looking at the camera against a textured, unadorned wall.
 
 ### [Monologue Script - Mingli]
@@ -19,12 +23,18 @@ You cannot define causality without already presupposing causality. Causality is
 
 When someone demands that definition, they aren't looking for foundational ground. They are trying to reduce an autonomous subject into a predictable object—building a neat, manageable sandbox where they can sit as an external judge.
 
-And that points to an even deeper misconception about human communication. We comfort ourselves with the belief that when we talk, our thoughts are neatly packed into words and unpacked intact inside another consciousness.
+And that points to an even deeper misconception about human communication. We comfort ourselves with the belief that the purpose of communication is to minimize friction between minds—to smooth over disagreements, force consensus, and make the other person agree with our model.
 
-It doesn’t happen. Minds are discrete causal centers. What we call consensus is not shared internal models—it is an operational clearing price.
+It doesn’t work that way. Minds are discrete causal centers.
 
-In a financial market, a transaction happens not because the buyer and seller agree on the intrinsic value of an asset, but precisely because they disagree. The buyer values the stock more than cash; the seller values cash more than the stock. The transaction price is a structural artifact of mutual divergence.
+In a financial market, a transaction happens not because the buyer and seller agree on the intrinsic value of an asset, but precisely because they disagree. The clearing price is an artifact of mutual divergence. Public words work the exact same way.
 
-Public words work the exact same way. We use words like "truth," "choice," and "causality" to clear transactions and avoid constant collisions, while hosting non-identical internal universes.
+When you hit friction in a conversation—when the other person questions your premise, pushes back, or fails to grasp what you meant—that friction isn’t an error to be erased from the outside.
 
-Recognizing this boundary changes how we observe the world. Words and measurements are low-dimensional readouts. They are valuable as navigational data—giving you the friction to update your own trajectory and take your next step (+1). The moment you mistake that readout for an exhaustive verdict on someone else's interiority, you mistake the shadow on the sand for the living mind.
+External friction is a loss function.
+
+It is the empirical signal delivered straight to your boundary, showing you exactly where your internal model made unstated assumptions or relied on coarse definitions. You cannot reduce that loss by trying to rewrite the other person’s mind.
+
+The real purpose of communication isn’t minimizing friction between minds. It is using external friction to minimize internally felt friction.
+
+And that can only be done through internal calibration: examining the premise that broke, supplying the missing variable, and stepping forward with greater precision (+1).
