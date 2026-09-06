@@ -153,6 +153,8 @@ graph TD
 
 所谓的“物质实体”，不过是宇宙向内折叠之后，被困在低速时间中的引力化石；而“可见性”，则是高速奔涌的心智投射在超慢速褶皱上的感知明暗度。
 
+在此必须指出，这些构成慢速褶皱的微观要素，绝非在宇宙初始被一次性定格的机械零件。它们是在每一个当下，随着第一人称观测前沿的推进，被源源不断地带入视界之内。在进入视界之前，它们同样运行在宇宙总体的因果之网中；但正因其先在历史处于我们视界之外，当它们首次撞上我们的感知界面时，从第一人称视角出发，我们唯一能做出的诚实定性就是：它们是不可预知的自由变量（+1）。然而，一旦它们跨入视界，便迅速与我们周围已有的稳定关系锁闭在一起，在极高频的微观自旋中被大数定律平滑为低速的宏观确定性。我们所见的每一样物体，既是视界外自由变量持续涌入的终点，也是宏观因果得以借力前行的起点。
+
 ---
 
 This understanding provides an elegant ontological resolution to two of the deepest enigmas of physics: the tactile solidity of matter and the origin of classical determinism.
@@ -171,6 +173,8 @@ Consider a slab of granite resting on the earth:
 This massive velocity deficit manifests in perception as **Informational Surplus**. When the perceptual apparatus confirms countless times that a relational topology has not budged, it compiles that static temporal redundancy into the sensations of **tactile solidity**, **durable permanence**, and **clockwork mechanical determinism**.
 
 Physical matter is nothing other than dynamic energy caught in slow-motion relational loops—a temporal fossil of deep time. Visibility is the high-contrast perceptual shadow cast by a high-frequency mind against an ultra-slow fold.
+
+Furthermore, these microscopic elements that compose slow-motion folds were not fixed once and for all at the beginning of time. Rather, they are continuously drawn across the observational horizon in real time as the first-person vantage moves forward. Prior to crossing this threshold, they operated within the universe's broader causal web; yet because their prior histories unfolded outside our observational frame, the only honest qualitative status we can assign to them upon their initial arrival is that of an indeterminate free variable (+1). Once inside, they swiftly entangle with the existing relational fabric, smoothed by the Law of Large Numbers into slow-motion macroscopic stability. Every visible object is thus both the resting terminal of newly assimilated horizon-crossing variables and the stable fulcrum from which living action launches forward.
 
 ---
 
