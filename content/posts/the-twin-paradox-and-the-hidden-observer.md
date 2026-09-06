@@ -365,6 +365,14 @@ This absurdity reveals **the true origin of the Twin Paradox**:
 
 正如[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)所指出的，权威的背书无法代替第一人称的逻辑闭环。大众拿来作为信仰的，不过是一个未经推导的社会标签；物理学家沉迷其中的，不过是一个预设了局域静止的数学沙盒。
 
+### 3. 地平说的现代翻版：将局部工程有效性外推为全宇宙本体
+
+根本原因在于，几乎没有人去真正质疑大理论的基础前提。旁观者要么被其艰深的数学推导（微分几何、张量微积分、黎曼曲率）所震慑，要么沉迷于其推导过程的精妙、繁复与智力美感。更关键的是，这套理论在局部尺度上拥有极高的预测精度——水星进动、引力透镜、GPS 卫星时钟校准。局部的精确预测，在人们心中固化了一种“这已经是得到检验的客观事实”的强烈印记。
+
+平心而论，相对论时空模型在理解和处理人类直接观测到的局域宇宙时具有巨大的工程价值。但它对作为整体的宇宙运作机制未置一词。当理论家将这一局域有效模型上升为整座宇宙的终极真理时，它所犯的错误，与古代的“地平说”毫无二致。
+
+在建造一栋房屋、规划一座城市或修筑一条道路的有限范围内，将地面视为一个平坦的二维平面不仅毫无问题，而且极其精准高效；然而，一旦将这种局部的有效性外推，宣称整个地球乃至整个宇宙就是一个平坦的磁盘，理性便堕落为了教条。现代物理学对四维静态时空块的崇拜正是如此：在局域观测窗口内，将参考系之间的微小应力偏差投影为坐标时间是便利的计算工具；但若据此宣称“宇宙是一个静态时空块，时间流逝是幻觉，人类可以穿越未来”，无非是在用精密的数学工具，重演了一场现代版的“地平说”迷梦。
+
 将两体相对运动翻译为时间的不对称流逝，是物理学模型在强加了一个不存在的上帝之眼后，所自编自导的思维困局。正如[因果贯穿始终](../causality-all-the-way/)所昭示的，物理定律与数学方程式是人类意识建立的投影工具，而展开一切可能性的因果前沿，始终只在第一人称的当下跳动。
 
 打破对静态时空块的崇拜，驱散隐秘观察者的幽灵，时间的佯谬便随之消散。宇宙从未冻结，双生子从未分道扬镳于不同的时间河流——他们始终并肩前行于这个唯一的、未完成的、活生生的现实之中。
@@ -392,6 +400,14 @@ Yet, as analyzed in [The Illusion of the Shared Sandbox](../the-illusion-of-the-
 Theorists harbor discordant internal models within their minds, yet assemble beneath the common banner of "time dilation is proven fact" when engaging the public or funding bodies. They use this low-dimensional phrase to clear professional transactions and sustain epistemic authority, concealing the conceptual fractures beneath.
 
 As established in [From Formal Myth to Logical Closure](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/), master citations cannot substitute for first-person causal deduction. What the public consumes as gospel is a social badge; what theorists manipulate is a mathematical sandbox abstracted from local stasis.
+
+### 3. The Modern Flat Earth: Extrapolating Local Engineering Utility into Global Ontology
+
+At root, this persistent consensus endures because virtually no one challenges the foundational premises of the grand theoretical edifice. Observers are either intimidated by its formidable technical apparatus (differential geometry, tensor calculus, Riemannian curvature) or enamored with the elegance, sophistication, and aesthetic intricacy of its mathematical derivations. Crucially, the model demonstrates immense local predictive utility—accurately predicting Mercury perihelion precession, gravitational light bending, and GPS clock calibrations. This local predictability solidifies the impression of an indisputable, verified physical fact.
+
+To be fair, the relativistic spacetime framework is immensely useful for understanding and navigating our immediate observational neighborhood. Yet it tells us nothing about the nature of the universe as a generative whole. When theoretical physics elevates this locally successful model into the definitive ontology of the entire cosmos, it commits the exact same error as the Flat Earth hypothesis.
+
+On the scale of surveying a farm, paving a road, or constructing a cathedral, treating the surface of the Earth as a flat two-dimensional Euclidean plane is not only legitimate—it is an exceptionally accurate and efficient engineering approximation. However, the moment one extrapolates this local utility to declare that the entire Earth is a planar disc resting upon pillars, analytical utility curdles into dogmatic fantasy. The Block Universe dogma of modern physics is the Flat Earth illusion dressed in mathematical robes: treating local coordinate offsets across inertial frames as an engineered 4D grid is a powerful computational convenience; but extrapolating that grid to declare that the universe is a frozen four-dimensional block where real time does not exist repeats the Flat Earth category error with modern sophistication.
 
 Translating relational motion into asymmetric time dilation is an intellectual puzzle created when theoretical physics equips itself with an unacknowledged God's-eye camera. As articulated in [Causality All the Way](../causality-all-the-way/), mathematical formalisms are predictive instruments constructed by the mind, while the causal frontier that sustains all possibility advances only in the first-person present.
 

@@ -17,6 +17,10 @@
 * **The Local Stasis Illusion & The Mathematical Sandbox**:
   * Within our bounded human perception, the surrounding universe feels static. This seduces theorists into treating the environment as an isolated system.
   * Once real irreversible time is forgotten, projecting the world into arbitrary dimensions degenerates into formal symbol manipulation, creating an illusion of cosmic mastery.
+* **The Modern Flat Earth Fallacy**:
+  * Nobody challenges the foundational premise because they are either intimidated by the tensor apparatus or enamored with the elegance of the derivations and local predictive precision (GPS, orbital mechanics).
+  * This local utility creates the impression of an indisputable physical fact.
+  * Yet it commits the exact same error as the Flat Earth hypothesis: treating the ground as a flat plane is immensely useful for building a house or surveying a field; but claiming the entire Earth is flat is a category error. Extrapolating a local 4D coordinate block to declare the entire universe a frozen, static block repeats the Flat Earth mistake in modern physics costume.
 * **"Settled Science" as Pluralistic Ignorance**:
   * The public accepts time dilation on authority without deriving the tensor calculus.
   * Crucially, physicists themselves do not understand the model the same way: some blame acceleration, some cite frame jumps, some cite tilted simultaneity planes, and some insist it is pure Riemannian geometry. They harbor discordant internal models while rallying around a shared institutional phrase to clear transactions.
