@@ -1,12 +1,12 @@
 # 黑白采样帧与外推宇宙：物理学如何冻结现实电影并将投影命名为宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe: How Physics Froze the Movie of Reality and Named the Projection the Cosmos
 
-*现实是正在实时向前播放的高动态影像，物理学却截取了其中一个静止切片，将其脱色为极度抽象的黑白网格，再将这一采样帧反向挤压至单点、正向稀释至虚无，并将整个四维数学挤压体误认作真实宇宙。 / Reality is a continuous HDR movie advancing in real time, yet physics freezes an instantaneous slice, desaturates it into an abstract black-and-white grid, squeezes it backward to a single point, dilutes it forward to void, and mistakes the entire four-dimensional mathematical extrusion for the physical cosmos.*
+*现实是正在实时向前播放的高动态影像，物理学通过采集极短时间内的相邻帧并进行平滑平均，将这张高度稳定的平均帧当作封闭宇宙并脱色为黑白网格；正因这种不变性在局部即时成立，理论的局部预测才惊人准确，但将局部平均帧外推为四维永恒块，则犯下了现代地平说范畴倒错。 / Reality is a continuous HDR movie advancing in real time. Physics collects its most adjacent frames over an infinitesimal window, averages them out into a stable composite frame, treats it as a closed universe, and desaturates it into an abstract black-and-white grid. Because this invariance holds in the immediate local region, its near-term forecasts are surprisingly accurate—yet extrapolating this time-averaged slice across cosmic infinity commits the modern Flat Earth category error.*
 
 ---
 
 ## 一、 瞬时不变性与静态宇宙的诱惑 / 1. The Illusion of Instantaneous Invariance and the Static Temptation
 
-在人类极为受限的观测视界内部，宇宙呈现出一种高度稳定的静止感。恒星在夜空中的位置似乎恒定不移，行星沿既定轨道周而复始，重力加速度在日常尺度下保持平稳。在微小的观测时间窗口（Δt 趋近于 0）内，现实变动极其微弱，以至于感知系统自然而然地将眼前的世界当作一个自足、封闭且孤立的平衡系统。
+在人类极为受限的观测视界内部，宇宙呈现出一种高度稳定的静止感。恒星在夜空中的位置似乎恒定不移，行星沿既定轨道周而复始，重力加速度在日常尺度下保持平稳。在微小的观测时间窗口（Δt 趋近于 0）内，任何实际的科学仪器都必须通过一定的曝光时间来捕获信号——物理学实际上采集的是现实电影中最相邻的若干帧。因为这段时间极其短暂，画面在相邻帧之间保持着高度的相对稳定，感知系统自然而然地将眼前的世界当作一个自足、封闭且孤立的平衡系统。
 
 这种即时感知的局部不变性，诱发了理论物理学历史上最隐蔽的范畴跳跃：如果系统在局部微小时间段内表现得如同静态孤立系统，数学家便顺理成章地将真实的不可逆时间从方程中抽离。一旦排除了真实的因果流动，将现实截取为一个静态切片，任何数学维度的投影操作便都能在纸面上畅通无阻地展开。
 
@@ -36,7 +36,7 @@ graph TD
 
 ---
 
-Within our severely limited observational window, the cosmos exhibits a powerful illusion of stability. The stars appear fixed in the night sky, planets cycle through predictable orbits, and gravitational acceleration remains steady at human scales. Over an infinitesimal baseline (Δt approaching 0), physical change appears so slow that human perception naturally treats the immediate environment as a self-contained, closed, and static equilibrium system.
+Within our severely limited observational window, the cosmos exhibits a powerful illusion of stability. The stars appear fixed in the night sky, planets cycle through predictable orbits, and gravitational acceleration remains steady at human scales. Over an infinitesimal baseline (Δt approaching 0), any real scientific instrument requires a finite exposure window to capture signals—physics effectively collects the most adjacent frames of the living movie. Because this exposure interval is exceedingly brief, the image remains relatively stable across these immediate frames, and human perception naturally treats the local environment as a self-contained, closed, and static equilibrium system.
 
 This felt invariance of immediate perception invites the most insidious category jump in theoretical physics: because the local environment behaves like a static, isolated box over brief intervals, mathematicians casually strip irreversible physical time out of their equations. Once living causality is removed and reality is reduced to a frozen slice, arbitrary dimensional projections become child's play on paper.
 
@@ -48,33 +48,37 @@ As demonstrated in [The Twin Paradox and the Hidden Observer](../the-twin-parado
 
 现实不是一件陈列在玻璃展柜中的几何标本。在真实的生活与物理过程中，世界是一部正在实时向前播放的高动态范围（HDR）电影。每一刻的到来都伴随着不可逆的热力学消耗、代谢应力与新的因果区分（+1）。过去已经沉淀为确定的因果痕迹，未来尚未发生，唯有正在显现的当下拥有本体论上的真实性。
 
-然而，理论物理学的建模过程却执行了一场极其激进的降维剥离。它暂停了这部色彩丰富、生机勃勃的电影，截取了其中唯一的一帧静止画面。随后，为了使这一帧画面能够被微积分与线性代数所处理，它将画面中所有鲜活的色彩、非线性的涨落与主体性的代谢流动抽干，将其脱色为极度抽象的黑白几何网格。
+然而，理论物理学的建模过程却执行了一场极其激进的降维剥离。它收集了这部正在播放的电影中最相邻的若干帧画面，由于时间尺度极短，画面呈现出高度的平稳性。物理学随即执行了一次关键的平均化操作：它将这些相邻帧进行统计平滑，抹平所有微观的动态涨落与生机起伏，熔炼成一张高度稳定的“平均帧”。
+
+紧接着，物理学把这一张平均帧设定为一个自足、孤立的“封闭宇宙”。为了使这一帧画面能够被微积分与线性代数所处理，它进一步将画面中所有鲜活的色彩、主观体验与主体性的代谢流动抽干，将其脱色为极度抽象的黑白几何网格。
 
 ```mermaid
 graph LR
     subgraph LivingMovie["【正在播放的高动态现实 / The Continuous HDR Movie】"]
         HDR["实时向前演进的现实电影<br>Continuous Living Reality<br>Full dynamic range; irreversible metabolic flow"]
-        CausalAdvance["因果动作持续推进 +1<br>Irreversible Causal Advance<br>Past is settled trace; future is unwritten potential"]
-        HDR --> CausalAdvance
+        AdjacentFrames["采集相邻帧 Δt 极短<br>Collecting Adjacent Frames<br>Short exposure keeps scene relatively stable"]
+        HDR --> AdjacentFrames
     end
 
-    subgraph FreezeAndDesaturate["【剥离与黑白化操作 / Freezing & Desaturation】"]
-        SingleFrame["截取单一瞬时静态切片<br>Single Instantaneous Freeze<br>Halting the movie at the present snapshot"]
-        Desaturate["脱色为黑白抽象网格<br>Desaturating to Abstract Grid<br>Stripping living color, metabolic cost, and consciousness"]
-        SingleFrame --> Desaturate
+    subgraph AveragingAndDesaturate["【平滑平均与黑白脱色 / Averaging & Desaturation】"]
+        AverageFrame["相邻帧平均化为复合稳定帧<br>Averaged Composite Frame<br>Smoothing micro-fluctuations into steady state"]
+        ClosedUniverse["假定为孤立的封闭宇宙<br>Treated as Closed Universe<br>Assuming local steadiness applies to totality"]
+        Desaturate["脱色为黑白抽象网格<br>Desaturating to Abstract Grid<br>Stripping color, consciousness, and metabolic cost"]
+        AverageFrame --> ClosedUniverse
+        ClosedUniverse --> Desaturate
     end
 
     subgraph ExtrudedIllusion["【无限外推的几何假象 / The Extruded Geometric Fiction】"]
-        ExtrudeTo4D["将黑白帧挤压为四维几何体<br>Extruding the Slide into 4D<br>Treating arbitrary curves as actual physical timelines"]
-        ClaimTrueUniverse["宣称外推体才是真实宇宙<br>Claiming Extrusion is Real Cosmos<br>Declaring the living movie to be an illusion of mind"]
+        ExtrudeTo4D["将黑白平均帧挤压为四维几何体<br>Extruding the Slide into 4D<br>Treating arbitrary curves as physical timelines"]
+        ClaimTrueUniverse["宣称外推体才是真实宇宙<br>Claiming Extrusion is Real Cosmos<br>Declaring living movie to be an illusion"]
         ExtrudeTo4D --> ClaimTrueUniverse
     end
 
-    CausalAdvance ==>|"激进降维：截停流动并抽干生机<br>Radical Reduction: Halting flow and stripping life"| SingleFrame
-    Desaturate ==>|"反客为主：将静态样本投射为无限时空<br>Inversion: Projecting static sample across infinity"| ExtrudeTo4D
+    AdjacentFrames ==>|"平均化与孤立封闭假设<br>Averaging & Isolation Assumption"| AverageFrame
+    Desaturate ==>|"反客为主：将平均采样帧投射至无限<br>Inversion: Extrapolating averaged slide to infinity"| ExtrudeTo4D
 
     style LivingMovie fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
-    style FreezeAndDesaturate fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+    style AveragingAndDesaturate fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
     style ExtrudedIllusion fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
 ```
 
@@ -86,7 +90,9 @@ graph LR
 
 Reality is not an inert geometric artifact displayed in a glass museum case. In lived experience and physical action, the universe is a high dynamic range (HDR) movie playing forward in real time. Every tick of the clock brings irreversible thermodynamic dissipation, metabolic stress, and the injection of a novel causal distinction (+1). The past exists only as settled residue; the future is unwritten potential; only the unfolding present possesses ontological reality.
 
-Yet theoretical physics begins its modeling through a violent act of reduction. It halts this vivid, living movie and extracts a single frozen frame. Then, to make this static frame amenable to differential calculus and linear algebra, it strips away the vibrant colors, non-linear fluctuations, and metabolic costs of conscious life, desaturating the frame into an abstract, black-and-white coordinate grid.
+Yet theoretical physics begins its modeling through a violent act of reduction. It collects the most adjacent frames of this unfolding movie over an infinitesimal exposure window. Because the interval is so brief, the scene appears remarkably stable. Physics then performs a decisive averaging operation: it smooths across these adjacent frames, averaging out micro-fluctuations, living flickers, and metabolic noise into a single, highly stable composite "average frame."
+
+Physics then takes this time-averaged frame and treats it as an isolated, self-contained "closed universe." To make this static construct amenable to differential calculus and linear algebra, it strips away the vibrant colors, conscious experience, and metabolic costs of living action, desaturating the averaged frame into an abstract, black-and-white coordinate grid.
 
 On this desaturated sample slide, nothing remains except geometric points, coordinate axes, and numerical vectors. Even worse, theoretical physics does not stop at describing this single frozen slice. It takes this desaturated slide, extrudes it along a fictional temporal axis backward and forward into infinity, and declares that this mathematical extrusion represents the true cosmos.
 
@@ -100,7 +106,11 @@ As articulated in [Time is Causality, Not a Dimension](../time-is-causality-not-
 
 一旦把现实冻结在这一张黑白采样帧上，物理学家便拥有了一个确定、封闭的形式系统。在这一张平整的数学底片上，微积分、群论与微分几何展现出了无与伦比的计算威力。理论家能够对这一采样帧内部的每一个像素进行编号、测距，并写下令人叹为观止的对称性方程。从广义相对论对水星近日点进动的微小修正，到量子电动力学对电子反常磁矩多达十二位有效数字的预测，这种在局部采样帧内部对像素属性的精准解构，带来了无与伦比的智力震撼。
 
-需要指出的是，这一黑白残留之所以能够被极其精密地数学建模，其根本原因在于：画面中的每一个像素与结构，都是过去因果动作沉淀下来的物理痕迹。它们之间存在着需要经过真实不可逆时间才能够形成的因果关联。正因为这些残留痕迹记录了已经发生且趋于稳定的历史因果序列，数学模型才能够对其展开高度精密的近似与拟合。然而，这种令人赞叹的精确度，本质上是对已经沉淀的局部历史数据的高阶拟合，根本不是对活生生宇宙的全局精确描述。将针对过去残留痕迹的局部拟合，误认为是统摄全部时空的先验定律，正是理论物理学最深层的过拟合陷阱。
+需要指出的是，这一黑白残留之所以能够被极其精密地数学建模，其根本原因在于：画面中的每一个像素与结构，都是过去因果动作在时间中沉淀下来的物理痕迹。它们之间存在着需要经过真实不可逆时间才能够形成的因果关联。
+
+正因为这些相邻帧采集并平均出来的物理痕迹，忠实记录了已经发生且高度稳定的局部因果序列，这种不变性在即时与局部的时空区域内是切实成立的。因此，当理论家把这套建立在平均帧基础上的数学模型应用于近距离、短时期的预测时，其结果展现出惊人的准确度——从日食月食的秒级预报，到卫星导航的时钟同步，模型展现出了无与伦比的拟合威力。
+
+然而，这种令人赞叹的精确度，本质上是对已经沉淀的局部相邻历史数据的高阶拟合，绝非对活生生宇宙的全局精确描述。正因为局部不变性在眼前高度成立、预测在手边屡试不爽，物理学家才更容易陷入深层的诱惑：误将针对局部相邻帧平均值的精确拟合，当作了统摄全宇宙过去与未来的先验客观定律，从而毫无防备地跌入了将局部切面外推为永恒实体的过拟合陷阱。
 
 ```mermaid
 graph TD
@@ -142,7 +152,11 @@ Why has this reduction captured nearly every educated mind for centuries? The an
 
 Once reality is frozen onto this single black-and-white sample slide, physicists possess a closed, predictable formal playground. On this static mathematical negative, calculus, group theory, and differential geometry operate with breathtaking power. Theorists can catalog every pixel, assign it exact spatial coordinates, and write down elegant symmetry equations. From General Relativity's subtle correction to Mercury’s perihelion precession to Quantum Electrodynamics predicting the electron's anomalous magnetic moment to twelve decimal places, the mathematical description of pixel relationships within that frozen frame is undeniably spectacular.
 
-What must be pointed out is that the reason this black-and-white residue can be mathematically modeled with such stunning precision in the first place is that every pixel and feature within the frame is a settled physical trace left behind by past causal actions. Between them lie genuine causal relationships that required irreversible physical time to unfold and stabilize. It is precisely because these settled residues encode already-established historical coherence that mathematical equations can achieve such extraordinary empirical accuracy. Yet this celebrated precision is fundamentally a high-order local fitting over settled historical residue—it is not a global exact description of the living cosmos. Mistaking a local polynomial fit over past fossils for an eternal law governing the living future represents the ultimate overfitting trap of theoretical physics.
+What must be pointed out is that the reason this black-and-white residue can be mathematically modeled with such stunning precision in the first place is that every pixel and feature within the frame is a settled physical trace left behind by past causal actions. Between them lie genuine causal relationships that required irreversible physical time to unfold and stabilize.
+
+Because these settled physical traces—collected and averaged across adjacent frames—faithfully record an already-established and highly stable local causal sequence, this invariance genuinely holds in the immediate local region. Consequently, when theorists apply this model to near-term, local forecasts, the predictions are surprisingly and undeniably accurate: from predicting solar eclipses down to the second to synchronizing atomic clocks on GPS satellites, the model demonstrates breathtaking empirical success.
+
+Yet this celebrated precision is fundamentally a high-order local fitting over settled, time-averaged historical residue—it is not a global exact description of the living cosmos. It is precisely because the local invariance holds so reliably in our immediate neighborhood, and because local forecasts succeed so consistently, that physicists fall into the ultimate intellectual temptation: mistaking a local high-order fit over adjacent frames for an eternal, observer-free law governing the entire universe, and projecting a local time-averaged slice across cosmic infinity.
 
 Nobody dares challenge the premise of the grand theory because minds are either intimidated by or infatuated with the intricate sophistication of its derivations and its local empirical precision. Yet local predictive success tells us nothing about the universe as a living whole. When this local sample frame is crowned as the comprehensive architecture of reality, it commits the identical category error as the Flat Earth.
 
