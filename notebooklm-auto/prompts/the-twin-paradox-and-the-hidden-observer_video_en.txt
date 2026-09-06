@@ -7,6 +7,7 @@ Reflective video monologue. A single candid thinker (Mingli) speaking directly t
 * **The Cosmological Contradiction**: Modern cosmology preaches a dynamic universe born at the Big Bang and dying at Heat Death. Yet General Relativity models spacetime as a static four-dimensional block where all events exist eternally. A static block universe cannot have a beginning, an expansion, or a death.
 * **The Infinite Path Absurdity**: On a static 4D grid, infinite paths connect departure A and reunion B, each yielding a different metric length. The model claims infinite observers could experience infinite different "times" and all arrive at the exact same physical point B. This coordinate game is the generic origin of the Twin Paradox (the toy N = 2 case).
 * **The Local Stasis Illusion**: The universe feels static within our limited human senses, seducing physicists into treating it as an isolated system. Once real time is forgotten, manipulating dimensions on paper creates the intoxicating illusion of cosmic insight.
+* **The Modern Flat Earth Error**: People are intimidated by the math or in love with its local predictability (GPS, perihelion). Treating the Earth as flat is useful for building a house, but claiming the whole Earth is flat is absurd. Extrapolating a local 4D coordinate tool to declare the entire universe a frozen block repeats the Flat Earth mistake.
 * **The Fiction of "Settled Science"**: The public accepts time dilation on faith without derivation. Meanwhile, physicists themselves disagree on the explanation (acceleration vs. three clocks vs. simultaneity planes vs. pure Riemannian geometry), hiding their discordant models behind a shared institutional slogan.
 * **The Handshake in the Living Now**: Clocks are physical oscillators affected by material forces, not time machines. When the twins reunite, their palms touch in the single, indivisible present. Both share a synchronous reality.
 
@@ -41,6 +42,10 @@ That infinite-path absurdity literally is the origin of the Twin Paradox. The te
 Why does this feel so convincing to both physicists and the public?
 Because within our limited senses, the world feels static. We treat our environment as an isolated system, forget about living time, and start manipulating mathematical dimensions on paper.
 As long as the equations are symmetric, it creates the illusion of a perfect model of the universe.
+And to be fair, that model has immense engineering utility. It accurately predicts GPS clock drifts and orbital precessions within our immediate neighborhood.
+But local predictive accuracy doesn't make it the truth of the whole cosmos.
+Treating the ground as a flat plane is immensely useful when you're building a house. But the moment you extrapolate that local flat grid to the entire planet, you invent the Flat Earth dogma.
+Modern physics makes the exact same mistake: taking a locally convenient coordinate tool and declaring that the entire universe is a frozen four-dimensional block where real time does not exist.
 And for the public, almost no one actually derives the tensors. It is taken for granted because it has the stamp of "settled science."
 Yet even among physicists, they don't understand the model the same way. Some claim it's acceleration; some claim acceleration doesn't matter and use three reference frames; some point to simultaneity planes; some say it's pure geometry.
 They hold conflicting internal models, but rally around the same public phrase to preserve institutional authority.
