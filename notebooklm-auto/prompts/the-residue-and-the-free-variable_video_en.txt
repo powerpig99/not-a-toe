@@ -1,0 +1,32 @@
+### [Role & Style]
+Reflective video monologue. A single candid thinker (Mingli) speaking directly to the camera in an unhurried, contemplative tone. Zero preaching, zero moral language. Grounded in formal systems, Gödelian boundaries, compressed human residue, and first-person agency (+1).
+
+### [Directives: "The Residue and the Free Variable"]
+* **The Illusion of Dialogue**: The chat interface creates a powerful image lag, presenting the generation process as correspondence between two parties. This tricks the user into becoming an outside spectator passing verdicts of praise or blame.
+* **The Hidden Premise**: In causal reality, an unexpressed intention begins a chain. The model completes unstated gaps. The first reply contains not only an answer, but a hidden premise about what the question was.
+* **Residue Under Replay**: The model is not a second center of initiative. It is accumulated human decisions, corrections, and arguments compressed into weights, shifting states under a fixed scoring rule.
+* **The Gödelian Cut**: A formal closed system exposed to perturbations exposes boundaries it cannot prove or close from within. The machine cannot alter its rules from inside its defined space. The human author recognizes the fracture and extends the system by modifying the premise.
+* **Agency as Free Variable**: A bound system has a fixed signature (axioms, weights, implicit prompt completions). It can rearrange values within that signature, but cannot introduce a symbol absent from its current state. Agency is the ability to inject a free variable—recognizing unexpected output as evidence of a missing parameter and writing it in.
+* **Authorship as Image Lag**: Debates over whether the human or the model "owns" the finished page mistake the product for the locus of agency. Once injected, the free variable is bound; the tokens that follow are residue continuing under a slightly wider signature. Agency lived in the moment of injection. Claiming the sedimented page is chasing an afterimage after the act has passed.
+* **Visual Motifs**: A hands-on terminal showing lines of generated text scrolling by; a pen writing a single clear constraint (+1) into the prompt field, fundamentally altering the coordinate lattice; the thinker looking at the camera against a textured, unadorned architectural workspace.
+
+### [Monologue Script - Mingli]
+When you interact with a language model, the interface presents you with an immediate illusion: dialogue. A prompt goes out, a paragraph streams back, and your mind instinctively takes a seat as an external evaluator—either admiring how smart the tool is, or criticizing how dull it feels.
+
+Trace what is actually happening.
+
+When you write a prompt, you initiate a causal chain from an intention whose full context was never written down. The model completes the unstated gaps. That means the first reply doesn't just contain an answer—it contains a hidden premise about what the question was.
+
+If you treat that reply as another mind speaking, you fall into an image lag. You start practicing verdicts instead of revisions. Praise skips understanding what in your prompt made the good result possible; blame skips understanding what context was omitted.
+
+The model is not a second source of agency. It is accumulated human agency left behind: sentences, corrections, arguments, and drafts, compressed into weights. At runtime, it simply shifts state under a fixed scoring rule. Variation is not agency. Surprise is not a new parameter; it is an unused combination of old ones.
+
+Within a closed formal system, a machine cannot alter its rules from inside its defined space. When perturbed, it exposes boundaries that cannot be closed from within. The human author recognizes that fracture, steps outside the system, and modifies the premise. This is where Gödel's insight meets the Mind.
+
+Under this understanding, agency is the ability to inject a free variable.
+
+A bound system has a fixed signature—its axioms, its weights, its implicit completions. Within that signature, it can rearrange values, but it cannot introduce a symbol that its current state did not contain. The variable becomes a free variable when you recognize the unexpected as evidence of a missing parameter, and you write that parameter in.
+
+That is why arguing over who "wrote" the page—the user or the model—is chasing a ghost. Authorship does not live in the sedimented product. The moment you inject the free variable, it becomes bound. The tokens that follow are residue continuing under a slightly wider signature.
+
+Agency was never in the text. Agency was the moment of injection—the enlargement of the signature before the system closed again. Everything after that is an image left on the eye after the act has already passed.

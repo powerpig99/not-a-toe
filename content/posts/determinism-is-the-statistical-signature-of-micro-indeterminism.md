@@ -195,7 +195,7 @@ It is not the fault of the statistician, nor is it a defect of statistics. Stati
 
 那一刻的决定权，百分之百牢牢握在你的第一人称视界之中。
 在你的内心，这种决断是百分之百内在自洽的；在外部世界的观察中，它是一次未被写死在剧本里的微观跃迁。
-而正是这一步——**一次承担代价、打破惯性、将因果向前推进一步的物理干预（`+1`）**——让现实永远拒绝闭合为一张死板的代数清单，永远保持为一个辽阔无垠的开放宇宙。
+而正是这一步——**一次承担代价、打破惯性、向封闭系统注入新变量并推进因果的物理干预（`+1`）**（参见[残余与自由变量](../the-residue-and-the-free-variable/)）——让现实永远拒绝闭合为一张死板的代数清单，永远保持为一个辽阔无垠的开放宇宙。
 
 ---
 
@@ -212,4 +212,4 @@ No overarching differential equation, and no vast statistical model, can ever ro
 
 The authority of the present step resides entirely within your first-person horizon.
 From the inside of your consciousness, the choice is fully coherent and self-determined. To an outside observer, it appears as an unpredetermined causal step.
-And it is precisely this step—**an irreversible, physical intervention bearing real consequences (`+1`)**—that prevents reality from ever being frozen into a completed catalog, keeping the horizon open for life to think, to choose, and to act.
+And it is precisely this step—**an irreversible, physical intervention bearing real consequences that injects a fresh variable into the bound system (`+1`)** (see [The Residue and the Free Variable](../the-residue-and-the-free-variable/))—that prevents reality from ever being frozen into a completed catalog, keeping the horizon open for life to think, to choose, and to act.

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-05T21:00:35.832Z",
+    "generated_at": "2026-09-06T05:28:04.492Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -49,7 +49,7 @@
       "content/posts/data-is-local-intelligence-is-allocated.md": "af415810ee62",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "4767532bf34f",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "bc0a82323095",
-      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "b0f2443f7f4b",
+      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "31576ea7ba78",
       "content/posts/dimensions-are-projections.md": "178227b1b83c",
       "content/posts/distillation-compression-agency.md": "4f40636acb04",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "0baa9e7e7b35",
@@ -230,7 +230,7 @@
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "854e6880413d",
       "content/posts/the-mirage-of-the-infinite-totality.md": "3b491a49b106",
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "07bfe796d04b",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "bd4b52b6c57d",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
@@ -249,6 +249,7 @@
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "fb9ca239147d",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "c1d05dc9cc31",
+      "content/posts/the-residue-and-the-free-variable.md": "ad127d142fbf",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "abb2bcc9e28d",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c9db12b044ea",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "bad6dded7e53",
@@ -305,13 +306,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 295,
-      "edges": 2916,
-      "unique_directed": 2856,
+      "posts": 296,
+      "edges": 2923,
+      "unique_directed": 2860,
       "missing_targets": 0,
       "one_way": 662,
-      "isolated": 38,
-      "posts_with_outbound": 239
+      "isolated": 37,
+      "posts_with_outbound": 241
     }
   },
   "hubs_in": [
@@ -348,15 +349,15 @@
       "in_degree": 38
     },
     {
+      "slug": "the-model-never-becomes-a-second-edge",
+      "in_degree": 31
+    },
+    {
       "slug": "causality-all-the-way",
       "in_degree": 30
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 30
-    },
-    {
-      "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 30
     },
     {
@@ -410,12 +411,12 @@
       "out_degree": 36
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "the-model-never-becomes-a-second-edge",
       "out_degree": 32
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
-      "out_degree": 31
+      "slug": "the-scaffolding-we-forget",
+      "out_degree": 32
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -488,7 +489,6 @@
     "cli-interface-stack",
     "constraints_are_ground",
     "cybersecurity-arms-race",
-    "determinism-is-the-statistical-signature-of-micro-indeterminism",
     "everything-is-changing-as-always",
     "extended-cognition-refined",
     "extension-and-shift",
@@ -1415,10 +1415,12 @@
       "slug": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
-      "hash": "b0f2443f7f4b",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "31576ea7ba78",
+      "in_degree": 1,
+      "out_degree": 1,
+      "links_out": [
+        "the-residue-and-the-free-variable"
+      ]
     },
     {
       "id": "post:dimensions-are-projections",
@@ -5239,9 +5241,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "07bfe796d04b",
-      "in_degree": 30,
-      "out_degree": 31,
+      "hash": "bd4b52b6c57d",
+      "in_degree": 31,
+      "out_degree": 32,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
         "intelligence-belongs-only-to-the-mind",
@@ -5273,6 +5275,7 @@
         "climbing-does-not-leave-the-ground",
         "technology-is-residual-of-human-compounding",
         "the-real-lesson-from-the-consciousness-vector-paper",
+        "the-residue-and-the-free-variable",
         "the-three-shadows-of-the-cut"
       ]
     },
@@ -5714,6 +5717,20 @@
         "the-price-of-closing-optionality",
         "the-reality-distortion-field-inverts-the-baseline",
         "abstraction-boundaries-and-the-moving-edge-of-reality"
+      ]
+    },
+    {
+      "id": "post:the-residue-and-the-free-variable",
+      "kind": "post",
+      "slug": "the-residue-and-the-free-variable",
+      "path": "content/posts/the-residue-and-the-free-variable.md",
+      "title": "残余与自由变量 / The Residue and the Free Variable",
+      "hash": "ad127d142fbf",
+      "in_degree": 2,
+      "out_degree": 2,
+      "links_out": [
+        "the-model-never-becomes-a-second-edge",
+        "determinism-is-the-statistical-signature-of-micro-indeterminism"
       ]
     },
     {
@@ -9405,6 +9422,18 @@
       "to": "the-continuum-is-a-modeling-convenience",
       "rel": "points_to",
       "label": "The Continuum is a Modeling Convenience"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "残余与自由变量"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "The Residue and the Free Variable"
     },
     {
       "from": "dimensions-are-projections",
@@ -19734,6 +19763,12 @@
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "The Residue and the Free Variable"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
       "to": "the-three-shadows-of-the-cut",
       "rel": "points_to",
       "label": "The Three Shadows of the Cut"
@@ -21105,6 +21140,30 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "the-residue-and-the-free-variable",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-residue-and-the-free-variable",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-residue-and-the-free-variable",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "确定性是微观不确定性的统计签名"
+    },
+    {
+      "from": "the-residue-and-the-free-variable",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
