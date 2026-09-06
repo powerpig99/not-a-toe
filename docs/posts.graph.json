@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-06T07:26:37.730Z",
+    "generated_at": "2026-09-06T07:31:21.149Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -266,7 +266,7 @@
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "1ebeb38ad32d",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
-      "content/posts/the-twin-paradox-and-the-hidden-observer.md": "224bb8850078",
+      "content/posts/the-twin-paradox-and-the-hidden-observer.md": "c705a2e1b9d5",
       "content/posts/the-unclosable-trace.md": "a8f077c9838b",
       "content/posts/the-unobservable-driver-of-learning.md": "1f564c8f6c1b",
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
@@ -309,10 +309,10 @@
     },
     "stats": {
       "posts": 298,
-      "edges": 2949,
-      "unique_directed": 2874,
+      "edges": 2955,
+      "unique_directed": 2876,
       "missing_targets": 0,
-      "one_way": 672,
+      "one_way": 674,
       "isolated": 37,
       "posts_with_outbound": 243
     }
@@ -332,7 +332,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 50
+      "in_degree": 51
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -1187,7 +1187,7 @@
       "path": "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md",
       "title": "从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制",
       "hash": "5c6e9279a4aa",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 13,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -2749,7 +2749,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "No System Can Be Kept Closed",
       "hash": "cef145eed8ba",
-      "in_degree": 50,
+      "in_degree": 51,
       "out_degree": 36,
       "links_out": [
         "openness-is-consistency",
@@ -6116,15 +6116,17 @@
       "slug": "the-twin-paradox-and-the-hidden-observer",
       "path": "content/posts/the-twin-paradox-and-the-hidden-observer.md",
       "title": "双生子佯谬与隐秘观察者：静态宇宙模型如何制造时间膨胀 / The Twin Paradox and the Hidden Observer: How the Frozen Universe Model Manufactures Time Dilation",
-      "hash": "224bb8850078",
+      "hash": "c705a2e1b9d5",
       "in_degree": 1,
-      "out_degree": 6,
+      "out_degree": 8,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-illusion-of-the-shared-sandbox",
         "dimensions-are-projections",
         "demanding-a-toe-freezes-time-into-a-catalog",
         "time-is-causality-not-a-dimension",
+        "no-system-can-be-kept-closed",
+        "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "causality-all-the-way"
       ]
     },
@@ -22437,9 +22439,45 @@
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能够被保持封闭"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "共享沙盒的幻象"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "从形式迷思到逻辑闭环"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "因果贯穿始终"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "The Illusion of the Shared Sandbox"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "From Formal Myth to Logical Closure"
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
