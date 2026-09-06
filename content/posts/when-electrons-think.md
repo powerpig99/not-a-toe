@@ -208,7 +208,7 @@ Push this logic to the bedrock of microphysics: a single quantum transition is a
 
 现代科学最持久的精神分裂，是量子力学的微观不确定性与爱因斯坦相对论的宏观确定性之间的深刻对立。理论家为此虚构出无数荒诞的解释：有的宣称每一次观测都分裂出一个平行宇宙，有的宣称微观世界根本不存在客观实体。
 
-一旦将微观不确定性还原为第一人称的自由变量，这一矛盾便在瞬间得以消解：**宏观世界的确定性，根本不是凌驾于微观之上的另一种客观物理法则；它是数以万亿计的微观自由变量在漫长时间中稳定结网后，所自然呈现的大数统计规律（Law of Large Numbers）。**
+一旦将微观不确定性还原为第一人称的自由变量，这一矛盾便在瞬间得以消解：**宏观世界的确定性，根本不是凌驾于微观之上的另一种客观物理法则；它是接近于无穷大的微观自由变量在漫长深时中稳定结网后，所自然呈现的大数统计规律（Law of Large Numbers）。**
 
 ```mermaid
 graph TD
@@ -219,7 +219,7 @@ graph TD
     end
 
     subgraph StabilizationProcess["【因果交握与沉淀过程 / Causal Handshake & Sedimentation】"]
-        MutualLocking["数以万亿计的因果关系相互锁定<br>Trillions of Mutually Locked Cuts<br>Forming protons, atoms, molecules, and crystals"]
+        MutualLocking["接近于无穷大的微观因果关系相互锁定<br>Near-Infinite Mutually Locked Cuts<br>Forming protons, atoms, molecules, and crystals"]
         LongTimeScales["在漫长时间中形成平衡惯性<br>Stabilizing Across Time<br>Internal exchange at c; external motion v ≪ c"]
         MutualLocking --> LongTimeScales
     end
@@ -242,7 +242,7 @@ graph TD
 * 如果你试图预测特定个体明天下班后会走进哪一家咖啡馆，这是无法在事前确定的，因为他拥有第一人称的主权抉择权；
 * 但如果你统计一个拥有千万人口的超大城市在明天下午五点的高峰车流量、用水量与面包消耗量，其统计数据却展现出惊人稳定的确定性与周期性。
 
-正如我们在[决定论是微观非决定论的统计签名](../determinism-as-statistical-signature-of-micro-indeterminism/)中所确立的，经典物理学所崇拜的宏观确定性，就是宏观尺度上的“人口普查数据”。当万亿亿个微观自由变量相互锁闭为一块花岗岩或一颗行星时，每一个微观量子点的微小涨落都在整体的统计平均中被互相抵消了。最终呈现在宏观观测仪器上的，只剩下平稳缓慢演进的宏观几何平均值。
+正如我们在[决定论是微观非决定论的统计签名](../determinism-as-statistical-signature-of-micro-indeterminism/)中所确立的，经典物理学所崇拜的宏观确定性，就是宏观尺度上的“人口普查数据”。当接近于无穷大的微观自由变量相互锁闭为一块花岗岩或一颗行星时，每一个微观量子点的微小涨落都在整体的统计平均中被互相抵消了。最终呈现在宏观观测仪器上的，只剩下平稳缓慢演进的宏观几何平均值。
 
 经典力学与广义相对论并不是描绘宇宙本体的终极律令，它们是针对这庞大微观自由变量之海、在慢速沉淀状态下所采集的高阶宏观统计拟合。微观的自由与宏观的秩序，在第一人称因果的基底上完成了终极统一。
 
@@ -250,13 +250,13 @@ graph TD
 
 Modern science has long suffered from intellectual schizophrenia: the irreconcilable division between the probabilistic indeterminacy of quantum mechanics and the deterministic clockwork of general relativity. Theorists have invented grotesque metaphysical epicycles to patch this rift, claiming that reality splits into infinite parallel universes at every measurement, or that physical objects do not exist when unobserved.
 
-Once microscopic indeterminacy is recognized as the third-person shadow of the first-person free variable, this conflict evaporates: **macroscopic determinism is not an independent, objective physical regime; it is the statistical Law of Large Numbers emerging naturally from countless microscopic free variables locked into stable relational networks.**
+Once microscopic indeterminacy is recognized as the third-person shadow of the first-person free variable, this conflict evaporates: **macroscopic determinism is not an independent, objective physical regime; it is the statistical Law of Large Numbers emerging naturally from a near-infinite multitude of microscopic free variables locked into stable relational networks.**
 
 Consider a clear sociological analogy:
 * If you try to predict precisely which café a specific individual will walk into tomorrow evening, your calculation is doomed to fail, because that individual possesses sovereign choice;
 * But if you analyze the aggregate traffic volume, water usage, and bread consumption of a metropolis of ten million citizens tomorrow at 5 PM, the aggregate data exhibits extraordinary stability and clockwork predictability.
 
-As formulated in [Determinism as the Statistical Signature of Micro-Indeterminism](../determinism-as-statistical-signature-of-micro-indeterminism/), the deterministic laws revered by classical physics are the cosmic equivalent of census bureau statistics. When trillions of microscopic free variables bind into a block of granite or an orbiting moon, individual microscopic fluctuations cancel each other out in the statistical aggregate. What remains on macroscopic instruments is merely the slow, smooth progression of the statistical mean.
+As formulated in [Determinism as the Statistical Signature of Micro-Indeterminism](../determinism-as-statistical-signature-of-micro-indeterminism/), the deterministic laws revered by classical physics are the cosmic equivalent of census bureau statistics. When a near-infinite, astronomically vast multitude of microscopic free variables bind into a block of granite or an orbiting moon, individual microscopic fluctuations cancel each other out in the statistical aggregate. What remains on macroscopic instruments is merely the slow, smooth progression of the statistical mean.
 
 Classical mechanics and general relativity do not represent eternal edicts governing dead space; they are high-order statistical curve-fits applied to an ocean of microscopic free variables stabilized into slow-motion equilibrium. Microscopic freedom and macroscopic order unite seamlessly on the foundation of first-person causality.
 
@@ -296,7 +296,7 @@ graph LR
 
 一块石头与一个活着的人，其本体论区别不在于一个是“死物质”而另一个具有“神秘灵魂”；其区别仅仅在于**因果动作的自新节律与自由度**：
 * 活着的心智以极高的自新频率在每个当下注入新的自由变量（+1），其因果抉择与光速刷新率同频，因此表现出生动、不可测的灵性与主权；
-* 而一块石头，则是万亿微观自由变量早在漫长地质时间中相互锁死、放弃了高频自新抉择、将其因果动作定型为重复性平衡习惯的“沉睡心智”。它在宇宙寿命的时间尺度上极其缓慢地演进，因而呈现为无生命的死物。
+* 而一块石头，则是接近于无穷大的微观自由变量早在漫长地质深时中相互锁死、放弃了高频自新抉择、将其因果动作定型为重复性平衡习惯的“沉睡心智”。它在宇宙寿命的时间尺度上极其缓慢地演进，因而呈现为无生命的死物。
 
 正如皮尔士曾深刻洞察的那样：“物质就是固化的习惯，是因果之流在时间中沉淀出的结晶。”物质不是心智的对立面，物质是心智在慢镜头下展现的沉淀遗骸。
 
@@ -312,7 +312,7 @@ This leads to a staggering ontological realization: **matter is literally mind s
 
 The difference between a living person and a slab of granite is not that one contains a magical metaphysical soul while the other is dead Cartesian stuff. The difference resides entirely in the **cadence of causal renewal and sovereign degrees of freedom**:
 * A living mind exercises fresh free variables (+1) at high frequencies, updating in lockstep with the light speed refresh rate, thereby exhibiting sovereign autonomy, vitality, and unpredictability;
-* A stone is a slumbering community of trillions of microscopic free variables that locked into mutual relational habits eons ago, surrendering high-frequency novel cuts in exchange for repetitive, stabilized equilibrium. It evolves at the deep-time scale of stellar geology, appearing to human eyes as inert matter.
+* A stone is a slumbering community of a near-infinite multitude of microscopic free variables that locked into mutual relational habits eons ago, surrendering high-frequency novel cuts in exchange for repetitive, stabilized equilibrium. It evolves at the deep-time scale of stellar geology, appearing to human eyes as inert matter.
 
 As Charles Sanders Peirce once intuited: "Matter is effete mind, inveterate habits becoming physical laws." Matter is not the cold antithesis of consciousness; matter is stabilized mind crystallized into slow time.
 

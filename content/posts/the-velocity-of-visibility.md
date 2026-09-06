@@ -130,7 +130,7 @@ graph TD
         InternalSpin --> MacroMotion
     end
 
-    MindClock -->|"信息带宽极度充裕：数万亿次采样零变化<br>Enormous Informational Surplus (v/c → 0)"| PerceptualProjection
+    MindClock -->|"信息带宽极度充裕：接近于无穷次采样零变化<br>Enormous Informational Surplus (v/c → 0)"| PerceptualProjection
 
     subgraph PerceptualProjection["【宏观经验世界的投射 / Macroscopic Emergence】"]
         Solidity["坚硬实体感<br>Tactile Solidity<br>Persistent static resistance"]
@@ -147,7 +147,7 @@ graph TD
 让我们剖析一块静止在地面上的花岗岩：
 * **内部的高速运转**：构成花岗岩的原子的夸克与胶子，必须在亚原子尺度以接近光速 c 的极限频率相互交握、频繁震荡，方能维系强相互作用力的驻波平衡；
 * **整体的极度慢速**：由于所有能量都被锁死在闭合的局域关系中，花岗岩在宏观空间上的演化速度几乎为零（v/c 趋近于 0）；
-* **信息带宽的极大剩余**：当以光速 c 刷新现实的心智去观测这块岩石时，在心智每一纳秒更新的感知序列里，岩石的宏观结构没有发生任何可察觉的位移。心智以充沛的信息带宽，对同一个稳定的几何拓扑进行了数以万亿次的重复采样。
+* **信息带宽的极大剩余**：当以光速 c 刷新现实的心智去观测这块岩石时，在心智每一纳秒更新的感知序列里，岩石的宏观结构没有发生任何可察觉的位移。心智以充沛的信息带宽，对同一个稳定的几何拓扑进行了接近于无穷次的重复采样。
 
 这种极其悬殊的速度差，在观察者端沉淀为巨大的**信息剩余（Informational Surplus）**。当心智连续数万次确认同一组因果关系没有丝毫改变时，心智的知觉机制就会将这种静态的冗余渲染为**坚固的质地**、**永恒的形状**，以及**可用微分方程精确预测的机械决定论**。
 
@@ -166,7 +166,7 @@ The answer is not a physical substance, but a **Velocity Deficit (v << c)**:
 Consider a slab of granite resting on the earth:
 * **The hyper-speed interior**: The quarks, gluons, and electrons within the granite's atoms circulate at near light speed c, exchanging localized gauge forces to sustain standing wave equilibrium;
 * **The frozen macro-exterior**: Because this enormous energy is entirely trapped within localized closed relationships, the macroscopic rock as a whole drifts through space at a speed virtually equal to zero (v/c -> 0);
-* **The enormous informational surplus**: When a conscious mind rendering reality at c observes this stone, every nanosecond interval yields an identical spatial configuration. The observing engine possesses an overwhelming informational bandwidth advantage over the stone, sampling the exact same relational knot trillions of times with near-zero macroscopic change.
+* **The enormous informational surplus**: When a conscious mind rendering reality at c observes this stone, every nanosecond interval yields an identical spatial configuration. The observing engine possesses an overwhelming informational bandwidth advantage over the stone, sampling the exact same relational knot a near-infinite number of times with near-zero macroscopic change.
 
 This massive velocity deficit manifests in perception as **Informational Surplus**. When the perceptual apparatus confirms countless times that a relational topology has not budged, it compiles that static temporal redundancy into the sensations of **tactile solidity**, **durable permanence**, and **clockwork mechanical determinism**.
 
