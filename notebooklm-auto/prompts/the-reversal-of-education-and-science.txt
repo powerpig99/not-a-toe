@@ -5,7 +5,7 @@
 
 ### [Key Directives: "The Inversion of Education and Science"]
 * **The Primal State**: Learning is an unmediated encounter between the autonomous observer (0, 0, 0) and the high-dimensional patterns of reality (gravity, biology, logic). Reality has infinite degrees of freedom; inquiry is fundamentally non-rivalrous.
-* **The Register Substitution**: Bureaucratic institutions cannot measure tacit curiosity or analog insight at scale. They invent low-dimensional scalar proxies (GPA, standardized percentiles, journal impact factors, citation indices, grant dollars).
+* **The Register Substitution**: Bureaucratic institutions cannot measure tacit curiosity or lived, multidimensional insight at scale. They invent low-dimensional scalar proxies (GPA, standardized percentiles, journal impact factors, citation indices, grant dollars).
 * **Goodhart's Inversion**: Once the scalar metric becomes the target, the high-dimensional territory is abandoned. Education becomes exam-gaming and rank optimization; science becomes "Publish or Perish," salami slicing, and citation cartels.
 * **From Infinite Room to the Zero-Sum Arena**: Because scalar registers are artificially scarce, an open multidimensional landscape where millions could explore without colliding is squashed into a narrow corridor where peers must claw at each other.
 * **Sovereign Reclamation**:
