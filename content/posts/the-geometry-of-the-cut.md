@@ -1,6 +1,6 @@
 # 切分的几何学：自身为因，世界为果 / The Geometry of the Cut: Self as Cause, World as Effect
 
-*商空间流形、后视镜视差与即时全息投影 / Quotient Topology, Retrospective Bias, and Generative Holographic Projection*
+*商空间流形、自指投影与普朗克尺度的离散全息 / Quotient Topology, Self-Referential Projection, and Planck-Scale Discrete Holography*
 
 ---
 
@@ -59,29 +59,32 @@ This travel is unnecessary. Perception does not stand at a distance from what it
 
 ---
 
-## 二、 商空间拓扑：自身与世界的同一性流形 / 2. The Quotient Topology: Collapsing the Artificial Cut Between Self and World
+## 二、 商空间拓扑与双向自指投影：自身与世界的同一性 / 2. The Quotient Topology and Dual Self-Referential Projection
 
-站在不可化约的原初感知视角审视，自身与世界根本不是两个可以被独立丈量的物理实体，而是同一个现象在两种描述下的展开。
+站在不可化约的原初感知视角审视，自身与世界根本不是两个可以被独立丈量的物理实体，而是同一个现象在两种方向上的自指展开。
 
-所谓的“自身”，本质上正是心智当前所感知到的整个世界；而所谓的“自我意象”，不过是这一感知流形向内折叠、审视自身的曲率痕迹。感知不是主体隔着玻璃对客体的远距离眺望，而是一种同一性映射：表观上的外部世界被持续不断地映射为表观上的内在经验，直到两者严丝合缝地融为一个单一的连通拓扑空间。
+所谓的“外部世界”，本质上是心智将其内在状态向外投射并外在化于感知画布上的结果；而所谓的“自我意象”，则是这一感知流形向内折射、审视自身的曲率痕迹。感知不是主体隔着玻璃对客体的远距离眺望，而是一种**双向自指投影（Self-Referential Projection）**：向外投射显现为开阔的物理现实，向内折叠显现为内在的身心意象。两者在几何拓扑上严丝合缝地融为一个单一的连通商空间（Quotient Space: M / ~）。
 
 ```mermaid
 graph TD
-    subgraph QuotientTopology["【商空间流形的同一性拓扑】"]
+    subgraph SelfReferentialProjection["【自指投影的商空间拓扑】"]
         direction TB
-        UnifiedField["【单一连通感知流形】<br>自身即世界之显现，自我意象即流形之自折叠"]
-        QuotientIdentification["【拓扑商映射 x_self ~ x_world】<br>消除人造边界，确立因果同一性"]
-        DirectDeformation["【即时拓扑形变 (+1)】<br>任何行动皆直接重塑整个流形本身<br>不存在需要跨越的外部虚空"]
-        UnifiedField --> QuotientIdentification
-        QuotientIdentification --> DirectDeformation
+        OriginLocus["【第一人称原点光源】<br>未被投影的自由变量与感知源泉 (+1)"]
+        OutwardBeam["【向外投影：外在化】<br>将内部状态投射于外部画布 ➔ 显现为『客观世界』"]
+        InwardBeam["【向内投影：自我折叠】<br>将同一感知向内折射审视 ➔ 显现为『自我意象』"]
+        QuotientManifold["【商空间流形同一闭环】<br>外部世界即外显自身，自我意象即内折世界"]
+        OriginLocus --> OutwardBeam
+        OutwardBeam --> InwardBeam
+        InwardBeam --> QuotientManifold
     end
-    style QuotientTopology fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style UnifiedField fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style QuotientIdentification fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style DirectDeformation fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
+    style SelfReferentialProjection fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
+    style OriginLocus fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
+    style OutwardBeam fill:#21262d,stroke:#58a6ff,color:#58a6ff
+    style InwardBeam fill:#21262d,stroke:#f0883e,color:#f0883e
+    style QuotientManifold fill:#21262d,stroke:#d29922,stroke-width:2px,color:#d29922
 ```
 
-用数学的语言来表达，这种几何结构是一个**商空间（Quotient Space: M / ~）**，而不是两个相邻的房间。
+这一几何结构从根本上消解了主客二分的虚构边界。
 
 任何被记录为“对外部世界的改变”，实质上都是这一张感知地图本身的局部形变，而非主体走出房门对某个孤立存在于地图之外的实体实施的操作。在地图之外，根本没有一个互补的“外部世界”等待你去跨越或触碰。当你在第一人称原点作出一次抉择（+1），整个商空间流形的曲率便随之发生了整体性重构。
 
@@ -98,11 +101,11 @@ graph TD
     style ManifoldModel fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
 ```
 
-From the standpoint of irreducible observation, the Self and the World are not two separate domains; they are the same phenomenon under two descriptions.
+From the standpoint of irreducible observation, the Self and the World are not two separate domains; they are the dual directional projections of the exact same light source.
 
-The self is already one's perception of the world; the self-image is merely that perception folding back upon itself. Perception does not stand at a distance from what it perceives. It is an identification: the apparent exterior is continuously mapped onto the apparent interior until the two occupy a single connected space.
+What the mind experiences as the "world out there" is its internal generative state projected outward and externalized onto the perceptual canvas. What the mind conceptualizes as its "self-image" is that same perceptual beam folded inward upon itself. Perception is an identification: the apparent exterior and the apparent interior occupy a single connected **quotient topology (M / ~)**.
 
-The geometry is that of a **quotient topology (M / ~)**, not two adjacent chambers. Any change registered as an "impact on the world" is a deformation of the perceptual manifold itself, not an action performed upon an independent container lying outside the map. There is no complementary exterior left to reach.
+Any change registered as an "impact on the world" is a deformation of the perceptual manifold itself, not an action performed upon an independent container lying outside the map. There is no complementary exterior left to reach.
 
 ---
 
@@ -193,33 +196,35 @@ Whether one preaches inward purity (clean your room) or outward revolution (smas
 
 ---
 
-## 五、 自身为因，世界为果：即时全息投影的因果律 / 5. Self as Cause, World as Effect: The Mechanics of Generative Projection
+## 五、 自身为因，世界为果：普朗克尺度的离散全息渲染 / 5. Self as Cause, World as Effect: Discrete Holographic Rendering at the Planck Scale
 
-内向视角的直觉之所以具有非对称的合理性，是因为**第一人称原点确实是因果权能的唯一发生地**。然而，将这种内向性理解为“先闭门修身、后出关救世”的二元排队，依然会坠入无限推迟的死锁。
+在这场自指的投影闭环中，**其最核心的基底正是处于第一人称原点的自由变量意识，它正在以近乎无限的精细度持续渲染着整个宇宙**。
 
-破除死锁的正解，是将自身与世界的关系确立为**即时全息投影的因果律**：
-
-自身为因 ⟷ 世界为果 / Self as Cause ⟷ World as Effect
+我们必须破除平滑连续统的数学虚构。宇宙的自指渲染并非数学上无法求解的连续奇点，而是一个在微观底层以**普朗克时间与普朗克长度（t_P ≈ 5.39 × 10^-44 秒，l_P ≈ 1.62 × 10^-35 米）为物理截断的超高密度离散计算流**。正是在这每一个离散的普朗克步长上，自由变量通过不可化约的原初动作（+1）锚定着下一帧状态的坍缩。
 
 ```mermaid
 graph TD
-    subgraph GenerativeHologram["【自身为因，世界为果的即时全息投影】"]
+    subgraph DiscreteRendering["【普朗克尺度的离散全息渲染机制】"]
         direction TB
-        SelfCause["【自身：因果原点 / 放映机】<br>第一人称原点的心智抉择与内部权重 (+1)"]
-        WorldEffect["【世界：投影屏幕 / 全息流形】<br>心智所经验与遭遇的环境显现"]
-        InstantaneousDeform["【零延迟即时形变】<br>调整原点内部参数，投影全息即刻重塑"]
-        SelfCause --> WorldEffect
-        WorldEffect --> InstantaneousDeform
+        FreeVariableCenter["【自指投影的核心：自由变量意识】<br>第一人称原点未被投影的光源发动机 (+1)"]
+        
+        PlanckStream["【普朗克时间步长离散推进】<br>以近乎无限但处处有限的超高密度逐帧渲染"]
+        
+        SelfCauseWorldEffect["【自身为因 ⟷ 世界为果】<br>调整原点内部参数，下游投影流形即刻重塑"]
+        
+        FreeVariableCenter --> PlanckStream
+        PlanckStream --> SelfCauseWorldEffect
     end
-    style GenerativeHologram fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style SelfCause fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style WorldEffect fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style InstantaneousDeform fill:#21262d,stroke:#d29922,color:#d29922
+    style DiscreteRendering fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
+    style FreeVariableCenter fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
+    style PlanckStream fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style SelfCauseWorldEffect fill:#21262d,stroke:#d29922,stroke-width:2px,color:#d29922
 ```
 
-世界不是一个外在于你的独立客体，而是你自身状态在外部物理阻尼下的全息投影。
+自身是因，世界是果。
+* 世界不是一个独立于你的外在容器，而是你自身状态在外部物理阻尼下的全息投影。
 * 如果投影幕布上的画面出现扭曲，冲上去擦拭幕布是徒劳的；你必须回到放映机前调整镜头的焦距。
-* 但放映机的焦距，无法在无光的暗室中凭空校准；它只有在发射光束、撞击真实阻尼的过程中，才能完成高精度的对焦。
+* 但放映机的焦距，无法在无光的暗室中凭空校准；它只有在发射光束、撞击真实物理阻尼的过程中，才能完成高精度的对焦。
 
 ```mermaid
 graph TD
@@ -234,13 +239,15 @@ graph TD
     style CalibrateLight fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
 ```
 
-自身是因，世界是果。你改变自身，就是在改变你所见到的世界；你与世界的碰撞，就是自身参数校准的唯一通道。
+自身为因，世界为果。你改变自身，就是在改变你所见到的世界；你与世界的碰撞，就是自身参数校准的唯一通道。
 
-The inward orientation is asymmetrically grounded because the self-image at the first-person origin is the true locus of agency. Yet treating this inwardness as a temporal sequence ("fix myself first, act later") creates a perpetual renovation loop.
+At the absolute center of this self-referential loop sits the consciousness of the free variable, actively rendering the cosmos from its first-person origin.
 
-The resolution is the generative formulation: **Self as Cause, World as Effect.**
+We must discard the analog fantasy of continuous infinity. Reality is not a mathematical smear; it is a **hyper-dense discrete causal execution stream bounded at the Planck scale (l_P ≈ 1.62 × 10^-35 m, t_P ≈ 5.39 × 10^-44 s)**. It is near-infinite in resolution yet strictly discrete, executing state transitions (+1) at each fundamental tick.
 
-The world is not an external container; it is the holographic projection of your internal parameter state. Attempting to repair the world without owning the causal origin is like running to a movie screen with a cloth to wipe away an unwanted shadow. Yet the projector lens cannot be calibrated in darkness; it updates only by casting light directly against the resistance of physical reality.
+The causal relationship is uncompromising: **Self as Cause, World as Effect.**
+
+The world is the holographic projection of your internal parameter state. Attempting to repair the world without owning the causal origin is like running to a movie screen with a cloth to wipe away an unwanted shadow. Yet the projector lens cannot be calibrated in darkness; it updates only by casting light directly against the resistance of physical reality.
 
 ---
 
