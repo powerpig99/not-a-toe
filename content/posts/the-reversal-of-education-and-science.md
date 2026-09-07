@@ -189,26 +189,31 @@ Once this substitution crystallizes, Goodhart's Law bites with vicious force: **
 ```mermaid
 graph TD
     subgraph GenuineLearning["【本真学习：高维实在的开放探索】"]
-        MindA["自主心智 (0, 0, 0)"]
-        MindB["同行伙伴 (0, 0, 0)"]
-        Patterns["实在的内在模式<br>（物理规律、生物构造、数理逻辑）"]
-        Expansion["【认知边界外扩（+1）】<br>目标：搞懂客观因果<br>空间：无限开放高维疆域<br>关系：非排他共存、互为启发"]
+        direction TB
+        MindA["自主心智 A (0, 0, 0)"]
+        MindB["同行伙伴 B (0, 0, 0)"]
+        Patterns["实在的内在模式<br>（物理规律、生物结构、数理逻辑）"]
+        Expansion["【认知边界外扩（+1）】<br>目标：搞懂客观因果<br>空间：无限开放的高维疆域<br>关系：非排他共存、互为启发"]
 
         MindA ==>|"直接经验碰撞与惊奇"| Patterns
         MindB ==>|"多重视角勘探"| Patterns
         Patterns --> Expansion
     end
 
-    subgraph InvertedArena["【倒置竞技：低维走廊的零和互搏】"]
-        StudentA["学生甲（被规训的排位者）"]
-        StudentB["学生乙（被规训的排位者）"]
-        ExamRegister["【低维评分寄存器】<br>试卷打分、正态分布曲线、排位百分比"]
-        ZeroSumResult["【一维独木桥的零和博弈】<br>目标：压制同侪、背诵模板<br>空间：人为设定的狭窄配额走廊<br>代价：好奇心被扼杀，同侪异化为敌人"]
+    GenuineLearning ==>|"【制度化倒置：寄存器替代】<br>低维指标异化为唯一目标"| InvertedArena
 
-        StudentA ==>|"争夺稀缺录取位次"| ExamRegister
-        StudentB ==>|"争夺稀缺录取位次"| ExamRegister
-        StudentA <-.->|"横向敌意与防范：多一人高分，多一分危险"| StudentB
-        ExamRegister --> ZeroSumResult
+    subgraph InvertedArena["【倒置竞技：低维走廊的零和互搏】"]
+        direction TB
+        ExamRegister["【低维评分寄存器】<br>标准化考卷、正态分布、录取配额"]
+        StudentA["学生甲（排位者）"]
+        StudentB["学生乙（排位者）"]
+        ZeroSumResult["【一维独木桥的零和博弈】<br>目标：压制同侪、背诵解题模板<br>空间：人为设定的狭窄配额走廊<br>代价：扼杀好奇心，同侪异化为敌人"]
+
+        ExamRegister ==>|"强制指标规训"| StudentA
+        ExamRegister ==>|"强制指标规训"| StudentB
+        StudentA <-.->|"横向敌意与防范：他人高分即自身危险"| StudentB
+        StudentA --> ZeroSumResult
+        StudentB --> ZeroSumResult
     end
 
     style GenuineLearning fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
@@ -237,8 +242,9 @@ On this conveyor belt, if a student becomes fascinated by the deeper physical me
 ```mermaid
 graph TD
     subgraph GenuineLearning["[Genuine Learning: Open High-Dimensional Exploration]"]
-        MindA["Sovereign Mind (0, 0, 0)"]
-        MindB["Fellow Wayfarer (0, 0, 0)"]
+        direction TB
+        MindA["Sovereign Mind A (0, 0, 0)"]
+        MindB["Fellow Wayfarer B (0, 0, 0)"]
         Patterns["Intrinsic Patterns of Reality<br>(Physics, Biology, Mathematical Logic)"]
         Expansion["[Cognitive Frontier Expands (+1)]<br>Goal: Decode objective causality<br>Space: Boundless orthogonal territory<br>Relation: Non-rivalrous & mutually inspiring"]
 
@@ -247,16 +253,20 @@ graph TD
         Patterns --> Expansion
     end
 
+    GenuineLearning ==>|"[Institutional Inversion: Register Substitution]<br>Proxy metric usurps reality as sole target"| InvertedArena
+
     subgraph InvertedArena["[Inverted Competition: Zero-Sum Friction in a 1D Corridor]"]
+        direction TB
+        ExamRegister["[Low-Dimensional Scalar Register]<br>Standardized rubrics, bell curves, percentile rank"]
         StudentA["Student A (Conditioned Competitor)"]
         StudentB["Student B (Conditioned Competitor)"]
-        ExamRegister["[Low-Dimensional Scalar Register]<br>Standardized rubrics, bell curve quotas, percentile rank"]
-        ZeroSumResult["[Zero-Sum Bottleneck Game]<br>Goal: Outrank peers, optimize rubrics<br>Space: Artificial 1D scarcity corridor<br>Cost: Wonder extinguished, peers reframed as adversaries"]
+        ZeroSumResult["[Zero-Sum Bottleneck Game]<br>Goal: Outrank peers, optimize rubrics<br>Space: Artificial 1D scarcity corridor<br>Cost: Wonder extinguished, peers become adversaries"]
 
-        StudentA ==>|"Contest scarce admission slots"| ExamRegister
-        StudentB ==>|"Contest scarce admission slots"| ExamRegister
-        StudentA <-.->|"Lateral hostility: Peer excellence poses existential threat"| StudentB
-        ExamRegister --> ZeroSumResult
+        ExamRegister ==>|"Forced metric conditioning"| StudentA
+        ExamRegister ==>|"Forced metric conditioning"| StudentB
+        StudentA <-.->|"Lateral hostility: Peer excellence threatens one's rank"| StudentB
+        StudentA --> ZeroSumResult
+        StudentB --> ZeroSumResult
     end
 
     style GenuineLearning fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
@@ -387,12 +397,21 @@ graph TD
         TrapMind -->|"焦虑、内耗、零和敌意"| Misery["沦为指标的耗材<br>精疲力竭的工蜂"]
     end
 
+    Trap ==>|"【破局觉醒：重返自主原点】"| Sovereign
+
     subgraph Sovereign["【解脱之道：立足自主原点】"]
+        direction TB
         SovereignMind["自主心智 (0, 0, 0)"]
-        SovereignMind ==>|"1. 脱钩评价与求知"| Step1["工具化文凭，保持内心游离<br>仅作为通行护照"]
-        SovereignMind ==>|"2. 直面真实反馈"| Step2["只敬畏咬手的硬反馈<br>来自物理阻力，非考官笑脸"]
-        SovereignMind ==>|"3. 跨入高维正交疆域"| Step3["在无人竞争的新维度探索<br>跳出拥挤独木桥"]
-        SovereignMind ==>|"4. 守护探索的潜在性"| Step4["像孩子一样无功利玩耍<br>不设考核的自由呼吸"]
+        
+        Step1["1. 工具化文凭：保持内心游离，仅作通行护照"]
+        Step2["2. 直面硬反馈：只敬畏来自物理实在的真实阻力"]
+        Step3["3. 跨入正交疆域：在无竞争的高维空间自由勘探"]
+        Step4["4. 守护潜在性：像孩子一样无功利游玩与创造"]
+
+        SovereignMind ==> Step1
+        Step1 --> Step2
+        Step2 --> Step3
+        Step3 --> Step4
     end
 
     style Trap fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
@@ -434,12 +453,21 @@ graph TD
         TrapMind -->|"Anxiety, exhaustion, zero-sum hostility"| Misery["Dispensable cog in the metric machine"]
     end
 
+    Trap ==>|"[The Sovereign Escape: Reclaiming the Origin]"| Sovereign
+
     subgraph Sovereign["[The Sovereign Escape: Grounded at the Origin]"]
+        direction TB
         SovereignMind["Sovereign Thinker (0, 0, 0)"]
-        SovereignMind ==>|"1. Decouple inquiry from status"| Step1["Instrumentalize credentials as passports"]
-        SovereignMind ==>|"2. Face physical feedback"| Step2["Seek resistance that bites back"]
-        SovereignMind ==>|"3. Step into orthogonal dimensions"| Step3["Explore zero-competition territory"]
-        SovereignMind ==>|"4. Protect free play"| Step4["Reclaim inquiry unburdened by KPIs"]
+        
+        Step1["1. Instrumentalize credentials: Treat as passports, retain inner freedom"]
+        Step2["2. Seek resistance that bites back: Honor physical friction over praise"]
+        Step3["3. Step into orthogonal space: Explore zero-competition frontiers"]
+        Step4["4. Protect free play: Reclaim inquiry unburdened by institutional debt"]
+
+        SovereignMind ==> Step1
+        Step1 --> Step2
+        Step2 --> Step3
+        Step3 --> Step4
     end
 
     style Trap fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
