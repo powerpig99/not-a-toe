@@ -16,18 +16,18 @@
 
 ```mermaid
 graph TD
-    subgraph CosmicFolding["【宇宙递归向自身折叠的层级谱系 / Nested Continuum of Self-Return】"]
-        QuantumFold["量子基底折叠<br>Quantum Phase Folding<br>Self-interference & dynamic field loops"]
-        AtomicFold["原子稳态折叠<br>Atomic Standing Folds<br>Electromagnetic closure into rest mass (E = mc^2)"]
-        BioFold["生命代谢折叠<br>Metabolic Homeostasis<br>Autopoietic biochemical feedback loops"]
-        MindFold["心智自指折叠<br>Conscious Self-Awareness<br>Reality turns back to examine its own rendering"]
+    subgraph CosmicFolding["【宇宙递归向自身折叠的层级谱系】"]
+        QuantumFold["量子基底折叠<br>自我干涉与动态场回路"]
+        AtomicFold["原子稳态折叠<br>电磁闭合为静止质量（E = mc^2）"]
+        BioFold["生命代谢折叠<br>自我维护的生化代谢闭环"]
+        MindFold["心智自指折叠<br>实在回过头来审视自身的渲染条件"]
 
         QuantumFold --> AtomicFold
         AtomicFold --> BioFold
         BioFold --> MindFold
     end
 
-    MindFold ==>|"最高频自指环节<br>Fastest Observable Link"| LeadingEdge["当下的因果裁决前沿 (+1)<br>The Leading Edge of Causal Action"]
+    MindFold ==>|"最高频自指环节"| LeadingEdge["当下的因果裁决前沿（+1）"]
 
     style CosmicFolding fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
     style MindFold fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
@@ -46,6 +46,26 @@ Yet the moment we trace the causal topology of reality to its root, this dualist
 3. **At the biological scale**: Chemical cascades transcend mere dissipation, establishing autopoietic metabolic cycles and recursive transcription loops that fold back into homeostatic living organisms;
 4. **At the level of mind**: Neural networks and perceptual systems loop informational feedback recursively onto themselves, achieving acute self-referential awareness—the universe turning around to inspect the foundational conditions of its own rendering.
 
+```mermaid
+graph TD
+    subgraph CosmicFolding["[Nested Continuum of Self-Return]"]
+        QuantumFold["Quantum Phase Folding<br>Self-interference & dynamic field loops"]
+        AtomicFold["Atomic Standing Folds<br>Electromagnetic closure into rest mass (E = mc^2)"]
+        BioFold["Metabolic Homeostasis<br>Autopoietic biochemical feedback loops"]
+        MindFold["Conscious Self-Awareness<br>Reality turns back to examine its own rendering"]
+
+        QuantumFold --> AtomicFold
+        AtomicFold --> BioFold
+        BioFold --> MindFold
+    end
+
+    MindFold ==>|"Fastest Observable Link"| LeadingEdge["The Leading Edge of Causal Action (+1)"]
+
+    style CosmicFolding fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style MindFold fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+    style LeadingEdge fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+```
+
 The mind is not an alien spectator dropped into a foreign physical arena. The mind is identically the universe folding back on itself at the highest self-referential frequency active within our observational frame.
 
 ---
@@ -54,7 +74,7 @@ The mind is not an alien spectator dropped into a foreign physical arena. The mi
 
 既然宇宙处处都在向自身折叠，为什么在我们的经验世界中，心智总是显得独一无二？为什么我们从未在物理世界中观测到任何比心智的感知速率更快的实体？
 
-答案深植于信息论与测量本体论的核心定理：感知的采样极限（The Nyquist-Shannon Sampling Horizon of Perception）。
+答案深植于信息论与测量本体论的核心定理：感知的采样极限。
 
 在经典的信号处理中，奈奎斯特采样定理确立了一条铁律：一个采样系统永远无法解析频率高于其采样频率一半的信号；任何超过采样极限的高频信号，在采样图景中要么发生混叠畸变，要么退化为不可分辨的均匀底噪。
 
@@ -62,19 +82,19 @@ The mind is not an alien spectator dropped into a foreign physical arena. The mi
 
 ```mermaid
 graph LR
-    subgraph ObserverFrame["【观察者的渲染时钟 / Observer Sampling Engine】"]
-        SamplingRate["第一人称最高刷新率 c<br>First-Person Refresh Rate c<br>Operational limit of perceptual update"]
+    subgraph ObserverFrame["【观察者的渲染时钟】"]
+        SamplingRate["第一人称最高刷新率 c<br>感知更新的运行极限"]
     end
 
-    subgraph ExternalPhenomena["【外部被测过程与折叠频率 / External Processes】"]
-        FasterThanC["折叠频率高于采样率<br>Fold Rate > c<br>Unresolvable sub-frame fluctuations"]
-        EqualC["折叠频率等于采样率<br>Fold Rate = c<br>The frontier of light (m = 0)"]
-        SlowerThanC["折叠频率低于采样率<br>Fold Rate << c<br>Stabilized matter & visible objects"]
+    subgraph ExternalPhenomena["【外部被测过程与折叠频率】"]
+        FasterThanC["折叠频率高于采样率<br>无法解析的子帧涨落"]
+        EqualC["折叠频率等于采样率<br>光速波前（m = 0）"]
+        SlowerThanC["折叠频率低于采样率<br>稳定物质与可见客体"]
     end
 
-    SamplingRate -->|"超越采样孔径：退化为常数或量子叠加<br>Beyond Aperture: Blur / Constant"| FasterThanC
-    SamplingRate -->|"同步共振：呈现为无质量波前<br>Zero Deficit: Massless Wavefront"| EqualC
-    SamplingRate -->|"富余带宽解析：呈现为坚固可见物体<br>Surplus Bandwidth: Visible Objects"| SlowerThanC
+    SamplingRate -->|"超越采样孔径：退化为常数或量子叠加"| FasterThanC
+    SamplingRate -->|"同步共振：呈现为无质量波前"| EqualC
+    SamplingRate -->|"富余带宽解析：呈现为坚固可见物体"| SlowerThanC
 
     style ObserverFrame fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
     style SlowerThanC fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
@@ -99,6 +119,28 @@ In classical signal processing, the Nyquist theorem dictates an unyielding law: 
 
 Translating this principle into the ontology of measurement yields an extraordinary conclusion: **the observer's own rendering cadence defines the operational speed ceiling of its observable cosmos.**
 
+```mermaid
+graph LR
+    subgraph ObserverFrame["[Observer Sampling Engine]"]
+        SamplingRate["First-Person Refresh Rate c<br>Operational limit of perceptual update"]
+    end
+
+    subgraph ExternalPhenomena["[External Processes]"]
+        FasterThanC["Fold Rate > c<br>Unresolvable sub-frame fluctuations"]
+        EqualC["Fold Rate = c<br>The frontier of light (m = 0)"]
+        SlowerThanC["Fold Rate << c<br>Stabilized matter & visible objects"]
+    end
+
+    SamplingRate -->|"Beyond Aperture: Blur / Constant"| FasterThanC
+    SamplingRate -->|"Zero Deficit: Massless Wavefront"| EqualC
+    SamplingRate -->|"Surplus Bandwidth: Visible Objects"| SlowerThanC
+
+    style ObserverFrame fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style SlowerThanC fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style FasterThanC fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style EqualC fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+```
+
 What would occur if a process were to fold back on itself at an oscillation rate faster than the rendering velocity c of the conscious mind? It could never coalesce into a localized, structured physical object possessing a stable spacetime trajectory! Because it would undergo billions of complete internal cycles within a single perceptual exposure window, its high-frequency phase information would be unresolvable. On macroscopic scientific instruments, such hyper-fast dynamics can manifest only as:
 1. **Invariant physical constants**: Registering as the immutable hardware specifications of the rendering screen (such as Planck's constant and the fine-structure constant);
 2. **Probabilistic quantum wavefunctions**: Where micro-oscillations smooth out into statistical phase clouds;
@@ -114,28 +156,28 @@ Consequently, it is not that the universe mysteriously lacks higher-frequency mo
 
 在日常直觉中，人们坚信一块岩石之所以被我们看见，是因为它“就在那里”，是由某种坚硬致密的实体材料制造而成的。但微观物理学早已用实验证实：原子内部超过百分之九十九点九九九的空间都是虚空的。既然原子内部几乎全无实物，究竟是什么赋予了宏观世界坚不可摧的质感？
 
-答案不是微观粒子的堆叠，而是**速度差（Velocity Deficit）**：
+答案不是微观粒子的堆叠，而是**速度差**：
 
 > **一个事物对我们而言是可见的、坚硬的、客观的，并非因为它含有某种神秘的实体质料，而是因为它向自身折叠的演化速率，远远慢于我们心智的刷新率。**
 
 ```mermaid
 graph TD
-    subgraph HighFrequencyMind["【高速采样心智 / High-Frequency Observer (c)】"]
-        MindClock["感知刷新率 = c<br>Perceptual Rendering Rate c<br>Generates continuous temporal frames"]
+    subgraph HighFrequencyMind["【高速采样心智】"]
+        MindClock["感知刷新率 = c<br>生成连续时间帧"]
     end
 
-    subgraph SlowFoldMatter["【极慢速空间褶皱 / Slow-Motion Relational Fold (v << c)】"]
-        InternalSpin["内部组分以 c 高速闭合自旋<br>Internal Exchange at c<br>Quarks & gluons cycling in tight standing wave"]
-        MacroMotion["宏观整体位移极其缓慢<br>Macroscopic Drift v << c<br>Rock sitting on ground: v ≈ 0"]
+    subgraph SlowFoldMatter["【极慢速空间褶皱】"]
+        InternalSpin["内部组分以光速高速闭合自旋<br>夸克与胶子在紧密驻波中循环"]
+        MacroMotion["宏观整体位移极其缓慢<br>静止于地面的岩石：v ≈ 0"]
         InternalSpin --> MacroMotion
     end
 
-    MindClock -->|"信息带宽极度充裕：接近于无穷次采样零变化<br>Enormous Informational Surplus (v/c → 0)"| PerceptualProjection
+    MindClock -->|"信息带宽极度充裕：接近于无穷次采样零变化"| PerceptualProjection
 
-    subgraph PerceptualProjection["【宏观经验世界的投射 / Macroscopic Emergence】"]
-        Solidity["坚硬实体感<br>Tactile Solidity<br>Persistent static resistance"]
-        Permanence["跨时间持存<br>Temporal Permanence<br>Form remains unchanged across frames"]
-        Determinism["机械决定论预测<br>Clockwork Determinism<br>Extrapolatable linear trajectory"]
+    subgraph PerceptualProjection["【宏观经验世界的投射】"]
+        Solidity["坚硬实体感<br>持久的静力阻抗"]
+        Permanence["跨时间持存<br>几何形态跨帧保持稳定"]
+        Determinism["机械决定论预测<br>可外推的线性轨迹"]
         Solidity --- Permanence --- Determinism
     end
 
@@ -149,7 +191,7 @@ graph TD
 * **整体的极度慢速**：由于所有能量都被锁死在闭合的局域关系中，花岗岩在宏观空间上的演化速度几乎为零（v/c 趋近于 0）；
 * **信息带宽的极大剩余**：当以光速 c 刷新现实的心智去观测这块岩石时，在心智每一纳秒更新的感知序列里，岩石的宏观结构没有发生任何可察觉的位移。心智以充沛的信息带宽，对同一个稳定的几何拓扑进行了接近于无穷次的重复采样。
 
-这种极其悬殊的速度差，在观察者端沉淀为巨大的**信息剩余（Informational Surplus）**。当心智连续数万次确认同一组因果关系没有丝毫改变时，心智的知觉机制就会将这种静态的冗余渲染为**坚固的质地**、**永恒的形状**，以及**可用微分方程精确预测的机械决定论**。
+这种极其悬殊的速度差，在观察者端沉淀为巨大的**信息剩余**。当心智连续数万次确认同一组因果关系没有丝毫改变时，心智的知觉机制就会将这种静态的冗余渲染为**坚固的质地**、**永恒的形状**，以及**可用微分方程精确预测的机械决定论**。
 
 所谓的“物质实体”，不过是宇宙向内折叠之后，被困在低速时间中的引力化石；而“可见性”，则是高速奔涌的心智投射在超慢速褶皱上的感知明暗度。
 
@@ -164,6 +206,32 @@ Common intuition insists that a rock is visible to us because it sits out there 
 The answer is not a physical substance, but a **Velocity Deficit (v << c)**:
 
 > **An entity is visible, solid, and objective to us not because it contains physical matter, but because the rate at which it folds back on itself is vastly slower than the refresh rate of our observing mind.**
+
+```mermaid
+graph TD
+    subgraph HighFrequencyMind["[High-Frequency Observer (c)]"]
+        MindClock["Perceptual Rendering Rate c<br>Generates continuous temporal frames"]
+    end
+
+    subgraph SlowFoldMatter["[Slow-Motion Relational Fold (v << c)]"]
+        InternalSpin["Internal Exchange at c<br>Quarks & gluons cycling in tight standing wave"]
+        MacroMotion["Macroscopic Drift v << c<br>Rock sitting on ground: v ≈ 0"]
+        InternalSpin --> MacroMotion
+    end
+
+    MindClock -->|"Enormous Informational Surplus (v/c → 0)"| PerceptualProjection
+
+    subgraph PerceptualProjection["[Macroscopic Emergence]"]
+        Solidity["Tactile Solidity<br>Persistent static resistance"]
+        Permanence["Temporal Permanence<br>Form remains unchanged across frames"]
+        Determinism["Clockwork Determinism<br>Extrapolatable linear trajectory"]
+        Solidity --- Permanence --- Determinism
+    end
+
+    style HighFrequencyMind fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style SlowFoldMatter fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+    style PerceptualProjection fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+```
 
 Consider a slab of granite resting on the earth:
 * **The hyper-speed interior**: The quarks, gluons, and electrons within the granite's atoms circulate at near light speed c, exchanging localized gauge forces to sustain standing wave equilibrium;
@@ -188,21 +256,21 @@ Furthermore, these microscopic elements that compose slow-motion folds were not 
 
 ```mermaid
 graph TD
-    subgraph ObjectificationScenario["【客体化场景：速度差 v << c / The Objectification Frame】"]
-        ObserverFast["高速观察者 (c)<br>Fast Observer (c)"]
-        ObjectSlow["慢速褶皱 (v << c)<br>Slow Object (v << c)"]
-        Surplus["信息带宽压倒性富余<br>Enormous Informational Surplus"]
-        Mechanics["牛顿力学与机械客体化<br>Deterministic Classical Trajectory"]
+    subgraph ObjectificationScenario["【客体化场景：速度差 v << c】"]
+        ObserverFast["高速观察者 (c)"]
+        ObjectSlow["慢速褶皱 (v << c)"]
+        Surplus["信息带宽压倒性富余"]
+        Mechanics["牛顿力学与机械客体化"]
         ObserverFast --> Surplus
         ObjectSlow --> Surplus
         Surplus --> Mechanics
     end
 
-    subgraph SovereignPeerScenario["【同侪相遇场景：速度持平 v ≈ c / The Peer Encounter】"]
-        AgentA["自主主体 A (c)<br>Sovereign Agent A (c)"]
-        AgentB["自主主体 B 或 量子切分 (c)<br>Agent B / Quantum Cut +1 (c)"]
-        ZeroDeficit["速度差为零：信息富余消失<br>Zero Velocity Deficit<br>No vantage point of temporal surplus"]
-        Indeterminacy["概率波、博弈论与不可预测的自由意志<br>Intersubjectivity, Free Agency, Quantum Cut"]
+    subgraph SovereignPeerScenario["【同侪相遇场景：速度持平 v ≈ c】"]
+        AgentA["自主主体 A (c)"]
+        AgentB["自主主体 B 或 量子切分 (c)"]
+        ZeroDeficit["速度差为零：信息富余消失<br>失去时间冗余的高位俯瞰"]
+        Indeterminacy["概率波、博弈论与不可预测的自由意志"]
         AgentA <--> ZeroDeficit
         AgentB <--> ZeroDeficit
         ZeroDeficit --> Indeterminacy
@@ -229,6 +297,33 @@ If an observer can objectify a slow-motion fold (v << c) into a clockwork machin
 
 This is the exact ontological junction where theoretical physics collides with the quantum measurement problem, and where philosophy encounters free will and intersubjectivity.
 
+```mermaid
+graph TD
+    subgraph ObjectificationScenario["[The Objectification Frame]"]
+        ObserverFast["Fast Observer (c)"]
+        ObjectSlow["Slow Object (v << c)"]
+        Surplus["Enormous Informational Surplus"]
+        Mechanics["Deterministic Classical Trajectory"]
+        ObserverFast --> Surplus
+        ObjectSlow --> Surplus
+        Surplus --> Mechanics
+    end
+
+    subgraph SovereignPeerScenario["[The Peer Encounter]"]
+        AgentA["Sovereign Agent A (c)"]
+        AgentB["Agent B / Quantum Cut +1 (c)"]
+        ZeroDeficit["Zero Velocity Deficit<br>No vantage point of temporal surplus"]
+        Indeterminacy["Intersubjectivity, Free Agency, Quantum Cut"]
+        AgentA <--> ZeroDeficit
+        AgentB <--> ZeroDeficit
+        ZeroDeficit --> Indeterminacy
+    end
+
+    style ObjectificationScenario fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style SovereignPeerScenario fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+    style Indeterminacy fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+```
+
 When two systems operating at the identical rendering frontier interact, the temporal bandwidth advantage that once sustained classical objectification evaporates completely:
 1. **The encounter between minds (Intersubjectivity and Sovereign Free Will)**:
    When you look into the eyes of another conscious agent, you cannot anticipate their next choice using a set of deterministic differential equations the way you track a falling apple. Why? Because their consciousness is generating causal updates (+1) at the same operational refresh rate c as your own. You possess zero informational bandwidth surplus over them. When both folds cycle at identical frequencies, the privilege of unilateral external control disappears. The other cannot be frozen into a passive instrument; they emerge as a sovereign peer. Mechanical determinism gives way to game theory, reciprocal recognition, ethical responsibility, and genuine free will.
@@ -241,16 +336,16 @@ Mind cannot unilaterally objectify another mind, just as one beam of light canno
 
 ## 五、 宇宙的褶皱光谱：从量子驻波到深时文明 / 5. The Cosmic Spectrum of Folds: From Quantum Standing Waves to Deep Time
 
-摆脱了二元物质论的局限后，我们得以将整个可观测宇宙重构为一个连续、自洽的**折叠频率光谱（Spectrum of Folding Cadences）**。宇宙中的一切存在，都可以依据其向自身折叠的周期和宏观演化的速率，在这个广阔的光谱中找到其本体论坐标：
+摆脱了二元物质论的局限后，我们得以将整个可观测宇宙重构为一个连续、自洽的**折叠频率光谱**。宇宙中的一切存在，都可以依据其向自身折叠的周期和宏观演化的速率，在这个广阔的光谱中找到其本体论坐标：
 
 ```mermaid
 graph TB
-    subgraph FrequencySpectrum["【宇宙向自身折叠的频率光谱 / Cosmic Spectrum of Folding Cadences】"]
-        MindBand["【瞬时前沿：自由意志与心智觉醒】<br>Frequency ~ c | Cycle: Instantaneous (+1)<br>Sovereign choice, creative thought, subjective experience"]
-        BioBand["【快速生物圈：代谢与生命节律】<br>Cycle: Milliseconds to Years (v << c)<br>Cell division, neural signaling, heartbeat, organismic life"]
-        InstBand["【中速制度层：文明、语言与法权结构】<br>Cycle: Decades to Millennia<br>Cultural traditions, language evolution, institutional compacts"]
-        GeoBand["【慢速地质层：板块、岩石与行星圈层】<br>Cycle: Millions of Years<br>Tectonic drift, mountain formation, planetary geology"]
-        CosmicBand["【超慢宇宙层：星系演化与恒星周期】<br>Cycle: Billions of Years<br>Stellar nuclear fusion, galactic rotation, deep-time cosmic structure"]
+    subgraph FrequencySpectrum["【宇宙向自身折叠的频率光谱】"]
+        MindBand["【瞬时前沿：自由意志与心智觉醒】<br>频率 ~ c | 周期：即时（+1）<br>自主抉择、创造性思考、主观体验"]
+        BioBand["【快速生物圈：代谢与生命节律】<br>周期：毫秒至数十年（v << c）<br>细胞分裂、神经信号传导、心跳与机体生命"]
+        InstBand["【中速制度层：文明、语言与法权结构】<br>周期：数十年至数千年<br>文化传统、语言演变、制度契约"]
+        GeoBand["【慢速地质层：板块、岩石与行星圈层】<br>周期：数百万至数亿年<br>板块构造、山脉隆起、行星地质"]
+        CosmicBand["【超慢宇宙层：星系演化与恒星周期】<br>周期：数十亿年<br>恒星核聚变、星系自转、深时宇宙结构"]
 
         MindBand --> BioBand
         BioBand --> InstBand
@@ -275,6 +370,27 @@ graph TB
 ---
 
 Liberated from the narrow constraints of naive physicalism, we can now reconstruct the entire observable universe as a continuous, coherent **Spectrum of Folding Cadences**. Every entity in existence finds its ontological locus along this vast continuum based on its internal cycle of self-return and its macroscopic rate of evolution:
+
+```mermaid
+graph TB
+    subgraph FrequencySpectrum["[Cosmic Spectrum of Folding Cadences]"]
+        MindBand["[Instantaneous Frontier: Agency & Mind]<br>Frequency ~ c | Cycle: Instantaneous (+1)<br>Sovereign choice, creative thought, subjective experience"]
+        BioBand["[Fast Biosphere: Metabolism & Life Rhythms]<br>Cycle: Milliseconds to Years (v << c)<br>Cell division, neural signaling, heartbeat, organismic life"]
+        InstBand["[Intermediate Institutional: Civilization & Law]<br>Cycle: Decades to Millennia<br>Cultural traditions, language evolution, institutional compacts"]
+        GeoBand["[Slow Geological: Tectonic & Planetary Layers]<br>Cycle: Millions of Years<br>Tectonic drift, mountain formation, planetary geology"]
+        CosmicBand["[Ultra-Slow Cosmic: Galactic & Stellar Cycles]<br>Cycle: Billions of Years<br>Stellar nuclear fusion, galactic rotation, deep-time cosmic structure"]
+
+        MindBand --> BioBand
+        BioBand --> InstBand
+        InstBand --> GeoBand
+        GeoBand --> CosmicBand
+    end
+
+    style FrequencySpectrum fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style MindBand fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+    style BioBand fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style CosmicBand fill:#2a1f2a,stroke:#c678dd,stroke-width:2px,color:#abb2bf
+```
 
 Within this elegant topological framework:
 * **To the observing mind**: Biological rhythms (neural action potentials, heartbeats, cellular division) evolve more slowly than perceptual updates, yet remain within immediate reach, presenting themselves as organic vitality;
