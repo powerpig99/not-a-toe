@@ -40,7 +40,7 @@ What an agent perceives as the "external world" is not reality in its uncompress
 
 Within this operational projection, the mind generates a reference point: the **self-image**, or ego.
 
-Mechanically, the self-image is not an identity; it is an **instrument calibration origin**. To calculate trajectory, distance, orientation, and error relative to the environment, any control system requires an operational (0, 0, 0) reference frame. The self-image evolved as an active sensory probe—a massless indicator intended to answer one operational question: *Where is the system currently registering relative to the incoming signals?*
+Mechanically, the self-image is not an identity; it is an **instrument calibration origin**. To calculate trajectory, distance, orientation, and error relative to the environment, any control system requires an operational reference frame with its own origin. The self-image evolved as an active sensory probe—a massless indicator intended to answer one operational question: *Where is the system currently registering relative to the incoming signals?*
 
 When functioning correctly, any delta (∆) between this reference point and external feedback is purely navigational data. A mismatch is not an existential crisis; it is an error signal prompting the mind to trim its orientation, update its internal models, and re-index its coordinates.
 

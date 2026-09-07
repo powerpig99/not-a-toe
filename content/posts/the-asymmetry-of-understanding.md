@@ -10,13 +10,13 @@
 
 表面上看，这二者似乎只是同一场对话中互为镜像的两个半段；然而，一旦我们将观察者的坐标系带入考量，便会发现它们代表了两种根本不同的人生轨迹与能量流向：
 
-1. **“去理解”是一个向外敞开的探求向量**。此时，你的第一人称观察点 (0, 0, 0) 充当着主动的探险者。你的目光越过自身既有的边界，投向辽阔的外部世界、不可穷尽的物理实在、或是眼前另一个深邃幽微的生命。你带着好奇心去倾听、去观察、去解构、去重组。在这个向量上，现实是未闭合的连续统，你随时准备接纳新的因果扰动（+1）。
+1. **“去理解”是一个向外敞开的探求向量**。此时，你的第一人称观察原点 充当着主动的探险者。你的目光越过自身既有的边界，投向辽阔的外部世界、不可穷尽的物理实在、或是眼前另一个深邃幽微的生命。你带着好奇心去倾听、去观察、去解构、去重组。在这个向量上，现实是未闭合的连续统，你随时准备接纳新的因果扰动（+1）。
 2. **“被理解”是一个向内索求的投影陷阱**。此时，你不再是一个在天地间自由漫步的主体，而退化成了一个焦渴地等待被捕获的客体。你极其渴望将自己长达数十年、由无数微妙情感、私人记忆、未竟之志与隐秘伤痛编织而成的高维内心世界，塞进**另一个人心智中的狭窄容器**。你要求对方用他有限的生活经验、离散的符号系统和预设的偏见滤镜，丝毫不差地复刻出你的全貌。
 
 ```mermaid
 graph LR
     subgraph OutwardVector["【向量一：向外理解】"]
-        SelfActive["自主观察者 (0, 0, 0)"]
+        SelfActive["自主观察者原点"]
         World["不可穷尽的物理/生物现实与他人"]
         SelfActive ==>|"主动探求、好奇倾听 (+1)"| World
         ResultA["【无限的可能性】<br>正交扩展、发现、深刻共鸣"]
@@ -45,13 +45,13 @@ In the daily operation of human consciousness, there appear two mental movements
 
 Superficially, they might seem like two halves of a single conversational exchange. Yet the moment we introduce the coordinate system of the conscious observer, we discover that they represent two divergent life trajectories:
 
-1. **"To Understand" is an outward-bound vector of sovereign inquiry**. Here, your first-person vantage point (0, 0, 0) acts as an active explorer. Your attention moves beyond the perimeter of self-preoccupation toward the boundless territory of physical reality, scientific inquiry, or the inexhaustible depth of another human soul. You observe, listen, deconstruct, and synthesize with open curiosity. Along this vector, the cosmos remains an unclosed continuum; you stand ready to receive and assimilate fresh causal cuts (+1).
+1. **"To Understand" is an outward-bound vector of sovereign inquiry**. Here, your first-person vantage origin acts as an active explorer. Your attention moves beyond the perimeter of self-preoccupation toward the boundless territory of physical reality, scientific inquiry, or the inexhaustible depth of another human soul. You observe, listen, deconstruct, and synthesize with open curiosity. Along this vector, the cosmos remains an unclosed continuum; you stand ready to receive and assimilate fresh causal cuts (+1).
 2. **"To Be Understood" is an inward-facing trap of demanded projection**. Here, you cease to act as a free agent roaming the open landscape. Instead, you collapse yourself into an anxious object begging to be captured. You desperately demand that your expansive, high-dimensional inner life—accumulated across decades of nuanced joys, private griefs, unvoiced intuitions, and sovereign vulnerabilities—be faithfully mapped into **the cramped container of someone else's mind**. You demand that another person, using their own limited experiential vocabulary and prejudice filters, reconstruct your living essence without error.
 
 ```mermaid
 graph LR
     subgraph OutwardVector["[Vector 1: Outward Inquiry]"]
-        SelfActive["Sovereign Knower (0, 0, 0)"]
+        SelfActive["Sovereign Knower at Origin"]
         World["Inexhaustible High-D Territory & Others"]
         SelfActive ==>|"Unconditional exploration & listening (+1)"| World
         ResultA["[Infinite Possibility]<br>Orthogonal expansion, discovery, empathy"]
@@ -108,7 +108,7 @@ graph TD
 让我们从观察者几何学审视这一过程：
 
 ### 1. 坐标原点的不可替代性与经验基底的剪刀差
-在这个世界上，没有任何两个人站在同一个时空原点 (0, 0, 0) 上。即便两个人共享着相似的生物神经硬件，但他们几十年来所经历的因果链条、注意力分配、家庭印记与历史创伤截然相异。这就意味着，**任何一个人心中的认知接收器，其标尺与坐标轴都与你存在着不可消除的正交倾斜**。
+在这个世界上，没有任何两个人站在同一个时空原点 上。即便两个人共享着相似的生物神经硬件，但他们几十年来所经历的因果链条、注意力分配、家庭印记与历史创伤截然相异。这就意味着，**任何一个人心中的认知接收器，其标尺与坐标轴都与你存在着不可消除的正交倾斜**。
 
 ### 2. 连续经验向离散符号的严重脱水
 你的喜悦、委屈、灵感或渴望，是生物神经系统中成千上万个化学与电信号交织出的连续流。然而，当你试图让别人“理解”你时，你唯一能使用的媒介，只有极其粗糙、离散而低维的语言符号（几十个字词、一个标点、或一个眼神）。这相当于把一座高耸入云的阿尔卑斯山脉，拍成一张黑白二值、分辨率极低的传真纸。在这场剧烈的维度暴跌中，九成九的微观信息量被无情蒸发。
@@ -156,7 +156,7 @@ graph TD
 Consider the mechanics through observer geometry:
 
 ### 1. The Irreplicability of the Origin and the Asymmetry of Experience
-No two human beings have ever occupied the same coordinate origin (0, 0, 0). Even though we inherit similar sensory hardware, our accumulated causal chains, attentional investments, family imprints, and private scars diverge indefinitely. This means that **the cognitive receiving apparatus inside any other person possesses coordinate axes fundamentally tilted relative to your own**.
+No two human beings have ever occupied the same coordinate origin. Even though we inherit similar sensory hardware, our accumulated causal chains, attentional investments, family imprints, and private scars diverge indefinitely. This means that **the cognitive receiving apparatus inside any other person possesses coordinate axes fundamentally tilted relative to your own**.
 
 ### 2. The Severe Dehydration of Analog Experience into Discrete Symbols
 Your joy, grievance, creative flash, or longing is an analog continuum pulsing across millions of neural firings. Yet the moment you attempt to be "understood," the only channel available to you is a sparse stream of discrete, low-dimensional symbols: a few dozen spoken words, a text message, or a brief gesture. This is equivalent to compressing the entire topography of the Alps into a low-resolution black-and-white fax. In that violent dimensional drop, ninety-nine percent of your nuanced reality is stripped away.
@@ -286,7 +286,7 @@ Yet the moment understanding is demoted to a compulsory duty—whether as person
 ```mermaid
 graph LR
     subgraph SovereignMind["【自主探求的心智】"]
-        RootOrigin["立足自身原点 (0, 0, 0)<br>内心自足，不向镜像索求认可"]
+        RootOrigin["立足自身原点<br>内心自足，不向镜像索求认可"]
     end
 
     subgraph InfiniteFrontiers["【向外展开的无限维度】"]
@@ -340,7 +340,7 @@ The moment you retract your anxiety over how others see you and invest your atte
 ```mermaid
 graph LR
     subgraph SovereignMind["[Sovereign Inquiring Mind]"]
-        RootOrigin["Grounded at Origin (0, 0, 0)<br>Asks nothing from the external mirror"]
+        RootOrigin["Grounded at Origin<br>Asks nothing from the external mirror"]
     end
 
     subgraph InfiniteFrontiers["[Infinite Orthogonal Frontiers]"]
@@ -397,7 +397,7 @@ What does this sovereign communication look like?
 不要耗费宝贵的生命去校准他人石壁上的那张影子。影子是他们的滤镜所铸造的，与你真实的鲜活存在毫无关联。
 
 ### 2. 内在自主立足，外向无限探求
-将你生命的锚点，稳稳扎在自己的第一人称原点 (0, 0, 0) 之上。你的价值源于你在当下每一次真实的行动、每一次自主的因果裁决（+1）、以及你对这个世界深沉的爱与好奇，并不取决于他人投射过来的评语与分数。
+将你生命的锚点，稳稳扎在自己的第一人称原点 之上。你的价值源于你在当下每一次真实的行动、每一次自主的因果裁决（+1）、以及你对这个世界深沉的爱与好奇，并不取决于他人投射过来的评语与分数。
 把用于“辩解、证明、申诉”的能量全部收回，倾注于对外部无限疆域的探索中去：去解开一个未解的难题，去习得一项精湛的手艺，去关怀一个正在受苦的生灵。向外探索的世界有多辽阔，你的自由就有多宽广。
 
 ### 3. 敬畏理解的非对称性
@@ -421,7 +421,7 @@ Make peace with an unyielding physical reality: **the image of you inside anothe
 Cease spending your days polishing your silhouette on someone else's stone wall. Their shadow belongs to their projector; it has nothing to do with your living light.
 
 ### 2. Inward Grounding, Outward Inquiry
-Anchor your sense of reality firmly at your own first-person origin (0, 0, 0). Your worth is rooted in your living actions, your creative cuts in the present (+1), and your open reverence for existence—never in the grades, labels, or praise cast by low-dimensional scorecards.
+Anchor your sense of reality firmly at your own first-person origin. Your worth is rooted in your living actions, your creative cuts in the present (+1), and your open reverence for existence—never in the grades, labels, or praise cast by low-dimensional scorecards.
 Reclaim every ounce of energy previously squandered on proving, explaining, and litigating your innocence. Channel it outward into boundless inquiry: solve an unsolved question, master an intricate discipline, care for a suffering being. The broader your outward horizon of inquiry, the more invulnerable your inner peace becomes.
 
 ### 3. Honor the Sovereign Asymmetry

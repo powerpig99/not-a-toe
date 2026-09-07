@@ -80,7 +80,7 @@ Yet at the precise moment their models achieved radiant, internal coherence, a f
 
 这一致命转变的发生极为隐秘：**思想家在沉醉于宏观画卷的自洽时，患上了一种原发性的认识论失忆——他们忘却了自己究竟站在何处。**
 
-正如我们在[观察者几何学与因果本体论](../objects-are-stabilized-relationships/)中一再指明的基础事实：在宇宙之中，根本不存在任何独立于观察者的无处之境。现实在根本上且永远只能在第一人称视角的原点 (0, 0, 0) 中被展开。任何一张地图，无论多么精美详尽，都必然是由某个深居局域视界之内、消耗着自身生物代谢、受限于局部信息带宽的特定心智绘制出来的。
+正如我们在[观察者几何学与因果本体论](../objects-are-stabilized-relationships/)中一再指明的基础事实：在宇宙之中，根本不存在任何独立于观察者的无处之境。现实在根本上且永远只能在第一人称视角的原点 中被展开。任何一张地图，无论多么精美详尽，都必然是由某个深居局域视界之内、消耗着自身生物代谢、受限于局部信息带宽的特定心智绘制出来的。
 
 然而，宏观大师们在建立起庞大体系的瞬间，却悄然在脑海中挪动了自己的机位。他们不再将自己的理论谦逊地表述为“这是从我这双眼睛、这个局域座标所测得的高对比度投影”，而是下意识地将自身提升为一个脱离了物理肉身、悬浮于宇宙天花板之上的神明。
 
@@ -88,7 +88,7 @@ Yet at the precise moment their models achieved radiant, internal coherence, a f
 graph TD
     subgraph GroundReality["【第一人称实在：原点处的局域勘探】"]
         direction TB
-        ObserverNode["观察者心智 (0, 0, 0)<br>立足自身局域因果视界"]
+        ObserverNode["观察者心智原点<br>立足自身局域因果视界"]
         LocalHorizon["局域感知切分（+1）<br>以自身认知带宽采样宏观模式"]
         ModelCompass["【内部模型：局域指北针】<br>高对比度的降维投影地图"]
 
@@ -126,7 +126,7 @@ graph TD
 
 This tragic drift unfolds in silent increments: **intoxicated by the internal elegance of their macroscopic schema, the thinker falls prey to a primal epistemological amnesia—they forget where they stand.**
 
-As established across the Not-a-TOE framework, reality offers no disembodied "View from Nowhere." Existence is irrevocably anchored to the first-person origin (0, 0, 0). Every map, no matter how sweeping its purview, is authored by a situated biological observer bounded by local causal horizons and operating under hard thermodynamic limits.
+As established across the Not-a-TOE framework, reality offers no disembodied "View from Nowhere." Existence is irrevocably anchored to the first-person origin. Every map, no matter how sweeping its purview, is authored by a situated biological observer bounded by local causal horizons and operating under hard thermodynamic limits.
 
 Yet the moment a grand architecture coalesces, the thinker quietly smuggles their vantage point outside the frame. Instead of qualifying their claims—"this is a high-contrast low-dimensional projection rendered from my idiosyncratic coordinates"—they unconsciously ascend an imaginary pedestal. They speak not as situated participants within the world, but as detached spectators hovering above it.
 
@@ -134,7 +134,7 @@ Yet the moment a grand architecture coalesces, the thinker quietly smuggles thei
 graph TD
     subgraph GroundReality["[First-Person Reality: Local Inquiry at the Origin]"]
         direction TB
-        ObserverNode["Observing Mind (0, 0, 0)<br>Grounded within its local causal horizon"]
+        ObserverNode["Observing Mind at Origin<br>Grounded within its local causal horizon"]
         LocalHorizon["Local Perceptual Cut (+1)<br>Sampling macroscopic invariants"]
         ModelCompass["[Internal Model: Local Compass]<br>High-contrast low-dimensional map"]
 
@@ -182,8 +182,8 @@ This amnesia constitutes an epistemological usurpation. The thinker ceases to re
 graph TD
     subgraph ParallelUniverses["【本真状态：不可通约的同侪宇宙】"]
         direction TB
-        Mind1["心智 A (0, 0, 0)<br>不可穷尽的内部宇宙"]
-        Mind2["心智 B (0, 0, 0)<br>不可穷尽的内部宇宙"]
+        Mind1["心智 A 原点<br>不可穷尽的内部宇宙"]
+        Mind2["心智 B 原点<br>不可穷尽的内部宇宙"]
         MutualRespect["【平行的主权主体】<br>各自展开不可约的一阶因果切分（+1）<br>水平相遇、自主共存、互不可测"]
 
         Mind1 <-->|"零速度差的同侪摩擦"| Mind2
@@ -235,7 +235,7 @@ graph TD
 
 The most devastating consequence of adopting the God's Eye is not theoretical; it is **the systematic degradation of other living human minds**.
 
-In the actual causal topology of reality, every conscious mind is a sovereign, self-originating singularity. As demonstrated in [The Shadow and the Infinite](../the-shadow-and-the-infinite/), the dimensional gulf separating the physical continuum from any observer's perceptual frame is effectively unbounded. This implies an unyielding truth: every other human being is a parallel, incommensurable universe operating from their own irreducible origin (0, 0, 0), executing their own living causal choices (+1).
+In the actual causal topology of reality, every conscious mind is a sovereign, self-originating singularity. As demonstrated in [The Shadow and the Infinite](../the-shadow-and-the-infinite/), the dimensional gulf separating the physical continuum from any observer's perceptual frame is effectively unbounded. This implies an unyielding truth: every other human being is a parallel, incommensurable universe operating from their own irreducible origin, executing their own living causal choices (+1).
 
 Yet the moment a thinker adopts an Olympian vantage, this sacred horizontal parity is obliterated: **other minds cease to be parallel universes and are collapsed into low-dimensional projections inside the master's private sandbox.**
 
@@ -243,8 +243,8 @@ Yet the moment a thinker adopts an Olympian vantage, this sacred horizontal pari
 graph TD
     subgraph ParallelUniverses["[Primal Reality: Incommensurable Sovereign Universes]"]
         direction TB
-        Mind1["Mind A (0, 0, 0)<br>Inexhaustible internal universe"]
-        Mind2["Mind B (0, 0, 0)<br>Inexhaustible internal universe"]
+        Mind1["Mind A at Origin<br>Inexhaustible internal universe"]
+        Mind2["Mind B at Origin<br>Inexhaustible internal universe"]
         MutualRespect["[Parallel Sovereign Agents]<br>Executing irreducible first-person cuts (+1)<br>Horizontal encounter, mutual unpredictability"]
 
         Mind1 <-->|"Zero-velocity-deficit peer friction"| Mind2
@@ -433,7 +433,7 @@ graph TD
 
     subgraph GroundedSovereignty["【清醒：与同侪并肩立足于大地】"]
         direction TB
-        OriginGround["自主心智原点 (0, 0, 0)"]
+        OriginGround["自主心智原点"]
         
         Step1["1. 归位原点：铭记模型仅是局域罗盘而非客观疆域"]
         Step2["2. 同侪敬畏：承认每个他者皆为不可测度的平行宇宙"]
@@ -453,7 +453,7 @@ graph TD
 ```
 
 ### 1. 归位原点：铭记模型仅是局域罗盘
-无论你的抽象模型推演得多么宏大、公式多么严密，永远不要忘记你始终深居于第一人称的原点 (0, 0, 0) 之上。你的理论不是从天而降的永恒法典，它只是你在面对无边无际的自然与社会时，为了防止心智迷航而亲手绘制的局域指北针。指北针指向北方，并不等于指北针创造了北方；一旦现实的阻力与指北针发生冲突，必须随时准备修正自己的指针，而不是咒骂山川地形长错了位置。
+无论你的抽象模型推演得多么宏大、公式多么严密，永远不要忘记你始终深居于第一人称的原点 之上。你的理论不是从天而降的永恒法典，它只是你在面对无边无际的自然与社会时，为了防止心智迷航而亲手绘制的局域指北针。指北针指向北方，并不等于指北针创造了北方；一旦现实的阻力与指北针发生冲突，必须随时准备修正自己的指针，而不是咒骂山川地形长错了位置。
 
 ### 2. 同侪敬畏：承认每个他者皆为不可测度的平行宇宙
 必须戒除将同侪粗暴分类为某种功能性标签的傲慢习气。无论对方在你眼中看似多么平凡、多么充满局限，在他的第一人称视界内部，都展开着一个和你同样真实、同样深不可测的宇宙。你永远无法用一套简单的心理学、经济学或社会学公式将另一个心智全盘解构。放下将他人当成自身沙盒受测变量的狂妄，重新建立起面对平等同侪的敬畏与审慎。
@@ -485,7 +485,7 @@ graph TD
 
     subgraph GroundedSovereignty["[Clarity: Standing Shoulder-to-Shoulder on the Earth]"]
         direction TB
-        OriginGround["Sovereign Origin (0, 0, 0)"]
+        OriginGround["Sovereign Origin"]
         
         Step1["1. Ground at the Origin: Models are local compasses, never the territory"]
         Step2["2. Intersubjective Reverence: Every other mind is an unmeasurable universe"]
@@ -505,7 +505,7 @@ graph TD
 ```
 
 ### 1. Ground at the Origin: Models as Compasses, Not Continents
-No matter how sweeping your theoretical deductions, never forget that you reside irrevocably at (0, 0, 0). Your theory is not an eternal divine decree; it is a pocket compass forged to preserve orientation across the unbounded wilderness. A compass pointing north does not author the magnetic poles; the moment terrain contradicts your compass, adjust your heading—do not demand that the mountains conform to the needle.
+No matter how sweeping your theoretical deductions, never forget that you reside irrevocably at your origin. Your theory is not an eternal divine decree; it is a pocket compass forged to preserve orientation across the unbounded wilderness. A compass pointing north does not author the magnetic poles; the moment terrain contradicts your compass, adjust your heading—do not demand that the mountains conform to the needle.
 
 ### 2. Intersubjective Reverence: Every Peer is an Incommensurable Universe
 Relinquish the habit of categorizing peers into functional or ideological caricatures. However ordinary another human being appears, their interiority harbors a universe every bit as vast, sovereign, and intractable as your own. You will never exhaust another mind through economic equations or moral archetypes. Dismantle the impulse to treat fellow travelers as test subjects in your private sandbox.
