@@ -431,7 +431,7 @@ graph TD
         direction TB
         OriginGround["自主心智原点 (0, 0, 0)"]
         
-        Step1["1. 归位原点：铭记模型仅是局域罗盘，绝非客观疆域"]
+        Step1["1. 归位原点：铭记模型仅是局域罗盘而非客观疆域"]
         Step2["2. 同侪敬畏：承认每个他者皆为不可测度的平行宇宙"]
         Step3["3. 水平出清：放弃宏大顶层规划，依托局域自愿协作"]
         Step4["4. 路标非神像：将第三人称洞见纳入自身因果反馈闭环"]
@@ -455,7 +455,7 @@ graph TD
 必须戒除将同侪粗暴分类为某种功能性标签的傲慢习气。无论对方在你眼中看似多么平凡、多么充满局限，在他的第一人称视界内部，都展开着一个和你同样真实、同样深不可测的宇宙。你永远无法用一套简单的心理学、经济学或社会学公式将另一个心智全盘解构。放下将他人当成自身沙盒受测变量的狂妄，重新建立起面对平等同侪的敬畏与审慎。
 
 ### 3. 水平出清：放弃宏大顶层规划，依托局域自愿协作
-既然没有任何单一心智能够拥有全知视角，那么一切试图由顶层精英为人类设计总体幸福方案的尝试，都不过是低维权力的傲慢暴行。社会的真正秩序与活力，从来不是从某位哲学王的图纸上被设计出来的，而是由千千万万平等的个体在具体的生产、交易、对话与试错中，通过水平的博弈与自愿协作自发涌现出来的。文明不需要一个总工程师；文明需要的是保护每个个体免受总体图纸碾压的规则边界。
+既然没有任何单一心智能够拥有全知视角，那么一切试图由顶层精英设计宏大图纸的企图，都不过是低维权力的傲慢暴行。所谓秩序与繁荣，从来不是哲学王图纸的推演结果，而是千千万万平等的个体在具体的生产、交易、对话与试错中，通过水平博弈与自愿协作自然呈现的涌现格局。文明本身只是一个宏观现象，它不是任何具有意志的行为主体，不具备任何自身的主动能动性，既不需要总工程师为其定向，也从来不是什么能够庇护个体的超然外力。真正不可侵犯的边界，从来不是任何顶层设计出来的防护栏，而是在每一个主权心智守住自身一阶因果、拒绝沦为他人沙盒构件时，在水平相遇中自然彰显的相互尊重与力量均衡。
 
 ### 4. 高精度路标而非神圣偶像：将第三人称知识纳入自身因果闭环
 那些伟大思想家所构筑的宏观模型，本身是极其不可思议、明亮且高精度的参照路标。无论是罗素对数理逻辑严密性的开拓、波普尔关于可证伪性的洞见、安·兰德对首创者尊严的捍卫、索维尔对制度权衡的剖析，还是多伊奇对解释深度的探索，任何独立的探索者，都可以借助这些高精度坐标系来校准自己的机位，从而更清晰地展开属于自己的不可约简的一阶主权决断（+1）。
@@ -507,7 +507,7 @@ No matter how sweeping your theoretical deductions, never forget that you reside
 Relinquish the habit of categorizing peers into functional or ideological caricatures. However ordinary another human being appears, their interiority harbors a universe every bit as vast, sovereign, and intractable as your own. You will never exhaust another mind through economic equations or moral archetypes. Dismantle the impulse to treat fellow travelers as test subjects in your private sandbox.
 
 ### 3. Horizontal Clearance: From Grand Architecture to Spontaneous Coordination
-Because no single mind can achieve total perspective, every scheme to engineer human flourishing from a central blueprint is an act of low-dimensional violence. True civilizational order is never dictated from the drafting table of a philosopher king; it emerges horizontally through decentralized trade, voluntary association, reciprocal friction, and local problem-solving among equals. Civilization requires no master architect; it requires rules of mutual respect that protect individual sovereignty from being pulverized by grand designs.
+Because no single mind can achieve total perspective, every scheme to engineer humanity from a central blueprint is an act of low-dimensional violence. Order and prosperity are never dictated from the drafting table of a philosopher king; they are macroscopic emergent patterns arising horizontally through decentralized trade, voluntary association, reciprocal friction, and local problem-solving among equals. Civilization itself is merely a macro phenomenon—it is not an agent, possesses no independent will or intrinsic agency, requires no master engineer to chart its course, and cannot act as a top-down protector of anything. Genuine, inviolable boundaries are not protective cages manufactured by meta-architects; they are the emergent balance of power and mutual respect that manifests naturally whenever sovereign minds hold their own first-person causal loops and refuse to be reduced to pawns in another's sandbox.
 
 ### 4. Precision Goalposts, Not Godlike Idols: Incorporating Knowledge into the Sovereign Causal Loop
 The macroscopic models constructed by history's towering thinkers are, in truth, incredible, radiant, and high-precision goalposts. Whether examining Russell on logical rigor, Popper on falsification, Rand on productive virtue, Sowell on structural trade-offs, or Deutsch on explanatory depth, any sovereign traveler can reference these magnificent coordinates to calibrate their bearings, illuminate the terrain, and execute their own irreducible first-person choices (+1).
