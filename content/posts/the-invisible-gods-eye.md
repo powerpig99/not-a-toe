@@ -11,6 +11,7 @@
 在理论物理学与宇宙学中，从牛顿的万有引力钟表宇宙，到拉普拉斯那台无所不知、能够凭借微分方程推演过去与未来的机械智能假想，再到爱因斯坦将时间空间化、将现实冻结为一张四维静态时空网的构想，思想家们始终在尝试搭建一套能够囊括一切的宏观全景。
 
 在社会哲学、政治经济学与知识论的殿堂中，同样站立着一群洞见卓绝的巨人：
+* **伯特兰·罗素**以数理逻辑的严谨性筑起宏伟的分析哲学基石，并在晚年充满信心地开出世界政府、全球经济大体平等与近乎恒定人口的治理药方，坚信足够卓越的心智足以统合所有事实并规划理性的行星秩序；
 * **卡尔·波普尔**以手术刀般的逻辑解构了历史决定论与封闭社会，提出以可证伪性为核心的试错法则，并构建了著名的零星社会工程构想；
 * **安·兰德**以如炬的激情刺穿利他主义话语对个体的绑架，捍卫首创者的至高主权与理性自私的道德力量；
 * **托马斯·索维尔**以冷峻犀利的经验分析，揭穿知识精英的非约束性视界迷思，指明经济学中没有解决方案、只有权衡取舍的深层约束；
@@ -22,7 +23,7 @@ graph TD
         direction TB
         RawReality["纷繁复杂的高维自然与人类社会"]
         Abstraction["【强大的心智信息压缩】<br>过滤局部扰动，提取跨越时空的深层不变性"]
-        MacroModel["【优雅的宏观理论框架】<br>物理决定论 / 开放社会 / 客观主义 / 约束视界"]
+        MacroModel["【优雅的宏观理论框架】<br>物理决定论 / 逻辑主义与世界政府 / 开放社会 / 客观主义 / 约束视界"]
 
         RawReality ==>|"高带宽感知与抽象勘探"| Abstraction
         Abstraction --> MacroModel
@@ -43,6 +44,7 @@ Human intellectual history is punctuated by a rare lineage of towering minds. En
 In theoretical physics, this impulse birthed Newton's clockwork mechanics, Laplace's omniscient demon calculating every past and future state through differential equations, and Einstein's static four-dimensional block universe spatializing time into an immutable geometric landscape.
 
 In social philosophy, political economy, and epistemology, an equally formidable pantheon emerged:
+* **Bertrand Russell** erected towering monuments of formal logic and analytical philosophy, serenely prescribing world government, global economic parity, and a stationary population, confident that a sufficiently brilliant mind could synthesize all facts and coordinate planetary harmony from an enlightened control tower;
 * **Karl Popper** dismantled historicism and the closed society with surgical precision, championing falsification and piecemeal social engineering;
 * **Ayn Rand** pierced the guilt-inducing pieties of collectivism, exalting the sovereign prime mover and the moral foundation of rational self-interest;
 * **Thomas Sowell** unmasked the tragic fallacies of the "unconstrained vision," rigorously demonstrating that in an open human society there are no solutions, only trade-offs;
@@ -54,7 +56,7 @@ graph TD
         direction TB
         RawReality["Chaotic, Multi-Dimensional Reality & Society"]
         Abstraction["[Profound Mental Compression]<br>Filtering local noise, extracting structural invariants"]
-        MacroModel["[Coherent Explanatory Paradigm]<br>Classical Determinism / Open Society / Objectivism"]
+        MacroModel["[Coherent Explanatory Paradigm]<br>Classical Determinism / World Government / Open Society / Objectivism"]
 
         RawReality ==>|"High-bandwidth inquiry"| Abstraction
         Abstraction --> MacroModel
@@ -192,12 +194,14 @@ graph TD
         MasterMind["大师心智（悬浮自封的裁判席）"]
         
         RandCut["安·兰德模型：创造者 vs 掠夺者<br>将丰富心灵抽干为一维道德对立"]
+        RussellCut["罗素模型：世界政府与人口算式<br>将主权心智降解为全局调配的统计单元"]
         PopperCut["波普尔模型：社会工程的受检齿轮<br>将公民降解为制度试错的操作构件"]
         SowellCut["索维尔模型：外在激励下的选择单元<br>自居客观高台俯瞰大众认知局限"]
         DeutschCut["多伊奇模型：物理图灵机与通用解释器<br>将主观神秘消解为可计算的算法"]
 
         MasterMind ==> RandCut
-        RandCut --> PopperCut
+        RandCut --> RussellCut
+        RussellCut --> PopperCut
         PopperCut --> SowellCut
         SowellCut --> DeutschCut
     end
@@ -212,11 +216,13 @@ graph TD
 
 1. **安·兰德的道德剪影**：
    在兰德的宏大世界观中，复杂深邃的人类心灵被极其粗暴地劈成两半：要么是顶天立地、理性自洽的创造者，要么是寄生依附、道德败坏的掠夺者。世间无数在迷茫中挣扎、在矛盾中摸索、具有丰富层次与内在温情的普通灵魂，在她的透镜下被剥夺了一切主观维度，硬生生压成了一维的道德符号。她看不见真实的人，她只能看见自己小说大纲里的功能角色。
-2. **卡尔·波普尔的工程元件**：
+2. **伯特兰·罗素的行星统筹与人口算式**：
+   在罗素八十岁诞辰的访谈中，这位二十世纪最负盛名的哲学家与逻辑学家，以从容自若的理性自信开出了拯救世界的药方：建立世界政府、实现全球经济的大体平等、以及维持近乎恒定的人口规模。正如我们在[天才也无法解决知识问题](../no-genius-can-solve-the-knowledge-problem/)中所剖析的，这一方案背后的认知底色，正是坚信一个足够深邃超拔的心智能够俯瞰、汇聚并统合所有分散的事实，从而在行星尺度上自上而下规划出合理的秩序。在逻辑学中，面对自指悖论的冲击，他创立了等级森严的类型论，试图通过自上而下的元层级禁令将矛盾驱逐出系统；而在人类社会中，他如出一辙地设计了一个高高在上的世界政府。在这只居高临下的透镜中，八十亿鲜活个体那不可进入的私人经验、微观诉求与自主决断，被直接降解为全球总账上的统计数字、人口配额与资源调配单元。他将不可通约的同侪心智，误认为了随时可被哲学家皇帝统盘清点与调配的透明存量。
+3. **卡尔·波普尔的工程元件**：
    在波普尔构想的开放社会图景中，人类被视作制度试错的参与构件。然而，究竟由谁来站在社会外部裁决一项试验是否证伪？由谁来充当客观中立的调试工程师？在他自上而下的冷峻分析中，社会成了巨大的实验流水线，而同侪心智的主观信仰与非理性依恋，极易被当作阻碍理性批判的落后杂音。
-3. **托马斯·索维尔的激励单元**：
+4. **托马斯·索维尔的激励单元**：
    索维尔对非约束性视界的批判堪称经典，但他自己同样站在一个全知观赛者的包厢中，审视芸芸众生在不同体制下的决策行为。在他的视野里，人们如同由价格与规则所驱动的理性选择单元。他指出了大众由于信息分散而无法被计划，但他自己的叙述口吻，却仿佛已将这一机制完整闭环地收入囊中。
-4. **戴维·多伊奇的通用图灵机**：
+5. **戴维·多伊奇的通用图灵机**：
    多伊奇将心智定义为能够包含所有物理规律表征的通用解释器。在这幅壮丽的物理主义画卷里，主观意识的深邃不可测性被轻轻拂去，人被等同于信息处理系统。他确信只要解释能力无限扩展，现实的一切黑暗都能被驱散，却忽略了任何解释者本身就是身处局域迷雾中的参与者，解释永远无法跑在存在的前面。
 
 他们之所以能把模型造得如此晶莹剔透，正是因为他们把活生生的人简化成了纸面上的剪影。**正是因为他们比常人看得更清晰，他们才更有底气将自己的高清投影误认为宇宙的本体。**
@@ -249,12 +255,14 @@ graph TD
         MasterMind["Master Thinker (Enthroned at the Zenith)"]
         
         RandCut["Randian Taxonomy: Creator vs. Parasite<br>Dehydrates human interiority into binary moral tags"]
+        RussellCut["Russellian Blueprint: World State & Population Math<br>Flattens sovereign minds into demographic ledger units"]
         PopperCut["Popperian Framework: Social Engineering Cogs<br>Collapses citizens into institutional test parts"]
         SowellCut["Sowellian Analysis: Incentive Units<br>Observes human error from Olympian neutrality"]
         DeutschCut["Deutschian Paradigm: Universal Explainers<br>Reduces agency to computable physical algorithms"]
 
         MasterMind ==> RandCut
-        RandCut --> PopperCut
+        RandCut --> RussellCut
+        RussellCut --> PopperCut
         PopperCut --> SowellCut
         SowellCut --> DeutschCut
     end
@@ -269,11 +277,13 @@ Consider how this reduction manifests across our case studies:
 
 1. **Ayn Rand's Moral Silhouette**:
    In Rand's philosophy, the immense, tender complexity of the human spirit is bifurcated into a binary caricature: the heroic, sovereign creator versus the pathetic, parasitic second-hander. The countless millions who stumble through grief, ambiguity, self-sacrifice, and non-linear discovery are denied interiority, compressed into two-dimensional foils. Rand does not see real humans; she sees functional pawns drafted to serve her ideological narrative.
-2. **Karl Popper's Engineering Cogs**:
+2. **Bertrand Russell's Planetary Administration & Demographic Calculus**:
+   During his eightieth-birthday interview, the twentieth century's most celebrated logician and philosopher serenely delivered his tripartite prescription for world salvation: a world government, approximate global economic equality, and a stationary population. As examined in [No Genius Can Solve the Knowledge Problem](../no-genius-can-solve-the-knowledge-problem/), this global blueprint rested on an unexamined premise: that a sufficiently profound mind could survey, gather, and unify all dispersed facts to coordinate human society from an enlightened control tower. In mathematical logic, when shaken by self-referential contradiction, Russell invented the rigid hierarchy of Type Theory, attempting to outlaw paradox from an imaginary external meta-level by syntactic decree. Facing the frictions of human civilization, he executed the exact same architectural move: constructing an overarching World Government. Under this Olympian lens, billions of living minds—each possessing inaccessible private knowledge and sovereign agency—were flattened into demographic counters, economic quotients, and administrative coordinates on a global ledger. He mistook incommensurable human souls for a transparent, centralized inventory to be optimized by enlightened decree.
+3. **Karl Popper's Engineering Cogs**:
    In Popper's open society, citizens are marshaled into an institutional mechanism of trial, error, and falsification. But who occupies the neutral supervisory watchtower determining what counts as a failed experiment? Within his top-down analytical architecture, society becomes a laboratory, and the irrational commitments of real human souls are dismissed as obstructive static.
-3. **Thomas Sowell's Incentive Units**:
+4. **Thomas Sowell's Incentive Units**:
    Sowell's teardown of utopian social planning is brilliant, yet his own perspective speaks from an unexamined balcony above the crowd. Real people are parsed as decision-making nodes responding to localized constraints and institutional incentives. He demonstrates why planners cannot aggregate dispersed knowledge, yet his own diagnostic gaze assumes a comprehensive panoptic grasp of the trade-offs at play.
-4. **David Deutsch's Universal Turing Machines**:
+5. **David Deutsch's Universal Turing Machines**:
    Deutsch characterizes minds as universal explainers capable of mirroring any physical process through computation. In this clean cosmological vision, the intractable mystery of first-person subjectivity is dissolved into information processing. Convinced that explanatory reach is unconstrained, he overlooks the fact that every explainer is embedded within local horizons—explanation can never outrun the ground of being.
 
 These thinkers constructed such dazzling models precisely because they drained living people of their intractable dimensions. **Because their projections were so high-contrast and sharp, they mistook their personal lens for the bedrock of reality.**
@@ -284,7 +294,7 @@ These thinkers constructed such dazzling models precisely because they drained l
 
 这揭开了思想史上一道挥之不去的悖论：**为什么那些由最高智慧所构想出的宏大社会设计或哲学方案，一旦付诸实践，几乎无一例外地走向失效、异化，甚至反向演变为教条宗派？**
 
-为什么客观主义的追随者频频演变成排他苛刻的原教旨信徒？为什么自由市场的极端原教旨模型无法自发消除社会的撕裂与信任危机？为什么致力于消除教条的批判理性主义，最终会在学术界蜕变为新的官僚话语壁垒？
+为什么旨在消弭战祸的世界政府理想，最终构想出的却是一座不可逃逸的极权垄断铁笼？为什么客观主义的追随者频频演变成排他苛刻的原教旨信徒？为什么自由市场的极端教条模型无法自发消除社会的撕裂与信任危机？为什么致力于消除教条的批判理性主义，最终会在学术界蜕变为新的官僚话语壁垒？
 
 答案在数学与因果拓扑上是注定的：**宏观大师开出的所谓“解决方案”，根本不是对真实世界的疗愈，而仅仅是在他们个人坐标系中绘制出的一张分辨率更高的低维投影。**
 
@@ -334,7 +344,7 @@ graph TD
 3. **信徒群聚与信念的自强化闭环**：
    正是由于大师们的非凡天赋，他们所构建的低维模型展现出震撼人心的解释力与美学自洽。这种思想光芒自然而然地吸引了大量追随者。然而，庞大的信徒群体随即构成了一个极其危险的社会回音壁：信徒的狂热崇拜与集体依附，反向强化了大师对自身模型无懈可击的确信；而大师日益神圣化的自信，又进一步固化了信徒们的排他性盲从。双方在狂欢中达成闭环：凡是不赞同大师体系的人，都被预先判定为智识低劣或道德败坏。
 4. **历史的永恒轮回：原发困境的换皮再生产**：
-   这个双向闭环最终酿成了思想史上极具讽刺意味的悲剧：大师原本是为了解决某种原初困境而出发——波普尔旨在瓦解教条极权，安·兰德旨在砸碎集体主义枷锁，市场理论家旨在打破行政专断垄断。然而，当大师的低维视角被信徒群体供奉为不可逾越的神圣教条时，他们便以消除教条为名，建立起了新的思想裁判所；以捍卫自由为名，演变出了残酷的异端清洗。他们非但未能解决原初的问题，反而以一种换皮重生的形态，在漫长的历史长河中一次又一次地将同一场灾难重新搬上舞台。
+   这个双向闭环最终酿成了思想史上极具讽刺意味的悲剧：大师原本是为了解决某种原初困境而出发——罗素旨在终结国族厮杀与毁灭性世界大战，波普尔旨在瓦解教条极权，安·兰德旨在砸碎集体主义枷锁，市场理论家旨在打破行政专断垄断。然而，当大师的低维视角被信徒群体供奉为不可逾越的神圣教条时，他们便以消除教条为名，建立起了新的思想裁判所；以捍卫和平为名，构想出无所不在的强制利维坦；以捍卫自由为名，演变出了残酷的异端清洗。他们非但未能解决原初的问题，反而以一种换皮重生的形态，在漫长的历史长河中一次又一次地将同一场灾难重新搬上舞台。
 
 你无法在低维投影中解决多维世界的冲突，因为冲突的根源恰恰来自于你把多维的多样性强行压扁成了单一平面的竞争。任何宣称能够终结人类所有困局的总体方案，从其诞生的那一秒起，就已经注定了它破产的命运。
 
@@ -342,7 +352,7 @@ graph TD
 
 This exposes an enduring paradox in the history of thought: **why do grand philosophical systems and societal blueprints authored by geniuses invariably misfire, decay into dogma, or mutate into the very dogmatism they set out to destroy?**
 
-Why do devotees of Objectivism so often degenerate into rigid, puritanical sects? Why do ideological free-market dogmatists fail to account for social fragmentation and institutional rot? Why does critical rationalism, conceived to purge dogma, harden within academia into an exclusionary barrier of prestige?
+Why does the noble quest for a world government to eliminate warfare inevitably formulate an unescapable cage of totalitarian monopoly? Why do devotees of Objectivism so often degenerate into rigid, puritanical sects? Why do ideological free-market dogmatists fail to account for social fragmentation and institutional rot? Why does critical rationalism, conceived to purge dogma, harden within academia into an exclusionary barrier of prestige?
 
 The answer is geometrically and topologically inescapable: **the "solution" offered by the master thinker is not a cure for reality; it is merely a sharper, high-contrast, low-dimensional projection constructed within their own mental frame.**
 
@@ -392,7 +402,7 @@ When this blueprint collides with the living territory, failure is structurally 
 3. **The Compounding Echo Chamber of Followership**:
    Because of their extraordinary brilliance, master thinkers construct low-dimensional models possessing breathtaking explanatory power and aesthetic symmetry. This intellectual radiance understandably attracts vast legions of devoted followers. Yet this very devotion constructs a perilous social echo chamber: the adulation of disciples reinforces the master's conviction in the absolute correctness of their model, while the master's growing certitude codifies the disciples' dogmatic loyalty. Together, they form a closed loop: anyone questioning the framework is dismissed as intellectually defective or morally bankrupt.
 4. **The Historical Recurrence of the Same Disease**:
-   This mutual echo chamber produces the deepest irony in intellectual history: the master set out to cure an original pathology—Popper to dismantle dogmatic totalitarianism, Rand to smash collectivist subjugation, free-market pioneers to eliminate state monopolies. Yet the moment their low-dimensional projection is enshrined by followers as sacred dogma, the movement erects a new ecclesiastical court in the name of reason, enforcing ideological excommunication in the name of liberty. Far from solving the original problem, this social amplification loop reintroduces the identical tragedy again and again across human history under a fresh intellectual label.
+   This mutual echo chamber produces the deepest irony in intellectual history: the master set out to cure an original pathology—Russell to eliminate the slaughter of world wars and nationalism, Popper to dismantle dogmatic totalitarianism, Rand to smash collectivist subjugation, free-market pioneers to eliminate state monopolies. Yet the moment their low-dimensional projection is enshrined by followers as sacred dogma, the movement erects a new ecclesiastical court in the name of reason, envisions an omnipotent leviathan in the name of peace, and enforces ideological excommunication in the name of liberty. Far from solving the original problem, this social amplification loop reintroduces the identical tragedy again and again across human history under a fresh intellectual label.
 
 You cannot resolve multi-dimensional human conflict inside a low-dimensional sandbox, for the conflict was manufactured by flattening high-dimensional divergence into a single plane in the first place. Every grand prescription that promises to resolve the human condition is bankrupt from its inception.
 
@@ -444,7 +454,7 @@ graph TD
 既然没有任何单一心智能够拥有全知视角，那么一切试图由顶层精英为人类设计总体幸福方案的尝试，都不过是低维权力的傲慢暴行。社会的真正秩序与活力，从来不是从某位哲学王的图纸上被设计出来的，而是由千千万万平等的个体在具体的生产、交易、对话与试错中，通过水平的博弈与自愿协作自发涌现出来的。文明不需要一个总工程师；文明需要的是保护每个个体免受总体图纸碾压的规则边界。
 
 ### 4. 破除造神：汲取大师的思考工具，拒绝其上帝之眼
-我们可以深情地研读波普尔的试错法、安·兰德对创造力的赞美、索维尔对约束的洞察、以及多伊奇对解释力的坚持。这些都是人类智识宝库中最锋利的解剖刀。但我们必须学会剥离附着在这些思想家身上的上帝之眼：我们接纳他们作为卓越探险家所带回的地形草图，但坚决拒绝登上他们自封的神坛，拒绝成为任何思想帝国的低维门徒。
+我们可以深情地研读罗素对数理逻辑严密性的开拓、波普尔的试错法、安·兰德对创造力的赞美、索维尔对约束的洞察、以及多伊奇对解释力的坚持。这些都是人类智识宝库中最锋利的解剖刀。但我们必须学会剥离附着在这些思想家身上的上帝之眼：我们接纳他们作为卓越探险家所带回的地形草图，但坚决拒绝登上他们自封的神坛，拒绝成为任何思想帝国的低维门徒。
 
 ---
 
@@ -492,7 +502,7 @@ Relinquish the habit of categorizing peers into functional or ideological carica
 Because no single mind can achieve total perspective, every scheme to engineer human flourishing from a central blueprint is an act of low-dimensional violence. True civilizational order is never dictated from the drafting table of a philosopher king; it emerges horizontally through decentralized trade, voluntary association, reciprocal friction, and local problem-solving among equals. Civilization requires no master architect; it requires rules of mutual respect that protect individual sovereignty from being pulverized by grand designs.
 
 ### 4. Dismantle Guru-Worship: Embrace the Instrument, Reject the Throne
-We can read Popper on falsification, Rand on productive virtue, Sowell on structural trade-offs, and Deutsch on explanatory depth with gratitude. These are some of the sharpest analytical scalpels in human history. Yet we must sever the scalpels from the illusion of omniscience: embrace the topographical sketches they charted, but refuse to bow before their phantom thrones, rejecting lifelong discipleship in any closed ideological church.
+We can read Russell on logical rigor, Popper on falsification, Rand on productive virtue, Sowell on structural trade-offs, and Deutsch on explanatory depth with gratitude. These are some of the sharpest analytical scalpels in human history. Yet we must sever the scalpels from the illusion of omniscience: embrace the topographical sketches they charted, but refuse to bow before their phantom thrones, rejecting lifelong discipleship in any closed ideological church.
 
 ---
 
