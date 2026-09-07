@@ -6,7 +6,7 @@
 
 ## 一、 两个相反的意向向量 / 1. Two Opposing Intentional Vectors
 
-在人类心智的日常运作中，存在着两种看似对称、实则在几何方向与因果结构上截然相反的认知取向：**“去理解”（To Understand）**与**“被理解”（To Be Understood）**。
+在人类心智的日常运作中，存在着两种看似对称、实则在几何方向与因果结构上截然相反的认知取向：**“去理解”**与**“被理解”**。
 
 表面上看，这二者似乎只是同一场对话中互为镜像的两个半段；然而，一旦我们将观察者的坐标系带入考量，便会发现它们代表了两种根本不同的人生轨迹与能量流向：
 
@@ -15,19 +15,19 @@
 
 ```mermaid
 graph LR
-    subgraph OutwardVector["【向量一：向外理解 / Outward Inquiry】"]
-        SelfActive["自主观察者 (0, 0, 0)<br>Sovereign Knower"]
-        World["不可穷尽的物理/生物现实与他人<br>Inexhaustible High-D Territory"]
-        SelfActive ==>|"主动探求、好奇倾听 (+1)<br>Unconditional Exploration"| World
-        ResultA["【无限的可能性】<br>Infinite Possibility<br>Orthogonal expansion, discovery, empathy"]
+    subgraph OutwardVector["【向量一：向外理解】"]
+        SelfActive["自主观察者 (0, 0, 0)"]
+        World["不可穷尽的物理/生物现实与他人"]
+        SelfActive ==>|"主动探求、好奇倾听 (+1)"| World
+        ResultA["【无限的可能性】<br>正交扩展、发现、深刻共鸣"]
         World -.-> ResultA
     end
 
-    subgraph InwardVector["【向量二：向内索求 / Inward Demand】"]
-        SelfPassive["焦虑的自我：渴求被确认<br>Anxious Ego Craving Validation"]
-        OtherScreen["他人的低维符号化接收幕<br>Other's Low-D Projection Screen"]
-        SelfPassive ==>|"强求对方捕获并镜像自身<br>Demand: 'Understand Me!' "| OtherScreen
-        ResultB["【无限被误解的必然】<br>Infinite Vectors of Misunderstanding<br>Distortion, shadow clash, resentment"]
+    subgraph InwardVector["【向量二：向内索求】"]
+        SelfPassive["焦虑的自我：渴求被确认"]
+        OtherScreen["他人的低维符号化接收幕"]
+        SelfPassive ==>|"强求对方捕获并镜像自身"| OtherScreen
+        ResultB["【无限被误解的必然】<br>扭曲、阴影互搏、怨恨"]
         OtherScreen -.-> ResultB
     end
 
@@ -48,6 +48,30 @@ Superficially, they might seem like two halves of a single conversational exchan
 1. **"To Understand" is an outward-bound vector of sovereign inquiry**. Here, your first-person vantage point (0, 0, 0) acts as an active explorer. Your attention moves beyond the perimeter of self-preoccupation toward the boundless territory of physical reality, scientific inquiry, or the inexhaustible depth of another human soul. You observe, listen, deconstruct, and synthesize with open curiosity. Along this vector, the cosmos remains an unclosed continuum; you stand ready to receive and assimilate fresh causal cuts (+1).
 2. **"To Be Understood" is an inward-facing trap of demanded projection**. Here, you cease to act as a free agent roaming the open landscape. Instead, you collapse yourself into an anxious object begging to be captured. You desperately demand that your expansive, high-dimensional inner life—accumulated across decades of nuanced joys, private griefs, unvoiced intuitions, and sovereign vulnerabilities—be faithfully mapped into **the cramped container of someone else's mind**. You demand that another person, using their own limited experiential vocabulary and prejudice filters, reconstruct your living essence without error.
 
+```mermaid
+graph LR
+    subgraph OutwardVector["[Vector 1: Outward Inquiry]"]
+        SelfActive["Sovereign Knower (0, 0, 0)"]
+        World["Inexhaustible High-D Territory & Others"]
+        SelfActive ==>|"Unconditional exploration & listening (+1)"| World
+        ResultA["[Infinite Possibility]<br>Orthogonal expansion, discovery, empathy"]
+        World -.-> ResultA
+    end
+
+    subgraph InwardVector["[Vector 2: Inward Demand]"]
+        SelfPassive["Anxious Ego Craving Validation"]
+        OtherScreen["Other Mind's Low-D Projection Screen"]
+        SelfPassive ==>|"Demand: 'Understand Me!'"| OtherScreen
+        ResultB["[Infinite Vectors of Misunderstanding]<br>Distortion, shadow clash, resentment"]
+        OtherScreen -.-> ResultB
+    end
+
+    style OutwardVector fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style InwardVector fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style ResultA fill:#243324,stroke:#98c379,stroke-width:2px,color:#98c379
+    style ResultB fill:#332424,stroke:#e06c75,stroke-width:2px,color:#e06c75
+```
+
 The bifurcation between these two vectors is irreversible: **focusing on understanding opens into the potential infinity of the living cosmos; focusing on being understood funnels you onto a flattened screen where you are doomed to battle shadows.**
 
 ---
@@ -60,20 +84,20 @@ The bifurcation between these two vectors is irreversible: **focusing on underst
 
 ```mermaid
 graph TD
-    subgraph HighDInteriority["【高维内心真实：高维连续统 / High-D Inner Reality】"]
-        Nuance1["数十年未曾言说的复杂记忆<br>Decades of lived context & unspoken grief"]
-        Nuance2["复杂的本能感受与价值直觉<br>Analog emotional landscape & tacit values"]
-        Nuance3["当下自主的因果抉择与张力 (+1)<br>Sovereign causal choice in the moment"]
+    subgraph HighDInteriority["【高维内心真实：高维连续统】"]
+        Nuance1["数十年未曾言说的复杂记忆与感受"]
+        Nuance2["复杂的本能感受与深层价值直觉"]
+        Nuance3["当下自主的因果抉择与张力 (+1)"]
         Nuance1 ~~~ Nuance2 ~~~ Nuance3
     end
 
-    HighDInteriority ==>|"语言与符号降维<br>Lossy Symbolic Channel"| LowDShadow
+    HighDInteriority ==>|"语言与符号降维"| LowDShadow
 
-    subgraph LowDShadow["【他人心中的低维投影片 / Another Mind's Flat Screen】"]
-        AngleA["投影角度 A：按其童年创伤解读<br>Projection A: Filtered by their past wounds"]
-        AngleB["投影角度 B：按功利效用分类<br>Projection B: Flattened into utility status"]
-        AngleC["投影角度 C：按字面词汇断章取义<br>Projection C: Literal verbal misinterpretation"]
-        AngleD["投影角度 N：无限种扭曲切片...<br>Projection N: Infinite distorted shadows..."]
+    subgraph LowDShadow["【他人心中的低维投影片】"]
+        AngleA["投影角度 A：按其过往创伤解读"]
+        AngleB["投影角度 B：按功利效用分类"]
+        AngleC["投影角度 C：按字面词汇断章取义"]
+        AngleD["投影角度 N：无限种扭曲切片..."]
         AngleA --- AngleB --- AngleC --- AngleD
     end
 
@@ -106,6 +130,29 @@ Why must the obsession with "being understood" mathematically produce "infinite 
 
 As established in [The Shadow and the Infinite](../the-shadow-and-the-infinite/), this outcome is not a pessimistic psychological observation; it is a **rigorous geometric necessity of dimensional projection and lossy informational compression**.
 
+```mermaid
+graph TD
+    subgraph HighDInteriority["[High-D Inner Reality: Living Continuum]"]
+        Nuance1["Decades of lived context & unspoken grief"]
+        Nuance2["Analog emotional landscape & tacit values"]
+        Nuance3["Sovereign causal choice in the moment (+1)"]
+        Nuance1 ~~~ Nuance2 ~~~ Nuance3
+    end
+
+    HighDInteriority ==>|"Lossy Symbolic Channel"| LowDShadow
+
+    subgraph LowDShadow["[Another Mind's Low-D Screen]"]
+        AngleA["Projection A: Filtered by past wounds"]
+        AngleB["Projection B: Flattened into utility status"]
+        AngleC["Projection C: Literal verbal misinterpretation"]
+        AngleD["Projection N: Infinite distorted silhouettes..."]
+        AngleA --- AngleB --- AngleC --- AngleD
+    end
+
+    style HighDInteriority fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style LowDShadow fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+```
+
 Consider the mechanics through observer geometry:
 
 ### 1. The Irreplicability of the Origin and the Asymmetry of Experience
@@ -132,13 +179,13 @@ Similarly, when you demand that another person "understand" you, the orientation
 
 ```mermaid
 graph TB
-    DemandA["主体 A 强求：'你必须理解我！'<br>Agent A: 'You must understand me!'<br><i>将潜在无限降级为强制义务 / Potential turned into obligation</i>"]
-    ObligationTrap["【潜能闭合与防卫闸门】<br>Potentiality Snaps Shut<br>Blast shields raised; authentic listening becomes impossible"]
-    ProjectionB["主体 B 用低维滤镜接收，产生歪曲投影<br>Agent B receives via distorted low-D filter"]
-    HurtA["主体 A 感到被误解，深感委屈与愤怒<br>Agent A feels wounded, dismissed, or mischaracterized"]
-    EscalateA["主体 A 释放更多离散词汇拼命解释/辩解<br>Agent A escalates with frantic verbal inflation"]
-    DistortionB["更多低维符号制造出更多的失真截面<br>Explosion of low-D artifacts generates deeper distortions"]
-    WarZone["【走向对抗与决裂】<br>Mutual Alienation & Shadow War<br>'You never really cared to understand me!'"]
+    DemandA["主体甲强求：‘你必须理解我！’<br><i>将潜在无限降级为强制义务</i>"]
+    ObligationTrap["【潜能闭合与防卫闸门】<br>拉起防卫护甲，真实倾听瞬间闭锁"]
+    ProjectionB["主体乙用低维滤镜接收，产生歪曲投影"]
+    HurtA["主体甲感到被误解，深感委屈与愤怒"]
+    EscalateA["主体甲释放更多离散词汇拼命解释"]
+    DistortionB["更多低维符号制造出更多失真截面"]
+    WarZone["【走向对抗与决裂】<br>‘你根本不在乎我！’"]
 
     DemandA --> ObligationTrap
     ObligationTrap --> ProjectionB
@@ -158,7 +205,7 @@ graph TB
 审视世间绝大多数人际痛苦、婚姻破裂与社交媒体上的骂战，其底层动力几乎都是“被理解之渴”在作祟：
 
 1. **主权的外包与情绪的奴役**：当你把“被他人正确理解”设立为自己内心宁静的前提时，你就已经将自身的存在主权双手奉上，外包给了一个失真的解码器。如果对方认同了你，你便短暂欣喜；如果对方曲解了你，你便彻夜难眠、痛心疾首。你的人生状态，变成了他人脑海中那张二维草图的被动木偶。
-2. **越描越黑的符号通胀**：当主体 A 发现主体 B 误解了自己时，本能的反应是立刻加大信息输出——发更长的小作文、进行更激烈的辩论、用更极端的辞藻证明自己的清白。然而，离散符号的堆叠非但不能复原连续统的真实，反而向对方提供了更多可以被断章取义、借题发挥的投影素材。这种符号通胀在系统动力学上注定会引发误解的指数级雪崩。
+2. **越描越黑的符号通胀**：当主体甲发现主体乙误解了自己时，本能的反应是立刻加大信息输出——发更长的小作文、进行更激烈的辩论、用更极端的辞藻证明自己的清白。然而，离散符号的堆叠非但不能复原连续统的真实，反而向对方提供了更多可以被断章取义、借题发挥的投影素材。这种符号通胀在系统动力学上注定会引发误解的指数级雪崩。
 3. **从寻求认同到走向仇恨**：当反复解释依然无法换来理想的镜像时，委屈便会迅速发酵为愤怒：“既然你始终不懂我，那说明你冷酷、迟钝、甚至心怀恶意！”原本只是维度差异导致的几何折射，最终被上升为人格道德上的正邪决斗。
 
 ### 义务的牢笼：当理解被异化为道德债务
@@ -180,6 +227,31 @@ graph TB
 ---
 
 The moment an individual, a family, or an entire culture falls captive to the demand to be understood, a devastating relational death spiral begins:
+
+```mermaid
+graph TB
+    DemandA["Agent A demands: 'You must understand me!'<br><i>Potentiality demoted to compulsory debt</i>"]
+    ObligationTrap["[Defensive Shutdown]<br>Blast shields raised; authentic listening dies"]
+    ProjectionB["Agent B receives via distorted low-D filter"]
+    HurtA["Agent A feels wounded, dismissed, or mischaracterized"]
+    EscalateA["Agent A escalates with frantic verbal inflation"]
+    DistortionB["Explosion of low-D artifacts generates deeper distortions"]
+    WarZone["[Relational Death Spiral]<br>'You never really cared to understand me!'"]
+
+    DemandA --> ObligationTrap
+    ObligationTrap --> ProjectionB
+    ProjectionB --> HurtA
+    HurtA --> EscalateA
+    EscalateA --> DistortionB
+    DistortionB --> WarZone
+    WarZone -.->|"Mutual escalation & deadlock"| DemandA
+
+    style DemandA fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style ObligationTrap fill:#332424,stroke:#e06c75,stroke-width:2px,color:#e5c07b
+    style ProjectionB fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+    style HurtA fill:#3a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style WarZone fill:#3a1f1f,stroke:#e06c75,stroke-width:2px,color:#e06c75
+```
 
 Observe the pervasive exhaustion across modern relationships, marital breakdowns, and online polemics. Beneath the noise lies a single chronic neurosis: the frantic demand for external validation.
 
@@ -213,19 +285,19 @@ Yet the moment understanding is demoted to a compulsory duty—whether as person
 
 ```mermaid
 graph LR
-    subgraph SovereignMind["【自主探求的心智 / Sovereign Inquiring Mind】"]
-        RootOrigin["立足自身原点 (0, 0, 0)<br>Grounded, asks nothing from the mirror"]
+    subgraph SovereignMind["【自主探求的心智】"]
+        RootOrigin["立足自身原点 (0, 0, 0)<br>内心自足，不向镜像索求认可"]
     end
 
-    subgraph InfiniteFrontiers["【向外展开的无限维度 / Infinite Orthogonal Frontiers】"]
-        DimensionScience["理解自然与宇宙的深刻秩序<br>Understanding deep cosmos & nature"]
-        DimensionHuman["理解他人的因果历史与痛苦来源<br>Understanding the other's causal wounds"]
-        DimensionArt["理解未被开辟的技艺与审美<br>Exploring unmapped crafts & forms"]
+    subgraph InfiniteFrontiers["【向外展开的无限维度】"]
+        DimensionScience["理解自然与宇宙的深刻秩序"]
+        DimensionHuman["理解他人的因果历史与痛苦来源"]
+        DimensionArt["理解未被开辟的技艺与审美创造"]
     end
 
-    RootOrigin ==>|"探索与沉思 (+1)<br>Deep Inquiry"| DimensionScience
-    RootOrigin ==>|"同理与倾听 (+1)<br>Compassionate Listening"| DimensionHuman
-    RootOrigin ==>|"创造与前行 (+1)<br>Sovereign Creation"| DimensionArt
+    RootOrigin ==>|"探索与沉思 (+1)"| DimensionScience
+    RootOrigin ==>|"同理与倾听 (+1)"| DimensionHuman
+    RootOrigin ==>|"创造与前行 (+1)"| DimensionArt
 
     style SovereignMind fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
     style InfiniteFrontiers fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
@@ -252,7 +324,7 @@ graph LR
 ### 4. 沟通维度的终极解脱：成为他人读懂自身的镜子
 传统沟通理论最大的盲区，在于假定沟通的目标是“消除误解、准确传达自我”。但从观察者几何学来看，**一个人在字面上根本不可能以一种“不被误解”的方式去沟通**。语言是离散的脱水切片，接收者的坐标原点与你存在着固有的正交偏转。企图通过精密字句防堵一切误读，只会将沟通异化为冰冷繁琐的法律合同，或者导致心力交瘁的失语。
 
-然而，一旦我们从“必须传达自我”的执念中退后一步，沟通便迎来了一场奇迹般的升维：**虽然你无法保证自己不被误解，但你永远可以去尝试以这样一种方式沟通——为接收者创造出“让他们更好地理解他们自己”的可能性（One literally cannot communicate in a way not to be misunderstood, but one can always try to communicate in a way that creates possibility to the receiving part understood themselves better）。**
+然而，一旦我们从“必须传达自我”的执念中退后一步，沟通便迎来了一场奇迹般的升维：**虽然你无法保证自己不被误解，但你永远可以去尝试以这样一种方式沟通——为接收者创造出“让他们更好地理解他们自己”的可能性。**
 
 这是一种怎样的沟通范式？
 * **从强行植入到催化反思**：你不再试图将自己的观点像木桩一样钉入对方脑海，而是成为一面明澈的凸透镜或沉静的共鸣箱。你提出一个引发深思的开放性问题，耐心地接纳对方的停顿与困惑，让对方在与你的交互中，看清了自己内心的恐惧、未曾厘清的偏见、或是深藏已久的创造渴望。
@@ -265,32 +337,53 @@ If the inward demand to "be understood" leads straight into a swamp of infinite 
 
 The moment you retract your anxiety over how others see you and invest your attention in grasping how reality operates and why the soul before you acts as it does, an ontological miracle occurs: **infinite possibilities rush in to meet you.**
 
+```mermaid
+graph LR
+    subgraph SovereignMind["[Sovereign Inquiring Mind]"]
+        RootOrigin["Grounded at Origin (0, 0, 0)<br>Asks nothing from the external mirror"]
+    end
+
+    subgraph InfiniteFrontiers["[Infinite Orthogonal Frontiers]"]
+        DimensionScience["Understanding deep cosmos & nature"]
+        DimensionHuman["Understanding the other's causal wounds"]
+        DimensionArt["Exploring unmapped crafts & forms"]
+    end
+
+    RootOrigin ==>|"Deep inquiry (+1)"| DimensionScience
+    RootOrigin ==>|"Compassionate listening (+1)"| DimensionHuman
+    RootOrigin ==>|"Sovereign creation (+1)"| DimensionArt
+
+    style SovereignMind fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style InfiniteFrontiers fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style RootOrigin fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+```
+
 ### 1. The Orthogonal Expansion of Cognition
 When you seek only to understand rather than to be understood, your mind ceases to be an examination sheet begging for high marks; it becomes an astronomical observatory.
 To understand a branch of science is to gain fresh eyes on physical nature; to understand the metabolism of an ancient forest is to gain attunement with deep time; to understand an unfamiliar craft is to carve an uncrowded avenue of causal mastery (+1). Every genuine act of understanding establishes an unexplored orthogonal axis in your consciousness. Your living space ceases to be a single contested corridor; it expands into high-dimensional abundance.
 
-### 2. The Mechanics of Empathy: Entering the Foreign Frame
-In interpersonal encounters, "focusing on understanding" acts as the sovereign antidote to rivalry and shadow warfare.
-When confronted by someone hostile, unfair, or full of bitter bias, demanding that they understand you triggers an immediate brawl. But if you turn your curiosity toward understanding them, you look right through their prickly words into their causal continuum:
-* What ancestral wounds or formative betrayals forced them into this defensive armor?
-* What economic precarity or invisible grief drives this desperate posture?
-* What fragile certainty are they straining to preserve?
+### 2. The Essence of Empathy: Inhabiting the Other's Coordinates
+Even more miraculous is the relational alchemy of outward inquiry.
+When you encounter someone hostile, prejudiced, or unreasonable, obsessing over "being understood" guarantees immediate battle. But if your sovereign intention is to understand them, your attention shifts from their surface barbs to their underlying causal matrix:
+* What early wounds constructed their defensive carapace?
+* What structural exhaustion squeezes their thoughts into such brittle slogans?
+* What vulnerability are they desperately attempting to guard?
 
-When you approach another person with the curiosity due to a remote star system, you do not surrender. Rather, **you transcend their geometry**. Standing at a higher causal vantage point, their clumsy low-dimensional arrows sail through empty air, entirely incapable of bruising your center.
+In approaching them with the curiosity of an astronomer studying an extreme star, you have not conceded; you have **geometrically transcended their coordinate frame**. You perceive the landscape from a higher-dimensional vantage point, rendering their low-dimensional projections harmless.
 
-### 3. The Emergent Paradox of Resonance
-The deepest paradox of human connection is this: **profound mutual understanding is never won by demanding or litigating for it; it emerges spontaneously as an unforced byproduct of your decision to understand first.**
-When you drop your defenses and hold space to comprehend the other, they do not feel judged or pressured to perform. For the first time, their high-dimensional vulnerability is met with spacious presence rather than competitive projection. Sensing that they are safe from attack, their defensive projector powers down. In that stillness, reciprocal curiosity awakens: they naturally soften, step off their guardrail, and reach out to understand you in return.
+### 3. The Paradox of Emergent Resonance
+The deepest law of human connection is an inversion: **genuine understanding by others is never won by demanding or litigating; it emerges as an unforced byproduct of your decision to understand them.**
+When you listen without defensive posture, the other person feels an unaccustomed sanctuary. The moment they realize their nuanced depth is safe with you, their own cramped projector powers down. Uncoerced, they lower their weapons, step across the threshold, and awaken a genuine desire to draw near and understand you in return.
 
-### 4. The Communicative Metamorphosis: Becoming a Mirror for the Other
-The greatest fallacy of conventional communication theory is the assumption that the goal of dialogue is to eliminate misunderstanding and perfectly transmit the self. From observer geometry, however, **one literally cannot communicate in a way not to be misunderstood**. Language is inherently a discrete, dehydrated compression, and the receiver's coordinate origin is irreversibly tilted relative to your own. Striving to engineer a message immune to distortion is a neurosis that reduces speech to sterile legalistic defensiveness or paralyzes the voice altogether.
+### 4. The Communicative Metamorphosis: Becoming a Mirror for Their Self-Clarity
+The fatal blind spot of conventional communication advice is assuming that the goal is "to express oneself accurately so as never to be misunderstood." Yet under observer geometry, **one literally cannot communicate in a way not to be misunderstood.** Language is an analog continuum dehydrated into discrete tokens; every listener occupies an origin tilted away from yours. Trying to engineer bulletproof sentences only turns speech into an exhausting legal contract, culminating in defensive paralysis.
 
-Yet the moment we step back from the compulsion to transmit our own image, communication undergoes a miraculous phase shift: **while you can never ensure you will not be misunderstood, you can always try to communicate in a way that creates possibility for the receiver to understand themselves better.**
+The moment you surrender the frantic compulsion to force yourself into another person's decoder, communication undergoes a liberating metamorphosis: **while you can never guarantee you will not be misunderstood, you can always communicate in a way that creates possibilities for the receiving party to understand themselves better.**
 
-What does this communicative posture look like in practice?
-* **From Implantation to Catalytic Reflection**: You cease trying to hammer your conclusions into the other mind. Instead, you become a clear acoustic chamber or a reflective lens. You ask open, generative questions; you hold space for their hesitation; you mirror back their unspoken tensions. Through your presence, the other person sees their own hidden fears, unexamined assumptions, or dormant longings clearly for the first time.
-* **Liberation from the Exhaustion of Self-Justification**: Accepting that misunderstanding is an unavoidable physical baseline liberates you from the exhausting urge to litigate every misconstrued sentence. Even if the listener misreads your motives, if the encounter helps them untangle their own causal knots and perceive their own agency more clearly, the dialogue has achieved the highest form of success.
-* **From Demanding Silhouettes to Empowering Sovereignty**: Demanding to be understood treats the other as an instrument for your validation. Communicating to help the other understand themselves treats them as a sovereign universe. You stop fighting over the flat shadow of your ego, and instead shine a light into the unmapped wilderness of their own potential.
+What does this sovereign communication look like?
+* **From Imposition to Catalysis**: You cease hammering your conclusions into their mind. Instead, you serve as a quiet acoustic chamber and a clear mirror. You offer a question that invites genuine pause; you receive their uncertainty with calm spaciousness. In encountering you, they finally see their own hidden fears, untangled premises, or unexpressed creative longing with fresh clarity.
+* **Ending the Exhaustion of Self-Defense**: Because misunderstanding is an inescapable baseline of projection, you no longer waste vitality litigating every twisted syllable. Even if they misinterpret your words, if the interaction enabled them to clarify their own causal knots, the conversation was a triumph.
+* **From Demanding a Silhouette to Empowering a Knower**: Begging to be understood demands that others labor on your behalf. Catalyzing their self-clarity is an act of sovereign grace that empowers their autonomy. You drop your own shadow, and illuminate their living ground.
 
 ---
 
@@ -298,24 +391,24 @@ What does this communicative posture look like in practice?
 
 要将这一深刻的非对称性内化为日常行走的底气，我们需要在日常生活中持守四项朴素而坚韧的本体论实践：
 
-### 1. 放下对低维镜像的执念（Release the Lossy Mirror）
+### 1. 放下对低维镜像的执念
 时刻警惕自己内心那个渴望被他人“分毫不差地看懂”的虚荣小我。
 接受一个坚固的物理事实：**任何他人大脑中的你，都只是一张严重失真、分辨率极低的二维切片。** 哪怕是最亲密的伴侣、最挚密的朋友，他们也永远无法在脑海中复刻你内在全部的因果波澜。这不是冷漠，这是时空原点的分离所赋予个体的天然孤独。
 不要耗费宝贵的生命去校准他人石壁上的那张影子。影子是他们的滤镜所铸造的，与你真实的鲜活存在毫无关联。
 
-### 2. 内在自主立足，外向无限探求（Inward Grounding, Outward Inquiry）
+### 2. 内在自主立足，外向无限探求
 将你生命的锚点，稳稳扎在自己的第一人称原点 (0, 0, 0) 之上。你的价值源于你在当下每一次真实的行动、每一次自主的因果裁决（+1）、以及你对这个世界深沉的爱与好奇，并不取决于他人投射过来的评语与分数。
 把用于“辩解、证明、申诉”的能量全部收回，倾注于对外部无限疆域的探索中去：去解开一个未解的难题，去习得一项精湛的手艺，去关怀一个正在受苦的生灵。向外探索的世界有多辽阔，你的自由就有多宽广。
 
-### 3. 敬畏理解的非对称性（Honor the Sovereign Asymmetry）
+### 3. 敬畏理解的非对称性
 在人际交往中建立起成年人的清醒与豁达：
 * **不被理解是宇宙的物理常态**：因为维度的落差与视角的倾斜，别人误解你、曲解你、甚至把你想象得面目全非，在数学上本就是自然现象，无需为此感到愤懑与委屈。
 * **偶然的心意相通是天赐的奇迹**：在无限维度的漂流中，如果有某个人在某个瞬间，穿透了重重低维迷雾，敏锐地捕捉到了你灵魂深处的一丝微光，请以最谦卑的心情将其视为奇迹与恩赐，深加珍惜，却不可贪求将其变成永恒锁定的制度契约。
 
-### 4. 守护理解的潜在性：是恩赐，非债务（Protect Understanding as Potential, Never Debt）
+### 4. 守护理解的潜在性：是恩赐，非债务
 理解是每个人天然具备的潜在无限，但它只能在自由与松弛中自然萌发。既不要向他人索求理解的债务，将伴侣或朋友逼入防御的闭锁状态；也不要将理解他人异化为自我牺牲的沉重徭役。唯有在毫无强迫的土壤中，无限的潜能才能自由呼吸。
 
-### 5. 成为催化剂，而非投影源（Be a Catalyst, Never a Projected Silhouette）
+### 5. 成为催化剂，而非投影源
 在一切真诚的交流中，放下“必须让对方搞懂我”的执念。把沟通的目标从“自证其貌”颠倒为“助他明心”：以好奇为桥，以倾听为镜，为对方更好地读懂自身创造可能。
 
 ---

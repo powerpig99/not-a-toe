@@ -16,24 +16,24 @@
 
 ```mermaid
 graph TD
-    subgraph ThreefoldInfinity["【三重潜在无限的共生结构 / The Threefold Potential Infinity】"]
-        SubstrateFold["【第一重：共有感知基底】<br>Shared Perceptual Substrate<br>Rich biological & neural hardware; foundation of empathy"]
-        PerspectiveFold["【第二重：个体第一人称视界】<br>Singular Conscious Vantage<br>Irreplicable origin (0, 0, 0); sovereign causal cut +1"]
-        TerritoryFold["【第三重：不可约现实本体】<br>High-Dimensional Physical Reality<br>Analog causal continuum, infinitely richer than discrete models"]
+    subgraph ThreefoldInfinity["【三重潜在无限的共生结构】"]
+        SubstrateFold["【第一重：共有感知基底】<br>高度同构的生物与神经硬件，同理心与协作的基石"]
+        PerspectiveFold["【第二重：个体第一人称视界】<br>无可替代的原点 (0, 0, 0)，自主因果裁决 +1"]
+        TerritoryFold["【第三重：不可约现实本体】<br>高维物理与生物实在，远超离散符号模型"]
 
         SubstrateFold <--> PerspectiveFold
         PerspectiveFold <--> TerritoryFold
         SubstrateFold <--> TerritoryFold
     end
 
-    TerritoryFold ==>|"符号化离散压缩<br>Informational Compression"| LowDModel["纯然信息的低维模型<br>Low-Dimensional Symbol / Token<br>Labels, scalar scores, formal equations"]
+    TerritoryFold ==>|"符号化离散压缩"| LowDModel["纯然信息的低维模型<br>标签、标量评分、形式方程"]
 
     style ThreefoldInfinity fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
     style TerritoryFold fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
     style LowDModel fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
 ```
 
-请注意，正如我们在[潜在无限与数学思维的暂态闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)中所论证的，这些无限不是数学上已经完成的“终极全集”（Actual Infinity in Totality），而是向着深邃未知永恒敞开的“潜在无限”（Potential Infinity for all practical purposes）。
+请注意，正如我们在[潜在无限与数学思维的暂态闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)中所论证的，这些无限不是数学上已经完成的“终极全集”，而是向着深邃未知永恒敞开的“潜在无限”。
 
 ---
 
@@ -45,6 +45,25 @@ The second infinity is the **radical divergence of the first-person vantage**. D
 
 The third infinity is the **asymmetric chasm between living reality and informational models**. The physical and biological cosmos we directly perceive is an irreducible, high-dimensional analog continuum. When you taste an apple, your sensory apparatus processes hundreds of volatile compounds, cell-turgor shear stresses, temperature gradients, and ancient evolutionary memories in real time. Our rational "understanding" of that moment, by contrast, is a tiny cluster of dehydrated symbols: "it is sweet," "it contains fructose," "it has sixty calories." Understanding is discrete informational compression, whereas perceived reality is an unbounded high-dimensional ocean.
 
+```mermaid
+graph TD
+    subgraph ThreefoldInfinity["[The Threefold Potential Infinity]"]
+        SubstrateFold["[Shared Perceptual Substrate]<br>Shared biological & neural hardware; foundation of empathy"]
+        PerspectiveFold["[Singular Conscious Vantage]<br>Irreplicable origin (0, 0, 0); sovereign causal cut +1"]
+        TerritoryFold["[Irreducible Physical Reality]<br>Analog causal continuum, infinitely richer than discrete models"]
+
+        SubstrateFold <--> PerspectiveFold
+        PerspectiveFold <--> TerritoryFold
+        SubstrateFold <--> TerritoryFold
+    end
+
+    TerritoryFold ==>|"Informational Compression"| LowDModel["Low-Dimensional Symbolic Models<br>Labels, scalar scores, formal equations"]
+
+    style ThreefoldInfinity fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style TerritoryFold fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+    style LowDModel fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+```
+
 Crucially, as established in [Potential Infinity and the Temporary Closures of Mathematical Thought](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/), these infinities are not completed totalities frozen into mathematical sets; they are open-ended horizons of potential infinity unfolding across living experience.
 
 ---
@@ -53,20 +72,20 @@ Crucially, as established in [Potential Infinity and the Temporary Closures of M
 
 当我们拥有如此庞大的三重无限时，一个惊人的科学奇迹发生了：**为什么物理学与社会学总能推导出如此简洁、优美且看似分毫不差的“确定性定律”？**
 
-答案隐藏在几何投影的数学机制中：**所谓的确定性，并不是宇宙本体的底层法则，而是我们将无限高维的鲜活现实投影到低维坐标系时，所必然浮现的数学签名（Deterministic Signature）。**
+答案隐藏在几何投影的数学机制中：**所谓的确定性，并不是宇宙本体的底层法则，而是我们将无限高维的鲜活现实投影到低维坐标系时，所必然浮现的数学签名。**
 
 ```mermaid
 graph LR
-    subgraph HighDSpace["【无限高维现实空间 / High-Dimensional Reality】"]
-        MicroFluctuations["接近于无穷大的微观自由变量<br>Near-Infinite Free Variables<br>Quantum phase cuts, unique perspectives, rich analog signals"]
+    subgraph HighDSpace["【无限高维现实空间】"]
+        MicroFluctuations["接近于无穷大的微观自由变量<br>量子相位扰动、独特视角、连续模拟信号"]
     end
 
-    subgraph ProjectionProcess["【低维几何投影 / Dimensional Projection】"]
-        Drop["维度的剧烈暴跌<br>Drastic Dimensional Drop<br>Statistical averaging & category filtering"]
+    subgraph ProjectionProcess["【低维几何投影】"]
+        Drop["维度的剧烈暴跌<br>统计平均与类别滤镜"]
     end
 
-    subgraph LowDShadow["【低维投影屏幕 / Low-Dimensional Screen】"]
-        DeterministicLine["平滑而坚固的确定性曲线<br>Deterministic Signature<br>Smooth lines, scalar laws (PV = nRT, market curves)"]
+    subgraph LowDShadow["【低维投影屏幕】"]
+        DeterministicLine["平滑而坚固的确定性曲线<br>宏观平滑规律 (PV = nRT、供求曲线)"]
     end
 
     MicroFluctuations --> Drop
@@ -78,7 +97,7 @@ graph LR
 ```
 
 让我们观察这种“维度的暴跌”是如何在各个学科中上演的：
-* **在热力学中**：一立方米的气体包含数以十万亿亿计的气体分子，每一个分子都在量子与电磁尺度经历着无法追踪的高维微观碰撞。然而，当物理学家将这庞大无匹的高维运动投影到仅仅由三个宏观统计平均量构成的三维空间——压强（P）、体积（V）、温度（T）时，所有的微观涨落都在大数定律下互相抵消。瞬间，理想气体状态方程 PV = nRT 浮现了出来！物理学家激动地宣布找到了控制气体的永恒铁律，却遗忘了这一定律仅仅是剧烈降维后的平滑统计阴影。
+* **在热力学中**：一立方米的气体包含数以十万亿亿计的气体分子，每一个分子都在量子与电磁尺度经历着无法追踪的高维微观碰撞。然而，当物理学家将这庞大无匹的高维运动投影到仅仅由三个宏观统计平均量构成的三维空间——压强 P、体积 V、温度 T 时，所有的微观涨落都在大数定律下互相抵消。瞬间，理想气体状态方程 PV = nRT 浮现了出来！物理学家激动地宣布找到了控制气体的永恒铁律，却遗忘了这一定律仅仅是剧烈降维后的平滑统计阴影。
 * **在经济学与社会学中**：八十亿人类拥有接近于无限的内心世界、各异的情感羁绊与不可预测的创造性裁决。但当统计学家将这八十亿个高维生命体投影到单一维度的数值上——价格（如每斤三元）、信用评分（如七百五十分）、或者一张选票（零与一）时，个体之间的丰富差异在投影轴上被无情压扁。人群展现出了稳定的供给需求曲线与周期性行为。学者们欢呼人类行为是可以通过数学公式精确预测的，误将降维造成的平滑假象当成了人性的本质。
 
 确定性不是大自然的内在骨架；**确定性是无限系统在遭遇低维测量时，被强行抹去高阶自由度后所残留的低维投影痕迹。**
@@ -88,6 +107,28 @@ graph LR
 Given this vast threefold infinity, a startling scientific paradox emerges: **why do physics and sociology continually discover clean, elegant, and apparently rigid "deterministic laws"?**
 
 The answer lies in the mathematics of dimensional projection: **determinism is not an ontological law of the deep cosmos; determinism is the mathematical signature that inevitably appears whenever an infinite-dimensional reality is projected onto a low-dimensional space.**
+
+```mermaid
+graph LR
+    subgraph HighDSpace["[High-Dimensional Reality]"]
+        MicroFluctuations["Near-Infinite Free Variables<br>Quantum phase cuts, unique perspectives, rich analog signals"]
+    end
+
+    subgraph ProjectionProcess["[Dimensional Projection]"]
+        Drop["Drastic Dimensional Drop<br>Statistical averaging & category filtering"]
+    end
+
+    subgraph LowDShadow["[Low-Dimensional Screen]"]
+        DeterministicLine["Deterministic Signature<br>Smooth lines, scalar laws (PV = nRT, market curves)"]
+    end
+
+    MicroFluctuations --> Drop
+    Drop --> DeterministicLine
+
+    style HighDSpace fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style ProjectionProcess fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+    style LowDShadow fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+```
 
 Consider how this drastic dimensional drop operates across various fields:
 * **In thermodynamics**: A single cubic meter of gas contains tens of sextillions of molecules, each undergoing unpredictable, high-dimensional micro-collisions. Yet when a physicist projects this unfathomable complexity onto a simple three-dimensional space of macroscopic averages—Pressure (P), Volume (V), and Temperature (T)—all microscopic variances cancel out under the Law of Large Numbers. Instantly, the ideal gas law PV = nRT appears. The physicist marvels at having uncovered a deterministic natural law, forgetting that this law is merely the smooth statistical shadow cast by a severe dimensional collapse.
@@ -105,24 +146,22 @@ Determinism is not the structural bedrock of the universe; **determinism is the 
 
 ```mermaid
 graph TB
-    subgraph HighDManifold["【高维丰沛空间：正交共生 / Multi-Dimensional Living Space】"]
-        DirectionA["正交探索方向 A：艺术与审美<br>Orthogonal Axis A: Art & Beauty"]
-        DirectionB["正交探索方向 B：科学与沉思<br>Orthogonal Axis B: Deep Inquiry"]
-        DirectionC["正交探索方向 C：手作与家庭<br>Orthogonal Axis C: Craft & Care"]
-        DirectionD["正交探索方向 D：冒险与开拓<br>Orthogonal Axis D: Exploration"]
+    subgraph HighDManifold["【高维丰沛空间：正交共生】"]
+        DirectionA["正交探索方向 A：艺术与审美"]
+        DirectionB["正交探索方向 B：科学与沉思"]
+        DirectionC["正交探索方向 C：手作与家庭"]
+        DirectionD["正交探索方向 D：冒险与开拓"]
 
         DirectionA ~~~ DirectionB ~~~ DirectionC ~~~ DirectionD
-        CoexistenceNotice["【无限正交维度，测度为零的相撞概率】<br>Infinite orthogonal space: infinite individuals coexist without bumping into each other"]
+        CoexistenceNotice["【无限正交维度，测度为零的相撞概率】<br>无限主体互不挤压，丰沛漫步"]
     end
 
-    HighDManifold ==>|"设立低维避碰护栏<br>Guidance to Avoid Conflict"| LowDGuidance["【低维避碰指引 / Collision-Avoidance Guidance】<br>交通标线、产权界线、交易契约、法律规则<br><i>Negative guardrails to keep high-D agents from colliding</i>"]
+    HighDManifold ==>|"设立低维避碰护栏"| LowDGuidance["【低维避碰指引】<br>交通标线、产权界线、交易契约、法律规则<br><i>防止高维主体无序碰撞的负向护栏</i>"]
 
-    LowDGuidance ==>|"致命认知倒错：误将护栏当博弈战场<br>Fatal Inversion: Mistaking Guidance for the Game"| LowDWarZone
+    LowDGuidance ==>|"致命认知倒错：误将护栏当博弈战场"| LowDWarZone
 
-    subgraph LowDWarZone["【惨烈的低维战场 / Tragically Low-Dimensional War Zone】"]
-        ScalarAxis["单一线性格子：排队 / 排名 / 财富竞逐 / 二元阵营<br>Single 1D Linear Metric: Status / Net Worth / Binary Politics"]
-        ClashPoint["【零和碰撞与惨烈厮杀】<br>Zero-Sum Carnage on the Guardrail<br>Turned safe boundaries into an exclusive killing ground!"]
-        ScalarAxis --> ClashPoint
+    subgraph LowDWarZone["【惨烈的低维战场】<br>单一排位、指标竞逐、二元对立阵营"]
+        ClashPoint["【零和碰撞与惨烈厮杀】<br>把安全的避碰护栏异化为排他性的生死战场！"]
     end
 
     style HighDManifold fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
@@ -142,13 +181,13 @@ graph TB
 
 更深沉的荒谬在于：人类最初为何要发明这些低维标尺与边界？
 
-人类发明交通标线、产权界桩、交易契约与法律规则，初衷是为了提供一套**规避冲突的负向指引与安全护栏（Guidance to avoid conflict）**。在广袤的三维大地上，公路上的黄色标线不是为了让人在上面安家落户，而是为了让两辆高速行驶的汽车能够互不刮蹭、平安擦肩而过，继续驶向各自无限广阔的目的地；文明中的契约、产权与礼仪边界，原本只是为了防止高维主体在物理或资源互动中发生无谓的碰撞。
+人类发明交通标线、产权界桩、交易契约与法律规则，初衷是为了提供一套**规避冲突的负向指引与安全护栏**。在广袤的三维大地上，公路上的黄色标线不是为了让人在上面安家落户，而是为了让两辆高速行驶的汽车能够互不刮蹭、平安擦肩而过，继续驶向各自无限广阔的目的地；文明中的契约、产权与礼仪边界，原本只是为了防止高维主体在物理或资源互动中发生无谓的碰撞。
 
-然而，人类文明演进中最致命的一场认知倒错在此发生：**我们误将规避冲突的避碰指引，当成了自己必须全力参与的零和博弈（We mistake the guidance to avoid conflict as the zero-sum game we have to play）。**
+然而，人类文明演进中最致命的一场认知倒错在此发生：**我们误将规避冲突的避碰指引，当成了自己必须全力参与的零和博弈。**
 
 我们不再把护栏当作保护生命的边界，反而集体爬到了狭窄的护栏之上；我们把指引车辆分流的标线，变成了争夺立足之地的独木桥。当所有人的目光都被锁死在这条细线上时，线上的相对位置就成了唯一的战利品：谁排在第一位？谁抢了谁的身位？谁又该把谁挤下深渊？
 
-**这就是我们如何亲手将丰沛辽阔的多维生存空间，异化为逼仄而惨烈的低维绞杀战场（This is how we turn the multi-dimensional living space into a tragically low-dimensional war zone）。** 在无限的正交空间中，相撞的概率原本测度为零；但在被人为挤压的低维走廊里，每一次呼吸都成了互不相容的抢夺。
+**这就是我们如何亲手将丰沛辽阔的多维生存空间，异化为逼仄而惨烈的低维绞杀战场。** 在无限的正交空间中，相撞的概率原本测度为零；但在被人为挤压的低维走廊里，每一次呼吸都成了互不相容的抢夺。
 
 一切意识形态的仇恨、阶层内卷的焦虑与族群对抗的烈火，其本质都不是物理资源的匮乏，而是心智**被囚禁在低维投影幕上所遭受的维度窒息**。
 
@@ -157,6 +196,32 @@ graph TB
 Understanding this dimensional collapse provides a geometric master key to deciphering human conflict, rivalry, and zero-sum warfare:
 
 > **In the high-dimensional reality of the physical and biological cosmos, there are boundless orthogonal directions capable of sustaining infinite unique individuals without mutual interference. Yet the moment human existence is compressed onto low-dimensional scalar metrics, artificial congestion and catastrophic collision become mathematically inevitable.**
+
+```mermaid
+graph TB
+    subgraph HighDManifold["[Multi-Dimensional Living Space: Orthogonal Coexistence]"]
+        DirectionA["Orthogonal Axis A: Art & Beauty"]
+        DirectionB["Orthogonal Axis B: Deep Inquiry"]
+        DirectionC["Orthogonal Axis C: Craft & Care"]
+        DirectionD["Orthogonal Axis D: Exploration"]
+
+        DirectionA ~~~ DirectionB ~~~ DirectionC ~~~ DirectionD
+        CoexistenceNotice["[Infinite Orthogonal Space: Measure-Zero Collision Probability]<br>Infinite individuals coexist without mutual interference"]
+    end
+
+    HighDManifold ==>|"Install Negative Guardrails"| LowDGuidance["[Collision-Avoidance Guidance]<br>Lane markers, property lines, legal contracts<br><i>Negative guardrails to keep high-D agents from colliding</i>"]
+
+    LowDGuidance ==>|"Fatal Inversion: Mistaking Guidance for the Arena"| LowDWarZone
+
+    subgraph LowDWarZone["[Tragically Low-Dimensional War Zone]<br>Scalar ranks, metric obsession, binary polarization"]
+        ClashPoint["[Zero-Sum Carnage on the Guardrail]<br>Turned safe boundaries into an exclusive killing ground!"]
+    end
+
+    style HighDManifold fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style LowDGuidance fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+    style LowDWarZone fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style ClashPoint fill:#3a1f1f,stroke:#e06c75,stroke-width:2px,color:#e5c07b
+```
 
 In higher mathematics, high-dimensional spaces possess an extraordinary geometric virtue: when two complex, high-dimensional manifolds traverse an expansive domain, the probability of their intersection is measure-zero. In the open causal territory of living reality, one person immerses themselves in botanical gardening, another explores astronomical theory, a third crafts wooden furniture, and a fourth builds alpine footpaths. The natural axes of human existence are practically infinite. Every life can carve out its own unique trajectory without crowding anyone else.
 
@@ -189,17 +254,17 @@ All ideological warfare, bureaucratic status anxiety, and tribal bitterness do n
 
 ```mermaid
 graph LR
-    subgraph PlatoOriginal["【古典柏拉图洞穴 / Classical Cave Allegory】"]
-        PrisonerA["囚徒被动观看墙上的阴影<br>Passive Spectators<br>Mistaking projected shadows for real forms"]
+    subgraph PlatoOriginal["【古典柏拉图洞穴】"]
+        PrisonerA["囚徒被动观看墙上的阴影<br>误把投影当成唯一的真实"]
     end
 
-    subgraph InvertedCave["【颠倒的现代洞穴：阴影死斗 / The Inverted Modern Cave】"]
-        ShadowClash["执迷于自身的低维投影<br>Worshipping 2D Silhouettes<br>Fighting wars because two flat shadows bumped into each other!"]
-        IgnoredInfinity["背后的广袤高维现实被置之不顾<br>Open Living Infinity Ignored<br>Vast orthogonal space remains untouched"]
+    subgraph InvertedCave["【颠倒的现代洞穴：阴影死斗】"]
+        ShadowClash["执迷于自身的低维投影<br>因二维阴影发生擦碰而大打出手！"]
+        IgnoredInfinity["背后的广袤高维现实被置之不顾<br>无限的正交生机无人问津"]
         ShadowClash --- IgnoredInfinity
     end
 
-    PlatoOriginal ==>|"现代文明的异化深渊<br>Modern Tragic Inversion"| InvertedCave
+    PlatoOriginal ==>|"现代文明的异化深渊"| InvertedCave
 
     style PlatoOriginal fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
     style InvertedCave fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
@@ -209,7 +274,7 @@ graph LR
 审视那些充斥于社交媒体、政治辩论与家庭餐桌上的无休止争吵，你会发现：**人们从来不是在为真实的世界而战，而是在为各自低维投影的碰撞而战：**
 * **意识形态狂热者**：把波澜壮阔、生生不息的人类社会，强行塞进一套极度贫瘠的教条标签中（如“进步与反动”、“正义与邪恶”）。他们看不见眼前那个有血有肉、需要抚育幼子、会为落日叹息的活人，他们只能看见那个活人在其教条滤镜下所投射出的敌对黑影。为了消灭那个纸片般的黑影，他们不惜将现实中的生灵推入火海。
 * **官僚与指标狂人**：把教育的灵性简化为一个升学率，把医疗的温度简化为一个周转率，把复杂城市的生机简化为一个排他性的整洁度指标。当活生生的人性伸出枝桠、超出了这些僵死表格的边界时，他们便挥舞剪刀，将鲜活的生命强行修剪成符合二维表格的残疾模具。
-* **防御性的小我（Ego）**：许多人在年轻时偶然凝固下了一个关于自己的低维画像——一个“成功的标签”、“被伤害的受害者身份”、或者“永远正确的权威人设”。在接下来的漫长人生里，他们放弃了向着无限现实继续探索的可能，转而将全部的生命能量，用于抵御任何可能蹭破这张二维画像的细微风吹草动。
+* **防御性的小我**：许多人在年轻时偶然凝固下了一个关于自己的低维画像——一个“成功的标签”、“被伤害的受害者身份”、或者“永远正确的权威人设”。在接下来的漫长人生里，他们放弃了向着无限现实继续探索的可能，转而将全部的生命能量，用于抵御任何可能蹭破这张二维画像的细微风吹草动。
 
 两张平面的影子在石壁上重叠了，影子不会流血，但投射出这些影子的人类却因此拔刀相向。这就是低维执迷给文明带来的最沉痛的诅咒。
 
@@ -218,6 +283,25 @@ graph LR
 Twenty-four hundred years ago, Plato presented his renowned Allegory of the Cave in *The Republic*: chained prisoners, unable to turn their heads, mistook the flickering shadows of puppets cast by firelight onto stone walls for the true universe.
 
 Yet the tragedy modern civilization enacts today is far more absurd than Plato imagined. Humanity does not merely mistake flat projections for reality; deep within the cave, we have launched an endless series of catastrophic **shadow wars**:
+
+```mermaid
+graph LR
+    subgraph PlatoOriginal["[Classical Cave Allegory]"]
+        PrisonerA["Passive Spectators<br>Mistaking projected shadows for real forms"]
+    end
+
+    subgraph InvertedCave["[The Inverted Modern Cave: Shadow Warfare]"]
+        ShadowClash["Worshipping 2D Silhouettes<br>Fighting wars because two flat shadows bumped into each other!"]
+        IgnoredInfinity["Open Living Infinity Ignored<br>Vast orthogonal space remains untouched"]
+        ShadowClash --- IgnoredInfinity
+    end
+
+    PlatoOriginal ==>|"Modern Tragic Inversion"| InvertedCave
+
+    style PlatoOriginal fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style InvertedCave fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style ShadowClash fill:#3a1f1f,stroke:#e06c75,stroke-width:2px,color:#e5c07b
+```
 
 Observe the bitter arguments raging across digital networks, legislative assemblies, and dining tables. **People are never fighting over the living territory; they are fighting over the collision of their flattened low-dimensional shadows:**
 * **The ideological zealot**: Compresses the kaleidoscopic metabolism of society into a rigid, impoverished binary label (e.g. "progressive vs. reactionary," "pure vs. corrupted"). They cannot see the breathing human being standing before them—a parent caring for a child, a person moved by music. They see only the hostile black silhouette cast by their ideological filter. To annihilate that flat shadow on the wall, they are willing to set the living world on fire.
@@ -236,31 +320,31 @@ When two flat shadows overlap on a stone wall, the shadows feel no pain; yet the
 
 ```mermaid
 graph TD
-    subgraph ThreeEthicalRules["【与无限同行的三大法则 / Three Laws of Walking with Infinity】"]
-        Rule1["【法则一：工具性清醒】<br>Tool, Never Idol<br>Low-D models are temporary navigational aids, not gods"]
-        Rule2["【法则二：正交前行】<br>Orthogonal Expansion<br>Step off the 1D competitive line into unexplored dimensions +1"]
-        Rule3["【法则三：同侪敬畏】<br>Intersubjective Reverence<br>Honor the unanticipatable infinite depth inside every other person"]
+    subgraph ThreeEthicalRules["【与无限同行的三大法则】"]
+        Rule1["【法则一：工具性清醒】<br>低维模型仅是导航仪器，非崇拜偶像"]
+        Rule2["【法则二：正交前行】<br>离开拥挤的一维跑道，开辟新维度 +1"]
+        Rule3["【法则三：同侪敬畏】<br>敬畏他人内在不可预知的无穷深度"]
 
         Rule1 --> Rule2
         Rule2 --> Rule3
     end
 
-    Rule3 ==>|"终极生存跃迁<br>Sovereign Liberation"| OpenLivingField["走向广阔的现实天地 (+1)<br>Moving Ahead in the Open Continuum"]
+    Rule3 ==>|"终极生存跃迁"| OpenLivingField["走向广阔的现实天地 (+1)<br>在不可穷尽的连续统中漫步"]
 
     style ThreeEthicalRules fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
     style Rule2 fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
     style OpenLivingField fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
 ```
 
-### 1. 工具性清醒：是标尺，绝非偶像（Tool, Never Idol）
+### 1. 工具性清醒：是标尺，绝非偶像
 我们无需抛弃低维模型。科学定律、货币价格、地图与分类词汇是极其高效的导航仪器。一张地图通过省略九成九的地理细节，帮助我们在群山中不至于迷路。但清醒的行者明白：**地图是为人服务的工具，人不是为了充当地图上的一个点而降生在世上的。**
 任何时候，一旦某个模型、考核指标或意识形态试图以“客观真理”的名义反客为主，要求你为了维持其模型的优美而牺牲活生生的现实时，你必须在心中果断祛魅：它不过是一张低维图纸，撕碎它，现实毫发无伤。低维规则与边界原本只是避免碰撞的安全护栏，绝非生活的竞技场；利用它规避冲突，随后立即把目光投向正交的无限旷野。
 
-### 2. 正交前行：离开那条拥挤的一维跑道（Orthogonal Expansion）
+### 2. 正交前行：离开那条拥挤的一维跑道
 当你发现自己正陷入与他人的无休止攀比、嫉妒与防御性争斗时，停下脚步，审视一下自己是否正被困在一个低维投影幕上。
 别人在争夺某个职位的头衔、某项资产的数字、或者某种立场的正确性，那是他们自愿锁闭在的一维标尺。你无需在那条狭窄的跑道上拼死超车。宇宙拥有无限的正交轴线——向着好奇心展开、向着真挚的情谊展开、向着未被命名的技艺展开。当你选择向着一个新的正交维度迈出一步时，所谓的竞争对手在几何学上便瞬间失去了与你碰撞的可能。广袤的自由只属于那些敢于在无人处开辟新坐标的人。
 
-### 3. 同侪敬畏：直面他人的深渊（Intersubjective Reverence）
+### 3. 同侪敬畏：直面他人的深渊
 在面对任何一个活生生的人时，提醒自己放下脑海中那张由标签拼凑而成的扁平肖像。
 对方不仅与你共享着数亿年沉淀下来的深邃感知硬件，更携带着一个由数十年独特记忆编织而成的平行宇宙。他的一颦一笑、一次不可理喻的发怒、一个看似不可思议的抉择，背后都有着一个庞大、高维的因果网络在支撑。你无法用一句话、一个立场或一种诊断充分定义他。当你以对待一个无穷世界的敬畏去对待另一个生命时，低维的摩擦自然消散，深度的同频与共鸣才有可能降临。
 
@@ -269,6 +353,24 @@ graph TD
 If the genesis of human conflict lies in low-dimensional fixation, then liberation cannot be won by fighting for supremacy inside the flattened trap. It requires stepping off the screen, turning around, and **walking ahead with infinity**.
 
 This demands three foundational ontological disciplines in perception, action, and human encounter:
+
+```mermaid
+graph TD
+    subgraph ThreeEthicalRules["[Three Laws of Walking with Infinity]"]
+        Rule1["[Law 1: Instrumental Clarity]<br>Low-D models are temporary navigational aids, not idols"]
+        Rule2["[Law 2: Orthogonal Expansion]<br>Step off the 1D competitive line into unexplored dimensions (+1)"]
+        Rule3["[Law 3: Intersubjective Reverence]<br>Honor the unanticipatable infinite depth inside every other person"]
+
+        Rule1 --> Rule2
+        Rule2 --> Rule3
+    end
+
+    Rule3 ==>|"Sovereign Liberation"| OpenLivingField["Moving Ahead in the Open Continuum (+1)"]
+
+    style ThreeEthicalRules fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style Rule2 fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
+    style OpenLivingField fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+```
 
 ### 1. Instrumental Clarity: A Tool, Never an Idol
 We need not discard low-dimensional models. Scientific equations, monetary prices, maps, and vocabularies are extraordinary navigational aids. A map helps us cross mountain ranges precisely by discarding ninety-nine percent of terrain details. But the grounded walker remembers: **the map is an instrument serving life; human beings were not born to become coordinates on paper.**
