@@ -186,19 +186,36 @@ Once this substitution crystallizes, Goodhart's Law bites with vicious force: **
 
 在这样的流水线上，一个学生若是对一道题背后的深层物理机制产生了好奇，停下来探究三个小时，他在制度评价中不但得不到奖赏，反而会遭到无情的惩罚——因为他浪费了刷完十套模拟卷的时间。好奇心在流水线中成了负资产；对知识的真正热爱成了导致排名落后的致命风险。
 
-```
-【真实的学习】
-心智 (0, 0, 0)  ======>  [物理/生物/逻辑模式]  ======>  认知边界向外扩展 (+1)
-(目标：理解客观规律；空间：无限开放；关系：非零和与互为启发)
+```mermaid
+graph TD
+    subgraph GenuineLearning["【本真学习：高维实在的开放探索】"]
+        MindA["自主心智 (0, 0, 0)"]
+        MindB["同行伙伴 (0, 0, 0)"]
+        Patterns["实在的内在模式<br>（物理规律、生物构造、数理逻辑）"]
+        Expansion["【认知边界外扩（+1）】<br>目标：搞懂客观因果<br>空间：无限开放高维疆域<br>关系：非排他共存、互为启发"]
 
----------------------------------------------------------------------------------
+        MindA ==>|"直接经验碰撞与惊奇"| Patterns
+        MindB ==>|"多重视角勘探"| Patterns
+        Patterns --> Expansion
+    end
 
-【倒置的竞技】
-学生甲 (排位赛)  <----争夺单一指标 (分数/名额)---->  学生乙 (排位赛)
-                       ▲
-                       │ (背诵标准答案、优化答题模板)
-              [低维评分寄存器 / 考卷]
-(目标：压制同侪；空间：一维挤压；关系：你死我活的零和博弈)
+    subgraph InvertedArena["【倒置竞技：低维走廊的零和互搏】"]
+        StudentA["学生甲（被规训的排位者）"]
+        StudentB["学生乙（被规训的排位者）"]
+        ExamRegister["【低维评分寄存器】<br>试卷打分、正态分布曲线、排位百分比"]
+        ZeroSumResult["【一维独木桥的零和博弈】<br>目标：压制同侪、背诵模板<br>空间：人为设定的狭窄配额走廊<br>代价：好奇心被扼杀，同侪异化为敌人"]
+
+        StudentA ==>|"争夺稀缺录取位次"| ExamRegister
+        StudentB ==>|"争夺稀缺录取位次"| ExamRegister
+        StudentA <-.->|"横向敌意与防范：多一人高分，多一分危险"| StudentB
+        ExamRegister --> ZeroSumResult
+    end
+
+    style GenuineLearning fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style InvertedArena fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style Expansion fill:#243324,stroke:#98c379,stroke-width:2px,color:#98c379
+    style ZeroSumResult fill:#332424,stroke:#e06c75,stroke-width:2px,color:#e06c75
+    style ExamRegister fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
 ```
 
 更具悲剧色彩的是人际关系的坍塌。
@@ -217,19 +234,36 @@ Mathematics was discovered as a breathtaking language for describing geometry, t
 
 On this conveyor belt, if a student becomes fascinated by the deeper physical meaning behind an equation and pauses for three hours to explore it, the system does not reward her—it punishes her without mercy. She has squandered precious time that should have been spent grinding ten identical practice drills. In this regime, intrinsic curiosity becomes an active liability; a genuine love of truth becomes an unacceptable drag on rank optimization.
 
-```
-[Genuine Learning]
-Mind (0, 0, 0)  ======>  [Physical / Biological / Logical Patterns]  ======>  Boundary Expands (+1)
-(Goal: Understand objective laws; Space: Boundless; Relation: Non-rivalrous & mutually inspiring)
+```mermaid
+graph TD
+    subgraph GenuineLearning["[Genuine Learning: Open High-Dimensional Exploration]"]
+        MindA["Sovereign Mind (0, 0, 0)"]
+        MindB["Fellow Wayfarer (0, 0, 0)"]
+        Patterns["Intrinsic Patterns of Reality<br>(Physics, Biology, Mathematical Logic)"]
+        Expansion["[Cognitive Frontier Expands (+1)]<br>Goal: Decode objective causality<br>Space: Boundless orthogonal territory<br>Relation: Non-rivalrous & mutually inspiring"]
 
----------------------------------------------------------------------------------
+        MindA ==>|"Empirical friction & wonder"| Patterns
+        MindB ==>|"Multi-vantage inquiry"| Patterns
+        Patterns --> Expansion
+    end
 
-[Inverted Competition]
-Student A (Rank)  <----Contesting Scarce Metric (Points/Seats)---->  Student B (Rank)
-                       ▲
-                       │ (Memorizing answers, gaming rubrics)
-              [Low-Dimensional Scalar Register / Exam]
-(Goal: Outrank peers; Space: 1D corridor; Relation: Destructive zero-sum game)
+    subgraph InvertedArena["[Inverted Competition: Zero-Sum Friction in a 1D Corridor]"]
+        StudentA["Student A (Conditioned Competitor)"]
+        StudentB["Student B (Conditioned Competitor)"]
+        ExamRegister["[Low-Dimensional Scalar Register]<br>Standardized rubrics, bell curve quotas, percentile rank"]
+        ZeroSumResult["[Zero-Sum Bottleneck Game]<br>Goal: Outrank peers, optimize rubrics<br>Space: Artificial 1D scarcity corridor<br>Cost: Wonder extinguished, peers reframed as adversaries"]
+
+        StudentA ==>|"Contest scarce admission slots"| ExamRegister
+        StudentB ==>|"Contest scarce admission slots"| ExamRegister
+        StudentA <-.->|"Lateral hostility: Peer excellence poses existential threat"| StudentB
+        ExamRegister --> ZeroSumResult
+    end
+
+    style GenuineLearning fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style InvertedArena fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style Expansion fill:#243324,stroke:#98c379,stroke-width:2px,color:#98c379
+    style ZeroSumResult fill:#332424,stroke:#e06c75,stroke-width:2px,color:#e06c75
+    style ExamRegister fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
 ```
 
 The tragedy deepens in the degradation of human solidarity:
