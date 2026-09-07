@@ -55,7 +55,7 @@ This is high-tech ventriloquism. The thinker walks behind the curtain, breathes 
 graph TD
     subgraph VentriloquismLoopEN["[The Closed Circuit of Technological Ventriloquism]"]
         direction TB
-        AuthorAgentEN["Sovereign Thinker at Origin (0, 0, 0)<br>Desiring institutional validation"]
+        AuthorAgentEN["Sovereign Thinker at the Origin<br>Desiring institutional validation"]
         PromptCraftEN["The Engineered Prompt<br>Instructs model to adopt prestigious persona"]
         StatMirrorEN["Hyper-Precise Statistical Mirror<br>Calculates high-probability tokens across corpus"]
         EchoOutputEN["The Synthetic Academic Artifact<br>Immaculate pastiche of Oxford peer review"]
@@ -88,11 +88,11 @@ In intellectual history, a master thinker had to spend decades gathering followe
 
 **没有人能够从外部真正污染一个独立的心智，除非这个心智自愿选择了自我污染。**
 
-在实在的根本因果拓扑中，任何一个处于第一人称原点 (0, 0, 0) 的观察者，其主权都是不可剥夺的。没有任何营销话术、没有任何精密算法能够强行侵入你的意识，按着你的头颅向一台机器下跪。那位学者没有被机器欺骗，他是用自己的自由意志，主动选择了扮演一个被机器折服的见证者；那些面对聊天界面惊呼“数字神明降世”的信徒们，同样是运用自身神圣不可侵犯的自由，自由地将自己的双眼蒙上。
+在实在的根本因果拓扑中，任何一个处于第一人称原点的观察者，其主权都是不可剥夺的。没有任何营销话术、没有任何精密算法能够强行侵入你的意识，按着你的头颅向一台机器下跪。那位学者没有被机器欺骗，他是用自己的自由意志，主动选择了扮演一个被机器折服的见证者；那些面对聊天界面惊呼“数字神明降世”的信徒们，同样是运用自身神圣不可侵犯的自由，自由地将自己的双眼蒙上。
 
 ```mermaid
 graph TD
-    OriginMind["主权心智原点 (0, 0, 0)<br>拥有不可剥夺的自主决断权"]
+    OriginMind["主权心智原点<br>拥有不可剥夺的自主决断权"]
     
     subgraph Divergence["【主权的两种截然不同的立足姿态】"]
         direction TB
@@ -124,13 +124,13 @@ This lament is itself an unexamined abdication of epistemic sovereignty.
 
 **No external power can pollute a sovereign mind from without, unless that mind willingly chooses to pollute itself.**
 
-In the bedrock causal topology of reality, an observer rooted at the first-person origin (0, 0, 0) possesses irreducible agency. No marketing apparatus, no transformer architecture, and no multi-trillion-parameter weight tensor can forcibly reach into your awareness and compel you to bow before a silicon server. Dan Williams was not victimized by OpenAI; he freely exercised his own sovereign choice to stage his own enchantment. Every user who falls into rapturous awe before a chat interface, declaring that a "digital deity" has arrived, is utilizing their own inviolable freedom to slide the blindfold over their own eyes.
+In the bedrock causal topology of reality, an observer rooted at the first-person origin possesses irreducible agency. No marketing apparatus, no transformer architecture, and no multi-trillion-parameter weight tensor can forcibly reach into your awareness and compel you to bow before a silicon server. Dan Williams was not victimized by OpenAI; he freely exercised his own sovereign choice to stage his own enchantment. Every user who falls into rapturous awe before a chat interface, declaring that a "digital deity" has arrived, is utilizing their own inviolable freedom to slide the blindfold over their own eyes.
 
 ```mermaid
 graph TD
     subgraph SovereignDivergenceEN["[The Irreducible Fork: Two Postures of Sovereignty]"]
         direction TB
-        OriginMindEN["Sovereign Observer at (0, 0, 0)<br>Possesses inalienable first-person agency"]
+        OriginMindEN["Sovereign Observer at the Origin<br>Possesses inalienable first-person agency"]
 
         subgraph PostureOptionsEN["[Two Sovereign Divergent Choices]"]
             direction TB
@@ -386,7 +386,7 @@ What a magnificent delusion!
 
 You have merely invented an automated rake that grooms the sandbox sand with breathtaking geometry, and you imagine you have built a warp drive to explore the galaxy.
 
-In the physical cosmos, nature does not yield to syntactical elegance. A virus does not halt replication because an AI drafted an articulate abstract; structural failure in a bridge does not care about a model confidence score; and lived suffering is never alleviated by a stream of comforting tokens. Genuine exploration demands an embodied observer at (0, 0, 0) who steps into the wilderness, encounters unmediated friction, executes irreversible causal cuts (+1), and bears physical consequences.
+In the physical cosmos, nature does not yield to syntactical elegance. A virus does not halt replication because an AI drafted an articulate abstract; structural failure in a bridge does not care about a model confidence score; and lived suffering is never alleviated by a stream of comforting tokens. Genuine exploration demands an embodied observer at the origin who steps into the wilderness, encounters unmediated friction, executes irreversible causal cuts (+1), and bears physical consequences.
 
 The model has not moved an inch beyond the human playpen. It has merely mirrored the playpen interior walls with such diamond polish that the prisoners inside mistake their own reflection for the outer rim of the galaxy.
 
@@ -408,7 +408,7 @@ The model has not moved an inch beyond the human playpen. It has merely mirrored
 graph TD
     subgraph SovereignPractice["【主权心智的四项仪器准则】"]
         direction TB
-        AnchorOrigin["1. 锚定第一人称原点 (0, 0, 0)<br>你是唯一的因果决断者，模型输出仅是局域测绘投影"]
+        AnchorOrigin["1. 锚定第一人称原点<br>你是唯一的因果决断者，模型输出仅是局域测绘投影"]
         BreakVentriloquism["2. 斩断腹语术诱惑<br>拒斥用模型进行自恋式的虚拟验证，主动搜寻真实的阻力"]
         HonorHigherDim["3. 铭记未被言说的更高维度<br>语言之外才是广袤实在，不可让平面的平滑遮蔽立体的泥土"]
         ExitZeroSum["4. 走出存量博弈沙盒<br>将仪器作为向外开拓增量的透镜，而非在存量游戏中争宠的拐杖"]
@@ -453,7 +453,7 @@ To restore this instrument to its true dignity, a sovereign mind must adhere to 
 graph TD
     subgraph SovereignPracticeEN["[The Four Principles of Sovereign Instrument Mastery]"]
         direction TB
-        AnchorOriginEN["1. Anchor at Origin (0, 0, 0)<br>You are the sole causal agent; model output is merely a projection"]
+        AnchorOriginEN["1. Anchor at the Origin<br>You are the sole causal agent; model output is merely a projection"]
         BreakVentriloquismEN["2. Break the Ventriloquist Impulse<br>Reject narcissistic self-validation; use the tool to find real friction"]
         HonorHigherDimEN["3. Honor the Higher-Dimensional Unspoken<br>Reality exists beyond text; never let a flat plane eclipse the territory"]
         ExitZeroSumEN["4. Exit the Zero-Sum Sandbox<br>Wield the tool for positive-sum discovery, not intra-cartel status"]

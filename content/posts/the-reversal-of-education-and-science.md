@@ -10,12 +10,12 @@
 
 观察一个尚未被现代规训系统塑形的孩子：当他蹲在泥地上注视一只蚂蚁搬运草籽，或者当他反复将积木搭高并静待其坍塌时，他的心智正处于一种天然的认知张力中。他所面对的唯一对象，是眼前不可穷尽的物理实在。重力、摩擦力、结构平衡、生命节律——这些是客观宇宙内在的秩序模式。这种探索不附带评级，没有及格线，更无需向任何监考官证明什么。心智在每一次真实的试错中感知到实在的坚固阻力，并在理解模式的瞬间获得巨大的内在奖赏。
 
-这同样是科学发现的原始火种。无论是在修道院花园里记录豌豆性状的孟德尔，还是在专利局抽屉边推演电磁场对称性的爱因斯坦，早期探索者的第一人称观察点 (0, 0, 0)，始终直接朝向浩瀚的宇宙。他们与客观实在之间没有中介。物理现实是唯一的裁判，因果律是唯一的法则。
+这同样是科学发现的原始火种。无论是在修道院花园里记录豌豆性状的孟德尔，还是在专利局抽屉边推演电磁场对称性的爱因斯坦，早期探索者的第一人称观察原点，始终直接朝向浩瀚的宇宙。他们与客观实在之间没有中介。物理现实是唯一的裁判，因果律是唯一的法则。
 
 ```mermaid
 graph LR
     subgraph OriginalState["【原初认知向量：高维探索】"]
-        Mind["求知心智 (0, 0, 0)<br>自主观察者"]
+        Mind["求知心智原点<br>自主观察者"]
         Reality["不可穷尽的客观实在模式<br>(物理、生物、逻辑、数学)"]
         Mind ==>|"直接摩擦、试错、惊异 (+1)"| Reality
         Reality -->|"揭示内在因果律<br>非排他性的共同发现"| Mind
@@ -52,12 +52,12 @@ At the primal source of human consciousness, learning and discovery were never d
 
 Watch a child who has not yet been processed by the machinery of formal schooling: when she crouches in the dirt to follow an ant carrying a seed, or when she stacks wooden blocks only to watch them tumble under gravity, her mind vibrates in direct contact with reality. Her sole interlocutor is the inexhaustible physical world. Gravity, friction, structural equilibrium, metabolic rhythm—these are the intrinsic patterns of reality. There are no rubrics attached to this inquiry, no passing percentiles, and no proctors demanding justification. The mind feels the unyielding resistance of the territory, and in decoding its subtle contours, receives an intrinsic biological thrill.
 
-This was likewise the primal spark of scientific discovery. Whether it was Gregor Mendel counting wrinkled peas in a quiet monastery garden or Albert Einstein deducing the symmetries of electrodynamics beside a Swiss patent clerk's desk, the first-person observer point (0, 0, 0) faced outward toward the raw cosmos. No administrative committee stood between the investigator and the empirical fact. Physical reality was the only judge; causality was the only law.
+This was likewise the primal spark of scientific discovery. Whether it was Gregor Mendel counting wrinkled peas in a quiet monastery garden or Albert Einstein deducing the symmetries of electrodynamics beside a Swiss patent clerk's desk, the first-person observer origin faced outward toward the raw cosmos. No administrative committee stood between the investigator and the empirical fact. Physical reality was the only judge; causality was the only law.
 
 ```mermaid
 graph LR
     subgraph OriginalState["[Primal Cognitive Vector: High-Dimensional Inquiry]"]
-        Mind["Autonomous Observer (0, 0, 0)"]
+        Mind["Autonomous Observer at Origin"]
         Reality["Inexhaustible Patterns of Reality<br>(Physics, Biology, Logic, Math)"]
         Mind ==>|"Direct empirical friction & wonder (+1)"| Reality
         Reality -->|"Unveils intrinsic causality<br>Non-rivalrous discovery"| Mind
@@ -190,8 +190,8 @@ Once this substitution crystallizes, Goodhart's Law bites with vicious force: **
 graph TD
     subgraph GenuineLearning["【本真学习：高维实在的开放探索】"]
         direction TB
-        MindA["自主心智 A (0, 0, 0)"]
-        MindB["同行伙伴 B (0, 0, 0)"]
+        MindA["自主心智 A 原点"]
+        MindB["同行伙伴 B 原点"]
         Patterns["实在的内在模式<br>（物理规律、生物结构、数理逻辑）"]
         Expansion["【认知边界外扩（+1）】<br>目标：搞懂客观因果<br>空间：无限开放的高维疆域<br>关系：非排他共存、互为启发"]
 
@@ -243,8 +243,8 @@ On this conveyor belt, if a student becomes fascinated by the deeper physical me
 graph TD
     subgraph GenuineLearning["[Genuine Learning: Open High-Dimensional Exploration]"]
         direction TB
-        MindA["Sovereign Mind A (0, 0, 0)"]
-        MindB["Fellow Wayfarer B (0, 0, 0)"]
+        MindA["Sovereign Mind A at Origin"]
+        MindB["Fellow Wayfarer B at Origin"]
         Patterns["Intrinsic Patterns of Reality<br>(Physics, Biology, Mathematical Logic)"]
         Expansion["[Cognitive Frontier Expands (+1)]<br>Goal: Decode objective causality<br>Space: Boundless orthogonal territory<br>Relation: Non-rivalrous & mutually inspiring"]
 
@@ -297,7 +297,7 @@ Education was conceived to give the human mind wings; in its institutional inver
 ```mermaid
 graph LR
     subgraph PrimalScience["【本真科学：直面自然】"]
-        Researcher["自由科学家 (0, 0, 0)"]
+        Researcher["自由科学家原点"]
         Empirical["大自然与反常事实"]
         Researcher ==>|"提出假说、经受反驳 (+1)"| Empirical
         TruthRes["【真实认知突破】<br>范式跃迁（如牛顿、爱因斯坦）<br>无官僚中介介入"]
@@ -345,7 +345,7 @@ Yet when scientific research grew into a gargantuan bureaucratic complex subsidi
 ```mermaid
 graph LR
     subgraph PrimalScience["[Sovereign Science: Direct Friction with Nature]"]
-        Researcher["Free Investigator (0, 0, 0)"]
+        Researcher["Free Investigator at Origin"]
         Empirical["Nature & Experimental Anomalies"]
         Researcher ==>|"Falsification & Discovery (+1)"| Empirical
         TruthRes["[Genuine Paradigm Shift]<br>(Newton, Einstein, Darwin)<br>Zero bureaucratic mediation"]
@@ -401,7 +401,7 @@ graph TD
 
     subgraph Sovereign["【解脱之道：立足自主原点】"]
         direction TB
-        SovereignMind["自主心智 (0, 0, 0)"]
+        SovereignMind["自主心智原点"]
         
         Step1["1. 工具化文凭：保持内心游离，仅作通行护照"]
         Step2["2. 直面硬反馈：只敬畏来自物理实在的真实阻力"]
@@ -457,7 +457,7 @@ graph TD
 
     subgraph Sovereign["[The Sovereign Escape: Grounded at the Origin]"]
         direction TB
-        SovereignMind["Sovereign Thinker (0, 0, 0)"]
+        SovereignMind["Sovereign Thinker at Origin"]
         
         Step1["1. Instrumentalize credentials: Treat as passports, retain inner freedom"]
         Step2["2. Seek resistance that bites back: Honor physical friction over praise"]

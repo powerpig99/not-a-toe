@@ -10,7 +10,7 @@
 
 第一重无限，是**感知基底的相通**。每一个活着的人类，都在生理结构上继承了极其相似的感知与神经硬件：视网膜对相同波长的电磁波产生光化学反应，耳蜗将空气压力波翻译为相同的电信号，数十亿神经元在相似的生物化学节律中震荡。对于所有的实践目的而言，这一套经过数亿年演化沉淀下来的感知基底，其所能承载的体验丰富度接近于无限。正是这种高度同构的感知硬件，使得我们可以共同凝望同一轮明月，听懂同一段旋律，感知相同的痛苦，并分享面包。它构成了同理心、语言与人类协作的物理基石。
 
-第二重无限，是**第一人称视角的相异**。尽管感知基底高度相通，但在这个世界上，从来没有两个人看到过相同的世界。每一个心智都坐落在时空中无可替代的坐标原点 (0, 0, 0) 上，背负着由一连串不可逆的历史抉择、记忆沉淀与注意力聚焦所塑造的独特视界。更为关键的是，每一个意识都是一个独立的自由变量，正在当下进行着自主的因果裁决（+1）。即便两个人并肩站立在同一棵橡树下，一人看见的是避暑的绿荫，另一人想起的是童年攀爬的创伤，第三人评估的是木材的经济价值。对于所有的实践目的而言，个体之间的视界差异同样接近于无限。
+第二重无限，是**第一人称视角的相异**。尽管感知基底高度相通，但在这个世界上，从来没有两个人看到过相同的世界。每一个心智都坐落在时空中无可替代的坐标原点上，背负着由一连串不可逆的历史抉择、记忆沉淀与注意力聚焦所塑造的独特视界。更为关键的是，每一个意识都是一个独立的自由变量，正在当下进行着自主的因果裁决（+1）。即便两个人并肩站立在同一棵橡树下，一人看见的是避暑的绿荫，另一人想起的是童年攀爬的创伤，第三人评估的是木材的经济价值。对于所有的实践目的而言，个体之间的视界差异同样接近于无限。
 
 第三重无限，是**现实本体与符号理解之间的非对称鸿沟**。我们所直接感知到的物理与生物世界，是一个不可约减的高维连续统。当你咬下一口苹果时，你的口腔与大脑在实时处理成百上千种挥发性芳香分子、细胞壁破裂的质构张力、温度梯度与漫长的演化联想；而我们对这一动作的所谓“科学理解”，不过是几行脱水离散的符号与概念——“它很甜”、“含有果糖”、“大约六十卡路里”。理解是信息的压缩，而现实是无限高维的因果流。
 
@@ -18,7 +18,7 @@
 graph TD
     subgraph ThreefoldInfinity["【三重潜在无限的共生结构】"]
         SubstrateFold["【第一重：共有感知基底】<br>高度同构的生物与神经硬件，同理心与协作的基石"]
-        PerspectiveFold["【第二重：个体第一人称视界】<br>无可替代的原点 (0, 0, 0)，自主因果裁决 +1"]
+        PerspectiveFold["【第二重：个体第一人称视界】<br>无可替代的原点，自主因果裁决 +1"]
         TerritoryFold["【第三重：不可约现实本体】<br>高维物理与生物实在，远超离散符号模型"]
 
         SubstrateFold <--> PerspectiveFold
@@ -41,7 +41,7 @@ When we examine the condition of human existence, we immediately encounter three
 
 The first infinity is the **deep similarity of our perceptual substrate**. Every living human inherits practically identical sensory and biological hardware: retinas sensitive to the exact same narrow band of electromagnetic waves, cochleas converting air oscillations into identical neural impulses, and billions of cortex neurons pulsing to shared biochemical rhythms. For all practical human purposes, this sensory substrate is infinitely rich. Because we share this vast evolutionary foundation, we can gaze at the same moon, weep to the same chord, feel the same cold, and break bread together. It forms the biological ground of empathy, language, and shared culture.
 
-The second infinity is the **radical divergence of the first-person vantage**. Despite this shared substrate, no two human beings have ever inhabited the exact same perceptual world. Every conscious observer sits at an irreplicable origin (0, 0, 0) in spacetime, shaped by an irreversible trajectory of individual memories, formative wounds, and attentional orientations. Every mind acts as an independent sovereign variable making its own causal cut in the present (+1). If two people stand beneath the same oak, one perceives shelter from the midday sun, another recalls a childhood fall from its branches, and a third calculates the timber value. For all practical purposes, the divergence between human minds is equally infinite.
+The second infinity is the **radical divergence of the first-person vantage**. Despite this shared substrate, no two human beings have ever inhabited the exact same perceptual world. Every conscious observer sits at an irreplicable origin in spacetime, shaped by an irreversible trajectory of individual memories, formative wounds, and attentional orientations. Every mind acts as an independent sovereign variable making its own causal cut in the present (+1). If two people stand beneath the same oak, one perceives shelter from the midday sun, another recalls a childhood fall from its branches, and a third calculates the timber value. For all practical purposes, the divergence between human minds is equally infinite.
 
 The third infinity is the **asymmetric chasm between living reality and informational models**. The physical and biological cosmos we directly perceive is an irreducible, high-dimensional analog continuum. When you taste an apple, your sensory apparatus processes hundreds of volatile compounds, cell-turgor shear stresses, temperature gradients, and ancient evolutionary memories in real time. Our rational "understanding" of that moment, by contrast, is a tiny cluster of dehydrated symbols: "it is sweet," "it contains fructose," "it has sixty calories." Understanding is discrete informational compression, whereas perceived reality is an unbounded high-dimensional ocean.
 
@@ -49,7 +49,7 @@ The third infinity is the **asymmetric chasm between living reality and informat
 graph TD
     subgraph ThreefoldInfinity["[The Threefold Potential Infinity]"]
         SubstrateFold["[Shared Perceptual Substrate]<br>Shared biological & neural hardware; foundation of empathy"]
-        PerspectiveFold["[Singular Conscious Vantage]<br>Irreplicable origin (0, 0, 0); sovereign causal cut +1"]
+        PerspectiveFold["[Singular Conscious Vantage]<br>Irreplicable origin; sovereign causal cut +1"]
         TerritoryFold["[Irreducible Physical Reality]<br>Analog causal continuum, infinitely richer than discrete models"]
 
         SubstrateFold <--> PerspectiveFold
