@@ -161,7 +161,7 @@ graph TD
 ```
 
 在此视角下，我们可以清晰洞察日常对话与理论研究中极其普遍的一个认知陷阱——**第三人称旁观者的“解释消解”（The Explaining-Away Reflex）**：
-* 当人们以第三人称旁观者视角观察他人的选择时，由于旁观者在物理和现象学上无法直接触及当事人在抉择那一瞬间（t_0）的内在意识体验，旁观者所能看见的只有行为的外部轨迹与统计均值。
+* 当人们以第三人称旁观者视角观察他人的选择时，由于旁观者在物理和现象学上无法直接触及当事人在抉择那一瞬间（t）的内在意识体验，旁观者所能看见的只有行为的外部轨迹与统计均值。
 * 于是，旁观者会本能地抓取某种看似合理的宏观概括——例如“这只是社会环境的塑造”、“这属于某种心理偏差”、“这在统计学上是必然的”甚至轻浮地宣称“这不过是在乞题（begging the question）”——试图以此**消解和抹去**当事人的自主抉择。
 * 然而，事实的真相是：**每一个第一人称的主权抉择，在做出选择的当下那一刻，都在当事人的内在坐标系中拥有其充分成立的合理性与几何必然性**。
 * 当旁观者试图用宏观趋势来“解释消解”微观抉择时，这种看似深刻的概括，本质上正是**把主权能动性错位外抛给抽象外壳的经典再现**。宏观统计趋势从来不是微观抉择的原因，而仅仅是海量主权抉择在外部留下的投影痕迹。用影子来否定发光源的存在，是旁观者视差最顽固的思维惯性。
@@ -220,7 +220,7 @@ When millions of individuals refuse to take first-person causal responsibility f
 Because individuals abdicate their causal origin, the resulting deadlocks and conflicts necessitate external prosthetic scaffolding (institutions and regulatory apparatuses) to sustain artificial balance. Macro institutions are not transcendent laws of nature, but the external compensatory shells erected to manage the fallout of abdicated micro-sovereignty.
 
 This exposes the widespread cognitive trap in discourse and intellectual inquiry: **the third-person observer's "explaining-away" reflex**:
-* When observing others from a detached third-person stance, the observer lacks direct access to the interior consciousness and experiential reality of the decision-maker at the exact moment of choice (t_0). The observer sees only external traces and macro distributions.
+* When observing others from a detached third-person stance, the observer lacks direct access to the interior consciousness and experiential reality of the decision-maker at the exact moment of choice (t). The observer sees only external traces and macro distributions.
 * Consequently, the observer reflexively grabs a plausible-sounding general rationalization—claiming "it is merely social conditioning," "it is an evolutionary bias," or dismissively waving it away as "begging the question"—attempting to **explain away** the living choice.
 * In reality, **every first-person sovereign choice has its own valid, coherent internal reasoning at the exact instant of decision**.
 * When an observer attempts to explain away sovereign choices as mere byproducts of macro trends, they commit the very **misallocation of agency** that perpetuates distance amnesia. Macro trends are never the *cause* of micro choices; they are merely the statistical shadow cast by millions of sovereign decisions. Mistaking the shadow for the cause of the light is the defining error of the detached observer.
