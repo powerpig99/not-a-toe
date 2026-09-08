@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-build_prompts.py - Prompt generator for NotebookLM Audio & Video Overviews.
+build_prompts.py - Standard prompt generator for NotebookLM Audio & Video Overviews.
 
-Combines standard, unchanging generic base templates with post-specific content slots.
+Combines standardized generic base templates with post-specific content slots.
 Enforces strict epistemic constraints:
 - AI-generated perspective framing (strictly 0 faux biological person pretense)
 - Anti-explaining-away & anti-observer drift (0 "it begs the question" or sociological dismissals)
@@ -53,7 +53,6 @@ def build_post_prompts(post_data):
         'POST_TITLE': post_data['title_en'],
         'POST_SPEAKER_1_FOCUS': post_data['speaker_1_focus_en'],
         'POST_SPEAKER_2_FOCUS': post_data['speaker_2_focus_en'],
-        'POST_CORE_SPIRIT': post_data['core_spirit_en'],
         'POST_KEY_DIRECTIVES': post_data['directives_en'],
         'POST_INTRO_SCRIPT': post_data['intro_script_en'],
         'POST_TRANSITION_SUMMARY': post_data['transition_summary_en']
@@ -74,7 +73,6 @@ def build_post_prompts(post_data):
         'POST_TITLE': post_data['title_zh'],
         'POST_SPEAKER_1_FOCUS': post_data['speaker_1_focus_zh'],
         'POST_SPEAKER_2_FOCUS': post_data['speaker_2_focus_zh'],
-        'POST_CORE_SPIRIT': post_data['core_spirit_zh'],
         'POST_KEY_DIRECTIVES': post_data['directives_zh'],
         'POST_INTRO_SCRIPT': post_data['intro_script_zh'],
         'POST_TRANSITION_SUMMARY': post_data['transition_summary_zh']
@@ -111,4 +109,4 @@ def build_post_prompts(post_data):
     print(f"Prompts successfully generated and verified for: {slug}")
 
 if __name__ == '__main__':
-    print("build_prompts.py module ready.")
+    print("build_prompts.py ready.")
