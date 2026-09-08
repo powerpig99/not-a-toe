@@ -1,6 +1,6 @@
-# 上帝的起源与“我们”的降维：俯瞰视角的因果异化、集体均值与主权心智 / The Origin of God and the Flattening of "We": The Causal Architecture of Overviews, Collectives, and Sovereign Minds
+# 上帝的起源与“我们”的降维 / The Origin of God and the Flattening of "We"
 
-*从自指感知的全景遗忘到统计学的范畴谬误 / From the Forgotten Anchor of Perception to the Categorical Error of Statistical Averages*
+*俯瞰视角的因果异化、集体均值与主权心智 / The Causal Architecture of Overviews, Collectives, and Sovereign Minds*
 
 ---
 
