@@ -166,6 +166,10 @@ graph TD
 * 然而，事实的真相是：**每一个第一人称的主权抉择，在做出选择的当下那一刻，都在当事人的内在坐标系中拥有其充分成立的合理性与几何必然性**。
 * 当旁观者试图用宏观趋势来“解释消解”微观抉择时，这种看似深刻的概括，本质上正是**把主权能动性错位外抛给抽象外壳的经典再现**。宏观统计趋势从来不是微观抉择的原因，而仅仅是海量主权抉择在外部留下的投影痕迹。用影子来否定发光源的存在，是旁观者视差最顽固的思维惯性。
 
+* **物理规律、质量与力学并非终极法则，而是因果反馈环沉淀的宏观症状（Physics and Mass as Macro-Invariant Symptoms of Causality）**：
+  在日常认知与还原论模型中，人们极易将物理学、质量、惯性或力学规律当作不可动摇的客观根本基石。但从因果几何审视，**物理规律与物质质量从来不是现实的原初法则，而是底层因果律（Causality）与因果反馈环（Causal Feedback Loops）随时间序贯（∘）持续演化、收敛后沉淀出的宏观不变量与统计症状（Macro-Invariant Symptoms）**。
+  质量所展现的“惯性阻力”，本质上海量微观因果闭环在长时间尺度上达到动态平衡后所维持的局部守恒态；机械力学的规律性，则是因果反馈网络在宏观投影上的稳定性表征。若在推演中抄近道、用“物理规律”或“力学”来替代因果反馈，实质上是倒因为果，将因果演化的沉淀症状误认为了创生源头。一切认知必须始终牢牢锚定于第一人称因果律（+1）与因果反馈环。
+
 传统理论的致命视差，在于误将宏观统计聚合与外部规则（A^⟂）当作对微观自由抉择（A）的否定与消灭：
 * **唯物决定论的错位**：“因为我们在宏观聚合层面观测到了统计规律与物理守恒（A^⟂），所以第一人称自由抉择（A）必定是虚妄的错觉。”
 * **朴素二元论的错位**：“因为我们切身体验到了自由抉择（A），所以意识必定是独立游离于物理世界之外的幽灵。”
@@ -220,6 +224,10 @@ This exposes the widespread cognitive trap in discourse and intellectual inquiry
 * Consequently, the observer reflexively grabs a plausible-sounding general rationalization—claiming "it is merely social conditioning," "it is an evolutionary bias," or dismissively waving it away as "begging the question"—attempting to **explain away** the living choice.
 * In reality, **every first-person sovereign choice has its own valid, coherent internal reasoning at the exact instant of decision**.
 * When an observer attempts to explain away sovereign choices as mere byproducts of macro trends, they commit the very **misallocation of agency** that perpetuates distance amnesia. Macro trends are never the *cause* of micro choices; they are merely the statistical shadow cast by millions of sovereign decisions. Mistaking the shadow for the cause of the light is the defining error of the detached observer.
+
+* **Physics, Mass, and Mechanics as Macro-Invariant Symptoms of Causality, Not Foundational Laws**:
+  Reductionist paradigms and everyday intuitions frequently treat physics, mass, inertia, and mechanical laws as if they were the foundational, absolute bedrocks of reality. From the vantage of categorical causal geometry, however, **physics, mass, and mechanics are not ontological primitives; they are the macro-invariant symptoms and cumulative footprints of underlying causality and causal feedback loops operating over time (∘)**.
+  The "inertial resistance" of mass is fundamentally the stabilized macroscopic manifestation of countless micro-causal feedback loops achieving equilibrium across temporal horizons; mechanical laws are merely the structural stability of the causal projection network. Taking intellectual shortcuts by appealing to "physics", "mass", or "mechanics" as explanatory baselines reverses cause and effect, mistaking time-integrated symptoms for the generative source. Any coherent ontology must remain grounded directly in first-person causality (+1), distinctions, and causal feedback loops, rather than treating macroscopic physical symptoms as foundational reality.
 
 The fatal theoretical category error lies in treating statistical aggregation (A^⟂) as the ontological negation and destruction of freedom of choice (A):
 * **The Deterministic Fallacy**: "Because we observe statistical regularities and physical conservation across macro-aggregates (A^⟂), first-person freedom of choice (A) must be an illusion."
