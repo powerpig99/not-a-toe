@@ -6,35 +6,36 @@
 
 ## 一、 最强工具的双刃剑：形式表征的威力与实在倒置的陷阱 / 1. The Double-Edged Nature of Powerful Tools: The Power of Representation and the Trap of Ontological Inversion
 
-必须首先厘清一个根本前提：**我们指出数学与物理模型的虚构性，绝非否定物理学、质量或数学本身的巨大价值。**
+必须首先厘清一个根本前提：**我们指出数学与物理模型的虚构性，绝非否定物理学、质量或数学表征的巨大价值。**
 
 相反，经典力学、相对论与微积分是人类文明有史以来最强大的认知工具：
 * 质量与物理定律极其敏锐地刻画了物质世界中宏观稳定的因果模式；
 * 形式数学赋予了心智一种登峰造极的抽象能力，让我们能够以前所未有的精确度发现自然界深邃的底层结构。
 
-**真正的危机不在于使用工具，而在于对工具的“本体论倒置”：误把模型当成了比活生生的现实更为根本、更为可靠的实在本身。**
+**真正的危机不在于心智运用工具，而在于对认知构架的“本体论倒置”：心智忘记了模型是自己在意识中维系的表征活动，反将其客体化为比活生生的现实更为根本、更为可靠的独立实在。**
 
-在数学坐标系与微分流形的构架中，心智对空间的变换**在实际效用上所耗费的能量与摩擦，与其所表征的真实物理巨变相比微不足道到几乎可以忽略**：
-* 心智在脑海中构想一个弯曲空间、在纸面上写下一个方程，虽然耗费着微弱的生物能，但在数学模型内部，你可以凭借一组代数规则随心所欲地将平直空间弯曲为黎曼流形，把坐标系旋转、翻转、无限拉伸或压缩；
-* 你可以在高维拓扑空间中折叠维度、构造自同构映射与同胚变换。相对于在现实中移动星系、搬运重物所需的巨大物理功与不可逆熵增，这种符号操控的能耗代价在宏观比例上几乎为零。
+当心智在意识中建构并维系数学构架时，心智对几何关系的重构与变换**在实际效用上所耗费的生理能量与摩擦，与其所表征的真实物理巨变相比微不足道到几乎可以忽略**：
+* 并不存在脱离心智独立存在的“模型本身”——所谓数学模型，本质上是第一人称心智在当下进行的符号维系与认知推演；
+* 在这种由心智主动维系的符号沙盘中，心智只需凭借一套重新定义的代数规则，就能随心所欲地构想平直空间的弯曲、坐标系的旋转翻转或高维拓扑的折叠；
+* 相对于在物理实在中移动星系、搬运重物所需的巨大物理功与不可逆熵增，心智在意识中重构符号规则的能耗代价在宏观比例上几乎为零。
 
-这种近乎零门槛的符号操控力，极大地拓展了人类理解模式与预测规律的边界。然而，恰恰是这种相对于实体介入几乎可忽略的微小代价，孕育了一个致命的本体论错觉：**心智误以为这种近乎无摩擦的符号沙盘比粗粝的物理介入更可靠、更真实，从而滑入了用静态地图抹杀鲜活地形的认知陷阱。**
+这种由心智维系的低成本符号操控力，极大地拓展了人类理解模式与预测规律的边界。然而，恰恰是这种相对于实体介入几乎可忽略的微小代价，孕育了一个致命的本体论错觉：**心智将自己维系的符号构架实体化为一个独立存在的客观实体，并误以为这种在意识中近乎无摩擦的规则重构比粗粝的物理介入更可靠、更真实，从而滑入了用静态认知地图抹杀鲜活地形的倒置陷阱。**
 
 ```mermaid
 graph TD
-    subgraph ZeroCostVsPhysicalCost["【极低代价符号变换与真实物理介入】"]
+    subgraph ZeroCostVsPhysicalCost["【心智符号变换与真实物理介入】"]
         direction TB
-        MathSpace["【形式符号的极低能耗变换】<br>相对于宏观物理巨变，符号推演的能耗几乎可忽略"]
-        CognitiveOmnipotence["【形式全能的认知幻觉】<br>误把低成本的符号推演当成比实在更可靠的基础"]
+        MindSustainedSandbox["【心智维系的形式符号沙盘】<br>心智主动重构规则，生理能耗微乎其微"]
+        ReificationIllusion["【客体化与形式全能的幻觉】<br>误将心智维系的符号沙盘当成独立客观实体"]
         LivingReality["【物理实在的不可逆代价】<br>任何微小物质位移皆需克服阻力并耗散能量"]
         TheFirstInversion["【工具与实在的错位】<br>以近乎无摩擦的地图否定粗粝地形的因果厚度"]
-        MathSpace --> CognitiveOmnipotence
-        CognitiveOmnipotence --> TheFirstInversion
+        MindSustainedSandbox --> ReificationIllusion
+        ReificationIllusion --> TheFirstInversion
         LivingReality --> TheFirstInversion
     end
     style ZeroCostVsPhysicalCost fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style MathSpace fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style CognitiveOmnipotence fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+    style MindSustainedSandbox fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style ReificationIllusion fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style LivingReality fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
     style TheFirstInversion fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
 ```
@@ -51,13 +52,14 @@ Classical mechanics, general relativity, and calculus remain the most formidable
 * Concepts like mass and inertia capture the stable macro-invariants of causality with unmatched fidelity;
 * Formal mathematics grants the Mind the power to discern the deep, underlying causal symmetries of nature across vast scales.
 
-**The hazard lies not in using the tool, but in ontological inversion: treating the representational model as more fundamental, more reliable, and more real than the friction-bearing living reality from which it was abstracted.**
+**The hazard lies not in employing cognitive tools, but in ontological inversion: the Mind forgets that the model is its own active representational construct, reifying it into something supposedly more fundamental, reliable, and real than the friction-bearing living reality from which it arose.**
 
-Within the architecture of mathematical coordinate systems and differential manifolds, the energetic cost of mental space transformation is **negligible compared to the colossal physical transformations it represents**:
-* While neural firing in the brain or scratching symbols on paper consumes a minuscule amount of biological energy, within the mathematical model itself space can be altered with effortless ease: you can turn flat Euclidean space into a curved Riemannian manifold, rotating, flipping, stretching, or compressing coordinate axes at will;
-* You can fold higher-dimensional topological spaces, construct automorphisms, and execute smooth diffeomorphisms—all with an energetic overhead that is virtually nonexistent relative to the immense physical work and thermodynamic entropy required to move real matter.
+When the Mind constructs and sustains mathematical frameworks in consciousness, the mental act of transforming geometric relations **involves an energetic cost that is negligible compared to the colossal physical transformations it represents**:
+* There is no such thing as a "model in itself" floating independently of the Mind holding it—a mathematical model is always an active cognitive act, sustained and animated by consciousness at the first-person origin;
+* Within this mind-sustained symbolic sandbox, the Mind can redefine algebraic rules at will, effortlessly imagining flat space curving into a Riemannian manifold, rotating coordinate axes, or folding higher-dimensional topologies;
+* Relative to the immense physical work and thermodynamic entropy required to move real matter or alter cosmic configurations, the Mind's internal reconfiguration of symbolic definitions costs virtually nothing.
 
-This near-zero-overhead symbolic power infinitely expands our ability to recognize patterns and model horizons. Yet that very disproportion—the fact that mental manipulation is practically frictionless compared to physical reality—breeds a fatal ontological illusion: **the Mind mistakenly believes that because the symbolic representation can be manipulated with negligible cost, it is superior to and more fundamental than messy physical interaction.**
+This low-overhead cognitive power infinitely expands our ability to recognize patterns and model horizons. Yet that very disproportion breeds a fatal ontological illusion: **the Mind reifies its own symbolic construct into an independent "objective reality," and mistakenly assumes that because it can rewrite definitions effortlessly in consciousness, this frictionless mental playground is superior to, and more fundamental than, the messy physical reality of living action.**
 
 In physical reality and first-person experience, no transformation is free:
 * Shifting a single gram of matter or altering a local configuration requires overcoming friction, burning biological or mechanical energy, and paying an irreversible thermodynamic cost;
@@ -232,7 +234,7 @@ Where, then, does the grand timeline spanning past and future originate? Its geo
    * 无论是在普朗克尺度的微观量子态跳变，还是在宏观杠杆的力矩平衡，抑或在星系间的引力约束，**离散因果节点之间的相对逻辑关系是高度同构的**。
 2. **数字与代数是跨尺度因果的纯化提炼**：
    * 当我们在纸面上操纵数字与方程时，我们不是在摆弄虚无缥缈的符号游戏，而是在**识别并追踪因果网络在不同尺度基底上重复涌现的不变模式**。
-   * 数学是心智的**微能耗因果望远镜**：它以极微弱的生物能耗剥离了特定尺度的物质阻力，提炼出因果关系的拓扑结构，允许处于宏观尺度（米级）的第一人称心智，提前模拟与预判微观粒子或宏观星系的因果演化。
+   * 数学是心智的**微能耗因果望远镜**：它以极微弱的生理能耗剥离了特定尺度的物质阻力，提炼出因果关系的拓扑结构，允许处于宏观尺度（米级）的第一人称心智，提前模拟与预判微观粒子或宏观星系的因果演化。
 3. **形式工具与物理代价的平衡**：
    * 数学之所以有效，是因为它提炼了离散因果的**尺度不变拓扑**；
    * 我们之所以必须警惕它的幻觉，是因为符号运算**相比于实体演变而言忽略了巨大的能耗累积**。在真实世界中跨越尺度与改变状态，永远必须一步一个脚印地支付真实的物理功与不可逆代价。
@@ -277,11 +279,11 @@ The causal mechanism is profound: **The very discreteness of reality is the fund
 
 ## 六、 科学的大倒置与第一人称原点的复归 / 6. The Great Reversal of Science and the Reclamation of the First-Person Origin
 
-近代科学对人类社会造成的最大认知倒置（The Great Reversal），就在于**将数学与物理模型的影子，误认为了比活生生的第一人称实在更为根本的真理**：
+近代科学对人类社会造成的最大认知倒置（The Great Reversal），就在于**将心智维系的模型阴影，误认为了比活生生的第一人称实在更为根本的客观真理**：
 
 * **倒置的教条**：“因为物理方程中没有主观感受，时间在坐标轴上是对称可逆的，所以人类切身体验到的时间流动、痛苦与自由抉择必定只是微不足道的主观错觉，唯有静态冰冷的数学结构才是客观现实。”
 * **真相的颠倒与复归**：
-  1. 纸面上的 `1 + 1 = 2`、跨尺度的代数公式与坐标轴上的连续曲线，是心智为了规划未来而发明的**极低代价符号脚手架**；
+  1. 纸面上的 `1 + 1 = 2`、跨尺度的代数公式与坐标轴上的连续曲线，是心智为了规划未来而在意识中维系的**极低代价符号脚手架**；
   2. 现实中的每一次选择与介入（+1），才是真正必须克服阻力、支付不可逆代价的**唯一因果本体**；
   3. 用极低能耗的几何沙盘去否定肉身介入的真实性，是用投影的影子去否定发光的太阳。
 
@@ -291,7 +293,7 @@ graph TD
         direction TB
         PaperTautology["【纸面公式: 1 + 1 = 2】<br>极低能耗、无摩擦、跨尺度的符号脚手架"]
         LivingIntervention["【现实行动: +1】<br>消耗能量、克服阻力、承担后果的第一人称介入"]
-        ReversalDissolved["【消解大倒置: 工具回归工具】<br>承认数学与物理模型的表征力量，切勿替代实在本身"]
+        ReversalDissolved["【消解大倒置: 工具回归工具】<br>承认心智表征模型的威力，切勿将其客体化为客观本体"]
         SovereigntyReclaimed["【主权复归第一人称原点】<br>立足当下非零边界，以真实行动驱动多维持续生长"]
         PaperTautology --> ReversalDissolved
         LivingIntervention --> ReversalDissolved
@@ -306,18 +308,18 @@ graph TD
 
 当我们看清了**等同单元（1 = 1）**与**微元归零（dx → 0）**这两大数学虚构，并理解了**离散本底铸就跨尺度不变性**的真实机制，我们便能心怀敬畏地运用形式工具，而不被工具所奴役。
 
-物理学与质量概念是无与伦比的表征利器，数学是跨尺度的因果罗盘；但我们必须时刻清醒：**符号可以跨越千山万水、以极低代价自由弯曲，而生命的每一次真实前行，都必须由第一人称的主权心智在当下（+1）支付其不可转让的因果代价。**
+物理学与质量概念是心智无与伦比的表征利器，数学是跨尺度的因果罗盘；但我们必须时刻清醒：**符号沙盘在意识中可以跨越千山万水、以极低代价自由弯曲，而生命的每一次真实前行，都必须由第一人称的主权心智在当下（+1）支付其不可转让的因果代价。**
 
 ---
 
-The greatest cognitive reversal inflicted by reductionist science upon civilization (The Great Reversal) is **mistaking the mathematical and physical model for the primary reality, while degrading living first-person existence into an illusion**:
+The greatest cognitive reversal inflicted by reductionist science upon civilization (The Great Reversal) is **mistaking the mind-sustained model's shadow for the primary reality, while degrading living first-person existence into an illusion**:
 
 * **The Dogma of the Reversal**: "Because equations are time-symmetric and devoid of subjective qualities, our felt experience of irreversible time, lived suffering, and free choice must be an illusion—only the frozen mathematical structure is real."
 * **The Reclamation of Reality**:
-  1. The paper equation `1 + 1 = 2`, cross-scale algebraic formulas, and continuous coordinate axes are **negligible-cost symbolic scaffolding** constructed by the Mind for foresight and cross-scale navigation;
+  1. The paper equation `1 + 1 = 2`, cross-scale algebraic formulas, and continuous coordinate axes are **negligible-cost symbolic scaffolding** sustained by the Mind for foresight and cross-scale navigation;
   2. The living physical intervention (+1) that burns energy, overcomes friction, and absorbs consequence is the **primary ontological ground of causality**;
-  3. Denying the reality of lived experience using a frictionless mathematical sandbox is using the shadow to deny the sun.
+  3. Denying the reality of lived experience using a frictionless mental sandbox is using the shadow to deny the sun.
 
 When we see through the two great mathematical fictions—**identical units (1 = 1)** and **infinitesimal limits (dx → 0)**—and recognize that **primordial discreteness is the engine of cross-scale invariance**, we can wield formal tools with mastery without becoming trapped in their illusions.
 
-Physics and mass are indispensable representational instruments, and mathematics is our greatest cross-scale causal compass. But we must remain anchored in truth: **the scaffolding can expand and curve with negligible energetic cost across infinite dimensions, but every genuine step of life must be paid for by the sovereign Mind at the first-person origin (+1) through real, irreversible causal action.**
+Physics and mass are indispensable representational instruments of the Mind, and mathematics is our greatest cross-scale causal compass. But we must remain anchored in truth: **the mental scaffolding can expand and curve with negligible energetic cost across infinite dimensions in consciousness, but every genuine step of life must be paid for by the sovereign Mind at the first-person origin (+1) through real, irreversible causal action.**

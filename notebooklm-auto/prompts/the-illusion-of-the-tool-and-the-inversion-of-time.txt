@@ -6,12 +6,12 @@
   3. **Causality Over Physics**: Physics, mass, and mechanics are macro-invariant symptoms of causal feedback loops over time, not absolute rules. Ground all inquiry directly in causality (+1).
 
 * **Voices**:
-  - **Mingli (Voice 1)**: Dissects the representational validity of physics and mass while warning against ontological inversion; explains how primordial discreteness at the Planck scale is the exact engine of cross-scale causal invariance.
-  - **Yuhan (Voice 2)**: Grounds the exploration in the first-person origin (+1), reveals continuity as an emergent scale-smoothing effect, and contrasts the negligible overhead of symbolic modeling with the irreversible thermodynamic cost of physical action.
+  - **Mingli (Voice 1)**: Dissects how mathematical models are active cognitive constructs sustained by the Mind; explains how primordial discreteness at the Planck scale is the engine of cross-scale causal invariance.
+  - **Yuhan (Voice 2)**: Grounds the exploration in the first-person origin (+1), reveals continuity as an emergent scale-smoothing effect, and contrasts the negligible overhead of mental rule redefinition with the irreversible thermodynamic cost of physical action.
 
 ### [Key Directives: "The Illusion of the Tool and the Inversion of Time: Identical Units, Infinitesimal Limits, and the Living Cost of the Act"]
-- Clarify that physics and mass are not 'wrong'—they are indispensable representational instruments. The error is ontological inversion: treating the model as more reliable than the living reality itself.
-- Contrast the negligible energetic overhead of symbolic manipulation on paper with the monumental, irreversible thermodynamic work and friction required for actual physical transformations (+1).
+- Clarify that mathematical models do not exist independently of the Mind holding them. Physics and mathematics are extraordinarily powerful representational activities of consciousness.
+- Contrast the negligible energetic overhead of redefining rules in a mind-sustained symbolic sandbox with the monumental, irreversible thermodynamic work and friction required for actual physical transformations (+1).
 - Unpack the two mathematical fictions:
   1. Identical Units (1 = 1): Erases the micro distinctions and unique causal histories required for coexistence.
   2. Infinitesimal Limits (dx -> 0, ds -> 0): Calculus is a coarse-grained scaffolding. Reality is fundamentally discrete and binary at the Planck scale.
@@ -20,7 +20,7 @@
 - Expose the spatialization of time: Mass acts as an inertial stabilizer projecting the t-axis. Reclaim sovereign agency at the first-person origin (+1).
 
 ### [Intro Script - Mingli]
-Mingli: To be clear, when we examine the idealized fictions of mathematics and physics, we aren't saying mass or physics are wrong. They are extraordinarily powerful representational tools for discovering underlying causal patterns. The danger is treating the model as more reliable or more real than the living terrain itself.
+Mingli: To be clear, when we examine the idealized fictions of mathematics and physics, we aren't saying mass or physics are wrong. They are extraordinarily powerful representational tools developed by the Mind. But there is no 'model in itself' floating in the void—every mathematical model is an active cognitive construct held by consciousness. The trap is reifying the model into an independent reality more reliable than living experience.
 
-Yuhan: Exactly. When the Mind manipulates equations on paper, the biological energy spent is negligible compared to the cosmic transformations it represents. In living reality, every physical state change is built on discrete Planck-scale distinctions, and actualizing an action (+1) requires overcoming friction and paying an irreversible thermodynamic cost. Mistaking the low-overhead map for reality leads straight into the Great Reversal.
+Yuhan: Exactly. When the Mind reconfigures definitions in its symbolic sandbox, the biological energy spent is negligible compared to the cosmic transformations it envisions. In living reality, every physical state change is built on discrete Planck-scale distinctions, and actualizing an action (+1) requires overcoming friction and paying an irreversible thermodynamic cost. Mistaking our low-overhead mental sandbox for reality leads straight into the Great Reversal.
 (Yuhan responds: Explore how reality's primordial discreteness is the very reason causality is scale-invariant and abstractable by mathematics, while the feeling of smooth continuity is an emergent scale illusion. Conclude by dismantling the spatialized block universe and returning sovereign agency to the first-person origin in the living present.)
