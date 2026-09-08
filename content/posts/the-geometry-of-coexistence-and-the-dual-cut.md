@@ -104,7 +104,7 @@ The positive choice and the negative field of indeterminacy emerge from the exac
 
 ---
 
-## 四、 理论边界的快速诊断：宏观统计聚合与自由变量的三种微观主权关系 / 4. Diagnosing Theoretical Boundaries: Macro Statistical Aggregation and the Three Micro Sovereign Relationships of Free Variables
+## 四、 理论边界的快速诊断：宏观统计聚合、能动性外抛与体制性拖拽 / 4. Diagnosing Theoretical Boundaries: Macro Statistical Aggregation, Agency Misallocation, and Institutional Drag
 
 以“因果的双面同构”为基准，心智可以迅速诊断各类科学与哲学范式的理论边界与视差盲区。
 
@@ -122,8 +122,6 @@ The positive choice and the negative field of indeterminacy emerge from the exac
 3. **双向主权独立与并行生长（Dual Sovereignty & Parallel Co-Evolution）**：
    两个变量皆保持自身百分之百的第一人称主权（+1），各自对自身的坐标演进承担因果责任。双方既不向外归咎，亦不固化防线，而是以坦然的姿态在张量场（X ⊗ Y）中共存并向前演进。系统摩擦力归零，双方在充分独立的同时实现并行生长与维度跃迁。
 
-宏观群体的统计分布与物理定律，本质上正是这三种微观主权关系在海量自由变量中展开后的统计投影。
-
 ```mermaid
 graph TD
     subgraph ThreeRelationalModes["【自由变量交互的三种主权关系】"]
@@ -140,7 +138,29 @@ graph TD
     style DualSovereignty fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
 ```
 
-传统理论的致命视差，在于误将宏观统计聚合（A^⟂）当作对微观自由抉择（A）的否定与消灭：
+深入剖析这种微观机制，我们可以得出关于社会与文明结构的深刻几何诊断：**个体将自身的因果能动性外抛、错位归咎于任何外在客体（他者、环境、运气或历史），正是造成个体停滞与系统整体拖拽（Systemic Drag）的根源所在。**
+
+当海量个体拒绝为自身的生命承担第一人称因果责任、普遍将主权外抛时，无数微观的推责与摩擦在群体层面汇聚，沉淀为庞大的统计平均均值。**我们在人类文明中所目睹的繁苛规则、官僚体制、法律防线与道德教条——这些看似客观坚固的宏观体制与集体症状，其本质正是群体性逃避自身主权责任所累积的系统拖拽的物理化表征（Signature of Cumulative Drag）。**
+
+因为个体拒绝立足原点，相互推责带来的死锁与冲突便必须依赖外在的强制性代偿支架（体制与规范）来维系脆弱的平衡。宏观规则并非超越主权的天然秩序，而是微观主权缺位后的外部代偿。
+
+```mermaid
+graph TD
+    subgraph InstitutionalDrag["【能动性外抛与体制性拖拽】"]
+        direction TB
+        AgencyMisallocation["【能动性外抛与主权让渡】<br>将自身因果责任推向他者与环境"]
+        CumulativeDrag["【微观摩擦累积为宏观阻力】<br>海量主权让渡沉淀为统计平均均值"]
+        InstitutionalSymptom["【规则与体制的症状性固化】<br>体制与规范作为群体逃避主权的外部代偿"]
+        AgencyMisallocation --> CumulativeDrag
+        CumulativeDrag --> InstitutionalSymptom
+    end
+    style InstitutionalDrag fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
+    style AgencyMisallocation fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+    style CumulativeDrag fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style InstitutionalSymptom fill:#21262d,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+```
+
+传统理论的致命视差，在于误将宏观统计聚合与外部规则（A^⟂）当作对微观自由抉择（A）的否定与消灭：
 * **唯物决定论的错位**：“因为我们在宏观聚合层面观测到了统计规律与物理守恒（A^⟂），所以第一人称自由抉择（A）必定是虚妄的错觉。”
 * **朴素二元论的错位**：“因为我们切身体验到了自由抉择（A），所以意识必定是独立游离于物理世界之外的幽灵。”
 * **激进结构主义的错位**：死锁于外向聚焦的态射集合，试图用关系网络替代主体原点，消解了结点的能动性。
@@ -183,7 +203,11 @@ To see the interplay between macro statistics and micro causality with complete 
 3. **Dual 100% Sovereignty & Parallel Co-Evolution**:
    Both variables maintain 100% first-person causal sovereignty (+1), each taking full responsibility for its own internal coordinate evolution. Neither projects blame onto the other; both maintain open equanimity across the non-zero boundary (X ⊗ Y). Systemic drag drops to zero, and both move forward independently in parallel co-evolution, expanding their dimensional horizons.
 
-Macro-statistical "laws of physics" and sociological regularities are simply the aggregate distributions of these three micro-relational modes across billions of interacting sovereign agents.
+This unlocks a profound geometric diagnosis of human society and civilization: **the very misallocation of one's own causal agency onto external entities (the other, the environment, luck, or history) is the exact source of drag for both the individual and the system as a whole.**
+
+When millions of individuals refuse to take first-person causal responsibility for their lives and systematically misallocate agency, these countless micro-frictions aggregate into a macro statistical average. **What we see in civilization as rigid rules, bureaucratic institutions, legal scaffolding, and moralistic dogmas—these collective symptoms are literally the physicalized signature of the cumulative drag created by individuals who refuse to be responsible for their own existence.**
+
+Because individuals abdicate their causal origin, the resulting deadlocks and conflicts necessitate external prosthetic scaffolding (institutions and regulatory apparatuses) to sustain artificial balance. Macro institutions are not transcendent laws of nature, but the external compensatory shells erected to manage the fallout of abdicated micro-sovereignty.
 
 The fatal theoretical category error lies in treating statistical aggregation (A^⟂) as the ontological negation and destruction of freedom of choice (A):
 * **The Deterministic Fallacy**: "Because we observe statistical regularities and physical conservation across macro-aggregates (A^⟂), first-person freedom of choice (A) must be an illusion."
