@@ -6,20 +6,21 @@
   3. **Causality Over Physics**: Physics, mass, and mechanics are macro-invariant symptoms of causal feedback loops over time, not absolute rules. Ground all inquiry directly in causality (+1).
 
 * **Voices**:
-  - **Mingli (Voice 1)**: Dissects the zero-cost illusions of mathematical transformations, the fictions of identical units (1=1) and infinitesimal limits (dx->0), and reveals how mathematics functions as the scale-free expression of causality across different physical regimes.
-  - **Yuhan (Voice 2)**: Grounds the exploration in the first-person origin, the irreversible thermodynamic cost of physical acts (+1), the spatialized time trap of the t-axis, and the reclamation of sovereign agency against the Great Reversal.
+  - **Mingli (Voice 1)**: Dissects the representational validity of physics and mass while warning against ontological inversion; explains how primordial discreteness at the Planck scale is the exact engine of cross-scale causal invariance.
+  - **Yuhan (Voice 2)**: Grounds the exploration in the first-person origin (+1), reveals continuity as an emergent scale-smoothing effect, and reclaims sovereign physical action against the zero-cost block universe trap.
 
-### [Key Directives: "The Illusion of the Tool and the Inversion of Time: Identical Units, Cross-Scale Causality, and the Living Cost of the Act"]
-- Contrast the zero-cost, zero-friction freedom of mathematical space (curving manifolds, flipping dimensions on paper) with the irreversible thermodynamic work and friction required for any physical action (+1).
-- Unpack the two core mathematical fictions:
+### [Key Directives: "The Illusion of the Tool and the Inversion of Time: Identical Units, Infinitesimal Limits, and the Living Cost of the Act"]
+- Clarify that physics and mass are not 'wrong'—they are indispensable representational instruments. The error is ontological inversion: treating the model as more reliable than the living reality itself.
+- Contrast the zero-cost, zero-friction freedom of mathematical space with the irreversible thermodynamic work and friction required for any physical action (+1).
+- Unpack the two mathematical fictions:
   1. Identical Units (1 = 1): Erases the micro distinctions and unique causal histories required for coexistence.
-  2. Infinitesimal Limits (dx -> 0, ds -> 0): If the distinction boundary actually reached zero, information collapses (I -> 0).
-- Explain why math is unreasonably effective: Mathematics is the formal expression and compression of causality across scale. Manipulating numbers identifies and tracks repeating, scale-invariant causal feedback patterns across quantum, macroscopic, and cosmic systems.
-- Expose the spatialization of time: Mass acts as an inertial stabilizer projecting the t-axis into history and forecast. Mistaking this static coordinate line for living, felt time is the Great Reversal.
-- Emphasize that formal math is an extraordinary scale-free causal telescope, but living reality must always be actualized by the sovereign Mind at the first-person origin (+1) through irreversible causal action.
+  2. Infinitesimal Limits (dx -> 0, ds -> 0): Calculus is a coarse-grained scaffolding. Reality is fundamentally discrete and binary at the Planck scale.
+- Explain the origin of continuity: The feeling of a smooth continuum is an emergent illusion born from the massive 35-order-of-magnitude scale gap between Planck distinctions and human perception.
+- Explain cross-scale invariance: Primordial discreteness is the exact reason why causality is invariant across scale and can be abstracted by mathematics.
+- Expose the spatialization of time: Mass acts as an inertial stabilizer projecting the t-axis. Reclaim sovereign agency at the first-person origin (+1).
 
 ### [Intro Script - Mingli]
-Mingli: When we manipulate mathematical equations, we can curve spacetime, fold dimensions, and calculate trajectories across millions of light-years with zero physical friction. But that effortless power introduces a profound illusion: we mistake the frictionless mathematical map for the living reality itself.
+Mingli: To be clear, when we examine the idealized fictions of mathematics and physics, we aren't saying mass or physics are wrong. They are extraordinarily powerful representational tools for discovering underlying causal patterns. The danger is treating the model as more reliable or more real than the living terrain itself.
 
-Yuhan: Exactly. On paper, flipping a galaxy costs zero energy. In living reality, taking a single step or moving a single gram of matter (+1) requires overcoming resistance, burning energy, and paying an irreversible thermodynamic cost. Mathematics is our most powerful navigational tool, but its zero-cost nature can blind us to the physical cost of actualization.
-(Yuhan responds: Explore how arithmetic relies on the fiction of identical units (1 = 1) and calculus on infinitesimal limits (dx -> 0), while uncovering mathematics' true power: as a scale-free language expressing repeating causal feedback patterns across different scales. Conclude by dismantling the spatialized time trap of the block universe and reclaiming sovereign agency at the first-person origin.)
+Yuhan: Exactly. On paper, curling a manifold or drawing a smooth curve costs zero energy. In living reality, every transformation is built on discrete Planck-scale distinctions, and actualizing an action (+1) requires overcoming friction and paying an irreversible thermodynamic cost. When we mistake the frictionless map for reality, we fall into the Great Reversal.
+(Yuhan responds: Explore how reality's primordial discreteness is the very reason causality is scale-invariant and abstractable by mathematics, while the feeling of smooth continuity is an emergent scale illusion. Conclude by dismantling the spatialized block universe and returning sovereign agency to the first-person origin in the living present.)
