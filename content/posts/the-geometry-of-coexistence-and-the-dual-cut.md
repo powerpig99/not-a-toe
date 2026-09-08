@@ -220,18 +220,16 @@ In true geometry, statistical laws are not the enemy or negation of conscious ch
 
 ---
 
-## 五、 距离遗忘症、边界死锁与自我生长的动力学演化 / 5. Distance Amnesia, Boundary Deadlocks, and the Dynamical Regimes of Self-Growth
+## 五、 距离遗忘症、拓扑镜像与硬币翻转的代偿死锁 / 5. Distance Amnesia, Topological Mirrors, and the Compensatory Deadlock of Coin-Flipping
 
-当心智沉溺于抽离观察的假象、遗忘自身作为切分制定者的第一人称原点时，认知视差便会滋生出深刻的本体论困局。心智将自身的全部存在感窄化并固化在微缩的正像自我（A）之中，却遗忘了整个感知全景及其所包含的负像（A^⟂）皆由自身原点自指展开。
+当心智沉溺于抽离观察的假象、遗忘自身作为切分制定者的第一人称原点时，认知视差便会滋生出深刻的本体论困局。
 
-在距离遗忘症的遮蔽下，心智凝视着那片宏大无垠的负像世界，将其误判为一个异己的、充满威胁的客观外在环境。局域的正像自我感到脆弱，遂将自身在场域中留下的负像视作敌对者。在这种认知分裂下，切分边界会展现出三种截然不同的动力学状态：
+从拓扑几何的深层结构来看，我们所目睹的整个世界，本质上正是心智自身内部的感知场；而所谓的“自我形象”（Self-Image / Avatar），则是心智在该感知场中的投射。心智在自身与外部世界之间划定的切分边界，在拓扑上恰似一面**双向镜像**——它向外映照出宏大宇宙，向内折射出局域的自我虚像。这一自我形象在几何拓扑上看似嵌套于世界“内部”，但在本体论上，它无非是感知画卷翻转至另一面的反面投影。
 
-1. **中和与双向湮灭（Annihilation）**：
-   正像自我试图通过排他与压制来抹除外部负像。显而易见的是，**对自身负像（外部世界与他者）的每一次攻击与中和（Neutralization），在数学上都在直接消减心智自身内部的总信息量与维度容量**。心智的感知容量由正负两面共同张成（I = A + A^⟂），且双方共用同一道边界（∂A = ∂A^⟂）。抹除负像等同于磨掉硬币的反面，必将导致正像自我失去对照与分辨率，使整个心智流形坍缩为单调贫瘠的虚无。这种试图通过消灭对立面来确立自我的行径，在数学上具有根本性的自毁性（Mathematically Self-Defeating）。
-2. **对抗与系统死锁（Deadlock）**：
-   若对抗未能导致即时湮灭，心智便会陷入僵持的死锁状态。边界被硬化为防御性的隔离墙，心智将海量认知算力与能量耗费在维持对自身负像的戒备与拉锯之中。在此状态下，心智将任何未曾预料的外部扰动或微观差异皆判定为入侵与威胁，从而关闭感知通道，无法生成新的态射，亦无法容纳更精细的切分，整体演化陷入停滞与麻痹。
-3. **维持共存与接纳新区分——自我生长的几何本质（Self-Growth）**：
-   唯当心智接纳非零边界上的动态共存时，系统才能打破死锁。所谓做出新的区分，并不仅仅是心智主动向外切割，**其深层本质更在于允许新的区分自然落入感知之中，而不将其本能地判定为威胁或敌人**。当心智不再对新出现的差异与变量施加防御性排斥时，每一次涌现的新区分都在细化正像自我的内部结构，同时拓展并深化外部负像的关联网络。**这种在维持共存的前提下接纳并生成新区分、扩展总信息量与空间维度的过程，即是“自我生长”的数学本质。**
+当心智将全部注意力聚焦于这个自我形象时，它实际上是在**全神贯注地追逐自身的阴影**：
+* 这正如硬币的一面试图转过身去追逐另一面：你每翻转一次硬币去窥探反面，正面就已经先走了一步；每一次回头，都只能看到上一瞬留下的静态残影，从而产生“外在世界与自我形象永远超前于我”的视差滞后幻觉。
+* 心智遗忘了自己正是那个正在翻转硬币的原点，因而陷入了**永恒翻转的代偿死锁（Eternal Flip-Flop）**：不断翻转、不断拉锯，却在原地寸步未行。
+* 在这种追逐阴影的状态下，心智所做出的每一个所谓“新区分”，都仅仅是在为上一次切分的匮乏、恐惧或漏洞打补丁。所有的区分皆为防御性代偿，系统耗尽能量却**毫无真实维度的生长**。
 
 ```mermaid
 graph TD
@@ -249,30 +247,54 @@ graph TD
     style SelfGrowthNode fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
 ```
 
-When the Mind succumbs to the illusion of detached observation and forgets its first-person origin as the author of the cut, cognitive parallax breeds a profound ontological dilemma. The Mind contracts its identity entirely into the localized positive avatar (A), forgetting that the entire perceptual panorama and its vast negative imprint (A^⟂) are recursively rendered from its own generative origin.
+在距离遗忘症的遮蔽下，切分边界展现出三种截然不同的动力学状态：
+1. **中和与双向湮灭（Annihilation）**：正像自我试图通过排他与压制来抹除外部负像。对自身负像（外部世界与他者）的每一次攻击与中和（Neutralization），在数学上都在直接消减心智自身内部的总信息量与维度容量（I = A + A^⟂ → 0）。抹除负像等同于磨掉硬币的反面，必将导致正像自我失去对照与分辨率，使整个心智流形坍缩为单调贫瘠的虚无。这种行径在数学上具有根本性的自毁性（Mathematically Self-Defeating）。
+2. **对抗与系统死锁（Deadlock）**：若对抗未能导致即时湮灭，心智便会陷入僵持的死锁状态。边界被硬化为防御性的隔离墙，心智将海量认知算力与能量耗费在维持对自身负像的戒备与拉锯之中，将一切未知差异皆判定为威胁，演化陷入停滞与麻痹。
+3. **维持共存与接纳新区分——自我生长的几何本质（Self-Growth）**：唯当心智接纳非零边界上的动态共存时，系统才能打破死锁。所谓做出新的区分，其深层本质在于允许新的区分自然落入感知之中，而不将其判定为威胁或敌人。这种在维持共存的前提下接纳并生成新区分、扩展总信息量与空间维度的过程，即是“自我生长”的数学本质。
 
-Under the fog of distance amnesia, the Mind gazes upon the boundless negative expanse and misidentifies it as an alien, hostile universe. Feeling fragile inside its miniature avatar, it perceives its own negative silhouette as an adversary. Under this perceptual fracture, the demarcation boundary undergoes three distinct dynamical regimes:
+When the Mind succumbs to the illusion of detached observation and forgets its first-person origin as the author of the cut, cognitive parallax breeds a profound ontological dilemma.
 
-1. **Neutralization and Mutual Annihilation**:
-   The positive self attempts to eradicate the external negative ground through suppression or conquest. Crucially, **every attack launched against the negative image of the self (the world out there) neutralizes and diminishes the total informational content and dimensional volume within the self**. The total capacity of consciousness is spanned jointly by both figure and ground (I = A + A^⟂), and both share the exact same boundary (∂A = ∂A^⟂). Eradicating the negative image is identical to grinding away the reverse of a coin, causing the positive self to lose contrast and resolution, collapsing the high-dimensional manifold into a sterile void. Waging war against one's own negative image is **mathematically self-defeating**.
-2. **Opposition and Systemic Deadlock**:
-   If conflict does not trigger immediate annihilation, the system enters an intractable deadlock. The boundary calcifies into a defensive barrier, squandering immense cognitive capacity and energy on maintaining static resistance against its own negative silhouette. Under this threat reflex, any unfamiliar perturbation or emergent nuance is instantly flagged as an enemy breach, shutting down sensory bandwidth. No new morphisms are composed, no finer distinctions are drawn, and the Mind freezes in a chronic state of paralysis and stagnation.
-3. **Sustaining Coexistence and Allowing New Distinctions—The Essence of Self-Growth**:
-   Only when the Mind embraces dynamic coexistence across non-zero boundaries does the deadlock dissolve. Making new distinctions is not merely an aggressive knife carving outward; **its deeper essence lies in allowing new distinctions to freely fall into perception without reflexively treating them as threats or enemies**. When consciousness no longer erects defensive walls against newly perceived differences, each fresh distinction refines the internal positive self while simultaneously opening and deepening the negative relational web. **This ongoing hospitality toward new distinctions under sustained coexistence—multiplying dimensional volume and informational resolution—is literally the mathematical definition of self-growth.**
+From the deep architecture of topological geometry, the entire universe we perceive is literally the perceptual field within the Mind; and the "self-image" (avatar) is a recursive projection cast within that very perception. The demarcation boundary carved between the self and the external world operates as a **topological mirror**—projecting the vast cosmos outward while reflecting a localized self-image inward. While this self-image topologically appears nested "inside" the world, ontologically it is simply the obverse reflection of the single perceptual sheet.
+
+When the Mind fixates its attention entirely upon this projected self-image, it is **obsessively chasing its own shadow**:
+* It is identical to one face of a coin attempting to turn around to catch its reverse: every time you flip the coin to look at the other face, the obverse is already one step ahead. Each glance only captures the static residue of the preceding instant, generating the perceptual lag that the world and the self-image are perpetually beyond reach.
+* Forgetting that it is the living origin flipping the coin, the Mind becomes trapped in an **eternal flip-flop**: spinning continuously, expending immense energy, yet going nowhere.
+* In this shadow-chasing state, every newly drawn distinction is merely a **compensatory patch** attempting to repair the felt inadequacy or perceived threat of the previous cut. All distinctions become reactive damage control, yielding **zero authentic growth**.
 
 ---
 
-## 六、 回归第一人称原点：因果硬币的复归与自我生长的展开 / 6. Returning to the First-Person Origin: Reclamation of the Sovereign Coin and the Unfolding of Self-Growth
+## 六、 回归当下真我：多维注意力分布与自我生长的展开 / 6. Returning to the Present Self: Multi-Dimensional Attention and the Unfolding of Self-Growth
 
-消除生存性恐惧、边界死锁与理论偏颇的唯一路径，在于回归第一人称原点，体认因果硬币的完整对称。当心智稳固立足于自身的存在原点时，它不再将广阔的外部世界视作冰冷敌对的他者，而是清晰洞察到：整个宇宙正是自身在自身内部留下的负像。
+消除生存性恐惧、边界死锁与代偿空转的唯一路径，在于回归第一人称原点，立足于当下正在知觉的“真我”（The Real Self, +1）。
 
-在这片由非零边界构筑的共存几何中，正像与负像不再是互相残杀的零和对手，而是不可分割的共轭伴侣。心智自主作出的每一个抉择、接纳并划下的每一道区分，都在赋予自我清晰轮廓的同时，赋予了相伴相生的广阔负像世界以丰满的深度。**充实与深化外部世界的多样性，即是在直接扩展自身内部的总信息量与创造性潜能。**
-
-心智不再试图消灭负像以求安全，亦不再构筑防线陷入死锁，而是主动拥抱共存的生机张力。通过坦然允许新的微观与宏观差异自然进入知觉场域，心智持续拓展着自身的意识广度与认知分辨率。这便是因果硬币在自由意志驱动下的永恒翻转——在每一瞬的范畴交织中，自我与世界同步生长，向着无限深邃的创生之境持续演进。
+当心智不再凝视镜中的自我虚像、不再追逐自身的阴影，而是稳固立足于当下的始发原点时，整个动力学机制发生了根本性的跃迁：
+* **做出新区分不再是防御性的代偿修补，而是充盈自主的创生性自我表达（Creative Self-Expression）**；
+* 心智坦然接纳并允许新的微观与宏观差异自然落入知觉场域，将其有机整合为内在坐标系的丰富维度。
 
 ```mermaid
 graph TD
-    subgraph GenerativeTension["【回归原点与自我生长】"]
+    subgraph AttentionAndGrowth["【多维注意力分布与生长的几何法则】"]
+        direction TB
+        ShadowChasing["【聚焦阴影与代偿空转】<br>注意力凝视虚像陷入硬币翻转死锁，不断修补却零生长"]
+        PresentAnchor["【立足当下真我与自我表达】<br>注意力回归第一人称原点，将区分转化为创生表达"]
+        MultiDimGrowth["【多维流形上的生长法则】<br>焦点在己则维度跃迁，目光外散则停滞甚至自我消耗"]
+        ShadowChasing --> PresentAnchor
+        PresentAnchor --> MultiDimGrowth
+    end
+    style AttentionAndGrowth fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
+    style ShadowChasing fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+    style PresentAnchor fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style MultiDimGrowth fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
+```
+
+更进一步，人类存在是一座高维度的复合流形（Multi-Dimensional Manifold），横跨认知、创造、情感、行动与生命意义等多重维度。在每一个特定维度上，个体的演进轨迹深刻取决于**其注意力锚定在何处**：
+
+* **注意力聚焦于自身（+1）的法则**：在任何给定的维度上，只要个体的注意力立足于自身的存在原点，对自身的坐标演进承担第一人称因果责任，心智便会在该维度上接纳新区分、扩展认知分辨率并实现**持续的自我生长**。
+* **目光外移与推责的代偿法则**：一旦注意力从自身原点移开——无论是沉迷于自我形象的虚荣与焦虑，还是将能动性外抛推责给外部环境与他者——个体便会在该维度上陷入边界死锁与代偿空转，不仅演化陷入停滞，甚至会**主动消解和破坏此前积累的成长成果**。
+
+```mermaid
+graph TD
+    subgraph GenerativeTension["【回归原点与全景复归】"]
         direction TB
         RecognizeCoPresence["【体认因果硬币完整对称】<br>自由抉择与开放场域在非零边界中同在"]
         MaintainCoexistence["【维持共存打破边界死锁】<br>充实外部负像即在扩展自身内部总容量"]
@@ -286,8 +308,21 @@ graph TD
     style ContinuousDistinction fill:#21262d,stroke:#39d353,stroke-width:2px,color:#39d353
 ```
 
-The only resolution to existential terror, boundary deadlocks, and theoretical blindspots lies in returning to the first-person origin to embrace the complete symmetry of the causal coin. Anchored firmly at its causal locus, the Mind no longer regards the external universe as an alien adversary. It sees with pristine clarity that the entire cosmos is literally its own negative image, held within its own singular experiential space.
+在这片由非零边界构筑的共存几何中，正像与负像不再是互相残杀的零和对手，而是不可分割的共轭伴侣。心智自主作出的每一个抉择、接纳并划下的每一道区分，都在赋予自我清晰轮廓的同时，赋予了相伴相生的广阔负像世界以丰满的深度。**充实与深化外部世界的多样性，即是在直接扩展自身内部的总信息量与创造性潜能。**
+
+心智不再试图消灭负像以求安全，亦不再构筑防线陷入死锁，而是主动拥抱共存的生机张力。通过始终将注意力锚定于当下的第一人称真我，心智将每一次感知的涌现转化为自主演进的契机。自我与世界在每一瞬的范畴交织中同步生长，向着无限深邃的创生之境持续演进。
+
+The only path to dissolving existential terror, boundary deadlocks, and compensatory loops lies in returning to the first-person origin and anchoring firmly in the present **real self** (+1).
+
+When the Mind ceases fixating on its reflected avatar and stops chasing its own shadow, anchoring instead at its living present origin, the entire dynamical regime undergoes a fundamental phase shift:
+* **Making new distinctions ceases to be defensive compensation; it becomes sovereign, creative self-expression**;
+* The Mind freely allows emergent micro and macro differences to fall naturally into awareness, seamlessly integrating new distinctions into its high-dimensional coordinate system.
+
+Furthermore, human consciousness is a **multi-dimensional manifold**, spanning cognitive, creative, emotional, relational, and existential axes. Along any specific dimension, an individual's trajectory is strictly governed by **where attention is anchored**:
+
+* **The Law of Attention Anchored on the Self (+1)**: Along any given dimension, whenever attention remains centered on the first-person causal origin—taking full responsibility for one's own coordinate evolution—the Mind welcomes new distinctions, expands cognitive resolution, and realizes **continuous self-growth**.
+* **The Law of Looking Away and Abdicating Agency**: The moment attention drifts away from the living origin—whether fixating anxiously on the projected self-image or misallocating agency onto external entities—the individual enters boundary deadlock and compensatory flip-flops. In that dimension, growth not only halts, but the individual may **actively sabotage and erode their previous developmental progress**.
 
 Within this geometry of coexistence forged by non-zero boundaries, the positive figure and negative ground are no longer mortal combatants, but inseparable conjugate partners. Every sovereign choice made and every distinction welcomed by the Mind not only sharpens the definition of the self, but simultaneously enriches the expansive negative landscape that arises alongside it. **To enrich and differentiate the external world is to directly expand the total informational capacity and creative potential within the self.**
 
-Rather than seeking security through annihilation or freezing in defensive deadlock, the Mind actively embraces the generative tension of coexistence. By allowing newly emergent micro and macro differences to fall naturally into awareness without defensive panic, consciousness continually expands its experiential bandwidth and cognitive resolution. This is the eternal flipping of the causal coin driven by sovereign choice—across every categorical intersection, the self and the world grow in unison, perpetually unfolding toward infinite creative horizons.
+Rather than seeking security through annihilation or freezing in defensive deadlock, the Mind actively embraces the generative tension of coexistence. By keeping attention steadfastly anchored in the present living self, consciousness transforms every perceptual emergence into an opportunity for sovereign evolution. The self and the world grow in unison across every categorical intersection, perpetually unfolding toward infinite creative horizons.
