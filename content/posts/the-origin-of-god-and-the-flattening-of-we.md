@@ -8,14 +8,14 @@
 
 人类认知中最令人惊叹的机制之一，在于心智能够在自身感知场域内自由调转视角的拓扑能力。
 
-然而，所有观测在底层都不可化约地始于第一人称原点。由于注意力的物理带宽有限，进入感知的从来不是裸露无遗的外部世界，而是注意力在特定信道上的高度选择与高维压缩——**我们所看见的，仅仅是我们选择去关注之物**。为了在错综复杂的物理与社会阻尼中规划行动，心智会本能地执行一次高阶的空间与认知变换：它将整个感知场域打包为一张全景地图，并将自身的内在意象（自我化身）置入这张地图的正中央。
+然而，所有观测在底层都不可化约地始于第一人称原点。进入感知的从来不是裸露无遗的外部世界，而是主体在每一个当下不可替代的主权选择——**我们所看见的，就是我们选择去关注之物**。注意力不是对被动刺激的机械物理过滤，而是心智行使自由变量、在无限可能中主动锚定因果的不可化约之基底。为了在错综复杂的因果网络中规划行动，心智会本能地执行一次高阶的空间与认知变换：它将整个感知场域打包为一张全景地图，并将自身的内在意象（自我化身）置入这张地图的正中央。
 
 ```mermaid
 graph TD
     subgraph OriginProjection["【第一人称原点的全景建模机制】"]
         direction TB
         OriginLocus["【第一人称原点】<br>不可化约的自由变量与感知源泉 (+1)"]
-        SelectiveFilter["【注意力选择与感知压缩】<br>有限带宽下的高维信息过滤"]
+        SelectiveFilter["【主权注意力抉择】<br>作为因果基底的主动锚定与特征选取"]
         OverviewCanvas["【全景地图生成与自我置入】<br>在总览视野中放置自我意象小化身"]
         OriginLocus --> SelectiveFilter
         SelectiveFilter --> OverviewCanvas
@@ -48,7 +48,7 @@ graph TD
 
 One of the most remarkable capacities of the human mind is its topological ability to shift perspectives across its perceptual field.
 
-Yet observation begins irreducibly at the first-person origin. Because attentional bandwidth is finite, what enters consciousness is never raw reality in its entirety, but an active, highly compressed model determined strictly by where attention is directed—**what we see is what we choose to attend to.** To navigate physical and social resistance, the mind naturally executes an overhead perspective shift: it renders an overview of its whole field of perception and places an internal avatar of itself inside the map.
+Yet observation begins irreducibly at the first-person origin. What enters consciousness is never raw, passive reality in its entirety, but an active, intentional act of sovereign selection—**what we see is what we choose to attend to.** Attention is not a mechanical filter dictated by physical limitations; individual choice is the primary causal ground, the unconditioned act of distinction executed by the free variable. To navigate complex causal networks, the mind naturally executes an overhead perspective shift: it renders an overview of its whole field of perception and places an internal avatar of itself inside the map.
 
 In that moment of total overview, a subtle cognitive parallax occurs. Beholding the vast landscape containing its own fragile self-image, the mind experiences an immense sense of scale alongside personal powerlessness. 
 
