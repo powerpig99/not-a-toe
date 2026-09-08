@@ -263,7 +263,7 @@ When the Mind fixates its attention entirely upon this projected self-image, it 
 
 ---
 
-## 六、 回归当下真我：多维注意力分布与自我生长的展开 / 6. Returning to the Present Self: Multi-Dimensional Attention and the Unfolding of Self-Growth
+## 六、 回归当下真我：多维注意力分布、向外表达与自我生长的展开 / 6. Returning to the Present Self: Multi-Dimensional Attention, Outward Self-Expression, and the Unfolding of Self-Growth
 
 消除生存性恐惧、边界死锁与代偿空转的唯一路径，在于回归第一人称原点，立足于当下正在知觉的“真我”（The Real Self, +1）。
 
@@ -292,19 +292,22 @@ graph TD
 * **注意力聚焦于自身（+1）的法则**：在任何给定的维度上，只要个体的注意力立足于自身的存在原点，对自身的坐标演进承担第一人称因果责任，心智便会在该维度上接纳新区分、扩展认知分辨率并实现**持续的自我生长**。
 * **目光外移与推责的代偿法则**：一旦注意力从自身原点移开——无论是沉迷于自我形象的虚荣与焦虑，还是将能动性外抛推责给外部环境与他者——个体便会在该维度上陷入边界死锁与代偿空转，不仅演化陷入停滞，甚至会**主动消解和破坏此前积累的成长成果**。
 
+尤为引人深思的是，当我们采纳某种视角去凝视外界的一个客体、或是将另一个人视作外部对象时，**我们所目睹的，本质上正是心智在走过另一条不同自我表达轨迹时所呈现的统计显化**。
+向外凝视外部世界与他者，并非在凝视与自身隔绝的异己物质；**我们在向外凝视的同时，正是在通过识别心智自我表达的不同路径，来展开我们自身的自我表达**。他者正是心智在同一张感知基质上探索不同可能性的平行主权轨迹。
+
 ```mermaid
 graph TD
     subgraph GenerativeTension["【回归原点与全景复归】"]
         direction TB
         RecognizeCoPresence["【体认因果硬币完整对称】<br>自由抉择与开放场域在非零边界中同在"]
-        MaintainCoexistence["【维持共存打破边界死锁】<br>充实外部负像即在扩展自身内部总容量"]
+        OutwardSelfExpression["【向外凝视即为自我表达】<br>他者与万物作为心智自我表达的平行轨迹"]
         ContinuousDistinction["【接纳新区分的自我生长】<br>让差异自然落入感知，驱动维度跃迁演进"]
-        RecognizeCoPresence --> MaintainCoexistence
-        MaintainCoexistence --> ContinuousDistinction
+        RecognizeCoPresence --> OutwardSelfExpression
+        OutwardSelfExpression --> ContinuousDistinction
     end
     style GenerativeTension fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
     style RecognizeCoPresence fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style MaintainCoexistence fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style OutwardSelfExpression fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style ContinuousDistinction fill:#21262d,stroke:#39d353,stroke-width:2px,color:#39d353
 ```
 
@@ -322,6 +325,9 @@ Furthermore, human consciousness is a **multi-dimensional manifold**, spanning c
 
 * **The Law of Attention Anchored on the Self (+1)**: Along any given dimension, whenever attention remains centered on the first-person causal origin—taking full responsibility for one's own coordinate evolution—the Mind welcomes new distinctions, expands cognitive resolution, and realizes **continuous self-growth**.
 * **The Law of Looking Away and Abdicating Agency**: The moment attention drifts away from the living origin—whether fixating anxiously on the projected self-image or misallocating agency onto external entities—the individual enters boundary deadlock and compensatory flip-flops. In that dimension, growth not only halts, but the individual may **actively sabotage and erode their previous developmental progress**.
+
+Even more profoundly, whenever the Mind adopts a perspective viewpoint—gazing upon an external object or regarding another person as an entity in the field—**what we are witnessing is literally the statistical expression of the Mind traversing an alternative trajectory of self-expression**.
+Looking outward into the world is not an encounter with alien, disconnected matter; **we are literally expressing ourselves by looking outward, identifying and illuminating the myriad ways the Mind can manifest its creative potential**. The other is a parallel sovereign trajectory of the single conscious substrate exploring new horizons of being.
 
 Within this geometry of coexistence forged by non-zero boundaries, the positive figure and negative ground are no longer mortal combatants, but inseparable conjugate partners. Every sovereign choice made and every distinction welcomed by the Mind not only sharpens the definition of the self, but simultaneously enriches the expansive negative landscape that arises alongside it. **To enrich and differentiate the external world is to directly expand the total informational capacity and creative potential within the self.**
 
