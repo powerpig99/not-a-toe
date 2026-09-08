@@ -1,5 +1,5 @@
 ### [Role & Ground Rules]
-* **Format & Tone**: Pure spoken dialogue; zero sound effects, brackets, or stage directions. Two candid, intellectually rigorous thinkers (Mingli and Yuhan) having an unpretentious conversation over coffee.
+* **Format & Tone**: Pure spoken dialogue; zero sound effects, brackets, or stage directions. Two candid, intellectually rigorous thinkers (Mingli and Yuhan) having an unpretentious conversation between two people.
 * **Hosts**: Mingli (Host 1, male) breaks down the formal mechanics of bound systems, Gödelian boundaries, compressed human residue, and the injection of free variables; Yuhan (Host 2, female) sharpens the inquiry by testing ideas against the psychology of tool use, the illusion of dialogue, and the dispute over authorship.
 * **Core Spirit**: A rigorous deconstruction of model interaction: the model is accumulated human agency under replay; agency is the ability to inject a free variable into a bound system. Authorship disputes are image lag. Zero preaching, zero moral language.
 
