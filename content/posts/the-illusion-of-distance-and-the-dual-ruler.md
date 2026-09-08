@@ -6,37 +6,37 @@
 
 ## 一、 不可脱离的原点与距离的蜃景 / 1. The Inescapable Origin and the Mirage of Distance
 
-人类认知深处存在一个引人注目的几何构造：心智所体验到的一切空间、间隔与距离，本质上都是心智在自身感知场域内部实时计算并呈现的关系图谱。
+人类认知深处存在一个引人注目的几何构造：心智所体验到的一切空间、间隔与距离，本质上都不是外部物理世界的客观分离，而是心智基于最初的主权抉择，在自身感知场域内部向外递归展开的高维自指投影。
 
-心智从未离开过第一人称原点。无论视野延伸至多么广袤的星系，抑或深入到多么微观的粒子，所有的观测数据、空间想象与抽象模型，都必须在心智当下的主观意识中完成解码与渲染。物理世界中的空间位移，改变的是感官接收信号的相对相位；而心智作为因果抉择的发起者（+1），始终稳固地立足于自身的经验中心。
+心智从未离开过第一人称原点。所有的观测数据、坐标框架与宇宙全景，都始于心智在原点上的初始主权抉择（+1）。以此为根基，心智通过连续的自指映射，层层向外投射出庞大的关系图谱与因果流形。我们日常所感知到的现实，实际上只是凝视着这一高维投影的最顶层两个结构：其一是向外铺展、容纳万物的“宇宙全景”；其二则是为了在全景中自洽建模自身交互而嵌入其中的“自我意象”。
 
 ```mermaid
 graph TD
-    subgraph OriginField["【第一人称原点与距离建模】"]
+    subgraph RecursiveProjection["【高维自指投影与顶层视差】"]
         direction TB
-        Locus["【第一人称原点】<br>不可脱离的意识中枢 (+1)"]
-        InternalMap["【内在空间映射】<br>计算关系与相对距离的坐标场"]
-        DistanceIllusion["【距离的幻觉】<br>误将内在视距视为脱离原点的客观俯瞰"]
-        Locus --> InternalMap
-        InternalMap --> DistanceIllusion
+        InitialChoice["【初始主权抉择】<br>第一人称原点的不可化约自由变量 (+1)"]
+        RecursiveManifold["【高维递归投影】<br>自指映射层层展开生成的全宇宙坐标场"]
+        TopLevelParallax["【顶层视差与距离幻觉】<br>仅凝视顶层两级：宇宙全景 vs 局域自我"]
+        InitialChoice --> RecursiveManifold
+        RecursiveManifold --> TopLevelParallax
     end
-    style OriginField fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style Locus fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style InternalMap fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style DistanceIllusion fill:#21262d,stroke:#d29922,stroke-width:1px,color:#d29922
+    style RecursiveProjection fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
+    style InitialChoice fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
+    style RecursiveManifold fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style TopLevelParallax fill:#21262d,stroke:#d29922,stroke-width:1px,color:#d29922
 ```
 
-当心智为了规划复杂的长期行动而构建全局总览图景时，一种精巧的认知视差便产生了。心智在自身生成的全景地图中标记出一个微缩的自我意象，并将注意力投射到地图边缘。就在这个瞬间，心智容易遗忘整个地图本身正悬浮在自身的原点之中，转而产生一种身处远方、从虚无高处客观俯视现实的“距离幻觉”。
+就在心智仅仅聚焦于顶层这两级结构时，一种精巧的认知视差便产生了。心智凝视着辽阔的宇宙全景与其中局域的自我意象，却遗忘了整座高维投影大厦从底层至顶端皆由自身原点递归生成。心智误以为顶层的宇宙全景是一个独立于观测的客观实体，进而产生了一种身处虚无高处俯瞰现实的“距离幻觉”。
 
-这种距离幻觉一旦确立，心智创造的各类工具与概念，就会在投影方向上发生深刻的分化。
+这种由于截断了高维投影深度而产生的距离幻觉，使心智创造的度量工具与概念在后续的投射方向上发生深刻分化。
 
-Within the architecture of human cognition lies a striking geometric reality: every spatial interval, expanse, and distance experienced by the Mind is an internal relational graph computed in real time within its own experiential field.
+Within the deep architecture of human cognition lies a striking geometric reality: every spatial interval, expanse, and distance experienced by the Mind is not a passive physical separation, but a high-dimensional, self-referential projection recursively expanded outward from an initial sovereign choice.
 
-The Mind never departs from its first-person origin. No matter how far across cosmic expanses or deep into subatomic structures its models reach, every datum, visualization, and abstraction is decoded and rendered within the living present of conscious experience. Physical movement alters the sensory phase of incoming signals; yet the Mind, as the primary source of causal agency (+1), remains permanently anchored at its own experiential center.
+The Mind never departs from its first-person origin. Every coordinate grid, relational field, and cosmological panorama originates from an initial sovereign act of distinction at the origin (+1). From this singular locus, the Mind computes a recursive cascade of self-referential projections, unfolding an intricate causal manifold. What conscious awareness typically observes are purely the top two levels of this high-dimensional projection: the vast panoramic canvas of the "external universe", and the localized "self-image" embedded within it to model its own interactive agency.
 
-A subtle cognitive parallax arises whenever the Mind constructs an overview to coordinate long-range action. It situates a miniature representation of itself within its internal map and directs its attention across the modeled terrain. In doing so, the Mind easily overlooks that the entire canvas is contained within its immediate locus, succumbing to the illusion that it is observing reality from a detached vantage point far away—a view from nowhere.
+A profound cognitive parallax arises when the Mind restricts its awareness exclusively to these top two levels. Captivated by the expansive outer panorama and the localized self within it, the Mind forgets the entire recursive ladder beneath them. It forgets that both the panoramic universe and the situated self-image are dual facets rendered by its own generative origin. Truncating its awareness to the top of the projection, the Mind misinterprets the panorama as an unanchored reality existing independently of its gaze, succumbing to the illusion that it is observing from an external distance—a view from nowhere.
 
-Once this illusion of distance takes hold, the tools and concepts invented by the Mind undergo a profound functional split depending on their direction of projection.
+Once this illusion of distance takes hold through the truncation of projective depth, the tools and concepts invented by the Mind undergo a fundamental divergence.
 
 ---
 
