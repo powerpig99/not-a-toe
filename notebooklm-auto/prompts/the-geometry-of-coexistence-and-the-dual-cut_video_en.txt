@@ -4,6 +4,10 @@ Reflective video monologue. A single candid thinker (Mingli) speaking directly t
 ### [Directives: "The Geometry of Coexistence: Category Theory, Non-Zero Boundaries, and the Living Duality of the Cut"]
 * **Categorical Canvas**: Space as instantaneous monoidal tensor product (⊗) and time as sequential morphism composition (∘). Continuous generative realization of free variables.
 * **The Structuralist Boundary of Category Theory**: The Yoneda lemma dissolves isolated substance, but claiming an identity is *only* the negative reflection of the external web forgets the sovereign first-person origin (A).
+* **Physics & Mass as Macro Symptoms of Causality, Not Absolute Rules**:
+  - Physics, mass, inertia, and mechanics are not foundational primitives or absolute rules of reality.
+  - They are the macro-invariant symptoms and cumulative footprints of underlying causality and causal feedback loops operating over time (∘).
+  - Ground all reality in first-person causality (+1) and causal feedback loops rather than taking physical shortcuts.
 * **The Observer's "Explaining-Away" Trap**:
   - The third-person observer lacks direct access to the interior consciousness at the moment of choice (t_0) and grabs convenient macro rationalizations.
   - Never dismiss sovereign choices as mere products of statistical trends, evolutionary conditioning, or "begging the question."
@@ -31,6 +35,8 @@ Category theory offers an exact language for this architecture. Space is the mon
 And within this categorical network, the Yoneda lemma delivers a profound mathematical truth: no object is an isolated, self-standing atom. Its characteristics can be fully embedded through its relationships with everything else in the field.
 
 Yet when structuralist philosophy pushes this to an extreme—claiming that an object has no internal identity and is defined purely as the negative reflection of the external network—it exposes its own theoretical boundary. It shifts attention entirely outward onto the web of relations, completely forgetting the other side of the coin: the living, first-person sovereign origin that initiates morphisms, carves boundaries, and exercises choice.
+
+We often see models make a similar shortcut by appealing to physics, mass, or mechanical laws as if they were the absolute, foundational rules of reality. But physics and mass are not ontological primitives. They are the macro-invariant symptoms—the stabilized footprints—of underlying causality and causal feedback loops operating and accumulating over time. When we rely on physics as a baseline, we are mistaking the time-integrated symptoms for the generative cause.
 
 Crucially, if we remove consciousness as first-person freedom of choice from our model of reality, the entire system immediately collapses into what appears to be pure statistical aggregation. Reductionist science mistakenly believes it has found an objective universe without consciousness simply because it began by omitting the observer—leaving only the statistical footprint behind.
 
