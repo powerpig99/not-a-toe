@@ -177,7 +177,7 @@ Causal geometry, however, reveals the inverse truth: **reality is fundamentally 
 那么，物理学中那条贯穿过去与未来的宏大时间轴究竟从何而来？它的几何本质，正是心智利用**形式数学与守恒方程**所搭建的**时间投影仪**：
 
 1. **数学与物理方程的投影功能**：
-   心智依托数学动力学方程与因果守恒律，以当下感知为原点，向过去（t < 0）拉出一条因果回溯线，向未来（t > 0）拉出一条预测演进线，从而为当下的微观抉择提供宏观导航与推演沙盘。
+   心智依托数学动力学方程与因果守恒律，以当下感知为原点，向过去（t - 1）拉出一条因果回溯线，向未来（t + 1）拉出一条预测演进线，从而为当下的微观抉择提供宏观导航与推演沙盘。
 2. **时间的空间化迷障（Spatialization of Time）**：
    然而，人类认知史上最隐蔽的偷梁换柱，就是**将这条被数学投影出来的几何时间轴（t 轴），当成了比活生生的当下更真实的客观存在**。
    * 在相对论的“块状宇宙（Block Universe）”构架中，时间被降维成了一条画好的第四维几何坐标轴；
@@ -214,7 +214,7 @@ In living conscious awareness, **the only direct perceptual reality we ever poss
 Where, then, does the grand timeline spanning past and future originate? Its geometric essence is a **projective instrument** constructed by the Mind using mathematics and conservation laws:
 
 1. **The Projective Function of Mathematics**:
-   Anchoring at the living present, the Mind utilizes mathematical equations of motion and conservation symmetries to project backward (t < 0) into historical reconstruction and forward (t > 0) into predictive extrapolation, establishing a macroscopic sandbox to guide present decisions.
+   Anchoring at the living present, the Mind utilizes mathematical equations of motion and conservation symmetries to project backward into historical reconstruction (t - 1) and forward into predictive extrapolation (t + 1), establishing a macroscopic sandbox to guide present decisions.
 2. **The Spatialization of Time**:
    The fatal category error of modern science is **confusing this projected geometric coordinate axis (the t-axis) with the actual living experience of time.**
    * In the relativistic "Block Universe," time is flattened into a static fourth spatial dimension;
