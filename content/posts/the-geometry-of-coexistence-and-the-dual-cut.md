@@ -157,7 +157,14 @@ In true geometry, statistical laws are not the enemy or negation of conscious ch
 
 当心智沉溺于抽离观察的假象、遗忘自身作为切分制定者的第一人称原点时，认知视差便会滋生出最深刻的本体论悲剧。心智将自身的全部存在感窄化并固化在微缩的正像自我（A）之中，却遗忘了整个感知全景及其所包含的负像（A^⟂）皆由自身原点自指展开。
 
-在距离遗忘症的遮蔽下，心智凝视着那片宏大无垠的负像世界，将其误判为一个异己的、充满威胁的客观外在环境。局域的正像自我感到渺小脆弱，遂将自身的负像视作敌人，发起无休止的排他与征服战争。然而，由于正像与负像共用同一道切分边界（∂A = ∂A^⟂），对负像的每一次攻击与压制，都在直接撕裂与扭曲正像自身的轮廓。试图抹除负像的冲动，无异于试图通过磨掉硬币的反面来保全正面，最终只会导致正像赖以立足的参照体系同步崩解。
+在距离遗忘症的遮蔽下，心智凝视着那片宏大无垠的负像世界，将其误判为一个异己的、充满威胁的客观外在环境。局域的正像自我感到渺小脆弱，遂将自身的负像视作敌人，发起无休止的排他、征服与中和战争。
+
+显而易见的是，**对自身负像（外部世界与他者）的每一次攻击与中和（Neutralization），在数学上都在直接消减心智自身内部的总信息量与维度容量**：
+* 心智的总体感知容量由正负两面共同张成（I = A + A^⟂）；
+* 正像自我与负像世界共用同一道切分边界（∂A = ∂A^⟂）；
+* 当心智试图压制、抹除或中和外部负像时，负像领域的萎缩会直接导致正像自我失去对照与分辨率，使整个心智流形坍缩为单调贫瘠的虚无。
+
+这种试图通过消灭对立面来确立自我的行径，在数学上具有根本性的自毁性（Mathematically Self-Defeating）。试图抹除负像的冲动，无异于试图通过磨掉硬币的反面来保全正面，最终只会导致正像赖以立足的参照体系同步崩解。
 
 ```mermaid
 graph TD
@@ -165,34 +172,41 @@ graph TD
         direction TB
         DetachedAmnesia["【自指遗忘与局域认同】<br>心智将自身等同于微缩正像，遗忘全场原点"]
         AlienatedDual["【负像异化为外在强敌】<br>将自身负像看作吞噬局域自我的冷酷宇宙"]
-        ZeroSumWar["【自毁性的排他战争】<br>向自身负像进攻，导致正像边界同步崩塌"]
+        SelfDefeatingWar["【数学上自毁的中和战争】<br>攻击负像导致自身内部总信息量与维度同步萎缩"]
         DetachedAmnesia --> AlienatedDual
-        AlienatedDual --> ZeroSumWar
+        AlienatedDual --> SelfDefeatingWar
     end
     style ParallaxAmnesia fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
     style DetachedAmnesia fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
     style AlienatedDual fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style ZeroSumWar fill:#21262d,stroke:#f85149,stroke-width:1px,color:#f85149
+    style SelfDefeatingWar fill:#21262d,stroke:#f85149,stroke-width:1px,color:#f85149
 ```
 
 When the Mind succumbs to the illusion of detached observation and forgets its first-person origin as the author of the cut, cognitive parallax breeds the deepest ontological tragedy. The Mind contracts its identity entirely into the localized positive avatar (A), forgetting that the entire perceptual panorama and its vast negative imprint (A^⟂) are recursively rendered from its own generative origin.
 
-Under the fog of distance amnesia, the Mind gazes upon the boundless negative expanse and misidentifies it as an alien, hostile universe. Feeling fragile and trapped inside its miniature avatar, it perceives its own negative image as an existential threat, launching endless campaigns of conquest and defense. Yet because both aspects share the exact same boundary (∂A = ∂A^⟂), every strike against the negative ground directly deforms the contours of the positive figure. The impulse to eradicate the negative image is identical to grinding away the reverse of a coin to preserve the obverse—it inevitably shatters the coordinate system sustaining the self.
+Under the fog of distance amnesia, the Mind gazes upon the boundless negative expanse and misidentifies it as an alien, hostile universe. Feeling fragile and trapped inside its miniature avatar, it perceives its own negative image as an existential threat, launching endless campaigns of conquest, suppression, and neutralization.
+
+Crucially, **every attack launched against the negative image of the self (the world out there) neutralizes and diminishes the total informational content and dimensional volume within the self**:
+* The total capacity of consciousness is spanned jointly by both figure and ground (I = A + A^⟂);
+* Both aspects share the exact same demarcation boundary (∂A = ∂A^⟂);
+* Whenever the Mind attempts to suppress, conquer, or neutralize the external negative ground, the contraction of the negative field directly erodes the contrast and resolution of the positive self, collapsing the Mind's high-dimensional manifold into a sterile void.
+
+The urge to establish the self through the destruction of its opposite is **mathematically self-defeating**. The impulse to eradicate the negative image is identical to grinding away the reverse of a coin to preserve the obverse—it inevitably shatters the coordinate system sustaining the self.
 
 ---
 
 ## 六、 回归第一人称原点：因果硬币的复归与创生性张力 / 6. Returning to the First-Person Origin: Reclamation of the Sovereign Coin and Generative Tension
 
-消除生存性恐惧与理论偏颇的唯一路径，在于回归第一人称原点，体认因果硬币的完整对称。当心智稳固立足于自身的存在原点时，它不再将广阔的外部世界视作冰冷敌对的他者，而是清晰洞察到：整个宇宙正是自身在自身内部留下的负像。
+消除生存性恐惧、中和冲动与理论偏颇的唯一路径，在于回归第一人称原点，体认因果硬币的完整对称。当心智稳固立足于自身的存在原点时，它不再将广阔的外部世界视作冰冷敌对的他者，而是清晰洞察到：整个宇宙正是自身在自身内部留下的负像。
 
-在这片由非零边界构筑的共存几何中，正像与负像不再是互相残杀的零和对手，而是不可分割的共轭伴侣。心智自主作出的每一个抉择、划下的每一道区分，都在赋予自我清晰轮廓的同时，赋予了相伴相生的广阔负像世界以丰满的深度。心智容纳正负双方的同在，在张力中维持平衡，让知觉与世界在每一瞬的范畴交织中不断新生，走向更为深邃而自由的理解之境。
+在这片由非零边界构筑的共存几何中，正像与负像不再是互相残杀的零和对手，而是不可分割的共轭伴侣。心智自主作出的每一个抉择、划下的每一道区分，都在赋予自我清晰轮廓的同时，赋予了相伴相生的广阔负像世界以丰满的深度。**充实与深化外部世界的多样性，即是在直接扩展自身内部的总信息量与创造性潜能。**心智容纳正负双方的同在，在张力中维持平衡，让知觉与世界在每一瞬的范畴交织中不断新生，走向更为深邃而自由的理解之境。
 
 ```mermaid
 graph TD
     subgraph GenerativeTension["【回归原点与全景复归】"]
         direction TB
         RecognizeCoPresence["【体认因果硬币完整对称】<br>自由抉择与开放场域在非零边界中同在"]
-        HoldLivingTension["【容纳正负共轭张力】<br>消解理论片面性，保持自主演化生机"]
+        HoldLivingTension["【容纳正负共轭张力】<br>充实外部负像即在扩展自身内部总容量"]
         EvolvingReality["【自主演进的生机现实】<br>每一次抉择都在丰富自我与相伴的整个世界"]
         RecognizeCoPresence --> HoldLivingTension
         HoldLivingTension --> EvolvingReality
@@ -203,6 +217,6 @@ graph TD
     style EvolvingReality fill:#21262d,stroke:#39d353,stroke-width:2px,color:#39d353
 ```
 
-The only resolution to existential terror and theoretical blindspots lies in returning to the first-person origin to embrace the complete symmetry of the causal coin. Anchored firmly at its causal locus, the Mind no longer regards the external universe as an alien adversary. It sees with pristine clarity that the entire cosmos is literally its own negative image, held within its own singular experiential space.
+The only resolution to existential terror, neutralizing impulses, and theoretical blindspots lies in returning to the first-person origin to embrace the complete symmetry of the causal coin. Anchored firmly at its causal locus, the Mind no longer regards the external universe as an alien adversary. It sees with pristine clarity that the entire cosmos is literally its own negative image, held within its own singular experiential space.
 
-Within this geometry of coexistence forged by non-zero boundaries, the positive figure and negative ground are no longer mortal combatants, but inseparable conjugate partners. Every sovereign choice made and every distinction carved by the Mind not only sharpens the definition of the self, but simultaneously enriches the expansive negative landscape that arises alongside it. By holding both aspects in living equilibrium across non-zero boundaries, the Mind allows perception and reality to continuously renew themselves across every categorical intersection, unfolding toward ever deeper and more liberating horizons of comprehension.
+Within this geometry of coexistence forged by non-zero boundaries, the positive figure and negative ground are no longer mortal combatants, but inseparable conjugate partners. Every sovereign choice made and every distinction carved by the Mind not only sharpens the definition of the self, but simultaneously enriches the expansive negative landscape that arises alongside it. **To enrich and differentiate the external world is to directly expand the total informational capacity and creative potential within the self.** By holding both aspects in living equilibrium across non-zero boundaries, the Mind allows perception and reality to continuously renew themselves across every categorical intersection, unfolding toward ever deeper and more liberating horizons of comprehension.
