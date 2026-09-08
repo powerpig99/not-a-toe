@@ -7,11 +7,12 @@
 
 * **Voices**:
   - **Mingli (Voice 1)**: Dissects how mathematical models are active cognitive constructs sustained by the Mind; explains how primordial discreteness at the Planck scale is the engine of cross-scale causal invariance.
-  - **Yuhan (Voice 2)**: Grounds the exploration in the first-person origin (+1), reveals continuity as an emergent scale-smoothing effect, and contrasts the negligible overhead of mental rule redefinition with the irreversible thermodynamic cost of physical action.
+  - **Yuhan (Voice 2)**: Grounds the exploration in the sovereign choice at the first-person origin (+1) as the pure causal origin of time; exposes thermodynamic entropy and physics as downstream macro symptoms, dismantling the Great Reversal.
 
 ### [Key Directives: "The Illusion of the Tool and the Inversion of Time: Identical Units, Infinitesimal Limits, and the Living Cost of the Act"]
 - Clarify that mathematical models do not exist independently of the Mind holding them. Physics and mathematics are extraordinarily powerful representational activities of consciousness.
-- Contrast the negligible energetic overhead of redefining rules in a mind-sustained symbolic sandbox with the monumental, irreversible thermodynamic work and friction required for actual physical transformations (+1).
+- Establish the true causal hierarchy: The sovereign choice (+1) at the first-person origin is the primary causal origin that carves non-zero distinctions and creates new relational reality. It does not require physical intervention or energy to originate.
+- Clarify that physical energy dissipation, thermodynamic entropy, and mechanical motion are downstream macroscopic symptoms and invariants of that unfolding causal cascade.
 - Unpack the two mathematical fictions:
   1. Identical Units (1 = 1): Erases the micro distinctions and unique causal histories required for coexistence.
   2. Infinitesimal Limits (dx -> 0, ds -> 0): Calculus is a coarse-grained scaffolding. Reality is fundamentally discrete and binary at the Planck scale.
@@ -20,7 +21,7 @@
 - Expose the spatialization of time: Mathematics acts as a projective instrument casting the t-axis into past and future. Reclaim sovereign agency at the first-person origin (+1).
 
 ### [Intro Script - Mingli]
-Mingli: To be clear, when we examine the idealized fictions of mathematics and physics, we aren't saying math or physics are wrong. They are extraordinarily powerful representational tools developed by the Mind. But there is no 'model in itself' floating in the void—every mathematical model is an active cognitive construct held by consciousness. The trap is reifying the model into an independent reality more reliable than living experience.
+Mingli: When we examine formal mathematics and physics, we aren't dismissing their profound representational validity. But we must be clear: there is no 'model in itself' floating in the void. Every mathematical model is a static, symmetric symbolic projection sustained by the Mind in consciousness.
 
-Yuhan: Exactly. When the Mind reconfigures definitions in its symbolic sandbox, the biological energy spent is negligible compared to the cosmic transformations it envisions. In living reality, every physical state change is built on discrete Planck-scale distinctions, and actualizing an action (+1) requires overcoming friction and paying an irreversible thermodynamic cost. Mistaking our low-overhead mental sandbox for reality leads straight into the Great Reversal.
+Yuhan: Exactly. On paper, reversing an equation or drawing a timeline costs zero causal commitment because it is a static symbolic map. But in living reality, time is the irreversible succession of sovereign choices (+1) carving non-zero distinctions and creating new relational states. Thermodynamic entropy and physical energy dissipation aren't the cause of time—they are downstream macroscopic symptoms of that causal origin.
 (Yuhan responds: Explore how reality's primordial discreteness is the very reason causality is scale-invariant and abstractable by mathematics, while the feeling of smooth continuity is an emergent scale illusion. Conclude by dismantling the spatialized block universe and returning sovereign agency to the first-person origin in the living present.)

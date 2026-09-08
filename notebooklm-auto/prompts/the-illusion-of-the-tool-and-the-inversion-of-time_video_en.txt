@@ -3,30 +3,29 @@ Reflective video monologue. A single AI-generated analytical voice (Mingli) deli
 
 ### [Directives: "The Illusion of the Tool and the Inversion of Time: Identical Units, Infinitesimal Limits, and the Living Cost of the Act"]
 - Clarify that mathematical models do not exist independently of the Mind holding them. Physics and mathematics are extraordinarily powerful representational activities of consciousness.
-- Contrast the negligible energetic overhead of redefining rules in a mind-sustained symbolic sandbox with the monumental, irreversible thermodynamic work and friction required for actual physical transformations (+1).
+- Establish the true causal hierarchy: The sovereign choice (+1) at the first-person origin is the primary causal origin that carves non-zero distinctions and creates new relational reality. It does not require physical intervention or energy to originate.
+- Clarify that physical energy dissipation, thermodynamic entropy, and mechanical motion are downstream macroscopic symptoms and invariants of that unfolding causal cascade.
 - Unpack the two mathematical fictions:
   1. Identical Units (1 = 1): Erases the micro distinctions and unique causal histories required for coexistence.
   2. Infinitesimal Limits (dx -> 0, ds -> 0): Calculus is a coarse-grained scaffolding. Reality is fundamentally discrete and binary at the Planck scale.
 - Explain the origin of continuity: The feeling of a smooth continuum is an emergent illusion born from the massive 35-order-of-magnitude scale gap between Planck distinctions and human perception.
 - Explain cross-scale invariance: Primordial discreteness is the exact reason why causality is invariant across scale and can be abstracted by mathematics.
 - Expose the spatialization of time: Mathematics acts as a projective instrument casting the t-axis into past and future. Reclaim sovereign agency at the first-person origin (+1).
-* **Visual Motifs**: - Split screen: A shimmering, mind-sustained mathematical manifold curving effortlessly in a mental visualization versus a discrete, binary lattice of Planck-scale distinctions pulsing with physical step transitions.
+* **Visual Motifs**: - Split screen: A static, perfectly symmetric mathematical coordinate grid suspended in consciousness versus the living flash of a sovereign choice (+1) carving a non-zero cut that cascades irreversible causal waves across reality.
+- Causal hierarchy diagram: The sovereign cut at the top creating relational asymmetry, with thermodynamic dissipation and physical motion radiating outward as downstream macro ripples.
 - Scale zoom: Rapid pull-back across 35 orders of magnitude from discrete quantum cuts (delta s > 0) smoothing out into the macroscopic illusion of continuous motion.
-- Mathematical projection: The Mind at the living present casting coordinate rays (t) into past and future via mathematical equations, contrasted with the irreversible thermodynamic burn of an actual physical step (+1).
 
 ### [Monologue Script - Mingli]
-When we examine the foundations of physics and mathematics, we are not dismissing their profound validity. Mathematics and physics are among the most extraordinary representational activities the Mind has ever developed for discovering nature's underlying causal patterns. 
+When we examine the foundations of physics and mathematics, we are not dismissing their profound representational validity. Mathematics and physics are among the most extraordinary tools the Mind has ever developed for discovering nature's underlying causal patterns. 
 
 Yet there is no such thing as a 'model in itself' floating independently in the void. A mathematical model is always an active cognitive construct sustained by consciousness at the first-person origin. 
 
-The fatal error is ontological inversion: reifying our own mental construct into an independent entity, and treating it as more reliable and more real than reality itself.
+The fatal error is ontological inversion: confusing the model's static symmetry with the living reality of choice, and treating downstream physical symptoms as if they were the primary cause of reality.
 
-When the Mind constructs formal systems in consciousness, the biological energy spent manipulating definitions is negligible compared to the cosmic transformations it envisions. We can curve Riemannian manifolds, fold dimensions, and trace smooth trajectories to infinity with effortless ease. 
+Within formal mathematics, equations are symmetric and reversible. We can curve Riemannian manifolds, fold dimensions, and draw a static timeline (t) across infinite coordinates. 
 
-Yet reality is fundamentally discrete. At the Planck scale, the universe is a web of discrete binary distinctions and state transitions. There are no actual zeros or true continuums: every distinction requires a non-zero boundary (delta s > 0). 
+Yet actual living time is not a pre-existing geometric track. Real time is the irreversible progression of sovereign choices at the first-person origin (+1), carving non-zero distinctions and creating new relational realities. The physical energy dissipation, friction, and thermodynamic entropy we measure in physics are not the cause of time—they are downstream macroscopic symptoms left behind as causal decisions unfold across physical substrates.
 
-Why then do we feel a smooth, continuous flow of time and space? Because human perception is separated from the Planck scale by over 35 orders of magnitude. When trillions of discrete steps are aggregated across this immense distance, their sharp edges blur, creating the perceptual illusion of a seamless continuum. Calculus (dx -> 0) is our brilliant coarse-grained tool for navigating that macro scale.
+Why then does mathematics abstract reality across scales so effectively? Because reality at the Planck scale is fundamentally discrete (delta s > 0). These discrete binary cuts assemble into scale-invariant causal topologies that remain isomorphic across quantum, mechanical, and cosmic systems. The feeling of smooth continuity is simply an illusion created by the vast 35-order-of-magnitude scale gap between Planck cuts and human perception.
 
-Here lies the deepest secret: reality's primordial discreteness is the exact reason why causality is invariant across scales. Because reality is built on discrete cuts, causal feedback loops form scale-free, self-similar topological patterns. A lever balance, planetary orbits, and quantum states share identical algebraic ratios because their discrete causal topologies are isomorphic. Mathematics is the Mind's scale-free causal telescope.
-
-We use mathematics as a projective instrument to draw a static timeline (t), helping us navigate the present. But we must never confuse the projected coordinate with living time: the mental scaffolding can bend with negligible cost across infinite dimensions, but every true step of reality must be paid for by the sovereign Mind at the first-person origin (+1) through real, irreversible action.
+We do not need to discard mathematics or physics—they are our greatest cognitive compasses. But we must never forget: the mathematical scaffolding is a static projection, whereas every genuine step of reality is generated by the sovereign Mind at the first-person origin (+1) through irreversible distinction-making in the living present.
