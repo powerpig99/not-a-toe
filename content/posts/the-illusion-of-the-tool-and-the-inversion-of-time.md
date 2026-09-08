@@ -6,10 +6,10 @@
 
 ## 一、 最强工具的双刃剑：形式表征的威力与实在倒置的陷阱 / 1. The Double-Edged Nature of Powerful Tools: The Power of Representation and the Trap of Ontological Inversion
 
-必须首先厘清一个根本前提：**我们指出数学与物理模型的虚构性，绝非否定物理学、质量或数学表征的巨大价值。**
+必须首先厘清一个根本前提：**我们指出数学与物理模型的虚构性，绝非否定数理物理或形式数学表征的巨大价值。**
 
 相反，经典力学、相对论与微积分是人类文明有史以来最强大的认知工具：
-* 质量与物理定律极其敏锐地刻画了物质世界中宏观稳定的因果模式；
+* 数理定律极其敏锐地刻画了物质世界中宏观稳定的因果模式；
 * 形式数学赋予了心智一种登峰造极的抽象能力，让我们能够以前所未有的精确度发现自然界深邃的底层结构。
 
 **真正的危机不在于心智运用工具，而在于对认知构架的“本体论倒置”：心智忘记了模型是自己在意识中维系的表征活动，反将其客体化为比活生生的现实更为根本、更为可靠的独立实在。**
@@ -49,7 +49,7 @@ graph TD
 A fundamental clarification must be established at the outset: **Critiquing the idealized assumptions of physics and mathematics is in no way a dismissal of their extraordinary validity.**
 
 Classical mechanics, general relativity, and calculus remain the most formidable cognitive instruments in human history:
-* Concepts like mass and inertia capture the stable macro-invariants of causality with unmatched fidelity;
+* Mathematical physics and conservation laws capture the stable macro-invariants of causality with unmatched fidelity;
 * Formal mathematics grants the Mind the power to discern the deep, underlying causal symmetries of nature across vast scales.
 
 **The hazard lies not in employing cognitive tools, but in ontological inversion: the Mind forgets that the model is its own active representational construct, reifying it into something supposedly more fundamental, reliable, and real than the friction-bearing living reality from which it arose.**
@@ -78,7 +78,7 @@ In physical reality and first-person experience, no transformation is free:
 2. **两物并存必然伴随差异**：
    只要两个实体同时存在于现实中，它们就必然占据不同的时空位置、拥有独特的因果演化历史，并处于不同的全域关系张力中。既然存在差异，它们就**不可能真正等同**。
 3. **符号抽象对现实摩擦的抹杀**：
-   数学将形态各异、充满独特张力的人、物与事件，一概抽象为无差别、可互相置换的符号“1”。这种均质化操作极大便利了统计计算与代数运算，但它在第一瞬间就**通过抹杀微观区分（Distinction），洗去了事物原本携带的质量、摩擦与因果独特性**。
+   数学将形态各异、充满独特张力的人、物与事件，一概抽象为无差别、可互相置换的符号“1”。这种均质化操作极大便利了统计计算与代数运算，但它在第一瞬间就**通过抹杀微观区分（Distinction），洗去了事物原本携带的实体厚度、物理摩擦与因果独特性**。
 
 ```mermaid
 graph TD
@@ -87,7 +87,7 @@ graph TD
         RealEntities["【现实中并存的多元实体】<br>各自占据不同时空坐标，拥有独特因果历史"]
         IdentityAxiom["【数学同一性虚构: 1 = 1】<br>人为抹去所有内在差异与时空定位"]
         FrictionlessAddition["【零摩擦代数累加: 1 + 1 = 2】<br>在纸面上实现无损替换与极低能耗聚合"]
-        LivingDiversityEradicated["【现实质量与代价的被隐匿】<br>均质化符号掩盖了个体独特的因果张力"]
+        LivingDiversityEradicated["【现实实体厚度与代价的被隐匿】<br>均质化符号掩盖了个体独特的因果张力"]
         RealEntities --> IdentityAxiom
         IdentityAxiom --> FrictionlessAddition
         FrictionlessAddition --> LivingDiversityEradicated
@@ -171,16 +171,16 @@ Modern physics and causal geometry, however, reveal the inverse truth: **reality
 
 ---
 
-## 四、 质量作为投影仪：被空间化的时间轴与对当下的逃避 / 4. Mass as a Projective Instrument: Spatialized Time and the Evasion of the Present
+## 四、 数学作为投影仪：被空间化的时间轴与对当下的逃避 / 4. Mathematics as a Projective Instrument: Spatialized Time and the Evasion of the Present
 
 在活生生的第一人称意识中，**我们所拥有的唯一直觉实在就是“当下”**。
 
-那么，物理学中那条贯穿过去与未来的宏大时间轴究竟从何而来？它的几何本质，正是心智利用“质量（Mass）”与守恒律所搭建的**时间投影仪**：
+那么，物理学中那条贯穿过去与未来的宏大时间轴究竟从何而来？它的几何本质，正是心智利用**形式数学与守恒方程**所搭建的**时间投影仪**：
 
-1. **质量的投影功能**：
-   质量代表着物理状态在时间序贯中的惯性与相对稳定性。心智正是依托质量及其动力学方程，以当下为锚点，向过去（t < 0）拉出一条因果回溯线，向未来（t > 0）拉出一条预测演进线，从而为当下的微观抉择提供宏观参照。
+1. **数学与物理方程的投影功能**：
+   心智依托数学动力学方程与因果守恒律，以当下感知为锚点，向过去（t < 0）拉出一条因果回溯线，向未来（t > 0）拉出一条预测演进线，从而为当下的微观抉择提供宏观导航与推演沙盘。
 2. **时间的空间化迷障（Spatialization of Time）**：
-   然而，科学史上最隐蔽的偷梁换柱，就是**将这条被投影出来的几何时间轴（t 轴），当成了比当下更真实的客观存在**。
+   然而，人类认知史上最隐蔽的偷梁换柱，就是**将这条被数学投影出来的几何时间轴（t 轴），当成了比活生生的当下更真实的客观存在**。
    * 在相对论的“块状宇宙（Block Universe）”构架中，时间被降维成了一条画好的第四维几何坐标轴；
    * 在方程中，你可以沿着 t 轴任意向前求导或向后积分，甚至宣称“过去、现在与未来同时客观存在”。
 3. **真实时间的不可逆性**：
@@ -188,19 +188,19 @@ Modern physics and causal geometry, however, reveal the inverse truth: **reality
 
 ```mermaid
 graph TD
-    subgraph SpatializedTimeTrap["【质量投影仪与时间空间化的迷障】"]
+    subgraph SpatializedTimeTrap["【数学投影仪与时间空间化的迷障】"]
         direction TB
         FeltPresentNow["【当下的第一人称活态感知】<br>唯一具备本体实在性的经验锚点 (+1)"]
-        MassAsProjector["【质量与惯性作为投影仪】<br>依托局部守恒性向过去/未来拉出坐标轴 t"]
+        MathAsProjector["【数学与物理方程作为投影仪】<br>依托动力学与守恒律向过去/未来拉出坐标轴 t"]
         SpatializedDimension["【被空间化的时间维度 (Block Universe)】<br>将不可逆演化冻结为可随意正反穿梭的几何线"]
         TimeInversionIllusion["【科学的最大倒置】<br>误把静态时间坐标 t 当成比鲜活当下更真实的客观存在"]
-        FeltPresentNow --> MassAsProjector
-        MassAsProjector --> SpatializedDimension
+        FeltPresentNow --> MathAsProjector
+        MathAsProjector --> SpatializedDimension
         SpatializedDimension --> TimeInversionIllusion
     end
     style SpatializedTimeTrap fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
     style FeltPresentNow fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style MassAsProjector fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style MathAsProjector fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style SpatializedDimension fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
     style TimeInversionIllusion fill:#161b22,stroke:#f85149,stroke-width:2px,color:#f85149
 ```
@@ -209,10 +209,10 @@ graph TD
 
 In living conscious awareness, **the only direct perceptual reality we ever possess is the present moment.**
 
-Where, then, does the grand timeline spanning past and future originate? Its geometric essence is a **projective instrument** constructed by the Mind using mass and conservation laws:
+Where, then, does the grand timeline spanning past and future originate? Its geometric essence is a **projective instrument** constructed by the Mind using mathematics and conservation laws:
 
-1. **Mass as a Projective Instrument**:
-   Mass represents the inertial stability of physical states across sequential transitions. By anchoring to mass invariants and equations of motion, the Mind projects backward (t < 0) into history and forward (t > 0) into prediction, providing a macroscopic map to navigate the present choice.
+1. **The Projective Function of Mathematics**:
+   Anchoring at the living present, the Mind utilizes mathematical equations of motion and conservation symmetries to project backward (t < 0) into historical reconstruction and forward (t > 0) into predictive extrapolation, establishing a macroscopic sandbox to guide present decisions.
 2. **The Spatialization of Time**:
    The fatal category error of modern science is **confusing this projected geometric coordinate axis (the t-axis) with the actual living experience of time.**
    * In the relativistic "Block Universe," time is flattened into a static fourth spatial dimension;
@@ -308,7 +308,7 @@ graph TD
 
 当我们看清了**等同单元（1 = 1）**与**微元归零（dx → 0）**这两大数学虚构，并理解了**离散本底铸就跨尺度不变性**的真实机制，我们便能心怀敬畏地运用形式工具，而不被工具所奴役。
 
-物理学与质量概念是心智无与伦比的表征利器，数学是跨尺度的因果罗盘；但我们必须时刻清醒：**符号沙盘在意识中可以跨越千山万水、以极低代价自由弯曲，而生命的每一次真实前行，都必须由第一人称的主权心智在当下（+1）支付其不可转让的因果代价。**
+物理学与形式数学是心智无与伦比的表征利器，是跨尺度的因果罗盘；但我们必须时刻清醒：**符号沙盘在意识中可以跨越千山万水、以极低代价自由弯曲，而生命的每一次真实前行，都必须由第一人称的主权心智在当下（+1）支付其不可转让的因果代价。**
 
 ---
 
@@ -322,4 +322,4 @@ The greatest cognitive reversal inflicted by reductionist science upon civilizat
 
 When we see through the two great mathematical fictions—**identical units (1 = 1)** and **infinitesimal limits (dx → 0)**—and recognize that **primordial discreteness is the engine of cross-scale invariance**, we can wield formal tools with mastery without becoming trapped in their illusions.
 
-Physics and mass are indispensable representational instruments of the Mind, and mathematics is our greatest cross-scale causal compass. But we must remain anchored in truth: **the mental scaffolding can expand and curve with negligible energetic cost across infinite dimensions in consciousness, but every genuine step of life must be paid for by the sovereign Mind at the first-person origin (+1) through real, irreversible causal action.**
+Physics and mathematics are indispensable representational instruments of the Mind, serving as our greatest cross-scale causal compass. But we must remain anchored in truth: **the mental scaffolding can expand and curve with negligible energetic cost across infinite dimensions in consciousness, but every genuine step of life must be paid for by the sovereign Mind at the first-person origin (+1) through real, irreversible causal action.**
