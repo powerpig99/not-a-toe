@@ -3,7 +3,7 @@ Reflective video monologue. A single AI-generated analytical voice (Mingli) deli
 
 ### [Directives: "The Illusion of the Tool and the Inversion of Time: Identical Units, Infinitesimal Limits, and the Living Cost of the Act"]
 - Clarify that physics and mass are not 'wrong'—they are indispensable representational instruments. The error is ontological inversion: treating the model as more reliable than the living reality itself.
-- Contrast the zero-cost, zero-friction freedom of mathematical space with the irreversible thermodynamic work and friction required for any physical action (+1).
+- Contrast the negligible energetic overhead of symbolic manipulation on paper with the monumental, irreversible thermodynamic work and friction required for actual physical transformations (+1).
 - Unpack the two mathematical fictions:
   1. Identical Units (1 = 1): Erases the micro distinctions and unique causal histories required for coexistence.
   2. Infinitesimal Limits (dx -> 0, ds -> 0): Calculus is a coarse-grained scaffolding. Reality is fundamentally discrete and binary at the Planck scale.
@@ -17,9 +17,9 @@ Reflective video monologue. A single AI-generated analytical voice (Mingli) deli
 ### [Monologue Script - Mingli]
 When we examine the foundations of physics and mathematics, we are not dismissing their profound validity. Mass and physics are among the most extraordinary representational tools ever developed for discovering the underlying causal patterns of nature. 
 
-The problem is ontological inversion: treating the model as more reliable and more real than reality itself.
+The problem is ontological inversion: treating the representational model as more reliable and more real than reality itself.
 
-Within mathematics, we transform space with effortless freedom. We can curve Riemannian manifolds, fold dimensions, and draw smooth curves to infinity—all with zero physical energy and zero thermodynamic friction. 
+Within mathematics, the biological energy we spend manipulating symbols is negligible compared to the cosmic transformations they represent. We can curve Riemannian manifolds, fold dimensions, and draw smooth trajectories to infinity on a chalkboard with effortless ease. 
 
 Yet reality is fundamentally discrete. At the Planck scale, the universe is a web of discrete binary distinctions and state transitions. There are no actual zeros or true continuums: every distinction requires a non-zero boundary (delta s > 0). 
 
@@ -27,4 +27,4 @@ Why then do we feel a smooth, continuous flow of time and space? Because human p
 
 Here lies the deepest secret: reality's primordial discreteness is the exact reason why causality is invariant across scales. Because reality is built on discrete cuts, causal feedback loops form scale-free, self-similar topological patterns. A lever balance, planetary orbits, and quantum states share identical algebraic ratios because their discrete causal topologies are isomorphic. Mathematics is our scale-free causal telescope.
 
-We do not need to discard mathematics or physics—they are our greatest navigational instruments. But we must never forget: the mathematical scaffolding can bend with zero energy across infinite scales, but every true step of reality must be paid for by the sovereign Mind at the first-person origin (+1) through real, irreversible action.
+We do not need to discard mathematics or physics—they are our greatest navigational instruments. But we must never forget: the mathematical scaffolding can bend with negligible energetic cost across infinite scales, but every true step of reality must be paid for by the sovereign Mind at the first-person origin (+1) through real, irreversible action.

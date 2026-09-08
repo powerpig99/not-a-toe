@@ -7,11 +7,11 @@
 
 * **Voices**:
   - **Mingli (Voice 1)**: Dissects the representational validity of physics and mass while warning against ontological inversion; explains how primordial discreteness at the Planck scale is the exact engine of cross-scale causal invariance.
-  - **Yuhan (Voice 2)**: Grounds the exploration in the first-person origin (+1), reveals continuity as an emergent scale-smoothing effect, and reclaims sovereign physical action against the zero-cost block universe trap.
+  - **Yuhan (Voice 2)**: Grounds the exploration in the first-person origin (+1), reveals continuity as an emergent scale-smoothing effect, and contrasts the negligible overhead of symbolic modeling with the irreversible thermodynamic cost of physical action.
 
 ### [Key Directives: "The Illusion of the Tool and the Inversion of Time: Identical Units, Infinitesimal Limits, and the Living Cost of the Act"]
 - Clarify that physics and mass are not 'wrong'—they are indispensable representational instruments. The error is ontological inversion: treating the model as more reliable than the living reality itself.
-- Contrast the zero-cost, zero-friction freedom of mathematical space with the irreversible thermodynamic work and friction required for any physical action (+1).
+- Contrast the negligible energetic overhead of symbolic manipulation on paper with the monumental, irreversible thermodynamic work and friction required for actual physical transformations (+1).
 - Unpack the two mathematical fictions:
   1. Identical Units (1 = 1): Erases the micro distinctions and unique causal histories required for coexistence.
   2. Infinitesimal Limits (dx -> 0, ds -> 0): Calculus is a coarse-grained scaffolding. Reality is fundamentally discrete and binary at the Planck scale.
@@ -22,5 +22,5 @@
 ### [Intro Script - Mingli]
 Mingli: To be clear, when we examine the idealized fictions of mathematics and physics, we aren't saying mass or physics are wrong. They are extraordinarily powerful representational tools for discovering underlying causal patterns. The danger is treating the model as more reliable or more real than the living terrain itself.
 
-Yuhan: Exactly. On paper, curling a manifold or drawing a smooth curve costs zero energy. In living reality, every transformation is built on discrete Planck-scale distinctions, and actualizing an action (+1) requires overcoming friction and paying an irreversible thermodynamic cost. When we mistake the frictionless map for reality, we fall into the Great Reversal.
+Yuhan: Exactly. When the Mind manipulates equations on paper, the biological energy spent is negligible compared to the cosmic transformations it represents. In living reality, every physical state change is built on discrete Planck-scale distinctions, and actualizing an action (+1) requires overcoming friction and paying an irreversible thermodynamic cost. Mistaking the low-overhead map for reality leads straight into the Great Reversal.
 (Yuhan responds: Explore how reality's primordial discreteness is the very reason causality is scale-invariant and abstractable by mathematics, while the feeling of smooth continuity is an emergent scale illusion. Conclude by dismantling the spatialized block universe and returning sovereign agency to the first-person origin in the living present.)
