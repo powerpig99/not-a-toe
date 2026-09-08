@@ -162,9 +162,9 @@ In true geometry, statistical laws are not the enemy or negation of conscious ch
 1. **中和与双向湮灭（Annihilation）**：
    正像自我试图通过排他与压制来抹除外部负像。显而易见的是，**对自身负像（外部世界与他者）的每一次攻击与中和（Neutralization），在数学上都在直接消减心智自身内部的总信息量与维度容量**。心智的感知容量由正负两面共同张成（I = A + A^⟂），且双方共用同一道边界（∂A = ∂A^⟂）。抹除负像等同于磨掉硬币的反面，必将导致正像自我失去对照与分辨率，使整个心智流形坍缩为单调贫瘠的虚无。这种试图通过消灭对立面来确立自我的行径，在数学上具有根本性的自毁性（Mathematically Self-Defeating）。
 2. **对抗与系统死锁（Deadlock）**：
-   若对抗未能导致即时湮灭，心智便会陷入僵持的死锁状态。边界被硬化为防御性的隔离墙，心智将海量认知算力与能量耗费在维持对自身负像的戒备与拉锯之中。在此状态下，心智无法生成新的态射，亦无法做出更精细的切分，整体演化陷入停滞与麻痹。
-3. **维持共存与持续区分——自我生长的几何本质（Self-Growth）**：
-   唯当心智接纳非零边界上的动态共存，并以第一人称原点持续做出新的、更高维度的区分时，系统才能打破死锁。每一次新的切分都在细化正像自我的内部结构，同时拓展并深化外部负像的关联网络。**这种在维持共存的前提下持续做出新区分、扩展总信息量与空间维度的过程，即是“自我生长”的数学本质。**
+   若对抗未能导致即时湮灭，心智便会陷入僵持的死锁状态。边界被硬化为防御性的隔离墙，心智将海量认知算力与能量耗费在维持对自身负像的戒备与拉锯之中。在此状态下，心智将任何未曾预料的外部扰动或微观差异皆判定为入侵与威胁，从而关闭感知通道，无法生成新的态射，亦无法容纳更精细的切分，整体演化陷入停滞与麻痹。
+3. **维持共存与接纳新区分——自我生长的几何本质（Self-Growth）**：
+   唯当心智接纳非零边界上的动态共存时，系统才能打破死锁。所谓做出新的区分，并不仅仅是心智主动向外切割，**其深层本质更在于允许新的区分自然落入感知之中，而不将其本能地判定为威胁或敌人**。当心智不再对新出现的差异与变量施加防御性排斥时，每一次涌现的新区分都在细化正像自我的内部结构，同时拓展并深化外部负像的关联网络。**这种在维持共存的前提下接纳并生成新区分、扩展总信息量与空间维度的过程，即是“自我生长”的数学本质。**
 
 ```mermaid
 graph TD
@@ -172,7 +172,7 @@ graph TD
         direction TB
         AnnihilationNode["【中和与湮灭】<br>攻击负像导致内部总信息量双向坍缩"]
         DeadlockNode["【对抗与死锁】<br>固化边界形成僵局，消耗能量陷入停滞"]
-        SelfGrowthNode["【共存与自我生长】<br>维持共存并持续做出新区分，维度扩展"]
+        SelfGrowthNode["【共存与自我生长】<br>容纳新区分落入感知而不视为威胁，维度扩展"]
         AnnihilationNode --> DeadlockNode
         DeadlockNode --> SelfGrowthNode
     end
@@ -189,9 +189,9 @@ Under the fog of distance amnesia, the Mind gazes upon the boundless negative ex
 1. **Neutralization and Mutual Annihilation**:
    The positive self attempts to eradicate the external negative ground through suppression or conquest. Crucially, **every attack launched against the negative image of the self (the world out there) neutralizes and diminishes the total informational content and dimensional volume within the self**. The total capacity of consciousness is spanned jointly by both figure and ground (I = A + A^⟂), and both share the exact same boundary (∂A = ∂A^⟂). Eradicating the negative image is identical to grinding away the reverse of a coin, causing the positive self to lose contrast and resolution, collapsing the high-dimensional manifold into a sterile void. Waging war against one's own negative image is **mathematically self-defeating**.
 2. **Opposition and Systemic Deadlock**:
-   If conflict does not trigger immediate annihilation, the system enters an intractable deadlock. The boundary calcifies into a defensive barrier, squandering immense cognitive capacity and energy on maintaining static resistance against its own negative silhouette. No new morphisms are composed, no finer distinctions are drawn, and the Mind freezes in a chronic state of paralysis and stagnation.
-3. **Sustaining Coexistence and Continuous Distinction—The Essence of Self-Growth**:
-   Only when the Mind embraces dynamic coexistence across non-zero boundaries and uses its first-person origin to continuously make new, higher-dimensional distinctions does the deadlock dissolve. Each new cut refines the internal positive structure while simultaneously expanding and deepening the negative relational web. **This ongoing generation of successive distinctions under sustained coexistence—multiplying dimensional volume and informational resolution—is literally the mathematical definition of self-growth.**
+   If conflict does not trigger immediate annihilation, the system enters an intractable deadlock. The boundary calcifies into a defensive barrier, squandering immense cognitive capacity and energy on maintaining static resistance against its own negative silhouette. Under this threat reflex, any unfamiliar perturbation or emergent nuance is instantly flagged as an enemy breach, shutting down sensory bandwidth. No new morphisms are composed, no finer distinctions are drawn, and the Mind freezes in a chronic state of paralysis and stagnation.
+3. **Sustaining Coexistence and Allowing New Distinctions—The Essence of Self-Growth**:
+   Only when the Mind embraces dynamic coexistence across non-zero boundaries does the deadlock dissolve. Making new distinctions is not merely an aggressive knife carving outward; **its deeper essence lies in allowing new distinctions to freely fall into perception without reflexively treating them as threats or enemies**. When consciousness no longer erects defensive walls against newly perceived differences, each fresh distinction refines the internal positive self while simultaneously opening and deepening the negative relational web. **This ongoing hospitality toward new distinctions under sustained coexistence—multiplying dimensional volume and informational resolution—is literally the mathematical definition of self-growth.**
 
 ---
 
@@ -199,9 +199,9 @@ Under the fog of distance amnesia, the Mind gazes upon the boundless negative ex
 
 消除生存性恐惧、边界死锁与理论偏颇的唯一路径，在于回归第一人称原点，体认因果硬币的完整对称。当心智稳固立足于自身的存在原点时，它不再将广阔的外部世界视作冰冷敌对的他者，而是清晰洞察到：整个宇宙正是自身在自身内部留下的负像。
 
-在这片由非零边界构筑的共存几何中，正像与负像不再是互相残杀的零和对手，而是不可分割的共轭伴侣。心智自主作出的每一个抉择、划下的每一道区分，都在赋予自我清晰轮廓的同时，赋予了相伴相生的广阔负像世界以丰满的深度。**充实与深化外部世界的多样性，即是在直接扩展自身内部的总信息量与创造性潜能。**
+在这片由非零边界构筑的共存几何中，正像与负像不再是互相残杀的零和对手，而是不可分割的共轭伴侣。心智自主作出的每一个抉择、接纳并划下的每一道区分，都在赋予自我清晰轮廓的同时，赋予了相伴相生的广阔负像世界以丰满的深度。**充实与深化外部世界的多样性，即是在直接扩展自身内部的总信息量与创造性潜能。**
 
-心智不再试图消灭负像以求安全，亦不再构筑防线陷入死锁，而是主动拥抱共存的生机张力。通过不断划定更高维度的微观与宏观区分，心智持续拓展着自身的意识广度与认知分辨率。这便是因果硬币在自由意志驱动下的永恒翻转——在每一瞬的范畴交织中，自我与世界同步生长，向着无限深邃的创生之境持续演进。
+心智不再试图消灭负像以求安全，亦不再构筑防线陷入死锁，而是主动拥抱共存的生机张力。通过坦然允许新的微观与宏观差异自然进入知觉场域，心智持续拓展着自身的意识广度与认知分辨率。这便是因果硬币在自由意志驱动下的永恒翻转——在每一瞬的范畴交织中，自我与世界同步生长，向着无限深邃的创生之境持续演进。
 
 ```mermaid
 graph TD
@@ -209,7 +209,7 @@ graph TD
         direction TB
         RecognizeCoPresence["【体认因果硬币完整对称】<br>自由抉择与开放场域在非零边界中同在"]
         MaintainCoexistence["【维持共存打破边界死锁】<br>充实外部负像即在扩展自身内部总容量"]
-        ContinuousDistinction["【持续做出新区分的自我生长】<br>以每一次自主抉择驱动维度跃迁与演进"]
+        ContinuousDistinction["【接纳新区分的自我生长】<br>让差异自然落入感知，驱动维度跃迁演进"]
         RecognizeCoPresence --> MaintainCoexistence
         MaintainCoexistence --> ContinuousDistinction
     end
@@ -221,6 +221,6 @@ graph TD
 
 The only resolution to existential terror, boundary deadlocks, and theoretical blindspots lies in returning to the first-person origin to embrace the complete symmetry of the causal coin. Anchored firmly at its causal locus, the Mind no longer regards the external universe as an alien adversary. It sees with pristine clarity that the entire cosmos is literally its own negative image, held within its own singular experiential space.
 
-Within this geometry of coexistence forged by non-zero boundaries, the positive figure and negative ground are no longer mortal combatants, but inseparable conjugate partners. Every sovereign choice made and every distinction carved by the Mind not only sharpens the definition of the self, but simultaneously enriches the expansive negative landscape that arises alongside it. **To enrich and differentiate the external world is to directly expand the total informational capacity and creative potential within the self.**
+Within this geometry of coexistence forged by non-zero boundaries, the positive figure and negative ground are no longer mortal combatants, but inseparable conjugate partners. Every sovereign choice made and every distinction welcomed by the Mind not only sharpens the definition of the self, but simultaneously enriches the expansive negative landscape that arises alongside it. **To enrich and differentiate the external world is to directly expand the total informational capacity and creative potential within the self.**
 
-Rather than seeking security through annihilation or freezing in defensive deadlock, the Mind actively embraces the generative tension of coexistence. By continuously carving higher-dimensional distinctions across micro and macro domains, consciousness continually expands its experiential bandwidth and cognitive resolution. This is the eternal flipping of the causal coin driven by sovereign choice—across every categorical intersection, the self and the world grow in unison, perpetually unfolding toward infinite creative horizons.
+Rather than seeking security through annihilation or freezing in defensive deadlock, the Mind actively embraces the generative tension of coexistence. By allowing newly emergent micro and macro differences to fall naturally into awareness without defensive panic, consciousness continually expands its experiential bandwidth and cognitive resolution. This is the eternal flipping of the causal coin driven by sovereign choice—across every categorical intersection, the self and the world grow in unison, perpetually unfolding toward infinite creative horizons.
