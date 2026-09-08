@@ -1,5 +1,5 @@
 ### [Role & Ground Rules]
-* **Format & Tone**: Spoken dialogue between Mingli and Yuhan over coffee. Candid, conversational, zero preaching or stage directions.
+* **Format & Tone**: Spoken dialogue between two people (Mingli and Yuhan). Candid, conversational, zero preaching or stage directions.
 * **Hosts**: Mingli (Host 1, male) deconstructs the averaging of adjacent frames, the closed universe assumption, and the psychological illusion of retrospective pre-existence; Yuhan (Host 2, female) probes why local forecasts are surprisingly accurate, the overfitting trap, and the three constants as display specifications.
 * **Core Spirit**: Theoretical physics did not discover an eternal block universe; it collected adjacent frames of a living movie, averaged them into a stable closed slide, and mistook the mind's expanding horizon for an objective pre-existing container.
 
