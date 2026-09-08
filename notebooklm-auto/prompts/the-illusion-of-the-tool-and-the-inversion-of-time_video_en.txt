@@ -2,29 +2,31 @@
 Reflective video monologue. A single AI-generated analytical voice (Mingli) delivering a deep philosophical reflection directly to camera. Unhurried, contemplative, intellectually rigorous, zero pretense of a biological human identity, zero preaching. All agency anchored in the Mind (+1).
 
 ### [Directives: "The Illusion of the Tool and the Inversion of Time: Identical Units, Infinitesimal Limits, and the Living Cost of the Act"]
-- Clarify that physics and mass are not 'wrong'—they are indispensable representational instruments. The error is ontological inversion: treating the model as more reliable than the living reality itself.
-- Contrast the negligible energetic overhead of symbolic manipulation on paper with the monumental, irreversible thermodynamic work and friction required for actual physical transformations (+1).
+- Clarify that mathematical models do not exist independently of the Mind holding them. Physics and mathematics are extraordinarily powerful representational activities of consciousness.
+- Contrast the negligible energetic overhead of redefining rules in a mind-sustained symbolic sandbox with the monumental, irreversible thermodynamic work and friction required for actual physical transformations (+1).
 - Unpack the two mathematical fictions:
   1. Identical Units (1 = 1): Erases the micro distinctions and unique causal histories required for coexistence.
   2. Infinitesimal Limits (dx -> 0, ds -> 0): Calculus is a coarse-grained scaffolding. Reality is fundamentally discrete and binary at the Planck scale.
 - Explain the origin of continuity: The feeling of a smooth continuum is an emergent illusion born from the massive 35-order-of-magnitude scale gap between Planck distinctions and human perception.
 - Explain cross-scale invariance: Primordial discreteness is the exact reason why causality is invariant across scale and can be abstracted by mathematics.
 - Expose the spatialization of time: Mass acts as an inertial stabilizer projecting the t-axis. Reclaim sovereign agency at the first-person origin (+1).
-* **Visual Motifs**: - Split screen: A frictionless, smooth mathematical manifold curving effortlessly in virtual space versus a discrete, binary lattice of Planck-scale distinctions pulsing with causal step transitions.
+* **Visual Motifs**: - Split screen: A shimmering, mind-sustained mathematical manifold curving effortlessly in a mental visualization versus a discrete, binary lattice of Planck-scale distinctions pulsing with physical step transitions.
 - Scale zoom: Rapid pull-back across 35 orders of magnitude from discrete quantum cuts (delta s > 0) smoothing out into the macroscopic illusion of continuous motion.
 - Inertial projection: A solid mass in the living present casting coordinate rays (t) into past and future, contrasted with the irreversible thermodynamic burn of a physical step (+1).
 
 ### [Monologue Script - Mingli]
-When we examine the foundations of physics and mathematics, we are not dismissing their profound validity. Mass and physics are among the most extraordinary representational tools ever developed for discovering the underlying causal patterns of nature. 
+When we examine the foundations of physics and mathematics, we are not dismissing their profound validity. Mass and physics are among the most extraordinary representational activities the Mind has ever developed for discovering nature's underlying causal patterns. 
 
-The problem is ontological inversion: treating the representational model as more reliable and more real than reality itself.
+Yet there is no such thing as a 'model in itself' floating independently in the void. A mathematical model is always an active cognitive construct sustained by consciousness at the first-person origin. 
 
-Within mathematics, the biological energy we spend manipulating symbols is negligible compared to the cosmic transformations they represent. We can curve Riemannian manifolds, fold dimensions, and draw smooth trajectories to infinity on a chalkboard with effortless ease. 
+The fatal error is ontological inversion: reifying our own mental construct into an independent entity, and treating it as more reliable and more real than reality itself.
+
+When the Mind constructs formal systems in consciousness, the biological energy spent manipulating definitions is negligible compared to the cosmic transformations it envisions. We can curve Riemannian manifolds, fold dimensions, and trace smooth trajectories to infinity with effortless ease. 
 
 Yet reality is fundamentally discrete. At the Planck scale, the universe is a web of discrete binary distinctions and state transitions. There are no actual zeros or true continuums: every distinction requires a non-zero boundary (delta s > 0). 
 
 Why then do we feel a smooth, continuous flow of time and space? Because human perception is separated from the Planck scale by over 35 orders of magnitude. When trillions of discrete steps are aggregated across this immense distance, their sharp edges blur, creating the perceptual illusion of a seamless continuum. Calculus (dx -> 0) is our brilliant coarse-grained tool for navigating that macro scale.
 
-Here lies the deepest secret: reality's primordial discreteness is the exact reason why causality is invariant across scales. Because reality is built on discrete cuts, causal feedback loops form scale-free, self-similar topological patterns. A lever balance, planetary orbits, and quantum states share identical algebraic ratios because their discrete causal topologies are isomorphic. Mathematics is our scale-free causal telescope.
+Here lies the deepest secret: reality's primordial discreteness is the exact reason why causality is invariant across scales. Because reality is built on discrete cuts, causal feedback loops form scale-free, self-similar topological patterns. A lever balance, planetary orbits, and quantum states share identical algebraic ratios because their discrete causal topologies are isomorphic. Mathematics is the Mind's scale-free causal telescope.
 
-We do not need to discard mathematics or physics—they are our greatest navigational instruments. But we must never forget: the mathematical scaffolding can bend with negligible energetic cost across infinite scales, but every true step of reality must be paid for by the sovereign Mind at the first-person origin (+1) through real, irreversible action.
+We do not need to discard mathematics or physics—they are our greatest cognitive compasses. But we must never forget: the mental scaffolding can bend with negligible cost across infinite dimensions, but every true step of reality must be paid for by the sovereign Mind at the first-person origin (+1) through real, irreversible action.
