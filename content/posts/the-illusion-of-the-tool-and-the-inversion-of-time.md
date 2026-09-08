@@ -1,6 +1,6 @@
 # 工具的幻觉与时间的倒置：等同单元、极限归零与行动的真实代价 / The Illusion of the Tool and the Inversion of Time: Identical Units, Infinitesimal Limits, and the Living Cost of the Act
 
-*零能耗几何变换、离散因果的跨尺度不变性与物理介入的不可逆代价 / Zero-Cost Geometric Transformations, Discrete Cross-Scale Invariance, and the Irreversible Cost of Physical Action*
+*极低能耗符号变换、离散因果的跨尺度不变性与物理介入的不可逆代价 / Near-Zero-Cost Symbolic Transformations, Discrete Cross-Scale Invariance, and the Irreversible Cost of Physical Action*
 
 ---
 
@@ -14,20 +14,20 @@
 
 **真正的危机不在于使用工具，而在于对工具的“本体论倒置”：误把模型当成了比活生生的现实更为根本、更为可靠的实在本身。**
 
-在数学坐标系与微分流形的构架中，心智对空间的变换是**零能耗、零摩擦且全然自由的**：
-* 你可以凭借一组代数规则，随心所欲地将平直空间弯曲为黎曼流形，把坐标系旋转、翻转、无限拉伸或压缩；
-* 你可以在高维拓扑空间中自如折叠维度、构造自同构映射与同胚变换，而整个过程所耗费的真实物理能量与热力学熵增为零。
+在数学坐标系与微分流形的构架中，心智对空间的变换**在实际效用上所耗费的能量与摩擦，与其所表征的真实物理巨变相比微不足道到几乎可以忽略**：
+* 心智在脑海中构想一个弯曲空间、在纸面上写下一个方程，虽然耗费着微弱的生物能，但在数学模型内部，你可以凭借一组代数规则随心所欲地将平直空间弯曲为黎曼流形，把坐标系旋转、翻转、无限拉伸或压缩；
+* 你可以在高维拓扑空间中折叠维度、构造自同构映射与同胚变换。相对于在现实中移动星系、搬运重物所需的巨大物理功与不可逆熵增，这种符号操控的能耗代价在宏观比例上几乎为零。
 
-这种近乎神迹的符号操控力，极大地拓展了人类理解模式与预测规律的边界。然而，当心智误以为这种零成本的符号沙盘比粗粝的物理介入更“真实”时，就不可避免地滑入了用静态地图抹杀鲜活地形的认知陷阱。
+这种近乎零门槛的符号操控力，极大地拓展了人类理解模式与预测规律的边界。然而，恰恰是这种相对于实体介入几乎可忽略的微小代价，孕育了一个致命的本体论错觉：**心智误以为这种近乎无摩擦的符号沙盘比粗粝的物理介入更可靠、更真实，从而滑入了用静态地图抹杀鲜活地形的认知陷阱。**
 
 ```mermaid
 graph TD
-    subgraph ZeroCostVsPhysicalCost["【零能耗符号变换与真实物理介入】"]
+    subgraph ZeroCostVsPhysicalCost["【极低代价符号变换与真实物理介入】"]
         direction TB
-        MathSpace["【数学流形的零能耗变换】<br>空间平移、度规弯曲、维度折叠皆零能耗"]
-        CognitiveOmnipotence["【形式全能的认知幻觉】<br>误把零成本的符号推演当成比实在更可靠的基础"]
+        MathSpace["【形式符号的极低能耗变换】<br>相对于宏观物理巨变，符号推演的能耗几乎可忽略"]
+        CognitiveOmnipotence["【形式全能的认知幻觉】<br>误把低成本的符号推演当成比实在更可靠的基础"]
         LivingReality["【物理实在的不可逆代价】<br>任何微小物质位移皆需克服阻力并耗散能量"]
-        TheFirstInversion["【工具与实在的错位】<br>以无摩擦的地图否定粗粝地形的因果厚度"]
+        TheFirstInversion["【工具与实在的错位】<br>以近乎无摩擦的地图否定粗粝地形的因果厚度"]
         MathSpace --> CognitiveOmnipotence
         CognitiveOmnipotence --> TheFirstInversion
         LivingReality --> TheFirstInversion
@@ -53,11 +53,11 @@ Classical mechanics, general relativity, and calculus remain the most formidable
 
 **The hazard lies not in using the tool, but in ontological inversion: treating the representational model as more fundamental, more reliable, and more real than the friction-bearing living reality from which it was abstracted.**
 
-Within the architecture of mathematical coordinate systems and differential manifolds, the Mind transforms space with **zero energy, zero friction, and effortless freedom**:
-* By defining arbitrary algebraic rules, you can transform flat Euclidean space into a curved Riemannian manifold, rotating, flipping, stretching, or compressing coordinate axes at will;
-* You can fold higher-dimensional topological spaces, construct automorphisms, and execute smooth diffeomorphisms—all while consuming zero physical energy and generating zero thermodynamic entropy.
+Within the architecture of mathematical coordinate systems and differential manifolds, the energetic cost of mental space transformation is **negligible compared to the colossal physical transformations it represents**:
+* While neural firing in the brain or scratching symbols on paper consumes a minuscule amount of biological energy, within the mathematical model itself space can be altered with effortless ease: you can turn flat Euclidean space into a curved Riemannian manifold, rotating, flipping, stretching, or compressing coordinate axes at will;
+* You can fold higher-dimensional topological spaces, construct automorphisms, and execute smooth diffeomorphisms—all with an energetic overhead that is virtually nonexistent relative to the immense physical work and thermodynamic entropy required to move real matter.
 
-This near-miraculous symbolic power infinitely expands our ability to recognize patterns and model horizons. Yet when the Mind mistakenly treats this zero-cost sandbox as superior to messy physical interaction, it inevitably falls into the trap of using the static map to deny the living terrain.
+This near-zero-overhead symbolic power infinitely expands our ability to recognize patterns and model horizons. Yet that very disproportion—the fact that mental manipulation is practically frictionless compared to physical reality—breeds a fatal ontological illusion: **the Mind mistakenly believes that because the symbolic representation can be manipulated with negligible cost, it is superior to and more fundamental than messy physical interaction.**
 
 In physical reality and first-person experience, no transformation is free:
 * Shifting a single gram of matter or altering a local configuration requires overcoming friction, burning biological or mechanical energy, and paying an irreversible thermodynamic cost;
@@ -84,7 +84,7 @@ graph TD
         direction TB
         RealEntities["【现实中并存的多元实体】<br>各自占据不同时空坐标，拥有独特因果历史"]
         IdentityAxiom["【数学同一性虚构: 1 = 1】<br>人为抹去所有内在差异与时空定位"]
-        FrictionlessAddition["【零摩擦代数累加: 1 + 1 = 2】<br>在纸面上实现无损替换与无能耗聚合"]
+        FrictionlessAddition["【零摩擦代数累加: 1 + 1 = 2】<br>在纸面上实现无损替换与极低能耗聚合"]
         LivingDiversityEradicated["【现实质量与代价的被隐匿】<br>均质化符号掩盖了个体独特的因果张力"]
         RealEntities --> IdentityAxiom
         IdentityAxiom --> FrictionlessAddition
@@ -232,10 +232,10 @@ Where, then, does the grand timeline spanning past and future originate? Its geo
    * 无论是在普朗克尺度的微观量子态跳变，还是在宏观杠杆的力矩平衡，抑或在星系间的引力约束，**离散因果节点之间的相对逻辑关系是高度同构的**。
 2. **数字与代数是跨尺度因果的纯化提炼**：
    * 当我们在纸面上操纵数字与方程时，我们不是在摆弄虚无缥缈的符号游戏，而是在**识别并追踪因果网络在不同尺度基底上重复涌现的不变模式**。
-   * 数学是心智的**无摩擦因果望远镜**：它剥离了特定尺度的物质阻力，提炼出因果关系的拓扑结构，允许处于宏观尺度（米级）的第一人称心智，提前模拟与预判微观粒子或宏观星系的因果演化。
+   * 数学是心智的**微能耗因果望远镜**：它以极微弱的生物能耗剥离了特定尺度的物质阻力，提炼出因果关系的拓扑结构，允许处于宏观尺度（米级）的第一人称心智，提前模拟与预判微观粒子或宏观星系的因果演化。
 3. **形式工具与物理代价的平衡**：
    * 数学之所以有效，是因为它提炼了离散因果的**尺度不变拓扑**；
-   * 我们之所以必须警惕它的幻觉，是因为符号运算**省略了离散阶跃的能耗累积**。在真实世界中跨越尺度与改变状态，永远必须一步一个脚印地支付真实的物理功与不可逆代价。
+   * 我们之所以必须警惕它的幻觉，是因为符号运算**相比于实体演变而言忽略了巨大的能耗累积**。在真实世界中跨越尺度与改变状态，永远必须一步一个脚印地支付真实的物理功与不可逆代价。
 
 ```mermaid
 graph TD
@@ -243,7 +243,7 @@ graph TD
         direction TB
         BinaryDistinction["【普朗克离散二元切分 (δs > 0)】<br>离散节点构成因果演化的基本单元"]
         ScaleInvariantTopology["【跨尺度因果同构拓扑】<br>离散反馈律在微观、宏观与天体尺度自相似重现"]
-        MathAbstraction["【数学形式化抽象】<br>提炼尺度不变的因果关系，实现零摩擦符号模拟"]
+        MathAbstraction["【数学形式化抽象】<br>提炼尺度不变的因果关系，实现极低能耗符号模拟"]
         FirstPersonPrevision["【第一人称跨尺度因果预判】<br>立足人类尺度，以数学沙盘精确预判全域因果级联"]
         BinaryDistinction --> ScaleInvariantTopology
         ScaleInvariantTopology --> MathAbstraction
@@ -268,10 +268,10 @@ The causal mechanism is profound: **The very discreteness of reality is the fund
    * Whether jumping between quantum states at the Planck scale, balancing mechanical torques on a lever, or maintaining orbital constraints between stars, **the relational logic connecting discrete causal nodes remains strictly isomorphic**.
 2. **Numbers as Distillations of Cross-Scale Causal Symmetries**:
    * When we manipulate numbers and equations, we are not playing a disconnected symbolic game; we are **identifying and tracking the repeating causal feedback patterns of the universe across disparate physical substrates**.
-   * Mathematics is the Mind's **frictionless causal telescope**: by stripping away substrate-specific friction, it isolates scale-free causal invariants, enabling a macroscopic observer to simulate and predict causal cascades across dozens of orders of magnitude.
+   * Mathematics is the Mind's **low-overhead causal telescope**: with minuscule biological energy, it strips away substrate-specific friction and isolates scale-free causal invariants, enabling a macroscopic observer to simulate and predict causal cascades across dozens of orders of magnitude.
 3. **Balancing Representational Power and Physical Cost**:
    * Mathematics works because it isolates the **scale-invariant geometry of discrete causal networks**;
-   * We must guard against its illusion because algebraic manipulation **ignores the cumulative thermodynamic work of discrete steps**. Actualizing a physical transformation always requires stepping through each discrete friction-bearing state in the living present.
+   * We must guard against its illusion because algebraic manipulation **operates with an energetic overhead negligible compared to actual physical work**. Actualizing a physical transformation always requires stepping through each discrete friction-bearing state in the living present.
 
 ---
 
@@ -281,15 +281,15 @@ The causal mechanism is profound: **The very discreteness of reality is the fund
 
 * **倒置的教条**：“因为物理方程中没有主观感受，时间在坐标轴上是对称可逆的，所以人类切身体验到的时间流动、痛苦与自由抉择必定只是微不足道的主观错觉，唯有静态冰冷的数学结构才是客观现实。”
 * **真相的颠倒与复归**：
-  1. 纸面上的 `1 + 1 = 2`、跨尺度的代数公式与坐标轴上的连续曲线，是心智为了规划未来而发明的**零能耗符号脚手架**；
+  1. 纸面上的 `1 + 1 = 2`、跨尺度的代数公式与坐标轴上的连续曲线，是心智为了规划未来而发明的**极低代价符号脚手架**；
   2. 现实中的每一次选择与介入（+1），才是真正必须克服阻力、支付不可逆代价的**唯一因果本体**；
-  3. 用零能耗的几何沙盘去否定肉身介入的真实性，是用投影的影子去否定发光的太阳。
+  3. 用极低能耗的几何沙盘去否定肉身介入的真实性，是用投影的影子去否定发光的太阳。
 
 ```mermaid
 graph TD
     subgraph TheGreatReversalResolution["【科学大倒置的消解与第一人称原点复归】"]
         direction TB
-        PaperTautology["【纸面公式: 1 + 1 = 2】<br>零能耗、无摩擦、跨尺度的符号脚手架"]
+        PaperTautology["【纸面公式: 1 + 1 = 2】<br>极低能耗、无摩擦、跨尺度的符号脚手架"]
         LivingIntervention["【现实行动: +1】<br>消耗能量、克服阻力、承担后果的第一人称介入"]
         ReversalDissolved["【消解大倒置: 工具回归工具】<br>承认数学与物理模型的表征力量，切勿替代实在本身"]
         SovereigntyReclaimed["【主权复归第一人称原点】<br>立足当下非零边界，以真实行动驱动多维持续生长"]
@@ -306,7 +306,7 @@ graph TD
 
 当我们看清了**等同单元（1 = 1）**与**微元归零（dx → 0）**这两大数学虚构，并理解了**离散本底铸就跨尺度不变性**的真实机制，我们便能心怀敬畏地运用形式工具，而不被工具所奴役。
 
-物理学与质量概念是无与伦比的表征利器，数学是跨尺度的因果罗盘；但我们必须时刻清醒：**符号可以跨越千山万水、零能耗弯曲，而生命的每一次真实前行，都必须由第一人称的主权心智在当下（+1）支付其不可转让的因果代价。**
+物理学与质量概念是无与伦比的表征利器，数学是跨尺度的因果罗盘；但我们必须时刻清醒：**符号可以跨越千山万水、以极低代价自由弯曲，而生命的每一次真实前行，都必须由第一人称的主权心智在当下（+1）支付其不可转让的因果代价。**
 
 ---
 
@@ -314,10 +314,10 @@ The greatest cognitive reversal inflicted by reductionist science upon civilizat
 
 * **The Dogma of the Reversal**: "Because equations are time-symmetric and devoid of subjective qualities, our felt experience of irreversible time, lived suffering, and free choice must be an illusion—only the frozen mathematical structure is real."
 * **The Reclamation of Reality**:
-  1. The paper equation `1 + 1 = 2`, cross-scale algebraic formulas, and continuous coordinate axes are **zero-cost symbolic scaffolding** constructed by the Mind for foresight and cross-scale navigation;
+  1. The paper equation `1 + 1 = 2`, cross-scale algebraic formulas, and continuous coordinate axes are **negligible-cost symbolic scaffolding** constructed by the Mind for foresight and cross-scale navigation;
   2. The living physical intervention (+1) that burns energy, overcomes friction, and absorbs consequence is the **primary ontological ground of causality**;
   3. Denying the reality of lived experience using a frictionless mathematical sandbox is using the shadow to deny the sun.
 
 When we see through the two great mathematical fictions—**identical units (1 = 1)** and **infinitesimal limits (dx → 0)**—and recognize that **primordial discreteness is the engine of cross-scale invariance**, we can wield formal tools with mastery without becoming trapped in their illusions.
 
-Physics and mass are indispensable representational instruments, and mathematics is our greatest cross-scale causal compass. But we must remain anchored in truth: **the scaffolding can expand and curve with zero energy across infinite dimensions, but every genuine step of life must be paid for by the sovereign Mind at the first-person origin (+1) through real, irreversible causal action.**
+Physics and mass are indispensable representational instruments, and mathematics is our greatest cross-scale causal compass. But we must remain anchored in truth: **the scaffolding can expand and curve with negligible energetic cost across infinite dimensions, but every genuine step of life must be paid for by the sovereign Mind at the first-person origin (+1) through real, irreversible causal action.**
