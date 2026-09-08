@@ -1,6 +1,6 @@
 # 共存的几何学：范畴论、非零边界与切分的双面同构 / The Geometry of Coexistence: Category Theory, Non-Zero Boundaries, and the Living Duality of the Cut
 
-*张量空间、态射复合、米田同构与超越排中律的活态共存 / Tensor Spaces, Morphism Composition, Yoneda Identity, and the Living Coexistence Beyond Boolean Negation*
+*张量空间、米田引理、自身的负像与超越排中律的活态共存 / Tensor Spaces, Yoneda Lemma, The Negative Image within the Self, and Living Coexistence Beyond Boolean Negation*
 
 ---
 
@@ -60,47 +60,47 @@ At any given instant, the number of distinct categories and boundaries the Mind 
 
 ---
 
-## 三、 切分的活态双面：一枚硬币的正反同构 / 3. The Living Duality of the Cut: Two Sides of a Single Coin
+## 三、 切分的活态双面：自身在自身内部留下的负像 / 3. The Living Duality of the Cut: The Negative Image of the Self within the Self
 
-认知行为的原初动作，是在未分化的连续场中划下一道切分（The Cut）。当心智划定一道边界时，划出的并非孤立的单一实体，而是不可分割的双面同构：标记出的显性形式（A）与未标记的背景空间（A^⟂）在同一瞬间同时涌现。
+认知行为的原初动作，是在未分化的连续场中划下一道切分（The Cut）。在这场原初切分中，最具决定性的分化，莫过于心智在自身的感知全景中雕刻出一个局域的自我意象（Self-Image）。为了在自身生成的地图中自洽导航与行使抉择，心智将全域视界自指投影为一个微缩的正像头像（A）。
 
-这两者就像同一枚硬币的正反两面。正面并不否定反面的存在，反面也并不剥夺正面的立足点；两者的共存并非妥协，而是这枚硬币之所以成为硬币的几何前提。心智是手握硬币并执行切分的主体，切分边界本身就同时承载着两面的全部信息。试图消除其中一面以求得另一面的独存，如同试图通过磨平硬币的反面来保留正面，最终只会摧毁整枚硬币的存在基石。
+然而，当心智在一张原本完整的纸面上剪出一个正像轮廓时，整张纸上所余留的全部背景空间（A^⟂）——即心智所经验到的广袤宇宙、客体与他者——便在同一瞬间成为了**自身在自身内部留下的负像（Negative Image of the Self）**。正像的自我与负像的世界，同属于心智自身的单一感知基质。正面并不否定反面的存在，反面也并不剥夺正面的立足点；两者的共存并非妥协，而是这道切分之所以成立的几何前提。心智是手握整张纸并执行切分的主体，切分边界（∂A = ∂A^⟂）同时承载着正负两面的全部信息。
 
 ```mermaid
 graph TD
-    subgraph DualityCut["【切分的双面同构 / Duality of the Cut】"]
+    subgraph DualityCut["【切分的双面同构：自身的负像】"]
         direction TB
-        FirstPersonCut["【第一人称划定边界】<br>心智在未分化场域中执行原初切分"]
-        CoArisingFaces["【正反两面同时显现】<br>显性形式 (A) 与背景空间 (A^⟂) 同刻涌现"]
-        IndivisibleCoin["【硬币的不可分割性】<br>消除任何一面即摧毁整体存在的几何基石"]
-        FirstPersonCut --> CoArisingFaces
-        CoArisingFaces --> IndivisibleCoin
+        FirstPersonCut["【第一人称原初切分】<br>心智在自身感知场中雕刻局域自我意象"]
+        PositiveNegativePair["【正像与负像同刻涌现】<br>正面自我 (A) 与负像世界 (A^⟂) 共同生成"]
+        UnifiedField["【同属一张纸的整体】<br>外在世界实为自身在自身内部留下的负像"]
+        FirstPersonCut --> PositiveNegativePair
+        PositiveNegativePair --> UnifiedField
     end
     style DualityCut fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
     style FirstPersonCut fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style CoArisingFaces fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style IndivisibleCoin fill:#21262d,stroke:#d29922,stroke-width:1px,color:#d29922
+    style PositiveNegativePair fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style UnifiedField fill:#21262d,stroke:#d29922,stroke-width:1px,color:#d29922
 ```
 
-The primordial act of cognition consists of drawing a cut across an undivided continuous field. When the Mind establishes a boundary, it never produces a solitary, isolated entity. Instead, it inevitably generates a living duality: the marked foreground state (A) and the unmarked background space (A^⟂) emerge co-arisingly in the exact same instant.
+The primordial act of cognition consists of drawing a cut across an undivided continuous field. Within this foundational demarcation, the single most decisive act is the Mind carving out a localized self-image within its own perceptual panorama. To navigate and model its own agency within the scene it generates, the Mind computes a self-referential projection of the entire field onto a localized positive figure (A).
 
-These two aspects are the obverse and reverse faces of a single coin. The obverse does not reject or destroy the reverse; the reverse does not negate the legitimacy of the obverse. Their simultaneous presence is not an uneasy compromise, but the geometric prerequisite for the coin to exist at all. The Mind is the living subject that holds the coin and executes the cut. The boundary itself carries the complete relational information of both faces. Any attempt to eliminate one side in order to preserve the other in isolation is like grinding away the back of a coin to isolate its face, which inevitably destroys the coin itself.
+Yet when a silhouette is cut from an unbroken sheet of paper, the vast stencil left behind across the remainder of the field (A^⟂)—what the Mind experiences as the outer cosmos, objects, and others—is literally **the negative image of the self, cast within the self**. The positive avatar and the negative cosmos arise from the exact same sheet of conscious substrate. The obverse does not reject the reverse; the reverse does not negate the obverse. Their simultaneous presence is not an uneasy compromise, but the geometric prerequisite of the cut itself. The Mind is the living subject that holds the sheet and makes the cut. The boundary (∂A = ∂A^⟂) carries the complete relational geometry of both aspects.
 
 ---
 
 ## 四、 纠正因果错位：超越排中律的活态共存 / 4. Resolving the Causal Mismatch: Beyond Exclusive Negation
 
-形式逻辑在传统上倾向于将矛盾视为相互排斥的零和对抗（A ∧ ¬A = ⊥），将反义项的定义理解为对主项存在的否定与抹杀。这种经典布尔假定构成了理论认知与直觉经验之间的因果错位。
+形式逻辑在传统上倾向于将矛盾视为相互排斥的零和对抗（A ∧ ¬A = ⊥），将反义项的定义理解为对主项存在的否定与抹杀。当心智将这一布尔假定套用于感知世界时，便会误将自身在外部留下的负像视作意图消灭正像的敌对力量。这种经典假定构成了理论认知与直觉经验之间的深层因果错位。
 
-范畴量子力学、线性逻辑（Linear Logic）与双拓扑斯（Bi-Topos）理论展现了更为高阶的几何图景：在态空间的张量结构中，正交补态与原初态共同张成完整的恒等算符（Identity Resolution, |0⟩⟨0| + |1⟩⟨1| = I）。正与反并非生死存亡的消灭关系，而是能量守恒与信息完备的共轭张力。非零边界（Non-Zero Boundary）表明，矛盾并非需要被清除的系统错误，而是边界两侧保持张力、驱动认知不断演化的几何属性。
+范畴量子力学、线性逻辑（Linear Logic）与双拓扑斯（Bi-Topos）理论展现了更为高阶的几何图景：在态空间的张量结构中，正交补态与原初态共同张成完整的恒等算符（Identity Resolution, |0⟩⟨0| + |1⟩⟨1| = I）。正像与负像并非生死存亡的消灭关系，而是能量守恒与信息完备的共轭张力。非零边界（Non-Zero Boundary）表明，矛盾并非需要被清除的系统错误，而是边界两侧保持张力、驱动正负共存与认知演化的活态几何属性。
 
 ```mermaid
 graph TD
     subgraph LivingCoexistence["【超越排中律的活态共存 / Living Coexistence】"]
         direction TB
-        BooleanIllusion["【经典排中律假象】<br>将矛盾误设为非此即彼的零和否定 (A ∧ ¬A = ⊥)"]
+        BooleanIllusion["【经典排中律假象】<br>将负像误设为非此即彼的敌对否定 (A ∧ ¬A = ⊥)"]
         QuantumResolution["【范畴量子态完备性】<br>正交补态共同张成恒等算符 (|0⟩⟨0| + |1⟩⟨1| = I)"]
-        NonZeroBoundary["【非零边界内的平衡】<br>矛盾作为维系系统张力的活态几何属性"]
+        NonZeroBoundary["【非零边界内的平衡】<br>矛盾作为维系正负共存的活态几何张力"]
         BooleanIllusion --> QuantumResolution
         QuantumResolution --> NonZeroBoundary
     end
@@ -110,25 +110,25 @@ graph TD
     style NonZeroBoundary fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
 ```
 
-Formal logic has traditionally treated contradiction as mutually exclusive, zero-sum warfare (A ∧ ¬A = ⊥), misinterpreting the definition of a complement as the active negation and annihilation of the primary term. This classical Boolean presumption introduces a profound causal mismatch between formal models and living intuition.
+Formal logic has traditionally treated contradiction as mutually exclusive, zero-sum warfare (A ∧ ¬A = ⊥), misinterpreting the definition of a complement as the active negation and annihilation of the primary term. When the Mind applies this Boolean dogma to its own experience, it misinterprets the negative image of itself as an external adversary bent on its destruction. This presumption introduces a profound causal mismatch between formal models and living intuition.
 
-Categorical quantum mechanics, linear logic, and bi-topos theory unveil a much higher-dimensional geometric reality: within the tensor architecture of state spaces, orthogonal basis states jointly span the complete resolution of identity (|0⟩⟨0| + |1⟩⟨1| = I). Opposites do not annihilate one another; rather, they form conjugate partners that maintain informational completeness and energetic balance. The presence of non-zero boundaries demonstrates that contradiction is not a logical bug to be eradicated, but the geometric signature of living distinction that drives ongoing evolution.
+Categorical quantum mechanics, linear logic, and bi-topos theory unveil a much higher-dimensional geometric reality: within the tensor architecture of state spaces, orthogonal basis states jointly span the complete resolution of identity (|0⟩⟨0| + |1⟩⟨1| = I). The positive figure and negative ground do not annihilate one another; rather, they form conjugate partners that maintain informational completeness and energetic balance. The presence of non-zero boundaries demonstrates that contradiction is not a logical bug to be eradicated, but the geometric signature of living distinction that sustains coexistence and drives ongoing evolution.
 
 ---
 
-## 五、 距离遗忘症与存在性战争的视差幻觉 / 5. The Parallax of Distance Amnesia and Existential War
+## 五、 距离遗忘症与向自身负像开战的视差幻觉 / 5. Distance Amnesia and the Parallax of Waging War on One's Own Negative Image
 
-当心智沉溺于抽离观察的假象、遗忘自身作为切分制定者的第一人称原点时，认知视差便会滋生出严重的本体论异化。心智在远处凝视自己划出的正反两面，误以为这两者是两个互不相容、在客观世界中互相争夺生存空间的孤立实体。
+当心智沉溺于抽离观察的假象、遗忘自身作为切分制定者的第一人称原点时，认知视差便会滋生出最深刻的本体论悲剧。心智将自身的全部存在感窄化并固化在微缩的正像自我（A）之中，却遗忘了整个感知全景及其所包含的负像（A^⟂）皆由自身原点自指展开。
 
-在距离遗忘症的遮蔽下，互补的几何共生关系被扭曲为零和的生死战争。心智忘记了硬币正在自己的手掌之中，误将反面镜像视作威胁正面存在的敌人。这种错觉诱发了无休止的排他冲动，试图在感知场中抹除一切不合己意的补集成分，却不知抹去反面的那一刻，正面所赖以存在的定义坐标也随之崩解。
+在距离遗忘症的遮蔽下，心智凝视着那片宏大无垠的负像世界，将其误判为一个异己的、充满威胁的客观外在环境。局域的正像自我感到渺小脆弱，遂将自身的负像视作敌人，发起无休止的排他与征服战争。然而，由于正像与负像共用同一道切分边界（∂A = ∂A^⟂），对负像的每一次攻击与压制，都在直接撕裂与扭曲正像自身的轮廓。试图抹除负像的冲动，无异于试图通过磨掉硬币的反面来保全正面，最终只会导致正像赖以立足的参照体系同步崩解。
 
 ```mermaid
 graph TD
-    subgraph ParallaxAmnesia["【距离遗忘与视差冲突 / Parallax of Amnesia】"]
+    subgraph ParallaxAmnesia["【遗忘症与向自身负像开战】"]
         direction TB
-        DetachedAmnesia["【抽离第一人称原点】<br>沉溺于客观俯瞰假象，遗忘自身持币切分"]
-        AlienatedDual["【对立面异化为宿敌】<br>将几何互补镜像误判为威胁生存的外在实体"]
-        ZeroSumWar["【自毁性的排他战争】<br>抹杀补集反面的同时瓦解正面存在的坐标"]
+        DetachedAmnesia["【自指遗忘与局域认同】<br>心智将自身等同于微缩正像，遗忘全场原点"]
+        AlienatedDual["【负像异化为外在强敌】<br>将自身负像看作吞噬局域自我的冷酷宇宙"]
+        ZeroSumWar["【自毁性的排他战争】<br>向自身负像进攻，导致正像边界同步崩塌"]
         DetachedAmnesia --> AlienatedDual
         AlienatedDual --> ZeroSumWar
     end
@@ -138,25 +138,25 @@ graph TD
     style ZeroSumWar fill:#21262d,stroke:#f85149,stroke-width:1px,color:#f85149
 ```
 
-When the Mind succumbs to the illusion of detached observation and forgets its own first-person origin as the author of the cut, cognitive parallax breeds deep ontological alienation. Gazing from an imagined distance at the two faces it has carved, the Mind mistakes them for two separate, hostile entities waging an existential war over territory in an external world.
+When the Mind succumbs to the illusion of detached observation and forgets its first-person origin as the author of the cut, cognitive parallax breeds the deepest ontological tragedy. The Mind contracts its identity entirely into the localized positive avatar (A), forgetting that the entire perceptual panorama and its vast negative imprint (A^⟂) are recursively rendered from its own generative origin.
 
-Under the fog of distance amnesia, the complementary geometric kinship of the cut is distorted into a zero-sum death match. The Mind forgets that the coin rests in its own palm, and mistakes the reverse image for an enemy threatening the survival of the obverse. This delusion fuels relentless exclusionary impulses, driving attempts to purge all opposing complementary elements from the perceptual field—blind to the fact that when the reverse face is obliterated, the coordinate frame defining the obverse collapses along with it.
+Under the fog of distance amnesia, the Mind gazes upon the boundless negative expanse and misidentifies it as an alien, hostile universe. Feeling fragile and trapped inside its miniature avatar, it perceives its own negative image as an existential threat, launching endless campaigns of conquest and defense. Yet because both aspects share the exact same boundary (∂A = ∂A^⟂), every strike against the negative ground directly deforms the contours of the positive figure. The impulse to eradicate the negative image is identical to grinding away the reverse of a coin to preserve the obverse—it inevitably shatters the coordinate system sustaining the self.
 
 ---
 
-## 六、 回归第一人称原点：切分的创生性张力 / 6. The Generative Tension of the First-Person Cut
+## 六、 回归第一人称原点：切分的创生性张力与全景复归 / 6. The Generative Tension of the First-Person Cut: Reclamation of the Whole
 
-唯有回归第一人称原点，心智才能看清对立共存的真实几何。当心智稳固立足于自身的存在原点时，它不再将矛盾视作毁灭性的冲突，而是体认为推动系统保持开放、持续演化的创生性张力。
+消除生存性恐惧与冲突的唯一路径，在于回归第一人称原点，体认切分的完整几何。当心智稳固立足于自身的存在原点时，它不再将广阔的外部世界视作冰冷敌对的他者，而是清晰洞察到：整个宇宙正是自身在自身内部留下的负像。
 
-在这片由非零边界构筑的共存几何中，心智自主作出的每一个抉择、划下的每一道区分，都在赋予自我清晰轮廓的同时，赋予了相伴相生的广阔世界以丰满的意义。心智容纳对立双方的同在，在张力中维持平衡，让知觉与世界在每一瞬的范畴交织中不断新生，走向更为深邃而自由的理解之境。
+在这片由非零边界构筑的共存几何中，正像与负像不再是互相残杀的零和对手，而是不可分割的共轭伴侣。心智自主作出的每一个抉择、划下的每一道区分，都在赋予自我清晰轮廓的同时，赋予了相伴相生的广阔负像世界以丰满的深度。心智容纳正负双方的同在，在张力中维持平衡，让知觉与世界在每一瞬的范畴交织中不断新生，走向更为深邃而自由的理解之境。
 
 ```mermaid
 graph TD
-    subgraph GenerativeTension["【回归原点的创生张力 / Generative Tension】"]
+    subgraph GenerativeTension["【回归原点与全景复归】"]
         direction TB
-        RecognizeCoPresence["【体认切分的双向同在】<br>稳固立足第一人称原点，接纳共存几何"]
-        HoldLivingTension["【容纳对立的活态平衡】<br>在非零边界中保持开放与自主演化张力"]
-        EvolvingReality["【持续新生的认知全景】<br>每一瞬范畴交织中世界与自我共同展开"]
+        RecognizeCoPresence["【体认正负同源共生】<br>领悟宇宙正是自身在自身内部留下的负像"]
+        HoldLivingTension["【容纳共轭张力】<br>在非零边界中保持开放与自主演化"]
+        EvolvingReality["【自主演进的生机现实】<br>每一次切分都在丰富自我与相伴的整个世界"]
         RecognizeCoPresence --> HoldLivingTension
         HoldLivingTension --> EvolvingReality
     end
@@ -166,6 +166,6 @@ graph TD
     style EvolvingReality fill:#21262d,stroke:#39d353,stroke-width:2px,color:#39d353
 ```
 
-Only by returning to the first-person origin can the Mind recognize the true geometry of coexistence. Anchored firmly at its causal locus, the Mind no longer perceives contradiction as destructive conflict, but experiences it as the generative tension that keeps reality open, adaptive, and continuously evolving.
+The only resolution to existential terror and conflict lies in returning to the first-person origin to embrace the complete geometry of the cut. Anchored firmly at its causal locus, the Mind no longer regards the external universe as an alien adversary. It sees with pristine clarity that the entire cosmos is literally its own negative image, held within its own singular experiential space.
 
-Within this geometry of coexistence forged by non-zero boundaries, every sovereign choice and every distinction drawn by the Mind not only confers sharp definition upon the self, but simultaneously enriches the expansive complementary world that arises alongside it. By holding both faces of the cut in living equilibrium, the Mind allows perception and reality to continuously renew themselves across every categorical intersection, unfolding toward ever deeper and more liberating horizons of comprehension.
+Within this geometry of coexistence forged by non-zero boundaries, the positive figure and negative ground are no longer mortal combatants, but inseparable conjugate partners. Every sovereign choice made and every distinction carved by the Mind not only sharpens the definition of the self, but simultaneously enriches the expansive negative landscape that arises alongside it. By holding both aspects in living equilibrium across non-zero boundaries, the Mind allows perception and reality to continuously renew themselves across every categorical intersection, unfolding toward ever deeper and more liberating horizons of comprehension.
