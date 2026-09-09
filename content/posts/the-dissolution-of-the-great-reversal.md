@@ -495,7 +495,7 @@ graph TD
         direction TB
         StatusComparison["【低维人际攀比与虚荣】<br>从“使用工具”退化为“比拼工具”"]
         InfinitePolishing["【日复一日无限“磨刀”】<br>沉迷工具参数，脱离现实创造"]
-        LowDimProjection["【锁死于低维符号投影】<br>遮蔽低维边界外无限维度的自我"]
+        LowDimProjection["【注意力锁死于低维投影 (+1)】<br>心智主动聚焦局部工具而自我遮蔽"]
         ExistentialLost["【现代人的普遍精神迷茫】<br>眼光视而不见，误以为意义丧失"]
         StatusComparison --> InfinitePolishing
         InfinitePolishing --> LowDimProjection
@@ -520,7 +520,7 @@ graph TD
 1. **从“使用工具”异化为“比拼工具”**：人们不再关注是否通过工具更清晰地看清了现实，而是将智能退化为一场“谁拥有最新、最贵、最锋利工具”的军备竞赛。
 2. **无限“磨刀”的逃避仪式**：无数人日复一日地投入真金白银与宝贵精力，疯狂追逐工具的升级——抢购算力设备、订阅最新大模型、考取资质认证、收藏软硬件框架。他们将大量时间耗费在将刀刃磨得越来越光鲜上，却迟迟未曾将这把刀真正切入现实去解决实际问题，或者通过工具看清自己所处世界的真相。工具的打磨一旦与现实脱节，便沦为一种空转的仪式。
 3. **现代迷茫的根源：低维投影与边界遮蔽**：这也正是现代人普遍陷入精神迷茫、找不到生命意义的根本原因。人们将全部目光锁死在低维度的符号投影上（跑分、参数、代币、头衔），沉迷于工具所有权的虚幻充实感，却遗忘了在这些低维边界之外，存在着无限维度的自我与广阔世界。
-4. **内心与外部的镜像同构**：我们的内心世界原本就是外部世界的镜像。意义从未在宇宙中失去，也从未从生命中离席；只是当心智被低维度的工具锁链所遮蔽时，那双慌乱寻找意义的眼光，对眼前活生生的高维现实视而不见。
+4. **内心与外部的镜像同构**：我们的内心世界原本就是外部世界的镜像。意义从未在宇宙中失去，也从未从生命中离席；只是当心智将自身在当下（+1）的注意力锁死在低维度的工具投影上时，便陷入了自我遮蔽——那双慌乱向外寻找意义的眼光，对眼前活生生的高维现实视而不见。
 
 ---
 
@@ -545,7 +545,7 @@ graph TD
         direction TB
         StatusComparison["[Social Comparison & Vanity]<br>Degenerating from using tools to comparing them"]
         InfinitePolishing["[Endless 'Sharpening the Blade']<br>Obsessing over tools disconnected from reality"]
-        LowDimProjection["[Trapped in Low-Dimensional Shadows]<br>Blinded to the infinite-dimensional self"]
+        LowDimProjection["[Attention Locked on Low-Dim Projections (+1)]<br>Mind self-obscures by fixating on tools"]
         ExistentialLost["[The Modern Crisis of Meaning]<br>Searching gaze blind to reality in plain sight"]
         StatusComparison --> InfinitePolishing
         InfinitePolishing --> LowDimProjection
@@ -570,7 +570,7 @@ When dragged into the low-dimensional arena of social status and external compar
 1. **From Utilizing Tools to Competing over Tools**: Attention shifts from seeing reality clearly to an ostentatious contest over "who possesses the latest, sharpest, and most expensive instrument."
 2. **The Infinite Ritual of Tool-Sharpening**: Countless individuals spend hard-earned capital and vital energy compulsively upgrading their arsenals—subscribing to cutting-edge AI models, acquiring high-end hardware, collecting credentials, and hoarding frameworks. Vast amounts of time are spent polishing the blade to a brilliant shine, while rarely using it to cut into living reality, solve a real-world dilemma, or illuminate the structure of their world. When tool-sharpening becomes decoupled from living reality, it devolves into a hollow, self-referential ritual.
 3. **The Root of Modern Existential Confusion**: This inversion is the primary engine behind the pervasive modern crisis of meaning. People feel hollow and disoriented precisely because their gaze is locked onto low-dimensional shadows (benchmark scores, tool specifications, token accounts, credentials). Trapped inside these narrow frames, they forget the boundless, infinite-dimensional self and the open reality extending far beyond the boundary.
-4. **The Mirror of Inner and Outer Reality**: The inner landscape of consciousness is fundamentally the mirror of the external world. Meaning was never lost in the universe, nor has it departed from human life; rather, when the Mind becomes fixated on low-dimensional tools, the very gaze that frantically searches for meaning looks right past the radiant, living reality in plain sight.
+4. **The Mirror of Inner and Outer Reality**: The inner landscape of consciousness is fundamentally the mirror of the external world. Meaning was never lost in the universe, nor has it departed from human life; rather, when the Mind locks its own living attention (+1) onto low-dimensional tool projections, it falls into self-obscuration—causing the frantic, searching gaze to look right past the radiant, living reality in plain sight.
 
 ---
 
