@@ -395,7 +395,14 @@ tr:nth-child(even) {
 }
 
 .about-poem-body p {
-  margin: 0 0 1.1em;
+  margin: 0 0 1.25em;
+}
+
+.about-poem-body em {
+  display: inline-block;
+  color: var(--muted);
+  font-style: italic;
+  margin-top: 0.15em;
 }
 
 .about-poem-body p:last-child {

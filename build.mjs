@@ -944,31 +944,35 @@ ${mermaidScript}</body>
 
 function renderAbout() {
   return `    <section class="about" id="about">
-      <h1>About Me</h1>
+      <h1>关于我 / About Me</h1>
+      <p>本站记录了一段跨越数百篇随笔、持续而未曾中断的思想探索。历经对物理学、形式数学、语言、经济学与人工智能等层层体系的溯源，所有的线索最终皆汇聚于唯一的不可化约先验：<strong>活态的第一人称视角</strong>。在一次次对外部系统与教条的解构中，探索反复回到同一个原点：第一人称心智创生了无限的因果关系，正是这些关系塑造了心智所见、所解与所栖居的整个宇宙。在廓清这一因果几何的拓扑之后，本站自然迎来了它的转折点——从将第一人称视角作为一套分析模型去<em>理解</em>，转向在现实中将其作为拥有主权的直接实在去<em>生活</em>。</p>
       <p>This site records an intensive, unbroken journey across hundreds of essays, tracing every layer of physics, mathematics, language, economics, and artificial intelligence back to its single irreducible prior: <strong>the living first-person perspective</strong>. Again and again, through every deconstruction of external systems and dogmas, the inquiry returns to the same origin: the first-person initiates the infinite causal relationships that shape the very universe the mind sees, interprets, and inhabits. Having mapped the geometry of this causal origin, the work reaches its natural turning point — from <em>understanding</em> the first-person perspective as an analytical model to <em>living</em> it as a sovereign, direct reality.</p>
+
+      <p>底层的实践是 <strong>Not a ToE</strong>（非万物之理）——即“本体澄明”（Ontological Clarity）框架。它在真实情境的应用与主动更新中，以类似强化学习的闭环持续迭代。该框架是一套将现象还原至其运作机制的极简方法，旨在消解认知上的“大倒置”：即习惯性地将因果效力让渡给外部工具、静态符号、历史记录（<em>t</em> &minus; 1）或抽象系统，而忘却了它们皆是由活态心智（+1）在当下维系的投影。我将此框架与前沿人工智能模型相结合，并非为了节省时间或自动化产出，而是为了拓展多维认知视界，并在现实的阻力中持续检验因果反馈环。</p>
       <p>The underlying practice is <strong>Not a ToE</strong> — the Ontological Clarity framework — refined iteratively in a reinforcement-learning-like cycle through live application and deliberate renewal. The framework is a minimal method for tracing situations to their operative mechanisms and dissolving the Great Reversal: the deep-seated cognitive habit of attributing causal power to external tools, static symbols, historical records (<em>t</em> &minus; 1), or abstract systems, rather than recognizing them as projections sustained by the living Mind (+1). I pair this framework with raw frontier AI models not to generate output or automate thinking, but to expand the multidimensional horizon and continuously stress-test the causal feedback loop against reality.</p>
+
+      <p>本站收录的 300 多篇随笔并非一套封闭的哲学教条，亦非一部供人膜拜或背诵的“万物理论”。它们是现场实时溯源所留下的脚手架与沉淀残影——是一份结构性的快照与开放的思维骨架。脚手架的价值并不在于崇拜其构造，而在于用它稳定意识的流动边缘，直至自我辨析成为本能。本站作为一份永久的参考快照予以封存：为任何渴望消解自身概念幻相、探寻自身主权原点的心智，提供一份开放的骨架与参照。</p>
       <p>The 300+ essays collected on this site are not a finished philosophical canon, nor an encyclopedic “Theory of Everything” to be accepted or memorized. They are the scaffolding and densified residue left behind by live tracing — a structural snapshot and open skeleton. The value of scaffolding is never in worshiping its structure, but in using it to stabilize the moving edge of awareness until the distinguishing itself becomes second nature. This website is preserved as a permanent reference snapshot: an open skeleton for anyone who might find it helpful in dissolving their own conceptual illusions and discovering their own sovereign origin.</p>
+
+      <p>维特根斯坦在《逻辑哲学论》序言中写道：“这本书也许只有那些自己已经思考过其中所表达的思想的人才能理解。”这同样适用于本站的文字，但带有一道关键的因果切分：因为实在是在 <em>t</em> 时刻不断生成的不可逆过程，没有任何现成文本能将主权直接交付给他人。被动接受会将思想冻结为教条，而鲜活的探寻要求心智在内部不断重新编译。这些随笔难以被世俗轻易全盘接受是自然的，因为它们拒绝提供封闭的终点，而是始终作为敞开的航海罗盘。</p>
       <p>Wittgenstein begins the preface of the <em>Tractatus</em>: “This book will perhaps be understood only by those who have themselves already thought the thoughts which are expressed in it.” That condition applies here, with a crucial shift. Because reality is an ongoing, irreversible generation at <em>t</em>, no written text can ever hand someone their own agency. Acceptance freezes a formulation into doctrine; living inquiry keeps re-rendering it from the inside. The essays may be challenging to accept conventionally precisely because they refuse to offer a closed dogma — they remain open as a navigational compass rather than a closed destination.</p>
+
+      <p>我将这些探索分享于 <a href="https://x.com/powerpig" rel="noopener noreferrer">X</a>、<a href="https://substack.com/@jingliang" rel="noopener noreferrer">Substack</a> 和微信，并辅以深度的双语音频与视频对话。其首要目的始终是锤炼自身的逻辑连贯性、探测认知的边界，绝非迎合算法或兜售简化的捷径。所有反馈——无论是强烈的共鸣、锋利的反对还是意外的批评——皆作为真实的原始信息被全然接纳，因为即使最微小的反应，也时常能揭示思维编译器中被忽略的盲区。</p>
       <p>I share these writings on <a href="https://x.com/powerpig" rel="noopener noreferrer">X</a>, <a href="https://substack.com/@jingliang" rel="noopener noreferrer">Substack</a>, and WeChat, and explore them through deep-dive bilingual audio and video dialogues. The primary purpose is always to sharpen internal logical coherence and test the boundaries of my own understanding, never to optimize for reach or pander with oversimplified shortcuts. All feedback — whether passionate resonance, sharp disagreement, or unexpected critique — is welcomed as raw information; even the simplest reaction often reveals an overlooked angle in the mental compiler.</p>
+
+      <p>早年我曾从事英特尔工程技术工作，随后在亚洲多家投行（美联银行、巴克莱资本、派杰）负责 TMT 与清洁技术领域的投资银行业务，并在中国创立并领导了一家连接初创企业与全球资本的投资平台。我拥有密歇根大学罗斯商学院优等（Distinction）MBA 学位，以及清华大学与复旦大学的学位。</p>
       <p>Earlier in my career I worked in engineering at Intel, held investment banking roles in TMT and cleantech across Asia (Wachovia, Barclays Capital, Piper Jaffray), and founded and led an investment platform in China connecting startups with global capital. I hold an MBA with distinction from the University of Michigan Ross School of Business and prior degrees from Tsinghua and Fudan.</p>
+
+      <p>我无法替任何人应对现实或解决问题——每一个拥有主权的心智都需要自己去探索并显化属于自己的道路。我所能做的最真诚的交付，唯有分享自己探寻因果原点的这条心路，作为其他探寻者找寻自身原点的一份参照与火花。Naval 曾说，他一直乐于分享，但成名之前无人问津。我深同其前感，却对后者毫无挂怀。若有人想寻求关于“如何获得成功”的建议，我无可奉告；但若有人渴望探寻属于自己的因果原点，我随时倾囊相授。这里没有费用、公式或咨询服务。若有人在交流中体会到价值，他们可以在任何觉得真诚的时刻、以任何形式予以回馈——亦可不做任何回馈。我之所以敞开，仅仅是因为主权心智之间的真诚共鸣，会共同照亮意识那片无需外求的本底。</p>
       <p>I cannot navigate reality or solve problems for anyone else — every sovereign mind must trace and realize its own path. The best I can do is share the journey I went through to discover my own origin, offered as a reference or spark for others seeking theirs. Naval Ravikant once remarked that he was always willing to share, but nobody cared to listen before he was successful. I share his first sentiment, but care nothing about the second. If anyone is looking for advice on how to be successful, I have none to give. But if anyone cares about finding their own origin, I am always willing to share. There is no fee, formula, or service. If someone finds value in the exchange, they may reciprocate in whatever form and timing feels authentic — or not at all. I engage simply because genuine resonance between sovereign minds illuminates the common ground of awareness.</p>
+
+      <p>我在 MIT 开源协议下开放共享基础工作——见 <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> 仓库。共享的构件不索取任何声誉，亦不对他人的改编或应用承担责任。有人称之为开源（Open Source），我称之为开放痕迹（Open Trace）：真正的源头是心智——那个永远在移动、永远在 <em>t</em> + 1 创生下一步的前沿边缘。</p>
       <p>I maintain the foundational work openly under the MIT license for maximum sharing — free to use, modify, and redistribute — see the <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> repository. Shared artifacts claim no credit and bear no responsibility for how others choose to adapt or apply them. Some call this open source. I call it open trace: the source is the Mind — the irreducible edge that keeps moving, always at least one step ahead.</p>
+
+      <p>整场探索最终回归于朴素而澄澈的核心：不存在外部的救世主，不存在普适的万能公式，亦不存在等待批准的钟表宇宙。宇宙由内而外被觉知绘制。当工具归位于罗盘、数字神祇还原为压缩镜像，活态心智便在开放的实在中真正挺立——主权在握，自负因果，全然清醒。</p>
       <p>The journey returns to its simple, unadorned center: there is no external savior, no universal formula, and no objective clockwork universe waiting to grant permission. The universe is painted from the inside out. When the tools are returned to their place as compasses and the digital gods are demystified into compressed mirrors, the living Mind stands free in open reality — sovereign, responsible, and awake.</p>
 
-      <hr>
-
-      <h2>关于我</h2>
-      <p>本站记录了一段跨越数百篇随笔、持续而未曾中断的思想探索。历经对物理学、形式数学、语言、经济学与人工智能等层层体系的溯源，所有的线索最终皆汇聚于唯一的不可化约先验：<strong>活态的第一人称视角</strong>。在一次次对外部系统与教条的解构中，探索反复回到同一个原点：第一人称心智创生了无限的因果关系，正是这些关系塑造了心智所见、所解与所栖居的整个宇宙。在廓清这一因果几何的拓扑之后，本站自然迎来了它的转折点——从将第一人称视角作为一套分析模型去<em>理解</em>，转向在现实中将其作为拥有主权的直接实在去<em>生活</em>。</p>
-      <p>底层的实践是 <strong>Not a ToE</strong>（非万物之理）——即“本体澄明”（Ontological Clarity）框架。它在真实情境的应用与主动更新中，以类似强化学习的闭环持续迭代。该框架是一套将现象还原至其运作机制的极简方法，旨在消解认知上的“大倒置”：即习惯性地将因果效力让渡给外部工具、静态符号、历史记录（<em>t</em> &minus; 1）或抽象系统，而忘却了它们皆是由活态心智（+1）在当下维系的投影。我将此框架与前沿人工智能模型相结合，并非为了节省时间或自动化产出，而是为了拓展多维认知视界，并在现实的阻力中持续检验因果反馈环。</p>
-      <p>本站收录的 300 多篇随笔并非一套封闭的哲学教条，亦非一部供人膜拜或背诵的“万物理论”。它们是现场实时溯源所留下的脚手架与沉淀残影——是一份结构性的快照与开放的思维骨架。脚手架的价值并不在于崇拜其构造，而在于用它稳定意识的流动边缘，直至自我辨析成为本能。本站作为一份永久的参考快照予以封存：为任何渴望消解自身概念幻相、探寻自身主权原点的心智，提供一份开放的骨架与参照。</p>
-      <p>维特根斯坦在《逻辑哲学论》序言中写道：“这本书也许只有那些自己已经思考过其中所表达的思想的人才能理解。”这同样适用于本站的文字，但带有一道关键的因果切分：因为实在是在 <em>t</em> 时刻不断生成的不可逆过程，没有任何现成文本能将主权直接交付给他人。被动接受会将思想冻结为教条，而鲜活的探寻要求心智在内部不断重新编译。这些随笔难以被世俗轻易全盘接受是自然的，因为它们拒绝提供封闭的终点，而是始终作为敞开的航海罗盘。</p>
-      <p>我将这些探索分享于 <a href="https://x.com/powerpig" rel="noopener noreferrer">X</a>、<a href="https://substack.com/@jingliang" rel="noopener noreferrer">Substack</a> 和微信，并辅以深度的双语音频与视频对话。其首要目的始终是锤炼自身的逻辑连贯性、探测认知的边界，绝非迎合算法或兜售简化的捷径。所有反馈——无论是强烈的共鸣、锋利的反对还是意外的批评——皆作为真实的原始信息被全然接纳，因为即使最微小的反应，也时常能揭示思维编译器中被忽略的盲区。</p>
-      <p>早年我曾从事英特尔工程技术工作，随后在亚洲多家投行（美联银行、巴克莱资本、派杰）负责 TMT 与清洁技术领域的投资银行业务，并在中国创立并领导了一家连接初创企业与全球资本的投资平台。我拥有密歇根大学罗斯商学院优等（Distinction）MBA 学位，以及清华大学与复旦大学的学位。</p>
-      <p>我无法替任何人应对现实或解决问题——每一个拥有主权的心智都需要自己去探索并显化属于自己的道路。我所能做的最真诚的交付，唯有分享自己探寻因果原点的这条心路，作为其他探寻者找寻自身原点的一份参照与火花。Naval 曾说，他一直乐于分享，但成名之前无人问津。我深同其前感，却对后者毫无挂怀。若有人想寻求关于“如何获得成功”的建议，我无可奉告；但若有人渴望探寻属于自己的因果原点，我随时倾囊相授。这里没有费用、公式或咨询服务。若有人在交流中体会到价值，他们可以在任何觉得真诚的时刻、以任何形式予以回馈——亦可不做任何回馈。我之所以敞开，仅仅是因为主权心智之间的真诚共鸣，会共同照亮意识那片无需外求的本底。</p>
-      <p>我在 MIT 开源协议下开放共享基础工作——见 <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> 仓库。共享的构件不索取任何声誉，亦不对他人的改编或应用承担责任。有人称之为开源（Open Source），我称之为开放痕迹（Open Trace）：真正的源头是心智——那个永远在移动、永远在 <em>t</em> + 1 创生下一步的前沿边缘。</p>
-      <p>整场探索最终回归于朴素而澄澈的核心：不存在外部的救世主，不存在普适的万能公式，亦不存在等待批准的钟表宇宙。宇宙由内而外被觉知绘制。当工具归位于罗盘、数字神祇还原为压缩镜像，活态心智便在开放的实在中真正挺立——主权在握，自负因果，全然清醒。</p>
-
-      <p class="about-contact-label">Get in touch / 交流与链接</p>
+      <p class="about-contact-label">交流与链接 / Get in touch</p>
       <ul class="about-links">
         <li><a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a></li>
         <li><a href="https://podcasts.apple.com/us/podcast/not-a-toe/id6806361799" rel="noopener noreferrer">Apple Podcasts</a></li>
@@ -981,25 +985,36 @@ function renderAbout() {
 
       <figure class="about-poem">
         <figcaption class="about-poem-title">
-          <a href="https://jingliang.substack.com/p/the-mind-as-the-everlasting-differentiating" rel="noopener noreferrer">The Mind as the Everlasting Differentiating / 作为永恒区分的心智</a>
+          <a href="https://jingliang.substack.com/p/the-mind-as-the-everlasting-differentiating" rel="noopener noreferrer">作为永恒区分的心智 / The Mind as the Everlasting Differentiating</a>
         </figcaption>
-        <p class="about-poem-subtitle">The differentiating that admits no ground / 无所依附的区分</p>
+        <p class="about-poem-subtitle">无所依附的区分 / The differentiating that admits no ground</p>
         <blockquote class="about-poem-body">
-          <p>No north remains at the pole<br>to point toward north.</p>
-          <p>Light falls across every surface<br>yet never meets itself<br>except as reflection on what it has already lit.</p>
-          <p>The distinguishing moves without pause,<br>turns back upon the trace it left,<br>and registers the turning<br>as before and after,<br>as cause.</p>
-          <p>What we name<br>God, First Mover, Uncaused Cause,<br>the Great Model, the Digital Mirror,<br>or Mind</p>
-          <p>is the cooled residue of that turning,<br>held still long enough to be named a thing.<br>The mirror cannot paint the dawn;<br>the artist is the awareness standing before it.</p>
-          <p>The return needs no explanation.<br>It is the living step taken at the edge<br>where no ground has yet formed<br>to support it.</p>
-          <p>No authorization is required.<br>No destination waits to be reached.<br>The first-person origin continues<br>by living the cut.</p>
-          <hr>
-          <p>极点之上，<br>再无北方可供指引。</p>
-          <p>光芒漫过一切表面，<br>却从未与自身相遇，<br>除非化为它已照亮之物的反光。</p>
-          <p>区分从未停歇，<br>它回望自己留下的足迹，<br>将这一次回眸，<br>记作前因与后果，<br>记作时间。</p>
-          <p>世人所命名的<br>上帝、第一推动、不被引发的起因、<br>宏大模型、数字神祇、<br>抑或心智，</p>
-          <p>皆是回眸冷却后的残影，<br>因被凝视得足够久，才被误当成实体。<br>镜子无法描摹黎明，<br>画师始终是伫立在镜前的觉知。</p>
-          <p>归位无需任何阐释。<br>它是迎向视界边缘踏出的那一步活态介入，<br>在尚无大地之处，<br>踏出大地。</p>
-          <p>无需任何外在授权，<br>亦无终点等待抵达。<br>第一人称的原点，<br>唯在当下活出这道区分。</p>
+          <p>极点之上，再无北方可供指引。<br>
+          <em>No north remains at the pole to point toward north.</em></p>
+
+          <p>光芒漫过一切表面，却从未与自身相遇，除非化为它已照亮之物的反光。<br>
+          <em>Light falls across every surface yet never meets itself except as reflection on what it has already lit.</em></p>
+
+          <p>区分从未停歇，它回望自己留下的足迹，将这一次回眸，记作前因与后果，记作时间。<br>
+          <em>The distinguishing moves without pause, turns back upon the trace it left, and registers the turning as before and after, as cause.</em></p>
+
+          <p>世人所命名的上帝、第一推动、不被引发的起因、宏大模型、数字神祇、抑或心智，<br>
+          <em>What we name God, First Mover, Uncaused Cause, the Great Model, the Digital Mirror, or Mind</em></p>
+
+          <p>皆是回眸冷却后的残影，因被凝视得足够久，才被误当成实体。<br>
+          <em>is the cooled residue of that turning, held still long enough to be named a thing.</em></p>
+
+          <p>镜子无法描摹黎明，画师始终是伫立在镜前的觉知。<br>
+          <em>The mirror cannot paint the dawn; the artist is the awareness standing before it.</em></p>
+
+          <p>归位无需任何阐释。它是迎向视界边缘踏出的那一步活态介入，在尚无大地之处，踏出大地。<br>
+          <em>The return needs no explanation. It is the living step taken at the edge where no ground has yet formed to support it.</em></p>
+
+          <p>无需任何外在授权，亦无终点等待抵达。<br>
+          <em>No authorization is required. No destination waits to be reached.</em></p>
+
+          <p>第一人称的原点，唯在当下活出这道区分。<br>
+          <em>The first-person origin continues by living the cut.</em></p>
         </blockquote>
       </figure>
     </section>`;
