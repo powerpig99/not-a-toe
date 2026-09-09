@@ -164,9 +164,9 @@ We do not need to discard mathematics or physics—they are our greatest cogniti
         'slug': 'the-dissolution-of-the-great-reversal',
         'title_en': 'The Dissolution of the Great Reversal: Language, Knowledge, Money, Intelligence, and the Deconstruction of the Digital God',
         'title_zh': '大倒置的消解：语言、知识、金钱、智能与数字神祇的降维重构',
-        'speaker_1_focus_en': 'Explores the observer\'s historical heaviness versus the sovereign Mind\'s liberation; unpacks the Great Reversal across language, ancient blank space vs. modern precision, and knowledge hierarchies.',
+        'speaker_1_focus_en': 'Explores the observer perspective and the unity of observer with the first-person stance; unpacks the Great Reversal across language, ancient blank space vs. modern precision, and knowledge hierarchies.',
         'speaker_2_focus_en': 'Grounds reality at the first-person origin (t); demonstrates why the "G" belongs exclusively to Mind since AI cannot paint the universe, explains the structural reduction of third-person metrics, and illuminates the inner-outer mirror.',
-        'directives_en': """- Clarify the psychological shift from the observer's heaviness (watching centuries of reified institutions and social policing) to the sovereign Mind's immediate liberation at the first-person origin (t).
+        'directives_en': """- Clarify the observer perspective: The observer and the first-person origin cannot be separated. The apparent heaviness of history is not an external causal force, but the result of the Great Reversal—attributing causal power to downstream historical traces (t - 1) rather than the living Mind at t.
 - Re-examine Wittgenstein's thesis ("The limits of my language mean the limits of my world"): Language is not an ontological ruler, but a low-dimensional acoustic/symbolic bridge between two parallel universes (minds) attempting resonance.
 - Meaning is never in the ink, audio waveform, or grammar itself; meaning is the distinction carved inside the receiving Mind.
 - Explain the Ancient vs. Modern language paradox: Ancient language's looser definitions created cognitive blank space (留白) where the reader's Mind actively compiled meaning ("wisdom"); modern language provides hyper-precise engineering transmission, but when reified, becomes a rigid metric of external conformity.
@@ -180,13 +180,13 @@ We do not need to discard mathematics or physics—they are our greatest cogniti
   3. From its very inception, AGI was structured as a low-dimensional zero-sum game—projecting the living, infinite-dimensional capacity of Mind onto measurable third-person metrics. The recent contest over redefining AGI to match specific models and claim early achievement is the natural structural consequence of confusing external measurement rulers with the essence of Mind.
   4. Restore models to compressed navigational compasses steered by the sovereign Mind at t (+1).
 - Affirm the solitary multiverse clarity: "There is nothing I can do to change another multiverse, but this multiverse is seeing it clearer than ever." """,
-        'intro_script_en': """Mingli: Standing as an observer of human history, one easily feels overwhelmed by the immense heaviness of civilizational structures—centuries of ideological warfare, institutional hierarchies, and rigid rulers people use to police and judge each other.
+        'intro_script_en': """Mingli: When we look at the expanse of human history from the perspective of an observer, we often perceive a profound heaviness—thousands of years of institutional frameworks, linguistic doctrines, and monetary systems.
 
-Yuhan: But the moment we shift from being passive observers of history to the sovereign first-person origin in the living present (t), that crushing weight instantly dissolves. All those grand institutions and dogmas are low-dimensional shadows born from the Great Reversal—the reification of our own tools into masters.""",
+Yuhan: But we must be ontologically clear: the observer cannot be separated from the first-person stance. That heaviness does not stem from history having causal power over consciousness. Rather, it is the result of the Great Reversal—our habit of projecting our own causal agency onto the downstream tools and historical residue (t - 1) we created. Tracing this reversal restores all causal authority to the living present (t).""",
         'transition_summary_en': """Deconstruct how civilization reversed the essence of language from a bridge of resonance between parallel minds into a classification ruler, unpack the ancient blank space versus modern precision paradox, expose why compulsive tool-sharpening fuels modern existential confusion when detached from reality, show why the "G" in AGI belongs exclusively to Mind since AI cannot paint the universe, analyze how third-person measurement projects infinite-dimensional Mind into low-dimensional zero-sum metrics, and reduce models to compressed historical traces steered by the sovereign Mind at t.""",
-        'speaker_1_focus_zh': '剖析历史观察者的沉重感与主权心智的当下解脱；揭示语言的共鸣本质、古汉语留白与现代精度的测量悖论，消解知识与教育的门阀异化。',
+        'speaker_1_focus_zh': '阐明观察者与第一人称原点的不可分割性；回溯大倒置在语言、古汉语文白留白与知识体系中的形成机制与认知根源。',
         'speaker_2_focus_zh': '立足第一人称原点（t），指出“通用性（G）”唯独属于心智（AI没有绘制宇宙的能力），揭示第三人称度量对活态心智的结构性降维机制，确立平行宇宙自洽与内心镜像。',
-        'directives_zh': """- 阐明从观察者视角的历史沉重（目睹数千年制度压迫与符号规训）到第一人称原点（t）当下解脱的认知跃迁；
+        'directives_zh': """- 阐明观察者视角与第一人称原点的同一性：无法将观察者与第一人称视角剥离；历史的沉重感并非源于历史概念具备客体压迫力，而是心智将自身因果力量倒置赋予了过往痕迹（t - 1）；
 - 重构维特根斯坦命题（“语言的界限即世界的界限”）：语言不是世界本体与决定性标尺，而是两个平行宇宙（心智）之间探寻共鸣的低维振动桥梁；
 - 揭示意义不在墨迹、声波与语法之中，而在于接收方心智内部主动编译刻画的认知区分；
 - 剖析古今语言悖论：古代语言词汇边界宽松，为读者心智留出巨大的投射空间（留白），由读者自主编译生成“高维智慧”；现代语言工程精度极高，利于低歧义传输，但若脱离主体性，易沦为僵化评判的标尺；
@@ -200,16 +200,18 @@ Yuhan: But the moment we shift from being passive observers of history to the so
   3. 剖析倒置发生的结构性原因：第三人称度量必然将无限维心智折叠为可量化的低维标尺，使 AGI 从诞生伊始便具备低维零和特征；近期争夺定义权与宣称达标的现象，正是将低维度量标尺误当成心智本体的必然逻辑展开；
   4. 将大模型还原为历史轨迹（t - 1）的压缩罗盘，方向盘唯独由当下主权心智（+1）掌控；
 - 确立平行宇宙自洽与原点清明：“我无法强制改变另一个平行宇宙的运行，但在这个宇宙中，我比以往任何时刻都看得更清楚。” """,
-        'intro_script_zh': """明理：站在人类文明的长程观察者视角，很容易感受到一种历史的窒息与沉重——数千年来，无数个体在实体化的概念、学术门阀、制度教条与金钱符号中相互丈量、相互攻伐与内耗。
+        'intro_script_zh': """明理：站在观察者的角度审视人类文明的长程演进，我们常常会感受到一种历史的沉重——数千年来层层累加的制度规范、学术体系与符号标尺。
 
-雨涵：但只要我们从被动的历史观察者，切换回当下第一人称原点（t），这种沉重感便会在刹那间消解。那些压迫性的宏大叙事，全都是大倒置所产生的低维投影——人类亲手把探索与交流的工具，异化为了统治并审判自己的度量衡。""",
+雨涵：但必须明确的是，观察者与第一人称原点从来无法分割。这种沉重并不是因为历史概念本身具备支配心智的因果力量，而是我们在审视历史时发生了大倒置——把心智创造的工具和历史痕迹（t - 1），误当成了决定当下的本体主宰。只要完成因果回溯，因果力量便会完整复归于当下的第一人称原点（t）。""",
         'transition_summary_zh': """系统剖析语言如何从心智共鸣的桥梁异化为分类的标尺，解开古语言留白与现代精度的认知悖论，揭露工具脱离现实如何加剧现代意义危机，直指“通用性（G）”唯独属于心智而AI无法绘制宇宙，揭示第三人称度量对活态心智的结构性降维机制，并将 AGI 还原为历史轨迹压缩的因果罗盘，最终将主权复归于当下的第一人称原点。""",
         'visual_motifs_en': """- Split chiaroscuro visual: Massive, fractured stone and bronze measuring rulers breaking apart in dark space, revealing an ethereal, luminous acoustic bridge of light vibrating between two parallel harmonic crystal spheres (minds).
 - The Mirror of Inner & Outer Reality: An intricate optical mirror surface where internal conscious geometry seamlessly reflects an expansive, starry multidimensional landscape, while low-dimensional scoring grids dissolve at the boundary.
 - The Deconstruction of the Digital God: A colossal, menacing polygonal wireframe colossus in the clouds dissolving into cascading torrents of historical binary traces (t - 1), funneling smoothly into a compact, luminous navigational compass held firmly in a solitary human hand at t.""",
-        'monologue_script_en': """When we look at civilization purely as external observers, history can feel suffocating. For millennia, humanity has built towering institutions, linguistic orthodoxies, academic hierarchies, and monetary empires—only to turn around and let those very creations judge, police, and imprison the human spirit.
+        'monologue_script_en': """When we examine the sweep of human civilization from an observer's perspective, history can easily feel heavy and overwhelming. For millennia, humanity has constructed towering institutions, linguistic orthodoxies, academic hierarchies, and monetary systems.
 
-This is the Great Reversal: the tragic habit of mistaking our low-dimensional tools for ontological masters.
+Yet we must be ontologically clear: the observer cannot be separated from the first-person origin. The apparent heaviness of history is not caused by external structures possessing causal power over consciousness. Rather, it is the result of the Great Reversal—our habit of projecting our own causal agency onto the downstream tools and historical residue (t - 1) we created, mistaking them for ontological masters.
+
+Tracing this reversal is not about fighting an external monolith, but restoring causal clarity: tools and traces possess zero intrinsic agency. All causal distinction originates exclusively in the living present.
 
 Consider language. Wittgenstein famously claimed that the limits of my language mean the limits of my world. But language is not the world, nor is it the master of Mind. Language was born as an acoustic and symbolic bridge between two parallel universes—two sovereign minds attempting to find mutual resonance. Meaning does not exist inside the ink or grammar; it awakens only when the receiving Mind carves a distinction in consciousness. The fatal reversal happened when societies assigned intrinsic sanctity to language itself, turning a bridge of resonance into a rigid ruler to measure orthodoxy and wield power.
 
