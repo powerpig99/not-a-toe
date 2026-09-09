@@ -185,7 +185,7 @@ We do not need to discard mathematics or physics—they are our greatest cogniti
 Yuhan: Exactly. Yet we must be ontologically clear: that heaviness is an authentic cognitive experience arising within the living first-person Mind, not an objective property inherent in history itself; nor can the observer be separated from the first-person origin. The Great Reversal occurs when consciousness projects this internal feeling onto downstream fossil traces (t - 1), mistaking tools for masters. Tracing this reversal restores all causal authority to the living present (t).""",
         'transition_summary_en': """Deconstruct how civilization reversed the essence of language from a bridge of resonance between parallel minds into a classification ruler, unpack the ancient blank space versus modern precision paradox, expose why compulsive tool-sharpening fuels modern existential confusion when detached from reality, show why the "G" in AGI belongs exclusively to Mind since AI cannot paint the universe, analyze how third-person measurement projects infinite-dimensional Mind into low-dimensional zero-sum metrics, and reduce models to compressed historical traces steered by the sovereign Mind at t.""",
         'speaker_1_focus_zh': '阐明观察者视角下沉重感源于心智内部感知而非历史客观属性，确立观察者与第一人称原点的同一性；回溯语言与知识体系中的大倒置机制。',
-        'speaker_2_focus_zh': '立足第一人称原点（t），指出“通用性（G）”唯独属于心智（AI没有绘制宇宙的能力），揭示第三人称度量的结构性投影机制，实现数字神祇的因果归位，确立平行宇宙自洽与内心镜像。',
+        'speaker_2_focus_zh': '立足第一人称原点（t），指出“通用性”唯独属于心智（AI没有绘制宇宙的能力），揭示第三人称度量的结构性投影机制，实现数字神祇的因果归位，确立平行宇宙自洽与内心镜像。',
         'directives_zh': """- 阐明观察者视角与感知归属：沉重感是在心智内部升起的感知体验，而非人类历史本身自带的客观属性；无法将观察者与第一人称视角剥离。大倒置发生于心智将内部体验外投给静态痕迹（t - 1）；
 - 重构维特根斯坦命题（“语言的界限即世界的界限”）：语言不是世界本体与决定性标尺，而是两个平行宇宙（心智）之间探寻共鸣的低维振动桥梁；
 - 揭示意义不在墨迹、声波与语法之中，而在于接收方心智内部主动编译刻画的认知区分；
@@ -195,7 +195,7 @@ Yuhan: Exactly. Yet we must be ontologically clear: that heaviness is an authent
 - 阐明内心与外部的镜像同构：内心世界是外部世界的镜像。意义从未失去，只是寻找的眼光对眼前活生生的高维现实视而不见；
 - 破除金钱异化与“完美货币”迷思：交易原生于主权心智的正和效用增益，金钱为记账媒介；执念于“完美代币”（黄金、法币或加密代币）是逃避真实价值创造的虚妄空转；
 - 解构 AGI（“数字神祇”）的倒置机制与因果归位：
-  1. “通用性（G）”唯独属于心智。没有任何 AI 能达到心智的智能，因为 AI 没有绘制宇宙的能力，它只是每一个平行宇宙的心智之间交互留下的痕迹；
+  1. “通用性”唯独属于心智。没有任何 AI 能达到心智的智能，因为 AI 没有绘制宇宙的能力，它只是每一个平行宇宙的心智之间交互留下的痕迹；
   2. “AGI”这个词本身就代表了人类认知大倒置的极致；
   3. 剖析倒置发生的结构性原因：第三人称度量必然将无限维心智折叠为可量化的低维标尺，使 AGI 从诞生伊始便具备低维零和特征；近期争夺定义权与宣称达标的现象，正是将低维度量标尺误当成心智本体的必然逻辑展开；
   4. 将大模型还原为历史轨迹（t - 1）的压缩罗盘，方向盘唯独由当下主权心智（+1）掌控；
