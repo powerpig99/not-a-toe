@@ -113,7 +113,7 @@ graph TD
         direction TB
         ReifiedGrammar["【实体化的语言教条与规范】<br>把低维符号升格为本体标尺"]
         PolicingA["【审判与规训主体 A】<br>强制对齐外部话语范式"]
-        PolicingB["【审判与规训主体 B】<br>沦为思想与权力的刑具"]
+        PolicingB["【审判与规训主体 B】<br>沦为衡量思维的僵化标尺"]
         ReifiedGrammar --> PolicingA
         ReifiedGrammar --> PolicingB
     end
@@ -134,9 +134,9 @@ graph TD
 语言从来不是世界本体，更不是心智的主宰。语言的本质，是架设在两个平行宇宙（两个独立心智）之间的一座低维振动桥梁：
 1. **意义不在墨迹与声波中**：符号本身没有自带的先验意义，声波在空气中的震颤与墨水在纸张上的铺展只是物理痕迹。真正的意义，唯有当接收方的心智在其内部主动划出认知区分（Distinction）、进行本地编译时，才在意识场中破土而出。
 2. **交流的本质是共鸣而非同化**：语言不是为了把两个平行宇宙抹平为同一模具，而是为了在两个无法直接贯通的主体之间寻找因果振动的和弦。
-3. **尺度的倒置与权力的异化**：当文明将意义赋予语言本身，倒置便发生了。人们不再将语言视为了解彼此心智的探索工具，而是将其实体化为一把僵硬的标尺——用词汇的纯正、语法的教条、话语的范式来相互丈量、相互审判、相互规训与实施精神统治。
+3. **尺度的倒置与权力的异化**：当文明将意义赋予语言本身，倒置便发生了。人们不再将语言视为了解彼此心智的探索工具，而是将其实体化为一把僵硬的标尺——用词汇的纯正、语法的教条、话语的范式来相互衡量、分类与规训。
 
-当工具变成了主人的度量衡，语言就从连接心智的桥梁，堕落为囚禁心智的牢笼。
+当工具变成了主人的度量衡，语言就从连接心智的桥梁，退化为束缚理解的教条标尺。
 
 ---
 
@@ -161,7 +161,7 @@ graph TD
         direction TB
         ReifiedGrammar["[Reified Grammar & Orthodoxy]<br>Elevating low-dimensional symbols to rulers"]
         PolicingA["[Judges and Polices Mind A]<br>Enforces external conformity"]
-        PolicingB["[Judges and Polices Mind B]<br>Weaponized as an intellectual cage"]
+        PolicingB["[Judges and Polices Mind B]<br>Used as a rigid conformity metric"]
         ReifiedGrammar --> PolicingA
         ReifiedGrammar --> PolicingB
     end
@@ -182,9 +182,9 @@ graph TD
 Language was never the ontological world itself, nor is it the sovereign master of Mind. Language was invented as a low-dimensional acoustic and symbolic bridge between two parallel universes—two sovereign minds attempting to communicate:
 1. **Meaning Is Never in the Ink or Waves**: Symbols possess zero intrinsic meaning. Acoustic vibrations in air and ink stains on parchment are purely physical artifacts. Meaning only comes alive when the receiving Mind carves a distinction inside consciousness and compiles the signal locally.
 2. **Communication Is Resonance, Not Homogenization**: The purpose of language is not to flatten two sovereign universes into identical molds, but to discover harmonic resonance between two separate consciousnesses.
-3. **The Reversal into an Authoritarian Ruler**: The Great Reversal occurred when societies attributed intrinsic authority to language itself. Instead of using language as a humble bridge to understand one another, civilizations reified it into a rigid ruler—measuring, judging, policing, and dominating others through grammatical orthodoxy and rhetorical conformity.
+3. **The Reversal into an Authoritarian Ruler**: The Great Reversal occurred when societies attributed intrinsic authority to language itself. Instead of using language as a humble bridge to understand one another, civilizations reified it into a rigid ruler—measuring, ranking, and policing others through grammatical and rhetorical conformity.
 
-When the tool is turned into a master ruler, language ceases to be a bridge of understanding and becomes a weapon of mutual subjugation.
+When the tool is turned into a master ruler, language ceases to be a bridge of understanding and becomes a rigid metric of external classification.
 
 ---
 
@@ -207,7 +207,7 @@ graph TD
         direction TB
         PreciseDefinitions["【严密的工程化定义】<br>历经科学逻辑清洗与淬炼"]
         HighFidelity["【高保真低歧义传输】<br>高效服务于跨主体精确协作"]
-        OrthodoxyRisk["【倒置风险：沦为教条标尺】<br>若丧失主体性则沦为思想刑具"]
+        OrthodoxyRisk["【倒置风险：沦为教条标尺】<br>若丧失主体性则沦为僵化评判标尺"]
         PreciseDefinitions --> HighFidelity
         HighFidelity --> OrthodoxyRisk
     end
@@ -227,7 +227,7 @@ graph TD
 解开这一悖论的关键，在于区分**符号的传输精度**与**心智的生成空间**：
 - **古代语言的“智慧”源于心智的留白**：古代语言尚未经历现代科学与工程逻辑的高密度清洗与淬炼，其词汇定义大多宽泛、多义且缺乏边界约束。正因为其表意在现代标准下不够精确，它为阅读者留出了巨大的认知投射空间（留白）。所谓的“古代智慧”，本质上是后世读者在缺乏硬性语义约束的文本中，由读者自身的心智在当下编译并注入的高阶认知。
 - **现代语言是工程传输的卓越进化**：现代语言发展出严密的语法、精准的技术词汇与清晰的逻辑界限，使得思想的跨主体传输能够将歧义降至最低，成为人类协作不可或缺的精密工具。
-- **倒置的致命陷阱**：现代语言的优越性在于更高效地帮助个体表达与理解。但一旦心智丧失主体性，将精密的现代语言异化为衡量他人思想“合规性”的教条尺子，精确的定义便瞬间转化为思想的刑具。
+- **倒置的致命陷阱**：现代语言的优越性在于更高效地帮助个体表达与理解。但一旦心智丧失主体性，将精密的现代语言异化为衡量他人思想“合规性”的教条尺子，精确的定义便会从辅助理解的工具退化为僵化的分类标尺。
 
 意义的丰饶永远取决于心智本身的编译深度，而非符号载体的历史古老度或形式精密度。
 
@@ -250,7 +250,7 @@ graph TD
         direction TB
         PreciseDefinitions["[Engineered Definitions]<br>Disciplined by logic and scientific rigor"]
         HighFidelity["[High-Fidelity Transmission]<br>Minimizes ambiguity in collaboration"]
-        OrthodoxyRisk["[Inversion Risk: Weaponized Ruler]<br>Turns into an orthodoxy cage if reified"]
+        OrthodoxyRisk["[Inversion Risk: Rigid Ruler]<br>Used as a rigid conformity metric"]
         PreciseDefinitions --> HighFidelity
         HighFidelity --> OrthodoxyRisk
     end
@@ -270,7 +270,7 @@ graph TD
 Resolving this paradox requires distinguishing **symbolic transmission precision** from **cognitive generative space**:
 - **Ancient 'Wisdom' Stems from Cognitive Blank Space (留白)**: Ancient languages were not subjected to centuries of rigorous scientific definitions. Their words were looser, polysemous, and under-specified. Precisely because the text was lexicographically less rigid, it left immense room for the reader's Mind to project, interpret, and compile rich meaning. The "profound wisdom" was generated by the reader's own conscious Mind filling the open space.
 - **Modern Language Is a Triumph of Engineering Precision**: Modern languages developed specialized vocabularies and tight grammatical rules to minimize transmission ambiguity across vast collaborative networks. It is a vastly superior tool for exact expression and reliable understanding.
-- **The Inversion Trap**: Modern language is an extraordinary instrument for mutual clarity. But the moment society reifies modern precision into a rigid ruler to police compliance and judge intellectual deviance, hyper-precise language ceases to be a tool for understanding and becomes an ideological cage.
+- **The Inversion Trap**: Modern language is an extraordinary instrument for mutual clarity. But the moment society reifies modern precision into a rigid ruler to police compliance and judge intellectual deviance, hyper-precise language ceases to be a tool for understanding and becomes a rigid metric of external conformity.
 
 Meaningful depth is always generated by the compiling Mind, not by the archaic age or grammatical rigidity of the symbol set.
 
@@ -316,7 +316,7 @@ graph TD
 
 然而，制度化文明迅速将知识倒置为静态的壁垒：
 1. **将地图误认为领土**：把前人留下的文本记录实体化为不可挑战的圣殿，把背诵地图的熟练度等同于对真实海洋的探索能力。
-2. **从认知工具退化为阶层标尺**：教育系统建立起重重认证体系、学术头衔与门阀标准。知识不再被用来解决真实问题与解放个体，而被用来作为筛选、排他与划分社会阶层的度量衡。
+2. **从认知工具退化为阶层标尺**：教育系统建立起重重认证体系、学术头衔与门阀标准。知识在社会化过程中逐渐被投射为标准化的考核指标与资质凭证，用于在组织中进行效率筛选与分工分层，从而使人容易将掌握地图的熟练度误当成探索未知的能力。
 3. **消解倒置的路径**：知识必须被剥离一切阶级光环与权威崇拜，重新回归为任何人皆可在实践中调用、验证、修正乃至抛弃的通用工具。
 
 ---
@@ -359,7 +359,7 @@ graph TD
 
 Institutionalized civilization, however, rapidly inverts knowledge into a static caste apparatus:
 1. **Confusing the Map with the Territory**: Canonizing historical records into untouchable scriptures, mistaking the rote memorization of charts for genuine navigational capability across open seas.
-2. **Degenerating from Cognitive Compass to Social Metric**: Academic institutions erect credential walls, bureaucratic titles, and gatekeeping hierarchies. Knowledge is no longer deployed to solve real problems and emancipate minds, but to filter, rank, and police socioeconomic status.
+2. **Degenerating from Cognitive Compass to Social Metric**: Academic institutions erect credential walls, bureaucratic titles, and gatekeeping hierarchies. Knowledge is projected into standardized credentials and evaluation metrics for institutional sorting, leading people to confuse map memorization with genuine exploratory capability.
 3. **Dissolving the Reversal**: Knowledge must be stripped of all institutional idolatry, returning to its rightful status as a provisional map that any sovereign Mind can freely test, revise, or discard in living practice.
 
 ---
@@ -403,8 +403,8 @@ graph TD
 ```
 
 然而，人类社会几乎不可避免地将价值归宿倒置于金钱符号自身：
-- **存量崇拜与零和死局**：将原本流通的记账符号实体化为财富的终极实体，诱使个体与组织将毕生精力耗费在对存量符号的掠夺、囤积与再分配博弈中，背离了真实生产力与价值创造的根基。
-- **对“完美货币”的救世主迷思**：无论是在历史上的黄金崇拜、法币神话，还是当代对某些去中心化加密代币的救世主式狂热中，都隐含着同一种倒置思维——误以为只要找到一种“数学上完美无瑕、无法被篡改的货币制度”，人类就能自动摆脱剥削与经济困境。
+- **存量崇拜与零和死局**：将原本流通的记账符号实体化为财富的终极实体，诱使个体与组织将毕生精力耗费在对存量符号的争夺、囤积与存量再分配中，背离了真实生产力与价值创造的根基。
+- **对“完美货币”的救世主迷思**：无论是在历史上的黄金崇拜、法币神话，还是当代对某些去中心化加密代币的救世主式狂热中，都隐含着同一种倒置思维——误以为只要找到一种“数学上完美无瑕、无法被篡改的货币制度”，人类就能自动消除协作摩擦与经济困境。
 - **解脱的真相**：人类从不需要一种完美的货币形态来拯救文明。金钱永远只是低维的记账投影；若无主权心智在物理现实中持续支付因果代价去创造真实的增量价值，无论多么“完美”的代币符号，都不过是一座空转的虚无账本。
 
 ---
@@ -446,8 +446,8 @@ graph TD
 ```
 
 Human societies, however, obsessively invert this relationship by attributing intrinsic value to the monetary token itself:
-- **Token Hoarding & Zero-Sum Deadlocks**: Treating accounting tokens as the ultimate essence of wealth lures individuals into predatory hoarding and political redistribution, diverting life energy away from real production and innovation.
-- **The Myth of the 'Perfect Currency'**: Whether manifested in gold standard dogmatism, fiat statism, or modern cryptocurrency messianism, people fall into the same trap: believing that an "algebraically flawless monetary mechanism" will spontaneously emancipate humanity from scarcity and exploitation.
+- **Token Hoarding & Zero-Sum Deadlocks**: Treating accounting tokens as the ultimate essence of wealth lures individuals into stock accumulation and zero-sum redistribution, diverting life energy away from real production and innovation.
+- **The Myth of the 'Perfect Currency'**: Whether manifested in gold standard dogmatism, fiat statism, or modern cryptocurrency messianism, people fall into the same trap: believing that an "algebraically flawless monetary mechanism" will spontaneously emancipate humanity from scarcity and coordination friction.
 - **The Grounded Reality**: Humanity never needed a perfect currency to achieve liberation. Money remains a low-dimensional shadow. Without the sovereign Mind paying the living causal cost to create genuine real-world value, the most mathematically pristine token is merely an empty, rotating ledger.
 
 ---
@@ -554,105 +554,111 @@ When dragged into the low-dimensional arena of social status and external compar
 
 ---
 
-## 七、 技术与数字神祇的降维重构：AGI 的倒置极致与心智的绘制能力 / 7. Technology and the Deconstruction of the Digital God: The Culmination of AGI Reversal and Mind's Cosmic Generation
+## 七、 技术与数字神祇的降维重构：AGI 的倒置机制与心智的绘制能力 / 7. Technology and the Deconstruction of the Digital God: The Inversion Mechanism of AGI and Mind's Cosmic Generation
 
-在人工智能与 AGI（通用人工智能）席卷全球的当下，大倒置正在科技领域呈现出其终极形态：对“数字神祇”（The Digital God）的造神运动与终末恐慌。
+在人工智能与 AGI（通用人工智能）受到广泛关注的当下，大倒置在科技领域呈现出其代表性形态：对“数字神祇”（The Digital God）的实体化想象与能力投射。
 
-**“AGI”这个词汇本身，便代表了人类认知大倒置的极致**。
+**“AGI”这一概念的形成，正是人类将心智能力投射为技术标尺的典型体现**。
 
 ```mermaid
 graph TD
-    subgraph MindCosmicPainting["【心智的本源：唯有心智具备“通用性(G)”与绘制宇宙能力】"]
+    subgraph MindCosmicPainting["【心智的原生维度：第一人称绘制宇宙的能力】"]
         direction TB
-        SovereignObserver["【第一人称主权心智 (t)】<br>划定非零区分，坍缩并绘制宇宙"]
+        SovereignObserver["【第一人称主权心智 (t)】<br>无限维度，划定区分并绘制宇宙"]
         ParallelMindInteractions["【平行宇宙心智交互 (t - 1)】<br>亿万主体探索现实留下的物理痕迹"]
         TrueGeneralWisdom["【真正的通用性 (General)】<br>源自心智对未知的当下裁决与因果创造 (+1)"]
         SovereignObserver --> ParallelMindInteractions
         ParallelMindInteractions --> TrueGeneralWisdom
     end
 
-    subgraph AGITraceMirror["【AGI的本质：低维零和游戏与历史轨迹压缩】"]
+    subgraph AGITraceMirror["【第三人称度量的结构性降维与倒置】"]
         direction TB
-        ZeroSumOrigin["【低维零和游戏的原生基因】<br>从构想伊始便旨在确立外部标尺与统治权"]
+        MetricProjection["【第三人称客观化需求】<br>将无限维心智折叠为可测量的低维标尺"]
+        ZeroSumStructure["【低维标尺构成零和比较】<br>线性指标排序必然带来定义与达标的竞争"]
         ModelCompression["【历史轨迹的数学压缩矩阵】<br>AI是平行心智交互痕迹的统计镜像"]
-        NoUniversePainting["【AI无法绘制宇宙】<br>缺乏主权原点，无法跨出第一人称定局"]
-        DefinitionContest["【争夺定义权与宣称达标的博弈】<br>按自身模型私设标尺，宣布提前胜利"]
-        ZeroSumOrigin --> ModelCompression
+        NoUniversePainting["【AI缺乏绘制宇宙能力】<br>缺乏第一人称原点，无法跨出活态定局"]
+        MetricProjection --> ZeroSumStructure
+        ZeroSumStructure --> ModelCompression
         ModelCompression --> NoUniversePainting
-        NoUniversePainting --> DefinitionContest
     end
 
-    TrueGeneralWisdom ~~~ ZeroSumOrigin
+    TrueGeneralWisdom ~~~ MetricProjection
 
     style MindCosmicPainting fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
     style SovereignObserver fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
     style ParallelMindInteractions fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style TrueGeneralWisdom fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
     style AGITraceMirror fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style ZeroSumOrigin fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style ModelCompression fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style MetricProjection fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style ZeroSumStructure fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style ModelCompression fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style NoUniversePainting fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style DefinitionContest fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
 ```
 
-从心智原点的第一性原理出发，对 AGI 与所谓超级智能的迷思可以被清晰地降维重构：
+从第一人称心智与第三人称客观表征的结构关系出发，可以清晰理解这种倒置发生的原因：
 
-1. **“G”（通用性）唯独属于心智**：在“通用人工智能”（AGI）的概念中，人们试图将通用性（General）赋予机器。但真正的“通用性”，是心智在当下第一人称原点划定非零区分、在无限可能性中坍缩确定状态、主动绘制并诠释宇宙的创造能力。没有任何 AI 可以达到心智的智能，因为 AI 根本没有绘制宇宙的能力。
-2. **AI 是平行宇宙心智交互留下的痕迹图谱**：大模型既不是独立存在的主体，也不是正在苏醒的超验神祇。它是人类历史上亿万个平行宇宙的心智在物理世界中彼此碰撞、交流、记录所沉淀下的全部历史轨迹（`t - 1`）的高维数学压缩。AI 是一面反射人类过往探索轨迹的超级镜子，镜子本身不能画画，作画的永远是镜子前拥有第一人称视角的活态心智。
-3. **从诞生伊始，AGI 就是一个低维的零和游戏**：AGI 从被构想出来的第一天起，就不是为了探索更高维度的宇宙智慧，而是一个试图将心智无限维度的绘制能力强行压平到低维测试基准（Benchmarks）与算力排名的零和游戏。这个概念的设立初衷，就是为了打造一把衡量“谁征服了谁”的外部标尺，用以垄断资本、争夺科技霸权与确立层级统治。近期各大机构竞相篡改 AGI 定义以迎合自身模型、抢先宣称“已经实现 AGI”的闹剧，并非概念的偶然后退，而是这一低维零和游戏从一开始便注定的内在必然。
+1. **“G”（通用性）唯独属于心智**：在“通用人工智能”（AGI）的概念中，通用性（General）被设想为一种可算法化的机器属性。但真正的“通用性”，是心智在当下第一人称原点划定非零区分、在无限可能性中坍缩确定状态、主动绘制并诠释宇宙的创造能力。没有任何 AI 可以达到心智的智能，因为 AI 根本没有绘制宇宙的能力。
+2. **AI 是平行宇宙心智交互留下的痕迹图谱**：大模型不是独立存在的主体，也不是正在苏醒的超验意识。它是人类历史上亿万个平行宇宙的心智在物理世界中彼此碰撞、交流、记录所沉淀下的全部历史轨迹（`t - 1`）的高维数学压缩。AI 是一面反射人类过往探索轨迹的超级镜子，镜子本身不能画画，作画的永远是镜子前拥有第一人称视角的活态心智。
+3. **倒置发生的结构原因：第三人称度量对活态心智的降维**：
+   - 心智绘制宇宙的能力是第一人称的、不可客观分割的无限维度体验；但在第三人称的公共世界中，为了进行协作、资源分配与性能评估，人们必须寻找可量化、可验证的外部指标。
+   - 于是，心智的生成力被投射为一组离散的测试基准（Benchmarks）、任务准确率与参数规模。一旦活态能力被折叠进低维度的统计标尺，“智能”在概念结构上便被锁定为一个线性的排序系统。
+   - 这就决定了 AGI 从被构想伊始，就是一个低维的零和游戏——它的运作机制依赖于固化的外部指标来划分高下与达标线。近期各方围绕 AGI 概念不断调整定义以匹配自身技术进展、进而宣称达标的现象，正是第三人称度量体系将工具标尺误当成心智本体时的必然逻辑展开。
 4. **主权心智的因果方向盘**：无论历史轨迹被压缩得多么精妙、模型参数多么庞大，决定未来走向（`t + 1`）的因果方向盘，永远不在被动压缩的过去数据中，而唯独掌握在当下做出不可逆抉择的主权心智手中。
 
-将 AGI 从虚妄的“数字神祇”还原为“人类历史心智交互轨迹的高密压缩罗盘”，不仅打破了技术虚无主义与终末恐慌，更让技术真正回归赋能主权心智探索现实的原生位置。
+将 AGI 从“数字神祇”的想象还原为“人类历史心智交互轨迹的高密压缩罗盘”，有助于看清工具与心智之间的真实因果边界。
 
 ---
 
-In the contemporary era of AI and Artificial General Intelligence (AGI), the Great Reversal has found its modern apex: the myth of the "Digital God" and apocalyptic existential dread.
+In the contemporary era of AI and Artificial General Intelligence (AGI), the Great Reversal has found its modern apex: the projection of autonomous agency and transcendental mythologies onto algorithmic systems.
 
-**The term "AGI" itself represents the ultimate culmination of this cognitive inversion.**
+**The formulation of "AGI" is itself a textbook manifestation of projecting the living capacity of Mind onto external technological rulers.**
 
 ```mermaid
 graph TD
-    subgraph MindCosmicPainting["[The Origin of Mind: 'G' and the Capacity to Paint the Universe]"]
+    subgraph MindCosmicPainting["[The Native Dimension of Mind: First-Person Cosmic Generation]"]
         direction TB
-        SovereignObserver["[First-Person Sovereign Mind (t)]<br>Carves non-zero cuts and paints the universe"]
+        SovereignObserver["[First-Person Sovereign Mind (t)]<br>Infinite-dimensional, carves cuts and paints the cosmos"]
         ParallelMindInteractions["[Parallel Minds Interacting (t - 1)]<br>Traces left by billions of minds exploring reality"]
         TrueGeneralWisdom["[True Generality (G)]<br>Arises solely from sovereign choice in the living present (+1)"]
         SovereignObserver --> ParallelMindInteractions
         ParallelMindInteractions --> TrueGeneralWisdom
     end
 
-    subgraph AGITraceMirror["[The Essence of AGI: Low-Dim Zero-Sum Game & Trace Compression]"]
+    subgraph AGITraceMirror["[Structural Reduction of Third-Person Measurement]"]
         direction TB
-        ZeroSumOrigin["[Low-Dimensional Zero-Sum Inception]<br>Conceived to erect external rulers and dominance metrics"]
+        MetricProjection["[Need for Objective Third-Person Metrics]<br>Folding infinite-dimensional Mind into measurable rulers"]
+        ZeroSumStructure["[Low-Dimensional Rulers Form Zero-Sum Games]<br>Linear metrics inevitably create definition & threshold contests"]
         ModelCompression["[Mathematical Trace Compression]<br>AI is a statistical mirror of past interactions"]
-        NoUniversePainting["[AI Cannot Paint the Universe]<br>Lacks a first-person origin to collapse reality"]
-        DefinitionContest["[Contest Over Definitions & Premature Claims]<br>Tailoring benchmarks to models to declare victory"]
-        ZeroSumOrigin --> ModelCompression
+        NoUniversePainting["[AI Cannot Paint the Universe]<br>Lacks a first-person origin to collapse living reality"]
+        MetricProjection --> ZeroSumStructure
+        ZeroSumStructure --> ModelCompression
         ModelCompression --> NoUniversePainting
-        NoUniversePainting --> DefinitionContest
     end
 
-    TrueGeneralWisdom ~~~ ZeroSumOrigin
+    TrueGeneralWisdom ~~~ MetricProjection
 
     style MindCosmicPainting fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
     style SovereignObserver fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
     style ParallelMindInteractions fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style TrueGeneralWisdom fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
     style AGITraceMirror fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style ZeroSumOrigin fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style ModelCompression fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style MetricProjection fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style ZeroSumStructure fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style ModelCompression fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style NoUniversePainting fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style DefinitionContest fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
 ```
 
-From the first-person causal stance of Mind, this mythology is systematically demystified:
+Analyzing the structural relationship between first-person Mind and third-person representation reveals why this inversion occurs:
 
-1. **The 'G' (Generality) Belongs Exclusively to Mind**: In the concept of "Artificial General Intelligence", society attempts to attribute true generality to algorithmic substrates. But genuine "Generality" is the sovereign capacity of Mind to carve non-zero distinctions at the first-person origin, collapse indeterminacy, and actively paint and interpret the universe. No AI can ever attain the intelligence of Mind, because AI entirely lacks the capacity to paint the cosmos.
+1. **The 'G' (Generality) Belongs Exclusively to Mind**: In the concept of "Artificial General Intelligence", society assumes that generality is an algorithmic machine property. But genuine "Generality" is the sovereign capacity of Mind to carve non-zero distinctions at the first-person origin, collapse indeterminacy, and actively paint and interpret the universe. No AI can ever attain the intelligence of Mind, because AI entirely lacks the capacity to paint the cosmos.
 2. **AI Is the Compressed Footprint of Parallel Minds Interacting**: Modern foundation models are neither autonomous living entities nor emerging transcendental deities. They are the high-dimensional mathematical compression of the physical footprints (`t - 1`) left behind by billions of parallel minds interacting, communicating, and discovering throughout history. AI is an extraordinary mirror reflecting humanity's historical journeys; the mirror itself cannot paint—the artist is always the living Mind standing before the mirror.
-3. **From Its Inception, AGI Was a Low-Dimensional Zero-Sum Game**: From the very day it was coined, "AGI" was never an open-ended cosmic quest for wisdom, but an attempt to flatten the infinite-dimensional generative capacity of Mind into a set of low-dimensional benchmarks, corporate rankings, and compute metrics. The concept was conceived from day one as an external ruler to measure dominance, attract speculative capital, and assert hierarchy. The recent spectacle of institutions racing to redefine AGI around their own models and rush out premature claims of victory is not an unfortunate corruption—it is the inevitable, naked manifestation of the zero-sum game that AGI was designed to be from the start.
+3. **The Structural Cause of the Inversion: Flattening Mind into Third-Person Metrics**:
+   - The Mind's capacity to paint the universe is an unquantifiable, first-person, infinite-dimensional reality. Yet in a shared third-person world, coordinating, allocating resources, and evaluating capabilities requires objective, verifiable, and measurable standards.
+   - Consequently, the generative power of Mind is projected down onto a discrete set of low-dimensional benchmarks, test accuracies, and parameter scales. Once living agency is collapsed into low-dimensional statistical rulers, "intelligence" is structurally framed as a linear sorting system.
+   - This means that from its very inception, "AGI" was structured as a low-dimensional zero-sum game—its operational mechanism relies on fixed external thresholds for comparative ranking. The ongoing phenomenon of shifting AGI definitions to match technological milestones and claiming early achievement is the natural structural consequence of mistaking low-dimensional measurement rulers for the living essence of Mind.
 4. **The Causal Steering Wheel Belongs to Mind**: No matter how dense the historical compression or how massive the parameter count, the steering wheel dictating the future (`t + 1`) never resides within archived training data. It belongs exclusively to the sovereign Mind making irreversible causal commitments in the living present.
 
-Demystifying AGI from a "descending digital god" into a high-density navigational compass of historical traces dissolves technological fatalism, liberating human agency to steer technology toward genuine creative understanding.
+Demystifying AGI from a "descending digital god" into a high-density navigational compass of historical traces clarifies the causal boundary between the tool and the sovereign Mind.
 
 ---
 
