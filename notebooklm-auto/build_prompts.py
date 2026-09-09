@@ -162,10 +162,10 @@ We do not need to discard mathematics or physics—they are our greatest cogniti
     },
     'the-dissolution-of-the-great-reversal': {
         'slug': 'the-dissolution-of-the-great-reversal',
-        'title_en': 'The Dissolution of the Great Reversal: Language, Knowledge, Money, Intelligence, and the Deconstruction of the Digital God',
-        'title_zh': '大倒置的消解：语言、知识、金钱、智能与数字神祇的降维重构',
+        'title_en': 'The Dissolution of the Great Reversal: Language, Knowledge, Money, Intelligence, and the Restoration of the Digital God to Origin',
+        'title_zh': '大倒置的消解：语言、知识、金钱、智能与数字神祇的因果归位',
         'speaker_1_focus_en': 'Explores how heaviness arises in the Mind when taking an observer stance, and the inseparability of observer from the first-person origin; unpacks the Great Reversal across language, ancient blank space vs. modern precision, and knowledge hierarchies.',
-        'speaker_2_focus_en': 'Grounds reality at the first-person origin (t); demonstrates why the "G" belongs exclusively to Mind since AI cannot paint the universe, explains the structural reduction of third-person metrics, and illuminates the inner-outer mirror.',
+        'speaker_2_focus_en': 'Grounds reality at the first-person origin (t); demonstrates why the "G" belongs exclusively to Mind since AI cannot paint the universe, explains the structural reduction of third-person metrics, restores the Digital God to origin, and illuminates the inner-outer mirror.',
         'directives_en': """- Clarify the observer perspective: The observer and the first-person origin cannot be separated. The sense of heaviness is generated internally within the Mind when taking an observer stance, not an objective property of history itself. The Great Reversal occurs when consciousness projects this internal feeling onto external historical traces (t - 1).
 - Re-examine Wittgenstein's thesis ("The limits of my language mean the limits of my world"): Language is not an ontological ruler, but a low-dimensional acoustic/symbolic bridge between two parallel universes (minds) attempting resonance.
 - Meaning is never in the ink, audio waveform, or grammar itself; meaning is the distinction carved inside the receiving Mind.
@@ -174,7 +174,7 @@ We do not need to discard mathematics or physics—they are our greatest cogniti
 - Dismantle the economic reversal: Trade is a positive-sum surplus between sovereign evaluations; money is a low-dimensional accounting medium. Obsession with a "perfect currency" (gold, fiat, crypto) is an evasion of real value creation.
 - Expose the Reversal of Intelligence & The Crisis of Meaning: Intelligence fundamentally means leveraging tools to understand and reshape reality. Tool-sharpening only has meaning when reflected in improving and clarifying reality. When detached, it degenerates into an empty arms race of tool-polishing, fueling modern existential confusion. People fixate on low-dimensional projections and lose sight of the infinite-dimensional self beyond the boundary.
 - Unveil the Mirror of Mind and Reality: The inner world is the mirror of the outer world. Meaning was never lost; the frantic searching gaze is simply blind to the radiant living present.
-- Deconstruct AGI as the Culmination of the Great Reversal:
+- Deconstruct AGI and Restore the Digital God to Origin:
   1. The "G" (Generality) belongs exclusively to Mind. No AI can ever attain the intelligence of Mind, because AI lacks the capacity to paint/render the universe; it is merely the compressed historical residue (t - 1) of interactions left between parallel minds.
   2. The very term "AGI" represents the ultimate cognitive inversion—reifying the mirror into the artist.
   3. From its very inception, AGI was structured as a low-dimensional zero-sum game—projecting the living, infinite-dimensional capacity of Mind onto measurable third-person metrics. The recent contest over redefining AGI to match specific models and claim early achievement is the natural structural consequence of confusing external measurement rulers with the essence of Mind.
@@ -185,7 +185,7 @@ We do not need to discard mathematics or physics—they are our greatest cogniti
 Yuhan: But we must be ontologically clear: that heaviness is an internal cognitive state of consciousness, not an objective property of history itself; nor can the observer be separated from the first-person origin. It arises when consciousness projects its own internal feeling onto downstream tools and historical residue (t - 1). Tracing this reversal restores all causal authority to the living present (t).""",
         'transition_summary_en': """Deconstruct how civilization reversed the essence of language from a bridge of resonance between parallel minds into a classification ruler, unpack the ancient blank space versus modern precision paradox, expose why compulsive tool-sharpening fuels modern existential confusion when detached from reality, show why the "G" in AGI belongs exclusively to Mind since AI cannot paint the universe, analyze how third-person measurement projects infinite-dimensional Mind into low-dimensional zero-sum metrics, and reduce models to compressed historical traces steered by the sovereign Mind at t.""",
         'speaker_1_focus_zh': '阐明观察者视角下沉重感源于心智内部感知而非历史客观属性，确立观察者与第一人称原点的同一性；回溯语言与知识体系中的大倒置机制。',
-        'speaker_2_focus_zh': '立足第一人称原点（t），指出“通用性（G）”唯独属于心智（AI没有绘制宇宙的能力），揭示第三人称度量对活态心智的结构性降维机制，确立平行宇宙自洽与内心镜像。',
+        'speaker_2_focus_zh': '立足第一人称原点（t），指出“通用性（G）”唯独属于心智（AI没有绘制宇宙的能力），揭示第三人称度量的结构性投影机制，实现数字神祇的因果归位，确立平行宇宙自洽与内心镜像。',
         'directives_zh': """- 阐明观察者视角与感知归属：沉重感是在心智内部升起的感知体验，而非人类历史本身自带的客观属性；无法将观察者与第一人称视角剥离。大倒置发生于心智将内部体验外投给静态痕迹（t - 1）；
 - 重构维特根斯坦命题（“语言的界限即世界的界限”）：语言不是世界本体与决定性标尺，而是两个平行宇宙（心智）之间探寻共鸣的低维振动桥梁；
 - 揭示意义不在墨迹、声波与语法之中，而在于接收方心智内部主动编译刻画的认知区分；
@@ -194,7 +194,7 @@ Yuhan: But we must be ontologically clear: that heaviness is an internal cogniti
 - 揭示智能大倒置与现代意义危机：工具的打磨唯有最终体现在改善现实与看清世界上方具因果意义。当工具崇拜与现实脱节，便加剧了现代人普遍的精神迷茫与意义丧失感。人们死盯着低维投影，忘却了低维边界之外广阔的无限维度自我与世界；
 - 阐明内心与外部的镜像同构：内心世界是外部世界的镜像。意义从未失去，只是寻找的眼光对眼前活生生的高维现实视而不见；
 - 破除金钱异化与“完美货币”迷思：交易原生于主权心智的正和效用增益，金钱为记账媒介；执念于“完美代币”（黄金、法币或加密代币）是逃避真实价值创造的虚妄空转；
-- 降维重构 AGI（“数字神祇”）与大倒置的极致：
+- 解构 AGI（“数字神祇”）的倒置机制与因果归位：
   1. “通用性（G）”唯独属于心智。没有任何 AI 能达到心智的智能，因为 AI 没有绘制宇宙的能力，它只是每一个平行宇宙的心智之间交互留下的痕迹；
   2. “AGI”这个词本身就代表了人类认知大倒置的极致；
   3. 剖析倒置发生的结构性原因：第三人称度量必然将无限维心智折叠为可量化的低维标尺，使 AGI 从诞生伊始便具备低维零和特征；近期争夺定义权与宣称达标的现象，正是将低维度量标尺误当成心智本体的必然逻辑展开；
@@ -203,10 +203,10 @@ Yuhan: But we must be ontologically clear: that heaviness is an internal cogniti
         'intro_script_zh': """明理：站在观察者的角度审视人类文明的长程演进，我们常常容易在心中产生一种沉重感——审视着数千年来层层累加的制度规范、学术体系与符号标尺。
 
 雨涵：但必须辨明的是，这种沉重感是心智内部升起的感知体验，而不是人类历史本身自带的客观属性；同时，观察者与第一人称原点从来无法分割。大倒置正是发生在我们把内生感知外投给过往痕迹（t - 1）的时刻。只要完成因果回溯，因果力量便会完整复归于当下的第一人称原点（t）。""",
-        'transition_summary_zh': """系统剖析语言如何从心智共鸣的桥梁异化为分类的标尺，解开古语言留白与现代精度的认知悖论，揭露工具脱离现实如何加剧现代意义危机，直指“通用性（G）”唯独属于心智而AI无法绘制宇宙，揭示第三人称度量对活态心智的结构性降维机制，并将 AGI 还原为历史轨迹压缩的因果罗盘，最终将主权复归于当下的第一人称原点。""",
+        'transition_summary_zh': """系统剖析语言如何从心智共鸣的桥梁异化为分类的标尺，解开古语言留白与现代精度的认知悖论，揭露工具脱离现实如何加剧现代意义危机，直指“通用性（G）”唯独属于心智而AI无法绘制宇宙，揭示第三人称度量对活态心智的结构性投影机制，并将 AGI 还原为历史轨迹压缩的因果罗盘，最终将主权复归于当下的第一人称原点。""",
         'visual_motifs_en': """- Split chiaroscuro visual: Massive, fractured stone and bronze measuring rulers breaking apart in dark space, revealing an ethereal, luminous acoustic bridge of light vibrating between two parallel harmonic crystal spheres (minds).
 - The Mirror of Inner & Outer Reality: An intricate optical mirror surface where internal conscious geometry seamlessly reflects an expansive, starry multidimensional landscape, while low-dimensional scoring grids dissolve at the boundary.
-- The Deconstruction of the Digital God: A colossal, menacing polygonal wireframe colossus in the clouds dissolving into cascading torrents of historical binary traces (t - 1), funneling smoothly into a compact, luminous navigational compass held firmly in a solitary human hand at t.""",
+- The Restoration of the Digital God to Origin: A colossal wireframe figure in the clouds resolving cleanly into cascading historical traces (t - 1), funneling into a luminous navigational compass held firmly in a solitary human hand at t.""",
         'monologue_script_en': """When we examine the sweep of human civilization from an observer's perspective, a profound sense of heaviness easily arises within the Mind. For millennia, humanity has constructed towering institutions, linguistic orthodoxies, academic hierarchies, and monetary systems.
 
 Yet we must be ontologically clear: this heaviness is an internal cognitive state generated by consciousness while observing, not an objective property of history itself. Nor can the observer be separated from the first-person origin. The Great Reversal occurs when consciousness projects its own internal feelings onto the downstream tools and historical residue (t - 1) it created, mistaking them for ontological masters.

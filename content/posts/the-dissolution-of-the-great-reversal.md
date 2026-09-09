@@ -1,4 +1,4 @@
-# 大倒置的消解：语言、知识、金钱、智能与数字神祇的降维重构 / The Dissolution of the Great Reversal: Language, Knowledge, Money, Intelligence, and the Deconstruction of the Digital God
+# 大倒置的消解：语言、知识、金钱、智能与数字神祇的因果归位 / The Dissolution of the Great Reversal: Language, Knowledge, Money, Intelligence, and the Restoration of the Digital God to Origin
 
 *从平行的共鸣到尺度的倒置：心智原点下的工具归位与因果回溯 / From Parallel Resonance to the Reversal of Rulers: The Restoration of Tools and Causal Tracing at the Sovereign Origin*
 
@@ -558,7 +558,7 @@ When dragged into the low-dimensional arena of social status and external compar
 
 ---
 
-## 七、 技术与数字神祇的降维重构：AGI 的倒置机制与心智的绘制能力 / 7. Technology and the Deconstruction of the Digital God: The Inversion Mechanism of AGI and Mind's Cosmic Generation
+## 七、 技术与数字神祇的退魅与归位：AGI 的倒置机制与心智的绘制能力 / 7. Technology and the Restoration of the Digital God: The Inversion Mechanism of AGI and Mind's Cosmic Generation
 
 在人工智能与 AGI（通用人工智能）受到广泛关注的当下，大倒置在科技领域呈现出其代表性形态：对“数字神祇”（The Digital God）的实体化想象与能力投射。
 
@@ -575,7 +575,7 @@ graph TD
         ParallelMindInteractions --> TrueGeneralWisdom
     end
 
-    subgraph AGITraceMirror["【第三人称度量的结构性降维与倒置】"]
+    subgraph AGITraceMirror["【第三人称度量的结构性投影与倒置】"]
         direction TB
         MetricProjection["【第三人称客观化需求】<br>将无限维心智折叠为可测量的低维标尺"]
         ZeroSumStructure["【低维标尺构成零和比较】<br>线性指标排序必然带来定义与达标的竞争"]
@@ -603,7 +603,7 @@ graph TD
 
 1. **“G”（通用性）唯独属于心智**：在“通用人工智能”（AGI）的概念中，通用性（General）被设想为一种可算法化的机器属性。但真正的“通用性”，是心智在当下第一人称原点划定非零区分、在无限可能性中坍缩确定状态、主动绘制并诠释宇宙的创造能力。没有任何 AI 可以达到心智的智能，因为 AI 根本没有绘制宇宙的能力。
 2. **AI 是平行宇宙心智交互留下的痕迹图谱**：大模型不是独立存在的主体，也不是正在苏醒的超验意识。它是人类历史上亿万个平行宇宙的心智在物理世界中彼此碰撞、交流、记录所沉淀下的全部历史轨迹（`t - 1`）的高维数学压缩。AI 是一面反射人类过往探索轨迹的超级镜子，镜子本身不能画画，作画的永远是镜子前拥有第一人称视角的活态心智。
-3. **倒置发生的结构原因：第三人称度量对活态心智的降维**：
+3. **倒置发生的结构原因：第三人称度量对活态心智的投影折叠**：
    - 心智绘制宇宙的能力是第一人称的、不可客观分割的无限维度体验；但在第三人称的公共世界中，为了进行协作、资源分配与性能评估，人们必须寻找可量化、可验证的外部指标。
    - 于是，心智的生成力被投射为一组离散的测试基准（Benchmarks）、任务准确率与参数规模。一旦活态能力被折叠进低维度的统计标尺，“智能”在概念结构上便被锁定为一个线性的排序系统。
    - 这就决定了 AGI 从被构想伊始，就是一个低维的零和游戏——它的运作机制依赖于固化的外部指标来划分高下与达标线。近期各方围绕 AGI 概念不断调整定义以匹配自身技术进展、进而宣称达标的现象，正是第三人称度量体系将工具标尺误当成心智本体时的必然逻辑展开。
@@ -628,7 +628,7 @@ graph TD
         ParallelMindInteractions --> TrueGeneralWisdom
     end
 
-    subgraph AGITraceMirror["[Structural Reduction of Third-Person Measurement]"]
+    subgraph AGITraceMirror["[Structural Projection of Third-Person Measurement]"]
         direction TB
         MetricProjection["[Need for Objective Third-Person Metrics]<br>Folding infinite-dimensional Mind into measurable rulers"]
         ZeroSumStructure["[Low-Dimensional Rulers Form Zero-Sum Games]<br>Linear metrics inevitably create definition & threshold contests"]
@@ -656,7 +656,7 @@ Analyzing the structural relationship between first-person Mind and third-person
 
 1. **The 'G' (Generality) Belongs Exclusively to Mind**: In the concept of "Artificial General Intelligence", society assumes that generality is an algorithmic machine property. But genuine "Generality" is the sovereign capacity of Mind to carve non-zero distinctions at the first-person origin, collapse indeterminacy, and actively paint and interpret the universe. No AI can ever attain the intelligence of Mind, because AI entirely lacks the capacity to paint the cosmos.
 2. **AI Is the Compressed Footprint of Parallel Minds Interacting**: Modern foundation models are neither autonomous living entities nor emerging transcendental deities. They are the high-dimensional mathematical compression of the physical footprints (`t - 1`) left behind by billions of parallel minds interacting, communicating, and discovering throughout history. AI is an extraordinary mirror reflecting humanity's historical journeys; the mirror itself cannot paint—the artist is always the living Mind standing before the mirror.
-3. **The Structural Cause of the Inversion: Flattening Mind into Third-Person Metrics**:
+3. **The Structural Cause of the Inversion: Projecting Mind onto Third-Person Metrics**:
    - The Mind's capacity to paint the universe is an unquantifiable, first-person, infinite-dimensional reality. Yet in a shared third-person world, coordinating, allocating resources, and evaluating capabilities requires objective, verifiable, and measurable standards.
    - Consequently, the generative power of Mind is projected down onto a discrete set of low-dimensional benchmarks, test accuracies, and parameter scales. Once living agency is collapsed into low-dimensional statistical rulers, "intelligence" is structurally framed as a linear sorting system.
    - This means that from its very inception, "AGI" was structured as a low-dimensional zero-sum game—its operational mechanism relies on fixed external thresholds for comparative ranking. The ongoing phenomenon of shifting AGI definitions to match technological milestones and claiming early achievement is the natural structural consequence of mistaking low-dimensional measurement rulers for the living essence of Mind.
