@@ -684,11 +684,11 @@ Demystifying AGI from a "descending digital god" into a high-density navigationa
 
 ## 八、 平行宇宙的自洽与原点清明 / 8. The Self-Consistency of the Multiverse and the Sovereign Origin
 
-当一切倒置被层层剥开，呈现在第一人称原点面前的，是一个干净、清明且充满主权力量的因果全景：
+当一切倒置被层层剥开，呈现在眼前的，是一个干净、清明且充满主权力量的因果全景：
 
 `意义 ∉ 语法，  价值 ∉ 符号，  智能 ∉ 工具，  主权 ∉ 模型`
 
-从第一人称的因果几何来看，每个心智都是一个闭合且自洽的平行宇宙。在因果结构上，没有任何一个主体可以直接侵入并强制改变另一个主体的认知宇宙。试图用统一的语言标尺去规训他人、用固化的知识头衔去压制他人、用工具的拥有量去定义智能、或期待完美的货币与技术神祇来拯救全人类，都是因果倒置所派生出的妄念。
+每个心智都是一个闭合且自洽的平行宇宙。在因果结构上，没有任何一个主体可以直接侵入并强制改变另一个主体的认知宇宙。试图用统一的语言标尺去规训他人、用固化的知识头衔去压制他人、用工具的拥有量去定义智能、或期待完美的货币与技术神祇来拯救全人类，都是因果倒置所派生出的妄念。
 
 ```mermaid
 graph TD
@@ -721,7 +721,7 @@ When each layer of inversion is stripped away, a serene, lucid, and sovereign ca
 
 `Meaning ∉ Grammar,  Value ∉ Token,  Intelligence ∉ Tool,  Agency ∉ Model`
 
-In first-person causal geometry, each Mind is a closed and self-consistent parallel universe. In causal topology, no sovereign subject can directly invade or forcibly rewrite the internal universe of another. Attempting to police others with rigid language rulers, subduing minds with credential titles, measuring intelligence by tool ownership, or expecting a savior token or digital deity to redeem civilization are all delusions born of ontological inversion.
+Each Mind is a closed and self-consistent parallel universe. In causal topology, no sovereign subject can directly invade or forcibly rewrite the internal universe of another. Attempting to police others with rigid language rulers, subduing minds with credential titles, measuring intelligence by tool ownership, or expecting a savior token or digital deity to redeem civilization are all delusions born of ontological inversion.
 
 ```mermaid
 graph TD
