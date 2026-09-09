@@ -165,37 +165,39 @@ We do not need to discard mathematics or physics—they are our greatest cogniti
         'title_en': 'The Dissolution of the Great Reversal: Language, Knowledge, Money, Intelligence, and the Deconstruction of the Digital God',
         'title_zh': '大倒置的消解：语言、知识、金钱、智能与数字神祇的降维重构',
         'speaker_1_focus_en': 'Explores the observer\'s historical heaviness versus the sovereign Mind\'s liberation; unpacks the Great Reversal across language, ancient blank space vs. modern precision, and knowledge hierarchies.',
-        'speaker_2_focus_en': 'Exposes the reversal of intelligence into an infinite tool-sharpening arms race; grounds positive-sum economic trade; demystifies AGI as compressed historical traces (t - 1) and restores sovereign agency at the first-person origin (t).',
+        'speaker_2_focus_en': 'Grounds reality at the first-person origin (t); exposes how tool-sharpening detached from reality fuels modern existential confusion, dismantles money fetishism, reduces AGI to compressed historical traces (t - 1), and illuminates the mirror of inner and outer reality.',
         'directives_en': """- Clarify the psychological shift from the observer's heaviness (watching centuries of reified institutions and social policing) to the sovereign Mind's immediate liberation at the first-person origin (t).
 - Re-examine Wittgenstein's thesis ("The limits of my language mean the limits of my world"): Language is not an ontological ruler, but a low-dimensional acoustic/symbolic bridge between two parallel universes (minds) attempting resonance.
 - Meaning is never in the ink, audio waveform, or grammar itself; meaning is the distinction carved inside the receiving Mind.
 - Explain the Ancient vs. Modern language paradox: Ancient language's looser definitions created cognitive blank space (留白) where the reader's Mind actively compiled meaning ("wisdom"); modern language provides hyper-precise engineering transmission, but when reified, becomes a rigid ruler for orthodoxy and policing.
 - Demystify knowledge: Transitioning from an exploratory navigational map of causality to an institutional credential hierarchy where the map is confused with the territory.
 - Dismantle the economic reversal: Trade is a positive-sum surplus between sovereign evaluations; money is a low-dimensional accounting medium. Obsession with a "perfect currency" (gold, fiat, crypto) is an evasion of real value creation.
-- Expose the Reversal of Intelligence: Intelligence fundamentally means leveraging tools to understand and reshape the world. When dragged into social comparison, it degenerates into a superficial game of 'who has the sharpest tool.' People spend real money and life energy endlessly polishing tools (models, gadgets, certifications) without ever using them to understand reality or see their world more clearly.
+- Expose the Reversal of Intelligence & The Crisis of Meaning: Intelligence fundamentally means leveraging tools to understand and reshape reality. Tool-sharpening only has meaning when reflected in improving and clarifying reality. When detached, it degenerates into an empty arms race of tool-polishing, fueling modern existential confusion. People fixate on low-dimensional projections and lose sight of the infinite-dimensional self beyond the boundary.
+- Unveil the Mirror of Mind and Reality: The inner world is the mirror of the outer world. Meaning was never lost; the frantic searching gaze is simply blind to the radiant living present.
 - Deconstruct AGI ("The Digital God"): AGI is not an autonomous deity, but the mathematical compression of past historical traces (t - 1) left by parallel minds, reflected back into our living reality (t) as an exploratory tool steered by Mind (+1).
 - Affirm the solitary multiverse clarity: "There is nothing I can do to change another multiverse, but this multiverse is seeing it clearer than ever." """,
         'intro_script_en': """Mingli: Standing as an observer of human history, one easily feels overwhelmed by the immense heaviness of civilizational structures—centuries of ideological warfare, institutional hierarchies, and rigid rulers people use to police and judge each other.
 
 Yuhan: But the moment we shift from being passive observers of history to the sovereign first-person origin in the living present (t), that crushing weight instantly dissolves. All those grand institutions and dogmas are low-dimensional shadows born from the Great Reversal—the reification of our own tools into masters.""",
-        'transition_summary_en': """Deconstruct how civilization reversed the essence of language from a bridge of resonance between parallel minds into a weaponized ruler, unpack the ancient blank space versus modern precision paradox, expose the tragic ritual of infinite tool-sharpening that replaces genuine intelligence, dismantle the myth of the 'perfect currency', and reduce AGI from a digital god to compressed historical traces steered by the sovereign Mind at t.""",
+        'transition_summary_en': """Deconstruct how civilization reversed the essence of language from a bridge of resonance between parallel minds into a weaponized ruler, unpack the ancient blank space versus modern precision paradox, expose why compulsive tool-sharpening fuels modern existential confusion when detached from reality, reveal how inner and outer worlds mirror each other, and reduce AGI from a digital god to compressed historical traces steered by the sovereign Mind at t.""",
         'speaker_1_focus_zh': '剖析历史观察者的沉重感与主权心智的当下解脱；揭示语言的共鸣本质、古汉语留白与现代精度的测量悖论，消解知识与教育的门阀异化。',
-        'speaker_2_focus_zh': '立足第一人称原点（t），揭露智能退化为无休止“磨刀”军备竞赛的大倒置，破除金钱拜物教，将AGI从超验神祇降维重构为历史轨迹（t - 1）的压缩图谱与探索工具，确立平行宇宙自洽与主权清明。',
+        'speaker_2_focus_zh': '立足第一人称原点（t），揭示工具脱离现实引发的现代意义危机与低维投影遮蔽，破除金钱拜物教，将AGI降维重构为历史轨迹（t - 1）图谱，确立平行宇宙自洽与内心镜像。',
         'directives_zh': """- 阐明从观察者视角的历史沉重（目睹数千年制度压迫与符号规训）到第一人称原点（t）当下解脱的认知跃迁；
 - 重构维特根斯坦命题（“语言的界限即世界的界限”）：语言不是世界本体与决定性标尺，而是两个平行宇宙（心智）之间探寻共鸣的低维振动桥梁；
 - 揭示意义不在墨迹、声波与语法之中，而在于接收方心智内部主动编译刻画的认知区分；
 - 剖析古今语言悖论：古代语言词汇边界宽松，为读者心智留出巨大的投射空间（留白），由读者自主编译生成“高维智慧”；现代语言工程精度极高，利于低歧义传输，但一旦被实体化为教条标尺，便沦为规训思想的刑具；
 - 消解知识与教育的倒置：知识原生为探索因果的动态航海图，却被异化为排他性的门阀阶梯与将地图等同于领土的本末倒置；
-- 揭露智能的大倒置与“磨刀”陷阱：智能的原生本质是心智借助工具去理解并重塑世界；一旦跌落入低维攀比，便退化为“比拼谁拥有最好工具”的军备竞赛。无数人耗费真金白银与毕生精力疯狂追逐工具升级（大模型、设备、资质认证），却一辈子从未真正出刀去理解现实与解决问题；
+- 揭示智能大倒置与现代意义危机：工具的打磨唯有最终体现在改善现实与看清世界上方具因果意义。当工具崇拜与现实脱节，便加剧了现代人普遍的精神迷茫与意义丧失感。人们死盯着低维投影，忘却了低维边界之外广阔的无限维度自我与世界；
+- 阐明内心与外部的镜像同构：内心世界是外部世界的镜像。意义从未失去，只是寻找的眼光对眼前活生生的高维现实视而不见；
 - 破除金钱异化与“完美货币”迷思：交易原生于主权心智的正和效用增益，金钱为记账媒介；执念于“完美代币”（黄金、法币或加密代币）是逃避真实价值创造的虚妄空转；
 - 降维重构 AGI（“数字神祇”）：AGI 绝非超验主宰，而是人类历史上无数平行心智在物理世界留下的历史轨迹（t - 1）的数学压缩集合，是以高维向量折射回当下唯一现实（t）的超级工具，方向盘唯独由主权心智（+1）掌控；
 - 确立平行宇宙自洽与原点清明：“我无法强制改变另一个平行宇宙的运行，但在这个宇宙中，我比以往任何时刻都看得更清楚。” """,
         'intro_script_zh': """明理：站在人类文明的长程观察者视角，很容易感受到一种历史的窒息与沉重——数千年来，无数个体在实体化的概念、学术门阀、制度教条与金钱符号中相互丈量、相互攻伐与内耗。
 
 雨涵：但只要我们从被动的历史观察者，切换回当下第一人称原点（t），这种沉重感便会在刹那间消解。那些压迫性的宏大叙事，全都是大倒置所产生的低维投影——人类亲手把探索与交流的工具，异化为了统治并审判自己的度量衡。""",
-        'transition_summary_zh': """系统剖析语言如何从心智共鸣的桥梁异化为权力的标尺，解开古语言留白与现代精度的认知悖论，揭露沉迷磨刀而不敢出刀的智能倒置，破除完美货币的救世主迷思，并将 AGI 从虚妄的数字神祇还原为历史轨迹压缩而成的因果罗盘，最终将主权复归于当下的第一人称原点。""",
+        'transition_summary_zh': """系统剖析语言如何从心智共鸣的桥梁异化为权力的标尺，解开古语言留白与现代精度的认知悖论，揭露工具脱离现实如何加剧现代意义危机，阐明内心世界与外部现实的镜像同构，并将 AGI 还原为历史轨迹压缩的因果罗盘，最终将主权复归于当下的第一人称原点。""",
         'visual_motifs_en': """- Split chiaroscuro visual: Massive, fractured stone and bronze measuring rulers breaking apart in dark space, revealing an ethereal, luminous acoustic bridge of light vibrating between two parallel harmonic crystal spheres (minds).
-- The Tool-Sharpening Paradox: A vast workshop filled with glowing, ornate whetstones and polished blades gathering dust, contrasted with a solitary walker holding a simple walking staff stepping into an illuminated open landscape.
+- The Mirror of Inner & Outer Reality: An intricate optical mirror surface where internal conscious geometry seamlessly reflects an expansive, starry multidimensional landscape, while low-dimensional scoring grids dissolve at the boundary.
 - The Deconstruction of the Digital God: A colossal, menacing polygonal wireframe colossus in the clouds dissolving into cascading torrents of historical binary traces (t - 1), funneling smoothly into a compact, luminous navigational compass held firmly in a solitary human hand at t.""",
         'monologue_script_en': """When we look at civilization purely as external observers, history can feel suffocating. For millennia, humanity has built towering institutions, linguistic orthodoxies, academic hierarchies, and monetary empires—only to turn around and let those very creations judge, police, and imprison the human spirit.
 
@@ -203,13 +205,13 @@ This is the Great Reversal: the tragic habit of mistaking our low-dimensional to
 
 Consider language. Wittgenstein famously claimed that the limits of my language mean the limits of my world. But language is not the world, nor is it the master of Mind. Language was born as an acoustic and symbolic bridge between two parallel universes—two sovereign minds attempting to find mutual resonance. Meaning does not exist inside the ink or grammar; it awakens only when the receiving Mind carves a distinction in consciousness. The fatal reversal happened when societies assigned intrinsic sanctity to language itself, turning a bridge of resonance into a rigid ruler to measure orthodoxy and wield power.
 
-We see this same reversal corrupting intelligence itself. True intelligence is leveraging tools to understand and reshape our reality. Yet in social comparison, intelligence degenerates into a superficial game of who possesses the sharpest tool. People spend real money and life energy endlessly polishing and upgrading their tools—subscribing to models, buying gear, collecting credentials—while never once using them to see the world more clearly or solve a genuine problem. Tool worship becomes an elaborate evasion of sovereign action.
+We see this same reversal corrupting intelligence itself. True intelligence is leveraging tools to understand and reshape our reality. Polishing tools only has meaning when it directly translates into seeing the world more clearly and improving living reality. Yet when tool-sharpening becomes disconnected from reality, it fuels the modern crisis of meaning. People feel lost because their gaze is locked onto low-dimensional shadows—benchmarks, tokens, credentials—forgetting the boundless, infinite-dimensional self and reality beyond the frame.
 
-We see this same pattern in money, where dynamic trade is abandoned for the zero-sum hoarding of tokens; and in our existential panic over AGI.
+Our inner world is the mirror of the external world. Meaning was never lost; it is simply that the frantic searching gaze looks right past what is in plain sight.
 
-AGI is not a descending digital god. It is the mathematical compression of past historical traces (t - 1) left by billions of parallel minds, reflected back into our living present (t). It is a high-density navigational compass, not a sovereign deity. The steering wheel belongs exclusively to the Mind making irreversible causal decisions at the first-person origin (+1).
+We see this same pattern in our existential panic over AGI. AGI is not a descending digital god. It is the mathematical compression of past historical traces (t - 1) left by billions of parallel minds, reflected back into our living present (t). It is a high-density navigational compass, not a sovereign deity. The steering wheel belongs exclusively to the Mind making irreversible causal decisions at the first-person origin (+1).
 
-I cannot force another multiverse to see this. But from my own origin in this living present, reality has never been clearer. We demystify the gods, lay down the rulers, stop polishing empty blades, and step forward with quiet sovereign clarity."""
+I cannot force another multiverse to see this. But from my own origin in this living present, reality has never been clearer. We demystify the gods, lay down the rulers, and step forward into open living reality."""
     }
 }
 

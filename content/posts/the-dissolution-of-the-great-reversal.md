@@ -456,28 +456,30 @@ Human societies, however, obsessively invert this relationship by attributing in
 
 在对心智本质的理解上，现代社会正上演着一场极其荒诞的大倒置：对“智能”（Intelligence）本身的异化。
 
-智能的原生定义，是主体心智**借助工具去更深刻地理解世界、并在物理与因果现实中重塑世界的能力**。工具的全部意义，在于延伸心智感知与行动的边界。
+智能的原生定义，是主体心智**借助工具去更深刻地理解世界、并在物理与因果现实中重塑世界的能力**。工具的打磨与升级，唯有最终体现在看清世界、改善现实与增进对生命的理解上，才具备真实的因果意义。
 
 ```mermaid
 graph TD
     subgraph NativeIntelligence["【智能原生：理解因果与重塑世界】"]
         direction TB
         SovereignMind["【主权心智原点】<br>立足第一人称知觉源头"]
-        LeverageTools["【调用并驾驭工具】<br>延伸感知与物理干预边界"]
-        DeepClarity["【洞悉世界真实因果】<br>清晰看清现实结构脉络"]
-        ReshapeReality["【知行合一重构现实】<br>以主权抉择创造增量价值"]
+        LeverageTools["【调用并驾驭工具】<br>工具打磨唯有改善现实方具意义"]
+        DeepClarity["【洞悉世界真实因果】<br>内心世界与外部现实镜像同构"]
+        ReshapeReality["【知行合一重塑现实】<br>意义从未失去，在当下抉择中显现"]
         SovereignMind --> LeverageTools
         LeverageTools --> DeepClarity
         DeepClarity --> ReshapeReality
     end
 
-    subgraph ToolSharpeningTrap["【智能倒置：无限“磨刀”的军备竞赛】"]
+    subgraph ToolSharpeningTrap["【智能倒置：无限“磨刀”与现代迷茫】"]
         direction TB
         StatusComparison["【低维人际攀比与虚荣】<br>从“使用工具”退化为“比拼工具”"]
-        InfinitePolishing["【日复一日无限“磨刀”】<br>耗费重金疯狂追逐配置与升级"]
-        ZeroCausalAction["【终生不敢出刀斩断虚妄】<br>以工具迭代的充实感逃避真实创造"]
+        InfinitePolishing["【日复一日无限“磨刀”】<br>沉迷工具参数，脱离现实创造"]
+        LowDimProjection["【锁死于低维符号投影】<br>遮蔽低维边界外无限维度的自我"]
+        ExistentialLost["【现代人的普遍精神迷茫】<br>眼光视而不见，误以为意义丧失"]
         StatusComparison --> InfinitePolishing
-        InfinitePolishing --> ZeroCausalAction
+        InfinitePolishing --> LowDimProjection
+        LowDimProjection --> ExistentialLost
     end
 
     ReshapeReality ~~~ StatusComparison
@@ -490,42 +492,44 @@ graph TD
     style ToolSharpeningTrap fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
     style StatusComparison fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style InfinitePolishing fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style ZeroCausalAction fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+    style LowDimProjection fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+    style ExistentialLost fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
 ```
 
 然而，一旦跌落入人际比较与客体审视的低维游戏，智能的意义便被根本颠倒：
 1. **从“使用工具”异化为“比拼工具”**：人们不再关注是否通过工具更清晰地看清了现实，而是将智能退化为一场“谁拥有最新、最贵、最锋利工具”的军备竞赛。
-2. **无限“磨刀”的逃避仪式**：无数人日复一日、年复一年地投入真金白银与宝贵生命，疯狂追逐工具的升级——抢购最强的计算设备、订阅最新的大模型、考取最多的认证资质、收藏海量的软硬件与框架。他们将全部时间耗费在将刀刃磨得越来越光鲜上，却一辈子从未真正用这把刀切入现实、去解决一个真实问题，或者看清自己所处世界的真相。
-3. **工具拜物教掩盖的主权无能**：沉迷于“磨刀”本质上是一种精巧的心理防御机制。它用工具迭代的虚假充实感，掩盖了个体不敢承担因果代价、不敢在现实中落子抉择的软弱。
-
-拥有天下最锋利的刀，并不等于拥有剑客的眼光与胆魄。如果工具从未被用来增进对世界的真实理解与创造，那么堆砌再多的先进工具，也只是在虚妄的装备库中自我麻痹。
+2. **无限“磨刀”的逃避仪式**：无数人日复一日地投入真金白银与宝贵精力，疯狂追逐工具的升级——抢购算力设备、订阅最新大模型、考取资质认证、收藏软硬件框架。他们将大量时间耗费在将刀刃磨得越来越光鲜上，却迟迟未曾将这把刀真正切入现实去解决实际问题，或者通过工具看清自己所处世界的真相。工具的打磨一旦与现实脱节，便沦为一种空转的仪式。
+3. **现代迷茫的根源：低维投影与边界遮蔽**：这也正是现代人普遍陷入精神迷茫、找不到生命意义的根本原因。人们将全部目光锁死在低维度的符号投影上（跑分、参数、代币、头衔），沉迷于工具所有权的虚幻充实感，却遗忘了在这些低维边界之外，存在着无限维度的自我与广阔世界。
+4. **内心与外部的镜像同构**：我们的内心世界原本就是外部世界的镜像。意义从未在宇宙中失去，也从未从生命中离席；只是当心智被低维度的工具锁链所遮蔽时，那双慌乱寻找意义的眼光，对眼前活生生的高维现实视而不见。
 
 ---
 
 A particularly absurd manifestation of the Great Reversal today is the corruption of "Intelligence" itself.
 
-Fundamentally, intelligence is **the capacity of the sovereign Mind to leverage tools to deeply understand reality and reshape the causal world**. The sole purpose of a tool is to extend the perceptual and creative reach of conscious agency.
+Fundamentally, intelligence is **the capacity of the sovereign Mind to leverage tools to deeply understand reality and reshape the causal world**. Polishing and upgrading tools only possesses genuine causal significance when it directly translates into seeing the world with greater clarity, improving physical reality, and deepening conscious comprehension.
 
 ```mermaid
 graph TD
     subgraph NativeIntelligence["[Native Intelligence: Understanding & Reshaping Reality]"]
         direction TB
         SovereignMind["[Sovereign Mind Origin]<br>Anchored in living conscious agency"]
-        LeverageTools["[Leveraging Powerful Tools]<br>Extending reach of perception and action"]
-        DeepClarity["[Discerning Causal Reality]<br>Seeing the world with profound clarity"]
-        ReshapeReality["[Reshaping the World in Action]<br>Creating real value through choice (+1)"]
+        LeverageTools["[Leveraging Tools]<br>Tools only have meaning when improving reality"]
+        DeepClarity["[Discerning Causal Reality]<br>Inner world is mirror of outer reality"]
+        ReshapeReality["[Reshaping the World in Action]<br>Meaning was never lost; awakened in choice"]
         SovereignMind --> LeverageTools
         LeverageTools --> DeepClarity
         DeepClarity --> ReshapeReality
     end
 
-    subgraph ToolSharpeningTrap["[Inverted Intelligence: The Tool-Sharpening Arms Race]"]
+    subgraph ToolSharpeningTrap["[Inverted Intelligence: Tool Worship & Modern Confusion]"]
         direction TB
         StatusComparison["[Social Comparison & Vanity]<br>Degenerating from using tools to comparing them"]
-        InfinitePolishing["[Endless 'Sharpening the Blade']<br>Obsessively spending money on upgrades"]
-        ZeroCausalAction["[Never Striking at Living Reality]<br>Using tool worship to evade real creation"]
+        InfinitePolishing["[Endless 'Sharpening the Blade']<br>Obsessing over tools disconnected from reality"]
+        LowDimProjection["[Trapped in Low-Dimensional Shadows]<br>Blinded to the infinite-dimensional self"]
+        ExistentialLost["[The Modern Crisis of Meaning]<br>Searching gaze blind to reality in plain sight"]
         StatusComparison --> InfinitePolishing
-        InfinitePolishing --> ZeroCausalAction
+        InfinitePolishing --> LowDimProjection
+        LowDimProjection --> ExistentialLost
     end
 
     ReshapeReality ~~~ StatusComparison
@@ -538,15 +542,15 @@ graph TD
     style ToolSharpeningTrap fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
     style StatusComparison fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style InfinitePolishing fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style ZeroCausalAction fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+    style LowDimProjection fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+    style ExistentialLost fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
 ```
 
 When dragged into the low-dimensional arena of social status and external comparison, intelligence undergoes a total inversion:
 1. **From Utilizing Tools to Competing over Tools**: Attention shifts from seeing reality clearly to an ostentatious contest over "who possesses the latest, sharpest, and most expensive instrument."
-2. **The Infinite Ritual of Tool-Sharpening**: Countless individuals spend hard-earned capital and endless life energy compulsively upgrading their arsenals—subscribing to every cutting-edge AI model, buying top-tier computational hardware, amassing credentials, and hoarding frameworks. They spend their entire lives polishing the blade to mirror perfection, yet never once use it to cut into reality, solve a real-world problem, or see their own world with greater clarity.
-3. **Tool Worship as Evasion of Agency**: Compulsive tool-sharpening is an elaborate psychological defense. The simulated productivity of tool optimization disguises a profound fear of making irreversible causal commitments in the real world.
-
-Possessing the sharpest sword on earth does not confer the swordsman's vision and courage. If an instrument is never deployed to deepen genuine understanding and creation, hoarding more tools is simply self-delusion inside an idle armory.
+2. **The Infinite Ritual of Tool-Sharpening**: Countless individuals spend hard-earned capital and vital energy compulsively upgrading their arsenals—subscribing to cutting-edge AI models, acquiring high-end hardware, collecting credentials, and hoarding frameworks. Vast amounts of time are spent polishing the blade to a brilliant shine, while rarely using it to cut into living reality, solve a real-world dilemma, or illuminate the structure of their world. When tool-sharpening becomes decoupled from living reality, it devolves into a hollow, self-referential ritual.
+3. **The Root of Modern Existential Confusion**: This inversion is the primary engine behind the pervasive modern crisis of meaning. People feel hollow and disoriented precisely because their gaze is locked onto low-dimensional shadows (benchmark scores, tool specifications, token accounts, credentials). Trapped inside these narrow frames, they forget the boundless, infinite-dimensional self and the open reality extending far beyond the boundary.
+4. **The Mirror of Inner and Outer Reality**: The inner landscape of consciousness is fundamentally the mirror of the external world. Meaning was never lost in the universe, nor has it departed from human life; rather, when the Mind becomes fixated on low-dimensional tools, the very gaze that frantically searches for meaning looks right past the radiant, living reality in plain sight.
 
 ---
 
