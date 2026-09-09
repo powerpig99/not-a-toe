@@ -154,7 +154,7 @@ graph TD
 语言从来不是世界本体，更不是心智的主宰。语言的本质，是架设在两个平行宇宙（两个独立心智）之间的一座低维振动桥梁：
 1. **意义不在墨迹与声波中**：符号本身没有自带的先验意义，声波在空气中的震颤与墨水在纸张上的铺展只是物理痕迹。真正的意义，唯有当接收方的心智在其内部主动划出认知区分、进行本地编译时，才在意识场中破土而出。
 2. **交流的本质是共鸣而非同化**：语言不是为了把两个平行宇宙抹平为同一模具，而是为了在两个无法直接贯通的主体之间寻找因果振动的和弦。
-3. **尺度的倒置与权力的异化**：当文明将意义赋予语言本身，倒置便发生了。人们不再将语言视为了解彼此心智的探索工具，而是将其实体化为一把僵硬的标尺——用词汇的纯正、语法的教条、话语的范式来相互衡量、分类与规训。
+3. **尺度的倒置与工具的异化**：当人们误将意义赋予语言符号本身，倒置便发生了。心智不再将语言视为了解彼此的探索工具，而是将其实体化为一把僵硬的标尺——用词汇的格式、语法的教条与话语的范式来相互衡量、分类与规训。
 
 当工具变成了主人的度量衡，语言就从连接心智的桥梁，退化为束缚理解的教条标尺。
 
@@ -202,7 +202,7 @@ graph TD
 Language was never the ontological world itself, nor is it the sovereign master of Mind. Language was invented as a low-dimensional acoustic and symbolic bridge between two parallel universes—two sovereign minds attempting to communicate:
 1. **Meaning Is Never in the Ink or Waves**: Symbols possess zero intrinsic meaning. Acoustic vibrations in air and ink stains on parchment are purely physical artifacts. Meaning only comes alive when the receiving Mind carves a distinction inside consciousness and compiles the signal locally.
 2. **Communication Is Resonance, Not Homogenization**: The purpose of language is not to flatten two sovereign universes into identical molds, but to discover harmonic resonance between two separate consciousnesses.
-3. **The Reversal into an Authoritarian Ruler**: The Great Reversal occurred when societies attributed intrinsic authority to language itself. Instead of using language as a humble bridge to understand one another, civilizations reified it into a rigid ruler—measuring, ranking, and policing others through grammatical and rhetorical conformity.
+3. **The Inversion of Rulers & Tools**: The Great Reversal occurs the moment minds mistakenly attribute intrinsic meaning to language symbols themselves. Instead of using language as an exploratory bridge to discover mutual resonance, consciousness reifies it into a rigid ruler—measuring, ranking, and policing others through grammatical dogmas and discourse conformity.
 
 When the tool is turned into a master ruler, language ceases to be a bridge of understanding and becomes a rigid metric of external classification.
 
@@ -334,7 +334,7 @@ graph TD
     style DogmaticStagnation fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
 ```
 
-然而，制度化文明迅速将知识倒置为静态的壁垒：
+然而，在群体协作与制度构建的过程中，人们容易在认知上发生倒置，将知识凝固为静态的壁垒：
 1. **将地图误认为领土**：把前人留下的文本记录实体化为不可挑战的圣殿，把背诵地图的熟练度等同于对真实海洋的探索能力。
 2. **从认知工具退化为阶层标尺**：教育系统建立起重重认证体系、学术头衔与门阀标准。知识在社会化过程中逐渐被投射为标准化的考核指标与资质凭证，用于在组织中进行效率筛选与分工分层，从而使人容易将掌握地图的熟练度误当成探索未知的能力。
 3. **消解倒置的路径**：知识必须被剥离一切阶级光环与权威崇拜，重新回归为任何人皆可在实践中调用、验证、修正乃至抛弃的通用工具。
@@ -377,7 +377,7 @@ graph TD
     style DogmaticStagnation fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
 ```
 
-Institutionalized civilization, however, rapidly inverts knowledge into a static caste apparatus:
+Yet in the process of collective coordination and institutionalization, minds frequently invert this relationship, solidifying knowledge into static barriers:
 1. **Confusing the Map with the Territory**: Canonizing historical records into untouchable scriptures, mistaking the rote memorization of charts for genuine navigational capability across open seas.
 2. **Degenerating from Cognitive Compass to Social Metric**: Academic institutions erect credential walls, bureaucratic titles, and gatekeeping hierarchies. Knowledge is projected into standardized credentials and evaluation metrics for institutional sorting, leading people to confuse map memorization with genuine exploratory capability.
 3. **Dissolving the Reversal**: Knowledge must be stripped of all institutional idolatry, returning to its rightful status as a provisional map that any sovereign Mind can freely test, revise, or discard in living practice.
@@ -422,10 +422,10 @@ graph TD
     style PerfectTokenMyth fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
 ```
 
-然而，人类社会几乎不可避免地将价值归宿倒置于金钱符号自身：
+然而，在漫长的协作演进中，无数心智在自由选择与交互中留下了普遍的倒置痕迹——误将价值归宿寄托于金钱符号自身：
 - **存量崇拜与零和死局**：将原本流通的记账符号实体化为财富的终极实体，诱使个体与组织将毕生精力耗费在对存量符号的争夺、囤积与存量再分配中，背离了真实生产力与价值创造的根基。
 - **对“完美货币”的救世主迷思**：无论是在历史上的黄金崇拜、法币神话，还是当代对某些去中心化加密代币的救世主式狂热中，都隐含着同一种倒置思维——误以为只要找到一种“数学上完美无瑕、无法被篡改的货币制度”，人类就能自动消除协作摩擦与经济困境。
-- **解脱的真相**：人类从不需要一种完美的货币形态来拯救文明。金钱永远只是低维的记账投影；若无主权心智在物理现实中持续支付因果代价去创造真实的增量价值，无论多么“完美”的代币符号，都不过是一座空转的虚无账本。
+- **解脱的真相**：从不需要一种完美的货币形态来拯救现实。金钱永远只是低维的记账投影；若无主权心智在物理现实中持续支付因果代价去创造真实的增量价值，无论多么“完美”的代币符号，都不过是一座空转的虚无账本。
 
 ---
 
@@ -465,16 +465,16 @@ graph TD
     style PerfectTokenMyth fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
 ```
 
-Human societies, however, obsessively invert this relationship by attributing intrinsic value to the monetary token itself:
+Yet across countless interactions, minds freely choosing low-dimensional proxies have left behind a widespread pattern of inversion—attributing intrinsic value to the monetary token itself:
 - **Token Hoarding & Zero-Sum Deadlocks**: Treating accounting tokens as the ultimate essence of wealth lures individuals into stock accumulation and zero-sum redistribution, diverting life energy away from real production and innovation.
 - **The Myth of the 'Perfect Currency'**: Whether manifested in gold standard dogmatism, fiat statism, or modern cryptocurrency messianism, people fall into the same trap: believing that an "algebraically flawless monetary mechanism" will spontaneously emancipate humanity from scarcity and coordination friction.
-- **The Grounded Reality**: Humanity never needed a perfect currency to achieve liberation. Money remains a low-dimensional shadow. Without the sovereign Mind paying the living causal cost to create genuine real-world value, the most mathematically pristine token is merely an empty, rotating ledger.
+- **The Grounded Reality**: We never needed a perfect currency to liberate reality. Money remains a low-dimensional shadow. Without the sovereign Mind paying the living causal cost to create genuine real-world value, the most mathematically pristine token is merely an empty, rotating ledger.
 
 ---
 
 ## 六、 智能的倒置：从理解重构世界到无限“磨刀”的军备竞赛 / 6. The Reversal of Intelligence: From Understanding Reality to the Infinite Ritual of Tool-Sharpening
 
-在对心智本质的理解上，现代社会正上演着一场极其荒诞的大倒置：对“智能”本身的异化。
+在对心智本质的理解上，当下正普遍发生着一场深刻的大倒置：对“智能”本身的异化。
 
 智能的原生定义，是主体心智**借助工具去更深刻地理解世界、并在物理与因果现实中重塑世界的能力**。工具的打磨与升级，唯有最终体现在看清世界、改善现实与增进对生命的理解上，才具备真实的因果意义。
 
@@ -524,7 +524,7 @@ graph TD
 
 ---
 
-A particularly absurd manifestation of the Great Reversal today is the corruption of "Intelligence" itself.
+A profound ontological inversion has taken hold in modern practice regarding the nature of Mind: the alienation of "intelligence" itself.
 
 Fundamentally, intelligence is **the capacity of the sovereign Mind to leverage tools to deeply understand reality and reshape the causal world**. Polishing and upgrading tools only possesses genuine causal significance when it directly translates into seeing the world with greater clarity, improving physical reality, and deepening conscious comprehension.
 
@@ -594,7 +594,7 @@ graph TD
     subgraph AGITraceMirror["【第三人称度量的结构性投影与倒置】"]
         direction TB
         MetricProjection["【第三人称客观化需求】<br>将无限维心智折叠为可测量的低维标尺"]
-        ZeroSumStructure["【低维标尺构成零和比较】<br>线性指标排序必然带来定义与达标的竞争"]
+        ZeroSumStructure["【低维标尺构成零和比较】<br>线性指标排序衍生出定义与达标的竞争"]
         ModelCompression["【历史轨迹的数学压缩矩阵】<br>AI是平行心智交互痕迹的统计镜像"]
         NoUniversePainting["【AI缺乏绘制宇宙能力】<br>缺乏第一人称原点，无法跨出活态定局"]
         MetricProjection --> ZeroSumStructure
@@ -622,7 +622,7 @@ graph TD
 3. **倒置发生的结构原因：第三人称度量对活态心智的投影折叠**：
    - 心智绘制宇宙的能力是第一人称的、不可客观分割的无限维度体验；但在第三人称的公共世界中，为了进行协作、资源分配与性能评估，人们必须寻找可量化、可验证的外部指标。
    - 于是，心智的生成力被投射为一组离散的测试基准、任务准确率与参数规模。一旦活态能力被折叠进低维度的统计标尺，“智能”在概念结构上便被锁定为一个线性的排序系统。
-   - 这就决定了 AGI 从被构想伊始，就是一个低维的零和游戏——它的运作机制依赖于固化的外部指标来划分高下与达标线。近期各方围绕 AGI 概念不断调整定义以匹配自身技术进展、进而宣称达标的现象，正是第三人称度量体系将工具标尺误当成心智本体时的必然逻辑展开。
+   - 这使得 AGI 从被构想伊始，便带上了低维零和游戏的结构特征——它的运作机制依赖于固化的外部指标来划分高下与达标线。近期各方围绕 AGI 概念不断调整定义以匹配自身技术进展、进而宣称达标的现象，正是第三人称度量体系将工具标尺误当成心智本体时的自然逻辑展开。
 4. **主权心智的因果方向盘**：无论历史轨迹被压缩得多么精妙、模型参数多么庞大，决定未来走向（`t + 1`）的因果方向盘，永远不在被动压缩的过去数据中，而唯独掌握在当下做出不可逆抉择的主权心智手中。
 
 将 AGI 从“数字神祇”的想象还原为“人类历史心智交互轨迹的高密压缩罗盘”，有助于看清工具与心智之间的真实因果边界。
@@ -647,7 +647,7 @@ graph TD
     subgraph AGITraceMirror["[Structural Projection of Third-Person Measurement]"]
         direction TB
         MetricProjection["[Need for Objective Third-Person Metrics]<br>Folding infinite-dimensional Mind into measurable rulers"]
-        ZeroSumStructure["[Low-Dimensional Rulers Form Zero-Sum Games]<br>Linear metrics inevitably create definition & threshold contests"]
+        ZeroSumStructure["[Low-Dimensional Rulers Form Zero-Sum Games]<br>Linear metrics naturally foster definition & threshold contests"]
         ModelCompression["[Mathematical Trace Compression]<br>AI is a statistical mirror of past interactions"]
         NoUniversePainting["[AI Cannot Paint the Universe]<br>Lacks a first-person origin to collapse living reality"]
         MetricProjection --> ZeroSumStructure
@@ -675,7 +675,7 @@ Analyzing the structural relationship between first-person Mind and third-person
 3. **The Structural Cause of the Inversion: Projecting Mind onto Third-Person Metrics**:
    - The Mind's capacity to paint the universe is an unquantifiable, first-person, infinite-dimensional reality. Yet in a shared third-person world, coordinating, allocating resources, and evaluating capabilities requires objective, verifiable, and measurable standards.
    - Consequently, the generative power of Mind is projected down onto a discrete set of low-dimensional benchmarks, test accuracies, and parameter scales. Once living agency is collapsed into low-dimensional statistical rulers, "intelligence" is structurally framed as a linear sorting system.
-   - This means that from its very inception, "AGI" was structured as a low-dimensional zero-sum game—its operational mechanism relies on fixed external thresholds for comparative ranking. The ongoing phenomenon of shifting AGI definitions to match technological milestones and claiming early achievement is the natural structural consequence of mistaking low-dimensional measurement rulers for the living essence of Mind.
+   - This imbues "AGI" from its inception with the structural traits of a low-dimensional zero-sum game—its operational mechanism relies on fixed external thresholds for comparative ranking. The ongoing phenomenon of shifting AGI definitions to match technological milestones and claiming early achievement is the natural structural consequence of mistaking low-dimensional measurement rulers for the living essence of Mind.
 4. **The Causal Steering Wheel Belongs to Mind**: No matter how dense the historical compression or how massive the parameter count, the steering wheel dictating the future (`t + 1`) never resides within archived training data. It belongs exclusively to the sovereign Mind making irreversible causal commitments in the living present.
 
 Demystifying AGI from a "descending digital god" into a high-density navigational compass of historical traces clarifies the causal boundary between the tool and the sovereign Mind.
@@ -752,7 +752,7 @@ Anchored firmly at the first-person origin (`t`), the sovereign Mind steps boldl
 
 ## 九、 结语：文明的退魅与主权的归位 / 9. Conclusion: The Demystification of Civilization and the Return of Sovereignty
 
-文明演进的真正成熟，不在于制造出多么繁复庞大的符号崇拜体系，而在于其个体心智何时能够集体识破这些符号系统的倒置幻觉。
+心智探索的真正清明，不在于制造出多么繁复庞大的符号体系，而在于个体心智何时能够识破这些符号系统的倒置幻觉。
 
 从语言的审判到平行的共鸣，从知识的门阀到实践的图谱，从货币的贪执到真实的创造，从工具的炫耀到智能的落地，从数字的造神到技术的归位——大倒置的消解，标志着心智对文明构建物的全面退魅。
 
@@ -760,7 +760,7 @@ Anchored firmly at the first-person origin (`t`), the sovereign Mind steps boldl
 
 ---
 
-The true maturation of civilization is not measured by the proliferation of ornate idolatries and dogmatic hierarchies, but by the awakening of sovereign minds who see through the illusions of their own tools.
+The genuine clarity of conscious exploration is not measured by the complexity of symbolic hierarchies, but by the moment individual minds awaken from the illusion of ontological inversion.
 
 From linguistic judgment to parallel resonance, from academic credentialism to empirical navigation, from token worship to authentic wealth creation, from endless tool-sharpening to living intelligence, and from digital idolatry to technological mastery—the dissolution of the Great Reversal marks the profound demystification of civilization.
 
