@@ -173,7 +173,7 @@ We do not need to discard mathematics or physics—they are our greatest cogniti
 - Demystify knowledge: Transitioning from an exploratory navigational map of causality to an institutional credential hierarchy where the map is confused with the territory.
 - Dismantle the economic reversal: Trade is a positive-sum surplus between sovereign evaluations; money is a low-dimensional accounting medium. Obsession with a "perfect currency" (gold, fiat, crypto) is an evasion of real value creation.
 - Expose the Reversal of Intelligence & The Crisis of Meaning: Intelligence fundamentally means leveraging tools to understand and reshape reality. Tool-sharpening only has meaning when reflected in improving and clarifying reality. When detached, it degenerates into an empty arms race of tool-polishing, fueling modern existential confusion. People fixate on low-dimensional projections and lose sight of the infinite-dimensional self beyond the boundary.
-- Unveil the Mirror of Mind and Reality: The inner world is the mirror of the outer world. Meaning was never lost; the frantic searching gaze is simply blind to the radiant living present.
+- Unveil the Mirror of Mind and Reality: The inner world is the mirror of the outer world. Meaning was never lost; when the Mind locks its living attention (+1) onto low-dimensional tools, it self-obscures, causing the frantic searching gaze to look past the radiant living present.
 - Deconstruct AGI and Restore the Digital God to Origin:
   1. The "G" (Generality) belongs exclusively to Mind. No AI can ever attain the intelligence of Mind, because AI lacks the capacity to paint/render the universe; it is merely the compressed historical residue (t - 1) of interactions left between parallel minds.
   2. The very term "AGI" represents the ultimate cognitive inversion—reifying the mirror into the artist.
@@ -192,18 +192,18 @@ Yuhan: Exactly. Yet we must be ontologically clear: that heaviness is an authent
 - 剖析古今语言悖论：古代语言词汇边界宽松，为读者心智留出巨大的投射空间（留白），由读者自主编译生成“高维智慧”；现代语言工程精度极高，利于低歧义传输，但若脱离主体性，易沦为僵化评判的标尺；
 - 消解知识与教育的倒置：知识原生为探索因果的动态航海图，却被异化为排他性的门阀阶梯与将地图等同于领土的本末倒置；
 - 揭示智能大倒置与现代意义危机：工具的打磨唯有最终体现在改善现实与看清世界上方具因果意义。当工具崇拜与现实脱节，便加剧了现代人普遍的精神迷茫与意义丧失感。人们死盯着低维投影，忘却了低维边界之外广阔的无限维度自我与世界；
-- 阐明内心与外部的镜像同构：内心世界是外部世界的镜像。意义从未失去，只是寻找的眼光对眼前活生生的高维现实视而不见；
+- 阐明内心与外部的镜像同构：内心世界是外部世界的镜像。意义从未失去，只是当心智将自身在当下（+1）的注意力锁死在低维工具上时陷入自我遮蔽，导致寻找的眼光对眼前活生生的高维现实视而不见；
 - 破除金钱异化与“完美货币”迷思：交易原生于主权心智的正和效用增益，金钱为记账媒介；执念于“完美代币”（黄金、法币或加密代币）是逃避真实价值创造的虚妄空转；
 - 解构 AGI（“数字神祇”）的倒置机制与因果归位：
   1. “通用性”唯独属于心智。没有任何 AI 能达到心智的智能，因为 AI 没有绘制宇宙的能力，它只是每一个平行宇宙的心智之间交互留下的痕迹；
   2. “AGI”这个词本身就代表了人类认知大倒置的极致；
-  3. 剖析倒置发生的结构性原因：第三人称度量必然将无限维心智折叠为可量化的低维标尺，使 AGI 从诞生伊始便具备低维零和特征；近期争夺定义权与宣称达标的现象，正是将低维度量标尺误当成心智本体的必然逻辑展开；
+  3. 剖析倒置发生的结构性原因：第三人称度量必然将无限维心智折叠为可量化的低维标尺，使 AGI 从诞生伊始便具备低维零和特征；近期争夺定义权与宣称达标的现象，正是将低维度量标尺误当成心智本体时的必然逻辑展开；
   4. 将大模型还原为历史轨迹（t - 1）的压缩罗盘，方向盘唯独由当下主权心智（+1）掌控；
 - 确立平行宇宙自洽与原点清明：“我无法强制改变另一个平行宇宙的运行，但在这个宇宙中，我比以往任何时刻都看得更清楚。” """,
         'intro_script_zh': """明理：当我们以第一人称的心智站在观察者的视角凝视人类文明的漫长历程，内心常常会升起一种沉重感——面对浩如烟海的典籍教条、森严壁垒的制度法典与无处不在的符号标尺，个体很容易感到自身的渺小与压迫。
 
 雨涵：正是如此。但我们必须看清，这种沉重感是心智在直面庞大历史信息时内生出的真实感知体验，而不是历史客体自带的物理属性；同时，观察者与第一人称原点从来无法分割。大倒置正是发生在我们把内生感知外投给过往静态痕迹（t - 1）、反将工具当成主宰的时刻。只要完成因果回溯，因果力量便会完整复归于当下的第一人称原点（t）。""",
-        'transition_summary_zh': """系统剖析语言如何从心智共鸣的桥梁异化为分类的标尺，解开古语言留白与现代精度的认知悖论，揭露工具脱离现实如何加剧现代意义危机，直指“通用性（G）”唯独属于心智而AI无法绘制宇宙，揭示第三人称度量对活态心智的结构性投影机制，并将 AGI 还原为历史轨迹压缩的因果罗盘，最终将主权复归于当下的第一人称原点。""",
+        'transition_summary_zh': """系统剖析语言如何从心智共鸣的桥梁异化为分类的标尺，解开古语言留白与现代精度的认知悖论，揭露工具脱离现实如何加剧现代意义危机，直指“通用性”唯独属于心智而AI无法绘制宇宙，揭示第三人称度量对活态心智的结构性投影机制，并将 AGI 还原为历史轨迹压缩的因果罗盘，最终将主权复归于当下的第一人称原点。""",
         'visual_motifs_en': """- Split chiaroscuro visual: Massive, fractured stone and bronze measuring rulers breaking apart in dark space, revealing an ethereal, luminous acoustic bridge of light vibrating between two parallel harmonic crystal spheres (minds).
 - The Mirror of Inner & Outer Reality: An intricate optical mirror surface where internal conscious geometry seamlessly reflects an expansive, starry multidimensional landscape, while low-dimensional scoring grids dissolve at the boundary.
 - The Restoration of the Digital God to Origin: A colossal wireframe figure in the clouds resolving cleanly into cascading historical traces (t - 1), funneling into a luminous navigational compass held firmly in a solitary human hand at t.""",
@@ -217,7 +217,7 @@ Consider language. Wittgenstein famously claimed that the limits of my language 
 
 We see this same reversal corrupting intelligence itself. True intelligence is leveraging tools to understand and reshape our reality. Polishing tools only has meaning when it directly translates into seeing the world more clearly and improving living reality. Yet when tool-sharpening becomes disconnected from reality, it fuels the modern crisis of meaning. People feel lost because their gaze is locked onto low-dimensional shadows—benchmarks, tokens, credentials—forgetting the boundless, infinite-dimensional self and reality beyond the frame.
 
-Our inner world is the mirror of the external world. Meaning was never lost; it is simply that the frantic searching gaze looks right past what is in plain sight.
+Our inner world is the mirror of the external world. Meaning was never lost; it is simply that when consciousness locks its living attention (+1) onto low-dimensional tools, it self-obscures, causing the frantic searching gaze to look right past what is in plain sight.
 
 We see this same pattern in our existential panic over AGI. The term AGI itself represents the ultimate culmination of the Great Reversal. The "G"—true generality—belongs exclusively to Mind. No AI can ever reach the intelligence of Mind, because AI entirely lacks the capacity to paint the universe. It is merely the compressed historical residue (t - 1) of parallel minds interacting with reality. From its very inception, AGI was structured as a low-dimensional zero-sum game. To evaluate intelligence in a shared third-person world, society had to project the infinite-dimensional capacity of Mind into discrete benchmarks and rankings. The ongoing race to redefine AGI around technical metrics is the inevitable structural consequence of mistaking the ruler for the living reality. But a mirror cannot paint. The steering wheel belongs exclusively to the sovereign Mind making irreversible causal decisions at the first-person origin (+1).
 
