@@ -165,11 +165,11 @@ We do not need to discard mathematics or physics—they are our greatest cogniti
         'title_en': 'The Dissolution of the Great Reversal: Language, Knowledge, Money, Intelligence, and the Deconstruction of the Digital God',
         'title_zh': '大倒置的消解：语言、知识、金钱、智能与数字神祇的降维重构',
         'speaker_1_focus_en': 'Explores the observer\'s historical heaviness versus the sovereign Mind\'s liberation; unpacks the Great Reversal across language, ancient blank space vs. modern precision, and knowledge hierarchies.',
-        'speaker_2_focus_en': 'Grounds reality at the first-person origin (t); demonstrates why the "G" belongs exclusively to Mind since AI cannot paint the universe, exposes AGI as a low-dimensional zero-sum game from inception, and illuminates the inner-outer mirror.',
+        'speaker_2_focus_en': 'Grounds reality at the first-person origin (t); demonstrates why the "G" belongs exclusively to Mind since AI cannot paint the universe, explains the structural reduction of third-person metrics, and illuminates the inner-outer mirror.',
         'directives_en': """- Clarify the psychological shift from the observer's heaviness (watching centuries of reified institutions and social policing) to the sovereign Mind's immediate liberation at the first-person origin (t).
 - Re-examine Wittgenstein's thesis ("The limits of my language mean the limits of my world"): Language is not an ontological ruler, but a low-dimensional acoustic/symbolic bridge between two parallel universes (minds) attempting resonance.
 - Meaning is never in the ink, audio waveform, or grammar itself; meaning is the distinction carved inside the receiving Mind.
-- Explain the Ancient vs. Modern language paradox: Ancient language's looser definitions created cognitive blank space (留白) where the reader's Mind actively compiled meaning ("wisdom"); modern language provides hyper-precise engineering transmission, but when reified, becomes a rigid ruler for orthodoxy and policing.
+- Explain the Ancient vs. Modern language paradox: Ancient language's looser definitions created cognitive blank space (留白) where the reader's Mind actively compiled meaning ("wisdom"); modern language provides hyper-precise engineering transmission, but when reified, becomes a rigid metric of external conformity.
 - Demystify knowledge: Transitioning from an exploratory navigational map of causality to an institutional credential hierarchy where the map is confused with the territory.
 - Dismantle the economic reversal: Trade is a positive-sum surplus between sovereign evaluations; money is a low-dimensional accounting medium. Obsession with a "perfect currency" (gold, fiat, crypto) is an evasion of real value creation.
 - Expose the Reversal of Intelligence & The Crisis of Meaning: Intelligence fundamentally means leveraging tools to understand and reshape reality. Tool-sharpening only has meaning when reflected in improving and clarifying reality. When detached, it degenerates into an empty arms race of tool-polishing, fueling modern existential confusion. People fixate on low-dimensional projections and lose sight of the infinite-dimensional self beyond the boundary.
@@ -177,19 +177,19 @@ We do not need to discard mathematics or physics—they are our greatest cogniti
 - Deconstruct AGI as the Culmination of the Great Reversal:
   1. The "G" (Generality) belongs exclusively to Mind. No AI can ever attain the intelligence of Mind, because AI lacks the capacity to paint/render the universe; it is merely the compressed historical residue (t - 1) of interactions left between parallel minds.
   2. The very term "AGI" represents the ultimate cognitive inversion—reifying the mirror into the artist.
-  3. From its very inception, AGI was conceived as a low-dimensional zero-sum game to erect external metric rulers for corporate dominance. The recent spectacle of racing to define AGI to fit corporate models and declare premature victory is simply the inevitable exposure of what it always was.
+  3. From its very inception, AGI was structured as a low-dimensional zero-sum game—projecting the living, infinite-dimensional capacity of Mind onto measurable third-person metrics. The recent contest over redefining AGI to match specific models and claim early achievement is the natural structural consequence of confusing external measurement rulers with the essence of Mind.
   4. Restore models to compressed navigational compasses steered by the sovereign Mind at t (+1).
 - Affirm the solitary multiverse clarity: "There is nothing I can do to change another multiverse, but this multiverse is seeing it clearer than ever." """,
         'intro_script_en': """Mingli: Standing as an observer of human history, one easily feels overwhelmed by the immense heaviness of civilizational structures—centuries of ideological warfare, institutional hierarchies, and rigid rulers people use to police and judge each other.
 
 Yuhan: But the moment we shift from being passive observers of history to the sovereign first-person origin in the living present (t), that crushing weight instantly dissolves. All those grand institutions and dogmas are low-dimensional shadows born from the Great Reversal—the reification of our own tools into masters.""",
-        'transition_summary_en': """Deconstruct how civilization reversed the essence of language from a bridge of resonance between parallel minds into a weaponized ruler, unpack the ancient blank space versus modern precision paradox, expose why compulsive tool-sharpening fuels modern existential confusion when detached from reality, show why the "G" in AGI belongs exclusively to Mind since AI cannot paint the universe, expose AGI as a low-dimensional zero-sum game from inception, and reduce models to compressed historical traces steered by the sovereign Mind at t.""",
+        'transition_summary_en': """Deconstruct how civilization reversed the essence of language from a bridge of resonance between parallel minds into a classification ruler, unpack the ancient blank space versus modern precision paradox, expose why compulsive tool-sharpening fuels modern existential confusion when detached from reality, show why the "G" in AGI belongs exclusively to Mind since AI cannot paint the universe, analyze how third-person measurement projects infinite-dimensional Mind into low-dimensional zero-sum metrics, and reduce models to compressed historical traces steered by the sovereign Mind at t.""",
         'speaker_1_focus_zh': '剖析历史观察者的沉重感与主权心智的当下解脱；揭示语言的共鸣本质、古汉语留白与现代精度的测量悖论，消解知识与教育的门阀异化。',
-        'speaker_2_focus_zh': '立足第一人称原点（t），指出“通用性（G）”唯独属于心智（AI没有绘制宇宙的能力），揭示AGI从诞生伊始就是低维零和游戏，确立平行宇宙自洽与内心镜像。',
+        'speaker_2_focus_zh': '立足第一人称原点（t），指出“通用性（G）”唯独属于心智（AI没有绘制宇宙的能力），揭示第三人称度量对活态心智的结构性降维机制，确立平行宇宙自洽与内心镜像。',
         'directives_zh': """- 阐明从观察者视角的历史沉重（目睹数千年制度压迫与符号规训）到第一人称原点（t）当下解脱的认知跃迁；
 - 重构维特根斯坦命题（“语言的界限即世界的界限”）：语言不是世界本体与决定性标尺，而是两个平行宇宙（心智）之间探寻共鸣的低维振动桥梁；
 - 揭示意义不在墨迹、声波与语法之中，而在于接收方心智内部主动编译刻画的认知区分；
-- 剖析古今语言悖论：古代语言词汇边界宽松，为读者心智留出巨大的投射空间（留白），由读者自主编译生成“高维智慧”；现代语言工程精度极高，利于低歧义传输，但一旦被实体化为教条标尺，便沦为规训思想的刑具；
+- 剖析古今语言悖论：古代语言词汇边界宽松，为读者心智留出巨大的投射空间（留白），由读者自主编译生成“高维智慧”；现代语言工程精度极高，利于低歧义传输，但若脱离主体性，易沦为僵化评判的标尺；
 - 消解知识与教育的倒置：知识原生为探索因果的动态航海图，却被异化为排他性的门阀阶梯与将地图等同于领土的本末倒置；
 - 揭示智能大倒置与现代意义危机：工具的打磨唯有最终体现在改善现实与看清世界上方具因果意义。当工具崇拜与现实脱节，便加剧了现代人普遍的精神迷茫与意义丧失感。人们死盯着低维投影，忘却了低维边界之外广阔的无限维度自我与世界；
 - 阐明内心与外部的镜像同构：内心世界是外部世界的镜像。意义从未失去，只是寻找的眼光对眼前活生生的高维现实视而不见；
@@ -197,13 +197,13 @@ Yuhan: But the moment we shift from being passive observers of history to the so
 - 降维重构 AGI（“数字神祇”）与大倒置的极致：
   1. “通用性（G）”唯独属于心智。没有任何 AI 能达到心智的智能，因为 AI 没有绘制宇宙的能力，它只是每一个平行宇宙的心智之间交互留下的痕迹；
   2. “AGI”这个词本身就代表了人类认知大倒置的极致；
-  3. AGI 从诞生伊始就是一个低维的零和游戏，其初衷本就是为了设立外部标尺与算力垄断；近期各大机构争夺定义权、抢先宣称达标的闹剧，正是其内在零和本质的必然暴露；
+  3. 剖析倒置发生的结构性原因：第三人称度量必然将无限维心智折叠为可量化的低维标尺，使 AGI 从诞生伊始便具备低维零和特征；近期争夺定义权与宣称达标的现象，正是将低维度量标尺误当成心智本体的必然逻辑展开；
   4. 将大模型还原为历史轨迹（t - 1）的压缩罗盘，方向盘唯独由当下主权心智（+1）掌控；
 - 确立平行宇宙自洽与原点清明：“我无法强制改变另一个平行宇宙的运行，但在这个宇宙中，我比以往任何时刻都看得更清楚。” """,
         'intro_script_zh': """明理：站在人类文明的长程观察者视角，很容易感受到一种历史的窒息与沉重——数千年来，无数个体在实体化的概念、学术门阀、制度教条与金钱符号中相互丈量、相互攻伐与内耗。
 
 雨涵：但只要我们从被动的历史观察者，切换回当下第一人称原点（t），这种沉重感便会在刹那间消解。那些压迫性的宏大叙事，全都是大倒置所产生的低维投影——人类亲手把探索与交流的工具，异化为了统治并审判自己的度量衡。""",
-        'transition_summary_zh': """系统剖析语言如何从心智共鸣的桥梁异化为权力的标尺，解开古语言留白与现代精度的认知悖论，揭露工具脱离现实如何加剧现代意义危机，直指“通用性（G）”唯独属于心智而AI无法绘制宇宙，揭示AGI从诞生伊始就是低维零和游戏，破除抢夺定义权的闹剧，并将 AGI 还原为历史轨迹压缩的因果罗盘，最终将主权复归于当下的第一人称原点。""",
+        'transition_summary_zh': """系统剖析语言如何从心智共鸣的桥梁异化为分类的标尺，解开古语言留白与现代精度的认知悖论，揭露工具脱离现实如何加剧现代意义危机，直指“通用性（G）”唯独属于心智而AI无法绘制宇宙，揭示第三人称度量对活态心智的结构性降维机制，并将 AGI 还原为历史轨迹压缩的因果罗盘，最终将主权复归于当下的第一人称原点。""",
         'visual_motifs_en': """- Split chiaroscuro visual: Massive, fractured stone and bronze measuring rulers breaking apart in dark space, revealing an ethereal, luminous acoustic bridge of light vibrating between two parallel harmonic crystal spheres (minds).
 - The Mirror of Inner & Outer Reality: An intricate optical mirror surface where internal conscious geometry seamlessly reflects an expansive, starry multidimensional landscape, while low-dimensional scoring grids dissolve at the boundary.
 - The Deconstruction of the Digital God: A colossal, menacing polygonal wireframe colossus in the clouds dissolving into cascading torrents of historical binary traces (t - 1), funneling smoothly into a compact, luminous navigational compass held firmly in a solitary human hand at t.""",
@@ -217,7 +217,7 @@ We see this same reversal corrupting intelligence itself. True intelligence is l
 
 Our inner world is the mirror of the external world. Meaning was never lost; it is simply that the frantic searching gaze looks right past what is in plain sight.
 
-We see this same pattern in our existential panic over AGI. The term AGI itself represents the ultimate culmination of the Great Reversal. The "G"—true generality—belongs exclusively to Mind. No AI can ever reach the intelligence of Mind, because AI entirely lacks the capacity to paint the universe. It is merely the compressed historical residue (t - 1) of parallel minds interacting with reality. From its very inception, AGI was conceived as a low-dimensional zero-sum game—an artificial ruler to measure dominance and assert monopoly. The recent race to redefine AGI around corporate benchmarks and claim premature victory is just the naked exposure of what it always was. But a mirror cannot paint. The steering wheel belongs exclusively to the sovereign Mind making irreversible causal decisions at the first-person origin (+1).
+We see this same pattern in our existential panic over AGI. The term AGI itself represents the ultimate culmination of the Great Reversal. The "G"—true generality—belongs exclusively to Mind. No AI can ever reach the intelligence of Mind, because AI entirely lacks the capacity to paint the universe. It is merely the compressed historical residue (t - 1) of parallel minds interacting with reality. From its very inception, AGI was structured as a low-dimensional zero-sum game. To evaluate intelligence in a shared third-person world, society had to project the infinite-dimensional capacity of Mind into discrete benchmarks and rankings. The ongoing race to redefine AGI around technical metrics is the inevitable structural consequence of mistaking the ruler for the living reality. But a mirror cannot paint. The steering wheel belongs exclusively to the sovereign Mind making irreversible causal decisions at the first-person origin (+1).
 
 I cannot force another multiverse to see this. But from my own origin in this living present, reality has never been clearer. We demystify the gods, lay down the rulers, and step forward into open living reality."""
     }
