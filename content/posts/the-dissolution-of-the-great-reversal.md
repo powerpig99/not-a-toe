@@ -10,13 +10,16 @@
 
 ```mermaid
 flowchart TB
-    subgraph S1["观察者视角的历史重力 / The Weight of the Observer"]
-        A["实体化的制度与教条 / Reified Institutions"] --> B["符号尺度的相互规训 / Mutual Policing via Rulers"]
-        B --> C["沉重的历史低维内耗 / Low-Dimensional Exhaustion"]
+    subgraph S1["【观察者视角】历史的重力场 / Observer's Weight"]
+        A["实体化的制度与教条<br/>Reified Institutions"] --> B["符号尺度的相互规训<br/>Mutual Policing via Rulers"]
+        B --> C["沉重的历史低维内耗<br/>Low-Dimensional Exhaustion"]
     end
-    subgraph S2["主权心智的原点解脱 / Sovereign Mind at the Origin"]
-        D["第一人称原点 t / First-Person Origin"] --> E["工具退魅与因果辨析 / Demystification of Tools"]
-        E --> F["不可逆的自由创造 t + 1 / Irreversible Creation"]
+
+    S1 -->|"切换至第一人称原点<br/>Shift to Origin"| S2
+
+    subgraph S2["【主权心智】原点的清明解脱 / Sovereign Liberation"]
+        D["第一人称原点 t<br/>First-Person Origin"] --> E["工具退魅与因果辨析<br/>Demystification of Tools"]
+        E --> F["不可逆的自由创造 t + 1<br/>Irreversible Creation"]
     end
 ```
 
@@ -36,13 +39,16 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    subgraph Native["原生工具维度：平行共鸣 / Native Bridge"]
-        M1["主体心智 A / Sovereign Mind A"] -- "声学/符号振动 (无固有意义) / Vibration" --> M2["主体心智 B / Sovereign Mind B"]
-        M2 -- "内部主动编译刻画 / Internal Compilation" --> R["心智共鸣 / Resonance"]
+    subgraph Native["【原生维度】平行心智的共鸣桥梁 / Native Bridge"]
+        M1["主体心智 A<br/>Sovereign Mind A"] -->|"声学/符号物理振动<br/>Physical Vibration"| M2["主体心智 B<br/>Sovereign Mind B"]
+        M2 -->|"内部主动编译刻画<br/>Internal Compilation"| R["心智共鸣<br/>Resonance"]
     end
-    subgraph Reversal["倒置异化维度：权力标尺 / Reified Ruler"]
-        L["实体化的语言规范 / Reified Grammar"] --> J1["度量与审判主体 A / Measure Mind A"]
-        L --> J2["度量与审判主体 B / Measure Mind B"]
+
+    Native ~~~ Reversal
+
+    subgraph Reversal["【倒置异化】权力丈量的僵硬标尺 / Reified Ruler"]
+        L["实体化的语言规范与教条<br/>Reified Grammar & Dogma"] --> J1["丈量审判主体 A<br/>Measure Mind A"]
+        L --> J2["丈量审判主体 B<br/>Measure Mind B"]
     end
 ```
 
@@ -61,13 +67,16 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    subgraph Ancient["古代语言特征 / Ancient Language"]
-        A1["未历经世代高密过滤 / Looser Lexicon"] --> A2["语义边界宽松 (留白) / Cognitive Margin"]
-        A2 --> A3["读者心智主动注入与编译 / Reader Mind Generates Meaning"]
+    subgraph Ancient["【古代语言】留白与生成 / Ancient Blank Space"]
+        A1["未历经现代高密过滤<br/>Looser Definitions"] --> A2["语义边界宽松 (留白)<br/>Cognitive Margin"]
+        A2 --> A3["读者心智主动注入智慧<br/>Reader Generates Meaning"]
     end
-    subgraph Modern["现代语言特征 / Modern Precision"]
-        B1["历经精细工程化定义 / Precise Definitions"] --> B2["高保真低歧义传输 / High-Fidelity Transmission"]
-        B2 --> B3["倒置危险：沦为评判教条 / Risk: Weaponized as Ruler"]
+
+    Ancient ~~~ Modern
+
+    subgraph Modern["【现代语言】精度与风险 / Modern Precision"]
+        B1["精细工程化定义<br/>Precise Definitions"] --> B2["高保真低歧义传输<br/>High-Fidelity Transfer"]
+        B2 --> B3["倒置风险：沦为教条标尺<br/>Risk: Weaponized as Ruler"]
     end
 ```
 
@@ -88,13 +97,16 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    subgraph OriginK["原生态知识 / Knowledge as Map"]
-        K1["心智与世界交互 / Mind-World Interaction"] --> K2["动态校准的因果地图 / Navigational Map"]
-        K2 --> K3["拓展未来创造自由 / Expansion of Freedom"]
+    subgraph OriginK["【原生态】探索因果的动态地图 / Knowledge as Map"]
+        K1["心智与世界因果交互<br/>Mind-World Interaction"] --> K2["动态校准的因果图谱<br/>Navigational Map"]
+        K2 --> K3["拓展未来创造自由 t + 1<br/>Expansion of Freedom"]
     end
-    subgraph InversionK["倒置态知识 / Knowledge as Status Hierarchy"]
-        J1["知识实体化为静态资产 / Reified Credentials"] --> J2["学术教条与层级考核 / Institutional Ranking"]
-        J2 --> J3["将地图等同于领土 / Mistaking Map for Territory"]
+
+    OriginK ~~~ InversionK
+
+    subgraph InversionK["【倒置态】阶级考核与门阀标尺 / Status Hierarchy"]
+        J1["知识实体化为静态资产<br/>Reified Credentials"] --> J2["学术教条与层级筛选<br/>Institutional Ranking"]
+        J2 --> J3["将地图等同于真实领土<br/>Mistaking Map for Territory"]
     end
 ```
 
@@ -113,14 +125,16 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    subgraph MoneyFlow["金钱工具的原生与倒置 / The Scope of Money"]
-        subgraph NativeM["原生媒介 / Positive-Sum Medium"]
-            T1["真实价值创造与交换 / Real Value Exchange"] --> M0["正和效用增益 / Positive-Sum Surplus"]
-        end
-        subgraph ReifiedM["实体化迷思 / Zero-Sum Reification"]
-            C1["符号崇拜与存量囤积 / Token Hoarding"] --> Z1["零和争夺与再分配消耗 / Zero-Sum Siphon"]
-            C2["执念于‘完美货币’ / Obsession with Perfect Token"] --> Z2["逃避真实的价值创造 / Evasion of Value Creation"]
-        end
+    subgraph NativeM["【原生因果】正和交易与记账媒介 / Positive-Sum Medium"]
+        T1["主权主观价值互换<br/>Subjective Value Trade"] --> M0["双方获得效用剩余<br/>Positive-Sum Surplus"]
+        M0 --> Med["金钱作为记账媒介<br/>Accounting Medium"]
+    end
+
+    NativeM ~~~ ReifiedM
+
+    subgraph ReifiedM["【倒置迷思】符号崇拜与存量零和 / Zero-Sum Reification"]
+        C1["符号实体化与存量囤积<br/>Token Hoarding"] --> Z1["零和争夺与再分配内耗<br/>Zero-Sum Siphon"]
+        C2["执念于‘完美货币’<br/>Obsession with Perfect Token"] --> Z2["逃避真实的价值创造<br/>Evasion of Creation"]
     end
 ```
 
@@ -139,15 +153,18 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    subgraph NativeI["智能的原生因果 / Native Intelligence"]
-        M0["主权心智 / Sovereign Mind"] --> T0["调用并驾驭工具 / Leverage Tools"]
-        T0 --> U0["洞察因果与清晰视界 / Deep Understanding"]
-        U0 --> W0["创造真实物理重构 / Reshaping Reality"]
+    subgraph NativeI["【智能原生】理解与重塑世界 / Native Intelligence"]
+        M0["主权心智<br/>Sovereign Mind"] --> T0["调用驾驭工具<br/>Leverage Tools"]
+        T0 --> U0["洞悉因果脉络<br/>Deep Understanding"]
+        U0 --> W0["创造真实物理重构<br/>Reshaping Reality"]
     end
-    subgraph ReversalI["智能的大倒置 / The Tool-Sharpening Trap"]
-        C0["低维攀比与炫耀 / Social Status Game"] --> S0["无休止的‘磨刀’竞赛 / Infinite Tool Sharpening"]
-        S0 --> E0["沉迷工具参数与所有权 / Tool Worship & Upgrades"]
-        E0 --> V0["从未真正出刀理解世界 / Zero Causal Action"]
+
+    NativeI ~~~ ReversalI
+
+    subgraph ReversalI["【智能倒置】无休止的“磨刀”陷阱 / Tool-Sharpening Trap"]
+        C0["低维攀比与炫耀<br/>Social Status Game"] --> S0["无休止的“磨刀”军备竞赛<br/>Infinite Tool Sharpening"]
+        S0 --> E0["沉迷参数迭代与工具所有权<br/>Tool Worship & Upgrades"]
+        E0 --> V0["从未真正出刀理解世界<br/>Zero Causal Action"]
     end
 ```
 
@@ -168,11 +185,9 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    subgraph AGI_Origin["AGI 的因果本质 / The True Nature of AGI"]
-        H["历史上无数平行心智的历史交互轨迹 t - 1 / Historical Traces"] --> AGI["数学压缩与模式映射矩阵 / Compressed Model of Past Traces"]
-        AGI --> Tool["映射回当下唯一物理宇宙 t / Low-Dimensional Instrument"]
-        Tool --> Mind["由当下主权心智选择调用 t + 1 / Steered by Mind"]
-    end
+    H["人类无数平行心智的历史足迹 t - 1<br/>Historical Traces of Minds"] --> AGI["高维数学压缩与模式矩阵<br/>Compressed Model of Past Traces"]
+    AGI --> Tool["折射回当下唯一起点 t<br/>Low-Dimensional Instrument"]
+    Tool --> Mind["由当下主权心智选择驾驭 t + 1<br/>Steered by Sovereign Mind"]
 ```
 
 从心智原点的第一性原理出发，这种神话可以被降维重构为清晰的因果链条：
