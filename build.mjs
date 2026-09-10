@@ -972,7 +972,12 @@ function renderAbout() {
       <p>探索最终回归于核心：不存在外部的救世主，不存在通用的公式，亦不存在独立于观察者的钟表宇宙。宇宙由内而外被觉知绘制。当工具归位于罗盘、数字镜像还原为压缩表征，活态心智便在开放的实在中立足——主权在己，因果自负。</p>
       <p>The inquiry returns to its core: there is no external savior, no universal formula, and no objective clockwork universe waiting to grant permission. The universe is painted from the inside out. When tools return to their role as compasses and digital images are recognized as compressed representations, the living Mind operates directly in open reality — sovereign and causally self-responsible.</p>
 
-      <p class="about-contact-label">交流与链接 / Get in touch</p>
+      <p class="about-section-label">活态实践 / Living the Philosophy</p>
+      <ul class="about-practice-list">
+        <li>🍄 <a href="https://powerpig99.github.io/helsinki-mushroom-guide/" rel="noopener noreferrer"><strong>Helsinki Wild Mushroom Guide (赫尔辛基野生蘑菇采摘指南)</strong></a> — An interactive, trilingual field companion featuring 22 local species, HSL transit foraging spots, lookalike comparisons, and authentic Finnish recipes.</li>
+      </ul>
+
+      <p class="about-section-label">交流与链接 / Get in touch</p>
       <ul class="about-links">
         <li><a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a></li>
         <li><a href="https://podcasts.apple.com/us/podcast/not-a-toe/id6806361799" rel="noopener noreferrer">Apple Podcasts</a></li>
