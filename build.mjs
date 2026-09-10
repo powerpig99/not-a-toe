@@ -905,6 +905,102 @@ function renderPage({
   </script>\n`
     : '';
 
+  const ptrScript = `  <script>
+    (function() {
+      if (!('ontouchstart' in window)) return;
+      var indicator = document.getElementById('ptr-indicator');
+      if (!indicator) return;
+
+      var startY = 0;
+      var startX = 0;
+      var currentY = 0;
+      var pulling = false;
+      var refreshing = false;
+      var threshold = 52;
+      var maxPull = 80;
+
+      window.addEventListener('touchstart', function(e) {
+        if (refreshing || e.touches.length !== 1) return;
+        if (document.querySelector('.mermaid-modal.open') || document.body.style.overflow === 'hidden') return;
+        if (window.scrollY > 0 || document.documentElement.scrollTop > 0) return;
+
+        startY = e.touches[0].clientY;
+        startX = e.touches[0].clientX;
+        pulling = false;
+      }, { passive: true });
+
+      window.addEventListener('touchmove', function(e) {
+        if (refreshing || startY === 0 || e.touches.length !== 1) return;
+        if (window.scrollY > 0 || document.documentElement.scrollTop > 0) {
+          if (pulling) reset();
+          return;
+        }
+
+        currentY = e.touches[0].clientY;
+        var currentX = e.touches[0].clientX;
+        var deltaY = currentY - startY;
+        var deltaX = currentX - startX;
+
+        if (!pulling) {
+          if (deltaY > 8 && deltaY > Math.abs(deltaX) * 1.2) {
+            pulling = true;
+            indicator.classList.add('ptr-pulling');
+          } else {
+            return;
+          }
+        }
+
+        if (pulling) {
+          if (e.cancelable) e.preventDefault();
+          var pull = Math.min(maxPull, Math.pow(Math.max(0, deltaY), 0.8) * 1.8);
+          indicator.style.transform = 'translateX(-50%) translate3d(0, ' + pull + 'px, 0)';
+
+          if (pull >= threshold) {
+            indicator.classList.add('ptr-ready');
+          } else {
+            indicator.classList.remove('ptr-ready');
+          }
+        }
+      }, { passive: false });
+
+      function reset() {
+        pulling = false;
+        startY = 0;
+        indicator.classList.remove('ptr-pulling', 'ptr-ready');
+        indicator.style.transition = 'transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.2s ease-out';
+        indicator.style.transform = 'translateX(-50%) translate3d(0, 0, 0)';
+        setTimeout(function() {
+          indicator.style.transition = '';
+        }, 260);
+      }
+
+      function finish() {
+        if (refreshing || !pulling) {
+          reset();
+          return;
+        }
+
+        var pull = Math.min(maxPull, Math.pow(Math.max(0, currentY - startY), 0.8) * 1.8);
+        if (pull >= threshold) {
+          refreshing = true;
+          indicator.classList.remove('ptr-ready', 'ptr-pulling');
+          indicator.classList.add('ptr-refreshing');
+          indicator.style.transition = 'transform 0.2s ease-out';
+          indicator.style.transform = 'translateX(-50%) translate3d(0, 58px, 0)';
+
+          setTimeout(function() {
+            window.location.reload();
+          }, 300);
+        } else {
+          reset();
+        }
+      }
+
+      window.addEventListener('touchend', finish, { passive: true });
+      window.addEventListener('touchcancel', reset, { passive: true });
+    })();
+  </script>\n`;
+
   return `<!doctype html>
 <html lang="${SITE.language}">
 <head>
@@ -919,6 +1015,9 @@ ${alternateLinksHtml}
   <link rel="icon" type="image/svg+xml" href="${escapeHtml(faviconDataUri)}">
   <link rel="apple-touch-icon" href="${withBase(APPLE_TOUCH_ICON)}">
   <meta name="apple-mobile-web-app-title" content="${escapeHtml(SITE.title)}">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="mobile-web-app-capable" content="yes">
   <link rel="stylesheet" href="${withBase(`style.css?v=${styleVersion}`)}">
   <meta property="og:title" content="${escapeHtml(fullTitle)}">
   <meta property="og:description" content="${escapeHtml(description)}">
@@ -934,10 +1033,16 @@ ${ogImageExtras}
   <meta name="twitter:image" content="${escapeHtml(socialImageUrl)}">${twitterImageAlt}
 </head>
 <body>
+  <div id="ptr-indicator" class="ptr-indicator" aria-hidden="true">
+    <svg class="ptr-spinner" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+      <path class="ptr-arrow" d="M12 5v14M5 12l7 7 7-7"/>
+      <circle class="ptr-circle" cx="12" cy="12" r="9"/>
+    </svg>
+  </div>
   <main class="wrap">
 ${content}
   </main>
-${mermaidScript}</body>
+${mermaidScript}${ptrScript}</body>
 </html>
 `;
 }
