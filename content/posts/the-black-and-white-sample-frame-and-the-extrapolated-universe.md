@@ -293,7 +293,7 @@ graph LR
 最后，物理学将这个从单点膨胀到无限虚无的整个数学轨迹，沿第三个空间维度整体重新投影为一个四维柱体，并将这个静态的数学柱体命名为“块状宇宙”。在这个人造的模型中，时间被剥离了其生成的本质，变成了一条条预先刻印在四维晶体内部的静态“世界线”。
 * 物理学家甚至反客为主地宣称：真实的电影放映是一种主观幻觉；所有的历史、现在与未来，早就在那个冷冰冰的四维块状宇宙中并存着。
 
-正如[渐近线陷阱](../the-asymptotic-trap/)中所警示的，当一个数学函数在极限处出现奇点时，它揭示的从来不是物理世界的真实边界，而是数学模型自身的破裂与失灵。大爆炸奇点与热寂根本不是宇宙历史的起点与终点，它们仅仅是对一张单帧黑白幻灯片进行极度暴力的坐标外推时，数学符号在纸面上撞毁的残骸。
+正如[连续统是建模的便利而非物理实在](../the-continuum-is-a-modeling-convenience/)中所警示的，当一个数学函数在极限处出现奇点时，它揭示的从来不是物理世界的真实边界，而是数学模型自身的破裂与失灵。大爆炸奇点与热寂根本不是宇宙历史的起点与终点，它们仅仅是对一张单帧黑白幻灯片进行极度暴力的坐标外推时，数学符号在纸面上撞毁的残骸。
 
 ---
 
@@ -307,7 +307,7 @@ Next, they projected the same equations forward into infinity, letting the pixel
 Finally, physics took this mathematical extrusion—expanding from a single point into infinite dilution—and extruded it along a geometric axis, naming the resulting static sculpture the "Block Universe." In this synthetic toy world, time was stripped of its generative advance and reduced to static worldlines etched inside a frozen four-dimensional crystal.
 * Theorists even inverted reality itself, claiming that the real-time playback of the movie is a subjective trick of the human brain, and that past, present, and future are all physically co-present in the static four-dimensional slab.
 
-As warned in [The Asymptotic Trap](../the-asymptotic-trap/), when a mathematical function shoots toward infinity or collapses into a singularity at its limits, it never reveals a physical wall of the cosmos; it reveals the breakdown of the mathematical model itself. The Big Bang and the Heat Death are not bookends of reality. They are the mathematical debris left behind when an abstract, frozen sample frame is violently extrapolated to infinity on a piece of paper.
+As warned in [The Continuum is a Modeling Convenience, Not Physical Reality](../the-continuum-is-a-modeling-convenience/), when a mathematical function shoots toward infinity or collapses into a singularity at its limits, it never reveals a physical wall of the cosmos; it reveals the breakdown of the mathematical model itself. The Big Bang and the Heat Death are not bookends of reality. They are the mathematical debris left behind when an abstract, frozen sample frame is violently extrapolated to infinity on a piece of paper.
 
 ---
 
