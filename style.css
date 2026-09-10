@@ -342,7 +342,7 @@ tr:nth-child(even) {
 }
 
 .about-practice-list li {
-  margin: 0 0 0.5em;
+  margin: 0 0 0.65em;
 }
 
 .about-practice-list li:last-child {
