@@ -19,6 +19,11 @@
   box-sizing: border-box;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 body {
   margin: 0;
   font-family: Georgia, "Times New Roman", serif;
@@ -277,6 +282,8 @@ tr:nth-child(even) {
   border-bottom: 1px solid var(--rule);
   font-size: 1.125rem;
   line-height: 1.75;
+}
+
 .about h1,
 .about h2 {
   margin: 0 0 1.25rem;
