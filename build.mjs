@@ -908,96 +908,51 @@ function renderPage({
   const ptrScript = `  <script>
     (function() {
       if (!('ontouchstart' in window)) return;
-      var indicator = document.getElementById('ptr-indicator');
-      if (!indicator) return;
-
-      var startY = 0;
-      var startX = 0;
-      var currentY = 0;
-      var pulling = false;
-      var refreshing = false;
-      var threshold = 52;
-      var maxPull = 80;
+      var startY = 0, startX = 0, currentY = 0, pulling = false, threshold = 65;
 
       window.addEventListener('touchstart', function(e) {
-        if (refreshing || e.touches.length !== 1) return;
+        if (e.touches.length !== 1) return;
         if (document.querySelector('.mermaid-modal.open') || document.body.style.overflow === 'hidden') return;
         if (window.scrollY > 0 || document.documentElement.scrollTop > 0) return;
 
         startY = e.touches[0].clientY;
         startX = e.touches[0].clientX;
-        pulling = false;
+        pulling = true;
       }, { passive: true });
 
       window.addEventListener('touchmove', function(e) {
-        if (refreshing || startY === 0 || e.touches.length !== 1) return;
+        if (!pulling || startY === 0 || e.touches.length !== 1) return;
         if (window.scrollY > 0 || document.documentElement.scrollTop > 0) {
-          if (pulling) reset();
+          pulling = false;
           return;
         }
 
         currentY = e.touches[0].clientY;
-        var currentX = e.touches[0].clientX;
         var deltaY = currentY - startY;
-        var deltaX = currentX - startX;
+        var deltaX = e.touches[0].clientX - startX;
 
-        if (!pulling) {
-          if (deltaY > 8 && deltaY > Math.abs(deltaX) * 1.2) {
-            pulling = true;
-            indicator.classList.add('ptr-pulling');
-          } else {
-            return;
+        if (deltaY < 0 || Math.abs(deltaX) > deltaY) {
+          pulling = false;
+        }
+      }, { passive: true });
+
+      window.addEventListener('touchend', function() {
+        if (pulling && startY > 0 && currentY > 0) {
+          var deltaY = currentY - startY;
+          if (deltaY >= threshold && (window.scrollY <= 0 && document.documentElement.scrollTop <= 0)) {
+            window.location.reload();
           }
         }
-
-        if (pulling) {
-          if (e.cancelable) e.preventDefault();
-          var pull = Math.min(maxPull, Math.pow(Math.max(0, deltaY), 0.8) * 1.8);
-          indicator.style.transform = 'translateX(-50%) translate3d(0, ' + pull + 'px, 0)';
-
-          if (pull >= threshold) {
-            indicator.classList.add('ptr-ready');
-          } else {
-            indicator.classList.remove('ptr-ready');
-          }
-        }
-      }, { passive: false });
-
-      function reset() {
         pulling = false;
         startY = 0;
-        indicator.classList.remove('ptr-pulling', 'ptr-ready');
-        indicator.style.transition = 'transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.2s ease-out';
-        indicator.style.transform = 'translateX(-50%) translate3d(0, 0, 0)';
-        setTimeout(function() {
-          indicator.style.transition = '';
-        }, 260);
-      }
+        currentY = 0;
+      }, { passive: true });
 
-      function finish() {
-        if (refreshing || !pulling) {
-          reset();
-          return;
-        }
-
-        var pull = Math.min(maxPull, Math.pow(Math.max(0, currentY - startY), 0.8) * 1.8);
-        if (pull >= threshold) {
-          refreshing = true;
-          indicator.classList.remove('ptr-ready', 'ptr-pulling');
-          indicator.classList.add('ptr-refreshing');
-          indicator.style.transition = 'transform 0.2s ease-out';
-          indicator.style.transform = 'translateX(-50%) translate3d(0, 58px, 0)';
-
-          setTimeout(function() {
-            window.location.reload();
-          }, 300);
-        } else {
-          reset();
-        }
-      }
-
-      window.addEventListener('touchend', finish, { passive: true });
-      window.addEventListener('touchcancel', reset, { passive: true });
+      window.addEventListener('touchcancel', function() {
+        pulling = false;
+        startY = 0;
+        currentY = 0;
+      }, { passive: true });
     })();
   </script>\n`;
 
@@ -1033,12 +988,6 @@ ${ogImageExtras}
   <meta name="twitter:image" content="${escapeHtml(socialImageUrl)}">${twitterImageAlt}
 </head>
 <body>
-  <div id="ptr-indicator" class="ptr-indicator" aria-hidden="true">
-    <svg class="ptr-spinner" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-      <path class="ptr-arrow" d="M12 5v14M5 12l7 7 7-7"/>
-      <circle class="ptr-circle" cx="12" cy="12" r="9"/>
-    </svg>
-  </div>
   <main class="wrap">
 ${content}
   </main>
@@ -1050,7 +999,7 @@ ${mermaidScript}${ptrScript}</body>
 function renderAbout() {
   return `    <section class="about" id="about">
       <h1 class="about-title">
-        <span class="about-title-zh">Not a ToE：生活的哲学——非为学理，非为布道，非为作态，非为效仿，唯在每个当下践行</span>
+        <span class="about-title-zh">非万物之理：生活的哲学——非为学理，非为布道，非为作态，非为效仿，唯在每个当下践行</span>
         <span class="about-title-en">Not a ToE: A Philosophy to Live By — Not to Learn, Not to Preach, Not to Pose, Not to Emulate, but to Practice at Each and Every Moment</span>
       </h1>
       <p>本站记录了一段跨越数百篇随笔的思想探索。历经对物理学、形式数学、语言、经济学与人工智能等层层体系的溯源，所有的线索最终皆汇聚于唯一的不可化约先验：<strong>活态的第一人称视角</strong>。在对外部系统与概念体系的解构中，探索反复回到同一个原点：第一人称心智创生了无限的因果关系，正是这些关系塑造了心智所见、所解与所栖居的整个宇宙。在廓清这一因果几何的拓扑之后，本站自然迎来了它的转折点——从将第一人称视角作为一套分析模型去<em>理解</em>，转向在现实中将其作为直接实在去<em>生活</em>。</p>
