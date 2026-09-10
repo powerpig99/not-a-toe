@@ -999,10 +999,10 @@ ${mermaidScript}${ptrScript}</body>
 function renderAbout() {
   return `    <section class="about" id="about">
       <h1 class="about-title">
-        <span class="about-title-zh">非万物之理：生活的哲学——非为学理，非为布道，非为作态，非为效仿，唯在每个当下践行</span>
+        <span class="about-title-zh">非万物之理：活的哲学——非为学理，非为布道，非为作态，非为效仿，唯在每个当下践行</span>
         <span class="about-title-en">Not a ToE: A Philosophy to Live By — Not to Learn, Not to Preach, Not to Pose, Not to Emulate, but to Practice at Each and Every Moment</span>
       </h1>
-      <p>本站记录了一段跨越数百篇随笔的思想探索。历经对物理学、形式数学、语言、经济学与人工智能等层层体系的溯源，所有的线索最终皆汇聚于唯一的不可化约先验：<strong>活态的第一人称视角</strong>。在对外部系统与概念体系的解构中，探索反复回到同一个原点：第一人称心智创生了无限的因果关系，正是这些关系塑造了心智所见、所解与所栖居的整个宇宙。在廓清这一因果几何的拓扑之后，本站自然迎来了它的转折点——从将第一人称视角作为一套分析模型去<em>理解</em>，转向在现实中将其作为直接实在去<em>生活</em>。</p>
+      <p>本站记录了一段跨越数百篇随笔的思想探索。历经对物理学、形式数学、语言、经济学与人工智能等层层体系的溯源，所有的线索最终皆汇聚于唯一的不可化约先验：<strong>活态的第一人称视角</strong>。在对外部系统与概念体系的解构中，探索反复回到同一个原点：第一人称心智创生了无限的因果关系，正是这些关系塑造了心智所见、所解与所栖居的整个宇宙。在廓清这一因果几何的拓扑之后，本站自然迎来了它的转折点——从将第一人称视角作为一套分析模型去<em>理解</em>，转向在现实中将其作为直接实在去<em>活</em>出来。</p>
       <p>This site records an inquiry across hundreds of essays, tracing every layer of physics, mathematics, language, economics, and artificial intelligence back to its single irreducible prior: <strong>the living first-person perspective</strong>. Through every deconstruction of external systems and conceptual frameworks, the inquiry returns to the same origin: the first-person initiates the infinite causal relationships that shape the universe the mind sees, interprets, and inhabits. Having mapped the geometry of this causal origin, the work reaches its turning point — from <em>understanding</em> the first-person perspective as an analytical model to <em>living</em> it as a direct reality.</p>
 
       <p>底层的实践是 <strong>Not a ToE</strong>（非万物之理）——即“本体澄明”（Ontological Clarity）框架。它在真实情境的应用与主动更新中，以类似强化学习的闭环持续迭代。该框架是一套将现象还原至其运作机制的方法，旨在消解认知上的“大倒置”：即习惯性地将因果效力让渡给外部工具、静态符号、历史记录（<em>t</em> &minus; 1）或抽象系统，而忘却了它们皆是由活态心智（+1）在当下维系的投影。我将此框架与前沿人工智能模型相结合，并非为了自动化产出，而是为了拓展认知视界，并在现实的阻力中持续检验因果反馈环。</p>
