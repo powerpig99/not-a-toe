@@ -1032,6 +1032,7 @@ function renderAbout() {
       <p class="about-section-label">活态实践 / Living the Philosophy</p>
       <ul class="about-practice-list">
         <li>🍄 <a href="https://powerpig99.github.io/helsinki-mushroom-guide/" rel="noopener noreferrer"><strong>Helsinki Wild Mushroom Guide (赫尔辛基野生蘑菇采摘指南)</strong></a> — An interactive, trilingual field companion featuring 22 local species, HSL transit foraging spots, lookalike comparisons, and authentic Finnish recipes.</li>
+        <li>🎹 <a href="https://powerpig99.github.io/adult-piano-guide/" rel="noopener noreferrer"><strong>The Adult Piano Companion (成人钢琴研习指南)</strong></a> — A minimal, elegant guide and open tool matrix for self-directed adult piano learners, grounded in first-person agency, deliberate practice architectures, and dismantling the age dogma.</li>
         <li>🇫🇮 <a href="https://github.com/powerpig99/yle-finnish-learner" rel="noopener noreferrer"><strong>YLE Finnish Learner (YLE 芬兰语学习扩展)</strong></a> — An open-source Chrome extension for immersive language acquisition via YLE Areena, featuring AI contextual translation, synchronized dual subtitles, auto-pause, and audio export.</li>
         <li>🗣️ <a href="https://github.com/powerpig99/yki-exam" rel="noopener noreferrer"><strong>YKI Exam Prep (YKI 芬兰语中级考试备考视频生成器)</strong></a> — An automated pipeline generating personalized karaoke-style dialogue practice videos for Finnish YKI keskitaso speaking exam preparation using neural TTS and dual subtitles.</li>
       </ul>
