@@ -76,7 +76,7 @@ What we call "living in the present" is neither the cynical retreat nor the shal
 
 它是一场“符号的熟食革命”。它以惊人的能耗，在体外消化、咀嚼、粗加工人类浩瀚的知识残差与形式逻辑，把心智从机械低效的符号搬运中彻底解放出来。网上那些算得面红耳赤的“灭绝概率”，古人在幽暗洞穴口看着随风摇曳的火星时，心里闪过的是一模一样的惊悸。惧怕它烧毁森林是生存本能；但如果当初因为害怕引火烧身而彻底掐灭火星，人类今天大概依然蜷缩在东非大裂谷的树梢上，在长夜的风雨中瑟瑟发抖，更遑论在几百万年后隔着液晶屏幕推演奇点。
 
-火本身从未拥有灵魂，操舵与制约的意志始终在握着火把的人手中。
+火本身从未拥有灵魂，操舵与制约的意志始终在握着火把的人手中。关于这场从物质代谢向符号代谢的跃迁，以及高阶元抽象如何凝聚为可执行客体，详见 [抽象的阶梯与可执行的实体](../the-ladder-of-abstraction-and-the-executable-entity/)。
 
 Watching the blue flame dance beneath the skillet, the mind's vantage stretches across an evolutionary horizon of a million years.
 
@@ -96,7 +96,7 @@ Today's AI is the exact reenactment of that metabolic externalization.
 
 It is a **cooking revolution for symbols**. Burning immense energy, it digests, chews, and pre-processes the vast corpus of human conceptual residue and formal logic, emancipating the living mind from mechanical symbolic drudgery. The heated online debates over "existential extinction probabilities" mirror the exact shiver felt by an ancestor huddled at the mouth of a dark cave, watching wind whip the glowing embers. Fearing the forest fire is primal self-preservation; but had our ancestors snuffed out every spark out of pure terror, humanity would still be cowering in the treetops of the Rift Valley, shivering through the stormy dark, incapable of surviving long enough to one day ponder the singularity through an LCD screen.
 
-Fire itself has never possessed a soul; the steering will and the burden of restraint remain, as ever, in the hand that holds the torch.
+Fire itself has never possessed a soul; the steering will and the burden of restraint remain, as ever, in the hand that holds the torch. For the further exploration of this climb across conceptual orders and how formal laws materialize into executable artifacts, see [The Ladder of Abstraction and the Executable Entity](../the-ladder-of-abstraction-and-the-executable-entity/).
 
 ---
 

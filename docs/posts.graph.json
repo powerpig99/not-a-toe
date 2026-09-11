@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-11T10:17:34.032Z",
+    "generated_at": "2026-09-11T11:08:53.648Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -22,7 +22,7 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/amplification-paradox.md": "c479585570bb",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/boletus-compute-storm-and-promethean-fire.md": "abd483e47dd8",
+      "content/posts/boletus-compute-storm-and-promethean-fire.md": "d79e6a76ba8e",
       "content/posts/causality-all-the-way.md": "9344804c6770",
       "content/posts/causality-and-the-irreducible-prior.md": "eca0fc968681",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "e3ffc8e7b02f",
@@ -32,7 +32,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/climbing-does-not-leave-the-ground.md": "5728e783fe80",
+      "content/posts/climbing-does-not-leave-the-ground.md": "0f56c9d88908",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "01d369a0b5d0",
       "content/posts/closed-reality-in-benchmark-maxing.md": "d57165a32284",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
@@ -228,6 +228,7 @@
       "content/posts/the-invisible-gods-eye.md": "08233385869e",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
+      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "c18b13d949ae",
       "content/posts/the-limitation-is-doing-work.md": "f988dff59391",
       "content/posts/the-living-context.md": "802b03eb6a18",
       "content/posts/the-local-trap-of-technological-change.md": "28ac55a33297",
@@ -326,13 +327,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 316,
-      "edges": 3009,
-      "unique_directed": 2900,
+      "posts": 317,
+      "edges": 3026,
+      "unique_directed": 2908,
       "missing_targets": 0,
-      "one_way": 692,
+      "one_way": 696,
       "isolated": 46,
-      "posts_with_outbound": 251
+      "posts_with_outbound": 252
     }
   },
   "hubs_in": [
@@ -370,7 +371,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 32
+      "in_degree": 33
     },
     {
       "slug": "causality-all-the-way",
@@ -385,15 +386,15 @@
       "in_degree": 29
     },
     {
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 28
+    },
+    {
       "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 27
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 27
-    },
-    {
-      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 27
     },
     {
@@ -836,15 +837,16 @@
       "slug": "boletus-compute-storm-and-promethean-fire",
       "path": "content/posts/boletus-compute-storm-and-promethean-fire.md",
       "title": "牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire",
-      "hash": "abd483e47dd8",
-      "in_degree": 3,
-      "out_degree": 5,
+      "hash": "d79e6a76ba8e",
+      "in_degree": 4,
+      "out_degree": 6,
       "links_out": [
         "a-creation-cannot-replace-its-source",
         "po-chu-gai-nian-de-jian-yue",
         "causality-stays-at-the-edge-that-steers",
         "mistaking-the-expression-for-the-intelligence",
-        "the-model-never-becomes-a-second-edge"
+        "the-model-never-becomes-a-second-edge",
+        "the-ladder-of-abstraction-and-the-executable-entity"
       ]
     },
     {
@@ -1053,9 +1055,9 @@
       "slug": "climbing-does-not-leave-the-ground",
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "Climbing Does Not Leave the Ground",
-      "hash": "5728e783fe80",
-      "in_degree": 21,
-      "out_degree": 17,
+      "hash": "0f56c9d88908",
+      "in_degree": 22,
+      "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -1073,7 +1075,8 @@
         "the-scaffolding-that-keeps-growing",
         "reality-is-the-minds-ongoing-realization",
         "technology-is-residual-of-human-compounding",
-        "causality-and-the-irreducible-prior"
+        "causality-and-the-irreducible-prior",
+        "the-ladder-of-abstraction-and-the-executable-entity"
       ]
     },
     {
@@ -2637,7 +2640,7 @@
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
       "hash": "8a80773b8e6f",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 29,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -3315,7 +3318,7 @@
       "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
       "title": "破除概念的僭越：第一人称、因果之矢与未完的现实",
       "hash": "fd5abe640eca",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 14,
       "links_out": [
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
@@ -4113,7 +4116,7 @@
       "path": "content/posts/technology-is-residual-of-human-compounding.md",
       "title": "Technology Is Residual of Human Compounding",
       "hash": "2d2d07f8486b",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 17,
       "links_out": [
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -5211,6 +5214,24 @@
       ]
     },
     {
+      "id": "post:the-ladder-of-abstraction-and-the-executable-entity",
+      "kind": "post",
+      "slug": "the-ladder-of-abstraction-and-the-executable-entity",
+      "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
+      "title": "抽象的阶梯与可执行的实体：从感知、法则到人工智能的本体论跃迁 / The Ladder of Abstraction and the Executable Entity: From Perception and Laws to the Ontological Leap of Artificial Intelligence",
+      "hash": "c18b13d949ae",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "climbing-does-not-leave-the-ground",
+        "po-chu-gai-nian-de-jian-yue",
+        "boletus-compute-storm-and-promethean-fire",
+        "the-model-never-becomes-a-second-edge",
+        "mistaking-the-expression-for-the-intelligence",
+        "technology-is-residual-of-human-compounding"
+      ]
+    },
+    {
       "id": "post:the-limitation-is-doing-work",
       "kind": "post",
       "slug": "the-limitation-is-doing-work",
@@ -5430,7 +5451,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "6dec2cdef8ae",
-      "in_degree": 32,
+      "in_degree": 33,
       "out_degree": 33,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -7942,6 +7963,12 @@
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "抽象的阶梯与可执行的实体"
+    },
+    {
+      "from": "boletus-compute-storm-and-promethean-fire",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "mistaking the expression for the intelligence"
@@ -7951,6 +7978,12 @@
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The model never becomes a second edge"
+    },
+    {
+      "from": "boletus-compute-storm-and-promethean-fire",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "The Ladder of Abstraction and the Executable Entity"
     },
     {
       "from": "causality-all-the-way",
@@ -8677,6 +8710,12 @@
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
       "label": "Causality and the irreducible prior"
+    },
+    {
+      "from": "climbing-does-not-leave-the-ground",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "The Ladder of Abstraction and the Executable Entity"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -19813,6 +19852,90 @@
       "to": "residual-individualism",
       "rel": "points_to",
       "label": "Residual individualism"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "登高并未离开地面"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "climbing does not leave the ground"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Overcoming the Usurpation of Concepts"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "boletus-compute-storm-and-promethean-fire",
+      "rel": "points_to",
+      "label": "牛肝菌、算力风暴与普罗米修斯的火"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "boletus-compute-storm-and-promethean-fire",
+      "rel": "points_to",
+      "label": "Boletus, the Compute Storm, and Promethean Fire"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "登高并未离开地面"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "技术的复利残差"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing Does Not Leave the Ground"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology is Residual of Human Compounding"
     },
     {
       "from": "the-limitation-is-doing-work",
