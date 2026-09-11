@@ -251,6 +251,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Optical schlieren & concentric wave-fold lithograph** | Full-bleed fine-art scientific lithograph and dark-field schlieren optical wave-fold print on heavy textured Prussian indigo and velvety charcoal rag paper; incandescent golden vortex of consciousness and high-frequency ripples folding back into itself at the focal center, radiating concentric harmonic rings that slow into tranquil crystalline matter; razor-thin copper-gold drafting vectors | `the-velocity-of-visibility` |
 | **Shadow-theater & hyper-dimensional manifold lithograph** | Full-bleed fine art lithograph and chiaroscuro shadow-theater print on heavy textured charcoal-slate and deep Prussian indigo rag paper; luminous multi-dimensional golden and amber crystalline ribbon manifolds weaving through open starry space above, casting flattened black-and-white silhouette shadows on a cramped stone wall below where two figures clash with rulers | `the-shadow-and-the-infinite` |
 | **Prismatic dispersion & ray-traced caustics engraving** | Full-bleed fine intaglio engraving and ray-traced optical caustics on heavy charcoal-slate paper; an expansive, radiant focal point of warm golden and cyan light emitting boundless multi-dimensional rays into starry space on the left, contrasted with an intricate faceted glass prism shattering light into jagged, fractured geometric shadows on a dark slate plane on the right | `the-asymmetry-of-understanding` |
+| **Nordic Tonalist oil / twilight pine forest with glowing hearth embers** | Deep subarctic twilight oil painting in the tradition of Akseli Gallen-Kallela; muted indigo, slate blue, and spruce mist, with a glowing pine branch crackling with warm incandescent amber embers on soft mossy ground; painterly canvas texture, dramatic chiaroscuro between northern stillness and primal hearth | `boletus-compute-storm-and-promethean-fire` |
 
 ## Inventory (by slug)
 
@@ -264,6 +265,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `a-new-deeper-look-at-antifragility` | Painterly glass / gold path |
 | `agi-and-asi-are-temporary-goalposts` | Metaphysical plaza oil |
 | `better-than-free-after-the-checklist-closes` | Paper craft / tabletop still |
+| `boletus-compute-storm-and-promethean-fire` | Nordic Tonalist oil / twilight pine forest with glowing hearth embers |
 | `the-paradoxical-nature-of-bystander-insights` | Victorian stereograph dual-panel |
 | `causality-all-the-way` | Sand animation / grain board |
 | `causality-and-the-irreducible-prior` | Cinematic dual-landscape monadnock |
