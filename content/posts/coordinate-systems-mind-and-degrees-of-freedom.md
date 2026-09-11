@@ -338,4 +338,4 @@ graph TB
     style LivingCreation fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-The public chessboard remains crisp, legible, and fully operational, but consciousness is no longer an unwitting piece moved across its squares. Low-dimensional indicators are restored to their proper role as convenient navigational instruments, while existence unfolds as an ongoing inquiry—initiated by Mind, anchored in the present, and actively lived at every step.\n
+The public chessboard remains crisp, legible, and fully operational, but consciousness is no longer an unwitting piece moved across its squares. Low-dimensional indicators are restored to their proper role as convenient navigational instruments, while existence unfolds as an ongoing inquiry—initiated by Mind, anchored in the present, and actively lived at every step.
