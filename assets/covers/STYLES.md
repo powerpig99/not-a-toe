@@ -252,6 +252,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Shadow-theater & hyper-dimensional manifold lithograph** | Full-bleed fine art lithograph and chiaroscuro shadow-theater print on heavy textured charcoal-slate and deep Prussian indigo rag paper; luminous multi-dimensional golden and amber crystalline ribbon manifolds weaving through open starry space above, casting flattened black-and-white silhouette shadows on a cramped stone wall below where two figures clash with rulers | `the-shadow-and-the-infinite` |
 | **Prismatic dispersion & ray-traced caustics engraving** | Full-bleed fine intaglio engraving and ray-traced optical caustics on heavy charcoal-slate paper; an expansive, radiant focal point of warm golden and cyan light emitting boundless multi-dimensional rays into starry space on the left, contrasted with an intricate faceted glass prism shattering light into jagged, fractured geometric shadows on a dark slate plane on the right | `the-asymmetry-of-understanding` |
 | **Nordic Tonalist oil / twilight pine forest with glowing hearth embers** | Deep subarctic twilight oil painting in the tradition of Akseli Gallen-Kallela; muted indigo, slate blue, and spruce mist, with a glowing pine branch crackling with warm incandescent amber embers on soft mossy ground; painterly canvas texture, dramatic chiaroscuro between northern stillness and primal hearth | `boletus-compute-storm-and-promethean-fire` |
+| **Constructivist axonometric drafting & translucent crystalline hyper-dimensional manifold** | Heavy textured midnight-indigo and aged cream paper, dark primordial granite bedrock with tactile fractures below, ascending copperplate axonometric arches and drafting grids converging into an incandescent, self-rotating translucent hyper-dimensional manifold crystal engine with golden plumb-line anchor | `the-ladder-of-abstraction-and-the-executable-entity` |
 
 ## Inventory (by slug)
 
@@ -501,6 +502,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-geometry-of-coexistence-and-the-dual-cut` | Topological string-diagram lithograph and polarized quantum interference relief on dark asphaltum and Prussian indigo paper with copper-gold string diagram lines and dual complementary wave fronts meeting at an incandescent non-zero boundary cut |
 | `the-illusion-of-the-tool-and-the-inversion-of-time` | Anodized chronometric relief and thermographic Schlieren interferometry on deep graphite and oxidized tungsten ground with incandescent thermal gradient fringes, precision coordinate grid fracturing into discrete heavy physical footsteps radiating thermal heat and friction |
 | `the-dissolution-of-the-great-reversal` | Metaphysical resonance & fractured monolithic ruler chiaroscuro relief |
+| `the-ladder-of-abstraction-and-the-executable-entity` | Constructivist axonometric drafting & translucent crystalline hyper-dimensional manifold |
 
 ## Crowded — prefer not to extend
 
