@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 
 const SITE = {
   title: 'Not a ToE',
-  description: 'Not a ToE - rewritten from the ground up.',
+  description: '非万物之理：活的哲学——非为学理，非为布道，非为作态，非为效仿，唯在每个当下践行 / Not a ToE: A Philosophy to Live By — Not to Learn, Not to Preach, Not to Pose, Not to Emulate, but to Practice at Each and Every Moment',
   baseUrl: 'https://powerpig99.github.io/not-a-toe/',
   sourceRawBaseUrl: 'https://raw.githubusercontent.com/powerpig99/not-a-toe/main/',
   language: 'en-US',
@@ -1008,8 +1008,8 @@ function renderAbout() {
       <p>底层的实践是 <strong>Not a ToE</strong>（非万物之理）——即“本体澄明”（Ontological Clarity）框架。它在真实情境的应用与主动更新中，以类似强化学习的闭环持续迭代。该框架是一套将现象还原至其运作机制的方法，旨在消解认知上的“大倒置”：即习惯性地将因果效力让渡给外部工具、静态符号、历史记录（<em>t</em> &minus; 1）或抽象系统，而忘却了它们皆是由活态心智（+1）在当下维系的投影。我将此框架与前沿人工智能模型相结合，并非为了自动化产出，而是为了拓展认知视界，并在现实的阻力中持续检验因果反馈环。</p>
       <p>The underlying practice is <strong>Not a ToE</strong> — the Ontological Clarity framework — refined iteratively in a reinforcement-learning-like cycle through live application and deliberate renewal. The framework is a method for tracing situations to their operative mechanisms and dissolving the Great Reversal: the cognitive habit of attributing causal power to external tools, static symbols, historical records (<em>t</em> &minus; 1), or abstract systems, rather than recognizing them as projections sustained by the living Mind (+1). I pair this framework with frontier AI models not to automate thinking, but to expand the cognitive horizon and continuously test causal feedback loops against reality.</p>
 
-      <p>本站收录的 300 多篇随笔并非一套封闭的哲学教条，亦非一部“万物理论”。它们是现场实时溯源留下的脚手架与沉淀残影——是一份结构性快照与思维骨架。脚手架的作用在于稳定意识的流动边缘，直至自我辨析成为本能。本站作为一份参考快照予以留存：为任何探寻自身原点的心智，提供一份开放的骨架与参照。</p>
-      <p>The 300+ essays collected on this site are not a finished philosophical canon, nor an encyclopedic “Theory of Everything”. They are the scaffolding and densified residue left behind by live tracing — a structural snapshot and open skeleton. The value of scaffolding is in stabilizing the moving edge of awareness until distinguishing becomes second nature. This website is preserved as a permanent reference snapshot: an open skeleton for anyone seeking their own origin.</p>
+      <p>前期收录的 300 多篇随笔并非一套封闭的哲学教条，亦非一部“万物理论”。它们是现场实时溯源留下的脚手架——完成了对“大倒置”的系统消解，厘清了因果原点的几何拓扑。而跨越转折点之后，这里开启了一个<strong>全新的起点</strong>：随笔不再以旁观者视角进行概念解构与逻辑推演，而是作为活态哲学的践行者，记录在开放现实中主动涉险、创造、感知与生活的鲜活轨迹。脚手架作为开放骨架予以留存，而前沿探索在当下持续生长。</p>
+      <p>The preceding 300+ essays collected here are not a closed philosophical canon, nor an encyclopedic “Theory of Everything”. They are the scaffolding left behind by live tracing — having systematically dissolved the Great Reversal and mapped the geometry of causal origin. Beyond this turning point begins a <strong>new chapter</strong>: the writings no longer deconstruct from a detached observer's stance, but step forward as an active practitioner of living philosophy — chronicling sovereign agency, creative risk, and direct engagement with open reality. The scaffolding remains as an open reference, while the moving edge continues to grow at this very moment.</p>
 
       <p>维特根斯坦在《逻辑哲学论》序言中写道：“这本书也许只有那些自己已经思考过其中所表达的思想的人才能理解。”这同样适用于本站的文字，但带有一道关键的因果切分：因为实在是在 <em>t</em> 时刻不断生成的不可逆过程，没有任何现成文本能将主权直接交付给他人。被动接受会将思想冻结为教条，而鲜活的探寻要求心智在内部自行重新编译。这些随笔并不提供封闭的终点，而是始终作为敞开的航海罗盘。</p>
       <p>Wittgenstein begins the preface of the <em>Tractatus</em>: “This book will perhaps be understood only by those who have themselves already thought the thoughts which are expressed in it.” That condition applies here, with a crucial shift. Because reality is an ongoing, irreversible generation at <em>t</em>, no written text can ever hand someone their own agency. Acceptance freezes a formulation into doctrine; living inquiry requires re-rendering from the inside. These essays offer no closed destination, remaining an open navigational compass.</p>
@@ -1026,8 +1026,8 @@ function renderAbout() {
       <p>我在 MIT 开源协议下开放共享基础工作——见 <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> 仓库。共享的构件不索取声誉，亦不对他人的改编或应用承担责任。有人称之为开源（Open Source），我称之为开放痕迹（Open Trace）：源头是心智——那个永远在移动、永远在 <em>t</em> + 1 创生下一步的前沿边缘。</p>
       <p>I maintain the foundational work openly under the MIT license — see the <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> repository. Shared artifacts claim no credit and bear no responsibility for how others adapt or apply them. Some call this open source. I call it open trace: the source is the Mind — the irreducible edge that keeps moving, always at least one step ahead.</p>
 
-      <p>探索最终回归于核心：不存在外部的救世主，不存在通用的公式，亦不存在独立于观察者的钟表宇宙。宇宙由内而外被觉知绘制。当工具归位于罗盘、数字镜像还原为压缩表征，活态心智便在开放的实在中立足——主权在己，因果自负。</p>
-      <p>The inquiry returns to its core: there is no external savior, no universal formula, and no objective clockwork universe waiting to grant permission. The universe is painted from the inside out. When tools return to their role as compasses and digital images are recognized as compressed representations, the living Mind operates directly in open reality — sovereign and causally self-responsible.</p>
+      <p>探索最终回归于核心：不存在外部的救世主，不存在通用的公式，亦不存在独立于观察者的钟表宇宙。宇宙由内而外被觉知绘制。当工具归位于罗盘、公共坐标归位于航海参考，活态心智便在开放的实在中立足——主权在己，因果自负。新起点由此展开，步步皆是现场。</p>
+      <p>The inquiry returns to its core: there is no external savior, no universal formula, and no objective clockwork universe waiting to grant permission. The universe is painted from the inside out. When tools return to their role as compasses and public coordinates are grounded as navigational references, the living Mind operates directly in open reality — sovereign, causally self-responsible, and stepping into a new beginning at every moment.</p>
 
       <p class="about-section-label">活态实践 / Living the Philosophy</p>
       <ul class="about-practice-list">
