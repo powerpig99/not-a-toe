@@ -13,31 +13,47 @@
 在这套超低维投影的固化过程中，原本拥有无限探索自由度的生命，极易在不经意间步入一套环环相扣的认知倒置：
 
 ```mermaid
-graph TD
-    subgraph DimensionCollapse["【低维投影与指标异化的因果链】"]
+graph LR
+    subgraph PathOfLiving["【主权践行的活态路径】"]
         direction TB
-        Carrier["【知识载体】<br>文凭、书本、术语框架"]
         Knowledge["【认知本身】<br>对运作机制的真实领会"]
-        Control["【掌握与占有】<br>沙盘推演、模型熟练度"]
         Living["【活态涉险】<br>以认知切入现实旷野"]
-        Tools["【指标与产出】<br>考核分数、筹码、排名"]
         EndGoal["【存在目的】<br>向内探索与真实生长"]
-        Vacuum["【意义真空】<br>低维标量无法承载高维体验"]
+        Resonance["【充盈共鸣】<br>高维体验的因果反馈"]
 
-        Carrier -->|"误认外壳为实质"| Knowledge
-        Knowledge -->|"以模型推演替代实践"| Control
-        Control -->|"手段反向篡位"| Tools
-        Tools -->|"指标达成却陷入荒芜"| Vacuum
+        Knowledge -->|"知行合一"| Living
+        Living -->|"拓展生命视界"| EndGoal
+        EndGoal -->|"激荡高维意义"| Resonance
     end
 
-    style DimensionCollapse fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
+    subgraph PathOfTrap["【低维投影的异化陷阱】"]
+        direction TB
+        Carrier["【知识载体】<br>文凭、书本、术语框架"]
+        Control["【沙盘占有】<br>概念推演、模型熟练度"]
+        Tools["【指标产出】<br>考核分数、筹码、排名"]
+        Vacuum["【意义真空】<br>低维标量无法承载高维体验"]
+
+        Carrier -->|"顺沿制度指标"| Control
+        Control -->|"追逐外部结算"| Tools
+        Tools -->|"赢了棋盘却陷入荒芜"| Vacuum
+    end
+
+    Carrier -.->|"① 误把外壳当本质"| Knowledge
+    Control -.->|"② 误把沙盘当生活"| Living
+    Tools -.->|"③ 手段反向篡位为目的"| EndGoal
+    Vacuum -.->|"④ 标量最大化导致感知饥渴"| Resonance
+
+    style PathOfLiving fill:#0d1117,stroke:#238636,stroke-width:1.5px,color:#c9d1d9
+    style Knowledge fill:#21262d,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Living fill:#21262d,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style EndGoal fill:#21262d,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Resonance fill:#21262d,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+
+    style PathOfTrap fill:#0d1117,stroke:#da3633,stroke-width:1.5px,color:#c9d1d9
     style Carrier fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style Knowledge fill:#21262d,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style Control fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style Living fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
     style Tools fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style EndGoal fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style Vacuum fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style Vacuum fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
 ```
 
 1. **把知识的载体当成认知本身**：将文凭、论著、学术头衔与术语体系等易于在公共空间流通与定价的外壳，误当成对机制的领悟。一旦离开既定的符号评级系统，心智便丧失了直接判别现实阻力的能力。
@@ -54,31 +70,47 @@ However, the **public space**—constituted by institutional protocols, quantita
 Throughout the institutionalization of this ultra-low-dimensional projection, the living consciousness—originally endowed with unbounded degrees of exploratory freedom—easily falls into a cascading series of cognitive inversions:
 
 ```mermaid
-graph TD
-    subgraph DimensionCollapse["[The Causal Chain of Dimensional Collapse and Metric Alienation]"]
+graph LR
+    subgraph PathOfLiving["[The Path of Sovereign Living Agency]"]
         direction TB
-        Carrier["[Knowledge Carrier]<br>Diplomas, textbooks, jargon frameworks"]
-        Knowledge["[Cognition Itself]<br>Direct grasp of operative mechanisms"]
-        Control["[Command & Possession]<br>Sandbox deduction, model fluency"]
+        Knowledge["[Direct Cognition]<br>Authentic grasp of operative mechanisms"]
         Living["[Living Agency]<br>Venturing with insight into open reality"]
-        Tools["[Metrics & Outputs]<br>Evaluation scores, tokens, rankings"]
-        EndGoal["[Existential Purpose]<br>Inward exploration & genuine growth"]
-        Vacuum["[Meaning Vacuum]<br>Low-dimensional scalars starving high-dim experience"]
+        EndGoal["[Existential Purpose]<br>Inward exploration & authentic growth"]
+        Resonance["[Emergent Resonance]<br>High-dimensional experiential feedback"]
 
-        Carrier -->|"Mistaking carrier for essence"| Knowledge
-        Knowledge -->|"Substituting deduction for practice"| Control
-        Control -->|"Means usurping existential ends"| Tools
-        Tools -->|"Reaching target yet collapsing into void"| Vacuum
+        Knowledge -->|"Unity of knowing and acting"| Living
+        Living -->|"Expanding life horizon"| EndGoal
+        EndGoal -->|"Igniting high-dim meaning"| Resonance
     end
 
-    style DimensionCollapse fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
+    subgraph PathOfTrap["[The Low-Dimensional Alienation Trap]"]
+        direction TB
+        Carrier["[Knowledge Carrier]<br>Diplomas, textbooks, jargon"]
+        Control["[Sandbox Possession]<br>Conceptual deduction, model fluency"]
+        Tools["[Metrics & Outputs]<br>Evaluation scores, tokens, rankings"]
+        Vacuum["[Meaning Vacuum]<br>Scalar maximum starving high-dim awareness"]
+
+        Carrier -->|"Following institutional metrics"| Control
+        Control -->|"Chasing external settlement"| Tools
+        Tools -->|"Winning the board yet hollow inside"| Vacuum
+    end
+
+    Carrier -.->|"1. Mistaking carrier for essence"| Knowledge
+    Control -.->|"2. Substituting sandbox for life"| Living
+    Tools -.->|"3. Means usurping existential ends"| EndGoal
+    Vacuum -.->|"4. Scalar metrics starving perception"| Resonance
+
+    style PathOfLiving fill:#0d1117,stroke:#238636,stroke-width:1.5px,color:#c9d1d9
+    style Knowledge fill:#21262d,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Living fill:#21262d,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style EndGoal fill:#21262d,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Resonance fill:#21262d,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+
+    style PathOfTrap fill:#0d1117,stroke:#da3633,stroke-width:1.5px,color:#c9d1d9
     style Carrier fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style Knowledge fill:#21262d,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style Control fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style Living fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
     style Tools fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style EndGoal fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style Vacuum fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style Vacuum fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
 ```
 
 1. **Mistaking the Carrier for Cognition**: Conflating credentials, publications, academic titles, and standardized terminologies—outer shells designed for friction-free circulation and pricing in public arenas—with an authentic understanding of operative mechanisms. Detached from the established rubric, the mind loses the agency to directly gauge concrete friction.
