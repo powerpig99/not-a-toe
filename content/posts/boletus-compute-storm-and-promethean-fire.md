@@ -1,10 +1,14 @@
-# 牛肝菌、算力风暴与普罗米修斯的火
+# 牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire
 
-*在赛博奇点的虚妄狂欢与坚固的北欧日常之间：破除“通用”的客体僭越，在第一人称的因果重力与百万年的“玩火”宿命中安顿当下的从容。*
+*在赛博奇点的虚妄狂欢与坚固的北欧日常之间：破除“通用”的客体僭越，在第一人称的因果重力与百万年的“玩火”宿命中安顿当下的从容。 / Between the cybernetic delirium of singularity and the quiet solidity of Nordic life: dissolving the category error of "general," and settling into the present through first-person causal gravity and humanity's million-year destiny with fire.*
 
 在屏幕与现实的剧烈撕裂中，心智常常陷入尺度跃迁的眩晕：一面是算力狂飙与灭绝概率的虚无透支，一面是赫尔辛基街头两米间隔与一锅牛肝菌的沉静重力。流行的 AGI 叙事犯下了一个根本性的范畴错误：它错把人类心智在第一人称下由生存重力逼出的通用适应力，安插到了第三人称的静态符号压缩器身上。人类从未生活在无菌的安全真空中，从直立人拾起雷火开启“熟食革命”，到今天直面第二种普罗米修斯之火，技术始终是心智外化的代谢杠杆，而[制品永远无法取代其渊源](../a-creation-cannot-replace-its-source/)。真正的活在当下，是心智停止向概念借贷恐惧，退回手边最真实的冷暖，在日常的镬气与百万年的火光中共舞。
 
-## 一、 心智的尺度眩晕：无摩擦力的第三人称幻象
+Caught in the violent tear between the digital screen and lived reality, the mind falls into the vertigo of scale: on one side, accelerating compute and catastrophic extinction probabilities borrowed from an unverified future; on the other, the quiet gravity of Helsinki streets where people stand two meters apart, and the sizzle of wild boletes in a cast-iron skillet. The prevailing AGI narrative commits a fundamental category error: it mistakes the general adaptability forged by living human minds under first-person metabolic pressure for an inherent property of third-person symbolic compressors. Humanity has never inhabited a sterile, risk-free vacuum; from the first hominid who seized lightning-kindled fire to initiate the "cooking revolution," to our encounter today with a second Promethean fire, technology remains an externalized metabolic lever of the mind—and [a creation cannot replace its source](../a-creation-cannot-replace-its-source/). Truly living in the present means ceasing to borrow dread from abstract projections, returning to the immediate warmth of daily life, and dancing between the steam of the skillet and the million-year-old flame.
+
+---
+
+## 一、 心智的尺度眩晕：无摩擦力的第三人称幻象 / 1. The Vertigo of Scale: The Frictionless Third-Person Illusion
 
 我常常在屏幕前体会到一种奇特的魔幻现实感——那是一种心智在截然不同的尺度之间来回跳跃时产生的眩晕与荒诞。
 
@@ -16,7 +20,19 @@
 
 那一刻心智忽然变得无比清澈：无论是崇高的技术乌托邦，还是灭顶的末日恐慌，在本质上都是[心智脱离实体后的纯粹概念](../po-chu-gai-nian-de-jian-yue/)。在没有生理摩擦力的第三人称虚空中，模型可以无限外推，恐慌可以随意倍增；但一生所有的宏大预言加在一起，在现实粗粝的秤盘上也压不出哪怕一粒尘埃的重量。
 
-## 二、 一碗牛肝菌的重力：第一人称的切身因果
+I often experience a peculiar sense of magical realism in front of the screen—a dizzying absurdity born whenever the mind leaps violently between disjointed scales of existence.
+
+Once plugged into the network, the mind is swept into the eye of an epic narrative storm: exponential compute leaps, imminent singularities, and catastrophic extinction odds calculated down to intimidating decimal percentages. In that cybernetic domain stacked high with code and parameters, time is warped and compressed. Palms sweat over the keyboard, haunted by the specter that carbon-based life might wake tomorrow only to find itself harvested as batteries for a silicon megamind. “A day online, a millennium on earth”—the mind intoxicates itself with conceptual dress rehearsals, swinging wildly between the hubris of self-deification and the despair of utter obsolescence.
+
+Yet the moment I close the laptop and step outside, the crisp Helsinki wind hits my face, and the mind is gently, firmly grounded by the immense gravitational field of physical reality.
+
+On the streets, Finns still walk with unhurried detachment, hands tucked in their pockets, keeping a courteous two-meter berth as they patiently wait for the pedestrian lights to change. In the grocery store, elderly shoppers carefully squeeze loaves of rye bread and inspect potatoes; out in the woods, wild berries ripen strictly on schedule, exactly as they did five years ago and as they will five years hence. The apocalyptic delirium of cyberspace has never managed to puncture this resilient fabric of everyday life.
+
+In that quiet clarity, the mind recognizes the sleight of hand: both techno-utopian salvation and apocalyptic paralysis are, at root, [pure concepts severed from physical friction](../po-chu-gai-nian-de-jian-yue/). In the frictionless void of the third-person perspective, models can extrapolate to infinity and dread can compound without bound. Yet all the grand prophecies ever uttered, piled together, cannot tip the balance of everyday reality by the weight of a single speck of dust.
+
+---
+
+## 二、 一碗牛肝菌的重力：第一人称的切身因果 / 2. The Gravity of Boletes: First-Person Embodied Causality
 
 前些天我在林子里采了一大筐牛肝菌，踩着松软湿润的厚苔藓，满载而归。
 
@@ -28,7 +44,19 @@
 
 所谓“活在当下”，绝非浮躁时代的避世犬儒或轻浮放纵，而是心智终于学会了停止向虚无的未来预支焦虑。它甘愿退回到手边最具体的冷暖之间，把眼前的一蔬一饭认真对待到极致。世界并不是由漂浮的算法构成的，[因果始终留在操舵的前沿](../causality-stays-at-the-edge-that-steers/)——它是由切下虫眼时的触感、热油溅起的温度、以及舌尖上真实的饱腹感所牢牢锚定的。
 
-## 三、 破除“通用”的客体僭越：AI 作为第二种普罗米修斯之火
+A few days ago, I returned from the forest with a basket brimming with wild boletes, my boots damp from stepping through deep, spongy moss.
+
+Yet once home, when I cleaned them meticulously and carved away the parts hollowed out by forest insects, what remained after blanching barely filled the bottom of a bowl. The gifts of the earth are always finite and unvarnished, arriving with grit, pine needles, and insect trails. Lacking authentic pork belly at home, I improvised: slicing thick-cut bacon and crushing a stalk of fresh green garlic, tossing them together over high heat into a fragrant wok-fried bolete stir-fry.
+
+The oil crackled furiously against the cast iron, and the primal, earthy aroma of wild fungi fused with garlic quickly filled the kitchen. My wife and I devoured the entire dish in minutes.
+
+In that very instant, the mind recovered its firmest footing.
+
+What we call "living in the present" is neither the cynical retreat nor the shallow hedonism of a restless era; it is the mind finally learning to stop taking out loans of panic against an unwritten future. It willingly withdraws to the immediate warmth at hand, treating each meal and each chore with unflinching reverence. The world is not sustained by disembodied algorithms; [causality stays at the edge that steers](../causality-stays-at-the-edge-that-steers/)—anchored firmly by the tactile resistance of slicing through bruised mushroom flesh, the sting of hot oil splatter, and the unmistakable, physical satisfaction of a warm meal.
+
+---
+
+## 三、 破除“通用”的客体僭越：AI 作为第二种普罗米修斯之火 / 3. Dissolving the Category Error of "General": AI as the Second Promethean Fire
 
 看着锅底跳动的蓝色火苗，心智的视野忽然被拉长到了百万年的演化尺度。
 
@@ -50,7 +78,29 @@
 
 火本身从未拥有灵魂，操舵与制约的意志始终在握着火把的人手中。
 
-## 四、 炉火与长风：在两极之间安顿当下
+Watching the blue flame dance beneath the skillet, the mind's vantage stretches across an evolutionary horizon of a million years.
+
+Prevailing AI hype and existential doom alike spring from a single, unexamined category mistake: **they project "generality"—a property belonging solely to the first-person living mind under metabolic stakes—onto a third-person computational artifact.**
+
+In living beings, genuine generality has never meant possessing encyclopedic retrieval over thousands of textbook domains. It is the hard-won adaptive capacity forced upon an organism navigating an open, turbulent, physically consequential world where bodily harm is real. It begins with the pang of hunger, wades through the perils of toxic ingestion, and grounds itself in every life-or-death distinction drawn at the frontier of survival.
+
+Today's frontier models, by contrast, are high-density compressors and recombiners of historical symbolic residue. Because they traverse cross-disciplinary texts with effortless fluency, external observers gasp in the third person that "general intelligence" has arrived. This is the classic trap of [mistaking the expression for the intelligence](../mistaking-the-expression-for-the-intelligence/): the artifact possesses combinatorial diversity over human residue, yet possesses zero first-person living frontier that originated those symbols. [The model never becomes a second edge](../the-model-never-becomes-a-second-edge/) precisely because it bears no metabolic overhead, faces no existential stakes, and possesses no capacity to recoil or refuse under the impact of physical consequence.
+
+Once freed from this ontological confusion, the true identity of AI emerges clearly before the hearth: **it is not an alien deity descending from the sky, but the second Promethean fire struck by human hands in the digital wild.**
+
+Before *Homo erectus* mastered fire, wildfire was the primal dread wired into mammalian biology—lightning strikes turning grasslands into charred ash. Millions of years ago on the East African savanna, what was the catastrophic risk borne by the first hominid who reached out a trembling hand to pick up a burning branch? A single misstep meant agony, or burning their band's entire habitat to the ground.
+
+Yet fire never possessed "general intelligence"; fire is merely an intense, self-sustaining physicochemical reaction. The decisive civilizational leap was that early humans, risking self-immolation, domesticated that blaze and ignited history's first **externalized metabolic revolution: cooked food**. Fire pre-digested tough fibers and complex proteins outside the body, sparing humanity massive metabolic energy otherwise spent chewing and digesting raw matter—energy that was redirected directly into the dramatic expansion of the human brain.
+
+Today's AI is the exact reenactment of that metabolic externalization.
+
+It is a **cooking revolution for symbols**. Burning immense energy, it digests, chews, and pre-processes the vast corpus of human conceptual residue and formal logic, emancipating the living mind from mechanical symbolic drudgery. The heated online debates over "existential extinction probabilities" mirror the exact shiver felt by an ancestor huddled at the mouth of a dark cave, watching wind whip the glowing embers. Fearing the forest fire is primal self-preservation; but had our ancestors snuffed out every spark out of pure terror, humanity would still be cowering in the treetops of the Rift Valley, shivering through the stormy dark, incapable of surviving long enough to one day ponder the singularity through an LCD screen.
+
+Fire itself has never possessed a soul; the steering will and the burden of restraint remain, as ever, in the hand that holds the torch.
+
+---
+
+## 四、 炉火与长风：在两极之间安顿当下 / 4. Hearth Fire and Northern Wind: Settling the Present Between the Extremes
 
 真正让人类走到今天的，从来不是绝对的安全。在充满熵增与随机性的宇宙中，追求零风险的绝对安全等同于追求僵死与虚无。文明的生机，始终在于在失控的悬崖边缘学会制火、用火、驯火，并最终将那团可能吞噬一切的野火，规训为寒夜里围炉夜话时的暖光。
 
@@ -65,3 +115,17 @@
 推开门，赫尔辛基清冷的风吹过静谧的街角，行人们面无表情、安详地走过；厨房的生铁锅底，刚采回来的牛肝菌还在大蒜与培根的包裹下滋滋作响——
 
 看，火还在烧，日子也还在过。
+
+What brought humanity across the millennia was never absolute safety. In a universe governed by entropy and contingency, chasing zero-risk immunity is indistinguishable from courting lifeless inertia. The vitality of civilization has always resided in learning to kindle, wield, and tame fire at the very lip of catastrophe—transforming a conflagration that could consume everything into the quiet hearth that warms a winter night.
+
+We cannot retreat into paralysis out of fear of getting burned, nor should we surrender our sovereignty to disembodied data illusions. Reality is never a binary trap between being consumed by fire or retreating into the darkness; across the rich spectrum between those poles lies the boundless frontier of human exploration and craft.
+
+All of this returns, inexorably, to the witnessing of the Mind.
+
+It is the mind that weaves nightmares of doom from virtual equations; it is the mind that mistakenly projects "generality" onto an unliving artifact; and it is the mind that recognizes the nature of the tool across a million years of handling fire, reclaiming the weight of existence from the sizzling skillet and the cold northern street.
+
+The mind begins in awe and tremor before the unknown, yet settles at last in the clarity and composure of the present.
+
+Open the door: the crisp Helsinki wind sweeps across the quiet avenue, where passersby walk composed and undisturbed; inside the kitchen, in the seasoned iron skillet, the freshly foraged boletes still sizzle in garlic and bacon—
+
+Look: the fire is still burning, and life goes steadily on.
