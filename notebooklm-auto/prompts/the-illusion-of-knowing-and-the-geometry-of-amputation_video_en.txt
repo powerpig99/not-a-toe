@@ -4,8 +4,8 @@
 * **Narrative Arc**:
   1. **The Starting Paradox**: Why do intimate companions become adversaries, and why do individuals wage war against abstract institutions?
   2. **The Core Thesis**: All external conflicts—interpersonal, collective, or environmental—arise when the mind mistakes its own internal projections for independent external entities.
-  3. **The Causal Reality & Descriptive Scaffolding**: Beyond each individual mind's sovereign choice at moment t, there are no other free variables. The geometric and mathematical frameworks used to analyze projection are descriptive tools, not ontological primitives.
-  4. **Mutual Gradient Descent**: Neither field in a light wave is a prerequisite; they act as mutual gradient descent. A sovereign mind treats surprise as a loss function for zero-lag self-calibration.
+  3. **The First-Person Reality**: Beyond each individual mind's sovereign choice at moment t, there are no other free variables. There is no god's-eye view observing two minds; there is only the Mind and its dynamic relationship to its perception of the outside.
+  4. **Mutual Gradient Descent**: The Mind's intentional posture and its perception of the outside operate as mutual gradient descent. A sovereign mind treats surprise as a loss function for zero-lag self-calibration.
   5. **The Trap of Familiarity & Reification**: Knowing someone better than outsiders tricks us into believing we know them better than they know themselves, while confronting collectives tricks us into reifying our own powerlessness into an external monster.
   6. **Self-Amputation & Liberation**: Diminishing another simultaneously shrinks our own perceptual universe. Clarifying our lens naturally restores reverence, turning weapons back into bridges.
 
@@ -16,10 +16,9 @@ Why do we so often find ourselves locked in bitter hostility against abstract co
 Beneath all these fractures lies a single truth:
 All external conflicts—interpersonal, collective, or environmental—arise when the mind mistakes its internal projections for external realities.
 
-We instinctively seek deterministic external explanations. Yet beyond each mind's sovereign choice at moment t, there exists no other source of free agency.
-Even the geometry and mathematics we use to map these projections are merely descriptive scaffolding—not foundational facts.
+In lived reality, there is no detached god's-eye view observing "two minds" from above. There is only the Mind itself, and its dynamic relationship to what it perceives as the outside world.
 
-In a self-propagating light wave, neither the electric nor magnetic field serves as an external prerequisite; they operate as mutual gradient descent, instantly correcting any divergence on the infinitesimal scale.
+In this self-sustaining light wave of consciousness, our intentional posture and our incoming perceptions do not serve as external prerequisites for each other; they operate as mutual gradient descent, instantly correcting any divergence on the infinitesimal scale.
 That is precisely how a sovereign mind operates: treating every surprise and tension as an internal loss function, executing zero-lag updates on its own perceptual models rather than allowing errors to accumulate into external war.
 
 In close relationships, we turn compressed mental thumbnails into rigid rulers to prune living growth.
