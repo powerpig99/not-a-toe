@@ -57,6 +57,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | Family | Traits | Covers |
 |--------|--------|--------|
+| **Prismatic coordinate frames & orthogonal shadow projection** | Dark matte slate, two unlabelled luminous intersecting 3D coordinate frames in warm gold and cool cyan, projecting orthogonal perspective wireframe grids and dot-product shadows into deep space | `the-mind-as-vector-and-coordinate-system` |
 | **Orthogonal hyperspace & scalar collapse** | Dark field, emerald and cyan orthogonal filament grids branching freely in open space vs. rigid monochrome scalar ruler in shadows | `coordinates-in-flux-negation-and-self-anchoring` |
 | **Dark chalk / light trails** | Black or near-black field; chalk, charcoal, or particle light paths; orbits, sparks, arcs | `self-rl-for-humans`, `intelligence-belongs-only-to-the-mind`, `the-allocation-of-causal-power-in-validation`, `the-brain-does-not-backprop`, `ownership-and-self-worthiness`, `hassabis-frontier-agi-premise`, `mei-you-pu-du-zhi-you-zi-du` |
 | **Painterly glass / gold path** | Oil-like strokes, translucent panel, gold or light ribbon through violet haze | `openness-is-consistency`, `a-new-deeper-look-at-antifragility` |
@@ -504,6 +505,8 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-illusion-of-the-tool-and-the-inversion-of-time` | Anodized chronometric relief and thermographic Schlieren interferometry on deep graphite and oxidized tungsten ground with incandescent thermal gradient fringes, precision coordinate grid fracturing into discrete heavy physical footsteps radiating thermal heat and friction |
 | `the-dissolution-of-the-great-reversal` | Metaphysical resonance & fractured monolithic ruler chiaroscuro relief |
 | `the-ladder-of-abstraction-and-the-executable-entity` | Constructivist axonometric drafting & translucent crystalline hyper-dimensional manifold |
+| `coordinates-in-flux-negation-and-self-anchoring` | Orthogonal hyperspace & scalar collapse chiaroscuro relief |
+| `the-mind-as-vector-and-coordinate-system` | Prismatic coordinate frames & orthogonal shadow projection chiaroscuro plate on dark matte slate |
 
 ## Crowded — prefer not to extend
 

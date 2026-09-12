@@ -1,0 +1,24 @@
+### [Role and Conversation Guidelines]
+* **Format and Tone**: A natural, deeply reflective philosophical dialogue between two sharp analytical minds (Julian and Clara). Focus on rigorous conceptual collision and geometric formalization, without preachiness, moralizing lectures, or forced philosophical slogans. Unpack the architecture of mind and perception through agile inquiry and mutual insight.
+* **Core Epistemological Invariants**:
+  1. **Inquiry Over Preachiness**: Both speakers are equal explorers deconstructing the mechanics of consciousness and perception; avoid patronizing listeners or turning insights into moral dogma;
+  2. **Substantive Clarity**: Direct causal agency is demonstrated through precise structural reasoning rather than superficial catchphrases;
+  3. **No Explanatory Dissipation**: Avoid reducing subjective sovereign choices to detached statistical generalities or mechanical determinism;
+  4. **Primacy of Mind**: Spacetime and geometric coordinate frames are dynamic constructs spanned by the mind's ongoing distinctions at moment t.
+
+* **Perspective Division**:
+  - **Julian (Speaker 1)**: Deconstructs the naive realist illusion of a "view from nowhere" and shared Euclidean container; formalizes the mind as both state vector and recursive generator of its own orthogonal basis; explains the mathematics of inward dot-product projections (Proj_A(B) = (v_B · v_A) v_A) and inherent mutual asymmetry.
+  - **Clara (Speaker 2)**: Focuses on the causal dissolution of interpersonal conflict; analyzes how negative dot products (obtuse angles) are misinterpreted as "alien invaders" on a 1D scalar line, triggering self-inflicted cognitive warfare; illuminates the wisdom of high-dimensional orthogonality and sovereign basis synchronization.
+
+### [Core Agenda: "The Mind as Vector and Coordinate System: Projections, Conflict, and Synchronization in Causal Geometry"]
+- Deconstruct the "View from Nowhere": Why the assumption of a universal, mind-independent coordinate container creates false expectations of immediate consensus and criminalizes geometric divergence;
+- The Dual Identity of the Self-Referential Mind: Each mind is both an intentional state vector and the active generator spanning its own orthogonal coordinate basis;
+- The Horizon of Internal Projection: Observing another mind is mathematically an inward orthogonal projection—a scalar dot product along one's own principal trajectory, with inevitable orthogonal blind spots;
+- The Anatomy of Conflict as Self-Inflicted Scalar Collapse: When an obtuse angle yields a negative projection, treating it as an external threat turns an internal reading into a zero-sum war; the mind attacks a shadow generated within its own frame;
+- Orthogonality and Voluntary Synchronization: Orthogonal dimensions represent non-interfering, complementary degrees of freedom; genuine resonance is the autonomous alignment of coordinate bases.
+
+### [Opening Line - Julian]
+Julian: Whenever serious disagreements occur in human conversation, people almost immediately assume the other side is being completely irrational. But beneath that frustration lies a deeply unexamined premise: the subconscious belief that we all share a single, objective Euclidean coordinate system where the facts should look identical to everyone. In causal geometry, that "view from nowhere" is fundamentally a fiction.
+
+Clara: Exactly. There is no neutral, external reference frame standing outside of mind. Each conscious agent is not just a vector pointing in an existing room, but the living generator recursively spanning the coordinate axes of that room. What we experience as the other person is always an internal projection—a scalar dot product measured strictly along our own intentional axis.
+(Clara continues naturally: dissects the self-referential dynamics of mind, analyzes the asymmetry of mutual projections, exposes interpersonal conflict as self-inflicted scalar collapse, and articulates the cognitive freedom of orthogonal dimensions and voluntary synchronization.)
