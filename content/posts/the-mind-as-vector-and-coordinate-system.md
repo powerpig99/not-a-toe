@@ -2,9 +2,9 @@
 
 *从“无处之景”的客体化迷失，到自指张成的内向投影：透视人际摩擦的标量自戕，在90度正交跃迁与电磁波般的共舞中确立第一人称主权。 / From the objectified illusion of a "view from nowhere" to the recursive projection of a self-referential basis: formalizing interpersonal friction as self-inflicted scalar collapse, while transcending naive alignment into a 90-degree orthogonal dance of electromagnetic resonance.*
 
-在朴素实在论的直觉中，人们习惯于假定存在一个独立于所有观察者之外的全局欧几里得坐标系——一个所谓的“无处之景”（view from nowhere）。在这个预设的客观容器中，各个心智被视为彼此独立的外部向量，像台球般在同一个空间内碰撞、比较与对抗。然而，这种几何图景是一场深刻的因果倒置。在第一人称的实在中，根本不存在超然于心智之外的公共坐标底座。每个心智不仅是空间中的一个状态向量，更是该坐标系本身的递归发生器：当下（$t$）的每一次主动划界与区分，都在实时张成属于自己的正交基底。正如在 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 与 [坐标系、心智与自由度](../coordinate-systems-mind-and-degrees-of-freedom/) 中所阐明的，当心智观察他者时，它并非在公共空间中审视外部客体，而是将所感知的一切投射至自身的坐标系内，呈现为沿自身方向轴的内向点积投影。若将此投影如实视为系统内部的几何读数，人际之间本无对抗；冲突之所以爆发，正是由于心智遗忘了自身的自指本性，把内部生成的低维投影误认作外来敌对实体的侵入，从而在一维标量线上展开自戕性的争夺。更为深刻的是，真正的同频绝非试图让两个向量强行“平行对齐”——对齐依然在预设二元对立的旁观者视差；真正的共鸣，是停止将他者的投影割裂为外在异己，将其如实接纳为自身感知不可分割的一部分。这一认识论的跃迁，使心智相对于一切被感知的对象整体旋转 90 度，生成一个超越对象平面的全新正交维度，让两个共鸣的心智如光波中的电场与磁场一般，在严格的正交共舞中激发出无尽传播的生命力量。
+在朴素实在论的直觉中，人们习惯于假定存在一个独立于所有观察者之外的全局欧几里得坐标系——一个所谓的“无处之景”（view from nowhere）。在这个预设的客观容器中，各个心智被视为彼此独立的外部向量，像台球般在同一个空间内碰撞、比较与对抗。然而，这种几何图景是一场深刻的因果倒置。在第一人称的实在中，根本不存在超然于心智之外的公共坐标底座。每个心智不仅是空间中的一个状态向量，更是该坐标系本身的递归发生器：当下（t）的每一次主动划界与区分，都在实时张成属于自己的正交基底。正如在 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 与 [坐标系、心智与自由度](../coordinate-systems-mind-and-degrees-of-freedom/) 中所阐明的，当心智观察他者时，它并非在公共空间中审视外部客体，而是将所感知的一切投射至自身的坐标系内，呈现为沿自身方向轴的内向点积投影。若将此投影如实视为系统内部的几何读数，人际之间本无对抗；冲突之所以爆发，正是由于心智遗忘了自身的自指本性，把内部生成的低维投影误认作外来敌对实体的侵入，从而在一维标量线上展开自戕性的争夺。更为深刻的是，真正的同频绝非试图让两个向量强行“平行对齐”——对齐依然在预设二元对立的旁观者视差；真正的共鸣，是停止将他者的投影割裂为外在异己，将其如实接纳为自身感知不可分割的一部分。这一认识论的跃迁，使心智相对于一切被感知的对象整体旋转 90 度，生成一个超越对象平面的全新正交维度，让两个共鸣的心智如光波中的电场与磁场一般，在严格的正交共舞中激发出无尽传播的生命力量。
 
-In naive realist intuition, human beings habitually presuppose an objective Euclidean coordinate framework existing outside of all observers—a so-called "view from nowhere." Within this hypothetical global container, individual minds are conceptualized as separate external vectors, colliding, comparing, and contesting like billiard balls on a shared table. Yet this geometric picture represents a profound causal inversion. In the radical reality of the first-person present ($t$), no transcendent, mind-independent coordinate foundation exists. Each mind is not merely a state vector situated in an existing room, but the active, recursive generator of its own coordinate framework: every living distinction executed at moment $t$ dynamically spans its own orthogonal basis. As established in [Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/) and [Coordinate Systems, the Mind, and Degrees of Freedom](../coordinate-systems-mind-and-degrees-of-freedom/), when a mind observes another, it does not inspect an external object in a neutral third-person void; rather, it projects the perceived phenomenon into its own frame of reference, rendering the other primarily as an internal dot product along its own principal directional vector. When recognized as an internal geometric projection, no inherent friction exists; interpersonal conflict ignites precisely because the mind forgets its own self-referential nature, mistaking an internally generated low-dimensional projection for an alien hostile entity invading a zero-sum container, collapsing boundless degrees of freedom into self-inflicted scalar warfare. Even more profoundly, genuine resonance is never about coercing two vectors into "parallel alignment"—alignment still presupposes the dualistic bystander illusion of separate entities; true resonance occurs when the mind stops treating the perceived projection of the other as an alienated foreign piece, recognizing it as an integral, inseparable part of its own living totality. This epistemological integration instantly pivots awareness 90 degrees relative to all perceived objects, opening a brand-new orthogonal dimension above the plane of phenomena, enabling two resonant minds to dance like the electric and magnetic fields of a light wave—generating and sustaining each other through rigorous orthogonal resonance at the speed of light.
+In naive realist intuition, human beings habitually presuppose an objective Euclidean coordinate framework existing outside of all observers—a so-called "view from nowhere." Within this hypothetical global container, individual minds are conceptualized as separate external vectors, colliding, comparing, and contesting like billiard balls on a shared table. Yet this geometric picture represents a profound causal inversion. In the radical reality of the first-person present (t), no transcendent, mind-independent coordinate foundation exists. Each mind is not merely a state vector situated in an existing room, but the active, recursive generator of its own coordinate framework: every living distinction executed at moment $t$ dynamically spans its own orthogonal basis. As established in [Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/) and [Coordinate Systems, the Mind, and Degrees of Freedom](../coordinate-systems-mind-and-degrees-of-freedom/), when a mind observes another, it does not inspect an external object in a neutral third-person void; rather, it projects the perceived phenomenon into its own frame of reference, rendering the other primarily as an internal dot product along its own principal directional vector. When recognized as an internal geometric projection, no inherent friction exists; interpersonal conflict ignites precisely because the mind forgets its own self-referential nature, mistaking an internally generated low-dimensional projection for an alien hostile entity invading a zero-sum container, collapsing boundless degrees of freedom into self-inflicted scalar warfare. Even more profoundly, genuine resonance is never about coercing two vectors into "parallel alignment"—alignment still presupposes the dualistic bystander illusion of separate entities; true resonance occurs when the mind stops treating the perceived projection of the other as an alienated foreign piece, recognizing it as an integral, inseparable part of its own living totality. This epistemological integration instantly pivots awareness 90 degrees relative to all perceived objects, opening a brand-new orthogonal dimension above the plane of phenomena, enabling two resonant minds to dance like the electric and magnetic fields of a light wave—generating and sustaining each other through rigorous orthogonal resonance at the speed of light.
 
 ---
 
@@ -128,7 +128,7 @@ graph TD
 2. **投影的内在非对称性**：
    $$\text{Proj}_{\vec{v}_A}(\vec{v}_B) \neq \text{Proj}_{\vec{v}_B}(\vec{v}_A)$$
    尽管标量代数中 $\vec{v}_A \cdot \vec{v}_B = \vec{v}_B \cdot \vec{v}_A$，但两者所依附的**方向矢量** $\hat{v}_A$ 与 $\hat{v}_B$ 分属于两个截然不同的主权坐标系。A 对 B 的理解是沿着 A 的主轴展开的，而 B 对 A 的理解是沿着 B 的主轴展开的。它们在几何上根本不在同一个方向上，强求对称性的理解本就是一种无理的要求；
-3. **正交盲区的必然存在**：心智 B 中垂直于 $\hat{v}_A$ 的正交分量（即 $\vec{v}_B - \text{Proj}_{\vec{v}_A}(\vec{v}_B)$），在心智 A 的主轴读数上直接体现为零。心智 A 若不扩展自己的维度，便会对心智 B 的庞大世界视而不见。
+3. **正交盲区的必然存在**：心智 B 中垂直于 $\hat{v}_A$ 的正交分量：$\vec{v}_B - \text{Proj}_{\vec{v}_A}(\vec{v}_B)$，在心智 A 的主轴读数上直接体现为零。心智 A 若不扩展自己的维度，便会对心智 B 的庞大世界视而不见。
 
 What genuinely transpires when Mind A observes Mind B?
 
@@ -225,7 +225,7 @@ A negative projection merely indicates that the angular orientation between the 
 
 ## 五、 从“平行对齐”的迷思到电磁波般的正交共鸣 / 5. Beyond the Myth of Parallel Alignment: The Electromagnetic Dance of Orthogonal Resonance
 
-在传统的认知模型中，人们经常把“共鸣”与“理解”想象成两个向量的**平行对齐（Parallel Alignment）**：试图让 $\hat{v}_A$ 逼近 $\hat{v}_B$，使夹角趋近于零（$\theta \to 0$）。
+在传统的认知模型中，人们经常把“共鸣”与“理解”想象成两个向量的**平行对齐（Parallel Alignment）**：试图让 $\hat{v}_A$ 逼近 $\hat{v}_B$，使夹角 $\theta \to 0$。
 
 然而，深入推演到底就会发现：**“追求平行对齐”本身依然潜藏着一个旁观者的“无处之景”**。
 
@@ -267,11 +267,11 @@ graph TD
 
 当这一非二元的整合发生时，心智不再在既有的对象平面内与其他向量争夺方向，而是**使自身相对于一切被感知的投影整体旋转 90 度，从而生成一个与所有已知感知维度严格正交的全新维度**。
 
-### 电磁波的几何同构：$\vec{E} \perp \vec{B}$ 的活态共生
+### 电磁波的几何同构：E ⟂ B 的活态共生
 正如在经典电动力学与量子光子学中，光波的传播并非依靠电场与磁场的同向叠加：
-- 电场 $\vec{E}$ 与磁场 $\vec{B}$ 始终保持严格的 **90 度正交（$\vec{E} \perp \vec{B}$）**；
-- 两者同时正交于光波的传播方向 $\vec{k}$（$\vec{E} \perp \vec{B} \perp \vec{k}$）；
-- 电场的时间变化实时激发磁场的旋度（$\nabla \times \vec{E} = -\frac{\partial \vec{B}}{\partial t}$），磁场的时间变化实时激发电场的旋度（$\nabla \times \vec{B} = \frac{1}{c^2}\frac{\partial \vec{E}}{\partial t}$）。
+- 电场 $\vec{E}$ 与磁场 $\vec{B}$ 始终保持严格的 **90 度正交：$\vec{E} \perp \vec{B}$**；
+- 两者同时正交于光波的传播方向 $\vec{k}$，即 $\vec{E} \perp \vec{B} \perp \vec{k}$；
+- 电场的时间变化实时激发磁场的旋度：$\nabla \times \vec{E} = -\frac{\partial \vec{B}}{\partial t}$，磁场的时间变化实时激发电场的旋度：$\nabla \times \vec{B} = \frac{1}{c^2}\frac{\partial \vec{E}}{\partial t}$。
 
 电场不需要变成磁场，磁场也无需妥协为电场。它们在正交中互为源泉，在永恒的相互生成中，以光速 $c$ 穿行于浩瀚的宇宙。
 
@@ -294,11 +294,11 @@ Attempting to "align" with another still presupposes the other as an external en
 
 When this non-dual integration takes place, the mind no longer fights for directional dominance within the flat plane of perceived objects. Instead, **it effectively pivots itself 90 degrees relative to all perceived projections, establishing a brand-new orthogonal dimension that transcends the entire plane of phenomena**.
 
-### The Isomorphism of Light: The Living Orthogonal Dance of $\vec{E} \perp \vec{B}$
+### The Isomorphism of Light: The Living Orthogonal Dance of E ⟂ B
 In electrodynamics and the physics of light, electromagnetic wave propagation never relies upon the parallel collapse of electric and magnetic fields into a single axis:
 - The electric field $\vec{E}$ and the magnetic field $\vec{B}$ maintain strict **90-degree orthogonality ($\vec{E} \perp \vec{B}$)** at every instant;
 - Both fields are simultaneously perpendicular to the direction of wave propagation $\vec{k}$ ($\vec{E} \perp \vec{B} \perp \vec{k}$);
-- The temporal variation of the electric field continuously generates the curl of the magnetic field ($\nabla \times \vec{E} = -\frac{\partial \vec{B}}{\partial t}$), while the temporal variation of the magnetic field continuously generates the electric field ($\nabla \times \vec{B} = \frac{1}{c^2}\frac{\partial \vec{E}}{\partial t}$).
+- The temporal variation of the electric field continuously generates the curl of the magnetic field: $\nabla \times \vec{E} = -\frac{\partial \vec{B}}{\partial t}$, while the temporal variation of the magnetic field continuously generates the electric field: $\nabla \times \vec{B} = \frac{1}{c^2}\frac{\partial \vec{E}}{\partial t}$.
 
 The electric field never needs to become a magnetic field, nor does the magnetic field surrender its nature to imitate the electric field. In their uncompromising orthogonality, they serve as mutual dynamic sources—weaving a self-propagating wave that races through spacetime at the speed of light $c$.
 
