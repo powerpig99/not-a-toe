@@ -2,7 +2,7 @@
 
 *从熟稔滋生的认知傲慢，到向内澄明的因果解脱：看清以标尺截肢他者的自戕本质，在第一人称觉察中恢复对活态心智的敬畏与共鸣。 / From the arrogance of familiarity to the liberation of inward clarity: tracing how amputating others is self-amputation, while restoring reverence and resonance through self-perceptual awareness.*
 
-人际关系与社会生存中的摩擦与张力，常包裹在“了解”与“关心”的表象之下。在漫长而孤独的平行宇宙中，能够相遇并建立深厚联结的同行者极其罕见，然而在经验世界中，最亲密的伴侣容易演变为不相往来的对手，家庭容易被视作个人停滞的原因，子女与父母容易陷入难以释怀的相互要求，在网络空间中人们隔着屏幕与陌生人激烈交锋，乃至个人在面对集体、体制与生存环境时，也常陷入持久的对抗。这一系列冲突现象表征各异，其底层机制却高度一致：**所有外部冲突——无论是人际之间、个体与集体之间，还是个体与环境之间——皆是心智将自身生成的内向投影，误认作外部世界独立实体的结果**。正如在 [向量、坐标系与自指心智：几何视角下的投影、冲突与电磁同频](../the-mind-as-vector-and-coordinate-system/) 与 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 中所阐释的，心智所接收的外界信号，始终是通过自身认知框架折射出的内向点积。当我们以为自己“看透”了他者或外部环境时，便将高度压缩的低维印象当作了客观实在，甚至铸成一把刚性的标尺去裁量身边最亲近之人，或将内生读数具象化为一个外部庞然大物。这种外化归因在日常经验中极难避免，然而正是这种将内部投影客体化的混淆，构成了人际与社会摩擦的根源。唯有转向第一人称的内在觉察，看清自身透镜的折射机制，心智才能放下向外挥舞的标尺，在对未知维度的敬畏中重建桥梁，实现电磁波般的正交共振与深层共鸣。
+人际关系与社会生存中的摩擦与张力，常包裹在“了解”与“关心”的表象之下。在漫长而孤独的平行宇宙中，能够相遇并建立深厚联结的同行者极其罕见，然而在经验世界中，最亲密的伴侣容易演变为不相往来的对手，家庭容易被视作个人停滞的原因，子女与父母容易陷入难以释怀的相互要求，在网络空间中人们隔着屏幕与陌生人激烈交锋，乃至个人在面对集体、体制与生存环境时，也常陷入持久的对抗。这一系列冲突现象表征各异，其底层机制却高度一致：**所有外部冲突——无论是人际之间、个体与集体之间，还是个体与环境之间——皆是心智将自身生成的内向投影，误认作外部世界独立实体的结果**。正如在 [向量、坐标系与自指心智：几何视角下的投影、冲突与电磁同频](../the-mind-as-vector-and-coordinate-system/) 与 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 中所阐释的，心智所接收的外界信号，始终是通过自身认知框架折射出的内向读数。当我们以为自己“看透”了他者或外部环境时，便将高度压缩的低维印象当作了客观实在，甚至铸成一把刚性的标尺去裁量身边最亲近之人，或将内生读数具象化为一个外部庞然大物。这种外化归因在日常经验中极难避免，然而正是这种将内部投影客体化的混淆，构成了人际与社会摩擦的根源。唯有转向第一人称的内在觉察，看清自身透镜的折射机制，心智才能放下向外挥舞的标尺，在对未知维度的敬畏中重建桥梁，实现电磁波般的正交共振与深层共鸣。
 
 Friction and tension in human relationships and social existence often conceal themselves beneath the guise of "intimacy" and "care." In a vast and lonely universe, companions capable of crossing paths and forming profound bonds are exceedingly rare. Yet in lived experience, lovers readily drift into lifelong adversaries, families are framed as the cause of personal stagnation, children and parents become locked in unforgiving mutual demands, digital strangers clash fiercely across screens, and individuals find themselves in enduring antagonism against collectives, institutions, and environments. Although these conflict scenarios manifest across different scales, their underlying mechanics are identical: **all external conflicts—whether interpersonal, between an individual and a collective, or between an individual and the broader environment—arise when the mind mistakes its own internally generated projection for an independent entity in the external world**. As established in [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) and [Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/), incoming signals from reality are invariably parsed as inward projections measured along one's own internal axes. When the mind believes it "knows" another or fully comprehends an external environment, it treats a highly compressed low-dimensional thumbnail as objective reality—turning it into a rigid ruler to judge those closest to it, or reifying an internal reading into an external leviathan. While externalized attribution is difficult to avoid in everyday life, this conflation of internal projections with external objects forms the root of conflict. Only by turning inward to perceive how our own lens generates perception can the mind lay down its measuring rulers, restoring reverence for the sovereign depths of surrounding minds and discovering true resonance in boundless orthogonal balance.
 
@@ -48,31 +48,31 @@ graph TD
     style R5 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
 ```
 
-在日常生活中，面对内部生成的读数偏转，心智的即时反应是将原因直接安放在外部对象上：
+在日常经验中，人们习惯于在个人主权抉择之外，寻找某种确凿的、决定论式的外部实体作为归因的锚点（性格、家庭、体制、环境、历史规律等）。面对内部生成的读数偏转，心智的即时反应是将原因直接安放在外部对象上：
 
 1. **亲密关系中的对立**：当伴侣表现出独立的取向时，该信号在自身轴向上产生了偏转读数，心智容易将这一几何差异直接定义为对方的敌意；
-2. **家庭归因中的停滞**：心智将自身在当下（t）面临的抉择张力，回溯投射到过去的起点，将家庭历史当作造成当前状态的外部实体原因。正如在 [个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 中所指出的，任何对外部起点的依附，都是将当下的因果主权让渡给历史镜像；
-3. **代际之间的相互要求**：子女将自身对完美坐标的期待落空归因为父母的过错，父母亦将自身尺度未被满足归因为子女的偏离；
+2. **家庭归因中的停滞**：心智将自身在当下（t）面临的抉择张力，回溯投射到过去的起点，将家庭历史当作造成当前状态的外部实体原因；
+3. **代际之间的相互要求**：子女将自身对理想坐标的期待落空归因为父母的过错，父母亦将自身尺度未被满足归因为子女的偏离；
 4. **数字网络中的符号交锋**：面对屏幕上高度简化的文本碎片，心智用自身内部的参考框架迅速补全出一个恶性形象，并在与其博弈中耗费精力；
 5. **个体与集体的对抗**：面对抽象的集体、体制或群体标签，心智将自身的失落与张力投射为一个庞大的客体怪物，并误以为自己在反抗一个具象的实体；
 6. **个体与环境及命运的摩擦**：当情境超出预期时，心智将自身的适应摩擦直接归因为外部环境或命运的敌对。
 
-所有这些表象虽然各异，但实质上都是心智在与自己生成的内部投影博弈。断定“问题在外部”，使心智聚焦于外部对象的对错，却未觉察到测量读数本身是由自身的参考系所生成。
+然而在实在的因果结构中：**除了每个独立心智在当下（t）的主权抉择之外，系统中不存在任何其他能够注入自由变量的源泉**。我们在宏观世界中所观察到的所谓“确定性”或“决定论规律”，实质上都是微观层面上非确定性与活态抉择的**统计学表征**。正如在 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)、[个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所指明的，当问题落脚到个体身上时，唯一的因果发生器始终是每一个心智在当下的主权抉择。将因果归咎于外部的确定性客体，不过是用统计学的宏观副产物掩盖了真正的主权现实。
 
 The genesis of external conflict stems from the mind's **externalized attribution** when processing perceptual signals.
 
 When an external signal enters awareness, it does not exist as an unmeasured, naked object; rather, it is immediately parsed by the mind's own intentional coordinate frame, registering as a measurement readout along its internal axes. When this readout exhibits angular divergence or a negative projection, tension arises within the perceptual system.
 
-In daily living, confronted with a divergent internal readout, the mind instinctively assigns the cause directly to an external object:
+In daily living, the natural cognitive instinct is to anchor causality to something definitive and deterministic other than personal sovereign choice—such as personality, family, institutions, culture, or historical laws. Confronted with a divergent internal readout, the mind instinctively assigns the cause directly to an external object:
 
 1. **Opposition in Romance**: When a partner displays an independent orientation, the signal produces an angular deviation on one's intentional axis, which the mind readily reifies as deliberate hostility;
-2. **Stagnation in Family Grievance**: Consciousness projects its present causal tension at moment t retroactively onto historical origins, framing family background as an external cause. As articulated in [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/), anchoring agency in external origins surrenders present sovereignty to historical images;
+2. **Stagnation in Family Grievance**: Consciousness projects its present causal tension at moment t retroactively onto historical origins, framing family background as an external deterministic cause;
 3. **Intergenerational Demands**: Adult children attribute the disillusionment of childhood ideals to parental fault, while parents attribute unmet expectations to a child's divergence;
 4. **Cyberspace Symbolic Warfare**: Confronted with flat textual fragments, the mind uses its own internal frame to construct an antagonistic caricature, expending energy in fighting a phantom;
 5. **Conflict with Collectives**: When facing abstract institutions, systems, or group labels, the mind projects its internal tension onto a reified monolith, believing it is battling an external giant;
 6. **Friction with Environment and Fate**: When situations diverge from expectations, consciousness attributes adaptive friction directly to a hostile environment or cruel fate.
 
-Diverse as these phenomena appear, they are structurally identical: the mind is wrestling with its own internally generated projections. Concluding that "the problem is out there" directs attention to external objects, without recognizing that the measurement itself was rendered by one's own coordinate framework.
+Yet in the fundamental causal structure of reality: **beyond each individual mind's sovereign choice at moment t, there exists no other source capable of injecting a free variable into the system**. Whatever we perceive as definitive or deterministic in the macrocosm is merely the statistical symptom of microscopic indeterminism and sovereign choices. As articulated in [Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/), [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/), and [The Pseudo-Causality of Emergence and the Fallacy of Collective Attribution](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/), when it comes to individuals, the irreducible causal engine is each and every mind's sovereign choice. Attributing conflict to external deterministic structures merely substitutes statistical shadows for living causal reality.
 
 ---
 
@@ -192,7 +192,44 @@ Within these loops, communication tools are misused to preserve rigid models, st
 
 ---
 
-## 四、 认识论转向：通过理解自身感知而解放周围心智 / 4. The Epistemic Turning: Clarifying Self-Perception to Liberate Surrounding Minds
+## 四、 认识论脚手架：数学与几何仅是描述工具而非本体基底 / 4. Epistemological Scaffolding: Mathematics and Geometry as Descriptive Instruments, Not Ontological Facts
+
+在剖析心智运作与感知投影时，我们引入了坐标系、向量点积、投影偏转与正交空间等几何框架。
+
+**需要明确界定的是：所有这些数学与几何模型，仅仅是帮助我们描述心智运作机制的认识论脚手架与语言工具，绝非本体论意义上的终极基底事实。**
+
+```mermaid
+graph TD
+    subgraph S_Epistemic_Distinction["【脚手架与活态事实的分界】"]
+        direction TB
+        M1["数学与几何隐喻<br>（坐标系 / 向量点积 / 投影偏转 / 正交分解）"]
+        M2["认识论脚手架：提供清晰的描述机制<br>（避免陷入第三人称评判或道德指责）"]
+        M3["本体论基底事实：第一人称活态心智<br>（当下时刻 t 的主权抉择与直接感知）"]
+        M1 --> M2
+        M2 -.->|"指涉与澄清，但不能替代"| M3
+    end
+
+    style S_Epistemic_Distinction fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style M1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
+    style M2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
+    style M3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+```
+
+如果在破除了对外部客体的固执之后，又将数学结构或几何图景实体化为某种超越于主体之上的“客观真理”或新的“无处之境”（a view from nowhere），便不过是重复了概念僭越的老路。几何模型之所以有用，是因为它能够以非道德化、结构化的方式，呈现感知投影与视角差异的生成过程；但它本身并不是实在的因果实体。
+
+在实在的因果链条中，唯一的终极基底始终是**每个活态心智在第一人称当下（t）的直接体认与主权抉择**。数学提供了描述机制的透镜，而活态心智才是握持透镜与作出抉择的主体。
+
+When analyzing cognitive operations and perceptual projections, we deploy geometric frameworks such as coordinate systems, dot products, angular deflections, and orthogonal spaces.
+
+**It is essential to clarify: all such mathematical and geometric formalisms are merely epistemological scaffolding and linguistic tools used to describe how perception operates—they are not foundational ontological facts or metaphysical primitives.**
+
+If, after dissolving our fixations on external objects, we were to reify mathematical structures or geometric depictions into an external "objective truth" or a new "view from nowhere," we would simply repeat the error of conceptual usurpation. Geometric modeling is valuable because it articulates the generation of perceptual projections and perspectival divergence in a non-moralizing, structural manner; yet it is not itself a living causal entity.
+
+Within the fundamental causal structure, the sole foundational reality remains **the first-person lived awareness and sovereign choice of each living mind at moment t**. Mathematics provides a lens to describe the mechanics, while the living mind remains the sovereign agent holding the lens and enacting the choice.
+
+---
+
+## 五、 认识论转向：通过理解自身感知而解放周围心智 / 5. The Epistemic Turning: Clarifying Self-Perception to Liberate Surrounding Minds
 
 走出与自身投影博弈的循环，并不依赖于向外研究或重构他人的行为模式。
 
