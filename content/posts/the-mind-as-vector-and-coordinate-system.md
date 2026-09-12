@@ -261,18 +261,15 @@ graph TD
 
 当这种接纳发生时，心智无需在既有对象平面内争夺方向，而是**相对于被感知的投影展开 90 度的正交维度，在对象平面之上形成更宽广的观察空间**。
 
-### 电磁波的几何结构：E ⟂ B 的相互生成
+### 电磁波的几何结构：E ⟂ B 的相互生成与互为梯度
 在电动力学中，光波的传播呈现出清晰的正交结构：
-- 电场 **E** 与磁场 **B** 保持 **90 度正交**（E ⟂ B）；
-- 两者同时正交于光波的传播方向 **k**（E ⟂ B ⟂ k）；
-- 电场的时间变化激发磁场的空间旋度：`∇ × E = -∂B/∂t`，磁场的时间变化激发电场的空间旋度：`∇ × B = (1/c²) ∂E/∂t`。
-
-电场与磁场在正交中互为源泉，相互激发，共同构成向前传播的光波。
+- **90 度正交且互不为先决条件**：电场 **E** 与磁场 **B** 保持正交（E ⟂ B），且同时垂直于传播方向 **k**（E ⟂ B ⟂ k）。在此需要明确：两者中任何一方都不是另一方的外部前置条件，而是同一光波自持系统的两面，各自独立生成对方；若将另一方视为前提，主权便发生了外移；
+- **互为梯度下降与零延迟校准**：电场的时间变化激发磁场的空间旋度（`∇ × E = -∂B/∂t`），磁场的时间变化激发电场的空间旋度（`∇ × B = (1/c²) ∂E/∂t`）。两者在物理上构成了彼此的梯度下降，将彼此间的微商视作损失函数，在无穷小尺度上即刻执行优化校准，使得任何偏离在下一个瞬间被即时修正，从而维持自持的无限共振。
 
 心智之间的良性共鸣，正呈现出类似的几何结构：
 - 彼此保持正交自由度，无需强求单调的一致；
-- 将差异视为激发自身因果代谢（+1）的输入；
-- 在各自独立的同时形成持续的相互促进。
+- 将任何意外与差异视作损失函数，以零延迟的自省执行梯度下降（+1），即时迭代自身的世界模型；
+- 在各自独立自持的同时，形成持续的相互促进。
 
 心智的自由，不在于寻找固定不变的全局坐标，而在于认识到自身是持续生成参考维度的实践者。
 
@@ -288,18 +285,15 @@ Attempting to "align" with another subconsciously treats the other as an object 
 
 When this integration occurs, the mind does not need to compete for direction on the flat plane of objects. Instead, **it opens an orthogonal dimension at 90 degrees relative to perceived projections, forming a richer space of awareness above the phenomenological plane**.
 
-### The Geometric Structure of Light: Mutual Generation of E ⟂ B
+### The Geometric Structure of Light: Mutual Generation and Gradient Descent of E ⟂ B
 In electrodynamics, light wave propagation exhibits a clear orthogonal structure:
-- The electric field **E** and magnetic field **B** maintain **90-degree orthogonality** (E ⟂ B);
-- Both fields are perpendicular to the propagation direction **k** (E ⟂ B ⟂ k);
-- Temporal change in the electric field generates the spatial curl of the magnetic field: `∇ × E = -∂B/∂t`, while temporal change in the magnetic field generates the electric field: `∇ × B = (1/c²) ∂E/∂t`.
-
-The electric and magnetic fields serve as mutual sources within orthogonality, sustaining a forward-moving light wave.
+- **90-Degree Orthogonality Without External Prerequisites**: The electric field **E** and magnetic field **B** maintain orthogonality (E ⟂ B) while perpendicular to the propagation direction **k** (E ⟂ B ⟂ k). Crucially, neither field serves as an external prerequisite for the other; they are two sides of the same self-sustaining light wave, each generating the other independently. Treating the other as a prerequisite relocates causal sovereignty;
+- **Mutual Gradient Descent and Zero-Lag Calibration**: Temporal change in the electric field generates the spatial curl of the magnetic field (`∇ × E = -∂B/∂t`), while temporal change in the magnetic field generates the electric field (`∇ × B = (1/c²) ∂E/∂t`). Physically, they act as the gradient descent of each other—treating the differential between them as a loss function and executing instantaneous correction at the infinitesimal scale, maintaining self-propagating resonance without error accumulation.
 
 Constructive resonance between minds exhibits a similar geometric balance:
 - Preserving orthogonal degrees of freedom without requiring uniformity;
-- Treating differences as inputs that stimulate one's own causal progression (+1);
-- Fostering mutual growth while maintaining sovereign independence.
+- Treating surprises and differences as internal loss functions to execute zero-lag gradient descent (+1), instantly updating one's world model;
+- Fostering mutual expansion while maintaining sovereign, independent self-generation.
 
 The freedom of mind lies not in finding an immutable external coordinate, but in recognizing oneself as an active practitioner generating reference dimensions.
 

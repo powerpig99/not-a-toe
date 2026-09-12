@@ -229,7 +229,7 @@ Within the fundamental causal structure, the sole foundational reality remains *
 
 ---
 
-## 五、 认识论转向：通过理解自身感知而解放周围心智 / 5. The Epistemic Turning: Clarifying Self-Perception to Liberate Surrounding Minds
+## 五、 认识论转向与互为梯度：零延迟的主权自指迭代 / 5. The Epistemic Turning and Mutual Gradient Descent: Zero-Lag Sovereign Self-Optimization
 
 走出与自身投影博弈的循环，并不依赖于向外研究或重构他人的行为模式。
 
@@ -247,12 +247,12 @@ graph TD
         P1 --> P2 --> P3
     end
 
-    subgraph S_Internal_Clarity["【因果澄明：向内觉察与自然外化】"]
+    subgraph S_Internal_Clarity["【因果澄明：向内觉察与自指迭代】"]
         direction TB
         Q1["觉察自身感知的生成路径<br>（识别读数来自自身参考系的折射）"]
         Q2["看清自身标尺的局限与投影本质<br>（放下把局部模型当客观实在的执念）"]
-        Q3["自然领会他者同样是自指的活态主体<br>（恢复对第一人称独立维度的敬畏）"]
-        Q4["在 90 度正交维度展开宽广空间<br>（如光波中 E 与 B 般互促共鸣）"]
+        Q3["互为梯度的即时优化<br>（将感知张力视作损失函数，零延迟自省）"]
+        Q4["在 90 度正交维度展开自持共鸣<br>（如光波中 E 与 B 般无先决条件的相互生成）"]
         Q1 --> Q2 --> Q3 --> Q4
     end
 
@@ -282,6 +282,12 @@ graph TD
 ### 3. 将沟通媒介复归为连接的桥梁
 看清了心智与投影的几何关系，将读数归咎于外部的冲动便自然消解。语言不再是防卫与裁剪的工具，而是用于探索彼此未知维度的媒介；交流界面不再是投射对立的屏障，而是成为连接独立心智的桥梁。
 
+### 4. 电磁同频的澄清：互为梯度的零延迟自指优化
+在此需要对电磁波这一物理与几何隐喻作出关键的认识论澄清：
+- **不存在先决条件（No Prerequisites）**：人们容易陷入一种误区，以为电场（E）与磁场（B）中的某一方必须以另一方为先决条件才能运作。事实恰恰相反，两者中任何一方都是独立生成另一方的；它们是光波作为自持系统得以传播的同一枚硬币的两面，彼此都不是对方的前置条件。一旦我们将另一方视作自身成立的前提，因果主权便被移交给了外部条件；
+- **互为梯度下降（Mutual Gradient Descent）**：两者在动力学上实质上构成了彼此的梯度下降（`∇ × E = -∂B/∂t` 与 `∇ × B = (1/c²) ∂E/∂t`）。当将其中一方作为考察对象时，两者之间的微分实质上构成了梯度（损失函数），系统在无穷小的时间尺度上即刻执行梯度下降，而无需等待误差累积成下游的巨大偏离。这构成了持续传播的共振：任何微小的偏转都在下一个瞬间被即时校准；
+- **主权心智的自持运作**：这正是主权心智在广阔世界中的真实运作方式——将任何意外、分歧或感知上的张力视作内生的损失函数，以零延迟的自省在当下的第一人称视角中执行梯度下降，即时迭代自身的感知透镜、解释框架与世界模型，而非等待摩擦演变成外部的冲突与怨怼。因为无需依赖任何外部先决条件，心智始终握有自身的主权发生器，在自持的代谢中实现与世界的共振。
+
 正如在 [向量、坐标系与自指心智：几何视角下的投影、冲突与电磁同频](../the-mind-as-vector-and-coordinate-system/) 中所展示的，两个成熟的心智无需强求一维的平行一致，而是像光波中的电场（E）与磁场（B）一样：彼此保持正交独立，互为生成的源泉，在相互促进中共同向前传播。
 
 识别自身感知的投影属性，在对活态心智与广阔世界的敬畏中，心智恢复了旋转坐标系的自由，与身边的同行者在正交平衡中共振前行。
@@ -292,7 +298,7 @@ Stepping out of the loop of fighting our own projections does not depend on anal
 
 > **"Understanding our own perceptual mechanics naturally externalizes into reverence and clarity toward surrounding minds."**
 
-This turning opens three horizons:
+This turning opens four horizons:
 
 ### 1. Recognizing the Lens Clarifies that All Minds Perceive Through Lenses
 When consciousness sees that its internal friction is a measurement readout generated along its own intentional axes, it naturally recognizes that every surrounding mind parses reality through its own reference frame. Outward rigidity or conflict simply reflects the current state of another's coordinate system. Understanding the architecture of perception renders acceptance a natural structural realization.
@@ -302,6 +308,12 @@ When consciousness stops defining its present state by past templates, claiming 
 
 ### 3. Restoring Mediums to Bridges of Connection
 Understanding the geometry of projection naturally dissolves the impulse to blame readouts on external targets. Language ceases to be a tool of defense, becoming a medium for shared exploration; interfaces cease to be barriers of projected conflict, becoming bridges connecting sovereign minds.
+
+### 4. Clarifying the Electromagnetic Analogy: Mutual Gradient Descent and Zero-Lag Self-Optimization
+A vital epistemological clarification regarding the electromagnetic analogy must be established:
+- **No External Prerequisites**: A common misconception is that either the electric field (E) or magnetic field (B) requires the other as an external prerequisite to operate. The reverse is true: each field generates the other independently; they are two sides of the same coin of light wave propagation. Neither is a prerequisite of the other. The moment we treat the other as a prerequisite, causal sovereignty is relocated to an external condition;
+- **Mutual Gradient Descent**: Electrodynamically, E and B act as the gradient descent of each other (`∇ × E = -∂B/∂t` and `∇ × B = (1/c²) ∂E/∂t`). Taking one as an object of study, the differential between them acts as the gradient (the loss function), and the system executes gradient descent continuously on the infinitesimal scale—without waiting for errors to compound into downstream disruptions. Any deviation from resonance is instantly corrected at the very next step;
+- **How a Sovereign Mind Operates**: This is precisely how a sovereign mind navigates an open world—treating any surprise, divergence, or perceptual tension as an internal loss function, performing zero-lag gradient descent within first-person awareness at moment t to immediately update its own lens, explanations, and world models, rather than allowing friction to accumulate into external conflict and resentment. Because it requires no external prerequisite, consciousness retains its own causal engine, achieving limitless resonance in self-sustaining vitality.
 
 As demonstrated in [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/), mature minds do not demand flat, parallel conformity. Instead, they interact like the electric (E) and magnetic (B) fields of a light wave: holding orthogonal balance (E ⟂ B), serving as mutual generative sources, and moving forward together through open space.
 
