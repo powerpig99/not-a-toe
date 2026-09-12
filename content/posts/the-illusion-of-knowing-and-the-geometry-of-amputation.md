@@ -80,14 +80,14 @@ Manufacturing an external adversary provides a cheap sense of moral certainty. C
 - 然而，正是这份相对于外人的微弱优势，滋生了一种认知傲慢——误以为自己对他们的了解，已经超越了他们对自身的体认。
 
 ```mermaid
-graph LR
+graph TD
     subgraph S_Epistemic_Gap["【认识论的不可跨越性】"]
         direction TB
         E1["第三人称的外部观察<br>（有限的历史轨迹与语言片段）"]
         E2["高度压缩的低维标签<br>（'你就是这样的人'）"]
         E3["第一人称的活态宇宙<br>（未言说的隐秘阵痛与当下抉择 t）"]
         E1 --> E2
-        E2 -.->|"信息量具有量级差距"| E3
+        E2 -.->|"信息量存在量级鸿沟"| E3
     end
 
     subgraph S_Amputation["【以尺为刃的截肢机制】"]
@@ -98,7 +98,7 @@ graph LR
         A1 --> A2 --> A3
     end
 
-    E2 ===> A1
+    E2 ===>|"执迷低维草图，铸以为尺"| A1
 
     style S_Epistemic_Gap fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style S_Amputation fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
@@ -202,11 +202,11 @@ In this reciprocal amputation, language ceases to communicate, the internet ceas
 
 ```mermaid
 graph TD
-    subgraph S_External_Effort["【无效路径：向外施力与改造客体】"]
+    subgraph S_External_Effort["【旧有路径：向外施力与改造客体】"]
         direction TB
         P1["死盯外部言行与他人表现"]
         P2["试图纠正、说服与修剪对方"]
-        P3["加剧防备与对抗，标尺继续碰撞"]
+        P3["加剧防备与对抗，标尺激烈碰撞"]
         P1 --> P2 --> P3
     end
 
@@ -219,8 +219,7 @@ graph TD
         Q1 --> Q2 --> Q3 --> Q4
     end
 
-    P1 -.->|"认识论反转"| Q1
-    P3 -.->|"消解冲突战场"| Q4
+    P3 ===>|"认识论焦点的根本反转<br>（由外求转向内明）"| Q1
 
     style S_External_Effort fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style S_Internal_Clarity fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
