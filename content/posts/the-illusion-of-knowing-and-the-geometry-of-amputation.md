@@ -26,16 +26,14 @@ graph TD
 
     subgraph S_Relational_Fracture["【四重人际投射现象】"]
         direction TB
-        R1["昔日恋人成仇：将自我安全感的缺失外化为对方的蓄意背叛"]
-        R2["家庭归因避难：将当下创造主权的停滞外化为原生家庭的过错"]
-        R3["子女怨怼父母：将全知全能守护者幻象的破灭外化为道德审判"]
-        R4["父母失望子女：将自我未竟期待的落空外化为教育的失败"]
+        R1["昔日恋人成仇：将自我安全感缺失外化为蓄意背叛"]
+        R2["家庭归因避难：将当下创造主权停滞外化为原生过错"]
+        R3["子女怨怼父母：将全知守护者幻象破灭外化为道德审判"]
+        R4["父母失望子女：将自我未竟期待落空外化为教育失败"]
+        R1 --> R2 --> R3 --> R4
     end
 
-    C3 --> R1
-    C3 --> R2
-    C3 --> R3
-    C3 --> R4
+    C3 ==>|"外化投射至人际关系"| R1
 
     style S_Confusion fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style S_Relational_Fracture fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
@@ -219,7 +217,9 @@ graph TD
         Q1 --> Q2 --> Q3 --> Q4
     end
 
-    P3 ===>|"认识论焦点的根本反转<br>（由外求转向内明）"| Q1
+    P1 -.->|"认识论反转"| Q1
+    P2 -.->|"放下标尺裁决"| Q2
+    P3 -.->|"消解冲突战场"| Q4
 
     style S_External_Effort fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style S_Internal_Clarity fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950

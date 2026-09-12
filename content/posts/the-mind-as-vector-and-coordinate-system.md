@@ -184,7 +184,10 @@ graph TD
         D1 --> D2 --> D3 --> D4
     end
 
-    C4 ===>|"认识论觉察：识别内向投影，展开高维基底"| D1
+    C1 -.->|"认知觉察"| D1
+    C2 -.->|"看清一维局限"| D2
+    C3 -.->|"接纳感知整体"| D3
+    C4 -.->|"正交互动拓展"| D4
 
     style Conflict fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style Resolution fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
@@ -240,7 +243,9 @@ graph TD
         E1 --> E2 --> E3
     end
 
-    P3 ===>|"认知跃迁：展开 90 度正交维度"| E1
+    P1 -.->|"认知视角拓展"| E1
+    P2 -.->|"展开正交维度"| E2
+    P3 -.->|"形成动态平衡"| E3
 
     style S_Duality fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style S_EM fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
