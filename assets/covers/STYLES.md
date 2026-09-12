@@ -57,6 +57,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | Family | Traits | Covers |
 |--------|--------|--------|
+| **Shattered obsidian mirror & expanding volumetric light prism** | Deep obsidian black space, a dark segmented reflective mirror surface fracturing and dissolving as warm amber, radiant gold, and crystalline sapphire light bursts forth from within, turning flat geometric silhouettes into infinite volumetric translucent ribbons | `the-illusion-of-knowing-and-the-geometry-of-amputation` |
 | **Prismatic coordinate frames & orthogonal shadow projection** | Dark matte slate, two unlabelled luminous intersecting 3D coordinate frames in warm gold and cool cyan, projecting orthogonal perspective wireframe grids and dot-product shadows into deep space | `the-mind-as-vector-and-coordinate-system` |
 | **Orthogonal hyperspace & scalar collapse** | Dark field, emerald and cyan orthogonal filament grids branching freely in open space vs. rigid monochrome scalar ruler in shadows | `coordinates-in-flux-negation-and-self-anchoring` |
 | **Dark chalk / light trails** | Black or near-black field; chalk, charcoal, or particle light paths; orbits, sparks, arcs | `self-rl-for-humans`, `intelligence-belongs-only-to-the-mind`, `the-allocation-of-causal-power-in-validation`, `the-brain-does-not-backprop`, `ownership-and-self-worthiness`, `hassabis-frontier-agi-premise`, `mei-you-pu-du-zhi-you-zi-du` |
@@ -507,6 +508,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-ladder-of-abstraction-and-the-executable-entity` | Constructivist axonometric drafting & translucent crystalline hyper-dimensional manifold |
 | `coordinates-in-flux-negation-and-self-anchoring` | Orthogonal hyperspace & scalar collapse chiaroscuro relief |
 | `the-mind-as-vector-and-coordinate-system` | Prismatic coordinate frames & orthogonal shadow projection chiaroscuro plate on dark matte slate |
+| `the-illusion-of-knowing-and-the-geometry-of-amputation` | Shattered obsidian mirror & expanding volumetric light prism in deep space |
 
 ## Crowded — prefer not to extend
 

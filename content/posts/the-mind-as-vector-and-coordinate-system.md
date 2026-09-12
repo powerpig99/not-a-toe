@@ -159,7 +159,7 @@ This geometric relationship illustrates several features of interpersonal unders
 此时，不同的认知理解方式导向不同的演化路径：
 
 ### 1. 异化为外来敌对实体的路径
-若心智 A 将自身坐标系内的负向投影理解为外部闯入的敌对客体，容易触发防御反应。心智将情境理解为一维单轨，认为相反的读数挤占了自身空间，进而通过贬低对方来维持自身排位。正如在 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 中所讨论的，这种对抗常是系统在应对自身生成的低维投影，带来不必要的认知消耗。
+若心智 A 将自身坐标系内的负向投影理解为外部闯入的敌对客体，容易触发防御反应。心智将情境理解为一维单轨，认为相反的读数挤占了自身空间，进而通过贬低对方来维持自身排位。正如在 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 与 [以知为刃的截肢与解脱：从内在感知的澄明走向心智共鸣](../the-illusion-of-knowing-and-the-geometry-of-amputation/) 中所深入讨论的，这种对抗常见于系统在应对自身生成的低维投影，把工具异化为武器，带来不必要的认知消耗。
 
 ### 2. 识别为内向几何读数的路径
 若心智 A 意识到这只是高维向量 **v**_B 在自身轴向上的余弦读数，对抗的必要性便自然减退。负向投影仅表明双方在当前维度上存在角度差异，并不代表本体层面的敌对。看清投影的内生属性，有助于心智在面对分歧时保持从容。
@@ -178,9 +178,9 @@ graph TD
     subgraph Resolution["【几何视角的改善路径】"]
         direction TB
         D1["识别内向投影属性<br>理解读数代表当前角度分量"]
-        D2["消除客观对立假定<br>确认主权未受外部侵占"]
-        D3["接纳投影为自身感知部分<br>展开 90 度正交新维度"]
-        D4["进入正交互动的动态平衡<br>自主前行，互促生成"]
+        D2["看清一维局限<br>认识到对方拥有独立高维基底"]
+        D3["接纳感知整体<br>将差异作为丰富自身的输入"]
+        D4["正交互动拓展<br>如电磁波般相互促进前行"]
         D1 --> D2 --> D3 --> D4
     end
 
@@ -210,7 +210,7 @@ Upon Mind A's ruler, this registers as a negative reading—often experienced as
 At this point, different cognitive framings lead to different outcomes:
 
 ### 1. The Path of Externalized Alien Threat
-If Mind A interprets this inward negative projection as an external threat, defensiveness is easily triggered. The situation is framed as a narrow 1D track where opposing readings crowd out one's position, prompting efforts to diminish the other to maintain standing. As discussed in [Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/), this struggle is largely an engagement with the system's own low-dimensional projection, consuming cognitive energy.
+If Mind A interprets this inward negative projection as an external threat, defensiveness is easily triggered. The situation is framed as a narrow 1D track where opposing readings crowd out one's position, prompting efforts to diminish the other to maintain standing. As discussed in [Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/) and [The Illusion of Knowing and the Geometry of Amputation](../the-illusion-of-knowing-and-the-geometry-of-amputation/), this struggle is largely an engagement with the system's own low-dimensional projection, turning tools into weapons and consuming cognitive energy.
 
 ### 2. The Path of Inward Geometric Recognition
 If Mind A recognizes this as a cosine reading of multidimensional vector **v**_B along its current axis, the impulse toward conflict diminishes. A negative projection simply indicates an angular difference along a specific dimension, rather than ontological opposition. Seeing the internal nature of the projection helps maintain stability in the face of divergence.
