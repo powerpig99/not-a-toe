@@ -57,6 +57,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | Family | Traits | Covers |
 |--------|--------|--------|
+| **Orthogonal hyperspace & scalar collapse** | Dark field, emerald and cyan orthogonal filament grids branching freely in open space vs. rigid monochrome scalar ruler in shadows | `coordinates-in-flux-negation-and-self-anchoring` |
 | **Dark chalk / light trails** | Black or near-black field; chalk, charcoal, or particle light paths; orbits, sparks, arcs | `self-rl-for-humans`, `intelligence-belongs-only-to-the-mind`, `the-allocation-of-causal-power-in-validation`, `the-brain-does-not-backprop`, `ownership-and-self-worthiness`, `hassabis-frontier-agi-premise`, `mei-you-pu-du-zhi-you-zi-du` |
 | **Painterly glass / gold path** | Oil-like strokes, translucent panel, gold or light ribbon through violet haze | `openness-is-consistency`, `a-new-deeper-look-at-antifragility` |
 | **Soft pastel abstract** | Powdery dry-brush, muted navy/lavender, simple mass + light curve | `emotional-support-as-causal-interference` |
