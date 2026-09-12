@@ -12,7 +12,7 @@ In naive realist intuition, human beings habitually presuppose an objective Eucl
 
 人际交互中最常见的痛苦与摩擦，始于对“共享坐标系”的盲目执念。
 
-在日常交流中，人们常常预设彼此生活在同一个无需转换的度量空间内。当分歧出现时，第一反应经常是困惑、愤怒或防御：“事实明明如此清晰，对方为何不可理喻？”这种反应背后，隐藏着一个未经审视的前提：存在一个上帝视角的超然坐标系 $\mathbb{R}^n$，所有人在其中共享相同的原点、相同的基底轴向以及相同的刻度。
+在日常交流中，人们常常预设彼此生活在同一个无需转换的度量空间内。当分歧出现时，第一反应经常是困惑、愤怒或防御：“事实明明如此清晰，对方为何不可理喻？”这种反应背后，隐藏着一个未经审视的前提：存在一个上帝视角的超然坐标系 ℝⁿ，所有人在其中共享相同的原点、相同的基底轴向以及相同的刻度。
 
 然而，这在认识论上是一个致命的虚构。
 
@@ -22,7 +22,7 @@ In naive realist intuition, human beings habitually presuppose an objective Eucl
 
 The most ubiquitous friction and torment in interpersonal interaction originate from a blind attachment to a "shared coordinate system."
 
-In everyday discourse, individuals reflexively assume that all minds operate within the identical, self-evident metric space. When divergences arise, the default reflex is bewilderment, irritation, or defensive hostility: "The facts are self-evident; why is the other party being so irrational?" Lurking behind this reaction is an unexamined axiom: that there exists an overarching, God's-eye coordinate system $\mathbb{R}^n$ wherein everyone shares the identical origin, the identical basis orientations, and the identical metric scales.
+In everyday discourse, individuals reflexively assume that all minds operate within the identical, self-evident metric space. When divergences arise, the default reflex is bewilderment, irritation, or defensive hostility: "The facts are self-evident; why is the other party being so irrational?" Lurking behind this reaction is an unexamined axiom: that there exists an overarching, God's-eye coordinate system ℝⁿ wherein everyone shares the identical origin, the identical basis orientations, and the identical metric scales.
 
 Yet in causal epistemology, this is a fatal fiction.
 
