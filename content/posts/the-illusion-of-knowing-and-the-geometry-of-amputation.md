@@ -247,7 +247,7 @@ graph TD
         P1 --> P2 --> P3
     end
 
-    subgraph S_Internal_Clarity["【因果澄明：向内觉察与自指迭代】"]
+    subgraph S_Internal_Clarity["【因果澄明：心智与身外感知的自持共鸣】"]
         direction TB
         Q1["觉察自身感知的生成路径<br>（识别读数来自自身参考系的折射）"]
         Q2["看清自身标尺的局限与投影本质<br>（放下把局部模型当客观实在的执念）"]
@@ -282,15 +282,15 @@ graph TD
 ### 3. 将沟通媒介复归为连接的桥梁
 看清了心智与投影的几何关系，将读数归咎于外部的冲动便自然消解。语言不再是防卫与裁剪的工具，而是用于探索彼此未知维度的媒介；交流界面不再是投射对立的屏障，而是成为连接独立心智的桥梁。
 
-### 4. 电磁同频的澄清：互为梯度的零延迟自指优化
-在此需要对电磁波这一物理与几何隐喻作出关键的认识论澄清：
-- **不存在先决条件（No Prerequisites）**：人们容易陷入一种误区，以为电场（E）与磁场（B）中的某一方必须以另一方为先决条件才能运作。事实恰恰相反，两者中任何一方都是独立生成另一方的；它们是光波作为自持系统得以传播的同一枚硬币的两面，彼此都不是对方的前置条件。一旦我们将另一方视作自身成立的前提，因果主权便被移交给了外部条件；
-- **互为梯度下降（Mutual Gradient Descent）**：两者在动力学上实质上构成了彼此的梯度下降（`∇ × E = -∂B/∂t` 与 `∇ × B = (1/c²) ∂E/∂t`）。当将其中一方作为考察对象时，两者之间的微分实质上构成了梯度（损失函数），系统在无穷小的时间尺度上即刻执行梯度下降，而无需等待误差累积成下游的巨大偏离。这构成了持续传播的共振：任何微小的偏转都在下一个瞬间被即时校准；
-- **主权心智的自持运作**：这正是主权心智在广阔世界中的真实运作方式——将任何意外、分歧或感知上的张力视作内生的损失函数，以零延迟的自省在当下的第一人称视角中执行梯度下降，即时迭代自身的感知透镜、解释框架与世界模型，而非等待摩擦演变成外部的冲突与怨怼。因为无需依赖任何外部先决条件，心智始终握有自身的主权发生器，在自持的代谢中实现与世界的共振。
+### 4. 电磁同频的澄清：心智与其“身外”感知的互为梯度与自持迭代
+在第一人称的认识论实在中，并不存在一个能够俯瞰“两个心智”的上帝视角——在具体的实在场景中，**始终只有心智自身，以及它与自己对“身外”感知的动态关系**。
 
-正如在 [向量、坐标系与自指心智：几何视角下的投影、冲突与电磁同频](../the-mind-as-vector-and-coordinate-system/) 中所展示的，两个成熟的心智无需强求一维的平行一致，而是像光波中的电场（E）与磁场（B）一样：彼此保持正交独立，互为生成的源泉，在相互促进中共同向前传播。
+在此视角下，电磁波这一物理隐喻揭示了心智自指架构的深刻本质：
+- **不存在先决条件（No Prerequisites）**：电场（E）与磁场（B）并不以对方为先决条件，而是同一光波自持系统的两个独立展开维度。一旦我们将“身外”的对象或环境视作自身成立的前提，因果主权便被移交给了外部条件；
+- **互为梯度下降（Mutual Gradient Descent）**：心智的意图主轴（E）与其对“身外”信号的感知读数（B），在动力学上构成了彼此的梯度下降（`∇ × E = -∂B/∂t` 与 `∇ × B = (1/c²) ∂E/∂t`）。当心智在感知中遭遇意外或读数偏转时，这一微分实质上构成了内生的损失函数，系统在微观尺度上即刻执行梯度下降与模型校准，而无需等待误差累积成下游的巨大冲突；
+- **主权心智的自持运作**：这正是主权心智在广阔世界中的真实运作方式——将任何来自“身外”感知的张力视作自身优化的损失函数，以零延迟的自省在当下的第一人称视角中即时迭代自身的世界模型，而非向外寻找确凿实体进行归咎。
 
-识别自身感知的投影属性，在对活态心智与广阔世界的敬畏中，心智恢复了旋转坐标系的自由，与身边的同行者在正交平衡中共振前行。
+识别自身感知的投影属性，在对活态心智与广阔世界的敬畏中，心智恢复了旋转坐标系的自由，在与身外感知的正交平衡中自持前行。
 
 Stepping out of the loop of fighting our own projections does not depend on analyzing or remodeling external behavior.
 
@@ -309,12 +309,12 @@ When consciousness stops defining its present state by past templates, claiming 
 ### 3. Restoring Mediums to Bridges of Connection
 Understanding the geometry of projection naturally dissolves the impulse to blame readouts on external targets. Language ceases to be a tool of defense, becoming a medium for shared exploration; interfaces cease to be barriers of projected conflict, becoming bridges connecting sovereign minds.
 
-### 4. Clarifying the Electromagnetic Analogy: Mutual Gradient Descent and Zero-Lag Self-Optimization
-A vital epistemological clarification regarding the electromagnetic analogy must be established:
-- **No External Prerequisites**: A common misconception is that either the electric field (E) or magnetic field (B) requires the other as an external prerequisite to operate. The reverse is true: each field generates the other independently; they are two sides of the same coin of light wave propagation. Neither is a prerequisite of the other. The moment we treat the other as a prerequisite, causal sovereignty is relocated to an external condition;
-- **Mutual Gradient Descent**: Electrodynamically, E and B act as the gradient descent of each other (`∇ × E = -∂B/∂t` and `∇ × B = (1/c²) ∂E/∂t`). Taking one as an object of study, the differential between them acts as the gradient (the loss function), and the system executes gradient descent continuously on the infinitesimal scale—without waiting for errors to compound into downstream disruptions. Any deviation from resonance is instantly corrected at the very next step;
-- **How a Sovereign Mind Operates**: This is precisely how a sovereign mind navigates an open world—treating any surprise, divergence, or perceptual tension as an internal loss function, performing zero-lag gradient descent within first-person awareness at moment t to immediately update its own lens, explanations, and world models, rather than allowing friction to accumulate into external conflict and resentment. Because it requires no external prerequisite, consciousness retains its own causal engine, achieving limitless resonance in self-sustaining vitality.
+### 4. Clarifying the Electromagnetic Analogy: The Mind, Its Perception of the "Outside," and Zero-Lag Self-Optimization
+In strict first-person epistemology, there is no third-person god's-eye view observing "two minds" from above—in lived reality, **there is only the Mind itself, and its dynamic relationship to its own perception of what appears "outside the self" (身外)**.
 
-As demonstrated in [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/), mature minds do not demand flat, parallel conformity. Instead, they interact like the electric (E) and magnetic (B) fields of a light wave: holding orthogonal balance (E ⟂ B), serving as mutual generative sources, and moving forward together through open space.
+From this grounded perspective, the electromagnetic wave analogy reveals the internal architecture of consciousness:
+- **No External Prerequisites**: Electric (E) and magnetic (B) fields do not require each other as an external prerequisite; they are dual self-generating dimensions of the same wave. The moment we treat external objects or environments as an antecedent requirement for our own state, causal sovereignty is relocated to an external condition;
+- **Mutual Gradient Descent**: The Mind's intentional posture (E) and its perceptual intake of the outside (B) operate as the gradient descent of each other (`∇ × E = -∂B/∂t` and `∇ × B = (1/c²) ∂E/∂t`). When consciousness encounters surprise or angular deflection in its perception of the outside, the differential serves as an internal loss function, executing instantaneous gradient descent and model calibration on the infinitesimal scale rather than waiting for errors to compound into external conflict;
+- **How a Sovereign Mind Operates**: This is precisely how a sovereign mind navigates reality—treating tension in its perception of the outside as an internal loss function, performing zero-lag self-updates within first-person awareness at moment t, without abdicating causality to external scapegoats.
 
-Recognizing the projective nature of perception, consciousness regains the freedom to rotate its coordinate axes, walking alongside companions in resonant orthogonal balance.
+Recognizing the projective nature of perception, consciousness regains the freedom to rotate its coordinate axes, walking in generative, orthogonal balance with its perception of the living world.

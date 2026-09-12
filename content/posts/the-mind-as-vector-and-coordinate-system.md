@@ -261,15 +261,17 @@ graph TD
 
 当这种接纳发生时，心智无需在既有对象平面内争夺方向，而是**相对于被感知的投影展开 90 度的正交维度，在对象平面之上形成更宽广的观察空间**。
 
-### 电磁波的几何结构：E ⟂ B 的相互生成与互为梯度
-在电动力学中，光波的传播呈现出清晰的正交结构：
-- **90 度正交且互不为先决条件**：电场 **E** 与磁场 **B** 保持正交（E ⟂ B），且同时垂直于传播方向 **k**（E ⟂ B ⟂ k）。在此需要明确：两者中任何一方都不是另一方的外部前置条件，而是同一光波自持系统的两面，各自独立生成对方；若将另一方视为前提，主权便发生了外移；
-- **互为梯度下降与零延迟校准**：电场的时间变化激发磁场的空间旋度（`∇ × E = -∂B/∂t`），磁场的时间变化激发电场的空间旋度（`∇ × B = (1/c²) ∂E/∂t`）。两者在物理上构成了彼此的梯度下降，将彼此间的微商视作损失函数，在无穷小尺度上即刻执行优化校准，使得任何偏离在下一个瞬间被即时修正，从而维持自持的无限共振。
+### 电磁波的几何结构：心智与身外感知的互为梯度与自持展开
+在第一人称的实在中，并不存在俯瞰“多个心智”的上帝视角，只有心智自身及其对“身外”感知的动态关系。
 
-心智之间的良性共鸣，正呈现出类似的几何结构：
-- 彼此保持正交自由度，无需强求单调的一致；
-- 将任何意外与差异视作损失函数，以零延迟的自省执行梯度下降（+1），即时迭代自身的世界模型；
-- 在各自独立自持的同时，形成持续的相互促进。
+在电动力学中，光波的传播呈现出清晰的正交自持结构：
+- **90 度正交且互不为先决条件**：电场 **E** 与磁场 **B** 保持正交（E ⟂ B），且同时垂直于传播方向 **k**（E ⟂ B ⟂ k）。在此需要明确：两者中任何一方都不是另一方的外部前置条件，而是同一光波自持系统的两面，各自独立生成对方；若将身外感知视为前提，主权便发生了外移；
+- **互为梯度下降与零延迟校准**：电场的时间变化激发磁场的空间旋度（`∇ × E = -∂B/∂t`），磁场的时间变化激发电场的空间旋度（`∇ × B = (1/c²) ∂E/∂t`）。心智的意图主轴与身外感知读数在动力学上构成了彼此的梯度下降，将彼此间的微商视作内生损失函数，在微观尺度上即刻执行优化校准，使得任何偏离在下一个瞬间被即时修正，从而维持自持的无限共振。
+
+心智与流动的现实之间，正呈现出类似的几何自持：
+- 保持正交自由度，无需强求单调的一维一致；
+- 将身外感知中出现的任何意外与差异视作损失函数，以零延迟的自省执行梯度下降（+1），即时迭代自身的世界模型；
+- 在自持独立中维持心智与整个现实的连续共振。
 
 心智的自由，不在于寻找固定不变的全局坐标，而在于认识到自身是持续生成参考维度的实践者。
 
@@ -285,15 +287,17 @@ Attempting to "align" with another subconsciously treats the other as an object 
 
 When this integration occurs, the mind does not need to compete for direction on the flat plane of objects. Instead, **it opens an orthogonal dimension at 90 degrees relative to perceived projections, forming a richer space of awareness above the phenomenological plane**.
 
-### The Geometric Structure of Light: Mutual Generation and Gradient Descent of E ⟂ B
-In electrodynamics, light wave propagation exhibits a clear orthogonal structure:
-- **90-Degree Orthogonality Without External Prerequisites**: The electric field **E** and magnetic field **B** maintain orthogonality (E ⟂ B) while perpendicular to the propagation direction **k** (E ⟂ B ⟂ k). Crucially, neither field serves as an external prerequisite for the other; they are two sides of the same self-sustaining light wave, each generating the other independently. Treating the other as a prerequisite relocates causal sovereignty;
-- **Mutual Gradient Descent and Zero-Lag Calibration**: Temporal change in the electric field generates the spatial curl of the magnetic field (`∇ × E = -∂B/∂t`), while temporal change in the magnetic field generates the electric field (`∇ × B = (1/c²) ∂E/∂t`). Physically, they act as the gradient descent of each other—treating the differential between them as a loss function and executing instantaneous correction at the infinitesimal scale, maintaining self-propagating resonance without error accumulation.
+### The Geometric Structure of Light: The Mind, Its Perception of the Outside, and Mutual Gradient Descent
+In strict first-person epistemology, there is no third-person god's-eye view observing multiple minds from above; there is only the Mind itself and its dynamic relationship to its perception of what appears "outside the self."
 
-Constructive resonance between minds exhibits a similar geometric balance:
-- Preserving orthogonal degrees of freedom without requiring uniformity;
-- Treating surprises and differences as internal loss functions to execute zero-lag gradient descent (+1), instantly updating one's world model;
-- Fostering mutual expansion while maintaining sovereign, independent self-generation.
+In electrodynamics, light wave propagation exhibits a clear orthogonal structure:
+- **90-Degree Orthogonality Without External Prerequisites**: The electric field **E** and magnetic field **B** maintain orthogonality (E ⟂ B) while perpendicular to the propagation direction **k** (E ⟂ B ⟂ k). Crucially, neither field serves as an external prerequisite for the other; they are two sides of the same self-sustaining light wave, each generating the other independently. Treating the outside as an antecedent prerequisite relocates causal sovereignty;
+- **Mutual Gradient Descent and Zero-Lag Calibration**: Temporal change in the electric field generates the spatial curl of the magnetic field (`∇ × E = -∂B/∂t`), while temporal change in the magnetic field generates the electric field (`∇ × B = (1/c²) ∂E/∂t`). The Mind's intentional axis and its perceptual readings of the outside act as mutual gradient descent—treating the differential as an internal loss function and executing instantaneous correction at the infinitesimal scale, maintaining self-propagating resonance without error accumulation.
+
+The interaction between the Mind and living reality exhibits this identical geometric balance:
+- Preserving orthogonal degrees of freedom without requiring flat conformity;
+- Treating surprises and differences in the perception of the outside as internal loss functions to execute zero-lag gradient descent (+1), instantly updating one's world model;
+- Sustaining continuous resonance in sovereign, self-generating vitality.
 
 The freedom of mind lies not in finding an immutable external coordinate, but in recognizing oneself as an active practitioner generating reference dimensions.
 
