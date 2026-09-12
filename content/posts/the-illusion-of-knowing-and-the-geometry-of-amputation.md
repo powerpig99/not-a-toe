@@ -53,7 +53,7 @@ graph TD
 5. **个体与集体的结构性对抗**：当个体面对庞大的集体、机构、群体标签或社会体制时，由于“集体”没有单张具象的面孔，心智更容易将自身未消解的异化感、无力感与不公感，全盘投射到一个抽象的庞然大物身上（“都是体制的问题”、“整个群体都不可理喻”）。此时，个体看似在反抗一个外部巨兽，实质上是在与自己投影出的无力感和受害者叙事激烈博弈；
 6. **个体与环境及命运的冲突**：当生存遭遇困境时，心智亦容易将内在的适应焦虑，外化为对“命运不公”或“环境敌意”的声讨，在向外部环境宣战的过程中掩盖了自身坐标系拒绝调整的僵滞。
 
-制造外部敌人提供了一种廉价的确定性。断定“错在对方”、“错在体制”或“错在环境”，让人暂时逃避了审视自我坐标系的责任，但这一举动的代价，是将自己永远锁死在受害与怨怼的无尽内耗中。
+制造外部敌人提供了一种即时的确定感。断定“错在对方”、“错在体制”或“错在环境”，让心智得以迅速闭合认知张力，回避重新校准自身坐标系的因果代价；然而这一闭合的代价，是将自身的主权锁死在受害与怨怼的被动反应中。
 
 The diverse spectrum of external conflict experienced by human beings rarely arises from the objective clash of physical entities; rather, it originates in the cognitive evasion of mind when it cannot bear its own internal tension.
 
@@ -68,7 +68,7 @@ The common relational frictions observed in everyday life are merely prominent p
 5. **Structural Conflict with Collectives**: When an individual confronts an abstract collective, institution, or social system, the absence of a single human face invites the mind to project its unresolved powerlessness and alienation onto a reified monolith ("the system is evil," "that group is hopeless"). Here, the individual appears to battle an external leviathan, yet is fundamentally shadow-boxing with their own projected helplessness;
 6. **Conflict with Environment and Fate**: When encountering life adversity, consciousness easily externalizes adaptive strain into complaints against "hostile fate" or "unfair circumstances," masking the rigidity of its own coordinate frame beneath outward protest.
 
-Manufacturing an external adversary provides a cheap sense of moral certainty. Concluding that "the fault lies out there—in others, in the collective, or in the world" spares the mind from examining its own coordinate generator, yet the price of this illusion is permanent imprisonment in reactive resentment.
+Constructing an external adversary provides immediate cognitive closure. Concluding that "the fault lies out there—in others, in the collective, or in the world" allows consciousness to instantly resolve internal tension without paying the metabolic cost of recalibrating its own coordinate system; yet this closure comes at the expense of locking its sovereign agency into reactive resentment.
 
 ---
 
