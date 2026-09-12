@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-11T11:34:12.601Z",
+    "generated_at": "2026-09-12T05:27:14.439Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -44,6 +44,7 @@
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "4941eb6242a3",
+      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "c10c6b02533f",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "056dc4f77e4b",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "dd0ed9c0fcf8",
       "content/posts/curiosity-has-no-final-form.md": "954585684515",
@@ -327,13 +328,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 317,
-      "edges": 3026,
-      "unique_directed": 2908,
+      "posts": 318,
+      "edges": 3034,
+      "unique_directed": 2912,
       "missing_targets": 0,
-      "one_way": 696,
-      "isolated": 46,
-      "posts_with_outbound": 252
+      "one_way": 700,
+      "isolated": 44,
+      "posts_with_outbound": 253
     }
   },
   "hubs_in": [
@@ -509,7 +510,6 @@
     "claudes-constitution-analysis",
     "cli-interface-stack",
     "constraints_are_ground",
-    "coordinate-systems-mind-and-degrees-of-freedom",
     "cybersecurity-arms-race",
     "everything-is-changing-as-always",
     "extended-cognition-refined",
@@ -530,7 +530,6 @@
     "the-collapsed-debate",
     "the-defining-seat",
     "the-descent-that-doesnt-know-where-its-going",
-    "the-dissolution-of-the-great-reversal",
     "the-geometry-of-coexistence-and-the-dual-cut",
     "the-geometry-of-the-cut",
     "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
@@ -1056,7 +1055,7 @@
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "Climbing Does Not Leave the Ground",
       "hash": "0f56c9d88908",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1324,9 +1323,25 @@
       "path": "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md",
       "title": "坐标系、心智与自由度：走出公共空间的投影迷途 / Coordinate Systems, the Mind, and Degrees of Freedom: Navigating Beyond the Projections of Public Space",
       "hash": "4941eb6242a3",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:coordinates-in-flux-negation-and-self-anchoring",
+      "kind": "post",
+      "slug": "coordinates-in-flux-negation-and-self-anchoring",
+      "path": "content/posts/coordinates-in-flux-negation-and-self-anchoring.md",
+      "title": "流动中的坐标：关于“否定”、降维与心智的自我锚定 / Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring",
+      "hash": "c10c6b02533f",
+      "in_degree": 0,
+      "out_degree": 4,
+      "links_out": [
+        "coordinate-systems-mind-and-degrees-of-freedom",
+        "the-dissolution-of-the-great-reversal",
+        "po-chu-gai-nian-de-jian-yue",
+        "climbing-does-not-leave-the-ground"
+      ]
     },
     {
       "id": "post:cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
@@ -3318,7 +3333,7 @@
       "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
       "title": "破除概念的僭越：第一人称、因果之矢与未完的现实",
       "hash": "fd5abe640eca",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 14,
       "links_out": [
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
@@ -4607,7 +4622,7 @@
       "path": "content/posts/the-dissolution-of-the-great-reversal.md",
       "title": "大倒置的消解：语言、知识、金钱、智能与数字神祇的因果归位 / The Dissolution of the Great Reversal: Language, Knowledge, Money, Intelligence, and the Restoration of the Digital God to Origin",
       "hash": "51cb538a3a0b",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 0,
       "links_out": []
     },
@@ -9448,6 +9463,54 @@
       "to": "the-scaling-loop",
       "rel": "points_to",
       "label": "The scaling loop"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "coordinate-systems-mind-and-degrees-of-freedom",
+      "rel": "points_to",
+      "label": "坐标系、心智与自由度"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "coordinate-systems-mind-and-degrees-of-freedom",
+      "rel": "points_to",
+      "label": "Coordinate Systems, the Mind, and Degrees of Freedom"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "the-dissolution-of-the-great-reversal",
+      "rel": "points_to",
+      "label": "大倒置的消解与活态哲学的开端"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "the-dissolution-of-the-great-reversal",
+      "rel": "points_to",
+      "label": "The Dissolution of the Great Reversal and the Inception of a Living Philosophy"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Dismantling the Usurpation of Concepts"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "登高并未离开地面"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing Does Not Leave the Ground"
     },
     {
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
