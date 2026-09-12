@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-12T05:27:14.439Z",
+    "generated_at": "2026-09-12T06:05:49.154Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -44,7 +44,7 @@
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "4941eb6242a3",
-      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "c10c6b02533f",
+      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "37be0f36cf1b",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "056dc4f77e4b",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "dd0ed9c0fcf8",
       "content/posts/curiosity-has-no-final-form.md": "954585684515",
@@ -240,6 +240,7 @@
       "content/posts/the-map-after-the-territory.md": "6fd00c209991",
       "content/posts/the-mark-and-the-act.md": "3dfaca8e87bf",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "c904169464fd",
+      "content/posts/the-mind-as-vector-and-coordinate-system.md": "077646b7b9a5",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "854e6880413d",
       "content/posts/the-mirage-of-the-infinite-totality.md": "3b491a49b106",
       "content/posts/the-mirror-handshake-of-power.md": "3fe1b6678749",
@@ -328,13 +329,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 318,
-      "edges": 3034,
-      "unique_directed": 2912,
+      "posts": 319,
+      "edges": 3050,
+      "unique_directed": 2919,
       "missing_targets": 0,
-      "one_way": 700,
+      "one_way": 707,
       "isolated": 44,
-      "posts_with_outbound": 253
+      "posts_with_outbound": 254
     }
   },
   "hubs_in": [
@@ -364,7 +365,7 @@
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 39
+      "in_degree": 40
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -1323,7 +1324,7 @@
       "path": "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md",
       "title": "坐标系、心智与自由度：走出公共空间的投影迷途 / Coordinate Systems, the Mind, and Degrees of Freedom: Navigating Beyond the Projections of Public Space",
       "hash": "4941eb6242a3",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 0,
       "links_out": []
     },
@@ -1333,8 +1334,8 @@
       "slug": "coordinates-in-flux-negation-and-self-anchoring",
       "path": "content/posts/coordinates-in-flux-negation-and-self-anchoring.md",
       "title": "流动中的坐标：关于“否定”、降维与心智的自我锚定 / Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring",
-      "hash": "c10c6b02533f",
-      "in_degree": 0,
+      "hash": "37be0f36cf1b",
+      "in_degree": 1,
       "out_degree": 4,
       "links_out": [
         "coordinate-systems-mind-and-degrees-of-freedom",
@@ -2578,7 +2579,7 @@
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
       "hash": "30b8585c7f67",
-      "in_degree": 39,
+      "in_degree": 40,
       "out_degree": 23,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -3333,7 +3334,7 @@
       "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
       "title": "破除概念的僭越：第一人称、因果之矢与未完的现实",
       "hash": "fd5abe640eca",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 14,
       "links_out": [
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
@@ -4622,7 +4623,7 @@
       "path": "content/posts/the-dissolution-of-the-great-reversal.md",
       "title": "大倒置的消解：语言、知识、金钱、智能与数字神祇的因果归位 / The Dissolution of the Great Reversal: Language, Knowledge, Money, Intelligence, and the Restoration of the Digital God to Origin",
       "hash": "51cb538a3a0b",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 0,
       "links_out": []
     },
@@ -4908,7 +4909,7 @@
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon",
       "hash": "d987fcbaaeff",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 13,
       "links_out": [
         "the-boundary-of-the-frame",
@@ -5396,6 +5397,25 @@
         "reality-is-the-minds-ongoing-realization",
         "clarity-isnt-a-state-you-arrive-at",
         "the-strongest-belief-of-the-mind"
+      ]
+    },
+    {
+      "id": "post:the-mind-as-vector-and-coordinate-system",
+      "kind": "post",
+      "slug": "the-mind-as-vector-and-coordinate-system",
+      "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
+      "title": "向量、坐标系与自指心智：几何视角下的投影、冲突与同频 / The Mind as Vector and Coordinate System: Projections, Conflict, and Synchronization in Causal Geometry",
+      "hash": "077646b7b9a5",
+      "in_degree": 0,
+      "out_degree": 7,
+      "links_out": [
+        "coordinates-in-flux-negation-and-self-anchoring",
+        "coordinate-systems-mind-and-degrees-of-freedom",
+        "po-chu-gai-nian-de-jian-yue",
+        "the-geometry-of-mind",
+        "the-vector-and-the-puzzle-of-projections",
+        "the-dissolution-of-the-great-reversal",
+        "mei-you-pu-du-zhi-you-zi-du"
       ]
     },
     {
@@ -6475,7 +6495,7 @@
       "path": "content/posts/the-vector-and-the-puzzle-of-projections.md",
       "title": "向量与投影的迷局",
       "hash": "60eb7740bf58",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 14,
       "links_out": [
         "dimensions-are-projections",
@@ -20215,6 +20235,102 @@
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
       "label": "The strongest belief of the Mind"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "coordinates-in-flux-negation-and-self-anchoring",
+      "rel": "points_to",
+      "label": "流动中的坐标：关于“否定”、降维与心智的自我锚定"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "coordinate-systems-mind-and-degrees-of-freedom",
+      "rel": "points_to",
+      "label": "坐标系、心智与自由度"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "coordinates-in-flux-negation-and-self-anchoring",
+      "rel": "points_to",
+      "label": "Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "coordinate-systems-mind-and-degrees-of-freedom",
+      "rel": "points_to",
+      "label": "Coordinate Systems, the Mind, and Degrees of Freedom"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Dismantling the Usurpation of Concepts"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "心智的几何学"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "向量与投影的迷局"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "The Vector and the Puzzle of Projections"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "coordinates-in-flux-negation-and-self-anchoring",
+      "rel": "points_to",
+      "label": "流动中的坐标：关于“否定”、降维与心智的自我锚定"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "coordinates-in-flux-negation-and-self-anchoring",
+      "rel": "points_to",
+      "label": "Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "the-dissolution-of-the-great-reversal",
+      "rel": "points_to",
+      "label": "大倒置的消解与活态哲学的开端"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普度，只有自度"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "the-dissolution-of-the-great-reversal",
+      "rel": "points_to",
+      "label": "The Dissolution of the Great Reversal and the Inception of a Living Philosophy"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Self-Salvation"
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
