@@ -57,6 +57,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | Family | Traits | Covers |
 |--------|--------|--------|
+| **Radiant impact probe, ripple shockwaves & dissolving chronometer** | Obsidian void, luminous white-cyan probe colliding with textured living terrain generating golden sparks and refractive ripple shockwaves, while shattered clockwork speedometer dissolves into geometric dust | `the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth` |
 | **Shattered obsidian mirror & expanding volumetric light prism** | Deep obsidian black space, a dark segmented reflective mirror surface fracturing and dissolving as warm amber, radiant gold, and crystalline sapphire light bursts forth from within, turning flat geometric silhouettes into infinite volumetric translucent ribbons | `the-illusion-of-knowing-and-the-geometry-of-amputation` |
 | **Prismatic coordinate frames & orthogonal shadow projection** | Dark matte slate, two unlabelled luminous intersecting 3D coordinate frames in warm gold and cool cyan, projecting orthogonal perspective wireframe grids and dot-product shadows into deep space | `the-mind-as-vector-and-coordinate-system` |
 | **Orthogonal hyperspace & scalar collapse** | Dark field, emerald and cyan orthogonal filament grids branching freely in open space vs. rigid monochrome scalar ruler in shadows | `coordinates-in-flux-negation-and-self-anchoring` |
