@@ -1,30 +1,31 @@
 ### [Short Video Monologue Guidelines]
-* **Tone & Persona**: Clear, contemplative, authoritative first-person philosophical monologue. Unpacks the illusion of AI pacing, the ontology of ground truth as felt friction, and decentralized sovereign agency. Affirmative without being dogmatic, oriented toward understanding and improvement.
+* **Tone & Persona**: Clear, contemplative, authoritative first-person philosophical monologue. Unpacks the illusion of AI pacing, reverse followers, the ontology of ground truth as felt friction, and decentralized sovereign agency. Affirmative without being dogmatic, oriented toward understanding and improvement.
 * **Format**: Crisp pacing, concise phrasing, reflective depth, zero preachiness.
 * **Narrative Arc**:
-  1. **The Starting Paradox**: Why do tech leaders claim they can "pace AI for humanity"? Does running ahead grant the right to hold a universal brake?
-  2. **The Geometric Reality**: Leadership is relative displacement along a specific dimension, not universal clock-setting.
-  3. **The Myth of Static Ground Truth**: Imagining reality as an immutable pre-existing fact sheet requires an impossible God's-eye view.
+  1. **The Dual Paradox**: Tech leaders claim they can "pace AI for humanity," while critics scream that "monopolies are controlling everything."
+  2. **The Reverse Follower Trap**: Both groups share the identical false assumption that centralized control is physically possible.
+  3. **The Geometric Reality**: Leadership is relative displacement along a specific dimension, not universal clock-setting.
   4. **Ground Truth as Felt Friction**: Real ground truth is the live, dynamic resistance experienced when active models collide with reality.
   5. **The Frontier Pioneers**: Musk and Hassabis succeed by continuously exposing action to raw physical and scientific friction for zero-lag self-calibration.
-  6. **The Sovereign Frontier**: Pacing stalls both leaders and followers. In open reality, decentralized sovereign action is the true engine of intelligence.
+  6. **The Sovereign Frontier**: In open reality, decentralized sovereign action is the true engine of intelligence.
 
 ### [Monologue Script]
-At this historic threshold of artificial intelligence, we often hear: "Don't worry, we are on top of it, we will pace the development for humanity."
+At this historic threshold of artificial intelligence, two opposing voices dominate the airwaves:
+One voice promises: "Don't worry, we are on top of it, we will pace the development for humanity."
+The other voice warns: "Monopolies are controlling everything, we must resist their control at all costs!"
 
-Does running ahead on a frontier grant the authority to command the universal clock?
+On the surface they are enemies, but epistemologically they are identical.
+Both deeply believe that a centralized universal control tower actually exists.
+One begs for protection, the other fights in terror—yet both place a phantom control tower on an omnipotent pedestal.
 
 The geometric truth of leadership is clear: it is merely relative velocity achieved along a specific dimension.
 It never confers ownership of a universal control tower.
 
-The root of this pacing delusion lies in a static myth of "Ground Truth"—imagining reality as an immutable warehouse of facts waiting to be mapped. But that assumes an impossible God's-eye view.
-
+The root of this illusion is a static myth of "Ground Truth"—imagining reality as an immutable warehouse of facts waiting to be mapped.
 Real ground truth is not a static noun.
 It is the living, dynamic friction experienced when an active model directs intentional action against reality.
 
-When Elon Musk launches rockets into supersonic shockwaves, or when Demis Hassabis tests neural architectures against the rigid physics of protein folding, their real power comes from exposing action directly to live friction, executing zero-lag updates on reality.
-
-Attempting to pace the world only traps leaders in bureaucratic moats and reduces followers to fragile dependents.
+When Elon Musk launches rockets into supersonic shockwaves, or when Demis Hassabis tests neural architectures against the rigid physics of protein folding, their power comes from exposing action directly to live friction, executing zero-lag updates on reality.
 
 In a universe where no mind occupies a view from nowhere, no central authority holds the universal brake.
-In the living friction between action and reality, every mind steers its own course, collectively expanding the boundless frontier of intelligence.
+Step out of the trap of following, and out of the trap of reverse-following. In the living friction between action and reality, every mind steers its own course, collectively expanding the boundless frontier of intelligence.
