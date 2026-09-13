@@ -57,6 +57,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | Family | Traits | Covers |
 |--------|--------|--------|
+| **Spherical para-universes, quantum wave ripples & piercing sovereign vector** | Deep obsidian-indigo void, floating iridescent spherical para-universes each containing a radiant golden singularity core, outer boundary refracting quantum probability ripples and cyan wave interference, with a razor-sharp golden vector of conscious choice slicing forward | `the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation` |
 | **Radiant impact probe, ripple shockwaves & dissolving chronometer** | Obsidian void, luminous white-cyan probe colliding with textured living terrain generating golden sparks and refractive ripple shockwaves, while shattered clockwork speedometer dissolves into geometric dust | `the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth` |
 | **Shattered obsidian mirror & expanding volumetric light prism** | Deep obsidian black space, a dark segmented reflective mirror surface fracturing and dissolving as warm amber, radiant gold, and crystalline sapphire light bursts forth from within, turning flat geometric silhouettes into infinite volumetric translucent ribbons | `the-illusion-of-knowing-and-the-geometry-of-amputation` |
 | **Prismatic coordinate frames & orthogonal shadow projection** | Dark matte slate, two unlabelled luminous intersecting 3D coordinate frames in warm gold and cool cyan, projecting orthogonal perspective wireframe grids and dot-product shadows into deep space | `the-mind-as-vector-and-coordinate-system` |
@@ -510,6 +511,8 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `coordinates-in-flux-negation-and-self-anchoring` | Orthogonal hyperspace & scalar collapse chiaroscuro relief |
 | `the-mind-as-vector-and-coordinate-system` | Prismatic coordinate frames & orthogonal shadow projection chiaroscuro plate on dark matte slate |
 | `the-illusion-of-knowing-and-the-geometry-of-amputation` | Shattered obsidian mirror & expanding volumetric light prism in deep space |
+| `the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth` | Radiant impact probe colliding with textured terrain generating golden sparks and ripple shockwaves, dissolving chronometer into geometric dust |
+| `the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation` | Iridescent para-universe spheres floating in deep obsidian-indigo void with golden singularity cores and quantum wave ripples, single razor-sharp golden vector of conscious choice piercing forward |
 
 ## Crowded — prefer not to extend
 
