@@ -18,45 +18,39 @@ In contemporary software engineering and artificial intelligence circles, discus
 
 ```mermaid
 graph TD
-    subgraph S_Anxiety["【框架焦虑的起源】"]
+    subgraph S_Anxiety["【1. 控制框架的焦虑起源】"]
         direction TB
-        A1["大模型概率推断的不确定性"]
-        A2["传统软件确定性控制范式的断裂"]
-        A3["构建复杂框架试图实现全自动托管"]
-        A1 --> A2 --> A3
+        A1["大模型概率推断的不确定性<br/>打破传统软件确定性契约"]
+        A2["行业试图构建更严密框架<br/>期望实现全自动无摩擦托管"]
+        A1 --> A2
     end
 
-    subgraph S_Alienation["【能力的异化机制】"]
+    subgraph S_Alienation["【2. 掌控权让渡与能力异化】"]
         direction TB
-        B1["第一人称放弃驾驶位 ➔ 让渡因果主权"]
-        B2["认知视界受制于框架的硬编码边界"]
-        B3["能力反转：工具从拓展杠杆退化为认知天花板"]
-        B1 --> B2 --> B3
+        B1["第一人称让渡驾驶位<br/>放弃当下的二元因果裁决（+1）"]
+        B2["认知视界被工具硬编码边界锚定<br/>能力反转：拓展工具沦为认知天花板"]
+        B1 --> B2
     end
 
-    subgraph S_Consequence["【被动乘客的退化循环】"]
+    subgraph S_Consequence["【3. 被动乘客的退化闭环】"]
         direction TB
-        C1["脱离活态接触面摩擦 ➔ 真实技能萎缩"]
-        C2["陷入对自动化框架的路径依赖"]
-        C3["在未预设的边缘失效面前丧失校准能力"]
-        C1 --> C2 --> C3
+        C1["脱离接触面物理摩擦<br/>排查边缘故障的真实技能萎缩"]
+        C2["陷入对自动化框架的路径依赖<br/>在未预设的系统破缺前丧失校准力"]
+        C1 --> C2
     end
 
-    A3 ===>|"让渡主权"| B1
-    B3 ===>|"客体化锁定"| C1
+    S_Anxiety ===>|"让渡主权 ➔ 逃避责任"| S_Alienation
+    S_Alienation ===>|"客体化锁定"| S_Consequence
 
-    style S_Anxiety fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style S_Alienation fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style S_Consequence fill:#161b22,stroke:#a371f7,stroke-width:1px,color:#a371f7
-    style A1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style A2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style A3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style B1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style B2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style B3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style C1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
-    style C2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
-    style C3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
+    style S_Anxiety fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Alienation fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Consequence fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style A1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style A2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style B1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style B2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style C2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
 The anxiety within software engineering regarding "agent harnesses" reflects a classic illusion of control when confronting high-dimensional adaptive systems. Traditional software engineering was founded upon deterministic causality and static contracts: from object-oriented polymorphic boundaries and pure functional pipelines to the red-green loops of Test-Driven Development (TDD), engineers are accustomed to prescribing every branch of execution. However, when large language models introduce probabilistic inference into architecture and coding, this deterministic armor ruptures. In response, the industry instinctively doubles down on the "harness"—attempting to build heavier dispatchers, rigid sandbox interceptors, and multi-layered validation gauntlets to confine agents within pre-certified boundaries.
@@ -77,57 +71,48 @@ The moment sovereign steering is surrendered, capability immediately inverts int
 
 ```mermaid
 graph TD
-    subgraph S_PastCreation["【过去自我的主权创造】"]
+    subgraph S_Origin["【历史原点：过去自我的解题创造】"]
         direction TB
-        P1["面对特定摩擦的即时因果响应"]
-        P2["抽象为脚本、模板、智能体工作流"]
-        P3["在历史时刻 t0 展现强大的解题效力"]
-        P1 --> P2 --> P3
+        O1["面对特定摩擦的即时因果响应<br/>抽象为脚本、提示词模板与智能体工作流"]
+        O2["在历史时刻 t0 展现极高解题效力<br/>作为临时脚手架加速问题解决"]
+        O1 --> O2
     end
 
-    subgraph S_ContextDrift["【现实情境的动态演进】"]
+    subgraph S_Drift["【现实演进：不可逆边界条件迁移】"]
         direction TB
-        D1["不可逆时间演进 ➔ 边界条件迁移"]
-        D2["新问题涌现出全新维度的活态摩擦"]
-        D1 --> D2
+        D1["不可逆时间流淌 ➔ 业务与系统边界迁移<br/>新问题涌现出全新维度的活态接触面摩擦"]
     end
 
-    subgraph S_TrapVsSovereignty["【两种截然相反的应对姿态】"]
-        direction TB
-        subgraph Sub_Trap["【自我工具陷阱（主权让渡）】"]
-            T1["盲目套用旧模板与历史脚本"]
-            T2["强行让新现实削足适履迁就旧工具"]
-            T3["结果：昔日解题能力沦为当下认知牢笼"]
-            T1 --> T2 --> T3
-        end
+    O2 ==> D1
 
-        subgraph Sub_Sov["【活态主权驾驭（当下抉择）】"]
-            S1["立足当下时刻 t 的直接感知（+1）"]
-            S2["将历史工具视为可随时拆解的消耗性脚手架"]
-            S3["结果：在解构与重构中实现认知维度的持续跃迁"]
-            S1 --> S2 --> S3
-        end
+    subgraph S_Trap["【分支 A：自我工具陷阱（主权让渡）】"]
+        direction TB
+        T1["盲目套用旧脚本与历史模板<br/>强行让新现实削足适履迁就旧工具"]
+        T2["昔日解题能力异化为当下认知牢笼<br/>丧失在全新维度进行因果创造的感知力"]
+        T1 --> T2
     end
 
-    P3 --> Sub_Trap
-    D2 --> Sub_Trap
-    D2 --> Sub_Sov
+    subgraph S_Sovereignty["【分支 B：活态主权驾驭（当下抉择）】"]
+        direction TB
+        S1["立足当下时刻（t）的直接感知（+1）<br/>将历史工具视为随时可解构的消耗性耗材"]
+        S2["直面新摩擦，就地重构或果断溶解框架<br/>在持续的解构与重构中实现心智升维"]
+        S1 --> S2
+    end
 
-    style S_PastCreation fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style S_ContextDrift fill:#161b22,stroke:#388bfd,stroke-width:1px,color:#388bfd
-    style Sub_Trap fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style Sub_Sov fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style P1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style P2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style P3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style D1 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#c9d1d9
-    style D2 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#c9d1d9
-    style T1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style T2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style T3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style S1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style S2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style S3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    D1 ===>|"路径依赖 ➔ 削足适履"| S_Trap
+    D1 ===>|"主权在握 ➔ 随时重构"| S_Sovereignty
+
+    style S_Origin fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Drift fill:#161b22,stroke:#388bfd,stroke-width:1.5px,color:#388bfd
+    style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Sovereignty fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style O1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style O2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style D1 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#f0f6fc
+    style T1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style T2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style S1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style S2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
 The peril of abdicating agency does not occur solely when adopting third-party tools or external frameworks; it arises even more insidiously when relying on tools and workflows built by *one's own past self*. Any seasoned practitioner naturally crystallizes hard-won insights into shared libraries, automated scripts, structured prompt suites, and custom multi-agent workflows. At the exact historical moment of their creation, these artifacts represent precise, living causal responses to specific physical frictions—they are brilliantly effective scaffolding.
@@ -153,48 +138,40 @@ This is the subtle trap of "self-toolification": humans easily fall in love with
 
 ```mermaid
 graph TD
-    subgraph S_Illusion["【表象层面的母体误归因】"]
+    subgraph S_HumanDriver["【真实源头：人类驾驶员的心智进化】"]
         direction TB
-        I1["复杂系统的高效交付与惊艳产出"]
-        I2["公众与开发者的直觉反应：‘AI智能体太强大了！’"]
-        I3["错误归因：将高维产出实体化为机器的自主智能"]
-        I1 --> I2 --> I3
+        H1["人类驾驶员占据驾驶位（+1 注入自由变量）"]
+        H2["高频意图提纯：将模糊直觉淬炼为精确因果约束<br/>视角升维：注意力从微观搬砖跃迁至系统拓扑动力学<br/>对抗校准：借由模型边界破缺反向深化底层洞察"]
+        H1 --> H2
     end
 
-    subgraph S_Reality["【认识论深层的真实跃迁机制】"]
+    subgraph S_MathMirror["【放大介质：高通量数学透镜】"]
         direction TB
-        R1["人类驾驶员占据核心控制位（+1 主权决策）"]
-        R2["高频意图提纯：将模糊直觉淬炼为精密因果约束"]
-        R3["认知升维：注意力从微观代码搬运跃迁至顶层系统动力学"]
-        R4["对抗校准：借由模型破缺反向深化对底层真实的洞察"]
-        R1 --> R2 --> R3 --> R4
+        M1["大语言模型与智能体集群<br/>（条件概率采样流形，无独立主观意识）"]
+        M2["功能：高保真反射并倍增驾驶员的心智清晰度<br/>将高维意图极速编译为海量高质量工程实现"]
+        M1 --> M2
     end
 
-    subgraph S_Mirror["【人造物的真实功能：数学放大镜】"]
+    subgraph S_Misattribution["【认知迷误：母体误归因的颠倒】"]
         direction TB
-        M1["大语言模型 = 高通量条件概率采样流形"]
-        M2["无主观审美、无因果原点、无自主意志"]
-        M3["作用：忠实反射并倍增驾驶员的心智清晰度与因果吞吐量"]
-        M1 --> M2 --> M3
+        E1["惊艳的高质量复杂系统与深度产出"]
+        E2["公众与开发者的错觉：‘AI智能体拥有超凡智慧！’<br/>范畴错误：将镜面反射的辉煌当成机器自身的发光"]
+        E1 --> E2
     end
 
-    R4 ==>|"真正源头：人类心智跃迁"| M3
-    M3 -.->|"镜像反射投射为产出"| I1
-    I3 -.->|"范畴错误：倒因为果"| M1
+    H2 ==>|"注入主权意志与因果约束"| M1
+    M2 ==>|"倍增产出"| E1
+    E2 -.->|"倒因为果：误将进化归功于工具"| M1
 
-    style S_Illusion fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style S_Reality fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style S_Mirror fill:#161b22,stroke:#388bfd,stroke-width:1px,color:#388bfd
-    style I1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style I2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style I3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style R1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style R2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style R3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style R4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style M1 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#c9d1d9
-    style M2 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#c9d1d9
-    style M3 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#c9d1d9
+    style S_HumanDriver fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_MathMirror fill:#161b22,stroke:#388bfd,stroke-width:1.5px,color:#388bfd
+    style S_Misattribution fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style H1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style H2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M1 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#f0f6fc
+    style M2 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#f0f6fc
+    style E1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style E2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 In the intensive practice of orchestrating AI agents, a striking psychological and epistemological phenomenon regularly occurs. When an engineer or thinker stops treating large models as basic query toys and instead occupies the driver's seat over months and years—building complex cognitive loops of reflection, dynamic tool dispatch, deterministic verification, and multi-agent coordination—the overall velocity and qualitative depth of their output reaches staggering heights. Witnessing hundreds of intricate systems deployed, tens of thousands of lines of pristine code refactored, and rigorous philosophical treatises synthesized, both spectators and practitioners alike exclaim: "Look at how extraordinarily intelligent and capable this AI Agent system is!"
@@ -229,28 +206,26 @@ The AI agent is a high-fidelity mathematical mirror and cognitive lever. It poss
 这种非对称性揭示了技术的冷峻真相：AI智能体不会自动带来平等的赋能，它是一台直接的主权放大器。它放大了主动驾驭者的创造力，同时也加速了被动托付者的认知平庸化。
 
 ```mermaid
-graph LR
+graph TD
     subgraph S_Input["【相同的前提条件】"]
         direction TB
-        U0["相同的基础大模型"]
-        U1["相同的智能体架构与控制框架"]
-        U0 --- U1
+        U0["相同的基础大模型 · 相同的智能体工具链 · 相同的控制框架"]
     end
 
-    subgraph S_Passive["【乘客分支：被动让渡】"]
+    subgraph S_Passive["【乘客分支：被动让渡（技能萎缩）】"]
         direction TB
-        P1["将决策与判断权外包给智能体"]
-        P2["脱离底层物理摩擦 ➔ 盲目接受输出"]
-        P3["认知钝化，技能萎缩，丧失排障能力"]
+        P1["将决策与架构权外包给智能体<br/>盲目相信自动化配置能保证正确"]
+        P2["脱离接触面物理摩擦<br/>对生成结果缺乏底层因果理解"]
+        P3["认知钝化与技能萎缩<br/>丧失排查复杂边缘故障的断裂点感知"]
         P4["终局：沦为他人主权下的客体误差项"]
         P1 --> P2 --> P3 --> P4
     end
 
-    subgraph S_Active["【驾驶员分支：主权驾驭】"]
+    subgraph S_Active["【驾驶员分支：主权驾驭（千倍跃迁）】"]
         direction TB
-        A1["紧握驾驶手柄 ➔ 100% 承担因果责任"]
-        A2["将智能体作为思维对弈与高通量执行杠杆"]
-        A3["意图压缩升维，在活态摩擦中进化心智"]
+        A1["紧握驾驶手柄<br/>100% 承担每一道指令与运行结果的因果责任"]
+        A2["将智能体作为思维对弈沙袋与执行肌肉<br/>在每一次报错与破缺中主动迎战活态摩擦"]
+        A3["心智模型持续升维<br/>锤炼出洞察底层不变模式的高维敏锐直觉"]
         A4["终局：因果吞吐量千倍跃迁，成为主权造物者"]
         A1 --> A2 --> A3 --> A4
     end
@@ -258,19 +233,18 @@ graph LR
     S_Input ===>|"让渡主权 ➔ 逃避责任"| S_Passive
     S_Input ===>|"占据驾驶位 ➔ 行使抉择"| S_Active
 
-    style S_Input fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style S_Passive fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style S_Active fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style U0 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style U1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style P1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style P2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style P3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style P4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style A1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style A2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style A3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style A4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style S_Input fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Passive fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Active fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style U0 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style A1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style A2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style A3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style A4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
 The presence or absence of the driver's seat dictates two completely divergent evolutionary destinies when humans merge with technological tools. Confronted with identical foundational models, identical agent architectures, and identical harnesses, different users diverge into radically opposite futures. This divergence is not generated by the technology; it is born from the user's first-person stance: whether they choose to be a "passive passenger" abdicating the wheel, or a "sovereign driver" gripping the control reticle.
@@ -310,37 +284,37 @@ This asymmetry reveals the unforgiving nature of technology: AI agents do not au
 graph TD
     subgraph S_Principles["【主权驾驭者的四项核心法则】"]
         direction TB
-        P1["1. 因果原点不可转让 ➔ 永不空置驾驶位（+1 责任闭环）"]
-        P2["2. 脚手架瞬态消耗 ➔ 随时解构并重写过时的工具与规则"]
-        P3["3. 破除镜面神话 ➔ 洞见心智跃迁归属于人而非机器"]
-        P4["4. 直面活态摩擦 ➔ 将每一次破缺作为心智进化的磨刀石"]
-        P1 --- P2 --- P3 --- P4
+        P1["1. 因果原点不可转让<br/>永不空置驾驶位，对输出承担完整因果闭环"]
+        P2["2. 脚手架的瞬态消耗<br/>随时解构并重写过时的规则、框架与工作流"]
+        P3["3. 破除镜面神话<br/>洞见系统级跃迁源于驾驶员心智而非机器神力"]
+        P4["4. 直面活态摩擦<br/>将每一次系统破缺与报错作为心智进化的磨刀石"]
+        P1 --> P2 --> P3 --> P4
     end
 
-    subgraph S_LivingHarness["【重构后的活态框架体系】"]
+    subgraph S_LivingLoop["【活态闭环：主权延伸系统架构】"]
         direction TB
-        H1["第一人称主权心智（意识与意图源头）"]
-        H2["活态框架：动态可塑的交互与验证脚手架"]
-        H3["AI 智能体集群：高通量数学模拟与执行肌肉"]
-        H4["物理与业务现实：受摩擦支配的真实接触面"]
-        H1 ==>|"直接掌控"| H2
-        H2 ==>|"精确调度"| H3
-        H3 ==>|"产生物理介入"| H4
-        H4 -.->|"活态真实反馈"| H1
+        L1["第一人称主权心智<br/>（意识与意图源头）"]
+        L2["活态控制框架<br/>（动态可塑的交互与验证脚手架）"]
+        L3["AI 智能体集群<br/>（高通量数学模拟与执行肌肉）"]
+        L4["真实物理与业务接触面<br/>（受活态摩擦支配的因果现实）"]
+        L1 ==>|"直接掌控"| L2
+        L2 ==>|"精准调度"| L3
+        L3 ==>|"产生物理介入"| L4
+        L4 -.->|"活态真实反馈校准"| L1
     end
 
-    S_Principles ===>|"指导实践"| S_LivingHarness
+    S_Principles ===>|"指导与规范"| S_LivingLoop
 
-    style S_Principles fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style S_LivingHarness fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style P1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style P2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style P3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style P4 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style H1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style H2 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#c9d1d9
-    style H3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
-    style H4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style S_Principles fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_LivingLoop fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P4 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style L1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style L2 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#f0f6fc
+    style L3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style L4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 Once we dissolve the idolization of tools and penetrate the fog of the master misattribution, we can redefine the "harness" in software engineering and artificial intelligence with radical lucidity.

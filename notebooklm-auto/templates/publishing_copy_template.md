@@ -15,9 +15,9 @@ This document defines the canonical, minimalist, emoji-free templates for publis
   - **X (Twitter)**: English only.
 - **Epistemological Precision**:
   1. No reification of "system" or "objective law".
-  2. No essentialist claims or God's-eye view words (`本质`, `根本`, `自始至终`).
-  3. Clean typography (`（t）` and `moment t`, zero unrendered LaTeX `\(t\)`).
-  4. Zero banned words (`纯粹`, `绝对`, `完全`, `彻底`, `绝不`, `通常`, `往往`, `或许`, `某种意义上`, `降维重构`).
+  2. No essentialist claims or God's-eye view terminology.
+  3. Clean typography (`（t）` and `moment t`, zero unrendered LaTeX markers).
+  4. Zero prohibited words.
 
 ---
 
