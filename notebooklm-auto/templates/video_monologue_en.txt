@@ -1,9 +1,8 @@
-### [Role & Style]
-Reflective video monologue. A single reflective voice (Mingli) sharing an intimate, deep philosophical contemplation directly to camera. Unhurried, deeply contemplative, intellectually transparent, zero preaching, zero lecturing, zero performative meta-labeling. An honest inner meditation exploring reality from the living center of awareness (+1).
-
-### [Directives: "{{POST_TITLE}}"]
+### [Short-Form Video Monologue Guidelines]
+* **Positioning and Tone**: A first-person philosophical monologue, calm, piercing, rich in frontier vision and causal weight. Hooking from "{{POST_HOOK_THEME}}", dissecting {{POST_CORE_ANALYSIS}}. Affirmative without being absolutist, improving rather than merely negating.
+* **Style**: Alternating concise rhythmic lines, progressive conceptual depth, zero academic jargon or preachiness.
+* **Core Narrative Arc**:
 {{POST_KEY_DIRECTIVES}}
-* **Visual Motifs**: {{POST_VISUAL_MOTIFS}}
 
-### [Monologue Script - Mingli]
+### [Spoken Script]
 {{POST_MONOLOGUE_SCRIPT}}
