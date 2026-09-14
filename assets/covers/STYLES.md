@@ -258,6 +258,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Prismatic dispersion & ray-traced caustics engraving** | Full-bleed fine intaglio engraving and ray-traced optical caustics on heavy charcoal-slate paper; an expansive, radiant focal point of warm golden and cyan light emitting boundless multi-dimensional rays into starry space on the left, contrasted with an intricate faceted glass prism shattering light into jagged, fractured geometric shadows on a dark slate plane on the right | `the-asymmetry-of-understanding` |
 | **Nordic Tonalist oil / twilight pine forest with glowing hearth embers** | Deep subarctic twilight oil painting in the tradition of Akseli Gallen-Kallela; muted indigo, slate blue, and spruce mist, with a glowing pine branch crackling with warm incandescent amber embers on soft mossy ground; painterly canvas texture, dramatic chiaroscuro between northern stillness and primal hearth | `boletus-compute-storm-and-promethean-fire` |
 | **Constructivist axonometric drafting & translucent crystalline hyper-dimensional manifold** | Heavy textured midnight-indigo and aged cream paper, dark primordial granite bedrock with tactile fractures below, ascending copperplate axonometric arches and drafting grids converging into an incandescent, self-rotating translucent hyper-dimensional manifold crystal engine with golden plumb-line anchor | `the-ladder-of-abstraction-and-the-executable-entity` |
+| **Aerospace precision intaglio & supersonic schlieren fracture** | Deep obsidian and midnight-indigo ground, monolithic titanium rocket ascending with searing amber-gold thrust slicing through a shattered translucent golden deity mask into open sky, human hand holding luminous steering reticle at the base; dramatic chiaroscuro between divine myth dissolution and cold engineered agency | `from-the-misallocated-sentience-of-agi-to-human-realignment` |
 
 ## Inventory (by slug)
 
@@ -513,6 +514,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-illusion-of-knowing-and-the-geometry-of-amputation` | Shattered obsidian mirror & expanding volumetric light prism in deep space |
 | `the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth` | Radiant impact probe colliding with textured terrain generating golden sparks and ripple shockwaves, dissolving chronometer into geometric dust |
 | `the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation` | Iridescent para-universe spheres floating in deep obsidian-indigo void with golden singularity cores and quantum wave ripples, single razor-sharp golden vector of conscious choice piercing forward |
+| `from-the-misallocated-sentience-of-agi-to-human-realignment` | Aerospace precision intaglio & supersonic schlieren fracture |
 
 ## Crowded — prefer not to extend
 
