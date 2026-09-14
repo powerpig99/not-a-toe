@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-14T04:53:25.948Z",
+    "generated_at": "2026-09-14T05:29:01.355Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -228,6 +228,7 @@
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "20cc20e40f0b",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
+      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "10191474cb86",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "08233385869e",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
@@ -333,19 +334,19 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 323,
-      "edges": 3092,
-      "unique_directed": 2940,
+      "posts": 324,
+      "edges": 3108,
+      "unique_directed": 2948,
       "missing_targets": 0,
-      "one_way": 726,
-      "isolated": 44,
-      "posts_with_outbound": 258
+      "one_way": 734,
+      "isolated": 43,
+      "posts_with_outbound": 259
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 81
+      "in_degree": 82
     },
     {
       "slug": "openness-is-consistency",
@@ -353,7 +354,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 61
+      "in_degree": 62
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -361,7 +362,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 48
+      "in_degree": 49
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -369,7 +370,7 @@
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 39
+      "in_degree": 40
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -539,7 +540,6 @@
     "the-geometry-of-the-cut",
     "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
     "the-illusion-of-distance-and-the-dual-ruler",
-    "the-illusion-of-the-tool-and-the-inversion-of-time",
     "the-interesting-case-of-rubin",
     "the-loop-accelerates",
     "the-loop-that-cant-see-itself",
@@ -1339,7 +1339,7 @@
       "path": "content/posts/coordinates-in-flux-negation-and-self-anchoring.md",
       "title": "流动中的坐标：关于“否定”、降维与心智的自我锚定 / Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring",
       "hash": "37be0f36cf1b",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 4,
       "links_out": [
         "coordinate-systems-mind-and-degrees-of-freedom",
@@ -1937,7 +1937,7 @@
       "path": "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md",
       "title": "从AGI的“神性错置”到使用者的自我对齐：要么重构主权，要么沦为被校准的误差项 / From the Misallocated Sentience of AGI to Human Realignment: Reclaim Sovereign Agency or Become the Error Term",
       "hash": "66949b654960",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 4,
       "links_out": [
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -2318,7 +2318,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "1822bc1fbdea",
-      "in_degree": 81,
+      "in_degree": 82,
       "out_degree": 54,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2384,7 +2384,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "b60b674b5303",
-      "in_degree": 61,
+      "in_degree": 62,
       "out_degree": 22,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -2599,7 +2599,7 @@
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
       "hash": "30b8585c7f67",
-      "in_degree": 39,
+      "in_degree": 40,
       "out_degree": 23,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -5161,7 +5161,7 @@
       "path": "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md",
       "title": "工具的幻觉与时间的倒置：等同单元、极限归零与行动的真实代价 / The Illusion of the Tool and the Inversion of Time: Identical Units, Infinitesimal Limits, and the Living Cost of the Act",
       "hash": "08ea521b7d2e",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 0,
       "links_out": []
     },
@@ -5216,6 +5216,26 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "kind": "post",
+      "slug": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
+      "title": "缰绳的倒置与驾驶位的主权非对称：能力为何沦为束缚，以及对AI智能体能力的母体误归因 / The Inversion of the Harness and the Sovereignty of the Driver's Seat: Why Capabilities Become Limitations and the Master Misattribution of AI Agents",
+      "hash": "10191474cb86",
+      "in_degree": 0,
+      "out_degree": 8,
+      "links_out": [
+        "from-the-misallocated-sentience-of-agi-to-human-realignment",
+        "the-illusion-of-the-tool-and-the-inversion-of-time",
+        "the-scaffolding-we-forget",
+        "intelligence-belongs-only-to-the-mind",
+        "coordinates-in-flux-negation-and-self-anchoring",
+        "the-mind-as-vector-and-coordinate-system",
+        "individual-choices-as-the-only-causal-levers",
+        "mei-you-pu-du-zhi-you-zi-du"
+      ]
     },
     {
       "id": "post:the-invisible-first-move",
@@ -5462,7 +5482,7 @@
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智：几何视角下的投影、冲突与电磁同频 / The Mind as Vector and Coordinate System: Projections, Conflict, and Electromagnetic Resonance",
       "hash": "c330b2f265e7",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring",
@@ -6206,7 +6226,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3fcc945ba028",
-      "in_degree": 48,
+      "in_degree": 49,
       "out_degree": 32,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -20068,6 +20088,102 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "从AGI的“神性错置”到使用者的自我对齐"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "rel": "points_to",
+      "label": "工具的幻觉与时间的倒置"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "From the Misallocated Sentience of AGI to Human Realignment"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "rel": "points_to",
+      "label": "The Illusion of the Tool and the Inversion of Time"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "被遗忘的脚手架"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "coordinates-in-flux-negation-and-self-anchoring",
+      "rel": "points_to",
+      "label": "坐标沉浮、否定与自我锚定"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "思想的向量化与坐标系的重构"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "coordinates-in-flux-negation-and-self-anchoring",
+      "rel": "points_to",
+      "label": "Coordinates in Flux, Negation and Self-Anchoring"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体的选择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Self-Salvation"
     },
     {
       "from": "the-invisible-first-move",
