@@ -1,6 +1,6 @@
-# NotebookLM Auto Prompt Engineering Guidelines & Reusable Schemas
+# NotebookLM Auto Prompt Engineering & Publishing Copy Guidelines
 
-This document defines the canonical schemas, epistemological invariants, and generation standards for creating **NotebookLM Audio Overviews** and **Short-Form Video Scripts** across the *Not a Theory of Everything (Not-A-TOE)* corpus.
+This document defines the canonical schemas, epistemological invariants, and generation standards for creating **NotebookLM Audio Overviews**, **Short-Form Video Scripts**, and **Multi-Platform Publishing Copy** (Spotify, WeChat Channels, and X) across the *Not a Theory of Everything (Not-A-TOE)* corpus.
 
 ---
 
@@ -13,7 +13,7 @@ This document defines the canonical schemas, epistemological invariants, and gen
    - Systems, institutions, algorithms, and "objective laws" possess zero independent causal agency. They are emergent macro phenomena arising from conscious practitioners injecting free variables.
    - Never treat the "system" as an autonomous judge, punisher, or benevolent entity.
 3. **No Essentialism or "View from Nowhere"**:
-   - Never use metaphysical essentialist claims.
+   - Never use metaphysical essentialist claims (e.g. avoid treating "essence" or "fundamentally" as disembodied objective entities).
    - Frame observations phenomenologically within first-person human experience and causal tracing.
 4. **Artifacts as Residual Traces**:
    - All tools and artifacts (axes, rockets, LLMs) are historical traces left by the injection of human free choices. They lack the agency to autonomously inject free variables and possess zero independent intelligence.
@@ -22,7 +22,7 @@ This document defines the canonical schemas, epistemological invariants, and gen
    - Micro sovereign choices are free at moment t; their population aggregation naturally forms normal distributions and compounds over time into power-law or exponential forms.
    - Believing that statistical distributions constitute an inescapable cage is itself a sovereign free choice. Third-person unpredictability is the outward signature of first-person subjective self-consistency.
 6. **No Links Inside Prompt Instructions**:
-   - Prompts serve as NotebookLM customization instructions given to the model alongside the imported source text. Since the blog post is already loaded as source material, links are unnecessary in prompt files (links belong in external social copy / Spotify descriptions only).
+   - Prompts serve as NotebookLM customization instructions given to the model alongside the imported source text. Since the blog post is already loaded as source material, links are unnecessary in prompt files (links belong in external social copy and Spotify descriptions only).
 7. **Clean Typography**:
    - No raw LaTeX markup (use clean Chinese full-width brackets `（t）` and English text `moment t`).
 
@@ -39,7 +39,7 @@ For each post with slug `<SLUG>`, the following 4 files are maintained in `noteb
 
 ---
 
-## 3. Template Schemas
+## 3. Template Schemas for Prompts
 
 ### Schema A: Chinese Audio Overview (`<SLUG>_zh.txt`)
 ```markdown
@@ -120,3 +120,44 @@ Clara: [Response and pivot]
 ### [Spoken Script]
 [Spoken script lines]
 ```
+
+---
+
+## 4. Standardized Multi-Platform Publishing Copy Schemas
+
+To prevent tone drift and stylistic inconsistency across releases, all distribution copy must strictly adhere to the following schemas:
+
+### A. Spotify Podcast Channel (ZH & EN)
+* **Title Format (ZH)**: `EP<Number>｜<Core Chinese Title>`
+* **Description Format (ZH)**:
+  - 2 essayistic paragraphs:
+    - *Paragraph 1*: Problem hook & category error deconstruction + key physical/engineering metaphor.
+    - *Paragraph 2*: Epistemological core mechanism + first-person causal sovereignty takeaway.
+  - *Footer*: `🔗 完整深度长文：https://powerpig99.github.io/not-a-toe/posts/<slug>/`
+* **Title Format (EN)**: `EP<Number> | <Core English Title>`
+* **Description Format (EN)**:
+  - 2 continuous essayistic paragraphs matching the Chinese thematic depth.
+  - *Footer*: `🔗 Read the full essay: https://powerpig99.github.io/not-a-toe/posts/<slug>/`
+
+### B. WeChat Channels / Video Platforms (微信视频号 / 抖音 / B站)
+* **Title Format**: `【<Core Chinese Title>】`
+* **Caption / Post Copy**:
+  - *Paragraph 1*: High-tension question or phenomenon hook.
+  - *Paragraph 2*: Deep epistemological insight (artifacts as traces, no disembodied system, the true locus of agency).
+  - *Paragraph 3*: Decisive punchline (Realign or become the error term).
+  - *Hashtags*: `#非万物之理 #认识论 #哲学思考 #人工智能 #第一人称主权`
+  - *Footer*: `🔗 完整长文请参阅：https://powerpig99.github.io/not-a-toe/posts/<slug>/`
+
+### C. X (Twitter) Article & Thread Copy (EN & ZH)
+* **EN Format**:
+  - *Hook Line*: High-impact sentence challenging conventional tech/philosophical consensus.
+  - *Thread Beats (3-4 concise blocks)*:
+    1. The False Dichotomy / Delusion
+    2. The Engineering Metaphor
+    3. The Epistemological Demarcation (Tool vs. Mind)
+    4. The Evolutionary Takeaway
+  - *CTA / Link*: Direct link to the live article.
+* **ZH Format**:
+  - *Hook Line*: 穿透性主张
+  - *Thread Beats*: 核心剖析、隐喻对照、主权回归
+  - *CTA / Link*: 直达博文链接。
