@@ -21,9 +21,10 @@ This document defines the canonical schemas, epistemological invariants, and gen
 5. **Duality of Free Choice vs. Statistical Distributions**:
    - Micro sovereign choices are free at moment t; their population aggregation naturally forms normal distributions and compounds over time into power-law or exponential forms.
    - Believing that statistical distributions constitute an inescapable cage is itself a sovereign free choice. Third-person unpredictability is the outward signature of first-person subjective self-consistency.
-6. **Clean Typography**:
+6. **No Links Inside Prompt Instructions**:
+   - Prompts serve as NotebookLM customization instructions given to the model alongside the imported source text. Since the blog post is already loaded as source material, links are unnecessary in prompt files (links belong in external social copy / Spotify descriptions only).
+7. **Clean Typography**:
    - No raw LaTeX markup (use clean Chinese full-width brackets `（t）` and English text `moment t`).
-   - Always include the full, clickable canonical URL to the post.
 
 ---
 
@@ -64,8 +65,6 @@ For each post with slug `<SLUG>`, the following 4 files are maintained in `noteb
 
 雨涵：[呼应并引出核心张力]
 (雨涵自然接话：...)
-
-参考博文链接：https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
 ```
 
 ### Schema B: English Audio Overview (`<SLUG>.txt`)
@@ -92,8 +91,6 @@ Julian: [Opening thesis]
 
 Clara: [Response and pivot]
 (Clara continues naturally: ...)
-
-Reference Post Link: https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
 ```
 
 ### Schema C: Chinese Video Monologue (`<SLUG>_video_zh.txt`)
@@ -108,8 +105,6 @@ Reference Post Link: https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
 
 ### [口述参考台词]
 [口述逐字稿]
-
-完整长文链接：https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
 ```
 
 ### Schema D: English Video Monologue (`<SLUG>_video_en.txt`)
@@ -124,6 +119,4 @@ Reference Post Link: https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
 
 ### [Spoken Script]
 [Spoken script lines]
-
-Read the full essay: https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
 ```
