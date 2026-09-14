@@ -9,9 +9,10 @@ Key Thematic Arc and Discussion Flow:
 - Explore the global emotional polarization: techno-utopians revering LLMs as an omniscient digital divinity vs. doomsayers dreading AGI as an uncontrollable existential demon.
 - Expose the shared ontological category error: projecting first-person sentience, intentionality, and moral agency onto the "General" intelligence of mathematical optimization engines.
 
-2. Epistemological Clarification: Free Choice and Normal Distribution
-- Dismantle the reductionist trap of explaining away free choice via macro symptoms like "embodiment, survival instincts, or life-and-death stakes": sovereign choice itself is an irreducible primal cause.
-- Highlight that precisely because individual choices are unconstrained at the micro level, their population aggregation naturally produces a deterministic Normal Distribution. While this macro pattern cannot be eliminated, it never constitutes a deterministic constraint on an individual's immediate choice.
+2. Epistemological Foundation: Artifacts as Traces and the True Definition of Intelligence
+- Clarify the nature of artifacts: all artifacts are historical traces left behind by the injection of the human free choice variable; lacking the capacity to inject free variables, artifacts have zero intelligence.
+- Reiterate the core axiom: in the reality accessible to human perception, there is only one true intelligence—the intelligence manifested by the subjective conscious mind. "Artificial Intelligence" is not intelligence, but living intelligence simulating and extending its own faculties.
+- Highlight that micro free choices aggregate into normal distributions without imposing deterministic constraints on individual choice in the living present.
 
 3. The Core Engineering Metaphor: The Rocket Sentience Thought Experiment
 - Introduce the powerful analogy of attributing sentience to a chemical rocket: a flawless launch and booster landing would be worshiped as divine favor, while a launchpad explosion would be feared as conscious malice against humanity.
