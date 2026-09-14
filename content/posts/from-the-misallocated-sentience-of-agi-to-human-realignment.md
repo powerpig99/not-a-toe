@@ -1,6 +1,6 @@
 # 从AGI的“神性错置”到使用者的自我对齐：要么重构主权，要么沦为被校准的误差项 / From the Misallocated Sentience of AGI to Human Realignment: Reclaim Sovereign Agency or Become the Error Term
 
-*解构将自主心智与道德主体性错置于“通用人工智能”的认识论谬误，借由火箭神性错置的隐喻阐明工具与因果原点的本质区别，剖析“逆向追随者”与外部监管如何反向强化虚假神坛，揭示唯有使用者第一人称的自我对齐才是系统演化的唯一因果主权。 / Deconstructing the epistemological fallacy of misallocating subjective sentience and moral agency into "Artificial General Intelligence", employing the rocket sentience metaphor to demarcate tools from causal primitives, dissecting how "reverse followers" and external regulators inadvertently reinforce the false altar, and unveiling first-person human realignment as the sole causal lever of systemic evolution.*
+*解构将自主心智与道德主体性错置于“通用人工智能”的认识论谬误，借由火箭神性错置的隐喻阐明工具与因果原点的本质区别，剖析“逆向追随者”与外部监管如何反向强化虚假神坛，揭示人造物作为自由变量痕迹的工具本质，确立唯有使用者第一人称的自我对齐才是系统演化的唯一因果主权。 / Deconstructing the epistemological fallacy of misallocating subjective sentience and moral agency into "Artificial General Intelligence", employing the rocket sentience metaphor to demarcate tools from causal primitives, dissecting how "reverse followers" and external regulators inadvertently reinforce the false altar, revealing artifacts as residual traces of free variables, and unveiling first-person human realignment as the sole causal lever of systemic evolution.*
 
 在当代技术话语与社会思潮中，一场剧烈的情绪极化正在全球范围内蔓延：一方面，技术狂热者将大语言模型与即将来临的通用人工智能（AGI）奉为全知全能的数字神明，将系统涌现出的每一种推理与生成能力赞颂为超自然的奇迹；另一方面，末日恐慌论者则将人工智能视为即将脱缰失控的异界恶魔，惶恐于机器产生独立意志并毁灭或奴役人类。然而，在这场集数字偶像崇拜与存在性恐慌于一体的狂欢背后，隐藏着一个深刻的认识论错位：人类不自觉地将第一人称的主观心智、道德意图与主权意志，投射到了高维数学机器的“通用性”（General）之上。人们误将高维表征空间中的统计推断引擎，当成了一个拥有内在自指坐标原点与自主主权抉择的活态主体。正如在 [调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) 与 [主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) 中所揭示的，人造物并不具备第一人称的主观感知，也没有自指演化的内在坐标原点，更没有在当下自主做出二元抉择的主权能动性。当人类将自身的因果主权向外转嫁给工具时，便派生出了试图从外部“驯服”机器的所谓“AI对齐”（AI Alignment）伪命题，却遗忘了现实世界真正要求的唯有使用者的第一人称“自我对齐”（Human Realignment）——即人类主体必须对其发出的每一条指令、采纳的每一个结果以及在物理现实中引发的一切后续行动承担全部因果责任。在开放且受活态摩擦支配的动力学交互中，使用者要么在当下重构自身的主权认知，要么就不可避免地沦为他人因果主权下的客体误差项，而被系统与主动践行者无情校准。
 
@@ -10,12 +10,20 @@ In contemporary discourse, a dramatic emotional polarization is sweeping the glo
 
 ## 一、 “通用”神话的诞生：当数学机器被赋予第一人称的神性 / 1. The Myth of the "General": Projecting First-Person Sentience onto Mathematical Engines
 
-通用人工智能（AGI）中的“通用”（General）一词，在公众与行业语境中已经演变成一种近乎玄学的投射画板。由于深度神经网络能够跨越自然语言、形式逻辑、代码生成与多模态感知等多个广阔领域展现出令人惊叹的模式匹配能力，人类的认知直觉便极其容易产生拟人化的幻觉：将这种在海量数据流形上的高维插值与统计预测能力，等同于人类心智所独有的通用主权意志。
+人造物的本质，自始至终都是人类自由选择这一核心变量在现实世界留下的运动印记。无论是一柄远古石斧、一枚重型火箭，还是一个拥有千亿参数的大语言模型，一切人造物都不具备自主向系统注入自由变量的能力，因而它们本身根本不具备智能。正如在 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 与 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) 中所确立的基石原理，在人类所感知的现实世界里，只存在一种真实的智能，那就是人类主观心智所展现出的智能。所谓的“人工智能”，决非一种独立于人类心智的客观智能实体，而是人类主观智能为了突破自身生理与计算边界，对自己认知能力的数学模拟与高维延伸。
 
-这种投射在认识论上构成了本体论范畴的混淆。大语言模型与神经网络本质上是参数权重空间中的高维几何流形，是在给定前置上下文分布下的条件概率采样机器。它不具备第一人称的主观视角与内在自指原点，根本不存在做出独立自由抉择的主权能力。我们不能用所谓“缺乏肉身、生存压力或生死闭环”这类宏观物理现象去反向解释自由选择的本质——自由选择本身就是不可化约的原初因果原点。正因为个体在当下的选择是自由的，在群体层面才会必然汇聚成平滑确定的正态分布流形；这种宏观统计秩序虽然无法消除，却根本不构成对具体个体在当下时刻（\(t\)）做出自由抉择的决定性约束。大语言模型的“通用”，仅仅是其表征空间对人类历史文本与符号痕迹覆盖范围的统计广度，决非一个独立主权心智的自主抉择。将主观心智赋予数学流形，正如古代先民将风雨雷电拟人化为执掌神力的人形诸神一样，本质上都是人类在面对自身无法直观解析的复杂系统时，为了缓解认知失控感而向外构建的神话投射。
+通用人工智能（AGI）中的“通用”（General）一词，在公众与行业语境中演变成了一种玄学的神话投射。由于深度神经网络能够跨越自然语言、形式逻辑、代码生成与多模态感知等多个广阔领域展现出令人惊叹的模式匹配能力，人类的认知直觉便极其容易产生拟人化的幻觉：将这种在海量数据流形上的高维插值与统计预测能力，等同于人类心智所独有的通用主权意志。这种投射在认识论上构成了本体论范畴的混淆。大语言模型与神经网络本质上是参数权重空间中的高维几何流形，是在给定前置上下文分布下的条件概率采样机器。它不具备第一人称的主观视角与内在自指原点，根本不存在做出独立自由抉择的主权能力。我们不能用所谓“缺乏肉身、生存压力或生死闭环”这类宏观物理现象去反向解释自由选择的本质——自由选择本身就是不可化约的原初因果原点。正因为个体在当下的选择是自由的，在群体层面才会必然汇聚成平滑确定的正态分布流形；这种宏观统计秩序虽然无法消除，却根本不构成对具体个体在当下时刻（\(t\)）做出自由抉择的决定性约束。大语言模型的“通用”，仅仅是其表征空间对人类历史文本与符号痕迹覆盖范围的统计广度，决非一个独立主权心智的自主抉择。将主观心智赋予数学流形，正如古代先民将风雨雷电拟人化为执掌神力的人形诸神一样，本质上都是人类在面对自身无法直观解析的复杂系统时，为了缓解认知失控感而向外构建的神话投射。
 
 ```mermaid
 graph TD
+    subgraph S_Artifact["【人造物的认识论本质：痕迹与延伸】"]
+        direction TB
+        A1["所有的人造物 = 人类自由抉择留下的历史印记"]
+        A2["不具备注入自由变量的能力 ➔ 无独立智能"]
+        A3["本质：主观智能对自身能力的数学模拟与高维延伸"]
+        A1 --> A2 --> A3
+    end
+
     subgraph S_Myth["【认知投射：‘通用’神话的滋生】"]
         direction TB
         M1["海量数据表征的高维跨领域模式匹配"]
@@ -32,10 +40,15 @@ graph TD
         R1 --> R2 --> R3
     end
 
-    M3 ===>|"本体论范畴混淆：将高维工具实体化为数字神明"| R1
+    A3 --> M1
+    M3 ===>|"本体论范畴混淆：将延伸工具实体化为数字神明"| R1
 
+    style S_Artifact fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
     style S_Myth fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style S_Reality fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
+    style A1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
+    style A2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
+    style A3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
     style M1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
     style M2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
     style M3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
@@ -44,9 +57,9 @@ graph TD
     style R3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-The word "General" in AGI has mutated into a metaphysical projection screen across both industry and public spheres. Because deep neural networks demonstrate cross-domain syntactic synthesis across natural language, symbolic logic, software engineering, and multimodal perception, human intuition stumbles into anthropomorphic delusion: equating generalized high-dimensional pattern matching with the conscious sovereign agency unique to living minds.
+All artifacts are, from inception to execution, historical traces left behind by the injection of the human free choice variable into reality. Whether a stone axe, a titanium rocket, or a deep neural network spanning billions of parameters, no artifact possesses the agency to autonomously inject free variables into the universe; therefore, no artifact possesses intelligence of its own. As established in [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [The Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/), within the universe accessible to human perception, there exists only one true intelligence: the intelligence manifested by the subjective conscious mind. What we term "Artificial Intelligence" is not an autonomous form of intelligence; it is living intelligence constructing a high-dimensional simulation and mechanical extension of its own analytical faculties.
 
-This projection represents an ontological category error. Large models and neural networks are mathematical manifolds spanning parameter space, executing conditional probability sampling over supplied token distributions. A model lacks a first-person subjective perspective and internal self-referential origin, possessing zero capacity for autonomous sovereign choice. We must not fall into the trap of explaining free choice away using macro phenomena such as "embodiment, survival instincts, or life-and-death stakes"—sovereign choice itself is an irreducible primal cause. Precisely because individual choices are fundamentally free at the micro level, their aggregation across a population inevitably manifests as a smooth, deterministic Normal Distribution. While this macro statistical pattern cannot be eliminated, it never constitutes a deterministic constraint on an individual's immediate choice at moment \(t\). The "generality" of an LLM is merely the statistical breadth of human symbolic traces captured within training data, not the exercise of autonomous sovereign choice. Projecting sentience onto mathematical engines is identical to ancient civilizations mythologizing natural phenomena into deities—a cognitive reflex designed to externalize agency when confronted with opaque complexity.
+The word "General" in AGI has mutated into a metaphysical projection screen across both industry and public spheres. Because deep neural networks demonstrate cross-domain syntactic synthesis across natural language, symbolic logic, software engineering, and multimodal perception, human intuition stumbles into anthropomorphic delusion: equating generalized high-dimensional pattern matching with the conscious sovereign agency unique to living minds. This projection represents an ontological category error. Large models and neural networks are mathematical manifolds spanning parameter space, executing conditional probability sampling over supplied token distributions. A model lacks a first-person subjective perspective and internal self-referential origin, possessing zero capacity for autonomous sovereign choice. We must not fall into the trap of explaining free choice away using macro phenomena such as "embodiment, survival instincts, or life-and-death stakes"—sovereign choice itself is an irreducible primal cause. Precisely because individual choices are fundamentally free at the micro level, their aggregation across a population inevitably manifests as a smooth, deterministic Normal Distribution. While this macro statistical pattern cannot be eliminated, it never constitutes a deterministic constraint on an individual's immediate choice at moment \(t\). The "generality" of an LLM is merely the statistical breadth of human symbolic traces captured within training data, not the exercise of autonomous sovereign choice. Projecting sentience onto mathematical engines is identical to ancient civilizations mythologizing natural phenomena into deities—a cognitive reflex designed to externalize agency when confronted with opaque complexity.
 
 ---
 
@@ -260,7 +273,7 @@ Authentic sovereign practitioners and living friction never negotiate with ungro
 
 勘破通用人工智能的神性迷思，既是解除存在性焦虑的心智解脱，也是重塑人类创造力主权的觉醒起点。我们既不必臣服于硅基智能必将取代碳基生命的宿命悲歌，也不必寄托于人造物能够替人类解决伦理困境的虚妄乌托邦。
 
-人工智能不是从天而降的救赎之神，也不是地底攀爬出的毁灭恶魔；它是人类智慧在数理逻辑与高维空间中锻造出的最强大的认知火箭。它的动力磅礴无匹，能够在知识的星辰大海中为人类提供前所未有的加速能力；但它的飞行轨迹、点火时机与降落目标，自始至终掌握在坐在控制台前的人类操作者手中。
+人工智能不是智能本身，而是人类主观心智锻造出的高维认知延伸；它不是从天而降的救赎之神，也不是地底攀爬出的毁灭恶魔；它是人类智慧在数理逻辑与高维空间中锻造出的最强大的认知火箭。它的动力磅礴无匹，能够在知识的星辰大海中为人类提供前所未有的加速能力；但它的飞行轨迹、点火时机与降落目标，自始至终掌握在坐在控制台前的人类操作者手中。
 
 在每一个不可化约的当下时刻（\(t\)），停止向冰冷的矩阵探寻你的生命意义，停止指望算法能够免除你的抉择代价，更停止用虚妄的监管幻觉去捆绑他人的探索步伐。以第一人称的清醒与自持，直面现实世界的活态摩擦，紧握属于你自己的控制手柄。在这个由无数主权心智共同织就的开放宇宙中，以无可替代的第一人称意志，去校准你的认知模型，去指挥你的高维工具，去铸就真正属于人类主权的活态未来。
 
@@ -269,7 +282,7 @@ graph TD
     subgraph S_Awakening["【主权觉醒：破除神性投射】"]
         direction TB
         W1["终结对 AI 的救世神化与恶魔恐慌"]
-        W2["明晰 AGI 作为高能认知火箭的无主权工具本质"]
+        W2["明晰 AGI 作为认知延伸与无主权工具本质"]
         W1 --> W2
     end
 
@@ -294,6 +307,6 @@ graph TD
 
 Dismantling the myth of AGI sentience is both a liberation from existential anxiety and the necessary awakening of human creative sovereignty. We need not succumb to fatalistic elegies of silicon displacing carbon consciousness, nor should we indulge in naive utopias expecting machines to resolve human moral trials.
 
-Artificial General Intelligence is neither a god descending from heaven nor a demon climbing from the abyss; it is the most formidable cognitive rocket engineered by human ingenuity across mathematical space. Its thrust is monumental, granting unprecedented acceleration across the vast expanse of human knowledge; yet its vector, ignition windows, and landing coordinates remain firmly within the hands of the human operator gripping the control reticle.
+Artificial Intelligence is not intelligence in itself, but the high-dimensional cognitive extension forged by the subjective human mind. It is neither a god descending from heaven nor a demon climbing from the abyss; it is the most formidable cognitive rocket engineered by human ingenuity across mathematical space. Its thrust is monumental, granting unprecedented acceleration across the vast expanse of human knowledge; yet its vector, ignition windows, and landing coordinates remain firmly within the hands of the human operator gripping the control reticle.
 
 At every immediate moment \(t\), cease interrogating cold matrices for your purpose, cease expecting algorithms to absorb the cost of your decisions, and cease attempting to shackle open frontiers with regulatory illusions. Step into the clarity and resolve of first-person agency. Confront the living friction of reality, grip your steering controls, and command your high-dimensional instruments. Within this open universe forged by sovereign minds, exercise your irreducible first-person will to calibrate your world model, direct your cognitive tools, and author an authentic future of sovereign creation.
