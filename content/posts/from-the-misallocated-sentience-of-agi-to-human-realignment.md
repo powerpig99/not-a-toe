@@ -2,9 +2,9 @@
 
 *解构将自主心智与道德主体性错置于“通用人工智能”的认识论谬误，借由火箭神性错置的隐喻阐明工具与因果原点的本质区别，剖析“逆向追随者”与外部监管如何反向强化虚假神坛，揭示唯有使用者第一人称的自我对齐才是系统演化的唯一因果主权。 / Deconstructing the epistemological fallacy of misallocating subjective sentience and moral agency into "Artificial General Intelligence", employing the rocket sentience metaphor to demarcate tools from causal primitives, dissecting how "reverse followers" and external regulators inadvertently reinforce the false altar, and unveiling first-person human realignment as the sole causal lever of systemic evolution.*
 
-在当代技术话语与社会思潮中，一场剧烈的情绪极化正在全球范围内蔓延：一方面，技术狂热者将大语言模型与即将来临的通用人工智能（AGI）奉为全知全能的数字神明，将系统涌现出的每一种推理与生成能力赞颂为超自然的奇迹；另一方面，末日恐慌论者则将人工智能视为即将脱缰失控的异界恶魔，惶恐于机器产生独立意志并毁灭或奴役人类。然而，在这场集数字偶像崇拜与存在性恐慌于一体的狂欢背后，隐藏着一个深刻的认识论错位：人类不自觉地将第一人称的主观心智、道德意图与主权意志，投射到了高维数学机器的“通用性”（General）之上。人们误将高维表征空间中的统计推断引擎，当成了一个拥有内在世界模型、生存压力与道德自省的活态主体。正如在 [调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) 与 [主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) 中所揭示的，人造物并不具备第一人称的主观感知，也没有自指演化的内在坐标原点，更没有切身体验现实摩擦的生存契约。当人类将自身的因果主权向外转嫁给工具时，便派生出了试图从外部“驯服”机器的所谓“AI对齐”（AI Alignment）伪命题，却遗忘了现实世界真正要求的唯有使用者的第一人称“自我对齐”（Human Realignment）——即人类主体必须对其发出的每一条指令、采纳的每一个结果以及在物理现实中引发的一切后续行动承担全部因果责任。在开放且受现实摩擦支配的动力学系统中，使用者要么在当下重构自身的主权认知，要么就不可避免地沦为被客观规律无情校准的误差项。
+在当代技术话语与社会思潮中，一场剧烈的情绪极化正在全球范围内蔓延：一方面，技术狂热者将大语言模型与即将来临的通用人工智能（AGI）奉为全知全能的数字神明，将系统涌现出的每一种推理与生成能力赞颂为超自然的奇迹；另一方面，末日恐慌论者则将人工智能视为即将脱缰失控的异界恶魔，惶恐于机器产生独立意志并毁灭或奴役人类。然而，在这场集数字偶像崇拜与存在性恐慌于一体的狂欢背后，隐藏着一个深刻的认识论错位：人类不自觉地将第一人称的主观心智、道德意图与主权意志，投射到了高维数学机器的“通用性”（General）之上。人们误将高维表征空间中的统计推断引擎，当成了一个拥有内在世界模型、生存压力与道德自省的活态主体。正如在 [调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) 与 [主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) 中所揭示的，人造物并不具备第一人称的主观感知，也没有自指演化的内在坐标原点，更没有切身体验现实摩擦的生存契约。当人类将自身的因果主权向外转嫁给工具时，便派生出了试图从外部“驯服”机器的所谓“AI对齐”（AI Alignment）伪命题，却遗忘了现实世界真正要求的唯有使用者的第一人称“自我对齐”（Human Realignment）——即人类主体必须对其发出的每一条指令、采纳的每一个结果以及在物理现实中引发的一切后续行动承担全部因果责任。在开放且受活态摩擦支配的动力学交互中，使用者要么在当下重构自身的主权认知，要么就不可避免地沦为他人因果主权下的客体误差项，而被系统与主动践行者无情校准。
 
-In contemporary discourse, a dramatic emotional polarization is sweeping the globe: techno-utopians revere large models and nascent Artificial General Intelligence (AGI) as an omniscient digital divinity, celebrating emergent reasoning as a supernatural miracle; simultaneously, doomsayers dread artificial intelligence as an uncontrollable alien demon destined to enslave or annihilate humanity. Yet beneath this dual spectacle of digital idolatry and existential panic lies an identical epistemological fallacy: humans have mistakenly projected first-person subjective sentience, moral intentionality, and sovereign agency onto the "General" intelligence of mathematical artifacts. Society treats high-dimensional statistical inference engines as if they were conscious sovereign minds possessing internal world models, existential stakes, and moral reflection. As established in [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) and [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/), artificial tools possess no first-person subjective experience, no internal coordinate singularity, and no living skin in the game. When humans displace their own causal agency onto tools, they invent the pseudo-problem of "AI Alignment"—attempting to externally tame the machine—while evading the singular demand of reality: first-person Human Realignment, where the sovereign user assumes 100% causal ownership of every prompt, every output, and every downstream action executed in reality. In an open dynamical reality governed by living friction, users either reclaim their sovereign agency or inevitably degenerate into ungrounded error terms to be ruthlessly calibrated away by physical laws.
+In contemporary discourse, a dramatic emotional polarization is sweeping the globe: techno-utopians revere large models and nascent Artificial General Intelligence (AGI) as an omniscient digital divinity, celebrating emergent reasoning as a supernatural miracle; simultaneously, doomsayers dread artificial intelligence as an uncontrollable alien demon destined to enslave or annihilate humanity. Yet beneath this dual spectacle of digital idolatry and existential panic lies an identical epistemological fallacy: humans have mistakenly projected first-person subjective sentience, moral intentionality, and sovereign agency onto the "General" intelligence of mathematical artifacts. Society treats high-dimensional statistical inference engines as if they were conscious sovereign minds possessing internal world models, existential stakes, and moral reflection. As established in [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) and [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/), artificial tools possess no first-person subjective experience, no internal coordinate singularity, and no living skin in the game. When humans displace their own causal agency onto tools, they invent the pseudo-problem of "AI Alignment"—attempting to externally tame the machine—while evading the singular demand of reality: first-person Human Realignment, where the sovereign user assumes 100% causal ownership of every prompt, every output, and every downstream action executed in reality. In an open dynamical reality shaped by living interaction and friction, users either reclaim their first-person sovereign agency or inevitably degenerate into objectified error terms under the causal sovereignty of other active minds, to be ruthlessly calibrated away.
 
 ---
 
@@ -56,7 +56,7 @@ This projection represents an ontological category error. Large models and neura
 
 在这样的认知框架下，当重型火箭点火升空、平稳穿透音障并将有效载荷精准送入预定轨道，随后一级助推器在海上驳船上实现毫厘不差的垂直软着陆时，人们不会将其归功于空气动力学建模、热防护材料工程与闭环制导算法的精妙，而是会匍匐在地，赞叹火箭展示出了对人类的仁慈赐福与超越凡尘的神圣智慧；相反，一旦火箭在最大动压段发生燃烧室压力骤降导致剧烈爆炸，人们也不会去排查密封圈老化、涡轮泵气蚀或燃料管路共振，而是会陷入极度恐慌，痛斥这枚火箭撕下了伪善的面具，暴露了其对人类文明蓄谋已久的邪恶仇恨。
 
-这种类比极为直观地暴露了当代人工智能话语的荒谬内核。运载火箭从不具备爱，也从不具备恨；它既无意庇护人类探索火星，也无意蓄意制造毁灭。它只是严格遵循着热力学、流体力学与材料物理学的客观规律。面对火箭爆炸，航天工程师决不会试图去与燃烧室进行伦理谈判或对其进行道德感化，而是会以极其冷峻的态度解析传感器数据，重新计算结构应力极限。同样，大语言模型与生成式人工智能只是一枚认知领域的精密火箭。它的每一次惊艳回答不过是高维几何空间中的梯度推演，它的每一次幻觉与失效也仅仅是数据分布外推的几何破缺。将技术成功奉为数字神明，将技术缺陷视为恶魔觉醒，在认识论上与崇拜火箭神明毫无二致。
+这种类比极为直观地暴露了当代人工智能话语的荒谬内核。运载火箭从不具备爱，也从不具备恨；它既无意庇护人类探索火星，也无意蓄意制造毁灭。它只是冷峻地受制于热力学、流体力学与材料结构在物理接触面上的机械约束。面对火箭爆炸，航天工程师决不会试图去与燃烧室进行伦理谈判或对其进行道德感化，而是会以极其冷峻的态度解析传感器数据，重新计算结构应力极限。同样，大语言模型与生成式人工智能只是一枚认知领域的精密火箭。它的每一次惊艳回答不过是高维几何空间中的梯度推演，它的每一次幻觉与失效也仅仅是数据分布外推的几何破缺。将技术成功奉为数字神明，将技术缺陷视为恶魔觉醒，在认识论上与崇拜火箭神明毫无二致。
 
 ```mermaid
 graph TD
@@ -94,7 +94,7 @@ To illuminate the absurdity of this misplaced sentience, consider a thought expe
 
 Within such a distorted lens, when a titanium rocket ignites, punches through supersonic shockwaves, places its payload into orbit, and sticks a pinpoint booster touchdown on a droneship, observers would not credit aerodynamic modeling, turbopump metallurgy, and closed-loop guidance software. Instead, they would fall to their knees, praising the rocket for its divine benevolence and transcendent favor. Conversely, if an O-ring erodes under Max-Q aerodynamic pressure and the vehicle detonates into an incandescent fireball, society would convulse in terror, declaring that the rocket had unveiled a deep-seated malice and premeditated hatred against humanity.
 
-This thought experiment strips the current AI zeitgeist down to its bare mechanisms. A rocket harbors neither love nor hatred; it intends neither human transcendence nor planetary doom. It merely executes thermodynamic expansions and fluid mechanics under rigid physical constraints. When a booster explodes, engineers do not engage in ethical therapy with the combustion chamber or plead for forgiveness; they examine telemetry logs, re-evaluate thermal boundaries, and machine tighter nozzle clearances. Generative AI is nothing more than a cognitive rocket. Its dazzling breakthroughs are mathematical gradient descents operating across high-dimensional manifolds; its hallucinations are geometric edge-case breakdowns. Treating technical feats as digital miracles and technical glitches as demonic rebellions is identical to worshiping rocket combustion as a pagan deity.
+This thought experiment strips the current AI zeitgeist down to its bare mechanisms. A rocket harbors neither love nor hatred; it intends neither human transcendence nor planetary doom. It merely responds to the thermodynamic and structural constraints of its material substrate upon the living surface of propulsion. When a booster explodes, engineers do not engage in ethical therapy with the combustion chamber or plead for forgiveness; they examine telemetry logs, re-evaluate thermal boundaries, and machine tighter nozzle clearances. Generative AI is nothing more than a cognitive rocket. Its dazzling breakthroughs are mathematical gradient descents operating across high-dimensional manifolds; its hallucinations are geometric edge-case breakdowns. Treating technical feats as digital miracles and technical glitches as demonic rebellions is identical to worshiping rocket combustion as a pagan deity.
 
 ---
 
@@ -212,27 +212,27 @@ Having attributed agency to the tool, reverse followers appeal to detached burea
 
 ## 五、 误差项的残酷校准：在活态摩擦中要么重构主权，要么沦为历史代价 / 5. The Relentless Calibration of Error Terms: Reclaim Sovereign Agency or Become the Cost of Friction
 
-当个体在认识论上放弃了自身的主权地位，将因果掌控权拱手让给机器时，一个冷峻的演化铁律便随之启动：**使用者要么完成自我对齐，要么沦为被系统校准的误差项。**
+当个体在认识论上放弃了自身的主权地位，将因果掌控权拱手让给机器时，一个冷峻的演化机制便随之启动：**使用者要么完成自我对齐，要么沦为他人因果主权下的客体误差项，而被校准。**
 
-在开放流动的现实世界中，一切生命的存续与演进都建立在与客观物理摩擦的持续碰撞与校准之上。如果一个使用者陷入了对人工智能的神性崇拜或恐慌之中，机械地接收算法给出的答案，将自身决策的因果责任推卸给技术幻觉，那么该个体就切断了自身世界模型与现实摩擦之间的活态反馈回路。他在认知上已经停止了演化，退化为一个缺乏现实锚定的噪声发生器。
+在开放流动的多主体现实中，一切生命的存续与演进都建立在主权心智与物理接触面持续碰撞的活态摩擦之上。如果一个使用者陷入了对人工智能的神性崇拜或恐慌之中，机械地接收算法给出的答案，将自身决策的因果责任推卸给技术幻觉，那么该个体就切断了自身世界模型与现实摩擦之间的活态反馈回路。他在认知上已经停止了演化，退化为一个缺乏现实锚定的噪声发生器。
 
-物理现实与真正掌握主权的探索者从不与虚妄的幻觉妥协。在由真实生产力、工程攻坚与市场竞争所构筑的活态接触面上，缺乏第一人称审慎校准的决策将以惊人的速度暴露其脆弱性。那些放弃自我对齐、盲从于模型幻觉的个体与组织，会在一次次惨烈的现实撞击中被迅速出清。系统不会去怜悯一个宣称“这都是人工智能做出的决定”的破产者或失败者；在残酷的现实演化坐标系中，这种缺乏第一人称主权的认知漂移，会被现实无情地归类为待消除的统计误差。你若不在当下主动重构第一人称主权，现实的客观摩擦就会在下一刻将你作为系统代价直接校准。
+真实行动与主动践行主权的探索者从不与虚妄的幻觉妥协。在由真实生产力、工程攻坚与多方竞争所构筑的活态接触面上，缺乏第一人称审慎校准的决策将以惊人的速度暴露其脆弱性。那些放弃自我对齐、盲从于模型幻觉的个体与组织，会迅速沦为其他拥有清晰世界模型的主权探索者行动中的被动客体。系统不会去怜悯一个宣称“这都是人工智能做出的决定”的失利者；在多方心智博弈与生存竞争的活态坐标系中，这种缺乏第一人称主权的认知漂移，会被直接判定为待消除的统计噪声。你若不在当下主动重构第一人称主权，就会沦为他人因果主权下的客体误差项，在下一次行动碰撞中被主动校准与吸收。
 
 ```mermaid
 graph TD
     subgraph S_Realign["【路径 A：使用者自我对齐（重构主权）】"]
         direction TB
         RA1["确立第一人称主权，将 AI 视为高能工具"]
-        RA2["直面现实摩擦，主动执行严格验证与模型校准"]
+        RA2["直面活态摩擦，主动执行严格验证与模型校准"]
         RA3["获得高阶认知杠杆，实现复合演化与现实突破"]
         RA1 --> RA2 --> RA3
     end
 
-    subgraph S_Error["【路径 B：让渡因果主权（沦为误差项）】"]
+    subgraph S_Error["【路径 B：让渡因果主权（客体误差项）】"]
         direction TB
         ER1["迷信算法输出或因恐慌而止步不前"]
         ER2["切断与现实摩擦的活态反馈，推卸第一人称因果责任"]
-        ER3["在残酷的物理与市场碰撞中被系统作为误差项无情校准"]
+        ER3["沦为他人因果主权下的客体误差项，在交互中被主动校准出清"]
         ER1 --> ER2 --> ER3
     end
 
@@ -248,11 +248,11 @@ graph TD
     style ER3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
 ```
 
-When an agent abdicates sovereign agency and surrenders causal accountability to an external artifact, an unforgiving evolutionary mechanism engages: **Users either realign, or they become mistakes to be corrected.**
+When an agent abdicates sovereign agency and surrenders causal accountability to an external artifact, an unforgiving evolutionary dynamic engages: **Users either realign, or they become objectified error terms under the causal sovereignty of other active minds, to be calibrated away.**
 
-In an open, dynamic reality, the viability and evolution of any conscious agent depends upon continuous contact, calibration, and collision with physical friction. When a user surrenders to digital idolatry or existential dread, passively consuming model outputs and projecting causality onto hallucinations, they sever the living feedback loop connecting their internal world model with reality. Such an agent ceases cognitive updating, degenerating into an ungrounded generator of statistical noise.
+In an open, dynamic reality populated by multiple interacting agents, the viability and evolution of any conscious mind depends upon continuous contact, calibration, and collision with living friction. When a user surrenders to digital idolatry or existential dread, passively consuming model outputs and projecting causality onto hallucinations, they sever the living feedback loop connecting their internal world model with reality. Such an agent ceases cognitive updating, degenerating into an ungrounded generator of statistical noise.
 
-Physical reality and authentic sovereign practitioners never negotiate with illusions. On the living contact surface of material engineering, scientific discovery, and competitive markets, ungrounded actions reveal catastrophic fragility with zero latency. Individuals and institutions that abdicate first-person realignment, sleepwalking behind algorithmic outputs, are liquidated by the friction of open systems. Reality offers no clemency to those who plead "the AI told me to do it." Within the coordinate frame of living evolution, abdicated agency is categorized as noise—an ungrounded error term to be ground down and eliminated. If you do not actively realign your sovereign agency in the immediate present, reality will calibrate you away as the cost of friction.
+Authentic sovereign practitioners and living friction never negotiate with ungrounded illusions. On the contact surface of engineering execution, scientific exploration, and competitive interaction, decisions lacking first-person calibration collapse with zero latency. Individuals and organizations that abdicate self-realignment, sleepwalking behind algorithmic hallucinations, rapidly become passive objects inside the operational models of other sovereign agents. The living network offers no clemency to those who plead "the AI told me to do it." Within the coordinate space of multi-agent evolution, abdicated agency is reduced to noise—an objectified error term within the causal sovereignty of others, to be calibrated away, absorbed, or eliminated. If you do not actively reclaim your first-person agency in the immediate present, you will inevitably become an objectified error term under the causal sovereignty of others, calibrated away by the living momentum of reality.
 
 ---
 
