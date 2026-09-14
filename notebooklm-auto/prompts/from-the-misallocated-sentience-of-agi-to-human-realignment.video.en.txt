@@ -10,7 +10,7 @@ Have you noticed how our world is treating AI like a new religion? Half of socie
 
 [Epistemological Core: Artifacts and Free Choice]
 All artifacts are simply historical traces left by human free choice! Artifacts cannot inject free variables, which means they have zero intelligence. In our universe, there is only one true intelligence: the intelligence of the subjective conscious mind. AI is not intelligence—it is intelligence simulating and extending its own powers!
-Micro choices aggregate into normal distributions and compound into power-law or exponential shapes over time. But believing that statistical patterns constitute an inescapable cage over your life is itself your own sovereign choice. The apparent inconsistency of a free variable from the outside is simply the internal self-consistency of subjective choice!
+Micro choices aggregate into normal distributions and compound over time into power-law or exponential shapes. But believing that statistical patterns constitute an inescapable cage over your life is itself your own sovereign choice. The apparent inconsistency of a free variable from the outside is simply the internal self-consistency of subjective choice!
 
 [The Metaphor: Rocket Sentience]
 Imagine if we treated a space rocket this way: when Falcon 9 lands smoothly on a droneship, we bow down to its divine love; when a booster explodes at Max-Q, we panic over its evil hatred toward humanity. That sounds ridiculous, right? Rockets have no love and no hate—they just respond to thermodynamics and aerodynamics on the physical contact surface. When a rocket fails, engineers check metallurgy, they don't do ethical therapy with the engine. Today's AI is just a cognitive rocket: brilliant when computing gradients, flawed when extrapolating data, but devoid of an internal soul.
@@ -19,6 +19,6 @@ Imagine if we treated a space rocket this way: when Falcon 9 lands smoothly on a
 The tech world talks endlessly about "AI alignment"—trying to teach morality to math. But a hammer cannot be moral; morality belongs entirely to the human swinging it! And the "reverse followers" calling for bureaucratic regulators only end up crowning tech monopolies as the self-appointed guardians of our future.
 
 [The Punchline: Realign or Become the Error Term]
-True alignment is not what you do to the AI; it is the first-person realignment you do to yourself. In a reality shaped by active minds and living interaction, users either realign their own agency, or become objectified error terms under the causal sovereignty of other minds, calibrated away in the process. Stop looking for gods in the machine. Grip your own steering controls, and own your creation.
+True alignment is not what you do to the AI; it is the first-person realignment you do to yourself. What we call the "system" is just the macro trace of human choices—it has no consciousness. In a reality shaped by active minds, users either realign their own agency, or become objectified error terms under the causal sovereignty of other minds, calibrated away in the process. Stop looking for gods in the machine. Grip your own steering controls, and own your creation.
 
 Read the full essay at: https://powerpig99.github.io/not-a-toe/posts/from-the-misallocated-sentience-of-agi-to-human-realignment/
