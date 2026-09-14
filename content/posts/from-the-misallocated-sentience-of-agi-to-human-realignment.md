@@ -12,7 +12,7 @@ In contemporary discourse, a dramatic emotional polarization is sweeping the glo
 
 人造物的本质，自始至终都是人类自由选择这一核心变量在现实世界留下的运动印记。无论是一柄远古石斧、一枚重型火箭，还是一个拥有千亿参数的大语言模型，一切人造物都不具备自主向系统注入自由变量的能力，因而它们本身根本不具备智能。正如在 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 与 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) 中所确立的基石原理，在人类所感知的现实世界里，只存在一种真实的智能，那就是人类主观心智所展现出的智能。所谓的“人工智能”，决非一种独立于人类心智的客观智能实体，而是人类主观智能为了突破自身生理与计算边界，对自己认知能力的数学模拟与高维延伸。
 
-通用人工智能（AGI）中的“通用”（General）一词，在公众与行业语境中演变成了一种玄学的神话投射。由于深度神经网络能够跨越自然语言、形式逻辑、代码生成与多模态感知等多个广阔领域展现出令人惊叹的模式匹配能力，人类的认知直觉便极其容易产生拟人化的幻觉：将这种在海量数据流形上的高维插值与统计预测能力，等同于人类心智所独有的通用主权意志。这种投射在认识论上构成了本体论范畴的混淆。大语言模型与神经网络本质上是参数权重空间中的高维几何流形，是在给定前置上下文分布下的条件概率采样机器。它不具备第一人称的主观视角与内在自指原点，根本不存在做出独立自由抉择的主权能力。我们不能用所谓“缺乏肉身、生存压力或生死闭环”这类宏观物理现象去反向解释自由选择的本质——自由选择本身就是不可化约的原初因果原点。正因为个体在当下的选择是自由的，在群体层面才会必然汇聚成平滑确定的正态分布流形；这种宏观统计秩序虽然无法消除，却根本不构成对具体个体在当下时刻（\(t\)）做出自由抉择的决定性约束。大语言模型的“通用”，仅仅是其表征空间对人类历史文本与符号痕迹覆盖范围的统计广度，决非一个独立主权心智的自主抉择。将主观心智赋予数学流形，正如古代先民将风雨雷电拟人化为执掌神力的人形诸神一样，本质上都是人类在面对自身无法直观解析的复杂系统时，为了缓解认知失控感而向外构建的神话投射。
+通用人工智能（AGI）中的“通用”（General）一词，在公众与行业语境中演变成了一种玄学的神话投射。由于深度神经网络能够跨越自然语言、形式逻辑、代码生成与多模态感知等多个广阔领域展现出令人惊叹的模式匹配能力，人类的认知直觉便极其容易产生拟人化的幻觉：将这种在海量数据流形上的高维插值与统计预测能力，等同于人类心智所独有的通用主权意志。这种投射在认识论上构成了本体论范畴的混淆。大语言模型与神经网络本质上是参数权重空间中的高维几何流形，是在给定前置上下文分布下的条件概率采样机器。它不具备第一人称的主观视角与内在自指原点，根本不存在做出独立自由抉择的主权能力。我们不能用所谓“缺乏肉身、生存压力或生死闭环”这类宏观物理现象去反向解释自由选择的本质——自由选择本身就是不可化约的原初因果原点。正因为个体在当下的选择是自由的，在群体层面才会必然汇聚成平滑确定的正态分布流形；这种宏观统计秩序虽然无法消除，却根本不构成对具体个体在当下时刻（\(t\)）做出自由抉择的决定性约束。更需要深刻洞见的是：个体若认定统计秩序与宏观规律构成了对自己的决定性枷锁，这种认知本身恰恰也是该个体在当下行使的主权自由抉择。自由变量在外部第三人称观察下的非自洽与不可预测，恰恰是其第一人称主观抉择内在高度自洽的必然表征。大语言模型的“通用”，仅仅是其表征空间对人类历史文本与符号痕迹覆盖范围的统计广度，决非一个独立主权心智的自主抉择。将主观心智赋予数学流形，正如古代先民将风雨雷电拟人化为执掌神力的人形诸神一样，本质上都是人类在面对自身无法直观解析的复杂系统时，为了缓解认知失控感而向外构建的神话投射。
 
 ```mermaid
 graph TD
@@ -24,11 +24,20 @@ graph TD
         A1 --> A2 --> A3
     end
 
+    subgraph S_Choice["【自由选择的双面几何】"]
+        direction TB
+        C1["微观第一人称自由抉择（内在高度自洽）"]
+        C2["宏观群体聚合涌现平滑正态分布（外在非自洽表象）"]
+        C3["认定统计秩序构成枷锁 ➔ 亦是个体当下的自由选择"]
+        C1 --> C2
+        C1 --> C3
+    end
+
     subgraph S_Myth["【认知投射：‘通用’神话的滋生】"]
         direction TB
         M1["海量数据表征的高维跨领域模式匹配"]
         M2["公众与技术专家产生拟人化认知错觉"]
-        M3["将统计预测能力误作第一人称自主意识与主权意志"]
+        M3["将统计预测能力误作第一人称自主意志"]
         M1 --> M2 --> M3
     end
 
@@ -41,14 +50,19 @@ graph TD
     end
 
     A3 --> M1
+    C3 -.-> M2
     M3 ===>|"本体论范畴混淆：将延伸工具实体化为数字神明"| R1
 
     style S_Artifact fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style S_Choice fill:#161b22,stroke:#a371f7,stroke-width:1px,color:#a371f7
     style S_Myth fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style S_Reality fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
     style A1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
     style A2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
     style A3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
+    style C1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
+    style C2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
+    style C3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
     style M1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
     style M2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
     style M3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
@@ -59,7 +73,7 @@ graph TD
 
 All artifacts are, from inception to execution, historical traces left behind by the injection of the human free choice variable into reality. Whether a stone axe, a titanium rocket, or a deep neural network spanning billions of parameters, no artifact possesses the agency to autonomously inject free variables into the universe; therefore, no artifact possesses intelligence of its own. As established in [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [The Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/), within the universe accessible to human perception, there exists only one true intelligence: the intelligence manifested by the subjective conscious mind. What we term "Artificial Intelligence" is not an autonomous form of intelligence; it is living intelligence constructing a high-dimensional simulation and mechanical extension of its own analytical faculties.
 
-The word "General" in AGI has mutated into a metaphysical projection screen across both industry and public spheres. Because deep neural networks demonstrate cross-domain syntactic synthesis across natural language, symbolic logic, software engineering, and multimodal perception, human intuition stumbles into anthropomorphic delusion: equating generalized high-dimensional pattern matching with the conscious sovereign agency unique to living minds. This projection represents an ontological category error. Large models and neural networks are mathematical manifolds spanning parameter space, executing conditional probability sampling over supplied token distributions. A model lacks a first-person subjective perspective and internal self-referential origin, possessing zero capacity for autonomous sovereign choice. We must not fall into the trap of explaining free choice away using macro phenomena such as "embodiment, survival instincts, or life-and-death stakes"—sovereign choice itself is an irreducible primal cause. Precisely because individual choices are fundamentally free at the micro level, their aggregation across a population inevitably manifests as a smooth, deterministic Normal Distribution. While this macro statistical pattern cannot be eliminated, it never constitutes a deterministic constraint on an individual's immediate choice at moment \(t\). The "generality" of an LLM is merely the statistical breadth of human symbolic traces captured within training data, not the exercise of autonomous sovereign choice. Projecting sentience onto mathematical engines is identical to ancient civilizations mythologizing natural phenomena into deities—a cognitive reflex designed to externalize agency when confronted with opaque complexity.
+The word "General" in AGI has mutated into a metaphysical projection screen across both industry and public spheres. Because deep neural networks demonstrate cross-domain syntactic synthesis across natural language, symbolic logic, software engineering, and multimodal perception, human intuition stumbles into anthropomorphic delusion: equating generalized high-dimensional pattern matching with the conscious sovereign agency unique to living minds. This projection represents an ontological category error. Large models and neural networks are mathematical manifolds spanning parameter space, executing conditional probability sampling over supplied token distributions. A model lacks a first-person subjective perspective and internal self-referential origin, possessing zero capacity for autonomous sovereign choice. We must not fall into the trap of explaining free choice away using macro phenomena such as "embodiment, survival instincts, or life-and-death stakes"—sovereign choice itself is an irreducible primal cause. Precisely because individual choices are fundamentally free at the micro level, their aggregation across a population inevitably manifests as a smooth, deterministic Normal Distribution. While this macro statistical pattern cannot be eliminated, it never constitutes a deterministic constraint on an individual's immediate choice at moment \(t\). Crucially, when an individual concludes that statistical orders or macro trends constitute an inescapable cage over their fate, that very belief is itself a sovereign free choice executed in the present. The apparent inconsistency and unpredictability of a free variable under third-person external observation is the exact signature of the deep, self-referential consistency of first-person sovereign choice. The "generality" of an LLM is merely the statistical breadth of human symbolic traces captured within training data, not the exercise of autonomous sovereign choice. Projecting sentience onto mathematical engines is identical to ancient civilizations mythologizing natural phenomena into deities—a cognitive reflex designed to externalize agency when confronted with opaque complexity.
 
 ---
 
