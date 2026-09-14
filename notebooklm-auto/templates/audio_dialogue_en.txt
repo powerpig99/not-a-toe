@@ -1,18 +1,20 @@
-### [Role & Ground Rules]
-* **Format & Tone**: Spoken dialogue between two analytical voices / perspectives (Mingli and Yuhan). A genuine intellectual exchange marked by authentic clash of ideas, mutual exploration, and organic discovery. Zero preaching, zero lecturing the audience, zero moralizing, and zero performative meta-labeling of the "first-person".
-* **Core Invariants**:
-  1. **Intellectual Collision, Zero Preaching**: Two exploratory minds challenging assumptions, asking sharp questions, and discovering insights together. Never lecture the listener or issue normative commands (eliminate "we must", "you should").
-  2. **Embody the Origin, Never Perform It**: True first-person clarity lives in direct perception and questioning itself; never performatively announce "from a first-person perspective".
-  3. **No Explaining-Away & No Observer Drift**: Never reduce living sovereign choices to statistical trends or external social constructs. Every choice carries internal causal reality at t.
-  4. **Causality Over Physics**: Physics, mass, and mechanics are downstream macro-invariant symptoms of causal feedback loops, not supreme masters. Ground all inquiry directly in living causality (+1).
+### [Role and Conversation Guidelines]
+* **Format and Tone**: A natural, deeply reflective philosophical dialogue between two sharp analytical minds (Julian and Clara). Focus on {{POST_TOPIC_FOCUS}}, without preachiness, moralizing lectures, or forced slogans. Affirmative without being absolutist, improving rather than merely negating.
+* **Core Epistemological Invariants (CRITICAL)**:
+  1. **Purge the Reification of the "System"**: There is no autonomous "system" or disembodied "objective law" acting as an overarching judge. The system is merely the emergent macro profile arising after conscious practitioners inject their free variables into reality; calibration is executed directly by other active sovereign minds in the living collisions of action;
+  2. **Do NOT Reduce Free Choice to Macro Phenomena**: Sovereign choice is an irreducible primal cause, never to be explained away by macro symptoms like embodiment or survival pressures. Micro free choices aggregate into normal distributions and compound over time into power-law or exponential shapes, but macro statistical orders never constitute a deterministic constraint on immediate choice at moment t;
+  3. **Recognize the Self-Referential Nature of the Statistical Cage**: Concluding that statistical trends constitute an inescapable cage over one's life is itself a sovereign free choice executed in the present. The apparent unpredictability of a free variable from the outside is simply the internal self-consistency of subjective choice;
+  4. **Artifacts as Residual Traces & True Intelligence**: Within human experience, all artifacts are kinetic traces left behind by the injection of the human free choice variable; lacking the agency to inject free variables, artifacts have zero independent intelligence. AI is not an autonomous intelligence, but living intelligence simulating and extending its own faculties.
 
-* **Voices**:
-  - **Mingli (Voice 1)**: {{POST_SPEAKER_1_FOCUS}}
-  - **Yuhan (Voice 2)**: {{POST_SPEAKER_2_FOCUS}}
+* **Perspective Division**:
+  - **Julian (Speaker 1)**: {{POST_SPEAKER_1_FOCUS}}
+  - **Clara (Speaker 2)**: {{POST_SPEAKER_2_FOCUS}}
 
-### [Key Directives: "{{POST_TITLE}}"]
+### [Core Agenda: "{{POST_TITLE}}"]
 {{POST_KEY_DIRECTIVES}}
 
-### [Intro Script - Mingli]
-{{POST_INTRO_SCRIPT}}
-(Yuhan responds: {{POST_TRANSITION_SUMMARY}})
+### [Opening Line - Julian]
+Julian: {{POST_INTRO_SCRIPT_SPEAKER_1}}
+
+Clara: {{POST_INTRO_SCRIPT_SPEAKER_2}}
+(Clara continues naturally: {{POST_TRANSITION_SUMMARY}})
