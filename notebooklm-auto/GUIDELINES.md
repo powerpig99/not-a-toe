@@ -1,6 +1,6 @@
 # NotebookLM Auto Prompt Engineering & Publishing Copy Guidelines
 
-This document defines the canonical schemas, epistemological invariants, and generation standards for creating **NotebookLM Audio Overviews**, **Short-Form Video Scripts**, and **Multi-Platform Publishing Copy** (Spotify, WeChat Channels, and X) across the *Not a Theory of Everything (Not-A-TOE)* corpus.
+This document defines the canonical schemas, epistemological invariants, and generation standards for creating **NotebookLM Audio Overviews**, **Short-Form Video Scripts**, and **Multi-Platform Publishing Copy** across the *Not a Theory of Everything (Not-A-TOE)* corpus.
 
 ---
 
@@ -16,7 +16,7 @@ This document defines the canonical schemas, epistemological invariants, and gen
    - Never use metaphysical essentialist claims (avoid treating "essence" or "fundamentally" as disembodied objective entities).
    - Frame observations phenomenologically within first-person human experience and causal tracing.
 4. **Artifacts as Residual Traces**:
-   - All tools and artifacts (axes, rockets, LLMs) are historical traces left by the injection of human free choices. They lack the agency to autonomously inject free variables and possess zero independent intelligence.
+   - All tools and artifacts (axes, rockets, LLMs, harnesses) are historical traces left by the injection of human free choices. They lack the agency to autonomously inject free variables and possess zero independent intelligence.
    - Only conscious subjective minds possess true intelligence. AI is living intelligence mathematically simulating and extending its own faculties.
 5. **Duality of Free Choice vs. Statistical Distributions**:
    - Micro sovereign choices are free at moment t; their population aggregation naturally forms normal distributions and compounds over time into power-law or exponential forms.
@@ -26,17 +26,19 @@ This document defines the canonical schemas, epistemological invariants, and gen
 7. **Clean Typography & Minimalist Format**:
    - No raw LaTeX markup (use clean Chinese full-width brackets `（t）` and English text `moment t`).
    - Zero decorative emojis or gimmicky formatting across all prompts and publishing copies.
+8. **Ultra-Wide Cover Art (16:9 Landscape)**:
+   - All post covers are generated in ultra-wide 16:9 landscape format.
 
 ---
 
-## 2. Canonical File Structure & Naming Convention
+## 2. Canonical Prompt Structure (Streamlined)
 
-For each post with slug `<SLUG>`, the following 4 files are maintained in `notebooklm-auto/prompts/`:
+For each post with slug `<SLUG>`, the following 2 prompt files are maintained in `notebooklm-auto/prompts/`:
 
-1. **Chinese Audio Overview**: `<SLUG>_zh.txt`
-2. **English Audio Overview**: `<SLUG>.txt`
-3. **Chinese Video Monologue**: `<SLUG>_video_zh.txt`
-4. **English Video Monologue**: `<SLUG>_video_en.txt`
+1. **Chinese Audio Overview**: `<SLUG>_zh.txt` (Two analytical minds: 明理 & 雨涵)
+2. **Chinese Video Monologue**: `<SLUG>_video_zh.txt` (First-person reflective monologue)
+
+*(Note: Chinese prompts suffice for all audio and video generations; redundant English prompt text files are omitted.)*
 
 ---
 
@@ -68,36 +70,10 @@ For each post with slug `<SLUG>`, the following 4 files are maintained in `noteb
 (雨涵自然接话：...)
 ```
 
-### Schema B: English Audio Overview (`<SLUG>.txt`)
-```markdown
-### [Role and Conversation Guidelines]
-* **Format and Tone**: A natural, deeply reflective philosophical dialogue between two sharp analytical minds (Julian and Clara). Focus on ..., without preachiness, moralizing lectures, or forced slogans. Affirmative without being absolutist, improving rather than merely negating.
-* **Core Epistemological Invariants (CRITICAL)**:
-  1. [Invariant 1]
-  2. [Invariant 2]
-  3. [Invariant 3]
-  4. [Invariant 4]
-
-* **Perspective Division**:
-  - **Julian (Speaker 1)**: ...
-  - **Clara (Speaker 2)**: ...
-
-### [Core Agenda: "{{TITLE}}"]
-- [Agenda item 1]
-- [Agenda item 2]
-...
-
-### [Opening Line - Julian]
-Julian: [Opening thesis]
-
-Clara: [Response and pivot]
-(Clara continues naturally: ...)
-```
-
-### Schema C: Chinese Video Monologue (`<SLUG>_video_zh.txt`)
+### Schema B: Chinese Video Monologue (`<SLUG>_video_zh.txt`)
 ```markdown
 ### [短视频口述文案规范]
-* **定位与基调**：第一人称思辨独白，沉静、透彻、富有前沿视野与因果力量。从“...”切入，剖析...。肯定而不武断，不用否定来肯定，注重理解与改善。
+* **定位与基调**：第一人称思辨独白，沉静、透彻、富有前沿视野与因果力量。从“...”切入，剖析...。肯定而不武断，注重理解与改善。
 * **语言风格**：短句交错，层层递进，杜绝学术空话与说教腔调，直击人心。
 * **核心内容脉络**：
   1. **现象切入**：...
@@ -108,34 +84,20 @@ Clara: [Response and pivot]
 [口述逐字稿]
 ```
 
-### Schema D: English Video Monologue (`<SLUG>_video_en.txt`)
-```markdown
-### [Short-Form Video Monologue Guidelines]
-* **Positioning and Tone**: A first-person philosophical monologue, calm, piercing, rich in frontier vision and causal weight. Hooking from "...", dissecting ... Affirmative without being absolutist, improving rather than merely negating.
-* **Style**: Alternating concise rhythmic lines, progressive conceptual depth, zero academic jargon or preachiness.
-* **Core Narrative Arc**:
-  1. **The Hook**: ...
-  2. **Epistemological Root**: ...
-  ...
-
-### [Spoken Script]
-[Spoken script lines]
-```
-
 ---
 
 ## 4. Standardized Publishing Copy Schemas (Minimalist & Emoji-Free)
 
-### A. Spotify Podcast
+### A. Spotify Podcast (Chinese & English)
 * **Title Format (ZH)**: `EP<Number>｜<Core Chinese Title>`
-* **Description (ZH)**: 2 essayistic paragraphs + link: `完整长文：https://powerpig99.github.io/not-a-toe/posts/<slug>/`
+* **Description (ZH)**: 2 continuous essayistic paragraphs + link: `完整长文：https://powerpig99.github.io/not-a-toe/posts/<slug>/`
 * **Title Format (EN)**: `EP<Number> | <Core English Title>`
-* **Description (EN)**: 2 essayistic paragraphs + link: `Full essay: https://powerpig99.github.io/not-a-toe/posts/<slug>/`
+* **Description (EN)**: 2 continuous essayistic paragraphs + link: `Full essay: https://powerpig99.github.io/not-a-toe/posts/<slug>/`
 
-### B. WeChat Channels / Video Platforms
+### B. WeChat Channels / 微信视频号 (Chinese)
 * **Title Format**: `<Core Chinese Title>`
 * **Caption**: 2-3 concise paragraphs + link: `完整长文：https://powerpig99.github.io/not-a-toe/posts/<slug>/`
 
-### C. X (Twitter)
-* **EN Copy**: Clear opening thesis, 3-4 essayistic paragraphs, followed by `Read the full essay: https://powerpig99.github.io/not-a-toe/posts/<slug>/`
-* **ZH Copy**: 穿透性主张开篇，3-4段精炼剖析，末尾附 `完整长文：https://powerpig99.github.io/not-a-toe/posts/<slug>/`
+### C. X (Twitter) (English Only)
+* **Format**: Piercing thesis opening, 3-4 essayistic paragraphs, followed by `Read the full essay: https://powerpig99.github.io/not-a-toe/posts/<slug>/`
+*(Note: X distribution is strictly English-only.)*

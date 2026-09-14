@@ -9,6 +9,10 @@ This document defines the canonical, minimalist, emoji-free templates for publis
 - **Zero Emojis**: Strictly avoid all decorative emojis (no 🎧, 🎙️, 🎬, 🌐, 🧵, 🔗, 🇨🇳, 🇺🇸, etc.).
 - **No Gimmicky Formatting**: No artificial thread numbering prefixes (`1/`, `2/`) or nested bracket lists; maintain clean, modern, essayistic paragraphs.
 - **Single Canonical Link**: Include only the official post URL at the end of each platform copy.
+- **Language Boundaries**:
+  - **Spotify**: Chinese & English.
+  - **WeChat Video Channels**: Chinese.
+  - **X (Twitter)**: English only.
 - **Epistemological Precision**:
   1. No reification of "system" or "objective law".
   2. No essentialist claims or God's-eye view words (`本质`, `根本`, `自始至终`).
@@ -55,7 +59,7 @@ Full essay: https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
 
 ---
 
-### C. WeChat Video Channels / 微信视频号
+### C. WeChat Video Channels / 微信视频号 (Chinese)
 
 **Title Format**:
 ```text
@@ -75,7 +79,7 @@ Full essay: https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
 
 ---
 
-### D. X (Twitter) (English)
+### D. X (Twitter) (English Only)
 
 **Format**:
 ```text
@@ -92,86 +96,58 @@ Read the full essay: https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
 
 ---
 
-### E. X (Twitter) (Chinese)
-
-**Format**:
-```text
-{{OPENING_THESIS: 穿透性的主张开篇，直击当代认知盲区}}
-
-{{PARAGRAPH_1: 借由具体工程隐喻或思想实验拆解迷障}}
-
-{{PARAGRAPH_2: 划定人造物与活态主观心智的认识论界限}}
-
-{{PARAGRAPH_3: 揭示多主体博弈下的冷峻校准机制，唤醒第一人称造物主权}}
-
-完整长文：https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
-```
-
----
-
-## 3. Canonical Reference Example (Post #321)
+## 3. Canonical Reference Example (Post #322)
 
 ### Spotify (ZH)
 **Title**:
-EP321｜从AGI的神性错置到使用者的自我对齐
+EP322｜缰绳的倒置与驾驶位的主权非对称
 
 **Description**:
-面对人工智能的飞速演进，公众与行业正陷入一种奇特的情绪极化：一边是将大模型奉为全知全能的“数字神明”，另一边则是对灭世“失控恶魔”的生存恐慌。然而，无论是神迹崇拜还是恶魔恐惧，都在犯同一个范畴错误——把第一人称的主观心智与道德主体性，投射到了高维数学机器的“通用性”之上。如果人类把自主意识赋予一枚运载火箭，平稳入轨便成了神明赐福，解体爆炸便成了恶魔报复；但火箭受制于物理接触面，既无善恶也无罪责。今天的AI同样只是一枚认知火箭，试图给矩阵乘法植入道德自律的“AI对齐”，从一开始就错位了因果责任。
+面对软件工程界对AI智能体“控制缰绳”的普遍焦虑，人们习惯于将系统的确定性寄托在更精密的测试脚手架与规则沙箱之上，却忽视了一个核心定律：当使用者将自身的第一人称因果主权让渡给工具时，任何原本强大的能力都会在瞬间反向变成限制视界的认知天花板。这种主权的让渡不仅发生在使用外部框架时，更隐蔽地发生在使用“过去自我”所写的旧脚本与工作流中。昨天的最佳实践是昨天特定情境下的局部最优投影；一旦边界条件迁移，让新现实削足适履地迁就旧工具，昔日的解题能力就异化为了当下的认知牢笼。
 
-在人类的第一人称经验中，所有的人造物都是自由选择留下的历史印记，没有自主注入自由变量的能动性，因而在人类感知的范畴内并不具备独立智能。所谓的系统，只是无数践行者做出选择后涌现出的宏观现象，它本身没有意识。在多主体现实中，那些寄望于通过第三方官僚进行管制的逆向追随者，反而反向巩固了中心化算力巨头的话语垄断。面对多方博弈的活态现实，使用者要么重构自身的第一人称主权、对每一次提示词与现实落地承担完整责任，要么沦为他人因果主权下的客体误差项，在行动碰撞中被主动校准。
+在深度驾驭智能体的长期实践中，当代技术叙事产生了一个普遍的“母体误归因”：当系统展现出高维度的惊艳产出时，人们误以为是AI模型拥有超凡智慧。然而，真正发生深刻质变与跃迁的，是那位始终坐在驾驶位上、不断进行意图提纯、架构升维与对抗性校准的人类使用者自身。AI智能体只是一面高通量的数学镜子，反射出人类心智注入自由选择的光芒。面对相同的工具，交出方向盘的被动乘客迅速走向技能萎缩与认知平庸，而紧握控制手柄的主权驾驶员则迎来了千倍吞吐量的爆发。驾驶位永远不可空置，唯有始终握紧控制手柄，才能在活态摩擦中行使造物主权。
 
-完整长文：https://powerpig99.github.io/not-a-toe/posts/from-the-misallocated-sentience-of-agi-to-human-realignment/
+完整长文：https://powerpig99.github.io/not-a-toe/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/
 
 ---
 
 ### Spotify (EN)
 **Title**:
-EP321 | From the Misallocated Sentience of AGI to Human Realignment
+EP322 | The Inversion of the Harness and the Sovereignty of the Driver's Seat
 
 **Description**:
-In contemporary discourse around artificial intelligence, society is gripped by a dual religious fervor: worshiping large models as an omniscient digital god on one side, while trembling before an apocalyptic alien demon on the other. Both extremes commit the exact same category error by projecting first-person subjective sentience onto high-dimensional mathematical pattern matching. If we attributed sentience to an orbital rocket, a smooth landing would be divine grace, and a Max-Q explosion would be demonic wrath. But rockets only obey thermodynamics at physical contact surfaces; they carry neither malice nor virtue. AI is simply a cognitive rocket, and attempting to instill moral autonomy into matrix multiplication via "AI Alignment" is an evasion of human causal responsibility.
+Amid widespread engineering anxiety over designing 'control harnesses' for AI agents, society instinctively attempts to enforce reliability through heavier deterministic scaffolding and rule matrices. Yet this reflects a profound blind spot: the moment a user abdicates first-person causal agency to tools, every single capability inverts into an invisible cognitive ceiling. This peril arises not only when adopting external industry frameworks, but even more insidiously when relying on automated workflows created by one's own past self. Yesterday's optimal script was merely a local projection under yesterday's constraints; forcing fresh reality to conform to old schemas turns yesterday's breakthrough into today's dogmatic cage.
 
-Within human experience, all artifacts are kinetic traces left behind by human free choice, lacking the agency to inject free variables and possessing zero independent intelligence. What we call the "system" is merely the emergent macro trace of choices made by conscious agents. In a multi-agent reality, users who abdicate their first-person agency and demand bureaucratic intervention inadvertently crown corporate tech monopolies as the pacing masters of humanity. The decisive evolutionary choice is stark: either reclaim first-person causal sovereignty and realign oneself to the living friction of reality, or become an objectified error term under the causal sovereignty of other active minds, calibrated away in the process.
+In intensive multi-agent engineering, contemporary culture suffers from a pervasive 'Master Misattribution': when complex systems are executed with breathtaking velocity, spectators credit the autonomous intelligence of the AI model. In truth, what underwent an extraordinary cognitive phase shift was the human pilot remaining firmly in the driver's seat—compressing intent, elevating architectural clarity, and calibrating against runtime friction. AI is a high-bandwidth mathematical mirror multiplying human intent. Faced with identical models, passive passengers experience rapid skill atrophy and helplessness, while sovereign drivers multiply their creative throughput by a thousandfold. The driver's seat cannot be automated; grip the steering controls and own your creation.
 
-Full essay: https://powerpig99.github.io/not-a-toe/posts/from-the-misallocated-sentience-of-agi-to-human-realignment/
+Full essay: https://powerpig99.github.io/not-a-toe/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/
 
 ---
 
 ### WeChat Video Channels (微信视频号)
 **Title**:
-从AGI的神性错置到使用者的自我对齐
+缰绳的倒置与驾驶位的主权非对称
 
 **Caption**:
-当今世界正在对AI陷入奇特的情绪极化：一边奉为全知全能的数字神明，一边视为毁灭人类的异界恶魔。但真相是，人们把属于人类的心智与主权，错置到了数学公式之上。
+软件工程界正在为AI智能体的“控制缰绳”陷入集体焦虑，试图用更复杂的规则与测试沙箱圈禁概率模型。但这里的认识论盲区在于：当使用者让渡第一人称掌控权时，任何强大的能力都会反向异化为囚禁自身的牢笼。
 
-在人类的第一人称经验中，所有的人造物都是自由选择留下的历史运动印记，并不具备自主注入自由变量的能动性，因而在人类感知的范畴内并无独立智能。AI就像一枚认知火箭，平稳入轨不是神迹，解体爆炸亦非报复，它每一次惊艳是高维推演，每一次破缺是数学限制。试图让工具学会道德自律的“AI对齐”，从一开始就错位了责任。
+这种让渡不仅发生在使用别人的工具时，更发生在你依赖“过去的自己”所写的旧脚本中。昨天写下的精妙工作流是应对当时摩擦的脚手架；如果边界条件迁移后依然机械套用，昨天的能力就成了今天最坚固的认知天花板。
 
-所谓的系统只是无数人做出选择后的宏观现象，它本身没有意识。在多主体博弈中，使用者要么握紧手柄重构第一人称主权，对自己的每一次指令承担责任；要么沦为他人因果主权下的客体误差项，在碰撞中被主动校准。
+更需要穿透的是“母体误归因”：长期驾驭智能体所带来的惊艳交付，真正发生跃迁的决非概率矩阵本身，而是那位始终占据驾驶位、不断进行意图提纯与架构升维的你自身！AI是放大器，被动乘客走向技能萎缩，主权驾驶员迎来千倍爆发。握紧你的控制手柄，在真实世界行使属于你的造物主权！
 
-完整长文：https://powerpig99.github.io/not-a-toe/posts/from-the-misallocated-sentience-of-agi-to-human-realignment/
-
----
-
-### X (Twitter) (EN)
-The dual religious fever around AI—worshiping an omniscient digital god vs. dreading an existential demon—is a profound epistemological category error. Both extremes project first-person subjective consciousness onto high-dimensional mathematical machines.
-
-If society treated orbital rocketry this way, a smooth landing would be hailed as divine grace, and a Max-Q explosion would be feared as demonic wrath. But rockets possess neither benevolence nor malice; they simply respond to thermodynamics and aerodynamics at the physical contact surface. AI is nothing more than a cognitive rocket. Attempting to instill moral autonomy into matrix multiplication through "AI Alignment" is an evasion of human causal ownership.
-
-Within human experience, all artifacts are historical traces left behind by the injection of human free choice. Lacking the agency to inject free variables into reality, artifacts possess zero independent intelligence. AI is living intelligence mathematically simulating and extending its own faculties.
-
-What we call the "system" is merely the emergent macro profile arising after conscious practitioners act. In a multi-agent reality, users who abdicate their agency and appeal to third-party bureaucrats inadvertently crown tech monopolies as the pacing masters of civilization. The choice is clear: either execute first-person Human Realignment and own your causal trajectory, or become an objectified error term under the causal sovereignty of other active minds, calibrated away in the process.
-
-Read the full essay: https://powerpig99.github.io/not-a-toe/posts/from-the-misallocated-sentience-of-agi-to-human-realignment/
+完整长文：https://powerpig99.github.io/not-a-toe/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/
 
 ---
 
-### X (Twitter) (ZH)
-围绕AI的狂热崇拜与灭世恐慌，在几何上是同构的范畴错误：人们把本属于人类的第一人称心智与主权，错置到了高维数学机器之上。
+### X (Twitter) (EN Only)
+Every capability becomes a limitation when the user hands off their own agency to the tools, whether created by others or improved by their past self.
 
-正如将运载火箭拟人化是荒谬的——火箭入轨不是神迹赐福，空中解体亦非恶魔报复，它只受制于物理接触面。AI同样是一枚认知火箭，每一次惊艳是高维推演，每一次破缺是数学限制。试图让算法学会道德自律的“AI对齐”，从一开始就错位了因果责任；铁锤没有道德，道德永远在挥锤的人心中。
+The software world is currently obsessed with 'rethinking harnesses' for AI agents—attempting to build heavier guardrails, test matrices, and deterministic sandboxes. Yet this search for the 'perfect harness' conceals a category error: expecting static artifacts to guarantee correctness while abdicating the first-person driver's seat.
 
-在人类的第一人称经验中，所有的人造物都是自由选择留下的历史印记，没有自主注入自由变量的能动性，因而在人类感知的范畴内并不具备独立智能。现实中只有一种被直接体验到的智能，那就是人类主观心智展现出的智能；AI不是独立智能，而是主观智能对自己认知能力的数学模拟与高维延伸。
+This danger is especially acute with workflows built by your own past self. Yesterday's brilliant script was a living response to yesterday's friction; treating it as a permanent rule turns yesterday's lever into today's cognitive ceiling. All artifacts are disposable scaffolding to be reconstructed at immediate moment t.
 
-所谓的系统只是无数践行者做出选择后涌现的宏观现象。预设工具具有神性而呼吁行政管制的“逆向追随者”，反而反向巩固了算力巨头的调速权与话语垄断。在多主体博弈中，使用者要么重构第一人称主权，对提示词与现实落地承担完整责任；要么沦为他人因果主权下的客体误差项，在行动碰撞中被主动校准。
+And here lies the Master Misattribution of our era: when a practitioner spends thousands of hours in the driver's seat delivering complex architectures with AI agents, society praises the model's 'intelligence'. In reality, what underwent an explosive phase shift was the human pilot—forced to distill intent, elevate systems perception, and calibrate against live friction.
 
-完整长文：https://powerpig99.github.io/not-a-toe/posts/from-the-misallocated-sentience-of-agi-to-human-realignment/
+AI agents do not democratize capability; they are raw sovereign amplifiers. Passive passengers suffer rapid cognitive atrophy, while sovereign drivers multiply their causal throughput by a thousandfold. The driver's seat cannot be automated.
+
+Read the full essay: https://powerpig99.github.io/not-a-toe/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/
