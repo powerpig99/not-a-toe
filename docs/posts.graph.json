@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-15T06:05:34.287Z",
+    "generated_at": "2026-09-15T09:53:07.588Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -290,6 +290,7 @@
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "1ebeb38ad32d",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
+      "content/posts/the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function.md": "9860e08d62ae",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "cc15ad74f8c8",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "867d7eb50692",
       "content/posts/the-unclosable-trace.md": "323441205233",
@@ -335,13 +336,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 325,
-      "edges": 3123,
-      "unique_directed": 2956,
+      "posts": 326,
+      "edges": 3141,
+      "unique_directed": 2964,
       "missing_targets": 0,
-      "one_way": 742,
+      "one_way": 750,
       "isolated": 43,
-      "posts_with_outbound": 260
+      "posts_with_outbound": 261
     }
   },
   "hubs_in": [
@@ -363,11 +364,11 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 49
+      "in_degree": 50
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 48
+      "in_degree": 49
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -1938,7 +1939,7 @@
       "path": "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md",
       "title": "从AGI的“神性错置”到使用者的自我对齐：要么重构主权，要么沦为被校准的误差项 / From the Misallocated Sentience of AGI to Human Realignment: Reclaim Sovereign Agency or Become the Error Term",
       "hash": "66949b654960",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 4,
       "links_out": [
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -2263,7 +2264,7 @@
       "path": "content/posts/how-to-fix-your-whole-life-in-one-split-second.md",
       "title": "How to Fix Your Whole Life in One Split Second",
       "hash": "25d5b96ef2da",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 11,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -2738,7 +2739,7 @@
       "path": "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md",
       "title": "Moral Language Dilutes the Feedback That Scales Freedom",
       "hash": "bc4d65cbecdd",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 11,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -3212,7 +3213,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "84775e991e01",
-      "in_degree": 48,
+      "in_degree": 49,
       "out_degree": 30,
       "links_out": [
         "failure-as-information",
@@ -4644,7 +4645,7 @@
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释：能动性错置如何制造虚假风险与责任转嫁的次生灾害 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop: How Misallocated Agency Spawns False Risk and Compounded Secondary Debris",
       "hash": "8043d358a27f",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 8,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -5245,7 +5246,7 @@
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称：能力为何沦为束缚，以及对AI智能体能力的母体误归因 / The Inversion of the Harness and the Sovereignty of the Driver's Seat: Why Capabilities Become Limitations and the Master Misattribution of AI Agents",
       "hash": "d11cacbcd4b1",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 8,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -6204,7 +6205,7 @@
       "path": "content/posts/the-risk-you-delegate-is-the-risk-you-create.md",
       "title": "The Risk You Delegate Is the Risk You Create",
       "hash": "0c0def0b9e6b",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 2,
       "links_out": [
         "restriction-is-a-selective-tax",
@@ -6247,7 +6248,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3fcc945ba028",
-      "in_degree": 49,
+      "in_degree": 50,
       "out_degree": 32,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6491,6 +6492,26 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "kind": "post",
+      "slug": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "path": "content/posts/the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function.md",
+      "title": "扣动扳机的人、拒付的账单与损失函数的活态优化：为什么一切安全问题皆源于因果回路的断裂 / The Trigger Puller, the Refusal of the Tab, and the Living Optimization of the Loss Function: Why All Safety Issues Stem from Severed Causal Loops",
+      "hash": "9860e08d62ae",
+      "in_degree": 0,
+      "out_degree": 8,
+      "links_out": [
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "from-the-misallocated-sentience-of-agi-to-human-realignment",
+        "the-risk-you-delegate-is-the-risk-you-create",
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "ownership-and-self-worthiness",
+        "how-to-fix-your-whole-life-in-one-split-second",
+        "the-scaffolding-we-forget"
+      ]
     },
     {
       "id": "post:the-twin-paradox-and-the-hidden-observer",
@@ -23631,6 +23652,114 @@
       "to": "the-geometry-of-emergence",
       "rel": "points_to",
       "label": "The Geometry of Emergence"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "从AGI的“神性错置”到使用者的自我对齐"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "From the Misallocated Sentience of AGI to Human Realignment"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "the-risk-you-delegate-is-the-risk-you-create",
+      "rel": "points_to",
+      "label": "你委托的风险就是你创造的风险"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "道德语言稀释了衡量自由的反馈回路"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "the-risk-you-delegate-is-the-risk-you-create",
+      "rel": "points_to",
+      "label": "The Risk You Delegate Is the Risk You Create"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "所有权与自我配得感"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "一瞬间修复整个人生"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to Fix Your Whole Life in One Split Second"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "被遗忘的脚手架"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-trigger-puller-the-refusal-of-the-tab-and-the-living-optimization-of-the-loss-function",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
