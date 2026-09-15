@@ -1,5 +1,5 @@
 ---
-title: "“物理学才是定律”的障眼法：形式模型、宏观摩擦，以及未被定律决定的现实 / The Sleight of Hand in "Physics Is the Law": Formal Models, Macroscopic Friction, and a Reality Undetermined by Law"
+title: "“物理学才是定律”的障眼法：形式模型、宏观摩擦，以及未被定律决定的现实 / The Sleight of Hand in 'Physics Is the Law': Formal Models, Macroscopic Friction, and a Reality Undetermined by Law"
 date: 2026-03-24T15:00:00+08:00
 draft: false
 tags: ["Physics", "Elon Musk", "SpaceX", "Reality", "Causal Feedback", "First-Person Sovereignty", "Epistemology", "Cybernetics", "Loss Function"]
