@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-15T12:23:37.323Z",
+    "generated_at": "2026-09-15T12:28:52.995Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -282,7 +282,7 @@
       "content/posts/the-scaffolding-we-forget.md": "3fcc945ba028",
       "content/posts/the-scaling-loop.md": "deedfa49f780",
       "content/posts/the-shadow-and-the-infinite.md": "a69ecbb22afe",
-      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "00da53201c05",
+      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "fe63e13a5c34",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
       "content/posts/the-sovereign-blinding.md": "888e3fbe6aee",
@@ -338,10 +338,10 @@
     },
     "stats": {
       "posts": 327,
-      "edges": 3162,
-      "unique_directed": 2974,
+      "edges": 3168,
+      "unique_directed": 2977,
       "missing_targets": 0,
-      "one_way": 760,
+      "one_way": 763,
       "isolated": 43,
       "posts_with_outbound": 262
     }
@@ -1486,7 +1486,7 @@
       "path": "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md",
       "title": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog",
       "hash": "bc0a82323095",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 2,
       "links_out": [
         "the-continuum-is-a-modeling-convenience",
@@ -4407,7 +4407,7 @@
       "path": "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md",
       "title": "黑白采样帧与外推宇宙：物理学如何冻结现实电影并将投影命名为宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe: How Physics Froze the Movie of Reality and Named the Projection the Cosmos",
       "hash": "f75bf1e4a4a6",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 4,
       "links_out": [
         "the-twin-paradox-and-the-hidden-observer",
@@ -5338,7 +5338,7 @@
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体：从感知、法则到人工智能的本体论跃迁 / The Ladder of Abstraction and the Executable Entity: From Perception and Laws to the Ontological Leap of Artificial Intelligence",
       "hash": "984b919412fd",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "climbing-does-not-leave-the-ground",
@@ -6343,14 +6343,17 @@
       "slug": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法：形式模型、宏观摩擦，以及未被定律决定的现实 / The Sleight of Hand in \"Physics Is the Law\": Formal Models, Macroscopic Friction, and a Reality Undetermined by Law",
-      "hash": "00da53201c05",
+      "hash": "fe63e13a5c34",
       "in_degree": 0,
-      "out_degree": 7,
+      "out_degree": 10,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-risk-you-delegate-is-the-risk-you-create",
         "ownership-and-self-worthiness",
+        "demanding-a-toe-freezes-time-into-a-catalog",
+        "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "the-ladder-of-abstraction-and-the-executable-entity",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
         "openness-is-consistency"
@@ -23345,6 +23348,42 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "要求“万物理论”是将时间冻结为标本目录"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "rel": "points_to",
+      "label": "黑白采样帧与外推宇宙"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "抽象阶梯与可执行实体"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "Demanding a 'TOE' Freezes Time into a Catalog"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "rel": "points_to",
+      "label": "The Black-and-White Sample Frame and the Extrapolated Universe"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "The Ladder of Abstraction and the Executable Entity"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
