@@ -210,11 +210,18 @@ Physics is not an external decree handed down from above; it is the computationa
 破除“客观物理铁律”的神话，决非意味着现实是一场毫无逻辑、随机凭空冒出的混乱杂耍。恰恰相反，倘若现实的自我实现脱离了严密的因果相续，世界上的一切事物都将失去可解释性与可理解性，工程迭代、传感器遥测、反馈闭环与损失函数也将全然沦为荒谬的无用之物。现实之所以能够被人类认知并与之交互，正是因为因果关联始终在紧密无缝地延展。
 
 那么，既然因果律如此严密，微观层面的非确定性与现实世界中的不可预测性又从何而来？
-深层机制在于：**所谓的“随机性”或“非确定性”，仅仅在观察者企图去客体化观测“终极因果源头”（Ultimate Cause）时才会显现。** 
-终极因果源头断非某种被动的客观物象，它正是**一切变化的源头（The source of change）**，是观察行为本身的创生起点。观察者不可能抽离自身、站在一个虚无的外在视界去客体化地“凝视”变化的源头。这一不可观测的终极因果源头，在人类经验的不同观测视界上，映射出了三重截然不同却同根共源的表征：
-1. **当它在第一人称内部被直接体认与经验时，它正是自由抉择（Freedom of choice）**：身处驾驶位的心智在此时此地自主注入自由变量、下达行动指令；
-2. **当它在物理世界中被客体化仪器观测时，它正是量子力学（Quantum mechanics）**：观测仪器在微观测度上遭遇波函数的概率坍缩与测量不确定性，那是客体化透镜面对创生源头时必然留下的认识论边界；
-3. **当它在另一个主体心智中被外部审视时，它正是个体的不可预测性（Unpredictability of individuals）**：任何外在算法与机械模型，都无法穷尽预测另一个拥有主权的心智在面对现实时的抉择跃迁。
+此处必须极其审慎，决不能给人留下“事物是从虚无中凭空冒出”的错觉：**因果律实际上延伸到了量子视界之外！** 
+
+正如在 [要求“万物理论”是将时间冻结为标本目录](../demanding-a-toe-freezes-time-into-a-catalog/) 与 [黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) 中所阐释，现代物理学所确立的**普朗克常数（`h ≠ 0`）与普朗克时间（`t_P`）**，从来不是宇宙锁死人类认知的外在铁笼，而是心智借助物理仪器感知实在时所固有的**网格分辨率（Resolution）与最高刷新率（Refresh Rate）**。在 [抽象阶梯与可执行实体](../the-ladder-of-abstraction-and-the-executable-entity/) 中我们指出，物理实在以普朗克尺度为离散跳跃点、以不可逆因果为驱动力，逐帧在粗粝的摩擦中被刷新生成。
+
+量子视界（Quantum Horizon）由此呈现出它的真实认识论图景：它断非因果发生断裂的深渊，而仅仅是人类观测能力的硬件像素极限，是我们已知现实的视界边界！我们可以合乎理性地推断——尽管受限于物理仪器的采样分辨率而永远无法在视界之下直接微分或连续追踪——在量子视界之外，现实的自我展开依然严密地遵循着因果相续。然而，正因为物理仪器的采样帧无法超越普朗克分辨率去捕获背后的超微观因果细节，这种被硬件刷新率所截断的连续因果，在客观读数上便必然显现为了所谓的“非确定性”与“波函数概率坍缩”。
+
+这种观测视界的分辨率机制，与我们在第一人称中所经验的自由抉择全然同构，正如“同一枚硬币的正反两面”：
+1. **当从第一人称内部向内审视时**：心智身处决策生成的因果源头，因果相续是连贯且清醒的，我们同时体验到对意志的掌控感与充分的自由抉择（Freedom of choice）；
+2. **当从外部第三人称视角去观测另一个主体时**：外部观察者无法穿透主体内在的心智视界，正如仪器无法突破普朗克网格像素一样，原本在内部清晰连贯的因果决策，在外部便显现为**个体的不可预测性（Unpredictability of individuals）**；
+3. **当物理仪器在微观世界探测深层实在时**：仪器遭遇的正是由普朗克尺度界定的**量子视界（Quantum mechanics）**——因果并未在视界处终止，但因为测量仪器无法探查其自身刷新率之外的因果微元，它在观测屏幕上便呈现为量子力学中的非确定性。
+
+因此，所谓的“随机性”或“不可预测性”，决非因果法则发生了凭空破裂，而仅仅是**外在观测透镜遭遇其分辨率与刷新率极限时的必然投影**！
 
 现实像一条永不停歇、波澜壮阔的活态激流，它在严密的因果链条中自我展开，而其奔涌的源头永远无法被客体化封印。人类所做的一切建模与构想，都不过是在激流中搭建起来的局部堤坝。激流不是因为“遵守了流体力学”才流动，它只是在奔涌；当人类依据流体力学搭建的堤坝被激流冲决时，并不是堤坝“违反了规律”，而是奔涌的现实本身再一次冲垮了人类企图用静止概念对其进行裁决的虚妄僭越。
 
@@ -226,17 +233,17 @@ graph TD
         direction TB
         M1["假设存在客观的宇宙立法者或外在铁律（TOE）"]
         M2["将黑板上的形式方程误认为统治自然的法典"]
-        M3["误将无法观测的变动源头视为虚无的偶然乱码"]
+        M3["误将视界外的因果视为虚无凭空的随机乱码"]
         M1 --> M2 --> M3
     end
 
-    subgraph S_Causality["【因果实在论：自我实现与终极因果源头的三重显现】"]
+    subgraph S_Causality["【非万物理论视角：普朗克视界与因果连续性】"]
         direction TB
-        K1["现实自我展开：严格遵循不可割裂的因果律（断非随机涌现）"]
-        K2["终极因果源头（变化之源）：无法被外在客体化观测"]
-        K3A["第一人称内体认 ➔ 自由抉择（注入自由变量）"]
-        K3B["物理仪器外观测 ➔ 量子力学（非确定性与波函数）"]
-        K3C["观察他者主体 ➔ 个体不可预测性（主权抉择）"]
+        K1["现实自我展开：严格遵循不可割裂的因果律（延伸至量子视界外）"]
+        K2["普朗克尺度（h ≠ 0, t_P）：现实的刷新率与观测分辨率极限"]
+        K3A["第一人称内审视 ➔ 意志掌控与充分的自由抉择"]
+        K3B["物理仪器外观测 ➔ 量子力学（刷新率极限处呈现的非确定性）"]
+        K3C["外部审视他者心智 ➔ 不可预测性（无法穿透主体内在视界）"]
         K1 --> K2
         K2 --> K3A
         K2 --> K3B
@@ -272,11 +279,18 @@ Crucially, we must establish this point with rigorous clarity: **reality's ongoi
 Dismantling the myth of immutable "objective physical laws" does not imply that reality is an arbitrary, chaotic void that randomly pops up unprompted. Quite the contrary: without strict adherence to unbroken causality, nothing could make sense. Engineering iteration, sensor telemetry, cybernetic feedback loops, and loss-function calibrations would instantly collapse into incoherence. Reality can be interfaced with and understood precisely because causality is seamless and unbroken.
 
 Where, then, does the apparent randomness or indeterminism of the universe originate?
-The answer is profound: **randomness and indeterminism appear solely when an observer attempts to objectively observe the ultimate cause.**
-The ultimate cause is inherently unobservable from an external vantage point because it is **the very source of change**—the generative origin of the observational act itself. One cannot stand outside the origin of change to objectify and dissect it. This unobservable causal origin manifests in three distinct ways across different observational horizons:
-1. **When felt from the first person, it is the freedom of choice**: the conscious mind in the driver's seat injecting novel intentional vectors into the operational loop;
-2. **When observed in the physical world through instruments, it is quantum mechanics**: the measurement apparatus confronts probability amplitudes and wave-function collapse, which represent the epistemological boundary where objectification meets the generative source of change;
-3. **When observed in another mind from a third-person perspective, it is the unpredictability of individuals**: no external deterministic model can fully anticipate the sovereign choices of another conscious agent.
+Here we must exercise extreme precision to eliminate any misleading impression that events emerge "out of nowhere": **in truth, causality extends far beyond the quantum horizon!**
+
+As established in [Demanding a 'TOE' Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/) and [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/), the fundamental constants recognized by modern physics—namely the **Planck constant (`h ≠ 0`)** and **Planck time (`t_P`)**—are not an objective iron cage locking reality in place. Rather, they represent the intrinsic **pixel resolution and refresh rate of reality** as captured by human observational instruments. As further demonstrated in [The Ladder of Abstraction and the Executable Entity](../the-ladder-of-abstraction-and-the-executable-entity/), physical reality renders discretely at the Planck scale, refreshed frame by frame through irreversible causal friction.
+
+The quantum horizon thus reveals its true epistemological meaning: it is not a cosmic abyss where causality suddenly ceases, but simply the hardware resolution limit of our measurement instruments—the boundary of reality as we can currently observe it. We can reasonably infer—even though our physical sensors cannot peer past their minimum pixel resolution—that beyond the quantum horizon, reality's self-realization strictly adheres to causal continuity. Yet because our instruments cannot resolve the sub-Planckian causal threads, this insurmountable resolution boundary inevitably projects onto our macroscopic gauges as "indeterminism" and wave-function probabilities.
+
+This resolution boundary dynamic mirrors the exact structure of first-person freedom of choice—forming two sides of the same causal coin:
+1. **When experienced from the inside in the first person**: Situated at the generative origin of action, causal continuity is coherent and lucid; we simultaneously experience conscious control and total freedom of choice;
+2. **When observed from the outside in another mind**: Just as physical instruments cannot penetrate beneath the Planck grid, an external observer cannot peer across another conscious agent's subjective horizon; what feels like directed, self-coherent causality from the inside appears from the outside as **the unpredictability of individuals**;
+3. **When physical instruments probe micro-reality**: They hit the **quantum horizon** defined by the Planck resolution—causality does not terminate beyond this threshold, but because instruments cannot look beyond their own refresh rate, it registers as quantum indeterminism.
+
+Therefore, apparent "randomness" or "indeterminism" is never evidence of causality breaking down; it is solely the artifact of an external perspective encountering the resolution and refresh-rate limit of its observational screen!
 
 Reality resembles an unceasing, high-dimensional torrent unfolding strictly through causal continuity, whose generative spring cannot be petrified into an objective formula. Every human model is a temporary scaffold erected within this current. The river does not flow because it "obeys fluid mechanics"; it simply flows. When human scaffolding is shattered by the current, the structure did not "violate a law"; rather, reality overflowed the finite conceptual containers designed to constrain it.
 
