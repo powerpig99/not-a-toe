@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-15T13:29:54.031Z",
+    "generated_at": "2026-09-15T20:38:01.721Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -226,6 +226,7 @@
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "8195e0951a4b",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "76d8afca59d0",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "08ea521b7d2e",
+      "content/posts/the-illusion-of-the-unmediated.md": "8d7638e697d6",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "20cc20e40f0b",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
@@ -336,13 +337,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 326,
-      "edges": 3150,
-      "unique_directed": 2969,
+      "posts": 327,
+      "edges": 3158,
+      "unique_directed": 2972,
       "missing_targets": 0,
-      "one_way": 755,
+      "one_way": 758,
       "isolated": 43,
-      "posts_with_outbound": 261
+      "posts_with_outbound": 262
     }
   },
   "hubs_in": [
@@ -4645,7 +4646,7 @@
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释：能动性错置如何衍生表观风险与责任转嫁的次生后果 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop: How Misallocated Agency Derives Apparent Risk and Compounded Secondary Consequences",
       "hash": "3c671df7b223",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 11,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -5191,6 +5192,21 @@
       "links_out": []
     },
     {
+      "id": "post:the-illusion-of-the-unmediated",
+      "kind": "post",
+      "slug": "the-illusion-of-the-unmediated",
+      "path": "content/posts/the-illusion-of-the-unmediated.md",
+      "title": "“非中介化”的幻象：主义的倒置、责任的外包与恩赐自由的解构 / The Illusion of the Unmediated: On the Inversion of All \"-isms\" and the Anatomy of Bestowed Freedom",
+      "hash": "8d7638e697d6",
+      "in_degree": 0,
+      "out_degree": 3,
+      "links_out": [
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality"
+      ]
+    },
+    {
       "id": "post:the-imagining-of-ai-risk",
       "kind": "post",
       "slug": "the-imagining-of-ai-risk",
@@ -5249,7 +5265,7 @@
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称：能力为何沦为束缚，以及对AI智能体能力的母体误归因 / The Inversion of the Harness and the Sovereignty of the Driver's Seat: Why Capabilities Become Limitations and the Master Misattribution of AI Agents",
       "hash": "d11cacbcd4b1",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 8,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -6343,7 +6359,7 @@
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法：形式模型、宏观摩擦，以及未被定律决定的现实 / The Sleight of Hand in \"Physics Is the Law\": Formal Models, Macroscopic Friction, and a Reality Undetermined by Law",
       "hash": "907328462f77",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 10,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -20153,6 +20169,54 @@
       "to": "the-residue-and-the-free-variable",
       "rel": "points_to",
       "label": "The Residue and the Free Variable"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理学才是定律”的障眼法"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
     },
     {
       "from": "the-imagining-of-ai-risk",
