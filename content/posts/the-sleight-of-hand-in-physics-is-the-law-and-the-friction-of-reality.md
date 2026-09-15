@@ -90,42 +90,45 @@ Ironically, even within formal physics, 20th-century discoveries dismantled the 
 
 如果现实真的由物理定律所决定、所导引，那么一个全然按照物理定律严格计算、严谨构建的火箭系统，在逻辑上理应一次性毫无悬念地平稳入轨。现实中就不应该存在爆炸，不应该存在振颤，更不应该存在意料之外的金属疲劳。火箭之所以爆炸，正是因为：**现实断非由物理定律所决定！**
 
-物理定律只是人类在有限观测数据中提炼出的低维近似切片，而现实中错综复杂的非线性耦合、微观材料缺陷、瞬态流体谐振与极端温差冲击，永远存在于既有物理模型的视野盲区之中。火箭升空后遭遇的不是抽象的数学方程，而是深不可测的现实本身。当理论模型与现实的未建模部分发生冲突时，这种冲突便不可遏制地在后果中爆发为宏观的物理摩擦现象——超温、脱落、破裂与爆炸。
+从这里可以看出：**所谓的工程事故，也决非因为工程师“违反了物理定律”。**
+正如前面所强调的，任何受过严密训练的工程师，必然是严格按照已知物理定律与数学模型来计算受力、分配推力并设计产品的；没有任何工程师会故意或偶然设计出一款违背已知物理规律的系统。工程事故之所以爆发，深层机制在于：**现实中存在着大量此前并未进入工程师视野的现实参数——例如微观材料瑕疵、流体瞬态湍流谐振、局部热应变极限或极端工况下的非线性耦合——这些参数在设计阶段未被考虑、无法测量，或在理想化的模型抽象中被忽略了。**
 
-爆炸不是物理法则对“违规者”的惩罚，而是现实以极其剧烈的方式向人类宣告：**你所依赖的物理模型与现实发生了冲突，现实冲破了你试图框定它的有限容器！**
+当这一在理论上严密符合“物理定律”的造物投入实际运行时，那些未曾进入视野的现实参数便与有限模型发生了剧烈冲突。这种源于认知盲区的接触面摩擦，在系统的高能流动与正反馈级联中被急剧放大，最终呈现为了灾难性的结构破裂与火光爆炸。
+
+爆炸不是物理法则对“违规者”的惩罚，而是现实以极其剧烈的方式向人类宣告：**你的模型遗漏了未进入视野的现实参数，而你与现实的未建模摩擦被急剧放大成了事故！**
 
 ```mermaid
 graph TD
-    subgraph S_Fallacy["【决定论神话：以为系统遵循定律就能保证成功】"]
+    subgraph S_Fallacy["【决定论神话：将事故归咎于“违反物理定律”】"]
         direction TB
-        F1["工程方案严格遵循已知物理学定律构建"]
-        F2["预设：现实受物理定律严格导引与决定"]
-        F3["逻辑推论：按照定律设计的火箭必然一次成功"]
-        F4["遭遇现实爆炸 ➔ 陷入认知惊诧与神秘化对齐困境"]
-        F1 --> F2 --> F3 --> F4
+        F1["设计假设：现实受物理定律严格统摄"]
+        F2["事故归咎：声称工程事故是工程师“违反了定律”"]
+        F3["认知后果：陷入神秘化自责或虚假的形式合规审查"]
+        F1 --> F2 --> F3
     end
 
-    subgraph S_Truth["【工程实在图景：现实不听从模型定律】"]
+    subgraph S_Truth["【工程实在图景：未见参数引发的摩擦放大】"]
         direction TB
-        T1["人类依据形式规律建立局部的预测模型"]
-        T2["现实永远超越模型，包含无穷无尽的未建模交互"]
-        T3["现实与模型爆发冲突 ➔ 呈现为宏观物理摩擦（如破裂与爆炸）"]
-        T4["以爆炸反馈为损失函数 ➔ 推动下一轮参数与结构校准"]
-        T1 --> T2 --> T3 --> T4
+        T1["设计阶段：系统必然严格依据已知物理定律构建"]
+        T2["现实盲区：关键现实参数此前未进入工程师视野或被忽略"]
+        T3["接触碰撞：未建模参数与有限模型发生冲突"]
+        T4["摩擦放大 ➔ 局部摩擦级联放大为宏观工程事故（如爆炸）"]
+        T5["遥测排障 ➔ 将事故作为损失函数，将盲区参数纳入新模型"]
+        T1 --> T2 --> T3 --> T4 --> T5
     end
 
-    F3 -.->|"现实爆炸给予铁证证伪"| T2
+    F2 -.->|"认识论纠偏：事故源于参数盲区而非违规"| T2
 
     style S_Fallacy fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Truth fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style F1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style F2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style F3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style F4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style T1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style T2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style T3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style T4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style T4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style T5 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
 To pierce the myth of "physics is the law," one need not appeal to abstract ontology; the wreckage on the launch pads of Boca Chica offers decisive empirical proof.
@@ -136,9 +139,12 @@ Yet the rocket exploded anyway. **This event alone serves as the empirical refut
 
 If reality were truly determined and guided by physical laws, a system engineered in flawless compliance with those laws would succeed on its maiden flight with certainty. In such a clockwork universe, structural explosions, unpredicted oscillations, and material fatigue would not exist. The rocket explodes precisely because: **reality is not determined by physical laws!**
 
-Physical laws are low-dimensional conceptual projections extracted from historical observations, whereas reality's non-linear couplings, structural defects, fluid transients, and thermal shock regimes permanently exceed the horizon of any model. The rocket does not fly inside an abstract equation; it navigates reality. When an engineering model encounters aspects of reality it failed to account for, the discrepancy manifests as macroscopic physical friction: overheating, structural buckling, and catastrophic rupture.
+From this, an indispensable realization emerges: **so-called engineering accidents are never caused by engineers "violating physical laws."**
+As emphasized earlier, engineers inevitably design products in rigorous alignment with established physical laws and mathematical models; no engineer deliberately or accidentally constructs an artifact in defiance of known physics. Engineering accidents happen because: **reality contains critical parameters that previously failed to enter the engineers' horizon of vision—microscopic material flaws, transient fluid resonances, localized thermal stress gradients, or non-linear couplings under extreme operational regimes. These parameters were unmeasured, unconsidered, or discarded during idealization.**
 
-An explosion is not nature punishing a system for "breaking a law." It is reality forcibly asserting: **your conceptual model clashed with unmodeled reality, and reality overflowed your container!**
+When an engineered system operating in full compliance with theoretical laws encounters reality, these unmodeled parameters collide violently with the finite model. This friction—born of an observational blind spot—is exponentially magnified through high-energy flows and cascading feedback loops, ultimately erupting as a macroscopic engineering catastrophe.
+
+An explosion is not nature punishing a system for "breaking a law." It is reality forcibly asserting: **your model omitted reality parameters that had not yet entered your field of vision, and unmodeled friction was magnified into an accident!**
 
 ---
 
