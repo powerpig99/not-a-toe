@@ -122,7 +122,7 @@ graph TD
         AG2["为了追求统计显著性（p < 0.05）剔除异质噪音"]
     end
 
-    subgraph S_Fictional["【平庸的数学抽象均值】"]
+    subgraph S_Fictional["【数学抽象的统计平均值】"]
         direction TB
         F1["虚构的‘平均人’与标准化规程<br/>（在现实中不存在的数学幽灵）"]
         F2["最高杠杆的个体特异变量在求和中被全额稀释"]
@@ -144,7 +144,7 @@ graph TD
     style F2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-数学聚合逻辑本身是一套极其高效的认知工具，它让我们得以从宏观尺度勘测跨个体的共性规律；它本身断非造成异化后果的源泉。真正的困境，发生于人类将这种认识论层面的分析工具，盲目僭升至统摄实在的本体地位（Ontological Status）。一旦数学工具被加冕为本体实体，认知扭曲便不可避免地爆发。首先，现实中并不存在所谓的“平均人”，群体统计拜物教所描绘出的最佳规程，针对的是一个在现实中并不存在的数学抽象幽灵，没有任何一个具体鲜活的人能够精确符合大样本的各项中位数。更为致命的是，在一个具体个体独立运转的生命因果系统中，真正能够产生最高杠杆效果的关键要素，恰恰正是其独特的代谢基线、神经敏感度、过往健康印记或内在身心节律。这些具有决定性价值的微观杠杆，在论文数据被汇聚的那一刻，就已经作为“离群点”被无情剔除了。此外，群体层面的微弱益处也并不等同于个体实践的可行性；一项干预措施在群体平均层面表现出的5%指标提升，实际上掩盖了极端的离散度——少数人显著获益，多数人毫无感应，另一些人则在沉默中承受着未被测量的负面代谢反噬。当一个人沉迷于对标准化规程的群体统计崇拜时，他便是在迫使自己独一无二的活态系统削足适履，强行塞进由统计机器碾磨出的平庸模具之中。
+数学聚合逻辑本身是一套极其高效的认知工具，它让我们得以从宏观尺度勘测跨个体的共性规律；它本身断非造成异化后果的源泉。真正的困境，发生于人类将这种认识论层面的分析工具，盲目僭升至统摄实在的本体地位（Ontological Status）。一旦数学工具被加冕为本体实体，认知扭曲便不可避免地爆发。首先，现实中并不存在所谓的“平均人”，群体统计拜物教所描绘出的最佳规程，针对的是一个在现实中并不存在的数学抽象幽灵，没有任何一个具体鲜活的人能够精确符合大样本的各项中位数。更为致命的是，在一个具体个体独立运转的生命因果系统中，真正能够产生最高杠杆效果的关键要素，恰恰正是其独特的代谢基线、神经敏感度、过往健康印记或内在身心节律。这些具有决定性价值的微观杠杆，在论文数据被汇聚的那一刻，就已经作为“离群点”被无情剔除了。此外，群体层面的微弱益处也并不等同于个体实践的可行性；一项干预措施在群体平均层面表现出的5%指标提升，实际上掩盖了极端的离散度——少数人显著获益，多数人毫无感应，另一些人则在沉默中承受着未被测量的负面代谢反噬。当一个人沉迷于对标准化规程的群体统计崇拜时，他便是在迫使自己独一无二的活态系统削足适履，强行塞进由统计机器碾磨出的平均模具之中。
 
 The bedrock of the modern scientific paradigm is inter-subjective replicability and statistical significance across a cohort. For an empirical finding to be recognized by academic consensus, it must demonstrate consistent effects across a substantial population sample. To produce an acceptable p-value below 0.05, mathematical aggregation must treat individual idiosyncrasy, unmeasured contextual baselines, and non-linear reactions as statistical noise to be averaged away.
 
