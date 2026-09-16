@@ -1,6 +1,6 @@
-# 规程的倒置与因果回路的消声——从总体统计拜物教到收回第一人称校准 / The Inversion of the Protocol and the Silencing of the Causal Loop: From Population Statistics Fetish to Reclaiming First-Person Calibration
+# 规程的倒置与因果回路的消声——从群体统计拜物教到收回第一人称校准 / The Inversion of the Protocol and the Silencing of the Causal Loop: From Population Statistics Fetish to Reclaiming First-Person Calibration
 
-*具身肉身是超越低维符号信息的超复杂界面；当科学从第一人称校验的坐标系倒置为规训具身的终极规程，主权者的因果回路便在对总体统计拜物教的盲从与合规辩解中被悄然消声。 / Living embodiment is a hyper-complex interface permanently exceeding discrete informational models; when science inverts from an orienting reference for the first-person sovereign into a prescriptive protocol, the causal loop is silenced beneath population statistics fetishism and compliance rationalizations.*
+*具身肉身是超越低维符号信息的超复杂界面；当科学从第一人称校验的坐标系倒置为规训具身的终极规程，主权者的因果回路便在对群体统计拜物教的盲从与合规辩解中被悄然消声。 / Living embodiment is a hyper-complex interface permanently exceeding discrete informational models; when science inverts from an orienting reference for the first-person sovereign into a prescriptive protocol, the causal loop is silenced beneath population statistics fetishism and compliance rationalizations.*
 
 ---
 
@@ -10,7 +10,7 @@
 
 然而，当这些在播客中听起来无懈可击、极具“科学严密性”的条目被真正植入真实的肉身日常时，剧烈的摩擦便不可避免地浮现。许多人即便竭尽所能去执行，身体所获得的收益也从未如宣称的那样显著；反之，精神的焦虑、节奏的紊乱与莫名的疲惫却频频发生。
 
-这并非个别博主的操守问题，而是整个现代社会对于“科学规程”的认知错位。**当一套来源于外部群体的总体统计结论被冠以“规训规程”（Protocol）之名要求个体遵循，而非作为“参考坐标”（Reference）供个体对照核验时，它的功能便发生了致命的倒置：它不仅未能帮助个体建立敏锐的因果反馈回路，反而使个体本该自主运转的真实感知遭受消声。**
+这并非个别博主的操守问题，而是整个现代社会对于“科学规程”的认知错位。**当一套来源于外部群体的群体统计结论被冠以“规训规程”（Protocol）之名要求个体遵循，而非作为“参考坐标”（Reference）供个体对照核验时，它的功能便发生了致命的倒置：它不仅未能帮助个体建立敏锐的因果反馈回路，反而使个体本该自主运转的真实感知遭受消声。**
 
 Over the past few years, the wave of neurobiology popularization led by figures like Andrew Huberman ignited a widespread lifestyle trend. Countless individuals striving for cognitive and physiological excellence became devoted followers: stepping outside within minutes of waking to catch early sunlight, strictly delaying caffeine by ninety to one hundred and twenty minutes to prevent an afternoon adenosine crash, timing cold plunges down to the exact degree and second, and consuming supplement stacks measured to the milligram. When Huberman's long-anticipated book *Protocols* was finally released, public anticipation reached its peak—people yearned for a peer-reviewed "operating manual for human biology."
 
@@ -75,9 +75,9 @@ When an individual treats a protocol distilled from laboratory literature as abs
 
 ---
 
-## 第二节：总体统计的必然陷阱：平均值抹杀最高杠杆的个体变量 / Section II: The Statistical Trap of the Population Mean: Averaging Out High-Leverage Individual Variables
+## 第二节：群体统计的必然陷阱：平均值抹杀最高杠杆的个体变量 / Section II: The Statistical Trap of the Population Mean: Averaging Out High-Leverage Individual Variables
 
-现代科学范式的基石是“可重复性”（Replicability）与“总体统计显著性”（Population Statistical Significance）。一项发现若想被学界公认为真理，其前提是在大样本队列（N ≫ 1）中展现出跨越个体差异的一致性。
+现代科学范式的基石是“可重复性”（Replicability）与“群体统计显著性”（Population Statistical Significance）。一项发现若想被学界公认为真理，其前提是在大样本队列（N ≫ 1）中展现出跨越个体差异的一致性。
 
 然而，这一数学要求本身就注定了它的局限：
 
@@ -88,7 +88,7 @@ When an individual treats a protocol distilled from laboratory literature as abs
 ├── 隐性心理创伤 / Somatosensory Trauma State
 └── 昼夜节律表型 / Circadian Chronotype
                │
-               ▼  [总体统计聚合 / Population Statistical Aggregation (N ≫ 1)]
+               ▼  [群体统计聚合 / Population Statistical Aggregation (N ≫ 1)]
     抹除方差与离群值 / Erasure of Variance & Outliers (ε → 0)
                │
                ▼
@@ -99,13 +99,13 @@ When an individual treats a protocol distilled from laboratory literature as abs
 
 其逻辑代价是残酷的：
 
-- **现实中并不存在“平均人”**：总体统计拜物教所描绘出的最佳规程，针对的是一个在物理现实中并不存在的数学幽灵。没有任何一个活生生的人精确符合大样本的各项中位数。
+- **现实中并不存在“平均人”**：群体统计拜物教所描绘出的最佳规程，针对的是一个在物理现实中并不存在的数学幽灵。没有任何一个活生生的人精确符合大样本的各项中位数。
 
 - **决定个体跃迁的变量恰好被平均掉**：在一个具体个体（N=1）的生命因果系统中，真正能产生最高杠杆效果的要素，恰恰正是他独特的代谢短板、神经敏感度、过往疾病印记或心理节律。这些最高价值的杠杆，在论文撰写的那一刻，就已经作为“离群点”被无情剔除了。
 
 - **群体效益不等于个体可行性**：某项干预措施在群体平均层面可能带来5%的某项指标提升，但这可能意味着部分人提升了30%，另一些人毫无反应，而相当一部分人则承受了未被记录的负面代谢反噬。
 
-当一个人沉迷于“科学规程”的总体统计拜物教时，他就是在强迫自己独一无二的活态系统，去削足适履地塞进那个由统计机器碾压出来的平庸均值模具之中。
+当一个人沉迷于“科学规程”的群体统计拜物教时，他就是在强迫自己独一无二的活态系统，去削足适履地塞进那个由统计机器碾压出来的平庸均值模具之中。
 
 The bedrock of the modern scientific paradigm is inter-subjective replicability and statistical significance across a cohort. For an empirical finding to be recognized by academic consensus, it must demonstrate consistent effects across a substantial population sample (N ≫ 1).
 
