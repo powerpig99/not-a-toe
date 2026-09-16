@@ -105,6 +105,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Comic halftone / Ben-Day dots** | Cream newsprint, cyan–magenta–black process dots, slight misregistration, graphic speech-mass vs rain on cracked basin | `reality-is-the-minds-ongoing-realization` |
 | **Sandblasted glass etching** | Frosted dark glass panel, teal–amber luminous path, grain, museum side light; opened circuit with third node | `therapy-opens-the-feedback-loop` |
 | **Banknote intaglio / guilloché engraving** | Intricate mathematical guilloché rosette security lattices, fine intaglio copperplate lathe waves, forest green & charcoal ink on deckle-edged cream cotton rag paper | `the-generative-mechanics-of-value-money-and-wealth` |
+| **Banknote certificate intaglio & elemental basalt fracture** | 19th-century banknote security certificate & financial ledger intaglio engraving with clockwork calculating escapement, cleaving through with a radiant molten golden fissure that reveals raw volcanic basalt rock and crashing storm spray | `the-delegation-of-the-task-and-the-inalienability-of-consequences` |
 | **Soft clay / stop-motion puppet still** | Warm polymer clay board, hand-pressed footprints and short path segments, soft studio light, fingerprint texture | `individual-choices-as-the-only-causal-levers` |
 | **Silverpoint / metalpoint on gesso** | Cream prepared ground, single-weight gray metal lines, paper tooth, museum raking light; stylus lag trail | `qian-yin-hou-guo` |
 | **Kintsugi ceramic still life** | Documentary museum still life: ceramic vessel with gold repair seams on a continuous slate ledger grid that tries to absorb the discrete bowl | `the-coordinators-category-error` |
@@ -516,6 +517,12 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth` | Radiant impact probe colliding with textured terrain generating golden sparks and ripple shockwaves, dissolving chronometer into geometric dust |
 | `the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation` | Iridescent para-universe spheres floating in deep obsidian-indigo void with golden singularity cores and quantum wave ripples, single razor-sharp golden vector of conscious choice piercing forward |
 | `from-the-misallocated-sentience-of-agi-to-human-realignment` | Aerospace precision intaglio & supersonic schlieren fracture |
+| `the-inversion-of-the-harness-and-the-driver-seat-asymmetry` | Cybernetic cockpit, golden neural harness & cosmic mirror reflection |
+| `the-dilution-of-the-causal-loop-and-the-misallocation-of-agency` | Aerospace rocket shattering digital peer-review lattices into golden propulsion plasma |
+| `the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality` | Hypersonic aerospace vehicle shattering rigid mathematical formula grid into golden plasma shockwaves |
+| `the-illusion-of-the-unmediated` | Grand philosophical duality: neoclassical digital gate estate vs. rugged stormy mountain frontier with solitary explorer |
+| `the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop` | Clinical laboratory measurement grid fracturing into wild mountain dawn and living somatic vitality |
+| `the-delegation-of-the-task-and-the-inalienability-of-consequences` | Banknote security certificate & financial ledger intaglio engraving with calculating escapement split by radiant molten golden fissure revealing raw volcanic basalt rock and crashing storm spray |
 
 ## Crowded — prefer not to extend
 
