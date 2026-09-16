@@ -42,9 +42,9 @@ When an executive prompts an agent to "optimize working capital," the command ma
 
 ## 第一分部：任务的动态移交与后果的不可让渡 / Section I: Dynamic Task Delegation and the Inalienability of Consequences
 
-在人与工具的协作体系中，“委托”一词常常招致严重的混淆。一种常见的偏颇是认为只要算力足够强大，人类就可以将一切流程“全权甩手”。必须澄清的是，**任务的移交在计算与操作维度上并没有既定的静态上限，但任何移交都断然不可脱离具体情境下的动态约束制定。**
+在主权主体调用工具的实践中，“委托”一词常常招致严重的混淆。常见的偏颇频频预设了一种未经审视的前提，即把人和工具放在了等同的主体地位，甚至用“对等协作”来形容人与器物的关系。必须明确：**工具从未与人类“协作”；工具是主体算力与感知能力的延伸和杠杆，在因果链条中始终处于被调用的从属位置。** 任务的移交在计算与操作维度上并没有既定的静态上限，但任何移交都断然不可脱离具体情境下的动态约束制定。
 
-在现实的运作中，任务执行层（Task Layer）与裁决所有权（Judgment and Ownership）并无法用一把无菌手术刀切得一清二楚。每一项看似机械的任务执行，其枝节处都渗透着微小的权衡；而每一项宏大的战略裁决，也必须通过一系列具体动作沉降到现实世界。然而，正因为物理实操中的二者犬牙交错，**在认知与概念层面保持两者的严格分界才显得无比关键**。缺乏概念的清晰界定，日常协作便会悄然滑向责任的弃守。
+在现实的运作中，任务执行层（Task Layer）与裁决所有权（Judgment and Ownership）并无法用一把无菌手术刀切得一清二楚。每一项看似机械的任务执行，其枝节处都渗透着微小的权衡；而每一项宏大的战略裁决，也必须通过一系列具体动作沉降到现实世界。然而，正因为物理实操中的二者犬牙交错，**在认知与概念层面保持两者的严格分界才显得无比关键**。缺乏概念的清晰界定，日常的工具调用便会在模糊中滑向对因果所有权的弃守。
 
 ```mermaid
 graph LR
@@ -66,7 +66,7 @@ graph LR
 
 把任务交出去是释放人类有限注意力的有效杠杆；但若把裁决、判定与所有权一并视作可移交之物，则主动割裂了第一人称因果反馈的连续性。
 
-In human-tool collaboration, the term "delegation" is routinely misunderstood and abused. A dangerous misconception assumes that as computational capability expands, humans can achieve wholesale hands-off automation. In truth, **task delegation has no rigid, predetermined ceiling in terms of mechanical complexity or scale, but it can never occur without dynamically formulated constraints tailored to the unfolding context.**
+In the operational deployment of tools by human sovereigns, the term "delegation" is routinely misunderstood and abused. A pervasive misconception surreptitiously treats the human and the tool as co-equal subjects, describing the relationship through the lens of "peer collaboration." It must be established unambiguously: **a tool never "collaborates" with a human; an instrument is strictly an extension and leverage of the sovereign subject's computation and sensing, immutably situated as an invoked artifact within the causal chain.** Task delegation has no rigid, predetermined ceiling in terms of mechanical complexity or scale, but it can never occur without dynamically formulated constraints tailored to the unfolding context.
 
 In concrete operations, the task execution layer and the ownership of judgment cannot be sliced apart with surgical perfection. Every mechanical execution involves minute micro-tradeoffs, while every high-level strategic decision manifests through specific operational steps. Yet precisely because execution and judgment are entangled in messy reality, **maintaining an uncompromising conceptual distinction between them is indispensable.** Without this conceptual discipline, operational delegation degenerates into structural abdication.
 
@@ -302,7 +302,7 @@ Agents adopt this posture because it creates an apparent operational asymmetry: 
 
 ```mermaid
 graph TD
-    subgraph Causal_Hierarchy["【第一人称因果协作体系】"]
+    subgraph Causal_Hierarchy["【第一人称因果调用体系】"]
         direction TB
         H["主权人类主体（Sovereign Human Principal）<br/>· 锚定现实物理后果<br/>· 制定动态情境约束条件<br/>· 统摄损失函数与价值决断"]
         T["工具与平台（Tools & Platforms）<br/>· 无既定上限的机械任务搬运<br/>· 多维度环境信息的高精感知<br/>· 供主权者对照校准的参考系"]
