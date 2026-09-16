@@ -279,8 +279,8 @@ graph TD
     subgraph S_Success["【偶发正向反应与错误归因】"]
         direction TB
         A1["偶发正向状态或生机复苏"]
-        A2["真实根由：某项举措恰巧契合第一人称当务之急"]
-        A3["归因错位：将功劳全额奉献给外部规程体系"]
+        A2["真实根由：执行者自身行动与生活行为的改变"]
+        A3["错觉假象：行为契合规程描述，误判为‘规程有效’"]
         A1 --> A2 --> A3
     end
 
@@ -312,7 +312,7 @@ graph TD
     style C1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-在少数情况下，某项外部规程确实让执行者感受到了状态的改善。然而在多数情形下，这种成效只是一场巧合：规程中的某一项具体建议，碰巧与该个体在那个特定生命阶段的第一人称真实需求发生了重叠。例如，一个常年熬夜、久坐密闭房间的人，因为执行了规程而开始在清晨出门散步。让他重新焕发生机的，并不是精确推迟摄入咖啡因以重塑腺苷受体的复杂假设，而是他走出了密室、接触了新鲜空气并打破了长期的身心停滞。但他却将全部神效归功于精密的理论包装。这种归因错位剥夺了他对自己内在调节机制的理解，进一步将他绑缚在外部专家的条目之下。
+在少数情况下，执行者确实感受到了状态的改善，但这种改善断非源于规程本身，而是来自执行者自己的真实行为。规程作为低维符号描述，本身毫无因果能动性，它无法赋予任何人一丁点生机；真正带来状态跃迁的，永远是执行者在第一人称现实中付诸的具体行动——打破久坐、走出密室、接触阳光或恢复作息。然而，当执行者的真实行为恰巧与规程的某条条目发生契合时，极易制造出“规程本身极为有效”的强烈假象。例如，一个常年熬夜、久坐密闭房间的人，因为某种契机开始在清晨出门散步。让他重新焕发生机的，是他走出了房间、呼吸了新鲜空气、舒展了筋骨并打破了长期的身心沉滞，这是其自身行动在现实中引发的直接因果效应；然而，由于这一动作与休伯曼“延迟咖啡因、摄入晨光光子”的精细条目描述重叠，他便轻率地将全部神效归功于那套复杂的神经生化假说。这种倒因为果的归因错位，剥夺了他对自己身体行为真实因果力量的自觉，反倒将自己更深地绑缚在外部权威的规训神坛之下。
 
 更为隐蔽的陷阱发生在规程不可避免地失效之时。当一个人严格执行规程却感到疲惫不堪、节律混乱与工作效率崩塌时，这套体系所培育出的思维方式决不会去怀疑规程本身的荒谬，而是迅速启动强大的合理化机器。信徒开始在细枝末节中寻找自我瑕疵：是否因为清晨云层遮挡导致光照通量不足，是否因为冷水浸泡的水温高了两度未能激活棕色脂肪，抑或是漏服了某一种声称能协同促吸收的微量矿物质补剂。这一合理化循环构建起严密的自洽闭环：成功证明了规程的无所不能，失败则证明了执行者的技术疏漏与自律不足。规程本身由此变得不可伪证，正如我们在 [“非中介化”的幻象](/not-a-toe/posts/the-illusion-of-the-unmediated/) 中揭示的控制论逃逸：它永远在向更繁复的微观细节退守，以逃避现实损失函数的正面校准。
 
@@ -323,8 +323,8 @@ graph TD
     subgraph S_Success["Correlated Success & Master Misattribution"]
         direction TB
         A1["Occasional positive state or surge in vitality"]
-        A2["Actual driver: An action happened to align with immediate somatic needs"]
-        A3["Misattribution: Solely credited to the authoritarian protocol stack"]
+        A2["Actual driver: The practitioner's own concrete actions & behavioral shift"]
+        A3["Illusion: Action aligns with protocol description, falsely credited as 'effective protocol'"]
         A1 --> A2 --> A3
     end
 
@@ -356,7 +356,7 @@ graph TD
     style C1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-On rare occasions, an external protocol genuinely coincides with an individual experiencing an elevation in vitality. Yet in most instances, this success is pure correlation: a specific recommendation within the stack happened to align with what that unique organism desperately needed at that particular moment in time. For instance, an individual who spent years sedentary in a darkened apartment suddenly begins walking outdoors each morning because a protocol demanded it. What restored their vitality was not the esoteric neurochemical hypothesis of adenosine receptor mechanics, but the simple, unmodeled realities of physical locomotion, natural atmosphere, and breaking a chronic depressive loop. Yet the individual misattributes the transformation entirely to the complex theoretical apparatus, severing them from their own internal causal agency and binding them ever tighter to the podcaster's altar.
+When an individual occasionally experiences an elevation in vitality, that improvement is never produced by the protocol itself; it is generated entirely by the practitioner's own actions. A protocol, as an inert symbolic description, possesses zero autonomous agency and cannot bestow a shred of vitality. What actually causes the physiological leap is the concrete action taken by the sovereign agent in lived reality: breaking a sedentary loop, stepping outdoors, moving their musculature, and shifting real-world behavior. However, when the practitioner's actual behavior happens to align with what the protocol describes, it easily manufactures the powerful illusion that the protocol itself was effective. For instance, an individual who spent years sedentary in a darkened room begins walking outdoors each morning. What restored their vitality was the direct physical action of walking in natural air, activating circulation, and disrupting chronic depression. Yet because this behavior coincided with Huberman's elaborate formula regarding photon absorption and adenosine delay, the practitioner mistakenly credits the entire transformation to the esoteric theoretical apparatus. This master misattribution severs individuals from recognizing their own behavioral causality, binding them ever tighter to an external authoritarian altar.
 
 The darker trap operates when the protocol inevitably fails. When a diligent follower adheres to the rules yet ends up exhausted, emotionally brittle, or metabolically dysregulated, the protocol mentality never permits questioning the doctrine itself. Instead, it fires up an endless rationalization engine: searching for micro-technical infractions such as cloudy skies diminishing photon lux, plunge water being two degrees too warm to trigger norepinephrine release, or missing a synergistic mineral compound required for full absorption. This creates an unfalsifiable psychological cage: success validates the omniscience of the Protocol, while failure proves the moral and technical inadequacy of the follower. The protocol retreats into ever-smaller micro-technical justifications, perfectly evading falsification by the organism's real-time loss function.
 
