@@ -1,6 +1,6 @@
 # 规程的倒置与因果回路的消声——从总体统计拜物教到收回第一人称校准 / The Inversion of the Protocol and the Silencing of the Causal Loop: From Population Statistics Fetish to Reclaiming First-Person Calibration
 
-*生物体是超越低维符号信息的超复杂系统；当科学从预判与校对的坐标系倒置为规训肉身的终极规程，个体的因果回路便在对总体统计拜物教的盲从与合规辩解中被悄然消声。 / Biology is a hyper-complex system that permanently exceeds discrete informational models; when science inverts from an orienting reference into a prescriptive protocol, the individual's living causal loop is silenced beneath population statistics fetishism and compliance rationalizations.*
+*具身肉身是超越低维符号信息的超复杂界面；当科学从第一人称校验的坐标系倒置为规训具身的终极规程，主权者的因果回路便在对总体统计拜物教的盲从与合规辩解中被悄然消声。 / Living embodiment is a hyper-complex interface permanently exceeding discrete informational models; when science inverts from an orienting reference for the first-person sovereign into a prescriptive protocol, the causal loop is silenced beneath population statistics fetishism and compliance rationalizations.*
 
 ---
 
@@ -45,7 +45,7 @@ graph TD
 
 ## 第一节：低维符号模型对超复杂系统的盲视 / Section I: The Blindness of Informational Models to Hyper-Complex Systems
 
-我们的肉身生命系统，以及其下游延伸出的意识、情绪与认知场域，是一个远远超越当前人类认知边界的超复杂系统（Hyper-complex system）。其复杂程度不仅超越了常规医学常识的设想，甚至让现代分子生物学前沿的测序技术显得粗糙脆弱。
+心智所依凭的具身生命系统（Embodiment），以及其在物理现实中所延展出的全部生理、代谢与行为互动，是一个远远超越当前人类认知边界的超复杂系统（Hyper-complex system）。心智作为第一人称因果原点端坐于驾驶席上，而肉身则是它与物理现实发生直接摩擦、读取损失函数的活态具身界面。这一具身系统的复杂程度不仅超越了常规医学常识的设想，甚至让现代分子生物学前沿的测序技术显得粗糙脆弱。
 
 人类目前所掌握的全部所谓“生物学科学知识”，其性质属于**低维符号信息（Informational Models）**。我们用离散的词汇、线性的生化通路图、静态的受体配体结合常数来描述生命。然而，即便是一个单链DNA分子在细胞核三维染色质折叠中的动态构象、量子隧穿效应与表观遗传实时修饰，其包含的高维涌现信息量，就已经让整个人类图书馆的信息总量相形见绌。正如我们在 [The Sleight of Hand in "Physics Is the Law" and the Friction of Reality](/not-a-toe/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) 中所剖析的戏法：人们极易将人类大脑发明的低维数学物理模型，误认为是自然界运转的终极法则本身。
 
@@ -59,7 +59,7 @@ graph TD
 
 当一个人把某种“神经科学论文提炼出的规程”奉为金科玉律时，他实际上是用简陋的信息玩具，去凌驾自己体内运行了亿万年的超复杂自组织智慧。
 
-The living biological organism, along with its downstream conscious, emotional, and cognitive manifestations, is a hyper-complex system that vastly exceeds the boundaries of contemporary scientific comprehension. Its intricacy is not merely marginally greater than popular medical discourse assumes; it is orders of magnitude beyond the reach of discrete modeling.
+The living embodiment through which the conscious mind acts and navigates reality, along with all its physiological, metabolic, and behavioral interactions in the physical world, constitutes a hyper-complex system that vastly exceeds contemporary scientific comprehension. The mind operates as the first-person causal origin in the driver's seat, while the biological body serves as the living embodied interface through which it engages physical friction and reads real-time telemetry. The intricacy of this embodied system is not merely marginally greater than popular medical discourse assumes; it is orders of magnitude beyond the reach of discrete informational modeling.
 
 All human "biological knowledge" accumulated to date is strictly informational in nature—discrete symbols, linear pathway diagrams, receptor affinities, and low-dimensional mathematical approximations. Yet the living reality of even a single DNA strand—its dynamic three-dimensional chromatin folding, quantum tunneling interactions, and real-time epigenetic flux within the cellular cytoplasm—possesses high-dimensional emergent complexity that dwarfs the descriptive capacity of all human libraries combined. As demonstrated in [The Sleight of Hand in "Physics Is the Law" and the Friction of Reality](/not-a-toe/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/), human minds chronically succumb to a fatal sleight of hand: mistaking their low-dimensional conceptual tools for the living fabric of reality itself.
 
