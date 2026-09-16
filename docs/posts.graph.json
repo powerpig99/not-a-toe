@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-16T08:27:06.052Z",
+    "generated_at": "2026-09-16T08:44:06.419Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -195,7 +195,7 @@
       "content/posts/the-continuum-of-the-fold.md": "063fd4436fe1",
       "content/posts/the-coordinators-category-error.md": "146a9a84aaf3",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "b3dc7fea51cb",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "358c0097b57a",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "680cb9af2f4f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "3c671df7b223",
@@ -340,18 +340,18 @@
     },
     "stats": {
       "posts": 329,
-      "edges": 3158,
-      "unique_directed": 2972,
+      "edges": 3186,
+      "unique_directed": 2986,
       "missing_targets": 0,
-      "one_way": 758,
-      "isolated": 45,
-      "posts_with_outbound": 262
+      "one_way": 772,
+      "isolated": 43,
+      "posts_with_outbound": 263
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 84
+      "in_degree": 85
     },
     {
       "slug": "openness-is-consistency",
@@ -359,7 +359,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 62
+      "in_degree": 63
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -367,11 +367,11 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 49
+      "in_degree": 50
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 49
+      "in_degree": 50
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -383,7 +383,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 33
+      "in_degree": 34
     },
     {
       "slug": "causality-all-the-way",
@@ -540,14 +540,12 @@
     "simplicity-ultimate-sophistication",
     "the-collapsed-debate",
     "the-defining-seat",
-    "the-delegation-of-the-task-and-the-inalienability-of-consequences",
     "the-descent-that-doesnt-know-where-its-going",
     "the-geometry-of-coexistence-and-the-dual-cut",
     "the-geometry-of-the-cut",
     "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
     "the-illusion-of-distance-and-the-dual-ruler",
     "the-interesting-case-of-rubin",
-    "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
     "the-loop-accelerates",
     "the-loop-that-cant-see-itself",
     "the-maintenance-paradox",
@@ -568,7 +566,7 @@
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
       "hash": "874167ac7c12",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 21,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -1944,7 +1942,7 @@
       "path": "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md",
       "title": "从AGI的“神性错置”到使用者的自我对齐：要么重构主权，要么沦为被校准的误差项 / From the Misallocated Sentience of AGI to Human Realignment: Reclaim Sovereign Agency or Become the Error Term",
       "hash": "66949b654960",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 4,
       "links_out": [
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -2325,7 +2323,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "1822bc1fbdea",
-      "in_degree": 84,
+      "in_degree": 85,
       "out_degree": 54,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2391,7 +2389,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "b60b674b5303",
-      "in_degree": 62,
+      "in_degree": 63,
       "out_degree": 22,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -3218,7 +3216,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "Ownership and Self-Worthiness",
       "hash": "84775e991e01",
-      "in_degree": 49,
+      "in_degree": 50,
       "out_degree": 30,
       "links_out": [
         "failure-as-information",
@@ -4620,10 +4618,25 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡——自客体化、因果倒置的反置与主权裁决的归位 / The Delegation of the Task and the Inalienability of Consequences: Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment",
-      "hash": "b3dc7fea51cb",
+      "hash": "358c0097b57a",
       "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "out_degree": 14,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "a-creation-cannot-replace-its-source",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "ownership-and-self-worthiness",
+        "the-knowledge-problem-and-the-illusion-of-delegation",
+        "the-scaffolding-we-forget",
+        "the-illusion-of-the-unmediated",
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "the-model-never-becomes-a-second-edge",
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "individual-choices-as-the-only-causal-levers",
+        "the-invisible-gods-eye",
+        "from-the-misallocated-sentience-of-agi-to-human-realignment"
+      ]
     },
     {
       "id": "post:the-descent-that-doesnt-know-where-its-going",
@@ -4661,7 +4674,7 @@
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释：能动性错置如何衍生表观风险与责任转嫁的次生后果 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop: How Misallocated Agency Derives Apparent Risk and Compounded Secondary Consequences",
       "hash": "3c671df7b223",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 11,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -5213,7 +5226,7 @@
       "path": "content/posts/the-illusion-of-the-unmediated.md",
       "title": "“非中介化”的幻象：主义的倒置、责任的外包与恩赐自由的解构 / The Illusion of the Unmediated: On the Inversion of All \"-isms\" and the Anatomy of Bestowed Freedom",
       "hash": "8d7638e697d6",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 3,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -5280,7 +5293,7 @@
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称：能力为何沦为束缚，以及对AI智能体能力的母体误归因 / The Inversion of the Harness and the Sovereignty of the Driver's Seat: Why Capabilities Become Limitations and the Master Misattribution of AI Agents",
       "hash": "d11cacbcd4b1",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -5300,7 +5313,7 @@
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声——从群体统计拜物教到收回第一人称校准 / The Inversion of the Protocol and the Silencing of the Causal Loop: From Population Statistics Fetish to Reclaiming First-Person Calibration",
       "hash": "50b41ea2cad1",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 0,
       "links_out": []
     },
@@ -5327,7 +5340,7 @@
       "path": "content/posts/the-invisible-gods-eye.md",
       "title": "隐秘的上帝之眼 / The Invisible God's Eye",
       "hash": "08233385869e",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 3,
       "links_out": [
         "objects-are-stabilized-relationships",
@@ -5360,7 +5373,7 @@
       "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
       "title": "The Knowledge Problem and the Illusion of Delegation",
       "hash": "83dfa976cce0",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -5628,7 +5641,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "6dec2cdef8ae",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 33,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -6293,7 +6306,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3fcc945ba028",
-      "in_degree": 49,
+      "in_degree": 50,
       "out_degree": 32,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6385,7 +6398,7 @@
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法：形式模型、宏观摩擦，以及未被定律决定的现实 / The Sleight of Hand in \"Physics Is the Law\": Formal Models, Macroscopic Friction, and a Reality Undetermined by Law",
       "hash": "907328462f77",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 10,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -18701,6 +18714,174 @@
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
       "label": "Agency relocated into the formal model"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "造物无法取代造物者"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "所有权与配得感"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "知识问题与委托的幻象"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The Knowledge Problem and the Illusion of Delegation"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "我们遗忘的脚手架"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-illusion-of-the-unmediated",
+      "rel": "points_to",
+      "label": "无中介的幻觉与恩赐的自由"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-illusion-of-the-unmediated",
+      "rel": "points_to",
+      "label": "The Illusion of the Unmediated"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理即规律”的偷梁换柱与现实的摩擦"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "规程的倒置与因果回路的消声"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "因果回路的稀释与能动性的错配"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The Dilution of the Causal Loop and the Misallocation of Agency"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体选择作为唯一的因果杠杆"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "隐秘的上帝之眼"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "The Invisible God's Eye"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "从AGI的“神性错置”到使用者的自我对齐"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "From the Misallocated Sentience of AGI to Human Realignment"
     },
     {
       "from": "the-deterministic-machine",
