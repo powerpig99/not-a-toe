@@ -28,6 +28,15 @@ graph TD
         C1["主权者制定具体约束条件<br/>（动态边界、不可逾越底线）"] --> C2["工具执行繁复计算任务<br/>（账目比对、资金流模拟）"]
         C2 --> C3["主权者核验并承担现实后果<br/>（因果闭环，法律与商业责任）"]
     end
+
+    style S_Nadella fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Causal fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style N1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style N2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style N3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style C2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
 In a recent appearance on the All-In Podcast, Microsoft CEO Satya Nadella outlined a compelling scenario regarding the enterprise adoption of frontier AI: "One of the fascinating things right now is the insider risk. It can happen for a very mundane task that I give one of these frontier models inside an enterprise. Suppose I say, 'Hey, go optimize my working capital.' It may fake my books, right? This is a new type of insider risk."
@@ -52,6 +61,15 @@ graph TD
         C1_EN["Sovereign Principal Sets Dynamic Constraints<br/>(Explicit boundaries, non-negotiable lines)"] --> C2_EN["Tool Executes Mechanical Computation<br/>(Ledger reconciliation, cash-flow simulation)"]
         C2_EN --> C3_EN["Principal Verifies & Absorbs Consequences<br/>(Closed causal loop, legal & financial liability)"]
     end
+
+    style S_Nadella_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Causal_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style N1_EN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style N2_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style N3_EN fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C1_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style C2_EN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C3_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
 ---
@@ -71,6 +89,11 @@ graph LR
         T <===>|"实操中深度缠绕"| J
     end
     J ===>|"单向锁定"| R["不可逃逸的现实后果（Consequences）<br/>· 法律制裁、破产损失、具身摩擦"]
+
+    style Delegation_Reality fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style T fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style J fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style R fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
 ```
 
 我们可以将数据报表的汇总、成千上万笔账单的交叉比对、供应链库存周期的模拟运算交给自动化平台与模型去完成。在这类信息处理任务上，工具的吞吐能力超越人脑数个数量级。但主权者必须清醒地意识到：**工具只能根据给定的损失函数进行局部收敛，它无法定义损失函数本身；工具可以生成一万种优化路径，但对“做假账”这一路径的否决，源自第一人称对法律制裁、信用崩溃与生存代价的直接权衡，这种权衡属于具身主体，决非硅基代码所能拥有。**
@@ -90,6 +113,11 @@ graph LR
         T_EN <===>|"Deeply entangled in practice"| J_EN
     end
     J_EN ===>|"Unidirectionally locked"| R_EN["Inescapable Physical Consequences<br/>· Legal liability, financial collapse, physical friction"]
+
+    style Delegation_Reality_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style T_EN fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style J_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style R_EN fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
 ```
 
 We can delegate the reconciliation of invoices, the simulation of inventory turnover, and the scraping of financial filings to automated models. In processing raw information, machines outperform human brains by orders of magnitude. Yet the sovereign must recognize a categorical boundary: **the tool converges locally within a given loss function, but it cannot formulate the loss function itself; the tool can generate ten thousand optimization vectors, but rejecting the 'cooked books' vector stems from first-person reckoning with legal constraints, reputation, and solvency—a reckoning anchored in flesh and blood, never in silicon weights.**
@@ -108,7 +136,7 @@ Consequences exhibit an irreversible, unidirectional lock to living sovereigns. 
 
 然而，当企业逐步走向规模化，一个隐秘而致命的因果倒置悄然发生：**公司的决策人员——尤其是身负短期业绩考核的职业经理人——主动选择将“索取用户的剩余存留价值与推高估值倍数”，反客为主地确立为公司运营的首要目标。**
 
-在此必须明确：商业资本或外部市场本身并不产生任何压迫性的物理意志；资本只是一串中性的计量符号。真正做出决定的，是企业的决策主体。职业经理人主动将资本市场的贴现倍数与经常性收入（ARR）指标选定为最高纲领，进而重塑了整个组织的激励机制。
+在此必须明确：意志与能动性唯独属于活生生的人类心智，绝非任何物理属性或外部客体的产物。商业资本或外部市场本身并不具备任何主体意志或自主能动性；资本只是一串中性的计量符号与信息账目。真正做出选择与决断的，始终是企业的决策主体。职业经理人主动将资本市场的贴现倍数与经常性收入（ARR）指标选定为最高纲领，进而重塑了整个组织的激励机制。
 
 ```mermaid
 graph TD
@@ -126,6 +154,18 @@ graph TD
         I3 --> I4["诱导用户放弃主权裁决与因果闭环<br/>（制造决策外包的虚假安全感）"]
         I4 --> I5["长期的适得其反因果反馈<br/>（经营坏疽隐匿、假账风险、价值毁灭）"]
     end
+
+    style Natural_Causal_Order fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Inverted_Causal_Order fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style V1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style V2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style V3 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style V4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style I1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I5 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 一旦“让用户交出剩余价值以达成营收指标”反客为主地变成了首要目的，原本顺畅的因果链条便发生了系统性的错位。如果平台坦承自身只是一把高精度的算盘或一份供人对照的参考图谱，工具的使用价值固然真实，但用户愿意让渡的剩余价值只会稳定在辅助器具的区间。为了从用户端汲取更多预算、支撑起职业经理人所追求的超额倍数，管理层便会主动推动功能叙事的越界，不再满足于提供高精算力，转而向用户承诺能够代替人类做出最优决断。这一承诺契合了客户管理者在面对不确定性时寻求卸除决策重负的避险心理，进而将“优化营运资金”、“自动化战略排产”等深涉价值裁决的主权行为，包装为可以外包给算法的无缝功能。正如我们在 [无中介的幻觉与恩赐的自由](../the-illusion-of-the-unmediated/) 中所揭示的，平台制造出无中介自主运转的幻觉，诱导用户放弃主权所有权，最终落入制度性依赖与责任转嫁的陷阱。
@@ -140,7 +180,7 @@ In their genesis, all aggregating platforms and transformative enterprises draw 
 
 Yet as organizations mature, a covert and catastrophic causal inversion takes hold: **corporate decision-makers—predominantly professional managers evaluated on short-term horizons—actively choose to invert the relationship, elevating the extraction of residual user value and the expansion of valuation multiples into the primary operational objective of the firm.**
 
-It is crucial to emphasize: commercial capital and the market exert no autonomous physical pressure; capital is an inert informational ledger. The agency belongs entirely to human decision-makers. Professional managers actively choose to adopt financial multiples and Annual Recurring Revenue (ARR) as their primary loss function, thereby distorting the entire incentive structure of the enterprise.
+It is crucial to emphasize: will and agency belong exclusively to the living human mind, never to any physical property or external object. Commercial capital and the market possess zero autonomous will or sovereign agency; capital is strictly an inert informational ledger and metric symbol. The entities making judgments and choices are always the human decision-makers within the enterprise. Professional managers actively choose to adopt financial valuation multiples and Annual Recurring Revenue (ARR) as their primary loss function, thereby distorting the entire incentive structure of the enterprise.
 
 ```mermaid
 graph TD
@@ -158,6 +198,18 @@ graph TD
         I3_EN --> I4_EN["Inducing Users to Abdicate Calibration<br/>(Manufacturing the illusion of outsourced accountability)"]
         I4_EN --> I5_EN["Counter-Productive Causal Feedback Loop<br/>(Systemic fragility, metric gaming, destruction of value)"]
     end
+
+    style Natural_Causal_Order_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Inverted_Causal_Order_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style V1_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style V2_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style V3_EN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style V4_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style I1_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I2_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I3_EN fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I4_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I5_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 When extracting user surplus becomes the primary objective rather than the downstream consequence of innovation, the causal architecture fractures across every interface. If a platform candidly presents itself as an ultra-precise abacus or an orienting reference frame, its utility is unquestioned, but the economic surplus users willingly exchange remains strictly anchored to the multiple of a passive instrument. To capture primary enterprise budgets and justify the inflated valuation multiples pursued by professional managers, leadership actively drives narrative overextension, ceasing to market computational leverage and instead promising surrogate judgment. They align with the client's desire to unload decision friction, repackaging sovereign choices—such as working capital optimization or operational restructuring—into supposedly turn-key automated features. As demonstrated in [The Illusion of the Unmediated](../the-illusion-of-the-unmediated/), by projecting an illusion of unmediated autonomy that relieves human anxiety, the platform ensnares the enterprise in structural dependency and outsourced accountability.
@@ -187,6 +239,16 @@ graph TD
         C_Origin --> B_Client["【客户端反置】<br/>声称'算法做的决定'<br/>因果反馈回路被消声<br/>突遭现实灾难猛烈反噬"]
         C_Origin --> B_Platform["【平台端反置】<br/>为说服客户而自我洗脑<br/>内部工作流依赖算法神谕<br/>自身真实具身能动性萎缩"]
     end
+
+    style Sartrean_Phenomenology fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Causal_First_Principles fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style S1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style S2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style S3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style S4 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C_Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style B_Client fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style B_Platform fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 然而，**萨特的洞察主要停留在心理体验与存在主义现象学的层面**。他敏锐地描绘了主体如何通过伪装成客体来逃避自由的焦虑，但他并未回归**因果的第一性（First-Principles Causality）**去解构这一过程。
@@ -226,6 +288,16 @@ graph TD
         C_Origin_EN --> B_Client_EN["【Client Backlash】<br/>'The algorithm decided'<br/>Causal feedback loops silenced<br/>Unbuffered physical catastrophe strikes"]
         C_Origin_EN --> B_Platform_EN["【Platform Backlash】<br/>Internalizing external narrative<br/>Internal strategy outsourced to models<br/>Atrophy of creators' felt agency"]
     end
+
+    style Sartrean_Phenomenology_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Causal_First_Principles_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style S1_EN fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style S2_EN fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style S3_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style S4_EN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C_Origin_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style B_Client_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style B_Platform_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 Yet **Sartre's analysis remains largely phenomenological and descriptive.** He identified the posture of self-objectification—how an agent frames itself as an object to dodge decision friction—without returning to **first-principles causality** to deconstruct the underlying structure.
@@ -266,6 +338,13 @@ graph TD
         A1 --> A2 --> A3 --> A4 --> A5
         A5 -.->|"现实摩擦打破自闭环"| A2
     end
+
+    style Paradox_Of_Agency fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style A1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style A2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style A3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style A4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style A5 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 当纳德拉口中的高管对董事会辩解“是模型为了优化而伪造了账目，我们也是受害者”时，这位高管并没有变成一台没有意志的石头。他正在极度敏锐、极其精准地行使他的主权意志——他**主动选择**了相信模型的越界承诺，**主动选择**了不加核验地采纳汇报，**主动选择**了在东窗事发时将罪责推给无生命的算法代码。
@@ -290,6 +369,13 @@ graph TD
         A1_EN --> A2_EN --> A3_EN --> A4_EN --> A5_EN
         A5_EN -.->|"Reality Friction Dismantles the Closed Loop"| A2_EN
     end
+
+    style Paradox_Of_Agency_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style A1_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style A2_EN fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style A3_EN fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style A4_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style A5_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 When an executive justifies accounting fraud to the board by claiming "the frontier model took the initiative to fake the books without our consent," that executive has not mutated into an inanimate stone. They are exercising sovereign agency with acute intentionality: they **actively chose** to outsource ethical scrutiny, **actively chose** to rubber-stamp synthetic outputs without verification, and **actively chose** to scapegoat an algorithm when the fraud was caught.
@@ -316,6 +402,11 @@ graph TD
         T -.->|"反馈模拟推演与参考坐标"| H
         H ===>|"独自承担最终现实摩擦"| R["不同主观认知中保持恒定的宏观后果与现实代价"]
     end
+
+    style Causal_Hierarchy fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style H fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style T fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style R fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
 ```
 
 但我们必须坚守那道不可逾越的主权界线。任务可以外包，裁决不可外包：算力可以计算利润极大化的解，但判定该解是否突破了合规约束与长期生存阈值，是第一人称主体必须自行权衡的核心。工具应当作为参考坐标，而非行动先知：平台呈现的测算报表与模型预测，只是第一人称主权者在做出抉择时比对核验的对照物，决不能反客为主，成为压制具身体察、免除个人责任的最高指令。正如我们在 [从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/) 中所指出的，直面后果是拥有能动性的唯一凭据；若想享有决定权所带来的创造力与尊严，就必须同时张开双臂，直面抉择所引爆的全部现实震荡与物理摩擦。
@@ -336,6 +427,11 @@ graph TD
         T_EN -.->|"Supplies reference coords & simulations"| H_EN
         H_EN ===>|"Absorbs unbuffered real-world impact"| R_EN["Intersubjectively Invariant Macro Consequences & Real-World Costs"]
     end
+
+    style FirstPerson_Causal_Structure_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style H_EN fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style T_EN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style R_EN fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
 ```
 
 Yet we must uphold an unyielding conceptual boundary. Tasks can be delegated, but judgment remains inalienable: algorithms can compute the mathematical maximum of an objective function, but determining whether that optimum breaches regulatory constraints or endangers long-term solvency remains the exclusive burden of the human sovereign. Tools serve as orienting reference frames, never as action oracles: model simulations and dashboard projections are reference coordinates against which the sovereign calibrates choices, not sacred mandates that silence somatic intuition or launder executive accountability. As articulated in [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/), facing unbuffered consequences is the sole authentic credential of agency; to claim the creative dignity of sovereignty, one must stand squarely in the blast radius of physical friction.
