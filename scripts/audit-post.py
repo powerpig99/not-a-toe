@@ -1,0 +1,233 @@
+#!/usr/bin/env python3
+"""
+Diagnostic audit script for post authoring invariants and workflow drift detection.
+
+Philosophy:
+  "非必要不变更，防止无意识漂移。"
+  Standard conventions should remain consistent by default across sessions.
+  They are not dogmatic straightjackets: intentional, context-driven variations
+  are permitted when specifically required, but accidental erosion and negligence
+  are caught before release.
+
+Checks:
+  1. Prose over lists (flags lists outside mermaid; reminder to write continuous prose unless necessary)
+  2. Historical Mermaid inline dark-theme styling (#161b22, #0d1117, semantic color borders)
+  3. Bilingual diagram parallelism (Chinese/English paired diagrams)
+  4. Relative internal cross-links resolution (all ../slug/ exist; no absolute URLs)
+  5. Banned words & essentialist cliches (0 tolerance for cognitive crutches)
+  6. LaTeX syntax prohibition (0 raw $ or $$; Unicode math only)
+  7. Multi-platform publishing copy in walkthrough (Spotify ZH/EN, WeChat Video, X EN)
+
+Usage:
+  python3 scripts/audit-post.py [slug_or_path]
+  python3 scripts/audit-post.py --allow-lists [slug_or_path]
+  python3 scripts/audit-post.py --walkthrough <path_to_walkthrough.md>
+"""
+
+import sys
+import os
+import re
+import argparse
+from pathlib import Path
+
+BANNED_WORDS = [
+    '纯粹', '绝对', '完全', '彻底', '绝不', '通常', '往往', '或许',
+    '某种意义上', '降维重构', '本质', '根本', '自始至终', '缰绳',
+    '物理现实', '平庸', '物理意志'
+]
+
+REQUIRED_WALKTHROUGH_SECTIONS = [
+    ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
+    ('Spotify Podcast (EN)', ['Spotify Podcast (EN)', 'Spotify 播客（英文）']),
+    ('WeChat Video Channels', ['WeChat Video Channels', '微信视频号']),
+    ('X (Twitter)', ['X (Twitter)', 'X (Twitter) (EN Only)', 'Twitter (X)'])
+]
+
+def find_target_file(arg):
+    root = Path(__file__).resolve().parent.parent
+    posts_dir = root / 'content' / 'posts'
+
+    if arg:
+        p = Path(arg)
+        if p.is_file():
+            return p
+        if (posts_dir / f"{arg}.md").is_file():
+            return posts_dir / f"{arg}.md"
+        if (posts_dir / arg).is_file():
+            return posts_dir / arg
+        sys.exit(f"Error: Target post file '{arg}' not found.")
+
+    # Auto-detect newest post in content/posts
+    md_files = [f for f in posts_dir.glob('*.md') if f.name != 'README.md']
+    if not md_files:
+        sys.exit("Error: No markdown posts found in content/posts.")
+    md_files.sort(key=lambda x: x.stat().st_mtime, reverse=True)
+    return md_files[0]
+
+def audit_post(file_path, allow_lists=False, walkthrough_path=None):
+    root = Path(__file__).resolve().parent.parent
+    posts_dir = root / 'content' / 'posts'
+
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    lines = content.splitlines()
+    slug = file_path.stem
+
+    warnings = []
+    errors = []
+    passes = []
+
+    print("=" * 70)
+    print(f"POST AUDIT: {file_path.name}")
+    print(f"Location:   {file_path}")
+    print("=" * 70)
+
+    # 1. Banned words audit
+    found_banned = {}
+    for word in BANNED_WORDS:
+        matches = [m.start() for m in re.finditer(re.escape(word), content)]
+        if matches:
+            found_banned[word] = len(matches)
+
+    if found_banned:
+        errors.append(f"Banned words detected: {found_banned}")
+    else:
+        passes.append("Banned vocabulary check (0 prohibited terms)")
+
+    # 2. LaTeX dollar audit
+    # Literal $ signs in text
+    dollar_count = content.count('$')
+    if dollar_count > 0:
+        errors.append(f"Raw LaTeX dollar signs detected ({dollar_count} occurrences). Use clean Unicode math symbols.")
+    else:
+        passes.append("Mathematical notation check (0 raw $ symbols)")
+
+    # 3. Absolute URL check
+    abs_matches = re.findall(r'https?://(?:powerpig99\.github\.io/not-a-toe|not-a-toe\.org)/posts/([a-zA-Z0-9_-]+)/?', content)
+    if abs_matches:
+        errors.append(f"Hardcoded absolute site URLs found for: {abs_matches}. Internal links MUST be relative: [title](../slug/).")
+    else:
+        passes.append("Link locality check (no hardcoded absolute site URLs)")
+
+    # 4. Cross-links resolution
+    rel_links = re.findall(r'\[([^\]]+)\]\(\.\./([a-zA-Z0-9_-]+)/?(?:#[^)]*)?\)', content)
+    missing_links = []
+    for anchor, target_slug in rel_links:
+        target_path = posts_dir / f"{target_slug}.md"
+        if not target_path.is_file():
+            missing_links.append((anchor, target_slug))
+
+    if missing_links:
+        errors.append(f"Broken relative cross-links (missing targets): {missing_links}")
+    else:
+        passes.append(f"Relative cross-links check ({len(rel_links)} links resolved cleanly)")
+
+    # 5. List items outside Mermaid
+    in_mermaid = False
+    list_lines = []
+    for idx, line in enumerate(lines, 1):
+        stripped = line.strip()
+        if stripped.startswith('```mermaid'):
+            in_mermaid = True
+        elif in_mermaid and stripped.startswith('```'):
+            in_mermaid = False
+        elif not in_mermaid:
+            if re.match(r'^\s*([0-9]+\.|\*|-)\s+', line):
+                list_lines.append((idx, line.strip()))
+
+    if list_lines:
+        msg = f"List syntax detected outside Mermaid ({len(list_lines)} lines). Rule: unless strictly necessary, do not use lists in essay prose."
+        if allow_lists:
+            warnings.append(f"{msg} [ALLOWED via --allow-lists]")
+        else:
+            warnings.append(f"{msg}\n    Examples: " + "; ".join([f"L{l[0]}: {l[1][:50]}" for l in list_lines[:4]]))
+    else:
+        passes.append("Prose structure check (0 bulleted/numbered lists outside Mermaid)")
+
+    # 6. Mermaid dark theme & styling
+    mermaid_blocks = re.findall(r'```mermaid(.*?)```', content, re.DOTALL)
+    if mermaid_blocks:
+        unformatted_diagrams = []
+        for i, block in enumerate(mermaid_blocks, 1):
+            has_subgraph_style = 'fill:#161b22' in block
+            has_node_style = 'fill:#0d1117' in block
+            if not (has_subgraph_style and has_node_style):
+                unformatted_diagrams.append(i)
+
+        if unformatted_diagrams:
+            errors.append(f"Mermaid diagrams missing historical dark-theme inline styles (#161b22, #0d1117): Diagrams {unformatted_diagrams} of {len(mermaid_blocks)}")
+        else:
+            passes.append(f"Mermaid styling check ({len(mermaid_blocks)} diagrams adhere to historical dark palette)")
+
+        # Bilingual parallelism check
+        has_zh = bool(re.search(r'[\u4e00-\u9fff]', content))
+        has_en = bool(re.search(r'##\s+.*\b(Section|Epilogue|Prologue)\b', content, re.IGNORECASE))
+        if has_zh and has_en:
+            if len(mermaid_blocks) % 2 != 0:
+                warnings.append(f"Bilingual diagram count is odd ({len(mermaid_blocks)}). Ensure every Chinese diagram has its exact English parallel counterpart.")
+            else:
+                passes.append(f"Bilingual diagram parallelism ({len(mermaid_blocks) // 2} paired diagrams)")
+    else:
+        passes.append("Mermaid check (no diagrams in this post)")
+
+    # 7. Walkthrough copy check (if walkthrough provided or discovered)
+    if not walkthrough_path:
+        brain_walkthrough = Path("/Users/jingliang/.gemini/antigravity/brain/f0e7480f-958a-4183-80da-595bc3ad23df/walkthrough.md")
+        if brain_walkthrough.is_file():
+            walkthrough_path = brain_walkthrough
+
+    if walkthrough_path and Path(walkthrough_path).is_file():
+        with open(walkthrough_path, 'r', encoding='utf-8') as wf:
+            w_content = wf.read()
+
+        missing_platforms = []
+        for platform_name, patterns in REQUIRED_WALKTHROUGH_SECTIONS:
+            if not any(pat in w_content for pat in patterns):
+                missing_platforms.append(platform_name)
+
+        if missing_platforms:
+            warnings.append(f"Walkthrough missing publishing copy for: {missing_platforms}")
+        else:
+            passes.append("Walkthrough copy check (Spotify ZH/EN, WeChat Video, X EN all present)")
+
+    # Report results
+    print("\n[PASSED INVARIANTS]")
+    for p in passes:
+        print(f"  ✓ {p}")
+
+    if warnings:
+        print("\n[CONTEXTUAL WARNINGS / DRIFT ADVISORIES]")
+        for w in warnings:
+            print(f"  ⚠ {w}")
+
+    if errors:
+        print("\n[CRITICAL VIOLATIONS]")
+        for e in errors:
+            print(f"  ✗ {e}")
+        print("\nResult: FAILED (violations must be resolved or explicitly overridden).")
+        return False
+    else:
+        if warnings:
+            print("\nResult: PASSED WITH ADVISORIES (verify intentionality of exceptions).")
+        else:
+            print("\nResult: CLEAN PASS (fully aligned with standard invariants).")
+        return True
+
+def main():
+    parser = argparse.ArgumentParser(description="Audit post against authoring invariants to prevent workflow drift.")
+    parser.add_argument("post", nargs="?", help="Post slug or markdown file path (defaults to latest modified post).")
+    parser.add_argument("--allow-lists", action="store_true", help="Acknowledge list formatting as an intentional exception.")
+    parser.add_argument("--walkthrough", help="Path to walkthrough.md to verify multi-platform copy.")
+    parser.add_argument("--strict", action="store_true", help="Treat warnings as errors.")
+
+    args = parser.parse_args()
+    target = find_target_file(args.post)
+    success = audit_post(target, allow_lists=args.allow_lists, walkthrough_path=args.walkthrough)
+
+    if not success or (args.strict and success is not True):
+        sys.exit(1)
+    sys.exit(0)
+
+if __name__ == '__main__':
+    main()

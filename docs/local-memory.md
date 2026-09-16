@@ -43,9 +43,14 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers — a livi
    - Verify against filesystem / scripts.
    - Fix drift in the **owner** tracker only.
    - If the same fact appears in two trackers, keep the owner; replace the other with a one-line pointer.
-3. **MEMORY.md** — drop anything now owned by a tracker; keep resume + prefs that cannot be re-derived.
-4. **Covers inventory** — if `assets/covers/*.jpg` and STYLES inventory disagree, update STYLES (owner).
-5. **Posts lattice (living tracing)** — leftover currency pass, not inventory rewrite and not the drop-time re-trace:
+3. **Workflow drift audit (非必要不变更，防止无意识漂移)**:
+   - For newly authored or revised posts in the session, run diagnostic check: `python3 scripts/audit-post.py <slug>`.
+   - Verify standard invariants: prose over lists (0 bullet lists outside mermaid unless strictly necessary), historical Mermaid dark theme (`#161b22`, `#0d1117`), relative cross-links resolution, 0 banned words, 0 raw LaTeX `$`, and standardized multi-platform walkthrough copy.
+   - **Not dogmatic**: Deliberate, context-driven variations or operator-directed choices are preserved as sovereign calibrations. The check specifically catches *unintentional, unneeded drift* (accidental erosion, falling back into generic LLM checklist habits, or forgetting historical styling).
+   - If a new general standard was clarified during the session, ensure it is codified in the owner tracker (`docs/essay-format.md` / `content/posts/README.md`) and reflected in `scripts/audit-post.py`.
+4. **MEMORY.md** — drop anything now owned by a tracker; keep resume + prefs that cannot be re-derived.
+5. **Covers inventory** — if `assets/covers/*.jpg` and STYLES inventory disagree, update STYLES (owner).
+6. **Posts lattice (living tracing)** — leftover currency pass, not inventory rewrite and not the drop-time re-trace:
    1. Capture prior posts graph (already on disk), then regenerate:
 
       ```bash
@@ -64,7 +69,7 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers — a livi
       - Skip reverse only when the neighbor genuinely has no shared axis (rare); note the skip. Isolation is exception, not default.
    5. If prose changed and Substack/X will be updated by hand, re-export those surfaces (export trackers).
    6. If any links changed, regenerate posts graph again.
-6. **Regenerate tracker / skill graphs**
+7. **Regenerate tracker / skill graphs**
 
    ```bash
    node scripts/project-local-graph.mjs
@@ -72,7 +77,7 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers — a livi
    node ~/.grok/skills/ontological-clarity/project-store-graph.mjs
    ```
 
-7. **Vital sign** — report net length change on trackers (excluding inventory rows that merely list new world residue), whether MEMORY shrank, posts-graph `missing_targets` (must be 0), and seed/neighbor review outcome (NO_CHANGE vs pointer edits).
+8. **Vital sign** — report net length change on trackers (excluding inventory rows that merely list new world residue), whether MEMORY shrank, posts-graph `missing_targets` (must be 0), and seed/neighbor review outcome (NO_CHANGE vs pointer edits).
 
 ### Sleep prompt sketch (posts pass)
 
