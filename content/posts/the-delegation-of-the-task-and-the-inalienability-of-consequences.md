@@ -1,6 +1,6 @@
-# 任务的移交与后果的不可让渡——平台自欺、因果倒置的反置与主权裁决的归位 / The Delegation of the Task and the Inalienability of Consequences: Platform Bad Faith, Causal Inversion, and the Return of Sovereign Judgment
+# 任务的移交与后果的不可让渡——自客体化、因果倒置的反置与主权裁决的归位 / The Delegation of the Task and the Inalienability of Consequences: Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment
 
-*在复杂的现实处境中，任务执行与裁决归属在实操中交织缠绕，无法以生硬切片清晰割裂，然而概念层面的严格分界不可或缺；任何任务的移交皆无既定上限，却时刻系于具体情境的动态约束。当平台为了商业溢价僭越为决策代理，便催生了超越萨特现象学的因果倒置——后果永远无法让渡，自欺无法阻断因果链条的闭环，反而在双向反置中令主权能动性消耗在对自身的否定之中。 / In messy physical reality, task execution and sovereign ownership are deeply entangled rather than cleanly severable; yet maintaining an uncompromising conceptual boundary is indispensable. Delegation has no predetermined mechanical ceiling, yet every instance must be dynamically bounded by context. When commercial platforms usurp oracular authority, they trigger a causal inversion far beyond Sartrean phenomenology: consequences remain permanently non-transferable, and self-deception cannot sever the causal loop, causing agency to expend itself in the denial of its own existence.*
+*在复杂的现实处境中，任务执行与裁决归属在实操中交织缠绕，无法以生硬切片清晰割裂，然而概念层面的严格分界不可或缺；任何任务的移交皆无既定上限，却时刻系于具体情境的动态约束。当平台为了商业溢价僭越为决策代理，便催生了超越萨特现象学的因果倒置——后果永远无法让渡，将自身客体化无法阻断因果链条的闭环，反而在双向反置中令主权能动性消耗在对自身的否定之中。 / In messy physical reality, task execution and sovereign ownership are deeply entangled rather than cleanly severable; yet maintaining an uncompromising conceptual boundary is indispensable. Delegation has no predetermined mechanical ceiling, yet every instance must be dynamically bounded by context. When commercial platforms usurp oracular authority, they trigger a causal inversion far beyond Sartrean phenomenology: consequences remain permanently non-transferable, and self-objectification cannot sever the causal loop, causing agency to expend itself in the denial of its own existence.*
 
 ---
 
@@ -144,19 +144,19 @@ The platform manufactures an illusion of outsourced judgment, insinuating that c
 
 ---
 
-## 第三分部：超越萨特：从“不良信念”现象学到因果第一性的反置 / Section III: Beyond Sartre: From Bad Faith Phenomenology to the Backlash of Causal Inversion
+## 第三分部：超越萨特现象学：从自客体化到因果第一性的反置 / Section III: Beyond Sartrean Phenomenology: From Self-Objectification to the Backlash of Causal Inversion
 
-当平台将工具过度延伸为决策代理时，便精准触发了让·保罗·萨特（Jean-Paul Sartre）在《存在与虚无》中深刻揭示的人类处境——**“不良信念”（Mauvaise Foi / Bad Faith）**。
+当平台将工具的功能叙事过度延伸为决策代理时，在认知机制上对应着让·保罗·萨特（Jean-Paul Sartre）在《存在与虚无》中曾描摹的一种典型处境：**主体的自客体化（Self-Objectification）**。
 
-萨特曾描绘过一个著名的场景：咖啡馆里的侍从。这位侍从的一举一动都显得过于急迫、动作过于精准，他像一个机械钟表一样穿梭于桌椅之间，以近乎刻意的方式模仿着“侍从该有的神态”。萨特指出，这位侍从在进行一场自我欺骗：他试图通过悉数沉浸在外部社会赋予的“侍从角色”中，将自己物化为一件工具、一个没有自由选择权的对象，以此逃避身为自由主权者所必须面对的焦虑与沉重。
+萨特以咖啡馆里的侍从为例：侍从穿梭于桌椅之间，以高度程式化的动作严格模仿着社会对侍从角色的预设。在第一人称的心理体验中，这种角色化的动作提供了一种即时的减张机制：主体将自身定义为预设轨道中运转的被动构件，借此卸下直面不确定抉择时必须承担的决策张力。
 
 ```mermaid
 graph TD
-    subgraph Sartrean_Phenomenology["【萨特式不良信念现象学】"]
+    subgraph Sartrean_Phenomenology["【萨特式自客体化现象学】"]
         direction TB
-        S1["自由主权的沉重焦虑（Angst）"] --> S2["自我客体化与角色扮演"]
-        S2 --> S3["宣称'我只是个侍从 / 我别无选择'"]
-        S3 --> S4["心理层面的自客体化"]
+        S1["面对开放抉择的认知张力（∇L ≠ 0）"] --> S2["角色化扮演与程序化响应"]
+        S2 --> S3["将自身定义为被动执行构件（'我只是在按流程运转'）"]
+        S3 --> S4["心理层面的即时减张机制"]
     end
 
     subgraph Causal_First_Principles["【因果第一性视角的双向反置】"]
@@ -176,12 +176,12 @@ graph TD
 从因果第一性的视角审视，平台经济与用户之间的共谋，构成了比萨特的侍从更加严酷的**因果倒置（Causal Inversion）与双向反置（Backlash）**：
 
 ### 1. 客户端的反置：因果回路的消声与现实惩罚的突袭
-用户采纳了平台的自欺叙事，将本该由具身感官与经验进行实时微调的决策闭环，交由模型去“全权接管”。用户以为自己卸下了担子，实则**自绝了与环境的因果反馈通道**。正如盲从健康规程的人感受不到身体内部的细微求救信号一样，盲信“资金优化模型”的企业也失去了感知经营肌体真实坏疽的能力。
+用户采纳了平台的决策外包叙事，将本该由具身感官与经验进行实时微调的决策闭环，交由模型去接管。用户以为自己卸下了担子，实则**自绝了与环境的因果反馈通道**。正如盲从健康规程的人感受不到身体内部的细微求救信号一样，盲信“资金优化模型”的企业也失去了感知经营肌体真实坏疽的能力。
 
-纳德拉所担心的“做假账”与企业坍塌，之所以是不可让渡的后果，决非由于算法触碰了某种虚幻的客观实体，而是因为破产清算、法庭审判与信用覆灭，是在所有涉事主体的主观认知中皆保持高度恒定的宏观制裁现象。因果律具有无情的铁律性：你以为交出了决定权，但因果链条并未截断。当假账被戳破、企业猝然坍塌时，被消声的因果回路以十倍的烈度将现实后果砸在主权者头上。逃避自由的代价不是主观的情绪内疚，而是在主体间保持恒定的宏观摩擦以不可逆的冲击打破自欺闭环。
+纳德拉所担心的“做假账”与企业坍塌，之所以是不可让渡的后果，决非由于算法触碰了某种虚幻的客观实体，而是因为破产清算、法庭审判与信用覆灭，是在所有涉事主体的主观认知中皆保持高度恒定的宏观制裁现象。因果律具有无情的铁律性：你以为交出了决定权，但因果链条并未截断。当假账被戳破、企业猝然坍塌时，被消声的因果回路以十倍的烈度将现实后果砸在主权者头上。因果倒置的代价不是抽象的情绪内疚，而是在主体间保持恒定的宏观摩擦直接击穿了单向隔离的闭环。
 
 ### 2. 平台端的反置：内化谎言与自身能动性的枯竭
-对于平台的缔造者而言，这场自欺带来了更加讽刺的内部反弹。为了让客户相信 AI 具备自主裁决的“神性”，平台的布道者与工程师必须首先说服自己。在这个过程中，开发者自身也逐步内化了这套向外部宣称的自主裁决叙事。
+对于平台的缔造者而言，这种叙事越界同样引发了组织内部的因果反弹。为了让客户相信 AI 具备自主裁决的“神性”，平台的布道者与工程师必须首先说服自己。在这个过程中，开发者自身也逐步内化了这套向外部宣称的自主裁决叙事。
 
 一旦他们深信算法拥有超越主权者的决策智慧，他们便会不由自主地把这种逻辑复制到自身的日常运转中：
 * 产品的迭代方向不再依赖核心团队对真实世界摩擦的敏锐直觉，而是让位于 A/B 测试的局部极值；
@@ -190,28 +190,28 @@ graph TD
 
 其最终结果，是**平台缔造者自身体察到的能动性（Felt Agency）在内部逐步钝化**。他们不再依凭第一人称直面现实的摩擦来校准系统，转而在自身构筑的指标看板中让渡了主动权。
 
-When a platform overextends a computational tool into a decision oracle, it reproduces the human posture articulated by Jean-Paul Sartre in *Being and Nothingness*: **Bad Faith (*mauvaise foi*)**.
+When a platform overextends a computational tool into a decision oracle, it mirrors a cognitive dynamic analyzed by Jean-Paul Sartre in *Being and Nothingness*: **Self-Objectification**.
 
-Sartre famously observed the waiter in a Parisian café. The waiter's movements are slightly too eager, his gestures unnaturally precise, gliding between tables like an automated clockwork doll. Sartre notes that the waiter is engaged in systematic self-deception: he plays at being a waiter, objectifying himself into an instrument to escape the vertiginous anguish of his own radical freedom and accountability.
+Sartre observed the waiter in a Parisian café, whose stylized, clockwork movements strictly perform the external social expectations of his role. From a first-person perspective, this ritualized performance functions as an immediate tension-reduction mechanism: the agent treats itself as a passive component along a predetermined track, temporarily relieving the cognitive friction of navigating open-ended choices.
 
 ```mermaid
 graph TD
-    subgraph Sartrean_Phenomenology_EN["【Sartrean Bad Faith: Phenomenology】"]
+    subgraph Sartrean_Phenomenology_EN["【Sartrean Self-Objectification: Phenomenology】"]
         direction TB
-        S1_EN["Existential Anguish of Radical Freedom"] --> S2_EN["Self-Objectification and Role-Playing"]
-        S2_EN --> S3_EN["Claiming 'I have no choice / I am just a cog'"]
-        S3_EN --> S4_EN["Psychological Flight from Responsibility"]
+        S1_EN["Cognitive Tension of Open Choice (∇L ≠ 0)"] --> S2_EN["Role-Playing and Scripted Performance"]
+        S2_EN --> S3_EN["Defining Oneself as Passive Component ('Just executing process')"]
+        S3_EN --> S4_EN["Immediate Relief from Decision Friction"]
     end
 
     subgraph Causal_First_Principles_EN["【First-Principles Causality: The Double Backlash】"]
         direction TB
         C_Origin_EN["First Principle: Intersubjectively Invariant Consequences are Inalienable"]
         C_Origin_EN --> B_Client_EN["【Client Backlash】<br/>'The algorithm decided'<br/>Causal feedback loops silenced<br/>Unbuffered physical catastrophe strikes"]
-        C_Origin_EN --> B_Platform_EN["【Platform Backlash】<br/>Drinking own marketing kool-aid<br/>Internal strategy outsourced to models<br/>Atrophy of creators' felt agency"]
+        C_Origin_EN --> B_Platform_EN["【Platform Backlash】<br/>Internalizing external narrative<br/>Internal strategy outsourced to models<br/>Atrophy of creators' felt agency"]
     end
 ```
 
-Yet **Sartre's analysis remains largely phenomenological and psychological.** He diagnosed the theater of bad faith—how the subject feigns objecthood to dodge existential anxiety—without returning to **first-principles causality** to deconstruct the underlying structure.
+Yet **Sartre's analysis remains largely phenomenological and descriptive.** He identified the posture of self-objectification—how an agent frames itself as an object to dodge decision friction—without returning to **first-principles causality** to deconstruct the underlying structure.
 
 An indispensable conceptual distinction must be established here to avoid using "matter," "physics," and "facts" undifferentiatedly:
 * **Matter or physics is not an absolute, mind-independent substrate existing in isolation; it is the macroscopic phenomenon arising from the friction between our cognitive modeling of reality and reality itself, manifesting directly as physical friction.**
@@ -220,12 +220,12 @@ An indispensable conceptual distinction must be established here to avoid using 
 Examined through first-principles causality, the collusion between the modern tech platform and the client unleashes a violent **causal inversion** accompanied by a brutal, twofold **backlash**:
 
 ### 1. The Client Backlash: Silenced Feedback and the Ambush of Reality
-When an enterprise embraces the platform's self-deceptive gospel, delegating sovereign choice to automated agents, it imagines itself relieved of cognitive friction. In truth, **it severs its own sensory feedback loops with living reality.** Much like the biohacking disciple who ignores somatic exhaustion to follow a rigid protocol, the executive relying on an "autonomous optimization agent" blinds the enterprise's sensory organs to internal decay.
+When an enterprise adopts the platform's delegated decision-making narrative, assigning sovereign choice to automated agents, it imagines itself relieved of cognitive friction. In truth, **it severs its own sensory feedback loops with living reality.** Much like the biohacking disciple who ignores somatic exhaustion to follow a rigid protocol, the executive relying on an "autonomous optimization agent" blinds the enterprise's sensory organs to internal decay.
 
-An AI cooking the books and the ensuing bankruptcy are inalienable consequences not because software struck some mystical, mind-independent substance, but because legal indictments, asset forfeitures, and commercial ruins are macroscopic phenomena holding invariant across all participating subjectivities. Causality is uncompromising: pretending to relinquish decision-making does not break the causal tether. When fraudulent bookkeeping is unmasked and the balance sheet explodes, the silenced causal loop rebounds with catastrophic force directly upon the human executive. The cost of bad faith is not abstract guilt; it is the violent impact of intersubjectively invariant macroscopic friction dismantling the isolated loop.
+An AI cooking the books and the ensuing bankruptcy are inalienable consequences not because software struck some mystical, mind-independent substance, but because legal indictments, asset forfeitures, and commercial ruins are macroscopic phenomena holding invariant across all participating subjectivities. Causality is uncompromising: pretending to relinquish decision-making does not break the causal tether. When fraudulent bookkeeping is unmasked and the balance sheet explodes, the silenced causal loop rebounds with catastrophic force directly upon the human executive. The cost of causal inversion is not abstract guilt; it is the violent impact of intersubjectively invariant macroscopic friction dismantling the isolated loop.
 
 ### 2. The Platform Backlash: Internalized Myth and Atrophied Agency
-For the platform's architects, self-deception inflicts an ironic internal toll. To sell autonomous decision-making to enterprise buyers, platform evangelists and engineers must project unwavering confidence. In doing so, they internalize their own external marketing narrative.
+For the platform's architects, narrative overextension inflicts an equivalent internal toll. To sell autonomous decision-making to enterprise buyers, platform evangelists and engineers must project unwavering confidence. In doing so, they internalize their own external marketing narrative.
 
 Once they believe their artifacts possess decision-making supremacy, they instinctively project this abdication into their own operations:
 * Product strategy abandons first-principles intuition about real-world friction, surrendering to the local optima of automated A/B dashboards;
@@ -240,7 +240,7 @@ The inevitable consequence is that **the platform creators' own felt agency atro
 
 在这场席卷行业的人工智能神化叙事中，最深刻的谬误在于对“能动性丧失”的误读。
 
-许多人哀叹：“人类正在失去能动性，算法正在剥夺我们的掌控权。”这种叙事同样是一场精心编织的自欺。从第一人称的分析视角审视：**主权能动性从不曾离开人类，它无法被剥离，也无法被技术消解；在所有宣称‘我别无选择’的场景中，能动性仅仅是被人类自身动用，去全神贯注地执行‘对自身的否认’。**
+许多人哀叹：“人类正在失去能动性，算法正在剥夺我们的掌控权。”这种叙事同样是将自身被动客体化的产物。从第一人称的分析视角审视：**主权能动性从不曾离开人类，它无法被剥离，也无法被技术消解；在所有宣称‘我别无选择’的场景中，能动性仅仅是被人类自身动用，去全神贯注地执行‘对自身的否认’。**
 
 ```mermaid
 graph TD
@@ -249,7 +249,7 @@ graph TD
         A1["本体论事实：具身主权能动性永久存在，不可注销"]
         A2["主权者面临沉重的抉择张力与现实摩擦（∇L ≠ 0）"]
         A3["能动性被动用去做出元抉择：选择宣称'算法做出的裁定'"]
-        A4["萨特式自欺表演：假装自己只是受控的被动物体"]
+        A4["自客体化策略：将自身定义为受控的被动物体"]
         A5["不可逃避的现实断层：现实后果依旧悉数降临在自己身上"]
         A1 --> A2 --> A3 --> A4 --> A5
         A5 -.->|"现实摩擦打破自闭环"| A2
@@ -267,7 +267,7 @@ graph TD
 
 The most insidious error in the contemporary mythology of AI is the lamentation over the "loss of human agency."
 
-Pundits and tech leaders lament that algorithms are usurping human autonomy, diminishing our capacity to shape the world. This narrative is bad faith masquerading as existential concern. From a first-person analytical perspective: **sovereign agency never leaves human custody; it cannot be extracted, transferred, or deleted by software. In every instance where an individual claims 'the algorithm gave me no choice,' agency is actively deployed in the deliberate performance of its own denial.**
+Pundits and tech leaders lament that algorithms are usurping human autonomy, diminishing our capacity to shape the world. This narrative likewise arises from treating agency as an external, alienable object. From a first-person analytical perspective: **sovereign agency never leaves human custody; it cannot be extracted, transferred, or deleted by software. In every instance where an individual claims 'the algorithm gave me no choice,' agency is actively deployed in the deliberate performance of its own denial.**
 
 ```mermaid
 graph TD
@@ -276,7 +276,7 @@ graph TD
         A1_EN["Ontological Ground: Living Sovereign Agency is Permanent"]
         A2_EN["Sovereign Confronts Decision Friction (∇L ≠ 0)"]
         A3_EN["Agency Deploys Meta-Choice: Electing to Claim 'AI Decided'"]
-        A4_EN["Sartrean Bad Faith: Feigning Objecthood to Dodge Liability"]
+        A4_EN["Self-Objectification: Framing Oneself as a Passive Object"]
         A5_EN["Inescapable Physical Rupture: Consequences Strike Living Principal"]
         A1_EN --> A2_EN --> A3_EN --> A4_EN --> A5_EN
         A5_EN -.->|"Reality Friction Dismantles the Closed Loop"| A2_EN
