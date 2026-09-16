@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-09-16T10:18:42.327Z",
+    "generated_at": "2026-09-16T10:49:19.640Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -14,7 +14,7 @@
       "export/README.md": "c0a8866a454d",
       "assets/covers/STYLES.md": "f1fd44a81926",
       "README.md": "544757900335",
-      "docs/local-memory.md": "188219cb976c",
+      "docs/local-memory.md": "d86601c952b8",
       "build.mjs": "e50c39576e5c",
       "scripts/export-absolute-md.mjs": "3bbb08fdfc89",
       "scripts/publish-x-article.mjs": "13625fa17198",
@@ -328,7 +328,7 @@
       "path": "docs/local-memory.md",
       "owns": "manifest",
       "exists": true,
-      "hash": "188219cb976c",
+      "hash": "d86601c952b8",
       "summary": "Manifest of operational `.md` files for this project.",
       "headings": [
         "Local memory — living trackers and sleep audit",
