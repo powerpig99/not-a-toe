@@ -3,12 +3,12 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-09-16T08:44:06.485Z",
+    "generated_at": "2026-09-16T10:18:42.327Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "ab580602f26b",
-      "docs/essay-format.md": "1b1e14e2dec1",
+      "content/posts/README.md": "be8fcdc6cf1a",
+      "docs/essay-format.md": "03ada3fc31f4",
       "docs/export-for-substack.md": "9a2df9f4dfab",
       "docs/export-for-x-article.md": "55ab96853de2",
       "export/README.md": "c0a8866a454d",
@@ -307,7 +307,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "1b1e14e2dec1",
+      "hash": "03ada3fc31f4",
       "summary": "**Reference for site scaffold** — not absolute ground over the operator’s draft.",
       "headings": [
         "Essay Formatting Guide",
@@ -360,7 +360,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "ab580602f26b",
+      "hash": "be8fcdc6cf1a",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",

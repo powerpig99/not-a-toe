@@ -27,8 +27,21 @@ Output rules (strict):
 15. Fold any seed observation (tweet, note) into the prose so the essay stands alone; do not depend on a deletable external post link.
 16. When introducing the irreducible prior by name, use the house premise formula exactly: `Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction.` If refining a draft that already names the prior cleanly, do not force a full formula insert that rewrites the paragraph. Owner detail: [`content/posts/README.md`](../content/posts/README.md).
 17. Negation: soft differentiation is fine; assertive negation of other takes is closed. Assertive negation is reserved for dissolving a closed-reality assumption. Prefer stating identity. Owner detail: [`content/posts/README.md`](../content/posts/README.md) refinement / voice section.
-18. List formatting (CRITICAL): Always insert an empty blank line BEFORE and AFTER any list block (`* ` or `1. `), especially after introductory text ending with a colon `:`. Never start a list immediately on the following line without an intervening blank line, as CommonMark parsers and Substack/X clipboard paste handlers will flatten the list into a single paragraph with inlined asterisks.
-19. Mathematical and symbolic notation: Do NOT use LaTeX syntax (`$` or `$$`). `build.mjs`, Substack, and X do not parse LaTeX, leaving raw dollar signs and backslashes in the output. Always use clean Unicode mathematical symbols (e.g. `—∞ → +∞`, `ΔV + ΔE = 0`, `R_perceive = R_collapse`, `V₁ ⇌ V₂ ⇌ V₃ ⇌ V₁`, `(0 or 1)`), emphasis (`*V*`), or backticked code.
+18. Prose over lists (CRITICAL): Unless strictly necessary, do NOT write essays in list or checklist form (`*` or `1.`). Express complex causal mechanics and arguments in continuous, flowing, rigorous narrative prose. If a list is genuinely unavoidable, always insert an empty blank line BEFORE and AFTER the list block.
+19. Cross-links as standard workflow: Mandatory relative cross-linking (`[title](../slug/)`) of directly related corpus essays is an integral part of the standard authoring process. Pointers restore axes; they do not summarize or remix prior posts.
+20. Mermaid diagram styling and bilingual parallelism:
+    - Inline dark-theme styling is mandatory for all Mermaid diagrams to match historical posts:
+      - Subgraph: `style S_... fill:#161b22,stroke:#<hex>,stroke-width:1.5px,color:#<hex>`
+      - Node: `style NodeID fill:#0d1117,stroke:#<hex>,stroke-width:1px,color:#f0f6fc`
+      - Semantic color palette: Green (`#3fb950` - Sovereign judgment, living calibration, authentic causality), Red (`#f85149` - Inversion, outsourcing, alienation, prescriptive protocol, failure/backlash), Amber/Gold (`#d29922` - Mechanical execution, scaffolding, tradeoffs), Blue (`#58a6ff` - Computational models, telemetry, signals, references), Purple (`#a371f7` - Self-referential loop, paradoxical circuit, meta-choice).
+    - For bilingual posts (Chinese + English sections), diagrams must maintain exact topological and conceptual parallelism: every Chinese diagram must have its English parallel diagram with identical node hierarchy and semantic coloring.
+21. Epistemological discipline & vocabulary hygiene:
+    - Will and agency belong strictly to the living Mind (主权心智). Never subordinate will to physics; never use "物理意志" or attribute will/agency to inanimate tools, capital, markets, or physical substrate. Capital is an inert informational accounting metric.
+    - Matter and physics are the macroscopic phenomena arising from the friction between our cognitive modeling and reality, experienced directly as physical friction.
+    - Objective facts: there are no mind-independent objective facts; "objective facts" are macroscopic phenomena that maintain invariance across different subjective cognitions.
+    - Clean moralizing rhetoric: purge judgmental, patronizing, or moralizing language that presumes a God's-eye view. Maintain a rigorous first-person analytical perspective.
+    - Banned words zero-tolerance: zero occurrences of prohibited buzzwords and clichés (`['纯粹', '绝对', '完全', '彻底', '绝不', '通常', '往往', '或许', '某种意义上', '降维重构', '本质', '根本', '自始至终', '缰绳', '物理现实', '平庸', '物理意志']`).
+22. Mathematical and symbolic notation: Do NOT use LaTeX syntax (`$` or `$$`). `build.mjs`, Substack, and X do not parse LaTeX, leaving raw dollar signs and backslashes in the output. Always use clean Unicode mathematical symbols (e.g. `—∞ → +∞`, `ΔV + ΔE = 0`, `R_perceive = R_collapse`, `V₁ ⇌ V₂ ⇌ V₃ ⇌ V₁`, `(0 or 1)`), emphasis (`*V*`), or backticked code.
 ```
 
 Full title / subtitle / lead jobs, refinement workflow, and anti-repetition check: [`content/posts/README.md`](../content/posts/README.md) (owner).

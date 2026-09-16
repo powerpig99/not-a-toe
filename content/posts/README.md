@@ -51,8 +51,12 @@ Lead: 2–4 complete sentences summarizing the argument.
 | Lead | Following sentences before first `##`; pure prose — no lists, quotes blocks, or HRs in the open |
 | Body | Starts at first `##` / `###` |
 | Section headings | Name the cut of that section — a specific claim or distinction. Not a generic slot |
-| Allowed | Headings, paragraphs, `[text](url)`, `*`/`**`, `>`, lists, `---` in body only; hard line breaks (two trailing spaces) for verse in body |
-| List formatting | **Blank line before & after (CRITICAL)**: Always insert an empty newline before and after every list block (`* ` or `1. `), especially after a colon `:`. Never start a list immediately on the following line without an empty line, otherwise CommonMark and Substack/X clipboard handlers flatten the list into a single paragraph with inline asterisks |
+| Allowed | Headings, paragraphs, `[text](url)`, `*`/`**`, `>`, lists (when strictly necessary), `---` in body only; hard line breaks (two trailing spaces) for verse in body |
+| Prose over lists | **Avoid list forms (CRITICAL)**: Unless strictly necessary, do not write essays in checklist or list form (`*` or `1.`). Express arguments in continuous, flowing, rigorous narrative prose |
+| List formatting | **Blank line before & after (when lists are strictly necessary)**: Always insert an empty newline before and after every list block (`* ` or `1. `), especially after a colon `:`. Never start a list immediately on the following line without an empty line |
+| Cross-links | **Standard workflow**: Mandatory relative cross-links `[text](../slug/)` to directly related corpus essays |
+| Mermaid styling | **Historical dark-theme standard**: Subgraphs `fill:#161b22`, nodes `fill:#0d1117`, with green `#3fb950` (Mind/sovereign), red `#f85149` (inversion/failure), amber `#d29922` (mechanical), blue `#58a6ff` (telemetry/models), purple `#a371f7` (loops). Bilingual posts require exact parallel English diagrams |
+| Epistemology & Voice | Agency and will belong strictly to Mind (no "物理意志"); matter/physics is model-reality friction; objective facts are intersubjective invariants; purge moralizing/judgmental rhetoric; zero banned words; zero LaTeX `$` |
 | Forbidden | YAML frontmatter, HTML, non-prose blocks before first section heading |
 | End | Trailing newline |
 
