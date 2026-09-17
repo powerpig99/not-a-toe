@@ -37,6 +37,7 @@ BANNED_WORDS = [
 ]
 
 REQUIRED_WALKTHROUGH_SECTIONS = [
+    ('Companion NotebookLM Prompts (Audio & Video)', ['Companion NotebookLM Prompts', 'NotebookLM Prompts', 'Audio Dialogue', '语音对话', '视频独白', 'Video Monologue']),
     ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
     ('Spotify Podcast (EN)', ['Spotify Podcast (EN)', 'Spotify 播客（英文）']),
     ('WeChat Video Channels', ['WeChat Video Channels', '微信视频号']),
@@ -187,9 +188,37 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 missing_platforms.append(platform_name)
 
         if missing_platforms:
-            warnings.append(f"Walkthrough missing publishing copy for: {missing_platforms}")
+            warnings.append(f"Walkthrough missing required sections for: {missing_platforms}")
         else:
-            passes.append("Walkthrough copy check (Spotify ZH/EN, WeChat Video, X EN all present)")
+            passes.append("Walkthrough copy check (NotebookLM Prompts, Spotify ZH/EN, WeChat Video, X EN all present)")
+
+    # 8. Companion NotebookLM prompts audit
+    prompts_dir = root / 'notebooklm-auto' / 'prompts'
+    audio_prompt_file = prompts_dir / f"{slug}_zh.txt"
+    video_prompt_file = prompts_dir / f"{slug}_video_zh.txt"
+
+    prompt_missing = []
+    if not audio_prompt_file.is_file():
+        prompt_missing.append(f"notebooklm-auto/prompts/{slug}_zh.txt (Audio Dialogue)")
+    if not video_prompt_file.is_file():
+        prompt_missing.append(f"notebooklm-auto/prompts/{slug}_video_zh.txt (Video Monologue)")
+
+    if prompt_missing:
+        warnings.append(f"Missing companion NotebookLM prompt files: {prompt_missing}")
+    else:
+        # Check prompt files for banned words & raw $
+        prompt_banned = {}
+        for pf in [audio_prompt_file, video_prompt_file]:
+            p_text = pf.read_text(encoding='utf-8')
+            for w in BANNED_WORDS:
+                if w in p_text:
+                    prompt_banned.setdefault(pf.name, []).append(w)
+            if '$' in p_text:
+                errors.append(f"Raw $ detected in prompt file {pf.name}")
+        if prompt_banned:
+            errors.append(f"Banned words detected in companion prompts: {prompt_banned}")
+        else:
+            passes.append("Companion NotebookLM prompts check (Audio Dialogue & Video Monologue present and clean)")
 
     # Report results
     print("\n[PASSED INVARIANTS]")
