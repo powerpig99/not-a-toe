@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-16T10:49:17.758Z",
+    "generated_at": "2026-09-17T10:32:53.053Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -15,6 +15,7 @@
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "75ea3ced28ac",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "15737ab87ae6",
+      "content/posts/agency-does-not-arise.md": "37d78e35848d",
       "content/posts/agency-relocated-into-the-formal-model.md": "86d69a48a123",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "fd9d3cf5c73a",
@@ -339,13 +340,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 329,
-      "edges": 3186,
-      "unique_directed": 2986,
+      "posts": 330,
+      "edges": 3208,
+      "unique_directed": 2997,
       "missing_targets": 0,
-      "one_way": 772,
+      "one_way": 783,
       "isolated": 43,
-      "posts_with_outbound": 263
+      "posts_with_outbound": 264
     }
   },
   "hubs_in": [
@@ -419,7 +420,7 @@
     },
     {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
-      "in_degree": 25
+      "in_degree": 26
     },
     {
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -705,6 +706,29 @@
       ]
     },
     {
+      "id": "post:agency-does-not-arise",
+      "kind": "post",
+      "slug": "agency-does-not-arise",
+      "path": "content/posts/agency-does-not-arise.md",
+      "title": "主体性不曾涌现：涌现的范畴谬误、潜在空间渗入与第一人称先验起点 / Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior",
+      "hash": "37d78e35848d",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+        "complexity-obscures-emergence-as-the-act-of-mind",
+        "determinism-is-the-statistical-signature-of-micro-indeterminism",
+        "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "causality-and-the-irreducible-prior",
+        "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "consciousness-never-appears-as-data-among-data",
+        "zi-you-de-ce-bu-zhun",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop"
+      ]
+    },
+    {
       "id": "post:agency-relocated-into-the-formal-model",
       "kind": "post",
       "slug": "agency-relocated-into-the-formal-model",
@@ -901,7 +925,7 @@
       "path": "content/posts/causality-and-the-irreducible-prior.md",
       "title": "Causality and the Irreducible Prior",
       "hash": "eca0fc968681",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 9,
       "links_out": [
         "causality-all-the-way",
@@ -922,7 +946,7 @@
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
       "hash": "e3ffc8e7b02f",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 7,
       "links_out": [
         "dimensions-are-projections",
@@ -1195,7 +1219,7 @@
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "Complexity Obscures: Emergence as the Act of Mind",
       "hash": "7565d5a1e4a7",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1280,7 +1304,7 @@
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
       "title": "Consciousness Never Appears as Data Among Data",
       "hash": "5b80b9d897c0",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 17,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -1502,7 +1526,7 @@
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
       "hash": "31576ea7ba78",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 1,
       "links_out": [
         "the-residue-and-the-free-variable"
@@ -4619,7 +4643,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡——自客体化、因果倒置的反置与主权裁决的归位 / The Delegation of the Task and the Inalienability of Consequences: Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment",
       "hash": "5f6deb0f9d72",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5313,7 +5337,7 @@
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声——从群体统计拜物教到收回第一人称校准 / The Inversion of the Protocol and the Silencing of the Causal Loop: From Population Statistics Fetish to Reclaiming First-Person Calibration",
       "hash": "50b41ea2cad1",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 0,
       "links_out": []
     },
@@ -6398,7 +6422,7 @@
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法：形式模型、宏观摩擦，以及未被定律决定的现实 / The Sleight of Hand in \"Physics Is the Law\": Formal Models, Macroscopic Friction, and a Reality Undetermined by Law",
       "hash": "907328462f77",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 10,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -7245,7 +7269,7 @@
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错",
       "hash": "c4fa83dc56a3",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 6,
       "links_out": [
         "the-mark-and-the-act",
@@ -7349,7 +7373,7 @@
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权：量子、比特与微观选择",
       "hash": "ef42796b2862",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 7,
       "links_out": [
         "what-information-is",
@@ -7368,7 +7392,7 @@
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
       "title": "自由的测不准：微观主权、统计涌现与自由意志的佯谬",
       "hash": "32b2df0b732b",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 13,
       "links_out": [
         "causality-all-the-way",
@@ -7872,6 +7896,138 @@
       "to": "the-extendable-horizon",
       "rel": "points_to",
       "label": "the extendable horizon"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果与集体归因倒错"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "复杂性遮蔽：涌现作为心智的投射"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "决定论是微观非决定论的统计特征"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "Emergence as Pseudo-Causality and Collective Attribution Error"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "Determinism Is the Statistical Signature of Micro-Indeterminism"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "自由变量的同构与先验主权"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "物理学不是律法，现实的摩擦才是"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "Isomorphism of Free Variables and A Priori Sovereignty"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "Physics Is Not the Law, the Friction of Reality Is"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "因果与不可化约的先验起点"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "因果不可化约，物理学是从无处而来的视角"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the Irreducible Prior"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "Causality Is Irreducible: The Physical Is a View from Nowhere"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "意识从不作为数据出现在数据之中"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "The Uncertainty Principle of Freedom"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "协议的反置与因果闭环的噤声"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
