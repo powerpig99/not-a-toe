@@ -42,8 +42,8 @@ Located in `notebooklm-auto/prompts/`:
 - **Audio Dialogue** (`notebooklm-auto/prompts/<slug>_zh.txt`): Deep dialogue between 明理 (engineering/systems reality) and 雨涵 (philosophy/cybernetics). Must contain three standard sections:
   1. `### [角色与对话规范]` (Roles, core epistemological constraints, perspective division).
   2. `### [核心议题清单]` (Structured topic outline).
-  3. `### [正文对谈开场示例]` (Authentic multi-turn opening dialogue between 明理 and 雨涵).
-  *Rule*: The standard opening dialogue is refined based on the new analysis of each essay, but NEVER deleted or omitted.
+  3. `### [正文对谈开场示例]` (Must begin with the canonical *Not a Theory of Everything* opening delivered by 明理: summarizing that any theory is scaffolding, first-person perspective and causality are two sides of the same coin, neither closing the universe nor reactive rebellion, and stepping into living friction; followed by 雨涵's natural transition into the essay's core tension, and their multi-turn deep dialogue).
+  *Rule*: The canonical Not-a-ToE opening on causality and first-person perspective is refined based on the new analysis of each essay, but NEVER deleted or omitted.
 - **Video Monologue** (`notebooklm-auto/prompts/<slug>_video_zh.txt`): Single-speaker philosophical deep monologue articulating the essay's core cuts in continuous, spoken prose. Must contain:
   1. `### [单人深度文稿规范]`
   2. `### [核心议题脉络]`

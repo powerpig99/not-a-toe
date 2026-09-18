@@ -44,10 +44,10 @@ Output rules (strict):
 22. Mathematical and symbolic notation: Do NOT use LaTeX syntax (`$` or `$$`). `build.mjs`, Substack, and X do not parse LaTeX, leaving raw dollar signs and backslashes in the output. Always use clean Unicode mathematical symbols (e.g. `—∞ → +∞`, `ΔV + ΔE = 0`, `R_perceive = R_collapse`, `V₁ ⇌ V₂ ⇌ V₃ ⇌ V₁`, `(0 or 1)`), emphasis (`*V*`), or backticked code.
 23. Companion NotebookLM Prompts (Standard Deliverable):
     - For every post, generate companion Chinese NotebookLM prompt files under `notebooklm-auto/prompts/`:
-      - Audio Dialogue (`notebooklm-auto/prompts/<slug>_zh.txt`): Deep dialogue between 明理 and 雨涵, containing:
+      - Audio Dialogue (`notebooklm-auto/prompts/<slug>_zh.txt`): Deep dialogue between 明理 (engineering/systems reality) and 雨涵 (philosophy/cybernetics), containing three mandatory sections:
         1. `### [角色与对话规范]` (roles, strict epistemological constraints, perspective division)
         2. `### [核心议题清单]` (structured topic outline)
-        3. `### [正文对谈开场示例]` (authentic multi-turn opening dialogue between 明理 and 雨涵; refine it based on the new analysis, but NEVER delete or omit it).
+        3. `### [正文对谈开场示例]` (authentic multi-turn opening dialogue between 明理 and 雨涵; must open with the canonical *Not a Theory of Everything* standard opening delivered by 明理: summarizing that any theory/model is scaffolding, first-person perspective and causality are two sides of the same coin, neither closing the universe nor reactive rebellion, and stepping into living friction; followed by 雨涵's natural transition into the essay's core tension, and their multi-turn deep dialogue. Rule: refine the opening based on the new analysis, but NEVER delete or omit it).
       - Video Monologue (`notebooklm-auto/prompts/<slug>_video_zh.txt`): Single-speaker philosophical deep monologue dissecting the post's core cuts, containing `### [单人深度文稿规范]`, `### [核心议题脉络]`, and `### [正文文稿]` (full unbroken spoken monologue text).
     - Both prompt files must be strictly link-free (no markdown or HTML links), contain 0 banned words, and contain 0 raw `$` symbols.
 24. Standard Walkthrough Contract:
