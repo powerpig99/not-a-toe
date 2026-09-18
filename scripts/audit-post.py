@@ -248,6 +248,20 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         else:
             passes.append("Companion NotebookLM prompts check (Audio Dialogue & Video Monologue present and clean)")
 
+        # Verify standard schema: opening dialogue in audio prompt, full spoken script in video prompt
+        audio_text = audio_prompt_file.read_text(encoding='utf-8')
+        video_text = video_prompt_file.read_text(encoding='utf-8')
+        schema_missing = []
+        if '正文对谈开场示例' not in audio_text:
+            schema_missing.append(f"{audio_prompt_file.name} missing '### [正文对谈开场示例]' (standard dialogue opening)")
+        if '正文文稿' not in video_text:
+            schema_missing.append(f"{video_prompt_file.name} missing '### [正文文稿]' (full monologue script)")
+
+        if schema_missing:
+            warnings.append(f"Companion prompt schema incomplete: {schema_missing}. Rule: Standard opening dialogue and monologue script must be refined based on new analysis, but never deleted or omitted.")
+        else:
+            passes.append("Companion prompt schema check (Audio Opening Dialogue & Video Monologue Script present)")
+
     # Report results
     print("\n[PASSED INVARIANTS]")
     for p in passes:
