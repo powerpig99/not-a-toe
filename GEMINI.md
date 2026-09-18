@@ -39,8 +39,15 @@ For every new or revised essay, the complete deliverable set consists of:
 
 ### 3. Companion NotebookLM Prompts (Chinese Only, Link-Free)
 Located in `notebooklm-auto/prompts/`:
-- **Audio Dialogue** (`notebooklm-auto/prompts/<slug>_zh.txt`): Deep dialogue between 明理 (engineering/systems reality) and 雨涵 (philosophy/cybernetics), containing roles, core epistemological constraints, structured topic outline, and sample opening dialogue.
-- **Video Monologue** (`notebooklm-auto/prompts/<slug>_video_zh.txt`): Single-speaker philosophical deep monologue articulating the essay's core cuts in continuous, spoken prose.
+- **Audio Dialogue** (`notebooklm-auto/prompts/<slug>_zh.txt`): Deep dialogue between 明理 (engineering/systems reality) and 雨涵 (philosophy/cybernetics). Must contain three standard sections:
+  1. `### [角色与对话规范]` (Roles, core epistemological constraints, perspective division).
+  2. `### [核心议题清单]` (Structured topic outline).
+  3. `### [正文对谈开场示例]` (Authentic multi-turn opening dialogue between 明理 and 雨涵).
+  *Rule*: The standard opening dialogue is refined based on the new analysis of each essay, but NEVER deleted or omitted.
+- **Video Monologue** (`notebooklm-auto/prompts/<slug>_video_zh.txt`): Single-speaker philosophical deep monologue articulating the essay's core cuts in continuous, spoken prose. Must contain:
+  1. `### [单人深度文稿规范]`
+  2. `### [核心议题脉络]`
+  3. `### [正文文稿]` (Full unbroken spoken monologue script).
 - **Rules**: Zero links (no markdown or HTML URLs), zero banned words, zero raw `$` symbols.
 
 ### 4. Walkthrough Document (`walkthrough.md`)
