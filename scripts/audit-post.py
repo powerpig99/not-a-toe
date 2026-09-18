@@ -192,6 +192,34 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         else:
             passes.append("Walkthrough copy check (NotebookLM Prompts, Spotify ZH/EN, WeChat Video, X EN all present)")
 
+        # Verify that all 4 platform copies include the canonical post URL
+        expected_url_slug = f"posts/{slug}"
+        missing_url_platforms = []
+        platform_sections = [
+            ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
+            ('Spotify Podcast (EN)', ['Spotify Podcast (EN)', 'Spotify 播客（英文）']),
+            ('WeChat Video Channels', ['WeChat Video Channels', '微信视频号']),
+            ('X (Twitter)', ['X (Twitter)', 'X (Twitter) (EN Only)', 'Twitter (X)'])
+        ]
+        for name, patterns in platform_sections:
+            found_pos = -1
+            for pat in patterns:
+                pos = w_content.find(pat)
+                if pos != -1:
+                    found_pos = pos
+                    break
+            if found_pos != -1:
+                next_header = re.search(r'\n#{2,3}\s+', w_content[found_pos + 10:])
+                end_pos = (found_pos + 10 + next_header.start()) if next_header else len(w_content)
+                sec_text = w_content[found_pos:end_pos]
+                if expected_url_slug not in sec_text:
+                    missing_url_platforms.append(name)
+
+        if missing_url_platforms:
+            warnings.append(f"Walkthrough platform copies missing canonical post link ({expected_url_slug}): {missing_url_platforms}")
+        else:
+            passes.append("Walkthrough platform copy links check (all 4 platform copies include canonical post URL)")
+
     # 8. Companion NotebookLM prompts audit
     prompts_dir = root / 'notebooklm-auto' / 'prompts'
     audio_prompt_file = prompts_dir / f"{slug}_zh.txt"
