@@ -48,7 +48,7 @@ Output rules (strict):
       - Video Monologue (`notebooklm-auto/prompts/<slug>_video_zh.txt`): Single-speaker philosophical deep monologue dissecting the post's core cuts.
     - Both prompt files must be strictly link-free (no markdown or HTML links), contain 0 banned words, and contain 0 raw `$` symbols.
 24. Standard Walkthrough Contract:
-    - Every post walkthrough must embed the visual artifact, describe the cover art style and concept, catalogue all dark-theme Mermaid diagrams with semantic coloring, articulate core epistemological cuts, report invariant diagnostic check results, include full text and links for Companion NotebookLM Prompts, and provide multi-platform publishing copies (Spotify Podcast ZH, Spotify Podcast EN, WeChat Video Channels, and X/Twitter EN Only).
+    - Every post walkthrough must embed the visual artifact, describe the cover art style and concept, catalogue all dark-theme Mermaid diagrams with semantic coloring, articulate core epistemological cuts, report invariant diagnostic check results, include full text and links for Companion NotebookLM Prompts, and provide multi-platform publishing copies (Spotify Podcast ZH, Spotify Podcast EN, WeChat Video Channels, and X/Twitter EN Only; all four platform copies must explicitly include the original essay live URL: `https://powerpig99.github.io/not-a-toe/posts/<slug>/`).
 ```
 
 Full title / subtitle / lead jobs, refinement workflow, and anti-repetition check: [`content/posts/README.md`](../content/posts/README.md) (owner).

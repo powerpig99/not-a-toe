@@ -51,10 +51,11 @@ Stored in the active conversation artifact directory, structured as:
 4. Verification & invariant diagnostic check results.
 5. **Companion NotebookLM Prompts (Chinese Only, Link-Free)**: File links and full prompt texts for Audio Dialogue and Video Monologue.
 6. **Multi-Platform Publishing Copies**:
-   - Spotify Podcast (ZH)
-   - Spotify Podcast (EN)
-   - WeChat Video Channels (微信视频号)
-   - X (Twitter) (EN Only)
+   - All four platform copies must explicitly include the canonical live link to the original essay (`https://powerpig99.github.io/not-a-toe/posts/<slug>/`):
+     - Spotify Podcast (ZH) (includes original post URL)
+     - Spotify Podcast (EN) (includes original post URL)
+     - WeChat Video Channels (微信视频号) (includes original post URL)
+     - X (Twitter) (EN Only) (includes original post URL)
 
 ---
 
