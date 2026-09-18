@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-17T10:32:53.053Z",
+    "generated_at": "2026-09-18T04:51:04.921Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -174,6 +174,7 @@
       "content/posts/sowell-observed-the-surface-problem.md": "38216bcac027",
       "content/posts/stability-and-excess.md": "a439cbed2235",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "ae77b9ede8b3",
+      "content/posts/subtracting-consciousness-at-the-source.md": "2f2c9511eb41",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "a4c23a576bff",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "ba001bbc15a9",
       "content/posts/technology-is-residual-of-human-compounding.md": "2d2d07f8486b",
@@ -340,13 +341,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 330,
-      "edges": 3208,
-      "unique_directed": 2997,
+      "posts": 331,
+      "edges": 3220,
+      "unique_directed": 3003,
       "missing_targets": 0,
-      "one_way": 783,
+      "one_way": 789,
       "isolated": 43,
-      "posts_with_outbound": 264
+      "posts_with_outbound": 265
     }
   },
   "hubs_in": [
@@ -360,7 +361,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 63
+      "in_degree": 64
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -567,7 +568,7 @@
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
       "hash": "874167ac7c12",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 21,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -712,7 +713,7 @@
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现：涌现的范畴谬误、潜在空间渗入与第一人称先验起点 / Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior",
       "hash": "37d78e35848d",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 11,
       "links_out": [
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -946,7 +947,7 @@
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
       "hash": "e3ffc8e7b02f",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 7,
       "links_out": [
         "dimensions-are-projections",
@@ -1304,7 +1305,7 @@
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
       "title": "Consciousness Never Appears as Data Among Data",
       "hash": "5b80b9d897c0",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 17,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -2413,7 +2414,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "b60b674b5303",
-      "in_degree": 63,
+      "in_degree": 64,
       "out_degree": 22,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -4114,6 +4115,24 @@
       ]
     },
     {
+      "id": "post:subtracting-consciousness-at-the-source",
+      "kind": "post",
+      "slug": "subtracting-consciousness-at-the-source",
+      "path": "content/posts/subtracting-consciousness-at-the-source.md",
+      "title": "集聚与人造主体性：源头意识抽离催生的客体化假象 / Collective and Artificial Subjectivity as Artifacts of Subtracting Consciousness at the Source",
+      "hash": "2f2c9511eb41",
+      "in_degree": 0,
+      "out_degree": 6,
+      "links_out": [
+        "consciousness-never-appears-as-data-among-data",
+        "intelligence-belongs-only-to-the-mind",
+        "a-creation-cannot-replace-its-source",
+        "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "agency-does-not-arise",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+      ]
+    },
+    {
       "id": "post:sympathy-is-a-placeholder-for-lack-of-clarity",
       "kind": "post",
       "slug": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -4643,7 +4662,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡——自客体化、因果倒置的反置与主权裁决的归位 / The Delegation of the Task and the Inalienability of Consequences: Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment",
       "hash": "5f6deb0f9d72",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -17436,6 +17455,78 @@
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
       "label": "The unobservable driver of learning"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "意识从不作为数据出现在数据之中"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "造物无法取代造物者"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind - The Irreducible Prior"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "因果不可化约，物理学是从无处而来的视角"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "Causality is Irreducible; The Physical is a View from Nowhere"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性不曾涌现"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences: Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",

@@ -57,6 +57,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | Family | Traits | Covers |
 |--------|--------|--------|
+| **Architectural cyanotype drafting film & subtracted stenciled silhouette montage on raw canvas** | Deep Prussian blue, blueprint cyan, and indigo washes over textured unbleached raw linen canvas, layered with translucent vellum drafting film and technical axonometric circuit schematics, pierced by a central subtracted stencil cut-out void revealing an incandescent amber-gold and cobalt flame-core of conscious source illumination | `subtracting-consciousness-at-the-source` |
 | **Early 20th-century astrophotographic spectrograph & cloud chamber on glass emulsion** | Archival silver-gelatin emulsion on dark slate-black glass, finely etched with astronomical coordinate grids and micrometer scales, pierced by a singular radiant central agency burst with luminous golden and cobalt ionized particle tracks shattering formal measuring lines | `agency-does-not-arise` |
 | **Cybernetic cockpit, golden neural harness & cosmic mirror reflection** | Deep obsidian, navy, neon amber, and electric cyan palette, intricate cockpit controls channeling mathematical harness threads, geometric neural manifolds through windshield, reflective cosmic mirror capturing the inner source of illumination | `the-inversion-of-the-harness-and-the-driver-seat-asymmetry` |
 | **Spherical para-universes, quantum wave ripples & piercing sovereign vector** | Deep obsidian-indigo void, floating iridescent spherical para-universes each containing a radiant golden singularity core, outer boundary refracting quantum probability ripples and cyan wave interference, with a razor-sharp golden vector of conscious choice slicing forward | `the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation` |
@@ -525,6 +526,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop` | Clinical laboratory measurement grid fracturing into wild mountain dawn and living somatic vitality |
 | `the-delegation-of-the-task-and-the-inalienability-of-consequences` | Banknote security certificate & financial ledger intaglio engraving with calculating escapement split by radiant molten golden fissure revealing raw volcanic basalt rock and crashing storm spray |
 | `agency-does-not-arise` | Early 20th-century astrophotographic spectrograph plate & cloud chamber particle ionization on silver-gelatin glass emulsion with central agency burst shattering mathematical coordinate grids |
+| `subtracting-consciousness-at-the-source` | Architectural cyanotype drafting film & subtracted stenciled silhouette montage on raw canvas with central flame-core of conscious source illumination |
 
 ## Crowded — prefer not to extend
 
