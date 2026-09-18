@@ -252,15 +252,23 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         audio_text = audio_prompt_file.read_text(encoding='utf-8')
         video_text = video_prompt_file.read_text(encoding='utf-8')
         schema_missing = []
+        if '角色与对话规范' not in audio_text:
+            schema_missing.append(f"{audio_prompt_file.name} missing '### [角色与对话规范]'")
+        if '核心议题清单' not in audio_text:
+            schema_missing.append(f"{audio_prompt_file.name} missing '### [核心议题清单]'")
         if '正文对谈开场示例' not in audio_text:
             schema_missing.append(f"{audio_prompt_file.name} missing '### [正文对谈开场示例]' (standard dialogue opening)")
+        else:
+            canonical_phrases = ['同一事实的两面', '脚手架', '非万物之理']
+            if not any(phrase in audio_text for phrase in canonical_phrases):
+                schema_missing.append(f"{audio_prompt_file.name} missing canonical Not-a-ToE opening on causality and first-person perspective ('同一事实的两面', '脚手架', or '非万物之理')")
         if '正文文稿' not in video_text:
             schema_missing.append(f"{video_prompt_file.name} missing '### [正文文稿]' (full monologue script)")
 
         if schema_missing:
-            warnings.append(f"Companion prompt schema incomplete: {schema_missing}. Rule: Standard opening dialogue and monologue script must be refined based on new analysis, but never deleted or omitted.")
+            warnings.append(f"Companion prompt schema incomplete: {schema_missing}. Rule: Standard opening dialogue (with canonical Not-a-ToE opening on causality and first-person perspective) and monologue script must be refined based on new analysis, but never deleted or omitted.")
         else:
-            passes.append("Companion prompt schema check (Audio Opening Dialogue & Video Monologue Script present)")
+            passes.append("Companion prompt schema check (Audio Canonical Opening Dialogue & Video Monologue Script present)")
 
     # Report results
     print("\n[PASSED INVARIANTS]")
