@@ -292,25 +292,26 @@ flowchart TD
 
 不仅认知的展开依赖于心智视界，行动的因果矢量同样只能从具体的具身主体出发。一切行动之所以必然以人为中心展开，源于**行动的决断与后果承担具有不可转让的局域性**。正如我们在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中所分析的，信息计算与指令执行可以交由外部工具完成，形式模型可以提供预测参考，但承受生理摩擦、感知代价以及做出价值权衡的责任，始终定位于第一人称的心智之中。任何个体都无法脱离当下的具身环境去替代遥远星系做出抉择。行动需要明确的坐标原点，而这一原点正是当下处于体验与行动中的生命机体。试图以宇宙的宏大尺度来淡化具体行动的重要性，混淆了形式模型的抽象跨度与具身行动的现实权重。当一个人在日常生活中做出抉择、承担承诺或面对离别，因果压力的真实性并不会因天文数字的庞大而有所减损。
 
+这一倒错更揭示出深空尺度叙事中一种深刻的认识论错觉：**当心智没有意识到它的认知范围越大、自身的范围便越大的时候，它反而会错误地以为自己变得渺小了**。当人类心智递归构建出百亿光年的深空星系图景时，这本身标志着心智认知疆域的空前拓展——是心智的容量在容纳宇宙模型，而非心智在物理虚空中被动缩减。然而，许多人由于未能**同步更新心智自身的自我形象**，依然将对“自我”的理解死板地锚定在局部的肉身几何体积之上，把数十公斤、一米多高的碳基机体同跨越百亿光年的形式读数进行直接的物理比对。在这种刻舟求剑的对照下，心智便误以为自己沦为了可忽略的宇宙尘埃。这并非心智真的变渺小了，而是心智在拓展认知疆域的同时，未曾同步更新其自我形象，错把用于测量尺度的肉身工具等同于生成测量的认知主体。
+
 正如我们在[能动性从不涌现：涌现的范畴错误、潜空间侵入与第一人称先验](../agency-does-not-arise/)中所指出的，能动性并非从物理系统的下游统计平均中被动产生，它是构建模型与设定坐标的先决条件。认识论的严谨，并不要求我们假想一个不存在主体的虚空视角，而是清晰地认领心智自身的认知视界。确认一切认知与行动皆围绕人类经验展开，是基于认知条件的客观陈述。心智不必因无机物质在几何体积上的广袤而低估自身的认知功能。宇宙之所以呈现出深邃与有序，正是因为第一人称的感知与推理在物质运动中展开了认知维度。人无法逃逸出自身的心智，正如行动无法脱离实施行动的立足点；理解形式模型的工具定位，立足当下的感知原点，承担具身行动的因果反馈，构成了主权心智清晰而沉着的认知基准。
 
 ```mermaid
 flowchart TD
     subgraph S_RecursiveReality ["【主权心智之递归闭环：因果原点】"]
         direction TB
-        RL1["现实涌现为心智（第一重坍缩）"] --> RL2["心智递归构建模型（第二重坍缩）"]
-        RL2 --> RL3["行动因果矢量发端于具身主体"]
-        RL4["第一人称直面现实摩擦并承担不可逆后果"]
-        RL3 --> RL4
+        RL1["现实涌现为心智（第一重坍缩）"] --> RL2["心智认知范围拓展与递归建模（第二重坍缩）"]
+        RL2 --> RL3["同步更新自我形象：认知范围越大，心智范围越大"]
+        RL3 --> RL4["行动因果矢量发端于具身主体，立足当下承担现实摩擦"]
         RL4 -.->|"反馈完善形式脚手架"| RL2
     end
 
-    subgraph S_ScaleDilution ["【尺度推论对因果责任的形式稀释】"]
-        NE1["借天文尺度推论微观抉择的无重要性"] --> NE2["将具体的伦理与生活摩擦视作几何噪点"]
-        NE2 --> NE3["抽离具身主体的因果原点与历史定位"]
+    subgraph S_ScaleDilution ["【尺度推论之认知错觉：自我形象滞后】"]
+        NE1["认知范围极大拓展<br/>（构建百亿光年深空模型）"] --> NE2["自我形象未同步更新<br/>（依然锚定于肉身几何微粒）"]
+        NE2 --> NE3["误以为心智变渺小<br/>（将工具尺度反向矮化测绘心智）"]
     end
 
-    NE3 -.->|"现实摩擦澄清抽象稀释"| RL4
+    NE3 -.->|"更新自我形象澄清渺小假象"| RL3
 
     style S_RecursiveReality fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_ScaleDilution fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -318,7 +319,7 @@ flowchart TD
     style RL2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style RL3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style RL4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style NE1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style NE1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style NE2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style NE3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
@@ -327,25 +328,26 @@ Once the two-fold dimensional collapse and historical succession are clarified, 
 
 Furthermore, just as knowing depends on the mind's horizon, the causal vector of action originates exclusively from an embodied agent. Action is centered around the agent because **decision-making and the bearing of consequences possess non-transferable local anchorage**. As analyzed in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), computation and instructions can be delegated to external instruments, and formal models provide predictive guidance, but bearing somatic friction, absorbing metabolic costs, and weighing values remain situated in first-person consciousness. No individual can step outside their local environment to act on behalf of distant galaxies. Action requires a clear coordinate origin, and that origin is without exception the living organism currently experiencing and interacting with its surroundings. Attempting to use the scale of the cosmos to dilute the reality of concrete action conflates the abstract reach of models with the situated weight of agency. When an individual makes a choice, makes a commitment, or faces loss, the weight of consequence is not mitigated by the magnitude of astronomical quantities.
 
+This inversion exposes a profound epistemological illusion at the heart of cosmic-scale narratives: **when the mind fails to realize that the greater the scope of its cognition, the greater the scope of itself becomes, it mistakenly believes instead that it has become minute**. When the human mind recursively models an expanse of billions of light-years, that very model represents an unprecedented expansion of the mind's own cognitive territory. It is the capacity of the mind that encompasses the cosmic model, not the mind that has physically shriveled across the void. However, because individuals fail to **synchronously update the mind's self-image**, they continue to anchor the concept of 'self' rigidly to the local geometric volume of the biological body—placing a seventy-kilogram, two-meter mammalian organism in naive physical comparison against hundreds of billions of light-years. Through this mismatched comparison, the mind misinterprets the geometric modesty of its biological vehicle as the insignificance of consciousness itself. It is not that the mind has become minute; rather, it is because the mind has failed to synchronously update its self-image, mistakenly equating the measuring instrument with the cognitive agent generating the measurement.
+
 As established in [Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior](../agency-does-not-arise/), agency is not an epiphenomenal average produced downstream by physical systems; it is the prior condition for constructing coordinate models and establishing inquiries. Rigorous epistemology does not require posturing from an unembodied view from nowhere, but soberly acknowledging the boundaries of the mind's horizon. Recognizing that knowledge and action are situated in human experience is an accurate description of our cognitive condition. The mind need not discount its own role simply because inanimate matter occupies vast geometric volume. The cosmos presents its depth and order because first-person perception and reasoning illuminate physical motion across time. One cannot escape one's own mind, just as action cannot proceed without a physical footing; recognizing formal models as tools, anchoring oneself at the experiential origin, and bearing the causal feedback of action constitute the clear foundation of sovereign agency.
 
 ```mermaid
 flowchart TD
     subgraph S_RecursiveReality_EN ["[Recursive Circuit of Sovereign Mind: Causal Origin]"]
         direction TB
-        RLE1["Reality Realizes as Mind (First Collapse)"] --> RLE2["Mind Recursively Models Itself (Second Collapse)"]
-        RLE2 --> RLE3["Causal Vector Originates in Embodied Mind"]
-        RLE4["First-Person Directly Bears Consequences"]
-        RLE3 --> RLE4
+        RLE1["Reality Realizes as Mind (First Collapse)"] --> RLE2["Cognitive Scope Expands via Recursive Modeling (Second Collapse)"]
+        RLE2 --> RLE3["Synchronously Updating Self-Image:<br/>Greater Cognitive Reach = Greater Scope of Mind"]
+        RLE3 --> RLE4["Action Anchored in Embodied Origin, Bearing Consequences"]
         RLE4 -.->|"Feedback Refines Scaffolding"| RLE2
     end
 
-    subgraph S_ScaleDilution_EN ["[Formal Dilution of Agency Through Scale]"]
-        NEE1["Inferring Insignificance of Choice from Cosmic Scale"] --> NEE2["Treating Living Ethical Friction as Geometric Noise"]
-        NEE3["Abstracting Away Embodied Causal Origin"]
+    subgraph S_ScaleDilution_EN ["[Cognitive Illusion: Lagging Self-Image]"]
+        NEE1["Immense Expansion of Cognitive Reach<br/>(Modeling billions of light-years)"] --> NEE2["Failure to Synchronously Update Self-Image<br/>(Rigidly anchored to somatic geometric mote)"]
+        NEE2 --> NEE3["Mistakenly Inferring Mind has Become Minute<br/>(Inverting biological tool with surveying agent)"]
     end
 
-    NEE3 -.->|"Experiential Friction Shatters Abstraction"| RLE4
+    NEE3 -.->|"Updating Self-Image Dissolves False Diminishment"| RLE3
 
     style S_RecursiveReality_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_ScaleDilution_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -353,7 +355,7 @@ flowchart TD
     style RLE2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style RLE3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style RLE4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style NEE1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style NEE1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style NEE2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style NEE3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
