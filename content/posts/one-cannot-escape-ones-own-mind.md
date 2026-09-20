@@ -178,7 +178,7 @@ flowchart TD
 
 既然形式模型经历了两次深刻的维度折叠，并且其根基始终依托于第一人称心智，那么模型为何会在认知中逐渐被视作凌驾于现实之上的独立权威？需要澄清的是，这里容易潜藏一种回溯式的错误假定，仿佛人类在历史起点曾经清醒地拥有对两重维降的完整自觉，后来才因某种退步而将其“淡忘”。实际的认识论机制恰恰相反：人类作为认知主体，从认知发端便从未充分意识到观察者自身的原点地位。
 
-这一未被充分意识的盲区，深植于人类认知的底层机制：人类作为主体具备观察的能力，但**“观察”与“作为观察者”是同一枚硬币的两面，在意识的实时运行中无法被同时意识到**。当目光投向外部客体、测量读数或形式符号展开观察时，观察者自身便作为视线的发射源自然隐入背景；若试图调转目光反思“观察者”，该反思动作本身又化作了新的观察内容，而真正的体验原点依然退居其后。更为关键的是，在不同个体与跨主体的交流之中，彼此能够通过物理信道编码、传递与验证的，**永远只能是观察的外化产物**——即公共的符号、数字、实验数据与几何图景。主观的第一人称体验无法直接穿越物理间隙，唯有形式模型能够在跨主体的协作中流通与积累。因此，历史的演进并非认识论意义上的倒退，而是**形式模型在解释范围与预测精度上的真实进步**。
+这一未被充分意识的盲区，深植于人类认知的底层机制：**观察者只有通过观察能体现自身的存在，但同时也恰恰由此忘掉了自身的存在**。“观察”与“作为观察者”是同一枚硬币的两面，在意识的实时运行中无法被同时意识到。若无具体的观察对象与感知区分，观察者便处于未显化的潜能状态，其存在唯有在持续的观察与体验中得以展现；然而，正是在展开观察的同一瞬间，注意力不可避免地投向了所观察的外部客体、测量读数或形式符号，观察者自身便作为视线的发射源自然隐入背景。若试图调转目光反思“观察者”，该反思动作本身又化作了新的观察内容，而真正的体验原点依然退居其后。更为关键的是，在不同个体与跨主体的交流之中，彼此能够通过物理信道编码、传递与验证的，**永远只能是观察的外化产物**——即公共的符号、数字、实验数据与几何图景。主观的第一人称体验无法直接穿越物理间隙，唯有形式模型能够在跨主体的协作中流通与积累。因此，历史的演进并非认识论意义上的倒退，而是**形式模型在解释范围与预测精度上的真实进步**。
 
 然而，在这一模型持续进步的历史长河中，**误将形式模型替代人类主观观察与活生生的具身行为本身，在结构上始终保持着高度的一致性**。古代朴素经验将感官直接对应的稳定地块抽象为地心宇宙模型，误以为形式天球就是客观现实本身；现代实证科学构建出百亿光年的深空坐标系与广义相对论度规，一些论调同样将其倒错地视作脱离主体的客观裁决者。所谓的“遗忘”，并非指失去了某种曾经拥有的古老自觉，而是指伴随着形式模型在历史中的演进而发生的一种结构性疏离：**当形式模型随着科学发展变得越来越庞大、精密与复杂，它与人类第一人称具身体感之间的认知鸿沟便越来越巨大**。在初级模型中，符号尚与肉身感知保持着紧密的贴合；而在当代高度抽象的张量几何、高维相空间以及天文尺度模型面前，繁复的形式体系构筑起一座自足闭合的数学殿堂，使得身处其中的观察者极易在层峦叠嶂的模型大厦中迷失，淡忘了整个宏伟体系最初正是为了服务于具身心智理解世界而搭建的脚手架。
 
@@ -189,7 +189,7 @@ flowchart TD
 ```mermaid
 flowchart TD
     subgraph S_CognitiveConstraint ["【认知底层机制：观察与观察者之二象性】"]
-        D1["观察与作为观察者是硬币两面<br/>（两者在认知上无法被同时意识到）"]
+        D1["观察者只有通过观察体现存在，<br/>却恰恰由此忘掉自身的存在<br/>（硬币两面：认知上无法被同时意识到）"]
         D2["跨主体交流只能传递观察之外化产物<br/>（形式符号、实验读数与数学度规）"]
         D1 --> D2
     end
@@ -233,7 +233,7 @@ flowchart TD
 
 If formal models are products of two successive dimensional collapses rooted within the conscious mind, why do theories chronically reify formal models as an independent authority standing above reality? Here, an intuitive but misleading presupposition must be dismantled: the retrospective illusion that humanity once possessed a lucid, primal awareness of this two-fold collapse and subsequently 'forgot' it through historical decay. The epistemological reality is precisely the opposite: humanity, as an observing subject, **was never fully conscious of the observer's origin in the first place**.
 
-This structural blind spot is deeply embedded in the architecture of cognition: human agents possess the capacity to observe, but **the act of 'observing' and 'being the observer' are two sides of the same coin, which cannot be held simultaneously in direct conscious awareness**. When consciousness focuses outward to observe objects, measurements, or symbolic laws, the observing source naturally recedes behind the gaze. If one attempts to turn inward to inspect the 'observer,' that very act of introspection transforms into a new observational content, while the living experiencing origin retreats once more into the background. Crucially, in communication across differing subjects, what can be encoded, transmitted, and empirically calibrated across physical space **is without exception the externalized output of observation**—public symbols, numbers, instruments, and geometric charts. Inward first-person qualia cannot directly traverse physical separation; only formal models can be communicated, accumulated, and collectively refined. Therefore, history does not represent an epistemic regression, but **genuine progress in the scope, precision, and structural sophistication of formal modeling**.
+This structural blind spot is deeply embedded in the architecture of cognition: **the observer can only substantiate its existence through the act of observing, yet precisely by doing so, it forgets its own existence**. The act of 'observing' and 'being the observer' are two sides of the same coin, structurally impossible to hold simultaneously in direct conscious awareness. Without concrete objects to distinguish and perceive, the observer remains an unmanifest potential whose existence is realized only in the dynamic unfolding of observation; yet in the very instant observation is enacted, attention is directed outward toward the observed objects, measurement readouts, and formal symbols, causing the observer itself—the sovereign source of the perceptual gaze—to naturally recede behind the gaze. If one attempts to turn inward to inspect the 'observer,' that very act of introspection transforms into a new observational content, while the living experiencing origin retreats once more into the background. Crucially, in communication across differing subjects, what can be encoded, transmitted, and empirically calibrated across physical space **is without exception the externalized output of observation**—public symbols, numbers, instruments, and geometric charts. Inward first-person qualia cannot directly traverse physical separation; only formal models can be communicated, accumulated, and collectively refined. Therefore, history does not represent an epistemic regression, but **genuine progress in the scope, precision, and structural sophistication of formal modeling**.
 
 However, across this historical ascent of modeling, **the error of mistakenly substituting the formal model for human subjective observation and lived agency has remained invariant**. Early intuitive thinkers substituted their direct sensory ground for the celestial geometry of the cosmos; contemporary discourse often makes an identical substitution by treating deep-space metric tensors or quantum probability amplitudes as an autonomous reality standing above living minds. What is termed 'forgetting' is not the loss of some archaic enlightenment, but a structural alienation driven by escalating complexity: **as formal models become increasingly intricate, comprehensive, and abstracted, the perceptual chasm separating the model from first-person embodied human experience expands exponentially**. In elementary models, symbols retain immediate proximity to sensory friction; in modern tensor manifolds and cosmological grids, the symbolic architecture becomes so self-contained and formidable that observers easily lose their footing within the monumental edifice, forgetting that the entire theoretical scaffolding was constructed from the outset to serve the embodied mind in navigating its world.
 
@@ -244,7 +244,7 @@ The second is the modern de-subjectified narrative that presumes a cosmic perspe
 ```mermaid
 flowchart TD
     subgraph S_CognitiveConstraint_EN ["[Cognitive Constraint: Duality of Observer and Observing]"]
-        DE1["Observing and Being the Observer are Two Sides of a Coin<br/>(Cannot be held simultaneously in direct awareness)"]
+        DE1["Observer Substantiates Existence Only by Observing,<br/>Yet Precisely by Doing So Forgets Its Own Existence<br/>(Cannot be held simultaneously in direct awareness)"]
         DE2["Cross-Subject Communication Exclusively Conveys Observation Outputs<br/>(Formal symbols, empirical data, geometric metrics)"]
         DE1 --> DE2
     end
