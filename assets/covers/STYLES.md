@@ -12,9 +12,14 @@ Living inventory for essay covers in this folder. Filename = essay slug (`conten
 
 ## Principle
 
-**Pick a style that is actually different — do not converge.**
+**Styles are dynamically derived from content and novelty — NEVER fixed.**
 
-Concept may echo the essay; medium and look must not. Differentiation is on **style** (medium, print/photo tradition, palette discipline, rendering method)—not on subject alone. Two dark chalk abstracts on black are the same style even if one has orbits and the other has a spiral.
+The generator (`Qwen-Image-2.1`) and aspect ratio (`21:9` at `1344×576`) define the shared technical pipeline. However, the **visual style, artistic medium, material tradition, and aesthetic rendering are strictly NEVER fixed**.
+
+1. **Content-Driven Invention**: Each essay explores a distinct epistemological territory; its cover art must invent a corresponding physical/artistic tradition (e.g., Japanese woodblock, archival emulsion, Bauhaus constructivism, Persian miniature, interferometry plate, fresco scraping, stained glass, linocut, textile weave, etc.) that directly reflects that specific cut.
+2. **Novelty & Anti-Convergence**: Never settle into a single "house style" or repeat recent aesthetics (e.g. do not repeat Schlieren photography, glass prisms, or dark chalk). Variation across the entire corpus is the primary design mandate.
+
+Concept may echo the essay; medium and look must not converge. Differentiation is on **style** (medium, print/photo tradition, palette discipline, rendering method)—not on subject alone. Two dark chalk abstracts on black are the same style even if one has orbits and the other has a spiral.
 
 ### Default lag to relax: “still life / tabletop still”
 
