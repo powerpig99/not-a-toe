@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-18T04:51:04.921Z",
+    "generated_at": "2026-09-20T07:57:22.273Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -21,6 +21,7 @@
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "fd9d3cf5c73a",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
+      "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "5f5f279a660b",
       "content/posts/amplification-paradox.md": "c479585570bb",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "d79e6a76ba8e",
@@ -128,6 +129,7 @@
       "content/posts/objects-are-stabilized-relationships.md": "93d21da0b645",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b354e525a5d3",
       "content/posts/on-education.md": "d62f17d7f550",
+      "content/posts/one-cannot-escape-ones-own-mind.md": "bd2d1386f9de",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "158cff173f93",
       "content/posts/only-if-it-is-not-kept-empty.md": "3d9516da5576",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
@@ -341,13 +343,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 331,
-      "edges": 3220,
-      "unique_directed": 3003,
+      "posts": 333,
+      "edges": 3234,
+      "unique_directed": 3012,
       "missing_targets": 0,
-      "one_way": 789,
+      "one_way": 798,
       "isolated": 43,
-      "posts_with_outbound": 265
+      "posts_with_outbound": 267
     }
   },
   "hubs_in": [
@@ -713,7 +715,7 @@
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现：涌现的范畴谬误、潜在空间渗入与第一人称先验起点 / Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior",
       "hash": "37d78e35848d",
-      "in_degree": 1,
+      "in_degree": 3,
       "out_degree": 11,
       "links_out": [
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -815,6 +817,21 @@
       "in_degree": 0,
       "out_degree": 0,
       "links_out": []
+    },
+    {
+      "id": "post:all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "kind": "post",
+      "slug": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "path": "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md",
+      "title": "凡可言说皆不可言说之产物：模拟假说的同构谬误与形式系统的认知傲慢 / All That Can Be Spoken Is the Product of the Unspeakable: The Isomorphic Fallacy of the Simulation Hypothesis and the Cognitive Hubris of Formal Systems",
+      "hash": "5f5f279a660b",
+      "in_degree": 0,
+      "out_degree": 3,
+      "links_out": [
+        "one-cannot-escape-ones-own-mind",
+        "agency-does-not-arise",
+        "subtracting-consciousness-at-the-source"
+      ]
     },
     {
       "id": "post:amplification-paradox",
@@ -947,7 +964,7 @@
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
       "hash": "e3ffc8e7b02f",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 7,
       "links_out": [
         "dimensions-are-projections",
@@ -3063,6 +3080,24 @@
       "links_out": []
     },
     {
+      "id": "post:one-cannot-escape-ones-own-mind",
+      "kind": "post",
+      "slug": "one-cannot-escape-ones-own-mind",
+      "path": "content/posts/one-cannot-escape-ones-own-mind.md",
+      "title": "无法逃逸的心智视界、两重维降与形式模型的反客为主 / One Cannot Escape One's Own Mind: Two-Fold Dimensional Collapse and the Reification of Formal Models",
+      "hash": "bd2d1386f9de",
+      "in_degree": 1,
+      "out_degree": 6,
+      "links_out": [
+        "subtracting-consciousness-at-the-source",
+        "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "the-shadow-and-the-infinite",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "agency-does-not-arise"
+      ]
+    },
+    {
       "id": "post:ones-potential-as-threat-or-inspiration",
       "kind": "post",
       "slug": "ones-potential-as-threat-or-inspiration",
@@ -4121,7 +4156,7 @@
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性：源头意识抽离催生的客体化假象 / Collective and Artificial Subjectivity as Artifacts of Subtracting Consciousness at the Source",
       "hash": "2f2c9511eb41",
-      "in_degree": 0,
+      "in_degree": 2,
       "out_degree": 6,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
@@ -4662,7 +4697,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡——自客体化、因果倒置的反置与主权裁决的归位 / The Delegation of the Task and the Inalienability of Consequences: Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment",
       "hash": "5f6deb0f9d72",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6428,7 +6463,7 @@
       "path": "content/posts/the-shadow-and-the-infinite.md",
       "title": "阴影与无限：低维投影、确定性假象与人类冲突的根源 / The Shadow and the Infinite: Low-Dimensional Projections, the Deterministic Illusion, and the Genesis of Conflict",
       "hash": "a69ecbb22afe",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 1,
       "links_out": [
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
@@ -6441,7 +6476,7 @@
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法：形式模型、宏观摩擦，以及未被定律决定的现实 / The Sleight of Hand in \"Physics Is the Law\": Formal Models, Macroscopic Friction, and a Reality Undetermined by Law",
       "hash": "907328462f77",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -8233,6 +8268,24 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃逸的心智视界、两重维降与形式模型的反客为主"
+    },
+    {
+      "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性不可涌现"
+    },
+    {
+      "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "源头减除意识的戏法"
     },
     {
       "from": "amplification-paradox",
@@ -14365,6 +14418,72 @@
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
       "label": "Advocating openness of others is a desire for closure of the self"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "集聚与人造主体性：源头意识抽离催生的客体化假象"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "因果的自反性与物理的无源假定"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "Causality is Irreducible; The Physical is a View from Nowhere"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理即规律”的戏法、形式模型与现实的摩擦"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-shadow-and-the-infinite",
+      "rel": "points_to",
+      "label": "阴影与无限：低维投影、确定性假象与人类冲突的根源"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\": Formal Models, Statutory Command, and the Friction of Reality"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-shadow-and-the-infinite",
+      "rel": "points_to",
+      "label": "The Shadow and the Infinite: Low-Dimensional Projections, the Deterministic Illusion, and the Genesis of Conflict"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "能动性从不涌现：涌现的范畴错误、潜空间侵入与第一人称先验"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior"
     },
     {
       "from": "ones-potential-as-threat-or-inspiration",

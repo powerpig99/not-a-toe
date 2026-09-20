@@ -3,16 +3,16 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-09-18T04:51:07.561Z",
+    "generated_at": "2026-09-20T07:57:22.367Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "b5f53f297c6b",
-      "docs/essay-format.md": "a5b21e67d573",
+      "content/posts/README.md": "0e47fa84d571",
+      "docs/essay-format.md": "6a0d6725d6f7",
       "docs/export-for-substack.md": "9a2df9f4dfab",
       "docs/export-for-x-article.md": "55ab96853de2",
       "export/README.md": "c0a8866a454d",
-      "assets/covers/STYLES.md": "3dbc88ac0524",
+      "assets/covers/STYLES.md": "8e67ecf9119e",
       "README.md": "544757900335",
       "docs/local-memory.md": "d86601c952b8",
       "build.mjs": "e50c39576e5c",
@@ -22,8 +22,8 @@
       "MEMORY.md": "9b2cea4e08ca"
     },
     "stats": {
-      "posts": 331,
-      "covers": 261,
+      "posts": 333,
+      "covers": 263,
       "trackers_listed": 12,
       "trackers_present": 12
     },
@@ -219,7 +219,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "3dbc88ac0524",
+      "hash": "8e67ecf9119e",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -307,7 +307,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "a5b21e67d573",
+      "hash": "6a0d6725d6f7",
       "summary": "**Reference for site scaffold** — not absolute ground over the operator’s draft.",
       "headings": [
         "Essay Formatting Guide",
@@ -360,7 +360,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "b5f53f297c6b",
+      "hash": "0e47fa84d571",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",

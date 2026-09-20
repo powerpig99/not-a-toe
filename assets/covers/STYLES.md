@@ -57,6 +57,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | Family | Traits | Covers |
 |--------|--------|--------|
+| **Kinetic lumino-constructivist glass prism & orthogonal projection print** | Deep obsidian and cosmic slate ground, raw radiant white-gold light beam entering a faceted crystalline optical prism, refracting into iridescent cyan wave ripples, amber projection lines, and orthogonal coordinate wireframes, with a singular golden coordinate origin framing the horizon | `all-that-can-be-spoken-is-the-product-of-the-unspeakable` |
 | **17th-century celestial cartography & copperplate engraving on aged vellum** | Fine copperplate cross-hatching on aged warm sepia vellum, celestial armillary rings and planetary orbital ellipses extending into stellar charts, pierced at the geometric focal point by an observant human iris with luminous gold leaf illumination radiating coordinate lines into the cosmos | `one-cannot-escape-ones-own-mind` |
 | **Architectural cyanotype drafting film & subtracted stenciled silhouette montage on raw canvas** | Deep Prussian blue, blueprint cyan, and indigo washes over textured unbleached raw linen canvas, layered with translucent vellum drafting film and technical axonometric circuit schematics, pierced by a central subtracted stencil cut-out void revealing an incandescent amber-gold and cobalt flame-core of conscious source illumination | `subtracting-consciousness-at-the-source` |
 | **Early 20th-century astrophotographic spectrograph & cloud chamber on glass emulsion** | Archival silver-gelatin emulsion on dark slate-black glass, finely etched with astronomical coordinate grids and micrometer scales, pierced by a singular radiant central agency burst with luminous golden and cobalt ionized particle tracks shattering formal measuring lines | `agency-does-not-arise` |
@@ -529,6 +530,8 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `the-delegation-of-the-task-and-the-inalienability-of-consequences` | Banknote security certificate & financial ledger intaglio engraving with calculating escapement split by radiant molten golden fissure revealing raw volcanic basalt rock and crashing storm spray |
 | `agency-does-not-arise` | Early 20th-century astrophotographic spectrograph plate & cloud chamber particle ionization on silver-gelatin glass emulsion with central agency burst shattering mathematical coordinate grids |
 | `subtracting-consciousness-at-the-source` | Architectural cyanotype drafting film & subtracted stenciled silhouette montage on raw canvas with central flame-core of conscious source illumination |
+| `one-cannot-escape-ones-own-mind` | 17th-century celestial cartography & copperplate engraving on aged vellum with observant human iris focal point and radiant gold leaf coordinates |
+| `all-that-can-be-spoken-is-the-product-of-the-unspeakable` | Kinetic lumino-constructivist glass prism & orthogonal projection print with white-gold source beam refracting into electric cyan wave ripples, amber projection lines, and observant golden horizon origin |
 
 ## Crowded — prefer not to extend
 
