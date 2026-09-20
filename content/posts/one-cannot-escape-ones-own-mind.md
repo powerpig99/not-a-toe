@@ -176,95 +176,111 @@ flowchart TD
 
 ## 对称的视界偏差与历史的演进：形式模型更迭为何催生了权威倒置 / Symmetrical Horizon Displacements and Historical Succession: How Model Shifts Induced the Inversion of Authority
 
-既然形式模型经历了两次深刻的维度折叠，并且其根基始终依托于第一人称心智，那么模型为何会在认知中逐渐被视作凌驾于现实之上的独立权威？这一现象深植于**形式模型在人类历史演进中的代际更迭与符号固化**。
+既然形式模型经历了两次深刻的维度折叠，并且其根基始终依托于第一人称心智，那么模型为何会在认知中逐渐被视作凌驾于现实之上的独立权威？需要澄清的是，这里容易潜藏一种回溯式的错误假定，仿佛人类在历史起点曾经清醒地拥有对两重维降的完整自觉，后来才因某种退步而将其“淡忘”。实际的认识论机制恰恰相反：人类作为认知主体，从认知发端便从未充分意识到观察者自身的原点地位。
 
-在人类认知史中，形式模型经历了持续的演化：从早期的天球同心圆模型，到托勒密的本轮均轮体系，再到牛顿力学的刚性时空、麦克斯韦的电磁理论、爱因斯坦的弯曲时空流形，以及现代的量子态矢量与高维统计模型。在这一历史进程中，形式模型表现出不同于瞬时感知经验的持久性：符号系统与数学公式能够记录于书籍文献之中，超越个体的生命周期而代代相传。随着后继模型在计算精度与预测一致性上的递进，思想史的焦点自然聚集于“模型与模型之间的差异与修正”。从托勒密到哥白尼，从牛顿到爱因斯坦，人们细致推演不同形式体系之间的转换边界。在这个漫长的演进过程中，一种认知上的重心偏移悄然发生：**人们容易淡忘两重维降的原初过程，忽略了任何模型都依托于无可逃逸的第一人称观察视角**。由于专注于形式体系的代际完善，模型逐渐被赋予了一种脱离认知主体的客观权威，甚至被视作自然现实本身的直接等价物。
+这一未被充分意识的盲区，深植于人类认知的底层机制：人类作为主体具备观察的能力，但**“观察”与“作为观察者”是同一枚硬币的两面，在意识的实时运行中无法被同时意识到**。当目光投向外部客体、测量读数或形式符号展开观察时，观察者自身便作为视线的发射源自然隐入背景；若试图调转目光反思“观察者”，该反思动作本身又化作了新的观察内容，而真正的体验原点依然退居其后。更为关键的是，在不同个体与跨主体的交流之中，彼此能够通过物理信道编码、传递与验证的，**永远只能是观察的外化产物**——即公共的符号、数字、实验数据与几何图景。主观的第一人称体验无法直接穿越物理间隙，唯有形式模型能够在跨主体的协作中流通与积累。因此，历史的演进并非认识论意义上的倒退，而是**形式模型在解释范围与预测精度上的真实进步**。
 
-这种重心的偏移，催生了两种结构对称的认知视界偏差：
-其一是早期直觉经验所呈现的朴素地心认知。受限于生理感知信道与观测工具，早期的观察者容易将感官直接经验到的稳定地块视作物理空间的实体中枢，把局部的视角投射当成客观宇宙的几何布局。
+然而，在这一模型持续进步的历史长河中，**误将形式模型替代人类主观观察与活生生的具身行为本身，在结构上始终保持着高度的一致性**。古代朴素经验将感官直接对应的稳定地块抽象为地心宇宙模型，误以为形式天球就是客观现实本身；现代实证科学构建出百亿光年的深空坐标系与广义相对论度规，一些论调同样将其倒错地视作脱离主体的客观裁决者。所谓的“遗忘”，并非指失去了某种曾经拥有的古老自觉，而是指伴随着形式模型在历史中的演进而发生的一种结构性疏离：**当形式模型随着科学发展变得越来越庞大、精密与复杂，它与人类第一人称具身体感之间的认知鸿沟便越来越巨大**。在初级模型中，符号尚与肉身感知保持着紧密的贴合；而在当代高度抽象的张量几何、高维相空间以及天文尺度模型面前，繁复的形式体系构筑起一座自足闭合的数学殿堂，使得身处其中的观察者极易在层峦叠嶂的模型大厦中迷失，淡忘了整个宏伟体系最初正是为了服务于具身心智理解世界而搭建的脚手架。
+
+这一日益拉大的感知鸿沟，使历史演进中的两种视界偏差呈现出高度对称的形态：
+其一是早期直觉经验所呈现的朴素地心认知。受限于生理感知信道与观测工具，早期的观察者将感官直接经验到的稳定地块视作物理空间的实体中枢，把局部的低维投射当成客观宇宙的几何布局。
 其二则是当代某种去主体叙事所呈现的宇宙视角。在实证科学打破了朴素地心图景之后，一些论断转向了另一端：试图脱离人类心智的立足点，以一种非局域的宏观视角来审视人类自身的日常关切。然而，表达这一视角的讨论者，其所调用的概念、推导过程与天文数据，依然依赖于其自身大脑所理解与表征的认知模型。当这些论述探讨“人类应当超越自我中心”时，其沟通与论辩的对象依然是其他具有不同认知观点的人类观察者。这并非脱离心智的客观自然在裁决人类，而是在不同观察主体之间就模型的解释方式与意义展开交流。这两种视角表现形式截然相反，但在认知结构上具有相近的特征：它们都在不同程度上脱离了第一人称视界这一无可替代的立足点。
 
 ```mermaid
 flowchart TD
-    subgraph S_HistoricalEvolution ["【历史演化：形式模型之更迭积累】"]
-        H1["历史模型代际更迭<br/>（托勒密 ➔ 哥白尼 ➔ 牛顿 ➔ 爱因斯坦 ➔ 量子流形）"]
-        H2["专注于模型间差异与修正<br/>文本符号记录形成独立于个体的持久性"]
-        H1 --> H2
+    subgraph S_CognitiveConstraint ["【认知底层机制：观察与观察者之二象性】"]
+        D1["观察与作为观察者是硬币两面<br/>（两者在认知上无法被同时意识到）"]
+        D2["跨主体交流只能传递观察之外化产物<br/>（形式符号、实验读数与数学度规）"]
+        D1 --> D2
     end
 
-    subgraph S_Amnesia ["【认知偏移：忽略两重维降的源头】"]
-        A1["淡忘形式模型脱胎于感知心智的事实<br/>将形式模型赋予独立于主体的权威"]
+    subgraph S_HistoricalProgress ["【历史的真实演进：模型的进步与鸿沟的扩大】"]
+        P1["形式模型在精度与跨度上的代际进步<br/>（托勒密 ➔ 哥白尼 ➔ 牛顿 ➔ 相对论 ➔ 量子流形）"]
+        P2["模型越复杂，与第一人称具身体感的认知鸿沟越大<br/>（庞大自洽的符号大厦促成源头抽离的疏离效应）"]
+        P1 --> P2
     end
 
-    subgraph S_TwoTraps ["【对称的两种视界偏差】"]
-        T1["偏差一：朴素地心感知<br/>将局部感官所及的稳定地表<br/>视作物理宇宙的客观几何中心"]
-        T2["偏差二：去主体的宏观视角<br/>试图脱离人类认知立足点<br/>借调宏观天文模型作为对话裁决尺度"]
+    subgraph S_InvariantError ["【贯穿始终的替代错误：对称的两种视界偏差】"]
+        E1["错误将形式模型替代人类主观观察与行动本身<br/>（在认知结构上古今保持高度一致）"]
+        T1["偏差一：朴素地心感知<br/>（将局部感官所及投射为宇宙实体中枢）"]
+        T2["偏差二：去主体宇宙视角<br/>（借调深空模型倒错裁决第一人称关切）"]
+        E1 --> T1
+        E1 --> T2
     end
 
     subgraph S_SovereignReturn ["【认知原点的厘清：无可逃逸的主权心智】"]
         SR1["心智即一切理解与因果的唯一起点<br/>理解模型作为认知脚手架的定位，立足第一人称承担因果"]
     end
 
-    H2 ==> A1
-    A1 --> T1
-    A1 --> T2
+    D2 ==> P1
+    P2 ==> E1
     T1 -.->|"厘清认知原点"| SR1
     T2 -.->|"厘清认知原点"| SR1
 
-    style S_HistoricalEvolution fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_Amnesia fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_TwoTraps fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_CognitiveConstraint fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_HistoricalProgress fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_InvariantError fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_SovereignReturn fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style H1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style H2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style A1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style D1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style D2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style P1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style P2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style E1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style T1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style T2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style SR1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-If formal models are products of two successive dimensional collapses rooted within the conscious mind, why do theories chronically reify formal models as an independent authority standing above reality? The origin of this displacement lies in **the generational succession and symbolic codification of formal models throughout history**.
+If formal models are products of two successive dimensional collapses rooted within the conscious mind, why do theories chronically reify formal models as an independent authority standing above reality? Here, an intuitive but misleading presupposition must be dismantled: the retrospective illusion that humanity once possessed a lucid, primal awareness of this two-fold collapse and subsequently 'forgot' it through historical decay. The epistemological reality is precisely the opposite: humanity, as an observing subject, **was never fully conscious of the observer's origin in the first place**.
 
-Across the history of science, formal models have undergone continuous evolution: from ancient celestial crystalline spheres to Ptolemaic epicycles, Newtonian rigid spacetime, Maxwellian electromagnetism, Einsteinian curved manifolds, and modern quantum state vectors. In this succession, formal models demonstrated a durability distinct from fleeting sensory perception: symbolic equations and geometric proofs can be compiled into literature, outliving individual human lifespans. As successive frameworks improved in computational precision and empirical predictive consistency, intellectual attention focused naturally on the *differences and corrections between models*. Thinkers analyzed the boundary transitions between Ptolemy and Copernicus, or between Newton and Einstein. Through this prolonged historical progression, an epistemic shift took place: **humanity lost sight of the two preceding dimensional collapses, forgetting that every model remains anchored in the first-person observing horizon**. Absorbed in the generational refinement of formal systems, cultures gradually attributed an unmediated, autonomous authority to the model, treating the cartographic projection as equivalent to reality itself.
+This structural blind spot is deeply embedded in the architecture of cognition: human agents possess the capacity to observe, but **the act of 'observing' and 'being the observer' are two sides of the same coin, which cannot be held simultaneously in direct conscious awareness**. When consciousness focuses outward to observe objects, measurements, or symbolic laws, the observing source naturally recedes behind the gaze. If one attempts to turn inward to inspect the 'observer,' that very act of introspection transforms into a new observational content, while the living experiencing origin retreats once more into the background. Crucially, in communication across differing subjects, what can be encoded, transmitted, and empirically calibrated across physical space **is without exception the externalized output of observation**—public symbols, numbers, instruments, and geometric charts. Inward first-person qualia cannot directly traverse physical separation; only formal models can be communicated, accumulated, and collectively refined. Therefore, history does not represent an epistemic regression, but **genuine progress in the scope, precision, and structural sophistication of formal modeling**.
 
-This displacement generates two symmetrical horizon errors:
+However, across this historical ascent of modeling, **the error of mistakenly substituting the formal model for human subjective observation and lived agency has remained invariant**. Early intuitive thinkers substituted their direct sensory ground for the celestial geometry of the cosmos; contemporary discourse often makes an identical substitution by treating deep-space metric tensors or quantum probability amplitudes as an autonomous reality standing above living minds. What is termed 'forgetting' is not the loss of some archaic enlightenment, but a structural alienation driven by escalating complexity: **as formal models become increasingly intricate, comprehensive, and abstracted, the perceptual chasm separating the model from first-person embodied human experience expands exponentially**. In elementary models, symbols retain immediate proximity to sensory friction; in modern tensor manifolds and cosmological grids, the symbolic architecture becomes so self-contained and formidable that observers easily lose their footing within the monumental edifice, forgetting that the entire theoretical scaffolding was constructed from the outset to serve the embodied mind in navigating its world.
+
+This widening chasm gives rise to two symmetrical horizon displacements across history:
 The first is the naive geocentrism of early sensory intuition. Constrained by biological sensory bandwidth and elementary tools, early observers naturally identified the stable ground beneath their feet as the physical center of the universe, equating local perspective with universal geometry.
 The second is the modern de-subjectified narrative that presumes a cosmic perspective. After empirical science dismantled naive geocentrism, discourse often shifted to the opposite pole: attempting to step outside the human cognitive locus to evaluate human concerns from a disembodied vantage point. Yet any critic invoking astronomical models remains reliant on concepts, inferences, and data represented within their own cognitive architecture. When such arguments urge that humanity should abandon its self-centered focus, their actual dialogue takes place with other human observers holding contrasting viewpoints. This is not inanimate nature passing judgment on human cognition, but an ongoing exchange between observing minds evaluating theoretical frameworks. While these two approaches diverge sharply, they share a common structural premise: both overlook the irreplaceable foundation of the first-person horizon.
 
 ```mermaid
 flowchart TD
-    subgraph S_HistoricalEvolution_EN ["[Historical Succession of Formal Models]"]
-        HE1["Evolution of Scientific Frameworks<br/>(Ptolemy ➔ Copernicus ➔ Newton ➔ Einstein ➔ Quantum)"]
-        HE2["Focus on Inter-Model Corrections & Differences<br/>Codified texts project an illusion of standalone permanence"]
-        HE1 --> HE2
+    subgraph S_CognitiveConstraint_EN ["[Cognitive Constraint: Duality of Observer and Observing]"]
+        DE1["Observing and Being the Observer are Two Sides of a Coin<br/>(Cannot be held simultaneously in direct awareness)"]
+        DE2["Cross-Subject Communication Exclusively Conveys Observation Outputs<br/>(Formal symbols, empirical data, geometric metrics)"]
+        DE1 --> DE2
     end
 
-    subgraph S_Amnesia_EN ["[Cognitive Displacement: Overlooking Origins]"]
-        AE1["Forgetting that Models Originate in Conscious Mind<br/>Attributing Standalone Legislative Authority to Models"]
+    subgraph S_HistoricalProgress_EN ["[Historical Progression: Model Advances & Widening Chasm]"]
+        PE1["Generational Progress in Model Precision & Predictive Scope<br/>(Ptolemy ➔ Copernicus ➔ Newton ➔ Einstein ➔ Quantum)"]
+        PE2["Escalating Complexity Widens the Chasm with Embodied Perception<br/>(Elaborate formal architectures obscure the observing origin)"]
+        PE1 --> PE2
     end
 
-    subgraph S_TwoTraps_EN ["[Two Symmetrical Horizon Displacements]"]
-        TE1["Displacement One: Naive Geocentrism<br/>Equating local stable ground<br/>with universal physical center"]
-        TE2["Displacement Two: De-Subjectified Cosmic View<br/>Presuming a disembodied vantage point<br/>Borrowing astronomical scale to arbitrate dialogue"]
+    subgraph S_InvariantError_EN ["[Historically Invariant Error: Two Symmetrical Displacements]"]
+        EE1["Mistakenly Substituting Formal Model for Subjective Observation & Agency<br/>(Structurally identical error persisting throughout history)"]
+        TE1["Displacement One: Naive Geocentrism<br/>(Projecting local sensory ground as cosmic center)"]
+        TE2["Displacement Two: De-Subjectified Cosmic View<br/>(Using deep-space scale to invalidate lived human concerns)"]
+        EE1 --> TE1
+        EE1 --> TE2
     end
 
     subgraph S_SovereignReturn_EN ["[Restoring the Ground: The Inescapable Origin]"]
-        SRE1["Mind as the Sole Origin of Understanding & Action<br/>Recognizing models as scaffolds; bearing direct consequences"]
+        SRE1["Mind as Sole Origin of Understanding & Action<br/>Recognizing models as scaffolds; bearing direct consequences"]
     end
 
-    HE2 ==> AE1
-    AE1 --> TE1
-    AE1 --> TE2
+    DE2 ==> PE1
+    PE2 ==> EE1
     TE1 -.->|"Clarifying Origin"| SRE1
     TE2 -.->|"Clarifying Origin"| SRE1
 
-    style S_HistoricalEvolution_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_Amnesia_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_TwoTraps_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_CognitiveConstraint_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_HistoricalProgress_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_InvariantError_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_SovereignReturn_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style HE1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style HE2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style AE1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style DE1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style DE2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style PE1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style PE2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style EE1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style TE1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style TE2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style SRE1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
