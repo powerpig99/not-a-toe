@@ -24,7 +24,7 @@ One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit 
 
 ```text
 content/posts/<slug>.md          # source (this folder)
-assets/covers/<slug>.jpg         # optional 20:9 / 1280×576 (site + Substack + X Article)
+assets/covers/<slug>.jpg         # default 21:9 / 1344×576 (or 20:9 / 1280×576) via Qwen-Image-2.1
 notebooklm-auto/prompts/<slug>_zh.txt       # companion audio dialogue prompt (明理 & 雨涵, concise 2-4 opening turns, <8.5KB)
 notebooklm-auto/prompts/<slug>_video_zh.txt # companion video monologue prompt (full spoken script)
 export/<slug>.md                 # shared paste export: absolute-link markdown (gitignored)
@@ -225,7 +225,7 @@ Optional but usual for new essays. **One file serves three surfaces:** this site
 | X Article | Upload same file as Article cover in the editor (paste path; API parked) |
 
 1. Read [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md). **Do not default to still life / craft-table stills** (recent lag). Prefer a **new** style family; if unused styles run thin, **randomly reuse** a used family — never converge on one fixed look.
-2. Generate landscape art at **20:9** when available (Substack / X Article); **16:9 as-is** is fine (no forced crop). No text. Install as `assets/covers/<slug>.jpg`.
+2. Generate landscape cover art using the default local pipeline: `python3 scripts/generate-cover.py <slug> --prompt "..."` at ultra-wide **21:9** (`1344×576`) or **20:9** (`1280×576`). Strictly zero text or logos. Automatically saved to `assets/covers/<slug>.jpg`.
 3. Update STYLES.md inventory and family tables.
 4. Build copies cover to `public/covers/` and uses it for `og:image` / X card when present.
 

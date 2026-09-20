@@ -1,10 +1,11 @@
 # Cover styles
 
-Living inventory for essay covers in this folder. Filename = essay slug (`content/posts/<slug>.md` → `assets/covers/<slug>.jpg`). Install as landscape **20:9** JPEG (or jpeg/png/webp) at **1280×576** — the shared aspect for site, Substack featured image, and X Article cover.
+Living inventory for essay covers in this folder. Filename = essay slug (`content/posts/<slug>.md` → `assets/covers/<slug>.jpg`). Default generator is local **Qwen-Image-2.1** (`python3 scripts/generate-cover.py <slug> --prompt "..."`). Install as landscape ultra-wide **21:9** JPEG at **1344×576** (or 20:9 at **1280×576**) — the shared aspect for site, Substack featured image, and X Article cover.
 
 | Related | Path |
 |---------|------|
 | Post authoring | [`content/posts/README.md`](../../content/posts/README.md) |
+| Local generator script | [`scripts/generate-cover.py`](../../scripts/generate-cover.py) |
 | Paste export (Substack + X Article) | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) — one absolute-markdown file |
 | X Article API (parked) | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 | Local memory / sleep audit | [`docs/local-memory.md`](../../docs/local-memory.md) |
@@ -41,14 +42,14 @@ Cream-linen / museum craft-table documentary stills (brass prop + paper + cool s
 ## Spec
 
 | Rule | Detail |
-|------|--------|
-| Aspect | Prefer **20:9** landscape when the generator offers it (X Article cover compatibility). **16:9 as-is is fine** — install native aspect; **do not crop** to force 20:9. Site/Substack share the same file at native ratio (no crop mask). |
-| Size | Prefer **1280×576** for 20:9; for 16:9, **1280×720** (or native download) is fine |
-| Text | None (no title, no logo, no legible caption) |
-| Fit | Concept reads the essay’s cut; style is independent of other covers |
-| Not | Square, portrait, 3:1 profile-banner, or other non-landscape crops as the essay cover |
-| After generate | Install as `<slug>.jpg`, update Inventory + Style families below |
-| Imagine Image 2.0 | Quality Mode on **grok.com/imagine** (+ mobile); API for 2.0 still coming soon. Grok Build `image_gen` has no model pick. Widest consumer ratio currently **16:9** — install as-is. |
+|---|---|
+| Default Generator | Local **Qwen-Image-2.1** pipeline (`python3 scripts/generate-cover.py <slug> --prompt "..."`) in `bfloat16` via Apple Silicon MPS. Auto-routes through project virtual environment. |
+| Aspect | Default: ultra-wide **21:9** landscape (`1344×576`, exact 21:9 integer multiple of 32). Compatible with **20:9** (`1280×576`). Site, Substack, and X Article share the same file at native ratio without forced crop. |
+| Size | Default **1344×576** (21:9) or **1280×576** (20:9). |
+| Text | Strictly none (no title, no logo, no legible captions/labels). |
+| Fit | Concept reads the essay’s cut; style is independent of other covers. |
+| Not | Square, portrait, 3:1 profile-banner, or tabletop craft stills as automatic default. |
+| After generate | Saved as `assets/covers/<slug>.jpg`, update Inventory + Style families below. |
 | Legacy assets | Keep older covers as installed. Do **not** bulk-regenerate for aspect. Regenerate a legacy cover only when the operator explicitly asks for that slug. |
 
 ## Style families (used)
@@ -57,6 +58,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | Family | Traits | Covers |
 |--------|--------|--------|
+| **Laboratory schlieren & Mach–Zehnder interferometry optical plate** | Deep optical black void, warm humid amber living turbulence plume on the left, razor-thin luminous interference fringes cutting the wavefront into discrete horizontal bands at center, hardening into a cold cyan-steel crystalline circuit matrix / supercomputer chassis on the right, no people, no props, severe laboratory optical full-bleed (Qwen-Image-2.1 21:9) | `all-that-can-be-spoken-is-the-product-of-the-unspeakable` *(21:9 candidate)* |
 | **Kinetic lumino-constructivist glass prism & orthogonal projection print** | Deep obsidian and cosmic slate ground, raw radiant white-gold light beam entering a faceted crystalline optical prism, refracting into iridescent cyan wave ripples, amber projection lines, and orthogonal coordinate wireframes, with a singular golden coordinate origin framing the horizon | `all-that-can-be-spoken-is-the-product-of-the-unspeakable` |
 | **17th-century celestial cartography & copperplate engraving on aged vellum** | Fine copperplate cross-hatching on aged warm sepia vellum, celestial armillary rings and planetary orbital ellipses extending into stellar charts, pierced at the geometric focal point by an observant human iris with luminous gold leaf illumination radiating coordinate lines into the cosmos | `one-cannot-escape-ones-own-mind` |
 | **Architectural cyanotype drafting film & subtracted stenciled silhouette montage on raw canvas** | Deep Prussian blue, blueprint cyan, and indigo washes over textured unbleached raw linen canvas, layered with translucent vellum drafting film and technical axonometric circuit schematics, pierced by a central subtracted stencil cut-out void revealing an incandescent amber-gold and cobalt flame-core of conscious source illumination | `subtracting-consciousness-at-the-source` |
