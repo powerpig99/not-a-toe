@@ -320,7 +320,7 @@ graph TD
 
 在这个自洽的拓扑中，既不需要一台虚构的超级计算机来提供算力，也不需要一个神创论的模拟者来维持刷新。信息是心智区分的活生生展开，物理是这种展开在多方观测中沉淀下的稳定摩擦。二者从来不是二元对立的两个平行实体，而是动词与名词、活动与记录的相变转化。试图在信息之外安插物理主机，或是在语言之外安排不可言说的神秘禁区，皆是心智未能看清自身认知机制时产生的病态增生。
 
-说得更好的真正含义，是清醒地认识到概念与模型的脚手架属性。在日常与科研中，我们自如地使用物理定律、数学方程与统计算法去辨识环境、改造世界，这正是心智对象化能力的伟大体现。但我们不把脚手架当成压制生命主权的牢笼。无论形式系统如何膨胀，代码如何精进，行动的因果矢量永远只能从立足于物理摩擦中的具身心智出发。守住第一人称的坐标原点，看清一切言说皆为主权能力的造物，心智便能走出模拟论与技术神话的迷障，在现实的大地上沉着地迈出每一步。
+说得更好的真正含义，是清醒地认识到概念与模型的脚手架属性。在日常与科研中，我们自如地使用物理定律、数学方程与统计算法去辨识环境、改造世界，这正是心智对象化能力的伟大体现。在此处，我们尤需明确“说得更好”的终极旨归：试图说得更好，从来不是为了博取其他心智的认可或掌声，而是为了作为心智自身进行下一次区分时更加坚实、清晰的基石。这一基石，首先且核心地服务于本心智自身的认知演进与行动立足；其次，才是任何愿意借用它作为脚手架的其他心智，但那在认识论位阶上始终是次要的衍生效应，在主权心智的坐标原点前甚至可有可无。我们不把脚手架当成压制生命主权的牢笼。无论形式系统如何膨胀，代码如何精进，行动的因果矢量永远只能从立足于物理摩擦中的具身心智出发。守住第一人称的坐标原点，看清一切言说皆为主权能力的造物，心智便能走出模拟论与技术神话的迷障，在现实的大地上沉着地迈出每一步。
 
 ```mermaid
 graph TD
@@ -341,7 +341,7 @@ graph TD
     subgraph S_EmbodiedCausality ["【终极落位：现实自指闭环与具身因果】"]
         direction TB
         C1["主权心智非物源头（对象化能力本身）"]:::mind
-        C2["形式模型与语言脚手架（可言说的符号产物）"]:::model
+        C2["形式模型与语言脚手架（本心智下一次区分的基石）"]:::model
         C3["现实摩擦中的行动与担当（具身因果坐标原点）"]:::mind
         C1 --> C2 --> C3
     end
@@ -356,7 +356,7 @@ Returning to our opening intuition, the exact structural place of quantum phenom
 
 Within this self-contained topology, there is no need for a mythical supercomputer to supply compute, nor a demiurgic simulator to refresh the universe. Information is the ongoing unfolding of distinctions drawn by sovereign minds; physics is the persistent friction stabilized across intersubjective observations. They are not two parallel substances engaged in Cartesian struggle, but phase transitions between verb and noun—between the living act of distinguishing and the macroscopic record left in its wake. Attempting to anchor information to a cosmic hardware rig, or walling off an unspeakable mystical sanctuary beyond language, are pathology symptoms born of the Mind's failure to recognize its own cognitive operations.
 
-To speak better means recognizing concepts and formal models as temporary scaffolding. In daily life and scientific inquiry, we freely employ physical laws, mathematical equations, and statistical algorithms to interact with our surroundings and transform the world. This capacity is the crowning triumph of the Mind's power to objectify. But we must never turn scaffolding into an existential prison that diminishes the living knower. No matter how vast formal systems expand or how exquisitely algorithms perform, the causal vector of intentional action originates exclusively from an embodied Mind rooted in physical friction. Holding firm to this first-person origin, and understanding that all that can be spoken is the creation of sovereign agency, the Mind dissolves the illusions of simulation and technical myth, walking forward with clarity upon the solid earth of reality.
+To speak better means recognizing concepts and formal models as temporary scaffolding. In daily life and scientific inquiry, we freely employ physical laws, mathematical equations, and statistical algorithms to interact with our surroundings and transform the world. This capacity is the crowning triumph of the Mind's power to objectify. Crucially, the ultimate aim of striving to speak better is never to solicit external approval, consensus, or applause from other minds; rather, it is to forge a firmer, more articulate foundation for the Mind's own subsequent distinctions. This bedrock serves, first and foremost, the sovereign Mind's own cognitive evolution and embodied footing; secondarily, it is offered to any other minds willing to adopt it as cognitive scaffolding. But that external adoption remains a secondary, contingent byproduct—ultimately dispensable before the primacy of the first-person origin. We must never turn scaffolding into an existential prison that diminishes the living knower. No matter how vast formal systems expand or how exquisitely algorithms perform, the causal vector of intentional action originates exclusively from an embodied Mind rooted in physical friction. Holding firm to this first-person origin, and understanding that all that can be spoken is the creation of sovereign agency, the Mind dissolves the illusions of simulation and technical myth, walking forward with clarity upon the solid earth of reality.
 
 ```mermaid
 graph TD
@@ -377,7 +377,7 @@ graph TD
     subgraph S_EmbodiedCausality_EN ["Final Ground: Self-Referential Reality & Embodied Stakes"]
         direction TB
         CE1["Unobjectifiable Origin: The Living Capacity to Observe"]:::mind
-        CE2["Spoken Formal Models: Epistemological Scaffolding"]:::model
+        CE2["Spoken Formal Models: Scaffolding for the Mind's Next Distinctions"]:::model
         CE3["Embodied Physical Action: Bearing Immediate Stakes"]:::mind
         CE1 --> CE2 --> CE3
     end
