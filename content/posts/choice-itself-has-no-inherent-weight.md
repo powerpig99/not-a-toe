@@ -1,6 +1,6 @@
 # 抉择本身并不沉重：捷径幻觉、渐进迭代与主权试错的行动闭环 / Choice Itself Has No Inherent Weight: The Shortcut Illusion, Gradual Iteration, and the Cybernetic Loop of Agency
 
-*停滞从来不是因为抉择本身具有不可承受的内在重量，而是源于心智对不切实际回报的非分索求；任何对短期成本的感知，都只是心智要求瞬间奇迹的副产物。只要改变采取日积月累、循序渐进的微步微调，行动本无任何可感知的代价，只有持续可感知的改善。 / Paralysis does not stem from any unbearable intrinsic weight within choice itself, but from the mind's demand for unrealistic returns; any perceived short-term cost is merely a byproduct of craving an instant miracle. As long as change unfolds step by step and day by day, there is no perceivable cost—only perceivable, cumulative improvements.*
+*停滞从来不是因为抉择本身具有不可承受的内在重量，而是源于心智对不切实际回报的非分索求；任何对短期成本的感知，都只是心智要求瞬间奇迹的副产物。只要改变采取日积月累、循序渐进的微步微调，单次尝试并不存在沉重的试错代价。如同梯度下降，每一次调整可能改善、可能毫无变化、甚至可能暂时更糟，但真实反馈为下一步优化赋予了确定的方向，在持续迭代中驱动系统的稳健收敛。 / Paralysis does not stem from any unbearable intrinsic weight within choice itself, but from the mind's demand for unrealistic returns; any perceived short-term cost is merely a byproduct of craving an instant miracle. As long as change unfolds step by step and day by day, an exploratory probe carries no crushing downside. Akin to gradient descent, each micro-adjustment may improve, hold neutral, or temporarily degrade the state; yet unforgeable feedback provides the precise gradient for the next update, driving steady convergence over continuous iteration.*
 
 当一个人面临困境或感到停滞时，最常见的反应是指向外部的广谱求索：询问他人如何走出低谷，搜寻据称能重塑命运的书单，或者向周遭讨要一种现成的生存法则。这种求助行为披着谦逊与理性的外衣，却掩盖了一个隐蔽的认知误区。任何书籍、建议或理论模型，都仅仅是他人在自身时空坐标中探索留下的静态记录；试图将他人的现成结论当作免于自身探索的替代品，注定会让心智陷入更深的停滞。做出不同选择在逻辑与实际操作上极其轻盈，只是一次离散的状态转移。它之所以在感觉上显得万钧沉重，并不是因为选择或改变本身包含任何生物学或物理层面的天然阻力，而是因为心智暗自提出了过高的索求：既妄图一步到位收获巨大的蜕变，又要求当下毫无调整的震荡。正是这种对不切实际回报的执念，凭空制造出了沉重的心理幻象。
 
@@ -80,7 +80,7 @@ graph TD
 
 如果在底层的操作层面上观察，做出一个新的抉择从来不包含任何内在的神秘阻力。抉择就是离散状态的切换：结束一个旧日程，开启一个新尝试，挂断一通消耗能量的通话，微调工作节奏，或者在清晨走出一条新的路线。在物理动作上，移动鼠标只需要微小的肌电信号，说出一句承诺只需要肺部气流的温和震动。无论从信息论还是动作执行的角度来看，抉择本身都是轻盈而自然的。
 
-那么，那种似乎让人寸步难行的滞重感究竟来自何处？阻抗从来不是抉择本身的属性，更不代表做出不同选择伴随着必然的生理损伤或巨大代价。宣称选择必然伴随生物学磨损或痛苦代价，是把心智的非分索求误认为了客观规律。任何所谓的“短期成本”，实质上只是心智在索求不切实际的回报：它渴望一次微小的决定就能换取天翻地覆的终极成果，或者要求系统在毫无迭代调整的情况下瞬间达到至臻状态。在[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)中已经阐明，把因果收益与微步过程强行割裂，必然会在心智内部滋生虚妄的紧张感。只要我们认识到，改变应当是日积月累、循序渐进地微调展开，那么每一次微小的动作就没有任何可感知的代价，只有每一次调整所带来的持续且可感知的改善。
+那么，那种似乎让人寸步难行的滞重感究竟来自何处？阻抗从来不是抉择本身的属性，更不代表做出不同选择伴随着必然的生理损伤或巨大代价。宣称选择必然伴随生物学磨损或痛苦代价，是把心智的非分索求误认为了客观规律。任何所谓的“短期成本”，实质上只是心智在索求不切实际的回报：它渴望一次微小的决定就能换取天翻地覆的终极成果，或者要求系统在毫无迭代调整的情况下瞬间达到至臻状态。在[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)中已经阐明，把因果收益与微步过程强行割裂，必然会在心智内部滋生虚妄的紧张感。只要我们认识到，改变应当是日积月累、循序渐进地微调展开，那么微小的尝试便不存在不可承受的代价。这恰如数学优化中的梯度下降（gradient descent）：每一次具体的调整，可能改善现状，可能毫无变化，甚至可能暂时更糟；但这断不意味着失败，因为微调的核心价值是获取真实的反馈。依据回传的误差信号，我们可以进一步优化下一步的调整方向与步长。因为步幅细微，试错代价微不足道；因为反馈真实，系统得以在持续迭代中逐步收敛并达成切实的改善。
 
 ```mermaid
 graph TD
@@ -98,9 +98,11 @@ graph TD
         M_Amplifier --> M_Crushed["自我构想的沉重感导致停滞"]
     end
 
-    subgraph S_Reality ["真实的渐进路径：只有改善，并无代价"]
+    subgraph S_Reality ["真实的渐进路径：梯度下降式的微步优化"]
         direction TB
-        R_Step["循序渐进：拆解为日常微步"] --> R_Improve["每一步带来清晰可感知的改善"]
+        R_Step["循序渐进：执行微小步进探针"] --> R_Feedback["观测真实反馈（可能改善、持平或更糟）"]
+        R_Feedback --> R_Descent["依据偏差反馈计算下一步梯度优化"]
+        R_Descent --> R_Converge["低试错成本下的持续迭代与稳健收敛"]
     end
 
     P_Act ===> M_Demand
@@ -118,12 +120,14 @@ graph TD
     style M_Amplifier fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style M_Crushed fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style R_Step fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style R_Improve fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style R_Feedback fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R_Descent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style R_Converge fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
 Observed at the baseline of practical operation, making a new choice carries zero intrinsic resistance. Choice is simply a discrete transition: terminating an obsolete routine, starting a fresh draft, ending a draining phone call, nudging a work cadence, or taking a new route at dawn. Physically, moving a cursor requires negligible myoelectric impulse; articulating a decision requires only a gentle modulation of breath. In both informational structure and mechanical execution, choice is naturally light.
 
-Whence, then, comes the feeling of immense, paralyzing inertia? The drag does not belong to choice itself, nor does changing course involve an unavoidable biological toll or severe sacrifice. Asserting that choice intrinsically incurs biological damage or heavy physical cost is a widespread misconception that mistakes psychological over-expectation for an objective law. Any perceived "short-term cost" arises solely because the mind demands unrealistic returns: craving an all-in-one leap that immediately resolves every uncertainty, or demanding a total transformation without iterative calibration. As clarified in [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/), divorcing outcomes from gradual processes generates acute internal tension. As long as change unfolds gradually, step by step and day by day, there is no perceivable cost—only perceivable, continuous improvements.
+Whence, then, comes the feeling of immense, paralyzing inertia? The drag does not belong to choice itself, nor does changing course involve an unavoidable biological toll or severe sacrifice. Asserting that choice intrinsically incurs biological damage or heavy physical cost is a widespread misconception that mistakes psychological over-expectation for an objective law. Any perceived "short-term cost" arises solely because the mind demands unrealistic returns: craving an all-in-one leap that immediately resolves every uncertainty, or demanding a total transformation without iterative calibration. As clarified in [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/), divorcing outcomes from gradual processes generates acute internal tension. As long as change unfolds gradually, step by step and day by day, an exploratory probe carries no crushing downside. This functions precisely like gradient descent in optimization: an individual micro-adjustment may improve the situation, yield no discernable change, or even temporarily make things worse. Yet a sub-optimal step is by no means a failure; its vital contribution is delivering unforgeable telemetry. Based on the observed feedback, we can further optimize the direction and step size of the next adjustment. Because the step is small, the cost of drift is negligible; because the feedback is real, the system converges reliably toward genuine improvement over time.
 
 ```mermaid
 graph TD
@@ -141,9 +145,11 @@ graph TD
         ME_Amplifier --> ME_Crushed["Paralysis Caused by Imagined Resistance"]
     end
 
-    subgraph S_Reality_EN ["Gradual Cadence: No Cost, Only Improvement"]
+    subgraph S_Reality_EN ["Pragmatic Path: Gradient-Descent Micro-Optimization"]
         direction TB
-        RE_Step["Gradual Steps: Broken into Daily Increments"] --> RE_Improve["Each Step Delivers Perceivable Improvement"]
+        RE_Step["Gradual Cadence: Execute Modest Probe Step"] --> RE_Feedback["Observe Real Feedback (Better, Neutral, or Worse)"]
+        RE_Feedback --> RE_Descent["Compute Next Gradient Adjustment from Feedback"]
+        RE_Descent --> RE_Converge["Continuous Iteration & Reliable Convergence"]
     end
 
     PE_Act ===> ME_Demand
@@ -161,7 +167,9 @@ graph TD
     style ME_Amplifier fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style ME_Crushed fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style RE_Step fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style RE_Improve fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style RE_Feedback fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style RE_Descent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style RE_Converge fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
 ## 停滞的维持机制：以“尚未准备好”为掩护的避责投资 / The Mechanics of Paralysis: Evasion Disguised as 'Unpreparedness'
@@ -232,7 +240,7 @@ graph TD
 
 打破停滞的解法，是击碎对“一次性选对”的完美主义妄念，退回到最基础的控制论闭环之中：尝试一个微小的动作，观测真实的反馈，校准心智的模型，发起下一次尝试。强调具身尝试，并不是要抹杀静态推演的价值。在纸面上搭建模型、评估场景并推演边界，是心智极其重要的构建能力；一旦静态推演退守于“灵感”（inspiration）或“借力杠杆”（leverage）的辅助位置，它便能化为极具穿透力的强劲助力。我们否定的从来不是静态推演的功能，而是否定静态推演拥有因果力（causal power）。静态推演不能凌驾于主观选择之上，更不可能代劳状态的跃迁。若把因果力寄托在算力或模型推演之中，心智就会再度陷入等候“更优算法”的拖延陷阱。任何有生命力的系统，都不是依靠静态推演来替代实际体验的，而是在持续的微步尝试中确定真实的坐标。
 
-在这个闭环中，行动并不是深思熟虑后的最终收工，而是刺探现实边界的第一根轻盈探针。你迈出一个微小的尝试，并不意味着这个动作必须完美无缺；它的价值在于让你脱离了毫无反馈的猜测，获得了清晰的真实信号。当环境的数据回传时，心智就拥有了不可伪造的事实：哪些细节需要微调，哪些预期与实际存在偏差。正是这些来自具体实践的反馈，为心智提供了重新校准模型的坚实支点。只要每一步足够小、节奏足够稳，这个过程就没有任何可感知的代价，只有每一次迭代带来的稳步提升。在[心智无法逃离自身](../one-cannot-escape-ones-own-mind/)中已经指出，外部建议只是投射在心智视网膜上的光影；唯有当你亲自踏入日常的实践闭环，让真实的反馈滋养认知，借来的概念才会内化为主权心智自身的行动直觉。
+在这个闭环中，行动并不是深思熟虑后的最终收工，而是刺探现实边界的第一根轻盈探针。你迈出一个微小的尝试，并不意味着这个动作必须保证立即见效；它的价值在于让你脱离了毫无反馈的猜测，获得了清晰的真实信号。当环境的数据回传时，心智就拥有了不可伪造的事实：哪些细节需要微调，哪些预期与实际存在偏差。单次微调可能见效，可能持平，甚至可能暂时失误；但正是这组真实的反馈，构成了下一次迭代优化的梯度依据。只要每一步足够小、节奏足够稳，尝试便不会带来沉重的不可逆损失，而是在持续的自适应收敛中，稳步走向切实的优化。在[心智无法逃离自身](../one-cannot-escape-ones-own-mind/)中已经指出，外部建议只是投射在心智视网膜上的光影；唯有当你亲自踏入日常的实践闭环，让真实的反馈滋养认知，借来的概念才会内化为主权心智自身的行动直觉。
 
 ```mermaid
 graph TD
@@ -244,15 +252,15 @@ graph TD
     subgraph S_Loop ["主权控制论闭环：日积月累的渐进微调"]
         direction TB
         L_Try["主观选择行使因果力：执行微小日常动作"] --> L_Feedback["与环境接触获得即时真实反馈"]
-        L_Feedback --> L_Observe["观测实际效果与模型预期的细微偏差"]
-        L_Observe --> L_Adjust["依据反馈数据校准心智内在模型"]
+        L_Feedback --> L_Observe["观测实际效果与模型预期的偏差（可能改善、持平或更糟）"]
+        L_Observe --> L_Adjust["依据反馈误差计算梯度以校准心智模型"]
         L_Adjust --> L_Next["基于校准基准开启下一步微调"]
         L_Next --> L_Try
     end
 
-    subgraph S_Output ["持续显现的改善"]
+    subgraph S_Output ["持续显现的优化收敛"]
         direction TB
-        O_Bone["内化为稳健直觉与持续可感知的进步"]
+        O_Bone["内化为稳健直觉与持续收敛的优化提升"]
     end
 
     I_Model ===>|提供杠杆支撑| L_Try
@@ -272,7 +280,7 @@ graph TD
 
 The antidote to stagnation is dismantling the perfectionist fantasy of the "single decisive stroke," returning to the foundational cybernetic loop: test a modest action, observe genuine feedback, calibrate the internal model, and proceed with the next iteration. Emphasizing embodied testing by no means dismisses the utility of static deduction. Mapping scenarios, evaluating constraints, and examining models in thought or on paper remain formidable capabilities of the observer. As long as static deduction is positioned as inspiration or mechanical leverage, it serves as a potent force multiplier. What is denied here is not the functional efficacy of static deduction, but its claim to causal power. Static deduction cannot supersede subjective choice, nor can conceptual contemplation generate state transitions on its own. When an agent mistakenly attributes causal power to deductive calculation, it falls back into waiting for an idealized proof. No viable system thrives by letting static deduction substitute for lived experience; it discovers coordinates through iterative engagement.
 
-Within this architecture, an action is not the triumphant conclusion of exhaustive planning, but a light probe sent to sense reality's contours. Executing a small step does not demand immediate perfection; its value lies in freeing the observer from pure guesswork and providing clear, genuine signals. When environmental feedback arrives, the mind gains unforgeable data: which assumptions held, where subtle drift occurred, and how parameters should adjust. Because each step is manageable, day by day, there is no perceivable cost, only perceivable, compounding progress. As clarified in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), external advice is mere shadow on the subjective retina; only when an agent engages in the everyday loop and lets genuine feedback inform understanding do borrowed concepts become internalized, agile intuition.
+Within this architecture, an action is not the triumphant conclusion of exhaustive planning, but a light probe sent to sense reality's contours. Executing a small step does not demand immediate perfection; its value lies in freeing the observer from pure guesswork and providing clear, genuine signals. When environmental feedback arrives, the mind gains unforgeable data: which assumptions held, where subtle drift occurred, and how parameters should adjust. A micro-step might improve the state, make no difference, or temporarily drift; yet the feedback itself furnishes the exact gradient vector for the subsequent update. Because each step is small and calibrated day by day, trial carries no crushing downside, allowing continuous iteration to converge reliably toward genuine optimization. As clarified in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), external advice is mere shadow on the subjective retina; only when an agent engages in the everyday loop and lets genuine feedback inform understanding do borrowed concepts become internalized, agile intuition.
 
 ```mermaid
 graph TD
@@ -284,15 +292,15 @@ graph TD
     subgraph S_Loop_EN ["The Sovereign Cybernetic Loop: Gradual Daily Calibration"]
         direction TB
         LE_Try["Subjective Choice Exercising Causal Power: Small Daily Action"] --> LE_Feedback["Immediate Feedback from Real Engagement"]
-        LE_Feedback --> LE_Observe["Observation of Subtle Deviations from Hypothesis"]
-        LE_Observe --> LE_Adjust["Recalibration of Internal Cognitive Model"]
-        LE_Adjust --> LE_Next["Next Incremental Step from Calibrated Baseline"]
+        LE_Feedback --> LE_Observe["Observe Real Variance (Better, Neutral, or Worse)"]
+        LE_Observe --> LE_Adjust["Compute Gradient from Error Signal to Calibrate Model"]
+        LE_Adjust --> LE_Next["Next Incremental Step from Calibrated Vector"]
         LE_Next --> LE_Try
     end
 
-    subgraph S_Output_EN ["Emergent Improvement"]
+    subgraph S_Output_EN ["Emergent Optimization"]
         direction TB
-        OE_Bone["Internalized Intuition & Perceivable Cumulative Gains"]
+        OE_Bone["Internalized Intuition & Reliable Convergence"]
     end
 
     IE_Model ===>|Provides Leverage| LE_Try
@@ -316,7 +324,7 @@ graph TD
 
 当你把这一事实作为立足基石时，整个认知结构便发生了深层位移。你不再等待外部世界的赦免或指引，现实也不欠你一个现成的导师或一本万能的圣经。他人走过的路是他人在其自身时空中的探索，我们可以欣赏其构想，却无法用它来代替自己的双脚迈步。这也正是为何在圣经乃至古老格言中，始终回荡着同一个判定：天助自助者。从因果控制论的视角审视，一切外援实质上都是错置的自助。外部环境、书本经验或他者建言，从来不可能成为直接施加于心智之上的代劳因果；它们至多只能作为心智自救的灵感与借力的杠杆。一个人必须自主决断并采取行动，才能真正改善自身的生存境遇。
 
-这便构成了“寻求外援”与“借力外部灵感以实现自助”之间的鸿沟。前者将因果力分配给外部源头，是主权意志的主动缴械；而后者则是通过自身的自由抉择启动真实的主权跃迁。缺少了一次自由抉择，任何表面的变化都不过是封闭决定论反馈回路中的相位移动。即便你换了书本、换了工作、换了栖居的城市，底层的动力学吸引子依然恒定不移，系统的轨迹只是在原点周围旋转了一个角度。这种表观上的动态不仅未能带来实质改变，反而以虚假的进展感，主动遮蔽了自主行动的真实缺位。在[凡可言说皆不可言说之物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)中，我们最终领悟到，区分并不是为了迎合外部世界的认可，而是为了让心智自身的下一次行动拥有更坚实的立足点。放下对瞬间奇迹的非分索求，把改变放进日积月累、循序渐进的日常微调中去。当行动足够细密、步幅足够稳健，选择本身不但毫无沉重可言，而且在每一天的微小调整中，都能看到清清楚楚的改善。
+这便构成了“寻求外援”与“借力外部灵感以实现自助”之间的鸿沟。前者将因果力分配给外部源头，是主权意志的主动缴械；而后者则是通过自身的自由抉择启动真实的主权跃迁。缺少了一次自由抉择，任何表面的变化都不过是封闭决定论反馈回路中的相位移动。即便你换了书本、换了工作、换了栖居的城市，底层的动力学吸引子依然恒定不移，系统的轨迹只是在原点周围旋转了一个角度。这种表观上的动态不仅未能带来实质改变，反而以虚假的进展感，主动遮蔽了自主行动的真实缺位。在[凡可言说皆不可言说之物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)中，我们最终领悟到，区分并不是为了迎合外部世界的认可，而是为了让心智自身的下一次行动拥有更坚实的立足点。放下对瞬间奇迹的非分索求，把改变放进日积月累、循序渐进的日常微调中去。当行动足够细密、步幅足够稳健，单次选择本身不但毫无沉重可言，而且每一次微小的调整无论带来改善、持平抑或偏差，都能转化为进一步校准的珍贵梯度，让心智在日积月累的自适应收敛中稳步提升。
 
 ```mermaid
 graph TD
@@ -331,9 +339,9 @@ graph TD
     subgraph S_Sovereignty ["借力自助：自由抉择的主权跃迁"]
         direction TB
         R_Leverage["将外部条件严格视为主助的灵感与杠杆"] --> R_FreeChoice["以自由意志启动主权状态转移"]
-        R_FreeChoice --> R_Gradual["日积月累：步步微调且无感知代价"]
-        R_Gradual --> R_Bedrock["持续显现可感知的清晰改善"]
-        R_Bedrock --> R_Agency["确立轻盈而坚实的主权自洽"]
+        R_FreeChoice --> R_Gradual["日积月累：步步微调且试错成本微小"]
+        R_Gradual --> R_Bedrock["依据偏差反馈持续迭代与稳健收敛"]
+        R_Bedrock --> R_Agency["确立轻盈自洽的主权控制闭环"]
     end
 
     D_Paralysis ===> R_Leverage
@@ -356,7 +364,7 @@ Assuming total responsibility is routinely misconstrued as moralistic guilt or e
 
 When this axiom becomes your ground, the distribution of agency pivots. You cease waiting as an aggrieved petitioner for external pardon or an all-inclusive syllabus; reality owes you neither an infallible mentor nor an emergency script. The path another walked represents their personal exploration; one may appreciate their concepts, yet their words cannot move your feet. That is why an ancient adage resonates even across theological scriptures: God only helps those who help themselves. Viewed through causal cybernetics, all external help is misallocated self-help. External conditions, written treatises, or mentors can never serve as direct proxy agents; they function solely as inspiration or mechanical leverage for self-help. An agent must make the decision to take action in order to improve its own condition.
 
-There is a fundamental categorical difference between seeking external help and seeking external inspiration or leverage to help oneself. The former allocates causal power at the external source, forfeiting agency; the latter initiates authentic transformation originating from one's own freedom of choice. Without making a free choice, any perceived change—adopting new jargon, moving to a new city, consulting another expert—is merely a phase-shifting of a deterministic feedback loop. The dynamical attractor remains identical; the trajectory traces the exact same orbit, merely shifted by an arbitrary phase angle. Not only does it fail to provide genuine progress, it actively masks the lack of authentic self-help and explains why stagnation persists. As articulated in [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/), refining distinctions is not an audition for applause, but the building of firmer ground for one's next step. Abandon the craving for instantaneous miracles. Entrust change to the steady rhythm of day-by-day, step-by-step micro-adjustments. When the cadence is gradual, choice carries no perceptible burden; there is no perceivable cost, only perceivable, enduring improvement.
+There is a fundamental categorical difference between seeking external help and seeking external inspiration or leverage to help oneself. The former allocates causal power at the external source, forfeiting agency; the latter initiates authentic transformation originating from one's own freedom of choice. Without making a free choice, any perceived change—adopting new jargon, moving to a new city, consulting another expert—is merely a phase-shifting of a deterministic feedback loop. The dynamical attractor remains identical; the trajectory traces the exact same orbit, merely shifted by an arbitrary phase angle. Not only does it fail to provide genuine progress, it actively masks the lack of authentic self-help and explains why stagnation persists. As articulated in [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/), refining distinctions is not an audition for applause, but the building of firmer ground for one's next step. Abandon the craving for instantaneous miracles. Entrust change to the steady rhythm of day-by-day, step-by-step micro-adjustments. When the cadence is gradual, individual choice carries zero crushing burden; whether a micro-step improves, holds neutral, or reveals drift, the resulting feedback immediately directs the next gradient calibration, yielding reliable, enduring optimization.
 
 ```mermaid
 graph TD
@@ -371,9 +379,9 @@ graph TD
     subgraph S_Sovereignty_EN ["Self-Help Leverage: Sovereign State Transition"]
         direction TB
         RE_Leverage["External Conditions Treated Solely as Leverage"] --> RE_FreeChoice["Initiating State Transition via Freedom of Choice"]
-        RE_FreeChoice --> RE_Gradual["Step by Step, Day by Day: Zero Perceivable Cost"]
-        RE_Gradual --> RE_Bedrock["Clear & Perceivable Cumulative Improvements"]
-        RE_Bedrock --> RE_Agency["Light, Resilient Sovereign Coherence"]
+        RE_FreeChoice --> RE_Gradual["Step by Step, Day by Day: Negligible Downside Risk"]
+        RE_Gradual --> RE_Bedrock["Continuous Iteration Driven by Feedback Signals"]
+        RE_Bedrock --> RE_Agency["Light, Resilient Sovereign Cybernetic Closure"]
     end
 
     DE_Paralysis ===> RE_Leverage
