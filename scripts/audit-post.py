@@ -17,6 +17,7 @@ Checks:
   5. Banned words & essentialist cliches (0 tolerance for cognitive crutches)
   6. LaTeX syntax prohibition (0 raw $ or $$; Unicode math only)
   7. Multi-platform publishing copy in walkthrough (Spotify ZH/EN, WeChat Video, X EN)
+  8. Companion NotebookLM prompts (canonical opening, monologue script, and concise bounds: 2-4 opening turns, < 8.5KB)
 
 Usage:
   python3 scripts/audit-post.py [slug_or_path]
@@ -269,6 +270,16 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             warnings.append(f"Companion prompt schema incomplete: {schema_missing}. Rule: Standard opening dialogue (with canonical Not-a-ToE opening on causality and first-person perspective) and monologue script must be refined based on new analysis, but never deleted or omitted.")
         else:
             passes.append("Companion prompt schema check (Audio Canonical Opening Dialogue & Video Monologue Script present)")
+
+        # Verify concise sizing bounds for audio dialogue prompt (must be opening sample of 2-4 turns, not a full transcript dump)
+        audio_bytes = len(audio_prompt_file.read_bytes())
+        dialogue_turns = len(re.findall(r'(?:\*\*明理\*\*|\*\*雨涵\*\*|明理：|雨涵：)', audio_text))
+        if dialogue_turns > 5:
+            errors.append(f"Audio prompt {audio_prompt_file.name} dialogue turns ({dialogue_turns}) exceed concise opening limit (rule: 2–4 turns; detected {dialogue_turns} turns). Do not dump full episode transcripts into the prompt.")
+        elif audio_bytes > 8500:
+            errors.append(f"Audio prompt {audio_prompt_file.name} size ({audio_bytes} bytes) exceeds concise threshold (rule: < 8.5KB). Keep dialogue to 2–4 opening turns.")
+        else:
+            passes.append(f"Companion audio prompt concise bounds check ({audio_bytes} bytes, {dialogue_turns} opening turns; complies with 2–4 turn, < 8.5KB standard)")
 
     # Report results
     print("\n[PASSED INVARIANTS]")
