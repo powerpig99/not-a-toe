@@ -212,15 +212,20 @@ graph TD
 
 ## 试错、观测与校准：行动闭环是不可替代的主权神经回路 / Try, Observe, Adjust: The Action Loop as the Inalienable Neural Circuit of Agency
 
-打破停滞的唯一解法，是击碎对“一次性选对”的完美主义妄念，退回到最基础的控制论闭环之中：尝试、观测摩擦、校准模型、发起下一次尝试。任何有生命力的系统，都不是依靠静态推演来适应环境的，而是在持续的物理碰撞中获得坐标。
+打破停滞的唯一解法，是击碎对“一次性选对”的完美主义妄念，退回到最基础的控制论闭环之中：尝试、观测摩擦、校准模型、发起下一次尝试。强调具身试错，并不是要抹杀静态推演的价值。在纸面上搭建模型、评估场景并推演边界，是心智极其重要的构建能力；一旦静态推演退守于“灵感”（inspiration）或“借力杠杆”（leverage）的辅助位置，它便能化为极具穿透力的强劲助力。我们否定的从来不是静态推演的功能，而是否定静态推演拥有因果力（causal power）。静态推演不能凌驾于主观选择之上，更不可能代劳状态的跃迁。若把因果力寄托在算力或模型推演之中，心智就会再度陷入等候“更优算法”的拖延陷阱。任何有生命力的系统，都不是依靠静态推演来替代生存本身的，而是在持续的物理碰撞中锚定真实的坐标。
 
 在这个闭环中，行动并不是深思熟虑后的最终收工，而是刺探现实边界的第一根探针。你选择走向方向A，并不意味着方向A就是永恒真理；它唯一的价值，是让你脱离了毫无反馈的虚空，制造出了真实的阻力。当阻力回传时，心智就拥有了不可伪造的数据：哪些假设坍塌了，哪些预期被击碎了，体能与资源的真实消耗率是多少。正是这些由实体摩擦带来的刺痛，为心智提供了重新校准模型的坚实支点。在[心智无法逃离自身](../one-cannot-escape-ones-own-mind/)中已经指出，外部建议只是投射在心智视网膜上的光影；唯有当你亲自踏入反馈回路，让身体承受现实的切削，那些借来的词句才会转化为心智自身的承重骨骼。
 
 ```mermaid
 graph TD
+    subgraph S_Input ["静态推演的定位：灵感与借力杠杆（剥离因果力）"]
+        direction TB
+        I_Model["理论推演与场景构想：提供探针辅助参考"]
+    end
+
     subgraph S_Loop ["真实的主权控制论闭环"]
         direction TB
-        L_Try["决绝执行具体动作（放下保底预期）"] --> L_Friction["与实体环境发生剧烈碰撞与摩擦"]
+        L_Try["主观选择行使因果力：决绝执行具体动作"] --> L_Friction["与实体环境发生剧烈碰撞与摩擦"]
         L_Friction --> L_Observe["观测非预期的真实偏差与反馈损耗"]
         L_Observe --> L_Adjust["依据硬碰撞数据修正心智内在模型"]
         L_Adjust --> L_Next["基于校准基准发起下一次迭代尝试"]
@@ -232,10 +237,13 @@ graph TD
         O_Bone["内化为不可剥夺的直觉骨骼与抗脆弱性"]
     end
 
+    I_Model ===>|提供杠杆支撑| L_Try
     L_Adjust ===> O_Bone
 
+    style S_Input fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Loop fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Output fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style I_Model fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style L_Try fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style L_Friction fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style L_Observe fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -244,15 +252,20 @@ graph TD
     style O_Bone fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
 ```
 
-The sole antidote to paralysis is shattering the perfectionist fantasy of the "immaculate choice," retreating into the foundational cybernetic loop: execute, observe friction, calibrate model, iterate. No viable organism adapts to reality through sterile contemplation; it discovers its coordinates through physical impact.
+The sole antidote to paralysis is shattering the perfectionist fantasy of the "immaculate choice," retreating into the foundational cybernetic loop: execute, observe friction, calibrate model, iterate. Emphasizing embodied trial and error by no means dismisses the utility of static deduction. Mapping scenarios, stress-testing boundary conditions, and running abstract models in thought or on paper remain formidable capabilities of the observer. As long as static deduction is positioned as inspiration or mechanical leverage, it serves as a potent force multiplier. What is denied here is not the functional efficacy of static deduction, but its claim to causal power. Static deduction can never supersede subjective choice, nor can contemplation generate state transitions on its own. When an agent mistakenly attributes causal power to deductive calculation, it relapses into paralysis, passively awaiting an idealized proof. No viable organism adapts to reality by letting static deduction substitute for existence; it discovers its authentic coordinates through physical impact.
 
 Within this architecture, an action is not the triumphant conclusion of exhaustive deliberation, but an active probe thrust into unknown terrain. Committing to Vector A does not crown it as absolute truth; its sole utility is wrenching the agent out of sterile vacuum and generating tangible ground friction. The resulting backlash yields unforgeable telemetry: which hypotheses disintegrated, where resistance materialized, and what metabolic burn rate reality demands. These abrasions furnish the bedrock upon which the internal model recalibrates. As clarified in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), external advice is mere shadow on the subjective retina; only when an agent steps into the fire and absorbs the cut of reality do borrowed concepts harden into authentic structural bone.
 
 ```mermaid
 graph TD
+    subgraph S_Input_EN ["Static Deduction: Inspiration & Leverage (Void of Causal Power)"]
+        direction TB
+        IE_Model["Abstract Models & Scenario Projections: Auxiliary Scaffold"]
+    end
+
     subgraph S_Loop_EN ["The Sovereign Cybernetic Loop"]
         direction TB
-        LE_Try["Decisive Execution (Discarding Guarantees)"] --> LE_Friction["Abrasive Collision with Real Conditions"]
+        LE_Try["Subjective Choice Exercising Causal Power: Decisive Execution"] --> LE_Friction["Abrasive Collision with Real Conditions"]
         LE_Friction --> LE_Observe["Observation of Hard Drift & Telemetry Loss"]
         LE_Observe --> LE_Adjust["Recalibration of Internal Cognitive Model"]
         LE_Adjust --> LE_Next["Subsequent Iterative Step from Ground Truth"]
@@ -264,10 +277,13 @@ graph TD
         OE_Bone["Internalized Antifragile Intuition & Skeletal Agency"]
     end
 
+    IE_Model ===>|Provides Leverage| LE_Try
     LE_Adjust ===> OE_Bone
 
+    style S_Input_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Loop_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Output_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style IE_Model fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style LE_Try fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style LE_Friction fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style LE_Observe fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
