@@ -162,14 +162,45 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         else:
             passes.append(f"Mermaid styling check ({len(mermaid_blocks)} diagrams adhere to historical dark palette)")
 
-        # Bilingual parallelism check
+        # Bilingual parallelism & strict language separation check
+        first_line = lines[0] if lines else ""
+        is_bilingual_title = bool(re.search(r'[\u4e00-\u9fff]', first_line) and '/' in first_line and re.search(r'[a-zA-Z]{3,}', first_line))
         has_zh = bool(re.search(r'[\u4e00-\u9fff]', content))
-        has_en = bool(re.search(r'##\s+.*\b(Section|Epilogue|Prologue)\b', content, re.IGNORECASE))
-        if has_zh and has_en:
+        # Detect presence of substantive English prose paragraphs
+        en_paragraphs = [p for p in content.split('\n\n') if len(p.strip()) > 80 and not p.strip().startswith(('```', '#', '|', '*', '-')) and len(re.findall(r'[a-zA-Z]', p)) > 0.7 * len(p.strip())]
+        has_en_prose = len(en_paragraphs) >= 3
+        
+        if is_bilingual_title or (has_zh and has_en_prose):
             if len(mermaid_blocks) % 2 != 0:
                 warnings.append(f"Bilingual diagram count is odd ({len(mermaid_blocks)}). Ensure every Chinese diagram has its exact English parallel counterpart.")
             else:
                 passes.append(f"Bilingual diagram parallelism ({len(mermaid_blocks) // 2} paired diagrams)")
+
+            if not has_en_prose:
+                errors.append("Bilingual post has bilingual title/headings but lacks English prose paragraphs.")
+            else:
+                passes.append("Bilingual prose check (both Chinese and English prose present)")
+
+            # Check strict language separation in diagrams ("中文的归中文，英文的归英文")
+            allowed_acronyms = {'DNA', 'API', 'AI', 'LLM', 'CPU', 'GPU', 'TOE', 'VR'}
+            diagram_lang_issues = []
+            for idx, block in enumerate(mermaid_blocks, 1):
+                block_has_zh = bool(re.search(r'[\u4e00-\u9fff]', block))
+                if block_has_zh:
+                    # In Chinese diagram, flag residual English subtitles like <br/>English Words
+                    en_subs = re.findall(r'<br/>\s*([A-Za-z][A-Za-z0-9\s\-_/\'\.,:;]{3,})', block)
+                    disallowed = [s.strip() for s in en_subs if s.strip().upper() not in allowed_acronyms]
+                    if disallowed:
+                        diagram_lang_issues.append(f"Diagram {idx} (Chinese) has residual English subtitles: {disallowed[:3]}")
+                else:
+                    # In English diagram, must have no Chinese
+                    if re.search(r'[\u4e00-\u9fff]', block):
+                        diagram_lang_issues.append(f"Diagram {idx} (English) contains Chinese characters")
+
+            if diagram_lang_issues:
+                warnings.append(f"Strict language separation in diagrams ('中文的归中文，英文的归英文'): {'; '.join(diagram_lang_issues)}")
+            else:
+                passes.append("Strict language separation in diagrams (pure Chinese in Chinese diagrams, pure English in English diagrams)")
     else:
         passes.append("Mermaid check (no diagrams in this post)")
 

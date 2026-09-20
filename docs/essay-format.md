@@ -35,6 +35,10 @@ Output rules (strict):
       - Node: `style NodeID fill:#0d1117,stroke:#<hex>,stroke-width:1px,color:#f0f6fc`
       - Semantic color palette: Green (`#3fb950` - Sovereign judgment, living calibration, authentic causality), Red (`#f85149` - Inversion, outsourcing, alienation, prescriptive protocol, failure/backlash), Amber/Gold (`#d29922` - Mechanical execution, scaffolding, tradeoffs), Blue (`#58a6ff` - Computational models, telemetry, signals, references), Purple (`#a371f7` - Self-referential loop, paradoxical circuit, meta-choice).
     - For bilingual posts (Chinese + English sections), diagrams must maintain exact topological and conceptual parallelism: every Chinese diagram must have its English parallel diagram with identical node hierarchy and semantic coloring.
+    - Strict Language Separation ("中文的归中文，英文的归英文"):
+      - Chinese belongs to Chinese: In the Chinese version of an essay, all text, headings, and diagram node labels must be pure Chinese. Strictly zero English subtitle lines (e.g. `<br/>English text`) in Chinese diagrams, unless annotating recognized proper nouns (e.g. DNA, API, AI).
+      - English belongs to English: In the English version, all text, headings, and diagram node labels must be pure English.
+      - Bilingual completeness: Essays with bilingual titles must feature complete parallel Chinese and English sections (including title, subtitle, lead, section headings, narrative prose, and Mermaid diagrams).
 21. Epistemological discipline & vocabulary hygiene:
     - Will and agency belong strictly to the living Mind (主权心智). Never subordinate will to physics; never use "物理意志" or attribute will/agency to inanimate tools, capital, markets, or physical substrate. Capital is an inert informational accounting metric.
     - Matter and physics are the macroscopic phenomena arising from the friction between our cognitive modeling and reality, experienced directly as physical friction.
