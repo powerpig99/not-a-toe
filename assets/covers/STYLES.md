@@ -63,6 +63,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | Family | Traits | Covers |
 |--------|--------|--------|
+| **High-heat industrial sand casting & molten foundry stream on volcanic basalt** | Deep optical soot and volcanic basalt ground, cold sterile blueprint wireframes floating uncommitted on the left, an intense incandescent orange-gold molten iron stream pouring into coarse black foundry sand with kinetic micro-sparks and thermal convection currents at center, solidifying on the right into a jagged unyielding physical casting with cooling amber slag fissures (Qwen-Image-2.1 21:9) | `choice-itself-has-no-inherent-weight` |
 | **Laboratory schlieren & Mach–Zehnder interferometry optical plate** | Deep optical black void, warm humid amber living turbulence plume on the left, razor-thin luminous interference fringes cutting the wavefront into discrete horizontal bands at center, hardening into a cold cyan-steel crystalline circuit matrix / supercomputer chassis on the right, no people, no props, severe laboratory optical full-bleed (Qwen-Image-2.1 21:9) | `all-that-can-be-spoken-is-the-product-of-the-unspeakable` *(21:9 candidate)* |
 | **Kinetic lumino-constructivist glass prism & orthogonal projection print** | Deep obsidian and cosmic slate ground, raw radiant white-gold light beam entering a faceted crystalline optical prism, refracting into iridescent cyan wave ripples, amber projection lines, and orthogonal coordinate wireframes, with a singular golden coordinate origin framing the horizon | `all-that-can-be-spoken-is-the-product-of-the-unspeakable` |
 | **17th-century celestial cartography & copperplate engraving on aged vellum** | Fine copperplate cross-hatching on aged warm sepia vellum, celestial armillary rings and planetary orbital ellipses extending into stellar charts, pierced at the geometric focal point by an observant human iris with luminous gold leaf illumination radiating coordinate lines into the cosmos | `one-cannot-escape-ones-own-mind` |
@@ -539,6 +540,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `subtracting-consciousness-at-the-source` | Architectural cyanotype drafting film & subtracted stenciled silhouette montage on raw canvas with central flame-core of conscious source illumination |
 | `one-cannot-escape-ones-own-mind` | 17th-century celestial cartography & copperplate engraving on aged vellum with observant human iris focal point and radiant gold leaf coordinates |
 | `all-that-can-be-spoken-is-the-product-of-the-unspeakable` | Kinetic lumino-constructivist glass prism & orthogonal projection print with white-gold source beam refracting into electric cyan wave ripples, amber projection lines, and observant golden horizon origin |
+| `choice-itself-has-no-inherent-weight` | High-heat industrial sand casting & molten foundry stream on volcanic basalt with incandescent orange-gold iron pour and vaporized cold blueprint lines |
 
 ## Crowded — prefer not to extend
 
