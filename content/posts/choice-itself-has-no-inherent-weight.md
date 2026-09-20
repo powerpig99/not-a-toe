@@ -280,31 +280,39 @@ graph TD
 
 承担全责，经常被庸俗地扭曲为一种带有受虐倾向的道德自谴。在主权心智的视野中，承担全责不包含丝毫自责或情绪化的悔恨，它是一种冰冷而清醒的本体论立足：承认当前感知到的全部现实，都是自身历次区分、权衡与妥协所坍缩出来的宏观投影。
 
-当你把这一事实作为立足基石时，整个世界的结构便发生了深层位移。你不再是宇宙法庭前等待赦免或指引的原告，现实也不欠你一个现成的导师或一本万能的圣经。他人走过的泥泞，是他人在其自身时空坐标中的账单清偿；你可以赞叹那道伤痕的优美，却无法用它来免除自己脚下的泥沼。在[凡可言说皆不可言说之物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)中，我们最终领悟到，言说与区分并不是为了迎合外部世界的认可，而是为了让心智自身的下一次区分拥有更为坚实的落脚点。抛弃对捷径的虚妄幻想，将身体置于试错的具身因果链条之中，去碰撞，去承受，去校准。唯有在这场无法找人代劳的持续摩擦中，那个原本轻盈的离散抉择，才会硬化为主权心智不可撼动的存在重力。
+当你把这一事实作为立足基石时，整个世界的结构便发生了深层位移。你不再是宇宙法庭前等待赦免或指引的原告，现实也不欠你一个现成的导师或一本万能的圣经。他人走过的泥泞，是他人在其自身时空坐标中的账单清偿；你可以赞叹那道伤痕的优美，却无法用它来免除自己脚下的泥沼。这也正是为何在圣经乃至古老格言中，始终回荡着同一个判定：天助自助者。从因果控制论的视角审视，一切外援实质上都是错置的自助。外部环境、书本经验或他者建言，从来不可能成为直接施加于心智之上的代劳因果；它们至多只能作为心智自救的灵感与借力的杠杆。一个人必须自主决断并采取行动，才能真正改善自身的生存境遇。
+
+这便构成了“寻求外援”与“借力外部灵感以实现自助”之间的鸿沟。前者将因果力分配给外部源头，是主权意志的主动缴械；而后者则是通过自身的自由抉择启动真实突围。缺少了一次自由抉择，任何表面的变化都不过是封闭决定论反馈回路中的相位移动。即便你换了书本、换了工作、换了栖居的城市，底层吸引子依然恒定不移，系统的轨迹只是在原点周围旋转了一个角度。这种表观上的动态不仅未能带来实质改变，反而以虚假的进展感，主动遮蔽了自主行动的真实缺位。在[凡可言说皆不可言说之物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)中，我们最终领悟到，言说与区分并不是为了迎合外部世界的认可，而是为了让心智自身的下一次区分拥有更为坚实的落脚点。抛弃对捷径的虚妄幻想，将身体置于试错的具身因果链条之中，去碰撞，去承受，去校准。唯有在这场无法找人代劳的持续摩擦中，那个原本轻盈的离散抉择，才会硬化为主权心智不可撼动的存在重力。
 
 ```mermaid
 graph TD
-    subgraph S_Dependency ["依附与外求的虚妄立足"]
+    subgraph S_Dependency ["依附外援：决定论回路的相位移动"]
         direction TB
-        D_Claim["向外部世界索求无痛指引与拯救者"] --> D_Passive["将自身降格为等待答案的被动客体"]
-        D_Passive --> D_Resentment["在反复失望中陷入怨恨与更深瘫痪"]
+        D_Claim["将因果力外包给外部源头与拯救者"] --> D_Passive["未曾启动自由抉择的被动执行"]
+        D_Passive --> D_PhaseShift["同构决定论回路中的虚假相位移动"]
+        D_PhaseShift --> D_Masking["以虚假进展遮蔽自主行动的缺位"]
+        D_Masking --> D_Paralysis["深陷封闭吸引子与更深停滞"]
     end
 
-    subgraph S_Sovereignty ["全责承载的主权立足点"]
+    subgraph S_Sovereignty ["借力自助：自由抉择的主权跃迁"]
         direction TB
-        R_Ground["确立全责：现实是自身区分的客观投影"] --> R_Friction["决然抛弃捷径幻想，拥抱粗粝摩擦"]
+        R_Leverage["将外部条件严格视为主助的灵感与杠杆"] --> R_FreeChoice["以自由意志启动不可让渡的状态转移"]
+        R_FreeChoice --> R_Friction["决然抛弃捷径幻想，拥抱粗粝摩擦"]
         R_Friction --> R_Bedrock["试错校准：为下一次区分铸造坚固基石"]
         R_Bedrock --> R_Agency["确立不可撼动的主权心智存在重力"]
     end
 
-    D_Resentment ===> R_Ground
+    D_Paralysis ===> R_Leverage
 
     style S_Dependency fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Sovereignty fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style D_Claim fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style D_Passive fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style D_Resentment fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style R_Ground fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style D_PhaseShift fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style D_Masking fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style D_Paralysis fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style R_Leverage fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style R_FreeChoice fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
     style R_Friction fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style R_Bedrock fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style R_Agency fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
@@ -312,31 +320,39 @@ graph TD
 
 Assuming total responsibility is routinely misconstrued as moralistic self-flagellation or psychological guilt. Within the ontology of the sovereign Mind, ownership carries no punitive residue; it is an unyielding, pristine axiom: acknowledging that one's current perceptual horizon is the exact macroscopic projection collapsed by one's prior distinctions, trade-offs, and retreats.
 
-When this axiom becomes your ground, the distribution of power across the cosmos pivots. You cease standing as an aggrieved plaintiff before a cosmic tribunal, awaiting external pardon or a miraculous syllabus; reality owes you neither an infallible mentor nor an emergency playbook. The mud another traversed represents their settled bill within their spacetime coordinates; one may admire the architecture of their scars, yet their history cannot drain the swamp beneath your own feet. As articulated in [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/), refining our distinctions is not an audition for the applause of other minds, but the forging of a firmer, sharper bedrock for the observer's next act of creation. Cast aside the hallucination of a pre-paid path. Step unreservedly into the causal fire: collide, absorb, calibrate, and iterate. Only within this unalienable, bodily friction does an otherwise weightless discrete choice harden into the authentic ontological gravity of sovereign agency.
+When this axiom becomes your ground, the distribution of power across the cosmos pivots. You cease standing as an aggrieved plaintiff before a cosmic tribunal, awaiting external pardon or a miraculous syllabus; reality owes you neither an infallible mentor nor an emergency playbook. The mud another traversed represents their settled bill within their spacetime coordinates; one may admire the architecture of their scars, yet their history cannot drain the swamp beneath your own feet. That is why an ancient adage resonates even across theological scriptures: God only helps those who help themselves. Viewed through causal cybernetics, all external help is misallocated self-help. External conditions, written treatises, or mentors can never serve as direct proxy agents; they function solely as inspiration or mechanical leverage for self-help. An agent must make the decision to take action in order to improve its own condition.
+
+There is a fundamental categorical difference between seeking external help and seeking external inspiration or leverage to help oneself. The former allocates causal power at the external source, forfeiting agency; the latter initiates authentic transformation originating from one's own freedom of choice. Without making a free choice, any perceived change—adopting new jargon, moving to a new city, consulting another expert—is merely a phase-shifting of a deterministic feedback loop. The dynamical attractor remains identical; the trajectory traces the exact same orbit, merely shifted by an arbitrary phase angle. Not only does it fail to provide genuine help, it actively masks the lack of authentic self-help and explains why most people remain permanently stuck. As articulated in [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/), refining our distinctions is not an audition for the applause of other minds, but the forging of a firmer, sharper bedrock for the observer's next act of creation. Cast aside the hallucination of a pre-paid path. Step unreservedly into the causal fire: collide, absorb, calibrate, and iterate. Only within this unalienable, bodily friction does an otherwise weightless discrete choice harden into the authentic ontological gravity of sovereign agency.
 
 ```mermaid
 graph TD
-    subgraph S_Dependency_EN ["The Fragility of External Entitlement"]
+    subgraph S_Dependency_EN ["External Help: Deterministic Phase-Shifting"]
         direction TB
-        DE_Claim["Demanding Painless Blueprints & Rescuers"] --> DE_Passive["Self-Reduction to a Passive, Waiting Object"]
-        DE_Passive --> DE_Resentment["Chronic Resentment & Intensified Paralysis"]
+        DE_Claim["Allocating Causal Power to External Source"] --> DE_Passive["Execution Devoid of Free Choice"]
+        DE_Passive --> DE_PhaseShift["Phase-Shifting within Closed Deterministic Loop"]
+        DE_PhaseShift --> DE_Masking["Active Masking of the Absence of Self-Help"]
+        DE_Masking --> DE_Paralysis["Chronic Paralysis inside Stationary Attractor"]
     end
 
-    subgraph S_Sovereignty_EN ["Sovereignty Grounded in Total Responsibility"]
+    subgraph S_Sovereignty_EN ["Self-Help Leverage: Sovereign State Transition"]
         direction TB
-        RE_Ground["Axiom: Current Reality Is One's Collapsed Trace"] --> RE_Friction["Total Abandonment of Shortcuts for Ground Friction"]
-        RE_Friction --> RE_Bedrock["Trial & Recalibration: Bedrock for Next Distinction"]
+        RE_Leverage["External Conditions Treated Solely as Leverage"] --> RE_FreeChoice["Initiating State Transition via Freedom of Choice"]
+        RE_FreeChoice --> RE_Friction["Abandoning Shortcuts to Incur Ground Friction"]
+        RE_FreeChoice --> RE_Bedrock["Trial & Recalibration: Bedrock for Next Distinction"]
         RE_Bedrock --> RE_Agency["Unshakable Ontological Gravity of Sovereign Agency"]
     end
 
-    DE_Resentment ===> RE_Ground
+    DE_Paralysis ===> RE_Leverage
 
     style S_Dependency_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Sovereignty_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style DE_Claim fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style DE_Passive fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style DE_Resentment fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style RE_Ground fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style DE_PhaseShift fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style DE_Masking fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style DE_Paralysis fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style RE_Leverage fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style RE_FreeChoice fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
     style RE_Friction fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style RE_Bedrock fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style RE_Agency fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
