@@ -294,24 +294,28 @@ flowchart TD
 
 这一倒错更揭示出深空尺度叙事中一种深刻的认识论错觉：**当心智没有意识到它的认知范围越大、自身的范围便越大的时候，它反而会错误地以为自己变得渺小了**。当人类心智递归构建出百亿光年的深空星系图景时，这本身标志着心智认知疆域的空前拓展——是心智的容量在容纳宇宙模型，而非心智在物理虚空中被动缩减。然而，许多人由于未能**同步更新心智自身的自我形象**，依然将对“自我”的理解死板地锚定在局部的肉身几何体积之上，把数十公斤、一米多高的碳基机体同跨越百亿光年的形式读数进行直接的物理比对。在这种刻舟求剑的对照下，心智便误以为自己沦为了可忽略的宇宙尘埃。这并非心智真的变渺小了，而是心智在拓展认知疆域的同时，未曾同步更新其自我形象，错把用于测量尺度的肉身工具等同于生成测量的认知主体。
 
-正如我们在[能动性从不涌现：涌现的范畴错误、潜空间侵入与第一人称先验](../agency-does-not-arise/)中所指出的，能动性并非从物理系统的下游统计平均中被动产生，它是构建模型与设定坐标的先决条件。认识论的严谨，并不要求我们假想一个不存在主体的虚空视角，而是清晰地认领心智自身的认知视界。确认一切认知与行动皆围绕人类经验展开，是基于认知条件的客观陈述。心智不必因无机物质在几何体积上的广袤而低估自身的认知功能。宇宙之所以呈现出深邃与有序，正是因为第一人称的感知与推理在物质运动中展开了认知维度。人无法逃逸出自身的心智，正如行动无法脱离实施行动的立足点；理解形式模型的工具定位，立足当下的感知原点，承担具身行动的因果反馈，构成了主权心智清晰而沉着的认知基准。
+这种错觉的深层机制，正是**心智同时把自身与其他心智一起物化（objectification）的结果：错误地把对自身与他人心智的外在观察，当成了自身与他人心智的全部**。面对他者心智，由于同速视界无法直接内窥，人们所能接触的永远只是第一重维度坍缩后的外化言行与行为读数，于是极易将对方物化为可观测的生物客体或形式模型中的因果变量；而在审视自身时，心智同样将自身物化，将不可内窥的主权感知原点缩减为坐标系内占据有限体积的生理机体。当心智把自身与他者皆降格为形式空间中的物化对象时，便遗忘了那个正在进行测绘、建模与赋予意义的源头心智，永远不可能被其下游的任何可观测现象所穷尽。将对心智的外在观察等同于心智的全部，使心智在自身编织的物化图景中迷失了主权位置，进而在一片无机几何读数面前陷入了自轻与虚无。
+
+而认识论的事实是，**无论是百亿光年的深空图景、外部星系的运动规律，还是对他人外化言行的记录、对自己肉身体积的度量，其在认识论上都只是“正在观察的心智”的一部分内容**。被观察的对象、形式模型的读数，乃至“自身渺小”的无力感本身，无一不是在正在展开的第一人称认知视界中被显化与整合的局部内容。整体断不可能被其内部呈现的某一局部内容所矮化；作为认知容器与发端原点的主权心智，断不可能被自身内部所包含的一组几何读数所缩减。当心智错把自身的局部内容当作独立于自身的实体，并在内容内部拿一个物化符号（肉身）去对比另一个物化尺度（深空）时，它实际上是在自己的意识舞台上，被自己推演出的布景反客为主地剥夺了立足之地。
+
+正如我们在[能动性从不涌现：涌现的范畴错误、潜空间侵入与第一人称先验](../agency-does-not-arise/)中所指出的，能动性并非从物理系统的下游统计平均中被动产生，它是构建模型与设定坐标的先决条件。认识论的严谨，并不要求我们假想一个不存在主体的虚空视角，而是清晰地认领心智自身的认知视界。确认一切认知与行动皆围绕人类经验展开，是基于认知条件的客观陈述。心智不必因无机物质在几何体积上的广袤而低估自身的认知功能。宇宙之所以呈现出深邃与有序，正是因为第一人称的感知与推理在物质运动中展开了认知维度。人无法逃逸出自身的心智，正如行动无法脱离实施行动的立足点；破除对心智的物化偏狭，认清肉身与深空皆为心智的内容，同步更新自我形象，理解形式模型的工具定位，立足当下的感知原点，承担具身行动的因果反馈，构成了主权心智清晰而沉着的认知基准。
 
 ```mermaid
 flowchart TD
     subgraph S_RecursiveReality ["【主权心智之递归闭环：因果原点】"]
         direction TB
         RL1["现实涌现为心智（第一重坍缩）"] --> RL2["心智认知范围拓展与递归建模（第二重坍缩）"]
-        RL2 --> RL3["同步更新自我形象：认知范围越大，心智范围越大"]
+        RL2 --> RL3["同步更新自我形象：深空与肉身皆为心智内容<br/>认知范围越大，心智范围越大"]
         RL3 --> RL4["行动因果矢量发端于具身主体，立足当下承担现实摩擦"]
         RL4 -.->|"反馈完善形式脚手架"| RL2
     end
 
-    subgraph S_ScaleDilution ["【尺度推论之认知错觉：自我形象滞后】"]
-        NE1["认知范围极大拓展<br/>（构建百亿光年深空模型）"] --> NE2["自我形象未同步更新<br/>（依然锚定于肉身几何微粒）"]
-        NE2 --> NE3["误以为心智变渺小<br/>（将工具尺度反向矮化测绘心智）"]
+    subgraph S_ScaleDilution ["【尺度推论之认知错觉：双重物化与反客为主】"]
+        NE1["认知范围极大拓展<br/>（构建百亿光年深空模型）"] --> NE2["自我与他者心智的双重物化（Objectification）<br/>（错把对心智的外在观察当成心智全部）"]
+        NE2 --> NE3["反客为主：拿局部内容（肉身）对比深空<br/>（遗忘肉身与深空皆为心智内容，误以为心智变渺小）"]
     end
 
-    NE3 -.->|"更新自我形象澄清渺小假象"| RL3
+    NE3 -.->|"破除物化并更新自我形象澄清渺小假象"| RL3
 
     style S_RecursiveReality fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_ScaleDilution fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -330,24 +334,28 @@ Furthermore, just as knowing depends on the mind's horizon, the causal vector of
 
 This inversion exposes a profound epistemological illusion at the heart of cosmic-scale narratives: **when the mind fails to realize that the greater the scope of its cognition, the greater the scope of itself becomes, it mistakenly believes instead that it has become minute**. When the human mind recursively models an expanse of billions of light-years, that very model represents an unprecedented expansion of the mind's own cognitive territory. It is the capacity of the mind that encompasses the cosmic model, not the mind that has physically shriveled across the void. However, because individuals fail to **synchronously update the mind's self-image**, they continue to anchor the concept of 'self' rigidly to the local geometric volume of the biological body—placing a seventy-kilogram, two-meter mammalian organism in naive physical comparison against hundreds of billions of light-years. Through this mismatched comparison, the mind misinterprets the geometric modesty of its biological vehicle as the insignificance of consciousness itself. It is not that the mind has become minute; rather, it is because the mind has failed to synchronously update its self-image, mistakenly equating the measuring instrument with the cognitive agent generating the measurement.
 
-As established in [Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior](../agency-does-not-arise/), agency is not an epiphenomenal average produced downstream by physical systems; it is the prior condition for constructing coordinate models and establishing inquiries. Rigorous epistemology does not require posturing from an unembodied view from nowhere, but soberly acknowledging the boundaries of the mind's horizon. Recognizing that knowledge and action are situated in human experience is an accurate description of our cognitive condition. The mind need not discount its own role simply because inanimate matter occupies vast geometric volume. The cosmos presents its depth and order because first-person perception and reasoning illuminate physical motion across time. One cannot escape one's own mind, just as action cannot proceed without a physical footing; recognizing formal models as tools, anchoring oneself at the experiential origin, and bearing the causal feedback of action constitute the clear foundation of sovereign agency.
+At a deeper mechanical level, this illusion is the direct consequence of **the mind simultaneously objectifying both itself and other minds (objectification): mistakenly equating the external observation of its own and other minds with the totality of those minds**. When confronting another mind, because observers operating at identical speeds cannot peer directly into each other's interiority, one encounters only the externalized behaviors left in the wake of the first dimensional collapse, readily objectifying the other into an observable biological entity or a deterministic variable in a formal model. In examining itself, the mind commits the identical fallacy, objectifying itself by reducing the unobservable sovereign perceptual origin to a somatic organism occupying a finite volume within a spatial grid. When the mind reduces both itself and others to objectified phenomena within formal space, it forgets that the sovereign observing agency engaged in surveying, modeling, and bestowing meaning can never be exhausted by any of its downstream observable manifestations. Mistaking the external observation of mind for the totality of mind causes consciousness to forfeit its sovereign footing within its own objectified map, culminating in an unfounded sense of diminishment before silent inorganic coordinates.
+
+In epistemological fact, **whether it is the grand model of billions of light-years, the formal laws governing distant galaxies, the recorded behaviors of others, or the physical metrics of one's own biological body—all of these are merely partial contents of the actively observing mind**. The observed objects, the downstream readouts of formal models, and even the subjective sensation of diminishment itself are without exception local contents manifested and integrated within the living first-person conscious field. The whole can never be diminished by any partial content arising within it; the sovereign mind, as the cognitive container and active aperture, cannot be dwarfed by a set of geometric parameters generated within its own recursive domain. When the mind mistakes its own partial contents for independent realities standing above it, and naively pits one objectified symbol (the biological body) against another objectified metric (cosmic volume) inside that very content, it is effectively staged within its own theater, allowing its own drafted scenery to dispossess the living author of its sovereign ground.
+
+As established in [Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior](../agency-does-not-arise/), agency is not an epiphenomenal average produced downstream by physical systems; it is the prior condition for constructing coordinate models and establishing inquiries. Rigorous epistemology does not require posturing from an unembodied view from nowhere, but soberly acknowledging the boundaries of the mind's horizon. Recognizing that knowledge and action are situated in human experience is an accurate description of our cognitive condition. The mind need not discount its own role simply because inanimate matter occupies vast geometric volume. The cosmos presents its depth and order because first-person perception and reasoning illuminate physical motion across time. One cannot escape one's own mind, just as action cannot proceed without a physical footing; dispelling the objectification of mind, recognizing that cosmos and body alike are partial contents of the mind, synchronously updating one's self-image, recognizing formal models as tools, anchoring oneself at the experiential origin, and bearing the causal feedback of action constitute the clear foundation of sovereign agency.
 
 ```mermaid
 flowchart TD
     subgraph S_RecursiveReality_EN ["[Recursive Circuit of Sovereign Mind: Causal Origin]"]
         direction TB
         RLE1["Reality Realizes as Mind (First Collapse)"] --> RLE2["Cognitive Scope Expands via Recursive Modeling (Second Collapse)"]
-        RLE2 --> RLE3["Synchronously Updating Self-Image:<br/>Greater Cognitive Reach = Greater Scope of Mind"]
+        RLE2 --> RLE3["Synchronously Updating Self-Image:<br/>Cosmos and body are partial contents of observing mind"]
         RLE3 --> RLE4["Action Anchored in Embodied Origin, Bearing Consequences"]
         RLE4 -.->|"Feedback Refines Scaffolding"| RLE2
     end
 
-    subgraph S_ScaleDilution_EN ["[Cognitive Illusion: Lagging Self-Image]"]
-        NEE1["Immense Expansion of Cognitive Reach<br/>(Modeling billions of light-years)"] --> NEE2["Failure to Synchronously Update Self-Image<br/>(Rigidly anchored to somatic geometric mote)"]
-        NEE2 --> NEE3["Mistakenly Inferring Mind has Become Minute<br/>(Inverting biological tool with surveying agent)"]
+    subgraph S_ScaleDilution_EN ["[Cognitive Illusion: Dual Objectification & Lagging Self-Image]"]
+        NEE1["Immense Expansion of Cognitive Reach<br/>(Modeling billions of light-years)"] --> NEE2["Dual Objectification of Self and Other Minds<br/>(Equating external observation with totality of mind)"]
+        NEE2 --> NEE3["Reifying Partial Contents Above Mind<br/>(Body & deep space are mind's contents; false diminishment)"]
     end
 
-    NEE3 -.->|"Updating Self-Image Dissolves False Diminishment"| RLE3
+    NEE3 -.->|"Dissolving Objectification & Updating Self-Image"| RLE3
 
     style S_RecursiveReality_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_ScaleDilution_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
