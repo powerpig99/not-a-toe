@@ -31,6 +31,7 @@ flowchart TD
     end
 
     R1 ===>|"第一重维度坍缩（外化与测量坍缩）"| C1
+    R1 -.->|"尺度叙事预设：假想跳过心智直达本体背景"| T1
     M1 -.->|"认知抽离：将测绘读数反向替代测绘心智"| T1
 
     style S_RealityOrigin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -68,6 +69,7 @@ flowchart TD
     end
 
     RE1 ===>|"First Dimensional Collapse (Externalization & Measurement Collapse)"| CE1
+    RE1 -.->|"Scale Narrative Presumption: Subtraction of Knower"| TE1
     ME1 -.->|"Epistemic Displacement: Readout Substituted for Knower"| TE1
 
     style S_RealityOrigin_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
