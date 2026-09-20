@@ -86,64 +86,92 @@ flowchart TD
 
 当现实通过第一重维降显现为主权心智的第一人称感知之后，心智并未停留在原初的感觉材料之中。为了深化对自身、对他者以及对所处环境的理解，心智展开了**第二重近乎无限维度的坍缩**：符号化、几何化与数学形式建模。在这个阶段，原本在第一人称中包含着丰富体感阻力、主观质感与上下文张力的具身经验，被再次进行系统性的结构抽象，提炼为由状态空间、微分方程、几何坐标与参数指标构成的形式系统。从牛顿的动力学方程到广义相对论的度规张量，再到现代统计物理的概率分布，皆是心智为了递归认知自身与外部环境而构建的形式化工具。
 
+进一步泛化审视，我们可以合理推断现实其实是一个无限自我递归的区分过程。每一次区分都伴随着特定的观测步长；这一步长可以无限逼近于零，但永远不可能真正到达零。恰恰是在此处，形式数学发生了越界：数学为了追求公理系统的闭合与运算的便利，通过极限工具与实数连续统的设定，在形式上完成了向零的跳跃，将无限细分的微元固化为现成的“实无限”连续平滑空间。然而在实际的物理与认知进程中，步长若真正归零，所有的区分、信息流动与因果阻力都将瞬间瓦解。现实中的无限只能是永远处于生成、未曾封闭的“潜无限”。而人类心智所处的意识界面，恰恰坐落于这一递归进程中特定步长区间的有限带宽之内。在现代科学所构建的共享认知模型中，这一感知区间的两极，正是微观上的量子效应极限与宏观上的宇宙常数视界。
+
+这一离散步长在日常生活中其实无处不在，体现在感官滤波的采样率、神经脉冲的整合间歇、语言概念的切分粒度以及注意力在不同情境间的切换。然而，因为人类在共享知识层面发现并接受了微观尺度上极其微小的量子极限，同时在宏观尺度上接受了极其辽阔的宇宙学边界，便极易在直觉中产生一种连续平滑的错觉，误认为所有处于日常经验中的具体步长都只是暂时的、粗糙的过渡。实际上，在具体的人类生活实践中，仅有极少数科研人员借助极端精密的仪器间接观测到了微观量子干涉或宏观红移读数，而绝大多数人仅仅是在符号文化与教科书中二手地接受了这两个尺度边界。在日复一日的真实生活里，人们每时每刻都在受到自己当前特定观测步长与感知界限的约束，却对此日用而不知。当个体遗忘了自身观测步长的有限性，便会习惯性地将当前步长所折叠出的局部感知与形式理解，误当作客观事实与现实本身。正是这种对自身观察界限的浑然不觉，构成了个体与身外世界摩擦、以及人与人之间认知冲突的原初根源。
+
 在这一认识论框架下，以空间几何尺度衡量心智重要性的范畴混淆便得以厘清。空间体积是第二重模型内部所定义的几何延伸参数，它描述的是形式坐标系内部的分布广延，并不包含生成意义、价值或因果决断的主体属性。跨度辽阔的星际分子云占据巨大的几何体积，而在地表活动的人类个体仅占据有限的物理空间。正如我们在[“物理即规律”的戏法、形式模型与现实的摩擦](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)中所指出的，形式物理模型是对观测摩擦的事后数学拟合，而非先验规定现实的立法程序。一片由低密度氢气与背景辐射构成的辽阔空间，并不具备反思其自身尺度的感知能力。“浩大”与“微小”是心智在第二重建模中为了衡量相对关系而确立的形式区分。制定标尺的心智处在因果的起点端，而被测量的空间几何数值是标尺延伸出的读数。将读数的大小置于制定读数的心智之上，颠倒了形式工具与认知主体之间的从属关系。
 
-这在认知结构上，正是对我们在[阴影与无限：低维投影、确定性假象与人类冲突的根源](../the-shadow-and-the-infinite/)中所剖析的“三重无限”的重温与深化：高维的现实本体、共享的感知基底，以及差异化的第一人称视界。第一重坍缩是不可约减的现实通过感知基底显现为独特第一人称视界的过程；第二重坍缩则是心智为了递归理解自身与环境，跨越符号鸿沟所建立的形式压缩；而所有的认知偏差，皆源于人们执迷于第二重坍缩的低维符号投影，淡忘了不可替代的第一人称原点与生活领土。
+这在认知结构上，正是对我们在[阴影与无限：低维投影、确定性假象与人类冲突的根源](../the-shadow-and-the-infinite/)中所剖析的“三重无限”的重温与深化：高维的现实本体、共享的感知基底，以及差异化的第一人称视界。现实的本体展开为无限自我递归的区分，其步长永不归零；共享的感知基底通过生理与科学仪器划定出可经验的步长区间；而差异化的第一人称视界则在具体行动中承担着局域因果。第一重坍缩是不可约减的现实通过感知基底显现为独特第一人称视界的过程；第二重坍缩则是心智为了递归理解自身与环境，跨越符号鸿沟所建立的形式压缩；而所有的认知偏差与人际冲突，皆源于人们执迷于第二重坍缩的低维符号投影，忘却了当前观测步长的边界，淡忘了不可替代的第一人称原点与生活领土。
 
 ```mermaid
-flowchart LR
-    subgraph S_SecondCollapse ["【第二重维降：递归形式建模】"]
-        direction TB
-        M2["第一人称具身体验与体感摩擦"] --> F1["符号化、公理化与数学抽象<br/>（微积分、张量几何、状态流形）"]
-        F1 --> F2["形式时空模型与天文尺度建构<br/>（百亿光年坐标网、体积参数）"]
+flowchart TD
+    subgraph S_OntologyRecursion ["【本体基底：无限自我递归区分】"]
+        R_REC["现实本体：无限自我递归的区分<br/>（步长趋于零但不可达零：Δ ➔ 0 且 Δ ≠ 0；现实仅为潜无限）"]
+        MATH_ERR["数学形式越界：强行令步长归零<br/>（虚构实无限连续统，抹平观测摩擦）"]
+        R_REC -.->|"形式抽象越界：跳跃至连续统"| MATH_ERR
     end
 
-    subgraph S_InertExtension ["【第二重模型的几何指标】"]
-        direction TB
-        V1["数万亿立方光年星际气体分布"] --> V2["无主观感知、无价值判断、无因果抉择"]
+    subgraph S_ConsciousBandwidth ["【意识区间：递归步长的有限带宽】"]
+        BAND["人类意识感知带宽<br/>（微观量子效应极限 ⟷ 宏观宇宙常数视界）"]
+        DAILY["日常生活的离散观测步长<br/>（采样界限无处不在，日用而不知）"]
+        BAND --> DAILY
     end
 
-    F2 ===>|"输出几何度量刻度"| V1
-    V2 -.-x|"范畴区分：几何读数无法替代源头心智"| M2
+    subgraph S_ModelAndConflict ["【形式建模与认知冲突根源】"]
+        F_MODEL["第二重维降：符号、几何与天文尺度建模<br/>（输出空间体积与天体读数）"]
+        CONFLICT["误将局域步长读数当成现实本身<br/>【个体与身外、他者冲突的源头】"]
+        F_MODEL --> CONFLICT
+    end
 
-    style S_SecondCollapse fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_InertExtension fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style M2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style F1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style F2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style V1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style V2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    R_REC ===>|"第一重维降：显现于特定带宽"| BAND
+    DAILY ===>|"第二重维降：递归形式抽象"| F_MODEL
+    CONFLICT -.-x|"范畴倒置：几何度量无法凌驾源头心智"| DAILY
+
+    style S_OntologyRecursion fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_ConsciousBandwidth fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_ModelAndConflict fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style R_REC fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style MATH_ERR fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style BAND fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style DAILY fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style F_MODEL fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style CONFLICT fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 Once reality realizes itself through the first collapse as the first-person experiential field, the mind does not remain confined to raw sensory impressions. To advance the understanding of itself, of other minds, and of its surrounding reality, the mind initiates **the second near-infinite dimensional collapse**: symbolic, geometric, and mathematical formal modeling. In this phase, the somatic resistance, contextual nuances, and tensions of direct awareness undergo systematic structural abstraction, condensed into formal systems defined by state spaces, differential equations, coordinate axes, and parametric indices. From Newtonian equations of motion to metric tensors in general relativity and probability distributions in statistical mechanics, all are formalized tools developed by the mind for recursive understanding.
 
+Deepening this inquiry to a generalized ontological foundation, reality can be reasonably inferred as an infinite process of self-recursive distinction. Every distinction operates across a discrete step size; this observational interval approaches zero asymptotically, yet can never strictly reach zero. It is precisely at this juncture that formal mathematics commits an epistemic overreach: in pursuit of axiomatic closure and computational elegance, mathematical calculus posits limits and the real continuum, formally completing the leap to zero and reifying infinite subdivision into an 'actual infinity' of seamless, smooth space. In experiential reality, however, if the distinction step size were ever to become zero, all boundaries, differentiation, and informational flow would instantly vanish. The infinity of reality can only be a 'potential infinity'—ever unfolding, dynamic, and incomplete. Human consciousness is situated squarely within a bounded interval of step sizes along this recursive spectrum. In our shared scientific modeling, this cognitive bandwidth is marked at its lower boundary by quantum effects and at its upper boundary by the cosmological horizon.
+
+This discrete step size is ubiquitous in everyday existence—manifest in sensory sampling rates, neural refractory periods, the semantic grain of vocabulary, and attentional shifts across tasks. Yet because scientific culture discovered and canonized an extraordinarily minute quantum limit at the micro scale alongside a vast cosmological boundary at the macro scale, human intuition easily falls into the illusion of a continuous continuum, uncritically presuming that all intermediate, everyday step sizes are merely temporary, coarse-grained approximations destined to be smoothed away. In actual human experience, only an infinitesimal fraction of specialists have ever directly observed quantum interference patterns or cosmological red shifts, and even their encounters are indirect readouts registered on electronic detectors. The overwhelming majority of people merely accept these boundaries second-hand through symbols, textbooks, and cultural consensus. In daily life, individuals are continuously bounded by their immediate, local observation step sizes without being conscious of them. Forgetting the finiteness of their perceptual aperture, people habitually reify the low-dimensional readouts of their local step size as 'reality itself' or 'objective fact.' It is this unexamined blindness to one's own immediate observational boundaries that constitutes the primary genesis of friction between the self and the external world, as well as the root of intractable conflict between differing minds.
+
 Within this framework, the category confusion of using spatial geometric scale to evaluate the standing of the mind is clarified. Spatial volume is a geometric parameter defined within the second-order model; it records spatial extension within an abstract coordinate system, possessing no inherent capacity to generate meaning, value, or causal decision. An expanse of interstellar gas occupies immense geometric volume, while an embodied human agent occupies limited physical dimensions. As detailed in [The Sleight of Hand in "Physics Is the Law": Formal Models, Statutory Command, and the Friction of Reality](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/), formal physical models are post-hoc mathematical codifications of observed friction, not statutory authorities legislating reality. A vast cosmic expanse of low-density hydrogen and cosmic background radiation possesses no subjective interiority to perceive its own dimensions. Vastness and minuteness are relational distinctions introduced by the mind within second-order modeling. The conscious mind formulating the scale stands prior to the measured coordinates; astronomical measurements are downstream readouts. Placing the magnitude of a readout above the cognitive agency capable of formulating it confuses the instrument with the observing agent.
 
-In this sense, this framework revisits and deepens the structure of the threefold infinity analyzed in [The Shadow and the Infinite: Low-Dimensional Projections, the Deterministic Illusion, and the Genesis of Conflict](../the-shadow-and-the-infinite/): the irreducible physical reality, the shared perceptual substrate, and the singular divergence of the first-person vantage. The first collapse marks how high-dimensional reality realizes itself through the sensory substrate as a unique first-person vantage; the second collapse represents the formal compression constructed across the symbolic chasm to recursively understand mind and environment; and cognitive displacements arise when discourse fixates on the low-dimensional projection of the second collapse, losing sight of the observing origin and the living territory.
+In this sense, this framework revisits and deepens the structure of the threefold infinity analyzed in [The Shadow and the Infinite: Low-Dimensional Projections, the Deterministic Illusion, and the Genesis of Conflict](../the-shadow-and-the-infinite/): the high-dimensional reality, the shared perceptual substrate, and the singular divergence of the first-person vantage. Reality unfolds as an infinite self-recursive distinction whose step size never reaches zero; the shared perceptual substrate demarcates an experiential bandwidth bounded by instruments and biological thresholds; and the singular first-person horizon bears situated causal accountability in action. The first collapse marks how reality realizes itself through the sensory substrate as a unique first-person vantage; the second collapse represents the formal compression constructed across the symbolic chasm to recursively understand mind and environment; and cognitive displacements and human conflicts arise when discourse fixates on the low-dimensional projection of the second collapse, forgets the finite step size of immediate observation, and loses sight of the irreplaceable first-person origin and the living territory.
 
 ```mermaid
-flowchart LR
-    subgraph S_SecondCollapse_EN ["[Second Collapse: Recursive Formal Modeling]"]
-        direction TB
-        ME2["First-Person Experience & Somatic Friction"] --> FE1["Symbolic & Mathematical Abstraction<br/>(Calculus, tensor geometry, state manifolds)"]
-        FE1 --> FE2["Formal Spacetime Models & Scales<br/>(Coordinate grids, volume parameters)"]
+flowchart TD
+    subgraph S_OntologyRecursion_EN ["[Ontological Ground: Infinite Self-Recursive Distinction]"]
+        RE_REC["Reality: Infinite Self-Recursive Distinction<br/>(Step size approaches zero but never zero: Δ ➔ 0 & Δ ≠ 0; Potential Infinity)"]
+        MATH_ERR_EN["Mathematical Overreach: Forcing Step Size to Zero<br/>(Fabricating Actual Infinity & Continuum, Erasing Friction)"]
+        RE_REC -.->|"Formal Overreach: Leap to Continuum"| MATH_ERR_EN
     end
 
-    subgraph S_InertExtension_EN ["[Geometric Readouts of Second-Order Model]"]
-        direction TB
-        VE1["Trillions of Cubic Light-Years of Gas"] --> VE2["Zero Sentience, Zero Choice, Zero Causal Accountability"]
+    subgraph S_ConsciousBandwidth_EN ["[Conscious Bandwidth: Finite Step-Size Interval]"]
+        BANDE["Human Conscious Bandwidth<br/>(Microscopic Quantum Limit ⟷ Macroscopic Cosmological Constant)"]
+        DAILY_EN["Ubiquitous Discrete Step Sizes in Daily Life<br/>(Observation limits operate continuously, unnoticed)"]
+        BANDE --> DAILY_EN
     end
 
-    FE2 ===>|"Yields Geometric Metrics"| VE1
-    VE2 -.-x|"Category Distinction: Metric Cannot Replace Source Mind"| ME2
+    subgraph S_ModelAndConflict_EN ["[Formal Modeling & Genesis of Conflict]"]
+        FE_MODEL["Second Collapse: Symbolic, Geometric & Spacetime Models<br/>(Outputting spatial metrics & astronomical readings)"]
+        CONFLICT_EN["Mistaking Local Step-Size Readout for Reality Itself<br/>[Root of conflict with environment & differing minds]"]
+        FE_MODEL --> CONFLICT_EN
+    end
 
-    style S_SecondCollapse_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_InertExtension_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style ME2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style FE1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style FE2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style VE1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style VE2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    RE_REC ===>|"First Collapse: Manifested in Bandwidth"| BANDE
+    DAILY_EN ===>|"Second Collapse: Recursive Formal Abstraction"| FE_MODEL
+    CONFLICT_EN -.-x|"Category Inversion: Metric Cannot Supplant Observing Mind"| DAILY_EN
+
+    style S_OntologyRecursion_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_ConsciousBandwidth_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_ModelAndConflict_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style RE_REC fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style MATH_ERR_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style BANDE fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style DAILY_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style FE_MODEL fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style CONFLICT_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 ## 对称的视界偏差与历史的演进：形式模型更迭为何催生了权威倒置 / Symmetrical Horizon Displacements and Historical Succession: How Model Shifts Induced the Inversion of Authority
