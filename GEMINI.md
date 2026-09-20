@@ -22,6 +22,10 @@ For every new or revised essay, the complete deliverable set consists of:
   - Nodes: `style NodeID fill:#0d1117,stroke:#<hex>,stroke-width:1px,color:#f0f6fc`
   - Semantic colors: Green (`#3fb950` - Mind/sovereign judgment), Red (`#f85149` - Inversion/collapse/failure), Amber (`#d29922` - Scaffolding/tradeoffs), Blue (`#58a6ff` - Models/telemetry/signals), Purple (`#a371f7` - Self-referential loops/latent spaces).
 - **Bilingual parallelism**: Every Chinese diagram must have an exact parallel English counterpart with identical node topology and semantic coloring.
+- **Strict Language Separation ("中文的归中文，英文的归英文")**:
+  - **Chinese belongs to Chinese**: In the Chinese version of an essay, all text, headings, and diagram node labels must be pure Chinese. Strictly zero English subtitle lines (e.g. `<br/>English text`) in Chinese diagrams, unless annotating recognized proper nouns (e.g. DNA, API, AI).
+  - **English belongs to English**: In the English version, all text, headings, and diagram node labels must be pure English.
+  - **Bilingual completeness**: Essays with bilingual titles must feature complete parallel Chinese and English sections (including title, subtitle, lead, section headings, narrative prose, and Mermaid diagrams).
 - **Relative cross-links**: Weave internal links using relative form only: `[title](../slug/)`. All targets must resolve to existing post files.
 - **Mathematical notation**: Unicode only (e.g. `S₀`, `∇L`, `h`). **Strictly zero raw `$` or `$$` symbols**.
 - **Vocabulary hygiene**: Zero occurrences of prohibited crutches:
