@@ -89,10 +89,11 @@ Full title / subtitle / lead jobs, refinement workflow, and anti-repetition chec
 
 ## Optional Title Image
 
-Place a **20:9** landscape cover at `assets/covers/<slug>.jpg` (or `.jpeg` / `.png` / `.webp`), matching the markdown filename without extension. Target **1280×576**. That aspect is the shared install for site title image, Substack featured image, and X Article `cover_media` — one file, three consumers. The build:
+Place a landscape cover at `assets/covers/<slug>.jpg` (or `.jpeg` / `.png` / `.webp`), matching the markdown filename without extension. 
+Default generator is local **Qwen-Image-2.1** (`python3 scripts/generate-cover.py <slug> --prompt "..."`), targeting ultra-wide **21:9** at **1344×576** (or 20:9 at **1280×576**). That aspect is the shared install for site title image, Substack featured image, and X Article `cover_media` — one file, three consumers. The build:
 
 - copies it to `public/covers/`
 - renders it above the essay title
 - uses it for `og:image` / Twitter large-image card when present
 
-Generate at `aspect_ratio` **20:9** (not square, portrait, or 16:9). Full style rule, inventory, and workflow: [`assets/covers/STYLES.md`](../assets/covers/STYLES.md). Authoring contract: [`content/posts/README.md`](../content/posts/README.md). Legacy covers (often 16:9) stay as installed until the operator asks to regenerate that slug.
+Generate at ultra-wide `aspect_ratio` **21:9** (`1344×576`) or **20:9** (`1280×576`) (not square, portrait, or 16:9). Full style rule, inventory, and workflow: [`assets/covers/STYLES.md`](../assets/covers/STYLES.md). Authoring contract: [`content/posts/README.md`](../content/posts/README.md). Legacy covers (often 16:9) stay as installed until the operator asks to regenerate that slug.

@@ -37,8 +37,9 @@ For every new or revised essay, the complete deliverable set consists of:
   - Purge moralizing and judgmental rhetoric; maintain a rigorous first-person analytical perspective.
 
 ### 2. Cover Art (`assets/covers/<slug>.jpg`)
-- 16:9 or 20:9 landscape image (1280×720 or 1280×576).
-- Invented, distinctive, non-crowded style family (zero text, zero legible symbols, zero dark chalk cliches).
+- **Default Generator**: Local **Qwen-Image-2.1** pipeline executed via `python3 scripts/generate-cover.py <slug> --prompt "..."` (7B DiT + Qwen3-VL 8B, bfloat16 on Apple Silicon MPS).
+- **Default Aspect & Resolution**: Ultra-wide **21:9** landscape (`1344×576`, exact 21:9 integer multiple of 32, ~0.77 MP, ~5 min inference on M4 Pro; or 20:9 `1280×576`).
+- **Aesthetic Discipline**: Invented, distinctive, non-crowded style family (strictly zero readable text, zero logos, zero legible symbols, zero dark chalk cliches, zero tabletop still-lifes).
 - Registered in `assets/covers/STYLES.md` under both `Style families (used)` and the `Inventory` table.
 
 ### 3. Companion NotebookLM Prompts (Chinese Only, Link-Free)
