@@ -20,19 +20,23 @@ graph TD
     classDef scaffold fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#d29922;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff;
 
-    subgraph S_True ["原生认识论：无须硬件的心智区分"]
+    subgraph S_True ["【原生认识论：无须硬件的心智区分】"]
+        direction TB
         M1["主权心智区分活动"]:::mind
         M2["信息与状态拓扑"]:::model
         M3["宏观物理不变量与摩擦阻力"]:::scaffold
         M1 --> M2 --> M3
     end
 
-    subgraph S_Fallacy ["模拟假说：偷渡物理硬件的机械倒退"]
+    subgraph S_Fallacy ["【模拟假说：偷渡物理硬件的机械倒退】"]
+        direction TB
         F1["人类工程经验：电脑运算数据"]:::model
         F2["虚构先决条件：高维物理超级计算机"]:::failure
         F3["无限倒退：硬件之上的更高级硬件"]:::failure
         F1 --> F2 --> F3
     end
+
+    M3 ===>|"认识论倒错：将测绘读数反设为实体硬件"| F1
 
     style S_True fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Fallacy fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -55,6 +59,7 @@ graph TD
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff;
 
     subgraph S_True_EN ["Authentic Epistemology: Hardware-Free Distinctions"]
+        direction TB
         ME1["Sovereign Mind Distinguishing Act"]:::mind
         ME2["Informational Topology & State Potentials"]:::model
         ME3["Macroscopic Invariants & Physical Friction"]:::scaffold
@@ -62,11 +67,14 @@ graph TD
     end
 
     subgraph S_Fallacy_EN ["Simulation Hypothesis: Mechanical Regress to Hardware"]
+        direction TB
         FE1["Local Engineering Artifact: Data on Silicon"]:::model
         FE2["Invented Substrate: Physical Supercomputer"]:::failure
         FE3["Infinite Material Regress of Hardware"]:::failure
         FE1 --> FE2 --> FE3
     end
+
+    ME3 ===>|"Epistemic Inversion: Projecting Scaffolding onto Hardware"| FE1
 
     style S_True_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Fallacy_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -88,19 +96,23 @@ graph TD
     classDef scaffold fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#d29922;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff;
 
-    subgraph S_Isomorphism ["合理数学认知：同构映射不等于本体同一"]
+    subgraph S_Isomorphism ["【合理数学认知：同构映射不等于本体同一】"]
+        direction TB
         I1["现实动力学摩擦与风暴"]:::scaffold
         I2["逻辑与因果同构映射模型"]:::model
-        I1 -.->|"数学同构映射"| I2
+        I1 -->|"数学同构映射：仅保全关系"| I2
     end
 
-    subgraph S_Collapse ["模拟假说跳跃：神创论2.0的诞生"]
+    subgraph S_Collapse ["【模拟假说跳跃：神创论2.0的诞生】"]
+        direction TB
         C1["代码数据能够同构物理规律"]:::model
         C2["混淆：现实就是一段被执行的代码"]:::failure
         C3["虚构前置主体：必然存在模拟者"]:::failure
         C4["科技神创论：程序员充当造物主"]:::failure
         C1 --> C2 --> C3 --> C4
     end
+
+    I2 ===>|"范畴混淆：从数学同构跳跃至本体同一"| C1
 
     style S_Isomorphism fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -121,18 +133,22 @@ graph TD
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff;
 
     subgraph S_Isomorphism_EN ["Valid Mathematical Mapping: Isomorphism != Identity"]
+        direction TB
         IE1["Living Physical Reality: Atmospheric Friction"]:::scaffold
         IE2["Computational Simulation: Numerical Matrices"]:::model
-        IE1 -.->|"Mathematical Mapping Preserves Relation Only"| IE2
+        IE1 -->|"Mathematical Mapping Preserves Relation Only"| IE2
     end
 
     subgraph S_Collapse_EN ["The Simulation Fallacy: Creationism 2.0"]
+        direction TB
         CE1["Data Can Isomorphically Mirror Laws"]:::model
         CE2["Ontological Collapse: Reality Is Code"]:::failure
         CE3["Phantom Postulate: Deducing a Simulator"]:::failure
         CE4["Creationism Repackaged: Silicon Watchmaker"]:::failure
         CE1 --> CE2 --> CE3 --> CE4
     end
+
+    IE2 ===>|"Category Error: Leaping from Isomorphism to Identity"| CE1
 
     style S_Isomorphism_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Collapse_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -156,19 +172,23 @@ graph TD
     classDef scaffold fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#d29922;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff;
 
-    subgraph S_LivingMind ["真实智能：具身因果与现实摩擦"]
+    subgraph S_LivingMind ["【真实智能：具身因果与现实摩擦】"]
+        direction TB
         L1["具身生命机体"]:::mind
         L2["生理代谢与现实阻力"]:::scaffold
         L3["不可转让的因果责任"]:::mind
         L1 --> L2 --> L3
     end
 
-    subgraph S_FormalHubris ["形式傲慢：无摩擦符号的造神幻象"]
+    subgraph S_FormalHubris ["【形式傲慢：无摩擦符号的造神幻象】"]
+        direction TB
         H1["形式系统操盘手：熟稔符号闭环"]:::model
         H2["脱离现实摩擦：语料概率滑行"]:::failure
         H3["认知傲慢：将形式回声奉为自主意志"]:::failure
         H1 --> H2 --> H3
     end
+
+    L3 ===>|"认知盲区：抽离具身因果与代谢代价"| H1
 
     style S_LivingMind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_FormalHubris fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -191,6 +211,7 @@ graph TD
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff;
 
     subgraph S_LivingMind_EN ["Authentic Intelligence: Embodied Stakes & Friction"]
+        direction TB
         LE1["Living Biological Organism"]:::mind
         LE2["Metabolic Stakes & Physical Resistance"]:::scaffold
         LE3["Inalienable Consequence Bearing"]:::mind
@@ -198,11 +219,14 @@ graph TD
     end
 
     subgraph S_FormalHubris_EN ["Formal Hubris: Deifying Frictionless Syntax"]
+        direction TB
         HE1["Symbolic Operators: Mastery of Closed Rules"]:::model
         HE2["Frictionless Matrix Algebra & Shuffling"]:::failure
         HE3["Cognitive Hubris: Treating Echo as Will"]:::failure
         HE1 --> HE2 --> HE3
     end
+
+    LE3 ===>|"Cognitive Blindness: Severing Metabolic Stakes & Consequences"| HE1
 
     style S_LivingMind_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_FormalHubris_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -226,19 +250,23 @@ graph TD
     classDef scaffold fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#d29922;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff;
 
-    subgraph S_Wittgenstein ["维特根斯坦的倒错：工具局限被误判为世界边界"]
+    subgraph S_Wittgenstein ["【维特根斯坦的倒错：工具局限被误判为世界边界】"]
+        direction TB
         W1["语言作为形式类型系统：表达工具的局限"]:::model
         W2["认识论倒错：误将语言表达界限当作世界界限"]:::failure
         W3["形而上学失语：第7条命题对不可言说之物的沉默"]:::failure
         W1 --> W2 --> W3
     end
 
-    subgraph S_Reconstruction ["认识论翻转：凡可言说皆非物之产物"]
+    subgraph S_Reconstruction ["【认识论翻转：凡可言说皆非物之产物】"]
+        direction TB
         R1["非物：正在进行的对象化与观察能力本身"]:::mind
         R2["一切可言说模型皆为生成的认知脚手架"]:::scaffold
         R3["勇毅的认识论姿态：在现实摩擦中试图说得更好"]:::mind
         R1 --> R2 --> R3
     end
+
+    W3 ===>|"认识论翻转：打破沉默，看清非物源头"| R1
 
     style S_Wittgenstein fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Reconstruction fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -261,6 +289,7 @@ graph TD
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff;
 
     subgraph S_Wittgenstein_EN ["Wittgenstein's Inversion: Tool Limits Mistaken for Reality Limits"]
+        direction TB
         WE1["Language as a Formal Type System: Tool Limits"]:::model
         WE2["Epistemological Inversion: Equating Tool Limits with World Limits"]:::failure
         WE3["Metaphysical Abdication: Proposition 7 Mandate of Silence"]:::failure
@@ -268,11 +297,14 @@ graph TD
     end
 
     subgraph S_Reconstruction_EN ["Epistemological Reversal: All Spoken Is Generative Product"]
+        direction TB
         RE1["Not an Object: The Living Capacity to Objectify"]:::mind
         RE2["Spoken Models as Evolving Scaffolding"]:::scaffold
         RE3["Active Epistemological Stance: Striving to Speak Better"]:::mind
         RE1 --> RE2 --> RE3
     end
+
+    WE3 ===>|"Epistemological Reversal: Overturning Silence to Reveal Non-Object Origin"| RE1
 
     style S_Wittgenstein_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Reconstruction_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -294,19 +326,23 @@ graph TD
     classDef scaffold fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#d29922;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff;
 
-    subgraph S_QuantumPhase ["量子相变：潜能向历史记录的凝固"]
+    subgraph S_QuantumPhase ["【量子相变：潜能向历史记录的凝固】"]
+        direction TB
         Q1["未决的区分潜能（波函数非定域叠加）"]:::model
         Q2["不可逆的具身观测（划定确定界限）"]:::mind
         Q3["固化的物理历史读数（宏观不变量与记录）"]:::scaffold
         Q1 -->|"测量即划界区分"| Q2 --> Q3
     end
 
-    subgraph S_EmbodiedCausality ["终极落位：现实自指闭环与具身因果"]
+    subgraph S_EmbodiedCausality ["【终极落位：现实自指闭环与具身因果】"]
+        direction TB
         C1["主权心智非物源头（对象化能力本身）"]:::mind
         C2["形式模型与语言脚手架（可言说的符号产物）"]:::model
         C3["现实摩擦中的行动与担当（具身因果坐标原点）"]:::mind
         C1 --> C2 --> C3
     end
+
+    Q3 ===>|"宏观物理沉淀为行动脚手架，终极落位于第一人称"| C1
 
     style S_QuantumPhase fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_EmbodiedCausality fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -327,6 +363,7 @@ graph TD
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff;
 
     subgraph S_QuantumPhase_EN ["Quantum Seam: Potentiality Freezing into Historical Record"]
+        direction TB
         QE1["Uncommitted Potentiality: Latent Distinctions"]:::model
         QE2["First-Person Observation: Irreversible Distinction"]:::mind
         QE3["Solidified Physical Invariants: Historical Records"]:::scaffold
@@ -334,11 +371,14 @@ graph TD
     end
 
     subgraph S_EmbodiedCausality_EN ["Final Ground: Self-Referential Reality & Embodied Stakes"]
+        direction TB
         CE1["Unobjectifiable Origin: The Living Capacity to Observe"]:::mind
         CE2["Spoken Formal Models: Epistemological Scaffolding"]:::model
         CE3["Embodied Physical Action: Bearing Immediate Stakes"]:::mind
         CE1 --> CE2 --> CE3
     end
+
+    QE3 ===>|"Macro-Invariants Ground Scaffolding at Sovereign Origin"| CE1
 
     style S_QuantumPhase_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_EmbodiedCausality_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950

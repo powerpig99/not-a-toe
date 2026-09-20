@@ -201,6 +201,28 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 warnings.append(f"Strict language separation in diagrams ('中文的归中文，英文的归英文'): {'; '.join(diagram_lang_issues)}")
             else:
                 passes.append("Strict language separation in diagrams (pure Chinese in Chinese diagrams, pure English in English diagrams)")
+
+        # Strictly vertical layout check (prevent horizontal side-by-side subgraphs)
+        horizontal_layout_issues = []
+        for idx, block in enumerate(mermaid_blocks, 1):
+            if re.search(r'\bgraph\s+LR\b', block, re.IGNORECASE):
+                horizontal_layout_issues.append(f"Diagram {idx} uses horizontal flow ('graph LR'). Rule: use strictly vertical 'graph TD' / 'flowchart TD'.")
+            
+            subgraphs = re.findall(r'\bsubgraph\s+([A-Za-z0-9_-]+)', block)
+            if len(subgraphs) >= 2:
+                # Check for direction TB
+                if 'direction TB' not in block and 'direction TD' not in block:
+                    horizontal_layout_issues.append(f"Diagram {idx} has {len(subgraphs)} subgraphs but lacks 'direction TB'. Subgraphs must enforce vertical node flow.")
+                
+                # Check for inter-subgraph vertical connection (e.g. Node1 ===> Node2 or Subgraph link)
+                has_inter_subgraph_edge = bool(re.search(r'===>|-->|-\.->', block.split('end')[-1])) or ('===>' in block)
+                if not has_inter_subgraph_edge:
+                    horizontal_layout_issues.append(f"Diagram {idx} has {len(subgraphs)} disconnected subgraphs without vertical connecting arrow (e.g. UpperNode ===> LowerNode), which causes horizontal side-by-side layout.")
+
+        if horizontal_layout_issues:
+            errors.append(f"Mermaid horizontal layout violations: {'; '.join(horizontal_layout_issues)}")
+        else:
+            passes.append(f"Mermaid vertical layout check ({len(mermaid_blocks)} diagrams adhere to strictly vertical mobile-friendly top-down flow)")
     else:
         passes.append("Mermaid check (no diagrams in this post)")
 
