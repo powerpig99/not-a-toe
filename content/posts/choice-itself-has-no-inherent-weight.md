@@ -174,7 +174,7 @@ graph TD
 
 ## 停滞的维持机制：以“尚未准备好”为掩护的避责投资 / The Mechanics of Paralysis: Evasion Disguised as 'Unpreparedness'
 
-停滞并不是一种被动的受困状态，而是一项持续消耗资源的主动投资。一个声称自己不知道该怎么做的人，其实清楚眼下可以尝试的微小切入口是什么。然而，如果他默认改变必须是一场惊天动地的大动作，就会立即引发对未知结果的恐慌，从而本能地退缩。
+停滞并不是一种被动的受困状态，而是一项持续消耗资源的主动投资。一个声称自己不知道该怎么做的人，从旁观者的视界出发，我们并不能越界去判定他内心是否真正清楚；但可以确定的是，他不愿在自己身上寻找原因，拒绝向内直面自身的主权抉择。如果他预设改变必须是一场惊天动地的大决战，就会顺理成章地将因果归咎于环境，以此掩盖不愿由自身开启微调的惰性，从而本能地向外退缩。
 
 为了合理化这种退缩，心智发明了最体面的策略：宣称自己“尚未准备充分”。它继续购买书籍，继续在网络中搜寻完美攻略，沉溺于对各种复杂理论的推演。每一次获取新的概念，都会带来短暂的满足感，仿佛自己离终极答案又近了一步；但这种认知刺激消退后，现实依旧原地未动。在[非中介化的幻象与恩赐自由的解构](../the-illusion-of-the-unmediated/)中，这种依附模式被揭示为一种自我束缚。将生命精力耗散在对“万全准备”的无限期等候中，实质上是用对宏大改变的虚妄恐惧，掩盖了开启日常微小尝试的惰性。只要放下对瞬间质变的贪求，把注意力拉回到今天的一个微小动作上，那种所谓的恐惧就会失去立足点。
 
@@ -182,7 +182,7 @@ graph TD
 graph TD
     subgraph S_Truth ["被忽视的真实可能"]
         direction TB
-        T_Action["清楚感知今天可尝试的微小动作"] --> T_Macro["将微调误判为不可承受的宏大决战"]
+        T_Action["不愿在自身寻找原因并回避自主抉择"] --> T_Macro["预设改变必须是不可承受的宏大决战"]
     end
 
     subgraph S_Evasion ["伪装成探索的拖延循环"]
@@ -205,7 +205,7 @@ graph TD
     style E_Decay fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
 ```
 
-Paralysis is not a passive affliction; it is an actively maintained, resource-intensive investment. An individual claiming ignorance regarding how to proceed usually knows a small, immediate entry point that could be tested today. However, when an agent presumes that change must be a momentous, high-stakes leap, it triggers anxiety over imagined failure, prompting an immediate retreat into safe procrastination.
+Paralysis is not a passive affliction; it is an actively maintained, resource-intensive investment. When someone claims not to know what to do, an outside observer cannot cross boundaries to judge whether they are inwardly clear; what remains certain, however, is that they are unwilling to locate the cause within themselves, refusing to confront their own sovereign choices. Presuming that change must be a momentous, high-stakes leap provides a convenient excuse to blame external circumstances, masking the reluctance to initiate incremental self-adjustments and prompting an instinctive retreat into safe avoidance.
 
 To justify this hesitation, the mind devises an intellectual alibi: proclaiming that it is "not yet adequately prepared." It buys another book, asks for another checklist, and compares theoretical models. Each newly assimilated concept produces synthetic satisfaction, mimicking progress; yet once the conceptual excitement fades, everyday reality remains unchanged. As shown in [The Illusion of the Unmediated](../the-illusion-of-the-unmediated/), this reliance on total readiness functions as self-imposed restraint. Squandering energy while waiting for a risk-free blueprint uses the exaggerated fear of a massive leap to avoid simple everyday adjustments. Once the demand for instant transformation is discarded and focus returns to today's incremental step, the imagined dread evaporates.
 
@@ -213,7 +213,7 @@ To justify this hesitation, the mind devises an intellectual alibi: proclaiming 
 graph TD
     subgraph S_Truth_EN ["The Overlooked Pragmatic Reality"]
         direction TB
-        TE_Action["Awareness of Immediate Incremental Entry Point"] --> TE_Macro["Misconstruing Incremental Step as High-Stakes Leap"]
+        TE_Action["Reluctance to Locate Cause in Self & Sovereign Choice"] --> TE_Macro["Presuming Change Demands a High-Stakes Leap"]
     end
 
     subgraph S_Evasion_EN ["The Intellectual Stalling Loop"]
@@ -238,15 +238,15 @@ graph TD
 
 ## 试错、观测与校准：渐进闭环中的主权行动网络 / Try, Observe, Adjust: The Sovereign Cybernetic Loop of Gradual Action
 
-打破停滞的解法，是击碎对“一次性选对”的完美主义妄念，退回到最基础的控制论闭环之中：尝试一个微小的动作，观测真实的反馈，校准心智的模型，发起下一次尝试。强调具身尝试，并不是要抹杀静态推演的价值。在纸面上搭建模型、评估场景并推演边界，是心智极其重要的构建能力；一旦静态推演退守于“灵感”（inspiration）或“借力杠杆”（leverage）的辅助位置，它便能化为极具穿透力的强劲助力。我们否定的从来不是静态推演的功能，而是否定静态推演拥有因果力（causal power）。静态推演不能凌驾于主观选择之上，更不可能代劳状态的跃迁。若把因果力寄托在算力或模型推演之中，心智就会再度陷入等候“更优算法”的拖延陷阱。任何有生命力的系统，都不是依靠静态推演来替代实际体验的，而是在持续的微步尝试中确定真实的坐标。
+打破停滞的解法，是击碎对“一次性选对”的完美主义妄念，退回到最基础的控制论闭环之中：尝试一个微小的动作，观测真实的反馈，校准心智的模型，发起下一次尝试。强调具身尝试，并不是要抹杀寻求建议或静态推演的价值。不管是向外部寻求建议、翻阅书单攻略，还是在内心展开静态推演、在纸面上评估场景边界，它们的价值都在于作为灵感（inspiration）或者借力的杠杆（leverage）。外部建议与静态推演能够为心智打开可能性的空间，提供设计探针动作的支点；但它们的有效性仅限于此。我们否定的从来不是建言与推演的功能，而是明确剥离其代劳行动的因果力（causal power）。不管是从寻求建议还是静态推演，都断不可能凌驾于主观选择之上，更不可能代劳状态的跃迁。若把因果力寄托于他人的指南或内部的模型算力之中，心智就会再度陷入等候“现成答案”或“更优算法”的拖延陷阱。任何有生命力的系统，都不是依靠寻求建议或静态推演来替代实际体验的，而是在持续的微步尝试中确定真实的坐标。
 
 在这个闭环中，行动并不是深思熟虑后的最终收工，而是刺探现实边界的第一根轻盈探针。你迈出一个微小的尝试，并不意味着这个动作必须保证立即见效；它的价值在于让你脱离了毫无反馈的猜测，获得了清晰的真实信号。当环境的数据回传时，心智就拥有了不可伪造的事实：哪些细节需要微调，哪些预期与实际存在偏差。单次微调可能见效，可能持平，甚至可能暂时失误；但正是这组真实的反馈，构成了下一次迭代优化的梯度依据。只要每一步足够小、节奏足够稳，尝试便不会带来沉重的不可逆损失，而是在持续的自适应收敛中，稳步走向切实的优化。在[心智无法逃离自身](../one-cannot-escape-ones-own-mind/)中已经指出，外部建议只是投射在心智视网膜上的光影；唯有当你亲自踏入日常的实践闭环，让真实的反馈滋养认知，借来的概念才会内化为主权心智自身的行动直觉。
 
 ```mermaid
 graph TD
-    subgraph S_Input ["静态推演的定位：灵感与借力杠杆（剥离因果力）"]
+    subgraph S_Input ["建议与推演的定位：灵感与借力杠杆（剥离因果力）"]
         direction TB
-        I_Model["理论推演与场景构想：提供探针辅助参考"]
+        I_Model["寻求外部建议与内部静态推演：提供灵感与杠杆参考"]
     end
 
     subgraph S_Loop ["主权控制论闭环：日积月累的渐进微调"]
@@ -278,15 +278,15 @@ graph TD
     style O_Bone fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
 ```
 
-The antidote to stagnation is dismantling the perfectionist fantasy of the "single decisive stroke," returning to the foundational cybernetic loop: test a modest action, observe genuine feedback, calibrate the internal model, and proceed with the next iteration. Emphasizing embodied testing by no means dismisses the utility of static deduction. Mapping scenarios, evaluating constraints, and examining models in thought or on paper remain formidable capabilities of the observer. As long as static deduction is positioned as inspiration or mechanical leverage, it serves as a potent force multiplier. What is denied here is not the functional efficacy of static deduction, but its claim to causal power. Static deduction cannot supersede subjective choice, nor can conceptual contemplation generate state transitions on its own. When an agent mistakenly attributes causal power to deductive calculation, it falls back into waiting for an idealized proof. No viable system thrives by letting static deduction substitute for lived experience; it discovers coordinates through iterative engagement.
+The antidote to stagnation is dismantling the perfectionist fantasy of the "single decisive stroke," returning to the foundational cybernetic loop: test a modest action, observe genuine feedback, calibrate the internal model, and proceed with the next iteration. Emphasizing embodied testing by no means dismisses the utility of seeking advice or engaging in static deduction. Whether gathering advice from external minds, scouring literature, or conducting static deduction and mapping scenarios internally, their true value resides strictly as inspiration or leverage. External recommendations and deductive models broaden an agent's horizons and supply mechanical fulcrums for designing exploratory probes; their validity ends there. What is denied here is never the functional utility of advice or deduction, but their unwarranted attribution of causal power. Regardless of whether one seeks advice or runs static simulations, neither can supersede subjective choice, nor can conceptual contemplation generate state transitions on its own. When an agent mistakenly attributes causal power to an advisor's formula or internal deductive calculation, it plunges straight back into the stalling loop of waiting for ready-made answers or an idealized proof. No viable system thrives by letting advice-seeking or static deduction substitute for lived experience; it discovers coordinates through iterative engagement.
 
 Within this architecture, an action is not the triumphant conclusion of exhaustive planning, but a light probe sent to sense reality's contours. Executing a small step does not demand immediate perfection; its value lies in freeing the observer from pure guesswork and providing clear, genuine signals. When environmental feedback arrives, the mind gains unforgeable data: which assumptions held, where subtle drift occurred, and how parameters should adjust. A micro-step might improve the state, make no difference, or temporarily drift; yet the feedback itself furnishes the exact gradient vector for the subsequent update. Because each step is small and calibrated day by day, trial carries no crushing downside, allowing continuous iteration to converge reliably toward genuine optimization. As clarified in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), external advice is mere shadow on the subjective retina; only when an agent engages in the everyday loop and lets genuine feedback inform understanding do borrowed concepts become internalized, agile intuition.
 
 ```mermaid
 graph TD
-    subgraph S_Input_EN ["Static Deduction: Inspiration & Leverage (Void of Causal Power)"]
+    subgraph S_Input_EN ["Role of Advice & Deduction: Inspiration & Leverage (Void of Causal Power)"]
         direction TB
-        IE_Model["Theoretical Scenarios: Providing Auxiliary Leverage"]
+        IE_Model["External Advice & Internal Static Deduction: Reference Leverage"]
     end
 
     subgraph S_Loop_EN ["The Sovereign Cybernetic Loop: Gradual Daily Calibration"]
@@ -324,7 +324,7 @@ graph TD
 
 当你把这一事实作为立足基石时，整个认知结构便发生了深层位移。你不再等待外部世界的赦免或指引，现实也不欠你一个现成的导师或一本万能的圣经。他人走过的路是他人在其自身时空中的探索，我们可以欣赏其构想，却无法用它来代替自己的双脚迈步。这也正是为何在圣经乃至古老格言中，始终回荡着同一个判定：天助自助者。从因果控制论的视角审视，一切外援实质上都是错置的自助。外部环境、书本经验或他者建言，从来不可能成为直接施加于心智之上的代劳因果；它们至多只能作为心智自救的灵感与借力的杠杆。一个人必须自主决断并采取行动，才能真正改善自身的生存境遇。
 
-这便构成了“寻求外援”与“借力外部灵感以实现自助”之间的鸿沟。前者将因果力分配给外部源头，是主权意志的主动缴械；而后者则是通过自身的自由抉择启动真实的主权跃迁。缺少了一次自由抉择，任何表面的变化都不过是封闭决定论反馈回路中的相位移动。即便你换了书本、换了工作、换了栖居的城市，底层的动力学吸引子依然恒定不移，系统的轨迹只是在原点周围旋转了一个角度。这种表观上的动态不仅未能带来实质改变，反而以虚假的进展感，主动遮蔽了自主行动的真实缺位。在[凡可言说皆不可言说之物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)中，我们最终领悟到，区分并不是为了迎合外部世界的认可，而是为了让心智自身的下一次行动拥有更坚实的立足点。放下对瞬间奇迹的非分索求，把改变放进日积月累、循序渐进的日常微调中去。当行动足够细密、步幅足够稳健，单次选择本身不但毫无沉重可言，而且每一次微小的调整无论带来改善、持平抑或偏差，都能转化为进一步校准的珍贵梯度，让心智在日积月累的自适应收敛中稳步提升。
+这便构成了“寻求外援”与“借力外部灵感以实现自助”之间的鸿沟。前者将因果力分配给外部源头，是主权意志的主动缴械；而后者则是通过自身的自由抉择启动真实的主权跃迁。缺少了一次自由抉择，任何表面的变化都不过是封闭决定论反馈回路中的相位移动。即便你换了书本、换了工作、换了栖居的城市，底层的动力学吸引子依然恒定不移，系统的轨迹只是在原点周围旋转了一个角度。这种表观上的动态不仅未能带来实质改变，反而以虚假的进展感，主动遮蔽了自主行动的真实缺位。在[凡可言说皆不可言说之物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)中，我们最终领悟到，区分并不是为了迎合外部世界的认可，而是为了让心智自身的下一次行动拥有更坚实的立足点。放下对瞬间奇迹的非分索求，把改变放进日积月累、循序渐进的日常微调中去。当行动足够细密、步幅足够稳健，单次选择本身不但毫无沉重可言，而且每一次微小的调整无论带来改善、持平抑或偏差，都能转化为进一步校准的珍贵梯度，让心智在日积月累的自适应收敛中稳步提升。个人选择是每个个体的因果闭环中唯一的自由变量。
 
 ```mermaid
 graph TD
@@ -364,7 +364,7 @@ Assuming total responsibility is routinely misconstrued as moralistic guilt or e
 
 When this axiom becomes your ground, the distribution of agency pivots. You cease waiting as an aggrieved petitioner for external pardon or an all-inclusive syllabus; reality owes you neither an infallible mentor nor an emergency script. The path another walked represents their personal exploration; one may appreciate their concepts, yet their words cannot move your feet. That is why an ancient adage resonates even across theological scriptures: God only helps those who help themselves. Viewed through causal cybernetics, all external help is misallocated self-help. External conditions, written treatises, or mentors can never serve as direct proxy agents; they function solely as inspiration or mechanical leverage for self-help. An agent must make the decision to take action in order to improve its own condition.
 
-There is a fundamental categorical difference between seeking external help and seeking external inspiration or leverage to help oneself. The former allocates causal power at the external source, forfeiting agency; the latter initiates authentic transformation originating from one's own freedom of choice. Without making a free choice, any perceived change—adopting new jargon, moving to a new city, consulting another expert—is merely a phase-shifting of a deterministic feedback loop. The dynamical attractor remains identical; the trajectory traces the exact same orbit, merely shifted by an arbitrary phase angle. Not only does it fail to provide genuine progress, it actively masks the lack of authentic self-help and explains why stagnation persists. As articulated in [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/), refining distinctions is not an audition for applause, but the building of firmer ground for one's next step. Abandon the craving for instantaneous miracles. Entrust change to the steady rhythm of day-by-day, step-by-step micro-adjustments. When the cadence is gradual, individual choice carries zero crushing burden; whether a micro-step improves, holds neutral, or reveals drift, the resulting feedback immediately directs the next gradient calibration, yielding reliable, enduring optimization.
+There is a fundamental categorical difference between seeking external help and seeking external inspiration or leverage to help oneself. The former allocates causal power at the external source, forfeiting agency; the latter initiates authentic transformation originating from one's own freedom of choice. Without making a free choice, any perceived change—adopting new jargon, moving to a new city, consulting another expert—is merely a phase-shifting of a deterministic feedback loop. The dynamical attractor remains identical; the trajectory traces the exact same orbit, merely shifted by an arbitrary phase angle. Not only does it fail to provide genuine progress, it actively masks the lack of authentic self-help and explains why stagnation persists. As articulated in [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/), refining distinctions is not an audition for applause, but the building of firmer ground for one's next step. Abandon the craving for instantaneous miracles. Entrust change to the steady rhythm of day-by-day, step-by-step micro-adjustments. When the cadence is gradual, individual choice carries zero crushing burden; whether a micro-step improves, holds neutral, or reveals drift, the resulting feedback immediately directs the next gradient calibration, yielding reliable, enduring optimization. Individual choice is the only free variable within each agent's causal loop.
 
 ```mermaid
 graph TD
