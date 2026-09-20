@@ -25,8 +25,8 @@ One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit 
 ```text
 content/posts/<slug>.md          # source (this folder)
 assets/covers/<slug>.jpg         # optional 20:9 / 1280×576 (site + Substack + X Article)
-notebooklm-auto/prompts/<slug>_zh.txt       # companion audio dialogue prompt (明理 & 雨涵)
-notebooklm-auto/prompts/<slug>_video_zh.txt # companion video monologue prompt
+notebooklm-auto/prompts/<slug>_zh.txt       # companion audio dialogue prompt (明理 & 雨涵, concise 2-4 opening turns, <8.5KB)
+notebooklm-auto/prompts/<slug>_video_zh.txt # companion video monologue prompt (full spoken script)
 export/<slug>.md                 # shared paste export: absolute-link markdown (gitignored)
 public/posts/<slug>/index.html   # site build output only (CI / local build.mjs)
 ```
