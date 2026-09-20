@@ -57,6 +57,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 
 | Family | Traits | Covers |
 |--------|--------|--------|
+| **17th-century celestial cartography & copperplate engraving on aged vellum** | Fine copperplate cross-hatching on aged warm sepia vellum, celestial armillary rings and planetary orbital ellipses extending into stellar charts, pierced at the geometric focal point by an observant human iris with luminous gold leaf illumination radiating coordinate lines into the cosmos | `one-cannot-escape-ones-own-mind` |
 | **Architectural cyanotype drafting film & subtracted stenciled silhouette montage on raw canvas** | Deep Prussian blue, blueprint cyan, and indigo washes over textured unbleached raw linen canvas, layered with translucent vellum drafting film and technical axonometric circuit schematics, pierced by a central subtracted stencil cut-out void revealing an incandescent amber-gold and cobalt flame-core of conscious source illumination | `subtracting-consciousness-at-the-source` |
 | **Early 20th-century astrophotographic spectrograph & cloud chamber on glass emulsion** | Archival silver-gelatin emulsion on dark slate-black glass, finely etched with astronomical coordinate grids and micrometer scales, pierced by a singular radiant central agency burst with luminous golden and cobalt ionized particle tracks shattering formal measuring lines | `agency-does-not-arise` |
 | **Cybernetic cockpit, golden neural harness & cosmic mirror reflection** | Deep obsidian, navy, neon amber, and electric cyan palette, intricate cockpit controls channeling mathematical harness threads, geometric neural manifolds through windshield, reflective cosmic mirror capturing the inner source of illumination | `the-inversion-of-the-harness-and-the-driver-seat-asymmetry` |
@@ -432,6 +433,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `xian-shi-de-bian-jie` | Sumi-e ink shan shui and gold horizon ribbon on Xuan paper |
 | `deceleration-is-the-drag-felt-when-accelerating` | Sumi-e ink needle and gold shockwave filaments on Xuan paper |
 | `the-mind-that-statistics-cannot-reveal` | Copperplate Gaussian scatter & incandescent singular vector |
+| `one-cannot-escape-ones-own-mind` | 17th-century celestial cartography & copperplate engraving on aged vellum |
 | `ones-potential-as-threat-or-inspiration` | Sumi-e ink shan shui prism and golden refraction fan on Xuan paper |
 | `the-local-trap-of-technological-change` | Horology still life / cast-iron clockwork and incandescent hourglass dual |
 | `the-invisible-first-move` | Nautical chart & submerged golden trajectory still life |
