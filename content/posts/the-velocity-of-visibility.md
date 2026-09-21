@@ -1,6 +1,10 @@
-# 可见性的速度差：宇宙如何向自身折叠，以及为何我们所见皆为慢速的褶皱 / The Velocity of Visibility: How the Universe Folds Back on Itself, and Why Everything We See Is a Slower Fold
+# 可见性的速度差 / The Velocity of Visibility
 
-*心智是宇宙向自身折叠的最快环节；凡是我们所能看见的实体，皆因其向内折叠与演化的速度远慢于心智的感知刷新率；可见性并非客观物质的实体属性，而是高速观察者审视慢速褶皱时浮现的信息剩余。 / The mind is the fastest link in the universe folding back on itself. Everything we can observe is merely the universe folding back at a slower speed, and that velocity deficit is the sole reason it is visible to us. Visibility is not an intrinsic property of physical matter, but the informational surplus that emerges when a high-frequency observer samples a slow-motion fold.*
+*宇宙如何向自身折叠，以及为何我们所见皆为慢速的褶皱 / How the Universe Folds Back on Itself, and Why Everything We See Is a Slower Fold*
+
+心智是宇宙向自身折叠的最快环节；凡是我们所能看见的实体，皆因其向内折叠与演化的速度远慢于心智的感知刷新率；可见性并非客观物质的实体属性，而是高速观察者审视慢速褶皱时浮现的信息剩余。
+
+The mind is the fastest link in the universe folding back on itself. Everything we can observe is merely the universe folding back at a slower speed, and that velocity deficit is the sole reason it is visible to us. Visibility is not an intrinsic property of physical matter, but the informational surplus that emerges when a high-frequency observer samples a slow-motion fold.
 
 ---
 

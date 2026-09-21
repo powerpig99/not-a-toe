@@ -1,6 +1,10 @@
-# 工具的幻觉与时间的倒置：等同单元、极限归零与行动的真实代价 / The Illusion of the Tool and the Inversion of Time: Identical Units, Infinitesimal Limits, and the Living Cost of the Act
+# 工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time
 
-*符号变换的静态投影、离散因果的跨尺度不变性与主权抉择的因果原点 / Static Symbolic Projections, Discrete Cross-Scale Invariance, and the Sovereign Choice as Causal Origin*
+*等同单元、极限归零与行动的真实代价 / Identical Units, Infinitesimal Limits, and the Living Cost of the Act*
+
+符号变换的静态投影、离散因果的跨尺度不变性与主权抉择的因果原点。
+
+Static Symbolic Projections, Discrete Cross-Scale Invariance, and the Sovereign Choice as Causal Origin.
 
 ---
 

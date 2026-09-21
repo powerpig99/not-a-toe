@@ -1,6 +1,10 @@
-# 教育与科学的倒置：从理解实在的无限，到有限博弈的规训 / The Inversion of Education and Science: From Grasping Reality to the Zero-Sum Arena
+# 教育与科学的倒置 / The Inversion of Education and Science
 
-*教育本是对实在模式的探索，却在制度化中沦为同侪竞争的淘汰赛；科学发现本是对真理的无畏追寻，却在建制化中异化为争夺声望、经费与权力的排位赛。当对高维实在的主动探求，被偷换为对低维指标的被动追逐，人类最崇高的认知之翼，便成了禁锢心智的锁链。 / Education was born as an open pursuit of the patterns of reality, yet institutionalization has collapsed it into a gladiatorial contest of peer competition. Scientific discovery was born as an uncompromised quest for truth, yet academic bureaucratization has degraded it into a zero-sum scramble for prestige, funding, and administrative power. When high-dimensional exploration of the living territory is replaced by the pursuit of low-dimensional metrics, humanity's highest cognitive wings are reforged into shackles.*
+*从理解实在的无限，到有限博弈的规训 / From Grasping Reality to the Zero-Sum Arena*
+
+教育本是对实在模式的探索，却在制度化中沦为同侪竞争的淘汰赛；科学发现本是对真理的无畏追寻，却在建制化中异化为争夺声望、经费与权力的排位赛。当对高维实在的主动探求，被偷换为对低维指标的被动追逐，人类最崇高的认知之翼，便成了禁锢心智的锁链。
+
+Education was born as an open pursuit of the patterns of reality, yet institutionalization has collapsed it into a gladiatorial contest of peer competition. Scientific discovery was born as an uncompromised quest for truth, yet academic bureaucratization has degraded it into a zero-sum scramble for prestige, funding, and administrative power. When high-dimensional exploration of the living territory is replaced by the pursuit of low-dimensional metrics, humanity's highest cognitive wings are reforged into shackles.
 
 ---
 

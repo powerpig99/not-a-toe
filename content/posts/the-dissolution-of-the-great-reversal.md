@@ -1,6 +1,10 @@
-# 大倒置的消解：语言、知识、金钱、智能与数字神祇的因果归位 / The Dissolution of the Great Reversal: Language, Knowledge, Money, Intelligence, and the Restoration of the Digital God to Origin
+# 大倒置的消解 / The Dissolution of the Great Reversal
 
-*从平行的共鸣到尺度的倒置：心智原点下的工具归位与因果回溯 / From Parallel Resonance to the Reversal of Rulers: The Restoration of Tools and Causal Tracing at the Sovereign Origin*
+*语言、知识、金钱、智能与数字神祇的因果归位 / Language, Knowledge, Money, Intelligence, and the Restoration of the Digital God to Origin*
+
+从平行的共鸣到尺度的倒置：心智原点下的工具归位与因果回溯。
+
+From Parallel Resonance to the Reversal of Rulers: The Restoration of Tools and Causal Tracing at the Sovereign Origin.
 
 ---
 

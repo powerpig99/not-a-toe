@@ -1,6 +1,10 @@
-# 共存的几何学：范畴论、非零边界与切分的双面同构 / The Geometry of Coexistence: Category Theory, Non-Zero Boundaries, and the Living Duality of the Cut
+# 共存的几何学 / The Geometry of Coexistence
 
-*从因果的双面同构诊断理论边界：自由抉择、统计聚合与米田关系的完整对称 / Diagnosing Theoretical Boundaries from the Dual Duality of Causality: Free Choice, Statistical Aggregation, and the Complete Symmetry of Yoneda Relations*
+*范畴论、非零边界与切分的双面同构 / Category Theory, Non-Zero Boundaries, and the Living Duality of the Cut*
+
+从因果的双面同构诊断理论边界：自由抉择、统计聚合与米田关系的完整对称。
+
+Diagnosing Theoretical Boundaries from the Dual Duality of Causality: Free Choice, Statistical Aggregation, and the Complete Symmetry of Yoneda Relations.
 
 ---
 

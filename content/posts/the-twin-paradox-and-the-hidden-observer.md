@@ -1,6 +1,10 @@
-# 双生子佯谬与隐秘观察者：静态宇宙模型如何制造时间膨胀 / The Twin Paradox and the Hidden Observer: How the Frozen Universe Model Manufactures Time Dilation
+# 双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer
 
-*当理论将时间空间化为四维几何中的静态坐标轴，它便悄悄引入了一个站在宇宙之外的上帝之眼；在不可分割的当下之中，重逢的双生子共享着同一个现实，时间膨胀不过是静态投影投射在真实因果之上的数学阴影。 / When theory spatializes time into a static coordinate axis of a four-dimensional geometry, it quietly smuggles in an external God's-eye observer; in the indivisible present, reunited twins share the identical living reality, while time dilation remains a mathematical shadow cast by static projection over living causality.*
+*静态宇宙模型如何制造时间膨胀 / How the Frozen Universe Model Manufactures Time Dilation*
+
+当理论将时间空间化为四维几何中的静态坐标轴，它便悄悄引入了一个站在宇宙之外的上帝之眼；在不可分割的当下之中，重逢的双生子共享着同一个现实，时间膨胀不过是静态投影投射在真实因果之上的数学阴影。
+
+When theory spatializes time into a static coordinate axis of a four-dimensional geometry, it quietly smuggles in an external God's-eye observer; in the indivisible present, reunited twins share the identical living reality, while time dilation remains a mathematical shadow cast by static projection over living causality.
 
 ---
 

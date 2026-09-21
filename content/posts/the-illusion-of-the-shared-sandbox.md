@@ -1,6 +1,10 @@
-# 共享沙盒的幻象：内心世界、压缩与定义的陷阱 / The Illusion of the Shared Sandbox: Interiority, Compression, and the Trap of Definition
+# 共享沙盒的幻象 / The Illusion of the Shared Sandbox
 
-*因果不是画作内部的一个对象，而是一切理论得以落笔的画布；公共语言不是直通他人心智的通道，而是高维分歧在摩擦中达成的低维出清价。 / Causality is not an object discovered inside the landscape of thought, but the canvas upon which thought occurs; public language is not a channel of telepathic alignment, but the low-dimensional clearing price of high-dimensional divergence.*
+*内心世界、压缩与定义的陷阱 / Interiority, Compression, and the Trap of Definition*
+
+因果不是画作内部的一个对象，而是一切理论得以落笔的画布；公共语言不是直通他人心智的通道，而是高维分歧在摩擦中达成的低维出清价。
+
+Causality is not an object discovered inside the landscape of thought, but the canvas upon which thought occurs; public language is not a channel of telepathic alignment, but the low-dimensional clearing price of high-dimensional divergence.
 
 ---
 

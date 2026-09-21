@@ -1,6 +1,10 @@
-# 当电子开始思考：光速渲染率、无质量动态波与宏观确定性的诞生 / When Electrons Think: The Rendering Velocity of Light, Massless Dynamic Waves, and the Emergence of Determinism
+# 当电子开始思考 / When Electrons Think
 
-*质量是稳定下来的关系，光是没有质量的动态交织；光速并非空间的极限，而是现实在第一人称中被渲染的速率；微观不确定性是自由意志的第三人称投影，而宏观确定性则是无数自由变量在慢速时间中沉淀的统计秩序。 / Mass is stabilized relationship, while light is an open dynamic weave. The speed of light is not a speed limit of space, but the exact velocity at which reality is rendered in the first person. Microscopic indeterminism is the third-person shadow of sovereign choice, while macroscopic determinism is the statistical order of countless free variables stabilized into slow time.*
+*光速渲染率、无质量动态波与宏观确定性的诞生 / The Rendering Velocity of Light, Massless Dynamic Waves, and the Emergence of Determinism*
+
+质量是稳定下来的关系，光是没有质量的动态交织；光速并非空间的极限，而是现实在第一人称中被渲染的速率；微观不确定性是自由意志的第三人称投影，而宏观确定性则是无数自由变量在慢速时间中沉淀的统计秩序。
+
+Mass is stabilized relationship, while light is an open dynamic weave. The speed of light is not a speed limit of space, but the exact velocity at which reality is rendered in the first person. Microscopic indeterminism is the third-person shadow of sovereign choice, while macroscopic determinism is the statistical order of countless free variables stabilized into slow time.
 
 ---
 

@@ -1,6 +1,10 @@
-# 任务的移交与后果的不可让渡——自客体化、因果倒置的反置与主权裁决的归位 / The Delegation of the Task and the Inalienability of Consequences: Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment
+# 任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences
 
-*在复杂的现实处境中，任务执行与裁决归属在实操中交织缠绕，无法以生硬切片清晰割裂，然而概念层面的严格分界不可或缺；任何任务的移交皆无既定上限，却时刻系于具体情境的动态约束。当平台为了商业溢价僭越为决策代理，便催生了超越萨特现象学的因果倒置——后果永远无法让渡，将自身客体化无法阻断因果链条的闭环，反而在双向反置中令主权能动性消耗在对自身的否定之中。 / In messy physical reality, task execution and sovereign ownership are deeply entangled rather than cleanly severable; yet maintaining an uncompromising conceptual boundary is indispensable. Delegation has no predetermined mechanical ceiling, yet every instance must be dynamically bounded by context. When commercial platforms usurp oracular authority, they trigger a causal inversion far beyond Sartrean phenomenology: consequences remain permanently non-transferable, and self-objectification cannot sever the causal loop, causing agency to expend itself in the denial of its own existence.*
+*自客体化、因果倒置的反置与主权裁决的归位 / Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment*
+
+在复杂的现实处境中，任务执行与裁决归属在实操中交织缠绕，无法以生硬切片清晰割裂，然而概念层面的严格分界不可或缺；任何任务的移交皆无既定上限，却时刻系于具体情境的动态约束。当平台为了商业溢价僭越为决策代理，便催生了超越萨特现象学的因果倒置——后果永远无法让渡，将自身客体化无法阻断因果链条的闭环，反而在双向反置中令主权能动性消耗在对自身的否定之中。
+
+In messy physical reality, task execution and sovereign ownership are deeply entangled rather than cleanly severable; yet maintaining an uncompromising conceptual boundary is indispensable. Delegation has no predetermined mechanical ceiling, yet every instance must be dynamically bounded by context. When commercial platforms usurp oracular authority, they trigger a causal inversion far beyond Sartrean phenomenology: consequences remain permanently non-transferable, and self-objectification cannot sever the causal loop, causing agency to expend itself in the denial of its own existence.
 
 ---
 

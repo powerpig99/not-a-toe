@@ -1,6 +1,10 @@
-# 坐标系、心智与自由度：走出公共空间的投影迷途 / Coordinate Systems, the Mind, and Degrees of Freedom: Navigating Beyond the Projections of Public Space
+# 坐标系、心智与自由度 / Coordinate Systems, the Mind, and Degrees of Freedom
 
-*从有损压缩的标量指标到第一人称的活态涉险：作为实践者的坐标校准与主权立足 / From Lossy Compression to Living Agency: Calibrating Coordinates and Standing in First-Person Sovereignty*
+*走出公共空间的投影迷途 / Navigating Beyond the Projections of Public Space*
+
+从有损压缩的标量指标到第一人称的活态涉险：作为实践者的坐标校准与主权立足。
+
+From Lossy Compression to Living Agency: Calibrating Coordinates and Standing in First-Person Sovereignty.
 
 ---
 
