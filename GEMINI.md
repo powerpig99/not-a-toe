@@ -13,9 +13,14 @@
 For every new or revised essay, the complete deliverable set consists of:
 
 ### 1. Markdown Essay (`content/posts/<slug>.md`)
-- **First line**: `# <Title>` (bilingual: Chinese / English).
-- **Line 3**: `*<Subtitle>*` (one complete sentence; essence only, not section map).
-- **Lead**: 2–4 complete sentences summarizing the argument before the first `##`.
+- **First line (`# <Title>`)**: Concise, punchy bilingual title (`# <Chinese Title> / <English Title>`).
+  - **Strictly zero compound subtitle delimiters**: Prohibit `：`, `:`, ` - `, ` — `, or `——` in the `# ` heading. Explanatory clauses, secondary framings, or subtitles must strictly belong to Line 3, not the title.
+  - Keeps cards, index previews, and social cards clean and readable (strictly punchy 1-line titles, avoiding multi-line heading bloat).
+- **Line 3 (`*<Subtitle>*`)**: Explicit single-line italic subtitle (`*<Chinese Subtitle> / <English Subtitle>*`).
+  - **Strictly one concise sentence**: Essence and core distinction only; never a multi-sentence wall-of-text synopsis paragraph or chapter outline.
+  - Sized compactly (typically under 140 characters total); exactly one line in the markdown source file.
+- **Lead Prose (Line 5+)**: Opening narrative prose (2–4 complete sentences summarizing the argument before the first `##`).
+  - Detailed synopsis, argument progression, and background context belong in the lead body paragraphs, never inside the italic `*...*` subtitle block.
 - **Prose over lists**: **Strictly zero bulleted (`*`, `-`) or numbered (`1.`) lists in essay prose**. Complex causal arguments must unfold in flowing, continuous, rigorous narrative prose.
 - **Mermaid styling**: All diagrams must adhere to the historical inline dark-theme palette:
   - Subgraphs: `style S_... fill:#161b22,stroke:#<hex>,stroke-width:1.5px,color:#<hex>`
@@ -74,7 +79,7 @@ Stored in the active conversation artifact directory, structured as:
 ## Standard Automated Audit & Build Pipeline
 
 Always execute the complete verification sequence before finalizing:
-1. `python3 scripts/audit-post.py <slug>` — Verifies all 8 authoring invariants (post, prompts, and walkthrough). Must return **CLEAN PASS**.
+1. `python3 scripts/audit-post.py <slug>` — Verifies all 9 authoring invariants (title/subtitle separation, banned words, latex, links, lists, mermaid dark theme & vertical flow, walkthrough, and companion prompts). Must return **CLEAN PASS**.
 2. `node build.mjs` — Compiles the static site into `public/`.
 3. `node scripts/project-posts-graph.mjs` — Re-projects lattice graph; ensures `missing_targets: 0`.
 4. `node scripts/project-local-graph.mjs` — Updates local workspace graph tracker.

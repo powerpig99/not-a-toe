@@ -10,14 +10,15 @@ Philosophy:
   are caught before release.
 
 Checks:
-  1. Prose over lists (flags lists outside mermaid; reminder to write continuous prose unless necessary)
-  2. Historical Mermaid inline dark-theme styling (#161b22, #0d1117, semantic color borders)
-  3. Bilingual diagram parallelism (Chinese/English paired diagrams)
-  4. Relative internal cross-links resolution (all ../slug/ exist; no absolute URLs)
-  5. Banned words & essentialist cliches (0 tolerance for cognitive crutches)
-  6. LaTeX syntax prohibition (0 raw $ or $$; Unicode math only)
-  7. Multi-platform publishing copy in walkthrough (Spotify ZH/EN, WeChat Video, X EN)
-  8. Companion NotebookLM prompts (canonical opening, monologue script, and concise bounds: 2-4 opening turns, < 8.5KB)
+  1. Title and subtitle separation (clean `# Title` without compound delimiters, single-sentence `*Subtitle*` on Line 3, narrative lead on Line 5+)
+  2. Prose over lists (flags lists outside mermaid; reminder to write continuous prose unless necessary)
+  3. Historical Mermaid inline dark-theme styling (#161b22, #0d1117, semantic color borders)
+  4. Bilingual diagram parallelism (Chinese/English paired diagrams)
+  5. Relative internal cross-links resolution (all ../slug/ exist; no absolute URLs)
+  6. Banned words & essentialist cliches (0 tolerance for cognitive crutches)
+  7. LaTeX syntax prohibition (0 raw $ or $$; Unicode math only)
+  8. Multi-platform publishing copy in walkthrough (Spotify ZH/EN, WeChat Video, X EN)
+  9. Companion NotebookLM prompts (canonical opening, monologue script, and concise bounds: 2-4 opening turns, < 8.5KB)
 
 Usage:
   python3 scripts/audit-post.py [slug_or_path]
@@ -85,7 +86,100 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
     print(f"Location:   {file_path}")
     print("=" * 70)
 
-    # 1. Banned words audit
+    # 1. Title and subtitle separation audit
+    title_sub_clean = True
+    if lines:
+        first_line = lines[0].strip()
+        if not first_line.startswith('# '):
+            errors.append(f"Post must start with '# <Title>' on line 1. Found: '{first_line[:50]}'")
+            title_sub_clean = False
+        else:
+            title_text = first_line[2:].strip()
+            # Flag compound subtitle delimiters in the title
+            delim_match = re.search(r'[：:]|\s+[-—–—]{1,2}\s+', title_text)
+            if delim_match:
+                errors.append(
+                    f"Compound subtitle delimiter '{delim_match.group().strip() or delim_match.group()}' found in title: '{title_text}'. "
+                    f"Rule: Main title must be concise and punchy without compound colons or dashes. Move explanatory clauses to Line 3 subtitle."
+                )
+                title_sub_clean = False
+
+            # Check bilingual title symmetry if bilingual prose is present
+            has_zh_title = bool(re.search(r'[\u4e00-\u9fff]', title_text))
+            has_en_title = bool(re.search(r'[a-zA-Z]{3,}', title_text))
+            if has_zh_title and has_en_title and '/' not in title_text:
+                errors.append(f"Bilingual title must separate Chinese and English titles with ' / ': '{title_text}'")
+                title_sub_clean = False
+
+        # Subtitle check (Line 3 or first non-empty line after title)
+        sub_line_idx = -1
+        for idx in range(1, min(len(lines), 10)):
+            if lines[idx].strip():
+                sub_line_idx = idx
+                break
+
+        if sub_line_idx == -1:
+            errors.append("Missing subtitle. Expected single-line italic subtitle on Line 3.")
+            title_sub_clean = False
+        else:
+            sub_line = lines[sub_line_idx].strip()
+            if sub_line_idx != 2:
+                warnings.append(f"Subtitle is on Line {sub_line_idx + 1}; expected Line 3 immediately after an empty Line 2.")
+
+            # Must be explicit single-line italic
+            is_italic = bool(re.match(r'^(\*|_)[^*_]+(\*|_)$', sub_line))
+            if not is_italic:
+                errors.append(
+                    f"Subtitle must be an explicit single-line italic string (`*<Subtitle>*`). Found: '{sub_line[:60]}...'"
+                )
+                title_sub_clean = False
+            else:
+                clean_sub = re.sub(r'^[*_]+|[*_]+$', '', sub_line).strip()
+                # Check for bloated wall-of-text synopsis in subtitle
+                if len(clean_sub) > 160:
+                    errors.append(
+                        f"Subtitle length ({len(clean_sub)} chars) exceeds concise single-sentence standard (<= 160 chars). "
+                        f"Rule: Subtitle is strictly one concise sentence of essence. Move extended synopsis into lead prose."
+                    )
+                    title_sub_clean = False
+
+                # Check for multi-sentence synopsis in subtitle
+                parts = clean_sub.split('/')
+                has_multi_sentence = False
+                for part in parts:
+                    p_text = part.strip()
+                    # If Chinese part has internal period '。'
+                    if re.search(r'。[^$]', p_text):
+                        has_multi_sentence = True
+                    # If English part has internal period followed by space and capital letter (ignoring abbreviations)
+                    clean_en = re.sub(r'\b(?:vs|e\.g|i\.e|etc|dr|mr|ms)\.', '', p_text, flags=re.IGNORECASE)
+                    if re.search(r'\.\s+[A-Z]', clean_en):
+                        has_multi_sentence = True
+                if has_multi_sentence:
+                    errors.append(
+                        f"Subtitle contains multiple sentences: '{clean_sub}'. "
+                        f"Rule: Subtitle must be a single concise sentence; narrative arguments belong in the lead prose."
+                    )
+                    title_sub_clean = False
+
+            # Check lead prose starts after subtitle
+            lead_idx = -1
+            for idx in range(sub_line_idx + 1, min(len(lines), sub_line_idx + 5)):
+                if lines[idx].strip():
+                    lead_idx = idx
+                    break
+            if lead_idx != -1:
+                lead_line = lines[lead_idx].strip()
+                if lead_line.startswith('#'):
+                    errors.append("Missing lead prose: Heading encountered immediately after subtitle. Expected 2–4 sentences of narrative lead.")
+                    title_sub_clean = False
+                elif lead_line.startswith(('```', '-', '*', '>')):
+                    warnings.append(f"Lead starts with non-prose line: '{lead_line[:40]}'. Lead should be narrative prose.")
+
+        if title_sub_clean:
+            passes.append("Title and subtitle separation check (clean `# Title` without delimiters, single-sentence `*Subtitle*` on Line 3)")
+
+    # 2. Banned words audit
     found_banned = {}
     for word in BANNED_WORDS:
         matches = [m.start() for m in re.finditer(re.escape(word), content)]

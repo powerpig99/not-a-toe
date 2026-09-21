@@ -12,9 +12,9 @@ You are writing one essay markdown file for the Not a ToE site.
 Output rules (strict):
 1. Output only markdown content, no explanations.
 2. Write for clarity of the Mind writing — not to inform other Minds. No performance for audience; no meta announcing openness or method as posture. Live the dual as background; do not claim it.
-3. First line must be exactly: `# <Title>` — self-explanatory; a reader who never opens the body still knows the claim. Prefer the operator’s title when one was given.
-4. After the title, write exactly one complete sentence as the subtitle — essence only (core geometry), not a miniature of the argument or section map. Prefer language already in the draft when refining.
-5. After the subtitle, write a lead of 2–4 complete sentences summarizing the post (the main moves). Do not merely rephrase the subtitle; if subtitle and lead share the same ordered points, separate the jobs.
+3. First line must be exactly: `# <Title>` (bilingual: `# <Chinese Title> / <English Title>`) — self-explanatory; a reader who never opens the body still knows the claim. Prefer the operator’s title when one was given. Strictly concise and punchy: NO compound subtitle delimiters (`：`, `:`, ` - `, ` — `, `——`) packing subtitles into the title.
+4. Line 3 must be an explicit single-line italic subtitle (`*<Chinese Subtitle> / <English Subtitle>*`) — strictly one complete sentence capturing essence only (core geometry or irreducible distinction), never a multi-sentence wall-of-text synopsis or outline. Sized compactly (< 140 characters).
+5. Line 5+ is the lead prose: 2–4 complete sentences summarizing the post (the main moves). Extended synopsis, context, and argument progression belong in the lead prose, not inside the italic subtitle. Do not merely rephrase the subtitle; separate the jobs.
 6. Do not use `##` or `###` until after that subtitle + lead.
 7. Avoid non-sentence blocks before first `##`/`###` (no lists, no blockquotes, no horizontal rules, no code fences).
 8. Main body starts at first `##` heading.
@@ -63,11 +63,11 @@ Full title / subtitle / lead jobs, refinement workflow, and anti-repetition chec
 ## Opening Structure
 
 ```text
-# Title
+# Title (bilingual: <ZH> / <EN>)
 
-<one-sentence subtitle — essence only>
+*<one-sentence subtitle — essence only: <ZH> / <EN>>*
 
-<lead: summary of the post, not a rephrase of the subtitle>
+<lead: summary of the post, narrative prose before first ##>
 
 ## First body section
 ...
@@ -75,8 +75,10 @@ Full title / subtitle / lead jobs, refinement workflow, and anti-repetition chec
 
 ## Why This Works
 
-- The build treats the first sentence before the first `##`/`###` as the **subtitle** (rendered under the title on the essay page; used for index excerpt and meta description).
-- The following sentences before the first subsection are the **lead** (kept in the essay body as the opening paragraph).
+- The build identifies the explicit single-line italic `*...*` block on Line 3 as the **subtitle** (rendered under the title on the essay page; used for index card excerpts and meta descriptions).
+- Keeping the `# <Title>` free of compound delimiters (`：`, `:`, ` - `, ` — `, `——`) ensures index cards and social previews render a punchy 1-line headline instead of overflowing into 3-line heading blocks.
+- Keeping the Line 3 subtitle to a single concise sentence ensures index cards display an elegant, readable excerpt rather than a sprawling wall-of-text synopsis.
+- Extended synopsis paragraphs and argument moves belong in the **lead prose** (Line 5+), kept in the essay body as the opening narrative paragraph.
 - Title, subtitle, and lead have three distinct jobs (self-explanatory name / essence / summary). Collapsing them produces repetitive opens.
 - Keeping the opening as pure prose makes previews deterministic on index and X cards.
 
