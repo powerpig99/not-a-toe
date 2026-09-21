@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-21T12:22:33.491Z",
+    "generated_at": "2026-09-21T16:15:37.956Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -15,7 +15,7 @@
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "75ea3ced28ac",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "15737ab87ae6",
-      "content/posts/agency-does-not-arise.md": "3cac6d3e4e4e",
+      "content/posts/agency-does-not-arise.md": "bcfcae395a7d",
       "content/posts/agency-relocated-into-the-formal-model.md": "86d69a48a123",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "fd9d3cf5c73a",
@@ -191,6 +191,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
+      "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "7da232e17c90",
       "content/posts/the-causal-inversion-of-partnership.md": "e91d44269102",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -207,7 +208,7 @@
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
-      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "08a5af5bcad6",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "bab1ec79b464",
       "content/posts/the-extendable-horizon.md": "16c6a9ecd2f7",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "e4617c1af0fb",
       "content/posts/the-fallacy-of-post-success-parenting.md": "cb2cd5c5ac3b",
@@ -346,27 +347,27 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 336,
-      "edges": 3322,
-      "unique_directed": 3053,
+      "posts": 337,
+      "edges": 3344,
+      "unique_directed": 3064,
       "missing_targets": 0,
-      "one_way": 803,
+      "one_way": 810,
       "isolated": 42,
-      "posts_with_outbound": 271
+      "posts_with_outbound": 272
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 86
+      "in_degree": 87
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 68
+      "in_degree": 69
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 64
+      "in_degree": 65
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -716,9 +717,9 @@
       "slug": "agency-does-not-arise",
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现 / Agency Does Not Arise",
-      "hash": "3cac6d3e4e4e",
-      "in_degree": 3,
-      "out_degree": 11,
+      "hash": "bcfcae395a7d",
+      "in_degree": 4,
+      "out_degree": 12,
       "links_out": [
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -727,6 +728,7 @@
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "causality-and-the-irreducible-prior",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "the-cartesian-overstep-and-the-frenzy-of-creation",
         "consciousness-never-appears-as-data-among-data",
         "zi-you-de-ce-bu-zhun",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -1051,7 +1053,7 @@
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
       "hash": "a09e160a9ee7",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -2387,7 +2389,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "f60ac4895419",
-      "in_degree": 86,
+      "in_degree": 87,
       "out_degree": 55,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -2454,7 +2456,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "b60b674b5303",
-      "in_degree": 64,
+      "in_degree": 65,
       "out_degree": 22,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -3213,7 +3215,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "5b3c9a6055a0",
-      "in_degree": 68,
+      "in_degree": 69,
       "out_degree": 43,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -4182,7 +4184,7 @@
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
       "hash": "172a8dcf4ba9",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
@@ -4560,6 +4562,27 @@
       ]
     },
     {
+      "id": "post:the-cartesian-overstep-and-the-frenzy-of-creation",
+      "kind": "post",
+      "slug": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "path": "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md",
+      "title": "笛卡尔的边界越界与造神狂热 / The Cartesian Overstep and the Frenzy of Creation",
+      "hash": "7da232e17c90",
+      "in_degree": 2,
+      "out_degree": 9,
+      "links_out": [
+        "openness-is-consistency",
+        "the-explanatory-trap-of-the-ordinary-perspective",
+        "individual-choices-as-the-only-causal-levers",
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "subtracting-consciousness-at-the-source",
+        "intelligence-belongs-only-to-the-mind",
+        "choice-itself-has-no-inherent-weight",
+        "agency-does-not-arise"
+      ]
+    },
+    {
       "id": "post:the-causal-inversion-of-partnership",
       "kind": "post",
       "slug": "the-causal-inversion-of-partnership",
@@ -4862,12 +4885,13 @@
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
-      "hash": "08a5af5bcad6",
-      "in_degree": 4,
-      "out_degree": 9,
+      "hash": "bab1ec79b464",
+      "in_degree": 5,
+      "out_degree": 10,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-causal-inversion-of-partnership",
+        "the-cartesian-overstep-and-the-frenzy-of-creation",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "individual-choices-as-the-only-causal-levers",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -5468,7 +5492,7 @@
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
       "hash": "2413ca14ec54",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 2,
       "links_out": [
         "the-illusion-of-the-unmediated",
@@ -6758,7 +6782,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "15b2e9b8b58b",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -8117,6 +8141,12 @@
     },
     {
       "from": "agency-does-not-arise",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "笛卡尔的边界越界与造神狂热"
+    },
+    {
+      "from": "agency-does-not-arise",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "意识从不作为数据出现在数据之中"
@@ -8126,6 +8156,12 @@
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
       "label": "自由的测不准"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "The Cartesian Overstep and the Frenzy of Creation"
     },
     {
       "from": "agency-does-not-arise",
@@ -18982,6 +19018,114 @@
       "label": "The flight analogy leaves the Mind untouched"
     },
     {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体选择作为唯一的因果杠杆"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "规约的倒置与因果回路的沉默"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双重性与观察的对象化"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "在源头减去意识"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "Subtracting Consciousness at the Source"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "选择本身没有任何固有重量"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性决非涌现而出"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "Agency Does Not Arise"
+    },
+    {
       "from": "the-causal-inversion-of-partnership",
       "to": "choice-itself-has-no-inherent-weight",
       "rel": "points_to",
@@ -19973,6 +20117,12 @@
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "笛卡尔的边界越界与造神狂热"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
       "label": "确定性是微观不确定性的统计签名"
@@ -19982,6 +20132,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体抉择作为唯一的因果杠杆"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "The Cartesian Overstep and the Frenzy of Creation"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
