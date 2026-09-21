@@ -15,16 +15,19 @@
 ```mermaid
 flowchart TD
     subgraph S_RealityOrigin ["【本体实存：高维因果流形】"]
+        direction TB
         R1["高维因果流形（万物皆为不同观测速度的心智）<br/>人类心智为可知现实中最快的观察者<br/>（合理推论的实存本体；同速心智与量子前因果不可内窥）"]
     end
 
     subgraph S_FirstCollapse ["【第一重维降：现实显现为主权心智】"]
+        direction TB
         C1["具身生理受体与感知测量过滤<br/>（外化行为、光斑声波与宏观读数）<br/>近乎无限维度的粗粒化折叠"]
         M1["第一人称主权感知视界<br/>（存在得以被体验、区分与呈现的唯一起点）"]
         C1 --> M1
     end
 
     subgraph S_TheftInversion ["【尺度推论中的源头抽离】"]
+        direction TB
         T1["抽离第一重维降的感知源头<br/>将视界中的投影结果设定为去主体的外部背景"]
         T2["将第一人称心智视作可忽略的几何微尘<br/>判定以自身为坐标的认知是需要克服的局限"]
         T1 --> T2
@@ -53,16 +56,19 @@ This epistemological architecture directly illuminates why we cannot directly ob
 ```mermaid
 flowchart TD
     subgraph S_RealityOrigin_EN ["[Ontological Ground: Causal Manifold]"]
+        direction TB
         RE1["High-Dimensional Causal Manifold (All things as minds of differing observation speeds)<br/>Human Mind as fastest observer in comprehended reality<br/>(Inferred ground; same-speed minds & pre-collapse quantum unobservable)"]
     end
 
     subgraph S_FirstCollapse_EN ["[First Collapse: Reality Realizes Itself as Mind]"]
+        direction TB
         CE1["Embodied Sensory Receptors & Measurement Filters<br/>(Externalized behavior, photons, acoustics, macroscopic readings)<br/>Near-infinite dimensional compression"]
         ME1["First-Person Sovereign Aperture<br/>(The sole origin where reality is experienced and distinguished)"]
         CE1 --> ME1
     end
 
     subgraph S_TheftInversion_EN ["[Subtraction of Origin in Scale Narratives]"]
+        direction TB
         TE1["Subtracting the First Collapse & Conscious Aperture<br/>Treating projected model as a disembodied background"]
         TE2["Framing Mind as a Negligible Geometric Mote<br/>Judging first-person centering as a cognitive limitation"]
         TE1 --> TE2
@@ -97,18 +103,21 @@ flowchart TD
 ```mermaid
 flowchart TD
     subgraph S_OntologyRecursion ["【本体基底：无限自我递归区分】"]
+        direction TB
         R_REC["现实本体：无限自我递归的区分<br/>（步长趋于零但不可达零：Δ ➔ 0 且 Δ ≠ 0；现实仅为潜无限）"]
         MATH_ERR["数学形式越界：强行令步长归零<br/>（虚构实无限连续统，抹平观测摩擦）"]
         R_REC -.->|"形式抽象越界：跳跃至连续统"| MATH_ERR
     end
 
     subgraph S_ConsciousBandwidth ["【意识区间：递归步长的有限带宽】"]
+        direction TB
         BAND["人类意识感知带宽<br/>（微观量子效应极限 ⟷ 宏观宇宙常数视界）"]
         DAILY["日常生活的离散观测步长<br/>（采样界限无处不在，日用而不知）"]
         BAND --> DAILY
     end
 
     subgraph S_ModelAndConflict ["【形式建模与认知冲突根源】"]
+        direction TB
         F_MODEL["第二重维降：符号、几何与天文尺度建模<br/>（输出空间体积与天体读数）"]
         CONFLICT["误将局域步长读数当成现实本身<br/>【个体与身外、他者冲突的源头】"]
         F_MODEL --> CONFLICT
@@ -142,18 +151,21 @@ In this sense, this framework revisits and deepens the structure of the threefol
 ```mermaid
 flowchart TD
     subgraph S_OntologyRecursion_EN ["[Ontological Ground: Infinite Self-Recursive Distinction]"]
+        direction TB
         RE_REC["Reality: Infinite Self-Recursive Distinction<br/>(Step size approaches zero but never zero: Δ ➔ 0 & Δ ≠ 0; Potential Infinity)"]
         MATH_ERR_EN["Mathematical Overreach: Forcing Step Size to Zero<br/>(Fabricating Actual Infinity & Continuum, Erasing Friction)"]
         RE_REC -.->|"Formal Overreach: Leap to Continuum"| MATH_ERR_EN
     end
 
     subgraph S_ConsciousBandwidth_EN ["[Conscious Bandwidth: Finite Step-Size Interval]"]
+        direction TB
         BANDE["Human Conscious Bandwidth<br/>(Microscopic Quantum Limit ⟷ Macroscopic Cosmological Constant)"]
         DAILY_EN["Ubiquitous Discrete Step Sizes in Daily Life<br/>(Observation limits operate continuously, unnoticed)"]
         BANDE --> DAILY_EN
     end
 
     subgraph S_ModelAndConflict_EN ["[Formal Modeling & Genesis of Conflict]"]
+        direction TB
         FE_MODEL["Second Collapse: Symbolic, Geometric & Spacetime Models<br/>(Outputting spatial metrics & astronomical readings)"]
         CONFLICT_EN["Mistaking Local Step-Size Readout for Reality Itself<br/>[Root of conflict with environment & differing minds]"]
         FE_MODEL --> CONFLICT_EN
@@ -189,18 +201,21 @@ flowchart TD
 ```mermaid
 flowchart TD
     subgraph S_CognitiveConstraint ["【认知底层机制：观察与观察者之二象性】"]
+        direction TB
         D1["观察者只有通过观察体现存在，<br/>却恰恰由此忘掉自身的存在<br/>（硬币两面：认知上无法被同时意识到）"]
         D2["跨主体交流只能传递观察之外化产物<br/>（形式符号、实验读数与数学度规）"]
         D1 --> D2
     end
 
     subgraph S_HistoricalProgress ["【历史的真实演进：模型的进步与鸿沟的扩大】"]
+        direction TB
         P1["形式模型在精度与跨度上的代际进步<br/>（托勒密 ➔ 哥白尼 ➔ 牛顿 ➔ 相对论 ➔ 量子流形）"]
         P2["模型越复杂，与第一人称具身体感的认知鸿沟越大<br/>（庞大自洽的符号大厦促成源头抽离的疏离效应）"]
         P1 --> P2
     end
 
     subgraph S_InvariantError ["【贯穿始终的替代错误：对称的两种视界偏差】"]
+        direction TB
         E1["错误将形式模型替代人类主观观察与行动本身<br/>（在认知结构上古今保持高度一致）"]
         T1["偏差一：朴素地心感知<br/>（将局部感官所及投射为宇宙实体中枢）"]
         T2["偏差二：去主体宇宙视角<br/>（借调深空模型倒错裁决第一人称关切）"]
@@ -209,6 +224,7 @@ flowchart TD
     end
 
     subgraph S_SovereignReturn ["【认知原点的厘清：无可逃逸的主权心智】"]
+        direction TB
         SR1["心智即一切理解与因果的唯一起点<br/>理解模型作为认知脚手架的定位，立足第一人称承担因果"]
     end
 
@@ -244,18 +260,21 @@ The second is the modern de-subjectified narrative that presumes a cosmic perspe
 ```mermaid
 flowchart TD
     subgraph S_CognitiveConstraint_EN ["[Cognitive Constraint: Duality of Observer and Observing]"]
+        direction TB
         DE1["Observer Substantiates Existence Only by Observing,<br/>Yet Precisely by Doing So Forgets Its Own Existence<br/>(Cannot be held simultaneously in direct awareness)"]
         DE2["Cross-Subject Communication Exclusively Conveys Observation Outputs<br/>(Formal symbols, empirical data, geometric metrics)"]
         DE1 --> DE2
     end
 
     subgraph S_HistoricalProgress_EN ["[Historical Progression: Model Advances & Widening Chasm]"]
+        direction TB
         PE1["Generational Progress in Model Precision & Predictive Scope<br/>(Ptolemy ➔ Copernicus ➔ Newton ➔ Einstein ➔ Quantum)"]
         PE2["Escalating Complexity Widens the Chasm with Embodied Perception<br/>(Elaborate formal architectures obscure the observing origin)"]
         PE1 --> PE2
     end
 
     subgraph S_InvariantError_EN ["[Historically Invariant Error: Two Symmetrical Displacements]"]
+        direction TB
         EE1["Mistakenly Substituting Formal Model for Subjective Observation & Agency<br/>(Structurally identical error persisting throughout history)"]
         TE1["Displacement One: Naive Geocentrism<br/>(Projecting local sensory ground as cosmic center)"]
         TE2["Displacement Two: De-Subjectified Cosmic View<br/>(Using deep-space scale to invalidate lived human concerns)"]
@@ -264,6 +283,7 @@ flowchart TD
     end
 
     subgraph S_SovereignReturn_EN ["[Restoring the Ground: The Inescapable Origin]"]
+        direction TB
         SRE1["Mind as Sole Origin of Understanding & Action<br/>Recognizing models as scaffolds; bearing direct consequences"]
     end
 
@@ -288,13 +308,13 @@ flowchart TD
 
 ## 无法逃逸的心智视界与因果行动的唯一起点 / The Inescapable Horizon: Mind as the Sole Anchor of Causal Action
 
-在辨明两重维度坍缩与历史更迭的认知结构后，认知与存在的连续关系便得以呈现：**现实在第一重坍缩中显现为主权心智，心智在第二重坍缩中递归迭代对自身与世界的形式模型**。形式模型是心智为了在环境中辨识模式与展开行动而构建的脚手架；它源自心智，服务于心智，并在与现实环境的持续摩擦中接受检验与调整。
+在辨明两重维度坍缩与历史更迭的认知结构后，认知与存在的连续关系便得以呈现：**现实在第一重坍缩中显现为主权心智，心智在第二重坍缩中递归迭代对自身与世界的形式模型**。形式模型是心智为了在环境中辨识模式与展开行动而构建的脚手架；它源自心智，服务于心智，并在与现实环境的持续摩擦中接受检验与调整。这正是[凡可言说皆不可言说之产物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)所确立的界限：一切形式符号与离散读数皆属于第二重坍缩的下游投射，断不可反客为主地僭越其发端的先验心智。
 
-不仅认知的展开依赖于心智视界，行动的因果矢量同样只能从具体的具身主体出发。一切行动之所以必然以人为中心展开，源于**行动的决断与后果承担具有不可转让的局域性**。正如我们在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中所分析的，信息计算与指令执行可以交由外部工具完成，形式模型可以提供预测参考，但承受生理摩擦、感知代价以及做出价值权衡的责任，始终定位于第一人称的心智之中。任何个体都无法脱离当下的具身环境去替代遥远星系做出抉择。行动需要明确的坐标原点，而这一原点正是当下处于体验与行动中的生命机体。试图以宇宙的宏大尺度来淡化具体行动的重要性，混淆了形式模型的抽象跨度与具身行动的现实权重。当一个人在日常生活中做出抉择、承担承诺或面对离别，因果压力的真实性并不会因天文数字的庞大而有所减损。
+不仅认知的展开依赖于心智视界，行动的因果矢量同样只能从具体的具身主体出发。一切行动之所以必然以人为中心展开，源于**行动的决断与后果承担具有不可转让的局域性**。正如我们在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中所分析的，信息计算与指令执行可以交由外部工具完成，形式模型可以提供预测参考，但承受生理摩擦、感知代价以及做出价值权衡的责任，始终定位于第一人称的心智之中。任何个体都无法脱离当下的具身环境去替代遥远星系做出抉择。行动需要明确的坐标原点，而这一原点正是当下处于体验与行动中的生命机体。试图以宇宙的宏大尺度来淡化具体行动的重要性，混淆了形式模型的抽象跨度与具身行动的现实权重。当一个人在日常生活中做出抉择、承担承诺或面对离别，因果压力的真实性并不会因天文数字的庞大而有所减损；如[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)所辨明的，每一次状态跃迁本身并不附带内在阻力，迟疑与停滞仅源于心智误将静态模型当作替代现实行动的避险屏障。
 
 这一倒错更揭示出深空尺度叙事中一种深刻的认识论错觉：**当心智没有意识到它的认知范围越大、自身的范围便越大的时候，它反而会错误地以为自己变得渺小了**。当人类心智递归构建出百亿光年的深空星系图景时，这本身标志着心智认知疆域的空前拓展——是心智的容量在容纳宇宙模型，而非心智在物理虚空中被动缩减。然而，许多人由于未能**同步更新心智自身的自我形象**，依然将对“自我”的理解死板地锚定在局部的肉身几何体积之上，把数十公斤、一米多高的碳基机体同跨越百亿光年的形式读数进行直接的物理比对。在这种刻舟求剑的对照下，心智便误以为自己沦为了可忽略的宇宙尘埃。这并非心智真的变渺小了，而是心智在拓展认知疆域的同时，未曾同步更新其自我形象，错把用于测量尺度的肉身工具等同于生成测量的认知主体。
 
-这种错觉的深层机制，正是**心智同时把自身与其他心智一起物化（objectification）的结果：错误地把对自身与他人心智的外在观察，当成了自身与他人心智的全部**。面对他者心智，由于同速视界无法直接内窥，人们所能接触的永远只是第一重维度坍缩后的外化言行与行为读数，于是极易将对方物化为可观测的生物客体或形式模型中的因果变量；而在审视自身时，心智同样将自身物化，将不可内窥的主权感知原点缩减为坐标系内占据有限体积的生理机体。当心智把自身与他者皆降格为形式空间中的物化对象时，便遗忘了那个正在进行测绘、建模与赋予意义的源头心智，永远不可能被其下游的任何可观测现象所穷尽。将对心智的外在观察等同于心智的全部，使心智在自身编织的物化图景中迷失了主权位置，进而在一片无机几何读数面前陷入了自轻与虚无。
+这种错觉的深层机制，正是**心智同时把自身与其他心智一起物化（objectification）的结果：错误地把对自身与他人心智的外在观察，当成了自身与他人心智的全部**。面对他者心智，由于同速视界无法直接内窥，人们所能接触的永远只是第一重维度坍缩后的外化言行与行为读数，于是极易将对方物化为可观测的生物客体或形式模型中的因果变量；而在审视自身时，心智同样将自身物化，将不可内窥的主权感知原点缩减为坐标系内占据有限体积的生理机体。当心智把自身与他者皆降格为形式空间中的物化对象时，便遗忘了那个正在进行测绘、建模与赋予意义的源头心智，永远不可能被其下游的任何可观测现象所穷尽。将对心智的外在观察等同于心智的全部，使心智在自身编织的物化图景中迷失了主权位置，进而在一片无机几何读数面前陷入了自轻与虚无。当这种双重物化被平移至人际与亲密协作中时，便催生了[契约的因果倒置](../the-causal-inversion-of-partnership/)：将不可内窥的他者心智降格为参数筛选清单，把共同磨合的动态演化倒错为前置资产的静态兑换。
 
 而认识论的事实是，**无论是百亿光年的深空图景、外部星系的运动规律，还是对他人外化言行的记录、对自己肉身体积的度量，其在认识论上都只是“正在观察的心智”的一部分内容**。被观察的对象、形式模型的读数，乃至“自身渺小”的无力感本身，无一不是在正在展开的第一人称认知视界中被显化与整合的局部内容。整体断不可能被其内部呈现的某一局部内容所矮化；作为认知容器与发端原点的主权心智，断不可能被自身内部所包含的一组几何读数所缩减。当心智错把自身的局部内容当作独立于自身的实体，并在内容内部拿一个物化符号（肉身）去对比另一个物化尺度（深空）时，它实际上是在自己的意识舞台上，被自己推演出的布景反客为主地剥夺了立足之地。
 
@@ -311,6 +331,7 @@ flowchart TD
     end
 
     subgraph S_ScaleDilution ["【尺度推论之认知错觉：双重物化与反客为主】"]
+        direction TB
         NE1["认知范围极大拓展<br/>（构建百亿光年深空模型）"] --> NE2["自我与他者心智的双重物化（Objectification）<br/>（错把对心智的外在观察当成心智全部）"]
         NE2 --> NE3["反客为主：拿局部内容（肉身）对比深空<br/>（遗忘肉身与深空皆为心智内容，误以为心智变渺小）"]
     end
@@ -328,13 +349,13 @@ flowchart TD
     style NE3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Once the two-fold dimensional collapse and historical succession are clarified, the continuous relationship between knowing and reality emerges: **reality realizes itself as the sovereign Mind in the first collapse, and the Mind recursively refines formal models of itself and its reality in the second collapse**. Formal models are scaffolds constructed by the mind to distinguish patterns and guide action; they originate from the mind, serve the mind, and remain subject to revision through ongoing friction with the environment.
+Once the two-fold dimensional collapse and historical succession are clarified, the continuous relationship between knowing and reality emerges: **reality realizes itself as the sovereign Mind in the first collapse, and the Mind recursively refines formal models of itself and its reality in the second collapse**. Formal models are scaffolds constructed by the mind to distinguish patterns and guide action; they originate from the mind, serve the mind, and remain subject to revision through ongoing friction with the environment. This traces the boundary established in [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/): all formal symbols and discrete tokens are downstream projections of the second collapse, never entitled to displace the unspeakable prior Mind from which they arise.
 
-Furthermore, just as knowing depends on the mind's horizon, the causal vector of action originates exclusively from an embodied agent. Action is centered around the agent because **decision-making and the bearing of consequences possess non-transferable local anchorage**. As analyzed in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), computation and instructions can be delegated to external instruments, and formal models provide predictive guidance, but bearing somatic friction, absorbing metabolic costs, and weighing values remain situated in first-person consciousness. No individual can step outside their local environment to act on behalf of distant galaxies. Action requires a clear coordinate origin, and that origin is without exception the living organism currently experiencing and interacting with its surroundings. Attempting to use the scale of the cosmos to dilute the reality of concrete action conflates the abstract reach of models with the situated weight of agency. When an individual makes a choice, makes a commitment, or faces loss, the weight of consequence is not mitigated by the magnitude of astronomical quantities.
+Furthermore, just as knowing depends on the mind's horizon, the causal vector of action originates exclusively from an embodied agent. Action is centered around the agent because **decision-making and the bearing of consequences possess non-transferable local anchorage**. As analyzed in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), computation and instructions can be delegated to external instruments, and formal models provide predictive guidance, but bearing somatic friction, absorbing metabolic costs, and weighing values remain situated in first-person consciousness. No individual can step outside their local environment to act on behalf of distant galaxies. Action requires a clear coordinate origin, and that origin is without exception the living organism currently experiencing and interacting with its surroundings. Attempting to use the scale of the cosmos to dilute the reality of concrete action conflates the abstract reach of models with the situated weight of agency. When an individual makes a choice, makes a commitment, or faces loss, the weight of consequence is not mitigated by the magnitude of astronomical quantities; as clarified in [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/), the discrete state transition carries zero inherent drag, and perceived inertia arises solely when the mind mistakes static models for an insurance shield against lived action.
 
 This inversion exposes a profound epistemological illusion at the heart of cosmic-scale narratives: **when the mind fails to realize that the greater the scope of its cognition, the greater the scope of itself becomes, it mistakenly believes instead that it has become minute**. When the human mind recursively models an expanse of billions of light-years, that very model represents an unprecedented expansion of the mind's own cognitive territory. It is the capacity of the mind that encompasses the cosmic model, not the mind that has physically shriveled across the void. However, because individuals fail to **synchronously update the mind's self-image**, they continue to anchor the concept of 'self' rigidly to the local geometric volume of the biological body—placing a seventy-kilogram, two-meter mammalian organism in naive physical comparison against hundreds of billions of light-years. Through this mismatched comparison, the mind misinterprets the geometric modesty of its biological vehicle as the insignificance of consciousness itself. It is not that the mind has become minute; rather, it is because the mind has failed to synchronously update its self-image, mistakenly equating the measuring instrument with the cognitive agent generating the measurement.
 
-At a deeper mechanical level, this illusion is the direct consequence of **the mind simultaneously objectifying both itself and other minds (objectification): mistakenly equating the external observation of its own and other minds with the totality of those minds**. When confronting another mind, because observers operating at identical speeds cannot peer directly into each other's interiority, one encounters only the externalized behaviors left in the wake of the first dimensional collapse, readily objectifying the other into an observable biological entity or a deterministic variable in a formal model. In examining itself, the mind commits the identical fallacy, objectifying itself by reducing the unobservable sovereign perceptual origin to a somatic organism occupying a finite volume within a spatial grid. When the mind reduces both itself and others to objectified phenomena within formal space, it forgets that the sovereign observing agency engaged in surveying, modeling, and bestowing meaning can never be exhausted by any of its downstream observable manifestations. Mistaking the external observation of mind for the totality of mind causes consciousness to forfeit its sovereign footing within its own objectified map, culminating in an unfounded sense of diminishment before silent inorganic coordinates.
+At a deeper mechanical level, this illusion is the direct consequence of **the mind simultaneously objectifying both itself and other minds (objectification): mistakenly equating the external observation of its own and other minds with the totality of those minds**. When confronting another mind, because observers operating at identical speeds cannot peer directly into each other's interiority, one encounters only the externalized behaviors left in the wake of the first dimensional collapse, readily objectifying the other into an observable biological entity or a deterministic variable in a formal model. In examining itself, the mind commits the identical fallacy, objectifying itself by reducing the unobservable sovereign perceptual origin to a somatic organism occupying a finite volume within a spatial grid. When the mind reduces both itself and others to objectified phenomena within formal space, it forgets that the sovereign observing agency engaged in surveying, modeling, and bestowing meaning can never be exhausted by any of its downstream observable manifestations. Mistaking the external observation of mind for the totality of mind causes consciousness to forfeit its sovereign footing within its own objectified map, culminating in an unfounded sense of diminishment before silent inorganic coordinates. When this dual objectification is transferred into interpersonal collaboration, it engenders [The Causal Inversion of Partnership](../the-causal-inversion-of-partnership/): reducing an unobservable other mind to a parameter checklist and inverting the dynamic co-evolution of shared invariants into a static transactional exchange.
 
 In epistemological fact, **whether it is the grand model of billions of light-years, the formal laws governing distant galaxies, the recorded behaviors of others, or the physical metrics of one's own biological body—all of these are merely partial contents of the actively observing mind**. The observed objects, the downstream readouts of formal models, and even the subjective sensation of diminishment itself are without exception local contents manifested and integrated within the living first-person conscious field. The whole can never be diminished by any partial content arising within it; the sovereign mind, as the cognitive container and active aperture, cannot be dwarfed by a set of geometric parameters generated within its own recursive domain. When the mind mistakes its own partial contents for independent realities standing above it, and naively pits one objectified symbol (the biological body) against another objectified metric (cosmic volume) inside that very content, it is effectively staged within its own theater, allowing its own drafted scenery to dispossess the living author of its sovereign ground.
 
@@ -351,6 +372,7 @@ flowchart TD
     end
 
     subgraph S_ScaleDilution_EN ["[Cognitive Illusion: Dual Objectification & Lagging Self-Image]"]
+        direction TB
         NEE1["Immense Expansion of Cognitive Reach<br/>(Modeling billions of light-years)"] --> NEE2["Dual Objectification of Self and Other Minds<br/>(Equating external observation with totality of mind)"]
         NEE2 --> NEE3["Reifying Partial Contents Above Mind<br/>(Body & deep space are mind's contents; false diminishment)"]
     end

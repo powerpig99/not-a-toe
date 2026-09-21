@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-20T20:09:11.187Z",
+    "generated_at": "2026-09-21T06:40:58.376Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -21,7 +21,7 @@
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "fd9d3cf5c73a",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
-      "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "0b5a032e584c",
+      "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "ce96d1c9e495",
       "content/posts/amplification-paradox.md": "c479585570bb",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "d79e6a76ba8e",
@@ -30,7 +30,7 @@
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "e3ffc8e7b02f",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "74dafb24835c",
       "content/posts/cheng-gong-xue.md": "f451243afbd5",
-      "content/posts/choice-itself-has-no-inherent-weight.md": "843276af8072",
+      "content/posts/choice-itself-has-no-inherent-weight.md": "f7c8dcd77c08",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -130,7 +130,7 @@
       "content/posts/objects-are-stabilized-relationships.md": "93d21da0b645",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b354e525a5d3",
       "content/posts/on-education.md": "d62f17d7f550",
-      "content/posts/one-cannot-escape-ones-own-mind.md": "bd2d1386f9de",
+      "content/posts/one-cannot-escape-ones-own-mind.md": "ad868e873d2e",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "158cff173f93",
       "content/posts/only-if-it-is-not-kept-empty.md": "3d9516da5576",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
@@ -191,6 +191,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "f75bf1e4a4a6",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
+      "content/posts/the-causal-inversion-of-partnership.md": "35393dddf46a",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
@@ -200,10 +201,10 @@
       "content/posts/the-continuum-of-the-fold.md": "063fd4436fe1",
       "content/posts/the-coordinators-category-error.md": "146a9a84aaf3",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "5f6deb0f9d72",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "3bcc9608efbd",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "680cb9af2f4f",
-      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "3c671df7b223",
+      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "9a9e370a933c",
       "content/posts/the-dissolution-of-the-great-reversal.md": "51cb538a3a0b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-extendable-horizon.md": "16c6a9ecd2f7",
@@ -232,7 +233,7 @@
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "8195e0951a4b",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "76d8afca59d0",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "08ea521b7d2e",
-      "content/posts/the-illusion-of-the-unmediated.md": "8d7638e697d6",
+      "content/posts/the-illusion-of-the-unmediated.md": "e0fda3b4c330",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "20cc20e40f0b",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
@@ -344,13 +345,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 334,
-      "edges": 3249,
-      "unique_directed": 3017,
+      "posts": 335,
+      "edges": 3285,
+      "unique_directed": 3035,
       "missing_targets": 0,
-      "one_way": 803,
+      "one_way": 793,
       "isolated": 43,
-      "posts_with_outbound": 268
+      "posts_with_outbound": 269
     }
   },
   "hubs_in": [
@@ -825,13 +826,14 @@
       "slug": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "path": "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md",
       "title": "凡可言说皆不可言说之产物：模拟假说的同构谬误与形式系统的认知傲慢 / All That Can Be Spoken Is the Product of the Unspeakable: The Isomorphic Fallacy of the Simulation Hypothesis and the Cognitive Hubris of Formal Systems",
-      "hash": "0b5a032e584c",
-      "in_degree": 1,
-      "out_degree": 3,
+      "hash": "ce96d1c9e495",
+      "in_degree": 2,
+      "out_degree": 4,
       "links_out": [
         "one-cannot-escape-ones-own-mind",
         "agency-does-not-arise",
-        "subtracting-consciousness-at-the-source"
+        "subtracting-consciousness-at-the-source",
+        "choice-itself-has-no-inherent-weight"
       ]
     },
     {
@@ -1048,13 +1050,14 @@
       "slug": "choice-itself-has-no-inherent-weight",
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重：捷径幻觉、渐进迭代与主权试错的行动闭环 / Choice Itself Has No Inherent Weight: The Shortcut Illusion, Gradual Iteration, and the Cybernetic Loop of Agency",
-      "hash": "843276af8072",
-      "in_degree": 0,
-      "out_degree": 5,
+      "hash": "f7c8dcd77c08",
+      "in_degree": 6,
+      "out_degree": 6,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-illusion-of-the-unmediated",
+        "the-causal-inversion-of-partnership",
         "one-cannot-escape-ones-own-mind",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable"
       ]
@@ -3103,15 +3106,18 @@
       "slug": "one-cannot-escape-ones-own-mind",
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界、两重维降与形式模型的反客为主 / One Cannot Escape One's Own Mind: Two-Fold Dimensional Collapse and the Reification of Formal Models",
-      "hash": "bd2d1386f9de",
-      "in_degree": 2,
-      "out_degree": 6,
+      "hash": "ad868e873d2e",
+      "in_degree": 4,
+      "out_degree": 9,
       "links_out": [
         "subtracting-consciousness-at-the-source",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-shadow-and-the-infinite",
+        "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "choice-itself-has-no-inherent-weight",
+        "the-causal-inversion-of-partnership",
         "agency-does-not-arise"
       ]
     },
@@ -4552,6 +4558,22 @@
       ]
     },
     {
+      "id": "post:the-causal-inversion-of-partnership",
+      "kind": "post",
+      "slug": "the-causal-inversion-of-partnership",
+      "path": "content/posts/the-causal-inversion-of-partnership.md",
+      "title": "契约的因果倒置 / The Causal Inversion of Partnership",
+      "hash": "35393dddf46a",
+      "in_degree": 4,
+      "out_degree": 4,
+      "links_out": [
+        "choice-itself-has-no-inherent-weight",
+        "one-cannot-escape-ones-own-mind",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency"
+      ]
+    },
+    {
       "id": "post:the-causal-inversion-of-philosophical-agency",
       "kind": "post",
       "slug": "the-causal-inversion-of-philosophical-agency",
@@ -4714,9 +4736,9 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡——自客体化、因果倒置的反置与主权裁决的归位 / The Delegation of the Task and the Inalienability of Consequences: Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment",
-      "hash": "5f6deb0f9d72",
-      "in_degree": 4,
-      "out_degree": 14,
+      "hash": "3bcc9608efbd",
+      "in_degree": 7,
+      "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
@@ -4727,6 +4749,9 @@
         "the-illusion-of-the-unmediated",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-model-never-becomes-a-second-edge",
+        "one-cannot-escape-ones-own-mind",
+        "choice-itself-has-no-inherent-weight",
+        "the-causal-inversion-of-partnership",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "individual-choices-as-the-only-causal-levers",
@@ -4769,14 +4794,18 @@
       "slug": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释：能动性错置如何衍生表观风险与责任转嫁的次生后果 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop: How Misallocated Agency Derives Apparent Risk and Compounded Secondary Consequences",
-      "hash": "3c671df7b223",
-      "in_degree": 4,
-      "out_degree": 11,
+      "hash": "9a9e370a933c",
+      "in_degree": 5,
+      "out_degree": 15,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-risk-you-delegate-is-the-risk-you-create",
+        "the-illusion-of-the-unmediated",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
+        "choice-itself-has-no-inherent-weight",
+        "the-causal-inversion-of-partnership",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -5321,13 +5350,15 @@
       "slug": "the-illusion-of-the-unmediated",
       "path": "content/posts/the-illusion-of-the-unmediated.md",
       "title": "“非中介化”的幻象：主义的倒置、责任的外包与恩赐自由的解构 / The Illusion of the Unmediated: On the Inversion of All \"-isms\" and the Anatomy of Bestowed Freedom",
-      "hash": "8d7638e697d6",
-      "in_degree": 2,
-      "out_degree": 3,
+      "hash": "e0fda3b4c330",
+      "in_degree": 3,
+      "out_degree": 5,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality"
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "choice-itself-has-no-inherent-weight",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
       ]
     },
     {
@@ -8313,6 +8344,12 @@
     },
     {
       "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "抉择本身并不沉重"
+    },
+    {
+      "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "to": "agency-does-not-arise",
       "rel": "points_to",
       "label": "Agency Does Not Arise: Why Autonomy Is Not a Threshold Property of Compute"
@@ -8322,6 +8359,12 @@
       "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
       "label": "Subtracting Consciousness at the Source: The Illusion of Artificial Agency"
+    },
+    {
+      "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
     },
     {
       "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
@@ -9069,9 +9112,21 @@
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "契约的因果倒置"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "心智无法逃离自身"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "The Causal Inversion of Partnership"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
@@ -14571,9 +14626,27 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "凡可言说皆不可言说之产物"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "抉择本身并不沉重"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "契约的因果倒置"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -14583,9 +14656,27 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "All That Can Be Spoken Is the Product of the Unspeakable"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "The Causal Inversion of Partnership"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -18842,6 +18933,54 @@
       "label": "The flight analogy leaves the Mind untouched"
     },
     {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "抉择本身并不沉重"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务可委托，后果不可让渡"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The Dilution of the Causal Loop and the Misallocation of Agency"
+    },
+    {
       "from": "the-causal-inversion-of-philosophical-agency",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -19287,6 +19426,24 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "心智无法逃离自身"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "抉择本身并不沉重"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "契约的因果倒置"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
       "label": "规程的倒置与因果回路的消声"
@@ -19308,6 +19465,24 @@
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "The Causal Inversion of Partnership"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -19431,9 +19606,21 @@
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "the-risk-you-delegate-is-the-risk-you-create",
       "rel": "points_to",
       "label": "你委托的风险就是你创造的风险"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-illusion-of-the-unmediated",
+      "rel": "points_to",
+      "label": "非中介化的幻象"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -19443,15 +19630,51 @@
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "抉择本身并不沉重"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "契约的因果倒置"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "the-risk-you-delegate-is-the-risk-you-create",
       "rel": "points_to",
       "label": "The Risk You Delegate Is the Risk You Create"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-illusion-of-the-unmediated",
+      "rel": "points_to",
+      "label": "The Illusion of the Unmediated"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
       "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "The Causal Inversion of Partnership"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -20889,6 +21112,18 @@
     },
     {
       "from": "the-illusion-of-the-unmediated",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "抉择本身并不沉重"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "The Sleight of Hand in \"Physics Is the Law\""
@@ -20898,6 +21133,18 @@
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "the-illusion-of-the-unmediated",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
       "from": "the-imagining-of-ai-risk",
