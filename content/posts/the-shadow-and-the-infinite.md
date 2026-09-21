@@ -1,6 +1,10 @@
-# 阴影与无限：低维投影、确定性假象与人类冲突的根源 / The Shadow and the Infinite: Low-Dimensional Projections, the Deterministic Illusion, and the Genesis of Conflict
+# 阴影与无限 / The Shadow and the Infinite
 
-*在物理与生物现实的无限高维空间中，存在着足以容纳无数个体互不碰撞、丰沛共生的广袤天地。规则与边界原本只是规避冲突的避碰指引，然而当我们误将护栏当成竞技场、执迷于低维投影的单一标尺时，多维的生存空间便被异化为逼仄惨烈的低维绞杀战场。 / In the infinite-dimensional reality of the physical and biological cosmos, there is boundless room for infinite individuals to coexist without ever colliding. Rules and boundaries were meant only as guidance to avoid conflict. Yet the moment we mistake the guardrail for the game and collapse living richness onto low-dimensional projections, we turn a multi-dimensional living space into a tragically low-dimensional war zone.*
+*低维投影、确定性假象与人类冲突的根源 / Low-Dimensional Projections, the Deterministic Illusion, and the Genesis of Conflict*
+
+在物理与生物现实的无限高维空间中，存在着足以容纳无数个体互不碰撞、丰沛共生的广袤天地。规则与边界原本只是规避冲突的避碰指引，然而当我们误将护栏当成竞技场、执迷于低维投影的单一标尺时，多维的生存空间便被异化为逼仄惨烈的低维绞杀战场。
+
+In the infinite-dimensional reality of the physical and biological cosmos, there is boundless room for infinite individuals to coexist without ever colliding. Rules and boundaries were meant only as guidance to avoid conflict. Yet the moment we mistake the guardrail for the game and collapse living richness onto low-dimensional projections, we turn a multi-dimensional living space into a tragically low-dimensional war zone.
 
 ---
 

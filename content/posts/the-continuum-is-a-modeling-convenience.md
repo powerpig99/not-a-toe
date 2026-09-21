@@ -1,6 +1,10 @@
-# 连续性作为建模的权宜之计：从 dx、不完备性到折叠的节律 / The Continuum is a Modeling Convenience: dx, Incompleteness, and the Tempos of the Fold
+# 连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience
 
-*微积分中的 dx 从未真正为零；连续性不过是将不可逆因果步长宣布为“小到可以忽略”所制造的表象。 / The increment dx in calculus is never actually zero; continuity is merely the appearance generated when a discrete, irreversible causal step is declared small enough to ignore.*
+*从 dx、不完备性到折叠的节律 / dx, Incompleteness, and the Tempos of the Fold*
+
+微积分中的 dx 从未真正为零；连续性不过是将不可逆因果步长宣布为“小到可以忽略”所制造的表象。
+
+The increment dx in calculus is never actually zero; continuity is merely the appearance generated when a discrete, irreversible causal step is declared small enough to ignore.
 
 ---
 

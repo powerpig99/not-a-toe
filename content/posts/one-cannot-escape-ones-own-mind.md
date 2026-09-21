@@ -1,8 +1,10 @@
-# 无法逃逸的心智视界、两重维降与形式模型的反客为主 / One Cannot Escape One's Own Mind: Two-Fold Dimensional Collapse and the Reification of Formal Models
+# 无法逃逸的心智视界 / One Cannot Escape One's Own Mind
 
-*现实在第一重坍缩中显现为主权心智，心智在第二重坍缩中递归迭代对自身与世界的形式模型；当历史演进中模型的差异更迭让人忽略了无可逃逸的自我，地图便倒错地被赋予了裁决领土的权威。 / Reality realizes itself as the sovereign Mind in the first dimensional collapse, and the Mind recursively refines formal models of itself and its world in the second; when the divergence of models across history causes humanity to lose sight of the inescapable self, the cartographic map is mistakenly granted authority to judge the living territory.*
+*两重维降与形式模型的反客为主 / Two-Fold Dimensional Collapse and the Reification of Formal Models*
 
-在关于宇宙尺度与人类处境的讨论中，常有一种援引日心说与深空天文图景的流行叙事，试图以此证明人类将自身置于行动与认知中心是一种认识论上的偏差。这种叙事指出，在浩瀚星海面前，人类的个体抉择在几何尺度上显得微不足道。然而，若从认知生成的结构展开审视，这种论断容易忽略现实显现自身并展开理解的两重维度坍缩。在第一重坍缩中，高维因果流形涌现并显现为具身心智的第一人称感知；在第二重坍缩中，心智为了深化对自身与环境的理解，递归地构建出符号、几何与物理定律的形式模型。当人类因历史上形式模型的演化差异而产生认知混淆，进而误将第二重坍缩的形式产物当成超越现实、甚至凌驾于心智之上的客观立法者时，便陷入了自我瓦解的悖论。唯有重新确认无可逃逸的自我坐标原点，看清认知与行动始于具身主体的不可逆结构，才能在真实的因果链条中清晰理解属于主权心智的认知基准。
+现实在第一重坍缩中显现为主权心智，心智在第二重坍缩中递归迭代对自身与世界的形式模型；当历史演进中模型的差异更迭让人忽略了无可逃逸的自我，地图便倒错地被赋予了裁决领土的权威。在关于宇宙尺度与人类处境的讨论中，常有一种援引日心说与深空天文图景的流行叙事，试图以此证明人类将自身置于行动与认知中心是一种认识论上的偏差。这种叙事指出，在浩瀚星海面前，人类的个体抉择在几何尺度上显得微不足道。然而，若从认知生成的结构展开审视，这种论断容易忽略现实显现自身并展开理解的两重维度坍缩。在第一重坍缩中，高维因果流形涌现并显现为具身心智的第一人称感知；在第二重坍缩中，心智为了深化对自身与环境的理解，递归地构建出符号、几何与物理定律的形式模型。当人类因历史上形式模型的演化差异而产生认知混淆，进而误将第二重坍缩的形式产物当成超越现实、甚至凌驾于心智之上的客观立法者时，便陷入了自我瓦解的悖论。唯有重新确认无可逃逸的自我坐标原点，看清认知与行动始于具身主体的不可逆结构，才能在真实的因果链条中清晰理解属于主权心智的认知基准。
+
+Reality realizes itself as the sovereign Mind in the first dimensional collapse, and the Mind recursively refines formal models of itself and its world in the second; when the divergence of models across history causes humanity to lose sight of the inescapable self, the cartographic map is mistakenly granted authority to judge the living territory.
 
 ## 苍白蓝点的尺度修辞与第一重维降：现实如何显现为主权心智 / The Scale Rhetoric of the Pale Blue Dot and the First Collapse: How Reality Realizes Itself as Mind
 

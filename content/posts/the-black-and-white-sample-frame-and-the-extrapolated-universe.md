@@ -1,6 +1,10 @@
-# 黑白采样帧与外推宇宙：物理学如何冻结现实电影并将投影命名为宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe: How Physics Froze the Movie of Reality and Named the Projection the Cosmos
+# 黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe
 
-*现实是正在实时向前播放的高动态影像，物理学通过采集极短时间内的相邻帧并进行平滑平均，将这张高度稳定的平均帧当作封闭宇宙并脱色为黑白网格；正因这种不变性在局部即时成立，理论的局部预测才惊人准确，但将局部平均帧外推为四维永恒块，则犯下了现代地平说范畴倒错。 / Reality is a continuous HDR movie advancing in real time. Physics collects its most adjacent frames over an infinitesimal window, averages them out into a stable composite frame, treats it as a closed universe, and desaturates it into an abstract black-and-white grid. Because this invariance holds in the immediate local region, its near-term forecasts are surprisingly accurate—yet extrapolating this time-averaged slice across cosmic infinity commits the modern Flat Earth category error.*
+*物理学如何冻结现实电影并将投影命名为宇宙 / How Physics Froze the Movie of Reality and Named the Projection the Cosmos*
+
+现实是正在实时向前播放的高动态影像，物理学通过采集极短时间内的相邻帧并进行平滑平均，将这张高度稳定的平均帧当作封闭宇宙并脱色为黑白网格；正因这种不变性在局部即时成立，理论的局部预测才惊人准确，但将局部平均帧外推为四维永恒块，则犯下了现代地平说范畴倒错。
+
+Reality is a continuous HDR movie advancing in real time. Physics collects its most adjacent frames over an infinitesimal window, averages them out into a stable composite frame, treats it as a closed universe, and desaturates it into an abstract black-and-white grid. Because this invariance holds in the immediate local region, its near-term forecasts are surprisingly accurate—yet extrapolating this time-averaged slice across cosmic infinity commits the modern Flat Earth category error.
 
 ---
 

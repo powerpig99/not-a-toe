@@ -1,6 +1,10 @@
-# 主体性不曾涌现：涌现的范畴谬误、潜在空间渗入与第一人称先验起点 / Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior
+# 主体性不曾涌现 / Agency Does Not Arise
 
-*任何确定性封闭系统皆无法在宏观粗粒化中生成真正的独立自由变量；当我们将迈克尔·莱文富有洞见的潜空间渗入模型追索至底，它依然无法摆脱向定律坍缩的宿命——因果律延展至第三人称观测视界之外，第一人称的主权直觉是理论的刚性约束而非待审判的公案。 / Any closed deterministic system cannot generate genuine new independent variables at coarser scales; when Michael Levin’s conceptually rich framework of ingressed latent patterns is traced to its root, it inevitably collapses back into physical regularities—causality extends beyond the third-person horizon, making first-person agency an irreducible constraint on theory rather than a case waiting to win a cross-mind trial.*
+*涌现的范畴谬误、潜在空间渗入与第一人称先验起点 / The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior*
+
+任何确定性封闭系统皆无法在宏观粗粒化中生成真正的独立自由变量；当我们将迈克尔·莱文富有洞见的潜空间渗入模型追索至底，它依然无法摆脱向定律坍缩的宿命——因果律延展至第三人称观测视界之外，第一人称的主权直觉是理论的刚性约束而非待审判的公案。
+
+Any closed deterministic system cannot generate genuine new independent variables at coarser scales; when Michael Levin’s conceptually rich framework of ingressed latent patterns is traced to its root, it inevitably collapses back into physical regularities—causality extends beyond the third-person horizon, making first-person agency an irreducible constraint on theory rather than a case waiting to win a cross-mind trial.
 
 ---
 

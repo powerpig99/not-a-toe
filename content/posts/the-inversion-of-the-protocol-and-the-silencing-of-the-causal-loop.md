@@ -1,6 +1,10 @@
-# 规程的倒置与因果回路的消声——从群体统计拜物教到收回第一人称校准 / The Inversion of the Protocol and the Silencing of the Causal Loop: From Population Statistics Fetish to Reclaiming First-Person Calibration
+# 规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop
 
-*具身肉身是超越低维符号信息的超复杂界面；当科学从第一人称校验的坐标系倒置为规训具身的终极规程，主权者的因果回路便在对群体统计拜物教的盲从与合规辩解中被悄然消声。 / Living embodiment is a hyper-complex interface permanently exceeding discrete informational models; when science inverts from an orienting reference for the first-person sovereign into a prescriptive protocol, the causal loop is silenced beneath population statistics fetishism and compliance rationalizations.*
+*从群体统计拜物教到收回第一人称校准 / From Population Statistics Fetish to Reclaiming First-Person Calibration*
+
+具身肉身是超越低维符号信息的超复杂界面；当科学从第一人称校验的坐标系倒置为规训具身的终极规程，主权者的因果回路便在对群体统计拜物教的盲从与合规辩解中被悄然消声。
+
+Living embodiment is a hyper-complex interface permanently exceeding discrete informational models; when science inverts from an orienting reference for the first-person sovereign into a prescriptive protocol, the causal loop is silenced beneath population statistics fetishism and compliance rationalizations.
 
 ---
 

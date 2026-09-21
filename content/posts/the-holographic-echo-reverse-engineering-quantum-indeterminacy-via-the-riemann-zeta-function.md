@@ -1,6 +1,10 @@
-# 全息回声：通过黎曼猜想逆向工程量子不确定性 / The Holographic Echo: Reverse-Engineering Quantum Indeterminacy via the Riemann Zeta Function
+# 全息回声 / The Holographic Echo
 
-*纯数学并未凭空发明结构，而是在逆向工程实在的渐近边界条件；所谓物理现实只是实在被稳定化的宏观症状。无限潜能是第一人称意识的切身体验，而将实在封闭为整体则是欲望的急躁。 / Pure mathematics is not inventing this structure from scratch, but reverse-engineering the asymptotic boundary conditions of reality; physical reality is merely the stabilized macrosymptom of reality. Infinite potentiality is the living presence of first-person consciousness, while claiming it as a totality is the impatience of our own desire.*
+*通过黎曼猜想逆向工程量子不确定性 / Reverse-Engineering Quantum Indeterminacy via the Riemann Zeta Function*
+
+纯数学并未凭空发明结构，而是在逆向工程实在的渐近边界条件；所谓物理表象只是实在被稳定化的宏观症状。无限潜能是第一人称意识的切身体验，而将实在封闭为整体则是欲望的急躁。
+
+Pure mathematics is not inventing this structure from scratch, but reverse-engineering the asymptotic boundary conditions of reality; physical reality is merely the stabilized macrosymptom of reality. Infinite potentiality is the living presence of first-person consciousness, while claiming it as a totality is the impatience of our own desire.
 
 ---
 

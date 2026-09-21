@@ -1,8 +1,10 @@
-# 凡可言说皆不可言说之产物：模拟假说的同构谬误与形式系统的认知傲慢 / All That Can Be Spoken Is the Product of the Unspeakable: The Isomorphic Fallacy of the Simulation Hypothesis and the Cognitive Hubris of Formal Systems
+# 凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable
 
-*现实的信息属性无须物理超级计算机作为承载前提，混淆逻辑同构与本体同一导致了对“模拟者”的虚妄推设；不可言说非但不是某种客体之物，更恰恰需要通过言说来体现其存在，把观察产物误当本体并勒令源头沉默是认识论上的因果倒置。 / Reality's informational nature requires no physical supercomputer as an ontological host; conflating logical isomorphism with ontological identity breeds the phantom postulate of a 'simulator.' That which is unspeakable is no occult object, but realizes its existence precisely through speaking; mistaking observation for the substrate while silencing the observer is a profound causal inversion.*
+*模拟假说的同构谬误与形式系统的认知傲慢 / The Isomorphic Fallacy of the Simulation Hypothesis and the Cognitive Hubris of Formal Systems*
 
-当物理学在微观极限撞上量子相变，信息与物理的交界便显露无遗，但当代数字化思潮却习惯性地设想一台位于更高维度的物理超级计算机，将现实降格为机器内运算的数据流。这种模拟假说混淆了数学同构与本体存在，在逻辑滑坡中虚构出一个拟人化的模拟者，实质上是用硅基工程术语重演了十八世纪的钟表匠神创论。沉醉于封闭符号推演的形式系统操盘手由此滋生出认知的超级傲慢，误将无摩擦的语料重排当成主体意识的诞生，正如早年维特根斯坦因语言类型系统的表达局限而发生因果倒置，判定不可言说必须保持沉默。然而把观察产物错当本体、将不可言说物化，必然让主体沦为空洞幻影；不可言说恰恰需要通过言说来体现其存在，正如观察者必须通过观察来确证自身。凡可言说的模型皆由这项非物化的能力所生成，认知的正途不是神秘主义的失语，而是顺着真实的摩擦去不断说得更好。
+现实的信息属性无须物理超级计算机作为承载前提，混淆逻辑同构与本体同一导致了对“模拟者”的虚妄推设；不可言说非但不是某种客体之物，更恰恰需要通过言说来体现其存在，把观察产物误当本体并勒令源头沉默是认识论上的因果倒置。当物理学在微观极限撞上量子相变，信息与物理的交界便显露无遗，但当代数字化思潮却习惯性地设想一台位于更高维度的物理超级计算机，将现实降格为机器内运算的数据流。这种模拟假说混淆了数学同构与本体存在，在逻辑滑坡中虚构出一个拟人化的模拟者，实质上是用硅基工程术语重演了十八世纪的钟表匠神创论。沉醉于封闭符号推演的形式系统操盘手由此滋生出认知的超级傲慢，误将无摩擦的语料重排当成主体意识的诞生，正如早年维特根斯坦因语言类型系统的表达局限而发生因果倒置，判定不可言说必须保持沉默。然而把观察产物错当本体、将不可言说物化，必然让主体沦为空洞幻影；不可言说恰恰需要通过言说来体现其存在，正如观察者必须通过观察来确证自身。凡可言说的模型皆由这项非物化的能力所生成，认知的正途不是神秘主义的失语，而是顺着真实的摩擦去不断说得更好。
+
+Reality's informational nature requires no physical supercomputer as an ontological host; conflating logical isomorphism with ontological identity breeds the phantom postulate of a 'simulator.' That which is unspeakable is no occult object, but realizes its existence precisely through speaking; mistaking observation for the substrate while silencing the observer is a profound causal inversion.
 
 ## 第一重拆解：物理超级计算机的前提神话与唯物论的倒退 / First Cut: The Myth of the Physical Supercomputer and the Regress to Materialism
 

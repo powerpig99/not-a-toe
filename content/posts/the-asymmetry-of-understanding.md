@@ -1,6 +1,10 @@
-# 理解的非对称性：走向无限可能，还是陷入无限误解 / The Asymmetry of Understanding: Infinite Possibility vs. Infinite Misunderstanding
+# 理解的非对称性 / The Asymmetry of Understanding
 
-*理解是每个人都天然拥有的潜在无限，但一旦它被异化为一种义务，这种潜能便被瞬间封闭。当我们专注于去理解时，心智向着无边无际的现实展开，创造出无限的可能；当我们专注于被理解并强求为义务时，便将自身交付给他人狭隘的低维投影屏幕，创造出无限被误解的可能。 / Understanding is an infinite potential each and every one of us possesses, but when it is turned into an obligation, that potentiality is closed. When we focus on understanding, the mind unfolds toward the inexhaustible territory of reality, unlocking infinite possibility. When we focus on being understood and demand it as a duty, we surrender ourselves to another mind's cramped, low-dimensional projection screen, unlocking infinite possibility to be misunderstood.*
+*走向无限可能，还是陷入无限误解 / Infinite Possibility vs. Infinite Misunderstanding*
+
+理解是每个人都天然拥有的潜在无限，但一旦它被异化为一种义务，这种潜能便被瞬间封闭。当我们专注于去理解时，心智向着无边无际的现实展开，创造出无限的可能；当我们专注于被理解并强求为义务时，便将自身交付给他人狭隘的低维投影屏幕，创造出无限被误解的可能。
+
+Understanding is an infinite potential each and every one of us possesses, but when it is turned into an obligation, that potentiality is closed. When we focus on understanding, the mind unfolds toward the inexhaustible territory of reality, unlocking infinite possibility. When we focus on being understood and demand it as a duty, we surrender ourselves to another mind's cramped, low-dimensional projection screen, unlocking infinite possibility to be misunderstood.
 
 ---
 

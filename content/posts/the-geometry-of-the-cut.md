@@ -1,6 +1,10 @@
-# 切分的几何学：自身为因，世界为果 / The Geometry of the Cut: Self as Cause, World as Effect
+# 切分的几何学 / The Geometry of the Cut
 
-*商空间流形、自指投影与普朗克尺度的离散全息 / Quotient Topology, Self-Referential Projection, and Planck-Scale Discrete Holography*
+*自身为因，世界为果 / Self as Cause, World as Effect*
+
+商空间流形、自指投影与普朗克尺度的离散全息。
+
+Quotient Topology, Self-Referential Projection, and Planck-Scale Discrete Holography.
 
 ---
 

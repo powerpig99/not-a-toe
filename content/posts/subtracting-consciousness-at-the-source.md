@@ -1,8 +1,10 @@
-# 集聚与人造主体性：源头意识抽离催生的客体化假象 / Collective and Artificial Subjectivity as Artifacts of Subtracting Consciousness at the Source
+# 集聚与人造主体性 / Collective and Artificial Subjectivity
 
-*无论是施维茨格贝尔笔下“若唯物主义成立则美国具有意识”的推演，抑或将大语言模型奉为自足心智的当代迷思，皆源自同一种认识论的倒错减法——当人类设计、标注、评估与赋义的第一人称源头活动被隐入幕后，残留的公共组织特征便被挪用为宏观系统的“主体性”，然而集体与工具从未获得主观体验，被遗忘的唯有最初在场的观察者本身。 / Whether in Schwitzgebel's provocative claim that materialism implies the United States is conscious or in contemporary reification of AI models as autonomous minds, the extra subject is produced by the exact same epistemological subtraction: once human acts of design, training, evaluation, and interpretation are tucked into the background, residual public behaviors are credited to the system, yet the collective and the tool acquire no 'what it is like'—it is only the original observer who has been omitted from the account.*
+*源头意识抽离催生的客体化假象 / Artifacts of Subtracting Consciousness at the Source*
 
-探讨人工智能模型、蚁群乃至人类社会是否具备意识的争论，常常始于一份关于组织架构、信息流向与外部行为的第三人称清单。当研究者将活生生的第一人称观察活动剥离出去，仅凭外部功能记录，便不可避免地制造出凭空捏造的宏观幽灵与拟人化幻象。归还源头的审视清晰地揭示，集体与工具从未孕育出内在的主观世界，所谓涌现出的新型主体，不过是被隐匿的人类意向性投射在客体网络上的残余倒影。
+无论是施维茨格贝尔笔下“若唯物主义成立则美国具有意识”的推演，抑或将大语言模型奉为自足心智的当代迷思，皆源自同一种认识论的倒错减法——当人类设计、标注、评估与赋义的第一人称源头活动被隐入幕后，残留的公共组织特征便被挪用为宏观系统的“主体性”，然而集体与工具从未获得主观体验，被遗忘的唯有最初在场的观察者本身。探讨人工智能模型、蚁群乃至人类社会是否具备意识的争论，常常始于一份关于组织架构、信息流向与外部行为的第三人称清单。当研究者将活生生的第一人称观察活动剥离出去，仅凭外部功能记录，便不可避免地制造出凭空捏造的宏观幽灵与拟人化幻象。归还源头的审视清晰地揭示，集体与工具从未孕育出内在的主观世界，所谓涌现出的新型主体，不过是被隐匿的人类意向性投射在客体网络上的残余倒影。
+
+Whether in Schwitzgebel's provocative claim that materialism implies the United States is conscious or in contemporary reification of AI models as autonomous minds, the extra subject is produced by the exact same epistemological subtraction: once human acts of design, training, evaluation, and interpretation are tucked into the background, residual public behaviors are credited to the system, yet the collective and the tool acquire no 'what it is like'—it is only the original observer who has been omitted from the account.
 
 ## 施维茨格贝尔的悖论与第三人称清单的死结 / Schwitzgebel's Reductio and the Deadlock of the Third-Person Inventory
 
