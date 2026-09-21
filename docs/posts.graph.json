@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-21T07:52:00.023Z",
+    "generated_at": "2026-09-21T10:19:08.011Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -207,6 +207,7 @@
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "517fb4185738",
       "content/posts/the-extendable-horizon.md": "16c6a9ecd2f7",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "e4617c1af0fb",
       "content/posts/the-fallacy-of-post-success-parenting.md": "cb2cd5c5ac3b",
@@ -345,19 +346,19 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 335,
-      "edges": 3295,
-      "unique_directed": 3039,
+      "posts": 336,
+      "edges": 3315,
+      "unique_directed": 3049,
       "missing_targets": 0,
-      "one_way": 797,
+      "one_way": 807,
       "isolated": 42,
-      "posts_with_outbound": 269
+      "posts_with_outbound": 270
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 85
+      "in_degree": 86
     },
     {
       "slug": "openness-is-consistency",
@@ -1050,7 +1051,7 @@
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
       "hash": "3fe4662b8931",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -1395,7 +1396,7 @@
       "path": "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md",
       "title": "坐标系、心智与自由度 / Coordinate Systems, the Mind, and Degrees of Freedom",
       "hash": "4ee073250c70",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 0,
       "links_out": []
     },
@@ -1564,7 +1565,7 @@
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
       "hash": "31576ea7ba78",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 1,
       "links_out": [
         "the-residue-and-the-free-variable"
@@ -2385,7 +2386,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "1822bc1fbdea",
-      "in_degree": 85,
+      "in_degree": 86,
       "out_degree": 54,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -3106,7 +3107,7 @@
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
       "hash": "5b88da1cccea",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 9,
       "links_out": [
         "subtracting-consciousness-at-the-source",
@@ -4563,7 +4564,7 @@
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
       "hash": "5912188c2216",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
@@ -4850,6 +4851,28 @@
         "technology-is-residual-of-human-compounding",
         "the-generative-contradiction",
         "preference-clusters-and-the-language-of-judgment"
+      ]
+    },
+    {
+      "id": "post:the-explanatory-trap-of-the-ordinary-perspective",
+      "kind": "post",
+      "slug": "the-explanatory-trap-of-the-ordinary-perspective",
+      "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
+      "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
+      "hash": "517fb4185738",
+      "in_degree": 0,
+      "out_degree": 10,
+      "links_out": [
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "the-causal-inversion-of-partnership",
+        "determinism-is-the-statistical-signature-of-micro-indeterminism",
+        "individual-choices-as-the-only-causal-levers",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "choice-itself-has-no-inherent-weight",
+        "the-reversal-of-education-and-science",
+        "coordinate-systems-mind-and-degrees-of-freedom",
+        "the-geometry-of-the-cut",
+        "one-cannot-escape-ones-own-mind"
       ]
     },
     {
@@ -5175,7 +5198,7 @@
       "path": "content/posts/the-geometry-of-the-cut.md",
       "title": "切分的几何学 / The Geometry of the Cut",
       "hash": "608ef1152155",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 0,
       "links_out": []
     },
@@ -5443,7 +5466,7 @@
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
       "hash": "eff25bf26389",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 0,
       "links_out": []
     },
@@ -6346,7 +6369,7 @@
       "path": "content/posts/the-reversal-of-education-and-science.md",
       "title": "教育与科学的倒置 / The Inversion of Education and Science",
       "hash": "d9695fb75dbc",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 2,
       "links_out": [
         "the-shadow-and-the-infinite",
@@ -6730,7 +6753,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "15b2e9b8b58b",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -19888,6 +19911,126 @@
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
       "label": "Preference clusters and the language of judgment"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "规程的倒置与因果回路的消声"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "契约的因果倒置"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "The Causal Inversion of Partnership"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "确定性是微观不确定性的统计签名"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择作为唯一的因果杠杆"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "抉择本身并不沉重"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-reversal-of-education-and-science",
+      "rel": "points_to",
+      "label": "教育与科学的倒置"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-reversal-of-education-and-science",
+      "rel": "points_to",
+      "label": "The Reversal of Education and Science"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "coordinate-systems-mind-and-degrees-of-freedom",
+      "rel": "points_to",
+      "label": "坐标系、心智与自由度"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-geometry-of-the-cut",
+      "rel": "points_to",
+      "label": "切分的几何学"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "coordinate-systems-mind-and-degrees-of-freedom",
+      "rel": "points_to",
+      "label": "Coordinate Systems, the Mind, and Degrees of Freedom"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-geometry-of-the-cut",
+      "rel": "points_to",
+      "label": "The Geometry of the Cut"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
     },
     {
       "from": "the-extendable-horizon",
