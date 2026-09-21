@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-21T11:38:00.785Z",
+    "generated_at": "2026-09-21T11:47:47.681Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -30,7 +30,7 @@
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "e3ffc8e7b02f",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "74dafb24835c",
       "content/posts/cheng-gong-xue.md": "f451243afbd5",
-      "content/posts/choice-itself-has-no-inherent-weight.md": "3fe4662b8931",
+      "content/posts/choice-itself-has-no-inherent-weight.md": "a09e160a9ee7",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -98,7 +98,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "1822bc1fbdea",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "f60ac4895419",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "b60b674b5303",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -191,7 +191,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
-      "content/posts/the-causal-inversion-of-partnership.md": "5912188c2216",
+      "content/posts/the-causal-inversion-of-partnership.md": "e91d44269102",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
@@ -239,7 +239,7 @@
       "content/posts/the-initial-distinction.md": "20cc20e40f0b",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "49f1e6416b52",
-      "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "eff25bf26389",
+      "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2413ca14ec54",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "08233385869e",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
@@ -347,12 +347,12 @@
     },
     "stats": {
       "posts": 336,
-      "edges": 3315,
-      "unique_directed": 3049,
+      "edges": 3324,
+      "unique_directed": 3054,
       "missing_targets": 0,
-      "one_way": 807,
+      "one_way": 804,
       "isolated": 42,
-      "posts_with_outbound": 270
+      "posts_with_outbound": 271
     }
   },
   "hubs_in": [
@@ -440,7 +440,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 54
+      "out_degree": 55
     },
     {
       "slug": "openness-is-consistency",
@@ -1050,14 +1050,15 @@
       "slug": "choice-itself-has-no-inherent-weight",
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
-      "hash": "3fe4662b8931",
+      "hash": "a09e160a9ee7",
       "in_degree": 7,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-illusion-of-the-unmediated",
         "the-causal-inversion-of-partnership",
+        "the-explanatory-trap-of-the-ordinary-perspective",
         "one-cannot-escape-ones-own-mind",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable"
       ]
@@ -2385,9 +2386,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "1822bc1fbdea",
+      "hash": "f60ac4895419",
       "in_degree": 86,
-      "out_degree": 54,
+      "out_degree": 55,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -2424,6 +2425,7 @@
         "residual-individualism",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "du-zhongwen-zhexue-jianshi-you-gan",
+        "the-explanatory-trap-of-the-ordinary-perspective",
         "zuo-jian-bu-shi-zi-fu",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "openness-is-consistency",
@@ -4563,9 +4565,9 @@
       "slug": "the-causal-inversion-of-partnership",
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
-      "hash": "5912188c2216",
+      "hash": "e91d44269102",
       "in_degree": 5,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "one-cannot-escape-ones-own-mind",
@@ -4574,7 +4576,8 @@
         "the-geometry-of-the-cut",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency"
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "the-explanatory-trap-of-the-ordinary-perspective"
       ]
     },
     {
@@ -4860,7 +4863,7 @@
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
       "hash": "0b690897c0a0",
-      "in_degree": 0,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -5377,7 +5380,7 @@
       "path": "content/posts/the-illusion-of-the-unmediated.md",
       "title": "“非中介化”的幻象 / The Illusion of the Unmediated",
       "hash": "f70f0c91b26b",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 5,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -5465,10 +5468,13 @@
       "slug": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
-      "hash": "eff25bf26389",
+      "hash": "2413ca14ec54",
       "in_degree": 4,
-      "out_degree": 0,
-      "links_out": []
+      "out_degree": 2,
+      "links_out": [
+        "the-illusion-of-the-unmediated",
+        "the-explanatory-trap-of-the-ordinary-perspective"
+      ]
     },
     {
       "id": "post:the-invisible-first-move",
@@ -9144,6 +9150,12 @@
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "心智无法逃离自身"
@@ -9153,6 +9165,12 @@
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
       "label": "The Causal Inversion of Partnership"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
@@ -12663,6 +12681,12 @@
       "to": "du-zhongwen-zhexue-jianshi-you-gan",
       "rel": "points_to",
       "label": "Reflections on A Short History of Chinese Philosophy"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -19032,6 +19056,12 @@
     },
     {
       "from": "the-causal-inversion-of-partnership",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
       "to": "the-illusion-of-the-shared-sandbox",
       "rel": "points_to",
       "label": "The Illusion of the Shared Sandbox"
@@ -19065,6 +19095,12 @@
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "The Dilution of the Causal Loop and the Misallocation of Agency"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
     },
     {
       "from": "the-causal-inversion-of-philosophical-agency",
@@ -21561,6 +21597,30 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "No Universal Salvation, Only Self-Salvation"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "the-illusion-of-the-unmediated",
+      "rel": "points_to",
+      "label": "“非中介化”的幻象"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "the-illusion-of-the-unmediated",
+      "rel": "points_to",
+      "label": "The Illusion of the Unmediated"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
     },
     {
       "from": "the-invisible-first-move",
