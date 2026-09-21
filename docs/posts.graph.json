@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-21T07:43:24.734Z",
+    "generated_at": "2026-09-21T07:52:00.023Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -191,7 +191,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
-      "content/posts/the-causal-inversion-of-partnership.md": "828df905c79c",
+      "content/posts/the-causal-inversion-of-partnership.md": "5912188c2216",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
@@ -346,10 +346,10 @@
     },
     "stats": {
       "posts": 335,
-      "edges": 3293,
-      "unique_directed": 3038,
+      "edges": 3295,
+      "unique_directed": 3039,
       "missing_targets": 0,
-      "one_way": 796,
+      "one_way": 797,
       "isolated": 42,
       "posts_with_outbound": 269
     }
@@ -4562,9 +4562,9 @@
       "slug": "the-causal-inversion-of-partnership",
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
-      "hash": "828df905c79c",
+      "hash": "5912188c2216",
       "in_degree": 4,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "one-cannot-escape-ones-own-mind",
@@ -4572,6 +4572,7 @@
         "the-illusion-of-the-shared-sandbox",
         "the-geometry-of-the-cut",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency"
       ]
     },
@@ -6729,7 +6730,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "15b2e9b8b58b",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 6,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -18996,6 +18997,12 @@
     },
     {
       "from": "the-causal-inversion-of-partnership",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "数字火箭、同行审查与因果闭环的稀释"
@@ -19023,6 +19030,12 @@
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
       "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
     },
     {
       "from": "the-causal-inversion-of-partnership",

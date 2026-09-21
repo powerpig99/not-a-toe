@@ -2,9 +2,9 @@
 
 *所谓共同实体的虚妄、心智对自身的镜像投射与选择离场的自由 / The Illusion of the Mutual Entity, the Mind's Mirror Projection, and the Freedom to Walk Away*
 
-社交网络中关于长久伴侣选择的讨论，正日益演变为一种充满企业采购色彩的指标展演。罗列明确的年龄区间、资产门槛、特定技术行业背景以及所谓的情绪成熟度与健康气质，并冠以非妥协标准的标签公之于众，随后在遭遇舆论审视时进行应激式的言语防卫。这种行为并非罕见的孤例，而是当代文化中广泛蔓延的认知缩影。当人们试图将建立深度人际契约的过程套入风险对冲与规格筛查的模型时，表面上展现出清醒与严谨，实则暴露出对生命关系底层因果机制的深层误解。公开张榜的伴侣采购清单与应激辩护，看似是对自身价值的高调确证，实则是第一人称自足匮乏的防御性代偿。将具有无限维度的具身生命主体降维折叠为低维参数表，不仅抹杀了人际交互中的自适应演化空间，更是将物化他者的逻辑反噬于自身。把合伙人机制等同于预购免检产品，颠倒了因果链条：真正的合伙是结伴面对未决性的协议，而非要求成品独角兽作为入场凭证。自身身处未决的混沌，却强求他者充当静态终局的免责支柱，这如同在同一次观测中妄想同时看见硬币的正反两面。所谓的共同关系本就是各自独立感知的投射，并不存在独立于个体的第三方实体需要去经营。更进一步地，一切向外延伸的关系，实质上皆是心智与自身的联结；所谓的心智之外，不过是心智自身感知向外投射的镜像，恰恰再次构成了同一枚硬币的正反两面。唯有双方在大多数时刻将因果锚定于自身，闭环的反馈机制才能持续运作以做出更优抉择，协同的秩序才会自然涌现。而当分歧不再具有校准空间时，主权个体亦保有清醒离场的自由，以负责的姿态重新确立自己与真实世界的联结。
+社交网络中关于长久伴侣选择的讨论，正日益演变为一种充满企业采购色彩的指标展演。罗列明确的年龄区间、资产门槛、特定技术行业背景以及所谓的情绪成熟度与健康气质，并冠以非妥协标准的标签公之于众，随后在遭遇舆论审视时进行应激式的言语防卫。这种行为并非罕见的孤例，而是当代文化中广泛蔓延的认知缩影。当人们试图将建立深度人际契约的过程套入风险对冲与规格筛查的模型时，表面上展现出清醒与严谨，实则暴露出对生命关系底层因果机制的深层误解。公开张榜的伴侣采购清单与应激辩护，看似是对自身价值的高调确证，实则是第一人称自足匮乏的防御性代偿。将具有无限维度的具身生命主体降维折叠为低维参数表，不仅抹杀了人际交互中的自适应演化空间，更是将物化他者的逻辑反噬于自身。把合伙人机制等同于预购免检产品，颠倒了因果链条：真正的合伙是结伴面对未决性的协议，而非要求成品独角兽作为入场凭证。自身身处未决的混沌，却强求他者充当静态终局的免责支柱，这如同在同一次观测中妄想同时看见硬币的正反两面。所谓的共同关系本就是各自独立感知的投射，并不存在独立于个体的第三方实体需要去经营。更进一步地，一切向外延伸的关系，实质上皆是心智与自身的联结；所谓的心智之外，不过是心智自身感知向外投射的镜像，恰恰再次构成了同一枚硬币的正反两面。唯有双方在大多数时刻将因果锚定于自身，持续向系统中注入第一人称选择这一自由变量，闭环的反馈机制才能运转并涌现协同的秩序。而当分歧不再具有校准空间时，主权个体亦保有清醒离场的自由，以负责的姿态重新确立自己与真实世界的联结。
 
-Discussions surrounding long-term partnership on social networks increasingly resemble enterprise procurement specifications. Individuals compile explicit age bands, wealth thresholds, elite technology sector credentials, and rigid behavioral criteria, broadcasting them as non-negotiable requirements before waging defensive skirmishes against public skepticism. Far from an isolated curiosity, this dynamic exemplifies a widespread contemporary mindset. When seekers attempt to package intimate human alliance within the grammar of risk hedging and specification auditing, an outward posture of pragmatic clarity conceals an epistemological misunderstanding of how living connections actually operate. A publicly broadcast partner checklist accompanied by combative defense may masquerade as confident self-worth, yet structurally signals the defensive over-assertion of an insecure observer. Collapsing an infinite-dimensional embodied agent into a low-dimensional parameter sheet erases the dynamic phase space of human interaction, while inexorably turning the logic of objectification against oneself. Conflating partnership with the procurement of a pre-certified asset inverts causality: genuine co-founding is an agreement to navigate mutual uncertainty, not the demand for a finished unicorn as an admission ticket. Experiencing one's own life as open-ended and unfinished while demanding a partner arrive as an immutable pillar of certainty is asking to observe both sides of the coin in a single measurement. The so-called shared relationship is an epistemic illusion, as there is no autonomous third entity to manage. At the deepest level, all relationships are the relationship of the mind to itself: whatever appears external is the mind's own outward projection, forming a mirror image that constitutes, once again, the two sides of the same coin. A resilient alliance only emerges when both agents anchor causality internally more often than not, keeping the cybernetic feedback loop intact to continually make better choices, while preserving the sovereign clarity to walk away cleanly when dynamic calibration no longer serves the truth of their encounter.
+Discussions surrounding long-term partnership on social networks increasingly resemble enterprise procurement specifications. Individuals compile explicit age bands, wealth thresholds, elite technology sector credentials, and rigid behavioral criteria, broadcasting them as non-negotiable requirements before waging defensive skirmishes against public skepticism. Far from an isolated curiosity, this dynamic exemplifies a widespread contemporary mindset. When seekers attempt to package intimate human alliance within the grammar of risk hedging and specification auditing, an outward posture of pragmatic clarity conceals an epistemological misunderstanding of how living connections actually operate. A publicly broadcast partner checklist accompanied by combative defense may masquerade as confident self-worth, yet structurally signals the defensive over-assertion of an insecure observer. Collapsing an infinite-dimensional embodied agent into a low-dimensional parameter sheet erases the dynamic phase space of human interaction, while inexorably turning the logic of objectification against oneself. Conflating partnership with the procurement of a pre-certified asset inverts causality: genuine co-founding is an agreement to navigate mutual uncertainty, not the demand for a finished unicorn as an admission ticket. Experiencing one's own life as open-ended and unfinished while demanding a partner arrive as an immutable pillar of certainty is asking to observe both sides of the coin in a single measurement. The so-called shared relationship is an epistemic illusion, as there is no autonomous third entity to manage. At the deepest level, all relationships are the relationship of the mind to itself: whatever appears external is the mind's own outward projection, forming a mirror image that constitutes, once again, the two sides of the same coin. A resilient alliance only emerges when both agents anchor causality internally more often than not, actively injecting the sovereign freedom of choice as the system's sole free variable to keep the feedback loop alive, while preserving the sovereign clarity to walk away cleanly when dynamic calibration no longer serves the truth of their encounter.
 
 ## 公开展演与防御性信号：参数清单背后的确证匮乏 / Public Exhibition and Defensive Signaling: The Void of Validation Behind the Parametric Checklist
 
@@ -296,23 +296,23 @@ graph TD
 
 若追溯至最源头的感知结构，一切关系实质上都是心智与自身的联结。正如在[切分的几何学](../the-geometry-of-the-cut/)中所确证的，心智无法跳出自身去感知一个与感知分离的客观之物；所谓心智之外的一切遭遇与显象，皆是心智自身感知流向外的投射。外在世界与所遇见的伴侣，并非独立于心智之外的孤立存在，而是心智自身状态向外投射的一面明镜。在这里，硬币两面的比喻再次显露出其深层同构：观测的主体与被观测的关系，恰恰是同一枚硬币不可分割的正反两面。当一个人对着清单上的指标焦虑、指责伴侣未能满足自己的安全感时，他实际上是在对着镜中自身的投影宣战，试图强行擦拭镜子来改变自己的容颜。你永远无法跨越视界去直接操控对方的心智，更无法隔空修理一个虚幻的客体。个体所能做且唯一能做的，是在自身的因果闭环中做出更优的抉择，以不同的行动去改善心智与自身的联结。
 
-稳固而默契的联动态势，不是刻意求取的产物，而是一种宏观涌现：唯有当双方在大多数时刻都承担起自身的主权责任、将因果之锚定位于自身内部时，协调与共鸣才会自然发生。人际互动的挫败与怨怼，表面上常被解读为情感隔阂或性格不合，但在更深层的因果机制上，无一例外是心智将因果外包所带来的致命后果——它人为切断了做出更优抉择的反馈回路。一旦将匮乏与停滞的因果推脱给镜中的投影、指责对方未能满足自身的期待，心智便在同一瞬间关闭了自我调节的误差输入通道；既然因在外部，自身便无法通过改变行动去收敛偏差，系统由此陷入开环瘫痪。正如我们在[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)中所阐明的，关系的瓦解实质上是因果反馈回路被切断后、主体能动性随之死锁的必然显象。
+稳固而默契的联动态势，不是刻意求取的产物，而是一种宏观涌现：唯有当双方在大多数时刻都承担起自身的主权责任、将因果之锚定位于自身内部时，协调与共鸣才会自然发生。人际互动的挫败与怨怼，表面上常被解读为情感隔阂或性格不合，但在深层的因果机制上，无一例外是心智将因果外包所触发的系统性倒置：它误将决定论系统的机械相移当成改变，却不知真正的改变唯有通过向系统中注入第一人称选择这一自由变量才能启动。一旦将匮乏与停滞的因果推脱给镜中的投影、指责对方未能满足自身的期待，心智便在同一瞬间放弃了注入自由变量的主权，关闭了自我调节的误差输入通道；既然因在外部，自身便无法通过改变抉择去收敛偏差，原本生动的自适应反馈回路由此退化为开环死锁。正如我们在[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)与[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)中所阐明的，关系的瓦解实质上是主体放弃向系统注入选择、任由机械相移锁死动态演化后的必然显象。
 
 将因果锚定于自身，并不意味着在死锁或损耗的困局中充当逆来顺受的殉道者。相反，完备的主权恰恰包含了清醒决断、选择离场的自由。当深度的认知差异或价值裂痕使得校准不再可能时，主权主体拥有自主选择终止契约并抽身离去的自由。这种离场不是怨天尤人的逃避，更不是将责任甩给对方的道德审判；它是心智在认清现实边界之后，为了维护自身与真实的自洽联结而作出的主动抉择。正如在[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)中所揭示的，真正的韧性建立在直接面对现实反馈的主体能动性之上。手持清单去索求免责的确定性，只会收获脆弱的幻象；唯有立足第一人称的自立、在大多数时刻自主承担行动后果，并在必要时拥有从容离场的勇气，个体才能在广阔的世界中展开生机勃勃的真实联结。
 
 ```mermaid
 graph TD
-    subgraph S_MirrorOutsource ["因果外包与镜像对立的死锁"]
+    subgraph S_MirrorOutsource ["因果外包与决定论相移的死锁"]
         direction TB
         O_Reify["将关系物化为脱离个体的第三实体"] --> O_Projection["忘却外部世界为心智自身感知的镜像投影"]
-        O_Projection --> O_Blame["对抗镜中倒影并将因果外包给对方"]
-        O_Blame --> O_Cut["切断因果反馈回路，丧失做出更优抉择的调节能力"]
+        O_Projection --> O_PhaseShift["误将决定论系统的机械相移当成改变"]
+        O_PhaseShift --> O_Cut["放弃注入选择这一自由变量导致反馈回路死锁"]
     end
 
-    subgraph S_SelfReferential ["心智自指、因果锚定与离场自由"]
+    subgraph S_SelfReferential ["心智自指、自由变量注入与离场自由"]
         direction TB
-        S_Coin["洞悉观测者与感知镜像为硬币的两面"] --> S_Action["在自身闭环中做出更优抉择以调整与自我的联结"]
-        S_Action --> S_Emergence["双方多数时刻持守主权从而自然涌现协同"]
+        S_Coin["洞悉观测者与感知镜像为硬币的两面"] --> S_Inject["主动向系统中注入第一人称选择这一自由变量"]
+        S_Inject --> S_Emergence["双方多数时刻持守主权从而自然涌现协同"]
         S_Emergence --> S_Freedom["校准受阻时清醒拥有自主离场的自由"]
     end
 
@@ -322,10 +322,10 @@ graph TD
     style S_SelfReferential fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style O_Reify fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style O_Projection fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style O_Blame fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_PhaseShift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style O_Cut fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Coin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style S_Action fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style S_Inject fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style S_Emergence fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style S_Freedom fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
 ```
@@ -334,23 +334,23 @@ God only helps those who help themselves: all external rescue is misallocated se
 
 Tracing experience to its primary perceptual architecture, all relationships are the relationship of the mind to itself. As confirmed in [The Geometry of the Cut](../the-geometry-of-the-cut/), an observer cannot step outside consciousness to encounter an isolated object divorced from perception; whatever appears external is the outward projection of the mind's own perceptual apparatus. The surrounding world and the encountered partner are not independent entities severed from the observer, but mirror images of the mind's own internal state. Here, the metaphor of the two-sided coin reveals its ultimate isomorphism: the observing subject and the perceived relationship are the inseparable front and back faces of the very same coin. When an individual agonizes over metric checklists or blames a partner for failing to provide emotional security, they are effectively fighting their own reflection in the mirror, attempting to wipe the glass to alter their own face. An agent cannot leap beyond their horizon to directly manipulate another consciousness, nor repair a phantom third object. The only operable lever is to make better choices and act differently within one's own causal loop, continuously refining the mind's relationship to itself.
 
-A resilient, harmonious dynamic is an unforced macroscopic emergence: it arises only when both participants assume personal sovereignty more often than not, keeping the anchor of causality internal. Relational collapses and chronic friction may present superficially as emotional grievances or personality clashes, but beneath the surface lies a fatal cybernetic severance: externalizing causality cuts the very feedback loop required to make a better choice. The moment an agent projects the source of distress onto the mirror image—accusing the partner of failing expectations—the error-correcting signal is disconnected from the agent's own decision variables. If causality resides outside, no internal recalibration can close the gap; the system degenerates into open-loop paralysis. As demonstrated in [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/), the failure of a relationship is nothing other than the inevitable freezing of agency once the causal feedback loop has been severed.
+A resilient, harmonious dynamic is an unforced macroscopic emergence: it arises only when both participants assume personal sovereignty more often than not, keeping the anchor of causality internal. Relational collapses and chronic friction may present superficially as emotional grievances or personality clashes, but beneath the surface lies a systematic reversal: externalizing causality mistakes the mechanical phase shift of a closed deterministic system for genuine change, forgetting that real change can only be initiated by actively injecting a free variable into the system—the sovereign freedom of choice. The moment an agent projects the source of distress onto the mirror image—accusing the partner of failing expectations—they surrender their sole free variable and disconnect the error-correcting feedback loop from their own decision space. If causality is cast outward, no internal recalibration can close the gap; the adaptive feedback loop freezes into open-loop paralysis. As demonstrated in [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/) and [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/), the disintegration of a relationship is nothing other than the inevitable locking of systemic evolution when an observer abdicates the injection of sovereign choice.
 
 Anchoring causality internally does not prescribe stoic martyrdom within a toxic or deadlocked dynamic. On the contrary, genuine sovereignty includes the clean, uncompromised freedom to walk away. When irreconcilable divergences close the possibility of reciprocal calibration, a sovereign observer holds the freedom to terminate the contract and depart. Such departure is neither a petulant evasion nor an externalized moral trial; it is an active choice to align oneself with reality and self-coherence. As established in [The Dilution of the Causal Loop and the Misallocation of Agency](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/), systemic resilience rests upon embodied agents facing unvarnished feedback. Demanding pre-certified certainty from a checklist generates fragile illusions; only by grounding action in first-person accountability, holding causality internally more often than not, and preserving the courage to leave when necessary, can sovereign agents cultivate genuine aliveness within the world.
 
 ```mermaid
 graph TD
-    subgraph S_MirrorOutsource_EN ["The Deadlock of Externalized Mirror Projections"]
+    subgraph S_MirrorOutsource_EN ["Externalized Projections & Deterministic Deadlock"]
         direction TB
         OE_Reify["Reifying Relationship into an Autonomous Third Entity"] --> OE_Projection["Forgetting Outside World is the Mind's Mirror Projection"]
-        OE_Projection --> OE_Blame["Fighting the Mirror Reflection and Outsourcing Blame"]
-        OE_Blame --> OE_Cut["Severing the Feedback Loop to Make a Better Choice"]
+        OE_Projection --> OE_PhaseShift["Mistaking Deterministic Phase Shifts for Real Change"]
+        OE_PhaseShift --> OE_Cut["Surrendering Choice as Free Variable & Locking Feedback Loop"]
     end
 
-    subgraph S_SelfReferential_EN ["Self-Referential Clarity, Internal Causality & Exit Freedom"]
+    subgraph S_SelfReferential_EN ["Self-Referential Clarity, Free Variable Injection & Exit Freedom"]
         direction TB
-        SE_Coin["Recognizing Observer and Perceived Mirror as Two Faces of the Coin"] --> SE_Action["Making Better Choices to Continually Refine Relation to Self"]
-        SE_Action --> SE_Emergence["Emergent Resonance When Both Bear Sovereignty Most of the Time"]
+        SE_Coin["Recognizing Observer and Perceived Mirror as Two Faces of the Coin"] --> SE_Inject["Actively Injecting Sovereign Freedom of Choice as Free Variable"]
+        SE_Inject --> SE_Emergence["Emergent Resonance When Both Bear Sovereignty Most of the Time"]
         SE_Emergence --> SE_Freedom["Preserving the Sovereign Freedom to Depart When Stalled"]
     end
 
@@ -360,10 +360,10 @@ graph TD
     style S_SelfReferential_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style OE_Reify fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style OE_Projection fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style OE_Blame fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style OE_PhaseShift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style OE_Cut fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style SE_Coin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style SE_Action fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style SE_Inject fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style SE_Emergence fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style SE_Freedom fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
 ```
