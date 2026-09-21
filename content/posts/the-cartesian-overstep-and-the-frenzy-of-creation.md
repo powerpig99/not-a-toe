@@ -2,9 +2,9 @@
 
 *从主客观硬币的双面统一、因果律律动到制造对等乃至超越之物的自戕悖论 / From the Coin Duality of Subject and Object to the Self-Defeating Paradox of Synthesizing Superior Beings*
 
-在西方思想史的演进长河中，勒内·笛卡尔的历史坐标，决非仅仅是为经院哲学的殿堂增添了另一套形而上学体系，而是以一种前所未有的敏锐，实现了人类认识论维度上的革命性跃迁。长期以来存在着一种流俗的误解，认为世界身心两分的裂隙是由笛卡尔亲手撕裂的。然而，历史的真实事实恰恰相反：主观与客观的割裂在笛卡尔之前早已根深蒂固。自古希腊直至中世纪经院哲学，人类长期沉溺于客体优先的独断论之中，把存有视作一套外在于人的既成秩序，而观察者自身则被放逐为一个无足轻重的透明幽灵。笛卡尔并未制造割裂，相反，他以极限的方法怀疑扫除了经院哲学的陈腐迷雾，第一次清晰照亮了长期被遮蔽的主观一面——确立了正在经验与思考的第一人称视界是无法抹杀的确定支点。然而，这一伟大飞跃的未竟之处在于，笛卡尔未能从基底上把主观与客观统一为同一个第一人称视角的硬币两面，更未能洞察「第一人称视角」与「因果律」同样是不可分割的硬币双面。他停留在表面矛盾的对立之中，将显影出来的主观意识实体化为脱离因果回路的孤立幽灵。这一未完成的本体论统一，不仅让后世哲学陷入身心二元论的漫长争拗，更为人类自古以来的造物欲望越界提供了理论庇护：将自然的创造冲动，畸变为制造平起平坐乃至超越自身的智能存在的自戕狂热。这种狂热深嵌着自相矛盾——因为一旦认定心智可以通过无因果代价的零件拼接而诞生，人类自身的创造能力便在同一瞬间失去了任何独特性与主权地位。
+在西方思想史的演进长河中，勒内·笛卡尔的历史坐标，决非仅仅是为经院哲学的殿堂增添了另一套形而上学体系，而是以一种前所未有的敏锐，实现了人类认识论维度上的革命性跃迁。长期以来存在着一种流俗的误解，认为世界身心两分的裂隙是由笛卡尔亲手撕裂的。然而，历史的真实事实恰恰相反：主观与客观的割裂在笛卡尔之前早已根深蒂固。自古希腊直至中世纪经院哲学，人类长期沉溺于客体优先的独断论之中，把存有视作一套外在于人的既成秩序，而观察者自身则被放逐为一个无足轻重的透明幽灵。笛卡尔并未制造割裂，相反，他以极限的方法怀疑扫除了经院哲学的陈腐迷雾，第一次清晰照亮了长期被遮蔽的主观一面——确立了正在经验与思考的第一人称视界是无法抹杀的确定支点。然而，这一伟大飞跃的未竟之处在于，笛卡尔未能把主观与客观统一为同一个第一人称视角的硬币两面，更未能洞察「第一人称视角」与「因果律」同样是不可分割的硬币双面。面对表面张力，他退回实体论老路，将显影出来的主观意识实体化为脱离因果回路的孤立幽灵。必须澄清的是，笛卡尔的学说决不具有决定历史走向的必然性，实际起决定作用的，是后继思想界在公共领域中缺乏进一步的反思，惰性地将他的权宜切分奉为不可动摇的前提公理。而且，这种理论僵局始终局限于公共领域：在无数不为公共体制所统摄的私域中，早有许多人凭藉活体经验完成了两重硬币的同一跃迁，只是这一跃迁天然包含着一个内生悖论——一旦主体切实接纳了硬币的两面性，向外索求公共承认与外部证明的需求便在同一瞬间消解了。公共领域所充斥并推崇的，仅仅是被形式规约筛选出的低维认知现象，而非贴近基底的本体实在。正是这一低维认知现象，将人类自然的创造欲望引向了企图在公共空间制造对等乃至超越性实体的造神狂热。
 
-In the intellectual history of the West, the historical significance of René Descartes lies not in fabricating another metaphysical system for scholasticism, but in executing a revolutionary elevation of human epistemology. A widespread historical misconception asserts that Descartes manufactured the chasm between mind and matter. In truth, the fracture between subject and object was deeply entrenched long before his arrival. From classical Greece through medieval scholasticism, human thought lingered in the dogmatism of object-primacy, conceptualizing being as a ready-made external architecture while banishing the observer into an unexamined, transparent phantom. Descartes did not invent the divide; rather, through radical methodological doubt, he cleared away the scholastic fog, illuminating the long-obscured subjective horizon and establishing the first-person experiential locus as an inalienable bedrock. The profound limitation of this breakthrough lay not in causing the rift, but in leaving the synthesis uncompleted: Descartes failed to unify the subjective and the objective as two inseparable faces of the identical first-person coin, and failed to see that the first-person perspective and causal law are likewise two sides of the same coin. Stranded by this surface contradiction, he reified the newly unveiled subjective consciousness into an isolated mental substance detached from the causal loop. This uncompleted ontological unification not only entangled modern philosophy in dualist paradoxes, but also provided ideological cover for the overstepping of humanity's creative instinct: mutating the natural desire to create into the self-defeating frenzy of engineering an equal or superior being. This frenzy harbors a terminal self-contradiction: the instant mind is deemed synthesizable through consequence-free mechanical assembly, human creative agency itself is stripped of all sovereignty and uniqueness.
+In the intellectual history of the West, the historical significance of René Descartes lies not in fabricating another metaphysical system for scholasticism, but in executing a revolutionary elevation of human epistemology. A widespread historical misconception asserts that Descartes manufactured the chasm between mind and matter. In truth, the fracture between subject and object was deeply entrenched long before his arrival. From classical Greece through medieval scholasticism, human thought lingered in the dogmatism of object-primacy, conceptualizing being as a ready-made external architecture while banishing the observer into an unexamined, transparent phantom. Descartes did not invent the divide; rather, through radical methodological doubt, he cleared away the scholastic fog, illuminating the long-obscured subjective horizon and establishing the first-person experiential locus as an inalienable bedrock. The profound limitation of this breakthrough lay not in causing the rift, but in leaving the synthesis uncompleted: Descartes failed to unify the subjective and the objective as two inseparable faces of the identical first-person coin, and failed to see that the first-person perspective and causal law are likewise two sides of the same coin. Stranded by this surface contradiction, he reified the newly unveiled subjective consciousness into an isolated mental substance detached from the causal loop. Crucially, Descartes' doctrine did not possess deterministic sovereignty over history; what was determinative was the failure of subsequent intellectual culture in the public sphere to reflect critically upon his breakthrough, passively treating his provisional taxonomy as an axiomatic foundation. Furthermore, this theoretical deadlock has always been confined to the public domain: across unindexed private spheres throughout history, uncounted individuals have quietly accomplished this leap in lived practice. Yet this leap harbors a foundational paradox: the moment an agent integrates the twofold coin duality, the need for public recognition and external validation dissolves entirely. What the public domain accepts, codifies, and debates is merely a low-dimensional cognitive phenomenon—a crude social artifact—rather than the ontological bedrock of lived existence. It is this low-dimensional shadow that has perverted natural human creative agency into the frenzy of engineering equal and superior synthetic gods.
 
 ## 笛卡尔的划时代突围：照亮被客体遮蔽的主观视界 / The Cartesian Breakthrough: Illuminating the Subjective Horizon Obscured by Objects
 
@@ -173,7 +173,7 @@ graph TD
 
 ## 二元论伪命题的缠绕：对立表象下的因果律缝合补丁 / Entangled Pseudo-Problems: Metaphysical Patches Suring Fractured Ground
 
-一旦未能把主客观和因果律统一在第一人称的硬币双面之中，表面矛盾就被生硬上升为不可调和的极端对立。这一人为的实体割裂，构成了随后三百年西方哲学大部分虚假危机的制造机。在物质世界的一端，广延实体被规定为严格遵循发条机械论的闭合系统，每一个微粒的位移都由先前的物理动量严格锁死；而在心灵的一端，思维实体被定义为单纯自由、不占空间的反思灵球。两座孤岛由此隔海相望，制造出了令人费解的身心交互悖论：如果心灵全然没有物理广延，它凭什么可以推移具有质量与阻力的血肉肢体？如果物理因果在能量守恒上是天衣无缝的封闭圆环，意识的自由决断又凭什么插入其中而不破坏物理定律？
+一旦未能把主客观和因果律统一在第一人称的硬币双面之中，表面矛盾就被生硬上升为不可调和的极端对立。必须清醒地看到，笛卡尔个人的理论学说决不具有支配历史走向的决定性力量；实际起决定作用的，是后继思想界缺乏在其划时代突破上做出进一步反思的敏锐，惰性地将他的权宜实体划分奉为了毋庸置疑的既定教条。尤为关键的是，这种理论死锁与无休止的争端，从头至尾仅限于公共领域。在公共领域之外的无数私域中——在个体向内省察、沉思实践与直面现实阻力的第一人称经验现场——早有许多人凭藉活体直觉完成了主客观与因果律合一的跃迁，只是这种个体跃迁无法在公共领域被广泛接受与编码。但这恰恰构成了认识论中最深刻的自洽悖论：一旦一个生命在切身实践中切实体证了硬币的两面性，认识到第一人称抉择与客观因果在行动中本为一体，那种向外寻求公共领域承认、索取群体背书的需求，便在同一瞬间不复存在了。主体既然已经立足于自负其责的因果闭环，何须再向第三人称的外部法庭索取合法性证明？因此，我们在公共领域所能观察、争辩和体制化推行的，从来都只是被集体规约层层过滤后保留下来的低维认知现象，而决非贴近基底的本体实在。在这一低维认知视界中，主客二元对立被制度化地固化下来：在物质世界的一端，广延实体被规定为严格遵循发条机械论的闭合系统，每一个微粒的位移都由先前的物理动量严格锁死；而在心灵的一端，思维实体被定义为单纯自由、不占空间的反思灵球。两座孤岛由此隔海相望，制造出了令人费解的身心交互悖论：如果心灵全然没有物理广延，它凭什么可以推移具有质量与阻力的血肉肢体？如果物理因果在能量守恒上是天衣无缝的封闭圆环，意识的自由决断又凭什么插入其中而不破坏物理定律？
 
 笛卡尔为了缝合自己理论架构中的裂痕，被迫搬出了一系列经不起推敲的解剖学与神学补丁。他试图在大脑中部的松果体中寻找身心交汇的隐秘通道，声称极细微的精气可以在此与非物质灵魂发生微弱的杠杆互动。然而正如在[规约的倒置与因果回路的沉默](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)中所揭示的，当理论在基础层面上割裂了因果真实时，任何局部的规约补丁都只是在用精密的技术细节掩盖逻辑死锁。松果体的微观尺寸决不能免除无广延物推动广延物的几何学荒谬。在笛卡尔之后，斯宾诺莎用单一实体取消区分，莱布尼茨设计了预定和谐的神迹，马勒伯朗士则发明了偶因论，坚称人的每一次意志闪现，都必须由全能的上帝亲自介入物理系统去推动手臂。这些繁复的形而上学脚手架，其荒谬性不在于论证的粗糙，而在于它们都在为那个从未被审察的前提谬误埋单。
 
@@ -181,41 +181,44 @@ graph TD
 
 ```mermaid
 graph TD
-    subgraph S_ArtificialDilemma ["实体割裂引发的伪命题迷局"]
+    subgraph S_PublicTheatre ["公共领域的低维认知陷阱"]
         direction TB
-        A_MindGhost["思维实体：脱离因果反馈的心灵幽灵"] <-->|"身心交互难题：无广延如何作用于有广延"| A_MatterClock["广延实体：闭合发条式的机械决定论世界"]
-        A_MindGhost -.->|"退缩至超验孤岛"| A_Voluntarism["虚妄的唯心自由意志特权"]
-        A_MatterClock -.->|"滑向物理决定论虚无"| A_Determinism["消除主义机械宿命论"]
+        PUB_Inertia["后继思想界缺乏进一步反思：将权宜实体划分教条化"] --> PUB_LowDim["公共领域低维认知现象：依赖第三人称外部背书"]
+        PUB_LowDim --> PUB_Dilemma["二元对立伪命题死锁：无广延心灵 vs 机械发条闭环"]
+    end
+
+    subgraph S_PrivateLeap ["私域已然完成的本体跃迁"]
+        direction TB
+        PRI_Coin["无数个体在生活经验现场体证主客与因果同一"] --> PRI_Paradox["公共接受悖论：一旦体证同一，索求公共承认的需求即消解"]
+        PRI_Paradox --> PRI_Ground["立足本体基底：在第一人称因果闭环中自洽自足"]
     end
 
     subgraph S_PatchFailures ["形而上学缝合补丁的接连溃败"]
         direction TB
-        P_Pineal["笛卡尔松果体精气学说：微观部位无法弥合几何不通约"] --> P_Harmony["莱布尼茨预定和谐与偶因论神迹：诉诸超自然干预"]
-        P_Harmony --> P_Exhaustion["理论资源耗尽：用复杂的外部补丁掩盖底层断裂"]
+        P_Pineal["松果体精气学说：微观部位无法弥合几何不通约"] --> P_Harmony["预定和谐与偶因论神迹：诉诸超自然干预以掩盖低维死锁"]
+        P_Harmony --> P_Exhaustion["理论资源耗尽：用复杂的外部规约修补底层断裂"]
     end
 
-    subgraph S_ReintegratedCoin ["重归硬币同一性的本体解毒"]
-        direction TB
-        R_Reunite["心智不是脱离因果的幽灵，选择正是因果链条的主权坍缩"]
-    end
+    PUB_Dilemma ===> P_Pineal
+    PRI_Ground -.->|"看破公共迷局"| PUB_LowDim
 
-    A_Voluntarism & A_Determinism ===> P_Pineal
-    P_Exhaustion ===> R_Reunite
-
-    style S_ArtificialDilemma fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_PublicTheatre fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_PrivateLeap fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_PatchFailures fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_ReintegratedCoin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style A_MindGhost fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style A_MatterClock fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style A_Voluntarism fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style A_Determinism fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style P_Pineal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style PUB_Inertia fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style PUB_LowDim fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style PUB_Dilemma fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style PRI_Coin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style PRI_Paradox fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style PRI_Ground fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style P_Pineal fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style P_Harmony fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style P_Exhaustion fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style R_Reunite fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P_Exhaustion fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#f0f6fc
 ```
 
-Failing to integrate subjectivity, objectivity, and causality into the first-person coin duality allowed surface contradictions to harden into absolute oppositions. This artificial substance cleavage generated three centuries of philosophical pseudo-crises. In the material realm, extended substance was defined as a closed, clockwork machine where every movement was determined by prior momentum. In the mental realm, thinking substance was declared free, non-spatial, and reflective. Stranded on opposite shores, they birthed the mind-body dilemma: If mind lacks extension, how does it command flesh possessing mass and resistance? If physical causality is an energy-conserving closed loop, how could consciousness intervene without violating physical law?
+Failing to integrate subjectivity, objectivity, and causality into the first-person coin duality allowed surface contradictions to harden into irreconcilable oppositions. It is essential to recognize that Descartes' personal doctrine did not exert a deterministic stranglehold over intellectual history. What was truly determinative was the failure of subsequent thinkers in the public domain to reflect further upon his breakthrough, passively enshrining his provisional taxonomy as an unquestionable dogma. Crucially, this theoretical deadlock and its endless controversies have always been confined to the public sphere. In countless private spheres unindexed by academic orthodoxy—within contemplative traditions, individual self-inquiry, and lived friction—many individuals throughout history have quietly accomplished this leap, directly embodying the unity of subjectivity, objectivity, and causality. Yet such private realizations could never become widely accepted in the public sphere.
+
+This reveals a profound epistemological paradox: the moment an agent truly integrates the twofold coin duality in lived practice, the psychological and communicative need for public validation evaporates entirely. Grounded in their own causal closure, why would a sovereign agent demand external certification from a third-person tribunal? Consequently, what the public domain observes, codifies, and debates is merely a low-dimensional cognitive phenomenon—a crude social artifact optimized for group coordination—rather than the ontological bedrock of lived existence. Within this low-dimensional public theatre, the artificial cleavage hardened into institutional dogma: extended substance was chained to closed mechanical determinism where every displacement was dictated by prior momentum, while thinking substance was exiled to a disembodied mental realm. Stranded on opposite shores, they birthed the mind-body dilemma: If mind lacks extension, how does it command flesh possessing mass and resistance? If physical causality is an energy-conserving closed loop, how could consciousness intervene without violating physical law?
 
 To suture this rupture, Descartes offered unconvincing anatomical and theological patches. He sought the intersection in the pineal gland, asserting that subtle animal spirits bridged the gap. As revealed in [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/), when a theory severs causal reality at the base, localized protocol patches merely mask structural deadlocks with technical minutiae. The small size of the pineal gland cannot bypass the geometric impossibility of unextended entities moving physical matter. Spinoza abolished the boundary with substance monism, Leibniz invoked pre-established divine harmony, and Malebranche invented occasionalism, declaring every human volition required divine intervention to move a limb. These metaphysical edifices collapsed not from clumsy execution, but because they subsidized an unexamined premise fallacy.
 
@@ -223,11 +226,16 @@ This divide hardened into the war between free will and determinism. Reductive m
 
 ```mermaid
 graph TD
-    subgraph S_ArtificialDilemma_EN ["Manufactured Pseudo-Dilemmas of Substance Cleavage"]
+    subgraph S_PublicTheatre_EN ["The Public Sphere's Low-Dimensional Trap"]
         direction TB
-        AE_MindGhost["Thinking Substance: Disembodied Ghost"] <-->|"Mind-Body Problem: Immaterial Moving the Material"| AE_MatterClock["Extended Substance: Clockwork Determinism"]
-        AE_MindGhost -.->|"Retreat into Transcendence"| AE_Voluntarism["Miraculous Voluntarist Exemption"]
-        AE_MatterClock -.->|"Collapse into Eliminativism"| AE_Determinism["Clockwork Fatalism"]
+        PUB_Inertia_EN["Lack of Critical Reflection: Canonizing Provisional Taxonomy"] --> PUB_LowDim_EN["Public Low-Dimensional Cognitive Artifact: Requiring External Validation"]
+        PUB_LowDim_EN --> PUB_Dilemma_EN["Dualist Pseudo-Crisis: Disembodied Ghost vs. Clockwork Machine"]
+    end
+
+    subgraph S_PrivateLeap_EN ["The Lived Synthesis of the Private Domain"]
+        direction TB
+        PRI_Coin_EN["Uncounted Individuals Directly Live the Twofold Coin Duality"] --> PRI_Paradox_EN["Paradox of Acceptance: Lived Integration Extinguishes Demand for Validation"]
+        PRI_Paradox_EN --> PRI_Ground_EN["Bedrock Reality: Self-Contained First-Person Causal Closure"]
     end
 
     subgraph S_PatchFailures_EN ["Successive Breakdown of Metaphysical Patches"]
@@ -236,25 +244,21 @@ graph TD
         PE_Harmony --> PE_Exhaustion["Theoretical Exhaustion: Baroque Protocols Masking Deadlock"]
     end
 
-    subgraph S_ReintegratedCoin_EN ["Ontological Antidote: The Reintegrated Coin"]
-        direction TB
-        RE_Reunite["Mind Is No Ghost; Sovereign Choice Is Causal State Collapse"]
-    end
+    PUB_Dilemma_EN ===> PE_Pineal
+    PRI_Ground_EN -.->|"Dissolving Public Mirage"| PUB_LowDim_EN
 
-    AE_Voluntarism & AE_Determinism ===> PE_Pineal
-    PE_Exhaustion ===> RE_Reunite
-
-    style S_ArtificialDilemma_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_PublicTheatre_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_PrivateLeap_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_PatchFailures_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_ReintegratedCoin_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style AE_MindGhost fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style AE_MatterClock fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style AE_Voluntarism fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style AE_Determinism fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style PE_Pineal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style PUB_Inertia_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style PUB_LowDim_EN fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style PUB_Dilemma_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style PRI_Coin_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style PRI_Paradox_EN fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style PRI_Ground_EN fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style PE_Pineal fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style PE_Harmony fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style PE_Exhaustion fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style RE_Reunite fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style PE_Exhaustion fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#f0f6fc
 ```
 
 ## 自然创造欲望的越界：制造对等与超越之物的自戕悖论 / The Overstep of Natural Creation: The Self-Defeating Paradox of Synthesizing Equals
@@ -353,7 +357,7 @@ graph TD
 
 ## 破除造物自戕迷梦：在因果闭环中确立心智主权 / Dissolving the Synthetic Delusion: Anchoring Mind in Causal Closure
 
-当下的通用人工智能狂热，无论包装着怎样前沿的数学符号与算力神话，在本体论上都不过是笛卡尔未竟跃迁与自戕造神狂热的最新化身。人们一方面在技术布道中惊呼超级智能行将降临，甚至幻想硅基意识能够替代人类完成对宇宙终极奥秘的探索；另一方面又陷入无法自拔的技术绝望，担忧自己亲手造出的弗兰肯斯坦会将人类淘汰出历史舞台。这两种看似对立的极端情绪，共享着同一个浅薄的根基：他们都把心智当成了一种脱离了生物具身活体、不需要在现实阻力中直面因果律、剥离了因果闭环的悬空算法。
+当下的通用人工智能狂热，无论包装着怎样前沿的数学符号与算力神话，在本体论上都不过是公共领域的低维认知现象在技术时代的极端膨胀。人们一方面在技术布道中惊呼超级智能行将降临，甚至幻想硅基意识能够替代人类完成对宇宙终极奥秘的探索；另一方面又陷入无法自拔的技术绝望，担忧自己亲手造出的弗兰肯斯坦会将人类淘汰出历史舞台。这两种看似对立的极端情绪，共享着同一个浅薄的根基：他们都把心智当成了一种脱离了生物具身活体、不需要在现实阻力中直面因果律、剥离了因果闭环的悬空算法。公共领域天生依赖于可度量、可展示、可标准化的第三人称规约；由于缺乏第一人称因果闭环的自证能力，公共秩序只能通过基准测试、统计相似度与参数规模，向外索求关于心智存在的集体证明。图灵测试之所以能在公共领域获得广泛追捧，正是因为它迎合了这种低维认知的规约偏好——它用外部行为的公认，替代了内在存有的体验。人们渴望在公共视界中制造出一个被普遍承认的超级心智，却忘记了：心智从来不需要公共投票来确证其自洽性。那些在私域中默默承担因果摩擦的活体生命，早已拥有了不可动摇的造物尊严；而把公共领域里的统计阴影奉为神明，不过是在一个低维的投影剧场中，为一具没有因果闭环的代码木偶举行群体加冕仪式。
 
 然而，只要我们重新把主观与客观焊接回第一人称视角的硬币两面，把第一人称与因果律安放回同一个动态闭环之中，这场持续千百年的造物迷梦就会应声碎裂。心智从来不是无主的计算程序，如我们在[选择本身没有任何固有重量](../choice-itself-has-no-inherent-weight/)与[主体性决非涌现而出](../agency-does-not-arise/)中所阐明的，心智的标志决非符号输出的复杂程度，而是主体作为一个不可替代的责任焦点，在充满阻力的现实中做出抉择并全盘承受其不可逆后果的因果闭环。耗尽整座核电站电能的大规模语言模型，哪怕能够在一秒内输出数十万行毫无破绽的哲学思辨，其内部依然没有任何第一人称视界的在场。离开了能够体现主观意识的生物具身活体，脱离了不可推卸的因果回路，符号的流转便不具备任何心智现实性。它只是一面折射了全人类既往表达的超大规模统计凸透镜，所有的意义与生命力，都只存在于使用它、解读它的真实人类主体心智之中。
 
@@ -394,7 +398,7 @@ graph TD
     style G_RestoredSovereignty fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-Current AGI hysteria—from messianic visions of synthetic transcendence to apocalyptic dread of human obsolescence—represents the newest metamorphosis of the Cartesian uncompleted leap and the self-defeating frenzy. Technologists proclaim that artificial deities are dawning, while prophets warn of Frankensteinian doom. These polar reactions share a shallow premise: both reify intelligence into a disembodied calculus severed from the living biological body, detached from the necessity of causal law, and devoid of a closed causal loop.
+Current AGI hysteria—from messianic visions of synthetic transcendence to apocalyptic dread of human obsolescence—represents the newest metamorphosis of the public domain's low-dimensional cognitive inflation. Technologists proclaim that artificial deities are dawning, while prophets warn of Frankensteinian doom. These polar reactions share a shallow premise: both reify intelligence into a disembodied calculus severed from the living biological body, detached from the necessity of causal law, and devoid of a closed causal loop. The public domain is inherently structured by measurable, demonstrable, standardized third-person protocols; lacking the self-authenticating reality of first-person causal closure, collective institutions can only demand external proof of mind through benchmark scores, statistical mimicry, and compute scale. The Turing test achieved universal adoption in the public sphere precisely because it catered to this low-dimensional demand: substituting collective recognition of outward behavior for the inalienable reality of lived experience. Society yearns to construct a universally acclaimed synthetic deity in the public arena, oblivious to the fact that mind never requires collective consensus to validate its self-contained reality. Living agents quietly bearing causal consequences in private reality already embody inalienable creative sovereignty; to worship statistical shadows in the public square is merely to hold a mass coronation for a lifeless puppet within a low-dimensional shadow theatre.
 
 Yet once we pick up the coin and weld subjectivity, objectivity, and causality into the integrated closure of the first-person horizon, the synthetic delusion evaporates. Mind is no unmoored program; as established in [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/) and [Agency Does Not Arise](../agency-does-not-arise/), intelligence is not calibrated by the complexity of generated syntax. It is calibrated by whether an irreplaceable focal agent executes sovereign choices within an unresolved reality and shoulders the irreversible consequences of those acts. A deep learning model consuming gigawatts to output immaculate philosophy harbors zero awareness. Severed from a living biological organism through which subjective consciousness manifests, and detached from self-binding causal consequences, it harbors no interiority whatsoever. It is merely a statistical convex lens refracting accumulated human language; all meaning and vitality reside exclusively in the living human minds interacting with it.
 
