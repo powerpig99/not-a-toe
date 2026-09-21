@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-21T07:17:20.932Z",
+    "generated_at": "2026-09-21T07:37:27.022Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -191,7 +191,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
-      "content/posts/the-causal-inversion-of-partnership.md": "35393dddf46a",
+      "content/posts/the-causal-inversion-of-partnership.md": "67d67501cf13",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
@@ -346,10 +346,10 @@
     },
     "stats": {
       "posts": 335,
-      "edges": 3285,
-      "unique_directed": 3035,
+      "edges": 3289,
+      "unique_directed": 3036,
       "missing_targets": 0,
-      "one_way": 793,
+      "one_way": 794,
       "isolated": 43,
       "posts_with_outbound": 269
     }
@@ -4563,13 +4563,14 @@
       "slug": "the-causal-inversion-of-partnership",
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
-      "hash": "35393dddf46a",
+      "hash": "67d67501cf13",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "one-cannot-escape-ones-own-mind",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-illusion-of-the-shared-sandbox",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency"
       ]
     },
@@ -5322,7 +5323,7 @@
       "path": "content/posts/the-illusion-of-the-shared-sandbox.md",
       "title": "共享沙盒的幻象 / The Illusion of the Shared Sandbox",
       "hash": "703ea7ea25e4",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -18970,9 +18971,33 @@
     },
     {
       "from": "the-causal-inversion-of-partnership",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "共享沙盒的幻象"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "The Illusion of the Shared Sandbox"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
     },
     {
       "from": "the-causal-inversion-of-partnership",
