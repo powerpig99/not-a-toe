@@ -542,6 +542,11 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `one-cannot-escape-ones-own-mind` | 17th-century celestial cartography & copperplate engraving on aged vellum with observant human iris focal point and radiant gold leaf coordinates |
 | `all-that-can-be-spoken-is-the-product-of-the-unspeakable` | Kinetic lumino-constructivist glass prism & orthogonal projection print with white-gold source beam refracting into electric cyan wave ripples, amber projection lines, and observant golden horizon origin |
 | `choice-itself-has-no-inherent-weight` | High-heat industrial sand casting & molten foundry stream on volcanic basalt with incandescent orange-gold iron pour and vaporized cold blueprint lines |
+| `the-causal-inversion-of-partnership` | Photoelastic stress interferometry & optical birefringence plate on polarized dark field with radiant isochromatic strain ribbons and shattered Cartesian wireframe |
+| `determinism-is-the-statistical-signature-of-micro-indeterminism` | Micro-indeterminism quantum lattice & statistical determinism macro projection |
+| `objects-are-stabilized-relationships` | Stabilized dynamic nodal interference patterns & reified object contours |
+| `coordinate-systems-mind-and-degrees-of-freedom` | Higher-dimensional orthogonal coordinate projection & autonomous observer degree of freedom |
+| `the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function` | Riemann zeta critical line harmonic wave interferometry & quantum zero-point fluctuations |
 
 ## Crowded — prefer not to extend
 
