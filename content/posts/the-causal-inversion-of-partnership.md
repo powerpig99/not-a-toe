@@ -1,10 +1,10 @@
 # 契约的因果倒置 / The Causal Inversion of Partnership
 
-*所谓共同关系的虚妄、主权责任的归位与选择离场的自由 / The Illusion of the Shared Bond, Sovereign Accountability, and the Freedom to Walk Away*
+*所谓共同实体的虚妄、心智对自身的镜像投射与选择离场的自由 / The Illusion of the Mutual Entity, the Mind's Mirror Projection, and the Freedom to Walk Away*
 
-社交网络中关于长久伴侣选择的讨论，正日益演变为一种充满企业采购色彩的指标展演。罗列明确的年龄区间、资产门槛、特定技术行业背景以及所谓的情绪成熟度与健康气质，并冠以非妥协标准的标签公之于众，随后在遭遇舆论审视时进行应激式的言语防卫。这种行为并非罕见的孤例，而是当代文化中广泛蔓延的认知缩影。当人们试图将建立深度人际契约的过程套入风险对冲与规格筛查的模型时，表面上展现出清醒与严谨，实则暴露出对生命关系底层因果机制的深层误解。公开张榜的伴侣采购清单与应激辩护，看似是对自身价值的高调确证，实则是第一人称自足匮乏的防御性代偿。将具有无限维度的具身生命主体降维折叠为低维参数表，不仅抹杀了人际交互中的自适应演化空间，更是将物化他者的逻辑反噬于自身。把合伙人机制等同于预购免检产品，颠倒了因果链条：真正的合伙是结伴面对未决性的协议，而非要求成品独角兽作为入场凭证。自身身处未决的混沌，却强求他者充当静态终局的免责支柱，这如同在同一次观测中妄想同时看见硬币的正反两面。所谓的共同关系本就是各自独立感知的投射，并不存在独立于个体的第三方实体需要去经营；唯有双方在大多数时刻将因果锚定于自身，协同的秩序才会自然涌现。而当分歧不再具有校准空间时，主权个体亦保有清醒离场的自由，以负责的姿态重新确立自己与真实世界的联结。
+社交网络中关于长久伴侣选择的讨论，正日益演变为一种充满企业采购色彩的指标展演。罗列明确的年龄区间、资产门槛、特定技术行业背景以及所谓的情绪成熟度与健康气质，并冠以非妥协标准的标签公之于众，随后在遭遇舆论审视时进行应激式的言语防卫。这种行为并非罕见的孤例，而是当代文化中广泛蔓延的认知缩影。当人们试图将建立深度人际契约的过程套入风险对冲与规格筛查的模型时，表面上展现出清醒与严谨，实则暴露出对生命关系底层因果机制的深层误解。公开张榜的伴侣采购清单与应激辩护，看似是对自身价值的高调确证，实则是第一人称自足匮乏的防御性代偿。将具有无限维度的具身生命主体降维折叠为低维参数表，不仅抹杀了人际交互中的自适应演化空间，更是将物化他者的逻辑反噬于自身。把合伙人机制等同于预购免检产品，颠倒了因果链条：真正的合伙是结伴面对未决性的协议，而非要求成品独角兽作为入场凭证。自身身处未决的混沌，却强求他者充当静态终局的免责支柱，这如同在同一次观测中妄想同时看见硬币的正反两面。所谓的共同关系本就是各自独立感知的投射，并不存在独立于个体的第三方实体需要去经营。更进一步地，一切向外延伸的关系，实质上皆是心智与自身的联结；所谓的心智之外，不过是心智自身感知向外投射的镜像，恰恰再次构成了同一枚硬币的正反两面。唯有双方在大多数时刻将因果锚定于自身，协同的秩序才会自然涌现。而当分歧不再具有校准空间时，主权个体亦保有清醒离场的自由，以负责的姿态重新确立自己与真实世界的联结。
 
-Discussions surrounding long-term partnership on social networks increasingly resemble enterprise procurement specifications. Individuals compile explicit age bands, wealth thresholds, elite technology sector credentials, and rigid behavioral criteria, broadcasting them as non-negotiable requirements before waging defensive skirmishes against public skepticism. Far from an isolated curiosity, this dynamic exemplifies a widespread contemporary mindset. When seekers attempt to package intimate human alliance within the grammar of risk hedging and specification auditing, an outward posture of pragmatic clarity conceals an epistemological misunderstanding of how living connections actually operate. A publicly broadcast partner checklist accompanied by combative defense may masquerade as confident self-worth, yet structurally signals the defensive over-assertion of an insecure observer. Collapsing an infinite-dimensional embodied agent into a low-dimensional parameter sheet erases the dynamic phase space of human interaction, while inexorably turning the logic of objectification against oneself. Conflating partnership with the procurement of a pre-certified asset inverts causality: genuine co-founding is an agreement to navigate mutual uncertainty, not the demand for a finished unicorn as an admission ticket. Experiencing one's own life as open-ended and unfinished while demanding a partner arrive as an immutable pillar of certainty is asking to observe both sides of the coin in a single measurement. The so-called shared relationship is an epistemic illusion, as every connection is strictly an individually perceived bond between oneself and the partner or reality. A resilient alliance only emerges when both agents anchor causality internally more often than not, while preserving the sovereign clarity to walk away cleanly when dynamic calibration no longer serves the truth of their encounter.
+Discussions surrounding long-term partnership on social networks increasingly resemble enterprise procurement specifications. Individuals compile explicit age bands, wealth thresholds, elite technology sector credentials, and rigid behavioral criteria, broadcasting them as non-negotiable requirements before waging defensive skirmishes against public skepticism. Far from an isolated curiosity, this dynamic exemplifies a widespread contemporary mindset. When seekers attempt to package intimate human alliance within the grammar of risk hedging and specification auditing, an outward posture of pragmatic clarity conceals an epistemological misunderstanding of how living connections actually operate. A publicly broadcast partner checklist accompanied by combative defense may masquerade as confident self-worth, yet structurally signals the defensive over-assertion of an insecure observer. Collapsing an infinite-dimensional embodied agent into a low-dimensional parameter sheet erases the dynamic phase space of human interaction, while inexorably turning the logic of objectification against oneself. Conflating partnership with the procurement of a pre-certified asset inverts causality: genuine co-founding is an agreement to navigate mutual uncertainty, not the demand for a finished unicorn as an admission ticket. Experiencing one's own life as open-ended and unfinished while demanding a partner arrive as an immutable pillar of certainty is asking to observe both sides of the coin in a single measurement. The so-called shared relationship is an epistemic illusion, as there is no autonomous third entity to manage. At the deepest level, all relationships are the relationship of the mind to itself: whatever appears external is the mind's own outward projection, forming a mirror image that constitutes, once again, the two sides of the same coin. A resilient alliance only emerges when both agents anchor causality internally more often than not, while preserving the sovereign clarity to walk away cleanly when dynamic calibration no longer serves the truth of their encounter.
 
 ## 公开展演与防御性信号：参数清单背后的确证匮乏 / Public Exhibition and Defensive Signaling: The Void of Validation Behind the Parametric Checklist
 
@@ -290,39 +290,41 @@ graph TD
     style VE_Resonance fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
 ```
 
-## 关系的独立主权：所谓共同实体的虚妄与选择离场的自由 / The Sovereignty of Relationship: The Illusion of the Mutual Entity and the Freedom to Walk Away
+## 关系的独立主权：心智与自身的镜像投射、硬币两面的重现与离场自由 / The Sovereignty of Relationship: The Mind's Mirror Projection, the Two Sides of the Coin Revisited, and the Freedom to Walk Away
 
-天助自助者，一切外援实质上都是错置的自助。在人际契约中等待一个救星来补足自身的虚弱，是在因果层面自我放弃主权的逃避。更深层的认知误区，在于人们习惯于将关系物化为一个独立于双方的第三实体，甚至企图去“经营共同关系”。然而，正如我们在[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)与[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中所剖析的，任何被感知的“共同关系”，终究是在各自的第一人称视界内部独立成像。世界上并不存在一个横亘在两人之间的公共实体等待修补；所有关系在结构上都是独立主权的——它始终是个体自身与伴侣、自身与世界的特定联结。
+天助自助者，一切外援实质上都是错置的自助。在人际契约中等待一个救星来补足自身的虚弱，是在因果层面自我放弃主权的逃避。更深层的认知误区，在于人们习惯于将关系物化为一个独立于双方的第三实体，甚至企图去“经营共同关系”。然而，正如我们在[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)与[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中所剖析的，任何被感知的“共同关系”，终究是在各自的第一人称视界内部独立成像。世界上并不存在一个横亘在两人之间的公共沙盒等待修补；所有关系在结构上都是独立主权的——它始终是个体自身与伴侣、自身与世界的特定联结。
 
-你永远无法跨越视界去直接操控对方的心智，更无法隔空修理一个虚幻的客体。个体所能做且唯一能做的，是在自身的因果闭环中做出更优的抉择，以不同的行动去改善自己与对方、自己与世界的关系。稳固而默契的联动态势，不是刻意求取的产物，而是一种宏观涌现：唯有当双方在大多数时刻都承担起自身的主权责任、将因果之锚定位于自身内部时，协调与共鸣才会自然发生。人际互动的挫败与怨怼，几乎无一例外源于感知心智将因果外包——将自身的匮乏、停滞与痛苦推脱给外部环境或指责对方未能履行契约。一旦将因果归因于外，心智便主动沦为等待外部施舍的被动受害者。
+若追溯至最源头的感知结构，一切关系实质上都是心智与自身的联结。正如在[切分的几何学](../the-geometry-of-the-cut/)中所确证的，心智无法跳出自身去感知一个与感知分离的客观之物；所谓心智之外的一切遭遇与显象，皆是心智自身感知流向外的投射。外在世界与所遇见的伴侣，并非独立于心智之外的孤立存在，而是心智自身状态向外投射的一面明镜。在这里，硬币两面的比喻再次显露出其深层同构：观测的主体与被观测的关系，恰恰是同一枚硬币不可分割的正反两面。当一个人对着清单上的指标焦虑、指责伴侣未能满足自己的安全感时，他实际上是在对着镜中自身的投影宣战，试图强行擦拭镜子来改变自己的容颜。你永远无法跨越视界去直接操控对方的心智，更无法隔空修理一个虚幻的客体。个体所能做且唯一能做的，是在自身的因果闭环中做出更优的抉择，以不同的行动去改善心智与自身的联结。
+
+稳固而默契的联动态势，不是刻意求取的产物，而是一种宏观涌现：唯有当双方在大多数时刻都承担起自身的主权责任、将因果之锚定位于自身内部时，协调与共鸣才会自然发生。人际互动的挫败与怨怼，几乎无一例外源于感知心智将因果外包——将自身的匮乏、停滞与痛苦推脱给镜中的投影，指责对方未能履行拯救自己的契约。一旦将因果归因于外，心智便在同一瞬间忘却了外部世界正是自身投射的反面，从而主动沦为等待外部施舍的被动受害者。
 
 将因果锚定于自身，并不意味着在死锁或损耗的困局中充当逆来顺受的殉道者。相反，完备的主权恰恰包含了清醒决断、选择离场的自由。当深度的认知差异或价值裂痕使得校准不再可能时，主权主体拥有自主选择终止契约并抽身离去的自由。这种离场不是怨天尤人的逃避，更不是将责任甩给对方的道德审判；它是心智在认清现实边界之后，为了维护自身与真实的自洽联结而作出的主动抉择。正如在[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)中所揭示的，真正的韧性建立在直接面对现实反馈的主体能动性之上。手持清单去索求免责的确定性，只会收获脆弱的幻象；唯有立足第一人称的自立、在大多数时刻自主承担行动后果，并在必要时拥有从容离场的勇气，个体才能在广阔的世界中展开生机勃勃的真实联结。
 
 ```mermaid
 graph TD
-    subgraph S_OutsourceTrap ["因果外包与虚妄实体的死锁"]
+    subgraph S_MirrorOutsource ["因果外包与镜像对立的死锁"]
         direction TB
-        O_Reify["将关系物化为脱离个体的第三实体"] --> O_Outsource["将因果外包并苛求对方消解自身匮乏"]
-        O_Outsource --> O_Blame["在遭遇摩擦时推卸责任并陷入道德指责"]
+        O_Reify["将关系物化为脱离个体的第三实体"] --> O_Projection["忘却外部世界为心智自身感知的镜像投影"]
+        O_Projection --> O_Blame["对抗镜中倒影并将因果外包给对方"]
         O_Blame --> O_Victim["沦为被动等待外部救赎的怨怼囚徒"]
     end
 
-    subgraph S_SovereignFreedom ["主权关系的因果锚定与离场自由"]
+    subgraph S_SelfReferential ["心智自指、因果锚定与离场自由"]
         direction TB
-        S_Anchor["将因果锚定于自身与世界的独立联结"] --> S_Action["以自主行动与更优抉择改善自身关系"]
+        S_Coin["洞悉观测者与感知镜像为硬币的两面"] --> S_Action["在自身闭环中做出更优抉择以调整与自我的联结"]
         S_Action --> S_Emergence["双方多数时刻持守主权从而自然涌现协同"]
         S_Emergence --> S_Freedom["校准受阻时清醒拥有自主离场的自由"]
     end
 
-    O_Victim ===> S_Anchor
+    O_Victim ===> S_Coin
 
-    style S_OutsourceTrap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_SovereignFreedom fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_MirrorOutsource fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_SelfReferential fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style O_Reify fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style O_Outsource fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style O_Projection fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style O_Blame fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style O_Victim fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_Anchor fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style S_Coin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style S_Action fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style S_Emergence fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style S_Freedom fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
@@ -330,35 +332,37 @@ graph TD
 
 God only helps those who help themselves: all external rescue is misallocated self-help. Awaiting a savior to compensate for internal deficits abdicates sovereign agency. A deeper confusion lies in the reification of relationship into an autonomous third entity hovering between partners, accompanied by the earnest urge to work on the shared bond. Yet as demonstrated in [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) and [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), whatever is experienced as a relationship is strictly an individually perceived phenomenon within each observer's first-person horizon. There is no external collective sandbox suspended between minds waiting to be repaired; every relationship is sovereign in structure—it is fundamentally the relationship of oneself to the partner, and of oneself to the rest of reality.
 
-An agent cannot leap outside their own horizon to directly manipulate another mind, nor repair a ghostly third object. The only lever within an individual's causal loop is to make better choices and act differently to improve one's own orientation toward the partner and the world. A resilient, harmonious dynamic is an unforced macroscopic emergence: it arises only when both participants assume personal sovereignty more often than not, keeping the anchor of causality internal. Relational collapses and chronic resentment stem almost invariably from externalizing causality—blaming the environment or accusing the partner of failing expectations. The moment causality is outsourced, the observer surrenders into passive victimhood, awaiting an external rescue that never arrives.
+Tracing experience to its primary perceptual architecture, all relationships are the relationship of the mind to itself. As confirmed in [The Geometry of the Cut](../the-geometry-of-the-cut/), an observer cannot step outside consciousness to encounter an isolated object divorced from perception; whatever appears external is the outward projection of the mind's own perceptual apparatus. The surrounding world and the encountered partner are not independent entities severed from the observer, but mirror images of the mind's own internal state. Here, the metaphor of the two-sided coin reveals its ultimate isomorphism: the observing subject and the perceived relationship are the inseparable front and back faces of the very same coin. When an individual agonizes over metric checklists or blames a partner for failing to provide emotional security, they are effectively fighting their own reflection in the mirror, attempting to wipe the glass to alter their own face. An agent cannot leap beyond their horizon to directly manipulate another consciousness, nor repair a phantom third object. The only operable lever is to make better choices and act differently within one's own causal loop, continuously refining the mind's relationship to itself.
+
+A resilient, harmonious dynamic is an unforced macroscopic emergence: it arises only when both participants assume personal sovereignty more often than not, keeping the anchor of causality internal. Relational collapses and chronic resentment stem almost invariably from externalizing causality—blaming the mirror projection and accusing the partner of failing expectations. The moment causality is outsourced, the mind forgets that the perceived counterpart is the reverse face of its own projection, surrendering agency into passive victimhood while awaiting an external rescue that never arrives.
 
 Anchoring causality internally does not prescribe stoic martyrdom within a toxic or deadlocked dynamic. On the contrary, genuine sovereignty includes the clean, uncompromised freedom to walk away. When irreconcilable divergences close the possibility of reciprocal calibration, a sovereign observer holds the freedom to terminate the contract and depart. Such departure is neither a petulant evasion nor an externalized moral trial; it is an active choice to align oneself with reality and self-coherence. As established in [The Dilution of the Causal Loop and the Misallocation of Agency](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/), systemic resilience rests upon embodied agents facing unvarnished feedback. Demanding pre-certified certainty from a checklist generates fragile illusions; only by grounding action in first-person accountability, holding causality internally more often than not, and preserving the courage to leave when necessary, can sovereign agents cultivate genuine aliveness within the world.
 
 ```mermaid
 graph TD
-    subgraph S_OutsourceTrap_EN ["The Outsourcing Trap of the Mutual Entity"]
+    subgraph S_MirrorOutsource_EN ["The Deadlock of Externalized Mirror Projections"]
         direction TB
-        OE_Reify["Reifying Relationship into an Autonomous Third Entity"] --> OE_Outsource["Outsourcing Causality and Demanding Partner Fix Deficits"]
-        OE_Outsource --> OE_Blame["Passing Responsibility and Harboring Resentful Blame"]
+        OE_Reify["Reifying Relationship into an Autonomous Third Entity"] --> OE_Projection["Forgetting Outside World is the Mind's Mirror Projection"]
+        OE_Projection --> OE_Blame["Fighting the Mirror Reflection and Outsourcing Blame"]
         OE_Blame --> OE_Victim["Entrapment as a Passive Victim Awaiting External Rescue"]
     end
 
-    subgraph S_SovereignFreedom_EN ["Sovereign Accountability and Freedom to Depart"]
+    subgraph S_SelfReferential_EN ["Self-Referential Clarity, Internal Causality & Exit Freedom"]
         direction TB
-        SE_Anchor["Anchoring Causality in One's Own Sovereign Relation to Reality"] --> SE_Action["Making Better Choices to Continually Tend One's Own Bond"]
+        SE_Coin["Recognizing Observer and Perceived Mirror as Two Faces of the Coin"] --> SE_Action["Making Better Choices to Continually Refine Relation to Self"]
         SE_Action --> SE_Emergence["Emergent Resonance When Both Bear Sovereignty Most of the Time"]
         SE_Emergence --> SE_Freedom["Preserving the Sovereign Freedom to Depart When Stalled"]
     end
 
-    OE_Victim ===> SE_Anchor
+    OE_Victim ===> SE_Coin
 
-    style S_OutsourceTrap_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_SovereignFreedom_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_MirrorOutsource_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_SelfReferential_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style OE_Reify fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style OE_Outsource fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style OE_Projection fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style OE_Blame fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style OE_Victim fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style SE_Anchor fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style SE_Coin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style SE_Action fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style SE_Emergence fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style SE_Freedom fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc

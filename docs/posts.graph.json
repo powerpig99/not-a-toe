@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-21T07:37:27.022Z",
+    "generated_at": "2026-09-21T07:40:36.265Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -191,7 +191,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
-      "content/posts/the-causal-inversion-of-partnership.md": "67d67501cf13",
+      "content/posts/the-causal-inversion-of-partnership.md": "b722a2819440",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
@@ -346,11 +346,11 @@
     },
     "stats": {
       "posts": 335,
-      "edges": 3289,
-      "unique_directed": 3036,
+      "edges": 3291,
+      "unique_directed": 3037,
       "missing_targets": 0,
-      "one_way": 794,
-      "isolated": 43,
+      "one_way": 795,
+      "isolated": 42,
       "posts_with_outbound": 269
     }
   },
@@ -548,7 +548,6 @@
     "the-defining-seat",
     "the-descent-that-doesnt-know-where-its-going",
     "the-geometry-of-coexistence-and-the-dual-cut",
-    "the-geometry-of-the-cut",
     "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
     "the-illusion-of-distance-and-the-dual-ruler",
     "the-interesting-case-of-rubin",
@@ -4563,14 +4562,15 @@
       "slug": "the-causal-inversion-of-partnership",
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
-      "hash": "67d67501cf13",
+      "hash": "b722a2819440",
       "in_degree": 4,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "one-cannot-escape-ones-own-mind",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-illusion-of-the-shared-sandbox",
+        "the-geometry-of-the-cut",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency"
       ]
     },
@@ -5173,7 +5173,7 @@
       "path": "content/posts/the-geometry-of-the-cut.md",
       "title": "切分的几何学 / The Geometry of the Cut",
       "hash": "608ef1152155",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 0,
       "links_out": []
     },
@@ -18983,6 +18983,12 @@
     },
     {
       "from": "the-causal-inversion-of-partnership",
+      "to": "the-geometry-of-the-cut",
+      "rel": "points_to",
+      "label": "切分的几何学"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "数字火箭、同行审查与因果闭环的稀释"
@@ -18998,6 +19004,12 @@
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "the-geometry-of-the-cut",
+      "rel": "points_to",
+      "label": "The Geometry of the Cut"
     },
     {
       "from": "the-causal-inversion-of-partnership",
