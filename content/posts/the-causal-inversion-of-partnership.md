@@ -1,10 +1,10 @@
 # 契约的因果倒置 / The Causal Inversion of Partnership
 
-*参数化客体、合伙人迷思与硬币两面的观测悖论 / Parametric Objectification, the Co-Founder Fallacy, and the Two-Sided Coin Paradox*
+*所谓共同关系的虚妄、主权责任的归位与选择离场的自由 / The Illusion of the Shared Bond, Sovereign Accountability, and the Freedom to Walk Away*
 
-社交网络中关于长久伴侣选择的讨论，正日益演变为一种充满企业采购色彩的指标展演。罗列明确的年龄区间、资产门槛、特定技术行业背景以及所谓的情绪成熟度与健康气质，并冠以非妥协标准的标签公之于众，随后在遭遇舆论审视时进行应激式的言语防卫。这种行为并非罕见的孤例，而是当代文化中广泛蔓延的认知缩影。当人们试图将建立深度人际契约的过程套入风险对冲与规格筛查的模型时，表面上展现出清醒与严谨，实则暴露出对生命关系底层因果机制的深层误解。公开张榜的伴侣采购清单与应激辩护，看似是对自身价值的高调确证，实则是第一人称自足匮乏的防御性代偿。将具有无限维度的具身生命主体降维折叠为低维参数表，不仅抹杀了人际交互中的自适应演化空间，更是将物化他者的逻辑反噬于自身。把合伙人机制等同于预购免检产品，颠倒了因果链条：真正的合伙是共同面对未决性的协议，而非要求成品独角兽作为入场凭证。自身身处未决的混沌，却强求他者充当静态终局的免责支柱，这如同在同一次观测中妄想同时看见硬币的正反两面。唯有破除外包确证的幻象，立足自身因果闭环的第一人称自立，两个主权个体才能在具身试错与双向校准中，共同构建出稳健协同的生命契约。
+社交网络中关于长久伴侣选择的讨论，正日益演变为一种充满企业采购色彩的指标展演。罗列明确的年龄区间、资产门槛、特定技术行业背景以及所谓的情绪成熟度与健康气质，并冠以非妥协标准的标签公之于众，随后在遭遇舆论审视时进行应激式的言语防卫。这种行为并非罕见的孤例，而是当代文化中广泛蔓延的认知缩影。当人们试图将建立深度人际契约的过程套入风险对冲与规格筛查的模型时，表面上展现出清醒与严谨，实则暴露出对生命关系底层因果机制的深层误解。公开张榜的伴侣采购清单与应激辩护，看似是对自身价值的高调确证，实则是第一人称自足匮乏的防御性代偿。将具有无限维度的具身生命主体降维折叠为低维参数表，不仅抹杀了人际交互中的自适应演化空间，更是将物化他者的逻辑反噬于自身。把合伙人机制等同于预购免检产品，颠倒了因果链条：真正的合伙是结伴面对未决性的协议，而非要求成品独角兽作为入场凭证。自身身处未决的混沌，却强求他者充当静态终局的免责支柱，这如同在同一次观测中妄想同时看见硬币的正反两面。所谓的共同关系本就是各自独立感知的投射，并不存在独立于个体的第三方实体需要去经营；唯有双方在大多数时刻将因果锚定于自身，协同的秩序才会自然涌现。而当分歧不再具有校准空间时，主权个体亦保有清醒离场的自由，以负责的姿态重新确立自己与真实世界的联结。
 
-Discussions surrounding long-term partnership on social networks increasingly resemble enterprise procurement specifications. Individuals compile explicit age bands, wealth thresholds, elite technology sector credentials, and rigid behavioral criteria, broadcasting them as non-negotiable requirements before waging defensive skirmishes against public skepticism. Far from an isolated curiosity, this dynamic exemplifies a widespread contemporary mindset. When seekers attempt to package intimate human alliance within the grammar of risk hedging and specification auditing, an outward posture of pragmatic clarity conceals an epistemological misunderstanding of how living connections actually operate. A publicly broadcast partner checklist accompanied by combative defense may masquerade as confident self-worth, yet structurally signals the defensive over-assertion of an insecure observer. Collapsing an infinite-dimensional embodied agent into a low-dimensional parameter sheet erases the dynamic phase space of human interaction, while inexorably turning the logic of objectification against oneself. Conflating partnership with the procurement of a pre-certified asset inverts causality: genuine co-founding is an agreement to navigate mutual uncertainty, not the demand for a finished unicorn as an admission ticket. Experiencing one's own life as open-ended and unfinished while demanding a partner arrive as an immutable pillar of certainty is asking to observe both sides of the coin in a single measurement. True alignment emerges only when sovereign individuals ground themselves in their own causal loops, calibrating mutual gradients through incremental friction rather than outsourcing rescue to a metric fantasy.
+Discussions surrounding long-term partnership on social networks increasingly resemble enterprise procurement specifications. Individuals compile explicit age bands, wealth thresholds, elite technology sector credentials, and rigid behavioral criteria, broadcasting them as non-negotiable requirements before waging defensive skirmishes against public skepticism. Far from an isolated curiosity, this dynamic exemplifies a widespread contemporary mindset. When seekers attempt to package intimate human alliance within the grammar of risk hedging and specification auditing, an outward posture of pragmatic clarity conceals an epistemological misunderstanding of how living connections actually operate. A publicly broadcast partner checklist accompanied by combative defense may masquerade as confident self-worth, yet structurally signals the defensive over-assertion of an insecure observer. Collapsing an infinite-dimensional embodied agent into a low-dimensional parameter sheet erases the dynamic phase space of human interaction, while inexorably turning the logic of objectification against oneself. Conflating partnership with the procurement of a pre-certified asset inverts causality: genuine co-founding is an agreement to navigate mutual uncertainty, not the demand for a finished unicorn as an admission ticket. Experiencing one's own life as open-ended and unfinished while demanding a partner arrive as an immutable pillar of certainty is asking to observe both sides of the coin in a single measurement. The so-called shared relationship is an epistemic illusion, as every connection is strictly an individually perceived bond between oneself and the partner or reality. A resilient alliance only emerges when both agents anchor causality internally more often than not, while preserving the sovereign clarity to walk away cleanly when dynamic calibration no longer serves the truth of their encounter.
 
 ## 公开展演与防御性信号：参数清单背后的确证匮乏 / Public Exhibition and Defensive Signaling: The Void of Validation Behind the Parametric Checklist
 
@@ -237,7 +237,7 @@ graph TD
 
     subgraph S_SymmetricView ["对等观测下的真实相逢"]
         direction TB
-        V_Accept["承认双方皆为有限且演化中的观测者"] --> V_Uncertain["接纳双人系统共同面对的现实未决性"]
+        V_Accept["承认双方皆为有限且演化中的观测者"] --> V_Uncertain["各自承担面对现实未决性的主权重量"]
         V_Uncertain --> V_Vulnerable["卸下单向索取确定性的防御伪装"]
         V_Vulnerable --> V_Resonance["在对等分担生活重量中达成真实共鸣"]
     end
@@ -271,7 +271,7 @@ graph TD
 
     subgraph S_SymmetricView_EN ["Symmetric Co-Observation of Sovereign Minds"]
         direction TB
-        VE_Accept["Acknowledging Both Parties as Finite Agents"] --> VE_Uncertain["Embracing Shared Uncertainty Without Illusions"]
+        VE_Accept["Acknowledging Both Parties as Finite Agents"] --> VE_Uncertain["Bearing One's Own Uncertainty with Sovereign Agency"]
         VE_Uncertain --> VE_Vulnerable["Relinquishing Demands for Unilateral Shielding"]
         VE_Vulnerable --> VE_Resonance["Forging Mutual Resonance Through Shared Reality"]
     end
@@ -290,72 +290,76 @@ graph TD
     style VE_Resonance fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
 ```
 
-## 从客体采购到主体共生：第一人称自足与微步协同 / From Parametric Procurement to Subjective Symbiosis: First-Person Sovereignty and Micro-Step Synergy
+## 关系的独立主权：所谓共同实体的虚妄与选择离场的自由 / The Sovereignty of Relationship: The Illusion of the Mutual Entity and the Freedom to Walk Away
 
-天助自助者，一切外援实质上都是错置的自助。试图在婚恋市场上等待一个全能的救星来补足自身的虚弱，是在人际契约中自我放弃主权因果力的表现。在[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)中我们指出，任何可靠的工程架构与系统安全，都依赖于直接参与现实反馈的具身主体；一旦把求证与维系的责任让渡给抽象共识，系统便不可避免地走向脆弱。
+天助自助者，一切外援实质上都是错置的自助。在人际契约中等待一个救星来补足自身的虚弱，是在因果层面自我放弃主权的逃避。更深层的认知误区，在于人们习惯于将关系物化为一个独立于双方的第三实体，甚至企图去“经营共同关系”。然而，正如我们在[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)与[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中所剖析的，任何被感知的“共同关系”，终究是在各自的第一人称视界内部独立成像。世界上并不存在一个横亘在两人之间的公共实体等待修补；所有关系在结构上都是独立主权的——它始终是个体自身与伴侣、自身与世界的特定联结。
 
-生命契约的稳固建立从来不是两套参数清单的机械拼接，而是两个具有第一人称自足能力的主权个体，在真实的交互网络中建立起相互适应的控制论闭环。如同梯度下降中的微步探针，真正的了解不是依靠纸面审查，而是在日常交往的细碎互动中持续获取未失真的误差反馈：在一次行程安排的摩擦中观察彼此的妥协意愿，在一次观点碰撞中检验彼此的沟通边界，在一次生活失误中体验彼此的担当态度。每一次微调都在为双方的协作网络提供确切的梯度校准。两个不再向外索求奇迹、不再把伴侣当成避风港的主体，以真实的自我相照面，在循序渐进的微调中共同收敛于坚不可摧的生命同盟。个人选择是每个个体的因果闭环中唯一的自由变量，而两个主权自由变量的双向奔赴与相互校准，构成了超越一切低维参数的生命契约。
+你永远无法跨越视界去直接操控对方的心智，更无法隔空修理一个虚幻的客体。个体所能做且唯一能做的，是在自身的因果闭环中做出更优的抉择，以不同的行动去改善自己与对方、自己与世界的关系。稳固而默契的联动态势，不是刻意求取的产物，而是一种宏观涌现：唯有当双方在大多数时刻都承担起自身的主权责任、将因果之锚定位于自身内部时，协调与共鸣才会自然发生。人际互动的挫败与怨怼，几乎无一例外源于感知心智将因果外包——将自身的匮乏、停滞与痛苦推脱给外部环境或指责对方未能履行契约。一旦将因果归因于外，心智便主动沦为等待外部施舍的被动受害者。
+
+将因果锚定于自身，并不意味着在死锁或损耗的困局中充当逆来顺受的殉道者。相反，完备的主权恰恰包含了清醒决断、选择离场的自由。当深度的认知差异或价值裂痕使得校准不再可能时，主权主体拥有自主选择终止契约并抽身离去的自由。这种离场不是怨天尤人的逃避，更不是将责任甩给对方的道德审判；它是心智在认清现实边界之后，为了维护自身与真实的自洽联结而作出的主动抉择。正如在[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)中所揭示的，真正的韧性建立在直接面对现实反馈的主体能动性之上。手持清单去索求免责的确定性，只会收获脆弱的幻象；唯有立足第一人称的自立、在大多数时刻自主承担行动后果，并在必要时拥有从容离场的勇气，个体才能在广阔的世界中展开生机勃勃的真实联结。
 
 ```mermaid
 graph TD
-    subgraph S_ProcureDeadlock ["客体采购式的虚妄僵局"]
+    subgraph S_OutsourceTrap ["因果外包与虚妄实体的死锁"]
         direction TB
-        M_Wait["手持参数清单在真空中被动筛选"] --> M_Fantasy["妄想依靠外部救星完成自身生命救赎"]
-        M_Fantasy --> M_Severance["规避具身日常摩擦与微步互动风险"]
-        M_Severance --> M_Isolation["深陷符号世界的理论自洽与现实孤立"]
+        O_Reify["将关系物化为脱离个体的第三实体"] --> O_Outsource["将因果外包并苛求对方消解自身匮乏"]
+        O_Outsource --> O_Blame["在遭遇摩擦时推卸责任并陷入道德指责"]
+        O_Blame --> O_Victim["沦为被动等待外部救赎的怨怼囚徒"]
     end
 
-    subgraph S_SymbiosisSynergy ["主权共生的网络协同"]
+    subgraph S_SovereignFreedom ["主权关系的因果锚定与离场自由"]
         direction TB
-        C_Ground["建立自身独立自足的第一人称因果闭环"] --> C_Probe["以真诚姿态开展低成本的微步真实互动"]
-        C_Probe --> C_Gradient["在现实摩擦中获取双向校准的误差信号"]
-        C_Gradient --> C_Convergence["在持续迭代中自下而上收敛至坚实契约"]
+        S_Anchor["将因果锚定于自身与世界的独立联结"] --> S_Action["以自主行动与更优抉择改善自身关系"]
+        S_Action --> S_Emergence["双方多数时刻持守主权从而自然涌现协同"]
+        S_Emergence --> S_Freedom["校准受阻时清醒拥有自主离场的自由"]
     end
 
-    M_Isolation ===> C_Ground
+    O_Victim ===> S_Anchor
 
-    style S_ProcureDeadlock fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_SymbiosisSynergy fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style M_Wait fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style M_Fantasy fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style M_Severance fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style M_Isolation fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style C_Ground fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style C_Probe fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style C_Gradient fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style C_Convergence fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style S_OutsourceTrap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_SovereignFreedom fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style O_Reify fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_Outsource fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style O_Blame fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Victim fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Anchor fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style S_Action fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style S_Emergence fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style S_Freedom fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
 ```
 
-God only helps those who help themselves: all external rescue is misallocated self-help. Waiting for an omnipotent savior to compensate for internal deficits abdicates causal agency. In [The Dilution of the Causal Loop and the Misallocation of Agency](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/), we noted that robust systems rely on agents maintaining direct contact with reality; delegating verification to abstract procedures invites systemic fragility.
+God only helps those who help themselves: all external rescue is misallocated self-help. Awaiting a savior to compensate for internal deficits abdicates sovereign agency. A deeper confusion lies in the reification of relationship into an autonomous third entity hovering between partners, accompanied by the earnest urge to work on the shared bond. Yet as demonstrated in [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) and [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), whatever is experienced as a relationship is strictly an individually perceived phenomenon within each observer's first-person horizon. There is no external collective sandbox suspended between minds waiting to be repaired; every relationship is sovereign in structure—it is fundamentally the relationship of oneself to the partner, and of oneself to the rest of reality.
 
-A lasting alliance is never the mechanical alignment of two metric catalogs. It is the convergence of two sovereign agents establishing a reciprocal feedback loop. Much like gradient descent using unforgeable signals from small probes, mutual understanding builds not through pre-screening but through unvarnished feedback from daily contact: observing how a minor travel mishap is resolved, examining boundaries during philosophical friction, and witnessing how accountability is assumed when plans derail. Each micro-interaction delivers clear gradients for recalibrating mutual dynamics. Two agents who abandon demands for an external rescue encounter each other as sovereign observers, converging through step-by-step calibration toward a resilient communion. Individual choice remains the only free variable within each agent's causal loop; the mutual alignment of two sovereign variables creates an alliance surpassing every parametric checklist.
+An agent cannot leap outside their own horizon to directly manipulate another mind, nor repair a ghostly third object. The only lever within an individual's causal loop is to make better choices and act differently to improve one's own orientation toward the partner and the world. A resilient, harmonious dynamic is an unforced macroscopic emergence: it arises only when both participants assume personal sovereignty more often than not, keeping the anchor of causality internal. Relational collapses and chronic resentment stem almost invariably from externalizing causality—blaming the environment or accusing the partner of failing expectations. The moment causality is outsourced, the observer surrenders into passive victimhood, awaiting an external rescue that never arrives.
+
+Anchoring causality internally does not prescribe stoic martyrdom within a toxic or deadlocked dynamic. On the contrary, genuine sovereignty includes the clean, uncompromised freedom to walk away. When irreconcilable divergences close the possibility of reciprocal calibration, a sovereign observer holds the freedom to terminate the contract and depart. Such departure is neither a petulant evasion nor an externalized moral trial; it is an active choice to align oneself with reality and self-coherence. As established in [The Dilution of the Causal Loop and the Misallocation of Agency](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/), systemic resilience rests upon embodied agents facing unvarnished feedback. Demanding pre-certified certainty from a checklist generates fragile illusions; only by grounding action in first-person accountability, holding causality internally more often than not, and preserving the courage to leave when necessary, can sovereign agents cultivate genuine aliveness within the world.
 
 ```mermaid
 graph TD
-    subgraph S_ProcureDeadlock_EN ["The Deadlock of Metric Procurement"]
+    subgraph S_OutsourceTrap_EN ["The Outsourcing Trap of the Mutual Entity"]
         direction TB
-        ME_Wait["Passive Screening Against Rigid Checklists"] --> ME_Fantasy["Awaiting an External Savior to Grant Security"]
-        ME_Fantasy --> ME_Severance["Evading Everyday Friction and Genuine Contact"]
-        ME_Severance --> ME_Isolation["Isolation Behind Synthetic Conceptual Shields"]
+        OE_Reify["Reifying Relationship into an Autonomous Third Entity"] --> OE_Outsource["Outsourcing Causality and Demanding Partner Fix Deficits"]
+        OE_Outsource --> OE_Blame["Passing Responsibility and Harboring Resentful Blame"]
+        OE_Blame --> OE_Victim["Entrapment as a Passive Victim Awaiting External Rescue"]
     end
 
-    subgraph S_SymbiosisSynergy_EN ["The Co-Evolution of Sovereign Symbiosis"]
+    subgraph S_SovereignFreedom_EN ["Sovereign Accountability and Freedom to Depart"]
         direction TB
-        CE_Ground["Grounded in Autonomous First-Person Causality"] --> CE_Probe["Initiating Low-Cost Incremental Micro-Probes"]
-        CE_Probe --> CE_Gradient["Gathering Unforgeable Signals from Daily Contact"]
-        CE_Gradient --> CE_Convergence["Iterative Convergence Toward Deep Dynamic Union"]
+        SE_Anchor["Anchoring Causality in One's Own Sovereign Relation to Reality"] --> SE_Action["Making Better Choices to Continually Tend One's Own Bond"]
+        SE_Action --> SE_Emergence["Emergent Resonance When Both Bear Sovereignty Most of the Time"]
+        SE_Emergence --> SE_Freedom["Preserving the Sovereign Freedom to Depart When Stalled"]
     end
 
-    ME_Isolation ===> CE_Ground
+    OE_Victim ===> SE_Anchor
 
-    style S_ProcureDeadlock_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_SymbiosisSynergy_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style ME_Wait fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style ME_Fantasy fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style ME_Severance fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style ME_Isolation fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style CE_Ground fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style CE_Probe fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style CE_Gradient fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style CE_Convergence fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style S_OutsourceTrap_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_SovereignFreedom_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style OE_Reify fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style OE_Outsource fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style OE_Blame fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style OE_Victim fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style SE_Anchor fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style SE_Action fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style SE_Emergence fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style SE_Freedom fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
 ```
