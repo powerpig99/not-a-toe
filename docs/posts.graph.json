@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-21T17:30:28.489Z",
+    "generated_at": "2026-09-21T19:56:57.353Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -191,7 +191,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
-      "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "cad1d1d872be",
+      "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "b0c09ba856ab",
       "content/posts/the-causal-inversion-of-partnership.md": "e91d44269102",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -208,7 +208,7 @@
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
-      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "bab1ec79b464",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "9daf1f5304b5",
       "content/posts/the-extendable-horizon.md": "16c6a9ecd2f7",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "e4617c1af0fb",
       "content/posts/the-fallacy-of-post-success-parenting.md": "cb2cd5c5ac3b",
@@ -259,6 +259,7 @@
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "3733c53cdbc6",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "854e6880413d",
       "content/posts/the-mirage-of-the-infinite-totality.md": "3b491a49b106",
+      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "30c89bdd15fd",
       "content/posts/the-mirror-handshake-of-power.md": "3fe1b6678749",
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
       "content/posts/the-model-never-becomes-a-second-edge.md": "6dec2cdef8ae",
@@ -293,7 +294,7 @@
       "content/posts/the-scaffolding-we-forget.md": "3fcc945ba028",
       "content/posts/the-scaling-loop.md": "deedfa49f780",
       "content/posts/the-shadow-and-the-infinite.md": "900802f5388b",
-      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "6603f8bd0c30",
+      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "4216d0e9136d",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
       "content/posts/the-sovereign-blinding.md": "888e3fbe6aee",
@@ -347,13 +348,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 337,
-      "edges": 3344,
-      "unique_directed": 3064,
+      "posts": 338,
+      "edges": 3364,
+      "unique_directed": 3074,
       "missing_targets": 0,
-      "one_way": 810,
+      "one_way": 814,
       "isolated": 42,
-      "posts_with_outbound": 272
+      "posts_with_outbound": 273
     }
   },
   "hubs_in": [
@@ -363,7 +364,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 69
+      "in_degree": 70
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -718,7 +719,7 @@
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现 / Agency Does Not Arise",
       "hash": "bcfcae395a7d",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 12,
       "links_out": [
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -1053,7 +1054,7 @@
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
       "hash": "a09e160a9ee7",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 7,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -3111,7 +3112,7 @@
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
       "hash": "5b88da1cccea",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 9,
       "links_out": [
         "subtracting-consciousness-at-the-source",
@@ -3215,7 +3216,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "5b3c9a6055a0",
-      "in_degree": 69,
+      "in_degree": 70,
       "out_degree": 43,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -4567,9 +4568,9 @@
       "slug": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "path": "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md",
       "title": "笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation",
-      "hash": "cad1d1d872be",
-      "in_degree": 2,
-      "out_degree": 9,
+      "hash": "b0c09ba856ab",
+      "in_degree": 3,
+      "out_degree": 10,
       "links_out": [
         "openness-is-consistency",
         "the-explanatory-trap-of-the-ordinary-perspective",
@@ -4579,7 +4580,8 @@
         "subtracting-consciousness-at-the-source",
         "intelligence-belongs-only-to-the-mind",
         "choice-itself-has-no-inherent-weight",
-        "agency-does-not-arise"
+        "agency-does-not-arise",
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation"
       ]
     },
     {
@@ -4885,13 +4887,14 @@
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
-      "hash": "bab1ec79b464",
-      "in_degree": 5,
-      "out_degree": 10,
+      "hash": "9daf1f5304b5",
+      "in_degree": 6,
+      "out_degree": 11,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-causal-inversion-of-partnership",
         "the-cartesian-overstep-and-the-frenzy-of-creation",
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "individual-choices-as-the-only-causal-levers",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -5783,6 +5786,25 @@
       "links_out": []
     },
     {
+      "id": "post:the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "kind": "post",
+      "slug": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "path": "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md",
+      "title": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation",
+      "hash": "30c89bdd15fd",
+      "in_degree": 3,
+      "out_degree": 7,
+      "links_out": [
+        "choice-itself-has-no-inherent-weight",
+        "agency-does-not-arise",
+        "the-explanatory-trap-of-the-ordinary-perspective",
+        "openness-is-consistency",
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "the-cartesian-overstep-and-the-frenzy-of-creation",
+        "one-cannot-escape-ones-own-mind"
+      ]
+    },
+    {
       "id": "post:the-mirror-handshake-of-power",
       "kind": "post",
       "slug": "the-mirror-handshake-of-power",
@@ -6579,9 +6601,9 @@
       "slug": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
-      "hash": "6603f8bd0c30",
-      "in_degree": 4,
-      "out_degree": 10,
+      "hash": "4216d0e9136d",
+      "in_degree": 5,
+      "out_degree": 11,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -6589,6 +6611,7 @@
         "ownership-and-self-worthiness",
         "demanding-a-toe-freezes-time-into-a-catalog",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-ladder-of-abstraction-and-the-executable-entity",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -19115,6 +19138,12 @@
     },
     {
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "to": "choice-itself-has-no-inherent-weight",
       "rel": "points_to",
       "label": "Choice Itself Has No Inherent Weight"
@@ -19124,6 +19153,12 @@
       "to": "agency-does-not-arise",
       "rel": "points_to",
       "label": "Agency Does Not Arise"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
     },
     {
       "from": "the-causal-inversion-of-partnership",
@@ -20123,6 +20158,12 @@
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
       "label": "确定性是微观不确定性的统计签名"
@@ -20138,6 +20179,12 @@
       "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "rel": "points_to",
       "label": "The Cartesian Overstep and the Frenzy of Creation"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
@@ -22304,6 +22351,90 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence belongs only to The Mind"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "选择本身没有任何固有重量"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性决非涌现而出"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "Agency Does Not Arise"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "普通人视角的解释陷阱"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the Ordinary Perspective"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "物理定律的移花接木与现实摩擦"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\" and the Friction of Reality"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "笛卡尔的认识论跃迁与造神狂热"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "The Cartesian Epistemic Leap and the Frenzy of Creation"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃脱的心智边界"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
     },
     {
       "from": "the-misallocation-of-agency",
@@ -24743,6 +24874,12 @@
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "the-ladder-of-abstraction-and-the-executable-entity",
       "rel": "points_to",
       "label": "抽象阶梯与可执行实体"
@@ -24758,6 +24895,12 @@
       "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "rel": "points_to",
       "label": "The Black-and-White Sample Frame and the Extrapolated Universe"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
