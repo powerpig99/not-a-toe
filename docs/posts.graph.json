@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-21T07:40:36.265Z",
+    "generated_at": "2026-09-21T07:43:24.734Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -191,7 +191,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
-      "content/posts/the-causal-inversion-of-partnership.md": "b722a2819440",
+      "content/posts/the-causal-inversion-of-partnership.md": "828df905c79c",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
@@ -346,10 +346,10 @@
     },
     "stats": {
       "posts": 335,
-      "edges": 3291,
-      "unique_directed": 3037,
+      "edges": 3293,
+      "unique_directed": 3038,
       "missing_targets": 0,
-      "one_way": 795,
+      "one_way": 796,
       "isolated": 42,
       "posts_with_outbound": 269
     }
@@ -4562,15 +4562,16 @@
       "slug": "the-causal-inversion-of-partnership",
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
-      "hash": "b722a2819440",
+      "hash": "828df905c79c",
       "in_degree": 4,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "one-cannot-escape-ones-own-mind",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-illusion-of-the-shared-sandbox",
         "the-geometry-of-the-cut",
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency"
       ]
     },
@@ -5441,7 +5442,7 @@
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
       "hash": "eff25bf26389",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 0,
       "links_out": []
     },
@@ -18989,6 +18990,12 @@
     },
     {
       "from": "the-causal-inversion-of-partnership",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "规程的倒置与因果回路的消声"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "数字火箭、同行审查与因果闭环的稀释"
@@ -19010,6 +19017,12 @@
       "to": "the-geometry-of-the-cut",
       "rel": "points_to",
       "label": "The Geometry of the Cut"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
     },
     {
       "from": "the-causal-inversion-of-partnership",
