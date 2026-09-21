@@ -110,7 +110,7 @@ graph TD
     style D3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-将制度这一宏观副产物误认作原初病因，试图仅凭几行代码来绕过它，必然导致灾难性的次生后果。它混淆了消极的无约束状态与积极的自律承重能力。现实中的未治理空间从来不是真空；当你在未消除个体责任外包的前提下贸然拆除显性的规约，权力并没有蒸发，它仅仅是从**显性、可问责且可申诉的状态**，蜕变为了**隐性、不对称且不透明的原始丛林法则**——立刻被那些拥有最大未经调谐杠杆的个体或算法节点所占领。
+将制度这一宏观副产物误认作原初病因，试图仅凭几行代码来绕过它，必然导致灾难性的次生后果。它混淆了消极的无约束状态与积极的自律承重能力。现实中的未治理空间从来不是真空；当你在未消除个体责任外包的前提下贸然拆除显性的规约，权力并没有蒸发，它仅仅是从**显性、可问责且可申诉的状态**，蜕变为了**隐性、不对称且不透明的原始丛林法则**——立刻被那些拥有最大未经调谐杠杆的个体或算法节点所占领。自由的侵蚀从来不是制度自上而下的掠夺，而是每一个体的心智在日常中逃避核验与试错的微观选择的统计凝结。正如在[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)中所揭示的，状态跃迁本身并不附带内在阻力；个体之所以幻想借助无中介的协议工具一步登天，恰恰是妄图规避渐进试错与微步校准的具身体验。这正是[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所剖析的因果法则：任务与计算可以移交，但承担现实摩擦的责任永远不可转让。
 
 Beneath Jack Dorsey’s public trajectory lies an elegant and pervasive mental model:
 
@@ -120,7 +120,7 @@ In this worldview, the friction inherent to human interaction—political contes
 
 This perspective misdiagnoses what institutions actually are. As established in [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) and [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/): **institutions are not arbitrary causal primitives imposed from above; they are the collective macroscopic symptoms of free individual choices where individuals externalize their own discernment, judgment, and risk.**
 
-The erosion of freedom does not originate from institutional decrees. Its causal genesis lies in the individual mind evading the pain of direct verification, the cognitive cost of mutual negotiation, and the operational risk of personal consequences. Institutions are the crystallized statistical residue of that ongoing abdication. When individuals refuse the arduous discipline of bearing their own outcomes, they delegate arbitration upward—and an institutional apparatus congeals to administer it.
+The erosion of freedom does not originate from institutional decrees. Its causal genesis lies in the individual mind evading the pain of direct verification, the cognitive cost of mutual negotiation, and the operational risk of personal consequences. Institutions are the crystallized statistical residue of that ongoing abdication. When individuals refuse the arduous discipline of bearing their own outcomes, they delegate arbitration upward—and an institutional apparatus congeals to administer it. As unmasked in [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/), the state transition itself carries zero intrinsic drag; individuals dream of leapfrogging friction via disintermediated protocols precisely because they wish to bypass the modest, daily discipline of gradual cybernetic trial and error. This traces the foundational law established in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/): computation and execution may be delegated to artifacts, but the sovereignty of bearing consequences remains strictly inalienable.
 
 Treating these collective symptoms as mere computational inefficiencies to be bypassed through code produces severe secondary failures. It conflates the absence of explicit boundaries with positive capacity. An unmanaged arena is never neutral. When explicit, contestable rules are dismantled without addressing the underlying delegation of responsibility, power does not vanish; it mutates from **formal and accountable** into **informal, asymmetric, and opaque**—immediately colonized by whichever nodes possess the greatest unmoderated leverage.
 
@@ -185,7 +185,7 @@ graph TD
 
 ### 3. Square 蜕变为 Block：自现实真实痛点撤退
 
-Square 是多西职业生涯中极具实践价值的商业创造。它的成立与崛起，源于直面并解决了**极其明确且具象的物理现实痛点**：通过一个小巧的音频插孔读卡器，让普通手工艺人、街头餐车小贩能够随时随地接受信用卡刷卡。这一阶段的创造根植于真实的物质世界，充满对生产实践的深刻共情，并切实消除了经济生活中的物理阻力。
+Square 是多西职业生涯中极具实践价值的商业创造。它的成立与崛起，源于直面并解决了**极其明确且具象的现实生活痛点**：通过一个小巧的音频插孔读卡器，让普通手工艺人、街头餐车小贩能够随时随地接受信用卡刷卡。这一阶段的创造根植于真实的物质世界，充满对生产实践的深刻共情，并切实消除了经济生活中的物理阻力。
 
 然而，在通过解决现实问题积累了海量资本与声誉之后，这家企业却开始调转方向，将精力投入到了**制造并追逐脱离现实摩擦的虚妄议题之中**。
 
