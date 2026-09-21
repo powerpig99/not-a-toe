@@ -74,16 +74,23 @@ Stored in the active conversation artifact directory, structured as:
      - WeChat Video Channels (微信视频号) (includes original post URL)
      - X (Twitter) (EN Only) (includes original post URL)
 
+### 5. Bidirectional Reverse Linking & Content Refinement (双向反向链接与语境织网)
+- **Dense Cognitive Lattice**: An essay is never an isolated leaf node. Identify key upstream and conceptually adjacent essays referenced by the new post.
+- **Backlink Integration**: Establish explicit reverse links from those prior essays back to the new post using the standard relative link format: `[<Title>](../<slug>/)`.
+- **Narrative Prose Refinement**: Do not merely append naked links; organically rewrite and deepen the surrounding narrative prose of the linked essays to weave in the new essay's conceptual advances, epistemological cuts, and distinctions.
+- **Invariant Adherence**: Modified linked essays must preserve strict bilingual symmetry (parallel updates in both Chinese and English sections) and pass all repository invariants (zero banned words, zero bulleted/numbered lists in prose, proper relative links).
+
 ---
 
 ## Standard Automated Audit & Build Pipeline
 
 Always execute the complete verification sequence before finalizing:
 1. `python3 scripts/audit-post.py <slug>` — Verifies all 9 authoring invariants (title/subtitle separation, banned words, latex, links, lists, mermaid dark theme & vertical flow, walkthrough, and companion prompts). Must return **CLEAN PASS**.
-2. `node build.mjs` — Compiles the static site into `public/`.
-3. `node scripts/project-posts-graph.mjs` — Re-projects lattice graph; ensures `missing_targets: 0`.
-4. `node scripts/project-local-graph.mjs` — Updates local workspace graph tracker.
-5. `git add ... && git commit -m "Publish Post #XXX: <Title>" && git push origin main`.
-6. `gh run watch --exit-status` — Verifies GitHub Actions deployment succeeds.
-7. `curl -sI https://powerpig99.github.io/not-a-toe/posts/<slug>/` — Confirms live HTTP 200.
-8. `node scripts/export-absolute-md.mjs <slug>` — Exports absolute markdown for Substack / X Article distribution.\n
+2. **Reverse Linking & Prose Refinement** — Establish backlinks and refine surrounding narrative prose in key referenced essays; verify modified essays pass repository invariants.
+3. `node build.mjs` — Compiles the static site into `public/`.
+4. `node scripts/project-posts-graph.mjs` — Re-projects lattice graph; ensures `missing_targets: 0`.
+5. `node scripts/project-local-graph.mjs` — Updates local workspace graph tracker.
+6. `git add ... && git commit -m "Publish Post #XXX: <Title>" && git push origin main`.
+7. `gh run watch --exit-status` — Verifies GitHub Actions deployment succeeds.
+8. `curl -sI https://powerpig99.github.io/not-a-toe/posts/<slug>/` — Confirms live HTTP 200.
+9. `node scripts/export-absolute-md.mjs <slug>` — Exports absolute markdown for Substack / X Article distribution.\n
