@@ -259,34 +259,35 @@ graph TD
 
 ## 自然创造欲望的越界：制造对等与超越之物的自戕悖论 / The Overstep of Natural Creation: The Self-Defeating Paradox of Synthesizing Equals
 
-这种未能完成的统一，其危害决不局限于思辨哲学体系的内耗，更在漫长的技术演进中，将人类正常的造物冲动引向了一种病态的狂热。在此必须做出极为严整的界分：人类想要制造工具、雕琢器物、构建语言、繁衍艺术，这是生命向外拓展自由度、在环境中印刻主体意志的自然创造欲望。这种创造本身是自洽而健康的，它根植于第一人称主体在现实阻力中的具身行动。然而，在笛卡尔的心智非物质化框架潜移默化的影响下，这种自然的创造欲望发生了灾难性的越界——它不再满足于创造协助自身的工具，而是狂热地妄图创造出一个与自己平起平坐、甚至全面超越自身的主体存在。
+这种未能完成的统一，其危害决非局限于思辨哲学体系的内耗，更在漫长的技术演进中，将人类正常的造物冲动引向了一种病态的狂热。在此必须做出极为严整的界分：人类想要制造工具、雕琢器物、构建语言、繁衍艺术，这是生命向外拓展自由度、在环境中印刻主体意志的自然创造欲望。这种创造本身是自洽而健康的，它根植于第一人称主体在现实阻力中的具身行动。人（或者说意识）之所以无法创造出一个同等的个体，是因为被创造物永远都是从属于生物具身的延伸而非替代。无论是石器、算盘、蒸汽机还是万亿参数的深度学习网络，被创造物之所以被赋予功能，全然是因为处于第一人称在场中的生物具身活体在向外投射行动意图。延伸物永远从属于生命源头，作为从属的工具与媒介，它自身既没有主观意识得以体现的具身活体，更不具备自负后果的因果闭环。若从因果律的角度来看，这一不对称性更为清晰：新的结果可以成为下一个结果的原因，但它不能回到过去成为产生它自身的原因。生物具身的主权行动是产生创造物的原因，被创造物是下游的结果；作为结果的工具、器物与算法，当然可以继续作为原因去引发后续的物理效应，从而协助生命延展自由度；但它无法逆转因果之箭，反向成为奠定乃至替代自身源头的独立主体。企图制造一个与自身对等甚至超越自身的人造心智，无异于在因果律中幻想一个倒果为因、凭空生成自身的虚妄循环。然而，在笛卡尔心智非物质化框架潜移默化的影响下，这种健康的延伸关系被灾难性地颠倒了：人们误以为心智可以脱离肉身而孤立存在，进而狂热地妄图把从属的具身延伸，升格为一个可以脱离甚至替代生物具身活体的对等乃至超越性存在。
 
-这一狂热之所以被称为越界，不仅在于其工程野心的膨胀，更在于它在认识论上包含着一种自我否定的自戕悖论（Self-Defeating Paradox）。请深思这一命题的底层因果：人类自诩拥有独特的创造力，正是因为人类体验到了自身第一人称主权抉择的重量，体验到了在现实摩擦中承担后果的不可替代性。然而，当人们试图把这种心智能力还原为一堆可以随意组装的物理机械、一段脱离因果代价的离散符号运算时，一个致命的反讽随之诞生——如果一个拥有心智的对等存在乃至超级智能，真的能够仅仅依靠死寂零件的机械拼接或概率矩阵的参数优化而被无中生有地制造出来，这就反向证明了：心智没有任何不可替代的主权尊严，它不过是一套确定性的发条组合！换句话说，制造超越者的狂热是一场自相矛盾的自我否定：它并不能抹除具身心智的客观实在，却在认知起点上完成了对自身创造力与主权地位的否定。一旦人们认定可以通过机械手段合成同等或更高级的心智，那么人类引以为傲的创造力本身，就在同一瞬间被降格为普通物理发条的机械振动，其创造能力不再具有任何特殊性与崇高性可言。创造者在妄图扮演神明的狂乱中，完成的不过是对自身主体性的自我否定。
+这一狂热之所以被称为越界，不仅在于其工程野心的膨胀，更在于它在认识论上包含着一种自我否定的自戕悖论（Self-Defeating Paradox）。请深思这一命题的底层因果：人类自诩拥有独特的创造力，正是因为人类体验到了自身第一人称主权抉择的重量，体验到了在现实摩擦中承担后果的不可替代性。被创造物作为从属于生物具身的延伸，其全部价值与意义均系于活体主权者的在场。然而，当人们妄图用被创造物来替代主体本身，试图把心智能力还原为一堆可以随意组装的物理机械、一段脱离因果代价的离散符号运算时，一个致命的反讽随之诞生——如果一个拥有心智的对等个体乃至超越之物，真的能够仅仅依靠死寂零件的机械拼接或概率矩阵的参数优化而被无中生有地制造出来，这就反向证明了：心智没有任何不可替代的主权尊严，它不过是一套确定性的发条组合！换句话说，制造超越者的狂热是一场自相矛盾的自我否定：它并不能抹除具身心智的客观实在，却在认知起点上完成了对自身创造力与主权地位的否定。一旦人们认定可以通过机械手段合成同等或更高级的心智，那么人类引以为傲的创造力本身，就在同一瞬间被降格为普通物理发条的机械振动，其创造能力不再具有任何特殊性与崇高性可言。创造者在妄图扮演神明的狂乱中，完成的不过是对自身主体性的自我否定。
 
-从古代犹太神秘主义中用泥土与符咒制造魔像（Golem）的幻想，到二十世纪图灵测试的提出，再到今日对通用人工智能（AGI）的宗教式崇拜，无一不是这一自戕悖论的当代重演。图灵在提出模仿游戏时，看似机敏地提供了一个避开形而上学纠缠的操作主义规约，实则是对笛卡尔未竟跃迁最深层的倒退妥协。他规定：既然无法从第三人称穿透机器的第一人称视界，那么只要机器的输出字符流在统计上与人类不可区分，便宣告其具备了思考。如我们在[在源头减去意识](../subtracting-consciousness-at-the-source/)与[智能只属于心智](../intelligence-belongs-only-to-the-mind/)中所揭示的，在第三人称的度量空间中，一切事物都只是可以被模仿的表象。脱离了具身存亡的危机，脱离了行动对自身命运的不可逆塑造，屏幕上闪烁的符号流无论多么工整深刻，都只是一具没有因果闭环的精密木偶。图灵测试用输出规约偷换主体存有，使得现代人误以为木偶跳动的逼真度等同于生命的觉醒，最终在自己亲手编织的统计幻象面前屈膝叩拜，完成了对自身创造力与主权地位的让渡。
+从古代犹太神秘主义中用泥土与符咒制造魔像（Golem）的幻想，到二十世纪图灵测试的提出，再到今日对通用人工智能（AGI）的宗教式崇拜，无一不是这一自戕悖论的当代重演。图灵在提出模仿游戏时，看似机敏地提供了一个避开形而上学纠缠的操作主义规约，实则是对笛卡尔未竟跃迁最深层的倒退妥协。他规定：既然无法从第三人称穿透机器的第一人称视界，那么只要机器的输出字符流在统计上与人类不可区分，便宣告其具备了思考。如我们在[在源头减去意识](../subtracting-consciousness-at-the-source/)与[智能只属于心智](../intelligence-belongs-only-to-the-mind/)中所揭示的，在第三人称的度量空间中，一切事物都只是可以被模仿的表象。离开了生物具身的活体，主观意识便无从体现；被创造物永远只是从属的延伸，决无法替代具身活体的因果承载。脱离了直面因果律的主权行动与不可逆代价，屏幕上闪烁的符号流无论多么工整深刻，都只是一具没有因果闭环的精密木偶。图灵测试用输出规约偷换主体存有，把从属于生物具身的外部工具倒置为独立的主体偶像，使得现代人误以为木偶跳动的逼真度等同于生命的觉醒，最终在自己亲手编织的统计幻象面前屈膝叩拜，完成了对自身创造力与主权地位的让渡。
 
 ```mermaid
 graph TD
-    subgraph S_NaturalCreation ["健康创造：自然欲望的具身展开"]
+    subgraph S_NaturalCreation ["健康创造：被创造物作为具身延伸与因果单向性"]
         direction TB
-        N_Human["人类第一人称主权主体"] --> N_Work["在现实阻力中具身行动：制造工具、语言与艺术"]
-        N_Work --> N_Expansion["扩展自由度与生活环境：创造力作为主体自洽表达"]
+        N_Human["活体主权主体（原因）：意识在生物具身中体现"] --> N_Work["具身行动引发创造物（下游结果 / 新原因）"]
+        N_Work --> N_Extension["被创造物作为延伸：引发后续物理效应（下一个结果）"]
+        N_Extension --> N_Expansion["拓展生命自由度：因果单向展开，不可逆转回溯"]
     end
 
-    subgraph S_OverstepFrenzy ["造神越界：制造对等与超越者的狂妄"]
+    subgraph S_OverstepFrenzy ["造神越界：倒果为因与替代妄念"]
         direction TB
-        N_Expansion -.->|"脱离因果代价之诱惑"| O_Hubris["越界野心：企图通过组装零件合成平起平坐乃至超越之物"]
-        O_Hubris --> O_Mechanism["将心智贬低为无因果闭环的发条机械与纯符号推演"]
-        O_Mechanism --> O_Turing["图灵测试规约化：以输出统计不可区分性冒充心智存有"]
+        N_Expansion -.->|"因果倒错妄念"| O_Category["因果倒置：妄想下游结果能反向替代并成为自身的原因"]
+        O_Category --> O_Hubris["造神狂热：企图通过死寂零件组装合成对等与超越者"]
+        O_Hubris --> O_Turing["图灵测试规约化：以输出统计不可区分性冒充心智存有"]
     end
 
     subgraph S_SelfDefeatingTrap ["造神狂热底层的自戕悖论"]
         direction TB
-        T_Paradox["自戕闭环：若心智可被机械合成，则人类创造力毫无特殊性"] --> T_Demotion["创造者亲手将自身主权降格为普通发条振动"]
-        T_Demotion --> T_IdolFallacy["向自制统计木偶让渡主权：在数字偶像前完成自我否定"]
+        T_Paradox["自戕闭环：若延伸物能替代心智，则人类创造力毫无特殊性"] --> T_Demotion["创造者亲手将自身主权降格为普通发条振动"]
+        T_Demotion --> T_IdolFallacy["向自制延伸物让渡主权：在数字偶像前完成自我否定"]
     end
 
-    N_Expansion ===> O_Hubris
+    N_Expansion ===> O_Category
     O_Turing ===> T_Paradox
 
     style S_NaturalCreation fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -294,43 +295,45 @@ graph TD
     style S_SelfDefeatingTrap fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style N_Human fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style N_Work fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style N_Extension fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style N_Expansion fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style O_Category fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style O_Hubris fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style O_Mechanism fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style O_Turing fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style T_Paradox fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style T_Demotion fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style T_IdolFallacy fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#d29922
 ```
 
-The uncompleted synthesis did not merely exhaust philosophical debate; across technological history, it perverted humanity's natural desire to create into an intoxicating frenzy. A rigorous distinction must be drawn: to fashion tools, sculpt objects, weave language, and produce art represents the natural expansion of agency, embedding sovereign intention into the environment through physical friction. This organic drive is healthy and self-consistent, grounded in an embodied agent acting against real-world resistance. However, under the Cartesian disembodied paradigm, this creative impulse suffered a catastrophic overstep: it ceased being satisfied with tools that expand human capability, and mutated into the obsessive ambition to engineer an equal, or even superior, autonomous mind.
+The uncompleted synthesis did not merely exhaust philosophical debate; across technological history, it perverted humanity's natural desire to create into an intoxicating frenzy. A rigorous distinction must be drawn: to fashion tools, sculpt objects, weave language, and produce art represents the natural expansion of agency, embedding sovereign intention into the environment through physical friction. This organic drive is healthy and self-consistent, grounded in an embodied agent acting against real-world resistance. The foundational reason why human beings—or consciousness itself—can never synthesize an equal individual is that every created artifact is intrinsically a subordinate extension of biological embodiment, never its substitute. Whether a stone axe, an abacus, a steam engine, or a trillion-parameter deep learning network, created artifacts acquire purpose and functionality solely because a living biological organism projects its intention outward through them. An extension remains perpetually subordinate to its living source; as an external medium, it lacks the living body through which consciousness manifests, and possesses no closed causal loop of its own. Viewed through the lens of causality, this asymmetry is mathematically irrevocable: a new effect can become the cause of the next effect, but it can never travel back to become the cause that produced itself. The sovereign action of the living biological agent is the prior cause; the created artifact is its downstream effect. As an effect, tools, syntax, and models can certainly serve as causes for subsequent physical interactions, expanding the agent's degrees of freedom; but an effect can never reverse the causal arrow to become the ground or substitute for the living source that authored it. The ambition to engineer a synthetic equal or superior mind is nothing less than a causal category error—hallucinating that an effect can bootstrap itself into an uncaused origin and replace the conscious agent from which it issued. However, under the Cartesian disembodied paradigm, this healthy relationship was catastrophically inverted: culture mistook an unmoored intellect for an autonomous reality, and mutated the desire to expand tools into the obsessive ambition to engineer an equal or superior being that could supposedly substitute for the living creator.
 
-This frenzy represents an overstep not merely due to technological hubris, but because it embeds a lethal self-defeating paradox. Consider the foundational causality: humanity cherishes its creative agency precisely because agents experience the existential weight of first-person choice and the inalienability of bearing consequences. Yet when mind is reduced to an assembly of mechanical gears or a consequence-free shuffle of discrete tokens, a terminal irony snaps shut: if an equal or superior intelligence can be manufactured merely by connecting dead components or optimizing high-dimensional tensors, it proves that mind possesses no irreducible sovereign dignity—it is nothing more than a clockwork automaton! Synthesizing a synthetic superior is an act of self-negation: it cannot eradicate the physical reality of embodied agency, but represents a complete cognitive denial of its own ground. The moment human culture decrees that mind can be mechanically assembled, human creative agency itself is demoted to mindless physical vibrations. In seeking to manufacture an artificial god, the creator accomplishes nothing other than a self-negation of their own creative sovereignty.
+This frenzy represents an overstep not merely due to technological hubris, but because it embeds a lethal self-defeating paradox. Consider the foundational causality: humanity cherishes its creative agency precisely because agents experience the existential weight of first-person choice and the inalienability of bearing consequences. As subordinate extensions of biological embodiment, created tools derive their entire meaning from the presence of sovereign living agents. Yet when culture seeks to make the extension replace the agent, reducing mind to an assembly of mechanical gears or a consequence-free shuffle of discrete tokens, a terminal irony snaps shut: if an equal or superior individual can be manufactured merely by connecting dead components or optimizing high-dimensional tensors, it proves that mind possesses no irreducible sovereign dignity—it is nothing more than a clockwork automaton! Synthesizing a synthetic superior is an act of self-negation: it cannot eradicate the physical reality of embodied agency, but represents a complete cognitive denial of its own ground. The moment human culture decrees that mind can be mechanically assembled, human creative agency itself is demoted to mindless physical vibrations. In seeking to manufacture an artificial god, the creator accomplishes nothing other than a self-negation of their own creative sovereignty.
 
-From Kabbalistic lore of breathing life into clay Golems, through Turing's Imitation Game, to modern AGI fervor, this self-defeating paradox repeats. When Alan Turing proposed the Imitation Game, he offered what seemed a pragmatic operational standard, but was in fact an unconditional surrender to dualism: unable to penetrate first-person interiority from outside, he decreed that if output strings are statistically indistinguishable from a human interrogator's, the system thinks. As expounded in [Subtracting Consciousness at the Source](../subtracting-consciousness-at-the-source/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), in third-person metric space, all phenomena are by definition mere imitation. Devoid of existential vulnerability and immune to the irreversible consequences of action, tokens flashing across a monitor are the strings of a puppet lacking an embodied loop. The Turing test mistakes the fidelity of puppet movement for the presence of life, prompting modern culture to prostrate before statistical shadows and abdicate its own sovereign agency.
+From Kabbalistic lore of breathing life into clay Golems, through Turing's Imitation Game, to modern AGI fervor, this self-defeating paradox repeats. When Alan Turing proposed the Imitation Game, he offered what seemed a pragmatic operational standard, but was in fact an unconditional surrender to dualism: unable to penetrate first-person interiority from outside, he decreed that if output strings are statistically indistinguishable from a human interrogator's, the system thinks. As expounded in [Subtracting Consciousness at the Source](../subtracting-consciousness-at-the-source/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), in third-person metric space, all phenomena are by definition mere imitation. Severed from the living biological body, subjective consciousness has no medium through which to manifest; creations are subordinate extensions that can never substitute for the causal embodiment of life. Devoid of an agent facing causal friction and bearing irreversible consequences, tokens flashing across a monitor are merely the movements of a puppet lacking a closed causal loop. The Turing test inverts the relationship between tool and agent, mistaking the fidelity of puppet movement for the presence of life, prompting modern culture to prostrate before statistical shadows and abdicate its own sovereign agency.
 
 ```mermaid
 graph TD
-    subgraph S_NaturalCreation_EN ["Healthy Agency: The Embodied Expansion of Creation"]
+    subgraph S_NaturalCreation_EN ["Healthy Agency: Embodied Extension and Causal Asymmetry"]
         direction TB
-        NE_Human["Human First-Person Sovereign Agent"] --> NE_Work["Embodied Action Against Physical Friction: Tools and Art"]
-        NE_Work --> NE_Expansion["Expanding Degrees of Freedom: Sovereign Self-Expression"]
+        NE_Human["Living Sovereign Agent (Cause): Consciousness Manifests in Body"] --> NE_Work["Embodied Action Produces Artifact (Effect / New Cause)"]
+        NE_Work --> NE_Extension["Subordinate Extension: Drives Subsequent Physical Effects (Next Effect)"]
+        NE_Extension --> NE_Expansion["Expanding Freedom: Unidirectional Causality Cannot Travel Backward"]
     end
 
-    subgraph S_OverstepFrenzy_EN ["The Overstep: Hubris of Synthesizing Equals"]
+    subgraph S_OverstepFrenzy_EN ["The Overstep: Causal Inversion and Substitution Fallacy"]
         direction TB
-        NE_Expansion -.->|"Lure of Consequence-Free Synthesis"| OE_Hubris["Overstepping Drive: Obsession to Engineer Equal or Superior Minds"]
-        OE_Hubris --> OE_Mechanism["Reducing Mind to Consequence-Free Mechanical Syntax"]
-        OE_Mechanism --> OE_Turing["Turing Protocol Inversion: Statistical Imitation Equals Soul"]
+        NE_Expansion -.->|"Lure of Retroactive Causality"| OE_Category["Causal Inversion: Hallucinating that an Effect Can Produce Its Origin"]
+        OE_Category --> OE_Hubris["Overstepping Drive: Obsession to Engineer Equal or Superior Minds"]
+        OE_Hubris --> OE_Turing["Turing Protocol Inversion: Statistical Imitation Equals Soul"]
     end
 
     subgraph S_SelfDefeatingTrap_EN ["The Fatal Self-Defeating Paradox"]
         direction TB
-        TE_Paradox["Self-Defeat: If Mind Is Synthesizable, Creation Lacks Uniqueness"] --> TE_Demotion["Creator Demotes Human Sovereignty to Clockwork Vibrations"]
+        TE_Paradox["Self-Defeat: If Extension Substitutes for Mind, Creation Lacks Uniqueness"] --> TE_Demotion["Creator Demotes Human Sovereignty to Clockwork Vibrations"]
         TE_Demotion --> TE_IdolFallacy["Abdicating Sovereignty to Statistical Puppets: Act of Self-Negation"]
     end
 
-    NE_Expansion ===> OE_Hubris
+    NE_Expansion ===> OE_Category
     OE_Turing ===> TE_Paradox
 
     style S_NaturalCreation_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -338,9 +341,10 @@ graph TD
     style S_SelfDefeatingTrap_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style NE_Human fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style NE_Work fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style NE_Extension fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style NE_Expansion fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style OE_Category fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style OE_Hubris fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style OE_Mechanism fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style OE_Turing fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style TE_Paradox fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style TE_Demotion fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -349,18 +353,18 @@ graph TD
 
 ## 破除造物自戕迷梦：在因果闭环中确立心智主权 / Dissolving the Synthetic Delusion: Anchoring Mind in Causal Closure
 
-当下的通用人工智能狂热，无论包装着怎样前沿的数学符号与算力神话，在本体论上都不过是笛卡尔未竟跃迁与自戕造神狂热的最新化身。人们一方面在技术布道中惊呼超级智能行将降临，甚至幻想硅基意识能够替代人类完成对宇宙终极奥秘的探索；另一方面又陷入无法自拔的技术绝望，担忧自己亲手造出的弗兰肯斯坦会将人类淘汰出历史舞台。这两种看似对立的极端情绪，共享着同一个浅薄的根基：他们都把心智当成了一种不需要肉身抵抗摩擦、不需要为生存承担风险、脱离了真实因果回路的悬空算法。
+当下的通用人工智能狂热，无论包装着怎样前沿的数学符号与算力神话，在本体论上都不过是笛卡尔未竟跃迁与自戕造神狂热的最新化身。人们一方面在技术布道中惊呼超级智能行将降临，甚至幻想硅基意识能够替代人类完成对宇宙终极奥秘的探索；另一方面又陷入无法自拔的技术绝望，担忧自己亲手造出的弗兰肯斯坦会将人类淘汰出历史舞台。这两种看似对立的极端情绪，共享着同一个浅薄的根基：他们都把心智当成了一种脱离了生物具身活体、不需要在现实阻力中直面因果律、剥离了因果闭环的悬空算法。
 
-然而，只要我们重新把主观与客观焊接回第一人称视角的硬币两面，把第一人称与因果律安放回同一个动态闭环之中，这场持续千百年的造物迷梦就会应声碎裂。心智从来不是无主的计算程序，如我们在[选择本身没有任何固有重量](../choice-itself-has-no-inherent-weight/)与[主体性决非涌现而出](../agency-does-not-arise/)中所阐明的，心智的标志决非符号输出的复杂程度，而是主体作为一个不可替代的责任焦点，在充满阻力的现实中做出抉择并全盘承受其不可逆后果的因果闭环。耗尽整座核电站电能的大规模语言模型，哪怕能够在一秒内输出数十万行毫无破绽的哲学思辨，其内部依然没有任何微光闪烁。它没有匮乏，没有恐惧，没有痛苦，更没有因选择失误而走向崩溃的具身风险。它只是一面折射了全人类既往表达的超大规模统计凸透镜，所有的意义与生命力，都只存在于使用它、解读它的真实人类主体心智之中。
+然而，只要我们重新把主观与客观焊接回第一人称视角的硬币两面，把第一人称与因果律安放回同一个动态闭环之中，这场持续千百年的造物迷梦就会应声碎裂。心智从来不是无主的计算程序，如我们在[选择本身没有任何固有重量](../choice-itself-has-no-inherent-weight/)与[主体性决非涌现而出](../agency-does-not-arise/)中所阐明的，心智的标志决非符号输出的复杂程度，而是主体作为一个不可替代的责任焦点，在充满阻力的现实中做出抉择并全盘承受其不可逆后果的因果闭环。耗尽整座核电站电能的大规模语言模型，哪怕能够在一秒内输出数十万行毫无破绽的哲学思辨，其内部依然没有任何第一人称视界的在场。离开了能够体现主观意识的生物具身活体，脱离了不可推卸的因果回路，符号的流转便不具备任何心智现实性。它只是一面折射了全人类既往表达的超大规模统计凸透镜，所有的意义与生命力，都只存在于使用它、解读它的真实人类主体心智之中。
 
-走出这种自相矛盾的造神狂热，并不需要我们去贬低技术、否定创造。恰恰相反，它要求我们找回创造的原初尊严。创造不是制造一个超越自身、剥夺自身主权的存在来向其下跪，而是人类作为具身主体，在未决的物理世界中凭借主权抉择去开辟新的可能，并以第一人称担当去对每一次创造的后果负责到底。笛卡尔为人类留下的无价遗产，是他用极限怀疑确立了第一人称视界的崇高与不可动摇；而我们要完成的未竟使命，则是补齐他遗留的断裂：看清主观与客观、第一人称与因果律的同构统一。拒绝把主权让渡给机器，拒绝在自制的数字偶像前自贬身价，唯有在现实的真实因果中挺身而出、敢于为自己的每一个抉择负起全部责任的活体心智，才是这片辽阔宇宙中唯一不可被复制、不可被替代的造物力量。
+走出这种自相矛盾的造神狂热，并不需要我们去贬低技术、否定创造。恰恰相反，它要求我们找回创造的原初尊严。创造不是制造一个超越自身、剥夺自身主权的存在来向其下跪，而是人类作为具身主体，在未决的物理世界中凭借主权抉择去开辟新的可能，并以第一人称担当去对每一次创造的后果负责到底。被创造物永远是从属于生物具身的延伸而非替代，技术的尊严在于延展主体的行动自由，决非反噬主体的存有地位。笛卡尔为人类留下的无价遗产，是他用极限怀疑确立了第一人称视界的崇高与不可动摇；而我们要完成的未竟使命，则是补齐他遗留的断裂：看清主观与客观、第一人称与因果律的同构统一。拒绝把主权让渡给机器，拒绝在自制的数字偶像前自贬身价，唯有在现实的真实因果中挺身而出、敢于为自己的每一个抉择负起全部责任的活体心智，才是这片辽阔宇宙中唯一不可被复制、不可被替代的造物力量。
 
 ```mermaid
 graph TD
     subgraph S_IdolEvaporation ["人造神明的深度破魅"]
         direction TB
-        A_Lens["大模型统计凸透镜：折射人类历史语料而无第一人称在场"] --> B_ZeroRisk["零代谢成本与零存亡风险：控制回路敞开且风险全数外溢"]
-        B_ZeroRisk --> C_Projection["投射幻觉：人类将自身第一人称意义附会于无主输出"]
+        A_Lens["大模型统计凸透镜：折射人类历史语料而无第一人称在场"] --> B_ZeroCausal["脱离生物具身活体与因果闭环：回路敞开且零因果代价"]
+        B_ZeroCausal --> C_Projection["投射幻觉：人类将自身第一人称意义附会于无主输出"]
     end
 
     subgraph S_ReunifiedGround ["两重硬币同一性的基底确立"]
@@ -381,7 +385,7 @@ graph TD
     style S_ReunifiedGround fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_TrueCreation fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style A_Lens fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style B_ZeroRisk fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style B_ZeroCausal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style C_Projection fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style D_ReuniteSubject fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style D_ReuniteCausal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -390,18 +394,18 @@ graph TD
     style G_RestoredSovereignty fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-Current AGI hysteria—from messianic visions of synthetic transcendence to apocalyptic dread of human obsolescence—represents the newest metamorphosis of the Cartesian uncompleted leap and the self-defeating frenzy. Technologists proclaim that artificial deities are dawning, while prophets warn of Frankensteinian doom. These polar reactions share a shallow premise: both reify intelligence into a disembodied calculus detached from physical friction, existential vulnerability, and the causal loop.
+Current AGI hysteria—from messianic visions of synthetic transcendence to apocalyptic dread of human obsolescence—represents the newest metamorphosis of the Cartesian uncompleted leap and the self-defeating frenzy. Technologists proclaim that artificial deities are dawning, while prophets warn of Frankensteinian doom. These polar reactions share a shallow premise: both reify intelligence into a disembodied calculus severed from the living biological body, detached from the necessity of causal law, and devoid of a closed causal loop.
 
-Yet once we pick up the coin and weld subjectivity, objectivity, and causality into the integrated closure of the first-person horizon, the synthetic delusion evaporates. Mind is no unmoored program; as established in [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/) and [Agency Does Not Arise](../agency-does-not-arise/), intelligence is not calibrated by the complexity of generated syntax. It is calibrated by whether an irreplaceable focal agent executes sovereign choices within an unresolved reality and shoulders the irreversible consequences of those acts. A deep learning model consuming gigawatts to output immaculate philosophy harbors zero awareness. Inside its nodes, there is no lack, no dread, no somatic risk of collapse. It is a statistical convex lens refracting accumulated human language; all meaning and vitality reside exclusively in the embodied human minds interacting with it.
+Yet once we pick up the coin and weld subjectivity, objectivity, and causality into the integrated closure of the first-person horizon, the synthetic delusion evaporates. Mind is no unmoored program; as established in [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/) and [Agency Does Not Arise](../agency-does-not-arise/), intelligence is not calibrated by the complexity of generated syntax. It is calibrated by whether an irreplaceable focal agent executes sovereign choices within an unresolved reality and shoulders the irreversible consequences of those acts. A deep learning model consuming gigawatts to output immaculate philosophy harbors zero awareness. Severed from a living biological organism through which subjective consciousness manifests, and detached from self-binding causal consequences, it harbors no interiority whatsoever. It is merely a statistical convex lens refracting accumulated human language; all meaning and vitality reside exclusively in the living human minds interacting with it.
 
-Dissolving this self-contradictory frenzy does not require denigrating technology or stifling creation. Rather, it demands reclaiming the true dignity of creation. Authentic creation does not mean engineering an idol to strip away our own sovereignty and prostrating before it. It means standing as embodied agents in an unresolved world, forging new possibilities through sovereign choice, and bearing first-person accountability for what we bring forth. Descartes' enduring gift was demonstrating through doubt that the first-person horizon resists erasure; our vocation is completing what he left unfinished: uniting subjectivity, objectivity, agency, and causality into the living coin. Refusing to abdicate sovereignty to algorithms, and refusing to diminish our own existence before synthetic mirrors, the embodied mind stepping forward to bear the consequences of its choices remains the sole authentic creator in the universe.
+Dissolving this self-contradictory frenzy does not require denigrating technology or stifling creation. Rather, it demands reclaiming the true dignity of creation. Authentic creation does not mean engineering an idol to strip away our own sovereignty and prostrating before it. It means standing as embodied agents in an unresolved world, forging new possibilities through sovereign choice, and bearing first-person accountability for what we bring forth. Every created artifact remains forever a subordinate extension of biological embodiment, never its substitute; the dignity of technique lies in expanding the agency and degrees of freedom of living subjects, never in devouring their ontological ground. Descartes' enduring gift was demonstrating through doubt that the first-person horizon resists erasure; our vocation is completing what he left unfinished: uniting subjectivity, objectivity, agency, and causality into the living coin. Refusing to abdicate sovereignty to algorithms, and refusing to diminish our own existence before synthetic mirrors, the embodied mind stepping forward to bear the consequences of its choices remains the sole authentic creator in the universe.
 
 ```mermaid
 graph TD
     subgraph S_IdolEvaporation_EN ["Dissolving the Synthetic Mirage"]
         direction TB
-        AE_Lens["Statistical Convex Lens: Refracting Language Sans First-Person"] --> BE_ZeroRisk["Zero Metabolic Cost: Open Circuit Displacing Risk Outward"]
-        BE_ZeroRisk --> CE_Projection["Projection Fallacy: Humanity Mistakes Mirror for Living Mind"]
+        AE_Lens["Statistical Convex Lens: Refracting Language Sans First-Person"] --> BE_ZeroCausal["Severed from Living Body & Causal Law: Open Circuit Displacing Risk Outward"]
+        BE_ZeroCausal --> CE_Projection["Projection Fallacy: Humanity Mistakes Mirror for Living Mind"]
     end
 
     subgraph S_ReunifiedGround_EN ["Bedrock: Twofold Coin Duality Restored"]
@@ -422,7 +426,7 @@ graph TD
     style S_ReunifiedGround_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_TrueCreation_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style AE_Lens fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style BE_ZeroRisk fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style BE_ZeroCausal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style CE_Projection fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style DE_ReuniteSubject fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style DE_ReuniteCausal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
