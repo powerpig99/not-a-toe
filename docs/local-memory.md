@@ -45,7 +45,7 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers — a livi
    - If the same fact appears in two trackers, keep the owner; replace the other with a one-line pointer.
 3. **Workflow drift audit (非必要不变更，防止无意识漂移)**:
    - For newly authored or revised posts in the session, run diagnostic check: `python3 scripts/audit-post.py <slug>`.
-   - Verify standard invariants: prose over lists (0 bullet lists outside mermaid unless strictly necessary), historical Mermaid dark theme (`#161b22`, `#0d1117`), relative cross-links resolution, 0 banned words, 0 raw LaTeX `$`, and standardized multi-platform walkthrough copy.
+   - Verify standard invariants: title and subtitle separation (clean `# Title` without compound delimiters, single-sentence `*Subtitle*` on Line 3, narrative lead on Line 5+), prose over lists (0 bullet lists outside mermaid unless strictly necessary), historical Mermaid dark theme (`#161b22`, `#0d1117`), relative cross-links resolution, 0 banned words, 0 raw LaTeX `$`, and standardized multi-platform walkthrough copy.
    - **Not dogmatic**: Deliberate, context-driven variations or operator-directed choices are preserved as sovereign calibrations. The check specifically catches *unintentional, unneeded drift* (accidental erosion, falling back into generic LLM checklist habits, or forgetting historical styling).
    - If a new general standard was clarified during the session, ensure it is codified in the owner tracker (`docs/essay-format.md` / `content/posts/README.md`) and reflected in `scripts/audit-post.py`.
 4. **MEMORY.md** — drop anything now owned by a tracker; keep resume + prefs that cannot be re-derived.

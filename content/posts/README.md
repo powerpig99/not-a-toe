@@ -48,9 +48,9 @@ Lead: 2–4 complete sentences summarizing the argument.
 
 | Rule | Detail |
 |------|--------|
-| First line | `# Title` only |
-| Subtitle | Exactly one sentence after the title, before any `##` (often italic with `*...*`) |
-| Lead | Following sentences before first `##`; pure prose — no lists, quotes blocks, or HRs in the open |
+| First line | `# Title` only (bilingual: `# <ZH> / <EN>`). Strictly concise and punchy: no compound subtitle delimiters (`：`, `:`, ` - `, ` — `, `——`) packing subtitles into the title |
+| Subtitle | Exactly one concise sentence on Line 3 in explicit italics (`*<ZH> / <EN>*`), before any `##`. Essence only (core geometry); never a multi-sentence wall of text (< 140 chars) |
+| Lead | Following sentences (Line 5+) before first `##`; pure narrative prose — no lists, quotes blocks, or HRs in the open. Extended synopses belong here |
 | Body | Starts at first `##` / `###` |
 | Section headings | Name the cut of that section — a specific claim or distinction. Not a generic slot |
 | Allowed | Headings, paragraphs, `[text](url)`, `*`/`**`, `>`, lists (when strictly necessary), `---` in body only; hard line breaks (two trailing spaces) for verse in body |
@@ -88,19 +88,22 @@ Three distinct jobs. Do not collapse them.
 | **Lead** | Summary of the post | Maps the main moves (usually 2–4 sentences); does **not** merely rephrase the subtitle |
 
 **Title**
-- Prefer a declarative phrase the index and link previews can stand on alone.
+- Prefer a declarative, concise phrase the index and link previews can stand on alone (`# <ZH> / <EN>`).
+- Strictly NO compound subtitle delimiters (`：`, `:`, ` - `, ` — `, `——`) packing subtitles into the `# ` heading. Explanatory clauses belong strictly to the Line 3 subtitle.
 - Avoid opaque labels that only make sense after the body (“Two Failures of Trace,” “The Geometry”) unless the phrase is already a stable term in prior posts.
 - Self-explanatory ≠ long. Compress the cut; do not outline the essay.
 
 **Subtitle**
-- One complete sentence (italic `*...*` is fine).
-- Capture *what the post is saying at root* — the irreducible distinction — not a miniature of the sections.
-- If it reads like a compressed lead (two failures, then capacity, then close), cut it back to essence.
+- Placed on Line 3 in explicit italics: `*<Chinese Subtitle> / <English Subtitle>*`.
+- Strictly ONE complete, concise sentence (capturing *what the post is saying at root* — the irreducible distinction or geometry).
+- Never a multi-sentence wall-of-text synopsis paragraph or miniature of the sections.
+- Compact length (< 140 characters).
 
 **Lead**
+- Starts on Line 5 after an empty Line 4.
+- Pure narrative prose before first `##` (typically 2–4 sentences) — no lists, blockquotes, or horizontal rules in the open.
 - Summarize the blog post: what freezes, what dissolves, what remains.
-- May name the sequence of cuts the body will open; the subtitle must not.
-- Pure prose before first `##` — no lists, blockquotes, or horizontal rules in the open.
+- Detailed synopses, background context, and argument moves belong in this lead prose, never inside the italic subtitle block.
 
 **Anti-repetition check**
 1. Read title alone — does it state the claim?
