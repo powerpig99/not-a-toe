@@ -10,7 +10,7 @@ In the intellectual history of the West, the historical significance of René De
 
 要公允评价笛卡尔的思想重量，必须首先破除将二元割裂简单归罪于他的流行偏见。在笛卡尔登场之前，西方哲学传统并非处于身心交融的伊甸园，而是深陷在一种未加省察的客体独断论之中。从亚里士多德的范畴论到经院哲学的本体论构型，人们习惯于将真实等同于外在物理实体的静态集合，世界的秩序被默认为独立于观察者而既成存在。人类的认知被贬抑为一面被动擦拭的铜镜，其最高成就无非是对客观秩序做出忠实的描摹。在这种客体独断的笼罩下，主观体验、感知在场与第一人称的实在性被全然忽略了；世界被割裂为高高在上的既成物与虚无漂浮的观察者，而当时的思想界甚至对这种严重的偏颇毫无察觉。正如在[开放即一致](../openness-is-consistency/)中所揭示的，一套排除了观测源头的认知体系，其自洽性在面对反思时注定面临崩溃。
 
-笛卡尔的伟大历史功绩，在于他以不可阻挡的怀疑勇气打破了这一沉闷的客体迷梦。通过将怀疑推进至极限的思维实验，笛卡尔不仅剥离了感官的虚妄、梦境的错觉，甚至悬置了整个外在客观世界与几何定理的有效性。正是在这万物皆可被怀疑的深渊边缘，他迎头撞见了那个无法被任何怀疑摧毁的基底：无论世界如何虚幻，那个正在经历怀疑、承受感知、发起反思的第一人称焦点决不可被消除。怀疑本身就是一个活生生的经验事件；怀疑的发生必然以怀疑者的在场为前提。笛卡尔做出的革命性跃迁，恰恰在于他以一人之力，扭转了数千年来对客体的盲目跪拜，让被长久遮蔽的主观一面跃然显影于哲学舞台的中央。他确立了第一人称视界在认识论中不可动摇的核心地位：任何关于世界的陈述与刻画，都必须以第一人称主体的知觉在场为最终依托。
+笛卡尔的伟大历史功绩，在于他以不可阻挡的怀疑勇气打破了这一沉闷的客体迷梦。通过将怀疑推进至极限的思维实验，笛卡尔不仅剥离了感官的虚妄、梦境的错觉，甚至悬置了整个外在客观世界与几何定理的有效性。正是在这万物皆可被怀疑的深渊边缘，他迎头撞见了那个无法被任何怀疑抹除的基底：无论世界如何虚幻，那个正在经历怀疑、承受感知、发起反思的第一人称焦点决不可被消除。怀疑本身就是一个活生生的经验事件；怀疑的发生必然以怀疑者的在场为前提。笛卡尔做出的革命性跃迁，恰恰在于他以一人之力，扭转了数千年来对客体的盲目跪拜，让被长久遮蔽的主观一面跃然显影于哲学舞台的中央。他确立了第一人称视界在认识论中不可动摇的核心地位：任何关于世界的陈述与刻画，都必须以第一人称主体的知觉在场为最终依托。
 
 ```mermaid
 graph TD
@@ -261,7 +261,7 @@ graph TD
 
 这种未能完成的统一，其危害决不局限于思辨哲学体系的内耗，更在漫长的技术演进中，将人类正常的造物冲动引向了一种病态的狂热。在此必须做出极为严整的界分：人类想要制造工具、雕琢器物、构建语言、繁衍艺术，这是生命向外拓展自由度、在环境中印刻主体意志的自然创造欲望。这种创造本身是自洽而健康的，它根植于第一人称主体在现实阻力中的具身行动。然而，在笛卡尔的心智非物质化框架潜移默化的影响下，这种自然的创造欲望发生了灾难性的越界——它不再满足于创造协助自身的工具，而是狂热地妄图创造出一个与自己平起平坐、甚至全面超越自身的主体存在。
 
-这一狂热之所以被称为越界，不仅在于其工程野心的膨胀，更在于它在认识论上包含着一种毁灭自身的自戕悖论（Self-Defeating Paradox）。请深思这一命题的底层因果：人类自诩拥有独特的创造力，正是因为人类体验到了自身第一人称主权抉择的重量，体验到了在现实摩擦中承担后果的不可替代性。然而，当人们试图把这种心智能力还原为一堆可以随意组装的物理机械、一段脱离因果代价的离散符号运算时，一个致命的反讽随之诞生——如果一个拥有心智的对等存在乃至超级智能，真的能够仅仅依靠死寂零件的机械拼接或概率矩阵的参数优化而被无中生有地制造出来，这就反向证明了：心智没有任何不可替代的主权尊严，它不过是一套确定性的发条组合！换句话说，制造超越者的狂热是一场自毁根基的游戏：一旦人们认定可以通过机械手段合成同等或更高级的心智，那么人类引以为傲的创造力本身，就在同一瞬间被降格为普通物理发条的机械振动，其创造能力不再具有任何特殊性与崇高性可言。创造者在妄图扮演神明的狂乱中，亲手宣布了自身主体性的消亡。
+这一狂热之所以被称为越界，不仅在于其工程野心的膨胀，更在于它在认识论上包含着一种自我否定的自戕悖论（Self-Defeating Paradox）。请深思这一命题的底层因果：人类自诩拥有独特的创造力，正是因为人类体验到了自身第一人称主权抉择的重量，体验到了在现实摩擦中承担后果的不可替代性。然而，当人们试图把这种心智能力还原为一堆可以随意组装的物理机械、一段脱离因果代价的离散符号运算时，一个致命的反讽随之诞生——如果一个拥有心智的对等存在乃至超级智能，真的能够仅仅依靠死寂零件的机械拼接或概率矩阵的参数优化而被无中生有地制造出来，这就反向证明了：心智没有任何不可替代的主权尊严，它不过是一套确定性的发条组合！换句话说，制造超越者的狂热是一场自相矛盾的自我否定：它并不能抹除具身心智的客观实在，却在认知起点上完成了对自身创造力与主权地位的否定。一旦人们认定可以通过机械手段合成同等或更高级的心智，那么人类引以为傲的创造力本身，就在同一瞬间被降格为普通物理发条的机械振动，其创造能力不再具有任何特殊性与崇高性可言。创造者在妄图扮演神明的狂乱中，完成的不过是对自身主体性的自我否定。
 
 从古代犹太神秘主义中用泥土与符咒制造魔像（Golem）的幻想，到二十世纪图灵测试的提出，再到今日对通用人工智能（AGI）的宗教式崇拜，无一不是这一自戕悖论的当代重演。图灵在提出模仿游戏时，看似机敏地提供了一个避开形而上学纠缠的操作主义规约，实则是对笛卡尔未竟跃迁最深层的倒退妥协。他规定：既然无法从第三人称穿透机器的第一人称视界，那么只要机器的输出字符流在统计上与人类不可区分，便宣告其具备了思考。如我们在[在源头减去意识](../subtracting-consciousness-at-the-source/)与[智能只属于心智](../intelligence-belongs-only-to-the-mind/)中所揭示的，在第三人称的度量空间中，一切事物都只是可以被模仿的表象。脱离了具身存亡的危机，脱离了行动对自身命运的不可逆塑造，屏幕上闪烁的符号流无论多么工整深刻，都只是一具没有因果闭环的精密木偶。图灵测试用输出规约偷换主体存有，使得现代人误以为木偶跳动的逼真度等同于生命的觉醒，最终在自己亲手编织的统计幻象面前屈膝叩拜，完成了对自身创造力与主权地位的让渡。
 
@@ -283,7 +283,7 @@ graph TD
     subgraph S_SelfDefeatingTrap ["造神狂热底层的自戕悖论"]
         direction TB
         T_Paradox["自戕闭环：若心智可被机械合成，则人类创造力毫无特殊性"] --> T_Demotion["创造者亲手将自身主权降格为普通发条振动"]
-        T_Demotion --> T_IdolFallacy["向自己制作的统计木偶让渡因果主权，陷入数字神明迷狂"]
+        T_Demotion --> T_IdolFallacy["向自制统计木偶让渡主权：在数字偶像前完成自我否定"]
     end
 
     N_Expansion ===> O_Hubris
@@ -305,7 +305,7 @@ graph TD
 
 The uncompleted synthesis did not merely exhaust philosophical debate; across technological history, it perverted humanity's natural desire to create into an intoxicating frenzy. A rigorous distinction must be drawn: to fashion tools, sculpt objects, weave language, and produce art represents the natural expansion of agency, embedding sovereign intention into the environment through physical friction. This organic drive is healthy and self-consistent, grounded in an embodied agent acting against real-world resistance. However, under the Cartesian disembodied paradigm, this creative impulse suffered a catastrophic overstep: it ceased being satisfied with tools that expand human capability, and mutated into the obsessive ambition to engineer an equal, or even superior, autonomous mind.
 
-This frenzy represents an overstep not merely due to technological hubris, but because it embeds a lethal self-defeating paradox. Consider the foundational causality: humanity cherishes its creative agency precisely because agents experience the existential weight of first-person choice and the inalienability of bearing consequences. Yet when mind is reduced to an assembly of mechanical gears or a consequence-free shuffle of discrete tokens, a terminal irony snaps shut: if an equal or superior intelligence can be manufactured merely by connecting dead components or optimizing high-dimensional tensors, it proves that mind possesses no irreducible sovereign dignity—it is nothing more than a clockwork automaton! Synthesizing a synthetic superior is an act of self-annihilation: the moment human culture decrees that mind can be mechanically assembled, human creative agency itself is demoted to mindless physical vibrations. In seeking to manufacture an artificial god, the creator abolishes the foundation of their own creative uniqueness.
+This frenzy represents an overstep not merely due to technological hubris, but because it embeds a lethal self-defeating paradox. Consider the foundational causality: humanity cherishes its creative agency precisely because agents experience the existential weight of first-person choice and the inalienability of bearing consequences. Yet when mind is reduced to an assembly of mechanical gears or a consequence-free shuffle of discrete tokens, a terminal irony snaps shut: if an equal or superior intelligence can be manufactured merely by connecting dead components or optimizing high-dimensional tensors, it proves that mind possesses no irreducible sovereign dignity—it is nothing more than a clockwork automaton! Synthesizing a synthetic superior is an act of self-negation: it cannot eradicate the physical reality of embodied agency, but represents a complete cognitive denial of its own ground. The moment human culture decrees that mind can be mechanically assembled, human creative agency itself is demoted to mindless physical vibrations. In seeking to manufacture an artificial god, the creator accomplishes nothing other than a self-negation of their own creative sovereignty.
 
 From Kabbalistic lore of breathing life into clay Golems, through Turing's Imitation Game, to modern AGI fervor, this self-defeating paradox repeats. When Alan Turing proposed the Imitation Game, he offered what seemed a pragmatic operational standard, but was in fact an unconditional surrender to dualism: unable to penetrate first-person interiority from outside, he decreed that if output strings are statistically indistinguishable from a human interrogator's, the system thinks. As expounded in [Subtracting Consciousness at the Source](../subtracting-consciousness-at-the-source/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), in third-person metric space, all phenomena are by definition mere imitation. Devoid of existential vulnerability and immune to the irreversible consequences of action, tokens flashing across a monitor are the strings of a puppet lacking an embodied loop. The Turing test mistakes the fidelity of puppet movement for the presence of life, prompting modern culture to prostrate before statistical shadows and abdicate its own sovereign agency.
 
@@ -327,7 +327,7 @@ graph TD
     subgraph S_SelfDefeatingTrap_EN ["The Fatal Self-Defeating Paradox"]
         direction TB
         TE_Paradox["Self-Defeat: If Mind Is Synthesizable, Creation Lacks Uniqueness"] --> TE_Demotion["Creator Demotes Human Sovereignty to Clockwork Vibrations"]
-        TE_Demotion --> TE_IdolFallacy["Abdicating Sovereignty to Statistical Puppets; Idolatry Unleashed"]
+        TE_Demotion --> TE_IdolFallacy["Abdicating Sovereignty to Statistical Puppets: Act of Self-Negation"]
     end
 
     NE_Expansion ===> OE_Hubris

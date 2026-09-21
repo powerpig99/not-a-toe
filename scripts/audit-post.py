@@ -19,6 +19,7 @@ Checks:
   7. LaTeX syntax prohibition (0 raw $ or $$; Unicode math only)
   8. Multi-platform publishing copy in walkthrough (Spotify ZH/EN, WeChat Video, X EN)
   9. Companion NotebookLM prompts (canonical opening, monologue script, and concise bounds: 2-4 opening turns, < 8.5KB)
+  10. Mandatory companion cover art (assets/covers/<slug>.(jpg|png|webp) present, non-empty, and registered in STYLES.md)
 
 Usage:
   python3 scripts/audit-post.py [slug_or_path]
@@ -29,6 +30,7 @@ Usage:
 import sys
 import os
 import re
+import struct
 import argparse
 from pathlib import Path
 
@@ -45,6 +47,51 @@ REQUIRED_WALKTHROUGH_SECTIONS = [
     ('WeChat Video Channels', ['WeChat Video Channels', '微信视频号']),
     ('X (Twitter)', ['X (Twitter)', 'X (Twitter) (EN Only)', 'Twitter (X)'])
 ]
+
+def get_image_size(file_path):
+    """Pure-Python image dimension extraction for JPEG and PNG without external dependencies."""
+    try:
+        from PIL import Image
+        with Image.open(file_path) as img:
+            return img.size
+    except Exception:
+        pass
+
+    try:
+        with open(file_path, 'rb') as f:
+            data = f.read(24)
+            if data.startswith(b'\x89PNG\r\n\x1a\n') and len(data) >= 24:
+                w, h = struct.unpack('>II', data[16:24])
+                return w, h
+            elif data.startswith(b'\xff\xd8'):
+                f.seek(2)
+                while True:
+                    marker_prefix = f.read(1)
+                    while marker_prefix and marker_prefix != b'\xff':
+                        marker_prefix = f.read(1)
+                    if not marker_prefix:
+                        return None
+                    marker = f.read(1)
+                    while marker == b'\xff':
+                        marker = f.read(1)
+                    if not marker:
+                        return None
+                    m = marker[0]
+                    if m in (0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
+                        f.read(3)  # len (2) + precision (1)
+                        h, w = struct.unpack('>HH', f.read(4))
+                        return w, h
+                    elif m in (0xD9, 0xDA):
+                        return None
+                    else:
+                        len_bytes = f.read(2)
+                        if len(len_bytes) < 2:
+                            return None
+                        l = struct.unpack('>H', len_bytes)[0]
+                        f.seek(l - 2, 1)
+    except Exception:
+        pass
+    return None
 
 def find_target_file(arg):
     root = Path(__file__).resolve().parent.parent
@@ -427,6 +474,47 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             errors.append(f"Audio prompt {audio_prompt_file.name} size ({audio_bytes} bytes) exceeds concise threshold (rule: < 8.5KB). Keep dialogue to 2–4 opening turns.")
         else:
             passes.append(f"Companion audio prompt concise bounds check ({audio_bytes} bytes, {dialogue_turns} opening turns; complies with 2–4 turn, < 8.5KB standard)")
+
+    # 9. Companion Cover Art audit
+    covers_dir = root / 'assets' / 'covers'
+    cover_extensions = ['.jpg', '.png', '.webp']
+    found_cover = None
+    for ext in cover_extensions:
+        candidate = covers_dir / f"{slug}{ext}"
+        if candidate.is_file():
+            found_cover = candidate
+            break
+
+    if not found_cover:
+        errors.append(f"Missing companion cover image: expected assets/covers/{slug}.jpg (or .png/.webp). Every post must have an installed cover art.")
+    else:
+        file_size = found_cover.stat().st_size
+        if file_size == 0:
+            errors.append(f"Cover art file is 0 bytes (empty): assets/covers/{found_cover.name}")
+        else:
+            file_size_kb = file_size / 1024
+            dim = get_image_size(found_cover)
+            dim_str = f"{dim[0]}x{dim[1]}" if dim else "unknown dimensions"
+
+            # Aspect ratio advisory
+            if dim:
+                w, h = dim
+                ratio = w / h
+                if w < 1000 or h < 400:
+                    warnings.append(f"Cover image resolution ({w}x{h}) is lower than standard. Recommended: 1344x576 (21:9) or 1280x576 (20:9).")
+                elif not (1.7 <= ratio <= 2.5):
+                    warnings.append(f"Cover image aspect ratio ({ratio:.2f}:1) deviates from ultra-wide landscape standard (21:9 ~ 2.33:1 or 20:9 ~ 2.22:1).")
+
+            # STYLES.md registration check
+            styles_file = covers_dir / 'STYLES.md'
+            if styles_file.is_file():
+                styles_text = styles_file.read_text(encoding='utf-8')
+                if slug not in styles_text:
+                    warnings.append(f"Cover for '{slug}' is not yet registered in assets/covers/STYLES.md. Please document its style family and inventory entry.")
+                else:
+                    passes.append("Cover art registered in STYLES.md")
+
+            passes.append(f"Companion cover art check (assets/covers/{found_cover.name} present, {file_size_kb:.1f} KB, {dim_str})")
 
     # Report results
     print("\n[PASSED INVARIANTS]")
