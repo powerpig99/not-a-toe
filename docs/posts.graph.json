@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-21T19:56:57.353Z",
+    "generated_at": "2026-09-22T05:21:06.930Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -191,7 +191,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
-      "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "b0c09ba856ab",
+      "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "be7b032ccd86",
       "content/posts/the-causal-inversion-of-partnership.md": "e91d44269102",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -202,13 +202,13 @@
       "content/posts/the-continuum-of-the-fold.md": "063fd4436fe1",
       "content/posts/the-coordinators-category-error.md": "146a9a84aaf3",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "b7db63d9c12f",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "868ab397f06e",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "680cb9af2f4f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
-      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "9daf1f5304b5",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "ed93adb4eeb6",
       "content/posts/the-extendable-horizon.md": "16c6a9ecd2f7",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "e4617c1af0fb",
       "content/posts/the-fallacy-of-post-success-parenting.md": "cb2cd5c5ac3b",
@@ -259,7 +259,7 @@
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "3733c53cdbc6",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "854e6880413d",
       "content/posts/the-mirage-of-the-infinite-totality.md": "3b491a49b106",
-      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "30c89bdd15fd",
+      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "73983ea1555d",
       "content/posts/the-mirror-handshake-of-power.md": "3fe1b6678749",
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
       "content/posts/the-model-never-becomes-a-second-edge.md": "6dec2cdef8ae",
@@ -295,6 +295,7 @@
       "content/posts/the-scaling-loop.md": "deedfa49f780",
       "content/posts/the-shadow-and-the-infinite.md": "900802f5388b",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "4216d0e9136d",
+      "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "4d2b3199acfc",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
       "content/posts/the-sovereign-blinding.md": "888e3fbe6aee",
@@ -348,13 +349,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 338,
-      "edges": 3364,
-      "unique_directed": 3074,
+      "posts": 339,
+      "edges": 3384,
+      "unique_directed": 3084,
       "missing_targets": 0,
-      "one_way": 814,
-      "isolated": 42,
-      "posts_with_outbound": 273
+      "one_way": 816,
+      "isolated": 41,
+      "posts_with_outbound": 274
     }
   },
   "hubs_in": [
@@ -364,7 +365,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 70
+      "in_degree": 71
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -558,7 +559,6 @@
     "the-loop-that-cant-see-itself",
     "the-maintenance-paradox",
     "the-mirror-handshake-of-power",
-    "the-origin-of-god-and-the-flattening-of-we",
     "the-power-law-of-surrendered-agency",
     "the-strategy-that-wasnt",
     "the-tightening-loop",
@@ -3216,7 +3216,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "5b3c9a6055a0",
-      "in_degree": 70,
+      "in_degree": 71,
       "out_degree": 43,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -4568,15 +4568,16 @@
       "slug": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "path": "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md",
       "title": "笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation",
-      "hash": "b0c09ba856ab",
-      "in_degree": 3,
-      "out_degree": 10,
+      "hash": "be7b032ccd86",
+      "in_degree": 4,
+      "out_degree": 11,
       "links_out": [
         "openness-is-consistency",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "individual-choices-as-the-only-causal-levers",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "subtracting-consciousness-at-the-source",
         "intelligence-belongs-only-to-the-mind",
         "choice-itself-has-no-inherent-weight",
@@ -4768,12 +4769,13 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "b7db63d9c12f",
-      "in_degree": 7,
-      "out_degree": 17,
+      "hash": "868ab397f06e",
+      "in_degree": 8,
+      "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
+        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "ownership-and-self-worthiness",
         "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -4887,9 +4889,9 @@
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
-      "hash": "9daf1f5304b5",
-      "in_degree": 6,
-      "out_degree": 11,
+      "hash": "ed93adb4eeb6",
+      "in_degree": 7,
+      "out_degree": 12,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-causal-inversion-of-partnership",
@@ -4901,7 +4903,8 @@
         "choice-itself-has-no-inherent-weight",
         "coordinate-systems-mind-and-degrees-of-freedom",
         "the-geometry-of-the-cut",
-        "one-cannot-escape-ones-own-mind"
+        "one-cannot-escape-ones-own-mind",
+        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank"
       ]
     },
     {
@@ -5791,9 +5794,9 @@
       "slug": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "path": "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md",
       "title": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation",
-      "hash": "30c89bdd15fd",
-      "in_degree": 3,
-      "out_degree": 7,
+      "hash": "73983ea1555d",
+      "in_degree": 4,
+      "out_degree": 8,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "agency-does-not-arise",
@@ -5801,6 +5804,7 @@
         "openness-is-consistency",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-cartesian-overstep-and-the-frenzy-of-creation",
+        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "one-cannot-escape-ones-own-mind"
       ]
     },
@@ -6000,7 +6004,7 @@
       "path": "content/posts/the-origin-of-god-and-the-flattening-of-we.md",
       "title": "上帝的起源与“我们”的降维 / The Origin of God and the Flattening of \"We\"",
       "hash": "ebfc2c616bb7",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 0,
       "links_out": []
     },
@@ -6616,6 +6620,24 @@
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
         "openness-is-consistency"
+      ]
+    },
+    {
+      "id": "post:the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "kind": "post",
+      "slug": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "path": "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md",
+      "title": "造神的障眼法与隐秘阶序的说辞 / The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank",
+      "hash": "4d2b3199acfc",
+      "in_degree": 4,
+      "out_degree": 6,
+      "links_out": [
+        "the-cartesian-overstep-and-the-frenzy-of-creation",
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+        "openness-is-consistency",
+        "the-origin-of-god-and-the-flattening-of-we",
+        "the-explanatory-trap-of-the-ordinary-perspective",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
       ]
     },
     {
@@ -19102,6 +19124,12 @@
     },
     {
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "造神的障眼法与隐秘阶序的说辞"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
       "label": "在源头减去意识"
@@ -19111,6 +19139,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "智能只属于心智"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
     },
     {
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
@@ -19642,6 +19676,12 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "造神的障眼法与隐秘阶序的说辞"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "框架的倒置与驾驶位的主权非对称"
@@ -19669,6 +19709,12 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -20242,6 +20288,12 @@
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "造神的障眼法与隐秘阶序的说辞"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "coordinate-systems-mind-and-degrees-of-freedom",
       "rel": "points_to",
       "label": "Coordinate Systems, the Mind, and Degrees of Freedom"
@@ -20257,6 +20309,12 @@
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
     },
     {
       "from": "the-extendable-horizon",
@@ -22420,9 +22478,21 @@
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "造神的障眼法与隐秘阶序的说辞"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "rel": "points_to",
       "label": "The Cartesian Epistemic Leap and the Frenzy of Creation"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -24943,6 +25013,78 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "笛卡尔的认识论跃迁与造神狂热"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间箭头的幻象与模拟的边界"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "The Cartesian Epistemic Leap and the Frenzy of Creation"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-origin-of-god-and-the-flattening-of-we",
+      "rel": "points_to",
+      "label": "上帝的起源与“我们”的降维"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-origin-of-god-and-the-flattening-of-we",
+      "rel": "points_to",
+      "label": "The Origin of God and the Flattening of \"We\""
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "常人视角的解释陷阱"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的让渡与后果的不可让渡"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
       "from": "the-source-of-all-harm",
