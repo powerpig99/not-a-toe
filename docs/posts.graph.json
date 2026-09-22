@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-22T05:36:33.178Z",
+    "generated_at": "2026-09-22T10:21:00.870Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -80,7 +80,7 @@
       "content/posts/freedom-as-ground.md": "765afbc1f300",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "efd71ec1e1f9",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "6e99a01cac8d",
-      "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "12d43ae70ffa",
+      "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "f0646986afff",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "30b9efd2b760",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "4d3b167bdf21",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
@@ -103,7 +103,7 @@
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
-      "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "fb3197c9410c",
+      "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "097e33c7e6b5",
       "content/posts/looping-and-graphing.md": "b2acdecafde8",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "23b0506a4f6b",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "da930db54d6f",
@@ -172,7 +172,7 @@
       "content/posts/shared-humanity-is-never-shared.md": "22c1be7732c9",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "53f39dbc81b8",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "7052251d0a3c",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "595bc1450ee1",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sowell-observed-the-surface-problem.md": "38216bcac027",
       "content/posts/stability-and-excess.md": "a439cbed2235",
@@ -264,6 +264,7 @@
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
       "content/posts/the-model-never-becomes-a-second-edge.md": "6dec2cdef8ae",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "d39d70ceb63c",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
       "content/posts/the-observational-cut-in-ai-debates.md": "170100d442c0",
@@ -349,13 +350,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 339,
-      "edges": 3384,
-      "unique_directed": 3084,
+      "posts": 340,
+      "edges": 3393,
+      "unique_directed": 3090,
       "missing_targets": 0,
       "one_way": 816,
       "isolated": 41,
-      "posts_with_outbound": 274
+      "posts_with_outbound": 275
     }
   },
   "hubs_in": [
@@ -2040,10 +2041,11 @@
       "slug": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "path": "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md",
       "title": "个人选择：社会化与做自己的真正坐标",
-      "hash": "12d43ae70ffa",
-      "in_degree": 4,
-      "out_degree": 5,
+      "hash": "f0646986afff",
+      "in_degree": 5,
+      "out_degree": 6,
       "links_out": [
+        "the-name-revolution-files-a-life-as-evidence",
         "freedom-as-ground",
         "individual-choices-as-the-only-causal-levers",
         "the-scaffolding-that-keeps-growing",
@@ -2543,9 +2545,9 @@
       "slug": "liberation-rhetoric-begins-by-defining-captivity",
       "path": "content/posts/liberation-rhetoric-begins-by-defining-captivity.md",
       "title": "Liberation Rhetoric Begins by Defining Captivity",
-      "hash": "fb3197c9410c",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "097e33c7e6b5",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "the-npc-impression-is-structural",
         "the-paradoxical-nature-of-bystander-insights",
@@ -2555,6 +2557,7 @@
         "externalized-virtue-becomes-its-opposite",
         "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "agency-relocated-into-the-formal-model",
+        "the-name-revolution-files-a-life-as-evidence",
         "mei-you-pu-du-zhi-you-zi-du",
         "help-is-half-the-problem",
         "the-compassion-is-the-mechanism-of-obscuration",
@@ -4079,12 +4082,13 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "7052251d0a3c",
-      "in_degree": 22,
-      "out_degree": 20,
+      "hash": "595bc1450ee1",
+      "in_degree": 23,
+      "out_degree": 21,
       "links_out": [
         "hassabis-frontier-agi-premise",
         "the-knowledge-problem-and-the-illusion-of-delegation",
+        "the-name-revolution-files-a-life-as-evidence",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-average-is-residue-not-the-engine",
         "empowerment-establishes-the-centralization-of-power",
@@ -5912,6 +5916,21 @@
         "hierarchy-from-individual-difference",
         "having-more-is-never-the-cause",
         "openness-is-consistency"
+      ]
+    },
+    {
+      "id": "post:the-name-revolution-files-a-life-as-evidence",
+      "kind": "post",
+      "slug": "the-name-revolution-files-a-life-as-evidence",
+      "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
+      "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
+      "hash": "d39d70ceb63c",
+      "in_degree": 3,
+      "out_degree": 3,
+      "links_out": [
+        "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+        "liberation-rhetoric-begins-by-defining-captivity",
+        "sovereignty-belief-and-regulatory-structures"
       ]
     },
     {
@@ -11720,6 +11739,12 @@
     },
     {
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "革命之名把生活收成证据"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "to": "freedom-as-ground",
       "rel": "points_to",
       "label": "自由作为地基"
@@ -13181,6 +13206,12 @@
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
       "label": "Agency relocated into the formal model"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "The name revolution files a life as evidence"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
@@ -17639,6 +17670,12 @@
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
       "label": "The knowledge problem and the illusion of delegation"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "The name revolution files a life as evidence"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -22859,6 +22896,42 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "社会化与做自己的坐标"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "解放的话术始于对囚禁的定义"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "The coordinate of socialization and being oneself"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation rhetoric begins by defining captivity"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
