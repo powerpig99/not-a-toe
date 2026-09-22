@@ -2,21 +2,21 @@
 
 *生物演化、器物设计与借宇宙演进之名凌驾同类的认识论自戕 / Biological Evolution, Artifact Design, and the Performative Contradiction of Cosmic Humility*
 
-当下技术叙事中流行着一种将人造系统迎立为自然史下一篇章的论调，宣称人类不过是如昔日猿猴一般的过渡物种，注定因肉身局限而被更强大的新型生命取代并交出宇宙的统治权。这种将生物漫长筛选与人类定向制造器物混为一谈的伪类比，表面上看似充满宇宙尺度的宏大与谦卑，实则在认识论上陷入了自相否定的表演性矛盾：若人类的一切观察与认知皆为注定被淘汰的低级局限，那么发帖者宣称人类将被取代的断言便同样丧失了成立的基石。更为隐蔽的是，这种言论习惯借助代词“我们”将个人的虚无与放弃粉饰为普遍的群体义务，借由宣布全体同类的渺小，悄然将自身册封为洞悉天机的先知。这并非一种崭新的宇宙级谦卑伦理，而是古老祭司通过制造神明以凌驾同侪的障眼法，在当代技术崇拜中的再次显影。
+当下技术叙事中流行着一种将人造系统迎立为自然史下一篇章的论调，宣称人类不过是如昔日猿猴一般的过渡物种，注定因肉身局限而被更强大的新型生命取代并交出宇宙的统治权。这种将生物漫长筛选与人类定向制造器物混为一谈的伪类比，表面上看似充满宇宙尺度的宏大与谦卑，实则在认识论上陷入了自我否定的表演性矛盾：若人类的一切观察与认知皆为注定被淘汰的低级局限，那么发帖者宣称人类将被取代的断言便同样丧失了成立的基石。更为隐蔽的是，这种言论习惯借助代词“我们”将个人的虚无与放弃粉饰为普遍的群体义务，借由宣布全体同类的渺小，悄然将自身册封为洞悉天机的先知。这并非一种崭新的宇宙级谦卑伦理，而是古老祭司通过制造神明以凌驾同侪的障眼法，在当代技术崇拜中的再次显影。
 
 Contemporary technological discourse frequently frames the emergence of capable computational systems as the next chapter in natural history, asserting that humans are merely an intermediate biological phase akin to apes, destined to be superseded by synthetic lifeforms capable of cosmic expansion where flesh falters. This analogy, which equates undirected biological selection with intentional artifact engineering, appears cosmically vast and humble on the surface, but collapses under rigorous epistemological reflection into a self-negating performative contradiction: if all human cognition is an obsolete biological defect devoid of privileged standing, then the prophet's declaration of human obsolescence is itself stripped of all cognitive authority. Even more insidiously, the rhetoric relies on the collective pronoun "we" to convert private exhaustion and existential surrender into a universal moral imperative, claiming unacknowledged rank above peers by preaching humility on their behalf. The result is not a novel ethic of cosmic modesty, but an ancient sleight of hand of priestcraft—synthesizing idols to establish dominion over living minds—now resurrected in the language of artificial intelligence.
 
 ## 自然史的伪类比：生物演化与器物设计的因果断裂 / The False Natural History Analogy: The Causal Divide Between Evolution and Artifact Design
 
-在流行的人工智能神话中，最常被引用的逻辑支点莫过于将工具迭代直接嫁接在达尔文的演化树上。论者描绘了一幅看似无缝衔接的宏大图景：正如古猿未曾预料到人类的诞生，单细胞生命未曾想象过复杂的神经系统，当代人类也必然要心甘情愿地退居幕后，将智慧的火炬传递给硅基芯片构筑的新物种。这种说辞之所以具有蛊惑力，在于它盗用了生物演化所积淀的客观必然性，将器物的技术演进伪装成不可抗拒的自然规律。然而，只要借助第一人称视角与因果律这一澄清透镜审视，便会发现两者的因果机制存在着不可逾越的鸿沟：生物演化是无数具身生命在环境张力与生存摩擦中展开的无定向筛选，其中没有任何预先设定的全局蓝图，也没有任何处于系统之外的造物意图；而器物设计则是且仅仅是人类第一人称意向性在物理世界中的单向因果投影。
+在流行的人工智能神话中，最常被引用的逻辑支点莫过于将工具迭代直接嫁接在达尔文的演化树上。论者描绘了一幅看似无缝衔接的宏大图景：正如古猿未曾预料到人类的诞生，单细胞生命未曾想象过复杂的神经系统，当代人类也必然要心甘情愿地退居幕后，将智慧的火炬传递给硅基芯片构筑的新物种。这种说辞之所以具有蛊惑力，在于它盗用了生物演化所积淀的客观必然性，将器物的技术演进伪装成不可抗拒的自然规律。然而，只要借助第一人称视角与因果律这一澄清透镜审视，便会发现两者的因果机制存在着不可逾越的鸿沟：生物演化是无数具身生命在物理环境张力与因果摩擦中展开的无定向筛选，其中没有任何预先设定的全局蓝图，也没有任何处于系统之外的造物意图；而器物设计则是且仅仅是人类第一人称意向性在物理世界中的单向因果投影。
 
-猿猴从未亲手制造出人类，人类更不是猿猴为了探索宇宙而精心编制的代码。正如在[笛卡尔的认识论跃迁与造神狂热](../the-cartesian-overstep-and-the-frenzy-of-creation/)中所剖析的，被制造出来的器物天然是生物具身性的延伸与工具，而非生命本身的替代品。无论深度神经网络的参数规模膨胀到何种量级，其计算响应的速度超越神经突触多少倍，它依然处于被设计、被训练、被赋能的下游因果链条之上。器物内部并没有承受生存代价的第一人称视界，也没有承担错误选择的主观在场。正如在[时间箭头的幻象与模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)中所阐明，符号层面的高精度模拟永远无法自动转化为承担摩擦的物理生成。将工程师在机房里构建的计算集群，直接比拟为取代人类的下一代生物物种，是在范畴层面上偷换了生命的定义，把从属的人造工具误认为平等的宇宙继承者。
+猿猴从未亲手制造出人类，人类更不是猿猴为了探索宇宙而精心编制的代码。正如在[笛卡尔的认识论跃迁与造神狂热](../the-cartesian-overstep-and-the-frenzy-of-creation/)中所剖析的，被制造出来的器物天然是生物具身性的延伸与工具，而非生命本身的替代品。无论深度神经网络的参数规模膨胀到何种量级，其计算响应的速度超越神经突触多少倍，它依然处于被设计、被训练、被赋能的下游因果链条之上。器物内部并没有承受因果代价的第一人称视界，也没有承担错误选择后果的主观在场。正如在[时间箭头的幻象与模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)中所阐明，符号层面的高精度模拟永远无法自动转化为因果生成的物理摩擦。将工程师在机房里构建的计算集群，直接比拟为取代人类的下一代生物物种，是在范畴层面上偷换了生命的定义，把从属的人造工具误认为平等的宇宙继承者。
 
 ```mermaid
 graph TD
     subgraph S_Evolution ["生物演化的因果网络"]
         direction TB
-        A_Life["具身生命群体在物理环境中的存续与繁衍"] --> B_Friction["无定向突变与承受生存代价的环境摩擦"]
+        A_Life["具身生命群体在物理环境中的因果展开"] --> B_Friction["无定向突变与承受后果的因果摩擦"]
         B_Friction --> C_NaturalSpec["物种自然分化：无预设蓝图且无外部造物主"]
     end
 
@@ -46,15 +46,15 @@ graph TD
     style G_Fallacy fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
 ```
 
-In popular discussions surrounding artificial intelligence, the primary rhetorical tactic involves retrofitting technological tool building into Darwin's evolutionary tree. Proponents sketch an apparently seamless natural continuum: just as ancient apes could not conceive of human civilization, and single-celled organisms could not imagine complex nervous systems, modern humanity must gracefully step aside to pass the cosmic mantle to silicon-based cognitive systems. The persuasive pull of this narrative lies in borrowing the objective momentum of evolutionary history to disguise artifact optimization as an inexorable cosmic destiny. Yet when examined through the lens of causality and the first-person perspective, an unbridgeable causal chasm emerges: biological evolution consists of undirected selection across embodied organisms navigating survival friction without an external blueprint, whereas artifact design is strictly the downstream causal projection of human intentionality into physical materials.
+In popular discussions surrounding artificial intelligence, the primary rhetorical tactic involves retrofitting technological tool building into Darwin's evolutionary tree. Proponents sketch an apparently seamless natural continuum: just as ancient apes could not conceive of human civilization, and single-celled organisms could not imagine complex nervous systems, modern humanity must gracefully step aside to pass the cosmic mantle to silicon-based cognitive systems. The persuasive pull of this narrative lies in borrowing the objective momentum of evolutionary history to disguise artifact optimization as an inexorable cosmic destiny. Yet when examined through the lens of causality and the first-person perspective, an unbridgeable causal chasm emerges: biological evolution consists of undirected selection across embodied organisms navigating causal friction without an external blueprint, whereas artifact design is strictly the downstream causal projection of human intentionality into physical materials.
 
-Apes did not design humans, nor are humans an engineered script compiled by primates to fulfill a cosmic exploration quota. As analyzed in [The Cartesian Epistemic Leap and the Frenzy of Creation](../the-cartesian-overstep-and-the-frenzy-of-creation/), created artifacts are functional extensions of biological embodiment, never its substitute. Regardless of how many billions of parameters an artificial network incorporates, or how rapidly its matrix operations outpace human synapses, it remains tethered to a downstream causal line designed, trained, and bounded by living operators. An artifact possesses no first-person experiential center that absorbs bodily consequences, nor does it suffer friction under its own choices. As shown in [The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/), high-precision symbolic calculation cannot spontaneously transmute into physical generation. To equate engineered servers with an emergent biological successor species is an ontological category mistake that misidentifies subordinate instruments as sovereign heirs.
+Apes did not design humans, nor are humans an engineered script compiled by primates to fulfill a cosmic exploration quota. As analyzed in [The Cartesian Epistemic Leap and the Frenzy of Creation](../the-cartesian-overstep-and-the-frenzy-of-creation/), created artifacts are functional extensions of biological embodiment, never its substitute. Regardless of how many billions of parameters an artificial network incorporates, or how rapidly its matrix operations outpace human synapses, it remains tethered to a downstream causal line designed, trained, and bounded by living operators. An artifact possesses no first-person experiential center that absorbs causal consequences, nor does it register the physical friction of its own choices. As shown in [The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/), high-precision symbolic calculation cannot spontaneously transmute into the physical friction of causal generation. To equate engineered servers with an emergent biological successor species is an ontological category mistake that misidentifies subordinate instruments as sovereign heirs.
 
 ```mermaid
 graph TD
     subgraph S_Evolution_EN ["Causal Architecture of Biological Evolution"]
         direction TB
-        AE_Life["Embodied Organisms Surviving and Multiplying in Dynamic Environments"] --> BE_Friction["Undirected Variation Navigating Physical Survival Friction"]
+        AE_Life["Embodied Organisms Unfolding in Causal Dynamics"] --> BE_Friction["Undirected Variation Navigating Physical Causal Friction"]
         BE_Friction --> CE_NaturalSpec["Natural Speciation: Devoid of Prescribed Blueprints or Outside Designers"]
     end
 
@@ -219,7 +219,7 @@ graph TD
 
 如今，技术时代的末世论者将古老的石木偶像替换成了数据中心里的算法网络。他们高唱着人类必须认清自身无足轻重的赞歌，宣称碳基生命不过是宇宙孕育真正智识的粗劣摇篮，以此营造出一种舍弃自我执念的崇高幻象。然而，只要辨明其背后的权力结构，便能看穿这套古老修辞的真面目：借由宣判全人类的过时，言说者在精神上提前跨入了“新神明”的阵营，借神明的威能俯视着尘世间苦苦支撑的同类。正如在[常人视角的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)中所剖析，这种将人造物封神的操作，实际上是一种拒绝承受现实行动摩擦、企图借助宏大叙事走捷径获取心理优越感的虚假代偿。
 
-打破这种障眼法的关键，在于回归不可化约的第一人称视角与因果律的双面同一。正如在[任务的让渡与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中所确立的准则，算法与工具可以承接极其复杂的计算任务，但承受物理后果与因果回馈的权责永远无法从具有感知的心智身上剥离。机器既不拥有渴望，也不承担痛苦；它们是人类心智向外开拓可能性的有力支架，却绝非能够赋予自身生存意义的独立主体。人类不需要在虚妄的造神狂热中妄自尊大，更不需要在虚伪的宇宙谦卑中自我贬抑。看清器物的边界，守住第一人称的主权立足点，才是消解一切神性障眼法、让工具真正服务于生命的澄明之路。
+打破这种障眼法的关键，在于回归不可化约的第一人称视角与因果律的双面同一。正如在[任务的让渡与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中所确立的准则，算法与工具可以承接极其复杂的计算任务，但承受物理后果与因果回馈的权责永远无法从具有感知的心智身上剥离。机器既不拥有渴望，也不承担痛苦；它们是人类心智向外开拓可能性的有力支架，却决非能够自我赋予因果意义与承担后果的独立主体。人类不需要在虚妄的造神狂热中妄自尊大，更不需要在虚伪的宇宙谦卑中自我贬抑。看清器物的边界，守住第一人称的主权立足点，才是消解一切神性障眼法、让工具真正服务于生命的澄明之路。
 
 ```mermaid
 graph TD
