@@ -18,7 +18,7 @@ Individual sovereignty cannot be delegated. What appears as delegation is the ex
 
 An SRO is a collective expression of a different belief—that individual sovereignty itself can be handed over. Government is the same belief expressed at another scale of stabilization. The dual system Armstrong describes is not two independent architectures accidentally stacked. It is one prior generating multiple institutional faces. Each face is a durable residue of many centers externalizing sovereign choice into a shared pattern; the pattern then patterns which alignments later acts find available. Neither face relocates the locus of initiation. Both are treated, under the belief that produced them, as if they did.
 
-The formation of such structures therefore does not rest on sovereignty having been transferred. It rests on the belief that transfer is possible, held and expressed until it hardens into procedure, approval chain, and dual gate. The belief is the prior; the SRO and the state regulator are its stabilizations.
+The formation of such structures therefore does not rest on sovereignty having been transferred. It rests on the belief that transfer is possible, held and expressed until it hardens into procedure, approval chain, and dual gate. The belief is the prior; the SRO and the state regulator are its stabilizations. [The name revolution files a life as evidence](../the-name-revolution-files-a-life-as-evidence/) is the cousin under genre costume: choosing that stayed with the person is spoken as a private revolution against an order, and the order remains the subject a reader then files.
 
 ## Residue is not relocation
 
