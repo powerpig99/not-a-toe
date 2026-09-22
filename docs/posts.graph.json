@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-22T10:21:00.870Z",
+    "generated_at": "2026-09-22T17:57:16.611Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -264,7 +264,7 @@
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
       "content/posts/the-model-never-becomes-a-second-edge.md": "6dec2cdef8ae",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
-      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "d39d70ceb63c",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "aaa99ca468d2",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
       "content/posts/the-observational-cut-in-ai-debates.md": "170100d442c0",
@@ -351,10 +351,10 @@
     },
     "stats": {
       "posts": 340,
-      "edges": 3393,
-      "unique_directed": 3090,
+      "edges": 3399,
+      "unique_directed": 3093,
       "missing_targets": 0,
-      "one_way": 816,
+      "one_way": 819,
       "isolated": 41,
       "posts_with_outbound": 275
     }
@@ -366,7 +366,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 71
+      "in_degree": 72
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -3219,7 +3219,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "5b3c9a6055a0",
-      "in_degree": 71,
+      "in_degree": 72,
       "out_degree": 43,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5754,7 +5754,7 @@
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
       "hash": "3733c53cdbc6",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 6,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring",
@@ -5924,13 +5924,16 @@
       "slug": "the-name-revolution-files-a-life-as-evidence",
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
-      "hash": "d39d70ceb63c",
+      "hash": "aaa99ca468d2",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 6,
       "links_out": [
+        "the-mind-as-vector-and-coordinate-system",
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+        "sovereignty-belief-and-regulatory-structures",
         "liberation-rhetoric-begins-by-defining-captivity",
-        "sovereignty-belief-and-regulatory-structures"
+        "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "openness-is-consistency"
       ]
     },
     {
@@ -7133,7 +7136,7 @@
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因：个人进步的障碍",
       "hash": "3e9acad72251",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 11,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -22899,15 +22902,21 @@
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
-      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
-      "label": "社会化与做自己的坐标"
+      "label": "心智作为向量与坐标系"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
-      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
-      "label": "解放的话术始于对囚禁的定义"
+      "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "个人选择、社会化与做自己的真正坐标"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
@@ -22917,21 +22926,51 @@
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
-      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "The coordinate of socialization and being oneself"
+      "label": "解放的话术始于对囚禁的定义"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
-      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "The Coordinate of Socialization and Being Oneself"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因是个人进步的障碍"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "External Attribution is an Obstacle to Personal Progress"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness is Consistency"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
