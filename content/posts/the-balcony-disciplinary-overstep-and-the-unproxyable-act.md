@@ -2,39 +2,41 @@
 
 *为己保留自由却对他施加规训，阳台的对撞唯有降临不可代理的原点方能化解。 / Reserving agency for oneself while disciplining others, balcony clashes dissolve only at the unproxyable origin.*
 
-在社交网络与当代公共讨论中，一场旷日持久的争论反复上演：一方站在物质时间序列的宏大趋势前，宣称全社会已然极度富有，困惑于大众为何迟迟不能对技术红利报以感恩；另一方则报以愤怒的断然否决，指责“人人富有”毫无道理，将技术繁荣斥为资本泡沫与意识形态宣传。这场争论之所以始终陷入死结，是因为双方皆站在第三人称的“阳台”之上俯瞰他者，试图将对方纳入自身的阐释框架进行规训与操控；更隐秘的认识论倒错在于，身处阳台的宣讲者在潜意识中为自己保留了不可让渡的自由选择与自我书写权，却试图将他人的生活化约为一套可以通过外部输入指标来静态锁定的决定论反应机。唯有真正走出阳台的旁观视角，代入各自未闭合的第一人称行动回路，我们才能看清：人的尊严与价值绝非源于被动接受既成事实的奖赏，而唯独诞生于那份正在发生、切身体认且不可被任何人代理的未竟之行。
+在社交网络与当代公共讨论中，一场旷日持久的争论反复上演：一方站在物质时间序列的宏大趋势前，宣称全社会已然极度富有，困惑于大众为何迟迟不能对技术红利报以感恩；另一方则报以愤怒的断然否决，指责“人人富有”毫无道理，将技术繁荣斥为资本泡沫与意识形态宣传。这场争论之所以始终陷入死结，是因为双方皆站在第三人称的“阳台”之上俯瞰他者，试图将对方纳入自身的阐释框架进行规训与操控；更隐秘的认识论倒错在于，争论双方皆犯下了同一个范畴错误——把外部的衡量标准从“个人选择的背景参考”错置为了“因果上的决定变量”。无论是技术精英以为外部物质溢出能自然消解贫困，还是批判者认定贫困是他人的罪过且寄望于外部财富转移，两者皆把因果权放逐到了个人之外。唯有真正走出阳台的旁观视角，代入各自未闭合的第一人称行动回路，我们才能看清：真正改变现状的原动力在每个个人的自由选择，人的尊严与自我价值绝非源于被动接受既成事实的奖赏或外部财富的转移，而唯独诞生于那份正在发生、切身体认且不可被任何人代理的未竟之行。
 
-A protracted and recurring dispute dominates contemporary public discourse: one side stands before the sweeping trend-lines of material progress, declaring that society as a whole is already exceptionally wealthy and bewildered by why the populace fails to express gratitude; the other side retorts with fierce rejection, dismissing universal wealth as a logical impossibility and condemning the technological boom as speculative bubbles and ideological propaganda. This argument remains deadlocked because both parties stand on detached, third-person "balconies" looking down at "them," treating the other side as an object to be analyzed, corrected, and steered. More insidiously, an epistemological contradiction festers within this balcony posture: the observer reserves for themselves an open-ended, sovereign agency of striving, yet prescribes for others a closed, deterministic receptor model whose satisfaction is supposed to be dictated by passive material inputs. Only by descending from the balcony and entering the running engine of the first-person causal loop does the truth emerge: human worth is never derived from the passive receipt of finished outcomes, but solely from the felt, ongoing authorship of an unfinished act that can never be occupied by proxy.
+A protracted and recurring dispute dominates contemporary public discourse: one side stands before the sweeping trend-lines of material progress, declaring that society as a whole is already exceptionally wealthy and bewildered by why the populace fails to express gratitude; the other side retorts with fierce rejection, dismissing universal wealth as a logical impossibility and condemning the technological boom as speculative bubbles and ideological propaganda. This argument remains deadlocked because both parties stand on detached, third-person "balconies" looking down at "them," treating the other side as an object to be analyzed, corrected, and steered. More insidiously, both factions commit the identical category error: mistaking external metrics from a "contextual background for choice" into a "causal determinant variable." Whether techno-optimists presume that external material abundance will naturally resolve distress without individual striving, or critics insist that poverty is the crime of others' wealth to be solved via forced redistribution, both outsource the causal engine beyond the individual mind. Only by descending from the balcony and entering the running engine of the first-person causal loop does the truth emerge: the primary engine transforming reality lies in individual sovereign choice; human worth is never derived from passive handouts or wealth transfers, but solely from the felt, ongoing authorship of an unfinished act that can never be occupied by proxy.
 
 ---
 
+## 一、 阳台上的两套第三人称图景 / 1. The Two Third-Person Pictures from the Balcony
+
 这场在社交媒体上反复爆发的交锋，在外部观察者眼中，首先表现为两套截然对立的第三人称图景的激烈撞击。正如在 [隐形的上帝之眼](../the-invisible-gods-eye/) 中所揭示的，一旦心智撤退到奥林匹斯山般的阳台俯瞰众生，活生生的人便被抽离了呼吸与具身摩擦，蜕变为坐标系中的抽象数据点。
 
-第一套图景是技术精英所占据的**正和物质时间序列阳台**。以具有代表性的科技投资人论调为例，其核心论点是跨越百年的客观物质指标：一百年前同一个生物机体所能获取的卡路里、寿命、照明、医疗与流通算力，在数量级上皆远逊于今日；二十年后的未来亦将大幅超越当下。在这一图景中，“我们所有人比起过去都极度富有”是一个毋庸置疑的正和博弈事实。因此，大众持久的普遍不满与怨怼，被他们诊断为一种文化层面的认知缺陷——认为公众受困于狭隘的“零和偏见”，或是迟钝于更新自身的参考坐标系（reference class）。占据这一阳台的宣讲者以一种居高临下的启蒙姿态发号施令：你们身处奇迹之中，理应学会知足与感恩；任何愤懑皆是认知系统的故障。
+第一套图景是技术精英所占据的**正和纵向物质阳台**。以具有代表性的科技投资人论调为例，其核心论点是跨越百年的客观物质指标：一百年前同一个生物机体所能获取的卡路里、寿命、照明、医疗与流通算力，在数量级上皆远逊于今日；二十年后的未来亦将大幅超越当下。在这一图景中，“我们所有人比起过去都极度富有”被树立为一个无可置疑的正和博弈事实。然而，这类表面上的乐观主义在极力强调历史巨大进步的同时，却轻描淡写了自身在当前横截面上远超常人、且自身永不满足的财富聚集。他们的深层假设是：社会发展自然会提供充裕的条件，从而穷人不需要通过自身的艰苦探索，即可坐享值得知足的成果。于是，大众持久的普遍不满被他们轻率地诊断为文化层面的认知缺陷——认为公众受困于狭隘的“零和偏见”，或是迟钝于更新自身的参考坐标系（reference class），因而必须接受居高临下的感恩规训。
 
-第二套图景则是网络舆论场中反驳者所占据的**零和怀疑与意识形态批判阳台**。面对技术精英的宏大布道，对立面的声音报以冷酷而愤怒的断然否决：“‘所有人都会变得富有’在逻辑上毫无意义；当你在公开场域兜售这种虚妄之词时，它便是不折不扣的意识形态宣传；所谓的人工智能革命，不过是资本推高估值的虚火泡沫与荒谬骗局。”持这一视角的反驳者坚信，财富在定义上天然具有排他性与相对排位属性，因而“人人富有”属于自欺欺人的语义幻术。在他们眼中，精英口中的物质丰裕论不是客观现实，而是既得利益阶层为了转移阶层固化矛盾、麻痹大众反抗意志而精心炮制的宣传工具。占据这一阳台的批判者以揭穿者与受害者自居，用道德审判全盘否定技术演进，沉溺于对宣讲者动机的解构。
+第二套图景则是网络舆论场中反驳者所占据的**零和横向排位阳台**。面对技术精英的宏大布道，对立面的声音报以冷酷而愤怒的断然否决：“‘所有人都会变得富有’在逻辑上毫无意义；当你在公开场域兜售这种虚妄之词时，它便是不折不扣的意识形态宣传；所谓的人工智能革命，不过是资本推高估值的虚火泡沫与荒谬骗局。”持这一视角的反驳者敏锐且正确地捕捉到：人们在现实生活中多半是通过与身旁同伴的横向比较，来切实感知自身的贫困或富足。然而，他们的致命盲区在于，将这种横向排位视为了不可逾越的决定因素，全然无视了文明演进所积累的庞大财富增量。更深层的动机在于，过度聚焦贫富差距，实质上是在为强行推动财富转移寻找道德借口，把贫困定性为他人致富的罪过。占据这一看台的批判者以揭穿者与受害者自居，用道德指责替代对自身行动回路的构建，将一切技术浪潮贬斥为加剧剥削的谎言。
 
 这两套图景皆带有鲜明的观察性与规训冲动。双方都各自站在发动机熄火的阳台上，用望远镜将对方物化为待定性的客体：一方将对方描绘为“缺乏格局、沉溺于零和嫉妒、急需被开导的蒙昧大众”；另一方将对方描绘为“自肥贪婪、兜售泡沫、进行阶层洗脑的资本机器”。双方隔空互发诊断书与宣判令，试图在舆论场上矫正与操弄对方，却从未有人愿意离开阳台，真正进入生命正在运转的机舱内部。
 
 ```mermaid
 graph TD
-    subgraph Balcony_A["【阳台图景 A：正和物质时间序列与认知规训】"]
+    subgraph Balcony_A["【阳台图景 A：正和纵向物质阳台】"]
         direction TB
-        A1["引述百年物质指标飞跃<br/>（卡路里、寿命、医疗、算力大爆发）"]
-        A2["将技术演进定义为正和博弈事实<br/>（‘比起百年前，我们所有人都极度富有’）"]
-        A3["将大众不满诊断为零和偏见与认知滞后<br/>（‘正和思维很难，但你们理应学会感恩’）"]
+        A1["引述百年物质飞跃，淡化自身超常且永不满足之财富<br/>（卡路里、寿命、算力大爆发）"]
+        A2["预设社会发展自然提供条件，穷人无需努力即可坐享<br/>（‘比起百年前，我们所有人都极度富有’）"]
+        A3["将大众不满诊断为零和偏见与认知故障<br/>（‘正和思维很难，但你们理应学会知足’）"]
         A1 --> A2 --> A3
     end
 
-    subgraph Balcony_B["【阳台图景 B：零和排位怀疑与宣传泡沫指控】"]
+    subgraph Balcony_B["【阳台图景 B：零和横向排位阳台】"]
         direction TB
-        B1["断言财富天然排他与相对排位<br/>（‘所有人都会富有在逻辑上毫无意义’）"]
-        B2["将宏大叙事定性为阶层麻痹术<br/>（‘兜售虚妄之词是不折不扣的意识形态宣传’）"]
-        B3["将技术浪潮判定为金融炒作与虚妄泡沫<br/>（‘所谓前沿革命不过是一场虚火与骗局’）"]
+        B1["捕捉到横向同伴比较，却将其误作决定变量<br/>（忽视历史财富增量，断言‘人人富有毫无意义’）"]
+        B2["聚焦贫富差距，为财富转移寻找道德理由<br/>（将贫困定性为他人致富的原罪）"]
+        B3["将技术浪潮判定为意识形态洗脑与金融泡沫<br/>（‘前沿技术革命不过是一场虚火与骗局’）"]
         B1 --> B2 --> B3
     end
 
-    Balcony_A <===>|"阳台隔空对撞：一方指责缺乏格局，一方指责虚伪自肥"| Balcony_B
+    Balcony_A <===>|"阳台隔空对撞：一方指责缺乏格局，一方指责虚伪掠夺"| Balcony_B
 
     style Balcony_A fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style Balcony_B fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
@@ -48,27 +50,27 @@ graph TD
 
 The recurring clash on social media presents itself, to an outside observer, as a violent collision between two incompatible third-person pictures. As explored in [The Invisible God's Eye](../the-invisible-gods-eye/), whenever the mind retreats to an Olympian balcony, living persons are stripped of somatic breath and friction, reduced to abstract points on an observational grid.
 
-The first picture is the **positive-sum material time-series balcony** occupied by techno-optimists. Exemplified by prominent technology investors, its foundational thesis rests on century-scale material expansion: an identical biological organism today commands calories, lifespans, illumination, medicine, and compute far exceeding what was available a century ago, a trajectory poised to accelerate over the coming decades. Within this picture, the assertion that "we are all very wealthy compared to the past" is treated as an undeniable positive-sum reality. Consequently, persistent public discontent is diagnosed as a cognitive deficiency—an inability to shed cultural "zero-sum bias," or a stubborn lag in updating one's reference class. The speaker on this balcony issues a patronizing decree: you inhabit a historical miracle; you should feel wealthy and grateful; any lingering dissatisfaction reflects an internal error in cognitive calibration.
+The first picture is the **positive-sum longitudinal material balcony** occupied by techno-optimists. Exemplified by prominent technology investors, its foundational thesis rests on century-scale material expansion: an identical biological organism today commands calories, lifespans, illumination, medicine, and compute far exceeding what was available a century ago, a trajectory poised to accelerate over the coming decades. Within this picture, the assertion that "we are all very wealthy compared to the past" is treated as an undeniable positive-sum reality. Yet while highlighting historical progress, this optimistic posture downplays the commentator's own extraordinary, insatiable wealth accumulation in the present. Its unstated premise assumes that macro societal development will naturally provide comfortable conditions, enabling ordinary individuals to enjoy a satisfying existence without independent striving. Consequently, persistent public discontent is diagnosed as an irrational cognitive defect—an inability to shed cultural "zero-sum bias," or a stubborn lag in updating one's reference class—demanding a patronizing homily on gratitude.
 
-The second picture is the **cynical zero-sum and anti-propaganda balcony** occupied by adversarial critics across online platforms. Confronted with the techno-optimist homily, this side retorts with furious rejection: "The idea that 'we will all be wealthy' makes no sense; if you spew nonsense, it is propaganda; this artificial intelligence wave is just a speculative bubble and a fraud." Observers here treat wealth as inherently positional and rivalrous; hence, "universal wealth" is dismissed as semantic trickery. In their eyes, elite lectures on abundance are not objective reports, but calculated ideological narcotics engineered by entrenched interests to pacify the public and obscure wealth concentration. Occupying this balcony, the critic poses as an unmasker and victim, rejecting technological momentum through moral condemnation and dissecting elite hypocrisy.
+The second picture is the **cynical horizontal-ranking balcony** occupied by adversarial critics across online platforms. Confronted with the techno-optimist homily, this side retorts with furious rejection: "The idea that 'we will all be wealthy' makes no sense; if you spew nonsense, it is propaganda; this artificial intelligence wave is just a speculative bubble and a fraud." Observers here astutely recognize that people experience poverty or wealth primarily through horizontal comparisons with contemporary peers. Their fatal blind spot, however, lies in elevating this positional ranking into an absolute determinant, dismissing centuries of massive material compounding. Their deeper motivation is clear: obsessing over inequality serves as a moral pretext for forced wealth redistribution, treating poverty as the direct crime of others' wealth creation. Occupying this balcony, the critic poses as an unmasker and victim, rejecting technological momentum through moral condemnation and dissecting elite hypocrisy.
 
 Both pictures remain thoroughly observational and disciplinary. Each camps out on its balcony, training telescopic lenses on "them": one side characterizes the public as ungrateful nodes blinded by zero-sum resentment who require ideological correction; the other characterizes builders as self-serving technocrats peddling speculative bubbles to manipulate the masses. Both trade deterministic diagnoses and moral verdicts across the chasm, yet neither descends into the running engine of living experience.
 
 ```mermaid
 graph TD
-    subgraph Balcony_A_EN["[Balcony Picture A: Positive-Sum Material Metrics & Cognitive Correction]"]
+    subgraph Balcony_A_EN["[Balcony Picture A: Positive-Sum Longitudinal Balcony]"]
         direction TB
-        A1_EN["Cites century-scale material explosion<br/>(Calories, lifespans, medicine, compute)"]
-        A2_EN["Frames progress as undeniable positive-sum reality<br/>('We are all very wealthy compared to history')"]
-        A3_EN["Diagnoses discontent as zero-sum bias and cognitive lag<br/>('Positive-sum thinking is hard; you should be grateful')"]
+        A1_EN["Cites historical progress while downplaying own insatiable accumulation<br/>(Calories, lifespans, compute explosion)"]
+        A2_EN["Assumes societal growth naturally provides passive abundance<br/>('Compared to history, we are all very wealthy')"]
+        A3_EN["Diagnoses discontent as cognitive defect and zero-sum bias<br/>('Positive-sum thinking is hard; you should be grateful')"]
         A1_EN --> A2_EN --> A3_EN
     end
 
-    subgraph Balcony_B_EN["[Balcony Picture B: Positional Cynicism & Anti-Propaganda Accusation]"]
+    subgraph Balcony_B_EN["[Balcony Picture B: Positional Horizontal-Ranking Balcony]"]
         direction TB
-        B1_EN["Treats wealth as inherently positional and zero-sum<br/>('Everyone being wealthy makes no sense')"]
-        B2_EN["Condemns macro optimism as ideological deception<br/>('Spewing nonsense is mere ruling-class propaganda')"]
-        B3_EN["Dismisses technological waves as speculative bubbles<br/>('The frontier revolution is just hype and fraud')"]
+        B1_EN["Recognizes horizontal peer comparison, but treats it as absolute determinant<br/>(Ignores historical wealth compounding; 'Universal wealth makes no sense')"]
+        B2_EN["Focuses on inequality to justify forced wealth redistribution<br/>(Frames poverty as the direct crime of others' wealth)"]
+        B3_EN["Dismisses technological waves as speculative bubbles and propaganda<br/>('The frontier revolution is mere hype and fraud')"]
         B1_EN --> B2_EN --> B3_EN
     end
 
@@ -86,92 +88,120 @@ graph TD
 
 ---
 
-## 二、 视角的本体论不对称与自我价值的范畴错位 / 2. The Ontological Asymmetry and the Category Error of Self-Worth
+## 二、 共同的范畴错位与因果权的外部放逐 / 2. The Shared Category Error and the Outsourcing of Causality
 
 正是在两座阳台无休止的互掷标枪之中，一个更为清醒的诊断穿透了表层的口水战，一针见血地点破了死结的核心所在：
 **“你用历史跨度来度量他人的财富，这并没有错；但这决非绝大多数人用来衡量自我价值的方式，包括你自己也不会这么衡量。相信他人理应如此衡量自己，是不切实际的。”**
 
-这一诊断揭示了隐藏在技术乐观主义布道背后的致命范畴错位，以及极其深刻的视角的本体论不对称。正如在 [主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) 中所论证的，同一个心智在审视自身与规训他者时，极易分裂为两套截然相反的标准。
+这一诊断揭示出一个惊人的认识论事实：**表面上剑拔弩张的争论双方，实质上犯下的是同一个范畴错误，差异仅仅在于偏执的方向与程度。**
 
-首先审视这一范畴的混淆：“历史跨度的财富度量”（measurement of wealth in historical terms）与“自我价值的度量”（measurement of self-worth）分属两个截然不同的坐标系。宣讲者所列举的历史指标，在宏观统计学上没有错——现代普通人的确享有着远超古代帝王的抗生素与信息流。但错在宣讲者妄图用这个第三人称的历史存量读数，去强制充当第一人称自我价值的结算代币。人类心智的自我价值，从来不是靠在脑海中与十九世纪死于肺结核的纺织工对比卡路里而生成的；它是在当下现实的阻力中，通过具体的因果闭环与主体行动实时确立的。
+正如在 [主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) 中所论证的，争论双方皆把外部的衡量标准——无论是纵向的历史时间序列，还是横向的社会排位差距——当成了因果上的决定变量，而严重无视了它们仅仅是个人做出选择时必须直面的背景参考。
 
-由此，宣讲者内在模型的深刻分裂暴露无遗：
-对其自身而言，他生活在一个开放的、非决定论的生成体系中。宣讲者自身身家丰沛、掌控庞大资本，其91岁高龄的导师至今仍在商界前线奋战，宣讲者自己亦每周高强度调度资源、创立机构、参与竞争。如果有人用他自己的说辞去规训他：“你拥有的算力与资产已经百倍于路易十四，你现在必须立刻停下所有项目，坐在有空调的房间里感恩知足”，他会毫不犹豫地将这视为对其精神生命的残暴抹杀！因为他切身体认到，让自己早晨从床上爬起来的动力，决不是“我拥有多少历史累积的物资”，而是“今天还有未竟的因果链等待我去闭合”。他对自己采用的是开放的主权书写模型，将每一次不满足体验为神圣的受托责任与探索之火。
+外部的客观环境（无论是历史积攒的科技工具，还是身旁同伴的相对位阶）确实构成了个体行动所不可脱离的现实背景。但背景永远只是背景，它在因果律上断不能代替个人做出抉择，更无法决定由抉择所生成的个人自我价值感。
 
-然而一旦转向面对大众，他的心智编译器立刻切换到了冷酷的机械决定论模式。他把具体的公众建模成一台“输入-输出状态机”：输入端是智能手机、抗生素与廉价蛋白质，输出端就理应产出“幸福”、“知足”与“温顺”。当状态机的输出出现偏差（公众表现出焦虑与失落），他不仅不反思模型对人性的降维阉割，反而斥责机器本身发生了故障，甚至指责大众缺乏正和思维。宣讲者向大众开出的知足药方，恰恰直接否定了宣讲者自身之所以成为其本人的全部存在前提！正如在 [宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/) 中所解构的，这种姿态是试图用第三人称的汇总参数去取消第一人称主权抉择的伪权力幻象。
+正是在这一点上，两座阳台展现出同构的因果幻相：
+乐观主义者以为，社会生产力的宏观演进自然会向外溢出充沛物资，从而大众不需要凭借自身的探索与承担，便理应感到富足与感恩；
+悲观主义者则以为，个体的贫困是他人的富裕所导致的罪过，因而个体的境况只能仰赖外部财富的强制转移来解救。
+**两者的潜意识出发点如出一辙：皆误以为人的生存境遇与精神尊严，可以通过外部力量的输入来代理决定。**
 
-与此同时，对立面的反驳者也陷入了对应的反应性陷阱。反驳者敏锐地察觉到了被当成被动状态机来规训的屈辱，但他由于同样缺乏对自我价值来源的清醒认识，误以为唯一的反击就是退守到“财富天然是零和排位”的狭隘教条中，将一切宏大愿景全盘斥为“宣传骗局”与“虚假泡沫”。这种全盘解构虽然带来了口头宣泄的快感，却让反驳者自身也沦为了阳台上的旁观客，沉溺于道德指责，全然放弃了在现实摩擦中开辟自身行动回路的主权。
+由此产生了一条极为残酷的认识论铁律：
+**“个人贫富既不是他人的富裕造成的，也不能被他人财富的转移所解决。”**
+那些执迷于将一切苦难归咎于外部贫富差距的人，看似在为弱者鸣不平，实则是在认识论上把导致贫困的全部因果权放逐到了贫困者之外。**而恰恰是把原因归结到贫困者之外，全然剥夺了个体认领自身选择的能动性，才让贫困者真正陷入了无法自拔的精神与现实绝境！** 一旦心智深信自身命运全由外部掠夺所操纵，它便主动放弃了作为第一人称因果引擎的杠杆，蜕化为一具只能在看台上无休止宣泄怨恨的空转齿轮。
+
+而技术宣讲者内在模型的本体论分裂，同样加剧了这种死结：
+宣讲者自己身家丰沛、掌控庞大资本，其91岁高龄的导师至今仍在商界前线奋战，宣讲者自己亦每周高强度调度资源、创立机构、参与竞争。如果有人用他自己的说辞去规训他：“你拥有的算力与资产已经百倍于路易十四，你现在必须立刻停下所有项目，坐在有空调的房间里感恩知足”，他会毫不犹豫地将这视为对其精神生命的残暴抹杀！因为他切身体认到，让自己早晨从床上爬起来的动力，决不是“我拥有多少历史累积的物资”，而是“今天还有未竟的因果链等待我去闭合”。他对自己采用的是开放的主权书写模型，将每一次不满足体验为神圣的受托责任与探索之火。
+
+然而一旦转向面对大众，他的心智编译器立刻切换到了冷酷的机械决定论模式。他把具体的公众建模成一台“输入-输出状态机”：输入端是智能手机、抗生素与廉价蛋白质，输出端就理应产出“幸福”、“知足”与“温顺”。当状态机的输出出现偏差（公众表现出焦虑与失落），他不仅不反思模型对人性的降维阉割，反而斥责机器本身发生了故障，甚至指责大众缺乏正和思维。宣讲者向大众开出的知足药方，恰恰直接否定了宣讲者自身之所以成为其本人的全部存在前提！正如在 [宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/) 中所解构的，这是试图用第三人称的汇总参数去取消第一人称主权抉择的伪权力幻象。
 
 ```mermaid
 graph TD
-    subgraph Category_Split["【范畴错位：历史财富度量 vs 自我价值生成】"]
+    subgraph Shared_Error["【两派共同的范畴错位：背景参考 vs 决定变量】"]
         direction TB
-        C1["宏观历史财富度量（客观存量）<br/>卡路里、寿命、算力、抗生素<br/>（第三人称统计读数：‘这并没有错’）"]
-        C2["微观自我价值度量（主观生成）<br/>对未竟之事的自主书写与因果闭环<br/>（第一人称存在原点：‘绝非人们衡量自我的方式’）"]
-        C1 -.->|"范畴混淆：妄图用历史存量替代自我价值"| C2
+        E1["外部衡量标准（纵向历史增量 / 横向同伴差距）<br/>真实地位：个人微观选择所必须考虑的‘背景参考’"]
+        E2["致命范畴倒错：将背景错置为因果上的‘决定变量’<br/>（以为外部力量能够代为决定个体的境况与尊严）"]
+        E1 -.->|"范畴错位"| E2
     end
 
-    subgraph Asymmetry["【视角的本体论不对称与双标模型】"]
+    subgraph Two_Illusions["【外部因果幻相的同构表现】"]
         direction TB
-        Self_Model["宣讲者对自身的模型：开放创生<br/>（价值源于闭合未竟责任；拒绝任何停工规训）"]
-        Other_Model["宣讲者对他者的模型：决定论机器<br/>（要求大众充当被动容器；以物质投喂锁定知足）"]
-        Opponent_Trap["反方的反应性陷阱：虚无指控<br/>（将自我价值等同于零和排位；在全盘否定中放弃主权行动）"]
-        Self_Model ===>|"本体论分裂：为己保留自由，对他施加规训"| Other_Model
-        Other_Model -.->|"激起反弹与对抗"| Opponent_Trap
+        I_Opt["乐观主义之幻相：技术溢出自然救赎<br/>（‘穷人无需自身努力即可坐享满足’）"]
+        I_Pess["悲观主义之幻相：贫困系他人之罪，仰赖财富转移<br/>（将因果放逐于人外，致使贫困者无法自拔）"]
+        I_Opt <===>|"同构机理：皆抹杀个人自由选择的原动力"| I_Pess
     end
 
-    Category_Split ===>|"认识论断裂"| Asymmetry
+    subgraph Sovereign_Truth["【第一人称因果定律】"]
+        direction TB
+        ST["个人贫富既非他人富裕所致，亦不能靠财富转移解决；<br/>真正改变现状的原动力，唯独在每个个人的自由选择"]
+    end
 
-    style Category_Split fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style Asymmetry fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style C1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style C2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style Self_Model fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style Other_Model fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style Opponent_Trap fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
+    Shared_Error ===> Two_Illusions
+    Two_Illusions ===> Sovereign_Truth
+
+    style Shared_Error fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+    style Two_Illusions fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style Sovereign_Truth fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
+    style E1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
+    style E2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style I_Opt fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
+    style I_Pess fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
+    style ST fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0883e
 ```
 
 Amid the endless volley of rhetoric between the two balconies, a far more lucid diagnosis cuts through the superficial crossfire directly to the core of the deadlock:
 **"You're measuring others' wealth in historical terms, which isn't wrong, but that's not how most people measure self-worth, including yourself. Believing others should measure themselves this way is unrealistic."**
 
-This diagnosis exposes the fatal category error embedded in techno-optimist preaching, along with a profound ontological asymmetry in the modeling of minds. As analyzed in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/), an identical consciousness inevitably fractures when applying open-ended axioms to itself while imposing deterministic models onto others.
+This diagnosis exposes a striking epistemological reality: **the two ostensibly warring factions commit the identical category error, differing only in degree and ideological direction.**
 
-Consider, first, the category error: measuring wealth in historical terms and measuring self-worth belong to two distinct ontological registers. The historical parameters cited by the commentator are not wrong in the domain of macro statistics—ordinary people today enjoy access to antibiotics, compute, and calorie density that surpass medieval kings. The error lies in attempting to force this third-person historical inventory to serve as a settlement currency for first-person self-worth. Human self-worth is not generated by contrasting one's caloric intake with a nineteenth-century textile worker; it is actively authored within the immediate friction of lived existence through sovereign choices and causal closures.
+As analyzed in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/), both sides mistake external criteria—whether longitudinal historical trendlines or horizontal inequality rankings—for causal determinant variables, forgetting that they serve merely as contextual backgrounds within which individuals choose.
 
-This exposes the severe schizophrenia within the commentator's mental architecture:
+External conditions (whether accumulated historical technologies or the immediate status ranking of peers) certainly form the unavoidable terrain of action. But a background is merely a backdrop; in the cybernetics of reality, it can never substitute for personal choice, nor can it dictate the self-worth generated through that choice.
+
+On this pivotal point, both balconies mirror the exact same causal illusion:
+Optimists believe that macro technological evolution naturally spills over sufficient goods, so ordinary individuals should feel satisfied and grateful without personal exploration and striving;
+Pessimists believe that individual poverty is the crime of others' wealth, so personal deprivation can only be redeemed through external, forced wealth transfers.
+**Their underlying premise is identical: both assume that human circumstance and dignity can be externally determined and proxied.**
+
+From this emerges a ruthless epistemological law:
+**"Personal wealth or poverty is neither caused by others' wealth, nor can it be resolved by the transfer of others' wealth."**
+Those obsessed with blaming poverty on wealth inequality may imagine they are defending the vulnerable, but they are outsourcing the causal engine of reality outside the impoverished soul. **And it is precisely attributing the cause outside the poor that renders them utterly unable to extricate themselves!** Once a mind genuinely believes its destiny is determined entirely by external exploitation, it surrenders its primary causal leverage, decaying into a passive observer stranded on the balcony, perpetually recycling grievances.
+
+Meanwhile, the commentator's internal schizophrenia deepens the divide:
 For themselves, they inhabit an open, non-deterministic generative reality. The commentator commands vast capital; their ninety-one-year-old mentor battles relentlessly on the corporate front lines; the commentator works grueling hours orchestrating projects, founding organizations, and competing in global markets. If someone turned their own rhetoric back upon them—demanding: "You possess computing power and living standards hundreds of times greater than Louis XIV; you must immediately halt your projects, sit in an air-conditioned room, and feel grateful and content"—they would experience the command as psychological execution. They know viscerally that what pulls them out of bed is not historical inventory, but an open causal horizon demanding closure. For themselves, dissatisfaction is not an error; it is an honorable stewardship and the fire of exploration.
 
 Yet the moment they turn toward the public, their internal compiler collapses into crude mechanistic determinism. They model the public as a closed input-output automaton: feed in smartphones, antibiotics, and cheap calories on the left, and out must pop gratitude and contented compliance on the right. When the automaton malfunctions—when people express existential angst or political frustration—the commentator does not reconsider their reductionist model; instead, they declare the machine defective, castigating the public for failing to grasp positive-sum thinking. The prescription offered to the public contradicts the very existential ground that makes the prescriber's own life meaningful. As demonstrated in [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/), this is the grand illusion of substituting macro descriptive summaries for living micro sovereign choices.
 
-Simultaneously, the adversarial critic falls into a symmetric reactive trap. Sensing the humiliation of being modeled as a passive automaton, yet lacking a clear distinction regarding the true locus of self-worth, the critic retreats into the dogma that wealth is purely positional and zero-sum. They reduce all macro aspirations to "ruling-class propaganda" and "speculative bubbles." While this debunking offers the cheap dopamine of moral righteousness, it strands the critic on an opposing balcony—obsessed with unmasking adversaries while surrendering their own sovereign agency to author constructive causal loops in the real world.
-
 ```mermaid
 graph TD
-    subgraph Category_Split_EN["[Category Error: Historical Wealth vs. Self-Worth]"]
+    subgraph Shared_Error_EN["[Shared Category Error: Contextual Background vs. Determinant]"]
         direction TB
-        C1_EN["Macro Historical Wealth (Objective Stock)<br/>Calories, lifespans, compute, medicine<br/>(Third-person metric: 'Which isn't wrong')"]
-        C2_EN["Micro Self-Worth (Subjective Authorship)<br/>Authored closure of unfinished causal loops<br/>(First-person locus: 'Not how people measure self-worth')"]
-        C1_EN -.->|"Category Error: Forcing historical stock as proxy for self-worth"| C2_EN
+        E1_EN["External Criteria (Longitudinal Progress / Horizontal Inequality)<br/>True status: The 'contextual background' within which individuals choose"]
+        E2_EN["Fatal Category Reversal: Mistaking background for 'causal determinant'<br/>(Assuming external forces determine personal circumstance and dignity)"]
+        E1_EN -.->|"Category Error"| E2_EN
     end
 
-    subgraph Asymmetry_EN["[Ontological Asymmetry: The Double Standard]"]
+    subgraph Two_Illusions_EN["[Symmetric External Causal Illusions]"]
         direction TB
-        Self_Model_EN["Commentator's Self-Model: Open Agency<br/>(Worth through closing unfinished responsibility; refuses closure)"]
-        Other_Model_EN["Commentator's Model of Other: Deterministic Machine<br/>(Treats populace as passive container; mandates contentment)"]
-        Opponent_Trap_EN["Critic's Reactive Trap: Cynical Nihilism<br/>(Equates worth with positional ranking; surrenders agency to unmasking)"]
-        Self_Model_EN ===>|"Ontological Rupture: Agency for self, domestication for other"| Other_Model_EN
-        Other_Model_EN -.->|"Provokes resentment & polarization"| Opponent_Trap_EN
+        I_Opt_EN["Optimist Illusion: Technological abundance saves automatically<br/>('The poor should sit back and feel satisfied without effort')"]
+        I_Pess_EN["Pessimist Illusion: Poverty caused by others, solved by redistribution<br/>(Outsources causality externally, trapping the poor in helplessness)"]
+        I_Opt_EN <===>|"Identical Mechanism: Denying the primary engine of personal choice"| I_Pess_EN
     end
 
-    Category_Split_EN ===>|"Epistemological Rupture"| Asymmetry_EN
+    subgraph Sovereign_Truth_EN["[First-Person Cybernetic Law]"]
+        direction TB
+        ST_EN["Personal wealth/poverty is neither caused by others' wealth nor solved by wealth transfer;<br/>The true primary engine transforming reality lies in individual sovereign choice"]
+    end
 
-    style Category_Split_EN fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style Asymmetry_EN fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style C1_EN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style C2_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style Self_Model_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style Other_Model_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style Opponent_Trap_EN fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
+    Shared_Error_EN ===> Two_Illusions_EN
+    Two_Illusions_EN ===> Sovereign_Truth_EN
+
+    style Shared_Error_EN fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+    style Two_Illusions_EN fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+    style Sovereign_Truth_EN fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
+    style E1_EN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
+    style E2_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style I_Opt_EN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
+    style I_Pess_EN fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
+    style ST_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0883e
 ```
 
 ---
