@@ -61,9 +61,9 @@ Full essay: https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
 
 ### C. WeChat Video Channels / 微信视频号 (Chinese)
 
-**Title Format**:
+**Title Format (Strictly <= 16 Chinese characters)**:
 ```text
-{{CORE_TITLE_ZH}}
+{{SHORT_TITLE_ZH_LE_16_CHARS}}
 ```
 
 **Caption Format**:
@@ -75,6 +75,8 @@ Full essay: https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
 {{PARAGRAPH_3: 多主体博弈中的主权抉择与行动呼唤}}
 
 完整长文：https://powerpig99.github.io/not-a-toe/posts/{{SLUG}}/
+
+#话题1 #话题2 #话题3 #话题4 #非万物之理
 ```
 
 ---
@@ -125,7 +127,7 @@ Full essay: https://powerpig99.github.io/not-a-toe/posts/the-inversion-of-the-ha
 ---
 
 ### WeChat Video Channels (微信视频号)
-**Title**:
+**Title (<= 16字)**:
 框架的倒置与驾驶位的主权非对称
 
 **Caption**:
@@ -136,6 +138,8 @@ Full essay: https://powerpig99.github.io/not-a-toe/posts/the-inversion-of-the-ha
 更需要穿透的是“母体误归因”：长期驾驭智能体所带来的惊艳交付，真正发生跃迁的决非概率矩阵本身，而是那位始终占据驾驶位、不断进行意图提纯与架构升维的你自身！AI是放大器，被动乘客走向技能萎缩，主权驾驶员迎来千倍爆发。握紧你的控制手柄，在真实世界行使属于你的造物主权！
 
 完整长文：https://powerpig99.github.io/not-a-toe/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/
+
+#AI智能体 #主权心智 #第一人称视角 #非万物之理
 
 ---
 

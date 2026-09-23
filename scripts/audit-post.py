@@ -374,9 +374,14 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
 
     # 7. Walkthrough copy check (if walkthrough provided or discovered)
     if not walkthrough_path:
-        brain_walkthrough = Path("/Users/jingliang/.gemini/antigravity/brain/f0e7480f-958a-4183-80da-595bc3ad23df/walkthrough.md")
-        if brain_walkthrough.is_file():
-            walkthrough_path = brain_walkthrough
+        brain_base = Path("/Users/jingliang/.gemini/antigravity/brain")
+        active_walkthrough = brain_base / "f0e7480f-958a-4183-80da-595bc3ad23df" / "walkthrough.md"
+        if active_walkthrough.is_file():
+            walkthrough_path = active_walkthrough
+        elif brain_base.is_dir():
+            candidates = sorted(brain_base.glob("*/walkthrough.md"), key=lambda p: p.stat().st_mtime, reverse=True)
+            if candidates:
+                walkthrough_path = candidates[0]
 
     if walkthrough_path and Path(walkthrough_path).is_file():
         with open(walkthrough_path, 'r', encoding='utf-8') as wf:
@@ -424,6 +429,41 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         fake_walkthrough_domains = re.findall(r'https?://(?:www\.)?not-?a-?toe\.(?:org|com|net|io|ai|xyz)', w_content, re.IGNORECASE)
         if fake_walkthrough_domains:
             errors.append(f"Fake/hallucinated domain detected in walkthrough ({fake_walkthrough_domains}). Canonical site is strictly: https://powerpig99.github.io/not-a-toe/")
+
+        # Specific check for WeChat Video Channels: Short Title (<= 16 chars) and Topic Terms (#...)
+        wechat_patterns = ['WeChat Video Channels', '微信视频号']
+        wechat_found_pos = -1
+        for pat in wechat_patterns:
+            pos = w_content.find(pat)
+            if pos != -1:
+                wechat_found_pos = pos
+                break
+        if wechat_found_pos != -1:
+            next_header = re.search(r'\n#{2,3}\s+', w_content[wechat_found_pos + 10:])
+            end_pos = (wechat_found_pos + 10 + next_header.start()) if next_header else len(w_content)
+            wechat_sec = w_content[wechat_found_pos:end_pos]
+
+            # 1. Short Title check:
+            title_match = re.search(r'\*\*(?:(?:Short\s+)?Title|视频标题(?:文案)?)(?:\s*\([^)]*\))?\*\*[:：]\s*(.+)', wechat_sec, re.IGNORECASE)
+            if not title_match:
+                errors.append("Walkthrough WeChat Video Channels copy missing short title. Format: '**Title (<= 16字)**: <短标题>'")
+            else:
+                raw_title = title_match.group(1).strip()
+                clean_title = re.sub(r'^[`"\'“”‘’]+|[`"\'“”‘’]+$', '', raw_title).strip()
+                title_len = len(clean_title)
+                if title_len == 0:
+                    errors.append("Walkthrough WeChat Video Channels title is empty.")
+                elif title_len > 16:
+                    errors.append(f"Walkthrough WeChat Video Channels title exceeds 16 Chinese characters ({title_len} chars > 16 max): '{clean_title}'. WeChat Video Channel cards strictly truncate titles longer than 16 characters.")
+                else:
+                    passes.append(f"Walkthrough WeChat Video Channels short title check ('{clean_title}', {title_len}/16 chars)")
+
+            # 2. Topic terms check:
+            tags = re.findall(r'#([^\s#]+)', wechat_sec)
+            if len(tags) < 2:
+                errors.append(f"Walkthrough WeChat Video Channels copy missing topic terms (found {len(tags)}; requires at least 3-5 tags, e.g. #话题1 #话题2 #话题3).")
+            else:
+                passes.append(f"Walkthrough WeChat Video Channels topic terms check ({len(tags)} tags found: {' '.join('#' + t for t in tags[:5])})")
 
     # 8. Companion NotebookLM prompts audit
     prompts_dir = root / 'notebooklm-auto' / 'prompts'
