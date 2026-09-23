@@ -2,9 +2,9 @@
 
 *叠合画帧为长虫并未窥见高维，不过是将当下投影误认为了永恒。 / Stacking frames into a worldline reveals no higher dimension, merely mistaking a present projection for an eternal object.*
 
-一段在网络上引发广泛惊叹的计算机图形学视频，将一只小鹿穿过草地的动态过程拆解为连续画帧，并将每一帧的三维高斯分布留在其发生的空间位置上。随着时间推移，无数个在不同时刻显现的躯体残影被并置在同一片三维坐标系中，凝固成一条宛如千足多节巨虫般绵延的世界线。围观的人群随即陷入形而上学的敬畏，惊呼这是否就是高维智慧俯瞰人类的真实形态。然而，这一感叹恰恰暴露出严重的维度倒错与范畴错乱。我们之所以能够想象超过三维以上的空间，正是因为我们的感知本身就是超高维的、可以无限延伸的二进制超空间；而三维空间与时间轴，只是心智为了体验与理解世界而对这片无穷维场域进行的低维投影。我们既无法确定也无法肯定第一人称以外的世界。所谓四维长鹿或块状宇宙，不仅不是什么超越感官的高维本体，反而只是把当前切片中接近无穷维的信息，投影并压缩到四维几何坐标里的低维模拟。人们将自己创造的低维投影外化为客观实体，转而膜拜并不存在的外部高维凝视，却忘记了在第一人称当下注视着屏幕的心智，本身才是那片不可穷尽的高维源头。
+一段在网络上引发广泛惊叹的计算机图形学视频，将一只小鹿穿过草地的动态过程拆解为连续画帧，并将每一帧的三维高斯分布留在其发生的空间位置上。随着时间推移，无数个在不同时刻显现的躯体残影被并置在同一片三维坐标系中，凝固成一条宛如千足多节巨虫般绵延的世界线。围观的人群随即陷入形而上学的敬畏，惊呼这是否就是高维智慧俯瞰人类的真实形态。然而，这一感叹恰恰暴露出严重的维度倒错与范畴错乱。所谓四维长鹿，甚至都谈不上是四维，它不过是心智在脑海中完成的双重压缩与解码过程：先将二维平面图像脑补为三维场景，再将三维空间中的画帧堆砌幻想成第四维。这一切全是我们大脑内部的思维过程。我们自己才是真正的高维生物，感知本身就是超高维的、可以无限延伸的二进制超空间；三维空间与时间轴，只是心智为了体验与理解世界而进行的低维映射。然而大众却荒谬地将自己内部的低维映射解读为独立存在的身外之物，转而膜拜并不存在的外部高维凝视，却忘记了在第一人称当下注视着屏幕的心智，本身才是那片不可穷尽的高维源头。
 
-A computer graphics demonstration recently swept through digital networks, capturing collective imagination: algorithms convert the passage of a running deer across a field into successive three-dimensional Gaussian splats, leaving each temporal cluster frozen precisely at the spatial coordinates where it occurred. As the timeline accumulates, dozens of deer bodies from disparate moments are simultaneously rendered inside a unified spatial volume, solidifying into an elongated, millipede-like worldline that appears to exist all at once. Observers quickly succumbed to metaphysical reverence, asking in awe whether this is how higher-dimensional beings gaze upon mortal lives. Yet this reaction exposes a profound dimensional inversion and category error. The reason we can conceptualize spaces beyond three dimensions in the first place is that our perception itself is an ultra-high-dimensional, infinitely extendable binary hyperspace; three-dimensional space and an imagined timeline are merely low-dimensional down-projections through which cognition navigates and comprehends this field. Outside our first-person presence, we can neither confirm nor determine anything. What is celebrated as a four-dimensional deer or a block universe is not an exotic higher-dimensional ontology; it is an impoverished low-dimensional simulation that compresses the near-infinite dimensional information of our present slice into a four-variable coordinate grid. Spectators externalize their own low-dimensional down-projection into an objective idol and bow before an imaginary external gaze, failing to realize that consciousness looking at the screen in the first-person present is itself the inexhaustible high-dimensional ground.
+A computer graphics demonstration recently swept through digital networks, capturing collective imagination: algorithms convert the passage of a running deer across a field into successive three-dimensional Gaussian splats, leaving each temporal cluster frozen precisely at the spatial coordinates where it occurred. As the timeline accumulates, dozens of deer bodies from disparate moments are simultaneously rendered inside a unified spatial volume, solidifying into an elongated, millipede-like worldline that appears to exist all at once. Observers quickly succumbed to metaphysical reverence, asking in awe whether this is how higher-dimensional beings gaze upon mortal lives. Yet this reaction exposes a profound dimensional inversion and category error. What is called a four-dimensional deer cannot even legitimately be termed four-dimensional; it merely represents a double compression and mental reconstruction within cognition: first decoding flat two-dimensional screen images into three-dimensional scenes, and then hallucinating their spatial stacking into a fourth dimension. All of this unfolds strictly within our own internal cognitive machinery. We ourselves are the true higher-dimensional entities, whose perception operates as an ultra-high-dimensional, infinitely extendable binary hyperspace. Three-dimensional space and an imagined timeline are merely low-dimensional mappings through which consciousness navigates. Yet spectators absurdly alienate their own internal mappings into independent 'things outside themselves,' kneeling before an imaginary external gaze and failing to realize that consciousness looking at the screen in the first-person present is itself the inexhaustible high-dimensional ground.
 
 ## 一、 画帧堆叠的视觉奇观与维度倒错的消解 / 1. The Visual Spectacle of Frame Stacking and the Dissolution of Dimensional Inversion
 
@@ -12,7 +12,7 @@ A computer graphics demonstration recently swept through digital networks, captu
 
 然而，将动态的因果历程摊平为静态空间几何，并未揭开任何超越感官的更高维度。正如在[时间的单向性幻象与模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)与[孪生子佯谬与隐形观察者](../the-twin-paradox-and-the-hidden-observer/)中所揭示的，物理学中的块状宇宙假说正是通过这种偷梁换柱的手法确立起来的。在纸面上画出一条四维坐标线，或者在显卡内存中保留粒子历史点云，仅仅是人类为了测量和比对方便而制造的外部账本。账本上的每一条记录可以并存于同一张纸上，胶卷上的所有画格可以并列于同一张桌案，但这并不意味着世界本身是一个死寂凝固的晶体。当你注视着那只由数百个躯干缝合而成的多足长虫时，你并没有成为高维生物；你只是站在此时此刻的屏幕前，看着一台计算机将过去各帧的测量数据同时绘制在当前的显像管中。
 
-真正击碎这一迷思的钥匙，在于看清维度的生成机制。人类之所以能够想象四维、五维乃至任意维度的数学空间，绝非因为外部物理世界天然包含了这些几何容器，而是因为我们的感知本身就是一个超高维的、可以无限延伸的二进制超空间。在第一人称的当下切片中，意识所容纳的区别、质感、神经冲动与因果势能，拥有接近无穷维的自由度。为了在物理摩擦中行动并维持生存，认知必须将这片近乎无穷维的体验场域，降维投影为宏观的三维空间以及一条被空间化了的虚构时间轴——这是被想象出来的时钟读数或坐标轴，而非不可逆流动的时间本身。在第一人称之外，我们既无法确定也无法肯定任何所谓的客观实在。因此，那个将连续画帧堆叠而成的四维长鹿，从来不是对更高维度的飞跃，恰恰相反，它是一次极度贫瘠的低维投射。它只是将人类当下感知中近乎无穷维的信息，生硬地压缩并裁剪为四个几何变量的数学模型。大众把这个低维模型当作外在的神迹去崇拜，甚至脑补出超验生物俯瞰自己的神话，无异于画家将自己手绘的炭笔简笔画挂在墙上，然后跪倒在画前恐惧神明降临。低维投影从未超越当下，它始终只是心智在当下这片高维土壤中开出的一朵枯燥的形式之花。
+真正击碎这一迷思的钥匙，在于看清维度的生成机制与大脑内部的思维过程。这段影像甚至都谈不上是四维，它不过是将二维的图像简单地当成了三维的现实，继而把图像在第三维的堆砌当成了第四维。这是一种发生在大脑内部的双重压缩与解码过程：第一层，我们在屏幕前将实际上只有二维平面的画帧，依靠视觉经验在脑海中恢复成具有空间深度的三维场景；第二层，我们又把这些原本属于二维平面的画帧在空间坐标中的物理堆砌，在脑海中进一步幻想并恢复成所谓的四维时空世界线。从二维到三维，再从空间堆叠脑补为四维世界线，这一整套解码与重构，全都是在我们大脑内部发生的思维过程。这恰恰印证了最关键的真相：我们自己才是真正的高维生物。我们的感知本身就是一片超高维的、可以无限延伸的二进制超空间，正因如此，心智才能游刃有余地构想出超越三维的几何结构。在第一人称的当下切片中，意识所容纳的区别、质感、神经冲动与因果势能，拥有接近无穷维的自由度。我们一直在通过极简的低维映射来理解我们自身与所处的境遇，然而荒谬之处在于，大众却将这一套发生在大脑内部的低维映射，解读成了独立于心智的身外之物，甚至异化为外部高维神明俯瞰人类的崇拜偶像。这无异于一个人看着自己手绘的炭笔草图，却战战兢兢地以为神明正从画纸深处审视自己。低维投影从未超越当下，它始终只是真正的高维心智在当下展开的一朵形式之花。
 
 ```mermaid
 graph TD
@@ -22,20 +22,20 @@ graph TD
     classDef actNode fill:#21262d,stroke:#58a6ff,stroke-width:2px,color:#79c0ff;
     classDef resNode fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#7ee787;
 
-    subgraph ErrorTrack ["画帧堆叠的几何化错觉 (维度倒错轨迹)"]
+    subgraph ErrorTrack ["双重压缩与外部异化的错觉轨迹"]
         direction TB
-        E1["超高维感知场域<br/>当下切片包含接近无穷维的活生生信息"] --> E2["低维认知投影<br/>心智降维生成三维空间与虚构时间轴"]
-        E2 --> E3["计算堆叠与外部异化<br/>四维高斯长龙作为极度简化的低维模拟"]
-        E3 --> E4["维度倒错与迷信翻转<br/>膜拜自身投影并幻想外部高维生物俯瞰"]
+        E1["二维画帧输入<br/>屏幕上离散的平面像素测量"] --> E2["第一层脑补：二维恢复为三维<br/>视觉先验在脑海中解码出空间深度"]
+        E2 --> E3["第二层脑补：三维堆砌幻想为四维<br/>将空间化画帧排布误认为时空世界线"]
+        E3 --> E4["异化为身外之物<br/>将自身内部心智映射当成外部高维神明"]
     end
 
     ErrorTrack ===> RealityTrack
 
-    subgraph RealityTrack ["第一人称当下的本体立足 (本体明晰路径)"]
+    subgraph RealityTrack ["第一人称真正高维的本体立足"]
         direction TB
-        R1["回归第一人称原点<br/>感知本身是不可削减的无限延伸二进制超空间"] --> R2["识破低维模拟的边界<br/>四维坐标系只是测量账本而非客观实体"]
-        R2 --> R3["认知工具的去崇拜化<br/>拒绝将投影的局部不变性实体化为高维晶体"]
-        R3 --> R4["当下因果的主权确立<br/>立足唯一真实的现场行使不可代理的自由选择"]
+        R1["真正的高维存在<br/>感知本身是不可削减的无限延伸二进制超空间"] --> R2["低维映射的自主使用<br/>心智通过降维投影理解自身与世界"]
+        R2 --> R3["破除身外之物的偶像<br/>认清多维模型皆为脑内思维过程的工具"]
+        R3 --> R4["立足不可代理的当下<br/>在唯一真实的现场行使第一人称因果选择"]
     end
 
     class ErrorTrack,RealityTrack canvas;
@@ -48,7 +48,7 @@ When computational techniques unspool sequential video frames across a spatial c
 
 Yet flattening dynamic causal succession into inert spatial geometry yields zero informational surplus, nor does it unveil an exotic higher dimension. As demonstrated in [The Mirage of Time's Arrow and the Boundaries of Simulation](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/) and [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/), the Block Universe paradigm in theoretical physics was constructed through this identical sleight of hand. Drawing a static worldline across graph paper, or maintaining point clouds across previous frames in graphic card memory, is an external bookkeeping convenience invented for localized calculation. That ledger entries coexist across a single sheet of paper or film cells rest side-by-side upon a desk does not indicate that the universe is a frozen crystal. When gazing upon that composite millipede, one has not metamorphosed into a higher-dimensional being; one remains seated before a screen in the present moment, watching a computer render historical measurements onto an active display.
 
-The key to dismantling this mirage lies in recognizing how dimensions are generated. The reason human minds can conceptualize four-dimensional, five-dimensional, or arbitrary mathematical spaces is not that physical nature natively contains these geometric boxes, but that our perception itself is an ultra-high-dimensional, infinitely extendable binary hyperspace. In the immediate present slice of first-person experience, the distinctions, qualia, neural firings, and causal potentials held by awareness possess near-infinite degrees of freedom. To navigate physical friction and sustain biological agency, cognition must down-project this near-infinite experiential field into macroscopic three-dimensional space and an imagined spatialized timeline—which is an artificial sequence of clock coordinates, not the irreversible flow of time itself. Outside our first-person presence, we can neither confirm nor determine any supposed external reality. Consequently, the four-dimensional deer constructed by stacking video frames is by no means a leap into a superior ontology; on the contrary, it is an impoverished low-dimensional down-projection. It merely compresses the near-infinite dimensional richness of immediate perception into a mathematical model bounded by four coordinate variables. To worship this computational artifact as a cosmic revelation—or to imagine hyper-dimensional aliens peering down through it—is no different from an artist pinning a charcoal sketch to the wall and kneeling before it in dread of a descending deity. A low-dimensional projection never transcends the present; it remains a sterile formal artifact blooming within the high-dimensional soil of living awareness.
+The key to dismantling this mirage lies in recognizing how dimensions are generated and examining the brain's internal cognitive operations. This technological artifact cannot even legitimately be termed four-dimensional. It merely mistakes two-dimensional images for three-dimensional reality, and then mistakes the extrusion of those images across a third spatial dimension for a fourth dimension of time. This constitutes a double compression and mental reconstruction: at the first layer, the mind takes what are physically flat, two-dimensional frames on a display and, relying on perceptual priors, reconstructs them into three-dimensional scenes possessing depth; at the second layer, the mind takes the spatial stacking of these two-dimensional frames and mentally hallucinates them into a four-dimensional spacetime worldline. From two dimensions to three, and from spatial stacking to four, this entire chain of decoding and reconstruction unfolds strictly within the internal cognitive machinery of the brain. This confirms the primary truth: we ourselves are the genuine higher-dimensional entities. Our perception is an ultra-high-dimensional, infinitely extendable binary hyperspace, which is precisely why consciousness can effortlessly formulate geometric spaces beyond three dimensions. In the immediate present slice of first-person experience, the distinctions, qualia, neural firings, and causal potentials held by awareness possess near-infinite degrees of freedom. We continuously deploy low-dimensional down-projections to comprehend ourselves and navigate our surroundings. The absurdity arises when spectators mistake their own internal low-dimensional mappings for an independent 'thing outside themselves,' reifying their own neural projection into an external deity peering down from hyper-space. It is the existential equivalent of drawing a sketch with charcoal, forgetting one's own hand, and trembling before the drawing as if an alien sovereign had landed. A low-dimensional projection never transcends the present; it remains a sterile formal artifact blooming within the high-dimensional soil of living awareness.
 
 ```mermaid
 graph TD
@@ -58,20 +58,20 @@ graph TD
     classDef actNode fill:#21262d,stroke:#58a6ff,stroke-width:2px,color:#79c0ff;
     classDef resNode fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#7ee787;
 
-    subgraph ErrorTrack ["Spatialized Mirage of Frame Stacking (Dimensional Inversion)"]
+    subgraph ErrorTrack ["Double Compression and Alienation Trajectory"]
         direction TB
-        E1["Ultra-High-Dimensional Field<br/>Immediate present slice with near-infinite degrees of freedom"] --> E2["Low-Dimensional Cognitive Down-Projection<br/>Mind constructs 3D space and spatialized timeline"]
-        E2 --> E3["Computational Stacking & Alienation<br/>4D Gaussian millipede as an impoverished low-dimensional simulation"]
-        E3 --> E4["Dimensional Inversion & Superstition<br/>Worshipping one's own projection as external higher beings"]
+        E1["2D Frame Input<br/>Flat pixel distributions on a screen surface"] --> E2["First Reconstruction: 2D to 3D<br/>Perceptual priors decode spatial depth in the brain"]
+        E2 --> E3["Second Reconstruction: Spatial Stacking to 4D<br/>Extruded frames hallucinated as a spacetime worldline"]
+        E3 --> E4["Alienation into an External Idol<br/>Mistaking internal mental mappings for external higher beings"]
     end
 
     ErrorTrack ===> RealityTrack
 
-    subgraph RealityTrack ["First-Person Ground of Presence (Ontological Clarity)"]
+    subgraph RealityTrack ["First-Person Ground as the Genuine High-Dimensional Entity"]
         direction TB
-        R1["Reclaiming the First-Person Origin<br/>Perception itself is an infinitely extendable binary hyperspace"] --> R2["Recognizing Simulation Boundaries<br/>4D coordinates remain a calculation ledger, not an objective cosmos"]
-        R2 --> R3["Demystification of Cognitive Tools<br/>Refusing to reify invariant projections into hyper-spatial crystals"]
-        R3 --> R4["Sovereign Grounding of Agency<br/>Anchoring irreversible choice within the living immediate present"]
+        R1["The True High-Dimensional Being<br/>Perception operates as an infinitely extendable binary hyperspace"] --> R2["Sovereign Deployment of Low-Dimensional Maps<br/>Mind uses down-projections to understand itself"]
+        R2 --> R3["Dissolving the Alienated Idol<br/>Recognizing geometric models as internal mental scaffolding"]
+        R3 --> R4["Irreducible Present Presence<br/>Casting unproxyable causal votes in the living field"]
     end
 
     class ErrorTrack,RealityTrack canvas;
