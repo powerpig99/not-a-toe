@@ -12,7 +12,7 @@ A protracted and recurring dispute dominates contemporary public discourse: one 
 
 这场在社交媒体上反复爆发的交锋，在外部观察者眼中，首先表现为两套截然对立的第三人称图景的激烈撞击。正如在 [隐形的上帝之眼](../the-invisible-gods-eye/) 中所揭示的，一旦心智撤退到奥林匹斯山般的阳台俯瞰众生，活生生的人便被抽离了呼吸与具身摩擦，蜕变为坐标系中的抽象数据点。
 
-第一套图景是技术精英所占据的**正和纵向物质阳台**。以具有代表性的科技投资人论调为例，其核心论点是跨越百年的客观物质指标：一百年前同一个生物机体所能获取的卡路里、寿命、照明、医疗与流通算力，在数量级上皆远逊于今日；二十年后的未来亦将大幅超越当下。在这一图景中，“我们所有人比起过去都极度富有”被树立为一个无可置疑的正和博弈事实。然而，这类表面上的乐观主义在极力强调历史巨大进步的同时，却轻描淡写了自身在当前横截面上远超常人、且自身永不满足的财富聚集。他们的深层假设是：社会发展自然会提供充裕的条件，从而穷人不需要通过自身的艰苦探索，即可坐享值得知足的成果。于是，大众持久的普遍不满被他们轻率地诊断为文化层面的认知缺陷——认为公众受困于狭隘的“零和偏见”，或是迟钝于更新自身的参考坐标系（reference class），因而必须接受居高临下的感恩规训。
+第一套图景是技术精英所占据的**正和纵向物质阳台**。以具有代表性的科技投资人论调为例，其核心论点是跨越百年的客观物质指标：一百年前同一个生物机体所能获取的卡路里、寿命、照明、医疗与流通算力，在数量级上皆远逊于今日；二十年后的未来亦将大幅超越当下。在这一图景中，“我们所有人比起过去都极度富有”被树立为一个无可置疑的正和博弈事实。然而，这类表面上的乐观主义在极力强调历史巨大进步的同时，却轻描淡写了自身在当前横截面上远超常人、且自身永不满足的财富聚集。他们的深层假设是：社会发展自然会提供充裕的条件，从而穷人不需要通过自身的艰苦探索，即可坐享值得知足的成果。于是，大众持久的普遍不满被他们轻率地诊断为文化层面的认知缺陷——认为公众受困于狭隘的“零和偏见”，或是迟钝于更新自身的参照系，因而必须接受居高临下的感恩规训。
 
 第二套图景则是网络舆论场中反驳者所占据的**零和横向排位阳台**。面对技术精英的宏大布道，对立面的声音报以冷酷而愤怒的断然否决：“‘所有人都会变得富有’在逻辑上毫无意义；当你在公开场域兜售这种虚妄之词时，它便是不折不扣的意识形态宣传；所谓的人工智能革命，不过是资本推高估值的虚火泡沫与荒谬骗局。”持这一视角的反驳者敏锐且正确地捕捉到：人们在现实生活中多半是通过与身旁同伴的横向比较，来切实感知自身的贫困或富足。然而，他们的致命盲区在于，将这种横向排位视为了不可逾越的决定因素，全然无视了文明演进所积累的庞大财富增量。更深层的动机在于，过度聚焦贫富差距，实质上是在为强行推动财富转移寻找道德借口，把贫困定性为他人致富的罪过。占据这一看台的批判者以揭穿者与受害者自居，用道德指责替代对自身行动回路的构建，将一切技术浪潮贬斥为加剧剥削的谎言。
 
@@ -105,10 +105,14 @@ graph TD
 **“个人贫富既不是他人的富裕造成的，也不能被他人财富的转移所解决。”**
 那些执迷于将一切苦难归咎于外部贫富差距的人，看似在为弱者鸣不平，实则是在认识论上把导致贫困的全部因果权放逐到了贫困者之外。**而恰恰是把原因归结到贫困者之外，全然剥夺了个体认领自身选择的能动性，才让贫困者真正陷入了无法自拔的精神与现实绝境！** 一旦心智深信自身命运全由外部掠夺所操纵，它便主动放弃了作为第一人称因果引擎的杠杆，蜕化为一具只能在看台上无休止宣泄怨恨的空转齿轮。
 
-而技术宣讲者内在模型的本体论分裂，同样加剧了这种死结：
-宣讲者自己身家丰沛、掌控庞大资本，其91岁高龄的导师至今仍在商界前线奋战，宣讲者自己亦每周高强度调度资源、创立机构、参与竞争。如果有人用他自己的说辞去规训他：“你拥有的算力与资产已经百倍于路易十四，你现在必须立刻停下所有项目，坐在有空调的房间里感恩知足”，他会毫不犹豫地将这视为对其精神生命的残暴抹杀！因为他切身体认到，让自己早晨从床上爬起来的动力，决不是“我拥有多少历史累积的物资”，而是“今天还有未竟的因果链等待我去闭合”。他对自己采用的是开放的主权书写模型，将每一次不满足体验为神圣的受托责任与探索之火。
+这一范畴倒错绝非某位评论者的偶然偏执，而是弥漫于当代技术先锋与宏观叙事中的普遍结构性现象。一个极具代表性的当代案例，便是埃隆·马斯克所倡导的“全民高收入”构想。在这一技术图景中，伴随人工智能与具身智能机器人的极端普及，物质商品与专业服务的边际成本将趋近于零；全社会不仅不再需要仅仅用于维系生存的“全民基本收入”，更将直接迈入人人皆可随意调用充沛资源的“全民高收入”时代，劳作不再具有经济强迫性，而蜕变为自主的选择。
 
-然而一旦转向面对大众，他的心智编译器立刻切换到了冷酷的机械决定论模式。他把具体的公众建模成一台“输入-输出状态机”：输入端是智能手机、抗生素与廉价蛋白质，输出端就理应产出“幸福”、“知足”与“温顺”。当状态机的输出出现偏差（公众表现出焦虑与失落），他不仅不反思模型对人性的降维阉割，反而斥责机器本身发生了故障，甚至指责大众缺乏正和思维。宣讲者向大众开出的知足药方，恰恰直接否定了宣讲者自身之所以成为其本人的全部存在前提！正如在 [宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/) 中所解构的，这是试图用第三人称的汇总参数去取消第一人称主权抉择的伪权力幻象。
+表面上看，“全民高收入”被包装为宏大慈悲的技术红利；然而，它在公众心智中激起的不仅不是由衷的庆幸，反而是深沉的虚无与存在性恐慌。这恰恰是因为该构想深陷于同样的认识论范畴错误：**它误以为人的自我价值、精神尊严与生命锚点，可以通过被动消费外部输入的丰沛物质来生成。** 在这套宏大蓝图中，整个人类社会被无形地建模成了一座自动化温室中被悉心喂养的宠物。
+
+这一预言最具讽刺意味的自我破产，恰恰来自倡导者自身的生命形态：
+那些向全社会布道“全民高收入”的前沿构建者，自身却断然不会选择这样的生存方式！如果无尽的物质供给与免除劳作真的是生命的至高意义，那么早已坐拥数千亿美元资产、掌控庞大工业帝国的构建者们，理应早已退隐海岛享受无节制的被动消费。然而事实恰恰相反：他们依然每周高强度工作八十甚至上百小时，往返于火箭发射架与自动化车间之间，主动承受巨大的物理阻力与精神重压。因为在第一人称的具身现场，他们比谁都更真切地体认到：让人早晨从床上爬起来的动力，断不是“外部系统往账户里注入了多少资产与消费配额”，而是“今天还有未竟的因果链等待我去闭合”。对自身，他们坚守着非决定论的生成式主权，将未完成的阻力体认为探索的受托责任与生命火种。
+
+然而，一旦转向为全人类设计未来，其心智编译器便骤然切换到了粗陋的机械决定论模式。他们把具体的大众建模成一台“输入-输出状态机”：以为只要在输入端注入“全民高收入”、智能终端与廉价蛋白质，输出端就理应产出“知足”、“幸福”与“温顺”。当公众流露出失落、焦虑乃至愤怒，他们不仅不反思模型对主体能动性的阉割，反而斥责大众缺乏正和思维与大历史格局。前沿精英向公众兜售的知足解药，恰恰直接否定了精英自身之所以立足的全部存在前提！正如在 [宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/) 中所解构的，这是试图用第三人称的外部供给汇总参数，去取消第一人称主权抉择的原动力。
 
 ```mermaid
 graph TD
@@ -121,7 +125,7 @@ graph TD
 
     subgraph Two_Illusions["【外部因果幻相的同构表现】"]
         direction TB
-        I_Opt["乐观主义之幻相：技术溢出自然救赎<br/>（‘穷人无需自身努力即可坐享满足’）"]
+        I_Opt["乐观主义之幻相：技术溢出与‘全民高收入’自然救赎<br/>（‘外部供给充沛即可替代自主探索’）"]
         I_Pess["悲观主义之幻相：贫困系他人之罪，仰赖财富转移<br/>（将因果放逐于人外，致使贫困者无法自拔）"]
         I_Opt <===>|"同构机理：皆抹杀个人自由选择的原动力"| I_Pess
     end
@@ -159,10 +163,14 @@ From this emerges a ruthless epistemological law:
 **"Personal wealth or poverty is neither caused by others' wealth, nor can it be resolved by the transfer of others' wealth."**
 Those obsessed with blaming poverty on wealth inequality may imagine they are defending the vulnerable, but they are outsourcing the causal engine of reality outside the impoverished soul. **And it is precisely attributing the cause outside the poor that renders them utterly unable to extricate themselves!** Once a mind genuinely believes its destiny is determined entirely by external exploitation, it surrenders its primary causal leverage, decaying into a passive observer stranded on the balcony, perpetually recycling grievances.
 
-Meanwhile, the commentator's internal schizophrenia deepens the divide:
-For themselves, they inhabit an open, non-deterministic generative reality. The commentator commands vast capital; their ninety-one-year-old mentor battles relentlessly on the corporate front lines; the commentator works grueling hours orchestrating projects, founding organizations, and competing in global markets. If someone turned their own rhetoric back upon them—demanding: "You possess computing power and living standards hundreds of times greater than Louis XIV; you must immediately halt your projects, sit in an air-conditioned room, and feel grateful and content"—they would experience the command as psychological execution. They know viscerally that what pulls them out of bed is not historical inventory, but an open causal horizon demanding closure. For themselves, dissatisfaction is not an error; it is an honorable stewardship and the fire of exploration.
+This category error is by no means an accidental quirk of any single commentator, but a pervasive, structural phenomenon across contemporary technological discourse and macro narratives. A quintessential contemporary case is Elon Musk's advocacy of **"Universal High Income" (UHI)**. In this expansive techno-vision, with the radical maturation of artificial intelligence and humanoid robotics, the marginal cost of goods and services drops toward zero; society no longer requires a meager "Universal Basic Income" (UBI) merely to keep bodies alive, but leaps into an era of Universal High Income where any good or service can be summoned on demand, and labor ceases to be an economic necessity, becoming entirely elective.
 
-Yet the moment they turn toward the public, their internal compiler collapses into crude mechanistic determinism. They model the public as a closed input-output automaton: feed in smartphones, antibiotics, and cheap calories on the left, and out must pop gratitude and contented compliance on the right. When the automaton malfunctions—when people express existential angst or political frustration—the commentator does not reconsider their reductionist model; instead, they declare the machine defective, castigating the public for failing to grasp positive-sum thinking. The prescription offered to the public contradicts the very existential ground that makes the prescriber's own life meaningful. As demonstrated in [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/), this is the grand illusion of substituting macro descriptive summaries for living micro sovereign choices.
+On the surface, Universal High Income is framed as the ultimate benevolent technological dividend; yet rather than evoking liberation, it triggers widespread existential dread and disorientation across the public. This occurs because the blueprint suffers from the identical epistemological category error: **it presumes that human self-worth, spiritual dignity, and existential grounding can be generated through the passive consumption of externally supplied material abundance.** Within this grand schema, humanity is reduced to pampered pets fed inside an automated terrarium.
+
+The most telling self-refutation of this blueprint comes directly from the lived realities of its proponents:
+Those who preach Universal High Income to the public would never choose such an existence for themselves! If effortless material abundance and freedom from work were genuinely the summit of human flourishing, frontier builders commanding hundreds of billions of dollars and vast industrial empires would have long since retired to unbridled consumption. Yet the reality is precisely the opposite: they work grueling eighty-to-hundred-hour weeks, shuttling between launch pads and factory floors, actively shouldering physical friction and systemic stress. In their own embodied first-person experience, they know with visceral clarity: what pulls a conscious mind out of bed is never "how much inventory the system deposits into my account," but "there is an unclosed causal loop waiting for my agency to act." For themselves, they defend an open-ended, non-deterministic generative sovereignty, experiencing unfinished resistance as sacred stewardship and the life-force itself.
+
+Yet the moment they turn to architect the future for humanity, their internal compiler collapses into crude mechanistic determinism. They model the public as a closed input-output automaton: feed in Universal High Income, digital entertainment, and cheap calories on the left, and out must pop grateful contentment and compliance on the right. When the public expresses angst, dislocation, or anger, the architects do not reconsider the reductionism of their model; instead, they castigate the public for lacking positive-sum thinking. The sedative offered to the public contradicts the very existential ground that makes the architects' own lives meaningful. As demonstrated in [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/), this is the grand illusion of substituting macro descriptive summaries of external supply for living micro sovereign choices.
 
 ```mermaid
 graph TD
@@ -175,7 +183,7 @@ graph TD
 
     subgraph Two_Illusions_EN["[Symmetric External Causal Illusions]"]
         direction TB
-        I_Opt_EN["Optimist Illusion: Technological abundance saves automatically<br/>('The poor should sit back and feel satisfied without effort')"]
+        I_Opt_EN["Optimist Illusion: Abundance and 'Universal High Income' redeem automatically<br/>('Passive external provision replaces autonomous striving')"]
         I_Pess_EN["Pessimist Illusion: Poverty caused by others, solved by redistribution<br/>(Outsources causality externally, trapping the poor in helplessness)"]
         I_Opt_EN <===>|"Identical Mechanism: Denying the primary engine of personal choice"| I_Pess_EN
     end
@@ -213,7 +221,7 @@ graph TD
 当我们同时完成这两套第一人称的具身模拟时，奇妙的相变发生了：**这两套体验不仅没有相互抵消，反而在更深邃的因果底层拼合为同一块硬币的两面。**
 它们从同一个未闭合回路的相反两侧，揭示出同一条刚性的本体论不变量：
 
-> **人的内在价值与存在尊严，从不依附于既成结果的被动堆砌，而唯独源自那份被自己切实认领为主权行动的未竟之行（Worth is generated by an unfinished act that feels like one’s own）。**
+> **人的内在价值与存在尊严，从不依附于既成结果的被动堆砌，而唯独源自那份被自己切实认领为主权行动的未竟之行。**
 
 创造者之所以停不下来，是因为他在未竟的创造中体证着生命；普通人之所以无法被统计数字说服，是因为他在没有书写权的丰裕中窒息。两者的精神痛苦同源同构：没有主权书写权的生命，等同于被判处了认识论死刑。
 
@@ -311,18 +319,20 @@ graph TD
 
 ## 四、 无法被代理占领的原点 / 4. The Unproxyable Origin
 
-因此，这场争论的解构之道，决不在于在两个阳台之间分出高下，挑选一个更为高明的俯瞰位置。正如在 [任务的托付与结果的不可让渡性](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) 中所确立的铁律，任何主权心智的核心体验与因果代价，皆存在着不可跨越的本体论视界边界。
+因此，这场争论的解构，决不在于在两个阳台之间分出胜负，挑选一个站位更优越的看台去开具新的药方。正如在 [任务的托付与结果的不可让渡性](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) 中所确立的，任何主权心智的核心体验与因果代价，皆存在着不可跨越的视界边界。
 
-**真正的诊断在于敏锐地洞察：迄今为止，公共场域中的几乎每一声呐喊与反驳，都是从高高在上的阳台上发出的；而那个能让因果回路被真正切身体验的行动原点，在物理和信息论上永远无法被代理所占领（cannot be occupied by proxy）。**
+迄今为止，公共场域中的几乎每一声呐喊与反驳，都依然是从高高在上的阳台上发出的。而那个能让因果回路被切身体验的行动原点，在物理和信息论上永远无法被代理所占领。
 
-一旦看透了这一层，所有关于历史数字的宏大列举，以及所有关于言行不一的犀利反诘，都在瞬间退居为次要的派生数据。我们不再需要为GDP增长曲线或科技博主的言论做辩护，也不必沉溺于解构精英特权的道德狂欢。
+一旦看清这一层，剥离掉所有喧嚣的第三人称伪饰之后，景象便退去了宏大的眩晕，显现出极其朴素的现实：
+场上剩下的，无非是两个同样身处半途、同样被未竟之事所牵引的心智；他们只是各自误用了一套第三人称的虚构故事，试图去论证为什么对方理应早就完工并闭嘴。
 
-剥离掉所有喧嚣的第三人称伪饰之后，真实的景象极其单纯而朴素：
-**场上剩下的，无非是两个同样身处半途、同样被未竟之事所撕扯的心智；他们只是各自误用了一套第三人称的虚构故事，试图去论证为什么对方“理应早就完工并闭嘴”。**
+阳台上的布道者试图用物质指标宣告大众的历程已经终结，借此安抚自身面对复杂世界时的规训焦虑；对抗者则试图用道德审判宣告创造者的追求已经越轨，借此逃避自己在现实阻力中开拓属于自身微观闭环的艰辛。
 
-阳台上的布道者试图用物质指标宣告大众的历程已经终结，借此掩盖自己不愿分享生产资料与书写特权的自私；阳台下的对抗者试图用道德审判宣告创造者的追求已经越轨，借此逃避自己在现实阻力中开拓属于自身微观闭环的艰辛。这两者皆是在逃避真正的第一人称因果闭环。
+回到第一人称，并不是向他人推销某种普遍适用的救世方案。一旦把第一人称包装成要求所有人采纳的方案，便不过是搭建了另一座更加隐蔽的道德阳台。这仅仅是作为一个生命在现场时的自我体认：
 
-当我们收回那只妄图在阳台上指挥他人的手，重新撤回到自身不可让渡的第一人称原点时，规训的冲动便会自然消解。你不能替他人感到饱足，正如他人无法替你承受未竟之责。走出阳台的规训幻相，把未竟的权利归还给每一个行进中的生命，人类文明的引擎才不会在彼此的傲慢与怨怼中空转，而是在无数个自负其责的主权闭环中，激荡出永不熄灭的生机。
+我无法替他人感到饱足，他人也断然无法替我承受未竟之责。外部的宏观指标——不论是科技所创造的庞大历史增量，还是当下触目可见的阶层差距——都只是我做出选择时必须直面的背景，它们从来无法在因果上代我做出抉择，更无法代我体会由抉择所生成的自我价值。
+
+收回那只妄图在阳台上指挥与评判他人的手，规训的冲动便自然隐退。留在我眼前的，唯有那个不可让渡、不可代理的第一人称原点，以及那份正等待着我去切实行动、且唯有我自己才能闭合的未竟之行。
 
 ```mermaid
 graph TD
@@ -333,14 +343,14 @@ graph TD
         B1_Node <--->|"互相开具决定论诊断书"| B2_Node
     end
 
-    subgraph Descent["【认识论跃迁：撤出阳台，归还原点】"]
+    subgraph Descent["【认识论复归：撤出阳台，立足原点】"]
         direction TB
-        Origin1["创造者的第一人称现场<br/>（独属于其自身的未竟之责）"]
-        Origin2["个体的第一人称现场<br/>（独属于其自身的主权书写）"]
-        Origin1 -.->|"各自闭合本地因果回路"| Origin2
+        Origin1["非推销的解决方案<br/>（拒绝成为另一座救世阳台）"]
+        Origin2["立足第一人称的审视<br/>（各自认领不可代理的未竟之行）"]
+        Origin1 -.->|"自我体认"| Origin2
     end
 
-    Balconies ===>|"放弃阳台规训，下沉至不可代理的原点"| Descent
+    Balconies ===>|"放弃阳台规训，退回第一人称原点"| Descent
 
     style Balconies fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style Descent fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
@@ -350,18 +360,20 @@ graph TD
     style Origin2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-The resolution to this dispute does not consist in adjudicating which balcony offers the superior view. As formalized in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), an insurmountable ontological horizon surrounds every sovereign mind's causal feedback loop.
+The resolution to this dispute does not consist in adjudicating which balcony offers the superior view, nor in pitching yet another prescription from on high. As formalized in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), an insurmountable ontological horizon surrounds every sovereign mind's causal feedback loop.
 
-**The definitive diagnostic is to recognize that every argument delivered thus far has been launched from a balcony—and that the only perspective in which the cybernetic loop is genuinely felt is the one that cannot be occupied by proxy.**
+Thus far, virtually every outcry and rebuttal across the public sphere has been launched from a detached balcony. Yet the origin where causal loops are genuinely felt in the flesh can never be occupied by proxy.
 
-Once this is grasped, the recitation of historical metrics and the clever critiques of elite hypocrisy collapse into secondary artifacts. We no longer need to argue over macroeconomic charts, nor do we need to wallow in cynical dissections of billionaire psychology.
+Once this is grasped, reality sheds its polemical third-person rhetoric and resolves into a simple, unadorned state:
+What remains on the field is merely two minds, each suspended in mid-journey, each animated by an unfinished arc; they have merely misapplied third-person fictions to rationalize why the other party should already be done and quiet.
 
-Stripped of its third-person polemics, reality stands clear:  
-**What remains is two minds, each still in the middle of something unfinished, each using a third-person narrative to rationalize why the other should already be done.**
+The preacher on the balcony invokes material metrics to declare the public's journey complete, soothing their own managerial anxiety; the critic invokes moral verdicts to declare the builder's striving illicit, evading the friction of carving out their own local closure.
 
-The preacher on the balcony invokes historical trends to pronounce that the public's journey is complete, thereby evading the reality that people desire agency rather than finished handouts; the critic on the opposing balcony invokes moral indignation to pronounce that the builder's striving is pathological, thereby evading the terrifying burden of carving out their own sovereign locus in the face of physical resistance. Both maneuvers are transparent evasions of first-person causal responsibility.
+Returning to the first person is not a universal solution pitched to others. The moment the first person is packaged into a universal program for the world to adopt, it merely constructs yet another concealed balcony. Rather, it is simply a reflection from within the first-person locus:
 
-When we withdraw the intrusive hand seeking to manipulate others from third-person balconies, and anchor ourselves irrevocably within our own unproxyable origin, the disciplinary impulse dissolves. You cannot experience satiety on behalf of another, just as no external observer can bear the weight of your unfinished horizon. Stepping off the balcony and returning the right of the unfinished act to every living mind ensures that civilization's engines cease grinding in mutual resentment, igniting instead the unquenchable vitality of sovereign souls authoring their own destinies.
+I cannot experience satiety on behalf of another, just as no external observer can bear the weight of my unfinished responsibilities. External conditions—whether sweeping historical compounding or immediate status disparities—are merely the background terrain against which I choose; they cannot causally dictate my decisions, nor can they author the self-worth that only sovereign action generates.
+
+When I withdraw the hand that seeks to direct and judge others from the balcony, the disciplinary impulse dissolves on its own. What remains is simply the inalienable, unproxyable first-person origin, and the unfinished act waiting for my own choices to bring it toward closure.
 
 ```mermaid
 graph TD
@@ -372,14 +384,14 @@ graph TD
         B1_EN_Node <--->|"Exchanging third-person prescriptions"| B2_EN_Node
     end
 
-    subgraph Descent_EN["[Epistemological Phase Shift: Descending to the Origin]"]
+    subgraph Descent_EN["[Epistemological Return: Stepping Off the Balcony]"]
         direction TB
-        Origin1_EN["Builder's First-Person Locus<br/>(Their unproxyable responsibility to close gaps)"]
-        Origin2_EN["Individual's First-Person Locus<br/>(Their unproxyable demand to author agency)"]
-        Origin1_EN -.->|"Closing sovereign causal loops locally"| Origin2_EN
+        Origin1_EN["Not a Pitched Solution<br/>(Refusing to erect yet another pulpit)"]
+        Origin2_EN["First-Person Reflection<br/>(Owning one's own unproxyable, unfinished act)"]
+        Origin1_EN -.->|"Somatic reflection"| Origin2_EN
     end
 
-    Balconies_EN ===>|"Abandoning balcony discipline, descending to unproxyable origins"| Descent_EN
+    Balconies_EN ===>|"Abandoning balcony discipline, returning to the origin"| Descent_EN
 
     style Balconies_EN fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
     style Descent_EN fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
