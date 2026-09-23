@@ -90,10 +90,7 @@ graph TD
 
 ## 二、 共同的范畴错位与因果权的外部放逐 / 2. The Shared Category Error and the Outsourcing of Causality
 
-正是在两座阳台无休止的互掷标枪之中，一个更为清醒的诊断穿透了表层的口水战，一针见血地点破了死结的核心所在：
-**“你用历史跨度来度量他人的财富，这并没有错；但这决非绝大多数人用来衡量自我价值的方式，包括你自己也不会这么衡量。相信他人理应如此衡量自己，是不切实际的。”**
-
-这一诊断揭示出一个惊人的认识论事实：**表面上剑拔弩张的争论双方，实质上犯下的是同一个范畴错误，差异仅仅在于偏执的方向与程度。**
+两座阳台的隔空对撞之所以陷入死结，是因为双方皆深陷于对“价值与境遇如何生成”的深层误判。用历史跨度来度量物质财富的累积，描绘客观条件的变迁，这本身并没有错；但这决非大众用来衡量自我价值的方式，甚至宣讲者自己也断然不会用“拥有多少历史物资”来度量自身的存在。强求大众如此衡量自我，不仅脱离了鲜活的具身体验，更掩盖了一个深刻的认识论事实：**表面上剑拔弩张的争论双方，实质上犯下的是同一个范畴错误，差异仅仅在于偏执的方向与程度。**
 
 正如在 [主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) 中所论证的，争论双方皆把外部的衡量标准——无论是纵向的历史时间序列，还是横向的社会排位差距——当成了因果上的决定变量，而严重无视了它们仅仅是个人做出选择时必须直面的背景参考。
 
@@ -147,10 +144,7 @@ graph TD
     style ST fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0883e
 ```
 
-Amid the endless volley of rhetoric between the two balconies, a far more lucid diagnosis cuts through the superficial crossfire directly to the core of the deadlock:
-**"You're measuring others' wealth in historical terms, which isn't wrong, but that's not how most people measure self-worth, including yourself. Believing others should measure themselves this way is unrealistic."**
-
-This diagnosis exposes a striking epistemological reality: **the two ostensibly warring factions commit the identical category error, differing only in degree and ideological direction.**
+The protracted deadlock between the two balconies stems from a shared misapprehension of how human value and living circumstance are actually generated. Measuring material wealth across historical scales and charting objective progress is not invalid in itself; but it is simply not how people evaluate their own self-worth, nor does the commentator evaluate their own existence by the historical inventory they command. Demanding that the public assess themselves by such external metrics is an unrealistic epistemic displacement that conceals a deeper truth: **the two ostensibly warring factions commit the identical category error, differing only in degree and ideological direction.**
 
 As analyzed in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/), both sides mistake external criteria—whether longitudinal historical trendlines or horizontal inequality rankings—for causal determinant variables, forgetting that they serve merely as contextual backgrounds within which individuals choose.
 
