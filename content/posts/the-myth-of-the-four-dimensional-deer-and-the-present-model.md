@@ -116,7 +116,7 @@ Consequently, there is no independent benchmark outside the immediate field agai
 
 在剥离了所有未经审视的科幻狂想与形而上学僭越之后，留存在真实认知地表上的基石其实非常质朴：一个不可削减的当下显现场域，心智在这个场域中所生成的正向与逆向投影，以及心智在这些投影之间所识别出的局部不变性。正是在这个意义上，[物理定律是脚手架而非世界的基石](../the-scaffolding-we-forget/)，科学模型只是描述不变性的实用图纸。
 
-那段令无数网民叹为观止的四维长鹿可视化，恰恰属于这样一种当下的构建。之所以不同的心智在观看那段视频时能够达成共识，甚至共同将其视为一只鹿在奔跑的客观轨迹，是因为该算法在视频连续帧之间以及在不同观众的视觉神经之间，呈现出了极高程度的不变性。相邻帧之间像素点的平滑过渡、四肢交替运动的解剖学连续性，让不同观察者在各自的当下生成了高度重合的模型。这种自洽赋予了画面令人窒息的真实感，但它丝毫没有证明四维空间中真实盘踞着一只永恒并存的长虫怪物。它不过是一个在当下碰巧展现出高度不变性、因而得以在不同心灵之间顺利交织的投影而已。
+那段令无数网民叹为观止的四维长鹿可视化，恰恰属于这样一种当下的构建。之所以不同的心智在观看那段视频时能够达成共识，甚至共同将其视为一只鹿在奔跑的客观轨迹，是因为该算法在视频连续帧之间以及在不同观众的视觉神经之间，呈现出了极高程度的不变性。相邻帧之间像素点的平滑过渡、四肢交替运动的解剖学连续性，让不同观察者在各自的当下生成了高度重合的模型。这种自洽赋予了画面令人窒息的真实感，但它并未证明四维空间中真实盘踞着一只永恒并存的长虫怪物。它是在当下展现出高度不变性、因而得以在不同心智之间顺利交织的形式投影。
 
 ```mermaid
 graph TD
@@ -159,7 +159,7 @@ Even when determining that one reconstruction "coheres better" than another, tha
 
 Stripping away computational romance leaves an austere foundation: an irreducible present field of appearance, projections synthesized within it, and invariances observed across those projections. As argued in [The Scaffolding We Forget](../the-scaffolding-we-forget/), formal scientific models are functional scaffolding, not ontological foundations.
 
-The viral visualization of the four-dimensional deer is precisely such a present synthesis. That disparate individuals concur on its meaning—treating it as an objective trajectory of animal locomotion—stems from the high invariance maintained across successive frames and visual processing systems. Smooth transitions between algorithmic iterations and anatomical consistency allow independent observers to assemble nearly identical mental projections. This resonance yields convincing phenomenological stability, yet it provides zero evidence that a petrified four-dimensional beast lurks in hyper-space. It is simply a projection that happens, in this moment, to cohere.
+The viral visualization of the four-dimensional deer is precisely such a present synthesis. That disparate individuals concur on its meaning—treating it as an objective trajectory of animal locomotion—stems from the high invariance maintained across successive frames and visual processing systems. Smooth transitions between algorithmic iterations and anatomical consistency allow independent observers to assemble nearly identical mental projections. This resonance yields convincing phenomenological stability, yet it provides no demonstration that a petrified four-dimensional beast lurks in hyper-space. It stands as a formal projection structured by high invariance, cohering across minds in the immediate present.
 
 ```mermaid
 graph TD
