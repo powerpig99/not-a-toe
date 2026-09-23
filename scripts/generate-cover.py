@@ -2,7 +2,7 @@
 """
 Not-a-ToE Standard Cover Image Generator
 Uses local Qwen-Image-2.1 (7B DiT + Qwen3-VL 8B, bfloat16 on Apple Silicon MPS)
-Default: Ultra-wide 21:9 aspect ratio (1344x576, ~0.77 MP, 30 steps, ~5 min on M4 Pro)
+Default: Ultra-wide 21:9 aspect ratio (1344x576, ~0.77 MP, 20 steps, ~3 min on M4 Pro)
 """
 
 import argparse
@@ -57,8 +57,8 @@ def parse_args():
     parser.add_argument(
         "--steps",
         type=int,
-        default=30,
-        help="Denoising steps (default: 30, ~5 min on M4 Pro)",
+        default=20,
+        help="Denoising steps (default: 20, ~3 min on M4 Pro)",
     )
     parser.add_argument(
         "--seed",
