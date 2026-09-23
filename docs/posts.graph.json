@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-22T18:15:56.635Z",
+    "generated_at": "2026-09-23T04:46:40.799Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -264,7 +264,7 @@
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
       "content/posts/the-model-never-becomes-a-second-edge.md": "6dec2cdef8ae",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
-      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "05fae0d07850",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "9d5f7707390b",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
       "content/posts/the-observational-cut-in-ai-debates.md": "170100d442c0",
@@ -302,6 +302,7 @@
       "content/posts/the-sovereign-blinding.md": "888e3fbe6aee",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
+      "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "e920b8ad9cbb",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "1ebeb38ad32d",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
@@ -350,13 +351,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 340,
-      "edges": 3399,
-      "unique_directed": 3093,
+      "posts": 341,
+      "edges": 3415,
+      "unique_directed": 3101,
       "missing_targets": 0,
-      "one_way": 819,
+      "one_way": 825,
       "isolated": 41,
-      "posts_with_outbound": 275
+      "posts_with_outbound": 276
     }
   },
   "hubs_in": [
@@ -1055,7 +1056,7 @@
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
       "hash": "a09e160a9ee7",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 7,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -4596,7 +4597,7 @@
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
       "hash": "e91d44269102",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 9,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
@@ -4774,7 +4775,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "868ab397f06e",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4894,7 +4895,7 @@
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
       "hash": "ed93adb4eeb6",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 12,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -5754,7 +5755,7 @@
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
       "hash": "3733c53cdbc6",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 6,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring",
@@ -5799,7 +5800,7 @@
       "path": "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md",
       "title": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation",
       "hash": "73983ea1555d",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
@@ -5924,16 +5925,17 @@
       "slug": "the-name-revolution-files-a-life-as-evidence",
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
-      "hash": "05fae0d07850",
-      "in_degree": 3,
-      "out_degree": 6,
+      "hash": "9d5f7707390b",
+      "in_degree": 4,
+      "out_degree": 7,
       "links_out": [
         "the-mind-as-vector-and-coordinate-system",
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "sovereignty-belief-and-regulatory-structures",
         "liberation-rhetoric-begins-by-defining-captivity",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
-        "openness-is-consistency"
+        "openness-is-consistency",
+        "the-summary-first-reversal-and-the-command-of-yields"
       ]
     },
     {
@@ -6781,6 +6783,25 @@
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "abstraction-boundaries-and-the-moving-edge-of-reality"
+      ]
+    },
+    {
+      "id": "post:the-summary-first-reversal-and-the-command-of-yields",
+      "kind": "post",
+      "slug": "the-summary-first-reversal-and-the-command-of-yields",
+      "path": "content/posts/the-summary-first-reversal-and-the-command-of-yields.md",
+      "title": "先汇总后个人的因果倒置与利率的命令幻相 / Summary First and the Causal Inversion of Yields",
+      "hash": "e920b8ad9cbb",
+      "in_degree": 1,
+      "out_degree": 7,
+      "links_out": [
+        "the-causal-inversion-of-partnership",
+        "choice-itself-has-no-inherent-weight",
+        "the-explanatory-trap-of-the-ordinary-perspective",
+        "the-name-revolution-files-a-life-as-evidence",
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-mind-as-vector-and-coordinate-system"
       ]
     },
     {
@@ -22962,6 +22983,12 @@
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "先汇总后个人的因果倒置与利率的命令幻相"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
       "label": "External Attribution is an Obstacle to Personal Progress"
@@ -22971,6 +22998,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is Consistency"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "Summary First, Person Second: The Causal Inversion of Yields"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
@@ -25593,6 +25626,90 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "合伙的因果倒置"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "The Causal Inversion of Partnership"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "选择本身毫无重量"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "宏观视角的解释陷阱"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the Ordinary Perspective"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "革命之名把生活收成证据"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的幻相与模拟的边界"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "The Name Revolution Files a Life as Evidence"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "The Mirage of Time's Arrow and the Boundaries of Simulation"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的让渡与后果的不可让渡"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "心智作为向量与坐标系"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
     },
     {
       "from": "the-surface-beneath",
