@@ -373,6 +373,7 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         passes.append("Mermaid check (no diagrams in this post)")
 
     # 7. Walkthrough copy check (if walkthrough provided or discovered)
+    explicit_walkthrough = bool(walkthrough_path)
     if not walkthrough_path:
         brain_base = Path("/Users/jingliang/.gemini/antigravity/brain")
         active_walkthrough = brain_base / "f0e7480f-958a-4183-80da-595bc3ad23df" / "walkthrough.md"
@@ -387,83 +388,89 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         with open(walkthrough_path, 'r', encoding='utf-8') as wf:
             w_content = wf.read()
 
-        missing_platforms = []
-        for platform_name, patterns in REQUIRED_WALKTHROUGH_SECTIONS:
-            if not any(pat in w_content for pat in patterns):
-                missing_platforms.append(platform_name)
-
-        if missing_platforms:
-            warnings.append(f"Walkthrough missing required sections for: {missing_platforms}")
-        else:
-            passes.append("Walkthrough copy check (NotebookLM Prompts, Spotify ZH/EN, WeChat Video, X EN all present)")
-
-        # Verify that all 4 platform copies include the exact canonical post URL
+        # If walkthrough was auto-discovered, verify it actually belongs to this post
         expected_canonical_url = f"https://powerpig99.github.io/not-a-toe/posts/{slug}/"
-        missing_url_platforms = []
-        platform_sections = [
-            ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
-            ('Spotify Podcast (EN)', ['Spotify Podcast (EN)', 'Spotify 播客（英文）']),
-            ('WeChat Video Channels', ['WeChat Video Channels', '微信视频号']),
-            ('X (Twitter)', ['X (Twitter)', 'X (Twitter) (EN Only)', 'Twitter (X)'])
-        ]
-        for name, patterns in platform_sections:
-            found_pos = -1
-            for pat in patterns:
+        if not explicit_walkthrough and expected_canonical_url not in w_content:
+            w_content = None
+
+        if w_content:
+            missing_platforms = []
+            for platform_name, patterns in REQUIRED_WALKTHROUGH_SECTIONS:
+                if not any(pat in w_content for pat in patterns):
+                    missing_platforms.append(platform_name)
+
+            if missing_platforms:
+                warnings.append(f"Walkthrough missing required sections for: {missing_platforms}")
+            else:
+                passes.append("Walkthrough copy check (NotebookLM Prompts, Spotify ZH/EN, WeChat Video, X EN all present)")
+
+            # Verify that all 4 platform copies include the exact canonical post URL
+            expected_canonical_url = f"https://powerpig99.github.io/not-a-toe/posts/{slug}/"
+            missing_url_platforms = []
+            platform_sections = [
+                ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
+                ('Spotify Podcast (EN)', ['Spotify Podcast (EN)', 'Spotify 播客（英文）']),
+                ('WeChat Video Channels', ['WeChat Video Channels', '微信视频号']),
+                ('X (Twitter)', ['X (Twitter)', 'X (Twitter) (EN Only)', 'Twitter (X)'])
+            ]
+            for name, patterns in platform_sections:
+                found_pos = -1
+                for pat in patterns:
+                    pos = w_content.find(pat)
+                    if pos != -1:
+                        found_pos = pos
+                        break
+                if found_pos != -1:
+                    next_header = re.search(r'\n#{2,3}\s+', w_content[found_pos + 10:])
+                    end_pos = (found_pos + 10 + next_header.start()) if next_header else len(w_content)
+                    sec_text = w_content[found_pos:end_pos]
+                    if expected_canonical_url not in sec_text:
+                        missing_url_platforms.append(name)
+
+            if missing_url_platforms:
+                errors.append(f"Walkthrough platform copies missing exact canonical live link ({expected_canonical_url}): {missing_url_platforms}. Must use exact URL with trailing slash.")
+            else:
+                passes.append("Walkthrough platform copy links check (all 4 platform copies include exact canonical post URL)")
+
+            # Strictly prohibit any fake/hallucinated domain in walkthrough
+            fake_walkthrough_domains = re.findall(r'https?://(?:www\.)?not-?a-?toe\.(?:org|com|net|io|ai|xyz)', w_content, re.IGNORECASE)
+            if fake_walkthrough_domains:
+                errors.append(f"Fake/hallucinated domain detected in walkthrough ({fake_walkthrough_domains}). Canonical site is strictly: https://powerpig99.github.io/not-a-toe/")
+
+            # Specific check for WeChat Video Channels: Short Title (<= 16 chars) and Topic Terms (#...)
+            wechat_patterns = ['WeChat Video Channels', '微信视频号']
+            wechat_found_pos = -1
+            for pat in wechat_patterns:
                 pos = w_content.find(pat)
                 if pos != -1:
-                    found_pos = pos
+                    wechat_found_pos = pos
                     break
-            if found_pos != -1:
-                next_header = re.search(r'\n#{2,3}\s+', w_content[found_pos + 10:])
-                end_pos = (found_pos + 10 + next_header.start()) if next_header else len(w_content)
-                sec_text = w_content[found_pos:end_pos]
-                if expected_canonical_url not in sec_text:
-                    missing_url_platforms.append(name)
+            if wechat_found_pos != -1:
+                next_header = re.search(r'\n#{2,3}\s+', w_content[wechat_found_pos + 10:])
+                end_pos = (wechat_found_pos + 10 + next_header.start()) if next_header else len(w_content)
+                wechat_sec = w_content[wechat_found_pos:end_pos]
 
-        if missing_url_platforms:
-            errors.append(f"Walkthrough platform copies missing exact canonical live link ({expected_canonical_url}): {missing_url_platforms}. Must use exact URL with trailing slash.")
-        else:
-            passes.append("Walkthrough platform copy links check (all 4 platform copies include exact canonical post URL)")
-
-        # Strictly prohibit any fake/hallucinated domain in walkthrough
-        fake_walkthrough_domains = re.findall(r'https?://(?:www\.)?not-?a-?toe\.(?:org|com|net|io|ai|xyz)', w_content, re.IGNORECASE)
-        if fake_walkthrough_domains:
-            errors.append(f"Fake/hallucinated domain detected in walkthrough ({fake_walkthrough_domains}). Canonical site is strictly: https://powerpig99.github.io/not-a-toe/")
-
-        # Specific check for WeChat Video Channels: Short Title (<= 16 chars) and Topic Terms (#...)
-        wechat_patterns = ['WeChat Video Channels', '微信视频号']
-        wechat_found_pos = -1
-        for pat in wechat_patterns:
-            pos = w_content.find(pat)
-            if pos != -1:
-                wechat_found_pos = pos
-                break
-        if wechat_found_pos != -1:
-            next_header = re.search(r'\n#{2,3}\s+', w_content[wechat_found_pos + 10:])
-            end_pos = (wechat_found_pos + 10 + next_header.start()) if next_header else len(w_content)
-            wechat_sec = w_content[wechat_found_pos:end_pos]
-
-            # 1. Short Title check:
-            title_match = re.search(r'\*\*(?:(?:Short\s+)?Title|视频标题(?:文案)?)(?:\s*\([^)]*\))?\*\*[:：]\s*(.+)', wechat_sec, re.IGNORECASE)
-            if not title_match:
-                errors.append("Walkthrough WeChat Video Channels copy missing short title. Format: '**Title (<= 16字)**: <短标题>'")
-            else:
-                raw_title = title_match.group(1).strip()
-                clean_title = re.sub(r'^[`"\'“”‘’]+|[`"\'“”‘’]+$', '', raw_title).strip()
-                title_len = len(clean_title)
-                if title_len == 0:
-                    errors.append("Walkthrough WeChat Video Channels title is empty.")
-                elif title_len > 16:
-                    errors.append(f"Walkthrough WeChat Video Channels title exceeds 16 Chinese characters ({title_len} chars > 16 max): '{clean_title}'. WeChat Video Channel cards strictly truncate titles longer than 16 characters.")
+                # 1. Short Title check:
+                title_match = re.search(r'\*\*(?:(?:Short\s+)?Title|视频标题(?:文案)?)(?:\s*\([^)]*\))?\*\*[:：]\s*(.+)', wechat_sec, re.IGNORECASE)
+                if not title_match:
+                    errors.append("Walkthrough WeChat Video Channels copy missing short title. Format: '**Title (<= 16字)**: <短标题>'")
                 else:
-                    passes.append(f"Walkthrough WeChat Video Channels short title check ('{clean_title}', {title_len}/16 chars)")
+                    raw_title = title_match.group(1).strip()
+                    clean_title = re.sub(r'^[`"\'“”‘’]+|[`"\'“”‘’]+$', '', raw_title).strip()
+                    title_len = len(clean_title)
+                    if title_len == 0:
+                        errors.append("Walkthrough WeChat Video Channels title is empty.")
+                    elif title_len > 16:
+                        errors.append(f"Walkthrough WeChat Video Channels title exceeds 16 Chinese characters ({title_len} chars > 16 max): '{clean_title}'. WeChat Video Channel cards strictly truncate titles longer than 16 characters.")
+                    else:
+                        passes.append(f"Walkthrough WeChat Video Channels short title check ('{clean_title}', {title_len}/16 chars)")
 
-            # 2. Topic terms check:
-            tags = re.findall(r'#([^\s#]+)', wechat_sec)
-            if len(tags) < 2:
-                errors.append(f"Walkthrough WeChat Video Channels copy missing topic terms (found {len(tags)}; requires at least 3-5 tags, e.g. #话题1 #话题2 #话题3).")
-            else:
-                passes.append(f"Walkthrough WeChat Video Channels topic terms check ({len(tags)} tags found: {' '.join('#' + t for t in tags[:5])})")
+                # 2. Topic terms check:
+                tags = re.findall(r'#([^\s#]+)', wechat_sec)
+                if len(tags) < 2:
+                    errors.append(f"Walkthrough WeChat Video Channels copy missing topic terms (found {len(tags)}; requires at least 3-5 tags, e.g. #话题1 #话题2 #话题3).")
+                else:
+                    passes.append(f"Walkthrough WeChat Video Channels topic terms check ({len(tags)} tags found: {' '.join('#' + t for t in tags[:5])})")
 
     # 8. Companion NotebookLM prompts audit
     prompts_dir = root / 'notebooklm-auto' / 'prompts'

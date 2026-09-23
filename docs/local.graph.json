@@ -3,12 +3,12 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-09-23T05:07:38.442Z",
+    "generated_at": "2026-09-23T06:10:20.908Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
       "content/posts/README.md": "22457f76134c",
-      "docs/essay-format.md": "f7be49ee789b",
+      "docs/essay-format.md": "2e8515bc4cce",
       "docs/export-for-substack.md": "9a2df9f4dfab",
       "docs/export-for-x-article.md": "55ab96853de2",
       "export/README.md": "c0a8866a454d",
@@ -307,7 +307,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "f7be49ee789b",
+      "hash": "2e8515bc4cce",
       "summary": "**Reference for site scaffold** — not absolute ground over the operator’s draft.",
       "headings": [
         "Essay Formatting Guide",

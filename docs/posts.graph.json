@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-23T05:07:38.610Z",
+    "generated_at": "2026-09-23T06:10:20.815Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -264,7 +264,7 @@
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
       "content/posts/the-model-never-becomes-a-second-edge.md": "6dec2cdef8ae",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
-      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "9d5f7707390b",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "0b795e820890",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
       "content/posts/the-observational-cut-in-ai-debates.md": "170100d442c0",
@@ -302,7 +302,7 @@
       "content/posts/the-sovereign-blinding.md": "888e3fbe6aee",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
-      "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "e0ed8d1636a3",
+      "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "092990906d6a",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "1ebeb38ad32d",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
@@ -5925,7 +5925,7 @@
       "slug": "the-name-revolution-files-a-life-as-evidence",
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
-      "hash": "9d5f7707390b",
+      "hash": "0b795e820890",
       "in_degree": 4,
       "out_degree": 7,
       "links_out": [
@@ -6790,8 +6790,8 @@
       "kind": "post",
       "slug": "the-summary-first-reversal-and-the-command-of-yields",
       "path": "content/posts/the-summary-first-reversal-and-the-command-of-yields.md",
-      "title": "先汇总后个人的因果倒置与利率的命令幻相 / Summary First and the Causal Inversion of Yields",
-      "hash": "e0ed8d1636a3",
+      "title": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields",
+      "hash": "092990906d6a",
       "in_degree": 1,
       "out_degree": 7,
       "links_out": [
@@ -22985,7 +22985,7 @@
       "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "先汇总后个人的因果倒置与利率的命令幻相"
+      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
@@ -23003,7 +23003,7 @@
       "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "Summary First, Person Second: The Causal Inversion of Yields"
+      "label": "Macro Parameters, Micro Choices, and the Command of Yields"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
