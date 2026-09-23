@@ -247,11 +247,16 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         passes.append("Mathematical notation check (0 raw $ symbols)")
 
     # 3. Absolute URL check
-    abs_matches = re.findall(r'https?://(?:powerpig99\.github\.io/not-a-toe|not-a-toe\.org)/posts/([a-zA-Z0-9_-]+)/?', content)
+    abs_matches = re.findall(r'https?://(?:powerpig99\.github\.io/not-a-toe)/posts/([a-zA-Z0-9_-]+)/?', content)
     if abs_matches:
         errors.append(f"Hardcoded absolute site URLs found for: {abs_matches}. Internal links MUST be relative: [title](../slug/).")
     else:
         passes.append("Link locality check (no hardcoded absolute site URLs)")
+
+    # Prohibit any fake/hallucinated domain in post content
+    fake_domains = re.findall(r'https?://(?:www\.)?not-?a-?toe\.(?:org|com|net|io|ai|xyz)', content, re.IGNORECASE)
+    if fake_domains:
+        errors.append(f"Prohibited fake/hallucinated site domain detected ({fake_domains}). Canonical site is https://powerpig99.github.io/not-a-toe/; internal links MUST be relative: [title](../slug/).")
 
     # 4. Cross-links resolution
     rel_links = re.findall(r'\[([^\]]+)\]\(\.\./([a-zA-Z0-9_-]+)/?(?:#[^)]*)?\)', content)
@@ -387,8 +392,8 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         else:
             passes.append("Walkthrough copy check (NotebookLM Prompts, Spotify ZH/EN, WeChat Video, X EN all present)")
 
-        # Verify that all 4 platform copies include the canonical post URL
-        expected_url_slug = f"posts/{slug}"
+        # Verify that all 4 platform copies include the exact canonical post URL
+        expected_canonical_url = f"https://powerpig99.github.io/not-a-toe/posts/{slug}/"
         missing_url_platforms = []
         platform_sections = [
             ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
@@ -407,13 +412,18 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 next_header = re.search(r'\n#{2,3}\s+', w_content[found_pos + 10:])
                 end_pos = (found_pos + 10 + next_header.start()) if next_header else len(w_content)
                 sec_text = w_content[found_pos:end_pos]
-                if expected_url_slug not in sec_text:
+                if expected_canonical_url not in sec_text:
                     missing_url_platforms.append(name)
 
         if missing_url_platforms:
-            warnings.append(f"Walkthrough platform copies missing canonical post link ({expected_url_slug}): {missing_url_platforms}")
+            errors.append(f"Walkthrough platform copies missing exact canonical live link ({expected_canonical_url}): {missing_url_platforms}. Must use exact URL with trailing slash.")
         else:
-            passes.append("Walkthrough platform copy links check (all 4 platform copies include canonical post URL)")
+            passes.append("Walkthrough platform copy links check (all 4 platform copies include exact canonical post URL)")
+
+        # Strictly prohibit any fake/hallucinated domain in walkthrough
+        fake_walkthrough_domains = re.findall(r'https?://(?:www\.)?not-?a-?toe\.(?:org|com|net|io|ai|xyz)', w_content, re.IGNORECASE)
+        if fake_walkthrough_domains:
+            errors.append(f"Fake/hallucinated domain detected in walkthrough ({fake_walkthrough_domains}). Canonical site is strictly: https://powerpig99.github.io/not-a-toe/")
 
     # 8. Companion NotebookLM prompts audit
     prompts_dir = root / 'notebooklm-auto' / 'prompts'
