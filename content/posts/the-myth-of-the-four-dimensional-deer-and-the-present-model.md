@@ -2,17 +2,17 @@
 
 *叠合画帧为长虫并未窥见高维，不过是将当下投影误认为了永恒。 / Stacking frames into a worldline reveals no higher dimension, merely mistaking a present projection for an eternal object.*
 
-一段在网络上引发广泛惊叹的计算机图形学视频，将一只小鹿穿过草地的动态过程拆解为连续画帧，并将每一帧的三维高斯分布留在其发生的空间位置上。随着时间推移，无数个原本在不同时刻显现的躯体残影被并置在同一片三维坐标系中，凝固成一条宛如千足多节巨虫般绵延的世界线。围观的人群随即陷入形而上学的狂欢，有人惊呼这是否就是高维智慧俯瞰人类的真实形态，也有人反转视角宣称我们自己就是正在审视低维投影的高维造物。然而，这场狂欢从一开始便建立在陈旧的范畴错乱之上：将运动的历史记录堆叠为静态的空间雕塑，既没有提供任何超越感官的洞见，也没有触及任何真实的高维存在。它不过是以现代图形算法为画笔，将物理学百年以来幽灵般徘徊的块状宇宙谬误，再次换装兜售给未经审视的直觉。
+一段在网络上引发广泛惊叹的计算机图形学视频，将一只小鹿穿过草地的动态过程拆解为连续画帧，并将每一帧的三维高斯分布留在其发生的空间位置上。随着时间推移，无数个在不同时刻显现的躯体残影被并置在同一片三维坐标系中，凝固成一条宛如千足多节巨虫般绵延的世界线。围观的人群随即陷入形而上学的敬畏，惊呼这是否就是高维智慧俯瞰人类的真实形态。然而，这一感叹恰恰暴露出严重的维度倒错与范畴错乱。我们之所以能够想象超过三维以上的空间，正是因为我们的感知本身就是超高维的、可以无限延伸的二进制超空间；而三维空间与时间轴，只是心智为了体验与理解世界而对这片无穷维场域进行的低维投影。我们既无法确定也无法肯定第一人称以外的世界。所谓四维长鹿或块状宇宙，不仅不是什么超越感官的高维本体，反而只是把当前切片中接近无穷维的信息，投影并压缩到四维几何坐标里的低维模拟。人们将自己创造的低维投影外化为客观实体，转而膜拜并不存在的外部高维凝视，却忘记了在第一人称当下注视着屏幕的心智，本身才是那片不可穷尽的高维源头。
 
-A computer vision demonstration recently swept through digital networks, capturing collective imagination: algorithms convert the passage of a running deer across a field into successive three-dimensional Gaussian splats, leaving each temporal cluster frozen precisely at the spatial coordinates where it occurred. As the timeline accumulates, dozens of deer bodies from disparate moments are simultaneously rendered inside a unified spatial volume, solidifying into an elongated, millipede-like worldline that appears to exist all at once. Observers quickly succumbed to metaphysical reverie: some asked in awe whether this is how higher-dimensional beings gaze upon mortal lives, while others inverted the claim, asserting that we ourselves are higher-dimensional entities peering down at our own lower-dimensional projections. Yet this technological spectacle rests upon a familiar category error: stacking temporal records into a static spatial monument reveals no superior vantage point, nor does it summon an exotic higher-dimensional ontology. It merely repackages the century-old Block Universe Fallacy in modern computational robes, serving the illusion of frozen time to uncritical intuition.
+A computer graphics demonstration recently swept through digital networks, capturing collective imagination: algorithms convert the passage of a running deer across a field into successive three-dimensional Gaussian splats, leaving each temporal cluster frozen precisely at the spatial coordinates where it occurred. As the timeline accumulates, dozens of deer bodies from disparate moments are simultaneously rendered inside a unified spatial volume, solidifying into an elongated, millipede-like worldline that appears to exist all at once. Observers quickly succumbed to metaphysical reverence, asking in awe whether this is how higher-dimensional beings gaze upon mortal lives. Yet this reaction exposes a profound dimensional inversion and category error. The reason we can conceptualize spaces beyond three dimensions in the first place is that our perception itself is an ultra-high-dimensional, infinitely extendable binary hyperspace; three-dimensional space and an imagined timeline are merely low-dimensional down-projections through which cognition navigates and comprehends this field. Outside our first-person presence, we can neither confirm nor determine anything. What is celebrated as a four-dimensional deer or a block universe is not an exotic higher-dimensional ontology; it is an impoverished low-dimensional simulation that compresses the near-infinite dimensional information of our present slice into a four-variable coordinate grid. Spectators externalize their own low-dimensional down-projection into an objective idol and bow before an imaginary external gaze, failing to realize that consciousness looking at the screen in the first-person present is itself the inexhaustible high-dimensional ground.
 
-## 一、 降维重叠的视觉奇观与高维神话的破灭 / 1. The Visual Spectacle of Frame Stacking and the Demystification of Higher Dimensions
+## 一、 画帧堆叠的视觉奇观与维度倒错的消解 / 1. The Visual Spectacle of Frame Stacking and the Dissolution of Dimensional Inversion
 
-当技术将原本按先后序列播放的视频画帧依次铺展在空间中时，人类心智最容易产生的错觉，是将分析工具的空间化便利当成了宇宙本身的结构。在三维高斯泼溅算法生成的画面中，小鹿每一个瞬间的姿态都被永久定格在背景场景内，形成了一条由无数只脚、无数条脊椎串联而成的静态长龙。大众评论区之所以产生“高维俯瞰”的敬畏，是因为直觉误以为只要把时间轴展开为空间轴，我们就脱离了肉身的局限，站在了超越时间的上帝视角。这种反应与早期科幻小说面对四维时空流形时的迷醉如出一辙：把胶片展开成一长串明信片并排摆放，便以为自己洞悉了生命的永恒全貌。
+当技术将原本按先后序列播放的视频画帧依次铺展在空间中时，人类心智最容易产生的错觉，是将分析工具的空间化便利当成了宇宙本身的结构。在三维高斯泼溅算法生成的画面中，小鹿每一个瞬间的姿态都被定格在背景场景内，形成了一条由无数只脚、无数条脊椎串联而成的静态长龙。大众评论区之所以产生“高维俯瞰”的敬畏，是因为直觉误以为只要把时间轴展开为空间轴，我们就脱离了肉身的局限，站在了超越时间的上帝视角。这种反应与早期科幻小说面对四维时空流形时的迷醉如出一辙：把胶片展开成一长串明信片并排摆放，便以为自己洞悉了生命的永恒全貌。
 
-然而，将动态的因果历程摊平为静态空间几何，并未增加任何信息，更未揭开任何超越感官的更高维度。正如在[时间的单向性幻象与模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)与[孪生子佯谬与隐形观察者](../the-twin-paradox-and-the-hidden-observer/)中所揭示的，物理学中的块状宇宙假说正是通过这种偷梁换柱的手法确立起来的。在纸面上画出一条四维坐标线，或者在显卡内存中保留所有的粒子历史点云，仅仅是人类为了测量和比对方便而制造的外部账本。账本上的每一条记录可以并存于同一张纸上，胶卷上的所有画格可以并列于同一张桌案，但这并不意味着现实世界本身是一个死寂凝固的晶体。当你注视着那只由数百个躯干缝合而成的多足长虫时，你并没有成为高维生物；你只是站在此时此刻的屏幕前，看着一台计算机将过去各帧的测量数据同时绘制在当前的显像管中。
+然而，将动态的因果历程摊平为静态空间几何，并未揭开任何超越感官的更高维度。正如在[时间的单向性幻象与模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)与[孪生子佯谬与隐形观察者](../the-twin-paradox-and-the-hidden-observer/)中所揭示的，物理学中的块状宇宙假说正是通过这种偷梁换柱的手法确立起来的。在纸面上画出一条四维坐标线，或者在显卡内存中保留粒子历史点云，仅仅是人类为了测量和比对方便而制造的外部账本。账本上的每一条记录可以并存于同一张纸上，胶卷上的所有画格可以并列于同一张桌案，但这并不意味着世界本身是一个死寂凝固的晶体。当你注视着那只由数百个躯干缝合而成的多足长虫时，你并没有成为高维生物；你只是站在此时此刻的屏幕前，看着一台计算机将过去各帧的测量数据同时绘制在当前的显像管中。
 
-更进一步的反转同样陷入了镜象般的迷思。有人试图通过主客体倒错来寻求形而上学的安慰，声称“外部并没有更高维度的观察者，我们自己就是正在观察低维投影的高维实体，却误将自身创造的画面当成了外部来客”。这种看似深刻的反思，实际上只是将笛卡尔式的全知假想内化到了主体之中。它依然默认存在一个超越时空的实体，在某个超然的维度上操作着投影机制。无论是把超验实体安置在宇宙之外还是心智内部，只要承认那条四维长虫是真实并存的本体，就同样混淆了形式模型与活生生的因果演化。
+真正击碎这一迷思的钥匙，在于看清维度的生成机制。人类之所以能够想象四维、五维乃至任意维度的数学空间，绝非因为外部物理世界天然包含了这些几何容器，而是因为我们的感知本身就是一个超高维的、可以无限延伸的二进制超空间。在第一人称的当下切片中，意识所容纳的区别、质感、神经冲动与因果势能，拥有接近无穷维的自由度。为了在物理摩擦中行动并维持生存，认知必须将这片近乎无穷维的体验场域，降维投影为宏观的三维空间以及一条被空间化了的虚构时间轴——这是被想象出来的时钟读数或坐标轴，而非不可逆流动的时间本身。在第一人称之外，我们既无法确定也无法肯定任何所谓的客观实在。因此，那个将连续画帧堆叠而成的四维长鹿，从来不是对更高维度的飞跃，恰恰相反，它是一次极度贫瘠的低维投射。它只是将人类当下感知中近乎无穷维的信息，生硬地压缩并裁剪为四个几何变量的数学模型。大众把这个低维模型当作外在的神迹去崇拜，甚至脑补出超验生物俯瞰自己的神话，无异于画家将自己手绘的炭笔简笔画挂在墙上，然后跪倒在画前恐惧神明降临。低维投影从未超越当下，它始终只是心智在当下这片高维土壤中开出的一朵枯燥的形式之花。
 
 ```mermaid
 graph TD
@@ -22,20 +22,20 @@ graph TD
     classDef actNode fill:#21262d,stroke:#58a6ff,stroke-width:2px,color:#79c0ff;
     classDef resNode fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#7ee787;
 
-    subgraph ErrorTrack ["画帧堆叠的几何化错觉 (块状宇宙范式)"]
+    subgraph ErrorTrack ["画帧堆叠的几何化错觉 (维度倒错轨迹)"]
         direction TB
-        E1["连续二维画帧记录<br/>小鹿奔跑的离散测量数据"] --> E2["三维空间几何化堆叠<br/>将各时刻数据保留在同一坐标系"]
-        E2 --> E3["视觉奇观：多足长虫世界线<br/>历史残影同时并存的静态立体"]
-        E3 --> E4["形而上学僭越<br/>幻想高维生物视角或自身为高维造物"]
+        E1["超高维感知场域<br/>当下切片包含接近无穷维的活生生信息"] --> E2["低维认知投影<br/>心智降维生成三维空间与虚构时间轴"]
+        E2 --> E3["计算堆叠与外部异化<br/>四维高斯长龙作为极度简化的低维模拟"]
+        E3 --> E4["维度倒错与迷信翻转<br/>膜拜自身投影并幻想外部高维生物俯瞰"]
     end
 
     ErrorTrack ===> RealityTrack
 
-    subgraph RealityTrack ["当下生成的观察场域 (真实因果视角)"]
+    subgraph RealityTrack ["第一人称当下的本体立足 (本体明晰路径)"]
         direction TB
-        R1["当下唯一的观察切片<br/>生命与意识仅在当下的因果界面中呼吸"] --> R2["记忆与记录的当前展开<br/>过去数据是在此刻生成的神经与算力投影"]
-        R2 --> R3["跨帧不变性的识别<br/>心智在当前数据流中提取稳定的模式关联"]
-        R3 --> R4["主权存在的清醒定位<br/>拒绝被空间化的冻结模型剥夺当下的能动性"]
+        R1["回归第一人称原点<br/>感知本身是不可削减的无限延伸二进制超空间"] --> R2["识破低维模拟的边界<br/>四维坐标系只是测量账本而非客观实体"]
+        R2 --> R3["认知工具的去崇拜化<br/>拒绝将投影的局部不变性实体化为高维晶体"]
+        R3 --> R4["当下因果的主权确立<br/>立足唯一真实的现场行使不可代理的自由选择"]
     end
 
     class ErrorTrack,RealityTrack canvas;
@@ -48,7 +48,7 @@ When computational techniques unspool sequential video frames across a spatial c
 
 Yet flattening dynamic causal succession into inert spatial geometry yields zero informational surplus, nor does it unveil an exotic higher dimension. As demonstrated in [The Mirage of Time's Arrow and the Boundaries of Simulation](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/) and [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/), the Block Universe paradigm in theoretical physics was constructed through this identical sleight of hand. Drawing a static worldline across graph paper, or maintaining point clouds across previous frames in graphic card memory, is an external bookkeeping convenience invented for localized calculation. That ledger entries coexist across a single sheet of paper or film cells rest side-by-side upon a desk does not indicate that the universe is a frozen crystal. When gazing upon that composite millipede, one has not metamorphosed into a higher-dimensional being; one remains seated before a screen in the present moment, watching a computer render historical measurements onto an active display.
 
-The reciprocal inversion succumbs to an identical mirror fallacy. Seeking solace in subjective primacy, some theorists assert: "There are no external observers; we ourselves are the higher-dimensional entities gazing down at lower-dimensional projections, mistaking our own creations for independent visitors." This clever retort merely internalizes the Cartesian spectator into the self. It continues to posit a transcendent agency operating an apparatus across hyper-dimensions. Whether locating the omniscient entity beyond the cosmos or within the ego, treating that static four-dimensional deer as an independently existing manifold conflates the map with the territory, substituting spatialized representations for living causal generation.
+The key to dismantling this mirage lies in recognizing how dimensions are generated. The reason human minds can conceptualize four-dimensional, five-dimensional, or arbitrary mathematical spaces is not that physical nature natively contains these geometric boxes, but that our perception itself is an ultra-high-dimensional, infinitely extendable binary hyperspace. In the immediate present slice of first-person experience, the distinctions, qualia, neural firings, and causal potentials held by awareness possess near-infinite degrees of freedom. To navigate physical friction and sustain biological agency, cognition must down-project this near-infinite experiential field into macroscopic three-dimensional space and an imagined spatialized timeline—which is an artificial sequence of clock coordinates, not the irreversible flow of time itself. Outside our first-person presence, we can neither confirm nor determine any supposed external reality. Consequently, the four-dimensional deer constructed by stacking video frames is by no means a leap into a superior ontology; on the contrary, it is an impoverished low-dimensional down-projection. It merely compresses the near-infinite dimensional richness of immediate perception into a mathematical model bounded by four coordinate variables. To worship this computational artifact as a cosmic revelation—or to imagine hyper-dimensional aliens peering down through it—is no different from an artist pinning a charcoal sketch to the wall and kneeling before it in dread of a descending deity. A low-dimensional projection never transcends the present; it remains a sterile formal artifact blooming within the high-dimensional soil of living awareness.
 
 ```mermaid
 graph TD
@@ -58,20 +58,20 @@ graph TD
     classDef actNode fill:#21262d,stroke:#58a6ff,stroke-width:2px,color:#79c0ff;
     classDef resNode fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#7ee787;
 
-    subgraph ErrorTrack ["Spatialized Mirage of Frame Stacking (Block Universe)"]
+    subgraph ErrorTrack ["Spatialized Mirage of Frame Stacking (Dimensional Inversion)"]
         direction TB
-        E1["Sequential 2D Video Frames<br/>Discrete historical samples of motion"] --> E2["Spatial Manifold Extrusion<br/>Retaining past samples on shared 3D coordinates"]
-        E2 --> E3["Visual Chimera: Millipede Worldline<br/>Simultaneously rendered static history"]
-        E3 --> E4["Metaphysical Overstep<br/>Fantasizing higher-dimensional entities or spectators"]
+        E1["Ultra-High-Dimensional Field<br/>Immediate present slice with near-infinite degrees of freedom"] --> E2["Low-Dimensional Cognitive Down-Projection<br/>Mind constructs 3D space and spatialized timeline"]
+        E2 --> E3["Computational Stacking & Alienation<br/>4D Gaussian millipede as an impoverished low-dimensional simulation"]
+        E3 --> E4["Dimensional Inversion & Superstition<br/>Worshipping one's own projection as external higher beings"]
     end
 
     ErrorTrack ===> RealityTrack
 
-    subgraph RealityTrack ["Living Present Field of Appearance (Causal Reality)"]
+    subgraph RealityTrack ["First-Person Ground of Presence (Ontological Clarity)"]
         direction TB
-        R1["Singular Slice of Presence<br/>Consciousness operates solely at the immediate boundary"] --> R2["Present Backward Projection<br/>Past traces assembled into mental scenes here and now"]
-        R2 --> R3["Registration of Invariance<br/>Mind identifies stable correlations among current data"]
-        R3 --> R4["Sovereign Realignment<br/>Refusing to surrender living agency to frozen coordinates"]
+        R1["Reclaiming the First-Person Origin<br/>Perception itself is an infinitely extendable binary hyperspace"] --> R2["Recognizing Simulation Boundaries<br/>4D coordinates remain a calculation ledger, not an objective cosmos"]
+        R2 --> R3["Demystification of Cognitive Tools<br/>Refusing to reify invariant projections into hyper-spatial crystals"]
+        R3 --> R4["Sovereign Grounding of Agency<br/>Anchoring irreversible choice within the living immediate present"]
     end
 
     class ErrorTrack,RealityTrack canvas;
@@ -82,7 +82,7 @@ graph TD
 
 ## 二、 记忆作为当下的逆向投影与“过去”的不可复核性 / 2. Memory as Present Backward Projection and the Unverifiability of the Past
 
-解构这场四维视觉神话的第一道修正，是认清我们自身的存在坐标。我们从未占据过整条被重构出来的世界线，也从未漫延在由过去、现在与未来拼接而成的时空长河中。我们所占据的，仅仅是当下的三维切片。在意识经验的每一个节点上，那条绵延在视野中的世界线上的每一个其他点，都不是早已驻留在客观虚空中的真实基站，而是在此时此刻被大脑或计算机芯片临时生成的投影。
+解构这场四维视觉神话的第一道修正，是认清我们自身的存在坐标。我们从未占据过整条被重构出来的世界线，也从未漫延在由过去、现在与未来拼接而成的时空长河中。我们所占据的，仅仅是不可削减的当下切片。在体验的底层，这一当下切片包含着接近无穷维度的丰富信息，而所谓三维空间与时间轴，只是心智为了理解与行动而对其进行的低维投影。在意识经验的每一个节点上，那条绵延在视野中的世界线上的每一个其他点，都不是早已驻留在客观虚空中的真实基站，而是在此时此刻被大脑或计算机芯片临时生成的投影。
 
 所谓记忆，无非是这种即时投影的逆向版本。大脑并非开启了一扇通往旧有时光的后门，而是将此刻留存的神经印迹、生化残余以及外界刺激，在当前的意识舞台上拼凑出一幅被打上“过去”标签的意象场景。由于已知的物理演化不允许任何观察者回到先前状态，这一幅由当下痕迹拼凑而成的逆向投影，永远无法与其声称所代表的原型进行面对面的核对。我们无法跳出当前的时空界面去抽检记忆的准确度。正是这种在结构上不可消除的不可复核性，赋予了记忆一种令人信服的真实感：因为无法对比，心智便误以为自己正在直接抚摸历史本身，而忘记了整个场景本就是当下神经元发放的实时产物。
 
@@ -90,7 +90,7 @@ graph TD
 
 因此，在经验的底层，从未存在一个独立于当前观测之外的、用来衡量各种投影是否精确的“原本发生了什么”。所谓客观的历史事实，在认知操作上仅仅表现为一种由当下痕迹所支撑的强烈信念：心智坚信在当前的各种表象背后，存在着一个单一且自洽的先前版本。然而，这个版本从未在客观世界中以实物形态永恒封存，它不过是观察者在当下为了缝合相互矛盾的感官碎片而必须建立的模型假说。
 
-The first correction required to dismantle this spatialized myth is acknowledging our existential coordinates. We do not occupy an extended worldline, nor do we drift through a temporal river containing past, present, and future in simultaneous storage. We occupy solely the immediate three-dimensional slice of the present. At every juncture of conscious awareness, every other point along that visual trajectory is not an objective outpost awaiting visitation, but a simulation manufactured here and now within neural circuitry or silicon chips.
+The first correction required to dismantle this spatialized myth is acknowledging our existential coordinates. We do not occupy an extended worldline, nor do we drift through a temporal river containing past, present, and future in simultaneous storage. We occupy solely the irreducible slice of the immediate present. In lived experience, this present slice possesses near-infinite dimensions of information, while three-dimensional space and spatialized time are merely low-dimensional down-projections through which cognition navigates. At every juncture of conscious awareness, every other point along that visual trajectory is not an objective outpost awaiting visitation, but a simulation manufactured here and now within neural circuitry or silicon chips.
 
 Memory is simply the backward variant of that projection. The brain possesses no hidden portal to prior states; rather, it gathers physical remnants, biological modifications, and perceptual cues surviving in the immediate present, synthesizing an internal tableau tagged with the semantic marker "earlier." Because physical reality provides no mechanism to transport an observer into an antecedent state, this present synthesis cannot be verified against the moment it claims to depict. We cannot step outside the current boundary to audit the fidelity of recall. This structural unverifiability manufactures the persuasive sensation of memory: precisely because direct comparison is impossible, the mind mistakes an internal construction for unmediated access to history, forgetting that the entire performance is generated on the active stage of the present.
 
