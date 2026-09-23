@@ -81,7 +81,11 @@ Stored in the active conversation artifact directory, structured as:
    - All four platform copies must explicitly include the canonical live link to the original essay (`https://powerpig99.github.io/not-a-toe/posts/<slug>/`):
      - Spotify Podcast (ZH) (includes original post URL)
      - Spotify Podcast (EN) (includes original post URL)
-     - WeChat Video Channels (微信视频号) (includes original post URL)
+     - WeChat Video Channels (微信视频号):
+       - **Short Title**: strictly within 16 Chinese characters (`<= 16` 汉字, punchy, unpunctuated or minimal punctuation).
+       - **Caption**: concise narrative hook and argument unfolding.
+       - **Canonical Link**: original post URL (`https://powerpig99.github.io/not-a-toe/posts/<slug>/`).
+       - **Topic Terms (话题标签)**: 3–5 relevant `#话题` hashtags.
      - X (Twitter) (EN Only) (includes original post URL)
 
 ### 5. Bidirectional Reverse Linking & Content Refinement (双向反向链接与语境织网)
