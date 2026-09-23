@@ -2,41 +2,39 @@
 
 *为己保留自由却对他施加规训，阳台的对撞唯有降临不可代理的原点方能化解。 / Reserving agency for oneself while disciplining others, balcony clashes dissolve only at the unproxyable origin.*
 
-在社交网络与当代公共讨论中，一场旷日持久的争论反复上演：一方站在物质时间序列的宏大趋势前，困惑于大众为何迟迟不能对空前繁盛的技术红利报以感恩；另一方则反唇相讥，指责那些倡导感恩的说教者自身从未停歇过对资本、名望与未竟工程的狂热角逐。这场争论之所以始终陷入死结，是因为双方皆站在第三人称的“阳台”之上俯瞰他者，试图将对方纳入自身的阐释框架进行规训与操控；更隐秘的认识论倒错在于，身处阳台的宣讲者在潜意识中为自己保留了不可让渡的自由选择与自我书写权，却试图将他人的生活化约为一套可以通过外部输入指标来静态锁定的决定论反应机。唯有真正走出阳台的旁观视角，代入各自未闭合的第一人称行动回路，我们才能看清：人的尊严与价值绝非源于被动接受既成事实的奖赏，而唯独诞生于那份正在发生、切身体认且不可被任何人代理的未竟之行。
+在社交网络与当代公共讨论中，一场旷日持久的争论反复上演：一方站在物质时间序列的宏大趋势前，宣称全社会已然极度富有，困惑于大众为何迟迟不能对技术红利报以感恩；另一方则报以愤怒的断然否决，指责“人人富有”毫无道理，将技术繁荣斥为资本泡沫与意识形态宣传。这场争论之所以始终陷入死结，是因为双方皆站在第三人称的“阳台”之上俯瞰他者，试图将对方纳入自身的阐释框架进行规训与操控；更隐秘的认识论倒错在于，身处阳台的宣讲者在潜意识中为自己保留了不可让渡的自由选择与自我书写权，却试图将他人的生活化约为一套可以通过外部输入指标来静态锁定的决定论反应机。唯有真正走出阳台的旁观视角，代入各自未闭合的第一人称行动回路，我们才能看清：人的尊严与价值绝非源于被动接受既成事实的奖赏，而唯独诞生于那份正在发生、切身体认且不可被任何人代理的未竟之行。
 
-A protracted and recurring dispute dominates contemporary public discourse: one side stands before the sweeping trend-lines of material progress, bewildered by why the populace fails to express gratitude for unprecedented technological abundance; the other side retorts by pointing out that the very proponents of gratitude remain insatiably restless in their own pursuit of capital, prestige, and unfinished engineering frontiers. This argument remains deadlocked because both parties stand on detached, third-person "balconies" looking down at "them," treating the other side as an object to be analyzed, corrected, and steered. More insidiously, an epistemological contradiction festers within this balcony posture: the observer reserves for themselves an open-ended, sovereign agency of striving, yet prescribes for others a closed, deterministic receptor model whose satisfaction is supposed to be dictated by passive material inputs. Only by descending from the balcony and entering the running engine of the first-person causal loop does the truth emerge: human worth is never derived from the passive receipt of finished outcomes, but solely from the felt, ongoing authorship of an unfinished act that can never be occupied by proxy.
+A protracted and recurring dispute dominates contemporary public discourse: one side stands before the sweeping trend-lines of material progress, declaring that society as a whole is already exceptionally wealthy and bewildered by why the populace fails to express gratitude; the other side retorts with fierce rejection, dismissing universal wealth as a logical impossibility and condemning the technological boom as speculative bubbles and ideological propaganda. This argument remains deadlocked because both parties stand on detached, third-person "balconies" looking down at "them," treating the other side as an object to be analyzed, corrected, and steered. More insidiously, an epistemological contradiction festers within this balcony posture: the observer reserves for themselves an open-ended, sovereign agency of striving, yet prescribes for others a closed, deterministic receptor model whose satisfaction is supposed to be dictated by passive material inputs. Only by descending from the balcony and entering the running engine of the first-person causal loop does the truth emerge: human worth is never derived from the passive receipt of finished outcomes, but solely from the felt, ongoing authorship of an unfinished act that can never be occupied by proxy.
 
 ---
 
-## 一、 阳台上的两套第三人称图景 / 1. The Two Third-Person Pictures from the Balcony
+这场在社交媒体上反复爆发的交锋，在外部观察者眼中，首先表现为两套截然对立的第三人称图景的激烈撞击。正如在 [隐形的上帝之眼](../the-invisible-gods-eye/) 中所揭示的，一旦心智撤退到奥林匹斯山般的阳台俯瞰众生，活生生的人便被抽离了呼吸与具身摩擦，蜕变为坐标系中的抽象数据点。
 
-这场争端在外部观察者眼中，首先表现为两套截然相反的第三人称图景的剧烈对撞。正如在 [隐形的上帝之眼](../the-invisible-gods-eye/) 中所揭示的，一旦心智习惯于从奥林匹斯山般的阳台俯瞰众生，活生生的人便被抽离了呼吸与具身摩擦，蜕变为坐标系中的抽象数据点。
+第一套图景是技术精英所占据的**正和物质时间序列阳台**。以具有代表性的科技投资人论调为例，其核心论点是跨越百年的客观物质指标：一百年前同一个生物机体所能获取的卡路里、寿命、照明、医疗与流通算力，在数量级上皆远逊于今日；二十年后的未来亦将大幅超越当下。在这一图景中，“我们所有人比起过去都极度富有”是一个毋庸置疑的正和博弈事实。因此，大众持久的普遍不满与怨怼，被他们诊断为一种文化层面的认知缺陷——认为公众受困于狭隘的“零和偏见”，或是迟钝于更新自身的参考坐标系（reference class）。占据这一阳台的宣讲者以一种居高临下的启蒙姿态发号施令：你们身处奇迹之中，理应学会知足与感恩；任何愤懑皆是认知系统的故障。
 
-第一套图景将人视为物质时间序列上的物理坐标。一百年前，同一个生物肉体所能摄入的热量、享受的医疗、获取的光照与流通的信息，在数量级上皆远逊于今日；二十年后，这些物理参数几乎注定会迎来进一步的增长。站在这一览无余的技术乐观主义阳台上，大众持久的普遍不满被判定为一种荒谬的认识论时滞——不过是群体在更新自身参考坐标系（reference class）时的滞后反应。占据这一图景的讲演者不需要证明自己已然获得了完满，他自认履行的仅仅是一份“如实汇报宏观趋势”的客观职责。
+第二套图景则是网络舆论场中反驳者所占据的**零和怀疑与意识形态批判阳台**。面对技术精英的宏大布道，对立面的声音报以冷酷而愤怒的断然否决：“‘所有人都会变得富有’在逻辑上毫无意义；当你在公开场域兜售这种虚妄之词时，它便是不折不扣的意识形态宣传；所谓的人工智能革命，不过是资本推高估值的虚火泡沫与荒谬骗局。”持这一视角的反驳者坚信，财富在定义上天然具有排他性与相对排位属性，因而“人人富有”属于自欺欺人的语义幻术。在他们眼中，精英口中的物质丰裕论不是客观现实，而是既得利益阶层为了转移阶层固化矛盾、麻痹大众反抗意志而精心炮制的宣传工具。占据这一阳台的批判者以揭穿者与受害者自居，用道德审判全盘否定技术演进，沉溺于对宣讲者动机的解构。
 
-第二套图景则将人视为动机的具身承载者。持这一视角的观察者敏锐地指出：那些高谈阔论趋势线、规训大众应当知足常乐的技术精英，自身恰恰表现出最显眼的未竟与焦灼。他们的社会地位、财富累积与话语权威，从头至尾正是因为他们拒绝将任何一个阶段性成果视为终点，始终将每一次边际增量视作不完备的起点，并持续投身于下一次行动。在这一视角看来，人的自我价值（self-worth）在于亲身体验对下一个增量的“书写权”（authorship），而非对已经生产出来的历史遗赠的被动“签收”。因此，无论向大众配发多么丰厚的社会救济、普及多么廉价的消费电子产品，或者在舆论场上强行下达“感知自身富有”的道德指令，在本体论上都是一场极其拙劣的偷换——试图以第三人称的“既成结果”（outcome）来置换第一人称鲜活的“能动主体”（agency）。
-
-这两套图景皆带有鲜明的观察性。每一方都站在各自的阳台上指点江山，把视线聚焦于“他们”身上。一方描绘大众沉溺于盲目抱怨、未能领悟时代的恩赐；另一方描绘创造者伪善冷酷、对自身运转的特权引擎装聋作哑。这两套论述永远无法达成真实的交汇，因为它们都是在发动机熄火的看台上发出的宏论，没有一句出自正在轰鸣运转的机舱内部。
+这两套图景皆带有鲜明的观察性与规训冲动。双方都各自站在发动机熄火的阳台上，用望远镜将对方物化为待定性的客体：一方将对方描绘为“缺乏格局、沉溺于零和嫉妒、急需被开导的蒙昧大众”；另一方将对方描绘为“自肥贪婪、兜售泡沫、进行阶层洗脑的资本机器”。双方隔空互发诊断书与宣判令，试图在舆论场上矫正与操弄对方，却从未有人愿意离开阳台，真正进入生命正在运转的机舱内部。
 
 ```mermaid
 graph TD
-    subgraph Balcony_A["【阳台图景 A：物质时间序列与客体规训】"]
+    subgraph Balcony_A["【阳台图景 A：正和物质时间序列与认知规训】"]
         direction TB
-        A1["将人视为时间序列上的被动位置<br/>（热量、算力、寿命、抗生素之增长）"]
-        A2["将大众不满判定为‘参考系更新滞后’<br/>（认定对方处于认知故障状态）"]
-        A3["规训指令：以结果置换能动<br/>（‘你们已经足够富有，理应感恩并止步’）"]
+        A1["引述百年物质指标飞跃<br/>（卡路里、寿命、医疗、算力大爆发）"]
+        A2["将技术演进定义为正和博弈事实<br/>（‘比起百年前，我们所有人都极度富有’）"]
+        A3["将大众不满诊断为零和偏见与认知滞后<br/>（‘正和思维很难，但你们理应学会感恩’）"]
         A1 --> A2 --> A3
     end
 
-    subgraph Balcony_B["【阳台图景 B：动机批判与伪善指控】"]
+    subgraph Balcony_B["【阳台图景 B：零和排位怀疑与宣传泡沫指控】"]
         direction TB
-        B1["观察到趋势汇报者自身从未停歇<br/>（技术新贵、资本巨头依然每周工作80小时）"]
-        B2["将对方的布道诊断为剥夺能动性<br/>（‘自己独占创造引擎，却劝他人安于豢养’）"]
-        B3["对抗姿态：滞留于道德审判的阳台<br/>（以揭露动机取代对自身行动回路的闭合）"]
+        B1["断言财富天然排他与相对排位<br/>（‘所有人都会富有在逻辑上毫无意义’）"]
+        B2["将宏大叙事定性为阶层麻痹术<br/>（‘兜售虚妄之词是不折不扣的意识形态宣传’）"]
+        B3["将技术浪潮判定为金融炒作与虚妄泡沫<br/>（‘所谓前沿革命不过是一场虚火与骗局’）"]
         B1 --> B2 --> B3
     end
 
-    Balcony_A <===>|"第三人称视角的对撞：皆在阳台上隔空喊话，未入引擎内部"| Balcony_B
+    Balcony_A <===>|"阳台隔空对撞：一方指责缺乏格局，一方指责虚伪自肥"| Balcony_B
 
     style Balcony_A fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style Balcony_B fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
@@ -48,33 +46,33 @@ graph TD
     style B3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
 ```
 
-The disagreement between these stances begins as a violent collision between two distinct third-person pictures. As explored in [The Invisible God's Eye](../the-invisible-gods-eye/), whenever the mind retreats to an Olympian balcony, living persons are stripped of somatic breath and friction, reduced to abstract coordinates on a grid.
+The recurring clash on social media presents itself, to an outside observer, as a violent collision between two incompatible third-person pictures. As explored in [The Invisible God's Eye](../the-invisible-gods-eye/), whenever the mind retreats to an Olympian balcony, living persons are stripped of somatic breath and friction, reduced to abstract points on an observational grid.
 
-The first picture treats persons as locations within a material time-series. A century ago, the identical biological organism subsisted on fewer calories, endure inferior medical care, worked under dim light, and handled negligible information; twenty years from now, these parameters will almost certainly compound further. From this panoramic techno-optimist balcony, persistent public dissatisfaction appears as an irrational cognitive defect—a mere lag in updating one's reference class. The speaker occupying this vantage point is not required to demonstrate personal tranquility; their self-assigned mandate is simply to deliver an objective dispatch on the macro trend.
+The first picture is the **positive-sum material time-series balcony** occupied by techno-optimists. Exemplified by prominent technology investors, its foundational thesis rests on century-scale material expansion: an identical biological organism today commands calories, lifespans, illumination, medicine, and compute far exceeding what was available a century ago, a trajectory poised to accelerate over the coming decades. Within this picture, the assertion that "we are all very wealthy compared to the past" is treated as an undeniable positive-sum reality. Consequently, persistent public discontent is diagnosed as a cognitive deficiency—an inability to shed cultural "zero-sum bias," or a stubborn lag in updating one's reference class. The speaker on this balcony issues a patronizing decree: you inhabit a historical miracle; you should feel wealthy and grateful; any lingering dissatisfaction reflects an internal error in cognitive calibration.
 
-The second picture treats persons as embodied carriers of motive. Observers here notice an immediate friction: the very speakers delivering the progress lectures remain visibly and intensely unfinished. Their wealth, status, and prominence exist precisely because they refused to treat any milestone as final, viewing every incremental achievement as incomplete and continuously pouring their energy into the next venture. From this perspective, human self-worth is the felt authorship of the next increment, not the passive receipt of an increment already delivered. Consequently, distributing universal stipends, offering cheap gadgets, or issuing moralistic instructions to "feel wealthy" appears as a hollow category substitution—offering finished outcomes in exchange for surrendered agency.
+The second picture is the **cynical zero-sum and anti-propaganda balcony** occupied by adversarial critics across online platforms. Confronted with the techno-optimist homily, this side retorts with furious rejection: "The idea that 'we will all be wealthy' makes no sense; if you spew nonsense, it is propaganda; this artificial intelligence wave is just a speculative bubble and a fraud." Observers here treat wealth as inherently positional and rivalrous; hence, "universal wealth" is dismissed as semantic trickery. In their eyes, elite lectures on abundance are not objective reports, but calculated ideological narcotics engineered by entrenched interests to pacify the public and obscure wealth concentration. Occupying this balcony, the critic poses as an unmasker and victim, rejecting technological momentum through moral condemnation and dissecting elite hypocrisy.
 
-Both pictures remain fundamentally observational. Each stands upon its balcony describing "them." One describes the masses as ungrateful nodes failing to perceive technological grace; the other describes the builders as hypocritical technocrats blind to the engine of their own privilege. These descriptions never meet because neither is spoken from within the engine while it is running.
+Both pictures remain thoroughly observational and disciplinary. Each camps out on its balcony, training telescopic lenses on "them": one side characterizes the public as ungrateful nodes blinded by zero-sum resentment who require ideological correction; the other characterizes builders as self-serving technocrats peddling speculative bubbles to manipulate the masses. Both trade deterministic diagnoses and moral verdicts across the chasm, yet neither descends into the running engine of living experience.
 
 ```mermaid
 graph TD
-    subgraph Balcony_A_EN["[Balcony Picture A: Material Time-Series & Disciplinary Prescription]"]
+    subgraph Balcony_A_EN["[Balcony Picture A: Positive-Sum Material Metrics & Cognitive Correction]"]
         direction TB
-        A1_EN["Treats persons as locations in a material time-series<br/>(Growth in calories, compute, lifespans, medicine)"]
-        A2_EN["Diagnoses public grief as 'lag in updating reference class'<br/>(Assumes the other is suffering a cognitive malfunction)"]
-        A3_EN["Disciplinary mandate: substituting outcome for agency<br/>('You have enough; you should feel wealthy and stop')"]
+        A1_EN["Cites century-scale material explosion<br/>(Calories, lifespans, medicine, compute)"]
+        A2_EN["Frames progress as undeniable positive-sum reality<br/>('We are all very wealthy compared to history')"]
+        A3_EN["Diagnoses discontent as zero-sum bias and cognitive lag<br/>('Positive-sum thinking is hard; you should be grateful')"]
         A1_EN --> A2_EN --> A3_EN
     end
 
-    subgraph Balcony_B_EN["[Balcony Picture B: Motive Critique & Hypocrisy Diagnosis]"]
+    subgraph Balcony_B_EN["[Balcony Picture B: Positional Cynicism & Anti-Propaganda Accusation]"]
         direction TB
-        B1_EN["Observes that the trend reporters remain visibly unfinished<br/>(Founders and elites relentlessly build and compete)"]
-        B2_EN["Diagnoses the discourse as stripping human agency<br/>('Reserving the engine for themselves while domesticating others')"]
-        B3_EN["Adversarial posture: stranded on an opposing balcony<br/>('Scoring points through hypocrisy critique instead of building')"]
+        B1_EN["Treats wealth as inherently positional and zero-sum<br/>('Everyone being wealthy makes no sense')"]
+        B2_EN["Condemns macro optimism as ideological deception<br/>('Spewing nonsense is mere ruling-class propaganda')"]
+        B3_EN["Dismisses technological waves as speculative bubbles<br/>('The frontier revolution is just hype and fraud')"]
         B1_EN --> B2_EN --> B3_EN
     end
 
-    Balcony_A_EN <===>|"Collision of Third-Person Balconies: Neither enters the running engine"| Balcony_B_EN
+    Balcony_A_EN <===>|"Balcony standoff: Mutual objectification and competing indictments"| Balcony_B_EN
 
     style Balcony_A_EN fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
     style Balcony_B_EN fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
@@ -88,90 +86,92 @@ graph TD
 
 ---
 
-## 二、 视角的本体论不对称与操纵冲动 / 2. The Ontological Asymmetry and the Disciplinary Impulse
+## 二、 视角的本体论不对称与自我价值的范畴错位 / 2. The Ontological Asymmetry and the Category Error of Self-Worth
 
-在这一冲突的表层之下，潜藏着一个更为严峻的认识论断裂——**视角的本体论不对称**。正如在 [主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) 中所论证的，同一个主权心智在审视自身与审视他者时，极易分裂为两套截然相反的标准。
+正是在两座阳台无休止的互掷标枪之中，一个更为清醒的诊断穿透了表层的口水战，一针见血地点破了死结的核心所在：
+**“你用历史跨度来度量他人的财富，这并没有错；但这决非绝大多数人用来衡量自我价值的方式，包括你自己也不会这么衡量。相信他人理应如此衡量自己，是不切实际的。”**
 
-在社交媒体的争鸣中，阳台上的宣讲者反复展现出一种极具欺骗性的操纵冲动：**他们将对方视为必须被评判、操纵并亟需矫正的“被动客体”，同时却将“自由选择”与“开放求索”的特权牢牢据为己有。**
+这一诊断揭示了隐藏在技术乐观主义布道背后的致命范畴错位，以及极其深刻的视角的本体论不对称。正如在 [主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) 中所论证的，同一个心智在审视自身与规训他者时，极易分裂为两套截然相反的标准。
 
-请审视这一宣讲者内在模型的深刻分裂：
+首先审视这一范畴的混淆：“历史跨度的财富度量”（measurement of wealth in historical terms）与“自我价值的度量”（measurement of self-worth）分属两个截然不同的坐标系。宣讲者所列举的历史指标，在宏观统计学上没有错——现代普通人的确享有着远超古代帝王的抗生素与信息流。但错在宣讲者妄图用这个第三人称的历史存量读数，去强制充当第一人称自我价值的结算代币。人类心智的自我价值，从来不是靠在脑海中与十九世纪死于肺结核的纺织工对比卡路里而生成的；它是在当下现实的阻力中，通过具体的因果闭环与主体行动实时确立的。
 
-对其自身而言，他生活在一个开放的、非决定论的生成体系中。即便他已经拥有了普通人百世难及的丰裕资产，如果有人勒令他：“你拥有的卡路里与设备已经远超路易十四，你现在必须停止研发新架构，停止创立新组织，呆在有空调的房间里感恩”，他会立刻将这种指令视为对其精神生命的残暴抹杀。他深知，让自己早晨从床上爬起来的动力，决不是“我昨天消耗了多少卡路里”，而是“今天还有未竟的因果链等待我去闭合”。他将自身的不满足体验为崇高的使命感、受托责任与探索之火。
+由此，宣讲者内在模型的深刻分裂暴露无遗：
+对其自身而言，他生活在一个开放的、非决定论的生成体系中。宣讲者自身身家丰沛、掌控庞大资本，其91岁高龄的导师至今仍在商界前线奋战，宣讲者自己亦每周高强度调度资源、创立机构、参与竞争。如果有人用他自己的说辞去规训他：“你拥有的算力与资产已经百倍于路易十四，你现在必须立刻停下所有项目，坐在有空调的房间里感恩知足”，他会毫不犹豫地将这视为对其精神生命的残暴抹杀！因为他切身体认到，让自己早晨从床上爬起来的动力，决不是“我拥有多少历史累积的物资”，而是“今天还有未竟的因果链等待我去闭合”。他对自己采用的是开放的主权书写模型，将每一次不满足体验为神圣的受托责任与探索之火。
 
-然而在面对他者时，他的心智编译器立刻切换到了极度冷酷的机械决定论模式。他把具体的公众建模成一台“输入-输出状态机”：输入端是抗生素、智能手机与廉价蛋白质，输出端就理应产出“幸福”、“安分”与“知足”。当状态机的输出出现偏差（公众表现出焦虑与失落），他不仅不反思模型对人的还原性降维，反而指责机器本身发生了故障——“他们的参考系出现了认知滞后，他们需要接受思想修正”。
+然而一旦转向面对大众，他的心智编译器立刻切换到了冷酷的机械决定论模式。他把具体的公众建模成一台“输入-输出状态机”：输入端是智能手机、抗生素与廉价蛋白质，输出端就理应产出“幸福”、“知足”与“温顺”。当状态机的输出出现偏差（公众表现出焦虑与失落），他不仅不反思模型对人性的降维阉割，反而斥责机器本身发生了故障，甚至指责大众缺乏正和思维。宣讲者向大众开出的知足药方，恰恰直接否定了宣讲者自身之所以成为其本人的全部存在前提！正如在 [宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/) 中所解构的，这种姿态是试图用第三人称的汇总参数去取消第一人称主权抉择的伪权力幻象。
 
-这种不对称构成了最尖锐的自我矛盾：**宣讲者向大众开出的药方，恰恰直接否定了宣讲者自身之所以成为其本人的全部存在前提。** 他要求他人成为被动接收投喂的动物，却将自身能动者的神圣光环高高挂起。正如在 [宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/) 中所解构的，这种姿态是试图用第三人称的汇总参数去取消第一人称主权抉择的伪权力幻象。它不仅无法平息摩擦，反而在公共领域激起了更深层的对抗与防御。
+与此同时，对立面的反驳者也陷入了对应的反应性陷阱。反驳者敏锐地察觉到了被当成被动状态机来规训的屈辱，但他由于同样缺乏对自我价值来源的清醒认识，误以为唯一的反击就是退守到“财富天然是零和排位”的狭隘教条中，将一切宏大愿景全盘斥为“宣传骗局”与“虚假泡沫”。这种全盘解构虽然带来了口头宣泄的快感，却让反驳者自身也沦为了阳台上的旁观客，沉溺于道德指责，全然放弃了在现实摩擦中开辟自身行动回路的主权。
 
 ```mermaid
 graph TD
-    subgraph Self_Model["【观察者对自身的本体论预设：开放创生】"]
+    subgraph Category_Split["【范畴错位：历史财富度量 vs 自我价值生成】"]
         direction TB
-        S1["第一人称主权在场<br/>（选择是因果回路中的唯一自由变量）"]
-        S2["拒绝任何既定静态终点<br/>（将财富与地位仅视为燃料，永恒追逐未竟之工程）"]
-        S3["体验到自我书写之尊严<br/>（价值源于主权行动所克服的真实阻力）"]
-        S1 --> S2 --> S3
+        C1["宏观历史财富度量（客观存量）<br/>卡路里、寿命、算力、抗生素<br/>（第三人称统计读数：‘这并没有错’）"]
+        C2["微观自我价值度量（主观生成）<br/>对未竟之事的自主书写与因果闭环<br/>（第一人称存在原点：‘绝非人们衡量自我的方式’）"]
+        C1 -.->|"范畴混淆：妄图用历史存量替代自我价值"| C2
     end
 
-    subgraph Other_Model["【观察者对他者的客体化操纵：决定论规训】"]
+    subgraph Asymmetry["【视角的本体论不对称与双标模型】"]
         direction TB
-        O1["第三人称机械论建模<br/>（将他者视为物理输入-情绪输出的黑盒函数）"]
-        O2["强加静态收敛判准<br/>（‘给定 X 物质输入，即应输出满足与感恩’）"]
-        O3["将他者的不满足判定为待矫正之故障<br/>（剥夺对方追求未竟增量的主权合法性）"]
-        O1 --> O2 --> O3
+        Self_Model["宣讲者对自身的模型：开放创生<br/>（价值源于闭合未竟责任；拒绝任何停工规训）"]
+        Other_Model["宣讲者对他者的模型：决定论机器<br/>（要求大众充当被动容器；以物质投喂锁定知足）"]
+        Opponent_Trap["反方的反应性陷阱：虚无指控<br/>（将自我价值等同于零和排位；在全盘否定中放弃主权行动）"]
+        Self_Model ===>|"本体论分裂：为己保留自由，对他施加规训"| Other_Model
+        Other_Model -.->|"激起反弹与对抗"| Opponent_Trap
     end
 
-    Self_Model ===>|"本体论不对称：为己保留自由，对他施加规训"| Other_Model
+    Category_Split ===>|"认识论断裂"| Asymmetry
 
-    style Self_Model fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style Other_Model fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style S1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style S2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style S3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style O1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style O2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style O3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style Category_Split fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style Asymmetry fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+    style C1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
+    style C2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style Self_Model fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style Other_Model fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style Opponent_Trap fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
 ```
 
-Beneath the surface of this culture-war skirmish lies a deeper epistemological rupture: **an ontological asymmetry in the modeling of minds**. As analyzed in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/), an identical consciousness inevitably fractures when applying one set of axioms to itself and an opposing set to others.
+Amid the endless volley of rhetoric between the two balconies, a far more lucid diagnosis cuts through the superficial crossfire directly to the core of the deadlock:
+**"You're measuring others' wealth in historical terms, which isn't wrong, but that's not how most people measure self-worth, including yourself. Believing others should measure themselves this way is unrealistic."**
 
-In discussions on social media, the balcony commentator frequently exhibits a telling disciplinary impulse: **they treat the other as an objective entity to be judged, manipulated, and corrected, while fiercely preserving their own open-ended freedom of choice.**
+This diagnosis exposes the fatal category error embedded in techno-optimist preaching, along with a profound ontological asymmetry in the modeling of minds. As analyzed in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/), an identical consciousness inevitably fractures when applying open-ended axioms to itself while imposing deterministic models onto others.
 
-Consider the schizophrenia embedded in the commentator's mental architecture:
+Consider, first, the category error: measuring wealth in historical terms and measuring self-worth belong to two distinct ontological registers. The historical parameters cited by the commentator are not wrong in the domain of macro statistics—ordinary people today enjoy access to antibiotics, compute, and calorie density that surpass medieval kings. The error lies in attempting to force this third-person historical inventory to serve as a settlement currency for first-person self-worth. Human self-worth is not generated by contrasting one's caloric intake with a nineteenth-century textile worker; it is actively authored within the immediate friction of lived existence through sovereign choices and causal closures.
 
-For themselves, they inhabit an open, non-deterministic generative reality. Even if their personal balance sheet exceeds the dreams of medieval monarchs, were someone to dictate: "You have more lighting and antibiotics than Louis XIV; you must now cease writing software, stop launching rockets, sit in an air-conditioned room, and feel grateful," they would instantly experience this command as psychological death. They know viscerally that what pulls them out of bed each morning is not yesterday's caloric intake, but an open causal horizon demanding closure. They experience their own dissatisfaction not as greed, but as sacred responsibility and creative stewardship.
+This exposes the severe schizophrenia within the commentator's mental architecture:
+For themselves, they inhabit an open, non-deterministic generative reality. The commentator commands vast capital; their ninety-one-year-old mentor battles relentlessly on the corporate front lines; the commentator works grueling hours orchestrating projects, founding organizations, and competing in global markets. If someone turned their own rhetoric back upon them—demanding: "You possess computing power and living standards hundreds of times greater than Louis XIV; you must immediately halt your projects, sit in an air-conditioned room, and feel grateful and content"—they would experience the command as psychological execution. They know viscerally that what pulls them out of bed is not historical inventory, but an open causal horizon demanding closure. For themselves, dissatisfaction is not an error; it is an honorable stewardship and the fire of exploration.
 
-Yet for the other, their internal compiler instantly collapses into crude mechanistic determinism. They model the public as a closed input-output automaton: feed in smartphones, antibiotics, and cheap calories on the left, and out must pop gratitude and contented compliance on the right. When the automaton malfunctions—when ordinary individuals manifest existential alienation or political rage—the commentator does not interrogate the grotesque reductionism of their model; instead, they declare the automaton defective: "Their reference class is miscalibrated; they require ideological debugging."
+Yet the moment they turn toward the public, their internal compiler collapses into crude mechanistic determinism. They model the public as a closed input-output automaton: feed in smartphones, antibiotics, and cheap calories on the left, and out must pop gratitude and contented compliance on the right. When the automaton malfunctions—when people express existential angst or political frustration—the commentator does not reconsider their reductionist model; instead, they declare the machine defective, castigating the public for failing to grasp positive-sum thinking. The prescription offered to the public contradicts the very existential ground that makes the prescriber's own life meaningful. As demonstrated in [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/), this is the grand illusion of substituting macro descriptive summaries for living micro sovereign choices.
 
-This asymmetry produces an irreconcilable self-contradiction: **the prescription offered to the public contradicts the very existential ground that makes the prescriber's own life meaningful.** The commentator prescribes passive domestication for others while reserving sovereign agency for themselves. As shown in [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/), this is the grand illusion of substituting macro descriptive parameters for the lived free variable of micro choice. It does not resolve societal tension; it fans the flames of defensive rebellion.
+Simultaneously, the adversarial critic falls into a symmetric reactive trap. Sensing the humiliation of being modeled as a passive automaton, yet lacking a clear distinction regarding the true locus of self-worth, the critic retreats into the dogma that wealth is purely positional and zero-sum. They reduce all macro aspirations to "ruling-class propaganda" and "speculative bubbles." While this debunking offers the cheap dopamine of moral righteousness, it strands the critic on an opposing balcony—obsessed with unmasking adversaries while surrendering their own sovereign agency to author constructive causal loops in the real world.
 
 ```mermaid
 graph TD
-    subgraph Self_Model_EN["[Observer's Self-Model: Open-Ended Generative Agency]"]
+    subgraph Category_Split_EN["[Category Error: Historical Wealth vs. Self-Worth]"]
         direction TB
-        S1_EN["First-person sovereign presence<br/>(Choice as the sole free variable in the causal loop)"]
-        S2_EN["Rejection of any static equilibrium<br/>(Wealth and status treated as mere fuel for the next project)"]
-        S3_EN["Dignity experienced through active authorship<br/>(Worth generated by overcoming visceral friction)"]
-        S1_EN --> S2_EN --> S3_EN
+        C1_EN["Macro Historical Wealth (Objective Stock)<br/>Calories, lifespans, compute, medicine<br/>(Third-person metric: 'Which isn't wrong')"]
+        C2_EN["Micro Self-Worth (Subjective Authorship)<br/>Authored closure of unfinished causal loops<br/>(First-person locus: 'Not how people measure self-worth')"]
+        C1_EN -.->|"Category Error: Forcing historical stock as proxy for self-worth"| C2_EN
     end
 
-    subgraph Other_Model_EN["[Observer's Model of the Other: Deterministic Domestication]"]
+    subgraph Asymmetry_EN["[Ontological Asymmetry: The Double Standard]"]
         direction TB
-        O1_EN["Third-person mechanistic model<br/>(Treats persons as input-output response machines)"]
-        O2_EN["Imposes a static equilibrium criterion<br/>('Given input X, the correct output is gratitude')"]
-        O3_EN["Diagnoses dissatisfaction as a malfunction to correct<br/>(Denies the other's sovereign claim to author increments)"]
-        O1_EN --> O2_EN --> O3_EN
+        Self_Model_EN["Commentator's Self-Model: Open Agency<br/>(Worth through closing unfinished responsibility; refuses closure)"]
+        Other_Model_EN["Commentator's Model of Other: Deterministic Machine<br/>(Treats populace as passive container; mandates contentment)"]
+        Opponent_Trap_EN["Critic's Reactive Trap: Cynical Nihilism<br/>(Equates worth with positional ranking; surrenders agency to unmasking)"]
+        Self_Model_EN ===>|"Ontological Rupture: Agency for self, domestication for other"| Other_Model_EN
+        Other_Model_EN -.->|"Provokes resentment & polarization"| Opponent_Trap_EN
     end
 
-    Self_Model_EN ===>|"Ontological Asymmetry: Reserving freedom for self, imposing closure on other"| Other_Model_EN
+    Category_Split_EN ===>|"Epistemological Rupture"| Asymmetry_EN
 
-    style Self_Model_EN fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style Other_Model_EN fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style S1_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style S2_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style S3_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style O1_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style O2_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style O3_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style Category_Split_EN fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+    style Asymmetry_EN fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+    style C1_EN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
+    style C2_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style Self_Model_EN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style Other_Model_EN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style Opponent_Trap_EN fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
 ```
 
 ---
