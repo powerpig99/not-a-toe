@@ -8,6 +8,16 @@
 
 ---
 
+## Strict Invariant: Canonical Live Site URL (Zero Hallucinated Domains)
+> **The canonical live site URL for all posts is strictly:**
+> `https://powerpig99.github.io/not-a-toe/posts/<slug>/`
+> 
+> - **CRITICAL PROHIBITION**: NEVER use `not-a-toe.org`, `not-a-toe.com`, or any other placeholder domain under ANY circumstances. The blog has no custom domain; it is deployed exclusively on GitHub Pages at `powerpig99.github.io/not-a-toe`.
+> - **All multi-platform publishing copies** (Spotify ZH, Spotify EN, WeChat Video, X/Twitter) in walkthroughs and chat responses MUST use the exact URL: `https://powerpig99.github.io/not-a-toe/posts/<slug>/` (with trailing slash).
+> - **Essay internal links** must NEVER use absolute URLs (always use relative `[title](../slug/)`).
+
+---
+
 ## Standard Post Authoring & Publishing Deliverables
 
 For every new or revised essay, the complete deliverable set consists of:
