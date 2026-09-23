@@ -1,4 +1,4 @@
-# 先汇总后个人的因果倒置与利率的命令幻相 / Summary First and the Causal Inversion of Yields
+# 宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields
 
 *宏观统计仅记录已完成的选择，将其视为行动指令颠倒了微观经济秩序。 / Macro statistics record completed choices; treating them as commanders inverts economic causality.*
 
@@ -88,11 +88,11 @@ graph TD
     style CE1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f85149
 ```
 
-## 宏观汇总的虚假决定论：统计结果不拥有立法权 / The False Determinism of Macro Aggregates: Statistical Prints Lack Legislative Power
+## 宏观现象及参数的虚假决定论：统计结果不拥有立法权 / The False Determinism of Macro Parameters: Statistical Prints Lack Legislative Power
 
-宏观统计数据之所以极易诱发第二语域的规范冲动，是因为它们在数学呈现上具备高度确定性的外观。五点三的利率、两万亿的赤字或三点四的物价读数，排列在报表之中宛如铁律。在此我们必须保持高度的因果严谨：统计数字本身并不具备任何“因果力”（Causal Power）。所有宏观指标都不过是海量微观个体在各自边界内进行自主选择之后、在事后汇聚沉淀下来的历史痕迹。在真实的因果拓扑中，没有任何一个汇总指标能够对具体个体的下一个动作行使立法权；一切经济现实的真正动量，全都是个人自主权能与微观抉择的连续体现。
+宏观现象及参数之所以极易诱发第二语域的规范冲动，是因为它们在数学呈现上具备高度确定性的外观。五点三的利率、两万亿的赤字或三点四的物价读数，排列在报表之中宛如铁律。在此我们必须保持高度的因果严谨：统计数字本身并不具备任何“因果力”（Causal Power）。所有宏观现象及参数都不过是海量微观个体在各自边界内进行自主选择之后、在事后汇聚沉淀下来的历史痕迹。在真实的因果拓扑中，没有任何宏观现象及参数能够对具体个体的下一个动作行使立法权；一切经济现实的真正动量，全都是个人微观选择的连续体现。
 
-Macro figures invite that second prescriptive register because they appear singularly determinate. A 5.3 percent yield print, a multi-trillion deficit, or an inflation index line up on terminal screens with the aesthetic appearance of ironclad law. Here we must maintain strict causal rigor: statistical aggregates possess zero inherent causal power. Every macro metric is merely a retrospective residue left behind after countless micro-agents have completed their sovereign choices. In authentic causal topology, no summary print holds legislative authority over any individual's next action; all economic momentum is an emergent manifestation of personal agency and autonomous choices.
+Macro phenomena and parameters invite that second prescriptive register because they appear singularly determinate. A 5.3 percent yield print, a multi-trillion deficit, or an inflation index line up on terminal screens with the aesthetic appearance of ironclad law. Here we must maintain strict causal rigor: statistical aggregates possess zero inherent causal power. Every macro metric is merely a retrospective residue left behind after countless micro-agents have completed their sovereign choices. In authentic causal topology, no macro phenomenon or parameter holds legislative authority over any individual's next action; all economic momentum is an emergent manifestation of personal agency and individual micro choices.
 
 一个公布出来的债券收益率，或者官方对基准利率的调整，在现实中确实会产生立竿见影的短期反应：市场参与者会据此即时重估交易头寸与借贷账面，带来局部的行情震荡。然而，这种行政性的短期调整对市场而言只是一种外在扰动。它能在短期内造成人为压低或抬高的表面效果，但真正的长期利率走向始终是由整体经济活动本身的供需、生产力与资本竞争所决定，绝非由政策意志的短期裁定所支配。
 
@@ -107,7 +107,7 @@ graph TD
     subgraph S_CausalReality ["真实的因果生成秩序"]
         direction TB
         D1["海量微观个体决策：储蓄、消费、借贷、承销"] --> D2["不可逆的物理摩擦与交易出清"]
-        D2 --> D3["事后统计汇总：记录在案的收益率数值（温度计）"]
+        D2 --> D3["事后宏观参数：记录在案的收益率读数（温度计）"]
     end
 
     subgraph S_InvertedIllusion ["倒置的决定论幻相"]
@@ -139,7 +139,7 @@ graph TD
     subgraph S_CausalReality_EN ["Authentic Causal Generation"]
         direction TB
         DE1["Microscopic Individual Choices: Save, Consume, Lend, Underwrite"] --> DE2["Irreversible Physical Friction & Market Clearing"]
-        DE2 --> DE3["Ex Post Statistical Summary: Recorded Yield Print (Thermometer)"]
+        DE2 --> DE3["Ex Post Macro Parameter: Recorded Yield Print (Thermometer)"]
     end
 
     subgraph S_InvertedIllusion_EN ["Inverted Deterministic Illusion"]
@@ -168,19 +168,19 @@ graph TD
 
 ## 回购与“基本面话语”：同一种因果倒置的一体两面 / Buybacks and Fundamental-Talk: Two Faces of the Same Inversion
 
-这种将事后描述当作前置统帅的倾向，在现实制度运行中构成了顽固的因果反转。一旦这一反转被付诸实践，整个体系的激励机制便不再对准那些创造真实出清的微观行动，而是被迫围绕着那个抽象的统计数字重新编排。这种倒置并非孤立发生，也不会固定在某一种具体的干预手段之中，而是频繁以不同的伪装反复登场：有时是官方动用专项资金开展回购以强行压平收益率，有时是设定一个僵化考核的通胀指标，有时则是资深观察家发表宏篇大论，规训全社会的行动者必须顺从某种“客观基本面”。
+这种将事后描述当作前置统帅的倾向，在现实制度运行中构成了顽固的因果反转。一旦这一反转被付诸实践，整个体系的激励机制便不再对准那些创造真实出清的微观行动，而是被迫围绕着那个抽象的统计数字重新编排。这种倒置并非孤立发生，也不会固定在某一种具体的干预手段之中，而是频繁以不同的伪装反复登场：有时是官方动用专项资金开展回购以强行压平收益率，有时是设定一个僵化考核的通胀指标，有时则是资深观察家发表宏篇大论，规训全社会的行动者必须顺从某种“客观基本面”。其底层逻辑始终是一致的：倒置了宏观现象及参数与个人微观选择的因果秩序。
 
-The reversal is the treatment of that retrospective description as a commander. Once enacted, it reorganizes systemic incentives around the abstract number rather than around the micro-choices that the number merely records. This reversal is not confined to a single episode or fixed mechanism. It returns in different garments: a buyback program that overwrites clearing prices, an arbitrary target metric that must be met, or an elite diagnosis telling other people which "fundamentals" their choices must obey. The outward forms shift, but the underlying causal sequence repeats: summary first, person second.
+The reversal is the treatment of that retrospective description as a commander. Once enacted, it reorganizes systemic incentives around the abstract number rather than around the micro-choices that the number merely records. This reversal is not confined to a single episode or fixed mechanism. It returns in different garments: a buyback program that overwrites clearing prices, an arbitrary target metric that must be met, or an elite diagnosis telling other people which "fundamentals" their choices must obey. The outward forms shift, but the underlying causal reversal repeats: elevating macro phenomena and parameters above individual micro choices.
 
-国债回购与“基本面话语”看似针锋相对，实则是同一倒置结构的孪生表现。回购操作试图直接在账面上抹去令人不安的价格信号，正如试图用冰块包裹温度计来宣称房间已经降温；而基本面话语则先承认该信号的权威性，随后将其升格为不容违抗的形而上学法则，借此向微观主体开出规训药方。两者都在争夺定义“集体汇总究竟应当代表何种意志”的话语裁判权。正如在[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)中所剖析，将鲜活多维的个体实践强行归档进预设的历史总论，与将千差万别的微观经济清算压缩为单一宏观调控指针，犯下了如出一辙的结构性错误。在[时间之箭的幻相与模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)中阐述的痕迹不对称性在此同样生效：只能由前序抉择不可逆地生成后序痕迹，绝无可能由后序记录反向操纵前序意愿。
+国债回购与“基本面话语”看似针锋相对，实则是同一倒置结构的孪生表现。回购操作试图直接在账面上抹去令人不安的价格信号，正如试图用冰块包裹温度计来宣称房间已经降温；而基本面话语则先承认该信号的权威性，随后将其升格为不容违抗的形而上学法则，借此向微观主体开出规训药方。两者都在争夺定义“宏观现象及参数究竟应当代表何种意志”的话语裁判权。正如在[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)中所剖析，将鲜活多维的个体实践强行归档进预设的历史总论，与将千差万别的微观经济清算压缩为单一宏观调控指针，犯下了如出一辙的结构性错误。在[时间之箭的幻相与模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)中阐述的痕迹不对称性在此同样生效：只能由前序抉择不可逆地生成后序痕迹，绝无可能由后序记录反向操纵前序意愿。
 
-Buybacks and fundamental-talk are therefore not opposing operations, but twin expressions of the exact same inversion. The buyback mechanically attempts to overwrite the inconvenient price signal—akin to placing an ice cube against a thermometer to claim the room has cooled. Fundamental-talk accepts the signal, reifies it into a metaphysical law, and prescribes how micro-agents must behave. Both attempt to occupy the throne of telling the aggregate what it is permitted to mean. As dissected in [The Name Revolution Files a Life as Evidence](../the-name-revolution-files-a-life-as-evidence/), cramming high-dimensional lived trajectories into a macro-narrative commits the identical mistake of compressing distinct micro-transactions into a technocratic dial. The trace asymmetry established in [The Mirage of Time's Arrow and the Boundaries of Simulation](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/) holds firm: prior choices irrevocably create subsequent traces; retrospective summaries cannot retroactively dictate the living wills that produced them.
+Buybacks and fundamental-talk are therefore not opposing operations, but twin expressions of the exact same inversion. The buyback mechanically attempts to overwrite the inconvenient price signal—akin to placing an ice cube against a thermometer to claim the room has cooled. Fundamental-talk accepts the signal, reifies it into a metaphysical law, and prescribes how micro-agents must behave. Both attempt to occupy the throne of telling macro phenomena and parameters what they are permitted to mean. As dissected in [The Name Revolution Files a Life as Evidence](../the-name-revolution-files-a-life-as-evidence/), cramming high-dimensional lived trajectories into a macro-narrative commits the identical mistake of compressing distinct micro-transactions into a technocratic dial. The trace asymmetry established in [The Mirage of Time's Arrow and the Boundaries of Simulation](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/) holds firm: prior choices irrevocably create subsequent traces; retrospective parameters cannot retroactively dictate the living choices that produced them.
 
 ```mermaid
 graph TD
     subgraph S_TwinManifestations ["因果倒置的一体两面"]
         direction TB
-        G1["共同根源：先汇总后个人的因果倒置（Summary First, Person Second）"]
+        G1["共同根源：宏观现象及参数与个人微观选择的因果倒置"]
         G1 --> G2["分支一：官方回购干预（机械式抹平价格信号）"]
         G1 --> G3["分支二：基本面规训话语（概念化升格为形而上学法则）"]
     end
@@ -193,7 +193,7 @@ graph TD
 
     subgraph S_SharedDelusion ["共有的控制幻相"]
         direction TB
-        I1["误将汇总指标视为操控现实的遥控器"]
+        I1["误将宏观参数视为操控现实的遥控器"]
     end
 
     G2 ===> H1
@@ -216,7 +216,7 @@ graph TD
 graph TD
     subgraph S_TwinManifestations_EN ["Two Faces of the Same Inversion"]
         direction TB
-        GE1["Shared Root: Summary First, Person Second Inversion"]
+        GE1["Shared Root: Inverting Macro Parameters and Micro Choices"]
         GE1 --> GE2["Branch A: Official Buybacks (Mechanically Overwriting Signal)"]
         GE1 --> GE3["Branch B: Fundamentalist Discourse (Conceptual Reification into Law)"]
     end
@@ -229,7 +229,7 @@ graph TD
 
     subgraph S_SharedDelusion_EN ["The Shared Control Illusion"]
         direction TB
-        IE1["Mistaking Statistical Summaries for a Central Remote Control"]
+        IE1["Mistaking Macro Parameters for a Central Remote Control"]
     end
 
     GE2 ===> HE1
@@ -254,9 +254,9 @@ graph TD
 
 Economic reality is not a clockwork mechanism sitting on an engineering console; there exists no central dial that can be adjusted to make the societal gears synchronize on command. Any premise claiming that the overarching economic trajectory can be preemptively dialed or stabilized rests on a fundamental misidentification of where causality originates. As clarified in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), administrative routines may be outsourced, but physical consequences irrevocably bind to embodied agents. When technocratic decrees attempt to substitute symbolic models for market frictions, suppressed information does not vanish; it accumulates beneath the surface, eventually erupting as severe liquidity ruptures or stagflation.
 
-认识到这一点，便能使思考从对宏观神谕的盲从与恐慌中抽身。在[心智作为向量与坐标系](../the-mind-as-vector-and-coordinate-system/)的坐标体系中，个体选择始终是所属因果回路中唯一的自由变量。不论长端利率印出百分之五点三还是二点五，那始终是一组提示当下出清环境的外部读数，而不是定义主体行动力的宿命图谱。拒绝将统计摘要奉为发号施令的君王，方能看清霍华德·马克斯的审慎观望属于其自身的资本防线，而回购的政策账目则是官僚机构试图修饰局面的本地防御。唯有把因果的立足点坚实地归还给处于现场的微观第一人称主体，经济学才能从制造危机的控制迷思中苏醒，重新还原为对人类分散行动与自由协议的清醒见证。
+认识到这一点，便能使思考从对宏观神谕的盲从与恐慌中抽身。在[心智作为向量与坐标系](../the-mind-as-vector-and-coordinate-system/)的坐标体系中，个体选择始终是所属因果回路中唯一的自由变量。不论长端利率印出百分之五点三还是二点五，那始终是一组提示当下出清环境的外部读数，而不是定义主体行动力的宿命图谱。拒绝将宏观现象及参数奉为发号施令的君王，方能看清霍华德·马克斯的审慎观望属于其自身的资本防线，而回购的政策账目则是官僚机构试图修饰局面的本地防御。唯有把因果的立足点坚实地归还给处于现场的微观第一人称主体，经济学才能从制造危机的控制迷思中苏醒，重新还原为对人类分散行动与自由协议的清醒见证。
 
-Recognizing this boundary emancipates the observer from deferential panic before macroeconomic oracles. Within the frame of [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/), individual choice remains the sole free variable in each agent's causal loop. Whether the 30-year yield prints at 5.3 percent or 2.5 percent, it is merely an external coordinate registering current clearing conditions—not an inescapable destiny commanding human will. Refusing to worship statistical summaries as commanders reveals Marks's defensive posture as his own situated prudence, while Treasury buybacks remain local bureaucratical maneuvers to paper over market friction. Restoring causality to its rightful origin—the situated first-person choices of living minds—liberates economic inquiry from the hubris of centralized command and grounds it in the authentic witnessing of human agency and voluntary coordination.
+Recognizing this boundary emancipates the observer from deferential panic before macroeconomic oracles. Within the frame of [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/), individual choice remains the sole free variable in each agent's causal loop. Whether the 30-year yield prints at 5.3 percent or 2.5 percent, it is merely an external coordinate registering current clearing conditions—not an inescapable destiny commanding human will. Refusing to worship macro phenomena and parameters as commanders reveals Marks's defensive posture as his own situated prudence, while Treasury buybacks remain local bureaucratical maneuvers to paper over market friction. Restoring causality to its rightful origin—the situated first-person choices of living minds—liberates economic inquiry from the hubris of centralized command and grounds it in the authentic witnessing of human agency and voluntary coordination.
 
 ```mermaid
 graph TD
