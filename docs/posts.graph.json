@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-23T08:49:04.474Z",
+    "generated_at": "2026-09-23T08:57:38.500Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -265,7 +265,7 @@
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
       "content/posts/the-model-never-becomes-a-second-edge.md": "6dec2cdef8ae",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
-      "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "d669ff9463e9",
+      "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "af5d9c4f3261",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "0b795e820890",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
@@ -354,10 +354,10 @@
     },
     "stats": {
       "posts": 343,
-      "edges": 3433,
-      "unique_directed": 3110,
+      "edges": 3437,
+      "unique_directed": 3112,
       "missing_targets": 0,
-      "one_way": 832,
+      "one_way": 834,
       "isolated": 41,
       "posts_with_outbound": 278
     }
@@ -3504,7 +3504,7 @@
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "Potential Infinity and the Temporary Closures of Mathematical Thought",
       "hash": "0d71e0d1ccb6",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 9,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -5944,12 +5944,14 @@
       "slug": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "path": "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md",
       "title": "四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model",
-      "hash": "d669ff9463e9",
+      "hash": "af5d9c4f3261",
       "in_degree": 0,
-      "out_degree": 3,
+      "out_degree": 5,
       "links_out": [
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-twin-paradox-and-the-hidden-observer",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+        "the-shadow-and-the-infinite",
         "the-scaffolding-we-forget"
       ]
     },
@@ -6651,7 +6653,7 @@
       "path": "content/posts/the-shadow-and-the-infinite.md",
       "title": "阴影与无限 / The Shadow and the Infinite",
       "hash": "900802f5388b",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 1,
       "links_out": [
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
@@ -23030,6 +23032,18 @@
     },
     {
       "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "潜在无限与数学思维的暂态闭合"
+    },
+    {
+      "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "to": "the-shadow-and-the-infinite",
+      "rel": "points_to",
+      "label": "阴影与无限：低维投影、确定性假象与人类冲突的根源"
+    },
+    {
+      "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "rel": "points_to",
       "label": "The Mirage of Time's Arrow and the Boundaries of Simulation"
@@ -23039,6 +23053,18 @@
       "to": "the-twin-paradox-and-the-hidden-observer",
       "rel": "points_to",
       "label": "The Twin Paradox and the Hidden Observer"
+    },
+    {
+      "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "to": "the-shadow-and-the-infinite",
+      "rel": "points_to",
+      "label": "The Shadow and the Infinite: Low-Dimensional Projections, the Illusion of Certainty, and the Roots of Human Conflict"
     },
     {
       "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
