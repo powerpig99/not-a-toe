@@ -78,15 +78,17 @@ Stored in the active conversation artifact directory, structured as:
 4. Verification & invariant diagnostic check results.
 5. **Companion NotebookLM Prompts (Chinese Only, Link-Free)**: File links and full prompt texts for Audio Dialogue and Video Monologue.
 6. **Multi-Platform Publishing Copies**:
+   - **One-Click Copiable Text Blocks (Strict Invariant)**: Every single platform copy must be formatted inside a dedicated fenced code block (` ```text `) so that the operator can copy the ready-to-publish text with a single click in any Markdown viewer without manual text selection or formatting cleanup.
    - All four platform copies must explicitly include the canonical live link to the original essay (`https://powerpig99.github.io/not-a-toe/posts/<slug>/`):
-     - Spotify Podcast (ZH) (includes original post URL)
-     - Spotify Podcast (EN) (includes original post URL)
-     - WeChat Video Channels (微信视频号):
+     - **Spotify Podcast (ZH)**: Episode Title + Description + canonical link enclosed in a single fenced code block.
+     - **Spotify Podcast (EN)**: Episode Title + Description + canonical link enclosed in a single fenced code block.
+     - **WeChat Video Channels (微信视频号)**:
        - **Short Title**: strictly within 16 Chinese characters (`<= 16` 汉字, punchy, unpunctuated or minimal punctuation).
        - **Caption**: concise narrative hook and argument unfolding.
        - **Canonical Link**: original post URL (`https://powerpig99.github.io/not-a-toe/posts/<slug>/`).
        - **Topic Terms (话题标签)**: 3–5 relevant `#话题` hashtags.
-     - X (Twitter) (EN Only) (includes original post URL)
+       - Enclosed in a single fenced code block.
+     - **X (Twitter) (EN Only)**: Single cohesive post text (strictly prohibited multi-tweet thread format) + canonical post URL enclosed in a single fenced code block.
 
 ### 5. Bidirectional Reverse Linking & Content Refinement (双向反向链接与语境织网)
 - **Dense Cognitive Lattice**: An essay is never an isolated leaf node. Identify key upstream and conceptually adjacent essays referenced by the new post.
