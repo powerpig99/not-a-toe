@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-27T17:14:33.315Z",
+    "generated_at": "2026-09-27T18:31:47.963Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -43,7 +43,7 @@
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "880b80df20dc",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "5c6e9279a4aa",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
-      "content/posts/consciousness-never-appears-as-data-among-data.md": "5b80b9d897c0",
+      "content/posts/consciousness-never-appears-as-data-among-data.md": "e7cdc34df141",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "4ee073250c70",
@@ -177,7 +177,7 @@
       "content/posts/sowell-observed-the-surface-problem.md": "38216bcac027",
       "content/posts/stability-and-excess.md": "a439cbed2235",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "ae77b9ede8b3",
-      "content/posts/subtracting-consciousness-at-the-source.md": "172a8dcf4ba9",
+      "content/posts/subtracting-consciousness-at-the-source.md": "53c41ab07082",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "a4c23a576bff",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "ba001bbc15a9",
       "content/posts/technology-is-residual-of-human-compounding.md": "2d2d07f8486b",
@@ -261,7 +261,7 @@
       "content/posts/the-mark-and-the-act.md": "3dfaca8e87bf",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "c904169464fd",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "3733c53cdbc6",
-      "content/posts/the-mind-that-statistics-cannot-reveal.md": "854e6880413d",
+      "content/posts/the-mind-that-statistics-cannot-reveal.md": "b0542371b56e",
       "content/posts/the-mirage-of-the-infinite-totality.md": "3b491a49b106",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "73983ea1555d",
       "content/posts/the-mirror-handshake-of-power.md": "3fe1b6678749",
@@ -280,6 +280,7 @@
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "5f263a356b4c",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "529cf7a4ea64",
+      "content/posts/the-perceiver-and-the-trace.md": "3fec4797c245",
       "content/posts/the-power-law-of-surrendered-agency.md": "0ec3483b7b85",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "af92c141bd54",
       "content/posts/the-price-of-closing-optionality.md": "84f30cd35b89",
@@ -358,13 +359,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 348,
-      "edges": 3502,
-      "unique_directed": 3145,
+      "posts": 349,
+      "edges": 3516,
+      "unique_directed": 3153,
       "missing_targets": 0,
-      "one_way": 853,
+      "one_way": 855,
       "isolated": 40,
-      "posts_with_outbound": 283
+      "posts_with_outbound": 284
     }
   },
   "hubs_in": [
@@ -418,7 +419,7 @@
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 28
+      "in_degree": 29
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
@@ -1355,9 +1356,9 @@
       "slug": "consciousness-never-appears-as-data-among-data",
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
       "title": "Consciousness Never Appears as Data Among Data",
-      "hash": "5b80b9d897c0",
-      "in_degree": 20,
-      "out_degree": 17,
+      "hash": "e7cdc34df141",
+      "in_degree": 21,
+      "out_degree": 18,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
         "causality-all-the-way",
@@ -1365,6 +1366,7 @@
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "the-real-lesson-from-the-consciousness-vector-paper",
         "mistaking-the-expression-for-the-intelligence",
+        "the-perceiver-and-the-trace",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "individual-choices-as-the-only-causal-levers",
         "the-rational-choice-postulate-is-the-original-sin",
@@ -2760,7 +2762,7 @@
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
       "hash": "8a80773b8e6f",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 29,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4196,13 +4198,14 @@
       "slug": "subtracting-consciousness-at-the-source",
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
-      "hash": "172a8dcf4ba9",
-      "in_degree": 3,
-      "out_degree": 6,
+      "hash": "53c41ab07082",
+      "in_degree": 4,
+      "out_degree": 7,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
+        "the-perceiver-and-the-trace",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "agency-does-not-arise",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences"
@@ -4561,7 +4564,7 @@
       "path": "content/posts/the-boundary-crossing-of-choice.md",
       "title": "抉择的跨界 / The Boundary Crossing of Choice",
       "hash": "ea6d59cb7811",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 3,
       "links_out": [
         "the-freedom-of-will-to-deny-itself",
@@ -5850,13 +5853,14 @@
       "slug": "the-mind-that-statistics-cannot-reveal",
       "path": "content/posts/the-mind-that-statistics-cannot-reveal.md",
       "title": "The Mind That Statistics Cannot Reveal",
-      "hash": "854e6880413d",
-      "in_degree": 3,
-      "out_degree": 4,
+      "hash": "b0542371b56e",
+      "in_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-average-is-residue-not-the-engine",
         "individual-choices-as-the-only-causal-levers",
         "the-misallocation-of-agency",
+        "the-perceiver-and-the-trace",
         "intelligence-belongs-only-to-the-mind"
       ]
     },
@@ -6229,6 +6233,23 @@
         "the-source-of-shared-change",
         "how-belief-actually-changes",
         "abstraction-boundaries-and-the-moving-edge-of-reality"
+      ]
+    },
+    {
+      "id": "post:the-perceiver-and-the-trace",
+      "kind": "post",
+      "slug": "the-perceiver-and-the-trace",
+      "path": "content/posts/the-perceiver-and-the-trace.md",
+      "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
+      "hash": "3fec4797c245",
+      "in_degree": 3,
+      "out_degree": 5,
+      "links_out": [
+        "consciousness-never-appears-as-data-among-data",
+        "subtracting-consciousness-at-the-source",
+        "the-mind-that-statistics-cannot-reveal",
+        "mistaking-the-expression-for-the-intelligence",
+        "the-boundary-crossing-of-choice"
       ]
     },
     {
@@ -10310,6 +10331,12 @@
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "Mistaking the expression for the intelligence"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "The Perceiver and the Trace Cannot Collapse"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
@@ -18137,6 +18164,12 @@
     },
     {
       "from": "subtracting-consciousness-at-the-source",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "感知者与痕迹的不可坍缩"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to The Mind - The Irreducible Prior"
@@ -18146,6 +18179,12 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "The Perceiver and the Trace Cannot Collapse"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -22883,6 +22922,12 @@
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "The Perceiver and the Trace Cannot Collapse"
+    },
+    {
+      "from": "the-mind-that-statistics-cannot-reveal",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence belongs only to The Mind"
@@ -24002,6 +24047,66 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "意识从未以数据形式现身于数据之间"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "集聚与人造主体性"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "Collective and Artificial Subjectivity"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "the-mind-that-statistics-cannot-reveal",
+      "rel": "points_to",
+      "label": "统计无法呈现的心智"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "the-mind-that-statistics-cannot-reveal",
+      "rel": "points_to",
+      "label": "The Mind That Statistics Cannot Reveal"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "表达与智力的混淆"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "抉择的跨界"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "The Boundary Crossing of Choice"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
