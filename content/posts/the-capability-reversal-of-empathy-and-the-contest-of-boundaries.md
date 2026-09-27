@@ -26,6 +26,8 @@ This surface defense conveniently evades the locus where the distortion actually
 
 将尝试推断的动态过程偷换为理解他人的现成能力，构成了极具诱惑力的认知僭越。当人们声称自己拥有理解他人的能力时，他们在心智中悄悄抹杀了生成推断所必须跨越的非对称鸿沟。一个人在脑海中所拼凑出的所谓对方的痛苦或想法，归根结底只是该主体基于自身过往印迹在低维界面上投射出的模拟画面。正如我们在[前台的寓言与缺席的因果倒置](../the-receptionist-parable-and-the-causal-inversion-of-absence/)中所见，个体极易将自身的心理投射幻想为对宏观系统的精准裁定；同样地，共情者将自身的脑内模拟直接等同于另一个独立生命的全部实相，实则是一种隐蔽的认知傲慢。这种由语言词汇催生的能力幻觉，使得行动者误以为自己真正获得了未经中介的客体真理，进而为后续的道德勒索敞开了大门。
 
+更为荒谬的是，这种预先设定的、本就充满缺陷的“理解能力”，被荒唐地置于理解发起者与被理解对象双方的真实境遇与感受之上。对于试图去理解的主体而言，其自身肉身的疲惫、直觉中的危机预警以及生存防线的承载极限，全都在“必须共情”的能力规训下被强行压制，沦为应当被克服的私欲；而对于被理解的客体而言，其独立、幽深且充满因果担当的真实个体性，也被粗暴地压缩为符合观察者脑内叙事的受难标签或情绪标本。通过这种双向的背离，共情非但没有建立起主体之间的真诚相通，反而构成了对双方个体性的低维截肢。更具破坏性的是，这种低维截肢是递归进行的：观察者脑内被截肢的扁平幻影引发出扭曲的救助与互动，互动引发的挫败与现实反噬又被归咎于自己“理解得还不够深刻”，进而驱动新一轮对自我与他者现实感受的无情压制，直至将双方的鲜活生命一同拖入相互消解的虚无之中。
+
 ```mermaid
 graph TD
     subgraph S_Inference ["有限推断的认知实相"]
@@ -35,12 +37,12 @@ graph TD
 
     subgraph S_Reversal ["能力设定的本体倒错"]
         direction TB
-        REV1["语言偷换设定<br/>将推断尝试异化为理解能力"] --> REV2["抹除认知视界落差<br/>将内部低维投影误认为他人实相"]
+        REV1["语言偷换设定<br/>将推断尝试异化为理解能力"] --> REV2["凌驾于双方真实体验<br/>对主体与客体施加递归的低维截肢"]
     end
 
     subgraph S_Imposition ["自毁义务与强加异化"]
         direction TB
-        IMP1["升格为道德标准<br/>体面心智必须具备透彻洞察"] --> IMP2["压制第一人称主权<br/>背负自戕式救赎与妥协义务"]
+        IMP1["升格为道德标准<br/>体面心智必须具备无条件共情"] --> IMP2["双向消解个体性<br/>自我牺牲与客体矮化的自毁闭环"]
     end
 
     INF2 -->|"设定为已拥有能力"| REV1
@@ -62,6 +64,8 @@ Dismantling this deception requires interrogating the word empathy itself. Ordin
 
 Converting a precarious attempt to infer into a settled capacity to understand constitutes a catastrophic epistemic overreach. When empathy is framed as an ability, the generative distance between the observer and the observed is erased. What an observer claims to grasp regarding another person's suffering or intention is ultimately a low-dimensional simulation constructed out of the observer's own memory traces and cognitive biases. As demonstrated in [The Receptionist Parable and the Causal Inversion of Absence](../the-receptionist-parable-and-the-causal-inversion-of-absence/), agents routinely mistake their private psychological projections for objective structural realities. Equating an internal mental rendering with the foreign interiority of another is a form of cognitive narcissism, creating a false certainty that sets the stage for severe systemic distortion.
 
+Even more egregiously, this presumed and inherently flawed ability to understand is mistakenly elevated above the actual realities and feelings of both parties—the subject striving to understand and the object being understood. For the subject attempting to comprehend, their own physical exhaustion, legitimate warning signals, and embodied survival limits are coerced into silence, dismissed as moral defects that must be overcome in service of empathic duty. For the object being understood, their sovereign, multi-dimensional interiority and personal causal agency are stripped away, compressed into an impoverished caricature or a passive victim label that flatters the observer's moral script. By subordinating both living perspectives to a phantom ability, empathy executes a literal low-dimensional amputation of individuality on both sides. Crucially, this low-dimensional amputation operates recursively: the observer's flattened projection generates distorted interventions, and the resulting friction is reflexively blamed on a failure to understand deeply enough, triggering another cycle of emotional suppression that further amputates the lived reality of both participants.
+
 ```mermaid
 graph TD
     subgraph S_Inference ["Epistemic Ground of Finite Inference"]
@@ -71,12 +75,12 @@ graph TD
 
     subgraph S_Reversal ["Ontological Inversion of Presumed Ability"]
         direction TB
-        REV1["Linguistic Displacement<br/>Converts ongoing attempt into possessed capability"] --> REV2["Erasing the Epistemic Gap<br/>Mistakes internal projection for foreign reality"]
+        REV1["Linguistic Displacement<br/>Converts ongoing attempt into possessed capability"] --> REV2["Elevating Ability Over Reality<br/>Recursive low-dimensional amputation of individuality"]
     end
 
     subgraph S_Imposition ["Moral Imposition and Suicidal Obligation"]
         direction TB
-        IMP1["Moralized Expectation<br/>Decency demands unmediated empathic insight"] --> IMP2["Suppressed First-Person Agency<br/>Subordinates survival to self-undermining duty"]
+        IMP1["Moralized Expectation<br/>Decency demands unmediated empathic insight"] --> IMP2["Mutual Erasure of Individuality<br/>Self-sacrifice and object flattening in closed loop"]
     end
 
     INF2 -->|"Framed as possessed ability"| REV1
