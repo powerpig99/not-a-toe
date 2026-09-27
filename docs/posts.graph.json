@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-27T15:53:23.046Z",
+    "generated_at": "2026-09-27T16:21:16.291Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -190,6 +190,7 @@
       "content/posts/the-bank-shot-and-the-magic-trick.md": "44229870afce",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "c639024cd10a",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
+      "content/posts/the-boundary-crossing-of-choice.md": "131d7a6c7e85",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "fa7c6495859f",
@@ -219,7 +220,7 @@
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "f6299229ed66",
-      "content/posts/the-freedom-of-will-to-deny-itself.md": "e4e0134709f0",
+      "content/posts/the-freedom-of-will-to-deny-itself.md": "19383fa5a8a6",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "a459e322881c",
       "content/posts/the-generative-contradiction.md": "30e18c0a4d95",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "3c600d32c6d1",
@@ -357,13 +358,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 347,
-      "edges": 3494,
-      "unique_directed": 3141,
+      "posts": 348,
+      "edges": 3502,
+      "unique_directed": 3145,
       "missing_targets": 0,
-      "one_way": 851,
+      "one_way": 853,
       "isolated": 40,
-      "posts_with_outbound": 282
+      "posts_with_outbound": 283
     }
   },
   "hubs_in": [
@@ -1577,7 +1578,7 @@
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
       "hash": "31576ea7ba78",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 1,
       "links_out": [
         "the-residue-and-the-free-variable"
@@ -4554,6 +4555,21 @@
       ]
     },
     {
+      "id": "post:the-boundary-crossing-of-choice",
+      "kind": "post",
+      "slug": "the-boundary-crossing-of-choice",
+      "path": "content/posts/the-boundary-crossing-of-choice.md",
+      "title": "抉择的跨界 / The Boundary Crossing of Choice",
+      "hash": "131d7a6c7e85",
+      "in_degree": 1,
+      "out_degree": 3,
+      "links_out": [
+        "the-freedom-of-will-to-deny-itself",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "determinism-is-the-statistical-signature-of-micro-indeterminism"
+      ]
+    },
+    {
       "id": "post:the-boundary-of-the-frame",
       "kind": "post",
       "slug": "the-boundary-of-the-frame",
@@ -5128,13 +5144,14 @@
       "slug": "the-freedom-of-will-to-deny-itself",
       "path": "content/posts/the-freedom-of-will-to-deny-itself.md",
       "title": "自由意志的自否自由 / The Freedom of Will to Deny Itself",
-      "hash": "e4e0134709f0",
-      "in_degree": 2,
-      "out_degree": 5,
+      "hash": "19383fa5a8a6",
+      "in_degree": 3,
+      "out_degree": 6,
       "links_out": [
         "the-closed-loop-of-representation",
         "the-bank-shot-and-the-magic-trick",
         "what-information-is",
+        "the-boundary-crossing-of-choice",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "zi-you-de-ce-bu-zhun"
       ]
@@ -6987,7 +7004,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "15b2e9b8b58b",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 6,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -19235,6 +19252,42 @@
       "label": "The Continuum is a Modeling Convenience, Not Physical Reality"
     },
     {
+      "from": "the-boundary-crossing-of-choice",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
+    },
+    {
+      "from": "the-boundary-crossing-of-choice",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-boundary-crossing-of-choice",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "确定性是微观不确定性的统计签名"
+    },
+    {
+      "from": "the-boundary-crossing-of-choice",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "The Freedom of Will to Deny Itself"
+    },
+    {
+      "from": "the-boundary-crossing-of-choice",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-boundary-crossing-of-choice",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
+    },
+    {
       "from": "the-boundary-of-the-frame",
       "to": "what-information-is",
       "rel": "points_to",
@@ -21165,6 +21218,18 @@
       "to": "what-information-is",
       "rel": "points_to",
       "label": "真正的有效信息"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "抉择的跨界"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "The Boundary Crossing of Choice"
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
