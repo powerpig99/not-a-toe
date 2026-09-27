@@ -36,12 +36,6 @@ On paper, symbolic formalisms achieve frictionless symmetry without energetic di
 
 然而，这种平衡极其脆弱。一旦同一个思考脱离了私密的内心审视，被作为公开主张加以引用、宣讲或奉为圭臬，其原本所具有的动态校准功能就会迅速丧失。在公共语境中，善与恶的张力被粗暴切断，这枚原本在手中翻转考量的硬币被硬生生抛入舆论场，其中一面被孤立地奉为终极真理。原本为了打破行动瘫痪的谨慎区分，瞬间演变为给残酷手段背书的狂妄意识形态：能动性被直接等同于正义性，而未来虚构的长远收益则被用来抵消当下具体生命所承受的切肤之痛。
 
-A profound illustration of this moral dialectic emerges from the distinction Peter Thiel draws between the antonyms of good. Thiel suggests that good has two entirely separate opposites: its functional antonym is bad or ineffective, whereas its moral antonym is evil. In conventional discourse, individuals frequently succumb to paralysis out of fear of transgressing social taboos, dressing up sheer incompetence and inaction as modest moral virtue. Thiel's taxonomy offers a sharp diagnostic scalpel: in extreme circumstances, a high-agency operator must discern whether a plan is failing because it is technically deficient, or whether it is highly effective yet exacts severe collateral damage and ethical cost.
-
-The generative value of this formulation depends entirely upon where it is housed. It operates as a living instrument only so long as it remains anchored inside the private first-person look of a single mind. Confronted with immediate friction, a decision-maker can use it to interrogate whether caution is merely a cloak for cowardice, or to weigh what magnitude of shock they are willing to absorb to achieve a vital breakthrough. In that solitary space, the categories of good, bad, and evil remain provisional and embodied, tethered to the concrete constraints of a singular dilemma as living scaffolding. As established in [The Boundary Crossing of Choice](../the-boundary-crossing-of-choice/), subjective choice is an irreversible collapse of informational potential into physical reality, where only the acting subject can directly calibrate the friction of agency against its incurred costs.
-
-Yet this balance is delicate. The moment the formulation is extracted from private introspection and broadcast as a public doctrine, its adaptive utility evaporates. In the open arena, the dynamic tension between competence and cost is severed. The coin is hurled into the crowd, and one face is seized upon as a totalizing banner. What began as a cautious instrument to overcome passive paralysis degrades into an arrogant ideology that excuses cruelty: operational competence is crowned as moral righteousness, and hypothetical future horizons are invoked to cancel real present suffering.
-
 ```mermaid
 graph TD
     classDef default fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc;
@@ -83,6 +77,12 @@ graph TD
     style PUB_Ignore fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style PUB_Hell fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
+
+A profound illustration of this moral dialectic emerges from the distinction Peter Thiel draws between the antonyms of good. Thiel suggests that good has two entirely separate opposites: its functional antonym is bad or ineffective, whereas its moral antonym is evil. In conventional discourse, individuals frequently succumb to paralysis out of fear of transgressing social taboos, dressing up sheer incompetence and inaction as modest moral virtue. Thiel's taxonomy offers a sharp diagnostic scalpel: in extreme circumstances, a high-agency operator must discern whether a plan is failing because it is technically deficient, or whether it is highly effective yet exacts severe collateral damage and ethical cost.
+
+The generative value of this formulation depends entirely upon where it is housed. It operates as a living instrument only so long as it remains anchored inside the private first-person look of a single mind. Confronted with immediate friction, a decision-maker can use it to interrogate whether caution is merely a cloak for cowardice, or to weigh what magnitude of shock they are willing to absorb to achieve a vital breakthrough. In that solitary space, the categories of good, bad, and evil remain provisional and embodied, tethered to the concrete constraints of a singular dilemma as living scaffolding. As established in [The Boundary Crossing of Choice](../the-boundary-crossing-of-choice/), subjective choice is an irreversible collapse of informational potential into physical reality, where only the acting subject can directly calibrate the friction of agency against its incurred costs.
+
+Yet this balance is delicate. The moment the formulation is extracted from private introspection and broadcast as a public doctrine, its adaptive utility evaporates. In the open arena, the dynamic tension between competence and cost is severed. The coin is hurled into the crowd, and one face is seized upon as a totalizing banner. What began as a cautious instrument to overcome passive paralysis degrades into an arrogant ideology that excuses cruelty: operational competence is crowned as moral righteousness, and hypothetical future horizons are invoked to cancel real present suffering.
 
 ```mermaid
 graph TD
@@ -152,12 +152,6 @@ The acting center may choose which side of the coin to present to the world, but
 
 这种僭越建立在一个极其虚妄的假设之上，即认定未来的宏伟产出可以反向抹杀当下的物理痕迹。然而在严格的因果链条中，已经发生的痛苦、毁损与剥夺是不可逆的单向刻写，没有任何虚构的历史终点能够取消它们的存在。当行动者试图以未来的天国为由强制他人承受当下的代价，而承受者同样在沉默中放弃抵御时，两方共同推波助澜，将真实的生命降格为无机的数据资产。在这场交互中，原本用来警醒自身的善恶硬币早已失落，取而代之的是通往地狱之路上愈发沉重的滚滚车轮；而事后站在历史终局进行复盘的观察者，极易轻率地给双方贴上道德标签，从而深深遮蔽了因果回路相互嵌合的真实机制。
 
-Once private introspection is cast into the public square, the coin slips from the palm that held it and collapses into a reified token. In circulation and citation, living tension is stripped away, and one frozen face is elevated into an absolute doctrine. What began as a provisional rubric for personal responsibility is transformed by disciples and detractors into an impersonal principle. Apologists brandish it as an alibi, while critics attack it as moral depravity. As analyzed in [The Moral Reversal and the Scripted Subject](../the-moral-reversal-and-the-scripted-subject/), when first-person agency is displaced by external tokens, living subjects are demoted into scripted props in an ideological theater.
-
-This reification exposes the subtle trap confronting high-agency actors. Those possessing exceptional competence display an admirable readiness to act where others cower, confronting friction to force novel outcomes. Yet this same drive tends to overextend into a fatal hubris: confusing technical competence with moral righteousness. The actor assumes that because they can engineer systems and bend trajectory lines, they possess the authority to define goodness for all other minds.
-
-This overextension rests on the false premise that prospective future outcomes can cancel the physical traces of immediate harm. In physical reality, every unit of suffering, displacement, and extraction is an irreversible historical inscription; no distant utopia can retrospectively erase what was broken to reach it. When an agent demands that others bear immediate destruction to fuel an imagined future paradise, and those others passively acquiesce, living subjects are collaboratively demoted to expendable instruments. The coin that once functioned as a private mirror of conscience is lost, replaced by an ideological juggernaut crushing the landscape beneath its advance. Retrospective third-person observers then slap moralizing labels onto the wreckage, obscuring the closed-loop causal interplay that produced the disaster.
-
 ```mermaid
 graph TD
     classDef default fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc;
@@ -213,6 +207,12 @@ graph TD
     style I_SystemCollapse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style I_MoralProjection fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
+
+Once private introspection is cast into the public square, the coin slips from the palm that held it and collapses into a reified token. In circulation and citation, living tension is stripped away, and one frozen face is elevated into an absolute doctrine. What began as a provisional rubric for personal responsibility is transformed by disciples and detractors into an impersonal principle. Apologists brandish it as an alibi, while critics attack it as moral depravity. As analyzed in [The Moral Reversal and the Scripted Subject](../the-moral-reversal-and-the-scripted-subject/), when first-person agency is displaced by external tokens, living subjects are demoted into scripted props in an ideological theater.
+
+This reification exposes the subtle trap confronting high-agency actors. Those possessing exceptional competence display an admirable readiness to act where others cower, confronting friction to force novel outcomes. Yet this same drive tends to overextend into a fatal hubris: confusing technical competence with moral righteousness. The actor assumes that because they can engineer systems and bend trajectory lines, they possess the authority to define goodness for all other minds.
+
+This overextension rests on the false premise that prospective future outcomes can cancel the physical traces of immediate harm. In physical reality, every unit of suffering, displacement, and extraction is an irreversible historical inscription; no distant utopia can retrospectively erase what was broken to reach it. When an agent demands that others bear immediate destruction to fuel an imagined future paradise, and those others passively acquiesce, living subjects are collaboratively demoted to expendable instruments. The coin that once functioned as a private mirror of conscience is lost, replaced by an ideological juggernaut crushing the landscape beneath its advance. Retrospective third-person observers then slap moralizing labels onto the wreckage, obscuring the closed-loop causal interplay that produced the disaster.
 
 ```mermaid
 graph TD
