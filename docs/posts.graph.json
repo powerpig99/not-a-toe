@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-27T16:21:16.291Z",
+    "generated_at": "2026-09-27T16:56:10.382Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -190,7 +190,7 @@
       "content/posts/the-bank-shot-and-the-magic-trick.md": "44229870afce",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "c639024cd10a",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
-      "content/posts/the-boundary-crossing-of-choice.md": "131d7a6c7e85",
+      "content/posts/the-boundary-crossing-of-choice.md": "ea6d59cb7811",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "fa7c6495859f",
@@ -4560,7 +4560,7 @@
       "slug": "the-boundary-crossing-of-choice",
       "path": "content/posts/the-boundary-crossing-of-choice.md",
       "title": "抉择的跨界 / The Boundary Crossing of Choice",
-      "hash": "131d7a6c7e85",
+      "hash": "ea6d59cb7811",
       "in_degree": 1,
       "out_degree": 3,
       "links_out": [
@@ -19259,18 +19259,6 @@
     },
     {
       "from": "the-boundary-crossing-of-choice",
-      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "rel": "points_to",
-      "label": "主权抉择的双面性与观察的客体化"
-    },
-    {
-      "from": "the-boundary-crossing-of-choice",
-      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
-      "rel": "points_to",
-      "label": "确定性是微观不确定性的统计签名"
-    },
-    {
-      "from": "the-boundary-crossing-of-choice",
       "to": "the-freedom-of-will-to-deny-itself",
       "rel": "points_to",
       "label": "The Freedom of Will to Deny Itself"
@@ -19279,7 +19267,19 @@
       "from": "the-boundary-crossing-of-choice",
       "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-boundary-crossing-of-choice",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
       "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-boundary-crossing-of-choice",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "确定性是微观不确定性的统计签名"
     },
     {
       "from": "the-boundary-crossing-of-choice",
