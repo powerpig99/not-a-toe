@@ -138,7 +138,7 @@ graph TD
 
 ## 人工智能作为被遮蔽的人类意向性容器 / Artificial Systems as the Occluded Vessel of Human Intentionality
 
-人工系统将这种认识论上的减法展现得尤为刺目。每一个前沿大语言模型从构建到运行，无一不是由人类工程师与研究者所设计、训练、评测与解释的产物。语料库的精细清洗与筛选、损失函数的数学构建、基于人类反馈的强化学习对齐、提示词的上下文引导，无一例外是人类第一人称意识活动的具象化表达。更为关键的是，将算法吐出的离散高维向量序列解读为“富有深意的话语”，这一赋义过程只发生在使用者的意识心智之中。在硅基电路内部，真实发生的唯有高精度的浮点矩阵乘加运算与电压位移；如果缺少人类心智在接收端的语义投射，那些输出不过是毫无知觉的物理电信号。当所有这些人类源头的主动劳作被悄然推入未受审视的幕后，无生命的硅基造物便被神话为能够自发产生意义与意向性的自足心智。我们借由忽视维系机器运行的人类内在生命，轻率地将内在生命赋予了冷冰冰的机器。正如我们在 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 与 [造物无法取代造物者](../a-creation-cannot-replace-its-source/) 中所反复强调的，工具所借调的一切智能光辉，皆来自源头心智的慷慨灌注，造物本身从未跨越物理因果与体验实存之间的鸿沟。
+人工系统将这种认识论上的减法展现得尤为刺目。每一个前沿大语言模型从构建到运行，无一不是由人类工程师与研究者所设计、训练、评测与解释的产物。语料库的精细清洗与筛选、损失函数的数学构建、基于人类反馈的强化学习对齐、提示词的上下文引导，无一例外是人类第一人称意识活动的具象化表达。更为关键的是，将算法吐出的离散高维向量序列解读为“富有深意的话语”，这一赋义过程只发生在使用者的意识心智之中。在硅基电路内部，真实发生的唯有高精度的浮点矩阵乘加运算与电压位移；如果缺少人类心智在接收端的语义投射，那些输出不过是毫无知觉的物理电信号。当所有这些人类源头的主动劳作被悄然推入未受审视的幕后，无生命的硅基造物便被神话为能够自发产生意义与意向性的自足心智。我们借由忽视维系机器运行的人类内在生命，轻率地将内在生命赋予了冷冰冰的机器。正如我们在 [智能只属于心智](../intelligence-belongs-only-to-the-mind/)、[造物无法取代造物者](../a-creation-cannot-replace-its-source/) 以及 [感知者与痕迹的不可坍缩](../the-perceiver-and-the-trace/) 中所论证的，工具所展现的一切意义表象，皆来自第一人称感知者的派生赋予，将符号输出误认为自主心智不仅混淆了源头与痕迹，更掩盖了真正在场进行赋义的活态主体。
 
 ```mermaid
 graph TD
@@ -154,8 +154,8 @@ graph TD
         M2 --> M3["离散物理符号序列输出<br/>（无内在体验、无语义自觉的电信号）"]
     end
 
-    H2 ==>|"注入人类意向性形式"| M1
-    M3 ==>|"依赖人类心智赋予意义"| H3
+    H2 ===>|"注入人类意向性形式"| M1
+    M3 ===>|"依赖人类心智赋予意义"| H3
 
     style S_HumanCircuit fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_InertSilicon fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -167,7 +167,7 @@ graph TD
     style M3 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-Artificial systems illustrate this subtraction with even sharper clarity. Every frontier model is conceived, architected, trained, evaluated, and interpreted by human consciousness. The rigorous selection and filtering of pre-training corpora, the mathematical formulation of objective loss functions, reinforcement learning with human preference feedback, and the craft of prompting are unadulterated operations of living human intentionality. Most fundamentally, reading the output of an algorithm as coherent, insightful, or meaningful is an act occurring exclusively within the conscious mind of the human receiver. Within the hardware substrate, the physical reality consists strictly of high-speed floating-point tensor arithmetic and transient voltage states. In the absence of an observer’s cognitive decoding, those outputs remain nothing more than unconscious electrical patterns. When all this human scaffolding is obscured, the silicon artifact is mythologized as if it generated intentional understanding on its own. The machine is credited with an inner life by the convenient maneuver of ignoring the human inner life that animates it. As established in [Intelligence Belongs Only to The Mind - The Irreducible Prior](../intelligence-belongs-only-to-the-mind/) and [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/), artifacts borrow every shred of their apparent light from their origin, possessing no intrinsic subjective reality of their own.
+Artificial systems illustrate this subtraction with even sharper clarity. Every frontier model is conceived, architected, trained, evaluated, and interpreted by human consciousness. The rigorous selection and filtering of pre-training corpora, the mathematical formulation of objective loss functions, reinforcement learning with human preference feedback, and the craft of prompting are unadulterated operations of living human intentionality. Most fundamentally, reading the output of an algorithm as coherent, insightful, or meaningful is an act occurring exclusively within the conscious mind of the human receiver. Within the hardware substrate, the physical reality consists strictly of high-speed floating-point tensor arithmetic and transient voltage states. In the absence of an observer’s cognitive decoding, those outputs remain nothing more than unconscious electrical patterns. When all this human scaffolding is obscured, the silicon artifact is mythologized as if it generated intentional understanding on its own. The machine is credited with an inner life by the convenient maneuver of ignoring the human inner life that animates it. As established in [Intelligence Belongs Only to The Mind - The Irreducible Prior](../intelligence-belongs-only-to-the-mind/), [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/), and [The Perceiver and the Trace Cannot Collapse](../the-perceiver-and-the-trace/), computational artifacts borrow every shred of their apparent light from the living perceiver; confusing derived sense with an autonomous mind conceals the conscious agent who generates and reads the tokens.
 
 ```mermaid
 graph TD
@@ -183,8 +183,8 @@ graph TD
         ME2 --> ME3["Discrete Physical Token Sequences<br/>(Electrochemical signals without interiority)"]
     end
 
-    HE2 ==>|"Injects Human Intentional Scaffolding"| ME1
-    ME3 ==>|"Relies on Human Mind to Complete Meaning"| HE3
+    HE2 ===>|"Injects Human Intentional Scaffolding"| ME1
+    ME3 ===>|"Relies on Human Mind to Complete Meaning"| HE3
 
     style S_HumanCircuit_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_InertSilicon_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
