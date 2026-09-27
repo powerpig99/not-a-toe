@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-23T09:15:03.674Z",
+    "generated_at": "2026-09-27T06:12:19.128Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -30,7 +30,7 @@
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "e3ffc8e7b02f",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "74dafb24835c",
       "content/posts/cheng-gong-xue.md": "f451243afbd5",
-      "content/posts/choice-itself-has-no-inherent-weight.md": "a09e160a9ee7",
+      "content/posts/choice-itself-has-no-inherent-weight.md": "3380a7f3026b",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -193,7 +193,7 @@
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "be7b032ccd86",
-      "content/posts/the-causal-inversion-of-partnership.md": "e91d44269102",
+      "content/posts/the-causal-inversion-of-partnership.md": "91c09f2f860e",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
@@ -286,6 +286,7 @@
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "fb9ca239147d",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "c1d05dc9cc31",
+      "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "dfb42163456c",
       "content/posts/the-residue-and-the-free-variable.md": "ad127d142fbf",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "abb2bcc9e28d",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c9db12b044ea",
@@ -353,13 +354,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 343,
-      "edges": 3437,
-      "unique_directed": 3112,
+      "posts": 344,
+      "edges": 3453,
+      "unique_directed": 3120,
       "missing_targets": 0,
-      "one_way": 834,
+      "one_way": 838,
       "isolated": 41,
-      "posts_with_outbound": 278
+      "posts_with_outbound": 279
     }
   },
   "hubs_in": [
@@ -1057,15 +1058,16 @@
       "slug": "choice-itself-has-no-inherent-weight",
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
-      "hash": "a09e160a9ee7",
-      "in_degree": 10,
-      "out_degree": 7,
+      "hash": "3380a7f3026b",
+      "in_degree": 11,
+      "out_degree": 8,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-illusion-of-the-unmediated",
         "the-causal-inversion-of-partnership",
         "the-explanatory-trap-of-the-ordinary-perspective",
+        "the-receptionist-parable-and-the-causal-inversion-of-absence",
         "one-cannot-escape-ones-own-mind",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable"
       ]
@@ -3118,7 +3120,7 @@
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
       "hash": "5b88da1cccea",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 9,
       "links_out": [
         "subtracting-consciousness-at-the-source",
@@ -4615,9 +4617,9 @@
       "slug": "the-causal-inversion-of-partnership",
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
-      "hash": "e91d44269102",
-      "in_degree": 6,
-      "out_degree": 9,
+      "hash": "91c09f2f860e",
+      "in_degree": 7,
+      "out_degree": 10,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "one-cannot-escape-ones-own-mind",
@@ -4626,6 +4628,7 @@
         "the-geometry-of-the-cut",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-receptionist-parable-and-the-causal-inversion-of-absence",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-explanatory-trap-of-the-ordinary-perspective"
       ]
@@ -4794,7 +4797,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "868ab397f06e",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4914,7 +4917,7 @@
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
       "hash": "ed93adb4eeb6",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 12,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -5585,7 +5588,7 @@
       "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
       "title": "The Knowledge Problem and the Illusion of Delegation",
       "hash": "83dfa976cce0",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 7,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -6407,6 +6410,24 @@
         "the-price-of-closing-optionality",
         "the-reality-distortion-field-inverts-the-baseline",
         "abstraction-boundaries-and-the-moving-edge-of-reality"
+      ]
+    },
+    {
+      "id": "post:the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "kind": "post",
+      "slug": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "path": "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md",
+      "title": "前台的寓言与缺席的因果倒置 / The Receptionist Parable and the Causal Inversion of Absence",
+      "hash": "dfb42163456c",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "the-explanatory-trap-of-the-ordinary-perspective",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-knowledge-problem-and-the-illusion-of-delegation",
+        "one-cannot-escape-ones-own-mind",
+        "the-causal-inversion-of-partnership",
+        "choice-itself-has-no-inherent-weight"
       ]
     },
     {
@@ -9316,6 +9337,12 @@
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "前台的寓言与缺席的因果倒置"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "心智无法逃离自身"
@@ -9331,6 +9358,12 @@
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "The Explanatory Trap of the \"Ordinary Perspective\""
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "The Receptionist Parable and the Causal Inversion of Absence"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
@@ -19420,6 +19453,12 @@
     },
     {
       "from": "the-causal-inversion-of-partnership",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "前台的寓言与缺席的因果倒置"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "数字火箭、同行审查与因果闭环的稀释"
@@ -19459,6 +19498,12 @@
       "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
       "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "The Receptionist Parable and the Causal Inversion of Absence"
     },
     {
       "from": "the-causal-inversion-of-partnership",
@@ -24439,6 +24484,78 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the Ordinary Perspective"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的代理与后果的不可让渡"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "知识问题与代理的幻觉"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The Knowledge Problem and the Illusion of Delegation"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "心智无法逃离自身"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "契约的因果倒置"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "The Causal Inversion of Partnership"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "抉择本身并不沉重"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
     },
     {
       "from": "the-residue-and-the-free-variable",
