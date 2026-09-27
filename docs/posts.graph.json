@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-27T08:39:59.122Z",
+    "generated_at": "2026-09-27T09:00:38.572Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -192,7 +192,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
-      "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "dadded690e7d",
+      "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "83d0880da5f9",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "be7b032ccd86",
       "content/posts/the-causal-inversion-of-partnership.md": "91c09f2f860e",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
@@ -265,9 +265,10 @@
       "content/posts/the-mirror-handshake-of-power.md": "3fe1b6678749",
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
       "content/posts/the-model-never-becomes-a-second-edge.md": "6dec2cdef8ae",
+      "content/posts/the-moral-reversal-and-the-scripted-subject.md": "0b5486d76301",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "06673522a545",
-      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "0b795e820890",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "7af72172b13d",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
       "content/posts/the-observational-cut-in-ai-debates.md": "170100d442c0",
@@ -355,13 +356,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 345,
-      "edges": 3467,
-      "unique_directed": 3127,
+      "posts": 346,
+      "edges": 3481,
+      "unique_directed": 3134,
       "missing_targets": 0,
-      "one_way": 841,
+      "one_way": 844,
       "isolated": 40,
-      "posts_with_outbound": 280
+      "posts_with_outbound": 281
     }
   },
   "hubs_in": [
@@ -4594,12 +4595,13 @@
       "slug": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "path": "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md",
       "title": "共情的能力倒错与边界的排序之争 / The Capability Reversal of Empathy and the Contest of Boundaries",
-      "hash": "dadded690e7d",
-      "in_degree": 2,
-      "out_degree": 5,
+      "hash": "83d0880da5f9",
+      "in_degree": 3,
+      "out_degree": 6,
       "links_out": [
         "the-asymmetry-of-understanding",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
+        "the-moral-reversal-and-the-scripted-subject",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-mirror-handshake-of-power",
         "the-causal-inversion-of-partnership"
@@ -5933,6 +5935,23 @@
       ]
     },
     {
+      "id": "post:the-moral-reversal-and-the-scripted-subject",
+      "kind": "post",
+      "slug": "the-moral-reversal-and-the-scripted-subject",
+      "path": "content/posts/the-moral-reversal-and-the-scripted-subject.md",
+      "title": "道德倒错与被脚本化的主体 / The Moral Reversal and the Scripted Subject",
+      "hash": "0b5486d76301",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "the-name-revolution-files-a-life-as-evidence",
+        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-receptionist-parable-and-the-causal-inversion-of-absence"
+      ]
+    },
+    {
       "id": "post:the-myth-of-population-collapse-explained",
       "kind": "post",
       "slug": "the-myth-of-population-collapse-explained",
@@ -5982,11 +6001,12 @@
       "slug": "the-name-revolution-files-a-life-as-evidence",
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
-      "hash": "0b795e820890",
-      "in_degree": 5,
-      "out_degree": 7,
+      "hash": "7af72172b13d",
+      "in_degree": 6,
+      "out_degree": 8,
       "links_out": [
         "the-mind-as-vector-and-coordinate-system",
+        "the-moral-reversal-and-the-scripted-subject",
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "sovereignty-belief-and-regulatory-structures",
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -6437,7 +6457,7 @@
       "path": "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md",
       "title": "前台的寓言与缺席的因果倒置 / The Receptionist Parable and the Causal Inversion of Absence",
       "hash": "ca268f088d0f",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 7,
       "links_out": [
         "the-explanatory-trap-of-the-ordinary-perspective",
@@ -6729,7 +6749,7 @@
       "path": "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md",
       "title": "造神的障眼法与隐秘阶序的说辞 / The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank",
       "hash": "5394b57d7f8b",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 6,
       "links_out": [
         "the-cartesian-overstep-and-the-frenzy-of-creation",
@@ -6947,7 +6967,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "15b2e9b8b58b",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 6,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -19292,9 +19312,21 @@
     },
     {
       "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-moral-reversal-and-the-scripted-subject",
+      "rel": "points_to",
+      "label": "道德倒错与被脚本化的主体"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "rel": "points_to",
       "label": "The Receptionist Parable and the Causal Inversion of Absence"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-moral-reversal-and-the-scripted-subject",
+      "rel": "points_to",
+      "label": "The Moral Reversal and the Scripted Subject"
     },
     {
       "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
@@ -23065,6 +23097,66 @@
       "label": "The Three Shadows of the Cut"
     },
     {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "名号革命把生命立案为证"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "The Name Revolution Files a Life as Evidence"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "造神的障眼法与未言明的位序"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Synthesizing Gods and Unacknowledged Rank"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "rel": "points_to",
+      "label": "共情的能力倒错与边界的排序之争"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "rel": "points_to",
+      "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权选择的两面性与观察的客体化"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "前台的寓言与缺席的因果倒置"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "The Receptionist Parable and the Causal Inversion of Absence"
+    },
+    {
       "from": "the-myth-of-population-collapse-explained",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
@@ -23222,9 +23314,21 @@
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "the-moral-reversal-and-the-scripted-subject",
+      "rel": "points_to",
+      "label": "道德倒错与被脚本化的主体"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
       "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "the-moral-reversal-and-the-scripted-subject",
+      "rel": "points_to",
+      "label": "The Moral Reversal and the Scripted Subject"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
