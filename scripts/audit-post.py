@@ -484,6 +484,23 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 else:
                     passes.append(f"Walkthrough WeChat Video Channels topic terms check ({len(tags)} tags found: {' '.join('#' + t for t in tags[:5])})")
 
+            # 3. Specific check for X (Twitter) copy: single-post text, prohibit multi-tweet thread format
+            x_patterns = ['X (Twitter)', 'X (Twitter) (EN Only)', 'Twitter (X)']
+            x_found_pos = -1
+            for pat in x_patterns:
+                pos = w_content.find(pat)
+                if pos != -1:
+                    x_found_pos = pos
+                    break
+            if x_found_pos != -1:
+                next_header = re.search(r'\n#{2,3}\s+', w_content[x_found_pos + 10:])
+                end_pos = (x_found_pos + 10 + next_header.start()) if next_header else len(w_content)
+                x_sec = w_content[x_found_pos:end_pos]
+                if re.search(r'\b(?:Thread|1/[0-9]|1/4|2/4)\b', x_sec, re.IGNORECASE):
+                    errors.append("Walkthrough X (Twitter) copy uses multi-tweet thread formatting ('Thread:' / '1/4'). Standard rule: provide a single, cohesive English post block, not a multi-tweet thread.")
+                else:
+                    passes.append("Walkthrough X (Twitter) single-post format check (no multi-tweet thread splitting)")
+
     # 8. Companion NotebookLM prompts audit
     prompts_dir = root / 'notebooklm-auto' / 'prompts'
     audio_prompt_file = prompts_dir / f"{slug}_zh.txt"
