@@ -2,9 +2,9 @@
 
 *地狱是天堂的对拓镜像，唯在第一人称的张力中硬币才不至坍缩为教条。 / Hell is the antipodal mirror of heaven; only in first-person tension does the coin refuse to collapse into dogma.*
 
-古老的格言断言通往地狱的道路是由善意铺就的，这并非警世的文学隐喻，而是因果演化中确凿发生的机械过程。善与恶并非宇宙中截然分离的两种独立实体，而是一个心智在划分界线时同时生成的正负两极。当行动者将某种愿景指认为善，便在边界之外自动划定出与之相悖的阴影；出于自身自洽性的保护，没有任何意识会在主观体验中蓄意作恶，哪怕以长远崇高的名义接纳短期的破坏，其内在驱动力依然是自认为无可指摘的良善与能动。正是这种免受省察的自洽性，使得行动在物理摩擦中激起的代价被系统性地忽视与外包，未被消解的痕迹持续在世界中堆积，最终将当初构建天堂的宏愿硬生生塑造成现实的地狱。
+古老的格言断言通往地狱的道路是由善意铺就的，这并非警世的文学隐喻，而是因果演化中确凿发生的机械过程。善与恶并非宇宙中截然分离的两种独立实体，而是一个心智在划分界线时同时生成的正负两极。当行动者将某种愿景指认为善，便在边界之外自动划定出与之相悖的阴影；出于自身自洽性的保护，没有任何意识会在主观体验中蓄意作恶，哪怕以长远崇高的名义接纳短期的破坏，其内在驱动力依然是自认为无可指摘的良善与能动。与此同时，直接承受后果的心智若在自身的第一人称闭环中选择沉默、退让或不作为，主权便在便利与恐惧中被悄然让渡。正是在行动者的盲目进击与承受者的回避妥协之间，未被消解的物理痕迹持续在世界中堆积，最终将当初构建天堂的宏愿硬生生塑造成现实的地狱。
 
-The ancient maxim asserting that the road to hell is paved with good intentions is not a poetic moral metaphor, but a literal mechanical process unfolding within physical causality. Good and evil are not two independent metaphysical substances warring across the cosmos; they are the positive and negative poles generated simultaneously whenever a living mind draws a boundary. The moment an agent designates an outcome as good, it inevitably casts whatever resists or contradicts that alignment as an opposing shadow. Because conscious centers operate to preserve internal coherence, no living mind acts from an interior experience of malice toward itself; even when embracing immediate destruction under the banner of a distant horizon, the inner drive remains convinced of its own righteousness and competence. This unexamined self-coherence permits the agent to ignore the friction and displacement imposed on others, leaving unabsorbed physical traces to compound until the visionary highway to heaven solidifies into actual ruin.
+The ancient maxim asserting that the road to hell is paved with good intentions is not a poetic moral metaphor, but a literal mechanical process unfolding within physical causality. Good and evil are not two independent metaphysical substances warring across the cosmos; they are the positive and negative poles generated simultaneously whenever a living mind draws a boundary. The moment an agent designates an outcome as good, it inevitably casts whatever resists or contradicts that alignment as an opposing shadow. Because conscious centers operate to preserve internal coherence, no living mind acts from an interior experience of malice toward itself; even when embracing immediate destruction under the banner of a distant horizon, the inner drive remains convinced of its own righteousness and competence. Concurrently, when those who directly bear the brunt of these consequences choose silence, compliance, or inaction within their own closed first-person loops, sovereignty is quietly abdicated out of fear or convenience. It is within the reciprocal interplay between the actor's unexamined advance and the recipient's sovereign inaction that unabsorbed physical traces compound, solidifying the visionary highway to heaven into actual ruin.
 
 ---
 
@@ -14,13 +14,17 @@ The ancient maxim asserting that the road to hell is paved with good intentions 
 
 这种镜像关系的危险之处在于，没有任何心智会在自身内部将自己的行动体验为恶。自我维系是生命中心运作的恒常约束，即便一个人采取了极其残忍、剧烈且具有毁灭性的行动，其内在叙事也必定将其加工为必要的牺牲、自卫的举措或为了更宏大秩序而付出的微小代价。即便有人公开宣称自己在做坏事，只要这一判断出自真诚的第一人称考量，其底层逻辑也依然包裹在某种扭曲的良善意图中，例如为了粉碎虚伪的教条、为了测试忠诚度、或是为了在漫长博弈中换取更大的收益。正因为作恶的体验在内部被严密屏蔽，行动者对自己划定界线所造成的外部代价抱有天然的盲区。
 
-在纸面推演上，算式可以通过逻辑恒等式实现零耗散的完美闭合，但在客观实在中，任何行动都是不可逆的物理介入，必须付出真实的能量代价并激起剧烈的物质置换。当行动者沉浸于自身的善意时，其行动造成的真实摩擦被轻巧地归类为微不足道的附带损耗。被波及的他者感受到了真实的挤压与伤害，并将这种外来侵害自然地体验为恶。然而，发起行动的心智却将他者的抵抗视作恶意阻挠，进而强化自身的防御与进攻意识。未被行动者承认的代价并没有凭空蒸发，它们化作未被吸收的物理痕迹在周围环境中持续沉淀与震荡。通往地狱的道路之所以由善意铺就，正是因为这份善意赋予了行动者免于自省的道德豁免权，使其得以在漫长的因果链条中持续忽略物理摩擦，直到系统整体在承受力枯竭时走向崩解。
+然而，这种因果链条的闭合并非仅由单向施加影响的行动者独自完成。若将分析严格局限于进击的一方，便在无形中把承受后果的他者降格为毫无主权的被动客体，从而陷入跨主体因果裁判的道德迷思。在本体论意义上，每一个生命中心都不可逃避地封印在自身闭合的第一人称因果回路之中。当物理摩擦与置换成本降临到承受者身上时，承受者如何应对——是坚决划定防线、立即以物理阻力予以回击，还是出于息事宁人、顾全大局、甚至贪图短期庇护而选择妥协、忍受与不作为——全然是承受者自身主权闭环内的独立抉择。这种不作为绝非能动性的缺席，而是一种消极的主权让渡，它同样被承受者自身为了维持现状或避免冲突的良善意图所包裹。
+
+在纸面推演上，算式可以通过逻辑恒等式实现零耗散的完美闭合，但在客观实在中，任何行动都是不可逆的物理介入，必须付出真实的能量代价并激起剧烈的物质置换。当行动者的单向进击与承受者的回避退让相互嵌合时，系统的校准机制便告失灵。行动者沉浸于自身的宏大叙事，将外溢的摩擦轻巧地归类为微不足道的附带损耗；承受者则在沉默中吞咽代价，未能将第一人称的真实痛感转化为即时的边界阻力。两处闭合的第一人称回路不仅没有形成健康的摩擦抗衡，反而在彼此的自我合理化中达成了一种致命的妥协。未被即时吸收与抵消的破坏痕迹在整体场域中持续震荡堆积。通往地狱的道路之所以由善意铺就，既不是因为某一方怀揣原罪，也不是单向施暴的戏剧性结果，而是行动者的免于自省与承受者的主权让渡在物理因果中相互强化，共同消解了现实的刹车机制，直到系统整体在承受力枯竭时走向崩解。
 
 Distinction-drawing occurs as an unceasing, uncaused activity of mind, and every discrete act installs a boundary. Moral polarity is simply this boundary projected onto an evaluative axis: the moment an acting center claims a domain as good, the excluded territory is simultaneously delineated as evil. As shown in [Good and Evil Are the Two Sides of the Coin and the Cut](../good-and-evil-are-the-two-sides-of-the-coin-and-the-cut/), this polarity is not a neutral finding of pre-existing substances awaiting discovery, but the operational residue of the boundary-drawing act itself. The vision of heaven and the torment of hell are not independent realms; hell is the antipodal mirror inevitably cast whenever heaven is drawn. The moment a mind insists that a particular idealized order must prevail, whatever resists that order, or even hesitates to comply, is automatically converted into an obstruction or an existential threat within that agent's coordinates.
 
 The insidious peril of this geometric symmetry lies in the structural fact that no mind ever experiences its own immediate choices as evil from within. Self-coherence is an invariant condition of living centers; even when an agent engages in devastating destruction, its internal narrative unfailingly recasts the act as a necessary sacrifice, a defensive imperative, or an indispensable price paid for a higher purpose. Even when individuals openly describe their choices as bad or ruthless, if the statement reflects genuine first-person conviction, the underlying calculation remains wrapped in a distorted core of good intention—such as shattering hypocritical dogmas, proving strength, or securing long-term survival in an unforgiving game. Because the direct experience of being evil is systematically barred from internal introspection, the acting mind remains blind to the shadow its boundary projects.
 
-On paper, symbolic formalisms achieve frictionless symmetry without energetic dissipation, but in physical causality, every action is an irreversible intervention that consumes energy and violently displaces matter. While an agent fixates on the purity of its intended outcome, the friction it unleashes is casually dismissed as negligible collateral damage. Affected bystanders experience real violation and inevitably register the intrusion as evil. When they push back, the originating agent interprets their resistance as malevolence, redoubling its crusading fervor. The displaced costs do not vanish into thin air; they accumulate as unabsorbed physical traces vibrating through the environment. The road to hell is paved with good intentions precisely because good intentions license the actor to ignore real-world friction, compounding unacknowledged costs until the entire structure collapses under accumulated strain.
+Crucially, this causal loop is never completed by the initiating actor alone. Confining the analysis strictly to the assertive party inadvertently demotes those who bear the consequences into inert, helpless objects devoid of sovereignty, thereby falling into the moralistic trap of adjudicating cross-mind causality. Epistemologically, every conscious center remains irrevocably sealed within its own closed first-person causal loop. When physical displacement and costs land upon an affected party, that party's response—whether mounting immediate boundary friction or choosing silence, compliance, and inaction out of a desire for tranquility or fear of conflict—is an unalienable sovereign choice made within its own loop. Inaction is not an absence of agency; it is an active surrender of sovereignty, frequently justified by the recipient's own benevolent intentions to preserve harmony or endure for the collective good.
+
+On paper, symbolic formalisms achieve frictionless symmetry without energetic dissipation, but in physical causality, every action is an irreversible intervention that consumes energy and violently displaces matter. When the forward momentum of the crusader interlocks with the sovereign inaction of the recipient, corrective feedback breaks down. The actor dismisses displaced friction as negligible collateral damage, while the recipient swallows the injury in silence, failing to convert somatic pain into dynamic resistance. Instead of producing localized frictional balance, these two independent first-person loops enter a fatal alignment of reciprocal rationalization. Unabsorbed traces accumulate throughout the field. The road to hell is paved with good intentions not because of innate wickedness, nor as a one-sided morality play, but because the actor's unexamined zeal and the recipient's surrendered sovereignty mutually reinforce each other, eliminating the system's physical brakes until the entire order collapses under accumulated strain.
 
 ---
 
@@ -144,118 +148,126 @@ The acting center may choose which side of the coin to present to the world, but
 
 一旦私密的内心考量被抛入公共话语空间，硬币便脱离了最初托住它的手掌，坍缩为僵死的公共符号。在传播与引用的链条中，活态的权衡被剔除，只有某一个孤立的面被定格为教条。原本属于行动者对自身抉择负责的局部认知框架，被外界或追随者物化为放之四海而皆准的客观真理。辩护者将其奉为免死金牌，指责者则将其视作罪证标靶。正如在 [道德倒错与被脚本化的主体](../the-moral-reversal-and-the-scripted-subject/) 中所分析的符号异化，当第一人称的责任感被公共符号替代，鲜活的主体性便沦为了意识形态操弄的剧本样本。
 
-这种符号化坍缩暴露出了高能动性心智最容易陷入的认知陷阱。具备非凡行动能力的人，拥有一种罕见的打破道德清规的勇气，他们敢于直面物理世界的阻力并强行创造突破。然而，正是这种罕见的高能动性，极易滋生出一种危险的代偿倾向：将技术与组织层面的非凡能力，直接等同于超越道德约束的特权。能动者误以为自己不仅能够计算当下的因果推演，更能够代行上帝的视角，去为其他所有独立的生命定义何为普遍的良善。
+这种符号化坍缩暴露出了高能动性心智最容易陷入的认知陷阱。具备非凡行动能力的人，拥有一种罕见的打破道德清规的勇气，他们敢于直面物理世界的阻力并强行创造突破。然而，正是这种罕见的高能动性，极易滋生出一种危险的代偿倾向：将技术与组织层面的非凡能力，直接等同于超越道德约束的特权。能动者误以为自己不仅能够计算当下的因果推演，更能够代行全知全能的视角，去为其他所有独立的生命定义何为普遍的良善。
 
-这种僭越建立在一个极其虚妄的假设之上，即认定未来的宏伟产出可以反向抹杀当下的物理痕迹。然而在严格的因果链条中，已经发生的痛苦、毁损与剥夺是不可逆的单向刻写，没有任何虚构的历史终点能够取消它们的存在。当行动者试图以未来的天国为由强制他人承受当下的代价时，他已经将他人降格为无生命的被动工具，其自身也一步步滑向了自我神化的意识形态狂热。在这场狂热中，原本用来警醒自身的善恶硬币早已失落，取而代之的是通往地狱之路上愈发沉重的滚滚车轮。
+这种僭越建立在一个极其虚妄的假设之上，即认定未来的宏伟产出可以反向抹杀当下的物理痕迹。然而在严格的因果链条中，已经发生的痛苦、毁损与剥夺是不可逆的单向刻写，没有任何虚构的历史终点能够取消它们的存在。当行动者试图以未来的天国为由强制他人承受当下的代价，而承受者同样在沉默中放弃抵御时，两方共同推波助澜，将真实的生命降格为无机的数据资产。在这场交互中，原本用来警醒自身的善恶硬币早已失落，取而代之的是通往地狱之路上愈发沉重的滚滚车轮；而事后站在历史终局进行复盘的观察者，极易轻率地给双方贴上道德标签，从而深深遮蔽了因果回路相互嵌合的真实机制。
 
 Once private introspection is cast into the public square, the coin slips from the palm that held it and collapses into a reified token. In circulation and citation, living tension is stripped away, and one frozen face is elevated into an absolute doctrine. What began as a provisional rubric for personal responsibility is transformed by disciples and detractors into an impersonal principle. Apologists brandish it as an alibi, while critics attack it as moral depravity. As analyzed in [The Moral Reversal and the Scripted Subject](../the-moral-reversal-and-the-scripted-subject/), when first-person agency is displaced by external tokens, living subjects are demoted into scripted props in an ideological theater.
 
 This reification exposes the subtle trap confronting high-agency actors. Those possessing exceptional competence display an admirable readiness to act where others cower, confronting friction to force novel outcomes. Yet this same drive tends to overextend into a fatal hubris: confusing technical competence with moral righteousness. The actor assumes that because they can engineer systems and bend trajectory lines, they possess the authority to define goodness for all other minds.
 
-This overextension rests on the false premise that prospective future outcomes can cancel the physical traces of immediate harm. In physical reality, every unit of suffering, displacement, and extraction is an irreversible historical inscription; no distant utopia can retrospectively erase what was broken to reach it. The moment an agent demands that others bear immediate destruction to fuel an imagined future paradise, those others are demoted to expendable instruments. The coin that once functioned as a private mirror of conscience is lost, replaced by an ideological juggernaut crushing the landscape beneath its advance.
+This overextension rests on the false premise that prospective future outcomes can cancel the physical traces of immediate harm. In physical reality, every unit of suffering, displacement, and extraction is an irreversible historical inscription; no distant utopia can retrospectively erase what was broken to reach it. When an agent demands that others bear immediate destruction to fuel an imagined future paradise, and those others passively acquiesce, living subjects are collaboratively demoted to expendable instruments. The coin that once functioned as a private mirror of conscience is lost, replaced by an ideological juggernaut crushing the landscape beneath its advance. Retrospective third-person observers then slap moralizing labels onto the wreckage, obscuring the closed-loop causal interplay that produced the disaster.
 
 ```mermaid
 graph TD
     classDef default fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc;
 
-    subgraph S_Intention ["善意与能动性的自洽闭环"]
+    subgraph S_Actor ["发起者闭环：进击与盲目"]
         direction TB
-        style S_Intention fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-        I_Goal["确立崇高愿景：指认唯一的善"]
-        I_Action["采取高效破局介入：追求结果"]
-        I_SelfRighteous["自我体验保持良善：动机无暇"]
-        I_Goal --> I_Action
-        I_Action --> I_SelfRighteous
-        I_SelfRighteous --> I_Goal
+        style S_Actor fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+        A_Goal["确立崇高愿景：指认唯一的善"]
+        A_Action["采取高效破局介入：追求结果"]
+        A_SelfRighteous["自我体验保持良善：动机无暇"]
+        A_Goal --> A_Action
+        A_Action --> A_SelfRighteous
+        A_SelfRighteous --> A_Goal
     end
 
-    subgraph S_Displacement ["物理摩擦与外包代价的累积"]
+    subgraph S_Recipient ["承受者闭环：不作为与主权让渡"]
         direction TB
-        style S_Displacement fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-        D_Friction["激起不可逆物理置换与成本"]
-        D_OthersExperience["被波及的他者将伤害体验为恶"]
-        D_IgnoredShadow["行动者视阻力为恶意并忽略代价"]
-        D_Friction --> D_OthersExperience
-        D_OthersExperience --> D_IgnoredShadow
+        style S_Recipient fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+        R_Cost["切身承受物理置换与成本"]
+        R_Inaction["选择沉默妥协或放弃防线"]
+        R_SelfJustify["以息事宁人等善意自我合理化"]
+        R_Cost --> R_Inaction
+        R_Inaction --> R_SelfJustify
+        R_SelfJustify --> R_Cost
     end
 
-    subgraph S_Hell ["地狱之路的最终成型"]
+    subgraph S_Interplay ["双向闭环嵌合：地狱之路的成型"]
         direction TB
-        style S_Hell fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-        H_Escalation["升级干预强度：消灭反对者"]
-        H_TraceAccumulation["未被消解的破坏痕迹持续饱和"]
-        H_SystemCollapse["现实地狱：系统整体承载力崩溃"]
-        H_Escalation --> H_TraceAccumulation
-        H_TraceAccumulation --> H_SystemCollapse
+        style S_Interplay fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+        I_FeedbackLoss["摩擦反馈阻断：缺乏即时刹车"]
+        I_TraceAccumulation["未被吸收的破坏痕迹持续饱和"]
+        I_SystemCollapse["现实地狱：系统整体承载力崩溃"]
+        I_MoralProjection["事后第三人称观测投射道德审判"]
+        I_FeedbackLoss --> I_TraceAccumulation
+        I_TraceAccumulation --> I_SystemCollapse
+        I_SystemCollapse --> I_MoralProjection
     end
 
-    I_Action ==>|"产生物理代价"| D_Friction
-    D_IgnoredShadow ==>|"图像滞后：拒绝校准"| H_Escalation
-    H_SystemCollapse -.->|"当初愿景走向自身反面"| I_Goal
+    A_Action ===>|"产生物理代价"| R_Cost
+    R_Inaction ===>|"反馈缺失"| I_FeedbackLoss
+    A_SelfRighteous ===>|"拒绝自省"| I_FeedbackLoss
 
-    style I_Goal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style I_Action fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style I_SelfRighteous fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style A_Goal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style A_Action fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_SelfRighteous fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 
-    style D_Friction fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style D_OthersExperience fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style D_IgnoredShadow fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style R_Cost fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R_Inaction fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style R_SelfJustify fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 
-    style H_Escalation fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style H_TraceAccumulation fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style H_SystemCollapse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_FeedbackLoss fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_TraceAccumulation fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I_SystemCollapse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_MoralProjection fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
 ```mermaid
 graph TD
     classDef default fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc;
 
-    subgraph S_Intention ["Self-Coherent Cycle of Good Intentions"]
+    subgraph S_Actor ["Actor Loop: Assertion and Blindness"]
         direction TB
-        style S_Intention fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-        I_Goal["Designating the Good: High Vision"]
-        I_Action["Decisive Intervention: Seeking Yield"]
-        I_SelfRighteous["Subjective Coherence: Blameless Motive"]
-        I_Goal --> I_Action
-        I_Action --> I_SelfRighteous
-        I_SelfRighteous --> I_Goal
+        style S_Actor fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+        A_Goal["Designating the Good: High Vision"]
+        A_Action["Decisive Intervention: Seeking Yield"]
+        A_SelfRighteous["Subjective Coherence: Blameless Motive"]
+        A_Goal --> A_Action
+        A_Action --> A_SelfRighteous
+        A_SelfRighteous --> A_Goal
     end
 
-    subgraph S_Displacement ["Physical Displacement and Externalized Costs"]
+    subgraph S_Recipient ["Recipient Loop: Inaction and Surrender"]
         direction TB
-        style S_Displacement fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-        D_Friction["Irreversible Physical Friction and Costs"]
-        D_OthersExperience["Affected Centers Register Violation as Evil"]
-        D_IgnoredShadow["Actor Dismisses Pushback as Obstruction"]
-        D_Friction --> D_OthersExperience
-        D_OthersExperience --> D_IgnoredShadow
+        style S_Recipient fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+        R_Cost["Bearing Physical Displacement Costs"]
+        R_Inaction["Choosing Silence, Compliance, or Inaction"]
+        R_SelfJustify["Rationalizing Surrender as Harmony"]
+        R_Cost --> R_Inaction
+        R_Inaction --> R_SelfJustify
+        R_SelfJustify --> R_Cost
     end
 
-    subgraph S_Hell ["The Physical Paving of the Road to Hell"]
+    subgraph S_Interplay ["Reciprocal Interplay: Paving the Road to Hell"]
         direction TB
-        style S_Hell fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-        H_Escalation["Escalating Force to Overcome Resistance"]
-        H_TraceAccumulation["Unabsorbed Destruction Traces Saturate Field"]
-        H_SystemCollapse["Literal Hell: Systemic Collapse Under Strain"]
-        H_Escalation --> H_TraceAccumulation
-        H_TraceAccumulation --> H_SystemCollapse
+        style S_Interplay fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+        I_FeedbackLoss["Feedback Failure: Absence of Local Brakes"]
+        I_TraceAccumulation["Unabsorbed Destruction Traces Saturate Field"]
+        I_SystemCollapse["Literal Hell: Systemic Collapse Under Strain"]
+        I_MoralProjection["Retrospective Third-Person Moral Judgment"]
+        I_FeedbackLoss --> I_TraceAccumulation
+        I_TraceAccumulation --> I_SystemCollapse
+        I_SystemCollapse --> I_MoralProjection
     end
 
-    I_Action ==>|"Produces Displacement"| D_Friction
-    D_IgnoredShadow ==>|"Image Lag: Refusal to Calibrate"| H_Escalation
-    H_SystemCollapse -.->|"Vision Inverts into Its Opposite"| I_Goal
+    A_Action ===>|"Produces Displacement"| R_Cost
+    R_Inaction ===>|"Suppresses Resistance"| I_FeedbackLoss
+    A_SelfRighteous ===>|"Ignores Friction"| I_FeedbackLoss
 
-    style I_Goal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style I_Action fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style I_SelfRighteous fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style A_Goal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style A_Action fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_SelfRighteous fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 
-    style D_Friction fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style D_OthersExperience fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style D_IgnoredShadow fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style R_Cost fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R_Inaction fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style R_SelfJustify fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 
-    style H_Escalation fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style H_TraceAccumulation fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style H_SystemCollapse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_FeedbackLoss fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_TraceAccumulation fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I_SystemCollapse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_MoralProjection fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
 ---
@@ -264,12 +276,12 @@ graph TD
 
 善恶的对立与撕裂，永远无法在第三人称的公共法庭或抽象的道德理论中达成调和。任何试图在外部世界中悉数铲除恶的宏伟运动，都不可避免地在挥舞利剑的同时划定出更加庞大的被排斥群体，进而以善意为燃料点燃更为惨烈的战火。能够将这枚硬币的两面重新收拢并容纳于一处的唯一场所，只有心智不可剥夺的第一人称视角。
 
-正如在 [道德语言稀释了放大自由的反馈](../moral-language-dilutes-the-feedback-that-scales-freedom/) 中所揭示的，当个体依赖外部的道德标签来指导行动时，真实的因果反馈链条就被稀释阻断了。回到第一人称，意味着行动者承认自己每一次追求善的划界，都无可推卸地连带制造了相应的阴影。人无法离开第一人称视角，因为这一视角正是因果责任唯一的发生处。成熟的能动性不再妄图向外界证明自身的无暇，也不再试图强迫他人认同自己的纯良，而是老老实实地凝视那枚被自己持有的硬币，既不沉迷于正面的光环，也不回避背面划破现实所流出的鲜血。
+正如在 [道德语言稀释了放大自由的反馈](../moral-language-dilutes-the-feedback-that-scales-freedom/) 中所揭示的，当个体依赖外部的道德标签来指导行动时，真实的因果反馈链条就被稀释阻断了。回到第一人称，不仅要求行动者承认自己每一次追求善的划界都无可推卸地连带制造了相应的阴影，更要求承受后果的一方终止对外部拯救者的幻想，重新夺回自身主权的防御界线。人无法离开第一人称视角，因为这一视角正是因果责任唯一的发生处。成熟的能动性不再妄图向外界证明自身的无暇，也不再以息事宁人为借口出卖自己的防线，而是老老实实地凝视那枚被自己持有的硬币，既不沉迷于正面的光环，也不回避背面划破现实所流出的鲜血。
 
-在具体的行动中，这要求我们时刻保持对物理摩擦的敬畏。每当我们因极高的效率而斩获成果时，必须清醒地意识到那不是神圣正义的降临，而仅仅是局部扰动带来的能量释放。承担自己的阴影，意味着主动将外溢的摩擦与代价纳入自身的测算与补偿之中，而不是将其推卸给无辜的他者或虚幻的未来。唯有当行动者不再将善恶硬币抛向空中用作宣判他人的武器，而是将其牢牢握在自己的掌心作为丈量自身边界的戒尺时，那条由盲目善意所铺就的地狱之路，才会在第一人称的清醒驻足中失去继续延展的动力。
+在具体的行动中，这要求我们时刻保持对物理摩擦的敬畏。每当我们因极高的效率而斩获成果时，必须清醒地意识到那不是神圣正义的降临，而仅仅是局部扰动带来的能量释放。承担自己的阴影，意味着主动将外溢的摩擦与代价纳入自身的测算与补偿之中，而不是将其推卸给无辜的他者或虚幻的未来；与此同时，面对外来的压迫与侵蚀，守住自身的边界是每一个主权中心无可逃避的因果职责。唯有当行动者不再将善恶硬币抛向空中用作宣判他人的武器，承受者也不再以善意为名消极出让自身的主权，各自在第一人称的清醒中直面因果摩擦时，那条由盲目善意与消极妥协共同铺就的地狱之路，才会在第一人称的驻足与抗衡中失去继续延展的动力。
 
 The tension between good and evil cannot be reconciled in an external tribunal or an abstract ethical schema. Every crusade that marches to eradicate evil from the face of the earth merely draws a wider boundary of exclusion, pouring good intentions as fresh fuel onto catastrophic fires. The sole arena capable of reconciling both sides without violence is the irreducible first-person vantage of the individual mind.
 
-As demonstrated in [Moral Language Dilutes the Feedback That Scales Freedom](../moral-language-dilutes-the-feedback-that-scales-freedom/), relying on external scoreboards severs an agent from the raw causal feedback of its acts. Returning to the first-person locus means acknowledging that every boundary drawn in pursuit of the good automatically authors its corresponding shadow. One cannot step out of the first-person perspective, because that vantage is the sole site where causal authorship registers. Mature agency does not waste its strength demanding validation from public opinion or enforcing compliance from others. It gazes steadily at the coin resting in its own palm, neither blinded by the brilliance of its intentions nor shrinking from the costs carved into its reverse side.
+As demonstrated in [Moral Language Dilutes the Feedback That Scales Freedom](../moral-language-dilutes-the-feedback-that-scales-freedom/), relying on external scoreboards severs an agent from the raw causal feedback of its acts. Returning to the first-person locus not only demands that the initiator acknowledge the inevitable shadow cast by its pursuit of the good, but equally demands that those who bear the costs cease harboring passive hopes for an external savior and reclaim their own sovereign boundary defense. One cannot step out of the first-person perspective, because that vantage is the sole site where causal authorship registers. Mature agency does not waste its strength demanding moral validation from public opinion, nor does it surrender its boundaries under the polite guise of keeping the peace. It gazes steadily at the coin resting in its own palm, neither blinded by the brilliance of its intentions nor shrinking from the costs carved into its reverse side.
 
-In practice, this requires enduring reverence for physical friction. Whenever remarkable competence yields a decisive victory, the agent remembers that this outcome is not a cosmic coronation, but an irreversible perturbation exacting energetic costs. Bearing one's own shadow means taking ownership of those externalities, absorbing the friction within one's own capacity rather than outsourcing it to innocent bystanders or passing the bill to an imaginary tomorrow. Only when conscious actors stop hurling the coin into the arena to judge others, and instead hold it securely as a living caliper to measure their own limits, will the road to hell cease to stretch forward beneath their feet.
+In practice, this requires enduring reverence for physical friction. Whenever remarkable competence yields a decisive victory, the agent remembers that this outcome is not a cosmic coronation, but an irreversible perturbation exacting energetic costs. Bearing one's own shadow means taking ownership of those externalities, absorbing the friction within one's own capacity rather than outsourcing it to innocent bystanders or passing the bill to an imaginary tomorrow. Simultaneously, defending one's boundary against external erosion is an inalienable causal duty of every sovereign center. Only when initiators cease hurling the coin to judge others, and recipients cease yielding their sovereignty under the banner of passive goodwill, will the road to hell—paved by blind zeal and quiet acquiescence alike—finally cease to stretch forward beneath their feet.
