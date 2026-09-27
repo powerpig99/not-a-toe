@@ -416,9 +416,10 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             else:
                 passes.append("Walkthrough copy check (NotebookLM Prompts, Spotify ZH/EN, WeChat Video, X EN all present)")
 
-            # Verify that all 4 platform copies include the exact canonical post URL
+            # Verify that all 4 platform copies include the exact canonical post URL and are wrapped in code blocks
             expected_canonical_url = f"https://powerpig99.github.io/not-a-toe/posts/{slug}/"
             missing_url_platforms = []
+            missing_code_block_platforms = []
             platform_sections = [
                 ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
                 ('Spotify Podcast (EN)', ['Spotify Podcast (EN)', 'Spotify 播客（英文）']),
@@ -438,11 +439,18 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                     sec_text = w_content[found_pos:end_pos]
                     if expected_canonical_url not in sec_text:
                         missing_url_platforms.append(name)
+                    if not re.search(r'```(?:[a-zA-Z0-9_-]+)?\s*\n.*?\n```', sec_text, re.DOTALL):
+                        missing_code_block_platforms.append(name)
 
             if missing_url_platforms:
                 errors.append(f"Walkthrough platform copies missing exact canonical live link ({expected_canonical_url}): {missing_url_platforms}. Must use exact URL with trailing slash.")
             else:
                 passes.append("Walkthrough platform copy links check (all 4 platform copies include exact canonical post URL)")
+
+            if missing_code_block_platforms:
+                errors.append(f"Walkthrough platform copies missing one-click copiable fenced code block (```text ... ```): {missing_code_block_platforms}. Standard rule: all 4 platform copies must be enclosed in fenced code blocks.")
+            else:
+                passes.append("Walkthrough one-click copiable code blocks check (all 4 platform copies enclosed in fenced code blocks)")
 
             # Strictly prohibit any fake/hallucinated domain in walkthrough
             fake_walkthrough_domains = re.findall(r'https?://(?:www\.)?not-?a-?toe\.(?:org|com|net|io|ai|xyz)', w_content, re.IGNORECASE)
@@ -463,9 +471,9 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 wechat_sec = w_content[wechat_found_pos:end_pos]
 
                 # 1. Short Title check:
-                title_match = re.search(r'\*\*(?:(?:Short\s+)?Title|视频标题(?:文案)?)(?:\s*\([^)]*\))?\*\*[:：]\s*(.+)', wechat_sec, re.IGNORECASE)
+                title_match = re.search(r'(?:\*\*)?(?:(?:Short\s+)?Title|视频标题(?:文案)?)(?:\s*\([^)]*\))?(?:\*\*)?[:：][ \t]*(?:\r?\n[ \t]*)*([^\r\n#]+)', wechat_sec, re.IGNORECASE)
                 if not title_match:
-                    errors.append("Walkthrough WeChat Video Channels copy missing short title. Format: '**Title (<= 16字)**: <短标题>'")
+                    errors.append("Walkthrough WeChat Video Channels copy missing short title. Format: '**Title (<= 16字)**: <短标题>' or 'Title (<= 16字):\\n<短标题>' inside code block")
                 else:
                     raw_title = title_match.group(1).strip()
                     clean_title = re.sub(r'^[`"\'“”‘’]+|[`"\'“”‘’]+$', '', raw_title).strip()
