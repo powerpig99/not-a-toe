@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-27T06:35:50.273Z",
+    "generated_at": "2026-09-27T07:16:35.877Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -192,6 +192,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
+      "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8ee2aad14f1",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "be7b032ccd86",
       "content/posts/the-causal-inversion-of-partnership.md": "91c09f2f860e",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
@@ -209,7 +210,7 @@
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
-      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "ed93adb4eeb6",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "1541ba257aae",
       "content/posts/the-extendable-horizon.md": "16c6a9ecd2f7",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "e4617c1af0fb",
       "content/posts/the-fallacy-of-post-success-parenting.md": "cb2cd5c5ac3b",
@@ -286,7 +287,7 @@
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "fb9ca239147d",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "c1d05dc9cc31",
-      "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "fc11ac051531",
+      "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ca268f088d0f",
       "content/posts/the-residue-and-the-free-variable.md": "ad127d142fbf",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "abb2bcc9e28d",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c9db12b044ea",
@@ -354,13 +355,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 344,
-      "edges": 3453,
-      "unique_directed": 3120,
+      "posts": 345,
+      "edges": 3467,
+      "unique_directed": 3127,
       "missing_targets": 0,
-      "one_way": 838,
-      "isolated": 41,
-      "posts_with_outbound": 279
+      "one_way": 841,
+      "isolated": 40,
+      "posts_with_outbound": 280
     }
   },
   "hubs_in": [
@@ -563,7 +564,6 @@
     "the-loop-accelerates",
     "the-loop-that-cant-see-itself",
     "the-maintenance-paradox",
-    "the-mirror-handshake-of-power",
     "the-power-law-of-surrendered-agency",
     "the-strategy-that-wasnt",
     "the-tightening-loop",
@@ -4426,7 +4426,7 @@
       "path": "content/posts/the-asymmetry-of-understanding.md",
       "title": "理解的非对称性 / The Asymmetry of Understanding",
       "hash": "758372a41147",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 1,
       "links_out": [
         "the-shadow-and-the-infinite"
@@ -4589,6 +4589,23 @@
       ]
     },
     {
+      "id": "post:the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "kind": "post",
+      "slug": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "path": "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md",
+      "title": "共情的能力倒错与边界的排序之争 / The Capability Reversal of Empathy and the Contest of Boundaries",
+      "hash": "a8ee2aad14f1",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "the-asymmetry-of-understanding",
+        "the-receptionist-parable-and-the-causal-inversion-of-absence",
+        "the-explanatory-trap-of-the-ordinary-perspective",
+        "the-mirror-handshake-of-power",
+        "the-causal-inversion-of-partnership"
+      ]
+    },
+    {
       "id": "post:the-cartesian-overstep-and-the-frenzy-of-creation",
       "kind": "post",
       "slug": "the-cartesian-overstep-and-the-frenzy-of-creation",
@@ -4618,7 +4635,7 @@
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
       "hash": "91c09f2f860e",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 10,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
@@ -4916,12 +4933,13 @@
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
-      "hash": "ed93adb4eeb6",
-      "in_degree": 9,
-      "out_degree": 12,
+      "hash": "1541ba257aae",
+      "in_degree": 10,
+      "out_degree": 13,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-causal-inversion-of-partnership",
+        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
         "the-cartesian-overstep-and-the-frenzy-of-creation",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -5842,7 +5860,7 @@
       "path": "content/posts/the-mirror-handshake-of-power.md",
       "title": "权力的镜像握手 / The Mirror Handshake of Power",
       "hash": "3fe1b6678749",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 0,
       "links_out": []
     },
@@ -6418,15 +6436,16 @@
       "slug": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "path": "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md",
       "title": "前台的寓言与缺席的因果倒置 / The Receptionist Parable and the Causal Inversion of Absence",
-      "hash": "fc11ac051531",
-      "in_degree": 2,
-      "out_degree": 6,
+      "hash": "ca268f088d0f",
+      "in_degree": 3,
+      "out_degree": 7,
       "links_out": [
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "one-cannot-escape-ones-own-mind",
         "the-causal-inversion-of-partnership",
+        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
         "choice-itself-has-no-inherent-weight"
       ]
     },
@@ -19254,6 +19273,66 @@
       "label": "The flight analogy leaves the Mind untouched"
     },
     {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
+      "label": "理解的非对称性"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
+      "label": "The Asymmetry of Understanding"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "前台的寓言与缺席的因果倒置"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "The Receptionist Parable and the Causal Inversion of Absence"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-mirror-handshake-of-power",
+      "rel": "points_to",
+      "label": "权力的镜像握手"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "合伙的因果倒置"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-mirror-handshake-of-power",
+      "rel": "points_to",
+      "label": "The Mirror Handshake of Power"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "The Causal Inversion of Partnership"
+    },
+    {
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "to": "openness-is-consistency",
       "rel": "points_to",
@@ -20389,6 +20468,12 @@
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "rel": "points_to",
+      "label": "共情的能力倒错与边界的排序之争"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
       "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
@@ -20398,6 +20483,12 @@
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
       "label": "The Causal Inversion of Partnership"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "rel": "points_to",
+      "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
@@ -24531,7 +24622,13 @@
       "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
-      "label": "契约的因果倒置"
+      "label": "合伙的因果倒置"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "rel": "points_to",
+      "label": "共情的能力倒错与边界的排序之争"
     },
     {
       "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
@@ -24544,6 +24641,12 @@
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
       "label": "The Causal Inversion of Partnership"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "rel": "points_to",
+      "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
     },
     {
       "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
