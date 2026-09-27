@@ -327,6 +327,11 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             else:
                 passes.append("Bilingual prose check (both Chinese and English prose present)")
 
+            # Check for split-half language segregation headings
+            split_half_headings = re.findall(r'^##\s+(?:English\s+Version|English\s+Translation|英文版|英文翻译)\b', content, re.IGNORECASE | re.MULTILINE)
+            if split_half_headings:
+                errors.append(f"Split-half bilingual segregation detected ({split_half_headings}). Standard rule: interleave sections with unified '## CN / EN' headings followed by CN prose then EN prose.")
+
             # Check strict language separation in diagrams ("中文的归中文，英文的归英文")
             allowed_acronyms = {'DNA', 'API', 'AI', 'LLM', 'CPU', 'GPU', 'TOE', 'VR'}
             diagram_lang_issues = []
@@ -354,6 +359,13 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             if re.search(r'\bgraph\s+LR\b', block, re.IGNORECASE):
                 horizontal_layout_issues.append(f"Diagram {idx} uses horizontal flow ('graph LR'). Rule: use strictly vertical 'graph TD' / 'flowchart TD'.")
             
+            # Check for root-level direction TB/TD (outside subgraphs) which renders an orphaned node
+            first_subgraph = re.search(r'\bsubgraph\b', block)
+            if first_subgraph:
+                pre_subgraph = block[:first_subgraph.start()]
+                if re.search(r'^\s*direction\s+T[BD]\b', pre_subgraph, re.MULTILINE):
+                    horizontal_layout_issues.append(f"Diagram {idx} has root-level 'direction TB' outside subgraphs, causing Mermaid to render an orphaned box labeled 'direction'. Move 'direction TB' inside subgraph blocks.")
+
             subgraphs = re.findall(r'\bsubgraph\s+([A-Za-z0-9_-]+)', block)
             if len(subgraphs) >= 2:
                 # Check for direction TB
