@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-27T09:00:38.572Z",
+    "generated_at": "2026-09-27T15:53:23.046Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -192,7 +192,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
-      "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "83d0880da5f9",
+      "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "fa7c6495859f",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "be7b032ccd86",
       "content/posts/the-causal-inversion-of-partnership.md": "91c09f2f860e",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
@@ -219,6 +219,7 @@
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "f6299229ed66",
+      "content/posts/the-freedom-of-will-to-deny-itself.md": "e4e0134709f0",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "a459e322881c",
       "content/posts/the-generative-contradiction.md": "30e18c0a4d95",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "3c600d32c6d1",
@@ -265,7 +266,7 @@
       "content/posts/the-mirror-handshake-of-power.md": "3fe1b6678749",
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
       "content/posts/the-model-never-becomes-a-second-edge.md": "6dec2cdef8ae",
-      "content/posts/the-moral-reversal-and-the-scripted-subject.md": "0b5486d76301",
+      "content/posts/the-moral-reversal-and-the-scripted-subject.md": "7b8962b3547c",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "06673522a545",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "7af72172b13d",
@@ -356,13 +357,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 346,
-      "edges": 3481,
-      "unique_directed": 3134,
+      "posts": 347,
+      "edges": 3494,
+      "unique_directed": 3141,
       "missing_targets": 0,
-      "one_way": 844,
+      "one_way": 851,
       "isolated": 40,
-      "posts_with_outbound": 281
+      "posts_with_outbound": 282
     }
   },
   "hubs_in": [
@@ -4487,7 +4488,7 @@
       "path": "content/posts/the-bank-shot-and-the-magic-trick.md",
       "title": "The Bank Shot and the Magic Trick",
       "hash": "44229870afce",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 9,
       "links_out": [
         "the-look-of-constraint-is-not-the-loss-of-freedom",
@@ -4595,12 +4596,13 @@
       "slug": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "path": "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md",
       "title": "共情的能力倒错与边界的排序之争 / The Capability Reversal of Empathy and the Contest of Boundaries",
-      "hash": "83d0880da5f9",
+      "hash": "fa7c6495859f",
       "in_degree": 3,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-asymmetry-of-understanding",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
+        "the-freedom-of-will-to-deny-itself",
         "the-moral-reversal-and-the-scripted-subject",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-mirror-handshake-of-power",
@@ -4698,7 +4700,7 @@
       "path": "content/posts/the-closed-loop-of-representation.md",
       "title": "The Closed Loop of Representation",
       "hash": "82ca9c5ee6cb",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 9,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
@@ -5118,6 +5120,23 @@
         "externalized-virtue-becomes-its-opposite",
         "shared-consciousness-is-intersecting-individualities",
         "residual-individualism"
+      ]
+    },
+    {
+      "id": "post:the-freedom-of-will-to-deny-itself",
+      "kind": "post",
+      "slug": "the-freedom-of-will-to-deny-itself",
+      "path": "content/posts/the-freedom-of-will-to-deny-itself.md",
+      "title": "自由意志的自否自由 / The Freedom of Will to Deny Itself",
+      "hash": "e4e0134709f0",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "the-closed-loop-of-representation",
+        "the-bank-shot-and-the-magic-trick",
+        "what-information-is",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "zi-you-de-ce-bu-zhun"
       ]
     },
     {
@@ -5940,12 +5959,13 @@
       "slug": "the-moral-reversal-and-the-scripted-subject",
       "path": "content/posts/the-moral-reversal-and-the-scripted-subject.md",
       "title": "道德倒错与被脚本化的主体 / The Moral Reversal and the Scripted Subject",
-      "hash": "0b5486d76301",
+      "hash": "7b8962b3547c",
       "in_degree": 2,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-name-revolution-files-a-life-as-evidence",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+        "the-freedom-of-will-to-deny-itself",
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-receptionist-parable-and-the-causal-inversion-of-absence"
@@ -6967,7 +6987,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "15b2e9b8b58b",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -7335,7 +7355,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "What Information Is",
       "hash": "5cf8efae167b",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 8,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -7735,7 +7755,7 @@
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
       "title": "自由的测不准：微观主权、统计涌现与自由意志的佯谬",
       "hash": "32b2df0b732b",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 13,
       "links_out": [
         "causality-all-the-way",
@@ -19312,6 +19332,12 @@
     },
     {
       "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "to": "the-moral-reversal-and-the-scripted-subject",
       "rel": "points_to",
       "label": "道德倒错与被脚本化的主体"
@@ -19321,6 +19347,12 @@
       "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "rel": "points_to",
       "label": "The Receptionist Parable and the Causal Inversion of Absence"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "The Freedom of Will to Deny Itself"
     },
     {
       "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
@@ -21103,6 +21135,60 @@
       "to": "residual-individualism",
       "rel": "points_to",
       "label": "Residual individualism"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "表征的闭环"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "加塞球与魔术戏法"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "The Bank Shot and the Magic Trick"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "真正的有效信息"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权选择的两面性与观察的客体化"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "The Uncertainty of Freedom"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
@@ -23116,9 +23202,21 @@
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
       "label": "The Sleight of Hand of Synthesizing Gods and Unacknowledged Rank"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "The Freedom of Will to Deny Itself"
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
