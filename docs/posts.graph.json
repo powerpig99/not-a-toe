@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-27T18:31:47.963Z",
+    "generated_at": "2026-09-27T19:08:53.530Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -82,7 +82,7 @@
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "6e99a01cac8d",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "f0646986afff",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "30b9efd2b760",
-      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "4d3b167bdf21",
+      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "f0c515ee862c",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "a254ca624df1",
       "content/posts/guidance-is-not-ownership.md": "fe1b23dca1aa",
@@ -199,6 +199,7 @@
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
+      "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "ee01136de0cb",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "a5d2621ac8cf",
@@ -280,7 +281,7 @@
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "5f263a356b4c",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "529cf7a4ea64",
-      "content/posts/the-perceiver-and-the-trace.md": "3fec4797c245",
+      "content/posts/the-perceiver-and-the-trace.md": "fd9d0dfee4cb",
       "content/posts/the-power-law-of-surrendered-agency.md": "0ec3483b7b85",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "af92c141bd54",
       "content/posts/the-price-of-closing-optionality.md": "84f30cd35b89",
@@ -359,13 +360,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 349,
-      "edges": 3516,
-      "unique_directed": 3153,
+      "posts": 350,
+      "edges": 3529,
+      "unique_directed": 3160,
       "missing_targets": 0,
-      "one_way": 855,
+      "one_way": 858,
       "isolated": 40,
-      "posts_with_outbound": 284
+      "posts_with_outbound": 285
     }
   },
   "hubs_in": [
@@ -2091,9 +2092,9 @@
       "slug": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "path": "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md",
       "title": "Good and Evil Are the Two Sides of the Coin and the Cut",
-      "hash": "4d3b167bdf21",
-      "in_degree": 11,
-      "out_degree": 11,
+      "hash": "f0c515ee862c",
+      "in_degree": 12,
+      "out_degree": 12,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "pessimism-is-the-shadow-of-optimism",
@@ -2105,7 +2106,8 @@
         "openness-is-consistency",
         "the-initial-distinction",
         "the-belief-in-utopia-is-the-path-to-dystopia",
-        "the-source-of-all-harm"
+        "the-source-of-all-harm",
+        "the-coin-of-good-and-evil-and-the-road-to-hell"
       ]
     },
     {
@@ -2823,7 +2825,7 @@
       "path": "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md",
       "title": "Moral Language Dilutes the Feedback That Scales Freedom",
       "hash": "bc4d65cbecdd",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 11,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -4564,7 +4566,7 @@
       "path": "content/posts/the-boundary-crossing-of-choice.md",
       "title": "抉择的跨界 / The Boundary Crossing of Choice",
       "hash": "ea6d59cb7811",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 3,
       "links_out": [
         "the-freedom-of-will-to-deny-itself",
@@ -4731,6 +4733,23 @@
         "climbing-does-not-leave-the-ground",
         "intelligence-belongs-only-to-the-mind",
         "individual-choices-as-the-only-causal-levers"
+      ]
+    },
+    {
+      "id": "post:the-coin-of-good-and-evil-and-the-road-to-hell",
+      "kind": "post",
+      "slug": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "path": "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md",
+      "title": "善恶硬币与通往地狱的善意之路 / The Coin of Good and Evil and the Road to Hell",
+      "hash": "ee01136de0cb",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+        "the-boundary-crossing-of-choice",
+        "the-perceiver-and-the-trace",
+        "the-moral-reversal-and-the-scripted-subject",
+        "moral-language-dilutes-the-feedback-that-scales-freedom"
       ]
     },
     {
@@ -5981,7 +6000,7 @@
       "path": "content/posts/the-moral-reversal-and-the-scripted-subject.md",
       "title": "道德倒错与被脚本化的主体 / The Moral Reversal and the Scripted Subject",
       "hash": "7b8962b3547c",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "the-name-revolution-files-a-life-as-evidence",
@@ -6241,15 +6260,16 @@
       "slug": "the-perceiver-and-the-trace",
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
-      "hash": "3fec4797c245",
-      "in_degree": 3,
-      "out_degree": 5,
+      "hash": "fd9d0dfee4cb",
+      "in_degree": 4,
+      "out_degree": 6,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "subtracting-consciousness-at-the-source",
         "the-mind-that-statistics-cannot-reveal",
         "mistaking-the-expression-for-the-intelligence",
-        "the-boundary-crossing-of-choice"
+        "the-boundary-crossing-of-choice",
+        "the-coin-of-good-and-evil-and-the-road-to-hell"
       ]
     },
     {
@@ -12095,6 +12115,12 @@
       "to": "the-source-of-all-harm",
       "rel": "points_to",
       "label": "The source of all harm"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "The Coin of Good and Evil and the Road to Hell"
     },
     {
       "from": "guan-yu-gui-yin",
@@ -19897,6 +19923,66 @@
       "label": "Individual choices as the only causal levers"
     },
     {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "善与恶是硬币的两面与切割"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "抉择的跨界"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "The Boundary Crossing of Choice"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "感知者与痕迹的不可坍缩"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "The Perceiver and the Trace Cannot Collapse"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "the-moral-reversal-and-the-scripted-subject",
+      "rel": "points_to",
+      "label": "道德倒错与被脚本化的主体"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "the-moral-reversal-and-the-scripted-subject",
+      "rel": "points_to",
+      "label": "The Moral Reversal and the Scripted Subject"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "道德语言稀释了放大自由的反馈"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+    },
+    {
       "from": "the-compassion-is-the-mechanism-of-obscuration",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
@@ -24104,9 +24190,21 @@
     },
     {
       "from": "the-perceiver-and-the-trace",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "善恶硬币与通往地狱的善意之路"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
       "to": "the-boundary-crossing-of-choice",
       "rel": "points_to",
       "label": "The Boundary Crossing of Choice"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "The Coin of Good and Evil and the Road to Hell"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
