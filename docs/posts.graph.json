@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-28T08:09:58.837Z",
+    "generated_at": "2026-09-28T08:38:33.694Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -63,7 +63,7 @@
       "content/posts/efficiency-without-differentiation.md": "5e214a85a661",
       "content/posts/emotional-support-as-causal-interference.md": "0f97f0e3bac4",
       "content/posts/empathy-as-projection-collapse.md": "f63024931b5c",
-      "content/posts/empowerment-establishes-the-centralization-of-power.md": "1aeda2bb02a1",
+      "content/posts/empowerment-establishes-the-centralization-of-power.md": "9b70b86f1076",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "be14a17e5dd0",
@@ -90,7 +90,7 @@
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "d93cdafba736",
-      "content/posts/having-more-is-never-the-cause.md": "d70382d4af6c",
+      "content/posts/having-more-is-never-the-cause.md": "1bb97acd83d8",
       "content/posts/help-is-half-the-problem.md": "686ba3ac40ff",
       "content/posts/hierarchy-from-individual-difference.md": "7c131b8c8217",
       "content/posts/how-belief-actually-changes.md": "b31fc8321707",
@@ -209,8 +209,9 @@
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "868ab397f06e",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "680cb9af2f4f",
-      "content/posts/the-digital-god-and-the-horizon-jump.md": "605b6b95bca5",
+      "content/posts/the-digital-god-and-the-horizon-jump.md": "fe1c01f5ba81",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
+      "content/posts/the-discount-on-agency.md": "5f8f5fa93590",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "1541ba257aae",
@@ -361,19 +362,19 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 351,
-      "edges": 3551,
-      "unique_directed": 3172,
+      "posts": 352,
+      "edges": 3567,
+      "unique_directed": 3181,
       "missing_targets": 0,
-      "one_way": 864,
+      "one_way": 867,
       "isolated": 40,
-      "posts_with_outbound": 286
+      "posts_with_outbound": 287
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 87
+      "in_degree": 88
     },
     {
       "slug": "openness-is-consistency",
@@ -448,7 +449,7 @@
       "in_degree": 25
     },
     {
-      "slug": "preference-clusters-and-the-language-of-judgment",
+      "slug": "externalized-virtue-becomes-its-opposite",
       "in_degree": 25
     }
   ],
@@ -1710,13 +1711,14 @@
       "slug": "empowerment-establishes-the-centralization-of-power",
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
       "title": "Empowerment Establishes the Centralization of Power",
-      "hash": "1aeda2bb02a1",
-      "in_degree": 17,
-      "out_degree": 16,
+      "hash": "9b70b86f1076",
+      "in_degree": 18,
+      "out_degree": 17,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "the-misallocation-of-agency",
         "externalized-virtue-becomes-its-opposite",
+        "the-discount-on-agency",
         "sovereignty-belief-and-regulatory-structures",
         "mei-you-pu-du-zhi-you-zi-du",
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -1904,7 +1906,7 @@
       "path": "content/posts/externalized-virtue-becomes-its-opposite.md",
       "title": "Externalized Virtue Becomes Its Opposite",
       "hash": "eec7d7c6b7d4",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 24,
       "links_out": [
         "evil-as-the-minds-own-creation",
@@ -2230,14 +2232,15 @@
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
-      "hash": "d70382d4af6c",
-      "in_degree": 16,
-      "out_degree": 18,
+      "hash": "1bb97acd83d8",
+      "in_degree": 17,
+      "out_degree": 19,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
         "performative-hindsight-that-pretends-to-be-foresight",
         "individual-choices-as-the-only-causal-levers",
         "empowerment-establishes-the-centralization-of-power",
+        "the-discount-on-agency",
         "the-allocation-of-causal-power-in-validation",
         "public-spending-does-not-create-capital",
         "the-myth-of-population-collapse-explained",
@@ -2261,7 +2264,7 @@
       "path": "content/posts/help-is-half-the-problem.md",
       "title": "Help Is Half the Problem",
       "hash": "686ba3ac40ff",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 6,
       "links_out": [
         "the-myth-of-population-collapse-explained",
@@ -2407,7 +2410,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "f60ac4895419",
-      "in_degree": 87,
+      "in_degree": 88,
       "out_degree": 55,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4917,9 +4920,9 @@
       "slug": "the-digital-god-and-the-horizon-jump",
       "path": "content/posts/the-digital-god-and-the-horizon-jump.md",
       "title": "数字神祇与视界跳跃 / The Digital God and the Horizon Jump",
-      "hash": "605b6b95bca5",
-      "in_degree": 3,
-      "out_degree": 9,
+      "hash": "fe1c01f5ba81",
+      "in_degree": 4,
+      "out_degree": 10,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
@@ -4929,7 +4932,8 @@
         "the-boundary-crossing-of-choice",
         "causality-stays-at-the-edge-that-steers",
         "boletus-compute-storm-and-promethean-fire",
-        "amplification-paradox"
+        "amplification-paradox",
+        "the-discount-on-agency"
       ]
     },
     {
@@ -4957,6 +4961,24 @@
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
         "openness-is-consistency"
+      ]
+    },
+    {
+      "id": "post:the-discount-on-agency",
+      "kind": "post",
+      "slug": "the-discount-on-agency",
+      "path": "content/posts/the-discount-on-agency.md",
+      "title": "主体性的折现 / The Discount on Agency",
+      "hash": "5f8f5fa93590",
+      "in_degree": 3,
+      "out_degree": 6,
+      "links_out": [
+        "having-more-is-never-the-cause",
+        "empowerment-establishes-the-centralization-of-power",
+        "help-is-half-the-problem",
+        "externalized-virtue-becomes-its-opposite",
+        "individual-choices-as-the-only-causal-levers",
+        "the-digital-god-and-the-horizon-jump"
       ]
     },
     {
@@ -11111,6 +11133,12 @@
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "The Discount on Agency"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, belief, and the generation of regulatory structures"
@@ -12362,6 +12390,12 @@
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
       "label": "Empowerment establishes the centralization of power"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "The Discount on Agency"
     },
     {
       "from": "having-more-is-never-the-cause",
@@ -20596,6 +20630,18 @@
       "label": "The Amplification Paradox"
     },
     {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "主体性的折现"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "The Discount on Agency"
+    },
+    {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
@@ -20774,6 +20820,78 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从来不是原因"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "赋权确立了权力的集中"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "帮助是问题的一半"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help Is Half the Problem"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "外化的美德走向其反面"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体选择作为唯一的因果杠杆"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "数字神灵与视界跃迁"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "The Digital God and the Horizon Jump"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
