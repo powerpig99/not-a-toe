@@ -70,9 +70,9 @@ flowchart TD
 
 ## 二、 审美特权与客观化的自欺 / 2. Aesthetic Privilege and the Self-Deception of Objectivity
 
-这种诊断最具讽刺意味之处，在于它在指责他人无法区分主观欲望与客观真实的同时，自身却在将特定形式的偏好升格为客观标准。宣称凝视骨骼线条、颧骨高低或肌肉轮廓才算真正懂得美，而受到长发流动感或生命张力的唤醒则属于低阶局限，这只是在审美光谱内部人为制造等级制度。试图将无功利的形式鉴赏与具身的生命冲动隔离开来，并将其确立为唯一正当的尺度，并没有超越主观经验的局限；它不过是另一种带有特定阶层印记与风格取向的偏好。把自己的喜好设定为美学的最高法庭，并据此裁定持有不同权重的他人存在感知缺陷，本身就构成了它试图批判的客观化迷误。
+这种诊断最具讽刺意味之处，在于它在指责他人无法区分主观欲望与客观真实的同时，自身却在将特定形式的偏好升格为客观标准。若投以足够专注的审视，人们几乎能在任何事物与任何情境中发现美的踪迹，然而没有任何两颗心智拥有毫无二致的审美取向与感受切片。当观察者对自己脑中的特定解读过于确信时，便不可避免地自以为占据了评判他人鉴赏力高下的特权位置——然而在认知论的坚实地表上，没有任何心智拥有充当这种仲裁者的资格。宣称凝视骨骼线条、颧骨高低或肌肉轮廓才算真正懂得美，而受到长发流动感或生命张力的唤醒则属于低阶局限，这只是在审美光谱内部人为制造等级制度。试图将无功利的形式鉴赏与具身的生命冲动隔离开来，并将其确立为唯一正当的尺度，并没有超越主观经验的局限；它不过是另一种带有特定阶层印记与风格取向的偏好。把自身偶然形成的喜好设定为美学的最高法庭，并据此裁定持有不同权重的他人存在感知缺陷，本身就构成了它试图批判的客观化迷误。
 
-The supreme irony of this diagnosis lies in accusing others of mistaking subjective desire for objective reality, while simultaneously enshrining one's own formal preferences as an objective standard. Treating the appraisal of bone contours, cheekbone geometry, or muscular symmetry as authentic aesthetic discernment, while dismissing responsiveness to flowing hair or physical vitality as a crude limitation, simply fabricates an artificial hierarchy within the aesthetic spectrum. Attempting to detach formal structural appreciation from embodied vitality and declaring it the sole valid measure does not transcend subjective experience; it merely reflects another set of culturally conditioned preferences. Reifying personal taste into a supreme court of aesthetics and diagnosing those with alternative weightings as cognitively impaired is the exact error being criticized.
+The supreme irony of this diagnosis lies in accusing others of mistaking subjective desire for objective reality, while simultaneously enshrining one's own formal preferences as an objective standard. If one looks with sufficient depth, beauty can be discerned in virtually any phenomenon and any situation, yet no two minds possess identical aesthetic coordinates or experiential weightings. When an observer becomes a little too sure of their own idiosyncratic take, they inevitably slide into the illusion of occupying a privileged position to judge others' discernment—yet in epistemological reality, no mind occupies such an external tribunal. Treating the appraisal of bone contours, cheekbone geometry, or muscular symmetry as authentic aesthetic discernment, while dismissing responsiveness to flowing hair or physical vitality as a crude limitation, simply fabricates an artificial hierarchy within the aesthetic spectrum. Attempting to detach formal structural appreciation from embodied vitality and declaring it the sole valid measure does not transcend subjective experience; it merely reflects another set of culturally conditioned preferences. Reifying personal taste into a supreme court of aesthetics and diagnosing those with alternative weightings as cognitively impaired is the exact error being criticized.
 
 这一断言在逻辑层面上，更暴露出其内在定义的无法自洽。既然该论断将审美等同于生理冲动，那么按照其自身的定义，任何未能契合其狭隘标准的女性表型，便在逻辑上无法唤起欲望，进而无法达成繁衍。倘若这种单维度的冲动当真构成了欲望的唯一尺度，那么在漫长的自然选择中，未能符合这套模板的人群早该在世代更替中被淘汰殆尽，今日的人类世界亦早该收敛为千人一面的单一表型。现实中全球人群展现出的丰富多样的体态、容貌与生命气象，以及无数形态各异的祖先血脉在漫长岁月里的延续与繁衍，恰恰构成了不可辩驳的经验明证：人类的审美共鸣与依恋从来不是单一开关控制的低维反射，而是高维、离散且极具个体主权性的复杂流形。将当代网络舆论中高度人工化、流行化的刻板模板奉为全人类男性的先验生物驱动，不仅误读了异质心智，更让其自身的解释模型在最基础的因果逻辑面前分崩离析。
 
@@ -82,23 +82,27 @@ flowchart TD
     direction TB
     H_HIGH["形式特权层级<br/>骨骼轮廓线条与几何构图"]
     H_DECREE["伪装成客观标准<br/>被判定为真正理解美"]
+    H_JUDGE["审美过度确信<br/>自以为占据评判他者特权"]
     H_LOW["被贬抑的生命共鸣<br/>触觉流动与繁殖冲动"]
     H_STIGMA["被降级为局限冲动<br/>被诊断为不懂美的缺陷"]
   end
   subgraph S_LOCUS["统一的审美光谱"]
     direction TB
-    L_FIELD["多维心智感知流形<br/>形式结构与生命张力相互交织"]
-    L_SOV["第一人称主权评价<br/>不可替代的个体偏好加权"]
+    L_FIELD["多维心智感知流形<br/>万象皆有美但无二人雷同"]
+    L_SOV["第一人称主权评价<br/>无人据有裁决他者之法庭席位"]
   end
   H_HIGH --> H_DECREE
+  H_DECREE --> H_JUDGE
   H_LOW --> H_STIGMA
-  H_DECREE -.->|"制造人为分割"| H_LOW
+  H_JUDGE -.->|"制造人为分割"| H_LOW
+  H_JUDGE -.->|"判定他者缺陷"| H_STIGMA
   L_FIELD --> L_SOV
   H_STIGMA ==>|"扭曲统一流形"| L_FIELD
   style S_HIER fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
   style S_LOCUS fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style H_HIGH fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
   style H_DECREE fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+  style H_JUDGE fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style H_LOW fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style H_STIGMA fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style L_FIELD fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -113,23 +117,27 @@ flowchart TD
     direction TB
     H_HIGH["Privileged Formal Plane<br/>Bone Contours Lines and Geometry"]
     H_DECREE["Enshrined as Objective Standard<br/>Adjudicated as Genuine Discernment"]
+    H_JUDGE["Aesthetic Overconfidence<br/>Presuming Standing to Judge Other Minds"]
     H_LOW["Demoted Vital Resonance<br/>Tactile Motion and Reproductive Signals"]
     H_STIGMA["Degraded to Crude Deficit<br/>Diagnosed as Aesthetic Blindness"]
   end
   subgraph S_LOCUS["Unified Aesthetic Manifold"]
     direction TB
-    L_FIELD["Multidimensional Perception Field<br/>Interwoven Formal Structure and Vitality"]
-    L_SOV["First-Person Sovereign Valuation<br/>Irreplaceable Weighting of Experience"]
+    L_FIELD["Multidimensional Perception Field<br/>Beauty in All but No Identical Takes"]
+    L_SOV["First-Person Sovereign Valuation<br/>No Mind Possesses Authority to Judge"]
   end
   H_HIGH --> H_DECREE
+  H_DECREE --> H_JUDGE
   H_LOW --> H_STIGMA
-  H_DECREE -.->|"Enforces Artificial Rift"| H_LOW
+  H_JUDGE -.->|"Enforces Artificial Rift"| H_LOW
+  H_JUDGE -.->|"Diagnoses Deficit"| H_STIGMA
   L_FIELD --> L_SOV
   H_STIGMA ==>|"Distorts Unified Field"| L_FIELD
   style S_HIER fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
   style S_LOCUS fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style H_HIGH fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
   style H_DECREE fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+  style H_JUDGE fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style H_LOW fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style H_STIGMA fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style L_FIELD fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -190,7 +198,7 @@ flowchart TD
 
 ## 四、 跨越镜像与第一人称边界 / 4. Stepping Beyond the Mirror and First-Person Boundaries
 
-走出这种自我闭环的起点，在于时刻觉察第一人称视角的不可逾越性。我们所感知的外在世界，原是内在世界的投射；这一不可缩减的界面，构成了意识与主权意志本身。构建投射模型是心智确立自身与他者相对关系的必由之路，认知偏差并不源于投射行为本身，而在于观察者暂时遗忘了自己正是感知的主体，进而将用于自身相对导航的坐标系，误认成了关于他者的客观定论。正如我们在[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中所论述的，模型永远无法反客为主成为现实的主宰；而在[统计学无法揭示的心智](../the-mind-that-statistics-cannot-reveal/)与[理性从不跨越心智](../rationality-never-travels-across-the-mind/)中也可以清晰看到，审美共鸣同样不会跨越心智边界进行无损传输。美不是固定在世界中的客观刻度，而是具有第一人称意志的心智与现实发生摩擦时激荡出的意义涟漪。唯有觉察到自己始终处于观察者的位置，不再将颅内的导航投射错认为客体的客观真相，我们才能走出封闭的镜像自画，在真实的因果交锋中重新拓展感知景深。
+走出这种自我闭环的起点，在于时刻觉察第一人称视角的不可逾越性。我们所感知的外在世界，原是内在世界的投射；这一不可缩减的界面，构成了意识与主权意志本身。构建投射模型是心智确立自身与他者相对关系的必由之路，认知偏差并不源于投射行为本身，而在于观察者暂时遗忘了自己正是感知的主体，进而将用于自身相对导航的坐标系，误认成了关于他者的客观定论。正如我们在[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中所论述的，模型永远无法反客为主成为现实的主宰；而在[统计学无法揭示的心智](../the-mind-that-statistics-cannot-reveal/)与[理性从不跨越心智](../rationality-never-travels-across-the-mind/)中也可以清晰看到，审美共鸣同样不会跨越心智边界进行无损传输。美不是固定在世界中的客观刻度，而是具有第一人称意志的心智与现实发生摩擦时激荡出的意义涟漪。若观察者愿意放下优越的评判姿态，深沉地凝视现实，美几乎无所不在地潜藏于一切事物与情境之中；但正因为每颗心智与现实摩擦的轨迹各不相同，世上没有任何两颗心智拥有同一副感知模具，更没有任何人占据着裁决他人感知高下的法庭席位。唯有觉察到自己始终处于观察者的位置，不再将颅内的导航投射错认为客体的客观真相，我们才能走出封闭的镜像自画，在真实的因果交锋中重新拓展感知景深。
 
 ```mermaid
 flowchart TD
@@ -216,7 +224,7 @@ flowchart TD
   style O_FRICTION fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Breaking out of this self-referential closure begins with constant awareness of the irreducible first-person boundary. What an agent perceives as the external world is a projection of its inner state; that irreducible interface constitutes consciousness and sovereign agency itself. Constructing perceptual models is essential for an observer to navigate relative relations with others; cognitive distortion arises not from the act of projection itself, but from temporarily forgetting that one is the subject doing the perceiving, thereby mistaking an internal navigation tool for an objective decree about the other. As argued in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), formal models can never displace the living agency from which they arise; as demonstrated in [The Mind That Statistics Cannot Reveal](../the-mind-that-statistics-cannot-reveal/) and [Rationality Never Travels Across the Mind](../rationality-never-travels-across-the-mind/), aesthetic resonance does not transmit losslessly across boundaries. Beauty is not an immutable scale inscribed upon the cosmos, but a ripple of meaning generated when a minded agent meets the friction of reality. Only by recognizing one's perpetual position as the observer—refusing to mistake internal navigation models for the objective reality of others—can an agent transcend the mirror of self-projection and expand its perceptual horizon through genuine friction.
+Breaking out of this self-referential closure begins with constant awareness of the irreducible first-person boundary. What an agent perceives as the external world is a projection of its inner state; that irreducible interface constitutes consciousness and sovereign agency itself. Constructing perceptual models is essential for an observer to navigate relative relations with others; cognitive distortion arises not from the act of projection itself, but from temporarily forgetting that one is the subject doing the perceiving, thereby mistaking an internal navigation tool for an objective decree about the other. As argued in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), formal models can never displace the living agency from which they arise; as demonstrated in [The Mind That Statistics Cannot Reveal](../the-mind-that-statistics-cannot-reveal/) and [Rationality Never Travels Across the Mind](../rationality-never-travels-across-the-mind/), aesthetic resonance does not transmit losslessly across boundaries. Beauty is not an immutable scale inscribed upon the cosmos, but a ripple of meaning generated when a minded agent meets the friction of reality. When an observer relinquishes the impulse to sit in judgment and looks with sufficient depth, beauty can be discovered in virtually any phenomenon and any situation; yet precisely because every mind carves a unique trajectory through reality, no two people share identical perceptual coordinates, and no mind occupies an external tribunal to adjudicate another's discernment. Only by recognizing one's perpetual position as the observer—refusing to mistake internal navigation models for the objective reality of others—can an agent transcend the mirror of self-projection and expand its perceptual horizon through genuine friction.
 
 ```mermaid
 flowchart TD
