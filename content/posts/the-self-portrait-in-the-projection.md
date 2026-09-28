@@ -8,7 +8,7 @@ When an observer claims to have decoded the aesthetic preferences of another gro
 
 ## 一、 傀儡归因与双重压平 / 1. Puppet Attribution and the Double Reduction
 
-在日常关于审美的讨论中，一种极具代表性的论调常常被轻易接纳：断言男性的审美判断仅仅由生理冲动所支配，并列举对短发、健美体态或体重分布的反应作为论据，断定对方缺乏对美的鉴赏能力。这类分析看似在剖析外部客体的心理机制，实际上同时执行了两次急剧的压平操作。观察者首先将千差万别的异质个体压平为一个整齐划一的群体符号，随后又把人类包含视知觉、空间节奏、体态张力与历史记忆在内的丰富感受力，压平为单一维度的生理驱动。这两次压平并没有发生在被谈论的对象身上，它们全都发生在此类观点的持有者脑中。发言者通过这种方式，将不可见的复杂心智替换成了易于操控的因果模型。
+在日常关于审美的讨论中，一种极具代表性的论调常常被轻易接纳：断言男性的审美判断仅仅由生理冲动所支配，并列举对短发、健美体态或体重分布的反应作为论据，断定对方缺乏对美的鉴赏能力。这类分析看似在剖析外部客体的心理机制，实际上同时执行了两次急剧的压平操作。观察者首先将千差万别的异质个体压平为一个整齐划一的群体符号，随后又把人类包含视知觉、空间节奏、体态张力与历史记忆在内的丰富感受力，压平为单一维度的生理驱动。这两次压平并没有发生在被谈论的对象身上，它们全都发生在此类观点的持有者脑中。心智所感知的外部世界，本身就是内在世界的投射；这一不可缩减的界面，正是意识与自由意志运作的场域。我们借助感知来确立自身与他者的相对关系，而若将这种建构贬为单纯的偷懒，则不过是观察者遗忘自身观察立场的另一种便捷标签。真实的认知扭曲，发生在观察者暂时遗忘了自己才是感知主体的那一刻，从而将自身用于相对定位的投射模型，错认成了关于他者的客观真相。
 
 ```mermaid
 flowchart TD
@@ -38,7 +38,7 @@ flowchart TD
   style R_PERC fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-In cultural discussions of aesthetics, a familiar trope is often accepted without scrutiny: asserting that an entire demographic's aesthetic capacity is subordinated to sexual appetite, citing reactions to pixie cuts, muscular builds, or body fat distribution as evidence of an inability to appreciate beauty. This move appears to analyze external subjects, but in fact executes a double reduction. The observer first collapses diverse, heterogeneous individuals into a monolithic collective label, and then collapses the full spectrum of sensory perception, spatial balance, kinetic presence, and historical resonance into a single biological drive. Neither reduction occurs within the minds of the observed; both are computational shortcuts operating strictly inside the observer's own consciousness. By substituting a simple clockwork caricature for invisible interiority, the speaker avoids the demanding work of understanding other minds.
+In cultural discussions of aesthetics, a familiar trope is often accepted without scrutiny: asserting that an entire demographic's aesthetic capacity is subordinated to sexual appetite, citing reactions to pixie cuts, muscular builds, or body fat distribution as evidence of an inability to appreciate beauty. This move appears to analyze external subjects, but in fact executes a double reduction. The observer first collapses diverse, heterogeneous individuals into a monolithic collective label, and then collapses the full spectrum of sensory perception, spatial balance, kinetic presence, and historical resonance into a single biological drive. Neither reduction occurs within the minds of the observed; both unfold strictly across the observer's internal perceptual interface. Consciousness is fundamentally constituted by this act of projection: what an agent perceives as the external world is the projection of its inner model, an indispensable interface for navigating relative relations with others. To label this process as mere cognitive laziness would itself be a convenient categorization, committing the exact same error of forgetting the observing self. The distortion does not lie in the act of projecting—which is the very condition of conscious navigation—but in the observer temporarily forgetting that they are the one doing the perceiving, thereby mistaking a relative relational model for the objective reality of another mind.
 
 ```mermaid
 flowchart TD
@@ -134,7 +134,7 @@ flowchart TD
 
 ## 三、 归因不对称与心智防卫 / 3. Asymmetric Attribution and Cognitive Defense
 
-在面对超出自身预期的分歧时，人类意识最廉价的防卫手段就是建立不对称的因果归因。当自身做出审美评价时，过程被叙述为精细的观察、独特的领悟力与对结构的敏锐捕捉；而当他人表现出不同的偏好时，对方的反应则被追溯为机械的生理反射或欠缺修养的情绪宣泄。正如我们在[道德语言作为投影](../moral-language-as-projection/)与[作为投影崩溃的共情](../empathy-as-projection-collapse/)中所揭示的，投射的机制是用预先编排好的因果脚本去阻断真实的感知接触。当一个人宣称洞悉了他人为何产生某种喜好时，他并非真正抵达了他者的内心，而是通过将复杂的异质性贬抑为易于解释的生理机制，保护自身既有的价值模型免受外部现实的冲击。
+在面对超出自身预期的分歧时，人类意识最便捷的防卫手段就是建立不对称的因果归因。当自身做出审美评价时，过程被叙述为精细的观察、独特的领悟力与对结构的敏锐捕捉；而当他人表现出不同的偏好时，对方的反应则被追溯为机械的生理反射或欠缺修养的情绪宣泄。正如我们在[道德语言作为投影](../moral-language-as-projection/)与[作为投影崩溃的共情](../empathy-as-projection-collapse/)中所揭示的，投射的机制是用预先编排好的因果脚本去阻断真实的感知接触。当一个人宣称洞悉了他人为何产生某种喜好时，他并非真正抵达了他者的内心，而是通过将复杂的异质性贬抑为易于解释的生理机制，保护自身既有的价值模型免受外部现实的冲击。
 
 ```mermaid
 flowchart TD
@@ -159,7 +159,7 @@ flowchart TD
   style D_DEFEND fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-When confronted with divergence that defies expectation, the mind's cheapest defense is asymmetric causal attribution. The observer narrates their own choices as nuanced perception, structural discernment, and refined taste, while dismissing the other's divergent reaction as the mindless discharge of a biological reflex. As mapped in [Moral Language as Projection](../moral-language-as-projection/) and [Empathy as Projection Collapse](../empathy-as-projection-collapse/), projection substitutes a pre-packaged causal script for direct contact with living agency. Claiming to possess omniscient knowledge of why someone else reacts does not expand understanding; it diminishes the other into a cartoon mechanism, shielding the observer's fragile model from the unsettling friction of real minds.
+When confronted with divergence that defies expectation, the mind's most convenient defense is asymmetric causal attribution. The observer narrates their own choices as nuanced perception, structural discernment, and refined taste, while dismissing the other's divergent reaction as the mindless discharge of a biological reflex. As mapped in [Moral Language as Projection](../moral-language-as-projection/) and [Empathy as Projection Collapse](../empathy-as-projection-collapse/), projection substitutes a pre-packaged causal script for direct contact with living agency. Claiming to possess omniscient knowledge of why someone else reacts does not expand understanding; it diminishes the other into a cartoon mechanism, shielding the observer's fragile model from the unsettling friction of real minds.
 
 ```mermaid
 flowchart TD
@@ -186,7 +186,7 @@ flowchart TD
 
 ## 四、 跨越镜像与第一人称边界 / 4. Stepping Beyond the Mirror and First-Person Boundaries
 
-走出这种自我闭环的起点，在于承认第一人称视角的不可替代性。任何心智都无法直接侵入另一个主体的体验核心，所有关于他人动机的断言，无非是在自己颅腔内运行的猜想性模型。正如我们在[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中所论述的，模型永远无法反客为主成为现实的主宰；而在[统计学无法揭示的心智](../the-mind-that-statistics-cannot-reveal/)与[理性从不跨越心智](../rationality-never-travels-across-the-mind/)中也可以清晰看到，审美共鸣同样不会跨越心智边界进行无损传输。美不是固定在世界中的客观刻度，而是具有第一人称意志的心智与现实发生摩擦时激荡出的意义涟漪。只有停止把脑中的低维人偶错认为真实的他者，放弃将审美差异诊断为认知缺陷的优越感，我们才能真正走出封闭的投射镜像，在真实的因果交锋中重新拓展自身的感知边界。
+走出这种自我闭环的起点，在于时刻觉察第一人称视角的不可逾越性。我们所感知的外在世界，原是内在世界的投射；这一不可缩减的界面，构成了意识与主权意志本身。构建投射模型是心智确立自身与他者相对关系的必由之路，认知偏差并不源于投射行为本身，而在于观察者暂时遗忘了自己正是感知的主体，进而将用于自身相对导航的坐标系，误认成了关于他者的客观定论。正如我们在[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中所论述的，模型永远无法反客为主成为现实的主宰；而在[统计学无法揭示的心智](../the-mind-that-statistics-cannot-reveal/)与[理性从不跨越心智](../rationality-never-travels-across-the-mind/)中也可以清晰看到，审美共鸣同样不会跨越心智边界进行无损传输。美不是固定在世界中的客观刻度，而是具有第一人称意志的心智与现实发生摩擦时激荡出的意义涟漪。唯有觉察到自己始终处于观察者的位置，不再将颅内的导航投射错认为客体的客观真相，我们才能走出封闭的镜像自画，在真实的因果交锋中重新拓展感知景深。
 
 ```mermaid
 flowchart TD
@@ -212,7 +212,7 @@ flowchart TD
   style O_FRICTION fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Breaking out of this self-referential closure begins with acknowledging the irreducible boundary of first-person experience. No mind can directly occupy another subject's experiential core; every claim about why someone else desires or values remains a speculative model running strictly inside the observer's own cranial boundary. As argued in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), formal models can never displace the living agency from which they arise; as demonstrated in [The Mind That Statistics Cannot Reveal](../the-mind-that-statistics-cannot-reveal/) and [Rationality Never Travels Across the Mind](../rationality-never-travels-across-the-mind/), aesthetic resonance does not transmit losslessly across boundaries. Beauty is not an immutable scale inscribed upon the cosmos, but a ripple of meaning generated when a minded agent meets the friction of reality. Only by ceasing to mistake internal puppets for living others, and relinquishing the impulse to diagnose divergent taste as pathology, can an observer transcend the mirror and expand their perceptual horizon through genuine friction.
+Breaking out of this self-referential closure begins with constant awareness of the irreducible first-person boundary. What an agent perceives as the external world is a projection of its inner state; that irreducible interface constitutes consciousness and sovereign agency itself. Constructing perceptual models is essential for an observer to navigate relative relations with others; cognitive distortion arises not from the act of projection itself, but from temporarily forgetting that one is the subject doing the perceiving, thereby mistaking an internal navigation tool for an objective decree about the other. As argued in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), formal models can never displace the living agency from which they arise; as demonstrated in [The Mind That Statistics Cannot Reveal](../the-mind-that-statistics-cannot-reveal/) and [Rationality Never Travels Across the Mind](../rationality-never-travels-across-the-mind/), aesthetic resonance does not transmit losslessly across boundaries. Beauty is not an immutable scale inscribed upon the cosmos, but a ripple of meaning generated when a minded agent meets the friction of reality. Only by recognizing one's perpetual position as the observer—refusing to mistake internal navigation models for the objective reality of others—can an agent transcend the mirror of self-projection and expand its perceptual horizon through genuine friction.
 
 ```mermaid
 flowchart TD
