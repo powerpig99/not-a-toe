@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-28T07:06:04.210Z",
+    "generated_at": "2026-09-28T07:53:48.001Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -209,7 +209,7 @@
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "868ab397f06e",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "680cb9af2f4f",
-      "content/posts/the-digital-god-and-the-horizon-jump.md": "afd370b0e65a",
+      "content/posts/the-digital-god-and-the-horizon-jump.md": "2b4ab58796a8",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
@@ -4917,7 +4917,7 @@
       "slug": "the-digital-god-and-the-horizon-jump",
       "path": "content/posts/the-digital-god-and-the-horizon-jump.md",
       "title": "数字神祇与视界跳跃 / The Digital God and the Horizon Jump",
-      "hash": "afd370b0e65a",
+      "hash": "2b4ab58796a8",
       "in_degree": 3,
       "out_degree": 9,
       "links_out": [
@@ -20495,9 +20495,21 @@
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI 与 ASI 是加速演进中不断推移的虚设坐标"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
@@ -20510,48 +20522,6 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "智能单单属于心智"
-    },
-    {
-      "from": "the-digital-god-and-the-horizon-jump",
-      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
-      "rel": "points_to",
-      "label": "造神戏法与未言明的位阶"
-    },
-    {
-      "from": "the-digital-god-and-the-horizon-jump",
-      "to": "the-boundary-crossing-of-choice",
-      "rel": "points_to",
-      "label": "选择的视界跨越"
-    },
-    {
-      "from": "the-digital-god-and-the-horizon-jump",
-      "to": "causality-stays-at-the-edge-that-steers",
-      "rel": "points_to",
-      "label": "因果始终留在掌舵的边缘"
-    },
-    {
-      "from": "the-digital-god-and-the-horizon-jump",
-      "to": "boletus-compute-storm-and-promethean-fire",
-      "rel": "points_to",
-      "label": "牛肝菌、算力风暴与普罗米修斯的火"
-    },
-    {
-      "from": "the-digital-god-and-the-horizon-jump",
-      "to": "amplification-paradox",
-      "rel": "points_to",
-      "label": "放大器悖论"
-    },
-    {
-      "from": "the-digital-god-and-the-horizon-jump",
-      "to": "closed-reality-in-benchmark-maxing",
-      "rel": "points_to",
-      "label": "Closed Reality in Benchmark Maxing"
-    },
-    {
-      "from": "the-digital-god-and-the-horizon-jump",
-      "to": "agi-and-asi-are-temporary-goalposts",
-      "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
@@ -20569,7 +20539,25 @@
       "from": "the-digital-god-and-the-horizon-jump",
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
+      "label": "造神戏法与未言明的位阶"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
       "label": "The Sleight of Hand of Synthesizing Gods and Unacknowledged Rank"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "选择的视界跨越"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果始终留在掌舵的边缘"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
@@ -20587,7 +20575,19 @@
       "from": "the-digital-god-and-the-horizon-jump",
       "to": "boletus-compute-storm-and-promethean-fire",
       "rel": "points_to",
+      "label": "牛肝菌、算力风暴与普罗米修斯的火"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "boletus-compute-storm-and-promethean-fire",
+      "rel": "points_to",
       "label": "Boletus, the Compute Storm, and Promethean Fire"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "amplification-paradox",
+      "rel": "points_to",
+      "label": "放大器悖论"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",

@@ -37,9 +37,18 @@ For every new or revised essay, the complete deliverable set consists of:
   - Nodes: `style NodeID fill:#0d1117,stroke:#<hex>,stroke-width:1px,color:#f0f6fc`
   - Semantic colors: Green (`#3fb950` - Mind/sovereign judgment), Red (`#f85149` - Inversion/collapse/failure), Amber (`#d29922` - Scaffolding/tradeoffs), Blue (`#58a6ff` - Models/telemetry/signals), Purple (`#a371f7` - Self-referential loops/latent spaces).
 - **Bilingual parallelism**: Every Chinese diagram must have an exact parallel English counterpart with identical node topology and semantic coloring.
+- **Alternating Bilingual Paragraph Layout ("中英文段落交替排列为默认排版规范")**:
+  - **Paragraph-by-Paragraph Alternation (Default Invariant)**: In all bilingual essays, Chinese and English must alternate paragraph by paragraph throughout the text:
+    - **First line (`# <Title>`)**: Bilingual title (`# <Chinese Title> / <English Title>`).
+    - **Line 3 (`*<Subtitle>*`)**: Bilingual subtitle (`*<Chinese Subtitle> / <English Subtitle>*`).
+    - **Lead Prose (Line 5+)**: Chinese lead paragraph immediately followed by English lead paragraph.
+    - **Section Headings**: Unified bilingual headings (`## 一、 <Chinese Heading> / 1. <English Heading>`).
+    - **Section Body Prose**: Each Chinese narrative paragraph is immediately followed by its parallel English narrative paragraph (`CN Paragraph 1` -> `EN Paragraph 1` -> `CN Paragraph 2` -> `EN Paragraph 2`...).
+    - **Diagrams**: Chinese Mermaid diagram immediately paired with the parallel English Mermaid diagram.
+  - **Strict Prohibition of Monolithic Segregation**: NEVER output the entire Chinese essay in the first half followed by a divider (`***` or `---`) and the entire English essay in the second half. NEVER create separate "English Version" / "英文版" blocks.
 - **Strict Language Separation ("中文的归中文，英文的归英文")**:
-  - **Chinese belongs to Chinese**: In the Chinese version of an essay, all text, headings, and diagram node labels must be pure Chinese. Strictly zero English subtitle lines (e.g. `<br/>English text`) in Chinese diagrams, unless annotating recognized proper nouns (e.g. DNA, API, AI).
-  - **English belongs to English**: In the English version, all text, headings, and diagram node labels must be pure English.
+  - **Chinese belongs to Chinese**: In the Chinese paragraphs, headings, and diagram node labels of an essay, all text must be pure Chinese. Strictly zero English subtitle lines (e.g. `<br/>English text`) in Chinese diagrams, unless annotating recognized proper nouns (e.g. DNA, API, AI).
+  - **English belongs to English**: In the English paragraphs, headings, and diagram node labels, all text must be pure English.
   - **Bilingual completeness**: Essays with bilingual titles must feature complete parallel Chinese and English sections (including title, subtitle, lead, section headings, narrative prose, and Mermaid diagrams).
 - **Relative cross-links**: Weave internal links using relative form only: `[title](../slug/)`. All targets must resolve to existing post files.
 - **Mathematical notation**: Unicode only (e.g. `S₀`, `∇L`, `h`). **Strictly zero raw `$` or `$$` symbols**.
