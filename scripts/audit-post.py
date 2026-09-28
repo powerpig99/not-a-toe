@@ -330,7 +330,57 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             # Check for split-half language segregation headings
             split_half_headings = re.findall(r'^##\s+(?:English\s+Version|English\s+Translation|英文版|英文翻译)\b', content, re.IGNORECASE | re.MULTILINE)
             if split_half_headings:
-                errors.append(f"Split-half bilingual segregation detected ({split_half_headings}). Standard rule: interleave sections with unified '## CN / EN' headings followed by CN prose then EN prose.")
+                errors.append(f"Split-half bilingual segregation detected ({split_half_headings}). Standard rule: interleave sections with unified '## CN / EN' headings with alternating CN and EN paragraphs.")
+
+            # Check that ## headings in bilingual posts are unified bilingual headings
+            h2_headings = [l.strip() for l in content.splitlines() if l.startswith('## ')]
+            if h2_headings:
+                pure_zh_h2 = [h for h in h2_headings if re.search(r'[\u4e00-\u9fff]', h) and not re.search(r'[a-zA-Z]{3,}', h)]
+                pure_en_h2 = [h for h in h2_headings if not re.search(r'[\u4e00-\u9fff]', h) and re.search(r'[a-zA-Z]{3,}', h)]
+                if pure_zh_h2 and pure_en_h2:
+                    errors.append(f"Split-half bilingual heading segregation detected: found {len(pure_zh_h2)} pure Chinese headings and {len(pure_en_h2)} pure English headings. Standard rule: unify headings as '## 一、 中文 / 1. English' with alternating CN and EN paragraphs.")
+
+            # Check for alternating paragraphs (prevent monolithic language blocks)
+            clean_prose = re.sub(r'```.*?```', '', content, flags=re.DOTALL)
+            prose_paragraphs = []
+            for p in clean_prose.split('\n\n'):
+                p_str = p.strip()
+                if not p_str or p_str.startswith('#') or p_str.startswith('*') or p_str.startswith('---') or p_str.startswith('***'):
+                    continue
+                has_zh = bool(re.search(r'[\u4e00-\u9fff]', p_str))
+                has_en = bool(re.search(r'[a-zA-Z]{2,}', p_str))
+                if has_zh and not has_en:
+                    prose_paragraphs.append('ZH')
+                elif has_en and not has_zh:
+                    prose_paragraphs.append('EN')
+                elif has_zh and has_en:
+                    zh_chars = len(re.findall(r'[\u4e00-\u9fff]', p_str))
+                    en_words = len(re.findall(r'[a-zA-Z]{2,}', p_str))
+                    if zh_chars > en_words * 2:
+                        prose_paragraphs.append('ZH')
+                    elif en_words > zh_chars * 2:
+                        prose_paragraphs.append('EN')
+
+            max_zh_run = 0
+            max_en_run = 0
+            current_zh_run = 0
+            current_en_run = 0
+            for lang in prose_paragraphs:
+                if lang == 'ZH':
+                    current_zh_run += 1
+                    current_en_run = 0
+                    if current_zh_run > max_zh_run:
+                        max_zh_run = current_zh_run
+                elif lang == 'EN':
+                    current_en_run += 1
+                    current_zh_run = 0
+                    if current_en_run > max_en_run:
+                        max_en_run = current_en_run
+            
+            if max_zh_run > 4 or max_en_run > 4:
+                warnings.append(f"Monolithic language cluster detected (max consecutive ZH paragraphs: {max_zh_run}, EN: {max_en_run}). Standard rule: alternate Chinese and English paragraph-by-paragraph.")
+            else:
+                passes.append(f"Alternating bilingual paragraph layout check passed (consecutive max ZH: {max_zh_run}, EN: {max_en_run})")
 
             # Check strict language separation in diagrams ("中文的归中文，英文的归英文")
             allowed_acronyms = {'DNA', 'API', 'AI', 'LLM', 'CPU', 'GPU', 'TOE', 'VR'}
