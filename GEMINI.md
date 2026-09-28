@@ -44,7 +44,7 @@ For every new or revised essay, the complete deliverable set consists of:
     - **Lead Prose (Line 5+)**: Chinese lead paragraph immediately followed by English lead paragraph.
     - **Section Headings**: Unified bilingual headings (`## 一、 <Chinese Heading> / 1. <English Heading>`).
     - **Section Body Prose**: Each Chinese narrative paragraph is immediately followed by its parallel English narrative paragraph (`CN Paragraph 1` -> `EN Paragraph 1` -> `CN Paragraph 2` -> `EN Paragraph 2`...).
-    - **Diagrams**: Chinese Mermaid diagram immediately paired with the parallel English Mermaid diagram.
+    - **Diagrams Attached to Corresponding Language Contents**: Schematics/diagrams must NOT be stacked together at the end of the section or post. The Chinese Mermaid diagram must be placed immediately following the Chinese prose that it illustrates, and the parallel English Mermaid diagram must be placed immediately following its corresponding English prose (`CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram`).
   - **Strict Prohibition of Monolithic Segregation**: NEVER output the entire Chinese essay in the first half followed by a divider (`***` or `---`) and the entire English essay in the second half. NEVER create separate "English Version" / "英文版" blocks.
 - **Strict Language Separation ("中文的归中文，英文的归英文")**:
   - **Chinese belongs to Chinese**: In the Chinese paragraphs, headings, and diagram node labels of an essay, all text must be pure Chinese. Strictly zero English subtitle lines (e.g. `<br/>English text`) in Chinese diagrams, unless annotating recognized proper nouns (e.g. DNA, API, AI).

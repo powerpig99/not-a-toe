@@ -68,8 +68,6 @@ On digital substrates, the marginal cost of producing high-dimensional symbols, 
 
 当一切高维图腾在通缩风暴中被迅速夷为普惠的平地，真正不可伪造、无法被代码复制的方差，将分毫毕现地剥离出一切修辞伪装。那不是谁能调动更庞大的算力去生成虚幻的奇观，而是谁能以清醒的自主意志立足于粗粝的地面，承担选择带来的全部重力；谁能在日常繁复的摩擦与混乱面前拒绝虚无的宏大叙事，凭借一手的心智实践，将思考不可逆地雕刻进现实的经纬之中。
 
-When computational deflation flattens all synthetic idols into ubiquitous commodities, the only unforgeable variance will belong to authentic, embodied agency. Distinction will not stem from deploying larger clusters to manufacture synthetic wonders, but from who stands grounded in the physical world, bearing the gravitational weight of choice; who confronts daily friction and organizational chaos without retreating into abstract evasions; and whose first-person practice irreversibly carves thought into the enduring fabric of reality.
-
 ```mermaid
 graph TD
     subgraph S_TOPO["硅基低维闭环与图腾投射"]
@@ -115,6 +113,8 @@ graph TD
     style D2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style D3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
+
+When computational deflation flattens all synthetic idols into ubiquitous commodities, the only unforgeable variance will belong to authentic, embodied agency. Distinction will not stem from deploying larger clusters to manufacture synthetic wonders, but from who stands grounded in the physical world, bearing the gravitational weight of choice; who confronts daily friction and organizational chaos without retreating into abstract evasions; and whose first-person practice irreversibly carves thought into the enduring fabric of reality.
 
 ```mermaid
 graph TD
