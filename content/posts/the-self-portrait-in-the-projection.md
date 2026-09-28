@@ -196,7 +196,11 @@ flowchart TD
 
 ## 四、 跨越镜像与第一人称边界 / 4. Stepping Beyond the Mirror and First-Person Boundaries
 
-走出这种自我闭环的起点，在于时刻觉察第一人称视角的不可逾越性。我们所感知的外在世界，原是内在世界的投射；这一不可缩减的界面，构成了意识与主权意志本身。构建投射模型是心智确立自身与他者相对关系的必由之路，认知偏差并不源于投射行为本身，而在于观察者暂时遗忘了自己正是感知的主体，进而将用于自身相对导航的坐标系，误认成了关于他者的客观定论。正如我们在[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中所论述的，模型永远无法反客为主成为现实的主宰；而在[统计学无法揭示的心智](../the-mind-that-statistics-cannot-reveal/)与[理性从不跨越心智](../rationality-never-travels-across-the-mind/)中也可以清晰看到，审美共鸣同样不会跨越心智边界进行无损传输。美不是固定在世界中的客观刻度，而是具有第一人称意志的心智与现实发生摩擦时激荡出的意义涟漪。若观察者愿意放下优越的评判姿态，深沉地凝视现实，美几乎无所不在地潜藏于一切事物与情境之中；但正因为每颗心智与现实摩擦的轨迹各不相同，世上没有任何两颗心智拥有同一副感知模具，更没有任何人占据着裁决他人感知高下的法庭席位。唯有觉察到自己始终处于观察者的位置，不再将颅内的导航投射错认为客体的客观真相，我们才能走出封闭的镜像自画，在真实的因果交锋中重新拓展感知景深。
+走出这种自我闭环的起点，在于时刻觉察第一人称视角的不可逾越性。我们所感知的外在世界，原是内在世界的投射；这一不可缩减的界面，构成了意识与主权意志本身。构建投射模型是心智确立自身与他者相对关系的必由之路，认知偏差并不源于投射行为本身，而在于观察者暂时遗忘了自己正是感知的主体，进而将用于自身相对导航的坐标系，误认成了关于他者的客观定论。正如我们在[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中所论述的，模型永远无法反客为主成为现实的主宰；而在[统计学无法揭示的心智](../the-mind-that-statistics-cannot-reveal/)与[理性从不跨越心智](../rationality-never-travels-across-the-mind/)中也可以清晰看到，审美共鸣同样不会跨越心智边界进行无损传输。美不是固定在世界中的客观刻度，而是具有第一人称意志的心智与现实发生摩擦时激荡出的意义涟漪。若观察者愿意放下优越的评判姿态，深沉地凝视现实，美几乎无所不在地潜藏于一切事物与情境之中；但正因为每颗心智与现实摩擦的轨迹各不相同，世上没有任何两颗心智拥有同一副感知模具，更没有任何人占据着裁决他人感知高下的法庭席位。
+
+Breaking out of this self-referential closure begins with constant awareness of the irreducible first-person boundary. What an agent perceives as the external world is a projection of its inner state; that irreducible interface constitutes consciousness and sovereign agency itself. Constructing perceptual models is essential for an observer to navigate relative relations with others; cognitive distortion arises not from the act of projection itself, but from temporarily forgetting that one is the subject doing the perceiving, thereby mistaking an internal navigation tool for an objective decree about the other. As argued in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), formal models can never displace the living agency from which they arise; as demonstrated in [The Mind That Statistics Cannot Reveal](../the-mind-that-statistics-cannot-reveal/) and [Rationality Never Travels Across the Mind](../rationality-never-travels-across-the-mind/), aesthetic resonance does not transmit losslessly across boundaries. Beauty is not an immutable scale inscribed upon the cosmos, but a ripple of meaning generated when a minded agent meets the friction of reality. When an observer relinquishes the impulse to sit in judgment and looks with sufficient depth, beauty can be discovered in virtually any phenomenon and any situation; yet precisely because every mind carves a unique trajectory through reality, no two people share identical perceptual coordinates, and no mind occupies an external tribunal to adjudicate another's discernment.
+
+个人审美能力的提高，从来不是在单一维度的标尺上攀爬所谓的“高低”。相反，它建立于心智能够发现别人——包括前一刻的自己——未能觉察的美，发现自身过往未曾注意到的生动维度。面对他人与自身迥异的审美取向，认知成熟的心智不会急于充当裁判去裁定他人品味的高下，而是将这种差异视为珍贵的认识论摩擦：借由他人与自身视角的错位，反思自身滤镜的盲区，从而在原本未曾涉足的领域中，提升对美觉知的维度。审美不是在封闭的低维投影中分出胜负，而是心智不断超越前一刻的自身，在与无数异质主体的交锋中，让感知的流形生长出更加丰富深邃的高维景深。唯有觉察到自己始终处于观察者的位置，不再将颅内的导航投射错认为客体的客观真相，我们才能走出封闭的镜像自画，在真实的因果交锋中完成认知视界的跃迁。
 
 ```mermaid
 flowchart TD
@@ -204,25 +208,31 @@ flowchart TD
     direction TB
     M_PUPPET["颅内发条木偶<br/>自我偏好的倒影"]
     M_BLIND["认知盲区<br/>将自身投射错认为外部事实"]
+    M_JUDGE["执迷高低胜负<br/>在低维投影中评判他人品味"]
   end
   subgraph S_OPEN["开放的第一人称认知"]
     direction TB
     O_BOUNDARY["承认心智边界<br/>不可逾越的第一人称视界"]
-    O_FRICTION["拥抱真实摩擦<br/>在异质性中扩展感知景深"]
+    O_DIFF["差异作为升维契机<br/>放弃评判优劣，开启认知摩擦"]
+    O_EXPAND["感知维度的拓展<br/>发现他人与前一刻自我未察之美"]
   end
   M_PUPPET --> M_BLIND
-  M_BLIND -.->|"认识论觉醒"| O_BOUNDARY
-  O_BOUNDARY --> O_FRICTION
-  O_FRICTION ==>|"瓦解虚假封闭"| M_PUPPET
+  M_BLIND --> M_JUDGE
+  M_JUDGE -.->|"认识论觉醒"| O_BOUNDARY
+  O_BOUNDARY --> O_DIFF
+  O_DIFF --> O_EXPAND
+  O_EXPAND ===>|"超越镜像自画"| M_PUPPET
   style S_MIRROR fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
   style S_OPEN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style M_PUPPET fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
   style M_BLIND fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+  style M_JUDGE fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style O_BOUNDARY fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-  style O_FRICTION fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+  style O_DIFF fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+  style O_EXPAND fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Breaking out of this self-referential closure begins with constant awareness of the irreducible first-person boundary. What an agent perceives as the external world is a projection of its inner state; that irreducible interface constitutes consciousness and sovereign agency itself. Constructing perceptual models is essential for an observer to navigate relative relations with others; cognitive distortion arises not from the act of projection itself, but from temporarily forgetting that one is the subject doing the perceiving, thereby mistaking an internal navigation tool for an objective decree about the other. As argued in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), formal models can never displace the living agency from which they arise; as demonstrated in [The Mind That Statistics Cannot Reveal](../the-mind-that-statistics-cannot-reveal/) and [Rationality Never Travels Across the Mind](../rationality-never-travels-across-the-mind/), aesthetic resonance does not transmit losslessly across boundaries. Beauty is not an immutable scale inscribed upon the cosmos, but a ripple of meaning generated when a minded agent meets the friction of reality. When an observer relinquishes the impulse to sit in judgment and looks with sufficient depth, beauty can be discovered in virtually any phenomenon and any situation; yet precisely because every mind carves a unique trajectory through reality, no two people share identical perceptual coordinates, and no mind occupies an external tribunal to adjudicate another's discernment. Only by recognizing one's perpetual position as the observer—refusing to mistake internal navigation models for the objective reality of others—can an agent transcend the mirror of self-projection and expand its perceptual horizon through genuine friction.
+The genuine elevation of aesthetic capacity is never about climbing an arbitrary ladder of "superior" versus "inferior" along a flattened, single-dimensional axis. Rather, it is grounded in the capacity to discern beauty that others—including one's own previous self—failed to see, discovering dimensions of resonance that previously went unnoticed. Confronted with sensibilities that diverge from one's own, an epistemologically grounded mind does not scramble into a tribunal to judge the other's taste as superior or deficient. Instead, it treats that divergence as an invitation to dimensional expansion: using the friction between distinct perspectives to uncover the blind spots of one's own lens, thereby elevating the dimensionality of aesthetic awareness. Aesthetic maturity is not about winning an artificial contest in a low-dimensional projection, but about transcending one's previous horizon, allowing the perceptual manifold to unfurl into deeper, higher-dimensional richness through contact with living heterogeneity. Only by recognizing one's perpetual position as the observer—refusing to mistake internal navigation models for the objective reality of others—can an agent transcend the mirror of self-projection and expand its perceptual horizon through genuine friction.
 
 ```mermaid
 flowchart TD
@@ -230,20 +240,26 @@ flowchart TD
     direction TB
     M_PUPPET["Internal Clockwork Puppet<br/>Reflection of Personal Prejudices"]
     M_BLIND["Cognitive Blindspot<br/>Mistaking Self-Projection for Reality"]
+    M_JUDGE["Fixation on Scalar Ranking<br/>Judging Other Tastes in Low Dimensions"]
   end
   subgraph S_OPEN["Open First-Person Awareness"]
     direction TB
     O_BOUNDARY["Acknowledging Mind Boundary<br/>Irreducible First-Person Horizon"]
-    O_FRICTION["Embracing Living Friction<br/>Deepening Perception Across Difference"]
+    O_DIFF["Difference as Dimensional Catalyst<br/>Abandoning Judgment to Embrace Friction"]
+    O_EXPAND["Dimensional Expansion<br/>Perceiving Beauty Unseen by Prior Self"]
   end
   M_PUPPET --> M_BLIND
-  M_BLIND -.->|"Epistemic Awakening"| O_BOUNDARY
-  O_BOUNDARY --> O_FRICTION
-  O_FRICTION ==>|"Dissolves Spurious Closure"| M_PUPPET
+  M_BLIND --> M_JUDGE
+  M_JUDGE -.->|"Epistemic Awakening"| O_BOUNDARY
+  O_BOUNDARY --> O_DIFF
+  O_DIFF --> O_EXPAND
+  O_EXPAND ===>|"Overcoming Mirror Closure"| M_PUPPET
   style S_MIRROR fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
   style S_OPEN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style M_PUPPET fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
   style M_BLIND fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+  style M_JUDGE fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style O_BOUNDARY fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-  style O_FRICTION fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+  style O_DIFF fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+  style O_EXPAND fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
