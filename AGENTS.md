@@ -81,6 +81,9 @@ Located in `notebooklm-auto/prompts/`:
 
 ### 4. Walkthrough Document (`walkthrough.md`)
 Stored in the active conversation artifact directory, structured as:
+- **Header Block (Immediately below `# Walkthrough: Post #XXX — <Title>`)**:
+  - **Canonical Live Post URL (Clickable Markdown Link)**: MUST include `> **Canonical Live URL**: [https://powerpig99.github.io/not-a-toe/posts/<slug>/](https://powerpig99.github.io/not-a-toe/posts/<slug>/)` right at the top so the operator can click to open and comment immediately.
+  - **Source Essay Link**: `> **Source Essay**: [content/posts/<slug>.md](file:///Users/jingliang/Projects/not-a-toe/content/posts/<slug>.md)`
 1. Visual Artifact & Cover Art embedding (`![caption](/absolute/path/to/cover.jpg)`) with concept.
 2. Mermaid diagram inventory with semantic color rationale.
 3. Core epistemological cuts & argument architecture.
