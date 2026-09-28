@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-28T12:32:58.423Z",
+    "generated_at": "2026-09-28T14:58:38.543Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -114,7 +114,7 @@
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "8a80773b8e6f",
-      "content/posts/moral-language-as-projection.md": "949f402a80cd",
+      "content/posts/moral-language-as-projection.md": "5c7d59397220",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "bc4d65cbecdd",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "6be2fa5824fb",
@@ -130,7 +130,7 @@
       "content/posts/objects-are-stabilized-relationships.md": "93d21da0b645",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b354e525a5d3",
       "content/posts/on-education.md": "d62f17d7f550",
-      "content/posts/one-cannot-escape-ones-own-mind.md": "5b88da1cccea",
+      "content/posts/one-cannot-escape-ones-own-mind.md": "71405cfc3c50",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "158cff173f93",
       "content/posts/only-if-it-is-not-kept-empty.md": "3d9516da5576",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
@@ -211,7 +211,7 @@
       "content/posts/the-deterministic-machine.md": "680cb9af2f4f",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "fe1c01f5ba81",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
-      "content/posts/the-discount-on-agency.md": "5f8f5fa93590",
+      "content/posts/the-discount-on-agency.md": "6faa5dee5f2e",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "1541ba257aae",
@@ -305,6 +305,7 @@
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
       "content/posts/the-scaffolding-we-forget.md": "3fcc945ba028",
       "content/posts/the-scaling-loop.md": "deedfa49f780",
+      "content/posts/the-self-portrait-in-the-projection.md": "8c3730eb63e8",
       "content/posts/the-shadow-and-the-infinite.md": "900802f5388b",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "4216d0e9136d",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "71946e0f5b68",
@@ -362,13 +363,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 352,
-      "edges": 3567,
-      "unique_directed": 3181,
+      "posts": 353,
+      "edges": 3582,
+      "unique_directed": 3189,
       "missing_targets": 0,
-      "one_way": 867,
+      "one_way": 871,
       "isolated": 40,
-      "posts_with_outbound": 287
+      "posts_with_outbound": 288
     }
   },
   "hubs_in": [
@@ -1699,7 +1700,7 @@
       "path": "content/posts/empathy-as-projection-collapse.md",
       "title": "The Word Does the Damage: Empathy as Projection Collapse",
       "hash": "f63024931b5c",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 1,
       "links_out": [
         "sympathy-is-a-placeholder-for-lack-of-clarity"
@@ -2810,9 +2811,9 @@
       "slug": "moral-language-as-projection",
       "path": "content/posts/moral-language-as-projection.md",
       "title": "Moral Language as Projection",
-      "hash": "949f402a80cd",
-      "in_degree": 4,
-      "out_degree": 8,
+      "hash": "5c7d59397220",
+      "in_degree": 5,
+      "out_degree": 9,
       "links_out": [
         "ones-potential-as-threat-or-inspiration",
         "sovereignty-belief-and-regulatory-structures",
@@ -2821,6 +2822,7 @@
         "the-coordinators-category-error",
         "deceleration-is-the-drag-felt-when-accelerating",
         "the-closed-loop-of-representation",
+        "the-self-portrait-in-the-projection",
         "individual-choices-as-the-only-causal-levers"
       ]
     },
@@ -3132,9 +3134,9 @@
       "slug": "one-cannot-escape-ones-own-mind",
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
-      "hash": "5b88da1cccea",
-      "in_degree": 7,
-      "out_degree": 9,
+      "hash": "71405cfc3c50",
+      "in_degree": 8,
+      "out_degree": 10,
       "links_out": [
         "subtracting-consciousness-at-the-source",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -3144,6 +3146,7 @@
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "choice-itself-has-no-inherent-weight",
         "the-causal-inversion-of-partnership",
+        "the-self-portrait-in-the-projection",
         "agency-does-not-arise"
       ]
     },
@@ -3719,7 +3722,7 @@
       "path": "content/posts/rationality-never-travels-across-the-mind.md",
       "title": "Rationality Never Travels Across the Mind",
       "hash": "6d12122abe9d",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 4,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -4969,15 +4972,16 @@
       "slug": "the-discount-on-agency",
       "path": "content/posts/the-discount-on-agency.md",
       "title": "主体性的折现 / The Discount on Agency",
-      "hash": "5f8f5fa93590",
+      "hash": "6faa5dee5f2e",
       "in_degree": 3,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "having-more-is-never-the-cause",
         "empowerment-establishes-the-centralization-of-power",
         "help-is-half-the-problem",
         "externalized-virtue-becomes-its-opposite",
         "individual-choices-as-the-only-causal-levers",
+        "the-self-portrait-in-the-projection",
         "the-digital-god-and-the-horizon-jump"
       ]
     },
@@ -5919,7 +5923,7 @@
       "path": "content/posts/the-mind-that-statistics-cannot-reveal.md",
       "title": "The Mind That Statistics Cannot Reveal",
       "hash": "b0542371b56e",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "the-average-is-residue-not-the-engine",
@@ -6828,6 +6832,23 @@
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-flywheel-of-the-mind",
         "production-consumption-and-the-minds-distinction"
+      ]
+    },
+    {
+      "id": "post:the-self-portrait-in-the-projection",
+      "kind": "post",
+      "slug": "the-self-portrait-in-the-projection",
+      "path": "content/posts/the-self-portrait-in-the-projection.md",
+      "title": "投射中的自画像 / The Self-Portrait in the Projection",
+      "hash": "8c3730eb63e8",
+      "in_degree": 3,
+      "out_degree": 5,
+      "links_out": [
+        "moral-language-as-projection",
+        "empathy-as-projection-collapse",
+        "one-cannot-escape-ones-own-mind",
+        "the-mind-that-statistics-cannot-reveal",
+        "rationality-never-travels-across-the-mind"
       ]
     },
     {
@@ -14241,6 +14262,12 @@
     },
     {
       "from": "moral-language-as-projection",
+      "to": "the-self-portrait-in-the-projection",
+      "rel": "points_to",
+      "label": "The Self-Portrait in the Projection"
+    },
+    {
+      "from": "moral-language-as-projection",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
@@ -15105,6 +15132,12 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-self-portrait-in-the-projection",
+      "rel": "points_to",
+      "label": "投射中的自画像"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
       "to": "agency-does-not-arise",
       "rel": "points_to",
       "label": "能动性从不涌现：涌现的范畴错误、潜空间侵入与第一人称先验"
@@ -15132,6 +15165,12 @@
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
       "label": "The Causal Inversion of Partnership"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-self-portrait-in-the-projection",
+      "rel": "points_to",
+      "label": "The Self-Portrait in the Projection"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -20883,9 +20922,21 @@
     },
     {
       "from": "the-discount-on-agency",
+      "to": "the-self-portrait-in-the-projection",
+      "rel": "points_to",
+      "label": "投射中的自画像"
+    },
+    {
+      "from": "the-discount-on-agency",
       "to": "the-digital-god-and-the-horizon-jump",
       "rel": "points_to",
       "label": "数字神灵与视界跃迁"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "the-self-portrait-in-the-projection",
+      "rel": "points_to",
+      "label": "The Self-Portrait in the Projection"
     },
     {
       "from": "the-discount-on-agency",
@@ -26124,6 +26175,66 @@
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "Production, consumption, and the Mind’s distinction"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "道德语言作为投影"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "empathy-as-projection-collapse",
+      "rel": "points_to",
+      "label": "作为投影崩溃的共情"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "Moral Language as Projection"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "empathy-as-projection-collapse",
+      "rel": "points_to",
+      "label": "Empathy as Projection Collapse"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "the-mind-that-statistics-cannot-reveal",
+      "rel": "points_to",
+      "label": "统计学无法揭示的心智"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "理性从不跨越心智"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "the-mind-that-statistics-cannot-reveal",
+      "rel": "points_to",
+      "label": "The Mind That Statistics Cannot Reveal"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "Rationality Never Travels Across the Mind"
     },
     {
       "from": "the-shadow-and-the-infinite",
