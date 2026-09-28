@@ -66,7 +66,7 @@ Historical totemism maintained enduring dominance because the physical erection 
 
 On digital substrates, the marginal cost of producing high-dimensional symbols, hyper-realistic video, and executable code plummets toward zero. A synthetic feat that appears exclusive today is matched, open-sourced, and commoditized across personal devices within weeks. The moment an automated miracle becomes universally accessible, the aura of authority projected onto the oracle vanishes. Hierarchies of superiority erected upon proprietary model access cannot endure; they collapse under the very abundance they generate. [The Amplification Paradox](../amplification-paradox/) shows that the cheaper and more prolific candidate outputs become, the more demanding and consequential the un-delegatable selection work at the living source becomes.
 
-当一切高维图腾在通缩风暴中被迅速夷为普惠的平地，真正不可伪造、无法被代码复制的方差，将分毫毕现地剥离出一切修辞伪装。那不是谁能调动更庞大的算力去生成虚幻的奇观，而是谁能以清醒的自主意志立足于粗粝的地面，承担选择带来的全部重力；谁能在日常繁复的摩擦与混乱面前拒绝虚无的宏大叙事，凭借一手的心智实践，将思考不可逆地雕刻进现实的经纬之中。
+当一切高维图腾在通缩风暴中被迅速夷为普惠的平地，真正不可伪造、无法被代码复制的方差，将分毫毕现地剥离出一切修辞伪装。那不是谁能调动更庞大的算力去生成虚幻的奇观，而是谁能以清醒的自主意志立足于粗粝的地面，承担选择带来的全部重力；谁能在日常繁复的摩擦与混乱面前拒绝虚无的宏大叙事，凭借一手的心智实践，将思考不可逆地雕刻进现实的经纬之中。正如在 [主体性的折现](../the-discount-on-agency/) 中所指明的，任何试图用外部资本或预设结果来代劳个体奋斗的安排，都无法免除活体因果的支付；生命的主权恰恰在于不可被计算或代行的真实阻尼。
 
 ```mermaid
 graph TD
@@ -114,7 +114,7 @@ graph TD
     style D3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When computational deflation flattens all synthetic idols into ubiquitous commodities, the only unforgeable variance will belong to authentic, embodied agency. Distinction will not stem from deploying larger clusters to manufacture synthetic wonders, but from who stands grounded in the physical world, bearing the gravitational weight of choice; who confronts daily friction and organizational chaos without retreating into abstract evasions; and whose first-person practice irreversibly carves thought into the enduring fabric of reality.
+When computational deflation flattens all synthetic idols into ubiquitous commodities, the only unforgeable variance will belong to authentic, embodied agency. Distinction will not stem from deploying larger clusters to manufacture synthetic wonders, but from who stands grounded in the physical world, bearing the gravitational weight of choice; who confronts daily friction and organizational chaos without retreating into abstract evasions; and whose first-person practice irreversibly carves thought into the enduring fabric of reality. As demonstrated in [The Discount on Agency](../the-discount-on-agency/), any institutional or financial scheme attempting to substitute external transfers for personal struggle cannot waive the energy debt of agency; human sovereignty resides precisely in the irreplaceable friction of self-authored choices.
 
 ```mermaid
 graph TD
