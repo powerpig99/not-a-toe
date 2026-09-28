@@ -466,8 +466,15 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             else:
                 passes.append("Walkthrough copy check (NotebookLM Prompts, Spotify ZH/EN, WeChat Video, X EN all present)")
 
-            # Verify that all 4 platform copies include the exact canonical post URL and are wrapped in code blocks
+            # Verify that Walkthrough header contains the canonical live post URL
             expected_canonical_url = f"https://powerpig99.github.io/not-a-toe/posts/{slug}/"
+            top_header_text = w_content[:600]
+            if expected_canonical_url not in top_header_text:
+                warnings.append(f"Walkthrough header missing clickable canonical live URL ({expected_canonical_url}) immediately under title.")
+            else:
+                passes.append("Walkthrough header canonical URL check (clickable link present at top)")
+
+            # Verify that all 4 platform copies include the exact canonical post URL and are wrapped in code blocks
             missing_url_platforms = []
             missing_code_block_platforms = []
             platform_sections = [
