@@ -3,13 +3,13 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-27T20:14:50.954Z",
+    "generated_at": "2026-09-28T07:06:04.210Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
-      "content/posts/a-creation-cannot-replace-its-source.md": "874167ac7c12",
+      "content/posts/a-creation-cannot-replace-its-source.md": "0b6591513791",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "5c2c317e8efa",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "75ea3ced28ac",
@@ -18,7 +18,7 @@
       "content/posts/agency-does-not-arise.md": "bcfcae395a7d",
       "content/posts/agency-relocated-into-the-formal-model.md": "86d69a48a123",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "fd9d3cf5c73a",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "71ec41fd221d",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "aaa7fd1e8b34",
@@ -209,6 +209,7 @@
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "868ab397f06e",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "680cb9af2f4f",
+      "content/posts/the-digital-god-and-the-horizon-jump.md": "afd370b0e65a",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
@@ -305,7 +306,7 @@
       "content/posts/the-scaling-loop.md": "deedfa49f780",
       "content/posts/the-shadow-and-the-infinite.md": "900802f5388b",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "4216d0e9136d",
-      "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "5394b57d7f8b",
+      "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "71946e0f5b68",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
       "content/posts/the-sovereign-blinding.md": "888e3fbe6aee",
@@ -360,13 +361,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 350,
-      "edges": 3529,
-      "unique_directed": 3160,
+      "posts": 351,
+      "edges": 3551,
+      "unique_directed": 3172,
       "missing_targets": 0,
-      "one_way": 858,
+      "one_way": 864,
       "isolated": 40,
-      "posts_with_outbound": 285
+      "posts_with_outbound": 286
     }
   },
   "hubs_in": [
@@ -380,7 +381,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 65
+      "in_degree": 66
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -424,11 +425,11 @@
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 27
+      "in_degree": 28
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 27
+      "in_degree": 28
     },
     {
       "slug": "self-rl-for-humans",
@@ -583,9 +584,9 @@
       "slug": "a-creation-cannot-replace-its-source",
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
-      "hash": "874167ac7c12",
-      "in_degree": 20,
-      "out_degree": 21,
+      "hash": "0b6591513791",
+      "in_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -607,7 +608,8 @@
         "intelligence-folding-back-on-itself",
         "climbing-does-not-leave-the-ground",
         "technology-is-residual-of-human-compounding",
-        "boletus-compute-storm-and-promethean-fire"
+        "boletus-compute-storm-and-promethean-fire",
+        "the-digital-god-and-the-horizon-jump"
       ]
     },
     {
@@ -784,9 +786,9 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
-      "hash": "fd9d3cf5c73a",
-      "in_degree": 20,
-      "out_degree": 21,
+      "hash": "71ec41fd221d",
+      "in_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -808,7 +810,8 @@
         "intelligence-folding-back-on-itself",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-price-of-closing-optionality",
-        "abstraction-boundaries-and-the-moving-edge-of-reality"
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "the-digital-god-and-the-horizon-jump"
       ]
     },
     {
@@ -856,7 +859,7 @@
       "path": "content/posts/amplification-paradox.md",
       "title": "The Amplification Paradox",
       "hash": "c479585570bb",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 4,
       "links_out": [
         "the-ramble-within-the-ramble",
@@ -905,7 +908,7 @@
       "path": "content/posts/boletus-compute-storm-and-promethean-fire.md",
       "title": "牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire",
       "hash": "d79e6a76ba8e",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 6,
       "links_out": [
         "a-creation-cannot-replace-its-source",
@@ -999,7 +1002,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "Causality Stays at the Edge That Steers",
       "hash": "74dafb24835c",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 25,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -1208,7 +1211,7 @@
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
       "hash": "d57165a32284",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 27,
       "links_out": [
         "you-cant-benchmark-the-fluid",
@@ -2471,7 +2474,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "b60b674b5303",
-      "in_degree": 65,
+      "in_degree": 66,
       "out_degree": 22,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -4566,7 +4569,7 @@
       "path": "content/posts/the-boundary-crossing-of-choice.md",
       "title": "抉择的跨界 / The Boundary Crossing of Choice",
       "hash": "ea6d59cb7811",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 3,
       "links_out": [
         "the-freedom-of-will-to-deny-itself",
@@ -4906,6 +4909,27 @@
         "the-unclosable-trace",
         "the-only-coherent-uncaused-effect",
         "the-extendable-horizon"
+      ]
+    },
+    {
+      "id": "post:the-digital-god-and-the-horizon-jump",
+      "kind": "post",
+      "slug": "the-digital-god-and-the-horizon-jump",
+      "path": "content/posts/the-digital-god-and-the-horizon-jump.md",
+      "title": "数字神祇与视界跳跃 / The Digital God and the Horizon Jump",
+      "hash": "afd370b0e65a",
+      "in_degree": 3,
+      "out_degree": 9,
+      "links_out": [
+        "closed-reality-in-benchmark-maxing",
+        "agi-and-asi-are-temporary-goalposts",
+        "a-creation-cannot-replace-its-source",
+        "intelligence-belongs-only-to-the-mind",
+        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+        "the-boundary-crossing-of-choice",
+        "causality-stays-at-the-edge-that-steers",
+        "boletus-compute-storm-and-promethean-fire",
+        "amplification-paradox"
       ]
     },
     {
@@ -6826,16 +6850,17 @@
       "slug": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "path": "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md",
       "title": "造神的障眼法与隐秘阶序的说辞 / The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank",
-      "hash": "5394b57d7f8b",
-      "in_degree": 5,
-      "out_degree": 6,
+      "hash": "71946e0f5b68",
+      "in_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-cartesian-overstep-and-the-frenzy-of-creation",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "openness-is-consistency",
         "the-origin-of-god-and-the-flattening-of-we",
         "the-explanatory-trap-of-the-ordinary-perspective",
-        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-digital-god-and-the-horizon-jump"
       ]
     },
     {
@@ -8001,6 +8026,12 @@
       "label": "牛肝菌、算力风暴与普罗米修斯的火"
     },
     {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "The Digital God and the Horizon Jump"
+    },
+    {
       "from": "a-living-external-cortex",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -8647,6 +8678,12 @@
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction, boundaries, and the moving edge of reality"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "The Digital God and the Horizon Jump"
     },
     {
       "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
@@ -20451,6 +20488,114 @@
       "label": "the extendable horizon"
     },
     {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI 与 ASI 是加速演进中不断推移的虚设坐标"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "受造物不可取代其源头"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能单单属于心智"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "造神戏法与未言明的位阶"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "选择的视界跨越"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果始终留在掌舵的边缘"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "boletus-compute-storm-and-promethean-fire",
+      "rel": "points_to",
+      "label": "牛肝菌、算力风暴与普罗米修斯的火"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "amplification-paradox",
+      "rel": "points_to",
+      "label": "放大器悖论"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Synthesizing Gods and Unacknowledged Rank"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "The Boundary Crossing of Choice"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "boletus-compute-storm-and-promethean-fire",
+      "rel": "points_to",
+      "label": "Boletus, the Compute Storm, and Promethean Fire"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "amplification-paradox",
+      "rel": "points_to",
+      "label": "The Amplification Paradox"
+    },
+    {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
@@ -26068,6 +26213,12 @@
     },
     {
       "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "数字神祇与视界跳跃"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "The Explanatory Trap of the \"Ordinary Perspective\""
@@ -26077,6 +26228,12 @@
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "The Digital God and the Horizon Jump"
     },
     {
       "from": "the-source-of-all-harm",
