@@ -403,6 +403,34 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             else:
                 passes.append("Strict language separation in diagrams (pure Chinese in Chinese diagrams, pure English in English diagrams)")
 
+            # Check diagrams attached to corresponding language contents (prevent stacked bilingual diagrams)
+            # Rule: CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram
+            mermaid_matches = list(re.finditer(r'```mermaid\s*\n(.*?)\n```', content, re.DOTALL))
+            stacked_diagram_issues = []
+            for i in range(len(mermaid_matches) - 1):
+                m1, m2 = mermaid_matches[i], mermaid_matches[i+1]
+                m1_zh = bool(re.search(r'[\u4e00-\u9fff]', m1.group(1)))
+                m2_zh = bool(re.search(r'[\u4e00-\u9fff]', m2.group(1)))
+                intervening = content[m1.end():m2.start()].strip()
+                if m1_zh and not m2_zh:
+                    en_words = len(re.findall(r'[a-zA-Z]{2,}', intervening))
+                    if en_words < 15:
+                        stacked_diagram_issues.append(
+                            f"Diagram {i+1} (Chinese) and Diagram {i+2} (English) are stacked consecutively with insufficient intervening English prose ({en_words} words). "
+                            f"Rule: Schematics must not be stacked together. Attach diagrams to corresponding language contents (CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram)."
+                        )
+                elif not m1_zh and m2_zh:
+                    zh_chars = len(re.findall(r'[\u4e00-\u9fff]', intervening))
+                    if zh_chars < 15:
+                        stacked_diagram_issues.append(
+                            f"Diagram {i+1} (English) and Diagram {i+2} (Chinese) are stacked consecutively with insufficient intervening Chinese prose ({zh_chars} chars)."
+                        )
+
+            if stacked_diagram_issues:
+                errors.append(f"Stacked bilingual diagrams detected: {'; '.join(stacked_diagram_issues)}")
+            else:
+                passes.append("Bilingual diagram interleaving check (diagrams attached to corresponding language contents, no stacked diagrams)")
+
         # Strictly vertical layout check (prevent horizontal side-by-side subgraphs)
         horizontal_layout_issues = []
         for idx, block in enumerate(mermaid_blocks, 1):

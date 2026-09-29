@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-29T06:47:02.387Z",
+    "generated_at": "2026-09-29T07:38:40.487Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -321,7 +321,7 @@
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "970d2bd9c8c3",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "15b2e9b8b58b",
       "content/posts/the-unclosable-trace.md": "323441205233",
-      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "70b43c1dfb05",
+      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "3dedb6ebe5ed",
       "content/posts/the-unobservable-driver-of-learning.md": "38f0ecb4cad9",
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "60eb7740bf58",
@@ -360,15 +360,15 @@
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "e4aab029e499",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "ef42796b2862",
       "content/posts/zi-you-de-ce-bu-zhun.md": "32b2df0b732b",
-      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "202c734b6511",
+      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "203dc63091d4",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
       "posts": 354,
-      "edges": 3599,
-      "unique_directed": 3198,
+      "edges": 3598,
+      "unique_directed": 3197,
       "missing_targets": 0,
-      "one_way": 874,
+      "one_way": 875,
       "isolated": 40,
       "posts_with_outbound": 289
     }
@@ -7154,8 +7154,8 @@
       "slug": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "path": "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md",
       "title": "未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence",
-      "hash": "70b43c1dfb05",
-      "in_degree": 3,
+      "hash": "3dedb6ebe5ed",
+      "in_degree": 2,
       "out_degree": 6,
       "links_out": [
         "the-self-portrait-in-the-projection",
@@ -7926,9 +7926,9 @@
       "slug": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "path": "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md",
       "title": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择",
-      "hash": "202c734b6511",
+      "hash": "203dc63091d4",
       "in_degree": 6,
-      "out_degree": 12,
+      "out_degree": 11,
       "links_out": [
         "the-scaffolding-that-keeps-growing",
         "what-information-is",
@@ -7940,8 +7940,7 @@
         "ownership-and-self-worthiness",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
         "po-chu-gai-nian-de-jian-yue",
-        "individual-choices-as-the-only-causal-levers",
-        "the-unfrictioned-mind-and-borrowed-omnipotence"
+        "individual-choices-as-the-only-causal-levers"
       ]
     },
     {
@@ -29515,12 +29514,6 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体选择作为唯一的因果杠杆"
-    },
-    {
-      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
-      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
-      "rel": "points_to",
-      "label": "未历摩擦的心智与借来的全能"
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",
