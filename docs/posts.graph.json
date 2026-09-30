@@ -3,13 +3,13 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-29T07:54:26.475Z",
+    "generated_at": "2026-09-30T06:12:56.771Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
-      "content/posts/a-creation-cannot-replace-its-source.md": "0b6591513791",
+      "content/posts/a-creation-cannot-replace-its-source.md": "00be02a9cdca",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "5c2c317e8efa",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "75ea3ced28ac",
@@ -305,7 +305,7 @@
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
       "content/posts/the-scaffolding-we-forget.md": "3fcc945ba028",
       "content/posts/the-scaling-loop.md": "deedfa49f780",
-      "content/posts/the-self-portrait-in-the-projection.md": "287bd673c1aa",
+      "content/posts/the-self-portrait-in-the-projection.md": "808c89cf0ac1",
       "content/posts/the-shadow-and-the-infinite.md": "900802f5388b",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "4216d0e9136d",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "71946e0f5b68",
@@ -340,6 +340,7 @@
       "content/posts/war-revolution-and-the-fall-of-empires.md": "91addf4a12b9",
       "content/posts/what-always-listens-cannot-originate.md": "618a1622ff7d",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
+      "content/posts/what-hinton-failed-to-understand.md": "b9ec7af00be1",
       "content/posts/what-information-is.md": "5cf8efae167b",
       "content/posts/what-works-is-the-belief.md": "e8877c5d23bf",
       "content/posts/whatever-is-one-prompt-away.md": "4f4272f67a57",
@@ -364,13 +365,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 354,
-      "edges": 3598,
-      "unique_directed": 3197,
+      "posts": 355,
+      "edges": 3607,
+      "unique_directed": 3202,
       "missing_targets": 0,
-      "one_way": 875,
+      "one_way": 876,
       "isolated": 40,
-      "posts_with_outbound": 289
+      "posts_with_outbound": 290
     }
   },
   "hubs_in": [
@@ -587,9 +588,9 @@
       "slug": "a-creation-cannot-replace-its-source",
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
-      "hash": "0b6591513791",
-      "in_degree": 21,
-      "out_degree": 22,
+      "hash": "00be02a9cdca",
+      "in_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -612,7 +613,8 @@
         "climbing-does-not-leave-the-ground",
         "technology-is-residual-of-human-compounding",
         "boletus-compute-storm-and-promethean-fire",
-        "the-digital-god-and-the-horizon-jump"
+        "the-digital-god-and-the-horizon-jump",
+        "what-hinton-failed-to-understand"
       ]
     },
     {
@@ -3136,7 +3138,7 @@
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
       "hash": "71405cfc3c50",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "subtracting-consciousness-at-the-source",
@@ -6842,16 +6844,17 @@
       "slug": "the-self-portrait-in-the-projection",
       "path": "content/posts/the-self-portrait-in-the-projection.md",
       "title": "投射中的自画像 / The Self-Portrait in the Projection",
-      "hash": "287bd673c1aa",
-      "in_degree": 4,
-      "out_degree": 6,
+      "hash": "808c89cf0ac1",
+      "in_degree": 5,
+      "out_degree": 7,
       "links_out": [
         "moral-language-as-projection",
         "empathy-as-projection-collapse",
         "one-cannot-escape-ones-own-mind",
         "the-mind-that-statistics-cannot-reveal",
         "rationality-never-travels-across-the-mind",
-        "the-unfrictioned-mind-and-borrowed-omnipotence"
+        "the-unfrictioned-mind-and-borrowed-omnipotence",
+        "what-hinton-failed-to-understand"
       ]
     },
     {
@@ -7496,6 +7499,21 @@
       ]
     },
     {
+      "id": "post:what-hinton-failed-to-understand",
+      "kind": "post",
+      "slug": "what-hinton-failed-to-understand",
+      "path": "content/posts/what-hinton-failed-to-understand.md",
+      "title": "辛顿未曾理解的心智 / What Hinton Failed to Understand",
+      "hash": "b9ec7af00be1",
+      "in_degree": 2,
+      "out_degree": 3,
+      "links_out": [
+        "a-creation-cannot-replace-its-source",
+        "the-self-portrait-in-the-projection",
+        "one-cannot-escape-ones-own-mind"
+      ]
+    },
+    {
       "id": "post:what-information-is",
       "kind": "post",
       "slug": "what-information-is",
@@ -8094,6 +8112,12 @@
       "to": "the-digital-god-and-the-horizon-jump",
       "rel": "points_to",
       "label": "The Digital God and the Horizon Jump"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "what-hinton-failed-to-understand",
+      "rel": "points_to",
+      "label": "What Hinton Failed to Understand"
     },
     {
       "from": "a-living-external-cortex",
@@ -26277,9 +26301,21 @@
     },
     {
       "from": "the-self-portrait-in-the-projection",
+      "to": "what-hinton-failed-to-understand",
+      "rel": "points_to",
+      "label": "辛顿未曾理解的心智"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
       "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "rel": "points_to",
       "label": "The Unfrictioned Mind and Borrowed Omnipotence"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "what-hinton-failed-to-understand",
+      "rel": "points_to",
+      "label": "What Hinton Failed to Understand"
     },
     {
       "from": "the-shadow-and-the-infinite",
@@ -28302,6 +28338,42 @@
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
       "label": "On closed systems, open minds, and the limits of proof"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "造物的阶序限制"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "the-self-portrait-in-the-projection",
+      "rel": "points_to",
+      "label": "投射中的自画像"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "the-self-portrait-in-the-projection",
+      "rel": "points_to",
+      "label": "The Self-Portrait in the Projection"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
     },
     {
       "from": "what-information-is",
