@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-30T06:22:55.441Z",
+    "generated_at": "2026-09-30T08:21:03.118Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -177,7 +177,7 @@
       "content/posts/sowell-observed-the-surface-problem.md": "38216bcac027",
       "content/posts/stability-and-excess.md": "a439cbed2235",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "ae77b9ede8b3",
-      "content/posts/subtracting-consciousness-at-the-source.md": "53c41ab07082",
+      "content/posts/subtracting-consciousness-at-the-source.md": "a6250d765c85",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "a4c23a576bff",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "ba001bbc15a9",
       "content/posts/technology-is-residual-of-human-compounding.md": "2d2d07f8486b",
@@ -323,6 +323,7 @@
       "content/posts/the-unclosable-trace.md": "323441205233",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "7db0e71deff1",
       "content/posts/the-unobservable-driver-of-learning.md": "38f0ecb4cad9",
+      "content/posts/the-unsubtracted-observer.md": "acd530ba2539",
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "60eb7740bf58",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
@@ -340,7 +341,7 @@
       "content/posts/war-revolution-and-the-fall-of-empires.md": "91addf4a12b9",
       "content/posts/what-always-listens-cannot-originate.md": "618a1622ff7d",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
-      "content/posts/what-hinton-failed-to-understand.md": "b9ec7af00be1",
+      "content/posts/what-hinton-failed-to-understand.md": "c0d53b7c48be",
       "content/posts/what-information-is.md": "5cf8efae167b",
       "content/posts/what-works-is-the-belief.md": "e8877c5d23bf",
       "content/posts/whatever-is-one-prompt-away.md": "4f4272f67a57",
@@ -365,13 +366,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 355,
-      "edges": 3607,
-      "unique_directed": 3202,
+      "posts": 356,
+      "edges": 3627,
+      "unique_directed": 3212,
       "missing_targets": 0,
-      "one_way": 876,
+      "one_way": 882,
       "isolated": 40,
-      "posts_with_outbound": 290
+      "posts_with_outbound": 291
     }
   },
   "hubs_in": [
@@ -381,18 +382,18 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 72
+      "in_degree": 73
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
       "in_degree": 66
     },
     {
-      "slug": "no-system-can-be-kept-closed",
-      "in_degree": 51
+      "slug": "the-scaffolding-we-forget",
+      "in_degree": 52
     },
     {
-      "slug": "the-scaffolding-we-forget",
+      "slug": "no-system-can-be-kept-closed",
       "in_degree": 51
     },
     {
@@ -3243,7 +3244,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
       "hash": "5b3c9a6055a0",
-      "in_degree": 72,
+      "in_degree": 73,
       "out_degree": 43,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -4212,9 +4213,9 @@
       "slug": "subtracting-consciousness-at-the-source",
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
-      "hash": "53c41ab07082",
-      "in_degree": 4,
-      "out_degree": 7,
+      "hash": "a6250d765c85",
+      "in_degree": 5,
+      "out_degree": 8,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "intelligence-belongs-only-to-the-mind",
@@ -4222,7 +4223,8 @@
         "the-perceiver-and-the-trace",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "agency-does-not-arise",
-        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-unsubtracted-observer"
       ]
     },
     {
@@ -4578,7 +4580,7 @@
       "path": "content/posts/the-boundary-crossing-of-choice.md",
       "title": "抉择的跨界 / The Boundary Crossing of Choice",
       "hash": "ea6d59cb7811",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 3,
       "links_out": [
         "the-freedom-of-will-to-deny-itself",
@@ -4868,7 +4870,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "868ab397f06e",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5657,7 +5659,7 @@
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
       "hash": "2413ca14ec54",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 2,
       "links_out": [
         "the-illusion-of-the-unmediated",
@@ -6766,7 +6768,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3fcc945ba028",
-      "in_degree": 51,
+      "in_degree": 52,
       "out_degree": 32,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7099,7 +7101,7 @@
       "path": "content/posts/the-twin-paradox-and-the-hidden-observer.md",
       "title": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer",
       "hash": "970d2bd9c8c3",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -7189,6 +7191,26 @@
         "the-average-is-residue-not-the-engine",
         "the-paradoxical-nature-of-bystander-insights",
         "the-npc-impression-is-structural"
+      ]
+    },
+    {
+      "id": "post:the-unsubtracted-observer",
+      "kind": "post",
+      "slug": "the-unsubtracted-observer",
+      "path": "content/posts/the-unsubtracted-observer.md",
+      "title": "无法减去的观察者 / The Unsubtracted Observer",
+      "hash": "acd530ba2539",
+      "in_degree": 2,
+      "out_degree": 8,
+      "links_out": [
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "the-twin-paradox-and-the-hidden-observer",
+        "subtracting-consciousness-at-the-source",
+        "what-hinton-failed-to-understand",
+        "the-boundary-crossing-of-choice",
+        "the-scaffolding-we-forget",
+        "openness-is-consistency"
       ]
     },
     {
@@ -7504,13 +7526,14 @@
       "slug": "what-hinton-failed-to-understand",
       "path": "content/posts/what-hinton-failed-to-understand.md",
       "title": "辛顿未曾理解的心智 / What Hinton Failed to Understand",
-      "hash": "b9ec7af00be1",
-      "in_degree": 2,
-      "out_degree": 3,
+      "hash": "c0d53b7c48be",
+      "in_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "a-creation-cannot-replace-its-source",
         "the-self-portrait-in-the-projection",
-        "one-cannot-escape-ones-own-mind"
+        "one-cannot-escape-ones-own-mind",
+        "the-unsubtracted-observer"
       ]
     },
     {
@@ -18393,6 +18416,12 @@
     },
     {
       "from": "subtracting-consciousness-at-the-source",
+      "to": "the-unsubtracted-observer",
+      "rel": "points_to",
+      "label": "无法减去的观察者"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
       "to": "agency-does-not-arise",
       "rel": "points_to",
       "label": "Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior"
@@ -18402,6 +18431,12 @@
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences: Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "the-unsubtracted-observer",
+      "rel": "points_to",
+      "label": "The Unsubtracted Observer"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -27488,6 +27523,102 @@
       "label": "The NPC impression is structural"
     },
     {
+      "from": "the-unsubtracted-observer",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的委托与后果的不可让渡"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "协议的倒置与因果回路的沉默"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "双生子佯谬与隐蔽的观察者"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "the-twin-paradox-and-the-hidden-observer"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "在源头处减去意识"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "what-hinton-failed-to-understand",
+      "rel": "points_to",
+      "label": "辛顿未曾理解的心智"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "subtracting-consciousness-at-the-source"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "what-hinton-failed-to-understand",
+      "rel": "points_to",
+      "label": "what-hinton-failed-to-understand"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "选择的界限跨越"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "脚手架"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "the-boundary-crossing-of-choice"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "scaffolding"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-unsubtracted-observer",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "openness-is-consistency"
+    },
+    {
       "from": "the-utility-men-of-progress",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
@@ -28374,6 +28505,18 @@
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "the-unsubtracted-observer",
+      "rel": "points_to",
+      "label": "无法减去的观察者"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "the-unsubtracted-observer",
+      "rel": "points_to",
+      "label": "The Unsubtracted Observer"
     },
     {
       "from": "what-information-is",
