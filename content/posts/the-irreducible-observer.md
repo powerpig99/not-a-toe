@@ -1,4 +1,4 @@
-# 无法减去的观察者 / The Unsubtracted Observer
+# 不可还原的观察者 / The Irreducible Observer
 
 *客观性是主观性的成就，构建排除观察者之理论的心智无法将自身排除。 / Objectivity is an achievement of subjectivity; the consciousness that erases the observer cannot erase itself.*
 
@@ -132,7 +132,7 @@ flowchart TD
             style Invariance fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
         end
 
-        subgraph S_FaceB ["Reverse: The Unsubtracted Subject"]
+        subgraph S_FaceB ["Reverse: The Irreducible Subject"]
             direction TB
             style S_FaceB fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
             Observer["Embodied Mind Executing Derivation"]
