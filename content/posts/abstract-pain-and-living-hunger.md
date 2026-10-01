@@ -134,7 +134,75 @@ flowchart TD
     style A3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-## 三、 语言的扁平性与道德套利的特权 / 3. The Flatness of Language and the Privilege of Moral Arbitrage
+## 三、 排他性竞价、因果错置与嫉妒的生成 / 3. Rivalrous Bidding, Causal Misplacement, and the Anatomy of Envy
+
+将银行账户的推演进一步深化，我们会发现他人账户中的资金不仅无法与本人账户等价，在微观心理学中它的符号甚至常常是相反的。这种现象构成了大众普遍仇富的深层心理机制。货币不仅是内部记账的代数符号，更是参与稀缺物理要素拍卖的竞价入场券。在有限的物理时空中，关键性的生存空间、不可再生的自然地貌、顶尖医生的精力以及关键维度的决策权，具有不容妥协的排他性。当他人账户中的数字呈指数级激增时，即便个体自身的储蓄没有减少，外部有限资源的清算门槛也被同向抬高了。在争夺排他性生存机会的相对维度上，他人拥有更多，意味着后来者的选择视界被真实地压缩了。
+
+Deepening the bank account analogy reveals that capital residing in an external ledger is not merely non-equivalent to one's own; within micro-psychology, its experienced valuation is frequently inverted into a negative sign. This dynamic constitutes the deep psychological genesis of widespread resentment toward the rich. Money functions not merely as an algebraic counter, but as an auction ticket competing for rivalrous physical goods. In a world of finite matter and energy, prime living space, irreplaceable natural geography, the finite clinical hours of master surgeons, and positional authority remain fiercely rivalrous. When an external balance sheet multiplies exponentially, even if an individual's personal savings remain unchanged, the market clearing threshold for finite resources escalates accordingly. In the relative contest for rivalrous opportunities, an external surplus directly narrows the possibility horizon available to the outbid.
+
+然而，如果就此将这种敌意直接合理化，便同样落入了认识论的陷阱。仇富在心智结构中属于典型的心理运作，虽然它拥有上述客观竞价挤压的生成背景，但这种心理机制恰恰是第一人称因果错置的产物。在同一道德语境下，“仇富”最准确的命名就是“嫉妒”。公众舆论习惯于玩弄双重标准，把私领域的嫉妒定性为阴暗偏狭的品性缺陷，而将公领域的仇富粉饰为具有正义光环的批判抗争；这种割裂无非是用两个不同的道德背景来为同一种心智病灶进行修辞洗白。嫉妒的发生，在于主体把外部世界无意志的客观环境参数，误认为了阻碍自身能动性的意图主体。
+
+```mermaid
+flowchart TD
+    subgraph S_Reality ["有限物理世界：排他性竞价参数"]
+        direction TB
+        R1["排他性生存资源：稀缺空间与医疗精力"]
+        R2["相对出价挤压：外部高额账户推高清算门槛"]
+        R3["客观环境约束：无意志的外部物理参数"]
+    end
+    subgraph S_Inversion ["心智回路错置：嫉妒与能动性外包"]
+        direction TB
+        I1["外部归因：将自身相对局限归罪于他者存折"]
+        I2["放弃自我舵盘：用外部镜像定义自身匮乏"]
+        I3["虚妄代偿：寄希望于他者毁灭的被动仇恨"]
+    end
+    R1 --> R2 --> R3
+    I1 --> I2 --> I3
+    R3 ===>|"因果错置：将客观参数误认为伤害主体"| I1
+    style S_Reality fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style R1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style R2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R3 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+Yet attempting to legitimize this resentment on structural grounds succumbs to an equal and opposite epistemic trap. Resentment of wealth operates as a psychological reaction, and although it arises against the backdrop of real auction displacement, the mechanism itself remains the precise outcome of a first-person causal misplacement. Within a consistent ethical and psychological vocabulary, "resentment of wealth" is identical to "envy". Public discourse frequently indulges in a hypocritical double standard, condemning private envy as a petty character flaw while canonizing public resentment of the wealthy as righteous resistance; such bifurcation is an intellectual sleight of hand switching moral frameworks to sanitize a single psychological dynamic. Envy ignites when a conscious mind confuses an indifferent external parameter with an active agent intentionally inflicting injury.
+
+```mermaid
+flowchart TD
+    subgraph S_Reality ["Finite Physical World: Rivalrous Auction Parameters"]
+        direction TB
+        R1["Rivalrous Positional Goods: Scarce Space and Critical Care"]
+        R2["Relative Auction Squeeze: High Balances Raising Clearing Prices"]
+        R3["Environmental Constraint: Indifferent External Parameter"]
+    end
+    subgraph S_Inversion ["Cognitive Misplacement: Envy and Externalized Agency"]
+        direction TB
+        I1["External Attribution: Blaming Foreign Ledger for Situated Limits"]
+        I2["Abandoning the Helm: Defining Personal Deficit via External Mirrors"]
+        I3["Phantom Compensation: Hostile Resentment Craving Destructive Relief"]
+    end
+    R1 --> R2 --> R3
+    I1 --> I2 --> I3
+    R3 ===>|"Causal Inversion: Mistaking Condition for Active Agent"| I1
+    style S_Reality fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style R1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style R2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R3 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+当主体陷入这种心智回路时，他已经松开了自身第一人称的舵盘。他不再依据自身肉体的真实饥渴、局部的物理摩擦与眼前的行动支点去校准因果，而是将视线钉死在他人的仪表盘上，用外部账本的厚度来衡量自身的尊严与匮乏。他将自身行动力受阻的原因外包给外部的存折，并演化出一种虚妄的代偿预期，误以为只要那个富有的他者跌落神坛，自身的生存困局就能迎刃而解。然而在物理因果中，他人的瓦解并不会自动增加自身的负熵产出。正如在 [同理心的能力反转与边界争夺](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/) 中所剖析的，任何将内部无力感外化为对他者敌意的心理机制，都是第一人称放弃自我承担后的因果错置，它不仅无法突破外部参数的约束，反而让主体沦为了外部账本的寄生者。
+
+When an agent enters this cognitive trap, they have released the steering wheel of their own first-person agency. Instead of calibrating choices against their own metabolic needs, localized friction, and actionable levers, they fixate on another person's dashboard, measuring personal worth and scarcity against an external ledger. They externalize the root of their limitations onto a foreign bank balance, indulging in the phantom expectation that bringing down the wealthy will miraculously expand their own vitality. In the physics of living existence, the destruction of an external balance sheet creates zero negative entropy within one's own organism. As dissected in [The Capability Reversal of Empathy and the Contest of Boundaries](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/), any psychological mechanism that externalizes internal impotence into hostility toward an external coordinate is an abdication of sovereign accountability; it fails to alter physical constraints, reducing the envious mind to a parasite orbiting an alien ledger.
+
+## 四、 语言的扁平性与道德套利的特权 / 4. The Flatness of Language and the Privilege of Moral Arbitrage
 
 这一认知混淆之所以在日常论辩中极具迷惑性并难以破除，首先源于人类语言介质的均质化特征。在纸张与显示屏上，“大洋彼岸忍饥挨饿的群体”与“身旁摔倒骨折的同伴”，占用的字节数与发音音节并无天壤之别，符号工具天然抹平了在场与缺席之间的鸿沟。由于人类心智无法直接触及那些跨越地理尺度的真实实体，一切比较活动被迫在抽象模型的平面上展开，而语言的同质性恰恰掩盖了存在状态的剧烈差异。当这套工具被涂抹上道德油彩时，任何指出“远方的符号并非真实遭遇”的澄清尝试，都会立刻遭到诛心式的反扑，被扣上冷血、麻木与道德缺陷的恶名。
 

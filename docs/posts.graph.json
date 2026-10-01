@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-01T06:49:04.304Z",
+    "generated_at": "2026-10-01T07:32:36.860Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -12,7 +12,7 @@
       "content/posts/a-creation-cannot-replace-its-source.md": "00be02a9cdca",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "5c2c317e8efa",
-      "content/posts/abstract-pain-and-living-hunger.md": "bf6823e3f2cd",
+      "content/posts/abstract-pain-and-living-hunger.md": "9931f7211ff5",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "75ea3ced28ac",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "15737ab87ae6",
@@ -369,10 +369,10 @@
     },
     "stats": {
       "posts": 358,
-      "edges": 3645,
-      "unique_directed": 3221,
+      "edges": 3647,
+      "unique_directed": 3222,
       "missing_targets": 0,
-      "one_way": 887,
+      "one_way": 888,
       "isolated": 40,
       "posts_with_outbound": 293
     }
@@ -658,13 +658,14 @@
       "slug": "abstract-pain-and-living-hunger",
       "path": "content/posts/abstract-pain-and-living-hunger.md",
       "title": "抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger",
-      "hash": "bf6823e3f2cd",
+      "hash": "9931f7211ff5",
       "in_degree": 1,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-ledger-of-the-unencountered",
         "the-arithmetic-of-the-register",
         "agency-relocated-into-the-formal-model",
+        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
         "the-irreducible-observer"
       ]
     },
@@ -4650,7 +4651,7 @@
       "path": "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md",
       "title": "共情的能力倒错与边界的排序之争 / The Capability Reversal of Empathy and the Contest of Boundaries",
       "hash": "fa7c6495859f",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 7,
       "links_out": [
         "the-asymmetry-of-understanding",
@@ -8260,6 +8261,18 @@
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
       "label": "Agency Relocated into the Formal Model"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "rel": "points_to",
+      "label": "同理心的能力反转与边界争夺"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "rel": "points_to",
+      "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
     },
     {
       "from": "abstract-pain-and-living-hunger",
