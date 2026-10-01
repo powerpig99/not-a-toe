@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-09-30T08:46:56.984Z",
+    "generated_at": "2026-10-01T05:26:41.363Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -250,10 +250,11 @@
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2413ca14ec54",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "08233385869e",
-      "content/posts/the-irreducible-observer.md": "4f4b1c4fc3ff",
+      "content/posts/the-irreducible-observer.md": "0ed16cc32352",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "d8ad12abb11d",
+      "content/posts/the-ledger-of-the-unencountered.md": "3c400830b774",
       "content/posts/the-limitation-is-doing-work.md": "f988dff59391",
       "content/posts/the-living-context.md": "802b03eb6a18",
       "content/posts/the-local-trap-of-technological-change.md": "28ac55a33297",
@@ -366,13 +367,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 356,
-      "edges": 3627,
-      "unique_directed": 3212,
+      "posts": 357,
+      "edges": 3635,
+      "unique_directed": 3216,
       "missing_targets": 0,
-      "one_way": 882,
+      "one_way": 884,
       "isolated": 40,
-      "posts_with_outbound": 291
+      "posts_with_outbound": 292
     }
   },
   "hubs_in": [
@@ -761,7 +762,7 @@
       "path": "content/posts/agency-relocated-into-the-formal-model.md",
       "title": "Agency Relocated into the Formal Model",
       "hash": "86d69a48a123",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -5659,7 +5660,7 @@
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
       "hash": "2413ca14ec54",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 2,
       "links_out": [
         "the-illusion-of-the-unmediated",
@@ -5703,9 +5704,9 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "4f4b1c4fc3ff",
-      "in_degree": 2,
-      "out_degree": 8,
+      "hash": "0ed16cc32352",
+      "in_degree": 3,
+      "out_degree": 9,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -5714,7 +5715,8 @@
         "what-hinton-failed-to-understand",
         "the-boundary-crossing-of-choice",
         "the-scaffolding-we-forget",
-        "openness-is-consistency"
+        "openness-is-consistency",
+        "the-ledger-of-the-unencountered"
       ]
     },
     {
@@ -5770,6 +5772,21 @@
         "the-model-never-becomes-a-second-edge",
         "mistaking-the-expression-for-the-intelligence",
         "technology-is-residual-of-human-compounding"
+      ]
+    },
+    {
+      "id": "post:the-ledger-of-the-unencountered",
+      "kind": "post",
+      "slug": "the-ledger-of-the-unencountered",
+      "path": "content/posts/the-ledger-of-the-unencountered.md",
+      "title": "未被遭遇之物的账本 / The Ledger of the Unencountered",
+      "hash": "3c400830b774",
+      "in_degree": 1,
+      "out_degree": 3,
+      "links_out": [
+        "the-irreducible-observer",
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "agency-relocated-into-the-formal-model"
       ]
     },
     {
@@ -23024,9 +23041,21 @@
     },
     {
       "from": "the-irreducible-observer",
+      "to": "the-ledger-of-the-unencountered",
+      "rel": "points_to",
+      "label": "未被遭遇之物的账本"
+    },
+    {
+      "from": "the-irreducible-observer",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "openness-is-consistency"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "the-ledger-of-the-unencountered",
+      "rel": "points_to",
+      "label": "the-ledger-of-the-unencountered"
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
@@ -23189,6 +23218,42 @@
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
       "label": "Technology is Residual of Human Compounding"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "the-irreducible-observer"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "协议的倒置与因果回路的沉默"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "Agency Relocated into the Formal Model"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "Agency Relocated into the Formal Model"
     },
     {
       "from": "the-limitation-is-doing-work",
