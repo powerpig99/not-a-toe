@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-01T07:32:36.860Z",
+    "generated_at": "2026-10-01T12:18:38.215Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -196,6 +196,7 @@
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "fa7c6495859f",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "be7b032ccd86",
+      "content/posts/the-category-error-of-better.md": "3b8f74916f67",
       "content/posts/the-causal-inversion-of-partnership.md": "91c09f2f860e",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -251,11 +252,11 @@
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2413ca14ec54",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "08233385869e",
-      "content/posts/the-irreducible-observer.md": "0ed16cc32352",
+      "content/posts/the-irreducible-observer.md": "6f701b53d6fa",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "d8ad12abb11d",
-      "content/posts/the-ledger-of-the-unencountered.md": "8edccdebba2b",
+      "content/posts/the-ledger-of-the-unencountered.md": "2d5aac97f1b0",
       "content/posts/the-limitation-is-doing-work.md": "f988dff59391",
       "content/posts/the-living-context.md": "802b03eb6a18",
       "content/posts/the-local-trap-of-technological-change.md": "28ac55a33297",
@@ -368,13 +369,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 358,
-      "edges": 3647,
-      "unique_directed": 3222,
+      "posts": 359,
+      "edges": 3665,
+      "unique_directed": 3231,
       "missing_targets": 0,
-      "one_way": 888,
+      "one_way": 893,
       "isolated": 40,
-      "posts_with_outbound": 293
+      "posts_with_outbound": 294
     }
   },
   "hubs_in": [
@@ -392,7 +393,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 52
+      "in_degree": 53
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -408,11 +409,11 @@
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 38
+      "in_degree": 39
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 34
+      "in_degree": 35
     },
     {
       "slug": "causality-all-the-way",
@@ -2002,7 +2003,7 @@
       "path": "content/posts/fidelity-not-optimality.md",
       "title": "Fidelity, Not Optimality",
       "hash": "247cc481c58e",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 2,
       "links_out": [
         "minimizing-path",
@@ -4379,7 +4380,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
       "hash": "40eabf5459d5",
-      "in_degree": 38,
+      "in_degree": 39,
       "out_degree": 23,
       "links_out": [
         "order-surplus-and-the-moral-intercept",
@@ -4687,6 +4688,25 @@
       ]
     },
     {
+      "id": "post:the-category-error-of-better",
+      "kind": "post",
+      "slug": "the-category-error-of-better",
+      "path": "content/posts/the-category-error-of-better.md",
+      "title": "「更好」的范畴谬误 / The Category Error of Better",
+      "hash": "3b8f74916f67",
+      "in_degree": 2,
+      "out_degree": 7,
+      "links_out": [
+        "the-irreducible-observer",
+        "the-allocation-of-causal-power-in-validation",
+        "the-scaffolding-we-forget",
+        "the-model-never-becomes-a-second-edge",
+        "fidelity-not-optimality",
+        "the-ledger-of-the-unencountered",
+        "the-coordinators-category-error"
+      ]
+    },
+    {
       "id": "post:the-causal-inversion-of-partnership",
       "kind": "post",
       "slug": "the-causal-inversion-of-partnership",
@@ -4850,7 +4870,7 @@
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "The Coordinator’s Category Error",
       "hash": "146a9a84aaf3",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 16,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -5722,9 +5742,9 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "0ed16cc32352",
-      "in_degree": 4,
-      "out_degree": 9,
+      "hash": "6f701b53d6fa",
+      "in_degree": 5,
+      "out_degree": 10,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -5734,7 +5754,8 @@
         "the-boundary-crossing-of-choice",
         "the-scaffolding-we-forget",
         "openness-is-consistency",
-        "the-ledger-of-the-unencountered"
+        "the-ledger-of-the-unencountered",
+        "the-category-error-of-better"
       ]
     },
     {
@@ -5798,12 +5819,13 @@
       "slug": "the-ledger-of-the-unencountered",
       "path": "content/posts/the-ledger-of-the-unencountered.md",
       "title": "未被遭遇之物的账本 / The Ledger of the Unencountered",
-      "hash": "8edccdebba2b",
-      "in_degree": 2,
-      "out_degree": 4,
+      "hash": "2d5aac97f1b0",
+      "in_degree": 3,
+      "out_degree": 5,
       "links_out": [
         "the-irreducible-observer",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "the-category-error-of-better",
         "agency-relocated-into-the-formal-model",
         "abstract-pain-and-living-hunger"
       ]
@@ -6067,7 +6089,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "6dec2cdef8ae",
-      "in_degree": 34,
+      "in_degree": 35,
       "out_degree": 33,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -6824,7 +6846,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3fcc945ba028",
-      "in_degree": 52,
+      "in_degree": 53,
       "out_degree": 32,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -19933,6 +19955,90 @@
       "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
     },
     {
+      "from": "the-category-error-of-better",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "The Irreducible Observer"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "被遗忘的脚手架"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永不成第二锋刃"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "fidelity-not-optimality",
+      "rel": "points_to",
+      "label": "保真度而非最优化"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "fidelity-not-optimality",
+      "rel": "points_to",
+      "label": "Fidelity, Not Optimality"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-ledger-of-the-unencountered",
+      "rel": "points_to",
+      "label": "未被遭遇之物的账本"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-ledger-of-the-unencountered",
+      "rel": "points_to",
+      "label": "The Ledger of the Unencountered"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "协调者的范畴谬误"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The Coordinator's Category Error"
+    },
+    {
       "from": "the-causal-inversion-of-partnership",
       "to": "choice-itself-has-no-inherent-weight",
       "rel": "points_to",
@@ -23126,6 +23232,12 @@
     },
     {
       "from": "the-irreducible-observer",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "「更好」的范畴谬误"
+    },
+    {
+      "from": "the-irreducible-observer",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "openness-is-consistency"
@@ -23135,6 +23247,12 @@
       "to": "the-ledger-of-the-unencountered",
       "rel": "points_to",
       "label": "the-ledger-of-the-unencountered"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "The Category Error of Better"
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
@@ -23321,6 +23439,18 @@
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
       "label": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "「更好」的范畴谬误"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "The Category Error of Better"
     },
     {
       "from": "the-ledger-of-the-unencountered",
