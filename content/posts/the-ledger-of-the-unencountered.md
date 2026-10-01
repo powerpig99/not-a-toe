@@ -117,9 +117,9 @@ flowchart TD
     StandingMandate --> CoerciveFrame
 ```
 
-援引“互为主体性”或“重叠视域”并不能突破第一人称的边界。一致的共识、他人的证词以及标准化的测量刻度，其本身仍然必须在某个第一人称视域中被感知。你听到同伴的纠正，你看到测量仪表上的指针读数，你感受到预期落空带来的张力。并不存在一个超脱于所有视域之外的超然视角，在宇宙高处俯瞰两个心智的视域并为其重合盖章认证。称某种重合为互为主体性，只是命名了一种依然依赖于视角显现的现象，并没有设立第三个无人居住的宇宙法庭。
+援引“互为主体性”或“重叠视域”并不能突破第一人称的边界。一致的共识、他人的证词以及标准化的测量刻度，其本身仍然必须在某个第一人称视域中被感知。你听到同伴的纠正，你看到测量仪表上的指针读数，你感受到预期落空带来的张力。并不存在一个超脱于所有视域之外的超然视角，在宇宙高处俯瞰两个心智的视域并为其重合盖章认证。称某种重合为互为主体性，只是命名了一种依然依赖于视角显现的现象，并没有设立第三个无人居住的宇宙法庭。将测量刻度剥离观察者心智、错认为客观事实的企图，正如在[「更好」的范畴谬误](../the-category-error-of-better/)中所辨明的，只会导致决策者在遭遇异质认知时将自身的测量盲区防御性地归咎于外界的非理性。
 
-Invoking "intersubjectivity" or "overlapping horizons" does not escape the inescapable horizon of the first person. Agreement, external testimony, and shared measurement apparatuses are themselves perceived phenomena inside particular minds. You hear the colleague's correction, you read the calibrated pointer on the dial, and you feel the cognitive friction of an unmet expectation. There is no disembodied, extra-perspectival vantage point surveying two independent consciousnesses from above and verifying their coincidence. Calling an experiential convergence intersubjective simply labels an occurrence that remains perspectival; it does not erect an empty, unpeopled tribunal in the sky.
+Invoking "intersubjectivity" or "overlapping horizons" does not escape the inescapable horizon of the first person. Agreement, external testimony, and shared measurement apparatuses are themselves perceived phenomena inside particular minds. You hear the colleague's correction, you read the calibrated pointer on the dial, and you feel the cognitive friction of an unmet expectation. There is no disembodied, extra-perspectival vantage point surveying two independent consciousnesses from above and verifying their coincidence. Calling an experiential convergence intersubjective simply labels an occurrence that remains perspectival; it does not erect an empty, unpeopled tribunal in the sky. The attempt to sever calibrated scales from observing minds and reify them into objective facts, as identified in [The Category Error of Better](../the-category-error-of-better/), merely causes decision-makers to defensively project their own measurement blind spots onto the perceived irrationality of the external world.
 
 ```mermaid
 flowchart TD
