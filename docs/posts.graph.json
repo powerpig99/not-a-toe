@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-01T05:46:39.651Z",
+    "generated_at": "2026-10-01T06:49:04.304Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -12,6 +12,7 @@
       "content/posts/a-creation-cannot-replace-its-source.md": "00be02a9cdca",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "5c2c317e8efa",
+      "content/posts/abstract-pain-and-living-hunger.md": "bf6823e3f2cd",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "75ea3ced28ac",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "15737ab87ae6",
@@ -254,7 +255,7 @@
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "d8ad12abb11d",
-      "content/posts/the-ledger-of-the-unencountered.md": "d96a29d2d60d",
+      "content/posts/the-ledger-of-the-unencountered.md": "8edccdebba2b",
       "content/posts/the-limitation-is-doing-work.md": "f988dff59391",
       "content/posts/the-living-context.md": "802b03eb6a18",
       "content/posts/the-local-trap-of-technological-change.md": "28ac55a33297",
@@ -367,13 +368,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 357,
-      "edges": 3635,
-      "unique_directed": 3216,
+      "posts": 358,
+      "edges": 3645,
+      "unique_directed": 3221,
       "missing_targets": 0,
-      "one_way": 884,
+      "one_way": 887,
       "isolated": 40,
-      "posts_with_outbound": 292
+      "posts_with_outbound": 293
     }
   },
   "hubs_in": [
@@ -652,6 +653,22 @@
       ]
     },
     {
+      "id": "post:abstract-pain-and-living-hunger",
+      "kind": "post",
+      "slug": "abstract-pain-and-living-hunger",
+      "path": "content/posts/abstract-pain-and-living-hunger.md",
+      "title": "抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger",
+      "hash": "bf6823e3f2cd",
+      "in_degree": 1,
+      "out_degree": 4,
+      "links_out": [
+        "the-ledger-of-the-unencountered",
+        "the-arithmetic-of-the-register",
+        "agency-relocated-into-the-formal-model",
+        "the-irreducible-observer"
+      ]
+    },
+    {
       "id": "post:abstraction-boundaries-and-the-moving-edge-of-reality",
       "kind": "post",
       "slug": "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -762,7 +779,7 @@
       "path": "content/posts/agency-relocated-into-the-formal-model.md",
       "title": "Agency Relocated into the Formal Model",
       "hash": "86d69a48a123",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 9,
       "links_out": [
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -4396,7 +4413,7 @@
       "path": "content/posts/the-arithmetic-of-the-register.md",
       "title": "The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field",
       "hash": "80aad6ff0d48",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "dimensions-are-projections",
@@ -5705,7 +5722,7 @@
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
       "hash": "0ed16cc32352",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 9,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -5780,13 +5797,14 @@
       "slug": "the-ledger-of-the-unencountered",
       "path": "content/posts/the-ledger-of-the-unencountered.md",
       "title": "未被遭遇之物的账本 / The Ledger of the Unencountered",
-      "hash": "d96a29d2d60d",
-      "in_degree": 1,
-      "out_degree": 3,
+      "hash": "8edccdebba2b",
+      "in_degree": 2,
+      "out_degree": 4,
       "links_out": [
         "the-irreducible-observer",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
-        "agency-relocated-into-the-formal-model"
+        "agency-relocated-into-the-formal-model",
+        "abstract-pain-and-living-hunger"
       ]
     },
     {
@@ -8206,6 +8224,54 @@
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
       "label": "The rational choice postulate is the original sin"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "the-ledger-of-the-unencountered",
+      "rel": "points_to",
+      "label": "未被遭遇之物的账本"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "the-ledger-of-the-unencountered",
+      "rel": "points_to",
+      "label": "The Ledger of the Unencountered"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "寄存器的算术"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "The Arithmetic of the Register"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "能动性被置换入形式模型"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "Agency Relocated into the Formal Model"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "The Irreducible Observer"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -23254,6 +23320,18 @@
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
       "label": "Agency Relocated into the Formal Model"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "abstract-pain-and-living-hunger",
+      "rel": "points_to",
+      "label": "抽象的苦难与真实的饥饿"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "abstract-pain-and-living-hunger",
+      "rel": "points_to",
+      "label": "Abstract Pain and Living Hunger"
     },
     {
       "from": "the-limitation-is-doing-work",
