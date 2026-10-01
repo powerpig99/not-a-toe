@@ -148,7 +148,7 @@ flowchart TD
     StandingMandate --> CoerciveFrame
 ```
 
-这一认识论边界同样划定了科学的有效范围。正如在[Agency Relocated into the Formal Model](../agency-relocated-into-the-formal-model/)中所指出的，形式模型的建构始于对生活经验中协变规律的严谨提炼，只有在其持续向主体的具体观察负责时，模型才是有益的认知手杖。然而，当科学主义将形式模型宣布为独一的本体论事实，并将人类的原初感知贬斥为主观幻觉时，科学便亲手拆毁了孕育其自身的根基。凡是无法在任何第一人称视域中被复现与经验的事物，就没有任何主体有权声称其存在，因为宇宙中不存在第二种能够做出声明的实体。视角的不可逃避性并非客观认知上的残疾，而是任何事物得以对某人存在的原初地平。
+这一认识论边界同样划定了科学的有效范围。正如在[能动性被置换入形式模型](../agency-relocated-into-the-formal-model/)中所指出的，形式模型的建构始于对生活经验中协变规律的严谨提炼，只有在其持续向主体的具体观察负责时，模型才是有益的认知手杖。然而，当科学主义将形式模型宣布为独一的本体论事实，并将人类的原初感知贬斥为主观幻觉时，科学便亲手拆毁了孕育其自身的根基。凡是无法在任何第一人称视域中被复现与经验的事物，就没有任何主体有权声称其存在，因为宇宙中不存在第二种能够做出声明的实体。视角的不可逃避性并非客观认知上的残疾，而是任何事物得以对某人存在的原初地平。
 
 This epistemic boundary circumscribes the validity of empirical science as well. As articulated in [Agency Relocated into the Formal Model](../agency-relocated-into-the-formal-model/), formal modeling begins as disciplined inference from lived regularities, remaining valid only while answerable to what conscious observers actually register. When scientism proclaims the mathematical model to be the sole objective reality and dismisses immediate perception as neural illusion, science demolishes the very ground that made observation possible. What cannot be recovered from within any first-person field cannot be claimed by anyone, because there exists no other category of claimant. The inescapability of perspective is not a defect marring an otherwise accessible absolute reality; it is the boundary condition of what can be said to exist for anyone.
 

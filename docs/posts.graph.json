@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-01T05:26:41.363Z",
+    "generated_at": "2026-10-01T05:46:39.651Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -254,7 +254,7 @@
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "d8ad12abb11d",
-      "content/posts/the-ledger-of-the-unencountered.md": "3c400830b774",
+      "content/posts/the-ledger-of-the-unencountered.md": "d96a29d2d60d",
       "content/posts/the-limitation-is-doing-work.md": "f988dff59391",
       "content/posts/the-living-context.md": "802b03eb6a18",
       "content/posts/the-local-trap-of-technological-change.md": "28ac55a33297",
@@ -5780,7 +5780,7 @@
       "slug": "the-ledger-of-the-unencountered",
       "path": "content/posts/the-ledger-of-the-unencountered.md",
       "title": "未被遭遇之物的账本 / The Ledger of the Unencountered",
-      "hash": "3c400830b774",
+      "hash": "d96a29d2d60d",
       "in_degree": 1,
       "out_degree": 3,
       "links_out": [
@@ -23247,7 +23247,7 @@
       "from": "the-ledger-of-the-unencountered",
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
-      "label": "Agency Relocated into the Formal Model"
+      "label": "能动性被置换入形式模型"
     },
     {
       "from": "the-ledger-of-the-unencountered",
