@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-01T12:18:38.215Z",
+    "generated_at": "2026-10-02T07:47:15.018Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -172,6 +172,7 @@
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "b25f1b49b6e0",
       "content/posts/shared-humanity-is-never-shared.md": "22c1be7732c9",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "53f39dbc81b8",
+      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "ecf930ce36fc",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "595bc1450ee1",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
@@ -196,7 +197,7 @@
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "fa7c6495859f",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "be7b032ccd86",
-      "content/posts/the-category-error-of-better.md": "3b8f74916f67",
+      "content/posts/the-category-error-of-better.md": "65a3763610f8",
       "content/posts/the-causal-inversion-of-partnership.md": "91c09f2f860e",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -211,7 +212,7 @@
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "868ab397f06e",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "680cb9af2f4f",
-      "content/posts/the-digital-god-and-the-horizon-jump.md": "fe1c01f5ba81",
+      "content/posts/the-digital-god-and-the-horizon-jump.md": "e86ad1bf219f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
       "content/posts/the-discount-on-agency.md": "74e3cfe763fc",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
@@ -369,13 +370,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 359,
-      "edges": 3665,
-      "unique_directed": 3231,
+      "posts": 360,
+      "edges": 3681,
+      "unique_directed": 3239,
       "missing_targets": 0,
-      "one_way": 893,
+      "one_way": 897,
       "isolated": 40,
-      "posts_with_outbound": 294
+      "posts_with_outbound": 295
     }
   },
   "hubs_in": [
@@ -4111,6 +4112,24 @@
       ]
     },
     {
+      "id": "post:silicon-oracles-and-the-asymmetry-of-consequence",
+      "kind": "post",
+      "slug": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "path": "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md",
+      "title": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence",
+      "hash": "ecf930ce36fc",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "the-category-error-of-better",
+        "the-sovereign-blinding",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-irreducible-observer",
+        "the-digital-god-and-the-horizon-jump",
+        "the-limitation-is-doing-work"
+      ]
+    },
+    {
       "id": "post:simplicity-ultimate-sophistication",
       "kind": "post",
       "slug": "simplicity-ultimate-sophistication",
@@ -4693,9 +4712,9 @@
       "slug": "the-category-error-of-better",
       "path": "content/posts/the-category-error-of-better.md",
       "title": "「更好」的范畴谬误 / The Category Error of Better",
-      "hash": "3b8f74916f67",
-      "in_degree": 2,
-      "out_degree": 7,
+      "hash": "65a3763610f8",
+      "in_degree": 3,
+      "out_degree": 8,
       "links_out": [
         "the-irreducible-observer",
         "the-allocation-of-causal-power-in-validation",
@@ -4703,7 +4722,8 @@
         "the-model-never-becomes-a-second-edge",
         "fidelity-not-optimality",
         "the-ledger-of-the-unencountered",
-        "the-coordinators-category-error"
+        "the-coordinators-category-error",
+        "silicon-oracles-and-the-asymmetry-of-consequence"
       ]
     },
     {
@@ -4909,7 +4929,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "868ab397f06e",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4967,9 +4987,9 @@
       "slug": "the-digital-god-and-the-horizon-jump",
       "path": "content/posts/the-digital-god-and-the-horizon-jump.md",
       "title": "数字神祇与视界跳跃 / The Digital God and the Horizon Jump",
-      "hash": "fe1c01f5ba81",
-      "in_degree": 4,
-      "out_degree": 10,
+      "hash": "e86ad1bf219f",
+      "in_degree": 5,
+      "out_degree": 11,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
@@ -4980,7 +5000,8 @@
         "causality-stays-at-the-edge-that-steers",
         "boletus-compute-storm-and-promethean-fire",
         "amplification-paradox",
-        "the-discount-on-agency"
+        "the-discount-on-agency",
+        "silicon-oracles-and-the-asymmetry-of-consequence"
       ]
     },
     {
@@ -5743,7 +5764,7 @@
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
       "hash": "6f701b53d6fa",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 10,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -5837,7 +5858,7 @@
       "path": "content/posts/the-limitation-is-doing-work.md",
       "title": "The Limitation Is Doing Work",
       "hash": "f988dff59391",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 1,
       "links_out": [
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern"
@@ -7066,7 +7087,7 @@
       "path": "content/posts/the-sovereign-blinding.md",
       "title": "自愿的致盲 / The Sovereign Blinding",
       "hash": "888e3fbe6aee",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 1,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second"
@@ -18179,6 +18200,78 @@
       "label": "关于归因：从事实到因果，从外部节点到内部迭代"
     },
     {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "「更好」的范畴谬误"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "The Category Error of Better"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-sovereign-blinding",
+      "rel": "points_to",
+      "label": "主权的自盲"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的委派与后果的不可让渡性"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-sovereign-blinding",
+      "rel": "points_to",
+      "label": "The Sovereign Blinding"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可化约的观察者"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "数字上帝与视界跃迁"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "The Irreducible Observer"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "The Digital God and the Horizon Jump"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-limitation-is-doing-work",
+      "rel": "points_to",
+      "label": "限制正在做功"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-limitation-is-doing-work",
+      "rel": "points_to",
+      "label": "The Limitation is Doing Work"
+    },
+    {
       "from": "sovereignty-belief-and-regulatory-structures",
       "to": "hassabis-frontier-agi-premise",
       "rel": "points_to",
@@ -20034,9 +20127,21 @@
     },
     {
       "from": "the-category-error-of-better",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
+    },
+    {
+      "from": "the-category-error-of-better",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The Coordinator's Category Error"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "Silicon Oracles and the Asymmetry of Consequence"
     },
     {
       "from": "the-causal-inversion-of-partnership",
@@ -20958,9 +21063,21 @@
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
       "to": "the-discount-on-agency",
       "rel": "points_to",
       "label": "The Discount on Agency"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "Silicon Oracles and the Asymmetry of Consequence"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
