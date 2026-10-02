@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-02T07:47:15.018Z",
+    "generated_at": "2026-10-02T15:15:46.452Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -172,7 +172,7 @@
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "b25f1b49b6e0",
       "content/posts/shared-humanity-is-never-shared.md": "22c1be7732c9",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "53f39dbc81b8",
-      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "ecf930ce36fc",
+      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "fad9fbe8eaef",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "595bc1450ee1",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
@@ -197,7 +197,7 @@
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "fa7c6495859f",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "be7b032ccd86",
-      "content/posts/the-category-error-of-better.md": "65a3763610f8",
+      "content/posts/the-category-error-of-better.md": "c6b1eab24d85",
       "content/posts/the-causal-inversion-of-partnership.md": "91c09f2f860e",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
@@ -249,6 +249,7 @@
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "20cc20e40f0b",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
+      "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "f2f99cf6a190",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "49f1e6416b52",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2413ca14ec54",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
@@ -370,13 +371,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 360,
-      "edges": 3681,
-      "unique_directed": 3239,
+      "posts": 361,
+      "edges": 3691,
+      "unique_directed": 3244,
       "missing_targets": 0,
-      "one_way": 897,
+      "one_way": 898,
       "isolated": 40,
-      "posts_with_outbound": 295
+      "posts_with_outbound": 296
     }
   },
   "hubs_in": [
@@ -414,7 +415,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 35
+      "in_degree": 36
     },
     {
       "slug": "causality-all-the-way",
@@ -4117,16 +4118,17 @@
       "slug": "silicon-oracles-and-the-asymmetry-of-consequence",
       "path": "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md",
       "title": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence",
-      "hash": "ecf930ce36fc",
-      "in_degree": 2,
-      "out_degree": 6,
+      "hash": "fad9fbe8eaef",
+      "in_degree": 3,
+      "out_degree": 7,
       "links_out": [
         "the-category-error-of-better",
         "the-sovereign-blinding",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-irreducible-observer",
         "the-digital-god-and-the-horizon-jump",
-        "the-limitation-is-doing-work"
+        "the-limitation-is-doing-work",
+        "the-inversion-of-reading-and-the-order-of-inference"
       ]
     },
     {
@@ -4712,9 +4714,9 @@
       "slug": "the-category-error-of-better",
       "path": "content/posts/the-category-error-of-better.md",
       "title": "「更好」的范畴谬误 / The Category Error of Better",
-      "hash": "65a3763610f8",
-      "in_degree": 3,
-      "out_degree": 8,
+      "hash": "c6b1eab24d85",
+      "in_degree": 4,
+      "out_degree": 9,
       "links_out": [
         "the-irreducible-observer",
         "the-allocation-of-causal-power-in-validation",
@@ -4723,7 +4725,8 @@
         "fidelity-not-optimality",
         "the-ledger-of-the-unencountered",
         "the-coordinators-category-error",
-        "silicon-oracles-and-the-asymmetry-of-consequence"
+        "silicon-oracles-and-the-asymmetry-of-consequence",
+        "the-inversion-of-reading-and-the-order-of-inference"
       ]
     },
     {
@@ -5693,6 +5696,21 @@
       "links_out": []
     },
     {
+      "id": "post:the-inversion-of-reading-and-the-order-of-inference",
+      "kind": "post",
+      "slug": "the-inversion-of-reading-and-the-order-of-inference",
+      "path": "content/posts/the-inversion-of-reading-and-the-order-of-inference.md",
+      "title": "阅读的倒错与推断的次序 / The Inversion of Reading and the Order of Inference",
+      "hash": "f2f99cf6a190",
+      "in_degree": 2,
+      "out_degree": 3,
+      "links_out": [
+        "the-model-never-becomes-a-second-edge",
+        "silicon-oracles-and-the-asymmetry-of-consequence",
+        "the-category-error-of-better"
+      ]
+    },
+    {
       "id": "post:the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "kind": "post",
       "slug": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -6110,7 +6128,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "6dec2cdef8ae",
-      "in_degree": 35,
+      "in_degree": 36,
       "out_degree": 33,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -18267,9 +18285,21 @@
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-inversion-of-reading-and-the-order-of-inference",
+      "rel": "points_to",
+      "label": "阅读的倒错与推断的次序"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
       "to": "the-limitation-is-doing-work",
       "rel": "points_to",
       "label": "The Limitation is Doing Work"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-inversion-of-reading-and-the-order-of-inference",
+      "rel": "points_to",
+      "label": "The Inversion of Reading and the Order of Inference"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -20133,6 +20163,12 @@
     },
     {
       "from": "the-category-error-of-better",
+      "to": "the-inversion-of-reading-and-the-order-of-inference",
+      "rel": "points_to",
+      "label": "阅读的倒错与推断的次序"
+    },
+    {
+      "from": "the-category-error-of-better",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The Coordinator's Category Error"
@@ -20142,6 +20178,12 @@
       "to": "silicon-oracles-and-the-asymmetry-of-consequence",
       "rel": "points_to",
       "label": "Silicon Oracles and the Asymmetry of Consequence"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-inversion-of-reading-and-the-order-of-inference",
+      "rel": "points_to",
+      "label": "The Inversion of Reading and the Order of Inference"
     },
     {
       "from": "the-causal-inversion-of-partnership",
@@ -23076,6 +23118,42 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
+    },
+    {
+      "from": "the-inversion-of-reading-and-the-order-of-inference",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永不成第二锋刃"
+    },
+    {
+      "from": "the-inversion-of-reading-and-the-order-of-inference",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-inversion-of-reading-and-the-order-of-inference",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
+    },
+    {
+      "from": "the-inversion-of-reading-and-the-order-of-inference",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "Silicon Oracles and the Asymmetry of Consequence"
+    },
+    {
+      "from": "the-inversion-of-reading-and-the-order-of-inference",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "「更好」的范畴谬误"
+    },
+    {
+      "from": "the-inversion-of-reading-and-the-order-of-inference",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "The Category Error of Better"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
