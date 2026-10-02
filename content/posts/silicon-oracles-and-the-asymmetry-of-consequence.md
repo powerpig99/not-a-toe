@@ -52,7 +52,7 @@ graph TD
     N_CRITIC --> N_LATENT
     N_SAMPLE --> N_ECHO
     N_SAMPLE --> N_DEMARC
-    N_ECHO ===> N_ORACLE
+    N_ECHO ==> N_ORACLE
 
     style S_INPUT fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_MODEL fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -99,7 +99,7 @@ graph TD
     N_CRITIC --> N_LATENT
     N_SAMPLE --> N_ECHO
     N_SAMPLE --> N_DEMARC
-    N_ECHO ===> N_ORACLE
+    N_ECHO ==> N_ORACLE
 
     style S_INPUT fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_MODEL fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -173,7 +173,7 @@ graph TD
         direction TB
         N_FRICTION["物理与社会摩擦<br/>经济损益·法律制裁·健康代价"]
         N_SOVEREIGN["第一人称活体心智<br/>独自承担全部不可让渡的后果"]
-        N_FRICTION ===> N_SOVEREIGN
+        N_FRICTION ==> N_SOVEREIGN
     end
 
     N_GEN -.->|提供文本候选| N_VENTRIL
@@ -214,7 +214,7 @@ graph TD
         direction TB
         N_FRICTION["Real-World Friction<br/>Financial Ruin, Legal Guilt, Physical Loss"]
         N_SOVEREIGN["First-Person Living Mind<br/>Inescapably Absorbing 100% of Consequences"]
-        N_FRICTION ===> N_SOVEREIGN
+        N_FRICTION ==> N_SOVEREIGN
     end
 
     N_GEN -.->|Supplies Candidate Output| N_VENTRIL
