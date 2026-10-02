@@ -450,10 +450,10 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 if 'direction TB' not in block and 'direction TD' not in block:
                     horizontal_layout_issues.append(f"Diagram {idx} has {len(subgraphs)} subgraphs but lacks 'direction TB'. Subgraphs must enforce vertical node flow.")
                 
-                # Check for inter-subgraph vertical connection (e.g. Node1 ===> Node2 or Subgraph link)
-                has_inter_subgraph_edge = bool(re.search(r'===>|-->|-\.->', block.split('end')[-1])) or ('===>' in block)
+                # Check for inter-subgraph vertical connection (e.g. Node1 ==> Node2 or Subgraph link)
+                has_inter_subgraph_edge = bool(re.search(r'==+>|-->|-\.->', block.split('end')[-1])) or bool(re.search(r'==+>', block))
                 if not has_inter_subgraph_edge:
-                    horizontal_layout_issues.append(f"Diagram {idx} has {len(subgraphs)} disconnected subgraphs without vertical connecting arrow (e.g. UpperNode ===> LowerNode), which causes horizontal side-by-side layout.")
+                    horizontal_layout_issues.append(f"Diagram {idx} has {len(subgraphs)} disconnected subgraphs without vertical connecting arrow (e.g. UpperNode ==> LowerNode), which causes horizontal side-by-side layout.")
 
         if horizontal_layout_issues:
             errors.append(f"Mermaid horizontal layout violations: {'; '.join(horizontal_layout_issues)}")
