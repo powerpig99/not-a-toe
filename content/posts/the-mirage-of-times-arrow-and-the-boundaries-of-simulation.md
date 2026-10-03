@@ -288,6 +288,8 @@ graph TD
  
 类似的形式修补在量子测量理论中同样随处可见。为了保住薛定谔波函数严格的时间可逆性与幺正演化，同时又要解释为什么我们在实验室中只测量到确定的、不可逆的单向历史，理论界不得不发明出更为繁复的假设：有的诉诸量子退相干，把单向性推卸给环境自由度的纠缠耗散；有的则索性构想出休·埃弗雷特的多世界诠释，断言宇宙在每一个量子选择处都在持续分裂出平行的宇宙分支，以此来保全数学上的整体对称性。所有这些令人眼花缭乱的理论补丁，在本体论上犯下了同一个错误：它们都在试图用被模型刻意排除的要素，去填补模型制造的空白。一旦看清时间之箭本来就是现实未决因果的原初特征，这些为了拯救模型对称性而增生出的复杂齿轮，便会在一瞬间失去存在的必要。正如在[无法逃脱的心智边界](../one-cannot-escape-ones-own-mind/)中所提示的，向外追问无限增生的宇宙假说，只是心智迷失在自身投射出的代数迷宫之中的结果。
 
+过去假说还暴露了一个更普遍的结构，[没有固定者的固定](../fixed-by-nothing/) 对此作了专门拆解：任何确定性形式系统都需要一个它自身无法生成的初始条件。时间对称的动力学不能推出那个特异的低熵起点，只能把它作为给定装载进模型；而一个不被系统内任何规则固定的起点，相对于该系统恰恰是未被决定的。把这个起点称为“宇宙的特殊初态”，并没有为它找到固定者，只是把模型借来的开放性改名为宇宙学事实。看清这笔借贷，过去假说便不再是需要解释的巧合，而是确定性描述为维持闭合所支付的代价。
+
 ```mermaid
 graph TD
     subgraph S_EpicyclesMachine ["对称性狂热引发的繁复机制增生"]
@@ -325,6 +327,8 @@ When theorists obstinately coerce time-symmetric equations to explain an asymmet
 The most transparent manifestation of this proliferated scaffolding is the Past Hypothesis and the associated Boltzmann brain paradox. Because microscopic mechanics is time-symmetric, a high-entropy gas fluctuation spontaneously assembling into an ordered state carries identical mathematical probability to an ordered state dispersing into disorder. Derived from this symmetrical formalism, our observable universe—containing billions of galaxies, planets, and conscious agents—is classified as an improbable thermodynamic fluctuation. To arrest the resulting epistemological collapse, theorists introduced the Past Hypothesis: declaring that the universe must have originated in an extraordinarily fine-tuned, low-entropy initial state.
 
 Analogous patches appear across quantum foundations. To preserve the unitary time-reversibility of the Schrödinger equation while accounting for irreversible measurement records in actual laboratories, physics introduced complex machineries: appealing to environmental decoherence to displace directionality into unobserved degrees of freedom, or invoking Everett's Many-Worlds Interpretation, positing that reality branches infinitely at every quantum transition to preserve global symmetry. All these epicycles commit the same foundational error: attempting to deploy factors methodologically excluded by the model to plug the void created by the model. The moment we recognize that the arrow of time is the foundational trace asymmetry of living causality, these complicated epicycles lose their raison d'être. As observed in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), chasing infinite theoretical epicycles represents the mind becoming entangled in its own algebraic labyrinth.
+
+The Past Hypothesis also exposes a more general structure, dissected specifically in [Fixed by Nothing](../fixed-by-nothing/): every deterministic formalism requires an initial condition it cannot generate itself. Time-symmetric dynamics cannot derive that special low-entropy starting point; it can only load it into the model as a given, and a starting point fixed by no rule within the system is, relative to that system, precisely undetermined. Calling it "the special initial state of the universe" finds no fixer for it; it merely renames the openness the model borrowed as a cosmological fact. Once this loan is seen for what it is, the Past Hypothesis is no longer a coincidence demanding explanation but the price a deterministic description pays to maintain its closure.
 
 ```mermaid
 graph TD

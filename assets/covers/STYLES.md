@@ -302,6 +302,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | **Nordic Tonalist oil / twilight pine forest with glowing hearth embers** | Deep subarctic twilight oil painting in the tradition of Akseli Gallen-Kallela; muted indigo, slate blue, and spruce mist, with a glowing pine branch crackling with warm incandescent amber embers on soft mossy ground; painterly canvas texture, dramatic chiaroscuro between northern stillness and primal hearth | `boletus-compute-storm-and-promethean-fire` |
 | **Constructivist axonometric drafting & translucent crystalline hyper-dimensional manifold** | Heavy textured midnight-indigo and aged cream paper, dark primordial granite bedrock with tactile fractures below, ascending copperplate axonometric arches and drafting grids converging into an incandescent, self-rotating translucent hyper-dimensional manifold crystal engine with golden plumb-line anchor | `the-ladder-of-abstraction-and-the-executable-entity` |
 | **Aerospace precision intaglio & supersonic schlieren fracture** | Deep obsidian and midnight-indigo ground, monolithic titanium rocket ascending with searing amber-gold thrust slicing through a shattered translucent golden deity mask into open sky, human hand holding luminous steering reticle at the base; dramatic chiaroscuro between divine myth dissolution and cold engineered agency | `from-the-misallocated-sentience-of-agi-to-human-realignment` |
+| **Venetian Murano millefiori murrine and filigrana caneworking, macro view inside molten lampworked glass** | Ultra-wide 21:9 full-bleed; a tiny jewel-like murrina cross-section seed of infinitely nested concentric florets at far left, stretched and folded baker's-map style into vast swirling glass-cane bands across the panorama; translucent cobalt, opal white, cinnabar, molten amber-gold, trapped air bubbles, latticino threads, furnace backlight against smoky indigo; no text (Qwen-Image-2.1 21:9) | `fixed-by-nothing` |
 
 ## Inventory (by slug)
 
@@ -604,6 +605,7 @@ Grouped by look. One representative name; multiple slugs may share a family (avo
 | `objects-are-stabilized-relationships` | Stabilized dynamic nodal interference patterns & reified object contours |
 | `coordinate-systems-mind-and-degrees-of-freedom` | Higher-dimensional orthogonal coordinate projection & autonomous observer degree of freedom |
 | `the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function` | Riemann zeta critical line harmonic wave interferometry & quantum zero-point fluctuations |
+| `fixed-by-nothing` | Venetian Murano millefiori murrine and filigrana caneworking: nested murrina seed at left whose unresolvable inner florets are stretched and folded into macroscopic chaotic glass bands, the initial condition's hidden digits pumped up to visible scale |
 
 ## Crowded — prefer not to extend
 
