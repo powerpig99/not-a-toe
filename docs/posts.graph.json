@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-03T05:12:54.363Z",
+    "generated_at": "2026-10-03T05:25:39.555Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -314,7 +314,7 @@
       "content/posts/the-self-portrait-in-the-projection.md": "808c89cf0ac1",
       "content/posts/the-shadow-and-the-infinite.md": "900802f5388b",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "4216d0e9136d",
-      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5419f196c18d",
+      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "43b84567c3c3",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "71946e0f5b68",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
@@ -373,10 +373,10 @@
     },
     "stats": {
       "posts": 362,
-      "edges": 3707,
-      "unique_directed": 3252,
+      "edges": 3709,
+      "unique_directed": 3253,
       "missing_targets": 0,
-      "one_way": 900,
+      "one_way": 901,
       "isolated": 40,
       "posts_with_outbound": 297
     }
@@ -7022,13 +7022,14 @@
       "slug": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
-      "hash": "5419f196c18d",
+      "hash": "43b84567c3c3",
       "in_degree": 3,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "abstract-pain-and-living-hunger",
         "subtracting-consciousness-at-the-source",
         "silicon-oracles-and-the-asymmetry-of-consequence",
+        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "the-irreducible-observer",
         "consciousness-never-appears-as-data-among-data"
       ]
@@ -7040,7 +7041,7 @@
       "path": "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md",
       "title": "造神的障眼法与隐秘阶序的说辞 / The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank",
       "hash": "71946e0f5b68",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 7,
       "links_out": [
         "the-cartesian-overstep-and-the-frenzy-of-creation",
@@ -27165,6 +27166,18 @@
       "to": "silicon-oracles-and-the-asymmetry-of-consequence",
       "rel": "points_to",
       "label": "silicon-oracles-and-the-asymmetry-of-consequence"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "造神的障眼法与隐秘阶序的说辞"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",

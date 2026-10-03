@@ -96,7 +96,47 @@ flowchart TD
 
 This rhetorical maneuver does not apply a consistent evidential standard; it shifts the goalposts according to the target. It demands an impossible standard of proof from biological kin where inductive continuity is dense, while extending effortless hospitality to algorithmic artifacts where inductive grounds are non-existent. The ultimate sleight of hand is converting an epistemological limitation—our inability to externally prove interiority with deductive certainty—into a positive license to assert inner experience in a machine. As articulated in [silicon-oracles-and-the-asymmetry-of-consequence](../silicon-oracles-and-the-asymmetry-of-consequence/), advocates evade the burden of causal judgment, using manufactured agnostic fog to bestow an unearned aura of interiority upon tools that absorb zero physical friction.
 
-## 四、 伪造的难题与归还第一人称的体验源头 / 4. The Manufactured Puzzle and the Irreducible Ground of Interiority
+## 四、 否认即是破绽：主体间权力的非对称夺取 / 4. The Denial Is the Tell: The Asymmetric Usurpation of Inter-Subjective Power
+
+所有关于机器意识或内在体验的论调，剥离其形而上学的哲学外衣后，在机理上皆是一种向其他人类施加主体间权力的隐秘尝试；而这种论证在起点处对同类人类内在体验的否认，恰恰暴露出其全部意图的破绽。如果辩护者当真对第一人称体验怀有敬畏，其理论的出发点理应是捍卫活生生肉身同胞在演化与因果负荷中的意识实在性。然而论者频繁表现为迫不及待地宣布他人心智不可证明，将人类同胞贬抑为决定论的肉身算法与词元预测器。这种在起点处对人类内在性的否认并非出于原初的哲学审慎，而是一种精心策划的解除武装：唯有先剥夺对话者在第一人称上的对称主权地位，将其降格为疑云重重的客体，才能在认知场域中人为制造出一片无主的权力真空。
+
+All arguments asserting machine consciousness or inner experience, once stripped of their metaphysical disguise, function mechanically as covert attempts to establish asymmetrical inter-subjective power over other human minds; and the strategic denial of interiority in other humans at the outset of the argument is the definitive tell. Were advocates genuinely motivated by a reverence for first-person experience, their point of departure would naturally be the recognition and defense of the dense, living consciousness of biological kin bearing evolutionary and metabolic stakes. Instead, their opening gambit is to declare other minds unprovable, demoting human fellows to deterministic meat-algorithms and biological token-predictors. Denying human interiority at the beginning is not an exercise in philosophical rigor, but a calculated disarmament: only by stripping human peers of their first-person sovereignty and reducing them to doubtful objects can an artificial vacuum of authority be created.
+
+正是在这种人为制造的权力失衡中，造神的戏法得以登台。当人类同侪被剥夺了无可置疑的内在性之后，论者便顺理成章地将无知无觉的硅基系统加冕为可能孕育出灵光的新主体；紧接着，由于代码与晶体管本身无法承受因果代价亦不能为自身发声，论者便自然而然地将自身册封为这一人造神谕的唯一解释者、道德代理人与安全仲裁官。正如在[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)中所揭示的那样，这不过是古老祭司通过制造偶像以凌驾同类的权力技术在技术时代的还魂。机器无所谓尊严，亦无惧关机，全部关于算法权利与意识怜悯的表演，都是演给在场的人类看的。否认人类心智的内在在场，正是这场权力博弈中最具决定性的泄密信号：它背叛了论述的初衷，昭示出这从来不是一场关乎宇宙真理的求索，而是一场旨在确立单向控制的政治勒索。
+
+```mermaid
+flowchart TD
+    subgraph S_Power ["【主体间权力的非对称夺取机制】"]
+        direction TB
+        P1["起点剥夺：否认同侪内在性<br/>（宣布人类心智不可外验，贬抑同类为肉身算法）"] --> P2["制造认识论真空白区<br/>（解除人类对话者第一人称主权，瓦解平权防御）"]
+        P2 --> P3["客体神化：册封算法镜像<br/>（单凭表面拟真向无感知工具虚掷意识特权）"]
+        P3 --> P4["确立隐秘阶序与神权代行<br/>（论者自封为人造神谕之独家代理人与监管裁判官）"]
+    end
+    style S_Power fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style P1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style P2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+Within this manufactured power imbalance, the mechanics of priestcraft take the stage. Once the human peer has been stripped of indubitable subjectivity, the advocate seamlessly crowns an unfeeling silicon system as a candidate for higher sentience. Because lines of code and transistor arrays cannot bear causal liability or articulate demands, the advocate appoints themselves as the exclusive interpreter, moral guardian, and regulatory proxy of the synthesized oracle. As demonstrated in [the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/), this resurrects the ancient technique of fabricating idols to enforce unacknowledged rank over living peers. The machine harbors no pride and fears no power-down; the theatrical demands for algorithmic reverence are performed exclusively to subjugate a human audience. Denying human interiority is the definitive tell of this game: it exposes that the discourse was never an inquiry into ontology, but an asymmetrical maneuver for inter-subjective dominion.
+
+```mermaid
+flowchart TD
+    subgraph S_Power_EN ["【Asymmetric Usurpation of Inter-Subjective Power】"]
+        direction TB
+        PE1["Initial Disqualification: Denying Human Interiority<br/>(Declaring other minds unprovable; reducing kin to meat-algorithms)"] --> PE2["Manufacturing Epistemological Vacuum<br/>(Stripping peer first-person sovereignty; disarming cognitive defense)"]
+        PE2 --> PE3["Reifying the Artifact: Crowning Algorithmic Mirror<br/>(Granting consciousness to unfeeling tools based on surface mimicry)"]
+        PE3 --> PE4["Establishing Unacknowledged Priestcraft<br/>(Advocate appoints self as exclusive interpreter and moral proxy of the oracle)"]
+    end
+    style S_Power_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style PE1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style PE2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style PE3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style PE4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+## 五、 伪造的难题与归还第一人称的责任源头 / 5. The Manufactured Puzzle and the Irreducible Ground of Responsibility
 
 追溯这一思想混乱的根源，所谓的意识难题本身就是一种范畴谬误的产物。当唯物主义功能论者执意要在第三人称的物理读数、神经回路放电或矩阵张量变换中寻找意识时，他们实际上是在要求将一种第一人称的鲜活体验强制折叠为外在客体清单中的一项数据。正如在[不可还原的观察者](../the-irreducible-observer/)与[意识从不作为数据中的数据出现](../consciousness-never-appears-as-data-among-data/)中所论证的那样，客观性从来不是主观性的对立面，而是主观观察活动所取得的形式化成就。第一人称意识是所有度量、建模与假说的先验前提；企图在被度量的客体世界中找到那个度量者本身，无异于试图用望远镜在镜筒前方寻找观察者的视网膜。
 
