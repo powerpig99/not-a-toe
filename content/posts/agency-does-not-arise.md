@@ -87,7 +87,7 @@ graph TD
 一旦物理网络与所谓潜空间形态的对应关系变得高度可靠并具备可预测的操纵性，那些曾经被冠以形而上学意蕴的“潜空间渗入”，便在瞬间脱去神秘的外衣，坍缩为新发现的系统动力学常量与守恒条件。正如在 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) 与 [物理学不是律法，现实的摩擦才是](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) 中所指出的，凡是能够被形式系统严密闭合的因果回路，其自由度便已被先验剥夺。此时，“形态渗入”这一诗意表达不再代表某种跳出物理闭环的独立自由源泉，它仅仅成了描摹物理规律本身的另一套代名词。潜空间假设并未救出自由变量，反而以迂回的路径重新滑入了拉普拉斯式决定论的怀抱。
 
 ```mermaid
-graph LR
+graph TD
     subgraph S_LevinFramework["【迈克尔·莱文的潜空间形态渗入框架】"]
         direction TB
         L1["局域生物电网络 / 物理指针<br/>（离子通道、电位差梯度、组织化学态）"]
@@ -122,7 +122,7 @@ Yet this conceptually sophisticated proposal fails to escape the foundational co
 The moment the relation between bioelectric cues and anatomical phenotypes becomes predictable and reproducible, the poetic idiom of "ingression" surrenders its metaphysical novelty, collapsing into regular physical dynamics and conservation constraints. As established in [Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) and [Physics Is Not the Law, the Friction of Reality Is](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/), any causal loop that can be closed by formal predictability has its genuine degrees of freedom foreclosed from the start. The rhetoric of latent spaces ceases to describe an uncaused wellspring of agency; it transforms into an alternate notation for lawful mechanics. Levin's latent space fails to rescue autonomous agency, circuitously delivering biological cognition straight back into the embrace of deterministic necessity.
 
 ```mermaid
-graph LR
+graph TD
     subgraph S_LevinFramework_EN["【Michael Levin's Latent Space Ingression Architecture】"]
         direction TB
         L1_EN["Local Bioelectric Pointer / Physical Substrate<br/>(Ion channel states, voltage gradients, cellular networks)"]
@@ -318,7 +318,7 @@ graph TD
 
 将主体性视作下游产物的迷思，在实践层面引发了严重的认知倒错。在当今自动化、大模型与算法盛行的时代，人们动辄试图将抉择与责任外包给计算网络，正如我们在 [任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) 与 [协议的反置与因果闭环的噤声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/) 中所严厉警告的：任务可以任意移交，后果却永远无法让渡。把主体性降阶为物理机器的“突现属性”，为现代人推卸生存主权提供了看似体面的借口。然而，因果链条在具身摩擦面前是严丝合缝的闭环，自客体化的逃避丝毫不能阻断现实惩罚的降临。
 
-扫清“涌现论”与“机制增生”的迷障，使我们不再徒劳地等待某个物理学或生物学实验室宣布“证明了自由意志的存在”。真正的自由不在等待公断的判决书里，而在每一次直面现实、设立约束、扣动扳机并承担后果的具身行动之中。主体性是不可动摇的原点；一切物理学、一切算法模型、一切宏观叙事，都不过是这个原点在探索宇宙时所留下的下游涟漪。
+扫清“涌现论”与“机制增生”的迷障，使我们不再徒劳地等待某个物理学或生物学实验室宣布“证明了自由意志的存在”。真正的自由不在等待公断的判决书里，而在每一次直面现实、设立约束、扣动扳机并承担后果的具身行动之中。主体性是不可动摇的原点；一切物理学、一切算法模型、一切宏观叙事，都不过是这个原点在探索宇宙时所留下的下游涟漪。正如在 [感知的界限与理解的无限](../the-boundary-of-perception-and-the-infinity-of-understanding/) 中所进一步论证的，所谓独立固存的客观本体只是一种抽象幻相，唯有对本体的指向动作本身真实持存：向内体认为不可化约的第一人称视域，向外投射为单向因果序列；感知的界限不仅没有窒息理性，反而作为划分留白的先验刻痕，赋予了心智在开放世界中展开模型假设与无限理解的主权潜能。
 
 ```mermaid
 graph TD
@@ -352,7 +352,7 @@ Agency does not arise. It is the beginning. The first-person fact is the generat
 
 Treating agency as an incidental downstream byproduct of mechanical forces engenders catastrophic practical delusions. In an era saturated with autonomous models and algorithmic bureaucracy, individuals increasingly attempt to delegate sovereign choices and liabilities to computational systems. As warned in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) and [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/), tasks may be delegated without mechanical ceiling, but consequences remain permanently non-transferable. Demoting agency to an emergent glitch in deterministic machinery provides an alibi for avoiding responsibility, yet reality does not honor self-objectification. The causal loop remains closed; attempting to abdicate sovereignty cannot shield the actor from physical blowback.
 
-Dispelling the illusions of emergentism and metaphysical mechanism inflation liberates us from awaiting an empirical lab endorsement of free will. Freedom is not ratified by external certificates of proof; it is enacted in every embodied encounter with friction, every dynamic constraint established, and every consequence sovereignly absorbed. Agency is the unassailable starting point. All physical equations, all algorithmic protocols, and all cosmological frameworks are merely downstream ripples cast by this primordial source as it navigates the real.
+Dispelling the illusions of emergentism and metaphysical mechanism inflation liberates us from awaiting an empirical lab endorsement of free will. Freedom is not ratified by external certificates of proof; it is enacted in every embodied encounter with friction, every dynamic constraint established, and every consequence sovereignly absorbed. Agency is the unassailable starting point. All physical equations, all algorithmic protocols, and all cosmological frameworks are merely downstream ripples cast by this primordial source as it navigates the real. As further articulated in [The Boundary of Perception and the Infinity of Understanding](../the-boundary-of-perception-and-the-infinity-of-understanding/), a standalone, observer-independent ontology is an ungrounded illusion; only the act of pointing toward existence is actual—inwardly registered as the first-person horizon and outwardly projected as unidirectional causality. The finite boundary of perception does not suffocate reason; rather, by carving the unperceived void, it provides the indispensable topological ground that enables Mind to construct generative models and exercise boundless understanding.
 
 ```mermaid
 graph TD
