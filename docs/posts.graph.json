@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-03T06:22:19.988Z",
+    "generated_at": "2026-10-03T07:50:26.543Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -12,11 +12,11 @@
       "content/posts/a-creation-cannot-replace-its-source.md": "00be02a9cdca",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "5c2c317e8efa",
-      "content/posts/abstract-pain-and-living-hunger.md": "9931f7211ff5",
+      "content/posts/abstract-pain-and-living-hunger.md": "8917360b8ce8",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "75ea3ced28ac",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "15737ab87ae6",
-      "content/posts/agency-does-not-arise.md": "bcfcae395a7d",
+      "content/posts/agency-does-not-arise.md": "88e02269ac85",
       "content/posts/agency-relocated-into-the-formal-model.md": "86d69a48a123",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "71ec41fd221d",
@@ -28,10 +28,10 @@
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "d79e6a76ba8e",
       "content/posts/causality-all-the-way.md": "9344804c6770",
       "content/posts/causality-and-the-irreducible-prior.md": "eca0fc968681",
-      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "22ac2e453532",
+      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "898a00c4d1cb",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "74dafb24835c",
       "content/posts/cheng-gong-xue.md": "f451243afbd5",
-      "content/posts/choice-itself-has-no-inherent-weight.md": "3380a7f3026b",
+      "content/posts/choice-itself-has-no-inherent-weight.md": "eae97236fdaf",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "318770941822",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -44,7 +44,7 @@
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "880b80df20dc",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "5c6e9279a4aa",
       "content/posts/conscience-power-delegation.md": "af9d2b26fdd0",
-      "content/posts/consciousness-never-appears-as-data-among-data.md": "e7cdc34df141",
+      "content/posts/consciousness-never-appears-as-data-among-data.md": "e0c28911f818",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "4ee073250c70",
@@ -218,7 +218,7 @@
       "content/posts/the-discount-on-agency.md": "74e3cfe763fc",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
-      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "1541ba257aae",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "5ecf50b3345a",
       "content/posts/the-extendable-horizon.md": "16c6a9ecd2f7",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "e4617c1af0fb",
       "content/posts/the-fallacy-of-post-success-parenting.md": "cb2cd5c5ac3b",
@@ -255,7 +255,7 @@
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2413ca14ec54",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "08233385869e",
-      "content/posts/the-irreducible-observer.md": "c21367062a6c",
+      "content/posts/the-irreducible-observer.md": "faa819e5397c",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "d8ad12abb11d",
@@ -276,7 +276,7 @@
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "bfb66fea7d34",
       "content/posts/the-mirror-handshake-of-power.md": "3fe1b6678749",
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "6dec2cdef8ae",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "b544fdd1d0b7",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "7b8962b3547c",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "06673522a545",
@@ -316,7 +316,7 @@
       "content/posts/the-shadow-and-the-infinite.md": "900802f5388b",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "4216d0e9136d",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "3b12b67585c1",
-      "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "71946e0f5b68",
+      "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "63879ec9b623",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
       "content/posts/the-sovereign-blinding.md": "888e3fbe6aee",
@@ -374,10 +374,10 @@
     },
     "stats": {
       "posts": 363,
-      "edges": 3729,
-      "unique_directed": 3263,
+      "edges": 3745,
+      "unique_directed": 3272,
       "missing_targets": 0,
-      "one_way": 905,
+      "one_way": 896,
       "isolated": 40,
       "posts_with_outbound": 298
     }
@@ -479,7 +479,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "out_degree": 33
+      "out_degree": 34
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -663,15 +663,17 @@
       "slug": "abstract-pain-and-living-hunger",
       "path": "content/posts/abstract-pain-and-living-hunger.md",
       "title": "抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger",
-      "hash": "9931f7211ff5",
+      "hash": "8917360b8ce8",
       "in_degree": 3,
-      "out_degree": 5,
+      "out_degree": 7,
       "links_out": [
         "the-ledger-of-the-unencountered",
         "the-arithmetic-of-the-register",
         "agency-relocated-into-the-formal-model",
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
-        "the-irreducible-observer"
+        "the-irreducible-observer",
+        "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+        "the-boundary-of-perception-and-the-infinity-of-understanding"
       ]
     },
     {
@@ -760,9 +762,9 @@
       "slug": "agency-does-not-arise",
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现 / Agency Does Not Arise",
-      "hash": "bcfcae395a7d",
+      "hash": "88e02269ac85",
       "in_degree": 6,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -775,7 +777,8 @@
         "consciousness-never-appears-as-data-among-data",
         "zi-you-de-ce-bu-zhun",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop"
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "the-boundary-of-perception-and-the-infinity-of-understanding"
       ]
     },
     {
@@ -1012,14 +1015,14 @@
       "slug": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
-      "hash": "22ac2e453532",
+      "hash": "898a00c4d1cb",
       "in_degree": 7,
       "out_degree": 8,
       "links_out": [
         "dimensions-are-projections",
         "po-chu-gai-nian-de-jian-yue",
-        "the-boundary-of-perception-and-the-infinity-of-understanding",
         "causality-and-the-irreducible-prior",
+        "the-boundary-of-perception-and-the-infinity-of-understanding",
         "consciousness-never-appears-as-data-among-data",
         "the-generative-atlas-of-macroscopic-phenomena",
         "the-model-never-becomes-a-second-edge",
@@ -1097,9 +1100,9 @@
       "slug": "choice-itself-has-no-inherent-weight",
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
-      "hash": "3380a7f3026b",
+      "hash": "eae97236fdaf",
       "in_degree": 12,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -1108,7 +1111,8 @@
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
         "one-cannot-escape-ones-own-mind",
-        "all-that-can-be-spoken-is-the-product-of-the-unspeakable"
+        "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+        "the-boundary-of-perception-and-the-infinity-of-understanding"
       ]
     },
     {
@@ -1391,9 +1395,9 @@
       "slug": "consciousness-never-appears-as-data-among-data",
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
       "title": "Consciousness Never Appears as Data Among Data",
-      "hash": "e7cdc34df141",
+      "hash": "e0c28911f818",
       "in_degree": 22,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
         "causality-all-the-way",
@@ -1402,6 +1406,7 @@
         "the-real-lesson-from-the-consciousness-vector-paper",
         "mistaking-the-expression-for-the-intelligence",
         "the-perceiver-and-the-trace",
+        "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "individual-choices-as-the-only-causal-levers",
         "the-rational-choice-postulate-is-the-original-sin",
@@ -4122,7 +4127,7 @@
       "path": "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md",
       "title": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence",
       "hash": "609c2a52892b",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -4641,7 +4646,7 @@
       "path": "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md",
       "title": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding",
       "hash": "7d8e54bd1e32",
-      "in_degree": 3,
+      "in_degree": 7,
       "out_degree": 7,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
@@ -5118,9 +5123,9 @@
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
-      "hash": "1541ba257aae",
+      "hash": "5ecf50b3345a",
       "in_degree": 11,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-causal-inversion-of-partnership",
@@ -5134,7 +5139,8 @@
         "coordinate-systems-mind-and-degrees-of-freedom",
         "the-geometry-of-the-cut",
         "one-cannot-escape-ones-own-mind",
-        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank"
+        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+        "the-boundary-of-perception-and-the-infinity-of-understanding"
       ]
     },
     {
@@ -5726,7 +5732,7 @@
       "path": "content/posts/the-inversion-of-reading-and-the-order-of-inference.md",
       "title": "阅读的倒错与推断的次序 / The Inversion of Reading and the Order of Inference",
       "hash": "1061f2c8aca4",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 3,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -5805,9 +5811,9 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "c21367062a6c",
+      "hash": "faa819e5397c",
       "in_degree": 7,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -5819,7 +5825,8 @@
         "the-scaffolding-we-forget",
         "openness-is-consistency",
         "the-ledger-of-the-unencountered",
-        "the-category-error-of-better"
+        "the-category-error-of-better",
+        "silicon-oracles-and-the-asymmetry-of-consequence"
       ]
     },
     {
@@ -6153,9 +6160,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "6dec2cdef8ae",
+      "hash": "b544fdd1d0b7",
       "in_degree": 36,
-      "out_degree": 33,
+      "out_degree": 34,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
         "intelligence-belongs-only-to-the-mind",
@@ -6189,7 +6196,8 @@
         "the-real-lesson-from-the-consciousness-vector-paper",
         "boletus-compute-storm-and-promethean-fire",
         "the-residue-and-the-free-variable",
-        "the-three-shadows-of-the-cut"
+        "the-three-shadows-of-the-cut",
+        "the-inversion-of-reading-and-the-order-of-inference"
       ]
     },
     {
@@ -7045,7 +7053,7 @@
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
       "hash": "3b12b67585c1",
-      "in_degree": 4,
+      "in_degree": 7,
       "out_degree": 7,
       "links_out": [
         "abstract-pain-and-living-hunger",
@@ -7063,9 +7071,9 @@
       "slug": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "path": "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md",
       "title": "造神的障眼法与隐秘阶序的说辞 / The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank",
-      "hash": "71946e0f5b68",
+      "hash": "63879ec9b623",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-cartesian-overstep-and-the-frenzy-of-creation",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -7073,7 +7081,8 @@
         "the-origin-of-god-and-the-flattening-of-we",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-        "the-digital-god-and-the-horizon-jump"
+        "the-digital-god-and-the-horizon-jump",
+        "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference"
       ]
     },
     {
@@ -8388,9 +8397,33 @@
     },
     {
       "from": "abstract-pain-and-living-hunger",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "意识的魔术戏法与推断的非对称性"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "The Irreducible Observer"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Consciousness and the Asymmetry of Inference"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "The Boundary of Perception and the Infinity of Understanding"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -8796,6 +8829,12 @@
     },
     {
       "from": "agency-does-not-arise",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "agency-does-not-arise",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
@@ -8805,6 +8844,12 @@
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
       "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "The Boundary of Perception and the Infinity of Understanding"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -9426,12 +9471,6 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
-      "rel": "points_to",
-      "label": "感知的界限与理解的无限"
-    },
-    {
-      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "Dimensions are Projections"
@@ -9444,27 +9483,33 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
-      "rel": "points_to",
-      "label": "The Boundary of Perception and the Infinity of Understanding"
-    },
-    {
-      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
       "label": "因果与不可约的先验"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "consciousness-never-appears-as-data-among-data",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "rel": "points_to",
-      "label": "意识绝不会作为数据中的数据出现"
+      "label": "感知的界限与理解的无限"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
       "label": "Causality and the Irreducible Prior"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "The Boundary of Perception and the Infinity of Understanding"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "意识不会作为数据中的数据出现"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -9858,9 +9903,21 @@
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
       "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
       "label": "All That Can Be Spoken Is the Product of the Unspeakable"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "The Boundary of Perception and the Infinity of Understanding"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
@@ -10719,6 +10776,12 @@
       "to": "the-perceiver-and-the-trace",
       "rel": "points_to",
       "label": "The Perceiver and the Trace Cannot Collapse"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Consciousness and the Asymmetry of Inference"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
@@ -21762,6 +21825,12 @@
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "coordinate-systems-mind-and-degrees-of-freedom",
       "rel": "points_to",
       "label": "Coordinate Systems, the Mind, and Degrees of Freedom"
@@ -21783,6 +21852,12 @@
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
       "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "The Boundary of Perception and the Infinity of Understanding"
     },
     {
       "from": "the-extendable-horizon",
@@ -23610,6 +23685,12 @@
     },
     {
       "from": "the-irreducible-observer",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
+    },
+    {
+      "from": "the-irreducible-observer",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "openness-is-consistency"
@@ -23625,6 +23706,12 @@
       "to": "the-category-error-of-better",
       "rel": "points_to",
       "label": "The Category Error of Better"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "Silicon Oracles and the Asymmetry of Consequence"
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
@@ -24549,6 +24636,12 @@
       "to": "the-three-shadows-of-the-cut",
       "rel": "points_to",
       "label": "The Three Shadows of the Cut"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-inversion-of-reading-and-the-order-of-inference",
+      "rel": "points_to",
+      "label": "The Inversion of Reading and the Order of Inference"
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
@@ -27414,6 +27507,12 @@
     },
     {
       "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "意识的魔术戏法与推断的非对称性"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "The Explanatory Trap of the \"Ordinary Perspective\""
@@ -27429,6 +27528,12 @@
       "to": "the-digital-god-and-the-horizon-jump",
       "rel": "points_to",
       "label": "The Digital God and the Horizon Jump"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Consciousness and the Asymmetry of Inference"
     },
     {
       "from": "the-source-of-all-harm",
