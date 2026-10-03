@@ -88,7 +88,7 @@ Stored in the active conversation artifact directory, structured as:
 2. Mermaid diagram inventory with semantic color rationale.
 3. Core epistemological cuts & argument architecture.
 4. Verification & invariant diagnostic check results.
-5. **Companion NotebookLM Prompts (Chinese Only, Link-Free)**: File links and full prompt texts for Audio Dialogue and Video Monologue.
+5. **Companion NotebookLM Prompts (Chinese Only, Link-Free)**: File links and full prompt texts for Audio Dialogue and Video Monologue, with **both full prompt texts enclosed in dedicated one-click copiable fenced code blocks** (` ```text `) so the operator can copy each ready-to-run prompt with a single click.
 6. **Multi-Platform Publishing Copies**:
    - **One-Click Copiable Text Blocks (Strict Invariant)**: Every single platform copy must be formatted inside a dedicated fenced code block (` ```text `) so that the operator can copy the ready-to-publish text with a single click in any Markdown viewer without manual text selection or formatting cleanup.
    - All four platform copies must explicitly include the canonical live link to the original essay (`https://powerpig99.github.io/not-a-toe/posts/<slug>/`):
