@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-03T05:25:39.555Z",
+    "generated_at": "2026-10-03T06:22:19.988Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -28,7 +28,7 @@
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "d79e6a76ba8e",
       "content/posts/causality-all-the-way.md": "9344804c6770",
       "content/posts/causality-and-the-irreducible-prior.md": "eca0fc968681",
-      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "e3ffc8e7b02f",
+      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "22ac2e453532",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "74dafb24835c",
       "content/posts/cheng-gong-xue.md": "f451243afbd5",
       "content/posts/choice-itself-has-no-inherent-weight.md": "3380a7f3026b",
@@ -193,6 +193,7 @@
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "c639024cd10a",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "d48fb069de15",
       "content/posts/the-boundary-crossing-of-choice.md": "ea6d59cb7811",
+      "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "7d8e54bd1e32",
       "content/posts/the-boundary-of-the-frame.md": "8c493f39d1f4",
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "fa7c6495859f",
@@ -272,7 +273,7 @@
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "3733c53cdbc6",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "b0542371b56e",
       "content/posts/the-mirage-of-the-infinite-totality.md": "3b491a49b106",
-      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "73983ea1555d",
+      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "bfb66fea7d34",
       "content/posts/the-mirror-handshake-of-power.md": "3fe1b6678749",
       "content/posts/the-misallocation-of-agency.md": "aa2581e378cd",
       "content/posts/the-model-never-becomes-a-second-edge.md": "6dec2cdef8ae",
@@ -314,7 +315,7 @@
       "content/posts/the-self-portrait-in-the-projection.md": "808c89cf0ac1",
       "content/posts/the-shadow-and-the-infinite.md": "900802f5388b",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "4216d0e9136d",
-      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "43b84567c3c3",
+      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "3b12b67585c1",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "71946e0f5b68",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
@@ -372,13 +373,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 362,
-      "edges": 3709,
-      "unique_directed": 3253,
+      "posts": 363,
+      "edges": 3729,
+      "unique_directed": 3263,
       "missing_targets": 0,
-      "one_way": 901,
+      "one_way": 905,
       "isolated": 40,
-      "posts_with_outbound": 297
+      "posts_with_outbound": 298
     }
   },
   "hubs_in": [
@@ -663,7 +664,7 @@
       "path": "content/posts/abstract-pain-and-living-hunger.md",
       "title": "抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger",
       "hash": "9931f7211ff5",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 5,
       "links_out": [
         "the-ledger-of-the-unencountered",
@@ -760,7 +761,7 @@
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现 / Agency Does Not Arise",
       "hash": "bcfcae395a7d",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 12,
       "links_out": [
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -1011,12 +1012,13 @@
       "slug": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
-      "hash": "e3ffc8e7b02f",
-      "in_degree": 6,
-      "out_degree": 7,
+      "hash": "22ac2e453532",
+      "in_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "dimensions-are-projections",
         "po-chu-gai-nian-de-jian-yue",
+        "the-boundary-of-perception-and-the-infinity-of-understanding",
         "causality-and-the-irreducible-prior",
         "consciousness-never-appears-as-data-among-data",
         "the-generative-atlas-of-macroscopic-phenomena",
@@ -1096,7 +1098,7 @@
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
       "hash": "3380a7f3026b",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 8,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -4633,6 +4635,25 @@
       ]
     },
     {
+      "id": "post:the-boundary-of-perception-and-the-infinity-of-understanding",
+      "kind": "post",
+      "slug": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "path": "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md",
+      "title": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding",
+      "hash": "7d8e54bd1e32",
+      "in_degree": 3,
+      "out_degree": 7,
+      "links_out": [
+        "choice-itself-has-no-inherent-weight",
+        "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "agency-does-not-arise",
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+        "the-explanatory-trap-of-the-ordinary-perspective",
+        "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+        "abstract-pain-and-living-hunger"
+      ]
+    },
+    {
       "id": "post:the-boundary-of-the-frame",
       "kind": "post",
       "slug": "the-boundary-of-the-frame",
@@ -5098,7 +5119,7 @@
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
       "hash": "1541ba257aae",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 13,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -6077,14 +6098,15 @@
       "slug": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "path": "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md",
       "title": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation",
-      "hash": "73983ea1555d",
-      "in_degree": 6,
-      "out_degree": 8,
+      "hash": "bfb66fea7d34",
+      "in_degree": 7,
+      "out_degree": 9,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "agency-does-not-arise",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "openness-is-consistency",
+        "the-boundary-of-perception-and-the-infinity-of-understanding",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-cartesian-overstep-and-the-frenzy-of-creation",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
@@ -7022,16 +7044,17 @@
       "slug": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
-      "hash": "43b84567c3c3",
-      "in_degree": 3,
-      "out_degree": 6,
+      "hash": "3b12b67585c1",
+      "in_degree": 4,
+      "out_degree": 7,
       "links_out": [
         "abstract-pain-and-living-hunger",
         "subtracting-consciousness-at-the-source",
         "silicon-oracles-and-the-asymmetry-of-consequence",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "the-irreducible-observer",
-        "consciousness-never-appears-as-data-among-data"
+        "consciousness-never-appears-as-data-among-data",
+        "the-boundary-of-perception-and-the-infinity-of-understanding"
       ]
     },
     {
@@ -9403,6 +9426,12 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "Dimensions are Projections"
@@ -9412,6 +9441,12 @@
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "Overcoming the Usurpation of Concepts"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "The Boundary of Perception and the Infinity of Understanding"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -19830,6 +19865,90 @@
       "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
     },
     {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "选择本身没有任何固有重量"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "因果不可化约，物理是无人视角的投射"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "Causality is Irreducible, the Physical is a View from Nowhere"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性决非涌现而出"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "Agency Does Not Arise"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "普通人视角的解释陷阱"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the Ordinary Perspective"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "意识的魔术戏法与推断的非对称性"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "abstract-pain-and-living-hunger",
+      "rel": "points_to",
+      "label": "抽象痛苦与鲜活饥饿"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Consciousness and the Asymmetry of Inference"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "abstract-pain-and-living-hunger",
+      "rel": "points_to",
+      "label": "Abstract Pain and Living Hunger"
+    },
+    {
       "from": "the-boundary-of-the-frame",
       "to": "what-information-is",
       "rel": "points_to",
@@ -24097,6 +24216,12 @@
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "The Explanatory Trap of the Ordinary Perspective"
@@ -24106,6 +24231,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "The Boundary of Perception and the Infinity of Understanding"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -27202,6 +27333,18 @@
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "consciousness-never-appears-as-data-among-data"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "The Boundary of Perception and the Infinity of Understanding"
     },
     {
       "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
