@@ -537,6 +537,24 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             else:
                 passes.append("Walkthrough one-click copiable code blocks check (all 4 platform copies enclosed in fenced code blocks)")
 
+            # Verify that Companion NotebookLM Prompts in walkthrough are each enclosed in one-click copiable code blocks
+            notebooklm_patterns = ['NotebookLM Prompts', 'NotebookLM 提示词']
+            nlm_found_pos = -1
+            for pat in notebooklm_patterns:
+                pos = w_content.find(pat)
+                if pos != -1:
+                    nlm_found_pos = pos
+                    break
+            if nlm_found_pos != -1:
+                next_header = re.search(r'\n##\s+(?:6\.|Multi-Platform|多平台)', w_content[nlm_found_pos + 10:])
+                end_pos = (nlm_found_pos + 10 + next_header.start()) if next_header else len(w_content)
+                nlm_sec = w_content[nlm_found_pos:end_pos]
+                nlm_code_blocks = re.findall(r'```(?:[a-zA-Z0-9_-]+)?\s*\n(.*?)\n```', nlm_sec, re.DOTALL)
+                if len(nlm_code_blocks) < 2:
+                    errors.append(f"Walkthrough Companion NotebookLM Prompts missing full prompt texts enclosed in one-click copiable fenced code blocks (found {len(nlm_code_blocks)}, expected 2: Audio Dialogue and Video Monologue). Rule: Both prompt texts must be provided as complete copiable blocks.")
+                else:
+                    passes.append("Walkthrough Companion NotebookLM prompts one-click copiable code blocks check (Audio Dialogue & Video Monologue full prompt blocks present)")
+
             # Strictly prohibit any fake/hallucinated domain in walkthrough
             fake_walkthrough_domains = re.findall(r'https?://(?:www\.)?not-?a-?toe\.(?:org|com|net|io|ai|xyz)', w_content, re.IGNORECASE)
             if fake_walkthrough_domains:
