@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-02T17:14:09.465Z",
+    "generated_at": "2026-10-03T05:12:54.363Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md",
     "link_pattern": "](../slug/)",
@@ -172,14 +172,14 @@
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "b25f1b49b6e0",
       "content/posts/shared-humanity-is-never-shared.md": "22c1be7732c9",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "53f39dbc81b8",
-      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "fad9fbe8eaef",
+      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "609c2a52892b",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "595bc1450ee1",
       "content/posts/sovereignty-essay.md": "1a2c7d57acf3",
       "content/posts/sowell-observed-the-surface-problem.md": "38216bcac027",
       "content/posts/stability-and-excess.md": "a439cbed2235",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "ae77b9ede8b3",
-      "content/posts/subtracting-consciousness-at-the-source.md": "f75b5b5a5226",
+      "content/posts/subtracting-consciousness-at-the-source.md": "d60fb3a0d146",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "a4c23a576bff",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "ba001bbc15a9",
       "content/posts/technology-is-residual-of-human-compounding.md": "2d2d07f8486b",
@@ -254,7 +254,7 @@
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2413ca14ec54",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "08233385869e",
-      "content/posts/the-irreducible-observer.md": "6f701b53d6fa",
+      "content/posts/the-irreducible-observer.md": "c21367062a6c",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "d8ad12abb11d",
@@ -314,6 +314,7 @@
       "content/posts/the-self-portrait-in-the-projection.md": "808c89cf0ac1",
       "content/posts/the-shadow-and-the-infinite.md": "900802f5388b",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "4216d0e9136d",
+      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5419f196c18d",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "71946e0f5b68",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
@@ -371,13 +372,13 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80"
     },
     "stats": {
-      "posts": 361,
-      "edges": 3691,
-      "unique_directed": 3244,
+      "posts": 362,
+      "edges": 3707,
+      "unique_directed": 3252,
       "missing_targets": 0,
-      "one_way": 898,
+      "one_way": 900,
       "isolated": 40,
-      "posts_with_outbound": 296
+      "posts_with_outbound": 297
     }
   },
   "hubs_in": [
@@ -662,7 +663,7 @@
       "path": "content/posts/abstract-pain-and-living-hunger.md",
       "title": "抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger",
       "hash": "9931f7211ff5",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 5,
       "links_out": [
         "the-ledger-of-the-unencountered",
@@ -1389,7 +1390,7 @@
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
       "title": "Consciousness Never Appears as Data Among Data",
       "hash": "e7cdc34df141",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 18,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -4118,10 +4119,11 @@
       "slug": "silicon-oracles-and-the-asymmetry-of-consequence",
       "path": "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md",
       "title": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence",
-      "hash": "fad9fbe8eaef",
-      "in_degree": 3,
-      "out_degree": 7,
+      "hash": "609c2a52892b",
+      "in_degree": 4,
+      "out_degree": 8,
       "links_out": [
+        "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "the-category-error-of-better",
         "the-sovereign-blinding",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -4254,11 +4256,12 @@
       "slug": "subtracting-consciousness-at-the-source",
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
-      "hash": "f75b5b5a5226",
-      "in_degree": 5,
-      "out_degree": 8,
+      "hash": "d60fb3a0d146",
+      "in_degree": 6,
+      "out_degree": 9,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
+        "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
         "the-perceiver-and-the-trace",
@@ -5781,15 +5784,16 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "6f701b53d6fa",
-      "in_degree": 6,
-      "out_degree": 10,
+      "hash": "c21367062a6c",
+      "in_degree": 7,
+      "out_degree": 11,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-twin-paradox-and-the-hidden-observer",
         "subtracting-consciousness-at-the-source",
         "what-hinton-failed-to-understand",
+        "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "the-boundary-crossing-of-choice",
         "the-scaffolding-we-forget",
         "openness-is-consistency",
@@ -7010,6 +7014,23 @@
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
         "openness-is-consistency"
+      ]
+    },
+    {
+      "id": "post:the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "kind": "post",
+      "slug": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
+      "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
+      "hash": "5419f196c18d",
+      "in_degree": 3,
+      "out_degree": 5,
+      "links_out": [
+        "abstract-pain-and-living-hunger",
+        "subtracting-consciousness-at-the-source",
+        "silicon-oracles-and-the-asymmetry-of-consequence",
+        "the-irreducible-observer",
+        "consciousness-never-appears-as-data-among-data"
       ]
     },
     {
@@ -18219,6 +18240,18 @@
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "意识的魔术戏法与推断的非对称性"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
       "to": "the-category-error-of-better",
       "rel": "points_to",
       "label": "「更好」的范畴谬误"
@@ -18591,9 +18624,21 @@
     },
     {
       "from": "subtracting-consciousness-at-the-source",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "意识的魔术戏法与推断的非对称性"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Consciousness and the Asymmetry of Inference"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -23369,13 +23414,19 @@
       "from": "the-irreducible-observer",
       "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
-      "label": "在源头处减去意识"
+      "label": "集聚与人造主体性"
     },
     {
       "from": "the-irreducible-observer",
       "to": "what-hinton-failed-to-understand",
       "rel": "points_to",
       "label": "辛顿未曾理解的心智"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "意识的魔术戏法与推断的非对称性"
     },
     {
       "from": "the-irreducible-observer",
@@ -23388,6 +23439,12 @@
       "to": "what-hinton-failed-to-understand",
       "rel": "points_to",
       "label": "what-hinton-failed-to-understand"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference"
     },
     {
       "from": "the-irreducible-observer",
@@ -27072,6 +27129,66 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "abstract-pain-and-living-hunger",
+      "rel": "points_to",
+      "label": "抽象痛苦与鲜活饥饿"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "abstract-pain-and-living-hunger",
+      "rel": "points_to",
+      "label": "abstract-pain-and-living-hunger"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "集聚与人造主体性"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "subtracting-consciousness-at-the-source"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "silicon-oracles-and-the-asymmetry-of-consequence"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "意识从不作为数据中的数据出现"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "the-irreducible-observer"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "consciousness-never-appears-as-data-among-data"
     },
     {
       "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
