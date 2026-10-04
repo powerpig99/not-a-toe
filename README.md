@@ -13,12 +13,17 @@ Guides (read these instead of re-deriving the workflow each time):
 | X Article API (parked) | [`docs/export-for-x-article.md`](docs/export-for-x-article.md) |
 | Local memory / sleep audit / graphs | [`docs/local-memory.md`](docs/local-memory.md) — trackers: `node scripts/project-local-graph.mjs`; posts lattice: `node scripts/project-posts-graph.mjs` |
 
-1. Add essays in `content/posts/*.md`.
-2. The first line must be `# Title`.
-3. Filename is the post slug and permalink (`/posts/<filename>/`).
-4. Optional title/cover image: place `assets/covers/<slug>.jpg` (also `.jpeg`, `.png`, `.webp`) — landscape; prefer **20:9** (1280×576) when available, **16:9 as-is** OK (no forced crop). Same file for site, Substack, and X Article. Build copies it to `public/covers/`. Spec + style differentiation: [`assets/covers/STYLES.md`](assets/covers/STYLES.md).
-5. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) as **reference** for site scaffold (subtitle, lead, sections). Full checklist + **refinement workflow** (operator draft is ground; surgical precision under `/ontological-clarity`; no rewrite/collapse into prior posts) + **living tracing** (same-axis old residue re-traced on each drop, not a catalog of finished products): [`content/posts/README.md`](content/posts/README.md).
-6. Internal cross-links stay **relative** (`[title](../other-slug/)`) in source. After live, **always generate** the absolute-markdown paste file for Substack / X Article (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)). Generate is required on ship; **paste** is operator-only and may wait:
+1. Add essays in `content/posts/<slug>.md` (bilingual `# Title`, italic single-sentence subtitle, alternating paragraphs, zero lists).
+2. Live Book Placement: Assign to exactly one part in `content/book/<part>.md` (placed last in written order); add or extend substantive entries in `content/book/index-of-premises.md` (label from 8 families, bilingual premise sentences, `→` link).
+3. Filename is the post slug and permalink (`/posts/<slug>/`).
+4. Cover image: place `assets/covers/<slug>.jpg` — ultra-wide **21:9** landscape (`1344×576`, Qwen-Image-2.1 MPS; 20:9 `1280×576` fallback). Content-driven novel artistic style registered in [`assets/covers/STYLES.md`](assets/covers/STYLES.md).
+5. Companion NotebookLM Prompts: Chinese Audio Dialogue (`< 8.5 KB`, 2–4 opening turns with canonical opening) and Video Monologue (compact spoken script, ~9 KB) under `notebooklm-auto/prompts/`.
+6. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) as **reference** for site scaffold. Full checklist + **refinement workflow** + **lattice consistency**: [`content/posts/README.md`](content/posts/README.md).
+7. Internal cross-links stay **relative** (`[title](../other-slug/)`).
+8. Preflight validation:
+   - `python3 scripts/audit-post.py <slug>` (CLEAN PASS across all 10 invariants).
+   - `python3 scripts/audit-book.py` (CLEAN PASS for the live book).
+9. After live, **always generate** the absolute-markdown paste file for Substack / X Article (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)):
 
 ```bash
 node scripts/export-absolute-md.mjs <slug>          # → export/<slug>.md (required after live)
@@ -28,15 +33,14 @@ node scripts/export-absolute-md.mjs <slug>          # → export/<slug>.md (requ
 
 CI builds and deploys Pages on push to `main`. **Push is not live** until Actions finishes and the post URL returns 200.
 
-Full ship checklist (preflight → reverse links → **lattice consistency on same-axis old essays** → push → `gh run watch` → live curl → **required** export generate): [`content/posts/README.md`](content/posts/README.md) § Ship checklist. “Finish the rest” means that full sequence — not site-only.
+Full ship checklist (preflight audits → reverse links → live book placement → push → `gh run watch` → live curl → **required** export generate): [`content/posts/README.md`](content/posts/README.md) § Ship checklist.
 
 ```bash
-git add content/posts/<slug>.md
-git commit -m "Add <title> essay"
+git add content/posts/<slug>.md content/book/<part>.md content/book/index-of-premises.md assets/covers/<slug>.jpg assets/covers/STYLES.md notebooklm-auto/prompts/<slug>_zh.txt notebooklm-auto/prompts/<slug>_video_zh.txt
+git commit -m "Publish Post #XXX: <Title>"
 git push origin main
 gh run watch --exit-status
 curl -sI "https://powerpig99.github.io/not-a-toe/posts/<slug>/" | head -1
-# if no run starts: gh workflow run deploy.yml --ref main
 node scripts/export-absolute-md.mjs <slug>   # required after live; paste is operator
 ```
 

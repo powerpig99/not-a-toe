@@ -1,10 +1,16 @@
 # Not a ToE — Standard Operating Procedures & Invariants
+> **非定论的心智指南 / A Non-Definitive Guide for the Mind**
+> **Living Operating Manual for the Mind (心智操作手册)**
 
 ## Core Working Philosophy
 > **"非必要不变更，防止无意识漂移。"**
 > Standard conventions remain consistent by default across sessions.
 > They are non-dogmatic: intentional, context-driven variations are permitted when specifically requested,
 > but accidental omission, convenience-driven shortcutting, and unconscious drift are caught before release.
+>
+> **Epistemological Stance of the Living Operating Manual:**
+> The repository is not merely an essay blog, but the living source code of an evolving Non-Definitive Guide / Operating Manual for the Mind.
+> Every essay is a discrete operative cut tracing commonly held beliefs—whether ideological, religious, philosophical, self-help, or under the **scientific label** (physics, mathematics/logic, biology/evolution, neuroscience, statistics/probability, information theory, ML, economics-as-science)—back to their foundational premises. The foundational premise marks the **boundary of incompleteness**: where the premise sits is where the model fails to be universal. Within their applicable contexts, these theories remain highly useful; the cut does not refute them, it locates their boundary.
 
 ---
 

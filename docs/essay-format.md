@@ -56,6 +56,11 @@ Output rules (strict):
     - Both prompt files must be strictly link-free (no markdown or HTML links), contain 0 banned words, and contain 0 raw `$` symbols. Audio prompts must strictly adhere to concise limits (< 8.5 KB, 2–4 opening turns).
 24. Standard Walkthrough Contract:
     - Every post walkthrough must embed the visual artifact, describe the cover art style and concept, catalogue all dark-theme Mermaid diagrams with semantic coloring, articulate core epistemological cuts, report invariant diagnostic check results, include full text and links for Companion NotebookLM Prompts, and provide multi-platform publishing copies (Spotify Podcast ZH, Spotify Podcast EN, WeChat Video Channels [strictly requiring a punchy short title `<= 16` Chinese characters, concise caption, canonical live URL, and 3–5 `#话题` topic tags], and X/Twitter EN Only; all four platform copies must explicitly include the original essay live URL: `https://powerpig99.github.io/not-a-toe/posts/<slug>/`).
+25. Live Book Placement & Index of Premises (Standard Deliverable):
+    - The essay must be placed into the living book (*非定论的心智指南 / A Non-Definitive Guide for the Mind*):
+      - Append the post to the `## 篇目 / Essays` list of exactly one part in `content/book/<part>.md` (placed last in written order).
+      - Add or extend substantive entries in `content/book/index-of-premises.md` for any figure, theory, or concept dissected (label from the 8 families, bilingual premise sentences, `→` post link).
+    - Preflight verification requires both `python3 scripts/audit-post.py <slug>` and `python3 scripts/audit-book.py` returning CLEAN PASS.
 ```
 
 Full title / subtitle / lead jobs, refinement workflow, and anti-repetition check: [`content/posts/README.md`](../content/posts/README.md) (owner).

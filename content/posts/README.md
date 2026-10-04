@@ -16,6 +16,8 @@ Living guide for essays in this folder. Source of truth for site content lives h
 
 Write for clarity of the Mind writing — not to inform other Minds. Every post lives by that: the dual as generative ground, open residue under load, never a finished product or ground truth. Do not announce the stance; do not perform it for an audience. Live it as background voice while drafting. Stating it installs an image to defend.
 
+The collection forms the living body of **《非定论的心智指南》 / *A Non-Definitive Guide for the Mind*** (Living Operating Manual for the Mind). Each essay cuts through a prevailing belief—ideological, philosophical, religious, self-help, or under the scientific label (physics, mathematics/logic, biology/evolution, neuroscience, statistics, information theory, ML, economics-as-science)—back to its foundational premise boundary. Structure lives only as relative links in `content/book/*.md`.
+
 The collection is an evolving living tracing — not a catalog of finished products. Each essay is a further discrete act in one field; a later cut re-traces earlier residue on the same axis. Same-slug revise when a newer cut clarifies an older face; prefer pointer updates over URL churn. Lattice consistency is that re-tracing, not maintenance of a sealed set. Relations live only as relative cross-links in prose — the posts graph is a disposable projection of those links, never a second inventory.
 
 One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit only under `content/posts/`; never hand-edit `public/` or treat `export/` as source.
@@ -23,7 +25,9 @@ One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit 
 ## File layout
 
 ```text
-content/posts/<slug>.md          # source (this folder)
+content/posts/<slug>.md          # essay source (this folder)
+content/book/<part>.md           # live book part placement (assigned to exactly one part, placed last)
+content/book/index-of-premises.md # Index of Premises entry additions/extensions
 assets/covers/<slug>.jpg         # default 21:9 / 1344×576 (or 20:9 / 1280×576) via Qwen-Image-2.1
 notebooklm-auto/prompts/<slug>_zh.txt       # companion audio dialogue prompt (明理 & 雨涵, concise 2-4 opening turns, <8.5KB)
 notebooklm-auto/prompts/<slug>_video_zh.txt # companion video monologue prompt (full spoken script)
@@ -350,14 +354,21 @@ node scripts/export-absolute-md.mjs "$SLUG"
 
 ## New essay checklist
 
-1. [ ] Draft `content/posts/<slug>.md` to format contract (title / subtitle / lead / `##` body).
+1. [ ] Draft `content/posts/<slug>.md` to format contract (title / subtitle / lead / `##` body). Prose over lists (strictly 0 lists outside Mermaid).
 2. [ ] Section headings name each cut — no generic slots (*What Remains*, *Conclusion*, *Summary*, …).
-3. [ ] Refine for mechanism language; fold any seed tweet into the lead so the essay stands alone.
+3. [ ] Refine for mechanism language; fold any seed observation into the lead so the essay stands alone.
 4. [ ] Add relative cross-links as axis pointers; verify slugs exist (`node scripts/project-posts-graph.mjs` → `missing_targets` must stay 0).
-5. [ ] Cover: new style per STYLES.md; **20:9** landscape preferred (**16:9 as-is** OK); install; update STYLES.md.
-6. [ ] Neighbor reverse pointers **in the same ship** (two-way default). **Lattice consistency:** identify same-axis old claims that are now false, over-closed, or incomplete; nick or restore them in the old prose; regenerate posts graph.
-7. [ ] **Ship:** preflight → commit/push → `gh run watch` → live post (and cover) URL 200.
-8. [ ] **Export (required after live):** `node scripts/export-absolute-md.mjs <slug>` → `export/<slug>.md` ([`docs/export-for-substack.md`](../../docs/export-for-substack.md)). Paste into Substack / X is operator-only and may wait; generating the file does not.
+5. [ ] Cover: novel style per STYLES.md; **21:9** landscape (`1344×576`, Qwen-Image-2.1 MPS; 20:9 fallback); install; update STYLES.md.
+6. [ ] Companion NotebookLM Prompts: Audio Dialogue (`notebooklm-auto/prompts/<slug>_zh.txt`, < 8.5 KB, 2–4 opening turns with canonical opening) and Video Monologue (`notebooklm-auto/prompts/<slug>_video_zh.txt`, full spoken script, ~9 KB).
+7. [ ] Neighbor reverse pointers **in the same ship** (two-way default). **Lattice consistency:** identify same-axis old claims that are now false, over-closed, or incomplete; nick or restore them in the old prose; regenerate posts graph.
+8. [ ] **Live Book Placement & Index of Premises:**
+   - Append post to the `## 篇目 / Essays` list of exactly one part in `content/book/<part>.md` (placed last in written order).
+   - Add/extend substantive entries in `content/book/index-of-premises.md` (label chip from 8 families, bilingual premise sentences, `→` post link).
+9. [ ] **Preflight Automated Audits:**
+   - `python3 scripts/audit-post.py <slug>` → must return CLEAN PASS (verifies all 10 invariants including live-book placement).
+   - `python3 scripts/audit-book.py` → must return CLEAN PASS (verifies whole book structure, written order, premise reach).
+10. [ ] **Ship:** preflight → commit/push (confirm before push) → `gh run watch` → live post (and cover) URL 200.
+11. [ ] **Export (required after live):** `node scripts/export-absolute-md.mjs <slug>` → `export/<slug>.md` ([`docs/export-for-substack.md`](../../docs/export-for-substack.md)). Paste into Substack / X is operator-only and may wait; generating the file does not.
 
 ## After shipping
 
