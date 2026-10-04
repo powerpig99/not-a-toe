@@ -171,6 +171,51 @@ function build() {
     sources[node.path] = node.hash;
   }
 
+  // Live book (content/book/*.md): projected as its own node kind so essay-to-essay
+  // hub statistics stay unchanged, while broken book links still surface as missing.
+  const bookDir = path.join(root, 'content', 'book');
+  const bookNodes = [];
+  const bookEdges = [];
+  const bookMissing = [];
+  if (fs.existsSync(bookDir)) {
+    const bookFiles = fs.readdirSync(bookDir).filter((f) => f.endsWith('.md')).sort();
+    const bookSlugs = new Set(bookFiles.map((f) => path.basename(f, '.md')));
+    for (const f of bookFiles) {
+      const abs = path.join(bookDir, f);
+      const bslug = path.basename(f, '.md');
+      const md = fs.readFileSync(abs, 'utf8');
+      const targets = new Set();
+      for (const link of extractMdLinks(md)) {
+        const href = link.href.split('#')[0].trim();
+        let m = href.match(/^\.\.\/\.\.\/posts\/([A-Za-z0-9][A-Za-z0-9_-]*)\/?$/);
+        if (m) {
+          if (!slugSet.has(m[1])) {
+            bookMissing.push({ from: `book:${bslug}`, to: m[1], label: link.text });
+            continue;
+          }
+          bookEdges.push({ from: `book:${bslug}`, to: m[1], rel: 'collects', label: link.text });
+          targets.add(m[1]);
+          continue;
+        }
+        m = href.match(/^\.\.\/([a-z0-9-]+)\/?$/);
+        if (m && !bookSlugs.has(m[1])) {
+          bookMissing.push({ from: `book:${bslug}`, to: `book:${m[1]}`, label: link.text });
+        }
+      }
+      sources[path.relative(root, abs)] = fileHash(abs);
+      bookNodes.push({
+        id: `book:${bslug}`,
+        kind: 'book',
+        slug: bslug,
+        path: path.relative(root, abs),
+        title: extractTitle(md) || bslug,
+        hash: fileHash(abs),
+        out_degree: targets.size,
+      });
+    }
+  }
+  missing.push(...bookMissing);
+
   return {
     meta: {
       projection: 'disposable',
@@ -178,8 +223,8 @@ function build() {
       regenerate: 'node scripts/project-posts-graph.mjs',
       generated_at: new Date().toISOString(),
       project: 'not-a-toe',
-      source_glob: 'content/posts/*.md',
-      link_pattern: '](../slug/)',
+      source_glob: 'content/posts/*.md + content/book/*.md',
+      link_pattern: '](../slug/) in posts · ](../../posts/slug/) in book',
       sources,
       stats: {
         posts: nodesBySlug.size,
@@ -189,6 +234,9 @@ function build() {
         one_way: oneWay,
         isolated: orphans.length,
         posts_with_outbound: [...nodesBySlug.values()].filter((n) => n.out_degree > 0).length,
+        book_pages: bookNodes.length,
+        book_edges: bookEdges.length,
+        posts_reached_by_book: new Set(bookEdges.map((e) => e.to)).size,
       },
     },
     hubs_in: hubsIn,
@@ -197,6 +245,7 @@ function build() {
     orphans,
     nodes: [...nodesBySlug.values()].sort((a, b) => a.slug.localeCompare(b.slug)),
     edges,
+    book: { nodes: bookNodes, edges: bookEdges },
   };
 }
 
@@ -338,6 +387,7 @@ if (stdout) {
   console.log(
     `  posts=${s.posts} edges=${s.edges} unique=${s.unique_directed} missing=${s.missing_targets} one_way=${s.one_way} isolated=${s.isolated} with_out=${s.posts_with_outbound}`,
   );
+  console.log(`  book_pages=${s.book_pages} book_edges=${s.book_edges} posts_reached_by_book=${s.posts_reached_by_book}`);
   if (graph.missing.length) {
     console.log('  missing targets:');
     for (const m of graph.missing.slice(0, 20)) {

@@ -661,3 +661,248 @@ tr:nth-child(even) {
   color: var(--fg);
 }
 
+/* ------------------------------------------------------------------ */
+/* Live book                                                           */
+/* ------------------------------------------------------------------ */
+
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 1.25rem;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.site-nav a:hover,
+.site-nav a[aria-current="page"] {
+  color: var(--fg);
+}
+
+.book-front {
+  margin: 0 0 2.5rem;
+  padding: 0 0 2rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.book-title {
+  margin: 0 0 0.75rem;
+  line-height: 1.2;
+  font-size: clamp(1.7rem, 4.6vw, 2.5rem);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+
+.book-subtitle {
+  margin: 0 0 1.5rem;
+  font-size: clamp(1.02rem, 2.2vw, 1.15rem);
+  line-height: 1.5;
+  opacity: 0.82;
+}
+
+.book-section-title {
+  margin: 2.5rem 0 1.25rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+}
+
+.toc-list,
+.part-entries {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc-item,
+.part-entry {
+  margin: 0 0 1.35rem;
+  padding: 0 0 1.35rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.toc-link,
+.toc-index {
+  display: block;
+}
+
+.toc-num,
+.part-kicker {
+  display: block;
+  margin: 0 0 0.2rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+.toc-title,
+.part-entry-title {
+  display: block;
+  font-size: 1.22rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.toc-link:hover .toc-title,
+.toc-index:hover .toc-title,
+.part-entry-title:hover {
+  opacity: 0.75;
+}
+
+.toc-sub,
+.part-entry-sub {
+  margin: 0.3rem 0 0.25rem;
+  font-size: 1rem;
+  line-height: 1.55;
+  color: var(--muted);
+}
+
+.toc-index {
+  margin: 1.75rem 0 0;
+  padding: 1rem 1.15rem;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+}
+
+.toc-index .meta {
+  display: block;
+  margin-top: 0.3rem;
+}
+
+.journal-latest .post-list {
+  margin-top: 0.5rem;
+}
+
+.more-link {
+  margin: 1.5rem 0 0;
+  font-size: 1rem;
+}
+
+.more-link a,
+.breadcrumb a,
+.part-tag a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 1px;
+}
+
+.breadcrumb {
+  margin: 0 0 1rem;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+.breadcrumb a:hover,
+.part-tag a:hover {
+  color: var(--fg);
+}
+
+.part-tag {
+  margin: 0 0 0.35rem !important;
+  font-size: 0.82rem !important;
+  letter-spacing: 0.02em;
+}
+
+.nav-caption {
+  margin: 2.5rem 0 0;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+.nav-caption + .post-nav {
+  margin-top: 0.5rem;
+}
+
+.part-nav .part-home {
+  font-weight: 700;
+}
+
+.index-sections {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  margin: 1.5rem 0 0;
+  font-size: 0.95rem;
+}
+
+.index-sections a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 1px;
+}
+
+.az-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.6rem;
+  margin: 0 0 1.5rem;
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+
+.az-bar a:hover {
+  color: var(--fg);
+}
+
+.index-entry {
+  margin: 0 0 1.5rem;
+  padding: 0 0 1.5rem;
+  border-bottom: 1px solid var(--rule);
+  scroll-margin-top: 1rem;
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+.index-entry:target {
+  background: color-mix(in srgb, var(--fg) 4%, transparent);
+}
+
+.index-entry h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.15rem;
+  line-height: 1.3;
+}
+
+.index-entry p {
+  margin: 0 0 0.6rem;
+}
+
+.label-chip {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0.05rem 0.45rem;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+  vertical-align: middle;
+}
+
+.index-links {
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+
+.index-links a {
+  color: var(--fg);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 1px;
+}
+
+.index-links a:hover {
+  opacity: 0.75;
+}
+

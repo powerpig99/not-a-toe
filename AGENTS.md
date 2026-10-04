@@ -108,12 +108,26 @@ Stored in the active conversation artifact directory, structured as:
 - **Narrative Prose Refinement**: Do not merely append naked links; organically rewrite and deepen the surrounding narrative prose of the linked essays to weave in the new essay's conceptual advances, epistemological cuts, and distinctions.
 - **Invariant Adherence**: Modified linked essays must preserve strict bilingual symmetry (parallel updates in both Chinese and English sections) and pass all repository invariants (zero banned words, zero bulleted/numbered lists in prose, proper relative links).
 
+### 6. Live Book Placement & Index of Premises (活书归部与前提索引)
+The site is a live book, *非定论的心智指南 / A Non-Definitive Guide for the Mind*. Book structure lives **only** as relative links inside `content/book/*.md`, the same way essay relations live only as cross-links in prose. It is never a second inventory.
+- **Part placement (exactly one)**: Append the new post to the `## 篇目 / Essays` list of the one part (`content/book/<part>.md`) whose held belief it most directly dissects, as `- [<Title>](../../posts/<slug>/)`. Parts list essays **in the order written**, so a new post goes **last**. Part order is the single `PART_ORDER` constant in `build.mjs`. A new part needs a bilingual part file plus a `PART_ORDER` entry.
+- **Index of Premises**: For every figure (living or historical), theory, or concept the post **substantively** dissects, add a new entry or extend an existing one in `content/book/index-of-premises.md`. This includes theories under the **scientific label** (physics, mathematics, biology, neuroscience, statistics, information theory, ML, economics-as-science), treated exactly like ideological, religious, philosophical, or self-help beliefs. Entry shape:
+  - `### <中文名> / <English Name>`;
+  - a label line from the fixed set: `科学 / Scientific`, `数学 / Mathematical`, `哲学 / Philosophical`, `宗教 / Religious`, `意识形态 / Ideological`, `经济 / Economic`, `技术 / Technological`, `成功学 / Self-Help`;
+  - one Chinese sentence, then one English sentence, naming the foundational premise, where it becomes incomplete, and where it stays useful (no verdicts of "false", no moralizing);
+  - a `→` line of `[<Title>](../../posts/<slug>/)` links.
+
+  Passing name-drops do not earn an entry.
+- **Book prose invariants**: Part prefaces, the book preface, and the Index follow the essay rules: bilingual alternating paragraphs, zero banned words, zero raw `$`, relative links only. Title and italic subtitle follow the same delimiter rules.
+- **Stay simple**: The build reads membership from the links, and fails if a post is in no part, sits in two, or a book link does not resolve. Never hand-maintain counts or duplicate lists elsewhere.
+
 ---
 
 ## Standard Automated Audit & Build Pipeline
 
 Always execute the complete verification sequence before finalizing:
-1. `python3 scripts/audit-post.py <slug>` — Verifies all 9 authoring invariants (title/subtitle separation, banned words, latex, links, lists, mermaid dark theme & vertical flow, walkthrough, and companion prompts). Must return **CLEAN PASS**.
+1. `python3 scripts/audit-post.py <slug>` — Verifies all 10 authoring invariants (title/subtitle separation, banned words, latex, links, lists, mermaid dark theme & vertical flow, walkthrough, companion prompts, cover, and live-book placement). Must return **CLEAN PASS**.
+1b. `python3 scripts/audit-book.py` — Verifies the whole live book: every post placed in exactly one part, parts in written order, all book links resolve, book prose invariants, Index entry shape, and per-label balance. Must return **CLEAN PASS**.
 2. **Reverse Linking & Prose Refinement** — Establish backlinks and refine surrounding narrative prose in key referenced essays; verify modified essays pass repository invariants.
 3. `node build.mjs` — Compiles the static site into `public/`.
 4. `node scripts/project-posts-graph.mjs` — Re-projects lattice graph; ensures `missing_targets: 0`.

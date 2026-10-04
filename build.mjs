@@ -34,6 +34,33 @@ const faviconDataUri = `data:image/svg+xml,${encodeURIComponent(faviconSvg)}`;
 const COVER_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.webp'];
 const APPLE_TOUCH_ICON = 'apple-touch-icon.png';
 
+// Live book: structure lives only as relative links inside content/book/*.md.
+// PART_ORDER is the single ordering constant; membership is read from each part's
+// "## 篇目 / Essays" link list, so there is no second inventory.
+const bookDir = path.join(scriptDir, 'content', 'book');
+const BOOK_PREFACE_SLUG = 'preface';
+const BOOK_INDEX_SLUG = 'index-of-premises';
+const BOOK_ESSAYS_HEADING_RE = /^##\s+篇目\s*\/\s*Essays\s*$/;
+const PART_ORDER = [
+  'method',
+  'causality',
+  'physics',
+  'mathematics',
+  'life-and-statistics',
+  'consciousness',
+  'intelligence',
+  'economics',
+  'state-and-collective',
+  'morality',
+  'meaning-and-transcendence',
+  'knowledge-and-learning',
+  'success-and-the-self',
+  'tools-and-progress',
+];
+const ROMAN = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI'];
+const ZH_NUM = ['', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二', '十三', '十四', '十五', '十六'];
+const JOURNAL_LATEST_COUNT = 8;
+
 const REDIRECTS = [
   {
     from: 'posts/the-deflection-of-the-vector-and-the-puzzle-of-projections',
@@ -786,15 +813,234 @@ function readPosts(files) {
 }
 
 function sortPosts(posts) {
-  const pinned = posts.find((post) => post.slug === SITE.pinnedSlug) || null;
-  const rest = posts
-    .filter((post) => post.slug !== SITE.pinnedSlug)
-    .sort((a, b) => {
-      if (a.dateIso !== b.dateIso) return b.dateIso.localeCompare(a.dateIso);
-      return a.slug.localeCompare(b.slug);
-    });
+  return [...posts].sort((a, b) => {
+    if (a.dateIso !== b.dateIso) return b.dateIso.localeCompare(a.dateIso);
+    return a.slug.localeCompare(b.slug);
+  });
+}
 
-  return pinned ? [pinned, ...rest] : rest;
+/* ------------------------------------------------------------------ */
+/* Live book                                                           */
+/* ------------------------------------------------------------------ */
+
+function splitBilingual(text) {
+  const idx = text.indexOf(' / ');
+  if (idx === -1) return { zh: text, en: '' };
+  return { zh: text.slice(0, idx).trim(), en: text.slice(idx + 3).trim() };
+}
+
+function bookPostSlugFromHref(href) {
+  const m = /^\.\.\/\.\.\/posts\/([A-Za-z0-9][A-Za-z0-9_-]*)\/?(#.*)?$/.exec(href.trim());
+  return m ? m[1] : null;
+}
+
+/** Book pages are authored with relative links (../../posts/x/, ../part/); rebase for any render location. */
+function rebaseBookMarkdown(markdown) {
+  return markdown
+    .replace(/\]\(\.\.\/\.\.\/posts\//g, `](${withBase('posts/')}`)
+    .replace(/\]\(\.\.\/(?!\.)/g, `](${withBase('book/')}`);
+}
+
+function anchorId(text) {
+  return text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+function sortKey(text) {
+  return text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/^[^A-Za-z0-9]+/, '')
+    .toLowerCase();
+}
+
+function partLabel(part) {
+  if (part.number === 0) return { zh: '序', en: 'Preface' };
+  return { zh: `第${ZH_NUM[part.number]}部`, en: `Part ${ROMAN[part.number]}` };
+}
+
+function readBookFile(slug) {
+  const fullPath = path.join(bookDir, `${slug}.md`);
+  if (!fs.existsSync(fullPath)) {
+    throw new Error(`Book file missing: content/book/${slug}.md`);
+  }
+  const source = fs.readFileSync(fullPath, 'utf8').replace(/^\uFEFF/, '');
+  const lines = source.split(/\r?\n/);
+  if (!lines[0].startsWith('# ')) {
+    throw new Error(`Invalid book title format in content/book/${slug}.md: first line must be '# Title'.`);
+  }
+  return { slug, title: lines[0].slice(2).trim(), lines: lines.slice(1) };
+}
+
+function readPremiseIndex(postsBySlug, errors) {
+  const { title, lines } = readBookFile(BOOK_INDEX_SLUG);
+  const sections = [];
+  const introLines = [];
+  let section = null;
+  let entry = null;
+
+  const finishEntry = () => {
+    if (!entry) return;
+    if (!entry.links.length) errors.push(`Index entry "${entry.title}" has no post link.`);
+    if (!entry.paras.length) errors.push(`Index entry "${entry.title}" has no premise sentence.`);
+    section.entries.push(entry);
+    entry = null;
+  };
+
+  for (const raw of lines) {
+    const line = raw.trim();
+    const h2 = /^##\s+(.+)$/.exec(line);
+    const h3 = /^###\s+(.+)$/.exec(line);
+    if (h2 && !h3) {
+      finishEntry();
+      const names = splitBilingual(h2[1].trim());
+      section = { title: h2[1].trim(), ...names, id: anchorId(names.en || names.zh), entries: [] };
+      sections.push(section);
+      continue;
+    }
+    if (h3) {
+      if (!section) {
+        errors.push(`Index entry "${h3[1]}" appears before any section heading.`);
+        continue;
+      }
+      finishEntry();
+      const names = splitBilingual(h3[1].trim());
+      entry = { title: h3[1].trim(), ...names, id: anchorId(names.en || names.zh), label: '', paras: [], links: [] };
+      continue;
+    }
+    if (!line) continue;
+    if (!entry) {
+      if (!section) introLines.push(raw);
+      continue;
+    }
+    if (/^`[^`]+`$/.test(line)) {
+      entry.label = line.slice(1, -1);
+      continue;
+    }
+    if (line.startsWith('→')) {
+      const re = /\[([^\]]+)\]\(([^)]+)\)/g;
+      let m;
+      while ((m = re.exec(line))) {
+        const slug = bookPostSlugFromHref(m[2]);
+        if (!slug || !postsBySlug.has(slug)) {
+          errors.push(`Index entry "${entry.title}" links to unknown post: ${m[2]}`);
+          continue;
+        }
+        if (!entry.links.includes(slug)) entry.links.push(slug);
+      }
+      continue;
+    }
+    entry.paras.push(line);
+  }
+  finishEntry();
+
+  const seenIds = new Map();
+  for (const s of sections) {
+    s.entries.sort((a, b) => sortKey(a.en || a.zh).localeCompare(sortKey(b.en || b.zh)));
+    for (const e of s.entries) {
+      const key = `${s.id}:${e.id}`;
+      if (seenIds.has(key)) errors.push(`Duplicate index entry in ${s.en}: "${e.title}"`);
+      seenIds.set(key, true);
+      e.id = `${s.id}-${e.id}`;
+    }
+  }
+
+  const { subtitle, bodyMarkdown } = extractOpening(introLines.join('\n').trimStart());
+  return {
+    slug: BOOK_INDEX_SLUG,
+    title,
+    subtitle,
+    introHtml: markdownToHtml(rebaseBookMarkdown(bodyMarkdown)),
+    sections,
+    outputPath: `book/${BOOK_INDEX_SLUG}/`,
+  };
+}
+
+function readBook(posts) {
+  if (!fs.existsSync(bookDir)) return null;
+
+  const postsBySlug = new Map(posts.map((post) => [post.slug, post]));
+  const errors = [];
+
+  const prefaceFile = readBookFile(BOOK_PREFACE_SLUG);
+  const prefaceOpening = extractOpening(prefaceFile.lines.join('\n').trimStart());
+  const preface = {
+    title: prefaceFile.title,
+    subtitle: prefaceOpening.subtitle,
+    html: markdownToHtml(rebaseBookMarkdown(prefaceOpening.bodyMarkdown)),
+  };
+
+  const parts = PART_ORDER.map((slug, number) => {
+    const { title, lines } = readBookFile(slug);
+    const essaysIdx = lines.findIndex((l) => BOOK_ESSAYS_HEADING_RE.test(l.trim()));
+    if (essaysIdx === -1) {
+      errors.push(`content/book/${slug}.md has no "## 篇目 / Essays" section.`);
+    }
+    const proseLines = essaysIdx === -1 ? lines : lines.slice(0, essaysIdx);
+    const essayLines = essaysIdx === -1 ? [] : lines.slice(essaysIdx + 1);
+    const { subtitle, bodyMarkdown } = extractOpening(proseLines.join('\n').trimStart());
+
+    const slugs = [];
+    for (const raw of essayLines) {
+      const re = /\[([^\]]+)\]\(([^)]+)\)/g;
+      let m;
+      while ((m = re.exec(raw))) {
+        const postSlug = bookPostSlugFromHref(m[2]);
+        if (!postSlug || !postsBySlug.has(postSlug)) {
+          errors.push(`content/book/${slug}.md links to unknown post: ${m[2]}`);
+          continue;
+        }
+        if (slugs.includes(postSlug)) {
+          errors.push(`content/book/${slug}.md lists ${postSlug} twice.`);
+          continue;
+        }
+        slugs.push(postSlug);
+      }
+    }
+
+    return {
+      slug,
+      number,
+      title,
+      ...splitBilingual(title),
+      subtitle,
+      html: markdownToHtml(rebaseBookMarkdown(bodyMarkdown)),
+      slugs,
+      outputPath: `book/${slug}/`,
+    };
+  });
+
+  const partBySlug = new Map();
+  for (const part of parts) {
+    part.slugs.forEach((postSlug, i) => {
+      if (partBySlug.has(postSlug)) {
+        errors.push(`Post ${postSlug} is placed in two parts: ${partBySlug.get(postSlug).part.slug} and ${part.slug}.`);
+        return;
+      }
+      partBySlug.set(postSlug, {
+        part,
+        position: i + 1,
+        prev: i > 0 ? postsBySlug.get(part.slugs[i - 1]) : null,
+        next: i < part.slugs.length - 1 ? postsBySlug.get(part.slugs[i + 1]) : null,
+      });
+    });
+  }
+  const unplaced = posts.filter((post) => !partBySlug.has(post.slug)).map((post) => post.slug);
+  if (unplaced.length) {
+    errors.push(`${unplaced.length} post(s) not placed in any part of the book: ${unplaced.join(', ')}`);
+  }
+
+  const premiseIndex = readPremiseIndex(postsBySlug, errors);
+
+  if (errors.length) {
+    throw new Error(`Book validation failed:\n  - ${errors.join('\n  - ')}`);
+  }
+
+  return { preface, parts, partBySlug, premiseIndex, postsBySlug };
 }
 
 function renderAlternateLinks(alternateLinks = []) {
@@ -1087,21 +1333,25 @@ function renderAbout() {
     </section>`;
 }
 
-function renderIndex(posts) {
-  const cards = posts
-    .map((post) => {
-      const excerptHtml = post.excerpt ? `<p>${escapeHtml(post.excerpt)}</p>` : '';
-      const coverHtml = post.cover
-        ? `<a class="post-item-cover" href="${withBase(post.outputPath)}"><img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="" loading="lazy" decoding="async"></a>`
-        : '';
-      return `    <article class="post-item">
-      ${coverHtml}
+function renderPostCard(post, book) {
+  const excerptHtml = post.excerpt ? `<p>${escapeHtml(post.excerpt)}</p>` : '';
+  const coverHtml = post.cover
+    ? `<a class="post-item-cover" href="${withBase(post.outputPath)}"><img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="" loading="lazy" decoding="async"></a>`
+    : '';
+  const placement = book?.partBySlug.get(post.slug);
+  const partTag = placement
+    ? `\n      <p class="part-tag"><a href="${withBase(placement.part.outputPath)}">${escapeHtml(partLabel(placement.part).en)} · ${escapeHtml(placement.part.en || placement.part.zh)}</a></p>`
+    : '';
+  return `    <article class="post-item">
+      ${coverHtml}${partTag}
       <h2><a href="${withBase(post.outputPath)}">${escapeHtml(post.title)}</a></h2>
       <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
       ${excerptHtml ? `\n      ${excerptHtml}` : ''}
     </article>`;
-    })
-    .join('\n');
+}
+
+function renderIndex(posts) {
+  const cards = posts.map((post) => renderPostCard(post, null)).join('\n');
 
   const content = `${renderAbout()}
     <section class="post-list">
@@ -1116,7 +1366,230 @@ ${cards}
   });
 }
 
-function renderPost(post, newerPost, olderPost) {
+function renderSiteHeader(active = '') {
+  const item = (key, href, label) =>
+    `<a href="${href}"${active === key ? ' aria-current="page"' : ''}>${label}</a>`;
+  return `    <header class="site-header">
+      <a class="site-name" href="${withBase('')}">${escapeHtml(SITE.title)}</a>
+      <nav class="site-nav" aria-label="Book">
+        ${item('contents', `${withBase('')}#contents`, '目录 / Contents')}
+        ${item('index', withBase(`book/${BOOK_INDEX_SLUG}/`), '索引 / Index')}
+        ${item('journal', withBase('journal/'), '日志 / Journal')}
+        ${item('about', withBase('about/'), '关于 / About')}
+      </nav>
+    </header>`;
+}
+
+function renderBilingualHeading(tag, zh, en, className = 'book-title') {
+  return `<${tag} class="${className}">
+        <span class="about-title-zh">${escapeHtml(zh)}</span>${en ? `\n        <span class="about-title-en">${escapeHtml(en)}</span>` : ''}
+      </${tag}>`;
+}
+
+function indexCounts(premiseIndex) {
+  return premiseIndex.sections.map((s) => ({ zh: s.zh, en: s.en, count: s.entries.length }));
+}
+
+function renderHome(posts, book) {
+  const { preface, parts, premiseIndex } = book;
+  const titles = splitBilingual(preface.title);
+
+  const tocItems = parts
+    .map((part) => {
+      const label = partLabel(part);
+      return `        <li class="toc-item">
+          <a class="toc-link" href="${withBase(part.outputPath)}">
+            <span class="toc-num">${escapeHtml(label.zh)} · ${escapeHtml(label.en)}</span>
+            <span class="toc-title">${escapeHtml(part.title)}</span>
+          </a>
+          ${part.subtitle ? `<p class="toc-sub">${escapeHtml(part.subtitle)}</p>` : ''}
+          <p class="meta">${part.slugs.length} 篇 / essays</p>
+        </li>`;
+    })
+    .join('\n');
+
+  const counts = indexCounts(premiseIndex)
+    .map((c) => `${c.count} ${escapeHtml(c.zh)} / ${escapeHtml(c.en.toLowerCase())}`)
+    .join(' · ');
+
+  const latest = posts.slice(0, JOURNAL_LATEST_COUNT).map((post) => renderPostCard(post, book)).join('\n');
+
+  const content = `${renderSiteHeader('home')}
+    <section class="book-front">
+      ${renderBilingualHeading('h1', titles.zh, titles.en)}
+      ${preface.subtitle ? `<p class="book-subtitle">${escapeHtml(preface.subtitle)}</p>` : ''}
+      <div class="essay-content book-prose">
+${preface.html}
+      </div>
+    </section>
+    <section class="book-toc" id="contents">
+      <h2 class="book-section-title">目录 / Contents</h2>
+      <ol class="toc-list">
+${tocItems}
+      </ol>
+      <a class="toc-index" href="${withBase(premiseIndex.outputPath)}">
+        <span class="toc-title">${escapeHtml(premiseIndex.title)}</span>
+        <span class="meta">${counts}</span>
+      </a>
+    </section>
+    <section class="journal-latest">
+      <h2 class="book-section-title">最近的日志 / Latest from the Journal</h2>
+      <div class="post-list">
+${latest}
+      </div>
+      <p class="more-link"><a href="${withBase('journal/')}">全部 ${posts.length} 篇日志 / The full journal of ${posts.length} essays →</a></p>
+    </section>`;
+
+  return renderPage({
+    title: '',
+    description: preface.subtitle || SITE.description,
+    content,
+    canonicalPath: '',
+  });
+}
+
+function renderPart(part, book) {
+  const label = partLabel(part);
+  const idx = book.parts.indexOf(part);
+  const prevPart = idx > 0 ? book.parts[idx - 1] : null;
+  const nextPart = idx < book.parts.length - 1 ? book.parts[idx + 1] : null;
+
+  const entries = part.slugs
+    .map((slug) => {
+      const post = book.postsBySlug.get(slug);
+      return `        <li class="part-entry">
+          <a class="part-entry-title" href="${withBase(post.outputPath)}">${escapeHtml(post.title)}</a>
+          ${post.subtitle ? `<p class="part-entry-sub">${escapeHtml(post.subtitle)}</p>` : ''}
+          <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
+        </li>`;
+    })
+    .join('\n');
+
+  const navLinks = [];
+  if (prevPart) navLinks.push(`<a class="nav-link" href="${withBase(prevPart.outputPath)}">← ${escapeHtml(partLabel(prevPart).en)} · ${escapeHtml(prevPart.title)}</a>`);
+  if (nextPart) navLinks.push(`<a class="nav-link" href="${withBase(nextPart.outputPath)}">${escapeHtml(partLabel(nextPart).en)} · ${escapeHtml(nextPart.title)} →</a>`);
+
+  const content = `${renderSiteHeader('contents')}
+    <article class="post book-part">
+      <header class="essay-header">
+        <p class="part-kicker">${escapeHtml(label.zh)} · ${escapeHtml(label.en)}</p>
+        <h1>${escapeHtml(part.title)}</h1>
+        ${part.subtitle ? `<p class="subtitle">${escapeHtml(part.subtitle)}</p>` : ''}
+        <p class="meta">${part.slugs.length} 篇 / essays · 按写作顺序 / in the order written</p>
+      </header>
+      <div class="essay-content">
+${part.html}
+      </div>
+      <h2 class="book-section-title">篇目 / Essays</h2>
+      <ol class="part-entries">
+${entries}
+      </ol>
+      ${navLinks.length ? `<nav class="post-nav">${navLinks.join('')}</nav>` : ''}
+    </article>`;
+
+  return renderPage({
+    title: `${label.en} · ${part.title}`,
+    description: part.subtitle || SITE.description,
+    content,
+    canonicalPath: part.outputPath,
+  });
+}
+
+function renderPremiseIndex(book) {
+  const { premiseIndex, postsBySlug } = book;
+
+  const sectionNav = premiseIndex.sections
+    .map((s) => `<a href="#${s.id}">${escapeHtml(s.zh)} / ${escapeHtml(s.en)} <span class="meta">${s.entries.length}</span></a>`)
+    .join('');
+
+  const sectionsHtml = premiseIndex.sections
+    .map((s) => {
+      const letters = [];
+      const firstByLetter = new Map();
+      for (const e of s.entries) {
+        const letter = (sortKey(e.en || e.zh)[0] || '#').toUpperCase();
+        if (!firstByLetter.has(letter)) {
+          firstByLetter.set(letter, e.id);
+          letters.push(letter);
+        }
+      }
+      const azBar = letters.map((l) => `<a href="#${firstByLetter.get(l)}">${escapeHtml(l)}</a>`).join('');
+      const entries = s.entries
+        .map((e) => {
+          const paras = e.paras.map((p) => `<p>${formatInline(p)}</p>`).join('\n          ');
+          const links = e.links
+            .map((slug) => {
+              const post = postsBySlug.get(slug);
+              return `<a href="${withBase(post.outputPath)}">${escapeHtml(post.title)}</a>`;
+            })
+            .join('<span class="sep"> · </span>');
+          return `        <article class="index-entry" id="${e.id}">
+          <h3>${escapeHtml(e.title)}${e.label ? ` <span class="label-chip">${escapeHtml(e.label)}</span>` : ''}</h3>
+          ${paras}
+          <p class="index-links">→ ${links}</p>
+        </article>`;
+        })
+        .join('\n');
+      return `      <section class="index-section" id="${s.id}">
+        <h2 class="book-section-title">${escapeHtml(s.title)}</h2>
+        <nav class="az-bar" aria-label="${escapeHtml(s.en)} A–Z">${azBar}</nav>
+${entries}
+      </section>`;
+    })
+    .join('\n');
+
+  const content = `${renderSiteHeader('index')}
+    <article class="post book-index">
+      <header class="essay-header">
+        <h1>${escapeHtml(premiseIndex.title)}</h1>
+        ${premiseIndex.subtitle ? `<p class="subtitle">${escapeHtml(premiseIndex.subtitle)}</p>` : ''}
+      </header>
+      <div class="essay-content">
+${premiseIndex.introHtml}
+      </div>
+      <nav class="index-sections">${sectionNav}</nav>
+${sectionsHtml}
+    </article>`;
+
+  return renderPage({
+    title: premiseIndex.title,
+    description: premiseIndex.subtitle || SITE.description,
+    content,
+    canonicalPath: premiseIndex.outputPath,
+  });
+}
+
+function renderJournal(posts, book) {
+  const cards = posts.map((post) => renderPostCard(post, book)).join('\n');
+  const content = `${renderSiteHeader('journal')}
+    <header class="essay-header">
+      ${renderBilingualHeading('h1', '日志', 'Journal')}
+      <p class="book-subtitle">按写作顺序记录的全部 ${posts.length} 篇随笔，这本书的生长痕迹。 / All ${posts.length} essays in the order they were written, the growth record of this book.</p>
+    </header>
+    <section class="post-list">
+${cards}
+    </section>`;
+
+  return renderPage({
+    title: '日志 / Journal',
+    description: `All ${posts.length} essays of ${SITE.title} in the order they were written.`,
+    content,
+    canonicalPath: 'journal/',
+  });
+}
+
+function renderAboutPage() {
+  const content = `${renderSiteHeader('about')}
+${renderAbout()}`;
+  return renderPage({
+    title: '关于 / About',
+    description: SITE.description,
+    content,
+    canonicalPath: 'about/',
+  });
+}
+
+function renderPost(post, newerPost, olderPost, book = null) {
   const navLinks = [];
   if (newerPost) {
     navLinks.push(`<a class="nav-link" href="${withBase(newerPost.outputPath)}">← ${escapeHtml(newerPost.title)}</a>`);
@@ -1125,18 +1598,47 @@ function renderPost(post, newerPost, olderPost) {
     navLinks.push(`<a class="nav-link" href="${withBase(olderPost.outputPath)}">${escapeHtml(olderPost.title)} →</a>`);
   }
 
-  const navHtml = navLinks.length ? `<nav class="post-nav">${navLinks.join('')}</nav>` : '';
+  const placement = book?.partBySlug.get(post.slug) ?? null;
+  const breadcrumbHtml = placement
+    ? `<nav class="breadcrumb" aria-label="Book location"><a href="${withBase(placement.part.outputPath)}">${escapeHtml(partLabel(placement.part).zh)} · ${escapeHtml(partLabel(placement.part).en)} — ${escapeHtml(placement.part.title)}</a><span class="meta"> · ${placement.position} / ${placement.part.slugs.length}</span></nav>`
+    : '';
+
+  let partNavHtml = '';
+  if (placement) {
+    const links = [];
+    links.push(
+      placement.prev
+        ? `<a class="nav-link" href="${withBase(placement.prev.outputPath)}">← ${escapeHtml(placement.prev.title)}</a>`
+        : '<span></span>',
+    );
+    links.push(`<a class="nav-link part-home" href="${withBase(placement.part.outputPath)}">${escapeHtml(partLabel(placement.part).en)}</a>`);
+    links.push(
+      placement.next
+        ? `<a class="nav-link" href="${withBase(placement.next.outputPath)}">${escapeHtml(placement.next.title)} →</a>`
+        : '<span></span>',
+    );
+    partNavHtml = `<p class="nav-caption">本部之内 / Within this part</p><nav class="post-nav part-nav">${links.join('')}</nav>`;
+  }
+
+  const navHtml = navLinks.length
+    ? `${placement ? '<p class="nav-caption">日志顺序 / In the journal</p>' : ''}<nav class="post-nav${placement ? ' journal-nav' : ''}">${navLinks.join('')}</nav>`
+    : '';
   const coverHtml = post.cover
     ? `<figure class="title-image">
         <img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="${escapeHtml(post.title)}" width="${post.cover.width}" height="${post.cover.height}" decoding="async">
       </figure>`
     : '';
 
-  const content = `    <header class="site-header">
+  const headerHtml = book
+    ? renderSiteHeader('')
+    : `    <header class="site-header">
       <a class="site-name" href="${withBase('')}">${escapeHtml(SITE.title)}</a>
-    </header>
+    </header>`;
+
+  const content = `${headerHtml}
     <article class="post">
       <header class="essay-header">
+        ${breadcrumbHtml}
         ${coverHtml}
         <h1>${escapeHtml(post.title)}</h1>
         ${post.subtitle ? `<p class="subtitle">${escapeHtml(post.subtitle)}</p>` : ''}
@@ -1145,6 +1647,7 @@ function renderPost(post, newerPost, olderPost) {
       <div class="essay-content">
 ${post.htmlBody}
       </div>
+      ${partNavHtml}
       ${navHtml}
     </article>`;
 
@@ -1179,8 +1682,12 @@ function xmlEscape(text) {
     .replaceAll("'", '&apos;');
 }
 
-function generateSitemap(posts) {
-  const staticRows = [absoluteUrl('')].map((url) => `  <url><loc>${xmlEscape(url)}</loc></url>`);
+function generateSitemap(posts, book = null) {
+  const staticPaths = [''];
+  if (book) {
+    staticPaths.push('journal/', 'about/', book.premiseIndex.outputPath, ...book.parts.map((part) => part.outputPath));
+  }
+  const staticRows = staticPaths.map((p) => `  <url><loc>${xmlEscape(absoluteUrl(p))}</loc></url>`);
   const postRows = posts.map(
     (post) =>
       `  <url><loc>${xmlEscape(absoluteUrl(post.outputPath))}</loc><lastmod>${xmlEscape(post.dateIso)}</lastmod></url>`,
@@ -1193,7 +1700,8 @@ ${rows}
 `;
 }
 
-function postMachineRecord(post) {
+function postMachineRecord(post, book = null) {
+  const placement = book?.partBySlug.get(post.slug) ?? null;
   return {
     slug: post.slug,
     title: post.title,
@@ -1209,11 +1717,13 @@ function postMachineRecord(post) {
     md_url: absoluteSourceUrl(post.sourcePath),
     cover_path: post.cover ? post.cover.sourcePath : null,
     cover_url: post.cover ? post.cover.url : null,
+    part: placement ? placement.part.slug : null,
+    part_position: placement ? placement.position : null,
   };
 }
 
-function generatePostsManifest(posts) {
-  const records = posts.map((post) => postMachineRecord(post));
+function generatePostsManifest(posts, book = null) {
+  const records = posts.map((post) => postMachineRecord(post, book));
   const payload = {
     site: {
       title: SITE.title,
@@ -1221,14 +1731,17 @@ function generatePostsManifest(posts) {
       language: SITE.language,
     },
     count: records.length,
+    parts: book
+      ? book.parts.map((part) => ({ slug: part.slug, number: part.number, title: part.title, count: part.slugs.length, html_url: absoluteUrl(part.outputPath) }))
+      : undefined,
     posts: records,
   };
   return `${JSON.stringify(payload, null, 2)}\n`;
 }
 
-function generatePostsJsonl(posts) {
+function generatePostsJsonl(posts, book = null) {
   if (!posts.length) return '';
-  return `${posts.map((post) => JSON.stringify(postMachineRecord(post))).join('\n')}\n`;
+  return `${posts.map((post) => JSON.stringify(postMachineRecord(post, book))).join('\n')}\n`;
 }
 
 function cleanPublicDir() {
@@ -1297,14 +1810,25 @@ function build() {
   copyStaticAssets();
 
   const posts = sortPosts(readPosts(files));
+  const book = readBook(posts);
 
-  writeFile('index.html', renderIndex(posts));
+  if (book) {
+    writeFile('index.html', renderHome(posts, book));
+    writeFile(path.join('journal', 'index.html'), renderJournal(posts, book));
+    writeFile(path.join('about', 'index.html'), renderAboutPage());
+    writeFile(path.join(book.premiseIndex.outputPath, 'index.html'), renderPremiseIndex(book));
+    book.parts.forEach((part) => {
+      writeFile(path.join(part.outputPath, 'index.html'), renderPart(part, book));
+    });
+  } else {
+    writeFile('index.html', renderIndex(posts));
+  }
 
   posts.forEach((post, index) => {
     const newer = index > 0 ? posts[index - 1] : null;
     const older = index < posts.length - 1 ? posts[index + 1] : null;
 
-    writeFile(path.join(post.outputPath, 'index.html'), renderPost(post, newer, older));
+    writeFile(path.join(post.outputPath, 'index.html'), renderPost(post, newer, older, book));
   });
 
   REDIRECTS.forEach(({ from, to }) => {
@@ -1325,10 +1849,15 @@ function build() {
     writeFile(path.join(from, 'index.html'), redirectHtml);
   });
 
-  writeFile('posts.json', generatePostsManifest(posts));
-  writeFile('posts.jsonl', generatePostsJsonl(posts));
-  writeFile('sitemap.xml', generateSitemap(posts));
+  writeFile('posts.json', generatePostsManifest(posts, book));
+  writeFile('posts.jsonl', generatePostsJsonl(posts, book));
+  writeFile('sitemap.xml', generateSitemap(posts, book));
   writeFile('robots.txt', `User-agent: *\nAllow: /\nSitemap: ${absoluteUrl('sitemap.xml')}\n`);
+
+  if (book) {
+    const entryCount = book.premiseIndex.sections.reduce((n, s) => n + s.entries.length, 0);
+    console.log(`Book: ${book.parts.length} parts, ${book.partBySlug.size}/${posts.length} posts placed, ${entryCount} index entries.`);
+  }
 }
 
 try {

@@ -56,9 +56,15 @@ node build.mjs && rg -n "style.css\\?v=" public/index.html
 
 This generates `public/` with:
 
-- `index.html`
-- `posts/<slug>/index.html`
-- `posts.json` and `posts.jsonl` (machine-readable post index with source markdown URLs)
+- `index.html` (book front matter: preface, contents, Index link, latest journal entries)
+- `book/<part>/index.html` (one page per part) and `book/index-of-premises/index.html`
+- `journal/index.html` (all essays in written order) and `about/index.html`
+- `posts/<slug>/index.html` (with part breadcrumb and in-part navigation)
+- `posts.json` and `posts.jsonl` (machine-readable post index with source markdown URLs and part placement)
 - `sitemap.xml` and `robots.txt`
+
+## Live book
+
+The site reads as a live book, *非定论的心智指南 / A Non-Definitive Guide for the Mind*. Each part names a commonly held belief, scientific ones included, and collects the essays that trace it back to the boundary of its premises. The Index of Premises lists figures, theories, and concepts with links to the posts that dissect them. Structure lives only as relative links in [`content/book/`](content/book/). `PART_ORDER` in `build.mjs` is the single ordering constant. The build fails if a post is in no part, sits in two, or a book link breaks. Audit with `python3 scripts/audit-book.py`. The per-post ship step is in [`content/posts/README.md`](content/posts/README.md) § Ship checklist.
 
 Do not commit `public/` as source of truth. Social preview image is referenced from `assets/toe-bang.png` via metadata URL. The same file is also copied into `public/apple-touch-icon.png` for iOS Safari “Add to Home Screen”.

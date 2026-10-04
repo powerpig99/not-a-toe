@@ -3,19 +3,19 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-10-03T18:31:29.186Z",
+    "generated_at": "2026-10-04T05:46:52.699Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "22457f76134c",
-      "docs/essay-format.md": "2e8515bc4cce",
+      "content/posts/README.md": "74d6c9e3bdd2",
+      "docs/essay-format.md": "455e262c49f0",
       "docs/export-for-substack.md": "9a2df9f4dfab",
       "docs/export-for-x-article.md": "55ab96853de2",
       "export/README.md": "c0a8866a454d",
       "assets/covers/STYLES.md": "9d6a39cdd7c1",
-      "README.md": "544757900335",
-      "docs/local-memory.md": "b25414a5797f",
-      "build.mjs": "e50c39576e5c",
+      "README.md": "297187e3dc19",
+      "docs/local-memory.md": "15f2c56cac3c",
+      "build.mjs": "2656918c4cb1",
       "scripts/export-absolute-md.mjs": "3bbb08fdfc89",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
@@ -29,7 +29,7 @@
     },
     "counts": {
       "nodes": 28,
-      "edges": 96,
+      "edges": 97,
       "missing": 0,
       "by_kind": {
         "project": 1,
@@ -49,14 +49,14 @@
       "count": 12
     },
     {
-      "id": "memory:project",
-      "name": "MEMORY.md",
+      "id": "tracker:root",
+      "name": "root",
       "count": 12
     },
     {
-      "id": "tracker:root",
-      "name": "root",
-      "count": 11
+      "id": "memory:project",
+      "name": "MEMORY.md",
+      "count": 12
     },
     {
       "id": "tracker:local",
@@ -207,7 +207,7 @@
       "path": "build.mjs",
       "owns": "site-build",
       "exists": true,
-      "hash": "e50c39576e5c",
+      "hash": "2656918c4cb1",
       "summary": "binary/script",
       "headings": [],
       "layer": "tracker"
@@ -307,7 +307,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "2e8515bc4cce",
+      "hash": "455e262c49f0",
       "summary": "**Reference for site scaffold** — not absolute ground over the operator’s draft.",
       "headings": [
         "Essay Formatting Guide",
@@ -328,7 +328,7 @@
       "path": "docs/local-memory.md",
       "owns": "manifest",
       "exists": true,
-      "hash": "b25414a5797f",
+      "hash": "15f2c56cac3c",
       "summary": "Manifest of operational `.md` files for this project.",
       "headings": [
         "Local memory — living trackers and sleep audit",
@@ -360,7 +360,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "22457f76134c",
+      "hash": "74d6c9e3bdd2",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",
@@ -385,14 +385,15 @@
       "path": "README.md",
       "owns": "index",
       "exists": true,
-      "hash": "544757900335",
+      "hash": "297187e3dc19",
       "summary": "## Authoring contract Guides (read these instead of re-deriving the workflow each time): | Topic | Doc | |-------|-----| | Posts: structure, voice, cross-links, ship checklist | [`…",
       "headings": [
         "Not a ToE",
         "Authoring contract",
         "Publish (default)",
         "if no run starts: gh workflow run deploy.yml --ref main",
-        "Local build (optional preflight)"
+        "Local build (optional preflight)",
+        "Live book"
       ],
       "layer": "tracker"
     },
@@ -761,6 +762,12 @@
       "to": "tracker:export",
       "rel": "points_to",
       "label": "`docs/export-for-substack.md`"
+    },
+    {
+      "from": "tracker:root",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "label": "`content/posts/README.md`"
     },
     {
       "from": "tracker:root",
