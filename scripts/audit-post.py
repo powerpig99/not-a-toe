@@ -672,6 +672,13 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         else:
             passes.append(f"Companion audio prompt concise bounds check ({audio_bytes} bytes, {dialogue_turns} opening turns; complies with 2–4 turn, < 8.5KB standard)")
 
+        # Soft advisory for video monologue length (operator signal 2026-10-03: ~15 KB too long; ~8 KB accepted)
+        video_bytes = len(video_prompt_file.read_bytes())
+        if video_bytes > 9000:
+            warnings.append(f"Video monologue {video_prompt_file.name} is {video_bytes} bytes (> ~9 KB). Consider condensing the topic list and script while keeping the full argument arc.")
+        else:
+            passes.append(f"Companion video monologue length check ({video_bytes} bytes, <= ~9 KB)")
+
     # 9. Companion Cover Art audit
     covers_dir = root / 'assets' / 'covers'
     cover_extensions = ['.jpg', '.png', '.webp']
