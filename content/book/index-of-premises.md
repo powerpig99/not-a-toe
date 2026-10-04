@@ -479,9 +479,9 @@ Sowell's point that policies should be judged by incentives, not goals, is accur
 ### 威廉·诺德豪斯 / William Nordhaus
 `经济 / Economic`
 
-诺德豪斯度量了战后非农经济中技术变迁的剩余分配，揭示生产者仅捕获微小的私人回报，其余绝大部分通过价格与质量竞争耗散为社会剩余；该模型精确测度了事后分配，但未将微小残差作为诱发不确定性投资的先决条件纳入同一因果闭环。
+诺德豪斯度量了战后非农经济中技术变迁的剩余分配，记录下生产者仅捕获微小私人回报而绝大部分耗散为社会剩余的宏观轨迹；该模型提供了高精度的经验遥测，但统计度量印证而非构筑了因果律，未能将其溯源至行动先于结果的不可还原先验。
 
-Nordhaus measured the surplus distribution of technological change in the postwar nonfarm economy, demonstrating that producers capture only a tiny private return while the vast majority dissipates into social surplus; while precisely quantifying ex-post shares, the model does not fully integrate this fragile residual as the ex-ante prerequisite eliciting uncertain commitments into a single causal loop.
+Nordhaus measured the surplus distribution of technological change in the postwar nonfarm economy, recording how tiny private returns dissipate into massive social dividends; providing high-resolution empirical telemetry, this econometric model validates rather than grounds causality, stopping short of tracing the sequence back to the irreducible prior of action.
 
 → [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)
 
