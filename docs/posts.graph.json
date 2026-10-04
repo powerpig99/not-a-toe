@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-04T07:56:43.449Z",
+    "generated_at": "2026-10-04T08:05:17.446Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -100,7 +100,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "f2646d6b500f",
       "content/posts/immortality-final.md": "18a70c954a8f",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "f60ac4895419",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "4386ca223753",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "b60b674b5303",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -202,7 +202,7 @@
       "content/posts/the-category-error-of-better.md": "c6b1eab24d85",
       "content/posts/the-causal-inversion-of-partnership.md": "91c09f2f860e",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
-      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "75d380113aa1",
+      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "dc4319ee94bb",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "109ed36085a6",
@@ -392,8 +392,8 @@
     },
     "stats": {
       "posts": 365,
-      "edges": 3786,
-      "unique_directed": 3291,
+      "edges": 3789,
+      "unique_directed": 3293,
       "missing_targets": 0,
       "one_way": 899,
       "isolated": 40,
@@ -406,7 +406,7 @@
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 88
+      "in_degree": 89
     },
     {
       "slug": "openness-is-consistency",
@@ -488,7 +488,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 55
+      "out_degree": 56
     },
     {
       "slug": "openness-is-consistency",
@@ -2485,9 +2485,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "f60ac4895419",
-      "in_degree": 88,
-      "out_degree": 55,
+      "hash": "4386ca223753",
+      "in_degree": 89,
+      "out_degree": 56,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -2514,6 +2514,7 @@
         "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
         "the-coordinators-category-error",
         "the-misallocation-of-agency",
+        "the-causal-order-of-private-residuals-and-social-surplus",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-only-coherent-uncaused-effect",
         "empowerment-establishes-the-centralization-of-power",
@@ -4845,15 +4846,16 @@
       "slug": "the-causal-order-of-private-residuals-and-social-surplus",
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
-      "hash": "75d380113aa1",
-      "in_degree": 4,
-      "out_degree": 5,
+      "hash": "dc4319ee94bb",
+      "in_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "having-more-is-never-the-cause",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "order-surplus-and-the-moral-intercept",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
-        "abstract-pain-and-living-hunger"
+        "abstract-pain-and-living-hunger",
+        "individual-choices-as-the-only-causal-levers"
       ]
     },
     {
@@ -13573,6 +13575,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
       "label": "Exceptionality, perception, and the self-limiting field of problems"
@@ -20842,6 +20850,18 @@
       "to": "abstract-pain-and-living-hunger",
       "rel": "points_to",
       "label": "Abstract Pain and Living Hunger"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
