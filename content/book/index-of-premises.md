@@ -74,9 +74,9 @@ Riemann revolutionized differential geometry and analytic number theory; his geo
 ### 伯尼·桑德斯 / Bernie Sanders
 `意识形态 / Ideological`
 
-桑德斯所说的“我的财富税”，预设私人资产已成为政治资源；这个所有格登记的是许多个人选择已完成的再分配，政客标示而非发起了它。
+桑德斯将科技富豪的巨额账面资产预设为可供政治分割的静态存量，把创新者协调生产所必需的留存残差误当成财富本体；这种修辞极具动员效率并标示了公众对横向相对差异的焦虑，但在因果次序上抹杀了唤起前置试错的私人诱因，并在源头阻断了数十倍于它的下游普遍剩余。
 
-Sanders' 'my wealth tax' presumes private assets already stand as political resource; the possessive registers a reallocation many individual choices completed, the politician marking rather than originating it.
+Sanders presumes tech founders' balance sheets are a static prize available for political redistribution, mistaking productive capital residuals for the totality of created wealth; this rhetoric powerfully mobilizes public anxiety over horizontal relative inequality, but in the causal sequence it erases the antecedent inducement for risky trial and error, choking off the forty-five-fold downstream surplus before it can be born.
 
 → [Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) · [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)
 
