@@ -10,19 +10,19 @@ Ownership is residual control: the capacity to direct resources toward ends one 
 
 Sanders writes:
 
-> My 5% wealth tax on less than 1,000 billionaires would raise over $4.4 trillion to:
+> My 5% wealth tax on less than 1,000 billionaires would raise over 4.4 trillion dollars to:
 >
-> Provide $12,000 to a working family of 4  
+> Provide 12,000 dollars to a working family of 4  
 > Enact universal childcare  
 > Expand Medicare for dental, vision & hearing  
 > End homelessness  
-> Require a $60,000 minimum salary for teachers
+> Require a 60,000 dollar minimum salary for teachers
 >
 > Let's get it done.
 
 The real question is who decides he can treat five percent of other people’s money as his — in his own words, “my” tax — as if those people were ATM machines, to buy his own political support. The possessive registers the reallocation as already complete. Private assets appear as a standing political resource only after residual control has already moved. The speech does not perform the transfer. It names a field in which many individuals have already treated the directing of those resources as no longer belonging to the minds that formed them.
 
-[Ownership and self-worthiness](../ownership-and-self-worthiness/) is the functional face of the same bound: the model compounds only when consequences re-enter as own. Residual control is that closed loop under resource costume. Thinning it thins the update; the language of “my tax” is the public register of the thinning.
+[Ownership and self-worthiness](../ownership-and-self-worthiness/) is the functional face of the same bound: the model compounds only when consequences re-enter as own. Residual control is that closed loop under resource costume. Thinning it thins the update; the language of “my tax” is the public register of the thinning. In [The Causal Order of Private Residuals and Social Surplus](../the-causal-order-of-private-residuals-and-social-surplus/), this dynamic is unpacked along the innovation sequence: political rhetoric treats private wealth as an existing static pool to be redistributed, ignoring that the private share is merely a 2.2 percent residual inducement whose upstream compression destroys the forty-five-fold downstream surplus that ordinary people would have received.
 
 ## One allocation migrates residual control
 
