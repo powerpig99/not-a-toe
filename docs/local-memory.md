@@ -23,6 +23,7 @@ Manifest of operational `.md` files for this project. Temporary ground at projec
 |----|------|------|
 | `posts` | [`content/posts/README.md`](../content/posts/README.md) | Authoring contract, refinement workflow (surgical; draft as ground), voice, cross-links, reverse links, lattice consistency (same-axis old claims, same ship), ship checklist |
 | `format` | [`docs/essay-format.md`](essay-format.md) | Site scaffold reference + LLM copy-paste prompt (not absolute ground over operator draft) |
+| `book` | [`content/book/`](../content/book/) | Live book: preface, parts (held belief → premise boundary → essays in written order), Index of Premises. Membership and index links live only here as relative links; `PART_ORDER` in `build.mjs` orders parts; audit `python3 scripts/audit-book.py` |
 | `export` | [`docs/export-for-substack.md`](export-for-substack.md) | Shared absolute-markdown: **generate required after live** on ship; paste is operator-only |
 | `export-x` | [`docs/export-for-x-article.md`](export-for-x-article.md) | Points at shared export; Articles API parked |
 | `export-stub` | [`export/README.md`](../export/README.md) | Pointer only — not a second export guide |

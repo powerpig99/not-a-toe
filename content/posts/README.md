@@ -247,6 +247,7 @@ Optional but usual for new essays. **One file serves three surfaces:** this site
 |------|-----------|-----|
 | Preflight build + graph | Yes | Agent |
 | Cover + STYLES | Yes (usual) | Agent |
+| Live book: place in exactly one part (last, order written) + Index of Premises entries | **Yes** | Agent |
 | Reverse links on 1-hop neighbors (same ship) | Yes | Agent |
 | Lattice consistency on same-axis old essays (same ship) | Yes | Agent |
 | Commit / push / `gh run watch` / live 200 | Yes | Agent |
@@ -255,12 +256,21 @@ Optional but usual for new essays. **One file serves three surfaces:** this site
 
 Do **not** skip export generation because paste might not happen immediately. Do **not** treat “if posting” as license to omit the file. The file is the finish artifact; paste is a later operator act.
 
+### 0. Live book placement
+
+The site is a live book (*非定论的心智指南 / A Non-Definitive Guide for the Mind*). Book structure lives only as relative links in `content/book/*.md`, never as a second inventory. For each new post:
+
+- Append `- [<Title>](../../posts/<slug>/)` to the end of the `## 篇目 / Essays` list in exactly one `content/book/<part>.md`: the part whose held belief the post most directly dissects.
+- In `content/book/index-of-premises.md`, add or extend entries for each figure, theory, or concept it substantively dissects. Scientific theories are included and treated like any other belief. Each entry has a bilingual heading, a label line, one Chinese then one English premise-boundary sentence, and a `→` line of post links.
+- Run `python3 scripts/audit-book.py`; it must return CLEAN PASS. The build also fails on unplaced, duplicated, or broken book links.
+
 ### 1. Preflight (local)
 
 ```bash
+python3 scripts/audit-book.py
 node build.mjs
 # optional: open public/posts/<slug>/index.html
-# optional: node scripts/project-posts-graph.mjs  # missing_targets must stay 0
+# optional: node scripts/project-posts-graph.mjs  # missing_targets must stay 0 (includes book links)
 ```
 
 Local build is a check, not the publisher. Fix format/link/cover issues here before commit.
@@ -268,7 +278,7 @@ Local build is a check, not the publisher. Fix format/link/cover issues here bef
 ### 2. Commit and push
 
 ```bash
-git add content/posts/<slug>.md assets/covers/<slug>.jpg assets/covers/STYLES.md
+git add content/posts/<slug>.md assets/covers/<slug>.jpg assets/covers/STYLES.md content/book/
 # plus any neighbor pointer edits in the same ship
 git commit -m "Add <title> essay"
 git push origin main

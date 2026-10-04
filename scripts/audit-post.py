@@ -720,6 +720,27 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
 
             passes.append(f"Companion cover art check (assets/covers/{found_cover.name} present, {file_size_kb:.1f} KB, {dim_str})")
 
+    # 10. Live book placement (content/book/*.md is the only home of book structure)
+    book_dir = root / 'content' / 'book'
+    if book_dir.is_dir():
+        import importlib.util
+        spec = importlib.util.spec_from_file_location('audit_book', root / 'scripts' / 'audit-book.py')
+        audit_book = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(audit_book)
+        slugs = set(audit_book.post_slugs())
+        b_errors, b_warnings = [], []
+        placement, per_part = audit_book.audit_parts(audit_book.part_order(), slugs, b_errors, b_warnings)
+        if slug not in placement:
+            errors.append(f"Post is not placed in the live book: add `[<title>](../../posts/{slug}/)` to the '## 篇目 / Essays' list of exactly one content/book/<part>.md (then run python3 scripts/audit-book.py).")
+        else:
+            part = placement[slug]
+            passes.append(f"Book placement: part `{part}` (position {per_part[part].index(slug) + 1}/{len(per_part[part])})")
+            _, _, _, linked = audit_book.audit_index(slugs, [], [])
+            if slug in linked:
+                passes.append("Book Index of Premises links this post")
+            else:
+                warnings.append("No Index of Premises entry links this post yet: add or extend entries in content/book/index-of-premises.md for each figure, theory, or concept it substantively dissects.")
+
     # Report results
     print("\n[PASSED INVARIANTS]")
     for p in passes:
