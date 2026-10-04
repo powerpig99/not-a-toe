@@ -712,6 +712,15 @@ Egalitarian dogma treats all organizational hierarchies as predatory impositions
 
 → [Hierarchy from Individual Difference](../../posts/hierarchy-from-individual-difference/)
 
+### 心灵哲学功能主义 / Functionalism (Philosophy of Mind)
+`哲学 / Philosophical`
+
+功能主义以因果角色界定心理状态，其前提是描述者可以立于被描述的心智之外，这一前提在理论被扩展到持有它的心智自身时失效，因为认真持有与还原主观性都必须占据它所抹去的观察者之位；作为描述信息处理多重实现、指导系统设计与比较的工具，它依然锋利有用。
+
+Functionalism defines mental states by causal role on the premise that the describer can stand outside the mind described; the premise fails once the theory is extended to the mind holding it, since both serious endorsement and the reduction of subjectivity must occupy the observer position it erases, while as a tool for describing multiply realizable information processing and guiding system design it remains sharp and useful.
+
+→ [无人能持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/)
+
 ### AGI功能主义理论 / Functionalist Theory of AGI
 `技术 / Technological`
 
