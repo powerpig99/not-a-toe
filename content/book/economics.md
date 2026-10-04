@@ -39,3 +39,4 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 - [The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
 - [The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency](../../posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy/)
 - [宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields](../../posts/the-summary-first-reversal-and-the-command-of-yields/)
+- [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)

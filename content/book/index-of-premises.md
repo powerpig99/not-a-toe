@@ -78,7 +78,7 @@ Riemann revolutionized differential geometry and analytic number theory; his geo
 
 Sanders' 'my wealth tax' presumes private assets already stand as political resource; the possessive registers a reallocation many individual choices completed, the politician marking rather than originating it.
 
-→ [Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
+→ [Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) · [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)
 
 ### 伯特兰·罗素 / Bertrand Russell
 `哲学 / Philosophical`
@@ -475,6 +475,15 @@ Nagel analyzed the irreducibility of subjective consciousness and the illusion o
 Sowell's point that policies should be judged by incentives, not goals, is accurate; it still presumes a systematic corrective from an exempted observer stand, leaving the analyzing mind's own return unmade.
 
 → [Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds](../../posts/sowell-observed-the-surface-problem/)
+
+### 威廉·诺德豪斯 / William Nordhaus
+`经济 / Economic`
+
+诺德豪斯度量了战后非农经济中技术变迁的剩余分配，揭示生产者仅捕获微小的私人回报，其余绝大部分通过价格与质量竞争耗散为社会剩余；该模型精确测度了事后分配，但未将微小残差作为诱发不确定性投资的先决条件纳入同一因果闭环。
+
+Nordhaus measured the surplus distribution of technological change in the postwar nonfarm economy, demonstrating that producers capture only a tiny private return while the vast majority dissipates into social surplus; while precisely quantifying ex-post shares, the model does not fully integrate this fragile residual as the ex-ante prerequisite eliciting uncertain commitments into a single causal loop.
+
+→ [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)
 
 ### 维尔纳·海森堡 / Werner Heisenberg
 `科学 / Scientific`

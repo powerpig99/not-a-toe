@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-04T06:18:06.828Z",
+    "generated_at": "2026-10-04T06:41:30.053Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -138,7 +138,7 @@
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
       "content/posts/openness-is-consistency.md": "5b3c9a6055a0",
-      "content/posts/order-surplus-and-the-moral-intercept.md": "2f9f5444f34a",
+      "content/posts/order-surplus-and-the-moral-intercept.md": "1fdcddb9c032",
       "content/posts/overfitting-as-the-follower-mode.md": "c0eeebea6640",
       "content/posts/ownership-and-self-worthiness.md": "84775e991e01",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
@@ -147,7 +147,7 @@
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "fd5abe640eca",
-      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "747ea3076203",
+      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "33a37f9af677",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "0d71e0d1ccb6",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "b3860817582f",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "cde8a526b40c",
@@ -202,6 +202,7 @@
       "content/posts/the-category-error-of-better.md": "c6b1eab24d85",
       "content/posts/the-causal-inversion-of-partnership.md": "91c09f2f860e",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
+      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "3bb091e84b56",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "109ed36085a6",
@@ -305,7 +306,7 @@
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ca268f088d0f",
       "content/posts/the-residue-and-the-free-variable.md": "0d8c83239fa5",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "abb2bcc9e28d",
-      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c9db12b044ea",
+      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "efe229433da4",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "bad6dded7e53",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "0c0def0b9e6b",
@@ -374,8 +375,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "2a318a0df024",
       "content/book/consciousness.md": "a4de8d83e36f",
-      "content/book/economics.md": "40dd330f8946",
-      "content/book/index-of-premises.md": "2fe8914e2d37",
+      "content/book/economics.md": "20e15514e89c",
+      "content/book/index-of-premises.md": "cea34eaa8802",
       "content/book/intelligence.md": "8c2134c318f8",
       "content/book/knowledge-and-learning.md": "79909cd5bb33",
       "content/book/life-and-statistics.md": "158742fb4b72",
@@ -390,16 +391,16 @@
       "content/book/tools-and-progress.md": "44868f9684a3"
     },
     "stats": {
-      "posts": 364,
-      "edges": 3769,
-      "unique_directed": 3282,
+      "posts": 365,
+      "edges": 3780,
+      "unique_directed": 3289,
       "missing_targets": 0,
-      "one_way": 898,
+      "one_way": 899,
       "isolated": 40,
-      "posts_with_outbound": 299,
+      "posts_with_outbound": 300,
       "book_pages": 16,
-      "book_edges": 883,
-      "posts_reached_by_book": 364
+      "book_edges": 886,
+      "posts_reached_by_book": 365
     }
   },
   "hubs_in": [
@@ -2307,7 +2308,7 @@
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "Having More Is Never the Cause",
       "hash": "1bb97acd83d8",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 19,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
@@ -3367,9 +3368,9 @@
       "slug": "order-surplus-and-the-moral-intercept",
       "path": "content/posts/order-surplus-and-the-moral-intercept.md",
       "title": "Order, Surplus, and the Moral Intercept",
-      "hash": "2f9f5444f34a",
-      "in_degree": 12,
-      "out_degree": 11,
+      "hash": "1fdcddb9c032",
+      "in_degree": 13,
+      "out_degree": 12,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-illusion-of-free-intelligence",
@@ -3380,6 +3381,7 @@
         "production-consumption-and-the-minds-distinction",
         "technology-is-residual-of-human-compounding",
         "ownership-and-self-worthiness",
+        "the-causal-order-of-private-residuals-and-social-surplus",
         "when-need-stops-being-the-measure",
         "moral-language-dilutes-the-feedback-that-scales-freedom"
       ]
@@ -3570,11 +3572,12 @@
       "slug": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "Politicians Appear as Visible Symptoms of Responsibility Diffusion",
-      "hash": "747ea3076203",
-      "in_degree": 14,
-      "out_degree": 12,
+      "hash": "33a37f9af677",
+      "in_degree": 15,
+      "out_degree": 13,
       "links_out": [
         "ownership-and-self-worthiness",
+        "the-causal-order-of-private-residuals-and-social-surplus",
         "mei-you-pu-du-zhi-you-zi-du",
         "individual-choices-as-the-only-causal-levers",
         "public-spending-does-not-create-capital",
@@ -4833,6 +4836,22 @@
         "intelligence-belongs-only-to-the-mind",
         "the-allocation-of-causal-power-in-validation",
         "the-model-never-becomes-a-second-edge"
+      ]
+    },
+    {
+      "id": "post:the-causal-order-of-private-residuals-and-social-surplus",
+      "kind": "post",
+      "slug": "the-causal-order-of-private-residuals-and-social-surplus",
+      "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
+      "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
+      "hash": "3bb091e84b56",
+      "in_degree": 3,
+      "out_degree": 4,
+      "links_out": [
+        "having-more-is-never-the-cause",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+        "order-surplus-and-the-moral-intercept",
+        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion"
       ]
     },
     {
@@ -6844,9 +6863,9 @@
       "slug": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "path": "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md",
       "title": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors",
-      "hash": "c9db12b044ea",
-      "in_degree": 15,
-      "out_degree": 14,
+      "hash": "efe229433da4",
+      "in_degree": 16,
+      "out_degree": 15,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -6861,6 +6880,7 @@
         "restriction-is-a-selective-tax",
         "production-consumption-and-the-minds-distinction",
         "the-generative-mechanics-of-value-money-and-wealth",
+        "the-causal-order-of-private-residuals-and-social-surplus",
         "residual-individualism"
       ]
     },
@@ -16203,6 +16223,12 @@
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
       "label": "When need stops being the measure"
@@ -16764,6 +16790,12 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
     },
     {
       "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
@@ -20724,6 +20756,54 @@
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多并非因由"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "财富转移政策与价格下限中的因果错位"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "秩序、剩余与道德拦截"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客作为责任扩散的可见表征"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Appear as Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
@@ -26781,6 +26861,12 @@
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "residual-individualism",
       "rel": "points_to",
       "label": "Residual individualism"
@@ -30838,8 +30924,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "40dd330f8946",
-        "out_degree": 27
+        "hash": "20e15514e89c",
+        "out_degree": 28
       },
       {
         "id": "book:index-of-premises",
@@ -30847,8 +30933,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "2fe8914e2d37",
-        "out_degree": 364
+        "hash": "cea34eaa8802",
+        "out_degree": 365
       },
       {
         "id": "book:intelligence",
@@ -31501,6 +31587,12 @@
         "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields"
       },
       {
+        "from": "book:economics",
+        "to": "the-causal-order-of-private-residuals-and-social-surplus",
+        "rel": "collects",
+        "label": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus"
+      },
+      {
         "from": "book:index-of-premises",
         "to": "the-twin-paradox-and-the-hidden-observer",
         "rel": "collects",
@@ -31547,6 +31639,12 @@
         "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "rel": "collects",
         "label": "Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-causal-order-of-private-residuals-and-social-surplus",
+        "rel": "collects",
+        "label": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus"
       },
       {
         "from": "book:index-of-premises",
@@ -31859,6 +31957,12 @@
         "to": "sowell-observed-the-surface-problem",
         "rel": "collects",
         "label": "Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-causal-order-of-private-residuals-and-social-surplus",
+        "rel": "collects",
+        "label": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus"
       },
       {
         "from": "book:index-of-premises",
