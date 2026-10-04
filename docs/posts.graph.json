@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-04T08:05:17.446Z",
+    "generated_at": "2026-10-04T15:53:19.048Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -229,7 +229,8 @@
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "f6299229ed66",
-      "content/posts/the-freedom-of-will-to-deny-itself.md": "19383fa5a8a6",
+      "content/posts/the-freedom-of-will-to-deny-itself.md": "04cdf86568f1",
+      "content/posts/the-functionalism-no-functionalist-can-hold.md": "153fe57f4a67",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "a459e322881c",
       "content/posts/the-generative-contradiction.md": "30e18c0a4d95",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "3c600d32c6d1",
@@ -257,7 +258,7 @@
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2413ca14ec54",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "08233385869e",
-      "content/posts/the-irreducible-observer.md": "faa819e5397c",
+      "content/posts/the-irreducible-observer.md": "c1f63378d4bc",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "d8ad12abb11d",
@@ -350,7 +351,7 @@
       "content/posts/war-revolution-and-the-fall-of-empires.md": "91addf4a12b9",
       "content/posts/what-always-listens-cannot-originate.md": "618a1622ff7d",
       "content/posts/what-cannot-be-kept.md": "978f2bf026d5",
-      "content/posts/what-hinton-failed-to-understand.md": "ea4e91d40eba",
+      "content/posts/what-hinton-failed-to-understand.md": "9d99ffa661dc",
       "content/posts/what-information-is.md": "5cf8efae167b",
       "content/posts/what-works-is-the-belief.md": "e8877c5d23bf",
       "content/posts/whatever-is-one-prompt-away.md": "4f4272f67a57",
@@ -374,9 +375,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "203dc63091d4",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "2a318a0df024",
-      "content/book/consciousness.md": "a4de8d83e36f",
+      "content/book/consciousness.md": "f4981dc6f243",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "c0a058492ed8",
+      "content/book/index-of-premises.md": "bf7a154284ac",
       "content/book/intelligence.md": "8c2134c318f8",
       "content/book/knowledge-and-learning.md": "79909cd5bb33",
       "content/book/life-and-statistics.md": "158742fb4b72",
@@ -391,16 +392,16 @@
       "content/book/tools-and-progress.md": "44868f9684a3"
     },
     "stats": {
-      "posts": 365,
-      "edges": 3789,
-      "unique_directed": 3293,
+      "posts": 366,
+      "edges": 3811,
+      "unique_directed": 3304,
       "missing_targets": 0,
-      "one_way": 899,
+      "one_way": 904,
       "isolated": 40,
-      "posts_with_outbound": 300,
+      "posts_with_outbound": 301,
       "book_pages": 16,
-      "book_edges": 886,
-      "posts_reached_by_book": 365
+      "book_edges": 888,
+      "posts_reached_by_book": 366
     }
   },
   "hubs_in": [
@@ -418,7 +419,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 53
+      "in_degree": 54
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -1419,7 +1420,7 @@
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
       "title": "Consciousness Never Appears as Data Among Data",
       "hash": "e0c28911f818",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 19,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -5304,7 +5305,7 @@
       "path": "content/posts/the-flight-analogy-leaves-the-mind-untouched.md",
       "title": "The Flight Analogy Leaves the Mind Untouched",
       "hash": "d3cd05b0818a",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 10,
       "links_out": [
         "the-brain-does-not-backprop",
@@ -5378,16 +5379,37 @@
       "slug": "the-freedom-of-will-to-deny-itself",
       "path": "content/posts/the-freedom-of-will-to-deny-itself.md",
       "title": "自由意志的自否自由 / The Freedom of Will to Deny Itself",
-      "hash": "19383fa5a8a6",
-      "in_degree": 3,
-      "out_degree": 6,
+      "hash": "04cdf86568f1",
+      "in_degree": 4,
+      "out_degree": 7,
       "links_out": [
         "the-closed-loop-of-representation",
+        "the-functionalism-no-functionalist-can-hold",
         "the-bank-shot-and-the-magic-trick",
         "what-information-is",
         "the-boundary-crossing-of-choice",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "zi-you-de-ce-bu-zhun"
+      ]
+    },
+    {
+      "id": "post:the-functionalism-no-functionalist-can-hold",
+      "kind": "post",
+      "slug": "the-functionalism-no-functionalist-can-hold",
+      "path": "content/posts/the-functionalism-no-functionalist-can-hold.md",
+      "title": "无人能持有的功能主义 / The Functionalism No Functionalist Can Hold",
+      "hash": "153fe57f4a67",
+      "in_degree": 3,
+      "out_degree": 8,
+      "links_out": [
+        "the-freedom-of-will-to-deny-itself",
+        "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+        "the-irreducible-observer",
+        "consciousness-never-appears-as-data-among-data",
+        "what-hinton-failed-to-understand",
+        "the-scaffolding-we-forget",
+        "the-flight-analogy-leaves-the-mind-untouched",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -5874,9 +5896,9 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "faa819e5397c",
-      "in_degree": 7,
-      "out_degree": 12,
+      "hash": "c1f63378d4bc",
+      "in_degree": 8,
+      "out_degree": 13,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -5884,6 +5906,7 @@
         "subtracting-consciousness-at-the-source",
         "what-hinton-failed-to-understand",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+        "the-functionalism-no-functionalist-can-hold",
         "the-boundary-crossing-of-choice",
         "the-scaffolding-we-forget",
         "openness-is-consistency",
@@ -6561,7 +6584,7 @@
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "The Presumption of AGI and the View from Outside",
       "hash": "af92c141bd54",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 21,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6985,7 +7008,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "The Scaffolding We Forget",
       "hash": "3fcc945ba028",
-      "in_degree": 53,
+      "in_degree": 54,
       "out_degree": 32,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7119,7 +7142,7 @@
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
       "hash": "3b12b67585c1",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "abstract-pain-and-living-hunger",
@@ -7743,14 +7766,15 @@
       "slug": "what-hinton-failed-to-understand",
       "path": "content/posts/what-hinton-failed-to-understand.md",
       "title": "辛顿未曾理解的心智 / What Hinton Failed to Understand",
-      "hash": "ea4e91d40eba",
-      "in_degree": 3,
-      "out_degree": 4,
+      "hash": "9d99ffa661dc",
+      "in_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "a-creation-cannot-replace-its-source",
         "the-self-portrait-in-the-projection",
         "one-cannot-escape-ones-own-mind",
-        "the-irreducible-observer"
+        "the-irreducible-observer",
+        "the-functionalism-no-functionalist-can-hold"
       ]
     },
     {
@@ -22629,9 +22653,21 @@
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "无人能持有的功能主义"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
       "to": "the-closed-loop-of-representation",
       "rel": "points_to",
       "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "The Functionalism No Functionalist Can Hold"
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
@@ -22686,6 +22722,102 @@
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
       "label": "The Uncertainty of Freedom"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "The Freedom of Will to Deny Itself"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "意识的魔术戏法与推断的非对称性"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Consciousness and the Asymmetry of Inference"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "意识从不作为数据中的一项出现"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "The Irreducible Observer"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "what-hinton-failed-to-understand",
+      "rel": "points_to",
+      "label": "辛顿未曾理解的心智"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "what-hinton-failed-to-understand",
+      "rel": "points_to",
+      "label": "What Hinton Failed to Understand"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "脚手架"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "飞行类比并未触及心智"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "scaffolding"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The Flight Analogy Leaves the Mind Untouched"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "AGI 的预设与来自外部的视角"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
@@ -23925,6 +24057,12 @@
     },
     {
       "from": "the-irreducible-observer",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "无人能持有的功能主义"
+    },
+    {
+      "from": "the-irreducible-observer",
       "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
       "label": "subtracting-consciousness-at-the-source"
@@ -23940,6 +24078,12 @@
       "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "rel": "points_to",
       "label": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "The Functionalism No Functionalist Can Hold"
     },
     {
       "from": "the-irreducible-observer",
@@ -29703,9 +29847,21 @@
     },
     {
       "from": "what-hinton-failed-to-understand",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "无人能持有的功能主义"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "The Irreducible Observer"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "The Functionalism No Functionalist Can Hold"
     },
     {
       "from": "what-information-is",
@@ -30973,8 +31129,8 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "a4de8d83e36f",
-        "out_degree": 32
+        "hash": "f4981dc6f243",
+        "out_degree": 33
       },
       {
         "id": "book:economics",
@@ -30991,8 +31147,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c0a058492ed8",
-        "out_degree": 365
+        "hash": "bf7a154284ac",
+        "out_degree": 366
       },
       {
         "id": "book:intelligence",
@@ -31481,6 +31637,12 @@
         "to": "the-irreducible-observer",
         "rel": "collects",
         "label": "不可还原的观察者 / The Irreducible Observer"
+      },
+      {
+        "from": "book:consciousness",
+        "to": "the-functionalism-no-functionalist-can-hold",
+        "rel": "collects",
+        "label": "无人能持有的功能主义 / The Functionalism No Functionalist Can Hold"
       },
       {
         "from": "book:economics",
@@ -32177,6 +32339,12 @@
         "to": "hierarchy-from-individual-difference",
         "rel": "collects",
         "label": "Hierarchy from Individual Difference"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-functionalism-no-functionalist-can-hold",
+        "rel": "collects",
+        "label": "无人能持有的功能主义 / The Functionalism No Functionalist Can Hold"
       },
       {
         "from": "book:index-of-premises",

@@ -44,3 +44,4 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [投射中的自画像 / The Self-Portrait in the Projection](../../posts/the-self-portrait-in-the-projection/)
 - [意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference](../../posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/)
 - [不可还原的观察者 / The Irreducible Observer](../../posts/the-irreducible-observer/)
+- [无人能持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/)
