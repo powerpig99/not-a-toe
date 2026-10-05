@@ -44,3 +44,4 @@ These essays examine victimhood paralysis, shortcut delusions, and cognitive inv
 - [前台的寓言与缺席的因果倒置 / The Receptionist Parable and the Causal Inversion of Absence](../../posts/the-receptionist-parable-and-the-causal-inversion-of-absence/)
 - [主体性的折现 / The Discount on Agency](../../posts/the-discount-on-agency/)
 - [未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence](../../posts/the-unfrictioned-mind-and-borrowed-omnipotence/)
+- [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/)
