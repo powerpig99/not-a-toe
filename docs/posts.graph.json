@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-04T15:53:19.048Z",
+    "generated_at": "2026-10-05T04:46:14.164Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -217,7 +217,7 @@
       "content/posts/the-deterministic-machine.md": "680cb9af2f4f",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "e86ad1bf219f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
-      "content/posts/the-discount-on-agency.md": "74e3cfe763fc",
+      "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "5ecf50b3345a",
@@ -229,6 +229,7 @@
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "f6299229ed66",
+      "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "88ccfe6958bd",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "04cdf86568f1",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "153fe57f4a67",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "a459e322881c",
@@ -332,7 +333,7 @@
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "970d2bd9c8c3",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "15b2e9b8b58b",
       "content/posts/the-unclosable-trace.md": "323441205233",
-      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "7db0e71deff1",
+      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "17fc326d44dd",
       "content/posts/the-unobservable-driver-of-learning.md": "38f0ecb4cad9",
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "60eb7740bf58",
@@ -377,7 +378,7 @@
       "content/book/causality.md": "2a318a0df024",
       "content/book/consciousness.md": "f4981dc6f243",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "bf7a154284ac",
+      "content/book/index-of-premises.md": "f9f4f52ae2b7",
       "content/book/intelligence.md": "8c2134c318f8",
       "content/book/knowledge-and-learning.md": "79909cd5bb33",
       "content/book/life-and-statistics.md": "158742fb4b72",
@@ -388,20 +389,20 @@
       "content/book/physics.md": "5f3e320bca6b",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "550fd32f6c90",
-      "content/book/success-and-the-self.md": "ce95725e62ba",
+      "content/book/success-and-the-self.md": "7ef691063c43",
       "content/book/tools-and-progress.md": "44868f9684a3"
     },
     "stats": {
-      "posts": 366,
-      "edges": 3811,
-      "unique_directed": 3304,
+      "posts": 367,
+      "edges": 3829,
+      "unique_directed": 3313,
       "missing_targets": 0,
-      "one_way": 904,
+      "one_way": 909,
       "isolated": 40,
-      "posts_with_outbound": 301,
+      "posts_with_outbound": 302,
       "book_pages": 16,
-      "book_edges": 888,
-      "posts_reached_by_book": 366
+      "book_edges": 892,
+      "posts_reached_by_book": 367
     }
   },
   "hubs_in": [
@@ -5133,9 +5134,9 @@
       "slug": "the-discount-on-agency",
       "path": "content/posts/the-discount-on-agency.md",
       "title": "主体性的折现 / The Discount on Agency",
-      "hash": "74e3cfe763fc",
-      "in_degree": 4,
-      "out_degree": 8,
+      "hash": "e1aa4e5fb392",
+      "in_degree": 5,
+      "out_degree": 9,
       "links_out": [
         "having-more-is-never-the-cause",
         "empowerment-establishes-the-centralization-of-power",
@@ -5144,7 +5145,8 @@
         "individual-choices-as-the-only-causal-levers",
         "the-self-portrait-in-the-projection",
         "the-digital-god-and-the-horizon-jump",
-        "the-unfrictioned-mind-and-borrowed-omnipotence"
+        "the-unfrictioned-mind-and-borrowed-omnipotence",
+        "the-free-variable-and-the-retrospective-illusion-of-power"
       ]
     },
     {
@@ -5371,6 +5373,25 @@
         "externalized-virtue-becomes-its-opposite",
         "shared-consciousness-is-intersecting-individualities",
         "residual-individualism"
+      ]
+    },
+    {
+      "id": "post:the-free-variable-and-the-retrospective-illusion-of-power",
+      "kind": "post",
+      "slug": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "path": "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md",
+      "title": "隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power",
+      "hash": "88ccfe6958bd",
+      "in_degree": 2,
+      "out_degree": 7,
+      "links_out": [
+        "the-unfrictioned-mind-and-borrowed-omnipotence",
+        "the-discount-on-agency",
+        "the-receptionist-parable-and-the-causal-inversion-of-absence",
+        "the-mirror-handshake-of-power",
+        "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+        "the-residue-and-the-free-variable",
+        "the-twin-paradox-and-the-hidden-observer"
       ]
     },
     {
@@ -6214,7 +6235,7 @@
       "path": "content/posts/the-mirror-handshake-of-power.md",
       "title": "权力的镜像握手 / The Mirror Handshake of Power",
       "hash": "3fe1b6678749",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 0,
       "links_out": []
     },
@@ -6829,7 +6850,7 @@
       "path": "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md",
       "title": "前台的寓言与缺席的因果倒置 / The Receptionist Parable and the Causal Inversion of Absence",
       "hash": "ca268f088d0f",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 7,
       "links_out": [
         "the-explanatory-trap-of-the-ordinary-perspective",
@@ -6848,7 +6869,7 @@
       "path": "content/posts/the-residue-and-the-free-variable.md",
       "title": "残余与自由变量 / The Residue and the Free Variable",
       "hash": "0d8c83239fa5",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 3,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -7361,7 +7382,7 @@
       "path": "content/posts/the-twin-paradox-and-the-hidden-observer.md",
       "title": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer",
       "hash": "970d2bd9c8c3",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -7419,16 +7440,17 @@
       "slug": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "path": "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md",
       "title": "未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence",
-      "hash": "7db0e71deff1",
-      "in_degree": 2,
-      "out_degree": 6,
+      "hash": "17fc326d44dd",
+      "in_degree": 3,
+      "out_degree": 7,
       "links_out": [
         "the-self-portrait-in-the-projection",
         "help-is-half-the-problem",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "the-discount-on-agency",
         "a-new-deeper-look-at-antifragility",
-        "empowerment-establishes-the-centralization-of-power"
+        "empowerment-establishes-the-centralization-of-power",
+        "the-free-variable-and-the-retrospective-illusion-of-power"
       ]
     },
     {
@@ -8165,7 +8187,7 @@
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权：量子、比特与微观选择",
       "hash": "ef42796b2862",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 7,
       "links_out": [
         "what-information-is",
@@ -21933,6 +21955,12 @@
     },
     {
       "from": "the-discount-on-agency",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "隐性自由变量与权力的事后幻相"
+    },
+    {
+      "from": "the-discount-on-agency",
       "to": "the-self-portrait-in-the-projection",
       "rel": "points_to",
       "label": "The Self-Portrait in the Projection"
@@ -21948,6 +21976,12 @@
       "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "rel": "points_to",
       "label": "The Unfrictioned Mind and Borrowed Omnipotence"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -22644,6 +22678,90 @@
       "to": "residual-individualism",
       "rel": "points_to",
       "label": "Residual individualism"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "rel": "points_to",
+      "label": "未历摩擦的心智与借来的全能"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "rel": "points_to",
+      "label": "The Unfrictioned Mind and Borrowed Omnipotence"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "主体性的折现"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "前台的寓言与缺席的因果倒置"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "The Discount on Agency"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "The Receptionist Parable and the Causal Inversion of Absence"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-mirror-handshake-of-power",
+      "rel": "points_to",
+      "label": "权力的镜像握手"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-mirror-handshake-of-power",
+      "rel": "points_to",
+      "label": "The Mirror Handshake of Power"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "自由变量的同构与先验主权"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "残差的自由变量"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "Isomorphism of Free Variables and A Priori Sovereignty"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "The Residue and the Free Variable"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "双生子佯谬与隐秘观察者"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "The Twin Paradox and the Hidden Observer"
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
@@ -28832,6 +28950,18 @@
       "label": "Empowerment Establishes the Centralization of Power"
     },
     {
+      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "隐性自由变量与权力的事后幻相"
+    },
+    {
+      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
+    },
+    {
       "from": "the-unobservable-driver-of-learning",
       "to": "the-homework-exam-inversion-registers-substitution",
       "rel": "points_to",
@@ -31147,8 +31277,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "bf7a154284ac",
-        "out_degree": 366
+        "hash": "f9f4f52ae2b7",
+        "out_degree": 367
       },
       {
         "id": "book:intelligence",
@@ -31246,8 +31376,8 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "ce95725e62ba",
-        "out_degree": 32
+        "hash": "7ef691063c43",
+        "out_degree": 33
       },
       {
         "id": "book:tools-and-progress",
@@ -31919,6 +32049,12 @@
         "to": "why-mathematics-can-never-be-solved",
         "rel": "collects",
         "label": "Why Mathematics Can Never Be Solved"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+        "rel": "collects",
+        "label": "隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power"
       },
       {
         "from": "book:index-of-premises",
@@ -33662,6 +33798,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+        "rel": "collects",
+        "label": "隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "rel": "collects",
         "label": "格物致知与信息复杂度的本质：从第三人称凝视到具身因果推演"
@@ -34505,6 +34647,12 @@
         "to": "cheng-gong-xue",
         "rel": "collects",
         "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+        "rel": "collects",
+        "label": "隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power"
       },
       {
         "from": "book:index-of-premises",
@@ -36413,6 +36561,12 @@
         "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
         "rel": "collects",
         "label": "未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence"
+      },
+      {
+        "from": "book:success-and-the-self",
+        "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+        "rel": "collects",
+        "label": "隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power"
       },
       {
         "from": "book:tools-and-progress",

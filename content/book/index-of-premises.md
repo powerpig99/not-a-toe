@@ -152,6 +152,15 @@ Hilbert championed the formal axiomatic closure of all mathematics; his foundati
 
 → [Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/)
 
+### 大卫·森拉 / David Senra
+`成功学 / Self-Help`
+
+森拉通过传记叙事将商业巨擘的历程提炼为可复用的心智模式与行动类比；对于入局行动者校准认知传感器与识别人性不变摩擦模式极具启发，却把事后校验的支架误当成创造成功的生成性因果。
+
+Senra distills the journeys of historical titans into reusable mental models and analogies via biographical narrative; highly valuable as a calibration mirror for active practitioners to map human friction and system invariants, it mistakes the retrospective scaffolding of reference for the generative cause of success itself.
+
+→ [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/)
+
 ### 德米斯·哈萨比斯 / Demis Hassabis
 `技术 / Technological`
 
@@ -2631,6 +2640,15 @@ Inversion assumes avoiding failure modes automatically surfaces success; useful 
 
 → [Dissolving Munger's "Dumb Competition"](../../posts/munger-dumb-competition-refined/)
 
+### 隐性自由变量 / Invisible Free Variable
+`科学 / Scientific`
+
+隐性自由变量假定复杂系统的演化由未登账的开放自由度所驱动；在发轫之初它不可测度且无外部对冲，必须由行动者独自承受碰撞摩擦，在稳态参数推演中失效；在解释相变重组与系统宏观跃迁时保持有用。
+
+Invisible free variable presumes complex systems evolve via unmodeled degrees of freedom; completely unmeasurable and uninsurable at its onset, it requires the sovereign actor to absorb collision friction alone, becoming incomplete for stationary parameter deduction; it remains useful for explaining phase transitions and macroscopic reorganization.
+
+→ [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/)
+
 ### 格物致知的信息学重构 / Investigation of Things (Ge Wu Zhi Zhi)
 `哲学 / Philosophical`
 
@@ -3889,7 +3907,7 @@ The solipsistic NPC trope views others as unthinking automatons; this illusion a
 
 Success literature assumes survivors' principles can generate future success; formalized after outcomes, it explains existing excellence well, travels as status, and stays silent on renewing the edge.
 
-→ [成功学: Theories After Success, Mistaken for Theories Leading to Success](../../posts/cheng-gong-xue/)
+→ [成功学: Theories After Success, Mistaken for Theories Leading to Success](../../posts/cheng-gong-xue/) · [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/)
 
 ### 共情的能力倒错与自毁陷阱 / Suicidal Empathy Inversion
 `哲学 / Philosophical`
