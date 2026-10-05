@@ -38,3 +38,4 @@ These essays dissect victimhood scripts, suicidal empathy inversions, and the ab
 - [善恶硬币与通往地狱的善意之路 / The Coin of Good and Evil and the Road to Hell](../../posts/the-coin-of-good-and-evil-and-the-road-to-hell/)
 - [未被遭遇之物的账本 / The Ledger of the Unencountered](../../posts/the-ledger-of-the-unencountered/)
 - [抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger](../../posts/abstract-pain-and-living-hunger/)
+- [没有外部记账员 / No Outside Scorekeeper](../../posts/no-outside-scorekeeper/)

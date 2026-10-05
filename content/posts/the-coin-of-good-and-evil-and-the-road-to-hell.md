@@ -150,7 +150,7 @@ The acting center may choose which side of the coin to present to the world, but
 
 这种符号化坍缩暴露出了高能动性心智最容易陷入的认知陷阱。具备非凡行动能力的人，拥有一种罕见的打破道德清规的勇气，他们敢于直面物理世界的阻力并强行创造突破。然而，正是这种罕见的高能动性，极易滋生出一种危险的代偿倾向：将技术与组织层面的非凡能力，直接等同于超越道德约束的特权。能动者误以为自己不仅能够计算当下的因果推演，更能够代行全知全能的视角，去为其他所有独立的生命定义何为普遍的良善。
 
-这种僭越建立在一个极其虚妄的假设之上，即认定未来的宏伟产出可以反向抹杀当下的物理痕迹。然而在严格的因果链条中，已经发生的痛苦、毁损与剥夺是不可逆的单向刻写，没有任何虚构的历史终点能够取消它们的存在。当行动者试图以未来的天国为由强制他人承受当下的代价，而承受者同样在沉默中放弃抵御时，两方共同推波助澜，将真实的生命降格为无机的数据资产。在这场交互中，原本用来警醒自身的善恶硬币早已失落，取而代之的是通往地狱之路上愈发沉重的滚滚车轮；而事后站在历史终局进行复盘的观察者，极易轻率地给双方贴上道德标签，从而深深遮蔽了因果回路相互嵌合的真实机制。
+这种僭越建立在一个极其虚妄的假设之上，即认定未来的宏伟产出可以反向抹杀当下的物理痕迹。然而在严格的因果链条中，已经发生的痛苦、毁损与剥夺是不可逆的单向刻写，没有任何虚构的历史终点能够取消它们的存在。当行动者试图以未来的天国为由强制他人承受当下的代价，而承受者同样在沉默中放弃抵御时，两方共同推波助澜，将真实的生命降格为无机的数据资产。正如我们在[没有外部记账员](../no-outside-scorekeeper/)中所揭示的，并不存在悬于时空之上的客观记账员为这种逃避买单，拒绝即刻承担摩擦所造成的认知模型扭曲，必将在心智内部引发不可逆的复利雪球坍塌；在这场交互中，原本用来警醒自身的善恶硬币早已失落，取而代之的是通往地狱之路上愈发沉重的滚滚车轮；而事后站在历史终局进行复盘的观察者，极易轻率地给双方贴上道德标签，从而深深遮蔽了因果回路相互嵌合的真实机制。
 
 ```mermaid
 graph TD
@@ -212,7 +212,7 @@ Once private introspection is cast into the public square, the coin slips from t
 
 This reification exposes the subtle trap confronting high-agency actors. Those possessing exceptional competence display an admirable readiness to act where others cower, confronting friction to force novel outcomes. Yet this same drive tends to overextend into a fatal hubris: confusing technical competence with moral righteousness. The actor assumes that because they can engineer systems and bend trajectory lines, they possess the authority to define goodness for all other minds.
 
-This overextension rests on the false premise that prospective future outcomes can cancel the physical traces of immediate harm. In physical reality, every unit of suffering, displacement, and extraction is an irreversible historical inscription; no distant utopia can retrospectively erase what was broken to reach it. When an agent demands that others bear immediate destruction to fuel an imagined future paradise, and those others passively acquiesce, living subjects are collaboratively demoted to expendable instruments. The coin that once functioned as a private mirror of conscience is lost, replaced by an ideological juggernaut crushing the landscape beneath its advance. Retrospective third-person observers then slap moralizing labels onto the wreckage, obscuring the closed-loop causal interplay that produced the disaster.
+This overextension rests on the false premise that prospective future outcomes can cancel the physical traces of immediate harm. In physical reality, every unit of suffering, displacement, and extraction is an irreversible historical inscription; no distant utopia can retrospectively erase what was broken to reach it. When an agent demands that others bear immediate destruction to fuel an imagined future paradise, and those others passively acquiesce, living subjects are collaboratively demoted to expendable instruments. As revealed in [No Outside Scorekeeper](../no-outside-scorekeeper/), no external cosmic scorekeeper exists to absorb such evasions; refusing immediate friction inevitably warps the internal world model, triggering a compounding downward spiral of systemic collapse. The coin that once functioned as a private mirror of conscience is lost, replaced by an ideological juggernaut crushing the landscape beneath its advance. Retrospective third-person observers then slap moralizing labels onto the wreckage, obscuring the closed-loop causal interplay that produced the disaster.
 
 ```mermaid
 graph TD
