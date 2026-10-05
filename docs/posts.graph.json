@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-05T09:09:14.907Z",
+    "generated_at": "2026-10-05T10:17:19.061Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -123,7 +123,7 @@
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "92cdaa6d6d0b",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
-      "content/posts/no-outside-scorekeeper.md": "579ebe3c97ec",
+      "content/posts/no-outside-scorekeeper.md": "b50e63c6dc4e",
       "content/posts/no-system-can-be-kept-closed.md": "cef145eed8ba",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "201004f4bbf0",
@@ -200,12 +200,13 @@
       "content/posts/the-brain-does-not-backprop.md": "becd85fcfdf9",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "fa7c6495859f",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "be7b032ccd86",
-      "content/posts/the-category-error-of-better.md": "c6b1eab24d85",
+      "content/posts/the-category-error-of-better.md": "ba22abca92f3",
       "content/posts/the-causal-inversion-of-partnership.md": "91c09f2f860e",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "dc4319ee94bb",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
+      "content/posts/the-closed-n-and-the-open-reality.md": "e6ebe2963435",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "d71141c2c581",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
@@ -380,13 +381,13 @@
       "content/book/causality.md": "2a318a0df024",
       "content/book/consciousness.md": "f4981dc6f243",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "5ce3164baff4",
+      "content/book/index-of-premises.md": "ba18355cf7ff",
       "content/book/intelligence.md": "8c2134c318f8",
       "content/book/knowledge-and-learning.md": "f1db5bdf82c9",
       "content/book/life-and-statistics.md": "158742fb4b72",
       "content/book/mathematics.md": "226cf5ec0ee0",
       "content/book/meaning-and-transcendence.md": "39f52073de83",
-      "content/book/method.md": "d901f132e1ba",
+      "content/book/method.md": "e598fadd6588",
       "content/book/morality.md": "29adad4194a7",
       "content/book/physics.md": "5f3e320bca6b",
       "content/book/preface.md": "beeec0b1d73b",
@@ -395,16 +396,16 @@
       "content/book/tools-and-progress.md": "44868f9684a3"
     },
     "stats": {
-      "posts": 369,
-      "edges": 3861,
-      "unique_directed": 3329,
+      "posts": 370,
+      "edges": 3877,
+      "unique_directed": 3337,
       "missing_targets": 0,
-      "one_way": 917,
+      "one_way": 921,
       "isolated": 40,
-      "posts_with_outbound": 304,
+      "posts_with_outbound": 305,
       "book_pages": 16,
-      "book_edges": 897,
-      "posts_reached_by_book": 369
+      "book_edges": 900,
+      "posts_reached_by_book": 370
     }
   },
   "hubs_in": [
@@ -1633,7 +1634,7 @@
       "path": "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md",
       "title": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog",
       "hash": "bc0a82323095",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 2,
       "links_out": [
         "the-continuum-is-a-modeling-convenience",
@@ -3019,15 +3020,16 @@
       "slug": "no-outside-scorekeeper",
       "path": "content/posts/no-outside-scorekeeper.md",
       "title": "没有外部记账员 / No Outside Scorekeeper",
-      "hash": "579ebe3c97ec",
-      "in_degree": 2,
-      "out_degree": 5,
+      "hash": "b50e63c6dc4e",
+      "in_degree": 3,
+      "out_degree": 6,
       "links_out": [
         "the-ledger-of-the-unencountered",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "the-coin-of-good-and-evil-and-the-road-to-hell",
-        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-closed-n-and-the-open-reality"
       ]
     },
     {
@@ -4731,7 +4733,7 @@
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "The Boundary of the Frame",
       "hash": "8c493f39d1f4",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 11,
       "links_out": [
         "what-information-is",
@@ -4809,9 +4811,9 @@
       "slug": "the-category-error-of-better",
       "path": "content/posts/the-category-error-of-better.md",
       "title": "「更好」的范畴谬误 / The Category Error of Better",
-      "hash": "c6b1eab24d85",
-      "in_degree": 4,
-      "out_degree": 9,
+      "hash": "ba22abca92f3",
+      "in_degree": 5,
+      "out_degree": 10,
       "links_out": [
         "the-irreducible-observer",
         "the-allocation-of-causal-power-in-validation",
@@ -4821,6 +4823,7 @@
         "the-ledger-of-the-unencountered",
         "the-coordinators-category-error",
         "silicon-oracles-and-the-asymmetry-of-consequence",
+        "the-closed-n-and-the-open-reality",
         "the-inversion-of-reading-and-the-order-of-inference"
       ]
     },
@@ -4922,6 +4925,24 @@
         "climbing-does-not-leave-the-ground",
         "intelligence-belongs-only-to-the-mind",
         "individual-choices-as-the-only-causal-levers"
+      ]
+    },
+    {
+      "id": "post:the-closed-n-and-the-open-reality",
+      "kind": "post",
+      "slug": "the-closed-n-and-the-open-reality",
+      "path": "content/posts/the-closed-n-and-the-open-reality.md",
+      "title": "闭合的N与开放的现实 / The Closed N and the Open Reality",
+      "hash": "e6ebe2963435",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "the-category-error-of-better",
+        "demanding-a-toe-freezes-time-into-a-catalog",
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "the-boundary-of-the-frame",
+        "the-extendable-horizon",
+        "no-outside-scorekeeper"
       ]
     },
     {
@@ -5236,7 +5257,7 @@
       "path": "content/posts/the-extendable-horizon.md",
       "title": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables",
       "hash": "16c6a9ecd2f7",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 9,
       "links_out": [
         "the-arithmetic-of-the-register",
@@ -7182,7 +7203,7 @@
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
       "hash": "4216d0e9136d",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 11,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -15186,6 +15207,18 @@
       "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
+      "from": "no-outside-scorekeeper",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "闭合的N与开放的现实"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "The Closed N and the Open Reality"
+    },
+    {
       "from": "no-system-can-be-kept-closed",
       "to": "openness-is-consistency",
       "rel": "points_to",
@@ -20755,6 +20788,12 @@
     },
     {
       "from": "the-category-error-of-better",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "闭合的N与开放的现实"
+    },
+    {
+      "from": "the-category-error-of-better",
       "to": "the-inversion-of-reading-and-the-order-of-inference",
       "rel": "points_to",
       "label": "阅读的倒错与推断的次序"
@@ -20770,6 +20809,12 @@
       "to": "silicon-oracles-and-the-asymmetry-of-consequence",
       "rel": "points_to",
       "label": "Silicon Oracles and the Asymmetry of Consequence"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "The Closed N and the Open Reality"
     },
     {
       "from": "the-category-error-of-better",
@@ -21136,6 +21181,78 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "「更好」的范畴谬误"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "The Category Error of Better"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "索求万物理论是在将当下冻结为清单"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "Demanding a Theory of Everything Freezes Time into a Catalog"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理学才是定律”的障眼法"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "无外部记分员与选择的微观临界"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "No Outside Scorekeeper"
     },
     {
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
@@ -31511,8 +31628,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "5ce3164baff4",
-        "out_degree": 369
+        "hash": "ba18355cf7ff",
+        "out_degree": 370
       },
       {
         "id": "book:intelligence",
@@ -31565,8 +31682,8 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "d901f132e1ba",
-        "out_degree": 25
+        "hash": "e598fadd6588",
+        "out_degree": 26
       },
       {
         "id": "book:morality",
@@ -32355,6 +32472,12 @@
         "to": "what-hinton-failed-to-understand",
         "rel": "collects",
         "label": "辛顿未曾理解的心智 / What Hinton Failed to Understand"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-closed-n-and-the-open-reality",
+        "rel": "collects",
+        "label": "闭合的N与开放的现实 / The Closed N and the Open Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -33459,6 +33582,12 @@
         "to": "the-homework-exam-inversion-registers-substitution",
         "rel": "collects",
         "label": "The Homework–Exam Inversion Registers Substitution"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-closed-n-and-the-open-reality",
+        "rel": "collects",
+        "label": "闭合的N与开放的现实 / The Closed N and the Open Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -36165,6 +36294,12 @@
         "to": "the-category-error-of-better",
         "rel": "collects",
         "label": "「更好」的范畴谬误 / The Category Error of Better"
+      },
+      {
+        "from": "book:method",
+        "to": "the-closed-n-and-the-open-reality",
+        "rel": "collects",
+        "label": "闭合的N与开放的现实 / The Closed N and the Open Reality"
       },
       {
         "from": "book:morality",

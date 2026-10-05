@@ -233,6 +233,15 @@ Hinton pioneered deep learning architectures modeled after neural intuitions; br
 
 → [The Brain Does Not Backprop, but Propagates](../../posts/the-brain-does-not-backprop/) · [辛顿未曾理解的心智 / What Hinton Failed to Understand](../../posts/what-hinton-failed-to-understand/)
 
+### 杰里德·杜克·利希特曼 / Jared Duker Lichtman
+`科学 / Scientific`
+
+利希特曼以极值抽样框定科学发现与工程韧性；在既定设计空间内清晰有力，却将现实的动态相空间简化为先验封箱的样本库。
+
+Lichtman frames scientific discovery and engineering resilience through extreme-value sampling; clear and powerful within a pre-defined design space, it reduces reality's dynamic phase space to a pre-packaged sample library.
+
+→ [闭合的N与开放的现实 / The Closed N and the Open Reality](../../posts/the-closed-n-and-the-open-reality/)
+
 ### 吉尔·德勒兹 / Gilles Deleuze
 `哲学 / Philosophical`
 
@@ -1784,6 +1793,15 @@ Venture ideology claims visionary disruption creates open, egalitarian markets; 
 Closed-book exams validly measure unaided performance; treating them as the whole of capability, including capability exercised with tools, extends a sealed instrument beyond its hold.
 
 → [The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
+
+### 闭合世界假定 / Closed-World Assumption
+`哲学 / Philosophical`
+
+闭合世界假定主张未被形式系统列出的要素即不存在或无须计入；为可计算性划定了工作边界，却抹杀了模型之外生生不息的活态摩擦与本体论余量。
+
+The closed-world assumption asserts that what is unlisted by a formal system does not exist or need not be accounted for; clarifying operational boundaries for computability, it erases the unconditioned living friction and ontological remainder beyond the model.
+
+→ [闭合的N与开放的现实 / The Closed N and the Open Reality](../../posts/the-closed-n-and-the-open-reality/)
 
 ### 认知基建杠杆 / Cognitive Infrastructure Leverage
 `技术 / Technological`
