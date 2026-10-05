@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-05T12:24:08.671Z",
+    "generated_at": "2026-10-05T15:35:07.138Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -54,7 +54,7 @@
       "content/posts/curiosity-has-no-final-form.md": "954585684515",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "af415810ee62",
-      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "4767532bf34f",
+      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "8b16aecfebef",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "bc0a82323095",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "eea2d46ea760",
       "content/posts/dimensions-are-projections.md": "178227b1b83c",
@@ -76,6 +76,7 @@
       "content/posts/externalized-virtue-becomes-its-opposite.md": "eec7d7c6b7d4",
       "content/posts/failure-as-information.md": "c19cdb30c5a5",
       "content/posts/fate-loves-irony-refined.md": "df6e1ca34057",
+      "content/posts/felt-resistance-and-the-speed-differential.md": "7978be4d8f08",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/fixed-by-nothing.md": "133578ce03a8",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
@@ -145,7 +146,7 @@
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
       "content/posts/perception-perspective-refined.md": "726559169efb",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "341602f294d2",
-      "content/posts/pessimism-is-the-shadow-of-optimism.md": "25144aa7ff9e",
+      "content/posts/pessimism-is-the-shadow-of-optimism.md": "2fe06aa14edd",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "fd5abe640eca",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "33a37f9af677",
@@ -206,7 +207,7 @@
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "dc4319ee94bb",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
-      "content/posts/the-closed-n-and-the-open-reality.md": "004289d355c9",
+      "content/posts/the-closed-n-and-the-open-reality.md": "2feb35ce6dbf",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "d71141c2c581",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
@@ -381,7 +382,7 @@
       "content/book/causality.md": "2a318a0df024",
       "content/book/consciousness.md": "f4981dc6f243",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "ba18355cf7ff",
+      "content/book/index-of-premises.md": "843677346d6e",
       "content/book/intelligence.md": "8c2134c318f8",
       "content/book/knowledge-and-learning.md": "f1db5bdf82c9",
       "content/book/life-and-statistics.md": "158742fb4b72",
@@ -393,25 +394,25 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "550fd32f6c90",
       "content/book/success-and-the-self.md": "7ef691063c43",
-      "content/book/tools-and-progress.md": "44868f9684a3"
+      "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 370,
-      "edges": 3877,
-      "unique_directed": 3337,
+      "posts": 371,
+      "edges": 3891,
+      "unique_directed": 3345,
       "missing_targets": 0,
-      "one_way": 921,
+      "one_way": 925,
       "isolated": 40,
-      "posts_with_outbound": 305,
+      "posts_with_outbound": 306,
       "book_pages": 16,
-      "book_edges": 900,
-      "posts_reached_by_book": 370
+      "book_edges": 904,
+      "posts_reached_by_book": 371
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 89
+      "in_degree": 90
     },
     {
       "slug": "openness-is-consistency",
@@ -482,11 +483,11 @@
       "in_degree": 26
     },
     {
-      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "in_degree": 25
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
+      "in_degree": 26
     },
     {
-      "slug": "externalized-virtue-becomes-its-opposite",
+      "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "in_degree": 25
     }
   ],
@@ -1615,11 +1616,12 @@
       "slug": "deceleration-is-the-drag-felt-when-accelerating",
       "path": "content/posts/deceleration-is-the-drag-felt-when-accelerating.md",
       "title": "Deceleration Is the Drag Felt When Accelerating",
-      "hash": "4767532bf34f",
-      "in_degree": 4,
-      "out_degree": 6,
+      "hash": "8b16aecfebef",
+      "in_degree": 5,
+      "out_degree": 7,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
+        "felt-resistance-and-the-speed-differential",
         "restriction-is-a-selective-tax",
         "the-scaffolding-that-keeps-growing",
         "failure-as-information",
@@ -2033,6 +2035,23 @@
         "public-spending-does-not-create-capital",
         "the-myth-of-population-collapse-explained",
         "pessimism-is-the-shadow-of-optimism"
+      ]
+    },
+    {
+      "id": "post:felt-resistance-and-the-speed-differential",
+      "kind": "post",
+      "slug": "felt-resistance-and-the-speed-differential",
+      "path": "content/posts/felt-resistance-and-the-speed-differential.md",
+      "title": "阻力体感与速率差 / Felt Resistance and the Speed Differential",
+      "hash": "7978be4d8f08",
+      "in_degree": 3,
+      "out_degree": 5,
+      "links_out": [
+        "pessimism-is-the-shadow-of-optimism",
+        "deceleration-is-the-drag-felt-when-accelerating",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "individual-choices-as-the-only-causal-levers",
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth"
       ]
     },
     {
@@ -2491,7 +2510,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "4386ca223753",
-      "in_degree": 89,
+      "in_degree": 90,
       "out_degree": 56,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -3530,9 +3549,9 @@
       "slug": "pessimism-is-the-shadow-of-optimism",
       "path": "content/posts/pessimism-is-the-shadow-of-optimism.md",
       "title": "Pessimism Is the Shadow of Optimism",
-      "hash": "25144aa7ff9e",
-      "in_degree": 18,
-      "out_degree": 18,
+      "hash": "2fe06aa14edd",
+      "in_degree": 19,
+      "out_degree": 19,
       "links_out": [
         "causality-all-the-way",
         "the-path-drawn-one-step-at-a-time",
@@ -3551,7 +3570,8 @@
         "intelligence-belongs-only-to-the-mind",
         "the-npc-impression-is-structural",
         "only-if-it-is-not-kept-empty",
-        "when-the-effect-authors-the-frame"
+        "when-the-effect-authors-the-frame",
+        "felt-resistance-and-the-speed-differential"
       ]
     },
     {
@@ -4371,7 +4391,7 @@
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
       "hash": "ba001bbc15a9",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 30,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -4933,16 +4953,17 @@
       "slug": "the-closed-n-and-the-open-reality",
       "path": "content/posts/the-closed-n-and-the-open-reality.md",
       "title": "闭合的N与开放的现实 / The Closed N and the Open Reality",
-      "hash": "004289d355c9",
+      "hash": "2feb35ce6dbf",
       "in_degree": 2,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-category-error-of-better",
         "demanding-a-toe-freezes-time-into-a-catalog",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-boundary-of-the-frame",
         "the-extendable-horizon",
-        "no-outside-scorekeeper"
+        "no-outside-scorekeeper",
+        "felt-resistance-and-the-speed-differential"
       ]
     },
     {
@@ -5278,7 +5299,7 @@
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
       "hash": "e4617c1af0fb",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -11416,6 +11437,12 @@
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "Felt Resistance and the Speed Differential"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
       "label": "Restriction is a selective tax"
@@ -12457,6 +12484,66 @@
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
       "label": "Pessimism is the shadow of optimism"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "减速是加速时感受到的阻力"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "Deceleration Is the Drag Felt When Accelerating"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "调速者的幻觉与行动的活态摩擦"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
     },
     {
       "from": "fidelity-not-optimality",
@@ -16894,6 +16981,12 @@
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "Felt Resistance and the Speed Differential"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
       "label": "What always listens cannot originate"
@@ -21250,9 +21343,21 @@
     },
     {
       "from": "the-closed-n-and-the-open-reality",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "阻力体感与速率差"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
       "to": "no-outside-scorekeeper",
       "rel": "points_to",
       "label": "No Outside Scorekeeper"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "Felt Resistance and the Speed Differential"
     },
     {
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
@@ -31628,8 +31733,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ba18355cf7ff",
-        "out_degree": 370
+        "hash": "843677346d6e",
+        "out_degree": 371
       },
       {
         "id": "book:intelligence",
@@ -31736,8 +31841,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "44868f9684a3",
-        "out_degree": 29
+        "hash": "cb474e31ac06",
+        "out_degree": 30
       }
     ],
     "edges": [
@@ -32484,6 +32589,12 @@
         "to": "objects-are-stabilized-relationships",
         "rel": "collects",
         "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "felt-resistance-and-the-speed-differential",
+        "rel": "collects",
+        "label": "阻力体感与速率差 / Felt Resistance and the Speed Differential"
       },
       {
         "from": "book:index-of-premises",
@@ -34521,6 +34632,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "felt-resistance-and-the-speed-differential",
+        "rel": "collects",
+        "label": "阻力体感与速率差 / Felt Resistance and the Speed Differential"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-inversion-of-reading-and-the-order-of-inference",
         "rel": "collects",
         "label": "阅读的倒错与推断的次序 / The Inversion of Reading and the Order of Inference"
@@ -34566,6 +34683,12 @@
         "to": "performative-hindsight-that-pretends-to-be-foresight",
         "rel": "collects",
         "label": "Performative Hindsight That Pretends to Be Foresight"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "felt-resistance-and-the-speed-differential",
+        "rel": "collects",
+        "label": "阻力体感与速率差 / Felt Resistance and the Speed Differential"
       },
       {
         "from": "book:index-of-premises",
@@ -37140,6 +37263,12 @@
         "to": "the-digital-god-and-the-horizon-jump",
         "rel": "collects",
         "label": "数字神祇与视界跳跃 / The Digital God and the Horizon Jump"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "felt-resistance-and-the-speed-differential",
+        "rel": "collects",
+        "label": "阻力体感与速率差 / Felt Resistance and the Speed Differential"
       }
     ]
   }

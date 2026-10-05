@@ -251,6 +251,15 @@ Deleuze replaced static substances with dynamic difference and becoming; brillia
 
 → [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
 
+### 艾萨克·阿西莫夫 / Isaac Asimov
+`技术 / Technological`
+
+阿西莫夫将历史对创新的抗拒归结为既得利益者或守旧阵营的主动对抗；对警惕地位焦虑与话语操纵有效，却把演进速度差异产生的体感投影误认作了阻碍进步的独立反作用力。
+
+Asimov attributes resistance against innovation to the proactive pushback of vested interests fearing status loss; valuable for spotting defensive rhetoric, it mistakes the sensory projection of a speed differential for an autonomous opposing force acting on progress.
+
+→ [阻力体感与速率差 / Felt Resistance and the Speed Differential](../../posts/felt-resistance-and-the-speed-differential/)
+
 ### 让-雅克·卢梭 / Jean-Jacques Rousseau
 `哲学 / Philosophical`
 
@@ -3187,7 +3196,7 @@ Legal prohibitions assume a statute physically prevents illicit activity; laws w
 
 Popular psychology treats optimism as a moral virtue and pessimism as a defect; both are reactive projections that judge reality against a fixed, self-referential timeline.
 
-→ [Pessimism Is the Shadow of Optimism](../../posts/pessimism-is-the-shadow-of-optimism/)
+→ [Pessimism Is the Shadow of Optimism](../../posts/pessimism-is-the-shadow-of-optimism/) · [阻力体感与速率差 / Felt Resistance and the Speed Differential](../../posts/felt-resistance-and-the-speed-differential/)
 
 ### 阅读的推断次序与依赖图谱 / Order of Textual Inference
 `哲学 / Philosophical`
@@ -3260,6 +3269,15 @@ Presumes functional manipulation of symbolic traces produces an internal perceiv
 Punditry treats post-hoc analysis as predictive genius; retrofitting explanations onto known successes creates a comforting illusion of foresight while disguising blind luck.
 
 → [Performative Hindsight That Pretends to Be Foresight](../../posts/performative-hindsight-that-pretends-to-be-foresight/)
+
+### 表演性乐观 / Performative Optimism
+`意识形态 / Ideological`
+
+将消除悲观与抗拒情绪视作推进演进的前提；适用于动员短期阵营共识，却因将资源抽离构建转向辩驳情绪而自我坐实迟滞。
+
+Treats the suppression of pessimism as a prerequisite for technological advance; useful for rallying tribal consensus, it ironically entrenches delay by diverting constructive effort into policing sentiment.
+
+→ [阻力体感与速率差 / Felt Resistance and the Speed Differential](../../posts/felt-resistance-and-the-speed-differential/)
 
 ### 表演性框架模拟 / Performative Framework Simulation
 `技术 / Technological`

@@ -41,3 +41,4 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth](../../posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)
 - [框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat](../../posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)
 - [数字神祇与视界跳跃 / The Digital God and the Horizon Jump](../../posts/the-digital-god-and-the-horizon-jump/)
+- [阻力体感与速率差 / Felt Resistance and the Speed Differential](../../posts/felt-resistance-and-the-speed-differential/)
