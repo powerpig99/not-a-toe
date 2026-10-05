@@ -1740,6 +1740,15 @@ Deterministic physics views causality as an external timeline linking physical s
 
 → [Causality All the Way](../../posts/causality-all-the-way/)
 
+### 因果逃逸幻觉 / Delusion of Causal Evasion
+`成功学 / Self-Help`
+
+假定避开外界目光或延宕制度惩罚便能免除不良选择的代价；作为短期规避摩擦的本能防御普遍存在，却忽视了维持逃避必须在内部扭曲世界模型，从而引发不可逆的认知负债滚雪球与下行坍塌。
+
+Presumes that avoiding outside observation or delaying institutional penalties successfully waives the cost of a compromised choice; pervasive as an instinctive short-term friction-avoidance defense, it ignores that sustaining evasion forces the Mind to warp its internal world model, unleashing an irreversible snowball of compounding cognitive debt and downward collapse.
+
+→ [没有外部记账员 / No Outside Scorekeeper](../../posts/no-outside-scorekeeper/)
+
 ### 中心化调速者的迷思 / Centralized Technology Pacing
 `意识形态 / Ideological`
 
@@ -2153,6 +2162,15 @@ Scientism expects research to arrive at a final, closed explanation of nature; e
 Validation-seeking presumes external observers can certify inner reality; deferring judgment transfers causal sovereignty to others, locking the mind in reactive defense.
 
 → [The Allocation of Causal Power in Validation](../../posts/the-allocation-of-causal-power-in-validation/)
+
+### 外部道德记账论 / Objective Moral Scorekeeping
+`意识形态 / Ideological`
+
+假定善恶与抉择代价由独立于生命心智的外部天秤或全景监视器客观测度；作为维系社会秩序与法律威慑的宏观脚手架极其有用，却在微观上遮蔽了因果权能唯独驻留于第一人称抉择前沿的世界模型动力学。
+
+Presumes that virtue, vice, and the costs of choice are objectively calibrated by an external celestial scale or cosmic panopticon; highly useful as macroscopic scaffolding for societal order and legal deterrence, it obscures the microscopic reality that causal power resides strictly within the first-person world model at the moment of decision.
+
+→ [没有外部记账员 / No Outside Scorekeeper](../../posts/no-outside-scorekeeper/)
 
 ### 外化美德异化为暴政 / Externalized Coercive Virtue
 `哲学 / Philosophical`

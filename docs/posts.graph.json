@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-05T06:01:20.506Z",
+    "generated_at": "2026-10-05T08:56:49.391Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -123,6 +123,7 @@
       "content/posts/naval-separation-analysis.md": "ca0b43ef2680",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "92cdaa6d6d0b",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
+      "content/posts/no-outside-scorekeeper.md": "3542076cdb7d",
       "content/posts/no-system-can-be-kept-closed.md": "cef145eed8ba",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "201004f4bbf0",
@@ -205,7 +206,7 @@
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "dc4319ee94bb",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
-      "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "109ed36085a6",
+      "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "d71141c2c581",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "a5d2621ac8cf",
@@ -259,7 +260,7 @@
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2413ca14ec54",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "08233385869e",
-      "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "6942031bda2e",
+      "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "d68a2155f5ff",
       "content/posts/the-irreducible-observer.md": "18a0eeafa3f9",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
@@ -379,14 +380,14 @@
       "content/book/causality.md": "2a318a0df024",
       "content/book/consciousness.md": "f4981dc6f243",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "a0304c449b7a",
+      "content/book/index-of-premises.md": "5ce3164baff4",
       "content/book/intelligence.md": "8c2134c318f8",
       "content/book/knowledge-and-learning.md": "f1db5bdf82c9",
       "content/book/life-and-statistics.md": "158742fb4b72",
       "content/book/mathematics.md": "226cf5ec0ee0",
       "content/book/meaning-and-transcendence.md": "39f52073de83",
       "content/book/method.md": "d901f132e1ba",
-      "content/book/morality.md": "ffa90302f165",
+      "content/book/morality.md": "29adad4194a7",
       "content/book/physics.md": "5f3e320bca6b",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "550fd32f6c90",
@@ -394,16 +395,16 @@
       "content/book/tools-and-progress.md": "44868f9684a3"
     },
     "stats": {
-      "posts": 368,
-      "edges": 3849,
-      "unique_directed": 3323,
+      "posts": 369,
+      "edges": 3861,
+      "unique_directed": 3329,
       "missing_targets": 0,
-      "one_way": 915,
+      "one_way": 917,
       "isolated": 40,
-      "posts_with_outbound": 303,
+      "posts_with_outbound": 304,
       "book_pages": 16,
-      "book_edges": 894,
-      "posts_reached_by_book": 368
+      "book_edges": 897,
+      "posts_reached_by_book": 369
     }
   },
   "hubs_in": [
@@ -3013,6 +3014,23 @@
       ]
     },
     {
+      "id": "post:no-outside-scorekeeper",
+      "kind": "post",
+      "slug": "no-outside-scorekeeper",
+      "path": "content/posts/no-outside-scorekeeper.md",
+      "title": "没有外部记账员 / No Outside Scorekeeper",
+      "hash": "3542076cdb7d",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "the-ledger-of-the-unencountered",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "the-coin-of-good-and-evil-and-the-road-to-hell",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+      ]
+    },
+    {
       "id": "post:no-system-can-be-kept-closed",
       "kind": "post",
       "slug": "no-system-can-be-kept-closed",
@@ -3098,7 +3116,7 @@
       "path": "content/posts/not-a-theory-of-everything.md",
       "title": "Not a Theory of Everything",
       "hash": "d9a81b9cab24",
-      "in_degree": 4,
+      "in_degree": 3,
       "out_degree": 29,
       "links_out": [
         "not-a-toe-rewrite",
@@ -4912,14 +4930,15 @@
       "slug": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "path": "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md",
       "title": "善恶硬币与通往地狱的善意之路 / The Coin of Good and Evil and the Road to Hell",
-      "hash": "109ed36085a6",
-      "in_degree": 2,
-      "out_degree": 5,
+      "hash": "d71141c2c581",
+      "in_degree": 3,
+      "out_degree": 6,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "the-boundary-crossing-of-choice",
         "the-perceiver-and-the-trace",
         "the-moral-reversal-and-the-scripted-subject",
+        "no-outside-scorekeeper",
         "moral-language-dilutes-the-feedback-that-scales-freedom"
       ]
     },
@@ -5027,7 +5046,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "868ab397f06e",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5920,8 +5939,8 @@
       "slug": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "path": "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md",
       "title": "观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission",
-      "hash": "6942031bda2e",
-      "in_degree": 2,
+      "hash": "d68a2155f5ff",
+      "in_degree": 3,
       "out_degree": 7,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -5929,7 +5948,7 @@
         "the-functionalism-no-functionalist-can-hold",
         "the-asymmetry-of-understanding",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-        "not-a-theory-of-everything",
+        "no-outside-scorekeeper",
         "the-inversion-of-reading-and-the-order-of-inference"
       ]
     },
@@ -6021,7 +6040,7 @@
       "path": "content/posts/the-ledger-of-the-unencountered.md",
       "title": "未被遭遇之物的账本 / The Ledger of the Unencountered",
       "hash": "2d5aac97f1b0",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 5,
       "links_out": [
         "the-irreducible-observer",
@@ -7425,7 +7444,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "15b2e9b8b58b",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 6,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -15107,6 +15126,66 @@
       "label": "Causality and the irreducible prior"
     },
     {
+      "from": "no-outside-scorekeeper",
+      "to": "the-ledger-of-the-unencountered",
+      "rel": "points_to",
+      "label": "未被遭遇之物的账本"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "the-ledger-of-the-unencountered",
+      "rel": "points_to",
+      "label": "The Ledger of the Unencountered"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "看不见的观察者与无损传输的妄念"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "善恶硬币与通往地狱的善意之路"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "The Coin of Good and Evil and the Road to Hell"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
       "from": "no-system-can-be-kept-closed",
       "to": "openness-is-consistency",
       "rel": "points_to",
@@ -21102,9 +21181,21 @@
     },
     {
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "没有外部记账员"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "to": "the-moral-reversal-and-the-scripted-subject",
       "rel": "points_to",
       "label": "The Moral Reversal and the Scripted Subject"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "No Outside Scorekeeper"
     },
     {
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
@@ -24228,15 +24319,15 @@
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-      "to": "not-a-theory-of-everything",
+      "to": "no-outside-scorekeeper",
       "rel": "points_to",
-      "label": "非万物之理"
+      "label": "没有外部记账员"
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-      "to": "not-a-theory-of-everything",
+      "to": "no-outside-scorekeeper",
       "rel": "points_to",
-      "label": "Not a Theory of Everything"
+      "label": "No Outside Scorekeeper"
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
@@ -31420,8 +31511,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a0304c449b7a",
-        "out_degree": 368
+        "hash": "5ce3164baff4",
+        "out_degree": 369
       },
       {
         "id": "book:intelligence",
@@ -31483,8 +31574,8 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "ffa90302f165",
-        "out_degree": 26
+        "hash": "29adad4194a7",
+        "out_degree": 27
       },
       {
         "id": "book:physics",
@@ -33341,6 +33432,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "no-outside-scorekeeper",
+        "rel": "collects",
+        "label": "没有外部记账员 / No Outside Scorekeeper"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "rel": "collects",
         "label": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth"
@@ -33614,6 +33711,12 @@
         "to": "the-allocation-of-causal-power-in-validation",
         "rel": "collects",
         "label": "The Allocation of Causal Power in Validation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "no-outside-scorekeeper",
+        "rel": "collects",
+        "label": "没有外部记账员 / No Outside Scorekeeper"
       },
       {
         "from": "book:index-of-premises",
@@ -36218,6 +36321,12 @@
         "to": "abstract-pain-and-living-hunger",
         "rel": "collects",
         "label": "抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger"
+      },
+      {
+        "from": "book:morality",
+        "to": "no-outside-scorekeeper",
+        "rel": "collects",
+        "label": "没有外部记账员 / No Outside Scorekeeper"
       },
       {
         "from": "book:physics",
