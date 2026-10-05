@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-05T10:17:19.061Z",
+    "generated_at": "2026-10-05T10:41:16.284Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -206,7 +206,7 @@
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "dc4319ee94bb",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
-      "content/posts/the-closed-n-and-the-open-reality.md": "e6ebe2963435",
+      "content/posts/the-closed-n-and-the-open-reality.md": "004289d355c9",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "d71141c2c581",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
@@ -4933,7 +4933,7 @@
       "slug": "the-closed-n-and-the-open-reality",
       "path": "content/posts/the-closed-n-and-the-open-reality.md",
       "title": "闭合的N与开放的现实 / The Closed N and the Open Reality",
-      "hash": "e6ebe2963435",
+      "hash": "004289d355c9",
       "in_degree": 2,
       "out_degree": 6,
       "links_out": [
@@ -21222,13 +21222,13 @@
       "from": "the-closed-n-and-the-open-reality",
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
-      "label": "The Boundary of the Frame"
+      "label": "框架的边界"
     },
     {
       "from": "the-closed-n-and-the-open-reality",
       "to": "the-extendable-horizon",
       "rel": "points_to",
-      "label": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables"
+      "label": "可延展的视界：心智模式、无限博弈与自由变量的复利"
     },
     {
       "from": "the-closed-n-and-the-open-reality",
