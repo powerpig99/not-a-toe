@@ -148,7 +148,7 @@ graph TD
 
 ## 四、 活态心智的原点：立足于加一的未完探索 / 4. The First-Person Origin: Operating from the Unfinished Plus-One
 
-这一对加一的体认，为活态心智指明了行动的原点坐标。在日常决策与重大决断中，心智必须借助有限的模型框架以凝聚注意力，否则意识将被浩瀚的感官噪声所淹没。将假说视作待检验的候选池并择优而从，将脆弱性视作系统的致命伤并加固防范，都是心智介入世界必不可少的行路脚手架。真正的清醒在于，使用者始终心知肚明这套代数是供自己落脚的临时木筏，而非河流两岸的永恒疆界。正如[The Boundary of the Frame](../the-boundary-of-the-frame/)与[The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables](../the-extendable-horizon/)所指出的，智慧不在于宣布全知，而在于时刻准备好在模型破裂之处迎接真实。
+这一对加一的体认，为活态心智指明了行动的原点坐标。在日常决策与重大决断中，心智必须借助有限的模型框架以凝聚注意力，否则意识将被浩瀚的感官噪声所淹没。将假说视作待检验的候选池并择优而从，将脆弱性视作系统的致命伤并加固防范，都是心智介入世界必不可少的行路脚手架。真正的清醒在于，使用者始终心知肚明这套代数是供自己落脚的临时木筏，而非河流两岸的永恒疆界。正如[框架的边界](../the-boundary-of-the-frame/)与[可延展的视界：心智模式、无限博弈与自由变量的复利](../the-extendable-horizon/)所指出的，智慧不在于宣布全知，而在于时刻准备好在模型破裂之处迎接真实。
 
 This recognition of the unconditioned plus-one returns the living mind to its authentic coordinates of action. In mundane choices as well as momentous commitments, the mind must deploy finite models to focus attention, lest consciousness drown in unstructured sensory noise. Sifting through candidate hypotheses to embrace the strongest, or mapping structural vulnerabilities to fortify defenses, remains indispensable scaffolding for navigating the world. Genuine clarity lies in recognizing that this algebra is a disposable raft rather than the river's eternal banks. As emphasized in [The Boundary of the Frame](../the-boundary-of-the-frame/) and [The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables](../the-extendable-horizon/), mastery consists not in professing omniscience, but in remaining primed to greet reality where the model gives way.
 
