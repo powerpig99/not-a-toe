@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-05T04:46:14.164Z",
+    "generated_at": "2026-10-05T04:51:50.835Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -229,7 +229,7 @@
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "f6299229ed66",
-      "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "88ccfe6958bd",
+      "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "58fa56cc295b",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "04cdf86568f1",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "153fe57f4a67",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "a459e322881c",
@@ -394,10 +394,10 @@
     },
     "stats": {
       "posts": 367,
-      "edges": 3829,
-      "unique_directed": 3313,
+      "edges": 3831,
+      "unique_directed": 3314,
       "missing_targets": 0,
-      "one_way": 909,
+      "one_way": 910,
       "isolated": 40,
       "posts_with_outbound": 302,
       "book_pages": 16,
@@ -436,7 +436,7 @@
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 39
+      "in_degree": 40
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -4457,7 +4457,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "The Allocation of Causal Power in Validation",
       "hash": "40eabf5459d5",
-      "in_degree": 39,
+      "in_degree": 40,
       "out_degree": 23,
       "links_out": [
         "order-surplus-and-the-moral-intercept",
@@ -5381,9 +5381,9 @@
       "slug": "the-free-variable-and-the-retrospective-illusion-of-power",
       "path": "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md",
       "title": "隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power",
-      "hash": "88ccfe6958bd",
+      "hash": "58fa56cc295b",
       "in_degree": 2,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-unfrictioned-mind-and-borrowed-omnipotence",
         "the-discount-on-agency",
@@ -5391,7 +5391,8 @@
         "the-mirror-handshake-of-power",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "the-residue-and-the-free-variable",
-        "the-twin-paradox-and-the-hidden-observer"
+        "the-twin-paradox-and-the-hidden-observer",
+        "the-allocation-of-causal-power-in-validation"
       ]
     },
     {
@@ -22762,6 +22763,18 @@
       "to": "the-twin-paradox-and-the-hidden-observer",
       "rel": "points_to",
       "label": "The Twin Paradox and the Hidden Observer"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "因果权让渡"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "surrenders causal agency"
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",

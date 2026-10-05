@@ -14,9 +14,9 @@ Biographies and historical chronicles habitually depict monumental triumphs as c
 
 In popular commercial culture and success literature, the reading of biographies and historical inquiry has long held a revered status. Exemplified by long-form founder podcasts and encyclopedic biographies, culture is obsessed with dissecting how a titan seized a distribution bottleneck, how an innovator enforced end-to-end integration, or how a general maneuvered cavalry across a flank. Millions of spectators consume these narratives with near-religious devotion, convinced that because human nature endures, one can extract operational rules from past footprints through analogy, project them onto current challenges, and engineer an equivalent triumph. This mindset presumes that exceptional achievement follows a paved rail, requiring only a clear optic on historical footprints to bypass the fog of genuine exploration.
 
-然而，必须辨明的是，许多卓越行动者确实酷爱研读历史与人物传记，这种借鉴与对照的效用是显著的。在真实世界中搏杀的创造者，阅读历史从来不是为了寻找操作手册，而是将先人的试错轨迹当作一面高维的校验之镜：用来校准自身的认知传感器，认清人性在重压下的不变反应，识别组织耗散与因果摩擦的边界，从而在遭遇险境时获得参照。旁观者犯下的认知倒错，在于误将这种事后的“校验支架”当成了“致胜因果”；看到成功者书架上摆满传记，便以为阅读传记和抄袭类比就是成功的源头。这恰如看见冠军冲过终点线时穿着某双跑鞋，便断言正是这双跑鞋创造了奔跑的爆发力。
+然而，必须辨明的是，许多卓越行动者确实酷爱研读历史与人物传记，这种借鉴与对照的效用是显著的。在真实世界中搏杀的创造者，阅读历史从来不是为了寻找操作手册，而是将先人的试错轨迹当作一面高维的校验之镜：用来校准自身的认知传感器，认清人性在重压下的不变反应，识别组织耗散与因果摩擦的边界，从而在遭遇险境时获得参照。旁观者犯下的认知倒错，在于误将这种事后的“校验支架”当成了“致胜因果”；看到成功者书架上摆满传记，便以为阅读传记和抄袭类比就是成功的源头。这恰如看见冠军冲过终点线时穿着某双跑鞋，便断言正是这双跑鞋创造了奔跑的爆发力。这种深层分野的关键，正在于心智是否牢牢扎根在第一人称因果原点：扎根于原点的心智深知生成新因果的杠杆永远在自身当下的决断之中，历史只是外在的标尺；若因果原点发生漂移，历史便会反客为主，沦为囚禁效仿者的教条方程式。
 
-Crucially, exceptional practitioners genuinely voraciously read history and biographies; the utility of historical reference and calibration is undeniable. Yet for creators actively wrestling with real-world friction, historical reading is never an operational manual. Instead, they use past trajectories as a high-dimensional mirror for calibration: to tune their perceptual sensors, recognize recurrent psychological blind spots under stress, and map the invariants of organizational decay and system friction. The spectator commits a profound causal inversion by mistaking this retrospective calibration scaffolding for generative causality itself. Observing that accomplished founders keep libraries of history, the imitator assumes that reading biographies and applying historical analogies generated their triumph, much like observing a champion cross the finish line in a specific shoe and concluding the footwear authored the stride.
+Crucially, exceptional practitioners genuinely voraciously read history and biographies; the utility of historical reference and calibration is undeniable. Yet for creators actively wrestling with real-world friction, historical reading is never an operational manual. Instead, they use past trajectories as a high-dimensional mirror for calibration: to tune their perceptual sensors, recognize recurrent psychological blind spots under stress, and map the invariants of organizational decay and system friction. The spectator commits a profound causal inversion by mistaking this retrospective calibration scaffolding for generative causality itself. Observing that accomplished founders keep libraries of history, the imitator assumes that reading biographies and applying historical analogies generated their triumph, much like observing a champion cross the finish line in a specific shoe and concluding the footwear authored the stride. This divergence hinges on whether the mind remains firmly rooted in the first-person causal origin: a mind anchored at this origin recognizes that the generative lever of causality resides within its own immediate choices, with history serving merely as an external gauge; once that origin shifts outward, historical traces usurp agency, trapping the emulator within rigid dogma.
 
 当效仿者试图通过类比与经验法则来指导行动时，他们不可避免地跌入了痕迹的死角。类比在逻辑上只能建立在“已被命名的已知坐标”之间；它要求目标系统与源系统在结构上具有可比性，这意味着进入类比视野的所有要素，都已经是既有现实中被登记在册的存量信息。一旦某种商业模式或战略要素能够被清晰类比，它就已经变成了全市场都能看见的显性约束，成千上万的资本与人力会同时涌向这个坐标，将预期的信息收益迅速抹平。依靠类比去寻找未来的突破，就如同在明亮的路灯下寻找丢失在暗处的钥匙，无论逻辑推演多么自洽，也无法触及真正的生发点。正如我们在[未历摩擦的心智与借来的全能](../the-unfrictioned-mind-and-borrowed-omnipotence/)中所揭示的那样，未曾历经第一人称试错摩擦的心智，无论借用多么高明的历史模式，一旦面对真实的未知扰动，其构建的繁荣泡沫都会在瞬间脆断。
 
@@ -27,7 +27,7 @@ graph TD
         HistoricalTraces["历史与传记痕迹<br>已被折叠的既往因果脚印"]
         
         subgraph S_Mind["活体心智（第一人称践行者）"]
-            FrictionActor["入局行动者<br>承受微观试错摩擦"]
+            FrictionActor["扎根第一人称因果原点<br>以身入局承受试错摩擦"]
             SensorCalibration["传感器校验与边界勘测<br>识别人性不变约束与系统盲区"]
             FirstPersonAction["察觉未显之机并注入新变量"]
         end
@@ -68,7 +68,7 @@ graph TD
         HistoricalTraces_EN["Historical & Biographic Traces<br>Folded Footprints of Past Causality"]
         
         subgraph S_Mind_EN["Living Mind (First-Person Builder)"]
-            FrictionActor_EN["Arena Practitioner<br>Absorbing Micro-Friction Directly"]
+            FrictionActor_EN["Rooted in First-Person Origin<br>Absorbing Friction in the Arena"]
             SensorCalibration_EN["Sensor Calibration & Boundary Survey<br>Mapping Invariants & System Blind Spots"]
             FirstPersonAction_EN["Perceiving Latency & Injecting Variables"]
         end
@@ -295,3 +295,7 @@ This theoretical evasion mirrors foundational debates in modern physics. In [The
 走出看客的席位，意味着从对事后痕迹的崇拜中醒来。历史长卷与创始人传记确实是不可多得的清醒剂，但它们的作用仅仅是在行动者拔足狂奔时，提供一面辨识悬崖与泥潭的冷眼之镜。没有任何书页能替你承担未知的重量，没有任何类比能赋予你真正的权力。价值从来不是你从外部世界攫取并锁进抽屉的战利品，而是你在日复一日的审视、践行、承担后效与动态迭代中锻造出的生命本能；权力也不是你在他人搭建的舞台上争抢到的那个显赫坐席，而是你在无声的黑夜中，敢于向未知的系统注入一个唯有你自己愿意为其买单的隐性自由变量。在不可分割的第一人称当下，唯有以身入局的摩擦，才是因果展开的唯一锚点。
 
 To abandon the spectator's gallery requires awakening from the idolatry of frozen footprints. The annals of history and founders' biographies remain invaluable instruments of clarity, but only as reflective mirrors revealing cliffs and quagmires while one is already in full stride. No page can bear the gravity of the unknown on your behalf, and no analogy can bestow authentic power. Value is never a trophy plundered from without and locked inside a vault; it is the living instinct forged through discerning the unseen, executing with conviction, shouldering consequences, and iterating relentlessly. Power is not a decorated chair contested on someone else's stage, but the sovereign courage to inject an invisible free variable into the dark, accepting total personal responsibility for its wake. In the indivisible immediate present, the friction of sovereign participation remains the sole anchor through which causality unfolds.
+
+归结而言，所有这一切——能否将历史作为校验之镜而非教条枷锁、能否将价值视为动态迭代而非静态占有、能否将权力归于注入变量而非争夺席位——均取决于行动者是否牢牢扎根在第一人称因果原点。一旦心智离开这个原点，将[因果权让渡](../the-allocation-of-causal-power-in-validation/)给客观化的第三人称法则，一切对历史、策略与权力的研磨都会迅速退化为无能的看客模仿；唯有始终守住自身在当下发起行动与认领后果的因果支点，生命心智才能在复杂的物理世界中，持续激发出未曾被任何方程式预设的真实跃迁。
+
+Ultimately, all of this—whether one treats history as a calibration mirror rather than a dogmatic shackle, conceives of value as dynamic iteration rather than static stock, and roots power in injecting variables rather than occupying seats—hinges on whether the mind remains firmly rooted in the first-person causal origin. The moment consciousness vacates this origin and [surrenders causal agency](../the-allocation-of-causal-power-in-validation/) to third-person formulations, every pursuit of history, strategy, and authority rapidly degenerates into powerless mimicry. Only by anchoring oneself at the primary pivot of initiating action and shouldering its full wake can a living mind continually catalyze authentic transformations unanticipated by any existing equation.
