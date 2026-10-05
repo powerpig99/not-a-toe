@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-05T04:51:50.835Z",
+    "generated_at": "2026-10-05T05:35:09.245Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -229,7 +229,7 @@
       "content/posts/the-flywheel-of-the-mind.md": "e177c5cfe15a",
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "f6299229ed66",
-      "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "58fa56cc295b",
+      "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "04cdf86568f1",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "153fe57f4a67",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "a459e322881c",
@@ -259,7 +259,8 @@
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2413ca14ec54",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "08233385869e",
-      "content/posts/the-irreducible-observer.md": "c1f63378d4bc",
+      "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "44e557ee212c",
+      "content/posts/the-irreducible-observer.md": "18a0eeafa3f9",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "d8ad12abb11d",
@@ -378,9 +379,9 @@
       "content/book/causality.md": "2a318a0df024",
       "content/book/consciousness.md": "f4981dc6f243",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "f9f4f52ae2b7",
+      "content/book/index-of-premises.md": "a0304c449b7a",
       "content/book/intelligence.md": "8c2134c318f8",
-      "content/book/knowledge-and-learning.md": "79909cd5bb33",
+      "content/book/knowledge-and-learning.md": "f1db5bdf82c9",
       "content/book/life-and-statistics.md": "158742fb4b72",
       "content/book/mathematics.md": "226cf5ec0ee0",
       "content/book/meaning-and-transcendence.md": "39f52073de83",
@@ -393,16 +394,16 @@
       "content/book/tools-and-progress.md": "44868f9684a3"
     },
     "stats": {
-      "posts": 367,
-      "edges": 3831,
-      "unique_directed": 3314,
+      "posts": 368,
+      "edges": 3849,
+      "unique_directed": 3323,
       "missing_targets": 0,
-      "one_way": 910,
+      "one_way": 915,
       "isolated": 40,
-      "posts_with_outbound": 302,
+      "posts_with_outbound": 303,
       "book_pages": 16,
-      "book_edges": 892,
-      "posts_reached_by_book": 367
+      "book_edges": 894,
+      "posts_reached_by_book": 368
     }
   },
   "hubs_in": [
@@ -3097,7 +3098,7 @@
       "path": "content/posts/not-a-theory-of-everything.md",
       "title": "Not a Theory of Everything",
       "hash": "d9a81b9cab24",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 29,
       "links_out": [
         "not-a-toe-rewrite",
@@ -4545,7 +4546,7 @@
       "path": "content/posts/the-asymmetry-of-understanding.md",
       "title": "理解的非对称性 / The Asymmetry of Understanding",
       "hash": "758372a41147",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 1,
       "links_out": [
         "the-shadow-and-the-infinite"
@@ -5381,10 +5382,11 @@
       "slug": "the-free-variable-and-the-retrospective-illusion-of-power",
       "path": "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md",
       "title": "隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power",
-      "hash": "58fa56cc295b",
-      "in_degree": 2,
-      "out_degree": 8,
+      "hash": "e69b811fc985",
+      "in_degree": 3,
+      "out_degree": 9,
       "links_out": [
+        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
         "the-discount-on-agency",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
@@ -5421,7 +5423,7 @@
       "path": "content/posts/the-functionalism-no-functionalist-can-hold.md",
       "title": "无人能持有的功能主义 / The Functionalism No Functionalist Can Hold",
       "hash": "153fe57f4a67",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "the-freedom-of-will-to-deny-itself",
@@ -5839,7 +5841,7 @@
       "path": "content/posts/the-inversion-of-reading-and-the-order-of-inference.md",
       "title": "阅读的倒错与推断的次序 / The Inversion of Reading and the Order of Inference",
       "hash": "1061f2c8aca4",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 3,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -5913,14 +5915,33 @@
       ]
     },
     {
+      "id": "post:the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "kind": "post",
+      "slug": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "path": "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md",
+      "title": "观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission",
+      "hash": "44e557ee212c",
+      "in_degree": 2,
+      "out_degree": 7,
+      "links_out": [
+        "the-free-variable-and-the-retrospective-illusion-of-power",
+        "the-irreducible-observer",
+        "the-functionalism-no-functionalist-can-hold",
+        "the-asymmetry-of-understanding",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "not-a-theory-of-everything",
+        "the-inversion-of-reading-and-the-order-of-inference"
+      ]
+    },
+    {
       "id": "post:the-irreducible-observer",
       "kind": "post",
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "c1f63378d4bc",
-      "in_degree": 8,
-      "out_degree": 13,
+      "hash": "18a0eeafa3f9",
+      "in_degree": 9,
+      "out_degree": 14,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -5932,6 +5953,7 @@
         "the-boundary-crossing-of-choice",
         "the-scaffolding-we-forget",
         "openness-is-consistency",
+        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "the-ledger-of-the-unencountered",
         "the-category-error-of-better",
         "silicon-oracles-and-the-asymmetry-of-consequence"
@@ -7403,7 +7425,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "15b2e9b8b58b",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 6,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -22682,9 +22704,21 @@
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "观察者的隐身与无损传递的妄念"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
       "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "rel": "points_to",
       "label": "未历摩擦的心智与借来的全能"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "the invisible observer and the delusion of lossless transmission"
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -24133,6 +24167,90 @@
       "label": "No Genius Can Solve the Knowledge Problem"
     },
     {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "隐性自由变量与权力的事后幻相"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "the invisible free variable and the retrospective illusion of power"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "irreducible observer"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "无人能持有的功能主义"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "the functionalism no functionalist can hold"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
+      "label": "理解的非对称性"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
+      "label": "the asymmetry of understanding"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "the two-sided nature of sovereign choice and the objectification of observation"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-inversion-of-reading-and-the-order-of-inference",
+      "rel": "points_to",
+      "label": "阅读的倒错与推断的次序"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-inversion-of-reading-and-the-order-of-inference",
+      "rel": "points_to",
+      "label": "the inversion of reading and the order of inference"
+    },
+    {
       "from": "the-irreducible-observer",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
@@ -24248,6 +24366,12 @@
     },
     {
       "from": "the-irreducible-observer",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "观察者的隐身与无损传递的妄念"
+    },
+    {
+      "from": "the-irreducible-observer",
       "to": "the-ledger-of-the-unencountered",
       "rel": "points_to",
       "label": "未被遭遇之物的账本"
@@ -24269,6 +24393,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "openness-is-consistency"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "the invisible observer and the delusion of lossless transmission"
     },
     {
       "from": "the-irreducible-observer",
@@ -31290,8 +31420,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "f9f4f52ae2b7",
-        "out_degree": 367
+        "hash": "a0304c449b7a",
+        "out_degree": 368
       },
       {
         "id": "book:intelligence",
@@ -31308,8 +31438,8 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "79909cd5bb33",
-        "out_degree": 28
+        "hash": "f1db5bdf82c9",
+        "out_degree": 29
       },
       {
         "id": "book:life-and-statistics",
@@ -34843,6 +34973,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "rel": "collects",
+        "label": "观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
         "rel": "collects",
         "label": "前台的寓言与缺席的因果倒置 / The Receptionist Parable and the Causal Inversion of Absence"
@@ -35524,6 +35660,12 @@
         "to": "the-inversion-of-reading-and-the-order-of-inference",
         "rel": "collects",
         "label": "阅读的倒错与推断的次序 / The Inversion of Reading and the Order of Inference"
+      },
+      {
+        "from": "book:knowledge-and-learning",
+        "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "rel": "collects",
+        "label": "观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission"
       },
       {
         "from": "book:life-and-statistics",
