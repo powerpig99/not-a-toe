@@ -40,3 +40,4 @@ These essays examine academic credentialism, the true advisory scope of expertis
 - [理解的非对称性 / The Asymmetry of Understanding](../../posts/the-asymmetry-of-understanding/)
 - [教育与科学的倒置 / The Inversion of Education and Science](../../posts/the-reversal-of-education-and-science/)
 - [阅读的倒错与推断的次序 / The Inversion of Reading and the Order of Inference](../../posts/the-inversion-of-reading-and-the-order-of-inference/)
+- [观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission](../../posts/the-invisible-observer-and-the-delusion-of-lossless-transmission/)

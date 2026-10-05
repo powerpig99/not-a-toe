@@ -4170,6 +4170,15 @@ Presumes an external divine perspective sees and directs total reality; helpful 
 
 → [上帝的起源与“我们”的降维 / The Origin of God and the Flattening of "We"](../../posts/the-origin-of-god-and-the-flattening-of-we/)
 
+### 跨心智无损传递假定 / The Premise of Lossless Cross-Mind Transmission
+`哲学 / Philosophical`
+
+该假定预设观察记录能脱离具体的具身观察者、在不同心智间实现无损复刻；抹杀观察者抽空了理论赖以立足的因果原点，但在工程化标准协议与低维信息传递中仍是高效率的协作简化。
+
+This premise assumes observational records can be replicated losslessly across distinct minds detached from embodied observers; erasing the observer empties the causal origin upon which theory rests, yet it remains an efficient collaborative heuristic for standardized protocols and low-dimensional data transmission.
+
+→ [观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission](../../posts/the-invisible-observer-and-the-delusion-of-lossless-transmission/)
+
 ### 前台寓言的因果倒置 / The Receptionist Parable Inversion
 `成功学 / Self-Help`
 
