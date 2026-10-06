@@ -532,6 +532,15 @@ Mechanistic interpretability treats finding activation vectors as locating consc
 
 → [The Real Lesson from the Consciousness Vector Paper](../../posts/the-real-lesson-from-the-consciousness-vector-paper/)
 
+### 高级苦假说 / Advanced Pain Hypothesis
+`成功学 / Self-Help`
+
+将少数人因发现认知净收益而自发持续的行动事后重述为对高级痛苦的特殊耐受天赋；遗漏了单向受苦在神经与代谢上的不可持续性，在作为心理免责与放弃借口时保持心理防御功能。
+
+Restates sustained action driven by discovered cognitive surplus as a rare innate endowment for enduring higher-order pain; it ignores that uncompensated suffering is biologically and neurologically unsustainable, functioning solely as a defensive alibi for quitting.
+
+→ [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)
+
 ### 人工智能存在性风险 / AI Existential Risk (x-risk)
 `技术 / Technological`
 
@@ -998,7 +1007,16 @@ The theorem proves uniform algorithm parity over all mathematically possible fun
 
 Short-window normality reflects uneven signal-extraction capacity across minds before compounding; read as evidence of no real differences or intrinsic randomness, it hides what multiplication will magnify.
 
-→ [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [从“目的性”的评判，看认知系统的缺省状态与动态跃迁](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)
+→ [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [从“目的性”的评判，看认知系统的缺省状态与动态跃迁](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) · [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)
+
+### 观察性行为学 / Observational Behavioral Science
+`科学 / Scientific`
+
+将群体在事后沉淀的统计分布逆向设定为微观决策的准入门槛；遗漏了行为选择仅发生在第一人称对净收益与摩擦的具身体感之中，在描述人口学频次与精算规划时保持有效。
+
+Reverses retrospective population distributions into gatekeeping requirements for micro-decisions; it misses that action occurs solely within first-person reckoning of surplus over friction, remaining useful for demographic accounting and actuarial planning.
+
+→ [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)
 
 ### OntoAgent认知架构 / OntoAgent Cognitive Architecture
 `技术 / Technological`
