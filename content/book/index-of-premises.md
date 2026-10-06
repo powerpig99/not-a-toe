@@ -60,7 +60,7 @@ Clark treats cognitive boundaries as fluid organism-tool assemblies; fruitful fo
 
 Schopenhauer's art of not reading names the capacity to filter signal from noise; technologies multiply representations and expose differences in that capacity without creating it.
 
-→ [The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
+→ [The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
 
 ### 伯恩哈德·黎曼 / Bernhard Riemann
 `数学 / Mathematical`
@@ -394,6 +394,15 @@ Taleb formalizes convex payoffs under uncertainty; invaluable for risk engineeri
 Naval blends Advaita non-duality with modern leverage; persuasive for personal peace, his framing of separation as pathology denies the functional reality of boundaries.
 
 → [Separation Isn't the Disease](../../posts/naval-separation-analysis/) · [Not Predicting is Predicting without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
+
+### 尼古拉·尚福尔 / Nicolas Chamfort
+`哲学 / Philosophical`
+
+尚福尔以警句揭示幸福在外部不可得而在内部难寻的不对称性；准确指出了客体无法替代第一人称体认，却将寻觅语法的客体化分裂归因为实存之难。
+
+Chamfort captures the asymmetry that happiness cannot be found externally and remains difficult within; invaluable for exposing the failure of external objects, it mistakes the objectifying fracture of searching for an ontological friction.
+
+→ [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
 
 ### 皮埃尔-西蒙·拉普拉斯 / Pierre-Simon Laplace
 `科学 / Scientific`

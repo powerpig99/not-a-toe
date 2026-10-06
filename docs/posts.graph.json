@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-06T06:21:22.341Z",
+    "generated_at": "2026-10-06T07:11:57.783Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -245,6 +245,7 @@
       "content/posts/the-geometry-of-mind.md": "d987fcbaaeff",
       "content/posts/the-geometry-of-success.md": "c04490f6c595",
       "content/posts/the-geometry-of-the-cut.md": "608ef1152155",
+      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "f0f8bc723521",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "298e9d503fa5",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
@@ -263,8 +264,8 @@
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2413ca14ec54",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "08233385869e",
-      "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "d68a2155f5ff",
-      "content/posts/the-irreducible-observer.md": "18a0eeafa3f9",
+      "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "f6beb7b3f0c0",
+      "content/posts/the-irreducible-observer.md": "18f011f7ca1d",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "83dfa976cce0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "d8ad12abb11d",
@@ -381,9 +382,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "203dc63091d4",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "2a318a0df024",
-      "content/book/consciousness.md": "f4981dc6f243",
+      "content/book/consciousness.md": "fea3d7fcc04d",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "3de02eae08b9",
+      "content/book/index-of-premises.md": "210f07eb215d",
       "content/book/intelligence.md": "8c2134c318f8",
       "content/book/knowledge-and-learning.md": "f1db5bdf82c9",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -398,16 +399,16 @@
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 372,
-      "edges": 3903,
-      "unique_directed": 3351,
+      "posts": 373,
+      "edges": 3917,
+      "unique_directed": 3358,
       "missing_targets": 0,
-      "one_way": 929,
+      "one_way": 932,
       "isolated": 39,
-      "posts_with_outbound": 307,
+      "posts_with_outbound": 308,
       "book_pages": 16,
-      "book_edges": 908,
-      "posts_reached_by_book": 372
+      "book_edges": 911,
+      "posts_reached_by_book": 373
     }
   },
   "hubs_in": [
@@ -1044,7 +1045,7 @@
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
       "hash": "fcb4e64e9742",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 9,
       "links_out": [
         "dimensions-are-projections",
@@ -5677,13 +5678,30 @@
       "links_out": []
     },
     {
+      "id": "post:the-grammar-of-finding-and-the-fading-observer",
+      "kind": "post",
+      "slug": "the-grammar-of-finding-and-the-fading-observer",
+      "path": "content/posts/the-grammar-of-finding-and-the-fading-observer.md",
+      "title": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer",
+      "hash": "f0f8bc723521",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "the-irreducible-observer",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning"
+      ]
+    },
+    {
       "id": "post:the-hard-problem-of-consciousness-is-consistent-with-learning",
       "kind": "post",
       "slug": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "path": "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md",
       "title": "The Hard Problem of Consciousness Is Consistent with Our Ability to Learn",
       "hash": "2d6a327c9530",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 13,
       "links_out": [
         "openness-is-consistency",
@@ -5999,15 +6017,16 @@
       "slug": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "path": "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md",
       "title": "观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission",
-      "hash": "d68a2155f5ff",
-      "in_degree": 3,
-      "out_degree": 7,
+      "hash": "f6beb7b3f0c0",
+      "in_degree": 4,
+      "out_degree": 8,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "the-irreducible-observer",
         "the-functionalism-no-functionalist-can-hold",
         "the-asymmetry-of-understanding",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-grammar-of-finding-and-the-fading-observer",
         "no-outside-scorekeeper",
         "the-inversion-of-reading-and-the-order-of-inference"
       ]
@@ -6018,9 +6037,9 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "18a0eeafa3f9",
-      "in_degree": 9,
-      "out_degree": 14,
+      "hash": "18f011f7ca1d",
+      "in_degree": 10,
+      "out_degree": 15,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -6033,6 +6052,7 @@
         "the-scaffolding-we-forget",
         "openness-is-consistency",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "the-grammar-of-finding-and-the-fading-observer",
         "the-ledger-of-the-unencountered",
         "the-category-error-of-better",
         "silicon-oracles-and-the-asymmetry-of-consequence"
@@ -7504,7 +7524,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "15b2e9b8b58b",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 6,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -23724,6 +23744,66 @@
       "label": "Isomorphism of Free Variables and A Priori Sovereignty"
     },
     {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "The Irreducible Observer"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "观察者的隐身与无损传递的妄念"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "因果不可还原与物理作为无处之境"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "意识的难问题与学习能力相容"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "Causality Is Irreducible; the Physical Is a View from Nowhere"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The Hard Problem of Consciousness Is Consistent with Our Ability to Learn"
+    },
+    {
       "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "to": "openness-is-consistency",
       "rel": "points_to",
@@ -24625,9 +24705,21 @@
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "寻觅的语法与淡出的观察者"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
       "label": "the two-sided nature of sovereign choice and the objectification of observation"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "The Grammar of Finding and the Fading Observer"
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
@@ -24775,6 +24867,12 @@
     },
     {
       "from": "the-irreducible-observer",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "寻觅的语法与淡出的观察者"
+    },
+    {
+      "from": "the-irreducible-observer",
       "to": "the-ledger-of-the-unencountered",
       "rel": "points_to",
       "label": "未被遭遇之物的账本"
@@ -24802,6 +24900,12 @@
       "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "rel": "points_to",
       "label": "the invisible observer and the delusion of lossless transmission"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "The Grammar of Finding and the Fading Observer"
     },
     {
       "from": "the-irreducible-observer",
@@ -31805,8 +31909,8 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "f4981dc6f243",
-        "out_degree": 33
+        "hash": "fea3d7fcc04d",
+        "out_degree": 34
       },
       {
         "id": "book:economics",
@@ -31823,8 +31927,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "3de02eae08b9",
-        "out_degree": 372
+        "hash": "210f07eb215d",
+        "out_degree": 373
       },
       {
         "id": "book:intelligence",
@@ -32321,6 +32425,12 @@
         "label": "无人能持有的功能主义 / The Functionalism No Functionalist Can Hold"
       },
       {
+        "from": "book:consciousness",
+        "to": "the-grammar-of-finding-and-the-fading-observer",
+        "rel": "collects",
+        "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
+      },
+      {
         "from": "book:economics",
         "to": "efficiency-without-differentiation",
         "rel": "collects",
@@ -32523,6 +32633,12 @@
         "to": "the-closed-loop-of-representation",
         "rel": "collects",
         "label": "The Closed Loop of Representation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-grammar-of-finding-and-the-fading-observer",
+        "rel": "collects",
+        "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
       },
       {
         "from": "book:index-of-premises",
@@ -32793,6 +32909,12 @@
         "to": "not-predicting-is-predicting-without-awareness",
         "rel": "collects",
         "label": "Not Predicting is Predicting without Awareness"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-grammar-of-finding-and-the-fading-observer",
+        "rel": "collects",
+        "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
       },
       {
         "from": "book:index-of-premises",
