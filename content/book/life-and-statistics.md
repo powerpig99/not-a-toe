@@ -21,3 +21,4 @@ The essays here examine Gaussian limits, power-law dynamics, and the silencing o
 - [从“目的性”的评判，看认知系统的缺省状态与动态跃迁](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)
 - [Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control](../../posts/guidance-is-not-ownership/)
 - [规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop](../../posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)
+- [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-05T15:35:07.138Z",
+    "generated_at": "2026-10-06T06:21:22.341Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -76,7 +76,7 @@
       "content/posts/externalized-virtue-becomes-its-opposite.md": "eec7d7c6b7d4",
       "content/posts/failure-as-information.md": "c19cdb30c5a5",
       "content/posts/fate-loves-irony-refined.md": "df6e1ca34057",
-      "content/posts/felt-resistance-and-the-speed-differential.md": "7978be4d8f08",
+      "content/posts/felt-resistance-and-the-speed-differential.md": "5aa2816b2734",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
       "content/posts/fixed-by-nothing.md": "133578ce03a8",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
@@ -205,9 +205,10 @@
       "content/posts/the-causal-inversion-of-partnership.md": "91c09f2f860e",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "dc4319ee94bb",
+      "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "265ed63bfeb4",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "82ca9c5ee6cb",
-      "content/posts/the-closed-n-and-the-open-reality.md": "2feb35ce6dbf",
+      "content/posts/the-closed-n-and-the-open-reality.md": "cdca9be1b6fb",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "d71141c2c581",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "1471d892c863",
@@ -382,10 +383,10 @@
       "content/book/causality.md": "2a318a0df024",
       "content/book/consciousness.md": "f4981dc6f243",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "843677346d6e",
+      "content/book/index-of-premises.md": "3de02eae08b9",
       "content/book/intelligence.md": "8c2134c318f8",
       "content/book/knowledge-and-learning.md": "f1db5bdf82c9",
-      "content/book/life-and-statistics.md": "158742fb4b72",
+      "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "226cf5ec0ee0",
       "content/book/meaning-and-transcendence.md": "39f52073de83",
       "content/book/method.md": "e598fadd6588",
@@ -397,16 +398,16 @@
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 371,
-      "edges": 3891,
-      "unique_directed": 3345,
+      "posts": 372,
+      "edges": 3903,
+      "unique_directed": 3351,
       "missing_targets": 0,
-      "one_way": 925,
-      "isolated": 40,
-      "posts_with_outbound": 306,
+      "one_way": 929,
+      "isolated": 39,
+      "posts_with_outbound": 307,
       "book_pages": 16,
-      "book_edges": 904,
-      "posts_reached_by_book": 371
+      "book_edges": 908,
+      "posts_reached_by_book": 372
     }
   },
   "hubs_in": [
@@ -609,7 +610,6 @@
     "the-loop-accelerates",
     "the-loop-that-cant-see-itself",
     "the-maintenance-paradox",
-    "the-power-law-of-surrendered-agency",
     "the-strategy-that-wasnt",
     "the-tightening-loop",
     "the-velocity-of-visibility",
@@ -2043,15 +2043,16 @@
       "slug": "felt-resistance-and-the-speed-differential",
       "path": "content/posts/felt-resistance-and-the-speed-differential.md",
       "title": "阻力体感与速率差 / Felt Resistance and the Speed Differential",
-      "hash": "7978be4d8f08",
-      "in_degree": 3,
-      "out_degree": 5,
+      "hash": "5aa2816b2734",
+      "in_degree": 4,
+      "out_degree": 6,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
         "deceleration-is-the-drag-felt-when-accelerating",
         "symptom-and-cause-in-the-narratives-of-progress",
         "individual-choices-as-the-only-causal-levers",
-        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth"
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "the-causal-overstep-of-observation-and-the-first-person-surplus"
       ]
     },
     {
@@ -4903,6 +4904,22 @@
       ]
     },
     {
+      "id": "post:the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "kind": "post",
+      "slug": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "path": "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md",
+      "title": "观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus",
+      "hash": "265ed63bfeb4",
+      "in_degree": 2,
+      "out_degree": 4,
+      "links_out": [
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "felt-resistance-and-the-speed-differential",
+        "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+        "the-power-law-of-surrendered-agency"
+      ]
+    },
+    {
       "id": "post:the-climate-problem-registers-only-as-perception",
       "kind": "post",
       "slug": "the-climate-problem-registers-only-as-perception",
@@ -4953,9 +4970,9 @@
       "slug": "the-closed-n-and-the-open-reality",
       "path": "content/posts/the-closed-n-and-the-open-reality.md",
       "title": "闭合的N与开放的现实 / The Closed N and the Open Reality",
-      "hash": "2feb35ce6dbf",
+      "hash": "cdca9be1b6fb",
       "in_degree": 2,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-category-error-of-better",
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -4963,7 +4980,8 @@
         "the-boundary-of-the-frame",
         "the-extendable-horizon",
         "no-outside-scorekeeper",
-        "felt-resistance-and-the-speed-differential"
+        "felt-resistance-and-the-speed-differential",
+        "the-causal-overstep-of-observation-and-the-first-person-surplus"
       ]
     },
     {
@@ -6678,7 +6696,7 @@
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
       "hash": "0ec3483b7b85",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 0,
       "links_out": []
     },
@@ -7486,7 +7504,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "15b2e9b8b58b",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 6,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -8315,7 +8333,7 @@
       "path": "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md",
       "title": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择",
       "hash": "203dc63091d4",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 11,
       "links_out": [
         "the-scaffolding-that-keeps-growing",
@@ -12544,6 +12562,18 @@
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "rel": "points_to",
+      "label": "观察的因果僭越与第一人称的收益差"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "rel": "points_to",
+      "label": "The Causal Overstep of Observation and the First-Person Surplus"
     },
     {
       "from": "fidelity-not-optimality",
@@ -21150,6 +21180,54 @@
       "label": "Individual Choices as the Only Causal Levers"
     },
     {
+      "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "阻力体感与速率差"
+    },
+    {
+      "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "Felt Resistance and the Speed Differential"
+    },
+    {
+      "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "自尊的刚性外壳与隐性外部归因"
+    },
+    {
+      "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "Rigid Shell of Self-Esteem and Latent External Attribution"
+    },
+    {
+      "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "让渡主权的幂律法则"
+    },
+    {
+      "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "The Power-Law of Surrendered Agency"
+    },
+    {
       "from": "the-climate-problem-registers-only-as-perception",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
@@ -21349,6 +21427,12 @@
     },
     {
       "from": "the-closed-n-and-the-open-reality",
+      "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "rel": "points_to",
+      "label": "观察的因果僭越与第一人称的收益差"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
       "to": "no-outside-scorekeeper",
       "rel": "points_to",
       "label": "No Outside Scorekeeper"
@@ -21358,6 +21442,12 @@
       "to": "felt-resistance-and-the-speed-differential",
       "rel": "points_to",
       "label": "Felt Resistance and the Speed Differential"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "rel": "points_to",
+      "label": "The Causal Overstep of Observation and the First-Person Surplus"
     },
     {
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
@@ -31733,8 +31823,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "843677346d6e",
-        "out_degree": 371
+        "hash": "3de02eae08b9",
+        "out_degree": 372
       },
       {
         "id": "book:intelligence",
@@ -31760,8 +31850,8 @@
         "slug": "life-and-statistics",
         "path": "content/book/life-and-statistics.md",
         "title": "生命演化与统计表象 / Living Evolution and Statistical Shadows",
-        "hash": "158742fb4b72",
-        "out_degree": 9
+        "hash": "1862c4e7034f",
+        "out_degree": 10
       },
       {
         "id": "book:mathematics",
@@ -32802,6 +32892,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+        "rel": "collects",
+        "label": "观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-collapsed-debate",
         "rel": "collects",
         "label": "The Collapsed Debate"
@@ -33135,6 +33231,18 @@
         "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
         "rel": "collects",
         "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+        "rel": "collects",
+        "label": "观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+        "rel": "collects",
+        "label": "观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus"
       },
       {
         "from": "book:index-of-premises",
@@ -36075,6 +36183,12 @@
         "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "rel": "collects",
         "label": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop"
+      },
+      {
+        "from": "book:life-and-statistics",
+        "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+        "rel": "collects",
+        "label": "观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus"
       },
       {
         "from": "book:mathematics",
