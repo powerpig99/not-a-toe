@@ -37,11 +37,11 @@ graph TD
     style LowDModel fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
 ```
 
-请注意，正如我们在[潜在无限与数学思维的暂态闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)中所论证的，这些无限不是数学上已经完成的“终极全集”，而是向着深邃未知永恒敞开的“潜在无限”。
+请注意，正如我们在[潜在无限与数学思维的暂态闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)中所论证的，这些无限不是数学上已经完成的“终极全集”，而是向着深邃未知永恒敞开的“潜在无限”。[理解的非对称性](../the-asymmetry-of-understanding/)从另一面触及同一条轴线：走向无限可能，还是陷入无限误解。
 
 ---
 
-When we examine the condition of human existence, we immediately encounter three intertwined layers of potential infinity:
+When we examine the condition of human existence, we immediately encounter three intertwined layers of potential infinity: [The Asymmetry of Understanding](../the-asymmetry-of-understanding/) meets the same axis from another face: Infinite Possibility vs. Infinite Misunderstanding.
 
 The first infinity is the **deep similarity of our perceptual substrate**. Every living human inherits practically identical sensory and biological hardware: retinas sensitive to the exact same narrow band of electromagnetic waves, cochleas converting air oscillations into identical neural impulses, and billions of cortex neurons pulsing to shared biochemical rhythms. For all practical human purposes, this sensory substrate is infinitely rich. Because we share this vast evolutionary foundation, we can gaze at the same moon, weep to the same chord, feel the same cold, and break bread together. It forms the biological ground of empathy, language, and shared culture.
 
@@ -104,11 +104,11 @@ graph LR
 * **在热力学中**：一立方米的气体包含数以十万亿亿计的气体分子，每一个分子都在量子与电磁尺度经历着无法追踪的高维微观碰撞。然而，当物理学家将这庞大无匹的高维运动投影到仅仅由三个宏观统计平均量构成的三维空间——压强 P、体积 V、温度 T 时，所有的微观涨落都在大数定律下互相抵消。瞬间，理想气体状态方程 PV = nRT 浮现了出来！物理学家激动地宣布找到了控制气体的永恒铁律，却遗忘了这一定律仅仅是剧烈降维后的平滑统计阴影。
 * **在经济学与社会学中**：八十亿人类拥有接近于无限的内心世界、各异的情感羁绊与不可预测的创造性裁决。但当统计学家将这八十亿个高维生命体投影到单一维度的数值上——价格（如每斤三元）、信用评分（如七百五十分）、或者一张选票（零与一）时，个体之间的丰富差异在投影轴上被无情压扁。人群展现出了稳定的供给需求曲线与周期性行为。学者们欢呼人类行为是可以通过数学公式精确预测的，误将降维造成的平滑假象当成了人性的本质。
 
-确定性不是大自然的内在骨架；**确定性是无限系统在遭遇低维测量时，被强行抹去高阶自由度后所残留的低维投影痕迹。**
+确定性不是大自然的内在骨架；**确定性是无限系统在遭遇低维测量时，被强行抹去高阶自由度后所残留的低维投影痕迹。**[教育与科学的倒置](../the-reversal-of-education-and-science/)在另一种负载下描摹了同一几何：从理解实在的无限，到有限博弈的规训。
 
 ---
 
-Given this vast threefold infinity, a startling scientific paradox emerges: **why do physics and sociology continually discover clean, elegant, and apparently rigid "deterministic laws"?**
+Given this vast threefold infinity, a startling scientific paradox emerges: **why do physics and sociology continually discover clean, elegant, and apparently rigid "deterministic laws"?** [The Inversion of Education and Science](../the-reversal-of-education-and-science/) traces this geometry under a different load: From Grasping Reality to the Zero-Sum Arena.
 
 The answer lies in the mathematics of dimensional projection: **determinism is not an ontological law of the deep cosmos; determinism is the mathematical signature that inevitably appears whenever an infinite-dimensional reality is projected onto a low-dimensional space.**
 
@@ -193,11 +193,11 @@ graph TB
 
 **这就是我们如何亲手将丰沛辽阔的多维生存空间，异化为逼仄而惨烈的低维绞杀战场。** 在无限的正交空间中，相撞的概率原本测度为零；但在被人为挤压的低维走廊里，每一次呼吸都成了互不相容的抢夺。
 
-一切意识形态的仇恨、阶层内卷的焦虑与族群对抗的烈火，其本质都不是物理资源的匮乏，而是心智**被囚禁在低维投影幕上所遭受的维度窒息**。
+一切意识形态的仇恨、阶层内卷的焦虑与族群对抗的烈火，其本质都不是物理资源的匮乏，而是心智**被囚禁在低维投影幕上所遭受的维度窒息**。同一道切分也出现在[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)之中：两重维降与形式模型的反客为主。
 
 ---
 
-Understanding this dimensional collapse provides a geometric master key to deciphering human conflict, rivalry, and zero-sum warfare:
+Understanding this dimensional collapse provides a geometric master key to deciphering human conflict, rivalry, and zero-sum warfare: The same cut appears in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/): Two-Fold Dimensional Collapse and the Reification of Formal Models.
 
 > **In the high-dimensional reality of the physical and biological cosmos, there are boundless orthogonal directions capable of sustaining infinite unique individuals without mutual interference. Yet the moment human existence is compressed onto low-dimensional scalar metrics, artificial congestion and catastrophic collision become mathematically inevitable.**
 
@@ -280,11 +280,11 @@ graph LR
 * **官僚与指标狂人**：把教育的灵性简化为一个升学率，把医疗的温度简化为一个周转率，把复杂城市的生机简化为一个排他性的整洁度指标。当活生生的人性伸出枝桠、超出了这些僵死表格的边界时，他们便挥舞剪刀，将鲜活的生命强行修剪成符合二维表格的残疾模具。
 * **防御性的小我**：许多人在年轻时偶然凝固下了一个关于自己的低维画像——一个“成功的标签”、“被伤害的受害者身份”、或者“永远正确的权威人设”。在接下来的漫长人生里，他们放弃了向着无限现实继续探索的可能，转而将全部的生命能量，用于抵御任何可能蹭破这张二维画像的细微风吹草动。
 
-两张平面的影子在石壁上重叠了，影子不会流血，但投射出这些影子的人类却因此拔刀相向。这就是低维执迷给文明带来的最沉痛的诅咒。
+两张平面的影子在石壁上重叠了，影子不会流血，但投射出这些影子的人类却因此拔刀相向。这就是低维执迷给文明带来的最沉痛的诅咒。[四维长鹿的幻象与当下的模型](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)从另一面触及同一条轴线：叠合画帧为长虫并未窥见高维，不过是将当下投影误认为了永恒。
 
 ---
 
-Twenty-four hundred years ago, Plato presented his renowned Allegory of the Cave in *The Republic*: chained prisoners, unable to turn their heads, mistook the flickering shadows of puppets cast by firelight onto stone walls for the true universe.
+Twenty-four hundred years ago, Plato presented his renowned Allegory of the Cave in *The Republic*: chained prisoners, unable to turn their heads, mistook the flickering shadows of puppets cast by firelight onto stone walls for the true universe. [The Myth of the Four-Dimensional Deer and the Present Model](../the-myth-of-the-four-dimensional-deer-and-the-present-model/) meets the same axis from another face: Stacking frames into a worldline reveals no higher dimension, merely mistaking a present projection for an eternal object.
 
 Yet the tragedy modern civilization enacts today is far more absurd than Plato imagined. Humanity does not merely mistake flat projections for reality; deep within the cave, we have launched an endless series of catastrophic **shadow wars**:
 
@@ -350,11 +350,11 @@ graph TD
 
 ### 3. 同侪敬畏：直面他人的深渊
 在面对任何一个活生生的人时，提醒自己放下脑海中那张由标签拼凑而成的扁平肖像。
-对方不仅与你共享着数亿年沉淀下来的深邃感知硬件，更携带着一个由数十年独特记忆编织而成的平行宇宙。他的一颦一笑、一次不可理喻的发怒、一个看似不可思议的抉择，背后都有着一个庞大、高维的因果网络在支撑。你无法用一句话、一个立场或一种诊断充分定义他。当你以对待一个无穷世界的敬畏去对待另一个生命时，低维的摩擦自然消散，深度的同频与共鸣才有可能降临。
+对方不仅与你共享着数亿年沉淀下来的深邃感知硬件，更携带着一个由数十年独特记忆编织而成的平行宇宙。他的一颦一笑、一次不可理喻的发怒、一个看似不可思议的抉择，背后都有着一个庞大、高维的因果网络在支撑。你无法用一句话、一个立场或一种诊断充分定义他。当你以对待一个无穷世界的敬畏去对待另一个生命时，低维的摩擦自然消散，深度的同频与共鸣才有可能降临。[隐秘的上帝之眼](../the-invisible-gods-eye/)从另一面触及同一条轴线：宏观大师的共同失忆与降维解法的必然破产。
 
 ---
 
-If the genesis of human conflict lies in low-dimensional fixation, then liberation cannot be won by fighting for supremacy inside the flattened trap. It requires stepping off the screen, turning around, and **walking ahead with infinity**.
+If the genesis of human conflict lies in low-dimensional fixation, then liberation cannot be won by fighting for supremacy inside the flattened trap. It requires stepping off the screen, turning around, and **walking ahead with infinity**. [The Invisible God's Eye](../the-invisible-gods-eye/) meets the same axis from another face: The Master Thinker's Amnesia and the Fatal Trap of Low-Dimensional Solutions.
 
 This demands three foundational ontological disciplines in perception, action, and human encounter:
 

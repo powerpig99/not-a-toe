@@ -12,7 +12,7 @@ We do not need a complete symbolic description of *f* to work with it. We need a
 
 ## Why Equivalent Programs Exist
 
-By the Church-Turing thesis — as close to a theorem as anything in computer science gets — any effectively computable function has an equivalent program in any Turing-complete language. So there exists at least one program *p* in vanilla C, in x86 assembly, in raw machine code, that realizes exactly the same *f* on all reachable inputs.
+By the Church-Turing thesis — as close to a theorem as anything in computer science gets — any effectively computable function has an equivalent program in any Turing-complete language. So there exists at least one program *p* in vanilla C, in x86 assembly, in raw machine code, that realizes exactly the same *f* on all reachable inputs. The same cut appears in [The Category Error of Better](../the-category-error-of-better/): Mistaking a model's scoring function for an objective property is engineering's persistent blind spot.
 
 This step is uncontroversial. It is why "if the app works, there is a vanilla-code path" is true.
 

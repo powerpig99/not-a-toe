@@ -4,7 +4,7 @@ Marking something as "AI generated" denies the very thing that made AI possible 
 
 ## The Label as Territorial Claim
 
-The tools that produce AI output are themselves products of continuous human process: human data, human engineering, human intent, all the way down. Stamping the output as "not authentic" requires drawing a line through a continuous process and declaring one side real and the other artificial. This is a projection collapse — forcing a continuous mechanism onto a binary axis it doesn't inhabit.
+The tools that produce AI output are themselves products of continuous human process: human data, human engineering, human intent, all the way down. Stamping the output as "not authentic" requires drawing a line through a continuous process and declaring one side real and the other artificial. This is a projection collapse — forcing a continuous mechanism onto a binary axis it doesn't inhabit. [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/) traces this geometry under a different load: Statistical completions lack the surface area to absorb real-world friction.
 
 Who draws the line? Someone positioning themselves above the process — claiming a vantage outside the projection. Who accepts it? Someone substituting the label for their own evaluation of what they're looking at. The label doesn't aid judgment. It replaces it. It says: you don't need to evaluate this on its own terms. The category has already been assigned.
 
@@ -54,6 +54,6 @@ The limitation isn't a deficiency to be engineered away. It's the structural fea
 
 ## Coda
 
-The difference in between — the phrase from the original seed — is not a bridge to be crossed or a gap to be closed. It's the space where everything that matters happens: judgment, discernment, the act of deciding what something means. Every attempt to collapse that space — whether by labeling, by optimizing, or by building a tool comprehensive enough to make transit unnecessary — substitutes the process with its representation.
+The difference in between — the phrase from the original seed — is not a bridge to be crossed or a gap to be closed. It's the space where everything that matters happens: judgment, discernment, the act of deciding what something means. Every attempt to collapse that space — whether by labeling, by optimizing, or by building a tool comprehensive enough to make transit unnecessary — substitutes the process with its representation. The same cut appears in [Not a Theory of Everything](../not-a-theory-of-everything/): Causality is irreducibly dual — effect distinct from cause, effect following cause — and everything else is what those two necessary conditions already entail.
 
 Observation that stays in being actualizes. Observation that leaves being to represent it creates a map that requires maintenance. The map will always try to eat the territory. The practice is noticing when it does — and the noticing is itself the gap doing its work.

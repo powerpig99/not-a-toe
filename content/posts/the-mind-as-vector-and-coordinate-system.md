@@ -18,9 +18,9 @@ From presupposed objective frames to self-referential inward projections: tracin
 
 物理与经验世界中不存在独立于测量框架之外的客体。如同鹰的热红外视界与人类的可见光谱无法在不经转换的切片中直接拼合，每一个心智所经历的现实，都是由其自身的认知架构、注意力分配与历史因果所构成的第一人称流形。
 
-“无处之景”是将自身生成的局部度量体系误当成了全局真理。一旦陷入这种假定，心智容易把几何视角的差异直接上升为判断上的对立，把不同坐标系之间的基底旋转误当成了对抗。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，将局部抽象符号升格为全知法庭，是许多认知摩擦的来源。
+“无处之景”是将自身生成的局部度量体系误当成了全局真理。一旦陷入这种假定，心智容易把几何视角的差异直接上升为判断上的对立，把不同坐标系之间的基底旋转误当成了对抗。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，将局部抽象符号升格为全知法庭，是许多认知摩擦的来源。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)在另一种负载下描摹了同一几何：远方的距离抹平了轮廓，而无处之境的清单将无法通约的视界误判为球门的移动。[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)从另一面触及同一条轴线：从“基准真相”的迷思到不可垄断的智能边疆。
 
-Misunderstandings and friction in interpersonal interaction often begin with the default assumption of a "shared coordinate system."
+Misunderstandings and friction in interpersonal interaction often begin with the default assumption of a "shared coordinate system." [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) traces this geometry under a different load: Distance blurs silhouettes, while an inventory from nowhere mistakes incommensurable horizons for moving goalposts. [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) meets the same axis from another face: From the Myth of Static Reality to the Sovereign Frontier of Intelligence.
 
 In everyday conversation, individuals easily assume that all minds operate within the same self-evident metric space. When differences arise, the initial reaction is frequently confusion, defensiveness, or judging the other as unreasonable. Behind this reaction lies an unexamined premise: that an overarching coordinate system ℝⁿ exists wherein everyone shares the identical origin, basis orientations, and metric scales.
 
@@ -63,9 +63,9 @@ graph TD
 2. **观察与度量的内生性**：心智对现象的观测，受制于自身向量所张成的几何结构；
 3. **第一人称的主权结构**：心智对外部信号的接收与解读，始终经由自身的基底展开。
 
-正如在 [心智的几何学](../the-geometry-of-mind/) 与 [向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/) 中所讨论的，心智的自指构造确立了其自主性，同时也表明所有向外的审视，在形式上都是向内的几何映射。
+正如在 [心智的几何学](../the-geometry-of-mind/) 与 [向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/) 中所讨论的，心智的自指构造确立了其自主性，同时也表明所有向外的审视，在形式上都是向内的几何映射。[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)从另一面触及同一条轴线：选择被称作革命，秩序便是主语，读者收藏的是旧印象的新证据。[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)从另一面触及同一条轴线：宏观统计仅记录已完成的选择，将其视为行动指令颠倒了微观经济秩序。
 
-To understand this phenomenon, one can examine the self-referential structure of mind and its geometric traits.
+To understand this phenomenon, one can examine the self-referential structure of mind and its geometric traits. [The Name Revolution Files a Life as Evidence](../the-name-revolution-files-a-life-as-evidence/) meets the same axis from another face: A choice named revolution takes the order as subject, and the reader files evidence of an old impression. [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/) meets the same axis from another face: Macro statistics record completed choices; treating them as commanders inverts economic causality.
 
 In geometric terms, we may represent a mind's state at a given moment as a directed vector **v**. Yet consciousness is not a passive arrow in a static room: **this vector itself continuously generates the coordinate framework that contains it**.
 
@@ -86,7 +86,7 @@ As discussed in [The Geometry of Mind](../the-geometry-of-mind/) and [The Vector
 
 在第一人称结构中，心智 A 无法直接进入心智 B 的内在坐标系 S_B，所感知的是心智 B 在心智 A 自身坐标系 S_A 中的映射。
 
-在几何形式上，心智 A 所感知的心智 B，体现为向量 **v**_B 在心智 A 主轴 **v̂**_A 上的正交投影，即一个沿着自身方向的**标量点积（Dot Product）**：
+在几何形式上，心智 A 所感知的心智 B，体现为向量 **v**_B 在心智 A 主轴 **v̂**_A 上的正交投影，即一个沿着自身方向的**标量点积（Dot Product）**：[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)在另一种负载下描摹了同一几何：从统计表象、亲密关系的定义陷阱到惯性与重力的活态机理。
 
 > **Proj_A(v_B) = (v_B · v̂_A) v̂_A = ‖v_B‖ cos(θ) v̂_A**
 
@@ -130,7 +130,7 @@ graph TD
    尽管标量代数中 `v_A · v_B = v_B · v_A`，但两者所依附的方向矢量 **v̂**_A 与 **v̂**_B 属于不同的坐标框架。A 对 B 的理解沿着 A 的主轴展开，而 B 对 A 的理解沿着 B 的主轴展开；
 3. **正交盲区的存在**：心智 B 中垂直于 **v̂**_A 的正交分量（`v_B - Proj_A(v_B)`），在心智 A 的主轴读数上体现为零。心智 A 若不主动拓展自己的维度，便不易觉察到对方这部分维度的存在。
 
-What occurs geometrically when Mind A observes Mind B?
+What occurs geometrically when Mind A observes Mind B? [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) traces this geometry under a different load: From Statistical Symptoms and the Definitional Trap of Intimacy to the Living Nature of Inertia and Gravity.
 
 In a first-person framework, Mind A cannot directly step into Mind B's private basis S_B; what it experiences is Mind B's signal mapped into Mind A's own coordinate frame S_A.
 
@@ -162,7 +162,7 @@ This geometric relationship illustrates several features of interpersonal unders
 若心智 A 将自身坐标系内的负向投影理解为外部闯入的敌对客体，容易触发防御反应。心智将情境理解为一维单轨，认为相反的读数挤占了自身空间，进而通过贬低对方来维持自身排位。正如在 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 与 [以知为刃的截肢与解脱：从内在感知的澄明走向心智共鸣](../the-illusion-of-knowing-and-the-geometry-of-amputation/) 中所深入讨论的，这种对抗常见于系统在应对自身生成的低维投影，把工具异化为武器，带来不必要的认知消耗。
 
 ### 2. 识别为内向几何读数的路径
-若心智 A 意识到这只是高维向量 **v**_B 在自身轴向上的余弦读数，对抗的必要性便自然减退。负向投影仅表明双方在当前维度上存在角度差异，并不代表本体层面的敌对。看清投影的内生属性，有助于心智在面对分歧时保持从容。
+若心智 A 意识到这只是高维向量 **v**_B 在自身轴向上的余弦读数，对抗的必要性便自然减退。负向投影仅表明双方在当前维度上存在角度差异，并不代表本体层面的敌对。看清投影的内生属性，有助于心智在面对分歧时保持从容。[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)在另一种负载下描摹了同一几何：能力为何沦为束缚，以及对AI智能体能力的母体误归因。
 
 ```mermaid
 graph TD
@@ -201,7 +201,7 @@ graph TD
     style D4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-Through this geometric lens, interpersonal conflict and defensiveness become easier to trace.
+Through this geometric lens, interpersonal conflict and defensiveness become easier to trace. [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) traces this geometry under a different load: Why Capabilities Become Limitations and the Master Misattribution of AI Agents.
 
 When the angle between Mind A and Mind B is obtuse (θ ∈ (90°, 180°]), the scalar dot product turns negative: `v_B · v̂_A < 0`.
 

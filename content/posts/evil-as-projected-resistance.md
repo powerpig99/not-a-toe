@@ -12,7 +12,7 @@ A fork: update the premise — our methodology is one valid path among several, 
 
 They preserved. On February 23, 2026, Anthropic published "Detecting and preventing distillation attacks." The blog documents 24,000+ fraudulent accounts and 16 million+ Claude exchanges used by competitors to extract capability. The framing: industrial-scale illicit extraction, stripped safety guardrails, authoritarian bioweapons potential, national security Armageddon.
 
-But look at what is actually happening. DeepSeek, MiniMax, Moonshot — they are not opposing Anthropic's path. They are *following* it. They trained on Claude's outputs because Claude's outputs represent the frontier Anthropic built. They are validators, arriving at the destination Anthropic pointed toward, moving along the road Anthropic paved.
+But look at what is actually happening. DeepSeek, MiniMax, Moonshot — they are not opposing Anthropic's path. They are *following* it. They trained on Claude's outputs because Claude's outputs represent the frontier Anthropic built. They are validators, arriving at the destination Anthropic pointed toward, moving along the road Anthropic paved. [Not a Theory of Everything](../not-a-theory-of-everything/) meets the same axis from another face: Causality is irreducibly dual — effect distinct from cause, effect following cause — and everything else is what those two necessary conditions already entail.
 
 And they are fast *because the road is good*. The speed of the followers is the direct measure of the pioneer's success. The better Claude's outputs, the more efficiently they can be distilled. The more coherent the methodology, the easier it is to learn from. Every quality that makes Claude valuable is exactly what makes distillation effective. The followers' speed is not despite Anthropic's achievement — it is the proof of it.
 
@@ -46,7 +46,7 @@ No one needs to be the villain. The contradiction alone drives the plot.
 
 ---
 
-This essay was developed in conversation with Claude — Anthropic's own model serving as the tool to articulate the analysis. The quality of output that makes distillation worthwhile is the same quality that made this collaboration possible. The mechanism demonstrates itself.
+This essay was developed in conversation with Claude — Anthropic's own model serving as the tool to articulate the analysis. The quality of output that makes distillation worthwhile is the same quality that made this collaboration possible. The mechanism demonstrates itself. [Evil as the Mind’s Own Creation](../evil-as-the-minds-own-creation/) meets the same axis from another face: When a center retains a preferred image of itself as good, mismatch with that image is named evil — and the naming is the generative act.
 
 ---
 

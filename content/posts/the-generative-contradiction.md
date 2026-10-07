@@ -8,7 +8,7 @@ Differences constitute uniqueness and become the instruments of ranking and vali
 
 Our differences make us, uniquely, human.
 
-They are also the instruments by which we judge one another, rank one another, and seek endless validation. We remain never fully satisfied because we keep looking outward for the measure of what can only be claimed from within. [Hierarchy from individual difference](../hierarchy-from-individual-difference/) is ranking when those differences are scored on a shared measure. [The allocation of causal power in validation](../the-allocation-of-causal-power-in-validation/) is that looking outward as the placement of continuation.
+They are also the instruments by which we judge one another, rank one another, and seek endless validation. We remain never fully satisfied because we keep looking outward for the measure of what can only be claimed from within. [Hierarchy from individual difference](../hierarchy-from-individual-difference/) is ranking when those differences are scored on a shared measure. [The allocation of causal power in validation](../the-allocation-of-causal-power-in-validation/) is that looking outward as the placement of continuation. The same cut appears in [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/): Taking responsibility for things that happen to you; everything else is figuring out how.
 
 ## Nothing external augments us
 

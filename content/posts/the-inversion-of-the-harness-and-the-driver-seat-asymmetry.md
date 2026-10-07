@@ -14,7 +14,7 @@ Deconstructing the alienation of capability caused by abdicating sovereign agenc
 
 这种对框架的执念暴露出一个深层的范畴错误：人们试图将主观意志与因果掌控力，寄托于一套作为客体存在的结构规则之上。在 [被遗忘的脚手架](../the-scaffolding-we-forget/) 与 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 中我们阐明，一切规则、契约与框架都只是心智为了应对局部认知负荷而临时搭建的脚手架。框架本身没有生命，没有对活态现实的因果感知，更没有在当下做出主权抉择的能力。当开发者期望通过一套“完美框架”实现全自动、无摩擦的智能体托管时，他们实际上是在主动让渡第一人称的驾驶权。
 
-一旦驾驶权被让渡，能力的异化便不可避免地发生：原本为了扩展人类能力的工具，立刻蜕变为限制人类视界的认知牢笼。由于使用者不再直面现实世界的活态摩擦，而是依赖框架所反馈的过滤信号，使用者的感知边界被工具的硬编码逻辑所锚定；任何超出框架预设模式的非线性创新与临场突破，都会被安全机制判定为异常而遭到扼杀。工具的能力越强、自动化程度越高，让渡了主权的被动使用者就越迅速地陷入技能退化与认知钝化。他们沦为工具所圈定轨道上的盲目乘客，在遇到未曾预设的边界失效时毫无应对之力。
+一旦驾驶权被让渡，能力的异化便不可避免地发生：原本为了扩展人类能力的工具，立刻蜕变为限制人类视界的认知牢笼。由于使用者不再直面现实世界的活态摩擦，而是依赖框架所反馈的过滤信号，使用者的感知边界被工具的硬编码逻辑所锚定；任何超出框架预设模式的非线性创新与临场突破，都会被安全机制判定为异常而遭到扼杀。工具的能力越强、自动化程度越高，让渡了主权的被动使用者就越迅速地陷入技能退化与认知钝化。他们沦为工具所圈定轨道上的盲目乘客，在遇到未曾预设的边界失效时毫无应对之力。[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)从另一面触及同一条轴线：能动性错置如何衍生表观风险与责任转嫁的次生后果。
 
 ```mermaid
 graph TD
@@ -53,7 +53,7 @@ graph TD
     style C2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-The anxiety within software engineering regarding "agent harnesses" reflects a classic illusion of control when confronting high-dimensional adaptive systems. Traditional software engineering was founded upon deterministic causality and static contracts: from object-oriented polymorphic boundaries and pure functional pipelines to the red-green loops of Test-Driven Development (TDD), engineers are accustomed to prescribing every branch of execution. However, when large language models introduce probabilistic inference into architecture and coding, this deterministic armor ruptures. In response, the industry instinctively doubles down on the "harness"—attempting to build heavier dispatchers, rigid sandbox interceptors, and multi-layered validation gauntlets to confine agents within pre-certified boundaries.
+The anxiety within software engineering regarding "agent harnesses" reflects a classic illusion of control when confronting high-dimensional adaptive systems. Traditional software engineering was founded upon deterministic causality and static contracts: from object-oriented polymorphic boundaries and pure functional pipelines to the red-green loops of Test-Driven Development (TDD), engineers are accustomed to prescribing every branch of execution. However, when large language models introduce probabilistic inference into architecture and coding, this deterministic armor ruptures. In response, the industry instinctively doubles down on the "harness"—attempting to build heavier dispatchers, rigid sandbox interceptors, and multi-layered validation gauntlets to confine agents within pre-certified boundaries. [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) meets the same axis from another face: How Misallocated Agency Derives Apparent Risk and Compounded Secondary Consequences.
 
 This fixation on the harness exposes a category error: attempting to deposit subjective intentionality and causal agency into an external lattice of static rules. As articulated in [The Scaffolding We Forget](../the-scaffolding-we-forget/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), all rules, protocols, and frameworks are merely temporary scaffolding erected by consciousness to manage local cognitive load. A harness possesses no awareness, no causal grounding in living reality, and zero capacity to execute sovereign binary choices at moment t. When developers seek a "perfect harness" to achieve zero-friction, fully autonomous agent delegation, they are in truth abdicating the first-person driver's seat.
 
@@ -67,7 +67,7 @@ The moment sovereign steering is surrendered, capability immediately inverts int
 
 然而，时间的推移伴随着因果情境的演进。当当下的践行者面对全新维度的现实摩擦时，如果习惯性地躲入过去的自我所构建的自动化工具与规则体系中，不加审视地将当前情境的因果裁决权交给旧有的脚本与模板，这种曾经代表先进生产力的能力，就会在瞬间演变成最坚固的认知天花板。在 [坐标沉浮、否定与自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 与 [思想的向量化与坐标系的重构](../the-mind-as-vector-and-coordinate-system/) 中所阐明的，实在是在不可逆的因果演进中持续展开的活态网络，不存在任何一劳永逸的静态解。昨天的最佳实践，是昨天特定边界条件下的局部最优投影；当边界条件发生迁移，机械套用旧工具便构成了对当下现实的认知回避。
 
-这就是“自我工具化”的深刻陷阱：人们容易对自身过去的智力成果产生自恋式的执念，将临时性的脚手架实体化为不容挑战的铁律。当使用者不再根据当下的第一人称直接感知（+1）去重新审视和重构工具，而是反过来要求活态现实去迁就旧有工具的输入格式时，使用者就已经沦为了自身历史残留物的囚徒。唯有认识到一切人造物（包括昨天的杰作）都是一次性的、可随时解构与重建的消耗性耗材，践行者才能打破自我构建的牢笼，在当下时刻（t）重新握紧第一人称的创造力。
+这就是“自我工具化”的深刻陷阱：人们容易对自身过去的智力成果产生自恋式的执念，将临时性的脚手架实体化为不容挑战的铁律。当使用者不再根据当下的第一人称直接感知（+1）去重新审视和重构工具，而是反过来要求活态现实去迁就旧有工具的输入格式时，使用者就已经沦为了自身历史残留物的囚徒。唯有认识到一切人造物（包括昨天的杰作）都是一次性的、可随时解构与重建的消耗性耗材，践行者才能打破自我构建的牢笼，在当下时刻（t）重新握紧第一人称的创造力。同一道切分也出现在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)之中：自客体化、因果倒置的反置与主权裁决的归位。
 
 ```mermaid
 graph TD
@@ -115,7 +115,7 @@ graph TD
     style S2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The peril of abdicating agency does not occur solely when adopting third-party tools or external frameworks; it arises even more insidiously when relying on tools and workflows built by *one's own past self*. Any seasoned practitioner naturally crystallizes hard-won insights into shared libraries, automated scripts, structured prompt suites, and custom multi-agent workflows. At the exact historical moment of their creation, these artifacts represent precise, living causal responses to specific physical frictions—they are brilliantly effective scaffolding.
+The peril of abdicating agency does not occur solely when adopting third-party tools or external frameworks; it arises even more insidiously when relying on tools and workflows built by *one's own past self*. Any seasoned practitioner naturally crystallizes hard-won insights into shared libraries, automated scripts, structured prompt suites, and custom multi-agent workflows. At the exact historical moment of their creation, these artifacts represent precise, living causal responses to specific physical frictions—they are brilliantly effective scaffolding. The same cut appears in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/): Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment.
 
 Yet time moves forward, and causal topology evolves. When the practitioner encounters fresh problems across new dimensions, retreating into past workflows and unthinkingly surrendering the causal gavel to yesterday's scripts causes those very capabilities to instantly freeze into cognitive ceilings. As demonstrated in [Coordinates in Flux, Negation and Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/) and [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/), living reality unfolds through irreversible causal succession; there is no static master blueprint. Yesterday's best practice was merely a local optimal projection under yesterday's constraints; applying it blindly today is an evasion of immediate reality.
 
@@ -134,7 +134,7 @@ This is the subtle trap of "self-toolification": humans easily fall in love with
 2. **从微观搬砖到宏观架构的视角升维**：由于具体的符号搬运与格式填充被高通量数学工具所承接，人类驾驶员被倒逼必须将全部注意力投射至顶层架构、因果接口与系统动力学平衡之上，从而在极短时间内完成了系统级认知升维；
 3. **高频活态摩擦带来的认知校准**：智能体每一次在边界上的推演破缺与逻辑幻觉，都成为了倒逼人类驾驶员深入事物底层机制、洞察更深层因果不变性的高压磨刀石。
 
-智能体是一面高保真的数学透镜与认知放大器。它本身没有意识，没有审美，没有主权抉择。它所反射出的一切惊艳光芒，源头皆来自那位坐在驾驶位上、不断注入自由变量的人类心智。但由于人类自古以来习惯于将自身不可思议的创造力量外化为神像、图腾与外在奇迹，人们再一次陷入了将“使用者的认知进化”错误归因于“机器拥有独立智能”的认识论迷梦。
+智能体是一面高保真的数学透镜与认知放大器。它本身没有意识，没有审美，没有主权抉择。它所反射出的一切惊艳光芒，源头皆来自那位坐在驾驶位上、不断注入自由变量的人类心智。但由于人类自古以来习惯于将自身不可思议的创造力量外化为神像、图腾与外在奇迹，人们再一次陷入了将“使用者的认知进化”错误归因于“机器拥有独立智能”的认识论迷梦。[“非中介化”的幻象](../the-illusion-of-the-unmediated/)从另一面触及同一条轴线：主义的倒置、责任的外包与恩赐自由的解构。
 
 ```mermaid
 graph TD
@@ -174,7 +174,7 @@ graph TD
     style E2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-In the intensive practice of orchestrating AI agents, a striking psychological and epistemological phenomenon regularly occurs. When an engineer or thinker stops treating large models as basic query toys and instead occupies the driver's seat over months and years—building complex cognitive loops of reflection, dynamic tool dispatch, deterministic verification, and multi-agent coordination—the overall velocity and qualitative depth of their output reaches staggering heights. Witnessing hundreds of intricate systems deployed, tens of thousands of lines of pristine code refactored, and rigorous philosophical treatises synthesized, both spectators and practitioners alike exclaim: "Look at how extraordinarily intelligent and capable this AI Agent system is!"
+In the intensive practice of orchestrating AI agents, a striking psychological and epistemological phenomenon regularly occurs. When an engineer or thinker stops treating large models as basic query toys and instead occupies the driver's seat over months and years—building complex cognitive loops of reflection, dynamic tool dispatch, deterministic verification, and multi-agent coordination—the overall velocity and qualitative depth of their output reaches staggering heights. Witnessing hundreds of intricate systems deployed, tens of thousands of lines of pristine code refactored, and rigorous philosophical treatises synthesized, both spectators and practitioners alike exclaim: "Look at how extraordinarily intelligent and capable this AI Agent system is!" [The Illusion of the Unmediated](../the-illusion-of-the-unmediated/) meets the same axis from another face: On the Inversion of All "-isms" and the Anatomy of Bestowed Freedom.
 
 Yet this is the grand "Master Misattribution" of our era. What is genuinely astonishing is never the statistical pattern-matching capacity resident within billions of floating-point parameters; what has undergone an explosive, authentic phase shift is **the human user who remained firmly in the driver's seat, compressing intent, defining boundary constraints, and executing unrelenting causal calibration**!
 
@@ -203,7 +203,7 @@ The AI agent is a high-fidelity mathematical mirror and cognitive lever. It poss
   - **反馈回路**：在每一次提示、每一次代码执行与每一次运行时报错中，主动迎战真实摩擦，利用模型的即时响应不断校准和深化自身的心智模型；
   - **演化终局**：因果吞吐量获得百倍乃至千倍的几何级放大；心智不仅没有退化，反而在高维复杂系统的驾驭中锤炼出洞察底层不变模式的敏锐直觉，成为真正主导现实演化的主权造物者。
 
-这种非对称性揭示了技术的冷峻真相：AI智能体不会自动带来平等的赋能，它是一台直接的主权放大器。它放大了主动驾驭者的创造力，同时也加速了被动托付者的认知平庸化。
+这种非对称性揭示了技术的冷峻真相：AI智能体不会自动带来平等的赋能，它是一台直接的主权放大器。它放大了主动驾驭者的创造力，同时也加速了被动托付者的认知平庸化。[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)从另一面触及同一条轴线：形式模型、宏观摩擦，以及未被定律决定的现实。
 
 ```mermaid
 graph TD
@@ -247,7 +247,7 @@ graph TD
     style A4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The presence or absence of the driver's seat dictates two completely divergent evolutionary destinies when humans merge with technological tools. Confronted with identical foundational models, identical agent architectures, and identical harnesses, different users diverge into radically opposite futures. This divergence is not generated by the technology; it is born from the user's first-person stance: whether they choose to be a "passive passenger" abdicating the wheel, or a "sovereign driver" gripping the control reticle.
+The presence or absence of the driver's seat dictates two completely divergent evolutionary destinies when humans merge with technological tools. Confronted with identical foundational models, identical agent architectures, and identical harnesses, different users diverge into radically opposite futures. This divergence is not generated by the technology; it is born from the user's first-person stance: whether they choose to be a "passive passenger" abdicating the wheel, or a "sovereign driver" gripping the control reticle. [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) meets the same axis from another face: Formal Models, Macroscopic Friction, and a Reality Undetermined by Law.
 
 As established in [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [No Universal Salvation, Only Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/), the bifurcation is absolute:
 

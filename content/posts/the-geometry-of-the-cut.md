@@ -32,7 +32,7 @@ graph TD
 
 这两种表述听起来都极具道德感召力，但它们在本体论上犯下了同一个根本性错误：**它们都把“自身”与“世界”当作了两个在空间上相邻、在时间上可以被线性排序的独立房间。** 一旦采纳了这种二元划分，道德说教中的“应当”便随着人造的起点四处流窜——选定自身为起点，义务便指向内在；选定世界为起点，义务便指向外部。
 
-然而，这种在两个房间之间排列优先级的企图是多余的。认知与所认知之物从来不曾隔着遥远的虚空对望；它们在几何拓扑上本就是同一个连通流形。
+然而，这种在两个房间之间排列优先级的企图是多余的。认知与所认知之物从来不曾隔着遥远的虚空对望；它们在几何拓扑上本就是同一个连通流形。同一道切分也出现在[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)之中：解释力与逃逸速度的不对称、均值吸引子闭环与标量投影破魅。
 
 ```mermaid
 graph TD
@@ -53,7 +53,7 @@ graph TD
     style MoralWeapon fill:#21262d,stroke:#8b949e,color:#8b949e
 ```
 
-One of the most persistent deadlocks in moral philosophy is the debate over the chronological and ethical priority between transforming oneself and reforming the world.
+One of the most persistent deadlocks in moral philosophy is the debate over the chronological and ethical priority between transforming oneself and reforming the world. The same cut appears in [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/): The Asymmetry of Explanatory Power and Escape Velocity, the Mean Attractor, and the Scalar Projection.
 
 A familiar admonition insists that anyone who has not cleaned their own house has no business presuming to tidy the street; internal mastery is framed as the non-negotiable prerequisite for public action. The counter-pole asserts that when the street is burning and systemic collapse is imminent, inward self-cultivation is an evasion—a luxury that ignores the structural ground of suffering.
 
@@ -137,7 +137,7 @@ graph TD
 
 悲剧在于后来的追随者。追随者未能洞悉原初的因果引擎，便不可避免地**倒果为因**：他们误将智者留下的形态残留当作了抵达彼岸的因果工具。
 
-所谓的“修炼自身”，在追随者手中迅速退化为一种站在第三人称审视自己、规训自我的监视游戏。追随者强迫自己表现出宁静，强行压制内在的欲望，机械模仿圣人的体态与仪式。这种模仿在感觉上极其“正确”，但在因果上却毫无效力——因为你试图通过制造结果的形状，来倒逼原因的诞生。这正是千百年来古老教条让人深感共鸣却极难践行的根本根源。
+所谓的“修炼自身”，在追随者手中迅速退化为一种站在第三人称审视自己、规训自我的监视游戏。追随者强迫自己表现出宁静，强行压制内在的欲望，机械模仿圣人的体态与仪式。这种模仿在感觉上极其“正确”，但在因果上却毫无效力——因为你试图通过制造结果的形状，来倒逼原因的诞生。这正是千百年来古老教条让人深感共鸣却极难践行的根本根源。同一道切分也出现在[契约的因果倒置](../the-causal-inversion-of-partnership/)之中：所谓共同实体的虚妄、心智对自身的镜像投射与选择离场的自由。
 
 ```mermaid
 graph TD
@@ -155,7 +155,7 @@ graph TD
     style ImpotenceDeadlock fill:#21262d,stroke:#ff7b72,stroke-width:2px,color:#ff7b72
 ```
 
-Ancient wisdom traditions traced macro-scale phenomena with extraordinary fidelity. Yet because they lacked an explicit micro-causal structure, their teachings suffered from **The Retrospective Bias**.
+Ancient wisdom traditions traced macro-scale phenomena with extraordinary fidelity. Yet because they lacked an explicit micro-causal structure, their teachings suffered from **The Retrospective Bias**. The same cut appears in [The Causal Inversion of Partnership](../the-causal-inversion-of-partnership/): The Illusion of the Mutual Entity, the Mind's Mirror Projection, and the Freedom to Walk Away.
 
 When a sage reflects upon their past transformation, they necessarily look back as an external observer of their own history. What they observe and articulate are the downstream symptoms and structural residues of their breakthrough: equanimity, non-attachment, disciplined restraint, and effortless action.
 

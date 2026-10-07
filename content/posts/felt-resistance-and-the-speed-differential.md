@@ -111,7 +111,7 @@ Acting upon this inversion actively manufactures the very impediment it laments.
 
 ## 三、 推进拓展与表演性乐观的界河 / 3. Alignment with Progress Versus Performative Optimism
 
-这一因果机制清晰地划定了立足推进与表演性乐观之间的楚河汉界。立足于推进的行动者，其精力专一地倾注于拉升更快的速率：提升工具性能、削减采用门槛、拓宽落地场景，而从不将伴随产生的阻力体感当作必须修正的输入项。因为明白体感仅仅是速率差的衍生指标，这种构筑既不强求外界同步变得乐观，也不把周遭的悲观视作不可逾越的拦路虎。技术与制度的追赶，从来不是说服教育的产物，而是能力鸿沟拉大后不可阻挡的利害重构。在[进步叙事中的症候与原因](../symptom-and-cause-in-the-narratives-of-progress/)与[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)中可以看到，只有实打实的边际能力提升，才能在去中心化的微观抉择中引发真正的范式迁移。
+这一因果机制清晰地划定了立足推进与表演性乐观之间的楚河汉界。立足于推进的行动者，其精力专一地倾注于拉升更快的速率：提升工具性能、削减采用门槛、拓宽落地场景，而从不将伴随产生的阻力体感当作必须修正的输入项。因为明白体感仅仅是速率差的衍生指标，这种构筑既不强求外界同步变得乐观，也不把周遭的悲观视作不可逾越的拦路虎。技术与制度的追赶，从来不是说服教育的产物，而是能力鸿沟拉大后不可阻挡的利害重构。在[进步叙事中的症候与原因](../symptom-and-cause-in-the-narratives-of-progress/)与[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)中可以看到，只有实打实的边际能力提升，才能在去中心化的微观抉择中引发真正的范式迁移。同一道切分也出现在[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)之中：最优之选与极劣之防皆困于已知样本，唯有不可预设的本体论余量方为生生之源。
 
 ```mermaid
 graph TD
@@ -154,7 +154,7 @@ graph TD
     style PARASITE fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-This dynamic delineates a crisp boundary between genuine alignment with progress and performative optimism. Alignment with progress consists in expanding the leading rate: amplifying capability, lowering the private friction of adoption, and scaling practical utility, without treating ambient resistance as an input that requires emotional rectification. Recognizing that friction is merely a derivative readout of a speed differential, such builders neither demand that observers adopt cheerfulness nor interpret prevailing skepticism as a structural bottleneck. Institutional and social catch-up is never the fruit of rhetorical persuasion; it is the inevitable reorganization of self-interest triggered when capability gaps become overwhelming. As explored in [Symptom and Cause in the Narratives of Progress](../symptom-and-cause-in-the-narratives-of-progress/) and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/), only tangible margins of realized capability compel decentralized agents to rewrite their operational commitments.
+This dynamic delineates a crisp boundary between genuine alignment with progress and performative optimism. Alignment with progress consists in expanding the leading rate: amplifying capability, lowering the private friction of adoption, and scaling practical utility, without treating ambient resistance as an input that requires emotional rectification. Recognizing that friction is merely a derivative readout of a speed differential, such builders neither demand that observers adopt cheerfulness nor interpret prevailing skepticism as a structural bottleneck. Institutional and social catch-up is never the fruit of rhetorical persuasion; it is the inevitable reorganization of self-interest triggered when capability gaps become overwhelming. As explored in [Symptom and Cause in the Narratives of Progress](../symptom-and-cause-in-the-narratives-of-progress/) and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/), only tangible margins of realized capability compel decentralized agents to rewrite their operational commitments. The same cut appears in [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/): Best-of-N and Worst-of-N remain trapped in closed sets; only the unconditioned remainder breathes living reality.
 
 ```mermaid
 graph TD

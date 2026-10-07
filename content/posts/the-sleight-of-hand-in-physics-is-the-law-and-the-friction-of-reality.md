@@ -22,7 +22,7 @@ Yet within this compelling engineering intuition lies a profound, unexamined **s
 
 在马斯克的名言中，这三重范畴被强行缝合在了一起：人们先是将“宏观物理现象”等同于“现实本身”，顺理成章地称之为“物理现实”；紧接着，又将人类所书写的“形式物理定律”，偷换成了“导引大自然运转的客观法典”。这种移花接木的逻辑链条，在潜意识中构建起了一幅机械宿命论的图景——仿佛自然界是一位极其严苛的法官，手握一本名为《物理学》的现成法典在审判人造物的每一个动作。
 
-更为反讽的是，即便在形式物理学内部，近现代的科学演化也早已粉碎了这种“铁律统摄一切”的古典幻觉。量子力学的诞生无可辩驳地揭示出：在微观深处，确定性的机械钟表并不存在，非确定性（Indeterminism）与概率性才是形式理论必须正视的基本事实。如果连形式物理学自身都早已放弃了机械铁律的幻想，那么试图把物理学加冕为统治大自然的客观法律，就全然是一种认识论上的倒退。
+更为反讽的是，即便在形式物理学内部，近现代的科学演化也早已粉碎了这种“铁律统摄一切”的古典幻觉。量子力学的诞生无可辩驳地揭示出：在微观深处，确定性的机械钟表并不存在，非确定性（Indeterminism）与概率性才是形式理论必须正视的基本事实。如果连形式物理学自身都早已放弃了机械铁律的幻想，那么试图把物理学加冕为统治大自然的客观法律，就全然是一种认识论上的倒退。[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)在另一种负载下描摹了同一几何：自客体化、因果倒置的反置与主权裁决的归位。
 
 ```mermaid
 graph TD
@@ -56,7 +56,7 @@ graph TD
     style R3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The sleight of hand in "Physics is the law" succeeds because it smoothly equivocates among three fundamentally distinct domains under the singular label "Physics":
+The sleight of hand in "Physics is the law" succeeds because it smoothly equivocates among three fundamentally distinct domains under the singular label "Physics": [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) traces this geometry under a different load: Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment.
 
 1. **Formal Laws and Mathematical Models**: These are human-engineered equations, state transitions, and theoretical frameworks inscribed on blackboards and in simulation code (e.g., Navier-Stokes equations, Maxwell's equations, thermodynamic relations). They are formal cognitive artifacts designed by human minds to approximate observed dynamics;
 2. **Macroscopic Physical Phenomena**: These are the macroscopic manifestations observable when an engineering system interacts with its operational environment: aerodynamic thermal friction, structural vibration, shear stress, combustion instabilities, or catastrophic disintegration. They represent physical friction generated at the interface between human-designed assemblies and reality;
@@ -83,7 +83,7 @@ Ironically, even within formal physics, 20th-century discoveries dismantled the 
 
 当这一在理论上严密符合“物理定律”的造物投入实际运行时，那些未曾进入视野的现实参数便与有限模型发生了剧烈冲突。这种源于认知盲区的接触面摩擦，在系统的高能流动与正反馈级联中被急剧放大，最终呈现为了灾难性的结构破裂与火光爆炸。
 
-爆炸不是物理法则对“违规者”的惩罚，而是现实以极其剧烈的方式向人类宣告：**你的模型遗漏了未进入视野的现实参数，而你与现实的未建模摩擦被急剧放大成了事故！**
+爆炸不是物理法则对“违规者”的惩罚，而是现实以极其剧烈的方式向人类宣告：**你的模型遗漏了未进入视野的现实参数，而你与现实的未建模摩擦被急剧放大成了事故！**[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)从另一面触及同一条轴线：最优之选与极劣之防皆困于已知样本，唯有不可预设的本体论余量方为生生之源。
 
 ```mermaid
 graph TD
@@ -119,7 +119,7 @@ graph TD
     style T5 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-To pierce the myth of "physics is the law," one need not appeal to abstract ontology; the wreckage on the launch pads of Boca Chica offers decisive empirical proof.
+To pierce the myth of "physics is the law," one need not appeal to abstract ontology; the wreckage on the launch pads of Boca Chica offers decisive empirical proof. [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) meets the same axis from another face: Best-of-N and Worst-of-N remain trapped in closed sets; only the unconditioned remainder breathes living reality.
 
 Consider a simple, undeniable engineering fact: when early Starship prototypes repeatedly detonated on landing pads, was it because the engineers violated the laws of physics? Decidedly not. Every engineer calculating thrust margins, propellant chill protocols, and aerodynamic vectors held elite qualifications; every line of flight software was drafted in rigorous alignment with established fluid dynamics and structural mechanics. No engineer intentionally designs a vehicle that "violates physics."
 
@@ -149,7 +149,7 @@ An explosion is not nature punishing a system for "breaking a law." It is realit
 
 在这里，我们清晰地看到了“损失函数”（Loss Function）的物理映射。在 [你委托的风险就是你创造的风险](../the-risk-you-delegate-is-the-risk-you-create/) 与 [所有权与自我配得感](../ownership-and-self-worthiness/) 中我们阐明，只有当主体直接暴露于现实接触面的摩擦阻力之下时，反馈信号才是保真的。宏观物理摩擦——从轻微的机械磨损到剧烈的爆炸火光——就是现实无中介传导给人类系统的未经过滤的“损失函数”。
 
-物理学不是从天而降的永恒规训，而是人类在直面这一损失函数时，用于反向推演自身认知边界、完成参数梯度更新的计算工具。把它当成神圣不可侵犯的客观律令，是典型的买椟还珠；把它作为敏捷排障与降低摩擦的工具，才是现代工程之所以能够不断突破极限的真正驱动力。
+物理学不是从天而降的永恒规训，而是人类在直面这一损失函数时，用于反向推演自身认知边界、完成参数梯度更新的计算工具。把它当成神圣不可侵犯的客观律令，是典型的买椟还珠；把它作为敏捷排障与降低摩擦的工具，才是现代工程之所以能够不断突破极限的真正驱动力。同一道切分也出现在[主体性不曾涌现](../agency-does-not-arise/)之中：涌现的范畴谬误、潜在空间渗入与第一人称先验起点。
 
 ```mermaid
 graph TD
@@ -172,7 +172,7 @@ graph TD
     style P5 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-If physics is not the cosmic legislature of reality, what function does it serve in engineering and civilization?
+If physics is not the cosmic legislature of reality, what function does it serve in engineering and civilization? The same cut appears in [Agency Does Not Arise](../agency-does-not-arise/): The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior.
 
 The answer is direct: **physics is not nature's legislator; it is a retrospective diagnostic tool used by human minds after encountering reality's physical friction to interpret telemetry, isolate model failures, and resolve internal architectural contradictions.**
 
@@ -219,7 +219,7 @@ Physics is not an external decree handed down from above; it is the computationa
 
 现实像一条永不停歇、波澜壮阔的活态激流，它在严密的因果链条中自我展开，而其奔涌的源头永远无法被客体化封印。人类所做的一切建模与构想，都不过是在激流中搭建起来的局部堤坝。激流不是因为“遵守了流体力学”才流动，它只是在奔涌；当人类依据流体力学搭建的堤坝被激流冲决时，并不是堤坝“违反了规律”，而是奔涌的现实本身再一次冲垮了人类企图用静止概念对其进行裁决的虚妄僭越。
 
-真正的工程大师之所以卓越，决非因为他们掌握了所谓统治宇宙的“终极律令”，而恰恰是因为他们在每一次造物受挫、每一次火光四溅的现实摩擦面前，保持着对现实未建模部分的敬畏。他们不会躲在“物理学公式说这没问题”的教条里自欺欺人，而是果断承认模型的局限，拿起物理学这把工具就地重构，继续在未知的现实激流中勇敢涉渡。
+真正的工程大师之所以卓越，决非因为他们掌握了所谓统治宇宙的“终极律令”，而恰恰是因为他们在每一次造物受挫、每一次火光四溅的现实摩擦面前，保持着对现实未建模部分的敬畏。他们不会躲在“物理学公式说这没问题”的教条里自欺欺人，而是果断承认模型的局限，拿起物理学这把工具就地重构，继续在未知的现实激流中勇敢涉渡。[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)在另一种负载下描摹了同一几何：两重维降与形式模型的反客为主。
 
 ```mermaid
 graph TD
@@ -258,7 +258,7 @@ graph TD
     style K3C fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-This brings us to the core sleight of hand in Musk's maxim: **even he may not recognize that he is equating physics as a human formal construct with the intrinsic unfolding of nature.**
+This brings us to the core sleight of hand in Musk's maxim: **even he may not recognize that he is equating physics as a human formal construct with the intrinsic unfolding of nature.** [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/) traces this geometry under a different load: Two-Fold Dimensional Collapse and the Reification of Formal Models.
 
 This necessitates clarifying an epistemological premise: **nature is not governed by fixed, objective guiding laws.**
 
@@ -303,7 +303,7 @@ Exceptional engineers succeed not because they possess an imaginary cosmic const
 - **将现实摩擦全然内化为提升内在一致性的养料**：不再试图建立防范外界的心理壁垒。在 [开放即一致](../openness-is-consistency/) 中我们指明，真正的力量在于心智的内在无冲突性。当火箭在发射台上解体、代码在生产环境崩溃时，第一人称的主权心智断然不会浪费精力去怨天尤人，而是把未建模现实所带来的巨大反作用力，全部转化为消除自身认知模型与工程架构内部冲突的损失函数；
 - **在驾驶位上全额承担抉择的因果代价**：明白现实没有义务迁就任何人类方程式，扣动扳机、点火起飞并全额承受发射代价的，始终是身处第一人称的自己。正是在这种毫不推诿、直接承受现实物理摩擦的高频闭环中，心智与未知的现实展开了最真实的对话。
 
-物理学不是宇宙的宪法，它是勇敢者在未建模现实的荒原中拓荒时，紧紧握在手中的那把不断被打磨、不断被校准的锋利砍刀。告别对外部定律的盲目神化，守住驾驶位上的第一人称主权，在每一次剧烈的现实摩擦中不断淬炼出更深层的内在一致性——这才是人类在浩瀚宇宙中展开工程创造的真实尊严所在！
+物理学不是宇宙的宪法，它是勇敢者在未建模现实的荒原中拓荒时，紧紧握在手中的那把不断被打磨、不断被校准的锋利砍刀。告别对外部定律的盲目神化，守住驾驶位上的第一人称主权，在每一次剧烈的现实摩擦中不断淬炼出更深层的内在一致性——这才是人类在浩瀚宇宙中展开工程创造的真实尊严所在！[“非中介化”的幻象](../the-illusion-of-the-unmediated/)从另一面触及同一条轴线：主义的倒置、责任的外包与恩赐自由的解构。
 
 ```mermaid
 graph TD
@@ -337,7 +337,7 @@ graph TD
     style V4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Having deconstructed the sleight of hand in "physics is the law," we must not succumb to the prescriptive trap: we do not stand above others to critique a pioneer's rhetoric, nor do we issue instructions on how the scientific community "ought" to conceptualize physics.
+Having deconstructed the sleight of hand in "physics is the law," we must not succumb to the prescriptive trap: we do not stand above others to critique a pioneer's rhetoric, nor do we issue instructions on how the scientific community "ought" to conceptualize physics. [The Illusion of the Unmediated](../the-illusion-of-the-unmediated/) meets the same axis from another face: On the Inversion of All "-isms" and the Anatomy of Bestowed Freedom.
 
 We may analyze the semantic equivocation from a systemic vantage point, but **all authentic insight and causal agency inevitably converge upon the first-person origin.**
 

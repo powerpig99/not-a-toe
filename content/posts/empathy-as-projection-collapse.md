@@ -20,7 +20,7 @@ Perceptual widening—quiet, internal, invisible—does not survive well in publ
 
 So the collapse produces a predictable outcome: the word "empathy" in public discourse functions almost entirely as signaling and positioning. The perceptual-widening operation drops out—not because anyone intends to drop it, but because the available coordinates cannot represent it.
 
-This is why demanding empathy reliably produces its structural opposite. The demand operates on the signaling and positioning axes. It centers the demander's needs. It distributes obligation asymmetrically. It introduces coercion into what can only function as a voluntary internal operation. None of this is contradiction or hypocrisy in the moral sense—it is projection failure. The dimensions do not share coordinates, and forcing them to creates interference.
+This is why demanding empathy reliably produces its structural opposite. The demand operates on the signaling and positioning axes. It centers the demander's needs. It distributes obligation asymmetrically. It introduces coercion into what can only function as a voluntary internal operation. None of this is contradiction or hypocrisy in the moral sense—it is projection failure. The dimensions do not share coordinates, and forcing them to creates interference. [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) meets the same axis from another face: Diagnosing another's aesthetic judgment reveals only the observer's own compressed mental model and cognitive boundary.
 
 ---
 

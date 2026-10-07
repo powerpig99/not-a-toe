@@ -10,7 +10,7 @@
 
 正因这种展开永不闭合，这里的全部含义无法被任何静态定义所穷尽，只能在持续的描摹中去体会。
 
-`not-a-toe` (Not a Theory of Everything) is the recognition that the first-person perspective and causality are two sides of the same coin: reality is always perceived by the mind in the present as a finite collection of distinctions, while causality is the open potential extending endlessly into past and future, projecting all theories and existence within comprehension.
+`not-a-toe` (Not a Theory of Everything) is the recognition that the first-person perspective and causality are two sides of the same coin: reality is always perceived by the mind in the present as a finite collection of distinctions, while causality is the open potential extending endlessly into past and future, projecting all theories and existence within comprehension. [The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction](../the-generative-atlas-of-macroscopic-phenomena/) meets the same axis from another face: Causality itself is the single fundamental primitive of reality, having no beginning and no ending, bounded only by the observer's finite but dynamic epistemological horizon.
 
 Because this unfolding never closes, its meaning can never be captured by a static definition, and can only be realized through ongoing tracing.
 

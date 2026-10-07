@@ -79,7 +79,7 @@ This dynamic establishes a self-reinforcing negative feedback loop that remains 
 * Observing the child's fragility, the parent feels justified in intensifying supervision and control;
 * The child becomes even more dependent, retreating into the comfortable safety of the parental estate.
 
-A person may live an extraordinarily comfortable, cultured life while remaining an ornamental appendage to a past victory rather than a self-originating causal engine. They are granted every advantage except the one thing that matters: the freedom to struggle, fail, and build sovereign capacity on unpaved terrain.
+A person may live an extraordinarily comfortable, cultured life while remaining an ornamental appendage to a past victory rather than a self-originating causal engine. They are granted every advantage except the one thing that matters: the freedom to struggle, fail, and build sovereign capacity on unpaved terrain. [The Look of Constraint Is Not the Loss of Freedom](../the-look-of-constraint-is-not-the-loss-of-freedom/) traces this geometry under a different load: Childhood is not a lost state of unconstrained freedom and adulthood is not its tragic confiscation; apparent constraint is the active allocation of agency pointed backward at defending historical residue rather than forward at extending the moving horizon.
 
 ## Overriding Agency Is Counterproductive: Transcending the Golden Cage
 

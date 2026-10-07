@@ -8,7 +8,7 @@ Infinite potentiality is what we inhabit. It's the open-ended extension of bound
 
 This is where meaning operates. The paint is unlimited; the frame gives it form.
 
-**Absolute infinity** is the substrate itself—the Contradiction's self-referential depth, prior to any projection. Not empty or terminal, but unprojectable. It's what makes projection possible without itself being reducible to any projection. Every framework that tries to capture it has already reduced it to the first infinity.
+**Absolute infinity** is the substrate itself—the Contradiction's self-referential depth, prior to any projection. Not empty or terminal, but unprojectable. It's what makes projection possible without itself being reducible to any projection. Every framework that tries to capture it has already reduced it to the first infinity. [Not a Theory of Everything](../not-a-theory-of-everything/) traces this geometry under a different load: Causality is irreducibly dual — effect distinct from cause, effect following cause — and everything else is what those two necessary conditions already entail.
 
 Absolute infinity is the precondition of infinite potentiality. One makes the other possible. They're not two points on the same scale—one is the scale, the other is what the scale measures against.
 

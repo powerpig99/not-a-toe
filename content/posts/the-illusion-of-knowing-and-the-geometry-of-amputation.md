@@ -57,9 +57,9 @@ graph TD
 5. **个体与集体的对抗**：面对抽象的集体、体制或群体标签，心智将自身的失落与张力投射为一个庞大的客体怪物，并误以为自己在反抗一个具象的实体；
 6. **个体与环境及命运的摩擦**：当情境超出预期时，心智将自身的适应摩擦直接归因为外部环境或命运的敌对。
 
-然而在实在的因果结构中：**除了每个独立心智在当下（t）的主权抉择之外，系统中不存在任何其他能够注入自由变量的源泉**。我们在宏观世界中所观察到的所谓“确定性”或“决定论规律”，实质上都是微观层面上非确定性与活态抉择的**统计学表征**。正如在 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)、[个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所指明的，当问题落脚到个体身上时，唯一的因果发生器始终是每一个心智在当下的主权抉择。将因果归咎于外部的确定性客体，不过是用统计学的宏观副产物掩盖了真正的主权现实。
+然而在实在的因果结构中：**除了每个独立心智在当下（t）的主权抉择之外，系统中不存在任何其他能够注入自由变量的源泉**。我们在宏观世界中所观察到的所谓“确定性”或“决定论规律”，实质上都是微观层面上非确定性与活态抉择的**统计学表征**。正如在 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)、[个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所指明的，当问题落脚到个体身上时，唯一的因果发生器始终是每一个心智在当下的主权抉择。将因果归咎于外部的确定性客体，不过是用统计学的宏观副产物掩盖了真正的主权现实。同一道切分也出现在[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)之中：从统计表象、亲密关系的定义陷阱到惯性与重力的活态机理。
 
-The genesis of external conflict stems from the mind's **externalized attribution** when processing perceptual signals.
+The genesis of external conflict stems from the mind's **externalized attribution** when processing perceptual signals. The same cut appears in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/): From Statistical Symptoms and the Definitional Trap of Intimacy to the Living Nature of Inertia and Gravity.
 
 When an external signal enters awareness, it does not exist as an unmeasured, naked object; rather, it is immediately parsed by the mind's own intentional coordinate frame, registering as a measurement readout along its internal axes. When this readout exhibits angular divergence or a negative projection, tension arises within the perceptual system.
 
@@ -123,9 +123,9 @@ graph TD
 
 当心智把这张自制的低维缩略图当作衡量对方活态生命的刚性标尺时，裁剪便发生了。
 
-当伴侣或子女展现出超出既有模型的变化时，这本是生命维度自然展开的表现；然而在持有固定标尺的心智看来，这一偏转打破了原有的测量预期。为了维持认知模型的确定性，心智便动用语言定性去进行认知层面的裁剪：“你就是这样的人”、“你改不了的”。这种做法试图削去对方所有溢出认知边界的维度，把活态的主体强行塞回固定的模版中。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，用静态概念去限定活态现实，是认知中常见的僭越。
+当伴侣或子女展现出超出既有模型的变化时，这本是生命维度自然展开的表现；然而在持有固定标尺的心智看来，这一偏转打破了原有的测量预期。为了维持认知模型的确定性，心智便动用语言定性去进行认知层面的裁剪：“你就是这样的人”、“你改不了的”。这种做法试图削去对方所有溢出认知边界的维度，把活态的主体强行塞回固定的模版中。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，用静态概念去限定活态现实，是认知中常见的僭越。[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)从另一面触及同一条轴线：从“基准真相”的迷思到不可垄断的智能边疆。
 
-Among all interpersonal relationships, the most subtle friction occurs between those who consider themselves closest.
+Among all interpersonal relationships, the most subtle friction occurs between those who consider themselves closest. [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) meets the same axis from another face: From the Myth of Static Reality to the Sovereign Frontier of Intelligence.
 
 This stems from an **illusion of cognitive asymmetry**:
 - With strangers, we recognize our lack of information and maintain caution;

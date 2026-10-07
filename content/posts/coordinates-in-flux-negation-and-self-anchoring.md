@@ -18,9 +18,9 @@ From the meta-reflexive trap of recursive judgment to the orthogonal expansion o
 
 更具张力的是思辨层面的递归风险：一旦试图去归纳、定义何为“显性覆辙”与“隐性覆辙”，心智便很容易走向另一个隐秘的裁判席——以一种洞察全局的姿态，在概念的制高点上索取更高维度的智性优越感。
 
-这种层层嵌套的“元反思陷阱”揭示出一个核心命题：为何一旦涉及认知与评价，心智无论是指向他人、指向过去的自身，还是指向思辨行为本身，都会不由自主地陷入靠“否定”来锚定位置的冲动？正如在 [大倒置的消解与活态哲学的开端](../the-dissolution-of-the-great-reversal/) 中所揭示的，只要心智把因果效力让渡给外部符号或静态标尺，就会不自觉地借助贬低外物来维系虚假的立足点。
+这种层层嵌套的“元反思陷阱”揭示出一个核心命题：为何一旦涉及认知与评价，心智无论是指向他人、指向过去的自身，还是指向思辨行为本身，都会不由自主地陷入靠“否定”来锚定位置的冲动？正如在 [大倒置的消解与活态哲学的开端](../the-dissolution-of-the-great-reversal/) 中所揭示的，只要心智把因果效力让渡给外部符号或静态标尺，就会不自觉地借助贬低外物来维系虚假的立足点。同一道切分也出现在[以知为刃的截肢与解脱](../the-illusion-of-knowing-and-the-geometry-of-amputation/)之中：从内在感知的澄明走向心智共鸣。
 
-When encountering the phenomenon of "denigration," consciousness easily slides into a multi-layered recursive trap.
+When encountering the phenomenon of "denigration," consciousness easily slides into a multi-layered recursive trap. The same cut appears in [The Illusion of Knowing and the Geometry of Amputation](../the-illusion-of-knowing-and-the-geometry-of-amputation/): From Internal Epistemic Clarity to Living Resonance.
 
 The initial fracture stems from the self-referential paradox of the proposition itself: by categorizing someone else's bid for superiority as "low-cost," the speaker immediately assumes an unearned intellectual high ground.
 Next comes the first overt inertia—projecting outward: declaring that "people like this are everywhere." While masquerading as ethical reflection, this condemnation of denigrators conveniently seizes moral altitude, covertly manufacturing a cheap sense of superiority.
@@ -42,9 +42,9 @@ This nested meta-reflexive snare uncovers a fundamental question: why does the m
 
 心智所看见的“别人”，从来不是独立于心智之外的客观孤岛，而是心智自身在特定情境下选择投射与映射的显现，是经由他者所映照出的心智自身的一部分。心智所能感知、体验与理解的边界，构成了其认知的全部疆域。在敞开的流动中，通过割裂并排斥他人来确立自己，在逻辑上是无法自洽的。
 
-每一次出于优越感的否定，看似压低了对方，实则是在心智自身的完整地图上人为割去了一块盲区。否定他人，本质上是在向内自我削减。越是急于借助排他来占座，心智所占据的有效视野反而越发逼仄。在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中我们看到，概念的牢笼正是由这种向内切割的排他性划界所筑成。
+每一次出于优越感的否定，看似压低了对方，实则是在心智自身的完整地图上人为割去了一块盲区。否定他人，本质上是在向内自我削减。越是急于借助排他来占座，心智所占据的有效视野反而越发逼仄。在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中我们看到，概念的牢笼正是由这种向内切割的排他性划界所筑成。[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)从另一面触及同一条轴线：能力为何沦为束缚，以及对AI智能体能力的母体误归因。
 
-The root of this compulsion lies in the habitual reliance on negation to establish an exclusive self-identity.
+The root of this compulsion lies in the habitual reliance on negation to establish an exclusive self-identity. [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) meets the same axis from another face: Why Capabilities Become Limitations and the Master Misattribution of AI Agents.
 
 Anchoring oneself through negation rests on the subconscious assumption that reality is a rigid, closed container. Within such a zero-sum, fixed-volume shell, space is strictly finite. For the present self to secure standing, it feels compelled to carve out room by force—either by expelling the other or by aggressively erasing past iterations of itself. Denigrating others thus becomes the most frictionless, reflexive tactic for claiming territory within the illusion of zero-sum competition.
 
@@ -71,7 +71,7 @@ Every act of negation driven by a bid for superiority appears to diminish the ot
 进而反思到这一行为，又为了确立清醒而对“过去的自己”再次压缩；
 最后甚至试图对“这种递归反思”本身进行高下界定。
 
-每一轮基于否定的排序，都是一次维度的自我折叠。心智不断舍弃掉自身广阔的自由度，把感知力收缩为一根逼仄的标尺。那些说出口的话最终落在自己脚下，像一道正在缩小的影子，这并非文学的比喻，而是心智在递归压缩中的必然代价：为了在一维数轴上占稳一个“比别人更靠前”的位置，代价是心智自身自由度的整体塌陷。
+每一轮基于否定的排序，都是一次维度的自我折叠。心智不断舍弃掉自身广阔的自由度，把感知力收缩为一根逼仄的标尺。那些说出口的话最终落在自己脚下，像一道正在缩小的影子，这并非文学的比喻，而是心智在递归压缩中的必然代价：为了在一维数轴上占稳一个“比别人更靠前”的位置，代价是心智自身自由度的整体塌陷。[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)从另一面触及同一条轴线：从“基准真相”的迷思到不可垄断的智能边疆。
 
 ```mermaid
 graph TD
@@ -110,7 +110,7 @@ graph TD
     style B4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-From the perspective of causal topology, things in reality exhibit qualitative differentiation, never inherent scalar hierarchy.
+From the perspective of causal topology, things in reality exhibit qualitative differentiation, never inherent scalar hierarchy. [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) meets the same axis from another face: From the Myth of Static Reality to the Sovereign Frontier of Intelligence.
 
 Even the rich, non-linear open manifolds perceived by awareness are projections or statistical macro-symptoms of a near-infinite orthogonal binary hyperspace under specific observation frames. Within this foundational manifold of vast orthogonal degrees of freedom, differences represent orthogonal distributions across distinct dimensions; in terms of informational structure, no global scalar partial ordering exists.
 
@@ -159,7 +159,7 @@ As articulated in [Climbing Does Not Leave the Ground](../climbing-does-not-leav
 
 **低维映射本是看清自身的工具，而非禁锢生命的法庭；否定过往本是代谢成长的阶梯，而非自我优越的奖杯**。心智所照见的世界原本完整，若能接纳其流转与敞开，便无须借由贬低他者来确认立足点；认知的成长是一场持续的生成，若能正视其未完成的状态，便无须借由踩踏过去来维持道德或智识上的虚荣。
 
-坐标在当下这一刻可以被清晰地确立——它是超空间统计表象中基于具体情境的实时展开与观察；但它不需要被压缩为一维的刻度，更不需要被固定为一座审判的高台。当下的觉察不是面向历史的终审判决，而是心智朝向未来时，一个保持延展、保持敏锐的活态参考原点。
+坐标在当下这一刻可以被清晰地确立——它是超空间统计表象中基于具体情境的实时展开与观察；但它不需要被压缩为一维的刻度，更不需要被固定为一座审判的高台。当下的觉察不是面向历史的终审判决，而是心智朝向未来时，一个保持延展、保持敏锐的活态参考原点。[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)在另一种负载下描摹了同一几何：几何视角下的投影、冲突与电磁同频。
 
 ```mermaid
 graph TD
@@ -193,7 +193,7 @@ graph TD
     style Act3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-Returning to the establishment of cognitive coordinates: in an era saturated with external noise and rapid feedback, how does consciousness maintain its own ground within a shifting environment?
+Returning to the establishment of cognitive coordinates: in an era saturated with external noise and rapid feedback, how does consciousness maintain its own ground within a shifting environment? [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) traces this geometry under a different load: Projections, Conflict, and Electromagnetic Resonance.
 
 The resolution does not lie in erecting an immovable fortress to proclaim righteousness, but in releasing the compulsion to seize territory through negation and scalar ranking.
 

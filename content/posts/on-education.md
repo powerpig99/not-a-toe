@@ -16,7 +16,7 @@ This sounds obvious, but follow the implication: the more systematically you opt
 
 越是有效的教育方式，越是限制孩子的潜力。越是追求教育方式的家长，越可能成为孩子成长的限制。
 
-The more "effective" the method, the more it limits the child's potential. The more a parent pursues the right method, the more likely they become the ceiling.
+The more "effective" the method, the more it limits the child's potential. The more a parent pursues the right method, the more likely they become the ceiling. [The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle](../the-fallacy-of-post-success-parenting/) traces this geometry under a different load: True capability is forged exclusively through micro-decisions made under friction and constraint; when successful parents mistake their accumulated surplus for a formula, attempt to clone their own path, and insulate their children from raw reality, they dismantle the very engine required for their offspring to surpass them.
 
 I've tried every approach. Read countless books. Every method that seemed to work came with larger side effects. And even with just two kids in the same household, the same method never works the same way. Because the causal weight lives inside the child, not in the method. The method is a minor perturbation on a self-organizing system.
 

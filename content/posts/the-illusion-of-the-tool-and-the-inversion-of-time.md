@@ -47,11 +47,11 @@ graph TD
     style TheFirstInversion fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
 ```
 
-在活生生的因果演进中，主权心智在当下划定的每一个非零区分（+1），都真实创生了全新的因果关系，并构成了不可逆的历史初始条件。任何纸面上的对称回溯，都无法撤销已经落定的因果事实。
+在活生生的因果演进中，主权心智在当下划定的每一个非零区分（+1），都真实创生了全新的因果关系，并构成了不可逆的历史初始条件。任何纸面上的对称回溯，都无法撤销已经落定的因果事实。[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)在另一种负载下描摹了同一几何：能力为何沦为束缚，以及对AI智能体能力的母体误归因。
 
 ---
 
-A fundamental clarification must be established at the outset: **Critiquing the idealized assumptions of physics and mathematics is in no way a dismissal of their extraordinary validity.**
+A fundamental clarification must be established at the outset: **Critiquing the idealized assumptions of physics and mathematics is in no way a dismissal of their extraordinary validity.** [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) traces this geometry under a different load: Why Capabilities Become Limitations and the Master Misattribution of AI Agents.
 
 Classical mechanics, general relativity, and calculus remain the most formidable cognitive instruments in human history:
 * Mathematical physics and conservation laws capture the stable macro-invariants of causality with unmatched fidelity;

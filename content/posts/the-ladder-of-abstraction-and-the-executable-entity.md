@@ -22,9 +22,9 @@ From raw perception partitioned into concepts, to concepts reasoned into invaria
 
 至此，人类心智搭建起了一座恢弘的第二阶符号宫殿。概念是砖石，定律是拱券，心智在此得以测绘星辰、预演风暴。
 
-必须在此确立一个根本性的本体论定盘星：我们在此划分的“感知、概念、形式定律”，纯粹是为了便于思辨讨论而建立的分析阶梯。它们是底层微观不确定性在宏观层面上呈现的**统计表象（Macro Statistical Symptoms）**，绝非宇宙本身的客观本体论真相。在物理与认知的宏观展开中，实在从来没有在何处突兀地断裂——从连续的生理激波到概念的聚类，再到因果规律的提炼，整个演化过程是完全**连续的（Continuous）**。物理宇宙中真正的离散性，仅仅存在于最底层的**普朗克尺度（ħ ≠ 0）**。在这一物理实在的最小刷新率上，微观不确定性与非零因果跃迁构成了不可分割的离散量子步长。而当我们跨越数十个数量级进入宏观世界时，万亿亿次微观离散事件被大数定律抹平为光滑、连贯的经验流。有限心智为了在微观不确定性所涌现的宏观湍流中存续与交流，才切分出“感知”、“概念”与“定律”的分析标签。若把这些宏观统计切片误认为世界本身的本体论阶梯，便又一次重蹈了将观测切分误作宇宙基底的“框架遗忘症”。
+必须在此确立一个根本性的本体论定盘星：我们在此划分的“感知、概念、形式定律”，纯粹是为了便于思辨讨论而建立的分析阶梯。它们是底层微观不确定性在宏观层面上呈现的**统计表象（Macro Statistical Symptoms）**，绝非宇宙本身的客观本体论真相。在物理与认知的宏观展开中，实在从来没有在何处突兀地断裂——从连续的生理激波到概念的聚类，再到因果规律的提炼，整个演化过程是完全**连续的（Continuous）**。物理宇宙中真正的离散性，仅仅存在于最底层的**普朗克尺度（ħ ≠ 0）**。在这一物理实在的最小刷新率上，微观不确定性与非零因果跃迁构成了不可分割的离散量子步长。而当我们跨越数十个数量级进入宏观世界时，万亿亿次微观离散事件被大数定律抹平为光滑、连贯的经验流。有限心智为了在微观不确定性所涌现的宏观湍流中存续与交流，才切分出“感知”、“概念”与“定律”的分析标签。若把这些宏观统计切片误认为世界本身的本体论阶梯，便又一次重蹈了将观测切分误作宇宙基底的“框架遗忘症”。同一道切分也出现在[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)之中：形式模型、宏观摩擦，以及未被定律决定的现实。
 
-Every profound encounter between the mind and reality involves a drastic shedding of sensory noise and a higher-dimensional distillation of invariants.
+Every profound encounter between the mind and reality involves a drastic shedding of sensory noise and a higher-dimensional distillation of invariants. The same cut appears in [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/): Formal Models, Macroscopic Friction, and a Reality Undetermined by Law.
 
 At the sensory origin, the universe bombards biological nerve endings with continuous, raw, irreversible impressions: the sting of heat, flashes of light, the bite of subarctic wind, and the visceral pangs of hunger. Were the mind to remain trapped within this zero-order baseline of immediate reflex, life would drift passively like a protozoan, reacting blindly to local gradients.
 

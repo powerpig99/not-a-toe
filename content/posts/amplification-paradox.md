@@ -4,19 +4,19 @@ The better AI tools get, the more the differential depends on the human operatin
 
 ## The Expectation
 
-The standard narrative projects AI on the axis of substitution: as capability increases, human contribution decreases. Intelligence is treated as a fixed quantity of work to be done — the more the machine handles, the less remains for the person. On this axis, sufficiently powerful AI converges toward full replacement. The human contribution approaches zero.
+The standard narrative projects AI on the axis of substitution: as capability increases, human contribution decreases. Intelligence is treated as a fixed quantity of work to be done — the more the machine handles, the less remains for the person. On this axis, sufficiently powerful AI converges toward full replacement. The human contribution approaches zero. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) traces this geometry under a different load: If the human is irreplaceable, replacement fails; if replaceable, still not by its own creation — creation already marks the source as outside the created.
 
 ## The Mechanism
 
 What actually operates is amplification, and amplification has the opposite geometry.
 
-An AI system processes crystallized traces — patterns extracted from the residue of prior human thinking, compressed and recombineable at scale. The system doesn't sense, doesn't originate, doesn't feel the difference between a path that's structurally sound and one that merely resembles structural soundness. It generates candidates. The human supplies the selection pressure: the sensing that precedes interpretation, the felt recognition of fit, the willingness to dissolve a frame rather than optimize within it.
+An AI system processes crystallized traces — patterns extracted from the residue of prior human thinking, compressed and recombineable at scale. The system doesn't sense, doesn't originate, doesn't feel the difference between a path that's structurally sound and one that merely resembles structural soundness. It generates candidates. The human supplies the selection pressure: the sensing that precedes interpretation, the felt recognition of fit, the willingness to dissolve a frame rather than optimize within it. The same cut appears in [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/): The appearance of a second edge is lag sustained by the centers that project it; the parameters hold only residue.
 
 As the system's candidate-generation capacity scales, the space of possibilities it presents expands. More candidates means more paths to evaluate, more subtle distinctions between productive and merely plausible directions. The demand on human sensing doesn't decrease — it intensifies. The tool that generates a thousand candidate paths requires sharper judgment than the one that generates ten.
 
 ## The Collapse
 
-The substitution narrative collapses two orthogonal axes onto one:
+The substitution narrative collapses two orthogonal axes onto one: The same cut appears in [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/): The digital god projected onto silicon cannot jump across the event horizon of physical friction.
 
 **Candidate generation** — the combinatorial exploration of possibility space. This scales with compute, data, architecture. AI systems increasingly dominate this axis.
 

@@ -6,7 +6,7 @@ Across every domain of inquiry, human cognition tends to be hypnotized by massiv
 
 ## Causality, Time, and Spacetime Invariants
 
-We can radically simplify our understanding of the universe by recognizing that **time is not something separate from causality**.
+We can radically simplify our understanding of the universe by recognizing that **time is not something separate from causality**. [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) meets the same axis from another face: From the anatomy of AI's "Abstraction Fallacy" to physicalism's ontological inversion of causality and substrate.
 
 Causality itself has no beginning and no ending; it is the continuous, unbroken fabric of existence. However, for an observer to model and navigate reality:
 
@@ -37,7 +37,7 @@ This brings us to the profound duality of how this causal horizon is perceived:
 
 ## The Epistemological Horizon: The Mind as the Boundary of Experienced Reality
 
-This establishes the foundational epistemological limit: **the individual mind is the unavoidable horizon within which any model of reality is experienced, formulated, and tested**.
+This establishes the foundational epistemological limit: **the individual mind is the unavoidable horizon within which any model of reality is experienced, formulated, and tested**. [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) traces this geometry under a different load: When intermediate causal bounces are occluded, ordinary consequences appear as baffling magic; perceived conflict is simply a missing causal link within our internal model, and tracing the rebound is the deliberate expansion of our own perceptual horizon toward coherent reality.
 
 Whenever we theorize about an objective physical reality, we are inevitably doing so from within the cognitive compiler of our own first-person consciousness:
 
@@ -45,7 +45,7 @@ Whenever we theorize about an objective physical reality, we are inevitably doin
 * **Consciousness as Internal State Selection**: What we label subjectively as "free will," "attention," or "conscious intent" represents the first-person lived experience of that same state selection at the micro origin point;
 * **The Impossibility of the Unmediated Step-Out**: No individual agent can step outside the boundary of their own mind to observe an unmediated, observer-independent world.
 
-Acknowledging this boundary is not a retreat into solipsism, but the bedrock of epistemological consistency: all macroscopic models—from physical laws to economic structures—are cognitive scaffolding compiled by conscious observers to navigate real-world friction. Outside of conscious measurement and first-person engagement, reality cannot be ascribed definitive narrative meaning.
+Acknowledging this boundary is not a retreat into solipsism, but the bedrock of epistemological consistency: all macroscopic models—from physical laws to economic structures—are cognitive scaffolding compiled by conscious observers to navigate real-world friction. Outside of conscious measurement and first-person engagement, reality cannot be ascribed definitive narrative meaning. [The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle](../the-fallacy-of-post-success-parenting/) meets the same axis from another face: True capability is forged exclusively through micro-decisions made under friction and constraint; when successful parents mistake their accumulated surplus for a formula, attempt to clone their own path, and insulate their children from raw reality, they dismantle the very engine required for their offspring to surpass them.
 
 ## First-Principles Grounding vs. Operational Shorthands
 
@@ -59,7 +59,7 @@ In physics, engineering, economics, and everyday life, higher-level macroscopic 
 
 As long as the necessary initial conditions and local constraints of a given domain are correctly identified, causal logic operates with complete practical accuracy. 
 
-The purpose of establishing this generative atlas is not to disqualify useful domain-specific models, but to **clarify the ultimate epistemological base of reality**. It ensures that while we freely utilize effective macroscopic shorthands, we never fall into the trap of mistaking these useful models for self-existent, top-down metaphysical entities.
+The purpose of establishing this generative atlas is not to disqualify useful domain-specific models, but to **clarify the ultimate epistemological base of reality**. It ensures that while we freely utilize effective macroscopic shorthands, we never fall into the trap of mistaking these useful models for self-existent, top-down metaphysical entities. The same cut appears in [Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control](../guidance-is-not-ownership/): Every conscious mind is the sole non-transferable author of its own selections; because parents unilaterally choose to bring a child into existence, their structural duty is to provide environmental boundaries, causal models, and a supportive relationship—never to usurp the driver's seat, nor to be held as the guarantors of a future that belongs solely to the child.
 
 ## The Secondary Nature of Computation and Simulation
 
@@ -114,7 +114,7 @@ This brings us to a rigorous, unambiguous definition of **Action**:
 
 > **Action is literally the individual choice manifested causally through the physical and biological substrate.**
 
-Choice without substrate manifestation is an idle mental phantom; physical motion without conscious choice is deterministic automata. **Action is the precise interface where sovereign first-person agency couples with material reality.** Without individual choice, the individual—and by extension, the entire edifice of human civilization—collapses into a mindless, deterministic machine.
+Choice without substrate manifestation is an idle mental phantom; physical motion without conscious choice is deterministic automata. **Action is the precise interface where sovereign first-person agency couples with material reality.** Without individual choice, the individual—and by extension, the entire edifice of human civilization—collapses into a mindless, deterministic machine. [The Geometry of Emergence](../the-geometry-of-emergence/) traces this geometry under a different load: Emergence is fundamentally the transition where the unobservable becomes observable, coupled at every scale with the conscious choice of resolution by the observing Mind.
 
 You cannot alter a macroscopic shadow by pushing against the projection screen. You cannot fix a culture by preaching at the collective, nor can you redirect a historical cycle by fighting an abstract label.
 

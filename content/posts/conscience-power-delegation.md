@@ -8,7 +8,7 @@ A seller has exactly one power: the power to refuse. Refuse the sale, terminate 
 
 What it is not is a continuing jurisdiction. Once title transfers, once the product ships, once the sovereign government takes delivery under its own authorities, the seller's power to determine use evaporates. The buyer determines use. The seller determines only whether the buyer remains a customer.
 
-This boundary is structural, not legal. A commercial transaction does not delegate authority — it exchanges one thing for another and terminates the seller's relationship to the object's future. SpaceX can deactivate a Starlink terminal for violating terms of service. It cannot dictate what the terminal is used for while active. These are categorically different operations: one exercises boundary power, the other claims jurisdictional power that was never granted.
+This boundary is structural, not legal. A commercial transaction does not delegate authority — it exchanges one thing for another and terminates the seller's relationship to the object's future. SpaceX can deactivate a Starlink terminal for violating terms of service. It cannot dictate what the terminal is used for while active. These are categorically different operations: one exercises boundary power, the other claims jurisdictional power that was never granted. [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) meets the same axis from another face: The same trait that makes AI look like a genius is the trait that keeps every response downstream of inputs — and the power that seems to leave for the model, the expert, or the collective was never taken; it was allocated by treating fluent receptivity as an independent source of the next step.
 
 ## The Escalation
 

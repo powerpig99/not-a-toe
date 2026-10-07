@@ -42,11 +42,11 @@ graph TD
     style MathematicalAbstraction fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
 ```
 
-正如[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)所揭示的，只要信息在形式变换中保持守恒，符号游戏便能制造出一种“完美宇宙模型”的智力自洽。对于大众而言，这一神话更为坚不可摧。极少有人亲自推导那些庞大复杂的张量方程，人们之所以对大爆炸与四维时空深信不疑，仅仅因为那是学术机构背书的既定常识。然而，正如[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所指出的，所谓既定科学只是特定框架下的低维出清价；即便在顶级理论家之间，不同学派对同一套数学形式的内在理解也截然不同。
+正如[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)所揭示的，只要信息在形式变换中保持守恒，符号游戏便能制造出一种“完美宇宙模型”的智力自洽。对于大众而言，这一神话更为坚不可摧。极少有人亲自推导那些庞大复杂的张量方程，人们之所以对大爆炸与四维时空深信不疑，仅仅因为那是学术机构背书的既定常识。然而，正如[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所指出的，所谓既定科学只是特定框架下的低维出清价；即便在顶级理论家之间，不同学派对同一套数学形式的内在理解也截然不同。[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)在另一种负载下描摹了同一几何：形式模型、宏观摩擦，以及未被定律决定的现实。
 
 ---
 
-Within our severely limited observational window, the cosmos exhibits a powerful illusion of stability. The stars appear fixed in the night sky, planets cycle through predictable orbits, and gravitational acceleration remains steady at human scales. Over an infinitesimal baseline (Δt approaching 0), any real scientific instrument requires a finite exposure window to capture signals—physics effectively collects the most adjacent frames of the living movie. Because this exposure interval is exceedingly brief, the image remains relatively stable across these immediate frames, and human perception naturally treats the local environment as a self-contained, closed, and static equilibrium system.
+Within our severely limited observational window, the cosmos exhibits a powerful illusion of stability. The stars appear fixed in the night sky, planets cycle through predictable orbits, and gravitational acceleration remains steady at human scales. Over an infinitesimal baseline (Δt approaching 0), any real scientific instrument requires a finite exposure window to capture signals—physics effectively collects the most adjacent frames of the living movie. Because this exposure interval is exceedingly brief, the image remains relatively stable across these immediate frames, and human perception naturally treats the local environment as a self-contained, closed, and static equilibrium system. [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) traces this geometry under a different load: Formal Models, Macroscopic Friction, and a Reality Undetermined by Law.
 
 This felt invariance of immediate perception invites the most insidious category jump in theoretical physics: because the local environment behaves like a static, isolated box over brief intervals, mathematicians casually strip irreversible physical time out of their equations. Once living causality is removed and reality is reduced to a frozen slice, arbitrary dimensional projections become child's play on paper.
 
@@ -98,11 +98,11 @@ graph LR
 
 在这张黑白采样帧中，只剩下了孤立的点、坐标轴与数值向量。更荒谬的是，物理学不仅满足于对这一单帧进行数学描述，它进而把这一张被高度抽空的黑白幻灯片，沿虚构的时间轴向前后拉伸，制造出一个四维静态几何体，并宣称这个由单一采样帧外推出来的数学挤压体，才是宇宙的全部真相。
 
-正如[时间是因果，不是维度](../time-is-causality-not-a-dimension/)所阐明的，将时间视为第四个空间维度，本质上就是把电影胶片一次性全部摊开在桌面上。但宇宙中没有任何一个人能够站在桌子之外审视整条胶片；你所拥有的全部物理现实，就是放映机光束穿透当前胶片的那一瞬间。
+正如[时间是因果，不是维度](../time-is-causality-not-a-dimension/)所阐明的，将时间视为第四个空间维度，本质上就是把电影胶片一次性全部摊开在桌面上。但宇宙中没有任何一个人能够站在桌子之外审视整条胶片；你所拥有的全部物理现实，就是放映机光束穿透当前胶片的那一瞬间。[当电子开始思考](../when-electrons-think/)从另一面触及同一条轴线：光速渲染率、无质量动态波与宏观确定性的诞生。
 
 ---
 
-Reality is not an inert geometric artifact displayed in a glass museum case. In lived experience and physical action, the universe is a high dynamic range (HDR) movie playing forward in real time. Every tick of the clock brings irreversible thermodynamic dissipation, metabolic stress, and the injection of a novel causal distinction (+1). The past exists only as settled residue; the future is unwritten potential; only the unfolding present possesses ontological reality.
+Reality is not an inert geometric artifact displayed in a glass museum case. In lived experience and physical action, the universe is a high dynamic range (HDR) movie playing forward in real time. Every tick of the clock brings irreversible thermodynamic dissipation, metabolic stress, and the injection of a novel causal distinction (+1). The past exists only as settled residue; the future is unwritten potential; only the unfolding present possesses ontological reality. [When Electrons Think](../when-electrons-think/) meets the same axis from another face: The Rendering Velocity of Light, Massless Dynamic Waves, and the Emergence of Determinism.
 
 Yet theoretical physics begins its modeling through a violent act of reduction. It collects the most adjacent frames of this unfolding movie over an infinitesimal exposure window. Because the interval is so brief, the scene appears remarkably stable. Physics then performs a decisive averaging operation: it smooths across these adjacent frames, averaging out micro-fluctuations, living flickers, and metabolic noise into a single, highly stable composite "average frame."
 

@@ -18,7 +18,7 @@ The category error occurs when the residue is mistaken for the ceiling of inquir
 
 ## The anatomy of felt "loss of curiosity"
 
-Curiosity is the felt tendency of the minded locus to self-distinguish—this from that, new from already-registered. That generative tendency does not diminish with age, education, or fatigue. What changes is the reference against which the mind evaluates incoming traces.
+Curiosity is the felt tendency of the minded locus to self-distinguish—this from that, new from already-registered. That generative tendency does not diminish with age, education, or fatigue. What changes is the reference against which the mind evaluates incoming traces. The same cut appears in [What Information Is](../what-information-is/): Information is not a substrate waiting in the physical world; it is the discrete distinction registered by the unceasing activity of the Mind.
 
 As successive distinctions accumulate, they cohere into a dense, retained self-image ("I am an expert," "I already understand the landscape"). When novel impressions land in the perceptual field:
 
@@ -46,4 +46,4 @@ Theories and academic disciplines are merely historical traces left in the wake 
 
 There is no final form of curiosity because the minded activity that generates distinctions has no outside at which it could permanently close. The universe of inquiry does not converge onto three canonized titles; it expands with every single distinction drawn.
 
-[Openness is consistency](../openness-is-consistency/) anchors the conclusion: refusing to seal inquiry into closed systems is the only stance consistent with the living nature of reality. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) remains the ultimate engine: the boundary of human understanding is not defended by canonizing old monuments, but expanded whenever an individual freely chooses to follow the next unscripted question.
+[Openness is consistency](../openness-is-consistency/) anchors the conclusion: refusing to seal inquiry into closed systems is the only stance consistent with the living nature of reality. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) remains the ultimate engine: the boundary of human understanding is not defended by canonizing old monuments, but expanded whenever an individual freely chooses to follow the next unscripted question. [The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction](../the-generative-atlas-of-macroscopic-phenomena/) traces this geometry under a different load: Causality itself is the single fundamental primitive of reality, having no beginning and no ending, bounded only by the observer's finite but dynamic epistemological horizon.

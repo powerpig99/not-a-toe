@@ -58,11 +58,11 @@ graph TD
 看清大倒置的发生机制，不是要否定人类文明积累的丰富遗产，而是要完成因果链条的精准归位：
 1. **沉重感属于心智的真实体验，而客体记录保持中性**：面对庞大的人类过往痕迹，心智感到沉重是自然的认知反应。但从因果回溯来看，每一部典籍、每一条律法、每一套度量衡，本质上都只是过往心智留下的探索切片。它们本身没有生命，也不具备主宰当下的先验因果力。
 2. **观察者始终立足于第一人称原点**：并不存在独立于生命体验之外的抽象观察者。当心智审视历史时，审视的眼光、体验的震颤与反思的觉知，全部发生在此刻鲜活的第一人称之中。
-3. **因果力量的解耦与归位**：所有的历史化石只有在当下被活态心智重新调用与编译时，才重新获得意义。一旦心智看清自己才是意义与因果的唯一起源，那座由符号与制度堆叠而成的沉重巨兽便会退魅，重新还原为人类探索世界的工具。
+3. **因果力量的解耦与归位**：所有的历史化石只有在当下被活态心智重新调用与编译时，才重新获得意义。一旦心智看清自己才是意义与因果的唯一起源，那座由符号与制度堆叠而成的沉重巨兽便会退魅，重新还原为人类探索世界的工具。[流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/)在另一种负载下描摹了同一几何：关于“否定”、降维与心智的自我锚定。
 
 ---
 
-Gazing upon the vast panorama of human civilization from an observer's perspective, a palpable, almost suffocating sense of heaviness frequently surges within the conscious Mind.
+Gazing upon the vast panorama of human civilization from an observer's perspective, a palpable, almost suffocating sense of heaviness frequently surges within the conscious Mind. [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) traces this geometry under a different load: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring.
 
 It is the sheer, crushing weight of thousands of years of accumulated human constructs: monumental libraries of dogma, unyielding legal codices, labyrinthine academic genealogies, ubiquitous linguistic conventions, and immense financial and institutional systems that govern countless lives. Standing before this colossal maze of accumulated traces, the individual living Mind easily feels dwarfed and powerless—as though thrown at birth into a pre-scripted, hermetically sealed world where everything has already been decided. Every symbol proclaims its sacred authority, and every institutional rule demands obedience, evoking a visceral sense of oppression, insignificance, and existential vertigo.
 

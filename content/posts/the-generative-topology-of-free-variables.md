@@ -10,7 +10,7 @@ Causality operates as an unbroken, infinite chain:
 
 > ... → Cause → Effect → Cause → Effect → ... (—∞ → +∞)
 
-It has no absolute beginning and no final closure. Yet the Mind, operating as a localized conscious observer, cannot hold the infinite entirety. At any given moment, cognition necessarily truncates the continuum into a local observational window: an **epistemological horizon** bounded by an apparent beginning and an apparent ending.
+It has no absolute beginning and no final closure. Yet the Mind, operating as a localized conscious observer, cannot hold the infinite entirety. At any given moment, cognition necessarily truncates the continuum into a local observational window: an **epistemological horizon** bounded by an apparent beginning and an apparent ending. The same cut appears in [The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction](../the-generative-atlas-of-macroscopic-phenomena/): Causality itself is the single fundamental primitive of reality, having no beginning and no ending, bounded only by the observer's finite but dynamic epistemological horizon.
 
 Crucially, this horizon is not fixed. It is dynamic, continuously expanding and recalibrating as the observer moves through reality. 
 
@@ -49,7 +49,7 @@ The boundary where the unknown becomes known is simultaneously the boundary wher
 
 ## The Free Variable: Inertia, Complementarity, and Macro Identities
 
-At the split second a causal node crosses into realization, it functions mathematically as a **Free Variable (*V*)**. [The only coherent uncaused effect](../the-only-coherent-uncaused-effect/) identifies this moment as sovereign choice: the single aperture through which consciousness breaks deterministic mechanical simulations and introduces an un-derived degree of freedom into reality.
+At the split second a causal node crosses into realization, it functions mathematically as a **Free Variable (*V*)**. [The only coherent uncaused effect](../the-only-coherent-uncaused-effect/) identifies this moment as sovereign choice: the single aperture through which consciousness breaks deterministic mechanical simulations and introduces an un-derived degree of freedom into reality. [The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication](../the-continuum-of-the-fold/) meets the same axis from another face: Consciousness is not an anthropocentric privilege but the operational velocity of self-referential feedback—meaning the alien is separated by scale, not space, and minds communicate only through the shock of internal disruption.
 
 A free variable possesses basic inertia: once actualized into a state (such as binary 0 or 1), it remains unchanged unless it interacts with its environment. 
 
@@ -86,7 +86,7 @@ When an individual operates with sovereign ownership, taking responsibility for 
 * The discrepancy between the expected outcome and the actual consequence functions as an unbuffered **loss function**;
 * The individual modifies their decision-making weights, updates their internal model, and expands their perceptual horizon.
 
-As traced across [Curiosity first, compounded capability downstream](../curiosity-first-the-hidden-engine-of-talent-and-development/) and [Ownership and self-worthiness](../ownership-and-self-worthiness/), this is the sole engine of human growth. Every honest collision with reality tightens the loop, increases predictive resolution, and extends the individual's reach further down the infinite causal continuum.
+As traced across [Curiosity first, compounded capability downstream](../curiosity-first-the-hidden-engine-of-talent-and-development/) and [Ownership and self-worthiness](../ownership-and-self-worthiness/), this is the sole engine of human growth. Every honest collision with reality tightens the loop, increases predictive resolution, and extends the individual's reach further down the infinite causal continuum. The same cut appears in [The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon](../the-geometry-of-mind/): True growth is neither the defensive fortification of the ego nor its nihilistic erasure, but the alignment of the local sensor with the whole generative field of reality.
 
 ## The Asymmetric Coupling: How Dependency and Cognitive Atrophy Form
 
@@ -110,7 +110,7 @@ Examining this dynamic at scale is not an ideological exercise for or against in
 
 Human societies evolve precisely by constructing higher and higher levels of abstraction out of interlocking feedback loops. Just as cells combine to form tissues and organisms, human agents interact to generate legal codes, market networks, monetary systems, and administrative states. 
 
-Yet these higher-order abstractions are created through the ongoing evolution and **relative obsolescence of individuals**. Obsolescence here is not physical extinction; it is a relative divergence in capability. The misallocation of agency acts as the feedback accelerator of this evolutionary diversification:
+Yet these higher-order abstractions are created through the ongoing evolution and **relative obsolescence of individuals**. Obsolescence here is not physical extinction; it is a relative divergence in capability. The misallocation of agency acts as the feedback accelerator of this evolutionary diversification: [The Other Coherence](../the-other-coherence/) traces this geometry under a different load: Quantum phase alignment in a neuron is a physical mechanism timeable in a laboratory; the coherence through which an experienced world holds together as a single unified field while remaining open to what arrives next is an entirely different order of reality.
 
 * Those who surrender agency allow their internal causal models to lag behind the moving frontier, drifting into relative obsolescence;
 * The institutions formed by these surrendered responsibilities become massive, dense macro-entities that dominate the perceptual landscape.
@@ -132,7 +132,7 @@ Because absolute, 100% personal responsibility is an asymptotic ideal that no fi
 4. **The High-Agency Trap (The Savior / Override Reflex)**:
    Formidable, high-agency individuals frequently fall into the dangerous conceit that they can—and should—make decisions for other people, whether through direct micromanagement or institutional leverage. This well-intentioned or hubristic impulse immediately spawns dependency loops. It represents a hidden misallocation of the actor's own agency: they exhaust their finite cognitive energy attempting to manage and optimize the feedback loops of *others*, rather than focusing on the only loop they truly control—their own recursive self-improvement.
 
-In practice, no individual occupies a single posture in perpetuity. A person may operate as a clear-eyed navigator within their professional craft, while simultaneously succumbing to the high-agency savior trap within family dynamics, or seeking the comfort of an institutional buffer when facing unexpected crises. The value of this abstraction is not to classify personalities into static boxes, but to trace the dynamic spectrum where a mind leaks its sovereign causality into externalized loops versus where it maintains direct ownership of its error signals.
+In practice, no individual occupies a single posture in perpetuity. A person may operate as a clear-eyed navigator within their professional craft, while simultaneously succumbing to the high-agency savior trap within family dynamics, or seeking the comfort of an institutional buffer when facing unexpected crises. The value of this abstraction is not to classify personalities into static boxes, but to trace the dynamic spectrum where a mind leaks its sovereign causality into externalized loops versus where it maintains direct ownership of its error signals. [Agency, Compounding, and the Argument Over AI Feudalism](../agency-compounding-and-the-argument-over-ai-feudalism/) traces this geometry under a different load: The debate over whether superintelligence closes social mobility mistakes a finite starting intercept for a dynamic rate of improvement; AI has no agency of its own, but merely accelerates the reinforcement loop the individual already maintains.
 
 ## The Paradox of Political Individualism: A Minor Dialect of Collectivism
 
