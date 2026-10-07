@@ -267,7 +267,16 @@ Asimov attributes resistance against innovation to the proactive pushback of ves
 
 Rousseau's chains compare current configuration with a freedom unbound by traces; freedom is the next distinction still being drawable, so chains belong to interpretation under crowded finite axes.
 
-→ [作茧是观察到的现象，自缚是对现象的解读](../../posts/zuo-jian-bu-shi-zi-fu/) · [Freedom as Ground](../../posts/freedom-as-ground/) · [有条件的自由](../../posts/you-tiao-jian-de-zi-you/)
+→ [作茧是观察到的现象，自缚是对现象的解读](../../posts/zuo-jian-bu-shi-zi-fu/) · [Freedom as Ground](../../posts/freedom-as-ground/) · [有条件的自由](../../posts/you-tiao-jian-de-zi-you/) · [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/)
+
+### 让-保罗·萨特 / Jean-Paul Sartre
+`哲学 / Philosophical`
+
+萨特假定主权抉择先于任何既定设定并拥有无前提的自由权能，将自欺视为心智逃避责任而自拟为被动客体；这一假定脱离了约束条件便无法解释选择如何获得差异化的操作基底，却在剖析心智如何动用主权去制造自身无助幻觉上保持着深刻效用。
+
+Sartre presumes sovereign choice precedes all predetermined designations and possesses unconditioned agency, diagnosing bad faith as agency fleeing responsibility by mimicking passive objects; this premise becomes incomplete without structural constraints to provide the differential substrate for action, while remaining profoundly useful for dissecting how minds exercise sovereignty to manufacture the illusion of their own helplessness.
+
+→ [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/)
 
 ### 约翰·梅纳德·凯恩斯 / John Maynard Keynes
 `经济 / Economic`

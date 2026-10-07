@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-07T07:09:21.580Z",
+    "generated_at": "2026-10-07T07:43:46.660Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -78,7 +78,7 @@
       "content/posts/fate-loves-irony-refined.md": "df6e1ca34057",
       "content/posts/felt-resistance-and-the-speed-differential.md": "5aa2816b2734",
       "content/posts/fidelity-not-optimality.md": "247cc481c58e",
-      "content/posts/fixed-by-nothing.md": "133578ce03a8",
+      "content/posts/fixed-by-nothing.md": "2cfa4ac740ee",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "765afbc1f300",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "efd71ec1e1f9",
@@ -235,7 +235,7 @@
       "content/posts/the-frame-that-conceals-improvement.md": "eabae0d41b34",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "f6299229ed66",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
-      "content/posts/the-freedom-of-will-to-deny-itself.md": "04cdf86568f1",
+      "content/posts/the-freedom-of-will-to-deny-itself.md": "d61fea4c3eb6",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "153fe57f4a67",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "a459e322881c",
       "content/posts/the-generative-contradiction.md": "30e18c0a4d95",
@@ -333,6 +333,7 @@
       "content/posts/the-sovereign-blinding.md": "888e3fbe6aee",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
+      "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "75c8a77eb70e",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "ad2f484fe9b0",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "1ebeb38ad32d",
@@ -382,10 +383,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "32b2df0b732b",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "203dc63091d4",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
-      "content/book/causality.md": "2a318a0df024",
+      "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "fea3d7fcc04d",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "6399bb7448c1",
+      "content/book/index-of-premises.md": "42f437072e46",
       "content/book/intelligence.md": "e0b928421af2",
       "content/book/knowledge-and-learning.md": "f1db5bdf82c9",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -400,22 +401,22 @@
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 374,
-      "edges": 3942,
-      "unique_directed": 3372,
+      "posts": 375,
+      "edges": 3956,
+      "unique_directed": 3379,
       "missing_targets": 0,
-      "one_way": 938,
+      "one_way": 943,
       "isolated": 39,
-      "posts_with_outbound": 309,
+      "posts_with_outbound": 310,
       "book_pages": 16,
-      "book_edges": 914,
-      "posts_reached_by_book": 374
+      "book_edges": 917,
+      "posts_reached_by_book": 375
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 90
+      "in_degree": 91
     },
     {
       "slug": "openness-is-consistency",
@@ -2078,15 +2079,16 @@
       "slug": "fixed-by-nothing",
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
-      "hash": "133578ce03a8",
+      "hash": "2cfa4ac740ee",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
         "not-a-theory-of-everything",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
-        "the-residue-and-the-free-variable"
+        "the-residue-and-the-free-variable",
+        "the-substrate-of-constraint-and-the-self-denial-of-freedom"
       ]
     },
     {
@@ -2107,7 +2109,7 @@
       "path": "content/posts/freedom-as-ground.md",
       "title": "Freedom as Ground",
       "hash": "765afbc1f300",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 11,
       "links_out": [
         "the-fixed-image-of-transcendence",
@@ -2514,7 +2516,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "4386ca223753",
-      "in_degree": 90,
+      "in_degree": 91,
       "out_degree": 56,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -5507,15 +5509,16 @@
       "slug": "the-freedom-of-will-to-deny-itself",
       "path": "content/posts/the-freedom-of-will-to-deny-itself.md",
       "title": "自由意志的自否自由 / The Freedom of Will to Deny Itself",
-      "hash": "04cdf86568f1",
-      "in_degree": 4,
-      "out_degree": 7,
+      "hash": "d61fea4c3eb6",
+      "in_degree": 5,
+      "out_degree": 8,
       "links_out": [
         "the-closed-loop-of-representation",
         "the-functionalism-no-functionalist-can-hold",
         "the-bank-shot-and-the-magic-trick",
         "what-information-is",
         "the-boundary-crossing-of-choice",
+        "the-substrate-of-constraint-and-the-self-denial-of-freedom",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "zi-you-de-ce-bu-zhun"
       ]
@@ -6203,7 +6206,7 @@
       "path": "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md",
       "title": "The Look of Constraint Is Not the Loss of Freedom",
       "hash": "823d49af147c",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 2,
       "links_out": [
         "the-average-is-residue-not-the-engine",
@@ -7466,6 +7469,23 @@
       ]
     },
     {
+      "id": "post:the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "kind": "post",
+      "slug": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "path": "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md",
+      "title": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom",
+      "hash": "75c8a77eb70e",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "the-look-of-constraint-is-not-the-loss-of-freedom",
+        "you-tiao-jian-de-zi-you",
+        "freedom-as-ground",
+        "the-freedom-of-will-to-deny-itself",
+        "individual-choices-as-the-only-causal-levers"
+      ]
+    },
+    {
       "id": "post:the-summary-first-reversal-and-the-command-of-yields",
       "kind": "post",
       "slug": "the-summary-first-reversal-and-the-command-of-yields",
@@ -8265,7 +8285,7 @@
       "path": "content/posts/you-tiao-jian-de-zi-you.md",
       "title": "有条件的自由",
       "hash": "fa22e60f9748",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "freedom-as-ground",
@@ -12711,6 +12731,18 @@
       "to": "the-residue-and-the-free-variable",
       "rel": "points_to",
       "label": "The Residue and the Free Variable"
+    },
+    {
+      "from": "fixed-by-nothing",
+      "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "rel": "points_to",
+      "label": "约束基底与自由自否"
+    },
+    {
+      "from": "fixed-by-nothing",
+      "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "rel": "points_to",
+      "label": "The Substrate of Constraint and the Self-Denial of Freedom"
     },
     {
       "from": "freedom-as-ground",
@@ -23436,9 +23468,21 @@
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "rel": "points_to",
+      "label": "约束基底与自由自否"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
       "to": "the-boundary-crossing-of-choice",
       "rel": "points_to",
       "label": "The Boundary Crossing of Choice"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "rel": "points_to",
+      "label": "The Substrate of Constraint and the Self-Denial of Freedom"
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
@@ -29351,6 +29395,66 @@
       "label": "Abstraction, boundaries, and the moving edge of reality"
     },
     {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "rel": "points_to",
+      "label": "约束的表象不是自由的丧失"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "rel": "points_to",
+      "label": "The Look of Constraint Is Not the Loss of Freedom"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
+      "label": "有条件的自由"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "自由作为地基"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
+      "label": "Conditional Freedom"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "Freedom as Ground"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "The Freedom of Will to Deny Itself"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择作为唯一的因果杠杆"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
@@ -32077,8 +32181,8 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "2a318a0df024",
-        "out_degree": 31
+        "hash": "bb33b5eaed11",
+        "out_degree": 32
       },
       {
         "id": "book:consciousness",
@@ -32104,8 +32208,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "6399bb7448c1",
-        "out_degree": 374
+        "hash": "42f437072e46",
+        "out_degree": 375
       },
       {
         "id": "book:intelligence",
@@ -32402,6 +32506,12 @@
         "to": "fixed-by-nothing",
         "rel": "collects",
         "label": "没有固定者的固定 / Fixed by Nothing"
+      },
+      {
+        "from": "book:causality",
+        "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+        "rel": "collects",
+        "label": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom"
       },
       {
         "from": "book:consciousness",
@@ -32996,6 +33106,18 @@
         "to": "you-tiao-jian-de-zi-you",
         "rel": "collects",
         "label": "有条件的自由"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+        "rel": "collects",
+        "label": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+        "rel": "collects",
+        "label": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom"
       },
       {
         "from": "book:index-of-premises",
