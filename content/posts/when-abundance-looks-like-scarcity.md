@@ -20,7 +20,7 @@ Every efficiency gain in history has expanded the space of economic activity, no
 
 The steam engine didn't divide a fixed amount of work between humans and machines. It made energy so cheap that entire industries became feasible — railways, factories, mass production — that didn't exist before. Total employment grew.
 
-Computing didn't divide a fixed amount of calculation between humans and machines. It made computation so cheap that entirely new categories materialized — software, the internet, mobile, e-commerce. The demand for people who work with computers went up, not down, precisely because computers did most of the computing.
+Computing didn't divide a fixed amount of calculation between humans and machines. It made computation so cheap that entirely new categories materialized — software, the internet, mobile, e-commerce. The demand for people who work with computers went up, not down, precisely because computers did most of the computing. The same cut appears in [Better Than Free After the Checklist Closes](../better-than-free-after-the-checklist-closes/): The eight are named ways differentiation shows up — useful for pointing to it, counterproductive as fixed goalposts — because value is never in the copy, and never in the named thing taken as the differentiation itself.
 
 AI makes cognitive work cheaper. The replacement frame asks: who loses their slice? The expansion frame asks: what becomes feasible that wasn't before? These are different questions with different answers.
 

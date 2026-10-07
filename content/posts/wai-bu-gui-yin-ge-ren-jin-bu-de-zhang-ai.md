@@ -16,7 +16,7 @@
 
 人真正能动的部分，从来只有这一处：我如何解释发生在我身上的事，以及我基于这个解释选择此刻做什么。
 
-[个体选择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 是同一归位：条件是场，不是替下一步供因的第二作者。[人生是一个持续的自我迭代过程](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) 是同一截断：误差停在「外部给定」，回不到可更新的权重。[关于归因：从事实到因果，从外部节点到内部迭代](../guan-yu-gui-yin/) 是同一外置停在显眼节点上的面。
+[个体选择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 是同一归位：条件是场，不是替下一步供因的第二作者。[人生是一个持续的自我迭代过程](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) 是同一截断：误差停在「外部给定」，回不到可更新的权重。[关于归因：从事实到因果，从外部节点到内部迭代](../guan-yu-gui-yin/) 是同一外置停在显眼节点上的面。[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)在另一种负载下描摹了同一几何：选择被称作革命，秩序便是主语，读者收藏的是旧印象的新证据。
 
 ## 育儿是在扰乱孩子的内部归因
 

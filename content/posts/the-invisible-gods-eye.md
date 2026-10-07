@@ -37,11 +37,11 @@ graph TD
 
 无可否认，这些思想家所看到的模式，确实比他们同时代的多数人更加清晰、更加深刻。他们所提供的概念工具，极大地扩展了人类理解世界的坐标系。
 
-然而，正是在这种高对比度的清晰感面前，一个潜伏在认知机制最底层的致命倒错悄然发生了。
+然而，正是在这种高对比度的清晰感面前，一个潜伏在认知机制最底层的致命倒错悄然发生了。同一道切分也出现在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)之中：自客体化、因果倒置的反置与主权裁决的归位。
 
 ---
 
-The most brilliant minds in intellectual history possess the rare gift of perceiving vast macroscopic invariants across nature and society; yet almost without exception, they succumb to the identical epistemic amnesia: forgetting that they are not an omniscient deity looking down from above, but merely another situated mind navigating reality through its own local horizon. The moment a mind adopts this invisible God's eye, fellow sovereign minds cease to be seen as parallel universes; they are flattened into low-dimensional pawns within that thinker's private sandbox. Master models are, in truth, incredible, bright, and precision goalposts for sovereign navigation, yet tragically mistaken for godlike idols by devotees who imagine they understand them. Follower adulation cements the master's certitude into rigid orthodoxy; far from resolving the original crisis, this dynamic reintroduces the identical tragedy across history. True knowledge cannot remain a third-person spectator's exhibit; it must be incorporated directly into the sovereign mind's own causal feedback loop.
+The most brilliant minds in intellectual history possess the rare gift of perceiving vast macroscopic invariants across nature and society; yet almost without exception, they succumb to the identical epistemic amnesia: forgetting that they are not an omniscient deity looking down from above, but merely another situated mind navigating reality through its own local horizon. The moment a mind adopts this invisible God's eye, fellow sovereign minds cease to be seen as parallel universes; they are flattened into low-dimensional pawns within that thinker's private sandbox. Master models are, in truth, incredible, bright, and precision goalposts for sovereign navigation, yet tragically mistaken for godlike idols by devotees who imagine they understand them. Follower adulation cements the master's certitude into rigid orthodoxy; far from resolving the original crisis, this dynamic reintroduces the identical tragedy across history. True knowledge cannot remain a third-person spectator's exhibit; it must be incorporated directly into the sovereign mind's own causal feedback loop. The same cut appears in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/): Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment.
 
 Endowed with extraordinary informational bandwidth and profound powers of abstraction, this rare lineage of towering minds cut through the chaotic din of sensory particulars to grasp the deep macroscopic invariants governing cosmos and civilization.
 
@@ -466,11 +466,11 @@ graph TD
 
 然而，这场智识探索中最深重的悲剧，恰恰发生在那些自以为“理解”了大师的追随者身上：信徒们将指引道路的高精度路标，错当成了必须顶礼膜拜的神像。他们不去利用这些路标在开阔的泥土上迈步前行，反而围绕着路标搭建起封闭的神庙，对每一个路过的探索者进行教条审查与异端裁决。他们以为背诵大师的公式就是拥有了智慧，却不知自己已经将作为自主探索者的主权决断拱手上缴。
 
-真正的知识永远无法停留在第三人称的虚妄旁观视界中。停留在书本与象牙塔中的宏大体系只是死寂的标本；唯有当一个具有第一人称主权的心智，将大师们勘探出的高精度尺度引入自己身处的具体阻力之中，在真实的局域摩擦中做出选择、承担代价，并将其消化、整合进自身闭环的因果反馈流时，那些原本悬浮的符号才真正转化为活生生的认知力量。
+真正的知识永远无法停留在第三人称的虚妄旁观视界中。停留在书本与象牙塔中的宏大体系只是死寂的标本；唯有当一个具有第一人称主权的心智，将大师们勘探出的高精度尺度引入自己身处的具体阻力之中，在真实的局域摩擦中做出选择、承担代价，并将其消化、整合进自身闭环的因果反馈流时，那些原本悬浮的符号才真正转化为活生生的认知力量。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)从另一面触及同一条轴线：远方的距离抹平了轮廓，而无处之境的清单将无法通约的视界误判为球门的移动。
 
 ---
 
-Once we diagnose this primal amnesia, how does a sovereign mind orient itself? How do we harness the penetrating brilliance of macroscopic patterns while remaining entirely immune to the siren song of the God's Eye?
+Once we diagnose this primal amnesia, how does a sovereign mind orient itself? How do we harness the penetrating brilliance of macroscopic patterns while remaining entirely immune to the siren song of the God's Eye? [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) meets the same axis from another face: Distance blurs silhouettes, while an inventory from nowhere mistakes incommensurable horizons for moving goalposts.
 
 This requires four fundamental shifts in epistemic practice:
 
@@ -532,13 +532,13 @@ True knowledge cannot remain stranded in a detached, third-person spectator's va
 
 看清宏观的模式，是心智的非凡力量；但看清自己仅仅是千百亿探索者中的一员，才是心智的最高觉醒。
 
-在这个没有天花板的世界里，你不需要去拯救谁，不需要去规训谁，更不需要把任何人塞进你的宏伟图纸。正因为每一个心智的遗忘与不觉同样是自由表达出来的，自由便永远无法通过自上而下的启蒙工程或外部图纸强加给任何人。没有任何先知能够代替同侪觉醒，正如没有任何神明能够剥夺探索者的主权。觉醒从来不是一场由外而内的思想改造，而是一阶心智在某一刻的幡然省悟：原来神坛上本无光芒，漫天神佛的璀璨，皆是自己倾注而出的创造力；那场漫长的沉睡是自己的自由选择，而站起身来直面泥土与地平线，同样是自己当下的自主决断。最庄严的生存姿态，莫过于与身边那些同样不可穷尽的同侪并肩而立，各自握紧手中的微光，在这片永不闭合的辽阔现实中，坦然迈出属于自己的下一步。
+在这个没有天花板的世界里，你不需要去拯救谁，不需要去规训谁，更不需要把任何人塞进你的宏伟图纸。正因为每一个心智的遗忘与不觉同样是自由表达出来的，自由便永远无法通过自上而下的启蒙工程或外部图纸强加给任何人。没有任何先知能够代替同侪觉醒，正如没有任何神明能够剥夺探索者的主权。觉醒从来不是一场由外而内的思想改造，而是一阶心智在某一刻的幡然省悟：原来神坛上本无光芒，漫天神佛的璀璨，皆是自己倾注而出的创造力；那场漫长的沉睡是自己的自由选择，而站起身来直面泥土与地平线，同样是自己当下的自主决断。最庄严的生存姿态，莫过于与身边那些同样不可穷尽的同侪并肩而立，各自握紧手中的微光，在这片永不闭合的辽阔现实中，坦然迈出属于自己的下一步。[阳台视角的规训僭越与不可代理的未竟之行](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/)在另一种负载下描摹了同一几何：为己保留自由却对他施加规训，阳台的对撞唯有降临不可代理的原点方能化解。
 
 ---
 
 The universe possesses no VIP gallery.
 
-Above the open expanse of reality, there is no one-way observation window, no celestial control room, no omniscient cosmic auditor. History is not a puppet play staged before an elevated amphitheater; it is an unbounded continuum stretching in every direction across the living earth.
+Above the open expanse of reality, there is no one-way observation window, no celestial control room, no omniscient cosmic auditor. History is not a puppet play staged before an elevated amphitheater; it is an unbounded continuum stretching in every direction across the living earth. [The Balcony Disciplinary Overstep and the Unproxyable Act](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/) traces this geometry under a different load: Reserving agency for oneself while disciplining others, balcony clashes dissolve only at the unproxyable origin.
 
 A mature mind does not prove its depth by pretending to be God. Epistemic maturity begins with the courage to step off the phantom pedestal and stand firmly upon the soil of immediate presence.
 

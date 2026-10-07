@@ -18,7 +18,7 @@ This boundary marks the location where an outcome is open relative to the alread
 * **Feedback and Effective Variables**: A realized distinction interacts with its environment, forms circular feedback loops, and stabilizes into an effective macroscopic variable;
 * **Scale Coupling**: Every subsequent feedback loop creates a new level of abstraction, while the recognition of that level depends entirely on the observing Mind selecting that specific scale of resolution.
 
-The quantum boundary is the active frontier of the causal fabric. It is the living aperture where unobserved causality crosses into perception and crystallizes as a discrete distinction.
+The quantum boundary is the active frontier of the causal fabric. It is the living aperture where unobserved causality crosses into perception and crystallizes as a discrete distinction. [The Three Shadows of the Cut: On Forrest Landry’s Immanent Metaphysics](../the-three-shadows-of-the-cut/) traces this geometry under a different load: Forrest Landry’s immanent metaphysics elegantly dismantles Cartesian dualism and Laplacian determinism, but by hypostatizing the three directional perspectives of the moving edge into an axiomatic triadic ground, it mistakes the shadows cast by the causal aperture for the generative source itself.
 
 ## The Recursive Generator vs. The Empirical Catalog
 
@@ -69,4 +69,4 @@ This architecture dissolves the perceived mysteries of emergence:
 * The mind requires no independent metaphysical engine detached from causality;
 * Complexity manufactures no spontaneous freedom through mere accumulation of dead mass.
 
-What we call emergence is the continuous process through which unobservable causes cross the perceptual horizon into observable distinctions, coupled across every scale with the observing Mind’s conscious selection of resolution. Once realized, causality proceeds with strict, unbuffered consistency. Macroscopic reality is this single causal chain, viewed across wider choices of observation.
+What we call emergence is the continuous process through which unobservable causes cross the perceptual horizon into observable distinctions, coupled across every scale with the observing Mind’s conscious selection of resolution. Once realized, causality proceeds with strict, unbuffered consistency. Macroscopic reality is this single causal chain, viewed across wider choices of observation. [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) meets the same axis from another face: The fourth dimension is an internal mental coordinate: we project back to the past to make sense of the present, and forward into the future to predict outcomes.

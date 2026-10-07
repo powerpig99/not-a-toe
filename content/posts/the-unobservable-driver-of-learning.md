@@ -22,7 +22,7 @@ When students are allowed to use AI on open-book assessments, grades rise sharpl
 
 ---
 
-When students are allowed to use AI on open-book assessments, their grades rise sharply. In one large introductory psychology course the class average moved from a typical 85 percent to 95 percent. Yet when the same students later sat a cumulative final exam without AI, the average fell to 68 percent. The pattern is not anomalous; it mirrors controlled research showing that AI accelerates task completion and inflates performance metrics while simultaneously reducing retained understanding.
+When students are allowed to use AI on open-book assessments, their grades rise sharply. In one large introductory psychology course the class average moved from a typical 85 percent to 95 percent. Yet when the same students later sat a cumulative final exam without AI, the average fell to 68 percent. The pattern is not anomalous; it mirrors controlled research showing that AI accelerates task completion and inflates performance metrics while simultaneously reducing retained understanding. [Stability and excess: consciousness, introspection, and the cut of observation](../stability-and-excess/) meets the same axis from another face: Consciousness is neither a closed-box illusion nor a detached spectator, but an open process that must simultaneously hold a form and exceed it.
 
 [The homework–exam inversion registers substitution](../the-homework-exam-inversion-registers-substitution/) is that pattern as composition of instruments: one score is raw capability plus the tool, the other is raw capability only. [Studying the effect of AI relocates causality](../studying-the-effect-of-ai-relocates-causality/) is the same pattern already at the experimental premise: access treated as the independent variable, the average of opposed postures then named as a property of the technology.
 
@@ -76,7 +76,7 @@ The more consistently a person attributes their own capability, including the ca
 
 站在第三人称观察者的立场上，人们只能记录下游的现象：分数、完成速度、撤除外在支架后表现的崩塌。这些皆是结果、效应与表象。真正的驱动力——接续的选择序列以及它们所缔造的回路——根本不会出现在观察视野之内。因果错配所带来的隐性代价同样不可见：即自发生成性进阶能力的渐进式衰竭。由平均分与体制叙事搭建起的集体语言，因此系统性地遮蔽了它声称要解释的一切。
 
-区分自身的动作时刻在自发展开——无因，无休。不妨称之为心智（Mind）：观察者早已在路上，其每一个动作都是一记切分。观察记录的是效应；而产生效应的成因永远领先一步。这一间隙正是目光得以记录一切的机制——无论是记录工具、记录教学，还是在事后审视自我。[意识从未作为数据中的数据出现](../consciousness-never-appears-as-data-among-data/) 是这道滞后在实证伪装下的显现：第三人称数据只能持有公共效应；强求生成性活动现身于数据之中的企图，将移动的前沿冻结为了非自指层级中的客体。[平均值是沉淀的残差，而非引擎](../the-average-is-residue-not-the-engine/) 揭示了同样的冻结：当对立回路的均值被当作了学习的引擎。
+区分自身的动作时刻在自发展开——无因，无休。不妨称之为心智（Mind）：观察者早已在路上，其每一个动作都是一记切分。观察记录的是效应；而产生效应的成因永远领先一步。这一间隙正是目光得以记录一切的机制——无论是记录工具、记录教学，还是在事后审视自我。[意识从未作为数据中的数据出现](../consciousness-never-appears-as-data-among-data/) 是这道滞后在实证伪装下的显现：第三人称数据只能持有公共效应；强求生成性活动现身于数据之中的企图，将移动的前沿冻结为了非自指层级中的客体。[平均值是沉淀的残差，而非引擎](../the-average-is-residue-not-the-engine/) 揭示了同样的冻结：当对立回路的均值被当作了学习的引擎。[止步于评判，是认知的歧途](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)在另一种负载下描摹了同一几何：所有的向外审视皆是对自身井壁的投射，评判是认知深度停留的标志；唯有将他人的因果倒影折射回第一人称当下，在微观决策中完成参数校准，观察才具有真实的演进意义。
 
 ---
 
@@ -116,7 +116,7 @@ Those who return more often keep causal power located in their own successive ch
 
 ## 八、 工具与设计终究只是次生残差 / 8. Tools and Designs Remain Secondary Residue
 
-其余的一切——工具、导师、课程实验、集体诠释——始终都是次生的。它们不过是生成性过程启动之后才浮现出的外在描述。当它们被误认作过程本身时，便掩盖了唯一能够真正催生进阶的本源。最初的洞察必然在此闭环：问题从来不在于工具。问题在于我们习惯性地将因果权力从学习本身抽离出去。
+其余的一切——工具、导师、课程实验、集体诠释——始终都是次生的。它们不过是生成性过程启动之后才浮现出的外在描述。当它们被误认作过程本身时，便掩盖了唯一能够真正催生进阶的本源。最初的洞察必然在此闭环：问题从来不在于工具。问题在于我们习惯性地将因果权力从学习本身抽离出去。[投资决策的因果闭环：从模型失效、系统负和到真自负盈亏](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)从另一面触及同一条轴线：投资从来不是在封闭沙盘中猜测微观噪声，而是在开放现实中顺应不可逆的底层因果；穿透代理人机制的负和假象，唯有在第一人称视界内诚实为微观误差买单，方能构筑真正的决策闭环。
 
 ---
 

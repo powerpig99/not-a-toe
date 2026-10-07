@@ -6,7 +6,7 @@ This misses the mechanism.
 
 ## The spec as delta
 
-A spec contains the context the living context doesn't already hold. It's the delta—the specific distinctions about *this* feature, *this* problem, that the accumulated lattice hasn't encountered yet.
+A spec contains the context the living context doesn't already hold. It's the delta—the specific distinctions about *this* feature, *this* problem, that the accumulated lattice hasn't encountered yet. [A Living External Cortex: The Closest the Image Can Come](../a-living-external-cortex/) traces this geometry under a different load: A knowledge graph rooted in irreducible priors is technology at living one-step width — the closest durable hold of continuous learning without mistaking the hold for the Mind.
 
 But the viral framing treats the delta as the whole. "Write better specs" assumes the spec is what the system rests on—that what you articulate into tickets is what makes agents work. This confuses the missing piece with the foundation it plugs into.
 
@@ -20,7 +20,7 @@ What actually made Monday morning work wasn't just the spec. The spec does real 
 
 ## The self-referential loop
 
-The living context compounds because it's self-referential. The developer uses Claude, encounters where distinctions fail to propagate, adjusts the context (a CLAUDE.md tweak, a new skill file, a refined instruction pattern), and the next interaction starts from that updated ground. Each cycle feeds distinction back into distinction-selection. The developer and the tool aren't two things exchanging information—they're one context-projection process that happens to have a slow-updating component (the developer's understanding) and a fast-updating component (the session context).
+The living context compounds because it's self-referential. The developer uses Claude, encounters where distinctions fail to propagate, adjusts the context (a CLAUDE.md tweak, a new skill file, a refined instruction pattern), and the next interaction starts from that updated ground. Each cycle feeds distinction back into distinction-selection. The developer and the tool aren't two things exchanging information—they're one context-projection process that happens to have a slow-updating component (the developer's understanding) and a fast-updating component (the session context). [Looping and Graphing: Mind as the Loop of Loops](../looping-and-graphing/) traces this geometry under a different load: Looping is Mind folding back on its own activity; graphs are the traces that folding leaves available for the next fold.
 
 This loop *is* the mechanism behind every "1000x developer" story. Not specs. Not agent count. Not orchestration architecture. The density of the living context determines how cleanly distinctions propagate from intention through agents to working code. Everything else is downstream.
 

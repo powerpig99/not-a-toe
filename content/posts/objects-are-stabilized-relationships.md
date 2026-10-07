@@ -13,14 +13,14 @@
 
 然而，现代量子力学——尤其是以卡洛·罗威利（Carlo Rovelli）为代表的**关系量子力学（Relational Quantum Mechanics, RQM）**——彻底颠覆了这幅常识画卷。
 
-在量子微观尺度上，“孤立系统拥有内禀客观性质”的假定被实验无情碾碎。一个粒子的位置、动量或自旋状态，在没有发生物理交互之前根本不存在确定的客观数值；物理变量的取值，永远且仅仅存在于**该系统相对于另一个物理系统的交互关系之中**。物理学家与哲学家（如乔治·韦伯斯特，George Webster）由此指出：在量子图景中，像对称性、干涉与纠缠这样的关系，比粒子实体本身更真实、更根本。
+在量子微观尺度上，“孤立系统拥有内禀客观性质”的假定被实验无情碾碎。一个粒子的位置、动量或自旋状态，在没有发生物理交互之前根本不存在确定的客观数值；物理变量的取值，永远且仅仅存在于**该系统相对于另一个物理系统的交互关系之中**。物理学家与哲学家（如乔治·韦伯斯特，George Webster）由此指出：在量子图景中，像对称性、干涉与纠缠这样的关系，比粒子实体本身更真实、更根本。同一道切分也出现在[隐秘的上帝之眼](../the-invisible-gods-eye/)之中：宏观大师的共同失忆与降维解法的必然破产。
 
 关系先于实体。实体并非独立存在的主角，而是关系的演化节点。
 
 ---
 
 Everyday intuition instills in us an obstinate ontological picture:
-We take it for granted that **objects are more fundamental than the relationships between those objects.**
+We take it for granted that **objects are more fundamental than the relationships between those objects.** The same cut appears in [The Invisible God's Eye](../the-invisible-gods-eye/): The Master Thinker's Amnesia and the Fatal Trap of Low-Dimensional Solutions.
 
 To common sense and classical physics, the world is assembled from freestanding, self-contained entities: microscopic billiard balls bouncing through an empty spatial container, macroscopic boulders, trees, and celestial bodies. Relationships (gravity, collision, electromagnetic repulsion, spatial distance) are treated as secondary bridges—provisional links established only after two independent substances happen to meet.
 
@@ -46,11 +46,11 @@ Relations precede relata. Entities are not the primary cast of reality; they are
 * 实体崇拜者为了捍卫“客观实在”，把关系硬性虚构成了僵死的孤立实体；
 * 语言解构者为了打破“实体幻觉”，把坚固的现实生活消解成了诗意的玄学泡沫。
 
-难道除了“孤立的实体积木”与“不可名状的流变迷雾”之外，人类心智就再无第三条清醒的认知路径了吗？
+难道除了“孤立的实体积木”与“不可名状的流变迷雾”之外，人类心智就再无第三条清醒的认知路径了吗？[当电子开始思考](../when-electrons-think/)从另一面触及同一条轴线：光速渲染率、无质量动态波与宏观确定性的诞生。
 
 ---
 
-Yet when relational ontology is pressed to its logical conclusion, contemporary thought frequently stumbles into two complementary traps:
+Yet when relational ontology is pressed to its logical conclusion, contemporary thought frequently stumbles into two complementary traps: [When Electrons Think](../when-electrons-think/) meets the same axis from another face: The Rendering Velocity of Light, Massless Dynamic Waves, and the Emergence of Determinism.
 
 **The first trap is the classical materialist "idolatry of substance" (Substance Reification).**
 Terrified of relational fluidity and ungrounded movement, classical habits of thought insist on stuffing every relational phenomenon back into a billiard-ball box. If gravitation exhibits mutual curvature, theorists demand a mechanical particle named the "graviton"; if spacetime displays tension, it is visualized as an objective rubber sheet. This instinct reflects the mind's craving for an observerless certainty—attempting to freeze living, dynamic interaction into immutable building blocks situated in a fictitious "View from Nowhere."

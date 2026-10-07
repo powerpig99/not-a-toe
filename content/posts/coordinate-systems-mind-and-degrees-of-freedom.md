@@ -14,7 +14,7 @@ From Lossy Compression to Living Agency: Calibrating Coordinates and Standing in
 
 然而，由制度规范、量化考核、公共舆论与社会分工构成的**公共空间**，为了实现低成本的群体协同与大规模资源调配，必须对这片无限维度的活态现实施加极具侵略性的**有损压缩（Lossy Compression）**。它将个体丰富深邃的活态存在，强行投影到极少数离散的标量维度之上：头衔、薪酬、学分、排位、声望与关注度。
 
-在这套超低维投影的固化过程中，原本拥有无限探索自由度的生命，极易在不经意间步入一套环环相扣的认知倒置：
+在这套超低维投影的固化过程中，原本拥有无限探索自由度的生命，极易在不经意间步入一套环环相扣的认知倒置：[流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/)从另一面触及同一条轴线：关于“否定”、降维与心智的自我锚定。
 
 ```mermaid
 graph TD
@@ -79,7 +79,7 @@ graph TD
 
 ---
 
-From the perspective of systems theory and information theory, the primary reality encountered in first-person experience is an infinite-dimensional continuum: immediate neural firings, subtle intuitive shifts, tacit somatic feedback, unscripted exploration, and the fluid, real-time friction of a living organism interacting with an ever-changing environment.
+From the perspective of systems theory and information theory, the primary reality encountered in first-person experience is an infinite-dimensional continuum: immediate neural firings, subtle intuitive shifts, tacit somatic feedback, unscripted exploration, and the fluid, real-time friction of a living organism interacting with an ever-changing environment. [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) meets the same axis from another face: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring.
 
 However, the **public space**—constituted by institutional protocols, quantitative performance reviews, societal discourse, and the division of labor—must apply aggressive **lossy compression** to this infinite-dimensional living reality in order to achieve low-cost coordination and scalable resource allocation. It forces the deep, multidimensional presence of the individual into a handful of discrete, scalar coordinates: job titles, compensation bands, grade point averages, leaderboard rankings, and prestige metrics.
 
@@ -181,11 +181,11 @@ graph LR
 * **不是棋盘困住了个体，而是个体的心智将低维投影误认为了本体。**
 * 异化从来不是外在实体强加的镣铐，而是心智将自身的主权让渡给低维符号之后所产生的认知幻象。
 
-当看清这一点，所有的外在归因与受害者叙事便随之消解：既然整个经验世界由心智在此刻生成并赋予意义，那么**个体必须且只能为自己生命的因果负全责**。你赋予什么以权重，你的现实便由什么构成；你若把生命的全部价值抵押给外部投影，你便只能承受投影带来的窄化与窒息。
+当看清这一点，所有的外在归因与受害者叙事便随之消解：既然整个经验世界由心智在此刻生成并赋予意义，那么**个体必须且只能为自己生命的因果负全责**。你赋予什么以权重，你的现实便由什么构成；你若把生命的全部价值抵押给外部投影，你便只能承受投影带来的窄化与窒息。[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)从另一面触及同一条轴线：解释力与逃逸速度的不对称、均值吸引子闭环与标量投影破魅。
 
 ---
 
-Faced with the alienation induced by low-dimensional metrics, the standard reaction often retreats into a romantic, binary rebellion: decrying the public arena as a soul-crushing swamp and advocating an escapist flight to some idealized, unspoiled "wilderness".
+Faced with the alienation induced by low-dimensional metrics, the standard reaction often retreats into a romantic, binary rebellion: decrying the public arena as a soul-crushing swamp and advocating an escapist flight to some idealized, unspoiled "wilderness". [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) meets the same axis from another face: The Asymmetry of Explanatory Power and Escape Velocity, the Mean Attractor, and the Scalar Projection.
 
 Yet this adversarial stance remains superficial. It rests on an unexamined victim narrative that assumes external systems possess innate agency to subjugate consciousness. When epistemology is traced back to its causal bedrock, this internal-versus-external dichotomy dissolves:
 
@@ -235,11 +235,11 @@ With this realization, external blame and victim narratives disintegrate. Becaus
 | **认知关系** | 囤积知识载体，作为向外界证明自身资质的筹码 | 借认知之刃切入真实，去实践、去探索、去生活 |
 | **主体归属** | 棋子：被外部评判、绩效与指标驱赶奔走 | 导航者：手握外部坐标校准自身，向深处拓展自由度 |
 
-公共空间从来不是审判生命的法庭，而是航海日志里的**经纬度与灯塔**。它足够稳定、足够清晰，便于心智校准行动的偏差、换取生存的补给、完成群体的协同与结算。
+公共空间从来不是审判生命的法庭，而是航海日志里的**经纬度与灯塔**。它足够稳定、足够清晰，便于心智校准行动的偏差、换取生存的补给、完成群体的协同与结算。[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)从另一面触及同一条轴线：几何视角下的投影、冲突与电磁同频。
 
 ---
 
-Seeing through the illusions of low-dimensional projections does not imply rejecting the utility of public space, nor does it justify retreating into cynicism or passive escapism.
+Seeing through the illusions of low-dimensional projections does not imply rejecting the utility of public space, nor does it justify retreating into cynicism or passive escapism. [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) meets the same axis from another face: Projections, Conflict, and Electromagnetic Resonance.
 
 Public space is the lowest-common-denominator protocol forged through millennia of civilizational trial and error to counter entropy and minimize the friction of collective cooperation. Precisely because it aggressively compresses reality and strips away ambiguous noise, it provides sharp informational alignment, predictable feedback loops, and transparent rules of interaction.
 

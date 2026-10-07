@@ -16,11 +16,11 @@ Second is the phase of settlement and value crystallization. Having reached the 
 
 Third is the gold rush. Once the coordinates prove viable, latecomers converge from every direction—some on foot, some by car, some by train.
 
-Fourth is the hindsight illusion. Finding the pioneer already firmly entrenched at the center of the new territory, latecomers invent a backward-looking teleological narrative: *"The pioneer possessed secret insider knowledge; they understood the rigged rules and cut in line."* [Theories After Success, Mistaken for Theories Leading to Success](../cheng-gong-xue/) identifies this exact cognitive inversion: polishing principles from survivors after the fact, mistaking post-hoc rationalizations for the engine that opened the terrain.
+Fourth is the hindsight illusion. Finding the pioneer already firmly entrenched at the center of the new territory, latecomers invent a backward-looking teleological narrative: *"The pioneer possessed secret insider knowledge; they understood the rigged rules and cut in line."* [Theories After Success, Mistaken for Theories Leading to Success](../cheng-gong-xue/) identifies this exact cognitive inversion: polishing principles from survivors after the fact, mistaking post-hoc rationalizations for the engine that opened the terrain. [The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle](../the-fallacy-of-post-success-parenting/) meets the same axis from another face: True capability is forged exclusively through micro-decisions made under friction and constraint; when successful parents mistake their accumulated surplus for a formula, attempt to clone their own path, and insulate their children from raw reality, they dismantle the very engine required for their offspring to surpass them.
 
 ## Finite vs. Infinite Reality: The Closed-System Delusion
 
-At the root of the "rigged game" mindset is a fundamental ontological error: treating an open-ended reality as a closed, finite game.
+At the root of the "rigged game" mindset is a fundamental ontological error: treating an open-ended reality as a closed, finite game. [The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction](../the-generative-atlas-of-macroscopic-phenomena/) traces this geometry under a different load: Causality itself is the single fundamental primitive of reality, having no beginning and no ending, bounded only by the observer's finite but dynamic epistemological horizon.
 
 When an individual views reality as a closed container, they operate under the premise of fixed bounds. Under this assumption, winning is strictly zero-sum: *"If they got ahead, their victory is the mechanical cause of my deprivation."*
 

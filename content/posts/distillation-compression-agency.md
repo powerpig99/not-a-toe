@@ -58,7 +58,7 @@ The distilled model can't recover what was lost without becoming the teacher aga
 
 Distillation as technique is neutral. The question is what it compresses toward.
 
-One direction: find the minimal structure that *generates*. Compress by discovering the low-dimensional basis from which the teacher's capability can be re-derived. This is distillation as finding a principle — shorter than the examples it produces, but containing more, not less. The compression exposes structure that was implicit in the larger model.
+One direction: find the minimal structure that *generates*. Compress by discovering the low-dimensional basis from which the teacher's capability can be re-derived. This is distillation as finding a principle — shorter than the examples it produces, but containing more, not less. The compression exposes structure that was implicit in the larger model. The same cut appears in [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/): Models can be trained to compress reasoning; they cannot initiate the stake that makes compression endogenous — and efficiency itself is the effect of successful inefficient reasoning, not a license to skip it.
 
 The other direction: fit the outputs directly. Compress by reproducing the teacher's behavior on the measured distribution with minimal parameters. This is distillation as building a lookup table — same compression ratio, opposite relationship to the unseen. The compression freezes products while discarding the process that made them.
 

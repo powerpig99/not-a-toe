@@ -41,11 +41,11 @@ graph LR
     style ResultB fill:#332424,stroke:#e06c75,stroke-width:2px,color:#e06c75
 ```
 
-这两个向量的几何分流极其决绝：**专注于去理解，心智走向的是潜在无限的创造性宇宙；专注于被理解，心智走向的则是低维投影幕上万劫不复的互搏深渊。**
+这两个向量的几何分流极其决绝：**专注于去理解，心智走向的是潜在无限的创造性宇宙；专注于被理解，心智走向的则是低维投影幕上万劫不复的互搏深渊。**同一道切分也出现在[教育与科学的倒置](../the-reversal-of-education-and-science/)之中：从理解实在的无限，到有限博弈的规训。
 
 ---
 
-In the daily operation of human consciousness, there appear two mental movements that seem symmetrical on the surface, yet are radically opposed in their geometric orientation and causal structure: **"To Understand"** and **"To Be Understood"**.
+In the daily operation of human consciousness, there appear two mental movements that seem symmetrical on the surface, yet are radically opposed in their geometric orientation and causal structure: **"To Understand"** and **"To Be Understood"**. The same cut appears in [The Inversion of Education and Science](../the-reversal-of-education-and-science/): From Grasping Reality to the Zero-Sum Arena.
 
 Superficially, they might seem like two halves of a single conversational exchange. Yet the moment we introduce the coordinate system of the conscious observer, we discover that they represent two divergent life trajectories:
 
@@ -333,11 +333,11 @@ graph LR
 这是一种怎样的沟通范式？
 * **从强行植入到催化反思**：你不再试图将自己的观点像木桩一样钉入对方脑海，而是成为一面明澈的凸透镜或沉静的共鸣箱。你提出一个引发深思的开放性问题，耐心地接纳对方的停顿与困惑，让对方在与你的交互中，看清了自己内心的恐惧、未曾厘清的偏见、或是深藏已久的创造渴望。
 * **免除“自证清白”的神经耗竭**：既然误解在物理上不可避免，你便不再需要为对方的断章取义而焦躁辩白。即便对方误读了你某些字句，只要这场对话帮助他理清了自身的因果脉络、拓宽了他对自己生命的认知，这场沟通便取得了高阶的成功。
-* **从索求投影到赋能主体**：向外索求理解，是在要求对方为你服务；而致力于助他人理解自身，是你在以高维的慈悲为对方赋能。在这一刻，你不仅放下了自己的阴影，更点亮了对方内在的未知原野。
+* **从索求投影到赋能主体**：向外索求理解，是在要求对方为你服务；而致力于助他人理解自身，是你在以高维的慈悲为对方赋能。在这一刻，你不仅放下了自己的阴影，更点亮了对方内在的未知原野。[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)从另一面触及同一条轴线：将理解凌驾于自卫之上并设定为既得能力，是共情在定义上滑向自毁的起点。
 
 ---
 
-If the inward demand to "be understood" leads straight into a swamp of infinite misinterpretations, the sole liberation lies in **radically reversing the vector: directing one's undivided vitality outward into understanding**.
+If the inward demand to "be understood" leads straight into a swamp of infinite misinterpretations, the sole liberation lies in **radically reversing the vector: directing one's undivided vitality outward into understanding**. [The Capability Reversal of Empathy and the Contest of Boundaries](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/) meets the same axis from another face: Elevating understanding above self-defense while presuming it as an ability is how empathy becomes definitionally suicidal.
 
 The moment you retract your anxiety over how others see you and invest your attention in grasping how reality operates and why the soul before you acts as it does, an ontological miracle occurs: **infinite possibilities rush in to meet you.**
 
@@ -451,11 +451,11 @@ In every genuine encounter, release the desperate urge to make the other underst
 当我们全心全意去理解时，整座宇宙的奥秘与丰盛都将向我们敞开大门。
 我们无法强求这副躯壳在他人眼中不被误读，但我们永远可以用温暖而通透的表达，为相遇的灵魂映照出他们自身更辽阔的可能。
 
-不要去当石壁前乞求掌声的皮影；做那个步履坚定、向着不可穷尽的未知世界昂首迈步的行者。以理解为舟，与无限同行。
+不要去当石壁前乞求掌声的皮影；做那个步履坚定、向着不可穷尽的未知世界昂首迈步的行者。以理解为舟，与无限同行。同一道切分也出现在[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)之中：抹杀观察者的无损神话抽空理论底座，接纳损耗方能达成最高保真。
 
 ---
 
-Humanity's heaviest shackle is not a physical wall; it is the voluntary decision to hook our inner life onto the low-dimensional projection screens of others.
+Humanity's heaviest shackle is not a physical wall; it is the voluntary decision to hook our inner life onto the low-dimensional projection screens of others. The same cut appears in [The Invisible Observer and the Delusion of Lossless Transmission](../the-invisible-observer-and-the-delusion-of-lossless-transmission/): Erasing the observer hollows theory; embracing loss yields peak fidelity.
 
 We exhaust our vitality litigating misunderstandings and correcting caricatures, forgetting that behind us hangs an unbounded starry cosmos, and beneath our feet stretches an unconfined causal wild.
 

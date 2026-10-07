@@ -6,13 +6,13 @@ Not as a claim about something. Not as a property of some prior substrate. The b
 
 ## From verb to space
 
-The contradicting doesn't sit still. Each act of self-negation generates a distinction — a "not-me" — that is entirely independent of every other. No overlap, no interference, no shared axis. What accumulates (without accumulating, since there is no time yet) is an infinite set of orthogonal binary modes: the hyperspace of all possible one-hot distinctions. Each basis vector says only: *this, not that*. Nothing more.
+The contradicting doesn't sit still. Each act of self-negation generates a distinction — a "not-me" — that is entirely independent of every other. No overlap, no interference, no shared axis. What accumulates (without accumulating, since there is no time yet) is an infinite set of orthogonal binary modes: the hyperspace of all possible one-hot distinctions. Each basis vector says only: *this, not that*. Nothing more. [Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence](../dimensions-are-projections/) traces this geometry under a different load: Actual reality is the unceasing act of distinction; dimensions are cognitive compression matrices projected by the Mind to navigate relations, expand personal agency, and extend its living embodiment.
 
 This is not a container. It is not "out there." It is what the contradicting *does* when it has nothing to do it to except itself. The space *is* the verb's self-elaboration. No projector behind it — the mask masks itself.
 
 ## From space to world: projection and its costs
 
-Everything experienced is a finite slice of this hyperspace. A projection onto N dimensions. The slicing is not optional — any act of distinguishing *from within* (any localized eddy of the contradicting catching itself) can only hold finitely many modes at once.
+Everything experienced is a finite slice of this hyperspace. A projection onto N dimensions. The slicing is not optional — any act of distinguishing *from within* (any localized eddy of the contradicting catching itself) can only hold finitely many modes at once. [Not a Theory of Everything](../not-a-theory-of-everything/) traces this geometry under a different load: Causality is irreducibly dual — effect distinct from cause, effect following cause — and everything else is what those two necessary conditions already entail.
 
 The costs of finite projection are not metaphors. They are structural, and they are specific:
 

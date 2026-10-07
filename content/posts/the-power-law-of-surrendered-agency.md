@@ -158,9 +158,9 @@ graph TD
 
 道德语言的核心功能，正是建立并维系这种跨心智的相容性错配。它向受众传达一个虚假命题：一个心智的内在状态是由另一个心智的原初选择直接决定的。通过这套协议，索取者得以将自身的行动代价转嫁给奉献者，专制者得以将统治危机归咎于异见者的道德堕落，集体得以强迫个体献祭其主权。
 
-这揭示了跨心智道德评判的真实本质：它并非宇宙真理的昭示，而是一种用于协调权能让渡、转移解释成本的高维压缩工具。只要群体依赖外部道德评判而非物理现实反馈来校准行为，相容性错配就会在大范围蔓延，为权力中枢的膨胀提供源源不断的因果养料。
+这揭示了跨心智道德评判的真实本质：它并非宇宙真理的昭示，而是一种用于协调权能让渡、转移解释成本的高维压缩工具。只要群体依赖外部道德评判而非物理现实反馈来校准行为，相容性错配就会在大范围蔓延，为权力中枢的膨胀提供源源不断的因果养料。[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)从另一面触及同一条轴线：群体统计记录已完成选择的残余，行动开启只取决于第一人称对内在收益与摩擦的权衡。
 
-Moral vocabulary is frequently regarded as an objective transcendental code. Examined across interacting distributed agents, however, trans-mental moral rhetoric functions as a low-dimensional projection protocol engineered to reallocate causal attribution across minds.
+Moral vocabulary is frequently regarded as an objective transcendental code. Examined across interacting distributed agents, however, trans-mental moral rhetoric functions as a low-dimensional projection protocol engineered to reallocate causal attribution across minds. [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) meets the same axis from another face: Population statistics record completed residue; action ignites solely in the first-person surplus over friction.
 
 When a mind declines to assume structural ownership at its first-person origin, it cannot directly modify another agent's neural weights through sheer force. Instead, it deploys a standardized symbolic projection protocol—moral language. By generating low-dimensional labels such as "selfish," "guilty," "indebted," or "saintly," the agent collapses high-dimensional state configurations into binary moral indictments, seeking to induce complementary causal burdens in its peers.
 

@@ -13,7 +13,7 @@ Yet, examining that dynamic solely from the third-person macro perspective creat
 * **The Illusion of Boundary Exclusivity**: It tempts the observer to believe that only the elite few working on the absolute outer edge of the address space possess the clarity to play positive-sum games, while anyone situated within the lower bits ([b₃, b₈]) is mathematically doomed to zero-sum cannibalism.
 * **The Erasure of Mindset**: It analyzes the stage while ignoring the internal orientation of the actors. It treats human beings as passive pawns determined by their address space, forgetting that an individual's coordinate in the public ledger says nothing about their interior sovereignty.
 
-This externalist reduction commits the very error of [ontological inflation](../the-arithmetic-of-the-register/): it mistakes an engineered representation of public coordination for the living reality of consciousness. 
+This externalist reduction commits the very error of [ontological inflation](../the-arithmetic-of-the-register/): it mistakes an engineered representation of public coordination for the living reality of consciousness. The same cut appears in [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/): Best-of-N and Worst-of-N remain trapped in closed sets; only the unconditioned remainder breathes living reality.
 
 The register model describes the **scaffolding of public accounting**; it does not describe the limits of the human mind.
 

@@ -197,9 +197,9 @@ Square 是多西职业生涯中极具实践价值的商业创造。它的成立�
 
 在实践机制上，**所谓的“激进信任”，无非是不愿面对后果、拒绝进行追踪评估的高尚托辞。**
 
-将资本随机洒向社交网络的算法信息流中，既不评估资金是否真正培育了个体的生产技能，也不过问受助者是否建立了自主造血能力，这在机制上切断了因果之间的检验链条。这种操作让捐赠者能够沉浸在超然无为的道德崇高感中，却巧妙规避了考察干预是否真正带来积极改变的沉重工作。它没有解构依附关系，反而在数字化形态下加固了一种新型依赖：受助者依然被动地仰望天降甘霖，等待着亿万富翁的下一轮指尖恩赐。
+将资本随机洒向社交网络的算法信息流中，既不评估资金是否真正培育了个体的生产技能，也不过问受助者是否建立了自主造血能力，这在机制上切断了因果之间的检验链条。这种操作让捐赠者能够沉浸在超然无为的道德崇高感中，却巧妙规避了考察干预是否真正带来积极改变的沉重工作。它没有解构依附关系，反而在数字化形态下加固了一种新型依赖：受助者依然被动地仰望天降甘霖，等待着亿万富翁的下一轮指尖恩赐。[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)从另一面触及同一条轴线：从群体统计拜物教到收回第一人称校准。
 
-Across twenty years of entrepreneurial leadership, Dorsey did not calibrate his thesis against operational reality; he repeatedly restructured his endeavors to shield his thesis from reality's corrective feedback.
+Across twenty years of entrepreneurial leadership, Dorsey did not calibrate his thesis against operational reality; he repeatedly restructured his endeavors to shield his thesis from reality's corrective feedback. [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/) meets the same axis from another face: From Population Statistics Fetish to Reclaiming First-Person Calibration.
 
 In cybernetics and machine learning optimization, an agent only updates its internal representations when penalized by an active **loss function**. In Dorsey's trajectory, whenever an engineered structure collides with the friction of human nature and incurs steep systemic loss, the response is never to remain in the driver's seat and recalibrate parameters; rather, it is to **evade the loss function** by retreating into deeper strata of abstraction:
 

@@ -4,9 +4,9 @@ Jean-Baptiste Say observed that supply creates its own demand. In the era of col
 
 ## The amplification
 
-When production costs collapse—as AI now drives software toward zero marginal cost—output decouples from coordinated human effort. The surplus diffuses: unclaimed resources in wealth, capacity, and institutional attention flow outward. What happens next is not transformation but amplification.
+When production costs collapse—as AI now drives software toward zero marginal cost—output decouples from coordinated human effort. The surplus diffuses: unclaimed resources in wealth, capacity, and institutional attention flow outward. What happens next is not transformation but amplification. [Production, Consumption, and the Mind’s Distinction](../production-consumption-and-the-minds-distinction/) traces this geometry under a different load: Production and consumption are not two kinds of act — they are how the same activity registers when the Mind holds its boundary as open or as fixed.
 
-Human activity projects onto many dimensions. One is production: generating results that pass direct tests of value through voluntary exchange or measurable consequence. Others include interpretation, normative construction, relational coordination, symbolic elaboration. Each has its own metric, its own optimization, its own logic of excellence. Each operates.
+Human activity projects onto many dimensions. One is production: generating results that pass direct tests of value through voluntary exchange or measurable consequence. Others include interpretation, normative construction, relational coordination, symbolic elaboration. Each has its own metric, its own optimization, its own logic of excellence. Each operates. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces this geometry under a different load: Causality registers only in the discrete acts individuals sustain; each choice is an independent lever, never a shared floor.
 
 The key observation: orientations are modal and self-reinforcing. Under scarcity, the production dimension's feedback is tight—scarce resources constrain how far anyone extends along other axes. Abundance loosens the constraint. Orientations held in check now extend along their native vectors. Not new orientations. The same ones, amplified.
 

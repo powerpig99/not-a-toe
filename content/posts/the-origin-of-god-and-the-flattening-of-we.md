@@ -132,7 +132,7 @@ graph TD
 
 更为深层的降维发生在心智试图去谈论“人类整体”或各种集体概念的时刻。
 
-当心智跳出具体的鲜活个体，站在假想的宇宙高度俯瞰所谓“人类”时，它实际上是在一个极其狭窄的特征维度（例如物种基因、经济产出或政治派系）上，对百亿个本应平行翱翔的独立主权心智进行粗暴的**一维统计求均值**。这种统计均值强行抹平了每一个个体心智作为独立宇宙的非平凡性，将鲜活的主权心智压缩为宏大叙事中的无差别像素点。
+当心智跳出具体的鲜活个体，站在假想的宇宙高度俯瞰所谓“人类”时，它实际上是在一个极其狭窄的特征维度（例如物种基因、经济产出或政治派系）上，对百亿个本应平行翱翔的独立主权心智进行粗暴的**一维统计求均值**。这种统计均值强行抹平了每一个个体心智作为独立宇宙的非平凡性，将鲜活的主权心智压缩为宏大叙事中的无差别像素点。[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)从另一面触及同一条轴线：生物演化、器物设计与借宇宙演进之名凌驾同类的认识论自戕。
 
 ```mermaid
 graph TD
@@ -150,7 +150,7 @@ graph TD
     style HomogenizedCollective fill:#21262d,stroke:#ff7b72,stroke-width:2px,color:#ff7b72
 ```
 
-Many believe that modern enlightenment abolished theological illusions. Yet unless causal mechanics are anchored at the first-person origin, the identical alienation reproduces itself in secular guise.
+Many believe that modern enlightenment abolished theological illusions. Yet unless causal mechanics are anchored at the first-person origin, the identical alienation reproduces itself in secular guise. [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) meets the same axis from another face: Biological Evolution, Artifact Design, and the Performative Contradiction of Cosmic Humility.
 
 When scientific theory is severed from the Mind's direct, first-person experimental feedback and reduced to an unchallengeable set of authoritative facts, **science becomes just another surrogate religion**. Blind trust in external consensus operates on the exact same topological surrender as religious faith.
 

@@ -8,7 +8,7 @@ A well-known cartoon depicts a student who, having completed a statistics course
 
 The hesitation in the joke is not uncertainty about statistics; it is the instinctive refusal to commit the very category error the course was meant to cure.
 
-Attributing the student's cognitive shift to "the class" treats an externalized curriculum as an autonomous causal agent acting directly upon a passive vessel. But a course is only structured residue: syllabus, lectures, exercises, and exams. It cannot force a distinction into existence.
+Attributing the student's cognitive shift to "the class" treats an externalized curriculum as an autonomous causal agent acting directly upon a passive vessel. But a course is only structured residue: syllabus, lectures, exercises, and exams. It cannot force a distinction into existence. [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) traces this geometry under a different load: Diagnosing another's aesthetic judgment reveals only the observer's own compressed mental model and cognitive boundary.
 
 What produced the transformation was a sequence of sovereign acts: the initial decision to register, the continuous discipline of directing attention, the internal resolution of confusion, and the subsequent choice to restrain hasty attributions. Statistics can record the positive correlation between course enrollment and improved reasoning scores. It cannot find the causal engine inside the regression table, because the engine was the individual center doing the thinking. [The average is residue, not the engine](../the-average-is-residue-not-the-engine/) holds that exact bound: mass distributions register composite effects, while the generating edge remains the discrete acts of individual loci.
 

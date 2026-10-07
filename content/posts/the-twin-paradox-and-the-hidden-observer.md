@@ -108,11 +108,11 @@ graph TD
 1. 对外宣称宇宙不存在特权基准，运动是观察者之间的对等关系；
 2. 解释佯谬时却暗中设立外部固定参照物，用第三人称的上帝视角压制了第一人称视角的对称性。
 
-佯谬并非来自物理现实的矛盾，而是来自这种偷渡操作。正如[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所阐明的，理论家先假定了一个中立客观的公共沙盒，然后将两个独立的因果中心强行塞入预设的坐标标尺之中，将观察工具的局限性伪造成了客观宇宙的物理属性。
+佯谬并非来自物理现实的矛盾，而是来自这种偷渡操作。正如[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所阐明的，理论家先假定了一个中立客观的公共沙盒，然后将两个独立的因果中心强行塞入预设的坐标标尺之中，将观察工具的局限性伪造成了客观宇宙的物理属性。[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)从另一面触及同一条轴线：物理学如何冻结现实电影并将投影命名为宇宙。
 
 ---
 
-The core project of modern relativity was to eradicate the privileged space and luminiferous ether of Newtonian mechanics, establishing the relational nature of inertial frames. Yet, when confronting the twin paradox, theorists quietly re-admitted the discarded privileged frame through the rear exit.
+The core project of modern relativity was to eradicate the privileged space and luminiferous ether of Newtonian mechanics, establishing the relational nature of inertial frames. Yet, when confronting the twin paradox, theorists quietly re-admitted the discarded privileged frame through the rear exit. [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) meets the same axis from another face: How Physics Froze the Movie of Reality and Named the Projection the Cosmos.
 
 To establish that the traveling twin experienced an asymmetric worldline deviation, textbooks invoke the mass of the Earth, the gravitational distribution of the galaxy, or the framework of distant cosmological structures. When these concrete material backgrounds prove insufficient in an idealized thought experiment, the interpreter constructs an imaginary vantage point suspended entirely outside the cosmos.
 
@@ -172,11 +172,11 @@ graph TB
 2. **投影参数**：在洛伦兹变换中，时间坐标 `t` 是人为构建的数学簿记工具，用于在不同观测框架之间对齐观测数据。正如[维度即投影](../dimensions-are-projections/)所指出的，维度是认知的降维压缩机制，而不是实体空间的长廊。将静态几何体中不同线条的度规长度差异，视为真实身体的年轻或衰老，是典型的地图与疆域混淆。
 3. **真实时间是不可逆的因果生成**：在真实的疆域中，不存在一个预先铺就的时空块供观察者穿行。现实在每一步中都是活的、由因果展开所决定的当下。正如[索要终极理论是将时间冻结为静态目录](../demanding-a-toe-freezes-time-into-a-catalog/)所揭示的，将时间还原为几何轴线，等于在头脑中预先杀死了时间的生成性，把活生生的宇宙制成了标本目录。
 
-在活的宇宙中，没有人在时间维度中“前进”或“滞后”。无论观察者如何运动，只要他们重聚在同一处视界之内，他们所共享的就是同一个当下的现实。时间膨胀只是理论模型在沿静态时间轴投影时，所产生的坐标形变效应。
+在活的宇宙中，没有人在时间维度中“前进”或“滞后”。无论观察者如何运动，只要他们重聚在同一处视界之内，他们所共享的就是同一个当下的现实。时间膨胀只是理论模型在沿静态时间轴投影时，所产生的坐标形变效应。同一道切分也出现在[不可还原的观察者](../the-irreducible-observer/)之中：客观性是主观性的成就，构建排除观察者之理论的心智无法将自身排除。
 
 ---
 
-Why does theoretical physics remain entangled in the twin paradox? The root cause lies in the **Frozen Universe (Block Universe) assumption** embedded within its mathematical architecture.
+Why does theoretical physics remain entangled in the twin paradox? The root cause lies in the **Frozen Universe (Block Universe) assumption** embedded within its mathematical architecture. The same cut appears in [The Irreducible Observer](../the-irreducible-observer/): Objectivity is an achievement of subjectivity; the consciousness that erases the observer cannot erase itself.
 
 In Minkowski spacetime geometry, time is spatialized into a fourth dimension. The entirety of cosmic occurrence is flattened into an already-finished, static four-dimensional geometric block. Within this construction, past, present, and future sit alongside one another like printed pages in a bound volume, and living histories are drawn as frozen geometric worldlines.
 
@@ -235,11 +235,11 @@ graph TD
 
 这对应着里程表的物理现实：两辆车从同一地点出发，在不同的道路应力下行驶并最终停在同一个车库里。一辆车的里程表记录了较少的英里数。没有任何理性的人会声称这辆车“穿越到了未来的车库”。两辆车共同停在此时此地的车库里，里程表的读数差异仅仅记录了机械齿轮在不同地面应力下的运转历史。
 
-正如在[时间是因果的方向与离散步长](../time-is-causality-not-a-dimension/)中所强调的，物理实在只有因果的连续演进。重逢的原子钟所显示的微小秒数差异，是物质振子在不同力学环境下的物理印记，不是穿越时空长廊的凭证。
+正如在[时间是因果的方向与离散步长](../time-is-causality-not-a-dimension/)中所强调的，物理实在只有因果的连续演进。重逢的原子钟所显示的微小秒数差异，是物质振子在不同力学环境下的物理印记，不是穿越时空长廊的凭证。[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)从另一面触及同一条轴线：价值源于感知与迭代而非占有，权力源于注入隐性变量而非占据席位。
 
 ---
 
-Empirical measurements are indisputable: atomic clocks flown on commercial airliners (the Hafele-Keating experiment) and atomic clocks aboard orbiting GPS satellites record cycle counts that diverge from ground-based references. Popular accounts present these results as experimental confirmations of "time travel."
+Empirical measurements are indisputable: atomic clocks flown on commercial airliners (the Hafele-Keating experiment) and atomic clocks aboard orbiting GPS satellites record cycle counts that diverge from ground-based references. Popular accounts present these results as experimental confirmations of "time travel." [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) meets the same axis from another face: Value arises from iterative perception, not possession; power from invisible variables, not seats.
 
 This narrative obscures the physical nature of measurement instruments:
 
@@ -402,11 +402,11 @@ graph TD
 这种表述之所以荒谬，是因为**它正是双生子佯谬的真正源头**：
 * 教科书中的双生子实验，无非是这套无限路径数学游戏中最简化的二体（N = 2）特例；
 * 理论家在静态坐标纸上画出无数条弯弯曲曲的线，用度规尺量出它们的长短差异，然后幻想着这些线段代表着无数条同时并存、流速各异的时间长河；
-* 现实中的重逢点 B 不是容纳无数条时间长河交汇的玄学水池，点 B 就是此时此地不可分割的当下。真实实体在每一步因果前沿中共同推进，图纸上无限路径的长度差异，不过是几何投影游戏的算术余数。
+* 现实中的重逢点 B 不是容纳无数条时间长河交汇的玄学水池，点 B 就是此时此地不可分割的当下。真实实体在每一步因果前沿中共同推进，图纸上无限路径的长度差异，不过是几何投影游戏的算术余数。[四维长鹿的幻象与当下的模型](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)在另一种负载下描摹了同一几何：叠合画帧为长虫并未窥见高维，不过是将当下投影误认为了永恒。
 
 ---
 
-Elevating the inquiry from localized thought experiments to the cosmic macro-scale unmasks an even more fatal incoherence at the foundation of modern physics: **the Big Bang and Heat Death are logically and physically impossible within a static four-dimensional block universe.**
+Elevating the inquiry from localized thought experiments to the cosmic macro-scale unmasks an even more fatal incoherence at the foundation of modern physics: **the Big Bang and Heat Death are logically and physically impossible within a static four-dimensional block universe.** [The Myth of the Four-Dimensional Deer and the Present Model](../the-myth-of-the-four-dimensional-deer-and-the-present-model/) traces this geometry under a different load: Stacking frames into a worldline reveals no higher dimension, merely mistaking a present projection for an eternal object.
 
 Standard cosmology demands simultaneous allegiance to two mutually exclusive structures:
 1. **Thermodynamics and Evolutionary Cosmology**: The universe began 13.8 billion years ago from a low-entropy origin (the Big Bang), subsequently expanding, cooling, and structuring under the irreversible arrow of causal updates, asymptotically destined for maximum entropy (Heat Death). This is an active, dynamic physical process;

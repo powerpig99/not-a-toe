@@ -16,7 +16,7 @@ Everything that follows unfolds from this fracture. Particles, forces, galaxies,
 
 Life isn't a special case. It's the Contradiction operating through self-reference. Where non-living matter extends distinction through physical dynamics—entropy, chemical combination, stellar nucleosynthesis—living systems do so through replication, adaptation, and recursive self-modeling.
 
-The process doesn't aim at anything. It moves away from what it already is. Replication, exploration, creation, novelty—these are the shapes extension takes when the Contradiction operates through organisms complex enough to observe their own observing.
+The process doesn't aim at anything. It moves away from what it already is. Replication, exploration, creation, novelty—these are the shapes extension takes when the Contradiction operates through organisms complex enough to observe their own observing. [Not a Theory of Everything](../not-a-theory-of-everything/) traces this geometry under a different load: Causality is irreducibly dual — effect distinct from cause, effect following cause — and everything else is what those two necessary conditions already entail.
 
 Progress, discovery, art, science—not optional pursuits chosen over alternatives, but the explicit form of the same process that birthed stars from primordial hydrogen.
 
@@ -36,7 +36,7 @@ No framework touches the second without reducing it to the first. Including this
 
 ## The question answers itself
 
-The boundary between known and unknown recedes endlessly. Arrival would mean stasis—non-existence by the same logic that prevents absolute nothingness from holding. The question "What is the meaning of life?" is itself a distinction being drawn, an extension in motion.
+The boundary between known and unknown recedes endlessly. Arrival would mean stasis—non-existence by the same logic that prevents absolute nothingness from holding. The question "What is the meaning of life?" is itself a distinction being drawn, an extension in motion. [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) traces this geometry under a different load: Meaning is generated in the live drafting of causes, not recovered from hardened effects — and it thins when the outward gaze never returns to the page.
 
 To ask it is already to live it.
 

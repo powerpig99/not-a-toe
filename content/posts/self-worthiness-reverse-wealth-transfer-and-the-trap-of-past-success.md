@@ -46,7 +46,7 @@ Logically, however, this is **the single most efficient deployment of capital in
 
 ## The Shifting Gradient: From Expanding to Defending Self-Worthiness
 
-Most individuals and organizations do not sustain this infinite posture. Instead, an insidious shift occurs along a continuous spectrum: **the gradient shifts from expanding self-worthiness to defending self-worthiness**.
+Most individuals and organizations do not sustain this infinite posture. Instead, an insidious shift occurs along a continuous spectrum: **the gradient shifts from expanding self-worthiness to defending self-worthiness**. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) traces this geometry under a different load: Ownership and Self-Worthiness.
 
 This shift does not erect an instantaneous, visible ceiling. Creators do not lose their capability overnight; they still retain residual self-worthiness and technical competence. Rather, the misallocation acts as an **accumulating internal drag**:
 
