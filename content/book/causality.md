@@ -43,3 +43,4 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/)
 - [抉择的跨界 / The Boundary Crossing of Choice](../../posts/the-boundary-crossing-of-choice/)
 - [没有固定者的固定 / Fixed by Nothing](../../posts/fixed-by-nothing/)
+- [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/)
