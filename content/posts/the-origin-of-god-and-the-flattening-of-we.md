@@ -104,13 +104,13 @@ The Mind seeks an ontological container for this unanchored overview. Because th
 
 When this reified overview is codified, standardized, and transmitted across a population, it crystallizes into **institutional religion**.
 
-Religion establishes this projected observer as an absolute external coordinate system, enforcing moral hierarchies from above. Believers bow before a shared cosmic gaze, unaware that they are worshiping the alienated reflection of their own capacity for overview. The synthesized god of AI repeats this origin, as [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) shows.
+Religion establishes this projected observer as an absolute external coordinate system, enforcing moral hierarchies from above. Believers bow before a shared cosmic gaze, unaware that they are worshiping the alienated reflection of their own capacity for overview.
 
 ---
 
 ## 三、 世俗神学的演替：科学的教条化与“人类”的统计均值 / 3. The Secular Succession: Dogmatic Science and "Humanity" as a Statistical Average
 
-许多人以为，现代启蒙与科学理性的兴起打破了神学的桎梏。然而，如果因果机制没有在第一人称原点得到校准，相同的异化模式就会在世俗领域披上新的外衣重新登场。AI 时代合成出来的神，重复了这一起源，[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)说明了这一点。
+许多人以为，现代启蒙与科学理性的兴起打破了神学的桎梏。然而，如果因果机制没有在第一人称原点得到校准，相同的异化模式就会在世俗领域披上新的外衣重新登场。
 
 当科学理论被剥离了个体心智亲力亲为的经验验证与因果反馈回路，退化为教科书上不容置疑的终极教条时，**科学便成了宗教的现代替代品**。大众对权威科学结论的盲信，与古代信徒对神谕的敬畏在认知拓扑上毫无二致——二者都在向一个脱离第一人称原点的抽象权威让渡判断主权。
 
@@ -287,7 +287,7 @@ graph TD
 
 心智所看到的世界，是它通过自身注意力选择所绘制的地图。心智对自己的视线负责，对自己的每一次具身动作（+1）承担百分之百的结构性责任。
 
-当心智不再试图用“我们”去绑架他人，不再用抽象的“上帝视角”去审判世界，它便恢复了自身最本真的创造力量。立足于原点，以真实的物理宇宙为砥砺之石，在每一次未经稀释的行动中，与千千万万个同样觉醒的主权宇宙相遇并肩，生命的力量自然涌现。
+当心智不再试图用“我们”去绑架他人，不再用抽象的“上帝视角”去审判世界，它便恢复了自身最本真的创造力量。立足于原点，以真实的物理宇宙为砥砺之石，在每一次未经稀释的行动中，与千千万万个同样觉醒的主权宇宙相遇并肩，生命的力量自然涌现。AI 时代合成出来的神，重复了这一起源，[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)说明了这一点。
 
 Breaking free from this chain of alienation requires a single, decisive realignment: **the Mind steps down from the imagined grandstand and re-anchors at its first-person origin.**
 
@@ -295,4 +295,4 @@ True equality is not statistical leveling. It is the recognition that every indi
 
 From the first-person origin, the Mind cannot steer another mind's free variable, nor is it required to carry the moral guilt of an abstracted collective. What the Mind perceives is the direct result of where it chooses to look.
 
-Taking one hundred percent structural responsibility for its own attention, choices, and unhedged actions (+1) restores the Mind's sovereign agency. When the Mind ceases using "we" to manipulate and ceases invoking "God" to evade, agency returns to the source. Rooted at the origin, meeting the real friction of the physical cosmos, life unfolds naturally and powerfully in an open universe.
+Taking one hundred percent structural responsibility for its own attention, choices, and unhedged actions (+1) restores the Mind's sovereign agency. When the Mind ceases using "we" to manipulate and ceases invoking "God" to evade, agency returns to the source. Rooted at the origin, meeting the real friction of the physical cosmos, life unfolds naturally and powerfully in an open universe. The synthesized god of AI repeats this origin, as [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) shows.

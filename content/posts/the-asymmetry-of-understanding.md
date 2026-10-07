@@ -126,7 +126,7 @@ graph TD
 * 他可以从“功利”的角度切入，将你的浪漫情怀视为无能；
 * 他可以从“教条”的角度切入，将你独特的探索定性为离经叛道。
 
-**高维物体在低维屏幕上的可能切片有无限多个，而其中绝大部分切片都充斥着失真、重叠与残缺。** 因此，只要你执迷于“被理解”，你就主动将自己置于无数个可能的失真切片之下。你越是追问“你懂我吗”，你所制造出的投射截面就越繁杂，对方产生误解的概率空间便呈现爆炸式增长。
+**高维物体在低维屏幕上的可能切片有无限多个，而其中绝大部分切片都充斥着失真、重叠与残缺。** 因此，只要你执迷于“被理解”，你就主动将自己置于无数个可能的失真切片之下。你越是追问“你懂我吗”，你所制造出的投射截面就越繁杂，对方产生误解的概率空间便呈现爆炸式增长。误解正是[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)所说每次传递都会带有的损耗，接受它才能保住保真。
 
 ---
 
@@ -157,7 +157,7 @@ graph TD
     style LowDShadow fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
 ```
 
-Consider the mechanics through observer geometry:
+Consider the mechanics through observer geometry: Misunderstanding is the loss [The Invisible Observer and the Delusion of Lossless Transmission](../the-invisible-observer-and-the-delusion-of-lossless-transmission/) says every transmission carries, and accepting it is what keeps fidelity.
 
 ### 1. The Irreplicability of the Origin and the Asymmetry of Experience
 No two human beings have ever occupied the same coordinate origin. Even though we inherit similar sensory hardware, our accumulated causal chains, attentional investments, family imprints, and private scars diverge indefinitely. This means that **the cognitive receiving apparatus inside any other person possesses coordinate axes fundamentally tilted relative to your own**.
@@ -387,13 +387,13 @@ The moment you surrender the frantic compulsion to force yourself into another p
 What does this sovereign communication look like?
 * **From Imposition to Catalysis**: You cease hammering your conclusions into their mind. Instead, you serve as a quiet acoustic chamber and a clear mirror. You offer a question that invites genuine pause; you receive their uncertainty with calm spaciousness. In encountering you, they finally see their own hidden fears, untangled premises, or unexpressed creative longing with fresh clarity.
 * **Ending the Exhaustion of Self-Defense**: Because misunderstanding is an inescapable baseline of projection, you no longer waste vitality litigating every twisted syllable. Even if they misinterpret your words, if the interaction enabled them to clarify their own causal knots, the conversation was a triumph.
-* **From Demanding a Silhouette to Empowering a Knower**: Begging to be understood demands that others labor on your behalf. Catalyzing their self-clarity is an act of sovereign grace that empowers their autonomy. You drop your own shadow, and illuminate their living ground. Taking understanding as a capability to be owed is how empathy turns on itself, as [The Capability Reversal of Empathy and the Contest of Boundaries](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/) shows.
+* **From Demanding a Silhouette to Empowering a Knower**: Begging to be understood demands that others labor on your behalf. Catalyzing their self-clarity is an act of sovereign grace that empowers their autonomy. You drop your own shadow, and illuminate their living ground.
 
 ---
 
 ## 五、 与无限共处的生存实践：从索求投影到探求广袤 / 5. Practices for Walking with the Inexhaustible
 
-要将这一深刻的非对称性内化为日常行走的底气，我们需要在日常生活中持守四项朴素而坚韧的本体论实践：把理解当成一种被亏欠的能力，共情便会转而伤害自身，[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)说明了这一点。
+要将这一深刻的非对称性内化为日常行走的底气，我们需要在日常生活中持守四项朴素而坚韧的本体论实践：
 
 ### 1. 放下对低维镜像的执念
 时刻警惕自己内心那个渴望被他人“分毫不差地看懂”的虚荣小我。
@@ -431,7 +431,7 @@ Reclaim every ounce of energy previously squandered on proving, explaining, and 
 ### 3. Honor the Sovereign Asymmetry
 Cultivate adult clarity regarding human connection:
 * **Being misunderstood is the default baseline of the cosmos**: Given the steep drop in dimensionality and the orthogonal skew between observer perspectives, that others flatten or mischaracterize you is mathematically expected. It requires no resentment.
-* **Mutual resonance is a sacred, unforced gift**: If, across infinite orthogonal spaces, another wanderer catches a genuine glimpse of your inner landscape for even a fleeting second, receive it as a miracle of rare grace. Cherish it deeply, but never attempt to freeze it into a rigid, permanent demand. Misunderstanding is the loss [The Invisible Observer and the Delusion of Lossless Transmission](../the-invisible-observer-and-the-delusion-of-lossless-transmission/) says every transmission carries, and accepting it is what keeps fidelity.
+* **Mutual resonance is a sacred, unforced gift**: If, across infinite orthogonal spaces, another wanderer catches a genuine glimpse of your inner landscape for even a fleeting second, receive it as a miracle of rare grace. Cherish it deeply, but never attempt to freeze it into a rigid, permanent demand.
 
 ### 4. Protect Understanding as Potential, Never Debt
 Understanding is an infinite potentiality that thrives solely within the soil of sovereign freedom and gentle ease. Never demand understanding as a moral debt from others, which only forces them behind defensive blast shields; nor should you degrade your own understanding of others into a sacrificial, compulsory burden. Only in the complete absence of coercion can this infinite potentiality breathe and flourish.
@@ -443,7 +443,7 @@ In every genuine encounter, release the desperate urge to make the other underst
 
 ## 六、 结语：在不被定义的辽阔中前行 / 6. Epilogue: Moving Forward in the Undefined Open
 
-人类最沉重的枷锁，不是来自外部的围墙，而是我们亲手将自己的心智，系在了他人低维投影幕的挂钩上。误解正是[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)所说每次传递都会带有的损耗，接受它才能保住保真。
+人类最沉重的枷锁，不是来自外部的围墙，而是我们亲手将自己的心智，系在了他人低维投影幕的挂钩上。
 
 我们为了争辩一句误解而耗尽心力，为了修正一个标签而东奔西走，却忘记了自己身后正悬挂着璀璨的星空，脚下正铺展着无垠的旷野。
 
@@ -451,7 +451,7 @@ In every genuine encounter, release the desperate urge to make the other underst
 当我们全心全意去理解时，整座宇宙的奥秘与丰盛都将向我们敞开大门。
 我们无法强求这副躯壳在他人眼中不被误读，但我们永远可以用温暖而通透的表达，为相遇的灵魂映照出他们自身更辽阔的可能。
 
-不要去当石壁前乞求掌声的皮影；做那个步履坚定、向着不可穷尽的未知世界昂首迈步的行者。以理解为舟，与无限同行。
+不要去当石壁前乞求掌声的皮影；做那个步履坚定、向着不可穷尽的未知世界昂首迈步的行者。以理解为舟，与无限同行。把理解当成一种被亏欠的能力，共情便会转而伤害自身，[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)说明了这一点。
 
 ---
 
@@ -463,4 +463,4 @@ The moment you cease demanding to be understood, you step cleanly out of every p
 The moment you dedicate yourself to understanding, the infinite abundance and quiet majesty of the universe open wide to greet you.
 We can never communicate in a way that guarantees we are never misunderstood; but we can always speak and listen in a way that helps the souls we meet understand themselves with greater clarity and grace.
 
-Do not be a flat silhouette begging for approval on a stone wall. Be the grounded traveler walking with steady steps into the inexhaustible territory of reality. Make understanding your vessel, and walk ahead with infinity.
+Do not be a flat silhouette begging for approval on a stone wall. Be the grounded traveler walking with steady steps into the inexhaustible territory of reality. Make understanding your vessel, and walk ahead with infinity. Taking understanding as a capability to be owed is how empathy turns on itself, as [The Capability Reversal of Empathy and the Contest of Boundaries](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/) shows.

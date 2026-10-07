@@ -12,7 +12,7 @@ I'd been thinking about education anyway, and this is what crystallized.
 
 The object of education is a person. A person has freedom and consciousness—which means they can never be fully shaped from the outside.
 
-This sounds obvious, but follow the implication: the more systematically you optimize education, the more you treat the child as an object to be shaped. Which contradicts the very thing that makes education meaningful—that the child is a subject with their own agency. **The optimization itself becomes the constraint.** Parents who hand down their path instead of the real thing commit the fallacy [The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle](../the-fallacy-of-post-success-parenting/) describes.
+This sounds obvious, but follow the implication: the more systematically you optimize education, the more you treat the child as an object to be shaped. Which contradicts the very thing that makes education meaningful—that the child is a subject with their own agency. **The optimization itself becomes the constraint.**
 
 越是有效的教育方式，越是限制孩子的潜力。越是追求教育方式的家长，越可能成为孩子成长的限制。父母把自己的路径而不是真东西传下去，正是[成功之后的育儿谬误](../the-fallacy-of-post-success-parenting/)所描述的谬误。
 
@@ -24,7 +24,7 @@ Each new book gives you a new lens—which gives you a new way to see the child 
 
 而一旦有了向外输出的欲望就更要命，那就变成了锤子，看啥都是钉子。
 
-And once you develop the desire to output—to share your parenting wisdom, to advise others, to build an identity around "I figured this out"—you become a hammer, and everything looks like a nail.
+And once you develop the desire to output—to share your parenting wisdom, to advise others, to build an identity around "I figured this out"—you become a hammer, and everything looks like a nail. Parents who hand down their path instead of the real thing commit the fallacy [The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle](../the-fallacy-of-post-success-parenting/) describes.
 
 ## The pattern in practice
 

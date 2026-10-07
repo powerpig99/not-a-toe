@@ -112,7 +112,7 @@ It attempts to use a local operation inside the system to freeze the flow of the
 
 既然万物理论既不可能立足于“过去的客观记录”，又会在被提出来的瞬间被真实时间甩在身后，那么物理学中那些被奉为至宝的科学理论，究竟捕获了什么？
 
-**任何理论，或者说人类所能构造的任何理论，能够捕获的仅仅是：在我们极其有限的时间观测窗口内，跨越时间的可观测不变量。**
+**任何理论，或者说人类所能构造的任何理论，能够捕获的仅仅是：在我们极其有限的时间观测窗口内，跨越时间的可观测不变量。**块状宇宙正是这样冻结时间的，[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)找出了它藏起的观察者。
 
 这正是物理定律的真实底色：
 无论是能量守恒、动量守恒、规范对称性，还是麦克斯韦方程或爱因斯坦场方程，它们都不是现实的肉身，而是在人类极其短暂的文明观测尺度内，心智所提炼出的**高度抽象的概念模型**。我们发现在我们有限的观测历程中，某些数学比例与代数结构保持着稳定的一致性，于是我们将这些“可观测的不变性”命名为“定律”。
@@ -132,7 +132,7 @@ It attempts to use a local operation inside the system to freeze the flow of the
 **抽象概念模型与实际物理现实之间的复杂度差距，在一切实用意义上都近乎等于无穷大。**
 
 从认识论上严格辨析：**这并不是真正的“实无穷”，因为无穷在本体论上仅仅是一种潜在的开放性，绝非一个已经闭合完成的实体数值。**
-现实永远在离散地生成，它不是现成的无穷大集合；但对于任何人类所能写出的有限符号模型而言，现实所蕴含的活体因果复杂度，在实用层面与模型的微小容量相比，呈现出了无限逼近无穷的断层。
+现实永远在离散地生成，它不是现成的无穷大集合；但对于任何人类所能写出的有限符号模型而言，现实所蕴含的活体因果复杂度，在实用层面与模型的微小容量相比，呈现出了无限逼近无穷的断层。即便是最优 N 与最差 N，也仍停在清单之内，[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)说明了这一点。
 
 索求万物理论所面临的结构性局限便呈现于此：
 理论家写下了几行由几十个符号构成的拉格朗日量，然后竟敢向全人类宣称：“这几行微不足道的信息模型，已经穷尽了物质宇宙的全部真实！”
@@ -142,7 +142,7 @@ It attempts to use a local operation inside the system to freeze the flow of the
 
 If a Theory of Everything cannot rely on an objective record of the past, and collapses into obsolescence the microsecond it is conceived, what is it that our celebrated scientific theories actually capture?
 
-**What any theory, or indeed any model constructed by consciousness, can ever capture is solely: the observable invariance across time within our limited time frame.**
+**What any theory, or indeed any model constructed by consciousness, can ever capture is solely: the observable invariance across time within our limited time frame.** The block universe freezes time this way, and [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/) finds the observer it hides.
 
 This is the sober reality of physical law:
 Whether we consider the conservation of energy, gauge symmetries, Maxwell’s equations, or the Einstein field equations, these constructs are not the living flesh of reality. They are **highly abstract conceptual models of reality** distilled by conscious observers within a minuscule temporal observation window. We discover that across the narrow slit of human instrument history, certain mathematical ratios and algebraic relationships exhibit remarkable stability, and we crown these "observable invariances" as universal laws.
@@ -161,7 +161,7 @@ Yet precisely because every microscopic degree of freedom in physical matter is 
 **The difference in complexity between our abstract models and actual physical reality is practically close to, but not equal to, infinity for all practical purposes.**
 
 A rigorous epistemological caveat is mandatory: **this is not an "actual infinity," because infinity is strictly an open potentiality, never an actualized, completed quantity.**
-Reality is an unclosable, discrete unfolding; it is not a closed transfinite set. Yet for any finite set of equations written down by human hands, the generative informational density of physical reality is so staggering that the difference in complexity is practically indistinguishable from an infinite abyss.
+Reality is an unclosable, discrete unfolding; it is not a closed transfinite set. Yet for any finite set of equations written down by human hands, the generative informational density of physical reality is so staggering that the difference in complexity is practically indistinguishable from an infinite abyss. Even Best-of-N and Worst-of-N stay inside a catalog, as [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) shows.
 
 The structural limitation of demanding a Theory of Everything becomes clear here:
 A theorist drafts a Lagrangian composed of a few dozen mathematical variables, assuming that this microscopic informational compress encloses the whole of cosmic reality.
@@ -552,7 +552,7 @@ And here lies the humble, serene ethos of our entire inquiry:
 **The exercise of this project is not to proselytize, argue, or correct any other mind; it is simply providing the scaffolding that this mind creates for the future self or any other mind who might find it useful to step out of itself.**
 
 **Here again, we witness the absolute coherence of both sides of the same coin:**
-From the third-person outside, one observes the formal boundaries of sparse models, irreducible friction, and the discrete quantum refresh of reality (`h ≠ 0`). But from the first-person inside, one exercises the sovereign agency to break the syntactic trance, step beyond the horizon of the established map, and make contact with unmodeled becoming (`+1`). "Physics is the law" is the catalog written as a statute, and [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) shows the sleight of hand involved.
+From the third-person outside, one observes the formal boundaries of sparse models, irreducible friction, and the discrete quantum refresh of reality (`h ≠ 0`). But from the first-person inside, one exercises the sovereign agency to break the syntactic trance, step beyond the horizon of the established map, and make contact with unmodeled becoming (`+1`).
 
 **Crucially, this is not a tragedy; it is just the way it is.**
 
@@ -568,7 +568,7 @@ The "theories" or cognitive models we adopt are nothing more than the local inva
 **Reality does not remain unclosable to satisfy a preferred metaphysical design, but because the generative unfolding of causality possesses no single, disembodied "View from Nowhere." Moral language inherently presumes a preferred version of the universe or reality, yet there is no such celestial vantage point. The preference of this mind does not automatically become the preference of another mind, let alone all minds. Each conscious agent chooses what to attend to, and that choice constitutes the reality it experiences. There is neither an external tribunal nor a universal hierarchy of preferences. It is as simple as that.**
 
 Following this theoretical inversion:
-**When physics claims to have mastered time through the Block Universe, it has not explained time; it has merely spatialized time into a corpse, petrified reality into geometry, and reduced living agency to an inert line on frozen coordinates—all to evade actual reality!** The block universe freezes time this way, and [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/) finds the observer it hides.
+**When physics claims to have mastered time through the Block Universe, it has not explained time; it has merely spatialized time into a corpse, petrified reality into geometry, and reduced living agency to an inert line on frozen coordinates—all to evade actual reality!**
 
 Along the projected time dimension, everything is already dead and calculated. But in actual living time, every breath, every measurement, and every sovereign decision tears through the static map, thrusting the cosmos into unscripted becoming.
 
@@ -578,9 +578,9 @@ Along the projected time dimension, everything is already dead and calculated. B
 ## 七、 逃避未来的本体风险：以代数坐标拒斥不可撤销的因果跨越 / 7. Avoiding the Ontological Risk of the Future: Calculating Coordinates to Evade the Real Step
 
 理清了上述幻觉之后，一个更加尖锐的人性问题浮出水面：
-**既然从认识论上看，任何理论都无法穷尽生成着的现实，为什么许多智识传统依然长期追求一套闭合的终极理论？**“物理即定律”是把清单写成了法条，[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)揭示了其中的戏法。
+**既然从认识论上看，任何理论都无法穷尽生成着的现实，为什么许多智识传统依然长期追求一套闭合的终极理论？**
 
-这主要源于认知系统对确定性与稳定性的结构性偏好：试图通过完备的静态模型，来规避面对未决未来时的因果不确定性。块状宇宙正是这样冻结时间的，[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)找出了它藏起的观察者。
+这主要源于认知系统对确定性与稳定性的结构性偏好：试图通过完备的静态模型，来规避面对未决未来时的因果不确定性。
 
 真实的时间是不可逆的。
 在真实的当下，你不可能通过倒带去撤销一个动作，你不可能通过改变坐标符号去消除一次坍缩；
@@ -596,7 +596,7 @@ Along the projected time dimension, everything is already dead and calculated. B
 **通过把现实视为一份基于当下的全知清单，并把未来表述为一条预先写定的几何流形，这种构想提供了一种确定性的承诺：“未来只是一段已经被算好的坐标；宇宙的一切已被大一统理论所封闭，只需推演其代数解即可。”**
 
 索求万物理论，本质上是**用对坐标维度的代数计算，替代了实际踏入未来的因果步长**。
-它试图用静态闭合的模型，免除身处开放因果流中所面临的未知与变数。即便是最优 N 与最差 N，也仍停在清单之内，[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)说明了这一点。
+它试图用静态闭合的模型，免除身处开放因果流中所面临的未知与变数。
 
 ---
 
@@ -611,7 +611,7 @@ In the living present, you cannot reverse an outcome by flipping a plus sign to 
 Before that step is actualized:
 * No master equation can guarantee the outcome in advance;
 * No Lagrangian density can absorb the suffering of error on your behalf;
-* The architecture of the future remains radically contingent upon the sovereign interventions of conscious navigators amidst coarse reality. Even Best-of-N and Worst-of-N stay inside a catalog, as [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) shows.
+* The architecture of the future remains radically contingent upon the sovereign interventions of conscious navigators amidst coarse reality.
 
 Stepping into an unmodeled future inherently carries causal unpredictability.
 A Theory of Everything represents the conceptual endeavor to minimize that unpredictability by projecting complete closure.
@@ -711,7 +711,7 @@ Physics cannot resolve this question not because its equations lack complexity, 
 心智在此展现出**“活体观察者”**的解耦功能：
 1. **辨析语法的固化**：当形式逻辑试图把先决前提降解为可选假说时，心智能够辨明其范畴倒错；
 2. **走出静态清单的局限**：当形式系统试图用投影坐标替代活体现实时，心智能够重新感知具身的真实摩擦；
-3. **回归生成的动词**：心智能够主动从写就的名词符号中抽身，重新立足于生成着的因果前沿（`+1`）。
+3. **回归生成的动词**：心智能够主动从写就的名词符号中抽身，重新立足于生成着的因果前沿（`+1`）。“物理即定律”是把清单写成了法条，[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)揭示了其中的戏法。
 
 ---
 
@@ -745,7 +745,7 @@ No static axiomatic rule can prevent this drift, for rules are themselves deposi
 The mind performs the functional role of the **Living Observer**:
 1. **Disclose the Nominalization of Syntax**: When formal logic attempts to demote the foundational Prior into an optional hypothesis, the mind clarifies the category error;
 2. **Step Beyond the Static Catalog**: When formal systems attempt to replace living reality with projected coordinates, the mind re-orients toward physical friction;
-3. **Inhabit the Generative Verb**: The mind steps out of static nouns, planting its feet firmly on the moving edge of active causality (`+1`).
+3. **Inhabit the Generative Verb**: The mind steps out of static nouns, planting its feet firmly on the moving edge of active causality (`+1`). "Physics is the law" is the catalog written as a statute, and [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) shows the sleight of hand involved.
 
 ---
 

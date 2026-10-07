@@ -18,7 +18,7 @@ From the meta-reflexive trap of recursive judgment to the orthogonal expansion o
 
 更具张力的是思辨层面的递归风险：一旦试图去归纳、定义何为“显性覆辙”与“隐性覆辙”，心智便很容易走向另一个隐秘的裁判席——以一种洞察全局的姿态，在概念的制高点上索取更高维度的智性优越感。
 
-这种层层嵌套的“元反思陷阱”揭示出一个核心命题：为何一旦涉及认知与评价，心智无论是指向他人、指向过去的自身，还是指向思辨行为本身，都会不由自主地陷入靠“否定”来锚定位置的冲动？正如在 [大倒置的消解与活态哲学的开端](../the-dissolution-of-the-great-reversal/) 中所揭示的，只要心智把因果效力让渡给外部符号或静态标尺，就会不自觉地借助贬低外物来维系虚假的立足点。
+这种层层嵌套的“元反思陷阱”揭示出一个核心命题：为何一旦涉及认知与评价，心智无论是指向他人、指向过去的自身，还是指向思辨行为本身，都会不由自主地陷入靠“否定”来锚定位置的冲动？正如在 [大倒置的消解与活态哲学的开端](../the-dissolution-of-the-great-reversal/) 中所揭示的，只要心智把因果效力让渡给外部符号或静态标尺，就会不自觉地借助贬低外物来维系虚假的立足点。试图替他人调速是否定的另一种形式，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)把速度交还给我自己遇到的摩擦。
 
 When encountering the phenomenon of "denigration," consciousness easily slides into a multi-layered recursive trap.
 
@@ -36,13 +36,13 @@ This nested meta-reflexive snare uncovers a fundamental question: why does the m
 
 这种冲动的根源，在于心智习惯于借助“否定”来完成排他性的自我确立。
 
-用“否定”去立足的前提，是潜意识中将现实预设成了一个固定、封闭的容器。在这个存量有限的硬壳结构里，容积恒定不变。因此，当下的存在要确立自身，就必须在空间内挤出位置——要么将“他者”排挤出去，要么将“过去的形态”从版图中抹除。否定他人，便成了心智在存量竞争幻觉中最省力、最直观的立足途径。试图替他人调速是否定的另一种形式，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)把速度交还给我自己遇到的摩擦。
+用“否定”去立足的前提，是潜意识中将现实预设成了一个固定、封闭的容器。在这个存量有限的硬壳结构里，容积恒定不变。因此，当下的存在要确立自身，就必须在空间内挤出位置——要么将“他者”排挤出去，要么将“过去的形态”从版图中抹除。否定他人，便成了心智在存量竞争幻觉中最省力、最直观的立足途径。
 
 然而，这本身是一种将现实物化的幻象。现实与心智的场域本是敞开且持续流动的。
 
 心智所看见的“别人”，从来不是独立于心智之外的客观孤岛，而是心智自身在特定情境下选择投射与映射的显现，是经由他者所映照出的心智自身的一部分。心智所能感知、体验与理解的边界，构成了其认知的全部疆域。在敞开的流动中，通过割裂并排斥他人来确立自己，在逻辑上是无法自洽的。
 
-每一次出于优越感的否定，看似压低了对方，实则是在心智自身的完整地图上人为割去了一块盲区。否定他人，本质上是在向内自我削减。越是急于借助排他来占座，心智所占据的有效视野反而越发逼仄。在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中我们看到，概念的牢笼正是由这种向内切割的排他性划界所筑成。
+每一次出于优越感的否定，看似压低了对方，实则是在心智自身的完整地图上人为割去了一块盲区。否定他人，本质上是在向内自我削减。越是急于借助排他来占座，心智所占据的有效视野反而越发逼仄。在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中我们看到，概念的牢笼正是由这种向内切割的排他性划界所筑成。与 AI 智能体协作时，谁坐在驾驶座上也由同样的锚定决定，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)说明了这一点。
 
 The root of this compulsion lies in the habitual reliance on negation to establish an exclusive self-identity.
 
@@ -52,7 +52,7 @@ Yet this premise is an objectified illusion. The field of consciousness and real
 
 The "other" perceived by awareness is never an isolated, freestanding object existing in an external void; it is a cognitive projection rendered by the mind within a specific situational context—a mirror reflecting an aspect of the mind's own operational field. The boundaries of what consciousness perceives, experiences, and understands define the total domain of its world. Within an open continuum, attempting to secure oneself by amputating and rejecting others is logically incoherent.
 
-Every act of negation driven by a bid for superiority appears to diminish the other, but in truth, it cuts a blind spot into the mind's own territory. Negating the other is an act of inward self-reduction. The more desperately one relies on exclusion to seize a seat, the more suffocatingly narrow one's effective horizon becomes. As demonstrated in [Dismantling the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/), the cage of rigid abstractions is forged precisely by this self-amputating boundary-making.
+Every act of negation driven by a bid for superiority appears to diminish the other, but in truth, it cuts a blind spot into the mind's own territory. Negating the other is an act of inward self-reduction. The more desperately one relies on exclusion to seize a seat, the more suffocatingly narrow one's effective horizon becomes. As demonstrated in [Dismantling the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/), the cage of rigid abstractions is forged precisely by this self-amputating boundary-making. The same anchoring decides who sits in the driver's seat when working with AI agents, as [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) shows.
 
 ---
 
@@ -137,17 +137,17 @@ Each round of negation-driven sorting folds and collapses the mind's internal di
 
 向内的审视绝非对主体的审判与定罪，而是生成的代谢起点。一个具备自省能力的认知系统之所以能够进化，正在于能够以自身为基准，在情境的反馈中持续迭代、修正与更新。
 
-正如 [登高并未离开地面](../climbing-does-not-leave-the-ground/) 所阐明的，心智的发展并非塑像的铸造——不需要通过砸碎旧模具来证明新版本的价值。主体始终处于情境的生成之中，是一条川流不息的河。在这条流动的长河里，根本不存在一个可以驻足停滞、被永久焊死的固化锚点。与 AI 智能体协作时，谁坐在驾驶座上也由同样的锚定决定，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)说明了这一点。
+正如 [登高并未离开地面](../climbing-does-not-leave-the-ground/) 所阐明的，心智的发展并非塑像的铸造——不需要通过砸碎旧模具来证明新版本的价值。主体始终处于情境的生成之中，是一条川流不息的河。在这条流动的长河里，根本不存在一个可以驻足停滞、被永久焊死的固化锚点。
 
 What, then, is the genuine function of "negation" in the evolution of consciousness?
 
-Intuitively, **negation is the necessary inverse of growth: in the living evolution of consciousness, there is no growth without negating past states**. Without distinguishing the moving edge from the past baseline, without negating the closure and limitations of old forms, consciousness cannot take the next causal step (+1). Without this inward self-examination and negation of past boundaries, consciousness petrifies into rigidity. The same anchoring decides who sits in the driver's seat when working with AI agents, as [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) shows.
+Intuitively, **negation is the necessary inverse of growth: in the living evolution of consciousness, there is no growth without negating past states**. Without distinguishing the moving edge from the past baseline, without negating the closure and limitations of old forms, consciousness cannot take the next causal step (+1). Without this inward self-examination and negation of past boundaries, consciousness petrifies into rigidity.
 
 The cognitive distortion lies not in negation itself, but in hijacking what should serve as an internal metabolic engine and weaponizing it into a yardstick to advertise the superiority of its new state. Standing upon the latest stair, the subject stomps backward onto its past footprints, proclaiming that it has arrived at some enlightened final plateau.
 
 Inward reflection is not a punitive trial of the subject, but the generative metabolic starting point. A reflective cognitive system evolves precisely because it uses its own state as a reference baseline, continuously iterating, refining, and updating (+1) against situational friction.
 
-As articulated in [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/), the development of mind is not the casting of a bronze statue—it does not need to shatter earlier molds to prove the value of its current iteration. Awareness is an ongoing generation within context, an ever-flowing river. Within this current, no frozen, permanently welded anchor exists. [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) supplies the geometry: a mind that is its own coordinate system has no need to negate another's.
+As articulated in [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/), the development of mind is not the casting of a bronze statue—it does not need to shatter earlier molds to prove the value of its current iteration. Awareness is an ongoing generation within context, an ever-flowing river. Within this current, no frozen, permanently welded anchor exists.
 
 ---
 
@@ -193,7 +193,7 @@ graph TD
     style Act3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-Returning to the establishment of cognitive coordinates: in an era saturated with external noise and rapid feedback, how does consciousness maintain its own ground within a shifting environment?
+Returning to the establishment of cognitive coordinates: in an era saturated with external noise and rapid feedback, how does consciousness maintain its own ground within a shifting environment? [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) supplies the geometry: a mind that is its own coordinate system has no need to negate another's.
 
 The resolution does not lie in erecting an immovable fortress to proclaim righteousness, but in releasing the compulsion to seize territory through negation and scalar ranking.
 

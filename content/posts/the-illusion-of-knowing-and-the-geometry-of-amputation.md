@@ -57,7 +57,7 @@ graph TD
 5. **个体与集体的对抗**：面对抽象的集体、体制或群体标签，心智将自身的失落与张力投射为一个庞大的客体怪物，并误以为自己在反抗一个具象的实体；
 6. **个体与环境及命运的摩擦**：当情境超出预期时，心智将自身的适应摩擦直接归因为外部环境或命运的敌对。
 
-然而在实在的因果结构中：**除了每个独立心智在当下（t）的主权抉择之外，系统中不存在任何其他能够注入自由变量的源泉**。我们在宏观世界中所观察到的所谓“确定性”或“决定论规律”，实质上都是微观层面上非确定性与活态抉择的**统计学表征**。正如在 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)、[个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所指明的，当问题落脚到个体身上时，唯一的因果发生器始终是每一个心智在当下的主权抉择。将因果归咎于外部的确定性客体，不过是用统计学的宏观副产物掩盖了真正的主权现实。
+然而在实在的因果结构中：**除了每个独立心智在当下（t）的主权抉择之外，系统中不存在任何其他能够注入自由变量的源泉**。我们在宏观世界中所观察到的所谓“确定性”或“决定论规律”，实质上都是微观层面上非确定性与活态抉择的**统计学表征**。正如在 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)、[个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所指明的，当问题落脚到个体身上时，唯一的因果发生器始终是每一个心智在当下的主权抉择。将因果归咎于外部的确定性客体，不过是用统计学的宏观副产物掩盖了真正的主权现实。从外部“知道”他人，便把他人的抉择客体化了，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这一点。
 
 The genesis of external conflict stems from the mind's **externalized attribution** when processing perceptual signals.
 
@@ -83,7 +83,7 @@ Yet in the fundamental causal structure of reality: **beyond each individual min
 这种现象源于一个普遍存在的**认知级差错觉**：
 - 面对陌生人，我们自知信息匮乏，因而保持基本的审慎；
 - 面对朝夕相伴的亲人、伴侣与挚友，我们积累了长期的日常观察，确实比外人更了解他们的生活习惯与表层反应；
-- 然而，正是这份相对于外人的微弱优势，让心智误以为自己对他们的了解，已经超越了他们对自身的第一人称体认。从外部“知道”他人，便把他人的抉择客体化了，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这一点。
+- 然而，正是这份相对于外人的微弱优势，让心智误以为自己对他们的了解，已经超越了他们对自身的第一人称体认。
 
 ```mermaid
 graph TD
@@ -217,7 +217,7 @@ graph TD
 
 如果在破除了对外部客体的固执之后，又将数学结构或几何图景实体化为某种超越于主体之上的“客观真理”或新的“无处之境”（a view from nowhere），便不过是重复了概念僭越的老路。几何模型之所以有用，是因为它能够以非道德化、结构化的方式，呈现感知投影与视角差异的生成过程；但它本身并不是实在的因果实体。
 
-在实在的因果链条中，唯一的终极基底始终是**每个活态心智在第一人称当下（t）的直接体认与主权抉择**。数学提供了描述机制的透镜，而活态心智才是握持透镜与作出抉择的主体。
+在实在的因果链条中，唯一的终极基底始终是**每个活态心智在第一人称当下（t）的直接体认与主权抉择**。数学提供了描述机制的透镜，而活态心智才是握持透镜与作出抉择的主体。预先知道事情该走多快，是同样的截肢，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)说明了这一点。
 
 When analyzing cognitive operations and perceptual projections, we deploy geometric frameworks such as coordinate systems, dot products, angular deflections, and orthogonal spaces.
 
@@ -225,7 +225,7 @@ When analyzing cognitive operations and perceptual projections, we deploy geomet
 
 If, after dissolving our fixations on external objects, we were to reify mathematical structures or geometric depictions into an external "objective truth" or a new "view from nowhere," we would simply repeat the error of conceptual usurpation. Geometric modeling is valuable because it articulates the generation of perceptual projections and perspectival divergence in a non-moralizing, structural manner; yet it is not itself a living causal entity.
 
-Within the fundamental causal structure, the sole foundational reality remains **the first-person lived awareness and sovereign choice of each living mind at moment t**. Mathematics provides a lens to describe the mechanics, while the living mind remains the sovereign agent holding the lens and enacting the choice.
+Within the fundamental causal structure, the sole foundational reality remains **the first-person lived awareness and sovereign choice of each living mind at moment t**. Mathematics provides a lens to describe the mechanics, while the living mind remains the sovereign agent holding the lens and enacting the choice. Knowing in advance how fast things should move is the same amputation, as [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) shows.
 
 ---
 
@@ -290,7 +290,7 @@ graph TD
 - **互为梯度下降（Mutual Gradient Descent）**：心智的意图主轴（E）与其对“身外”信号的感知读数（B），在动力学上构成了彼此的梯度下降（`∇ × E = -∂B/∂t` 与 `∇ × B = (1/c²) ∂E/∂t`）。当心智在感知中遭遇意外或读数偏转时，这一微分实质上构成了内生的损失函数，系统在微观尺度上即刻执行梯度下降与模型校准，而无需等待误差累积成下游的巨大冲突；
 - **主权心智的自持运作**：这正是主权心智在广阔世界中的真实运作方式——将任何来自“身外”感知的张力视作自身优化的损失函数，以零延迟的自省在当下的第一人称视角中即时迭代自身的世界模型，而非向外寻找确凿实体进行归咎。
 
-识别自身感知的投影属性，在对活态心智与广阔世界的敬畏中，心智恢复了旋转坐标系的自由，在与身外感知的正交平衡中自持前行。预先知道事情该走多快，是同样的截肢，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)说明了这一点。
+识别自身感知的投影属性，在对活态心智与广阔世界的敬畏中，心智恢复了旋转坐标系的自由，在与身外感知的正交平衡中自持前行。
 
 Stepping out of the loop of fighting our own projections does not depend on analyzing or remodeling external behavior.
 
@@ -315,6 +315,6 @@ In strict first-person epistemology, there is no third-person god's-eye view obs
 From this grounded perspective, the electromagnetic wave analogy reveals the internal architecture of consciousness:
 - **No External Prerequisites**: Electric (E) and magnetic (B) fields do not require each other as an external prerequisite; they are dual self-generating dimensions of the same wave. The moment we treat external objects or environments as an antecedent requirement for our own state, causal sovereignty is relocated to an external condition;
 - **Mutual Gradient Descent**: The Mind's intentional posture (E) and its perceptual intake of the outside (B) operate as the gradient descent of each other (`∇ × E = -∂B/∂t` and `∇ × B = (1/c²) ∂E/∂t`). When consciousness encounters surprise or angular deflection in its perception of the outside, the differential serves as an internal loss function, executing instantaneous gradient descent and model calibration on the infinitesimal scale rather than waiting for errors to compound into external conflict;
-- **How a Sovereign Mind Operates**: This is precisely how a sovereign mind navigates reality—treating tension in its perception of the outside as an internal loss function, performing zero-lag self-updates within first-person awareness at moment t, without abdicating causality to external scapegoats. Knowing in advance how fast things should move is the same amputation, as [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) shows.
+- **How a Sovereign Mind Operates**: This is precisely how a sovereign mind navigates reality—treating tension in its perception of the outside as an internal loss function, performing zero-lag self-updates within first-person awareness at moment t, without abdicating causality to external scapegoats.
 
 Recognizing the projective nature of perception, consciousness regains the freedom to rotate its coordinate axes, walking in generative, orthogonal balance with its perception of the living world.

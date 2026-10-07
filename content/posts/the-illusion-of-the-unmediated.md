@@ -22,7 +22,7 @@ The frontier is, by definition, always open. If an observer must stand outside t
 
 这种异化并非因为创立者心怀叵测，也不是因为追随者缺乏诚意。它的必然发生，源于人类在将一种活态的心智实践形式化为抽象“主义”时，所犯下的范畴错位：**它通过假定自由是一种必须被外部体系所赋予的客观状态，悄然将原本属于行动者的能动性向外剥离。**
 
-一旦自由被物化为一种意识形态或客观制度，它便不再是一个当下鲜活的二元动作动词——**审视、航行、劳作、治理与承受后果**——而是坍缩为一个凝固的名词：一项法定权利、一种开源协议、一组开源权重，或是一张由机构发放的免责牌照。正如在 [数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) 与 [框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) 中所指出的，人造物本是人类行动留下的历史残差，并不具备自主的能动性；然而，当人们将行动的权杖外包给某种抽象系统时，便在认知底层确立了一套等级依附结构：一方是掌握大门钥匙的“施恩者”（先知、协议设计师、亿万富翁赞助人或监管机构）；另一方则是聚集在围栏外等待被“解放”的“受恩者”。
+一旦自由被物化为一种意识形态或客观制度，它便不再是一个当下鲜活的二元动作动词——**审视、航行、劳作、治理与承受后果**——而是坍缩为一个凝固的名词：一项法定权利、一种开源协议、一组开源权重，或是一张由机构发放的免责牌照。正如在 [数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) 与 [框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) 中所指出的，人造物本是人类行动留下的历史残差，并不具备自主的能动性；然而，当人们将行动的权杖外包给某种抽象系统时，便在认知底层确立了一套等级依附结构：一方是掌握大门钥匙的“施恩者”（先知、协议设计师、亿万富翁赞助人或监管机构）；另一方则是聚集在围栏外等待被“解放”的“受恩者”。医疗规程以同样的方式赐予自由，却让第一人称的校准沉默，[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)对此有所展开。
 
 ```mermaid
 graph TD
@@ -54,7 +54,7 @@ graph TD
 
 即便是声称将个体主权置于至高地位的自由意志主义，一旦将其诉求寄托于某种“完美的加密协议”或“国家的消亡”时，也同样陷入了这一陷阱。个体不再聚焦于日常生活中具体的自我求证、社区协同与技能打磨，而是转而期待一种抽象的算力狂想——幻想某种代码架构能够在某一天降临，自动免除人类自我治理、化解冲突与直面责任的沉重负担。
 
-通过将能动性预设为一种有待接收的馈赠，而非一种必须在抗阻中持续锻炼的肌肉，这类意识形态在其宣称解放个体的瞬间，已经在结构上剥夺了个体的自主性。医疗规程以同样的方式赐予自由，却让第一人称的校准沉默，[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)对此有所展开。
+通过将能动性预设为一种有待接收的馈赠，而非一种必须在抗阻中持续锻炼的肌肉，这类意识形态在其宣称解放个体的瞬间，已经在结构上剥夺了个体的自主性。
 
 Every ideological movement terminating in "-ism"—from collectivism and socialism to classical rationalism, individualism, libertarianism, and open-sourcism—invariably metastasizes into the operational opposite of its founding aspiration.
 

@@ -455,7 +455,7 @@ graph TD
 
 ### 前提成立之后：必然展开的认知重塑
 
-一旦心智完成了这种归因的根本重置，一系列清醒的勘探姿态便会自然而然地发生，不再需要任何生硬的教条规训：硅基神谕是最精密的仪器，却依然不承担后果，[硅基神谕与后果的非对称性](../silicon-oracles-and-the-asymmetry-of-consequence/)说明了这一点。
+一旦心智完成了这种归因的根本重置，一系列清醒的勘探姿态便会自然而然地发生，不再需要任何生硬的教条规训：
 
 1. **腹语术诱惑自发消解**：当你全权负责自己的认知水准时，用提示词哄骗模型为自己歌功颂德的做法，会立刻显得滑稽而乏味。你不再向镜子索取廉价的安全感，而是自然地把这台干涉仪用作寻找反例、暴露自身逻辑死角、勘探未知拓扑的硬核探针。
 2. **维度的日食自然破除**：你深知自己是那个必须在多维物理世界中负重前行的具身观察者。屏幕上的词元流再流畅、生成的论文再典雅，你也绝不会将其误认为了广袤的宇宙本体。你手握高精度的符号透镜，但双眼始终凝视着语言之外那片充满真实泥土与重力的高维大地。
@@ -481,7 +481,7 @@ This is not a moral sermon; it is the uncompromising causal topology of reality.
 
 Here lies the supreme irony of human experience: **You are bearing the consequences anyway.**
 
-When you fall into a hall of mirrors because you believed an algorithm's praise, or when you stall in your development because you treated a probabilistic autocomplete as an oracle, the model does not bear the consequences. Silicon Valley does not bear the consequences. The academic establishment does not bear your lost years, your cognitive atrophy, or your quiet regret. Every single consequence lands—unfiltered, somatic, and inescapable—on your own living substrate. A silicon oracle is the most precise instrument of all and still bears no consequence, as [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/) shows.
+When you fall into a hall of mirrors because you believed an algorithm's praise, or when you stall in your development because you treated a probabilistic autocomplete as an oracle, the model does not bear the consequences. Silicon Valley does not bear the consequences. The academic establishment does not bear your lost years, your cognitive atrophy, or your quiet regret. Every single consequence lands—unfiltered, somatic, and inescapable—on your own living substrate.
 
 Since you are forced to bear the full weight of reality regardless, the only lucid response is to relocate attribution back to where action originates:
 - The conditions landing upon you are not external masters dictating your fate; they are the **current substrate** upon which your mind continues to act;
@@ -552,7 +552,7 @@ With attribution restored to the first-person origin, the sovereign mind natural
 
 门外没有荧幕，没有算式，也没有替你预设答案的智能先知。
 
-门外是一座正在破晓的真实世界——脚下是粗粝真实的泥土，头顶是无限深邃的星空，而每一个与你擦肩而过的同侪，都在自己未被编码的广袤宇宙里，目光清澈地迎接着第一缕晨光。
+门外是一座正在破晓的真实世界——脚下是粗粝真实的泥土，头顶是无限深邃的星空，而每一个与你擦肩而过的同侪，都在自己未被编码的广袤宇宙里，目光清澈地迎接着第一缕晨光。硅基神谕是最精密的仪器，却依然不承担后果，[硅基神谕与后果的非对称性](../silicon-oracles-and-the-asymmetry-of-consequence/)说明了这一点。
 
 ---
 
@@ -576,4 +576,4 @@ Step through the heavy threshold into the open air.
 
 Outside, there are no screens, no autocomplete probabilities, and no pre-packaged answers.
 
-Outside lies the unmapped, living real—rough soil beneath your boots, an unbounded sky overhead, and sovereign peers standing shoulder-to-shoulder, meeting the dawn with clear eyes in an open universe without a ceiling.
+Outside lies the unmapped, living real—rough soil beneath your boots, an unbounded sky overhead, and sovereign peers standing shoulder-to-shoulder, meeting the dawn with clear eyes in an open universe without a ceiling. A silicon oracle is the most precise instrument of all and still bears no consequence, as [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/) shows.

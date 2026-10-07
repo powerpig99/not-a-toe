@@ -52,17 +52,17 @@ This is why a chain can be coherent as a process while the first visible result 
 
 Under this understanding, **agency is the ability to inject a free variable.**
 
-受约束的系统——纸张、证明、模型、初次回复——拥有既定的特征：公理、权重、对提示的隐式补全。在特征内部，系统重排数值，但无法增加当前状态尚未包含的符号。正如[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)所揭示的，统计规律只是庞大自由变量系综的几何投影，宏观模型无法替第一人称做主。采样会有意外；当意外被视为缺失参数的依据，并将该参数补写进去时，变量就成为自由变量。事后从残余中认领的权力，藏起了那个进入系统的变量，[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)说明了这一点。
+受约束的系统——纸张、证明、模型、初次回复——拥有既定的特征：公理、权重、对提示的隐式补全。在特征内部，系统重排数值，但无法增加当前状态尚未包含的符号。正如[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)所揭示的，统计规律只是庞大自由变量系综的几何投影，宏观模型无法替第一人称做主。采样会有意外；当意外被视为缺失参数的依据，并将该参数补写进去时，变量就成为自由变量。
 
-A bound system—paper, proof, model, first reply—has a signature: axioms, weights, the implicit completion of the prompt. Within that signature it can rearrange values. It cannot add a symbol the current state did not contain. As shown in [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/), statistical regularities are merely geometric projections of an ensemble of free variables, powerless over immediate first-person choice. The sample may be unexpected. The variable becomes free when the unexpected is read as evidence that a parameter was missing, and that parameter is written in. Power claimed afterward from residue hides the variable that entered, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) shows.
+A bound system—paper, proof, model, first reply—has a signature: axioms, weights, the implicit completion of the prompt. Within that signature it can rearrange values. It cannot add a symbol the current state did not contain. As shown in [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/), statistical regularities are merely geometric projections of an ensemble of free variables, powerless over immediate first-person choice. The sample may be unexpected. The variable becomes free when the unexpected is read as evidence that a parameter was missing, and that parameter is written in.
 
 这一点在 [没有固定者的固定](../fixed-by-nothing/) 中得到了另一种印证。关于决定论与不确定性的争论之所以长期原地打转，恰恰因为各方都在对结论作裁决；只有看清主流决定论解释的每一步都依赖“当下状态的完整规定”这一未被写出的前提，并追问谁能满足它，论证才开始推进。文中拆解的确定性混沌，也是受约束系统的一个精确样本：规则只是逐位朗读初始条件，不增加当前状态尚未包含的任何信息。规则无法生成的那个给定，正是自由变量进入系统的位置。
 
 This finds another confirmation in [Fixed by Nothing](../fixed-by-nothing/). The debate between determinism and indeterminism has long gone in circles precisely because each side passes verdicts on conclusions; only when one sees that every step of prevailing deterministic explanations rests on an unwritten premise, "the complete specification of the present state," and asks who could ever satisfy it, does the argument begin to move. The deterministic chaos dissected there is also an exact specimen of a bound system: the rule merely reads out the initial condition digit by digit and adds no information the current state did not already contain. The given that the rule cannot generate is exactly where a free variable enters the system.
 
-这便是心智所指称的角色：并非机器之上的另一种实体，而是能够改变那些无法自变特征之系统的视角。以此界定，心智在推理所关切的意义上是作者：它是新变量仍可被引入的地方。一个为所有人共享的有界系统，就是[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所说的那个幻觉沙盒。
+这便是心智所指称的角色：并非机器之上的另一种实体，而是能够改变那些无法自变特征之系统的视角。以此界定，心智在推理所关切的意义上是作者：它是新变量仍可被引入的地方。
 
-That is the role named by the Mind: not a second substance standing over the machine, but the standpoint that can change the signature of a system that cannot change it from within. If this definition is taken seriously, the Mind is the author in the only sense that matters to reasoning: it is where a new variable can be introduced. A bound system shared by all is the sandbox [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) calls an illusion.
+That is the role named by the Mind: not a second substance standing over the machine, but the standpoint that can change the signature of a system that cannot change it from within. If this definition is taken seriously, the Mind is the author in the only sense that matters to reasoning: it is where a new variable can be introduced.
 
 常识没有迅速跟上，正如它面对其他工具时一样。计算器“算对了”，相机“捕捉到”了面孔，模型“写出”了段落。显见的动作发生在仪器上，赞赏与归咎首先转移到了那里。
 
@@ -90,10 +90,10 @@ There is no need to claim the output. The productive unit is not “me versus th
 
 If the completion is assigned an author, the unsaid remains unsaid and the image lag resumes. If the completion is read as evidence of the unsaid, the next prompt can supply a variable the previous state did not contain. The traces can extend a pattern. They cannot decide that the pattern was the wrong object. A fresh constraint does that.
 
-模型是处于重放中的继承痕迹。当当下的行动借助重放看清了被代填的前提，并改变下一状态的条件时，它成为推理的一部分。若无此举，交互中没有第二个人，产物之后亦无第一人称，唯有沉淀在变换相位。
+模型是处于重放中的继承痕迹。当当下的行动借助重放看清了被代填的前提，并改变下一状态的条件时，它成为推理的一部分。若无此举，交互中没有第二个人，产物之后亦无第一人称，唯有沉淀在变换相位。一个为所有人共享的有界系统，就是[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所说的那个幻觉沙盒。
 
-The model is inherited agency under replay. It becomes part of reasoning when a present act uses the replay to see which premise was filled in, then alters the conditions of the next state. Absent that act, there is no second person in the exchange and no first person behind the product either—only sediment shifting phase.
+The model is inherited agency under replay. It becomes part of reasoning when a present act uses the replay to see which premise was filled in, then alters the conditions of the next state. Absent that act, there is no second person in the exchange and no first person behind the product either—only sediment shifting phase. A bound system shared by all is the sandbox [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) calls an illusion.
 
-主体性留存于自由变量仍可被引入之处。一旦引入，系统闭合，残余延续，此后关于谁写就这页文字的争执，是关于那一刻的画像，而非那一刻本身。
+主体性留存于自由变量仍可被引入之处。一旦引入，系统闭合，残余延续，此后关于谁写就这页文字的争执，是关于那一刻的画像，而非那一刻本身。事后从残余中认领的权力，藏起了那个进入系统的变量，[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)说明了这一点。
 
-Agency remains where a free variable can be introduced. Once introduced, the system closes, the residue resumes, and later dispute over who authored the page is a picture of the moment, not the moment itself.
+Agency remains where a free variable can be introduced. Once introduced, the system closes, the residue resumes, and later dispute over who authored the page is a picture of the moment, not the moment itself. Power claimed afterward from residue hides the variable that entered, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) shows.

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-07T08:30:02.042Z",
+    "generated_at": "2026-10-07T08:39:48.242Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -16,7 +16,7 @@
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "2e7b16607892",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "15737ab87ae6",
-      "content/posts/agency-does-not-arise.md": "8122d0432cfd",
+      "content/posts/agency-does-not-arise.md": "ce9c7ca0357c",
       "content/posts/agency-relocated-into-the-formal-model.md": "80fd8434fe37",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "24615382c532",
@@ -25,13 +25,13 @@
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "aaa7fd1e8b34",
       "content/posts/amplification-paradox.md": "01c4553a7e11",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/boletus-compute-storm-and-promethean-fire.md": "ec06acb4c257",
+      "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
       "content/posts/causality-all-the-way.md": "8c58bfbb394c",
       "content/posts/causality-and-the-irreducible-prior.md": "ec15b4cff7a1",
-      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "c24d8c88812e",
+      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "55982c37edd9",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "ef5075f99d09",
       "content/posts/cheng-gong-xue.md": "5d01ae688bd0",
-      "content/posts/choice-itself-has-no-inherent-weight.md": "204536002880",
+      "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "24157a13530f",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -47,16 +47,16 @@
       "content/posts/consciousness-never-appears-as-data-among-data.md": "734f80912b47",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
-      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "f526bf7a02e1",
-      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "6d3ca6b75af0",
+      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "07c48bc35eff",
+      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "166460a2f05e",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "c32d0bd75e34",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "7dc94da22303",
       "content/posts/curiosity-has-no-final-form.md": "71f0c315581b",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "bc7f312028fa",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "391c723a2d05",
-      "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "8d204e8f5b04",
-      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "3bd3c91b4266",
+      "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "4bf6254500e5",
+      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "7a5ab1350952",
       "content/posts/dimensions-are-projections.md": "08793b415e6c",
       "content/posts/distillation-compression-agency.md": "60354a08e758",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "0baa9e7e7b35",
@@ -78,10 +78,10 @@
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "44fb9900a9b1",
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
-      "content/posts/fixed-by-nothing.md": "5800d4dbf095",
+      "content/posts/fixed-by-nothing.md": "c99ecc015638",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "df8f3a8fb563",
-      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "fd68a5e38df9",
+      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "df61a5b970e0",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "302052789ea2",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "c81f2c71d076",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "a1b926b30911",
@@ -131,10 +131,10 @@
       "content/posts/not-a-theory-of-everything.md": "fc0dcfeec14a",
       "content/posts/not-a-toe-rewrite.md": "4f8f53b8f5bb",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "979df2924891",
-      "content/posts/objects-are-stabilized-relationships.md": "e1bc2bb3af53",
+      "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b354e525a5d3",
-      "content/posts/on-education.md": "6f50841555c0",
-      "content/posts/one-cannot-escape-ones-own-mind.md": "cbd2a0e8a7eb",
+      "content/posts/on-education.md": "acf5a581efd1",
+      "content/posts/one-cannot-escape-ones-own-mind.md": "98a0ddef1062",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "158cff173f93",
       "content/posts/only-if-it-is-not-kept-empty.md": "3d9516da5576",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
@@ -182,24 +182,24 @@
       "content/posts/sowell-observed-the-surface-problem.md": "38216bcac027",
       "content/posts/stability-and-excess.md": "685e02dae1a8",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "ae77b9ede8b3",
-      "content/posts/subtracting-consciousness-at-the-source.md": "2cb3897c83b4",
+      "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "2e63440fe8c1",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "c568de5100d8",
       "content/posts/technology-is-residual-of-human-compounding.md": "7590edf067fc",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "75fd0f9205d1",
       "content/posts/the-arithmetic-of-the-register.md": "f7812ec636cf",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
-      "content/posts/the-asymmetry-of-understanding.md": "7646cfd20064",
+      "content/posts/the-asymmetry-of-understanding.md": "93b47e8e2095",
       "content/posts/the-average-is-residue-not-the-engine.md": "29cdac1a977f",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "57156f299c6b",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "c639024cd10a",
-      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "58deefd448d8",
-      "content/posts/the-boundary-crossing-of-choice.md": "2db55b81d0c8",
+      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "a9fbc250d388",
+      "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "c3031deb99dc",
       "content/posts/the-boundary-of-the-frame.md": "87ff68f71b62",
       "content/posts/the-brain-does-not-backprop.md": "0fe20d66ae42",
-      "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "81c8b663f8ad",
+      "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "be7b032ccd86",
       "content/posts/the-category-error-of-better.md": "ba22abca92f3",
       "content/posts/the-causal-inversion-of-partnership.md": "3e0b8b306740",
@@ -212,22 +212,22 @@
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "d71141c2c581",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
-      "content/posts/the-continuum-is-a-modeling-convenience.md": "d0d525ccb860",
+      "content/posts/the-continuum-is-a-modeling-convenience.md": "6b9f8a6b0ce8",
       "content/posts/the-continuum-of-the-fold.md": "9427017c6590",
       "content/posts/the-coordinators-category-error.md": "89f6110cc916",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "c5c2bf88638b",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "43684acfe15f",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7deb853507eb",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "e86ad1bf219f",
-      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "eb9a5f875a6d",
+      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "d4fabb0c547f",
       "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
-      "content/posts/the-dissolution-of-the-great-reversal.md": "971ff6098304",
+      "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "87a52235d071",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
-      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "5c7a975329cc",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "2b20083fa38d",
       "content/posts/the-extendable-horizon.md": "19250e1e8750",
-      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "704400bcbebb",
+      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "48c6de5542e2",
       "content/posts/the-fallacy-of-post-success-parenting.md": "4a09f0a9cd26",
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "e8672622b459",
@@ -245,7 +245,7 @@
       "content/posts/the-geometry-of-emergence.md": "89925e3a76ab",
       "content/posts/the-geometry-of-mind.md": "92932a073669",
       "content/posts/the-geometry-of-success.md": "dc47507d236b",
-      "content/posts/the-geometry-of-the-cut.md": "ee42055041db",
+      "content/posts/the-geometry-of-the-cut.md": "8e8f41ec7476",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "25ab5464af75",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "68e47fce620a",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "298e9d503fa5",
@@ -253,24 +253,24 @@
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "010cf824bc55",
       "content/posts/the-illusion-of-free-intelligence.md": "9568470705b9",
-      "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "86f39fcc80b4",
-      "content/posts/the-illusion-of-the-shared-sandbox.md": "edbeb5dd5f4d",
-      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "1d961cf06856",
-      "content/posts/the-illusion-of-the-unmediated.md": "4ab6607da917",
+      "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "1db8f7adc1ec",
+      "content/posts/the-illusion-of-the-shared-sandbox.md": "58de2266a588",
+      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "2de4df8e84dd",
+      "content/posts/the-illusion-of-the-unmediated.md": "8e56c117ba6d",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "20cc20e40f0b",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
-      "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5a522d4e0a7a",
-      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "8aa52900643e",
-      "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "208940f5cc0e",
+      "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "47a6ffb6ae17",
+      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "6512df2f9db5",
+      "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "5ccd04ebe2f8",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
-      "content/posts/the-invisible-gods-eye.md": "bd0331ff2b1d",
+      "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "f6beb7b3f0c0",
       "content/posts/the-irreducible-observer.md": "ad01ade05654",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "c4cd807f51dd",
-      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "49ba8af0da47",
-      "content/posts/the-ledger-of-the-unencountered.md": "4df4741b9c3f",
+      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "895266756ce9",
+      "content/posts/the-ledger-of-the-unencountered.md": "492fde646aea",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
       "content/posts/the-living-context.md": "2d1c878d63a5",
       "content/posts/the-local-trap-of-technological-change.md": "28ac55a33297",
@@ -281,14 +281,14 @@
       "content/posts/the-map-after-the-territory.md": "6fd00c209991",
       "content/posts/the-mark-and-the-act.md": "f0e48a6f837a",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "3614e0bd6767",
-      "content/posts/the-mind-as-vector-and-coordinate-system.md": "f9044fbd9024",
+      "content/posts/the-mind-as-vector-and-coordinate-system.md": "e5dfc5fb16e4",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "0cf2b1a6b032",
       "content/posts/the-mirage-of-the-infinite-totality.md": "541f1c5d28f6",
-      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "6dfa66aef14e",
-      "content/posts/the-mirror-handshake-of-power.md": "9dc4e0af12e3",
+      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "f89cd9fc108e",
+      "content/posts/the-mirror-handshake-of-power.md": "56567ab67520",
       "content/posts/the-misallocation-of-agency.md": "d69ef11bb4b8",
       "content/posts/the-model-never-becomes-a-second-edge.md": "3f49b961d9c8",
-      "content/posts/the-moral-reversal-and-the-scripted-subject.md": "f2b3fcd556ac",
+      "content/posts/the-moral-reversal-and-the-scripted-subject.md": "67c15f066b11",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "06673522a545",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "e6296345035d",
@@ -296,13 +296,13 @@
       "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
       "content/posts/the-observational-cut-in-ai-debates.md": "5884a66a9a71",
       "content/posts/the-only-coherent-uncaused-effect.md": "e2d429f8fb89",
-      "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "9588db1113d8",
+      "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "defac21d270e",
       "content/posts/the-other-coherence.md": "fc324a17a568",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "5f263a356b4c",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "0d757a4508ca",
       "content/posts/the-perceiver-and-the-trace.md": "fd9d0dfee4cb",
-      "content/posts/the-power-law-of-surrendered-agency.md": "3b33d2d2b435",
+      "content/posts/the-power-law-of-surrendered-agency.md": "a93148f9561d",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "0f27052d1822",
       "content/posts/the-price-of-closing-optionality.md": "a896ac859680",
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
@@ -313,7 +313,7 @@
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "be4597d289a8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "6be2f8057c8f",
-      "content/posts/the-residue-and-the-free-variable.md": "df2325a3cd77",
+      "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "b6979918c2cb",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "1cd462d2e211",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
@@ -324,25 +324,25 @@
       "content/posts/the-scaffolding-we-forget.md": "beb887aa35d7",
       "content/posts/the-scaling-loop.md": "deedfa49f780",
       "content/posts/the-self-portrait-in-the-projection.md": "f4a97eba16ff",
-      "content/posts/the-shadow-and-the-infinite.md": "05bd0f42dd29",
-      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "19ef8a0c83ce",
+      "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
+      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "929c252a952b",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "83beeb888a4e",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "3c66bd80af77",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
-      "content/posts/the-sovereign-blinding.md": "06c4fcf17213",
+      "content/posts/the-sovereign-blinding.md": "e5035c2d54c9",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
-      "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "49e28d07caaa",
+      "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "466ba4f09356",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "ad2f484fe9b0",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "934b07423dd5",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
-      "content/posts/the-twin-paradox-and-the-hidden-observer.md": "7f76f5892ae6",
-      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "7434f95b8964",
+      "content/posts/the-twin-paradox-and-the-hidden-observer.md": "2a38f664992d",
+      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "0dc66e0ddaf4",
       "content/posts/the-unclosable-trace.md": "267dd76ab6f4",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "17fc326d44dd",
-      "content/posts/the-unobservable-driver-of-learning.md": "2051ca672613",
+      "content/posts/the-unobservable-driver-of-learning.md": "884cddc55a98",
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "46e3f6710799",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
@@ -402,8 +402,8 @@
     },
     "stats": {
       "posts": 375,
-      "edges": 5064,
-      "unique_directed": 4324,
+      "edges": 5068,
+      "unique_directed": 4326,
       "missing_targets": 0,
       "one_way": 2,
       "isolated": 39,
@@ -808,27 +808,27 @@
       "slug": "agency-does-not-arise",
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现 / Agency Does Not Arise",
-      "hash": "8122d0432cfd",
+      "hash": "ce9c7ca0357c",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-        "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "causality-and-the-irreducible-prior",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-cartesian-overstep-and-the-frenzy-of-creation",
+        "one-cannot-escape-ones-own-mind",
         "consciousness-never-appears-as-data-among-data",
         "zi-you-de-ce-bu-zhun",
-        "subtracting-consciousness-at-the-source",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
-        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+        "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
-        "one-cannot-escape-ones-own-mind"
+        "subtracting-consciousness-at-the-source"
       ]
     },
     {
@@ -1004,7 +1004,7 @@
       "slug": "boletus-compute-storm-and-promethean-fire",
       "path": "content/posts/boletus-compute-storm-and-promethean-fire.md",
       "title": "牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire",
-      "hash": "ec06acb4c257",
+      "hash": "af7a00651647",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -1095,27 +1095,27 @@
       "slug": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
-      "hash": "c24d8c88812e",
+      "hash": "55982c37edd9",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
         "dimensions-are-projections",
         "po-chu-gai-nian-de-jian-yue",
-        "the-illusion-of-the-shared-sandbox",
         "causality-and-the-irreducible-prior",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
-        "the-continuum-is-a-modeling-convenience",
         "consciousness-never-appears-as-data-among-data",
         "the-grammar-of-finding-and-the-fading-observer",
+        "the-continuum-is-a-modeling-convenience",
         "one-cannot-escape-ones-own-mind",
         "fixed-by-nothing",
         "the-generative-atlas-of-macroscopic-phenomena",
-        "the-twin-paradox-and-the-hidden-observer",
-        "the-model-never-becomes-a-second-edge",
-        "individual-choices-as-the-only-causal-levers",
         "the-distant-silhouette-and-the-inventory-from-nowhere",
+        "the-model-never-becomes-a-second-edge",
+        "the-twin-paradox-and-the-hidden-observer",
+        "individual-choices-as-the-only-causal-levers",
+        "subtracting-consciousness-at-the-source",
         "agency-does-not-arise",
-        "subtracting-consciousness-at-the-source"
+        "the-illusion-of-the-shared-sandbox"
       ]
     },
     {
@@ -1202,7 +1202,7 @@
       "slug": "choice-itself-has-no-inherent-weight",
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
-      "hash": "204536002880",
+      "hash": "192b31e8caf0",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
@@ -1212,8 +1212,8 @@
         "the-causal-inversion-of-partnership",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
-        "one-cannot-escape-ones-own-mind",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+        "one-cannot-escape-ones-own-mind",
         "the-summary-first-reversal-and-the-command-of-yields",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
@@ -1617,13 +1617,13 @@
       "slug": "coordinate-systems-mind-and-degrees-of-freedom",
       "path": "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md",
       "title": "坐标系、心智与自由度 / Coordinate Systems, the Mind, and Degrees of Freedom",
-      "hash": "f526bf7a02e1",
+      "hash": "07c48bc35eff",
       "in_degree": 3,
       "out_degree": 3,
       "links_out": [
         "the-explanatory-trap-of-the-ordinary-perspective",
-        "the-mind-as-vector-and-coordinate-system",
-        "coordinates-in-flux-negation-and-self-anchoring"
+        "coordinates-in-flux-negation-and-self-anchoring",
+        "the-mind-as-vector-and-coordinate-system"
       ]
     },
     {
@@ -1632,7 +1632,7 @@
       "slug": "coordinates-in-flux-negation-and-self-anchoring",
       "path": "content/posts/coordinates-in-flux-negation-and-self-anchoring.md",
       "title": "流动中的坐标 / Coordinates in Flux",
-      "hash": "6d3ca6b75af0",
+      "hash": "166460a2f05e",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -1640,8 +1640,8 @@
         "the-dissolution-of-the-great-reversal",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "po-chu-gai-nian-de-jian-yue",
-        "climbing-does-not-leave-the-ground",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "climbing-does-not-leave-the-ground",
         "the-mind-as-vector-and-coordinate-system",
         "the-illusion-of-knowing-and-the-geometry-of-amputation"
       ]
@@ -1795,16 +1795,16 @@
       "slug": "demanding-a-toe-freezes-time-into-a-catalog",
       "path": "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md",
       "title": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog",
-      "hash": "8d204e8f5b04",
+      "hash": "4bf6254500e5",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
+        "the-twin-paradox-and-the-hidden-observer",
+        "the-closed-n-and-the-open-reality",
         "the-continuum-is-a-modeling-convenience",
         "time-is-causality-not-a-dimension",
         "the-illusion-of-the-shared-sandbox",
-        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-        "the-twin-paradox-and-the-hidden-observer",
-        "the-closed-n-and-the-open-reality"
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality"
       ]
     },
     {
@@ -1813,17 +1813,17 @@
       "slug": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
-      "hash": "3bd3c91b4266",
+      "hash": "7a5ab1350952",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
-        "fixed-by-nothing",
         "the-explanatory-trap-of-the-ordinary-perspective",
+        "fixed-by-nothing",
         "the-boundary-crossing-of-choice",
-        "the-illusion-of-the-shared-sandbox",
+        "agency-does-not-arise",
         "when-electrons-think",
-        "the-residue-and-the-free-variable",
-        "agency-does-not-arise"
+        "the-illusion-of-the-shared-sandbox",
+        "the-residue-and-the-free-variable"
       ]
     },
     {
@@ -2275,16 +2275,16 @@
       "slug": "fixed-by-nothing",
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
-      "hash": "5800d4dbf095",
+      "hash": "c99ecc015638",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
         "not-a-theory-of-everything",
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "the-residue-and-the-free-variable",
-        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-substrate-of-constraint-and-the-self-denial-of-freedom"
       ]
     },
@@ -2330,7 +2330,7 @@
       "slug": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "path": "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md",
       "title": "从AGI的“神性错置”到使用者的自我对齐 / From the Misallocated Sentience of AGI to Human Realignment",
-      "hash": "fd68a5e38df9",
+      "hash": "df61a5b970e0",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -2338,8 +2338,8 @@
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "intelligence-belongs-only-to-the-mind",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
-        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences"
       ]
     },
@@ -3598,7 +3598,7 @@
       "slug": "objects-are-stabilized-relationships",
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
-      "hash": "e1bc2bb3af53",
+      "hash": "54def9af6a16",
       "in_degree": 2,
       "out_degree": 2,
       "links_out": [
@@ -3631,7 +3631,7 @@
       "slug": "on-education",
       "path": "content/posts/on-education.md",
       "title": "On Education, Resonance, and Giving Someone the Real Thing",
-      "hash": "6f50841555c0",
+      "hash": "acf5a581efd1",
       "in_degree": 1,
       "out_degree": 1,
       "links_out": [
@@ -3644,7 +3644,7 @@
       "slug": "one-cannot-escape-ones-own-mind",
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
-      "hash": "cbd2a0e8a7eb",
+      "hash": "98a0ddef1062",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -3652,6 +3652,7 @@
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-shadow-and-the-infinite",
+        "the-explanatory-trap-of-the-ordinary-perspective",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "choice-itself-has-no-inherent-weight",
@@ -3659,9 +3660,8 @@
         "the-causal-inversion-of-partnership",
         "the-self-portrait-in-the-projection",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
-        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "agency-does-not-arise",
-        "the-explanatory-trap-of-the-ordinary-perspective"
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation"
       ]
     },
     {
@@ -4877,13 +4877,13 @@
       "slug": "subtracting-consciousness-at-the-source",
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
-      "hash": "2cb3897c83b4",
+      "hash": "eb988c747e6b",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
-        "the-cartesian-overstep-and-the-frenzy-of-creation",
+        "one-cannot-escape-ones-own-mind",
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
         "the-perceiver-and-the-trace",
@@ -4892,7 +4892,7 @@
         "agency-does-not-arise",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-irreducible-observer",
-        "one-cannot-escape-ones-own-mind"
+        "the-cartesian-overstep-and-the-frenzy-of-creation"
       ]
     },
     {
@@ -5141,14 +5141,14 @@
       "slug": "the-asymmetry-of-understanding",
       "path": "content/posts/the-asymmetry-of-understanding.md",
       "title": "理解的非对称性 / The Asymmetry of Understanding",
-      "hash": "7646cfd20064",
+      "hash": "93b47e8e2095",
       "in_degree": 4,
       "out_degree": 4,
       "links_out": [
         "the-shadow-and-the-infinite",
+        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "the-reversal-of-education-and-science",
-        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
-        "the-invisible-observer-and-the-delusion-of-lossless-transmission"
+        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries"
       ]
     },
     {
@@ -5268,15 +5268,15 @@
       "slug": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "path": "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md",
       "title": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe",
-      "hash": "58deefd448d8",
+      "hash": "a9fbc250d388",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
         "the-twin-paradox-and-the-hidden-observer",
         "the-illusion-of-the-shared-sandbox",
         "time-is-causality-not-a-dimension",
-        "the-continuum-is-a-modeling-convenience",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "the-continuum-is-a-modeling-convenience",
         "when-electrons-think"
       ]
     },
@@ -5286,13 +5286,13 @@
       "slug": "the-boundary-crossing-of-choice",
       "path": "content/posts/the-boundary-crossing-of-choice.md",
       "title": "抉择的跨界 / The Boundary Crossing of Choice",
-      "hash": "2db55b81d0c8",
+      "hash": "795c21ece259",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
         "the-freedom-of-will-to-deny-itself",
-        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-irreducible-observer",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "the-digital-god-and-the-horizon-jump",
         "the-perceiver-and-the-trace",
@@ -5369,7 +5369,7 @@
       "slug": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "path": "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md",
       "title": "共情的能力倒错与边界的排序之争 / The Capability Reversal of Empathy and the Contest of Boundaries",
-      "hash": "81c8b663f8ad",
+      "hash": "faeb12423e13",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -5377,10 +5377,10 @@
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
         "the-freedom-of-will-to-deny-itself",
         "the-moral-reversal-and-the-scripted-subject",
+        "abstract-pain-and-living-hunger",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-mirror-handshake-of-power",
-        "the-causal-inversion-of-partnership",
-        "abstract-pain-and-living-hunger"
+        "the-causal-inversion-of-partnership"
       ]
     },
     {
@@ -5623,17 +5623,17 @@
       "slug": "the-continuum-is-a-modeling-convenience",
       "path": "content/posts/the-continuum-is-a-modeling-convenience.md",
       "title": "连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience",
-      "hash": "d0d525ccb860",
+      "hash": "6b9f8a6b0ce8",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
+        "demanding-a-toe-freezes-time-into-a-catalog",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-        "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "the-continuum-of-the-fold",
         "the-geometry-of-mind",
         "the-model-never-becomes-a-second-edge",
         "the-arithmetic-of-the-register",
-        "demanding-a-toe-freezes-time-into-a-catalog"
+        "the-black-and-white-sample-frame-and-the-extrapolated-universe"
       ]
     },
     {
@@ -5705,20 +5705,23 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "c5c2bf88638b",
+      "hash": "43684acfe15f",
       "in_degree": 26,
       "out_degree": 26,
       "links_out": [
+        "the-summary-first-reversal-and-the-command-of-yields",
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "subtracting-consciousness-at-the-source",
+        "agency-does-not-arise",
         "ownership-and-self-worthiness",
         "the-knowledge-problem-and-the-illusion-of-delegation",
-        "subtracting-consciousness-at-the-source",
+        "no-outside-scorekeeper",
         "the-scaffolding-we-forget",
         "the-illusion-of-the-unmediated",
-        "the-summary-first-reversal-and-the-command-of-yields",
+        "silicon-oracles-and-the-asymmetry-of-consequence",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-model-never-becomes-a-second-edge",
         "one-cannot-escape-ones-own-mind",
@@ -5726,15 +5729,12 @@
         "the-causal-inversion-of-partnership",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
-        "the-irreducible-observer",
-        "no-outside-scorekeeper",
         "individual-choices-as-the-only-causal-levers",
         "the-invisible-gods-eye",
-        "agency-does-not-arise",
-        "the-receptionist-parable-and-the-causal-inversion-of-absence",
         "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
-        "silicon-oracles-and-the-asymmetry-of-consequence"
+        "the-irreducible-observer",
+        "the-receptionist-parable-and-the-causal-inversion-of-absence"
       ]
     },
     {
@@ -5796,7 +5796,7 @@
       "slug": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
-      "hash": "eb9a5f875a6d",
+      "hash": "d4fabb0c547f",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -5845,7 +5845,7 @@
       "slug": "the-dissolution-of-the-great-reversal",
       "path": "content/posts/the-dissolution-of-the-great-reversal.md",
       "title": "大倒置的消解 / The Dissolution of the Great Reversal",
-      "hash": "971ff6098304",
+      "hash": "3ef5fa05ee7f",
       "in_degree": 1,
       "out_degree": 1,
       "links_out": [
@@ -5903,7 +5903,7 @@
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
-      "hash": "5c7a975329cc",
+      "hash": "2b20083fa38d",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -5913,9 +5913,9 @@
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
         "the-cartesian-overstep-and-the-frenzy-of-creation",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+        "the-summary-first-reversal-and-the-command-of-yields",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "individual-choices-as-the-only-causal-levers",
-        "the-summary-first-reversal-and-the-command-of-yields",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "choice-itself-has-no-inherent-weight",
         "coordinate-systems-mind-and-degrees-of-freedom",
@@ -5953,20 +5953,20 @@
       "slug": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
-      "hash": "704400bcbebb",
+      "hash": "48c6de5542e2",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-mind-as-vector-and-coordinate-system",
         "coordinates-in-flux-negation-and-self-anchoring",
+        "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "po-chu-gai-nian-de-jian-yue",
-        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "individual-choices-as-the-only-causal-levers",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
-        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-        "from-the-misallocated-sentience-of-agi-to-human-realignment",
-        "felt-resistance-and-the-speed-differential"
+        "felt-resistance-and-the-speed-differential",
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency"
       ]
     },
     {
@@ -6358,7 +6358,7 @@
       "slug": "the-geometry-of-the-cut",
       "path": "content/posts/the-geometry-of-the-cut.md",
       "title": "切分的几何学 / The Geometry of the Cut",
-      "hash": "ee42055041db",
+      "hash": "8e8f41ec7476",
       "in_degree": 2,
       "out_degree": 2,
       "links_out": [
@@ -6513,7 +6513,7 @@
       "slug": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "path": "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md",
       "title": "以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation",
-      "hash": "86f39fcc80b4",
+      "hash": "1db8f7adc1ec",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -6533,19 +6533,19 @@
       "slug": "the-illusion-of-the-shared-sandbox",
       "path": "content/posts/the-illusion-of-the-shared-sandbox.md",
       "title": "共享沙盒的幻象 / The Illusion of the Shared Sandbox",
-      "hash": "edbeb5dd5f4d",
+      "hash": "58de2266a588",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
-        "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-        "po-chu-gai-nian-de-jian-yue",
         "the-causal-inversion-of-partnership",
         "the-twin-paradox-and-the-hidden-observer",
+        "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "po-chu-gai-nian-de-jian-yue",
         "price-as-utterance-understanding-as-trade",
         "demanding-a-toe-freezes-time-into-a-catalog",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
-        "the-residue-and-the-free-variable",
-        "the-black-and-white-sample-frame-and-the-extrapolated-universe"
+        "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "the-residue-and-the-free-variable"
       ]
     },
     {
@@ -6554,7 +6554,7 @@
       "slug": "the-illusion-of-the-tool-and-the-inversion-of-time",
       "path": "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md",
       "title": "工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time",
-      "hash": "1d961cf06856",
+      "hash": "2de4df8e84dd",
       "in_degree": 1,
       "out_degree": 1,
       "links_out": [
@@ -6567,7 +6567,7 @@
       "slug": "the-illusion-of-the-unmediated",
       "path": "content/posts/the-illusion-of-the-unmediated.md",
       "title": "“非中介化”的幻象 / The Illusion of the Unmediated",
-      "hash": "4ab6607da917",
+      "hash": "8e56c117ba6d",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
@@ -6637,13 +6637,13 @@
       "slug": "the-inversion-of-reading-and-the-order-of-inference",
       "path": "content/posts/the-inversion-of-reading-and-the-order-of-inference.md",
       "title": "阅读的倒错与推断的次序 / The Inversion of Reading and the Order of Inference",
-      "hash": "5a522d4e0a7a",
+      "hash": "47a6ffb6ae17",
       "in_degree": 4,
       "out_degree": 4,
       "links_out": [
-        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "the-model-never-becomes-a-second-edge",
         "silicon-oracles-and-the-asymmetry-of-consequence",
+        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "the-category-error-of-better"
       ]
     },
@@ -6653,22 +6653,23 @@
       "slug": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
-      "hash": "8aa52900643e",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "6512df2f9db5",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-illusion-of-the-tool-and-the-inversion-of-time",
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
-        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "coordinates-in-flux-negation-and-self-anchoring",
         "the-mind-as-vector-and-coordinate-system",
-        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
-        "the-illusion-of-the-unmediated",
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
-        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+        "the-illusion-of-the-unmediated"
       ]
     },
     {
@@ -6677,16 +6678,17 @@
       "slug": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
-      "hash": "208940f5cc0e",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "5ccd04ebe2f8",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
-        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-causal-inversion-of-partnership",
         "the-ledger-of-the-unencountered",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-cartesian-overstep-and-the-frenzy-of-creation",
         "the-illusion-of-the-unmediated",
         "the-explanatory-trap-of-the-ordinary-perspective",
-        "the-cartesian-overstep-and-the-frenzy-of-creation",
         "the-irreducible-observer",
         "agency-does-not-arise"
       ]
@@ -6713,15 +6715,15 @@
       "slug": "the-invisible-gods-eye",
       "path": "content/posts/the-invisible-gods-eye.md",
       "title": "隐秘的上帝之眼 / The Invisible God's Eye",
-      "hash": "bd0331ff2b1d",
+      "hash": "9d59904eb1d4",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "objects-are-stabilized-relationships",
+        "the-distant-silhouette-and-the-inventory-from-nowhere",
         "the-shadow-and-the-infinite",
         "no-genius-can-solve-the-knowledge-problem",
-        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-        "the-distant-silhouette-and-the-inventory-from-nowhere",
         "the-balcony-disciplinary-overstep-and-the-unproxyable-act"
       ]
     },
@@ -6818,7 +6820,7 @@
       "slug": "the-ladder-of-abstraction-and-the-executable-entity",
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity",
-      "hash": "49ba8af0da47",
+      "hash": "895266756ce9",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -6837,15 +6839,15 @@
       "slug": "the-ledger-of-the-unencountered",
       "path": "content/posts/the-ledger-of-the-unencountered.md",
       "title": "未被遭遇之物的账本 / The Ledger of the Unencountered",
-      "hash": "4df4741b9c3f",
+      "hash": "492fde646aea",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
         "the-irreducible-observer",
+        "no-outside-scorekeeper",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-category-error-of-better",
         "agency-relocated-into-the-formal-model",
-        "no-outside-scorekeeper",
         "abstract-pain-and-living-hunger"
       ]
     },
@@ -7027,7 +7029,7 @@
       "slug": "the-mind-as-vector-and-coordinate-system",
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
-      "hash": "f9044fbd9024",
+      "hash": "e5dfc5fb16e4",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
@@ -7037,11 +7039,11 @@
         "the-distant-silhouette-and-the-inventory-from-nowhere",
         "the-geometry-of-mind",
         "the-vector-and-the-puzzle-of-projections",
-        "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-illusion-of-knowing-and-the-geometry-of-amputation",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-name-revolution-files-a-life-as-evidence",
-        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth"
       ]
     },
@@ -7086,20 +7088,20 @@
       "slug": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "path": "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md",
       "title": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation",
-      "hash": "6dfa66aef14e",
+      "hash": "f89cd9fc108e",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "agency-does-not-arise",
         "the-explanatory-trap-of-the-ordinary-perspective",
+        "the-summary-first-reversal-and-the-command-of-yields",
         "openness-is-consistency",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-myth-of-the-four-dimensional-deer-and-the-present-model",
         "the-cartesian-overstep-and-the-frenzy-of-creation",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
-        "the-summary-first-reversal-and-the-command-of-yields",
         "one-cannot-escape-ones-own-mind",
         "fixed-by-nothing"
       ]
@@ -7110,12 +7112,12 @@
       "slug": "the-mirror-handshake-of-power",
       "path": "content/posts/the-mirror-handshake-of-power.md",
       "title": "权力的镜像握手 / The Mirror Handshake of Power",
-      "hash": "9dc4e0af12e3",
+      "hash": "56567ab67520",
       "in_degree": 2,
       "out_degree": 2,
       "links_out": [
-        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
-        "the-free-variable-and-the-retrospective-illusion-of-power"
+        "the-free-variable-and-the-retrospective-illusion-of-power",
+        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries"
       ]
     },
     {
@@ -7204,7 +7206,7 @@
       "slug": "the-moral-reversal-and-the-scripted-subject",
       "path": "content/posts/the-moral-reversal-and-the-scripted-subject.md",
       "title": "道德倒错与被脚本化的主体 / The Moral Reversal and the Scripted Subject",
-      "hash": "f2b3fcd556ac",
+      "hash": "67c15f066b11",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -7212,9 +7214,9 @@
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "the-freedom-of-will-to-deny-itself",
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+        "the-coin-of-good-and-evil-and-the-road-to-hell",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-        "the-receptionist-parable-and-the-causal-inversion-of-absence",
-        "the-coin-of-good-and-evil-and-the-road-to-hell"
+        "the-receptionist-parable-and-the-causal-inversion-of-absence"
       ]
     },
     {
@@ -7376,7 +7378,7 @@
       "slug": "the-origin-of-god-and-the-flattening-of-we",
       "path": "content/posts/the-origin-of-god-and-the-flattening-of-we.md",
       "title": "上帝的起源与“我们”的降维 / The Origin of God and the Flattening of \"We\"",
-      "hash": "9588db1113d8",
+      "hash": "defac21d270e",
       "in_degree": 1,
       "out_degree": 1,
       "links_out": [
@@ -7508,7 +7510,7 @@
       "slug": "the-power-law-of-surrendered-agency",
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
-      "hash": "3b33d2d2b435",
+      "hash": "a93148f9561d",
       "in_degree": 1,
       "out_degree": 1,
       "links_out": [
@@ -7797,15 +7799,15 @@
       "slug": "the-residue-and-the-free-variable",
       "path": "content/posts/the-residue-and-the-free-variable.md",
       "title": "残余与自由变量 / The Residue and the Free Variable",
-      "hash": "df2325a3cd77",
+      "hash": "eb7e4af88ac4",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
-        "the-free-variable-and-the-retrospective-illusion-of-power",
         "fixed-by-nothing",
-        "the-illusion-of-the-shared-sandbox"
+        "the-illusion-of-the-shared-sandbox",
+        "the-free-variable-and-the-retrospective-illusion-of-power"
       ]
     },
     {
@@ -8104,16 +8106,16 @@
       "slug": "the-shadow-and-the-infinite",
       "path": "content/posts/the-shadow-and-the-infinite.md",
       "title": "阴影与无限 / The Shadow and the Infinite",
-      "hash": "05bd0f42dd29",
+      "hash": "f857f118c0ae",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
+        "the-asymmetry-of-understanding",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
-        "the-reversal-of-education-and-science",
         "the-invisible-gods-eye",
-        "one-cannot-escape-ones-own-mind",
+        "the-reversal-of-education-and-science",
         "the-myth-of-the-four-dimensional-deer-and-the-present-model",
-        "the-asymmetry-of-understanding"
+        "one-cannot-escape-ones-own-mind"
       ]
     },
     {
@@ -8122,7 +8124,7 @@
       "slug": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
-      "hash": "19ef8a0c83ce",
+      "hash": "929c252a952b",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -8131,11 +8133,11 @@
         "the-illusion-of-the-unmediated",
         "the-risk-you-delegate-is-the-risk-you-create",
         "ownership-and-self-worthiness",
+        "the-closed-n-and-the-open-reality",
         "demanding-a-toe-freezes-time-into-a-catalog",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-ladder-of-abstraction-and-the-executable-entity",
-        "the-closed-n-and-the-open-reality",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -8259,7 +8261,7 @@
       "slug": "the-sovereign-blinding",
       "path": "content/posts/the-sovereign-blinding.md",
       "title": "自愿的致盲 / The Sovereign Blinding",
-      "hash": "06c4fcf17213",
+      "hash": "e5035c2d54c9",
       "in_degree": 2,
       "out_degree": 2,
       "links_out": [
@@ -8314,15 +8316,15 @@
       "slug": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "path": "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md",
       "title": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom",
-      "hash": "49e28d07caaa",
+      "hash": "466ba4f09356",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
         "the-look-of-constraint-is-not-the-loss-of-freedom",
-        "fixed-by-nothing",
         "you-tiao-jian-de-zi-you",
         "freedom-as-ground",
         "the-freedom-of-will-to-deny-itself",
+        "fixed-by-nothing",
         "individual-choices-as-the-only-causal-levers"
       ]
     },
@@ -8393,22 +8395,22 @@
       "slug": "the-twin-paradox-and-the-hidden-observer",
       "path": "content/posts/the-twin-paradox-and-the-hidden-observer.md",
       "title": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer",
-      "hash": "7f76f5892ae6",
+      "hash": "2a38f664992d",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-illusion-of-the-shared-sandbox",
-        "the-free-variable-and-the-retrospective-illusion-of-power",
         "dimensions-are-projections",
         "demanding-a-toe-freezes-time-into-a-catalog",
+        "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "time-is-causality-not-a-dimension",
+        "the-free-variable-and-the-retrospective-illusion-of-power",
+        "the-irreducible-observer",
         "no-system-can-be-kept-closed",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
-        "the-myth-of-the-four-dimensional-deer-and-the-present-model",
         "causality-all-the-way",
-        "the-irreducible-observer",
-        "the-black-and-white-sample-frame-and-the-extrapolated-universe"
+        "the-myth-of-the-four-dimensional-deer-and-the-present-model"
       ]
     },
     {
@@ -8417,28 +8419,28 @@
       "slug": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
-      "hash": "7434f95b8964",
+      "hash": "0dc66e0ddaf4",
       "in_degree": 18,
       "out_degree": 18,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "no-outside-scorekeeper",
         "zi-you-de-ce-bu-zhun",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
-        "the-causal-overstep-of-observation-and-the-first-person-surplus",
-        "the-boundary-crossing-of-choice",
-        "the-moral-reversal-and-the-scripted-subject",
-        "the-cartesian-overstep-and-the-frenzy-of-creation",
-        "the-causal-inversion-of-partnership",
+        "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "the-causal-overstep-of-observation-and-the-first-person-surplus",
         "the-grammar-of-finding-and-the-fading-observer",
         "the-freedom-of-will-to-deny-itself",
+        "the-causal-inversion-of-partnership",
+        "the-moral-reversal-and-the-scripted-subject",
         "the-explanatory-trap-of-the-ordinary-perspective",
-        "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
+        "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-mind-as-vector-and-coordinate-system",
-        "no-outside-scorekeeper",
-        "from-the-misallocated-sentience-of-agi-to-human-realignment"
+        "the-boundary-crossing-of-choice",
+        "the-cartesian-overstep-and-the-frenzy-of-creation"
       ]
     },
     {
@@ -8488,7 +8490,7 @@
       "slug": "the-unobservable-driver-of-learning",
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "学习中不可观测的驱动力 / The Unobservable Driver of Learning",
-      "hash": "2051ca672613",
+      "hash": "884cddc55a98",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -8497,15 +8499,15 @@
         "the-allocation-of-causal-power-in-validation",
         "mistaking-the-expression-for-the-intelligence",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "individual-choices-as-the-only-causal-levers",
+        "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
         "consciousness-never-appears-as-data-among-data",
         "the-average-is-residue-not-the-engine",
         "stability-and-excess",
-        "the-paradoxical-nature-of-bystander-insights",
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
-        "the-npc-impression-is-structural",
-        "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
-        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi"
+        "the-paradoxical-nature-of-bystander-insights",
+        "the-npc-impression-is-structural"
       ]
     },
     {
@@ -10069,6 +10071,12 @@
     },
     {
       "from": "agency-does-not-arise",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "agency-does-not-arise",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
       "label": "Emergence as Pseudo-Causality and Collective Attribution Error"
@@ -10087,6 +10095,12 @@
     },
     {
       "from": "agency-does-not-arise",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
+    },
+    {
+      "from": "agency-does-not-arise",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
       "label": "自由变量的同构与先验主权"
@@ -10099,12 +10113,6 @@
     },
     {
       "from": "agency-does-not-arise",
-      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
-      "rel": "points_to",
-      "label": "凡可言说皆不可言说之产物"
-    },
-    {
-      "from": "agency-does-not-arise",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
       "label": "Isomorphism of Free Variables and A Priori Sovereignty"
@@ -10114,12 +10122,6 @@
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "Physics Is Not the Law, the Friction of Reality Is"
-    },
-    {
-      "from": "agency-does-not-arise",
-      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
-      "rel": "points_to",
-      "label": "All That Can Be Spoken Is the Product of the Unspeakable"
     },
     {
       "from": "agency-does-not-arise",
@@ -10153,6 +10155,12 @@
     },
     {
       "from": "agency-does-not-arise",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "agency-does-not-arise",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "意识从不作为数据出现在数据之中"
@@ -10165,15 +10173,15 @@
     },
     {
       "from": "agency-does-not-arise",
-      "to": "subtracting-consciousness-at-the-source",
-      "rel": "points_to",
-      "label": "集聚与人造主体性"
-    },
-    {
-      "from": "agency-does-not-arise",
       "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "rel": "points_to",
       "label": "The Cartesian Overstep and the Frenzy of Creation"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
     },
     {
       "from": "agency-does-not-arise",
@@ -10189,12 +10197,6 @@
     },
     {
       "from": "agency-does-not-arise",
-      "to": "subtracting-consciousness-at-the-source",
-      "rel": "points_to",
-      "label": "Collective and Artificial Subjectivity"
-    },
-    {
-      "from": "agency-does-not-arise",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "任务的移交与后果的不可让渡"
@@ -10207,9 +10209,9 @@
     },
     {
       "from": "agency-does-not-arise",
-      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
-      "label": "时间之箭的伪悖论与对称模拟的边界"
+      "label": "凡可言说皆不可言说之产物"
     },
     {
       "from": "agency-does-not-arise",
@@ -10219,9 +10221,9 @@
     },
     {
       "from": "agency-does-not-arise",
-      "to": "one-cannot-escape-ones-own-mind",
+      "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
-      "label": "无法逃逸的心智视界"
+      "label": "集聚与人造主体性"
     },
     {
       "from": "agency-does-not-arise",
@@ -10237,9 +10239,9 @@
     },
     {
       "from": "agency-does-not-arise",
-      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
-      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
+      "label": "All That Can Be Spoken Is the Product of the Unspeakable"
     },
     {
       "from": "agency-does-not-arise",
@@ -10249,9 +10251,9 @@
     },
     {
       "from": "agency-does-not-arise",
-      "to": "one-cannot-escape-ones-own-mind",
+      "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
-      "label": "One Cannot Escape One's Own Mind"
+      "label": "Collective and Artificial Subjectivity"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -10687,6 +10689,12 @@
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "数字神祇与视界跳跃"
+    },
+    {
+      "from": "boletus-compute-storm-and-promethean-fire",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "pure concepts severed from physical friction"
@@ -10696,12 +10704,6 @@
       "to": "the-digital-god-and-the-horizon-jump",
       "rel": "points_to",
       "label": "The Digital God and the Horizon Jump"
-    },
-    {
-      "from": "boletus-compute-storm-and-promethean-fire",
-      "to": "the-digital-god-and-the-horizon-jump",
-      "rel": "points_to",
-      "label": "数字神祇与视界跳跃"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
@@ -11065,18 +11067,6 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "the-illusion-of-the-shared-sandbox",
-      "rel": "points_to",
-      "label": "共享沙盒的幻象"
-    },
-    {
-      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "the-illusion-of-the-shared-sandbox",
-      "rel": "points_to",
-      "label": "The Illusion of the Shared Sandbox"
-    },
-    {
-      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
       "label": "因果与不可约的先验"
@@ -11089,12 +11079,6 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "the-continuum-is-a-modeling-convenience",
-      "rel": "points_to",
-      "label": "连续性作为建模的权宜之计"
-    },
-    {
-      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
       "label": "Causality and the Irreducible Prior"
@@ -11104,12 +11088,6 @@
       "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "rel": "points_to",
       "label": "The Boundary of Perception and the Infinity of Understanding"
-    },
-    {
-      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "the-continuum-is-a-modeling-convenience",
-      "rel": "points_to",
-      "label": "The Continuum is a Modeling Convenience"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -11134,6 +11112,18 @@
       "to": "the-grammar-of-finding-and-the-fading-observer",
       "rel": "points_to",
       "label": "The Grammar of Finding and the Fading Observer"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "连续性作为建模的权宜之计"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "The Continuum is a Modeling Convenience"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -11167,9 +11157,9 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "rel": "points_to",
-      "label": "双生子佯谬与隐秘观察者"
+      "label": "远方的轮廓与无处之境的清单"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -11179,9 +11169,9 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "rel": "points_to",
-      "label": "The Twin Paradox and the Hidden Observer"
+      "label": "The Distant Silhouette and the Inventory from Nowhere"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -11191,9 +11181,21 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "双生子佯谬与隐秘观察者"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "The Twin Paradox and the Hidden Observer"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -11209,6 +11211,12 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "集聚与人造主体性"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
       "label": "The Generative Atlas of Macroscopic Phenomena"
@@ -11221,15 +11229,9 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
-      "label": "远方的轮廓与无处之境的清单"
-    },
-    {
-      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
-      "rel": "points_to",
-      "label": "The Distant Silhouette and the Inventory from Nowhere"
+      "label": "Collective and Artificial Subjectivity"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -11245,15 +11247,15 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "subtracting-consciousness-at-the-source",
+      "to": "the-illusion-of-the-shared-sandbox",
       "rel": "points_to",
-      "label": "集聚与人造主体性"
+      "label": "共享沙盒的幻象"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "to": "subtracting-consciousness-at-the-source",
+      "to": "the-illusion-of-the-shared-sandbox",
       "rel": "points_to",
-      "label": "Collective and Artificial Subjectivity"
+      "label": "The Illusion of the Shared Sandbox"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -11635,15 +11637,21 @@
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "心智无法逃离自身"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
-      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "时间之箭的伪悖论与对称模拟的边界"
+      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
@@ -11680,12 +11688,6 @@
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
       "label": "Macro Parameters, Micro Choices, and the Command of Yields"
-    },
-    {
-      "from": "choice-itself-has-no-inherent-weight",
-      "to": "the-summary-first-reversal-and-the-command-of-yields",
-      "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
@@ -13029,25 +13031,25 @@
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
-      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
+      "label": "“普通人视角”的解释陷阱"
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
-      "label": "“普通人视角”的解释陷阱"
-    },
-    {
-      "from": "coordinate-systems-mind-and-degrees-of-freedom",
-      "to": "the-mind-as-vector-and-coordinate-system",
-      "rel": "points_to",
-      "label": "向量、坐标系与自指心智"
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
       "label": "流动中的坐标"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "向量、坐标系与自指心智"
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
@@ -13081,6 +13083,12 @@
     },
     {
       "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "调速者的幻觉与行动的活态摩擦"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
       "to": "the-dissolution-of-the-great-reversal",
       "rel": "points_to",
       "label": "The Dissolution of the Great Reversal and the Inception of a Living Philosophy"
@@ -13093,33 +13101,21 @@
     },
     {
       "from": "coordinates-in-flux-negation-and-self-anchoring",
-      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "rel": "points_to",
-      "label": "调速者的幻觉与行动的活态摩擦"
-    },
-    {
-      "from": "coordinates-in-flux-negation-and-self-anchoring",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "破除概念的僭越"
     },
     {
       "from": "coordinates-in-flux-negation-and-self-anchoring",
-      "to": "po-chu-gai-nian-de-jian-yue",
-      "rel": "points_to",
-      "label": "Dismantling the Usurpation of Concepts"
-    },
-    {
-      "from": "coordinates-in-flux-negation-and-self-anchoring",
-      "to": "climbing-does-not-leave-the-ground",
-      "rel": "points_to",
-      "label": "登高并未离开地面"
-    },
-    {
-      "from": "coordinates-in-flux-negation-and-self-anchoring",
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Dismantling the Usurpation of Concepts"
     },
     {
       "from": "coordinates-in-flux-negation-and-self-anchoring",
@@ -13131,13 +13127,13 @@
       "from": "coordinates-in-flux-negation-and-self-anchoring",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "Climbing Does Not Leave the Ground"
+      "label": "登高并未离开地面"
     },
     {
       "from": "coordinates-in-flux-negation-and-self-anchoring",
-      "to": "the-mind-as-vector-and-coordinate-system",
+      "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "The Mind as Vector and Coordinate System"
+      "label": "Climbing Does Not Leave the Ground"
     },
     {
       "from": "coordinates-in-flux-negation-and-self-anchoring",
@@ -13150,6 +13146,12 @@
       "to": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "rel": "points_to",
       "label": "以知为刃的截肢与解脱"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
     },
     {
       "from": "coordinates-in-flux-negation-and-self-anchoring",
@@ -13591,6 +13593,30 @@
     },
     {
       "from": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "双生子佯谬与隐秘观察者"
+    },
+    {
+      "from": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "闭合的N与开放的现实"
+    },
+    {
+      "from": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "The Twin Paradox and the Hidden Observer"
+    },
+    {
+      "from": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "The Closed N and the Open Reality"
+    },
+    {
+      "from": "demanding-a-toe-freezes-time-into-a-catalog",
       "to": "the-continuum-is-a-modeling-convenience",
       "rel": "points_to",
       "label": "连续性作为建模的权宜之计"
@@ -13641,55 +13667,19 @@
       "from": "demanding-a-toe-freezes-time-into-a-catalog",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "The Sleight of Hand in \"Physics Is the Law\""
-    },
-    {
-      "from": "demanding-a-toe-freezes-time-into-a-catalog",
-      "to": "the-twin-paradox-and-the-hidden-observer",
-      "rel": "points_to",
-      "label": "The Twin Paradox and the Hidden Observer"
+      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "demanding-a-toe-freezes-time-into-a-catalog",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "“物理学才是定律”的障眼法"
-    },
-    {
-      "from": "demanding-a-toe-freezes-time-into-a-catalog",
-      "to": "the-twin-paradox-and-the-hidden-observer",
-      "rel": "points_to",
-      "label": "双生子佯谬与隐秘观察者"
-    },
-    {
-      "from": "demanding-a-toe-freezes-time-into-a-catalog",
-      "to": "the-closed-n-and-the-open-reality",
-      "rel": "points_to",
-      "label": "闭合的N与开放的现实"
-    },
-    {
-      "from": "demanding-a-toe-freezes-time-into-a-catalog",
-      "to": "the-closed-n-and-the-open-reality",
-      "rel": "points_to",
-      "label": "The Closed N and the Open Reality"
-    },
-    {
-      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
-      "to": "fixed-by-nothing",
-      "rel": "points_to",
-      "label": "没有固定者的固定"
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "“普通人视角”的解释陷阱"
-    },
-    {
-      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
-      "to": "fixed-by-nothing",
-      "rel": "points_to",
-      "label": "Fixed by Nothing"
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -13705,15 +13695,15 @@
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
-      "to": "fixed-by-nothing",
-      "rel": "points_to",
-      "label": "Fixed by Nothing"
-    },
-    {
-      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "to": "the-boundary-crossing-of-choice",
       "rel": "points_to",
       "label": "抉择的跨界"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "Fixed by Nothing"
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -13723,15 +13713,27 @@
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
-      "to": "the-illusion-of-the-shared-sandbox",
+      "to": "fixed-by-nothing",
       "rel": "points_to",
-      "label": "共享沙盒的幻象"
+      "label": "没有固定者的固定"
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
-      "to": "the-illusion-of-the-shared-sandbox",
+      "to": "fixed-by-nothing",
       "rel": "points_to",
-      "label": "The Illusion of the Shared Sandbox"
+      "label": "Fixed by Nothing"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性不曾涌现"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "Agency Does Not Arise"
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -13747,27 +13749,27 @@
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "共享沙盒的幻象"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "The Illusion of the Shared Sandbox"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "to": "the-residue-and-the-free-variable",
       "rel": "points_to",
       "label": "残余与自由变量"
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
-      "to": "agency-does-not-arise",
-      "rel": "points_to",
-      "label": "主体性不曾涌现"
-    },
-    {
-      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "to": "the-residue-and-the-free-variable",
       "rel": "points_to",
       "label": "The Residue and the Free Variable"
-    },
-    {
-      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
-      "to": "agency-does-not-arise",
-      "rel": "points_to",
-      "label": "Agency Does Not Arise"
     },
     {
       "from": "dimensions-are-projections",
@@ -15007,9 +15009,21 @@
     },
     {
       "from": "fixed-by-nothing",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "fixed-by-nothing",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
       "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "fixed-by-nothing",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
     },
     {
       "from": "fixed-by-nothing",
@@ -15037,12 +15051,6 @@
     },
     {
       "from": "fixed-by-nothing",
-      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-      "rel": "points_to",
-      "label": "时间之箭的伪悖论与对称模拟的边界"
-    },
-    {
-      "from": "fixed-by-nothing",
       "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "rel": "points_to",
       "label": "The Boundary of Perception and the Infinity of Understanding"
@@ -15052,12 +15060,6 @@
       "to": "the-residue-and-the-free-variable",
       "rel": "points_to",
       "label": "The Residue and the Free Variable"
-    },
-    {
-      "from": "fixed-by-nothing",
-      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-      "rel": "points_to",
-      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
     },
     {
       "from": "fixed-by-nothing",
@@ -15187,6 +15189,12 @@
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to the Mind"
@@ -15199,21 +15207,15 @@
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "rel": "points_to",
-      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
-    },
-    {
-      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
-      "label": "The Delegation of the Task and the Inalienability of Consequences"
+      "label": "框架的倒置与驾驶位的主权非对称"
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -15223,15 +15225,15 @@
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
-      "label": "数字火箭、同行审查与因果闭环的稀释"
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
-      "label": "框架的倒置与驾驶位的主权非对称"
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
       "from": "gao-wei-xin-xi-de-li-san-zhe-she",
@@ -19365,13 +19367,13 @@
       "from": "objects-are-stabilized-relationships",
       "to": "when-electrons-think",
       "rel": "points_to",
-      "label": "When Electrons Think"
+      "label": "当电子开始思考"
     },
     {
       "from": "objects-are-stabilized-relationships",
       "to": "when-electrons-think",
       "rel": "points_to",
-      "label": "当电子开始思考"
+      "label": "When Electrons Think"
     },
     {
       "from": "objects-are-stabilized-relationships",
@@ -19431,13 +19433,13 @@
       "from": "on-education",
       "to": "the-fallacy-of-post-success-parenting",
       "rel": "points_to",
-      "label": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle"
+      "label": "成功之后的育儿谬误"
     },
     {
       "from": "on-education",
       "to": "the-fallacy-of-post-success-parenting",
       "rel": "points_to",
-      "label": "成功之后的育儿谬误"
+      "label": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -19483,6 +19485,18 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
       "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
       "label": "凡可言说皆不可言说之产物"
@@ -19525,21 +19539,15 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
-      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-      "rel": "points_to",
-      "label": "时间之箭的伪悖论与对称模拟的边界"
-    },
-    {
-      "from": "one-cannot-escape-ones-own-mind",
       "to": "agency-does-not-arise",
       "rel": "points_to",
       "label": "能动性从不涌现：涌现的范畴错误、潜空间侵入与第一人称先验"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
-      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "rel": "points_to",
-      "label": "“普通人视角”的解释陷阱"
+      "label": "时间之箭的伪悖论与对称模拟的边界"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -19579,12 +19587,6 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
-      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-      "rel": "points_to",
-      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
-    },
-    {
-      "from": "one-cannot-escape-ones-own-mind",
       "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "rel": "points_to",
       "label": "The Receptionist Parable and the Causal Inversion of Absence"
@@ -19597,9 +19599,9 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
-      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "rel": "points_to",
-      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
     },
     {
       "from": "ones-potential-as-threat-or-inspiration",
@@ -23587,9 +23589,9 @@
     },
     {
       "from": "subtracting-consciousness-at-the-source",
-      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
-      "label": "笛卡尔的认识论跃迁与造神狂热"
+      "label": "无法逃逸的心智视界"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -23605,9 +23607,9 @@
     },
     {
       "from": "subtracting-consciousness-at-the-source",
-      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
-      "label": "The Cartesian Epistemic Leap and the Frenzy of Creation"
+      "label": "One Cannot Escape One's Own Mind"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -23689,9 +23691,9 @@
     },
     {
       "from": "subtracting-consciousness-at-the-source",
-      "to": "one-cannot-escape-ones-own-mind",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "rel": "points_to",
-      "label": "无法逃逸的心智视界"
+      "label": "笛卡尔的认识论跃迁与造神狂热"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -23713,9 +23715,9 @@
     },
     {
       "from": "subtracting-consciousness-at-the-source",
-      "to": "one-cannot-escape-ones-own-mind",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "rel": "points_to",
-      "label": "One Cannot Escape One's Own Mind"
+      "label": "The Cartesian Epistemic Leap and the Frenzy of Creation"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -24529,9 +24531,21 @@
     },
     {
       "from": "the-asymmetry-of-understanding",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "观察者的隐身与无损传递的妄念"
+    },
+    {
+      "from": "the-asymmetry-of-understanding",
       "to": "the-shadow-and-the-infinite",
       "rel": "points_to",
       "label": "The Shadow and the Infinite"
+    },
+    {
+      "from": "the-asymmetry-of-understanding",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
     },
     {
       "from": "the-asymmetry-of-understanding",
@@ -24549,25 +24563,13 @@
       "from": "the-asymmetry-of-understanding",
       "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "rel": "points_to",
-      "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
+      "label": "共情的能力倒错与边界的排序之争"
     },
     {
       "from": "the-asymmetry-of-understanding",
       "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "rel": "points_to",
-      "label": "共情的能力倒错与边界的排序之争"
-    },
-    {
-      "from": "the-asymmetry-of-understanding",
-      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-      "rel": "points_to",
-      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
-    },
-    {
-      "from": "the-asymmetry-of-understanding",
-      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-      "rel": "points_to",
-      "label": "观察者的隐身与无损传递的妄念"
+      "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
@@ -25015,6 +25017,12 @@
     },
     {
       "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理学才是定律”的障眼法"
+    },
+    {
+      "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "to": "the-continuum-is-a-modeling-convenience",
       "rel": "points_to",
       "label": "连续统是建模的便利而非物理实在"
@@ -25030,12 +25038,6 @@
       "to": "the-continuum-is-a-modeling-convenience",
       "rel": "points_to",
       "label": "The Continuum is a Modeling Convenience, Not Physical Reality"
-    },
-    {
-      "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
-      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "rel": "points_to",
-      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
@@ -25063,15 +25065,15 @@
     },
     {
       "from": "the-boundary-crossing-of-choice",
-      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "rel": "points_to",
-      "label": "主权抉择的双面性与观察的客体化"
-    },
-    {
-      "from": "the-boundary-crossing-of-choice",
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "不可还原的观察者"
+    },
+    {
+      "from": "the-boundary-crossing-of-choice",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
     },
     {
       "from": "the-boundary-crossing-of-choice",
@@ -25381,6 +25383,12 @@
     },
     {
       "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "abstract-pain-and-living-hunger",
+      "rel": "points_to",
+      "label": "抽象的苦难与真实的饥饿"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "rel": "points_to",
       "label": "The Receptionist Parable and the Causal Inversion of Absence"
@@ -25396,6 +25404,12 @@
       "to": "the-moral-reversal-and-the-scripted-subject",
       "rel": "points_to",
       "label": "The Moral Reversal and the Scripted Subject"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "abstract-pain-and-living-hunger",
+      "rel": "points_to",
+      "label": "Abstract Pain and Living Hunger"
     },
     {
       "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
@@ -25420,18 +25434,6 @@
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
       "label": "合伙的因果倒置"
-    },
-    {
-      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
-      "to": "abstract-pain-and-living-hunger",
-      "rel": "points_to",
-      "label": "抽象的苦难与真实的饥饿"
-    },
-    {
-      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
-      "to": "abstract-pain-and-living-hunger",
-      "rel": "points_to",
-      "label": "Abstract Pain and Living Hunger"
     },
     {
       "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
@@ -26365,21 +26367,21 @@
     },
     {
       "from": "the-continuum-is-a-modeling-convenience",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "索求万物理论是在将当下冻结为清单"
+    },
+    {
+      "from": "the-continuum-is-a-modeling-convenience",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "Demanding a Theory of Everything Freezes Time into a Catalog"
+    },
+    {
+      "from": "the-continuum-is-a-modeling-convenience",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
       "label": "因果的自反性与物理的无源假定"
-    },
-    {
-      "from": "the-continuum-is-a-modeling-convenience",
-      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
-      "rel": "points_to",
-      "label": "黑白采样帧与外推宇宙"
-    },
-    {
-      "from": "the-continuum-is-a-modeling-convenience",
-      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
-      "rel": "points_to",
-      "label": "The Black-and-White Sample Frame and the Extrapolated Universe"
     },
     {
       "from": "the-continuum-is-a-modeling-convenience",
@@ -26449,15 +26451,15 @@
     },
     {
       "from": "the-continuum-is-a-modeling-convenience",
-      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "rel": "points_to",
-      "label": "索求万物理论是在将当下冻结为清单"
+      "label": "黑白采样帧与外推宇宙"
     },
     {
       "from": "the-continuum-is-a-modeling-convenience",
-      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "rel": "points_to",
-      "label": "Demanding a Theory of Everything Freezes Time into a Catalog"
+      "label": "The Black-and-White Sample Frame and the Extrapolated Universe"
     },
     {
       "from": "the-continuum-of-the-fold",
@@ -26629,6 +26631,18 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "Macro Parameters, Micro Choices, and the Command of Yields"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "智能只属于心智"
@@ -26653,6 +26667,18 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "集聚与人造主体性"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性不曾涌现"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "所有权与配得感"
@@ -26665,9 +26691,9 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "subtracting-consciousness-at-the-source",
+      "to": "no-outside-scorekeeper",
       "rel": "points_to",
-      "label": "集聚与人造主体性"
+      "label": "没有外部记账员"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -26701,6 +26727,12 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "Agency Does Not Arise"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and Self-Worthiness"
@@ -26710,6 +26742,12 @@
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
       "label": "The Knowledge Problem and the Illusion of Delegation"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "No Outside Scorekeeper"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -26725,6 +26763,12 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
@@ -26737,15 +26781,9 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
       "rel": "points_to",
-      "label": "Macro Parameters, Micro Choices, and the Command of Yields"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-summary-first-reversal-and-the-command-of-yields",
-      "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "Silicon Oracles and the Asymmetry of Consequence"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -26791,12 +26829,6 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-irreducible-observer",
-      "rel": "points_to",
-      "label": "不可还原的观察者"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "The Sleight of Hand in \"Physics Is the Law\""
@@ -26812,12 +26844,6 @@
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "One Cannot Escape One's Own Mind"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-irreducible-observer",
-      "rel": "points_to",
-      "label": "The Irreducible Observer"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -26845,18 +26871,6 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "no-outside-scorekeeper",
-      "rel": "points_to",
-      "label": "No Outside Scorekeeper"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "no-outside-scorekeeper",
-      "rel": "points_to",
-      "label": "没有外部记账员"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体选择作为唯一的因果杠杆"
@@ -26869,15 +26883,9 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "agency-does-not-arise",
+      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "rel": "points_to",
-      "label": "主体性不曾涌现"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "agency-does-not-arise",
-      "rel": "points_to",
-      "label": "Agency Does Not Arise"
+      "label": "阳台视角的规训僭越与不可代理的未竟之行"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -26893,21 +26901,21 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
-      "rel": "points_to",
-      "label": "The Receptionist Parable and the Causal Inversion of Absence"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "rel": "points_to",
       "label": "The Balcony Disciplinary Overstep and the Unproxyable Act"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
-      "label": "阳台视角的规训僭越与不可代理的未竟之行"
+      "label": "从AGI的“神性错置”到使用者的自我对齐"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -26919,25 +26927,19 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
-      "label": "从AGI的“神性错置”到使用者的自我对齐"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
-      "rel": "points_to",
-      "label": "硅基神谕与后果的非对称性"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "rel": "points_to",
       "label": "From the Misallocated Sentience of AGI to Human Realignment"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-irreducible-observer",
       "rel": "points_to",
-      "label": "Silicon Oracles and the Asymmetry of Consequence"
+      "label": "The Irreducible Observer"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "The Receptionist Parable and the Causal Inversion of Absence"
     },
     {
       "from": "the-deterministic-machine",
@@ -27153,13 +27155,13 @@
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "The Sleight of Hand in \"Physics Is the Law\""
+      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "“物理学才是定律”的障眼法"
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -27429,13 +27431,13 @@
       "from": "the-dissolution-of-the-great-reversal",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
-      "label": "Coordinates in Flux"
+      "label": "流动中的坐标"
     },
     {
       "from": "the-dissolution-of-the-great-reversal",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
-      "label": "流动中的坐标"
+      "label": "Coordinates in Flux"
     },
     {
       "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
@@ -27685,6 +27687,12 @@
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
       "label": "确定性是微观不确定性的统计签名"
@@ -27694,12 +27702,6 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体抉择作为唯一的因果杠杆"
-    },
-    {
-      "from": "the-explanatory-trap-of-the-ordinary-perspective",
-      "to": "the-summary-first-reversal-and-the-command-of-yields",
-      "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
@@ -27913,9 +27915,21 @@
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "从AGI的“神性错置”到使用者的自我对齐"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
       "label": "Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "From the Misallocated Sentience of AGI to Human Realignment"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -27925,21 +27939,21 @@
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "Dismantling the Usurpation of Concepts"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
-      "label": "数字火箭、同行审查与因果闭环的稀释"
-    },
-    {
-      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
-      "rel": "points_to",
-      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -27955,9 +27969,15 @@
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "felt-resistance-and-the-speed-differential",
       "rel": "points_to",
-      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+      "label": "阻力体感与速率差"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "Felt Resistance and the Speed Differential"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -27973,33 +27993,15 @@
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
-      "label": "From the Misallocated Sentience of AGI to Human Realignment"
+      "label": "数字火箭、同行审查与因果闭环的稀释"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
-      "label": "从AGI的“神性错置”到使用者的自我对齐"
-    },
-    {
-      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "rel": "points_to",
-      "label": "主权抉择的双面性与观察的客体化"
-    },
-    {
-      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "to": "felt-resistance-and-the-speed-differential",
-      "rel": "points_to",
-      "label": "阻力体感与速率差"
-    },
-    {
-      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "to": "felt-resistance-and-the-speed-differential",
-      "rel": "points_to",
-      "label": "Felt Resistance and the Speed Differential"
+      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
@@ -29707,6 +29709,12 @@
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
       "label": "Isomorphism of Free Variables and A Priori Sovereignty"
@@ -29728,12 +29736,6 @@
       "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
       "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
-    },
-    {
-      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
-      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "rel": "points_to",
-      "label": "主权抉择的双面性与观察的客体化"
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -29761,6 +29763,18 @@
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "契约的因果倒置"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "双生子佯谬与隐秘观察者"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
       "label": "因果是不可约的先验，物理是没有视角的视角"
@@ -29770,12 +29784,6 @@
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "破除概念的僭越"
-    },
-    {
-      "from": "the-illusion-of-the-shared-sandbox",
-      "to": "the-causal-inversion-of-partnership",
-      "rel": "points_to",
-      "label": "契约的因果倒置"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
@@ -29800,12 +29808,6 @@
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "Overcoming the Usurpation of Concepts"
-    },
-    {
-      "from": "the-illusion-of-the-shared-sandbox",
-      "to": "the-twin-paradox-and-the-hidden-observer",
-      "rel": "points_to",
-      "label": "双生子佯谬与隐秘观察者"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
@@ -29839,15 +29841,15 @@
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
-      "to": "the-residue-and-the-free-variable",
-      "rel": "points_to",
-      "label": "残余与自由变量"
-    },
-    {
-      "from": "the-illusion-of-the-shared-sandbox",
       "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "rel": "points_to",
       "label": "黑白采样帧与外推宇宙"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "残余与自由变量"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
@@ -30079,18 +30081,6 @@
     },
     {
       "from": "the-inversion-of-reading-and-the-order-of-inference",
-      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-      "rel": "points_to",
-      "label": "观察者的隐身与无损传递的妄念"
-    },
-    {
-      "from": "the-inversion-of-reading-and-the-order-of-inference",
-      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-      "rel": "points_to",
-      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
-    },
-    {
-      "from": "the-inversion-of-reading-and-the-order-of-inference",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永不成第二锋刃"
@@ -30112,6 +30102,18 @@
       "to": "silicon-oracles-and-the-asymmetry-of-consequence",
       "rel": "points_to",
       "label": "Silicon Oracles and the Asymmetry of Consequence"
+    },
+    {
+      "from": "the-inversion-of-reading-and-the-order-of-inference",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "观察者的隐身与无损传递的妄念"
+    },
+    {
+      "from": "the-inversion-of-reading-and-the-order-of-inference",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
     },
     {
       "from": "the-inversion-of-reading-and-the-order-of-inference",
@@ -30163,6 +30165,12 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
@@ -30175,15 +30183,15 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
-      "label": "The Sleight of Hand in \"Physics Is the Law\""
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
-      "label": "“物理学才是定律”的障眼法"
+      "label": "数字火箭、同行审查与因果闭环的稀释"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -30217,21 +30225,21 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
-      "label": "数字火箭、同行审查与因果闭环的稀释"
+      "label": "规程的倒置与因果回路的消声"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-illusion-of-the-unmediated",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
-      "label": "The Illusion of the Unmediated"
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-illusion-of-the-unmediated",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "“非中介化”的幻象"
+      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -30247,6 +30255,12 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
@@ -30259,27 +30273,15 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-illusion-of-the-unmediated",
       "rel": "points_to",
-      "label": "任务的移交与后果的不可让渡"
+      "label": "“非中介化”的幻象"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-illusion-of-the-unmediated",
       "rel": "points_to",
-      "label": "The Delegation of the Task and the Inalienability of Consequences"
-    },
-    {
-      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "rel": "points_to",
-      "label": "任务的移交与后果的不可让渡"
-    },
-    {
-      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "rel": "points_to",
-      "label": "The Delegation of the Task and the Inalienability of Consequences"
+      "label": "The Illusion of the Unmediated"
     },
     {
       "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -30297,13 +30299,43 @@
       "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "to": "the-ledger-of-the-unencountered",
       "rel": "points_to",
-      "label": "The Ledger of the Unencountered"
+      "label": "未被遭遇之物的账本"
     },
     {
       "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "to": "the-ledger-of-the-unencountered",
       "rel": "points_to",
-      "label": "未被遭遇之物的账本"
+      "label": "The Ledger of the Unencountered"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Driver's Seat Asymmetry"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "笛卡尔的认识论跃迁与造神狂热"
     },
     {
       "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -30316,6 +30348,18 @@
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性不曾涌现"
     },
     {
       "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -30348,24 +30392,6 @@
       "label": "Agency Does Not Arise"
     },
     {
-      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
-      "to": "agency-does-not-arise",
-      "rel": "points_to",
-      "label": "主体性不曾涌现"
-    },
-    {
-      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
-      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
-      "rel": "points_to",
-      "label": "笛卡尔的认识论跃迁与造神狂热"
-    },
-    {
-      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
-      "to": "the-irreducible-observer",
-      "rel": "points_to",
-      "label": "不可还原的观察者"
-    },
-    {
       "from": "the-invisible-first-move",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
@@ -30391,9 +30417,33 @@
     },
     {
       "from": "the-invisible-gods-eye",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-invisible-gods-eye",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-invisible-gods-eye",
       "to": "objects-are-stabilized-relationships",
       "rel": "points_to",
       "label": "观察者几何学与因果本体论"
+    },
+    {
+      "from": "the-invisible-gods-eye",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "rel": "points_to",
+      "label": "远方的轮廓与无处之境的清单"
+    },
+    {
+      "from": "the-invisible-gods-eye",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "rel": "points_to",
+      "label": "The Distant Silhouette and the Inventory from Nowhere"
     },
     {
       "from": "the-invisible-gods-eye",
@@ -30409,21 +30459,9 @@
     },
     {
       "from": "the-invisible-gods-eye",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "rel": "points_to",
-      "label": "任务的移交与后果的不可让渡"
-    },
-    {
-      "from": "the-invisible-gods-eye",
       "to": "the-shadow-and-the-infinite",
       "rel": "points_to",
       "label": "The Shadow and the Infinite"
-    },
-    {
-      "from": "the-invisible-gods-eye",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "rel": "points_to",
-      "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
       "from": "the-invisible-gods-eye",
@@ -30433,27 +30471,15 @@
     },
     {
       "from": "the-invisible-gods-eye",
-      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "rel": "points_to",
-      "label": "The Distant Silhouette and the Inventory from Nowhere"
-    },
-    {
-      "from": "the-invisible-gods-eye",
-      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
-      "rel": "points_to",
-      "label": "远方的轮廓与无处之境的清单"
+      "label": "阳台视角的规训僭越与不可代理的未竟之行"
     },
     {
       "from": "the-invisible-gods-eye",
       "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "rel": "points_to",
       "label": "The Balcony Disciplinary Overstep and the Unproxyable Act"
-    },
-    {
-      "from": "the-invisible-gods-eye",
-      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
-      "rel": "points_to",
-      "label": "阳台视角的规训僭越与不可代理的未竟之行"
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
@@ -30853,6 +30879,12 @@
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理学才是定律”的障眼法"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "Overcoming the Usurpation of Concepts"
@@ -30862,12 +30894,6 @@
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "The Sleight of Hand in \"Physics Is the Law\""
-    },
-    {
-      "from": "the-ladder-of-abstraction-and-the-executable-entity",
-      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "rel": "points_to",
-      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
@@ -30937,9 +30963,21 @@
     },
     {
       "from": "the-ledger-of-the-unencountered",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "没有外部记账员"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "the-irreducible-observer"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "No Outside Scorekeeper"
     },
     {
       "from": "the-ledger-of-the-unencountered",
@@ -30973,21 +31011,9 @@
     },
     {
       "from": "the-ledger-of-the-unencountered",
-      "to": "no-outside-scorekeeper",
-      "rel": "points_to",
-      "label": "没有外部记账员"
-    },
-    {
-      "from": "the-ledger-of-the-unencountered",
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
       "label": "Agency Relocated into the Formal Model"
-    },
-    {
-      "from": "the-ledger-of-the-unencountered",
-      "to": "no-outside-scorekeeper",
-      "rel": "points_to",
-      "label": "No Outside Scorekeeper"
     },
     {
       "from": "the-ledger-of-the-unencountered",
@@ -31363,6 +31389,12 @@
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "rel": "points_to",
+      "label": "远方的轮廓与无处之境的清单"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "Dismantling the Usurpation of Concepts"
@@ -31372,12 +31404,6 @@
       "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "rel": "points_to",
       "label": "The Distant Silhouette and the Inventory from Nowhere"
-    },
-    {
-      "from": "the-mind-as-vector-and-coordinate-system",
-      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
-      "rel": "points_to",
-      "label": "远方的轮廓与无处之境的清单"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
@@ -31393,6 +31419,12 @@
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
       "label": "The Geometry of Mind"
@@ -31402,6 +31434,12 @@
       "to": "the-vector-and-the-puzzle-of-projections",
       "rel": "points_to",
       "label": "The Vector and the Puzzle of Projections"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
@@ -31429,9 +31467,9 @@
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
-      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
-      "label": "主权抉择的双面性与观察的客体化"
+      "label": "框架的倒置与驾驶位的主权非对称"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
@@ -31447,21 +31485,15 @@
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
-      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "rel": "points_to",
-      "label": "框架的倒置与驾驶位的主权非对称"
-    },
-    {
-      "from": "the-mind-as-vector-and-coordinate-system",
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "调速者的幻觉与行动的活态摩擦"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
-      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
-      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
@@ -31471,21 +31503,15 @@
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
-      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "rel": "points_to",
-      "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
-    },
-    {
-      "from": "the-mind-as-vector-and-coordinate-system",
       "to": "the-name-revolution-files-a-life-as-evidence",
       "rel": "points_to",
       "label": "The Name Revolution Files a Life as Evidence"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
-      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
-      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+      "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
@@ -31585,6 +31611,12 @@
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "开放即一致"
@@ -31600,6 +31632,12 @@
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "The Explanatory Trap of the Ordinary Perspective"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "Macro Parameters, Micro Choices, and the Command of Yields"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -31651,12 +31689,6 @@
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-      "to": "the-summary-first-reversal-and-the-command-of-yields",
-      "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
-    },
-    {
-      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "rel": "points_to",
       "label": "The Cartesian Epistemic Leap and the Frenzy of Creation"
@@ -31666,12 +31698,6 @@
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
       "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
-    },
-    {
-      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-      "to": "the-summary-first-reversal-and-the-command-of-yields",
-      "rel": "points_to",
-      "label": "Macro Parameters, Micro Choices, and the Command of Yields"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -31699,15 +31725,9 @@
     },
     {
       "from": "the-mirror-handshake-of-power",
-      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
       "rel": "points_to",
-      "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
-    },
-    {
-      "from": "the-mirror-handshake-of-power",
-      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
-      "rel": "points_to",
-      "label": "共情的能力倒错与边界的排序之争"
+      "label": "隐性自由变量与权力的事后幻相"
     },
     {
       "from": "the-mirror-handshake-of-power",
@@ -31717,9 +31737,15 @@
     },
     {
       "from": "the-mirror-handshake-of-power",
-      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "rel": "points_to",
-      "label": "隐性自由变量与权力的事后幻相"
+      "label": "共情的能力倒错与边界的排序之争"
+    },
+    {
+      "from": "the-mirror-handshake-of-power",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "rel": "points_to",
+      "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
     },
     {
       "from": "the-misallocation-of-agency",
@@ -32101,9 +32127,21 @@
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "善恶硬币与通往地狱的善意之路"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
       "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "rel": "points_to",
       "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "The Coin of Good and Evil and the Road to Hell"
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
@@ -32119,21 +32157,9 @@
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
-      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
-      "rel": "points_to",
-      "label": "善恶硬币与通往地狱的善意之路"
-    },
-    {
-      "from": "the-moral-reversal-and-the-scripted-subject",
       "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
       "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
-    },
-    {
-      "from": "the-moral-reversal-and-the-scripted-subject",
-      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
-      "rel": "points_to",
-      "label": "The Coin of Good and Evil and the Road to Hell"
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
@@ -32649,13 +32675,13 @@
       "from": "the-origin-of-god-and-the-flattening-of-we",
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
-      "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
+      "label": "造神的障眼法与隐秘阶序的说辞"
     },
     {
       "from": "the-origin-of-god-and-the-flattening-of-we",
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
-      "label": "造神的障眼法与隐秘阶序的说辞"
+      "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
     },
     {
       "from": "the-other-coherence",
@@ -33051,13 +33077,13 @@
       "from": "the-power-law-of-surrendered-agency",
       "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
       "rel": "points_to",
-      "label": "The Causal Overstep of Observation and the First-Person Surplus"
+      "label": "观察的因果僭越与第一人称的收益差"
     },
     {
       "from": "the-power-law-of-surrendered-agency",
       "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
       "rel": "points_to",
-      "label": "观察的因果僭越与第一人称的收益差"
+      "label": "The Causal Overstep of Observation and the First-Person Surplus"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -34087,21 +34113,9 @@
     },
     {
       "from": "the-residue-and-the-free-variable",
-      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
-      "rel": "points_to",
-      "label": "隐性自由变量与权力的事后幻相"
-    },
-    {
-      "from": "the-residue-and-the-free-variable",
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
       "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
-    },
-    {
-      "from": "the-residue-and-the-free-variable",
-      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
-      "rel": "points_to",
-      "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
     },
     {
       "from": "the-residue-and-the-free-variable",
@@ -34126,6 +34140,18 @@
       "to": "the-illusion-of-the-shared-sandbox",
       "rel": "points_to",
       "label": "The Illusion of the Shared Sandbox"
+    },
+    {
+      "from": "the-residue-and-the-free-variable",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "隐性自由变量与权力的事后幻相"
+    },
+    {
+      "from": "the-residue-and-the-free-variable",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
@@ -35215,15 +35241,33 @@
     },
     {
       "from": "the-shadow-and-the-infinite",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
+      "label": "理解的非对称性"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
       "label": "潜在无限与数学思维的暂态闭合"
     },
     {
       "from": "the-shadow-and-the-infinite",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
+      "label": "The Asymmetry of Understanding"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
       "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "隐秘的上帝之眼"
     },
     {
       "from": "the-shadow-and-the-infinite",
@@ -35235,43 +35279,13 @@
       "from": "the-shadow-and-the-infinite",
       "to": "the-invisible-gods-eye",
       "rel": "points_to",
-      "label": "隐秘的上帝之眼"
-    },
-    {
-      "from": "the-shadow-and-the-infinite",
-      "to": "the-invisible-gods-eye",
-      "rel": "points_to",
       "label": "The Invisible God's Eye"
     },
     {
       "from": "the-shadow-and-the-infinite",
-      "to": "one-cannot-escape-ones-own-mind",
+      "to": "the-reversal-of-education-and-science",
       "rel": "points_to",
-      "label": "One Cannot Escape One's Own Mind"
-    },
-    {
-      "from": "the-shadow-and-the-infinite",
-      "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
-      "rel": "points_to",
-      "label": "The Myth of the Four-Dimensional Deer and the Present Model"
-    },
-    {
-      "from": "the-shadow-and-the-infinite",
-      "to": "the-asymmetry-of-understanding",
-      "rel": "points_to",
-      "label": "The Asymmetry of Understanding"
-    },
-    {
-      "from": "the-shadow-and-the-infinite",
-      "to": "one-cannot-escape-ones-own-mind",
-      "rel": "points_to",
-      "label": "无法逃逸的心智视界"
-    },
-    {
-      "from": "the-shadow-and-the-infinite",
-      "to": "the-asymmetry-of-understanding",
-      "rel": "points_to",
-      "label": "理解的非对称性"
+      "label": "The Inversion of Education and Science"
     },
     {
       "from": "the-shadow-and-the-infinite",
@@ -35281,9 +35295,21 @@
     },
     {
       "from": "the-shadow-and-the-infinite",
-      "to": "the-reversal-of-education-and-science",
+      "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "rel": "points_to",
-      "label": "The Inversion of Education and Science"
+      "label": "The Myth of the Four-Dimensional Deer and the Present Model"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -35313,13 +35339,13 @@
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "the-illusion-of-the-unmediated",
       "rel": "points_to",
-      "label": "The Illusion of the Unmediated"
+      "label": "“非中介化”的幻象"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "the-illusion-of-the-unmediated",
       "rel": "points_to",
-      "label": "“非中介化”的幻象"
+      "label": "The Illusion of the Unmediated"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -35347,6 +35373,12 @@
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "闭合的N与开放的现实"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "demanding-a-toe-freezes-time-into-a-catalog",
       "rel": "points_to",
       "label": "要求“万物理论”是将时间冻结为标本目录"
@@ -35368,6 +35400,12 @@
       "to": "the-ladder-of-abstraction-and-the-executable-entity",
       "rel": "points_to",
       "label": "抽象阶梯与可执行实体"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -35404,18 +35442,6 @@
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
-    },
-    {
-      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "to": "the-closed-n-and-the-open-reality",
-      "rel": "points_to",
-      "label": "闭合的N与开放的现实"
-    },
-    {
-      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "rel": "points_to",
-      "label": "任务的移交与后果的不可让渡"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -35965,15 +35991,15 @@
     },
     {
       "from": "the-sovereign-blinding",
-      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
-      "rel": "points_to",
-      "label": "硅基神谕与后果的非对称性"
-    },
-    {
-      "from": "the-sovereign-blinding",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
       "label": "*How to Fix Your Whole Life in One Split Second*"
+    },
+    {
+      "from": "the-sovereign-blinding",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
     },
     {
       "from": "the-sovereign-blinding",
@@ -36109,21 +36135,9 @@
     },
     {
       "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
-      "to": "fixed-by-nothing",
-      "rel": "points_to",
-      "label": "没有固定者的固定"
-    },
-    {
-      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
       "rel": "points_to",
       "label": "The Look of Constraint Is Not the Loss of Freedom"
-    },
-    {
-      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
-      "to": "fixed-by-nothing",
-      "rel": "points_to",
-      "label": "Fixed by Nothing"
     },
     {
       "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -36157,9 +36171,21 @@
     },
     {
       "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "没有固定者的固定"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "to": "the-freedom-of-will-to-deny-itself",
       "rel": "points_to",
       "label": "The Freedom of Will to Deny Itself"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "Fixed by Nothing"
     },
     {
       "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -36319,21 +36345,9 @@
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
-      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
-      "rel": "points_to",
-      "label": "隐性自由变量与权力的事后幻相"
-    },
-    {
-      "from": "the-twin-paradox-and-the-hidden-observer",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
       "label": "Causality is Irreducible, the Physical is a View from Nowhere"
-    },
-    {
-      "from": "the-twin-paradox-and-the-hidden-observer",
-      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
-      "rel": "points_to",
-      "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
@@ -36355,6 +36369,12 @@
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "rel": "points_to",
+      "label": "黑白采样帧与外推宇宙"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "Dimensions Are Projections"
@@ -36367,6 +36387,12 @@
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "rel": "points_to",
+      "label": "The Black-and-White Sample Frame and the Extrapolated Universe"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
       "to": "time-is-causality-not-a-dimension",
       "rel": "points_to",
       "label": "时间是因果的方向与离散步长"
@@ -36376,6 +36402,30 @@
       "to": "time-is-causality-not-a-dimension",
       "rel": "points_to",
       "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "隐性自由变量与权力的事后幻相"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "The Irreducible Observer"
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
@@ -36397,27 +36447,21 @@
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
-      "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
-      "rel": "points_to",
-      "label": "四维长鹿的幻象与当下的模型"
-    },
-    {
-      "from": "the-twin-paradox-and-the-hidden-observer",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "因果贯穿始终"
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
-      "to": "the-irreducible-observer",
+      "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "rel": "points_to",
-      "label": "不可还原的观察者"
+      "label": "四维长鹿的幻象与当下的模型"
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
-      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "rel": "points_to",
-      "label": "黑白采样帧与外推宇宙"
+      "label": "The Myth of the Four-Dimensional Deer and the Present Model"
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
@@ -36439,27 +36483,9 @@
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
-      "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
-      "rel": "points_to",
-      "label": "The Myth of the Four-Dimensional Deer and the Present Model"
-    },
-    {
-      "from": "the-twin-paradox-and-the-hidden-observer",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "Causality All the Way"
-    },
-    {
-      "from": "the-twin-paradox-and-the-hidden-observer",
-      "to": "the-irreducible-observer",
-      "rel": "points_to",
-      "label": "The Irreducible Observer"
-    },
-    {
-      "from": "the-twin-paradox-and-the-hidden-observer",
-      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
-      "rel": "points_to",
-      "label": "The Black-and-White Sample Frame and the Extrapolated Universe"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -36487,6 +36513,12 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "没有外部记账员"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
       "label": "自由的测不准"
@@ -36499,9 +36531,15 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "rel": "points_to",
-      "label": "The Causal Overstep of Observation and the First-Person Surplus"
+      "label": "阳台视角的规训僭越与不可代理的未竟之行"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "No Outside Scorekeeper"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -36517,15 +36555,21 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-boundary-crossing-of-choice",
+      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "rel": "points_to",
-      "label": "The Boundary Crossing of Choice"
+      "label": "The Balcony Disciplinary Overstep and the Unproxyable Act"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-boundary-crossing-of-choice",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "rel": "points_to",
-      "label": "抉择的跨界"
+      "label": "观察者的隐身与无损传递的妄念"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -36535,39 +36579,27 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
       "rel": "points_to",
-      "label": "道德倒错与被脚本化的主体"
+      "label": "The Causal Overstep of Observation and the First-Person Surplus"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
       "rel": "points_to",
-      "label": "The Cartesian Epistemic Leap and the Frenzy of Creation"
+      "label": "寻觅的语法与淡出的观察者"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-causal-inversion-of-partnership",
+      "to": "the-freedom-of-will-to-deny-itself",
       "rel": "points_to",
-      "label": "The Causal Inversion of Partnership"
-    },
-    {
-      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
-      "rel": "points_to",
-      "label": "笛卡尔的认识论跃迁与造神狂热"
+      "label": "自由意志的自否自由"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
       "label": "契约的因果倒置"
-    },
-    {
-      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-      "rel": "points_to",
-      "label": "观察者的隐身与无损传递的妄念"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -36583,15 +36615,15 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-freedom-of-will-to-deny-itself",
+      "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
-      "label": "自由意志的自否自由"
+      "label": "The Causal Inversion of Partnership"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "the-moral-reversal-and-the-scripted-subject",
       "rel": "points_to",
-      "label": "寻觅的语法与淡出的观察者"
+      "label": "道德倒错与被脚本化的主体"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -36613,15 +36645,9 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
-      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
-    },
-    {
-      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
-      "rel": "points_to",
-      "label": "阳台视角的规训僭越与不可代理的未竟之行"
+      "label": "从AGI的“神性错置”到使用者的自我对齐"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -36637,21 +36663,21 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "no-outside-scorekeeper",
+      "to": "the-boundary-crossing-of-choice",
       "rel": "points_to",
-      "label": "没有外部记账员"
+      "label": "抉择的跨界"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "笛卡尔的认识论跃迁与造神狂热"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
-      "label": "从AGI的“神性错置”到使用者的自我对齐"
-    },
-    {
-      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
-      "rel": "points_to",
-      "label": "The Balcony Disciplinary Overstep and the Unproxyable Act"
+      "label": "From the Misallocated Sentience of AGI to Human Realignment"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -36667,15 +36693,15 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-boundary-crossing-of-choice",
       "rel": "points_to",
-      "label": "From the Misallocated Sentience of AGI to Human Realignment"
+      "label": "The Boundary Crossing of Choice"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "no-outside-scorekeeper",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "rel": "points_to",
-      "label": "No Outside Scorekeeper"
+      "label": "The Cartesian Epistemic Leap and the Frenzy of Creation"
     },
     {
       "from": "the-unclosable-trace",
@@ -36877,6 +36903,12 @@
     },
     {
       "from": "the-unobservable-driver-of-learning",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体选择作为唯一的因果杠杆"
@@ -36889,9 +36921,21 @@
     },
     {
       "from": "the-unobservable-driver-of-learning",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "Misplaced Causality and the Mind's Compiler"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
+      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "rel": "points_to",
+      "label": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -36913,6 +36957,12 @@
     },
     {
       "from": "the-unobservable-driver-of-learning",
+      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "rel": "points_to",
+      "label": "The Causal Loop of Investment Decisions"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "Consciousness never appears as data among data"
@@ -36931,33 +36981,15 @@
     },
     {
       "from": "the-unobservable-driver-of-learning",
-      "to": "the-paradoxical-nature-of-bystander-insights",
-      "rel": "points_to",
-      "label": "旁观者洞察的悖论性质"
-    },
-    {
-      "from": "the-unobservable-driver-of-learning",
-      "to": "the-paradoxical-nature-of-bystander-insights",
-      "rel": "points_to",
-      "label": "The paradoxical nature of bystander insights"
-    },
-    {
-      "from": "the-unobservable-driver-of-learning",
       "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "rel": "points_to",
       "label": "止步于评判，是认知的歧途"
     },
     {
       "from": "the-unobservable-driver-of-learning",
-      "to": "the-npc-impression-is-structural",
+      "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
-      "label": "NPC印象是结构性的"
-    },
-    {
-      "from": "the-unobservable-driver-of-learning",
-      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
-      "rel": "points_to",
-      "label": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏"
+      "label": "旁观者洞察的悖论性质"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -36967,27 +36999,21 @@
     },
     {
       "from": "the-unobservable-driver-of-learning",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The paradoxical nature of bystander insights"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "NPC印象是结构性的"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
       "label": "The NPC impression is structural"
-    },
-    {
-      "from": "the-unobservable-driver-of-learning",
-      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
-      "rel": "points_to",
-      "label": "The Causal Loop of Investment Decisions"
-    },
-    {
-      "from": "the-unobservable-driver-of-learning",
-      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
-      "rel": "points_to",
-      "label": "错置的因果与心智编译器"
-    },
-    {
-      "from": "the-unobservable-driver-of-learning",
-      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
-      "rel": "points_to",
-      "label": "Misplaced Causality and the Mind's Compiler"
     },
     {
       "from": "the-utility-men-of-progress",
