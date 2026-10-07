@@ -12,9 +12,9 @@ Causality is not an object discovered inside the landscape of thought, but the c
 
 人类交流建立在一项未经审视的假定之上：心智以为自己的内在认知能够被打包进语言符号，越过公共通道，完整无损地在另一个意识内部解包。这种假定制造了对称理解的幻象。从第一人称视角审视，这种对称并不存在。心智是离散的因果中心，缺乏直接互通的高维接口。日常被视作相互理解或普遍共识的现象，并非内部认知架构的重合，而是一个操作性的出清价——相互独立的系统在行动中暂停摩擦的粗糙坐标。
 
-要求对方提供形式定义与公理前提的做法，并非出于探究，而是试图将一个自主的主体收拢为一个可预测的客体。通过将另一个心智的言说框定在既定公理之中，观察者搭建起一个便于处置的沙盒，平复对方未决自由所带来的不确定性，并维持自身的裁判席位。
+要求对方提供形式定义与公理前提的做法，并非出于探究，而是试图将一个自主的主体收拢为一个可预测的客体。通过将另一个心智的言说框定在既定公理之中，观察者搭建起一个便于处置的沙盒，平复对方未决自由所带来的不确定性，并维持自身的裁判席位。伴侣之间的“共同体”，就是两个人尺度上的共享沙盒，[契约的因果倒置](../the-causal-inversion-of-partnership/)对此有所揭示。
 
-对基础条件的定义要求构成了范畴倒错。当观察者要求对“不可约因果”下达形式定义时，实质是在要求将先验的基础条件拆解为衍生构件。若将因果定义为“逻辑在时间中的展开”，解释的闭环随即收紧：接下来必须定义“逻辑”与“时间”，而两者恰恰预先假定了自身试图解释的不对称生成序列。
+对基础条件的定义要求构成了范畴倒错。当观察者要求对“不可约因果”下达形式定义时，实质是在要求将先验的基础条件拆解为衍生构件。若将因果定义为“逻辑在时间中的展开”，解释的闭环随即收紧：接下来必须定义“逻辑”与“时间”，而两者恰恰预先假定了自身试图解释的不对称生成序列。一个为所有观察者共享的冻结宇宙，正是[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)在相对论中拆开的那个沙盒。
 
 正如[因果是不可约的先验，物理是没有视角的视角](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/)所指出的，因果不是在思想风景内部被发现的对象，它是展开思想的画布。构建三段论、陈述句子或提出疑问，已经预设了在前的动作将导致在后的结果。正如[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)中对纸面等式的解构，为可能性条件索取外部证明，只能导致无穷递归或同义反复。不可约因果无法通过形式符号在外部被证实；它与第一人称视角是同一枚硬币的两面，只能从视界内部被指认。
 
@@ -22,9 +22,9 @@ Causality is not an object discovered inside the landscape of thought, but the c
 
 Human communication proceeds on an unexamined assumption: the belief that internal thoughts are packaged into linguistic tokens, sent across an open channel, and unpacked intact within another consciousness. This model comforts the mind with a promise of mutual legibility. Yet, examined from the first-person perspective, this symmetry collapses. Minds operate as discrete causal centers, devoid of direct telepathic access to one another. What is celebrated as mutual understanding or settled consensus is not an alignment of internal architectures, but an operational clearing price—a coarse coordinate where isolated systems momentarily cease colliding.
 
-The impulse to demand formal definitions and foundational premises from an interlocutor is not an invitation to genuine inquiry. It is an attempt to reduce an autonomous subject into a predictable object. By mapping another mind’s terms into neat axioms, an observer builds a manageable sandbox, neutralizes the vertigo of the other’s indeterminate freedom, and secures an external analytical vantage point.
+The impulse to demand formal definitions and foundational premises from an interlocutor is not an invitation to genuine inquiry. It is an attempt to reduce an autonomous subject into a predictable object. By mapping another mind’s terms into neat axioms, an observer builds a manageable sandbox, neutralizes the vertigo of the other’s indeterminate freedom, and secures an external analytical vantage point. A couple's "mutual entity" is the shared sandbox at the scale of two, as [The Causal Inversion of Partnership](../the-causal-inversion-of-partnership/) shows.
 
-Demanding definitions for foundational conditions commits a category error. When an observer asks for a formal definition of irreducible causality, they demand that a primary condition of possibility be broken down into derivative components. If one defines causality as "logic operating over time," the explanatory circle tightens immediately: one must then define "logic" and "time," both of which inherently presuppose the asymmetrical, generative sequence they attempt to explain.
+Demanding definitions for foundational conditions commits a category error. When an observer asks for a formal definition of irreducible causality, they demand that a primary condition of possibility be broken down into derivative components. If one defines causality as "logic operating over time," the explanatory circle tightens immediately: one must then define "logic" and "time," both of which inherently presuppose the asymmetrical, generative sequence they attempt to explain. A frozen universe shared by every observer is the sandbox [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/) takes apart in relativity.
 
 As demonstrated in [Causality is Irreducible, the Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/), causality is not an object discovered inside the landscape of thought; it is the canvas upon which thought occurs. To construct a syllogism, speak a sentence, or formulate a question is already to presuppose that an antecedent act will produce a consequent result. As shown in [Overcoming the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/), demanding external proof for a condition of possibility forces the mind into infinite regress or tautology. Irreducible causality cannot be verified from the outside through formal tokens; it and the first-person perspective are two sides of the same coin, recognizable only from within.
 
@@ -96,7 +96,7 @@ When scaled across society, this dynamic generates phantom constructs:
 
 ## 三、 外部摩擦作为损失函数：观察即导航，而非裁决 / 3. External Friction as a Loss Function: Observation as Navigation, Not Verdict
 
-这一系列现象背后的根本错位，是将高度压缩的宏观投影等同于生成它的微观实在。正如[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)所剖析的，词语、价格、选票与行为选择都是超低维度的切片。当外部环境观测到这些被压平的信号时，心智容易向其背后投射出一副整齐划一的内心图景。
+这一系列现象背后的根本错位，是将高度压缩的宏观投影等同于生成它的微观实在。正如[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)所剖析的，词语、价格、选票与行为选择都是超低维度的切片。当外部环境观测到这些被压平的信号时，心智容易向其背后投射出一副整齐划一的内心图景。物理学把一个取样框外推为宇宙，由此搭起它的沙盒，[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)说明了这一点。
 
 这也揭示了关于交流目的最普遍的误区：常识以为交流的价值在于**最小化人与人之间的外部摩擦**——抚平异见、达成共识、或通过定义规训对方以消解认知冲突。然而，外部摩擦是离散因果中心相撞时的必然产物，它无法通过重写对方的内部模型来消除。**交流的真实价值，在于最小化自身内部感知到的不自洽。**
 
@@ -106,7 +106,7 @@ When scaled across society, this dynamic generates phantom constructs:
 
 ---
 
-The error underlying these phenomena is mistaking a compressed, macroscopic projection for the microscopic reality producing it. As analyzed in [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/), words, prices, votes, and behavioral choices are low-dimensional artifacts. When society observes these flattened signals, it hallucinates a uniform interiority behind them.
+The error underlying these phenomena is mistaking a compressed, macroscopic projection for the microscopic reality producing it. As analyzed in [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/), words, prices, votes, and behavioral choices are low-dimensional artifacts. When society observes these flattened signals, it hallucinates a uniform interiority behind them. Physics builds its sandbox by extrapolating one sample frame into the cosmos, as [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) shows.
 
 This exposes the widespread misunderstanding regarding the purpose of communication. Conventional intuition assumes the goal is to **minimize friction between minds**—smoothing over divergence, securing agreement, or policing definitions to eliminate cognitive conflict. Yet external friction is an inevitable consequence of discrete causal centers colliding; it cannot be erased by attempting to rewrite another mind's architecture. **The real value of communication lies in minimizing internally felt friction.**
 

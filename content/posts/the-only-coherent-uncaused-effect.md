@@ -8,7 +8,7 @@ Governed by the strict conservation of cause and consequence, an uncaused effect
 
 Every human impulse toward superstition, entitlement, and chronic victimhood shares a single metaphysical error: the demand for an uncaused effect in the external world.
 
-We crave sudden wealth detached from physical duration and discrete work, societal acclaim decoupled from intrinsic capability, and emotional salvation delivered without confronting the conditions that generated our distress. We want the universe to suspend its conservation laws and hand us a finished harvest without the seed, the soil, or the season. 
+We crave sudden wealth detached from physical duration and discrete work, societal acclaim decoupled from intrinsic capability, and emotional salvation delivered without confronting the conditions that generated our distress. We want the universe to suspend its conservation laws and hand us a finished harvest without the seed, the soil, or the season. The free variable is the carry that overflows the register, as [The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field](../the-arithmetic-of-the-register/) shows.
 
 This demand is fundamentally incoherent:
 
@@ -36,7 +36,7 @@ How does an observer shatter the closed loop of this mechanical simulation?
 
 Not by arguing with the machine, not by analyzing its gears, and not by rearranging its internal labels. The only way to alter the system is to **inject a free variable into the very reality being experienced.**
 
-In mathematical modeling and physics, a system whose parameters are all rigidly bound is closed; its future trajectory is strictly determined by its boundary conditions. It cannot surprise itself, it cannot learn, and it cannot transcend its initial assumptions. As traced in [the generative topology of free variables](../the-generative-topology-of-free-variables/), novelty, adaptation, and negative entropy emerge only when a system contains unconstrained degrees of freedom that interact across a dynamic horizon.
+In mathematical modeling and physics, a system whose parameters are all rigidly bound is closed; its future trajectory is strictly determined by its boundary conditions. It cannot surprise itself, it cannot learn, and it cannot transcend its initial assumptions. As traced in [the generative topology of free variables](../the-generative-topology-of-free-variables/), novelty, adaptation, and negative entropy emerge only when a system contains unconstrained degrees of freedom that interact across a dynamic horizon. Injecting the free variable extends the horizon, as [The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables](../the-extendable-horizon/) describes.
 
 **Sovereign choice is the introduction of that free variable.**
 

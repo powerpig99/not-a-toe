@@ -50,7 +50,7 @@ To trace the agency-disrupting mechanism of charity is to encounter immediate re
 
 This is why the structure depends on compassion. Remove it—describe charity as resource transfer with its actual feedback consequences—and the structure becomes visible as what it is: a power arrangement that sustains itself through the incapacity of its recipients. No one would fund that. So it is never described that way. Compassion is the narrative layer that makes the mechanism tolerable, even admirable, even mandatory.
 
-The word "charity" itself performs the collapse. It fuses the mechanical act (resource transfer) with the moral frame (compassion) so thoroughly that separating them feels like an act of violence. But the separation is not violence. It is clarity. The projections can be distinguished—but not made independent. Each carries traces of the others, because all three emerge from the same self-referential act between agencies. What changes with distinction is not independence but visibility: the interference pattern becomes legible.
+The word "charity" itself performs the collapse. It fuses the mechanical act (resource transfer) with the moral frame (compassion) so thoroughly that separating them feels like an act of violence. But the separation is not violence. It is clarity. The projections can be distinguished—but not made independent. Each carries traces of the others, because all three emerge from the same self-referential act between agencies. What changes with distinction is not independence but visibility: the interference pattern becomes legible. Compassion that reverses cause and effect breaks the dual [Not a Theory of Everything](../not-a-theory-of-everything/) sets out.
 
 ## What Dissolves
 
@@ -58,9 +58,9 @@ Every transfer is an act between agencies, and the act itself encodes a model of
 
 Charity is not a transaction that completes. It is a relationship that reproduces itself. The completion would be the recipient's full agency—at which point the charitable relationship has no function, the donor has no identity, the organization has no purpose. The structure's own logic prevents the outcome it advertises.
 
-The dissolution is not "charity is bad." That is negation, which preserves the frame. The dissolution is: *the concept of charity collapses three distinct projections into one, and the collapse itself generates the problem that charity then claims to address.* Separate the projections, and each can operate on its own terms—but without the illusion that any of them is neutral. The agency problem is not a feature of the structure built on top of transfer. It is present in the transfer itself, because transfer between agents is always self-referential: an act that simultaneously expresses one agency and inscribes a reading of another.
+The dissolution is not "charity is bad." That is negation, which preserves the frame. The dissolution is: *the concept of charity collapses three distinct projections into one, and the collapse itself generates the problem that charity then claims to address.* Separate the projections, and each can operate on its own terms—but without the illusion that any of them is neutral. The agency problem is not a feature of the structure built on top of transfer. It is present in the transfer itself, because transfer between agents is always self-referential: an act that simultaneously expresses one agency and inscribes a reading of another. The coordinator's urge to install agency in others is compassion working as obscuration, as [The Coordinator’s Category Error](../the-coordinators-category-error/) shows.
 
-Whether that reading can ever avoid constructing the helplessness it perceives is the question the moral frame exists to prevent.
+Whether that reading can ever avoid constructing the helplessness it perceives is the question the moral frame exists to prevent. Once the felt register is primary, every response manages it, as [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) describes.
 
 ---
 

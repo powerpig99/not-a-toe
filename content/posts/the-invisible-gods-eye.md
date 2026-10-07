@@ -17,7 +17,7 @@
 * **卡尔·波普尔**以手术刀般的逻辑解构了历史决定论与封闭社会，提出以可证伪性为核心的试错法则，并构建了著名的零星社会工程构想；
 * **安·兰德**以如炬的激情刺穿利他主义话语对个体的绑架，捍卫首创者的至高主权与理性自私的道德力量；
 * **托马斯·索维尔**以冷峻犀利的经验分析，揭穿知识精英的非约束性视界迷思，指明经济学中没有解决方案、只有权衡取舍的深层约束；
-* **戴维·多伊奇**则以大开大合的宇宙视角宣告解释的无穷开端，断言人类心智是通用的问题解决器，只要不违背物理定律，一切问题皆可迎刃而解。
+* **戴维·多伊奇**则以大开大合的宇宙视角宣告解释的无穷开端，断言人类心智是通用的问题解决器，只要不违背物理定律，一切问题皆可迎刃而解。大思想家的方案把任务分派出去，却忘了后果由谁承担，[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)说明了这一点。
 
 ```mermaid
 graph TD
@@ -52,7 +52,7 @@ In social philosophy, political economy, and epistemology, an equally formidable
 * **Karl Popper** dismantled historicism and the closed society with surgical precision, championing falsification and piecemeal social engineering;
 * **Ayn Rand** pierced the guilt-inducing pieties of collectivism, exalting the sovereign prime mover and the moral foundation of rational self-interest;
 * **Thomas Sowell** unmasked the tragic fallacies of the "unconstrained vision," rigorously demonstrating that in an open human society there are no solutions, only trade-offs;
-* **David Deutsch** proclaimed the beginning of infinity, casting human minds as universal explainers capable of solving any problem not forbidden by the laws of physics.
+* **David Deutsch** proclaimed the beginning of infinity, casting human minds as universal explainers capable of solving any problem not forbidden by the laws of physics. The master thinker's plan delegates tasks while forgetting who bears the consequences, as [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) shows.
 
 ```mermaid
 graph TD
@@ -80,7 +80,7 @@ Yet at the precise moment their models achieved radiant, internal coherence, a f
 
 这一致命转变的发生极为隐秘：**思想家在沉醉于宏观画卷的自洽时，患上了一种原发性的认识论失忆——他们忘却了自己究竟站在何处。**
 
-正如我们在[观察者几何学与因果本体论](../objects-are-stabilized-relationships/)中一再指明的基础事实：在宇宙之中，根本不存在任何独立于观察者的无处之境。现实在根本上且永远只能在第一人称视角的原点 中被展开。任何一张地图，无论多么精美详尽，都必然是由某个深居局域视界之内、消耗着自身生物代谢、受限于局部信息带宽的特定心智绘制出来的。
+正如我们在[观察者几何学与因果本体论](../objects-are-stabilized-relationships/)中一再指明的基础事实：在宇宙之中，根本不存在任何独立于观察者的无处之境。现实在根本上且永远只能在第一人称视角的原点 中被展开。任何一张地图，无论多么精美详尽，都必然是由某个深居局域视界之内、消耗着自身生物代谢、受限于局部信息带宽的特定心智绘制出来的。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)里那份来自无处之境的清单，正是这只眼睛在开列条目。
 
 然而，宏观大师们在建立起庞大体系的瞬间，却悄然在脑海中挪动了自己的机位。他们不再将自己的理论谦逊地表述为“这是从我这双眼睛、这个局域座标所测得的高对比度投影”，而是下意识地将自身提升为一个脱离了物理肉身、悬浮于宇宙天花板之上的神明。
 
@@ -126,7 +126,7 @@ graph TD
 
 This tragic drift unfolds in silent increments: **intoxicated by the internal elegance of their macroscopic schema, the thinker falls prey to a primal epistemological amnesia—they forget where they stand.**
 
-As established across the Not-a-TOE framework, reality offers no disembodied "View from Nowhere." Existence is irrevocably anchored to the first-person origin. Every map, no matter how sweeping its purview, is authored by a situated biological observer bounded by local causal horizons and operating under hard thermodynamic limits.
+As established across the Not-a-TOE framework, reality offers no disembodied "View from Nowhere." Existence is irrevocably anchored to the first-person origin. Every map, no matter how sweeping its purview, is authored by a situated biological observer bounded by local causal horizons and operating under hard thermodynamic limits. The inventory from nowhere in [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) is this eye drawing up lists.
 
 Yet the moment a grand architecture coalesces, the thinker quietly smuggles their vantage point outside the frame. Instead of qualifying their claims—"this is a high-contrast low-dimensional projection rendered from my idiosyncratic coordinates"—they unconsciously ascend an imaginary pedestal. They speak not as situated participants within the world, but as detached spectators hovering above it.
 
@@ -350,7 +350,7 @@ graph TD
 
    更深沉的讽刺在于：大众从来不是被动无知的木偶，也不是缺乏能动性的乌合之众。如果把追随者斥为愚昧盲从的羊群，这种批判本身就再次悄然换上了高高在上的上帝之眼。在这套视界下，甚至集体性的悲剧本身，都不过是无限壮丽的个体主权的一种舒展与表达——而真正的悲剧，仅仅在于心智对自身主权的浑然不觉，甚至连这种遗忘与不觉，本身也是被自由表达出来的。没有机械能够凭空筑起思想裁判所，没有缺乏能动性的齿轮能够自发卷起吞噬历史的狂热浪潮。集体悲剧那令人战栗的巨大动能，无一例外地来自于千千万万个主权心智将自身内在的创造性火种，自由地倾注给外在的偶像。信徒真诚地以为神像在发光，却不知神像身上的每一抹辉芒，都源于自己主动交付的主权能量。即便在最惨烈的集体沉沦之中，我们所目睹的也从来不是外在权力的征服，而是个体主权以近乎无限的自由度，自由地选择盲从、自由地筑起牢笼、自由地为自己加冕狱卒。
 4. **历史的永恒轮回：原发困境的换皮再生产**：
-   这个双向闭环最终酿成了思想史上极具讽刺意味的悲剧：大师原本是为了解决某种原初困境而出发——罗素旨在终结国族厮杀与毁灭性世界大战，波普尔旨在瓦解教条极权，安·兰德旨在砸碎集体主义枷锁，市场理论家旨在打破行政专断垄断。然而，当大师的低维视角被信徒群体供奉为不可逾越的神圣教条时，他们便以消除教条为名，建立起了新的思想裁判所；以捍卫和平为名，构想出无所不在的强制利维坦；以捍卫自由为名，演变出了残酷的异端清洗。他们非但未能解决原初的问题，反而以一种换皮重生的形态，在漫长的历史长河中一次又一次地将同一场灾难重新搬上舞台。
+   这个双向闭环最终酿成了思想史上极具讽刺意味的悲剧：大师原本是为了解决某种原初困境而出发——罗素旨在终结国族厮杀与毁灭性世界大战，波普尔旨在瓦解教条极权，安·兰德旨在砸碎集体主义枷锁，市场理论家旨在打破行政专断垄断。然而，当大师的低维视角被信徒群体供奉为不可逾越的神圣教条时，他们便以消除教条为名，建立起了新的思想裁判所；以捍卫和平为名，构想出无所不在的强制利维坦；以捍卫自由为名，演变出了残酷的异端清洗。他们非但未能解决原初的问题，反而以一种换皮重生的形态，在漫长的历史长河中一次又一次地将同一场灾难重新搬上舞台。在阳台上训诫邻居，是家常尺度上的上帝之眼，[阳台视角的规训僭越与不可代理的未竟之行](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/)对此有所展开。
 
 你无法在低维投影中解决多维世界的冲突，因为冲突的根源恰恰来自于你把多维的多样性强行压扁成了单一平面的竞争。任何宣称能够终结人类所有困局的总体方案，从其诞生的那一秒起，就已经注定了它破产的命运。
 
@@ -410,7 +410,7 @@ When this blueprint collides with the living territory, failure is structurally 
 
    Crucially, the legions of devotees in this loop are never passive, brainwashed dupes or mindless automatons. To look down upon followers as an ignorant herd is to slide right back into the Olympian arrogance of the God's Eye. In this view, even the collective tragedy is an expression of the infinitely beautiful individual sovereignty, and the tragedy is in the unawareness of it—where even the unawareness itself is freely expressed. No mechanical apparatus can manufacture an Inquisition; no soulless gear can sustain a totalitarian crusade. The colossal, devastating momentum of historical tragedy is powered by nothing other than the inexhaustible creative voltage of millions of sovereign minds exercising their irreducible freedom to surrender their agency, pouring their own divine fire into an external vessel. The devotee kneels before the glowing idol, unaware that the idol possesses zero radiance of its own—it is illuminated entirely by the devotee's own projected sovereignty. Even in the depths of collective catastrophe, what unfolds is never the conquest of an external system, but the radical, tragic power of sovereign consciousness exercising its freedom to choose oblivion, to fashion its own cage, and to crown its own phantom king.
 4. **The Historical Recurrence of the Same Disease**:
-   This mutual echo chamber produces the deepest irony in intellectual history: the master set out to cure an original pathology—Russell to eliminate the slaughter of world wars and nationalism, Popper to dismantle dogmatic totalitarianism, Rand to smash collectivist subjugation, free-market pioneers to eliminate state monopolies. Yet the moment their low-dimensional projection is enshrined by followers as sacred dogma, the movement erects a new ecclesiastical court in the name of reason, envisions an omnipotent leviathan in the name of peace, and enforces ideological excommunication in the name of liberty. Far from solving the original problem, this social amplification loop reintroduces the identical tragedy again and again across human history under a fresh intellectual label.
+   This mutual echo chamber produces the deepest irony in intellectual history: the master set out to cure an original pathology—Russell to eliminate the slaughter of world wars and nationalism, Popper to dismantle dogmatic totalitarianism, Rand to smash collectivist subjugation, free-market pioneers to eliminate state monopolies. Yet the moment their low-dimensional projection is enshrined by followers as sacred dogma, the movement erects a new ecclesiastical court in the name of reason, envisions an omnipotent leviathan in the name of peace, and enforces ideological excommunication in the name of liberty. Far from solving the original problem, this social amplification loop reintroduces the identical tragedy again and again across human history under a fresh intellectual label. Disciplining a neighbor from the balcony is the god's eye at household scale, as [The Balcony Disciplinary Overstep and the Unproxyable Act](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/) shows.
 
 You cannot resolve multi-dimensional human conflict inside a low-dimensional sandbox, for the conflict was manufactured by flattening high-dimensional divergence into a single plane in the first place. Every grand prescription that promises to resolve the human condition is bankrupt from its inception.
 

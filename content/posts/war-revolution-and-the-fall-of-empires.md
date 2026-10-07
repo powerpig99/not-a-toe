@@ -44,7 +44,7 @@ The revolutionary sequence attempts to resolve this divergence by destroying the
 * The emergency committee becomes the permanent state;
 * The revolutionary creed transforms into the new orthodoxy against which all future action is policed.
 
-This progression reflects the structural tendency of preserved images to defend themselves against recalibration. Reform and revolution are observational classifications applied from the outside; reality consists of the continuous distinguishing of living centers, either adapting directly to immediate conditions or trapped in the defense of inherited models.
+This progression reflects the structural tendency of preserved images to defend themselves against recalibration. Reform and revolution are observational classifications applied from the outside; reality consists of the continuous distinguishing of living centers, either adapting directly to immediate conditions or trapped in the defense of inherited models. Historical laws are projections of this kind, as [Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence](../dimensions-are-projections/) shows.
 
 ## The Mirage of Stored History
 

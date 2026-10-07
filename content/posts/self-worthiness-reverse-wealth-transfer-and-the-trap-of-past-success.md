@@ -48,7 +48,7 @@ Logically, however, this is **the single most efficient deployment of capital in
 
 Most individuals and organizations do not sustain this infinite posture. Instead, an insidious shift occurs along a continuous spectrum: **the gradient shifts from expanding self-worthiness to defending self-worthiness**.
 
-This shift does not erect an instantaneous, visible ceiling. Creators do not lose their capability overnight; they still retain residual self-worthiness and technical competence. Rather, the misallocation acts as an **accumulating internal drag**:
+This shift does not erect an instantaneous, visible ceiling. Creators do not lose their capability overnight; they still retain residual self-worthiness and technical competence. Rather, the misallocation acts as an **accumulating internal drag**: [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) develops the first half of this: worth is owned, never conferred.
 
 1. **The Inversion of Power**: Having accumulated massive fortunes, social prestige, and institutional authority, the creator begins treating their **accumulated residue as the source of their power**, rather than recognizing it as the lagging consequence of their past distinguishing;
 2. **From Launchpad to Drag**: Instead of using past success purely as a reference point and leverage for fresh risks, attention and energy are diverted into protecting brand equity, defending territory, and managing social influence;

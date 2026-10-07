@@ -552,7 +552,7 @@ With attribution restored to the first-person origin, the sovereign mind natural
 
 门外没有荧幕，没有算式，也没有替你预设答案的智能先知。
 
-门外是一座正在破晓的真实世界——脚下是粗粝真实的泥土，头顶是无限深邃的星空，而每一个与你擦肩而过的同侪，都在自己未被编码的广袤宇宙里，目光清澈地迎接着第一缕晨光。
+门外是一座正在破晓的真实世界——脚下是粗粝真实的泥土，头顶是无限深邃的星空，而每一个与你擦肩而过的同侪，都在自己未被编码的广袤宇宙里，目光清澈地迎接着第一缕晨光。硅基神谕是最精密的仪器，却依然不承担后果，[硅基神谕与后果的非对称性](../silicon-oracles-and-the-asymmetry-of-consequence/)说明了这一点。
 
 ---
 
@@ -576,4 +576,4 @@ Step through the heavy threshold into the open air.
 
 Outside, there are no screens, no autocomplete probabilities, and no pre-packaged answers.
 
-Outside lies the unmapped, living real—rough soil beneath your boots, an unbounded sky overhead, and sovereign peers standing shoulder-to-shoulder, meeting the dawn with clear eyes in an open universe without a ceiling.
+Outside lies the unmapped, living real—rough soil beneath your boots, an unbounded sky overhead, and sovereign peers standing shoulder-to-shoulder, meeting the dawn with clear eyes in an open universe without a ceiling. A silicon oracle is the most precise instrument of all and still bears no consequence, as [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/) shows.

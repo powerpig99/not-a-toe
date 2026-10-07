@@ -82,7 +82,7 @@ The distilled model that preserves surface area for agency to act on is the one 
 
 Distillation optimizes for performance. Performance, measured far enough, separates from the generative capacity that produced it. The separation is invisible to the measurement because the measurement is what defined "performance" in the first place. The distilled model matches every evaluation and loses what no evaluation captures.
 
-This isn't a case against distillation. It's the structure of any compression that optimizes against a fixed projection. The benchmark is a projection. The teacher's capability lives in dimensions the projection doesn't span. Compress along the projection and those dimensions go — not because someone chose to lose them, but because the optimization can't see them.
+This isn't a case against distillation. It's the structure of any compression that optimizes against a fixed projection. The benchmark is a projection. The teacher's capability lives in dimensions the projection doesn't span. Compress along the projection and those dimensions go — not because someone chose to lose them, but because the optimization can't see them. Choosing what to lose is the stake [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) says a model cannot originate, however efficiently it compresses.
 
 The question isn't whether to distill. It's whether the compression finds the generative ground or freezes the outputs. Whether the resulting artifact extends the user's agency or substitutes for it. Whether what survives the compression is a principle or a catalog.
 

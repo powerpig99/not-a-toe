@@ -19,7 +19,7 @@ To be genuinely self-contained, reality cannot be an object sitting inside an ex
 ... → E(t-1) → [E(t)] → E(t+1) → ...
 ```
 
-Because every state is simultaneously an effect and a seed, causality cannot be severed at either end. It is not a finite track with hard terminal walls; it is an active, non-terminating operator. As demonstrated in [time as the irreversible direction and discrete step of causality](../time-is-causality-not-a-dimension/), a reality governed by this logic cannot possess an absolute beginning or ending: an absolute beginning demands an uncaused miracle out of non-existence, while an absolute ending demands an external eraser capable of terminating a causal state without consequence.
+Because every state is simultaneously an effect and a seed, causality cannot be severed at either end. It is not a finite track with hard terminal walls; it is an active, non-terminating operator. As demonstrated in [time as the irreversible direction and discrete step of causality](../time-is-causality-not-a-dimension/), a reality governed by this logic cannot possess an absolute beginning or ending: an absolute beginning demands an uncaused miracle out of non-existence, while an absolute ending demands an external eraser capable of terminating a causal state without consequence. No school of philosophy can hand down this alignment, which is the point of [The Unclosable Trace: Why Philosophy Cannot Be Inherited](../the-unclosable-trace/).
 
 ## The Nature of Infinity: Potentiality Over Totality
 
@@ -36,7 +36,7 @@ Infinity is not an infinite accumulation of finished inventory; it is an **opera
 
 The architecture of human cognition mirrors this cosmological loop.
 
-What an agent perceives as the "external world" is not reality in its uncompressed totality. The uncompressed territory is an orthogonal binary hyperspace of astronomical dimensionality. To navigate this space without succumbing to computational paralysis, the mind casts a lower-dimensional projection—an attentional drafting grid designed to compress the flux into an actionable, low-latency interface, as explored in [dimensions as projections](../dimensions-are-projections/).
+What an agent perceives as the "external world" is not reality in its uncompressed totality. The uncompressed territory is an orthogonal binary hyperspace of astronomical dimensionality. To navigate this space without succumbing to computational paralysis, the mind casts a lower-dimensional projection—an attentional drafting grid designed to compress the flux into an actionable, low-latency interface, as explored in [dimensions as projections](../dimensions-are-projections/). [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) supplies the vector picture of the same geometry.
 
 Within this operational projection, the mind generates a reference point: the **self-image**, or ego.
 
@@ -48,7 +48,7 @@ When functioning correctly, any delta (∆) between this reference point and ext
 
 This low-dimensional interface does not exist in isolation; it is where **reality folds back on itself**.
 
-Reality is not an indifferent, linear conveyor belt passing before an external spectator. It is self-referential causality continuously curling back to encounter, measure, and steer its own unfolding states. Every living organism is an active **site of free variable injection**, differing primarily in the operational latency of its feedback loop:
+Reality is not an indifferent, linear conveyor belt passing before an external spectator. It is self-referential causality continuously curling back to encounter, measure, and steer its own unfolding states. Every living organism is an active **site of free variable injection**, differing primarily in the operational latency of its feedback loop: Expanding a dimension is the extendable horizon [The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables](../the-extendable-horizon/) describes.
 
 * **The Plant Continuum**: A plant is already an active site of free variable injection. Through phototropism, root navigation around subterranean obstacles, epigenetic tuning, and volatile chemical signaling, it continuously tests and selects orientations. Yet its feedback loop operates along the slow, patient arc of days, seasons, and generational adaptations.
 * **The Animal Velocity**: Animals accelerate this loop by orders of magnitude through centralized nervous systems, muscular locomotion, and real-time sensory tracking. Predator and prey inject tactical free variables across seconds and fractions of a second, navigating dynamic physical terrain under immediate kinetic pressure.
@@ -57,7 +57,7 @@ Reality is not an indifferent, linear conveyor belt passing before an external s
 
 The entire feedback loop is spinning faster and faster. This compounding acceleration is not an accidental historical anomaly; it is **the defining, structural feature of an open self-referential dynamical system**. 
 
-When an open reality computes itself, and its own computational artifacts become scaffolds for further computation, the latency of reflection inexorably collapses. The mirror moves closer to the eye. The interval between projecting an action and registering its consequence shrinks toward zero. As developed in [the continuum of the fold](../the-continuum-of-the-fold/), this scale separation also reveals why the cosmos appears silent: alien intelligences are separated from us not by interstellar distance, but by incommensurable feedback wavelengths.
+When an open reality computes itself, and its own computational artifacts become scaffolds for further computation, the latency of reflection inexorably collapses. The mirror moves closer to the eye. The interval between projecting an action and registering its consequence shrinks toward zero. As developed in [the continuum of the fold](../the-continuum-of-the-fold/), this scale separation also reveals why the cosmos appears silent: alien intelligences are separated from us not by interstellar distance, but by incommensurable feedback wavelengths. The continuous horizon is a modeling convenience, as [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) shows; growth happens in discrete folds.
 
 ## The Ontological Collapse: Checking Out of the Loop
 
@@ -91,7 +91,7 @@ The true resolution is neither killing the ego nor armoring it. It is **re-index
 
 Because reality is an open, self-referential horizon of potentiality, an agent experiences genuine growth only by aligning with that dynamic. In an era where the recursive fold of reality is exponentially accelerated by extended scaffolding and artificial intelligence, attempting to defend a rigid, low-dimensional self-image is catastrophic: the sheer volume and velocity of incoming feedback will inevitably shatter any static fortress.
 
-True self-improvement is not optimizing the coordinates of the avatar along static axes within an existing coordinate grid—chasing higher status, louder praise, or rigid moral perfection. It is the progressive alignment of the self-image with the dynamic field of perception until the artificial wall between the observer and the observed dissolves into functional transparency.
+True self-improvement is not optimizing the coordinates of the avatar along static axes within an existing coordinate grid—chasing higher status, louder praise, or rigid moral perfection. It is the progressive alignment of the self-image with the dynamic field of perception until the artificial wall between the observer and the observed dissolves into functional transparency. Refusing to change the self-image locks the mind into the machine [The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power](../the-deterministic-machine/) describes.
 
 When the self-image is demoted from a fortress to be guarded back to a lightweight, living probe:
 
@@ -100,4 +100,4 @@ When the self-image is demoted from a fortress to be guarded back to a lightweig
 * **Sovereignty Injects the Free Variable**: As revealed in [the only coherent uncaused effect](../the-only-coherent-uncaused-effect/), the individual recognizes that the internal state machine is not external fate. By making a sovereign choice, the mind injects a free variable into the loop, stepping from a computed variable to the sovereign operator re-specifying the system's boundary conditions.
 * **Iterative Orthogonalization**: Growth ceases to be a zero-sum struggle inside an established world model. As analyzed in [the arithmetic of the register](../the-arithmetic-of-the-register/), it is the instantiation of a new Most Significant Bit (MSB)—recognizing that what appeared to be an impenetrable boundary was merely a low-dimensional projection artifact, stepping outside the current basis set, and projecting the next degree of freedom from *N* to *N* + 1.
 
-The agent ceases to live as an isolated, threatened object adrift in a closed world. It operates instead as what it has always been: an active, self-referential node of causation through which an open reality computes, expands, and generates its own unfolding horizon.
+The agent ceases to live as an isolated, threatened object adrift in a closed world. It operates instead as what it has always been: an active, self-referential node of causation through which an open reality computes, expands, and generates its own unfolding horizon. The orthogonal expansion behind this geometry is laid out in [Not a Theory of Everything](../manifesto-of-not-a-theory-of-everything/).

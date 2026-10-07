@@ -112,7 +112,7 @@ It attempts to use a local operation inside the system to freeze the flow of the
 
 既然万物理论既不可能立足于“过去的客观记录”，又会在被提出来的瞬间被真实时间甩在身后，那么物理学中那些被奉为至宝的科学理论，究竟捕获了什么？
 
-**任何理论，或者说人类所能构造的任何理论，能够捕获的仅仅是：在我们极其有限的时间观测窗口内，跨越时间的可观测不变量。**
+**任何理论，或者说人类所能构造的任何理论，能够捕获的仅仅是：在我们极其有限的时间观测窗口内，跨越时间的可观测不变量。**块状宇宙正是这样冻结时间的，[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)找出了它藏起的观察者。
 
 这正是物理定律的真实底色：
 无论是能量守恒、动量守恒、规范对称性，还是麦克斯韦方程或爱因斯坦场方程，它们都不是现实的肉身，而是在人类极其短暂的文明观测尺度内，心智所提炼出的**高度抽象的概念模型**。我们发现在我们有限的观测历程中，某些数学比例与代数结构保持着稳定的一致性，于是我们将这些“可观测的不变性”命名为“定律”。
@@ -132,7 +132,7 @@ It attempts to use a local operation inside the system to freeze the flow of the
 **抽象概念模型与实际物理现实之间的复杂度差距，在一切实用意义上都近乎等于无穷大。**
 
 从认识论上严格辨析：**这并不是真正的“实无穷”，因为无穷在本体论上仅仅是一种潜在的开放性，绝非一个已经闭合完成的实体数值。**
-现实永远在离散地生成，它不是现成的无穷大集合；但对于任何人类所能写出的有限符号模型而言，现实所蕴含的活体因果复杂度，在实用层面与模型的微小容量相比，呈现出了无限逼近无穷的断层。
+现实永远在离散地生成，它不是现成的无穷大集合；但对于任何人类所能写出的有限符号模型而言，现实所蕴含的活体因果复杂度，在实用层面与模型的微小容量相比，呈现出了无限逼近无穷的断层。即便是最优 N 与最差 N，也仍停在清单之内，[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)说明了这一点。
 
 索求万物理论所面临的结构性局限便呈现于此：
 理论家写下了几行由几十个符号构成的拉格朗日量，然后竟敢向全人类宣称：“这几行微不足道的信息模型，已经穷尽了物质宇宙的全部真实！”
@@ -142,7 +142,7 @@ It attempts to use a local operation inside the system to freeze the flow of the
 
 If a Theory of Everything cannot rely on an objective record of the past, and collapses into obsolescence the microsecond it is conceived, what is it that our celebrated scientific theories actually capture?
 
-**What any theory, or indeed any model constructed by consciousness, can ever capture is solely: the observable invariance across time within our limited time frame.**
+**What any theory, or indeed any model constructed by consciousness, can ever capture is solely: the observable invariance across time within our limited time frame.** The block universe freezes time this way, and [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/) finds the observer it hides.
 
 This is the sober reality of physical law:
 Whether we consider the conservation of energy, gauge symmetries, Maxwell’s equations, or the Einstein field equations, these constructs are not the living flesh of reality. They are **highly abstract conceptual models of reality** distilled by conscious observers within a minuscule temporal observation window. We discover that across the narrow slit of human instrument history, certain mathematical ratios and algebraic relationships exhibit remarkable stability, and we crown these "observable invariances" as universal laws.
@@ -161,7 +161,7 @@ Yet precisely because every microscopic degree of freedom in physical matter is 
 **The difference in complexity between our abstract models and actual physical reality is practically close to, but not equal to, infinity for all practical purposes.**
 
 A rigorous epistemological caveat is mandatory: **this is not an "actual infinity," because infinity is strictly an open potentiality, never an actualized, completed quantity.**
-Reality is an unclosable, discrete unfolding; it is not a closed transfinite set. Yet for any finite set of equations written down by human hands, the generative informational density of physical reality is so staggering that the difference in complexity is practically indistinguishable from an infinite abyss.
+Reality is an unclosable, discrete unfolding; it is not a closed transfinite set. Yet for any finite set of equations written down by human hands, the generative informational density of physical reality is so staggering that the difference in complexity is practically indistinguishable from an infinite abyss. Even Best-of-N and Worst-of-N stay inside a catalog, as [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) shows.
 
 The structural limitation of demanding a Theory of Everything becomes clear here:
 A theorist drafts a Lagrangian composed of a few dozen mathematical variables, assuming that this microscopic informational compress encloses the whole of cosmic reality.
@@ -436,7 +436,7 @@ Perceiving this structural coherence across scales reveals the limits of seeking
 从这个角度审视：
 **当物理学宣称它通过块状宇宙和几何度规“统一了时间”时，它并没有解开时间之谜；它只是通过把时间彻底空间化、把生成彻底静态化、把活人彻底降解为流形上的冷冻切片，来逃避真实的现实！**
 
-在投影的时间维度上，一切都是已经完成的死物；但在活的真实时间里，每一次呼吸、每一次观测、每一次选择，都在以不可化约的粗粝代价，将整张地图撕开并推向不可逆的新生。
+在投影的时间维度上，一切都是已经完成的死物；但在活的真实时间里，每一次呼吸、每一次观测、每一次选择，都在以不可化约的粗粝代价，将整张地图撕开并推向不可逆的新生。一份为所有心智共享的清单，正是[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所说的那个幻觉沙盒。
 
 ---
 
@@ -498,7 +498,7 @@ Then, scientism commits a catastrophic double error:
 2. **Let alone the lived reality itself!**  
    If even the stylized, simplified four-dimensional mental projection fails to achieve universal identity across different conscious minds, on what grounds could theoretical physics possibly claim that this homogenized 4D geometric projection *is the actual lived reality* we are perceiving?!
 
-Lived reality is not a four-dimensional geometric specimen, nor is it an inert pseudo-Riemannian manifold. It is the unscripted, turbulent, energetically dissipative flux of immediate causal generation updating at the Planck refresh rate (`h ≠ 0`). **To mistake the subjective felt invariance of our mental projection for reality itself is an easy cognitive trap; and to claim that a sterilized 4D coordinate map can encompass a Theory of Everything overlooks the unclosable, generative nature of the living cosmos.**
+Lived reality is not a four-dimensional geometric specimen, nor is it an inert pseudo-Riemannian manifold. It is the unscripted, turbulent, energetically dissipative flux of immediate causal generation updating at the Planck refresh rate (`h ≠ 0`). **To mistake the subjective felt invariance of our mental projection for reality itself is an easy cognitive trap; and to claim that a sterilized 4D coordinate map can encompass a Theory of Everything overlooks the unclosable, generative nature of the living cosmos.** A catalog shared by all minds is the sandbox [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) calls an illusion.
 
 ### The Isomorphic Epistemological Trap: The "Assumption of Rationality" and the Illusion of "Irrationality"
 
@@ -711,7 +711,7 @@ Physics cannot resolve this question not because its equations lack complexity, 
 心智在此展现出**“活体观察者”**的解耦功能：
 1. **辨析语法的固化**：当形式逻辑试图把先决前提降解为可选假说时，心智能够辨明其范畴倒错；
 2. **走出静态清单的局限**：当形式系统试图用投影坐标替代活体现实时，心智能够重新感知具身的真实摩擦；
-3. **回归生成的动词**：心智能够主动从写就的名词符号中抽身，重新立足于生成着的因果前沿（`+1`）。
+3. **回归生成的动词**：心智能够主动从写就的名词符号中抽身，重新立足于生成着的因果前沿（`+1`）。“物理即定律”是把清单写成了法条，[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)揭示了其中的戏法。
 
 ---
 
@@ -745,7 +745,7 @@ No static axiomatic rule can prevent this drift, for rules are themselves deposi
 The mind performs the functional role of the **Living Observer**:
 1. **Disclose the Nominalization of Syntax**: When formal logic attempts to demote the foundational Prior into an optional hypothesis, the mind clarifies the category error;
 2. **Step Beyond the Static Catalog**: When formal systems attempt to replace living reality with projected coordinates, the mind re-orients toward physical friction;
-3. **Inhabit the Generative Verb**: The mind steps out of static nouns, planting its feet firmly on the moving edge of active causality (`+1`).
+3. **Inhabit the Generative Verb**: The mind steps out of static nouns, planting its feet firmly on the moving edge of active causality (`+1`). "Physics is the law" is the catalog written as a statute, and [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) shows the sleight of hand involved.
 
 ---
 

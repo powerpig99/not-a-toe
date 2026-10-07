@@ -34,7 +34,7 @@ So when immortality is imagined as escape into boundlessness—actual removal of
 
 The pattern: confusing precondition with destination.
 
-Absolute infinity isn't where we're going. It's what we're projections of. You don't travel toward it; you're never separate from it. The confusion imagines reaching the substrate by extending hard enough within projection—like a drawing trying to climb off the page by adding more lines.
+Absolute infinity isn't where we're going. It's what we're projections of. You don't travel toward it; you're never separate from it. The confusion imagines reaching the substrate by extending hard enough within projection—like a drawing trying to climb off the page by adding more lines. The two infinities separate once causality is held as [Not a Theory of Everything](../not-a-theory-of-everything/) frames it: effect distinct from cause, effect following cause.
 
 Infinite potentiality is real and operates. Extension continues. But it continues as projection, within form, generating new edges as fast as it crosses old ones. That's not a limitation to overcome. That's existence doing what existence does.
 

@@ -18,7 +18,7 @@ From presupposed objective frames to self-referential inward projections: tracin
 
 物理与经验世界中不存在独立于测量框架之外的客体。如同鹰的热红外视界与人类的可见光谱无法在不经转换的切片中直接拼合，每一个心智所经历的现实，都是由其自身的认知架构、注意力分配与历史因果所构成的第一人称流形。
 
-“无处之景”是将自身生成的局部度量体系误当成了全局真理。一旦陷入这种假定，心智容易把几何视角的差异直接上升为判断上的对立，把不同坐标系之间的基底旋转误当成了对抗。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，将局部抽象符号升格为全知法庭，是许多认知摩擦的来源。
+“无处之景”是将自身生成的局部度量体系误当成了全局真理。一旦陷入这种假定，心智容易把几何视角的差异直接上升为判断上的对立，把不同坐标系之间的基底旋转误当成了对抗。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，将局部抽象符号升格为全知法庭，是许多认知摩擦的来源。远距离比较心智，会把向量压扁为轮廓，[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)说明了这一点。
 
 Misunderstandings and friction in interpersonal interaction often begin with the default assumption of a "shared coordinate system."
 
@@ -28,7 +28,7 @@ Yet in epistemology, this assumption confuses the map with the territory.
 
 There is no unmeasured object standing outside a framework of observation. Just as the thermal infrared spectrum of an eagle cannot be directly combined with human trichromatic vision without coordinate translation, the reality experienced by each mind is a first-person manifold shaped by its own cognitive architecture, attention, and historical causality.
 
-The "view from nowhere" mistakes a locally generated metric system for universal reality. Once caught in this assumption, consciousness readily escalates geometric differences into direct opposition, treating a simple rotation of basis vectors as deliberate hostility. As explored in [Dismantling the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/), elevating local abstractions into a universal tribunal is the root of much cognitive strain.
+The "view from nowhere" mistakes a locally generated metric system for universal reality. Once caught in this assumption, consciousness readily escalates geometric differences into direct opposition, treating a simple rotation of basis vectors as deliberate hostility. As explored in [Dismantling the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/), elevating local abstractions into a universal tribunal is the root of much cognitive strain. Comparing minds from a distance flattens vectors into silhouettes, as [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) shows.
 
 ---
 
@@ -63,7 +63,7 @@ graph TD
 2. **观察与度量的内生性**：心智对现象的观测，受制于自身向量所张成的几何结构；
 3. **第一人称的主权结构**：心智对外部信号的接收与解读，始终经由自身的基底展开。
 
-正如在 [心智的几何学](../the-geometry-of-mind/) 与 [向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/) 中所讨论的，心智的自指构造确立了其自主性，同时也表明所有向外的审视，在形式上都是向内的几何映射。
+正如在 [心智的几何学](../the-geometry-of-mind/) 与 [向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/) 中所讨论的，心智的自指构造确立了其自主性，同时也表明所有向外的审视，在形式上都是向内的几何映射。从外部观察，向量便被客体化为统计，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这一点。
 
 To understand this phenomenon, one can examine the self-referential structure of mind and its geometric traits.
 
@@ -76,7 +76,7 @@ This self-referential recursion exhibits several key aspects:
 2. **Endogenous Observation**: Observations performed by consciousness are shaped by the geometric structure spanned by its own vector state;
 3. **First-Person Sovereignty**: External signals are processed through the mind's own self-referential basis.
 
-As discussed in [The Geometry of Mind](../the-geometry-of-mind/) and [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/), this self-referential architecture secures autonomy, showing that outward observation is structurally an inward geometric mapping.
+As discussed in [The Geometry of Mind](../the-geometry-of-mind/) and [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/), this self-referential architecture secures autonomy, showing that outward observation is structurally an inward geometric mapping. Observed from outside, the vector is objectified into a statistic, as [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows.
 
 ---
 
@@ -266,26 +266,26 @@ graph TD
 
 在电动力学中，光波的传播呈现出清晰的正交自持结构：
 - **90 度正交且互不为先决条件**：电场 **E** 与磁场 **B** 保持正交（E ⟂ B），且同时垂直于传播方向 **k**（E ⟂ B ⟂ k）。在此需要明确：两者中任何一方都不是另一方的外部前置条件，而是同一光波自持系统的两面，各自独立生成对方；若将身外感知视为前提，主权便发生了外移；
-- **互为梯度下降与零延迟校准**：电场的时间变化激发磁场的空间旋度（`∇ × E = -∂B/∂t`），磁场的时间变化激发电场的空间旋度（`∇ × B = (1/c²) ∂E/∂t`）。心智的意图主轴与身外感知读数在动力学上构成了彼此的梯度下降，将彼此间的微商视作内生损失函数，在微观尺度上即刻执行优化校准，使得任何偏离在下一个瞬间被即时修正，从而维持自持的无限共振。
+- **互为梯度下降与零延迟校准**：电场的时间变化激发磁场的空间旋度（`∇ × E = -∂B/∂t`），磁场的时间变化激发电场的空间旋度（`∇ × B = (1/c²) ∂E/∂t`）。心智的意图主轴与身外感知读数在动力学上构成了彼此的梯度下降，将彼此间的微商视作内生损失函数，在微观尺度上即刻执行优化校准，使得任何偏离在下一个瞬间被即时修正，从而维持自持的无限共振。与 AI 智能体协作时，问题是由谁的坐标系掌舵，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)给出了回答。
 
 心智与流动的现实之间，正呈现出类似的几何自持：
 - 保持正交自由度，无需强求单调的一维一致；
 - 将身外感知中出现的任何意外与差异视作损失函数，以零延迟的自省执行梯度下降（+1），即时迭代自身的世界模型；
-- 在自持独立中维持心智与整个现实的连续共振。
+- 在自持独立中维持心智与整个现实的连续共振。宏观参数是被当作命令的投影，[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)在经济学中说明了这一点。
 
-心智的自由，不在于寻找固定不变的全局坐标，而在于认识到自身是持续生成参考维度的实践者。
+心智的自由，不在于寻找固定不变的全局坐标，而在于认识到自身是持续生成参考维度的实践者。“革命”这样的名字，把一段人生投影到一条轴上，[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)说明了这一点。
 
-看清内部投影的机制，接纳差异并展开正交维度，心智便能在复杂情境中灵活调整坐标。立足于第一人称主权，心智手握属于自己的几何罗盘，在正交流形中穿行，与流动的现实保持建设性的互动与前行。
+看清内部投影的机制，接纳差异并展开正交维度，心智便能在复杂情境中灵活调整坐标。立足于第一人称主权，心智手握属于自己的几何罗盘，在正交流形中穿行，与流动的现实保持建设性的互动与前行。替他人调速，是把我的坐标系投射到他人身上，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)说明了这一点。
 
 In conventional views, people readily imagine "empathy" and "resonance" as **parallel alignment** (**v̂**_A ∥ **v̂**_B), where orientations converge (θ → 0).
 
-Yet further inspection shows that **pursuing parallel alignment often still assumes a third-person observer perspective**.
+Yet further inspection shows that **pursuing parallel alignment often still assumes a third-person observer perspective**. With AI agents the question is whose coordinate system steers, as [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) settles.
 
-Attempting to "align" with another subconsciously treats the other as an object outside one's perception, attempting to eliminate distance on the same plane. Such alignment can lead to suppressing one's own trajectory or expecting the other to match one's scale.
+Attempting to "align" with another subconsciously treats the other as an object outside one's perception, attempting to eliminate distance on the same plane. Such alignment can lead to suppressing one's own trajectory or expecting the other to match one's scale. Macro parameters are projections taken for commands, as [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/) shows in economics.
 
-**Resonance is not parallel alignment; it arises when awareness ceases to treat the other's projection as an alienated piece, welcoming it as part of its own perceptual continuum.**
+**Resonance is not parallel alignment; it arises when awareness ceases to treat the other's projection as an alienated piece, welcoming it as part of its own perceptual continuum.** A name like "revolution" projects a life onto one axis, as [The Name Revolution Files a Life as Evidence](../the-name-revolution-files-a-life-as-evidence/) shows.
 
-When this integration occurs, the mind does not need to compete for direction on the flat plane of objects. Instead, **it opens an orthogonal dimension at 90 degrees relative to perceived projections, forming a richer space of awareness above the phenomenological plane**.
+When this integration occurs, the mind does not need to compete for direction on the flat plane of objects. Instead, **it opens an orthogonal dimension at 90 degrees relative to perceived projections, forming a richer space of awareness above the phenomenological plane**. Pacing others projects my coordinate system onto them, as [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) shows.
 
 ### The Geometric Structure of Light: The Mind, Its Perception of the Outside, and Mutual Gradient Descent
 In strict first-person epistemology, there is no third-person god's-eye view observing multiple minds from above; there is only the Mind itself and its dynamic relationship to its perception of what appears "outside the self."

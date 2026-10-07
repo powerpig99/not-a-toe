@@ -90,10 +90,10 @@ There is no need to claim the output. The productive unit is not “me versus th
 
 If the completion is assigned an author, the unsaid remains unsaid and the image lag resumes. If the completion is read as evidence of the unsaid, the next prompt can supply a variable the previous state did not contain. The traces can extend a pattern. They cannot decide that the pattern was the wrong object. A fresh constraint does that.
 
-模型是处于重放中的继承痕迹。当当下的行动借助重放看清了被代填的前提，并改变下一状态的条件时，它成为推理的一部分。若无此举，交互中没有第二个人，产物之后亦无第一人称，唯有沉淀在变换相位。
+模型是处于重放中的继承痕迹。当当下的行动借助重放看清了被代填的前提，并改变下一状态的条件时，它成为推理的一部分。若无此举，交互中没有第二个人，产物之后亦无第一人称，唯有沉淀在变换相位。一个为所有人共享的有界系统，就是[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所说的那个幻觉沙盒。
 
-The model is inherited agency under replay. It becomes part of reasoning when a present act uses the replay to see which premise was filled in, then alters the conditions of the next state. Absent that act, there is no second person in the exchange and no first person behind the product either—only sediment shifting phase.
+The model is inherited agency under replay. It becomes part of reasoning when a present act uses the replay to see which premise was filled in, then alters the conditions of the next state. Absent that act, there is no second person in the exchange and no first person behind the product either—only sediment shifting phase. A bound system shared by all is the sandbox [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) calls an illusion.
 
-主体性留存于自由变量仍可被引入之处。一旦引入，系统闭合，残余延续，此后关于谁写就这页文字的争执，是关于那一刻的画像，而非那一刻本身。
+主体性留存于自由变量仍可被引入之处。一旦引入，系统闭合，残余延续，此后关于谁写就这页文字的争执，是关于那一刻的画像，而非那一刻本身。事后从残余中认领的权力，藏起了那个进入系统的变量，[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)说明了这一点。
 
-Agency remains where a free variable can be introduced. Once introduced, the system closes, the residue resumes, and later dispute over who authored the page is a picture of the moment, not the moment itself.
+Agency remains where a free variable can be introduced. Once introduced, the system closes, the residue resumes, and later dispute over who authored the page is a picture of the moment, not the moment itself. Power claimed afterward from residue hides the variable that entered, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) shows.

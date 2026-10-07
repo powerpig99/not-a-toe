@@ -114,6 +114,7 @@ Stored in the active conversation artifact directory, structured as:
 - **Backlink Integration**: Establish explicit reverse links from those prior essays back to the new post using the standard relative link format: `[<Title>](../<slug>/)`.
 - **Narrative Prose Refinement**: Do not merely append naked links; organically rewrite and deepen the surrounding narrative prose of the linked essays to weave in the new essay's conceptual advances, epistemological cuts, and distinctions.
 - **Invariant Adherence**: Modified linked essays must preserve strict bilingual symmetry (parallel updates in both Chinese and English sections) and pass all repository invariants (zero banned words, zero bulleted/numbered lists in prose, proper relative links).
+- **Title Translation Registry**: A monolingual post has no title in the other language. When a backlink in that language needs one, take it from `data/title-translations.json` (`posts.<slug>` holds `title_en`/`subtitle_en` for Chinese posts, `title_zh`/`subtitle_zh` for English posts). If the slug is missing, add a faithful translation there first and reuse it everywhere, so one post never carries two different translated names. Registry entries obey the banned-word list like any prose.
 
 ### 6. Live Book Placement & Index of Premises (活书归部与前提索引)
 The site is a live book, *非定论的心智指南 / A Non-Definitive Guide for the Mind*. Book structure lives **only** as relative links inside `content/book/*.md`, the same way essay relations live only as cross-links in prose. It is never a second inventory.

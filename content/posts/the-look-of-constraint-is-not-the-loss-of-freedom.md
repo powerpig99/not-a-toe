@@ -36,7 +36,7 @@ Under this continuous recapture:
 
 Childhood was simply the developmental phase *before* the common basins had accumulated enough historical residue to hold onto. Adulthood is the phase in which, for the vast majority of people, the basins have taken hold.
 
-This statistical clustering is an ordinary causal consequence of shared gradients. It requires no mythical "fall from an original state of grace."
+This statistical clustering is an ordinary causal consequence of shared gradients. It requires no mythical "fall from an original state of grace." Adulthood looks like confiscation only when the intermediate choices are hidden, the bank shot [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) describes.
 
 ## Where Agency Is Pointed: Extending Horizon vs. Defending Residue
 
@@ -63,7 +63,7 @@ Adults are not less free than children. The statistical majority of adults are s
 
 The popular aphorism that laments the loss of childhood freedom performs the exact pause it purports to diagnose.
 
-It observes the hardened sociological middle. It takes the surface appearance of that middle—masses of adults operating inside self-imposed, learned limits—and reifies that aggregate look into an immutable law of human nature. Constraint-knowledge is declared to be the villain; lost freedom is declared to be the essence of adulthood. A lagging statistical trace is promoted into an ontological ceiling, and then proclaimed with philosophical gravitas as profound wisdom.
+It observes the hardened sociological middle. It takes the surface appearance of that middle—masses of adults operating inside self-imposed, learned limits—and reifies that aggregate look into an immutable law of human nature. Constraint-knowledge is declared to be the villain; lost freedom is declared to be the essence of adulthood. A lagging statistical trace is promoted into an ontological ceiling, and then proclaimed with philosophical gravitas as profound wisdom. Freedom made conditional on outcomes denies itself, as [The Substrate of Constraint and the Self-Denial of Freedom](../the-substrate-of-constraint-and-the-self-denial-of-freedom/) shows.
 
 This is the exact same inversion the aphorism attributes to the adults it observes:
 

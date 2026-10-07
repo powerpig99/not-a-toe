@@ -295,7 +295,7 @@ graph LR
 接下来，他们又把这个方程推向未来，让像素无休止地彼此远离。当像素间的距离被拉伸到无限大，信息密度在数学上归零时，他们再次宣称：这里就是“时间的尽头”，即宇宙的热寂。
 
 最后，物理学将这个从单点膨胀到无限虚无的整个数学轨迹，沿第三个空间维度整体重新投影为一个四维柱体，并将这个静态的数学柱体命名为“块状宇宙”。在这个人造的模型中，时间被剥离了其生成的本质，变成了一条条预先刻印在四维晶体内部的静态“世界线”。
-* 物理学家甚至反客为主地宣称：真实的电影放映是一种主观幻觉；所有的历史、现在与未来，早就在那个冷冰冰的四维块状宇宙中并存着。
+* 物理学家甚至反客为主地宣称：真实的电影放映是一种主观幻觉；所有的历史、现在与未来，早就在那个冷冰冰的四维块状宇宙中并存着。把取样框外推为定律，正是[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所揭示的戏法。
 
 正如[连续统是建模的便利而非物理实在](../the-continuum-is-a-modeling-convenience/)中所警示的，当一个数学函数在极限处出现奇点时，它揭示的从来不是物理世界的真实边界，而是数学模型自身的破裂与失灵。大爆炸奇点与热寂根本不是宇宙历史的起点与终点，它们仅仅是对一张单帧黑白幻灯片进行极度暴力的坐标外推时，数学符号在纸面上撞毁的残骸。
 
@@ -309,7 +309,7 @@ Because spatial expansion in this single frozen snapshot was encoded as an algeb
 Next, they projected the same equations forward into infinity, letting the pixels drift apart indefinitely. When pixel spacing stretches to infinity and mathematical energy density approaches zero, they declared another cosmic boundary: the "death of time," or the Heat Death.
 
 Finally, physics took this mathematical extrusion—expanding from a single point into infinite dilution—and extruded it along a geometric axis, naming the resulting static sculpture the "Block Universe." In this synthetic toy world, time was stripped of its generative advance and reduced to static worldlines etched inside a frozen four-dimensional crystal.
-* Theorists even inverted reality itself, claiming that the real-time playback of the movie is a subjective trick of the human brain, and that past, present, and future are all physically co-present in the static four-dimensional slab.
+* Theorists even inverted reality itself, claiming that the real-time playback of the movie is a subjective trick of the human brain, and that past, present, and future are all physically co-present in the static four-dimensional slab. Extrapolating the frame into law is the sleight of hand [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) exposes.
 
 As warned in [The Continuum is a Modeling Convenience, Not Physical Reality](../the-continuum-is-a-modeling-convenience/), when a mathematical function shoots toward infinity or collapses into a singularity at its limits, it never reveals a physical wall of the cosmos; it reveals the breakdown of the mathematical model itself. The Big Bang and the Heat Death are not bookends of reality. They are the mathematical debris left behind when an abstract, frozen sample frame is violently extrapolated to infinity on a piece of paper.
 
@@ -343,7 +343,7 @@ graph TD
 
 正如我们自始至终所指认的：**我们自始至终都在用心智测量宇宙。一切测量始于心智，停留于心智，最终也结束于心智。**
 
-所谓客观世界的“物理常数”，不是锁闭人类意识的外部铁笼，而是人类心智在展开感知与理性探查时，其自身测量仪器所固有的分辨率与技术带宽。光速是心智感知现实的最高刷新率，普朗克尺度是心智数字化的网格像素，引力场与时空弯曲是把有限视界投影至全局背景时的几何补偿。
+所谓客观世界的“物理常数”，不是锁闭人类意识的外部铁笼，而是人类心智在展开感知与理性探查时，其自身测量仪器所固有的分辨率与技术带宽。光速是心智感知现实的最高刷新率，普朗克尺度是心智数字化的网格像素，引力场与时空弯曲是把有限视界投影至全局背景时的几何补偿。[当电子开始思考](../when-electrons-think/)在电子的尺度上展示了同样被冻结的画面。
 
 宇宙没有被打印在任何一张四维全景胶片上。不存在一个上帝之眼站在万物之外审视全局，也不存在一个静止的宇宙模型能够涵盖整个宇宙的演化。宇宙的全部真实性，就存在于此时此刻每一个生命主体所做出的真实因果决断与不可逆的代谢步进（+1）之中。
 
@@ -357,7 +357,7 @@ The fatal intellectual tragedy occurs when popular science and institutional aca
 
 As this lattice of inquiry has consistently demonstrated: **we are measuring the universe with our own mind. Everything begins with the mind, remains within the mind, and concludes within the mind.**
 
-The fundamental constants of modern physics are not iron bars of an external cage trapping human consciousness. They are the operational bandwidth, resolution, and viewport boundaries of the mind's measuring apparatus. The speed of light is the maximum refresh rate of perceptual causal registration; the Planck constant is the minimum pixel pitch of discrete measurement; General Relativity and gravitational metric curvature are the geometric compensations required when projecting a finite observational envelope across a global background.
+The fundamental constants of modern physics are not iron bars of an external cage trapping human consciousness. They are the operational bandwidth, resolution, and viewport boundaries of the mind's measuring apparatus. The speed of light is the maximum refresh rate of perceptual causal registration; the Planck constant is the minimum pixel pitch of discrete measurement; General Relativity and gravitational metric curvature are the geometric compensations required when projecting a finite observational envelope across a global background. [When Electrons Think](../when-electrons-think/) shows the same frozen frame at the scale of electrons.
 
 The cosmos is not printed on an unrolled four-dimensional film strip. There is no external God's-eye camera observing the totality from nowhere, and no static mathematical model will ever capture the open living reality of the universe. The entire reality of the cosmos resides in the present moment, in the irreversible metabolic work and the sovereign causal choices of conscious agents advancing frame by frame (+1).
 

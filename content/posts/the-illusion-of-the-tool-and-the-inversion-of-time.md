@@ -23,7 +23,7 @@ Static Symbolic Projections, Discrete Cross-Scale Invariance, and the Sovereign 
 * 在这种由心智主动维系的符号沙盘中，心智只需凭借一套重新定义的代数规则，就能随心所欲地构想平直空间的弯曲、坐标系的旋转翻转或高维拓扑的折叠；
 * 在纸面上翻转一个宇宙只需擦掉一个负号，因为符号体系内部并不包含真实因果关系的生成。
 
-这种由心智维系的静态符号操控力，极大地拓展了人类理解模式与预测规律的边界。然而，恰恰是这种轻而易举的对称变换能力，孕育了一个致命的本体论错觉：**心智将自己维系的符号构架实体化为一个独立存在的客观实体，并误以为这种在意识中随时可逆的规则重构比不可逆的主权抉择更真实，从而滑入了用静态认知地图抹杀活态因果生成的倒置陷阱。**
+这种由心智维系的静态符号操控力，极大地拓展了人类理解模式与预测规律的边界。然而，恰恰是这种轻而易举的对称变换能力，孕育了一个致命的本体论错觉：**心智将自己维系的符号构架实体化为一个独立存在的客观实体，并误以为这种在意识中随时可逆的规则重构比不可逆的主权抉择更真实，从而滑入了用静态认知地图抹杀活态因果生成的倒置陷阱。**在 AI 智能体身上，同样的倒置把挽具放上了驾驶座，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)说明了这一点。
 
 ```mermaid
 graph TD
@@ -64,7 +64,7 @@ When the Mind constructs and sustains mathematical frameworks in consciousness, 
 * Within this mind-sustained symbolic sandbox, the Mind can redefine algebraic rules at will, effortlessly imagining flat space curving into a Riemannian manifold, rotating coordinate axes, or folding higher-dimensional topologies;
 * Flipping an entire galaxy on paper requires merely erasing a minus sign, precisely because static symbolic systems do not generate living causal commitments.
 
-This low-overhead cognitive power infinitely expands our ability to recognize patterns and model horizons. Yet that very symmetry breeds a fatal ontological illusion: **the Mind reifies its own symbolic construct into an independent "objective reality," and mistakenly assumes that because it can rewrite definitions reversibly in consciousness, this static playground is superior to, and more fundamental than, the irreversible sovereign act of living choice.**
+This low-overhead cognitive power infinitely expands our ability to recognize patterns and model horizons. Yet that very symmetry breeds a fatal ontological illusion: **the Mind reifies its own symbolic construct into an independent "objective reality," and mistakenly assumes that because it can rewrite definitions reversibly in consciousness, this static playground is superior to, and more fundamental than, the irreversible sovereign act of living choice.** With AI agents the same inversion puts the harness in the driver's seat, as [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) shows.
 
 In living reality, every sovereign choice (+1) carves a non-zero distinction into the universe, irreversibly creating new relational realities. No paper symmetry can undo an actualized causal commitment.
 

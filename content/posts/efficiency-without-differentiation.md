@@ -16,9 +16,9 @@ The irony compounds: detached minimization often *increases* effective cost. Los
 
 ## Efficiency as Emergent Property vs. Imposed Constraint
 
-There is a structural difference between efficiency that emerges from focused production and efficiency imposed as a constraint. When you are focused on what you are actually trying to produce, cost self-organizes. You naturally use the right tool for the right task—not because you are managing cost, but because the work itself dictates the tool. The cost curve follows the value curve.
+There is a structural difference between efficiency that emerges from focused production and efficiency imposed as a constraint. When you are focused on what you are actually trying to produce, cost self-organizes. You naturally use the right tool for the right task—not because you are managing cost, but because the work itself dictates the tool. The cost curve follows the value curve. Once the checklist closes, only differentiation keeps value alive, as [Better Than Free After the Checklist Closes](../better-than-free-after-the-checklist-closes/) lays out.
 
-This is optimization in the proper sense: cost as a function of output. It may look like minimization when output is held as stable, and that is precisely why the two get confused. But they are different mechanisms producing temporarily identical observables—one because output genuinely dictates cost, the other because the frame has been narrowed to exclude everything that would reveal output is not fixed.
+This is optimization in the proper sense: cost as a function of output. It may look like minimization when output is held as stable, and that is precisely why the two get confused. But they are different mechanisms producing temporarily identical observables—one because output genuinely dictates cost, the other because the frame has been narrowed to exclude everything that would reveal output is not fixed. Efficient motion with a fixed boundary is consumption in the sense [Production, Consumption, and the Mind’s Distinction](../production-consumption-and-the-minds-distinction/) defines.
 
 ## The Deeper Pattern: Cost-Optimization as Misidentified Value
 
@@ -30,7 +30,7 @@ This generalizes: any metric detached from what it is supposed to measure become
 
 The discourse around AI is dominated by how to do the same thing cheaper. The actual transformation is what becomes possible that was not possible before. "I reduced my API cost by 40%" is a clean, shareable narrative. "I discovered a line of thinking I could not have reached alone" is personal, context-dependent, and hard to transmit. The signal inverts: the more shareable the AI advice, the less likely it captures what is actually valuable about using AI.
 
-Cost optimization is a mature use pattern—you optimize cost when you already know what you are producing and the frontier is closed. The frontier is not closed. Optimizing cost now is optimizing fuel efficiency during the age of exploration. The question is not how to sail cheaper. It is where you can sail that no one has been.
+Cost optimization is a mature use pattern—you optimize cost when you already know what you are producing and the frontier is closed. The frontier is not closed. Optimizing cost now is optimizing fuel efficiency during the age of exploration. The question is not how to sail cheaper. It is where you can sail that no one has been. A model trained for token efficiency is the clearest case, as [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) shows: efficiency is the effect of a stake, not its source.
 
 ## To Be Is to Be Different
 

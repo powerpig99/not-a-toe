@@ -118,7 +118,7 @@ Fiction operates under an entirely different epistemological constraint, rewardi
 
 This sequence of inferring concealed premises from out-of-order consequences is structurally isomorphic to mind's confrontation with lived reality. Objective reality never presents a manual declaring its underlying operational rules; outcomes, shocks, and human actions collide with awareness as brute facts. As analyzed in [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/), the world withholds analytical preambles and delivers unvarnished consequences directly onto the agent. In practical existence, the active premises—hidden power hierarchies, unvoiced incentives, long-term reputational decay—remain unlabelled beneath noisy cross-currents. Reading fiction with rigorous attention functions as a disciplined rehearsal of this exact capacity: backward inference of unlabeled variables under pervasive uncertainty.
 
-实在世界诚然是更加严酷的训练场，因为那里的后果裹挟着不可转嫁的代价与身心损耗。然而，实在世界中的反馈频频过于漫长、试错成本极其高昂，甚至在漫长的生命周期中被噪音严重稀释。虚构作品的高明之处，正在于以高密度的形式压缩并重构了这种认识论挑战。它在一个受控但高度保真的语义沙盒中，模拟出人类决策与意外波动的真实张力，让心智得以高频反复磨砺自己的推断直觉，学会识别那些未曾明言却切实塑造一切局面的深层约束。
+实在世界诚然是更加严酷的训练场，因为那里的后果裹挟着不可转嫁的代价与身心损耗。然而，实在世界中的反馈频频过于漫长、试错成本极其高昂，甚至在漫长的生命周期中被噪音严重稀释。虚构作品的高明之处，正在于以高密度的形式压缩并重构了这种认识论挑战。它在一个受控但高度保真的语义沙盒中，模拟出人类决策与意外波动的真实张力，让心智得以高频反复磨砺自己的推断直觉，学会识别那些未曾明言却切实塑造一切局面的深层约束。每一次阅读都会损失些什么，[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)说明了为何接受这种损耗才能保住保真。
 
 Lived reality remains the ultimate training arena because its consequences carry inalienable liability, personal cost, and irreversible friction. Yet feedback in daily life is frequently delayed, cost-prohibitive, and clouded by random noise. The power of narrative art lies in its ability to compress this epistemological crucible into a dense, repeatable medium. Within an intentional linguistic sandbox, great literature replicates the turbulence of human agency, allowing the mind to calibrate its inferential reflexes and perceive the silent structural constraints governing complex situations.
 
@@ -160,7 +160,7 @@ graph TD
     style N_RECON fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-To contrast the forward deductive flow of non-fiction with the backward inferential dynamics demanded by fiction and reality, consider this topology:
+To contrast the forward deductive flow of non-fiction with the backward inferential dynamics demanded by fiction and reality, consider this topology: Every reading loses something, and [The Invisible Observer and the Delusion of Lossless Transmission](../the-invisible-observer-and-the-delusion-of-lossless-transmission/) shows why accepting that loss is what keeps fidelity.
 
 ```mermaid
 graph TD

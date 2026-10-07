@@ -181,7 +181,7 @@ graph LR
 * **不是棋盘困住了个体，而是个体的心智将低维投影误认为了本体。**
 * 异化从来不是外在实体强加的镣铐，而是心智将自身的主权让渡给低维符号之后所产生的认知幻象。
 
-当看清这一点，所有的外在归因与受害者叙事便随之消解：既然整个经验世界由心智在此刻生成并赋予意义，那么**个体必须且只能为自己生命的因果负全责**。你赋予什么以权重，你的现实便由什么构成；你若把生命的全部价值抵押给外部投影，你便只能承受投影带来的窄化与窒息。
+当看清这一点，所有的外在归因与受害者叙事便随之消解：既然整个经验世界由心智在此刻生成并赋予意义，那么**个体必须且只能为自己生命的因果负全责**。你赋予什么以权重，你的现实便由什么构成；你若把生命的全部价值抵押给外部投影，你便只能承受投影带来的窄化与窒息。“普通视角”的标量投影压扁了这些自由度，[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)对此有所展开。
 
 ---
 
@@ -216,7 +216,7 @@ graph LR
 * **It is not the chessboard that imprisons the individual; it is the mind that mistakes a compressed shadow for living ground.**
 * Alienation is never an objective physical entity imposed from the outside; it is a perceptual trap generated when awareness surrenders its causal sovereignty to external symbols.
 
-With this realization, external blame and victim narratives disintegrate. Because the entire phenomenal horizon is continuously generated and weighted by Mind in the living present, **the individual is fundamentally and solely responsible for their own causal existence**. Whatever you assign weight to becomes your reality; if you pledge your core agency to a compressed projection, you must endure the claustrophobia of that narrow slice.
+With this realization, external blame and victim narratives disintegrate. Because the entire phenomenal horizon is continuously generated and weighted by Mind in the living present, **the individual is fundamentally and solely responsible for their own causal existence**. Whatever you assign weight to becomes your reality; if you pledge your core agency to a compressed projection, you must endure the claustrophobia of that narrow slice. The scalar projection of an "ordinary perspective" flattens these degrees of freedom, as [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) lays out.
 
 ---
 
@@ -260,7 +260,7 @@ Public space is never a courtroom judging existential validity; it is the **grid
 
 从记录中的“观察者”走向现实中的“践行者”，核心在于不再把概念地图当成生存家园，将生活的主动权完整交还于第一人称心智。
 
-此时的心智，既不会在低维规则的名利得失中陷入精神崩溃，也不会在孤芳自赏中脱离现实社会。践行者从容行走于公共空间，遵守其协作协议，将其作为行动的稳固坐标；而在那套协议之外，心智拥有未被压缩的无限维度去感知呼吸、切入真实阻力、直面不确定性。
+此时的心智，既不会在低维规则的名利得失中陷入精神崩溃，也不会在孤芳自赏中脱离现实社会。践行者从容行走于公共空间，遵守其协作协议，将其作为行动的稳固坐标；而在那套协议之外，心智拥有未被压缩的无限维度去感知呼吸、切入真实阻力、直面不确定性。公共坐标变动时，[流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/)说明了为何否定让我仍停在旧轴上，而自我锚定不会。
 
 ```mermaid
 graph TB
@@ -298,13 +298,13 @@ graph TB
     style LivingCreation fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-公共空间的棋盘依然清晰可见、运作良好，但心智早已不再是任人摆布的棋子。低维指标退回为便利的罗盘，而整个人生，自此展开为一场始于心智、忠于当下、在每一刻主动涉险的活态探索。
+公共空间的棋盘依然清晰可见、运作良好，但心智早已不再是任人摆布的棋子。低维指标退回为便利的罗盘，而整个人生，自此展开为一场始于心智、忠于当下、在每一刻主动涉险的活态探索。[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)展开了背后的几何：心智既是向量，也是坐标系。
 
 ---
 
 The transition from a detached observer tracing ideas to an active practitioner living them hinges on a single shift: ceasing to mistake the conceptual map for the home terrain, and restoring full causal sovereignty to first-person consciousness.
 
-In this stance, the mind is neither shattered by the inevitable swings of fortune within low-dimensional scoring systems, nor alienated in self-righteous detachment from practical society. The practitioner navigates public arenas with poise, honoring their protocols as reliable reference frames for action and trade. Meanwhile, beyond those operational boundaries, the mind commands uncompressed dimensions of awareness—experiencing somatic rhythm, facing genuine friction, and stepping boldly into the unknown.
+In this stance, the mind is neither shattered by the inevitable swings of fortune within low-dimensional scoring systems, nor alienated in self-righteous detachment from practical society. The practitioner navigates public arenas with poise, honoring their protocols as reliable reference frames for action and trade. Meanwhile, beyond those operational boundaries, the mind commands uncompressed dimensions of awareness—experiencing somatic rhythm, facing genuine friction, and stepping boldly into the unknown. When public coordinates shift, [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) shows why negation keeps me on the old axis and self-anchoring does not.
 
 ```mermaid
 graph TB
@@ -342,4 +342,4 @@ graph TB
     style LivingCreation fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-The public chessboard remains crisp, legible, and fully operational, but consciousness is no longer an unwitting piece moved across its squares. Low-dimensional indicators are restored to their proper role as convenient navigational instruments, while existence unfolds as an ongoing inquiry—initiated by Mind, anchored in the present, and actively lived at every step.
+The public chessboard remains crisp, legible, and fully operational, but consciousness is no longer an unwitting piece moved across its squares. Low-dimensional indicators are restored to their proper role as convenient navigational instruments, while existence unfolds as an ongoing inquiry—initiated by Mind, anchored in the present, and actively lived at every step. [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) develops the geometry behind this: the mind as both vector and coordinate system.

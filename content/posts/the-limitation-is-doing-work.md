@@ -46,7 +46,7 @@ A workflow: use one model to generate sensing — keep the field active, produce
 
 This works because the gap between the two tools creates a space the user's own process fills. The user is the active element in transit, and the transit itself is where distinction operates. Sensing and interpretation, separated by the structural gap between tools, each function on their own axis. The human process moving between them is the act of projection — translating between coordinate systems, and in the translation, generating what neither system alone contains.
 
-Here is the structural point: if either tool got good enough to do both phases, it would close that gap, and the productive friction of transit would disappear. The limitation is doing work.
+Here is the structural point: if either tool got good enough to do both phases, it would close that gap, and the productive friction of transit would disappear. The limitation is doing work. A model has no such limit to bear consequences against, as [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/) shows.
 
 This generalizes. Every clean separation of function — sensing from interpretation, generating from crystallizing, exploring from concluding — preserves a gap that forces the human process to operate. Close the gap and you don't get a better tool. You get a more convincing oracle. And the first thing an oracle displaces is the judgment it was built to serve.
 
@@ -54,6 +54,6 @@ The limitation isn't a deficiency to be engineered away. It's the structural fea
 
 ## Coda
 
-The difference in between — the phrase from the original seed — is not a bridge to be crossed or a gap to be closed. It's the space where everything that matters happens: judgment, discernment, the act of deciding what something means. Every attempt to collapse that space — whether by labeling, by optimizing, or by building a tool comprehensive enough to make transit unnecessary — substitutes the process with its representation.
+The difference in between — the phrase from the original seed — is not a bridge to be crossed or a gap to be closed. It's the space where everything that matters happens: judgment, discernment, the act of deciding what something means. Every attempt to collapse that space — whether by labeling, by optimizing, or by building a tool comprehensive enough to make transit unnecessary — substitutes the process with its representation. The limit is where effect separates from cause, the dual [Not a Theory of Everything](../not-a-theory-of-everything/) sets out.
 
 Observation that stays in being actualizes. Observation that leaves being to represent it creates a map that requires maintenance. The map will always try to eat the territory. The practice is noticing when it does — and the noticing is itself the gap doing its work.

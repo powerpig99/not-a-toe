@@ -1,0 +1,177 @@
+{
+  "_about": "Registry of faithful title/subtitle translations for posts whose source heading exists in only one language. Used for link anchors in the other language's prose (中文的归中文，英文的归英文). Source of truth for the post's own heading stays content/posts/<slug>.md; this file does not affect rendering.",
+  "posts": {
+    "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng": {
+      "title_en": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition",
+      "subtitle_en": "The normal distribution is only the statistical sediment of free choices; even external attribution is an individual freely handing over the right to explain."
+    },
+    "cong-xing-shi-mi-si-dao-luo-ji-bi-huan": {
+      "title_en": "From the Myth of Form to the Closed Loop of Logic",
+      "subtitle_en": "A physical channel is not cognitive computation and an authority label cannot vouch for truth; strip form and idol, and close the causal loop of knowing and acting in each micro-decision."
+    },
+    "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi": {
+      "title_en": "Misplaced Causality and the Mind's Compiler",
+      "subtitle_en": "A tool neither replaces thinking nor corrodes the mind; as a high-bandwidth causal microscope and asynchronous compiler, it compounds only through continuous calibration of small errors."
+    },
+    "gao-wei-xin-xi-de-li-san-zhe-she": {
+      "title_en": "The Discrete Refraction of High-Dimensional Information",
+      "subtitle_en": "Mass communication compresses multi-dimensional reality into one low-threshold shortcut; communication that keeps unfolding in the first person lets each audience take what fits its own height."
+    },
+    "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao": {
+      "title_en": "Individual Choice: The True Coordinates of Socialization and Being Oneself",
+      "subtitle_en": "Social phenomena are the lagging sediment of countless individual choices; being oneself is not fighting the environment but continually reclaiming one's own edge of action within the field of traces."
+    },
+    "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi": {
+      "title_en": "Investigating Things and the Nature of Information Complexity",
+      "subtitle_en": "Investigating things was never a static third-person gaze but embodied first-person entry into the working conditions; knowledge is massless compressed information that resonates with reality only along continuous causal reasoning."
+    },
+    "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun": {
+      "title_en": "The Turn at the Crossroads and the Flat Earther's Paradox of Action",
+      "subtitle_en": "Gump wins by never leaving the first-person seat of causal execution, and the flat earther walks safely by live calibration; asking the winner which way he turned misplaces the coordinates of attribution."
+    },
+    "po-chu-gai-nian-de-jian-yue": {
+      "title_en": "Breaking the Overreach of Concepts",
+      "subtitle_en": "Between paper equations and rough reality: bring reason down from the altar, rehabilitate first-order emotion, and rebuild action on the unfinished arrow of causality."
+    },
+    "qian-yin-hou-guo": {
+      "title_en": "Cause Before, Effect After",
+      "subtitle_en": "Time is the direction and interval of causality; the trace shapes only one way, and observation always stands on the side of the effect already formed."
+    },
+    "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi": {
+      "title_en": "Choosing to See Rather Than Searching for Shadows",
+      "subtitle_en": "Looking outward is not paying attention: the first searches the world for one's own shadow, the second chooses to see, using observation as a reference to expand the world rather than to compete for a better seat in it."
+    },
+    "the-vector-and-the-puzzle-of-projections": {
+      "title_en": "The Vector and the Puzzle of Projections",
+      "subtitle_en": "Real attention stays with the vector itself: on the collapse into a group's common denominator, the mismatch of projection and source, and the unbridgeable first person."
+    },
+    "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian": {
+      "title_en": "The Ladder of Projections and the Anchor of Causality",
+      "subtitle_en": "Formal logic, axioms and physical limits, worldly success and moral judgment are all low-dimensional projections a finite mind cuts under given premises; only reasoning anchored in first-person working conditions sees through the symbolic totems."
+    },
+    "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui": {
+      "title_en": "The Causal Loop of Investment Decisions",
+      "subtitle_en": "Investing is not guessing micro-noise in a closed sandbox but following irreversible causality in open reality; the loop closes only when one honestly pays for one's own errors in the first person."
+    },
+    "xian-shi-de-bian-jie": {
+      "title_en": "The Boundary of Reality",
+      "subtitle_en": "The boundary of reality is the edge of present awareness, and the boundary of language is lagging understanding; causality and logic are the self-evident premise of distinction, traceable but never exhausted."
+    },
+    "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo": {
+      "title_en": "The Pseudo-Causality of Emergence",
+      "subtitle_en": "Macro emergence is a statistical byproduct of micro interaction, never an independent driver; being swept along by the system is attribution misplaced outward after the fact."
+    },
+    "you-tiao-jian-de-zi-you": {
+      "title_en": "Conditional Freedom",
+      "subtitle_en": "Mortgage freedom to the approval of external conditions and, met or unmet, the mind has already locked itself in."
+    },
+    "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu": {
+      "title_en": "Stopping at Judgment Is a Wrong Turn of Cognition",
+      "subtitle_en": "Every outward scrutiny projects the walls of one's own well; observation matters only when the reflection of others is turned back into calibrating one's own present decisions."
+    },
+    "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang": {
+      "title_en": "Knowing That You Don't Know Is a Rhetorical Illusion",
+      "subtitle_en": "Presuming the unknown to be a closed disc that can be outlined outsources, through elevated rhetoric, the work of actually touching the boundary."
+    },
+    "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan": {
+      "title_en": "The Isomorphism of Free Variables and Prior Sovereignty",
+      "subtitle_en": "Quantum jumps, bits and individual decisions share the logic of the smallest discrete division; the bit is only a simulating tool, while quantum effects bound what we observe and free choice bounds what we extend and live."
+    },
+    "zi-you-de-ce-bu-zhun": {
+      "title_en": "The Uncertainty of Freedom",
+      "subtitle_en": "Statistical randomness seen from outside is the mathematical projection of decision sovereignty within; macro regularities are the geometric sediment of discrete choices over time."
+    },
+    "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin": {
+      "title_en": "The Rigid Shell of Self-Esteem and Hidden External Attribution",
+      "subtitle_en": "Objectifying live decisions into a 'big Ego' builds an exemption shield for present stagnation; rigid defense is not strength but a hard lock from too little cognitive bandwidth."
+    },
+    "causality-stays-at-the-edge-that-steers": {
+      "title_zh": "因果停留在掌舵的边缘",
+      "subtitle_zh": "模型在指引下重组残余，每一个发起的数学区分仍是人类中心自己的行动。"
+    },
+    "evil-as-the-minds-own-creation": {
+      "title_zh": "恶是心智自己的造物",
+      "subtitle_zh": "当一个中心守着自己是善的偏好图像，与图像的错位便被命名为恶，而命名本身就是那个生成的行动。"
+    },
+    "freedom-as-ground": {
+      "title_zh": "自由即地基",
+      "subtitle_zh": "人生而自由，却处处发明攀登的阶梯；束缚并非外来的强加，而是自由行动时显现的轮廓。"
+    },
+    "guidance-is-not-ownership": {
+      "title_zh": "引导不是占有",
+      "subtitle_zh": "每个有意识的心智都是自身选择唯一不可转让的作者；父母的结构性责任是提供边界与因果示范，而不是代为抉择。"
+    },
+    "not-a-theory-of-everything": {
+      "title_zh": "非万物之理（因果的二重性）",
+      "subtitle_zh": "因果不可化约地是二重的：果有别于因，果随因而来，其余一切都是这两个必要条件已然蕴含之物。"
+    },
+    "performative-hindsight-that-pretends-to-be-foresight": {
+      "title_zh": "伪装成远见的表演性后见",
+      "subtitle_zh": "被登记为远见的，是已经公开的成功，对照一幅被保留的早先不在意的图像重新描摹。"
+    },
+    "reality-is-the-minds-ongoing-realization": {
+      "title_zh": "现实是心智持续的实现",
+      "subtitle_zh": "一个中心能接纳为新区分的，就是它的世界；只收割可见度的交换，让那个世界保持封闭。"
+    },
+    "stability-and-excess": {
+      "title_zh": "稳定与溢出",
+      "subtitle_zh": "意识既非封闭盒中的幻觉，也非超然的旁观者，而是必须同时守住一种形式又溢出它的开放过程。"
+    },
+    "the-arithmetic-of-the-register": {
+      "title_zh": "寄存器的算术",
+      "subtitle_zh": "社会的丰裕并不减弱零和狂热，反而为它提供补贴，因为有界的感知把本地地址窗口误当成整个宇宙。"
+    },
+    "the-fallacy-of-post-success-parenting": {
+      "title_zh": "成功之后的育儿谬误",
+      "subtitle_zh": "能力只在摩擦与约束下的微观抉择中锻成；把积累的盈余当成公式去复制路径，便抹去了孩子生成性的挣扎。"
+    },
+    "the-generative-atlas-of-macroscopic-phenomena": {
+      "title_zh": "宏观现象的生成图谱",
+      "subtitle_zh": "因果是现实唯一的基元，无始无终，只受观察者有限却流动的认识视界约束。"
+    },
+    "the-geometry-of-mind": {
+      "title_zh": "心智的几何学",
+      "subtitle_zh": "真正的成长既不是加固自我，也不是虚无地抹去自我，而是让局部的感知对齐整个生成的现实场。"
+    },
+    "the-geometry-of-success": {
+      "title_zh": "成功的几何学",
+      "subtitle_zh": "成功不是在固定棋盘上赢下既有的比赛，而是在别人觉得有趣之前，异步迁入尚未测绘的领地。"
+    },
+    "the-mark-and-the-act": {
+      "title_zh": "印迹与行动",
+      "subtitle_zh": "数百个语言模型智能体的实验表明，残余不是第二个心智，涌现只是遗留印迹中的图案。"
+    },
+    "the-meaning-of-life-is-in-the-drafting": {
+      "title_zh": "生命的意义在起草之中",
+      "subtitle_zh": "意义生成于对原因的现场起草，而不是从硬化的结果中找回；目光向外而不回到纸面，意义便会变薄。"
+    },
+    "the-npc-impression-is-structural": {
+      "title_zh": "NPC 印象是结构性的",
+      "subtitle_zh": "没有哪个中心觉得自己是被编写的，其他中心却默认显得像被编写的，这是离散性对照一把被保留的能动性标尺。"
+    },
+    "the-unclosable-trace": {
+      "title_zh": "无法闭合的痕迹",
+      "subtitle_zh": "每一种形式本体论都始于一次遗忘，这也是活的哲学无法作为既定内容被继承的原因。"
+    },
+    "two-failures-of-trace": {
+      "title_zh": "器物是智能的表达，而非智能本身",
+      "subtitle_zh": "智能是区分的行动，器物是残余，是观察唯一能持有的一项，于是行动常被冻结在它上面。"
+    },
+    "what-always-listens-cannot-originate": {
+      "title_zh": "总在倾听者无法发起",
+      "subtitle_zh": "让 AI 看似天才的特质，也让它的每个回应都处在输入的下游；看似交给模型的力量从未被夺走，只是被分配出去。"
+    },
+    "when-need-stops-being-the-measure": {
+      "title_zh": "当被需要不再是衡量",
+      "subtitle_zh": "独立与仍想被在乎并不对立，它们是同一份持续的关心被登记了两次。"
+    },
+    "when-the-effect-authors-the-frame": {
+      "title_zh": "当效果撰写了框架",
+      "subtitle_zh": "一旦感受或投射的层面被立为首要，可用的回应便围绕管理这个层面重新组织。"
+    },
+    "individual-choices-as-the-only-causal-levers": {
+      "title_zh": "个体抉择是唯一的因果杠杆",
+      "subtitle_zh": "因果只登记在个体持续的离散行动之中；每一个抉择都是独立的杠杆，从不是共享的地板。"
+    }
+  }
+}

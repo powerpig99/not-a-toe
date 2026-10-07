@@ -126,7 +126,7 @@ graph TD
 * 他可以从“功利”的角度切入，将你的浪漫情怀视为无能；
 * 他可以从“教条”的角度切入，将你独特的探索定性为离经叛道。
 
-**高维物体在低维屏幕上的可能切片有无限多个，而其中绝大部分切片都充斥着失真、重叠与残缺。** 因此，只要你执迷于“被理解”，你就主动将自己置于无数个可能的失真切片之下。你越是追问“你懂我吗”，你所制造出的投射截面就越繁杂，对方产生误解的概率空间便呈现爆炸式增长。
+**高维物体在低维屏幕上的可能切片有无限多个，而其中绝大部分切片都充斥着失真、重叠与残缺。** 因此，只要你执迷于“被理解”，你就主动将自己置于无数个可能的失真切片之下。你越是追问“你懂我吗”，你所制造出的投射截面就越繁杂，对方产生误解的概率空间便呈现爆炸式增长。误解正是[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)所说每次传递都会带有的损耗，接受它才能保住保真。
 
 ---
 
@@ -157,7 +157,7 @@ graph TD
     style LowDShadow fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
 ```
 
-Consider the mechanics through observer geometry:
+Consider the mechanics through observer geometry: Misunderstanding is the loss [The Invisible Observer and the Delusion of Lossless Transmission](../the-invisible-observer-and-the-delusion-of-lossless-transmission/) says every transmission carries, and accepting it is what keeps fidelity.
 
 ### 1. The Irreplicability of the Origin and the Asymmetry of Experience
 No two human beings have ever occupied the same coordinate origin. Even though we inherit similar sensory hardware, our accumulated causal chains, attentional investments, family imprints, and private scars diverge indefinitely. This means that **the cognitive receiving apparatus inside any other person possesses coordinate axes fundamentally tilted relative to your own**.
@@ -333,13 +333,13 @@ graph LR
 这是一种怎样的沟通范式？
 * **从强行植入到催化反思**：你不再试图将自己的观点像木桩一样钉入对方脑海，而是成为一面明澈的凸透镜或沉静的共鸣箱。你提出一个引发深思的开放性问题，耐心地接纳对方的停顿与困惑，让对方在与你的交互中，看清了自己内心的恐惧、未曾厘清的偏见、或是深藏已久的创造渴望。
 * **免除“自证清白”的神经耗竭**：既然误解在物理上不可避免，你便不再需要为对方的断章取义而焦躁辩白。即便对方误读了你某些字句，只要这场对话帮助他理清了自身的因果脉络、拓宽了他对自己生命的认知，这场沟通便取得了高阶的成功。
-* **从索求投影到赋能主体**：向外索求理解，是在要求对方为你服务；而致力于助他人理解自身，是你在以高维的慈悲为对方赋能。在这一刻，你不仅放下了自己的阴影，更点亮了对方内在的未知原野。
+* **从索求投影到赋能主体**：向外索求理解，是在要求对方为你服务；而致力于助他人理解自身，是你在以高维的慈悲为对方赋能。在这一刻，你不仅放下了自己的阴影，更点亮了对方内在的未知原野。只排名而不求理解的教育，是这种不对称的制度化，[教育与科学的倒置](../the-reversal-of-education-and-science/)对此有所揭示。
 
 ---
 
 If the inward demand to "be understood" leads straight into a swamp of infinite misinterpretations, the sole liberation lies in **radically reversing the vector: directing one's undivided vitality outward into understanding**.
 
-The moment you retract your anxiety over how others see you and invest your attention in grasping how reality operates and why the soul before you acts as it does, an ontological miracle occurs: **infinite possibilities rush in to meet you.**
+The moment you retract your anxiety over how others see you and invest your attention in grasping how reality operates and why the soul before you acts as it does, an ontological miracle occurs: **infinite possibilities rush in to meet you.** Education that ranks rather than understands is this asymmetry institutionalized, as [The Inversion of Education and Science](../the-reversal-of-education-and-science/) shows.
 
 ```mermaid
 graph LR
@@ -451,7 +451,7 @@ In every genuine encounter, release the desperate urge to make the other underst
 当我们全心全意去理解时，整座宇宙的奥秘与丰盛都将向我们敞开大门。
 我们无法强求这副躯壳在他人眼中不被误读，但我们永远可以用温暖而通透的表达，为相遇的灵魂映照出他们自身更辽阔的可能。
 
-不要去当石壁前乞求掌声的皮影；做那个步履坚定、向着不可穷尽的未知世界昂首迈步的行者。以理解为舟，与无限同行。
+不要去当石壁前乞求掌声的皮影；做那个步履坚定、向着不可穷尽的未知世界昂首迈步的行者。以理解为舟，与无限同行。把理解当成一种被亏欠的能力，共情便会转而伤害自身，[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)说明了这一点。
 
 ---
 
@@ -463,4 +463,4 @@ The moment you cease demanding to be understood, you step cleanly out of every p
 The moment you dedicate yourself to understanding, the infinite abundance and quiet majesty of the universe open wide to greet you.
 We can never communicate in a way that guarantees we are never misunderstood; but we can always speak and listen in a way that helps the souls we meet understand themselves with greater clarity and grace.
 
-Do not be a flat silhouette begging for approval on a stone wall. Be the grounded traveler walking with steady steps into the inexhaustible territory of reality. Make understanding your vessel, and walk ahead with infinity.
+Do not be a flat silhouette begging for approval on a stone wall. Be the grounded traveler walking with steady steps into the inexhaustible territory of reality. Make understanding your vessel, and walk ahead with infinity. Taking understanding as a capability to be owed is how empathy turns on itself, as [The Capability Reversal of Empathy and the Contest of Boundaries](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/) shows.

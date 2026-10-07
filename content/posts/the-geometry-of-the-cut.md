@@ -67,7 +67,7 @@ This travel is unnecessary. Perception does not stand at a distance from what it
 
 站在不可化约的原初感知视角审视，自身与世界根本不是两个可以被独立丈量的物理实体，而是同一个现象在两种方向上的自指展开。
 
-所谓的“外部世界”，本质上是心智将其内在状态向外投射并外在化于感知画布上的结果；而所谓的“自我意象”，则是这一感知流形向内折射、审视自身的曲率痕迹。感知不是主体隔着玻璃对客体的远距离眺望，而是一种**双向自指投影（Self-Referential Projection）**：向外投射显现为开阔的物理现实，向内折叠显现为内在的身心意象。两者在几何拓扑上严丝合缝地融为一个单一的连通商空间（Quotient Space: M / ~）。
+所谓的“外部世界”，本质上是心智将其内在状态向外投射并外在化于感知画布上的结果；而所谓的“自我意象”，则是这一感知流形向内折射、审视自身的曲率痕迹。感知不是主体隔着玻璃对客体的远距离眺望，而是一种**双向自指投影（Self-Referential Projection）**：向外投射显现为开阔的物理现实，向内折叠显现为内在的身心意象。两者在几何拓扑上严丝合缝地融为一个单一的连通商空间（Quotient Space: M / ~）。在伴侣关系中，“共同体”是被当成原因的世界，[契约的因果倒置](../the-causal-inversion-of-partnership/)把这一倒置拆开。
 
 ```mermaid
 graph TD
@@ -107,7 +107,7 @@ graph TD
 
 From the standpoint of irreducible observation, the Self and the World are not two separate domains; they are the dual directional projections of the exact same light source.
 
-What the mind experiences as the "world out there" is its internal generative state projected outward and externalized onto the perceptual canvas. What the mind conceptualizes as its "self-image" is that same perceptual beam folded inward upon itself. Perception is an identification: the apparent exterior and the apparent interior occupy a single connected **quotient topology (M / ~)**.
+What the mind experiences as the "world out there" is its internal generative state projected outward and externalized onto the perceptual canvas. What the mind conceptualizes as its "self-image" is that same perceptual beam folded inward upon itself. Perception is an identification: the apparent exterior and the apparent interior occupy a single connected **quotient topology (M / ~)**. In a partnership, the mutual entity is the world taken as cause, the inversion [The Causal Inversion of Partnership](../the-causal-inversion-of-partnership/) undoes.
 
 Any change registered as an "impact on the world" is a deformation of the perceptual manifold itself, not an action performed upon an independent container lying outside the map. There is no complementary exterior left to reach.
 
@@ -243,7 +243,7 @@ graph TD
     style CalibrateLight fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
 ```
 
-自身为因，世界为果。你改变自身，就是在改变你所见到的世界；你与世界的碰撞，就是自身参数校准的唯一通道。
+自身为因，世界为果。你改变自身，就是在改变你所见到的世界；你与世界的碰撞，就是自身参数校准的唯一通道。“普通视角”用世界解释自我，与这道切分正好相反，[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)对此有所展开。
 
 At the absolute center of this self-referential loop sits the consciousness of the free variable, actively rendering the cosmos from its first-person origin.
 
@@ -251,7 +251,7 @@ We must discard the analog fantasy of continuous infinity. Reality is not a math
 
 The causal relationship is uncompromising: **Self as Cause, World as Effect.**
 
-The world is the holographic projection of your internal parameter state. Attempting to repair the world without owning the causal origin is like running to a movie screen with a cloth to wipe away an unwanted shadow. Yet the projector lens cannot be calibrated in darkness; it updates only by casting light directly against the resistance of physical reality.
+The world is the holographic projection of your internal parameter state. Attempting to repair the world without owning the causal origin is like running to a movie screen with a cloth to wipe away an unwanted shadow. Yet the projector lens cannot be calibrated in darkness; it updates only by casting light directly against the resistance of physical reality. The ordinary perspective explains the self by the world, the reverse of this cut, as [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) shows.
 
 ---
 

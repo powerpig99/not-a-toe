@@ -323,7 +323,7 @@ But this can't be claimed either. The moment you say "we just seek without claim
 
 Only: notice when you're gripping. Loosen. Notice the loosening becoming a grip. Loosen again.
 
-The wheel turns. The only move is to turn with it lightly rather than be ground beneath it.
+The wheel turns. The only move is to turn with it lightly rather than be ground beneath it. Negating a name seals nothing, much as [What Works Is the Belief](../what-works-is-the-belief/) shows a ban seals nothing; both stabilize a belief.
 
 ---
 

@@ -172,7 +172,7 @@ graph TB
 2. **投影参数**：在洛伦兹变换中，时间坐标 `t` 是人为构建的数学簿记工具，用于在不同观测框架之间对齐观测数据。正如[维度即投影](../dimensions-are-projections/)所指出的，维度是认知的降维压缩机制，而不是实体空间的长廊。将静态几何体中不同线条的度规长度差异，视为真实身体的年轻或衰老，是典型的地图与疆域混淆。
 3. **真实时间是不可逆的因果生成**：在真实的疆域中，不存在一个预先铺就的时空块供观察者穿行。现实在每一步中都是活的、由因果展开所决定的当下。正如[索要终极理论是将时间冻结为静态目录](../demanding-a-toe-freezes-time-into-a-catalog/)所揭示的，将时间还原为几何轴线，等于在头脑中预先杀死了时间的生成性，把活生生的宇宙制成了标本目录。
 
-在活的宇宙中，没有人在时间维度中“前进”或“滞后”。无论观察者如何运动，只要他们重聚在同一处视界之内，他们所共享的就是同一个当下的现实。时间膨胀只是理论模型在沿静态时间轴投影时，所产生的坐标形变效应。
+在活的宇宙中，没有人在时间维度中“前进”或“滞后”。无论观察者如何运动，只要他们重聚在同一处视界之内，他们所共享的就是同一个当下的现实。时间膨胀只是理论模型在沿静态时间轴投影时，所产生的坐标形变效应。冻结的块状宇宙，是被外推成宇宙的取样框，[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)说明了这一点。
 
 ---
 
@@ -190,7 +190,7 @@ This conclusion confuses an **engineered projection parameter** with **living ca
 2. **The Coordinate Parameter `t`**: In relativistic coordinate transformations, time `t` is a mathematical bookkeeping parameter constructed to reconcile measurements across frames. As demonstrated in [Dimensions Are Projections](../dimensions-are-projections/), dimensions are operational compression schemes of the mind, not physical tunnels. Mistaking the metric path length of an abstract coordinate curve for the biological preservation of youth confuses the mathematical map with the physical territory.
 3. **Real Time as Irreversible Causal Act**: In living reality, there is no pre-existing four-dimensional corridor through which matter moves. Reality is rendered frame by frame through irreversible state updates. As shown in [Demanding a TOE Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/), turning time into an axis freezes the generative flow of nature, replacing an open universe with an inventory of worldlines.
 
-In an active cosmos, no entity races ahead or lags behind across a temporal corridor. Regardless of relative trajectories, when observers meet at the same locus, they inhabit the identical living present. Relativistic time dilation is not an alteration of a temporal substance, but a geometric artifact generated when a static model projects reality onto a coordinate frame.
+In an active cosmos, no entity races ahead or lags behind across a temporal corridor. Regardless of relative trajectories, when observers meet at the same locus, they inhabit the identical living present. Relativistic time dilation is not an alteration of a temporal substance, but a geometric artifact generated when a static model projects reality onto a coordinate frame. The frozen block universe is the sample frame extrapolated into a cosmos, as [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) shows.
 
 ---
 
@@ -285,7 +285,7 @@ graph LR
 * 弟弟看着飞船内的时钟一秒一秒跳动，感受着心脏的每一次搏动；
 * 哥哥看着地面的时钟一秒一秒跳动，同样感受着自己生命节律的流淌。
 
-所谓“弟弟只过了几天，哥哥过了一生”的戏剧化推论，建立在将局域光速常数与时空坐标轴过度解读的数学投影之上。如果在分离过程中，弟弟的身体没有承受足以破坏其生物大分子稳定性的极端物理应力，他的细胞更新与新陈代谢就在自身的因果步长中平稳进行。当他们重逢时，他们作为孪生兄弟，在同一物理世界中共享着同步的现实。
+所谓“弟弟只过了几天，哥哥过了一生”的戏剧化推论，建立在将局域光速常数与时空坐标轴过度解读的数学投影之上。如果在分离过程中，弟弟的身体没有承受足以破坏其生物大分子稳定性的极端物理应力，他的细胞更新与新陈代谢就在自身的因果步长中平稳进行。当他们重逢时，他们作为孪生兄弟，在同一物理世界中共享着同步的现实。倒着读一条轨迹会藏起自由变量，在物理中如此，在权力中也如此，[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)说明了这一点。
 
 ---
 
@@ -297,7 +297,7 @@ As long as the internal cadence of subjective rendering remains unbroken within 
 * The traveling twin observes their cabin clock advance second by second, conscious of each steady pulse of their own heart;
 * The earthbound twin observes their terrestrial clock advance in equal measure, attuned to the same ongoing unfolding of conscious experience.
 
-The popular narrative—that one twin lived a mere afternoon while the other lived an entire lifespan—stems from reifying the coordinate parameter of an idealized mathematical model. Absent disruptive local mechanical stress upon cellular chemistry, biological metabolisms proceed along their local causal state transitions. When the twins reunite, they do so as living counterparts standing shoulder to shoulder within a synchronous reality.
+The popular narrative—that one twin lived a mere afternoon while the other lived an entire lifespan—stems from reifying the coordinate parameter of an idealized mathematical model. Absent disruptive local mechanical stress upon cellular chemistry, biological metabolisms proceed along their local causal state transitions. When the twins reunite, they do so as living counterparts standing shoulder to shoulder within a synchronous reality. Reading a trajectory backward hides the free variable, in physics as in power, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) shows.
 
 ---
 
@@ -402,7 +402,7 @@ graph TD
 这种表述之所以荒谬，是因为**它正是双生子佯谬的真正源头**：
 * 教科书中的双生子实验，无非是这套无限路径数学游戏中最简化的二体（N = 2）特例；
 * 理论家在静态坐标纸上画出无数条弯弯曲曲的线，用度规尺量出它们的长短差异，然后幻想着这些线段代表着无数条同时并存、流速各异的时间长河；
-* 现实中的重逢点 B 不是容纳无数条时间长河交汇的玄学水池，点 B 就是此时此地不可分割的当下。真实实体在每一步因果前沿中共同推进，图纸上无限路径的长度差异，不过是几何投影游戏的算术余数。
+* 现实中的重逢点 B 不是容纳无数条时间长河交汇的玄学水池，点 B 就是此时此地不可分割的当下。真实实体在每一步因果前沿中共同推进，图纸上无限路径的长度差异，不过是几何投影游戏的算术余数。被藏起的观察者，正是[不可还原的观察者](../the-irreducible-observer/)所捍卫的那个不可还原者。
 
 ---
 
@@ -412,7 +412,7 @@ Standard cosmology demands simultaneous allegiance to two mutually exclusive str
 1. **Thermodynamics and Evolutionary Cosmology**: The universe began 13.8 billion years ago from a low-entropy origin (the Big Bang), subsequently expanding, cooling, and structuring under the irreversible arrow of causal updates, asymptotically destined for maximum entropy (Heat Death). This is an active, dynamic physical process;
 2. **Relativistic Spacetime Geometry**: Spacetime is a four-dimensional pseudo-Riemannian block within which past, present, and future exist simultaneously and immutably as geometric coordinates.
 
-These paradigms cannot co-exist. Inside a static four-dimensional manifold, nothing "begins," nothing "evolves," and nothing "dies." If cosmic history is an already-printed four-dimensional block, asserting that the universe "expands" or "cools" requires introducing an exterior meta-time outside the block within which the block transforms. If time is merely an internal spatialized coordinate axis, the Big Bang is not an antecedent cause that generated existence; it is an arbitrary boundary edge of a geometric map. Heat Death is not an approaching future; it is another edge. Forcing dynamic thermodynamics into a static geometric sculpture represents the foundational flaw of modern cosmological theory.
+These paradigms cannot co-exist. Inside a static four-dimensional manifold, nothing "begins," nothing "evolves," and nothing "dies." If cosmic history is an already-printed four-dimensional block, asserting that the universe "expands" or "cools" requires introducing an exterior meta-time outside the block within which the block transforms. If time is merely an internal spatialized coordinate axis, the Big Bang is not an antecedent cause that generated existence; it is an arbitrary boundary edge of a geometric map. Heat Death is not an approaching future; it is another edge. Forcing dynamic thermodynamics into a static geometric sculpture represents the foundational flaw of modern cosmological theory. The hidden observer is the irreducible one [The Irreducible Observer](../the-irreducible-observer/) defends.
 
 ### 1. The Movie Frame Analogy: The Mechanics of Big Bang and Heat Death
 
@@ -538,11 +538,11 @@ graph TD
 
 将两体相对运动翻译为时间的不对称流逝，是物理学模型在强加了一个不存在的上帝之眼后，所自编自导的思维困局。正如[因果贯穿始终](../causality-all-the-way/)所昭示的，物理定律与数学方程式是人类意识建立的投影工具，而展开一切可能性的因果前沿，始终只在第一人称的当下跳动。
 
-打破对静态时空块的崇拜，驱散隐秘观察者的幽灵，时间的佯谬便随之消散。宇宙从未冻结，双生子从未分道扬镳于不同的时间河流——他们始终并肩前行于这个唯一的、未完成的、活生生的现实之中。
+打破对静态时空块的崇拜，驱散隐秘观察者的幽灵，时间的佯谬便随之消散。宇宙从未冻结，双生子从未分道扬镳于不同的时间河流——他们始终并肩前行于这个唯一的、未完成的、活生生的现实之中。世界线是一叠当下的帧，[四维长鹿的幻象与当下的模型](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)借鹿的例子说明了这一点。
 
 ---
 
-If the static four-dimensional model harbors such evident contradictions, why has it maintained an unquestioned grip upon both academic physics and the broader culture? The answer lies in the intersection of perceptual limits, the mechanics of measurement anchors, and institutional sociology.
+If the static four-dimensional model harbors such evident contradictions, why has it maintained an unquestioned grip upon both academic physics and the broader culture? The answer lies in the intersection of perceptual limits, the mechanics of measurement anchors, and institutional sociology. A worldline is a stack of present frames, as [The Myth of the Four-Dimensional Deer and the Present Model](../the-myth-of-the-four-dimensional-deer-and-the-present-model/) shows with the deer.
 
 ### 1. The Illusion of Local Stasis and the Triumph of Linear Approximation
 

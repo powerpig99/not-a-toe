@@ -41,7 +41,7 @@ This cyclical formulation is the signature of **Image lag**:
 * The recursive succession of causality is replaced by a formal rotary loop;
 * The mapmaker mistakes the operational rules of their own taxonomy for the ontological ground of reality.
 
-The actual generator requires no cyclical coordination among three primal types. Causality runs as an unbroken, continuous fabric from infinity toward infinity. Realization is the direct, irreversible progression of distinction compounding upon prior distinctions. The "cycle" is simply the observer repeatedly watching the moving edge leave behind residue and advance into the open horizon.
+The actual generator requires no cyclical coordination among three primal types. Causality runs as an unbroken, continuous fabric from infinity toward infinity. Realization is the direct, irreversible progression of distinction compounding upon prior distinctions. The "cycle" is simply the observer repeatedly watching the moving edge leave behind residue and advance into the open horizon. Landry's three directions become a frame that forgot its boundary, the move [The Boundary of the Frame](../the-boundary-of-the-frame/) describes.
 
 ## The Incommensuration Theorem Demystified
 
@@ -61,7 +61,7 @@ While the mathematical formulation is elegant, its ontological ground is straigh
 * **Continuity** is the irreversible arrow of causal generation unfolding at the living edge;
 * A map cannot be simultaneously a static, frozen portrait of past regularities and the active, unbuffered stride of drawing the next line.
 
-The Incommensuration Theorem is the formal proof that **the model never becomes a second edge**. The objective description lives in the lagging residue of compiled symmetry; the first-person center lives in the moving asymmetry of living causal succession. They cannot be fused because the map cannot swallow the hand that draws it.
+The Incommensuration Theorem is the formal proof that **the model never becomes a second edge**. The objective description lives in the lagging residue of compiled symmetry; the first-person center lives in the moving asymmetry of living causal succession. They cannot be fused because the map cannot swallow the hand that draws it. Hypostatizing the cut has its AI twin in treating the model as a second edge, which [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) refuses.
 
 ## The Locus of Choice and the Ethics of Love
 
