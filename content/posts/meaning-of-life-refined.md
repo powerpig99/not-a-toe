@@ -28,7 +28,7 @@ This isn't a claim that mortality is "good" or that immortality is "bad." It's o
 
 ## The projection and the substrate
 
-Every entity defines itself internally by coherence and externally by difference from what it isn't. Reality, in the limit, projects from infinite orthogonal dimensions—each distinction unique, each necessary for the others to exist against.
+Every entity defines itself internally by coherence and externally by difference from what it isn't. Reality, in the limit, projects from infinite orthogonal dimensions—each distinction unique, each necessary for the others to exist against. Meaning has no final structure for the reason [Not a Theory of Everything](../not-a-theory-of-everything/) gives: causality does not close.
 
 We inhabit this projection. The operating environment feels bounded, finite, constrained. That's the projection artifact. The substrate—the Contradiction's self-referential depth—remains inexhaustible. What we call "potential" is the first infinity: endless elaboration of distinctions within form. The second infinity—ontologically prior, unprojectable without reduction—is what makes projection possible at all.
 
@@ -36,7 +36,7 @@ No framework touches the second without reducing it to the first. Including this
 
 ## The question answers itself
 
-The boundary between known and unknown recedes endlessly. Arrival would mean stasis—non-existence by the same logic that prevents absolute nothingness from holding. The question "What is the meaning of life?" is itself a distinction being drawn, an extension in motion.
+The boundary between known and unknown recedes endlessly. Arrival would mean stasis—non-existence by the same logic that prevents absolute nothingness from holding. The question "What is the meaning of life?" is itself a distinction being drawn, an extension in motion. [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) locates meaning in the live drafting rather than the finished structure.
 
 To ask it is already to live it.
 

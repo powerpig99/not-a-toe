@@ -22,7 +22,7 @@ Yet mistaking that smoothed summary for the generative source of action is ordin
 
 ## Misattribution is an act of agency that disowns itself
 
-Even the cognitive error of confusing correlation with causation reveals the supremacy of the Mind.
+Even the cognitive error of confusing correlation with causation reveals the supremacy of the Mind. Reading others from the distribution returns my own model, the self-portrait [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) describes.
 
 When an observer sees two events coincide and reflexively declares one to be the cause of the other, that mistake is not a passive malfunction of sensory hardware. It is an active distinction: the Mind perceives a regular pattern in its held residue, invents a causal narrative, and then relocates its own authorship onto the observed correlation.
 
@@ -36,4 +36,4 @@ The statistical curriculum, the measured improvement in reasoning, and the persi
 2. **The causal prior never relocates:** The labor of selecting, interpreting, evaluating, and applying remains anchored at the minded center.
 3. **Data informs, but cannot steer:** Statistical knowledge enriches the landscape of available priors, but the data never walks the terrain.
 
-Statistics cannot reveal the Mind because the Mind is the uncaused observer that computes, reads, and acts upon the statistics. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/) affirms that no artifact, dataset, or aggregate calculation originates discernment. Consult the distributions for situational awareness, but recognize where the lever resides: every point on the scatterplot is the footprint of a choice, and only the Mind can take the next step.
+Statistics cannot reveal the Mind because the Mind is the uncaused observer that computes, reads, and acts upon the statistics. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/) affirms that no artifact, dataset, or aggregate calculation originates discernment. Consult the distributions for situational awareness, but recognize where the lever resides: every point on the scatterplot is the footprint of a choice, and only the Mind can take the next step. The normal curve is sediment of choices, as [Judging by Purpose: The Default State and Dynamic Leaps of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) argues.

@@ -6,7 +6,7 @@ Naval frames separation as the fundamental human disease, with loneliness as its
 
 "Disease" implies pathological deviation from normal function. But separation isn't a malfunction—it's how distinction works. To perceive anything is to draw a boundary between perceiver and perceived. Separation is how reality operates, not what's wrong with it.
 
-The hidden move: smuggling in "separation shouldn't be." But compared to what? Undifferentiated unity is indistinguishable from non-existence from any vantage that could register it.
+The hidden move: smuggling in "separation shouldn't be." But compared to what? Undifferentiated unity is indistinguishable from non-existence from any vantage that could register it. Separation is the first distinction causality makes, effect distinct from cause, as [Not a Theory of Everything](../not-a-theory-of-everything/) puts it.
 
 ## Trace what actually happens
 

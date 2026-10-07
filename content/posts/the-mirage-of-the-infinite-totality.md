@@ -10,7 +10,7 @@ Infinity is that potentiality itself. It is the inexhaustible remainder that can
 
 ## The Two Faces of the Coin: The Proper Epistemology
 
-The relationship between realized reality and open potentiality functions like the two sides of a single coin:
+The relationship between realized reality and open potentiality functions like the two sides of a single coin: Expanding the horizon is the geometry [The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon](../the-geometry-of-mind/) describes.
 
 * **The Realized Face**: The accumulated inventory of actualized distinctions—the historical record of consequences that have already landed in perception;
 * **The Potential Face**: The moving edge that remains open, available for subsequent differentiation and further steps;
@@ -21,7 +21,7 @@ Epistemic confusion oscillates between these two errors. The first demands that 
 
 The proper epistemology is exact: **knowing that both sides exist, and knowing that they cannot be observed in a single simultaneous glance**.
 
-An observer inspects the realized marks on one face, or turns the coin to engage the open edge. Both orientations belong to the same unified dynamic. The inability to collapse both stances into a single view is the structural proof of the coin’s dimensionality, rather than a justification for denying either face.
+An observer inspects the realized marks on one face, or turns the coin to engage the open edge. Both orientations belong to the same unified dynamic. The inability to collapse both stances into a single view is the structural proof of the coin’s dimensionality, rather than a justification for denying either face. The coherence of an experienced world is not a totality but an ongoing holding together, as [The Other Coherence](../the-other-coherence/) shows.
 
 ## Hilbert and Aristotle: Potential Succession vs. Completed Collection
 
@@ -48,11 +48,11 @@ Tracing the generative act directly resolves this apparent dualism:
 * The causal continuum is the invariant rule of succession linking current distinctions to subsequent consequences;
 * The first-person horizon is the living aperture where this generative succession actively occurs.
 
-This grounding reconciles the causal fabric with the first-person stance. There is no requirement to invent an unobservable metaphysical realm beyond conscious experience. The infinite is the capacity of the living center to continue drawing distinctions, testing consequences, and navigating physical friction without ever encountering a final, closed boundary.
+This grounding reconciles the causal fabric with the first-person stance. There is no requirement to invent an unobservable metaphysical realm beyond conscious experience. The infinite is the capacity of the living center to continue drawing distinctions, testing consequences, and navigating physical friction without ever encountering a final, closed boundary. The finished infinity is a bank shot with its intermediate steps hidden, as [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) shows.
 
 ## The Living Edge of Reality
 
-Reality remains permanently open. At every step, the inventory of what has been actualized is bounded, measurable, and path-dependent. Yet the generative capacity that produces that inventory remains completely unconfined.
+Reality remains permanently open. At every step, the inventory of what has been actualized is bounded, measurable, and path-dependent. Yet the generative capacity that produces that inventory remains completely unconfined. Every totality is a frame with a boundary, as [The Boundary of the Frame](../the-boundary-of-the-frame/) shows.
 
 To mistake infinity for a completed totality is to confuse the map for the living territory, and the historical trace for the ongoing act:
 

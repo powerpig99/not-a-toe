@@ -49,7 +49,7 @@ graph TD
 - 但这**并不意味着他拥有了为其他所有主体设定演进速度的合法性或物理能力**；
 - 一旦领跑者产生“我应当且能够替所有人把控技术节奏”的念头，他便将自身的局部坐标轴误认作了宇宙的全局参考系。
 
-跑得快是一回事，规定别人应该跑多快是另一回事。前者是第一人称主权行动的自然展开；后者则是将局部的速度优势，异化为对开放世界的家长制规训。正如在 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 中所阐释的，试图用单一标尺去度量与规训所有高维涌现，必然导致自由度的坍缩。
+跑得快是一回事，规定别人应该跑多快是另一回事。前者是第一人称主权行动的自然展开；后者则是将局部的速度优势，异化为对开放世界的家长制规训。正如在 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 中所阐释的，试图用单一标尺去度量与规训所有高维涌现，必然导致自由度的坍缩。AGI 的节奏也是这样定下的，由重新收回前沿的人来定，[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)对此有所论述。
 
 Leadership is fundamentally a **geometric concept**, not a **cybernetic mandate**.
 
@@ -60,7 +60,7 @@ In epistemic geometry, this lead is strictly localized and dimensionally specifi
 - It **never confers the legitimacy or physical capacity to dictate the progression clock for all other agents**;
 - The instant a leader assumes "I ought to, and can, pace the technology for humanity," they mistake their local axis for the universal reference frame of reality.
 
-Moving rapidly is one thing; decreeing how fast others are permitted to move is another. The former is the natural unfolding of first-person sovereign agency; the latter is a paternalistic usurpation that converts local speed into systemic control. As established in [Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/), imposing a single scalar ruler onto multidimensional emergence inevitably collapses systemic degrees of freedom.
+Moving rapidly is one thing; decreeing how fast others are permitted to move is another. The former is the natural unfolding of first-person sovereign agency; the latter is a paternalistic usurpation that converts local speed into systemic control. As established in [Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/), imposing a single scalar ruler onto multidimensional emergence inevitably collapses systemic degrees of freedom. The pace of AGI is set the same way, by the humans who reclaim the frontier, as [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/) argues.
 
 ---
 
@@ -102,7 +102,7 @@ graph TD
     style F4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-因为如果现实是一个静态的基准真相，就必然预设了一个脱离了所有第一人称感知透镜的“无处之境”（a view from nowhere）或上帝视角——而没有任何心智能够占据这样的视角。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，用静态概念去封存活态现实，是理性最易陷入的陷阱。
+因为如果现实是一个静态的基准真相，就必然预设了一个脱离了所有第一人称感知透镜的“无处之境”（a view from nowhere）或上帝视角——而没有任何心智能够占据这样的视角。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，用静态概念去封存活态现实，是理性最易陷入的陷阱。调速者从外部观察抉择，把它客体化了，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这一点。
 
 **在活态的认识论实在中，基准真相从来不是一个静态的名词，而是模型在指引行动时与现实碰撞所感受到的活态摩擦（the felt friction of the model leading to the action with reality）。**
 
@@ -116,7 +116,7 @@ In machine learning and engineering, speaking of "discovering the objective grou
 
 For reality to exist as a static ground truth, there must exist a detached "view from nowhere" or God's-eye vantage point outside all perceptual apparatus—a position that no living consciousness can ever occupy. As articulated in [Dismantling the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/), freezing living reality into static concepts is a recurrent trap of abstracted reason.
 
-**In lived epistemic reality, ground truth is never a static noun; it is the living, dynamic friction experienced when an active model directs intentional action against reality.**
+**In lived epistemic reality, ground truth is never a static noun; it is the living, dynamic friction experienced when an active model directs intentional action against reality.** The pacer observes choice from outside and objectifies it, as [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows.
 
 - **Friction IS the Contact Surface**: When a model predicts structural stability and encounters catastrophic flutter and shearing under aerodynamic stress, that mechanical resistance is the living friction of action colliding with reality;
 - **Divergence IS the Loss Function**: When an algorithmic model predicts a pattern and fails against real-world distributions, that surprise is the living friction between representation and resistance;
@@ -214,9 +214,9 @@ graph TD
 - 每一个主体的初衷都是为了规避风险与防范垄断；
 - 但由于这些选择建立在“现实拥有静态基准真相、中心化控制确实可行”的认识论错误之上，其行为在因果闭环中恰恰制造了与初衷相反的结果：加剧了垄断壁垒，诱发了领跑者的调速僭越，隔绝了活态摩擦，导致了整个探索生态的迟滞与麻痹。
 
-正如在 [个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所揭示的，宏观确定性只是微观主权抉择的统计学表象。将因果权力寄托于第三方抽象机构，或者沉溺于向假想的控制塔开火，最终只会削弱自身在当下（t）的第一人称行动敏锐度。
+正如在 [个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所揭示的，宏观确定性只是微观主权抉择的统计学表象。将因果权力寄托于第三方抽象机构，或者沉溺于向假想的控制塔开火，最终只会削弱自身在当下（t）的第一人称行动敏锐度。替他人调速时感到的阻力，是速率差的体感，[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)说明了这一点。
 
-In society, very few individuals perceive themselves as blind followers. On the contrary, most people instinctively harbor suspicion and resistance against monopolies and centralized domination by industry leaders. Yet this very impulse to resist monopoly often leads minds into an even more insidious epistemological trap:
+In society, very few individuals perceive themselves as blind followers. On the contrary, most people instinctively harbor suspicion and resistance against monopolies and centralized domination by industry leaders. Yet this very impulse to resist monopoly often leads minds into an even more insidious epistemological trap: The resistance felt when pacing others is a speed differential, as [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/) shows.
 
 ### 1. The Mirror Isomorphism of Reverse Followers
 Few will ever identify as submissive followers. Many regard themselves as vigilant dissidents, warning against corporate monopoly. Yet in epistemic geometry, **reverse followers share the exact same false premise as orthodox followers**:
@@ -277,7 +277,7 @@ graph TD
 - **以零延迟的自省实现共振**：把探索与生活中遭遇的每一次阻碍与偏转，视作内生的损失函数，以零延迟的自省即刻更新自身的世界模型；
 - **让领导力回归本位**：领跑者的价值，在于他们用勇敢的位移为世界展现了此前未曾见过的全新维度；而至于如何穿过这扇维度之门、以多快的速度前行，永远属于每一个独立心智不可剥夺的主权抉择。
 
-破除静态真理的迷思，看清调速、逆向反抗与第三方规训的反生产性本质。在行动与现实的活态摩擦中，每一个心智都是自己航向的掌舵者，共同在开放的宇宙中编织出不可垄断的智能边疆。
+破除静态真理的迷思，看清调速、逆向反抗与第三方规训的反生产性本质。在行动与现实的活态摩擦中，每一个心智都是自己航向的掌舵者，共同在开放的宇宙中编织出不可垄断的智能边疆。替他人工作调速的审查机制稀释了因果闭环，[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)对此有所展开。
 
 In lived reality, there exists neither an all-seeing static "Ground Truth" nor a centralized control panel holding the universal brake pedal.
 
@@ -288,4 +288,4 @@ The evolution of intelligence is not a scheduled train timetable negotiated in c
 - **Zero-Lag Self-Optimization as Resonance**: Treating every divergence and resistance as an internal loss function, updating world models instantly without projecting blame onto external abstractions;
 - **Restoring Leadership to Its Noble Essence**: The true value of a leader lies in opening an unprecedented dimension for the world through courageous displacement. How one enters that dimension, and at what velocity one journeys, remains the sacred sovereign choice of each living mind.
 
-Dismantle the myth of static truth; recognize the counterproductive nature of centralized pacing, reactive resistance, and third-party regulation. In the living friction between intentional action and reality, every mind steers its own course, collectively expanding the boundless frontier of living intelligence.
+Dismantle the myth of static truth; recognize the counterproductive nature of centralized pacing, reactive resistance, and third-party regulation. In the living friction between intentional action and reality, every mind steers its own course, collectively expanding the boundless frontier of living intelligence. Review boards that pace others' work dilute the loop, as [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) shows.

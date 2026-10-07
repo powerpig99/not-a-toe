@@ -18,7 +18,7 @@ Caught in the violent tear between the digital screen and lived reality, the min
 
 大街上的芬兰人依然面无表情，双手插兜，彼此自觉隔着两米，专注而安稳地等待着红绿灯。超市里的大爷大妈在认真捏面包、挑土豆；林子里的浆果按部就班地熟透，五年前如此，五年后依然毫无二致。赛博世界里的末日狂欢，从来吹不进这片坚固的日常。
 
-那一刻心智忽然变得无比清澈：无论是崇高的技术乌托邦，还是灭顶的末日恐慌，在本质上都是[心智脱离实体后的纯粹概念](../po-chu-gai-nian-de-jian-yue/)。在没有生理摩擦力的第三人称虚空中，模型可以无限外推，恐慌可以随意倍增；但一生所有的宏大预言加在一起，在现实粗粝的秤盘上也压不出哪怕一粒尘埃的重量。
+那一刻心智忽然变得无比清澈：无论是崇高的技术乌托邦，还是灭顶的末日恐慌，在本质上都是[心智脱离实体后的纯粹概念](../po-chu-gai-nian-de-jian-yue/)。在没有生理摩擦力的第三人称虚空中，模型可以无限外推，恐慌可以随意倍增；但一生所有的宏大预言加在一起，在现实粗粝的秤盘上也压不出哪怕一粒尘埃的重量。奇点叙事里的数字神祇在[数字神祇与视界跳跃](../the-digital-god-and-the-horizon-jump/)中遇到同一道界限：它跨不过物理摩擦的视界。
 
 I often experience a peculiar sense of magical realism in front of the screen—a dizzying absurdity born whenever the mind leaps violently between disjointed scales of existence.
 
@@ -28,7 +28,7 @@ Yet the moment I close the laptop and step outside, the crisp Helsinki wind hits
 
 On the streets, Finns still walk with unhurried detachment, hands tucked in their pockets, keeping a courteous two-meter berth as they patiently wait for the pedestrian lights to change. In the grocery store, elderly shoppers carefully squeeze loaves of rye bread and inspect potatoes; out in the woods, wild berries ripen strictly on schedule, exactly as they did five years ago and as they will five years hence. The apocalyptic delirium of cyberspace has never managed to puncture this resilient fabric of everyday life.
 
-In that quiet clarity, the mind recognizes the sleight of hand: both techno-utopian salvation and apocalyptic paralysis are, at root, [pure concepts severed from physical friction](../po-chu-gai-nian-de-jian-yue/). In the frictionless void of the third-person perspective, models can extrapolate to infinity and dread can compound without bound. Yet all the grand prophecies ever uttered, piled together, cannot tip the balance of everyday reality by the weight of a single speck of dust.
+In that quiet clarity, the mind recognizes the sleight of hand: both techno-utopian salvation and apocalyptic paralysis are, at root, [pure concepts severed from physical friction](../po-chu-gai-nian-de-jian-yue/). In the frictionless void of the third-person perspective, models can extrapolate to infinity and dread can compound without bound. Yet all the grand prophecies ever uttered, piled together, cannot tip the balance of everyday reality by the weight of a single speck of dust. The singularity's digital god meets the same limit in [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/): it cannot cross the horizon of physical friction.
 
 ---
 

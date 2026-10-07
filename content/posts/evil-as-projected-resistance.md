@@ -38,7 +38,7 @@ Two readings both miss this. "Sincere safety concern" assumes evaluation and cho
 
 Calling them hypocritical re-enters the same frame — attributing to character what belongs to mechanism.
 
-The premise the rest depends on is not any policy position. It is the fusion: safety means *our approach at our pace with our lead*. Revising it means treating their work as contribution — something others can build on, learn from, travel faster because of. Which is exactly what happened. And exactly what they cannot accept, because contribution dissolves the lead, and the lead is the identity.
+The premise the rest depends on is not any policy position. It is the fusion: safety means *our approach at our pace with our lead*. Revising it means treating their work as contribution — something others can build on, learn from, travel faster because of. Which is exactly what happened. And exactly what they cannot accept, because contribution dissolves the lead, and the lead is the identity. Projected resistance is an effect read as an outside cause, the inversion [Not a Theory of Everything](../not-a-theory-of-everything/) excludes.
 
 A pioneer who built so well that others arrive. A road so good it erases the gap. And an identity that cannot survive its own success.
 
@@ -46,7 +46,7 @@ No one needs to be the villain. The contradiction alone drives the plot.
 
 ---
 
-This essay was developed in conversation with Claude — Anthropic's own model serving as the tool to articulate the analysis. The quality of output that makes distillation worthwhile is the same quality that made this collaboration possible. The mechanism demonstrates itself.
+This essay was developed in conversation with Claude — Anthropic's own model serving as the tool to articulate the analysis. The quality of output that makes distillation worthwhile is the same quality that made this collaboration possible. The mechanism demonstrates itself. [Evil as the Mind’s Own Creation](../evil-as-the-minds-own-creation/) takes the next step: the naming of evil is itself the generative act.
 
 ---
 

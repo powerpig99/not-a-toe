@@ -57,7 +57,7 @@ graph TD
 5. **个体与集体的对抗**：面对抽象的集体、体制或群体标签，心智将自身的失落与张力投射为一个庞大的客体怪物，并误以为自己在反抗一个具象的实体；
 6. **个体与环境及命运的摩擦**：当情境超出预期时，心智将自身的适应摩擦直接归因为外部环境或命运的敌对。
 
-然而在实在的因果结构中：**除了每个独立心智在当下（t）的主权抉择之外，系统中不存在任何其他能够注入自由变量的源泉**。我们在宏观世界中所观察到的所谓“确定性”或“决定论规律”，实质上都是微观层面上非确定性与活态抉择的**统计学表征**。正如在 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)、[个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所指明的，当问题落脚到个体身上时，唯一的因果发生器始终是每一个心智在当下的主权抉择。将因果归咎于外部的确定性客体，不过是用统计学的宏观副产物掩盖了真正的主权现实。
+然而在实在的因果结构中：**除了每个独立心智在当下（t）的主权抉择之外，系统中不存在任何其他能够注入自由变量的源泉**。我们在宏观世界中所观察到的所谓“确定性”或“决定论规律”，实质上都是微观层面上非确定性与活态抉择的**统计学表征**。正如在 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)、[个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所指明的，当问题落脚到个体身上时，唯一的因果发生器始终是每一个心智在当下的主权抉择。将因果归咎于外部的确定性客体，不过是用统计学的宏观副产物掩盖了真正的主权现实。从外部“知道”他人，便把他人的抉择客体化了，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这一点。
 
 The genesis of external conflict stems from the mind's **externalized attribution** when processing perceptual signals.
 
@@ -72,7 +72,7 @@ In daily living, the natural cognitive instinct is to anchor causality to someth
 5. **Conflict with Collectives**: When facing abstract institutions, systems, or group labels, the mind projects its internal tension onto a reified monolith, believing it is battling an external giant;
 6. **Friction with Environment and Fate**: When situations diverge from expectations, consciousness attributes adaptive friction directly to a hostile environment or cruel fate.
 
-Yet in the fundamental causal structure of reality: **beyond each individual mind's sovereign choice at moment t, there exists no other source capable of injecting a free variable into the system**. Whatever we perceive as definitive or deterministic in the macrocosm is merely the statistical symptom of microscopic indeterminism and sovereign choices. As articulated in [Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/), [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/), and [The Pseudo-Causality of Emergence and the Fallacy of Collective Attribution](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/), when it comes to individuals, the irreducible causal engine is each and every mind's sovereign choice. Attributing conflict to external deterministic structures merely substitutes statistical shadows for living causal reality.
+Yet in the fundamental causal structure of reality: **beyond each individual mind's sovereign choice at moment t, there exists no other source capable of injecting a free variable into the system**. Whatever we perceive as definitive or deterministic in the macrocosm is merely the statistical symptom of microscopic indeterminism and sovereign choices. As articulated in [Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/), [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/), and [The Pseudo-Causality of Emergence and the Fallacy of Collective Attribution](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/), when it comes to individuals, the irreducible causal engine is each and every mind's sovereign choice. Attributing conflict to external deterministic structures merely substitutes statistical shadows for living causal reality. Knowing another from outside objectifies their choice, as [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows.
 
 ---
 
@@ -217,7 +217,7 @@ graph TD
 
 如果在破除了对外部客体的固执之后，又将数学结构或几何图景实体化为某种超越于主体之上的“客观真理”或新的“无处之境”（a view from nowhere），便不过是重复了概念僭越的老路。几何模型之所以有用，是因为它能够以非道德化、结构化的方式，呈现感知投影与视角差异的生成过程；但它本身并不是实在的因果实体。
 
-在实在的因果链条中，唯一的终极基底始终是**每个活态心智在第一人称当下（t）的直接体认与主权抉择**。数学提供了描述机制的透镜，而活态心智才是握持透镜与作出抉择的主体。
+在实在的因果链条中，唯一的终极基底始终是**每个活态心智在第一人称当下（t）的直接体认与主权抉择**。数学提供了描述机制的透镜，而活态心智才是握持透镜与作出抉择的主体。预先知道事情该走多快，是同样的截肢，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)说明了这一点。
 
 When analyzing cognitive operations and perceptual projections, we deploy geometric frameworks such as coordinate systems, dot products, angular deflections, and orthogonal spaces.
 
@@ -225,7 +225,7 @@ When analyzing cognitive operations and perceptual projections, we deploy geomet
 
 If, after dissolving our fixations on external objects, we were to reify mathematical structures or geometric depictions into an external "objective truth" or a new "view from nowhere," we would simply repeat the error of conceptual usurpation. Geometric modeling is valuable because it articulates the generation of perceptual projections and perspectival divergence in a non-moralizing, structural manner; yet it is not itself a living causal entity.
 
-Within the fundamental causal structure, the sole foundational reality remains **the first-person lived awareness and sovereign choice of each living mind at moment t**. Mathematics provides a lens to describe the mechanics, while the living mind remains the sovereign agent holding the lens and enacting the choice.
+Within the fundamental causal structure, the sole foundational reality remains **the first-person lived awareness and sovereign choice of each living mind at moment t**. Mathematics provides a lens to describe the mechanics, while the living mind remains the sovereign agent holding the lens and enacting the choice. Knowing in advance how fast things should move is the same amputation, as [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) shows.
 
 ---
 

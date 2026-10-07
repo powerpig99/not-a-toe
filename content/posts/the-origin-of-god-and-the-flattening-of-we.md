@@ -287,7 +287,7 @@ graph TD
 
 心智所看到的世界，是它通过自身注意力选择所绘制的地图。心智对自己的视线负责，对自己的每一次具身动作（+1）承担百分之百的结构性责任。
 
-当心智不再试图用“我们”去绑架他人，不再用抽象的“上帝视角”去审判世界，它便恢复了自身最本真的创造力量。立足于原点，以真实的物理宇宙为砥砺之石，在每一次未经稀释的行动中，与千千万万个同样觉醒的主权宇宙相遇并肩，生命的力量自然涌现。
+当心智不再试图用“我们”去绑架他人，不再用抽象的“上帝视角”去审判世界，它便恢复了自身最本真的创造力量。立足于原点，以真实的物理宇宙为砥砺之石，在每一次未经稀释的行动中，与千千万万个同样觉醒的主权宇宙相遇并肩，生命的力量自然涌现。AI 时代合成出来的神，重复了这一起源，[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)说明了这一点。
 
 Breaking free from this chain of alienation requires a single, decisive realignment: **the Mind steps down from the imagined grandstand and re-anchors at its first-person origin.**
 
@@ -295,4 +295,4 @@ True equality is not statistical leveling. It is the recognition that every indi
 
 From the first-person origin, the Mind cannot steer another mind's free variable, nor is it required to carry the moral guilt of an abstracted collective. What the Mind perceives is the direct result of where it chooses to look.
 
-Taking one hundred percent structural responsibility for its own attention, choices, and unhedged actions (+1) restores the Mind's sovereign agency. When the Mind ceases using "we" to manipulate and ceases invoking "God" to evade, agency returns to the source. Rooted at the origin, meeting the real friction of the physical cosmos, life unfolds naturally and powerfully in an open universe.
+Taking one hundred percent structural responsibility for its own attention, choices, and unhedged actions (+1) restores the Mind's sovereign agency. When the Mind ceases using "we" to manipulate and ceases invoking "God" to evade, agency returns to the source. Rooted at the origin, meeting the real friction of the physical cosmos, life unfolds naturally and powerfully in an open universe. The synthesized god of AI repeats this origin, as [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) shows.

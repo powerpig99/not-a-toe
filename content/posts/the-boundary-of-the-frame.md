@@ -67,7 +67,7 @@ In physical reality, an actual infinity or an absolute singularity cannot exist.
 
 To describe a black hole or the Big Bang as a physical place "where the laws of physics break down" is the ultimate reification of the map. Reality never violates its own causality. It is merely the mathematical model that has snapped under uncalibrated strain.
 
-Similarly, what popular cosmology romanticizes as the "edge of the universe" is nothing more than our **current observational edge**—the horizon of our optical and causal measurement aperture at this specific moment in cosmic time. It marks the boundary of what our instruments can presently register, not the perimeter of the universe itself. Confusing the horizon of our telescope with the boundary of reality is the classic error of the observer mistaking the frame of the window for the end of the sky.
+Similarly, what popular cosmology romanticizes as the "edge of the universe" is nothing more than our **current observational edge**—the horizon of our optical and causal measurement aperture at this specific moment in cosmic time. It marks the boundary of what our instruments can presently register, not the perimeter of the universe itself. Confusing the horizon of our telescope with the boundary of reality is the classic error of the observer mistaking the frame of the window for the end of the sky. A register's width is the frame's boundary in arithmetic, as [The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field](../the-arithmetic-of-the-register/) shows.
 
 ## The Structural Exemption of the Observer
 
@@ -111,7 +111,7 @@ The adaptive system remains functionally alive because it never confuses its cat
 
 ### 2. The Static System
 
-A static framework freezes its starting boundary. The initial cut is elevated to an absolute principle, and its internal coherence is mistaken for exhaustive coverage. As dissected in [The Reversal from Defensible Claim to Dogma](../the-reversal-from-defensible-claim-to-dogma/), empirical claims calcify into ideological dogma the moment a model refuses to let outside reality update its premises, ignoring the fundamental invariant that [No System Can Be Kept Closed](../no-system-can-be-kept-closed/).
+A static framework freezes its starting boundary. The initial cut is elevated to an absolute principle, and its internal coherence is mistaken for exhaustive coverage. As dissected in [The Reversal from Defensible Claim to Dogma](../the-reversal-from-defensible-claim-to-dogma/), empirical claims calcify into ideological dogma the moment a model refuses to let outside reality update its premises, ignoring the fundamental invariant that [No System Can Be Kept Closed](../no-system-can-be-kept-closed/). What crosses every frame is the sovereign choice [The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/) describes.
 
 Because the system cannot accommodate phenomena that violate its starting premises without collapsing its internal logic, it preserves its coherence through hermeneutic enclosure:
 
@@ -119,7 +119,7 @@ Because the system cannot accommodate phenomena that violate its starting premis
 * Critiques directed at the starting boundary are redirected toward internal procedural details (*"You must follow the internal derivations"*);
 * The framework grants itself an exemption from having its rules applied to its own emergence.
 
-In this static mode, the inquiry ceases to be an investigation of reality. It becomes the maintenance of a closed linguistic geometry.
+In this static mode, the inquiry ceases to be an investigation of reality. It becomes the maintenance of a closed linguistic geometry. Best-of-N stays inside the frame it was drawn in, as [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) shows.
 
 ## The Twin Anchors: Mind and Causality
 
@@ -146,10 +146,10 @@ Every theory must ultimately answer to the unbroken causal continuum, as establi
 
 ### 2. The Ground It Speaks From: The Primordial Mind
 
-Every theory is an utterance made by an observer. Before there is an axiom, a category, or a derivation, there is the cognitive, subjective vantage point performing the partition. The Mind is the wielder of the scalpel. As shown in [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), agency resides exclusively in the living thinker, never in the formal scaffolding. Any framework that claims to explain the entirety of existence while leaving the observer outside its balance sheet is pretending to possess an impossible "view from nowhere."
+Every theory is an utterance made by an observer. Before there is an axiom, a category, or a derivation, there is the cognitive, subjective vantage point performing the partition. The Mind is the wielder of the scalpel. As shown in [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), agency resides exclusively in the living thinker, never in the formal scaffolding. Any framework that claims to explain the entirety of existence while leaving the observer outside its balance sheet is pretending to possess an impossible "view from nowhere." Each dimension is a frame of this kind, as [Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence](../dimensions-are-projections/) shows.
 
 A theory is neither reality itself nor pure illusion; it is an ephemeral bridge suspended between the **Mind** that carves it and the **Causal Continuum** that sustains it—a temporary aiming heuristic, much like the virtual mirror ball in [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/), used to align reflection across constraints without ever replacing the physical table.
 
 The dogmatist falls in love with the bridge. They spend their life polishing the railings, memorizing the bolts, and insisting that the structure was not built, but has always existed as an absolute feature of the universe.
 
-The structural inquirer sees the bridge for what it is: a calibrated, temporary instrument. They use it gladly to cross a specific chasm, but remain perpetually willing to dismantle it the moment a deeper look at the shores of Mind and Causality reveals a better way to cross.
+The structural inquirer sees the bridge for what it is: a calibrated, temporary instrument. They use it gladly to cross a specific chasm, but remain perpetually willing to dismantle it the moment a deeper look at the shores of Mind and Causality reveals a better way to cross. A frame is a projection; [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) keeps attention on the vector.

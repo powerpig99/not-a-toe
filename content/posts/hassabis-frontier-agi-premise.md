@@ -41,7 +41,7 @@ That one Mind draws that boundary does not make it false. It makes it local: the
 
 Given the compressed premise, further moves need not examine new ground. They only need to sound like consequences: fire and electricity, sand that thinks, the race outpacing understanding, Frontier Labs and held-out tests, a Standards Body and a slowdown clause.
 
-Competitive dynamics are real as power. Benchmarks score traces against retained references; they cannot score the activity that re-draws the scoreboard. Procedure may be useful on its own axes. None of it is entailed by a completeness that no locus fully holds. If AGI-as-brain-complete is near and singular, the rest reads as prudence. If that identity does not hold, the rest is architecture on a chosen reference spoken as universal—structure that can still move many Minds.
+Competitive dynamics are real as power. Benchmarks score traces against retained references; they cannot score the activity that re-draws the scoreboard. Procedure may be useful on its own axes. None of it is entailed by a completeness that no locus fully holds. If AGI-as-brain-complete is near and singular, the rest reads as prudence. If that identity does not hold, the rest is architecture on a chosen reference spoken as universal—structure that can still move many Minds. The catalog of AGI milestones keeps moving because, as [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) argues, each threshold sits ahead of the edge that draws it.
 
 ## Shared urgency is not a shared finish line
 
@@ -51,7 +51,7 @@ Extended systems, their failure modes, coordination as further discrete acts—t
 
 brain-capabilities ≡ one known catalog ≡ one shared target ≡ AGI ≡ a few years ≡ justification for a single frontier regime.
 
-What remains, once that identity is traced, is one Mind speaking its seen world as the world's, projecting that into a shared future, amplified through durable media—available for resonance, not a report from outside the activity about what other Minds will find.
+What remains, once that identity is traced, is one Mind speaking its seen world as the world's, projecting that into a shared future, amplified through durable media—available for resonance, not a report from outside the activity about what other Minds will find. Regulation built around that catalog rests on the belief [Sovereignty, Belief, and the Generation of Regulatory Structures](../sovereignty-belief-and-regulatory-structures/) examines, that sovereignty can be delegated.
 
 ## The same attempt, named
 

@@ -95,7 +95,7 @@ When external shocks, demographic shifts, or fiscal exhaustion inevitably breach
 
 This diagnosis is not a political manifesto demanding that the state abolish welfare or enact reverse legislation. To look to political reform for salvation is to remain trapped inside the exact same externalized paradigm.
 
-The state is not an independent actor that can be "fixed"; as demonstrated in [Politicians appear as visible symptoms of responsibility diffusion](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/), political structures are merely the lagging macroscopic symptoms of aggregated individual choices.
+The state is not an independent actor that can be "fixed"; as demonstrated in [Politicians appear as visible symptoms of responsibility diffusion](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/), political structures are merely the lagging macroscopic symptoms of aggregated individual choices. The AI feudalism debate repeats the welfare state's assumption that starting position decides outcome, as [Agency, Compounding, and the Argument Over AI Feudalism](../agency-compounding-and-the-argument-over-ai-feudalism/) shows.
 
 The only authentic resolution is **a first-person return to sovereign responsibility**:
 
@@ -103,4 +103,4 @@ The only authentic resolution is **a first-person return to sovereign responsibi
 * Rejecting the moral seduction of outsourced virtue and refusing to treat tax payments as a substitute for active, consequential living;
 * Embracing the direct, unmediated collision with reality—bearing the full weight of one's own costs, debts, and productive output.
 
-True human capability compounds exclusively at the boundary where choices meet unbuffered consequences. The Mind that refuses the comforting anesthesia of the collective buffer is the only entity capable of generating real wealth, expanding its horizon, and remaining genuinely sovereign within the causal continuum.
+True human capability compounds exclusively at the boundary where choices meet unbuffered consequences. The Mind that refuses the comforting anesthesia of the collective buffer is the only entity capable of generating real wealth, expanding its horizon, and remaining genuinely sovereign within the causal continuum. Transfers that bypass self-worth reverse the flow of wealth, as [Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/) argues.

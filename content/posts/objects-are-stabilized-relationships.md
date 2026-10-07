@@ -82,7 +82,7 @@ Must we truly choose between naive billiard balls and Deleuzian mystification?
 * 一枚通行的货币，并不是一块具有神秘购买力的金银金属；它是整个社会生产体系、信用契约与法权暴力在长久博弈中凝结而成的**高度稳定化的交易关系**。
 
 实体从来不是原初的存在；**实体，是关系在穿过无数次碰撞、扰动与筛选之后，所沉淀出来的“不变量”（Invariants）。**
-当一组关系的内部相干性足够高，以至于在面对外部交互时表现出持续的抵抗力与可预测性时，心智便将其识别为一个“对象”。
+当一组关系的内部相干性足够高，以至于在面对外部交互时表现出持续的抵抗力与可预测性时，心智便将其识别为一个“对象”。[当电子开始思考](../when-electrons-think/)把这一点推到电子层面：稳定本身从波中显现。
 
 ---
 
@@ -100,7 +100,7 @@ What stabilizes a relationship? **Causal friction, conservation laws, and thermo
 * A currency note is not a piece of paper possessing mystical intrinsic value; it is a **stabilized economic relationship** crystallized out of institutional credibility, legal enforcement, and market consensus.
 
 Substances are not the primordial bedrock of nature. **Substances are invariants precipitated when dynamic relationships survive repeated trials of causal friction.**
-Whenever a web of relations possesses sufficient internal coherence to preserve its boundaries and predictable responses under interaction, the mind encounters it as an "object."
+Whenever a web of relations possesses sufficient internal coherence to preserve its boundaries and predictable responses under interaction, the mind encounters it as an "object." [When Electrons Think](../when-electrons-think/) carries this down to electrons, where stability itself emerges from waves.
 
 ---
 
@@ -153,7 +153,7 @@ What we call an "object" is simply a cognitive snapshot taken of a stabilized re
 最后，必须将关系量子力学与非大一统理论（Not a ToE）在此处达成最坚固的终极闭环。
 
 在标准的学术讨论中，关系量子力学常常留下一个致命的理论漏洞：
-如果一切性质都只是“相对于另一个系统”而存在（比如电子 A 相对于光子 B，温度计相对于粒子），而这些系统本身又处于平等的第三人称对称性中，那么整个世界就会沦为一个**毫无锚点的“关系镜像长廊”**——A 参照 B，B 参照 C，C 参照 A，所有关系悬浮在一个无人居住的虚空之中，最终再次滑回那个假想的、脱离观察者的“无处之境”。
+如果一切性质都只是“相对于另一个系统”而存在（比如电子 A 相对于光子 B，温度计相对于粒子），而这些系统本身又处于平等的第三人称对称性中，那么整个世界就会沦为一个**毫无锚点的“关系镜像长廊”**——A 参照 B，B 参照 C，C 参照 A，所有关系悬浮在一个无人居住的虚空之中，最终再次滑回那个假想的、脱离观察者的“无处之境”。把对象当作无立场的给定，正是[隐秘的上帝之眼](../the-invisible-gods-eye/)所揭示的上帝之眼。
 
 非大一统理论为这一长廊注入了坚实的地基：
 **现实绝不等同于客观物理现实；物理现实只是实在被稳定化的宏观症状。实在在最根本的本体论上，永远且仅仅是第一人称视角的实在。**
@@ -178,7 +178,7 @@ What we call an "object" is simply a cognitive snapshot taken of a stabilized re
 Here, the reconciliation between Relational Quantum Mechanics and the core framework of *Not a ToE* locks firmly into place.
 
 In conventional academic treatments, relational physics harbors a fatal vulnerability:
-If properties exist only "relative to another system" (electron A relative to photon B, measurement apparatus relative to an atom), and all systems are treated with sterile, third-person symmetry, reality risks degenerating into an **unanchored hall of mirrors**—A defines B, B defines C, C defines A, with the entire relational web floating in an uninhabited, abstract void. This inadvertently resurrects the very "View from Nowhere" it sought to overthrow.
+If properties exist only "relative to another system" (electron A relative to photon B, measurement apparatus relative to an atom), and all systems are treated with sterile, third-person symmetry, reality risks degenerating into an **unanchored hall of mirrors**—A defines B, B defines C, C defines A, with the entire relational web floating in an uninhabited, abstract void. This inadvertently resurrects the very "View from Nowhere" it sought to overthrow. Treating objects as given from no position is the god's eye [The Invisible God's Eye](../the-invisible-gods-eye/) exposes.
 
 *Not a ToE* grounds this floating web upon bedrock:
 **Reality is not identical to physical reality. Physical reality is merely the stabilized macrosymptom of reality. Reality, at its irreducible ground, is fundamentally first-person perspective reality.**

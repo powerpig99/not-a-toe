@@ -38,7 +38,7 @@ Because every basis state is purely orthogonal to every other (⟨*eᵢ*, *eⱼ*
 
 How does an *N*-dimensional space become *N* + 1?
 
-A foundational trap in theoretical modeling is the **closed reality assumption**. When a formal model assumes a closed, self-contained *N*-dimensional reality, it deduces that the system possesses only ***N* - 1 degrees of freedom**. In statistics, thermodynamics, and coordinate geometry, closing a system requires fixing an internal origin or imposing a global constraint. To close the box from within consumes one degree of freedom, reducing available agency from *N* to *N* - 1.
+A foundational trap in theoretical modeling is the **closed reality assumption**. When a formal model assumes a closed, self-contained *N*-dimensional reality, it deduces that the system possesses only ***N* - 1 degrees of freedom**. In statistics, thermodynamics, and coordinate geometry, closing a system requires fixing an internal origin or imposing a global constraint. To close the box from within consumes one degree of freedom, reducing available agency from *N* to *N* - 1. Scale is another projected dimension; [The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication](../the-continuum-of-the-fold/) reads the gap between minds as distance in it rather than difference in kind.
 
 That deduction is mathematically sound within its premise, but it rests entirely on the assumption that reality can be closed.
 
@@ -268,7 +268,7 @@ Every valid discipline in human history simply invents its own dialect to track 
 * In **physics**, the free variable is called open potentiality or a quantum degree of freedom; causality is the state transition across the Planck boundary;
 * In **information theory**, the free variable is the independent bit of distinction; causality is the state transition function in the hypercube;
 * In **cognitive science**, the free variable is conscious agency; causality is the retrospective/prospective projection loop;
-* In **political economy and history**, the free variable is the creative individual generating surplus; causality is the structural accumulation of institutional constraints.
+* In **political economy and history**, the free variable is the creative individual generating surplus; causality is the structural accumulation of institutional constraints. Personal growth as adding a dimension is the move [The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables](../the-extendable-horizon/) calls injecting a free variable from inside.
 
 When human beings organize, they project their relational hypercube onto low-dimensional institutional ladders (wealth, rank, status, political authority). This reveals the exact mathematical mechanics of **agency, systemic rigidity, and imperial collapse**:
 
@@ -279,7 +279,7 @@ Agency is not the power to fight for and win a high rank inside a closed project
 
 An authentic agent knows they are never trapped in an existing *k*-bit coordinate ladder. If an institutional structure becomes toxic, rigid, or extractive, the agent preserves their degrees of freedom by decoupling and expanding into an orthogonal dimension (*N* → *N* + 1).
 
-Loss of agency begins the moment an individual buys into the **closed reality assumption**—adopting a zero-sum mindset that treats the local power ladder as the whole of reality. In doing so, they voluntarily surrender their external degrees of freedom, condemning themselves to a frantic struggle for internal bit positions inside a shrinking box.
+Loss of agency begins the moment an individual buys into the **closed reality assumption**—adopting a zero-sum mindset that treats the local power ladder as the whole of reality. In doing so, they voluntarily surrender their external degrees of freedom, condemning themselves to a frantic struggle for internal bit positions inside a shrinking box. When a bounded sensor takes its address window for the whole space, it falls into the trap [The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field](../the-arithmetic-of-the-register/) describes.
 
 ### 2. The Two Modes of Freedom-Destruction: Static vs. Dynamic Locking
 Inside any closed power structure, degrees of freedom are systematically destroyed in two distinct ways:
@@ -301,7 +301,7 @@ At zero degrees of freedom (*df* = 0), the structure loses all elasticity. Any m
 ### 4. Why Reality Never Collapses
 Crucially: **reality itself never collapses, because reality is always open.**
 
-What shatters is merely the **temporarily stabilized macro structure of a shape**—the artificial, frozen coordinate projection that attempted to close an uncontainable universe. 
+What shatters is merely the **temporarily stabilized macro structure of a shape**—the artificial, frozen coordinate projection that attempted to close an uncontainable universe. Time treated as a fixed fourth axis produces the puzzle that [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/) dissolves.
 
 When an empire falls, it is not an ontological tragedy of chaos. It is reality asserting its uncontainable openness, dissolving a frozen zero-sum cage so that free variables can carry over into open space.
 
@@ -384,8 +384,8 @@ What is misnamed "Superintelligence" is simply **the Mind operating through hype
 
 Reality is not a static four-dimensional block, nor an external container of empty space waiting to be traversed.
 
-Reality is the unceasing, discrete act of distinction occurring strictly at this living moment.
+Reality is the unceasing, discrete act of distinction occurring strictly at this living moment. [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) keeps attention on the vector itself rather than on any of its projections.
 
-From the uncompressed, infinitely extendable *N*-dimensional binary hyperspace, the Mind compresses states into relational hypercubes. From those hypercubes, it projects the local theater of 3D space to navigate physical terrain, and the coordinate line of 4D time to trace causes and forecast effects. Through dimensional expansion, the individual mind achieves personal growth, freeing itself from cognitive compression and discovering higher degrees of freedom. And through tools, language, and artificial intelligence, the Mind continuously extends its biological scaffolding, dynamically reassembling its embodiment to explore horizons of ever-greater resonance.
+From the uncompressed, infinitely extendable *N*-dimensional binary hyperspace, the Mind compresses states into relational hypercubes. From those hypercubes, it projects the local theater of 3D space to navigate physical terrain, and the coordinate line of 4D time to trace causes and forecast effects. Through dimensional expansion, the individual mind achieves personal growth, freeing itself from cognitive compression and discovering higher degrees of freedom. And through tools, language, and artificial intelligence, the Mind continuously extends its biological scaffolding, dynamically reassembling its embodiment to explore horizons of ever-greater resonance. Physical space is one more such projection, and [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) shows what happens when it is taken for the view from nowhere.
 
-We are not prisoners trapped in a low-dimensional world. We are the sovereign centers projecting the dimensions, holding the cue stick, and rendering the living architecture of reality step by discrete step. Operating at the *onto* of ontology and the *meta* of metaphysics, the Mind stands forever in the open.
+We are not prisoners trapped in a low-dimensional world. We are the sovereign centers projecting the dimensions, holding the cue stick, and rendering the living architecture of reality step by discrete step. Operating at the *onto* of ontology and the *meta* of metaphysics, the Mind stands forever in the open. Each philosophical system fixes one projection as the whole, which is why [The Unclosable Trace: Why Philosophy Cannot Be Inherited](../the-unclosable-trace/) cannot be inherited as content.

@@ -88,7 +88,7 @@ The moment the satisfaction of an external condition is installed as an operatio
 
 This exposes the most profound paradox of the human condition: when an individual suffers from overwhelming paralysis and insists they "have no choice", agency has not vanished; rather, it is operating at full intensity. At any given cross-section of reality, existing constraints divide the field of possibilities into two distinct sets: the set of feasible actions executable within local boundaries, and the set of counterfactual options excluded by physical, financial, or social conditions. While constraints establish this topographical threshold, allocating attention between these sets remains the exclusive sovereignty of the first-person locus.
 
-受困者的自由，恰恰体现在他做出了一个将自身推向瘫痪的决断：他动用自身的注意力配额，将目光锁定在不可得的集合之上，并宣称唯有获得那些被封死的选项，自己才算拥有自由。这种分配方式将既定约束解读为单向的压迫与剥夺，从而抹杀了可行域中依然敞开的无数微观向量。[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/) 揭示了学者动用理性区分能力去否定意志的施演矛盾；在日常生存中，普通行动者同样在进行着同构的自我围困。一个人感到自己被囚禁的那一刻，正是自由在以自我否定的姿态全力运转。这种行动不仅不是自由的终结，反而是自由走入歧途的明证：心智自由地挑选了一套使自己看起来毫无自由的解释模型，并自愿入住其中充当受害者。
+受困者的自由，恰恰体现在他做出了一个将自身推向瘫痪的决断：他动用自身的注意力配额，将目光锁定在不可得的集合之上，并宣称唯有获得那些被封死的选项，自己才算拥有自由。这种分配方式将既定约束解读为单向的压迫与剥夺，从而抹杀了可行域中依然敞开的无数微观向量。[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/) 揭示了学者动用理性区分能力去否定意志的施演矛盾；在日常生存中，普通行动者同样在进行着同构的自我围困。一个人感到自己被囚禁的那一刻，正是自由在以自我否定的姿态全力运转。这种行动不仅不是自由的终结，反而是自由走入歧途的明证：心智自由地挑选了一套使自己看起来毫无自由的解释模型，并自愿入住其中充当受害者。决定论许诺的，正是自由被拿去抵押的那个结果，[没有固定者的固定](../fixed-by-nothing/)说明了没有任何东西把它固定下来。
 
 The unfreedom of the sufferer is itself an active exercise of freedom: the agent deploys their attentional bandwidth to fixate on the unavailable set, decreeing that only the restitution of barred possibilities qualifies as authentic agency. This interpretative allocation frames structural limits purely as deprivation, systematically blinding the mind to the vast array of micro-vectors that remain open in the feasible domain. While [The Freedom of Will to Deny Itself](../the-freedom-of-will-to-deny-itself/) dissects theorists using rational discrimination to argue against agency, everyday sufferers enact an identical performative contradiction. The precise instant one feels trapped is an instant where freedom operates in self-denial. Far from witnessing the extinction of will, it exhibits freedom turned against itself: the mind freely adopts a conceptual cage that models itself as powerless, then volunteers to dwell within it as an innocent victim.
 
@@ -130,7 +130,7 @@ graph TD
     style R3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The following causal diagram details how attentional allocation bifurcates into the self-denying loop of victimhood versus the self-realizing loop of grounded agency:
+The following causal diagram details how attentional allocation bifurcates into the self-denying loop of victimhood versus the self-realizing loop of grounded agency: Determinism promises the outcome that freedom is conditioned on, and [Fixed by Nothing](../fixed-by-nothing/) shows nothing fixes it.
 
 ```mermaid
 graph TD

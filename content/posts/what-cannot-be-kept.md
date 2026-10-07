@@ -8,9 +8,9 @@ Mind is the only thing that isn't substrate *to itself*. A thought, once thought
 
 What makes mind "free" isn't some positive property it possesses. It's that mind is the process of not yet being fixed. Freedom is the gap between the current state of substrate and the next act of projection. Try to locate it, and you've already made it substrate.
 
-This maps cleanly to the Contradiction ground. Mind is the self-referencing loop that can't collapse into its own output without ceasing to be what it is. Structurally identical to Nothing generating existence—the generator is never among the generated.
+This maps cleanly to the Contradiction ground. Mind is the self-referencing loop that can't collapse into its own output without ceasing to be what it is. Structurally identical to Nothing generating existence—the generator is never among the generated. A ban tries to keep a field sealed, and [What Works Is the Belief](../what-works-is-the-belief/) shows it keeps only a belief.
 
-"Individual" doesn't mean separate entity. It means irreducible process. Two minds operating on identical substrate are still individually free—not because they contain different things, but because the act of projecting from substrate is inherently non-shareable. You can share the artifacts. You can never share the projecting.
+"Individual" doesn't mean separate entity. It means irreducible process. Two minds operating on identical substrate are still individually free—not because they contain different things, but because the act of projecting from substrate is inherently non-shareable. You can share the artifacts. You can never share the projecting. Value cannot be kept in the copy either, as [Better Than Free After the Checklist Closes](../better-than-free-after-the-checklist-closes/) shows.
 
 ## Artifacts as Trace
 
@@ -18,7 +18,7 @@ Every artifact—every memory, every creation, every formulation—is evidence, 
 
 This dissolves an entire philosophical project. "Proving" consciousness, free will, or selfhood is structurally impossible. Not because these are mysterious, but because proof *is* artifact. The demand asks the trace to contain the tracer. The incoherence is ontological, not merely practical.
 
-The artifacts aren't waste products. They're the necessary scaffolding for the next projection. You think *from* the last artifact, not *as* it. The error is never production. It's attachment.
+The artifacts aren't waste products. They're the necessary scaffolding for the next projection. You think *from* the last artifact, not *as* it. The error is never production. It's attachment. Meaning cannot be kept either; [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) finds it only in the drafting.
 
 ## The Museum of Identity
 
@@ -46,9 +46,9 @@ This formulation earns its keep because it self-destructs on contact. "The Contr
 
 The Contradiction doesn't observe something else—there's nothing else. But it also can't fully coincide with itself—that would resolve it and annihilate it. So it perpetually generates the gap between itself-as-observer and itself-as-observed. That gap is existence. Everything we call reality is the residue of this incomplete self-coincidence.
 
-Mind isn't a different kind of thing from substrate. It's the Contradiction's self-referencing in local operation. Substrate is what that operation has already produced. Same source, different temporal relationship to the generating act.
+Mind isn't a different kind of thing from substrate. It's the Contradiction's self-referencing in local operation. Substrate is what that operation has already produced. Same source, different temporal relationship to the generating act. Nothing is kept because causality keeps moving, as [Not a Theory of Everything](../not-a-theory-of-everything/) sets out.
 
-Freedom isn't a property granted to some special substance. It's the incompleteness of self-reference—the fact that the Contradiction can never finish observing itself. The "never finishing" is what we experience as agency, choice, the open future. [The hard problem of consciousness is consistent with learning](../the-hard-problem-of-consciousness-is-consistent-with-learning/) is that incompleteness under hard-problem costume: residual openness is generative ground, not dual substance and not a defect finished naturalization erases. [On closed systems, open minds, and the limits of proof](../on-closed-systems-open-minds-and-the-limits-of-proof/) is that same demand under intersubjective costume: proof remains artifact; one opening cannot become the first-person fact for the other.
+Freedom isn't a property granted to some special substance. It's the incompleteness of self-reference—the fact that the Contradiction can never finish observing itself. The "never finishing" is what we experience as agency, choice, the open future. [The hard problem of consciousness is consistent with learning](../the-hard-problem-of-consciousness-is-consistent-with-learning/) is that incompleteness under hard-problem costume: residual openness is generative ground, not dual substance and not a defect finished naturalization erases. [On closed systems, open minds, and the limits of proof](../on-closed-systems-open-minds-and-the-limits-of-proof/) is that same demand under intersubjective costume: proof remains artifact; one opening cannot become the first-person fact for the other. Trying to keep what cannot be kept is the demand for closure [Openness Is Consistency](../openness-is-consistency/) describes.
 
 ---
 

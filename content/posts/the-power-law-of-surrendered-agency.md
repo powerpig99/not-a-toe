@@ -255,7 +255,7 @@ graph TD
 
 这种不对称性击碎了让渡主权能够带来“安全”的幻觉。把责任推给外部世界，不仅丝毫无法减轻现实对你的物理反冲，反而因为割裂了输入与输出的因果链条，使你失去了在挫折中学习进化的唯一通道。
 
-要破除这一死局，唯一的切入点就在于：在自身的第一人称原点，无条件确立百分之百的结构性责任。承认发生在你生命中的一切处境——包括你所遭受的操纵与欺骗——其最终的因果授权点都在于你自己当初的让渡选择。当你收回全部因果归因的一瞬间，行动与反馈之间的误差梯度被重新接通。心智重新获得陡峭的学习曲线，生命才真正开始爆发式复合增长。
+要破除这一死局，唯一的切入点就在于：在自身的第一人称原点，无条件确立百分之百的结构性责任。承认发生在你生命中的一切处境——包括你所遭受的操纵与欺骗——其最终的因果授权点都在于你自己当初的让渡选择。当你收回全部因果归因的一瞬间，行动与反馈之间的误差梯度被重新接通。心智重新获得陡峭的学习曲线，生命才真正开始爆发式复合增长。人口统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点。
 
 ```mermaid
 graph TD
@@ -282,7 +282,7 @@ This exposes the fatal asymmetry of surrendered sovereignty: **decision authorit
 
 Outsourcing responsibility never shields an agent from physical impact. It merely severs the causal loop between action and consequence, blinding the mind to its error gradient and extinguishing its adaptive intelligence.
 
-The sole remedy is the assumption of one hundred percent structural responsibility at one's first-person origin. This entails recognizing that every condition within one's experience—including subjection to deception or tyranny—relies on one's prior concession of authority. The moment all causal attribution is reclaimed, the error gradient between action and environmental consequence is restored, unlocking exponential personal compounding.
+The sole remedy is the assumption of one hundred percent structural responsibility at one's first-person origin. This entails recognizing that every condition within one's experience—including subjection to deception or tyranny—relies on one's prior concession of authority. The moment all causal attribution is reclaimed, the error gradient between action and environmental consequence is restored, unlocking exponential personal compounding. Population statistics record the surrender after the fact; action lives in the first-person surplus, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) shows.
 
 ---
 
