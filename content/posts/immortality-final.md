@@ -8,7 +8,7 @@ Infinite potentiality is what we inhabit. It's the open-ended extension of bound
 
 This is where meaning operates. The paint is unlimited; the frame gives it form.
 
-**Absolute infinity** is the substrate itself—the Contradiction's self-referential depth, prior to any projection. Not empty or terminal, but unprojectable. It's what makes projection possible without itself being reducible to any projection. Every framework that tries to capture it has already reduced it to the first infinity. [Not a Theory of Everything](../not-a-theory-of-everything/) traces this geometry under a different load: Causality is irreducibly dual — effect distinct from cause, effect following cause — and everything else is what those two necessary conditions already entail.
+**Absolute infinity** is the substrate itself—the Contradiction's self-referential depth, prior to any projection. Not empty or terminal, but unprojectable. It's what makes projection possible without itself being reducible to any projection. Every framework that tries to capture it has already reduced it to the first infinity.
 
 Absolute infinity is the precondition of infinite potentiality. One makes the other possible. They're not two points on the same scale—one is the scale, the other is what the scale measures against.
 
@@ -34,7 +34,7 @@ So when immortality is imagined as escape into boundlessness—actual removal of
 
 The pattern: confusing precondition with destination.
 
-Absolute infinity isn't where we're going. It's what we're projections of. You don't travel toward it; you're never separate from it. The confusion imagines reaching the substrate by extending hard enough within projection—like a drawing trying to climb off the page by adding more lines.
+Absolute infinity isn't where we're going. It's what we're projections of. You don't travel toward it; you're never separate from it. The confusion imagines reaching the substrate by extending hard enough within projection—like a drawing trying to climb off the page by adding more lines. The two infinities separate once causality is held as [Not a Theory of Everything](../not-a-theory-of-everything/) frames it: effect distinct from cause, effect following cause.
 
 Infinite potentiality is real and operates. Extension continues. But it continues as projection, within form, generating new edges as fast as it crosses old ones. That's not a limitation to overcome. That's existence doing what existence does.
 

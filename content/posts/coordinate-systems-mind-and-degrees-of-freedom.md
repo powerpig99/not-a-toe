@@ -14,7 +14,7 @@ From Lossy Compression to Living Agency: Calibrating Coordinates and Standing in
 
 然而，由制度规范、量化考核、公共舆论与社会分工构成的**公共空间**，为了实现低成本的群体协同与大规模资源调配，必须对这片无限维度的活态现实施加极具侵略性的**有损压缩（Lossy Compression）**。它将个体丰富深邃的活态存在，强行投影到极少数离散的标量维度之上：头衔、薪酬、学分、排位、声望与关注度。
 
-在这套超低维投影的固化过程中，原本拥有无限探索自由度的生命，极易在不经意间步入一套环环相扣的认知倒置：[流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/)从另一面触及同一条轴线：关于“否定”、降维与心智的自我锚定。
+在这套超低维投影的固化过程中，原本拥有无限探索自由度的生命，极易在不经意间步入一套环环相扣的认知倒置：
 
 ```mermaid
 graph TD
@@ -79,7 +79,7 @@ graph TD
 
 ---
 
-From the perspective of systems theory and information theory, the primary reality encountered in first-person experience is an infinite-dimensional continuum: immediate neural firings, subtle intuitive shifts, tacit somatic feedback, unscripted exploration, and the fluid, real-time friction of a living organism interacting with an ever-changing environment. [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) meets the same axis from another face: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring.
+From the perspective of systems theory and information theory, the primary reality encountered in first-person experience is an infinite-dimensional continuum: immediate neural firings, subtle intuitive shifts, tacit somatic feedback, unscripted exploration, and the fluid, real-time friction of a living organism interacting with an ever-changing environment.
 
 However, the **public space**—constituted by institutional protocols, quantitative performance reviews, societal discourse, and the division of labor—must apply aggressive **lossy compression** to this infinite-dimensional living reality in order to achieve low-cost coordination and scalable resource allocation. It forces the deep, multidimensional presence of the individual into a handful of discrete, scalar coordinates: job titles, compensation bands, grade point averages, leaderboard rankings, and prestige metrics.
 
@@ -181,11 +181,11 @@ graph LR
 * **不是棋盘困住了个体，而是个体的心智将低维投影误认为了本体。**
 * 异化从来不是外在实体强加的镣铐，而是心智将自身的主权让渡给低维符号之后所产生的认知幻象。
 
-当看清这一点，所有的外在归因与受害者叙事便随之消解：既然整个经验世界由心智在此刻生成并赋予意义，那么**个体必须且只能为自己生命的因果负全责**。你赋予什么以权重，你的现实便由什么构成；你若把生命的全部价值抵押给外部投影，你便只能承受投影带来的窄化与窒息。[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)从另一面触及同一条轴线：解释力与逃逸速度的不对称、均值吸引子闭环与标量投影破魅。
+当看清这一点，所有的外在归因与受害者叙事便随之消解：既然整个经验世界由心智在此刻生成并赋予意义，那么**个体必须且只能为自己生命的因果负全责**。你赋予什么以权重，你的现实便由什么构成；你若把生命的全部价值抵押给外部投影，你便只能承受投影带来的窄化与窒息。
 
 ---
 
-Faced with the alienation induced by low-dimensional metrics, the standard reaction often retreats into a romantic, binary rebellion: decrying the public arena as a soul-crushing swamp and advocating an escapist flight to some idealized, unspoiled "wilderness". [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) meets the same axis from another face: The Asymmetry of Explanatory Power and Escape Velocity, the Mean Attractor, and the Scalar Projection.
+Faced with the alienation induced by low-dimensional metrics, the standard reaction often retreats into a romantic, binary rebellion: decrying the public arena as a soul-crushing swamp and advocating an escapist flight to some idealized, unspoiled "wilderness".
 
 Yet this adversarial stance remains superficial. It rests on an unexamined victim narrative that assumes external systems possess innate agency to subjugate consciousness. When epistemology is traced back to its causal bedrock, this internal-versus-external dichotomy dissolves:
 
@@ -216,7 +216,7 @@ graph LR
 * **It is not the chessboard that imprisons the individual; it is the mind that mistakes a compressed shadow for living ground.**
 * Alienation is never an objective physical entity imposed from the outside; it is a perceptual trap generated when awareness surrenders its causal sovereignty to external symbols.
 
-With this realization, external blame and victim narratives disintegrate. Because the entire phenomenal horizon is continuously generated and weighted by Mind in the living present, **the individual is fundamentally and solely responsible for their own causal existence**. Whatever you assign weight to becomes your reality; if you pledge your core agency to a compressed projection, you must endure the claustrophobia of that narrow slice.
+With this realization, external blame and victim narratives disintegrate. Because the entire phenomenal horizon is continuously generated and weighted by Mind in the living present, **the individual is fundamentally and solely responsible for their own causal existence**. Whatever you assign weight to becomes your reality; if you pledge your core agency to a compressed projection, you must endure the claustrophobia of that narrow slice. The scalar projection of an "ordinary perspective" flattens these degrees of freedom, as [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) lays out.
 
 ---
 
@@ -224,7 +224,7 @@ With this realization, external blame and victim narratives disintegrate. Becaus
 
 看破低维投影的局限，并不意味着否定公共空间的效用，更无需走向虚无主义或消极避世。
 
-公共空间是人类文明历经漫长试错与演化、为了抵御混乱和降低协作摩擦而形成的最大公约数协议。正因为它实施了激进的降维与有损压缩，剥离了大量模糊的噪声，它才具备了高度的信息对齐度、可预测的反馈回路与清晰的交互逻辑。
+公共空间是人类文明历经漫长试错与演化、为了抵御混乱和降低协作摩擦而形成的最大公约数协议。正因为它实施了激进的降维与有损压缩，剥离了大量模糊的噪声，它才具备了高度的信息对齐度、可预测的反馈回路与清晰的交互逻辑。“普通视角”的标量投影压扁了这些自由度，[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)对此有所展开。
 
 因此，作为哲学的践行者，关键在于完成主客关系的因果归位：
 
@@ -235,11 +235,11 @@ With this realization, external blame and victim narratives disintegrate. Becaus
 | **认知关系** | 囤积知识载体，作为向外界证明自身资质的筹码 | 借认知之刃切入真实，去实践、去探索、去生活 |
 | **主体归属** | 棋子：被外部评判、绩效与指标驱赶奔走 | 导航者：手握外部坐标校准自身，向深处拓展自由度 |
 
-公共空间从来不是审判生命的法庭，而是航海日志里的**经纬度与灯塔**。它足够稳定、足够清晰，便于心智校准行动的偏差、换取生存的补给、完成群体的协同与结算。[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)从另一面触及同一条轴线：几何视角下的投影、冲突与电磁同频。
+公共空间从来不是审判生命的法庭，而是航海日志里的**经纬度与灯塔**。它足够稳定、足够清晰，便于心智校准行动的偏差、换取生存的补给、完成群体的协同与结算。
 
 ---
 
-Seeing through the illusions of low-dimensional projections does not imply rejecting the utility of public space, nor does it justify retreating into cynicism or passive escapism. [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) meets the same axis from another face: Projections, Conflict, and Electromagnetic Resonance.
+Seeing through the illusions of low-dimensional projections does not imply rejecting the utility of public space, nor does it justify retreating into cynicism or passive escapism.
 
 Public space is the lowest-common-denominator protocol forged through millennia of civilizational trial and error to counter entropy and minimize the friction of collective cooperation. Precisely because it aggressively compresses reality and strips away ambiguous noise, it provides sharp informational alignment, predictable feedback loops, and transparent rules of interaction.
 
@@ -260,7 +260,7 @@ Public space is never a courtroom judging existential validity; it is the **grid
 
 从记录中的“观察者”走向现实中的“践行者”，核心在于不再把概念地图当成生存家园，将生活的主动权完整交还于第一人称心智。
 
-此时的心智，既不会在低维规则的名利得失中陷入精神崩溃，也不会在孤芳自赏中脱离现实社会。践行者从容行走于公共空间，遵守其协作协议，将其作为行动的稳固坐标；而在那套协议之外，心智拥有未被压缩的无限维度去感知呼吸、切入真实阻力、直面不确定性。
+此时的心智，既不会在低维规则的名利得失中陷入精神崩溃，也不会在孤芳自赏中脱离现实社会。践行者从容行走于公共空间，遵守其协作协议，将其作为行动的稳固坐标；而在那套协议之外，心智拥有未被压缩的无限维度去感知呼吸、切入真实阻力、直面不确定性。[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)展开了背后的几何：心智既是向量，也是坐标系。
 
 ```mermaid
 graph TB
@@ -298,13 +298,13 @@ graph TB
     style LivingCreation fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-公共空间的棋盘依然清晰可见、运作良好，但心智早已不再是任人摆布的棋子。低维指标退回为便利的罗盘，而整个人生，自此展开为一场始于心智、忠于当下、在每一刻主动涉险的活态探索。
+公共空间的棋盘依然清晰可见、运作良好，但心智早已不再是任人摆布的棋子。低维指标退回为便利的罗盘，而整个人生，自此展开为一场始于心智、忠于当下、在每一刻主动涉险的活态探索。公共坐标变动时，[流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/)说明了为何否定让我仍停在旧轴上，而自我锚定不会。
 
 ---
 
 The transition from a detached observer tracing ideas to an active practitioner living them hinges on a single shift: ceasing to mistake the conceptual map for the home terrain, and restoring full causal sovereignty to first-person consciousness.
 
-In this stance, the mind is neither shattered by the inevitable swings of fortune within low-dimensional scoring systems, nor alienated in self-righteous detachment from practical society. The practitioner navigates public arenas with poise, honoring their protocols as reliable reference frames for action and trade. Meanwhile, beyond those operational boundaries, the mind commands uncompressed dimensions of awareness—experiencing somatic rhythm, facing genuine friction, and stepping boldly into the unknown.
+In this stance, the mind is neither shattered by the inevitable swings of fortune within low-dimensional scoring systems, nor alienated in self-righteous detachment from practical society. The practitioner navigates public arenas with poise, honoring their protocols as reliable reference frames for action and trade. Meanwhile, beyond those operational boundaries, the mind commands uncompressed dimensions of awareness—experiencing somatic rhythm, facing genuine friction, and stepping boldly into the unknown. When public coordinates shift, [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) shows why negation keeps me on the old axis and self-anchoring does not.
 
 ```mermaid
 graph TB
@@ -342,4 +342,4 @@ graph TB
     style LivingCreation fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-The public chessboard remains crisp, legible, and fully operational, but consciousness is no longer an unwitting piece moved across its squares. Low-dimensional indicators are restored to their proper role as convenient navigational instruments, while existence unfolds as an ongoing inquiry—initiated by Mind, anchored in the present, and actively lived at every step.
+The public chessboard remains crisp, legible, and fully operational, but consciousness is no longer an unwitting piece moved across its squares. Low-dimensional indicators are restored to their proper role as convenient navigational instruments, while existence unfolds as an ongoing inquiry—initiated by Mind, anchored in the present, and actively lived at every step. [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) develops the geometry behind this: the mind as both vector and coordinate system.

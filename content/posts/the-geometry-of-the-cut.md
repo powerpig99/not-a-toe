@@ -32,7 +32,7 @@ graph TD
 
 这两种表述听起来都极具道德感召力，但它们在本体论上犯下了同一个根本性错误：**它们都把“自身”与“世界”当作了两个在空间上相邻、在时间上可以被线性排序的独立房间。** 一旦采纳了这种二元划分，道德说教中的“应当”便随着人造的起点四处流窜——选定自身为起点，义务便指向内在；选定世界为起点，义务便指向外部。
 
-然而，这种在两个房间之间排列优先级的企图是多余的。认知与所认知之物从来不曾隔着遥远的虚空对望；它们在几何拓扑上本就是同一个连通流形。同一道切分也出现在[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)之中：解释力与逃逸速度的不对称、均值吸引子闭环与标量投影破魅。
+然而，这种在两个房间之间排列优先级的企图是多余的。认知与所认知之物从来不曾隔着遥远的虚空对望；它们在几何拓扑上本就是同一个连通流形。
 
 ```mermaid
 graph TD
@@ -53,7 +53,7 @@ graph TD
     style MoralWeapon fill:#21262d,stroke:#8b949e,color:#8b949e
 ```
 
-One of the most persistent deadlocks in moral philosophy is the debate over the chronological and ethical priority between transforming oneself and reforming the world. The same cut appears in [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/): The Asymmetry of Explanatory Power and Escape Velocity, the Mean Attractor, and the Scalar Projection.
+One of the most persistent deadlocks in moral philosophy is the debate over the chronological and ethical priority between transforming oneself and reforming the world.
 
 A familiar admonition insists that anyone who has not cleaned their own house has no business presuming to tidy the street; internal mastery is framed as the non-negotiable prerequisite for public action. The counter-pole asserts that when the street is burning and systemic collapse is imminent, inward self-cultivation is an evasion—a luxury that ignores the structural ground of suffering.
 
@@ -137,7 +137,7 @@ graph TD
 
 悲剧在于后来的追随者。追随者未能洞悉原初的因果引擎，便不可避免地**倒果为因**：他们误将智者留下的形态残留当作了抵达彼岸的因果工具。
 
-所谓的“修炼自身”，在追随者手中迅速退化为一种站在第三人称审视自己、规训自我的监视游戏。追随者强迫自己表现出宁静，强行压制内在的欲望，机械模仿圣人的体态与仪式。这种模仿在感觉上极其“正确”，但在因果上却毫无效力——因为你试图通过制造结果的形状，来倒逼原因的诞生。这正是千百年来古老教条让人深感共鸣却极难践行的根本根源。同一道切分也出现在[契约的因果倒置](../the-causal-inversion-of-partnership/)之中：所谓共同实体的虚妄、心智对自身的镜像投射与选择离场的自由。
+所谓的“修炼自身”，在追随者手中迅速退化为一种站在第三人称审视自己、规训自我的监视游戏。追随者强迫自己表现出宁静，强行压制内在的欲望，机械模仿圣人的体态与仪式。这种模仿在感觉上极其“正确”，但在因果上却毫无效力——因为你试图通过制造结果的形状，来倒逼原因的诞生。这正是千百年来古老教条让人深感共鸣却极难践行的根本根源。
 
 ```mermaid
 graph TD
@@ -155,7 +155,7 @@ graph TD
     style ImpotenceDeadlock fill:#21262d,stroke:#ff7b72,stroke-width:2px,color:#ff7b72
 ```
 
-Ancient wisdom traditions traced macro-scale phenomena with extraordinary fidelity. Yet because they lacked an explicit micro-causal structure, their teachings suffered from **The Retrospective Bias**. The same cut appears in [The Causal Inversion of Partnership](../the-causal-inversion-of-partnership/): The Illusion of the Mutual Entity, the Mind's Mirror Projection, and the Freedom to Walk Away.
+Ancient wisdom traditions traced macro-scale phenomena with extraordinary fidelity. Yet because they lacked an explicit micro-causal structure, their teachings suffered from **The Retrospective Bias**.
 
 When a sage reflects upon their past transformation, they necessarily look back as an external observer of their own history. What they observe and articulate are the downstream symptoms and structural residues of their breakthrough: equanimity, non-attachment, disciplined restraint, and effortless action.
 
@@ -243,7 +243,7 @@ graph TD
     style CalibrateLight fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
 ```
 
-自身为因，世界为果。你改变自身，就是在改变你所见到的世界；你与世界的碰撞，就是自身参数校准的唯一通道。
+自身为因，世界为果。你改变自身，就是在改变你所见到的世界；你与世界的碰撞，就是自身参数校准的唯一通道。在伴侣关系中，“共同体”是被当成原因的世界，[契约的因果倒置](../the-causal-inversion-of-partnership/)把这一倒置拆开。
 
 At the absolute center of this self-referential loop sits the consciousness of the free variable, actively rendering the cosmos from its first-person origin.
 
@@ -251,7 +251,7 @@ We must discard the analog fantasy of continuous infinity. Reality is not a math
 
 The causal relationship is uncompromising: **Self as Cause, World as Effect.**
 
-The world is the holographic projection of your internal parameter state. Attempting to repair the world without owning the causal origin is like running to a movie screen with a cloth to wipe away an unwanted shadow. Yet the projector lens cannot be calibrated in darkness; it updates only by casting light directly against the resistance of physical reality.
+The world is the holographic projection of your internal parameter state. Attempting to repair the world without owning the causal origin is like running to a movie screen with a cloth to wipe away an unwanted shadow. Yet the projector lens cannot be calibrated in darkness; it updates only by casting light directly against the resistance of physical reality. In a partnership, the mutual entity is the world taken as cause, the inversion [The Causal Inversion of Partnership](../the-causal-inversion-of-partnership/) undoes.
 
 ---
 
@@ -281,11 +281,11 @@ graph TD
 
 没有先后，没有排队，没有前置条件。
 
-收起针对自身与世界的道德说教，抛弃虚妄的旁观者视差。立足于不可化约的原点，对当下的处境承担百分之百的结构性责任，以真实的物理宇宙为唯一导师，在每一次未经稀释的行动中，让生命的复利演进自然展开。
+收起针对自身与世界的道德说教，抛弃虚妄的旁观者视差。立足于不可化约的原点，对当下的处境承担百分之百的结构性责任，以真实的物理宇宙为唯一导师，在每一次未经稀释的行动中，让生命的复利演进自然展开。“普通视角”用世界解释自我，与这道切分正好相反，[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)对此有所展开。
 
 This realization brings the death of all preconditions.
 
-You do not need a certificate of psychological perfection before engaging the world. Every unhedged step (+1) taken in physical reality simultaneously deforms the downstream projection and updates the internal parameters of the source.
+You do not need a certificate of psychological perfection before engaging the world. Every unhedged step (+1) taken in physical reality simultaneously deforms the downstream projection and updates the internal parameters of the source. The ordinary perspective explains the self by the world, the reverse of this cut, as [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) shows.
 
 There is no sequence. There is no queue. 
 

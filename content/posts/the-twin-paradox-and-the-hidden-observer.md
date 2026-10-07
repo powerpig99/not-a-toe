@@ -108,17 +108,17 @@ graph TD
 1. 对外宣称宇宙不存在特权基准，运动是观察者之间的对等关系；
 2. 解释佯谬时却暗中设立外部固定参照物，用第三人称的上帝视角压制了第一人称视角的对称性。
 
-佯谬并非来自物理现实的矛盾，而是来自这种偷渡操作。正如[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所阐明的，理论家先假定了一个中立客观的公共沙盒，然后将两个独立的因果中心强行塞入预设的坐标标尺之中，将观察工具的局限性伪造成了客观宇宙的物理属性。[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)从另一面触及同一条轴线：物理学如何冻结现实电影并将投影命名为宇宙。
+佯谬并非来自物理现实的矛盾，而是来自这种偷渡操作。正如[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所阐明的，理论家先假定了一个中立客观的公共沙盒，然后将两个独立的因果中心强行塞入预设的坐标标尺之中，将观察工具的局限性伪造成了客观宇宙的物理属性。倒着读一条轨迹会藏起自由变量，在物理中如此，在权力中也如此，[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)说明了这一点。
 
 ---
 
-The core project of modern relativity was to eradicate the privileged space and luminiferous ether of Newtonian mechanics, establishing the relational nature of inertial frames. Yet, when confronting the twin paradox, theorists quietly re-admitted the discarded privileged frame through the rear exit. [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) meets the same axis from another face: How Physics Froze the Movie of Reality and Named the Projection the Cosmos.
+The core project of modern relativity was to eradicate the privileged space and luminiferous ether of Newtonian mechanics, establishing the relational nature of inertial frames. Yet, when confronting the twin paradox, theorists quietly re-admitted the discarded privileged frame through the rear exit.
 
 To establish that the traveling twin experienced an asymmetric worldline deviation, textbooks invoke the mass of the Earth, the gravitational distribution of the galaxy, or the framework of distant cosmological structures. When these concrete material backgrounds prove insufficient in an idealized thought experiment, the interpreter constructs an imaginary vantage point suspended entirely outside the cosmos.
 
 This exterior vantage point is the **Hidden Observer**.
 
-As analyzed in [Causality is Irreducible, the Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/), physicalist reductionism routinely manufactures the illusion of a "view from nowhere"—the conceit that an analyst can step outside their own causal locus and survey reality from an unlocated vantage point. In the twin paradox, this hidden observer acts as the disembodied draftsman of the coordinate grid: perched outside the four-dimensional manifold, looking down at two trajectories, and decreeing from above that one path is shorter.
+As analyzed in [Causality is Irreducible, the Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/), physicalist reductionism routinely manufactures the illusion of a "view from nowhere"—the conceit that an analyst can step outside their own causal locus and survey reality from an unlocated vantage point. In the twin paradox, this hidden observer acts as the disembodied draftsman of the coordinate grid: perched outside the four-dimensional manifold, looking down at two trajectories, and decreeing from above that one path is shorter. Reading a trajectory backward hides the free variable, in physics as in power, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) shows.
 
 This sleight of hand enforces an epistemic double standard:
 1. It officially proclaims that nature contains no privileged frame and that motion is relational;
@@ -172,11 +172,11 @@ graph TB
 2. **投影参数**：在洛伦兹变换中，时间坐标 `t` 是人为构建的数学簿记工具，用于在不同观测框架之间对齐观测数据。正如[维度即投影](../dimensions-are-projections/)所指出的，维度是认知的降维压缩机制，而不是实体空间的长廊。将静态几何体中不同线条的度规长度差异，视为真实身体的年轻或衰老，是典型的地图与疆域混淆。
 3. **真实时间是不可逆的因果生成**：在真实的疆域中，不存在一个预先铺就的时空块供观察者穿行。现实在每一步中都是活的、由因果展开所决定的当下。正如[索要终极理论是将时间冻结为静态目录](../demanding-a-toe-freezes-time-into-a-catalog/)所揭示的，将时间还原为几何轴线，等于在头脑中预先杀死了时间的生成性，把活生生的宇宙制成了标本目录。
 
-在活的宇宙中，没有人在时间维度中“前进”或“滞后”。无论观察者如何运动，只要他们重聚在同一处视界之内，他们所共享的就是同一个当下的现实。时间膨胀只是理论模型在沿静态时间轴投影时，所产生的坐标形变效应。同一道切分也出现在[不可还原的观察者](../the-irreducible-observer/)之中：客观性是主观性的成就，构建排除观察者之理论的心智无法将自身排除。
+在活的宇宙中，没有人在时间维度中“前进”或“滞后”。无论观察者如何运动，只要他们重聚在同一处视界之内，他们所共享的就是同一个当下的现实。时间膨胀只是理论模型在沿静态时间轴投影时，所产生的坐标形变效应。
 
 ---
 
-Why does theoretical physics remain entangled in the twin paradox? The root cause lies in the **Frozen Universe (Block Universe) assumption** embedded within its mathematical architecture. The same cut appears in [The Irreducible Observer](../the-irreducible-observer/): Objectivity is an achievement of subjectivity; the consciousness that erases the observer cannot erase itself.
+Why does theoretical physics remain entangled in the twin paradox? The root cause lies in the **Frozen Universe (Block Universe) assumption** embedded within its mathematical architecture.
 
 In Minkowski spacetime geometry, time is spatialized into a fourth dimension. The entirety of cosmic occurrence is flattened into an already-finished, static four-dimensional geometric block. Within this construction, past, present, and future sit alongside one another like printed pages in a bound volume, and living histories are drawn as frozen geometric worldlines.
 
@@ -235,11 +235,11 @@ graph TD
 
 这对应着里程表的物理现实：两辆车从同一地点出发，在不同的道路应力下行驶并最终停在同一个车库里。一辆车的里程表记录了较少的英里数。没有任何理性的人会声称这辆车“穿越到了未来的车库”。两辆车共同停在此时此地的车库里，里程表的读数差异仅仅记录了机械齿轮在不同地面应力下的运转历史。
 
-正如在[时间是因果的方向与离散步长](../time-is-causality-not-a-dimension/)中所强调的，物理实在只有因果的连续演进。重逢的原子钟所显示的微小秒数差异，是物质振子在不同力学环境下的物理印记，不是穿越时空长廊的凭证。[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)从另一面触及同一条轴线：价值源于感知与迭代而非占有，权力源于注入隐性变量而非占据席位。
+正如在[时间是因果的方向与离散步长](../time-is-causality-not-a-dimension/)中所强调的，物理实在只有因果的连续演进。重逢的原子钟所显示的微小秒数差异，是物质振子在不同力学环境下的物理印记，不是穿越时空长廊的凭证。
 
 ---
 
-Empirical measurements are indisputable: atomic clocks flown on commercial airliners (the Hafele-Keating experiment) and atomic clocks aboard orbiting GPS satellites record cycle counts that diverge from ground-based references. Popular accounts present these results as experimental confirmations of "time travel." [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) meets the same axis from another face: Value arises from iterative perception, not possession; power from invisible variables, not seats.
+Empirical measurements are indisputable: atomic clocks flown on commercial airliners (the Hafele-Keating experiment) and atomic clocks aboard orbiting GPS satellites record cycle counts that diverge from ground-based references. Popular accounts present these results as experimental confirmations of "time travel."
 
 This narrative obscures the physical nature of measurement instruments:
 
@@ -402,11 +402,11 @@ graph TD
 这种表述之所以荒谬，是因为**它正是双生子佯谬的真正源头**：
 * 教科书中的双生子实验，无非是这套无限路径数学游戏中最简化的二体（N = 2）特例；
 * 理论家在静态坐标纸上画出无数条弯弯曲曲的线，用度规尺量出它们的长短差异，然后幻想着这些线段代表着无数条同时并存、流速各异的时间长河；
-* 现实中的重逢点 B 不是容纳无数条时间长河交汇的玄学水池，点 B 就是此时此地不可分割的当下。真实实体在每一步因果前沿中共同推进，图纸上无限路径的长度差异，不过是几何投影游戏的算术余数。[四维长鹿的幻象与当下的模型](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)在另一种负载下描摹了同一几何：叠合画帧为长虫并未窥见高维，不过是将当下投影误认为了永恒。
+* 现实中的重逢点 B 不是容纳无数条时间长河交汇的玄学水池，点 B 就是此时此地不可分割的当下。真实实体在每一步因果前沿中共同推进，图纸上无限路径的长度差异，不过是几何投影游戏的算术余数。
 
 ---
 
-Elevating the inquiry from localized thought experiments to the cosmic macro-scale unmasks an even more fatal incoherence at the foundation of modern physics: **the Big Bang and Heat Death are logically and physically impossible within a static four-dimensional block universe.** [The Myth of the Four-Dimensional Deer and the Present Model](../the-myth-of-the-four-dimensional-deer-and-the-present-model/) traces this geometry under a different load: Stacking frames into a worldline reveals no higher dimension, merely mistaking a present projection for an eternal object.
+Elevating the inquiry from localized thought experiments to the cosmic macro-scale unmasks an even more fatal incoherence at the foundation of modern physics: **the Big Bang and Heat Death are logically and physically impossible within a static four-dimensional block universe.**
 
 Standard cosmology demands simultaneous allegiance to two mutually exclusive structures:
 1. **Thermodynamics and Evolutionary Cosmology**: The universe began 13.8 billion years ago from a low-entropy origin (the Big Bang), subsequently expanding, cooling, and structuring under the irreversible arrow of causal updates, asymptotically destined for maximum entropy (Heat Death). This is an active, dynamic physical process;
@@ -534,11 +534,11 @@ graph TD
 
 正如[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)所指出的，权威的背书无法代替第一人称的逻辑闭环。大众拿来作为信仰的，不过是一个未经推导的社会标签；物理学家沉迷其中的，不过是一个预设了局域静止的数学沙盒。
 
-当理论家将这一局域有效模型上升为整座宇宙的终极真理时，它所犯的错误，与古代的“地平说”毫无二致。在建造一栋房屋、规划一座城市或修筑一条道路的有限范围内，将地面视为一个平坦的二维平面不仅毫无问题，而且极其精准高效；然而，一旦将这种局部的有效性外推，宣称整个地球乃至整个宇宙就是一个平坦的磁盘，理性便堕落为了教条。现代物理学对四维静态时空块的崇拜正是如此：在局域观测窗口内，将参考系之间的微小应力偏差投影为坐标时间是便利的计算工具；但若据此宣称“宇宙是一个静态时空块，时间流逝是幻觉，人类可以穿越未来”，无非是在用精密的数学工具，重演了一场现代版的“地平说”迷梦。
+当理论家将这一局域有效模型上升为整座宇宙的终极真理时，它所犯的错误，与古代的“地平说”毫无二致。在建造一栋房屋、规划一座城市或修筑一条道路的有限范围内，将地面视为一个平坦的二维平面不仅毫无问题，而且极其精准高效；然而，一旦将这种局部的有效性外推，宣称整个地球乃至整个宇宙就是一个平坦的磁盘，理性便堕落为了教条。现代物理学对四维静态时空块的崇拜正是如此：在局域观测窗口内，将参考系之间的微小应力偏差投影为坐标时间是便利的计算工具；但若据此宣称“宇宙是一个静态时空块，时间流逝是幻觉，人类可以穿越未来”，无非是在用精密的数学工具，重演了一场现代版的“地平说”迷梦。世界线是一叠当下的帧，[四维长鹿的幻象与当下的模型](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)借鹿的例子说明了这一点。
 
-将两体相对运动翻译为时间的不对称流逝，是物理学模型在强加了一个不存在的上帝之眼后，所自编自导的思维困局。正如[因果贯穿始终](../causality-all-the-way/)所昭示的，物理定律与数学方程式是人类意识建立的投影工具，而展开一切可能性的因果前沿，始终只在第一人称的当下跳动。
+将两体相对运动翻译为时间的不对称流逝，是物理学模型在强加了一个不存在的上帝之眼后，所自编自导的思维困局。正如[因果贯穿始终](../causality-all-the-way/)所昭示的，物理定律与数学方程式是人类意识建立的投影工具，而展开一切可能性的因果前沿，始终只在第一人称的当下跳动。被藏起的观察者，正是[不可还原的观察者](../the-irreducible-observer/)所捍卫的那个不可还原者。
 
-打破对静态时空块的崇拜，驱散隐秘观察者的幽灵，时间的佯谬便随之消散。宇宙从未冻结，双生子从未分道扬镳于不同的时间河流——他们始终并肩前行于这个唯一的、未完成的、活生生的现实之中。
+打破对静态时空块的崇拜，驱散隐秘观察者的幽灵，时间的佯谬便随之消散。宇宙从未冻结，双生子从未分道扬镳于不同的时间河流——他们始终并肩前行于这个唯一的、未完成的、活生生的现实之中。冻结的块状宇宙，是被外推成宇宙的取样框，[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)说明了这一点。
 
 ---
 
@@ -595,8 +595,8 @@ Theorists harbor discordant internal models within their minds, yet assemble ben
 
 As established in [From Formal Myth to Logical Closure](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/), master citations cannot substitute for first-person causal deduction. What the public consumes as gospel is a social badge; what theorists manipulate is a mathematical sandbox abstracted from local stasis.
 
-When theoretical physics elevates this locally successful model into the definitive ontology of the entire cosmos, it commits the exact same error as the Flat Earth hypothesis. On the scale of surveying a farm, paving a road, or constructing a cathedral, treating the surface of the Earth as a flat two-dimensional Euclidean plane is not only legitimate—it is an exceptionally accurate and efficient engineering approximation. However, the moment one extrapolates this local utility to declare that the entire Earth is a planar disc resting upon pillars, analytical utility curdles into dogmatic fantasy. The Block Universe dogma of modern physics is the Flat Earth illusion dressed in mathematical robes: treating local coordinate offsets across inertial frames as an engineered 4D grid is a powerful computational convenience; but extrapolating that grid to declare that the universe is a frozen four-dimensional block where real time does not exist repeats the Flat Earth category error with modern sophistication.
+When theoretical physics elevates this locally successful model into the definitive ontology of the entire cosmos, it commits the exact same error as the Flat Earth hypothesis. On the scale of surveying a farm, paving a road, or constructing a cathedral, treating the surface of the Earth as a flat two-dimensional Euclidean plane is not only legitimate—it is an exceptionally accurate and efficient engineering approximation. However, the moment one extrapolates this local utility to declare that the entire Earth is a planar disc resting upon pillars, analytical utility curdles into dogmatic fantasy. The Block Universe dogma of modern physics is the Flat Earth illusion dressed in mathematical robes: treating local coordinate offsets across inertial frames as an engineered 4D grid is a powerful computational convenience; but extrapolating that grid to declare that the universe is a frozen four-dimensional block where real time does not exist repeats the Flat Earth category error with modern sophistication. A worldline is a stack of present frames, as [The Myth of the Four-Dimensional Deer and the Present Model](../the-myth-of-the-four-dimensional-deer-and-the-present-model/) shows with the deer.
 
-Translating relational motion into asymmetric time dilation is an intellectual puzzle created when theoretical physics equips itself with an unacknowledged God's-eye camera. As articulated in [Causality All the Way](../causality-all-the-way/), mathematical formalisms are predictive instruments constructed by the mind, while the causal frontier that sustains all possibility advances only in the first-person present.
+Translating relational motion into asymmetric time dilation is an intellectual puzzle created when theoretical physics equips itself with an unacknowledged God's-eye camera. As articulated in [Causality All the Way](../causality-all-the-way/), mathematical formalisms are predictive instruments constructed by the mind, while the causal frontier that sustains all possibility advances only in the first-person present. The hidden observer is the irreducible one [The Irreducible Observer](../the-irreducible-observer/) defends.
 
-Dissolving the block universe dispels the phantom of the hidden observer, and with it, the paradox dissolves. The cosmos has never been a frozen catalog, and the twins were never divided across separate temporal streams. They remain, as they began, co-present actors within the living territory of an undivided reality.
+Dissolving the block universe dispels the phantom of the hidden observer, and with it, the paradox dissolves. The cosmos has never been a frozen catalog, and the twins were never divided across separate temporal streams. They remain, as they began, co-present actors within the living territory of an undivided reality. The frozen block universe is the sample frame extrapolated into a cosmos, as [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) shows.

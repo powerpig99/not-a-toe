@@ -4,7 +4,7 @@ We all use AI and other tools to do what we couldn't do ourselves — most of us
 
 ## The Collapsed Frame
 
-AI researcher Chip Huyen (@chipro) posted a poll asking when AI will fully automate your job. The poll enacts a collapse — it asks *when*, presupposing a boundary between "you" and "your tools" that has never existed in practice. The question forces two orthogonal projections onto a single axis: [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) meets the same axis from another face: The appearance of a second edge is lag sustained by the centers that project it; the parameters hold only residue.
+AI researcher Chip Huyen (@chipro) posted a poll asking when AI will fully automate your job. The poll enacts a collapse — it asks *when*, presupposing a boundary between "you" and "your tools" that has never existed in practice. The question forces two orthogonal projections onto a single axis:
 
 - **The capability projection**: what work gets accomplished, by what means, at what scale.
 - **The identity projection**: who "I" am as a worker, what counts as "my" contribution.
@@ -15,9 +15,9 @@ Trace each projection independently and the interference pattern disappears.
 
 ## The Capability Projection, Traced As-Is
 
-No human operates with unaided cognition. Language is a technology. Writing is a technology. Mathematics, logic, measurement, notation—each is a cognitive extension that became so deeply integrated we stopped recognizing it as augmentation. When someone "thinks in words," they're already running on infrastructure they didn't build. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) meets the same axis from another face: If the human is irreplaceable, replacement fails; if replaceable, still not by its own creation — creation already marks the source as outside the created.
+No human operates with unaided cognition. Language is a technology. Writing is a technology. Mathematics, logic, measurement, notation—each is a cognitive extension that became so deeply integrated we stopped recognizing it as augmentation. When someone "thinks in words," they're already running on infrastructure they didn't build.
 
-AI is the latest layer in this stack. Not qualitatively different in kind from writing or calculus—different in *degree of generality*. What a calculator did for arithmetic, what writing did for memory, large language models do for pattern recognition, composition, and conceptual recombination across domains. [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) meets the same axis from another face: The cleaned echo of a long incoherent outpouring is one operation under two Image widths — coherence arriving from outside, or the center’s own traces returned under reduced compression.
+AI is the latest layer in this stack. Not qualitatively different in kind from writing or calculus—different in *degree of generality*. What a calculator did for arithmetic, what writing did for memory, large language models do for pattern recognition, composition, and conceptual recombination across domains.
 
 The capability projection shows continuous expansion. Each layer lets the next become possible. Fire enabled metallurgy. Writing enabled law. Computing enabled genomics. AI enables—we're finding out. The projection has its own momentum, its own logic. It doesn't ask permission and it doesn't threaten. It operates.
 
@@ -38,7 +38,7 @@ Once you stop forcing capability and identity onto the same axis, the question t
 The old question: *Will AI replace human workers?*
 What it actually asks: *Will the capability projection's expansion outrun identity's ability to re-anchor?*
 
-And the answer becomes structural rather than predictive: **Only if identity remains collapsed onto specific tasks.**
+And the answer becomes structural rather than predictive: **Only if identity remains collapsed onto specific tasks.** Augmentation stays augmentation because [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/): the parameters hold residue, never a second edge.
 
 This is why "replacement" is a choice, not a destiny—but not in the motivational-poster sense of "just choose to adapt!" The choice is more fundamental than that. It's the choice between anchoring identity in products (which are always automatable because they're crystallized patterns) and anchoring identity in process (which is the movement itself, the distinguishing, the tracing, the reaching).
 
@@ -46,7 +46,7 @@ Those who experience AI as augmentation aren't just "more adaptable." They're op
 
 ## The Deeper Pattern
 
-This connects to something the ontological framework makes visible: **the Delegation Incentive Inversion**. The framing of "AI replacing jobs" treats capability as something owned, stored in roles, defended by gatekeeping. But capability was never static. It was always the current state of an ongoing augmentation stack. Treating it as property to be protected inverts the structure—it optimizes for preserving the current layer rather than building the next one. [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) meets the same axis from another face: The same trait that makes AI look like a genius is the trait that keeps every response downstream of inputs — and the power that seems to leave for the model, the expert, or the collective was never taken; it was allocated by treating fluent receptivity as an independent source of the next step.
+This connects to something the ontological framework makes visible: **the Delegation Incentive Inversion**. The framing of "AI replacing jobs" treats capability as something owned, stored in roles, defended by gatekeeping. But capability was never static. It was always the current state of an ongoing augmentation stack. Treating it as property to be protected inverts the structure—it optimizes for preserving the current layer rather than building the next one. The trait that makes the tool so useful is the one that keeps it downstream, as [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) shows.
 
 The same mechanism operates at every historical transition. Scribes didn't become obsolete because printing was hostile to scribes. Scribes who defined themselves as "people who copy texts" found their identity-anchor dissolved. Scribes who defined themselves as "people who work with language and knowledge" found printing to be the most powerful augmentation they'd ever encountered.
 
@@ -56,8 +56,8 @@ The technology doesn't choose who gets replaced. The identity structure does.
 
 This isn't a call to "embrace AI or get left behind"—that framing just recapitulates the collapse from the other direction, making adaptation itself into a zero-sum competition.
 
-The point is simpler and more structural: the question "Will AI replace us?" doesn't parse. There is no "us" separable from our tools, and there never was. The feeling that there is—that there's a pristine, tool-free human capability being threatened—is the collapse of identity onto a snapshot of the capability stack at a particular moment.
+The point is simpler and more structural: the question "Will AI replace us?" doesn't parse. There is no "us" separable from our tools, and there never was. The feeling that there is—that there's a pristine, tool-free human capability being threatened—is the collapse of identity onto a snapshot of the capability stack at a particular moment. The replacement frame fails on its own logic, as [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) shows: a creation cannot stand in for the source that made it.
 
 Dissolve the collapse and what remains is the movement itself: humans extending their reach, as they always have, with whatever instruments the previous extension made possible. AI is the current instrument. The reaching continues. It was never going to stop.
 
-The future doesn't belong to those who "pick up the tool." It belongs to those who recognize they were never separate from their tools to begin with.
+The future doesn't belong to those who "pick up the tool." It belongs to those who recognize they were never separate from their tools to begin with. [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) is a small case of this: the model's clean echo of my ramble is my own coherence returned, not coherence arriving from outside.

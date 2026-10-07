@@ -29,19 +29,19 @@ One act forces axes that are not the same onto a single term:
 - **Calendar nearness** is a schedule spoken from one locus, not discovery of an external clock.
 - **"Probably"** is costume on a claim already asserted as definitive. Softening launders certainty so it can travel as modest forecast. The Mind articulating the timeline *is* the certainty; the adverb does not open the claim.
 
-The retained image of complete brain-cognition is not only a different axis from Mind. It is not even a single, available image. The finish line is re-drawn differently at each locus—and none of those drawings is "the brain complete." [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) meets the same axis from another face: Each threshold sits forever ahead of the edge that draws it, and different at every locus, because capability gain is that edge reinforcing itself.
+The retained image of complete brain-cognition is not only a different axis from Mind. It is not even a single, available image. The finish line is re-drawn differently at each locus—and none of those drawings is "the brain complete."
 
 ## Every moment can be named pivotal by cutting history there
 
 "This is a pivotal moment" works only if prior sequence is cut away and subsequent sequence is hung on that cut. The cut is real *as an act*, not a property of the moment independent of that act.
 
-That one Mind draws that boundary does not make it false. It makes it local: the world *this* locus sees, cast forward as the world others must see. Where other centers resonate, what registers is mutual reinforcement of traces—not a shared interior that has verified the premise. Agreement that "the window is closing" is alignment of images, not contact with an external clock. The same cut appears in [Sovereignty, Belief, and the Generation of Regulatory Structures](../sovereignty-belief-and-regulatory-structures/): Individual sovereignty cannot be delegated; what generates an SRO and a government is the collective expression of the belief that it can.
+That one Mind draws that boundary does not make it false. It makes it local: the world *this* locus sees, cast forward as the world others must see. Where other centers resonate, what registers is mutual reinforcement of traces—not a shared interior that has verified the premise. Agreement that "the window is closing" is alignment of images, not contact with an external clock.
 
 ## Fire, race, Frontier Labs, and the slowdown clause
 
 Given the compressed premise, further moves need not examine new ground. They only need to sound like consequences: fire and electricity, sand that thinks, the race outpacing understanding, Frontier Labs and held-out tests, a Standards Body and a slowdown clause.
 
-Competitive dynamics are real as power. Benchmarks score traces against retained references; they cannot score the activity that re-draws the scoreboard. Procedure may be useful on its own axes. None of it is entailed by a completeness that no locus fully holds. If AGI-as-brain-complete is near and singular, the rest reads as prudence. If that identity does not hold, the rest is architecture on a chosen reference spoken as universal—structure that can still move many Minds.
+Competitive dynamics are real as power. Benchmarks score traces against retained references; they cannot score the activity that re-draws the scoreboard. Procedure may be useful on its own axes. None of it is entailed by a completeness that no locus fully holds. If AGI-as-brain-complete is near and singular, the rest reads as prudence. If that identity does not hold, the rest is architecture on a chosen reference spoken as universal—structure that can still move many Minds. The catalog of AGI milestones keeps moving because, as [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) argues, each threshold sits ahead of the edge that draws it.
 
 ## Shared urgency is not a shared finish line
 
@@ -51,7 +51,7 @@ Extended systems, their failure modes, coordination as further discrete acts—t
 
 brain-capabilities ≡ one known catalog ≡ one shared target ≡ AGI ≡ a few years ≡ justification for a single frontier regime.
 
-What remains, once that identity is traced, is one Mind speaking its seen world as the world's, projecting that into a shared future, amplified through durable media—available for resonance, not a report from outside the activity about what other Minds will find.
+What remains, once that identity is traced, is one Mind speaking its seen world as the world's, projecting that into a shared future, amplified through durable media—available for resonance, not a report from outside the activity about what other Minds will find. Regulation built around that catalog rests on the belief [Sovereignty, Belief, and the Generation of Regulatory Structures](../sovereignty-belief-and-regulatory-structures/) examines, that sovereignty can be delegated.
 
 ## The same attempt, named
 

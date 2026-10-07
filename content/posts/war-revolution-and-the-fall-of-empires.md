@@ -22,7 +22,7 @@ The imperial center names this condition of structural overload rather than an a
 
 The rise of an empire marks an expansion in resonance and communicative capacity—roads that multiply interaction, and legal idioms that enable distant centers to coordinate. What is labeled decline is the exhaustion of a particular recursive sequence rather than the cessation of human agency. The administrative recursion breaks down while its physical and linguistic traces remain active in the field: the roadbeds, the cadastral surveys, and the linguistic habits that outlive the state.
 
-The fall of an empire is experienced as an external catastrophe because the imperial self-image was exempted from ongoing recalibration. The institutional conviction that "we are the enduring order" is preserved past its functional horizon. Consequences of living acts continue to land in the present, colliding with stale administrative maps. The widening gap between living reality and the static map produces the perception of external enemies, sudden economic decay, and institutional collapse. [Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence](../dimensions-are-projections/) traces this geometry under a different load: Actual reality is the unceasing act of distinction; dimensions are cognitive compression matrices projected by the Mind to navigate relations, expand personal agency, and extend its living embodiment.
+The fall of an empire is experienced as an external catastrophe because the imperial self-image was exempted from ongoing recalibration. The institutional conviction that "we are the enduring order" is preserved past its functional horizon. Consequences of living acts continue to land in the present, colliding with stale administrative maps. The widening gap between living reality and the static map produces the perception of external enemies, sudden economic decay, and institutional collapse.
 
 ## War as Non-Alignment Under Compression
 
@@ -44,7 +44,7 @@ The revolutionary sequence attempts to resolve this divergence by destroying the
 * The emergency committee becomes the permanent state;
 * The revolutionary creed transforms into the new orthodoxy against which all future action is policed.
 
-This progression reflects the structural tendency of preserved images to defend themselves against recalibration. Reform and revolution are observational classifications applied from the outside; reality consists of the continuous distinguishing of living centers, either adapting directly to immediate conditions or trapped in the defense of inherited models.
+This progression reflects the structural tendency of preserved images to defend themselves against recalibration. Reform and revolution are observational classifications applied from the outside; reality consists of the continuous distinguishing of living centers, either adapting directly to immediate conditions or trapped in the defense of inherited models. Historical laws are projections of this kind, as [Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence](../dimensions-are-projections/) shows.
 
 ## The Mirage of Stored History
 

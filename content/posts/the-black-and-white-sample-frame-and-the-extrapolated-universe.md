@@ -42,11 +42,11 @@ graph TD
     style MathematicalAbstraction fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
 ```
 
-正如[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)所揭示的，只要信息在形式变换中保持守恒，符号游戏便能制造出一种“完美宇宙模型”的智力自洽。对于大众而言，这一神话更为坚不可摧。极少有人亲自推导那些庞大复杂的张量方程，人们之所以对大爆炸与四维时空深信不疑，仅仅因为那是学术机构背书的既定常识。然而，正如[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所指出的，所谓既定科学只是特定框架下的低维出清价；即便在顶级理论家之间，不同学派对同一套数学形式的内在理解也截然不同。[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)在另一种负载下描摹了同一几何：形式模型、宏观摩擦，以及未被定律决定的现实。
+正如[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)所揭示的，只要信息在形式变换中保持守恒，符号游戏便能制造出一种“完美宇宙模型”的智力自洽。对于大众而言，这一神话更为坚不可摧。极少有人亲自推导那些庞大复杂的张量方程，人们之所以对大爆炸与四维时空深信不疑，仅仅因为那是学术机构背书的既定常识。然而，正如[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所指出的，所谓既定科学只是特定框架下的低维出清价；即便在顶级理论家之间，不同学派对同一套数学形式的内在理解也截然不同。
 
 ---
 
-Within our severely limited observational window, the cosmos exhibits a powerful illusion of stability. The stars appear fixed in the night sky, planets cycle through predictable orbits, and gravitational acceleration remains steady at human scales. Over an infinitesimal baseline (Δt approaching 0), any real scientific instrument requires a finite exposure window to capture signals—physics effectively collects the most adjacent frames of the living movie. Because this exposure interval is exceedingly brief, the image remains relatively stable across these immediate frames, and human perception naturally treats the local environment as a self-contained, closed, and static equilibrium system. [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) traces this geometry under a different load: Formal Models, Macroscopic Friction, and a Reality Undetermined by Law.
+Within our severely limited observational window, the cosmos exhibits a powerful illusion of stability. The stars appear fixed in the night sky, planets cycle through predictable orbits, and gravitational acceleration remains steady at human scales. Over an infinitesimal baseline (Δt approaching 0), any real scientific instrument requires a finite exposure window to capture signals—physics effectively collects the most adjacent frames of the living movie. Because this exposure interval is exceedingly brief, the image remains relatively stable across these immediate frames, and human perception naturally treats the local environment as a self-contained, closed, and static equilibrium system.
 
 This felt invariance of immediate perception invites the most insidious category jump in theoretical physics: because the local environment behaves like a static, isolated box over brief intervals, mathematicians casually strip irreversible physical time out of their equations. Once living causality is removed and reality is reduced to a frozen slice, arbitrary dimensional projections become child's play on paper.
 
@@ -98,11 +98,11 @@ graph LR
 
 在这张黑白采样帧中，只剩下了孤立的点、坐标轴与数值向量。更荒谬的是，物理学不仅满足于对这一单帧进行数学描述，它进而把这一张被高度抽空的黑白幻灯片，沿虚构的时间轴向前后拉伸，制造出一个四维静态几何体，并宣称这个由单一采样帧外推出来的数学挤压体，才是宇宙的全部真相。
 
-正如[时间是因果，不是维度](../time-is-causality-not-a-dimension/)所阐明的，将时间视为第四个空间维度，本质上就是把电影胶片一次性全部摊开在桌面上。但宇宙中没有任何一个人能够站在桌子之外审视整条胶片；你所拥有的全部物理现实，就是放映机光束穿透当前胶片的那一瞬间。[当电子开始思考](../when-electrons-think/)从另一面触及同一条轴线：光速渲染率、无质量动态波与宏观确定性的诞生。
+正如[时间是因果，不是维度](../time-is-causality-not-a-dimension/)所阐明的，将时间视为第四个空间维度，本质上就是把电影胶片一次性全部摊开在桌面上。但宇宙中没有任何一个人能够站在桌子之外审视整条胶片；你所拥有的全部物理现实，就是放映机光束穿透当前胶片的那一瞬间。
 
 ---
 
-Reality is not an inert geometric artifact displayed in a glass museum case. In lived experience and physical action, the universe is a high dynamic range (HDR) movie playing forward in real time. Every tick of the clock brings irreversible thermodynamic dissipation, metabolic stress, and the injection of a novel causal distinction (+1). The past exists only as settled residue; the future is unwritten potential; only the unfolding present possesses ontological reality. [When Electrons Think](../when-electrons-think/) meets the same axis from another face: The Rendering Velocity of Light, Massless Dynamic Waves, and the Emergence of Determinism.
+Reality is not an inert geometric artifact displayed in a glass museum case. In lived experience and physical action, the universe is a high dynamic range (HDR) movie playing forward in real time. Every tick of the clock brings irreversible thermodynamic dissipation, metabolic stress, and the injection of a novel causal distinction (+1). The past exists only as settled residue; the future is unwritten potential; only the unfolding present possesses ontological reality.
 
 Yet theoretical physics begins its modeling through a violent act of reduction. It collects the most adjacent frames of this unfolding movie over an infinitesimal exposure window. Because the interval is so brief, the scene appears remarkably stable. Physics then performs a decisive averaging operation: it smooths across these adjacent frames, averaging out micro-fluctuations, living flickers, and metabolic noise into a single, highly stable composite "average frame."
 
@@ -309,7 +309,7 @@ Because spatial expansion in this single frozen snapshot was encoded as an algeb
 Next, they projected the same equations forward into infinity, letting the pixels drift apart indefinitely. When pixel spacing stretches to infinity and mathematical energy density approaches zero, they declared another cosmic boundary: the "death of time," or the Heat Death.
 
 Finally, physics took this mathematical extrusion—expanding from a single point into infinite dilution—and extruded it along a geometric axis, naming the resulting static sculpture the "Block Universe." In this synthetic toy world, time was stripped of its generative advance and reduced to static worldlines etched inside a frozen four-dimensional crystal.
-* Theorists even inverted reality itself, claiming that the real-time playback of the movie is a subjective trick of the human brain, and that past, present, and future are all physically co-present in the static four-dimensional slab.
+* Theorists even inverted reality itself, claiming that the real-time playback of the movie is a subjective trick of the human brain, and that past, present, and future are all physically co-present in the static four-dimensional slab. Extrapolating the frame into law is the sleight of hand [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) exposes.
 
 As warned in [The Continuum is a Modeling Convenience, Not Physical Reality](../the-continuum-is-a-modeling-convenience/), when a mathematical function shoots toward infinity or collapses into a singularity at its limits, it never reveals a physical wall of the cosmos; it reveals the breakdown of the mathematical model itself. The Big Bang and the Heat Death are not bookends of reality. They are the mathematical debris left behind when an abstract, frozen sample frame is violently extrapolated to infinity on a piece of paper.
 
@@ -317,7 +317,7 @@ As warned in [The Continuum is a Modeling Convenience, Not Physical Reality](../
 
 ## 六、 归还测量者：从投影神话重返活的因果前进 / 6. Returning the Observer: From Projection Myth to Living Causal Advance
 
-科学的实用性无需被否定。相对论与量子力学如同人类绘制的极其精准的二维地图。墨卡托投影虽然把两极拉伸到了无限大，虽然严重扭曲了陆地的面积对比，但只要航海家严格按照地图上的角度航行，他就能安全抵达彼岸。地图在实用上极度有用，因为它完整地保留了航行所需的所有相对关系信息。
+科学的实用性无需被否定。相对论与量子力学如同人类绘制的极其精准的二维地图。墨卡托投影虽然把两极拉伸到了无限大，虽然严重扭曲了陆地的面积对比，但只要航海家严格按照地图上的角度航行，他就能安全抵达彼岸。地图在实用上极度有用，因为它完整地保留了航行所需的所有相对关系信息。把取样框外推为定律，正是[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所揭示的戏法。
 
 但致命的灾难在于，现代科学的解说者忘记了这只是一张地图。他们指着地图上无限延展的北极边缘说：看，大地的尽头是一堵无限宽广的冰墙；他们指着被拉伸成单点的原点说：看，时间诞生于一个无穷小的像素。
 
@@ -347,7 +347,7 @@ graph TD
 
 宇宙没有被打印在任何一张四维全景胶片上。不存在一个上帝之眼站在万物之外审视全局，也不存在一个静止的宇宙模型能够涵盖整个宇宙的演化。宇宙的全部真实性，就存在于此时此刻每一个生命主体所做出的真实因果决断与不可逆的代谢步进（+1）之中。
 
-不要再崇拜那张被脱色、被冻结、被拉伸至无穷的黑白幻灯片。收回投向虚构四维晶体的敬畏目光，回到正在播放的现实电影之中——在这里，因果是鲜活的画布，选择是不可约的自由变量，而未来正等待着由当下的一笔一划亲手写就。
+不要再崇拜那张被脱色、被冻结、被拉伸至无穷的黑白幻灯片。收回投向虚构四维晶体的敬畏目光，回到正在播放的现实电影之中——在这里，因果是鲜活的画布，选择是不可约的自由变量，而未来正等待着由当下的一笔一划亲手写就。[当电子开始思考](../when-electrons-think/)在电子的尺度上展示了同样被冻结的画面。
 
 ---
 
@@ -357,7 +357,7 @@ The fatal intellectual tragedy occurs when popular science and institutional aca
 
 As this lattice of inquiry has consistently demonstrated: **we are measuring the universe with our own mind. Everything begins with the mind, remains within the mind, and concludes within the mind.**
 
-The fundamental constants of modern physics are not iron bars of an external cage trapping human consciousness. They are the operational bandwidth, resolution, and viewport boundaries of the mind's measuring apparatus. The speed of light is the maximum refresh rate of perceptual causal registration; the Planck constant is the minimum pixel pitch of discrete measurement; General Relativity and gravitational metric curvature are the geometric compensations required when projecting a finite observational envelope across a global background.
+The fundamental constants of modern physics are not iron bars of an external cage trapping human consciousness. They are the operational bandwidth, resolution, and viewport boundaries of the mind's measuring apparatus. The speed of light is the maximum refresh rate of perceptual causal registration; the Planck constant is the minimum pixel pitch of discrete measurement; General Relativity and gravitational metric curvature are the geometric compensations required when projecting a finite observational envelope across a global background. [When Electrons Think](../when-electrons-think/) shows the same frozen frame at the scale of electrons.
 
 The cosmos is not printed on an unrolled four-dimensional film strip. There is no external God's-eye camera observing the totality from nowhere, and no static mathematical model will ever capture the open living reality of the universe. The entire reality of the cosmos resides in the present moment, in the irreversible metabolic work and the sovereign causal choices of conscious agents advancing frame by frame (+1).
 

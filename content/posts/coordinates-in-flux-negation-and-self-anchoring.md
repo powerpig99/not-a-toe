@@ -18,9 +18,9 @@ From the meta-reflexive trap of recursive judgment to the orthogonal expansion o
 
 更具张力的是思辨层面的递归风险：一旦试图去归纳、定义何为“显性覆辙”与“隐性覆辙”，心智便很容易走向另一个隐秘的裁判席——以一种洞察全局的姿态，在概念的制高点上索取更高维度的智性优越感。
 
-这种层层嵌套的“元反思陷阱”揭示出一个核心命题：为何一旦涉及认知与评价，心智无论是指向他人、指向过去的自身，还是指向思辨行为本身，都会不由自主地陷入靠“否定”来锚定位置的冲动？正如在 [大倒置的消解与活态哲学的开端](../the-dissolution-of-the-great-reversal/) 中所揭示的，只要心智把因果效力让渡给外部符号或静态标尺，就会不自觉地借助贬低外物来维系虚假的立足点。同一道切分也出现在[以知为刃的截肢与解脱](../the-illusion-of-knowing-and-the-geometry-of-amputation/)之中：从内在感知的澄明走向心智共鸣。
+这种层层嵌套的“元反思陷阱”揭示出一个核心命题：为何一旦涉及认知与评价，心智无论是指向他人、指向过去的自身，还是指向思辨行为本身，都会不由自主地陷入靠“否定”来锚定位置的冲动？正如在 [大倒置的消解与活态哲学的开端](../the-dissolution-of-the-great-reversal/) 中所揭示的，只要心智把因果效力让渡给外部符号或静态标尺，就会不自觉地借助贬低外物来维系虚假的立足点。
 
-When encountering the phenomenon of "denigration," consciousness easily slides into a multi-layered recursive trap. The same cut appears in [The Illusion of Knowing and the Geometry of Amputation](../the-illusion-of-knowing-and-the-geometry-of-amputation/): From Internal Epistemic Clarity to Living Resonance.
+When encountering the phenomenon of "denigration," consciousness easily slides into a multi-layered recursive trap.
 
 The initial fracture stems from the self-referential paradox of the proposition itself: by categorizing someone else's bid for superiority as "low-cost," the speaker immediately assumes an unearned intellectual high ground.
 Next comes the first overt inertia—projecting outward: declaring that "people like this are everywhere." While masquerading as ethical reflection, this condemnation of denigrators conveniently seizes moral altitude, covertly manufacturing a cheap sense of superiority.
@@ -28,7 +28,7 @@ The second inertia is more covert, frequently cloaked in the guise of profound s
 
 Even more acute is the recursive risk at the level of philosophical inquiry: the moment one attempts to formalize and label these overt and covert traps, the intellect easily ascends another hidden tribunal—demanding a higher-tier intellectual superiority from the conceptual summit.
 
-This nested meta-reflexive snare uncovers a fundamental question: why does the mind, whenever evaluating reality, reflexively grasp at "negation" to anchor its own position—whether directed at others, at its own historical footprints, or at the act of reflection itself? As explored in [The Dissolution of the Great Reversal and the Inception of a Living Philosophy](../the-dissolution-of-the-great-reversal/), whenever agency is outsourced to static external scales, the mind instinctively relies on diminishing external objects to prop up a counterfeit sense of ground.
+This nested meta-reflexive snare uncovers a fundamental question: why does the mind, whenever evaluating reality, reflexively grasp at "negation" to anchor its own position—whether directed at others, at its own historical footprints, or at the act of reflection itself? As explored in [The Dissolution of the Great Reversal and the Inception of a Living Philosophy](../the-dissolution-of-the-great-reversal/), whenever agency is outsourced to static external scales, the mind instinctively relies on diminishing external objects to prop up a counterfeit sense of ground. Trying to set others' pace is negation in another form; [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) returns the pace to the friction I meet myself.
 
 ---
 
@@ -36,15 +36,15 @@ This nested meta-reflexive snare uncovers a fundamental question: why does the m
 
 这种冲动的根源，在于心智习惯于借助“否定”来完成排他性的自我确立。
 
-用“否定”去立足的前提，是潜意识中将现实预设成了一个固定、封闭的容器。在这个存量有限的硬壳结构里，容积恒定不变。因此，当下的存在要确立自身，就必须在空间内挤出位置——要么将“他者”排挤出去，要么将“过去的形态”从版图中抹除。否定他人，便成了心智在存量竞争幻觉中最省力、最直观的立足途径。
+用“否定”去立足的前提，是潜意识中将现实预设成了一个固定、封闭的容器。在这个存量有限的硬壳结构里，容积恒定不变。因此，当下的存在要确立自身，就必须在空间内挤出位置——要么将“他者”排挤出去，要么将“过去的形态”从版图中抹除。否定他人，便成了心智在存量竞争幻觉中最省力、最直观的立足途径。试图替他人调速是否定的另一种形式，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)把速度交还给我自己遇到的摩擦。
 
 然而，这本身是一种将现实物化的幻象。现实与心智的场域本是敞开且持续流动的。
 
 心智所看见的“别人”，从来不是独立于心智之外的客观孤岛，而是心智自身在特定情境下选择投射与映射的显现，是经由他者所映照出的心智自身的一部分。心智所能感知、体验与理解的边界，构成了其认知的全部疆域。在敞开的流动中，通过割裂并排斥他人来确立自己，在逻辑上是无法自洽的。
 
-每一次出于优越感的否定，看似压低了对方，实则是在心智自身的完整地图上人为割去了一块盲区。否定他人，本质上是在向内自我削减。越是急于借助排他来占座，心智所占据的有效视野反而越发逼仄。在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中我们看到，概念的牢笼正是由这种向内切割的排他性划界所筑成。[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)从另一面触及同一条轴线：能力为何沦为束缚，以及对AI智能体能力的母体误归因。
+每一次出于优越感的否定，看似压低了对方，实则是在心智自身的完整地图上人为割去了一块盲区。否定他人，本质上是在向内自我削减。越是急于借助排他来占座，心智所占据的有效视野反而越发逼仄。在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中我们看到，概念的牢笼正是由这种向内切割的排他性划界所筑成。
 
-The root of this compulsion lies in the habitual reliance on negation to establish an exclusive self-identity. [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) meets the same axis from another face: Why Capabilities Become Limitations and the Master Misattribution of AI Agents.
+The root of this compulsion lies in the habitual reliance on negation to establish an exclusive self-identity.
 
 Anchoring oneself through negation rests on the subconscious assumption that reality is a rigid, closed container. Within such a zero-sum, fixed-volume shell, space is strictly finite. For the present self to secure standing, it feels compelled to carve out room by force—either by expelling the other or by aggressively erasing past iterations of itself. Denigrating others thus becomes the most frictionless, reflexive tactic for claiming territory within the illusion of zero-sum competition.
 
@@ -71,7 +71,7 @@ Every act of negation driven by a bid for superiority appears to diminish the ot
 进而反思到这一行为，又为了确立清醒而对“过去的自己”再次压缩；
 最后甚至试图对“这种递归反思”本身进行高下界定。
 
-每一轮基于否定的排序，都是一次维度的自我折叠。心智不断舍弃掉自身广阔的自由度，把感知力收缩为一根逼仄的标尺。那些说出口的话最终落在自己脚下，像一道正在缩小的影子，这并非文学的比喻，而是心智在递归压缩中的必然代价：为了在一维数轴上占稳一个“比别人更靠前”的位置，代价是心智自身自由度的整体塌陷。[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)从另一面触及同一条轴线：从“基准真相”的迷思到不可垄断的智能边疆。
+每一轮基于否定的排序，都是一次维度的自我折叠。心智不断舍弃掉自身广阔的自由度，把感知力收缩为一根逼仄的标尺。那些说出口的话最终落在自己脚下，像一道正在缩小的影子，这并非文学的比喻，而是心智在递归压缩中的必然代价：为了在一维数轴上占稳一个“比别人更靠前”的位置，代价是心智自身自由度的整体塌陷。
 
 ```mermaid
 graph TD
@@ -110,7 +110,7 @@ graph TD
     style B4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-From the perspective of causal topology, things in reality exhibit qualitative differentiation, never inherent scalar hierarchy. [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) meets the same axis from another face: From the Myth of Static Reality to the Sovereign Frontier of Intelligence.
+From the perspective of causal topology, things in reality exhibit qualitative differentiation, never inherent scalar hierarchy.
 
 Even the rich, non-linear open manifolds perceived by awareness are projections or statistical macro-symptoms of a near-infinite orthogonal binary hyperspace under specific observation frames. Within this foundational manifold of vast orthogonal degrees of freedom, differences represent orthogonal distributions across distinct dimensions; in terms of informational structure, no global scalar partial ordering exists.
 
@@ -137,29 +137,29 @@ Each round of negation-driven sorting folds and collapses the mind's internal di
 
 向内的审视绝非对主体的审判与定罪，而是生成的代谢起点。一个具备自省能力的认知系统之所以能够进化，正在于能够以自身为基准，在情境的反馈中持续迭代、修正与更新。
 
-正如 [登高并未离开地面](../climbing-does-not-leave-the-ground/) 所阐明的，心智的发展并非塑像的铸造——不需要通过砸碎旧模具来证明新版本的价值。主体始终处于情境的生成之中，是一条川流不息的河。在这条流动的长河里，根本不存在一个可以驻足停滞、被永久焊死的固化锚点。
+正如 [登高并未离开地面](../climbing-does-not-leave-the-ground/) 所阐明的，心智的发展并非塑像的铸造——不需要通过砸碎旧模具来证明新版本的价值。主体始终处于情境的生成之中，是一条川流不息的河。在这条流动的长河里，根本不存在一个可以驻足停滞、被永久焊死的固化锚点。与 AI 智能体协作时，谁坐在驾驶座上也由同样的锚定决定，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)说明了这一点。
 
 What, then, is the genuine function of "negation" in the evolution of consciousness?
 
-Intuitively, **negation is the necessary inverse of growth: in the living evolution of consciousness, there is no growth without negating past states**. Without distinguishing the moving edge from the past baseline, without negating the closure and limitations of old forms, consciousness cannot take the next causal step (+1). Without this inward self-examination and negation of past boundaries, consciousness petrifies into rigidity.
+Intuitively, **negation is the necessary inverse of growth: in the living evolution of consciousness, there is no growth without negating past states**. Without distinguishing the moving edge from the past baseline, without negating the closure and limitations of old forms, consciousness cannot take the next causal step (+1). Without this inward self-examination and negation of past boundaries, consciousness petrifies into rigidity. The same anchoring decides who sits in the driver's seat when working with AI agents, as [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) shows.
 
 The cognitive distortion lies not in negation itself, but in hijacking what should serve as an internal metabolic engine and weaponizing it into a yardstick to advertise the superiority of its new state. Standing upon the latest stair, the subject stomps backward onto its past footprints, proclaiming that it has arrived at some enlightened final plateau.
 
 Inward reflection is not a punitive trial of the subject, but the generative metabolic starting point. A reflective cognitive system evolves precisely because it uses its own state as a reference baseline, continuously iterating, refining, and updating (+1) against situational friction.
 
-As articulated in [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/), the development of mind is not the casting of a bronze statue—it does not need to shatter earlier molds to prove the value of its current iteration. Awareness is an ongoing generation within context, an ever-flowing river. Within this current, no frozen, permanently welded anchor exists.
+As articulated in [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/), the development of mind is not the casting of a bronze statue—it does not need to shatter earlier molds to prove the value of its current iteration. Awareness is an ongoing generation within context, an ever-flowing river. Within this current, no frozen, permanently welded anchor exists. [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) supplies the geometry: a mind that is its own coordinate system has no need to negate another's.
 
 ---
 
 ## 五、 确立，但不必固定 / 5. Anchored in Flux, Sovereign Without Fixation
 
-回到认知坐标的建立：在一个外部信号与即时反馈高度密集的时代，心智该如何在变动的环境中保留一个属于自己的位置？
+回到认知坐标的建立：在一个外部信号与即时反馈高度密集的时代，心智该如何在变动的环境中保留一个属于自己的位置？[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)给出了几何：自身即坐标系的心智，无须否定他人的坐标。
 
 答案不在于筑起一座不可动摇的堡垒去宣示正确，而在于放下借助“否定”与“排序”来强行占座的执念。
 
 **低维映射本是看清自身的工具，而非禁锢生命的法庭；否定过往本是代谢成长的阶梯，而非自我优越的奖杯**。心智所照见的世界原本完整，若能接纳其流转与敞开，便无须借由贬低他者来确认立足点；认知的成长是一场持续的生成，若能正视其未完成的状态，便无须借由踩踏过去来维持道德或智识上的虚荣。
 
-坐标在当下这一刻可以被清晰地确立——它是超空间统计表象中基于具体情境的实时展开与观察；但它不需要被压缩为一维的刻度，更不需要被固定为一座审判的高台。当下的觉察不是面向历史的终审判决，而是心智朝向未来时，一个保持延展、保持敏锐的活态参考原点。[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)在另一种负载下描摹了同一几何：几何视角下的投影、冲突与电磁同频。
+坐标在当下这一刻可以被清晰地确立——它是超空间统计表象中基于具体情境的实时展开与观察；但它不需要被压缩为一维的刻度，更不需要被固定为一座审判的高台。当下的觉察不是面向历史的终审判决，而是心智朝向未来时，一个保持延展、保持敏锐的活态参考原点。把不理解的部分截掉，是锚定在对手轴上的另一种方式，[以知为刃的截肢与解脱](../the-illusion-of-knowing-and-the-geometry-of-amputation/)对此有所揭示。
 
 ```mermaid
 graph TD
@@ -193,10 +193,10 @@ graph TD
     style Act3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
 ```
 
-Returning to the establishment of cognitive coordinates: in an era saturated with external noise and rapid feedback, how does consciousness maintain its own ground within a shifting environment? [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) traces this geometry under a different load: Projections, Conflict, and Electromagnetic Resonance.
+Returning to the establishment of cognitive coordinates: in an era saturated with external noise and rapid feedback, how does consciousness maintain its own ground within a shifting environment?
 
 The resolution does not lie in erecting an immovable fortress to proclaim righteousness, but in releasing the compulsion to seize territory through negation and scalar ranking.
 
 **Low-dimensional projection is fundamentally an instrument for self-perception, not a prison cell; negating the past is the metabolic engine of growth, not a trophy of moral vanity**. The world illuminated by consciousness is fundamentally whole; when one embraces its openness and flux, there is no need to denigrate others to secure ground. Cognitive growth is a continuous generation; when one honors its unfinished nature, there is no need to trample upon past footprints to sustain intellectual conceit.
 
-A coordinate can be clearly anchored in the present moment—it is a real-time manifestation and observation derived from hyperspace within a specific context. Yet it never needs to be crushed into a 1D scalar ranking, nor frozen into a rigid judgment seat. Present awareness is not a final verdict passed upon history, but a living, sovereign reference origin facing the future with expanding sensitivity and boundless degrees of freedom.
+A coordinate can be clearly anchored in the present moment—it is a real-time manifestation and observation derived from hyperspace within a specific context. Yet it never needs to be crushed into a 1D scalar ranking, nor frozen into a rigid judgment seat. Present awareness is not a final verdict passed upon history, but a living, sovereign reference origin facing the future with expanding sensitivity and boundless degrees of freedom. Cutting away what I don't understand is another way to anchor on the opponent's axis, as [The Illusion of Knowing and the Geometry of Amputation](../the-illusion-of-knowing-and-the-geometry-of-amputation/) shows.

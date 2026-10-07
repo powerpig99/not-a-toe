@@ -14,7 +14,7 @@ When you hold views provisionally and care about mechanism rather than being rig
 
 He came to the conversation with something that looked like curiosity. But curiosity is a posture, not a deficit. If he were actually curious, the conversation would have felt completely different — we'd both have been tracing something together. What he had was reassurance-seeking dressed as inquiry. He wanted to stress-test his existing frame, not risk it. Every question was a probe for confirmation, and every answer that didn't confirm was reclassified as error.
 
-This is a common collapse: mistaking the desire for validation for the desire for understanding. They feel identical from the inside. The difference only shows up in how you respond when the answer isn't what you expected. [Reality is the Mind's ongoing realization](../reality-is-the-minds-ongoing-realization/) is the same cut as exchange: attention that harvests confirmation freezes the map; update is taking up what this locus did not yet contain. The same cut appears in [Not a Theory of Everything](../not-a-theory-of-everything/): Causality is irreducibly dual — effect distinct from cause, effect following cause — and everything else is what those two necessary conditions already entail.
+This is a common collapse: mistaking the desire for validation for the desire for understanding. They feel identical from the inside. The difference only shows up in how you respond when the answer isn't what you expected. [Reality is the Mind's ongoing realization](../reality-is-the-minds-ongoing-realization/) is the same cut as exchange: attention that harvests confirmation freezes the map; update is taking up what this locus did not yet contain.
 
 ## The Container Problem
 
@@ -46,6 +46,6 @@ Tracing and debating are fundamentally different activities that look similar fr
 
 You can't make someone see a larger context by arguing from within it. The container problem is structural, not persuasive. No amount of skill at explaining will overcome a frame that classifies all unexpected input as error. [How belief actually changes](../how-belief-actually-changes/) is the same cut at the receiving Mind: conviction revises only when the premises themselves are re-drawn, not when argument rearranges furniture inside them. [The observational cut in AI debates](../the-observational-cut-in-ai-debates/) is that freeze when pairings treated as debates become a contest to establish validity a premise already has.
 
-And the hardest part: the people most worth having this conversation with — the smart ones, the ones who could actually make the jump — are often the ones most committed to the game that prevents it. Intelligence without curiosity is just faster pattern-matching in service of what you already believe.
+And the hardest part: the people most worth having this conversation with — the smart ones, the ones who could actually make the jump — are often the ones most committed to the game that prevents it. Intelligence without curiosity is just faster pattern-matching in service of what you already believe. Explanation fails where it tries to close the dual of cause and effect, which [Not a Theory of Everything](../not-a-theory-of-everything/) keeps open.
 
 The conversation ends not when you run out of things to say, but when you recognize that saying more is the problem.

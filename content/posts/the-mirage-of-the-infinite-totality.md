@@ -10,7 +10,7 @@ Infinity is that potentiality itself. It is the inexhaustible remainder that can
 
 ## The Two Faces of the Coin: The Proper Epistemology
 
-The relationship between realized reality and open potentiality functions like the two sides of a single coin: The same cut appears in [The Other Coherence](../the-other-coherence/): Quantum phase alignment in a neuron is a physical mechanism timeable in a laboratory; the coherence through which an experienced world holds together as a single unified field while remaining open to what arrives next is an entirely different order of reality.
+The relationship between realized reality and open potentiality functions like the two sides of a single coin: Expanding the horizon is the geometry [The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon](../the-geometry-of-mind/) describes.
 
 * **The Realized Face**: The accumulated inventory of actualized distinctions—the historical record of consequences that have already landed in perception;
 * **The Potential Face**: The moving edge that remains open, available for subsequent differentiation and further steps;
@@ -21,7 +21,7 @@ Epistemic confusion oscillates between these two errors. The first demands that 
 
 The proper epistemology is exact: **knowing that both sides exist, and knowing that they cannot be observed in a single simultaneous glance**.
 
-An observer inspects the realized marks on one face, or turns the coin to engage the open edge. Both orientations belong to the same unified dynamic. The inability to collapse both stances into a single view is the structural proof of the coin’s dimensionality, rather than a justification for denying either face. [The Boundary of the Frame](../the-boundary-of-the-frame/) traces this geometry under a different load: Every formalized theory is a finite conceptual artifact bounded by its primary cut; when the observer and the causal background are forgotten, localized instruments calcify into static dogma.
+An observer inspects the realized marks on one face, or turns the coin to engage the open edge. Both orientations belong to the same unified dynamic. The inability to collapse both stances into a single view is the structural proof of the coin’s dimensionality, rather than a justification for denying either face. The coherence of an experienced world is not a totality but an ongoing holding together, as [The Other Coherence](../the-other-coherence/) shows.
 
 ## Hilbert and Aristotle: Potential Succession vs. Completed Collection
 
@@ -35,7 +35,7 @@ This observation is frequently misunderstood as a denial of infinity. Hilbert’
 
 Aristotle established this exact principle two millennia earlier: the infinite exists in the manner of a day or the Olympic games—through continuous, sequential generation, with one event arriving after another. It never exists as an already-assembled, simultaneous collection. 
 
-The conversion of potentiality into discrete actuality is an unending progression. Because this conversion never terminates, a completed infinity is never encountered as an object within reality. [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) traces this geometry under a different load: When intermediate causal bounces are occluded, ordinary consequences appear as baffling magic; perceived conflict is simply a missing causal link within our internal model, and tracing the rebound is the deliberate expansion of our own perceptual horizon toward coherent reality.
+The conversion of potentiality into discrete actuality is an unending progression. Because this conversion never terminates, a completed infinity is never encountered as an object within reality.
 
 ## Reconciling Causality with the First-Person Horizon
 
@@ -48,11 +48,11 @@ Tracing the generative act directly resolves this apparent dualism:
 * The causal continuum is the invariant rule of succession linking current distinctions to subsequent consequences;
 * The first-person horizon is the living aperture where this generative succession actively occurs.
 
-This grounding reconciles the causal fabric with the first-person stance. There is no requirement to invent an unobservable metaphysical realm beyond conscious experience. The infinite is the capacity of the living center to continue drawing distinctions, testing consequences, and navigating physical friction without ever encountering a final, closed boundary.
+This grounding reconciles the causal fabric with the first-person stance. There is no requirement to invent an unobservable metaphysical realm beyond conscious experience. The infinite is the capacity of the living center to continue drawing distinctions, testing consequences, and navigating physical friction without ever encountering a final, closed boundary. The finished infinity is a bank shot with its intermediate steps hidden, as [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) shows.
 
 ## The Living Edge of Reality
 
-Reality remains permanently open. At every step, the inventory of what has been actualized is bounded, measurable, and path-dependent. Yet the generative capacity that produces that inventory remains completely unconfined. [The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon](../the-geometry-of-mind/) traces this geometry under a different load: True growth is neither the defensive fortification of the ego nor its nihilistic erasure, but the alignment of the local sensor with the whole generative field of reality.
+Reality remains permanently open. At every step, the inventory of what has been actualized is bounded, measurable, and path-dependent. Yet the generative capacity that produces that inventory remains completely unconfined. Every totality is a frame with a boundary, as [The Boundary of the Frame](../the-boundary-of-the-frame/) shows.
 
 To mistake infinity for a completed totality is to confuse the map for the living territory, and the historical trace for the ongoing act:
 

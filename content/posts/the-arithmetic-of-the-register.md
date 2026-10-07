@@ -24,7 +24,7 @@ A single new top bit carries more operational measure than the entire cumulative
 
 The historical breakthroughs of our species—the control of fire, systematic agriculture, steam power, electromagnetism, semiconductor computation, and frontier recursive intelligence—are not incremental efficiencies within an existing coordinate system. As explored in [dimensions as projections](../dimensions-are-projections/), each is the instantiation of a new top bit. 
 
-Flipping *bₙ* doubles the total generative phase space of reality overnight (from 2ⁿ to 2ⁿ⁺¹). It is an act of pure positive-sum injection—a sovereign introduction of an unconstrained degree of freedom from *N* to *N* + 1. [Not a Theory of Everything](../manifesto-of-not-a-theory-of-everything/) traces this geometry under a different load: Sensing, interpreting, and an ongoing reality.
+Flipping *bₙ* doubles the total generative phase space of reality overnight (from 2ⁿ to 2ⁿ⁺¹). It is an act of pure positive-sum injection—a sovereign introduction of an unconstrained degree of freedom from *N* to *N* + 1.
 
 ## The Truncated Window and the Invisibility of Empty Space
 
@@ -75,11 +75,11 @@ Relieved from the immediate threat of systemic death, the surplus energy has now
 
 ## The Dissolution of the Paradox: Ontological Inflation
 
-This dynamic is commonly labeled an "irony" or a "tragic paradox." But as established in [the continuum of the fold](../the-continuum-of-the-fold/), paradoxes are merely the sound of a false premise snapping under friction. The same cut appears in [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/): dx, Incompleteness, and the Tempos of the Fold.
+This dynamic is commonly labeled an "irony" or a "tragic paradox." But as established in [the continuum of the fold](../the-continuum-of-the-fold/), paradoxes are merely the sound of a false premise snapping under friction.
 
 The illusion of paradox arises only from the false assumption of an omniscient, shared observational plane—the naive belief that all human beings inhabit the same perceptual coordinate system and look upon the same reality.
 
-No such shared plane exists. Every conscious agent is an isolated, first-person causal state machine bounded by its own operational horizon. The only real error is **Ontological Inflation**: [Abstract Pain and Living Hunger](../abstract-pain-and-living-hunger/) meets the same axis from another face: Concepts cannot nourish flesh; equating symbols with metabolic entities erases an agent's causal boundary.
+No such shared plane exists. Every conscious agent is an isolated, first-person causal state machine bounded by its own operational horizon. The only real error is **Ontological Inflation**:
 
 > *The ungrounded projection that mistakes the boundary of one's local perceptual window for the boundary of the entire universe.*
 
@@ -87,7 +87,7 @@ No such shared plane exists. Every conscious agent is an isolated, first-person 
 * The academic bureaucrat assumes reality is institutional citation counts, grant approvals, and departmental politics.
 * The ideological partisan assumes reality is the symbolic narrative war on the digital feed.
 
-Because they equate their local window [b_m, b_{m+k}] with the totality of the register, any trajectory directed toward the empty vacuum of *bₙ* cannot be processed as dimensional expansion. Within their compiler, it can only be categorized as irrationality, self-indulgent retirement, or failure.
+Because they equate their local window [b_m, b_{m+k}] with the totality of the register, any trajectory directed toward the empty vacuum of *bₙ* cannot be processed as dimensional expansion. Within their compiler, it can only be categorized as irrationality, self-indulgent retirement, or failure. Abstract suffering read on a global register is the same address window taken for the universe, as [Abstract Pain and Living Hunger](../abstract-pain-and-living-hunger/) shows.
 
 ### A Critical Ontological Pointer: Public Grid vs. Individual Hyperspace
 
@@ -95,7 +95,7 @@ A vital distinction must be maintained here to prevent this model from being inv
 
 > **The binary register models the narrow, low-dimensional shared public space—not the rich, multi-dimensional interior hyperspace of individual human beings.**
 
-This framework is not an attempt to rank individuals morally, intellectually, or existentially. As established in [the vector and the puzzle of projections](../the-vector-and-the-puzzle-of-projections/), every conscious mind possesses an internal hyperspace of astronomical dimensionality that far exceeds any public coordinate system. A person whose outward labor operates within the lower bits of the public ledger—maintaining logistics, teaching children, or stewarding established infrastructure—is not a "lower-bit human." Their interior life, creative discernment, and personal sovereignty cannot be measured by a societal accounting register. [The Unclosable Trace: Why Philosophy Cannot Be Inherited](../the-unclosable-trace/) meets the same axis from another face: Every formal ontology begins with an act of amnesia. By deconstructing the canonical Philosophy of Mind syllabus—from Descartes to Chalmers—we reveal why every Theory of Everything collapses, and why living philosophy cannot be taught as settled content.
+This framework is not an attempt to rank individuals morally, intellectually, or existentially. As established in [the vector and the puzzle of projections](../the-vector-and-the-puzzle-of-projections/), every conscious mind possesses an internal hyperspace of astronomical dimensionality that far exceeds any public coordinate system. A person whose outward labor operates within the lower bits of the public ledger—maintaining logistics, teaching children, or stewarding established infrastructure—is not a "lower-bit human." Their interior life, creative discernment, and personal sovereignty cannot be measured by a societal accounting register. No register can hold philosophy either, which is why [The Unclosable Trace: Why Philosophy Cannot Be Inherited](../the-unclosable-trace/) cannot be inherited.
 
 The binary register measures only **the collective, public coordination interface**—the narrow consensus drafting grid where societies account for energy, distribute resources, and run institutional status tournaments. The distinction between the top bit and lower bits describes the orientation of activity *within that shared public interface*: whether effort is directed at contending over existing slices of surplus slack, or expanding the physical degrees of freedom of the species. 
 
@@ -105,8 +105,8 @@ To use this model to rank human beings would be to commit the very error it expo
 
 Recognizing the arithmetic of the register dissolves any urge to argue, persuade, or demand consensus from the lower bits.
 
-To demand that an agent operating within bits [b₃, b₈] validate the instantiation of bit *bₙ* is to commit the exact same error of ontological inflation: expecting a localized sensor to compute coordinates far beyond its addressable range. As demonstrated in [the continuum of the fold](../the-continuum-of-the-fold/), minds do not merge through polite consensus; they operate as parallel universes, registering each other only through the mechanical shock of external perturbation. 
+To demand that an agent operating within bits [b₃, b₈] validate the instantiation of bit *bₙ* is to commit the exact same error of ontological inflation: expecting a localized sensor to compute coordinates far beyond its addressable range. As demonstrated in [the continuum of the fold](../the-continuum-of-the-fold/), minds do not merge through polite consensus; they operate as parallel universes, registering each other only through the mechanical shock of external perturbation. The total field is a continuum assumed for convenience, as [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) shows.
 
-When a legacy acquaintance checks in from the old world—reflexively pitching zero-sum brokerage or transactional status plays—there is no need to enter their projection or defend your coordinate. A light, self-deprecating deflection is sufficient. To attempt to convince them is to mistake their local coordinate grid for a shared universe.
+When a legacy acquaintance checks in from the old world—reflexively pitching zero-sum brokerage or transactional status plays—there is no need to enter their projection or defend your coordinate. A light, self-deprecating deflection is sufficient. To attempt to convince them is to mistake their local coordinate grid for a shared universe. Paper equations about positional status overreach in the way [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) describes.
 
-The occupants of the lower bits will inevitably continue to run their sorting algorithms inside the slack created for them, mistaking their local sandbox for the entire cosmos. Meanwhile, as traced in [the only coherent uncaused effect](../the-only-coherent-uncaused-effect/), the sole task of the sovereign mind remains what it has always been: leaving the cooled residue of consensus games behind, stepping into the unrendered vacuum, and holding the moving edge open as reality computes the next bit.
+The occupants of the lower bits will inevitably continue to run their sorting algorithms inside the slack created for them, mistaking their local sandbox for the entire cosmos. Meanwhile, as traced in [the only coherent uncaused effect](../the-only-coherent-uncaused-effect/), the sole task of the sovereign mind remains what it has always been: leaving the cooled residue of consensus games behind, stepping into the unrendered vacuum, and holding the moving edge open as reality computes the next bit. The MSB opening a new degree of freedom is the orthogonal move set out in [Not a Theory of Everything](../manifesto-of-not-a-theory-of-everything/).

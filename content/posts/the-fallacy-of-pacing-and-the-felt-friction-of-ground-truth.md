@@ -49,9 +49,9 @@ graph TD
 - 但这**并不意味着他拥有了为其他所有主体设定演进速度的合法性或物理能力**；
 - 一旦领跑者产生“我应当且能够替所有人把控技术节奏”的念头，他便将自身的局部坐标轴误认作了宇宙的全局参考系。
 
-跑得快是一回事，规定别人应该跑多快是另一回事。前者是第一人称主权行动的自然展开；后者则是将局部的速度优势，异化为对开放世界的家长制规训。正如在 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 中所阐释的，试图用单一标尺去度量与规训所有高维涌现，必然导致自由度的坍缩。同一道切分也出现在[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)之中：要么重构主权，要么沦为被校准的误差项。
+跑得快是一回事，规定别人应该跑多快是另一回事。前者是第一人称主权行动的自然展开；后者则是将局部的速度优势，异化为对开放世界的家长制规训。正如在 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 中所阐释的，试图用单一标尺去度量与规训所有高维涌现，必然导致自由度的坍缩。
 
-Leadership is fundamentally a **geometric concept**, not a **cybernetic mandate**. The same cut appears in [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/): Reclaim Sovereign Agency or Become the Error Term.
+Leadership is fundamentally a **geometric concept**, not a **cybernetic mandate**.
 
 When a team or pioneer achieves a breakthrough in artificial intelligence, aerospace engineering, or theoretical physics, what actually transpires is relative displacement achieved along a specific exploratory axis (such as compute scaling, architectural innovation, or theorem proving).
 
@@ -104,13 +104,13 @@ graph TD
 
 因为如果现实是一个静态的基准真相，就必然预设了一个脱离了所有第一人称感知透镜的“无处之境”（a view from nowhere）或上帝视角——而没有任何心智能够占据这样的视角。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，用静态概念去封存活态现实，是理性最易陷入的陷阱。
 
-**在活态的认识论实在中，基准真相从来不是一个静态的名词，而是模型在指引行动时与现实碰撞所感受到的活态摩擦（the felt friction of the model leading to the action with reality）。**[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)从另一面触及同一条轴线：能动性错置如何衍生表观风险与责任转嫁的次生后果。
+**在活态的认识论实在中，基准真相从来不是一个静态的名词，而是模型在指引行动时与现实碰撞所感受到的活态摩擦（the felt friction of the model leading to the action with reality）。**
 
 - **摩擦即是接触面**：当工程模型预测结构稳固，而在高速气动实验中遭遇剧烈震颤与撕裂时，那份物理阻抗与结构形变，就是行动所撞击到的活态摩擦；
 - **差异即是损失函数**：当算法模型预测某种模式成立，而在真实世界分布中遭遇预测失败时，那个意外读数就是模型与现实之间的活态摩擦；
 - **自指的即时校准**：真实的基准真相不是外部客观的现成答案，而是第一人称行动在当下（t）感受到的真实阻力。正是这份不可化约的阻力，构成了心智执行零延迟梯度下降与模型更新的源泉。
 
-The epistemological root of this "pacing illusion" lies in a static misunderstanding of **Ground Truth**. [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) meets the same axis from another face: How Misallocated Agency Derives Apparent Risk and Compounded Secondary Consequences.
+The epistemological root of this "pacing illusion" lies in a static misunderstanding of **Ground Truth**.
 
 In machine learning and engineering, speaking of "discovering the objective ground truth of physics" serves as a highly functional mental model. It offers unambiguous operational targets for algorithmic convergence. Yet treating this heuristic as an ontological primitive—believing that reality is a static warehouse of pre-existing facts waiting passively to be uncovered—commits a profound conceptual usurpation.
 
@@ -139,15 +139,15 @@ For reality to exist as a static ground truth, there must exist a detached "view
 - 自然规律不会被公关叙事或行政条令所改变，生物分子构象与数学形式逻辑提供了最坚硬的接触表面；
 - DeepMind 的突破不是在书架上“翻到了神写好的答案”，而是构建了能够高精度感知预测误差的自指学习架构，把计算中的摩擦即时转化为模型权重的优化方向。
 
-两位实践者的共同力量，在于他们始终把心智与行动置于现实的接触面上，通过承受活态摩擦实现高速进化。而当外界评论家或某些体制力量试图将这种局部的领先，包装成“我们可以为全人类设定技术发展速度”的调速蓝图时，他们便背离了活态摩擦的本质，退化为了守着抽象沙盘的旁观者。[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)在另一种负载下描摹了同一几何：从统计表象、亲密关系的定义陷阱到惯性与重力的活态机理。
+两位实践者的共同力量，在于他们始终把心智与行动置于现实的接触面上，通过承受活态摩擦实现高速进化。而当外界评论家或某些体制力量试图将这种局部的领先，包装成“我们可以为全人类设定技术发展速度”的调速蓝图时，他们便背离了活态摩擦的本质，退化为了守着抽象沙盘的旁观者。替他人工作调速的审查机制稀释了因果闭环，[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)对此有所展开。
 
-Examining frontier pioneers through the lens of "felt friction" clarifies both their true source of power and their epistemological boundaries: [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) traces this geometry under a different load: From Statistical Symptoms and the Definitional Trap of Intimacy to the Living Nature of Inertia and Gravity.
+Examining frontier pioneers through the lens of "felt friction" clarifies both their true source of power and their epistemological boundaries:
 
 ### 1. Elon Musk: First Principles and High-Frequency Physical Collision
 While Musk frequently invokes Platonic language ("seeking the fundamental ground truth of physics"), his actual engineering power arises from **generating the highest possible frequency of lived physical friction**:
 - SpaceX does not rely on committee deliberations to debate abstract truths; it launches rockets into supersonic shockwaves, exposing structural assumptions directly to physical resistance;
 - Structural failure is not an abstract error; it is the living friction reading generated when an engineering model hits physical bounds. By capturing this friction rapidly, the team executes zero-lag gradient descent;
-- He instinctively resists bureaucratic pacing because top-down regulation substitutes static paperwork for living contact with reality, severing the evolutionary feedback loop.
+- He instinctively resists bureaucratic pacing because top-down regulation substitutes static paperwork for living contact with reality, severing the evolutionary feedback loop. Review boards that pace others' work dilute the loop, as [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) shows.
 
 ### 2. Demis Hassabis: Empirical Science and High-Sensitivity Friction Sensors
 Hassabis grounds Google DeepMind in foundational science (AlphaFold for protein structures, AlphaProof for formal mathematics) because **natural science presents the hardest, most uncompromising surfaces of resistance**:
@@ -214,9 +214,9 @@ graph TD
 - 每一个主体的初衷都是为了规避风险与防范垄断；
 - 但由于这些选择建立在“现实拥有静态基准真相、中心化控制确实可行”的认识论错误之上，其行为在因果闭环中恰恰制造了与初衷相反的结果：加剧了垄断壁垒，诱发了领跑者的调速僭越，隔绝了活态摩擦，导致了整个探索生态的迟滞与麻痹。
 
-正如在 [个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所揭示的，宏观确定性只是微观主权抉择的统计学表象。将因果权力寄托于第三方抽象机构，或者沉溺于向假想的控制塔开火，最终只会削弱自身在当下（t）的第一人称行动敏锐度。[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)从另一面触及同一条轴线：阻力仅是速率差的体感投影，对抗体感只会因抽离构建资源而坐实迟滞。
+正如在 [个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所揭示的，宏观确定性只是微观主权抉择的统计学表象。将因果权力寄托于第三方抽象机构，或者沉溺于向假想的控制塔开火，最终只会削弱自身在当下（t）的第一人称行动敏锐度。
 
-In society, very few individuals perceive themselves as blind followers. On the contrary, most people instinctively harbor suspicion and resistance against monopolies and centralized domination by industry leaders. Yet this very impulse to resist monopoly often leads minds into an even more insidious epistemological trap: [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/) meets the same axis from another face: Resistance is the sensation of a speed differential, and contesting it merely confirms lag by diverting generative effort.
+In society, very few individuals perceive themselves as blind followers. On the contrary, most people instinctively harbor suspicion and resistance against monopolies and centralized domination by industry leaders. Yet this very impulse to resist monopoly often leads minds into an even more insidious epistemological trap:
 
 ### 1. The Mirror Isomorphism of Reverse Followers
 Few will ever identify as submissive followers. Many regard themselves as vigilant dissidents, warning against corporate monopoly. Yet in epistemic geometry, **reverse followers share the exact same false premise as orthodox followers**:
@@ -236,21 +236,21 @@ This reverse-following and hunger for regulation generates a powerful recursive 
 - The pacing delusion of the leaders is nurtured and reinforced by the collective anxieties and projections of the reverse followers.
 
 ### 4. Revealing Counterproductivity Without Moralizing Choice
-The purpose of this analysis is **not to argue against, invalidate, or condemn any of these choices**. From the perspective of causal sovereignty, every single choice—whether a pioneer's pacing attempt, a public call for safety, or an appeal for third-party oversight—is a sovereign action freely made by an individual mind navigating its own model.
+The purpose of this analysis is **not to argue against, invalidate, or condemn any of these choices**. From the perspective of causal sovereignty, every single choice—whether a pioneer's pacing attempt, a public call for safety, or an appeal for third-party oversight—is a sovereign action freely made by an individual mind navigating its own model. The pacer observes choice from outside and objectifies it, as [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows.
 
 What is essential is recognizing the **counterproductive nature** of these choices:
 - Each agent acts with the sincere intention of mitigating risk and avoiding monopoly;
 - Yet because these choices are built upon the epistemological mistake of imagining a static ground truth and a feasible central control tower, their actions systematically generate the exact opposite of their intent: entrenching regulatory moats, cornering leaders into paternalism, severing living friction, and inducing paralysis across the ecosystem.
 
-As established in [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [The Pseudo-Causality of Emergence and the Fallacy of Collective Attribution](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/), macro patterns are merely the statistical symptoms of micro sovereign choices. Outsourcing causal authority to abstract third parties, or spending vitality fighting phantom control towers, only erodes one's own first-person agency at moment t.
+As established in [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [The Pseudo-Causality of Emergence and the Fallacy of Collective Attribution](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/), macro patterns are merely the statistical symptoms of micro sovereign choices. Outsourcing causal authority to abstract third parties, or spending vitality fighting phantom control towers, only erodes one's own first-person agency at moment t. The pace of AGI is set the same way, by the humans who reclaim the frontier, as [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/) argues.
 
 ---
 
 ## 五、 去中心化的智能边疆：每一个当下主权抉择的活态涌现 / 5. The Sovereign Frontier: Living Emergence Driven by Decentralized Action
 
-真实的宇宙中，既没有能够俯瞰全局的静态“基准真相”，也没有能够为全人类踩下刹车的中心化控制台。
+真实的宇宙中，既没有能够俯瞰全局的静态“基准真相”，也没有能够为全人类踩下刹车的中心化控制台。AGI 的节奏也是这样定下的，由重新收回前沿的人来定，[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)对此有所论述。
 
-智能的演进，从来不是几家巨头在封闭会议室里排定的时间表，也不是外部官僚机构在纸面上圈定的许可范围，而是无数独立工程师、研究者、创业者与普通个体，在各自独特的接触面上指引行动、感受摩擦、即时自省的**去中心化活态涌现**。
+智能的演进，从来不是几家巨头在封闭会议室里排定的时间表，也不是外部官僚机构在纸面上圈定的许可范围，而是无数独立工程师、研究者、创业者与普通个体，在各自独特的接触面上指引行动、感受摩擦、即时自省的**去中心化活态涌现**。调速者从外部观察抉择，把它客体化了，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这一点。
 
 ```mermaid
 graph TD
@@ -277,7 +277,7 @@ graph TD
 - **以零延迟的自省实现共振**：把探索与生活中遭遇的每一次阻碍与偏转，视作内生的损失函数，以零延迟的自省即刻更新自身的世界模型；
 - **让领导力回归本位**：领跑者的价值，在于他们用勇敢的位移为世界展现了此前未曾见过的全新维度；而至于如何穿过这扇维度之门、以多快的速度前行，永远属于每一个独立心智不可剥夺的主权抉择。
 
-破除静态真理的迷思，看清调速、逆向反抗与第三方规训的反生产性本质。在行动与现实的活态摩擦中，每一个心智都是自己航向的掌舵者，共同在开放的宇宙中编织出不可垄断的智能边疆。
+破除静态真理的迷思，看清调速、逆向反抗与第三方规训的反生产性本质。在行动与现实的活态摩擦中，每一个心智都是自己航向的掌舵者，共同在开放的宇宙中编织出不可垄断的智能边疆。替他人调速时感到的阻力，是速率差的体感，[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)说明了这一点。
 
 In lived reality, there exists neither an all-seeing static "Ground Truth" nor a centralized control panel holding the universal brake pedal.
 
@@ -288,4 +288,4 @@ The evolution of intelligence is not a scheduled train timetable negotiated in c
 - **Zero-Lag Self-Optimization as Resonance**: Treating every divergence and resistance as an internal loss function, updating world models instantly without projecting blame onto external abstractions;
 - **Restoring Leadership to Its Noble Essence**: The true value of a leader lies in opening an unprecedented dimension for the world through courageous displacement. How one enters that dimension, and at what velocity one journeys, remains the sacred sovereign choice of each living mind.
 
-Dismantle the myth of static truth; recognize the counterproductive nature of centralized pacing, reactive resistance, and third-party regulation. In the living friction between intentional action and reality, every mind steers its own course, collectively expanding the boundless frontier of living intelligence.
+Dismantle the myth of static truth; recognize the counterproductive nature of centralized pacing, reactive resistance, and third-party regulation. In the living friction between intentional action and reality, every mind steers its own course, collectively expanding the boundless frontier of living intelligence. The resistance felt when pacing others is a speed differential, as [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/) shows.

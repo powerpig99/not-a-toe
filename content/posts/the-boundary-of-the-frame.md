@@ -28,7 +28,7 @@ This leads to a fundamental principle of systematic modeling:
 
 The initial cut isolates a domain of interest by severing it from the broader causal background. The variables inside the boundary are tracked, formalized, and related; the boundless causal web outside the boundary is held fixed, treated as noise, or categorized as an invariant constant.
 
-Consequently, a theory’s axioms do not describe unconditioned reality. They describe the **internal rules of the partitioned space**. The same cut appears in [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/): Best-of-N and Worst-of-N remain trapped in closed sets; only the unconditioned remainder breathes living reality.
+Consequently, a theory’s axioms do not describe unconditioned reality. They describe the **internal rules of the partitioned space**.
 
 ## The Principle of Local Validity
 
@@ -55,7 +55,7 @@ This principle applies not merely to simple engineering approximations, but to t
 
 General Relativity is an extraordinary masterpiece of geometric modeling. By representing gravitation as the curvature of a continuous pseudo-Riemannian spacetime manifold, it produces astonishingly precise predictions for planetary orbits, gravitational lensing, and satellite clock dilation. Within its calibrated scope, the framework operates with pristine local validity.
 
-The failure occurs not in the equations, but in the psychological conversion of an operational model into a totalizing dogma. When General Relativity is treated as an exhaustive, context-free ontology—when theorists assume that the smooth continuum of spacetime *is* the fabric of reality rather than an engineered coordinate system—the model is pushed far past its operational horizon. [The geometry of mind](../the-geometry-of-mind/) exposes this exact cosmological fallacy in the myth of the static block universe: mistaking an engineered representational slice for the dynamic, self-referential runtime of existence. [The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/) meets the same axis from another face: The sovereign choice is the sole aperture through which an individual injects a free variable into reality, breaking the closed simulation of a dead, mechanical machine.
+The failure occurs not in the equations, but in the psychological conversion of an operational model into a totalizing dogma. When General Relativity is treated as an exhaustive, context-free ontology—when theorists assume that the smooth continuum of spacetime *is* the fabric of reality rather than an engineered coordinate system—the model is pushed far past its operational horizon. [The geometry of mind](../the-geometry-of-mind/) exposes this exact cosmological fallacy in the myth of the static block universe: mistaking an engineered representational slice for the dynamic, self-referential runtime of existence.
 
 The mathematical consequence of this over-extension is the production of severe pathologies: **singularities and physical irregularities**.
 
@@ -67,7 +67,7 @@ In physical reality, an actual infinity or an absolute singularity cannot exist.
 
 To describe a black hole or the Big Bang as a physical place "where the laws of physics break down" is the ultimate reification of the map. Reality never violates its own causality. It is merely the mathematical model that has snapped under uncalibrated strain.
 
-Similarly, what popular cosmology romanticizes as the "edge of the universe" is nothing more than our **current observational edge**—the horizon of our optical and causal measurement aperture at this specific moment in cosmic time. It marks the boundary of what our instruments can presently register, not the perimeter of the universe itself. Confusing the horizon of our telescope with the boundary of reality is the classic error of the observer mistaking the frame of the window for the end of the sky. [The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field](../the-arithmetic-of-the-register/) traces this geometry under a different load: Societal abundance does not diminish zero-sum frenzy; it subsidizes it, as bounded sensors mistake their local address window for the entire universe.
+Similarly, what popular cosmology romanticizes as the "edge of the universe" is nothing more than our **current observational edge**—the horizon of our optical and causal measurement aperture at this specific moment in cosmic time. It marks the boundary of what our instruments can presently register, not the perimeter of the universe itself. Confusing the horizon of our telescope with the boundary of reality is the classic error of the observer mistaking the frame of the window for the end of the sky. A register's width is the frame's boundary in arithmetic, as [The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field](../the-arithmetic-of-the-register/) shows.
 
 ## The Structural Exemption of the Observer
 
@@ -111,7 +111,7 @@ The adaptive system remains functionally alive because it never confuses its cat
 
 ### 2. The Static System
 
-A static framework freezes its starting boundary. The initial cut is elevated to an absolute principle, and its internal coherence is mistaken for exhaustive coverage. As dissected in [The Reversal from Defensible Claim to Dogma](../the-reversal-from-defensible-claim-to-dogma/), empirical claims calcify into ideological dogma the moment a model refuses to let outside reality update its premises, ignoring the fundamental invariant that [No System Can Be Kept Closed](../no-system-can-be-kept-closed/).
+A static framework freezes its starting boundary. The initial cut is elevated to an absolute principle, and its internal coherence is mistaken for exhaustive coverage. As dissected in [The Reversal from Defensible Claim to Dogma](../the-reversal-from-defensible-claim-to-dogma/), empirical claims calcify into ideological dogma the moment a model refuses to let outside reality update its premises, ignoring the fundamental invariant that [No System Can Be Kept Closed](../no-system-can-be-kept-closed/). What crosses every frame is the sovereign choice [The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/) describes.
 
 Because the system cannot accommodate phenomena that violate its starting premises without collapsing its internal logic, it preserves its coherence through hermeneutic enclosure:
 
@@ -119,7 +119,7 @@ Because the system cannot accommodate phenomena that violate its starting premis
 * Critiques directed at the starting boundary are redirected toward internal procedural details (*"You must follow the internal derivations"*);
 * The framework grants itself an exemption from having its rules applied to its own emergence.
 
-In this static mode, the inquiry ceases to be an investigation of reality. It becomes the maintenance of a closed linguistic geometry.
+In this static mode, the inquiry ceases to be an investigation of reality. It becomes the maintenance of a closed linguistic geometry. Best-of-N stays inside the frame it was drawn in, as [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) shows.
 
 ## The Twin Anchors: Mind and Causality
 
@@ -146,10 +146,10 @@ Every theory must ultimately answer to the unbroken causal continuum, as establi
 
 ### 2. The Ground It Speaks From: The Primordial Mind
 
-Every theory is an utterance made by an observer. Before there is an axiom, a category, or a derivation, there is the cognitive, subjective vantage point performing the partition. The Mind is the wielder of the scalpel. As shown in [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), agency resides exclusively in the living thinker, never in the formal scaffolding. Any framework that claims to explain the entirety of existence while leaving the observer outside its balance sheet is pretending to possess an impossible "view from nowhere." [Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence](../dimensions-are-projections/) traces this geometry under a different load: Actual reality is the unceasing act of distinction; dimensions are cognitive compression matrices projected by the Mind to navigate relations, expand personal agency, and extend its living embodiment.
+Every theory is an utterance made by an observer. Before there is an axiom, a category, or a derivation, there is the cognitive, subjective vantage point performing the partition. The Mind is the wielder of the scalpel. As shown in [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), agency resides exclusively in the living thinker, never in the formal scaffolding. Any framework that claims to explain the entirety of existence while leaving the observer outside its balance sheet is pretending to possess an impossible "view from nowhere." Each dimension is a frame of this kind, as [Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence](../dimensions-are-projections/) shows.
 
 A theory is neither reality itself nor pure illusion; it is an ephemeral bridge suspended between the **Mind** that carves it and the **Causal Continuum** that sustains it—a temporary aiming heuristic, much like the virtual mirror ball in [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/), used to align reflection across constraints without ever replacing the physical table.
 
 The dogmatist falls in love with the bridge. They spend their life polishing the railings, memorizing the bolts, and insisting that the structure was not built, but has always existed as an absolute feature of the universe.
 
-The structural inquirer sees the bridge for what it is: a calibrated, temporary instrument. They use it gladly to cross a specific chasm, but remain perpetually willing to dismantle it the moment a deeper look at the shores of Mind and Causality reveals a better way to cross.
+The structural inquirer sees the bridge for what it is: a calibrated, temporary instrument. They use it gladly to cross a specific chasm, but remain perpetually willing to dismantle it the moment a deeper look at the shores of Mind and Causality reveals a better way to cross. A frame is a projection; [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) keeps attention on the vector.

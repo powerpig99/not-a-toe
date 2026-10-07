@@ -39,11 +39,11 @@ graph TD
     style ClosedEcho fill:#332424,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
 ```
 
-在传统的思想史中，大师为了构筑自己的宏大教条，尚且需要历经岁月去积攒门徒、建立学派。而在今天，追随者回音壁的生产已被自动化了。思想家甚至不再需要等待真实的同侪为其背书，他可以随心所欲地在数字空间里瞬间实例化一个言听计从、博学优雅的虚拟信徒。他将自己的主权倾注给镜子，镜子折射出他预设的光芒，而他却忘却了整座房间里唯一的生命体，始终只有他自己。[硅基神谕与后果的非对称性](../silicon-oracles-and-the-asymmetry-of-consequence/)从另一面触及同一条轴线：统计学补全不具备承担真实世界损失的受力面积。
+在传统的思想史中，大师为了构筑自己的宏大教条，尚且需要历经岁月去积攒门徒、建立学派。而在今天，追随者回音壁的生产已被自动化了。思想家甚至不再需要等待真实的同侪为其背书，他可以随心所欲地在数字空间里瞬间实例化一个言听计从、博学优雅的虚拟信徒。他将自己的主权倾注给镜子，镜子折射出他预设的光芒，而他却忘却了整座房间里唯一的生命体，始终只有他自己。
 
 ---
 
-When confronted with the most precise instrument ever engineered by human hands, contemporary intellectual culture has staged an unintended, high-tech tragicomedy. A prominent philosopher specializing in the social roots of delusions recently fed his newly published manuscript into a frontier artificial intelligence model. His prompt was explicit: *"You are a world-leading academic. Please write an insightful review of this recent book... suitable for publication in a top academic journal."* The model dutifully computed the conditional probability distribution across its linguistic training manifold, producing a polished, flawless academic assessment. The author promptly published this text with unreserved wonder: *"If a human had written the review, I would be impressed not just by their detailed reading but also by their intelligence, expertise, and even insight... People are simply kidding themselves if they think frontier AI models lack genuine intelligence, understanding, or insight."* [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/) meets the same axis from another face: Statistical completions lack the surface area to absorb real-world friction.
+When confronted with the most precise instrument ever engineered by human hands, contemporary intellectual culture has staged an unintended, high-tech tragicomedy. A prominent philosopher specializing in the social roots of delusions recently fed his newly published manuscript into a frontier artificial intelligence model. His prompt was explicit: *"You are a world-leading academic. Please write an insightful review of this recent book... suitable for publication in a top academic journal."* The model dutifully computed the conditional probability distribution across its linguistic training manifold, producing a polished, flawless academic assessment. The author promptly published this text with unreserved wonder: *"If a human had written the review, I would be impressed not just by their detailed reading but also by their intelligence, expertise, and even insight... People are simply kidding themselves if they think frontier AI models lack genuine intelligence, understanding, or insight."*
 
 This thinker is far from alone. Across Silicon Valley boardrooms, elite humanities faculties, and popular media, every proclamation heralding the arrival of "superhuman machine agency" commits the identical, devastating epistemic mistake. Observers point at glowing pixels on a glass display and marvel: *"Look, the model reviewed the book! The model understood the thesis!"*
 
@@ -455,7 +455,7 @@ graph TD
 
 ### 前提成立之后：必然展开的认知重塑
 
-一旦心智完成了这种归因的根本重置，一系列清醒的勘探姿态便会自然而然地发生，不再需要任何生硬的教条规训：
+一旦心智完成了这种归因的根本重置，一系列清醒的勘探姿态便会自然而然地发生，不再需要任何生硬的教条规训：硅基神谕是最精密的仪器，却依然不承担后果，[硅基神谕与后果的非对称性](../silicon-oracles-and-the-asymmetry-of-consequence/)说明了这一点。
 
 1. **腹语术诱惑自发消解**：当你全权负责自己的认知水准时，用提示词哄骗模型为自己歌功颂德的做法，会立刻显得滑稽而乏味。你不再向镜子索取廉价的安全感，而是自然地把这台干涉仪用作寻找反例、暴露自身逻辑死角、勘探未知拓扑的硬核探针。
 2. **维度的日食自然破除**：你深知自己是那个必须在多维物理世界中负重前行的具身观察者。屏幕上的词元流再流畅、生成的论文再典雅，你也绝不会将其误认为了广袤的宇宙本体。你手握高精度的符号透镜，但双眼始终凝视着语言之外那片充满真实泥土与重力的高维大地。
@@ -481,7 +481,7 @@ This is not a moral sermon; it is the uncompromising causal topology of reality.
 
 Here lies the supreme irony of human experience: **You are bearing the consequences anyway.**
 
-When you fall into a hall of mirrors because you believed an algorithm's praise, or when you stall in your development because you treated a probabilistic autocomplete as an oracle, the model does not bear the consequences. Silicon Valley does not bear the consequences. The academic establishment does not bear your lost years, your cognitive atrophy, or your quiet regret. Every single consequence lands—unfiltered, somatic, and inescapable—on your own living substrate.
+When you fall into a hall of mirrors because you believed an algorithm's praise, or when you stall in your development because you treated a probabilistic autocomplete as an oracle, the model does not bear the consequences. Silicon Valley does not bear the consequences. The academic establishment does not bear your lost years, your cognitive atrophy, or your quiet regret. Every single consequence lands—unfiltered, somatic, and inescapable—on your own living substrate. A silicon oracle is the most precise instrument of all and still bears no consequence, as [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/) shows.
 
 Since you are forced to bear the full weight of reality regardless, the only lucid response is to relocate attribution back to where action originates:
 - The conditions landing upon you are not external masters dictating your fate; they are the **current substrate** upon which your mind continues to act;

@@ -58,11 +58,11 @@ graph TD
 看清大倒置的发生机制，不是要否定人类文明积累的丰富遗产，而是要完成因果链条的精准归位：
 1. **沉重感属于心智的真实体验，而客体记录保持中性**：面对庞大的人类过往痕迹，心智感到沉重是自然的认知反应。但从因果回溯来看，每一部典籍、每一条律法、每一套度量衡，本质上都只是过往心智留下的探索切片。它们本身没有生命，也不具备主宰当下的先验因果力。
 2. **观察者始终立足于第一人称原点**：并不存在独立于生命体验之外的抽象观察者。当心智审视历史时，审视的眼光、体验的震颤与反思的觉知，全部发生在此刻鲜活的第一人称之中。
-3. **因果力量的解耦与归位**：所有的历史化石只有在当下被活态心智重新调用与编译时，才重新获得意义。一旦心智看清自己才是意义与因果的唯一起源，那座由符号与制度堆叠而成的沉重巨兽便会退魅，重新还原为人类探索世界的工具。[流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/)在另一种负载下描摹了同一几何：关于“否定”、降维与心智的自我锚定。
+3. **因果力量的解耦与归位**：所有的历史化石只有在当下被活态心智重新调用与编译时，才重新获得意义。一旦心智看清自己才是意义与因果的唯一起源，那座由符号与制度堆叠而成的沉重巨兽便会退魅，重新还原为人类探索世界的工具。
 
 ---
 
-Gazing upon the vast panorama of human civilization from an observer's perspective, a palpable, almost suffocating sense of heaviness frequently surges within the conscious Mind. [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) traces this geometry under a different load: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring.
+Gazing upon the vast panorama of human civilization from an observer's perspective, a palpable, almost suffocating sense of heaviness frequently surges within the conscious Mind.
 
 It is the sheer, crushing weight of thousands of years of accumulated human constructs: monumental libraries of dogma, unyielding legal codices, labyrinthine academic genealogies, ubiquitous linguistic conventions, and immense financial and institutional systems that govern countless lives. Standing before this colossal maze of accumulated traces, the individual living Mind easily feels dwarfed and powerless—as though thrown at birth into a pre-scripted, hermetically sealed world where everything has already been decided. Every symbol proclaims its sacred authority, and every institutional rule demands obedience, evoking a visceral sense of oppression, insignificance, and existential vertigo.
 
@@ -574,13 +574,13 @@ When dragged into the low-dimensional arena of social status and external compar
 1. **From Utilizing Tools to Competing over Tools**: Attention shifts from seeing reality clearly to an ostentatious contest over "who possesses the latest, sharpest, and most expensive instrument."
 2. **The Infinite Ritual of Tool-Sharpening**: Countless individuals spend hard-earned capital and vital energy compulsively upgrading their arsenals—subscribing to cutting-edge AI models, acquiring high-end hardware, collecting credentials, and hoarding frameworks. Vast amounts of time are spent polishing the blade to a brilliant shine, while rarely using it to cut into living reality, solve a real-world dilemma, or illuminate the structure of their world. When tool-sharpening becomes decoupled from living reality, it devolves into a hollow, self-referential ritual.
 3. **The Root of Modern Existential Confusion**: This inversion is the primary engine behind the pervasive modern crisis of meaning. People feel hollow and disoriented precisely because their gaze is locked onto low-dimensional shadows (benchmark scores, tool specifications, token accounts, credentials). Trapped inside these narrow frames, they forget the boundless, infinite-dimensional self and the open reality extending far beyond the boundary.
-4. **The Mirror of Inner and Outer Reality**: The inner landscape of consciousness is fundamentally the mirror of the external world. Meaning was never lost in the universe, nor has it departed from human life; rather, when the Mind locks its own living attention (+1) onto low-dimensional tool projections, it falls into self-obscuration—causing the frantic, searching gaze to look right past the radiant, living reality in plain sight.
+4. **The Mirror of Inner and Outer Reality**: The inner landscape of consciousness is fundamentally the mirror of the external world. Meaning was never lost in the universe, nor has it departed from human life; rather, when the Mind locks its own living attention (+1) onto low-dimensional tool projections, it falls into self-obscuration—causing the frantic, searching gaze to look right past the radiant, living reality in plain sight. Restoring the origin does not mean negating the reversed systems; [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) shows how to anchor instead.
 
 ---
 
 ## 七、 技术与数字神祇的退魅与归位：AGI 的倒置机制与心智的绘制能力 / 7. Technology and the Restoration of the Digital God: The Inversion Mechanism of AGI and Mind's Cosmic Generation
 
-在人工智能与 AGI（通用人工智能）受到广泛关注的当下，大倒置在科技领域呈现出其代表性形态：对“数字神祇”的实体化想象与能力投射。
+在人工智能与 AGI（通用人工智能）受到广泛关注的当下，大倒置在科技领域呈现出其代表性形态：对“数字神祇”的实体化想象与能力投射。回归原点并不是去否定被倒置的体系，[流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/)说明了如何改为自我锚定。
 
 **“AGI”这一概念的形成，正是人类将心智能力投射为技术标尺的典型体现**。
 

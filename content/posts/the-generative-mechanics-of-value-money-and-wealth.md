@@ -114,7 +114,7 @@ As traced across [Curiosity first, compounded capability downstream](../curiosit
 
 ## The Mathematical Topology of Inequality: From Gaussian Slices to Power-Law Compounding
 
-Because individuals differ in their choices, focus, and local environments, individual outcomes naturally diverge. The mathematical architecture of this divergence is strictly derived from the mechanics of free choice: [The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/) meets the same axis from another face: The sovereign choice is the sole aperture through which an individual injects a free variable into reality, breaking the closed simulation of a dead, mechanical machine.
+Because individuals differ in their choices, focus, and local environments, individual outcomes naturally diverge. The mathematical architecture of this divergence is strictly derived from the mechanics of free choice:
 
 * **The Short-Term Slice (Gaussian Distribution)**: If one observes millions of independent actors across a short, discrete slice of time, the distribution of immediate choices and outputs resembles a standard **normal (Gaussian) bell curve**. At any single instantaneous cut, variance appears bounded and symmetrical.
 * **The Compounding Trajectory (Power-Law Distribution)**: However, choices do not exist in temporal isolation. Choices carry causal inertia, and the consequences of prior competence feed recursively into subsequent decision windows:
@@ -160,7 +160,7 @@ To treat policy as the primary villain or savior is to commit the exact same cau
 
 This reveals why **no "systemic solution" can ever exist**. 
 
-Any proposed systemic intervention—whether expanding transfers or enforcing legal restrictions—inevitably reallocates agency away from the living individual and onto an abstract collective machinery. Systems do not generate value; only sovereign individuals distinguish, learn, and produce. Attempting to design a top-down structural fix merely displaces the individual Mind with the very apparatus claiming to solve the problem. [Agency, Compounding, and the Argument Over AI Feudalism](../agency-compounding-and-the-argument-over-ai-feudalism/) traces this geometry under a different load: The debate over whether superintelligence closes social mobility mistakes a finite starting intercept for a dynamic rate of improvement; AI has no agency of its own, but merely accelerates the reinforcement loop the individual already maintains.
+Any proposed systemic intervention—whether expanding transfers or enforcing legal restrictions—inevitably reallocates agency away from the living individual and onto an abstract collective machinery. Systems do not generate value; only sovereign individuals distinguish, learn, and produce. Attempting to design a top-down structural fix merely displaces the individual Mind with the very apparatus claiming to solve the problem. The AI feudalism debate mistakes a stock of claims for the rate of creation, as [Agency, Compounding, and the Argument Over AI Feudalism](../agency-compounding-and-the-argument-over-ai-feudalism/) shows.
 
 ## The Wealth Transfer Trap: Severing the Error-Correction Engine
 
@@ -178,7 +178,7 @@ At the same time, productive individuals who generate large surpluses face an in
 * Reinvest their surplus as loans (a time-delayed productive exchange); or
 * Transfer their surplus outward through philanthropy, welfare, or unconditional aid, hoping the recipient will eventually become self-sustaining.
 
-This is the genesis of all modern wealth-transfer architectures. Yet regardless of the moral or altruistic language used to justify it, **unconditional wealth transfer severs the cybernetic feedback loop**: The same cut appears in [The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency](../the-welfare-state-illusion-cost-diffusion-and-agency-atrophy/): The belief that high taxation is a necessary price for collective welfare rests on an asymmetric cognitive distortion: public costs are diffused across the population until they feel weightless, while tax payments are morally amplified into heroic sacrifice, severing the cybernetic feedback loop required for individual growth.
+This is the genesis of all modern wealth-transfer architectures. Yet regardless of the moral or altruistic language used to justify it, **unconditional wealth transfer severs the cybernetic feedback loop**: Taxing capability to pay for claims atrophies the source, as [The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency](../the-welfare-state-illusion-cost-diffusion-and-agency-atrophy/) shows.
 
 * By providing the consumption subsidy without requiring the corresponding increase in productive capability, it removes the friction that alone drives learning;
 * The recipient's world model freezes;
@@ -205,7 +205,7 @@ Authentic agency cannot be transferred, distributed, or gifted. It is an inalien
 
 The most benign and widespread manifestation of this trap occurs not in state politics, but within family dynamics: **the transfer of accumulated parental wealth to children**.
 
-Parents who achieved high success through intense struggle frequently succumb to the desire to shield their children from that exact friction. They bestow immense accumulated wealth, prestige, and material comfort upon heirs who did not author that surplus. [Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/) meets the same axis from another face: True wealth is the downstream byproduct of an individual relentlessly pursuing self-worthiness against the unbuffered logical consistency of the causal chain; monetization is the voluntary transfer of society’s residual surplus for that creative trace, but when creators or users mistake the accumulated tool for the source of agency, past success shifts from dynamic leverage into an accumulating drag.
+Parents who achieved high success through intense struggle frequently succumb to the desire to shield their children from that exact friction. They bestow immense accumulated wealth, prestige, and material comfort upon heirs who did not author that surplus. Wealth follows self-worth, and transfers that bypass it reverse the flow, as [Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/) argues.
 
 The consequence is mathematically predictable:
 
@@ -220,7 +220,7 @@ As articulated in [The Fallacy of Post-Success Parenting](../the-fallacy-of-post
 
 True wealth is not gold in a vault, numbers on a bank screen, or deeds to physical property. All of these are inert historical artifacts—[lagging settlement invoices of past exchanges rather than generative engines](../the-vector-and-the-puzzle-of-projections/).
 
-True wealth is the **living, real-time, sovereign capability of the individual to observe reality, make distinctions, and execute actions that generate value for consciousness**.
+True wealth is the **living, real-time, sovereign capability of the individual to observe reality, make distinctions, and execute actions that generate value for consciousness**. Living capability is the sovereign choice injecting a free variable, as [The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/) describes.
 
 This returns the entire inquiry to its true ground: **a first-person reflection for the sovereign Mind**:
 

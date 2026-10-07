@@ -54,13 +54,13 @@ graph TD
 
 即便是声称将个体主权置于至高地位的自由意志主义，一旦将其诉求寄托于某种“完美的加密协议”或“国家的消亡”时，也同样陷入了这一陷阱。个体不再聚焦于日常生活中具体的自我求证、社区协同与技能打磨，而是转而期待一种抽象的算力狂想——幻想某种代码架构能够在某一天降临，自动免除人类自我治理、化解冲突与直面责任的沉重负担。
 
-通过将能动性预设为一种有待接收的馈赠，而非一种必须在抗阻中持续锻炼的肌肉，这类意识形态在其宣称解放个体的瞬间，已经在结构上剥夺了个体的自主性。
+通过将能动性预设为一种有待接收的馈赠，而非一种必须在抗阻中持续锻炼的肌肉，这类意识形态在其宣称解放个体的瞬间，已经在结构上剥夺了个体的自主性。医疗规程以同样的方式赐予自由，却让第一人称的校准沉默，[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)对此有所展开。
 
 Every ideological movement terminating in "-ism"—from collectivism and socialism to classical rationalism, individualism, libertarianism, and open-sourcism—invariably metastasizes into the operational opposite of its founding aspiration.
 
 This structural inversion does not occur because founders harbored deceitful motives or followers lacked conviction. It emerges inevitably because formalizing a living ethos into an "-ism" commits a fatal category error: **it relocates agency away from the living actor by presuming that freedom is an external condition to be granted.**
 
-The moment freedom is reified into an ideology, it ceases to be an active, living verb—*discerning, navigating, laboring, governing, and bearing consequence*—and congeals into a static noun: a property right, an open-source license, a cryptographic protocol specification, or an institutional dispensation. As demonstrated in [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) and [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/), artifacts are merely inert historical residue left by human choice; they possess zero autonomous agency. Yet when agency is outsourced to an abstract system, it establishes a covert dependency hierarchy: the Dispenser (the prophet, the protocol designer, the billionaire patron, or the regulatory state) holding the keys, and the Beneficiary waiting outside the gate for systemic liberation.
+The moment freedom is reified into an ideology, it ceases to be an active, living verb—*discerning, navigating, laboring, governing, and bearing consequence*—and congeals into a static noun: a property right, an open-source license, a cryptographic protocol specification, or an institutional dispensation. As demonstrated in [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) and [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/), artifacts are merely inert historical residue left by human choice; they possess zero autonomous agency. Yet when agency is outsourced to an abstract system, it establishes a covert dependency hierarchy: the Dispenser (the prophet, the protocol designer, the billionaire patron, or the regulatory state) holding the keys, and the Beneficiary waiting outside the gate for systemic liberation. Medical protocols bestow freedom in the same way and silence first-person calibration, as [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/) shows.
 
 Even libertarianism, which purports to venerate individual sovereignty above all else, falls into this trap the moment it insists that sovereignty is an emergent guarantee of the "correct protocol" or the mere liquidation of state apparatuses. The individual is relieved of the arduous discipline of local self-reliance, physical competence, and civic arbitration, encouraged instead to await an abstract technological rapture where cryptographic code magically absolves humanity of the burden of self-governance.
 
@@ -197,9 +197,9 @@ Square 是多西职业生涯中极具实践价值的商业创造。它的成立�
 
 在实践机制上，**所谓的“激进信任”，无非是不愿面对后果、拒绝进行追踪评估的高尚托辞。**
 
-将资本随机洒向社交网络的算法信息流中，既不评估资金是否真正培育了个体的生产技能，也不过问受助者是否建立了自主造血能力，这在机制上切断了因果之间的检验链条。这种操作让捐赠者能够沉浸在超然无为的道德崇高感中，却巧妙规避了考察干预是否真正带来积极改变的沉重工作。它没有解构依附关系，反而在数字化形态下加固了一种新型依赖：受助者依然被动地仰望天降甘霖，等待着亿万富翁的下一轮指尖恩赐。[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)从另一面触及同一条轴线：从群体统计拜物教到收回第一人称校准。
+将资本随机洒向社交网络的算法信息流中，既不评估资金是否真正培育了个体的生产技能，也不过问受助者是否建立了自主造血能力，这在机制上切断了因果之间的检验链条。这种操作让捐赠者能够沉浸在超然无为的道德崇高感中，却巧妙规避了考察干预是否真正带来积极改变的沉重工作。它没有解构依附关系，反而在数字化形态下加固了一种新型依赖：受助者依然被动地仰望天降甘霖，等待着亿万富翁的下一轮指尖恩赐。
 
-Across twenty years of entrepreneurial leadership, Dorsey did not calibrate his thesis against operational reality; he repeatedly restructured his endeavors to shield his thesis from reality's corrective feedback. [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/) meets the same axis from another face: From Population Statistics Fetish to Reclaiming First-Person Calibration.
+Across twenty years of entrepreneurial leadership, Dorsey did not calibrate his thesis against operational reality; he repeatedly restructured his endeavors to shield his thesis from reality's corrective feedback.
 
 In cybernetics and machine learning optimization, an agent only updates its internal representations when penalized by an active **loss function**. In Dorsey's trajectory, whenever an engineered structure collides with the friction of human nature and incurs steep systemic loss, the response is never to remain in the driver's seat and recalibrate parameters; rather, it is to **evade the loss function** by retreating into deeper strata of abstraction:
 
