@@ -403,10 +403,44 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             else:
                 passes.append("Strict language separation in diagrams (pure Chinese in Chinese diagrams, pure English in English diagrams)")
 
-            # Check diagrams attached to corresponding language contents (prevent stacked bilingual diagrams)
+            # Check link anchor language separation ("中文段落用中文链接，英文段落用英文链接")
+            allowed_link_terms = {'AI', 'AGI', 'ASI', 'LLM', 'RL', 'API', 'DNA', 'CPU', 'GPU', 'TOE', 'VR', 'MOE'}
+            link_lang_issues = []
+            clean_prose_for_links = re.sub(r'```.*?```', '', content, flags=re.DOTALL)
+            for p in clean_prose_for_links.split('\n\n'):
+                p_str = p.strip()
+                if not p_str or p_str.startswith(('#', '*', '---', '***', '>')):
+                    continue
+                zh_chars = len(re.findall(r'[\u4e00-\u9fff]', p_str))
+                en_words = len(re.findall(r'[a-zA-Z]{2,}', p_str))
+                is_zh_p = zh_chars > en_words
+                is_en_p = en_words > zh_chars * 2
+
+                p_links = re.findall(r'\[([^\]]+)\]\(([^)]+)\)', p_str)
+                for anchor, url in p_links:
+                    if not (url.startswith('../') or url.startswith('./') or url.startswith('/posts/')):
+                        continue
+                    has_zh_anchor = bool(re.search(r'[\u4e00-\u9fff]', anchor))
+                    if is_zh_p:
+                        if not has_zh_anchor:
+                            words = re.findall(r'[a-zA-Z]+', anchor)
+                            if not all(w.upper() in allowed_link_terms for w in words):
+                                link_lang_issues.append(f"Chinese paragraph has English link anchor: '[{anchor}]({url})'")
+                        elif '/' in anchor and bool(re.search(r'[a-zA-Z]{3,}', anchor)):
+                            link_lang_issues.append(f"Chinese paragraph has compound bilingual link anchor: '[{anchor}]({url})'")
+                    elif is_en_p:
+                        if has_zh_anchor:
+                            link_lang_issues.append(f"English paragraph has Chinese link anchor: '[{anchor}]({url})'")
+
+            if link_lang_issues:
+                errors.append(f"Link anchor language separation issues detected: {'; '.join(link_lang_issues[:5])}. Rule: Translate link titles into Chinese for Chinese paragraphs, use English for English paragraphs ('中文的归中文，英文的归英文').")
+            else:
+                passes.append("Link anchor language separation check (Chinese links in Chinese paragraphs, English links in English paragraphs)")
+
+            # Check diagrams attached to corresponding language contents (prevent stacked bilingual diagrams & enforce strict interleaving)
             # Rule: CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram
             mermaid_matches = list(re.finditer(r'```mermaid\s*\n(.*?)\n```', content, re.DOTALL))
-            stacked_diagram_issues = []
+            diagram_interleaving_issues = []
             for i in range(len(mermaid_matches) - 1):
                 m1, m2 = mermaid_matches[i], mermaid_matches[i+1]
                 m1_zh = bool(re.search(r'[\u4e00-\u9fff]', m1.group(1)))
@@ -415,21 +449,69 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 if m1_zh and not m2_zh:
                     en_words = len(re.findall(r'[a-zA-Z]{2,}', intervening))
                     if en_words < 15:
-                        stacked_diagram_issues.append(
+                        diagram_interleaving_issues.append(
                             f"Diagram {i+1} (Chinese) and Diagram {i+2} (English) are stacked consecutively with insufficient intervening English prose ({en_words} words). "
                             f"Rule: Schematics must not be stacked together. Attach diagrams to corresponding language contents (CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram)."
                         )
                 elif not m1_zh and m2_zh:
                     zh_chars = len(re.findall(r'[\u4e00-\u9fff]', intervening))
                     if zh_chars < 15:
-                        stacked_diagram_issues.append(
+                        diagram_interleaving_issues.append(
                             f"Diagram {i+1} (English) and Diagram {i+2} (Chinese) are stacked consecutively with insufficient intervening Chinese prose ({zh_chars} chars)."
                         )
 
-            if stacked_diagram_issues:
-                errors.append(f"Stacked bilingual diagrams detected: {'; '.join(stacked_diagram_issues)}")
+            # Check that each diagram is immediately preceded by the prose of its matching language
+            for idx, match in enumerate(mermaid_matches, 1):
+                block = match.group(1)
+                is_zh_diagram = bool(re.search(r'[\u4e00-\u9fff]', block))
+                pre_content = content[:match.start()].strip()
+                pre_paragraphs = [p.strip() for p in pre_content.split('\n\n') if p.strip()]
+                pre_prose = None
+                for p in reversed(pre_paragraphs):
+                    if not p.startswith(('#', '```', '---', '***')):
+                        pre_prose = p
+                        break
+
+                if pre_prose:
+                    zh_chars = len(re.findall(r'[\u4e00-\u9fff]', pre_prose))
+                    en_words = len(re.findall(r'[a-zA-Z]{2,}', pre_prose))
+                    is_pre_zh = zh_chars > en_words
+                    is_pre_en = en_words > zh_chars * 2
+
+                    if is_zh_diagram and is_pre_en:
+                        diagram_interleaving_issues.append(
+                            f"Diagram {idx} (Chinese) is immediately preceded by an English prose paragraph. "
+                            f"Rule: Schematics must immediately follow the prose they illustrate (CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram)."
+                        )
+                    elif not is_zh_diagram and is_pre_zh:
+                        diagram_interleaving_issues.append(
+                            f"Diagram {idx} (English) is immediately preceded by a Chinese prose paragraph. "
+                            f"Rule: Schematics must immediately follow the prose they illustrate (CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram)."
+                        )
+
+                # For Chinese diagrams, verify that the following prose paragraph is English
+                if is_zh_diagram:
+                    post_content = content[match.end():].strip()
+                    post_paragraphs = [p.strip() for p in post_content.split('\n\n') if p.strip()]
+                    post_prose = None
+                    for p in post_paragraphs:
+                        if not p.startswith(('#', '```', '---', '***')):
+                            post_prose = p
+                            break
+                    if post_prose:
+                        zh_chars = len(re.findall(r'[\u4e00-\u9fff]', post_prose))
+                        en_words = len(re.findall(r'[a-zA-Z]{2,}', post_prose))
+                        is_post_zh = zh_chars > en_words
+                        if is_post_zh:
+                            diagram_interleaving_issues.append(
+                                f"Diagram {idx} (Chinese) is followed by a Chinese prose paragraph instead of its parallel English prose paragraph. "
+                                f"Rule: CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram."
+                            )
+
+            if diagram_interleaving_issues:
+                errors.append(f"Diagram interleaving issues detected: {'; '.join(diagram_interleaving_issues)}")
             else:
-                passes.append("Bilingual diagram interleaving check (diagrams attached to corresponding language contents, no stacked diagrams)")
+                passes.append("Bilingual diagram interleaving check (diagrams attached to corresponding language contents: CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram)")
 
         # Strictly vertical layout check (prevent horizontal side-by-side subgraphs)
         horizontal_layout_issues = []
