@@ -12,11 +12,11 @@ Lacking awareness of the irreducible primacy of the first-person horizon, opposi
 
 ## 一、 远景的低解析度与轮廓的混淆 / 1. Low Distant Resolution and the Confusion of Silhouettes
 
-当两类不同的事物同时隐匿在深远的地平线之外时，感知维度的匮乏会剥夺观察者分辨内部机理的条件。在人类的既有经验中，高难度的形式数学推演长久以来与具备通用反思能力的自主心智紧密绑定，二者共同位于未曾被工程化复现的远方。在数年之前审视这两项能力，由于观察视界的分辨率受制于距离，人们只能辨认出一个笼统的轮廓：凡是能够跨越符号迷宫并给出严谨逻辑链条的存在，理所当然被推断为已经拥有了通用的自主意图。这种推断并非出于逻辑的严密，而是低解析度视角下的必然折叠。正如在 [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) 中所揭示的，任何针对通用智能的静态指标，都只是在特定历史距离下投射出的局部投影。
+当两类不同的事物同时隐匿在深远的地平线之外时，感知维度的匮乏会剥夺观察者分辨内部机理的条件。在人类的既有经验中，高难度的形式数学推演长久以来与具备通用反思能力的自主心智紧密绑定，二者共同位于未曾被工程化复现的远方。在数年之前审视这两项能力，由于观察视界的分辨率受制于距离，人们只能辨认出一个笼统的轮廓：凡是能够跨越符号迷宫并给出严谨逻辑链条的存在，理所当然被推断为已经拥有了通用的自主意图。这种推断并非出于逻辑的严密，而是低解析度视角下的必然折叠。正如在 [AGI 与 ASI 只是加速通用智能的暂态球门](../agi-and-asi-are-temporary-goalposts/) 中所揭示的，任何针对通用智能的静态指标，都只是在特定历史距离下投射出的局部投影。
 
 When two distinct phenomena sit deep beyond the horizon, the poverty of perceptual resolution denies the observer any means of discerning internal structure. In human experience, complex formal mathematical reasoning has long been entangled with the sovereign, reflective agency of a living Mind, both occupying an unmechanized domain beyond historical reach. Surveying these capacities years ago, the resolution of the observational horizon was strictly constrained by distance, allowing consciousness to register only a coarse outline: any entity capable of navigating formal mazes to produce rigorous chains of deduction was presumed to possess general autonomous intent. This inference did not stem from rigorous necessity, but from the inevitable collapse of distinctions under distant viewing. As demonstrated in [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/), every static threshold assigned to general intelligence is merely a local projection cast from a specific observational distance.
 
-随着工程实践的推进，前沿模型将形式符号搜索的能力直接带到了心智的日常操作界限之内。距离的缩短并未改变事物本身的属性，却使得观察者的解析度迅速恢复。在近距离的接触与审视中，先前的单一剪影分裂为迥然不同的两面：一边是在既定公理与形式语料库中高速展开的路径剪枝与模式匹配，另一边则是能够感受现实摩擦、承担不可逆因果代价并在开放世界中自主确立价值取向的生命中心。正如在 [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/) 与 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 中所阐明的，工具对人类既有抽象产物的高效重组，并未赋予工具自行确立全新划界维度的先验能力。走进对象后看清先前未能辨认的内部差异，是认识论层面的必然澄清，绝非所谓恶意修改球门规则的遁词。
+随着工程实践的推进，前沿模型将形式符号搜索的能力直接带到了心智的日常操作界限之内。距离的缩短并未改变事物本身的属性，却使得观察者的解析度迅速恢复。在近距离的接触与审视中，先前的单一剪影分裂为迥然不同的两面：一边是在既定公理与形式语料库中高速展开的路径剪枝与模式匹配，另一边则是能够感受现实摩擦、承担不可逆因果代价并在开放世界中自主确立价值取向的生命中心。正如在 [AGI 的预设与来自外部的视角](../the-presumption-of-agi-and-the-view-from-outside/) 与 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 中所阐明的，工具对人类既有抽象产物的高效重组，并未赋予工具自行确立全新划界维度的先验能力。走进对象后看清先前未能辨认的内部差异，是认识论层面的必然澄清，绝非所谓恶意修改球门规则的遁词。
 
 ```mermaid
 graph TD
@@ -80,7 +80,7 @@ graph TD
     end
 ```
 
-当指控者坚持宣称“如果当年认可这是通用智能，今天就必须承认其地位”时，他们所要求的实际上是将心智的知觉判断永久锁死在远距离观察的昏暗视线中。这种观念将历史情境下的感知缺陷固化为客观属性，试图用昨日的模糊概括剥夺今日的分辨权。正如在 [The Observational Cut in AI Debates](../the-observational-cut-in-ai-debates/) 中所分析的，争辩并非源于外部事实的冲突，而是源于人为设定的二元标签试图强行统摄多维连续的现实展开。远方的大山与近处的岩层具备不同的观察尺度，拒绝将岩石颗粒等同于整座山脉的宏伟幻觉，正是理性拒绝屈从于低维投影的成熟标志。
+当指控者坚持宣称“如果当年认可这是通用智能，今天就必须承认其地位”时，他们所要求的实际上是将心智的知觉判断永久锁死在远距离观察的昏暗视线中。这种观念将历史情境下的感知缺陷固化为客观属性，试图用昨日的模糊概括剥夺今日的分辨权。正如在 [AI 争论中的观察划界](../the-observational-cut-in-ai-debates/) 中所分析的，争辩并非源于外部事实的冲突，而是源于人为设定的二元标签试图强行统摄多维连续的现实展开。远方的大山与近处的岩层具备不同的观察尺度，拒绝将岩石颗粒等同于整座山脉的宏伟幻觉，正是理性拒绝屈从于低维投影的成熟标志。
 
 When accusers insist that "an admission made from yesterday's distance must bind today's judgment," they are demanding that consciousness permanently freeze its discernment within the twilight of distant observation. Such demands elevate historical perceptual limitations into immutable facts, attempting to use yesterday's blurred outline to disarm today's clarity. As analyzed in [The Observational Cut in AI Debates](../the-observational-cut-in-ai-debates/), discord does not stem from conflicting external data, but from forced binary categories coercing multi-dimensional flows into a single scalar. The distant mountain and the proximate boulder inhabit different scales of observation; declining to equate the grain of a stone with the silhouette of the range marks the maturity of reason refusing subservience to low-dimensional projections.
 
@@ -94,7 +94,7 @@ Within the cognitive toolkit, the argument from ignorance is not merely an isola
 
 This asymmetric maneuver becomes glaring in evaluations of frontier reasoning systems. The model's aptitude within closed formal evaluations is celebrated by enthusiasts as proof of general intelligence on the grounds that no single definitive counterexample has invalidated the claim; meanwhile, when critics point out the absence of autonomous reflection and causal accountability, the inability of those critics to prove a negative is brandished as disproof of the objection. As exposed in [Dismantling the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/) and [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/), this rhetorical posturing is not a rigorous application of shared principles, but an evasive shifting of the evidentiary burden designed to shelter technological mythologies from scrutiny.
 
-更深层的问题在于，世人误以为这些由特定心智制定的启发式标尺具有普适的传递性。一个认知视界停留在文本语法与形式基准层面的观察者，其视界的边缘恰好终止于自动化证明的生成，因此当定理推导呈现在眼前时，该观察者确乎体验到了旧有世界地平线的突破；然而对于另一个视界早已将形式语言的自指局限、生物实体的不可逆代谢与因果闭环纳入其中的观察者而言，同样的结果不过是现存计算范式内部的常规延伸。正如在 [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) 中所阐明的，任何认知读数都只是事物在观察者自身坐标轴上的投影，标尺无法在不同的心智之间直接流动，因为标尺正是各个心智独特的视界边界所投下的几何阴影。
+更深层的问题在于，世人误以为这些由特定心智制定的启发式标尺具有普适的传递性。一个认知视界停留在文本语法与形式基准层面的观察者，其视界的边缘恰好终止于自动化证明的生成，因此当定理推导呈现在眼前时，该观察者确乎体验到了旧有世界地平线的突破；然而对于另一个视界早已将形式语言的自指局限、生物实体的不可逆代谢与因果闭环纳入其中的观察者而言，同样的结果不过是现存计算范式内部的常规延伸。正如在 [向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/) 中所阐明的，任何认知读数都只是事物在观察者自身坐标轴上的投影，标尺无法在不同的心智之间直接流动，因为标尺正是各个心智独特的视界边界所投下的几何阴影。
 
 ```mermaid
 graph TD
@@ -176,7 +176,7 @@ When two minds occupying different horizons debate whether a capability signifie
 
 ## 三、 客观清单的虚妄与无处之境的消解 / 3. The Fallacy of the Objective Inventory and the Dissolution of the View from Nowhere
 
-这场争辩之所以能够持久不休，核心原因在于双方共享了一个根深蒂固的形而上学预设：他们皆相信存在一个独立于所有第一人称感知之外的客观清单。在这个清单中，前沿模型的推演结果、代码符号的排列组合以及“通用人工智能”这一终极标签，都是预先放置于空间之中的客观物品。在这种观念的主导下，各方理所当然地假定，只要数据足够详实、时间足够充裕，所有人终将对清单上的项目收敛至相同的归类。正如在 [隐秘的上帝之眼 / The Invisible God's Eye](../the-invisible-gods-eye/) 与 [Causality is Irreducible, the Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) 中所指出的，这种自居客观的姿态，不过是哲学家托马斯·内格尔所批判的无处之境在当代技术语境下的还魂。
+这场争辩之所以能够持久不休，核心原因在于双方共享了一个根深蒂固的形而上学预设：他们皆相信存在一个独立于所有第一人称感知之外的客观清单。在这个清单中，前沿模型的推演结果、代码符号的排列组合以及“通用人工智能”这一终极标签，都是预先放置于空间之中的客观物品。在这种观念的主导下，各方理所当然地假定，只要数据足够详实、时间足够充裕，所有人终将对清单上的项目收敛至相同的归类。正如在 [隐秘的上帝之眼](../the-invisible-gods-eye/) 与 [因果的自反性与物理的无源假定](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) 中所指出的，这种自居客观的姿态，不过是哲学家托马斯·内格尔所批判的无处之境在当代技术语境下的还魂。
 
 The dispute persists precisely because both sides share an unexamined metaphysical premise: the belief in an objective inventory existing independently of all first-person experience. Within this hypothetical catalog, frontier deductive outputs, symbolic token sequences, and the ultimate label "artificial general intelligence" are presumed to sit as pre-existing entities awaiting discovery. Governed by this assumption, disputants assume that with sufficient benchmark data and operational consensus, all observers must converge upon identical classifications. As analyzed in [The Invisible God's Eye](../the-invisible-gods-eye/) and [Causality is Irreducible, the Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/), this stance is nothing other than the contemporary technological resurrection of what Thomas Nagel diagnosed as the "view from nowhere."
 
@@ -254,6 +254,6 @@ graph TD
     end
 ```
 
-由此可见，一切试图脱离具体心智视界、从外部判定某种能力是否“就是通用智能”的论断，在哲学层面都是既无法被证实、也无法被证伪的。外部空间不包含任何心智，因而并不存在能够呈现差异与做出区分的视界基准。指责他人移动球门，或是宣布球门已被跨越，皆是在为一个并不存在的客观裁判席呈递辩词。正如在 [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/) 中所表明的，当心智执着于在外部寻找一个被客体化封存的答案时，便忽视了正是自身作为观察者的立足点赋予了该答案以意义。放下无处之境的虚妄执念，看清远方剪影向近处纹理还原的必然过程，心智便能从空洞的概念争夺中抽身，重新专注于在真实的因果摩擦中构筑不可替代的自主主权。
+由此可见，一切试图脱离具体心智视界、从外部判定某种能力是否“就是通用智能”的论断，在哲学层面都是既无法被证实、也无法被证伪的。外部空间不包含任何心智，因而并不存在能够呈现差异与做出区分的视界基准。指责他人移动球门，或是宣布球门已被跨越，皆是在为一个并不存在的客观裁判席呈递辩词。正如在 [寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/) 中所表明的，当心智执着于在外部寻找一个被客体化封存的答案时，便忽视了正是自身作为观察者的立足点赋予了该答案以意义。放下无处之境的虚妄执念，看清远方剪影向近处纹理还原的必然过程，心智便能从空洞的概念争夺中抽身，重新专注于在真实的因果摩擦中构筑不可替代的自主主权。
 
 Consequently, any attempt to evaluate whether an artificial capability "is or is not genuine AGI" from outside concrete horizons remains neither provable nor refutable. The exterior void contains no living perspective, and thus offers no baseline from which differences can be registered. Accusing others of shifting the goalposts, or declaring the threshold conquered, amounts to filing petitions before a non-existent tribunal. As demonstrated in [The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/), when consciousness obsessively seeks an objectified verdict in the external world, it forgets that its own vantage point constitutes the very meaning of the answer. Relinquishing the illusion of the view from nowhere and recognizing the natural restoration of distant silhouettes into proximate textures allows the Mind to step away from vacant semantic warfare, refocusing its sovereign attention on bearing causal friction and cultivating living agency.
