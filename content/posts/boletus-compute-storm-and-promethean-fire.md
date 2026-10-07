@@ -18,7 +18,7 @@ Caught in the violent tear between the digital screen and lived reality, the min
 
 大街上的芬兰人依然面无表情，双手插兜，彼此自觉隔着两米，专注而安稳地等待着红绿灯。超市里的大爷大妈在认真捏面包、挑土豆；林子里的浆果按部就班地熟透，五年前如此，五年后依然毫无二致。赛博世界里的末日狂欢，从来吹不进这片坚固的日常。
 
-那一刻心智忽然变得无比清澈：无论是崇高的技术乌托邦，还是灭顶的末日恐慌，在本质上都是[心智脱离实体后的纯粹概念](../po-chu-gai-nian-de-jian-yue/)。在没有生理摩擦力的第三人称虚空中，模型可以无限外推，恐慌可以随意倍增；但一生所有的宏大预言加在一起，在现实粗粝的秤盘上也压不出哪怕一粒尘埃的重量。
+那一刻心智忽然变得无比清澈：无论是崇高的技术乌托邦，还是灭顶的末日恐慌，在本质上都是[心智脱离实体后的纯粹概念](../po-chu-gai-nian-de-jian-yue/)。在没有生理摩擦力的第三人称虚空中，模型可以无限外推，恐慌可以随意倍增；但一生所有的宏大预言加在一起，在现实粗粝的秤盘上也压不出哪怕一粒尘埃的重量。奇点叙事里的数字神祇在[数字神祇与视界跳跃](../the-digital-god-and-the-horizon-jump/)中遇到同一道界限：它跨不过物理摩擦的视界。
 
 I often experience a peculiar sense of magical realism in front of the screen—a dizzying absurdity born whenever the mind leaps violently between disjointed scales of existence.
 
@@ -36,7 +36,7 @@ In that quiet clarity, the mind recognizes the sleight of hand: both techno-utop
 
 前些天我在林子里采了一大筐牛肝菌，踩着松软湿润的厚苔藓，满载而归。
 
-然而带回家细细清理，剔除被林中小虫蛀蚀的大半残体，余下的在沸水里焯透也不过碗底一小撮。大地的馈赠从来都是有限而真实的，带着泥土、草屑与蛀孔。家里缺了正宗的五花肉，我便索性切了培根，拍上一根大青蒜，在大火里爆出一盘热气腾腾的回锅牛肝菌。奇点叙事里的数字神祇在[数字神祇与视界跳跃](../the-digital-god-and-the-horizon-jump/)中遇到同一道界限：它跨不过物理摩擦的视界。
+然而带回家细细清理，剔除被林中小虫蛀蚀的大半残体，余下的在沸水里焯透也不过碗底一小撮。大地的馈赠从来都是有限而真实的，带着泥土、草屑与蛀孔。家里缺了正宗的五花肉，我便索性切了培根，拍上一根大青蒜，在大火里爆出一盘热气腾腾的回锅牛肝菌。
 
 生铁锅里热油滋啦作响，大蒜与菌体复合的野性焦香瞬间弥漫整间屋子。我和妻子三两下便风卷残云吃个精光。
 

@@ -16,7 +16,7 @@ In the infinite-dimensional reality of the physical and biological cosmos, there
 
 第二重无限，是**第一人称视角的相异**。尽管感知基底高度相通，但在这个世界上，从来没有两个人看到过相同的世界。每一个心智都坐落在时空中无可替代的坐标原点上，背负着由一连串不可逆的历史抉择、记忆沉淀与注意力聚焦所塑造的独特视界。更为关键的是，每一个意识都是一个独立的自由变量，正在当下进行着自主的因果裁决（+1）。即便两个人并肩站立在同一棵橡树下，一人看见的是避暑的绿荫，另一人想起的是童年攀爬的创伤，第三人评估的是木材的经济价值。对于所有的实践目的而言，个体之间的视界差异同样接近于无限。
 
-第三重无限，是**现实本体与符号理解之间的非对称鸿沟**。我们所直接感知到的物理与生物世界，是一个不可约减的高维连续统。当你咬下一口苹果时，你的口腔与大脑在实时处理成百上千种挥发性芳香分子、细胞壁破裂的质构张力、温度梯度与漫长的演化联想；而我们对这一动作的所谓“科学理解”，不过是几行脱水离散的符号与概念——“它很甜”、“含有果糖”、“大约六十卡路里”。理解是信息的压缩，而现实是无限高维的因果流。
+第三重无限，是**现实本体与符号理解之间的非对称鸿沟**。我们所直接感知到的物理与生物世界，是一个不可约减的高维连续统。当你咬下一口苹果时，你的口腔与大脑在实时处理成百上千种挥发性芳香分子、细胞壁破裂的质构张力、温度梯度与漫长的演化联想；而我们对这一动作的所谓“科学理解”，不过是几行脱水离散的符号与概念——“它很甜”、“含有果糖”、“大约六十卡路里”。理解是信息的压缩，而现实是无限高维的因果流。冲突生长于无限可能与无限误解之间的落差，[理解的非对称性](../the-asymmetry-of-understanding/)命名了这种不对称。
 
 ```mermaid
 graph TD
@@ -47,7 +47,7 @@ The first infinity is the **deep similarity of our perceptual substrate**. Every
 
 The second infinity is the **radical divergence of the first-person vantage**. Despite this shared substrate, no two human beings have ever inhabited the exact same perceptual world. Every conscious observer sits at an irreplicable origin in spacetime, shaped by an irreversible trajectory of individual memories, formative wounds, and attentional orientations. Every mind acts as an independent sovereign variable making its own causal cut in the present (+1). If two people stand beneath the same oak, one perceives shelter from the midday sun, another recalls a childhood fall from its branches, and a third calculates the timber value. For all practical purposes, the divergence between human minds is equally infinite.
 
-The third infinity is the **asymmetric chasm between living reality and informational models**. The physical and biological cosmos we directly perceive is an irreducible, high-dimensional analog continuum. When you taste an apple, your sensory apparatus processes hundreds of volatile compounds, cell-turgor shear stresses, temperature gradients, and ancient evolutionary memories in real time. Our rational "understanding" of that moment, by contrast, is a tiny cluster of dehydrated symbols: "it is sweet," "it contains fructose," "it has sixty calories." Understanding is discrete informational compression, whereas perceived reality is an unbounded high-dimensional ocean.
+The third infinity is the **asymmetric chasm between living reality and informational models**. The physical and biological cosmos we directly perceive is an irreducible, high-dimensional analog continuum. When you taste an apple, your sensory apparatus processes hundreds of volatile compounds, cell-turgor shear stresses, temperature gradients, and ancient evolutionary memories in real time. Our rational "understanding" of that moment, by contrast, is a tiny cluster of dehydrated symbols: "it is sweet," "it contains fructose," "it has sixty calories." Understanding is discrete informational compression, whereas perceived reality is an unbounded high-dimensional ocean. Conflict grows from the gap between infinite possibility and infinite misunderstanding, the asymmetry [The Asymmetry of Understanding](../the-asymmetry-of-understanding/) names.
 
 ```mermaid
 graph TD
@@ -102,9 +102,9 @@ graph LR
 
 让我们观察这种“维度的暴跌”是如何在各个学科中上演的：
 * **在热力学中**：一立方米的气体包含数以十万亿亿计的气体分子，每一个分子都在量子与电磁尺度经历着无法追踪的高维微观碰撞。然而，当物理学家将这庞大无匹的高维运动投影到仅仅由三个宏观统计平均量构成的三维空间——压强 P、体积 V、温度 T 时，所有的微观涨落都在大数定律下互相抵消。瞬间，理想气体状态方程 PV = nRT 浮现了出来！物理学家激动地宣布找到了控制气体的永恒铁律，却遗忘了这一定律仅仅是剧烈降维后的平滑统计阴影。
-* **在经济学与社会学中**：八十亿人类拥有接近于无限的内心世界、各异的情感羁绊与不可预测的创造性裁决。但当统计学家将这八十亿个高维生命体投影到单一维度的数值上——价格（如每斤三元）、信用评分（如七百五十分）、或者一张选票（零与一）时，个体之间的丰富差异在投影轴上被无情压扁。人群展现出了稳定的供给需求曲线与周期性行为。学者们欢呼人类行为是可以通过数学公式精确预测的，误将降维造成的平滑假象当成了人性的本质。
+* **在经济学与社会学中**：八十亿人类拥有接近于无限的内心世界、各异的情感羁绊与不可预测的创造性裁决。但当统计学家将这八十亿个高维生命体投影到单一维度的数值上——价格（如每斤三元）、信用评分（如七百五十分）、或者一张选票（零与一）时，个体之间的丰富差异在投影轴上被无情压扁。人群展现出了稳定的供给需求曲线与周期性行为。学者们欢呼人类行为是可以通过数学公式精确预测的，误将降维造成的平滑假象当成了人性的本质。从无处提出的低维方案，正是[隐秘的上帝之眼](../the-invisible-gods-eye/)所揭示的上帝之眼。
 
-确定性不是大自然的内在骨架；**确定性是无限系统在遭遇低维测量时，被强行抹去高阶自由度后所残留的低维投影痕迹。**
+确定性不是大自然的内在骨架；**确定性是无限系统在遭遇低维测量时，被强行抹去高阶自由度后所残留的低维投影痕迹。**按影子给学生排名的教育，把探索变成零和竞技场，[教育与科学的倒置](../the-reversal-of-education-and-science/)说明了这一点。
 
 ---
 
@@ -136,9 +136,9 @@ graph LR
 
 Consider how this drastic dimensional drop operates across various fields:
 * **In thermodynamics**: A single cubic meter of gas contains tens of sextillions of molecules, each undergoing unpredictable, high-dimensional micro-collisions. Yet when a physicist projects this unfathomable complexity onto a simple three-dimensional space of macroscopic averages—Pressure (P), Volume (V), and Temperature (T)—all microscopic variances cancel out under the Law of Large Numbers. Instantly, the ideal gas law PV = nRT appears. The physicist marvels at having uncovered a deterministic natural law, forgetting that this law is merely the smooth statistical shadow cast by a severe dimensional collapse.
-* **In economics and sociology**: Eight billion human beings possess near-infinite inner worlds, singular emotional histories, and unpredictable sovereign choices. But when an institution projects these high-dimensional agents onto low-dimensional metrics—a one-dimensional price, a scalar credit rating, or a binary vote—the vast orthogonal differences vanish. In that flattened space, the collective manifests smooth demand curves and predictable trends. Theorists declare that human beings are rational, mechanical utility-maximizers, confusing the flattening of the measurement frame with the true nature of human agency.
+* **In economics and sociology**: Eight billion human beings possess near-infinite inner worlds, singular emotional histories, and unpredictable sovereign choices. But when an institution projects these high-dimensional agents onto low-dimensional metrics—a one-dimensional price, a scalar credit rating, or a binary vote—the vast orthogonal differences vanish. In that flattened space, the collective manifests smooth demand curves and predictable trends. Theorists declare that human beings are rational, mechanical utility-maximizers, confusing the flattening of the measurement frame with the true nature of human agency. A low-dimensional solution proposed from nowhere is the god's eye [The Invisible God's Eye](../the-invisible-gods-eye/) exposes.
 
-Determinism is not the structural bedrock of the universe; **determinism is the shadow left behind when high-dimensional reality is stripped of its higher degrees of freedom by a low-dimensional instrument.**
+Determinism is not the structural bedrock of the universe; **determinism is the shadow left behind when high-dimensional reality is stripped of its higher degrees of freedom by a low-dimensional instrument.** Education that ranks students by shadows turns inquiry into a zero-sum arena, as [The Inversion of Education and Science](../the-reversal-of-education-and-science/) shows.
 
 ---
 
@@ -193,7 +193,7 @@ graph TB
 
 **这就是我们如何亲手将丰沛辽阔的多维生存空间，异化为逼仄而惨烈的低维绞杀战场。** 在无限的正交空间中，相撞的概率原本测度为零；但在被人为挤压的低维走廊里，每一次呼吸都成了互不相容的抢夺。
 
-一切意识形态的仇恨、阶层内卷的焦虑与族群对抗的烈火，其本质都不是物理资源的匮乏，而是心智**被囚禁在低维投影幕上所遭受的维度窒息**。
+一切意识形态的仇恨、阶层内卷的焦虑与族群对抗的烈火，其本质都不是物理资源的匮乏，而是心智**被囚禁在低维投影幕上所遭受的维度窒息**。世界线是被当成鹿本身的影子，[四维长鹿的幻象与当下的模型](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)说明了这一点。
 
 ---
 
@@ -232,7 +232,7 @@ In higher mathematics, high-dimensional spaces possess an extraordinary geometri
 Low-dimensional projections violently destroy this natural abundance:
 1. **The linear queue**: The moment society collapses the richness of human life onto a single scalar metric—such as net worth, follower counts, institutional pedigree, or political hierarchy—an expansive multidimensional space is flattened into a narrow one-dimensional corridor.
 2. **The inevitability of collision**: On a one-dimensional line, geometry permits only two relative states: you are either ahead of me, or you are blocking my way. Your advancement feels like my demotion; your gain feels like my dispossession.
-3. **Manufactured scarcity and desperate rivalry**: An unbounded cosmos is converted into artificial congestion by a low-dimensional screen. Countless vibrant minds, who could have flourished along orthogonal paths, are forced onto a single wire to fight, envy, and destroy one another.
+3. **Manufactured scarcity and desperate rivalry**: An unbounded cosmos is converted into artificial congestion by a low-dimensional screen. Countless vibrant minds, who could have flourished along orthogonal paths, are forced onto a single wire to fight, envy, and destroy one another. A worldline is a shadow taken for the deer, as [The Myth of the Four-Dimensional Deer and the Present Model](../the-myth-of-the-four-dimensional-deer-and-the-present-model/) shows.
 
 ### The Fatal Inversion: Mistaking Conflict-Avoidance Guidance for the Game
 
@@ -278,7 +278,7 @@ graph LR
 审视那些充斥于社交媒体、政治辩论与家庭餐桌上的无休止争吵，你会发现：**人们从来不是在为真实的世界而战，而是在为各自低维投影的碰撞而战：**
 * **意识形态狂热者**：把波澜壮阔、生生不息的人类社会，强行塞进一套极度贫瘠的教条标签中（如“进步与反动”、“正义与邪恶”）。他们看不见眼前那个有血有肉、需要抚育幼子、会为落日叹息的活人，他们只能看见那个活人在其教条滤镜下所投射出的敌对黑影。为了消灭那个纸片般的黑影，他们不惜将现实中的生灵推入火海。
 * **官僚与指标狂人**：把教育的灵性简化为一个升学率，把医疗的温度简化为一个周转率，把复杂城市的生机简化为一个排他性的整洁度指标。当活生生的人性伸出枝桠、超出了这些僵死表格的边界时，他们便挥舞剪刀，将鲜活的生命强行修剪成符合二维表格的残疾模具。
-* **防御性的小我**：许多人在年轻时偶然凝固下了一个关于自己的低维画像——一个“成功的标签”、“被伤害的受害者身份”、或者“永远正确的权威人设”。在接下来的漫长人生里，他们放弃了向着无限现实继续探索的可能，转而将全部的生命能量，用于抵御任何可能蹭破这张二维画像的细微风吹草动。
+* **防御性的小我**：许多人在年轻时偶然凝固下了一个关于自己的低维画像——一个“成功的标签”、“被伤害的受害者身份”、或者“永远正确的权威人设”。在接下来的漫长人生里，他们放弃了向着无限现实继续探索的可能，转而将全部的生命能量，用于抵御任何可能蹭破这张二维画像的细微风吹草动。每一道影子仍投在自己的心智之内，[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)对此毫不含糊。
 
 两张平面的影子在石壁上重叠了，影子不会流血，但投射出这些影子的人类却因此拔刀相向。这就是低维执迷给文明带来的最沉痛的诅咒。
 
@@ -310,7 +310,7 @@ graph LR
 Observe the bitter arguments raging across digital networks, legislative assemblies, and dining tables. **People are never fighting over the living territory; they are fighting over the collision of their flattened low-dimensional shadows:**
 * **The ideological zealot**: Compresses the kaleidoscopic metabolism of society into a rigid, impoverished binary label (e.g. "progressive vs. reactionary," "pure vs. corrupted"). They cannot see the breathing human being standing before them—a parent caring for a child, a person moved by music. They see only the hostile black silhouette cast by their ideological filter. To annihilate that flat shadow on the wall, they are willing to set the living world on fire.
 * **The bureaucratic metric worshipper**: Collapses the sacred spark of education into standardized test percentiles, the dignity of medical care into patient-turnaround quotas, and the organic vitality of an urban neighborhood into sanitized zoning metrics. When living human nature branches outward beyond the margins of the spreadsheet, they wield regulatory shears to mutilate human beings into compliance with flat tables.
-* **The defensive ego**: An individual often fixes an early low-dimensional self-image—a badge of status, a chronic victim identity, or an image of unbroken infallibility. For the remainder of their days, they cease expanding into the living infinity of new experiences, consuming their vitality defending that fragile two-dimensional silhouette against every passing breeze.
+* **The defensive ego**: An individual often fixes an early low-dimensional self-image—a badge of status, a chronic victim identity, or an image of unbroken infallibility. For the remainder of their days, they cease expanding into the living infinity of new experiences, consuming their vitality defending that fragile two-dimensional silhouette against every passing breeze. Every shadow is still cast inside one's own mind, as [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/) insists.
 
 When two flat shadows overlap on a stone wall, the shadows feel no pain; yet the living beings who cast them draw swords and spill real blood. This is the profound curse of low-dimensional fixation.
 
@@ -346,15 +346,15 @@ graph TD
 
 ### 2. 正交前行：离开那条拥挤的一维跑道
 当你发现自己正陷入与他人的无休止攀比、嫉妒与防御性争斗时，停下脚步，审视一下自己是否正被困在一个低维投影幕上。
-别人在争夺某个职位的头衔、某项资产的数字、或者某种立场的正确性，那是他们自愿锁闭在的一维标尺。你无需在那条狭窄的跑道上拼死超车。宇宙拥有无限的正交轴线——向着好奇心展开、向着真挚的情谊展开、向着未被命名的技艺展开。当你选择向着一个新的正交维度迈出一步时，所谓的竞争对手在几何学上便瞬间失去了与你碰撞的可能。广袤的自由只属于那些敢于在无人处开辟新坐标的人。按影子给学生排名的教育，把探索变成零和竞技场，[教育与科学的倒置](../the-reversal-of-education-and-science/)说明了这一点。
+别人在争夺某个职位的头衔、某项资产的数字、或者某种立场的正确性，那是他们自愿锁闭在的一维标尺。你无需在那条狭窄的跑道上拼死超车。宇宙拥有无限的正交轴线——向着好奇心展开、向着真挚的情谊展开、向着未被命名的技艺展开。当你选择向着一个新的正交维度迈出一步时，所谓的竞争对手在几何学上便瞬间失去了与你碰撞的可能。广袤的自由只属于那些敢于在无人处开辟新坐标的人。
 
 ### 3. 同侪敬畏：直面他人的深渊
 在面对任何一个活生生的人时，提醒自己放下脑海中那张由标签拼凑而成的扁平肖像。
-对方不仅与你共享着数亿年沉淀下来的深邃感知硬件，更携带着一个由数十年独特记忆编织而成的平行宇宙。他的一颦一笑、一次不可理喻的发怒、一个看似不可思议的抉择，背后都有着一个庞大、高维的因果网络在支撑。你无法用一句话、一个立场或一种诊断充分定义他。当你以对待一个无穷世界的敬畏去对待另一个生命时，低维的摩擦自然消散，深度的同频与共鸣才有可能降临。从无处提出的低维方案，正是[隐秘的上帝之眼](../the-invisible-gods-eye/)所揭示的上帝之眼。
+对方不仅与你共享着数亿年沉淀下来的深邃感知硬件，更携带着一个由数十年独特记忆编织而成的平行宇宙。他的一颦一笑、一次不可理喻的发怒、一个看似不可思议的抉择，背后都有着一个庞大、高维的因果网络在支撑。你无法用一句话、一个立场或一种诊断充分定义他。当你以对待一个无穷世界的敬畏去对待另一个生命时，低维的摩擦自然消散，深度的同频与共鸣才有可能降临。
 
 ---
 
-If the genesis of human conflict lies in low-dimensional fixation, then liberation cannot be won by fighting for supremacy inside the flattened trap. It requires stepping off the screen, turning around, and **walking ahead with infinity**. A low-dimensional solution proposed from nowhere is the god's eye [The Invisible God's Eye](../the-invisible-gods-eye/) exposes.
+If the genesis of human conflict lies in low-dimensional fixation, then liberation cannot be won by fighting for supremacy inside the flattened trap. It requires stepping off the screen, turning around, and **walking ahead with infinity**.
 
 This demands three foundational ontological disciplines in perception, action, and human encounter:
 
@@ -378,15 +378,15 @@ graph TD
 
 ### 1. Instrumental Clarity: A Tool, Never an Idol
 We need not discard low-dimensional models. Scientific equations, monetary prices, maps, and vocabularies are extraordinary navigational aids. A map helps us cross mountain ranges precisely by discarding ninety-nine percent of terrain details. But the grounded walker remembers: **the map is an instrument serving life; human beings were not born to become coordinates on paper.**
-Whenever a theoretical model, institutional metric, or ideological creed attempts to usurp authority, demanding the sacrifice of living reality to preserve the purity of its chart, deconstruct it without hesitation: it is only a flat projection. Tear the paper, and reality remains completely unharmed. Low-dimensional boundaries and rules are navigational guardrails designed to avoid collisions, not sacred arenas where you must stage a fight to the death. Use them to maintain safe passage, and then immediately turn your attention back to the open, orthogonal wilderness. Every shadow is still cast inside one's own mind, as [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/) insists.
+Whenever a theoretical model, institutional metric, or ideological creed attempts to usurp authority, demanding the sacrifice of living reality to preserve the purity of its chart, deconstruct it without hesitation: it is only a flat projection. Tear the paper, and reality remains completely unharmed. Low-dimensional boundaries and rules are navigational guardrails designed to avoid collisions, not sacred arenas where you must stage a fight to the death. Use them to maintain safe passage, and then immediately turn your attention back to the open, orthogonal wilderness.
 
 ### 2. Orthogonal Expansion: Stepping Off the 1D Track
 Whenever you find yourself trapped in chronic status envy, defensive posturing, or ideological hostility, pause and ask: *Which low-dimensional screen am I trapped upon?*
-Others may be furiously battling over a corporate title, a net worth metric, or an ideological orthodoxy. That is their chosen linear corridor. You have zero obligation to sprint down their one-dimensional track. The cosmos contains infinite orthogonal axes—toward genuine curiosity, unspoken creative crafts, honest care, and unmapped horizons. The moment you step into a new orthogonal dimension, your competitors lose the geometric ability to collide with you. Boundless freedom belongs to those who dare to open an uncrowded axis. A worldline is a shadow taken for the deer, as [The Myth of the Four-Dimensional Deer and the Present Model](../the-myth-of-the-four-dimensional-deer-and-the-present-model/) shows.
+Others may be furiously battling over a corporate title, a net worth metric, or an ideological orthodoxy. That is their chosen linear corridor. You have zero obligation to sprint down their one-dimensional track. The cosmos contains infinite orthogonal axes—toward genuine curiosity, unspoken creative crafts, honest care, and unmapped horizons. The moment you step into a new orthogonal dimension, your competitors lose the geometric ability to collide with you. Boundless freedom belongs to those who dare to open an uncrowded axis.
 
 ### 3. Intersubjective Reverence: Facing the Inexhaustible Other
 When looking into the eyes of another person, consciously discard the flat caricature constructed by your preconceptions.
-The person before you shares the same near-infinite biological hardware that supports your own gaze, while harboring a parallel cosmos of unique memories, private sorrows, and sovereign choices. Their sudden outburst, their confusing decision, or their unfamiliar viewpoint is upheld by an expansive causal continuum that no superficial label can encompass. When you approach another being with the reverence due to an inexhaustible universe, low-dimensional friction evaporates, clearing the path for genuine mutual resonance. Conflict grows from the gap between infinite possibility and infinite misunderstanding, the asymmetry [The Asymmetry of Understanding](../the-asymmetry-of-understanding/) names.
+The person before you shares the same near-infinite biological hardware that supports your own gaze, while harboring a parallel cosmos of unique memories, private sorrows, and sovereign choices. Their sudden outburst, their confusing decision, or their unfamiliar viewpoint is upheld by an expansive causal continuum that no superficial label can encompass. When you approach another being with the reverence due to an inexhaustible universe, low-dimensional friction evaporates, clearing the path for genuine mutual resonance.
 
 ---
 
@@ -394,12 +394,12 @@ The person before you shares the same near-infinite biological hardware that sup
 
 我们生活在一个从未闭合、不可穷尽的宇宙之中。
 
-大地不是一块拥挤不堪的荒原，生命也不是一场被算法判定的零和决斗。真正的物理与生物现实，其维度之高深、容量之浩瀚，足以让千百亿各具特质的心智在各自的轨道上昂首前行，彼此辉映而互不遮蔽。每一道影子仍投在自己的心智之内，[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)对此毫不含糊。
+大地不是一块拥挤不堪的荒原，生命也不是一场被算法判定的零和决斗。真正的物理与生物现实，其维度之高深、容量之浩瀚，足以让千百亿各具特质的心智在各自的轨道上昂首前行，彼此辉映而互不遮蔽。
 
 人造的苦难，始于我们把避碰的指引误认为了死斗的战场，将无限的多维生存空间异化为互掷长矛的低维囚笼；
-而真正的觉醒与安宁，始于我们跃下狭窄的护栏，穿透那些虚张声势的低维幻象，重新跨入无边无际的因果旷野。冲突生长于无限可能与无限误解之间的落差，[理解的非对称性](../the-asymmetry-of-understanding/)命名了这种不对称。
+而真正的觉醒与安宁，始于我们跃下狭窄的护栏，穿透那些虚张声势的低维幻象，重新跨入无边无际的因果旷野。
 
-阴影不会有未来，唯有行走的生命永恒开辟着明天。不要在石壁前为投影的碎屑而战；转身迈出步伐，与无限同行。世界线是被当成鹿本身的影子，[四维长鹿的幻象与当下的模型](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)说明了这一点。
+阴影不会有未来，唯有行走的生命永恒开辟着明天。不要在石壁前为投影的碎屑而战；转身迈出步伐，与无限同行。
 
 ---
 
@@ -408,6 +408,6 @@ We inhabit an open, unclosed, inexhaustible cosmos.
 The living earth is not a congested wasteland, nor is human existence a zero-sum deathmatch dictated by algorithms. The true physical and biological reality is of such staggering dimensionality and profound abundance that it can comfortably sustain billions of unique sovereign trajectories, shining alongside one another without ever blocking the light.
 
 Human misery begins when we mistake collision-avoidance guidance for a zero-sum arena, turning an inexhaustible multi-dimensional living space into a cramped cage of war;
-Genuine awakening and sovereign peace arrive the moment we step off the narrow guardrail, see through the fragile bluster of low-dimensional shadows, and step back into the unconfined causal wild. Education that ranks students by shadows turns inquiry into a zero-sum arena, as [The Inversion of Education and Science](../the-reversal-of-education-and-science/) shows.
+Genuine awakening and sovereign peace arrive the moment we step off the narrow guardrail, see through the fragile bluster of low-dimensional shadows, and step back into the unconfined causal wild.
 
 Shadows possess no future; only living agency carves the frontier of tomorrow. Do not spend your days battling over flat phantoms on the stone wall. Turn around, step into the open territory, and walk ahead with infinity.

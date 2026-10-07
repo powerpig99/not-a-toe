@@ -69,7 +69,7 @@ Physical reality confirms this exact breakdown. When French physicist Jean Perri
 
 **因为承认它们不是“例外”而是“常态”，就意味着必须彻底放弃“封闭完备的万物理论”这一终极心理麻醉剂。**
 
-形式逻辑的最核心基石——矛盾律（命题无法同时既是 A 又是非 A），其成立的唯一前提就是**粗暴地斩断现实的因果推进时间，将因果跃迁的微元间隙（`dx`）抹杀为零**，从而假想一个超越时空的观察者站在系统外部，对静止凝固的项进行审计。一旦承认现实处于永不停息的、非零的因果展开中（在那个正在穿行摩擦的 `dx` 内部），系统的自足性就会瞬间瓦解。为了保住“上帝视角”的虚妄安全感，人类宁愿将所有揭穿皇帝新衣的真相，统统打入“病态怪物”的冷宫。
+形式逻辑的最核心基石——矛盾律（命题无法同时既是 A 又是非 A），其成立的唯一前提就是**粗暴地斩断现实的因果推进时间，将因果跃迁的微元间隙（`dx`）抹杀为零**，从而假想一个超越时空的观察者站在系统外部，对静止凝固的项进行审计。一旦承认现实处于永不停息的、非零的因果展开中（在那个正在穿行摩擦的 `dx` 内部），系统的自足性就会瞬间瓦解。为了保住“上帝视角”的虚妄安全感，人类宁愿将所有揭穿皇帝新衣的真相，统统打入“病态怪物”的冷宫。要求一套万物理论，就是把连续统冻结成清单，[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)对此有所揭示。
 
 The most revealing pattern in intellectual history is the collective psychological response of formalism whenever its foundations crack open.
 
@@ -86,7 +86,7 @@ Why does human thought compulsively downplay these foundational ruptures as mere
 
 **Because to recognize that they are the universal baseline rather than anomalous exceptions requires surrendering the ultimate intellectual sedative: the fantasy of a closed, spectator-based View from Nowhere.**
 
-Formal logic’s foundational Law of Non-Contradiction (that a proposition cannot be simultaneously *A* and *not-A*) functions only by **violently amputating the time of causal transition, declaring the non-zero interval `dx` to be zero**, and pretending that a timeless observer can survey static terms from the outside. The moment one acknowledges the reality of that unclosable, non-zero interval wherein change dynamically occurs, the claim of formal self-sufficiency shatters. To preserve the intoxicating comfort of outsourced certainty, formalism exiles the truth into the dark and labels reality itself a "pathology."
+Formal logic’s foundational Law of Non-Contradiction (that a proposition cannot be simultaneously *A* and *not-A*) functions only by **violently amputating the time of causal transition, declaring the non-zero interval `dx` to be zero**, and pretending that a timeless observer can survey static terms from the outside. The moment one acknowledges the reality of that unclosable, non-zero interval wherein change dynamically occurs, the claim of formal self-sufficiency shatters. To preserve the intoxicating comfort of outsourced certainty, formalism exiles the truth into the dark and labels reality itself a "pathology." Demanding a theory of everything freezes the continuum into a catalog, as [Demanding a Theory of Everything Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/) shows.
 
 ---
 
@@ -140,7 +140,7 @@ Formal logic’s foundational Law of Non-Contradiction (that a proposition canno
 * 在大众科技话语中，面对 AGI 奇点的狂欢，活着的人类竟然迫不及待地开始自我矮化，宣称“人类不过是碳基生物神经网络，注定被硅基淘汰”，主动剥夺自身的第一人称主体性；
 * 在日常生活里，当具体的生命遭遇迷茫与重创，人们不再敢倾听自己肉身在粗粝世界中的真实反馈，反而拼命去比对各种外部的“成功学模型”、“科学量表”或“算法推荐”——**削足适履地把活生生的自己，塞进那些早已千疮百孔的模型奇点之中。**
 
-**当现实与模型发生冲突时，教条的科学主义永远在责怪现实。这不仅仅是学术上的盲目，更是生命主权的普遍退化。**[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)展示了同样的便利被当成了宇宙本身。
+**当现实与模型发生冲突时，教条的科学主义永远在责怪现实。这不仅仅是学术上的盲目，更是生命主权的普遍退化。**
 
 ```mermaid
 graph TD
@@ -173,7 +173,7 @@ It does not prove that there physically exists a mystical entity possessing "zer
 
 A singularity is never a physical monument in the territory; it is the jagged tear where the map rips apart.
 
-Yet an astonishing modern mythology emerged: **instead of treating the singularity as an unmistakable clue to discard the continuum assumption and open an orthogonal dimension, mainstream physics and popular culture bowed before the rupture, inventing a grotesque "Singularity Fetish."** They announced with straight faces that the living cosmos erupted from "an infinitely dense, zero-volume point"—literally reifying a division-by-zero software bug into the primordial substance of creation! Rather than confronting the bankruptcy of smooth spacetime, formalism insisted on violently cramming the living universe into the breakdown knot of its own inadequate algebra. [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) shows the same convenience taken as the cosmos.
+Yet an astonishing modern mythology emerged: **instead of treating the singularity as an unmistakable clue to discard the continuum assumption and open an orthogonal dimension, mainstream physics and popular culture bowed before the rupture, inventing a grotesque "Singularity Fetish."** They announced with straight faces that the living cosmos erupted from "an infinitely dense, zero-volume point"—literally reifying a division-by-zero software bug into the primordial substance of creation! Rather than confronting the bankruptcy of smooth spacetime, formalism insisted on violently cramming the living universe into the breakdown knot of its own inadequate algebra.
 
 ### 2. The Reductive Myth that Consciousness Can Be Modeled by a Machine
 Preceding the astrophysical singularity and anchored far more deeply in contemporary philosophy and tech ideology is the foundational dogma of computationalism and functionalism: **the dogmatic belief that consciousness can be modeled by a machine**.
@@ -335,15 +335,15 @@ As demonstrated across [The Model Never Becomes a Second Edge](../the-model-neve
 
 恰恰相反，这是一种深刻的智性解脱。它将人类从“闭合的万物理论”（Closed Theory of Everything）那种充满窒息感的决定论妄念中彻底释放了出来。
 
-我们不必强求宇宙是一张平滑无瑕的连续织锦，因为所谓的连续性，本就是我们在每个当下为了让前后步伐保持协调而编织的认知桥梁。我们更不必为逻辑体系中无法消除的不完备性与偶发悖论感到惶恐——那些从形式闭环中顽强渗出的裂隙，正是那个拒绝为零的最小间隙在向我们宣告：**世界没有死，因果之矢从未停滞，现实永远敞开。**
+我们不必强求宇宙是一张平滑无瑕的连续织锦，因为所谓的连续性，本就是我们在每个当下为了让前后步伐保持协调而编织的认知桥梁。我们更不必为逻辑体系中无法消除的不完备性与偶发悖论感到惶恐——那些从形式闭环中顽强渗出的裂隙，正是那个拒绝为零的最小间隙在向我们宣告：**世界没有死，因果之矢从未停滞，现实永远敞开。**[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)展示了同样的便利被当成了宇宙本身。
 
-在每一个具体的清晨，当你迈出真实的一步（`+1`），你既不需要等待一个宣称囊括一切的终极公式，也无需在纸面上的符号闭环中患得患失。正是因为那个微观的因果间距永远无法被任何公理体系彻底封死，第一人称的心智才得以在一次次真实的反思、想象与决断中，持续将这未完的世界推向浩瀚开放的未来。要求一套万物理论，就是把连续统冻结成清单，[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)对此有所揭示。
+在每一个具体的清晨，当你迈出真实的一步（`+1`），你既不需要等待一个宣称囊括一切的终极公式，也无需在纸面上的符号闭环中患得患失。正是因为那个微观的因果间距永远无法被任何公理体系彻底封死，第一人称的心智才得以在一次次真实的反思、想象与决断中，持续将这未完的世界推向浩瀚开放的未来。
 
 To recognize that `dx` in calculus is never truly zero is not to diminish the profound operational brilliance of mathematics or formal logic.
 
-On the contrary, it provides an immense intellectual liberation. It releases human thought from the suffocating, deterministic illusion of a "Closed Theory of Everything." Demanding a theory of everything freezes the continuum into a catalog, as [Demanding a Theory of Everything Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/) shows.
+On the contrary, it provides an immense intellectual liberation. It releases human thought from the suffocating, deterministic illusion of a "Closed Theory of Everything."
 
-We need not demand that the cosmos be a frictionless, preexisting continuum; continuity is merely the bridge our conscious horizon erects at each instant to harmonize past footprints with open horizons. Nor should we despair over the inevitable incompleteness, paradoxes, and stress fractures that haunt formal systems. Those cracks in the formal edifice are simply the persistent signature of the non-zero interval asserting its vitality: **reality is not dead, the arrow of causality has not frozen, and the horizon remains radically unclosed.**
+We need not demand that the cosmos be a frictionless, preexisting continuum; continuity is merely the bridge our conscious horizon erects at each instant to harmonize past footprints with open horizons. Nor should we despair over the inevitable incompleteness, paradoxes, and stress fractures that haunt formal systems. Those cracks in the formal edifice are simply the persistent signature of the non-zero interval asserting its vitality: **reality is not dead, the arrow of causality has not frozen, and the horizon remains radically unclosed.** [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) shows the same convenience taken as the cosmos.
 
 At every concrete morning, when your body executes an irreversible physical step (`+1`), you require neither a totalizing theoretical doctrine nor the hollow reassurance of a paper formula. It is precisely because the interval between cause and effect can never be sealed that the living mind—through the rhythmic fold of reflection, imagination, and reasoning—holds the sovereign power to steer an open universe into the unrendered dawn.
 
