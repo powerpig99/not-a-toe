@@ -12,7 +12,7 @@ We do not need a complete symbolic description of *f* to work with it. We need a
 
 ## Why Equivalent Programs Exist
 
-By the Church-Turing thesis — as close to a theorem as anything in computer science gets — any effectively computable function has an equivalent program in any Turing-complete language. So there exists at least one program *p* in vanilla C, in x86 assembly, in raw machine code, that realizes exactly the same *f* on all reachable inputs. The same cut appears in [The Category Error of Better](../the-category-error-of-better/): Mistaking a model's scoring function for an objective property is engineering's persistent blind spot.
+By the Church-Turing thesis — as close to a theorem as anything in computer science gets — any effectively computable function has an equivalent program in any Turing-complete language. So there exists at least one program *p* in vanilla C, in x86 assembly, in raw machine code, that realizes exactly the same *f* on all reachable inputs.
 
 This step is uncontroversial. It is why "if the app works, there is a vanilla-code path" is true.
 
@@ -50,7 +50,7 @@ The work is in the proposal mechanism, not the acceptance criterion. The selecti
 
 Finite and biased samples. We only ever see a finite projection of *f*. The agent can overfit to the observed subspace and miss rare edge cases. The "individual projection" insight from the main essay is exactly this structure: one user's trace collapses *f* to a much simpler object, which is both a compression opportunity and a sampling limitation.
 
-Search-space explosion. Levin's universal search enumerates programs in order of size plus runtime and is optimal up to a multiplicative constant — but that constant absorbs the description length of the target on the reference machine, cosmologically large for any function of practical interest. Practical proposal mechanisms explore a biased subspace. That bias is often useful — it favors the kinds of programs humans write and recognize — but it forecloses regions of program space that might contain shorter representations.
+Search-space explosion. Levin's universal search enumerates programs in order of size plus runtime and is optimal up to a multiplicative constant — but that constant absorbs the description length of the target on the reference machine, cosmologically large for any function of practical interest. Practical proposal mechanisms explore a biased subspace. That bias is often useful — it favors the kinds of programs humans write and recognize — but it forecloses regions of program space that might contain shorter representations. "Optimal" is the scoring function mistaken for a property, the error [The Category Error of Better](../the-category-error-of-better/) names.
 
 Undecidability at the bottom. Verifying exact equivalence of two programs is undecidable in general. We can only verify on tested traces. Perfect behavioral match on sampled inputs does not imply minimal representation. A program orders of magnitude longer than K(f) can achieve *d(f, p)* = 0 on every scenario we think to test.
 

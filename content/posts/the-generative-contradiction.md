@@ -8,7 +8,7 @@ Differences constitute uniqueness and become the instruments of ranking and vali
 
 Our differences make us, uniquely, human.
 
-They are also the instruments by which we judge one another, rank one another, and seek endless validation. We remain never fully satisfied because we keep looking outward for the measure of what can only be claimed from within. [Hierarchy from individual difference](../hierarchy-from-individual-difference/) is ranking when those differences are scored on a shared measure. [The allocation of causal power in validation](../the-allocation-of-causal-power-in-validation/) is that looking outward as the placement of continuation. The same cut appears in [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/): Taking responsibility for things that happen to you; everything else is figuring out how.
+They are also the instruments by which we judge one another, rank one another, and seek endless validation. We remain never fully satisfied because we keep looking outward for the measure of what can only be claimed from within. [Hierarchy from individual difference](../hierarchy-from-individual-difference/) is ranking when those differences are scored on a shared measure. [The allocation of causal power in validation](../the-allocation-of-causal-power-in-validation/) is that looking outward as the placement of continuation.
 
 ## Nothing external augments us
 
@@ -30,7 +30,7 @@ This is the inherent contradiction in every existence:
 
 the constant outward projection of agency against the deeper necessity of reclaiming it.
 
-The contradiction is not a defect to be eliminated. It is the generative source itself. Without the friction between external credit and internal authorship there would be no tension, no recognition, no sudden clarity when the gaze turns inward. Difference, judgment, dissatisfaction, and the hard beauty of self-acceptance all arise from the same unresolved movement. [Selection, contradiction, and open reality](../selection-contradiction-and-open-reality/) is that generative mismatch under description costume: every selection produces a remainder it cannot seal. Here the friction is external credit against internal authorship. [External Attribution: The Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) is the reclaiming as the only lever that belongs here: the gap, once attributed outside, loses the possibility of being altered from this edge.
+The contradiction is not a defect to be eliminated. It is the generative source itself. Without the friction between external credit and internal authorship there would be no tension, no recognition, no sudden clarity when the gaze turns inward. Difference, judgment, dissatisfaction, and the hard beauty of self-acceptance all arise from the same unresolved movement. [Selection, contradiction, and open reality](../selection-contradiction-and-open-reality/) is that generative mismatch under description costume: every selection produces a remainder it cannot seal. Here the friction is external credit against internal authorship. [External Attribution: The Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) is the reclaiming as the only lever that belongs here: the gap, once attributed outside, loses the possibility of being altered from this edge. Reclaiming agency takes one split second, as [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) puts it.
 
 We do not resolve the contradiction.
 

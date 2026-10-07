@@ -13,14 +13,14 @@
 
 然而，现代量子力学——尤其是以卡洛·罗威利（Carlo Rovelli）为代表的**关系量子力学（Relational Quantum Mechanics, RQM）**——彻底颠覆了这幅常识画卷。
 
-在量子微观尺度上，“孤立系统拥有内禀客观性质”的假定被实验无情碾碎。一个粒子的位置、动量或自旋状态，在没有发生物理交互之前根本不存在确定的客观数值；物理变量的取值，永远且仅仅存在于**该系统相对于另一个物理系统的交互关系之中**。物理学家与哲学家（如乔治·韦伯斯特，George Webster）由此指出：在量子图景中，像对称性、干涉与纠缠这样的关系，比粒子实体本身更真实、更根本。同一道切分也出现在[隐秘的上帝之眼](../the-invisible-gods-eye/)之中：宏观大师的共同失忆与降维解法的必然破产。
+在量子微观尺度上，“孤立系统拥有内禀客观性质”的假定被实验无情碾碎。一个粒子的位置、动量或自旋状态，在没有发生物理交互之前根本不存在确定的客观数值；物理变量的取值，永远且仅仅存在于**该系统相对于另一个物理系统的交互关系之中**。物理学家与哲学家（如乔治·韦伯斯特，George Webster）由此指出：在量子图景中，像对称性、干涉与纠缠这样的关系，比粒子实体本身更真实、更根本。
 
 关系先于实体。实体并非独立存在的主角，而是关系的演化节点。
 
 ---
 
 Everyday intuition instills in us an obstinate ontological picture:
-We take it for granted that **objects are more fundamental than the relationships between those objects.** The same cut appears in [The Invisible God's Eye](../the-invisible-gods-eye/): The Master Thinker's Amnesia and the Fatal Trap of Low-Dimensional Solutions.
+We take it for granted that **objects are more fundamental than the relationships between those objects.**
 
 To common sense and classical physics, the world is assembled from freestanding, self-contained entities: microscopic billiard balls bouncing through an empty spatial container, macroscopic boulders, trees, and celestial bodies. Relationships (gravity, collision, electromagnetic repulsion, spatial distance) are treated as secondary bridges—provisional links established only after two independent substances happen to meet.
 
@@ -46,11 +46,11 @@ Relations precede relata. Entities are not the primary cast of reality; they are
 * 实体崇拜者为了捍卫“客观实在”，把关系硬性虚构成了僵死的孤立实体；
 * 语言解构者为了打破“实体幻觉”，把坚固的现实生活消解成了诗意的玄学泡沫。
 
-难道除了“孤立的实体积木”与“不可名状的流变迷雾”之外，人类心智就再无第三条清醒的认知路径了吗？[当电子开始思考](../when-electrons-think/)从另一面触及同一条轴线：光速渲染率、无质量动态波与宏观确定性的诞生。
+难道除了“孤立的实体积木”与“不可名状的流变迷雾”之外，人类心智就再无第三条清醒的认知路径了吗？
 
 ---
 
-Yet when relational ontology is pressed to its logical conclusion, contemporary thought frequently stumbles into two complementary traps: [When Electrons Think](../when-electrons-think/) meets the same axis from another face: The Rendering Velocity of Light, Massless Dynamic Waves, and the Emergence of Determinism.
+Yet when relational ontology is pressed to its logical conclusion, contemporary thought frequently stumbles into two complementary traps:
 
 **The first trap is the classical materialist "idolatry of substance" (Substance Reification).**
 Terrified of relational fluidity and ungrounded movement, classical habits of thought insist on stuffing every relational phenomenon back into a billiard-ball box. If gravitation exhibits mutual curvature, theorists demand a mechanical particle named the "graviton"; if spacetime displays tension, it is visualized as an objective rubber sheet. This instinct reflects the mind's craving for an observerless certainty—attempting to freeze living, dynamic interaction into immutable building blocks situated in a fictitious "View from Nowhere."
@@ -100,13 +100,13 @@ What stabilizes a relationship? **Causal friction, conservation laws, and thermo
 * A currency note is not a piece of paper possessing mystical intrinsic value; it is a **stabilized economic relationship** crystallized out of institutional credibility, legal enforcement, and market consensus.
 
 Substances are not the primordial bedrock of nature. **Substances are invariants precipitated when dynamic relationships survive repeated trials of causal friction.**
-Whenever a web of relations possesses sufficient internal coherence to preserve its boundaries and predictable responses under interaction, the mind encounters it as an "object."
+Whenever a web of relations possesses sufficient internal coherence to preserve its boundaries and predictable responses under interaction, the mind encounters it as an "object." [When Electrons Think](../when-electrons-think/) carries this down to electrons, where stability itself emerges from waves.
 
 ---
 
 ## 四、 名词作为认知脚手架 / 4. Nouns as Cognitive Scaffolding
 
-既然宇宙在根本上是一个由关系演化织就的网络，为什么人类的语言与思维总在第一反应中偏爱“名词”与“实体”？
+既然宇宙在根本上是一个由关系演化织就的网络，为什么人类的语言与思维总在第一反应中偏爱“名词”与“实体”？[当电子开始思考](../when-electrons-think/)把这一点推到电子层面：稳定本身从波中显现。
 
 **答案在于认知带宽的有限性，以及心智为了降低交互阻力而发明的“认知脚手架”（Cognitive Scaffolding）。**
 
@@ -171,14 +171,14 @@ What we call an "object" is simply a cognitive snapshot taken of a stabilized re
 看清了“对象是被稳定化的关系”，我们便同时从两个方向获得了自由：
 我们既不再向任何僵死的宏观权威与制度图腾顶礼膜拜（因为知道它们不过是历史中暂被稳定化的关系网络，随时可以在新的因果介入中被解构）；我们也不会陷入相对主义的轻浮虚无（因为知道任何想要改变关系的企图，都必须在第一人称的现实中付出真实的物理代价）。
 
-在流动的因果中看清它的稳定之锚，在坚固的物体面前洞悉它的关系本质——这便是不迷信万物理论、从容立足于生命现场的真正清醒。
+在流动的因果中看清它的稳定之锚，在坚固的物体面前洞悉它的关系本质——这便是不迷信万物理论、从容立足于生命现场的真正清醒。把对象当作无立场的给定，正是[隐秘的上帝之眼](../the-invisible-gods-eye/)所揭示的上帝之眼。
 
 ---
 
 Here, the reconciliation between Relational Quantum Mechanics and the core framework of *Not a ToE* locks firmly into place.
 
 In conventional academic treatments, relational physics harbors a fatal vulnerability:
-If properties exist only "relative to another system" (electron A relative to photon B, measurement apparatus relative to an atom), and all systems are treated with sterile, third-person symmetry, reality risks degenerating into an **unanchored hall of mirrors**—A defines B, B defines C, C defines A, with the entire relational web floating in an uninhabited, abstract void. This inadvertently resurrects the very "View from Nowhere" it sought to overthrow.
+If properties exist only "relative to another system" (electron A relative to photon B, measurement apparatus relative to an atom), and all systems are treated with sterile, third-person symmetry, reality risks degenerating into an **unanchored hall of mirrors**—A defines B, B defines C, C defines A, with the entire relational web floating in an uninhabited, abstract void. This inadvertently resurrects the very "View from Nowhere" it sought to overthrow. Treating objects as given from no position is the god's eye [The Invisible God's Eye](../the-invisible-gods-eye/) exposes.
 
 *Not a ToE* grounds this floating web upon bedrock:
 **Reality is not identical to physical reality. Physical reality is merely the stabilized macrosymptom of reality. Reality, at its irreducible ground, is fundamentally first-person perspective reality.**

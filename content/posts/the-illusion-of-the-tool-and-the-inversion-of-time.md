@@ -47,17 +47,17 @@ graph TD
     style TheFirstInversion fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
 ```
 
-在活生生的因果演进中，主权心智在当下划定的每一个非零区分（+1），都真实创生了全新的因果关系，并构成了不可逆的历史初始条件。任何纸面上的对称回溯，都无法撤销已经落定的因果事实。[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)在另一种负载下描摹了同一几何：能力为何沦为束缚，以及对AI智能体能力的母体误归因。
+在活生生的因果演进中，主权心智在当下划定的每一个非零区分（+1），都真实创生了全新的因果关系，并构成了不可逆的历史初始条件。任何纸面上的对称回溯，都无法撤销已经落定的因果事实。在 AI 智能体身上，同样的倒置把挽具放上了驾驶座，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)说明了这一点。
 
 ---
 
-A fundamental clarification must be established at the outset: **Critiquing the idealized assumptions of physics and mathematics is in no way a dismissal of their extraordinary validity.** [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) traces this geometry under a different load: Why Capabilities Become Limitations and the Master Misattribution of AI Agents.
+A fundamental clarification must be established at the outset: **Critiquing the idealized assumptions of physics and mathematics is in no way a dismissal of their extraordinary validity.**
 
 Classical mechanics, general relativity, and calculus remain the most formidable cognitive instruments in human history:
 * Mathematical physics and conservation laws capture the stable macro-invariants of causality with unmatched fidelity;
 * Formal mathematics grants the Mind the power to discern the deep, underlying causal symmetries of nature across vast scales.
 
-**The hazard lies not in employing cognitive tools, but in ontological inversion: the Mind forgets that the model is its own active representational construct, reifying it into something supposedly more fundamental, reliable, and real than the living sovereign choice from which reality generates.**
+**The hazard lies not in employing cognitive tools, but in ontological inversion: the Mind forgets that the model is its own active representational construct, reifying it into something supposedly more fundamental, reliable, and real than the living sovereign choice from which reality generates.** With AI agents the same inversion puts the harness in the driver's seat, as [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) shows.
 
 When the Mind constructs and sustains mathematical frameworks in consciousness, the mental act of transforming geometric relations is **static, symmetric, and reversible**:
 * There is no such thing as a "model in itself" floating independently of the Mind holding it—a mathematical model is always an active cognitive act, sustained and animated by consciousness at the first-person origin;

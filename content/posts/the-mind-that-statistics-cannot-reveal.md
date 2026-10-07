@@ -8,7 +8,7 @@ A well-known cartoon depicts a student who, having completed a statistics course
 
 The hesitation in the joke is not uncertainty about statistics; it is the instinctive refusal to commit the very category error the course was meant to cure.
 
-Attributing the student's cognitive shift to "the class" treats an externalized curriculum as an autonomous causal agent acting directly upon a passive vessel. But a course is only structured residue: syllabus, lectures, exercises, and exams. It cannot force a distinction into existence. [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) traces this geometry under a different load: Diagnosing another's aesthetic judgment reveals only the observer's own compressed mental model and cognitive boundary.
+Attributing the student's cognitive shift to "the class" treats an externalized curriculum as an autonomous causal agent acting directly upon a passive vessel. But a course is only structured residue: syllabus, lectures, exercises, and exams. It cannot force a distinction into existence.
 
 What produced the transformation was a sequence of sovereign acts: the initial decision to register, the continuous discipline of directing attention, the internal resolution of confusion, and the subsequent choice to restrain hasty attributions. Statistics can record the positive correlation between course enrollment and improved reasoning scores. It cannot find the causal engine inside the regression table, because the engine was the individual center doing the thinking. [The average is residue, not the engine](../the-average-is-residue-not-the-engine/) holds that exact bound: mass distributions register composite effects, while the generating edge remains the discrete acts of individual loci.
 
@@ -22,7 +22,7 @@ Yet mistaking that smoothed summary for the generative source of action is ordin
 
 ## Misattribution is an act of agency that disowns itself
 
-Even the cognitive error of confusing correlation with causation reveals the supremacy of the Mind.
+Even the cognitive error of confusing correlation with causation reveals the supremacy of the Mind. Reading others from the distribution returns my own model, the self-portrait [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) describes.
 
 When an observer sees two events coincide and reflexively declares one to be the cause of the other, that mistake is not a passive malfunction of sensory hardware. It is an active distinction: the Mind perceives a regular pattern in its held residue, invents a causal narrative, and then relocates its own authorship onto the observed correlation.
 
@@ -36,4 +36,4 @@ The statistical curriculum, the measured improvement in reasoning, and the persi
 2. **The causal prior never relocates:** The labor of selecting, interpreting, evaluating, and applying remains anchored at the minded center.
 3. **Data informs, but cannot steer:** Statistical knowledge enriches the landscape of available priors, but the data never walks the terrain.
 
-Statistics cannot reveal the Mind because the Mind is the uncaused observer that computes, reads, and acts upon the statistics. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/) affirms that no artifact, dataset, or aggregate calculation originates discernment. Consult the distributions for situational awareness, but recognize where the lever resides: every point on the scatterplot is the footprint of a choice, and only the Mind can take the next step.
+Statistics cannot reveal the Mind because the Mind is the uncaused observer that computes, reads, and acts upon the statistics. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/) affirms that no artifact, dataset, or aggregate calculation originates discernment. Consult the distributions for situational awareness, but recognize where the lever resides: every point on the scatterplot is the footprint of a choice, and only the Mind can take the next step. The normal curve is sediment of choices, as [Judging by Purpose: The Default State and Dynamic Leaps of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) argues.

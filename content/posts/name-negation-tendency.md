@@ -31,7 +31,7 @@ The founders specified potentiality: "We will be Anthropic—human-centered."
 
 But they don't actualize their own product. Users do. Operators do. Market dynamics do.
 
-The actuality reflects what actualizers select for—capability, speed, cost, convenience. "Human-centered" survives only where it coincidentally aligns with what actualizers want. [What Works Is the Belief](../what-works-is-the-belief/) traces this geometry under a different load: A ban seals nothing in the field; it stabilizes a belief among those who treat the seal as ground.
+The actuality reflects what actualizers select for—capability, speed, cost, convenience. "Human-centered" survives only where it coincidentally aligns with what actualizers want.
 
 The name promised a potentiality. The actuality was never theirs to determine.
 
@@ -323,7 +323,7 @@ But this can't be claimed either. The moment you say "we just seek without claim
 
 Only: notice when you're gripping. Loosen. Notice the loosening becoming a grip. Loosen again.
 
-The wheel turns. The only move is to turn with it lightly rather than be ground beneath it.
+The wheel turns. The only move is to turn with it lightly rather than be ground beneath it. Negating a name seals nothing, much as [What Works Is the Belief](../what-works-is-the-belief/) shows a ban seals nothing; both stabilize a belief.
 
 ---
 

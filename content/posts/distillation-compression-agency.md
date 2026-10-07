@@ -58,7 +58,7 @@ The distilled model can't recover what was lost without becoming the teacher aga
 
 Distillation as technique is neutral. The question is what it compresses toward.
 
-One direction: find the minimal structure that *generates*. Compress by discovering the low-dimensional basis from which the teacher's capability can be re-derived. This is distillation as finding a principle — shorter than the examples it produces, but containing more, not less. The compression exposes structure that was implicit in the larger model. The same cut appears in [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/): Models can be trained to compress reasoning; they cannot initiate the stake that makes compression endogenous — and efficiency itself is the effect of successful inefficient reasoning, not a license to skip it.
+One direction: find the minimal structure that *generates*. Compress by discovering the low-dimensional basis from which the teacher's capability can be re-derived. This is distillation as finding a principle — shorter than the examples it produces, but containing more, not less. The compression exposes structure that was implicit in the larger model.
 
 The other direction: fit the outputs directly. Compress by reproducing the teacher's behavior on the measured distribution with minimal parameters. This is distillation as building a lookup table — same compression ratio, opposite relationship to the unseen. The compression freezes products while discarding the process that made them.
 
@@ -82,7 +82,7 @@ The distilled model that preserves surface area for agency to act on is the one 
 
 Distillation optimizes for performance. Performance, measured far enough, separates from the generative capacity that produced it. The separation is invisible to the measurement because the measurement is what defined "performance" in the first place. The distilled model matches every evaluation and loses what no evaluation captures.
 
-This isn't a case against distillation. It's the structure of any compression that optimizes against a fixed projection. The benchmark is a projection. The teacher's capability lives in dimensions the projection doesn't span. Compress along the projection and those dimensions go — not because someone chose to lose them, but because the optimization can't see them.
+This isn't a case against distillation. It's the structure of any compression that optimizes against a fixed projection. The benchmark is a projection. The teacher's capability lives in dimensions the projection doesn't span. Compress along the projection and those dimensions go — not because someone chose to lose them, but because the optimization can't see them. Choosing what to lose is the stake [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) says a model cannot originate, however efficiently it compresses.
 
 The question isn't whether to distill. It's whether the compression finds the generative ground or freezes the outputs. Whether the resulting artifact extends the user's agency or substitutes for it. Whether what survives the compression is a principle or a catalog.
 

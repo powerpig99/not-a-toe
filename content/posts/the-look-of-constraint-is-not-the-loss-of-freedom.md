@@ -12,7 +12,7 @@ Beneath this simplistic proverb, an entirely different cybernetic sequence is ru
 
 At the beginning of an individual life, the genetic opening spread is small relative to what later unfolds. The open term of childhood is not a mystical reservoir of infinite freedom, nor is it a closed container of fixed capacity waiting to be filled. It is an active locus of distinction encountering an environment with minimal accumulated residue.
 
-Early childhood behavior appears spontaneous, curious, and unconstrained precisely because almost no auto-correlated traces have yet crystallized into rigid habits or internal models. High apparent freedom is **sparse historical conditioning colliding directly with unmediated physical feedback**, not an unconstrained metaphysical surplus that reality later confiscates. [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) traces this geometry under a different load: When intermediate causal bounces are occluded, ordinary consequences appear as baffling magic; perceived conflict is simply a missing causal link within our internal model, and tracing the rebound is the deliberate expansion of our own perceptual horizon toward coherent reality.
+Early childhood behavior appears spontaneous, curious, and unconstrained precisely because almost no auto-correlated traces have yet crystallized into rigid habits or internal models. High apparent freedom is **sparse historical conditioning colliding directly with unmediated physical feedback**, not an unconstrained metaphysical surplus that reality later confiscates.
 
 Every physical contact with the environment writes a step into the system:
 
@@ -36,7 +36,7 @@ Under this continuous recapture:
 
 Childhood was simply the developmental phase *before* the common basins had accumulated enough historical residue to hold onto. Adulthood is the phase in which, for the vast majority of people, the basins have taken hold.
 
-This statistical clustering is an ordinary causal consequence of shared gradients. It requires no mythical "fall from an original state of grace."
+This statistical clustering is an ordinary causal consequence of shared gradients. It requires no mythical "fall from an original state of grace." Adulthood looks like confiscation only when the intermediate choices are hidden, the bank shot [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) describes.
 
 ## Where Agency Is Pointed: Extending Horizon vs. Defending Residue
 
@@ -63,7 +63,7 @@ Adults are not less free than children. The statistical majority of adults are s
 
 The popular aphorism that laments the loss of childhood freedom performs the exact pause it purports to diagnose.
 
-It observes the hardened sociological middle. It takes the surface appearance of that middle—masses of adults operating inside self-imposed, learned limits—and reifies that aggregate look into an immutable law of human nature. Constraint-knowledge is declared to be the villain; lost freedom is declared to be the essence of adulthood. A lagging statistical trace is promoted into an ontological ceiling, and then proclaimed with philosophical gravitas as profound wisdom. [The Substrate of Constraint and the Self-Denial of Freedom](../the-substrate-of-constraint-and-the-self-denial-of-freedom/) meets the same axis from another face: Suffering stems from conditioning freedom on outcomes; freedom is sovereign action under constraints.
+It observes the hardened sociological middle. It takes the surface appearance of that middle—masses of adults operating inside self-imposed, learned limits—and reifies that aggregate look into an immutable law of human nature. Constraint-knowledge is declared to be the villain; lost freedom is declared to be the essence of adulthood. A lagging statistical trace is promoted into an ontological ceiling, and then proclaimed with philosophical gravitas as profound wisdom. Freedom made conditional on outcomes denies itself, as [The Substrate of Constraint and the Self-Denial of Freedom](../the-substrate-of-constraint-and-the-self-denial-of-freedom/) shows.
 
 This is the exact same inversion the aphorism attributes to the adults it observes:
 

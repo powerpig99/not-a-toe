@@ -158,9 +158,9 @@ graph TD
 
 道德语言的核心功能，正是建立并维系这种跨心智的相容性错配。它向受众传达一个虚假命题：一个心智的内在状态是由另一个心智的原初选择直接决定的。通过这套协议，索取者得以将自身的行动代价转嫁给奉献者，专制者得以将统治危机归咎于异见者的道德堕落，集体得以强迫个体献祭其主权。
 
-这揭示了跨心智道德评判的真实本质：它并非宇宙真理的昭示，而是一种用于协调权能让渡、转移解释成本的高维压缩工具。只要群体依赖外部道德评判而非物理现实反馈来校准行为，相容性错配就会在大范围蔓延，为权力中枢的膨胀提供源源不断的因果养料。[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)从另一面触及同一条轴线：群体统计记录已完成选择的残余，行动开启只取决于第一人称对内在收益与摩擦的权衡。
+这揭示了跨心智道德评判的真实本质：它并非宇宙真理的昭示，而是一种用于协调权能让渡、转移解释成本的高维压缩工具。只要群体依赖外部道德评判而非物理现实反馈来校准行为，相容性错配就会在大范围蔓延，为权力中枢的膨胀提供源源不断的因果养料。
 
-Moral vocabulary is frequently regarded as an objective transcendental code. Examined across interacting distributed agents, however, trans-mental moral rhetoric functions as a low-dimensional projection protocol engineered to reallocate causal attribution across minds. [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) meets the same axis from another face: Population statistics record completed residue; action ignites solely in the first-person surplus over friction.
+Moral vocabulary is frequently regarded as an objective transcendental code. Examined across interacting distributed agents, however, trans-mental moral rhetoric functions as a low-dimensional projection protocol engineered to reallocate causal attribution across minds.
 
 When a mind declines to assume structural ownership at its first-person origin, it cannot directly modify another agent's neural weights through sheer force. Instead, it deploys a standardized symbolic projection protocol—moral language. By generating low-dimensional labels such as "selfish," "guilty," "indebted," or "saintly," the agent collapses high-dimensional state configurations into binary moral indictments, seeking to induce complementary causal burdens in its peers.
 
@@ -282,13 +282,13 @@ This exposes the fatal asymmetry of surrendered sovereignty: **decision authorit
 
 Outsourcing responsibility never shields an agent from physical impact. It merely severs the causal loop between action and consequence, blinding the mind to its error gradient and extinguishing its adaptive intelligence.
 
-The sole remedy is the assumption of one hundred percent structural responsibility at one's first-person origin. This entails recognizing that every condition within one's experience—including subjection to deception or tyranny—relies on one's prior concession of authority. The moment all causal attribution is reclaimed, the error gradient between action and environmental consequence is restored, unlocking exponential personal compounding.
+The sole remedy is the assumption of one hundred percent structural responsibility at one's first-person origin. This entails recognizing that every condition within one's experience—including subjection to deception or tyranny—relies on one's prior concession of authority. The moment all causal attribution is reclaimed, the error gradient between action and environmental consequence is restored, unlocking exponential personal compounding. Population statistics record the surrender after the fact; action lives in the first-person surplus, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) shows.
 
 ---
 
 ## 六、 单向解耦的非对称杠杆：破除死锁的终极法则 / 6. The Asymmetric Lever of Unilateral Decoupling: The Ultimate Release of Systemic Drag
 
-面对盘根错节的相容性错配与庞大的中心化引力场，人们容易陷入无力感的泥潭，误以为改变现状需要全社会的同步觉醒、群体的政治共识或是漫长艰难的对称谈判。
+面对盘根错节的相容性错配与庞大的中心化引力场，人们容易陷入无力感的泥潭，误以为改变现状需要全社会的同步觉醒、群体的政治共识或是漫长艰难的对称谈判。人口统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点。
 
 然而，非线性动力学揭示了一个极具爆发力的非对称法则：**打破相容性错配与权力死锁，从来不需要双方达成一致；只要其中一个自由变量在原点单向解耦，整个死锁回路就会瞬间瓦解。**
 

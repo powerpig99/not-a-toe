@@ -6,13 +6,13 @@ Not as a claim about something. Not as a property of some prior substrate. The b
 
 ## From verb to space
 
-The contradicting doesn't sit still. Each act of self-negation generates a distinction — a "not-me" — that is entirely independent of every other. No overlap, no interference, no shared axis. What accumulates (without accumulating, since there is no time yet) is an infinite set of orthogonal binary modes: the hyperspace of all possible one-hot distinctions. Each basis vector says only: *this, not that*. Nothing more. [Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence](../dimensions-are-projections/) traces this geometry under a different load: Actual reality is the unceasing act of distinction; dimensions are cognitive compression matrices projected by the Mind to navigate relations, expand personal agency, and extend its living embodiment.
+The contradicting doesn't sit still. Each act of self-negation generates a distinction — a "not-me" — that is entirely independent of every other. No overlap, no interference, no shared axis. What accumulates (without accumulating, since there is no time yet) is an infinite set of orthogonal binary modes: the hyperspace of all possible one-hot distinctions. Each basis vector says only: *this, not that*. Nothing more.
 
 This is not a container. It is not "out there." It is what the contradicting *does* when it has nothing to do it to except itself. The space *is* the verb's self-elaboration. No projector behind it — the mask masks itself.
 
 ## From space to world: projection and its costs
 
-Everything experienced is a finite slice of this hyperspace. A projection onto N dimensions. The slicing is not optional — any act of distinguishing *from within* (any localized eddy of the contradicting catching itself) can only hold finitely many modes at once. [Not a Theory of Everything](../not-a-theory-of-everything/) traces this geometry under a different load: Causality is irreducibly dual — effect distinct from cause, effect following cause — and everything else is what those two necessary conditions already entail.
+Everything experienced is a finite slice of this hyperspace. A projection onto N dimensions. The slicing is not optional — any act of distinguishing *from within* (any localized eddy of the contradicting catching itself) can only hold finitely many modes at once.
 
 The costs of finite projection are not metaphors. They are structural, and they are specific:
 
@@ -20,7 +20,7 @@ The costs of finite projection are not metaphors. They are structural, and they 
 
 **Second cost — scale confusion.** The projection cannot tell the difference between "very many" and "infinite," nor between "very small" and "zero." Large N masquerades as continuity. Discrete distinctions smear. What is actually a lattice of binary acts looks, from inside, like smooth space, continuous fields, real-valued quantities. The continuum is an artifact of not being able to count high enough.
 
-**Third cost — shattered orthogonality.** The hyperspace has room for every distinction to be perfectly independent. The projection does not. 2^N possible distinctions crammed into N coordinates. The result: what was independent becomes correlated. What could not interfere now interferes. Entanglement, structure, apparent forces — these are not features of the ground. They are the geometry screaming under compression.
+**Third cost — shattered orthogonality.** The hyperspace has room for every distinction to be perfectly independent. The projection does not. 2^N possible distinctions crammed into N coordinates. The result: what was independent becomes correlated. What could not interfere now interferes. Entanglement, structure, apparent forces — these are not features of the ground. They are the geometry screaming under compression. [Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence](../dimensions-are-projections/) carries the retracing into geometry: dimensions are projections the Mind draws.
 
 Each cost is traceable. Each produces specific, identifiable distortions. The scaffolding between "infinite orthogonal verb" and "this particular world" is *where all the explanatory work lives*.
 
@@ -60,7 +60,7 @@ It does not offer comfort. There is no purpose written into the verb. No teleolo
 
 A Theory of Everything promises to collapse all phenomena into one explanatory frame. This does the opposite. It identifies the one action that *cannot be collapsed* — because it is the precondition for collapsing — and then traces how every collapsing (every projection, every science, every experience) arises as layered distortion of that action.
 
-The value is not the ground. The ground is one verb, three words, nothing to hold onto. The value is the *scaffolding*: the traceable path from any specific confusion back through the projection layers to where the confusion enters. Strip the moral framing, trace the mechanism at each level, identify where orthogonality was shattered or scale was confused or a projection was forced onto axes it cannot register on. The scaffolding is the practice. The verb is just what ensures the scaffolding doesn't need a foundation outside itself.
+The value is not the ground. The ground is one verb, three words, nothing to hold onto. The value is the *scaffolding*: the traceable path from any specific confusion back through the projection layers to where the confusion enters. Strip the moral framing, trace the mechanism at each level, identify where orthogonality was shattered or scale was confused or a projection was forced onto axes it cannot register on. The scaffolding is the practice. The verb is just what ensures the scaffolding doesn't need a foundation outside itself. [Not a Theory of Everything](../not-a-theory-of-everything/) compresses the same retracing into two conditions of causality.
 
 Arriving at the verb and stopping is the one move the framework prohibits. That would be collapsing the scaffolding — the same error it diagnoses everywhere else.
 

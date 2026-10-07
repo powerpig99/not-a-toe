@@ -4,9 +4,9 @@ Naval frames separation as the fundamental human disease, with loneliness as its
 
 ## The medical framing obscures mechanism
 
-"Disease" implies pathological deviation from normal function. But separation isn't a malfunction—it's how distinction works. To perceive anything is to draw a boundary between perceiver and perceived. Separation is how reality operates, not what's wrong with it. The same cut appears in [Not a Theory of Everything](../not-a-theory-of-everything/): Causality is irreducibly dual — effect distinct from cause, effect following cause — and everything else is what those two necessary conditions already entail.
+"Disease" implies pathological deviation from normal function. But separation isn't a malfunction—it's how distinction works. To perceive anything is to draw a boundary between perceiver and perceived. Separation is how reality operates, not what's wrong with it.
 
-The hidden move: smuggling in "separation shouldn't be." But compared to what? Undifferentiated unity is indistinguishable from non-existence from any vantage that could register it.
+The hidden move: smuggling in "separation shouldn't be." But compared to what? Undifferentiated unity is indistinguishable from non-existence from any vantage that could register it. Separation is the first distinction causality makes, effect distinct from cause, as [Not a Theory of Everything](../not-a-theory-of-everything/) puts it.
 
 ## Trace what actually happens
 

@@ -16,7 +16,7 @@
 
 人真正能动的部分，从来只有这一处：我如何解释发生在我身上的事，以及我基于这个解释选择此刻做什么。
 
-[个体选择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 是同一归位：条件是场，不是替下一步供因的第二作者。[人生是一个持续的自我迭代过程](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) 是同一截断：误差停在「外部给定」，回不到可更新的权重。[关于归因：从事实到因果，从外部节点到内部迭代](../guan-yu-gui-yin/) 是同一外置停在显眼节点上的面。[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)在另一种负载下描摹了同一几何：选择被称作革命，秩序便是主语，读者收藏的是旧印象的新证据。
+[个体选择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 是同一归位：条件是场，不是替下一步供因的第二作者。[人生是一个持续的自我迭代过程](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) 是同一截断：误差停在「外部给定」，回不到可更新的权重。[关于归因：从事实到因果，从外部节点到内部迭代](../guan-yu-gui-yin/) 是同一外置停在显眼节点上的面。
 
 ## 育儿是在扰乱孩子的内部归因
 
@@ -34,7 +34,7 @@
 
 畅销书里的教育方法大多热衷研究现象、总结规律、平均化经验，却看不见真正重要的东西——那个具体的孩子此刻内心真正在驱动什么。个体自驱力既看不见，也经不起平均。只有近距离观察，将心比心，才能体会到其中的真谛。体会发生在观察的这一边；不是进入他的内心。
 
-[平均值是沉淀的残差，而非引擎](../the-average-is-residue-not-the-engine/) 是同一冻结：把平均残渣当成引擎。[好奇心驱动：天赋与发展的隐秘引擎](../curiosity-first-the-hidden-engine-of-talent-and-development/) 是那个具体驱动的面：好奇的回路，不是可平均的天赋库存。
+[平均值是沉淀的残差，而非引擎](../the-average-is-residue-not-the-engine/) 是同一冻结：把平均残渣当成引擎。[好奇心驱动：天赋与发展的隐秘引擎](../curiosity-first-the-hidden-engine-of-talent-and-development/) 是那个具体驱动的面：好奇的回路，不是可平均的天赋库存。成功的父母把自己的路径当作公式，孩子的差距便被归于外部，[成功之后的育儿谬误](../the-fallacy-of-post-success-parenting/)对此有所剖析。
 
 ## 提供更多选择，不徒增干扰
 
@@ -42,8 +42,8 @@
 
 古人说「孙子自有儿孙福」，不是消极，而是清醒。不是放任，而是自律。父母真正能给的，只有两样：提供更多选择，以及不徒增干扰。其余的路，都必须由孩子自己走。最有效的育儿，看起来最轻松——因为你不再用力去「塑造」他，而是用力去管好自己。管自己的焦虑，管自己的投射，管自己想通过孩子证明什么的那部分欲望。这才是最需要在认知上下功夫的地方。
 
-当父母把归因全部收回自己手里，孩子才有机会把归因也收回自己手里。收回的是父母这边的解释权，不是把内部归因做成礼物交过去。父母不再把外部当命运，孩子才可能学会把条件当条件。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) 是同一边界：没有任何内心能替另一个内心完成返回。
+当父母把归因全部收回自己手里，孩子才有机会把归因也收回自己手里。收回的是父母这边的解释权，不是把内部归因做成礼物交过去。父母不再把外部当命运，孩子才可能学会把条件当条件。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) 是同一边界：没有任何内心能替另一个内心完成返回。用“革命”这样的大词解释一段人生，同样把抓手放在了外部，[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)说明了这一点。
 
 ## 解释权只在自己手里
 
-进步从不是被外界批准的。它只发生在一个地方：一个人决定，把所有解释权，重新握回自己手中。收回不是一次结束；向外投射与收回仍是同一未解的运动。[生成性的矛盾](../the-generative-contradiction/) is that dual as generative source, not a defect the reclaiming finishes. [如何在一瞬间修正你的整个人生](../how-to-fix-your-whole-life-in-one-split-second/) 是那一握作为瞬时归属：其余只是怎么做。[从“目的性”的评判，看认知系统的缺省状态与动态跃迁](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) 剖析了人际博弈中抽取“目的性太强”这一文化标签作为低能耗防御、逃避自我迭代的微观机制。
+进步从不是被外界批准的。它只发生在一个地方：一个人决定，把所有解释权，重新握回自己手中。收回不是一次结束；向外投射与收回仍是同一未解的运动。[生成性的矛盾](../the-generative-contradiction/) is that dual as generative source, not a defect the reclaiming finishes. [如何在一瞬间修正你的整个人生](../how-to-fix-your-whole-life-in-one-split-second/) 是那一握作为瞬时归属：其余只是怎么做。[从“目的性”的评判，看认知系统的缺省状态与动态跃迁](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) 剖析了人际博弈中抽取“目的性太强”这一文化标签作为低能耗防御、逃避自我迭代的微观机制。父母替孩子归因，也是一种外部归因，[引导不是占有](../guidance-is-not-ownership/)说明了引导不是占有。

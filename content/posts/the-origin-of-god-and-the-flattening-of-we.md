@@ -104,13 +104,13 @@ The Mind seeks an ontological container for this unanchored overview. Because th
 
 When this reified overview is codified, standardized, and transmitted across a population, it crystallizes into **institutional religion**.
 
-Religion establishes this projected observer as an absolute external coordinate system, enforcing moral hierarchies from above. Believers bow before a shared cosmic gaze, unaware that they are worshiping the alienated reflection of their own capacity for overview.
+Religion establishes this projected observer as an absolute external coordinate system, enforcing moral hierarchies from above. Believers bow before a shared cosmic gaze, unaware that they are worshiping the alienated reflection of their own capacity for overview. The synthesized god of AI repeats this origin, as [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) shows.
 
 ---
 
 ## 三、 世俗神学的演替：科学的教条化与“人类”的统计均值 / 3. The Secular Succession: Dogmatic Science and "Humanity" as a Statistical Average
 
-许多人以为，现代启蒙与科学理性的兴起打破了神学的桎梏。然而，如果因果机制没有在第一人称原点得到校准，相同的异化模式就会在世俗领域披上新的外衣重新登场。
+许多人以为，现代启蒙与科学理性的兴起打破了神学的桎梏。然而，如果因果机制没有在第一人称原点得到校准，相同的异化模式就会在世俗领域披上新的外衣重新登场。AI 时代合成出来的神，重复了这一起源，[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)说明了这一点。
 
 当科学理论被剥离了个体心智亲力亲为的经验验证与因果反馈回路，退化为教科书上不容置疑的终极教条时，**科学便成了宗教的现代替代品**。大众对权威科学结论的盲信，与古代信徒对神谕的敬畏在认知拓扑上毫无二致——二者都在向一个脱离第一人称原点的抽象权威让渡判断主权。
 
@@ -132,7 +132,7 @@ graph TD
 
 更为深层的降维发生在心智试图去谈论“人类整体”或各种集体概念的时刻。
 
-当心智跳出具体的鲜活个体，站在假想的宇宙高度俯瞰所谓“人类”时，它实际上是在一个极其狭窄的特征维度（例如物种基因、经济产出或政治派系）上，对百亿个本应平行翱翔的独立主权心智进行粗暴的**一维统计求均值**。这种统计均值强行抹平了每一个个体心智作为独立宇宙的非平凡性，将鲜活的主权心智压缩为宏大叙事中的无差别像素点。[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)从另一面触及同一条轴线：生物演化、器物设计与借宇宙演进之名凌驾同类的认识论自戕。
+当心智跳出具体的鲜活个体，站在假想的宇宙高度俯瞰所谓“人类”时，它实际上是在一个极其狭窄的特征维度（例如物种基因、经济产出或政治派系）上，对百亿个本应平行翱翔的独立主权心智进行粗暴的**一维统计求均值**。这种统计均值强行抹平了每一个个体心智作为独立宇宙的非平凡性，将鲜活的主权心智压缩为宏大叙事中的无差别像素点。
 
 ```mermaid
 graph TD
@@ -150,7 +150,7 @@ graph TD
     style HomogenizedCollective fill:#21262d,stroke:#ff7b72,stroke-width:2px,color:#ff7b72
 ```
 
-Many believe that modern enlightenment abolished theological illusions. Yet unless causal mechanics are anchored at the first-person origin, the identical alienation reproduces itself in secular guise. [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) meets the same axis from another face: Biological Evolution, Artifact Design, and the Performative Contradiction of Cosmic Humility.
+Many believe that modern enlightenment abolished theological illusions. Yet unless causal mechanics are anchored at the first-person origin, the identical alienation reproduces itself in secular guise.
 
 When scientific theory is severed from the Mind's direct, first-person experimental feedback and reduced to an unchallengeable set of authoritative facts, **science becomes just another surrogate religion**. Blind trust in external consensus operates on the exact same topological surrender as religious faith.
 

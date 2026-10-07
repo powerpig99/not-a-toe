@@ -27,12 +27,12 @@
 正是心智在当下指着一块石头说：“这代表一亿年前的海洋”；正是理论家在当下指着一段光谱说：“这代表宇宙初期的暴胀”。是我们从唯一的“当下”出发，向后画出了一条标有虚构坐标 `t` 的射线，把当下的微观结构解释为那条轴线上的投影点。
 
 **“过去”和“未来”毫无二致——它们根本不是现实的实体容器，而是人类在唯一的当下切片上，向虚空画出的两条双向投影射线。** 
-因此，任何以为自己掌握了“过去客观记录”、并试图以此来编织万物理论的企图，从第一步起就建立在将投影误认为现实的幻觉之上。[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)从另一面触及同一条轴线：最优之选与极劣之防皆困于已知样本，唯有不可预设的本体论余量方为生生之源。
+因此，任何以为自己掌握了“过去客观记录”、并试图以此来编织万物理论的企图，从第一步起就建立在将投影误认为现实的幻觉之上。
 
 ---
 
 Embedded deep within the classical quest for a **"Theory of Everything" (ToE)** lies an unexamined article of faith:
-The assumption that science can deduce ultimate cosmic laws because the universe maintains an objective, immutable **"record of the past"**—that if we only excavate enough geological strata, measure the cosmic microwave background with sufficient precision, and log enough terabytes of particle collisions, we will possess a solid ledger of past physical facts upon which a final equation can be erected. [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) meets the same axis from another face: Best-of-N and Worst-of-N remain trapped in closed sets; only the unconditioned remainder breathes living reality.
+The assumption that science can deduce ultimate cosmic laws because the universe maintains an objective, immutable **"record of the past"**—that if we only excavate enough geological strata, measure the cosmic microwave background with sufficient precision, and log enough terabytes of particle collisions, we will possess a solid ledger of past physical facts upon which a final equation can be erected.
 
 **This is a foundational epistemological error: there is no such thing as an objective record of the past.**
 
@@ -79,12 +79,12 @@ Any attempt to claim that a Theory of Everything is grounded in a complete, obje
 在你自以为终于在方程里把现实的一切都“打包封口”的瞬间，现实早已跨过门槛、进入了全新的下一瞬（`+1`）。你所捕获的所谓“万物全景”，在落笔完成的第一毫秒，就已经沦为了被现实甩在身后的旧投影。
 
 **索求万物理论，在它被提出来的瞬间就已自溃。**
-它试图以一个系统内部的局域动作去冻结整个系统的流动，但这个动作本身的存在，就是流动永不停歇的最直接见证。你永远无法用一张包含所有地图的地图去覆盖领土，因为画出这张地图的墨水，本身就是领土上正在涌现的新地貌。同一道切分也出现在[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)之中：内心世界、压缩与定义的陷阱。
+它试图以一个系统内部的局域动作去冻结整个系统的流动，但这个动作本身的存在，就是流动永不停歇的最直接见证。你永远无法用一张包含所有地图的地图去覆盖领土，因为画出这张地图的墨水，本身就是领土上正在涌现的新地貌。
 
 ---
 
 Because time is not a pre-existing dimension but the irreversible unfolding of reality, we arrive at the most devastating and unanswerable paradox confronting the ToE:
-**The demand for a Theory of Everything collapses in self-refutation at the very instant it is formulated.** The same cut appears in [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/): Interiority, Compression, and the Trap of Definition.
+**The demand for a Theory of Everything collapses in self-refutation at the very instant it is formulated.**
 
 Why?
 Because **the act of conceiving an idea, writing down an equation, or uttering the demand for a ToE is itself an irreversible physical causal event!**
@@ -436,11 +436,11 @@ Perceiving this structural coherence across scales reveals the limits of seeking
 从这个角度审视：
 **当物理学宣称它通过块状宇宙和几何度规“统一了时间”时，它并没有解开时间之谜；它只是通过把时间彻底空间化、把生成彻底静态化、把活人彻底降解为流形上的冷冻切片，来逃避真实的现实！**
 
-在投影的时间维度上，一切都是已经完成的死物；但在活的真实时间里，每一次呼吸、每一次观测、每一次选择，都在以不可化约的粗粝代价，将整张地图撕开并推向不可逆的新生。[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)从另一面触及同一条轴线：形式模型、宏观摩擦，以及未被定律决定的现实。
+在投影的时间维度上，一切都是已经完成的死物；但在活的真实时间里，每一次呼吸、每一次观测、每一次选择，都在以不可化约的粗粝代价，将整张地图撕开并推向不可逆的新生。一份为所有心智共享的清单，正是[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所说的那个幻觉沙盒。
 
 ---
 
-If reality cannot be frozen, and possesses a practical near-infinite complexity that dwarfs our sparse models, how has theoretical physics maintained the grandiose narrative that a Theory of Everything can govern all of existence? [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) meets the same axis from another face: Formal Models, Macroscopic Friction, and a Reality Undetermined by Law.
+If reality cannot be frozen, and possesses a practical near-infinite complexity that dwarfs our sparse models, how has theoretical physics maintained the grandiose narrative that a Theory of Everything can govern all of existence?
 
 It sustains this illusion through a profound sleight of hand:
 **It systematically conflates "Actual Time" with a "Projected Time Dimension," and uses the latter to replace the former.**
@@ -498,7 +498,7 @@ Then, scientism commits a catastrophic double error:
 2. **Let alone the lived reality itself!**  
    If even the stylized, simplified four-dimensional mental projection fails to achieve universal identity across different conscious minds, on what grounds could theoretical physics possibly claim that this homogenized 4D geometric projection *is the actual lived reality* we are perceiving?!
 
-Lived reality is not a four-dimensional geometric specimen, nor is it an inert pseudo-Riemannian manifold. It is the unscripted, turbulent, energetically dissipative flux of immediate causal generation updating at the Planck refresh rate (`h ≠ 0`). **To mistake the subjective felt invariance of our mental projection for reality itself is an easy cognitive trap; and to claim that a sterilized 4D coordinate map can encompass a Theory of Everything overlooks the unclosable, generative nature of the living cosmos.**
+Lived reality is not a four-dimensional geometric specimen, nor is it an inert pseudo-Riemannian manifold. It is the unscripted, turbulent, energetically dissipative flux of immediate causal generation updating at the Planck refresh rate (`h ≠ 0`). **To mistake the subjective felt invariance of our mental projection for reality itself is an easy cognitive trap; and to claim that a sterilized 4D coordinate map can encompass a Theory of Everything overlooks the unclosable, generative nature of the living cosmos.** A catalog shared by all minds is the sandbox [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) calls an illusion.
 
 ### The Isomorphic Epistemological Trap: The "Assumption of Rationality" and the Illusion of "Irrationality"
 
@@ -552,7 +552,7 @@ And here lies the humble, serene ethos of our entire inquiry:
 **The exercise of this project is not to proselytize, argue, or correct any other mind; it is simply providing the scaffolding that this mind creates for the future self or any other mind who might find it useful to step out of itself.**
 
 **Here again, we witness the absolute coherence of both sides of the same coin:**
-From the third-person outside, one observes the formal boundaries of sparse models, irreducible friction, and the discrete quantum refresh of reality (`h ≠ 0`). But from the first-person inside, one exercises the sovereign agency to break the syntactic trance, step beyond the horizon of the established map, and make contact with unmodeled becoming (`+1`).
+From the third-person outside, one observes the formal boundaries of sparse models, irreducible friction, and the discrete quantum refresh of reality (`h ≠ 0`). But from the first-person inside, one exercises the sovereign agency to break the syntactic trance, step beyond the horizon of the established map, and make contact with unmodeled becoming (`+1`). "Physics is the law" is the catalog written as a statute, and [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) shows the sleight of hand involved.
 
 **Crucially, this is not a tragedy; it is just the way it is.**
 
@@ -568,7 +568,7 @@ The "theories" or cognitive models we adopt are nothing more than the local inva
 **Reality does not remain unclosable to satisfy a preferred metaphysical design, but because the generative unfolding of causality possesses no single, disembodied "View from Nowhere." Moral language inherently presumes a preferred version of the universe or reality, yet there is no such celestial vantage point. The preference of this mind does not automatically become the preference of another mind, let alone all minds. Each conscious agent chooses what to attend to, and that choice constitutes the reality it experiences. There is neither an external tribunal nor a universal hierarchy of preferences. It is as simple as that.**
 
 Following this theoretical inversion:
-**When physics claims to have mastered time through the Block Universe, it has not explained time; it has merely spatialized time into a corpse, petrified reality into geometry, and reduced living agency to an inert line on frozen coordinates—all to evade actual reality!**
+**When physics claims to have mastered time through the Block Universe, it has not explained time; it has merely spatialized time into a corpse, petrified reality into geometry, and reduced living agency to an inert line on frozen coordinates—all to evade actual reality!** The block universe freezes time this way, and [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/) finds the observer it hides.
 
 Along the projected time dimension, everything is already dead and calculated. But in actual living time, every breath, every measurement, and every sovereign decision tears through the static map, thrusting the cosmos into unscripted becoming.
 
@@ -578,9 +578,9 @@ Along the projected time dimension, everything is already dead and calculated. B
 ## 七、 逃避未来的本体风险：以代数坐标拒斥不可撤销的因果跨越 / 7. Avoiding the Ontological Risk of the Future: Calculating Coordinates to Evade the Real Step
 
 理清了上述幻觉之后，一个更加尖锐的人性问题浮出水面：
-**既然从认识论上看，任何理论都无法穷尽生成着的现实，为什么许多智识传统依然长期追求一套闭合的终极理论？**
+**既然从认识论上看，任何理论都无法穷尽生成着的现实，为什么许多智识传统依然长期追求一套闭合的终极理论？**“物理即定律”是把清单写成了法条，[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)揭示了其中的戏法。
 
-这主要源于认知系统对确定性与稳定性的结构性偏好：试图通过完备的静态模型，来规避面对未决未来时的因果不确定性。
+这主要源于认知系统对确定性与稳定性的结构性偏好：试图通过完备的静态模型，来规避面对未决未来时的因果不确定性。块状宇宙正是这样冻结时间的，[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)找出了它藏起的观察者。
 
 真实的时间是不可逆的。
 在真实的当下，你不可能通过倒带去撤销一个动作，你不可能通过改变坐标符号去消除一次坍缩；
@@ -596,7 +596,7 @@ Along the projected time dimension, everything is already dead and calculated. B
 **通过把现实视为一份基于当下的全知清单，并把未来表述为一条预先写定的几何流形，这种构想提供了一种确定性的承诺：“未来只是一段已经被算好的坐标；宇宙的一切已被大一统理论所封闭，只需推演其代数解即可。”**
 
 索求万物理论，本质上是**用对坐标维度的代数计算，替代了实际踏入未来的因果步长**。
-它试图用静态闭合的模型，免除身处开放因果流中所面临的未知与变数。
+它试图用静态闭合的模型，免除身处开放因果流中所面临的未知与变数。即便是最优 N 与最差 N，也仍停在清单之内，[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)说明了这一点。
 
 ---
 
@@ -611,7 +611,7 @@ In the living present, you cannot reverse an outcome by flipping a plus sign to 
 Before that step is actualized:
 * No master equation can guarantee the outcome in advance;
 * No Lagrangian density can absorb the suffering of error on your behalf;
-* The architecture of the future remains radically contingent upon the sovereign interventions of conscious navigators amidst coarse reality.
+* The architecture of the future remains radically contingent upon the sovereign interventions of conscious navigators amidst coarse reality. Even Best-of-N and Worst-of-N stay inside a catalog, as [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) shows.
 
 Stepping into an unmodeled future inherently carries causal unpredictability.
 A Theory of Everything represents the conceptual endeavor to minimize that unpredictability by projecting complete closure.
@@ -711,12 +711,12 @@ Physics cannot resolve this question not because its equations lack complexity, 
 心智在此展现出**“活体观察者”**的解耦功能：
 1. **辨析语法的固化**：当形式逻辑试图把先决前提降解为可选假说时，心智能够辨明其范畴倒错；
 2. **走出静态清单的局限**：当形式系统试图用投影坐标替代活体现实时，心智能够重新感知具身的真实摩擦；
-3. **回归生成的动词**：心智能够主动从写就的名词符号中抽身，重新立足于生成着的因果前沿（`+1`）。同一道切分也出现在[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)之中：静态宇宙模型如何制造时间膨胀。
+3. **回归生成的动词**：心智能够主动从写就的名词符号中抽身，重新立足于生成着的因果前沿（`+1`）。
 
 ---
 
 Within formal systems, a recurring structural slippage appears:
-**Why does human discourse perpetually slip back into the reductionist narrative, even after an inquirer has definitively recognized its falsity?** The same cut appears in [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/): How the Frozen Universe Model Manufactures Time Dilation.
+**Why does human discourse perpetually slip back into the reductionist narrative, even after an inquirer has definitively recognized its falsity?**
 
 Every rigorous thinker has witnessed this regression:
 One moment you clearly establish that "the Irreducible Prior is the untransgressable precondition for all verification"; yet within minutes, driven by linguistic inertia, thought regresses and someone asks: *"So, how do we prove the Irreducible Prior? Shouldn't we treat it as an unverified assumption? Could future physics uncover its origin?"*

@@ -37,11 +37,11 @@ graph TD
 
 无可否认，这些思想家所看到的模式，确实比他们同时代的多数人更加清晰、更加深刻。他们所提供的概念工具，极大地扩展了人类理解世界的坐标系。
 
-然而，正是在这种高对比度的清晰感面前，一个潜伏在认知机制最底层的致命倒错悄然发生了。同一道切分也出现在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)之中：自客体化、因果倒置的反置与主权裁决的归位。
+然而，正是在这种高对比度的清晰感面前，一个潜伏在认知机制最底层的致命倒错悄然发生了。
 
 ---
 
-The most brilliant minds in intellectual history possess the rare gift of perceiving vast macroscopic invariants across nature and society; yet almost without exception, they succumb to the identical epistemic amnesia: forgetting that they are not an omniscient deity looking down from above, but merely another situated mind navigating reality through its own local horizon. The moment a mind adopts this invisible God's eye, fellow sovereign minds cease to be seen as parallel universes; they are flattened into low-dimensional pawns within that thinker's private sandbox. Master models are, in truth, incredible, bright, and precision goalposts for sovereign navigation, yet tragically mistaken for godlike idols by devotees who imagine they understand them. Follower adulation cements the master's certitude into rigid orthodoxy; far from resolving the original crisis, this dynamic reintroduces the identical tragedy across history. True knowledge cannot remain a third-person spectator's exhibit; it must be incorporated directly into the sovereign mind's own causal feedback loop. The same cut appears in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/): Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment.
+The most brilliant minds in intellectual history possess the rare gift of perceiving vast macroscopic invariants across nature and society; yet almost without exception, they succumb to the identical epistemic amnesia: forgetting that they are not an omniscient deity looking down from above, but merely another situated mind navigating reality through its own local horizon. The moment a mind adopts this invisible God's eye, fellow sovereign minds cease to be seen as parallel universes; they are flattened into low-dimensional pawns within that thinker's private sandbox. Master models are, in truth, incredible, bright, and precision goalposts for sovereign navigation, yet tragically mistaken for godlike idols by devotees who imagine they understand them. Follower adulation cements the master's certitude into rigid orthodoxy; far from resolving the original crisis, this dynamic reintroduces the identical tragedy across history. True knowledge cannot remain a third-person spectator's exhibit; it must be incorporated directly into the sovereign mind's own causal feedback loop.
 
 Endowed with extraordinary informational bandwidth and profound powers of abstraction, this rare lineage of towering minds cut through the chaotic din of sensory particulars to grasp the deep macroscopic invariants governing cosmos and civilization.
 
@@ -229,13 +229,13 @@ graph TD
 5. **戴维·多伊奇的通用图灵机**：
    多伊奇将心智定义为能够包含所有物理规律表征的通用解释器。在这幅壮丽的物理主义画卷里，主观意识的深邃不可测性被轻轻拂去，人被等同于信息处理系统。他确信只要解释能力无限扩展，现实的一切黑暗都能被驱散，却忽略了任何解释者本身就是身处局域迷雾中的参与者，解释永远无法跑在存在的前面。
 
-他们之所以能把模型造得如此晶莹剔透，正是因为他们把活生生的人简化成了纸面上的剪影。**正是因为他们比常人看得更清晰，他们才更有底气将自己的高清投影误认为宇宙的本体。**
+他们之所以能把模型造得如此晶莹剔透，正是因为他们把活生生的人简化成了纸面上的剪影。**正是因为他们比常人看得更清晰，他们才更有底气将自己的高清投影误认为宇宙的本体。**大思想家的方案把任务分派出去，却忘了后果由谁承担，[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)说明了这一点。
 
 ---
 
 The most devastating consequence of adopting the God's Eye is not theoretical; it is **the systematic degradation of other living human minds**.
 
-In the actual causal topology of reality, every conscious mind is a sovereign, self-originating singularity. As demonstrated in [The Shadow and the Infinite](../the-shadow-and-the-infinite/), the dimensional gulf separating the physical continuum from any observer's perceptual frame is effectively unbounded. This implies an unyielding truth: every other human being is a parallel, incommensurable universe operating from their own irreducible origin, executing their own living causal choices (+1).
+In the actual causal topology of reality, every conscious mind is a sovereign, self-originating singularity. As demonstrated in [The Shadow and the Infinite](../the-shadow-and-the-infinite/), the dimensional gulf separating the physical continuum from any observer's perceptual frame is effectively unbounded. This implies an unyielding truth: every other human being is a parallel, incommensurable universe operating from their own irreducible origin, executing their own living causal choices (+1). The master thinker's plan delegates tasks while forgetting who bears the consequences, as [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) shows.
 
 Yet the moment a thinker adopts an Olympian vantage, this sacred horizontal parity is obliterated: **other minds cease to be parallel universes and are collapsed into low-dimensional projections inside the master's private sandbox.**
 
@@ -406,7 +406,7 @@ When this blueprint collides with the living territory, failure is structurally 
 2. **The Tragic Inversion of Scapegoating**:
    When their prescriptions flounder, thinkers possessed by the God's Eye rarely question their own elevated vantage. Instead, they retreat into wounded arrogance. They blame the world for failing the theory: "mankind is too corrupt," "the masses lack rationality," "they refuse to heed the truth." They frame the friction as a tragedy of human inadequacy, never recognizing the foundational category error: **they attempted to smother an erupting volcano with a two-dimensional sheet of paper.**
 3. **The Compounding Echo Chamber of Followership**:
-   Because of their extraordinary brilliance, master thinkers construct low-dimensional models possessing breathtaking explanatory power and aesthetic symmetry. This intellectual radiance understandably attracts vast legions of devoted followers. Yet disciples commit a fatal category mistake: believing they "understand" the master, they mistake brilliant, precision navigational goalposts for godlike idols to be worshipped. This massive following constructs a perilous social echo chamber: the adulation of disciples reinforces the master's conviction in the absolute correctness of their model, while the master's growing certitude codifies the disciples' dogmatic loyalty. Together, they form a closed loop: anyone questioning the framework is dismissed as intellectually defective or morally bankrupt.
+   Because of their extraordinary brilliance, master thinkers construct low-dimensional models possessing breathtaking explanatory power and aesthetic symmetry. This intellectual radiance understandably attracts vast legions of devoted followers. Yet disciples commit a fatal category mistake: believing they "understand" the master, they mistake brilliant, precision navigational goalposts for godlike idols to be worshipped. This massive following constructs a perilous social echo chamber: the adulation of disciples reinforces the master's conviction in the absolute correctness of their model, while the master's growing certitude codifies the disciples' dogmatic loyalty. Together, they form a closed loop: anyone questioning the framework is dismissed as intellectually defective or morally bankrupt. The inventory from nowhere in [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) is this eye drawing up lists.
 
    Crucially, the legions of devotees in this loop are never passive, brainwashed dupes or mindless automatons. To look down upon followers as an ignorant herd is to slide right back into the Olympian arrogance of the God's Eye. In this view, even the collective tragedy is an expression of the infinitely beautiful individual sovereignty, and the tragedy is in the unawareness of it—where even the unawareness itself is freely expressed. No mechanical apparatus can manufacture an Inquisition; no soulless gear can sustain a totalitarian crusade. The colossal, devastating momentum of historical tragedy is powered by nothing other than the inexhaustible creative voltage of millions of sovereign minds exercising their irreducible freedom to surrender their agency, pouring their own divine fire into an external vessel. The devotee kneels before the glowing idol, unaware that the idol possesses zero radiance of its own—it is illuminated entirely by the devotee's own projected sovereignty. Even in the depths of collective catastrophe, what unfolds is never the conquest of an external system, but the radical, tragic power of sovereign consciousness exercising its freedom to choose oblivion, to fashion its own cage, and to crown its own phantom king.
 4. **The Historical Recurrence of the Same Disease**:
@@ -418,7 +418,7 @@ You cannot resolve multi-dimensional human conflict inside a low-dimensional san
 
 ## 五、 消解上帝之眼：在无顶棚的世界中与同侪共处 / 5. Dissolving the God's Eye: Living Among Equals in an Uncapped World
 
-如果我们识破了宏观大师们的原发性失忆，一个清醒的心智应当如何立足？我们如何既能享受宏观洞见的锐利，又免于陷入上帝之眼的幻觉？
+如果我们识破了宏观大师们的原发性失忆，一个清醒的心智应当如何立足？我们如何既能享受宏观洞见的锐利，又免于陷入上帝之眼的幻觉？[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)里那份来自无处之境的清单，正是这只眼睛在开列条目。
 
 这要求我们在认知机制中实施四项根本性的实践重塑：
 
@@ -466,11 +466,11 @@ graph TD
 
 然而，这场智识探索中最深重的悲剧，恰恰发生在那些自以为“理解”了大师的追随者身上：信徒们将指引道路的高精度路标，错当成了必须顶礼膜拜的神像。他们不去利用这些路标在开阔的泥土上迈步前行，反而围绕着路标搭建起封闭的神庙，对每一个路过的探索者进行教条审查与异端裁决。他们以为背诵大师的公式就是拥有了智慧，却不知自己已经将作为自主探索者的主权决断拱手上缴。
 
-真正的知识永远无法停留在第三人称的虚妄旁观视界中。停留在书本与象牙塔中的宏大体系只是死寂的标本；唯有当一个具有第一人称主权的心智，将大师们勘探出的高精度尺度引入自己身处的具体阻力之中，在真实的局域摩擦中做出选择、承担代价，并将其消化、整合进自身闭环的因果反馈流时，那些原本悬浮的符号才真正转化为活生生的认知力量。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)从另一面触及同一条轴线：远方的距离抹平了轮廓，而无处之境的清单将无法通约的视界误判为球门的移动。
+真正的知识永远无法停留在第三人称的虚妄旁观视界中。停留在书本与象牙塔中的宏大体系只是死寂的标本；唯有当一个具有第一人称主权的心智，将大师们勘探出的高精度尺度引入自己身处的具体阻力之中，在真实的局域摩擦中做出选择、承担代价，并将其消化、整合进自身闭环的因果反馈流时，那些原本悬浮的符号才真正转化为活生生的认知力量。
 
 ---
 
-Once we diagnose this primal amnesia, how does a sovereign mind orient itself? How do we harness the penetrating brilliance of macroscopic patterns while remaining entirely immune to the siren song of the God's Eye? [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) meets the same axis from another face: Distance blurs silhouettes, while an inventory from nowhere mistakes incommensurable horizons for moving goalposts.
+Once we diagnose this primal amnesia, how does a sovereign mind orient itself? How do we harness the penetrating brilliance of macroscopic patterns while remaining entirely immune to the siren song of the God's Eye?
 
 This requires four fundamental shifts in epistemic practice:
 
@@ -518,7 +518,7 @@ The macroscopic models constructed by history's towering thinkers are, in truth,
 
 Yet the deepest tragedy of intellectual history unfolds among the legions of followers who genuinely believe they "understand" the master: they mistake brilliant, precision navigational goalposts for godlike idols to be worshipped. Instead of using the marker to chart their own journey through the living mud, they encircle the signpost with temple walls, subjecting every passerby to dogmatic orthodoxy and ideological excommunication. They imagine that repeating the master's axioms equates to understanding, unaware that they have surrendered their own first-person causal agency.
 
-True knowledge cannot remain stranded in a detached, third-person spectator's vantage point. A grand architecture frozen on the blackboard is merely intellectual taxidermy. For knowledge to become real, it must be drawn down from the Olympian balcony and incorporated directly into the sovereign mind's own causal feedback loop. Only when an embodied individual exposes that bright reference marker to the visceral frictions of their own local existence—taking action, bearing consequence, and updating their internal compass through live experiential feedback—does a dead abstract projection transform into living, generative wisdom.
+True knowledge cannot remain stranded in a detached, third-person spectator's vantage point. A grand architecture frozen on the blackboard is merely intellectual taxidermy. For knowledge to become real, it must be drawn down from the Olympian balcony and incorporated directly into the sovereign mind's own causal feedback loop. Only when an embodied individual exposes that bright reference marker to the visceral frictions of their own local existence—taking action, bearing consequence, and updating their internal compass through live experiential feedback—does a dead abstract projection transform into living, generative wisdom. Disciplining a neighbor from the balcony is the god's eye at household scale, as [The Balcony Disciplinary Overstep and the Unproxyable Act](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/) shows.
 
 ---
 
@@ -526,19 +526,19 @@ True knowledge cannot remain stranded in a detached, third-person spectator's va
 
 整个宇宙并不存在任何贵宾看台。
 
-高悬在人类头顶的苍穹之中，没有神明的单向透镜，也没有全知的超级裁判。历史从来不是在某个居高临下的剧场舞台上展开的一出木偶剧，现实是一座向所有方向无限延展的开阔原野。
+高悬在人类头顶的苍穹之中，没有神明的单向透镜，也没有全知的超级裁判。历史从来不是在某个居高临下的剧场舞台上展开的一出木偶剧，现实是一座向所有方向无限延展的开阔原野。在阳台上训诫邻居，是家常尺度上的上帝之眼，[阳台视角的规训僭越与不可代理的未竟之行](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/)对此有所展开。
 
 真正成熟的心智，从来不需要通过扮演上帝来证明自己的深刻。恰恰相反，一个人认知的真正成熟，始于他终于有勇气毅然走下那座虚妄的神坛，踏踏实实地站回大地的泥土之中。
 
 看清宏观的模式，是心智的非凡力量；但看清自己仅仅是千百亿探索者中的一员，才是心智的最高觉醒。
 
-在这个没有天花板的世界里，你不需要去拯救谁，不需要去规训谁，更不需要把任何人塞进你的宏伟图纸。正因为每一个心智的遗忘与不觉同样是自由表达出来的，自由便永远无法通过自上而下的启蒙工程或外部图纸强加给任何人。没有任何先知能够代替同侪觉醒，正如没有任何神明能够剥夺探索者的主权。觉醒从来不是一场由外而内的思想改造，而是一阶心智在某一刻的幡然省悟：原来神坛上本无光芒，漫天神佛的璀璨，皆是自己倾注而出的创造力；那场漫长的沉睡是自己的自由选择，而站起身来直面泥土与地平线，同样是自己当下的自主决断。最庄严的生存姿态，莫过于与身边那些同样不可穷尽的同侪并肩而立，各自握紧手中的微光，在这片永不闭合的辽阔现实中，坦然迈出属于自己的下一步。[阳台视角的规训僭越与不可代理的未竟之行](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/)在另一种负载下描摹了同一几何：为己保留自由却对他施加规训，阳台的对撞唯有降临不可代理的原点方能化解。
+在这个没有天花板的世界里，你不需要去拯救谁，不需要去规训谁，更不需要把任何人塞进你的宏伟图纸。正因为每一个心智的遗忘与不觉同样是自由表达出来的，自由便永远无法通过自上而下的启蒙工程或外部图纸强加给任何人。没有任何先知能够代替同侪觉醒，正如没有任何神明能够剥夺探索者的主权。觉醒从来不是一场由外而内的思想改造，而是一阶心智在某一刻的幡然省悟：原来神坛上本无光芒，漫天神佛的璀璨，皆是自己倾注而出的创造力；那场漫长的沉睡是自己的自由选择，而站起身来直面泥土与地平线，同样是自己当下的自主决断。最庄严的生存姿态，莫过于与身边那些同样不可穷尽的同侪并肩而立，各自握紧手中的微光，在这片永不闭合的辽阔现实中，坦然迈出属于自己的下一步。
 
 ---
 
 The universe possesses no VIP gallery.
 
-Above the open expanse of reality, there is no one-way observation window, no celestial control room, no omniscient cosmic auditor. History is not a puppet play staged before an elevated amphitheater; it is an unbounded continuum stretching in every direction across the living earth. [The Balcony Disciplinary Overstep and the Unproxyable Act](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/) traces this geometry under a different load: Reserving agency for oneself while disciplining others, balcony clashes dissolve only at the unproxyable origin.
+Above the open expanse of reality, there is no one-way observation window, no celestial control room, no omniscient cosmic auditor. History is not a puppet play staged before an elevated amphitheater; it is an unbounded continuum stretching in every direction across the living earth.
 
 A mature mind does not prove its depth by pretending to be God. Epistemic maturity begins with the courage to step off the phantom pedestal and stand firmly upon the soil of immediate presence.
 

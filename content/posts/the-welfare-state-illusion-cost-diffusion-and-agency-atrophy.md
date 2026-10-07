@@ -23,7 +23,7 @@ When citizens look to the state as the author of their security, they perform th
 Why does this illusion persist with such fierce emotional attachment? It is maintained by a severe, systemic asymmetry in how human cognition processes public spending versus private taxation:
 
 ### 1. The Diffusion of Public Cost and Responsibility
-When the state announces a massive new spending initiative—whether an expensive infrastructure project, an expansive social entitlement, or a foreign aid program—the enormous price tag is cognitively divided across tens of millions of taxpayers. [Agency, Compounding, and the Argument Over AI Feudalism](../agency-compounding-and-the-argument-over-ai-feudalism/) traces this geometry under a different load: The debate over whether superintelligence closes social mobility mistakes a finite starting intercept for a dynamic rate of improvement; AI has no agency of its own, but merely accelerates the reinforcement loop the individual already maintains.
+When the state announces a massive new spending initiative—whether an expensive infrastructure project, an expansive social entitlement, or a foreign aid program—the enormous price tag is cognitively divided across tens of millions of taxpayers. 
 
 To the individual citizen, the marginal cost of any specific program appears negligible: *"It only costs each of us a few pennies a day."* 
 
@@ -95,7 +95,7 @@ When external shocks, demographic shifts, or fiscal exhaustion inevitably breach
 
 This diagnosis is not a political manifesto demanding that the state abolish welfare or enact reverse legislation. To look to political reform for salvation is to remain trapped inside the exact same externalized paradigm.
 
-The state is not an independent actor that can be "fixed"; as demonstrated in [Politicians appear as visible symptoms of responsibility diffusion](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/), political structures are merely the lagging macroscopic symptoms of aggregated individual choices.
+The state is not an independent actor that can be "fixed"; as demonstrated in [Politicians appear as visible symptoms of responsibility diffusion](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/), political structures are merely the lagging macroscopic symptoms of aggregated individual choices. The AI feudalism debate repeats the welfare state's assumption that starting position decides outcome, as [Agency, Compounding, and the Argument Over AI Feudalism](../agency-compounding-and-the-argument-over-ai-feudalism/) shows.
 
 The only authentic resolution is **a first-person return to sovereign responsibility**:
 
@@ -103,4 +103,4 @@ The only authentic resolution is **a first-person return to sovereign responsibi
 * Rejecting the moral seduction of outsourced virtue and refusing to treat tax payments as a substitute for active, consequential living;
 * Embracing the direct, unmediated collision with reality—bearing the full weight of one's own costs, debts, and productive output.
 
-True human capability compounds exclusively at the boundary where choices meet unbuffered consequences. The Mind that refuses the comforting anesthesia of the collective buffer is the only entity capable of generating real wealth, expanding its horizon, and remaining genuinely sovereign within the causal continuum. [Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/) meets the same axis from another face: True wealth is the downstream byproduct of an individual relentlessly pursuing self-worthiness against the unbuffered logical consistency of the causal chain; monetization is the voluntary transfer of society’s residual surplus for that creative trace, but when creators or users mistake the accumulated tool for the source of agency, past success shifts from dynamic leverage into an accumulating drag.
+True human capability compounds exclusively at the boundary where choices meet unbuffered consequences. The Mind that refuses the comforting anesthesia of the collective buffer is the only entity capable of generating real wealth, expanding its horizon, and remaining genuinely sovereign within the causal continuum. Transfers that bypass self-worth reverse the flow of wealth, as [Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/) argues.

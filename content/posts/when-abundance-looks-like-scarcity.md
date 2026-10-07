@@ -20,13 +20,13 @@ Every efficiency gain in history has expanded the space of economic activity, no
 
 The steam engine didn't divide a fixed amount of work between humans and machines. It made energy so cheap that entire industries became feasible — railways, factories, mass production — that didn't exist before. Total employment grew.
 
-Computing didn't divide a fixed amount of calculation between humans and machines. It made computation so cheap that entirely new categories materialized — software, the internet, mobile, e-commerce. The demand for people who work with computers went up, not down, precisely because computers did most of the computing. The same cut appears in [Better Than Free After the Checklist Closes](../better-than-free-after-the-checklist-closes/): The eight are named ways differentiation shows up — useful for pointing to it, counterproductive as fixed goalposts — because value is never in the copy, and never in the named thing taken as the differentiation itself.
+Computing didn't divide a fixed amount of calculation between humans and machines. It made computation so cheap that entirely new categories materialized — software, the internet, mobile, e-commerce. The demand for people who work with computers went up, not down, precisely because computers did most of the computing.
 
 AI makes cognitive work cheaper. The replacement frame asks: who loses their slice? The expansion frame asks: what becomes feasible that wasn't before? These are different questions with different answers.
 
 When building software costs nearly nothing, every organization, community, and individual becomes a potential creator. When analysis costs nearly nothing, decision quality improves everywhere. When translation, legal review, and financial planning cost nearly nothing, billions of people gain access to capabilities previously reserved for the few. Each expansion generates needs and activities that don't have names yet — just as "software engineer" had no name before computers existed.
 
-The scenario can't see this because its frame excludes it. If you've already decided the pie is fixed, expansion is invisible by construction. [The myth of population collapse explained](../the-myth-of-population-collapse-explained/) is the demographic face of that conversion: advanced surplus scored as closed stock until the next generation no longer registers as a project this edge can author.
+The scenario can't see this because its frame excludes it. If you've already decided the pie is fixed, expansion is invisible by construction. [The myth of population collapse explained](../the-myth-of-population-collapse-explained/) is the demographic face of that conversion: advanced surplus scored as closed stock until the next generation no longer registers as a project this edge can author. When copies are free, value moves to what [Better Than Free After the Checklist Closes](../better-than-free-after-the-checklist-closes/) describes.
 
 ---
 

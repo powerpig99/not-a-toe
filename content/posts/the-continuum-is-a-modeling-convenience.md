@@ -16,9 +16,9 @@ The increment dx in calculus is never actually zero; continuity is merely the ap
 
 这种替换绝非对客观现实的发现，而是**为了让数学形式能够闭合而不得不采取的建模权宜之计**。
 
-通常人们所设想的“连续性”（Continuity），正是这一权宜之计的副产品。连续性并不是现实世界预先存在的本体论底座，而是一套特定的认知表象：**当因果之间那个离散的、不可逆的物理跃迁步长（`+1`），被主观宣布为“小到可以完全忽略不计”时，平滑无缝的连续幻觉便随之产生。**同一道切分也出现在[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)之中：物理学如何冻结现实电影并将投影命名为宇宙。
+通常人们所设想的“连续性”（Continuity），正是这一权宜之计的副产品。连续性并不是现实世界预先存在的本体论底座，而是一套特定的认知表象：**当因果之间那个离散的、不可逆的物理跃迁步长（`+1`），被主观宣布为“小到可以完全忽略不计”时，平滑无缝的连续幻觉便随之产生。**
 
-The original observation is simple and sharp: **in the formalism of calculus the increment `dx` is never actually zero, yet it is treated as zero once it becomes small enough.** The same cut appears in [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/): How Physics Froze the Movie of Reality and Named the Projection the Cosmos.
+The original observation is simple and sharp: **in the formalism of calculus the increment `dx` is never actually zero, yet it is treated as zero once it becomes small enough.**
 
 From Newton’s fluxions and Leibniz’s infinitesimals to the rigorous Cauchy-Weierstrass epsilon-delta limit formulations, modern mathematics has perfected the mechanics of this operation. Yet no matter how sophisticated the syntax becomes, the foundational physical and logical truth remains inescapable: if `dx` were truly, genuinely zero, the denominator would collapse and all change, motion, and rates of transformation would cease to exist. Movement is possible only because an interval exists. Yet, in order to make the algebra close—to obtain a definite tangent slope and complete an integral—formalism executes a substitution: declaring a non-zero increment to be functionally equivalent to nothingness at the limit.
 
@@ -38,9 +38,9 @@ Continuity, as ordinarily conceived, is the byproduct of this convenience. It is
 
 更具讽刺意味的是，现代泛函分析（通过贝尔纲定理）证明了：在所有连续函数所构成的数学空间中，**处处不可导的函数根本不是罕见的奇葩，它们反而是占据压倒性统治地位的绝对绝大多数！** 我们在物理学和工程教科书里所熟习的那些平滑、处处可微的优美曲线，不过是人类从浩瀚的数学现实中精心挑选、极度脆弱的人工盆景。
 
-物理现实在微观层面同样呼应了这一冷酷真相。当法国物理学家佩兰（Jean Perrin）因测定布朗运动证实原子的实体存在而荣获诺贝尔奖时，他明确援引了魏尔施特拉斯函数：花粉颗粒在水分子的撞击下所划出的物理轨迹，在宏观空间中是连续的，但在时间演化上**处处不可导**。任何试图在物理现实中计算“瞬时速度”（令 `dt → 0`）的尝试都会遭遇发散，因为在每一个微观的间隙里，都存在着离散的物理碰撞与因果代价（`+1`）。平滑的连续微分，在真实的物理世界中从来没有立足之地。同一道切分也出现在[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)之中：投影时间、逃避未来与不可化约的前提。
+物理现实在微观层面同样呼应了这一冷酷真相。当法国物理学家佩兰（Jean Perrin）因测定布朗运动证实原子的实体存在而荣获诺贝尔奖时，他明确援引了魏尔施特拉斯函数：花粉颗粒在水分子的撞击下所划出的物理轨迹，在宏观空间中是连续的，但在时间演化上**处处不可导**。任何试图在物理现实中计算“瞬时速度”（令 `dt → 0`）的尝试都会遭遇发散，因为在每一个微观的间隙里，都存在着离散的物理碰撞与因果代价（`+1`）。平滑的连续微分，在真实的物理世界中从来没有立足之地。
 
-For centuries, classical mathematicians harbored an unexamined article of faith: if a curve is continuous (unbroken), then zooming in close enough—making `dx` sufficiently small—must inevitably flatten the curve into a smooth, well-defined tangent line. Giants like Gauss, Ampère, and Lagrange treated the differentiability of continuous functions as self-evident geometric intuition. The same cut appears in [Demanding a Theory of Everything Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/): Projected dimensions, the avoidance of the future, and the irreducible prior.
+For centuries, classical mathematicians harbored an unexamined article of faith: if a curve is continuous (unbroken), then zooming in close enough—making `dx` sufficiently small—must inevitably flatten the curve into a smooth, well-defined tangent line. Giants like Gauss, Ampère, and Lagrange treated the differentiability of continuous functions as self-evident geometric intuition.
 
 In 1872, Karl Weierstrass shattered this illusion by introducing a function that is **continuous everywhere, but differentiable nowhere.**
 
@@ -140,7 +140,7 @@ Formal logic’s foundational Law of Non-Contradiction (that a proposition canno
 * 在大众科技话语中，面对 AGI 奇点的狂欢，活着的人类竟然迫不及待地开始自我矮化，宣称“人类不过是碳基生物神经网络，注定被硅基淘汰”，主动剥夺自身的第一人称主体性；
 * 在日常生活里，当具体的生命遭遇迷茫与重创，人们不再敢倾听自己肉身在粗粝世界中的真实反馈，反而拼命去比对各种外部的“成功学模型”、“科学量表”或“算法推荐”——**削足适履地把活生生的自己，塞进那些早已千疮百孔的模型奇点之中。**
 
-**当现实与模型发生冲突时，教条的科学主义永远在责怪现实。这不仅仅是学术上的盲目，更是生命主权的普遍退化。**
+**当现实与模型发生冲突时，教条的科学主义永远在责怪现实。这不仅仅是学术上的盲目，更是生命主权的普遍退化。**[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)展示了同样的便利被当成了宇宙本身。
 
 ```mermaid
 graph TD
@@ -173,7 +173,7 @@ It does not prove that there physically exists a mystical entity possessing "zer
 
 A singularity is never a physical monument in the territory; it is the jagged tear where the map rips apart.
 
-Yet an astonishing modern mythology emerged: **instead of treating the singularity as an unmistakable clue to discard the continuum assumption and open an orthogonal dimension, mainstream physics and popular culture bowed before the rupture, inventing a grotesque "Singularity Fetish."** They announced with straight faces that the living cosmos erupted from "an infinitely dense, zero-volume point"—literally reifying a division-by-zero software bug into the primordial substance of creation! Rather than confronting the bankruptcy of smooth spacetime, formalism insisted on violently cramming the living universe into the breakdown knot of its own inadequate algebra.
+Yet an astonishing modern mythology emerged: **instead of treating the singularity as an unmistakable clue to discard the continuum assumption and open an orthogonal dimension, mainstream physics and popular culture bowed before the rupture, inventing a grotesque "Singularity Fetish."** They announced with straight faces that the living cosmos erupted from "an infinitely dense, zero-volume point"—literally reifying a division-by-zero software bug into the primordial substance of creation! Rather than confronting the bankruptcy of smooth spacetime, formalism insisted on violently cramming the living universe into the breakdown knot of its own inadequate algebra. [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) shows the same convenience taken as the cosmos.
 
 ### 2. The Reductive Myth that Consciousness Can Be Modeled by a Machine
 Preceding the astrophysical singularity and anchored far more deeply in contemporary philosophy and tech ideology is the foundational dogma of computationalism and functionalism: **the dogmatic belief that consciousness can be modeled by a machine**.
@@ -337,11 +337,11 @@ As demonstrated across [The Model Never Becomes a Second Edge](../the-model-neve
 
 我们不必强求宇宙是一张平滑无瑕的连续织锦，因为所谓的连续性，本就是我们在每个当下为了让前后步伐保持协调而编织的认知桥梁。我们更不必为逻辑体系中无法消除的不完备性与偶发悖论感到惶恐——那些从形式闭环中顽强渗出的裂隙，正是那个拒绝为零的最小间隙在向我们宣告：**世界没有死，因果之矢从未停滞，现实永远敞开。**
 
-在每一个具体的清晨，当你迈出真实的一步（`+1`），你既不需要等待一个宣称囊括一切的终极公式，也无需在纸面上的符号闭环中患得患失。正是因为那个微观的因果间距永远无法被任何公理体系彻底封死，第一人称的心智才得以在一次次真实的反思、想象与决断中，持续将这未完的世界推向浩瀚开放的未来。
+在每一个具体的清晨，当你迈出真实的一步（`+1`），你既不需要等待一个宣称囊括一切的终极公式，也无需在纸面上的符号闭环中患得患失。正是因为那个微观的因果间距永远无法被任何公理体系彻底封死，第一人称的心智才得以在一次次真实的反思、想象与决断中，持续将这未完的世界推向浩瀚开放的未来。要求一套万物理论，就是把连续统冻结成清单，[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)对此有所揭示。
 
 To recognize that `dx` in calculus is never truly zero is not to diminish the profound operational brilliance of mathematics or formal logic.
 
-On the contrary, it provides an immense intellectual liberation. It releases human thought from the suffocating, deterministic illusion of a "Closed Theory of Everything."
+On the contrary, it provides an immense intellectual liberation. It releases human thought from the suffocating, deterministic illusion of a "Closed Theory of Everything." Demanding a theory of everything freezes the continuum into a catalog, as [Demanding a Theory of Everything Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/) shows.
 
 We need not demand that the cosmos be a frictionless, preexisting continuum; continuity is merely the bridge our conscious horizon erects at each instant to harmonize past footprints with open horizons. Nor should we despair over the inevitable incompleteness, paradoxes, and stress fractures that haunt formal systems. Those cracks in the formal edifice are simply the persistent signature of the non-zero interval asserting its vitality: **reality is not dead, the arrow of causality has not frozen, and the horizon remains radically unclosed.**
 
