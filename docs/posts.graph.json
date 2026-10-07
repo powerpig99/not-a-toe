@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-06T07:11:57.783Z",
+    "generated_at": "2026-10-07T06:13:32.111Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -19,7 +19,7 @@
       "content/posts/agency-does-not-arise.md": "88e02269ac85",
       "content/posts/agency-relocated-into-the-formal-model.md": "86d69a48a123",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "71ec41fd221d",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "d0f66aeeb029",
       "content/posts/ai-as-augmentation.md": "36af20653d5c",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "aaa7fd1e8b34",
@@ -223,6 +223,7 @@
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "fc7825440b61",
       "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
       "content/posts/the-dissolution-of-the-great-reversal.md": "c7edb99fdf6b",
+      "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "a01b75bf51ea",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "5ecf50b3345a",
       "content/posts/the-extendable-horizon.md": "16c6a9ecd2f7",
@@ -245,7 +246,7 @@
       "content/posts/the-geometry-of-mind.md": "d987fcbaaeff",
       "content/posts/the-geometry-of-success.md": "c04490f6c595",
       "content/posts/the-geometry-of-the-cut.md": "608ef1152155",
-      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "f0f8bc723521",
+      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "25ab5464af75",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "2d6a327c9530",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "298e9d503fa5",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
@@ -293,7 +294,7 @@
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "7af72172b13d",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "083f959ee674",
       "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
-      "content/posts/the-observational-cut-in-ai-debates.md": "170100d442c0",
+      "content/posts/the-observational-cut-in-ai-debates.md": "5884a66a9a71",
       "content/posts/the-only-coherent-uncaused-effect.md": "c3ba55d25299",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "ebfc2c616bb7",
       "content/posts/the-other-coherence.md": "d5db1aee1664",
@@ -302,7 +303,7 @@
       "content/posts/the-path-drawn-one-step-at-a-time.md": "529cf7a4ea64",
       "content/posts/the-perceiver-and-the-trace.md": "fd9d0dfee4cb",
       "content/posts/the-power-law-of-surrendered-agency.md": "0ec3483b7b85",
-      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "af92c141bd54",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "bc4d8364bdc7",
       "content/posts/the-price-of-closing-optionality.md": "84f30cd35b89",
       "content/posts/the-question-that-installs-the-war.md": "a860d1af6e16",
       "content/posts/the-ramble-within-the-ramble.md": "56d5c37f3f43",
@@ -384,8 +385,8 @@
       "content/book/causality.md": "2a318a0df024",
       "content/book/consciousness.md": "fea3d7fcc04d",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "210f07eb215d",
-      "content/book/intelligence.md": "8c2134c318f8",
+      "content/book/index-of-premises.md": "6399bb7448c1",
+      "content/book/intelligence.md": "e0b928421af2",
       "content/book/knowledge-and-learning.md": "f1db5bdf82c9",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "226cf5ec0ee0",
@@ -399,16 +400,16 @@
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 373,
-      "edges": 3917,
-      "unique_directed": 3358,
+      "posts": 374,
+      "edges": 3942,
+      "unique_directed": 3372,
       "missing_targets": 0,
-      "one_way": 932,
+      "one_way": 938,
       "isolated": 39,
-      "posts_with_outbound": 308,
+      "posts_with_outbound": 309,
       "book_pages": 16,
-      "book_edges": 911,
-      "posts_reached_by_book": 373
+      "book_edges": 914,
+      "posts_reached_by_book": 374
     }
   },
   "hubs_in": [
@@ -422,7 +423,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 66
+      "in_degree": 67
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -848,9 +849,9 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence",
-      "hash": "71ec41fd221d",
-      "in_degree": 21,
-      "out_degree": 22,
+      "hash": "d0f66aeeb029",
+      "in_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
@@ -873,7 +874,8 @@
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-price-of-closing-optionality",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
-        "the-digital-god-and-the-horizon-jump"
+        "the-digital-god-and-the-horizon-jump",
+        "the-distant-silhouette-and-the-inventory-from-nowhere"
       ]
     },
     {
@@ -1045,7 +1047,7 @@
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
       "hash": "fcb4e64e9742",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "dimensions-are-projections",
@@ -2580,7 +2582,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "b60b674b5303",
-      "in_degree": 66,
+      "in_degree": 67,
       "out_degree": 22,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -3594,7 +3596,7 @@
       "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
       "title": "破除概念的僭越：第一人称、因果之矢与未完的现实",
       "hash": "fd5abe640eca",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 14,
       "links_out": [
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
@@ -5242,6 +5244,28 @@
       "links_out": []
     },
     {
+      "id": "post:the-distant-silhouette-and-the-inventory-from-nowhere",
+      "kind": "post",
+      "slug": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "path": "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md",
+      "title": "远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere",
+      "hash": "a01b75bf51ea",
+      "in_degree": 4,
+      "out_degree": 10,
+      "links_out": [
+        "agi-and-asi-are-temporary-goalposts",
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "intelligence-belongs-only-to-the-mind",
+        "the-observational-cut-in-ai-debates",
+        "po-chu-gai-nian-de-jian-yue",
+        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+        "the-mind-as-vector-and-coordinate-system",
+        "the-invisible-gods-eye",
+        "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "the-grammar-of-finding-and-the-fading-observer"
+      ]
+    },
+    {
       "id": "post:the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "kind": "post",
       "slug": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -5683,15 +5707,16 @@
       "slug": "the-grammar-of-finding-and-the-fading-observer",
       "path": "content/posts/the-grammar-of-finding-and-the-fading-observer.md",
       "title": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer",
-      "hash": "f0f8bc723521",
-      "in_degree": 2,
-      "out_degree": 5,
+      "hash": "25ab5464af75",
+      "in_degree": 3,
+      "out_degree": 6,
       "links_out": [
         "the-irreducible-observer",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-        "the-hard-problem-of-consciousness-is-consistent-with-learning"
+        "the-hard-problem-of-consciousness-is-consistent-with-learning",
+        "the-distant-silhouette-and-the-inventory-from-nowhere"
       ]
     },
     {
@@ -6003,7 +6028,7 @@
       "path": "content/posts/the-invisible-gods-eye.md",
       "title": "隐秘的上帝之眼 / The Invisible God's Eye",
       "hash": "08233385869e",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 3,
       "links_out": [
         "objects-are-stabilized-relationships",
@@ -6289,7 +6314,7 @@
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
       "hash": "3733c53cdbc6",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring",
@@ -6564,15 +6589,16 @@
       "slug": "the-observational-cut-in-ai-debates",
       "path": "content/posts/the-observational-cut-in-ai-debates.md",
       "title": "The Observational Cut in AI Debates",
-      "hash": "170100d442c0",
-      "in_degree": 5,
-      "out_degree": 5,
+      "hash": "5884a66a9a71",
+      "in_degree": 6,
+      "out_degree": 6,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
         "the-risk-is-the-belief-in-oversight-itself",
-        "agi-and-asi-are-temporary-goalposts"
+        "agi-and-asi-are-temporary-goalposts",
+        "the-distant-silhouette-and-the-inventory-from-nowhere"
       ]
     },
     {
@@ -6726,9 +6752,9 @@
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "The Presumption of AGI and the View from Outside",
-      "hash": "af92c141bd54",
-      "in_degree": 16,
-      "out_degree": 21,
+      "hash": "bc4d8364bdc7",
+      "in_degree": 17,
+      "out_degree": 22,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "mistaking-the-expression-for-the-intelligence",
@@ -6744,6 +6770,7 @@
         "causality-stays-at-the-edge-that-steers",
         "self-rl-for-humans",
         "agi-and-asi-are-temporary-goalposts",
+        "the-distant-silhouette-and-the-inventory-from-nowhere",
         "a-creation-cannot-replace-its-source",
         "the-fixed-image-of-transcendence",
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -7304,7 +7331,7 @@
       "path": "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md",
       "title": "造神的障眼法与隐秘阶序的说辞 / The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank",
       "hash": "63879ec9b623",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "the-cartesian-overstep-and-the-frenzy-of-creation",
@@ -9288,6 +9315,12 @@
       "to": "the-digital-god-and-the-horizon-jump",
       "rel": "points_to",
       "label": "The Digital God and the Horizon Jump"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "rel": "points_to",
+      "label": "The Distant Silhouette and the Inventory from Nowhere"
     },
     {
       "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
@@ -22430,6 +22463,126 @@
       "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
     },
     {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The Observational Cut in AI Debates"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The Observational Cut in AI Debates"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "造神的障眼法与隐秘阶序的说辞"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Dismantling the Usurpation of Concepts"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "隐秘的上帝之眼 / The Invisible God's Eye"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "Causality is Irreducible, the Physical is a View from Nowhere"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "The Invisible God's Eye"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "Causality is Irreducible, the Physical is a View from Nowhere"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "The Grammar of Finding and the Fading Observer"
+    },
+    {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
@@ -23802,6 +23955,18 @@
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
       "label": "The Hard Problem of Consciousness Is Consistent with Our Ability to Learn"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "rel": "points_to",
+      "label": "远方的轮廓与无处之境的清单"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "rel": "points_to",
+      "label": "The Distant Silhouette and the Inventory from Nowhere"
     },
     {
       "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
@@ -26348,6 +26513,12 @@
       "label": "AGI and ASI are temporary goalposts"
     },
     {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "rel": "points_to",
+      "label": "The Distant Silhouette and the Inventory from Nowhere"
+    },
+    {
       "from": "the-only-coherent-uncaused-effect",
       "to": "the-generative-mechanics-of-value-money-and-wealth",
       "rel": "points_to",
@@ -26778,6 +26949,12 @@
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI and ASI are temporary goalposts"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "rel": "points_to",
+      "label": "The Distant Silhouette and the Inventory from Nowhere"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -31927,8 +32104,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "210f07eb215d",
-        "out_degree": 373
+        "hash": "6399bb7448c1",
+        "out_degree": 374
       },
       {
         "id": "book:intelligence",
@@ -31936,8 +32113,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "8c2134c318f8",
-        "out_degree": 44
+        "hash": "e0b928421af2",
+        "out_degree": 45
       },
       {
         "id": "book:knowledge-and-learning",
@@ -32834,6 +33011,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+        "rel": "collects",
+        "label": "远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "rationality-never-travels-across-the-mind",
         "rel": "collects",
         "label": "Rationality Never Travels Across the Mind"
@@ -32987,6 +33170,12 @@
         "to": "the-invisible-gods-eye",
         "rel": "collects",
         "label": "隐秘的上帝之眼 / The Invisible God's Eye"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+        "rel": "collects",
+        "label": "远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere"
       },
       {
         "from": "book:index-of-premises",
@@ -36077,6 +36266,12 @@
         "to": "silicon-oracles-and-the-asymmetry-of-consequence",
         "rel": "collects",
         "label": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+        "rel": "collects",
+        "label": "远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere"
       },
       {
         "from": "book:knowledge-and-learning",

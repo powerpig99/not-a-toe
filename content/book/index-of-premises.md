@@ -287,6 +287,15 @@ Steinbeck rightly names the free exploring mind as most valuable, yet his call t
 
 → [The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
 
+### 约翰·洛克 / John Locke
+`哲学 / Philosophical`
+
+洛克指出了诉诸无知作为辩论启发式的特征；这在封闭检验程序中能辅助权衡置信度，但若将其误用为衡量通用心智的标尺，便将局域规则偷换为了不可通约的主观偏好。
+
+Locke identified the argument from ignorance as a distinct heuristic; while valuable for weighing confidence within bounded protocols, deploying it to evaluate general mind confuses a local heuristic with an external ontological proof.
+
+→ [远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere](../../posts/the-distant-silhouette-and-the-inventory-from-nowhere/)
+
 ### 约翰·冯·诺依曼 / John von Neumann
 `数学 / Mathematical`
 
@@ -501,7 +510,7 @@ Hameroff treats understanding as an act outside rules, supplied by quantum objec
 
 Nagel analyzed the irreducibility of subjective consciousness and the illusion of a view from nowhere; brilliant for exposing physicalist limits, his framework remains purely analytical.
 
-→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/)
+→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere](../../posts/the-distant-silhouette-and-the-inventory-from-nowhere/)
 
 ### 托马斯·索维尔 / Thomas Sowell
 `经济 / Economic`
