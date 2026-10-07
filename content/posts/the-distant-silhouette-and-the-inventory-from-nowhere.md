@@ -16,6 +16,8 @@ Lacking awareness of the irreducible primacy of the first-person horizon, opposi
 
 When two distinct phenomena sit deep beyond the horizon, the poverty of perceptual resolution denies the observer any means of discerning internal structure. In human experience, complex formal mathematical reasoning has long been entangled with the sovereign, reflective agency of a living Mind, both occupying an unmechanized domain beyond historical reach. Surveying these capacities years ago, the resolution of the observational horizon was strictly constrained by distance, allowing consciousness to register only a coarse outline: any entity capable of navigating formal mazes to produce rigorous chains of deduction was presumed to possess general autonomous intent. This inference did not stem from rigorous necessity, but from the inevitable collapse of distinctions under distant viewing. As demonstrated in [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/), every static threshold assigned to general intelligence is merely a local projection cast from a specific observational distance.
 
+随着工程实践的推进，前沿模型将形式符号搜索的能力直接带到了心智的日常操作界限之内。距离的缩短并未改变事物本身的属性，却使得观察者的解析度迅速恢复。在近距离的接触与审视中，先前的单一剪影分裂为迥然不同的两面：一边是在既定公理与形式语料库中高速展开的路径剪枝与模式匹配，另一边则是能够感受现实摩擦、承担不可逆因果代价并在开放世界中自主确立价值取向的生命中心。正如在 [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/) 与 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 中所阐明的，工具对人类既有抽象产物的高效重组，并未赋予工具自行确立全新划界维度的先验能力。走进对象后看清先前未能辨认的内部差异，是认识论层面的必然澄清，绝非所谓恶意修改球门规则的遁词。
+
 ```mermaid
 graph TD
     subgraph S_Distant ["远方视界：低解析度轮廓折叠"]
@@ -45,8 +47,6 @@ graph TD
         style R2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
 ```
-
-随着工程实践的推进，前沿模型将形式符号搜索的能力直接带到了心智的日常操作界限之内。距离的缩短并未改变事物本身的属性，却使得观察者的解析度迅速恢复。在近距离的接触与审视中，先前的单一剪影分裂为迥然不同的两面：一边是在既定公理与形式语料库中高速展开的路径剪枝与模式匹配，另一边则是能够感受现实摩擦、承担不可逆因果代价并在开放世界中自主确立价值取向的生命中心。正如在 [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/) 与 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 中所阐明的，工具对人类既有抽象产物的高效重组，并未赋予工具自行确立全新划界维度的先验能力。走进对象后看清先前未能辨认的内部差异，是认识论层面的必然澄清，绝非所谓恶意修改球门规则的遁词。
 
 As engineering advances brought formal symbol search directly into the daily operational domain of the Mind, the closing of distance did not alter the phenomena themselves, but swiftly restored the observer's resolving power. Under close inspection and continuous interaction, the singular silhouette bifurcated into distinct realities: on one side lies path pruning and pattern matching operating across human-curated axioms and linguistic corpora; on the other stands the living center that registers friction, bears irreversible causal stakes, and originates values within an open world. As established in [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), the accelerated recombination of human abstractions does not endow the tool with the capacity to initiate novel dimensional cuts. Discerning internal differences upon closer approach represents an epistemological correction, rather than bad-faith relocation of the goalposts.
 
@@ -94,6 +94,8 @@ Within the cognitive toolkit, the argument from ignorance is not merely an isola
 
 This asymmetric maneuver becomes glaring in evaluations of frontier reasoning systems. The model's aptitude within closed formal evaluations is celebrated by enthusiasts as proof of general intelligence on the grounds that no single definitive counterexample has invalidated the claim; meanwhile, when critics point out the absence of autonomous reflection and causal accountability, the inability of those critics to prove a negative is brandished as disproof of the objection. As exposed in [Dismantling the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/) and [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/), this rhetorical posturing is not a rigorous application of shared principles, but an evasive shifting of the evidentiary burden designed to shelter technological mythologies from scrutiny.
 
+更深层的问题在于，世人误以为这些由特定心智制定的启发式标尺具有普适的传递性。一个认知视界停留在文本语法与形式基准层面的观察者，其视界的边缘恰好终止于自动化证明的生成，因此当定理推导呈现在眼前时，该观察者确乎体验到了旧有世界地平线的突破；然而对于另一个视界早已将形式语言的自指局限、生物实体的不可逆代谢与因果闭环纳入其中的观察者而言，同样的结果不过是现存计算范式内部的常规延伸。正如在 [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) 中所阐明的，任何认知读数都只是事物在观察者自身坐标轴上的投影，标尺无法在不同的心智之间直接流动，因为标尺正是各个心智独特的视界边界所投下的几何阴影。
+
 ```mermaid
 graph TD
     subgraph S_Heuristics ["封闭域有效规则与开放争论的双标滑移"]
@@ -129,8 +131,6 @@ graph TD
         style Incommensurable fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     end
 ```
-
-更深层的问题在于，世人误以为这些由特定心智制定的启发式标尺具有普适的传递性。一个认知视界停留在文本语法与形式基准层面的观察者，其视界的边缘恰好终止于自动化证明的生成，因此当定理推导呈现在眼前时，该观察者确乎体验到了旧有世界地平线的突破；然而对于另一个视界早已将形式语言的自指局限、生物实体的不可逆代谢与因果闭环纳入其中的观察者而言，同样的结果不过是现存计算范式内部的常规延伸。正如在 [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) 中所阐明的，任何认知读数都只是事物在观察者自身坐标轴上的投影，标尺无法在不同的心智之间直接流动，因为标尺正是各个心智独特的视界边界所投下的几何阴影。
 
 The deeper error lies in the assumption that these heuristic yardsticks are fungible across different Minds. An observer whose cognitive horizon terminates at syntax and benchmark performance experiences the automated generation of mathematical proofs as the crossing of an absolute boundary; conversely, for an observer whose horizon already encompasses the self-referential limits of formal systems, biological metabolism, and causal closure, the very same output registers merely as an expected extension of inductive machinery. As articulated in [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/), every cognitive reading is an internal dot product projected along the observer's own axes; yardsticks cannot travel intact across distinct minds, because the yardstick is precisely the geometric shadow cast by an individual horizon's perimeter.
 
@@ -180,6 +180,8 @@ When two minds occupying different horizons debate whether a capability signifie
 
 The dispute persists precisely because both sides share an unexamined metaphysical premise: the belief in an objective inventory existing independently of all first-person experience. Within this hypothetical catalog, frontier deductive outputs, symbolic token sequences, and the ultimate label "artificial general intelligence" are presumed to sit as pre-existing entities awaiting discovery. Governed by this assumption, disputants assume that with sufficient benchmark data and operational consensus, all observers must converge upon identical classifications. As analyzed in [The Invisible God's Eye](../the-invisible-gods-eye/) and [Causality is Irreducible, the Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/), this stance is nothing other than the contemporary technological resurrection of what Thomas Nagel diagnosed as the "view from nowhere."
 
+一旦我们回归到第一人称经验不可还原的先验事实，这张所谓的客观清单便暴露出其衍生物的面目：清单本身并不是先于视界而给定的，而是特定视界向外投射时勾勒出的分类网格。在一个缺乏对自身观察条件反思的视界内部，模型在数学逻辑上的惊人表现确乎跨越了其设定的终点线；但在另一个更具因果深度的心智眼中，该表现充其量只是在既有地平线近处推进的一道微波。选择使用无法证伪还是无法证实，并不是对公共客观事物所犯下的逻辑偏袒，而是不同视界划定自身边界时产生的结构性差异。
+
 ```mermaid
 graph TD
     subgraph S_Fallacy ["无处之境的形而上学幻觉"]
@@ -214,8 +216,6 @@ graph TD
         style Dissolve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
 ```
-
-一旦我们回归到第一人称经验不可还原的先验事实，这张所谓的客观清单便暴露出其衍生物的面目：清单本身并不是先于视界而给定的，而是特定视界向外投射时勾勒出的分类网格。在一个缺乏对自身观察条件反思的视界内部，模型在数学逻辑上的惊人表现确乎跨越了其设定的终点线；但在另一个更具因果深度的心智眼中，该表现充其量只是在既有地平线近处推进的一道微波。选择使用无法证伪还是无法证实，并不是对公共客观事物所犯下的逻辑偏袒，而是不同视界划定自身边界时产生的结构性差异。
 
 Once awareness returns to the irreducible priority of first-person experience, this objective inventory reveals its derivative nature: the catalog is not given prior to the horizon, but is the grid projected outward by that horizon's distinctions. Within an observational frame blind to its own conditions, a model's deductive prowess genuinely crosses the designated finish line; within an observer conscious of causal depth, that performance is merely a ripple expanding on the near side of the boundary. The selective appeal to inability to disprove or inability to prove is not an illicit manipulation of a shared object, but the structural manifestation of where each horizon draws its limits.
 
