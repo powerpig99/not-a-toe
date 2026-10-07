@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-07T08:39:48.242Z",
+    "generated_at": "2026-10-07T09:02:55.028Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -82,7 +82,7 @@
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "df8f3a8fb563",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "df61a5b970e0",
-      "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "302052789ea2",
+      "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "5fe10db25c4f",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "c81f2c71d076",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "a1b926b30911",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "f0c515ee862c",
@@ -134,7 +134,7 @@
       "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b354e525a5d3",
       "content/posts/on-education.md": "acf5a581efd1",
-      "content/posts/one-cannot-escape-ones-own-mind.md": "98a0ddef1062",
+      "content/posts/one-cannot-escape-ones-own-mind.md": "cb7f119c5157",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "158cff173f93",
       "content/posts/only-if-it-is-not-kept-empty.md": "3d9516da5576",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
@@ -157,7 +157,7 @@
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
       "content/posts/public-spending-does-not-create-capital.md": "7314fd47c0df",
       "content/posts/qian-yin-hou-guo.md": "9cf919d655d4",
-      "content/posts/rationality-never-travels-across-the-mind.md": "6eaeacc276e3",
+      "content/posts/rationality-never-travels-across-the-mind.md": "9b292c9238ab",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "11ef91285e9b",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "cd3ec066c2f8",
@@ -189,7 +189,7 @@
       "content/posts/the-allocation-of-causal-power-in-validation.md": "75fd0f9205d1",
       "content/posts/the-arithmetic-of-the-register.md": "f7812ec636cf",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
-      "content/posts/the-asymmetry-of-understanding.md": "93b47e8e2095",
+      "content/posts/the-asymmetry-of-understanding.md": "abb8bebb125a",
       "content/posts/the-average-is-residue-not-the-engine.md": "29cdac1a977f",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "57156f299c6b",
@@ -265,7 +265,7 @@
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "5ccd04ebe2f8",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
-      "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "f6beb7b3f0c0",
+      "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "8a005fc1644a",
       "content/posts/the-irreducible-observer.md": "ad01ade05654",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "c4cd807f51dd",
@@ -355,6 +355,7 @@
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "6b95a39fdecb",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "3150c6b4c5cf",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "ab4a03e78251",
+      "content/posts/trusting-the-reader-is-the-last-overstep.md": "eb32d1fbc812",
       "content/posts/two-failures-of-trace.md": "b1672bec5b8e",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "f648faf69414",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "46c405794f54",
@@ -386,9 +387,9 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "fea3d7fcc04d",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "42f437072e46",
+      "content/book/index-of-premises.md": "d4a92a525f06",
       "content/book/intelligence.md": "e0b928421af2",
-      "content/book/knowledge-and-learning.md": "f1db5bdf82c9",
+      "content/book/knowledge-and-learning.md": "a1016d573e77",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "226cf5ec0ee0",
       "content/book/meaning-and-transcendence.md": "39f52073de83",
@@ -401,16 +402,16 @@
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 375,
-      "edges": 5068,
-      "unique_directed": 4326,
+      "posts": 376,
+      "edges": 5098,
+      "unique_directed": 4342,
       "missing_targets": 0,
-      "one_way": 2,
+      "one_way": 8,
       "isolated": 39,
-      "posts_with_outbound": 336,
+      "posts_with_outbound": 337,
       "book_pages": 16,
-      "book_edges": 917,
-      "posts_reached_by_book": 375
+      "book_edges": 920,
+      "posts_reached_by_book": 376
     }
   },
   "hubs_in": [
@@ -1096,7 +1097,7 @@
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
       "hash": "55982c37edd9",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 17,
       "links_out": [
         "dimensions-are-projections",
@@ -2349,15 +2350,16 @@
       "slug": "gao-wei-xin-xi-de-li-san-zhe-she",
       "path": "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md",
       "title": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜",
-      "hash": "302052789ea2",
-      "in_degree": 6,
-      "out_degree": 6,
+      "hash": "5fe10db25c4f",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
         "what-information-is",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+        "trusting-the-reader-is-the-last-overstep",
         "the-geometry-of-success"
       ]
     },
@@ -3644,9 +3646,9 @@
       "slug": "one-cannot-escape-ones-own-mind",
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
-      "hash": "98a0ddef1062",
-      "in_degree": 14,
-      "out_degree": 14,
+      "hash": "cb7f119c5157",
+      "in_degree": 15,
+      "out_degree": 15,
       "links_out": [
         "subtracting-consciousness-at-the-source",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -3660,6 +3662,7 @@
         "the-causal-inversion-of-partnership",
         "the-self-portrait-in-the-projection",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
+        "trusting-the-reader-is-the-last-overstep",
         "agency-does-not-arise",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation"
       ]
@@ -4197,7 +4200,7 @@
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "Price as Utterance, Understanding as Trade",
       "hash": "c9662cffea91",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 16,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -4328,12 +4331,13 @@
       "slug": "rationality-never-travels-across-the-mind",
       "path": "content/posts/rationality-never-travels-across-the-mind.md",
       "title": "Rationality Never Travels Across the Mind",
-      "hash": "6eaeacc276e3",
-      "in_degree": 6,
-      "out_degree": 6,
+      "hash": "9b292c9238ab",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
         "price-as-utterance-understanding-as-trade",
+        "trusting-the-reader-is-the-last-overstep",
         "the-mark-and-the-act",
         "self-image-speaks-as-if-from-nowhere",
         "when-observation-becomes-performance",
@@ -4559,7 +4563,7 @@
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "Self-Image Speaks as if from Nowhere",
       "hash": "026feb5866bd",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 23,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -5141,12 +5145,13 @@
       "slug": "the-asymmetry-of-understanding",
       "path": "content/posts/the-asymmetry-of-understanding.md",
       "title": "理解的非对称性 / The Asymmetry of Understanding",
-      "hash": "93b47e8e2095",
-      "in_degree": 4,
-      "out_degree": 4,
+      "hash": "abb8bebb125a",
+      "in_degree": 5,
+      "out_degree": 5,
       "links_out": [
         "the-shadow-and-the-infinite",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "trusting-the-reader-is-the-last-overstep",
         "the-reversal-of-education-and-science",
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries"
       ]
@@ -5326,7 +5331,7 @@
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "The Boundary of the Frame",
       "hash": "87ff68f71b62",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 16,
       "links_out": [
         "what-information-is",
@@ -6162,7 +6167,7 @@
       "path": "content/posts/the-functionalism-no-functionalist-can-hold.md",
       "title": "无人能持有的功能主义 / The Functionalism No Functionalist Can Hold",
       "hash": "591395049b84",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "the-freedom-of-will-to-deny-itself",
@@ -6733,9 +6738,9 @@
       "slug": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "path": "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md",
       "title": "观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission",
-      "hash": "f6beb7b3f0c0",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "8a005fc1644a",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "the-irreducible-observer",
@@ -6744,7 +6749,8 @@
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-grammar-of-finding-and-the-fading-observer",
         "no-outside-scorekeeper",
-        "the-inversion-of-reading-and-the-order-of-inference"
+        "the-inversion-of-reading-and-the-order-of-inference",
+        "trusting-the-reader-is-the-last-overstep"
       ]
     },
     {
@@ -7687,7 +7693,7 @@
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
       "title": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
       "hash": "74769516764d",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 15,
       "links_out": [
         "looping-and-graphing",
@@ -8718,6 +8724,29 @@
         "the-unobservable-driver-of-learning",
         "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian"
+      ]
+    },
+    {
+      "id": "post:trusting-the-reader-is-the-last-overstep",
+      "kind": "post",
+      "slug": "trusting-the-reader-is-the-last-overstep",
+      "path": "content/posts/trusting-the-reader-is-the-last-overstep.md",
+      "title": "信任读者是最后的越界 / Trusting the Reader Is the Last Overstep",
+      "hash": "eb32d1fbc812",
+      "in_degree": 5,
+      "out_degree": 11,
+      "links_out": [
+        "rationality-never-travels-across-the-mind",
+        "price-as-utterance-understanding-as-trade",
+        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "the-functionalism-no-functionalist-can-hold",
+        "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "self-image-speaks-as-if-from-nowhere",
+        "the-boundary-of-the-frame",
+        "the-asymmetry-of-understanding",
+        "one-cannot-escape-ones-own-mind",
+        "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+        "gao-wei-xin-xi-de-li-san-zhe-she"
       ]
     },
     {
@@ -15267,6 +15296,12 @@
     },
     {
       "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "信任读者是最后的越界"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
       "to": "the-geometry-of-success",
       "rel": "points_to",
       "label": "成功的几何学"
@@ -19539,6 +19574,12 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "信任读者是最后的越界"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
       "to": "agency-does-not-arise",
       "rel": "points_to",
       "label": "能动性从不涌现：涌现的范畴错误、潜空间侵入与第一人称先验"
@@ -19590,6 +19631,12 @@
       "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "rel": "points_to",
       "label": "The Receptionist Parable and the Causal Inversion of Absence"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "Trusting the Reader Is the Last Overstep"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -22014,6 +22061,12 @@
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
       "label": "Price as utterance, understanding as trade"
+    },
+    {
+      "from": "rationality-never-travels-across-the-mind",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "Trusting the Reader Is the Last Overstep"
     },
     {
       "from": "rationality-never-travels-across-the-mind",
@@ -24549,6 +24602,12 @@
     },
     {
       "from": "the-asymmetry-of-understanding",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "信任读者是最后的越界"
+    },
+    {
+      "from": "the-asymmetry-of-understanding",
       "to": "the-reversal-of-education-and-science",
       "rel": "points_to",
       "label": "教育与科学的倒置"
@@ -24558,6 +24617,12 @@
       "to": "the-reversal-of-education-and-science",
       "rel": "points_to",
       "label": "The Inversion of Education and Science"
+    },
+    {
+      "from": "the-asymmetry-of-understanding",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "Trusting the Reader Is the Last Overstep"
     },
     {
       "from": "the-asymmetry-of-understanding",
@@ -30573,9 +30638,21 @@
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "信任读者是最后的越界"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "to": "the-inversion-of-reading-and-the-order-of-inference",
       "rel": "points_to",
       "label": "the inversion of reading and the order of inference"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "Trusting the Reader Is the Last Overstep"
     },
     {
       "from": "the-irreducible-observer",
@@ -37646,6 +37723,138 @@
       "label": "投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构"
     },
     {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "理性从不跨越心智"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "价格是言说，理解是交易"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "Rationality Never Travels Across the Mind"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "观察者的隐身与无损传递的妄念"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "无人能持有的功能主义"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "The Functionalism No Functionalist Can Hold"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "因果的自反性与物理的无源假定"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "Causality is Irreducible; The Physical is a View from Nowhere"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
+      "label": "理解的非对称性"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
+      "label": "The Asymmetry of Understanding"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "真正稀缺的不是记忆，而是持续的重新追溯"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "高维信息的离散折射与认知分层"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "The Discrete Refraction of High-Dimensional Information"
+    },
+    {
       "from": "two-failures-of-trace",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
@@ -39853,8 +40062,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "42f437072e46",
-        "out_degree": 375
+        "hash": "d4a92a525f06",
+        "out_degree": 376
       },
       {
         "id": "book:intelligence",
@@ -39871,8 +40080,8 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "f1db5bdf82c9",
-        "out_degree": 29
+        "hash": "a1016d573e77",
+        "out_degree": 30
       },
       {
         "id": "book:life-and-statistics",
@@ -41231,6 +41440,12 @@
         "to": "fixed-by-nothing",
         "rel": "collects",
         "label": "没有固定者的固定 / Fixed by Nothing"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "trusting-the-reader-is-the-last-overstep",
+        "rel": "collects",
+        "label": "信任读者是最后的越界 / Trusting the Reader Is the Last Overstep"
       },
       {
         "from": "book:index-of-premises",
@@ -42830,6 +43045,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "trusting-the-reader-is-the-last-overstep",
+        "rel": "collects",
+        "label": "信任读者是最后的越界 / Trusting the Reader Is the Last Overstep"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "order-surplus-and-the-moral-intercept",
         "rel": "collects",
         "label": "Order, Surplus, and the Moral Intercept"
@@ -44213,6 +44434,12 @@
         "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "rel": "collects",
         "label": "观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission"
+      },
+      {
+        "from": "book:knowledge-and-learning",
+        "to": "trusting-the-reader-is-the-last-overstep",
+        "rel": "collects",
+        "label": "信任读者是最后的越界 / Trusting the Reader Is the Last Overstep"
       },
       {
         "from": "book:life-and-statistics",

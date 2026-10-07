@@ -928,6 +928,15 @@ Presumes complete knowledge of initial positions and velocities determines all f
 
 → [没有固定者的固定 / Fixed by Nothing](../../posts/fixed-by-nothing/)
 
+### 差异制造与因果解释决定论 / Difference-Making and Deterministic Explanation
+`科学 / Scientific`
+
+差异制造假定在定律与先前状态给定下，客观贡献可从反事实结果中读出；在封闭工程沙盘中有效，但输入与运作的边界必须先由外部视界给定，定律本身无法推导出自身被切分的前提。
+
+Difference-making presumes that under given laws and prior conditions, causal contribution can be read off by counterfactual variation; effective within closed engineering models, its boundaries between input and operation must be stipulated from an external stance that the laws themselves cannot derive.
+
+→ [信任读者是最后的越界 / Trusting the Reader Is the Last Overstep](../../posts/trusting-the-reader-is-the-last-overstep/)
+
 ### 解放叙事的俘虏身份陷阱 / Liberationist Identity Trap
 `意识形态 / Ideological`
 
@@ -3251,6 +3260,15 @@ Popular psychology treats optimism as a moral virtue and pessimism as a defect; 
 Presumes passive sequential consumption of non-fiction builds deep insight; efficient for cataloging claims, it lacks the retroactive active inference required for true cognition.
 
 → [阅读的倒错与推断的次序 / The Inversion of Reading and the Order of Inference](../../posts/the-inversion-of-reading-and-the-order-of-inference/)
+
+### 读者信任论 / Trusting the Reader
+`成功学 / Self-Help`
+
+创作者假定在思想深度上写作并信任读者终会接住它，便能守住被理解的可能；作为克服发布恐惧的心智启发法有用，但文本仅提供外部物理材料而无跨心智因果力，是否重构区分始终取决于接收者未被强迫的抉择。
+
+Writers presume that setting down ideas at full depth while trusting readers to grow into them can secure the possibility of uptake; useful as an affective heuristic to overcome fear of release, text supplies only physical materials with zero cross-mind causal power, leaving any reconstruction of distinctions entirely to the recipient's uncompelled choice.
+
+→ [信任读者是最后的越界 / Trusting the Reader Is the Last Overstep](../../posts/trusting-the-reader-is-the-last-overstep/)
 
 ### 一夜突破叙事 / Overnight Breakthrough Narrative
 `科学 / Scientific`

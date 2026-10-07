@@ -333,7 +333,7 @@ graph LR
 这是一种怎样的沟通范式？
 * **从强行植入到催化反思**：你不再试图将自己的观点像木桩一样钉入对方脑海，而是成为一面明澈的凸透镜或沉静的共鸣箱。你提出一个引发深思的开放性问题，耐心地接纳对方的停顿与困惑，让对方在与你的交互中，看清了自己内心的恐惧、未曾厘清的偏见、或是深藏已久的创造渴望。
 * **免除“自证清白”的神经耗竭**：既然误解在物理上不可避免，你便不再需要为对方的断章取义而焦躁辩白。即便对方误读了你某些字句，只要这场对话帮助他理清了自身的因果脉络、拓宽了他对自己生命的认知，这场沟通便取得了高阶的成功。
-* **从索求投影到赋能主体**：向外索求理解，是在要求对方为你服务；而致力于助他人理解自身，是你在以高维的慈悲为对方赋能。在这一刻，你不仅放下了自己的阴影，更点亮了对方内在的未知原野。只排名而不求理解的教育，是这种不对称的制度化，[教育与科学的倒置](../the-reversal-of-education-and-science/)对此有所揭示。
+* **从索求投影到赋能主体**：向外索求理解，是在要求对方为你服务；而致力于助他人理解自身，是你在以高维的慈悲为对方赋能。在这一刻，你不仅放下了自己的阴影，更点亮了对方内在的未知原野。即便在此处，若将寄托转向未来的读者、指望文本本身蕴含着引渡他人的力量，这种隐秘的期待依然是一种越界，正如[信任读者是最后的越界](../trusting-the-reader-is-the-last-overstep/)所分析的，物理符号无法替接收者的自主重构承担因果责任。只排名而不求理解的教育，是这种不对称的制度化，[教育与科学的倒置](../the-reversal-of-education-and-science/)对此有所揭示。
 
 ---
 
@@ -387,7 +387,7 @@ The moment you surrender the frantic compulsion to force yourself into another p
 What does this sovereign communication look like?
 * **From Imposition to Catalysis**: You cease hammering your conclusions into their mind. Instead, you serve as a quiet acoustic chamber and a clear mirror. You offer a question that invites genuine pause; you receive their uncertainty with calm spaciousness. In encountering you, they finally see their own hidden fears, untangled premises, or unexpressed creative longing with fresh clarity.
 * **Ending the Exhaustion of Self-Defense**: Because misunderstanding is an inescapable baseline of projection, you no longer waste vitality litigating every twisted syllable. Even if they misinterpret your words, if the interaction enabled them to clarify their own causal knots, the conversation was a triumph.
-* **From Demanding a Silhouette to Empowering a Knower**: Begging to be understood demands that others labor on your behalf. Catalyzing their self-clarity is an act of sovereign grace that empowers their autonomy. You drop your own shadow, and illuminate their living ground.
+* **From Demanding a Silhouette to Empowering a Knower**: Begging to be understood demands that others labor on your behalf. Catalyzing their self-clarity is an act of sovereign grace that empowers their autonomy. You drop your own shadow, and illuminate their living ground. Even here, shifting one's reliance onto a future reader and expecting the text itself to possess the causal power of conveyance remains an overstep; as [Trusting the Reader Is the Last Overstep](../trusting-the-reader-is-the-last-overstep/) shows, physical marks cannot shoulder the causal burden of another mind's autonomous reconstruction.
 
 ---
 
