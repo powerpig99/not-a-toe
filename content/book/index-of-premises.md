@@ -755,7 +755,7 @@ Falsification is misused either to explain away counterevidence or to refute opp
 
 Conspiracy epistemologies assemble internally consistent arguments from local observations; flat-earth models work for local walking, yet collapse when forced to navigate global planetary navigation.
 
-→ [路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/)
+→ [路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/)
 
 ### 公式化成功学教条 / Formulaic Success Dogma (Cheng Gong Xue)
 `成功学 / Self-Help`

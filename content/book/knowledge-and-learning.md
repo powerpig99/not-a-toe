@@ -33,7 +33,7 @@ These essays examine academic credentialism, the true advisory scope of expertis
 - [Curiosity Has No Final Form](../../posts/curiosity-has-no-final-form/)
 - [知道自己不知道：一种被修辞放大的认知假象](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
 - [格物致知与信息复杂度的本质：从第三人称凝视到具身因果推演](../../posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)
-- [路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/)
+- [路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/)
 - [选择看见而非搜寻影子：从注意力的因果错位到知识的自然扩散](../../posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/)
 - [The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/)
 - [破除概念的僭越：第一人称、因果之矢与未完的现实](../../posts/po-chu-gai-nian-de-jian-yue/)
