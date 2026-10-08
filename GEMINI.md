@@ -68,9 +68,10 @@ For every new or revised essay, the complete deliverable set consists of:
   - Purge moralizing and judgmental rhetoric; maintain a rigorous first-person analytical perspective.
 
 ### 2. Cover Art (`assets/covers/<slug>.jpg`)
-- **Default Generator**: Local **Qwen-Image-2.1** pipeline executed via `python3 scripts/generate-cover.py <slug> --prompt "..."` (7B DiT + Qwen3-VL 8B, bfloat16 on Apple Silicon MPS).
-- **Default Aspect & Resolution**: Ultra-wide **21:9** landscape (`1344×576`, exact 21:9 integer multiple of 32, ~0.77 MP, ~5 min inference on M4 Pro; or 20:9 `1280×576`).
-- **Styles Are NEVER Fixed (Content-Driven & Novelty-Seeking)**: The generator and aspect ratio are standard, but the **visual style and artistic medium are strictly never fixed**. For every new essay, invent a fresh artistic medium, print tradition, material texture, and palette derived directly from the specific epistemological cut of that post. Never converge into a single "house style" (strictly zero repetitive cliches, zero readable text, zero logos, zero tabletop stills).
+- **Primary Generator**: **Nano Banana 2.1** (Google DeepMind multimodal image generation via `generate_image`, ultra-wide 21:9 landscape).
+- **Backup Generator**: Local **Qwen-Image-2.1** pipeline executed via `python3 scripts/generate-cover.py <slug> --prompt "..."` (7B DiT + Qwen3-VL 8B, bfloat16 on Apple Silicon MPS).
+- **Default Aspect & Resolution**: Ultra-wide **21:9** landscape (`1344×576`, exact 21:9 integer multiple of 32, ~0.77 MP; or 20:9 `1280×576`).
+- **Styles Are NEVER Fixed (Content-Driven & Novelty-Seeking)**: The aspect ratio is standard, but the **visual style and artistic medium are strictly never fixed**. For every new essay, invent a fresh artistic medium, print tradition, material texture, and palette derived directly from the specific epistemological cut of that post. Never converge into a single "house style" (strictly zero repetitive cliches, zero readable text, zero logos, zero tabletop stills).
 - Registered in `assets/covers/STYLES.md` under both `Style families (used)` and the `Inventory` table as a living record of corpus diversity.
 
 ### 3. Companion NotebookLM Prompts (Chinese Only, Link-Free)
