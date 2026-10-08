@@ -755,7 +755,7 @@ Falsification is misused either to explain away counterevidence or to refute opp
 
 Conspiracy epistemologies assemble internally consistent arguments from local observations; flat-earth models work for local walking, yet collapse when forced to navigate global planetary navigation.
 
-→ [路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/)
+→ [路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/) · [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/)
 
 ### 公式化成功学教条 / Formulaic Success Dogma (Cheng Gong Xue)
 `成功学 / Self-Help`
@@ -4700,3 +4700,12 @@ The Upanishadic recognition of awareness prior to every form holds as insight; f
 The critic faults others for ideological visions unconstrained by physical feedback and cost, yet exempts the analyzing balcony from that identical examination; locating this boundary of exemption restores macro critiques to reusable scaffolding.
 
 → [未经自我审视的批判者 / The Unexamined Critic](../../posts/the-unexamined-critic/)
+ 
+### 局域切空间与初始条件重置 / Local Tangent Space and Initial Condition Recalibration
+`科学 / Scientific`
+
+其前设在于将系统分解为极微观的局部线性流形并在每次受力中刷新原点；当面对跨尺度的全局几何相位累积时该近似断裂，但在微观自适应步履中它是消除长程累积漂移的强健机制。
+
+Its premise decomposes the operational domain into infinitesimal local linear manifolds, refreshing coordinates against physical resistance; while failing across macro-horizons where topological phase shifts accumulate, it provides a remarkably robust mechanism to extinguish cumulative dead-reckoning drift in adaptive micro-action.
+
+→ [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/)
