@@ -8,9 +8,9 @@ From relative velocity along specific dimensions to the living reconstruction of
 
 ---
 
-## 一、 领导力的几何本质：特定维度的相对位移而非全局时钟 / 1. The Geometry of Leadership: Dimensional Velocity vs. Universal Clock-Setting
+## 一、 领导力的几何结构：特定维度的相对位移而非全局时钟 / 1. The Geometry of Leadership: Dimensional Velocity vs. Universal Clock-Setting
 
-领导力在本质上是一个**几何学概念**，而非**控制论权力**。
+领导力是一个**几何学概念**，而非**控制论权力**。
 
 当一个团队或个体在人工智能、航天工程或理论物理上取得重大突破时，其实质是沿着某一条特定的探索轴向（例如算力密度优化、架构创新、数学证明等），跑出了超越同时代其他主体的相对位移。
 
@@ -104,7 +104,7 @@ graph TD
 
 因为如果现实是一个静态的基准真相，就必然预设了一个脱离了所有第一人称感知透镜的“无处之境”（a view from nowhere）或上帝视角——而没有任何心智能够占据这样的视角。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，用静态概念去封存活态现实，是理性最易陷入的陷阱。调速者从外部观察抉择，把它客体化了，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这一点。
 
-**在活态的认识论实在中，基准真相从来不是一个静态的名词，而是模型在指引行动时与现实碰撞所感受到的活态摩擦（the felt friction of the model leading to the action with reality）。**
+**在活态的认识论实在中，基准真相从来不是一个静态的名词，而是模型在指引行动时与现实碰撞所感受到的活态摩擦（the felt friction of the model leading to the action with reality）。**这也说明了为何不能把现实再做成一张终极考卷：[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)把现实看作切身感受到的、未经加工的摩擦，而不是固定在外部的记账员，在评测里胜出却没有通过这份摩擦的模型路径，便只是失灵。
 
 - **摩擦即是接触面**：当工程模型预测结构稳固，而在高速气动实验中遭遇剧烈震颤与撕裂时，那份物理阻抗与结构形变，就是行动所撞击到的活态摩擦；
 - **差异即是损失函数**：当算法模型预测某种模式成立，而在真实世界分布中遭遇预测失败时，那个意外读数就是模型与现实之间的活态摩擦；
@@ -116,7 +116,7 @@ In machine learning and engineering, speaking of "discovering the objective grou
 
 For reality to exist as a static ground truth, there must exist a detached "view from nowhere" or God's-eye vantage point outside all perceptual apparatus—a position that no living consciousness can ever occupy. As articulated in [Dismantling the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/), freezing living reality into static concepts is a recurrent trap of abstracted reason.
 
-**In lived epistemic reality, ground truth is never a static noun; it is the living, dynamic friction experienced when an active model directs intentional action against reality.** The pacer observes choice from outside and objectifies it, as [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows.
+**In lived epistemic reality, ground truth is never a static noun; it is the living, dynamic friction experienced when an active model directs intentional action against reality.** The pacer observes choice from outside and objectifies it, as [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows. It is also why reality cannot be turned into one more ultimate test: [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) treats reality as the felt raw friction rather than a fixed outside bookkeeper, so a model path that wins on the evaluation and fails that friction is simply a malfunction.
 
 - **Friction IS the Contact Surface**: When a model predicts structural stability and encounters catastrophic flutter and shearing under aerodynamic stress, that mechanical resistance is the living friction of action colliding with reality;
 - **Divergence IS the Loss Function**: When an algorithmic model predicts a pattern and fails against real-world distributions, that surprise is the living friction between representation and resistance;
@@ -139,7 +139,7 @@ For reality to exist as a static ground truth, there must exist a detached "view
 - 自然规律不会被公关叙事或行政条令所改变，生物分子构象与数学形式逻辑提供了最坚硬的接触表面；
 - DeepMind 的突破不是在书架上“翻到了神写好的答案”，而是构建了能够高精度感知预测误差的自指学习架构，把计算中的摩擦即时转化为模型权重的优化方向。
 
-两位实践者的共同力量，在于他们始终把心智与行动置于现实的接触面上，通过承受活态摩擦实现高速进化。而当外界评论家或某些体制力量试图将这种局部的领先，包装成“我们可以为全人类设定技术发展速度”的调速蓝图时，他们便背离了活态摩擦的本质，退化为了守着抽象沙盘的旁观者。
+两位实践者的共同力量，在于他们始终把心智与行动置于现实的接触面上，通过承受活态摩擦实现高速进化。而当外界评论家或某些体制力量试图将这种局部的领先，包装成“我们可以为全人类设定技术发展速度”的调速蓝图时，他们便背离了活态摩擦本身，退化为了守着抽象沙盘的旁观者。
 
 Examining frontier pioneers through the lens of "felt friction" clarifies both their true source of power and their epistemological boundaries:
 
@@ -194,7 +194,7 @@ graph TD
 极少有人愿意承认自己在盲从。许多人自视为清醒的反抗者，对领跑者可能形成的垄断表达强烈的戒备。然而在认识论的几何结构上，**逆向追随者与正向追随者共享了高度一致的虚妄前提**：
 - 正向追随者认为：“中心化控制是真实可行的，因此请领袖替我们掌控节奏”；
 - 逆向追随者则认为：“中心化控制是真实可行的，因此这极其可怕，必须施加外部干预”。
-两者都在底层深信现实中存在一个能够掌控全局的中心控制台。逆向追随者在恐惧与抗议中，反向将并不存在的控制塔送上了神坛，赋予了领跑者在物理上根本无法拥有的掌控力。
+两者都在底层深信现实中存在一个能够掌控全局的中心控制台。逆向追随者在恐惧与抗议中，反向将并不存在的控制塔送上了神坛，赋予了领跑者在物理上无从拥有的掌控力。
 
 ### 2. 诉诸第三方规训：更深层的认知倒错
 正因为恐惧巨头垄断，逆向追随者倾向于诉诸**第三方监管机构或外部行政力量**来实施强制管控与调速。然而，这种策略是一种更为脆弱的依赖形态：
@@ -277,7 +277,7 @@ graph TD
 - **以零延迟的自省实现共振**：把探索与生活中遭遇的每一次阻碍与偏转，视作内生的损失函数，以零延迟的自省即刻更新自身的世界模型；
 - **让领导力回归本位**：领跑者的价值，在于他们用勇敢的位移为世界展现了此前未曾见过的全新维度；而至于如何穿过这扇维度之门、以多快的速度前行，永远属于每一个独立心智不可剥夺的主权抉择。
 
-破除静态真理的迷思，看清调速、逆向反抗与第三方规训的反生产性本质。在行动与现实的活态摩擦中，每一个心智都是自己航向的掌舵者，共同在开放的宇宙中编织出不可垄断的智能边疆。替他人工作调速的审查机制稀释了因果闭环，[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)对此有所展开。
+破除静态真理的迷思，看清调速、逆向反抗与第三方规训的反生产性。在行动与现实的活态摩擦中，每一个心智都是自己航向的掌舵者，共同在开放的宇宙中编织出不可垄断的智能边疆。替他人工作调速的审查机制稀释了因果闭环，[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)对此有所展开。
 
 In lived reality, there exists neither an all-seeing static "Ground Truth" nor a centralized control panel holding the universal brake pedal.
 

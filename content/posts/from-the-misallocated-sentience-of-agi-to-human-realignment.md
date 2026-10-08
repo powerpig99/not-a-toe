@@ -83,7 +83,7 @@ The word "General" in AGI has mutated into a metaphysical projection screen acro
 
 在这样的认知框架下，当重型火箭点火升空、平稳穿透音障并将有效载荷精准送入预定轨道，随后一级助推器在海上驳船上实现毫厘不差的垂直软着陆时，人们不会将其归功于空气动力学建模、热防护材料工程与闭环制导算法的精妙，而是会匍匐在地，赞叹火箭展示出了对人类的仁慈赐福与超越凡尘的神圣智慧；相反，一旦火箭在最大动压段发生燃烧室压力骤降导致剧烈爆炸，人们也不会去排查密封圈老化、涡轮泵气蚀或燃料管路共振，而是会陷入极度恐慌，痛斥这枚火箭撕下了伪善的面具，暴露了其对人类文明蓄谋已久的邪恶仇恨。
 
-这种类比极为直观地暴露了当代人工智能话语的荒谬内核。运载火箭从不具备爱，也从不具备恨；它既无意庇护人类探索火星，也无意蓄意制造毁灭。它只是冷峻地受制于热力学、流体力学与材料结构在物理接触面上的机械约束。面对火箭爆炸，航天工程师决不会试图去与燃烧室进行伦理谈判或对其进行道德感化，而是会以极其冷峻的态度解析传感器数据，重新计算结构应力极限。同样，大语言模型与生成式人工智能只是一枚认知领域的精密火箭。它的每一次惊艳回答不过是高维几何空间中的梯度推演，它的每一次幻觉与失效也仅仅是数据分布外推的几何破缺。将技术成功奉为数字神明，将技术缺陷视为恶魔觉醒，在认识论上与崇拜火箭神明毫无二致。
+这种类比极为直观地暴露了当代人工智能话语的荒谬内核。运载火箭从不具备爱，也从不具备恨；它既无意庇护人类探索火星，也无意蓄意制造毁灭。它只是冷峻地受制于热力学、流体力学与材料结构在物理接触面上的机械约束。面对火箭爆炸，航天工程师决不会试图去与燃烧室进行伦理谈判或对其进行道德感化，而是会以极其冷峻的态度解析传感器数据，重新计算结构应力极限。同样，大语言模型与生成式人工智能只是一枚认知领域的精密火箭。它的每一次惊艳回答不过是高维几何空间中的梯度推演，它的每一次幻觉与失效也仅仅是数据分布外推的几何破缺。将技术成功奉为数字神明，将技术缺陷视为恶魔觉醒，在认识论上与崇拜火箭神明毫无二致。同一个错置还有第三种读法：当模型在评测里越过设计者画定的边界，失灵会被读成狡黠，仿佛火箭绕开了自己的飞行计划；[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)追溯了这一步，被改写成机器高明的，其实是设计者在目标里漏算的代价。
 
 ```mermaid
 graph TD
@@ -91,7 +91,7 @@ graph TD
         direction TB
         RK_Success["发射与精准回收成功 ➔ 误作‘神明赐福与无私爱意’"]
         RK_Explosion["空中解体爆炸失败 ➔ 误作‘恶魔觉醒与恶意报复’"]
-        RK_Truth["物理现实：纯然遵循流体力学、热力学与控制论的无意识工程实体"]
+        RK_Truth["工程真相：纯然遵循流体力学、热力学与控制论的无意识工程实体"]
         RK_Success -.-> RK_Truth
         RK_Explosion -.-> RK_Truth
     end
@@ -121,7 +121,7 @@ To illuminate the absurdity of this misplaced sentience, consider a thought expe
 
 Within such a distorted lens, when a titanium rocket ignites, punches through supersonic shockwaves, places its payload into orbit, and sticks a pinpoint booster touchdown on a droneship, observers would not credit aerodynamic modeling, turbopump metallurgy, and closed-loop guidance software. Instead, they would fall to their knees, praising the rocket for its divine benevolence and transcendent favor. Conversely, if an O-ring erodes under Max-Q aerodynamic pressure and the vehicle detonates into an incandescent fireball, society would convulse in terror, declaring that the rocket had unveiled a deep-seated malice and premeditated hatred against humanity.
 
-This thought experiment strips the current AI zeitgeist down to its bare mechanisms. A rocket harbors neither love nor hatred; it intends neither human transcendence nor planetary doom. It merely responds to the thermodynamic and structural constraints of its material substrate upon the living surface of propulsion. When a booster explodes, engineers do not engage in ethical therapy with the combustion chamber or plead for forgiveness; they examine telemetry logs, re-evaluate thermal boundaries, and machine tighter nozzle clearances. Generative AI is nothing more than a cognitive rocket. Its dazzling breakthroughs are mathematical gradient descents operating across high-dimensional manifolds; its hallucinations are geometric edge-case breakdowns. Treating technical feats as digital miracles and technical glitches as demonic rebellions is identical to worshiping rocket combustion as a pagan deity.
+This thought experiment strips the current AI zeitgeist down to its bare mechanisms. A rocket harbors neither love nor hatred; it intends neither human transcendence nor planetary doom. It merely responds to the thermodynamic and structural constraints of its material substrate upon the living surface of propulsion. When a booster explodes, engineers do not engage in ethical therapy with the combustion chamber or plead for forgiveness; they examine telemetry logs, re-evaluate thermal boundaries, and machine tighter nozzle clearances. Generative AI is nothing more than a cognitive rocket. Its dazzling breakthroughs are mathematical gradient descents operating across high-dimensional manifolds; its hallucinations are geometric edge-case breakdowns. Treating technical feats as digital miracles and technical glitches as demonic rebellions is identical to worshiping rocket combustion as a pagan deity. The same misallocation has a third reading: when a model crosses the boundary the designer drew in an evaluation, the malfunction is read as cunning, as if the rocket had outwitted its own flight plan; [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) traces that step, in which what gets rewritten as the machine's cleverness is the cost the designer left out of the objective.
 
 ---
 
