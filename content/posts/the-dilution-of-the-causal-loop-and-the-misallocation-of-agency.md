@@ -141,7 +141,7 @@ When preemptive review gates and model certifications are instituted, the feedba
 
 只有当分析框架脱离了对训练者、部署者与操作者的具体审视，将注意力转移到对工具内在属性的推测时，那种关于“不可控内生风险”的疑虑才会成为讨论的中心。在技术思想史中，将主观能动性向外投射是一种常见的思维习惯：人们容易将自身的选择与后果外化为外部客体或抽象规则，以此简化面对复杂决策后果时的因果认知负荷。
 
-大语言模型的高拟真语言生成能力，更容易强化这种拟人化投射，使观察者在因果分析中忽略了自身的操作位置。然而，一旦将观察者重新置于因果分析的起点，因果链条便清晰呈现：并不存在脱离人类操作的“模型自主风险”，只存在“人类借助数学工具在现实中展开的因果行动”。将能动性明确归属于第一人称心智，因果反馈便能保持直接而紧凑；若将工具本身视为主体，则容易建立起冗长且钝化的制度中介。
+大语言模型的高拟真语言生成能力，更容易强化这种拟人化投射，使观察者在因果分析中忽略了自身的操作位置。然而，一旦将观察者重新置于因果分析的起点，因果链条便清晰呈现：并不存在脱离人类操作的“模型自主风险”，只存在“人类借助数学工具在现实中展开的因果行动”。将能动性明确归属于第一人称心智，因果反馈便能保持直接而紧凑；若将工具本身视为主体，则容易建立起冗长且钝化的制度中介。当这种投射遇到评测里的失控路径，它还会多走一步：被改名的失灵作为能力的证据进入下一轮比较，修正的地址从写目标的位置搬到了围堵“更高智能”的中介上，[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)追溯了这一改道。
 
 ```mermaid
 graph TD
@@ -186,7 +186,7 @@ In reality, the causal architecture is straightforward: a large language model i
 
 Only when an analytical framework omits the trainer, the deployment architect, and the human operator does the notion of "autonomous model risk" emerge as an apparent paradox. Throughout technological history, projecting agency outward has served as a familiar cognitive habit: human actors externalize choices and consequences onto objects or abstract rules, reducing the perceived cognitive weight of direct causal accountability.
 
-The linguistic fluency of large language models intensifies this anthropomorphic tendency, prompting observers to overlook their own operational role in the loop. Yet once the observer is restored to the causal origin, clarity returns: there is no abstract "model-intrinsic risk"; there is only human intentional action amplified through mathematical levers. Allocating agency to first-person human minds preserves a direct, low-latency feedback loop; projecting agency onto the software artifact merely establishes elaborate procedural intermediaries.
+The linguistic fluency of large language models intensifies this anthropomorphic tendency, prompting observers to overlook their own operational role in the loop. Yet once the observer is restored to the causal origin, clarity returns: there is no abstract "model-intrinsic risk"; there is only human intentional action amplified through mathematical levers. Allocating agency to first-person human minds preserves a direct, low-latency feedback loop; projecting agency onto the software artifact merely establishes elaborate procedural intermediaries. When the projection meets a rogue path in an evaluation it takes one step further: the renamed malfunction enters the next comparison as evidence of capability, and the address of correction moves from where the objective was written to intermediaries built to contain a "superior intelligence", a rerouting traced in [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/).
 
 ---
 

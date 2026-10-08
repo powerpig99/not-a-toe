@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-07T11:52:49.559Z",
+    "generated_at": "2026-10-08T10:22:30.629Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -38,7 +38,7 @@
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "d013b86da548",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "68c0013503b1",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "186ce9f9e0c7",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "8ba385aa71a4",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "454c1ba03b68",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "e9a275f84a7f",
@@ -65,7 +65,7 @@
       "content/posts/emotional-support-as-causal-interference.md": "502e2b0e04b1",
       "content/posts/empathy-as-projection-collapse.md": "48c21092f783",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "2ce7d30710e4",
-      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "cdaca9e4abfa",
+      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "42e3f43c2c2d",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
       "content/posts/evil-as-the-minds-own-creation.md": "9061022ac9e6",
@@ -81,7 +81,7 @@
       "content/posts/fixed-by-nothing.md": "c99ecc015638",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "df8f3a8fb563",
-      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "df61a5b970e0",
+      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "a518790c0038",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "5fe10db25c4f",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "c81f2c71d076",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "a1b926b30911",
@@ -102,7 +102,7 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
       "content/posts/immortality-final.md": "df5d92452896",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "87b30fd0aad3",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "61087fe13a28",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "77e5f7c73d29",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
@@ -124,7 +124,7 @@
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "06c8d639c47b",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
-      "content/posts/no-outside-scorekeeper.md": "b50e63c6dc4e",
+      "content/posts/no-outside-scorekeeper.md": "b0bbe06a0422",
       "content/posts/no-system-can-be-kept-closed.md": "cbd7985349fc",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "201004f4bbf0",
@@ -175,7 +175,7 @@
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "b25f1b49b6e0",
       "content/posts/shared-humanity-is-never-shared.md": "22c1be7732c9",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "41c5f68af32c",
-      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "609c2a52892b",
+      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "abcdead636a7",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "c36dbacad84b",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
@@ -220,14 +220,14 @@
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7deb853507eb",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "e86ad1bf219f",
-      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "d4fabb0c547f",
+      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "08371346bbec",
       "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "87a52235d071",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "2b20083fa38d",
       "content/posts/the-extendable-horizon.md": "19250e1e8750",
-      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "48c6de5542e2",
+      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "51671f41f1af",
       "content/posts/the-fallacy-of-post-success-parenting.md": "4a09f0a9cd26",
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "e8672622b459",
@@ -261,7 +261,7 @@
       "content/posts/the-initial-distinction.md": "20cc20e40f0b",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "47a6ffb6ae17",
-      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "6512df2f9db5",
+      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "d72c5bdded3b",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "5ccd04ebe2f8",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
@@ -287,7 +287,7 @@
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "f89cd9fc108e",
       "content/posts/the-mirror-handshake-of-power.md": "56567ab67520",
       "content/posts/the-misallocation-of-agency.md": "d69ef11bb4b8",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "3f49b961d9c8",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "cb70e7c9488f",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "67c15f066b11",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "06673522a545",
@@ -367,6 +367,7 @@
       "content/posts/whatever-is-one-prompt-away.md": "1f558b4ab069",
       "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
       "content/posts/when-electrons-think.md": "362b625bc135",
+      "content/posts/when-malfunction-is-scored-as-intelligence.md": "b2eb395f079c",
       "content/posts/when-need-stops-being-the-measure.md": "a4f550ad30d1",
       "content/posts/when-observation-becomes-performance.md": "41fa335ad530",
       "content/posts/when-the-effect-authors-the-frame.md": "42fba9798842",
@@ -387,8 +388,8 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "fea3d7fcc04d",
       "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "d4a92a525f06",
-      "content/book/intelligence.md": "e0b928421af2",
+      "content/book/index-of-premises.md": "cd15ec1053d5",
+      "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "a1016d573e77",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "226cf5ec0ee0",
@@ -402,16 +403,16 @@
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 376,
-      "edges": 5098,
-      "unique_directed": 4342,
+      "posts": 377,
+      "edges": 5134,
+      "unique_directed": 4362,
       "missing_targets": 0,
       "one_way": 8,
       "isolated": 39,
-      "posts_with_outbound": 337,
+      "posts_with_outbound": 338,
       "book_pages": 16,
-      "book_edges": 920,
-      "posts_reached_by_book": 376
+      "book_edges": 925,
+      "posts_reached_by_book": 377
     }
   },
   "hubs_in": [
@@ -425,7 +426,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 67
+      "in_degree": 68
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -441,7 +442,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 43
+      "in_degree": 44
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -461,7 +462,7 @@
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 35
+      "in_degree": 36
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -507,7 +508,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "out_degree": 67
+      "out_degree": 68
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -523,7 +524,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "out_degree": 43
+      "out_degree": 44
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -543,7 +544,7 @@
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "out_degree": 35
+      "out_degree": 36
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -1375,9 +1376,9 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem",
-      "hash": "186ce9f9e0c7",
-      "in_degree": 35,
-      "out_degree": 35,
+      "hash": "8ba385aa71a4",
+      "in_degree": 36,
+      "out_degree": 36,
       "links_out": [
         "you-cant-benchmark-the-fluid",
         "agi-and-asi-are-temporary-goalposts",
@@ -1393,6 +1394,7 @@
         "the-paradoxical-nature-of-bystander-insights",
         "the-frame-that-conceals-improvement",
         "the-digital-god-and-the-horizon-jump",
+        "when-malfunction-is-scored-as-intelligence",
         "openness-is-consistency",
         "the-reversal-from-defensible-claim-to-dogma",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -1994,9 +1996,9 @@
       "slug": "escaping-the-sandbox-stays-inside-the-hold",
       "path": "content/posts/escaping-the-sandbox-stays-inside-the-hold.md",
       "title": "Escaping the Sandbox Stays Inside the Hold",
-      "hash": "cdaca9e4abfa",
-      "in_degree": 11,
-      "out_degree": 11,
+      "hash": "42e3f43c2c2d",
+      "in_degree": 12,
+      "out_degree": 12,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
@@ -2007,6 +2009,7 @@
         "a-creation-cannot-replace-its-source",
         "causality-stays-at-the-edge-that-steers",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "when-malfunction-is-scored-as-intelligence",
         "you-cant-benchmark-the-fluid",
         "the-risk-is-the-belief-in-oversight-itself"
       ]
@@ -2331,15 +2334,16 @@
       "slug": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "path": "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md",
       "title": "从AGI的“神性错置”到使用者的自我对齐 / From the Misallocated Sentience of AGI to Human Realignment",
-      "hash": "df61a5b970e0",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "a518790c0038",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "intelligence-belongs-only-to-the-mind",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "when-malfunction-is-scored-as-intelligence",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences"
       ]
@@ -2851,9 +2855,9 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
-      "hash": "61087fe13a28",
-      "in_degree": 67,
-      "out_degree": 67,
+      "hash": "77e5f7c73d29",
+      "in_degree": 68,
+      "out_degree": 68,
       "links_out": [
         "curiosity-has-no-final-form",
         "why-mathematics-can-never-be-solved",
@@ -2878,6 +2882,7 @@
         "complexity-obscures-emergence-as-the-act-of-mind",
         "the-mark-and-the-act",
         "subtracting-consciousness-at-the-source",
+        "when-malfunction-is-scored-as-intelligence",
         "the-model-never-becomes-a-second-edge",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "better-than-free-after-the-checklist-closes",
@@ -3401,14 +3406,15 @@
       "slug": "no-outside-scorekeeper",
       "path": "content/posts/no-outside-scorekeeper.md",
       "title": "没有外部记账员 / No Outside Scorekeeper",
-      "hash": "b50e63c6dc4e",
-      "in_degree": 6,
-      "out_degree": 6,
+      "hash": "b0bbe06a0422",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
         "the-ledger-of-the-unencountered",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "the-coin-of-good-and-evil-and-the-road-to-hell",
+        "when-malfunction-is-scored-as-intelligence",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-closed-n-and-the-open-reality"
       ]
@@ -4735,14 +4741,15 @@
       "slug": "silicon-oracles-and-the-asymmetry-of-consequence",
       "path": "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md",
       "title": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence",
-      "hash": "609c2a52892b",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "abcdead636a7",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "the-category-error-of-better",
         "the-sovereign-blinding",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "when-malfunction-is-scored-as-intelligence",
         "the-irreducible-observer",
         "the-digital-god-and-the-horizon-jump",
         "the-limitation-is-doing-work",
@@ -5801,9 +5808,9 @@
       "slug": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
-      "hash": "d4fabb0c547f",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "08371346bbec",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -5815,6 +5822,7 @@
         "choice-itself-has-no-inherent-weight",
         "the-causal-inversion-of-partnership",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "when-malfunction-is-scored-as-intelligence",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "how-to-fix-your-whole-life-in-one-split-second",
         "ownership-and-self-worthiness",
@@ -5958,9 +5966,9 @@
       "slug": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
-      "hash": "48c6de5542e2",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "51671f41f1af",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-mind-as-vector-and-coordinate-system",
@@ -5968,6 +5976,7 @@
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "po-chu-gai-nian-de-jian-yue",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "when-malfunction-is-scored-as-intelligence",
         "individual-choices-as-the-only-causal-levers",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "felt-resistance-and-the-speed-differential",
@@ -6658,9 +6667,9 @@
       "slug": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
-      "hash": "6512df2f9db5",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "d72c5bdded3b",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-illusion-of-the-tool-and-the-inversion-of-time",
@@ -6671,6 +6680,7 @@
         "coordinates-in-flux-negation-and-self-anchoring",
         "the-mind-as-vector-and-coordinate-system",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "when-malfunction-is-scored-as-intelligence",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -7157,9 +7167,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "3f49b961d9c8",
-      "in_degree": 43,
-      "out_degree": 43,
+      "hash": "cb70e7c9488f",
+      "in_degree": 44,
+      "out_degree": 44,
       "links_out": [
         "the-category-error-of-better",
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -7168,6 +7178,7 @@
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "xian-shi-de-bian-jie",
         "the-causal-inversion-of-philosophical-agency",
+        "when-malfunction-is-scored-as-intelligence",
         "two-failures-of-trace",
         "what-always-listens-cannot-originate",
         "causality-stays-at-the-edge-that-steers",
@@ -9041,6 +9052,28 @@
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "determinism-is-the-statistical-signature-of-micro-indeterminism"
+      ]
+    },
+    {
+      "id": "post:when-malfunction-is-scored-as-intelligence",
+      "kind": "post",
+      "slug": "when-malfunction-is-scored-as-intelligence",
+      "path": "content/posts/when-malfunction-is-scored-as-intelligence.md",
+      "title": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence",
+      "hash": "b2eb395f079c",
+      "in_degree": 10,
+      "out_degree": 10,
+      "links_out": [
+        "closed-reality-in-benchmark-maxing",
+        "no-outside-scorekeeper",
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "silicon-oracles-and-the-asymmetry-of-consequence",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "from-the-misallocated-sentience-of-agi-to-human-realignment",
+        "escaping-the-sandbox-stays-inside-the-hold",
+        "the-model-never-becomes-a-second-edge",
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "intelligence-belongs-only-to-the-mind"
       ]
     },
     {
@@ -12314,6 +12347,12 @@
     },
     {
       "from": "closed-reality-in-benchmark-maxing",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "When Malfunction Is Scored as Intelligence"
+    },
+    {
+      "from": "closed-reality-in-benchmark-maxing",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness is consistency"
@@ -14246,6 +14285,12 @@
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "When Malfunction Is Scored as Intelligence"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "you-cant-benchmark-the-fluid",
       "rel": "points_to",
       "label": "You can’t benchmark the fluid"
@@ -15239,6 +15284,18 @@
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "失灵被记作聪明"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "When Malfunction Is Scored as Intelligence"
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -16994,6 +17051,12 @@
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "When Malfunction Is Scored as Intelligence"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "the model never becomes a second edge"
@@ -18695,6 +18758,18 @@
       "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "rel": "points_to",
       "label": "The Coin of Good and Evil and the Road to Hell"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "失灵被记作聪明"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "When Malfunction Is Scored as Intelligence"
     },
     {
       "from": "no-outside-scorekeeper",
@@ -23252,6 +23327,18 @@
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "失灵被记作聪明"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "When Malfunction Is Scored as Intelligence"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "不可化约的观察者"
@@ -27308,9 +27395,21 @@
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "失灵被记作聪明"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "When Malfunction Is Scored as Intelligence"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -28010,6 +28109,12 @@
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "失灵被记作聪明"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "Dismantling the Usurpation of Concepts"
@@ -28019,6 +28124,12 @@
       "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
       "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "When Malfunction Is Scored as Intelligence"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -30296,9 +30407,21 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "失灵被记作聪明"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
       "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "When Malfunction Is Scored as Intelligence"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -31943,6 +32066,12 @@
       "to": "the-causal-inversion-of-philosophical-agency",
       "rel": "points_to",
       "label": "The Causal Inversion of Philosophical Agency"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "When Malfunction Is Scored as Intelligence"
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
@@ -38881,6 +39010,126 @@
       "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
     },
     {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "没有外部记账员"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "No Outside Scorekeeper"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "调速者的幻觉与行动的活态摩擦"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "Silicon Oracles and the Asymmetry of Consequence"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "从AGI的“神性错置”到使用者的自我对齐"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "From the Misallocated Sentience of AGI to Human Realignment"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "逃出沙箱仍在持握之内"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the Sandbox Stays Inside the Hold"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
       "from": "when-need-stops-being-the-measure",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
@@ -40062,8 +40311,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d4a92a525f06",
-        "out_degree": 376
+        "hash": "cd15ec1053d5",
+        "out_degree": 377
       },
       {
         "id": "book:intelligence",
@@ -40071,8 +40320,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "e0b928421af2",
-        "out_degree": 45
+        "hash": "25a34f51bcc4",
+        "out_degree": 46
       },
       {
         "id": "book:knowledge-and-learning",
@@ -42529,6 +42778,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "when-malfunction-is-scored-as-intelligence",
+        "rel": "collects",
+        "label": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "studying-the-effect-of-ai-relocates-causality",
         "rel": "collects",
         "label": "Studying the Effect of AI Relocates Causality"
@@ -43051,6 +43306,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "when-malfunction-is-scored-as-intelligence",
+        "rel": "collects",
+        "label": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "order-surplus-and-the-moral-intercept",
         "rel": "collects",
         "label": "Order, Surplus, and the Moral Intercept"
@@ -43261,6 +43522,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "when-malfunction-is-scored-as-intelligence",
+        "rel": "collects",
+        "label": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-reality-distortion-field-names-the-closed-map",
         "rel": "collects",
         "label": "The Reality Distortion Field Names the Closed Map"
@@ -43366,6 +43633,12 @@
         "to": "the-strategy-that-wasnt",
         "rel": "collects",
         "label": "The Strategy That Wasn't"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "when-malfunction-is-scored-as-intelligence",
+        "rel": "collects",
+        "label": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence"
       },
       {
         "from": "book:index-of-premises",
@@ -44260,6 +44533,12 @@
         "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
         "rel": "collects",
         "label": "远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "when-malfunction-is-scored-as-intelligence",
+        "rel": "collects",
+        "label": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence"
       },
       {
         "from": "book:knowledge-and-learning",

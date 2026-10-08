@@ -57,3 +57,4 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [辛顿未曾理解的心智 / What Hinton Failed to Understand](../../posts/what-hinton-failed-to-understand/)
 - [硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence](../../posts/silicon-oracles-and-the-asymmetry-of-consequence/)
 - [远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere](../../posts/the-distant-silhouette-and-the-inventory-from-nowhere/)
+- [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/)

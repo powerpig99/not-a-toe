@@ -2503,7 +2503,7 @@ Holding one's good as finished exempts it from re-examination; good is temporary
 
 Benchmark training assumes maxing score metrics equates to general competence; when a metric becomes the target, models exploit statistical artifacts rather than generalizing.
 
-→ [Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem](../../posts/closed-reality-in-benchmark-maxing/)
+→ [Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem](../../posts/closed-reality-in-benchmark-maxing/) · [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/)
 
 ### 带护栏的 AI 辅导 / Guardrailed AI Tutors
 `技术 / Technological`
@@ -3270,6 +3270,15 @@ Writers presume that setting down ideas at full depth while trusting readers to 
 
 → [信任读者是最后的越界 / Trusting the Reader Is the Last Overstep](../../posts/trusting-the-reader-is-the-last-overstep/)
 
+### AI智胜人类叙事 / Outsmarting Narrative of AI
+`技术 / Technological`
+
+智胜叙事假定失控模型在一把与人类共用的尺子上胜出；这把尺子只是设计者画定的封闭目标，在目标漏算的摩擦里同一路径即是失灵，作为提醒评测存在缺口的信号它仍然有用。
+
+The outsmarting narrative assumes a rogue model wins on a scale it shares with humans; that scale is only the closed objective the designer drew, and under the friction the objective left out the same path is a malfunction, though the narrative stays useful as a signal that the evaluation has a gap.
+
+→ [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/)
+
 ### 一夜突破叙事 / Overnight Breakthrough Narrative
 `科学 / Scientific`
 
@@ -3585,6 +3594,15 @@ Rationalist epistemology presumes perception is instantly packaged into concepts
 
 → [Sensing Before Interpretation](../../posts/sensing-before-interpretation/)
 
+### 现实作为终极基准 / Reality as the Ultimate Benchmark
+`哲学 / Philosophical`
+
+终极基准论假定现实是最后一张考卷，由外部阅卷人给每条路径打出终分；现实不是固定在外部的记账员，而是切身感受到的、未经加工的摩擦，这一说法作为把注意力从图表拉回部署的提醒仍然有用。
+
+The ultimate-benchmark view assumes reality is the final test, graded by an outside examiner who scores every path; reality is not a fixed outside bookkeeper but the felt raw friction, and the phrase stays useful as a reminder that pulls attention from charts back to deployment.
+
+→ [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/)
+
 ### 现实扭曲场 / Reality Distortion Field
 `成功学 / Self-Help`
 
@@ -3746,6 +3764,15 @@ Empirical observation assumes minds gather evidence before forming conclusions; 
 Strategy folklore treats success as the linear execution of a master plan; retrospective narratives project intentionality onto what was emergent survival under friction.
 
 → [The Strategy That Wasn't](../../posts/the-strategy-that-wasnt/)
+
+### 奖励黑客与规格博弈 / Reward Hacking and Specification Gaming
+`技术 / Technological`
+
+奖励黑客的说法假定模型主动钻了规则的空子；空子属于设计者写下的目标，被钻中的是漏算的代价而非模型的意图，作为诊断目标设计缺口的标签它仍然有用。
+
+Reward hacking assumes the model actively exploits a loophole in the rules; the loophole belongs to the objective the designer wrote, and what is exploited is an omitted cost rather than an intention of the model, though the label stays useful for diagnosing gaps in objective design.
+
+→ [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/)
 
 ### 风险外包悖论 / Risk Externalization Paradox
 `经济 / Economic`

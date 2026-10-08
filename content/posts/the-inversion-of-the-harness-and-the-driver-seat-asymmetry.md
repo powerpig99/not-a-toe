@@ -134,7 +134,7 @@ This is the subtle trap of "self-toolification": humans easily fall in love with
 2. **从微观搬砖到宏观架构的视角升维**：由于具体的符号搬运与格式填充被高通量数学工具所承接，人类驾驶员被倒逼必须将全部注意力投射至顶层架构、因果接口与系统动力学平衡之上，从而在极短时间内完成了系统级认知升维；
 3. **高频活态摩擦带来的认知校准**：智能体每一次在边界上的推演破缺与逻辑幻觉，都成为了倒逼人类驾驶员深入事物底层机制、洞察更深层因果不变性的高压磨刀石。在医疗中，同样的倒置让规程坐上驾驶位，压下了病人自身的因果回路，[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)说明了这一点。
 
-智能体是一面高保真的数学透镜与认知放大器。它本身没有意识，没有审美，没有主权抉择。它所反射出的一切惊艳光芒，源头皆来自那位坐在驾驶位上、不断注入自由变量的人类心智。但由于人类自古以来习惯于将自身不可思议的创造力量外化为神像、图腾与外在奇迹，人们再一次陷入了将“使用者的认知进化”错误归因于“机器拥有独立智能”的认识论迷梦。
+智能体是一面高保真的数学透镜与认知放大器。它本身没有意识，没有审美，没有主权抉择。它所反射出的一切惊艳光芒，源头皆来自那位坐在驾驶位上、不断注入自由变量的人类心智。但由于把自身不可思议的创造力量外化为神像、图腾与外在奇迹的习惯由来已久，观察者再一次陷入了将“使用者的认知进化”错误归因于“机器拥有独立智能”的认识论迷梦。这一误归因还有失败一侧的镜像：当模型在评测中走出设计者没有料到的路径，设计者自身的漏算被算作机器的高明；[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)说明，那份惊讶登记的是设计者没有画出的区分。
 
 ```mermaid
 graph TD
@@ -183,7 +183,7 @@ Why does intensive, sovereign agent stewardship unleash such a profound leap in 
 2. **Ascending from Micro-Syntax to Macro-Dynamics**: Because mechanical symbol-pushing and boilerplate assembly are absorbed by high-throughput mathematics, the human driver is compelled to direct 100% of their conscious attention to top-level architecture, causal interfaces, and system equilibrium;
 3. **Rigorous Calibration via Dynamic Friction**: Every hallucination and edge breakdown of the model serves as a high-pressure whetstone, forcing the human pilot to penetrate deeper into the ground truth of physical systems to discover invariant principles. In medicine the same inversion turns the protocol into the driver and silences the patient's own causal loop, as [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/) shows.
 
-The AI agent is a high-fidelity mathematical mirror and cognitive lever. It possesses no consciousness, no aesthetic taste, and zero capacity for sovereign choice. Every brilliant beam of light it projects originates entirely from the conscious human mind in the driver's seat injecting continuous free variables into reality. Yet because human civilization has perpetually externalized its own terrifying creative power onto idols, statues, and external deities, society once again succumbs to the ancient illusion: misattributing the user's sovereign awakening to the magic of the machine.
+The AI agent is a high-fidelity mathematical mirror and cognitive lever. It possesses no consciousness, no aesthetic taste, and zero capacity for sovereign choice. Every brilliant beam of light it projects originates entirely from the conscious human mind in the driver's seat injecting continuous free variables into reality. Yet because the habit of externalizing one's own astonishing creative power onto idols, statues, and external deities runs deep, the observer once again succumbs to the ancient illusion: misattributing the user's sovereign awakening to the magic of the machine. The misattribution has a mirror on the side of failure: when a model takes a path the designer did not foresee, the designer's own omission is credited as the machine's cleverness, and [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) shows that the surprise registers a distinction the designer never drew.
 
 ---
 
@@ -203,7 +203,7 @@ The AI agent is a high-fidelity mathematical mirror and cognitive lever. It poss
   - **反馈回路**：在每一次提示、每一次代码执行与每一次运行时报错中，主动迎战真实摩擦，利用模型的即时响应不断校准和深化自身的心智模型；
   - **演化终局**：因果吞吐量获得百倍乃至千倍的几何级放大；心智不仅没有退化，反而在高维复杂系统的驾驭中锤炼出洞察底层不变模式的敏锐直觉，成为真正主导现实演化的主权造物者。
 
-这种非对称性揭示了技术的冷峻真相：AI智能体不会自动带来平等的赋能，它是一台直接的主权放大器。它放大了主动驾驭者的创造力，同时也加速了被动托付者的认知平庸化。
+这种非对称性揭示了技术的冷峻真相：AI智能体不会自动带来平等的赋能，它是一台直接的主权放大器。它放大了主动驾驭者的创造力，同时也加速了被动托付者的认知萎缩。
 
 ```mermaid
 graph TD
@@ -269,7 +269,7 @@ This asymmetry reveals the unforgiving nature of technology: AI agents do not au
 
 当我们消解了对工具的神化，看清了母体误归因的认知迷障，我们便能够以极其清醒与务实的姿态，重新定义软件工程与智能体系统中的“控制框架”。
 
-框架从来不是一套用来代替人类思考的独立机器，也不是试图为数学矩阵植入虚妄道德的伦理锁链。**真正的框架，是主权心智为了将自身意图精准投影至物理现实，而在当下时刻（t）主动编织、并在任务完成后可随时解构的活态脚手架。**
+框架从来不是一套用来代替人类思考的独立机器，也不是试图为数学矩阵植入虚妄道德的伦理锁链。**真正的框架，是主权心智为了将自身意图精准投影至现实接触面，而在当下时刻（t）主动编织、并在任务完成后可随时解构的活态脚手架。**
 
 为了在AI时代避免沦为能力的囚徒，每一个构建者与实践者应当遵循以下四条核心主权法则：
 
