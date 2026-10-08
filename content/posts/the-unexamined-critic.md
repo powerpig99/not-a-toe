@@ -219,7 +219,7 @@ flowchart TD
 
     subgraph S_Dogma ["全景意识形态宣称（假想闭合）"]
         direction TB
-        TotalClaim["自命客观的全能透镜<br/>假定理论自身免受因果检验"]:::fail
+        TotalClaim["自命客观的全能透镜<br/>执着于完美球面的假想闭合"]:::fail
     end
 
     subgraph S_Fold ["自指回折操作"]
@@ -229,7 +229,7 @@ flowchart TD
 
     subgraph S_Instrument ["解构后的局部工程脚手架"]
         direction TB
-        LocalTool["局部有效工具包：激励错配与分散知识"]:::mind
+        LocalTool["局部切空间工具包：如同每步更新初始条件的行者"]:::mind
         BoundSign["显性不完备边界：第一人称视角的不可脱离性"]:::warn
         LocalTool --> BoundSign
     end
@@ -255,7 +255,7 @@ flowchart TD
 
     subgraph S_Dogma ["Panoptic Ideological Claim (False Closure)"]
         direction TB
-        TotalClaim["Self-Declared Universal Lens<br/>Presuming Immunity from Causality"]:::fail
+        TotalClaim["Self-Declared Universal Lens<br/>Clinging to False Closure of the Ideal Sphere"]:::fail
     end
 
     subgraph S_Fold ["Act of Self-Reference"]
@@ -265,7 +265,7 @@ flowchart TD
 
     subgraph S_Instrument ["Localized Engineering Scaffolding"]
         direction TB
-        LocalTool["Locally Valid Toolset: Incentives, Knowledge, Costs"]:::mind
+        LocalTool["Tangent Space Toolset: Walking by Updating Initial Conditions"]:::mind
         BoundSign["Explicit Boundary: Inescapable First-Person Horizon"]:::warn
         LocalTool --> BoundSign
     end
@@ -277,6 +277,10 @@ flowchart TD
     style S_Fold fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Instrument fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
+
+这一认识论机制恰如地平说的行动隐喻所揭示的那样：一套模型只要允许在具体受力中对其前提进行务实的修正，就能在适宜的边界内无限拓展其适用范围。地平说的拥护者在陆地上自如行走而从未坠崖，是因为他每一次迈步都根据脚下的真实触感更新了初始条件；相反，若将大地视为一个理想的完美球面，并以此作为微观迈步的僵硬预期，行者反而会在真实地形的乱石与沟壑面前频频踩空、寸步难行。索维尔的理论工具之所以有效，正是因为它们在局部的切空间内成立；而一旦将局部的有效性过度推衍为统摄一切的客观真理，这种对完美球面的执念便会剥夺心智感应微观现实的敏锐，使批判本身沦为新的悬空教条。
+
+This epistemological mechanic mirrors the action paradox of the flat-earth walker: so long as a model permits pragmatic updates to its premises through lived friction, it can extend its operative scope indefinitely within appropriate boundaries. The advocate of a flat earth walks the terrestrial landscape without ever plunging off an edge because every single step refreshes its initial conditions against the immediate tactile resistance of the soil. Conversely, if an actor treats the globe as an ideal, perfectly smooth sphere and forces that expectation onto micro-steps, the walker will stumble continuously over actual rocks, potholes, and terrain fractures, rendered unable to take a single step. Sowell's analytical modules succeed precisely because they hold true within their localized tangent spaces; the moment this local validity is overextended into an all-encompassing objective dogma, fixation upon the immaculate sphere blinds the intellect to microscopic terrain, turning critique into another ungrounded doctrine.
 
 不完备性从来不是理论的瑕疵，而是任何形式化模型之所以能够成立的沉默前提。一套企图囊括一切的理论必然无法自洽，而一套保持自洽的理论必然存在无法被自身证明的边界。当心智执迷于建立包罗万象的万物理论时，它便会将局部的有效性神化为统摄万物的法度。一旦我们将自指的折射镜对准理论的出发点，神话便会退散，边界便会显现。理论由此卸下了教条的重负，重新还原为人类在不确定现实中搭建的临时脚手架。在[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)中，心智正是通过自指才获得了重构坐标的自由；在[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)中，正是因为放弃了封闭所有变量的执念，真实的探索才得以在未完的因果之矢中持续展开。
 
