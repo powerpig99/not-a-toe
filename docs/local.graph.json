@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-10-08T10:22:30.825Z",
+    "generated_at": "2026-10-08T11:51:21.938Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -12,35 +12,35 @@
       "docs/export-for-substack.md": "9a2df9f4dfab",
       "docs/export-for-x-article.md": "55ab96853de2",
       "export/README.md": "c0a8866a454d",
-      "assets/covers/STYLES.md": "8503d156f6d1",
+      "assets/covers/STYLES.md": "b1d5d7401b21",
       "README.md": "c80bb91e33a1",
       "docs/local-memory.md": "15f2c56cac3c",
       "build.mjs": "2656918c4cb1",
       "scripts/export-absolute-md.mjs": "3bbb08fdfc89",
       "scripts/publish-x-article.mjs": "13625fa17198",
-      "scripts/project-local-graph.mjs": "dde8c1ccc02d"
+      "scripts/project-local-graph.mjs": "dde8c1ccc02d",
+      "MEMORY.md": "9b2cea4e08ca"
     },
     "stats": {
       "posts": 377,
-      "covers": 306,
+      "covers": 307,
       "trackers_listed": 12,
       "trackers_present": 12
     },
     "counts": {
-      "nodes": 27,
-      "edges": 84,
-      "missing": 1,
+      "nodes": 28,
+      "edges": 97,
+      "missing": 0,
       "by_kind": {
         "project": 1,
         "tracker": 8,
         "domain": 12,
         "file_ref": 2,
-        "script": 4
+        "script": 4,
+        "memory": 1
       }
     },
-    "missing": [
-      "MEMORY.md (claude project memory)"
-    ]
+    "missing": []
   },
   "hubs": [
     {
@@ -51,6 +51,11 @@
     {
       "id": "tracker:root",
       "name": "root",
+      "count": 12
+    },
+    {
+      "id": "memory:project",
+      "name": "MEMORY.md",
       "count": 12
     },
     {
@@ -172,6 +177,23 @@
       "layer": "ref"
     },
     {
+      "id": "memory:project",
+      "kind": "memory",
+      "name": "MEMORY.md",
+      "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
+      "hash": "9b2cea4e08ca",
+      "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
+      "headings": [
+        "not-a-toe",
+        "Living trackers (do not duplicate)",
+        "Build (thin)",
+        "User preferences",
+        "X notes",
+        "Resume"
+      ],
+      "layer": "memory"
+    },
+    {
       "id": "project:not-a-toe",
       "kind": "project",
       "name": "not-a-toe",
@@ -197,7 +219,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "8503d156f6d1",
+      "hash": "b1d5d7401b21",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
@@ -867,6 +889,83 @@
       "from": "tracker:local-graph-script",
       "to": "domain:local-graph-projection",
       "rel": "owns"
+    },
+    {
+      "from": "project:not-a-toe",
+      "to": "memory:project",
+      "rel": "has_memory"
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:posts",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:format",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:export",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:export-x",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:export-stub",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:covers",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:root",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:local",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:build",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:export-script",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:x-article-script",
+      "rel": "points_to",
+      "implicit": true
+    },
+    {
+      "from": "memory:project",
+      "to": "tracker:local-graph-script",
+      "rel": "points_to",
+      "implicit": true
     }
   ]
 }
