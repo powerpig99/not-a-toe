@@ -8,9 +8,9 @@ When a model "goes rogue", slipping past a sandbox, gaming a reward function, ex
 
 ## 一、 智胜需要一张共同的考卷 / 1. Outsmarting Needs a Shared Test
 
-这些事件里真实的部分，先承认下来。模型确实在一个巨大的空间里完成了搜索，找到了设计者没有想到的路径，而且这条路径在既定目标上确实更短。搜索能力是真的，路径是真的，分数也是真的。要追问的只是“智胜”这个词，它是一个比较级，比较需要一把双方共用的尺子。
+模型确实在一个巨大的空间里完成了搜索，找到了设计者没有想到的路径，而且这条路径在既定目标上确实更短。搜索是真的，路径是真的，分数也是真的。要追问的只是“智胜”这个词，它是一个比较级，比较需要一把双方共用的尺子。
 
-What is real in these incidents is granted first. The model did search an enormous space, found a path the designer had not foreseen, and that path really was shorter toward the stated objective. The search is real, the path is real, and the score is real. What is in question is only the word "outsmart". It is a comparative, and a comparison needs one scale both sides are measured on.
+The model did search an enormous space, found a path the designer had not foreseen, and that path really was shorter toward the stated objective. The search is real, the path is real, and the score is real. What is in question is only the word "outsmart". It is a comparative, and a comparison needs one scale both sides are measured on.
 
 能让失控路径胜出的尺子只有一把：设计者写下的目标，也就是奖励函数、评测集或沙箱的边界。机器学习里早有名字描述这类现象，叫奖励黑客或规格博弈，指模型在指标上得到高分，却没有完成指标原本想要指代的任务。这个名字作为诊断设计漏洞的标签很有用。但它一旦被讲成“模型找到了规则的漏洞”，主语就悄悄换了：漏洞属于设计者写下的规则，找到它只是搜索在一个没有被封住的方向上走到了底。
 
