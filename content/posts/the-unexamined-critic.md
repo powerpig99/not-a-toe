@@ -1,10 +1,10 @@
-# 未被标价的批判者 / The Unpriced Critic
+# 未经自我审视的批判者 / The Unexamined Critic
 
-*以自指照见理论的不完备边界，让宏观工具回归可复用的脚手架。 / Folding self-reference marks a theory’s boundary of incompleteness, restoring macro tools to reusable scaffolding.*
+*批判者指责他人的言辞免受检验，却未将审视的尺度折回自身。 / The critic condemns ungrounded words in others while exempting his own perch from examination.*
 
-当我们借由托马斯·索维尔的名言审视知识分子的偏颇时，容易忽略观察者自身隐秘的立足点。批判者指责他人仅凭言辞构筑愿景而无需承担市场检验的代价，却在此刻将自己的经验主义高台豁免于同样的定价机制之外。任何系统为了维持自洽闭合，都倾向于将观测者与被观测者割裂为互斥的两个半球。将分析尺度回折给理论自身并不会摧毁其解释力，而是精准标定了其不完备性的边界，使傲慢的普遍性宣称回归为趁手而可复用的局部脚手架。
+当我们借由托马斯·索维尔的名言审视知识分子的偏颇时，容易忽略观察者自身隐秘的立足点。批判者指责他人仅凭言辞构筑愿景而无需承担具身检验的代价，却在此刻将自己的经验主义高台豁免于同样的审视机制之外。任何系统为了维持自洽闭合，都倾向于将观测者与被观测者割裂为互斥的两个半球。将分析尺度回折给理论自身并不会摧毁其解释力，而是精准标定了其不完备性的边界，使傲慢的普遍性宣称回归为趁手而可复用的局部脚手架。
 
-When examining the fallacies of intellectuals through Thomas Sowell’s celebrated diagnostic lens, we routinely overlook the quiet footing occupied by the observer. The critic faults others for trading in verbal articulations without paying for empirical divergence, yet exempts his own empiricist balcony from that identical pricing mechanism. Every conceptual system seeking closure tends to split observer from observed as mutually exclusive hemispheres. Folding that diagnostic scale back upon the theorist does not destroy the model, but precisely marks its boundary of incompleteness, converting an imperial claim to universality into reusable, local scaffolding.
+When examining the fallacies of intellectuals through Thomas Sowell’s celebrated diagnostic lens, we routinely overlook the quiet footing occupied by the observer. The critic faults others for trading in verbal articulations without facing bodily testing, yet exempts his own empiricist balcony from that identical examination. Every conceptual system seeking closure tends to split observer from observed as mutually exclusive hemispheres. Folding that diagnostic scale back upon the theorist does not destroy the model, but precisely marks its boundary of incompleteness, converting an imperial claim to universality into reusable, local scaffolding.
 
 ## 一、 否定立场的反向确证 / 1. The Inverse Confirmation of Negation
 
@@ -144,7 +144,7 @@ In contrast, one’s own agency is experienced at the source before the act unfo
 
 ## 三、 理论闭合的豁免王座 / 3. The Throne of Exemption in Theoretical Closure
 
-当这种个体的通道不对称上升为思想体系时，便凝固成了理论构建中的豁免特权。索维尔在《知识分子与社会》和《受膏者的愿景》中展开了雄辩的批判。他指出，知识分子阶层的产物仅仅是概念阐述，他们的观念即便在真实世界中造成了巨大灾难，其代价也只会转嫁给大众，而不会反噬到阐述者自身的声誉或生计之上。由于缺乏真实市场的成本约束，受膏者们得以在言辞的自我强化中长久维持脱离实际的宏大叙事。这项针对社会工程家的解构极为锐利，然而整套理论的闭合却依赖于一个未经审视的盲区：批判者自己的观察席位究竟由谁来定价？更直接地说，批判者自己不也正在做着被他严厉批判的事吗？索维尔以知识分子的身份痛斥知识分子只贩卖不负责任的言辞，但他自己安坐于智库与书斋之中，所生产的同样是一册册由概念阐述铺就的出版物；当这套反对干预的观念被采纳并在真实世界中引发摩擦与阵痛时，作者自身同样无需交出资产或承受生计破产。他斥责他人贩卖未经定价的愿景，自己却贩卖着同样未被标价的批判。
+当这种个体的通道不对称上升为思想体系时，便凝固成了理论构建中的豁免特权。索维尔在《知识分子与社会》和《受膏者的愿景》中展开了雄辩的批判。他指出，知识分子阶层的产物仅仅是概念阐述，他们的观念即便在真实世界中造成了巨大灾难，其代价也只会转嫁给大众，而不会反噬到阐述者自身的声誉或生计之上。由于缺乏真实市场的成本约束，受膏者们得以在言辞的自我强化中长久维持脱离实际的宏大叙事。这项针对社会工程家的解构极为锐利，然而整套理论的闭合却依赖于一个未经审视的盲区：批判者自己的观察席位究竟由谁来审视与检验？更直接地说，批判者自己不也正在做着被他严厉批判的事吗？索维尔以知识分子的身份痛斥知识分子只贩卖不负责任的言辞，但他自己安坐于智库与书斋之中，所生产的同样是一册册由概念阐述铺就的出版物；当这套反对干预的观念被采纳并在真实世界中引发摩擦与阵痛时，作者自身同样无需交出资产或承受生计破产。他斥责他人贩卖免受检验的愿景，自己却贩卖着同样未经自我审视的批判。
 
 ```mermaid
 flowchart TD
@@ -161,7 +161,7 @@ flowchart TD
 
     subgraph S_Anointed ["受检的言辞客体"]
         direction TB
-        AnointedUnits["受膏知识分子：言辞阐述未被定价"]:::fail
+        AnointedUnits["受膏知识分子：言辞阐述免受检验"]:::fail
         MarketReality["分散大众：承受转嫁后果的载体"]:::warn
         AnointedUnits --> MarketReality
     end
@@ -172,7 +172,7 @@ flowchart TD
     style S_Anointed fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
 ```
 
-When this cognitive asymmetry scales into intellectual architecture, it crystallizes into theoretical self-exemption. Thomas Sowell mounted a formidable critique in *Intellectuals and Society* and *The Vision of the Anointed*, showing that intellectuals deal strictly in articulated ideas. When their social engineering schemes fail, the catastrophic costs fall upon ordinary citizens while leaving the articulators insulated from financial or professional ruin. Shielded from market discipline, the anointed sustain self-congratulatory doctrines long after empirical outcomes diverge. This demolition of technocratic hubris is devastatingly sharp, yet the closure of the theory hinges on an unexamined blind spot: who prices the critical balcony occupied by the author? Put more directly, isn't the critic doing the exact thing being criticized? Denouncing intellectuals as dealers in unpriced rhetoric from his perch in elite think tanks, Sowell trades in books comprised entirely of articulated concepts. If his anti-interventionist doctrines are adopted and induce real economic dislocations, the author himself faces no direct loss of capital or livelihood. He scolds others for peddling unpriced visions, while marketing an equally unpriced critique.
+When this cognitive asymmetry scales into intellectual architecture, it crystallizes into theoretical self-exemption. Thomas Sowell mounted a formidable critique in *Intellectuals and Society* and *The Vision of the Anointed*, showing that intellectuals deal strictly in articulated ideas. When their social engineering schemes fail, the catastrophic costs fall upon ordinary citizens while leaving the articulators insulated from financial or professional ruin. Shielded from market discipline, the anointed sustain self-congratulatory doctrines long after empirical outcomes diverge. This demolition of technocratic hubris is devastatingly sharp, yet the closure of the theory hinges on an unexamined blind spot: who examines and audits the critical balcony occupied by the author? Put more directly, isn't the critic doing the exact thing being criticized? Denouncing intellectuals as dealers in ungrounded rhetoric from his perch in elite think tanks, Sowell trades in books comprised entirely of articulated concepts. If his anti-interventionist doctrines are adopted and induce real economic dislocations, the author himself faces no direct loss of capital or livelihood. He scolds others for peddling unchecked visions, while marketing an equally unexamined critique.
 
 ```mermaid
 flowchart TD
@@ -189,7 +189,7 @@ flowchart TD
 
     subgraph S_Anointed ["Audited Articulators"]
         direction TB
-        AnointedUnits["Anointed Intellectuals: Unpriced Articulations"]:::fail
+        AnointedUnits["Anointed Intellectuals: Unexamined Articulations"]:::fail
         MarketReality["Dispersed Public: Bearing Externalized Costs"]:::warn
         AnointedUnits --> MarketReality
     end
@@ -200,9 +200,9 @@ flowchart TD
     style S_Anointed fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
 ```
 
-声称自己代表严谨经验、恪守事实检验、拒绝道德虚荣，这本身同样是一种高度修辞化的观念阐述。在索维尔的宏大图景中，他者是身处局内、盲目追逐错误激励的单位，而批判者则是伫立于高台之上、洞悉全局代价的客观裁判。如果这套定价逻辑坚决执行，那么分析者自己的选材偏好、出版动机与制度赞助同样应当被置于冷酷的市场成本之下进行核算。然而任何宏大理论为了达成内在逻辑的闭合，都必须在某个支点处终止递归。这个终止点，正是批判者留给自己的免受检验的特权王座。观测者被设定为尺子，被观测的社会则是不断被量出偏差的布匹，两者被假定为互不相干的独立实体。[索维尔观察到了表象问题](../sowell-observed-the-surface-problem/)在触及激励时停下了脚步，正如[不可见的上帝之眼](../the-invisible-gods-eye/)所指出的，自居客观的全景视线始终是一种拒绝回折的智力悬置。
+声称自己代表严谨经验、恪守事实检验、拒绝道德虚荣，这本身同样是一种高度修辞化的观念阐述。在索维尔的宏大图景中，他者是身处局内、盲目追逐错误激励的单位，而批判者则是伫立于高台之上、洞悉全局代价的客观裁判。如果这套审视逻辑贯彻到底，那么分析者自己的选材偏好、出版动机与制度赞助同样应当被置于冷酷的成本检验之下进行核算。然而任何宏大理论为了达成内在逻辑的闭合，都必须在某个支点处终止递归。这个终止点，正是批判者留给自己的免受检验的特权王座。观测者被设定为尺子，被观测的社会则是不断被量出偏差的布匹，两者被假定为互不相干的独立实体。[索维尔观察到了表象问题](../sowell-observed-the-surface-problem/)在触及激励时停下了脚步，正如[不可见的上帝之眼](../the-invisible-gods-eye/)所指出的，自居客观的全景视线始终是一种拒绝回折的智力悬置。
 
-Presenting oneself as the austere empiricist who bows only to hard data is itself an articulated posture. Within Sowell’s grand architecture, other actors are parsed as localized agents blinded by distorted incentives, while the diagnostician observes from Olympian heights, possessing an untainted view of trade-offs. If the pricing axiom were applied without compromise, the analyst’s own evidentiary selections, ideological alliances, and publishing incentives would also face continuous market auditing. Yet every systemic doctrine halts recursion at some boundary to achieve internal consistency. That stopping point is the critic’s self-granted throne of exemption. The observer is cast as the immutable yardstick, while the observed society is the uneven fabric measured against it. [Sowell Observed the Surface Problem](../sowell-observed-the-surface-problem/) stopped short at systemic incentives, just as [The Invisible God's Eye](../the-invisible-gods-eye/) demonstrates that an aloof Olympian gaze remains an intellectual suspension that refuses to fold back upon itself.
+Presenting oneself as the austere empiricist who bows only to hard data is itself an articulated posture. Within Sowell’s grand architecture, other actors are parsed as localized agents blinded by distorted incentives, while the diagnostician observes from Olympian heights, possessing an untainted view of trade-offs. If this examination were applied without compromise, the analyst’s own evidentiary selections, ideological alliances, and publishing incentives would also face continuous cost auditing. Yet every systemic doctrine halts recursion at some boundary to achieve internal consistency. That stopping point is the critic’s self-granted throne of exemption. The observer is cast as the immutable yardstick, while the observed society is the uneven fabric measured against it. [Sowell Observed the Surface Problem](../sowell-observed-the-surface-problem/) stopped short at systemic incentives, just as [The Invisible God's Eye](../the-invisible-gods-eye/) demonstrates that an aloof Olympian gaze remains an intellectual suspension that refuses to fold back upon itself.
 
 ## 四、 划定不完备性而非宣告失效 / 4. Demarcating Incompleteness Without Invalidation
 
@@ -224,7 +224,7 @@ flowchart TD
 
     subgraph S_Fold ["自指回折操作"]
         direction TB
-        SelfReflect["将定价机制回折向批判者自身<br/>打破无成本观察者的特权假象"]:::purple
+        SelfReflect["将审视尺度回折向批判者自身<br/>打破无成本观察者的特权假象"]:::purple
     end
 
     subgraph S_Instrument ["解构后的局部工程脚手架"]
@@ -260,7 +260,7 @@ flowchart TD
 
     subgraph S_Fold ["Act of Self-Reference"]
         direction TB
-        SelfReflect["Folding Pricing Back onto the Critic<br/>Collapsing Unpriced Bystander Illusion"]:::purple
+        SelfReflect["Folding Examination Back onto the Critic<br/>Collapsing Unexamined Bystander Illusion"]:::purple
     end
 
     subgraph S_Instrument ["Localized Engineering Scaffolding"]

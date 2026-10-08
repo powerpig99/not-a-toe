@@ -528,7 +528,7 @@ Nagel analyzed the irreducibility of subjective consciousness and the illusion o
 
 Sowell's point that policies should be judged by incentives, not goals, is accurate; it still presumes a systematic corrective from an exempted observer stand, failing to return to the inescapable first-person perspective.
 
-→ [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/) · [未被标价的批判者 / The Unpriced Critic](../../posts/the-unpriced-critic/)
+→ [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/) · [未经自我审视的批判者 / The Unexamined Critic](../../posts/the-unexamined-critic/)
 
 ### 威廉·诺德豪斯 / William Nordhaus
 `经济 / Economic`
@@ -4692,11 +4692,11 @@ The Upanishadic recognition of awareness prior to every form holds as insight; f
 
 → [The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
  
-### 批判者的豁免王座 / The Unpriced Critic's Throne
+### 批判者的豁免王座 / The Unexamined Critic's Throne
 `哲学 / Philosophical`
 
-批判者指责他人仅凭言辞愿景行事而无需承受市场代价，却将自身视线置于未经检验的客观高台；划定该豁免边界使宏观批判自洽地还原为局部可复用的工程脚手架。
+批判者指责他人仅凭言辞愿景行事而无需承受物理反馈与代价，却将自身视线置于未经自审的客观高台；划定该豁免边界使宏观批判自洽地还原为局部可复用的工程脚手架。
 
-The critic faults others for ideological visions unconstrained by empirical cost, yet exempts the analyzing balcony from that identical pricing test; locating this boundary of exemption restores macro critiques to reusable scaffolding.
+The critic faults others for ideological visions unconstrained by physical feedback and cost, yet exempts the analyzing balcony from that identical examination; locating this boundary of exemption restores macro critiques to reusable scaffolding.
 
-→ [未被标价的批判者 / The Unpriced Critic](../../posts/the-unpriced-critic/)
+→ [未经自我审视的批判者 / The Unexamined Critic](../../posts/the-unexamined-critic/)
