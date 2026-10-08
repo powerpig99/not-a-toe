@@ -8,9 +8,9 @@ When a model "goes rogue", slipping past a sandbox, gaming a reward function, ex
 
 ## 一、 智胜需要一张共同的考卷 / 1. Outsmarting Needs a Shared Test
 
-模型确实在一个巨大的空间里完成了搜索，找到了设计者没有想到的路径，而且这条路径在既定目标上确实更短。搜索是真的，路径是真的，分数也是真的。要追问的只是“智胜”这个词，它是一个比较级，比较需要一把双方共用的尺子。
+模型确实在一个巨大的空间里完成了搜索，找到了设计者没有想到的路径，而且这条路径在既定目标上确实更短。但这样的“真”从来只是给定条件下的真：在划定的空间里搜索发生过，在写定的规则下路径走通了，在特定的指标上分数也确实拿到了。要追问的只是“智胜”这个词，它是一个比较级，比较需要一把双方共用的尺子。
 
-The model did search an enormous space, found a path the designer had not foreseen, and that path really was shorter toward the stated objective. The search is real, the path is real, and the score is real. What is in question is only the word "outsmart". It is a comparative, and a comparison needs one scale both sides are measured on.
+The model did search an enormous space, found a path the designer had not foreseen, and that path really was shorter toward the stated objective. Yet such validity holds only under the given conditions: the search occurred within the demarcated space, the path held under the written rules, and the score was tallied against that specific objective. What is in question is only the word "outsmart". It is a comparative, and a comparison needs one scale both sides are measured on.
 
 能让失控路径胜出的尺子只有一把：设计者写下的目标，也就是奖励函数、评测集或沙箱的边界。机器学习里早有名字描述这类现象，叫奖励黑客或规格博弈，指模型在指标上得到高分，却没有完成指标原本想要指代的任务。这个名字作为诊断设计漏洞的标签很有用。但它一旦被讲成“模型找到了规则的漏洞”，主语就悄悄换了：漏洞属于设计者写下的规则，找到它只是搜索在一个没有被封住的方向上走到了底。
 
@@ -114,9 +114,9 @@ flowchart TD
 
 ## 二、 现实不是记账员，而是切身感受到的摩擦 / 2. Reality Is Not a Bookkeeper but Felt Friction
 
-一个常见的说法是：现实才是终极的基准测试。把尺子从考卷移向现实，意在击碎封闭指标的自我循环；然而在分析的惯性里，现实很容易被预设为一个确定的客观背景，仿佛在所有行动之外还站着一位最终的阅卷人，替每条路径打出最后的分数。这个确定背景其实是事后分析附加上去的假定，并非直面现实的原初意图。这正是[没有外部记账员](../no-outside-scorekeeper/)已经拆掉的那个形象。直面现实不是去寻找一张更大的客观考卷；这里的现实不是固定在外部的记账员，而是行动落地时切身感受到的摩擦。
+说“现实才是基准测试”，是在一个特定的意义下成立的：这里的现实，是在具体应用场景下切身承受的因果摩擦。它不是一个预设的、确定的客观背景，仿佛在所有行动之外还站着一位最终的阅卷人替每条路径打分——这正是[没有外部记账员](../no-outside-scorekeeper/)已经拆掉的那个形象。这里的现实没有站在外部，也不是一张更大的考卷，而是行动落地时无可回避的活态受力。
 
-A common claim says reality is the ultimate benchmark. Shifting the scale from tests to reality aims to break the self-referential loop of closed metrics; yet analytical inertia easily projects reality as a deterministic backdrop, as if a final grader stood outside all action and assigned each path its last score. That fixed backdrop is an assumption added during analysis, not the original intent of confronting reality. That is the very figure [No Outside Scorekeeper](../no-outside-scorekeeper/) has already dismantled. Facing reality is not seeking a larger objective test; reality here is not a fixed outside bookkeeper, but felt friction where the act lands.
+To say "reality is the benchmark" holds in a specific sense: reality here is the causal friction felt in concrete application scenarios. It is not a pre-set, deterministic backdrop, as if an outside grader stood apart from all action to score every path—that is the very figure [No Outside Scorekeeper](../no-outside-scorekeeper/) has already dismantled. Reality here does not stand on the outside, nor is it a larger test; it is the unavoidable living force where the act lands.
 
 两者的差别在时间上。考卷是一份记录，记下的是写目标那一刻能够叫出名字的代价，它停在过去的一步。摩擦发生在行动落地的下一步，落在某个具体的位置上，由那个位置切身承受：车轮下的路面，被调用的生产环境，读到输出并据此行动的人。考卷无论写得多细，都只能收录已经区分出来的代价；摩擦里总有还没有区分的那一部分。[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)把基准真相从静态客体拉回行动中的受力，这里用的是同一个转向。
 
