@@ -206,7 +206,7 @@ Presenting oneself as the austere empiricist who bows only to hard data is itsel
 
 ## 四、 划定不完备性而非宣告失效 / 4. Demarcating Incompleteness Without Invalidation
 
-指出批判者自身的豁免地位，并不意味着将这套理论判为谬误而弃之如敝履。相反，将分析尺度回折给理论自身，并不是为了否定其洞见，而是为了划定其不完备性的边界。在索维尔实际读取现实痕迹的领域——价格信号传递、分散知识不可替代、第三方决策导致的道德风险——他的模型保持着极高的因果穿透力。后来的探索者尽可继承这些分析模块，将其作为诊断社会摩擦的敏锐工具。不能被全盘继承的，仅仅是那个企图解释全部现象却无需承担自身成本的闭合宣称。
+指出批判者自身的豁免地位，并不意味着将这套理论判为谬误而弃之如敝履。相反，将分析尺度回折给理论自身，并不是为了否定其洞见，而是为了划定其不完备性的边界。在索维尔实际读取现实痕迹的领域——价格信号传递、分散知识不可替代、第三方决策导致的道德风险——他的模型保持着极高的因果穿透力。后来的探索者尽可继承这些分析模块，将其作为诊断社会摩擦的敏锐工具。不能被全盘继承的，仅仅是那个企图解释全部现象却无需承担自身成本的闭合宣称。但他同样没有返回第一人称，未能从自身做起意识到第一人称视角的不可脱离性。他将市场机制描摹为无需主体反思的客观秩序，把观察者自身匿影于冷酷事实之后；当他将他人视为受激励摆布的局部单位时，他遗忘了分析者自身同样是一个无法脱离第一人称视界、持有特定前置立场的行动心智。因果律与第一人称本是同一枚硬币的两面，任何宏观归因一旦拒绝回折到观察者自身不可脱离的第一人称位置，便不可避免地滑向了新的旁观者迷思。
 
 ```mermaid
 flowchart TD
@@ -230,7 +230,7 @@ flowchart TD
     subgraph S_Instrument ["解构后的局部工程脚手架"]
         direction TB
         LocalTool["局部有效工具包：激励错配与分散知识"]:::mind
-        BoundSign["显性不完备边界：承认模型扎根于特定立足点"]:::warn
+        BoundSign["显性不完备边界：第一人称视角的不可脱离性"]:::warn
         LocalTool --> BoundSign
     end
 
@@ -242,7 +242,7 @@ flowchart TD
     style S_Instrument fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-Exposing the critic’s self-exemption does not invalidate the model or warrant discarding its insights. On the contrary, folding self-reference back onto a theory does not refute its mechanics, but delineates its boundary of incompleteness. Across the terrain where Sowell diligently gathered historical evidence—price coordination, the irreplaceable nature of dispersed knowledge, and the hazards of third-party decisions—his diagnostics retain immense explanatory power. Successive thinkers can freely take up these analytical modules as durable tools for mapping social friction. What cannot be inherited is the imperial claim to total closure that exempts the theorist from the friction he describes.
+Exposing the critic’s self-exemption does not invalidate the model or warrant discarding its insights. On the contrary, folding self-reference back onto a theory does not refute its mechanics, but delineates its boundary of incompleteness. Across the terrain where Sowell diligently gathered historical evidence—price coordination, the irreplaceable nature of dispersed knowledge, and the hazards of third-party decisions—his diagnostics retain immense explanatory power. Successive thinkers can freely take up these analytical modules as durable tools for mapping social friction. What cannot be inherited is the imperial claim to total closure that exempts the theorist from the friction he describes. Yet Sowell likewise failed to return to the first-person perspective, failing to start from himself and recognize that the first-person perspective is inescapable. He depicted market mechanics as an objective order operating outside reflexive minds, concealing the analyst behind a facade of detached facts. In reducing others to localized units manipulated by external incentives, he forgot that the theorist himself remains an acting mind that cannot vacate its first-person horizon. Causality and the first-person vantage are two sides of the same coin; any macro attribution that refuses to fold back onto the observer’s own inescapable presence inevitably slips into a fresh bystander delusion.
 
 ```mermaid
 flowchart TD
@@ -266,7 +266,7 @@ flowchart TD
     subgraph S_Instrument ["Localized Engineering Scaffolding"]
         direction TB
         LocalTool["Locally Valid Toolset: Incentives, Knowledge, Costs"]:::mind
-        BoundSign["Explicit Boundary of Incompleteness: Rooted in Standpoint"]:::warn
+        BoundSign["Explicit Boundary: Inescapable First-Person Horizon"]:::warn
         LocalTool --> BoundSign
     end
 
