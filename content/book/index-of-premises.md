@@ -524,9 +524,9 @@ Nagel analyzed the irreducibility of subjective consciousness and the illusion o
 ### 托马斯·索维尔 / Thomas Sowell
 `经济 / Economic`
 
-索维尔主张以激励而非目标评判政策，这一观察准确；但它仍预设可从豁免的旁观位置给出系统纠正，分析者自身的回返没有完成。
+索维尔主张以激励而非目标评判政策，这一观察准确；但它仍预设可从豁免的旁观位置给出系统纠正，未能返回第一人称并意识到第一人称视角的不可脱离性。
 
-Sowell's point that policies should be judged by incentives, not goals, is accurate; it still presumes a systematic corrective from an exempted observer stand, leaving the analyzing mind's own return unmade.
+Sowell's point that policies should be judged by incentives, not goals, is accurate; it still presumes a systematic corrective from an exempted observer stand, failing to return to the inescapable first-person perspective.
 
 → [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/) · [未被标价的批判者 / The Unpriced Critic](../../posts/the-unpriced-critic/)
 
