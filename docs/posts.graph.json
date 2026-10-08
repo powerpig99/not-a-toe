@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-08T21:56:26.939Z",
+    "generated_at": "2026-10-08T22:06:28.934Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -179,7 +179,7 @@
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "c36dbacad84b",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
-      "content/posts/sowell-observed-the-surface-problem.md": "c2ec79d1567d",
+      "content/posts/sowell-observed-the-surface-problem.md": "3cea29eb971a",
       "content/posts/stability-and-excess.md": "685e02dae1a8",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "ae77b9ede8b3",
       "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
@@ -341,9 +341,9 @@
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "2a38f664992d",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "0dc66e0ddaf4",
       "content/posts/the-unclosable-trace.md": "267dd76ab6f4",
+      "content/posts/the-unexamined-critic.md": "eeea8bac065a",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "17fc326d44dd",
       "content/posts/the-unobservable-driver-of-learning.md": "884cddc55a98",
-      "content/posts/the-unpriced-critic.md": "f00681469b72",
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "46e3f6710799",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
@@ -389,9 +389,9 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "fea3d7fcc04d",
       "content/book/economics.md": "f6b9c8b73d60",
-      "content/book/index-of-premises.md": "c85dadec4746",
+      "content/book/index-of-premises.md": "4fc5254053a3",
       "content/book/intelligence.md": "25a34f51bcc4",
-      "content/book/knowledge-and-learning.md": "eda0983d3ba8",
+      "content/book/knowledge-and-learning.md": "c1804a2965e2",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "226cf5ec0ee0",
       "content/book/meaning-and-transcendence.md": "39f52073de83",
@@ -4826,14 +4826,14 @@
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem",
-      "hash": "c2ec79d1567d",
+      "hash": "3cea29eb971a",
       "in_degree": 11,
       "out_degree": 10,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "ownership-and-self-worthiness",
         "the-irreducible-prior-of-decision-and-consequence",
-        "the-unpriced-critic",
+        "the-unexamined-critic",
         "no-genius-can-solve-the-knowledge-problem",
         "the-paradoxical-nature-of-bystander-insights",
         "self-image-speaks-as-if-from-nowhere",
@@ -8484,6 +8484,26 @@
       ]
     },
     {
+      "id": "post:the-unexamined-critic",
+      "kind": "post",
+      "slug": "the-unexamined-critic",
+      "path": "content/posts/the-unexamined-critic.md",
+      "title": "未经自我审视的批判者 / The Unexamined Critic",
+      "hash": "eeea8bac065a",
+      "in_degree": 1,
+      "out_degree": 8,
+      "links_out": [
+        "po-chu-gai-nian-de-jian-yue",
+        "the-inversion-of-reading-and-the-order-of-inference",
+        "the-paradoxical-nature-of-bystander-insights",
+        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "sowell-observed-the-surface-problem",
+        "the-invisible-gods-eye",
+        "the-mind-as-vector-and-coordinate-system",
+        "the-closed-n-and-the-open-reality"
+      ]
+    },
+    {
       "id": "post:the-unfrictioned-mind-and-borrowed-omnipotence",
       "kind": "post",
       "slug": "the-unfrictioned-mind-and-borrowed-omnipotence",
@@ -8526,26 +8546,6 @@
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "the-paradoxical-nature-of-bystander-insights",
         "the-npc-impression-is-structural"
-      ]
-    },
-    {
-      "id": "post:the-unpriced-critic",
-      "kind": "post",
-      "slug": "the-unpriced-critic",
-      "path": "content/posts/the-unpriced-critic.md",
-      "title": "未被标价的批判者 / The Unpriced Critic",
-      "hash": "f00681469b72",
-      "in_degree": 1,
-      "out_degree": 8,
-      "links_out": [
-        "po-chu-gai-nian-de-jian-yue",
-        "the-inversion-of-reading-and-the-order-of-inference",
-        "the-paradoxical-nature-of-bystander-insights",
-        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-        "sowell-observed-the-surface-problem",
-        "the-invisible-gods-eye",
-        "the-mind-as-vector-and-coordinate-system",
-        "the-closed-n-and-the-open-reality"
       ]
     },
     {
@@ -23605,9 +23605,9 @@
     },
     {
       "from": "sowell-observed-the-surface-problem",
-      "to": "the-unpriced-critic",
+      "to": "the-unexamined-critic",
       "rel": "points_to",
-      "label": "未被标价的批判者"
+      "label": "未经自我审视的批判者"
     },
     {
       "from": "sowell-observed-the-surface-problem",
@@ -23623,9 +23623,9 @@
     },
     {
       "from": "sowell-observed-the-surface-problem",
-      "to": "the-unpriced-critic",
+      "to": "the-unexamined-critic",
       "rel": "points_to",
-      "label": "The Unpriced Critic"
+      "label": "The Unexamined Critic"
     },
     {
       "from": "sowell-observed-the-surface-problem",
@@ -37044,6 +37044,102 @@
       "label": "Not a Theory of Everything"
     },
     {
+      "from": "the-unexamined-critic",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-inversion-of-reading-and-the-order-of-inference",
+      "rel": "points_to",
+      "label": "阅读的倒错与推断的次序"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Overcoming Conceptual Overreach"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-inversion-of-reading-and-the-order-of-inference",
+      "rel": "points_to",
+      "label": "The Inversion of Reading and the Order of Inference"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "旁观者洞察的悖论"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "观察者的隐身与无损传递的妄念"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "索维尔观察到了表象问题"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "不可见的上帝之眼"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell Observed the Surface Problem"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "The Invisible God's Eye"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "向量、坐标系与自指心智"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "闭合的N与开放的现实"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "The Closed N and the Open Reality"
+    },
+    {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "the-self-portrait-in-the-projection",
       "rel": "points_to",
@@ -37294,102 +37390,6 @@
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
       "label": "The NPC impression is structural"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "po-chu-gai-nian-de-jian-yue",
-      "rel": "points_to",
-      "label": "破除概念的僭越"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-inversion-of-reading-and-the-order-of-inference",
-      "rel": "points_to",
-      "label": "阅读的倒错与推断的次序"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "po-chu-gai-nian-de-jian-yue",
-      "rel": "points_to",
-      "label": "Overcoming Conceptual Overreach"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-inversion-of-reading-and-the-order-of-inference",
-      "rel": "points_to",
-      "label": "The Inversion of Reading and the Order of Inference"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-paradoxical-nature-of-bystander-insights",
-      "rel": "points_to",
-      "label": "旁观者洞察的悖论"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-      "rel": "points_to",
-      "label": "观察者的隐身与无损传递的妄念"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-paradoxical-nature-of-bystander-insights",
-      "rel": "points_to",
-      "label": "The Paradoxical Nature of Bystander Insights"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-      "rel": "points_to",
-      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "sowell-observed-the-surface-problem",
-      "rel": "points_to",
-      "label": "索维尔观察到了表象问题"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-invisible-gods-eye",
-      "rel": "points_to",
-      "label": "不可见的上帝之眼"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "sowell-observed-the-surface-problem",
-      "rel": "points_to",
-      "label": "Sowell Observed the Surface Problem"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-invisible-gods-eye",
-      "rel": "points_to",
-      "label": "The Invisible God's Eye"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-mind-as-vector-and-coordinate-system",
-      "rel": "points_to",
-      "label": "向量、坐标系与自指心智"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-closed-n-and-the-open-reality",
-      "rel": "points_to",
-      "label": "闭合的N与开放的现实"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-mind-as-vector-and-coordinate-system",
-      "rel": "points_to",
-      "label": "The Mind as Vector and Coordinate System"
-    },
-    {
-      "from": "the-unpriced-critic",
-      "to": "the-closed-n-and-the-open-reality",
-      "rel": "points_to",
-      "label": "The Closed N and the Open Reality"
     },
     {
       "from": "the-utility-men-of-progress",
@@ -40397,7 +40397,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c85dadec4746",
+        "hash": "4fc5254053a3",
         "out_degree": 378
       },
       {
@@ -40415,7 +40415,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "eda0983d3ba8",
+        "hash": "c1804a2965e2",
         "out_degree": 31
       },
       {
@@ -41496,9 +41496,9 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-unpriced-critic",
+        "to": "the-unexamined-critic",
         "rel": "collects",
-        "label": "未被标价的批判者 / The Unpriced Critic"
+        "label": "未经自我审视的批判者 / The Unexamined Critic"
       },
       {
         "from": "book:index-of-premises",
@@ -44358,9 +44358,9 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-unpriced-critic",
+        "to": "the-unexamined-critic",
         "rel": "collects",
-        "label": "未被标价的批判者 / The Unpriced Critic"
+        "label": "未经自我审视的批判者 / The Unexamined Critic"
       },
       {
         "from": "book:intelligence",
@@ -44820,9 +44820,9 @@
       },
       {
         "from": "book:knowledge-and-learning",
-        "to": "the-unpriced-critic",
+        "to": "the-unexamined-critic",
         "rel": "collects",
-        "label": "未被标价的批判者 / The Unpriced Critic"
+        "label": "未经自我审视的批判者 / The Unexamined Critic"
       },
       {
         "from": "book:life-and-statistics",
