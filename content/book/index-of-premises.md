@@ -528,7 +528,7 @@ Nagel analyzed the irreducibility of subjective consciousness and the illusion o
 
 Sowell's point that policies should be judged by incentives, not goals, is accurate; it still presumes a systematic corrective from an exempted observer stand, leaving the analyzing mind's own return unmade.
 
-→ [Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds](../../posts/sowell-observed-the-surface-problem/)
+→ [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/) · [未被标价的批判者 / The Unpriced Critic](../../posts/the-unpriced-critic/)
 
 ### 威廉·诺德豪斯 / William Nordhaus
 `经济 / Economic`
@@ -2593,7 +2593,7 @@ Presumes delegating a task to an automated system also transfers ultimate moral 
 
 Better incentive design presumes one mind can solve others' problems; misalignment is the symptom of a look separating decision from consequence, while individuals bear the full consequences regardless.
 
-→ [Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds](../../posts/sowell-observed-the-surface-problem/)
+→ [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/)
 
 ### 个体离散抉择的因果原位 / Individual Discrete Choice Primacy
 `经济 / Economic`
@@ -4222,7 +4222,7 @@ Framing creation as non-striving assumes detaching from outcome guarantees excel
 
 The intellectual diagnoses from an exempted observer position; temporary exemption is required to form any theory, and the shortfall lies in never applying the analysis back to the analyzing act.
 
-→ [Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds](../../posts/sowell-observed-the-surface-problem/)
+→ [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/)
 
 ### 善恶硬币的对拓共生 / The Dual Coin of Good and Evil
 `哲学 / Philosophical`
@@ -4691,3 +4691,12 @@ Closed-reality premises treat resources and status as a fixed pool; net value ar
 The Upanishadic recognition of awareness prior to every form holds as insight; folding it into guru lineage, ritual and caste presumes the seeing must be transmitted and guarded by a collective.
 
 → [The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
+ 
+### 批判者的豁免王座 / The Unpriced Critic's Throne
+`哲学 / Philosophical`
+
+批判者指责他人仅凭言辞愿景行事而无需承受市场代价，却将自身视线置于未经检验的客观高台；划定该豁免边界使宏观批判自洽地还原为局部可复用的工程脚手架。
+
+The critic faults others for ideological visions unconstrained by empirical cost, yet exempts the analyzing balcony from that identical pricing test; locating this boundary of exemption restores macro critiques to reusable scaffolding.
+
+→ [未被标价的批判者 / The Unpriced Critic](../../posts/the-unpriced-critic/)

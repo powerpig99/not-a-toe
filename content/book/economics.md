@@ -27,7 +27,7 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 - [The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories](../../posts/the-rational-choice-postulate-is-the-original-sin/)
 - [The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)
 - [The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
-- [Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds](../../posts/sowell-observed-the-surface-problem/)
+- [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/)
 - [The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
 - [The Paradox of Fundamentals is the Unaware Switch of Reference in Decision Making](../../posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/)
 - [No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)

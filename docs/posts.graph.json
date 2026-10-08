@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-08T13:06:08.108Z",
+    "generated_at": "2026-10-08T18:29:49.274Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -179,7 +179,7 @@
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "c36dbacad84b",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
-      "content/posts/sowell-observed-the-surface-problem.md": "38216bcac027",
+      "content/posts/sowell-observed-the-surface-problem.md": "c2ec79d1567d",
       "content/posts/stability-and-excess.md": "685e02dae1a8",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "ae77b9ede8b3",
       "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
@@ -343,6 +343,7 @@
       "content/posts/the-unclosable-trace.md": "267dd76ab6f4",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "17fc326d44dd",
       "content/posts/the-unobservable-driver-of-learning.md": "884cddc55a98",
+      "content/posts/the-unpriced-critic.md": "9b118e9f04cf",
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "46e3f6710799",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
@@ -387,10 +388,10 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "fea3d7fcc04d",
-      "content/book/economics.md": "20e15514e89c",
-      "content/book/index-of-premises.md": "549d6bb76a5a",
+      "content/book/economics.md": "f6b9c8b73d60",
+      "content/book/index-of-premises.md": "44a932e9448c",
       "content/book/intelligence.md": "25a34f51bcc4",
-      "content/book/knowledge-and-learning.md": "a1016d573e77",
+      "content/book/knowledge-and-learning.md": "eda0983d3ba8",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "226cf5ec0ee0",
       "content/book/meaning-and-transcendence.md": "39f52073de83",
@@ -403,16 +404,16 @@
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 377,
-      "edges": 5120,
-      "unique_directed": 4355,
+      "posts": 378,
+      "edges": 5146,
+      "unique_directed": 4363,
       "missing_targets": 0,
-      "one_way": 15,
+      "one_way": 23,
       "isolated": 39,
-      "posts_with_outbound": 338,
+      "posts_with_outbound": 339,
       "book_pages": 16,
-      "book_edges": 925,
-      "posts_reached_by_book": 377
+      "book_edges": 928,
+      "posts_reached_by_book": 378
     }
   },
   "hubs_in": [
@@ -4067,7 +4068,7 @@
       "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
       "title": "破除概念的僭越：第一人称、因果之矢与未完的现实",
       "hash": "e27fc9a073d4",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 23,
       "links_out": [
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
@@ -4824,15 +4825,15 @@
       "kind": "post",
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
-      "title": "Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds",
-      "hash": "38216bcac027",
-      "in_degree": 10,
+      "title": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem",
+      "hash": "c2ec79d1567d",
+      "in_degree": 11,
       "out_degree": 10,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "ownership-and-self-worthiness",
         "the-irreducible-prior-of-decision-and-consequence",
-        "the-risk-is-the-belief-in-oversight-itself",
+        "the-unpriced-critic",
         "no-genius-can-solve-the-knowledge-problem",
         "the-paradoxical-nature-of-bystander-insights",
         "self-image-speaks-as-if-from-nowhere",
@@ -5571,7 +5572,7 @@
       "path": "content/posts/the-closed-n-and-the-open-reality.md",
       "title": "闭合的N与开放的现实 / The Closed N and the Open Reality",
       "hash": "cdca9be1b6fb",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 8,
       "links_out": [
         "the-category-error-of-better",
@@ -6652,7 +6653,7 @@
       "path": "content/posts/the-inversion-of-reading-and-the-order-of-inference.md",
       "title": "阅读的倒错与推断的次序 / The Inversion of Reading and the Order of Inference",
       "hash": "47a6ffb6ae17",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 4,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -6731,7 +6732,7 @@
       "path": "content/posts/the-invisible-gods-eye.md",
       "title": "隐秘的上帝之眼 / The Invisible God's Eye",
       "hash": "9d59904eb1d4",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -6749,7 +6750,7 @@
       "path": "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md",
       "title": "观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission",
       "hash": "8a005fc1644a",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -7046,7 +7047,7 @@
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
       "hash": "e5dfc5fb16e4",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 12,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring",
@@ -7443,7 +7444,7 @@
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
       "title": "The Paradoxical Nature of Bystander Insights",
       "hash": "14756d6ea4b3",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 19,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
@@ -7905,7 +7906,7 @@
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
       "title": "The Risk Is the Belief in Oversight Itself",
       "hash": "bad6dded7e53",
-      "in_degree": 21,
+      "in_degree": 20,
       "out_degree": 21,
       "links_out": [
         "the-observational-cut-in-ai-debates",
@@ -8525,6 +8526,26 @@
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "the-paradoxical-nature-of-bystander-insights",
         "the-npc-impression-is-structural"
+      ]
+    },
+    {
+      "id": "post:the-unpriced-critic",
+      "kind": "post",
+      "slug": "the-unpriced-critic",
+      "path": "content/posts/the-unpriced-critic.md",
+      "title": "未被标价的批判者 / The Unpriced Critic",
+      "hash": "9b118e9f04cf",
+      "in_degree": 1,
+      "out_degree": 8,
+      "links_out": [
+        "po-chu-gai-nian-de-jian-yue",
+        "the-inversion-of-reading-and-the-order-of-inference",
+        "the-paradoxical-nature-of-bystander-insights",
+        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "sowell-observed-the-surface-problem",
+        "the-invisible-gods-eye",
+        "the-mind-as-vector-and-coordinate-system",
+        "the-closed-n-and-the-open-reality"
       ]
     },
     {
@@ -23550,61 +23571,121 @@
       "from": "sowell-observed-the-surface-problem",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
+      "label": "没有普度只有自度"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "所有权与配得感"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "决策与后果不可分割的先验"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
       "label": "No Universal Salvation, Only Self-Deliverance"
     },
     {
       "from": "sowell-observed-the-surface-problem",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "sowell-observed-the-surface-problem",
       "to": "the-irreducible-prior-of-decision-and-consequence",
       "rel": "points_to",
-      "label": "The irreducible prior of decision and consequence"
+      "label": "The Irreducible Prior of Decision and Consequence"
     },
     {
       "from": "sowell-observed-the-surface-problem",
-      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-unpriced-critic",
       "rel": "points_to",
-      "label": "The risk is the belief in oversight itself"
+      "label": "未被标价的批判者"
     },
     {
       "from": "sowell-observed-the-surface-problem",
       "to": "no-genius-can-solve-the-knowledge-problem",
       "rel": "points_to",
-      "label": "No genius can solve the knowledge problem"
+      "label": "没有天才能够解决知识问题"
     },
     {
       "from": "sowell-observed-the-surface-problem",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
-      "label": "The paradoxical nature of bystander insights"
+      "label": "旁观者洞察的悖论"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "the-unpriced-critic",
+      "rel": "points_to",
+      "label": "The Unpriced Critic"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "No Genius Can Solve the Knowledge Problem"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
     },
     {
       "from": "sowell-observed-the-surface-problem",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "无处之境的自我画像"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
     },
     {
       "from": "sowell-observed-the-surface-problem",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "政客是责任分散的表象"
     },
     {
       "from": "sowell-observed-the-surface-problem",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "残差个人主义"
     },
     {
       "from": "sowell-observed-the-surface-problem",
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
-      "label": "The knowledge problem and the illusion of delegation"
+      "label": "知识问题与代理幻觉"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The Knowledge Problem and the Illusion of Delegation"
     },
     {
       "from": "stability-and-excess",
@@ -37215,6 +37296,102 @@
       "label": "The NPC impression is structural"
     },
     {
+      "from": "the-unpriced-critic",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-inversion-of-reading-and-the-order-of-inference",
+      "rel": "points_to",
+      "label": "阅读的倒错与推断的次序"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Overcoming Conceptual Overreach"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-inversion-of-reading-and-the-order-of-inference",
+      "rel": "points_to",
+      "label": "The Inversion of Reading and the Order of Inference"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "旁观者洞察的悖论"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "观察者的隐身与无损传递的妄念"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "索维尔观察到了表象问题"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "不可见的上帝之眼"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell Observed the Surface Problem"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "The Invisible God's Eye"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "向量、坐标系与自指心智"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "闭合的N与开放的现实"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-unpriced-critic",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "The Closed N and the Open Reality"
+    },
+    {
       "from": "the-utility-men-of-progress",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
@@ -40211,7 +40388,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "20e15514e89c",
+        "hash": "f6b9c8b73d60",
         "out_degree": 28
       },
       {
@@ -40220,8 +40397,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "549d6bb76a5a",
-        "out_degree": 377
+        "hash": "44a932e9448c",
+        "out_degree": 378
       },
       {
         "id": "book:intelligence",
@@ -40238,8 +40415,8 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "a1016d573e77",
-        "out_degree": 30
+        "hash": "eda0983d3ba8",
+        "out_degree": 31
       },
       {
         "id": "book:life-and-statistics",
@@ -40823,7 +41000,7 @@
         "from": "book:economics",
         "to": "sowell-observed-the-surface-problem",
         "rel": "collects",
-        "label": "Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds"
+        "label": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem"
       },
       {
         "from": "book:economics",
@@ -41315,7 +41492,13 @@
         "from": "book:index-of-premises",
         "to": "sowell-observed-the-surface-problem",
         "rel": "collects",
-        "label": "Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds"
+        "label": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-unpriced-critic",
+        "rel": "collects",
+        "label": "未被标价的批判者 / The Unpriced Critic"
       },
       {
         "from": "book:index-of-premises",
@@ -42749,7 +42932,7 @@
         "from": "book:index-of-premises",
         "to": "sowell-observed-the-surface-problem",
         "rel": "collects",
-        "label": "Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds"
+        "label": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem"
       },
       {
         "from": "book:index-of-premises",
@@ -43853,7 +44036,7 @@
         "from": "book:index-of-premises",
         "to": "sowell-observed-the-surface-problem",
         "rel": "collects",
-        "label": "Sowell Observed the Surface Problem, Yet Missed the Root Cause: The Belief That Problems Can Be Solved Across Minds"
+        "label": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem"
       },
       {
         "from": "book:index-of-premises",
@@ -44172,6 +44355,12 @@
         "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "rel": "collects",
         "label": "The Free Mind Is Displaced by What Claims to Protect It"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-unpriced-critic",
+        "rel": "collects",
+        "label": "未被标价的批判者 / The Unpriced Critic"
       },
       {
         "from": "book:intelligence",
@@ -44628,6 +44817,12 @@
         "to": "trusting-the-reader-is-the-last-overstep",
         "rel": "collects",
         "label": "信任读者是最后的越界 / Trusting the Reader Is the Last Overstep"
+      },
+      {
+        "from": "book:knowledge-and-learning",
+        "to": "the-unpriced-critic",
+        "rel": "collects",
+        "label": "未被标价的批判者 / The Unpriced Critic"
       },
       {
         "from": "book:life-and-statistics",
