@@ -144,7 +144,7 @@ In contrast, one’s own agency is experienced at the source before the act unfo
 
 ## 三、 理论闭合的豁免王座 / 3. The Throne of Exemption in Theoretical Closure
 
-当这种个体的通道不对称上升为思想体系时，便凝固成了理论构建中的豁免特权。索维尔在《知识分子与社会》和《受膏者的愿景》中展开了雄辩的批判。他指出，知识分子阶层的产物仅仅是概念阐述，他们的观念即便在真实世界中造成了巨大灾难，其代价也只会转嫁给大众，而不会反噬到阐述者自身的声誉或生计之上。由于缺乏真实市场的成本约束，受膏者们得以在言辞的自我强化中长久维持脱离实际的宏大叙事。这项针对社会工程家的解构极为锐利，然而整套理论的闭合却依赖于一个未经审视的盲区：批判者自己的观察席位究竟由谁来定价？
+当这种个体的通道不对称上升为思想体系时，便凝固成了理论构建中的豁免特权。索维尔在《知识分子与社会》和《受膏者的愿景》中展开了雄辩的批判。他指出，知识分子阶层的产物仅仅是概念阐述，他们的观念即便在真实世界中造成了巨大灾难，其代价也只会转嫁给大众，而不会反噬到阐述者自身的声誉或生计之上。由于缺乏真实市场的成本约束，受膏者们得以在言辞的自我强化中长久维持脱离实际的宏大叙事。这项针对社会工程家的解构极为锐利，然而整套理论的闭合却依赖于一个未经审视的盲区：批判者自己的观察席位究竟由谁来定价？更直接地说，批判者自己不也正在做着被他严厉批判的事吗？索维尔以知识分子的身份痛斥知识分子只贩卖不负责任的言辞，但他自己安坐于智库与书斋之中，所生产的同样是一册册由概念阐述铺就的出版物；当这套反对干预的观念被采纳并在真实世界中引发摩擦与阵痛时，作者自身同样无需交出资产或承受生计破产。他斥责他人贩卖未经定价的愿景，自己却贩卖着同样未被标价的批判。
 
 ```mermaid
 flowchart TD
@@ -156,7 +156,7 @@ flowchart TD
 
     subgraph S_Critic ["批判者免责高台"]
         direction TB
-        CriticSeat["客观经验主义裁决者<br/>免于受检的定价盲区"]:::mind
+        CriticSeat["客观裁决者：同样贩卖言辞却免受检验"]:::mind
     end
 
     subgraph S_Anointed ["受检的言辞客体"]
@@ -172,7 +172,7 @@ flowchart TD
     style S_Anointed fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
 ```
 
-When this cognitive asymmetry scales into intellectual architecture, it crystallizes into theoretical self-exemption. Thomas Sowell mounted a formidable critique in *Intellectuals and Society* and *The Vision of the Anointed*, showing that intellectuals deal strictly in articulated ideas. When their social engineering schemes fail, the catastrophic costs fall upon ordinary citizens while leaving the articulators insulated from financial or professional ruin. Shielded from market discipline, the anointed sustain self-congratulatory doctrines long after empirical outcomes diverge. This demolition of technocratic hubris is devastatingly sharp, yet the closure of the theory hinges on an unexamined blind spot: who prices the critical balcony occupied by the author?
+When this cognitive asymmetry scales into intellectual architecture, it crystallizes into theoretical self-exemption. Thomas Sowell mounted a formidable critique in *Intellectuals and Society* and *The Vision of the Anointed*, showing that intellectuals deal strictly in articulated ideas. When their social engineering schemes fail, the catastrophic costs fall upon ordinary citizens while leaving the articulators insulated from financial or professional ruin. Shielded from market discipline, the anointed sustain self-congratulatory doctrines long after empirical outcomes diverge. This demolition of technocratic hubris is devastatingly sharp, yet the closure of the theory hinges on an unexamined blind spot: who prices the critical balcony occupied by the author? Put more directly, isn't the critic doing the exact thing being criticized? Denouncing intellectuals as dealers in unpriced rhetoric from his perch in elite think tanks, Sowell trades in books comprised entirely of articulated concepts. If his anti-interventionist doctrines are adopted and induce real economic dislocations, the author himself faces no direct loss of capital or livelihood. He scolds others for peddling unpriced visions, while marketing an equally unpriced critique.
 
 ```mermaid
 flowchart TD
@@ -184,7 +184,7 @@ flowchart TD
 
     subgraph S_Critic ["Critic's Balcony"]
         direction TB
-        CriticSeat["Empirical Arbitrator<br/>Exempted From Systemic Pricing"]:::mind
+        CriticSeat["Empirical Arbitrator: Trading in Articulations Yet Untaxed"]:::mind
     end
 
     subgraph S_Anointed ["Audited Articulators"]
