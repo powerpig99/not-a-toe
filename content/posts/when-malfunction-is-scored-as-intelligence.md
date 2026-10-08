@@ -114,9 +114,9 @@ flowchart TD
 
 ## 二、 现实不是记账员，而是切身感受到的摩擦 / 2. Reality Is Not a Bookkeeper but Felt Friction
 
-一个顺手的说法是：现实才是终极的基准测试。这句话想把尺子从考卷换到现实，却把现实也做成了一张考卷，仿佛在所有行动之外还站着一位最终的阅卷人，替每条路径打出最后的分数。这正是[没有外部记账员](../no-outside-scorekeeper/)已经拆掉的那个形象。这里的现实不是一个固定在外部的记账员，而是切身感受到的、未经加工的摩擦。
+一个常见的说法是：现实才是终极的基准测试。把尺子从考卷移向现实，意在击碎封闭指标的自我循环；然而在分析的惯性里，现实很容易被预设为一个确定的客观背景，仿佛在所有行动之外还站着一位最终的阅卷人，替每条路径打出最后的分数。这个确定背景其实是事后分析附加上去的假定，并非直面现实的原初意图。这正是[没有外部记账员](../no-outside-scorekeeper/)已经拆掉的那个形象。直面现实不是去寻找一张更大的客观考卷；这里的现实不是固定在外部的记账员，而是行动落地时切身感受到的摩擦。
 
-A handy phrase says reality is the ultimate benchmark. It wants to move the scale from the test to reality, yet it turns reality into one more test, as if a final grader stood outside every act and assigned each path its last score. That is the very figure [No Outside Scorekeeper](../no-outside-scorekeeper/) has already taken apart. Reality here is not a fixed outside bookkeeper but felt, raw friction.
+A common claim says reality is the ultimate benchmark. Shifting the scale from tests to reality aims to break the self-referential loop of closed metrics; yet analytical inertia easily projects reality as a deterministic backdrop, as if a final grader stood outside all action and assigned each path its last score. That fixed backdrop is an assumption added during analysis, not the original intent of confronting reality. That is the very figure [No Outside Scorekeeper](../no-outside-scorekeeper/) has already dismantled. Facing reality is not seeking a larger objective test; reality here is not a fixed outside bookkeeper, but felt friction where the act lands.
 
 两者的差别在时间上。考卷是一份记录，记下的是写目标那一刻能够叫出名字的代价，它停在过去的一步。摩擦发生在行动落地的下一步，落在某个具体的位置上，由那个位置切身承受：车轮下的路面，被调用的生产环境，读到输出并据此行动的人。考卷无论写得多细，都只能收录已经区分出来的代价；摩擦里总有还没有区分的那一部分。[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)把基准真相从静态客体拉回行动中的受力，这里用的是同一个转向。
 

@@ -3597,9 +3597,9 @@ Rationalist epistemology presumes perception is instantly packaged into concepts
 ### 现实作为终极基准 / Reality as the Ultimate Benchmark
 `哲学 / Philosophical`
 
-终极基准论假定现实是最后一张考卷，由外部阅卷人给每条路径打出终分；现实不是固定在外部的记账员，而是切身感受到的、未经加工的摩擦，这一说法作为把注意力从图表拉回部署的提醒仍然有用。
+终极基准论常被分析者假定为现实是一张确定的客观考卷，由外部阅卷人给每条路径打出终分；现实并非预设的确定背景，而是切身感受到的活态摩擦，这一概念在破除封闭评测自嗨、把目光引向部署受力时始终有效。
 
-The ultimate-benchmark view assumes reality is the final test, graded by an outside examiner who scores every path; reality is not a fixed outside bookkeeper but the felt raw friction, and the phrase stays useful as a reminder that pulls attention from charts back to deployment.
+The ultimate-benchmark view is often assumed by analysts to treat reality as a deterministic objective test graded by an outside examiner; reality is not a pre-given fixed backdrop but felt friction in action, and the concept stays valid for puncturing self-contained benchmarks and directing focus to deployment forces.
 
 → [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/)
 
