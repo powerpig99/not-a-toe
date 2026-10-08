@@ -22,7 +22,7 @@ flowchart TD
         direction TB
         Origin["制度凭证原点：名校声誉标杆"]:::model
         PosVec["正向膜拜向量：顺从名校光环"]:::warn
-        NegVec["反向否定向量：宣称不再被震慑"]:::fail
+        NegVec["反向特权向量：凭证作为反凭证前提"]:::fail
         Origin --> PosVec
         Origin --> NegVec
     end
@@ -52,7 +52,7 @@ flowchart TD
         direction TB
         Origin["Credential Origin: Elite Institution Baseline"]:::model
         PosVec["Positive Deference Vector: Submitting to Institutional Aura"]:::warn
-        NegVec["Negative Reaction Vector: Neither Intimidated Nor Impressed"]:::fail
+        NegVec["Inverse Privilege Vector: Credential as Prerequisite for Negation"]:::fail
         Origin --> PosVec
         Origin --> NegVec
     end
@@ -68,9 +68,9 @@ flowchart TD
     style S_Autonomous fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-深入名校体制内部确实可以消解光环带来的信息差，使心智停止将一块金字招牌视为能力的现成代币，这是局部经验修正的自然产物。但当这种脱敏被凝固为某种优越的清醒姿态时，抽身本身便成了新的凭证。它向外部世界宣告一种免疫特权，即我已经看穿了你们的虚饰。雕像没有被移走，只是底座上的铭文被改写。一个跳出该坐标系的心智，不会把不再敬畏名牌当作一项值得宣扬的资产，因为那个名字已经无法在它的认知中组织任何比较。在[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)中，概念的膨胀正是源于这种反向的纠缠；在[阅读的倒错与推断的次序](../the-inversion-of-reading-and-the-order-of-inference/)中，倒错的次序同样将反向的姿态误认为了行动的起点。
+深入名校体制内部确实可以消解光环带来的信息差，使心智停止将一块金字招牌视为能力的现成代币，这是局部经验修正的自然产物。更直接地看，这种论调暗中把持有凭证设定为了反凭证主义的前提，反而在深层巩固并维护了凭证主义。如果一个从未踏入该体制的外人宣称自己不被名牌唬住，外部世界极易将其贬斥为缺乏见识的酸葡萄心理；唯有真正手握那张烫金印记的人，其轻蔑才被赋予合法地位，被奉为清醒透彻的真知灼见。批评凭证的资格依然由凭证授予，抽身与脱敏在此转化为了更高阶的特权资产。雕像没有被移走，它只是通过将异议者收编为自己的被授勋者，进一步加固了自身的门槛。一个跳出该坐标系的心智，不会把不再敬畏名牌当作一项值得宣扬的资产，因为那个名字已经无法在它的认知中组织任何比较。在[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)中，概念的膨胀正是源于这种反向的纠缠；在[阅读的倒错与推断的次序](../the-inversion-of-reading-and-the-order-of-inference/)中，倒错的次序同样将反向的姿态误认为了行动的起点。
 
-Dwelling inside elite institutions can indeed dissolve status differentials, stopping the mind from taking institutional seals as ready tokens of competence, which is the natural outcome of localized friction. Yet when that demystification is frozen into a stance of intellectual detachment, the escape itself turns into a fresh credential. It announces an acquired immunity to the world, claiming special distance from vanity. The monument remains intact; only the plaque has been re-inscribed. A frame that has genuinely stepped outside that coordinate space does not advertise its freedom from prestige, because the institution simply ceases to organize the comparison. In [Overcoming Conceptual Overreach](../po-chu-gai-nian-de-jian-yue/), conceptual sprawl feeds on precisely this inverse entanglement, just as [The Inversion of Reading and the Order of Inference](../the-inversion-of-reading-and-the-order-of-inference/) mistake reactive positioning for the ground of living action.
+Dwelling inside elite institutions can indeed dissolve status differentials, stopping the mind from taking institutional seals as ready tokens of competence, which is the natural outcome of localized friction. More directly, this framing covertly establishes possessing the credential as the prerequisite for anti-credentialism, thereby fortifying and preserving credentialism from within. If an outsider who never entered the gates claims indifference to the pedigree, the world easily dismisses the attitude as sour grapes; only an insider stamped by the institution is granted the legitimate license for enlightened disenchantment. The authority to criticize the credential is still issued by the credential itself. Detachment hardens into a higher-order status asset, announcing an acquired immunity accessible only to the anointed. The monument remains intact; by co-opting critics as its own decorated alumni, the institution merely reinforces the primacy of its threshold. A frame that has genuinely stepped outside that coordinate space does not advertise its freedom from prestige, because the institution simply ceases to organize the comparison. In [Overcoming Conceptual Overreach](../po-chu-gai-nian-de-jian-yue/), conceptual sprawl feeds on precisely this inverse entanglement, just as [The Inversion of Reading and the Order of Inference](../the-inversion-of-reading-and-the-order-of-inference/) mistake reactive positioning for the ground of living action.
 
 ## 二、 认知通道的天然不对称 / 2. The Structural Asymmetry of Access
 
