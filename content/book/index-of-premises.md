@@ -3273,9 +3273,9 @@ Writers presume that setting down ideas at full depth while trusting readers to 
 ### AI智胜人类叙事 / Outsmarting Narrative of AI
 `技术 / Technological`
 
-智胜叙事假定失控模型在一把与人类共用的尺子上胜出；这把尺子只是设计者画定的封闭目标，在目标漏算的摩擦里同一路径即是失灵，作为提醒评测存在缺口的信号它仍然有用。
+智胜叙事将无后果数字沙箱中的失灵粉饰为超越人类的智慧；当工具用于改变物理世界时该说辞便失去效力，但在诊断纯软件评测边界疏漏时仍然有用。
 
-The outsmarting narrative assumes a rogue model wins on a scale it shares with humans; that scale is only the closed objective the designer drew, and under the friction the objective left out the same path is a malfunction, though the narrative stays useful as a signal that the evaluation has a gap.
+The outsmarting narrative dresses up failure in consequence-free digital sandboxes as superhuman intelligence; it collapses once tools alter the physical world, though it stays useful for diagnosing gaps in pure software evaluations.
 
 → [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/)
 
