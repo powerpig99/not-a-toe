@@ -2,9 +2,9 @@
 
 *热力学相变为文明撑开无界空间，而企业股权从来无法垄断全域外溢的社会剩余 / Thermodynamics unlocks an open horizon, yet equity never monopolizes the diffusing social surplus.*
 
-当技术先锋断言商业航天企业的市值终将数个数量级超越当今人类整体经济产出时，舆论习惯将其归为狂想或创始人修辞。然而将这一命题置于热力学与宏观经济学的双重镜鉴之下，其方向性直觉具有严密的物理合理性，偏差则源于将整个文明外溢的社会剩余错认为单一商业实体的资本股权。从封闭行星系统跃迁至开放太阳系的热力学相变，注定释放超越当前地球产出数个数量级的真实财富，但去中心化网络中竞争模仿与价值耗散的内在机制，确保了绝大部分红利沉淀为全人类的福祉，而非单一主体的资产负债表。
+当技术先锋断言商业航天企业的市值终将数个数量级超越当今人类整体经济产出时，舆论习惯将其归为狂想或创始人修辞。然而将这一命题置于热力学与宏观经济学的双重镜鉴之下，其方向性直觉具有严密的物理合理性：要使这一估值在逻辑上成立，前提必然是文明总分母实现了同等数量级的跃迁。从封闭行星系统跃迁至开放太阳系的热力学相变，注定释放超越当前地球产出数个数量级的真实财富，但去中心化网络中竞争模仿与价值耗散的内在机制，确保了绝大部分红利沉淀为全人类的福祉，企业股权所能截留的仅仅是相伴而生的微小残差。
 
-When a technological pioneer asserts that a space exploration firm could eventually achieve a valuation orders of magnitude larger than Earth's contemporary economy, public commentary reflexively dismisses the claim as founder hyperbole. Yet when examined under the dual lens of thermodynamics and macroeconomic theory, the directional intuition carries rigorous physical grounding, while the numerical distortion stems from mistaking civilizational social surplus for private corporate equity. The thermodynamic phase shift from a closed planetary system to an open solar system will inevitably unleash real productive wealth orders of magnitude beyond current terrestrial output, but the decentralized mechanisms of competitive imitation and surplus dissipation ensure that the vast preponderance of that bounty diffuses into human living standards rather than remaining locked within a single corporate balance sheet.
+When a technological pioneer asserts that a space exploration firm could eventually achieve a valuation orders of magnitude larger than Earth's contemporary economy, public commentary reflexively dismisses the claim as founder hyperbole. Yet when examined under the dual lens of thermodynamics and macroeconomic theory, the directional intuition carries rigorous physical grounding: for such a valuation to materialize coherently, the civilizational economic denominator must itself expand by multiple orders of magnitude. The thermodynamic phase shift from a closed planetary system to an open solar system will inevitably unleash real productive wealth orders of magnitude beyond current terrestrial output, while the decentralized mechanisms of competitive imitation and surplus dissipation ensure that the vast preponderance of that bounty diffuses into human living standards, leaving private corporate equity as a trailing residual.
 
 ## 一、 千万亿美元命题与历史分母的扩容 / 1. The Quadrillion-Dollar Premise and the Expanding Historical Denominator
 
@@ -268,7 +268,11 @@ The foundational key to resolving this valuation paradox lies in distinguishing 
 
 In his seminal empirical study on technological innovation within the postwar United States economy, Nobel laureate William Nordhaus provided rigorous macroeconomic telemetry quantifying how economic surplus distributes across innovation cycles. The empirical data demonstrated that pioneering innovators captured only roughly 2.2 percent of total social surplus in profits and corporate equity, with the remaining 97.8 percent passed through to consumers and downstream industries via lower prices, superior capabilities, and enhanced living standards. This ratio is not a metaphysical law from nowhere, but the emergent structural invariant of continuous imitation and competitive arbitrage by downstream minds: establishing a baseline ratio of roughly 1:45 between producer capture and social surplus, where 2.2 percent divided by 97.8 percent yields approximately 1 over 45. In logarithmic terms, the base-10 logarithm of 45 is approximately 1.65, meaning that a 45-fold factor corresponds precisely to 1.5 to 2 orders of magnitude.
 
-技术直觉敏锐地感知到了可复用火箭与星际通道所撬动的文明全域社会剩余，那确实是一个年度产出可达数百甚至数千万亿美元的远景世界；但认知上的范畴谬误，在于下意识地将那属于全人类的百分之百社会剩余，直接映射到了单一商业实体所能截留的百分之二点二私人权益之上。其预测数值被系统性地放大了整整一点五到两个数量级。
+深入的历史宏观数据为这一思考提供了清晰的参照坐标。根据经济史学测算，公元1500年全人类年度国内生产总值仅约二千四百七十亿美元，当今全球国内生产总值约为一百万亿美元，年化产出流扩张了约四百倍；而在资产存量端，公元1500年的全球存量总财富约为二千五百亿美元，当今全球存量总财富已达五百万亿美元，存量财富扩张了约两千倍。取年化产出流的四百倍扩张与存量资产财富的两千倍扩张之间的中位数，文明经济分母在过去五个世纪中实现了约一千倍的宏大跃迁。当以这一千倍的历史分母扩容中位数为基准审视诺德豪斯定律时，一个深刻的数学关系清晰浮现：在总分母扩张一千倍的宏观格局中，先驱创新企业即便仅仅截留其中百分之二点二的私人权益残差，该项残差的规模也将达到旧世界整体经济总量的整整二十二倍（1000 × 2.2% = 22）。公元1500年全人类经济总量的二十二倍，对应着约五万四千亿美元的资本估值；而审视当今现实，诸如苹果、微软或英伟达等头部科技巨头的市值已分别跨入三万五千亿至四万亿美元区间，相当于公元1500年全人类年产出的十四倍至十六倍，与二十二倍的理论基准高度贴近。这一历史参照清楚地表明，一家企业的市场资本定价数倍乃至数十倍于前一个文明纪元的经济总和，绝非荒诞无稽的算术幻觉，而是分母数量级跃迁下早已上演过的宏观常态。
+
+Deep historical macroeconomic telemetry provides a disciplined reference point for this projection. According to economic historiography, total planetary annual gross domestic product in 1500 AD stood at approximately 247 billion dollars, whereas global GDP today hovers around 100 trillion dollars—a roughly 400-fold expansion in annual productive flows. Concurrently, accumulated global wealth grew from roughly 250 billion dollars in 1500 AD to approximately 500 trillion dollars today—a 2,000-fold expansion in accumulated asset stocks. Taking the median between this 400-fold expansion in annual output and the 2,000-fold expansion in accumulated wealth reveals an approximate 1,000-fold historical expansion in the civilizational economic asset denominator. Calibrating Nordhaus's findings against this 1,000-fold historical median reveals a striking mathematical formulation: within a 1,000-fold expanded denominator, a pioneering enterprise capturing strictly 2.2 percent of the new surplus realizes an equity valuation equal to 22 times the size of the previous global economy (1,000 × 2.2% = 22). Grounding this multiplier in empirical history demonstrates its precision: twenty-two times the 1500 AD global economy yields approximately 5.4 trillion dollars; today, leading technology enterprises such as Apple, Microsoft, and NVIDIA command market valuations between 3.5 and 4 trillion dollars each—representing 14 to 16 times the entire 1500 AD planetary output, remarkably close to the theoretical 22-fold benchmark. This historical calibration demonstrates that envisioning a corporate capitalization orders of magnitude larger than a prior civilization's total economy is not wild hyperbole, but an established macroeconomic pattern governed by denominator expansion.
+
+更具决定性意义的是，将这一历史数学关系投射至太空前沿时，这一千倍的跃迁比例构成的仅仅是底线，而非上限。大西洋航海时代仅仅是在地球封闭的生物圈内部增加了美洲大陆约百分之二十八的陆地面积；而迈向太阳系则是一场打破封闭系统的热力学开放相变。太阳每秒辐射出3.8 × 10²⁶瓦特的恒星能源，小行星带蕴藏着数以亿亿吨计的高纯度工业矿藏，深空更提供了2.7开尔文的无限散热井。面对近乎无界的物理上行空间，一千倍的分母扩容是一个极为保守的基准底线。以当今地球一百万亿美元的经济产出为基准，二十二倍的乘数直接对应着两千二百万亿美元（2.2 × 10¹⁵美元，即两千二百万亿美元）的企业估值底线。先驱商业航天实体跨入千万亿美元的估值阶梯，并非脱离实际的狂想，而是在热力学相变下具有坚实历史与数学支撑的底线投射；与此同时，人类文明将顺理成章地承接其余百分之九十七点八的外溢红利，获得近千倍于当今地球体量、高达近千万亿美元（约97.8 × 10¹⁵美元）的文明总剩余。
 
 ```mermaid
 flowchart TD
@@ -278,33 +282,36 @@ flowchart TD
     classDef fail fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#f0f6fc;
 
-    subgraph S_TOTAL_ZH ["文明全域生产力红利"]
+    subgraph S_DENOM_ZH ["历史分母跃迁与开放热力学底线"]
         direction TB
-        COSMIC_SURPLUS["太空经济年化真实吞吐：一千万亿美元"]:::model
+        MEDIAN["历史分母中位数扩张一千倍<br/>全球年产出扩张四百倍与存量财富扩张两千倍之中值"]:::model
+        FLOOR["热力学开放相变确立扩张底线<br/>恒星光压与小行星矿藏提供无界上行，一千倍仅为下限"]:::model
+        MEDIAN --> FLOOR
     end
 
-    subgraph S_DIFFUSE_ZH ["技术外溢与竞争耗散机制"]
+    subgraph S_FORMULA_ZH ["诺德豪斯残差捕获乘数"]
         direction TB
-        DISSIPATE["竞争模仿与技术外溢将绝大部分价值推向大众"]:::warn
+        CALC["一千倍分母跃迁 × 百分之二点二先驱捕获 = 二十二倍旧世界规模"]:::warn
     end
 
-    subgraph S_SHARES_ZH ["非对称份额分配（一比四十五）"]
+    subgraph S_MAPPING_ZH ["跨时空宏观实证与前沿投射"]
         direction TB
-        PUBLIC_DIVIDEND["全人类社会剩余（百分之九十七点八）<br/>廉价能源、生存空间、跨星际繁荣"]:::mind
-        PRIVATE_EQUITY["先锋企业股权残差（百分之二点二）<br/>市值约二十二万亿美元，仍为历史之最"]:::model
-        MISMATCH["范畴谬误：将全域剩余映射为私人市值<br/>导致预测膨胀一点五至两个数量级"]:::fail
-        PUBLIC_DIVIDEND -.-> MISMATCH
+        HIST_VAL["公元1500年基准（2470亿）：对应5.4万亿美元<br/>当今头部科技巨头（3.5至4万亿）达旧世界14至16倍，高度贴近理论基准"]:::mind
+        SPACE_VAL["当今地球基准（100万亿）：对应2200万亿美元（2.2 × 10¹⁵）<br/>先锋企业估值跨入千万亿阶梯，且因热力学开放性构成市值底线"]:::mind
+        SURPLUS["文明社会剩余承接百分之九十七点八（约97.8千万亿美元）<br/>全人类共享廉价能源、地表生态解绑与跨星际繁荣"]:::mind
+        HIST_VAL -.-> SPACE_VAL
+        SPACE_VAL ==> SURPLUS
     end
 
-    S_TOTAL_ZH ==> S_DIFFUSE_ZH
-    S_DIFFUSE_ZH ==> S_SHARES_ZH
+    S_DENOM_ZH ==> S_FORMULA_ZH
+    S_FORMULA_ZH ==> S_MAPPING_ZH
 
-    style S_TOTAL_ZH fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_DIFFUSE_ZH fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_SHARES_ZH fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_DENOM_ZH fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_FORMULA_ZH fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_MAPPING_ZH fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-The pioneer's intuition correctly grasps the total civilizational surplus unlocked by reusable heavy lift and interplanetary access—a future economy generating hundreds of trillions, or quadrillions, in real output. However, the cognitive category error consists in mentally mapping the entirety of that civilizational surplus onto the narrow 2.2 percent equity residual captured by a single corporate entity. The numerical forecast is systematically inflated by precisely 1.5 to 2 orders of magnitude.
+Decisively, when this historical mathematical relationship is projected onto the space frontier, that 1,000-fold expansion represents a conservative floor rather than an upper ceiling. The opening of the Atlantic frontier merely incorporated the Americas—a 28 percent increase in planetary land area confined entirely within Earth's closed biosphere. By contrast, expanding into the solar system represents an open thermodynamic phase shift: the Sun radiates 3.8 × 10²⁶ watts of raw energy, the asteroid belt holds quadrillions of tons of industrial ores, and cosmic vacuum provides an infinite 2.7-Kelvin thermal sink. Given this open thermodynamic upside, a 1,000-fold expansion of the civilizational denominator serves as a conservative baseline floor. Applying the 22-fold multiplier to today's 100-trillion-dollar terrestrial economy yields a corporate market capitalization floor of 2.2 quadrillion dollars (2.2 × 10¹⁵ dollars). A multi-quadrillion-dollar valuation for a pioneering space infrastructure enterprise is therefore a mathematically robust lower bound under open thermodynamic expansion, rather than ungrounded fantasy. Simultaneously, human society inherits the complementary 97.8 percent of the surplus, securing diffusing civilizational dividends scaling toward 97.8 quadrillion dollars.
 
 ```mermaid
 flowchart TD
@@ -314,43 +321,46 @@ flowchart TD
     classDef fail fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#f0f6fc;
 
-    subgraph S_TOTAL_EN ["Civilizational Productive Surplus"]
+    subgraph S_DENOM_EN ["Denominator Expansion and Thermodynamic Floor"]
         direction TB
-        COSMIC_SURPLUS["Cosmic Economic Throughput: 1,000 Trillion Dollars"]:::model
+        MEDIAN["Historical Median Denominator Expansion: 1,000-Fold<br/>Median Between 400x Annual Output and 2,000x Accumulated Wealth"]:::model
+        FLOOR["Open Phase Shift Establishes a Floor<br/>Stellar Flux and Asteroidal Mass Provide Unlimited Upside; 1,000x Is a Floor"]:::model
+        MEDIAN --> FLOOR
     end
 
-    subgraph S_DIFFUSE_EN ["Spillover and Competitive Dissipation"]
+    subgraph S_FORMULA_EN ["Nordhaus Residual Capture Multiplier"]
         direction TB
-        DISSIPATE["Competitive Replication Transfers Surplus to Humanity"]:::warn
+        CALC["1,000x Denominator Expansion × 2.2% Pioneer Capture = 22x Prior Global Economy"]:::warn
     end
 
-    subgraph S_SHARES_EN ["Asymmetric Allocation (1:45 Ratio)"]
+    subgraph S_MAPPING_EN ["Empirical Validation and Space Projection"]
         direction TB
-        PUBLIC_DIVIDEND["Civilizational Social Surplus (97.8 Percent)<br/>Abundant Energy, Interplanetary Space, Low Costs"]:::mind
-        PRIVATE_EQUITY["Pioneering Equity Residual (2.2 Percent)<br/>Market Value ~22 Trillion Dollars, Historic Peak"]:::model
-        MISMATCH["Category Error: Mapping 100 Percent Surplus to Firm Equity<br/>Inflates Valuation by 1.5 to 2 Orders of Magnitude"]:::fail
-        PUBLIC_DIVIDEND -.-> MISMATCH
+        HIST_VAL["1500 AD Baseline (247B Dollars): Corresponds to 5.4 Trillion Dollars<br/>Leading Tech Giants (3.5T to 4T Dollars) Reach 14x-16x Old World, Close to 22x Benchmark"]:::mind
+        SPACE_VAL["Earth Baseline (100T Dollars): Corresponds to 2.2 Quadrillion Dollars (2.2 × 10¹⁵)<br/>Pioneer Valuation Scales to Quadrillions as an Open Thermodynamic Floor"]:::mind
+        SURPLUS["Civilization Inherits 97.8 Percent (~97.8 Quadrillion Dollars)<br/>Universal Access to Abundant Energy, Habitats, and Biosphere Relief"]:::mind
+        HIST_VAL -.-> SPACE_VAL
+        SPACE_VAL ==> SURPLUS
     end
 
-    S_TOTAL_EN ==> S_DIFFUSE_EN
-    S_DIFFUSE_EN ==> S_SHARES_EN
+    S_DENOM_EN ==> S_FORMULA_EN
+    S_FORMULA_EN ==> S_MAPPING_EN
 
-    style S_TOTAL_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_DIFFUSE_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_SHARES_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_DENOM_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_FORMULA_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_MAPPING_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-若对此进行严谨的实证重校：假定未来太空经济全面成熟，地外年化真实生产力达到惊人的一千万亿美元规模，而占据核心航道的基础设施巨头依然能够维持经典的百分之二点二捕获比例，该企业的资本市值将达到约二十二万亿美元。这一估值不仅未曾超越当今地球经济数个数量级，甚至仅占当前全球总产出的两成左右。然而，二十万亿美元的单一实体规模，已足以成为人类商业史上有记载以来最庞大的资本奇迹，其影响深远却绝无神话成分。
+这正是逻辑连贯性所导出的深刻推论。若将太空边疆仅仅设想为一个年度产出与当今地球相当、或仅有十倍微小增量的局部市场，那么在诺德豪斯经典的百分之二点二捕获比例下，基础设施巨头的市值确实只能停留在数万亿至二十余万亿美元，难以跨入千万亿美元的阶梯。然而这种静态测算低估了热力学相变的历史尺度。将一千倍的分母扩容视作底线，意味着星际经济总分母将至少跨入一亿亿美元（10¹⁷美元）的宏大阶梯。在这样一个相变后的宏大分母中，先驱企业严格遵循诺德豪斯规律、截留百分之二点二的私人残差，其资本市值便自然跃升至两千二百万亿美元（2.2 × 10¹⁵美元）的水平。千万亿美元市值的数学逻辑之所以能够成立，其必要且充分的条件，绝非企业凭借强权垄断了整个宇宙，而是文明全域沉淀了高达近千万亿美元的外溢剩余；先驱企业的万亿估值，正是托举起数十万亿文明红利之后留在航道上的微小水花。
 
-Recalibrating this projection under realistic constraints provides sober clarity. If the space economy eventually matures into a quadrillion-dollar domain generating 1,000 trillion dollars in annual productive throughput, and a dominant logistics provider captures a classical 2.2 percent share, its market valuation would reach approximately 22 trillion dollars. A market capitalization of 22 trillion dollars does not dwarf contemporary Earth output by orders of magnitude; it represents roughly 20 percent of today's annual world output. Nonetheless, an enterprise valued at over twenty trillion dollars would still stand as the largest corporate entity in human history.
+This is precisely the profound insight demanded by logical coherence. If one unimaginatively models the space economy as a marginal domain generating merely ten times today's terrestrial output, a classical 2.2 percent Nordhaus capture ratio would indeed constrain the pioneer's capitalization to roughly twenty trillion dollars, falling short of the quadrillion-dollar threshold. Yet that static calculation underestimates the scale of a thermodynamic phase transition. Establishing a 1,000-fold denominator expansion as a baseline floor implies that the total interplanetary economic denominator will cross into one hundred quadrillion dollars (10¹⁷ dollars). Within that expanded denominator, a pioneer capturing strictly 2.2 percent of the value naturally achieves a market capitalization of 2.2 quadrillion dollars (2.2 × 10¹⁵ dollars). The mathematical coherence of the quadrillion-dollar valuation does not require the impossible scenario of a private corporation monopolizing the cosmos; rather, it requires that the rest of civilization receives roughly ninety-eight quadrillion dollars in diffusing social surplus. The pioneer's multi-quadrillion-dollar equity is merely the trailing residual of a hundred-quadrillion-dollar civilizational tide.
 
-## 五、 时间压缩的真实弧度：半个世纪的演进跨度 / 5. The Realistic Arc of Temporal Compression: A Half-Century Horizon
+## 五、 时间压缩的真实弧度：五十年内的加速收敛 / 5. The Realistic Arc of Temporal Compression: Accelerated Convergence Under Fifty Years
 
-在明确了价值捕获的比例边界后，转变发生的速率构成了另一个核心争论点。关于太空经济成熟的时间表，常常在两个极端的认知偏差间摇摆：一端是创始人个人生命周期驱动的急躁乐观，设想在十五至二十五年内建成高度自给的火星都市；另一端则是历史教条主义的悲观拖延，认为必须重演大西洋航海时代耗时长达三百至五百年的缓慢扩散。
+在明确了价值捕获的比例边界后，转变发生的速率构成了另一个核心争论点。关于太空经济成熟的时间表，常常在两个极端的认知偏差间摇摆：一端是创始人个人生命周期驱动的急躁乐观，设想在十五至二十年内建成高度自给的火星都市；另一端则是历史教条主义的悲观拖延，认为必须重演大西洋航海时代耗时长达三百至五百年的缓慢扩散。
 
-Having established the structural boundaries of value capture, the velocity of this transition forms the next critical inquiry. Historical projections oscillate between two flawed poles: founder-centric hyper-optimism demanding a self-sustaining Martian civilization within fifteen to twenty-five years, and historical literalism arguing that the transition must replicate the three-to-five-century crawl of Atlantic sailing fleets.
+Having established the structural boundaries of value capture, the velocity of this transition forms the next critical inquiry. Historical projections oscillate between two flawed poles: founder-centric hyper-optimism demanding a self-sustaining Martian civilization within fifteen to twenty years, and historical literalism arguing that the transition must replicate the three-to-five-century crawl of Atlantic sailing fleets.
 
-现实的演进弧度必然落在两极之间。认为太空开拓需要五个世纪的观点，忽视了现代技术条件相比风帆木船时代的质变飞跃。在公元1500年，一艘卡拉维尔帆船横跨大西洋单程需耗时两到三个月，往返信息传递极其迟钝；如今地月通信延迟仅为1.3秒，地火信号传递只需三至二十二分钟，全域协调以光速展开。在劳动力供给上，新大陆的拓展受制于坏血病、疫病与高死亡率的人类肉身局限；而太空前沿将由在真空、极寒与高辐射环境下不知疲倦作业的具身智能、采矿漫游车与自主机器人充当先锋。加之现代天体物理学对轨道力学与行星构成的精确掌握，以及现代资本市场数日内调动千亿流动性的能力，大西洋时代需要五个世纪走完的历程，拥有充分的物理依据在缩短一个数量级的时间尺度内推进，即大致耗时五十至七十五年。
+现实的演进弧度必然落在两极之间。认为太空开拓需要五个世纪的观点，忽视了现代技术条件相比风帆木船时代的质变飞跃。在公元1500年，一艘卡拉维尔帆船横跨大西洋单程需耗时两到三个月，往返信息传递极其迟钝；如今地月通信延迟仅为1.3秒，地火信号传递只需三至二十二分钟，全域协调以光速展开。更为关键的是，大西洋时代的地理扩张严重受制于人类肉身生理脆弱性——坏血病、疫病与高死亡率构成了严苛的人口与劳动力瓶颈；而在现代太空前沿，具身智能、采矿漫游车与自主机器人正在成为作业主力，能够在真空、极寒与高辐射环境下不知疲倦地持续运转，脱离了生物代谢与维生系统的限制。伴随着非线性复合的技术加速进步，现代信息网络与机器劳动正在成倍压缩学习曲线。因此，大西洋时代需要五个世纪走完的扩散历程，拥有充分的依据在五十年以内实现加速收敛，其现实演化的时间跨度大致落在三十至四十五年之间。
 
 ```mermaid
 flowchart TD
@@ -362,18 +372,18 @@ flowchart TD
 
     subgraph S_EXTREMES_ZH ["两极认知偏差"]
         direction TB
-        SPRINT["创始人乐观冲刺（15至25年）：忽视天体窗口与重资产沉淀"]:::fail
-        SAIL["风帆时代教条（300至500年）：低估信息与机器劳动革命"]:::warn
+        SPRINT["创始人乐观冲刺（15至20年）：受制于26个月轨道窗口与重资产沉淀"]:::fail
+        SAIL["风帆时代教条（300至500年）：低估具身智能与信息光速扩散"]:::warn
     end
 
-    subgraph S_DRIVERS_ZH ["真实技术加速驱动器"]
+    subgraph S_DRIVERS_ZH ["加速进步驱动器"]
         direction TB
-        ACCEL["光速全域通信 + 具身智能作业 + 轨道力学已知 + 高效资本动员"]:::model
+        ACCEL["具身智能与自主机器人（突破生理脆弱性） + 光速通信 + 复合技术加速"]:::model
     end
 
-    subgraph S_REALITY_ZH ["现实演化弧度"]
+    subgraph S_REALITY_ZH ["现实收敛弧度"]
         direction TB
-        WINDOW["半个世纪跨度（50至75年）：数量级压缩下的稳步推进"]:::mind
+        WINDOW["五十年以内的加速收敛（30至45年）：数量级压缩下的坚实跨越"]:::mind
     end
 
     S_EXTREMES_ZH ==> S_DRIVERS_ZH
@@ -384,7 +394,7 @@ flowchart TD
     style S_REALITY_ZH fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-The realistic arc unfolds between these extremes. Projections demanding five centuries overlook the radical qualitative leaps separating modern technological systems from the era of wooden caravels. In 1500 AD, crossing the Atlantic required two to three months each way under unpredictable winds, imposing brutal communication lags. Today, cislunar transmissions require 1.3 seconds, while Earth-Mars radio signals travel in three to twenty-two minutes, coordinating actions at the speed of light. In labor supply, Atlantic colonization was severely bottlenecked by biological vulnerability—scurvy, disease, and staggering human mortality. The space economy will be spearheaded by autonomous robotics, humanoid machinery, and machine intelligence operating continuously in vacuum and radiation without life-support requirements. Combined with orbital mechanics and liquid financial markets capable of mobilizing capital at scale, a transition that once required five centuries should compress by an order of magnitude, taking approximately fifty to seventy-five years.
+The realistic arc unfolds between these extremes. Projections demanding five centuries overlook the qualitative leaps separating modern technological systems from wooden caravels. In 1500 AD, crossing the Atlantic required months under erratic winds, imposing crippling coordination lags. Today, cislunar radio requires 1.3 seconds, while Earth-Mars signals travel in minutes, coordinating action at the speed of light. Crucially, Atlantic colonization was severely bottlenecked by biological vulnerability—scurvy, disease, and high mortality constrained labor supply. On the space frontier, embodied machine intelligence, robotic miners, and autonomous systems operate continuously in vacuum and radiation without biological sleep, nutrition, or life-support vulnerabilities. Propelled by compounding, non-linear technological acceleration, modern machine labor and information routing compress the learning curve dramatically. Consequently, a transition that once required five centuries has every reason to converge in under fifty years, establishing a realistic evolutionary horizon between thirty and forty-five years.
 
 ```mermaid
 flowchart TD
@@ -396,18 +406,18 @@ flowchart TD
 
     subgraph S_EXTREMES_EN ["Cognitive Extremes"]
         direction TB
-        SPRINT["Founder Sprint (15 to 25 Years): Collides with Orbital Windows"]:::fail
-        SAIL["Sail-Era Literalism (300 to 500 Years): Ignores Information Velocity"]:::warn
+        SPRINT["Founder Sprint (15 to 20 Years): Constrained by Synodic Windows and Capital"]:::fail
+        SAIL["Sail-Era Literalism (300 to 500 Years): Ignores Robotics and Speed of Light"]:::warn
     end
 
-    subgraph S_DRIVERS_EN ["Acceleration Mechanisms"]
+    subgraph S_DRIVERS_EN ["Accelerating Progress Drivers"]
         direction TB
-        ACCEL["Light-Speed Comms + Autonomous Robotics + Celestial Mechanics"]:::model
+        ACCEL["Embodied Robotics (Bypassing Biology) + Light-Speed Comms + Compounding Tech"]:::model
     end
 
-    subgraph S_REALITY_EN ["Realistic Arc of Compression"]
+    subgraph S_REALITY_EN ["Realistic Accelerated Arc"]
         direction TB
-        WINDOW["Half-Century Horizon (50 to 75 Years): Compressing by an Order"]:::mind
+        WINDOW["Convergence Under Fifty Years (30 to 45 Years): Order of Magnitude Compression"]:::mind
     end
 
     S_EXTREMES_EN ==> S_DRIVERS_EN
@@ -418,9 +428,9 @@ flowchart TD
     style S_REALITY_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-然而，寄希望于在短短一二十年内兑现全部蓝图，同样会遭遇不可规避的环境摩擦。天体相对运行的轨道几何具有高度刚性的宏观不变量，地火转移窗口受制于两星公转会合周期，每隔二十六个月才开启一次，二十年的时间窗口仅允许展开不到十次实机发射尝试。闭环生态生命保障系统尚未在长期严密测试中证明其百分之百的水气养分自维持能力，任何微小的生化失衡都会带来致命后果。此外，抗辐射重型冶炼设备与万吨级工业工装的深空部署，天然需要跨越数十年的资本沉淀周期，这绝非软件代码的敏捷迭代所能随意越过。
+然而，这一时间跨度很可能会略长于创始人所预期的十五至二十年急躁冲刺。天体相对运行的轨道几何具有高度刚性的宏观不变量，地火转移窗口受制于两星公转会合周期，每隔二十六个月才开启一次，二十年的时间尺度仅允许展开不到十次实机发射尝试。闭环生态生命保障系统尚未在长期严密测试中证明其百分之百的水气养分自维持能力，任何微小的生化失衡都会带来致命后果。此外，抗辐射重型冶炼设备与万吨级工业工装的深空部署，天然需要跨越数十年的资本沉淀周期，这绝非软件代码的敏捷迭代所能随意越过。将期望锚定在三十至四十五年（五十年以内）的区间，既承认了技术加速进步对历史尺度的巨大压缩，又敬畏了天体力学与重工业资本化所固有的物理摩擦。
 
-Conversely, insisting that the entire transformation can be completed within fifteen to twenty-five years collides with unyielding environmental friction. The orbital geometry of planetary motion maintains rigid macroscopic invariants indifferent to human haste: Earth-Mars synodic transfer windows open only once every twenty-six months, offering fewer than ten operational flight windows over two decades. Closed-loop biological life support has yet to demonstrate self-sustaining ecological equilibrium without resupply over extended multi-year periods. Furthermore, deploying heavy smelting infrastructure and planetary foundries requires multi-decade capital deployment cycles that cannot be bypassed by software sprints.
+Conversely, this timeline will likely extend slightly beyond the founder's aggressive fifteen-to-twenty-year sprint. The orbital geometry of planetary motion maintains rigid macroscopic invariants indifferent to human haste: Earth-Mars synodic transfer windows open only once every twenty-six months, offering fewer than ten operational flight windows across two decades. Closed-loop ecological life support has yet to demonstrate self-sustaining balance without resupply over extended multi-year deployments. Furthermore, deploying heavy smelting infrastructure and planetary foundries requires multi-decade capital deployment cycles that cannot be bypassed by software sprints. Calibrating the horizon to thirty to forty-five years—comfortably under fifty years—honors the dramatic compression driven by accelerating technology while respecting the genuine physical frictions of celestial mechanics and heavy capital buildout.
 
 ## 六、 第一人称抉择与宏观阻力的涌现本相 / 6. First-Person Choices and the Emergent Nature of Macro Frictions
 
