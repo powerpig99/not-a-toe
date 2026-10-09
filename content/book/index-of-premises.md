@@ -35,6 +35,15 @@ Bustamante frames operational success as adopting other perspectives; useful in 
 
 → [Perception and Perspective: The Collapse That Isn't There](../../posts/perception-perspective-refined/)
 
+### 安格斯·麦迪森 / Angus Maddison
+`经济 / Economic`
+
+麦迪森通过跨世纪的宏观历史核算揭示了全球产出分母的千倍扩张，为理解边疆突破提供了宝贵的经验基准；但该模型局限于追溯性统计记账，若将历史分母的静态刻度作为判定未来生产力潜能的不可逾越边界，便会陷入经验主义的因果倒置。
+
+Maddison reconstructed the thousand-fold expansion of the civilizational denominator across centuries of macroeconomic accounting, offering a vital empirical benchmark for frontier transitions; yet remaining retrospective telemetry, treating historical denominators as unbreakable boundaries on future productive capacity inverts causality into empirical dogma.
+
+→ [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/)
+
 ### 安德鲁·休伯曼 / Andrew Huberman
 `科学 / Scientific`
 
@@ -186,7 +195,7 @@ Sivers' build-only-what-need-proves method is still prediction that contact beat
 
 Musk's loop treats explosions as loss signal and assumes his present model is partly in error; with no identity occupying the gap, iterations compound per calendar time, which names his outsized influence.
 
-→ [Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)
+→ [Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/)
 
 ### 埃里克·雷蒙德 / Eric S. Raymond
 `技术 / Technological`
@@ -537,7 +546,7 @@ Sowell's point that policies should be judged by incentives, not goals, is accur
 
 Nordhaus measured the surplus distribution of technological change in the postwar nonfarm economy, recording how tiny private returns dissipate into massive social dividends; providing high-resolution empirical telemetry, this econometric model validates rather than grounds causality, stopping short of tracing the sequence back to the irreducible prior of action.
 
-→ [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)
+→ [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/)
 
 ### 维尔纳·海森堡 / Werner Heisenberg
 `科学 / Scientific`
