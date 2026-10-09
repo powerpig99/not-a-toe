@@ -46,3 +46,4 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [不可还原的观察者 / The Irreducible Observer](../../posts/the-irreducible-observer/)
 - [无人能持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/)
 - [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
+- [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/)

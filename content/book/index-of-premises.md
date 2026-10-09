@@ -276,7 +276,7 @@ Rousseau's chains compare current configuration with a freedom unbound by traces
 
 Sartre presumes sovereign choice precedes all predetermined designations and possesses unconditioned agency, diagnosing bad faith as agency fleeing responsibility by mimicking passive objects; this premise becomes incomplete without structural constraints to provide the differential substrate for action, while remaining profoundly useful for dissecting how minds exercise sovereignty to manufacture the illusion of their own helplessness.
 
-→ [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/)
+→ [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/)
 
 ### 约翰·梅纳德·凯恩斯 / John Maynard Keynes
 `经济 / Economic`
@@ -519,7 +519,7 @@ Hameroff treats understanding as an act outside rules, supplied by quantum objec
 
 Nagel analyzed the irreducibility of subjective consciousness and the illusion of a view from nowhere; brilliant for exposing physicalist limits, his framework remains purely analytical.
 
-→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere](../../posts/the-distant-silhouette-and-the-inventory-from-nowhere/)
+→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere](../../posts/the-distant-silhouette-and-the-inventory-from-nowhere/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/)
 
 ### 托马斯·索维尔 / Thomas Sowell
 `经济 / Economic`
@@ -549,6 +549,15 @@ Heisenberg formulated matrix mechanics and epistemic measurement limits; foundat
 → [自由的测不准：微观主权、统计涌现与自由意志的佯谬](../../posts/zi-you-de-ce-bu-zhun/)
 
 ## 理论 / Theories
+
+### 自由意志的必然涌现假说 / The Inevitable Emergence Hypothesis of Free Will
+`科学 / Scientific`
+
+该假说预设客观复杂度的攀升能够自发催生主观能动性，试图在因果链条中为意志安放输出接口；这一假定在第三人称模型中回溯性推演意志时陷入了将画中之眼归于画作本身的偷换，却在刻画认知系统算力升级与行为复杂度的经验关联上提供了有效的工程建模工具。
+
+The hypothesis assumes escalating complexity spontaneously generates subjective agency, seeking to locate an output interface for volition within causal chains; this premise commits a category error by retrospectively deriving the painting's eye from the canvas itself, yet provides an effective engineering modeling framework for mapping computational scaling to behavioral complexity.
+
+→ [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/)
 
 ### 激活叠加与表征向量控制 / Activation Addition and Steering Vectors
 `科学 / Scientific`
