@@ -32,3 +32,4 @@ The essays in this part examine the twin paradox, quantum measurement, the arrow
 - [时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../../posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)
 - [四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model](../../posts/the-myth-of-the-four-dimensional-deer-and-the-present-model/)
 - [感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding](../../posts/the-boundary-of-perception-and-the-infinity-of-understanding/)
+- [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/)
