@@ -94,28 +94,31 @@ flowchart TD
 
 Probing the tension between microscopic superpositions and macroscopic phenomena inevitably leads to the boundary established by John von Neumann and Werner Heisenberg. Within the mathematical architecture, a microscopic system evolving unitarily must at some point interface with a macroscopic apparatus that produces a definite record. This boundary separating quantum possibilities from macroscopic outcomes is known as the measurement cut. Von Neumann demonstrated that the location of this cut is movable: it can be placed between the particle and the detector screen, between the screen and the experimenter's retina, or between the optic nerve and the cerebral cortex. Regardless of how far back along the causal chain the analyst shifts the cut, the calculated probability distributions remain invariant.
 
-割点虽然可以任意滑动，却断不可被剔除。这条割点，正是微观不确定性在观察介入下凝聚为宏观确定性的接缝。它标志着因始终领先于果至少一步的时间间隙：每一次观察在成立的刹那，都已然是一个既成的“果”，尽管它同时作为下一个事件展开的“因”。只要理论还需要解释为什么具体的实验员会在特定的时刻读出一个不可逆的仪表指针，这个因果落差与割点就必须存在。一旦试图消除割点，将所有实验装置、周围环境乃至观察者自身无限制地并入一个庞大的全宇宙波函数，整个物理世界就重新退化为连续演化的可能性云团。在那样的形式完满之中，任何具体的、单次的宏观事实都将失去立足之地。宏观客观性并非悬浮在真空中的预设实体，而是不同心智在交流与复核中保持不变的结构特征。没有具身心智在割点一侧承担测量的摩擦代价，几率云便永远不会兑现为历史。
+割点虽然可以任意滑动，却断不可被剔除。人们习惯于在客体世界中搜寻那个神圣的物理坍缩点，却忽略了一个更为深刻的前提：割点的位置并非客体世界中天然矗立的界碑，而是心智的认知决断向外投射的边界。在冯·诺依曼的因果链推演中，粒子、探测器、视网膜光子与神经电流在形式描述中均可被视作一个连续演化的微观叠加态。外部世界内部并没有任何一个固有标记写着“在此处发生坍缩”；所谓割点落在荧光屏上，实际上意味着实验者在此处单方面决定中止量子追踪，将该处的不可逆相互作用接纳为可读的宏观事实。正如玻尔所强调的，不存在脱离实验配置的微观客体。实验配置的选择本身就是观察者意志与提问方式的物化——割点落在哪里，取决于主体选择在因果链的哪一环与之接轨。
 
-The cut is freely movable, yet it is strictly irreducible and non-removable. This cut is the very interface where indeterminism collapses into determinism under the act of observation. It marks the operational temporal gap where cause is always at least one step ahead of effect: every observation, in the precise moment it registers, is already an accomplished effect, even as it serves as the cause for whatever unfolds next. As long as a theory must account for why a concrete experimenter registers an irreversible pointer reading at a specific moment, this causal gap and the measurement cut must be drawn somewhere. If one attempts to erase the cut entirely by subsuming the detector, the surrounding environment, and the observing scientist into an all-encompassing universal state vector, the world dissolves back into a cloud of uncollapsed possibilities. Within that formal completeness, no singular macroscopic reading can ever be secured. Macroscopic objectivity is not an unanchored substance floating in a void, but a structural invariance maintained across communicable observations. Without an embodied mind standing at one side of the cut to absorb the frictional cost of registration, probabilistic amplitudes never crystalize into definite history.
+The cut is freely movable, yet it is strictly irreducible and non-removable. Physicists are accustomed to searching the objective world for a sacred physical point of collapse, yet this search overlooks an epistemic inversion: the location of the cut is not a natural boundary stone standing in external reality, but the boundary of a cognitive decision projected outward by the Mind. Along von Neumann's causal chain, the particle, the fluorescent detector, the retinal photons, and the neural currents can all be described formally as a continuously evolving microscopic superposition. The physical world contains no intrinsic signpost declaring that collapse occurs here; asserting that the cut sits at the detector screen simply means the experimenter has decided to terminate quantum tracking at this stage, accepting the irreversible interaction as an accountable macroscopic record. As Niels Bohr emphasized, quantum phenomena cannot be defined in isolation from an experimental arrangement. The design of an experiment is the physical embodiment of the observer's intentionality and mode of interrogation—where the cut falls depends upon the link in the causal chain where the subject chooses to interface with reality.
 
-正是在这个关键点上，各个量子诠释显露出它们各自安放割点的策略。哥本哈根诠释选择将割点定格在经典宏观仪器上，不再追问仪器自身的微观机制；多世界诠释试图抹除割点，将观察者分裂进无数平行历史，却把割点以第一人称经验的分支选择形式重新引入；玻姆力学将割点藏入永远无法直接测量的微观粒子隐变量轨迹中；量子贝叶斯学派把割点收敛为单个主体信念的更新；而计算多路系统则将割点归结为计算受限主体对分支空间的采样折叠。这些策略各自构成了自洽而高效的模型，并在解释特定现象时发挥着明确的效用；它们的不完备性恰恰发生在宣称自己能够终结消解割点、提供闭合无漏宇宙图景的时刻。
+这种主观决断的外在映射，并非凭空捏造的幻象，而是主体在世界中锚定自身的第一人称动作。割点是心智的意向性与外部世界的物理阻抗正面遭遇的摩擦接缝。一方面，心智自主决定在哪里切、怎么切——选择测量动量还是位置，选择在双缝后安置探测器还是任其自由干涉，选择在荧光屏前读数还是将仪器继续纳入演化，这属于主体的提问权力；另一方面，外部世界在切口处反馈以不容篡改的硬阻抗——割点处兑现的确定读数与几率分布严格服从玻恩规则，不随观察者的主观愿望而转移。割点正是微观不确定性在观察介入下凝聚为宏观确定性的接缝，它标志着因始终领先于果至少一步的时间间隙：每一次观察在成立的刹那，都已然是一个既成的“果”，同时又作为后续演化的“因”。只要理论还需要解释为什么具体的实验员会在特定的时刻读出一个不可逆的仪表指针，这个因果落差与割点就必须存在。正是因为具身心智在此处承担了不可逆记录的因果代价与测量摩擦，几率云才凝结为确定性的单次历史事实。
+
+This outward projection of a cognitive decision is not an ethereal idealist fiction, but an embodied first-person act by which the subject anchors itself in reality. The cut marks the frictional seam where the Mind's intentionality collides with the physical resistance of the world. On the one hand, the Mind determines where and how to cut—choosing whether to measure momentum or position, whether to place detectors behind the slits or permit unhindered interference, and whether to read the fluorescent screen or incorporate the instrument into unitary evolution. This constitutes the subject's prerogative of interrogation. On the other hand, the physical world responds at the incision with unyielding resistance: the definite readings and probability distributions realized at the cut strictly obey the Born rule, immune to the observer's wishes. The cut is the very interface where indeterminism collapses into determinism under the act of observation, marking the operational temporal gap where cause is always at least one step ahead of effect: every observation, in the moment it registers, is an accomplished effect, even as it serves as the cause for whatever unfolds next. As long as a theory must account for why a concrete experimenter registers an irreversible pointer reading at a specific moment, this causal gap and the measurement cut must be drawn somewhere. Because an embodied mind absorbs the causal cost and measurement friction of irreversible recording, probabilistic clouds crystallize into singular historical facts.
+
+意识到割点是主体选择的外在映射，便能解构物理学界百年来试图客观坐实或抹除割点的双重执念。以彭罗斯引力坍缩或自发坍缩模型为代表的客观坍缩理论，试图在自然界中搜寻一个真实的物理常数或引力阈值，把割点固化为一个实体；而极端的多世界诠释则试图抹除割点，将观察者无缝熔化进全宇宙波函数，却无法解释为何当下具身的心智会且仅会经历一个具体而唯一的指针读数。这两种极端都犯了相同的范畴错误：把作为第一人称介入边界的割点，误当成了第三人称宇宙舞台中可以被客观还原或剔除的道具。各个量子学派的真正分歧，正是在于各自安放这一割点的策略：哥本哈根诠释将其定格在经典宏观仪器上；多世界诠释将其推卸给平行分支的隐秘选择；玻姆力学将其藏入不可测的粒子隐变量轨迹中；量子贝叶斯学派将其收敛为主体信念的更新；而计算多路系统则将其归结为主体对分支空间的受限采样。割点之所以可移，是因为主体的意向性可以自由决定在因果链的哪一个截面上同现实发生具身摩擦；割点之所以不可除，是因为第一人称的主体性在认知中是不可消除的先决条件。它不是自然的物理裂痕，而是心智将自身锚定于世界时留下的深深刻痕。
 
 ```mermaid
 flowchart TD
-    subgraph S_CutMovable["割点的自由滑动：预测严格守恒"]
+    subgraph S_CutMovable["割点的认识论定位：意向性决断与因果链滑动"]
         direction TB
-        C_Micro["微观量子系统：幺正演化"]
-        C_Chain["测量因果链：荧光屏 → 视网膜 → 神经突触"]
-        C_Cut["冯·诺依曼割点：在此处兑现为确定的宏观事实"]
-        C_Micro --> C_Chain
-        C_Chain -.->|"割点可沿因果链自由移动"| C_Cut
+        C_Chain["因果链推演：粒子 → 探测器 → 视网膜 → 神经突触"]
+        C_Cut["冯·诺依曼割点：心智中止追问的认识论决断"]
+        C_Friction["摩擦接缝：主体意向性（提问权利）与客观硬阻抗（玻恩几率）相撞"]
+        C_Chain --> C_Cut
+        C_Cut --> C_Friction
     end
 
-    subgraph S_CutErased["妄图消除割点：客观读数瓦解"]
+    subgraph S_CutErased["物理学实体化执念的双重偏狭"]
         direction TB
-        E_Universe["全宇宙波函数：无限叠加与算力极限"]
-        E_Loss["丧失单次确切读数：无法说明当下历史何以兑现"]
-        E_Universe --> E_Loss
+        E_Entity["客观坍缩：妄图在自然界寻找常数将割点坐实为物理实体"]
+        E_Universe["消除割点：熔解观察者进宇宙波函数，丧失单次确切历史事实"]
     end
 
     subgraph S_Schools["各学派对割点的安放策略"]
@@ -125,40 +128,39 @@ flowchart TD
         P_Wolfram["计算极限：归结为主体的受限采样"]
     end
 
-    C_Cut -->|"在模型内提供支撑"| S_Schools
-    C_Cut -->|"试图消除割点"| E_Universe
+    C_Friction -->|"具身锚定"| S_Schools
+    C_Cut -->|"脱离第一人称视角的歧途"| S_CutErased
 
     style S_CutMovable fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_CutErased fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Schools fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style C_Micro fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style C_Chain fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style C_Cut fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style C_Friction fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Entity fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style E_Universe fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style E_Loss fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style P_Copenhagen fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style P_ManyWorlds fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style P_Wolfram fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-At this juncture, rival quantum interpretations reveal themselves as distinct strategies for situating the cut. The Copenhagen interpretation freezes the cut at the classical macroscopic instrument, declining to analyze the microscopic physics of the apparatus itself. The Many-Worlds interpretation attempts to eliminate the cut by branching the observer across infinite parallel histories, only to reintroduce the cut through the singular branch inhabited by immediate conscious experience. Bohmian mechanics conceals the cut within unobservable particle positions governed by a pilot wave. QBism localizes the cut within the subjective belief updates of an individual agent. Computational multiway systems trace the cut to the bounded sampling through which an observer folds branchial space into a sequential narrative. Each strategy constitutes a coherent operational model that proves effective within its scope; its boundary of incompleteness emerges whenever it claims to have eliminated the cut entirely to deliver a closed, comprehensive Theory of Everything.
+Recognizing that the cut is the outward mapping of an observer's choice dismantles a century of physicalist obsessions aimed either at reifying or erasing it. Objective collapse models, such as Penrose's gravitational collapse or spontaneous localization theories, attempt to discover a fundamental physical constant or gravitational threshold in nature, cementing the cut into an ontological entity. Conversely, radical formulations of the Many-Worlds interpretation attempt to erase the cut altogether, dissolving the observer into the universal wave function, yet remain powerless to explain why an immediate, embodied consciousness experiences one definite pointer reading. Both extremes commit the same category error: mistaking the cut, which functions as the boundary of first-person intervention, for a third-person prop that can be reduced to physics or eliminated entirely. Rival quantum interpretations are merely divergent strategies for situating this cut: Copenhagen fixes it at classical apparatuses; Many-Worlds displaces it into branch selection; Bohmian mechanics buries it within unobservable trajectories; QBism localizes it in subjective belief updates; and computational frameworks trace it to bounded sampling over branchial space. The cut is movable because the subject's intentionality freely chooses the cross-section along the causal chain where it incurs embodied friction with reality; the cut is irreducible because first-person agency is an inescapable prerequisite of cognition. It is not an intrinsic fracture in nature, but the indelible imprint left by the Mind as it anchors itself in the world.
 
 ```mermaid
 flowchart TD
-    subgraph S_CutMovable["Movable Cut: Predictive Invariance"]
+    subgraph S_CutMovable["Epistemic Status of the Cut: Intentionality and Movable Chain"]
         direction TB
-        C_Micro["Microscopic System: Unitary Evolution"]
-        C_Chain["Causal Chain: Detector Screen → Retina → Synapses"]
-        C_Cut["von Neumann Cut: Realized as Macroscopic Record"]
-        C_Micro --> C_Chain
-        C_Chain -.->|"Cut Freely Shifts Along Chain"| C_Cut
+        C_Chain["Causal Chain: Particle → Detector → Retina → Synapses"]
+        C_Cut["von Neumann Cut: Epistemic Decision to Terminate Quantum Tracking"]
+        C_Friction["Frictional Seam: Subjective Intentionality Collides with Hard Resistance"]
+        C_Chain --> C_Cut
+        C_Cut --> C_Friction
     end
 
-    subgraph S_CutErased["Erased Cut: Dissolution of Records"]
+    subgraph S_CutErased["Physicalist Reification Fallacies"]
         direction TB
-        E_Universe["Universal State: Superposition & Unbounded Expansion"]
-        E_Loss["Loss of Singular Outcome: Inability to Account for Lived Record"]
-        E_Universe --> E_Loss
+        E_Entity["Objective Collapse: Seeking Physical Thresholds to Reify Cut as Entity"]
+        E_Universe["Erased Cut: Dissolving Observer into Wave Function, Losing Definite Facts"]
     end
 
     subgraph S_Schools["Strategic Placements of the Cut"]
@@ -168,17 +170,17 @@ flowchart TD
         P_Wolfram["Wolfram: Bounded Observer Sampling Slice"]
     end
 
-    C_Cut -->|"Sustains Operational Models"| S_Schools
-    C_Cut -->|"Attempting to Erase Cut"| E_Universe
+    C_Friction -->|"Embodied Anchor"| S_Schools
+    C_Cut -->|"Departing from First-Person View"| S_CutErased
 
     style S_CutMovable fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_CutErased fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Schools fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style C_Micro fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style C_Chain fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style C_Cut fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style C_Friction fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Entity fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style E_Universe fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style E_Loss fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style P_Copenhagen fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style P_ManyWorlds fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style P_Wolfram fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
