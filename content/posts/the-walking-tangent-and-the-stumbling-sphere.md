@@ -2,9 +2,9 @@
 
 *微观受力中持续重置初始条件，胜过执迷宏观平滑曲率的瘫痪模型。 / Continuous recalibration under lived friction surpasses frozen models fixated on smooth curvature.*
 
-平面模型只有在描述超长距离或整个行星时才显得荒谬，而在人类日常生活的绝大多数尺度上，它不仅高度有效，而且是给定条件下最自然的一阶近似。只要在微观受力中持续校准基准，这样的局部模型便足以支撑行者丈量广袤的大地；相反，一套描绘宏观曲率的正确理论若被僵化为微观立足的教条，反而会使行者在粗糙的现实面前频频踩空。知识的生命力从来不在于抽象图景的闭合，而在于具身接触中动态重置坐标的敏锐。
+无论是描述为理想平面还是完美球面，都是与粗糙现实并不吻合的人造模型。球面模型能够容纳范围更广的宏观应用，却并不代表它在任何场景下都更为准确；在我们绝大部分日常生活中，毫无必要借用球面模型来描述身旁的地面，非要拿球面统摄一切反而是一种认知谬误。平面模型唯有在描述超长距离或整个行星时才显得荒谬，而在近身受力的尺度上，它是最自然的一阶近似。只要在具身受力中持续校准基准，局部模型便足以支撑行者丈量大地；相反，若将宏观平滑曲率僵化为微观落脚的教条，反而会导致频频踩空。知识的生命力从来不在于抽象图景的闭合，而在于具身接触中动态重置坐标的敏锐。
 
-A flat model appears absurd only when forced to describe planetary distances or the globe as a whole; across the vast majority of daily human encounters, it is not absurd in the slightest, but a supremely effective and natural first-order approximation. So long as it dynamically recalibrates its reference frame against micro-friction, such a localized framework suffices for an actor to traverse vast continental landscapes; conversely, an accurate theory of macro-curvature, if calcified into an unyielding dogma for micro-steps, causes the intellect to stumble incessantly over fractured terrain. The vitality of knowledge lies never in the aesthetic closure of abstract blueprints, but in the sensitivity to reset coordinates continuously under embodied contact.
+Describing the Earth as an immaculate plane or as an immaculate sphere produces idealized models that do not conform to coarse reality; the spherical model merely accommodates a broader scope of macroscopic applications, which by no means implies it is more accurate in every operational setting. Across the vast majority of daily life, there is neither need nor reason to invoke a spherical framework to describe the immediate ground, and insisting on applying the sphere to everything is itself an erroneous practice. A planar model appears absurd only when overextended to describe trans-oceanic distances or the planet as a whole, whereas at tactile micro-scales it serves as the most natural first-order approximation. So long as it continuously recalibrates its baseline against lived friction, a localized tangent model suffices to traverse vast terrain; conversely, dogmatic attachment to smooth macro-curvature precipitates incessant stumbling. The vitality of knowledge lies never in the aesthetic closure of abstract blueprints, but in the sensitivity to reset coordinates continuously under embodied contact.
 
 ## 一、 地平说行者的认识论之谜 / 1. The Epistemological Mystery of the Flat-Earth Walker
 
@@ -106,7 +106,7 @@ If a dogmatist treats planetary curvature as an operative micro-template, expect
 
 Does this imply that the flat-earth doctrine is a flawless philosophy? Manifestly not. The validity of a tangent approximation possesses precise, unyielding structural boundaries that demarcate its inherent incompleteness. That a walker thrives across local plains does not license the extrapolation of their model to all engineering domains. The moment an objective expands from terrestrial walking to trans-oceanic navigation, aviation routing, orbital mechanics, or satellite clock synchronization, linear planar projections break down completely.
 
-在跨越数千公里的宏观任务中，地表的内在黎曼曲率无法再被局部的原点重置所吸收；黎曼曲率张量的非零特性导致了整体完整性的缺失，平行移动的向量在闭合路径上产生了无法消除的相位偏差。在此类高阶问题中，坚持地平说不仅不再是务实的简化，反而变成了致命的盲区。然而，指出地平说的边界并不等同于将完美球面奉为终极教义。事实上，即使是地球是球体这一断言，本身同样是一套处于特定精度的工程脚手架：在更精确的大地测量学中，地球是一个两极稍扁的旋转椭球体；在引力势能测量中，它是一个凹凸不平的大地水准面；而在地幔对流与板块构造的动力学视角下，它是一个在时间中持续蠕变的非刚性流变体。
+在跨越数千公里的宏观任务中，地表的内在黎曼曲率无法再被局部的原点重置所吸收；黎曼曲率张量的非零特性导致了整体完整性的缺失，平行移动的向量在闭合路径上产生了无法消除的相位偏差。在此类高阶问题中，坚持地平说不仅不再是务实的简化，反而变成了致命的盲区。更深层次来讲，把地球描述成一个完美的平面或者一个完美的球面，都是与粗糙现实并不吻合的人造模型；球面模型之所以在科学实践中占据更核心的位置，只是因为它能够适应更多、更有效的实际应用，其有效应用范围更为广阔，但这并不代表它在任何情况下都是更为准确的模型。在我们绝大部分的日常生活中，无论匠人筑墙、修路还是普通人散步，我们既不需要、也毫无必要去引用球面模型来描述身旁的地面；非要拿球面去强行描述身边的一切，反而是一种脱离尺度的错误做法。事实上，即便把地球描绘为球体，它本身也依然只是一套处于特定尺度下的工程脚手架：在更精确的大地测量学中，地球是一个两极稍扁的旋转椭球体；在重力等势面测量中，它是一个凹凸不平的大地水准面；而在地幔对流与板块构造的动力学视角下，它是一个在时间中持续蠕变的非刚性流变体。
 
 ```mermaid
 flowchart TD
@@ -120,7 +120,7 @@ flowchart TD
         direction TB
         LevelTangent["局部切空间模型：徒步、农耕与低速交通<br/>每步重置初始条件，曲率误差小于百万分之一"]:::mind
         BoundaryA["边界突破：跨洋航线与大圆航行"]:::warn
-        LevelSphere["宏观球面与椭球体模型：航空导航与气象环流<br/>显性计算全局曲率，但抹杀微观地表粗糙度"]:::model
+        LevelSphere["宏观球面模型：适用范围更广的工程脚手架<br/>能胜任航线与气象，但非要描述身边地面反成错误"]:::model
         BoundaryB["边界突破：卫星轨道与相对论时钟"]:::warn
         LevelGeoid["大地水准面与动力学流变体：重力场勘测与深部地质<br/>非刚性连续演化，依然受限于观测扰动"]:::mind
         LevelTangent --> BoundaryA --> LevelSphere --> BoundaryB --> LevelGeoid
@@ -139,7 +139,7 @@ flowchart TD
     style S_CognitiveStance fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-Across intercontinental horizons, the intrinsic Riemannian curvature of the surface can no longer be absorbed by localized origin resets; non-zero curvature tensors induce geometric holonomy, generating phase shifts that accumulate irreversibly over closed loops. In such macro-scale operations, clinging to a flat plane transforms from a pragmatic simplification into a catastrophic failure. Yet delineating the tangent space’s boundary does not elevate the ideal sphere into an absolute idol. The spherical Earth is itself an approximation: geodesy refines it into an oblate ellipsoid, gravimetry reveals an irregular geoid, and geodynamics exposes a convective rheological continuum.
+Across intercontinental horizons, the intrinsic Riemannian curvature of the surface can no longer be absorbed by localized origin resets; non-zero curvature tensors induce geometric holonomy, generating phase shifts that accumulate irreversibly over closed loops. In such macro-scale operations, clinging to a flat plane transforms from a pragmatic simplification into a catastrophic failure. At a deeper epistemological level, describing the Earth as an immaculate plane or as an immaculate sphere produces idealized models that fail to conform to coarse physical reality; the spherical model achieves prominence solely because it accommodates a wider, more effective domain of practical applications, yet having a broader scope does not make it a more accurate model under every circumstance. Across the overwhelming majority of daily life—carpentry, paving roads, or taking an evening stroll—human beings have neither the need nor the operational justification to invoke a spherical geometry to describe the immediate ground; insisting on using the sphere to describe everything is itself an erroneous practice. Even within macroscopic domains, the assertion that the Earth is a sphere remains a provisional scaffold: geodesy refines it into an oblate ellipsoid, gravimetry reveals an irregular geoid, and geodynamics exposes a convective rheological continuum.
 
 ```mermaid
 flowchart TD
@@ -153,7 +153,7 @@ flowchart TD
         direction TB
         LevelTangent["Tangent Model: Walking, Agriculture, Local Transit<br/>Resetting initial conditions; curvature error negligible"]:::mind
         BoundaryA["Boundary Threshold: Trans-oceanic Great-Circle Flights"]:::warn
-        LevelSphere["Ellipsoidal Geodesy: Global Aviation and Meteorology<br/>Explicit curvature calculation; flattens micro-fractures"]:::model
+        LevelSphere["Spherical Model: Broader-Scope Engineering Scaffolding<br/>Suits aviation and weather, yet forcing it everywhere is an error"]:::model
         BoundaryB["Boundary Threshold: Satellite Orbits and Relativistic Clocks"]:::warn
         LevelGeoid["Geoid Rheology: Gravimetry and Geodynamics<br/>Dynamic continuum; perpetually constrained by telemetry"]:::mind
         LevelTangent --> BoundaryA --> LevelSphere --> BoundaryB --> LevelGeoid
