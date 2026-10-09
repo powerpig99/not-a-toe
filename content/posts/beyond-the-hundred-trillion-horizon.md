@@ -298,17 +298,26 @@ flowchart TD
         direction TB
         HIST_VAL["公元1500年基准（2470亿）：对应5.4万亿美元<br/>当今头部科技巨头（3.5至4万亿）达旧世界14至16倍，高度贴近理论基准"]:::mind
         SPACE_VAL["当今地球基准（100万亿）：对应2200万亿美元（2.2 × 10¹⁵）<br/>先锋企业估值跨入千万亿阶梯，且因热力学开放性构成市值底线"]:::mind
-        SURPLUS["文明社会剩余承接百分之九十七点八（约9.78万万亿美元，即9.78 × 10¹⁶）<br/>全人类共享廉价能源、地表生态解绑与跨星际繁荣"]:::mind
         HIST_VAL -.-> SPACE_VAL
-        SPACE_VAL ==> SURPLUS
+    end
+
+    subgraph S_LADDER_ZH ["价值沉淀的尺度阶梯：从个体到文明剩余"]
+        direction TB
+        INDIV["自然人个体财富留存<br/>创始人持股仅为有限切片，受稀释、税收与生物寿命约束"]:::model
+        CORP["头部企业资本权益估值<br/>跨期折现与机构资本聚集，平均市值系统性超越百分之二点二静态基准"]:::warn
+        ECOSYS["前沿生态总资本价值<br/>上下游供应链与衍生资产存量池，更大幅度超越静态基准"]:::warn
+        SURPLUS["文明全域社会总剩余<br/>百分之九十七点八外溢红利（约9.78万万亿美元，即9.78 × 10¹⁶）"]:::mind
+        INDIV --> CORP --> ECOSYS --> SURPLUS
     end
 
     S_DENOM_ZH ==> S_FORMULA_ZH
     S_FORMULA_ZH ==> S_MAPPING_ZH
+    S_MAPPING_ZH ==> S_LADDER_ZH
 
     style S_DENOM_ZH fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_FORMULA_ZH fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_MAPPING_ZH fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_LADDER_ZH fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
 ```
 
 Decisively, when this historical mathematical relationship is projected onto the space frontier, that 1,000-fold expansion represents a conservative floor rather than an upper ceiling. The opening of the Atlantic frontier merely incorporated the Americas—a 28 percent increase in planetary land area confined entirely within Earth's closed biosphere. By contrast, expanding into the solar system represents an open thermodynamic phase shift: the Sun radiates 3.8 × 10²⁶ watts of raw energy, the asteroid belt holds quadrillions of tons of industrial ores, and cosmic vacuum provides an infinite 2.7-Kelvin thermal sink. Given this open thermodynamic upside, a 1,000-fold expansion of the civilizational denominator serves as a conservative baseline floor. Applying the 22-fold multiplier to today's 100-trillion-dollar terrestrial economy yields a corporate market capitalization floor of 2.2 quadrillion dollars (2.2 × 10¹⁵ dollars). A multi-quadrillion-dollar valuation for a pioneering space infrastructure enterprise is therefore a mathematically robust lower bound under open thermodynamic expansion, rather than ungrounded fantasy. Simultaneously, human society inherits the complementary 97.8 percent of the surplus, securing diffusing civilizational dividends scaling toward 97.8 quadrillion dollars (9.78 × 10¹⁶ dollars).
@@ -337,22 +346,35 @@ flowchart TD
         direction TB
         HIST_VAL["1500 AD Baseline (247B Dollars): Corresponds to 5.4 Trillion Dollars<br/>Leading Tech Giants (3.5T to 4T Dollars) Reach 14x-16x Old World, Close to 22x Benchmark"]:::mind
         SPACE_VAL["Earth Baseline (100T Dollars): Corresponds to 2.2 Quadrillion Dollars (2.2 × 10¹⁵)<br/>Pioneer Valuation Scales to Quadrillions as an Open Thermodynamic Floor"]:::mind
-        SURPLUS["Civilization Inherits 97.8 Percent (~97.8 Quadrillion Dollars, 9.78 × 10¹⁶)<br/>Universal Access to Abundant Energy, Habitats, and Biosphere Relief"]:::mind
         HIST_VAL -.-> SPACE_VAL
-        SPACE_VAL ==> SURPLUS
+    end
+
+    subgraph S_LADDER_EN ["Scale Ladder of Value Preservation: From Individual to Civilization"]
+        direction TB
+        INDIV["Individual Wealth Retention<br/>Founder holdings are fractional tranches subject to dilution, taxes, and lifespan"]:::model
+        CORP["Leading Enterprise Capital Equity<br/>Intertemporal discounting and institutional pooling; average market cap exceeds 2.2%"]:::warn
+        ECOSYS["Total Ecosystem Capital Value<br/>Upstream fabricators and orbital infrastructure exceed baseline by wider margin"]:::warn
+        SURPLUS["Civilizational Social Surplus<br/>97.8 percent diffuse dividend (~97.8 Quadrillion Dollars, 9.78 × 10¹⁶)"]:::mind
+        INDIV --> CORP --> ECOSYS --> SURPLUS
     end
 
     S_DENOM_EN ==> S_FORMULA_EN
     S_FORMULA_EN ==> S_MAPPING_EN
+    S_MAPPING_EN ==> S_LADDER_EN
 
     style S_DENOM_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_FORMULA_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_MAPPING_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_LADDER_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
 ```
 
 这正是逻辑连贯性所导出的深刻推论。若将太空边疆仅仅设想为一个年度产出与当今地球相当、或仅有十倍微小增量的局部市场，那么在诺德豪斯经典的百分之二点二捕获比例下，基础设施巨头的市值确实只能停留在数万亿至二十余万亿美元，难以跨入千万亿美元的阶梯。然而这种静态测算低估了热力学相变的历史尺度。将一千倍的分母扩容视作底线，意味着星际经济总分母将至少跨入十万万亿美元（10¹⁷美元，即100 quadrillion dollars）的宏大阶梯。在这样一个相变后的宏大分母中，先驱企业严格遵循诺德豪斯规律、截留百分之二点二的私人残差，其资本市值便自然跃升至两千二百万亿美元（2.2 × 10¹⁵美元）的水平。千万亿美元市值的数学逻辑之所以能够成立，其必要且充分的条件，绝非企业凭借强权垄断了整个宇宙，而是文明全域沉淀了高达近十万万亿美元（约9.78 × 10¹⁶美元）的外溢剩余；先驱企业两千二百万亿美元的估值底线，正是托举起近十万万亿美元文明红利之后留在航道上的微小水花。
 
 This is precisely the profound insight demanded by logical coherence. If one unimaginatively models the space economy as a marginal domain generating merely ten times today's terrestrial output, a classical 2.2 percent Nordhaus capture ratio would indeed constrain the pioneer's capitalization to roughly twenty trillion dollars, falling short of the quadrillion-dollar threshold. Yet that static calculation underestimates the scale of a thermodynamic phase transition. Establishing a 1,000-fold denominator expansion as a baseline floor implies that the total interplanetary economic denominator will cross into one hundred quadrillion dollars (10¹⁷ dollars). Within that expanded denominator, a pioneer capturing strictly 2.2 percent of the value naturally achieves a market capitalization of 2.2 quadrillion dollars (2.2 × 10¹⁵ dollars). The mathematical coherence of the quadrillion-dollar valuation does not require the impossible scenario of a private corporation monopolizing the cosmos; rather, it requires that the rest of civilization receives roughly ninety-eight quadrillion dollars (9.78 × 10¹⁶ dollars) in diffusing social surplus. The pioneer's multi-quadrillion-dollar equity is merely the trailing residual of a hundred-quadrillion-dollar civilizational tide.
+
+在此必须划定最后一处关键认知分野：即自然人个体所能留存的私人财富，与企业作为法人资本载体所凝聚的股权价值之间，存在着载体维度的结构性脱钩。大众舆论极易将企业估值与创始人个人资产简单混为一谈，从而激发起对“个人拥有千万亿美元”的道德恐慌与认知抵触。然而在真实的资本结构中，自然人仅持有企业股权的一个有限切片，并受制于漫长周期的股权稀释、税收调节与生物寿命；而企业作为超越个体的制度性法人容器，聚合了全球数以万计的养老金、主权基金、指数资本以及未来数十年的贴现预期。诺德豪斯测算的百分之二点二，衡量的是创新在当期经济流中的静态利润分成；而资本市场对基础设施头部企业的股权定价，则是对长周期协同网络、排他性通道与制度护城河的跨期贴现，这正是头部顶尖企业的平均市值常常系统性突破百分之二点二静态基准的核心原因所在。而当考察范围进一步扩展至整个前沿生态与上下游企业所沉淀的资本总价值时，这一总盘子超出百分之二点二的幅度更是呈倍数级扩大。当然，这里的精确百分比远不如粗粒度的数量级尺度差异更为关键：真正具决定性的是看清从“个体财富切片”、“头部企业股权定价”、“产业生态资本总值”直至“文明全域社会剩余”之间，逐级放大数个数量级的宏观结构阶梯。
+
+A final, indispensable distinction must be delineated here: the structural decoupling between the value preserved by an individual human and the value preserved as the equity of a corporate entity. Popular commentary easily conflates corporate market capitalization with the personal net worth of a founder, triggering reflexive panic over the imaginary spectacle of a single individual commanding quadrillions of dollars. In reality, a living individual holds merely a fractional tranche of corporate equity—severely constrained by dilution, fiscal taxation, and biological lifespan. The corporation, conversely, serves as an institutional vessel pooling capital from global pension systems, sovereign wealth, index funds, and decades of capitalized forward cash flows. Nordhaus's 2.2 percent benchmark measures static innovation profit flows within a single period; financial equity prices long-term network moats, structural coordination authority, and intertemporal rents, which is precisely why the average valuation of top leading enterprises systematically exceeds that 2.2 percent baseline. Furthermore, when evaluating the total capital value preserved across the entire corporate frontier ecosystem—encompassing all upstream fabricators, orbital logistics networks, and secondary platforms—the total accumulated equity value exceeds the 2.2 percent baseline by an even wider margin. The precise empirical percentages matter far less than these rough scale differences: what is decisive is grasping the ladder of expanding orders of magnitude, rising from the fractional slice of individual wealth, to the capitalized equity of leading frontier firms, to the total capital stock of the industrial ecosystem, and ultimately to the oceanic expanse of civilizational surplus.
 
 ## 五、 时间压缩的真实弧度：五十年内的加速收敛 / 5. The Realistic Arc of Temporal Compression: Accelerated Convergence Under Fifty Years
 
