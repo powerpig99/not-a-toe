@@ -4758,9 +4758,9 @@ Its premise assumes that a static, standalone reality exists independently beyon
 ### 冯·诺依曼割点 / The von Neumann Cut
 `科学 / Scientific`
 
-假定量子测量中的割点可以通过扩展波函数或引入更精细的物理介质而最终被消除；在具体实验中移动割点保持预测不变，但抹去割点则消解了任何确切的宏观测量事实。
+假定量子测量中的割点是客体世界中天然矗立的物理分界线，从而试图寻找常数将其坐实或扩展波函数将其消除；移动割点保持预测不变并映照出心智提问与物理阻抗相撞的摩擦接缝，但抹去割点则消解了任何确切的宏观事实。
 
-Presumes the cut in quantum measurement can ultimately be eliminated by extending the wave function or adding finer physical substrates; moving the cut preserves experimental predictions, yet erasing it dissolves the possibility of any definite macroscopic record.
+Presumes the cut in quantum measurement is an intrinsic physical boundary standing in the objective world, attempting either to reify it as a physical constant or erase it within an extended wave function; shifting the cut preserves predictions while revealing the frictional seam where intentional interrogation collides with physical resistance, yet erasing it dissolves any definite macroscopic record.
 
 → [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/)
 
