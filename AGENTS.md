@@ -19,7 +19,7 @@
 > `https://powerpig99.github.io/not-a-toe/posts/<slug>/`
 > 
 > - **CRITICAL PROHIBITION**: NEVER use `not-a-toe.org`, `not-a-toe.com`, or any other placeholder domain under ANY circumstances. The blog has no custom domain; it is deployed exclusively on GitHub Pages at `powerpig99.github.io/not-a-toe`.
-> - **All multi-platform publishing copies** (Spotify ZH, Spotify EN, WeChat Video, X/Twitter) in walkthroughs and chat responses MUST use the exact URL: `https://powerpig99.github.io/not-a-toe/posts/<slug>/` (with trailing slash).
+> - **All references to live posts** in walkthroughs, companion prompts, exports, and chat responses MUST use the exact URL: `https://powerpig99.github.io/not-a-toe/posts/<slug>/` (with trailing slash).
 > - **Essay internal links** must NEVER use absolute URLs (always use relative `[title](../slug/)`).
 
 ---
@@ -74,18 +74,15 @@ For every new or revised essay, the complete deliverable set consists of:
 - **Styles Are NEVER Fixed (Content-Driven & Novelty-Seeking)**: The aspect ratio is standard, but the **visual style and artistic medium are strictly never fixed**. For every new essay, invent a fresh artistic medium, print tradition, material texture, and palette derived directly from the specific epistemological cut of that post. Never converge into a single "house style" (strictly zero repetitive cliches, zero readable text, zero logos, zero tabletop stills).
 - Registered in `assets/covers/STYLES.md` under both `Style families (used)` and the `Inventory` table as a living record of corpus diversity.
 
-### 3. Companion NotebookLM Prompts (Chinese Only, Link-Free)
+### 3. Companion NotebookLM Prompt (Chinese Only, Link-Free)
 Located in `notebooklm-auto/prompts/`:
 - **Audio Dialogue** (`notebooklm-auto/prompts/<slug>_zh.txt`): Deep dialogue between 明理 (engineering/systems reality) and 雨涵 (philosophy/cybernetics). Must contain three standard sections:
   1. `### [角色与对话规范]` (Roles, core epistemological constraints, perspective division).
   2. `### [核心议题清单]` (Structured topic outline).
   3. `### [正文对谈开场示例]` (Strictly an **opening dialogue sample** of 2–4 concise turns, **NOT a full episode script or transcript dump**. Sized < 8.5 KB, typically 3–6 KB, 25–45 lines. Must begin with the canonical opening delivered by 明理: `大家好，欢迎来到非万物之理（Not a Theory of Everything）。`—providing the standard bilingual reference to the core term in both languages—summarizing that any theory is scaffolding, first-person perspective and causality are two sides of the same coin, neither closing the universe nor reactive rebellion, and stepping into living friction; followed by 雨涵's natural transition into the essay's core tension and 1–2 grounding turns, leaving NotebookLM to generate the rest of the dynamic discussion naturally from the topic checklist).
   *Rule*: The canonical opening (`大家好，欢迎来到非万物之理（Not a Theory of Everything）。`) on causality and first-person perspective is refined based on the new analysis of each essay, but NEVER deleted or omitted. The opening sample must strictly stay within 2–4 dialogue turns to avoid prompt bloat.
-- **Video Monologue** (`notebooklm-auto/prompts/<slug>_video_zh.txt`): Single-speaker philosophical deep monologue articulating the essay's core cuts in continuous, spoken prose. Must contain:
-  1. `### [单人深度文稿规范]`
-  2. `### [核心议题脉络]`
-  3. `### [正文文稿]` (Full unbroken spoken monologue script).
-- **Rules**: Zero links (no markdown or HTML URLs), zero banned words, zero raw `$` symbols, audio prompt strictly concise (< 8.5 KB, 2–4 opening turns).
+- **Video Monologue & Multi-Platform Copies Retired**: Video monologue prompts (`<slug>_video_zh.txt`) and multi-platform promotional copies (Spotify, WeChat Video Channels, X/Twitter) are no longer needed going forward. The authoring workflow focuses strictly on the core essay, cover art, and the NotebookLM Audio Dialogue prompt.
+- **Rules**: Zero links (no markdown or HTML URLs), zero banned words, zero raw `$` symbols, prompt strictly concise (< 8.5 KB, 2–4 opening turns).
 
 ### 4. Walkthrough Document (`walkthrough.md`)
 Stored in the active conversation artifact directory, structured as:
@@ -96,19 +93,7 @@ Stored in the active conversation artifact directory, structured as:
 2. Mermaid diagram inventory with semantic color rationale.
 3. Core epistemological cuts & argument architecture.
 4. Verification & invariant diagnostic check results.
-5. **Companion NotebookLM Prompts (Chinese Only, Link-Free)**: File links and full prompt texts for Audio Dialogue and Video Monologue, with **both full prompt texts enclosed in dedicated one-click copiable fenced code blocks** (` ```text `) so the operator can copy each ready-to-run prompt with a single click.
-6. **Multi-Platform Publishing Copies**:
-   - **One-Click Copiable Text Blocks (Strict Invariant)**: Every single platform copy must be formatted inside a dedicated fenced code block (` ```text `) so that the operator can copy the ready-to-publish text with a single click in any Markdown viewer without manual text selection or formatting cleanup.
-   - All four platform copies must explicitly include the canonical live link to the original essay (`https://powerpig99.github.io/not-a-toe/posts/<slug>/`):
-     - **Spotify Podcast (ZH)**: Episode Title + Description + canonical link enclosed in a single fenced code block.
-     - **Spotify Podcast (EN)**: Episode Title + Description + canonical link enclosed in a single fenced code block.
-     - **WeChat Video Channels (微信视频号)**:
-       - **Short Title**: strictly within 16 Chinese characters (`<= 16` 汉字, punchy, unpunctuated or minimal punctuation).
-       - **Caption**: concise narrative hook and argument unfolding.
-       - **Canonical Link**: original post URL (`https://powerpig99.github.io/not-a-toe/posts/<slug>/`).
-       - **Topic Terms (话题标签)**: 3–5 relevant `#话题` hashtags.
-       - Enclosed in a single fenced code block.
-     - **X (Twitter) (EN Only)**: Single cohesive post text (strictly prohibited multi-tweet thread format) + canonical post URL enclosed in a single fenced code block.
+5. **Companion NotebookLM Prompt (Chinese Only, Link-Free)**: File link and full prompt text for Audio Dialogue enclosed in a dedicated one-click copiable fenced code block (` ```text `) so the operator can copy the ready-to-run prompt with a single click. (Note: Video monologue prompt and multi-platform publishing copies are retired and omitted by default).
 
 ### 5. Bidirectional Reverse Linking & Content Refinement (双向反向链接与语境织网)
 - **Dense Cognitive Lattice**: An essay is never an isolated leaf node. Identify key upstream and conceptually adjacent essays referenced by the new post.
@@ -135,7 +120,7 @@ The site is a live book, *非定论的心智指南 / A Non-Definitive Guide for 
 ## Standard Automated Audit & Build Pipeline
 
 Always execute the complete verification sequence before finalizing:
-1. `python3 scripts/audit-post.py <slug>` — Verifies all 10 authoring invariants (title/subtitle separation, banned words, latex, links, lists, mermaid dark theme & vertical flow, walkthrough, companion prompts, cover, and live-book placement). Must return **CLEAN PASS**.
+1. `python3 scripts/audit-post.py <slug>` — Verifies all 10 authoring invariants (title/subtitle separation, banned words, latex, links, lists, mermaid dark theme & vertical flow, walkthrough, companion prompt, cover, and live-book placement). Must return **CLEAN PASS**.
 1b. `python3 scripts/audit-book.py` — Verifies the whole live book: every post placed in exactly one part, parts in written order, all book links resolve, book prose invariants, Index entry shape, and per-label balance. Must return **CLEAN PASS**.
 2. **Reverse Linking & Prose Refinement** — Establish backlinks and refine surrounding narrative prose in key referenced essays; verify modified essays pass repository invariants.
 3. `node build.mjs` — Compiles the static site into `public/`.
