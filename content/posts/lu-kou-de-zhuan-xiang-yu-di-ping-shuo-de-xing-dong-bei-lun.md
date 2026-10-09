@@ -18,9 +18,9 @@ Whether pinned in combat, navigating hurricanes, or standing before a table tenn
 
 ## 二、 地平说信徒为什么掉不下地球 / 2. Why the Flat-Earther Never Falls off the Edge
 
-一个常被当作笑谈的思想实验是：在航天器早已俯瞰地球的时代，为什么地平说的拥护者依然能够在陆地上生活、旅行甚至环游世界，却从来不会从大地的边缘掉下去。从认识论的角度来看，这揭示了一个深刻的行动机制。地平说的全局模型显然是错误的，但在日常行走的场景下，这一荒谬理论并不妨碍其正常生活。一个理论只要允许在具体受力中对其前提进行务实修正，就能在适宜的边界内无限拓展其适用范围。
+一个常被当作笑谈的思想实验是：在航天器早已俯瞰地球的时代，为什么地平说的拥护者依然能够在陆地上生活、旅行甚至环游世界，却从来不会从大地的边缘掉下去。从认识论的角度来看，这揭示了一个深刻的行动机制。地平模型在全局尺度上并不成立，但在日常行走的场景下，这一局部平面假设并不妨碍其正常生活，反而是极具实用性的一阶近似。一个理论只要允许在具体受力中对其前提进行务实修正，就能在适宜的边界内无限拓展其适用范围。
 
-A classic thought experiment asks why flat-earth believers navigate terrestrial journeys, explore continents, and encircle the planet without tumbling into the void. Epistemologically, this illuminates a crucial operational dynamic. While their global model is manifestly mistaken, in the domain of ground traversal the error creates no practical impediment. A model that permits pragmatic updates to its premises through material friction can extend its functional scope indefinitely across its valid domain.
+A classic thought experiment asks why flat-earth believers navigate terrestrial journeys, explore continents, and encircle the planet without tumbling into the void. Epistemologically, this illuminates a crucial operational dynamic. While the flat-earth model breaks down at global scales, in the domain of everyday ground traversal this localized planar assumption creates no practical impediment, serving as an exceptionally functional first-order approximation. A model that permits pragmatic updates to its premises through material friction can extend its functional scope indefinitely across its valid domain.
 
 地平说的拥护者之所以没有走动的问题，是因为他每一次出发的初始条件都更新了。在微观迈步的尺度上，大地在几何上等同于局部的切空间；行者每迈出一步，身体重心与地面碰撞产生的触觉、坡度与重力反馈，都在将坐标原点与水平基准重新刷新到当前的立足点上。相反，如果一个理论家将大地设定为一个理想的完美球面，并按照这个平滑曲率的预期去迈步，他就会在现实的乱石、泥坑与台阶面前频频踩空、寸步难行。真实的大地从来不是几何平滑的球体，执着于宏观真理的全局闭合，反而抹杀了应对局部粗糙度的具身感知。
 
