@@ -2,9 +2,9 @@
 
 *热力学相变为文明撑开无界空间，而企业股权从来无法垄断全域外溢的社会剩余 / Thermodynamics unlocks an open horizon, yet equity never monopolizes the diffusing social surplus.*
 
-当技术先锋断言商业航天企业的市值终将数个数量级超越当今人类整体经济产出时，舆论习惯将其归为狂想或创始人修辞。然而将这一命题置于热力学与宏观经济学的双重镜鉴之下，其方向性直觉具有严密的物理合理性，偏差则源于将整个文明外溢的社会剩余错认为单一商业实体的资本股权。从封闭行星系统跃迁至开放太阳系的热力学相变，注定释放超越当前地球产出数个数量级的真实财富，但经济网络中价值耗散的因果铁律确保了绝大部分红利沉淀为全人类的福祉，而非单一主体的资产负债表。
+当技术先锋断言商业航天企业的市值终将数个数量级超越当今人类整体经济产出时，舆论习惯将其归为狂想或创始人修辞。然而将这一命题置于热力学与宏观经济学的双重镜鉴之下，其方向性直觉具有严密的物理合理性，偏差则源于将整个文明外溢的社会剩余错认为单一商业实体的资本股权。从封闭行星系统跃迁至开放太阳系的热力学相变，注定释放超越当前地球产出数个数量级的真实财富，但去中心化网络中竞争模仿与价值耗散的内在机制，确保了绝大部分红利沉淀为全人类的福祉，而非单一主体的资产负债表。
 
-When a technological pioneer asserts that a space exploration firm could eventually achieve a valuation orders of magnitude larger than Earth's contemporary economy, public commentary reflexively dismisses the claim as founder hyperbole. Yet when examined under the dual lens of thermodynamics and macroeconomic theory, the directional intuition carries rigorous physical grounding, while the numerical distortion stems from mistaking civilizational social surplus for private corporate equity. The thermodynamic phase shift from a closed planetary system to an open solar system will inevitably unleash real productive wealth orders of magnitude beyond current terrestrial output, but the causal laws of market dissipation ensure that the vast preponderance of that surplus diffuses into human living standards rather than remaining locked within a single corporate balance sheet.
+When a technological pioneer asserts that a space exploration firm could eventually achieve a valuation orders of magnitude larger than Earth's contemporary economy, public commentary reflexively dismisses the claim as founder hyperbole. Yet when examined under the dual lens of thermodynamics and macroeconomic theory, the directional intuition carries rigorous physical grounding, while the numerical distortion stems from mistaking civilizational social surplus for private corporate equity. The thermodynamic phase shift from a closed planetary system to an open solar system will inevitably unleash real productive wealth orders of magnitude beyond current terrestrial output, but the decentralized mechanisms of competitive imitation and surplus dissipation ensure that the vast preponderance of that bounty diffuses into human living standards rather than remaining locked within a single corporate balance sheet.
 
 ## 一、 千万亿美元命题与历史分母的扩容 / 1. The Quadrillion-Dollar Premise and the Expanding Historical Denominator
 
@@ -16,7 +16,7 @@ Assessing this assertion requires a disciplined examination of contemporary plan
 
 Yet expanding the observation window across five centuries to humanity's prior geographical leap—the opening of the Atlantic frontier—reveals that the apparent impossibility stems entirely from the confinement of the baseline denominator. According to economic historian Angus Maddison's historical reconstructions, total planetary output in 1500 AD measured approximately 247 billion dollars in 1990 international Geary-Khamis dollars. The entire Western Hemisphere contributed merely 3 to 4 percent of that aggregate, with the Old World—dominated by China, the Indian subcontinent, and Western Europe—accounting for virtually the entirety of recorded economic activity. Average per-capita incomes hovered in the low hundreds of dollars, rigidly pinned to subsistence agriculture.
 
-时隔五百年，当今诸如苹果、微软或英伟达等头部科技企业，各自的股权市值已稳定在三万五千亿美元上下。单一现代企业的市值，已经是公元1500年全人类年度经济总产出的十倍以上。如果有人在公元1500年的塞维利亚或威尼斯港口预言，未来会出现一家私人实体的资本价值超过当时整个已知世界年产出的整整一个数量级，当时的银行家与王室学者必然会断定这违背了物理常理。这种预言在当时的静态分母下确实不可能实现，但它之所以在今天成为客观事实，是因为全球经济分母在五个世纪里实现了数百倍乃至上千倍的实体扩张。
+时隔五百年，当今诸如苹果、微软或英伟达等头部科技企业，各自的股权市值已稳定在三万五千亿美元上下。单一现代企业的市值，已经是公元1500年全人类年度经济总产出的十倍以上。如果有人在公元1500年的塞维利亚或威尼斯港口预言，未来会出现一家私人实体的资本价值超过当时整个已知世界年产出的整整一个数量级，当时的银行家与王室学者必然会断定这违背了经验常理。这种预言在当时的静态分母下确实无法成立，但它之所以在今天成为跨越不同观察者皆可一致确认的宏观现实，是因为全球经济分母在五个世纪里实现了数百倍乃至上千倍的实体扩张。
 
 ```mermaid
 flowchart TD
@@ -55,7 +55,7 @@ flowchart TD
     style S_SHIFT_ZH fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-Five centuries later, leading technology enterprises such as Apple, Microsoft, and NVIDIA command individual market capitalizations hovering around 3.5 trillion dollars each. A single contemporary corporate firm is valued at more than ten times the entire annual economic output of 1500 AD humanity combined. Had an observer approached a merchant in Seville or a financier in Venice in 1500 AD and prophesied the existence of a private entity whose capital worth surpassed the annual throughput of the entire known world by an order of magnitude, the claim would have been dismissed as physically impossible. It was indeed impossible within the 1500 AD denominator; it materialized only because the civilizational denominator expanded by hundreds of times over the ensuing centuries.
+Five centuries later, leading technology enterprises such as Apple, Microsoft, and NVIDIA command individual market capitalizations hovering around 3.5 trillion dollars each. A single contemporary corporate firm is valued at more than ten times the entire annual economic output of 1500 AD humanity combined. Had an observer approached a merchant in Seville or a financier in Venice in 1500 AD and prophesied the existence of a private entity whose capital worth surpassed the annual throughput of the entire known world by an order of magnitude, the claim would have been dismissed as impossible under common experience. It was indeed inconceivable within the 1500 AD denominator; it materialized into an invariant macroscopic reality across observers only because the civilizational denominator expanded by hundreds of times over the ensuing centuries.
 
 ```mermaid
 flowchart TD
@@ -100,9 +100,9 @@ However, this historical mirror also introduces a vital corrective. The opening 
 
 ## 二、 封闭系统与开放视界的热力学相变 / 2. The Thermodynamic Phase Shift from Closed Systems to Open Horizons
 
-尽管大西洋边疆的比喻具有启发性，但在严格的物理学视角下，它甚至低估了太空边疆的真实势能。地理大发现只是对一个既有封闭行星系统的有限算术增量，美洲大陆为当时已知世界增加了大约百分之二十八的陆地面积，但人类活动依然被严密锁定在地球的封闭热力学边界之内，受制于有限的大气循环、稀缺的表层土壤、耗竭的矿产地壳，以及地表极为严苛的环境废热耗散天花板。
+尽管大西洋边疆的比喻具有启发性，但若从物质与能量在认知模型中所映射的宏观摩擦来看，它甚至低估了太空边疆的真实势能。地理大发现只是对一个既有封闭行星系统的有限算术增量，美洲大陆为当时已知世界增加了大约百分之二十八的陆地面积，但人类活动依然被严密锁定在地球的封闭热力学边界之内，受制于有限的大气循环、稀缺的表层土壤、耗竭的矿产地壳，以及地表极为严苛的环境废热耗散约束。
 
-Instructive as the Atlantic frontier analogy remains, from a strict physical standpoint it fundamentally understates the potential of outer space. The historical discovery of the Americas was merely a finite arithmetic addition to an already closed planetary system. The Americas expanded the known terrestrial land area by roughly 28 percent, but human civilization remained bound within Earth's closed thermodynamic envelope, constrained by a thin atmosphere, fragile topsoil, scarce crustal minerals, and hard ecological ceilings on environmental heat dissipation.
+Instructive as the Atlantic frontier analogy remains, when evaluated through the macroscopic friction of matter and energy mapped by cognitive models, it fundamentally understates the potential of outer space. The historical discovery of the Americas was merely a finite arithmetic addition to an already closed planetary system. The Americas expanded the known terrestrial land area by roughly 28 percent, but human civilization remained bound within Earth's closed thermodynamic envelope, constrained by a thin atmosphere, fragile topsoil, scarce crustal minerals, and severe ecological constraints on environmental heat dissipation.
 
 与此相对，向地外太空的拓展是热力学维度的开放式相变跃迁。地球每年截获的太阳辐射能量仅约为1.7 × 10¹⁷瓦，不足太阳总辐射功率的二十亿分之一；而在太空中，太阳向全向立体空间持续倾泻高达3.8 × 10²⁶瓦的恒星辐射，近地轨道与深空探测器能够获得全天候无大气衰减的清洁能源供给。在物质丰度上，仅小行星带就储藏着大约3 × 10²¹千克易于开采的水冰、镍铁以及高纯度铂族金属。更关键的是，太空可以直接向2.7开尔文的宇宙微波背景辐射深空废热，为巨量工业加工与轨道算力提供了近乎无限的热沉空间。
 
@@ -168,15 +168,15 @@ flowchart TD
     style S_SPACE_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-这种转变不是在原有地图边缘多画出一片新大陆，而是类似于生命从海洋爬向陆地的生态位飞跃。人类生产力所面临的硬性物理天花板，在太空维度被实质打破。从热力学潜能推导，一个依托太阳系深空能源与近地小行星物质运转的星际经济体，其真实的物理吞吐规模确实足以数个数量级凌驾于当今地球文明之上。
+这种转变不是在原有地图边缘多画出一片新大陆，而是类似于生命从海洋爬向陆地的生态位飞跃。人类生产活动在地表环境中所遭遇的局部散热与资源约束，在太空维度被实质打开。从热力学模型对能量与物质通量的测算推导，一个依托太阳系深空能源与近地小行星物质运转的星际经济体，其真实的物理吞吐规模确实足以数个数量级凌驾于当今地球文明之上。
 
-This transition is not equivalent to drawing another continent along the perimeter of an existing nautical map; it resembles the evolutionary leap of life transitioning from marine environments onto dry land. The physical ceiling governing productive capacity ceases to be planetary. Evaluated purely by thermodynamic potential, an interplanetary economy drawing on unattenuated solar radiation and asteroidal mass possesses a throughput capacity that naturally exceeds contemporary terrestrial output by multiple orders of magnitude.
+This transition is not equivalent to drawing another continent along the perimeter of an existing nautical map; it resembles the evolutionary leap of life transitioning from marine environments onto dry land. The localized thermal dissipation and resource constraints encountered on a planetary surface are fundamentally widened in orbital space. When modeled through thermodynamic flows of energy and matter, an interplanetary economy drawing on unattenuated solar radiation and asteroidal mass possesses a throughput capacity that naturally exceeds contemporary terrestrial output by multiple orders of magnitude.
 
 ## 三、 边疆运输的双重困局与离地价值悖论 / 3. The Dual Dilemma of Frontier Transport and the In-Space Value Paradox
 
-物理维度的无界可能，并不意味着它能够顺畅折现为商业实体的资本估值。将宏伟的物理远景转换为现实经济流转时，必须正面撞上宏观经济学中极为严酷的拓扑约束。
+物理维度的无界可能，并不意味着它能够顺畅折现为商业实体的资本估值。将宏伟的物理远景转换为现实经济流转时，必须正面撞上经济网络与主体博弈中极为严酷的拓扑约束。
 
-Unbounded physical potential does not automatically translate into private financial equity. When converting cosmic physics into economic valuation, one immediately encounters formidable structural constraints defined by macroeconomic topology.
+Unbounded physical potential does not automatically translate into private financial equity. When converting cosmic physics into economic valuation, one immediately encounters formidable structural constraints defined by the topology of decentralized economic networks.
 
 首先是边疆运输网络所面临的两难困境。如果外部产业生态的发展步调显著滞后于运力突破，航天企业将陷入买方缺位的绝境。假若地表没有足够多的机构具备资金与设备去建造轨道冶炼厂、太空计算数据中心或月面采矿基地，单一运力垄断者就无法通过提供发射服务捕获巨额现金流，它不得不耗尽自身资本去自建并运营全部下游工业链条，而这种全栈垂直整合的资本消耗迅速超越任何商业实体的承受极限。
 
@@ -264,9 +264,9 @@ Even more deceptive are popular valuations of asteroid mining. Media reports ass
 
 The foundational key to resolving this valuation paradox lies in distinguishing the total social surplus unleashed by a major technological rupture from the private financial equity captured by the pioneer. As explored in [The Causal Order of Private Residuals and Social Surplus](../the-causal-order-of-private-residuals-and-social-surplus/), any surplus must physically be brought into being by living minds placing speculative wagers under intense environmental friction before it can exist; yet once operational channels are proven, competitive imitation and market dissipation inevitably transfer the overwhelming bulk of that bounty to downstream participants.
 
-经济学家威廉·诺德豪斯在关于美国战后创新经济的里程碑式实证研究中，精准测算了技术进步所产生的剩余分配结构。数据清晰地表明，技术创新的先驱企业最终仅能以商业利润和股权增值的形式捕获全部经济盈余的百分之二点二左右，其余百分之九十七点八的巨大价值全数通过更低的价格、更丰富的选择与更高的真实生产力外溢给全体社会成员。这意味着生产者留存份额与消费者外溢份额之间，存在着大致为一比四十五的稳定比例关系。在对数坐标下审视这一比例：以10为底的对数中，45的对数值约为1.65，即四十五倍的落差恰好对应着一点五至二个数量级的数学间距。
+经济学家威廉·诺德豪斯在关于美国战后创新经济的里程碑式实证研究中，对技术进步所产生的剩余分配结构给出了严密的宏观统计测算。这一实证遥测清晰地表明，技术创新的先驱企业最终仅能以商业利润和股权增值的形式捕获全部经济盈余的百分之二点二左右，其余百分之九十七点八的巨大价值全数通过更低的价格、更丰富的选择与更高的真实生产力外溢给全体社会成员。这并非脱离主体的形而上学铁律，而是无数后续参与者自发模仿与竞争套利所涌现出的结构性不变量：在生产者留存份额与消费者外溢份额之间，形成了大致为一比四十五的稳定比例关系。在对数坐标下审视这一比例：以10为底的对数中，45的对数值约为1.65，即四十五倍的落差恰好对应着一点五至二个数量级的数学间距。
 
-In his seminal empirical study on technological innovation within the postwar United States economy, Nobel laureate William Nordhaus quantified the distribution of economic surplus across decades of technological transitions. The findings demonstrated that pioneering innovators captured only roughly 2.2 percent of the total social surplus in profits and corporate equity, with the remaining 97.8 percent passed through to consumers and downstream industries via lower prices, superior capabilities, and enhanced living standards. This establishes a structural baseline ratio of roughly 1:45 between producer capture and social surplus, where 2.2 percent divided by 97.8 percent yields approximately 1 over 45. In logarithmic terms, the base-10 logarithm of 45 is approximately 1.65, meaning that a 45-fold factor corresponds precisely to 1.5 to 2 orders of magnitude.
+In his seminal empirical study on technological innovation within the postwar United States economy, Nobel laureate William Nordhaus provided rigorous macroeconomic telemetry quantifying how economic surplus distributes across innovation cycles. The empirical data demonstrated that pioneering innovators captured only roughly 2.2 percent of total social surplus in profits and corporate equity, with the remaining 97.8 percent passed through to consumers and downstream industries via lower prices, superior capabilities, and enhanced living standards. This ratio is not a metaphysical law from nowhere, but the emergent structural invariant of continuous imitation and competitive arbitrage by downstream minds: establishing a baseline ratio of roughly 1:45 between producer capture and social surplus, where 2.2 percent divided by 97.8 percent yields approximately 1 over 45. In logarithmic terms, the base-10 logarithm of 45 is approximately 1.65, meaning that a 45-fold factor corresponds precisely to 1.5 to 2 orders of magnitude.
 
 技术直觉敏锐地感知到了可复用火箭与星际通道所撬动的文明全域社会剩余，那确实是一个年度产出可达数百甚至数千万亿美元的远景世界；但认知上的范畴谬误，在于下意识地将那属于全人类的百分之百社会剩余，直接映射到了单一商业实体所能截留的百分之二点二私人权益之上。其预测数值被系统性地放大了整整一点五到两个数量级。
 
@@ -283,7 +283,7 @@ flowchart TD
         COSMIC_SURPLUS["太空经济年化真实吞吐：一千万亿美元"]:::model
     end
 
-    subgraph S_DIFFUSE_ZH ["诺德豪斯扩散因果律"]
+    subgraph S_DIFFUSE_ZH ["技术外溢与竞争耗散机制"]
         direction TB
         DISSIPATE["竞争模仿与技术外溢将绝大部分价值推向大众"]:::warn
     end
@@ -319,7 +319,7 @@ flowchart TD
         COSMIC_SURPLUS["Cosmic Economic Throughput: 1,000 Trillion Dollars"]:::model
     end
 
-    subgraph S_DIFFUSE_EN ["Nordhaus Dissipation Dynamic"]
+    subgraph S_DIFFUSE_EN ["Spillover and Competitive Dissipation"]
         direction TB
         DISSIPATE["Competitive Replication Transfers Surplus to Humanity"]:::warn
     end
@@ -418,9 +418,9 @@ flowchart TD
     style S_REALITY_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-然而，寄希望于在短短一二十年内兑现全部蓝图，同样会遭遇不可规避的客观摩擦。天体物理学规律不可更改，地火转移轨道窗口每隔二十六个月才开启一次，二十年的时间窗口仅允许展开不到十次实机发射尝试。闭环生态生命保障系统尚未在长期严密测试中证明其百分之百的水气养分自维持能力，任何微小的生化失衡都会带来致命后果。此外，抗辐射重型冶炼设备与万吨级工业工装的深空部署，天然需要跨越数十年的资本沉淀周期，这绝非软件代码的敏捷迭代所能随意越过。
+然而，寄希望于在短短一二十年内兑现全部蓝图，同样会遭遇不可规避的环境摩擦。天体相对运行的轨道几何具有高度刚性的宏观不变量，地火转移窗口受制于两星公转会合周期，每隔二十六个月才开启一次，二十年的时间窗口仅允许展开不到十次实机发射尝试。闭环生态生命保障系统尚未在长期严密测试中证明其百分之百的水气养分自维持能力，任何微小的生化失衡都会带来致命后果。此外，抗辐射重型冶炼设备与万吨级工业工装的深空部署，天然需要跨越数十年的资本沉淀周期，这绝非软件代码的敏捷迭代所能随意越过。
 
-Conversely, insisting that the entire transformation can be completed within fifteen to twenty-five years collides with unyielding physical friction. Celestial mechanics cannot be compressed; Earth-Mars orbital transfer windows open only once every twenty-six months, offering fewer than ten operational flight windows over two decades. Closed-loop biological life support has yet to demonstrate self-sustaining ecological equilibrium without resupply over extended multi-year periods. Furthermore, deploying heavy smelting infrastructure and planetary foundries requires multi-decade capital deployment cycles that cannot be bypassed by software sprints.
+Conversely, insisting that the entire transformation can be completed within fifteen to twenty-five years collides with unyielding environmental friction. The orbital geometry of planetary motion maintains rigid macroscopic invariants indifferent to human haste: Earth-Mars synodic transfer windows open only once every twenty-six months, offering fewer than ten operational flight windows over two decades. Closed-loop biological life support has yet to demonstrate self-sustaining ecological equilibrium without resupply over extended multi-year periods. Furthermore, deploying heavy smelting infrastructure and planetary foundries requires multi-decade capital deployment cycles that cannot be bypassed by software sprints.
 
 ## 六、 第一人称抉择与宏观阻力的涌现本相 / 6. First-Person Choices and the Emergent Nature of Macro Frictions
 
@@ -442,7 +442,7 @@ flowchart TD
     classDef fail fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#f0f6fc;
 
-    subgraph S_CHOICE_ZH ["第一人称微观抉择与宏观规律的生成"]
+    subgraph S_CHOICE_ZH ["第一人称微观抉择与宏观统计的涌现"]
         direction TB
         MIND["个体第一人称微观行动者<br/>工程师下注、监管考量、资本权衡"]:::mind
         ACT["内部自洽的离散抉择"]:::mind
@@ -480,7 +480,7 @@ flowchart TD
     classDef fail fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#f0f6fc;
 
-    subgraph S_CHOICE_EN ["Microscopic Choices and Macro Emergence"]
+    subgraph S_CHOICE_EN ["First-Person Micro Choices and Macro Emergence"]
         direction TB
         MIND["First-Person Living Agents<br/>Engineers, Regulators, Capital Allocators"]:::mind
         ACT["Internally Coherent Discrete Selections"]:::mind
@@ -518,7 +518,7 @@ When millions of independent selections interact, accumulating path dependence a
 
 The final resolution of this inquiry rests upon distinguishing financial claim checks from real productive wealth. As articulated in [Having More Is Never the Cause](../having-more-is-never-the-cause/) and [The Generative Mechanics of Value, Money, and Wealth](../the-generative-mechanics-of-value-money-and-wealth/), a corporation's market capitalization is merely a legal claim check on anticipated future dividends and economic rents. Regardless of how astronomical paper equity values appear, financial valuations cannot be consumed directly.
 
-真实的财富，从来不是资产负债表上的账面溢价，而是人类能够实际调动与享受的物理生产力总和。它是廉价充沛的清洁能源、全域覆盖的高速互联、摆脱地表生态破坏的矿产供给、在轨部署的高效算力矩阵，以及生命在广袤宇宙中开拓出的全新生存空间。正如约翰·洛克菲勒留给文明的真正遗产，绝非他个人曾占美国国内生产总值百分之二的财富峰值，而是煤油价格的大幅回落让千家万户得以在黑夜中点亮灯火；太空开拓的深远价值，也绝非某一家商业航天企业的股票价格。
+真实的财富，从来不是资产负债表上的账面溢价，也非孤立漂浮在太空中的死寂原子，而是生命心智能够实际调动以抵御熵增、延展生存与创造体验的有效能力总和。它是廉价充沛的清洁能源、全域覆盖的高速互联、摆脱地表生态破坏的矿产供给、在轨部署的高效算力矩阵，以及生命在广袤宇宙中开拓出的全新生存空间。正如约翰·洛克菲勒留给文明的真正遗产，绝非他个人曾占美国国内生产总值百分之二的财富峰值，而是煤油价格的大幅回落让千家万户得以在黑夜中点亮灯火；太空开拓的深远价值，也绝非某一家商业航天企业的股票价格。
 
 ```mermaid
 flowchart TD
@@ -533,7 +533,7 @@ flowchart TD
         EQUITY["企业市值：针对未来预期现金流与经济地租的纸面凭证"]:::warn
     end
 
-    subgraph S_REAL_ZH ["文明真实财富（物理生产力）"]
+    subgraph S_REAL_ZH ["文明真实财富（抗熵与拓展生存的实体能力）"]
         direction TB
         WEALTH["恒星能源丰沛供给 + 跨星际生存空间 + 摆脱地表生态承载束缚"]:::mind
     end
@@ -551,7 +551,7 @@ flowchart TD
     style S_DESTINY_ZH fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
 ```
 
-Real wealth is not a paper multiple recorded on balance sheets, but the physical abundance that humanity can produce, distribute, and access. It consists of energy abundance, resilient high-speed communications, raw minerals extracted without ecological destruction, off-world computational capacity, and expanded living space across the cosmos. Just as John D. Rockefeller's authentic historical legacy was not his peak 2 percent share of United States GDP, but the fact that affordable kerosene illuminated ordinary homes across the continent, the real wealth of the space frontier will never reside in the stock ticker of an aerospace enterprise.
+Real wealth is not a paper multiple recorded on balance sheets, nor is it dead matter floating in the cosmic void; it is the realized capacity of living minds to counter entropy, expand life, and sustain conscious flourishing through physical interactions. It consists of energy abundance, resilient high-speed communications, raw minerals extracted without ecological destruction, off-world computational capacity, and expanded living space across the cosmos. Just as John D. Rockefeller's authentic historical legacy was not his peak 2 percent share of United States GDP, but the fact that affordable kerosene illuminated ordinary homes across the continent, the real wealth of the space frontier will never reside in the stock ticker of an aerospace enterprise.
 
 ```mermaid
 flowchart TD
@@ -566,7 +566,7 @@ flowchart TD
         EQUITY["Corporate Capitalization: Paper Claims on Future Rents"]:::warn
     end
 
-    subgraph S_REAL_EN ["Civilizational Real Wealth (Physical Capacity)"]
+    subgraph S_REAL_EN ["Civilizational Real Wealth (Anti-Entropic Capacity)"]
         direction TB
         WEALTH["Stellar Energy Abundance + Expanded Living Volumes + Biosphere Relief"]:::mind
     end
