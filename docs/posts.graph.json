@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-09T06:08:51.246Z",
+    "generated_at": "2026-10-09T06:27:29.585Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -287,7 +287,7 @@
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "f89cd9fc108e",
       "content/posts/the-mirror-handshake-of-power.md": "56567ab67520",
       "content/posts/the-misallocation-of-agency.md": "d69ef11bb4b8",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "cb70e7c9488f",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "be8e9087d341",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "67c15f066b11",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "06673522a545",
@@ -347,7 +347,7 @@
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "46e3f6710799",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
-      "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2bb1ffe04b8b",
+      "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e2205554d0d",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "cbb71d477624",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
@@ -390,7 +390,7 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "fea3d7fcc04d",
       "content/book/economics.md": "f6b9c8b73d60",
-      "content/book/index-of-premises.md": "cc0fdbc1be74",
+      "content/book/index-of-premises.md": "776383cdfc49",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -406,14 +406,14 @@
     },
     "stats": {
       "posts": 379,
-      "edges": 5180,
-      "unique_directed": 4376,
+      "edges": 5183,
+      "unique_directed": 4378,
       "missing_targets": 0,
       "one_way": 32,
       "isolated": 39,
       "posts_with_outbound": 340,
       "book_pages": 16,
-      "book_edges": 932,
+      "book_edges": 934,
       "posts_reached_by_book": 379
     }
   },
@@ -444,7 +444,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 43
+      "in_degree": 44
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -526,7 +526,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "out_degree": 44
+      "out_degree": 45
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -7174,9 +7174,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
-      "hash": "cb70e7c9488f",
-      "in_degree": 43,
-      "out_degree": 44,
+      "hash": "be8e9087d341",
+      "in_degree": 44,
+      "out_degree": 45,
       "links_out": [
         "the-category-error-of-better",
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -7221,6 +7221,7 @@
         "the-residue-and-the-free-variable",
         "the-three-shadows-of-the-cut",
         "the-inversion-of-reading-and-the-order-of-inference",
+        "the-walking-tangent-and-the-stumbling-sphere",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere"
       ]
     },
@@ -8631,9 +8632,9 @@
       "slug": "the-walking-tangent-and-the-stumbling-sphere",
       "path": "content/posts/the-walking-tangent-and-the-stumbling-sphere.md",
       "title": "切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere",
-      "hash": "2bb1ffe04b8b",
-      "in_degree": 2,
-      "out_degree": 7,
+      "hash": "2e2205554d0d",
+      "in_degree": 3,
+      "out_degree": 8,
       "links_out": [
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
         "the-mind-as-vector-and-coordinate-system",
@@ -8641,6 +8642,7 @@
         "no-genius-can-solve-the-knowledge-problem",
         "the-closed-n-and-the-open-reality",
         "po-chu-gai-nian-de-jian-yue",
+        "the-model-never-becomes-a-second-edge",
         "the-geometry-of-success"
       ]
     },
@@ -32493,6 +32495,12 @@
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-walking-tangent-and-the-stumbling-sphere",
+      "rel": "points_to",
+      "label": "The Walking Tangent and the Stumbling Sphere"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
       "label": "Causality is Irreducible; The Physical is a View from Nowhere"
@@ -37821,6 +37829,18 @@
     },
     {
       "from": "the-walking-tangent-and-the-stumbling-sphere",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-walking-tangent-and-the-stumbling-sphere",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-walking-tangent-and-the-stumbling-sphere",
       "to": "the-geometry-of-success",
       "rel": "points_to",
       "label": "成功的几何学：有限游戏陷阱"
@@ -40627,7 +40647,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "cc0fdbc1be74",
+        "hash": "776383cdfc49",
         "out_degree": 379
       },
       {
@@ -44609,6 +44629,18 @@
         "to": "the-walking-tangent-and-the-stumbling-sphere",
         "rel": "collects",
         "label": "切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-walking-tangent-and-the-stumbling-sphere",
+        "rel": "collects",
+        "label": "切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-model-never-becomes-a-second-edge",
+        "rel": "collects",
+        "label": "The Model Never Becomes a Second Edge"
       },
       {
         "from": "book:intelligence",
