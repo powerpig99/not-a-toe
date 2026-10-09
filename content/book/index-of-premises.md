@@ -4709,3 +4709,12 @@ The critic faults others for ideological visions unconstrained by physical feedb
 Its premise decomposes the operational domain into infinitesimal local linear manifolds, refreshing coordinates against physical resistance; while failing across macro-horizons where topological phase shifts accumulate, it provides a remarkably robust mechanism to extinguish cumulative dead-reckoning drift in adaptive micro-action.
 
 → [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/)
+
+### 几何模型的尺度适用域 / Domains of Geometric Model Validity
+`科学 / Scientific`
+
+其前设假定在宏观场景中适用范围更广的几何模型在微观局部交互中同样更为准确；这一模型极大地拓展了洲际航行与航天测算的有效作用域，但平面与球面皆是不符合粗糙现实的人造近似，非要将球面强加于日常微观尺度反而造成了不必要的认知错位。
+
+Its premise assumes that a geometric model boasting a broader domain of macroscopic utility is inherently more accurate within localized micro-interactions; while peerless in extending functional scope across intercontinental navigation and aerospace dynamics, both planes and spheres remain human approximations divergent from coarse reality, making the dogmatic imposition of a sphere onto immediate everyday ground an operational error.
+
+→ [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/)

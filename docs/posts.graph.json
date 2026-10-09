@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-09T06:01:27.330Z",
+    "generated_at": "2026-10-09T06:08:51.246Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -347,7 +347,7 @@
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "46e3f6710799",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
-      "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "cc3999109cc2",
+      "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2bb1ffe04b8b",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "cbb71d477624",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
@@ -390,7 +390,7 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "fea3d7fcc04d",
       "content/book/economics.md": "f6b9c8b73d60",
-      "content/book/index-of-premises.md": "da2ba3c63f25",
+      "content/book/index-of-premises.md": "cc0fdbc1be74",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -413,7 +413,7 @@
       "isolated": 39,
       "posts_with_outbound": 340,
       "book_pages": 16,
-      "book_edges": 931,
+      "book_edges": 932,
       "posts_reached_by_book": 379
     }
   },
@@ -8631,7 +8631,7 @@
       "slug": "the-walking-tangent-and-the-stumbling-sphere",
       "path": "content/posts/the-walking-tangent-and-the-stumbling-sphere.md",
       "title": "切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere",
-      "hash": "cc3999109cc2",
+      "hash": "2bb1ffe04b8b",
       "in_degree": 2,
       "out_degree": 7,
       "links_out": [
@@ -40627,7 +40627,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "da2ba3c63f25",
+        "hash": "cc0fdbc1be74",
         "out_degree": 379
       },
       {
@@ -44597,6 +44597,12 @@
         "to": "the-unexamined-critic",
         "rel": "collects",
         "label": "未经自我审视的批判者 / The Unexamined Critic"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-walking-tangent-and-the-stumbling-sphere",
+        "rel": "collects",
+        "label": "切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere"
       },
       {
         "from": "book:index-of-premises",
