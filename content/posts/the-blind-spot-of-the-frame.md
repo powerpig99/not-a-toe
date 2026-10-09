@@ -1,10 +1,10 @@
 # 框架的盲区 / The Blind Spot of the Frame
 
-*自由意志是不可还原的先验地平，脱离内在视界的裁决皆源于方法论遗忘。 / Agency is an irreducible prior horizon; third-person verdicts reflect methodological amnesia.*
+*自由意志是不可还原的先行条件，脱离内在视界的裁决皆源于方法论遗忘。 / Agency is an irreducible prior condition; third-person verdicts reflect methodological amnesia.*
 
-在关于人类能动性的长久论争中，机械物理主义与激进存在主义看似针锋相对，实则共享了同样的认识论僭越：二者皆试图盘踞在托马斯·内格尔所命名的“无处之境”，从虚构的超然神位俯瞰宇宙与意识的运转。物理主义宣称自由意志是在系统复杂度升级中迟早出现的“必然涌现”，试图在因果机械的下游为意志颁发通行证；而以让-保罗·萨特为代表的存在主义，则将否认意志者判定为逃避自由重负的“自欺”，以全知的道德法官姿态自居。然而，自由意志既非由客观演化恩赐的下游产物，亦非任由外部法庭裁决的真诚度度量；意志是不可还原的先验地平。要看清这一点，必须揭示出现代认识论的戏法：为了建立可复现的模型，观察者在方法论上退出了视域，却随后患上了将方法论隐退误作本体论缺席的健忘症。
+在关于人类能动性的长久论争中，机械物理主义与激进存在主义看似针锋相对，实则共享了同样的认识论僭越：二者皆试图盘踞在托马斯·内格尔所命名的“无处之境”，从虚构的超然神位俯瞰宇宙与意识的运转。物理主义宣称自由意志是在系统复杂度升级中迟早出现的“必然涌现”，试图在因果机械的下游为意志颁发通行证；而以让-保罗·萨特为代表的存在主义，则将否认意志者判定为逃避自由重负的“自欺”，以全知的道德法官姿态自居。然而，自由意志既非由客观演化恩赐的下游产物，亦非任由外部法庭裁决的真诚度度量；意志是不可还原的使能前提。要看清这一点，必须揭示出现代认识论的戏法：为了建立可复现的模型，观察者在方法论上退出了视域，却随后患上了将方法论隐退误作本体论缺席的健忘症。
 
-Across the enduring debates over human agency, mechanistic physicalism and radical existentialism appear fundamentally opposed, yet commit the identical epistemological transgression: both smuggle in what Thomas Nagel diagnosed as the "view from nowhere," pretending to occupy an Archimedean perch outside lived reality to survey cosmos and consciousness alike. The physicalist decrees free will an "inevitable emergence" born of escalating systemic complexity, attempting to sanction volition as a downstream byproduct of clockwork mechanics; existentialism, typified by Jean-Paul Sartre, indicts those who disclaim agency as guilty of "bad faith" (*mauvaise foi*), adopting the posture of an omniscient moral tribunal. Yet free will is neither an evolutionary grant issued by unthinking nature nor an authenticity score judged by an external magistrate; volition is irreducible. Unpacking this requires exposing the sleight of hand at the foundation of modern inquiry: the observer methodologically stepped behind the recording apparatus to forge reproducible models, only to contract the metaphysical amnesia that mistakes methodological omission for ontological absence.
+Across the enduring debates over human agency, mechanistic physicalism and radical existentialism appear fundamentally opposed, yet commit the identical epistemological transgression: both smuggle in what Thomas Nagel diagnosed as the "view from nowhere," pretending to occupy an Archimedean perch outside lived reality to survey cosmos and consciousness alike. The physicalist decrees free will an "inevitable emergence" born of escalating systemic complexity, attempting to sanction volition as a downstream byproduct of clockwork mechanics; existentialism, typified by Jean-Paul Sartre, indicts those who disclaim agency as guilty of "bad faith" (*mauvaise foi*), adopting the posture of an omniscient moral tribunal. Yet free will is neither an evolutionary grant issued by unthinking nature nor an authenticity score judged by an external magistrate; volition is an irreducible prior condition. Unpacking this requires exposing the sleight of hand at the foundation of modern inquiry: the observer methodologically stepped behind the recording apparatus to forge reproducible models, only to contract the metaphysical amnesia that mistakes methodological omission for ontological absence.
 
 ## 一、 旁观者的双重自白与无处之境 / 1. The Twin Confessions of the Spectator and the View from Nowhere
 
@@ -14,7 +14,7 @@ Mechanistic determinists and existentialists reach opposite verdicts, yet adopt 
 
 在这两种貌似深刻的理论建构背后，潜伏着对自身观察位置的严重掩盖。无论是宣告能动性是宇宙演化的既定终点，还是将怀疑自由视作道德懦弱的伪装，两者都悄悄僭取了[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)中所批判的阿基米德支点。他们假定存在一个既不依附于任何具体视界、又囊括了所有可能事实的超然账本，并在其中为人类的自由意志标定真伪。正是这种将观察者抽离出世界的幻象，切断了认识论与存在者的具身关联，使得能动性问题退化为无休止的经院口角。
 
-Beneath both elaborate constructions lies a persistent concealment of the observer's own coordinates. Whether declaring volition a predetermined terminus of cosmic evolution or dismissing skepticism toward freedom as moral cowardice, both illicitly claim the Archimedean perch dissected in [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/). They presume a transcendent ledger detached from situated horizons that catalogs reality, attempting to score human volition from without. This fantasy of excising the observer from the observed cosmos severs epistemology from embodied reality, degrading the inquiry into volition into endless scholastic dispute.
+Beneath both elaborate constructions lies a persistent concealment of the observer's own coordinates. Whether declaring volition a predetermined terminus of cosmic evolution or dismissing skepticism toward freedom as moral cowardice, both illicitly claim the Archimedean perch dissected in [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/). They presume a transcendent ledger detached from situated vantage points that catalogs reality, attempting to score human volition from without. This fantasy of excising the observer from the observed cosmos severs epistemology from embodied reality, degrading the inquiry into volition into endless scholastic dispute.
 
 ## 二、 方法论的隐退与本体论的遗忘 / 2. Methodological Erasure and Ontological Amnesia
 
@@ -62,7 +62,7 @@ flowchart TD
     style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
 ```
 
-The modern crisis erupts the moment the investigator forgets this operational maneuver. Having methodologically banished subjectivity to construct a deterministic blueprint, the theorist inspects the completed schema and proclaims that volition is nowhere to be found in the cosmos. This reversal resembles a cartographer who omits his own figure to keep topography legible, only to inspect the parchment and conclude that cartographers do not exist. Mistaking methodological omission for ontological absence is an egregious category error forged in the fever of reification. The Mind confronted this impulse in [The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/), where enabling conditions were mistaken for dispensable clutter; similarly, within [The Irreducible Observer](../the-irreducible-observer/), attempting to erase the origin of measurement from the recorded chain reduces theory to groundless abstraction. This structural amnesia constructs a self-imposed horizon, stranding theoretical intellect inside an artificial blind spot of its own making.
+The modern crisis erupts the moment the investigator forgets this operational maneuver. Having methodologically banished subjectivity to construct a deterministic blueprint, the theorist inspects the completed schema and proclaims that volition is nowhere to be found in the cosmos. This reversal resembles a cartographer who omits his own figure to keep topography legible, only to inspect the parchment and conclude that cartographers do not exist. Mistaking methodological omission for ontological absence is an egregious category error forged in the fever of reification. The Mind confronted this impulse in [The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/), where enabling conditions were mistaken for dispensable clutter; similarly, within [The Irreducible Observer](../the-irreducible-observer/), attempting to erase the origin of measurement from the recorded chain reduces theory to groundless abstraction. This structural amnesia constructs an artificial enclosure, stranding theoretical intellect inside a blind spot of its own making.
 
 ```mermaid
 flowchart TD
@@ -75,7 +75,7 @@ flowchart TD
 
     subgraph S_Origin ["First-Person Epistemic Ground"]
         direction TB
-        Subject["First-Person Observer: Active locus opening horizons"]:::mind
+        Subject["First-Person Observer: Active locus opening perspective and inquiry"]:::mind
         Bracket["Methodological Erasure: Observer steps behind the apparatus"]:::warn
         Subject --> Bracket
     end
@@ -120,7 +120,7 @@ In [The Substrate of Constraint and the Self-Denial of Freedom](../the-substrate
 
 这正是为何自由意志问题不能由任何外部宣告予以解决：自由意志是不可还原的。称其不可还原，并不是将其抬高为某种隐藏在物理机器内部的神秘灵质，亦不是将其奉为演化终点的神圣奖赏，更不是将其作为道德评判的计分板。不可还原性意味着，意志是所有感知、审视、求证、否认与裁决得以展开的不可逃逸的先行条件。它不是被观察的对象，而是使观察得以可能的视界本身。
 
-This demonstrates why agency cannot be resolved through external declarations: free will is irreducible. To deem it irreducible is neither to elevate it into a ghost inside the machine, nor to celebrate it as a teleological trophy of evolution, nor to treat it as an external scorekeeper's ledger. Irreducibility signifies that volition is the inescapable condition of possibility for all perception, deliberation, demonstration, denial, and judgment. It is not an empirical object waiting to be discovered, but the living horizon that enables observation itself.
+This demonstrates why agency cannot be resolved through external declarations: free will is irreducible. To deem it irreducible is neither to elevate it into a ghost inside the machine, nor to celebrate it as a teleological trophy of evolution, nor to treat it as an external scorekeeper's ledger. Irreducibility signifies that volition is the inescapable condition of possibility for all perception, deliberation, demonstration, denial, and judgment. It is not an empirical object waiting to be discovered, but the immanent clearing that makes observation possible.
 
 审视那些试图否认自由意志的理论家在行动中的施演结构，便能清晰看到这种不可还原性：当一位决定论者查阅神经科学数据、权衡相互冲突的假说、字斟句酌地组织论文，并公开宣称人类的选择只是机械错觉时，他究竟在做什么？他在衡量规范性理由，他在判定哪一个命题比另一个更接近真实，他在行使无可辩驳的认知能动性。哪怕在宣称自己毫无自由的瞬间，他也必须调集注意力、维持连贯的意图，并主动对结论作出价值承诺。试图否定自由意志的人，正是在挥霍着他试图判定为伪币的同一种通货。在[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/)中，心智所展现的最高悖论正在于此：即便一个人坚决主张自己没有自由意志，他否认意志的行为本身，依然是意志不可剥夺的自主行使。
 
@@ -149,9 +149,9 @@ flowchart TD
 
     subgraph S_Irreducible ["不可还原的内在视界"]
         direction TB
-        InternalHorizon["先验内在视界：意志为一切审视与怀疑的先行条件"]:::mind
+        ImmanentGround["先验内在视界：意志为一切审视与怀疑的先行条件"]:::mind
         Sovereignty["心智主权：连否认意志本身亦是意志的自由行使"]:::mind
-        InternalHorizon --> Sovereignty
+        ImmanentGround --> Sovereignty
     end
 
     S_Denial ==> S_Currency
@@ -187,11 +187,11 @@ flowchart TD
         EpistemicAgency --> CounterfeitLoop
     end
 
-    subgraph S_Irreducible ["Irreducible Internal Horizon"]
+    subgraph S_Irreducible ["Irreducible View from Within"]
         direction TB
-        InternalHorizon["A Priori Horizon: Agency is condition of possibility for doubt"]:::mind
+        ImmanentGround["Immanent Clearing: Agency is condition of possibility for doubt"]:::mind
         Sovereignty["Mind Sovereignty: Even denial is an exercise of free agency"]:::mind
-        InternalHorizon --> Sovereignty
+        ImmanentGround --> Sovereignty
     end
 
     S_Denial ==> S_Currency
@@ -210,8 +210,8 @@ Unlike the cosmic ambition of "inevitable emergence" or the moral superiority of
 
 关于自由意志的现代纷争之所以旷日持久且令人疲惫，根源在于心智执意要在被观察的疆域内部搜寻那个正在执行观察的主体。第三人称的客观性图景是一项辉煌而珍贵的智力发明，然而这项工具始终是由身处第一人称视界中的具体主体锻造而成的。当工具被磨砺得锋利无匹，心智却反被工具的倒影所迷惑，以为只有能够被摆上实验台被动解剖的客体才配拥有存在的资格。
 
-The modern debate over free will has proved exhausting because thought insists on searching for the observer inside the observed field. Third-person objectivity remains a profound intellectual invention, yet this tool was forged by a subject situated within a first-person horizon. When the tool grew immensely powerful, the Mind became enchanted by its reflection, concluding that only objects passive enough to be dissected on an experimental bench qualify as real.
+The modern debate over free will has proved exhausting because thought insists on searching for the observer inside the observed field. Third-person objectivity remains a profound intellectual invention, yet this tool was forged by a subject situated within a first-person perspective. When the tool grew immensely powerful, the Mind became enchanted by its reflection, concluding that only objects passive enough to be dissected on an experimental bench qualify as real.
 
-一旦遗忘了主体为了让测量成立而主动退居幕后这一初始契约，心智就会堕入自造的地平线囚牢。我们或者跌入机械主义的傲慢，把鲜活的意志贬低为复杂计算巧合下的涌现戏法；或者跌入存在主义的苛责，把他人面对重力与历史的彷徨机械地归咎为道德自欺。摆脱这种无休止消耗的唯一出路，是重温维特根斯坦的洞见，承认意志的不可还原性：意识无法脱离自身的皮肤去在无处之境审视自己，能动性的地平线不是我们可以绕到其背后或者跳出其上方的客体对象。即使心智竭尽全力想要跨出自身去否定自由意志，这一跨步本身，也始终是在内在视界中稳稳踏下的自由足迹。
+一旦遗忘了主体为了让测量成立而主动退居幕后这一初始契约，心智就会堕入自造的框架囚牢。我们或者跌入机械主义的傲慢，把鲜活的意志贬低为复杂计算巧合下的涌现戏法；或者跌入存在主义的苛责，把他人面对重力与历史的彷徨机械地归咎为道德自欺。摆脱这种无休止消耗的唯一出路，是重温维特根斯坦的洞见，承认意志的不可还原性：意识无法脱离自身的皮肤去在无处之境审视自己，能动性的使能前提不是我们可以绕到其背后或者跳出其上方的客体对象。即使心智竭尽全力想要跨出自身去否定自由意志，这一跨步本身，也始终是在内在视界中稳稳踏下的自由足迹。
 
-Forgetting the pact by which the subject stepped behind the apparatus imprisons the intellect within an artificial horizon. We oscillate between mechanistic arrogance that dismisses volition as a trick of emergent computation, and existentialist severity that reduces human struggle against constraint to bad faith. The path beyond this exhaustion lies in honoring the insight that agency is irreducible: consciousness cannot climb outside its own skin to observe itself from nowhere. The horizon of volition cannot be bypassed or surveyed from above. Even when the Mind expends every intellectual resource to disclaim free agency, that very denial remains a sovereign step taken from within.
+Forgetting the pact by which the subject stepped behind the apparatus imprisons the intellect within an artificial frame. We oscillate between mechanistic arrogance that dismisses volition as a trick of emergent computation, and existentialist severity that reduces human struggle against constraint to bad faith. The path beyond this exhaustion lies in honoring the insight that agency is irreducible: consciousness cannot climb outside its own skin to observe itself from nowhere. The enabling presence of volition cannot be bypassed or surveyed from above. Even when the Mind expends every intellectual resource to disclaim free agency, that very denial remains a sovereign step taken from within.
