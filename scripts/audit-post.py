@@ -17,7 +17,7 @@ Checks:
   5. Relative internal cross-links resolution (all ../slug/ exist; no absolute URLs)
   6. Banned words & essentialist cliches (0 tolerance for cognitive crutches)
   7. LaTeX syntax prohibition (0 raw $ or $$; Unicode math only)
-  8. Walkthrough structure (canonical live URL header, cover embed, Mermaid inventory, cuts, clean prompt code block)
+  8. Walkthrough structure & Spotify show notes (canonical live URL header, cover embed, Mermaid inventory, cuts, clean prompt code block, Spotify ZH & EN notes)
   9. Companion NotebookLM prompt (Audio Dialogue canonical opening and concise bounds: 2-4 opening turns, < 8.5KB)
   10. Mandatory companion cover art (assets/covers/<slug>.(jpg|png|webp) present, non-empty, and registered in STYLES.md)
 
@@ -42,6 +42,8 @@ BANNED_WORDS = [
 
 REQUIRED_WALKTHROUGH_SECTIONS = [
     ('Companion NotebookLM Prompt (Audio Dialogue)', ['Companion NotebookLM Prompt', 'Companion NotebookLM Prompts', 'NotebookLM Prompt', 'NotebookLM Prompts', 'Audio Dialogue', '语音对话']),
+    ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
+    ('Spotify Podcast (EN)', ['Spotify Podcast (EN)', 'Spotify 播客（英文）']),
 ]
 
 def get_image_size(file_path):
@@ -597,6 +599,48 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                     errors.append(f"Walkthrough Companion NotebookLM Prompt missing prompt text enclosed in one-click copiable fenced code block. Rule: Prompt text must be provided as a complete copiable block.")
                 else:
                     passes.append("Walkthrough Companion NotebookLM prompt one-click copiable code block check (Audio Dialogue prompt block present)")
+
+            # Verify that Spotify Podcast Show Notes (ZH & EN) are present, enclosed in fenced code blocks, and contain canonical URL
+            spotify_sections = [
+                ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
+                ('Spotify Podcast (EN)', ['Spotify Podcast (EN)', 'Spotify 播客（英文）']),
+            ]
+            missing_url_spotify = []
+            missing_code_block_spotify = []
+            for name, patterns in spotify_sections:
+                found_pos = -1
+                for pat in patterns:
+                    pos = w_content.find(pat)
+                    if pos != -1:
+                        found_pos = pos
+                        break
+                if found_pos != -1:
+                    next_header = re.search(r'\n#{2,3}\s+', w_content[found_pos + 10:])
+                    end_pos = (found_pos + 10 + next_header.start()) if next_header else len(w_content)
+                    sec_text = w_content[found_pos:end_pos]
+                    if expected_canonical_url not in sec_text:
+                        missing_url_spotify.append(name)
+                    if not re.search(r'```(?:[a-zA-Z0-9_-]+)?\s*\n.*?\n```', sec_text, re.DOTALL):
+                        missing_code_block_spotify.append(name)
+
+            if missing_url_spotify:
+                errors.append(f"Walkthrough Spotify podcast show notes missing exact canonical live link ({expected_canonical_url}): {missing_url_spotify}. Must use exact URL with trailing slash.")
+            elif missing_code_block_spotify:
+                errors.append(f"Walkthrough Spotify podcast show notes missing one-click copiable fenced code block (```text ... ```): {missing_code_block_spotify}.")
+            else:
+                passes.append("Walkthrough Spotify Podcast Show Notes check (ZH & EN present, canonical URL included, fenced code blocks verified)")
+
+            # Banned words check in Chinese Spotify show notes
+            zh_pos = w_content.find('Spotify Podcast (ZH)')
+            if zh_pos == -1:
+                zh_pos = w_content.find('Spotify 播客（中文）')
+            if zh_pos != -1:
+                next_header = re.search(r'\n#{2,3}\s+', w_content[zh_pos + 10:])
+                end_pos = (zh_pos + 10 + next_header.start()) if next_header else len(w_content)
+                sec_text = w_content[zh_pos:end_pos]
+                banned_in_spotify = [w for w in BANNED_WORDS if w in sec_text]
+                if banned_in_spotify:
+                    errors.append(f"Banned words detected in Walkthrough Spotify Podcast (ZH): {banned_in_spotify}")
 
             # Strictly prohibit any fake/hallucinated domain in walkthrough
             fake_walkthrough_domains = re.findall(r'https?://(?:www\.)?not-?a-?toe\.(?:org|com|net|io|ai|xyz)', w_content, re.IGNORECASE)

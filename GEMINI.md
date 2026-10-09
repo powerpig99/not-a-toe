@@ -81,7 +81,7 @@ Located in `notebooklm-auto/prompts/`:
   2. `### [核心议题清单]` (Structured topic outline).
   3. `### [正文对谈开场示例]` (Strictly an **opening dialogue sample** of 2–4 concise turns, **NOT a full episode script or transcript dump**. Sized < 8.5 KB, typically 3–6 KB, 25–45 lines. Must begin with the canonical opening delivered by 明理: `大家好，欢迎来到非万物之理（Not a Theory of Everything）。`—providing the standard bilingual reference to the core term in both languages—summarizing that any theory is scaffolding, first-person perspective and causality are two sides of the same coin, neither closing the universe nor reactive rebellion, and stepping into living friction; followed by 雨涵's natural transition into the essay's core tension and 1–2 grounding turns, leaving NotebookLM to generate the rest of the dynamic discussion naturally from the topic checklist).
   *Rule*: The canonical opening (`大家好，欢迎来到非万物之理（Not a Theory of Everything）。`) on causality and first-person perspective is refined based on the new analysis of each essay, but NEVER deleted or omitted. The opening sample must strictly stay within 2–4 dialogue turns to avoid prompt bloat.
-- **Video Monologue & Multi-Platform Copies Retired**: Video monologue prompts (`<slug>_video_zh.txt`) and multi-platform promotional copies (Spotify, WeChat Video Channels, X/Twitter) are no longer needed going forward. The authoring workflow focuses strictly on the core essay, cover art, and the NotebookLM Audio Dialogue prompt.
+- **Video Monologue & Social Copies Retired**: Video monologue prompts (`<slug>_video_zh.txt`) and social promotional copies (WeChat Video Channels, X/Twitter) are no longer needed going forward.
 - **Rules**: Zero links (no markdown or HTML URLs), zero banned words, zero raw `$` symbols, prompt strictly concise (< 8.5 KB, 2–4 opening turns).
 
 ### 4. Walkthrough Document (`walkthrough.md`)
@@ -93,7 +93,8 @@ Stored in the active conversation artifact directory, structured as:
 2. Mermaid diagram inventory with semantic color rationale.
 3. Core epistemological cuts & argument architecture.
 4. Verification & invariant diagnostic check results.
-5. **Companion NotebookLM Prompt (Chinese Only, Link-Free)**: File link and full prompt text for Audio Dialogue enclosed in a dedicated one-click copiable fenced code block (` ```text `) so the operator can copy the ready-to-run prompt with a single click. (Note: Video monologue prompt and multi-platform publishing copies are retired and omitted by default).
+5. **Companion NotebookLM Prompt (Chinese Only, Link-Free)**: File link and full prompt text for Audio Dialogue enclosed in a dedicated one-click copiable fenced code block (` ```text `) so the operator can copy the ready-to-run prompt with a single click. (Note: Video monologue prompt is retired).
+6. **Podcast (Spotify) Show Notes (ZH & EN)**: Title and description for Spotify Podcasts in both Chinese and English, each enclosed in a dedicated one-click copiable fenced code block (` ```text `), with the exact canonical live URL (`https://powerpig99.github.io/not-a-toe/posts/<slug>/`) at the end. Strictly zero banned words in Chinese text. (Note: WeChat Video Channels and X/Twitter copies are retired).
 
 ### 5. Bidirectional Reverse Linking & Content Refinement (双向反向链接与语境织网)
 - **Dense Cognitive Lattice**: An essay is never an isolated leaf node. Identify key upstream and conceptually adjacent essays referenced by the new post.
