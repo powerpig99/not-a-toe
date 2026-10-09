@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-09T12:00:29.049Z",
+    "generated_at": "2026-10-09T16:15:52.287Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -117,7 +117,7 @@
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "ef157cded87e",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "53c60102f364",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "ac0fdb212b18",
       "content/posts/moral-language-as-projection.md": "bd8b0ba87059",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "c4d685ab1ad2",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
@@ -392,7 +392,7 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "a6afb52c4b4b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "b2a549f4c2db",
+      "content/book/index-of-premises.md": "86f5b8791471",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -408,14 +408,14 @@
     },
     "stats": {
       "posts": 381,
-      "edges": 5215,
-      "unique_directed": 4394,
+      "edges": 5216,
+      "unique_directed": 4395,
       "missing_targets": 0,
-      "one_way": 40,
-      "isolated": 39,
+      "one_way": 41,
+      "isolated": 38,
       "posts_with_outbound": 342,
       "book_pages": 16,
-      "book_edges": 942,
+      "book_edges": 944,
       "posts_reached_by_book": 381
     }
   },
@@ -556,7 +556,7 @@
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
-      "out_degree": 33
+      "out_degree": 34
     },
     {
       "slug": "a-creation-cannot-replace-its-source",
@@ -617,7 +617,6 @@
     "the-illusion-of-distance-and-the-dual-ruler",
     "the-interesting-case-of-rubin",
     "the-loop-accelerates",
-    "the-loop-that-cant-see-itself",
     "the-maintenance-paradox",
     "the-strategy-that-wasnt",
     "the-tightening-loop",
@@ -3251,9 +3250,9 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
-      "hash": "53c60102f364",
+      "hash": "ac0fdb212b18",
       "in_degree": 33,
-      "out_degree": 33,
+      "out_degree": 34,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "the-unobservable-driver-of-learning",
@@ -3273,6 +3272,7 @@
         "the-model-never-becomes-a-second-edge",
         "causality-stays-at-the-edge-that-steers",
         "the-fixed-image-of-transcendence",
+        "the-loop-that-cant-see-itself",
         "self-rl-for-humans",
         "the-flywheel-of-the-mind",
         "cheng-gong-xue",
@@ -6996,7 +6996,7 @@
       "path": "content/posts/the-loop-that-cant-see-itself.md",
       "title": "The Loop That Can't See Itself",
       "hash": "9b03258725d1",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 0,
       "links_out": []
     },
@@ -18554,6 +18554,12 @@
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
       "label": "The Fixed Image of Transcendence"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-loop-that-cant-see-itself",
+      "rel": "points_to",
+      "label": "The loop that can't see itself"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -40881,7 +40887,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b2a549f4c2db",
+        "hash": "86f5b8791471",
         "out_degree": 381
       },
       {
@@ -42775,6 +42781,18 @@
         "to": "the-defining-seat",
         "rel": "collects",
         "label": "The Defining Seat"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "mistaking-the-expression-for-the-intelligence",
+        "rel": "collects",
+        "label": "Mistaking the Expression for the Intelligence"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "intelligence-belongs-only-to-the-mind",
+        "rel": "collects",
+        "label": "Intelligence Belongs Only to The Mind - The Irreducible Prior"
       },
       {
         "from": "book:index-of-premises",
