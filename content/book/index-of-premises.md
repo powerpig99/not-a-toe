@@ -4438,7 +4438,7 @@ System-builders believe an ontology can describe the universe including the onto
 
 Theoretical physics presumes equations describe the cosmos from a detached, sourceless perspective; every physical measurement depends upon an embodied observer situated at a concrete point.
 
-→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/)
+→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/)
 
 ### 世界是幻觉 / The World as Illusion
 `哲学 / Philosophical`
@@ -4754,3 +4754,21 @@ Its premise assumes that a geometric model boasting a broader domain of macrosco
 Its premise assumes that a static, standalone reality exists independently beyond first-person perception waiting for theories to discover; it obscures the fact that physics is merely the macroscopic observable phenomenon produced when cognitive models experience friction against perception, conflating human interpretation with an unverifiable ontology.
 
 → [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/) · [The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/)
+ 
+### 冯·诺依曼割点 / The von Neumann Cut
+`科学 / Scientific`
+
+假定量子测量中的割点可以通过扩展波函数或引入更精细的物理介质而最终被消除；在具体实验中移动割点保持预测不变，但抹去割点则消解了任何确切的宏观测量事实。
+
+Presumes the cut in quantum measurement can ultimately be eliminated by extending the wave function or adding finer physical substrates; moving the cut preserves experimental predictions, yet erasing it dissolves the possibility of any definite macroscopic record.
+
+→ [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/)
+
+### 量子诠释图谱 / Cartography of Quantum Interpretations
+`哲学 / Philosophical`
+
+假定通过将自指与过程设定为客观坐标轴，可以在超脱所有视角的元图谱中调和各派量子诠释；为分类现有思想提供了全景坐标，却把绘图者自身推入了悬空的二阶无处之境。
+
+Presumes quantum interpretations can be reconciled within a meta-atlas by treating self-reference and process as objective coordinates; useful as a taxonomic panorama, it suspends the cartographer in an unoccupiable second-order view from nowhere.
+
+→ [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/)

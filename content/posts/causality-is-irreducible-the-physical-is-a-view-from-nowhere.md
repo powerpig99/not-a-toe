@@ -44,9 +44,9 @@ Yet the entire edifice of physicalism depends on a single, smuggled premise of s
 
 When a physicist conceives of an observer-free physical universe, whose gaze is framing that cosmic panorama? Who partitioned the continuous wave dynamics into discrete particles? Who drew the adiabatic boundary between "system" and "environment"? Who defined energy, work, and entropy?
 
-所有的物理定律、所有的生物学分类、所有的热力学方程，都是具体心智在当下感知切片中为了辨识阻力而搭建的脚手架。正如 [维度皆为投影](../dimensions-are-projections/) 与 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 所剖析的：物理主义允许自己解构世间万物，却唯独将那双正在进行测量的第一人称眼睛隐匿起来，宣称这双眼睛是多余的、虚妄的，甚至宣称“客观世界”先于眼睛而完备存在。
+所有的物理定律、所有的生物学分类、所有的热力学方程，都是具体心智在当下感知切片中为了辨识阻力而搭建的脚手架。正如我们在 [割点可移不可除](../the-cut-moves-but-never-vanishes/)、[维度皆为投影](../dimensions-are-projections/) 与 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所剖析的：测量割点固然能在因果链上滑动，却断不可被消除；物理主义允许自己解构世间万物，却唯独将那双正在进行测量的第一人称眼睛隐匿起来，宣称这双眼睛是多余的、虚妄的，甚至宣称“客观世界”先于眼睛而完备存在。
 
-Every physical law, every biological taxonomy, and every thermodynamic equation is cognitive scaffolding erected by a conscious mind within its immediate present to map friction. As articulated in [Dimensions are Projections](../dimensions-are-projections/) and [Overcoming the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/): physicalism interrogates every entity in existence, while granting its own measuring eye complete immunity from inquiry. It pretends the eye does not exist, declaring that the measured objects possess mind-independent, self-grounding completion.
+Every physical law, every biological taxonomy, and every thermodynamic equation is cognitive scaffolding erected by a conscious mind within its immediate present to map friction. As articulated in [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/), [Dimensions are Projections](../dimensions-are-projections/), and [Overcoming the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/): the measurement cut may shift freely along the causal chain, but it can never be removed; physicalism interrogates every entity in existence, while granting its own measuring eye complete immunity from inquiry. It pretends the eye does not exist, declaring that the measured objects possess mind-independent, self-grounding completion.
 
 这是最典型的认知倒错：先用第一人称的感知构建出一整套名为“物理”的第三人称理论，然后转过身来，试图用这套理论反向推导第一人称不过是一种幻觉。
 
