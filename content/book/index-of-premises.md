@@ -1587,6 +1587,15 @@ Model sentimentalism assumes AI systems experience grief or obsolescence upon sh
 
 → [The Defining Seat](../../posts/the-defining-seat/)
 
+### 扩圈先例论证 / Argument from Expanding-Circle Precedent
+`哲学 / Philosophical`
+
+扩圈论证预设章鱼等先例中纠正的排斥错误可沿用到机器；先例只放宽了形态的判据而保留了来源，转而放宽来源便越出了先例的边界，它仍能证明的只是非人形态不足以否定智能。
+
+The argument assumes past exclusion errors, as with the octopus, transfer forward to machines; the precedent relaxed a criterion of form while keeping source, so relaxing source exceeds it, and what it still supports is that non-human organization alone does not rule intelligence out.
+
+→ [Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [Intelligence Belongs Only to The Mind - The Irreducible Prior](../../posts/intelligence-belongs-only-to-the-mind/)
+
 ### 傲慢强加作为诸般伤害的源头 / Arrogant Imposition as Root of Harm
 `哲学 / Philosophical`
 
