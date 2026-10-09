@@ -4718,3 +4718,12 @@ Its premise decomposes the operational domain into infinitesimal local linear ma
 Its premise assumes that a geometric model boasting a broader domain of macroscopic utility is inherently more accurate within localized micro-interactions; while peerless in extending functional scope across intercontinental navigation and aerospace dynamics, both planes and spheres remain human approximations divergent from coarse reality, making the dogmatic imposition of a sphere onto immediate everyday ground an operational error.
 
 → [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/)
+
+### 静止现实的发现预设 / The Premise of Discovering a Static Reality
+`哲学 / Philosophical`
+
+其前设假定存在一个独立于第一人称感知之外的固定客体等待理论去发现；它掩盖了物理仅是认知模型与感知产生微观摩擦时呈现的宏观可测现象，并混淆了人造解释与不可确证之本体的界限。
+
+Its premise assumes that a static, standalone reality exists independently beyond first-person perception waiting for theories to discover; it obscures the fact that physics is merely the macroscopic observable phenomenon produced when cognitive models experience friction against perception, conflating human interpretation with an unverifiable ontology.
+
+→ [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/) · [The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/)
