@@ -407,9 +407,9 @@ The stance that philosophy's problems are language problems treats language as w
 ### 马丁·海德格尔 / Martin Heidegger
 `哲学 / Philosophical`
 
-海德格尔深刻揭示了上手工具的活态沉浸优先于抽离审视的现成对象；当认知系统试图把第一人称的情感体验当成现成物品在货架上核验调取时失效；在破除笛卡尔式主客二元割裂与恢复具身存有方面具有基底意义。
+海德格尔深刻揭示了上手工具的活态沉浸优先于抽离审视的现成客体；当认知系统试图把第一人称的情感体验当成货架上的静态库存核验调取时失效；在破除笛卡尔式主客二元割裂与恢复具身存有方面具有基底意义。
 
-Heidegger demonstrated that embodied readiness-to-hand precedes detached presence-at-hand; fails when cognition treats affective realization as a static object in an inventory to be audited on command; remains foundational in dissolving Cartesian subject-object dualism and recovering embodied presence.
+Heidegger demonstrated that embodied readiness-to-hand precedes detached presence-at-hand; fails when cognition treats affective realization as an isolated inventory item to be audited on command; remains foundational in dissolving Cartesian subject-object dualism and recovering embodied presence.
 
 → [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
 
