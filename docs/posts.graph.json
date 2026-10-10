@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-10T08:50:55.565Z",
+    "generated_at": "2026-10-10T10:08:36.963Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -155,6 +155,7 @@
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "db0acf841a07",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "b3860817582f",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "cde8a526b40c",
+      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "df87573f7bf1",
       "content/posts/price-as-utterance-understanding-as-trade.md": "c9662cffea91",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
       "content/posts/public-spending-does-not-create-capital.md": "7314fd47c0df",
@@ -236,7 +237,7 @@
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "e8672622b459",
       "content/posts/the-flywheel-of-the-mind.md": "c28e884fa611",
-      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "d8c2e9c5cac3",
+      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "218f6c032857",
       "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "2dd6dcb1b0ac",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
@@ -251,7 +252,7 @@
       "content/posts/the-geometry-of-mind.md": "92932a073669",
       "content/posts/the-geometry-of-success.md": "dc47507d236b",
       "content/posts/the-geometry-of-the-cut.md": "8e8f41ec7476",
-      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "f763621c9ece",
+      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "f7485fc0e38a",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "68e47fce620a",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "298e9d503fa5",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
@@ -393,9 +394,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "9ce16a51283f",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "bb33b5eaed11",
-      "content/book/consciousness.md": "a6afb52c4b4b",
+      "content/book/consciousness.md": "7ddbc4b054a8",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "a7e057394de1",
+      "content/book/index-of-premises.md": "d431898ec7f9",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -410,16 +411,16 @@
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 384,
-      "edges": 5264,
-      "unique_directed": 4421,
+      "posts": 385,
+      "edges": 5276,
+      "unique_directed": 4427,
       "missing_targets": 0,
-      "one_way": 55,
+      "one_way": 57,
       "isolated": 38,
-      "posts_with_outbound": 345,
+      "posts_with_outbound": 346,
       "book_pages": 16,
-      "book_edges": 953,
-      "posts_reached_by_book": 384
+      "book_edges": 955,
+      "posts_reached_by_book": 385
     }
   },
   "hubs_in": [
@@ -4253,6 +4254,22 @@
       ]
     },
     {
+      "id": "post:present-contact-and-the-obscuration-of-desired-feeling",
+      "kind": "post",
+      "slug": "present-contact-and-the-obscuration-of-desired-feeling",
+      "path": "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md",
+      "title": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling",
+      "hash": "df87573f7bf1",
+      "in_degree": 2,
+      "out_degree": 4,
+      "links_out": [
+        "the-grammar-of-finding-and-the-fading-observer",
+        "the-form-of-enlightenment-and-the-inversion-of-gates",
+        "the-summary-first-reversal-and-the-command-of-yields",
+        "the-irreducible-observer"
+      ]
+    },
+    {
       "id": "post:price-as-utterance-understanding-as-trade",
       "kind": "post",
       "slug": "price-as-utterance-understanding-as-trade",
@@ -6187,9 +6204,9 @@
       "slug": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "path": "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md",
       "title": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates",
-      "hash": "d8c2e9c5cac3",
-      "in_degree": 3,
-      "out_degree": 8,
+      "hash": "218f6c032857",
+      "in_degree": 4,
+      "out_degree": 9,
       "links_out": [
         "the-fixed-image-of-transcendence",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -6198,6 +6215,7 @@
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+        "present-contact-and-the-obscuration-of-desired-feeling",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable"
       ]
     },
@@ -6499,9 +6517,9 @@
       "slug": "the-grammar-of-finding-and-the-fading-observer",
       "path": "content/posts/the-grammar-of-finding-and-the-fading-observer.md",
       "title": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer",
-      "hash": "f763621c9ece",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "f7485fc0e38a",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "the-irreducible-observer",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -6509,7 +6527,8 @@
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "the-blind-spot-of-the-frame",
-        "the-distant-silhouette-and-the-inventory-from-nowhere"
+        "the-distant-silhouette-and-the-inventory-from-nowhere",
+        "present-contact-and-the-obscuration-of-desired-feeling"
       ]
     },
     {
@@ -6884,7 +6903,7 @@
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
       "hash": "ad01ade05654",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 16,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -8467,7 +8486,7 @@
       "path": "content/posts/the-summary-first-reversal-and-the-command-of-yields.md",
       "title": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields",
       "hash": "ad2f484fe9b0",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 8,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -22071,6 +22090,54 @@
       "label": "The real lesson from the consciousness vector paper"
     },
     {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "寻觅的语法与淡出的观察者"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "The Grammar of Finding and the Fading Observer"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "开悟的相与门槛的倒置"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "The Form of Enlightenment and the Inversion of Gates"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "Macro Parameters, Micro Choices, and the Command of Yields"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "The Irreducible Observer"
+    },
+    {
       "from": "price-as-utterance-understanding-as-trade",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
@@ -29284,6 +29351,12 @@
     },
     {
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "present-contact-and-the-obscuration-of-desired-feeling",
+      "rel": "points_to",
+      "label": "现成接触的因果先验与期望感受的倒置遮蔽"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
       "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
@@ -29293,6 +29366,12 @@
       "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "rel": "points_to",
       "label": "The Free Mind Is Displaced by What Claims to Protect It"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "present-contact-and-the-obscuration-of-desired-feeling",
+      "rel": "points_to",
+      "label": "Present Contact as Causal Prior and the Obscuration of Desired Feeling"
     },
     {
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
@@ -30322,9 +30401,21 @@
     },
     {
       "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "present-contact-and-the-obscuration-of-desired-feeling",
+      "rel": "points_to",
+      "label": "现成接触的因果先验与期望感受的倒置遮蔽"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
       "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "rel": "points_to",
       "label": "The Distant Silhouette and the Inventory from Nowhere"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "present-contact-and-the-obscuration-of-desired-feeling",
+      "rel": "points_to",
+      "label": "Present Contact as Causal Prior and the Obscuration of Desired Feeling"
     },
     {
       "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
@@ -41222,8 +41313,8 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "a6afb52c4b4b",
-        "out_degree": 35
+        "hash": "7ddbc4b054a8",
+        "out_degree": 36
       },
       {
         "id": "book:economics",
@@ -41240,8 +41331,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a7e057394de1",
-        "out_degree": 384
+        "hash": "d431898ec7f9",
+        "out_degree": 385
       },
       {
         "id": "book:intelligence",
@@ -41754,6 +41845,12 @@
         "to": "the-blind-spot-of-the-frame",
         "rel": "collects",
         "label": "框架的盲区 / The Blind Spot of the Frame"
+      },
+      {
+        "from": "book:consciousness",
+        "to": "present-contact-and-the-obscuration-of-desired-feeling",
+        "rel": "collects",
+        "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
       },
       {
         "from": "book:economics",
@@ -43380,6 +43477,12 @@
         "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
         "rel": "collects",
         "label": "强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "present-contact-and-the-obscuration-of-desired-feeling",
+        "rel": "collects",
+        "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
       },
       {
         "from": "book:index-of-premises",

@@ -1938,6 +1938,15 @@ Compulsory kindness presumes benevolence can be demanded as an enforceable quota
 
 → [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/)
 
+### 期望感受的前置门槛假定 / The Prerequisite Assumption of Desired Feeling
+`科学 / Scientific`
+
+假定特定情绪状态可作为行动的先验门槛由意志调取，并将心理学统计干预指标实体化为独立的因果代理；当这一要求阻断心智对当下现成受力的感知而诱发情感麻木时，该假定失效；在作为事后辨识方向的意向坐标与群体行为的统计描述时，该假定保持局部有效。
+
+Assumes that target affective states can be retrieved on command as prerequisites for action and reifies statistical psychological metrics into independent causal agents; fails when this demand severs the mind from registering immediate friction and induces emotional paralysis; remains locally useful as retrospective orientation anchors and aggregate descriptive metrics.
+
+→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
+
 ### 概念对具身体验的僭越 / Conceptual Usurpation of Sensation
 `哲学 / Philosophical`
 
