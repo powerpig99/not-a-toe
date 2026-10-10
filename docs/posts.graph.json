@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-10T10:51:52.273Z",
+    "generated_at": "2026-10-10T17:40:09.022Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -58,7 +58,7 @@
       "content/posts/data-is-local-intelligence-is-allocated.md": "bc7f312028fa",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "391c723a2d05",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "4bf6254500e5",
-      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "7a5ab1350952",
+      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "4fdac1ab3e30",
       "content/posts/dimensions-are-projections.md": "08793b415e6c",
       "content/posts/distillation-compression-agency.md": "60354a08e758",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "0baa9e7e7b35",
@@ -219,7 +219,7 @@
       "content/posts/the-continuum-is-a-modeling-convenience.md": "6b9f8a6b0ce8",
       "content/posts/the-continuum-of-the-fold.md": "9427017c6590",
       "content/posts/the-coordinators-category-error.md": "89f6110cc916",
-      "content/posts/the-cut-moves-but-never-vanishes.md": "b9d85b5e7df4",
+      "content/posts/the-cut-moves-but-never-vanishes.md": "71a734404297",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "43684acfe15f",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
@@ -308,6 +308,7 @@
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "0d757a4508ca",
       "content/posts/the-perceiver-and-the-trace.md": "fd9d0dfee4cb",
+      "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "9f8e857e749d",
       "content/posts/the-power-law-of-surrendered-agency.md": "a93148f9561d",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "0f27052d1822",
       "content/posts/the-price-of-closing-optionality.md": "a896ac859680",
@@ -396,7 +397,7 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "7ddbc4b054a8",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "119252e49e4d",
+      "content/book/index-of-premises.md": "7ad413ee2fe0",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -404,23 +405,23 @@
       "content/book/meaning-and-transcendence.md": "5f74283b7779",
       "content/book/method.md": "e598fadd6588",
       "content/book/morality.md": "25d4f858a2df",
-      "content/book/physics.md": "82876af73c85",
+      "content/book/physics.md": "e83c6a69a004",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "550fd32f6c90",
       "content/book/success-and-the-self.md": "7ef691063c43",
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 385,
-      "edges": 5276,
-      "unique_directed": 4427,
+      "posts": 386,
+      "edges": 5290,
+      "unique_directed": 4434,
       "missing_targets": 0,
-      "one_way": 57,
+      "one_way": 60,
       "isolated": 38,
-      "posts_with_outbound": 346,
+      "posts_with_outbound": 347,
       "book_pages": 16,
-      "book_edges": 959,
-      "posts_reached_by_book": 385
+      "book_edges": 965,
+      "posts_reached_by_book": 386
     }
   },
   "hubs_in": [
@@ -1861,15 +1862,16 @@
       "slug": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
-      "hash": "7a5ab1350952",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "4fdac1ab3e30",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "the-explanatory-trap-of-the-ordinary-perspective",
         "fixed-by-nothing",
         "the-boundary-crossing-of-choice",
         "agency-does-not-arise",
         "when-electrons-think",
+        "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
         "the-illusion-of-the-shared-sandbox",
         "the-residue-and-the-free-variable"
       ]
@@ -3661,7 +3663,7 @@
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
       "hash": "54def9af6a16",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 2,
       "links_out": [
         "when-electrons-think",
@@ -4183,7 +4185,7 @@
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "Potential Infinity and the Temporary Closures of Mathematical Thought",
       "hash": "db0acf841a07",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -5797,13 +5799,14 @@
       "slug": "the-cut-moves-but-never-vanishes",
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
-      "hash": "b9d85b5e7df4",
-      "in_degree": 2,
-      "out_degree": 3,
+      "hash": "71a734404297",
+      "in_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "the-invisible-gods-eye",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-        "demanding-a-toe-freezes-time-into-a-catalog"
+        "demanding-a-toe-freezes-time-into-a-catalog",
+        "the-potential-infinity-of-operators-and-the-finite-horizon-of-records"
       ]
     },
     {
@@ -7656,6 +7659,23 @@
       ]
     },
     {
+      "id": "post:the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "kind": "post",
+      "slug": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "path": "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md",
+      "title": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records",
+      "hash": "9f8e857e749d",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "objects-are-stabilized-relationships",
+        "determinism-is-the-statistical-signature-of-micro-indeterminism",
+        "the-cut-moves-but-never-vanishes",
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
+      ]
+    },
+    {
       "id": "post:the-power-law-of-surrendered-agency",
       "kind": "post",
       "slug": "the-power-law-of-surrendered-agency",
@@ -8276,7 +8296,7 @@
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
       "hash": "929c252a952b",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 16,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -14147,9 +14167,21 @@
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "rel": "points_to",
+      "label": "算符的潜无限与记录的有限边界"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "to": "when-electrons-think",
       "rel": "points_to",
       "label": "When Electrons Think"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "rel": "points_to",
+      "label": "The Potential Infinity of Operators and the Finite Horizon of Records"
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -27497,9 +27529,21 @@
     },
     {
       "from": "the-cut-moves-but-never-vanishes",
+      "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "rel": "points_to",
+      "label": "算符的潜无限与记录的有限边界"
+    },
+    {
+      "from": "the-cut-moves-but-never-vanishes",
       "to": "demanding-a-toe-freezes-time-into-a-catalog",
       "rel": "points_to",
       "label": "Demanding a Theory of Everything Freezes Time into a Catalog"
+    },
+    {
+      "from": "the-cut-moves-but-never-vanishes",
+      "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "rel": "points_to",
+      "label": "The Potential Infinity of Operators and the Finite Horizon of Records"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -34178,6 +34222,66 @@
       "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "rel": "points_to",
       "label": "The Coin of Good and Evil and the Road to Hell"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "对象是被稳定化的关系"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "Objects Are Stabilized Relationships"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "确定性是微观不确定性的统计签名"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理学才是定律”的障眼法"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "潜无限与数学思维的暂时闭合"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
     },
     {
       "from": "the-power-law-of-surrendered-agency",
@@ -41331,8 +41435,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "119252e49e4d",
-        "out_degree": 385
+        "hash": "7ad413ee2fe0",
+        "out_degree": 386
       },
       {
         "id": "book:intelligence",
@@ -41403,8 +41507,8 @@
         "slug": "physics",
         "path": "content/book/physics.md",
         "title": "物理即定律的迷思 / The Myth of Physics Is the Law",
-        "hash": "82876af73c85",
-        "out_degree": 21
+        "hash": "e83c6a69a004",
+        "out_degree": 22
       },
       {
         "id": "book:preface",
@@ -43135,6 +43239,24 @@
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
         "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+        "rel": "collects",
+        "label": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+        "rel": "collects",
+        "label": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+        "rel": "collects",
+        "label": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records"
       },
       {
         "from": "book:index-of-premises",
@@ -45448,6 +45570,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+        "rel": "collects",
+        "label": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-cut-moves-but-never-vanishes",
         "rel": "collects",
         "label": "割点可移不可除 / The Cut Moves but Never Vanishes"
@@ -45457,6 +45585,12 @@
         "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
         "rel": "collects",
         "label": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+        "rel": "collects",
+        "label": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records"
       },
       {
         "from": "book:intelligence",
@@ -46633,6 +46767,12 @@
         "to": "the-cut-moves-but-never-vanishes",
         "rel": "collects",
         "label": "割点可移不可除 / The Cut Moves but Never Vanishes"
+      },
+      {
+        "from": "book:physics",
+        "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+        "rel": "collects",
+        "label": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records"
       },
       {
         "from": "book:preface",

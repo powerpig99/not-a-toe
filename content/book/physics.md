@@ -33,3 +33,4 @@ The essays in this part examine the twin paradox, quantum measurement, the arrow
 - [四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model](../../posts/the-myth-of-the-four-dimensional-deer-and-the-present-model/)
 - [感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding](../../posts/the-boundary-of-perception-and-the-infinity-of-understanding/)
 - [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/)
+- [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)
