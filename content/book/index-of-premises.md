@@ -1441,6 +1441,33 @@ The convergent-series resolution of Achilles and the tortoise holds under contin
 
 → [Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 
+### 玻姆力学 / Bohmian Mechanics
+`科学 / Scientific`
+
+假定通过在位形空间引入非定域导向场和连续粒子轨迹，可以在形式上恢复微观世界的定域因果与决定论；为经典直觉提供了自洽的数学补偿方案，却依赖于有限观测永远无法分辨的隐藏自由度，并将解释终止于事后插入的初值拟合。
+
+Presumes that introducing a nonlocal guiding field and continuous particle trajectories across configuration space formally restores determinism to the quantum domain; useful as a consistent mathematical compensation for classical intuition, it relies on hidden degrees of freedom that finite observation can never resolve, halting explanation at retrospectively fitted initial conditions.
+
+→ [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)
+
+### 多世界诠释 / Many-Worlds Interpretation
+`哲学 / Philosophical`
+
+假定薛定谔方程的线性酉演化在实在层面完备成立，一切未观测的互斥分支皆在物理上平等并存；消除了外在的人工坍缩假设，却把宏观记录的唯一性偷换为主体偶然身处某一分支的指示词事实，未能从先前局部物理推导出单次经验的呈现。
+
+Presumes that the linear unitary evolution of the Schrödinger equation holds as an exhaustive physical reality where every unobserved mutually exclusive branch co-exists; useful for eliminating ad hoc collapse postulates, it replaces the uniqueness of macroscopic records with an indexical fact of observer location without deriving the appearance of a particular outcome from prior local facts.
+
+→ [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)
+
+### 超决定论 / Superdeterminism
+`科学 / Scientific`
+
+假定在宇宙极早期初始条件中预先编织隐变量与未来所有测量设定的协同关联，能够同时保留物理定域性与决定论而不违背贝尔不等式；在形式逻辑上提供了保留定域因果闭合的逃逸通道，但在运作逻辑上依赖于事后倒推初值，将动力学生成退化为免于检验的因果停机符。
+
+Presumes that embedding correlations between hidden variables and all future detector choices into primordial initial conditions preserves locality and determinism without violating Bell bounds; useful as a formal escape route for causal closure, it operates entirely through retrospective curve-fitting of initial states, demoting dynamical generation to an unchallengeable causal halt.
+
+→ [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)
+
 ## 概念 / Concepts
 
 ### 抽象层累赘税 / Abstraction Layer Taxation
@@ -4816,7 +4843,7 @@ Its premise assumes that a static, standalone reality exists independently beyon
 
 Presumes the cut in quantum measurement is an intrinsic physical boundary standing in the objective world, attempting either to reify it as a physical constant or erase it within an extended wave function; shifting the cut preserves predictions while revealing the frictional seam where intentional interrogation collides with physical resistance, yet erasing it dissolves any definite macroscopic record.
 
-→ [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/)
+→ [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)
 
 ### 量子诠释图谱 / Cartography of Quantum Interpretations
 `哲学 / Philosophical`
@@ -4835,4 +4862,13 @@ Presumes quantum interpretations can be reconciled within a meta-atlas by treati
 Its premise assumes awakening requires extreme suffering, prolonged leisure, and social renunciation as mandatory gates; useful as an ex-post record of certain severe contemplative paths, it fails by inverting statistical scarcity into a prior prohibition on action and collapsing direct seeing into an attachment to form.
 
 → [开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates](../../posts/the-form-of-enlightenment-and-the-inversion-of-gates/)
+
+### 量子叠加态 / Quantum Superposition
+`科学 / Scientific`
+
+假定波函数展开式中的线性叠加态是互斥物理事件在未测量时客观并存的实体状态；作为计算系综统计分布与干涉条纹权重的最小代数工具极度精确，但将其视为未发生测量的微观实体全貌则混淆了数学潜无限与有限离散记录的范畴界限。
+
+Presumes that linear superpositions in wave function expansions represent physical alternatives objectively co-existing prior to measurement; exceptionally accurate as minimal algebraic encodings of phase relations for ensemble interference, treating them as an unmeasured reality conflates the potential infinity of mathematical operations with the finite horizon of empirical records.
+
+→ [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)
 
