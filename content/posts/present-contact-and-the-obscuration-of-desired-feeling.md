@@ -25,7 +25,7 @@ graph TD
         N_Alienation --> N_Freeze["情感系统进入麻木与防卫性僵死"]
     end
 
-    D_Sever ===>|"切断微观数据输入"| N_Block
+    D_Sever -->|"切断微观数据输入"| N_Block
 
     style S_Demand fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Numbness fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -55,7 +55,7 @@ graph TD
         NE_Alienation --> NE_Freeze["Affective Rigidity and Defensive Paralysis"]
     end
 
-    DE_Sever ===>|"Cuts Micro-Data Inflow"| NE_Block
+    DE_Sever -->|"Cuts Micro-Data Inflow"| NE_Block
 
     style S_Demand_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Numbness_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -68,9 +68,9 @@ graph TD
     style NE_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
 ```
 
-这种对特定体验的索求，不可避免地诱发出讽刺性疏离。心理学中关于讽刺性加工过程的研究清晰表明，当认知负荷上升时，刻意搜寻缺失的监视机制反而会放大匮乏信号；一个人越是用力强迫自己去“产生爱意”，内心的空白与冷漠便越发刺眼，因为强求的举动本身就构成了对当下的抗拒与否定。在这一机制下，眼前具体存在的真实信号——无论是沉默中的拘谨、未消解的疲惫、真实的失落还是微弱的哀伤——都被贴上“不达标”的标签而遭到排斥。心智试图将鲜活的生命体验物化为货架上随时可以审计提取的静态库存与孤立标量，却遗忘了感受唯有在沉浸与上手的交互中才向主体敞开。正如在[寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/)中所辨明的，一旦将内在体认当成可以搜寻的客体，巡视的目光便割裂了体验本身。强索感受的结果不是找回生机，而是制造出情感上的假死状态。
+这种对特定体验的索求，不可避免地诱发出讽刺性疏离。心理学中关于讽刺性加工过程的研究清晰表明，当认知负荷上升时，刻意搜寻缺失的监视机制反而会放大匮乏信号；一个人越是用力强迫自己去“产生爱意”，内心的空白与冷漠便越发刺眼，因为强求的举动本身就构成了对当下的抗拒与否定。在这一机制下，眼前具体存在的真实信号——无论是沉默中的拘谨、未消解的疲惫、真实的失落还是微弱的哀伤——都被贴上“不达标”的标签而遭到排斥。心智试图将鲜活的生命体验物化为货架上随时可以审计提取的静态库存与孤立标量，却遗忘了感受唯有在沉浸与上手的交互中才向主体敞开。必须辨明的是，此处所言的“现成接触”，断非海德格尔意义上抽离审视的现成客体，而是指眼前未经概念修饰的即时注册；真正的困境恰恰在于，心智将原本属于上手沉浸中生成的体验，降格为了供二阶目光把玩的静态标量。正如在[寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/)中所辨明的，一旦将内在体认当成可以搜寻的客体，巡视的目光便割裂了体验本身。强索感受的结果不是找回生机，而是制造出情感上的假死状态。
 
-This demand for a targeted experience inevitably engenders ironic distance. Research into ironic process theory confirms that under cognitive strain, the automatic monitoring process that checks for an omitted state actively amplifies the signal of its absence; the more vigorously an individual forces themselves to generate affection, the more glaring the internal void becomes, because coercive striving embodies resistance to present reality. Under this mechanism, actual emergent signals—unspoken tension, lingering fatigue, genuine disappointment, or faint grief—are branded as defective and pushed aside. The mind attempts to reify living experience into an isolated static inventory awaiting scalar audit, forgetting that realization reveals itself only through engaged readiness-to-hand rather than detached inspection. As demonstrated in [The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/), the moment realization is objectified as a sought item, the inspecting gaze fractures immediate awareness. Demanding affect yields an emotional paralysis rather than restored vitality.
+This demand for a targeted experience inevitably engenders ironic distance. Research into ironic process theory confirms that under cognitive strain, the automatic monitoring process that checks for an omitted state actively amplifies the signal of its absence; the more vigorously an individual forces themselves to generate affection, the more glaring the internal void becomes, because coercive striving embodies resistance to present reality. Under this mechanism, actual emergent signals—unspoken tension, lingering fatigue, genuine disappointment, or faint grief—are branded as defective and pushed aside. The mind attempts to reify living experience into an isolated static inventory awaiting scalar audit, forgetting that realization reveals itself only through engaged readiness-to-hand rather than detached inspection. Crucially, the 'present contact' invoked here is never Heidegger's detached presence-at-hand, but the unembellished immediacy of present registration; the predicament arises precisely because cognition degrades what can only emerge through embodied readiness-to-hand into an objectified static scalar for secondary surveillance. As demonstrated in [The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/), the moment realization is objectified as a sought item, the inspecting gaze fractures immediate awareness. Demanding affect yields an emotional paralysis rather than restored vitality.
 
 ## 二、 现成接触的因果序与相空间跟随 / 2. The Causal Priority of Contact and Phase Space Following
 
@@ -91,7 +91,7 @@ graph TD
         F_Resonance --> F_Emergence["期望感受作为后验跟随自然涌现"]
     end
 
-    C_Open ===>|"提供真实因果依托"| F_Friction
+    C_Open -->|"真实因果依托"| F_Friction
 
     style S_Contact fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Following fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -121,7 +121,7 @@ graph TD
         FE_Resonance --> FE_Emergence["Desired Affect Emerges as Downstream Sequel"]
     end
 
-    CE_Open ===>|"Supplies Grounded Basis"| FE_Friction
+    CE_Open -->|"Grounded Causal Basis"| FE_Friction
 
     style S_Contact_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Following_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -157,7 +157,7 @@ graph TD
         A_Erase --> A_Dictate["倒错为指导行动的外部干预律条"]
     end
 
-    M_Action ===>|"统计汇总与数据抽象"| A_Data
+    M_Action -->|"统计汇总与数据抽象"| A_Data
 
     style S_MicroAgency fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_AggregateIllusion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -187,7 +187,7 @@ graph TD
         AE_Erase --> AE_Dictate["Inverted into External Prescriptive Command"]
     end
 
-    ME_Action ===>|"Statistical Aggregation"| AE_Data
+    ME_Action -->|"Statistical Aggregation"| AE_Data
 
     style S_MicroAgency_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_AggregateIllusion_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -210,6 +210,6 @@ In standard experimental paradigms, aggregate scores, group contrasts, and scale
 
 The epistemological inversion is not confined to the psychology of emotion; it recurs whenever downstream aggregations are converted into upstream mandates. As articulated in [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/), macro indicators represent post-hoc residue left by micro-exchanges, possessing no sovereign mandate to dictate individual acts. The third-person posture of scientific observation remains an auxiliary coordinate frame drafted by an observer situated at a concrete anchor. As demonstrated in [The Irreducible Observer](../the-irreducible-observer/), an observing mind cannot use sophisticated instrumentation to erase its own primacy from the origin of causal distinction.
 
-观察者从未离场。任何心理学实验的设计、执行与阐释，都发生在特定研究者的递归反思之内。将观察者从描述中抹去，原本只是一项暂时的工具性简化；可一旦这一简化被固化为无需审视的世界底色，它便演化为遮蔽源头的认知障眼法。第三人称实证统计恰如航行日志与后视镜，能够记录历史沉淀的规律，却断然无法充当实时转向的方向盘；地图不是地表，经验模型唯有经过第一人称在具体当下的重新翻译与受力着陆，才能发挥其工具性价值，而不是作为外部律令直接凌驾于活态生命之上。在感受与行动的领地内，这一逻辑具有不可规避的实践分量：感知当下现成经验的容量，只能在第一人称的行进边缘被兑现。后续意向感受的生发，是心智在真实接触中一步步推进的跟随，而不是可以在出发前预购的通行证。若将外部统计数据视为授权行动的前提，或将遥远的期望感受奉为迈出当下一步的门槛，心智便主动将因果的源头放逐到了自身唯一能够行动的立足点之外。唯有收回投射、扎根于当下的受力摩擦，下一道区分才能从鲜活的地表中破土而出。
+观察者从未离场。第三人称视角本身就是某个具体心智在特定锚点划出的又一道区分，它无法跳出定义其自身的区分行动之外；任何心理学实验的设计、执行与阐释，都发生在特定研究者的递归反思之内。将观察者从描述中抹去，原本只是一项暂时的工具性简化；可一旦这一简化被固化为无需审视的世界底色，它便演化为遮蔽源头的认知障眼法。第三人称实证统计恰如航行日志与后视镜，能够记录历史沉淀的规律，却断然无法充当实时转向的方向盘；地图不是地表，经验模型唯有经过第一人称在具体当下的重新翻译与受力着陆，才能发挥其工具性价值，而不是作为外部律令直接凌驾于活态生命之上。在感受与行动的领地内，这一逻辑具有不可规避的实践分量：感知当下现成经验的容量，只能在第一人称的行进边缘被兑现。后续意向感受的生发，是心智在真实接触中一步步推进的跟随，而不是可以在出发前预购的通行证。若将外部统计数据视为授权行动的前提，或将遥远的期望感受奉为迈出当下一步的门槛，心智便主动将因果的源头放逐到了自身唯一能够行动的立足点之外。唯有收回投射、扎根于当下的受力摩擦，下一道区分才能从鲜活的地表中破土而出。这一实践转向的原初微观动作极其质朴：它要求心智停止盘问“为何我还感受不到爱”的二阶审查，转而如实承认眼前这具肉身的局促、冷感与疲惫——在第一人称划出这一道不加粉饰的原初区分的瞬间，心智便已从虚妄的审查法庭降落回了唯一能够受力的现实地表。
 
-The observer never vacates the scene. The design, execution, and interpretation of any psychological study transpire within the recursive reflection of a situated center. Dropping the observer from the account is a transient instrumental expedient; yet when reified as immutable reality, it degenerates into an epistemological sleight of hand. Third-person empirical metrics function as navigational logs and rearview mirrors; they record historical regularities, but cannot serve as the steering wheel for real-time action. The map is not the territory; scientific models achieve pragmatic utility only when translated and re-grounded within situated first-person friction, rather than reigning as external decrees over living agency. Within the domain of feeling and action, this carries immediate consequence: the capacity to register present experience is exercised exclusively at the living edge of the first-person step. Subsequent affect unfolds as an emergent sequel sustained by unevaded contact, never as an antecedent credential bought prior to departure. Treating statistical indices as authoritative prerequisites or demanding future ideals before engaging the immediate room exiles causal agency outside the only seat where action exists. Only by retracting projections and grounding within lived friction can the next distinction take root in living soil.
+The observer never vacates the scene. The third-person vantage is itself merely a further distinction drawn by a concrete mind; it cannot step outside the foundational act of distinction that constitutes it. Every experimental design, execution, and interpretation in psychology transpires within the recursive reflection of a situated center. Dropping the observer from the account is a transient instrumental expedient; yet when reified as immutable reality, it degenerates into an epistemological sleight of hand. Third-person empirical metrics function as navigational logs and rearview mirrors; they record historical regularities, but cannot serve as the steering wheel for real-time action. The map is not the territory; scientific models achieve pragmatic utility only when translated and re-grounded within situated first-person friction, rather than reigning as external decrees over living agency. Within the domain of feeling and action, this carries immediate consequence: the capacity to register present experience is exercised exclusively at the living edge of the first-person step. Subsequent affect unfolds as an emergent sequel sustained by unevaded contact, never as an antecedent credential bought prior to departure. Treating statistical indices as authoritative prerequisites or demanding future ideals before engaging the immediate room exiles causal agency outside the only seat where action exists. Only by retracting projections and grounding within lived friction can the next distinction take root in living soil. The primordial micro-action of this practical turn is unadorned: it asks the mind to halt the secondary interrogation of 'why do I not yet feel affection', and instead candidly register the tightness, coldness, or exhaustion present in the embodied system—the very instant the first-person locus draws this unvarnished primary distinction, consciousness steps down from the illusory tribunal of surveillance and grounds itself on the only soil where real force can be exerted.
