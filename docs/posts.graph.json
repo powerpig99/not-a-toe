@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-10T10:08:36.963Z",
+    "generated_at": "2026-10-10T10:25:00.406Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -155,7 +155,7 @@
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "db0acf841a07",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "b3860817582f",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "cde8a526b40c",
-      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "df87573f7bf1",
+      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "c01c8c05da32",
       "content/posts/price-as-utterance-understanding-as-trade.md": "c9662cffea91",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
       "content/posts/public-spending-does-not-create-capital.md": "7314fd47c0df",
@@ -396,7 +396,7 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "7ddbc4b054a8",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "d431898ec7f9",
+      "content/book/index-of-premises.md": "c581177e90c0",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -419,7 +419,7 @@
       "isolated": 38,
       "posts_with_outbound": 346,
       "book_pages": 16,
-      "book_edges": 955,
+      "book_edges": 959,
       "posts_reached_by_book": 385
     }
   },
@@ -4259,7 +4259,7 @@
       "slug": "present-contact-and-the-obscuration-of-desired-feeling",
       "path": "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md",
       "title": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling",
-      "hash": "df87573f7bf1",
+      "hash": "c01c8c05da32",
       "in_degree": 2,
       "out_degree": 4,
       "links_out": [
@@ -41331,7 +41331,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d431898ec7f9",
+        "hash": "c581177e90c0",
         "out_degree": 385
       },
       {
@@ -42034,6 +42034,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "present-contact-and-the-obscuration-of-desired-feeling",
+        "rel": "collects",
+        "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "cli-interface-stack",
         "rel": "collects",
         "label": "The Interface Stack: Why Agents Don't \"Prefer\" CLIs"
@@ -42127,6 +42133,12 @@
         "to": "the-dissolution-of-the-great-reversal",
         "rel": "collects",
         "label": "大倒置的消解 / The Dissolution of the Great Reversal"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "present-contact-and-the-obscuration-of-desired-feeling",
+        "rel": "collects",
+        "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
       },
       {
         "from": "book:index-of-premises",
@@ -42346,6 +42358,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "present-contact-and-the-obscuration-of-desired-feeling",
+        "rel": "collects",
+        "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "agents_leia_ontological_clarity",
         "rel": "collects",
         "label": "Agents in the Long Game of AI — Through the Ontological Clarity Framework"
@@ -42391,6 +42409,12 @@
         "to": "fixed-by-nothing",
         "rel": "collects",
         "label": "没有固定者的固定 / Fixed by Nothing"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "present-contact-and-the-obscuration-of-desired-feeling",
+        "rel": "collects",
+        "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
       },
       {
         "from": "book:index-of-premises",

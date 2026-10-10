@@ -17,6 +17,15 @@ Einstein revolutionized physics by tying space and time to the observer's frame;
 
 → [双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer](../../posts/the-twin-paradox-and-the-hidden-observer/)
 
+### 阿尔弗雷德·柯日布斯基 / Alfred Korzybski
+`哲学 / Philosophical`
+
+柯日布斯基确立了地图非地表的语义学准则以防范符号混淆；当经验科学将大样本聚合图表与范畴标签当成驱动微观心智的因果地表时失效；在维护因果卫生与防止模型僭越方面具有持久的警示效用。
+
+Korzybski formulated the general semantics principle that the map is not the territory; fails when empirical science mistreats aggregate statistical charts and categories as the causal territory commanding living agents; remains indispensable for preserving causal hygiene against reification.
+
+→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
+
 ### 安德烈·卡帕斯 / Andrej Karpathy
 `技术 / Technological`
 
@@ -133,6 +142,15 @@ Doctorow diagnoses platform exploitation through a moral-political lens; brillia
 Dennett posited competence without comprehension in evolution and machines; illuminative for evolutionary algorithms, it conflates mechanistic execution with conscious feeling.
 
 → [大倒置的消解 / The Dissolution of the Great Reversal](../../posts/the-dissolution-of-the-great-reversal/)
+
+### 丹尼尔·韦格纳 / Daniel Wegner
+`科学 / Scientific`
+
+韦格纳的讽刺性加工理论揭示了意向控制伴随着潜意识监视进程；当心智在认知过载中强索特定感受时，负责监视缺失的机制反而放大了匮乏信号而诱发反向麻木；在描摹注意力分配的双重加工极限上具有关键解释力。
+
+Wegner's ironic process theory revealed that intentional mental control operates alongside an automatic monitoring search; fails when demanding a target affect under cognitive load because monitoring lack actively amplifies the missing signal into numbness; accurately models the dual-system limits of attentional control.
+
+→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
 
 ### 达里奥·阿莫迪 / Dario Amodei
 `技术 / Technological`
@@ -386,6 +404,15 @@ The stance that philosophy's problems are language problems treats language as w
 
 → [读《中文哲学简史》有感](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
 
+### 马丁·海德格尔 / Martin Heidegger
+`哲学 / Philosophical`
+
+海德格尔深刻揭示了上手工具的活态沉浸优先于抽离审视的现成对象；当认知系统试图把第一人称的情感体验当成现成物品在货架上核验调取时失效；在破除笛卡尔式主客二元割裂与恢复具身存有方面具有基底意义。
+
+Heidegger demonstrated that embodied readiness-to-hand precedes detached presence-at-hand; fails when cognition treats affective realization as a static object in an inventory to be audited on command; remains foundational in dissolving Cartesian subject-object dualism and recovering embodied presence.
+
+→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
+
 ### 玛乔丽·麦克谢恩 / Marjorie McShane
 `技术 / Technological`
 
@@ -439,6 +466,15 @@ Chamfort captures the asymmetry that happiness cannot be found externally and re
 Laplace championed mathematical celestial mechanics and deterministic omniscience; foundational for probability theory, his clockwork determinism denies the observer's physical situatedness.
 
 → [The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power](../../posts/the-deterministic-machine/) · [没有固定者的固定 / Fixed by Nothing](../../posts/fixed-by-nothing/)
+
+### 乔治·斯宾塞-布朗 / G. Spencer-Brown
+`数学 / Mathematical`
+
+斯宾塞-布朗的形式之律确立了一切系统起源于划出一道区分的原初行动；当形式体系遗忘区分必须由具体中心在当下划出、转而将区分沉淀物当成自足客观法则时失效；在形式化奠基第一人称创生世界与自指递归上具有不可替代的公理价值。
+
+Spencer-Brown's Laws of Form established that every formal universe originates in the primordial act of drawing a distinction; fails when cognition forgets distinctions are drawn by situated centers and reifies marks into autonomous cosmic laws; remains irreplaceable in formalizing self-referential closure and the first-person origin of form.
+
+→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
 
 ### 瑞·达利欧 / Ray Dalio
 `成功学 / Self-Help`
