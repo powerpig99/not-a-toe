@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-10T07:44:01.363Z",
+    "generated_at": "2026-10-10T08:11:30.957Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -42,6 +42,7 @@
       "content/posts/closed-reality-in-benchmark-maxing.md": "8ba385aa71a4",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "454c1ba03b68",
+      "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "a536bcb0f21f",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "e9a275f84a7f",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "16c16c18bf19",
       "content/posts/conscience-power-delegation.md": "d11e1672ae5d",
@@ -74,7 +75,7 @@
       "content/posts/expertise-as-reference-not-replacement.md": "fa78713acfa4",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
-      "content/posts/externalized-virtue-becomes-its-opposite.md": "9d1173f7e359",
+      "content/posts/externalized-virtue-becomes-its-opposite.md": "cf5fee6f027d",
       "content/posts/failure-as-information.md": "4183c36cdc9e",
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "44fb9900a9b1",
@@ -119,7 +120,7 @@
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "ac0fdb212b18",
       "content/posts/moral-language-as-projection.md": "bd8b0ba87059",
-      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "c4d685ab1ad2",
+      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "3db3be1e8677",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "9261da00dc72",
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
@@ -394,14 +395,14 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "a6afb52c4b4b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "9430c83162e5",
+      "content/book/index-of-premises.md": "a7e057394de1",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "226cf5ec0ee0",
       "content/book/meaning-and-transcendence.md": "5f74283b7779",
       "content/book/method.md": "e598fadd6588",
-      "content/book/morality.md": "29adad4194a7",
+      "content/book/morality.md": "25d4f858a2df",
       "content/book/physics.md": "82876af73c85",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "550fd32f6c90",
@@ -409,16 +410,16 @@
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 383,
-      "edges": 5246,
-      "unique_directed": 4411,
+      "posts": 384,
+      "edges": 5264,
+      "unique_directed": 4421,
       "missing_targets": 0,
-      "one_way": 49,
+      "one_way": 55,
       "isolated": 38,
-      "posts_with_outbound": 344,
+      "posts_with_outbound": 345,
       "book_pages": 16,
-      "book_edges": 950,
-      "posts_reached_by_book": 383
+      "book_edges": 953,
+      "posts_reached_by_book": 384
     }
   },
   "hubs_in": [
@@ -1510,6 +1511,26 @@
       ]
     },
     {
+      "id": "post:compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "kind": "post",
+      "slug": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "path": "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md",
+      "title": "强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback",
+      "hash": "a536bcb0f21f",
+      "in_degree": 2,
+      "out_degree": 8,
+      "links_out": [
+        "subtracting-consciousness-at-the-source",
+        "externalized-virtue-becomes-its-opposite",
+        "the-coin-of-good-and-evil-and-the-road-to-hell",
+        "recursive-contradiction-of-entrusted-morality",
+        "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "the-ledger-of-the-unencountered"
+      ]
+    },
+    {
       "id": "post:cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "kind": "post",
       "slug": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
@@ -2192,9 +2213,9 @@
       "slug": "externalized-virtue-becomes-its-opposite",
       "path": "content/posts/externalized-virtue-becomes-its-opposite.md",
       "title": "Externalized Virtue Becomes Its Opposite",
-      "hash": "9d1173f7e359",
-      "in_degree": 25,
-      "out_degree": 25,
+      "hash": "cf5fee6f027d",
+      "in_degree": 26,
+      "out_degree": 26,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -2217,6 +2238,7 @@
         "the-discount-on-agency",
         "ownership-and-self-worthiness",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
+        "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
         "clarity-isnt-a-state-you-arrive-at",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "the-source-of-all-harm",
@@ -3322,9 +3344,9 @@
       "slug": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "path": "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md",
       "title": "Moral Language Dilutes the Feedback That Scales Freedom",
-      "hash": "c4d685ab1ad2",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "3db3be1e8677",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
         "ownership-and-self-worthiness",
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -3336,6 +3358,7 @@
         "the-coin-of-good-and-evil-and-the-road-to-hell",
         "externalized-virtue-becomes-its-opposite",
         "recursive-contradiction-of-entrusted-morality",
+        "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "openness-is-consistency",
         "residual-individualism"
@@ -4437,7 +4460,7 @@
       "path": "content/posts/recursive-contradiction-of-entrusted-morality.md",
       "title": "The Recursive Contradiction of Entrusted Morality",
       "hash": "cd3ec066c2f8",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "not-a-theory-of-everything",
@@ -4919,7 +4942,7 @@
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
       "hash": "eb988c747e6b",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 12,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
@@ -5234,7 +5257,7 @@
       "path": "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md",
       "title": "阳台视角的规训僭越与不可代理的未竟之行 / The Balcony Disciplinary Overstep and the Unproxyable Act",
       "hash": "ba998bcd09f1",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "the-invisible-gods-eye",
@@ -5642,7 +5665,7 @@
       "path": "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md",
       "title": "善恶硬币与通往地狱的善意之路 / The Coin of Good and Evil and the Road to Hell",
       "hash": "d71141c2c581",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -5875,7 +5898,7 @@
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
       "hash": "08371346bbec",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 17,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -6947,7 +6970,7 @@
       "path": "content/posts/the-ledger-of-the-unencountered.md",
       "title": "未被遭遇之物的账本 / The Ledger of the Unencountered",
       "hash": "492fde646aea",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "the-irreducible-observer",
@@ -12952,6 +12975,102 @@
       "label": "Looping and Graphing: Mind as the Loop of Loops"
     },
     {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "从源头减除意识"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "Subtracting Consciousness at the Source"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "外化善意走向其反面"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "善恶硬币与通往地狱的善意之路"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "The Coin of Good and Evil and the Road to Hell"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "recursive-contradiction-of-entrusted-morality",
+      "rel": "points_to",
+      "label": "托付道德的自指悖论"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "recursive-contradiction-of-entrusted-morality",
+      "rel": "points_to",
+      "label": "The Recursive Contradiction of Entrusted Morality"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
+      "rel": "points_to",
+      "label": "阳台视角的规训僭越与不可代理的未竟之行"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
+      "rel": "points_to",
+      "label": "The Balcony Disciplinary Overstep and the Unproxyable Act"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "道德语言稀释自由复利的反馈"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "the-ledger-of-the-unencountered",
+      "rel": "points_to",
+      "label": "未被遭遇之物的账本"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "the-ledger-of-the-unencountered",
+      "rel": "points_to",
+      "label": "The Ledger of the Unencountered"
+    },
+    {
       "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "to": "the-mind-that-statistics-cannot-reveal",
       "rel": "points_to",
@@ -15032,6 +15151,12 @@
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
       "label": "Moral language dilutes the feedback that scales freedom"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "rel": "points_to",
+      "label": "Compulsory Kindness and the Obscuration of Categorical Feedback"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
@@ -18830,6 +18955,12 @@
       "to": "recursive-contradiction-of-entrusted-morality",
       "rel": "points_to",
       "label": "The recursive contradiction of entrusted morality"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "rel": "points_to",
+      "label": "Compulsory Kindness and the Obscuration of Categorical Feedback"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -41109,8 +41240,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "9430c83162e5",
-        "out_degree": 383
+        "hash": "a7e057394de1",
+        "out_degree": 384
       },
       {
         "id": "book:intelligence",
@@ -41172,8 +41303,8 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "29adad4194a7",
-        "out_degree": 27
+        "hash": "25d4f858a2df",
+        "out_degree": 28
       },
       {
         "id": "book:physics",
@@ -43246,6 +43377,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+        "rel": "collects",
+        "label": "强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "po-chu-gai-nian-de-jian-yue",
         "rel": "collects",
         "label": "破除概念的僭越：第一人称、因果之矢与未完的现实"
@@ -44065,6 +44202,12 @@
         "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
         "rel": "collects",
         "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+        "rel": "collects",
+        "label": "强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback"
       },
       {
         "from": "book:index-of-premises",
@@ -46231,6 +46374,12 @@
         "to": "no-outside-scorekeeper",
         "rel": "collects",
         "label": "没有外部记账员 / No Outside Scorekeeper"
+      },
+      {
+        "from": "book:morality",
+        "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+        "rel": "collects",
+        "label": "强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback"
       },
       {
         "from": "book:physics",

@@ -1929,6 +1929,15 @@ Sociopolitical activism presumes altering collective legislation changes human h
 
 → [The Source of Shared Change](../../posts/the-source-of-shared-change/)
 
+### 强求善意即为残暴 / Compulsory Kindness as Latent Cruelty
+`哲学 / Philosophical`
+
+强求善意预设善行可以作为法定配额向他者强制索求；它在暗中将索求者推上终极仲裁官之位，用外部服从碾碎了他者在自由试错中体认因果的可能。
+
+Compulsory kindness presumes benevolence can be demanded as an enforceable quota; by covertly installing the claimant as supreme arbiter, it crushes the space for another mind to encounter consequences through autonomous trial.
+
+→ [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/)
+
 ### 概念对具身体验的僭越 / Conceptual Usurpation of Sensation
 `哲学 / Philosophical`
 
@@ -3142,7 +3151,7 @@ Righteous indignation assumes passing moral verdicts explains human behavior; st
 
 Moral vocabulary presumes good and evil describe consequences; it inserts evaluative overlays between agent and raw outcome, useful for coordinating clusters while diluting the feedback that compounds ownership.
 
-→ [Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/)
+→ [Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/) · [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/)
 
 ### 道德实在论 / Moral Realism
 `哲学 / Philosophical`

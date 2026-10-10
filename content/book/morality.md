@@ -39,3 +39,4 @@ These essays dissect victimhood scripts, suicidal empathy inversions, and the ab
 - [未被遭遇之物的账本 / The Ledger of the Unencountered](../../posts/the-ledger-of-the-unencountered/)
 - [抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger](../../posts/abstract-pain-and-living-hunger/)
 - [没有外部记账员 / No Outside Scorekeeper](../../posts/no-outside-scorekeeper/)
+- [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/)

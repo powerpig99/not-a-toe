@@ -19,7 +19,7 @@
 > `https://powerpig99.github.io/not-a-toe/posts/<slug>/`
 > 
 > - **CRITICAL PROHIBITION**: NEVER use `not-a-toe.org`, `not-a-toe.com`, or any other placeholder domain under ANY circumstances. The blog has no custom domain; it is deployed exclusively on GitHub Pages at `powerpig99.github.io/not-a-toe`.
-> - **All references to live posts** in walkthroughs, companion prompts, exports, and chat responses MUST use the exact URL: `https://powerpig99.github.io/not-a-toe/posts/<slug>/` (with trailing slash).
+> - **All references to live posts** in walkthroughs, companion prompts, and chat responses MUST use the exact URL: `https://powerpig99.github.io/not-a-toe/posts/<slug>/` (with trailing slash).
 > - **Essay internal links** must NEVER use absolute URLs (always use relative `[title](../slug/)`).
 
 ---
@@ -129,5 +129,4 @@ Always execute the complete verification sequence before finalizing:
 5. `node scripts/project-local-graph.mjs` — Updates local workspace graph tracker.
 6. `git add ... && git commit -m "Publish Post #XXX: <Title>" && git push origin main`.
 7. `gh run watch --exit-status` — Verifies GitHub Actions deployment succeeds.
-8. `curl -sI https://powerpig99.github.io/not-a-toe/posts/<slug>/` — Confirms live HTTP 200.
-9. `node scripts/export-absolute-md.mjs <slug>` — Exports absolute markdown for Substack / X Article distribution.\n
+8. `curl -sI https://powerpig99.github.io/not-a-toe/posts/<slug>/` — Confirms live HTTP 200. (Note: Separate distribution export via `export-absolute-md.mjs` is retired as the corpus is maintained solely as a living book).
