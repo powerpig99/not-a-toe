@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-10T07:23:12.592Z",
+    "generated_at": "2026-10-10T07:44:01.363Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -113,7 +113,7 @@
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "9f417328851a",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "bdf8b1876dc4",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "7af28dd0211f",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "ef157cded87e",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
@@ -235,9 +235,9 @@
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "e8672622b459",
       "content/posts/the-flywheel-of-the-mind.md": "c28e884fa611",
-      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "3ebe51ac1764",
+      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "d8c2e9c5cac3",
       "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
-      "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "f6927d706f38",
+      "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "2dd6dcb1b0ac",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "767ab21884d4",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "591395049b84",
@@ -410,8 +410,8 @@
     },
     "stats": {
       "posts": 383,
-      "edges": 5240,
-      "unique_directed": 4407,
+      "edges": 5246,
+      "unique_directed": 4411,
       "missing_targets": 0,
       "one_way": 49,
       "isolated": 38,
@@ -534,7 +534,7 @@
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "out_degree": 42
+      "out_degree": 43
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -944,7 +944,7 @@
       "path": "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md",
       "title": "凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable",
       "hash": "aaa7fd1e8b34",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 4,
       "links_out": [
         "one-cannot-escape-ones-own-mind",
@@ -3157,9 +3157,9 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "bdf8b1876dc4",
+      "hash": "7af28dd0211f",
       "in_degree": 43,
-      "out_degree": 42,
+      "out_degree": 43,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -3186,6 +3186,7 @@
         "the-unclosable-trace",
         "freedom-as-ground",
         "reality-is-the-minds-ongoing-realization",
+        "the-form-of-enlightenment-and-the-inversion-of-gates",
         "qian-yin-hou-guo",
         "evil-as-the-minds-own-creation",
         "the-geometry-of-mind",
@@ -6081,7 +6082,7 @@
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "The Fixed Image of Transcendence",
       "hash": "198bb79ed7e9",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 22,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -6163,16 +6164,18 @@
       "slug": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "path": "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md",
       "title": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates",
-      "hash": "3ebe51ac1764",
-      "in_degree": 1,
-      "out_degree": 6,
+      "hash": "d8c2e9c5cac3",
+      "in_degree": 3,
+      "out_degree": 8,
       "links_out": [
+        "the-fixed-image-of-transcendence",
         "mei-you-pu-du-zhi-you-zi-du",
         "the-mind-as-vector-and-coordinate-system",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
-        "the-free-mind-is-displaced-by-what-claims-to-protect-it"
+        "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+        "all-that-can-be-spoken-is-the-product-of-the-unspeakable"
       ]
     },
     {
@@ -6198,15 +6201,16 @@
       "slug": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "path": "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md",
       "title": "The Free Mind Is Displaced by What Claims to Protect It",
-      "hash": "f6927d706f38",
+      "hash": "2dd6dcb1b0ac",
       "in_degree": 8,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-generative-topology-of-free-variables",
         "mei-you-pu-du-zhi-you-zi-du",
         "liberation-rhetoric-begins-by-defining-captivity",
         "externalized-virtue-becomes-its-opposite",
         "shared-consciousness-is-intersecting-individualities",
+        "the-form-of-enlightenment-and-the-inversion-of-gates",
         "residual-individualism",
         "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy"
       ]
@@ -18355,6 +18359,12 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "开悟的相与门槛的倒置"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
       "label": "前因，后果"
@@ -18399,7 +18409,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
-      "label": "要求他人开放本质是对自我封闭的渴望"
+      "label": "要求他人开放是对自我封闭的渴望"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -29071,9 +29081,21 @@
     },
     {
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "超验的定相"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "普度众生，是没收回的分别心"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
     },
     {
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
@@ -29142,6 +29164,18 @@
       "label": "The Free Mind Is Displaced by What Claims to Protect It"
     },
     {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "凡可言说皆不可言说之产物"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "All That Can Be Spoken Is the Product of the Unspeakable"
+    },
+    {
       "from": "the-frame-that-conceals-improvement",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
@@ -29200,6 +29234,12 @@
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
       "label": "Shared consciousness is intersecting individualities"
+    },
+    {
+      "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "The Form of Enlightenment and the Inversion of Gates"
     },
     {
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
