@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-09T18:04:36.836Z",
+    "generated_at": "2026-10-10T06:07:24.976Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -228,13 +228,14 @@
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "0f743e203782",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
-      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "2b20083fa38d",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "09a58e05b701",
       "content/posts/the-extendable-horizon.md": "19250e1e8750",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "51671f41f1af",
       "content/posts/the-fallacy-of-post-success-parenting.md": "4a09f0a9cd26",
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "e8672622b459",
       "content/posts/the-flywheel-of-the-mind.md": "c28e884fa611",
+      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "d94305c8ce0e",
       "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "f6927d706f38",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
@@ -393,12 +394,12 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "a6afb52c4b4b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "eabf98f273cb",
+      "content/book/index-of-premises.md": "9430c83162e5",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "226cf5ec0ee0",
-      "content/book/meaning-and-transcendence.md": "39f52073de83",
+      "content/book/meaning-and-transcendence.md": "5f74283b7779",
       "content/book/method.md": "e598fadd6588",
       "content/book/morality.md": "29adad4194a7",
       "content/book/physics.md": "82876af73c85",
@@ -408,16 +409,16 @@
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 382,
-      "edges": 5226,
-      "unique_directed": 4400,
+      "posts": 383,
+      "edges": 5240,
+      "unique_directed": 4407,
       "missing_targets": 0,
-      "one_way": 44,
+      "one_way": 49,
       "isolated": 38,
-      "posts_with_outbound": 343,
+      "posts_with_outbound": 344,
       "book_pages": 16,
-      "book_edges": 948,
-      "posts_reached_by_book": 382
+      "book_edges": 950,
+      "posts_reached_by_book": 383
     }
   },
   "hubs_in": [
@@ -451,7 +452,7 @@
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 42
+      "in_degree": 43
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -3157,7 +3158,7 @@
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
       "hash": "bdf8b1876dc4",
-      "in_degree": 42,
+      "in_degree": 43,
       "out_degree": 42,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -5981,9 +5982,9 @@
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
-      "hash": "2b20083fa38d",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "09a58e05b701",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-causal-inversion-of-partnership",
@@ -6000,6 +6001,7 @@
         "the-geometry-of-the-cut",
         "one-cannot-escape-ones-own-mind",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+        "the-form-of-enlightenment-and-the-inversion-of-gates",
         "the-boundary-of-perception-and-the-infinity-of-understanding"
       ]
     },
@@ -6156,6 +6158,24 @@
       ]
     },
     {
+      "id": "post:the-form-of-enlightenment-and-the-inversion-of-gates",
+      "kind": "post",
+      "slug": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "path": "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md",
+      "title": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates",
+      "hash": "d94305c8ce0e",
+      "in_degree": 1,
+      "out_degree": 6,
+      "links_out": [
+        "mei-you-pu-du-zhi-you-zi-du",
+        "the-mind-as-vector-and-coordinate-system",
+        "the-explanatory-trap-of-the-ordinary-perspective",
+        "the-summary-first-reversal-and-the-command-of-yields",
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "the-free-mind-is-displaced-by-what-claims-to-protect-it"
+      ]
+    },
+    {
       "id": "post:the-frame-that-conceals-improvement",
       "kind": "post",
       "slug": "the-frame-that-conceals-improvement",
@@ -6179,7 +6199,7 @@
       "path": "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md",
       "title": "The Free Mind Is Displaced by What Claims to Protect It",
       "hash": "f6927d706f38",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "the-generative-topology-of-free-variables",
@@ -6761,7 +6781,7 @@
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
       "hash": "5ccd04ebe2f8",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -7113,7 +7133,7 @@
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
       "hash": "e5dfc5fb16e4",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 12,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring",
@@ -8420,7 +8440,7 @@
       "path": "content/posts/the-summary-first-reversal-and-the-command-of-yields.md",
       "title": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields",
       "hash": "ad2f484fe9b0",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 8,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -28451,6 +28471,12 @@
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "开悟的相与门槛的倒置"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "rel": "points_to",
       "label": "感知的界限与理解的无限"
@@ -28478,6 +28504,12 @@
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
       "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "The Form of Enlightenment and the Inversion of Gates"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
@@ -29036,6 +29068,78 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "普度众生，是没收回的分别心"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "心智作为向量与坐标系"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "The Summary-First Reversal and the Command of Yields"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "规程的倒置与因果回路的消声"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "自由的心智被它声称保护之物所置换"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "The Free Mind Is Displaced by What Claims to Protect It"
     },
     {
       "from": "the-frame-that-conceals-improvement",
@@ -40965,8 +41069,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "eabf98f273cb",
-        "out_degree": 382
+        "hash": "9430c83162e5",
+        "out_degree": 383
       },
       {
         "id": "book:intelligence",
@@ -41010,8 +41114,8 @@
         "slug": "meaning-and-transcendence",
         "path": "content/book/meaning-and-transcendence.md",
         "title": "意义追寻与超越之境 / The Search for Meaning and Transcendence",
-        "hash": "39f52073de83",
-        "out_degree": 12
+        "hash": "5f74283b7779",
+        "out_degree": 13
       },
       {
         "id": "book:method",
@@ -45039,6 +45143,12 @@
         "label": "割点可移不可除 / The Cut Moves but Never Vanishes"
       },
       {
+        "from": "book:index-of-premises",
+        "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+        "rel": "collects",
+        "label": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates"
+      },
+      {
         "from": "book:intelligence",
         "to": "agents_leia_ontological_clarity",
         "rel": "collects",
@@ -45757,6 +45867,12 @@
         "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "rel": "collects",
         "label": "凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable"
+      },
+      {
+        "from": "book:meaning-and-transcendence",
+        "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+        "rel": "collects",
+        "label": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates"
       },
       {
         "from": "book:method",

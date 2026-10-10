@@ -4772,3 +4772,13 @@ Presumes the cut in quantum measurement is an intrinsic physical boundary standi
 Presumes quantum interpretations can be reconciled within a meta-atlas by treating self-reference and process as objective coordinates; useful as a taxonomic panorama, it suspends the cartographer in an unoccupiable second-order view from nowhere.
 
 → [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/)
+
+### 开悟门槛论与苦修条件主义 / The Checklist of Enlightenment and Ascetic Gatekeeping
+`宗教 / Religious`
+
+其前设假定觉醒必须依赖持续剧痛、漫长脱产闲暇与决裂社会纽带等极端条件；作为对某些严苛隐修轨迹的历史后验记录是生动的，其边界失效在于把后验的稀缺表象逆序为微观行动的先验禁区，将如实观照降维为对“相”的执着监测。
+
+Its premise assumes awakening requires extreme suffering, prolonged leisure, and social renunciation as mandatory gates; useful as an ex-post record of certain severe contemplative paths, it fails by inverting statistical scarcity into a prior prohibition on action and collapsing direct seeing into an attachment to form.
+
+→ [开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates](../../posts/the-form-of-enlightenment-and-the-inversion-of-gates/)
+

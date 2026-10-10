@@ -24,3 +24,4 @@ The essays in this part examine theological projections, the mirage of physical 
 - [The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 - [上帝的起源与“我们”的降维 / The Origin of God and the Flattening of "We"](../../posts/the-origin-of-god-and-the-flattening-of-we/)
 - [凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable](../../posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable/)
+- [开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates](../../posts/the-form-of-enlightenment-and-the-inversion-of-gates/)
