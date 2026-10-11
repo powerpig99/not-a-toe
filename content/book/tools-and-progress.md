@@ -42,4 +42,4 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat](../../posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)
 - [数字神祇与视界跳跃 / The Digital God and the Horizon Jump](../../posts/the-digital-god-and-the-horizon-jump/)
 - [阻力体感与速率差 / Felt Resistance and the Speed Differential](../../posts/felt-resistance-and-the-speed-differential/)
-- [低摩擦先锋与承重之地的迟滞 / The Low-Friction Vanguard and the Lag of Borne Weight](../../posts/the-low-friction-vanguard-and-the-lag-of-borne-weight/)
+- [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/)
