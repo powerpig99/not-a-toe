@@ -1486,6 +1486,15 @@ Presumes that embedding correlations between hidden variables and all future det
 
 → [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)
 
+### 技术先锋主义 / Technological Vanguardism
+`意识形态 / Ideological`
+
+技术先锋主义预设在低阻力沙盒中取得的单向指标领先拥有普适优越性；剥离摩擦的加速是通过将生存、合规与协调成本外包而达成的局部特权，一旦面对真实承重环境，能力将表现为关系性的收缩。
+
+Technological vanguardism assumes unilateral metric displacement achieved inside low-drag sandboxes conveys universal superiority; frictionless acceleration is a local privilege purchased by offloading survival, compliance, and coordination costs, contracting into relational capacity when confronting borne reality.
+
+→ [无摩擦先锋与承重之地的迟滞 / The Frictionless Vanguard and the Lag of Borne Weight](../../posts/the-frictionless-vanguard-and-the-lag-of-borne-weight/)
+
 ## 概念 / Concepts
 
 ### 抽象层累赘税 / Abstraction Layer Taxation
@@ -4105,7 +4114,7 @@ Demanding systemic guarantees relocates agency to administration; it diffuses re
 
 Benchmark suites assume standardized question sets measure generalized fluid intellect; static tests measure pattern match against historical distributions.
 
-→ [You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/)
+→ [You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/) · [无摩擦先锋与承重之地的迟滞 / The Frictionless Vanguard and the Lag of Borne Weight](../../posts/the-frictionless-vanguard-and-the-lag-of-borne-weight/)
 
 ### 静态AI代理分工框架 / Static AI Delegation Frame
 `技术 / Technological`

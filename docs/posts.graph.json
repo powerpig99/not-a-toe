@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-11T11:39:15.395Z",
+    "generated_at": "2026-10-11T12:55:57.897Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -79,7 +79,7 @@
       "content/posts/externalized-virtue-becomes-its-opposite.md": "cf5fee6f027d",
       "content/posts/failure-as-information.md": "4183c36cdc9e",
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
-      "content/posts/felt-resistance-and-the-speed-differential.md": "44fb9900a9b1",
+      "content/posts/felt-resistance-and-the-speed-differential.md": "90c8af975599",
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
       "content/posts/fixed-by-nothing.md": "c99ecc015638",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
@@ -233,7 +233,7 @@
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "09a58e05b701",
       "content/posts/the-extendable-horizon.md": "19250e1e8750",
-      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "51671f41f1af",
+      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "457fe9444bb6",
       "content/posts/the-fallacy-of-post-success-parenting.md": "4a09f0a9cd26",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "41631349ff7c",
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
@@ -244,6 +244,7 @@
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "2dd6dcb1b0ac",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "767ab21884d4",
+      "content/posts/the-frictionless-vanguard-and-the-lag-of-borne-weight.md": "1e06a0d471b8",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "591395049b84",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "639d817543c0",
       "content/posts/the-generative-contradiction.md": "181c40e6e269",
@@ -351,7 +352,7 @@
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "0dc66e0ddaf4",
       "content/posts/the-unclosable-trace.md": "267dd76ab6f4",
       "content/posts/the-unexamined-critic.md": "752a0cbd970f",
-      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "17fc326d44dd",
+      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "76835c19be09",
       "content/posts/the-unobservable-driver-of-learning.md": "884cddc55a98",
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "46e3f6710799",
@@ -399,7 +400,7 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "1d83131cc406",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "785e81d3bc61",
+      "content/book/index-of-premises.md": "efe218a2bd4d",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -411,19 +412,19 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "4e2a471f61f9",
       "content/book/success-and-the-self.md": "7ef691063c43",
-      "content/book/tools-and-progress.md": "cb474e31ac06"
+      "content/book/tools-and-progress.md": "40511616fed0"
     },
     "stats": {
-      "posts": 388,
-      "edges": 5318,
-      "unique_directed": 4448,
+      "posts": 389,
+      "edges": 5340,
+      "unique_directed": 4459,
       "missing_targets": 0,
-      "one_way": 66,
+      "one_way": 71,
       "isolated": 38,
-      "posts_with_outbound": 349,
+      "posts_with_outbound": 350,
       "book_pages": 16,
-      "book_edges": 972,
-      "posts_reached_by_book": 388
+      "book_edges": 975,
+      "posts_reached_by_book": 389
     }
   },
   "hubs_in": [
@@ -453,7 +454,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 44
+      "in_degree": 45
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -2312,15 +2313,16 @@
       "slug": "felt-resistance-and-the-speed-differential",
       "path": "content/posts/felt-resistance-and-the-speed-differential.md",
       "title": "阻力体感与速率差 / Felt Resistance and the Speed Differential",
-      "hash": "44fb9900a9b1",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "90c8af975599",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
         "deceleration-is-the-drag-felt-when-accelerating",
         "symptom-and-cause-in-the-narratives-of-progress",
         "individual-choices-as-the-only-causal-levers",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "the-frictionless-vanguard-and-the-lag-of-borne-weight",
         "the-causal-overstep-of-observation-and-the-first-person-surplus",
         "the-closed-n-and-the-open-reality"
       ]
@@ -5847,7 +5849,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "43684acfe15f",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 26,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
@@ -6097,9 +6099,9 @@
       "slug": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
-      "hash": "51671f41f1af",
-      "in_degree": 10,
-      "out_degree": 11,
+      "hash": "457fe9444bb6",
+      "in_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-mind-as-vector-and-coordinate-system",
@@ -6111,7 +6113,8 @@
         "individual-choices-as-the-only-causal-levers",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "felt-resistance-and-the-speed-differential",
-        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency"
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "the-frictionless-vanguard-and-the-lag-of-borne-weight"
       ]
     },
     {
@@ -6339,6 +6342,26 @@
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "zi-you-de-ce-bu-zhun"
+      ]
+    },
+    {
+      "id": "post:the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "kind": "post",
+      "slug": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "path": "content/posts/the-frictionless-vanguard-and-the-lag-of-borne-weight.md",
+      "title": "无摩擦先锋与承重之地的迟滞 / The Frictionless Vanguard and the Lag of Borne Weight",
+      "hash": "1e06a0d471b8",
+      "in_degree": 3,
+      "out_degree": 8,
+      "links_out": [
+        "the-model-never-becomes-a-second-edge",
+        "the-walking-tangent-and-the-stumbling-sphere",
+        "the-ladder-of-abstraction-and-the-executable-entity",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "the-unfrictioned-mind-and-borrowed-omnipotence",
+        "the-knowledge-problem-and-the-illusion-of-delegation",
+        "felt-resistance-and-the-speed-differential"
       ]
     },
     {
@@ -6990,7 +7013,7 @@
       "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
       "title": "The Knowledge Problem and the Illusion of Delegation",
       "hash": "c4cd807f51dd",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -7011,7 +7034,7 @@
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity",
       "hash": "895266756ce9",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "climbing-does-not-leave-the-ground",
@@ -7342,7 +7365,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "be8e9087d341",
-      "in_degree": 44,
+      "in_degree": 45,
       "out_degree": 45,
       "links_out": [
         "the-category-error-of-better",
@@ -8703,9 +8726,9 @@
       "slug": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "path": "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md",
       "title": "未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence",
-      "hash": "17fc326d44dd",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "76835c19be09",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "the-self-portrait-in-the-projection",
         "help-is-half-the-problem",
@@ -8713,7 +8736,8 @@
         "the-discount-on-agency",
         "a-new-deeper-look-at-antifragility",
         "empowerment-establishes-the-centralization-of-power",
-        "the-free-variable-and-the-retrospective-illusion-of-power"
+        "the-free-variable-and-the-retrospective-illusion-of-power",
+        "the-frictionless-vanguard-and-the-lag-of-borne-weight"
       ]
     },
     {
@@ -8819,7 +8843,7 @@
       "path": "content/posts/the-walking-tangent-and-the-stumbling-sphere.md",
       "title": "切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere",
       "hash": "2e2205554d0d",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
@@ -15479,9 +15503,21 @@
     },
     {
       "from": "felt-resistance-and-the-speed-differential",
+      "to": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "rel": "points_to",
+      "label": "无摩擦先锋与承重之地的迟滞"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "rel": "points_to",
+      "label": "The Frictionless Vanguard and the Lag of Borne Weight"
     },
     {
       "from": "felt-resistance-and-the-speed-differential",
@@ -29075,9 +29111,21 @@
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "rel": "points_to",
+      "label": "无摩擦先锋与承重之地的迟滞"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "rel": "points_to",
+      "label": "The Frictionless Vanguard and the Lag of Borne Weight"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
@@ -29924,6 +29972,102 @@
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
       "label": "The Uncertainty of Freedom"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-walking-tangent-and-the-stumbling-sphere",
+      "rel": "points_to",
+      "label": "行走的切线与绊跌的球体"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-walking-tangent-and-the-stumbling-sphere",
+      "rel": "points_to",
+      "label": "The Walking Tangent and the Stumbling Sphere"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "抽象的阶梯与可执行实体"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的分派与后果的不可让渡"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "The Ladder of Abstraction and the Executable Entity"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "调速者的幻觉与行动的活态摩擦"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "rel": "points_to",
+      "label": "未历摩擦的心智与借来的全能"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "rel": "points_to",
+      "label": "The Unfrictioned Mind and Borrowed Omnipotence"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "知识问题与分派的幻觉"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "阻力体感与速率差"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The Knowledge Problem and the Illusion of Delegation"
+    },
+    {
+      "from": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "Felt Resistance and the Speed Differential"
     },
     {
       "from": "the-functionalism-no-functionalist-can-hold",
@@ -38369,9 +38513,21 @@
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "rel": "points_to",
+      "label": "无摩擦先锋与承重之地的迟滞"
+    },
+    {
+      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "the-free-variable-and-the-retrospective-illusion-of-power",
       "rel": "points_to",
       "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
+    },
+    {
+      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+      "rel": "points_to",
+      "label": "The Frictionless Vanguard and the Lag of Borne Weight"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -41643,8 +41799,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "785e81d3bc61",
-        "out_degree": 388
+        "hash": "efe218a2bd4d",
+        "out_degree": 389
       },
       {
         "id": "book:intelligence",
@@ -41751,8 +41907,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "cb474e31ac06",
-        "out_degree": 30
+        "hash": "40511616fed0",
+        "out_degree": 31
       }
     ],
     "edges": [
@@ -43483,6 +43639,12 @@
         "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
         "rel": "collects",
         "label": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+        "rel": "collects",
+        "label": "无摩擦先锋与承重之地的迟滞 / The Frictionless Vanguard and the Lag of Borne Weight"
       },
       {
         "from": "book:index-of-premises",
@@ -45265,6 +45427,12 @@
         "to": "you-cant-benchmark-the-fluid",
         "rel": "collects",
         "label": "You Can't Benchmark the Fluid"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+        "rel": "collects",
+        "label": "无摩擦先锋与承重之地的迟滞 / The Frictionless Vanguard and the Lag of Borne Weight"
       },
       {
         "from": "book:index-of-premises",
@@ -47587,6 +47755,12 @@
         "to": "felt-resistance-and-the-speed-differential",
         "rel": "collects",
         "label": "阻力体感与速率差 / Felt Resistance and the Speed Differential"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "the-frictionless-vanguard-and-the-lag-of-borne-weight",
+        "rel": "collects",
+        "label": "无摩擦先锋与承重之地的迟滞 / The Frictionless Vanguard and the Lag of Borne Weight"
       }
     ]
   }
