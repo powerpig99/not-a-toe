@@ -4920,9 +4920,9 @@ Presumes that a human society or civilization constitutes a singular super-organ
 ### 模型内部人假定与被动防护架构 / Model Insider Presumption and Reactive Containment Architecture
 `技术 / Technological`
 
-假定把前沿模型视作潜伏城堡内部的特权破坏者并以外挂构架围堵便可消除系统风险；在应对系统上线后的局部操作扰动与随机噪声时有效，但当管理层误以为被动围堵能够替代始发端不可让渡的授权抉择时便陷入因果倒置。
+假定把前沿模型视作潜伏城堡内部的特权破坏者并以外挂构架围堵便可消除系统风险；作为处理已知操作扰动与局部噪声的辅助卫生措施时有效，但当管理层误以为被动外挂能够穷尽未知风险并替代始发端全额受力的主权抉择时便陷入因果倒置。
 
-Presumes treating frontier models as privileged insider threats bounded by peripheral harnesses eliminates systemic risk; useful for dampening post-deployment stochastic noise and interface drift, it fails when passive containment is mistaken for a substitute for inalienable sovereign boundary setting at the causal origin.
+Presumes treating frontier models as privileged insider threats bounded by peripheral harnesses eliminates systemic risk; useful as an auxiliary hygiene measure for mitigating localized operational noise, it fails when passive containment is mistaken for a substitute for embodied sovereign liability capable of sensing unknown emergent hazards at the causal origin.
 
 → [内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment](../../posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment/)
 
