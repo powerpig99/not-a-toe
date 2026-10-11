@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-10T18:06:19.845Z",
+    "generated_at": "2026-10-11T06:52:23.005Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -46,6 +46,7 @@
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "e9a275f84a7f",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "16c16c18bf19",
       "content/posts/conscience-power-delegation.md": "d11e1672ae5d",
+      "content/posts/consciousness-ascription-and-the-quantum-cut.md": "97145dbb019c",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "734f80912b47",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
@@ -219,7 +220,7 @@
       "content/posts/the-continuum-is-a-modeling-convenience.md": "6b9f8a6b0ce8",
       "content/posts/the-continuum-of-the-fold.md": "9427017c6590",
       "content/posts/the-coordinators-category-error.md": "89f6110cc916",
-      "content/posts/the-cut-moves-but-never-vanishes.md": "71a734404297",
+      "content/posts/the-cut-moves-but-never-vanishes.md": "7675974c6ef2",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "43684acfe15f",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
@@ -308,7 +309,7 @@
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "0d757a4508ca",
       "content/posts/the-perceiver-and-the-trace.md": "fd9d0dfee4cb",
-      "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "f61970179bb1",
+      "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "39ba1ef8a7a3",
       "content/posts/the-power-law-of-surrendered-agency.md": "a93148f9561d",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "0f27052d1822",
       "content/posts/the-price-of-closing-optionality.md": "a896ac859680",
@@ -333,7 +334,7 @@
       "content/posts/the-self-portrait-in-the-projection.md": "f4a97eba16ff",
       "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "929c252a952b",
-      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "83beeb888a4e",
+      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "8bc5df7f087d",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "3c66bd80af77",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
@@ -395,9 +396,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "9ce16a51283f",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "bb33b5eaed11",
-      "content/book/consciousness.md": "7ddbc4b054a8",
+      "content/book/consciousness.md": "1d83131cc406",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "7ad413ee2fe0",
+      "content/book/index-of-premises.md": "c1fd1cad8329",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -412,16 +413,16 @@
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 386,
-      "edges": 5290,
-      "unique_directed": 4434,
+      "posts": 387,
+      "edges": 5304,
+      "unique_directed": 4441,
       "missing_targets": 0,
-      "one_way": 60,
+      "one_way": 61,
       "isolated": 38,
-      "posts_with_outbound": 347,
+      "posts_with_outbound": 348,
       "book_pages": 16,
-      "book_edges": 965,
-      "posts_reached_by_book": 386
+      "book_edges": 968,
+      "posts_reached_by_book": 387
     }
   },
   "hubs_in": [
@@ -1599,6 +1600,22 @@
       "out_degree": 1,
       "links_out": [
         "what-always-listens-cannot-originate"
+      ]
+    },
+    {
+      "id": "post:consciousness-ascription-and-the-quantum-cut",
+      "kind": "post",
+      "slug": "consciousness-ascription-and-the-quantum-cut",
+      "path": "content/posts/consciousness-ascription-and-the-quantum-cut.md",
+      "title": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut",
+      "hash": "97145dbb019c",
+      "in_degree": 3,
+      "out_degree": 4,
+      "links_out": [
+        "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+        "the-cut-moves-but-never-vanishes",
+        "the-grammar-of-finding-and-the-fading-observer",
+        "the-potential-infinity-of-operators-and-the-finite-horizon-of-records"
       ]
     },
     {
@@ -5799,10 +5816,11 @@
       "slug": "the-cut-moves-but-never-vanishes",
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
-      "hash": "71a734404297",
-      "in_degree": 3,
-      "out_degree": 4,
+      "hash": "7675974c6ef2",
+      "in_degree": 4,
+      "out_degree": 5,
       "links_out": [
+        "consciousness-ascription-and-the-quantum-cut",
         "the-invisible-gods-eye",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -6521,7 +6539,7 @@
       "path": "content/posts/the-grammar-of-finding-and-the-fading-observer.md",
       "title": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer",
       "hash": "f7485fc0e38a",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 8,
       "links_out": [
         "the-irreducible-observer",
@@ -7664,13 +7682,14 @@
       "slug": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
       "path": "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md",
       "title": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records",
-      "hash": "f61970179bb1",
-      "in_degree": 2,
-      "out_degree": 5,
+      "hash": "39ba1ef8a7a3",
+      "in_degree": 3,
+      "out_degree": 6,
       "links_out": [
         "objects-are-stabilized-relationships",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "the-cut-moves-but-never-vanishes",
+        "consciousness-ascription-and-the-quantum-cut",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
       ]
@@ -8323,9 +8342,9 @@
       "slug": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
-      "hash": "83beeb888a4e",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "8bc5df7f087d",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
         "abstract-pain-and-living-hunger",
         "subtracting-consciousness-at-the-source",
@@ -8334,7 +8353,8 @@
         "the-irreducible-observer",
         "consciousness-never-appears-as-data-among-data",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
-        "the-functionalism-no-functionalist-can-hold"
+        "the-functionalism-no-functionalist-can-hold",
+        "consciousness-ascription-and-the-quantum-cut"
       ]
     },
     {
@@ -13306,6 +13326,54 @@
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
       "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "意识的魔术戏法与推断的非对称性"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Consciousness and the Asymmetry of Inference"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "寻觅的语法与淡出的观察者"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "the-grammar-of-finding-and-the-fading-observer",
+      "rel": "points_to",
+      "label": "The Grammar of Finding and the Fading Observer"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "rel": "points_to",
+      "label": "算符的潜无限与记录的有限边界"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "rel": "points_to",
+      "label": "The Potential Infinity of Operators and the Finite Horizon of Records"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
@@ -27499,6 +27567,18 @@
     },
     {
       "from": "the-cut-moves-but-never-vanishes",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "意识归属与量子割点"
+    },
+    {
+      "from": "the-cut-moves-but-never-vanishes",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "Consciousness Ascription and the Quantum Cut"
+    },
+    {
+      "from": "the-cut-moves-but-never-vanishes",
       "to": "the-invisible-gods-eye",
       "rel": "points_to",
       "label": "无处之境的上帝之眼"
@@ -34255,9 +34335,21 @@
     },
     {
       "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "意识归属与量子割点"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
       "to": "the-cut-moves-but-never-vanishes",
       "rel": "points_to",
       "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "Consciousness Ascription and the Quantum Cut"
     },
     {
       "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
@@ -36799,6 +36891,12 @@
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "意识归属与量子割点"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "rel": "points_to",
       "label": "The Boundary of Perception and the Infinity of Understanding"
@@ -36808,6 +36906,12 @@
       "to": "the-functionalism-no-functionalist-can-hold",
       "rel": "points_to",
       "label": "The Functionalism No Functionalist Can Hold"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "Consciousness Ascription and the Quantum Cut"
     },
     {
       "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
@@ -41417,8 +41521,8 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "7ddbc4b054a8",
-        "out_degree": 36
+        "hash": "1d83131cc406",
+        "out_degree": 37
       },
       {
         "id": "book:economics",
@@ -41435,8 +41539,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "7ad413ee2fe0",
-        "out_degree": 386
+        "hash": "c1fd1cad8329",
+        "out_degree": 387
       },
       {
         "id": "book:intelligence",
@@ -41955,6 +42059,12 @@
         "to": "present-contact-and-the-obscuration-of-desired-feeling",
         "rel": "collects",
         "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
+      },
+      {
+        "from": "book:consciousness",
+        "to": "consciousness-ascription-and-the-quantum-cut",
+        "rel": "collects",
+        "label": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut"
       },
       {
         "from": "book:economics",
@@ -45576,6 +45686,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "consciousness-ascription-and-the-quantum-cut",
+        "rel": "collects",
+        "label": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-cut-moves-but-never-vanishes",
         "rel": "collects",
         "label": "割点可移不可除 / The Cut Moves but Never Vanishes"
@@ -45591,6 +45707,12 @@
         "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
         "rel": "collects",
         "label": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "consciousness-ascription-and-the-quantum-cut",
+        "rel": "collects",
+        "label": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut"
       },
       {
         "from": "book:intelligence",
