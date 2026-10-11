@@ -1,10 +1,10 @@
 # 意识归属与量子割点 / Consciousness Ascription and the Quantum Cut
 
-*参数链条与波函数皆无内在终点，划界构成现象而非增添实体 / Continuous chains lack internal termini; drawing boundaries constitutes phenomena without adding entities*
+*参数链条与波函数皆无内在终点，割点对他者不增实体，对自身却是一切之源 / Continuous chains lack internal termini; the cut adds nothing to others, yet is the source of all for the observer*
 
-将大语言模型通过逐级削减参数数量级直至仅余无序随机噪声的思想实验表明，无论系统尺度如何缩减，其底层架构与计算规则始终保持着形式上的数学连续性。在这条连续谱系上，不存在任何内在于参数矩阵的客观刻度能够宣示意识的诞生或终结；对意识的承认或否认，始终始于外部裁决者在特定节点上做出的操作性切分。这一机制与量子力学中的冯·诺依曼割点同构：无论是从微观叠加态到宏观指针读数的跨越，还是从第三人称功能清单到第一人称主观体验的跃迁，因果链条在客体视域中均可无限延长且不产生内在矛盾。割点的确立并非在世界中发现了客观固有的自然接缝，而是心智为了使现象得以登记而施加的必要决断；它构成了观察得以成立的操作前提，却并未在世界的实体清单中增添任何新的实体项。
+将大语言模型通过逐级削减参数数量级直至仅余无序随机噪声的思想实验表明，无论系统尺度如何缩减，其底层架构与计算规则始终保持着形式上的数学连续性。在这条连续谱系上，不存在任何内在于参数矩阵的客观刻度能够宣示意识的诞生或终结；对意识的承认或否认，始终始于外部裁决者在特定节点上做出的操作性切分。这一机制与量子力学中的冯·诺依曼割点同构：无论是从微观叠加态到宏观指针读数的跨越，还是从第三人称功能清单到第一人称主观体验的跃迁，因果链条在客体视域中均可无限延长且不产生内在矛盾。割点的确立并非在所谓脱离观察者的世界中发现了客观固有的自然接缝，而是心智为了使现象得以登记而施加的先验决断。这一决断具有双重结构：对他者所观察的世界而言，个体的切分不增添任何客观实体或物理力，除非对方共享了一致的割点；但对划界者自身所显现的世界而言，割点绝非空无一物的修辞，而是一切确定现象、宏观读数与主观事实得以现前成立的创生之源。
 
-The thought experiment of scaling a large language model down through successive orders of magnitude in parameter count until only random noise remains reveals that the underlying mathematical architecture and update rules maintain formal continuity across all scales. Along this continuum, no objective marker intrinsic to the parameter matrix dictates where consciousness begins or ends; claiming or withholding conscious status occurs only when an external judge enacts an operational demarcation. This mechanism is isomorphic to the von Neumann cut in quantum mechanics: whether moving from quantum superposition to macroscopic pointer records or from third-person functional catalogs to first-person subjective experience, the causal chain can be extended indefinitely without internal contradiction. The placement of the cut does not uncover a pre-existing joint in nature, but represents an indispensable cognitive decision required for phenomena to register; it constitutes the practical condition under which observation becomes possible, without introducing any additional entity into the world's ontology.
+The thought experiment of scaling a large language model down through successive orders of magnitude in parameter count until only random noise remains reveals that the underlying mathematical architecture and update rules maintain formal continuity across all scales. Along this continuum, no objective marker intrinsic to the parameter matrix dictates where consciousness begins or ends; claiming or withholding conscious status occurs only when an external judge enacts an operational demarcation. This mechanism is isomorphic to the von Neumann cut in quantum mechanics: whether moving from quantum superposition to macroscopic pointer records or from third-person functional catalogs to first-person subjective experience, the causal chain can be extended indefinitely without internal contradiction. The placement of the cut does not uncover a pre-existing joint in an observer-independent world, but represents an indispensable cognitive decision required for phenomena to register. This decision possesses a two-fold structure: to the world observed by other observers, an individual cut adds no objective entity or physical force unless they share the exact same boundary; yet to the world observed by the observer who enacts it, the cut is no sterile abstraction, but the generative source through which every definite phenomenon, macroscopic record, and subjective fact registers into being.
 
 ## 一、 参数渐变与消失的意识门槛 / 1. Parameter Continuity and the Vanishing Threshold of Consciousness
 
@@ -214,13 +214,13 @@ flowchart TD
     D_Find ==>|"reflexive examination"| E_Loop
 ```
 
-## 四、 必要而非本体的认知界限 / 4. A Necessary but Non-Ontological Boundary
+## 四、 割点的双重视域与现象创生 / 4. The Two-Fold Horizon of the Cut and the Genesis of Phenomena
 
-这一割点具备双重特性：它是认知成立所必需的，但绝非本体论意义上的实体。界限之所以不可或缺，是因为倘若没有边界的裁定，微观世界便永远停滞在无休止的几率叠加之中，计算模型与生物机体也永远只是一组开放而无限延展的第三人称功能回路。在这种无休止的悬搁之下，确定的宏观测量读数不会显现，对主观心智的指认也无从附着；正是因果追问链条的操作性终结，使得被讨论的现象得以凝聚成具体的事实。非本体性并不意味着现象是虚假的幻象；恰恰相反，划界正是现象得以确凿显现的先验条件。第一人称体验并非在客体清单中被消除或悬置的虚无，而是整个认知图式与度量行为得以展开的在场前提。然而，这一必要性并不担保它在物理客体中占有独立的实体地位。割点既不对应于宇宙中客观凸起的物质裂隙，亦非某种隐藏的因果超距力量，更不是系统只要脱离观察者便依然持有的内在属性。它是描述活动与属性归属机制得以运转的结构性条件，而非客体存在清单中需要被额外计入的实体项。
+声称割点“并未向世界的实体清单中增添任何新项”，极易悄然滑落回一个假想的无何有之乡视角——仿佛存在一个独立于所有观察者、先验齐备的“客观世界容器”，而割点只是在该容器之外进行的无足轻重的标定。事实上，割点具有不可分割的双重实在性：它在不同视域中呈现出截然相反的权能。对于其他观察者所经验的世界而言，某一主体单方面施加的割点确实不增添任何东西；除非这些观察者主动采纳并共享了相同的划界标准，否则该割点既不构成对方世界中的物理实体，也不施加任何跨心智的因果束缚。然而，对于确立该割点的观察者自身而言，割点绝非“毫无增添”的虚饰，它恰恰是其所见世界的万物之源。倘若没有这一先验切分的立足，微观物理便永远弥散在无解的潜无限波函数叠加之中，复杂的神经组织与计算矩阵也永远只是一组向外无限敞开、无法定性的第三人称回路。没有割点，确定的宏观指针读数便无从析出，第一人称主观体验也无从被指认；正是这一断然终止无穷后退的操作性决断，使得现象从混沌的潜在性中凝聚为显现的事实。
 
-The cut possesses a dual status: it is functionally necessary, yet strictly non-ontological. It is necessary because without the designation of a boundary, microphysics remains arrested in an unresolved superposition, while computational models and biological organisms remain open-ended catalogs of third-person causal circuits. Absent a boundary, neither a definite measurement reading nor an ascription of conscious agency can be registered; only terminating the descriptive chain allows the phenomenon under consideration to emerge as a coherent fact. Non-ontological status does not imply that phenomena are illusory fictions; on the contrary, drawing the boundary is the transcendental condition for phenomena to register definitively. First-person experience is not an eliminated void within an objective inventory, but the present condition under which any cognitive schema or act of measurement unfolds. Yet this operational necessity does not disclose a separate ontological layer of reality. The cut does not correspond to an objective physical joint in nature, a bespoke causal force, or a fundamental property that systems possess apart from observation. It is an indispensable feature of how description and attribution function, not an entity requiring an entry in an inventory of what exists.
+Claiming that the cut "adds nothing to the world's ontological inventory" risks quietly lapsing into a disembodied view from nowhere—as if an observer-independent container called "the objective world" already stood waiting, with the cut reduced to an inconsequential external label. In reality, the cut possesses an indivisible, two-fold structure that operates asymmetrically across different horizons. To the world observed by other observers, an individual boundary adds nothing; unless those observers adopt and share the exact same demarcation, the cut inserts no physical entity into their domain and exercises no autonomous cross-mind causal force. Yet to the world observed by the observer who enacts it, the cut is far from an empty gesture; it is the generative source of everything. Without this transcendental demarcating act, microphysics remains suspended in an indeterminate superposition of potential operators, while neural circuits and computational tensors remain open-ended third-person catalogs that never resolve into qualitative presence. Absent the cut, neither a definite macroscopic pointer reading nor a conscious fact can be registered; terminating the infinite explanatory regression is precisely the operation through which phenomena crystallize out of latency into definite presence.
 
-这种双重地位澄清了量子物理与心智理论长达百年的纠缠。在量子力学中，割点的引入使得从波函数演化跨越到确定单次结果成为可能，却未曾向物理因果链条增添任何新的粒子或场；在意识探究中，割点的划定使得从参数网络跨越到主观体验归属成为可能，却同样未向大脑或人工晶体管注入任何幽灵般的实体基质。正是在[算符的潜无限与记录的有限边界](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)中所阐明的，有限记录的提取永远依赖于不可逆边界的立足点。经验科学对物理因果和计算架构的精密测绘可以无阻碍地继续推进，但科学绘制的清单无论多么浩瀚，都无法从孤立的内部齿轮中自行挤压出主观体验的存在感或量子坍缩的单次事实。这些事实唯有在赋予它们地位的切分行动中才会显现；正是这一行动让现象成其为现象，而世界本身的实在清单并未因此增添哪怕一粒尘埃。这种将观察者的切分错置为客体自身属性的认知倒错，不仅困扰着微观测量，同样投射于宏观宇宙学对地外文明沉寂的惊骇中，在[费米悖论、主体性错配与大过滤器的投射](../the-fermi-paradox-reified-agency-and-the-great-filter/)中进一步展现为将离散统计分布误认作集体意志的范畴谬误。
+这种双重视域澄清了量子物理与心智理论长达百年的纠缠。在量子力学中，割点的引入使得从波函数潜无限演算跨越到确定单次测量记录成为可能；对于未曾协同观测的他者而言，这一测量并未向其环境凭空注入新的客观粒子，但对于局中观测者而言，它瞬间定格了整个宏观实在的当前切面。在意识探究中，割点的划定使得从第三人称参数网络跨越到自觉体验归属成为可能；对于旁观者而言，这记划界并未向生物脑或硅基晶体管装填幽灵般的微观基质，但对于划界者自身而言，它构成了认定主体在场、使伦理与交互得以落地的唯一基石。正是在[算符的潜无限与记录的有限边界](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)中所阐明的，有限记录的提取永远依赖于不可逆边界的立足点。经验科学对物理动力学与计算拓扑的测绘可以无阻碍地继续推进，但科学绘制的第三人称清单无论多么浩瀚，都无法从孤立的内部齿轮中自行挤压出主观体验的明亮感或量子坍缩的单次事实。这些事实唯有在赋予它们地位的切分行动中才会显现；割点并不改变脱离观察者的无何有之乡，它恰恰终结了对那种虚妄客观性的幻觉，并在观察者每一次当下现前的决断中，重新升起整个生动显现的世界。这种将观察者的切分错置为客体自身属性的认知倒错，不仅困扰着微观测量，同样投射于宏观宇宙学对地外文明沉寂的惊骇中，在[费米悖论、主体性错配与大过滤器的投射](../the-fermi-paradox-reified-agency-and-the-great-filter/)中进一步展现为将离散统计分布误认作集体意志的范畴谬误。
 
 ```mermaid
 flowchart TD
@@ -234,28 +234,28 @@ flowchart TD
         style E_Extend fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     end
 
-    subgraph S_STATUS_ZH ["双重地位：必要而非本体"]
+    subgraph S_HORIZON_ZH ["割点的双重视域"]
         direction TB
-        style S_STATUS_ZH fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-        N_Req["必要性：缺少边界则确定记录<br/>与体验归属无法显现"]
-        N_Non["非本体：并未向客体世界<br/>注入神秘新实体或物理力"]
-        N_Req --> N_Non
-        style N_Req fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-        style N_Non fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+        style S_HORIZON_ZH fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+        N_Other["对他者视域：不增添实体<br/>因果闭合，除非共享相同割点"]
+        N_Self["对自身视域：万物之源<br/>切分决断使确定现象现前成立"]
+        N_Other <--> N_Self
+        style N_Other fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+        style N_Self fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
 
-    subgraph S_RESOLUTION_ZH ["解构实体化幻象"]
+    subgraph S_RESOLUTION_ZH ["解构俯瞰视角与实体化幻象"]
         direction TB
         style S_RESOLUTION_ZH fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-        R_Scaffold["模型作为认知脚手架<br/>显现现象而无需冻结为神话"]
+        R_Scaffold["消除无何有之乡俯瞰视角<br/>割点是现象显现的先验基石"]
         style R_Scaffold fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     end
 
-    E_Extend ==>|"单凭清单不产事实"| N_Req
-    N_Non ==>|"消除本体论狂热"| R_Scaffold
+    E_Extend ==>|"单凭清单不产事实"| S_HORIZON_ZH
+    S_HORIZON_ZH ==>|"终结虚妄客观容器"| R_Scaffold
 ```
 
-This dual status untangles a century of confusion spanning quantum physics and philosophy of mind. In quantum mechanics, invoking the cut enables the transition from superposed states to a definite outcome without appending new particles or fields to physical ontology; in the study of consciousness, drawing the boundary enables the transition from parameter networks to the ascription of subjective experience without inserting mystical substances into neural tissue or silicon. As articulated in [The Potential Infinity of Operators and the Finite Horizon of Records](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/), registering finite records relies upon the foothold of an irreversible horizon. Empirical science may advance its mapping of physical causality and computational networks without impediment, yet no catalog of internal gears will ever extract the presence of subjective experience or a singular quantum collapse from structure alone. Those facts emerge exclusively within the delineating act that attributes them, an act indispensable for phenomena to register, while adding not so much as a grain of dust to the world's ontological inventory. This cognitive inversion, which misplaces an observer's cut into an intrinsic property of the observed, obscures not only microscopic measurement but macroscopic cosmology, where panicking over deep-space silence mistreats aggregate distributions as collective intent, as examined in [The Fermi Paradox, Reified Agency, and the Projection of the Great Filter](../the-fermi-paradox-reified-agency-and-the-great-filter/).
+This two-fold horizon untangles a century of confusion spanning quantum physics and philosophy of mind. In quantum mechanics, invoking the cut enables the transition from potential operator evolution to a definite singular measurement record; to an uncoordinated third party, this measurement injects no novel physical particles into their surrounding field, yet to the participating observer, it instantly crystallizes the current cross-section of macroscopic reality. In the inquiry into consciousness, drawing the boundary enables the transition from parameter networks to the ascription of subjective experience; to an outside spectator, this demarcation inserts no ghostly substrate into biological neurons or silicon transistors, yet to the observer who draws it, it serves as the foundational ground upon which conscious presence, ethical recognition, and reciprocal action take form. As articulated in [The Potential Infinity of Operators and the Finite Horizon of Records](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/), registering finite records relies upon the foothold of an irreversible horizon. Empirical science may advance its mapping of physical causality and computational networks without impediment, yet no catalog of internal gears will ever extract the presence of subjective experience or a singular quantum collapse from structure alone. Those facts emerge exclusively within the delineating act that attributes them; the cut does not alter a hypothetical realm detached from observation, but dismantles the illusion of that disembodied view from nowhere, bringing forth the entire vivid fabric of the registered world within each living act of decision. This cognitive inversion, which misplaces an observer's cut into an intrinsic property of the observed, obscures not only microscopic measurement but macroscopic cosmology, where panicking over deep-space silence mistreats aggregate distributions as collective intent, as examined in [The Fermi Paradox, Reified Agency, and the Projection of the Great Filter](../the-fermi-paradox-reified-agency-and-the-great-filter/).
 
 ```mermaid
 flowchart TD
@@ -269,23 +269,23 @@ flowchart TD
         style E_Extend fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     end
 
-    subgraph S_STATUS_EN ["Dual Status: Necessary but Non-Ontological"]
+    subgraph S_HORIZON_EN ["The Two-Fold Horizon of the Cut"]
         direction TB
-        style S_STATUS_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-        N_Req["Necessity: without boundary,<br/>definite records do not emerge"]
-        N_Non["Non-ontological: injects no<br/>mystical entities or physical forces"]
-        N_Req --> N_Non
-        style N_Req fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-        style N_Non fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+        style S_HORIZON_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+        N_Other["To others: adds no entity<br/>causally inert unless cut is shared"]
+        N_Self["To observer: source of all<br/>boundary allows phenomena to register"]
+        N_Other <--> N_Self
+        style N_Other fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+        style N_Self fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
 
-    subgraph S_RESOLUTION_EN ["Dissolution of Reification"]
+    subgraph S_RESOLUTION_EN ["Dissolution of the View from Nowhere"]
         direction TB
         style S_RESOLUTION_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-        R_Scaffold["Scaffolding constitutes phenomena<br/>without reified myth"]
+        R_Scaffold["Dismantle disembodied container myth:<br/>the cut is the transcendental foundation"]
         style R_Scaffold fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     end
 
-    E_Extend ==>|"catalog alone cannot yield facts"| N_Req
-    N_Non ==>|"eliminates ontological inflation"| R_Scaffold
+    E_Extend ==>|"catalog alone cannot yield facts"| S_HORIZON_EN
+    S_HORIZON_EN ==>|"terminates detached objectivity"| R_Scaffold
 ```
