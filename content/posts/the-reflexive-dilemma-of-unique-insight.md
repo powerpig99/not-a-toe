@@ -14,6 +14,10 @@ Prior to any discrete act of observation, a given phenomenon remains indetermina
 
 这种心理图式在投资与资本配置中表现得尤为清晰。当一个参与者耗费心力发掘了一家自认为价值严重偏离的冷门企业并完成建仓之后，便在次日迅速产生强烈的焦躁，恨不得资产价格立刻暴涨到位。促成这种急躁的因果假想在于，既然他已经把这家企业的优越性梳理清楚，那么整个市场上的其余资本就应当在下一个日出时同步醒悟。他遗忘了就在做出买入决定的前一刻，这家企业对他本人而言同样处于未被定价的盲区。将个人的后验顿悟强加于外部世界的时钟，是把第一人称的意向性发现，僭越为了第三方必须即刻兑现的客观债务。正如在 [隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/) 与 [行走的切线与绊跌的球体](../the-walking-tangent-and-the-stumbling-sphere/) 中所分析的那样，观察者一旦将自己移出画面，就会把生成性的试探包装成静态的必然。
 
+This psychological schema manifests with stark clarity across capital allocation and financial markets. The moment a participant uncovers an obscure enterprise perceived as deeply mispriced and establishes a position, an urgent restlessness sets in, desiring the asset's price to surge instantaneously. Generating this impatience is a causal presumption: since the investor has mapped the company's merits, all remaining capital in the market ought to awaken to the same realization at the next sunrise. Forgotten in this haste is the reality that moments prior to purchase, the company occupied a blind spot for the investor as well. Imposing a private retrospective epiphany upon the temporal cadence of the world treats a first-person discovery as a compulsory debt that external parties must settle on command. As analyzed in [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) and [The Walking Tangent and the Stumbling Sphere](../the-walking-tangent-and-the-stumbling-sphere/), an observer removing themselves from the frame recasts a generative probe as static inevitability.
+
+这种机制同样广泛见证于科学史上的优先权争夺与日常认知顿悟之中。在某个数学证明或理论构想尚未破晓的漫长岁月里，探索者自己同样在概念迷雾中反复碰壁、束手无策；然而一旦关键的直觉火花被偶然点燃，心智便在瞬息之间将整条推导链条压缩为一个不言自明的整体。此时，他立即忘却了此前漫长的困顿与盲目，转而对同行的迟疑、审稿人的谨慎以及学界的冷淡感到不可理喻：如此清晰的结构，他们为何视而不见？他未能意识到，对于未曾经历其私密试探轨迹的外部心智而言，那些被他内部折叠的直觉阶梯与未言明的上下文，依然是未被照亮的重重迷障。
+
 ```mermaid
 flowchart TD
   subgraph S_POST["【观察闭合与必然性的后验投射】"]
@@ -27,7 +31,7 @@ flowchart TD
   subgraph S_EXT["【因果僭越与外部同步诉求】"]
     direction TB
     E_DEMAND["因果僭越：要求外部世界即刻确认并兑现"]
-    E_FORGET["前夜遗忘：抹去自身在买入前夜的无知"]
+    E_FORGET["前夜遗忘：抹去自身在顿悟前夜的无知"]
     E_EXP["急躁情绪：将私人意向倒错为客观债务"]
     E_DEMAND --> E_FORGET --> E_EXP
   end
@@ -44,7 +48,7 @@ flowchart TD
   style E_EXP fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-This psychological schema manifests with stark clarity across capital allocation and financial markets. The moment a participant uncovers an obscure enterprise perceived as deeply mispriced and establishes a position, an urgent restlessness sets in, desiring the asset's price to surge instantaneously. Generating this impatience is a causal presumption: since the investor has mapped the company's merits, all remaining capital in the market ought to awaken to the same realization at the next sunrise. Forgotten in this haste is the reality that moments prior to purchase, the company occupied a blind spot for the investor as well. Imposing a private retrospective epiphany upon the temporal cadence of the world treats a first-person discovery as a compulsory debt that external parties must settle on command. As analyzed in [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) and [The Walking Tangent and the Stumbling Sphere](../the-walking-tangent-and-the-stumbling-sphere/), an observer removing themselves from the frame recasts a generative probe as static inevitability.
+This mechanism surfaces with equal clarity across scientific priority disputes and everyday intellectual epiphanies. Throughout the protracted years prior to a mathematical breakthrough or theoretical discovery, the researcher themselves grapples fruitlessly within conceptual fog; yet the moment an intuitive spark ignites, the mind collapses the entire inferential chain into a self-evident whole. Erasing years of personal disorientation in an instant, they regard the hesitation of peers, the caution of reviewers, and the cold indifference of the academy as baffling: how can they remain blind to something so plain? What they fail to register is that for external minds lacking their private trail of trial and error, the intuitive scaffolding and implicit context they have internally compressed remain an unilluminated mountain range.
 
 ```mermaid
 flowchart TD
@@ -86,33 +90,33 @@ This obsession with instantaneous resonance culminates in an irreconcilable refl
 
 Yet the mental architecture of the vanguard collapses into a mutually exclusive double-bind: demanding both the prestige and asymmetric returns of standing upon an uncrowded frontier, while refusing to tolerate the solitude and temporal latency inherent to non-consensus positions, indignantly demanding why others fail to comprehend or keep pace. This complaint dismantles its own premise: if an insight could be absorbed without friction and executed immediately by the general population, it never possessed genuine exclusivity, and its cognitive premium would vanish the moment effortless consensus was achieved. Demanding the distinction of solitary foresight alongside the comforting warmth of unanimous applause stitches contradictory yardsticks together. As illuminated in [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) and [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/), resenting the friction generated by a speed differential while treating that differential as the definition of excellence represents an irreconcilable contradiction.
 
-即便将这种独见性的动机从“攫取非共识红利”置换为更为崇高的“预警系统性危机”，因果律的自反性约束也并未因此解除。灾难与系统的断裂始终是海量微观变量在漫长偏离中的非线性涌现，本就不存在可以被单点心智提前全知度量的客观特权。一旦预警者将局部的危险体感固化为确定性的必然，并要求整个系统依其意志紧急制动，他便再度陷入了自相矛盾的处境：系统的平稳渡过将使他的先见失去凭据，而唯有危机的真正爆发才能坐实其预言的合法性。在此种姿态下，心智不仅未曾抽离，反而在无意识中将自身的认知自尊与系统的崩溃绑定在了一起。
+即便将这种独见性的动机从“攫取非共识红利”置换为更为崇高的“预警系统性危机”，因果律的自反性约束也并未因此解除。灾难与系统的断裂始终是海量微观变量在漫长偏离中的非线性涌现，本就不存在可以被单点心智提前全知度量的客观特权。一旦预警者将局部的危险体感固化为确定性的必然，并要求整个系统依其意志紧急制动，他便再度陷入了自相矛盾的处境：系统的平稳渡过将使他的先见失去凭据，而唯有危机的真正爆发才能坐实其预言的合法性。这恰好构成了另一种认知锁定的反向镜像——如同那些为了维系固有自我模型而必须否认结构脆弱性、祈求危机永远不要降临的盲目乐观者一样，双方都在试图以私人的心智模型绑架动态的现实。在此种姿态下，心智不仅未曾抽离，反而在无意识中将自身的认知自尊与系统的崩溃绑定在了一起。
 
 ```mermaid
 flowchart TD
-  subgraph S_CLAIM["【独到见解的自称与双重诉求】"]
+  subgraph S_CLAIM["【先锋宣称与双重诉求】"]
     direction TB
-    C_ALPHA["自称拥有非共识认知与前沿超前性"]
-    C_DEMAND["转折要求：质问外界为何不解且未能同步"]
+    C_ALPHA["宣称独见：标榜非共识与前沿超前性"]
+    C_DEMAND["自反性诉求：质问外界为何未能即刻同步"]
     C_ALPHA --> C_DEMAND
   end
 
-  subgraph S_PROOF["【独见性的因果印证】"]
+  subgraph S_PROOF["【独见性的因果凭证】"]
     direction TB
-    R_GAP["认知壁垒：非共识的唯一证明即外界的不解"]
-    R_TIME["时间迟滞：价值发现需要真实的因果沉淀"]
+    R_GAP["认知壁垒：外界不解正是独见性的直接证明"]
+    R_TIME["时间迟滞：状态转移需要真实的因果耗时"]
     R_GAP --> R_TIME
   end
 
-  subgraph S_PARADOX["【自反性逻辑瓦解】"]
+  subgraph S_PARADOX["【结构性自我瓦解】"]
     direction TB
-    X_COLLAPSE["瓦解一：若人人秒懂，则见解不复独特"]
-    X_ABSURD["瓦解二：既要前沿声望，又要即刻共识舒适"]
-    X_PROPHET["瓦解三：预警若执于兑现，则与崩溃暗中绑定"]
+    X_COLLAPSE["悖论一：人人秒懂则见解毫无超前性"]
+    X_ABSURD["悖论二：既要孤岛声望又要即刻共识温存"]
+    X_PROPHET["悖论三：执于预警兑现反与崩溃暗中绑定"]
     X_COLLAPSE --- X_ABSURD --- X_PROPHET
   end
 
-  C_DEMAND ==>|"无视因果前提的规训投射"| R_TIME
+  C_DEMAND ==>|"无视因果条件的后验投射"| R_TIME
   C_DEMAND -.->|"结构性自我瓦解"| S_PARADOX
 
   style S_CLAIM fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -127,7 +131,7 @@ flowchart TD
   style X_PROPHET fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-Even when replacing the motive of capturing asymmetric returns with the seemingly noble imperative of sounding systemic alarms, the reflexive constraints of causality remain unyielding. Catastrophes and systemic ruptures emerge from the non-linear divergence of countless microscopic variables; they offer zero ontological privilege for any singular mind to forecast with deterministic precision. The moment a herald reifies a localized intuition of tail risk into inescapable certainty, demanding that the systemic whole brake on command, they walk into the same contradiction: the system's quiet resilience renders their foresight unfalsifiable or void, whereas only actual collapse can ratify the legitimacy of their warning. Under such a posture, rather than standing detached, the mind unwittingly tethers its own epistemic validation to the very destruction it purports to avert.
+Even when replacing the motive of capturing asymmetric returns with the seemingly noble imperative of sounding systemic alarms, the reflexive constraints of causality remain unyielding. Catastrophes and systemic ruptures emerge from the non-linear divergence of countless microscopic variables; they offer zero ontological privilege for any singular mind to forecast with deterministic precision. The moment a herald reifies a localized intuition of tail risk into inescapable certainty, demanding that the systemic whole brake on command, they walk into the same contradiction: the system's quiet resilience renders their foresight unfalsifiable or void, whereas only actual collapse can ratify the legitimacy of their warning. This forms the exact inverse mirror of those who, needing the catastrophe never to arrive in order to protect an entrenched self-model, dogmatically dismiss structural vulnerability—both sides coerce dynamic reality to ratify a private projection. Under such a posture, rather than standing detached, the mind unwittingly tethers its own epistemic validation to the very destruction it purports to avert.
 
 ```mermaid
 flowchart TD
@@ -141,7 +145,7 @@ flowchart TD
   subgraph S_PROOF["[Causal Proof of Exclusivity]"]
     direction TB
     R_GAP["Cognitive Moat: Incomprehension Validates Rarity"]
-    R_TIME["Temporal Latency: Discovery Requires State Transition Time"]
+    R_TIME["Temporal Latency: State Transition Requires Causal Time"]
     R_GAP --> R_TIME
   end
 
@@ -178,9 +182,9 @@ This cognitive asymmetry echoes with equal force where technical frontiers colli
 
 Mistaking localized acceleration along a drag-reduced track for universal competence commits a categorical inversion. Whether re-pricing an asset across financial markets or restructuring workflows across enterprise networks, macroscopic state transitions demand liquidity, risk absorption, and coordinated institutional realignment. Moving rapidly is one condition; running while bearing total systemic survival liabilities is entirely another. As articulated in [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) and [The Unfrictioned Mind and Borrowed Omnipotence](../the-unfrictioned-mind-and-borrowed-omnipotence/), the deliberate cadence of load-bearing institutions is not cognitive sluggishness; it is the physical absorption of the causal balance sheet required to prevent systemic collapse. Demanding that a fully laden freight train navigating a tempest match the velocity of an unburdened test vehicle along a pristine track confuses externalized drag with an entitlement to discipline those carrying the weight.
 
-面对现实的滞重，探索者还习惯于在观念中将阻力划分为两种性质：将物理定律与技术瓶颈视作合理的“客观约束”，而将组织防卫、流程繁冗与利益博弈斥为多余的“体制病态”。然而，这种划分本身便预设了一个脱离了所有具体承重位置的“无处之境”。在行动的地貌上，阻力不带有任何道德标签。那些被先锋派视作滞碍的防线与冗余，在身处其中的主体看来，正是其抵御局部风险、维系生计存续的现实因果账单。泥泞并非道路的缺陷，泥泞就是道路本身。将自身的受阻归咎于环境的“不道德”，依然是将个人的顺畅通行，倒错为了外部世界理应提供的天赋权利。
+面对现实的滞重，探索者还习惯于在观念中将阻力划分为两种性质：将物理定律与技术瓶颈视作合理的“客观约束”，而将组织防卫、流程繁冗与利益博弈斥为多余的“体制病态”。诚然，系统内部确实充斥着真实的协调失败、局部的寻租壁垒与自利耗散，但这并不意味着制度阻力本身是一笔可以凭空抹去的无谓赘物。这种在道德上划分健康与病态的倾向，预设了一个脱离了所有具体承重位置的“无处之境”。在行动的地貌上，即便参差交织着局部的低效，阻力作为一个整体依然不带有先验的道德标签。那些被先锋派视作滞碍的防线与冗余，在身处其中的主体看来，正是其抵御局部风险、维系生计存续的现实因果账单。泥泞并非道路的缺陷，泥泞就是道路本身。将自身的受阻归咎于环境的“不道德”，依然是将个人的顺畅通行，倒错为了外部世界理应提供的天赋权利。
 
-Confronting the world's drag, pioneers habitually bifurcate resistance into two moral categories: acknowledging physical laws and technical limits as legitimate "objective constraints," while dismissing institutional defense, procedural friction, and competing interests as dispensable "pathological inertia." Yet this distinction itself presupposes a View from Nowhere, floating detached from all situated loads. Across the terrain of action, friction carries no ethical polarity. What appears to the pioneer as backward friction represents, for the actors within it, the tangible causal balance sheet necessary to buffer local exposure and sustain precarious equilibrium. The mire is not an aberration along the road; the mire is the road itself. Indicting ground resistance as "pathological" merely recasts one's desire for frictionless passage as an unearned cosmic entitlement.
+Confronting the world's drag, pioneers habitually bifurcate resistance into two moral categories: acknowledging physical laws and technical limits as legitimate "objective constraints," while dismissing institutional defense, procedural friction, and competing interests as dispensable "pathological inertia." To be sure, real-world systems overflow with genuine coordination failures, localized rent-seeking barriers, and self-interested dissipation; yet this does not imply that institutional drag is an arbitrary excrescence that can be wished away. That moral demarcation itself presupposes a View from Nowhere, floating detached from all situated loads. Across the terrain of action, even when intertwined with local inefficiencies, friction as a totality carries no a priori ethical polarity. What appears to the pioneer as backward friction represents, for the actors within it, the tangible causal balance sheet necessary to buffer local exposure and sustain precarious equilibrium. The mire is not an aberration along the road; the mire is the road itself. Indicting ground resistance as "pathological" merely recasts one's desire for frictionless passage as an unearned cosmic entitlement.
 
 ## 四、 第一人称心智的主权驻留与因果耐心 / 4. Sovereign Demarcation and the Epistemic Patience of the Living Mind
 
