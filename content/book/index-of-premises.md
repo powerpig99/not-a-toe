@@ -530,6 +530,15 @@ Penrose infers non-computable consciousness from human understanding of Gödel; 
 
 → [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
 
+### 罗宾·汉森 / Robin Hanson
+`科学 / Scientific`
+
+汉森提出大过滤器假说以解释深空寂静与星际扩张门槛；当其将深空无声归因于客观进化漏斗并反向推导人类文明的集体安逸时失效，因为文明并非具备选择意志的决策实体；在估算技术跃迁的宏观概率分布方面保持有用。
+
+Hanson formulated the Great Filter hypothesis to account for cosmic silence and interstellar expansion thresholds; fails when attributing deep-space silence to an objective evolutionary sieve and diagnosing collective civilizational complacency, because a civilization possesses no sovereign agency; remains useful for modeling probabilistic milestones across macro-scale technological transitions.
+
+→ [费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter](../../posts/the-fermi-paradox-reified-agency-and-the-great-filter/)
+
 ### 萨宾·霍森菲尔德 / Sabine Hossenfelder
 `科学 / Scientific`
 
@@ -657,6 +666,15 @@ Antifragility posits systems benefit from shock and volatility; this holds withi
 Backpropagation posits biological learning computes global error gradients backward; brain tissue operates via forward local plasticity without symmetric weight transport.
 
 → [The Brain Does Not Backprop, but Propagates](../../posts/the-brain-does-not-backprop/)
+
+### 大过滤器假说 / The Great Filter Hypothesis
+`科学 / Scientific`
+
+大过滤器假说预设从原始生命到星际扩张之间存在一道或多道极难跨越的统计门槛，并将深空寂静解释为文明面临的客观演化漏斗；当其将深空的沉寂反向推导为人类社会作为一个整体在安逸中走向衰竭时失效，因为文明并不具备选择与行动的主体意志，宏观分布只是无数微观个体局部权衡的统计沉淀；在测算技术演进的宏观阶段与多步转移概率时保持有效。
+
+The Great Filter hypothesis posits one or more extraordinarily improbable evolutionary barriers between prebiotic chemistry and durable interstellar expansion, interpreting cosmic silence as an objective civilizational sieve; it fails when inverting the silence into a diagnosis of collective human complacency, because a civilization possesses no unified decision-making agency and macroscopic outcomes are mere statistical aggregates of discrete individual tradeoffs; it remains useful for categorizing macroscopic technological milestones and transitional probabilities.
+
+→ [费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter](../../posts/the-fermi-paradox-reified-agency-and-the-great-filter/)
 
 ### 行为经济学 / Behavioral Economics
 `经济 / Economic`
@@ -4880,4 +4898,13 @@ Presumes that linear superpositions in wave function expansions represent physic
 Presumes that exponential parameter growth causes first-person consciousness to emerge spontaneously at an intrinsic internal threshold; valid for engineering conversational competence across scaling laws, it reaches its boundary because third-person computational chains are mathematically continuous, meaning conscious thresholds are operational cuts enacted by observers to register facts rather than physical phase transitions intrinsic to the weights.
 
 → [意识归属与量子割点 / Consciousness Ascription and the Quantum Cut](../../posts/consciousness-ascription-and-the-quantum-cut/)
+
+### 文明主体论 / Civilizational Holism
+`意识形态 / Ideological`
+
+假定人类社会与文明整体构成一个拥有统一决断意志、价值偏好与演化使命的超级生命实体；在进行大尺度历史记账与宏观制度演进编目时保持描述效用，当其把微观个体在分散约束下做出的理性选择汇聚成的统计分布倒置为文明意志的退缩、并要求具体生命为虚构的宏观意志牺牲生存稳态时失效，因为意志与因果主权严格仅属于具身心智。
+
+Presumes that a human society or civilization constitutes a singular super-organism endowed with unified decision-making will, value preferences, and an overarching evolutionary mandate; useful as a macroscopic descriptive frame for historical accounting and institutional cataloging, it fails when inverting the aggregate statistical distribution of discrete individual tradeoffs into the conscious intent or decay of a civilizational will, and demanding sovereign sacrifices for a fictional phantom, because agency and causal responsibility belong exclusively to living minds.
+
+→ [费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter](../../posts/the-fermi-paradox-reified-agency-and-the-great-filter/)
 

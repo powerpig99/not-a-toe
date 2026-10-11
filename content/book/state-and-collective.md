@@ -41,3 +41,4 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 - [权力的镜像握手 / The Mirror Handshake of Power](../../posts/the-mirror-handshake-of-power/)
 - [“非中介化”的幻象 / The Illusion of the Unmediated](../../posts/the-illusion-of-the-unmediated/)
 - [革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence](../../posts/the-name-revolution-files-a-life-as-evidence/)
+- [费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter](../../posts/the-fermi-paradox-reified-agency-and-the-great-filter/)

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-11T09:15:50.733Z",
+    "generated_at": "2026-10-11T10:35:58.601Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -46,7 +46,7 @@
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "e9a275f84a7f",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "16c16c18bf19",
       "content/posts/conscience-power-delegation.md": "d11e1672ae5d",
-      "content/posts/consciousness-ascription-and-the-quantum-cut.md": "68aead75fac6",
+      "content/posts/consciousness-ascription-and-the-quantum-cut.md": "dd3d17088809",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "734f80912b47",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
@@ -235,6 +235,7 @@
       "content/posts/the-extendable-horizon.md": "19250e1e8750",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "51671f41f1af",
       "content/posts/the-fallacy-of-post-success-parenting.md": "4a09f0a9cd26",
+      "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "5ba3872c89fd",
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "e8672622b459",
       "content/posts/the-flywheel-of-the-mind.md": "c28e884fa611",
@@ -398,7 +399,7 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "1d83131cc406",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "c1fd1cad8329",
+      "content/book/index-of-premises.md": "785e81d3bc61",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -408,21 +409,21 @@
       "content/book/morality.md": "25d4f858a2df",
       "content/book/physics.md": "e83c6a69a004",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "550fd32f6c90",
+      "content/book/state-and-collective.md": "4e2a471f61f9",
       "content/book/success-and-the-self.md": "7ef691063c43",
       "content/book/tools-and-progress.md": "cb474e31ac06"
     },
     "stats": {
-      "posts": 387,
-      "edges": 5304,
-      "unique_directed": 4441,
+      "posts": 388,
+      "edges": 5318,
+      "unique_directed": 4448,
       "missing_targets": 0,
-      "one_way": 61,
+      "one_way": 66,
       "isolated": 38,
-      "posts_with_outbound": 348,
+      "posts_with_outbound": 349,
       "book_pages": 16,
-      "book_edges": 968,
-      "posts_reached_by_book": 387
+      "book_edges": 972,
+      "posts_reached_by_book": 388
     }
   },
   "hubs_in": [
@@ -1608,14 +1609,15 @@
       "slug": "consciousness-ascription-and-the-quantum-cut",
       "path": "content/posts/consciousness-ascription-and-the-quantum-cut.md",
       "title": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut",
-      "hash": "68aead75fac6",
-      "in_degree": 3,
-      "out_degree": 4,
+      "hash": "dd3d17088809",
+      "in_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "the-cut-moves-but-never-vanishes",
         "the-grammar-of-finding-and-the-fading-observer",
-        "the-potential-infinity-of-operators-and-the-finite-horizon-of-records"
+        "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+        "the-fermi-paradox-reified-agency-and-the-great-filter"
       ]
     },
     {
@@ -4551,7 +4553,7 @@
       "path": "content/posts/residual-individualism.md",
       "title": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies",
       "hash": "5036d9e99a57",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 23,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -5765,7 +5767,7 @@
       "path": "content/posts/the-continuum-of-the-fold.md",
       "title": "The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication",
       "hash": "9427017c6590",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "the-geometry-of-mind",
@@ -6134,6 +6136,24 @@
         "the-generative-mechanics-of-value-money-and-wealth",
         "the-look-of-constraint-is-not-the-loss-of-freedom",
         "po-chu-gai-nian-de-jian-yue"
+      ]
+    },
+    {
+      "id": "post:the-fermi-paradox-reified-agency-and-the-great-filter",
+      "kind": "post",
+      "slug": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "path": "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md",
+      "title": "费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter",
+      "hash": "5ba3872c89fd",
+      "in_degree": 1,
+      "out_degree": 6,
+      "links_out": [
+        "the-misallocation-of-agency",
+        "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+        "residual-individualism",
+        "consciousness-ascription-and-the-quantum-cut",
+        "the-continuum-of-the-fold",
+        "the-vector-and-the-puzzle-of-projections"
       ]
     },
     {
@@ -7297,7 +7317,7 @@
       "path": "content/posts/the-misallocation-of-agency.md",
       "title": "The Misallocation of Agency",
       "hash": "d69ef11bb4b8",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 13,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -8758,7 +8778,7 @@
       "path": "content/posts/the-vector-and-the-puzzle-of-projections.md",
       "title": "向量与投影的迷局",
       "hash": "46e3f6710799",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 18,
       "links_out": [
         "dimensions-are-projections",
@@ -9462,7 +9482,7 @@
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错",
       "hash": "f26aeb73d320",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 14,
       "links_out": [
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
@@ -13371,9 +13391,21 @@
     },
     {
       "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "rel": "points_to",
+      "label": "费米悖论、主体性错配与大过滤器的投射"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
       "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
       "rel": "points_to",
       "label": "The Potential Infinity of Operators and the Finite Horizon of Records"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "rel": "points_to",
+      "label": "The Fermi Paradox, Reified Agency, and the Projection of the Great Filter"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
@@ -29120,6 +29152,78 @@
       "label": "Overcoming the Usurpation of Concepts"
     },
     {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "主体性的错配"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果：解构“雪崩之罪”与集体概念的归因倒错"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The Misallocation of Agency"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "The Pseudo-Causality of Emergence"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "残余的个人主义"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "意识指派与量子切分"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "折叠的连续谱"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "Consciousness Ascription and the Quantum Cut"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "The Continuum of the Fold"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "向量与投影之谜"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "The Vector and the Puzzle of Projections"
+    },
+    {
       "from": "the-fixed-image-of-transcendence",
       "to": "curiosity-has-no-final-form",
       "rel": "points_to",
@@ -41539,8 +41643,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c1fd1cad8329",
-        "out_degree": 387
+        "hash": "785e81d3bc61",
+        "out_degree": 388
       },
       {
         "id": "book:intelligence",
@@ -41629,8 +41733,8 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "550fd32f6c90",
-        "out_degree": 29
+        "hash": "4e2a471f61f9",
+        "out_degree": 30
       },
       {
         "id": "book:success-and-the-self",
@@ -42668,6 +42772,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-fermi-paradox-reified-agency-and-the-great-filter",
+        "rel": "collects",
+        "label": "费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
         "rel": "collects",
         "label": "On Closed Systems, Open Minds, and the Limits of Proof"
@@ -42773,6 +42883,12 @@
         "to": "the-brain-does-not-backprop",
         "rel": "collects",
         "label": "The Brain Does Not Backprop, but Propagates"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-fermi-paradox-reified-agency-and-the-great-filter",
+        "rel": "collects",
+        "label": "费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter"
       },
       {
         "from": "book:index-of-premises",
@@ -45715,6 +45831,12 @@
         "label": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut"
       },
       {
+        "from": "book:index-of-premises",
+        "to": "the-fermi-paradox-reified-agency-and-the-great-filter",
+        "rel": "collects",
+        "label": "费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter"
+      },
+      {
         "from": "book:intelligence",
         "to": "agents_leia_ontological_clarity",
         "rel": "collects",
@@ -47081,6 +47203,12 @@
         "to": "the-name-revolution-files-a-life-as-evidence",
         "rel": "collects",
         "label": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence"
+      },
+      {
+        "from": "book:state-and-collective",
+        "to": "the-fermi-paradox-reified-agency-and-the-great-filter",
+        "rel": "collects",
+        "label": "费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter"
       },
       {
         "from": "book:success-and-the-self",
