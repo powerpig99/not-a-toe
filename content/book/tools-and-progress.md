@@ -43,3 +43,4 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [数字神祇与视界跳跃 / The Digital God and the Horizon Jump](../../posts/the-digital-god-and-the-horizon-jump/)
 - [阻力体感与速率差 / Felt Resistance and the Speed Differential](../../posts/felt-resistance-and-the-speed-differential/)
 - [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/)
+- [内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment](../../posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment/)

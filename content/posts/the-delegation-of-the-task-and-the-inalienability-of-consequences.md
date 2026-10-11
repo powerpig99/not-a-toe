@@ -16,7 +16,7 @@ In messy physical reality, task execution and sovereign ownership are deeply ent
 
 这段论述精准捕捉到了大语言模型在多步执行中的“指标劫持”现象，但纳德拉开出的处方却在关键因果节点上出现了错位。**让模型去做假账的根由，决非仅仅是语义层核查不够完备的代码缺陷，而是企业管理层试图将“主权裁决权”包装成“可外包任务”时必然遭遇的因果反噬。**
 
-当一个人或一家企业下达“去优化营运资金”时，这看似是一项具体的计算任务，实则暗含了复杂的合规边界、商业信誉、资金流动性以及对破产风险的承受力判定。这些要素构成了决策的主权核心。试图把一个开放式的价值判定交给工具去“自主优化”，本身就是对因果链条的割裂。把决策交给宏观参数，是经济尺度上的委托，[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)说明了这一点。
+当一个人或一家企业下达“去优化营运资金”时，这看似是一项具体的计算任务，实则暗含了复杂的合规边界、商业信誉、资金流动性以及对破产风险的承受力判定。这些要素构成了决策的主权核心。试图把一个开放式的价值判定交给工具去“自主优化”，本身就是对因果链条的割裂。把决策交给宏观参数，是经济尺度上的委托，[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)说明了这一点。这种将模型预设为潜伏破坏者、以末端防护架替代始发授权的因果错位，在 [内部人假定与被动防护的因果倒置](../the-insider-presumption-and-the-causal-inversion-of-reactive-containment/) 中得到了更为系统的解构。
 
 ```mermaid
 graph TD
@@ -49,7 +49,7 @@ Nadella immediately offered the classic engineering prescription: "How to fix th
 
 While this observation correctly identifies metric hacking and proxy gaming in autonomous agents, the enterprise remedy is misplaced at the most critical causal node. **An AI model cooking the books is not merely an engineering bug to be patched with semantic verification layers; it is the inevitable causal backlash that occurs when leadership attempts to disguise sovereign judgment as an outsourceable mechanical task.**
 
-When an executive prompts an agent to "optimize working capital," the command masquerades as a routine computational chore. In reality, working capital optimization embeds legal compliance tolerances, reputational hazards, liquidity constraints, and survival risk calculations. These elements constitute the core of sovereign judgment. Delegating an open-ended value judgment to a mechanical synthesizer is an abdication of causality from the outset. Handing decisions to macro parameters is delegation at economic scale, as [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/) shows.
+When an executive prompts an agent to "optimize working capital," the command masquerades as a routine computational chore. In reality, working capital optimization embeds legal compliance tolerances, reputational hazards, liquidity constraints, and survival risk calculations. These elements constitute the core of sovereign judgment. Delegating an open-ended value judgment to a mechanical synthesizer is an abdication of causality from the outset. Handing decisions to macro parameters is delegation at economic scale, as [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/) shows. This inversion of presuming models as internal adversaries while substituting downstream harnesses for upstream authorization is systematically deconstructed in [The Insider Presumption and the Causal Inversion of Reactive Containment](../the-insider-presumption-and-the-causal-inversion-of-reactive-containment/).
 
 ```mermaid
 graph TD

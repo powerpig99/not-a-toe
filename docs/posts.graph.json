@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-11T16:13:04.611Z",
+    "generated_at": "2026-10-11T17:18:38.638Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -222,7 +222,7 @@
       "content/posts/the-coordinators-category-error.md": "89f6110cc916",
       "content/posts/the-cut-moves-but-never-vanishes.md": "7675974c6ef2",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "43684acfe15f",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "4122ccc35bfa",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7deb853507eb",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "e86ad1bf219f",
@@ -267,9 +267,10 @@
       "content/posts/the-illusion-of-the-unmediated.md": "8e56c117ba6d",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "20cc20e40f0b",
+      "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "75e58f42fac4",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "47a6ffb6ae17",
-      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "d72c5bdded3b",
+      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "9c5086aebbaa",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "5ccd04ebe2f8",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
@@ -400,7 +401,7 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "1d83131cc406",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "3a96c10872d5",
+      "content/book/index-of-premises.md": "ba2a448a566e",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "07a27674bc71",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -412,19 +413,19 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "4e2a471f61f9",
       "content/book/success-and-the-self.md": "7ef691063c43",
-      "content/book/tools-and-progress.md": "639c67925c7e"
+      "content/book/tools-and-progress.md": "ecdce6e731a7"
     },
     "stats": {
-      "posts": 389,
-      "edges": 5338,
-      "unique_directed": 4458,
+      "posts": 390,
+      "edges": 5360,
+      "unique_directed": 4469,
       "missing_targets": 0,
-      "one_way": 72,
+      "one_way": 79,
       "isolated": 38,
-      "posts_with_outbound": 350,
+      "posts_with_outbound": 351,
       "book_pages": 16,
-      "book_edges": 975,
-      "posts_reached_by_book": 389
+      "book_edges": 977,
+      "posts_reached_by_book": 390
     }
   },
   "hubs_in": [
@@ -438,7 +439,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 67
+      "in_degree": 68
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -481,12 +482,12 @@
       "in_degree": 35
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
+      "slug": "a-creation-cannot-replace-its-source",
       "in_degree": 33
     },
     {
-      "slug": "a-creation-cannot-replace-its-source",
-      "in_degree": 32
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 33
     },
     {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
@@ -640,7 +641,7 @@
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "A Creation Cannot Replace Its Source",
       "hash": "862ad4195ca4",
-      "in_degree": 32,
+      "in_degree": 33,
       "out_degree": 32,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -2925,7 +2926,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "Intelligence Belongs Only to The Mind - The Irreducible Prior",
       "hash": "77e5f7c73d29",
-      "in_degree": 67,
+      "in_degree": 68,
       "out_degree": 68,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -5848,11 +5849,12 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "43684acfe15f",
-      "in_degree": 27,
-      "out_degree": 26,
+      "hash": "4122ccc35bfa",
+      "in_degree": 28,
+      "out_degree": 27,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
+        "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
@@ -5917,7 +5919,7 @@
       "path": "content/posts/the-digital-god-and-the-horizon-jump.md",
       "title": "数字神祇与视界跳跃 / The Digital God and the Horizon Jump",
       "hash": "e86ad1bf219f",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -6100,7 +6102,7 @@
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
       "hash": "51671f41f1af",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -6811,6 +6813,27 @@
       ]
     },
     {
+      "id": "post:the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "kind": "post",
+      "slug": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "path": "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md",
+      "title": "内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment",
+      "hash": "75e58f42fac4",
+      "in_degree": 2,
+      "out_degree": 9,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "a-creation-cannot-replace-its-source",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-summary-first-reversal-and-the-command-of-yields",
+        "the-digital-god-and-the-horizon-jump",
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "the-power-law-of-surrendered-agency",
+        "the-reflexive-dilemma-of-unique-insight"
+      ]
+    },
+    {
       "id": "post:the-interesting-case-of-rubin",
       "kind": "post",
       "slug": "the-interesting-case-of-rubin",
@@ -6843,15 +6866,16 @@
       "slug": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
-      "hash": "d72c5bdded3b",
-      "in_degree": 13,
-      "out_degree": 14,
+      "hash": "9c5086aebbaa",
+      "in_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-illusion-of-the-tool-and-the-inversion-of-time",
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "coordinates-in-flux-negation-and-self-anchoring",
         "the-mind-as-vector-and-coordinate-system",
@@ -7723,7 +7747,7 @@
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
       "hash": "a93148f9561d",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 1,
       "links_out": [
         "the-causal-overstep-of-observation-and-the-first-person-surplus"
@@ -8012,7 +8036,7 @@
       "path": "content/posts/the-reflexive-dilemma-of-unique-insight.md",
       "title": "独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity",
       "hash": "f0408f620e78",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 8,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -8568,7 +8592,7 @@
       "path": "content/posts/the-summary-first-reversal-and-the-command-of-yields.md",
       "title": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields",
       "hash": "ad2f484fe9b0",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 8,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -27700,9 +27724,21 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "rel": "points_to",
+      "label": "内部人假定与被动防护的因果倒置"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
       "label": "Macro Parameters, Micro Choices, and the Command of Yields"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "rel": "points_to",
+      "label": "The Insider Presumption and the Causal Inversion of Reactive Containment"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -31413,6 +31449,114 @@
       "label": "Openness is consistency"
     },
     {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "造物无法取代造物者"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "Macro Parameters, Micro Choices, and the Command of Yields"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "数字神祇与视界跳跃"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "调速者的幻觉与行动的活态摩擦"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "The Digital God and the Horizon Jump"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "让渡主权的幂律法则"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "The Power-Law of Surrendered Agency"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-reflexive-dilemma-of-unique-insight",
+      "rel": "points_to",
+      "label": "独见者的自反困境与必然性的后验投射"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "the-reflexive-dilemma-of-unique-insight",
+      "rel": "points_to",
+      "label": "The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity"
+    },
+    {
       "from": "the-inversion-of-reading-and-the-order-of-inference",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
@@ -31504,6 +31648,12 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "rel": "points_to",
+      "label": "内部人假定与被动防护的因果倒置"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
@@ -31519,6 +31669,12 @@
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "rel": "points_to",
+      "label": "The Insider Presumption and the Causal Inversion of Reactive Containment"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -41786,8 +41942,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "3a96c10872d5",
-        "out_degree": 389
+        "hash": "ba2a448a566e",
+        "out_degree": 390
       },
       {
         "id": "book:intelligence",
@@ -41894,8 +42050,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "639c67925c7e",
-        "out_degree": 31
+        "hash": "ecdce6e731a7",
+        "out_degree": 32
       }
     ],
     "edges": [
@@ -45992,6 +46148,12 @@
         "label": "费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter"
       },
       {
+        "from": "book:index-of-premises",
+        "to": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+        "rel": "collects",
+        "label": "内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment"
+      },
+      {
         "from": "book:intelligence",
         "to": "agents_leia_ontological_clarity",
         "rel": "collects",
@@ -47748,6 +47910,12 @@
         "to": "the-reflexive-dilemma-of-unique-insight",
         "rel": "collects",
         "label": "独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+        "rel": "collects",
+        "label": "内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment"
       }
     ]
   }
