@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-10-11T10:35:58.710Z",
+    "generated_at": "2026-10-11T11:03:49.303Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -19,7 +19,7 @@
       "scripts/export-absolute-md.mjs": "3bbb08fdfc89",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "60c02620e73f"
+      "MEMORY.md": "dd770732d629"
     },
     "stats": {
       "posts": 388,
@@ -181,7 +181,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "60c02620e73f",
+      "hash": "dd770732d629",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
