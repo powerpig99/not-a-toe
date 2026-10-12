@@ -2242,7 +2242,7 @@ Ego defense mechanisms masquerade as detached, objective inner voices; the exalt
 
 Psychological projection blames immediate external triggers for inner anxiety; emotional reactivity mislabels proximate environmental friction as the primary cause of internal imbalance.
 
-→ [错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则](../../posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)
+→ [错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler](../../posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)
 
 ### 颠覆例外论 / Disruption Exceptionalism
 `哲学 / Philosophical`

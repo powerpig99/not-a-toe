@@ -29,7 +29,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [The Generative Contradiction](../../posts/the-generative-contradiction/)
 - [现实的边界](../../posts/xian-shi-de-bian-jie/)
 - [Freedom as Ground](../../posts/freedom-as-ground/)
-- [错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则](../../posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)
+- [错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler](../../posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)
 - [投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
 - [自由变量的同构与先验主权：量子、比特与微观选择](../../posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)
 - [The Look of Constraint Is Not the Loss of Freedom](../../posts/the-look-of-constraint-is-not-the-loss-of-freedom/)

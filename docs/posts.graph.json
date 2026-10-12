@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-12T18:09:24.408Z",
+    "generated_at": "2026-10-12T20:45:46.907Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -52,7 +52,7 @@
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "07c48bc35eff",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "166460a2f05e",
-      "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "c32d0bd75e34",
+      "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "2bdaef8e8573",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "7dc94da22303",
       "content/posts/curiosity-has-no-final-form.md": "71f0c315581b",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
@@ -399,10 +399,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "5e61e170d117",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "9ce16a51283f",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
-      "content/book/causality.md": "f51fe60b713a",
+      "content/book/causality.md": "2dc4f5241969",
       "content/book/consciousness.md": "1d83131cc406",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "75c97e7c7d83",
+      "content/book/index-of-premises.md": "77794ba59ff0",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "3f449ff6f2d4",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -418,10 +418,10 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5416,
-      "unique_directed": 4479,
+      "edges": 5431,
+      "unique_directed": 4481,
       "missing_targets": 0,
-      "one_way": 85,
+      "one_way": 87,
       "isolated": 38,
       "posts_with_outbound": 352,
       "book_pages": 16,
@@ -467,11 +467,11 @@
       "in_degree": 40
     },
     {
-      "slug": "causality-all-the-way",
-      "in_degree": 37
+      "slug": "causality-stays-at-the-edge-that-steers",
+      "in_degree": 38
     },
     {
-      "slug": "causality-stays-at-the-edge-that-steers",
+      "slug": "causality-all-the-way",
       "in_degree": 37
     },
     {
@@ -1158,7 +1158,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers",
       "hash": "24fe759f57fc",
-      "in_degree": 37,
+      "in_degree": 38,
       "out_degree": 37,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -1723,10 +1723,10 @@
       "kind": "post",
       "slug": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "path": "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md",
-      "title": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则",
-      "hash": "c32d0bd75e34",
+      "title": "错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler",
+      "hash": "2bdaef8e8573",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
@@ -1736,6 +1736,8 @@
         "expertise-as-reference-not-replacement",
         "the-unobservable-driver-of-learning",
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+        "the-returning-signal-and-its-claim",
+        "causality-stays-at-the-edge-that-steers",
         "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "po-chu-gai-nian-de-jian-yue",
         "the-generative-atlas-of-macroscopic-phenomena"
@@ -8076,7 +8078,7 @@
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
       "hash": "6a118ede0799",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 8,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -13985,7 +13987,13 @@
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "唯有心智拥有智能：不可约减的先验"
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
     },
     {
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
@@ -13995,15 +14003,27 @@
     },
     {
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "From the Myth of Form to the Closed Loop of Logic"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "to": "gao-wei-xin-xi-de-li-san-zhe-she",
       "rel": "points_to",
       "label": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜"
     },
     {
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "The Discrete Refraction of High-Dimensional Information"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "将表达误认为智能"
+      "label": "错把表达当成智能"
     },
     {
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
@@ -14013,21 +14033,75 @@
     },
     {
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "rel": "points_to",
+      "label": "The Causal Loop of Investment Decisions"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
       "label": "专家经验作为参考而非替代"
     },
     {
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
-      "label": "学习过程中不可观察的驱动力"
+      "label": "学习中不可观测的驱动力"
     },
     {
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "rel": "points_to",
-      "label": "路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎"
+      "label": "路口的转向与地平说的行动悖论"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The Unobservable Driver of Learning"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "rel": "points_to",
+      "label": "Turning at the Crossroad and the Flat-Earth Action Paradox"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "回返的信号与认领"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "The Returning Signal and Its Claim"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
@@ -14037,15 +14111,33 @@
     },
     {
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "rel": "points_to",
+      "label": "Investigating Things and the Nature of Information Complexity"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "破除概念的僭越"
     },
     {
       "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Breaking the Overreach of Concepts"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
       "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -42274,7 +42366,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "f51fe60b713a",
+        "hash": "2dc4f5241969",
         "out_degree": 32
       },
       {
@@ -42301,7 +42393,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "75c97e7c7d83",
+        "hash": "77794ba59ff0",
         "out_degree": 391
       },
       {
@@ -42520,7 +42612,7 @@
         "from": "book:causality",
         "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "rel": "collects",
-        "label": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则"
+        "label": "错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler"
       },
       {
         "from": "book:causality",
@@ -44662,7 +44754,7 @@
         "from": "book:index-of-premises",
         "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "rel": "collects",
-        "label": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则"
+        "label": "错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler"
       },
       {
         "from": "book:index-of-premises",
