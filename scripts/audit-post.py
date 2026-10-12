@@ -40,11 +40,18 @@ BANNED_WORDS = [
     '物理现实', '平庸', '物理意志'
 ]
 
+# Retired 2026-10-12: the companion NotebookLM prompt and the walkthrough's prompt and Spotify sections are no
+# longer deliverables (the audio and its show notes are made in studio/, see studio/library/workflow.md).
+# Set to False to require them again; a prompt file or section that is present is still checked.
+NOTEBOOKLM_RETIRED = True
+
 REQUIRED_WALKTHROUGH_SECTIONS = [
     ('Companion NotebookLM Prompt (Audio Dialogue)', ['Companion NotebookLM Prompt', 'Companion NotebookLM Prompts', 'NotebookLM Prompt', 'NotebookLM Prompts', 'Audio Dialogue', '语音对话']),
     ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
     ('Spotify Podcast (EN)', ['Spotify Podcast (EN)', 'Spotify 播客（英文）']),
 ]
+if NOTEBOOKLM_RETIRED:
+    REQUIRED_WALKTHROUGH_SECTIONS = []
 
 def get_image_size(file_path):
     """Pure-Python image dimension extraction for JPEG and PNG without external dependencies."""
@@ -572,7 +579,7 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             if missing_sections:
                 warnings.append(f"Walkthrough missing required sections for: {missing_sections}")
             else:
-                passes.append("Walkthrough section check (Companion NotebookLM Prompt present)")
+                passes.append("Walkthrough section check")
 
             # Verify that Walkthrough header contains the canonical live post URL
             expected_canonical_url = f"https://powerpig99.github.io/not-a-toe/posts/{slug}/"
@@ -657,7 +664,8 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         prompt_missing.append(f"notebooklm-auto/prompts/{slug}_zh.txt (Audio Dialogue)")
 
     if prompt_missing:
-        warnings.append(f"Missing companion NotebookLM prompt file: {prompt_missing}")
+        if not NOTEBOOKLM_RETIRED:
+            warnings.append(f"Missing companion NotebookLM prompt file: {prompt_missing}")
     else:
         # Check prompt files for banned words & raw $
         prompt_files_to_check = [audio_prompt_file]
