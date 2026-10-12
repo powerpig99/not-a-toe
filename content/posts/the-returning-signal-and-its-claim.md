@@ -8,13 +8,13 @@ Every formulation a Mind turns into a tangible signal starts a causal chain, and
 
 ## 一、 信号经由承载者回返 / 1. The Signal Returns by Way of a Carrier
 
-没有哪个回返的信号是赤裸抵达的。它总要经由某个承载者：另一个人的一句话，一件工具的输出，一个价格，一副疲惫的身体。因为它经由承载者而来，日常的句式便把承载者写成了作者：他让人失望，市场惩罚了谁，机器误解了谁，证据更新了谁的看法。在这些句子里，发起者一律站在宾语的位置上，事情仿佛是从对面开始的。
+没有哪个回返的信号是赤裸抵达的。它总要经由某个承载者：另一个人的一句话，一件工具的输出，一个价格，一副疲惫的身体。因为它经由承载者而来，日常的句式便把承载者写成了作者：他让人失望，市场惩罚了谁，机器误解了谁，证据更新了谁的看法。在这些句子里，发起者一律站在宾语的位置上，事情仿佛是从对面开始的。这个位置不是落进去的：把回返的信号记到承载者名下，本身就是发起者做出的一次记账。
 
-No returning signal arrives bare. It always comes by way of a carrier: another person's sentence, a tool's output, a price, a tired body. Because it comes through the carrier, ordinary grammar writes the carrier in as its author: he disappointed me, the market punished me, the machine misunderstood me, the evidence updated me. In each of these sentences the initiator stands in the object position, and the matter appears to begin on the other side.
+No returning signal arrives bare. It always comes by way of a carrier: another person's sentence, a tool's output, a price, a tired body. Because it comes through the carrier, ordinary grammar writes the carrier in as its author: he disappointed me, the market punished me, the machine misunderstood me, the evidence updated me. In each of these sentences the initiator stands in the object position, and the matter appears to begin on the other side. That position is not fallen into: entering the returning signal under its carrier is itself an entry the initiator makes.
 
-回返的东西并不只是回声。它带着发起者未曾放进去的成分：出乎预料之处，推不动之处。发起者正是在这种摩擦里，把对面认作另一颗发起因果链的心智，或认作不随己意而动的阻力。于是同时到达的有两样：关于承载者的消息，以及发起者自身行动的后果——当初选择了仰望谁，一句话留下了多大的空隙，站到了哪个立场上。流行的读法只收下前一样。就承载者而言它可以够用：对偶像或机器的评断，只要评断者尚未察觉到它盖不住的差别，就照常可用；它不够用的地方恰好在发起者自己的行动上，而能够修订发起者的只有这一部分。
+回返的东西并不只是回声。它带着发起者未曾放进去的成分：出乎预料之处，推不动之处。发起者正是在这种摩擦里，把对面认作另一颗发起因果链的心智，或认作不随己意而动的阻力。到达的是一次接触，可以从两侧来读：朝外的一侧是承载者的形貌，朝内的一侧是发起者自身行动的后果——当初选择了仰望谁，一句话留下了多大的空隙，站到了哪个立场上。流行的读法只读朝外的一侧。就承载者而言它可以够用：对偶像或机器的评断，只要评断者尚未察觉到它盖不住的差别，就照常可用；它不够用的地方恰好在朝内的一侧，而能够修订发起者的只有这一侧。
 
-What returns is not merely an echo. It carries what the initiator never put in: the unexpected, and what will not give way when pushed. It is in this friction that the initiator takes the other side to be another Mind starting causal chains of its own, or a resistance that does not move as wished. So two things arrive together: news about the carrier, and the consequence of the initiator's own act — whom one chose to look up to, how much a sentence left open, which position one took. The prevailing reading keeps only the first. As far as the carrier goes it can serve: a judgment of the hero or of the machine stays usable for as long as the one judging perceives no difference it fails to cover. Where it runs out is exactly at the initiator's own act, and that is the only part that can revise the initiator.
+What returns is not merely an echo. It carries what the initiator never put in: the unexpected, and what will not give way when pushed. It is in this friction that the initiator takes the other side to be another Mind starting causal chains of its own, or a resistance that does not move as wished. What arrives is one contact, which can be read from two sides: facing outward, the shape of the carrier; facing inward, the consequence of the initiator's own act — whom one chose to look up to, how much a sentence left open, which position one took. The prevailing reading reads only the outward side. As far as the carrier goes it can serve: a judgment of the hero or of the machine stays usable for as long as the one judging perceives no difference it fails to cover. Where it runs out is exactly at the inward side, and that is the only side that can revise the initiator.
 
 ## 二、 仰望、解读与辩论 / 2. Admiration, Interpretation, and Debate
 
@@ -156,13 +156,13 @@ flowchart TD
   style C_NEXT fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-“反馈使人学习”的通行说法，预设了信号自带被吸收的效力。同一次失败、同一句回应、同一份失望，在一颗心智那里改写了下一次表述，在另一颗那里穿堂而过，这个预设在哪里不够用由此可见。它在工程化的场景里依然成立，因为那里的认领已经事先做出：训练模型所用的损失函数，是设计者选定的差距，模型自身并不认领什么。
+“反馈使人学习”的通行说法，预设了信号自带被吸收的效力。同一次失败、同一句回应、同一份失望，在一颗心智那里改写了下一次表述，在另一颗那里穿堂而过——并非无事发生，而是已被记到别处；这个预设在哪里不够用由此可见。它在工程化的场景里依然成立，因为那里的认领已经事先做出：训练模型所用的损失函数，是设计者选定的差距，模型自身并不认领什么。
 
-The common saying that feedback teaches presupposes that a signal carries its own uptake. The same failure, the same response, the same disappointment rewrites the next formulation in one Mind and passes straight through another, which shows where the presupposition runs out. It still holds in engineered settings, because there the claim has been made in advance: the loss function used to train a model is a gap its designer chose, and the model itself claims nothing.
+The common saying that feedback teaches presupposes that a signal carries its own uptake. The same failure, the same response, the same disappointment rewrites the next formulation in one Mind and passes straight through another — not because nothing happened there, but because it was entered elsewhere — which shows where the presupposition runs out. It still holds in engineered settings, because there the claim has been made in advance: the loss function used to train a model is a gap its designer chose, and the model itself claims nothing.
 
-认领也不是自责。责备无论指向承载者还是指向自己，都仍是一份判词，把信号结算在某个人头上；认领只是把回返的东西当作关于自身模型的信息。功劳亦然：把一次跃进记在工具名下，与把一次失手记在工具名下，是同一个动作，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) 追踪过前一种。
+认领也不是自责。责备无论指向承载者还是指向自己，都仍是一份判词，把信号结算在某个人头上；认领只是把回返的东西当作关于自身模型的信息。它也不是在记账之外另加的一道功夫：向外记账与认领，是同一颗心智在同一处做出的抉择，二者都不会自行发生。功劳亦然：把一次跃进记在工具名下，与把一次失手记在工具名下，是同一个动作，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) 追踪过前一种。
 
-Nor is a claim self-blame. Blame, whether aimed at the carrier or at oneself, is still a verdict that settles the signal on someone; a claim only takes what returned as information about one's own model. Credit works the same way: entering a leap under the tool's name and entering a slip under the tool's name are one move, and [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) follows the first.
+Nor is a claim self-blame. Blame, whether aimed at the carrier or at oneself, is still a verdict that settles the signal on someone; a claim only takes what returned as information about one's own model. Nor is it a further labour added on top: the outward entry and the claim are choices the same Mind makes at the same point, and neither happens by itself. Credit works the same way: entering a leap under the tool's name and entering a slip under the tool's name are one move, and [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) follows the first.
 
 ## 四、 无须第二方的闭合 / 4. Closure Without a Second Party
 
