@@ -19,7 +19,7 @@
 > `https://powerpig99.github.io/not-a-toe/posts/<slug>/`
 > 
 > - **CRITICAL PROHIBITION**: NEVER use `not-a-toe.org`, `not-a-toe.com`, or any other placeholder domain under ANY circumstances. The blog has no custom domain; it is deployed exclusively on GitHub Pages at `powerpig99.github.io/not-a-toe`.
-> - **All references to live posts** in walkthroughs, companion prompts, and chat responses MUST use the exact URL: `https://powerpig99.github.io/not-a-toe/posts/<slug>/` (with trailing slash).
+> - **All references to live posts** in walkthroughs and chat responses MUST use the exact URL: `https://powerpig99.github.io/not-a-toe/posts/<slug>/` (with trailing slash).
 > - **Essay internal links** must NEVER use absolute URLs (always use relative `[title](../slug/)`).
 
 ---
@@ -74,6 +74,10 @@ For every new or revised essay, the complete deliverable set consists of:
 - **Styles Are NEVER Fixed (Content-Driven & Novelty-Seeking)**: The aspect ratio is standard, but the **visual style and artistic medium are strictly never fixed**. For every new essay, invent a fresh artistic medium, print tradition, material texture, and palette derived directly from the specific epistemological cut of that post. Never converge into a single "house style" (strictly zero repetitive cliches, zero readable text, zero logos, zero tabletop stills).
 - Registered in `assets/covers/STYLES.md` under both `Style families (used)` and the `Inventory` table as a living record of corpus diversity.
 
+### 3. Companion NotebookLM Prompt — RETIRED (2026-10-12)
+No longer a deliverable; do not write one. The Deep Dive audio, its show notes, the infographic and the film for a post are made in the studio by `studio/library/workflow.md`. The retired text is kept below, commented out, in case it is ever wanted again.
+
+<!-- RETIRED 2026-10-12. Not in force.
 ### 3. Companion NotebookLM Prompt (Chinese Only, Link-Free)
 Located in `notebooklm-auto/prompts/`:
 - **Audio Dialogue** (`notebooklm-auto/prompts/<slug>_zh.txt`): Deep dialogue between 明理 (engineering/systems reality) and 雨涵 (philosophy/cybernetics). Must contain three standard sections:
@@ -83,6 +87,7 @@ Located in `notebooklm-auto/prompts/`:
   *Rule*: The canonical opening (`大家好，欢迎来到非万物之理（Not a Theory of Everything）。`) on causality and first-person perspective is refined based on the new analysis of each essay, but NEVER deleted or omitted. The opening sample must strictly stay within 2–4 dialogue turns to avoid prompt bloat.
 - **Video Monologue & Social Copies Retired**: Video monologue prompts (`<slug>_video_zh.txt`) and social promotional copies (WeChat Video Channels, X/Twitter) are no longer needed going forward.
 - **Rules**: Zero links (no markdown or HTML URLs), zero banned words, zero raw `$` symbols, prompt strictly concise (< 8.5 KB, 2–4 opening turns).
+-->
 
 ### 4. Walkthrough Document (`walkthrough.md`)
 Stored in the active conversation artifact directory, structured as:
@@ -93,14 +98,17 @@ Stored in the active conversation artifact directory, structured as:
 2. Mermaid diagram inventory with semantic color rationale.
 3. Core epistemological cuts & argument architecture.
 4. Verification & invariant diagnostic check results.
+<!-- RETIRED 2026-10-12. Not in force: items 5 and 6 of the walkthrough (the NotebookLM prompt and the Spotify show notes) are no longer written; show notes are made in the studio on the owner's ask.
 5. **Companion NotebookLM Prompt (Chinese Only, Link-Free)**: File link and full prompt text for Audio Dialogue enclosed in a dedicated one-click copiable fenced code block (` ```text `) so the operator can copy the ready-to-run prompt with a single click. (Note: Video monologue prompt is retired).
 6. **Podcast (Spotify) Show Notes (ZH & EN)**: Title and description for Spotify Podcasts in both Chinese and English, each enclosed in a dedicated one-click copiable fenced code block (` ```text `), with the exact canonical live URL (`https://powerpig99.github.io/not-a-toe/posts/<slug>/`) at the end. Strictly zero banned words in Chinese text. (Note: WeChat Video Channels and X/Twitter copies are retired).
+-->
 
 ### 5. Bidirectional Reverse Linking & Content Refinement (双向反向链接与语境织网)
 - **Dense Cognitive Lattice**: An essay is never an isolated leaf node. Identify key upstream and conceptually adjacent essays referenced by the new post.
 - **Backlink Integration**: Establish explicit reverse links from those prior essays back to the new post using the standard relative link format: `[<Title>](../<slug>/)`.
 - **Narrative Prose Refinement**: Do not merely append naked links; organically rewrite and deepen the surrounding narrative prose of the linked essays to weave in the new essay's conceptual advances, epistemological cuts, and distinctions.
 - **Invariant Adherence**: Modified linked essays must preserve strict bilingual symmetry (parallel updates in both Chinese and English sections) and pass all repository invariants (zero banned words, zero bulleted/numbered lists in prose, proper relative links).
+- **Single-Language Posts Become Bilingual When Refined (default, 2026-10-12)**: Whenever a refinement or a backlink edits an older post that exists in only one language, convert that whole post to the bilingual layout in the same change: bilingual title and subtitle, unified `## 一、 <中文> / 1. <English>` headings, and every paragraph followed by its parallel in the other language. The existing language's wording stays as it is apart from the refinement itself; the new language is a faithful translation, with link anchors in that language taken from the post's own heading or the registry below. Then give the post's link its bilingual title in its book part and in the Index of Premises, and remove its entry from the registry, since it now carries both headings itself. A post that is only linked to, and not edited, is left alone.
 - **Title Translation Registry**: A monolingual post has no title in the other language. When a backlink in that language needs one, take it from `data/title-translations.json` (`posts.<slug>` holds `title_en`/`subtitle_en` for Chinese posts, `title_zh`/`subtitle_zh` for English posts). If the slug is missing, add a faithful translation there first and reuse it everywhere, so one post never carries two different translated names. Registry entries obey the banned-word list like any prose.
 
 ### 6. Live Book Placement & Index of Premises (活书归部与前提索引)
@@ -121,7 +129,7 @@ The site is a live book, *非定论的心智指南 / A Non-Definitive Guide for 
 ## Standard Automated Audit & Build Pipeline
 
 Always execute the complete verification sequence before finalizing:
-1. `python3 scripts/audit-post.py <slug>` — Verifies all 10 authoring invariants (title/subtitle separation, banned words, latex, links, lists, mermaid dark theme & vertical flow, walkthrough, companion prompt, cover, and live-book placement). Must return **CLEAN PASS**.
+1. `python3 scripts/audit-post.py <slug>` — Verifies the authoring invariants (title/subtitle separation, banned words, latex, links, lists, mermaid dark theme & vertical flow, walkthrough, cover, and live-book placement; the companion prompt is retired and no longer required). Must return **CLEAN PASS**.
 1b. `python3 scripts/audit-book.py` — Verifies the whole live book: every post placed in exactly one part, parts in written order, all book links resolve, book prose invariants, Index entry shape, and per-label balance. Must return **CLEAN PASS**.
 2. **Reverse Linking & Prose Refinement** — Establish backlinks and refine surrounding narrative prose in key referenced essays; verify modified essays pass repository invariants.
 3. `node build.mjs` — Compiles the static site into `public/`.

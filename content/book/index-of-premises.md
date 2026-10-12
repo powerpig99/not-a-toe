@@ -4168,7 +4168,7 @@ Averages presume a stable population whose mean authors the pattern; under shift
 
 Algorithmic determinism presumes automated models take over system governance; causal power stays with the living mind choosing where, when, and how to query the machine.
 
-→ [Causality Stays at the Edge That Steers](../../posts/causality-stays-at-the-edge-that-steers/)
+→ [因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers](../../posts/causality-stays-at-the-edge-that-steers/)
 
 ### 结构性NPC错觉 / Structural NPC Illusion
 `哲学 / Philosophical`

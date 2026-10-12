@@ -16,7 +16,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [The Limitation Is Doing Work](../../posts/the-limitation-is-doing-work/)
 - [The Path Drawn One Step at a Time](../../posts/the-path-drawn-one-step-at-a-time/)
 - [The Allocation of Causal Power in Validation](../../posts/the-allocation-of-causal-power-in-validation/)
-- [Causality Stays at the Edge That Steers](../../posts/causality-stays-at-the-edge-that-steers/)
+- [因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers](../../posts/causality-stays-at-the-edge-that-steers/)
 - [Causality All the Way](../../posts/causality-all-the-way/)
 - [When the Effect Authors the Frame](../../posts/when-the-effect-authors-the-frame/)
 - [Individual Choices as the Only Causal Levers](../../posts/individual-choices-as-the-only-causal-levers/)
