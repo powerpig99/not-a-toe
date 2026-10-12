@@ -24,7 +24,7 @@ Admiration is the most common form. To take excellence in one field as a carrier
 
 解读是第二种。一句话越短，容得下的彼此相容的读法越多，意图不在文字里；读者用自己的先验填满空隙，再把填好的东西记到说话者名下，称之为“你的意思”。语言模型把这件事做得最流畅，因为填进去的是参数中沉淀的无数既往读法，[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/) 说过那里只有残余；只给它一句话，它便会自行搭出一个“你所暗示的更强主张”，好让回答显得两面兼顾。以求真为设计目标并不能免除这一点：这个目标的前提是真相在世界或文本之中，无须提问者在场即可取回，而被问的是什么要由发问的心智来定。边界之内它依然好用，只要把每一份扩写当作有待否证的假设，它就能把一句话所容许的读法摊开，这是任何人都无法独自为自己的话做到的。对说话者而言，扩写与原话之间的落差量出的是原话留下的空隙；对读者而言，读出来的东西是自己的行动。
 
-Interpretation is the second. The shorter a sentence, the more mutually compatible readings it admits, and intent is not in the text; a reader fills the gap from their own priors and enters the result under the speaker's name as "what you meant". A language model does this most fluently, because what it fills in is the sediment of countless earlier readings held in its parameters, where, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) puts it, there is only residue; given a single sentence, it will build "the stronger claim you suggest" by itself so that its answer can look balanced. Having truth-seeking as a design goal does not exempt it: that goal rests on the premise that the truth lies in the world or in the text and can be retrieved without the asker present, while what is being asked is fixed by the Mind that asks. Inside that boundary it stays useful: with every expansion held as a hypothesis to be disconfirmed, it lays out the readings a sentence admits, which no one can do alone for their own words. For the speaker, the distance between the expansion and the sentence measures what the sentence left open; for the reader, what was read out of it is one's own act.
+Interpretation is the second. The shorter a sentence, the more mutually compatible readings it admits, and intent is not in the text; a reader fills the gap from their own priors and enters the result under the speaker's name as "what you meant". A language model does this most fluently, because what it fills in is the sediment of countless earlier readings held in its parameters, where, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) puts it, there is only residue; given a single sentence, it will build "the stronger claim you suggest" by itself so that its answer can look balanced. Having truth-seeking as a design goal does not exempt it from this: that goal rests on the premise that the truth lies in the world or in the text and can be retrieved without the asker present, while what is being asked is fixed by the Mind that asks. Inside that boundary it stays useful: with every expansion held as a hypothesis to be disconfirmed, it lays out the readings a sentence admits, which no one can do alone for their own words. For the speaker, the distance between the expansion and the sentence measures what the sentence left open; for the reader, what was read out of it is one's own act.
 
 辩论是第三种。轮流发言的形式看上去像两个立场在争一个共同的命题，可抵达任何一方的都只是信号，被回应的是己方对这个信号形成的解读。于是辩论的每一方，都是一个人在同自己对他人意见的解读辩论。把对方认作另一颗心智，依据的是从第一人称出发的类比，而这一类比不延伸到模型，[感知者与痕迹的不可坍缩](../the-perceiver-and-the-trace/) 划过这条线；与模型的往来更接近一颗心智借外部皮层进行的自我斟酌，[活的外部皮层](../a-living-external-cortex/) 讨论过这种仪器。但在两种情形里，回应都不自带被吸收的效力。把目标定为被对方理解，是把自己的意图交给对方的投影，[理解的非对称性](../the-asymmetry-of-understanding/) 追踪过由此打开的无尽误解；责怪镜子读错与为原话辩护，则是同一个向外记账的动作的两面。
 
@@ -50,7 +50,7 @@ flowchart TD
     P_ACT["行动在世界中的后果"]
   end
 
-  R_BACK["信号回返并被感知"]
+  R_BACK["回返被感知，心智在此抉择"]
 
   subgraph S_OUT["【记在承载者名下】"]
     direction TB
@@ -112,7 +112,7 @@ flowchart TD
     P_ACT["Consequences of an act in the world"]
   end
 
-  R_BACK["The signal returns and is perceived"]
+  R_BACK["The return is perceived and the Mind chooses here"]
 
   subgraph S_OUT["[Entered Under the Carrier]"]
     direction TB
