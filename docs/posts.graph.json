@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-12T07:52:31.801Z",
+    "generated_at": "2026-10-12T09:38:46.337Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -310,7 +310,7 @@
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "5f263a356b4c",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "0d757a4508ca",
-      "content/posts/the-perceiver-and-the-trace.md": "fd9d0dfee4cb",
+      "content/posts/the-perceiver-and-the-trace.md": "bc9cb0909dbb",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "39ba1ef8a7a3",
       "content/posts/the-power-law-of-surrendered-agency.md": "a93148f9561d",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "0f27052d1822",
@@ -325,6 +325,7 @@
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "6be2f8057c8f",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "f0408f620e78",
       "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
+      "content/posts/the-returning-signal-and-its-claim.md": "9a66c5291879",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "b6979918c2cb",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "1cd462d2e211",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
@@ -401,9 +402,9 @@
       "content/book/causality.md": "bb33b5eaed11",
       "content/book/consciousness.md": "1d83131cc406",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "c64fb1ad0d13",
+      "content/book/index-of-premises.md": "5a7b221b1c56",
       "content/book/intelligence.md": "25a34f51bcc4",
-      "content/book/knowledge-and-learning.md": "07a27674bc71",
+      "content/book/knowledge-and-learning.md": "3f449ff6f2d4",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "226cf5ec0ee0",
       "content/book/meaning-and-transcendence.md": "5f74283b7779",
@@ -416,16 +417,16 @@
       "content/book/tools-and-progress.md": "ecdce6e731a7"
     },
     "stats": {
-      "posts": 390,
-      "edges": 5360,
-      "unique_directed": 4469,
+      "posts": 391,
+      "edges": 5376,
+      "unique_directed": 4477,
       "missing_targets": 0,
-      "one_way": 79,
+      "one_way": 85,
       "isolated": 38,
-      "posts_with_outbound": 351,
+      "posts_with_outbound": 352,
       "book_pages": 16,
-      "book_edges": 977,
-      "posts_reached_by_book": 390
+      "book_edges": 982,
+      "posts_reached_by_book": 391
     }
   },
   "hubs_in": [
@@ -455,7 +456,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 45
+      "in_degree": 46
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -685,7 +686,7 @@
       "path": "content/posts/a-living-external-cortex.md",
       "title": "A Living External Cortex: The Closest the Image Can Come",
       "hash": "19f76ee2f4cf",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5247,7 +5248,7 @@
       "path": "content/posts/the-asymmetry-of-understanding.md",
       "title": "理解的非对称性 / The Asymmetry of Understanding",
       "hash": "abb8bebb125a",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "the-shadow-and-the-infinite",
@@ -5850,7 +5851,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "4122ccc35bfa",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 27,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
@@ -5942,7 +5943,7 @@
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
       "hash": "08371346bbec",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 17,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -6867,7 +6868,7 @@
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
       "hash": "9c5086aebbaa",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 15,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -7368,7 +7369,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "be8e9087d341",
-      "in_degree": 45,
+      "in_degree": 46,
       "out_degree": 45,
       "links_out": [
         "the-category-error-of-better",
@@ -7710,13 +7711,14 @@
       "slug": "the-perceiver-and-the-trace",
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
-      "hash": "fd9d0dfee4cb",
-      "in_degree": 6,
-      "out_degree": 6,
+      "hash": "bc9cb0909dbb",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "subtracting-consciousness-at-the-source",
         "the-mind-that-statistics-cannot-reveal",
+        "the-returning-signal-and-its-claim",
         "mistaking-the-expression-for-the-intelligence",
         "the-boundary-crossing-of-choice",
         "the-coin-of-good-and-evil-and-the-road-to-hell"
@@ -8064,6 +8066,25 @@
         "fixed-by-nothing",
         "the-illusion-of-the-shared-sandbox",
         "the-free-variable-and-the-retrospective-illusion-of-power"
+      ]
+    },
+    {
+      "id": "post:the-returning-signal-and-its-claim",
+      "kind": "post",
+      "slug": "the-returning-signal-and-its-claim",
+      "path": "content/posts/the-returning-signal-and-its-claim.md",
+      "title": "回返的信号与认领 / The Returning Signal and Its Claim",
+      "hash": "9a66c5291879",
+      "in_degree": 1,
+      "out_degree": 7,
+      "links_out": [
+        "the-model-never-becomes-a-second-edge",
+        "the-perceiver-and-the-trace",
+        "a-living-external-cortex",
+        "the-asymmetry-of-understanding",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
       ]
     },
     {
@@ -34558,9 +34579,21 @@
     },
     {
       "from": "the-perceiver-and-the-trace",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "回返的信号与认领"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
       "to": "the-mind-that-statistics-cannot-reveal",
       "rel": "points_to",
       "label": "The Mind That Statistics Cannot Reveal"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "The Returning Signal and Its Claim"
     },
     {
       "from": "the-perceiver-and-the-trace",
@@ -35845,6 +35878,90 @@
       "to": "the-free-variable-and-the-retrospective-illusion-of-power",
       "rel": "points_to",
       "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "感知者与痕迹的不可坍缩"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "活的外部皮层"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
+      "label": "理解的非对称性"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "The Perceiver and the Trace Cannot Collapse"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "A Living External Cortex"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
+      "label": "The Asymmetry of Understanding"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
@@ -41942,8 +42059,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c64fb1ad0d13",
-        "out_degree": 390
+        "hash": "5a7b221b1c56",
+        "out_degree": 391
       },
       {
         "id": "book:intelligence",
@@ -41960,8 +42077,8 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "07a27674bc71",
-        "out_degree": 32
+        "hash": "3f449ff6f2d4",
+        "out_degree": 33
       },
       {
         "id": "book:life-and-statistics",
@@ -43992,6 +44109,12 @@
         "to": "mi-lv-shi-jie-guo-de-biao-xiang",
         "rel": "collects",
         "label": "幂律是结果的表象，不是生成的逻辑"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-returning-signal-and-its-claim",
+        "rel": "collects",
+        "label": "回返的信号与认领 / The Returning Signal and Its Claim"
       },
       {
         "from": "book:index-of-premises",
@@ -46154,6 +46277,24 @@
         "label": "内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment"
       },
       {
+        "from": "book:index-of-premises",
+        "to": "the-returning-signal-and-its-claim",
+        "rel": "collects",
+        "label": "回返的信号与认领 / The Returning Signal and Its Claim"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-returning-signal-and-its-claim",
+        "rel": "collects",
+        "label": "回返的信号与认领 / The Returning Signal and Its Claim"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-returning-signal-and-its-claim",
+        "rel": "collects",
+        "label": "回返的信号与认领 / The Returning Signal and Its Claim"
+      },
+      {
         "from": "book:intelligence",
         "to": "agents_leia_ontological_clarity",
         "rel": "collects",
@@ -46620,6 +46761,12 @@
         "to": "the-walking-tangent-and-the-stumbling-sphere",
         "rel": "collects",
         "label": "切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere"
+      },
+      {
+        "from": "book:knowledge-and-learning",
+        "to": "the-returning-signal-and-its-claim",
+        "rel": "collects",
+        "label": "回返的信号与认领 / The Returning Signal and Its Claim"
       },
       {
         "from": "book:life-and-statistics",

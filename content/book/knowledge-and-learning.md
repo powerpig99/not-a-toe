@@ -44,3 +44,4 @@ These essays examine academic credentialism, the true advisory scope of expertis
 - [信任读者是最后的越界 / Trusting the Reader Is the Last Overstep](../../posts/trusting-the-reader-is-the-last-overstep/)
 - [未经自我审视的批判者 / The Unexamined Critic](../../posts/the-unexamined-critic/)
 - [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/)
+- [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/)

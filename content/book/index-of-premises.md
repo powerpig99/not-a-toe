@@ -1783,7 +1783,7 @@ AI 辅助的贝叶斯整理依赖所选材料、提示与时间窗口；输出�
 
 AI-assisted Bayesian synthesis depends on chosen inputs, prompts and windows; its outputs extend the operator's distinctions and are useful when those premises are re-examined, not as discovered external structure.
 
-→ [幂律是结果的表象，不是生成的逻辑](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/)
+→ [幂律是结果的表象，不是生成的逻辑](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/)
 
 ### 有无之辩 / Being and Non-Being (You-Wu)
 `哲学 / Philosophical`
@@ -4926,3 +4926,29 @@ Presumes treating frontier models as privileged insider threats bounded by perip
 
 → [内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment](../../posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment/)
 
+### 人工智能对话即第二方意见 / AI Chat as a Second Opinion
+`技术 / Technological`
+
+把与语言模型的往来看作同另一方的对话，预设对面站着一个立场；意图不在文字里，模型的扩写取自既往读法的沉淀，预设到此为止，而把扩写当作有待否证的假设时，它仍可用来摊开一句话所容许的读法。
+
+Treating an exchange with a language model as dialogue with another party presumes a position on the other side; since intent is not in the text and the expansion draws on the sediment of earlier readings, the premise stops there, yet with each expansion held as a hypothesis to be disconfirmed it still lays out the readings a sentence admits.
+
+→ [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/)
+
+### 求真作为系统属性 / Truth-Seeking as a System Property
+`技术 / Technological`
+
+预设真相在世界或文本之中，无须提问者在场即可取回；被问的是什么由发问的心智来定，问题越短这一预设越早到达边界，它在问题已被充分限定之处依然好用。
+
+Presumes the truth lies in the world or the text and can be retrieved without the asker present; what is being asked is fixed by the Mind that asks, so the shorter the question the sooner the premise reaches its boundary, and it stays useful wherever the question has been sufficiently constrained.
+
+→ [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/)
+
+### 反馈使人学习 / Feedback Teaches
+`哲学 / Philosophical`
+
+预设回返的信号自带被吸收的效力；同一信号在一颗心智那里改写下一次表述，在另一颗那里穿过而不留痕迹，预设便不够用，它在损失已由设计者事先选定的工程场景里依然成立。
+
+Presumes a returning signal carries its own uptake; the same signal rewrites the next formulation in one Mind and passes through another without trace, which is where the presumption runs out, and it still holds in engineered settings where the loss was chosen in advance by a designer.
+
+→ [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/)
