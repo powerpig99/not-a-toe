@@ -272,9 +272,9 @@ flowchart TD
 
 The statistics of population and economy offer a close analogy. Which café a particular person will walk into after work tomorrow cannot be settled beforehand; that is the person's choice. The traffic, water use and bread consumption of a city of ten million at five tomorrow afternoon are nonetheless stable and periodic.
 
-经典物理的确定性就是宏观尺度上的这种普查数据。当数量极大的微观自由变量相互锁闭为一块花岗岩或一颗行星时，每一处微小的涨落都在总体的平均里相互抵消，留在宏观仪器上的是平稳而缓慢演进的平均值。经典力学与广义相对论因此可以读作对这片慢速沉淀所作的高阶统计拟合，在拟合的范围内极为精确，边界在于它们被当作先于一切观测的律令的时候。
+经典物理的确定性就是宏观尺度上的这种普查数据。当数量极大的微观自由变量相互锁闭为一块花岗岩或一颗行星时，每一处微小的涨落都在总体的平均里相互抵消，留在宏观仪器上的是平稳而缓慢演进的平均值。经典力学与广义相对论因此是对这片慢速沉淀所作的高阶统计拟合，在拟合的范围内极为精确，边界在于它们被当作先于一切观测的律令的时候。
 
-The determinacy of classical physics is census data of this kind at the macroscopic scale. When an enormous number of microscopic free variables lock into a block of granite or a planet, every small fluctuation cancels against others in the overall average, and what remains on macroscopic instruments is a mean that evolves steadily and slowly. Classical mechanics and general relativity can therefore be read as high-order statistical fits to this slow sediment, extremely precise within the range of the fit, with their boundary where they are taken as edicts prior to all observation.
+The determinacy of classical physics is census data of this kind at the macroscopic scale. When an enormous number of microscopic free variables lock into a block of granite or a planet, every small fluctuation cancels against others in the overall average, and what remains on macroscopic instruments is a mean that evolves steadily and slowly. Classical mechanics and general relativity are therefore high-order statistical fits to this slow sediment, extremely precise within the range of the fit, with their boundary where they are taken as edicts prior to all observation.
 
 还需要说明一点。这些数量极大的自由变量不是在某个开端一次分发完毕的存量，它们是随着每一次观测不断被带进视界的增量。没有什么要求跨入视界的事件在此之前没有自己的因果，只是那些因果发生在当下的视界之外，从本地的坐标系里无从取得。于是当它们越过边界、第一次与观测交握时，从视界之内能给出的诚实称呼只有一个：事前不可知的自由变量（+1）。波函数是这种跨入留在数学里的记号。宏观的确定因此不像一架自古上紧发条、不断走松的钟，它是一个仍在进行的稳定化过程，每一步观测都纳入新的自由变量，并经由大数定律把它们织进平稳的秩序。
 
