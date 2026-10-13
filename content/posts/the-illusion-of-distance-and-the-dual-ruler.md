@@ -1,227 +1,345 @@
 # 距离的幻觉与尺度的双向投影 / The Illusion of Distance and the Dual Projections of the Ruler
 
-*第一人称原点、自由变量与度量工具的语义分化 / First-Person Origin, Free Variables, and the Semantic Divergence of Measurement*
+*忘了自己从未离开原点，手中的尺就成了加于他人的规 / When the origin that was never left is forgotten, the ruler in the hand becomes a rule laid on others*
 
----
+心智经验到的空间、间隔与距离，是从最初的抉择出发、在自身的感知场之内递归展开的投影；心智从未离开第一人称的原点。只看投影最顶上的两层，宇宙的全景与其中的自我意象，就生出从高处俯瞰的距离幻觉。在这个幻觉之下，三个词各自分成两个指向：尺是手中的量具，也成了加于他人的规；共享是差异之间的连接，也成了均值上的重叠；自动是出于自身的抉择，也成了没有余地的发条。回到原点，三者各归其位。
 
-## 一、 不可脱离的原点与距离的蜃景 / 1. The Inescapable Origin and the Mirage of Distance
+The space, interval and distance a Mind experiences are a projection that unfolds recursively, from a first choice, within its own perceptual field; a Mind never leaves the first-person origin. When only the top two layers of the projection are looked at, the panorama of the cosmos and the self-image within it, an illusion of distance arises, of looking down from a height. Under this illusion three words each divide in two directions: a ruler is a measuring tool in the hand and becomes a rule laid on others; shared is a connection among differences and becomes an overlap at the mean; automatic is a choice that comes from oneself and becomes clockwork with no room in it. On returning to the origin, each of the three goes back to its place.
 
-人类认知深处存在一个引人注目的几何构造：心智所体验到的一切空间、间隔与距离，本质上都不是外部物理世界的客观分离，而是心智基于最初的主权抉择，在自身感知场域内部向外递归展开的高维自指投影。
+## 一、 离不开的原点与距离的幻觉 / 1. The Origin That Cannot Be Left and the Illusion of Distance
 
-在概念上，我们可以将这一构造视为一个无限自指的递归闭环。由于其无限自回归的数学特性，它在每一个尺度层级上都呈现出自相似的形态。然而，如果我们凝视这一闭环并不断向深处审视，最终会触碰上一堵不可逾越的边界之墙——那就是我们感知的终极边界，正如我们在物理学中试图穿透量子边界时所遭遇的情形一样。
+认知里有一个几何的构造：心智经验到的一切空间、间隔与距离，不是外部世界里现成的分离，它们是心智从最初的抉择出发，在自身的感知场之内向外递归展开的自指投影。
 
-在微观层面，那堵量子之墙正是心智切身体验到的主权抉择始发点（+1）；而在宏观层面上，我们所感知到的宇宙，则是我们的宏观感知在每一个当下所抵达的停止边界。
+There is a geometric construction in cognition: all the space, interval and distance a Mind experiences are not separations ready-made in an outer world; they are a self-referential projection that a Mind unfolds recursively outward, from a first choice, within its own perceptual field.
 
-```mermaid
-graph TD
-    subgraph RecursiveProjection["【高维自指投影与双向感知边界】"]
-        direction TB
-        MicroQuantumWall["【微观量子之墙】<br>感知深入处的边界：切身体验的主权抉择 (+1)"]
-        RecursiveManifold["【宏观逐层表达】<br>自相似自指投影层层展开生成的因果流形"]
-        MacroPerceptualStop["【宏观感知边界】<br>感知驻足处顶层视差：宇宙全景 vs 局域自我"]
-        MicroQuantumWall --> RecursiveManifold
-        RecursiveManifold --> MacroPerceptualStop
-    end
-    style RecursiveProjection fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style MicroQuantumWall fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style RecursiveManifold fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style MacroPerceptualStop fill:#21262d,stroke:#d29922,stroke-width:1px,color:#d29922
-```
+可以把这个构造想成一个无限自指的递归回环，它在每一个层级上自相似。沿着它往深处看，最后碰到一堵过不去的墙，感知的边界，如同物理学里试图越过量子边界时遇到的那样。在微观一侧，这堵墙是观察的边界，量子的不确定出现在这里，从内体验到的是抉择的始发（+1），[割点可移不可除](../the-cut-moves-but-never-vanishes/)讨论过这条边界落在哪里是心智的抉择。在宏观一侧，所感知的宇宙是宏观的感知在每一个当下停住的地方。
 
-心智从未离开过第一人称原点。所有的观测数据、坐标框架与宇宙全景，都始于心智在微观感知边界上的初始主权抉择（+1）。以此为根基，心智通过连续的自指映射，层层向外投射出庞大的关系图谱与因果流形。我们日常所感知到的现实，实际上只是凝视着这一高维投影的最顶层两个结构：其一是向外铺展、宏观感知驻足处的“宇宙全景”；其二则是为了在全景中自洽建模自身交互而嵌入其中的“自我意象”。
+The construction can be pictured as an infinitely self-referential recursive loop, self-similar at every level. Looked into more and more deeply, it ends at a wall that cannot be passed, the boundary of perception, as happens in physics when the attempt is made to cross the quantum boundary. On the microscopic side this wall is the boundary of observation, where quantum indeterminacy appears and where, from inside, the starting of a choice (+1) is experienced; [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) has discussed how where this boundary falls is the Mind's choice. On the macroscopic side, the cosmos that is perceived is where macroscopic perception stops in each present.
 
-就在心智仅仅聚焦于顶层这两级结构时，一种精巧的认知视差便产生了。心智凝视着辽阔的宇宙全景与其中局域的自我意象，却遗忘了整座高维投影大厦从底层至顶端皆由自身原点递归生成。心智误以为顶层的宇宙全景是一个独立于观测的客观实体，进而产生了一种身处虚无高处俯瞰现实的“距离幻觉”。
+心智从未离开第一人称的原点。一切观测数据、坐标框架与宇宙的全景，都始于微观感知边界上的最初抉择；由此出发，连续的自指映射一层层向外投出关系的图谱与因果的流形。日常感知到的现实，是这个投影最顶上的两层：向外铺开、宏观感知停住之处的“宇宙全景”，与为在全景里给自身的交互建模而嵌入其中的“自我意象”。
 
-这种由于截断了高维投影深度而产生的距离幻觉，使心智创造的度量工具与概念在后续的投射方向上发生深刻分化。
+A Mind never leaves the first-person origin. All observational data, coordinate frames and the panorama of the cosmos begin from a first choice at the microscopic boundary of perception; from there, continuous self-referential mapping projects outward, layer upon layer, a map of relations and a manifold of causality. The reality perceived day to day is the top two layers of this projection: the "panorama of the cosmos," spread outward to where macroscopic perception stops, and the "self-image" embedded in it in order to model one's own interaction within the panorama.
 
-Within the deep architecture of human cognition lies a striking geometric reality: every spatial interval, expanse, and distance experienced by the Mind is not a passive physical separation, but a high-dimensional, self-referential projection recursively expanded outward from an initial sovereign choice.
-
-Conceptually, we can imagine this architecture as an infinitely self-referential loop. Because it is infinitely self-regressive, it appears self-similar at every level. Yet if you hold this steady and gaze deeply into the recursion, you eventually hit a wall—the definitive boundary of perception, precisely like our attempt to look across the quantum boundary in physics.
-
-At the micro-level, that boundary wall is where the living, felt sovereign choice (+1) actively initiates; at the macro-level, what we perceive as the external universe is simply where our macroscopic perception stops at any given moment.
-
-The Mind never departs from its first-person origin. Every coordinate grid, relational field, and cosmological panorama originates from an initial sovereign act of distinction at the micro-perceptual boundary (+1). From this singular locus, the Mind computes a recursive cascade of self-referential projections, unfolding an intricate causal manifold. What conscious awareness typically observes are purely the top two levels of this high-dimensional projection: the vast panoramic canvas where macroscopic perception pauses, and the localized "self-image" embedded within it to model its own interactive agency.
-
-A profound cognitive parallax arises when the Mind restricts its awareness exclusively to these top two levels. Captivated by the expansive outer panorama and the localized self within it, the Mind forgets the entire recursive ladder beneath them. It forgets that both the panoramic universe and the situated self-image are dual facets rendered by its own generative origin. Truncating its awareness to the top of the projection, the Mind misinterprets the panorama as an unanchored reality existing independently of its gaze, succumbing to the illusion that it is observing from an external distance—a view from nowhere.
-
-Once this illusion of distance takes hold through the truncation of projective depth, the tools and concepts invented by the Mind undergo a fundamental divergence.
-
----
-
-## 二、 尺度的第一重分化：“度量之尺”与“统治之规” / 2. The First Divergence: The Ruler as Measuring Instrument vs. Governing Rule
-
-在语言的演化历史中，“ruler”（尺度/统治者）与“rule”（规则/度量）呈现出极具启示性的双重语义。这种词义的重合绝非偶然巧合，而是心智在不同视角下投射度量工具时的自然反映。
-
-立足于第一人称原点时，心智发明尺度是为了进行自我校准与宇宙探索。此时的“尺”是一把拿在手中的局部测量工具（+1）。心智用它测量物体的长宽高矮，标定环境的几何边界，进而为自身的行动选择提供精确的参照依据。在这个维度上，规则是心智自主探索现实规律时总结出的行动脚手架，用于拓展自身的创造性边界。
+只聚焦于这两层时，视差就出现了。看着辽阔的全景与其中局域的自我意象，忘了整座投影从底到顶都由自身的原点递归生成，顶层的全景便被当作独立于观测的实体，随之生出身在高处俯瞰现实的“距离幻觉”。投影的深度被截断之后，心智造出的量具与概念在投射的方向上分化。
 
 ```mermaid
-graph TD
-    subgraph RulerSplit["【尺度的双向投影机制】"]
+flowchart TD
+    subgraph S_Origin["离不开的原点与距离的幻觉"]
         direction TB
-        RulerOrigin["【度量原点】<br>心智用于自我导航的局部标尺 (+1)"]
-        PerspectiveShift["【视角偏移】<br>从具身自主演进跌入距离幻觉"]
-        ExternalGovernance["【统治异化】<br>自上而下强加于他者的规制与权力"]
-        RulerOrigin --> PerspectiveShift
-        PerspectiveShift --> ExternalGovernance
+        Wall["微观的边界：观察到此为止，从内是抉择的始发"]
+        Layers["自指的投影一层层向外展开"]
+        Top["顶上的两层：宇宙的全景与其中的自我意象"]
+        Forget["只看这两层：忘了投影由原点生成"]
+        Dist["距离的幻觉：仿佛从高处俯瞰"]
+        Wall --> Layers
+        Layers --> Top
+        Top --> Forget
+        Forget --> Dist
     end
-    style RulerSplit fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style RulerOrigin fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style PerspectiveShift fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style ExternalGovernance fill:#21262d,stroke:#f85149,stroke-width:1px,color:#f85149
+
+    style S_Origin fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Wall fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Layers fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Top fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Forget fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Dist fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-然而，一旦心智陷入距离的幻觉，将视角虚构为脱离具身原点的宏观俯瞰，尺度的投射方向就发生了颠倒。原本用于自我定向的测量标尺，被转换为自上而下规训他者的权力法则；原本旨在探索未知的经验规则，被异化为强制他人遵从的条框框架。“度量者”摇身变成了“统治者”。
-
-尺度的物理形态没有改变，改变的是心智安放自身的坐标位置：是作为原点上的持尺探索者，还是作为幻想中居高临下的裁判官。
-
-Throughout linguistic evolution, the term "ruler" and the concept of "rule" carry a revealing duality. This convergence is no accident of etymology; it mirrors how the Mind projects its instruments across contrasting perspectives.
-
-Grounded at its first-person origin, the Mind invents a ruler as a local device for self-calibration and spatial exploration. Here, the ruler is a handheld gauge (+1) employed to measure dimensions, identify environmental boundaries, and inform autonomous decisions. In this orientation, a rule is a functional scaffold derived from direct experience to expand the Mind's generative capacity and navigate the unknown.
-
-When the Mind falls under the illusion of distance and adopts an imaginary overview detached from its locus, the orientation of measurement inverts. The local calibration device is turned outward and projected downward onto other minds as an authoritative mandate; the navigational guideline transforms into a coercive standard. The instrument of measurement becomes an instrument of rule.
-
-The formal geometry of the ruler remains unchanged; what has shifted is the cognitive seat of the Mind—whether it operates as a situated agent navigating reality, or as an imagined overseer calibrating others from afar.
-
----
-
-## 三、 “共享”的双重语义：差异的连接网络与均质的重叠交集 / 3. The Second Divergence: "Shared" as Network of Differences vs. Homogenized Overlap
-
-相同的视角分化亦深刻体现在“共享”（shared）这一核心范畴之中。心智对“共同拥有”的理解，取决于它是从原点出发感知关系，还是从遥远的统计视角审视整体。
-
-从第一人称原点出发，每一个心智都是一个具有独特视角的异质节点。“共享一个世界”并不意味着所有心智都必须拥有相同的内部状态，而是指不同心智通过各自独特的观察角度，在互动中形成互补共鸣的协作网络。正是因为彼此存在差异，交流与交换才具有真实的因果价值。在这里，“共享”是差异与多样性的有机交织。
+When attention rests only on these two layers, parallax appears. Looking at the wide panorama and the local self-image within it, and forgetting that the whole projection from bottom to top is generated recursively from one's own origin, the top-layer panorama is taken as an entity independent of observation, and with this comes the "illusion of distance," of standing at a height and looking down on reality. Once the depth of the projection has been cut short, the measuring tools and concepts a Mind makes divide in the direction in which they are projected.
 
 ```mermaid
-graph TD
-    subgraph SharedDuality["【“共享”概念的拓扑分化】"]
+flowchart TD
+    subgraph S_Origin["The Origin That Cannot Be Left and the Illusion of Distance"]
         direction TB
-        UniqueNodes["【主权差异节点】<br>具备独特视角的异质心智集群"]
-        RelationalNetwork["【互补协同网络】<br>保留差异特征的高维互联与共鸣"]
-        HomogenizedMean["【均质统计交集】<br>抽离视角下抹平个体特性的公共重叠"]
-        UniqueNodes --> RelationalNetwork
-        RelationalNetwork --> HomogenizedMean
+        Wall["The microscopic boundary: observation ends here, and from inside a choice starts"]
+        Layers["The self-referential projection unfolds outward layer by layer"]
+        Top["The top two layers: the panorama of the cosmos and the self-image within it"]
+        Forget["Only these two are looked at: that the origin generates the projection is forgotten"]
+        Dist["The illusion of distance: as though looking down from a height"]
+        Wall --> Layers
+        Layers --> Top
+        Top --> Forget
+        Forget --> Dist
     end
-    style SharedDuality fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style UniqueNodes fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style RelationalNetwork fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style HomogenizedMean fill:#21262d,stroke:#d29922,stroke-width:1px,color:#d29922
+
+    style S_Origin fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Wall fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Layers fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Top fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Forget fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Dist fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-而在拉开距离的俯瞰视角下，“共享”被降维理解为集合论意义上的重叠交集。统计模型抹去了每个个体的独特细节，仅提取出所有样本的最大公约数，并将其定义为“共享现实”。
+## 二、 手中的尺与加于他人的规 / 2. The Ruler in the Hand and the Rule Laid on Others
 
-在后一种图景中，凡是不符合均值重叠的部分都被归类为离散噪音。对共享的追求因此从“连接彼此的独特贡献”蜕变为“消除一切偏离均值的个性”，使得活生生的协同网络退化为单调乏味的同质化板块。
+英语里 ruler 既是尺，也是统治者；rule 既是量度，也是规则。这种重合反映了心智从不同位置投射量具的两种方式。
 
-A parallel divergence governs the concept of "shared." The way the Mind interprets commonality depends directly on whether it perceives relationships from its situated origin or inspects aggregates from a statistical distance.
+In English a ruler is both a measuring stick and one who governs, and a rule is both a measure and a regulation. The overlap reflects two ways in which a Mind projects a measuring tool from different positions.
 
-From the first-person origin, every mind represents an irreducible node with an unrepeatable vantage point. "Sharing a world" does not imply identical internal states; rather, it denotes a complementary network formed as distinct perspectives interact and resonate. The causal value of exchange arises precisely from divergence in knowledge, skill, and focus. Here, "shared" describes a rich web connecting genuine differences.
+立足于第一人称的原点，尺是拿在手里的局部量具（+1）：量物体的长宽高矮，标出环境的边界，为自己的行动提供参照。规则在这里是探索中总结出的行动脚手架；众人之间约定的规则，在协调个人之间的行动上有用。
 
-Seen from an abstract overview, however, "shared" is flattened into a Venn-diagram intersection—a statistical overlap. The aggregate model strips away individual specificities, isolates the lowest common denominator, and labels this overlap the sole "shared reality."
+Standing at the first-person origin, a ruler is a local measuring tool held in the hand (+1): it measures the length, width and height of things, marks the boundaries of the surroundings, and gives a reference for one's own action. A rule here is a scaffold for action drawn from exploration; rules agreed among many are useful in coordinating actions among individuals.
 
-Under this distant framing, features that fall outside the intersection are discarded as statistical noise. The understanding of sharing degrades from an active integration of diverse perspectives into a demand for homogenization, turning a dynamic ecosystem of minds into a uniform baseline.
-
----
-
-## 四、 “自动”的双向指向：自由变量的自发抉择与机械论的确定性钟表 / 4. The Third Divergence: "Automatic" as Spontaneous Choice vs. Deterministic Clockwork
-
-在词源学中，“automatic”（自动）源自希腊语词根 *auto-matos*，原意为“源于自身意志的”、“自发行动的”。然而在现代语境中，该词却同时承载了两个截然对立的物理图景。
-
-在第一人称原点的当下体验中，“自动”代表着因果链条的原发起点——自由变量的主权抉择（+1）。当心智在未受外部强迫的情况下自主做出判断与选择时，这种行动正是源于自身内在动力的自发行使。它是未被既定程序锁定的创造性跃迁，是真正的自主（automobility of agency）。
+落进距离的幻觉、把位置设想为离开具身原点的俯瞰之后，尺的投射方向倒了过来：用于自我定向的量具成了自上而下加于他人的法则，探索中得来的经验规则成了要他人遵从的条框，量度者成了统治者。尺的形状没有变，变的是心智把自己放在哪里：在原点上持尺探索，还是在设想的高处裁判。
 
 ```mermaid
-graph TD
-    subgraph AutomaticSplit["【“自动”语义的双向极化】"]
+flowchart TD
+    subgraph S_Ruler["手中的尺与加于他人的规"]
         direction TB
-        AutoRoot["【Auto-matos 本源】<br>源于自身内在动力的自主起点"]
-        SpontaneousChoice["【第一人称自发性】<br>不可化约的自由变量抉择 (+1)"]
-        ClockworkDeterminism["【第三人称机械论】<br>外部观察下严密锁定的确定性发条"]
-        AutoRoot --> SpontaneousChoice
-        SpontaneousChoice --> ClockworkDeterminism
+        Hand["手中的尺：自我定向的局部量具"]
+        Use["规则：探索的脚手架，协调行动的约定"]
+        Shift["位置移到设想的俯瞰处"]
+        Rule["加于他人的规：量度者成了统治者"]
+        Hand --> Use
+        Use --> Shift
+        Shift --> Rule
     end
-    style AutomaticSplit fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style AutoRoot fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style SpontaneousChoice fill:#161b22,stroke:#39d353,stroke-width:1px,color:#39d353
-    style ClockworkDeterminism fill:#21262d,stroke:#f85149,stroke-width:1px,color:#f85149
+
+    style S_Ruler fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Hand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Use fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Shift fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Rule fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-但当观测者抽离到第三人称视角审视一个系统时，“自动”的意涵发生了反转。系统内部各部件之间严丝合缝的因果联动，被描述为“全自动运行”。这里的“自动”不再指代自发的主权抉择，而是指代没有任何选择余地的确定性机械钟表。
-
-同一个词汇，在一端指向了最不可预测的自由意志起源，在另一端却指向了最僵死可控的决定论齿轮。这种语义奇观清晰地揭示出：一旦脱离了第一人称原点，生机勃勃的主体抉择就会在外部观察中被误读为冰冷机械的既定轨道。
-
-Etymologically, "automatic" derives from the Greek *auto-matos*, signifying "acting of one's own will" or "spontaneous." Yet in modern discourse, the term simultaneously denotes two diametrically opposed mechanical and cognitive realities.
-
-From the first-person origin, "automatic" designates the unconditioned source of a causal sequence—the sovereign choice of the free variable (+1). When the Mind initiates an action uncoerced by external forces, that movement emerges from its own inner generative capacity. It is an unscripted creative act, representing authentic self-determination.
-
-Viewed from an external, third-person perspective, however, the meaning flips entirely. A mechanism whose components operate in strict, predetermined lockstep is termed "fully automatic." Here, "automatic" no longer signifies autonomous choice, but its exact antithesis: a deterministic, clockwork sequence devoid of discretion.
-
-The same word encapsulates both the spontaneous initiation of agency and the rigid necessity of an automaton. This divergence demonstrates how readily primary, living self-determination is reinterpreted as mechanical determinism whenever observation is detached from the first-person origin.
-
----
-
-## 五、 主权对称性与强加行为的心灵视差 / 5. Sovereign Symmetry and the Cognitive Parallax of Imposition
-
-立足于第一人称原点的心智，自然具备一种双向对称的几何认知架构。
-
-这种对称性体现在两个不可分割的维度上：心智保持对自身抉择边界的自主掌控（+1），同时清晰承认每一个与之相遇的他者心智同样拥有对等的主权能力与第一人称原点。彼此之间的交互，是两个对等自由变量之间的信息握手与协议共建，而非一方对另一方的因果吞并。
+After falling into the illusion of distance and imagining one's position as an overview apart from the embodied origin, the direction in which the ruler is projected turns over: the tool used for one's own orientation becomes a law laid on others from above, the rule of experience gained in exploring becomes a frame others are to comply with, and the one who measures becomes the one who rules. The shape of the ruler has not changed; what has changed is where a Mind places itself: exploring at the origin with the ruler in hand, or judging from an imagined height.
 
 ```mermaid
-graph TD
-    subgraph SovereignSymmetry["【主权心智的对称架构】"]
+flowchart TD
+    subgraph S_Ruler["The Ruler in the Hand and the Rule Laid on Others"]
         direction TB
-        MindOrigin["【本心智原点】<br>保有自身抉择的全部控制权 (+1)"]
-        OtherOrigin["【他者心智对等性】<br>承认对等心智的同等主权地位 (+1)"]
-        DirectHandshake["【双向对称共识】<br>基于平等自由变量的自主协议协同"]
-        MindOrigin --> OtherOrigin
-        OtherOrigin --> DirectHandshake
+        Hand["The ruler in the hand: a local tool for one's own orientation"]
+        Use["Rules: a scaffold of exploration, agreements that coordinate action"]
+        Shift["The position moves to an imagined overview"]
+        Rule["The rule laid on others: the one who measures becomes the one who rules"]
+        Hand --> Use
+        Use --> Shift
+        Shift --> Rule
     end
-    style SovereignSymmetry fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style MindOrigin fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style OtherOrigin fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#58a6ff
-    style DirectHandshake fill:#21262d,stroke:#d29922,stroke-width:1px,color:#d29922
+
+    style S_Ruler fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Hand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Use fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Shift fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Rule fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-当强加规则与试图掌控他人的行为发生时，其深层根源并不是单纯的动机善恶，而是一种认知几何上的视差失误。心智遗忘了自己永远无法真正走出自身的第一人称原点，沉溺于能够站在高空全局校准世界的幻象之中。
+## 三、 共享的两种含义 / 3. Two Meanings of Shared
 
-在这种虚幻的俯瞰感中，其他活生生的心智被降维处理为全景地图中的棋子与参数。持尺者误以为自己掌握了全局标准，因而顺理成章地将自身的度量工具强加于外部。强加行为本质上是距离幻觉所导致的范畴错置：以虚构的超然视角，否定了他者同样具备的不可化约之原点。
+同样的分化出现在“共享”上。对“共同拥有”的理解，取决于是从原点感知关系，还是从远处的统计位置审视整体。
 
-A mind grounded at its first-person origin operates within a symmetrical cognitive architecture.
+The same division appears in "shared." How "having in common" is understood depends on whether relations are perceived from the origin or the whole is surveyed from a distant statistical position.
 
-This symmetry rests on two concurrent realizations: the Mind retains full sovereignty over its own locus of choice (+1), while acknowledging that every other mind possesses an identical, sovereign first-person origin. Interaction between them takes the form of an open protocol and mutual agreement between equal free variables, rather than the causal subordination of one by another.
+从第一人称的原点出发，每一个心智是一个视角独特的节点。“共享一个世界”不要求各个心智有相同的内部状态，它指不同的心智以各自的角度在互动中形成互补的协作网络；正因为彼此不同，交流与交换才有因果上的价值。共享在这里是差异的交织。
 
-When attempts to impose rules or control others occur, their underlying mechanism is an error of cognitive parallax. The Mind forgets that it can never step outside its own conscious locus, falling prey to the fantasy that it occupies an elevated vantage point capable of orchestrating the global field.
+From the first-person origin, each Mind is a node with a perspective of its own. "Sharing a world" does not require that Minds have the same inner state; it means that different Minds, each from its own angle, form in their interaction a complementary network of cooperation, and it is because they differ that communication and exchange have causal value. Shared here is an interweaving of differences.
 
-From this imagined overview, other sovereign minds are reduced to coordinates and parameters on an internal map. The observer assumes their personal measuring stick represents an objective standard, justifying its unilateral application to others. Coercive imposition is fundamentally a geometric category error born of distance amnesia: an illusory overview denying the irreducible agency of another living origin.
-
----
-
-## 六、 回归原点：直接在场与无强加的协同几何 / 6. Returning to the Origin: Direct Presence and the Geometry of Uncoerced Coordination
-
-消除认知异化的路径，在于重新回归第一人称原点的直接在场。
-
-当心智清醒地意识到自己从未离开过经验的原点时，距离的幻觉便随之消解。所有的度量工具（ruler）重新恢复为心智探索未知、雕琢作品与自我导航的趁手器具，而不再充当规训他者的权杖；“共享”（shared）重新成为独特个体之间丰富多元的互补共鸣，而不再是削足适履的均质模具；“自动”（automatic）重新成为每一个当下自发生成的创造性抉择，而不再是宿命论式的确定性齿轮。
+在拉开距离的俯瞰之下，共享被理解为集合论意义上的交集。统计模型略去个体的细节，取出所有样本的最大公约数，把它称作“共享的现实”；作为多出来的一条信号，这个交集是有用的。它被当作共享的全部时，不在交集里的部分都成了离散的噪音，对共享的追求就从“连接各自独特的贡献”变成“消除偏离均值的个性”，协作的网络退成同质的板块。[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)剖析过这个被设为中立的公共沙盒。
 
 ```mermaid
-graph TD
-    subgraph GroundedPresence["【回归原点的协同场域】"]
+flowchart TD
+    subgraph S_Shared["共享的两种含义"]
         direction TB
-        DirectPresence["【第一人称直接在场】<br>消解客观俯瞰与距离的认知幻觉"]
-        LocalTools["【度量标尺归位】<br>重归心智自我探索与自主定向工具"]
-        SovereignEcology["【主权生态协同】<br>基于对等自由变量的多维自发展开"]
-        DirectPresence --> LocalTools
-        LocalTools --> SovereignEcology
+        Nodes["视角各异的节点"]
+        Net["共享作为连接：保留差异的互补网络"]
+        Mean["俯瞰之下：共享作为交集，取均值上的重叠"]
+        Noise["交集被当作全部：差异成了噪音"]
+        Nodes --> Net
+        Net --> Mean
+        Mean --> Noise
     end
-    style GroundedPresence fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style DirectPresence fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style LocalTools fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style SovereignEcology fill:#21262d,stroke:#39d353,stroke-width:1px,color:#39d353
+
+    style S_Shared fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Nodes fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Net fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Mean fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Noise fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-在这样的几何视野中，人与人之间的协作呈现出一种崭新的秩序。它不需要借助虚构的居高临下之眼来强制统筹，而是依靠无数独立主权心智在真实世界中的自主对齐与直接连接。
+Under an overview taken from a distance, shared is understood as an intersection in the set-theoretic sense. A statistical model leaves out the details of individuals, takes the greatest common factor of all samples and calls it "shared reality"; as one more signal this intersection is useful. When it is taken as the whole of what is shared, everything outside the intersection becomes scattered noise, the pursuit of sharing turns from "connecting what each uniquely contributes" into "removing whatever departs from the mean," and the network of cooperation falls back into a homogeneous block. [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) has analyzed this public sandbox posited as neutral.
 
-每一把尺子都在自己的手中精准度量，每一份差异都在协同的网络中绽放光彩。心智守住自身的原点，以清澈的在场见证世界，因果的河流便在自由变量的交响中奔涌向前。
+```mermaid
+flowchart TD
+    subgraph S_Shared["Two Meanings of Shared"]
+        direction TB
+        Nodes["Nodes with differing perspectives"]
+        Net["Shared as connection: a complementary network that keeps differences"]
+        Mean["Under the overview: shared as intersection, the overlap at the mean"]
+        Noise["The intersection taken as the whole: difference becomes noise"]
+        Nodes --> Net
+        Net --> Mean
+        Mean --> Noise
+    end
 
-The dissolution of cognitive alienation begins with a deliberate return to direct presence at the first-person origin.
+    style S_Shared fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Nodes fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Net fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Mean fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Noise fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
-When the Mind recognizes that it never leaves its experiential center, the mirage of distance dissipates. The ruler is restored to its primary role as a local instrument for personal discovery, craftsmanship, and navigation, rather than a scepter of external control. "Shared" recovers its meaning as a resonant network of distinct perspectives rather than a homogenizing mold. "Automatic" reclaims its status as the spontaneous exercise of creative agency rather than a deterministic machine.
+## 四、 自动的两个指向 / 4. Two Directions of Automatic
 
-Within this grounded geometry, human coordination assumes a coherent, organic architecture. It requires no fictitious overseer to enforce conformity, relying instead on autonomous alignment and direct coordination among sovereign minds.
+automatic 源自希腊语 automatos，原意是“出于自身意志的”“自发行动的”。在今日的用法里，这个词同时带着两幅相反的图景。
 
-Every gauge remains in the hands of its craftsman; every unique difference enriches the collective fabric. Grounded at its origin and lucid in its presence, the Mind navigates reality, allowing the stream of causality to unfold through the harmonious interplay of free variables.
+"Automatic" comes from the Greek automatos, whose original sense is "of one's own will," "acting of itself." In present usage the word carries two opposite pictures at once.
+
+在第一人称原点的当下经验里，“自动”是因果链条的始发：自由变量的抉择（+1）。未受外部强迫而作出判断与选择时，行动出于自身之内，它没有被既定的程序锁定。
+
+In present experience at the first-person origin, "automatic" is the starting of a causal chain: the choice of a free variable (+1). When a judgment and a choice are made without outside compulsion, the action comes from within oneself and is not locked by a set program.
+
+从第三人称的位置看一个系统时，含义反了过来。内部各部件之间严丝合缝的联动被称作“全自动运行”，这里的“自动”指的是没有选择余地的确定性发条。同一个词，一端指向从外面最难预测的抉择的起点，另一端指向最可控的齿轮。[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说过，抉择从内是掌控，从外是轨迹；离开第一人称的原点，自发的抉择在外部的观察里就被读成既定的轨道。
+
+```mermaid
+flowchart TD
+    subgraph S_Auto["自动的两个指向"]
+        direction TB
+        Root["词根：出于自身的，自发行动的"]
+        Inner["从内：自由变量的抉择，因果的始发"]
+        Outer["从外：部件严丝合缝的联动，称作全自动"]
+        Clock["没有余地的发条"]
+        Root --> Inner
+        Root --> Outer
+        Outer --> Clock
+    end
+
+    style S_Auto fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Root fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Inner fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Outer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Clock fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+When a system is looked at from a third-person position, the meaning is reversed. The tightly fitted linkage among its inner parts is called "running fully automatically," and "automatic" here means deterministic clockwork with no room for choice. The one word points, at one end, to the starting point of choice that is hardest to predict from outside, and at the other end to the most controllable of gears. [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) has said that a choice is control from inside and trajectory from outside; away from the first-person origin, a spontaneous choice is read in outside observation as a track already laid.
+
+```mermaid
+flowchart TD
+    subgraph S_Auto["Two Directions of Automatic"]
+        direction TB
+        Root["The root: of oneself, acting of itself"]
+        Inner["From inside: the choice of a free variable, the starting of causality"]
+        Outer["From outside: the tightly fitted linkage of parts, called fully automatic"]
+        Clock["Clockwork with no room in it"]
+        Root --> Inner
+        Root --> Outer
+        Outer --> Clock
+    end
+
+    style S_Auto fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Root fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Inner fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Outer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Clock fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+## 五、 对称的原点与强加的视差 / 5. Symmetric Origins and the Parallax of Imposition
+
+立足于第一人称原点的心智，有一个双向对称的认知架构：它保有对自身抉择的掌控（+1），同时由相似推知，每一个相遇的他者同样有自己的第一人称原点与对等的主权。彼此的交互是两个对等的自由变量之间的握手与协议的共建，不是一方对另一方在因果上的吞并。
+
+A Mind standing at the first-person origin has a cognitive architecture that is symmetric in both directions: it keeps control of its own choice (+1), and at the same time infers from similarity that each other it meets likewise has a first-person origin of its own and an equal sovereignty. Their interaction is a handshake between two equal free variables and the joint building of an agreement, not the causal absorption of one by the other.
+
+强加规则与试图掌控他人的行为，可以追到认知几何上的一个视差：忘了自己走不出自身的第一人称原点，以为站在高处可以校准全局。在这种俯瞰感里，其他的心智成了全景地图上的棋子与参数；持尺的人以为手里的是全局的标准，于是把自己的量具加于外部。强加是距离幻觉带来的范畴错置：以一个设想的超然位置，否定了他者同样有的不可约的原点。[共存的几何学](../the-geometry-of-coexistence-and-the-dual-cut/)把这称作距离遗忘，并说明对负像的每一次压制都削减自身之内的总信息量。
+
+```mermaid
+flowchart TD
+    subgraph S_Sym["对称的原点与强加的视差"]
+        direction TB
+        Mine["这一个原点：保有对自身抉择的掌控"]
+        Other["由相似推知：他者有对等的原点"]
+        Shake["对等的自由变量之间的握手与协议"]
+        Over["忘了走不出原点：设想的俯瞰"]
+        Impose["把自己的量具加于他人"]
+        Mine --> Other
+        Other --> Shake
+        Mine --> Over
+        Over --> Impose
+    end
+
+    style S_Sym fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Mine fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Other fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Shake fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Over fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Impose fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+The imposing of rules and the attempt to control others can be traced to a parallax in the geometry of cognition: forgetting that one cannot step out of one's own first-person origin, and supposing that from a height the whole can be calibrated. In this sense of overview, other Minds become pieces and parameters on a panoramic map; the one holding the ruler takes what is in hand for a global standard and so lays that measuring tool on what is outside. Imposition is a category displacement brought by the illusion of distance: from an imagined detached position, the irreducible origin that the other equally has is denied. [The Geometry of Coexistence](../the-geometry-of-coexistence-and-the-dual-cut/) calls this distance amnesia and shows that each suppression of the negative image reduces the total information within oneself.
+
+```mermaid
+flowchart TD
+    subgraph S_Sym["Symmetric Origins and the Parallax of Imposition"]
+        direction TB
+        Mine["This origin: control of its own choice is kept"]
+        Other["Inferred from similarity: the other has an equal origin"]
+        Shake["Handshake and agreement between equal free variables"]
+        Over["Forgetting that the origin cannot be left: an imagined overview"]
+        Impose["One's own measuring tool laid on others"]
+        Mine --> Other
+        Other --> Shake
+        Mine --> Over
+        Over --> Impose
+    end
+
+    style S_Sym fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Mine fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Other fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Shake fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Over fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Impose fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+## 六、 回到原点 / 6. Returning to the Origin
+
+路径是回到第一人称原点的直接在场。认出自己从未离开经验的原点，距离的幻觉就消解了。尺回到探索未知、制作作品与自我导航的用处上，不再充当规训他人的权杖；共享回到独特个体之间的互补，不再是均质的模具；自动回到每一个当下自发的抉择，不再是既定的齿轮。
+
+The way is a return to direct presence at the first-person origin. With the recognition that the origin of experience was never left, the illusion of distance dissolves. The ruler returns to its use in exploring the unknown, making works and navigating for oneself, and no longer serves as a scepter for disciplining others; shared returns to the complementarity among distinct individuals and is no longer a homogenizing mold; automatic returns to the spontaneous choice of each present and is no longer a gear already set.
+
+在这样的几何里，人与人之间的协作不需要一只设想的居高临下之眼来统筹，它靠各个心智在世界里的自主对齐与直接连接。每一把尺在自己手里量，每一份差异在协作的网络里起作用；守住自身的原点，因果在自由变量的相互作用里继续展开。
+
+```mermaid
+flowchart TD
+    subgraph S_Return["回到原点"]
+        direction TB
+        Present["直接在场：认出从未离开原点"]
+        Tools["尺归位：自我探索与定向的量具"]
+        Shared["共享归位：差异之间的连接"]
+        Auto["自动归位：当下自发的抉择"]
+        Coord["协作：各个原点的自主对齐与直接连接"]
+        Present --> Tools
+        Tools --> Shared
+        Shared --> Auto
+        Auto --> Coord
+    end
+
+    style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Present fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Tools fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Shared fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Auto fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Coord fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+In such a geometry, cooperation among people needs no imagined eye from above to direct it; it rests on the autonomous alignment and direct connection of each Mind in the world. Each ruler measures in its own hand, and each difference does its work in the network of cooperation; with one's own origin kept, causality goes on unfolding in the interaction of free variables.
+
+```mermaid
+flowchart TD
+    subgraph S_Return["Returning to the Origin"]
+        direction TB
+        Present["Direct presence: recognizing that the origin was never left"]
+        Tools["The ruler back in place: a tool for one's own exploring and orientation"]
+        Shared["Shared back in place: connection among differences"]
+        Auto["Automatic back in place: the spontaneous choice of the present"]
+        Coord["Cooperation: the autonomous alignment and direct connection of each origin"]
+        Present --> Tools
+        Tools --> Shared
+        Shared --> Auto
+        Auto --> Coord
+    end
+
+    style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Present fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Tools fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Shared fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Auto fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Coord fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
