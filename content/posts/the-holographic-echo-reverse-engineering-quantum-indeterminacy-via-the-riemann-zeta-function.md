@@ -26,9 +26,9 @@ In holographic physics, the AdS/CFT correspondence for example, dynamics in a hi
 
 ## 二、 量子不确定性与素数的确定 / 2. Quantum Indeterminacy and the Determinacy of Primes
 
-在经典力学的模型里没有自由变量：给定初始位置与动量，轨迹便已定下。量子力学的模型在单次结果上留了空，测不准关系、真空涨落与测量的单次读数都属于此。这是模型自己标出的边界，它在此处不再给出单次的结果。自由并不由此得到供给：自由变量属于作出抉择的心智，物理学在这里记下的是自己的描述合不上的地方。
+在经典力学的模型里没有自由变量：给定初始位置与动量，轨迹便已定下。量子力学的模型在单次结果上留了空，测不准关系、真空涨落与测量的单次读数都属于此。这是模型自己标出的边界，它在此处不再给出单次的结果。这道空白与心智的抉择是同一件事的两面：从描述之内看，是一处合不上的地方；从第一人称看，是作出抉择的自由变量。
 
-In the model of classical mechanics there is no free variable: given initial positions and momenta, the trajectory is settled. The model of quantum mechanics leaves the single outcome blank; the uncertainty relation, vacuum fluctuations and the individual reading of a measurement all belong here. This is a boundary the model marks for itself, the place where it no longer yields a single result. Freedom is not supplied from there: the free variable belongs to the Mind that chooses, and what physics records at this point is where its own description fails to close.
+In the model of classical mechanics there is no free variable: given initial positions and momenta, the trajectory is settled. The model of quantum mechanics leaves the single outcome blank; the uncertainty relation, vacuum fluctuations and the individual reading of a measurement all belong here. This is a boundary the model marks for itself, the place where it no longer yields a single result. That blank and the Mind's choosing are two faces of one thing: seen from inside the description, a place that will not close; seen from the first person, the free variable that chooses.
 
 黎曼猜想所管辖的对象却是确定性的范本。素数是算术里最坚固的东西，17 不会因为谁的意愿而变成合数。
 
@@ -102,9 +102,9 @@ With this in view, the tension between potential infinity and totality shows its
 
 In the formal systems of mathematics, infinity is handled as an object that can be packaged and fully evaluated. In lived first-person practice infinity is never a settled bill; it is potential infinity, a horizon that always leaves something undecided and waits for the next concrete decision.
 
-意识的自由不是从量子的间隙里借来的。次序是反过来的：权衡、感受、赋予意义并在可能性中作出抉择，是第一人称里直接遇到的事，模型中那道合不上的间隙，是从这种开放出发去描述世界时，描述自己留下的记号。
+意识的自由与量子的间隙不是两样东西，也无所谓谁从谁那里借来。权衡、感受、赋予意义并在可能性中作出抉择，是从第一人称看到的这一面；模型中那道合不上的间隙，是同一种开放被从外部描述时留在描述里的那一面。
 
-The freedom of consciousness is not borrowed from the quantum gap. The order runs the other way: weighing, feeling, giving meaning and choosing among possibilities are met directly in the first person, and the gap that will not close in the model is the mark the description itself leaves when the world is described from within that openness.
+The freedom of consciousness and the quantum gap are not two things, and neither is borrowed from the other. Weighing, feeling, giving meaning and choosing among possibilities are the face seen from the first person; the gap that will not close in the model is the face the same openness leaves in a description when it is described from outside.
 
 停留在开放的潜能里，意味着承受时间前行的摩擦，面对不确定，并为每一步不可逆的行动付出代价。急躁在这里生长。因为不耐一步一步的跋涉，也因为对未知与失控的恐惧，心智想把这份潜能一次折现为一个封闭的整体：一套无所不包的万物理论，一个把所有因果一并结清的方程，或一份宣称已经看尽全部历史与未来的清单。
 
