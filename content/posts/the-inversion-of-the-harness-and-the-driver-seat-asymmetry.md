@@ -202,7 +202,7 @@ With the same foundation model, the same agent toolchain and the same harness, t
 
 When the wheel is handed over, thinking, judging and architecture are entrusted wholesale to the agent, in the belief that the harness and the default configuration will deliver the right solution by themselves. The feedback loop then leaves the friction of the contact surface, the generated code and text are not understood at the underlying level, and what remains is clicking accept, one time after another. Carried on, this erodes skill, dulls the sense for tracing complex edge failures, and piles bloated, fragile redundancy into the system, which in collision with other people's systems can only be calibrated by the other side.
 
-握住方向盘时，智能体被当作高速执行的肌肉与思维对练的对手，裁决与方向留在驾驶位上。每一次提示、每一次代码执行与每一次运行时的报错都是迎上去的摩擦，模型的即时回应被用来校准并加深自己的心智模型。这样下去，因果的吞吐量成倍放大，对复杂系统中不变模式的直觉在驾驭中磨出来。[个体的选择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)所说的，在这里看得很清楚：智能体不自动带来均等的赋能，它放大的是握着方向盘的那个姿态，也加快了交出方向盘之后的退化。
+握住方向盘时，智能体被当作高速执行的肌肉与思维对练的对手，裁决与方向留在驾驶位上。每一次提示、每一次代码执行与每一次运行时的报错都是迎上去的摩擦，模型的即时回应被用来校准并加深自己的心智模型。这样下去，因果的吞吐量成倍放大，对复杂系统中不变模式的直觉在驾驭中磨出来。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)所说的，在这里看得很清楚：智能体不自动带来均等的赋能，它放大的是握着方向盘的那个姿态，也加快了交出方向盘之后的退化。
 
 ```mermaid
 flowchart TD
@@ -233,7 +233,7 @@ flowchart TD
     style Deepen fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When the wheel is held, the agent is treated as muscle for fast execution and as a sparring partner for thought, and the ruling and the direction stay in the driver's seat. Every prompt, every execution of code and every runtime error is friction that is met head-on, and the model's immediate response is used to calibrate and deepen one's own mental model. Carried on, this multiplies causal throughput, and an intuition for the invariant patterns in complex systems is ground out in the driving. What [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [No Universal Salvation, Only Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) say is plain to see here: an agent does not automatically bring equal empowerment; it amplifies the stance of holding the wheel, and it also speeds the decline that follows handing the wheel over.
+When the wheel is held, the agent is treated as muscle for fast execution and as a sparring partner for thought, and the ruling and the direction stay in the driver's seat. Every prompt, every execution of code and every runtime error is friction that is met head-on, and the model's immediate response is used to calibrate and deepen one's own mental model. Carried on, this multiplies causal throughput, and an intuition for the invariant patterns in complex systems is ground out in the driving. What [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) say is plain to see here: an agent does not automatically bring equal empowerment; it amplifies the stance of holding the wheel, and it also speeds the decline that follows handing the wheel over.
 
 ```mermaid
 flowchart TD
