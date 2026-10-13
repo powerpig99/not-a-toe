@@ -2,9 +2,9 @@
 
 *把时间画成一根轴，画图的位置就成了没有写进图里的观察者 / Drawing time as an axis makes the place the drawing is done from an observer left out of the picture*
 
-相对论以光速为尺、以整个宇宙为参照，把钟与光信号之间的相对关系保存得极为精确，卫星授时、引力透镜与水星进动都靠它算准。它的边界在读图的方式上：时间被画成四维几何中的一根轴之后，比较两条世界线长短的那个位置站在图外，却没有被写进图里。双生子重逢时握住的是同一个当下，两只钟读数的不同可以读作两个振子各自经历的记录。大爆炸与热寂可以读作同一张图向后与向前的外推，属于投影出的时间；从第一人称的位置去找，找到的只有当下。
+相对论以光速为尺、以整个宇宙为参照，把钟与光信号之间的相对关系保存得极为精确，卫星授时、引力透镜与水星进动都靠它算准。它的边界在读图的方式上：时间被画成四维几何中的一根轴之后，比较两条世界线长短的那个位置站在图外，却没有被写进图里。双生子重逢时握住的是同一个当下，两只钟读数的不同是两个振子各自经历的记录。大爆炸与热寂是同一张图向后与向前的外推，属于投影出的时间；从第一人称的位置去找，找到的只有当下。
 
-Relativity takes the speed of light as its ruler and the whole cosmos as its reference, and it preserves the relations between clocks and light signals with great precision; satellite timing, gravitational lensing and the perihelion of Mercury are all computed by it. Its boundary lies in how the picture is read: once time is drawn as an axis in a four-dimensional geometry, the place from which two worldlines are compared stands outside the picture and is not written into it. Reunited twins clasp hands in one present, and the difference between two clock readings can be read as the record of what each oscillator went through. The Big Bang and heat death can be read as the same picture extrapolated backward and forward, and they belong to projected time; a search from the first-person position finds only the present.
+Relativity takes the speed of light as its ruler and the whole cosmos as its reference, and it preserves the relations between clocks and light signals with great precision; satellite timing, gravitational lensing and the perihelion of Mercury are all computed by it. Its boundary lies in how the picture is read: once time is drawn as an axis in a four-dimensional geometry, the place from which two worldlines are compared stands outside the picture and is not written into it. Reunited twins clasp hands in one present, and the difference between two clock readings is the record of what each oscillator went through. The Big Bang and heat death are the same picture extrapolated backward and forward, and they belong to projected time; a search from the first-person position finds only the present.
 
 ## 一、 只有两个人的宇宙 / 1. A Universe of Two
 
@@ -148,7 +148,7 @@ The credibility of the block comes from freezing the present and projecting it a
 
 The time coordinate t in the Lorentz transformation is a bookkeeping tool for aligning readings across different frames of observation. [Dimensions Are Projections](../dimensions-are-projections/) points out that a dimension is a way the Mind compresses relations, not a corridor that can be walked into. To read the difference in metric length between lines in a static geometric body as the youth and aging of a body is to read the map as the territory.
 
-从第一人称的位置去找，找不到一块预先铺好、供人穿行的时空块，找到的是由因果展开的当下，一步接着一步，不可逆。[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)说过，把时间还原成一根几何轴，是先在头脑里取消了时间的生成，把活着的展开做成一份清单。照这个读法，没有谁在时间维度上领先或落后；两个观察者无论怎样运动，重聚时共有的是同一个当下，时间膨胀可以读作模型沿静态时间轴投影时出现的坐标形变。冻结的块状宇宙，是被外推成宇宙的取样框，[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)说明了这一点。
+从第一人称的位置去找，找不到一块预先铺好、供人穿行的时空块，找到的是由因果展开的当下，一步接着一步，不可逆。[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)说过，把时间还原成一根几何轴，是先在头脑里取消了时间的生成，把活着的展开做成一份清单。没有谁在时间维度上领先或落后；两个观察者无论怎样运动，重聚时共有的是同一个当下，时间膨胀是模型沿静态时间轴投影时出现的坐标形变。冻结的块状宇宙，是被外推成宇宙的取样框，[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)说明了这一点。
 
 ```mermaid
 flowchart TD
@@ -173,7 +173,7 @@ flowchart TD
     style Read fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-A search from the first-person position finds no block laid out in advance to be travelled through; it finds a present unfolded by causality, one step after another, irreversible. [Demanding a Theory of Everything Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/) has said that reducing time to a geometric axis first cancels, in the head, the generation of time and turns a living unfolding into a catalog. On this reading no one is ahead or behind along a time dimension; however two observers move, what they share on meeting again is one present, and time dilation can be read as the coordinate deformation that appears when a model projects along a static time axis. The frozen block universe is the sample frame extrapolated into a cosmos, as [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) shows.
+A search from the first-person position finds no block laid out in advance to be travelled through; it finds a present unfolded by causality, one step after another, irreversible. [Demanding a Theory of Everything Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/) has said that reducing time to a geometric axis first cancels, in the head, the generation of time and turns a living unfolding into a catalog. No one is ahead or behind along a time dimension; however two observers move, what they share on meeting again is one present, and time dilation is the coordinate deformation that appears when a model projects along a static time axis. The frozen block universe is the sample frame extrapolated into a cosmos, as [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) shows.
 
 ```mermaid
 flowchart TD
@@ -208,15 +208,15 @@ The measurements are solid: atomic clocks flown on jet aircraft (the Hafele–Ke
 
 That telling passes over what a clock is. A clock is not a sensor of time: followed along causality, no river named "time" is found flowing through the instrument for it to sample. A clock is a local oscillator joined to a counter, a swinging pendulum, a driven quartz crystal, or a cesium atom moving between energy levels.
 
-实验里的原子钟也不在只有两体的虚空之中，它们处在地球的引力势场与自转之中。按这里的读法，引力势的差别与加减速的运动作用在原子核与外层电子的相互作用上，改变了能级跃迁的频率；变了的是具体的振子在所处环境里的因果循环的节律，读数之差是这段节律的累积。
+实验里的原子钟也不在只有两体的虚空之中，它们处在地球的引力势场与自转之中。引力势的差别与加减速的运动作用在原子核与外层电子的相互作用上，改变了能级跃迁的频率；变了的是具体的振子在所处环境里的因果循环的节律，读数之差是这段节律的累积。
 
-Nor do the atomic clocks of the experiments sit in a void of only two bodies; they sit within the Earth's gravitational potential and its rotation. On the reading given here, differences in gravitational potential and motion with acceleration and deceleration act on the interaction between nucleus and outer electrons and change the frequency of the transition between levels; what changes is the rhythm of the causal cycle of a particular oscillator in the surroundings it is in, and the difference in readings is that rhythm accumulated.
+Nor do the atomic clocks of the experiments sit in a void of only two bodies; they sit within the Earth's gravitational potential and its rotation. Differences in gravitational potential and motion with acceleration and deceleration act on the interaction between nucleus and outer electrons and change the frequency of the transition between levels; what changes is the rhythm of the causal cycle of a particular oscillator in the surroundings it is in, and the difference in readings is that rhythm accumulated.
 
 里程表是同一种记录。两辆车从同一地点出发，走过不同的路面，最后停进同一个车库，一辆车的里程表上英里数较少。没有人会说这辆车到了未来的车库；两辆车并排停在此时此地，读数之差记下的是齿轮在不同路况下转过的圈数。
 
 An odometer is a record of the same kind. Two cars leave from one place, cross different ground and end up parked in one garage, and one odometer shows fewer miles. No one would say that this car has arrived in a garage of the future; the two cars stand side by side here and now, and the difference in readings records the turns the gears made under different road conditions.
 
-[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)说，时间是因果的方向与步长。重逢的原子钟显示的那一点秒数之差，可以读作两个振子在不同环境里留下的印记，是经历的记录，不是穿过时空长廊的凭证。
+[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)说，时间是因果的方向与步长。重逢的原子钟显示的那一点秒数之差，是两个振子在不同环境里留下的印记，是经历的记录，不是穿过时空长廊的凭证。
 
 ```mermaid
 flowchart TD
@@ -227,7 +227,7 @@ flowchart TD
         PathAway["一只远行：有加减速，引力势不同"]
         Garage["同一个终点：并排放在同一张桌上，同一个当下"]
         Diff["读数不同：各自累积的循环次数不同"]
-        Odo["读法：钟是里程表，记下的是经历"]
+        Odo["钟是里程表，记下的是经历"]
         Start --> PathGround
         Start --> PathAway
         PathGround --> Garage
@@ -245,7 +245,7 @@ flowchart TD
     style Odo fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) says that time is the direction and the step of causality. The small difference in seconds shown by reunited atomic clocks can be read as the mark left on two oscillators by different surroundings, a record of what was gone through and not a ticket for passage down a corridor of spacetime.
+[Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) says that time is the direction and the step of causality. The small difference in seconds shown by reunited atomic clocks is the mark left on two oscillators by different surroundings, a record of what was gone through and not a ticket for passage down a corridor of spacetime.
 
 ```mermaid
 flowchart TD
@@ -256,7 +256,7 @@ flowchart TD
         PathAway["One travels: acceleration and deceleration, a different potential"]
         Garage["One end point: side by side on one table, in one present"]
         Diff["The readings differ: each has accumulated a different number of cycles"]
-        Odo["The reading: a clock is an odometer and records what was gone through"]
+        Odo["A clock is an odometer and records what was gone through"]
         Start --> PathGround
         Start --> PathAway
         PathGround --> Garage
@@ -362,7 +362,7 @@ A film being projected, set beside the scaling of a single frame, makes the matt
 
 The pixels in this frame are moving apart from one another, and so the geometric trajectory is run backward, to t → 0, where the pixels are squeezed into one point, and this point is called the Big Bang singularity; then the same trajectory is run forward to t → ∞, where the distances between pixels are stretched to the extreme and the image grows thin and dim, and this is called heat death.
 
-照这个读法，大爆炸与热寂属于投影出的时间：它们是一格静止的画面向后缩到原点、向前放到极远时得到的两端，放映本身不在这张画面里。投影出的时间不是活过的时间。
+大爆炸与热寂属于投影出的时间：它们是一格静止的画面向后缩到原点、向前放到极远时得到的两端，放映本身不在这张画面里。投影出的时间不是活过的时间。
 
 ```mermaid
 flowchart TD
@@ -388,7 +388,7 @@ flowchart TD
     style Ends fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-On this reading the Big Bang and heat death belong to projected time: they are the two ends obtained when one still image is shrunk backward to an origin and enlarged forward to the far extreme, and the projection itself is not in the image. Projected time is not lived time.
+The Big Bang and heat death belong to projected time: they are the two ends obtained when one still image is shrunk backward to an origin and enlarged forward to the far extreme, and the projection itself is not in the image. Projected time is not lived time.
 
 ```mermaid
 flowchart TD
@@ -437,7 +437,7 @@ flowchart TD
         PathMore["路径四：积分得十分钟，如此以至无穷"]
         Room["重逢：同一个房间，同一个当下"]
         Rivers["字面的读法：许多条流速各异的时间之河汇于一点"]
-        Rem["这里的读法：一个当下，长度之差是图上的余数"]
+        Rem["从握手的位置：一个当下，长度之差是图上的余数"]
         Origin --> PathOne
         Origin --> PathTwo
         Origin --> PathThree
@@ -474,7 +474,7 @@ flowchart TD
         PathMore["Path four: the integral gives ten minutes, and so on without end"]
         Room["Reunion: one room, one present"]
         Rivers["The literal reading: many rivers of time at different rates meeting at a point"]
-        Rem["The reading here: one present, and the difference in length is a remainder on the picture"]
+        Rem["From the handshake: one present, and the difference in length is a remainder on the picture"]
         Origin --> PathOne
         Origin --> PathTwo
         Origin --> PathThree
