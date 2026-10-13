@@ -16,7 +16,7 @@ In conversation, in living alongside others and in looking back on oneself, ther
 
 From within the first person, each present (t) has direct control over its own choice. At the point where a choice occurs the fork is simple: on meeting the friction of reality, update the world model, or keep the existing frame. The act itself has no prior "easy" or "hard"; resistance, the pull of habit and outside pressure are accounts given after the choice in order to place causal responsibility outside. Followed back behind the choice, no deeper deterministic causal chain is found, and the choice is the starting point. Seen from outside, choice looks scored; [No Outside Scorekeeper](../no-outside-scorekeeper/) shows no one outside keeps the score.
 
-外面的观察者看同一个人，看到的是另一面。视线进不到平行宇宙的边界之内，读不到内在模型的推演与自省，这个人的行动于是显得不确定：下一步推不出来，容易被判作随机或偶然。不可预测是自由的抉择在外部坐标里的样子。量子力学里从外部测得的概率分布与此同构：不确定出现在观察的边界上，它与第一人称的抉择是一件事的两面，谁也不先于谁。[自由的测不准](../zi-you-de-ce-bu-zhun/)与[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)讨论过这种同构。在阳台上训诫他人，是把他人的抉择当成客体，[阳台视角的规训僭越与不可代理的未竟之行](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/)说明了这一点。
+外面的观察者看同一个人，看到的是另一面。视线进不到平行宇宙的边界之内，读不到内在模型的推演与自省，这个人的行动于是显得不确定：下一步推不出来，容易被判作随机或偶然。不可预测是自由的抉择在外部坐标里的样子。量子力学里从外部测得的概率分布与此同构：心智在当下注入自由变量，从外面观察到的便是不确定，它出现在观察的边界上；抉择与不确定是一件事的两面。[自由的测不准](../zi-you-de-ce-bu-zhun/)与[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)讨论过这种同构。在阳台上训诫他人，是把他人的抉择当成客体，[阳台视角的规训僭越与不可代理的未竟之行](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/)说明了这一点。
 
 ```mermaid
 flowchart TD
@@ -26,7 +26,7 @@ flowchart TD
         Inner["从内：直接的掌控，更新模型或维持框架"]
         Outer["从外：读不到内在的模型，只取到轨迹"]
         Indet["显为不确定与概率"]
-        Same["一件事的两面，谁也不先于谁"]
+        Same["一件事的两面"]
         Choice --> Inner
         Choice --> Outer
         Outer --> Indet
@@ -42,7 +42,7 @@ flowchart TD
     style Same fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-An observer outside, looking at the same person, sees the other face. The line of sight cannot pass within the boundary of a parallel universe and cannot read the inner model's reasoning and self-examination, and so this person's action appears indeterminate: the next step cannot be derived, and it is easily judged random or accidental. Unpredictability is what a free choice looks like in outside coordinates. The probability distribution measured from outside in quantum mechanics has the same form: indeterminacy appears at the boundary of observation, and it and the first-person choice are two faces of one thing, neither prior to the other. [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) and [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) have discussed this isomorphism. Disciplining others from the balcony treats their choice as an object, as [The Balcony Disciplinary Overstep and the Unproxyable Act](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/) shows.
+An observer outside, looking at the same person, sees the other face. The line of sight cannot pass within the boundary of a parallel universe and cannot read the inner model's reasoning and self-examination, and so this person's action appears indeterminate: the next step cannot be derived, and it is easily judged random or accidental. Unpredictability is what a free choice looks like in outside coordinates. The probability distribution measured from outside in quantum mechanics has the same form: a Mind injects a free variable in the present, and what is observed from outside is indeterminacy, appearing at the boundary of observation; the choice and the indeterminacy are two faces of one thing. [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) and [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) have discussed this isomorphism. Disciplining others from the balcony treats their choice as an object, as [The Balcony Disciplinary Overstep and the Unproxyable Act](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/) shows.
 
 ```mermaid
 flowchart TD
@@ -52,7 +52,7 @@ flowchart TD
         Inner["From inside: direct control, update the model or keep the frame"]
         Outer["From outside: the inner model cannot be read, only a trajectory is taken"]
         Indet["It appears as indeterminacy and probability"]
-        Same["Two faces of one thing, neither prior to the other"]
+        Same["Two faces of one thing"]
         Choice --> Inner
         Choice --> Outer
         Outer --> Indet
