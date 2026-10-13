@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T11:02:27.319Z",
+    "generated_at": "2026-10-13T11:15:03.837Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -198,7 +198,7 @@
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "57156f299c6b",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "c639024cd10a",
-      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b9b9695b351d",
+      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "a6a38ac0697d",
       "content/posts/the-blind-spot-of-the-frame.md": "23484e369bf2",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "c3031deb99dc",
@@ -217,7 +217,7 @@
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "d71141c2c581",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
-      "content/posts/the-continuum-is-a-modeling-convenience.md": "6b9f8a6b0ce8",
+      "content/posts/the-continuum-is-a-modeling-convenience.md": "2622676a6816",
       "content/posts/the-continuum-of-the-fold.md": "9427017c6590",
       "content/posts/the-coordinators-category-error.md": "89f6110cc916",
       "content/posts/the-cut-moves-but-never-vanishes.md": "57ec612f18d1",
@@ -418,7 +418,7 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5437,
+      "edges": 5435,
       "unique_directed": 4485,
       "missing_targets": 0,
       "one_way": 91,
@@ -5377,7 +5377,7 @@
       "slug": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "path": "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md",
       "title": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe",
-      "hash": "b9b9695b351d",
+      "hash": "a6a38ac0697d",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
@@ -5753,7 +5753,7 @@
       "slug": "the-continuum-is-a-modeling-convenience",
       "path": "content/posts/the-continuum-is-a-modeling-convenience.md",
       "title": "连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience",
-      "hash": "6b9f8a6b0ce8",
+      "hash": "2622676a6816",
       "in_degree": 8,
       "out_degree": 7,
       "links_out": [
@@ -27753,21 +27753,9 @@
     },
     {
       "from": "the-continuum-is-a-modeling-convenience",
-      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "rel": "points_to",
-      "label": "因果的自反性与物理的无源假定"
-    },
-    {
-      "from": "the-continuum-is-a-modeling-convenience",
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
       "label": "折叠的连续谱"
-    },
-    {
-      "from": "the-continuum-is-a-modeling-convenience",
-      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "rel": "points_to",
-      "label": "Causality is Irreducible; The Physical is a View from Nowhere"
     },
     {
       "from": "the-continuum-is-a-modeling-convenience",
