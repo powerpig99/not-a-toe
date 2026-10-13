@@ -286,7 +286,7 @@ Physics, mass, inertia and the laws of mechanics are taken, in everyday cognitio
 
 The parallax of traditional theories lies in taking the macroscopic statistical aggregate and the external rules A^⟂ as the negation of the microscopic choice A. Materialist determinism says: statistical regularity and conservation are observed in the macroscopic aggregate, so first-person choice is an illusion. Naive dualism says: choice is experienced directly, so consciousness is a ghost adrift outside the physical world. Radical structuralism stops at the outward collection of morphisms and puts the web of relations in the place of the subject's origin. The three come from one step: judging one side of the coin to be the negation of the other (A ∧ ¬A = ⊥).
 
-统计规律不是抉择的对头，它是无数抉择在张量空间（⊗）与时间的序贯（∘）里向外展开时沉淀的集体负像。范畴量子力学与双拓扑斯理论给出同样的完备性：在态空间里，正交补态与原初态共同张成恒等算符，|0⟩⟨0| + |1⟩⟨1| = I。正负两面是信息完备上的共轭，不是相互消灭的关系。非零的边界表明，矛盾不是待清除的系统错误，它是维系两面共存、驱动系统继续演化的几何属性。
+统计规律不是抉择的对头，它是无数抉择在张量空间（⊗）与时间的序贯（∘）里向外展开时沉淀的集体负像。范畴量子力学给出同样的完备性：在态空间里，正交补态与原初态共同张成恒等算符，|0⟩⟨0| + |1⟩⟨1| = I。正负两面是信息完备上的共轭，不是相互消灭的关系。在双海廷拓扑斯里，一个元素的边界 ∂a = a ∧ ∼a（∼ 为余海廷否定）不必为零；非零的边界表明，矛盾不是待清除的系统错误，它是维系两面共存、驱动系统继续演化的几何属性。
 
 ```mermaid
 flowchart TD
@@ -308,7 +308,7 @@ flowchart TD
     style Nonzero fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Statistical law is not the opponent of choice; it is the collective negative image that settles as countless choices unfold outward in tensor space (⊗) and in the sequence of time (∘). Categorical quantum mechanics and bi-topos theory give the same completeness: in a state space, the orthogonal complement and the original state together span the identity operator, |0⟩⟨0| + |1⟩⟨1| = I. The positive and negative sides are conjugates in the completeness of information, not parties that destroy each other. The non-zero boundary shows that contradiction is not a system error to be cleared away; it is the geometric property that keeps the two sides coexisting and drives the system to go on evolving.
+Statistical law is not the opponent of choice; it is the collective negative image that settles as countless choices unfold outward in tensor space (⊗) and in the sequence of time (∘). Categorical quantum mechanics gives the same completeness: in a state space, the orthogonal complement and the original state together span the identity operator, |0⟩⟨0| + |1⟩⟨1| = I. The positive and negative sides are conjugates in the completeness of information, not parties that destroy each other. In a bi-Heyting topos the boundary of an element, ∂a = a ∧ ∼a with ∼ the co-Heyting negation, need not be zero; the non-zero boundary shows that contradiction is not a system error to be cleared away; it is the geometric property that keeps the two sides coexisting and drives the system to go on evolving.
 
 ```mermaid
 flowchart TD
