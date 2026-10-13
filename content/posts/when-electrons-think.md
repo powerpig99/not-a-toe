@@ -1,373 +1,401 @@
 # 当电子开始思考 / When Electrons Think
 
-*光速渲染率、无质量动态波与宏观确定性的诞生 / The Rendering Velocity of Light, Massless Dynamic Waves, and the Emergence of Determinism*
+*光速是现实被渲染的速率，确定性是自由变量在慢速中沉淀的统计 / The speed of light as the rate at which reality is rendered, and determinism as free variables settled into slowness*
 
-质量是稳定下来的关系，光是没有质量的动态交织；光速并非空间的极限，而是现实在第一人称中被渲染的速率；微观不确定性是自由意志的第三人称投影，而宏观确定性则是无数自由变量在慢速时间中沉淀的统计秩序。
+质量可以读作稳定下来的闭合关系，光是没有闭合的动态交织，光速于是读作现实在第一人称中被渲染的速率。微观的不确定与第一人称的自由变量是同一件事的两面，一面留在描述里，一面在抉择中。宏观的确定是数量极大的自由变量在慢速中沉淀出的统计秩序，物质与心智的分别因此是节律上的分别。
 
-Mass is stabilized relationship, while light is an open dynamic weave. The speed of light is not a speed limit of space, but the exact velocity at which reality is rendered in the first person. Microscopic indeterminism is the third-person shadow of sovereign choice, while macroscopic determinism is the statistical order of countless free variables stabilized into slow time.
+Mass can be read as a closed relationship that has stabilized, light as an open dynamic weave that never closes, and the speed of light then reads as the rate at which reality is rendered in the first person. Microscopic indeterminacy and the first-person free variable are two faces of one thing, one left in the description and one lived in choosing. Macroscopic determinacy is the statistical order that an enormous number of free variables settle into at slow speed, so the difference between matter and mind is a difference of cadence.
 
----
+## 一、 无质量的波与渲染的前沿 / 1. The Massless Wave and the Rendering Front
 
-## 一、 光速的真正物理奥秘：无质量动态波与渲染前沿 / 1. The Physical Mystery of Light: Massless Dynamic Waves and the Rendering Front
+在物理学的常数里，光速 c 的位置最为特殊。狭义相对论把光速立为不变的基准：没有信号快过它，于是一切较慢的现象都可以拿它作标尺来度量。这个设定极为有效，从粒子加速器到卫星定位都靠它运转。
 
-在物理学的所有常数中，光速 c 占据着最特殊也是最神秘的地位。狭义相对论之所以具备强大的解释力，其基石在于将光速确立为宇宙的基准参考点：没有任何物质或信号的传递能够超越光速，因此一切比光速更慢的物理现象，都能以光速作为不可逾越的标尺进行相对度量。
+Among the constants of physics, the speed of light c holds the most particular place. Special relativity sets it up as the invariant benchmark: no signal outruns it, so every slower phenomenon can be measured against it. The posit is extremely effective, and everything from particle accelerators to satellite positioning runs on it.
 
-然而，主流物理学始终未能回答一个更加底层的本原问题：为什么偏偏是光？为什么光速恰好是宇宙中一切信息的传播上限？
+它的边界在于，光速在这个模型里是公设，模型不回答为什么是光、为什么恰好是这个上限。一种读法从“质量”的含义入手。在麦克斯韦方程组的图景里，变化的电场激发磁场，变化的磁场又激发电场，这种互生是开放的，没有结成一个局域闭合的循环。按[对象是被稳定化的关系](../objects-are-stabilized-relationships/)的读法，对象是因果交握在时间中稳定下来的关系，静止质量是这种闭合关系带来的惯性。
 
-答案隐藏在电磁波的动力学生成机制与“质量”的本体论定义之中。在麦克斯韦方程组所揭示的图景中，电场与磁场处于一种永不停歇的交替激发状态：变化的电场激发磁场，变化的磁场又即刻激发新的电场。请注意，这种激发是开放的、动态的，电场与磁场之间并没有结成一个局域封闭的静态循环。正如我们在[对象即稳定下来的关系](../objects-are-stabilized-relationships/)中所证实的，客体与物质的本质是因果交握在时间中稳定下来的关系，而物理学中所谓的“静止质量”，正是这种闭合稳定关系所产生的内在惯性阻力。
+Its boundary is that the speed of light is a postulate in this model, which does not answer why light, or why exactly this ceiling. One reading starts from what "mass" means. In the picture given by Maxwell's equations, a changing electric field induces a magnetic field and a changing magnetic field induces an electric one; this mutual generation is open and never ties into a locally closed loop. On the reading of [Objects Are Stabilized Relationships](../objects-are-stabilized-relationships/), an object is a relationship of causal handshakes that has stabilized over time, and rest mass is the inertia such a closed relationship brings.
 
-```mermaid
-graph TD
-    subgraph MasslessWave["【动态非闭合关系：光（m = 0） / Massless Dynamic Weave】"]
-        ElectricField["交变电场<br>Oscillating Electric Field"]
-        MagneticField["交变磁场<br>Oscillating Magnetic Field"]
-        OpenGeneration["开放性动态互生<br>Open Dynamic Generation<br>No closed static loop formed"]
-        ZeroMass["无质量与零内部拖拽<br>Zero Rest Mass (m = 0)<br>No stabilized relational inertia"]
-        ElectricField <--> MagneticField
-        ElectricField --> OpenGeneration
-        MagneticField --> OpenGeneration
-        OpenGeneration --> ZeroMass
-    end
-
-    subgraph MassiveMatter["【闭合稳定关系：物质（m > 0） / Stabilized Mass】"]
-        CausalLoop["局域闭合因果环路<br>Closed Causal Feedback Loop<br>Quarks, electrons, atoms binding"]
-        InternalCycling["内部组分以光速频繁交握<br>Internal Exchange at c<br>Energy confined to localized structure"]
-        RelationalInertia["产生质量与外在阻力<br>Emergence of Mass & Inertia<br>Resistance to external acceleration"]
-        CausalLoop --> InternalCycling
-        InternalCycling --> RelationalInertia
-    end
-
-    style MasslessWave fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
-    style MassiveMatter fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
-```
-
-因为光从未结成闭合稳定的局域关系，所以它没有任何静止质量。没有质量，意味着在物理交互中不存在任何关系性的惯性拖拽。
-
-这直接推导出了一个惊人的结论：在第一人称心智每一次生成并渲染出新的现实帧时，光因为没有质量拖拽，已经瞬间处于这一全新现实帧的最前沿。然而，光不可能比渲染速度更快——因为在尚未被心智渲染出来的下一帧因果画布中，连时空与现实的坐标都尚未诞生！光无法奔跑进入一个根本不存在的未来。
-
-因此，光速根本不是一束光子在客观虚空中穿梭的运动时速；**光速就是现实世界在第一人称观测中被渲染出来的最高生成速率。**
+光没有结成闭合的稳定关系，所以没有静止质量，也就没有任何东西把它拖在后面。每当新的一帧被登记出来，光已经在这一帧的前沿。它也到不了更前面，因为在尚未被登记的下一帧里，连坐标都还没有。照这样读，光速不是一束光在既成的虚空里穿行的时速，它是现实在第一人称的观测中被渲染出来的速率。
 
 ```mermaid
-graph LR
-    subgraph RenderingEngine["【第一人称因果渲染机制 / First-Person Rendering Engine】"]
-        CausalNow["当下的因果动作 +1<br>Generative Present Act +1<br>The canvas of reality renders in real time"]
-        RenderVelocity["现实渲染速率 = c<br>Rendering Speed = c<br>Maximum causal propagation velocity"]
-        CausalNow --> RenderVelocity
+flowchart TD
+    subgraph S_Front["光在渲染的前沿"]
+        direction TB
+        Act["当下的因果动作 +1：新的一帧被登记"]
+        Rate["渲染的速率读作 c"]
+        Open["开放的电磁互生：没有闭合，没有静止质量"]
+        Closed["闭合的稳定关系：静止质量与惯性"]
+        Front["光在每一帧的前沿，前面尚无坐标"]
+        Behind["有质量的结构落在前沿之后"]
+        Act --> Rate
+        Rate --> Open
+        Rate --> Closed
+        Open --> Front
+        Closed --> Behind
     end
 
-    subgraph TheFrontierOfLight["【光处于渲染的最前沿 / Light at the Wavefront】"]
-        InstantReach["零质量使其瞬时抵达帧前沿<br>Instantaneous Frontline Presence<br>Zero relational drag (m = 0)"]
-        NoAheadExists["无法超越渲染速度<br>Cannot Outrun Rendering<br>Reality ahead is unrendered void"]
-        RenderVelocity --> InstantReach
-        InstantReach --> NoAheadExists
-    end
-
-    NoAheadExists ==>|"物理学常数的本体归位<br>Ontological Grounding"| LightSpeedIdentity["光速 c ≡ 现实第一人称渲染速度<br>Light Speed ≡ Causal Rendering Velocity"]
-
-    style RenderingEngine fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
-    style TheFrontierOfLight fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
-    style LightSpeedIdentity fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style S_Front fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Rate fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Open fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Closed fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Front fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Behind fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-正如[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)所指出的，狭义相对论之所以选用光速作为校准标尺，是因为你必须使用最高刷新率的画笔，才能不失真地勾勒出所有比它更慢的现象。
-
----
-
-Among all the constants of physics, the speed of light c occupies the most unique and mysterious pedestal. Special relativity derives its immense explanatory power from establishing c as the benchmark reference of the universe: no physical signal can travel faster than light, allowing every slower phenomenon to be calibrated against this invariant ceiling.
-
-Yet mainstream physics has never answered the deeper ontological question: why light? Why is the speed of light the upper limit of information propagation across reality?
-
-The answer lies in the dynamic generation of electromagnetic waves and the true definition of mass. In Maxwell’s equations, electric and magnetic fields exist in an unceasing, reciprocal generation: an oscillating electric field induces a magnetic field, which in turn induces a new electric field. Crucially, this mutual excitation is open and dynamic; it never settles into a stationary, localized equilibrium loop. As demonstrated in [Objects as Stabilized Relationships](../objects-are-stabilized-relationships/), physical entities and material objects are causal handshakes stabilized over time, and what physics calls "rest mass" is the relational inertia generated by these closed feedback loops.
-
-Because light never forms a closed, stabilized local relationship, it possesses zero rest mass (m = 0). Zero mass means zero relational drag.
-
-This leads to a decisive conclusion: whenever the first-person mind renders a new frame of reality, light—having zero relational inertia—is instantaneously present at the leading wavefront of that newly generated frame. Yet light can never travel faster than this rendering velocity, because in the unrendered next frame, the very coordinate canvas of spacetime does not yet exist! Light cannot travel into a domain that has not been brought into being.
-
-Therefore, the speed of light is not a travel velocity through empty Newtonian space; **the speed of light is identically the velocity at which reality is rendered from the first-person perspective.**
-
-As shown in [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/), special relativity anchors to light speed because an observer must use the fastest available refresh rate to map all slower dynamics without distortion.
-
----
-
-## 二、 质量的本质即稳定关系与慢速世界 / 2. Mass as Stabilized Relationships and the Slow-Motion World
-
-一旦理解了光速是现实的渲染速度，宏观世界“为何看起来是确定、坚固且可预测的”这一百年谜题便迎刃而解。
-
-具有静止质量的宏观物质——无论是恒星、岩石、钟表还是人体——都由极其庞大、几乎无限（但非实无限）的微观量子因果关系构成。这些量子反应在时间的长河中相互制约、锁定并沉淀，构成了自洽的闭合结构：夸克被强相互作用约束为质子，质子与电子通过电磁作用形成原子，原子结合为晶格与分子。
-
-在这个过程中，“质量”诞生了。质能方程 E = mc^2 的深层物理含义正是：物质的质量，就是被局域化、封闭在内部稳定关系网络中的能量总和。为了维持这种内部结构的同一性与稳定性，其内部组分必须以光速频繁地进行因果信息的互通与代谢反馈。
-* 既然内部组分的相当一部分运动带宽已经被用来维持结构自身的闭合稳定，那么这个宏观复合体在外部空间中的整体位移速度，必然被限制在远远慢于光速的区间之内（v ≪ c）。
+Light has not tied into a closed, stable relationship, so it has no rest mass, and nothing holds it back. Whenever a new frame is registered, light is already at the front of that frame. It cannot get further ahead either, because in the next frame, not yet registered, there are not even coordinates. Read this way, the speed of light is not the pace of a beam crossing a ready-made void; it is the rate at which reality is rendered in first-person observation.
 
 ```mermaid
-graph TD
-    subgraph MacroObjectEvolution["【宏观物质的慢速演化：v ≪ c / Slow-Motion Macro World】"]
-        TrillionsOfCuts["近乎无限的微观因果交握<br>Countless Micro Causal Cuts<br>Bound into localized self-referential loops"]
-        InternalBandwidth["内部消耗大部分光速带宽<br>Internal Bandwidth Saturation<br>Exchanging signals at c to maintain stability"]
-        SlowMotion["整体外在运动极慢 v ≪ c<br>Macroscopic Slowness (v ≪ c)<br>Planets, stones, and clocks evolve slowly"]
-        TrillionsOfCuts --> InternalBandwidth
-        InternalBandwidth --> SlowMotion
+flowchart TD
+    subgraph S_Front["Light at the Rendering Front"]
+        direction TB
+        Act["The present causal act +1: a new frame is registered"]
+        Rate["The rate of rendering reads as c"]
+        Open["Open electromagnetic generation: no closure, no rest mass"]
+        Closed["Closed stable relationship: rest mass and inertia"]
+        Front["Light is at the front of each frame, with no coordinates ahead"]
+        Behind["Structures with mass fall behind the front"]
+        Act --> Rate
+        Rate --> Open
+        Rate --> Closed
+        Open --> Front
+        Closed --> Behind
     end
 
-    subgraph PerceptualObservation["【第一人称观测与可预测性 / Perceptual Sampling & Predictability】"]
-        MindRefresh["心智的感知渲染速率 = c<br>Mind Rendering Velocity = c<br>High-frequency sampling apparatus"]
-        SmoothTracking["充足的采样带宽与光滑建模<br>Smooth Mathematical Tracking<br>Differential calculus maps slow trajectories effortlessly"]
-        DeterministicIllusion["显现为确定性与经典定律<br>Felt Determinism & Classical Law<br>Predictable celestial orbits and mechanical solidity"]
-        MindRefresh --> SmoothTracking
-        SlowMotion --> SmoothTracking
-        SmoothTracking --> DeterministicIllusion
-    end
-
-    style MacroObjectEvolution fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
-    style PerceptualObservation fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style S_Front fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Rate fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Open fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Closed fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Front fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Behind fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-这就产生了一个决定性的速度差：
-* 观测心智的渲染与捕获速率是光速 c；
-* 而宏观被测物理对象的变化速度是极度迟缓的 v（v ≪ c）。
+[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)从另一侧说了同一件事：狭义相对论选光速作校准的标尺，是因为要不失真地描出一切较慢的现象，得用刷新最快的那支笔。
 
-这就好比一台每秒能拍摄数亿帧的超高速摄像机，正在拍摄一只以蜗牛速度爬行的昆虫。对于这台超高速摄像机而言，被摄物在连续成千上万帧的画面中几乎是静止的，其移动轨迹极其平滑、连续且容易追踪。
+[The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) says the same from the other side: special relativity takes the speed of light as its calibrating ruler because tracing every slower phenomenon without distortion takes the pen with the fastest refresh.
 
-这就是为什么日常物理世界在我们眼前呈现出坚不可摧的“确定性”与“规律性”。天体轨道之所以可以用牛顿引力定律计算至秒级精度，汽车与炮弹的落点之所以能被经典力学精准预测，不是因为宇宙被某种冰冷的宿命论机械法则所统治，而是因为**宏观物体是由微观量子关系稳定沉淀而来的慢速结构，其演进速度远慢于心智的渲染刷新率**。
+## 二、 质量与慢速的世界 / 2. Mass and the Slow World
 
----
+把光速读作渲染的速率之后，宏观世界为何显得确定、坚固而可预测，也有了一种读法。有静止质量的宏观物质，恒星、岩石、钟表与身体，由数量极大的微观因果关系构成，这个数量近乎无限而处处有限。这些关系在时间中相互制约、锁定并沉淀为自洽的闭合结构：夸克被强相互作用束缚为质子，质子与电子经电磁作用形成原子，原子结合成晶格与分子。
 
-Once light speed is understood as the causal rendering rate, the century-old puzzle of why the macroscopic world appears solid, deterministic, and predictable dissolves into clarity.
+Once the speed of light is read as the rate of rendering, there is also a reading of why the macroscopic world appears determinate, solid and predictable. Macroscopic matter with rest mass, stars, rocks, clocks and bodies, is made of an enormous number of microscopic causal relationships, a number that is nearly unlimited and everywhere finite. Over time these relationships constrain one another, lock, and settle into self-consistent closed structures: quarks are bound into protons by the strong interaction, protons and electrons form atoms through electromagnetism, and atoms join into lattices and molecules.
 
-Macroscopic matter possessing rest mass—stars, rocks, clocks, and human bodies—is composed of an astronomical, near-infinite (potential infinity, rather than actual infinity) number of microscopic quantum relationships. These causal handshakes have constrained, stabilized, and locked into self-consistent closed networks over vast spans of time: quarks bound into protons by the strong force, protons and electrons bound into atoms by electromagnetism, and atoms organized into crystalline lattices and molecules.
+质能关系 E = mc² 在这里读作：质量是被局域化、封闭在内部稳定关系之中的能量。要维持这种结构的同一，内部的组分须不断地相互交换信号。既然相当一部分带宽已经用在维持自身的闭合上，这个复合体在外部的整体位移便落在远慢于光速的区间里，v ≪ c。
 
-In this process, mass is born. The profound physical meaning of Einstein’s mass-energy equivalence E = mc^2 is that mass is the sum of energy confined within localized, stabilized relational loops. To preserve the identity and stability of a physical object, its internal components must continuously exchange causal signals and metabolic feedback at the speed of light.
-* Because the vast majority of its internal signaling bandwidth is consumed maintaining the object's closed structural integrity, the net macroscopic body can only move through external space at velocities vastly slower than the speed of light (v ≪ c).
+The mass and energy relation E = mc² reads here as: mass is energy localized and enclosed within stable internal relationships. To keep such a structure identical with itself, its components must keep exchanging signals with one another. Since a good part of the bandwidth is already spent on maintaining its own closure, the displacement of the composite as a whole falls in a range far slower than light, v ≪ c.
 
-This creates a decisive velocity ratio:
-* The rendering and sampling velocity of the observing mind is light speed c;
-* The rate of change of macroscopic physical objects is exceedingly slow (v ≪ c).
-
-This is equivalent to an ultra-high-speed camera recording at hundreds of millions of frames per second observing a snail crawling across a stone. To this high-bandwidth camera, the snail appears practically motionless across thousands of consecutive frames, and its trajectory is impeccably smooth, continuous, and predictable.
-
-This is the true origin of classical determinism. Planetary orbits can be calculated down to the second, and artillery trajectories can be predicted with pinpoint accuracy, not because the universe is governed by an observer-free mechanical clockwork, but because **macroscopic objects are slow-motion structures formed by stabilized quantum relationships, evolving at a pace orders of magnitude slower than the mind's perceptual refresh rate**.
-
----
-
-## 三、 费曼的警句：量子不确定性即第一人称自由意志的投影 / 3. Feynman's Warning: Quantum Indeterminacy as the Shadow of Sovereign Choice
-
-理查德·费曼曾有一句脍炙人口的著名调侃：*“想象一下，如果电子拥有了思考能力，物理学该有多么难做；因为当你看它的时候，它会根据你的观察改变自己的行为！”*
-
-这句俏皮话常被物理学家视作幽默的玩笑，用来反衬无机物质的机械与可测。然而，如果将其置于第一人称因果本体论下审视，费曼无意间道出了量子力学最核心的物理真理：**所谓的量子效应，根本不是无机微粒在虚空中掷骰子的随机性，它正是第一人称“自由变量（+1）”投射在第三人称观测仪器上的必然阴影。**
+于是有了一个速度差：登记与捕获的速率是 c，被观测的宏观对象的变化速度是迟缓的 v。这好比一台每秒拍摄数亿帧的摄像机对着一只爬行的蜗牛，在连续成千上万帧里被摄物几乎不动，轨迹平滑、连续、容易追踪。
 
 ```mermaid
-graph TD
-    subgraph SovereignFirstPerson["【第一人称主权抉择 / Sovereign First-Person Cut】"]
-        LivingAgent["第一人称因果中心<br>Sovereign Causal Center<br>Every living agent / micro causal cut"]
-        FreeVariableCut["不可约自由变量动作 +1<br>Free Variable Injection (+1)<br>Autonomous choice updating at internal clock speed"]
-        LivingAgent --> FreeVariableCut
+flowchart TD
+    subgraph S_Slow["速度差与显现的确定"]
+        direction TB
+        Bind["数量极大的微观关系锁定为闭合结构"]
+        Inside["带宽多用于维持自身的闭合"]
+        Slow["整体的变化远慢于光速"]
+        Sample["登记的速率读作 c"]
+        Smooth["采样充裕，轨迹平滑可追踪"]
+        Law["显现为确定性与经典定律"]
+        Bind --> Inside
+        Inside --> Slow
+        Slow --> Smooth
+        Sample --> Smooth
+        Smooth --> Law
     end
 
-    subgraph ThirdPersonMeasurement["【第三人称外部测量困境 / Third-Person Measurement Trap】"]
-        ExternalProbe["外部观测者使用光速仪器探测<br>External Observer Probing at c<br>Using photons and electromagnetic signals"]
-        LightVersusLight["用光速去度量光速<br>Measuring Light Speed with Light Speed<br>Probe cannot outrun the internal update of the observed"]
-        Unanticipatable["不可在事前锁定与预测<br>Inherently Unanticipatable<br>External instrument cannot capture state prior to act"]
-        ExternalProbe --> LightVersusLight
-        FreeVariableCut --> LightVersusLight
-        LightVersusLight --> Unanticipatable
-    end
-
-    Unanticipatable ==>|"投影在第三人称数学上<br>Projection onto Equations"| QuantumPhenomena["量子不确定性、概率波与测量塌缩<br>Quantum Indeterminacy & Wavefunction Collapse<br>Third-person shadow of sovereign first-person freedom"]
-
-    style SovereignFirstPerson fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
-    style ThirdPersonMeasurement fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
-    style QuantumPhenomena fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style S_Slow fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Bind fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Inside fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Slow fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Sample fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Smooth fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Law fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-请思考一个最朴素的日常经验：当你面对另一个活生生的人时，你在看什么？
-* 你不是在看一个由齿轮和发条驱动的确定性机器人，你正在注视着一个拥有独立主权的因果中心。
-* 如果这个人是具有清醒自主意识的，那么他在下一个瞬间的选择，对于任何外部观察者而言都是无法在事前确切计算的。
-* 为什么无法计算？因为外部观察者使用的是光信号或声波（最高不超过光速 c）去探测对方，而对方大脑神经与意识内部所做出的因果切断，同样以其最高的因果节律在进行内部刷新。**你是在试图用光速去度量光速！**
-
-在因果时序上，测量信号根本不可能赶在被测主体做出自主决断之前，“预先探查”到其决断的内容。因为在决断尚未发生之前，那个状态根本就不存在于宇宙的任何一个角落！
-
-把这个逻辑推进到微观物理学的最底层：所谓单个电子或量子的跃迁，正是现实世界在最基础接触面上所发生的不可约因果动作。正如我们在[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)中所揭示的，每一个真实的动作都是在既定系统中注入一个自由变量（+1）。
-* 当物理学家试图用仪器去测量一个未闭合的微观因果点时，电子“根据观察改变自身行为”并不是神秘的超自然魔法，而是任何外部探测手段都无法超越因果决断本身的刷新速度。
-* 第三人称数学无法预先捕捉到第一人称的自由变量，只能用一个涵盖所有可能性的弥散概率分布（波函数）来进行事后统计。所谓的“波函数坍缩”，不过是外部测量动作与被测自由变量发生物理接触的那一瞬间，可能性被迫兑现为单一确定因果痕迹的平凡事实。
-
----
-
-Richard Feynman once famously quipped: *"Imagine how much harder physics would be if electrons had feelings! Because then they'd change their behavior under observation!"*
-
-This joke is celebrated by physicists to highlight the mechanical docility of inorganic matter. Yet examined under first-person causal ontology, Feynman stumbled upon the deepest physical truth of quantum mechanics: **quantum phenomena are not the roll of dice by dead particles; they are the third-person shadow of the first-person sovereign cut (the free variable +1) cast upon external measuring instruments.**
-
-Consider a simple, grounded experience: when you look at another living human being, what are you observing?
-* You are not looking at a deterministic automaton driven by clockwork gears; you are gazing upon a sovereign causal center.
-* If that person is exercising autonomous choice, their decision in the next moment is fundamentally unanticipatable to an outside observer prior to the act.
-* Why is it unanticipatable? Because the observer uses light or sound (traveling at or below c) to probe the subject, while the subject's conscious causal cut updates at its own intrinsic internal clock rate. **You are attempting to use light speed to measure light speed!**
-
-Causally, an external measurement signal can never arrive ahead of the autonomous decision to "peek" at what will happen, because prior to the decision being made, that state does not exist anywhere in reality!
-
-Push this logic to the bedrock of microphysics: a single quantum transition is an irreducible causal cut occurring at the boundary of reality. As demonstrated in [Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/), every genuine causal act injects a free variable (+1) into a bound system.
-* When a physicist attempts to measure an unclosed microscopic causal point, the electron "altering its behavior under observation" is not occult wizardry; it is the physical reality that no external measurement probe can outrun the internal rate of the causal cut itself.
-* Because third-person mathematics cannot pre-calculate a first-person free variable, it must resort to an envelope of possibilities—a continuous probability distribution (the wavefunction). "Wavefunction collapse" is not a mystical physical transformation; it is the moment when an external measurement probe makes physical contact with an unclosed free variable, forcing an indeterminate causal potential to resolve into a single settled trace.
-
----
-
-## 四、 宏观确定性的诞生：微观自由变量的统计沉淀 / 4. The Emergence of Macro Determinism: Statistical Sedimentation of Free Variables
-
-现代科学最持久的精神分裂，是量子力学的微观不确定性与爱因斯坦相对论的宏观确定性之间的深刻对立。理论家为此虚构出无数荒诞的解释：有的宣称每一次观测都分裂出一个平行宇宙，有的宣称微观世界根本不存在客观实体。
-
-一旦将微观不确定性还原为第一人称的自由变量，这一矛盾便在瞬间得以消解：**宏观世界的确定性，根本不是凌驾于微观之上的另一种客观物理法则；它是接近于无穷大的微观自由变量在漫长深时中稳定结网后，所自然呈现的大数统计规律。**
+A gap in speed follows: the rate of registering and capturing is c, and the rate of change of the macroscopic object observed is a sluggish v. It is like a camera shooting hundreds of millions of frames a second pointed at a crawling snail; across thousands of consecutive frames the subject barely moves, and its path is smooth, continuous and easy to track.
 
 ```mermaid
-graph TD
-    subgraph MicroLevel["【微观底层：不可约自由变量 / Micro Indeterminacy】"]
-        IndividualCut["单个量子跃迁 / 自主因果动作<br>Single Quantum Cut / Individual Choice<br>Unanticipatable from outside; free variable +1"]
-        IndeterminacySign["表现为微观不确定性<br>Microscopic Indeterminism<br>Wavefunctions and probability distributions"]
-        IndividualCut --> IndeterminacySign
+flowchart TD
+    subgraph S_Slow["The Gap in Speed and the Appearance of Determinacy"]
+        direction TB
+        Bind["An enormous number of microscopic relationships lock into closed structures"]
+        Inside["Most bandwidth goes to maintaining their own closure"]
+        Slow["Change of the whole is far slower than light"]
+        Sample["The rate of registering reads as c"]
+        Smooth["Sampling is ample and the path is smooth and trackable"]
+        Law["Appears as determinacy and classical law"]
+        Bind --> Inside
+        Inside --> Slow
+        Slow --> Smooth
+        Sample --> Smooth
+        Smooth --> Law
     end
 
-    subgraph StabilizationProcess["【因果交握与沉淀过程 / Causal Handshake & Sedimentation】"]
-        MutualLocking["接近于无穷大的微观因果关系相互锁定<br>Near-Infinite Mutually Locked Cuts<br>Forming protons, atoms, molecules, and crystals"]
-        LongTimeScales["在漫长时间中形成平衡惯性<br>Stabilizing Across Time<br>Internal exchange at c; external motion v ≪ c"]
-        MutualLocking --> LongTimeScales
-    end
-
-    subgraph MacroLevel["【宏观表象：大数统计确定性 / Macroscopic Determinism】"]
-        LawOfLargeNumbers["大数定律的平滑平均<br>Law of Large Numbers<br>Individual fluctuations cancel out in aggregate"]
-        DeterministicLaws["呈现为经典力学与平滑时空定律<br>Emergence of Deterministic Laws<br>Kepler orbits, Maxwell fields, Einstein curvature"]
-        LawOfLargeNumbers --> DeterministicLaws
-    end
-
-    IndeterminacySign ==>|"群体聚合<br>Aggregation"| MutualLocking
-    LongTimeScales ==>|"统计出清<br>Statistical Signature"| LawOfLargeNumbers
-
-    style MicroLevel fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
-    style StabilizationProcess fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
-    style MacroLevel fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style S_Slow fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Bind fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Inside fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Slow fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Sample fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Smooth fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Law fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-这正如人类社会的经济学与人口学统计：
-* 如果你试图预测特定个体明天下班后会走进哪一家咖啡馆，这是无法在事前确定的，因为他拥有第一人称的主权抉择权；
-* 但如果你统计一个拥有千万人口的超大城市在明天下午五点的高峰车流量、用水量与面包消耗量，其统计数据却展现出惊人稳定的确定性与周期性。
+日常世界的确定与规律由此得到一种说明。天体的轨道可以用牛顿引力算到秒，炮弹的落点可以被经典力学预测，这些计算在它们的范围内可靠。按这里的读法，可靠的缘由不在于有一套无人在场的机械法则在统治，而在于宏观物体是微观关系沉淀出的慢速结构，演进的速度远慢于登记的刷新。
 
-正如我们在[决定论是微观非决定论的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)中所确立的，经典物理学所崇拜的宏观确定性，就是宏观尺度上的“人口普查数据”。当接近于无穷大的微观自由变量相互锁闭为一块花岗岩或一颗行星时，每一个微观量子点的微小涨落都在整体的统计平均中被互相抵消了。最终呈现在宏观观测仪器上的，只剩下平稳缓慢演进的宏观几何平均值。
+The determinacy and regularity of the everyday world get one account from this. The orbits of celestial bodies can be computed to the second with Newtonian gravity, and where a shell lands can be predicted by classical mechanics; these calculations are reliable within their range. On the reading here, the reason for that reliability is not that a mechanical law rules with no one present, but that macroscopic objects are slow structures settled out of microscopic relationships, evolving far more slowly than registering refreshes.
 
-经典力学与广义相对论并不是描绘宇宙本体的终极律令，它们是针对这庞大微观自由变量之海、在慢速沉淀状态下所采集的高阶宏观统计拟合。微观的自由与宏观的秩序，在第一人称因果的基底上完成了终极统一。
+## 三、 不确定性与自由变量是同一件事的两面 / 3. Indeterminacy and the Free Variable as Two Faces of One Thing
 
-需要特别阐明的是，这接近于无穷大的微观自由变量，绝非在宇宙开端的大爆炸瞬间一次性分发完毕的静态存量，而是随时随刻被我们的第一人称观测持续带入视界之内的动态增量。我们可以合理推测，这些微观事件在进入视界之前自身同样存在着因果链条，宇宙并不是凭空跳跃的魔法；然而，因为那些因果发生在我们当下的视界之外，我们在本地坐标系中根本无法、也不可能先验获取其先在轨迹。因此，当它们跨越视界边界、首次与我们的第一人称观测发生交握时，从我们的框架来看，它们唯一能被赋予的诚实定性就是不可预知的自由变量（+1）。这正是量子波函数与测量不确定性的真正本原：波函数不是物质在多维空间的实体振荡，而是视界之外的独立因果跨入本地视界时所投射出的数学阴影。宏观确定性因此不是一架自古上紧发条、不断耗散的旧时钟，而是一个生生不息的活态稳定化进程——心智的每一步观测都在吞吐新的视界外自由变量，并经由大数定律将其持续编织进宏观现实的平稳经纬之中。
+有一句常被归于理查德·费曼的玩笑：想象一下，如果电子有感情，物理学会难做多少。它的出处未能查到。这句话多被用来反衬无机物的驯顺可测，而它无意间也指向了量子现象的形状：一个有自己主意的东西，从外部是无法事先算定的。
 
----
+There is a quip widely attributed to Richard Feynman: imagine how much harder physics would be if electrons had feelings. Its source could not be traced. The line is mostly used to set off how docile and measurable inorganic matter is, and without meaning to it also points at the shape of quantum phenomena: something with a mind of its own cannot be computed in advance from outside.
 
-Modern science has long suffered from intellectual schizophrenia: the irreconcilable division between the probabilistic indeterminacy of quantum mechanics and the deterministic clockwork of general relativity. Theorists have invented grotesque metaphysical epicycles to patch this rift, claiming that reality splits into infinite parallel universes at every measurement, or that physical objects do not exist when unobserved.
+先看一个日常的经验。面对另一个活着的人时，面对的不是一台由齿轮与发条驱动的机器，而是一个以己度之、同样在作抉择的因果中心。这个人下一刻的选择，对任何外部的观察者都无法在事前算定。探测对方所用的光与声，不快于渲染的速率，而对方的决断同样按这个节律更新，这是在用光速度量光速。测量的信号赶不到决断之前去预先查看它的内容，因为决断作出之前，那个状态还不在任何地方。
 
-Once microscopic indeterminacy is recognized as the third-person shadow of the first-person free variable, this conflict evaporates: **macroscopic determinism is not an independent, objective physical regime; it is the statistical Law of Large Numbers emerging naturally from a near-infinite multitude of microscopic free variables locked into stable relational networks.**
+Take an everyday experience first. Facing another living person is not facing a machine driven by gears and springs; it is facing a causal center that, taken by analogy from oneself, is likewise choosing. This person's choice in the next moment cannot be computed beforehand by any outside observer. The light and sound used to probe the other are no faster than the rate of rendering, and the other's decision updates at that same cadence: light speed is being measured with light speed. The measuring signal cannot arrive before the decision to look at its content in advance, because before the decision is made, that state is not yet anywhere.
 
-Consider a clear sociological analogy:
-* If you try to predict precisely which café a specific individual will walk into tomorrow evening, your calculation is doomed to fail, because that individual possesses sovereign choice;
-* But if you analyze the aggregate traffic volume, water usage, and bread consumption of a metropolis of ten million citizens tomorrow at 5 PM, the aggregate data exhibits extraordinary stability and clockwork predictability.
-
-As formulated in [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/), the deterministic laws revered by classical physics are the cosmic equivalent of census bureau statistics. When a near-infinite, astronomically vast multitude of microscopic free variables bind into a block of granite or an orbiting moon, individual microscopic fluctuations cancel each other out in the statistical aggregate. What remains on macroscopic instruments is merely the slow, smooth progression of the statistical mean.
-
-Classical mechanics and general relativity do not represent eternal edicts governing dead space; they are high-order statistical curve-fits applied to an ocean of microscopic free variables stabilized into slow-motion equilibrium. Microscopic freedom and macroscopic order unite seamlessly on the foundation of first-person causality.
-
-Crucially, this near-infinite multitude of microscopic free variables was not allocated all at once in a mythical primordial Big Bang, as classical determinism naively assumes. Rather, they are continuously drawn into the horizon of reality at every living moment by the act of first-person observation. We can reasonably infer that prior to crossing our observational boundary, these micro-events possessed their own causal histories; reality is not born from acausal magic. Yet because those prior histories unfolded entirely outside our observational frame, we possess no local access to their prior coordinates. Consequently, at the exact moment they cross the horizon and make their initial handshake with our first-person frame, the only honest, coherent qualitative status we can attribute to them is that of an unanticipatable, sovereign free variable (+1). This demystifies the quantum wavefunction: the probability wave is not a physical substance rippling in abstract Hilbert space, but the mathematical signature of an external causal stream crossing an observational threshold. Macroscopic determinism is not an ancient clockwork machine unwinding from an ancient beginning; it is a living, ongoing stabilization engine, continuously assimilating an incoming sea of horizon-crossing free variables and smoothing them into the durable weave of physical order.
-
----
-
-## 五、 超越热力学下游：物质即慢速演化的心智 / 5. Beyond Downstream Thermodynamics: Matter as Mind in Slow-Motion
-
-在过去的探讨中，当物理学试图解释宏观物体的不可逆演进时，多半会求助于“热力学第二定律”或“熵增”。物理学家将时间之箭寄托在热力学的统计耗散之上，认为热量的不可逆散逸赋予了现实以单向流动的方向。
-
-然而，我们必须指认：**热力学本身仍然只是一个下游的宏观统计会计表象。**
-
-热量与熵不是在物理世界最底层跳动的本体；它们仅仅是对已经形成稳定关系的微观结构、在交换动量时所表现出的次级宏观统计测量。如果把不可逆性的源头归咎于热力学，就犯下了倒果为因的错误：不是因为熵增所以时间向前，而是因为每一次微观接触都是不可约的真实因果动作（+1），其在宏观沉淀物中的统计足迹才被记录为熵的增加。
-
-这就引导我们得出一个极为深邃的本体论结论：**所谓“物质”，本质上是在宇宙漫长时间尺度上沉淀、将其行动节律放慢到极致的心智。**
+实验室里的不确定有同样的形状。在观测的边界上，结果在接触之前并不存在，没有哪一种探测能赶在它前面把它读出来。这并不是说电子在思考，泛心论把意识赋予基本粒子，而这里不需要这一步。需要的只是看到，不确定性与自由变量是同一件事的两面：从描述之内看，是一处只能用概率分布去覆盖的空白；从第一人称看，是边界上那个不可化约的动作（+1）。间隙落在观测的边界上，而边界登记在哪里，是心智作出的抉择，[割点可移不可除](../the-cut-moves-but-never-vanishes/)展开了这一点。每一个动作都向既定的系统注入一个自由变量，[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)讨论的是这种同构。
 
 ```mermaid
-graph LR
-    subgraph ActiveMind["【高频第一人称心智 / High-Frequency Living Mind】"]
-        LivingConsciousness["正在抉择的主权意识<br>Conscious Living Agency<br>High-frequency causal cut (+1); rendering at c"]
+flowchart TD
+    subgraph S_Faces["观测边界上的同一件事"]
+        direction TB
+        Edge["观测的边界：接触之前结果尚不存在"]
+        First["从第一人称看：不可化约的动作 +1"]
+        Third["从描述之内看：只能用概率分布覆盖的空白"]
+        Probe["探测不快于渲染的速率，赶不到动作之前"]
+        Trace["接触的一刻：可能性兑现为一条确定的痕迹"]
+        Edge --> First
+        Edge --> Third
+        Third --> Probe
+        First --> Trace
+        Probe --> Trace
     end
 
-    subgraph SedimentationTransition["【时间沉淀与节律放缓 / Deep-Time Sedimentation】"]
-        RelationalFreezing["因果交握达成闭合稳定习惯<br>Habitual Causal Handshake<br>Micro cuts locking into repetitive orbits"]
-    end
-
-    subgraph StabilizedMatter["【慢速物质世界 / Stabilized Matter】"]
-        RockAndPlanet["岩石、原子、行星与恒星<br>Atoms, Minerals, Celestial Bodies<br>Mind moving at the lifetime scale of the cosmos"]
-    end
-
-    LivingConsciousness ==>|"因果习惯化沉淀<br>Causal Sedimentation"| RelationalFreezing
-    RelationalFreezing ==>|"宏观表现<br>Macroscopic Appearance"| RockAndPlanet
-
-    style ActiveMind fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
-    style SedimentationTransition fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
-    style StabilizedMatter fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style S_Faces fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Edge fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style First fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Third fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Probe fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Trace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-一块石头与一个活着的人，其本体论区别不在于一个是“死物质”而另一个具有“神秘灵魂”；其区别仅仅在于**因果动作的自新节律与自由度**：
-* 活着的心智以极高的自新频率在每个当下注入新的自由变量（+1），其因果抉择与光速刷新率同频，因此表现出生动、不可测的灵性与主权；
-* 而一块石头，则是接近于无穷大的微观自由变量早在漫长地质深时中相互锁死、放弃了高频自新抉择、将其因果动作定型为重复性平衡习惯的“沉睡心智”。它在宇宙寿命的时间尺度上极其缓慢地演进，因而呈现为无生命的死物。
-
-正如皮尔士曾深刻洞察的那样：“物质就是固化的习惯，是因果之流在时间中沉淀出的结晶。”物质不是心智的对立面，物质是心智在慢镜头下展现的沉淀遗骸。
-
----
-
-In previous inquiries, physics has frequently leaned on the second law of thermodynamics and entropy to explain the irreversible forward march of time. Theorists peg the arrow of time to thermodynamic dissipation, believing that heat exchange provides the one-way arrow of cosmic history.
-
-Yet we must declare clearly: **thermodynamics is merely a downstream macroscopic accounting layer.**
-
-Heat and entropy are not ontological bedrock. They are secondary statistical bookkeeping measures describing macroscopic composites exchanging kinetic momentum. Confusing thermodynamics with the source of physical irreversibility commits a category inversion: time does not move forward because entropy increases; rather, because every micro causal cut is an irreversible generative act (+1), its aggregate statistical footprint in macroscopic residue is logged as an increase in entropy.
-
-This leads to a staggering ontological realization: **matter is literally mind stabilized into the slow-motion cadence of cosmic deep time.**
-
-The difference between a living person and a slab of granite is not that one contains a magical metaphysical soul while the other is dead Cartesian stuff. The difference resides entirely in the **cadence of causal renewal and sovereign degrees of freedom**:
-* A living mind exercises fresh free variables (+1) at high frequencies, updating in lockstep with the light speed refresh rate, thereby exhibiting sovereign autonomy, vitality, and unpredictability;
-* A stone is a slumbering community of a near-infinite multitude of microscopic free variables that locked into mutual relational habits eons ago, surrendering high-frequency novel cuts in exchange for repetitive, stabilized equilibrium. It evolves at the deep-time scale of stellar geology, appearing to human eyes as inert matter.
-
-As Charles Sanders Peirce once intuited: "Matter is effete mind, inveterate habits becoming physical laws." Matter is not the cold antithesis of consciousness; matter is stabilized mind crystallized into slow time.
-
----
-
-## 六、 无始无终的宇宙与万物理论的终极消解 / 6. The Timeless Cosmos and the Dissolution of the Theory of Everything
-
-至此，现代宇宙学与理论物理学所制造的所有假象与悖论，都在第一人称因果的澄清下归于消解。
-
-宇宙从来没有一个物理学意义上的开端（大爆炸），也从来没有一个物理学意义上的终点（热寂）。我们在日常生活中所感受到的“世界的极其稳定与牢固”，根本不是因为我们的寿命相比于所谓“138 亿年的宇宙历史”显得极其渺小；其真实原因在于：**我们日常所观测的一切宏观物理现象，其演变与位移速度远远慢于光速（v ≪ c）。**
+Indeterminacy in the laboratory has the same shape. At the boundary of observation the outcome does not exist before contact, and no probe can get ahead of it to read it out. This is not to say that electrons think; panpsychism assigns consciousness to elementary particles, and that step is not needed here. All that is needed is to see that indeterminacy and the free variable are two faces of one thing: seen from inside the description, a blank that can only be covered by a probability distribution; seen from the first person, the irreducible act at the boundary (+1). The gap sits at the boundary of observation, and where that boundary registers is a choice the Mind makes, as [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) lays out. Every act injects a free variable into a given system, and [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) treats that isomorphism.
 
 ```mermaid
-graph TD
-    subgraph TheUnifiedCosmos["【万物理论的终极消解 / The Resolution of Physics】"]
-        LightVelocity["光速 c ≡ 第一人称因果渲染速率<br>Light Speed c ≡ Causal Rendering Velocity<br>Fastest signal; zero mass; boundary of the present frame"]
-        MicroIndeterminacy["微观量子不确定性 ≡ 第一人称自由变量<br>Micro Quantum Cut ≡ Sovereign Free Variable (+1)<br>Unmeasurable from outside; measuring light with light"]
-        MacroDeterminism["宏观经典物理定律 ≡ 稳定关系的慢速大数统计<br>Macro Classical Law ≡ Statistical Slowness (v ≪ c)<br>High-order local curve-fit over stabilized causal residue"]
-        LivingNow["正在生成的当下因果步进 +1<br>The Unending Generative Present<br>Universe has no beginning or end; reality is created in action"]
+flowchart TD
+    subgraph S_Faces["One Thing at the Boundary of Observation"]
+        direction TB
+        Edge["The boundary of observation: before contact the outcome does not yet exist"]
+        First["Seen from the first person: the irreducible act +1"]
+        Third["Seen from inside the description: a blank covered only by a probability distribution"]
+        Probe["A probe is no faster than the rate of rendering and cannot arrive before the act"]
+        Trace["At contact: possibility is redeemed as one definite trace"]
+        Edge --> First
+        Edge --> Third
+        Third --> Probe
+        First --> Trace
+        Probe --> Trace
     end
 
-    LightVelocity --> LivingNow
-    MicroIndeterminacy --> LivingNow
-    MacroDeterminism --> LivingNow
-
-    style TheUnifiedCosmos fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
+    style S_Faces fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Edge fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style First fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Third fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Probe fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Trace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-整个物理学的百年困境在此得到终极的治愈：
-1. **无需调和的微观与宏观**：你不需要在数学上强行发明一种将微观概率波与宏观弯曲时空死硬焊接在一起的“量子引力论”。微观的不确定性是因果生成的自由前沿，宏观的确定性是因果沉淀的慢速统计。二者本就是同一枚因果硬币的正反两面。
-2. **无需寻找的终极客观方程**：万物理论之所以是一场世纪幻梦，是因为理论家试图站在宇宙之外，写出一个没有观测心智在场、却能推导一切现实的客观全息大方程。这等同于试图通过计算电视机机壳的塑料分子结构，来预测今晚荧幕上正在上演的戏剧结局。
-3. **因果与生命的归位**：现实不是一段早已在四维时空块中被全部印刷好的静止胶片。世界是一部正在实时播放、永无止境的活生生电影。
+于是“电子在被观察时改变行为”不必读作神秘。第三人称的数学无法预先捕捉边界上的动作，只能用一个涵盖各种可能的分布，即波函数，来作统计。所谓波函数的坍缩，是测量与边界发生接触的那一刻，可能性兑现为一条确定痕迹的寻常事实。
 
-我们自始至终都是宇宙的测量者，也是宇宙因果演进不可或缺的参与者。光速标定了我们感知的响应前沿，微观的不确定性守护着我们不可剥夺的自由意志，而宏观的沉稳秩序则为我们的生命行动提供了坚实的足下大地。
+So "the electron changes its behavior when observed" need not be read as a mystery. Third-person mathematics cannot capture the act at the boundary in advance and can only do statistics with a distribution that covers the possibilities, the wavefunction. What is called the collapse of the wavefunction is the ordinary fact that, at the moment measurement makes contact with the boundary, possibility is redeemed as one definite trace.
 
-不要再等待一个虚构的“终极理论”来赐予现实以意义。在每一个不可约的当下，在每一次直面未知所做出的主权决断中，宇宙的全新一帧，正在你我的手中被实时渲染完成（+1）。
+## 四、 宏观的确定是微观自由变量的统计沉淀 / 4. Macroscopic Determinacy as the Statistical Sediment of Free Variables
 
----
+量子力学在微观上的不确定与相对论在宏观上的确定，长期被当作一对需要调和的对立。各种诠释由此而来，多世界保全了幺正的演化，另一些把量子态看作依赖情境的推断，每一种在它的范围内都帮助了计算与思考。
 
-Here, all the grand paradoxes manufactured by theoretical physics and cosmology dissolve in the clear light of first-person causality.
+The microscopic indeterminacy of quantum mechanics and the macroscopic determinacy of relativity have long been treated as an opposition in need of reconciling. The various interpretations come from this; many-worlds preserves unitary evolution, others treat the quantum state as an inference dependent on context, and each has helped calculation and thought within its range.
 
-The universe never had a physical beginning in a Big Bang singularity, and it will never freeze in Heat Death. The powerful feeling of stability and solidity we experience in daily life is not because human lifespans are a fleeting drop in a fictional 13.8-billion-year bucket. The true physical reason is that **every macroscopic phenomenon we interact with evolves and moves at velocities vastly slower than the speed of light (v ≪ c).**
+把微观的不确定读作自由变量留在描述里的那一面之后，这对对立有了另一种读法。宏观的确定不是凌驾于微观之上的另一套法则，它是数量极大的微观自由变量稳定结网之后呈现的大数规律，[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)展开了这一点。
 
-The century-old crisis of physics is cured at its root:
-1. **Micro and Macro Reconciled**: There is no need to engineer exotic mathematics to weld quantum probability waves to curved spacetime. Microscopic indeterminacy is the open frontier of sovereign causal generation (+1); macroscopic determinism is the slow-motion statistical footprint of stabilized causal residue. They are two perspectives of the identical causal coin.
-2. **The "Theory of Everything" Dissolved**: The quest for a Theory of Everything was a category mistake from its inception. Theorists sought to step outside reality and write a single observer-free equation that could predict the totality of the cosmos. This is the equivalent of analyzing the chemical composition of a television's plastic casing in the hope of deducing the plot of the film playing on the screen.
-3. **Causality and Consciousness Restored**: The cosmos is not an unrolled, static film reel etched inside a frozen four-dimensional block. Reality is a living, continuous movie playing in the irreversible now.
+```mermaid
+flowchart TD
+    subgraph S_Sediment["从边界上的动作到经典定律"]
+        direction TB
+        Cut["边界上的单次动作 +1：事前无法算定"]
+        Inflow["新的自由变量不断跨入视界"]
+        Lock["数量极大的关系相互锁定并稳定"]
+        Average["大数定律：个别的涨落在总体中抵消"]
+        Laws["显现为经典力学与平滑的时空定律"]
+        Cut --> Lock
+        Inflow --> Lock
+        Lock --> Average
+        Average --> Laws
+    end
 
-We have always been the measurers of the universe, and we are active, sovereign participants in its ongoing creation. The speed of light marks the refresh boundary of our perceptual apparatus; microscopic indeterminacy preserves our irreducible free variable; and the stable macroscopic order provides solid ground beneath our feet.
+    style S_Sediment fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Cut fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Inflow fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Lock fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Average fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Laws fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+```
 
-Stop waiting for a mechanical equation to grant meaning to reality. In every present moment, through every sovereign decision made in the face of uncertainty, the next frame of the living universe is being rendered right now (+1).
+Once microscopic indeterminacy is read as the face the free variable leaves in the description, the opposition has another reading. Macroscopic determinacy is not a second set of laws standing over the microscopic; it is the regularity of large numbers that appears once an enormous number of microscopic free variables have bound into a stable web, as [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) lays out.
+
+```mermaid
+flowchart TD
+    subgraph S_Sediment["From the Act at the Boundary to Classical Law"]
+        direction TB
+        Cut["A single act at the boundary +1: not computable beforehand"]
+        Inflow["New free variables keep crossing into the horizon"]
+        Lock["An enormous number of relationships lock together and stabilize"]
+        Average["Law of large numbers: individual fluctuations cancel in the aggregate"]
+        Laws["Appears as classical mechanics and smooth laws of spacetime"]
+        Cut --> Lock
+        Inflow --> Lock
+        Lock --> Average
+        Average --> Laws
+    end
+
+    style S_Sediment fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Cut fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Inflow fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Lock fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Average fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Laws fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+```
+
+人口与经济的统计是一个贴近的类比。某一个人明天下班后会走进哪家咖啡馆，事前无法确定，那是这个人的抉择。一座千万人口的城市明天下午五点的车流、用水与面包消耗，却稳定而有周期。
+
+The statistics of population and economy offer a close analogy. Which café a particular person will walk into after work tomorrow cannot be settled beforehand; that is the person's choice. The traffic, water use and bread consumption of a city of ten million at five tomorrow afternoon are nonetheless stable and periodic.
+
+经典物理的确定性就是宏观尺度上的这种普查数据。当数量极大的微观自由变量相互锁闭为一块花岗岩或一颗行星时，每一处微小的涨落都在总体的平均里相互抵消，留在宏观仪器上的是平稳而缓慢演进的平均值。经典力学与广义相对论因此可以读作对这片慢速沉淀所作的高阶统计拟合，在拟合的范围内极为精确，边界在于它们被当作先于一切观测的律令的时候。
+
+The determinacy of classical physics is census data of this kind at the macroscopic scale. When an enormous number of microscopic free variables lock into a block of granite or a planet, every small fluctuation cancels against others in the overall average, and what remains on macroscopic instruments is a mean that evolves steadily and slowly. Classical mechanics and general relativity can therefore be read as high-order statistical fits to this slow sediment, extremely precise within the range of the fit, with their boundary where they are taken as edicts prior to all observation.
+
+还需要说明一点。这些数量极大的自由变量不是在某个开端一次分发完毕的存量，它们是随着每一次观测不断被带进视界的增量。没有什么要求跨入视界的事件在此之前没有自己的因果，只是那些因果发生在当下的视界之外，从本地的坐标系里无从取得。于是当它们越过边界、第一次与观测交握时，从视界之内能给出的诚实称呼只有一个：事前不可知的自由变量（+1）。波函数是这种跨入留在数学里的记号。宏观的确定因此不像一架自古上紧发条、不断走松的钟，它是一个仍在进行的稳定化过程，每一步观测都纳入新的自由变量，并经由大数定律把它们织进平稳的秩序。
+
+One more point needs stating. This enormous number of free variables is not a stock handed out once at some beginning; it is an increment continually brought inside the horizon with every observation. Nothing requires that an event crossing into the horizon had no causes of its own before that; those causes simply took place outside the present horizon and cannot be obtained from within the local frame. So when such events cross the boundary and first shake hands with observation, only one honest name can be given from inside the horizon: a free variable unknowable beforehand (+1). The wavefunction is the mark this crossing leaves in the mathematics. Macroscopic determinacy is thus unlike a clock wound up long ago and steadily running down; it is a stabilizing process still under way, each step of observation taking in new free variables and weaving them, through the law of large numbers, into a steady order.
+
+## 五、 物质与心智是节律上的分别 / 5. Matter and Mind as a Difference of Cadence
+
+解释宏观演进的不可逆时，物理学多半求助于热力学第二定律，把时间之箭系在熵的增加上。热力学是极有效的宏观账目，热机、化学反应与信息的代价都由它算清。
+
+When explaining the irreversibility of macroscopic change, physics mostly turns to the second law of thermodynamics and ties the arrow of time to the increase of entropy. Thermodynamics is a highly effective macroscopic ledger; heat engines, chemical reactions and the cost of information are all reckoned by it.
+
+它的边界在于它是下游的统计。热与熵是对已经稳定下来的结构在交换动量时所作的宏观度量。把不可逆的源头放在熵上，次序便颠倒了：经验中的时间向前，是因为每一次接触都是一个不可化约、不可收回的动作（+1），它在沉淀物中的统计足迹被记为熵的增加。沿着时间维度向前向后的推算，是从当下的登记出发在概念上作的投影。
+
+Its boundary is that it is a statistic downstream. Heat and entropy are macroscopic measures taken of structures that have already stabilized, as they exchange momentum. Placing the source of irreversibility in entropy reverses the order: time as experienced moves forward because every contact is an irreducible act that cannot be taken back (+1), and its statistical footprint in the sediment is recorded as an increase of entropy. Reckoning backward and forward along a dimension of time is a projection made conceptually from the present registration.
+
+由此，物质与心智之间不需要两种实体。皮尔士写过：“物质是衰竭的心智，根深蒂固的习惯成了物理定律。”按这里的读法，物质是沉淀下来的关系，因果的交握重复到成了习惯，变化的节律慢到在一次又一次的登记里见不出差别。
+
+```mermaid
+flowchart TD
+    subgraph S_Cadence["从动作到沉淀"]
+        direction TB
+        Fresh["当下的抉择 +1：每一刻都在更新"]
+        Habit["因果的交握重复为稳定的习惯"]
+        Matter["慢到见不出差别的关系：被遇见为物质"]
+        Entropy["下游的账目：统计足迹记为熵的增加"]
+        Fresh --> Habit
+        Habit --> Matter
+        Matter --> Entropy
+    end
+
+    style S_Cadence fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Fresh fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Habit fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Matter fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Entropy fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+```
+
+It follows that no two substances are needed between matter and mind. Peirce wrote: "matter is effete mind, inveterate habits becoming physical laws." On the reading here, matter is relationship that has settled, causal handshakes repeated until they are habit, with a cadence of change so slow that registration after registration shows no difference.
+
+```mermaid
+flowchart TD
+    subgraph S_Cadence["From Act to Sediment"]
+        direction TB
+        Fresh["The present choice +1: renewed at every moment"]
+        Habit["Causal handshakes repeated into stable habit"]
+        Matter["Relationship too slow to show a difference: met as matter"]
+        Entropy["The ledger downstream: the statistical footprint recorded as entropy"]
+        Fresh --> Habit
+        Habit --> Matter
+        Matter --> Entropy
+    end
+
+    style S_Cadence fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Fresh fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Habit fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Matter fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Entropy fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+```
+
+一块石头与一个活着的人，区别于是不在于一边是“死的物质”、另一边藏着“神秘的灵魂”，而在于更新的节律与自由度。活着的心智在每个当下作出新的抉择，因而被遇见为生动而不可预先算定。一块石头是数量极大的关系在漫长的时间里相互锁定之后的平衡，它按地质的尺度缓慢变化，因而被遇见为不动的东西。意志与抉择属于活着的心智，石头并不因这种读法而有了意愿，这里说的只是两者不必被划进两个互不相通的领域。
+
+A stone and a living person thus differ not in one side being "dead matter" and the other hiding a "mysterious soul," but in the cadence of renewal and the degrees of freedom. A living Mind makes a new choice in each present and is therefore met as vivid and not computable in advance. A stone is the equilibrium of an enormous number of relationships after they have locked together over a long time; it changes slowly on a geological scale and is therefore met as a thing that does not move. Will and choice belong to living Minds, and the stone does not acquire a will through this reading; the point is only that the two need not be assigned to two realms with no passage between them.
+
+## 六、 当下的一步与万物理论 / 6. The Present Step and the Theory of Everything
+
+宇宙学把当下登记到的规律沿时间维度向后推到一个开端，向前推到热寂。这种外推有它的用处，背景辐射与轻元素的丰度都由它预测。它的边界在于，那是把当下的感知在概念上向前向后投影出来的时间，不是经验中的时间。经验中只有正在生成的这一步，开端与终点都是从这一步出发画出的图景。
+
+Cosmology extends the regularities registered in the present backward along the dimension of time to a beginning, and forward to heat death. The extrapolation has its use; the background radiation and the abundances of the light elements are predicted by it. Its boundary is that this is time projected conceptually backward and forward from present perception, and not time as experienced. In experience there is only the step now being generated, and the beginning and the end are pictures drawn from that step.
+
+日常所感到的世界的稳固，也可以从这一步来读。它并不来自一生相比于一百三十八亿年的短促，而来自日常所观测的宏观现象的变化远慢于光速，v ≪ c。
+
+The solidity of the world felt in daily life can also be read from this step. It does not come from the brevity of a life set against 13.8 billion years, but from the fact that the macroscopic phenomena observed day to day change far more slowly than light, v ≪ c.
+
+微观与宏观于是不是两个等待焊接的领域。微观的不确定是因果生成的开放前沿，宏观的确定是因果沉淀的慢速统计，两者是同一枚硬币的两面。寻找量子引力的数学是在模型之内正当的工作，这里说的是，在经验的层面上并没有一道需要缝合的裂口。
+
+```mermaid
+flowchart TD
+    subgraph S_Step["三种读法收于当下的一步"]
+        direction TB
+        Light["光速 c：现实在第一人称中被渲染的速率"]
+        Micro["微观不确定：自由变量留在描述里的那一面"]
+        Macro["宏观确定：稳定关系在慢速中的大数统计"]
+        Now["正在生成的当下一步 +1"]
+        Light --> Now
+        Micro --> Now
+        Macro --> Now
+    end
+
+    style S_Step fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Light fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Micro fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Macro fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+Micro and macro are then not two domains waiting to be welded. Microscopic indeterminacy is the open front of causal generation, macroscopic determinacy is the slow statistics of causal sediment, and the two are faces of one coin. Seeking the mathematics of quantum gravity is legitimate work inside the models; what is said here is that at the level of experience there is no rift that needs stitching.
+
+```mermaid
+flowchart TD
+    subgraph S_Step["Three Readings Gathered in the Present Step"]
+        direction TB
+        Light["Speed of light c: the rate at which reality is rendered in the first person"]
+        Micro["Microscopic indeterminacy: the face the free variable leaves in the description"]
+        Macro["Macroscopic determinacy: large-number statistics of stable relationships at slow speed"]
+        Now["The present step now being generated +1"]
+        Light --> Now
+        Micro --> Now
+        Macro --> Now
+    end
+
+    style S_Step fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Light fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Micro fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Macro fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+万物理论所求的，是一个没有观测的心智在场、却能推出一切的方程。每一个理论在它的范围内都有用，这个要求的边界在它设定的位置上：它需要站在宇宙之外来写。这好比分析电视机外壳的分子结构，指望由此推出今晚屏幕上那出戏的结局，外壳的分析是准确的，戏不在其中。
+
+What a theory of everything seeks is an equation from which everything follows with no observing Mind present. Every theory is useful within its range, and the boundary of this demand lies in the position it posits: it has to be written from outside the universe. It is like analyzing the molecular structure of a television's casing in the hope of deriving the ending of tonight's play on the screen; the analysis of the casing is accurate, and the play is not in it.
+
+现实因此不像一卷早已印好的静止胶片，它更像一部正在放映的电影。光速标出感知的响应前沿，微观的不确定是抉择留在描述里的那一面，宏观的沉稳秩序是行动脚下的地面。测量者同时是参与者，意义不必等一个最终的理论来授予：在每一个不可化约的当下，在每一次面对未知的决断里，新的一帧正在被渲染出来（+1）。
+
+Reality is therefore unlike a reel of film printed long ago and lying still; it is more like a film now being shown. The speed of light marks the responding front of perception, microscopic indeterminacy is the face choice leaves in the description, and the steady macroscopic order is the ground under action. The one who measures is at once a participant, and meaning need not wait to be conferred by a final theory: in every irreducible present, in every decision made facing the unknown, a new frame is being rendered (+1).

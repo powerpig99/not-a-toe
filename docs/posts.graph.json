@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T09:10:44.837Z",
+    "generated_at": "2026-10-13T09:15:08.194Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -380,7 +380,7 @@
       "content/posts/what-works-is-the-belief.md": "37b5d1183dd7",
       "content/posts/whatever-is-one-prompt-away.md": "1f558b4ab069",
       "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
-      "content/posts/when-electrons-think.md": "362b625bc135",
+      "content/posts/when-electrons-think.md": "531d9a28d180",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "ded5efb3c37b",
       "content/posts/when-need-stops-being-the-measure.md": "a4f550ad30d1",
       "content/posts/when-observation-becomes-performance.md": "41fa335ad530",
@@ -418,10 +418,10 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5437,
-      "unique_directed": 4484,
+      "edges": 5439,
+      "unique_directed": 4485,
       "missing_targets": 0,
-      "one_way": 90,
+      "one_way": 91,
       "isolated": 37,
       "posts_with_outbound": 353,
       "book_pages": 16,
@@ -5825,7 +5825,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "57ec612f18d1",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "consciousness-ascription-and-the-quantum-cut",
@@ -9354,12 +9354,13 @@
       "slug": "when-electrons-think",
       "path": "content/posts/when-electrons-think.md",
       "title": "当电子开始思考 / When Electrons Think",
-      "hash": "362b625bc135",
+      "hash": "531d9a28d180",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "objects-are-stabilized-relationships",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "the-cut-moves-but-never-vanishes",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "determinism-is-the-statistical-signature-of-micro-indeterminism"
       ]
@@ -41170,7 +41171,13 @@
       "from": "when-electrons-think",
       "to": "objects-are-stabilized-relationships",
       "rel": "points_to",
-      "label": "对象即稳定下来的关系"
+      "label": "对象是被稳定化的关系"
+    },
+    {
+      "from": "when-electrons-think",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "Objects Are Stabilized Relationships"
     },
     {
       "from": "when-electrons-think",
@@ -41180,15 +41187,15 @@
     },
     {
       "from": "when-electrons-think",
-      "to": "objects-are-stabilized-relationships",
-      "rel": "points_to",
-      "label": "Objects as Stabilized Relationships"
-    },
-    {
-      "from": "when-electrons-think",
       "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "rel": "points_to",
       "label": "The Black-and-White Sample Frame and the Extrapolated Universe"
+    },
+    {
+      "from": "when-electrons-think",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
     },
     {
       "from": "when-electrons-think",
@@ -41198,15 +41205,21 @@
     },
     {
       "from": "when-electrons-think",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "when-electrons-think",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "Isomorphism of Free Variables and A Priori Sovereignty"
+      "label": "The Isomorphism of Free Variables and Prior Sovereignty"
     },
     {
       "from": "when-electrons-think",
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
-      "label": "决定论是微观非决定论的统计签名"
+      "label": "确定性是微观不确定性的统计签名"
     },
     {
       "from": "when-electrons-think",
