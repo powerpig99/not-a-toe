@@ -128,9 +128,9 @@ flowchart TD
 
 ## 三、 从对齐机器到使用者的自我对齐 / 3. From Aligning the Machine to the User's Own Alignment
 
-把主体性放到人造物上，直接催生了“AI对齐”的工程范式。研究机构与技术公司投入大量资本与算力，在模型内部构筑伦理规范、安全护栏与对齐算法。这项工作有它的用处：护栏让工具的行为更可预期，拦下了一部分滥用，也给提示的设计带来启发。
+把主体性放到人造物上，直接催生了“AI对齐”的工程范式。研究机构与技术公司投入大量资本与算力，在模型内部构筑伦理规范、安全护栏与对齐算法。这项工作有它的用处：护栏让工具的行为更可预期，也给提示的设计带来启发。
 
-Placing agency on the artifact has directly produced the engineering paradigm of "AI alignment." Research institutes and technology companies put large amounts of capital and compute into building ethical norms, safety guardrails and alignment algorithms inside the model. The work has its use: guardrails make a tool's behavior more predictable, stop part of the misuse, and inform the design of prompts.
+Placing agency on the artifact has directly produced the engineering paradigm of "AI alignment." Research institutes and technology companies put large amounts of capital and compute into building ethical norms, safety guardrails and alignment algorithms inside the model. The work has its use: guardrails make a tool's behavior more predictable and inform the design of prompts.
 
 它的边界在于把模型当成道德主体的那一步。铁锤不生出道德的自律，火箭不学会遵守契约，道德的主体与因果的责任在挥锤、点火与输入指令的心智这里。模型输出带有偏见、虚假的指控或危险的代码时，责任的源头不在矩阵乘法上，而在发出提示、筛选输出并把它付诸行动的地方。工具把意图与能力不加分别地放大。
 

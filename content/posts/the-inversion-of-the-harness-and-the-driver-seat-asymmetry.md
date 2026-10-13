@@ -72,7 +72,7 @@ flowchart TD
 
 Giving up the driver's seat does not happen only when using other people's tools or outside frameworks; it also happens, and is harder to notice, when using tools and rules built by one's own past self. An experienced practitioner settles methods, in the course of solving problems, into code libraries, automation scripts, prompt templates or agent workflows of their own. At the moment such tools are born they are accurate responses made while facing friction, and effective scaffolding. Handing the driver's seat to process dilutes the causal loop, as [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) traces in peer review.
 
-时间推移，情境也在移动。面对新的摩擦时，若习惯地退回旧的脚本与模板，不加审视地把当前情境的裁决交给它们，昔日的能力便成了今天的天花板。[坐标沉浮、否定与自我锚定](../coordinates-in-flux-negation-and-self-anchoring/)与[思想的向量化与坐标系的重构](../the-mind-as-vector-and-coordinate-system/)说明，所遇到的现实在不可逆的因果演进中持续展开，没有一劳永逸的静态解。昨天的最佳实践是昨天的边界条件下的局部最优，边界条件迁移之后照搬旧工具，是在回避当下。
+时间推移，情境也在移动。面对新的摩擦时，若习惯地退回旧的脚本与模板，不加审视地把当前情境的裁决交给它们，昔日的能力便成了今天的天花板。[流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/)与[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)说明，所遇到的现实在不可逆的因果演进中持续展开，没有一劳永逸的静态解。昨天的最佳实践是昨天的边界条件下的局部最优，边界条件迁移之后照搬旧工具，是在回避当下。
 
 ```mermaid
 flowchart TD
@@ -100,7 +100,7 @@ flowchart TD
     style Rebuild fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Time passes and the situation moves with it. When, facing new friction, one retreats by habit to old scripts and templates and hands them the ruling on the present situation without examination, yesterday's capability becomes today's ceiling. [Coordinates in Flux, Negation and Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/) and [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) show that the reality one meets keeps unfolding in irreversible causal succession, with no static solution that settles things once and for all. Yesterday's best practice is a local optimum under yesterday's boundary conditions, and copying the old tool after those conditions have moved is a way of avoiding the present.
+Time passes and the situation moves with it. When, facing new friction, one retreats by habit to old scripts and templates and hands them the ruling on the present situation without examination, yesterday's capability becomes today's ceiling. [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) and [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) show that the reality one meets keeps unfolding in irreversible causal succession, with no static solution that settles things once and for all. Yesterday's best practice is a local optimum under yesterday's boundary conditions, and copying the old tool after those conditions have moved is a way of avoiding the present.
 
 ```mermaid
 flowchart TD

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T10:20:18.260Z",
+    "generated_at": "2026-10-13T10:44:48.741Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -84,7 +84,7 @@
       "content/posts/fixed-by-nothing.md": "c99ecc015638",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "df8f3a8fb563",
-      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "25d2c2e52a5e",
+      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "6a1851b615db",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "5fe10db25c4f",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "c81f2c71d076",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "a1b926b30911",
@@ -226,14 +226,14 @@
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7deb853507eb",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "e86ad1bf219f",
-      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "0c77b549d04d",
+      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "264a60351b5a",
       "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "0f743e203782",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "09a58e05b701",
       "content/posts/the-extendable-horizon.md": "19250e1e8750",
-      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "51671f41f1af",
+      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "bcd662973452",
       "content/posts/the-fallacy-of-post-success-parenting.md": "4a09f0a9cd26",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "41631349ff7c",
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
@@ -270,7 +270,7 @@
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "305d17fa1783",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "47a6ffb6ae17",
-      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "c6ddb37e2e44",
+      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "6bb1ab2dad94",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "5ccd04ebe2f8",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
@@ -380,7 +380,7 @@
       "content/posts/what-works-is-the-belief.md": "37b5d1183dd7",
       "content/posts/whatever-is-one-prompt-away.md": "1f558b4ab069",
       "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
-      "content/posts/when-electrons-think.md": "66e290b64f24",
+      "content/posts/when-electrons-think.md": "8f6120f93399",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "ded5efb3c37b",
       "content/posts/when-need-stops-being-the-measure.md": "a4f550ad30d1",
       "content/posts/when-observation-becomes-performance.md": "41fa335ad530",
@@ -2407,7 +2407,7 @@
       "slug": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "path": "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md",
       "title": "从AGI的“神性错置”到使用者的自我对齐 / From the Misallocated Sentience of AGI to Human Realignment",
-      "hash": "25d2c2e52a5e",
+      "hash": "6a1851b615db",
       "in_degree": 7,
       "out_degree": 8,
       "links_out": [
@@ -5944,7 +5944,7 @@
       "slug": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
-      "hash": "0c77b549d04d",
+      "hash": "264a60351b5a",
       "in_degree": 19,
       "out_degree": 17,
       "links_out": [
@@ -6104,7 +6104,7 @@
       "slug": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
-      "hash": "51671f41f1af",
+      "hash": "bcd662973452",
       "in_degree": 12,
       "out_degree": 11,
       "links_out": [
@@ -6115,9 +6115,9 @@
         "po-chu-gai-nian-de-jian-yue",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "when-malfunction-is-scored-as-intelligence",
+        "felt-resistance-and-the-speed-differential",
         "individual-choices-as-the-only-causal-levers",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
-        "felt-resistance-and-the-speed-differential",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency"
       ]
     },
@@ -6873,7 +6873,7 @@
       "slug": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
-      "hash": "c6ddb37e2e44",
+      "hash": "6bb1ab2dad94",
       "in_degree": 15,
       "out_degree": 15,
       "links_out": [
@@ -9354,7 +9354,7 @@
       "slug": "when-electrons-think",
       "path": "content/posts/when-electrons-think.md",
       "title": "当电子开始思考 / When Electrons Think",
-      "hash": "66e290b64f24",
+      "hash": "8f6120f93399",
       "in_degree": 4,
       "out_degree": 5,
       "links_out": [
@@ -29369,13 +29369,13 @@
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "rel": "points_to",
-      "label": "以知为刃的截肢与解脱：从内在感知的澄明走向心智共鸣"
+      "label": "以知为刃的截肢与解脱"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
-      "label": "向量、坐标系与自指心智：几何视角下的投影、冲突与电磁同频"
+      "label": "向量、坐标系与自指心智"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -29393,7 +29393,7 @@
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
-      "label": "流动中的坐标：关于“否定”、降维与心智的自我锚定"
+      "label": "流动中的坐标"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -29405,7 +29405,7 @@
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
-      "label": "Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring"
+      "label": "Coordinates in Flux"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -29427,15 +29427,9 @@
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "to": "when-malfunction-is-scored-as-intelligence",
-      "rel": "points_to",
-      "label": "失灵被记作聪明"
-    },
-    {
-      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "Dismantling the Usurpation of Concepts"
+      "label": "Breaking the Overreach of Concepts"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -29447,19 +29441,13 @@
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "when-malfunction-is-scored-as-intelligence",
       "rel": "points_to",
+      "label": "失灵被记作聪明"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
       "label": "When Malfunction Is Scored as Intelligence"
-    },
-    {
-      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "to": "individual-choices-as-the-only-causal-levers",
-      "rel": "points_to",
-      "label": "个体抉择作为唯一的因果杠杆"
-    },
-    {
-      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
-      "rel": "points_to",
-      "label": "涌现的伪因果与集体归因倒错"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -29477,13 +29465,25 @@
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
-      "label": "The Pseudo-Causality of Emergence and the Fallacy of Collective Attribution"
+      "label": "The Pseudo-Causality of Emergence"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -32051,19 +32051,19 @@
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
-      "label": "坐标沉浮、否定与自我锚定"
+      "label": "流动中的坐标"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
-      "label": "思想的向量化与坐标系的重构"
+      "label": "向量、坐标系与自指心智"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
-      "label": "Coordinates in Flux, Negation and Self-Anchoring"
+      "label": "Coordinates in Flux"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
