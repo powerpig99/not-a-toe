@@ -26,6 +26,11 @@ const contentDir = path.join(scriptDir, 'content', 'posts');
 const outputDir = path.join(scriptDir, 'public');
 const coversDir = path.join(scriptDir, 'assets', 'covers');
 const figuresDir = path.join(scriptDir, 'assets', 'figures');
+const infographicsDir = path.join(scriptDir, 'assets', 'infographics');
+// The films of a post: data/youtube.json is the uploader's ledger, { videos: { <slug>: { en: { id }, zh: { id } } } }.
+const youtubeFile = path.join(scriptDir, 'data', 'youtube.json');
+const YOUTUBE = fs.existsSync(youtubeFile) ? (JSON.parse(fs.readFileSync(youtubeFile, 'utf8')).videos ?? {}) : {};
+const MEDIA_LANGS = [['zh', '中文'], ['en', 'English']];
 const appleTouchIconSource = path.join(scriptDir, 'assets', 'toe-bang.png');
 const styleFile = path.join(scriptDir, 'style.css');
 const styleVersion = String(Math.floor(fs.statSync(styleFile).mtimeMs));
@@ -1589,6 +1594,64 @@ ${renderAbout()}`;
   });
 }
 
+// The film and the infographic of a post, where it has them. The film is a player under the title that loads from
+// YouTube only when played; the infographic goes after the lead, before the first section. One language switch
+// sets both, follows the reader's browser language at first and remembers the reader's choice.
+function renderPostMedia(post) {
+  const videos = MEDIA_LANGS.filter(([lang]) => YOUTUBE[post.slug]?.[lang]?.id).map(([lang, name]) => ({ lang, name, id: YOUTUBE[post.slug][lang].id }));
+  const pictures = MEDIA_LANGS.filter(([lang]) => fs.existsSync(path.join(infographicsDir, `${post.slug}.${lang}.jpg`))).map(([lang, name]) => {
+    const file = path.join(infographicsDir, `${post.slug}.${lang}.jpg`);
+    return { lang, name, src: `${withBase(`infographics/${post.slug}.${lang}.jpg`)}?v=${crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex').slice(0, 10)}` };
+  });
+  if (!videos.length && !pictures.length) return { videoHtml: '', body: post.htmlBody, script: '' };
+
+  const langs = MEDIA_LANGS.filter(([lang]) => videos.some((v) => v.lang === lang) || pictures.some((p) => p.lang === lang));
+  const switchHtml = langs.length > 1
+    ? `<div class="media-lang" role="group" aria-label="Language">${langs.map(([lang, name]) => `<button type="button" data-media-lang="${lang}" aria-pressed="false">${name}</button>`).join('')}</div>`
+    : '';
+  const data = (items, key) => items.map((x) => `data-${x.lang}="${escapeHtml(x[key])}"`).join(' ');
+  const videoHtml = videos.length
+    ? `<section class="post-media">
+        ${switchHtml}
+        <div class="video-frame" data-video ${data(videos, 'id')}><button type="button" class="video-play" aria-label="Play the film"><span class="video-play-mark" aria-hidden="true"></span><span class="video-play-label">视频讲解 · Film</span></button></div>
+        <p class="meta media-links">YouTube: ${videos.map((v) => `<a href="https://youtu.be/${escapeHtml(v.id)}" rel="noopener noreferrer">${v.name}</a>`).join(' · ')}</p>
+      </section>`
+    : '';
+  const first = pictures.find((p) => p.lang === 'en') ?? pictures[0];
+  const figureHtml = pictures.length
+    ? `<figure class="infographic" data-infographic ${data(pictures, 'src')}>${videos.length ? '' : switchHtml}<a href="${first.src}"><img src="${first.src}" alt="Infographic: ${escapeHtml(post.title)}" width="1600" height="1600" loading="lazy" decoding="async"></a></figure>\n`
+    : '';
+  const at = post.htmlBody.search(/<h2[\s>]/);
+  const body = figureHtml ? (at < 0 ? post.htmlBody + figureHtml : post.htmlBody.slice(0, at) + figureHtml + post.htmlBody.slice(at)) : post.htmlBody;
+  const script = `
+      <script>
+        (function () {
+          var KEY = 'nat-media-lang', video = document.querySelector('[data-video]'), figure = document.querySelector('[data-infographic]');
+          var buttons = document.querySelectorAll('[data-media-lang]'), lang = null;
+          try { lang = localStorage.getItem(KEY); } catch (e) {}
+          if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
+          var has = function (el, l) { return el && el.getAttribute('data-' + l); };
+          if (!has(video, lang) && !has(figure, lang)) lang = lang === 'zh' ? 'en' : 'zh';
+          function play() {
+            var id = has(video, lang) || has(video, lang === 'zh' ? 'en' : 'zh');
+            video.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0" title="Film" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen loading="lazy"></iframe>';
+            video.setAttribute('data-playing', '1');
+          }
+          function set(l, keep) {
+            lang = l;
+            for (var i = 0; i < buttons.length; i++) buttons[i].setAttribute('aria-pressed', buttons[i].getAttribute('data-media-lang') === l ? 'true' : 'false');
+            if (video && video.getAttribute('data-playing')) play();
+            if (has(figure, l)) { figure.querySelector('img').src = has(figure, l); figure.querySelector('a').href = has(figure, l); }
+            if (keep) { try { localStorage.setItem(KEY, l); } catch (e) {} }
+          }
+          for (var i = 0; i < buttons.length; i++) buttons[i].addEventListener('click', function () { set(this.getAttribute('data-media-lang'), true); });
+          if (video) video.querySelector('.video-play').addEventListener('click', play);
+          set(lang, false);
+        })();
+      </script>`;
+  return { videoHtml, body, script };
+}
+
 function renderPost(post, newerPost, olderPost, book = null) {
   const navLinks = [];
   if (newerPost) {
@@ -1629,6 +1692,8 @@ function renderPost(post, newerPost, olderPost, book = null) {
       </figure>`
     : '';
 
+  const media = renderPostMedia(post);
+
   const headerHtml = book
     ? renderSiteHeader('')
     : `    <header class="site-header">
@@ -1644,9 +1709,10 @@ function renderPost(post, newerPost, olderPost, book = null) {
         ${post.subtitle ? `<p class="subtitle">${escapeHtml(post.subtitle)}</p>` : ''}
         <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
       </header>
+      ${media.videoHtml}
       <div class="essay-content">
-${post.htmlBody}
-      </div>
+${media.body}
+      </div>${media.script}
       ${partNavHtml}
       ${navHtml}
     </article>`;
@@ -1786,6 +1852,14 @@ function copyStaticAssets() {
       const ext = path.extname(entry.name).toLowerCase();
       if (!COVER_EXTENSIONS.includes(ext)) continue;
       fs.copyFileSync(path.join(coversDir, entry.name), path.join(publicCoversDir, entry.name));
+    }
+  }
+
+  if (fs.existsSync(infographicsDir)) {
+    const publicInfographicsDir = path.join(outputDir, 'infographics');
+    fs.mkdirSync(publicInfographicsDir, { recursive: true });
+    for (const entry of fs.readdirSync(infographicsDir, { withFileTypes: true })) {
+      if (entry.isFile() && path.extname(entry.name).toLowerCase() === '.jpg') fs.copyFileSync(path.join(infographicsDir, entry.name), path.join(publicInfographicsDir, entry.name));
     }
   }
 
