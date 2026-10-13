@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T09:15:08.194Z",
+    "generated_at": "2026-10-13T09:46:47.144Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -270,7 +270,7 @@
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "305d17fa1783",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "47a6ffb6ae17",
-      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "9c5086aebbaa",
+      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "85cfa2ffe325",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "5ccd04ebe2f8",
       "content/posts/the-invisible-first-move.md": "ed60bcb9949c",
       "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
@@ -380,7 +380,7 @@
       "content/posts/what-works-is-the-belief.md": "37b5d1183dd7",
       "content/posts/whatever-is-one-prompt-away.md": "1f558b4ab069",
       "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
-      "content/posts/when-electrons-think.md": "531d9a28d180",
+      "content/posts/when-electrons-think.md": "66e290b64f24",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "ded5efb3c37b",
       "content/posts/when-need-stops-being-the-measure.md": "a4f550ad30d1",
       "content/posts/when-observation-becomes-performance.md": "41fa335ad530",
@@ -6873,12 +6873,10 @@
       "slug": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
-      "hash": "9c5086aebbaa",
+      "hash": "85cfa2ffe325",
       "in_degree": 15,
       "out_degree": 15,
       "links_out": [
-        "from-the-misallocated-sentience-of-agi-to-human-realignment",
-        "the-illusion-of-the-tool-and-the-inversion-of-time",
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -6887,6 +6885,8 @@
         "coordinates-in-flux-negation-and-self-anchoring",
         "the-mind-as-vector-and-coordinate-system",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "from-the-misallocated-sentience-of-agi-to-human-realignment",
+        "the-illusion-of-the-tool-and-the-inversion-of-time",
         "when-malfunction-is-scored-as-intelligence",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "individual-choices-as-the-only-causal-levers",
@@ -9354,7 +9354,7 @@
       "slug": "when-electrons-think",
       "path": "content/posts/when-electrons-think.md",
       "title": "当电子开始思考 / When Electrons Think",
-      "hash": "531d9a28d180",
+      "hash": "66e290b64f24",
       "in_degree": 4,
       "out_degree": 5,
       "links_out": [
@@ -31989,30 +31989,6 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "rel": "points_to",
-      "label": "从AGI的“神性错置”到使用者的自我对齐"
-    },
-    {
-      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-illusion-of-the-tool-and-the-inversion-of-time",
-      "rel": "points_to",
-      "label": "工具的幻觉与时间的倒置"
-    },
-    {
-      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "rel": "points_to",
-      "label": "From the Misallocated Sentience of AGI to Human Realignment"
-    },
-    {
-      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-illusion-of-the-tool-and-the-inversion-of-time",
-      "rel": "points_to",
-      "label": "The Illusion of the Tool and the Inversion of Time"
-    },
-    {
-      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "被遗忘的脚手架"
@@ -32067,6 +32043,12 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
       "label": "坐标沉浮、否定与自我锚定"
@@ -32076,12 +32058,6 @@
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
       "label": "思想的向量化与坐标系的重构"
-    },
-    {
-      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
-      "rel": "points_to",
-      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -32103,15 +32079,39 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "从AGI的“神性错置”到使用者的自我对齐"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "rel": "points_to",
+      "label": "工具的幻觉与时间的倒置"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "when-malfunction-is-scored-as-intelligence",
       "rel": "points_to",
       "label": "失灵被记作聪明"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
-      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+      "label": "From the Misallocated Sentience of AGI to Human Realignment"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "rel": "points_to",
+      "label": "The Illusion of the Tool and the Inversion of Time"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -32127,6 +32127,12 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体的选择是唯一的因果杠杆"
@@ -32136,12 +32142,6 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
-    },
-    {
-      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "rel": "points_to",
-      "label": "The Sleight of Hand in \"Physics Is the Law\""
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",

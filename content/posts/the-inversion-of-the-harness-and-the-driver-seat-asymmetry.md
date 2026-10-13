@@ -1,331 +1,321 @@
 # 框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat
 
-*能力为何沦为束缚，以及对AI智能体能力的母体误归因 / Why Capabilities Become Limitations and the Master Misattribution of AI Agents*
+*让出驾驶位，能力便成为束缚，跃迁则被记在智能体名下 / Once the driver's seat is given up, capability becomes constraint, and the leap is credited to the agent*
 
-解构将自主掌控权让渡于工具所导致的能力异化，借由“框架悖论”与驾驶位非对称性阐明人造物的脚手架定位，揭示深度驾驭智能体所带来的心智跃迁真相，破除将主体认知升级误归因于AI模型的幻觉，确立唯有始终握紧控制手柄的第一人称行动者才能实现主权放大。在软件工程界与前沿技术圈中，关于如何为人工智能智能体（AI Agents）构建“控制框架”（Harnesses）的讨论正在引发广泛的反思。许多工程师与技术领袖试图通过设计日益复杂的测试脚手架、确定性状态机与规则网格，来约束和引导自主智能体的代码生成与决策行为。然而，在这场关于工具规范的争鸣深处，隐藏着一个深刻的认识论盲区：人们习惯于将技术能力的跃升寄托于框架本身的精巧，却忽视了更为核心的主权定律——当使用者将自身的第一人称因果主权让渡给工具时，任何原本强大的能力都会反向异化为对使用者的严苛束缚；无论这些工具是由他人设计、行业奉为金科玉律，还是由使用者过去的自我精心构建。正如在 [从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/) 与 [工具的幻觉与时间的倒置](../the-illusion-of-the-tool-and-the-inversion-of-time/) 中所揭示的，人造物是人类自由选择留下的历史运动印记，并不具备自主向现实注入自由变量的能动性。当一名践行者在漫长的工程实践中始终牢牢占据“驾驶位”，并深度驱动智能体集群协同攻坚时，真正令人惊艳的从来不是智能体模型本身的通用容量，而是使用者自身心智模型在持续的高维对抗与真实摩擦中所实现的惊人跃迁；然而，人类文化中根深蒂固的客体崇拜，却让使用者轻率地将这种属于自身心智的飞跃，误归因给了作为镜面投影的AI智能体。
+为人工智能智能体搭建控制框架，是软件工程里正在热议的事。框架是有用的脚手架，它的边界出现在裁决被交给它的时候：驾驶位一旦让出，原本扩展能力的工具便反过来圈定视界，不论这工具出自他人、出自行业的规范，还是出自过去的自己。长期坐在驾驶位上驱动智能体的人，会见到产出与速度的跃升，这跃升发生在驾驶者自己的心智模型上，却常被记在智能体的名下。相同的模型与工具，因此在让出与握住之间走向两条不同的轨迹。
 
-Deconstructing the alienation of capability caused by abdicating sovereign agency to tools, employing the "Harness Paradox" and driver's seat asymmetry to demarcate artifacts as disposable scaffolding, unveiling the true source of cognitive leaps during intensive agent stewardship, dispelling the illusion of misattributing user mental elevation to AI models, and establishing that only the first-person practitioner in the driver's seat achieves genuine sovereign amplification. In contemporary software engineering and artificial intelligence circles, discussions surrounding how to build effective "harnesses"—the frameworks, test suites, and control guardrails for AI agents—have sparked intense reflection. Engineers and architectural leaders strive to tame autonomous coding agents through ever more intricate deterministic scaffolding, boundary rules, and validation pipelines. Yet beneath this debate over structural controls lies a profound epistemological blind spot: society routinely expects capability to reside in the perfection of the harness itself, overlooking a fundamental causal law: the moment a user abdicates first-person causal agency to tools, every single capability inverts into a restrictive limitation. This holds true whether the tool was engineered by external authorities, codified as an industry standard, or crafted by the user's own past self. As demonstrated in [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/) and [The Illusion of the Tool and the Inversion of Time](../the-illusion-of-the-tool-and-the-inversion-of-time/), all artifacts are historical traces left behind by the injection of human free choices, possessing zero independent agency to inject free variables into reality. When a dedicated practitioner spends thousands of hours firmly occupying the "driver's seat", orchestrating multi-agent systems against live operational friction, the true surprise is never the raw statistical capacity of the AI agent; it is the extraordinary elevation of the human pilot's own cognitive resolution, architectural clarity, and causal throughput. Yet the pervasive habit of externalizing agency leads society to commit a master misattribution—crediting the mathematical mirror of the AI agent for what was, in truth, the sovereign awakening of the human mind.
+Building harnesses for artificial intelligence agents is a live topic in software engineering. A harness is useful scaffolding, and its boundary appears when the ruling is handed to it: once the driver's seat is given up, a tool that extended capability turns around and fences in the field of view, whether the tool comes from others, from an industry norm or from one's own past self. Someone who stays in the driver's seat for a long time while driving agents sees a jump in output and speed; the jump takes place in the driver's own mental model, yet it is commonly credited to the agent. The same models and tools thus lead along two different paths, depending on whether the seat is given up or held.
 
----
+## 一、 对框架的焦虑与能力的反转 / 1. Anxiety About the Harness and the Reversal of Capability
 
-## 一、 “框架”的焦虑与工具的异化：当能力反向铸造牢笼 / 1. The Anxiety of the "Harness" and the Alienation of Tools: When Capability Becomes a Cage
+传统的软件工程建立在确定的因果与静态的契约上。从面向对象的约束、函数式的无副作用管道，到测试驱动开发的红绿循环，工程师习惯用代码的结构界定系统行为的每一个分支。大语言模型以概率推断介入编程与架构之后，这些确定性的护栏出现了缺口，行业于是加固框架，用更严密的调度器、沙箱拦截与验证层，把智能体圈在预设的轨迹之内。
 
-软件行业对AI智能体“控制框架”的焦虑，集中体现了人类面对高维自适应系统时的控制幻觉。传统软件工程建立在严格的因果确定性与静态契约之上：从面向对象的多态约束、函数式编程的无副作用管道，到测试驱动开发（TDD）的红绿循环，工程师习惯于通过代码结构来界定系统行为的每一个分支。然而，当大语言模型以概率流形和模糊推断的方式介入编程与架构时，传统的确定性防护栏开始出现断裂。于是，行业本能地试图加固“框架”，试图用更为严密的外部调度器、沙箱拦截器与静态验证层，将智能体强制圈禁在人类预设的安全轨迹之内。
+Traditional software engineering rests on determinate causality and static contracts. From object-oriented constraints and side-effect-free functional pipelines to the red and green loop of test-driven development, engineers are used to delimiting every branch of a system's behavior through the structure of code. Once large language models entered programming and architecture by probabilistic inference, gaps opened in these deterministic guardrails, and the industry has reinforced the harness, using tighter dispatchers, sandbox interception and validation layers to keep agents within preset tracks.
 
-这种对框架的执念暴露出一个深层的范畴错误：人们试图将主观意志与因果掌控力，寄托于一套作为客体存在的结构规则之上。在 [被遗忘的脚手架](../the-scaffolding-we-forget/) 与 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 中我们阐明，一切规则、契约与框架都只是心智为了应对局部认知负荷而临时搭建的脚手架。框架本身没有生命，没有对活态现实的因果感知，更没有在当下做出主权抉择的能力。当开发者期望通过一套“完美框架”实现全自动、无摩擦的智能体托管时，他们实际上是在主动让渡第一人称的驾驶权。智能体接过任务，驾驶者留住后果，[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)说明了这一点。这种将控制重心置于外挂框架、甚至将模型升格为内部异己防范的倒置，在 [内部人假定与被动防护的因果倒置](../the-insider-presumption-and-the-causal-inversion-of-reactive-containment/) 中展现了其在企业治理中的延伸形态。
+这些框架有实在的用处，测试、沙箱与验证让结果可以检查，也挡住了许多损害。边界出现在框架被指望去承载判断的时候。[被遗忘的脚手架](../the-scaffolding-we-forget/)与[智能只属于心智](../intelligence-belongs-only-to-the-mind/)给出了推导：规则、契约与框架是心智为应对局部的认知负荷搭起的脚手架，是已经作出的抉择留下的痕迹，痕迹不在当下作新的抉择。期望一套完美的框架实现无摩擦的全自动托管，是把第一人称的驾驶位让了出去。智能体接过任务，驾驶者留住后果，[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)说明了这一点。把控制的重心放在外挂的框架上，进而把模型当作内部的异己来防范，这种倒置在企业治理中的延伸见于[内部人假定与被动防护的因果倒置](../the-insider-presumption-and-the-causal-inversion-of-reactive-containment/)。
 
-一旦驾驶权被让渡，能力的异化便不可避免地发生：原本为了扩展人类能力的工具，立刻蜕变为限制人类视界的认知牢笼。由于使用者不再直面现实世界的活态摩擦，而是依赖框架所反馈的过滤信号，使用者的感知边界被工具的硬编码逻辑所锚定；任何超出框架预设模式的非线性创新与临场突破，都会被安全机制判定为异常而遭到扼杀。工具的能力越强、自动化程度越高，让渡了主权的被动使用者就越迅速地陷入技能退化与认知钝化。他们沦为工具所圈定轨道上的盲目乘客，在遇到未曾预设的边界失效时毫无应对之力。
+These harnesses have solid uses; tests, sandboxes and validation make results checkable and block a good deal of damage. The boundary appears when the harness is expected to carry the judgment. [The Scaffolding We Forget](../the-scaffolding-we-forget/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) give the derivation: rules, contracts and frameworks are scaffolding a Mind puts up to manage local cognitive load, traces left by choices already made, and a trace makes no new choice in the present. Expecting a perfect harness to deliver frictionless, fully automatic delegation is giving up the first-person driver's seat. The agent takes the task, the driver keeps the consequence, as [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) shows. Placing the center of control in an external harness, and then guarding against the model as an internal adversary, is an inversion whose extension into enterprise governance appears in [The Insider Presumption and the Causal Inversion of Reactive Containment](../the-insider-presumption-and-the-causal-inversion-of-reactive-containment/).
 
-```mermaid
-graph TD
-    subgraph S_Anxiety["【1. 控制框架的焦虑起源】"]
-        direction TB
-        A1["大模型概率推断的不确定性<br/>打破传统软件确定性契约"]
-        A2["行业试图构建更严密框架<br/>期望实现全自动无摩擦托管"]
-        A1 --> A2
-    end
-
-    subgraph S_Alienation["【2. 掌控权让渡与能力异化】"]
-        direction TB
-        B1["第一人称让渡驾驶位<br/>放弃当下的二元因果裁决（+1）"]
-        B2["认知视界被工具硬编码边界锚定<br/>能力反转：拓展工具沦为认知天花板"]
-        B1 --> B2
-    end
-
-    subgraph S_Consequence["【3. 被动乘客的退化闭环】"]
-        direction TB
-        C1["脱离接触面物理摩擦<br/>排查边缘故障的真实技能萎缩"]
-        C2["陷入对自动化框架的路径依赖<br/>在未预设的系统破缺前丧失校准力"]
-        C1 --> C2
-    end
-
-    S_Anxiety ===>|"让渡主权 ➔ 逃避责任"| S_Alienation
-    S_Alienation ===>|"客体化锁定"| S_Consequence
-
-    style S_Anxiety fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_Alienation fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_Consequence fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style A1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style A2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style B1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style B2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style C1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style C2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-```
-
-The anxiety within software engineering regarding "agent harnesses" reflects a classic illusion of control when confronting high-dimensional adaptive systems. Traditional software engineering was founded upon deterministic causality and static contracts: from object-oriented polymorphic boundaries and pure functional pipelines to the red-green loops of Test-Driven Development (TDD), engineers are accustomed to prescribing every branch of execution. However, when large language models introduce probabilistic inference into architecture and coding, this deterministic armor ruptures. In response, the industry instinctively doubles down on the "harness"—attempting to build heavier dispatchers, rigid sandbox interceptors, and multi-layered validation gauntlets to confine agents within pre-certified boundaries.
-
-This fixation on the harness exposes a category error: attempting to deposit subjective intentionality and causal agency into an external lattice of static rules. As articulated in [The Scaffolding We Forget](../the-scaffolding-we-forget/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), all rules, protocols, and frameworks are merely temporary scaffolding erected by consciousness to manage local cognitive load. A harness possesses no awareness, no causal grounding in living reality, and zero capacity to execute sovereign binary choices at moment t. When developers seek a "perfect harness" to achieve zero-friction, fully autonomous agent delegation, they are in truth abdicating the first-person driver's seat. The agent takes the task, the driver keeps the consequence, as [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) shows. This inversion of placing the locus of control upon external harnesses, culminating in treating models as internal adversaries to be contained, extends directly into enterprise governance as dissected in [The Insider Presumption and the Causal Inversion of Reactive Containment](../the-insider-presumption-and-the-causal-inversion-of-reactive-containment/).
-
-The moment sovereign steering is surrendered, capability immediately inverts into alienation: a tool built to expand human horizons becomes a restrictive cognitive cage. Because the user no longer engages the raw friction of physical execution, but instead consumes the pre-filtered feedback of the harness, their perceptual horizon is locked to the hardcoded bounds of the artifact. Any non-linear insight or creative breakthrough falling outside the harness's design is flagged as an error and suppressed. The more advanced the automation, the faster the passive user suffers cognitive atrophy, degenerating into a blind passenger on fixed tracks, entirely helpless when confronted with unmapped edge failures.
-
----
-
-## 二、 “过去自我”的工具陷阱：从解题脚手架到认知天花板 / 2. The Tool Trap of the Past Self: From Scaffolding to Cognitive Ceiling
-
-让渡主权的危险，不仅发生在使用他人开发的成熟工具或外部技术框架之时，更隐蔽地发生在使用“过去的自我”所创造的工具与规则之中。任何一位富有经验的践行者，都会在解决具体难题的过程中总结经验，将沉淀下的方法论抽象为代码库、自动化脚本、提示词模板或专属的智能体工作流。这些工具在其诞生的那一刻，是活生生的主权心智直面现实摩擦所作出的精准因果响应，是极具效力的解题脚手架。把驾驶座交给流程，便稀释了因果闭环，[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)在同行审查中追溯了这一点。
-
-然而，时间的推移伴随着因果情境的演进。当当下的践行者面对全新维度的现实摩擦时，如果习惯性地躲入过去的自我所构建的自动化工具与规则体系中，不加审视地将当前情境的因果裁决权交给旧有的脚本与模板，这种曾经代表先进生产力的能力，就会在瞬间演变成最坚固的认知天花板。在 [坐标沉浮、否定与自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 与 [思想的向量化与坐标系的重构](../the-mind-as-vector-and-coordinate-system/) 中所阐明的，实在是在不可逆的因果演进中持续展开的活态网络，不存在任何一劳永逸的静态解。昨天的最佳实践，是昨天特定边界条件下的局部最优投影；当边界条件发生迁移，机械套用旧工具便构成了对当下现实的认知回避。
-
-这就是“自我工具化”的深刻陷阱：人们容易对自身过去的智力成果产生自恋式的执念，将临时性的脚手架实体化为不容挑战的铁律。当使用者不再根据当下的第一人称直接感知（+1）去重新审视和重构工具，而是反过来要求活态现实去迁就旧有工具的输入格式时，使用者就已经沦为了自身历史残留物的囚徒。唯有认识到一切人造物（包括昨天的杰作）都是一次性的、可随时解构与重建的消耗性耗材，践行者才能打破自我构建的牢笼，在当下时刻（t）重新握紧第一人称的创造力。
+驾驶位让出之后，能力发生反转。使用者不再直接碰到现实的摩擦，接到的是框架过滤后的信号，感知的边界于是被工具写定的逻辑锚住，超出预设模式的做法会被安全机制判为异常而拦下。工具越强，自动化的程度越高，离开接触面的时间越长，排查边缘故障的手感退得越快，遇到未曾预设的失效时也就越难应对。
 
 ```mermaid
-graph TD
-    subgraph S_Origin["【历史原点：过去自我的解题创造】"]
+flowchart TD
+    subgraph S_Reversal["让出驾驶位之后的反转"]
         direction TB
-        O1["面对特定摩擦的即时因果响应<br/>抽象为脚本、提示词模板与智能体工作流"]
-        O2["在历史时刻 t0 展现极高解题效力<br/>作为临时脚手架加速问题解决"]
-        O1 --> O2
+        Gap["模型的概率推断在确定性的契约上打开缺口"]
+        Heavier["框架被加固，并被指望去承载判断"]
+        Yield["第一人称的驾驶位让出"]
+        Anchor["感知的边界被工具写定的逻辑锚住"]
+        Atrophy["离开接触面，排查故障的手感退化"]
+        Gap --> Heavier
+        Heavier --> Yield
+        Yield --> Anchor
+        Anchor --> Atrophy
     end
 
-    subgraph S_Drift["【现实演进：不可逆边界条件迁移】"]
-        direction TB
-        D1["不可逆时间流淌 ➔ 业务与系统边界迁移<br/>新问题涌现出全新维度的活态接触面摩擦"]
-    end
-
-    O2 ==> D1
-
-    subgraph S_Trap["【分支 A：自我工具陷阱（主权让渡）】"]
-        direction TB
-        T1["盲目套用旧脚本与历史模板<br/>强行让新现实削足适履迁就旧工具"]
-        T2["昔日解题能力异化为当下认知牢笼<br/>丧失在全新维度进行因果创造的感知力"]
-        T1 --> T2
-    end
-
-    subgraph S_Sovereignty["【分支 B：活态主权驾驭（当下抉择）】"]
-        direction TB
-        S1["立足当下时刻（t）的直接感知（+1）<br/>将历史工具视为随时可解构的消耗性耗材"]
-        S2["直面新摩擦，就地重构或果断溶解框架<br/>在持续的解构与重构中实现心智升维"]
-        S1 --> S2
-    end
-
-    D1 ===>|"路径依赖 ➔ 削足适履"| S_Trap
-    D1 ===>|"主权在握 ➔ 随时重构"| S_Sovereignty
-
-    style S_Origin fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_Drift fill:#161b22,stroke:#388bfd,stroke-width:1.5px,color:#388bfd
-    style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_Sovereignty fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style O1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style O2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style D1 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#f0f6fc
-    style T1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style T2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style S1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style S2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style S_Reversal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Gap fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Heavier fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Yield fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Anchor fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Atrophy fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The peril of abdicating agency does not occur solely when adopting third-party tools or external frameworks; it arises even more insidiously when relying on tools and workflows built by *one's own past self*. Any seasoned practitioner naturally crystallizes hard-won insights into shared libraries, automated scripts, structured prompt suites, and custom multi-agent workflows. At the exact historical moment of their creation, these artifacts represent precise, living causal responses to specific physical frictions—they are brilliantly effective scaffolding. Handing the driver's seat to process dilutes the causal loop, as [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) traces in peer review.
-
-Yet time moves forward, and causal topology evolves. When the practitioner encounters fresh problems across new dimensions, retreating into past workflows and unthinkingly surrendering the causal gavel to yesterday's scripts causes those very capabilities to instantly freeze into cognitive ceilings. As demonstrated in [Coordinates in Flux, Negation and Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/) and [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/), living reality unfolds through irreversible causal succession; there is no static master blueprint. Yesterday's best practice was merely a local optimal projection under yesterday's constraints; applying it blindly today is an evasion of immediate reality.
-
-This is the subtle trap of "self-toolification": humans easily fall in love with their past intellectual creations, reifying temporary scaffolding into sacred dogma. When a user stops using direct first-person awareness (+1) to interrogate and dismantle their own tooling, demanding instead that living reality conform to the input schema of old scripts, the user has become a prisoner of their own residual sediment. Only by treating all artifacts—including yesterday's proudest masterpiece—as disposable, ephemeral scaffolding can the practitioner break free and command sovereign creativity in the living present (moment t).
-
----
-
-## 三、 惊艳的错位与母体误归因：心智跃迁的真正归宿 / 3. The Misplaced Surprise and the Master Misattribution: The True Locus of Cognitive Leaps
-
-在深度使用AI智能体的实践中，存在一个极其引人注目的心理学与认识论现象。当一名工程师或学者不再将大模型作为简单的问答玩具，而是长期占据驾驶位，构建起包含深度反思、动态调用、代码验证与多智能体博弈的复杂认知系统时，整体任务的完成质量与演进速度会达到前所未有的惊人高度。面对数百个精巧落地的复杂工程、数万行高质量代码的重构与深邃哲理文章的严密推演，旁观者乃至使用者自身都会由衷地惊呼：“看！这个AI智能体系统拥有多么不可思议的智慧与创造力！”
-
-然而，这正是当代技术叙事中最为普遍的“母体误归因”（Master Misattribution）。真正值得惊艳的，决不是智能体底座那数千亿浮点参数在矩阵运算中展现出的统计模式匹配能力；真正发生深刻质变与跃迁的，是**那位始终占据在驾驶位上、以极高专注度进行意图压缩、边界划定与结果校准的人类使用者自身**！
-
-为什么高强度、主权在握的智能体驾驭会引爆人类心智的剧烈进化？
-1. **意图压缩与形式化表达的极端训练**：与智能体协同迫使人类使用者必须将模糊的直觉迅速提纯为清晰、无歧义的因果约束条件。这种高频训练极大强化了心智对概念拓扑的高维把握能力；
-2. **从微观搬砖到宏观架构的视角升维**：由于具体的符号搬运与格式填充被高通量数学工具所承接，人类驾驶员被倒逼必须将全部注意力投射至顶层架构、因果接口与系统动力学平衡之上，从而在极短时间内完成了系统级认知升维；
-3. **高频活态摩擦带来的认知校准**：智能体每一次在边界上的推演破缺与逻辑幻觉，都成为了倒逼人类驾驶员深入事物底层机制、洞察更深层因果不变性的高压磨刀石。在医疗中，同样的倒置让规程坐上驾驶位，压下了病人自身的因果回路，[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)说明了这一点。
-
-智能体是一面高保真的数学透镜与认知放大器。它本身没有意识，没有审美，没有主权抉择。它所反射出的一切惊艳光芒，源头皆来自那位坐在驾驶位上、不断注入自由变量的人类心智。但由于把自身不可思议的创造力量外化为神像、图腾与外在奇迹的习惯由来已久，观察者再一次陷入了将“使用者的认知进化”错误归因于“机器拥有独立智能”的认识论迷梦。这一误归因还有失败一侧的镜像：当模型在评测中走出设计者没有料到的路径，设计者自身的漏算被算作机器的高明；[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)说明，那份惊讶登记的是设计者没有画出的区分。
+After the driver's seat is given up, capability reverses. The user no longer meets the friction of reality directly and receives signals already filtered by the harness, so the boundary of perception is anchored to the logic written into the tool, and anything outside the preset patterns is ruled an anomaly by the safety mechanism and stopped. The stronger the tool and the higher the degree of automation, the longer the time away from the contact surface, the faster the feel for tracing edge failures fades, and the harder an unforeseen failure is to handle.
 
 ```mermaid
-graph TD
-    subgraph S_HumanDriver["【真实源头：人类驾驶员的心智进化】"]
+flowchart TD
+    subgraph S_Reversal["The Reversal After the Driver's Seat Is Given Up"]
         direction TB
-        H1["人类驾驶员占据驾驶位（+1 注入自由变量）"]
-        H2["高频意图提纯：将模糊直觉淬炼为精确因果约束<br/>视角升维：注意力从微观搬砖跃迁至系统拓扑动力学<br/>对抗校准：借由模型边界破缺反向深化底层洞察"]
-        H1 --> H2
+        Gap["A model's probabilistic inference opens gaps in deterministic contracts"]
+        Heavier["The harness is reinforced and expected to carry the judgment"]
+        Yield["The first-person driver's seat is given up"]
+        Anchor["The boundary of perception is anchored to logic written into the tool"]
+        Atrophy["Away from the contact surface, the feel for tracing failures fades"]
+        Gap --> Heavier
+        Heavier --> Yield
+        Yield --> Anchor
+        Anchor --> Atrophy
     end
 
-    subgraph S_MathMirror["【放大介质：高通量数学透镜】"]
-        direction TB
-        M1["大语言模型与智能体集群<br/>（条件概率采样流形，无独立主观意识）"]
-        M2["功能：高保真反射并倍增驾驶员的心智清晰度<br/>将高维意图极速编译为海量高质量工程实现"]
-        M1 --> M2
-    end
-
-    subgraph S_Misattribution["【认知迷误：母体误归因的颠倒】"]
-        direction TB
-        E1["惊艳的高质量复杂系统与深度产出"]
-        E2["公众与开发者的错觉：‘AI智能体拥有超凡智慧！’<br/>范畴错误：将镜面反射的辉煌当成机器自身的发光"]
-        E1 --> E2
-    end
-
-    H2 ==>|"注入主权意志与因果约束"| M1
-    M2 ==>|"倍增产出"| E1
-    E2 -.->|"倒因为果：误将进化归功于工具"| M1
-
-    style S_HumanDriver fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style S_MathMirror fill:#161b22,stroke:#388bfd,stroke-width:1.5px,color:#388bfd
-    style S_Misattribution fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style H1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style H2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style M1 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#f0f6fc
-    style M2 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#f0f6fc
-    style E1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style E2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style S_Reversal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Gap fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Heavier fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Yield fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Anchor fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Atrophy fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-In the intensive practice of orchestrating AI agents, a striking psychological and epistemological phenomenon regularly occurs. When an engineer or thinker stops treating large models as basic query toys and instead occupies the driver's seat over months and years—building complex cognitive loops of reflection, dynamic tool dispatch, deterministic verification, and multi-agent coordination—the overall velocity and qualitative depth of their output reaches staggering heights. Witnessing hundreds of intricate systems deployed, tens of thousands of lines of pristine code refactored, and rigorous philosophical treatises synthesized, both spectators and practitioners alike exclaim: "Look at how extraordinarily intelligent and capable this AI Agent system is!"
+## 二、 过去的自己造的工具 / 2. Tools Built by One's Past Self
 
-Yet this is the grand "Master Misattribution" of our era. What is genuinely astonishing is never the statistical pattern-matching capacity resident within billions of floating-point parameters; what has undergone an explosive, authentic phase shift is **the human user who remained firmly in the driver's seat, compressing intent, defining boundary constraints, and executing unrelenting causal calibration**!
+让出驾驶位的事，不只发生在使用他人的工具或外部的框架时，也发生在使用过去的自己造的工具与规则时，而且更不易察觉。有经验的实践者会在解题的过程中把方法沉淀为代码库、自动化脚本、提示词模板或自己的智能体工作流。这些工具在诞生的那一刻，是直面摩擦时作出的准确回应，是有效的脚手架。把驾驶座交给流程，便稀释了因果闭环，[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)在同行审查中追溯了这一点。
 
-Why does intensive, sovereign agent stewardship unleash such a profound leap in human cognitive capacity?
-1. **Intense Distillation of Intent and Constraint**: Collaborating with agents forces the human pilot to rapidly refine vague intuitive notions into razor-sharp, unambiguous causal conditions. This high-frequency discipline dramatically expands the mind's grasp over high-dimensional conceptual topologies;
-2. **Ascending from Micro-Syntax to Macro-Dynamics**: Because mechanical symbol-pushing and boilerplate assembly are absorbed by high-throughput mathematics, the human driver is compelled to direct 100% of their conscious attention to top-level architecture, causal interfaces, and system equilibrium;
-3. **Rigorous Calibration via Dynamic Friction**: Every hallucination and edge breakdown of the model serves as a high-pressure whetstone, forcing the human pilot to penetrate deeper into the ground truth of physical systems to discover invariant principles. In medicine the same inversion turns the protocol into the driver and silences the patient's own causal loop, as [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/) shows.
+Giving up the driver's seat does not happen only when using other people's tools or outside frameworks; it also happens, and is harder to notice, when using tools and rules built by one's own past self. An experienced practitioner settles methods, in the course of solving problems, into code libraries, automation scripts, prompt templates or agent workflows of their own. At the moment such tools are born they are accurate responses made while facing friction, and effective scaffolding. Handing the driver's seat to process dilutes the causal loop, as [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) traces in peer review.
 
-The AI agent is a high-fidelity mathematical mirror and cognitive lever. It possesses no consciousness, no aesthetic taste, and zero capacity for sovereign choice. Every brilliant beam of light it projects originates entirely from the conscious human mind in the driver's seat injecting continuous free variables into reality. Yet because the habit of externalizing one's own astonishing creative power onto idols, statues, and external deities runs deep, the observer once again succumbs to the ancient illusion: misattributing the user's sovereign awakening to the magic of the machine. The misattribution has a mirror on the side of failure: when a model takes a path the designer did not foresee, the designer's own omission is credited as the machine's cleverness, and [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) shows that the surprise registers a distinction the designer never drew.
-
----
-
-## 四、 驾驶位的非对称性：被动托付的萎缩 vs 主动驾驭的跃迁 / 4. The Asymmetry of the Driver's Seat: Passive Surrender vs. Sovereign Amplification
-
-驾驶位的存在与否，决定了人与技术工具结合时截然分化的演化轨迹。面对相同的AI基础模型、相同参数规模的智能体和相同的控制框架，不同的使用者会走向截然相反的命运。这种分化并非源于技术本身的差异，而是源于使用者的第一人称姿态：是选择成为交出方向盘的“被动乘客”，还是选择成为紧握控制手柄的“主权驾驶员”。把挽具当成定律，重复了[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)在物理学中揭示的戏法。
-
-在 [个体的选择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) 中确立的核心定律在此展现得淋漓尽致：
-
-- **被动托付者（乘客轨迹）**：
-  - **交互模式**：将思考、判断与架构权整体“外包”给智能体，盲目相信框架和默认配置能够自动交付正确方案；
-  - **反馈回路**：脱离了接触面的真实物理摩擦，对模型生成的代码和文本缺乏底层理解，沦为“一键接受”的点击工人；
-  - **演化终局**：个人技能迅速萎缩，失去排查复杂边缘故障的断裂点感知能力；产出的系统充满臃肿脆弱的冗余，最终在多主体世界的激烈碰撞中沦为被他人校准的客体误差项。
-
-- **主动驾驭者（驾驶员轨迹）**：
-  - **交互模式**：始终牢牢占据第一人称驾驶位，将智能体视为高速执行肌肉与思维对弈的沙袋，保留全部的因果裁决权与方向掌控力；
-  - **反馈回路**：在每一次提示、每一次代码执行与每一次运行时报错中，主动迎战真实摩擦，利用模型的即时响应不断校准和深化自身的心智模型；
-  - **演化终局**：因果吞吐量获得百倍乃至千倍的几何级放大；心智不仅没有退化，反而在高维复杂系统的驾驭中锤炼出洞察底层不变模式的敏锐直觉，成为真正主导现实演化的主权造物者。
-
-这种非对称性揭示了技术的冷峻真相：AI智能体不会自动带来平等的赋能，它是一台直接的主权放大器。它放大了主动驾驭者的创造力，同时也加速了被动托付者的认知萎缩。
+时间推移，情境也在移动。面对新的摩擦时，若习惯地退回旧的脚本与模板，不加审视地把当前情境的裁决交给它们，昔日的能力便成了今天的天花板。[坐标沉浮、否定与自我锚定](../coordinates-in-flux-negation-and-self-anchoring/)与[思想的向量化与坐标系的重构](../the-mind-as-vector-and-coordinate-system/)说明，所遇到的现实在不可逆的因果演进中持续展开，没有一劳永逸的静态解。昨天的最佳实践是昨天的边界条件下的局部最优，边界条件迁移之后照搬旧工具，是在回避当下。
 
 ```mermaid
-graph TD
-    subgraph S_Input["【相同的前提条件】"]
+flowchart TD
+    subgraph S_Past["过去的工具遇到新的摩擦"]
         direction TB
-        U0["相同的基础大模型 · 相同的智能体工具链 · 相同的控制框架"]
+        Made["过去的时刻：直面摩擦时造出的脚本、模板与工作流"]
+        Shift["边界条件迁移，出现新的摩擦"]
+        Reuse["不加审视地照搬：让新的情境迁就旧的输入格式"]
+        Ceiling["昔日的能力成为今天的天花板"]
+        Review["从当下的直接感知出发重新审视 +1"]
+        Rebuild["就地重构，或拆掉这段脚手架"]
+        Made --> Shift
+        Shift --> Reuse
+        Reuse --> Ceiling
+        Shift --> Review
+        Review --> Rebuild
     end
 
-    subgraph S_Passive["【乘客分支：被动让渡（技能萎缩）】"]
-        direction TB
-        P1["将决策与架构权外包给智能体<br/>盲目相信自动化配置能保证正确"]
-        P2["脱离接触面物理摩擦<br/>对生成结果缺乏底层因果理解"]
-        P3["认知钝化与技能萎缩<br/>丧失排查复杂边缘故障的断裂点感知"]
-        P4["终局：沦为他人主权下的客体误差项"]
-        P1 --> P2 --> P3 --> P4
-    end
-
-    subgraph S_Active["【驾驶员分支：主权驾驭（千倍跃迁）】"]
-        direction TB
-        A1["紧握驾驶手柄<br/>100% 承担每一道指令与运行结果的因果责任"]
-        A2["将智能体作为思维对弈沙袋与执行肌肉<br/>在每一次报错与破缺中主动迎战活态摩擦"]
-        A3["心智模型持续升维<br/>锤炼出洞察底层不变模式的高维敏锐直觉"]
-        A4["终局：因果吞吐量千倍跃迁，成为主权造物者"]
-        A1 --> A2 --> A3 --> A4
-    end
-
-    S_Input ===>|"让渡主权 ➔ 逃避责任"| S_Passive
-    S_Input ===>|"占据驾驶位 ➔ 行使抉择"| S_Active
-
-    style S_Input fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_Passive fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_Active fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style U0 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style P1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style P2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style P3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style P4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style A1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style A2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style A3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style A4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style S_Past fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Made fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Shift fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Reuse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Ceiling fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Review fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Rebuild fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The presence or absence of the driver's seat dictates two completely divergent evolutionary destinies when humans merge with technological tools. Confronted with identical foundational models, identical agent architectures, and identical harnesses, different users diverge into radically opposite futures. This divergence is not generated by the technology; it is born from the user's first-person stance: whether they choose to be a "passive passenger" abdicating the wheel, or a "sovereign driver" gripping the control reticle. Treating the harness as law repeats the sleight of hand [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) exposes in physics.
-
-As established in [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [No Universal Salvation, Only Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/), the bifurcation is absolute:
-
-- **The Passive Surrenderer (The Passenger Trajectory)**:
-  - **Interaction Mode**: Outsources thinking, architectural discernment, and validation to the agent, assuming the harness and automated pipelines will magically guarantee correctness;
-  - **Feedback Loop**: Decouples from the raw friction of physical contact surfaces; lacks foundational comprehension of generated code and text, degenerating into a passive click-worker;
-  - **Evolutionary End**: Rapid cognitive and technical atrophy; total loss of intuitive boundary sensing for edge failures; architecture becomes bloated and fragile, culminating in the user becoming an objectified error term calibrated away in multi-agent reality.
-
-- **The Sovereign Driver (The Pilot Trajectory)**:
-  - **Interaction Mode**: Firmly occupies the first-person driver's seat; treats agents as high-speed execution muscles and cognitive sparring partners, reserving 100% of the causal gavel and directional intent;
-  - **Feedback Loop**: Engages raw friction in every prompt, every test execution, and every runtime traceback, using the model's immediate responsiveness to continuously refine and expand their internal mental models;
-  - **Evolutionary End**: Causal throughput is multiplied by 100x to 1000x; the mind, far from atrophying, develops profound structural intuition for high-dimensional complexity, establishing the practitioner as an authentic sovereign creator.
-
-This asymmetry reveals the unforgiving nature of technology: AI agents do not automatically democratize capability; they are raw sovereign amplifiers. They magnify the generative power of active pilots, while accelerating the cognitive obsolescence of passive passengers.
-
----
-
-## 五、 重新定义“框架”：重构作为主权延伸的活态脚手架 / 5. Redefining the Harness: Reclaiming Living Scaffolding as an Extension of Sovereignty
-
-当我们消解了对工具的神化，看清了母体误归因的认知迷障，我们便能够以极其清醒与务实的姿态，重新定义软件工程与智能体系统中的“控制框架”。
-
-框架从来不是一套用来代替人类思考的独立机器，也不是试图为数学矩阵植入虚妄道德的伦理锁链。**真正的框架，是主权心智为了将自身意图精准投影至现实接触面，而在当下时刻（t）主动编织、并在任务完成后可随时解构的活态脚手架。**
-
-为了在AI时代避免沦为能力的囚徒，每一个构建者与实践者应当遵循以下四条核心主权法则：
-
-1. **不可转让的因果原点法则**：永远不要把二元抉择的裁决权（+1）让渡给任何智能体或自动化调度器。提示词是你意志的表达，代码执行是你指令的延伸，运行结果是你必须承担的责任。智能体是你的认知副驾，而驾驶位永远不可空置；
-2. **脚手架的瞬态消耗法则**：将所有的框架、规则、测试套件与工作流视为临时性的消耗性耗材。任何工具（包括你过去自我打造的得意之作），只要在面对新的活态摩擦时产生了认知阻碍，就必须毫不留恋地就地重构或果断溶解；
-3. **破除神坛的镜面认知法则**：永远记住，大模型只是高维统计参数的镜面反射，一切令人惊叹的系统产出，其背后的真正智慧与创造力直接源自你在驾驶位上的心智进化。拒绝将自身的能力跃迁误归因为对工具的崇拜；
-4. **活态摩擦的对抗进化法则**：不要试图追求消除摩擦的“无痛自动化”。真正的技能跃迁永远发生在与编译器报错、系统边界失效和模型推演破缺的硬碰硬对抗之中。把每一次工具的失误当成淬炼自身心智模型的高维磨刀石。
-
-框架的倒置，始于主体性的自我遗忘；主权的复归，立足于第一人称当下的清醒抉择。握紧你的控制手柄，在活态摩擦的现实世界中，行使独属于人类的造物力量！智能体框架赐予的自由，正是[“非中介化”的幻象](../the-illusion-of-the-unmediated/)所剖析的被赐予的自由。
+Time passes and the situation moves with it. When, facing new friction, one retreats by habit to old scripts and templates and hands them the ruling on the present situation without examination, yesterday's capability becomes today's ceiling. [Coordinates in Flux, Negation and Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/) and [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) show that the reality one meets keeps unfolding in irreversible causal succession, with no static solution that settles things once and for all. Yesterday's best practice is a local optimum under yesterday's boundary conditions, and copying the old tool after those conditions have moved is a way of avoiding the present.
 
 ```mermaid
-graph TD
-    subgraph S_Principles["【主权驾驭者的四项核心法则】"]
+flowchart TD
+    subgraph S_Past["A Past Tool Meets New Friction"]
         direction TB
-        P1["1. 因果原点不可转让<br/>永不空置驾驶位，对输出承担完整因果闭环"]
-        P2["2. 脚手架的瞬态消耗<br/>随时解构并重写过时的规则、框架与工作流"]
-        P3["3. 破除镜面神话<br/>洞见系统级跃迁源于驾驶员心智而非机器神力"]
-        P4["4. 直面活态摩擦<br/>将每一次系统破缺与报错作为心智进化的磨刀石"]
-        P1 --> P2 --> P3 --> P4
+        Made["A past moment: scripts, templates and workflows built while facing friction"]
+        Shift["Boundary conditions move and new friction appears"]
+        Reuse["Copied without examination: the new situation is bent to the old input format"]
+        Ceiling["Yesterday's capability becomes today's ceiling"]
+        Review["Re-examined from direct perception in the present +1"]
+        Rebuild["Rebuilt on the spot, or this stretch of scaffolding is taken down"]
+        Made --> Shift
+        Shift --> Reuse
+        Reuse --> Ceiling
+        Shift --> Review
+        Review --> Rebuild
     end
 
-    subgraph S_LivingLoop["【活态闭环：主权延伸系统架构】"]
-        direction TB
-        L1["第一人称主权心智<br/>（意识与意图源头）"]
-        L2["活态控制框架<br/>（动态可塑的交互与验证脚手架）"]
-        L3["AI 智能体集群<br/>（高通量数学模拟与执行肌肉）"]
-        L4["真实物理与业务接触面<br/>（受活态摩擦支配的因果现实）"]
-        L1 ==>|"直接掌控"| L2
-        L2 ==>|"精准调度"| L3
-        L3 ==>|"产生物理介入"| L4
-        L4 -.->|"活态真实反馈校准"| L1
-    end
-
-    S_Principles ===>|"指导与规范"| S_LivingLoop
-
-    style S_Principles fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_LivingLoop fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style P1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style P2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style P3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style P4 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style L1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style L2 fill:#0d1117,stroke:#388bfd,stroke-width:1px,color:#f0f6fc
-    style L3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style L4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style S_Past fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Made fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Shift fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Reuse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Ceiling fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Review fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Rebuild fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Once we dissolve the idolization of tools and penetrate the fog of the master misattribution, we can redefine the "harness" in software engineering and artificial intelligence with radical lucidity.
+对自己过去的成果容易生出执着，把临时的脚手架当成不可动的定则。当工具不再按当下的直接感知（+1）被重新审视与改造，反而要求新的情境去迁就旧工具的输入格式时，使用者便被自己的历史留下的东西困住了。一切人造物，包括昨天的得意之作，都是可以随时拆掉重建的耗材，记得这一点，便能在当下的时刻重新握住创造。
 
-A harness is never an autonomous mechanism built to think in place of humans, nor is it an ethical chain designed to graft artificial morality onto matrix mathematics. **An authentic harness is a living, disposable scaffolding woven by the sovereign mind at moment t to project conscious intentionality into physical reality—built to be dismantled the moment the task is complete.**
+It is easy to grow attached to one's own past results and to treat temporary scaffolding as fixed rule. When a tool is no longer re-examined and reworked from direct perception in the present (+1), and the new situation is instead required to fit the old tool's input format, the user is held by what their own history left behind. Every artifact, yesterday's proudest piece included, is a consumable that can be taken down and rebuilt at any time; with that kept in mind, creation can be taken hold of again in the present moment.
 
-To avoid falling into the capability trap in the age of AI, every engineer, builder, and thinker must abide by four foundational sovereign rules:
+## 三、 惊艳记在了谁的名下 / 3. To Whom the Astonishment Is Credited
 
-1. **The Inalienable Causal Origin**: Never surrender the final binary choice (+1) to any autonomous agent or orchestration pipeline. The prompt is the articulation of your will; the code execution is the extension of your command; the downstream outcome is your direct causal responsibility. The agent is your high-speed co-pilot, but the driver's seat must never be vacated;
-2. **The Ephemeral Scaffolding Law**: Treat all frameworks, rules, test suites, and workflows as temporary, consumable scaffolding. Any tool—including the crowning achievement of your own past self—must be ruthlessly refactored or dissolved the instant it creates friction against fresh reality;
-3. **The Mirror Demarcation Law**: Always remember that large models are high-dimensional statistical mirrors; the breathtaking brilliance of a complex delivery belongs entirely to the cognitive leap of the human pilot in the driver's seat. Refuse to misattribute your personal mental elevation to the worship of an artifact;
-4. **The Friction Evolution Law**: Never chase frictionless, zero-pain automation. True evolutionary leaps occur exclusively when engaging head-on with compiler errors, edge failures, and model breakdowns. Treat every tool limitation as a high-pressure whetstone to sharpen your internal mental models.
+深度使用智能体的实践中有一个引人注意的现象。当一位工程师或学者不再把大模型当作问答的玩具，而是长期坐在驾驶位上，搭起包含反思、动态调用、代码验证与多智能体协同的系统时，任务完成的质量与推进的速度会升到此前未有的高度。面对一个个落地的复杂工程、大规模的代码重构与推演严密的长文，旁观者与使用者自己都会说：这个智能体系统多么聪明。
 
-The inversion of the harness begins with the self-inflicted forgetting of agency; the restoration of sovereignty begins with the conscious, first-person choice in the living present. Grip your steering controls, embrace the friction of reality, and wield the sovereign power of creation that belongs to human consciousness alone! The freedom an agent framework bestows is the bestowed freedom [The Illusion of the Unmediated](../the-illusion-of-the-unmediated/) anatomizes.
+In the practice of using agents in depth there is a striking phenomenon. When an engineer or scholar stops treating a large model as a question-and-answer toy and stays in the driver's seat for a long time, building systems that include reflection, dynamic tool calls, code verification and coordination among several agents, the quality of completed work and the speed of progress rise to a height not reached before. Faced with one complex project after another delivered, large-scale refactoring of code and long essays with rigorous reasoning, onlookers and the user alike say: how clever this agent system is.
+
+这句话把归因放错了位置。模型的参数在矩阵运算中展现的模式匹配能力是有用的，发生质变的地方却在别处：在那个持续压缩意图、划定边界、校准结果的驾驶者自己的心智模型上。与智能体协作，迫使模糊的直觉被提纯为清晰无歧义的因果约束，这种高频的练习加深了对概念结构的把握。具体的符号搬运与格式填充由工具承接之后，注意力被推向顶层的架构、因果的接口与系统的平衡，视角在很短的时间里上移。智能体每一次在边界上的推演失效与幻觉，又把驾驶者逼向事物的底层机制，去找更深一层的不变性。在医疗中，同样的倒置让规程坐上驾驶位，压下了病人自身的因果回路，[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)说明了这一点。
+
+```mermaid
+flowchart TD
+    subgraph S_Credit["跃迁发生之处与被记功之处"]
+        direction TB
+        Driver["驾驶位上的心智：持续注入新的区分 +1"]
+        Grow["压缩意图、上移视角、在模型的失效处校准"]
+        Mirror["模型与智能体：反射并倍增驾驶者的清晰度"]
+        Output["高质量的复杂产出"]
+        Credit["被记在智能体名下：把镜中的光当作镜子自己的光"]
+        Driver --> Grow
+        Grow --> Mirror
+        Mirror --> Output
+        Output --> Credit
+    end
+
+    style S_Credit fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Driver fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Grow fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Mirror fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Output fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Credit fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+That sentence puts the credit in the wrong place. The pattern-matching capacity that a model's parameters show in matrix arithmetic is useful, but the change in kind happens elsewhere: in the mental model of the driver who keeps compressing intent, drawing boundaries and calibrating results. Working with agents forces vague intuition to be refined into clear, unambiguous causal constraints, and this high-frequency practice deepens the grasp of conceptual structure. With the concrete moving of symbols and filling of formats taken over by the tool, attention is pushed toward top-level architecture, causal interfaces and the balance of the system, and the point of view moves up in a very short time. Each failure of inference and each hallucination of the agent at a boundary in turn presses the driver toward the underlying mechanism of things, in search of an invariance one layer deeper. In medicine the same inversion turns the protocol into the driver and silences the patient's own causal loop, as [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/) shows.
+
+```mermaid
+flowchart TD
+    subgraph S_Credit["Where the Leap Happens and Where It Is Credited"]
+        direction TB
+        Driver["The Mind in the driver's seat: new distinctions injected continually +1"]
+        Grow["Compressing intent, raising the point of view, calibrating where the model fails"]
+        Mirror["Model and agents: reflecting and multiplying the driver's clarity"]
+        Output["Complex output of high quality"]
+        Credit["Credited to the agent: light in the mirror taken as the mirror's own"]
+        Driver --> Grow
+        Grow --> Mirror
+        Mirror --> Output
+        Output --> Credit
+    end
+
+    style S_Credit fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Driver fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Grow fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Mirror fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Output fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Credit fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+智能体在这里是一面高保真的透镜与放大器。[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)与[工具的幻觉与时间的倒置](../the-illusion-of-the-tool-and-the-inversion-of-time/)追溯过这一点：人造物是抉择留下的历史印记，向现实注入新的自由变量的，是驾驶位上正在作出的那个动作。把自己的创造力外化为神像、图腾与外在的奇迹，是由来已久的习惯，使用者的认知进化于是被读成机器拥有独立的智能。这一误归因在失败的一侧有它的镜像：模型在评测中走出设计者没有料到的路径时，设计者自己的漏算被算作机器的高明，[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)说明，那份惊讶登记的是设计者没有画出的区分。
+
+The agent here is a high-fidelity lens and amplifier. [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/) and [The Illusion of the Tool and the Inversion of Time](../the-illusion-of-the-tool-and-the-inversion-of-time/) have traced this: an artifact is the historical imprint left by choices, and what injects a new free variable into reality is the act being made in the driver's seat. Turning one's own creative power outward into idols, totems and external miracles is a long-standing habit, and so the user's cognitive growth is read as the machine having an intelligence of its own. The misattribution has a mirror on the side of failure: when a model takes a path in an evaluation that the designer did not foresee, the designer's own omission is counted as the machine's cleverness, and [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) shows that the surprise registers a distinction the designer never drew.
+
+## 四、 驾驶位的非对称 / 4. The Asymmetry of the Driver's Seat
+
+面对相同的基础模型、相同的智能体工具链与相同的控制框架，使用的结果可以走向相反的方向。分别不在技术上，而在第一人称的姿态上：方向盘是交了出去，还是握在手里。同一个人可以在一件事上握住，在另一件事上交出，这里比较的是两种姿态，不是两种人。把框架当成定律，重复了[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)在物理学中揭示的戏法。
+
+With the same foundation model, the same agent toolchain and the same harness, the results of use can run in opposite directions. The difference is not in the technology but in the first-person stance: whether the wheel has been handed over or is held. The same person can hold it in one matter and hand it over in another; what is compared here is two stances, not two kinds of people. Treating the harness as law repeats the sleight of hand [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) exposes in physics.
+
+交出方向盘时，思考、判断与架构被整体托付给智能体，并相信框架与默认配置会自动交付正确的方案。反馈的回路于是离开了接触面的摩擦，对生成的代码与文本缺少底层的理解，剩下的是逐次点击接受。这样下去，技能退化，排查复杂边缘故障的感知变钝，系统里堆起臃肿而脆弱的冗余，在与别人的系统碰撞时，只能由对方来校准。
+
+When the wheel is handed over, thinking, judging and architecture are entrusted wholesale to the agent, in the belief that the harness and the default configuration will deliver the right solution by themselves. The feedback loop then leaves the friction of the contact surface, the generated code and text are not understood at the underlying level, and what remains is clicking accept, one time after another. Carried on, this erodes skill, dulls the sense for tracing complex edge failures, and piles bloated, fragile redundancy into the system, which in collision with other people's systems can only be calibrated by the other side.
+
+握住方向盘时，智能体被当作高速执行的肌肉与思维对练的对手，裁决与方向留在驾驶位上。每一次提示、每一次代码执行与每一次运行时的报错都是迎上去的摩擦，模型的即时回应被用来校准并加深自己的心智模型。这样下去，因果的吞吐量成倍放大，对复杂系统中不变模式的直觉在驾驭中磨出来。[个体的选择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)所说的，在这里看得很清楚：智能体不自动带来均等的赋能，它放大的是握着方向盘的那个姿态，也加快了交出方向盘之后的退化。
+
+```mermaid
+flowchart TD
+    subgraph S_Seat["相同的工具，两种姿态"]
+        direction TB
+        Same["相同的模型、工具链与框架"]
+        Hand["交出方向盘：判断与架构整体托付"]
+        Off["离开接触面的摩擦，逐次点击接受"]
+        Fade["技能退化，系统只能由别人校准"]
+        Hold["握住方向盘：裁决与方向留在驾驶位"]
+        Meet["迎上每一次报错与失效的摩擦"]
+        Deepen["心智模型加深，因果吞吐量放大"]
+        Same --> Hand
+        Hand --> Off
+        Off --> Fade
+        Same --> Hold
+        Hold --> Meet
+        Meet --> Deepen
+    end
+
+    style S_Seat fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Same fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Hand fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Off fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Fade fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Hold fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Meet fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Deepen fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+When the wheel is held, the agent is treated as muscle for fast execution and as a sparring partner for thought, and the ruling and the direction stay in the driver's seat. Every prompt, every execution of code and every runtime error is friction that is met head-on, and the model's immediate response is used to calibrate and deepen one's own mental model. Carried on, this multiplies causal throughput, and an intuition for the invariant patterns in complex systems is ground out in the driving. What [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [No Universal Salvation, Only Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) say is plain to see here: an agent does not automatically bring equal empowerment; it amplifies the stance of holding the wheel, and it also speeds the decline that follows handing the wheel over.
+
+```mermaid
+flowchart TD
+    subgraph S_Seat["The Same Tools, Two Stances"]
+        direction TB
+        Same["The same model, toolchain and harness"]
+        Hand["Wheel handed over: judgment and architecture entrusted wholesale"]
+        Off["Away from the friction of the contact surface, clicking accept"]
+        Fade["Skill erodes and the system can only be calibrated by others"]
+        Hold["Wheel held: ruling and direction stay in the driver's seat"]
+        Meet["The friction of every error and failure is met head-on"]
+        Deepen["The mental model deepens and causal throughput grows"]
+        Same --> Hand
+        Hand --> Off
+        Off --> Fade
+        Same --> Hold
+        Hold --> Meet
+        Meet --> Deepen
+    end
+
+    style S_Seat fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Same fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Hand fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Off fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Fade fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Hold fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Meet fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Deepen fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+## 五、 作为活的脚手架的框架 / 5. The Harness as Living Scaffolding
+
+看清了归因落在何处，控制框架便可以重新界定。框架不是一套代替思考的独立机器，也不是给矩阵运算套上的伦理锁链。它是心智为了把意图准确地投到现实的接触面上，在当下的时刻编出来、任务完成后可以随时拆掉的活的脚手架。
+
+With it clear where the credit falls, the harness can be defined anew. A harness is not an independent machine that thinks in one's place, nor an ethical chain fastened onto matrix arithmetic. It is living scaffolding that a Mind weaves in the present moment in order to cast its intent accurately onto the contact surface of reality, and that can be taken down at any time once the task is done.
+
+从驾驶位上看，有四件事成立。因果的原点不可转让：提示是意图的表达，代码的执行是指令的延伸，运行的结果由驾驶者承担，智能体是副驾，驾驶位不空置。脚手架是耗材：框架、规则、测试套件与工作流，包括过去的自己的得意之作，一旦在新的摩擦前成了阻碍，就地重构或拆掉。模型是镜面：令人惊叹的产出背后是驾驶位上的心智进化，这份跃迁不必记到工具的名下。摩擦是校准发生的地方：技能的跃迁发生在与编译器的报错、系统边界的失效和模型推演的破缺相碰的时候，消除摩擦的无痛自动化也一并消除了它。
+
+```mermaid
+flowchart TD
+    subgraph S_Loop["作为主权延伸的活的回路"]
+        direction TB
+        Mind["第一人称的心智：意图与裁决的原点 +1"]
+        Harness["活的框架：可随时重构与拆除的脚手架"]
+        Agents["智能体：高通量的执行"]
+        Surface["现实的接触面：摩擦"]
+        Mind --> Harness
+        Harness --> Agents
+        Agents --> Surface
+        Surface --> Mind
+    end
+
+    style S_Loop fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Harness fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Agents fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Surface fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+From the driver's seat four things hold. The causal origin is not transferable: the prompt is the expression of intent, the execution of code is the extension of a command, the result of the run is borne by the driver, the agent is a co-pilot, and the driver's seat is not left empty. Scaffolding is consumable: frameworks, rules, test suites and workflows, the proudest work of one's past self included, are rebuilt on the spot or taken down once they become an obstacle before new friction. The model is a mirror: behind astonishing output is the growth of the Mind in the driver's seat, and that leap need not be entered under the tool's name. Friction is where calibration happens: leaps of skill take place in collision with compiler errors, failures at system boundaries and breakdowns of the model's inference, and painless automation that removes the friction removes them too.
+
+```mermaid
+flowchart TD
+    subgraph S_Loop["A Living Loop as the Extension of Sovereignty"]
+        direction TB
+        Mind["The first-person Mind: origin of intent and ruling +1"]
+        Harness["Living harness: scaffolding rebuilt or removed at any time"]
+        Agents["Agents: high-throughput execution"]
+        Surface["The contact surface of reality: friction"]
+        Mind --> Harness
+        Harness --> Agents
+        Agents --> Surface
+        Surface --> Mind
+    end
+
+    style S_Loop fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Harness fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Agents fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Surface fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+框架的倒置始于忘了驾驶位上有人，主权的复归立足于第一人称在当下作出的抉择。智能体框架所给的自由，是[“非中介化”的幻象](../the-illusion-of-the-unmediated/)所剖析的那种被给予的自由，握住方向盘时用到的那一种，不经谁给予。
+
+The inversion of the harness begins with forgetting that someone is in the driver's seat, and the return of sovereignty rests on the choice made in the first person in the present. The freedom an agent framework gives is the bestowed kind that [The Illusion of the Unmediated](../the-illusion-of-the-unmediated/) anatomizes; the kind in use when the wheel is held is given by no one.
