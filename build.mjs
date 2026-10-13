@@ -1630,7 +1630,7 @@ function renderPostMedia(post) {
   const first = pictures.find((p) => p.lang === 'en') ?? pictures[0];
   const figureHtml = pictures.length
     ? (page
-      ? `<figure class="infographic" data-infographic data-page="${page}" ${data(pictures, 'src')}>${videos.length ? '' : switchHtml}<div class="infographic-frame"><iframe src="${page}&amp;lang=en" title="Infographic: ${escapeHtml(post.title)}" loading="lazy" scrolling="no"></iframe></div><p class="meta media-links"><a data-info-open href="${page}&amp;lang=en" target="_blank" rel="noopener">放大 · Open full size</a></p><noscript><img src="${first.src}" alt="Infographic: ${escapeHtml(post.title)}" width="1600" height="1600"></noscript></figure>\n`
+      ? `<figure class="infographic" data-infographic data-page="${page}" ${data(pictures, 'src')}>${videos.length ? '' : switchHtml}<div class="infographic-frame"><iframe src="${page}&amp;lang=en" title="Infographic: ${escapeHtml(post.title)}" loading="lazy" scrolling="no"></iframe><button type="button" class="infographic-zoom" data-info-open aria-label="放大 · Zoom"></button></div><noscript><img src="${first.src}" alt="Infographic: ${escapeHtml(post.title)}" width="1600" height="1600"></noscript></figure>\n`
       : `<figure class="infographic" data-infographic ${data(pictures, 'src')}>${videos.length ? '' : switchHtml}<a href="${first.src}"><img src="${first.src}" alt="Infographic: ${escapeHtml(post.title)}" width="1600" height="1600" loading="lazy" decoding="async"></a></figure>\n`)
     : '';
   const at = post.htmlBody.search(/<h2[\s>]/);
@@ -1656,7 +1656,7 @@ function renderPostMedia(post) {
             if (video && video.getAttribute('data-playing')) play();
             if (live && keep && live.contentWindow) live.contentWindow.postMessage({ natLang: l }, location.origin);
             var page = figure && figure.getAttribute('data-page'), pane = figure && figure.querySelector('iframe');
-            if (page && pane) { if (pane.getAttribute('data-lang') !== l) { pane.setAttribute('data-lang', l); pane.src = page + '&lang=' + l; figure.querySelector('[data-info-open]').href = page + '&lang=' + l; } }
+            if (page && pane) { if (pane.getAttribute('data-lang') !== l) { pane.setAttribute('data-lang', l); pane.src = page + '&lang=' + l; } }
             else if (has(figure, l)) { figure.querySelector('img').src = has(figure, l); figure.querySelector('a').href = has(figure, l); }
             if (keep) { try { localStorage.setItem(KEY, l); } catch (e) {} }
           }
@@ -1664,7 +1664,24 @@ function renderPostMedia(post) {
           if (video) video.querySelector('.video-play').addEventListener('click', play);
           // The infographic page is laid out 1024 px square and scaled to the column, so its text stays text at any size.
           var holder = figure && figure.querySelector('.infographic-frame');
-          if (holder) { var fitPage = function () { holder.firstChild.style.transform = 'scale(' + holder.clientWidth / 1024 + ')'; }; new ResizeObserver(fitPage).observe(holder); fitPage(); }
+          if (holder) {
+            var fitPage = function () { holder.firstChild.style.transform = 'scale(' + holder.clientWidth / 1024 + ')'; };
+            new ResizeObserver(fitPage).observe(holder); fitPage();
+            // A press opens it large, in the same pop-up the flow charts use: ESC or a press outside closes it.
+            var modal = null, shut = function () { modal.classList.remove('open'); document.body.style.overflow = ''; modal.querySelector('.mermaid-modal-body').innerHTML = ''; };
+            figure.querySelector('[data-info-open]').addEventListener('click', function () {
+              if (!modal) {
+                modal = document.createElement('div'); modal.className = 'mermaid-modal';
+                modal.innerHTML = '<div class="mermaid-modal-backdrop"></div><div class="mermaid-modal-dialog"><div class="mermaid-modal-header"><span class="mermaid-modal-title">Infographic &middot; ESC or click outside to close</span><button class="mermaid-modal-close" aria-label="Close">&times;</button></div><div class="mermaid-modal-body"></div></div>';
+                document.body.appendChild(modal);
+                modal.querySelector('.mermaid-modal-close').addEventListener('click', shut); modal.querySelector('.mermaid-modal-backdrop').addEventListener('click', shut);
+                document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && modal.classList.contains('open')) shut(); });
+              }
+              var side = Math.floor(Math.min(innerWidth * 0.92 - 56, innerHeight * 0.76));
+              modal.querySelector('.mermaid-modal-body').innerHTML = '<div class="infographic-frame" style="width:' + side + 'px;flex:none;margin:0 auto"><iframe src="' + figure.getAttribute('data-page') + '&lang=' + lang + '" title="Infographic" scrolling="no" style="transform:scale(' + side / 1024 + ')"></iframe></div>';
+              modal.classList.add('open'); document.body.style.overflow = 'hidden';
+            });
+          }
           set(lang, false);
         })();
       </script>`;
