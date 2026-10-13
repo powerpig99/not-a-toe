@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T10:56:30.477Z",
+    "generated_at": "2026-10-13T11:02:27.319Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -198,7 +198,7 @@
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "57156f299c6b",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "c639024cd10a",
-      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "a9fbc250d388",
+      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b9b9695b351d",
       "content/posts/the-blind-spot-of-the-frame.md": "23484e369bf2",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "c3031deb99dc",
@@ -5377,7 +5377,7 @@
       "slug": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "path": "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md",
       "title": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe",
-      "hash": "a9fbc250d388",
+      "hash": "b9b9695b351d",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
@@ -26261,25 +26261,19 @@
       "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "to": "time-is-causality-not-a-dimension",
       "rel": "points_to",
-      "label": "时间是因果，不是维度"
+      "label": "时间是因果的不可逆方向与离散步长"
     },
     {
       "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "to": "time-is-causality-not-a-dimension",
       "rel": "points_to",
-      "label": "Time is Causality, Not a Dimension"
+      "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
     },
     {
       "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "“物理学才是定律”的障眼法"
-    },
-    {
-      "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
-      "to": "the-continuum-is-a-modeling-convenience",
-      "rel": "points_to",
-      "label": "连续统是建模的便利而非物理实在"
     },
     {
       "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
@@ -26291,7 +26285,13 @@
       "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "to": "the-continuum-is-a-modeling-convenience",
       "rel": "points_to",
-      "label": "The Continuum is a Modeling Convenience, Not Physical Reality"
+      "label": "连续性作为建模的权宜之计"
+    },
+    {
+      "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "The Continuum is a Modeling Convenience"
     },
     {
       "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",

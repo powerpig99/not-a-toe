@@ -2,363 +2,406 @@
 
 *物理学如何冻结现实电影并将投影命名为宇宙 / How Physics Froze the Movie of Reality and Named the Projection the Cosmos*
 
-现实是正在实时向前播放的高动态影像，物理学通过采集极短时间内的相邻帧并进行平滑平均，将这张高度稳定的平均帧当作封闭宇宙并脱色为黑白网格；正因这种不变性在局部即时成立，理论的局部预测才惊人准确，但将局部平均帧外推为四维永恒块，则犯下了现代地平说范畴倒错。
+所经验的现实像一部正在实时向前播放的高动态影像。物理学在极短的时间里采集相邻的几帧，平均成一张高度稳定的帧，把它设为封闭的宇宙，再脱色为黑白的网格。这种不变性在局部与即时的范围内成立，所以理论的局部预测极为准确。把这张局部的平均帧外推为四维的永恒块，则与把工地上的平地外推为整个大地是同一步。
 
-Reality is a continuous HDR movie advancing in real time. Physics collects its most adjacent frames over an infinitesimal window, averages them out into a stable composite frame, treats it as a closed universe, and desaturates it into an abstract black-and-white grid. Because this invariance holds in the immediate local region, its near-term forecasts are surprisingly accurate—yet extrapolating this time-averaged slice across cosmic infinity commits the modern Flat Earth category error.
+The reality experienced is like a high-dynamic-range film playing forward in real time. Physics collects a few adjacent frames within a very short time, averages them into one highly stable frame, sets it up as a closed universe and then desaturates it into a black-and-white grid. The invariance holds within what is local and immediate, which is why the theory's local predictions are extremely accurate. Extrapolating this local averaged frame into an eternal four-dimensional block is the same step as extrapolating the level ground of a building site to the whole Earth.
 
----
+## 一、 瞬时的不变与静态宇宙的诱惑 / 1. Momentary Invariance and the Pull of a Static Universe
 
-## 一、 瞬时不变性与静态宇宙的诱惑 / 1. The Illusion of Instantaneous Invariance and the Static Temptation
+在有限的观测视界之内，宇宙呈现出一种高度稳定的静止感。恒星在夜空里的位置似乎不动，行星沿既定的轨道周而复始，重力加速度在日常的尺度上保持平稳。任何仪器都要经过一段曝光才能捕获信号，物理学实际采集的是这部电影里最相邻的若干帧。这段时间极短，画面在相邻帧之间高度稳定，眼前的世界便自然被当作一个自足、封闭而孤立的平衡系统。
 
-在人类极为受限的观测视界内部，宇宙呈现出一种高度稳定的静止感。恒星在夜空中的位置似乎恒定不移，行星沿既定轨道周而复始，重力加速度在日常尺度下保持平稳。在微小的观测时间窗口（Δt 趋近于 0）内，任何实际的科学仪器都必须通过一定的曝光时间来捕获信号——物理学实际上采集的是现实电影中最相邻的若干帧。因为这段时间极其短暂，画面在相邻帧之间保持着高度的相对稳定，感知系统自然而然地将眼前的世界当作一个自足、封闭且孤立的平衡系统。
+Within a limited horizon of observation, the universe presents a highly stable sense of stillness. The stars seem not to move in the night sky, the planets go round on their set orbits, and gravitational acceleration stays steady at everyday scales. Every instrument needs a stretch of exposure to capture a signal, and what physics in fact collects are the most adjacent frames of this film. The time is very short, the picture is highly stable from one adjacent frame to the next, and the world before one's eyes is naturally taken for a self-sufficient, closed and isolated system in equilibrium.
 
-这种即时感知的局部不变性，诱发了理论物理学历史上最隐蔽的范畴跳跃：如果系统在局部微小时间段内表现得如同静态孤立系统，数学家便顺理成章地将真实的不可逆时间从方程中抽离。一旦排除了真实的因果流动，将现实截取为一个静态切片，任何数学维度的投影操作便都能在纸面上畅通无阻地展开。
+这种即时感知里的局部不变，引出一次范畴上的跳跃：系统既然在极短的时间里表现得像一个静态的孤立系统，不可逆的时间便被从方程里抽走。排除了因果的流动，把现实截成一张静态的切片之后，任何数学维度的投影都可以在纸面上顺畅地展开。
 
-这里还隐藏着一个深刻的心理学错觉：将扩展的视界倒错为预先存在的容器。一个婴儿刚出生时，其感知的世界仅限于母亲的怀抱与摇篮的方寸之间；随着身心发育、语言习得与行动半径的延伸，他所经验的世界在不可逆地向外拓展。整个人类文明的演进同样如此，从幽闭的洞穴到辽阔的大陆，从太阳系到百亿光年外的深空视界。
+This local invariance within immediate perception invites a leap of category: since the system behaves, over a very short time, like a static isolated system, irreversible time is drawn out of the equations. With the flow of causality excluded and reality cut into a static slice, projection into any mathematical dimension can proceed smoothly on paper.
 
-然而，人类认知中存在着一种固有的事后追认偏见：每当我们感知到一个更为庞大的世界，心智便会本能地想当然认为，那个更大的世界原本就一直完好无损地矗立在那里，等待着我们去“发现”。这种心理错觉让人误以为世界“本来就是这样一个静态客观的容器”。心智将自身感知视界在因果推进中不断显现的动态扩展，倒错地理解为了对一个早已封顶的四维预制大厦的被动巡览。这种心理投射，正是四维块状宇宙模型得以在理论家中生根发芽的情感温床。
-
-```mermaid
-graph TD
-    subgraph NaturalPerception["【第一人称观测视界 / First-Person Observational Window】"]
-        DeltaT["极短观测窗口 Δt → 0<br>Infinitesimal Human Window<br>Changes appear imperceptible; baseline feels steady"]
-        FeltInvariance["局部不变性直觉<br>Felt Invariance<br>Reality feels static, closed, and balanced"]
-        PsychologicalProjection["事后追认心理偏见<br>Retrospective Pre-Existence<br>Assuming larger perceived world was always already there"]
-        DeltaT --> FeltInvariance
-        FeltInvariance --> PsychologicalProjection
-    end
-
-    subgraph MathematicalAbstraction["【公理化抽离与维度操纵 / Axiomatic Extraction & Manipulation】"]
-        FreezeTime["冻结不可逆时间流动<br>Freeze Irreversible Real Time<br>Discard metabolic +1 causal advance"]
-        IsolatedAssumption["孤立系统假设<br>Isolated System Assumption<br>Treating universe as static, closed equilibrium box"]
-        DimensionalExtrusion["任意维度投影操作<br>Arbitrary Dimensional Projection<br>Projecting information into 3D, 4D, or N-D static spaces"]
-        FreezeTime --> IsolatedAssumption
-        IsolatedAssumption --> DimensionalExtrusion
-    end
-
-    PsychologicalProjection ==>|"诱发范畴跳跃：将视界扩展倒错为预存实体<br>Category Leap: Mistaking horizon expansion for pre-existing container"| FreezeTime
-
-    style NaturalPerception fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
-    style MathematicalAbstraction fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
-```
-
-正如[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)所揭示的，只要信息在形式变换中保持守恒，符号游戏便能制造出一种“完美宇宙模型”的智力自洽。对于大众而言，这一神话更为坚不可摧。极少有人亲自推导那些庞大复杂的张量方程，人们之所以对大爆炸与四维时空深信不疑，仅仅因为那是学术机构背书的既定常识。然而，正如[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)所指出的，所谓既定科学只是特定框架下的低维出清价；即便在顶级理论家之间，不同学派对同一套数学形式的内在理解也截然不同。
-
----
-
-Within our severely limited observational window, the cosmos exhibits a powerful illusion of stability. The stars appear fixed in the night sky, planets cycle through predictable orbits, and gravitational acceleration remains steady at human scales. Over an infinitesimal baseline (Δt approaching 0), any real scientific instrument requires a finite exposure window to capture signals—physics effectively collects the most adjacent frames of the living movie. Because this exposure interval is exceedingly brief, the image remains relatively stable across these immediate frames, and human perception naturally treats the local environment as a self-contained, closed, and static equilibrium system.
-
-This felt invariance of immediate perception invites the most insidious category jump in theoretical physics: because the local environment behaves like a static, isolated box over brief intervals, mathematicians casually strip irreversible physical time out of their equations. Once living causality is removed and reality is reduced to a frozen slice, arbitrary dimensional projections become child's play on paper.
-
-Underpinning this entire framework lies a profound psychological illusion: mistaking an expanding perceptual horizon for a pre-existing physical container. When an infant is born, its experienced world extends barely past its mother's chest and the rim of a crib. As the child grows, develops motor capacity, and expands its radius of action, its world expands continuously. The history of human civilization traces the identical arc: from the confines of a dark cave to oceans, continents, the solar system, and deep-field galaxies billions of light-years away.
-
-Yet human psychology harbors a persistent bias of retrospective projection: the moment our perception expands to encompass a larger world, the mind instinctively takes for granted that this larger domain was always already there in finished form, waiting passively to be discovered. This trick of the mind manufactures the illusion that "the world was always like this"—a pre-built, static container in which consciousness is merely an uninvited guest. The mind confuses the living, generative expansion of its own perceptual boundary with the passive discovery of an eternal four-dimensional block. This psychological reflex provides the emotional soil in which the block universe doctrine takes root.
-
-As demonstrated in [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/), as long as formal information is mathematically conserved during coordinate transformations, symbolic systems conjure the illusion of a flawless cosmic architecture. For the general public, this myth becomes unassailable. Almost nobody derives the tensor field equations from scratch; people accept the Big Bang and four-dimensional spacetime as established truth simply because academic authority sanctions it. Yet, as detailed in [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/), institutional consensus is merely a low-dimensional clearing price; even among theoretical physicists, different camps interpret the identical mathematical apparatus in wildly incompatible ways.
-
----
-
-## 二、 从高动态现实到黑白采样帧 / 2. From Continuous HDR Reality to the Desaturated Sample Frame
-
-现实不是一件陈列在玻璃展柜中的几何标本。在真实的生活与物理过程中，世界是一部正在实时向前播放的高动态范围电影。每一刻的到来都伴随着不可逆的热力学消耗、代谢应力与新的因果区分（+1）。过去已经沉淀为确定的因果痕迹，未来尚未发生，唯有正在显现的当下拥有本体论上的真实性。
-
-然而，理论物理学的建模过程却执行了一场极其激进的降维剥离。它收集了这部正在播放的电影中最相邻的若干帧画面，由于时间尺度极短，画面呈现出高度的平稳性。物理学随即执行了一次关键的平均化操作：它将这些相邻帧进行统计平滑，抹平所有微观的动态涨落与生机起伏，熔炼成一张高度稳定的“平均帧”。
-
-紧接着，物理学把这一张平均帧设定为一个自足、孤立的“封闭宇宙”。为了使这一帧画面能够被微积分与线性代数所处理，它进一步将画面中所有鲜活的色彩、主观体验与主体性的代谢流动抽干，将其脱色为极度抽象的黑白几何网格。
+这里还有一层后视的错位：把扩展的视界当成预先存在的容器。婴儿出生时，所感知的世界只在母亲的怀抱与摇篮之间，随着身心的发育、语言的习得与行动半径的延伸，所经验的世界不可逆地向外拓展。文明的演进也是如此，从洞穴到大陆，从太阳系到百亿光年之外的深空。而每当感知到一个更大的世界，心智便想当然地认为，那个更大的世界一直完好地立在那里等着被“发现”。感知的视界在因果的推进中不断显现的扩展，于是被读成了对一座早已封顶的四维大厦的巡览，块状宇宙的模型便从这里得到情感上的支撑。
 
 ```mermaid
-graph LR
-    subgraph LivingMovie["【正在播放的高动态现实 / The Continuous HDR Movie】"]
-        HDR["实时向前演进的现实电影<br>Continuous Living Reality<br>Full dynamic range; irreversible metabolic flow"]
-        AdjacentFrames["采集相邻帧 Δt 极短<br>Collecting Adjacent Frames<br>Short exposure keeps scene relatively stable"]
-        HDR --> AdjacentFrames
+flowchart TD
+    subgraph S_Pull["从局部不变到静态宇宙"]
+        direction TB
+        Window["极短的观测窗口：相邻帧之间变化难以察觉"]
+        Felt["局部不变的直觉：世界显得静止、封闭、平衡"]
+        Always["后视的追认：更大的世界被认为一直在那里"]
+        Remove["不可逆的时间被从方程里抽走"]
+        Box["孤立系统的设定：宇宙成了静态的平衡之箱"]
+        Project["各种维度的投影可以在纸面上展开"]
+        Window --> Felt
+        Felt --> Always
+        Always --> Remove
+        Remove --> Box
+        Box --> Project
     end
 
-    subgraph AveragingAndDesaturate["【平滑平均与黑白脱色 / Averaging & Desaturation】"]
-        AverageFrame["相邻帧平均化为复合稳定帧<br>Averaged Composite Frame<br>Smoothing micro-fluctuations into steady state"]
-        ClosedUniverse["假定为孤立的封闭宇宙<br>Treated as Closed Universe<br>Assuming local steadiness applies to totality"]
-        Desaturate["脱色为黑白抽象网格<br>Desaturating to Abstract Grid<br>Stripping color, consciousness, and metabolic cost"]
-        AverageFrame --> ClosedUniverse
-        ClosedUniverse --> Desaturate
-    end
-
-    subgraph ExtrudedIllusion["【无限外推的几何假象 / The Extruded Geometric Fiction】"]
-        ExtrudeTo4D["将黑白平均帧挤压为四维几何体<br>Extruding the Slide into 4D<br>Treating arbitrary curves as physical timelines"]
-        ClaimTrueUniverse["宣称外推体才是真实宇宙<br>Claiming Extrusion is Real Cosmos<br>Declaring living movie to be an illusion"]
-        ExtrudeTo4D --> ClaimTrueUniverse
-    end
-
-    AdjacentFrames ==>|"平均化与孤立封闭假设<br>Averaging & Isolation Assumption"| AverageFrame
-    Desaturate ==>|"反客为主：将平均采样帧投射至无限<br>Inversion: Extrapolating averaged slide to infinity"| ExtrudeTo4D
-
-    style LivingMovie fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
-    style AveragingAndDesaturate fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
-    style ExtrudedIllusion fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style S_Pull fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Window fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Felt fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Always fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Remove fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Box fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Project fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-在这张黑白采样帧中，只剩下了孤立的点、坐标轴与数值向量。更荒谬的是，物理学不仅满足于对这一单帧进行数学描述，它进而把这一张被高度抽空的黑白幻灯片，沿虚构的时间轴向前后拉伸，制造出一个四维静态几何体，并宣称这个由单一采样帧外推出来的数学挤压体，才是宇宙的全部真相。
-
-正如[时间是因果，不是维度](../time-is-causality-not-a-dimension/)所阐明的，将时间视为第四个空间维度，本质上就是把电影胶片一次性全部摊开在桌面上。但宇宙中没有任何一个人能够站在桌子之外审视整条胶片；你所拥有的全部物理现实，就是放映机光束穿透当前胶片的那一瞬间。
-
----
-
-Reality is not an inert geometric artifact displayed in a glass museum case. In lived experience and physical action, the universe is a high dynamic range (HDR) movie playing forward in real time. Every tick of the clock brings irreversible thermodynamic dissipation, metabolic stress, and the injection of a novel causal distinction (+1). The past exists only as settled residue; the future is unwritten potential; only the unfolding present possesses ontological reality.
-
-Yet theoretical physics begins its modeling through a violent act of reduction. It collects the most adjacent frames of this unfolding movie over an infinitesimal exposure window. Because the interval is so brief, the scene appears remarkably stable. Physics then performs a decisive averaging operation: it smooths across these adjacent frames, averaging out micro-fluctuations, living flickers, and metabolic noise into a single, highly stable composite "average frame."
-
-Physics then takes this time-averaged frame and treats it as an isolated, self-contained "closed universe." To make this static construct amenable to differential calculus and linear algebra, it strips away the vibrant colors, conscious experience, and metabolic costs of living action, desaturating the averaged frame into an abstract, black-and-white coordinate grid.
-
-On this desaturated sample slide, nothing remains except geometric points, coordinate axes, and numerical vectors. Even worse, theoretical physics does not stop at describing this single frozen slice. It takes this desaturated slide, extrudes it along a fictional temporal axis backward and forward into infinity, and declares that this mathematical extrusion represents the true cosmos.
-
-As articulated in [Time is Causality, Not a Dimension](../time-is-causality-not-a-dimension/), spatializing time into a fourth dimension is the equivalent of unrolling the entire film reel flat across a table. Yet nobody has ever stepped outside the cinema to inspect that tabletop reel. All that physically exists is the projector bulb illuminating the living frame in the present.
-
----
-
-## 三、 像素级精度的诱惑与局部真理陷阱 / 3. The Seduction of Pixel Precision and the Trap of Local Truth
-
-为何这种极其荒唐的外推能够捕获几乎所有受过高等教育的心智？答案在于局部数学描述那惊人的、令人沉醉的精密度。
-
-一旦把现实冻结在这一张黑白采样帧上，物理学家便拥有了一个确定、封闭的形式系统。在这一张平整的数学底片上，微积分、群论与微分几何展现出了无与伦比的计算威力。理论家能够对这一采样帧内部的每一个像素进行编号、测距，并写下令人叹为观止的对称性方程。从广义相对论对水星近日点进动的微小修正，到量子电动力学对电子反常磁矩多达十二位有效数字的预测，这种在局部采样帧内部对像素属性的精准解构，带来了无与伦比的智力震撼。
-
-需要指出的是，这一黑白残留之所以能够被极其精密地数学建模，其根本原因在于：画面中的每一个像素与结构，都是过去因果动作在时间中沉淀下来的物理痕迹。它们之间存在着需要经过真实不可逆时间才能够形成的因果关联。
-
-正因为这些相邻帧采集并平均出来的物理痕迹，忠实记录了已经发生且高度稳定的局部因果序列，这种不变性在即时与局部的时空区域内是切实成立的。因此，当理论家把这套建立在平均帧基础上的数学模型应用于近距离、短时期的预测时，其结果展现出惊人的准确度——从日食月食的秒级预报，到卫星导航的时钟同步，模型展现出了无与伦比的拟合威力。
-
-然而，这种令人赞叹的精确度，本质上是对已经沉淀的局部相邻历史数据的高阶拟合，绝非对活生生宇宙的全局精确描述。正因为局部不变性在眼前高度成立、预测在手边屡试不爽，物理学家才更容易陷入深层的诱惑：误将针对局部相邻帧平均值的精确拟合，当作了统摄全宇宙过去与未来的先验客观定律，从而毫无防备地跌入了将局部切面外推为永恒实体的过拟合陷阱。
+There is also a displacement made in hindsight here: an expanding horizon is taken for a container that existed in advance. At birth an infant's perceived world lies between the mother's arms and the cradle, and with the growth of body and mind, the learning of language and the lengthening radius of action, the world experienced extends irreversibly outward. So it is with the development of civilization, from the cave to the continents, from the solar system to deep space tens of billions of light-years away. Yet each time a larger world is perceived, a Mind takes it for granted that this larger world had stood there intact all along, waiting to be "discovered." The expansion of the perceptual horizon, appearing step by step in the advance of causality, is thereby read as a tour through a four-dimensional edifice long since topped out, and the block universe model draws its emotional support from here.
 
 ```mermaid
-graph TD
-    subgraph CausalResidueSource["【过去因果沉淀为残留痕迹 / Settled Residue of Past Causality】"]
-        PastCausality["不可逆因果演进经过时间沉淀<br>Past Causality Unfolding Over Time<br>Metabolic work; settled events leave durable traces"]
-        FrozenResidue["单帧画面是因果痕迹的凝结<br>Settled Physical Traces<br>Pixels are stabilized historical residue, not static axioms"]
-        PastCausality --> FrozenResidue
+flowchart TD
+    subgraph S_Pull["From Local Invariance to a Static Universe"]
+        direction TB
+        Window["A very short window of observation: change between adjacent frames is hard to notice"]
+        Felt["The intuition of local invariance: the world seems still, closed, balanced"]
+        Always["Ratified in hindsight: the larger world is assumed to have been there all along"]
+        Remove["Irreversible time is drawn out of the equations"]
+        Box["The isolated-system posit: the universe becomes a static box in equilibrium"]
+        Project["Projections into any dimension can proceed on paper"]
+        Window --> Felt
+        Felt --> Always
+        Always --> Remove
+        Remove --> Box
+        Box --> Project
     end
 
-    subgraph LocalSampleSuccess["【局部高阶拟合的惊人精度 / High-Order Local Fitting】"]
-        HighOrderFit["对历史痕迹的局部高阶数学拟合<br>High-Order Local Curve Fitting<br>Equations fit stabilized relational traces with 12-decimal precision"]
-        IntellectualAwe["智力折服：误将拟合当真理<br>Overfitting Seduction<br>Mistaking local empirical success for eternal law"]
-        FrozenResidue --> HighOrderFit
-        HighOrderFit --> IntellectualAwe
-    end
-
-    subgraph TheCategoryFallacy["【过拟合外推与地平说范畴倒错 / Overfitting & Flat Earth Fallacy】"]
-        FlatConstruction["施工现场地表平整 Δx → 0<br>Local Engineering Tangent Plane<br>Bridges and skyscrapers built safely on flat approximation"]
-        CosmicBlockExtrapolation["将局部拟合外推为全局永恒块<br>Extrapolating Local Fit to Infinity<br>Declaring past and future are static geometric coordinates"]
-        FlatConstruction -.->|"等价的范畴错误<br>Identical Category Error"| CosmicBlockExtrapolation
-    end
-
-    IntellectualAwe ==>|"致命跳跃：从局部痕迹拟合到全局宇宙宣称<br>Fatal Leap: Confusing local residue fit with cosmic reality"| CosmicBlockExtrapolation
-
-    style CausalResidueSource fill:#1f242a,stroke:#61afef,stroke-width:2px,color:#abb2bf
-    style LocalSampleSuccess fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
-    style TheCategoryFallacy fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style S_Pull fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Window fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Felt fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Always fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Remove fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Box fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Project fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-没有人敢于质疑宏大理论的前提，因为任何心智都会被其推导过程的精巧深奥以及局部的精准预测能力所震慑。然而，局部预测的成功，丝毫不能证明该模型掌握了宇宙的整体性质。当它被当作描绘宇宙整体的终极图景时，它犯下的正是与“地平说”毫无二致的范畴错误。
+[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)说明，只要信息在形式的变换里保持守恒，符号的运算便能给出一种“完美宇宙模型”的自洽。很少有人亲手推导那些张量方程，对大爆炸与四维时空的接受多来自学术机构的背书。[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)指出，既定的科学是特定框架下的低维出清价，即便在理论家之间，不同的学派对同一套数学形式的理解也各不相同。
 
-建筑工人在建造摩天大楼或跨海大桥时，将施工现场的地表视为平坦的二维欧氏平面。在局部几百米乃至几公里的尺度内，这种地平近似具有无可挑剔的工程精度，桥梁不会倒塌，高楼巍然耸立。地平说的荒谬在于，古代观察者将这种在局部极度精准的平面坐标系，直接沿着地平线无限向外延展，声称大地是一个飘浮在虚空中的平坦圆盘。
+[The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/) shows that as long as information is conserved through formal transformations, symbolic operations can yield the self-consistency of a "perfect model of the universe." Few people derive those tensor equations by hand, and acceptance of the Big Bang and four-dimensional spacetime mostly comes from the endorsement of academic institutions. [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) points out that established science is a low-dimensional clearing price under a particular framework, and even among theorists, different schools understand the same mathematical formalism differently.
 
-现代物理学在宇宙学上的做法与地平说如出一辙：仅仅因为在 Δt 趋近于 0 的极短观测区间内，黑白采样帧的局部切空间数学极为精确，理论家便大胆地将切线画向了百亿年尺度的过去与未来，宣布宇宙是一座早已完工、所有事件同在的四维静态大厦。这种自信将局部的有效测绘误认作了整体的本体论真理。
+## 二、 从高动态的现实到黑白采样帧 / 2. From High-Dynamic Reality to the Black-and-White Sample Frame
 
----
+现实不是陈列在玻璃柜里的一件几何标本。在生活与物理的过程里，世界是一部正在实时向前播放的高动态范围电影，每一刻的到来都伴着不可逆的消耗、代谢的应力与新的因果区分（+1）。过去沉淀为确定的因果痕迹，未来尚未发生，能够指出来的都在正在显现的当下。
 
-Why has this reduction captured nearly every educated mind for centuries? The answer lies in the astonishing, seductive precision of local mathematics.
+Reality is not a geometric specimen displayed in a glass case. In living and in physical processes the world is a high-dynamic-range film playing forward in real time, and the arrival of each moment comes with irreversible expenditure, metabolic stress and a new causal distinction (+1). The past has settled into definite causal traces, the future has not yet happened, and whatever can be pointed to is in the present now appearing.
 
-Once reality is frozen onto this single black-and-white sample slide, physicists possess a closed, predictable formal playground. On this static mathematical negative, calculus, group theory, and differential geometry operate with breathtaking power. Theorists can catalog every pixel, assign it exact spatial coordinates, and write down elegant symmetry equations. From General Relativity's subtle correction to Mercury’s perihelion precession to Quantum Electrodynamics predicting the electron's anomalous magnetic moment to twelve decimal places, the mathematical description of pixel relationships within that frozen frame is undeniably spectacular.
+理论物理的建模对它作了一次大幅的降维。它收集这部电影里最相邻的若干帧，时间尺度极短，画面高度平稳。随后是一次关键的平均：把相邻的帧作统计上的平滑，抹平微观的涨落与起伏，熔成一张高度稳定的“平均帧”。这张平均帧被设为一个自足而孤立的“封闭宇宙”。为了让它能被微积分与线性代数处理，画面里的色彩、主观的经验与代谢的流动被抽去，脱色为抽象的黑白几何网格。
 
-What must be pointed out is that the reason this black-and-white residue can be mathematically modeled with such stunning precision in the first place is that every pixel and feature within the frame is a settled physical trace left behind by past causal actions. Between them lie genuine causal relationships that required irreversible physical time to unfold and stabilize.
+The modeling of theoretical physics performs a large reduction of dimension upon it. It collects the most adjacent frames of the film; the time scale is very short and the picture highly steady. Then comes a decisive averaging: the adjacent frames are smoothed statistically, microscopic fluctuation and variation are leveled out, and they are fused into one highly stable "average frame." This average frame is set up as a self-sufficient and isolated "closed universe." To make it tractable for calculus and linear algebra, the color in the picture, subjective experience and the flow of metabolism are drawn off, and it is desaturated into an abstract black-and-white geometric grid.
 
-Because these settled physical traces—collected and averaged across adjacent frames—faithfully record an already-established and highly stable local causal sequence, this invariance genuinely holds in the immediate local region. Consequently, when theorists apply this model to near-term, local forecasts, the predictions are surprisingly and undeniably accurate: from predicting solar eclipses down to the second to synchronizing atomic clocks on GPS satellites, the model demonstrates breathtaking empirical success.
-
-Yet this celebrated precision is fundamentally a high-order local fitting over settled, time-averaged historical residue—it is not a global exact description of the living cosmos. It is precisely because the local invariance holds so reliably in our immediate neighborhood, and because local forecasts succeed so consistently, that physicists fall into the ultimate intellectual temptation: mistaking a local high-order fit over adjacent frames for an eternal, observer-free law governing the entire universe, and projecting a local time-averaged slice across cosmic infinity.
-
-Nobody dares challenge the premise of the grand theory because minds are either intimidated by or infatuated with the intricate sophistication of its derivations and its local empirical precision. Yet local predictive success tells us nothing about the universe as a living whole. When this local sample frame is crowned as the comprehensive architecture of reality, it commits the identical category error as the Flat Earth.
-
-Civil engineers treat the earth beneath a skyscraper or a suspension bridge as a flat, two-dimensional Euclidean plane. Within a local construction site of a few kilometers, this flat tangent plane yields flawless calculations; buildings stand securely and bridges bear traffic safely. The Flat Earth fallacy occurred when early thinkers took that locally reliable flat coordinate system, extended it past the horizon, and declared the entire planet to be a flat disk floating in space.
-
-Theoretical physics makes the identical mistake on a cosmic scale: because the local linear tangent space of spacetime describes solar system dynamics and laboratory particles with extreme precision in the infinitesimal interval Δt → 0, theorists extrapolate that local tangent line billions of years backward and forward, proclaiming that the universe is a frozen four-dimensional block where past, present, and future exist simultaneously. They mistake the local accuracy of their surveying tool for the global geometry of reality.
-
----
-
-## 四、 三大物理常数：采样帧的边界与标定尺 / 4. The Three Constants: Boundaries of the Sample Frame, Not Containers of Space
-
-在现代物理学的话语体系中，光速 c、普朗克常数 ħ 与引力常数 G 被捧为客观宇宙的三大“终极物理常数”。物理学家视其为客观世界内部的物理围墙，并耗费世纪之功试图将三者拼合成统一的“万物理论”（量子引力）。
-
-从第一人称因果的基底出发审视，这三大常数根本不是客观宇宙外部容器的尺寸参数，而是心智在冻结现实、制作黑白采样帧时所确立的三大操作性技术规格。
+在这张黑白采样帧里，只剩下孤立的点、坐标轴与数值的向量。这张帧随后沿一条画出来的时间轴向前向后拉伸，成了一个四维的静态几何体，并被称为宇宙的全貌。[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)说明，把时间看作第四个空间维度，是把电影的胶片一次摊开在桌面上，而没有谁站在桌子之外审视整条胶片，所拥有的是放映机的光束穿过当前这一格的那一瞬。
 
 ```mermaid
-graph TD
-    subgraph TheMeasuringMind["【测量心智的操作边界 / The Measuring Apparatus of Mind】"]
-        Mind["第一人称测量心智<br>The Measuring Mind<br>Origin, boundary, and interpreter of all experimental data"]
+flowchart TD
+    subgraph S_Frame["从电影到采样帧"]
+        direction TB
+        Film["实时向前的现实电影：不可逆的代谢流动 +1"]
+        Adjacent["采集相邻的几帧：曝光极短，画面稳定"]
+        Average["平均为一张稳定的帧：抹平微观的涨落"]
+        Closed["设为孤立的封闭宇宙"]
+        Grid["脱色为黑白的抽象网格"]
+        Extrude["沿画出的时间轴拉伸为四维几何体"]
+        Film --> Adjacent
+        Adjacent --> Average
+        Average --> Closed
+        Closed --> Grid
+        Grid --> Extrude
     end
 
-    subgraph ThreeBoundaries["【黑白采样帧的三大技术规格 / Display Specs of the Sample Frame】"]
-        Planck["普朗克常数 ħ<br>The Planck Constant<br>网格像素尺寸 / 最小可分辨因果步长<br>Minimum Pixel Resolution of the Digitized Grid"]
-        LightSpeed["光速 c<br>The Speed of Light<br>帧内校准标尺 / 感知渲染最高刷新率<br>Frame Calibration Ruler / Maximum Refresh Velocity"]
-        Gravitational["引力常数 G 与宇宙视界<br>General Relativity & G<br>宏观外延畸变 / 视界投影的墨卡托效应<br>Macro Viewport Boundary & Projection Warping"]
-    end
-
-    Mind -->|"数字化离散化<br>Digitization"| Planck
-    Mind -->|"相关性标定<br>Correlation Ruler"| LightSpeed
-    Mind -->|"全局外延投影<br>Global Projection"| Gravitational
-
-    subgraph TheoreticalConfusion["【现代物理学的百年困境 / The Century-Old Confusion】"]
-        UnificationCrisis["强行统一三大常数（量子引力噩梦）<br>The Theory of Everything Illusion<br>Attempting to unify pixel size, refresh rate, and screen bezel into a picture"]
-    end
-
-    Planck -.->|"无法在无心智框架中焊接<br>Infinities & Non-renormalizability"| UnificationCrisis
-    LightSpeed -.-> UnificationCrisis
-    Gravitational -.-> UnificationCrisis
-
-    style TheMeasuringMind fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
-    style ThreeBoundaries fill:#2a241f,stroke:#e5c07b,stroke-width:2px,color:#abb2bf
-    style TheoreticalConfusion fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style S_Frame fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Film fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Adjacent fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Average fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Closed fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Grid fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Extrude fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-### 1. 普朗克常数 ħ：采样帧的像素分辨率
-现实本是不可分割的连续流转，但当心智将其捕捉并数字化为一个数学采样帧时，离散化是必然的代价。将连续的动作转化为可计算的符号，必然产生一个不可再分的最小网格单位。
-* 普朗克常数正是这个黑白采样帧的“像素大小”。
-* 量子力学中所谓的“波粒二象性”、“测不准原理”与“概率波函数”，根本不是微观粒子在客观世界中如同幽灵般分身游荡；那是连续微积分数学试图探查黑白网格两个相邻像素之间的“亚像素虚空”时产生的计算涂抹。你在屏幕上放大一张低分辨率位图，看到的马赛克与模糊边缘并不是图像本身的灵魂，而是显示网格的分辨率极限。
-
-### 2. 光速 c：采样帧的基准校准标尺与最高刷新率
-在冻结的单帧切片内部，要描述不同像素点之间的相对运动与相互作用，必须选定一个最高速度作为坐标系的基准标尺。若没有这个上限，所有相对距离与时序都无法在同一张图纸上校准。
-* 狭义相对论之所以选择光速作为参考点，是因为光是我们在即时感知中所能捕获的最快物理信号。以宇宙中最快的物理现象作为参考，我们才能测绘所有比它更慢的现象，因为任何慢于被测对象的工具都无法形成有效的时空抓取。
-* 光速不是一艘飞船在太空中飞行的最大油门限制；它是心智在感知现实时信号能够完成因果交握的最高刷新速率。光速标定了感知画布本身的响应带宽。
-
-### 3. 广义相对论与引力常数 G：宏观视界的投影畸变
-当我们将这一张局部的平坦黑白采样帧，强行扩展到整个宇宙时，我们不可避免地用光了所有的外部参考物。广义相对论将整个宇宙本身作为终极参考背景。
-* 当你以整个宇宙作为参照系时，你实际上是在把一个封闭球面的感知边界，硬生生压平在一张二维纸面上。正如我们在二维墨卡托世界地图上看到格陵兰岛被拉伸得比南美洲还大，将平坦采样帧投射到宏观视界边缘时，数学方程必须引入剧烈的空间弯曲与度规张量，以补偿投影造成的失真。
-* 空间弯曲不是虚空本身的物理扭曲，它是将局部平坦坐标系强行外推到全宇宙视界时产生的几何代偿。
-
-现代物理学试图通过“弦理论”或“圈量子引力”写出一个将 ħ、c 和 G 焊接在一起的万物理论，这就像试图写出一个将显示器的像素间距、刷新频率和外壳边框尺寸融为一体的方程式，并期望用这个方程来推导正在播放的电影情节一样荒谬。它们是测量工具的硬件技术边界，而非宇宙剧情的内容本身。
-
----
-
-In mainstream physical discourse, the speed of light c, the Planck constant ħ, and the gravitational constant G are venerated as three objective constants of nature. Theorists treat them as external cosmic fences and spend entire careers attempting to weld them into a unified "Theory of Everything" (quantum gravity).
-
-When traced back to first-person causal reality, these constants are not container walls of an objective universe. They are the operational technical specifications established by the measuring mind when freezing reality into a desaturated sample frame.
-
-### 1. The Planck Constant ħ: Pixel Pitch of the Sample Frame
-Living reality is an indivisible, continuous flow. But when the mind captures and digitizes reality into a computable mathematical frame, discretization is unavoidable. Converting continuous causal action into discrete numbers creates a minimum grid unit.
-* The Planck constant is the pixel size of the black-and-white sample frame.
-* Quantum phenomena—wave-particle duality, uncertainty relations, and probability wavefunctions—do not mean that microscopic particles physically hover in ghostlike superposition. They are the mathematical artifacts produced when continuous differential calculus tries to probe the sub-pixel void between discrete grid points. When you zoom in on a digital photograph until individual pixels appear, the resulting blur is not a mystical property of the photograph's subject; it is the hardware resolution limit of the pixel matrix.
-
-### 2. The Speed of Light c: The Frame Calibration Ruler and Refresh Velocity
-Inside a frozen sample frame, mapping relational motion between coordinate points requires choosing the fastest available signal as the benchmark calibration ruler. Without an upper ceiling, relative positions and timings cannot be reconciled on a single diagram.
-* Special relativity anchors its coordinate system to the speed of light because light represents the fastest signal correlation accessible within immediate human perception. By anchoring to the fastest moving phenomenon, we can measure and map everything slower, because an instrument slower than the phenomenon it observes could never capture its relational dynamics.
-* Light speed is not a mechanical speed limit imposed on physical spaceships; it is the maximum refresh rate at which causal distinctions register in perception. It marks the clock speed of the perceptual canvas itself.
-
-### 3. General Relativity and G: Geometric Warping of the Macro Viewport
-When we take this local flat sample frame and project it across the entire cosmos, we inevitably run out of external reference objects. General Relativity buries an unspoken foundational assumption: it uses the entire universe as its ultimate background frame.
-* Using the entire cosmos as a self-referential anchor is equivalent to flattening a spherical perceptual horizon onto a flat mathematical sheet. Just as a two-dimensional Mercator map stretches Greenland to appear larger than South America, projecting a flat sample frame across the cosmic horizon forces the mathematics to introduce severe geometric metric curvature to compensate for the distortion.
-* Spacetime curvature is not the literal bending of empty space; it is the metric compensation required when a local flat coordinate system is projected across the entire cosmic observational envelope.
-
-Attempting to build a "Theory of Everything" by unifying ħ, c, and G is the exact equivalent of formulating an equation that combines a computer monitor's pixel pitch, its refresh rate, and the physical width of its plastic bezel, and then expecting that equation to explain the screenplay of the movie playing on the screen. The constants are the technical limits of the measuring apparatus, not the living reality being observed.
-
----
-
-## 五、 无限外推的怪诞戏剧：大爆炸、热寂与块状宇宙 / 5. The Grotesque Drama of Infinite Extrapolation: Big Bang, Heat Death, and the Block Universe
-
-一旦物理学确立了这一张黑白采样帧，并迷恋于其局部的完美像素精度，一场前所未有的宇宙学科幻戏剧便拉开了帷幕。
-
-由于在这张冻结的幻灯片中，空间膨胀被编码为一个关于距离和红移的代数关系式，物理学家便做出了一个极其大胆的举动：他们将这个单帧画面内部的数学轨迹倒放。既然像素之间的距离在当前帧中呈现出分离的趋势，那么沿方程反向推算，所有的像素必然在过去的某一个数学截面上重合。
-* 理论家将整部电影当前帧里的所有像素，强行挤压回原点的一个单像素点，然后郑重其事地宣称：这里就是“宇宙的开端”，即大爆炸奇点。
+On this black-and-white sample frame only isolated points, coordinate axes and numerical vectors remain. The frame is then stretched forward and backward along a drawn time axis into a static four-dimensional solid, which is called the full extent of the universe. [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) shows that seeing time as a fourth spatial dimension is laying the whole reel of film out on a table at once, while no one stands apart from the table inspecting the entire reel; what one has is the instant in which the projector's beam passes through the current frame.
 
 ```mermaid
-graph LR
-    subgraph BigBangFallacy["【反向挤压：大爆炸奇点 / Squeezing to Singularity】"]
-        PastTrajectory["将当前帧红移方程向过去倒推<br>Reversing Coordinate Equations<br>Extrapolating current frame's expansion backward"]
-        SinglePixel["所有像素挤压为一个单点<br>Squeezed into a Single Pixel<br>Claiming coordinate collision is the physical 'origin of time'"]
-        PastTrajectory --> SinglePixel
+flowchart TD
+    subgraph S_Frame["From the Film to the Sample Frame"]
+        direction TB
+        Film["The film of reality moving forward in real time: irreversible metabolic flow +1"]
+        Adjacent["A few adjacent frames collected: exposure very short, picture stable"]
+        Average["Averaged into one stable frame: microscopic fluctuation leveled out"]
+        Closed["Set up as an isolated closed universe"]
+        Grid["Desaturated into an abstract black-and-white grid"]
+        Extrude["Stretched along a drawn time axis into a four-dimensional solid"]
+        Film --> Adjacent
+        Adjacent --> Average
+        Average --> Closed
+        Closed --> Grid
+        Grid --> Extrude
     end
 
-    subgraph PresentSample["【唯一存在的当前黑白采样帧 / The Present Sample Frame】"]
-        FrozenSlide["当前瞬时观测切片<br>The Frozen Sample Slide<br>Sole empirical datum; highly accurate local pixel mapping"]
-    end
-
-    subgraph HeatDeathFallacy["【正向稀释：热寂与四维块 / Diluting to Heat Death】"]
-        FutureTrajectory["将方程无限正向外推至 t → ∞<br>Extrapolating to Infinite Future<br>Pixels spread until density approaches zero"]
-        DilutedVoid["像素稀释至虚无（热寂）<br>Dissolution into Void (Heat Death)<br>Claiming coordinate thinning is the physical 'death of reality'"]
-        BlockUniverse["外推实体化为四维块状宇宙<br>The 4D Block Universe Sculpture<br>Claiming past, present, and future are already printed"]
-        FutureTrajectory --> DilutedVoid
-        FutureTrajectory --> BlockUniverse
-    end
-
-    FrozenSlide ==>|"反向挤压坐标<br>Backward Compression"| PastTrajectory
-    FrozenSlide ==>|"正向拉伸坐标<br>Forward Extrusion"| FutureTrajectory
-
-    style PresentSample fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
-    style BigBangFallacy fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
-    style HeatDeathFallacy fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
+    style S_Frame fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Film fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Adjacent fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Average fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Closed fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Grid fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Extrude fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-接下来，他们又把这个方程推向未来，让像素无休止地彼此远离。当像素间的距离被拉伸到无限大，信息密度在数学上归零时，他们再次宣称：这里就是“时间的尽头”，即宇宙的热寂。
+## 三、 像素级的精度与局部的可靠 / 3. Pixel-Level Precision and Local Reliability
 
-最后，物理学将这个从单点膨胀到无限虚无的整个数学轨迹，沿第三个空间维度整体重新投影为一个四维柱体，并将这个静态的数学柱体命名为“块状宇宙”。在这个人造的模型中，时间被剥离了其生成的本质，变成了一条条预先刻印在四维晶体内部的静态“世界线”。
-* 物理学家甚至反客为主地宣称：真实的电影放映是一种主观幻觉；所有的历史、现在与未来，早就在那个冷冰冰的四维块状宇宙中并存着。把取样框外推为定律，正是[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所揭示的戏法。
+这种外推之所以如此有说服力，在于局部的数学描述精密得惊人。把现实定在这张黑白采样帧上之后，便有了一个确定而封闭的形式系统，微积分、群论与微分几何在这张平整的底片上展现出很强的计算力。从广义相对论对水星近日点进动的微小修正，到量子电动力学对电子反常磁矩多达十二位有效数字的预测，对帧内像素关系的解析准确到令人叹服。
 
-正如[连续统是建模的便利而非物理实在](../the-continuum-is-a-modeling-convenience/)中所警示的，当一个数学函数在极限处出现奇点时，它揭示的从来不是物理世界的真实边界，而是数学模型自身的破裂与失灵。大爆炸奇点与热寂根本不是宇宙历史的起点与终点，它们仅仅是对一张单帧黑白幻灯片进行极度暴力的坐标外推时，数学符号在纸面上撞毁的残骸。
+What makes this extrapolation so persuasive is the astonishing precision of the local mathematical description. With reality fixed on this black-and-white sample frame there is a definite and closed formal system, and calculus, group theory and differential geometry show great computational power on this flat negative. From general relativity's small correction to the precession of Mercury's perihelion to quantum electrodynamics predicting the electron's anomalous magnetic moment to as many as twelve significant figures, the analysis of the relations among pixels within the frame is admirably exact.
 
----
+这张黑白的残留之所以能被精密地建模，在于画面里的每一个像素与结构，都是过去的因果动作在时间中沉淀下来的痕迹，它们之间有经过不可逆的时间才形成的因果关联。相邻帧平均出来的痕迹忠实地记下了已经发生且高度稳定的局部因果序列，这种不变性在即时与局部的范围内是成立的。所以把这套模型用在近距离、短时期的预测上，结果极准，日食月食的秒级预报与卫星导航的时钟同步都是例子。
 
-Once theoretical physics established this black-and-white sample slide and fell under the spell of its local pixel precision, a surreal cosmological drama commenced.
+This black-and-white residue can be modeled with precision because every pixel and structure in the picture is a trace that past causal acts have settled into over time, and among them are causal relations that took irreversible time to form. The traces averaged from adjacent frames faithfully record a local causal sequence that has already occurred and is highly stable, and this invariance does hold within what is immediate and local. So when the model is applied to predictions at close range and over short periods, the results are extremely accurate; forecasts of solar and lunar eclipses to the second and the synchronization of clocks for satellite navigation are examples.
 
-Because spatial expansion in this single frozen snapshot was encoded as an algebraic relation between distance and redshift, physicists took an audacious leap: they reversed the mathematical direction of the frame's pixel trajectories. If pixels appear to be separating in the present slide, then extrapolating the equations backward implies they must have converged at some historical coordinate boundary.
-* Theorists squeezed every pixel of the current movie frame backward into a single infinitesimal point, solemnly announcing that this coordinate collision represented the physical "creation of the universe"—the Big Bang singularity.
-
-Next, they projected the same equations forward into infinity, letting the pixels drift apart indefinitely. When pixel spacing stretches to infinity and mathematical energy density approaches zero, they declared another cosmic boundary: the "death of time," or the Heat Death.
-
-Finally, physics took this mathematical extrusion—expanding from a single point into infinite dilution—and extruded it along a geometric axis, naming the resulting static sculpture the "Block Universe." In this synthetic toy world, time was stripped of its generative advance and reduced to static worldlines etched inside a frozen four-dimensional crystal.
-* Theorists even inverted reality itself, claiming that the real-time playback of the movie is a subjective trick of the human brain, and that past, present, and future are all physically co-present in the static four-dimensional slab. Extrapolating the frame into law is the sleight of hand [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) exposes.
-
-As warned in [The Continuum is a Modeling Convenience, Not Physical Reality](../the-continuum-is-a-modeling-convenience/), when a mathematical function shoots toward infinity or collapses into a singularity at its limits, it never reveals a physical wall of the cosmos; it reveals the breakdown of the mathematical model itself. The Big Bang and the Heat Death are not bookends of reality. They are the mathematical debris left behind when an abstract, frozen sample frame is violently extrapolated to infinity on a piece of paper.
-
----
-
-## 六、 归还测量者：从投影神话重返活的因果前进 / 6. Returning the Observer: From Projection Myth to Living Causal Advance
-
-科学的实用性无需被否定。相对论与量子力学如同人类绘制的极其精准的二维地图。墨卡托投影虽然把两极拉伸到了无限大，虽然严重扭曲了陆地的面积对比，但只要航海家严格按照地图上的角度航行，他就能安全抵达彼岸。地图在实用上极度有用，因为它完整地保留了航行所需的所有相对关系信息。
-
-但致命的灾难在于，现代科学的解说者忘记了这只是一张地图。他们指着地图上无限延展的北极边缘说：看，大地的尽头是一堵无限宽广的冰墙；他们指着被拉伸成单点的原点说：看，时间诞生于一个无穷小的像素。
+这份精度是对已经沉淀的、局部相邻的历史数据的高阶拟合。局部的不变在眼前高度成立，预测在手边屡试不爽，于是容易多走一步：把针对局部相邻帧平均值的拟合，当作统摄全宇宙过去与未来的先验定律。局部预测的成功说明模型在这个范围内可靠，对宇宙整体的性质则没有说什么。
 
 ```mermaid
-graph TD
-    subgraph TheMapMistake["【地图与领土的倒错 / Confusing Map for Territory】"]
-        MercatorMap["2D 墨卡托投影地图<br>The 2D Mercator Map<br>Angles preserved for navigation; polar geometry severely distorted"]
-        DistortionAsReality["将地图扭曲当成地理真理<br>Worshipping Map Distortion<br>Claiming Greenland is continent-sized and poles are infinite"]
-        MercatorMap --> DistortionAsReality
+flowchart TD
+    subgraph S_Fit["局部的拟合与全局的宣称"]
+        direction TB
+        Past["过去的因果动作在时间中沉淀"]
+        Trace["一帧画面是这些痕迹的凝结"]
+        Fit["对痕迹的局部高阶拟合：十二位有效数字"]
+        Near["近距离与短时期的预测极准"]
+        Site["工地上的平地近似：桥梁与高楼安然立起"]
+        Whole["把局部的拟合外推为全局的永恒块"]
+        Past --> Trace
+        Trace --> Fit
+        Fit --> Near
+        Near --> Whole
+        Site --> Whole
     end
 
-    subgraph TheCosmicAwakening["【归还测量心智与活的因果 / The Return to Causal Living Reality】"]
-        ObserverAtCenter["一切始于心智，留于心智，终于心智<br>Mind as the Canvas<br>We measure the universe with our own perceptual apparatus"]
-        CausalAction["现实是一步步生成的因果动作 +1<br>Living Causal Calculation +1<br>No frozen block exists outside; reality is generated in the now"]
-        ObserverAtCenter --> CausalAction
-    end
-
-    DistortionAsReality -.->|"破除幻象：认识到时空块仅仅是坐标投影<br>Shattering the Illusion: Recognizing coordinates are paper artifacts"| ObserverAtCenter
-
-    style TheMapMistake fill:#2a1f1f,stroke:#e06c75,stroke-width:2px,color:#abb2bf
-    style TheCosmicAwakening fill:#1f2a24,stroke:#98c379,stroke-width:2px,color:#abb2bf
+    style S_Fit fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Past fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Trace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Fit fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Near fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Site fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Whole fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-正如我们自始至终所指认的：**我们自始至终都在用心智测量宇宙。一切测量始于心智，停留于心智，最终也结束于心智。**
+This precision is a high-order fit to historical data that has already settled and is locally adjacent. Local invariance holds strongly before one's eyes and predictions at hand succeed time after time, so it is easy to take one step more: treating a fit to the average of locally adjacent frames as an a priori law governing the past and future of the whole universe. The success of local prediction shows the model to be reliable within this range and says nothing about the properties of the universe as a whole.
 
-所谓客观世界的“物理常数”，不是锁闭人类意识的外部铁笼，而是人类心智在展开感知与理性探查时，其自身测量仪器所固有的分辨率与技术带宽。光速是心智感知现实的最高刷新率，普朗克尺度是心智数字化的网格像素，引力场与时空弯曲是把有限视界投影至全局背景时的几何补偿。[当电子开始思考](../when-electrons-think/)在电子的尺度上展示了同样被冻结的画面。
+```mermaid
+flowchart TD
+    subgraph S_Fit["A Local Fit and a Global Claim"]
+        direction TB
+        Past["Past causal acts settle over time"]
+        Trace["One frame is the congealing of these traces"]
+        Fit["A local high-order fit to the traces: twelve significant figures"]
+        Near["Predictions at close range and over short periods are extremely accurate"]
+        Site["The flat-ground approximation on a building site: bridges and towers stand safely"]
+        Whole["The local fit extrapolated into a global eternal block"]
+        Past --> Trace
+        Trace --> Fit
+        Fit --> Near
+        Near --> Whole
+        Site --> Whole
+    end
 
-宇宙没有被打印在任何一张四维全景胶片上。不存在一个上帝之眼站在万物之外审视全局，也不存在一个静止的宇宙模型能够涵盖整个宇宙的演化。宇宙的全部真实性，就存在于此时此刻每一个生命主体所做出的真实因果决断与不可逆的代谢步进（+1）之中。
+    style S_Fit fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Past fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Trace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Fit fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Near fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Site fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Whole fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
-不要再崇拜那张被脱色、被冻结、被拉伸至无穷的黑白幻灯片。收回投向虚构四维晶体的敬畏目光，回到正在播放的现实电影之中——在这里，因果是鲜活的画布，选择是不可约的自由变量，而未来正等待着由当下的一笔一划亲手写就。
+地平的设想走的是同一步。建造摩天大楼或跨海大桥时，工地的地表被当作平坦的二维欧氏平面，在几百米乃至几公里的尺度内，这种近似有无可挑剔的工程精度。越界发生在把这套在局部极准的平面坐标沿地平线无限向外延展，说大地是一个平坦圆盘的时候。宇宙学上的做法与此同构：在极短的观测区间内，黑白采样帧的局部切空间数学极为精确，切线便被画向百亿年尺度的过去与未来，宇宙被宣布为一座早已完工、所有事件同在的四维大厦。局部有效的测绘在这里被当成了整体的图景。
 
----
+The idea of a flat Earth takes the same step. In building a skyscraper or a bridge across the sea, the surface of the site is treated as a flat two-dimensional Euclidean plane, and within a scale of hundreds of meters or even several kilometers the approximation has impeccable engineering precision. The overstep occurs when this plane coordinate system, extremely accurate locally, is extended without limit along the horizon and the Earth is said to be a flat disk. What is done in cosmology is isomorphic with this: within a very short interval of observation the mathematics of the local tangent space of the black-and-white sample frame is extremely precise, so the tangent line is drawn toward a past and future on the scale of tens of billions of years, and the universe is declared a four-dimensional edifice long complete, with all events present together. A survey that is valid locally is here taken for the picture of the whole.
 
-The practical utility of science is beyond doubt. Relativity and quantum mechanics function like extraordinary two-dimensional navigational maps. Although a Mercator projection stretches the polar regions to infinity and severely distorts the physical size of continents, a sailor who navigates strictly by its compass bearings reaches their port safely. The map is immensely useful because it flawlessly preserves the relational angular data required for navigation.
+## 四、 三个常数是采样帧的规格 / 4. Three Constants as the Specifications of the Sample Frame
 
-The fatal intellectual tragedy occurs when popular science and institutional academia forget that the map is not the territory. Modern theorists point to the infinite distortion at the top of the map and proclaim: look, the physical edge of space is an infinite wall. They point to the backward convergence of coordinate lines and declare: look, reality was born in a single geometric pixel.
+在物理学的话语里，光速 c、普朗克常数 ħ 与引力常数 G 被看作客观宇宙的三个终极常数，是世界内部的围墙，量子引力的工作便是要把三者合成一套统一的理论。从第一人称的因果出发，这三个常数可以读作心智把现实定住、制作黑白采样帧时确立的三项操作规格。
 
-As this lattice of inquiry has consistently demonstrated: **we are measuring the universe with our own mind. Everything begins with the mind, remains within the mind, and concludes within the mind.**
+In the discourse of physics, the speed of light c, the Planck constant ħ and the gravitational constant G are regarded as three ultimate constants of an objective universe, walls inside the world, and the work of quantum gravity is to combine the three into one unified theory. Starting from first-person causality, the three constants can be read as three operating specifications established when a Mind holds reality still and makes the black-and-white sample frame.
 
-The fundamental constants of modern physics are not iron bars of an external cage trapping human consciousness. They are the operational bandwidth, resolution, and viewport boundaries of the mind's measuring apparatus. The speed of light is the maximum refresh rate of perceptual causal registration; the Planck constant is the minimum pixel pitch of discrete measurement; General Relativity and gravitational metric curvature are the geometric compensations required when projecting a finite observational envelope across a global background. [When Electrons Think](../when-electrons-think/) shows the same frozen frame at the scale of electrons.
+普朗克常数是采样帧的像素分辨率。所经验的现实流转不息，没有接缝，被捕捉并数字化为一张可计算的帧时，便出现一个不可再分的最小网格单位。量子力学里的波粒二象性、测不准关系与概率波函数，由此可以读作连续的微积分数学去探查网格上两个相邻像素之间时留下的涂抹。把一张低分辨率的位图放大，看到的马赛克与模糊边缘属于显示网格的分辨率，不属于被拍的东西。
 
-The cosmos is not printed on an unrolled four-dimensional film strip. There is no external God's-eye camera observing the totality from nowhere, and no static mathematical model will ever capture the open living reality of the universe. The entire reality of the cosmos resides in the present moment, in the irreversible metabolic work and the sovereign causal choices of conscious agents advancing frame by frame (+1).
+The Planck constant is the pixel resolution of the sample frame. The reality experienced flows on without a seam, and when it is captured and digitized into a computable frame, a smallest grid unit that cannot be divided further appears. Wave-particle duality, the uncertainty relation and the probability wavefunction in quantum mechanics can then be read as the smear left when the continuous mathematics of calculus probes between two adjacent pixels of the grid. Enlarge a low-resolution bitmap and the mosaic and blurred edges seen belong to the resolution of the display grid, not to the thing photographed.
 
-Stop worshipping the desaturated, frozen, infinitely extruded slide. Turn away from the mythical four-dimensional block universe and return to the living movie currently underway. Causality is the active canvas, choice is the irreducible free variable, and the future is waiting to be authored in the present act.
+光速是采样帧的校准标尺与最高刷新率。在一张定住的切片内部描述像素之间的相对运动与相互作用，须选定一个最高的速度作基准，否则相对的距离与时序无法在同一张图纸上校准。狭义相对论选光速，是因为光是即时感知里能捕获的最快信号，以最快的现象作参照，才能测绘一切较慢的现象。它标出的是感知这块画布的响应带宽，是信号完成因果交握的最高刷新速率。
+
+The speed of light is the calibrating ruler and highest refresh rate of the sample frame. To describe relative motion and interaction among pixels inside a slice held still, a highest speed must be chosen as the benchmark, or relative distances and timings cannot be calibrated on one drawing. Special relativity chooses the speed of light because light is the fastest signal that can be captured in immediate perception, and only with the fastest phenomenon as reference can everything slower be surveyed. What it marks is the response bandwidth of the canvas of perception, the highest refresh rate at which signals complete their causal handshake.
+
+引力常数与时空的弯曲，是宏观视界上的投影畸变。把这张局部平坦的采样帧扩展到整个宇宙时，外部的参照物用尽了，广义相对论以宇宙整体作为最终的参照背景。这相当于把一个球面的感知边界压平在一张纸面上。正如墨卡托地图把格陵兰拉得比南美洲还大，把平坦的采样帧投到宏观视界的边缘时，方程须引入空间的弯曲与度规张量来补偿投影的失真。空间的弯曲由此可以读作把局部平坦的坐标外推到全宇宙视界时的几何代偿。
+
+```mermaid
+flowchart TD
+    subgraph S_Specs["采样帧的三项规格"]
+        direction TB
+        Mind["测量的心智：数据的原点、边界与解读者"]
+        Planck["普朗克常数：网格的像素大小"]
+        Light["光速：帧内的校准标尺与最高刷新率"]
+        Gravity["引力常数：视界边缘的投影畸变"]
+        Unify["把三者合一：像素间距、刷新率与边框写进一个方程"]
+        Mind --> Planck
+        Mind --> Light
+        Mind --> Gravity
+        Planck --> Unify
+        Light --> Unify
+        Gravity --> Unify
+    end
+
+    style S_Specs fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Planck fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Light fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Gravity fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Unify fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+```
+
+The gravitational constant and the curvature of spacetime are projection distortion at the macroscopic horizon. When this locally flat sample frame is extended to the entire universe, outside objects of reference are used up, and general relativity takes the universe as a whole for the final background of reference. This amounts to pressing a spherical boundary of perception flat on a sheet of paper. Just as a Mercator map stretches Greenland larger than South America, when a flat sample frame is cast to the edge of the macroscopic horizon the equations must bring in spatial curvature and a metric tensor to compensate for the distortion of projection. The curvature of space can thus be read as the geometric compensation made when locally flat coordinates are extrapolated to the horizon of the whole universe.
+
+```mermaid
+flowchart TD
+    subgraph S_Specs["Three Specifications of the Sample Frame"]
+        direction TB
+        Mind["The measuring Mind: origin, boundary and interpreter of the data"]
+        Planck["Planck constant: the pixel size of the grid"]
+        Light["Speed of light: the calibrating ruler and highest refresh rate within the frame"]
+        Gravity["Gravitational constant: projection distortion at the edge of the horizon"]
+        Unify["The three combined: pixel pitch, refresh rate and bezel written into one equation"]
+        Mind --> Planck
+        Mind --> Light
+        Mind --> Gravity
+        Planck --> Unify
+        Light --> Unify
+        Gravity --> Unify
+    end
+
+    style S_Specs fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Planck fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Light fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Gravity fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Unify fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+```
+
+按这种读法，用弦理论或圈量子引力写出一个把 ħ、c 与 G 合在一起的万物理论，好比写出一个把显示器的像素间距、刷新频率与外壳边框融为一体的方程，并期望由它推出正在播放的电影的情节。三个常数是测量工具的技术边界，电影的内容不在其中。
+
+On this reading, writing a theory of everything that joins ħ, c and G through string theory or loop quantum gravity is like writing an equation that fuses a monitor's pixel pitch, its refresh frequency and the bezel of its casing, and expecting to derive from it the plot of the film now playing. The three constants are the technical limits of the measuring tool, and the content of the film is not in them.
+
+## 五、 外推出的大爆炸、热寂与块状宇宙 / 5. The Big Bang, Heat Death and Block Universe as Extrapolations
+
+有了这张黑白采样帧和它局部的像素精度，一出宇宙学的戏便接着上演。在这张定住的幻灯片里，空间的膨胀被编码为距离与红移之间的一个代数关系，于是可以把帧内的数学轨迹倒放：像素之间的距离在当前帧里呈现出分离的趋势，沿方程反向推算，全部像素便在过去的某个数学截面上重合。当前帧的全部像素被挤回原点的一个点，这个点被称为宇宙的开端，即大爆炸的奇点。
+
+With this black-and-white sample frame and its local pixel precision in hand, a cosmological drama follows. On this slide held still, the expansion of space is encoded as an algebraic relation between distance and redshift, so the mathematical trajectory within the frame can be played backward: the distances between pixels show a tendency to separate in the current frame, and computing in reverse along the equations, all pixels coincide on some mathematical section in the past. All the pixels of the current frame are squeezed back into one point at the origin, and this point is called the beginning of the universe, the singularity of the Big Bang.
+
+同一个方程再被推向未来，让像素无休止地彼此远离。距离拉到无限大、信息的密度在数学上归零之处，被称为时间的尽头，即宇宙的热寂。最后，从一个点膨胀到无限稀薄的整条数学轨迹，被整体投影成一个四维的柱体，名为“块状宇宙”，时间在其中成了预先刻在四维晶体里的一条条静态“世界线”，电影的放映则被说成主观的幻觉。把取样框外推为定律，正是[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所揭示的戏法。
+
+```mermaid
+flowchart TD
+    subgraph S_Extra["同一帧向两端的外推"]
+        direction TB
+        Slide["当前的黑白采样帧：唯一的经验数据"]
+        Back["把红移的方程向过去倒推"]
+        Point["全部像素挤为一点：称作大爆炸"]
+        Forward["把方程向未来推到无穷"]
+        Thin["像素稀释到无：称作热寂"]
+        Block["整条轨迹投影为四维的块"]
+        Slide --> Back
+        Back --> Point
+        Slide --> Forward
+        Forward --> Thin
+        Point --> Block
+        Thin --> Block
+    end
+
+    style S_Extra fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Slide fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Back fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Point fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Forward fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Thin fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Block fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+The same equations are then pushed toward the future, letting the pixels recede from one another without end. The place where distance stretches to infinity and the density of information goes mathematically to zero is called the end of time, the heat death of the universe. Finally, the whole mathematical trajectory, expanding from one point to unlimited thinness, is projected as a whole into a four-dimensional column named the "block universe," in which time becomes static "worldlines" engraved in advance within a four-dimensional crystal, and the showing of the film is said to be a subjective illusion. Extrapolating the sample frame into law is the sleight of hand that [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) exposes.
+
+```mermaid
+flowchart TD
+    subgraph S_Extra["One Frame Extrapolated to Both Ends"]
+        direction TB
+        Slide["The present black-and-white sample frame: the only empirical datum"]
+        Back["The redshift equations run backward into the past"]
+        Point["All pixels squeezed into one point: called the Big Bang"]
+        Forward["The equations pushed forward to infinity"]
+        Thin["Pixels diluted to nothing: called the heat death"]
+        Block["The whole trajectory projected as a four-dimensional block"]
+        Slide --> Back
+        Back --> Point
+        Slide --> Forward
+        Forward --> Thin
+        Point --> Block
+        Thin --> Block
+    end
+
+    style S_Extra fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Slide fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Back fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Point fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Forward fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Thin fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Block fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+[连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/)说明，一个数学函数在极限处出现奇点时，显出的是模型自身失效的位置。大爆炸的奇点与热寂由此可以读作对一张单帧的黑白幻灯片作坐标外推时，符号在纸面上走到尽头的地方。
+
+[The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) shows that when a mathematical function meets a singularity at a limit, what appears is the place where the model itself fails. The singularity of the Big Bang and the heat death can thus be read as where the symbols run out on paper when coordinates are extrapolated from a single black-and-white slide.
+
+## 六、 归还测量者 / 6. Returning the One Who Measures
+
+科学的实用无需否定。相对论与量子力学像是画得极准的二维地图。墨卡托投影把两极拉到无限大，也扭曲了陆地面积的对比，而航海者只要按地图上的角度航行，便能抵达对岸，因为地图保留了航行所需的相对关系。边界出现在忘了这是一张地图的时候：指着地图上无限延展的北极边缘说大地的尽头是一堵无限宽的冰墙，指着被拉成一点的原点说时间诞生于一个无穷小的像素。
+
+The practical use of science needs no denying. Relativity and quantum mechanics are like two-dimensional maps drawn with great accuracy. The Mercator projection stretches the poles to infinity and distorts the comparison of land areas, yet a navigator who sails by the angles on the map reaches the far shore, because the map keeps the relative relations that navigation needs. The boundary appears when it is forgotten that this is a map: pointing to the endlessly extended northern edge of the map and saying the end of the Earth is an infinitely wide wall of ice, or pointing to the origin stretched into a point and saying time was born in an infinitesimal pixel.
+
+宇宙一直是用心智在测量的。一切测量始于心智，留于心智，终于心智。被称为客观世界的“物理常数”的，是心智展开感知与理性的探查时，测量仪器自身的分辨率与带宽：光速是感知现实的最高刷新率，普朗克尺度是数字化的网格像素，引力场与时空的弯曲是把有限的视界投到全局背景时的几何补偿。[当电子开始思考](../when-electrons-think/)在电子的尺度上展示了同一张被定住的画面。
+
+```mermaid
+flowchart TD
+    subgraph S_Return["从地图回到测量者"]
+        direction TB
+        Map["地图：保留航行所需的角度"]
+        Mistake["把地图的畸变当作地理：冰墙与无穷小的原点"]
+        Measure["一切测量始于心智，留于心智，终于心智"]
+        Step["现实在当下一步一步地生成 +1"]
+        Map --> Mistake
+        Mistake --> Measure
+        Measure --> Step
+    end
+
+    style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Map fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Mistake fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Measure fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+The universe has been measured with Mind all along. All measurement begins with Mind, stays with Mind and ends with Mind. What are called the "physical constants" of an objective world are the resolution and bandwidth of the measuring instrument itself as a Mind unfolds perception and rational inquiry: the speed of light is the highest refresh rate of perceiving reality, the Planck scale is the grid pixel of digitization, and the gravitational field and the curvature of spacetime are the geometric compensation for casting a finite horizon onto a global background. [When Electrons Think](../when-electrons-think/) shows the same picture held still at the scale of electrons.
+
+```mermaid
+flowchart TD
+    subgraph S_Return["From the Map Back to the One Who Measures"]
+        direction TB
+        Map["A map: keeping the angles navigation needs"]
+        Mistake["The map's distortion taken for geography: the wall of ice and the infinitesimal origin"]
+        Measure["All measurement begins with Mind, stays with Mind, ends with Mind"]
+        Step["Reality is generated in the present, step by step +1"]
+        Map --> Mistake
+        Mistake --> Measure
+        Measure --> Step
+    end
+
+    style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Map fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Mistake fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Measure fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+从第一人称出发，找不到一张印好的四维全景胶片，也找不到一个站在万物之外审视全局的位置。能指出来的，是此刻每一个生命作出的因果决断与不可逆的代谢步进（+1）。那张被脱色、定住并拉伸到无穷的黑白幻灯片仍是一张好用的地图，电影则在放映之中：因果是画布，抉择是不可约的自由变量，未来由当下的一笔一画写成。
+
+Starting from the first person, no printed four-dimensional panoramic film is found, nor any position standing outside all things to inspect the whole. What can be pointed to are the causal decisions each life makes in this moment and its irreversible metabolic steps (+1). The black-and-white slide, desaturated, held still and stretched to infinity, remains a good map to use, while the film is in the showing: causality is the canvas, choice is the irreducible free variable, and the future is written by the strokes of the present.
