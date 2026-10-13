@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T11:25:17.335Z",
+    "generated_at": "2026-10-13T14:31:41.141Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -262,7 +262,7 @@
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "010cf824bc55",
       "content/posts/the-illusion-of-free-intelligence.md": "9568470705b9",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "de6493d46028",
-      "content/posts/the-illusion-of-the-shared-sandbox.md": "58de2266a588",
+      "content/posts/the-illusion-of-the-shared-sandbox.md": "744ed48a679b",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "2de4df8e84dd",
       "content/posts/the-illusion-of-the-unmediated.md": "8e56c117ba6d",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
@@ -6732,7 +6732,7 @@
       "slug": "the-illusion-of-the-shared-sandbox",
       "path": "content/posts/the-illusion-of-the-shared-sandbox.md",
       "title": "共享沙盒的幻象 / The Illusion of the Shared Sandbox",
-      "hash": "58de2266a588",
+      "hash": "744ed48a679b",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -31497,27 +31497,15 @@
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
-      "to": "the-twin-paradox-and-the-hidden-observer",
-      "rel": "points_to",
-      "label": "双生子佯谬与隐秘观察者"
-    },
-    {
-      "from": "the-illusion-of-the-shared-sandbox",
-      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-      "rel": "points_to",
-      "label": "因果是不可约的先验，物理是没有视角的视角"
-    },
-    {
-      "from": "the-illusion-of-the-shared-sandbox",
-      "to": "po-chu-gai-nian-de-jian-yue",
-      "rel": "points_to",
-      "label": "破除概念的僭越"
-    },
-    {
-      "from": "the-illusion-of-the-shared-sandbox",
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
       "label": "The Causal Inversion of Partnership"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "双生子佯谬与隐秘观察者"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
@@ -31529,31 +31517,43 @@
       "from": "the-illusion-of-the-shared-sandbox",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
-      "label": "Causality is Irreducible, the Physical is a View from Nowhere"
+      "label": "因果的自反性与物理的无源假定"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "Overcoming the Usurpation of Concepts"
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "Causality is Irreducible; The Physical is a View from Nowhere"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Breaking the Overreach of Concepts"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "价格作为话语，理解作为交易"
-    },
-    {
-      "from": "the-illusion-of-the-shared-sandbox",
-      "to": "demanding-a-toe-freezes-time-into-a-catalog",
-      "rel": "points_to",
-      "label": "索求万物理论是在将当下冻结为清单"
+      "label": "价格是言说，理解是交易"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
       "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "索求万物理论是在将当下冻结为清单"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
@@ -31575,12 +31575,6 @@
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
-      "to": "the-residue-and-the-free-variable",
-      "rel": "points_to",
-      "label": "残余与自由变量"
-    },
-    {
-      "from": "the-illusion-of-the-shared-sandbox",
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
       "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
@@ -31590,6 +31584,12 @@
       "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "rel": "points_to",
       "label": "The Black-and-White Sample Frame and the Extrapolated Universe"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "残余与自由变量"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
