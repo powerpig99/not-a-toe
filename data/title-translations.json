@@ -362,6 +362,10 @@
     "openness-is-consistency": {
       "title_zh": "开放即一致",
       "subtitle_zh": "不一致是对闭合的渴望或尝试，是让一个有限的结构去为只会延续的东西奠基。"
+    },
+    "time-is-causality-not-a-dimension": {
+      "title_zh": "时间是因果的不可逆方向与离散步长",
+      "subtitle_zh": "第四维是心智内部的坐标：向后投射到过去以理解当下，向前投射到未来以预测结果。"
     }
   }
 }
