@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T14:55:26.537Z",
+    "generated_at": "2026-10-13T15:20:55.472Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -305,7 +305,7 @@
       "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
       "content/posts/the-observational-cut-in-ai-debates.md": "5884a66a9a71",
       "content/posts/the-only-coherent-uncaused-effect.md": "e2d429f8fb89",
-      "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "defac21d270e",
+      "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "b86a9c7f9f6a",
       "content/posts/the-other-coherence.md": "fc324a17a568",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "5f263a356b4c",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
@@ -418,10 +418,10 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5439,
-      "unique_directed": 4488,
+      "edges": 5441,
+      "unique_directed": 4489,
       "missing_targets": 0,
-      "one_way": 94,
+      "one_way": 95,
       "isolated": 37,
       "posts_with_outbound": 353,
       "book_pages": 16,
@@ -6733,7 +6733,7 @@
       "path": "content/posts/the-illusion-of-the-shared-sandbox.md",
       "title": "共享沙盒的幻象 / The Illusion of the Shared Sandbox",
       "hash": "744ed48a679b",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -7606,10 +7606,11 @@
       "slug": "the-origin-of-god-and-the-flattening-of-we",
       "path": "content/posts/the-origin-of-god-and-the-flattening-of-we.md",
       "title": "上帝的起源与“我们”的降维 / The Origin of God and the Flattening of \"We\"",
-      "hash": "defac21d270e",
+      "hash": "b86a9c7f9f6a",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
+        "the-illusion-of-the-shared-sandbox",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank"
       ]
     },
@@ -34581,6 +34582,18 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "ownership and self-worthiness"
+    },
+    {
+      "from": "the-origin-of-god-and-the-flattening-of-we",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "共享沙盒的幻象"
+    },
+    {
+      "from": "the-origin-of-god-and-the-flattening-of-we",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "The Illusion of the Shared Sandbox"
     },
     {
       "from": "the-origin-of-god-and-the-flattening-of-we",
