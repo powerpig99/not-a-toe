@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T15:47:25.724Z",
+    "generated_at": "2026-10-13T16:09:33.690Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -342,7 +342,7 @@
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "3c66bd80af77",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
-      "content/posts/the-sovereign-blinding.md": "e5035c2d54c9",
+      "content/posts/the-sovereign-blinding.md": "cd509f0ae674",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "466ba4f09356",
@@ -418,10 +418,10 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5447,
-      "unique_directed": 4492,
+      "edges": 5449,
+      "unique_directed": 4493,
       "missing_targets": 0,
-      "one_way": 98,
+      "one_way": 99,
       "isolated": 37,
       "posts_with_outbound": 353,
       "book_pages": 16,
@@ -6877,7 +6877,7 @@
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
       "hash": "6bb1ab2dad94",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 15,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -8553,10 +8553,11 @@
       "slug": "the-sovereign-blinding",
       "path": "content/posts/the-sovereign-blinding.md",
       "title": "自愿的致盲 / The Sovereign Blinding",
-      "hash": "e5035c2d54c9",
+      "hash": "cd509f0ae674",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "how-to-fix-your-whole-life-in-one-split-second",
         "silicon-oracles-and-the-asymmetry-of-consequence"
       ]
@@ -38236,15 +38237,27 @@
     },
     {
       "from": "the-sovereign-blinding",
-      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
-      "label": "一秒钟修复你的整个人生"
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-sovereign-blinding",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
     },
     {
       "from": "the-sovereign-blinding",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
-      "label": "*How to Fix Your Whole Life in One Split Second*"
+      "label": "如何在一瞬间修正你的整个人生"
+    },
+    {
+      "from": "the-sovereign-blinding",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to Fix Your Whole Life in One Split Second"
     },
     {
       "from": "the-sovereign-blinding",
