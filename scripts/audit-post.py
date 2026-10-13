@@ -42,7 +42,7 @@ BANNED_WORDS = [
 
 # Retired 2026-10-12: the companion NotebookLM prompt and the walkthrough's prompt and Spotify sections are no
 # longer deliverables (the audio and its show notes are made in studio/, see studio/library/workflow.md).
-# Set to False to require them again; a prompt file or section that is present is still checked.
+# Set to False to require and check them again; while retired, a prompt file that is still present is not checked.
 NOTEBOOKLM_RETIRED = True
 
 REQUIRED_WALKTHROUGH_SECTIONS = [
@@ -663,9 +663,10 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
     if not audio_prompt_file.is_file():
         prompt_missing.append(f"notebooklm-auto/prompts/{slug}_zh.txt (Audio Dialogue)")
 
-    if prompt_missing:
-        if not NOTEBOOKLM_RETIRED:
-            warnings.append(f"Missing companion NotebookLM prompt file: {prompt_missing}")
+    if NOTEBOOKLM_RETIRED:
+        pass
+    elif prompt_missing:
+        warnings.append(f"Missing companion NotebookLM prompt file: {prompt_missing}")
     else:
         # Check prompt files for banned words & raw $
         prompt_files_to_check = [audio_prompt_file]

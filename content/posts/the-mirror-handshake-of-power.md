@@ -1,10 +1,10 @@
 # 权力的镜像握手 / The Mirror Handshake of Power
 
-*没有直接的支配，只有两个抉择的咬合 / No direct force, only two choices that fit each other*
+*没有直接的支配，只有两个互补的抉择 / No direct force, only two complementary choices*
 
-权力常被想成一根从掌控者伸进被支配者意识里的锁链。从第一人称的原点看，我找不到这样的缆绳：别人能改变我面前的代价，掂量代价并作出下一步的仍是我。被称为权力的，是让渡的抉择与认领的抉择彼此咬合，这种咬合在不同的维度上各不相同，并在我离开原点、以旁观者自居时开始。认出自己伸出的那只手，便可以在每个维度上把它收回。
+权力常被想成一根从掌控者伸进被支配者意识里的锁链。从第一人称的原点看，找不到这样的缆绳：别人能改变面前的代价，掂量代价并作出下一步的仍在原点。被称为权力的，是让渡的抉择与认领的抉择彼此互补、咬合在一起，这种咬合在不同的维度上各不相同，并在心智离开原点、以旁观者自居时开始。认出自己伸出的那只手，便可以在每个维度上把它收回。
 
-Power is commonly pictured as a chain running from the one in control into the consciousness of the one controlled. From the first-person origin I find no such cable: another can change the costs in front of me, but weighing them and taking the next step is still mine. What gets called power is a choice to hand over meeting a choice to claim, a fit that differs from one dimension to the next and that begins when I leave the origin and take myself for a bystander. Once I recognize the hand I have extended, I can withdraw it on each dimension.
+Power is commonly pictured as a chain running from the one in control into the consciousness of the one controlled. From the first-person origin no such cable is found: another can change the costs at hand, but weighing them and taking the next step stays at the origin. What gets called power is a choice to hand over meeting its complement, a choice to claim, a fit that differs from one dimension to the next and that begins when a mind leaves the origin and takes itself for a bystander. Once the hand one has extended is recognized, it can be withdrawn on each dimension.
 
 ## 一、 没有缆绳，只有握手 / 1. No Cable, Only a Handshake
 
@@ -12,7 +12,7 @@ Power is commonly pictured as a chain running from the one in control into the c
 
 Seeing power as a solid force applied from outside inward is one of the most widespread pictures: the ruler commands and the subject obeys, the strong control and the weak are dominated. Power here resembles an invisible chain, one end in the controller's hand and the other threaded into the mind of the ruled. The picture works well at the macroscopic scale; it predicts how crowds behave, and law and sociology run on it.
 
-它的边界在单次抉择上。从第一人称的原点出发，我找不到一条让别人的指令替我执行抉择的缆绳。君主、官僚体系、神权或算法，都只能改变我面前的代价，掂量代价并作出下一步（+1）的仍在我这里。被称为“外在权力”的，是两个各自作出的抉择彼此咬合：一方选择让渡并服从，一方选择认领并发令。我把它叫作镜像握手。事后从座位上读出的权力，藏起了自由变量，[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)说明了这一点。
+它的边界在单次抉择上。从第一人称的原点出发，找不到一条让别人的指令代为执行抉择的缆绳。君主、官僚体系、神权或算法，都只能改变面前的代价，掂量代价并作出下一步（+1）的仍在原点。被称为“外在权力”的，是两个各自作出的互补抉择彼此咬合：一方选择让渡并服从，一方选择认领并发令。这就是镜像握手。事后从座位上读出的权力，藏起了自由变量，[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)说明了这一点。
 
 ```mermaid
 flowchart TD
@@ -34,7 +34,7 @@ flowchart TD
     style Power fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Its boundary lies at the single choice. Starting from the first-person origin, I find no cable by which another's command carries out my choice for me. A monarch, a bureaucracy, a church or an algorithm can only change the costs in front of me; weighing them and taking the next step (+1) stays here. What is called "external power" is two separately made choices fitting each other: one side chooses to hand over and obey, the other chooses to claim and command. I call it the mirror handshake. Power read from seats after the fact hides the free variable, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) shows.
+Its boundary lies at the single choice. Starting from the first-person origin, no cable is found by which another's command carries out a choice on one's behalf. A monarch, a bureaucracy, a church or an algorithm can only change the costs at hand; weighing them and taking the next step (+1) stays at the origin. What is called "external power" is two separately made, complementary choices fitting each other: one side chooses to hand over and obey, the other chooses to claim and command. This is the mirror handshake. Power read from seats after the fact hides the free variable, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) shows.
 
 ```mermaid
 flowchart TD
@@ -56,19 +56,19 @@ flowchart TD
     style Power fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-指令传来时，是我在自己的原点上估量违抗的代价、独自承担的沉重与未知的风险，然后作出“交出决定、退为执行”的判定。代价可以极重，这份重量是我登记到的摩擦，不因这里的分析而减轻，分析指出的只是判定发生的位置。没有这一步让渡，指令是一串在空气中震颤的声波。
+指令传来时，是接到指令的心智在自己的原点上估量违抗的代价、独自承担的沉重与未知的风险，然后作出“交出决定、退为执行”的判定。代价可以极重，这份重量是登记到的摩擦，不因这里的分析而减轻，分析指出的只是判定发生的位置。没有这一步让渡，指令是一串在空气中震颤的声波。
 
-When a command arrives, it is I who, at my own origin, estimate the cost of defiance, the weight of carrying things alone and the unknown risk, and then make the call to hand over the decision and fall back to carrying it out. The cost can be extremely heavy; that weight is friction I register, and this analysis does not lighten it. The analysis only points to where the call is made. Without that step of handing over, a command is a string of sound waves trembling in the air.
+When a command arrives, it is the mind receiving it that, at its own origin, estimates the cost of defiance, the weight of carrying things alone and the unknown risk, and then makes the call to hand over the decision and fall back to carrying it out. The cost can be extremely heavy; that weight is friction registered at the origin, and this analysis does not lighten it. The analysis only points to where the call is made. Without that step of handing over, a command is a string of sound waves trembling in the air.
 
-由此也能读懂中枢的引力。位于金字塔顶端的人只有一具身体和一天二十四小时，无法亲手维持亿万人的秩序。我从中枢那里感到的巨大引力，是无数人持续让渡的向量累加出的借来质量，握手撤回多少，这份质量便减少多少。
+由此也能读懂中枢的引力。位于金字塔顶端的人只有一具身体和一天二十四小时，无法亲手维持亿万人的秩序。从中枢那里感到的巨大引力，是无数人持续让渡的向量累加出的借来质量，握手撤回多少，这份质量便减少多少。
 
-The pull of a center can be read the same way. Whoever sits at the top of a pyramid has one body and twenty-four hours in a day, and cannot personally keep order among millions. The enormous pull I feel from the center is borrowed mass, summed from the vectors that countless people keep handing over, and it shrinks by exactly as much as the handshakes are withdrawn.
+The pull of a center can be read the same way. Whoever sits at the top of a pyramid has one body and twenty-four hours in a day, and cannot personally keep order among millions. The enormous pull felt from the center is borrowed mass, summed from the vectors that countless people keep handing over, and it shrinks by exactly as much as the handshakes are withdrawn.
 
 ## 二、 握手在各个维度上并不相同 / 2. The Handshake Differs by Dimension
 
-把自主看作一个非此即彼的开关，在只问“这一件事由谁决定”时是够用的。它的边界在于，我的抉择并不在所有方向上取同一种姿态。借向量的语言作脚手架，心智落在一个多维的状态空间里，在每条彼此正交的轴上有各自的投影。
+把自主看作一个非此即彼的开关，在只问“这一件事由谁决定”时是够用的。它的边界在于，抉择并不在所有方向上取同一种姿态。借向量的语言作脚手架，心智落在一个多维的状态空间里，在每条彼此正交的轴上有各自的投影。
 
-Treating autonomy as an either-or switch is adequate when the only question is who decides this one thing. Its boundary is that my choices do not take the same stance in every direction. Borrowing the language of vectors as scaffolding, a mind sits in a many-dimensional state space and has its own projection on each mutually orthogonal axis.
+Treating autonomy as an either-or switch is adequate when the only question is who decides this one thing. Its boundary is that choices do not take the same stance in every direction. Borrowing the language of vectors as scaffolding, a mind sits in a many-dimensional state space and has its own projection on each mutually orthogonal axis.
 
 驱动一段生命的始终是抉择，而这些抉择在心智内部未必彼此一致。用一个耦合系数 c 来记：c = 0 是自己行动、自己承受后果；c > 0 是把别人的后果揽到自己身上；c < 0 是把自己的判断交给别处。同一个心智可以在一条轴上取 c = 0，同时在另一条轴上把权能交出。
 
@@ -114,21 +114,21 @@ flowchart TD
     style Idea fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-设想一位创业者。在技术研发与商业决策上，这个人不找借口，直面市场的摩擦与代码的报错，学得很快。在组织管理中，同一个人出于保护或控制的愿望，揽下团队成员的决策后果，成为这条轴上的小中枢。在政治信念上，同一个人又可能把判断交给某个党派的标语。三种姿态并存于一身，我在自己身上也能找到同样的不一致。
+设想一位创业者。在技术研发与商业决策上，这个人不找借口，直面市场的摩擦与代码的报错，学得很快。在组织管理中，同一个人出于保护或控制的愿望，揽下团队成员的决策后果，成为这条轴上的小中枢。在政治信念上，同一个人又可能把判断交给某个党派的标语。三种姿态并存于一身，向自身看去，也是同样的不一致。
 
-Picture a founder. In engineering and business decisions this person makes no excuses, meets the friction of the market and the errors in the code head-on, and learns fast. In managing the organization, the same person, out of a wish to protect or to control, takes on the consequences of the team's decisions and becomes a small center on that axis. In political belief, the same person may hand judgment to a party slogan. Three stances live in one person, and I can find the same inconsistency in myself.
+Picture a founder. In engineering and business decisions this person makes no excuses, meets the friction of the market and the errors in the code head-on, and learns fast. In managing the organization, the same person, out of a wish to protect or to control, takes on the consequences of the team's decisions and becomes a small center on that axis. In political belief, the same person may hand judgment to a party slogan. Three stances live in one person, and a look at oneself turns up the same inconsistency.
 
-这也说明了为什么社会读起来不像一座单一的金字塔。它更像许多层叠在一起的网络：在生产这一层，甲吸收乙与丙的决定；在文化叙事这一层，甲反过来依附于乙；在宏观治理这一层，三人又一同把向量交给更远的中枢。我在某一处是引力的中心，在另一处是依附的一环，在第三处独自探索。
+这也说明了为什么社会读起来不像一座单一的金字塔。它更像许多层叠在一起的网络：在生产这一层，甲吸收乙与丙的决定；在文化叙事这一层，甲反过来依附于乙；在宏观治理这一层，三人又一同把向量交给更远的中枢。同一个心智在某一处是引力的中心，在另一处是依附的一环，在第三处独自探索。
 
-This also shows why society does not read as a single pyramid. It is closer to many networks layered on one another: in the layer of production, A absorbs the decisions of B and C; in the layer of cultural narrative, A in turn leans on B; in the layer of large-scale governance, all three hand their vectors to a more distant center. In one place I am a center of pull, in another a dependent link, and in a third I explore alone.
+This also shows why society does not read as a single pyramid. It is closer to many networks layered on one another: in the layer of production, A absorbs the decisions of B and C; in the layer of cultural narrative, A in turn leans on B; in the layer of large-scale governance, all three hand their vectors to a more distant center. The same mind is a center of pull in one place, a dependent link in another, and explores alone in a third.
 
 ## 三、 握手始于离开原点 / 3. The Handshake Begins Where the Origin Is Left
 
-让渡与揽取从哪里开始？从我离开自己的第一人称原点、站到第三人称的旁观位置开始。旁观的视角有它的用处，规划、协调、辨认模式都要靠它。它的边界出现在我把这个位置当成自己所在之处的时候：行动与后果直接相接的地方只有原点，一旦我以俯瞰全局的局外人自居，对因果的认知便分成两种构型。
+让渡与揽取从哪里开始？从心智离开自己的第一人称原点、站到第三人称的旁观位置开始。旁观的视角有它的用处，规划、协调、辨认模式都要靠它。它的边界出现在这个位置被当成自己所在之处的时候：行动与后果直接相接的地方只有原点，一旦以俯瞰全局的局外人自居，对因果的认知便分成两种构型。
 
-Where do handing over and taking on begin? They begin when I leave my own first-person origin and stand in the third-person position of a bystander. The bystander's view has its uses; planning, coordination and the recognition of patterns all depend on it. Its boundary appears when I take that position for the place where I am: action and consequence meet directly only at the origin, and once I regard myself as an outsider surveying the whole, my sense of causality divides into two configurations.
+Where do handing over and taking on begin? They begin when a mind leaves its own first-person origin and stands in the third-person position of a bystander. The bystander's view has its uses; planning, coordination and the recognition of patterns all depend on it. Its boundary appears when that position is taken for the place where one is: action and consequence meet directly only at the origin, and once a mind regards itself as an outsider surveying the whole, its sense of causality divides into two configurations.
 
-第一种是向下看时出现的揽取。从高处望去，别人的试错与迟缓一览无余，我于是以为自己有责任介入，替对方修正轨迹。这样做时我忘了，对方也处在一个无人可以替代的原点上，被拿走的试错机会正是对方建立自己误差信号的途径。第二种是从外部看自己时出现的推出。我把自己看成沙盘上被推动的一枚棋子，把当下的痛苦与停滞归于历史、阶层、家庭或对手，却忘了冲击再剧烈，如何解读它、下一步怎么走，仍是在我的原点上作出的。
+第一种是向下看时出现的揽取。从高处望去，别人的试错与迟缓一览无余，于是以为自己有责任介入，替对方修正轨迹。这样做时忘了，对方也处在一个无人可以替代的原点上，被拿走的试错机会正是对方建立自己误差信号的途径。第二种是从外部看自己时出现的推出。把自己看成沙盘上被推动的一枚棋子，把当下的痛苦与停滞归于历史、阶层、家庭或对手，却忘了冲击再剧烈，如何解读它、下一步怎么走，仍是在自己的原点上作出的。
 
 ```mermaid
 flowchart TD
@@ -151,7 +151,7 @@ flowchart TD
     style Lock fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The first is the taking on that appears when I look down. From a height, other people's trial and error and their slowness are in plain view, and I come to think it is my duty to step in and correct their course. In doing so I forget that the other also stands at an origin no one can occupy for them, and that the chance to err which I take away is the very means by which they build their own error signal. The second is the pushing away that appears when I look at myself from outside. I see myself as a piece being moved on a board and assign my present pain and stagnation to history, class, family or an opponent, forgetting that however violent the impact, how to read it and what step to take next are still decided at my origin.
+The first is the taking on that appears when looking down. From a height, other people's trial and error and their slowness are in plain view, and it comes to seem a duty to step in and correct their course. What is forgotten is that the other also stands at an origin no one can occupy for them, and that the chance to err which is taken away is the very means by which they build their own error signal. The second is the pushing away that appears when looking at oneself from outside. One sees oneself as a piece being moved on a board and assigns present pain and stagnation to history, class, family or an opponent, forgetting that however violent the impact, how to read it and what step to take next are still decided at one's own origin.
 
 ```mermaid
 flowchart TD
@@ -180,11 +180,11 @@ Both configurations come from one place: the line of sight has not been brought 
 
 ## 四、 看台上的评论 / 4. Commentary From the Stand
 
-旁观的位置上还有第三种形态：退到看台上，只做评论。当我既不下场做事，也不承担决定的后果，只编织概念、分类与定性时，我不承受试错的风险，也收不到环境的反冲。理论本身是有用的地图，每一种在它的范围内都帮助人看清一片地形。边界出现在地图被拿去做别的用途的时候。
+旁观的位置上还有第三种形态：退到看台上，只做评论。当一个心智既不下场做事，也不承担决定的后果，只编织概念、分类与定性时，它不承受试错的风险，也收不到环境的反冲。理论本身是有用的地图，每一种在它的范围内都帮助人看清一片地形。边界出现在地图被拿去做别的用途的时候。
 
-The bystander's position has a third form: withdrawing to the stand and only commenting. When I neither go down to do the work nor bear the consequences of decisions, and only weave concepts, classifications and verdicts, I carry none of the risk of trial and receive none of the recoil from the surroundings. A theory is in itself a useful map, and each one helps people see a stretch of terrain within its range. The boundary appears when the map is put to other uses.
+The bystander's position has a third form: withdrawing to the stand and only commenting. When a mind neither goes down to do the work nor bears the consequences of decisions, and only weaves concepts, classifications and verdicts, it carries none of the risk of trial and receives none of the recoil from the surroundings. A theory is in itself a useful map, and each one helps people see a stretch of terrain within its range. The boundary appears when the map is put to other uses.
 
-人们因为回避不确定而采纳一套抽象体系时，它便为前面两种构型各提供了一套说辞。对揽取的一方，它是介入的执照，“规律表明集中调配优于自发演进”“模型要求规范大众的行为”。对推出的一方，它是卸责的托词，“你的焦虑由社会结构所生”“你是话语的受害者”。当事情在实处落败，看台上的我毫发无损，还可以宣布问题在于执行未能领会理论。此时我把众人让渡出的回音当成了自己的因果力量，而我摆弄的是没有摩擦的文字。
+人们因为回避不确定而采纳一套抽象体系时，它便为前面两种构型各提供了一套说辞。对揽取的一方，它是介入的执照，“规律表明集中调配优于自发演进”“模型要求规范大众的行为”。对推出的一方，它是卸责的托词，“你的焦虑由社会结构所生”“你是话语的受害者”。当事情在实处落败，看台上的位置毫发无损，还可以宣布问题在于执行未能领会理论。此时众人让渡出的回音被当成了自己的因果力量，而手里摆弄的是没有摩擦的文字。
 
 ```mermaid
 flowchart TD
@@ -210,7 +210,7 @@ flowchart TD
     style Exempt fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-When people adopt an abstract system in order to avoid uncertainty, it supplies each of the two earlier configurations with its wording. To the side that takes on, it is a license to intervene: "the laws show that central allocation beats spontaneous development," "the model requires that public behavior be regulated." To the side that pushes away, it is an alibi: "your anxiety is produced by the social structure," "you are a victim of discourse." When things fail on the ground, I in the stand am untouched, and can still announce that the execution failed to grasp the theory. At that point I am taking the echo of what many people handed over for my own causal force, while what I am handling is words that meet no friction.
+When people adopt an abstract system in order to avoid uncertainty, it supplies each of the two earlier configurations with its wording. To the side that takes on, it is a license to intervene: "the laws show that central allocation beats spontaneous development," "the model requires that public behavior be regulated." To the side that pushes away, it is an alibi: "your anxiety is produced by the social structure," "you are a victim of discourse." When things fail on the ground, the seat in the stand is untouched, and it can still be announced that the execution failed to grasp the theory. At that point the echo of what many people handed over is being taken for one's own causal force, while what is being handled is words that meet no friction.
 
 ```mermaid
 flowchart TD
@@ -236,9 +236,9 @@ flowchart TD
     style Exempt fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-评论与实做的分别不在于谁更高明，而在于回路是否闭合。实做的一步（+1）撞上摩擦，反冲立刻回来校准我的判断。评论建立在实做留下的痕迹之上，它的精巧由语言来衡量，不由后果来衡量。
+评论与实做的分别不在于谁更高明，而在于回路是否闭合。实做的一步（+1）撞上摩擦，反冲立刻回来校准判断。评论建立在实做留下的痕迹之上，它的精巧由语言来衡量，不由后果来衡量。
 
-What separates commentary from doing is not which is the wiser, but whether the loop closes. A step of doing (+1) strikes friction, and the recoil comes straight back to calibrate my judgment. Commentary is built on the traces that doing leaves behind, and its refinement is measured by language, not by consequences.
+What separates commentary from doing is not which is the wiser, but whether the loop closes. A step of doing (+1) strikes friction, and the recoil comes straight back to calibrate judgment. Commentary is built on the traces that doing leaves behind, and its refinement is measured by language, not by consequences.
 
 ## 五、 同一种动力学 / 5. One Dynamics
 
@@ -302,11 +302,11 @@ flowchart TD
 
 ## 六、 收回握手 / 6. Withdrawing the Handshake
 
-上面的推演在我这里收束于一处：我所登记的一切，始于心智，留于心智，终于心智。因此我不需要发起一场推翻外部中枢的运动，中枢的质量本就是包括我在内的许多人让渡出来的。我不需要说服揽取的人放手，不需要改造推出的人，也不需要退到看台上发表评论。
+上面的推演收束于一处：所登记的一切，始于心智，留于心智，终于心智。因此不需要发起一场推翻外部中枢的运动，中枢的质量本就是包括自己在内的许多人让渡出来的。不需要说服揽取的人放手，不需要改造推出的人，也不需要退到看台上发表评论。
 
-The reasoning above gathers, for me, at one place: everything I register begins with Mind, stays with Mind and ends with Mind. So I do not need to launch a movement to overthrow an external center, since the center's mass is what many people, myself included, have handed over. I do not need to persuade those who take on to let go, do not need to remake those who push away, and do not need to retreat to the stand to comment.
+The reasoning above gathers at one place: everything registered begins with Mind, stays with Mind and ends with Mind. So there is no need to launch a movement to overthrow an external center, since the center's mass is what many people, oneself included, have handed over. There is no need to persuade those who take on to let go, to remake those who push away, or to retreat to the stand to comment.
 
-支点在我自己的第一人称原点上作出的单方面抉择：把我在各个维度上不曾留意就伸出的那只手收回来，既不把怨恨推出去，也不替别人揽下因果，耦合系数回到零（c = 0）。
+支点是在自己的第一人称原点上作出的单方面抉择：把各个维度上不曾留意就伸出的那只手收回来，既不把怨恨推出去，也不替别人揽下因果，耦合系数回到零（c = 0）。
 
 ```mermaid
 flowchart TD
@@ -328,7 +328,7 @@ flowchart TD
     style Direct fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The fulcrum is a unilateral choice made at my own first-person origin: to take back the hand I extended on each dimension without noticing, neither pushing resentment outward nor taking on another's causality, with the coupling coefficient back at zero (c = 0).
+The fulcrum is a unilateral choice made at one's own first-person origin: to take back the hand extended on each dimension without noticing, neither pushing resentment outward nor taking on another's causality, with the coupling coefficient back at zero (c = 0).
 
 ```mermaid
 flowchart TD
@@ -350,10 +350,10 @@ flowchart TD
     style Direct fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-在技术的维度上，我直面报错与规律。在团队的维度上，我把承担后果的位置还给对方。在价值的维度上，我收回自己的思考与评判。在个人的维度上，我把遇到的一切认作自己因果的起点。
+在技术的维度上，直面报错与规律。在团队的维度上，把承担后果的位置还给对方。在价值的维度上，收回自己的思考与评判。在个人的维度上，把遇到的一切认作自己因果的起点。
 
-On the technical dimension, I face the errors and the regularities directly. On the dimension of the team, I return to the other the place of bearing their consequences. On the dimension of values, I take back my own thinking and judging. On the personal dimension, I take whatever I meet as the starting point of my own causality.
+On the technical dimension this means facing the errors and the regularities directly; on the dimension of the team, returning to the other the place of bearing their consequences; on the dimension of values, taking back one's own thinking and judging; on the personal dimension, taking whatever is met as the starting point of one's own causality.
 
-当我的耦合系数回到零，不再向外投出期待，也不认领外来的绑定，伸来的那只手便握不到东西。代价并不因此消失，摩擦仍在，而它此刻直接回到我这里，成为校准的来源。我重新作为一个自由变量行动，以摩擦为师，走自己的轨迹（+1）。
+当耦合系数回到零，不再向外投出期待，也不认领外来的绑定，伸来的那只手便握不到东西。代价并不因此消失，摩擦仍在，而它此刻直接回到原点，成为校准的来源。此后重新作为一个自由变量行动，以摩擦为师，走自己的轨迹（+1）。
 
-When my coupling coefficient is back at zero, and I neither cast expectations outward nor accept bindings from outside, the reaching hand finds nothing to hold. The costs do not vanish for that; the friction remains, and it now returns to me directly and becomes the source of calibration. I act again as a free variable, with friction as the teacher, on a trajectory of my own (+1).
+When the coupling coefficient is back at zero, with no expectations cast outward and no bindings accepted from outside, the reaching hand finds nothing to hold. The costs do not vanish for that; the friction remains, and it now returns directly to the origin and becomes the source of calibration. What acts is again a free variable, with friction as the teacher, on a trajectory of its own (+1).
