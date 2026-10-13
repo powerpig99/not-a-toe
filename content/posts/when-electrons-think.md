@@ -208,9 +208,9 @@ flowchart TD
     style Trace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-于是“电子在被观察时改变行为”不必读作神秘。第三人称的数学无法预先捕捉边界上的动作，只能用一个涵盖各种可能的分布，即波函数，来作统计。所谓波函数的坍缩，是测量与边界发生接触的那一刻，可能性兑现为一条确定痕迹的寻常事实。
+于是“电子在被观察时改变行为”不必读作神秘。第三人称的数学无法预先捕捉边界上的动作，只能用一个涵盖各种可能的分布，即波函数，来作统计。所谓波函数的坍缩，是测量与边界发生接触的那一刻，可能性兑现为一条确定痕迹的寻常事实。从信息到物理的这一跃，是在心智这里被切身感到并实现的，它的名字是观测。
 
-So "the electron changes its behavior when observed" need not be read as a mystery. Third-person mathematics cannot capture the act at the boundary in advance and can only do statistics with a distribution that covers the possibilities, the wavefunction. What is called the collapse of the wavefunction is the ordinary fact that, at the moment measurement makes contact with the boundary, possibility is redeemed as one definite trace.
+So "the electron changes its behavior when observed" need not be read as a mystery. Third-person mathematics cannot capture the act at the boundary in advance and can only do statistics with a distribution that covers the possibilities, the wavefunction. What is called the collapse of the wavefunction is the ordinary fact that, at the moment measurement makes contact with the boundary, possibility is redeemed as one definite trace. This jump from the informational to the physical is felt and actualized in the Mind, and its name is observation.
 
 ## 四、 宏观的确定是微观自由变量的统计沉淀 / 4. Macroscopic Determinacy as the Statistical Sediment of Free Variables
 
@@ -334,9 +334,9 @@ flowchart TD
     style Entropy fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-一块石头与一个活着的人，区别于是不在于一边是“死的物质”、另一边藏着“神秘的灵魂”，而在于更新的节律与自由度。活着的心智在每个当下作出新的抉择，因而被遇见为生动而不可预先算定。一块石头是数量极大的关系在漫长的时间里相互锁定之后的平衡，它按地质的尺度缓慢变化，因而被遇见为不动的东西。意志与抉择属于活着的心智，石头并不因这种读法而有了意愿，这里说的只是两者不必被划进两个互不相通的领域。
+一块石头与一个活着的人，区别于是不在于一边是“死的物质”、另一边藏着“神秘的灵魂”，而在于更新的节律与自由度。活着的心智在每个当下作出新的抉择，因而被遇见为生动而不可预先算定。一块石头是数量极大的关系在漫长的时间里相互锁定之后的平衡，它按地质的尺度缓慢变化，因而被遇见为不动的东西。可以设想万物都是以不同速度思考的心智，而这仍是心智作出的一个概念，作出它的是所知的唯一一种心智，人的心智。从不被当作有生命的东西到被当作有意识的生命，隔着近乎无限的尺度差，这段距离从外部无从证明。意志与抉择属于活着的心智，石头并不因这种读法而有了意愿，这里说的只是两者不必被划进两个互不相通的领域。
 
-A stone and a living person thus differ not in one side being "dead matter" and the other hiding a "mysterious soul," but in the cadence of renewal and the degrees of freedom. A living Mind makes a new choice in each present and is therefore met as vivid and not computable in advance. A stone is the equilibrium of an enormous number of relationships after they have locked together over a long time; it changes slowly on a geological scale and is therefore met as a thing that does not move. Will and choice belong to living Minds, and the stone does not acquire a will through this reading; the point is only that the two need not be assigned to two realms with no passage between them.
+A stone and a living person thus differ not in one side being "dead matter" and the other hiding a "mysterious soul," but in the cadence of renewal and the degrees of freedom. A living Mind makes a new choice in each present and is therefore met as vivid and not computable in advance. A stone is the equilibrium of an enormous number of relationships after they have locked together over a long time; it changes slowly on a geological scale and is therefore met as a thing that does not move. Everything can be imagined as a Mind thinking at a different speed, and that is still a concept made by a Mind, the only kind that is known, the human Mind. Between things not treated as living and the living things treated as conscious lies a nearly unlimited difference of scale, a distance that cannot be proven from outside. Will and choice belong to living Minds, and the stone does not acquire a will through this reading; the point is only that the two need not be assigned to two realms with no passage between them.
 
 ## 六、 当下的一步与万物理论 / 6. The Present Step and the Theory of Everything
 
