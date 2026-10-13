@@ -148,9 +148,9 @@ The determinacy and regularity of the everyday world get one account from this. 
 
 ## 三、 不确定性与自由变量是同一件事的两面 / 3. Indeterminacy and the Free Variable as Two Faces of One Thing
 
-有一句常被归于理查德·费曼的玩笑：想象一下，如果电子有感情，物理学会难做多少。它的出处未能查到。这句话多被用来反衬无机物的驯顺可测，而它无意间也指向了量子现象的形状：一个有自己主意的东西，从外部是无法事先算定的。
+理查德·费曼有一句广为流传的玩笑：想象一下，如果电子有了思考的能力，物理学会难做多少，因为去看它的时候，它会根据观察改变自己的行为。这句话多被用来反衬无机物的驯顺可测，而它无意间也指向了量子现象的形状：一个有自己主意的东西，从外部是无法事先算定的。
 
-There is a quip widely attributed to Richard Feynman: imagine how much harder physics would be if electrons had feelings. Its source could not be traced. The line is mostly used to set off how docile and measurable inorganic matter is, and without meaning to it also points at the shape of quantum phenomena: something with a mind of its own cannot be computed in advance from outside.
+Richard Feynman has a well-known quip: imagine how much harder physics would be if electrons had feelings, because then they would change their behavior under observation. The line is mostly used to set off how docile and measurable inorganic matter is, and without meaning to it also points at the shape of quantum phenomena: something with a mind of its own cannot be computed in advance from outside.
 
 先看一个日常的经验。面对另一个活着的人时，面对的不是一台由齿轮与发条驱动的机器，而是一个以己度之、同样在作抉择的因果中心。这个人下一刻的选择，对任何外部的观察者都无法在事前算定。探测对方所用的光与声，不快于渲染的速率，而对方的决断同样按这个节律更新，这是在用光速度量光速。测量的信号赶不到决断之前去预先查看它的内容，因为决断作出之前，那个状态还不在任何地方。
 
