@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T17:41:40.659Z",
+    "generated_at": "2026-10-13T17:59:56.242Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -84,7 +84,7 @@
       "content/posts/fixed-by-nothing.md": "c99ecc015638",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "df8f3a8fb563",
-      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "6a1851b615db",
+      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "5b8adc72d35b",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "5fe10db25c4f",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "c81f2c71d076",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "a1b926b30911",
@@ -205,7 +205,7 @@
       "content/posts/the-boundary-of-the-frame.md": "87ff68f71b62",
       "content/posts/the-brain-does-not-backprop.md": "0fe20d66ae42",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
-      "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "7ec83cc299da",
+      "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "30cde29f7255",
       "content/posts/the-category-error-of-better.md": "ba22abca92f3",
       "content/posts/the-causal-inversion-of-partnership.md": "3e0b8b306740",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
@@ -226,7 +226,7 @@
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7deb853507eb",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "e86ad1bf219f",
-      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "598903ac862f",
+      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "9cbcba2eeb83",
       "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "0f743e203782",
@@ -342,7 +342,7 @@
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "3c66bd80af77",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
-      "content/posts/the-sovereign-blinding.md": "cd509f0ae674",
+      "content/posts/the-sovereign-blinding.md": "c0e86a3ff306",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "466ba4f09356",
@@ -418,10 +418,10 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5455,
-      "unique_directed": 4496,
+      "edges": 5463,
+      "unique_directed": 4500,
       "missing_targets": 0,
-      "one_way": 102,
+      "one_way": 106,
       "isolated": 37,
       "posts_with_outbound": 353,
       "book_pages": 16,
@@ -2407,13 +2407,14 @@
       "slug": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "path": "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md",
       "title": "从AGI的“神性错置”到使用者的自我对齐 / From the Misallocated Sentience of AGI to Human Realignment",
-      "hash": "6a1851b615db",
+      "hash": "5b8adc72d35b",
       "in_degree": 7,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "the-cut-moves-but-never-vanishes",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "when-malfunction-is-scored-as-intelligence",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -5519,9 +5520,9 @@
       "slug": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "path": "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md",
       "title": "笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation",
-      "hash": "7ec83cc299da",
+      "hash": "30cde29f7255",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "openness-is-consistency",
         "the-explanatory-trap-of-the-ordinary-perspective",
@@ -5531,6 +5532,7 @@
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "subtracting-consciousness-at-the-source",
         "intelligence-belongs-only-to-the-mind",
+        "the-cut-moves-but-never-vanishes",
         "choice-itself-has-no-inherent-weight",
         "agency-does-not-arise",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation"
@@ -5826,7 +5828,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "57ec612f18d1",
-      "in_degree": 9,
+      "in_degree": 13,
       "out_degree": 5,
       "links_out": [
         "consciousness-ascription-and-the-quantum-cut",
@@ -5945,9 +5947,9 @@
       "slug": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
-      "hash": "598903ac862f",
+      "hash": "9cbcba2eeb83",
       "in_degree": 19,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -5959,6 +5961,7 @@
         "choice-itself-has-no-inherent-weight",
         "the-causal-inversion-of-partnership",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "the-cut-moves-but-never-vanishes",
         "when-malfunction-is-scored-as-intelligence",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -8554,10 +8557,11 @@
       "slug": "the-sovereign-blinding",
       "path": "content/posts/the-sovereign-blinding.md",
       "title": "自愿的致盲 / The Sovereign Blinding",
-      "hash": "cd509f0ae674",
+      "hash": "c0e86a3ff306",
       "in_degree": 2,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
+        "the-cut-moves-but-never-vanishes",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "how-to-fix-your-whole-life-in-one-split-second",
         "silicon-oracles-and-the-asymmetry-of-consequence"
@@ -16139,6 +16143,18 @@
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -26900,6 +26916,12 @@
     },
     {
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
       "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
@@ -26915,6 +26937,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
     },
     {
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
@@ -28688,9 +28716,21 @@
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -38252,9 +38292,21 @@
     },
     {
       "from": "the-sovereign-blinding",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "the-sovereign-blinding",
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-sovereign-blinding",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
     },
     {
       "from": "the-sovereign-blinding",
