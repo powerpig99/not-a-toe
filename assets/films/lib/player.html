@@ -39,7 +39,7 @@
 <script type="module">
 // The narration is the clock: every animation frame draws film.renderAt(audio.currentTime). A language is one
 // film instance on its own overlay; switching keeps the place by beat and by the share of the beat already heard.
-const q = new URLSearchParams(location.search), job = q.get('job'), embed = q.get('embed') === '1', KEY = 'nat-media-lang', NAMES = { zh: '中文', en: 'English' };
+const q = new URLSearchParams(location.search), job = q.get('job'), V = q.get('v') ? `?v=${encodeURIComponent(q.get('v'))}` : '', embed = q.get('embed') === '1', KEY = 'nat-media-lang', NAMES = { zh: '中文', en: 'English' };
 const $ = (id) => document.getElementById(id), audio = $('audio'), stageEl = $('stage'), frame = $('frame');
 const read = async (url) => { const r = await fetch(url); return r.ok ? r.json() : null; };
 const contract = await read('../contract.json'), { width, height } = contract.video.formats['16x9'];
@@ -50,9 +50,9 @@ const sc = new FontFace('Film Sans', `url("../jobs/${job}/film-sans.zh.woff2") f
 document.fonts.add(sc);
 // A film measures its labels when it starts, so both faces are in before it does; a face that fails leaves the fallback.
 await Promise.allSettled([sc.load(), document.fonts.load('600 32px "Film Sans"')]);
-const { default: film } = await import(`../jobs/${job}/film.mjs`);
+const { default: film } = await import(`../jobs/${job}/film.mjs${V}`);
 const cuts = {};
-for (const lang of ['zh', 'en']) { const timeline = await read(`../jobs/${job}/timeline.${lang}.json`); if (timeline) cuts[lang] = { timeline }; }
+for (const lang of ['zh', 'en']) { const timeline = await read(`../jobs/${job}/timeline.${lang}.json${V}`); if (timeline) cuts[lang] = { timeline }; }
 const langs = Object.keys(cuts);
 let saved = null; try { saved = localStorage.getItem(KEY); } catch (e) {}
 let lang = langs.includes(q.get('lang')) ? q.get('lang') : langs.includes(saved) ? saved : (/^zh/i.test(navigator.language || '') && cuts.zh ? 'zh' : langs.includes('en') ? 'en' : langs[0]);
@@ -68,9 +68,9 @@ const open = async (l) => {
 // The music bed, when the film has one: a second track that loops under the narration, quiet, eased in and out at
 // its own ends so the loop has no edge, and off at one press (the choice is kept).
 const music = $('music'), BED = 0.16, MKEY = 'nat-film-music';
-let bed = (await fetch(`../jobs/${job}/music.m4a`, { method: 'HEAD' })).ok, wanted = true;
+let bed = (await fetch(`../jobs/${job}/music.m4a${V}`, { method: 'HEAD' })).ok, wanted = true;
 try { wanted = localStorage.getItem(MKEY) !== 'off'; } catch (e) {}
-if (bed) { music.src = `../jobs/${job}/music.m4a`; $('mus').hidden = false; $('mus').setAttribute('aria-pressed', String(wanted)); }
+if (bed) { music.src = `../jobs/${job}/music.m4a${V}`; $('mus').hidden = false; $('mus').setAttribute('aria-pressed', String(wanted)); }
 const level = () => { if (!bed) return; const d = music.duration || 0, t = music.currentTime; music.volume = BED * (d ? Math.max(0, Math.min(1, t / 2.5, (d - t) / 4)) : 1); };
 const sync = () => { if (!bed) return; if (wanted && !audio.paused) music.play().catch(() => {}); else music.pause(); };
 $('mus').addEventListener('click', () => { wanted = !wanted; $('mus').setAttribute('aria-pressed', String(wanted)); try { localStorage.setItem(MKEY, wanted ? 'on' : 'off'); } catch (e) {} sync(); });
@@ -85,7 +85,7 @@ const place = (l, t) => { const b = cuts[l].timeline.beats, i = Math.max(0, b.fi
 const set = async (l, keep) => {
   const was = !audio.paused, [i, f] = keep ? place(lang, audio.currentTime) : [0, 0];
   audio.pause(); const cut = await open(l), b = cut.timeline.beats[Math.min(i, cut.timeline.beats.length - 1)]; lang = l;
-  audio.src = `../jobs/${job}/audio.${l}.m4a`; if (keep && started) audio.currentTime = b.t0 + f * (b.t1 - b.t0);
+  audio.src = `../jobs/${job}/audio.${l}.m4a${V}`; if (keep && started) audio.currentTime = b.t0 + f * (b.t1 - b.t0);
   for (const el of $('langs').children) el.setAttribute('aria-pressed', el.dataset.lang === l ? 'true' : 'false');
   if (was) await audio.play(); draw(); state();
 };

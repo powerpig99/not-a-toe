@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Infographic, picture by an image model</title>
+<style>
+  @font-face { font-family: "Info Sans"; font-weight: 300 900; src: url("../fonts/info-sans.latin.woff2") format("woff2"); unicode-range: U+0000-024F, U+2000-206F, U+20A0-20CF, U+2190-21FF; }
+  @font-face { font-family: "Info Sans"; font-weight: 100 900; src: url("./info-sans.zh.woff2") format("woff2"); unicode-range: U+2E80-9FFF, U+3000-303F, U+FF00-FFEF; }
+  :root { --ground: #17497f; --deep: #0c2a52; --ink: #eef4ff; --soft: #b9cdea; --amber: #ffd27a; --coral: #ff9d8f; --green: #8ff0a4; --purple: #d3b8ff; }
+  html, body { margin: 0; background: var(--ground); }
+  body { width: 1024px; height: 1024px; overflow: hidden; position: relative; color: var(--ink); font-family: "Info Sans", "Avenir Next", "Helvetica Neue", "PingFang SC", sans-serif; }
+  .zh { font-family: "Info Sans", "PingFang SC", "Avenir Next", sans-serif; }
+  svg.art { position: absolute; left: 0; top: 0; }
+  .pic { position: absolute; left: 172px; top: 150px; width: 680px; height: 680px; -webkit-mask-image: radial-gradient(closest-side, #000 78%, transparent); mask-image: radial-gradient(closest-side, #000 78%, transparent); }
+  .head { position: absolute; top: 34px; width: 440px; }
+  .head h2 { margin: 0 0 8px; font-size: 31px; font-weight: 700; color: var(--c); letter-spacing: -0.01em; }
+  .head p { margin: 0; font-size: 18.5px; line-height: 1.34; color: var(--ink); }
+  .zh .head h2 { font-size: 32px; letter-spacing: 0.04em; } .zh .head p { font-size: 19px; line-height: 1.5; }
+  .head b { color: var(--c); font-weight: 700; }
+  .call { position: absolute; width: 196px; }
+  .call h3 { margin: 0 0 4px; font-size: 16.5px; line-height: 1.2; font-weight: 700; color: var(--c); }
+  .call p { margin: 0; font-size: 13.8px; line-height: 1.36; color: var(--ink); }
+  .zh .call h3 { font-size: 17.5px; } .zh .call p { font-size: 14.5px; line-height: 1.5; }
+  .call.r { text-align: left; } .call.l { text-align: right; }
+  .use { position: absolute; left: 44px; top: 792px; width: 936px; box-sizing: border-box; background: #1d5a4a; border-radius: 34px; padding: 13px 28px 14px; display: flex; gap: 18px; align-items: center; }
+  .use h3 { margin: 0; font-size: 17px; font-weight: 700; color: var(--green); white-space: nowrap; }
+  .use p { margin: 0; font-size: 15px; line-height: 1.36; }
+  .zh .use p { font-size: 15.5px; line-height: 1.5; }
+  .banner { position: absolute; left: 0; top: 878px; width: 1024px; height: 146px; background: var(--deep); color: #fff; text-align: center; }
+  .banner h1 { margin: 22px 60px 6px; font-size: 27px; line-height: 1.2; font-weight: 700; text-wrap: balance; }
+  .zh .banner h1 { font-size: 31px; letter-spacing: 0.06em; margin-top: 24px; }
+  .banner .claim { font-size: 19px; color: var(--green); }
+  .zh .banner .claim { font-size: 21px; margin-top: 10px; }
+  .banner .url { position: absolute; left: 0; right: 0; bottom: 9px; font: 10.5px ui-monospace, "SF Mono", Menlo, monospace; color: #8fa9d4; }
+</style>
+</head>
+<body>
+<img class="pic" src="art.jpg" alt="">
+<svg class="art" width="1024" height="1024" viewBox="0 0 1024 1024"><g id="leads" fill="none" stroke="#b9cdea" stroke-width="1.6"></g></svg>
+
+<div class="head" style="left: 44px; --c: var(--amber)"><h2 data-k="h_belief"></h2><p data-k="belief"></p></div>
+<div class="head" style="left: 540px; --c: var(--coral)"><h2 data-k="h_stops"></h2><p data-k="stops"></p></div>
+
+<div class="call l" id="c1" style="left: 22px; top: 250px; width: 200px; --c: var(--soft)"><h3 data-k="c1h"></h3><p data-k="c1"></p></div>
+<div class="call l" id="c4" style="left: 22px; top: 440px; width: 190px; --c: var(--soft)"><h3 data-k="c4h"></h3><p data-k="c4"></p></div>
+<div class="call r" id="c3" style="left: 250px; top: 196px; width: 230px; --c: var(--green)"><h3 data-k="c3h"></h3><p data-k="c3"></p></div>
+<div class="call r" id="c2" style="left: 812px; top: 500px; width: 194px; --c: var(--amber)"><h3 data-k="c2h"></h3><p data-k="c2"></p></div>
+<div class="call r" id="c5" style="left: 812px; top: 372px; width: 194px; --c: var(--ink)"><h3 data-k="c5h"></h3><p data-k="c5"></p></div>
+<div class="call l" id="c6" style="left: 30px; top: 672px; width: 290px; --c: var(--amber)"><h3 data-k="c6h"></h3><p data-k="c6"></p></div>
+<div class="call r" id="c7" style="left: 664px; top: 664px; width: 330px; --c: var(--coral)"><h3 data-k="c7h"></h3><p data-k="c7"></p></div>
+
+<div class="use"><h3 data-k="h_use"></h3><p data-k="use"></p></div>
+<div class="banner"><h1 data-k="title"></h1><div class="claim" data-k="claim"></div><div class="url">powerpig99.github.io/not-a-toe/posts/the-cut-moves-but-never-vanishes/</div></div>
+
+<script>
+const S = {
+  en: {
+    h_belief: 'The belief', belief: 'The interpretations of quantum mechanics can be <b>reconciled on one map</b>: give each a region on axes such as process, wholeness and self-reference, and the dispute is settled.',
+    h_stops: 'Where it stops', stops: 'As a catalogue of neighbours the map works. It stops at <b>relabelling</b>: no prediction changes, and where the whole map is surveyed from is left unasked.',
+    c1h: 'The chain', c1: 'Particle, screen, retina, nerve, cortex. Each link can be written in the same terms as the one before; none is marked “here”.',
+    c4h: 'Before the cut', c4: 'A sum of possibilities, carried forward whole.',
+    c3h: 'The tab', c3: 'Where to cut and what to ask is chosen. Someone sets it.',
+    c2h: 'The cut', c2: 'Where tracking stops and a reading is taken as fact. It can be set at any link, and it cannot be taken off.',
+    c5h: 'After the cut', c5: 'One definite record. What comes back follows the Born rule, whatever is wished.',
+    c6h: 'The odds', c6: 'Identical wherever the cut is set. So definiteness is asserted at the boundary, not produced by the links before it.',
+    c7h: 'Fix it, or erase it', c7: 'Objective collapse looks for a threshold in nature; strong many worlds dissolves the observer. Either way someone still reads one result.',
+    h_use: 'What stays useful', use: 'Every interpretation as a tool inside its own range, and the map as a catalogue. Knowing where the cut sits shows how far each model reaches.',
+    title: 'The Cut Moves but Never Vanishes', claim: 'Movable along the chain; never removable from it.',
+  },
+  zh: {
+    h_belief: '信念', belief: '量子力学的各种诠释可以<b>在一张地图上调和</b>：在过程、整全、自指这类坐标轴上给每一家一块地域，争论就安顿了。',
+    h_stops: '它在何处止步', stops: '当作一份邻近关系的目录，地图是好用的。它止步于<b>重新命名</b>：没有一个预测改变，而整张图是从哪里看见的，没有被问到底。',
+    c1h: '链条', c1: '粒子、屏、视网膜、神经、皮层。每一环都能用与前一环相同的语言写出，没有哪一环标着“在此处”。',
+    c4h: '割点之前', c4: '各种可能的叠加，完整地往前带。',
+    c3h: '拨片', c3: '在哪里切、问什么，是选的。有人在拨它。',
+    c2h: '割点', c2: '追踪在这里停下，读数在这里被当作事实。它可以放在任何一环，却拿不掉。',
+    c5h: '割点之后', c5: '一条确定的记录。回来的东西服从玻恩规则，不随愿望而变。',
+    c6h: '几率', c6: '割点放在哪里都一样。所以确定性是在边界处被认定的，不是之前的环节生产出来的。',
+    c7h: '钉死它，或抹掉它', c7: '客观坍缩到自然里找一个阈值；多世界最强的形式把观察者化进波函数。两种做法之后，仍有人读到一个结果。',
+    h_use: '仍然有用的', use: '每一种诠释，在自己的范围内都是工具；地图，当目录用。知道割点落在哪里，就知道每个模型够得着多远。',
+    title: '割点可移不可除', claim: '沿着链条可以移动，从链条上拿不掉。',
+  },
+};
+const lang = new URLSearchParams(location.search).get('lang') === 'zh' ? 'zh' : 'en', W = S[lang];
+document.documentElement.lang = lang;
+document.body.classList.toggle('zh', lang === 'zh');
+for (const el of document.querySelectorAll('[data-k]')) el.innerHTML = W[el.dataset.k];
+
+const LEADS = [[[228, 290], [338, 462]], [[218, 474], [384, 556]], [[400, 262], [458, 434]], [[806, 524], [592, 506]], [[806, 398], [632, 424]], [[326, 694], [452, 660]], [[672, 660], [586, 532]]];
+// Leaders from each callout to its part of the picture.
+const lead = ([x0, y0], [x1, y1]) => `<path d="M${x0} ${y0}L${x1} ${y1}"/><circle cx="${x1}" cy="${y1}" r="4" fill="#17497f"/>`;
+document.getElementById('leads').innerHTML = LEADS.map(([a, b]) => lead(a, b)).join('');
+</script>
+</body>
+</html>

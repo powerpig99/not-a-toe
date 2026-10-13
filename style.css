@@ -1034,6 +1034,25 @@ tr:nth-child(even) {
   overflow: hidden;
 }
 
+.infographic-frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+}
+
+.infographic-frame iframe {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1024px;
+  height: 1024px;
+  border: 0;
+  transform-origin: 0 0;
+}
+
 .infographic img {
   display: block;
   width: 100%;

@@ -1612,9 +1612,13 @@ function renderPostMedia(post) {
     ? `<div class="media-lang" role="group" aria-label="Language">${langs.map(([lang, name]) => `<button type="button" data-media-lang="${lang}" aria-pressed="false">${name}</button>`).join('')}</div>`
     : '';
   const live = fs.existsSync(path.join(filmsDir, 'jobs', post.slug, 'film.mjs'));
+  // A version for what a reader's browser may hold from before the last change: the bytes of the files that changed.
+  const stamp = (dir) => { const h = crypto.createHash('sha256'); for (const f of fs.readdirSync(dir, { recursive: true }).sort()) { const full = path.join(dir, f); if (fs.statSync(full).isFile()) h.update(f).update(fs.readFileSync(full)); } return h.digest('hex').slice(0, 10); };
+  const filmV = live ? stamp(filmsDir) : '';
+  const pageDir = path.join(infographicsDir, post.slug), page = fs.existsSync(path.join(pageDir, 'index.html')) ? `${withBase(`infographics/${post.slug}/`)}?v=${stamp(pageDir)}` : '';
   const data = (items, key) => items.map((x) => `data-${x.lang}="${escapeHtml(x[key])}"`).join(' ');
   const frameHtml = live
-    ? `<div class="video-frame live"><iframe data-live src="${withBase('films/lib/player.html')}?job=${encodeURIComponent(post.slug)}&amp;embed=1" title="Film" loading="lazy" allow="autoplay; fullscreen" allowfullscreen></iframe></div>`
+    ? `<div class="video-frame live"><iframe data-live src="${withBase('films/lib/player.html')}?job=${encodeURIComponent(post.slug)}&amp;embed=1&amp;v=${filmV}" title="Film" loading="lazy" allow="autoplay; fullscreen" allowfullscreen></iframe></div>`
     : `<div class="video-frame" data-video ${data(videos, 'id')}><button type="button" class="video-play" aria-label="Play the film"><span class="video-play-mark" aria-hidden="true"></span><span class="video-play-label">视频讲解 · Film</span></button></div>`;
   const videoHtml = videos.length || live
     ? `<section class="post-media">
@@ -1625,7 +1629,9 @@ function renderPostMedia(post) {
     : '';
   const first = pictures.find((p) => p.lang === 'en') ?? pictures[0];
   const figureHtml = pictures.length
-    ? `<figure class="infographic" data-infographic ${data(pictures, 'src')}>${videos.length ? '' : switchHtml}<a href="${first.src}"><img src="${first.src}" alt="Infographic: ${escapeHtml(post.title)}" width="1600" height="1600" loading="lazy" decoding="async"></a></figure>\n`
+    ? (page
+      ? `<figure class="infographic" data-infographic data-page="${page}" ${data(pictures, 'src')}>${videos.length ? '' : switchHtml}<div class="infographic-frame"><iframe src="${page}&amp;lang=en" title="Infographic: ${escapeHtml(post.title)}" loading="lazy" scrolling="no"></iframe></div><p class="meta media-links"><a data-info-open href="${page}&amp;lang=en" target="_blank" rel="noopener">放大 · Open full size</a></p><noscript><img src="${first.src}" alt="Infographic: ${escapeHtml(post.title)}" width="1600" height="1600"></noscript></figure>\n`
+      : `<figure class="infographic" data-infographic ${data(pictures, 'src')}>${videos.length ? '' : switchHtml}<a href="${first.src}"><img src="${first.src}" alt="Infographic: ${escapeHtml(post.title)}" width="1600" height="1600" loading="lazy" decoding="async"></a></figure>\n`)
     : '';
   const at = post.htmlBody.search(/<h2[\s>]/);
   const body = figureHtml ? (at < 0 ? post.htmlBody + figureHtml : post.htmlBody.slice(0, at) + figureHtml + post.htmlBody.slice(at)) : post.htmlBody;
@@ -1649,11 +1655,16 @@ function renderPostMedia(post) {
             for (var i = 0; i < buttons.length; i++) buttons[i].setAttribute('aria-pressed', buttons[i].getAttribute('data-media-lang') === l ? 'true' : 'false');
             if (video && video.getAttribute('data-playing')) play();
             if (live && keep && live.contentWindow) live.contentWindow.postMessage({ natLang: l }, location.origin);
-            if (has(figure, l)) { figure.querySelector('img').src = has(figure, l); figure.querySelector('a').href = has(figure, l); }
+            var page = figure && figure.getAttribute('data-page'), pane = figure && figure.querySelector('iframe');
+            if (page && pane) { if (pane.getAttribute('data-lang') !== l) { pane.setAttribute('data-lang', l); pane.src = page + '&lang=' + l; figure.querySelector('[data-info-open]').href = page + '&lang=' + l; } }
+            else if (has(figure, l)) { figure.querySelector('img').src = has(figure, l); figure.querySelector('a').href = has(figure, l); }
             if (keep) { try { localStorage.setItem(KEY, l); } catch (e) {} }
           }
           for (var i = 0; i < buttons.length; i++) buttons[i].addEventListener('click', function () { set(this.getAttribute('data-media-lang'), true); });
           if (video) video.querySelector('.video-play').addEventListener('click', play);
+          // The infographic page is laid out 1024 px square and scaled to the column, so its text stays text at any size.
+          var holder = figure && figure.querySelector('.infographic-frame');
+          if (holder) { var fitPage = function () { holder.firstChild.style.transform = 'scale(' + holder.clientWidth / 1024 + ')'; }; new ResizeObserver(fitPage).observe(holder); fitPage(); }
           set(lang, false);
         })();
       </script>`;
@@ -1865,13 +1876,7 @@ function copyStaticAssets() {
 
   if (fs.existsSync(filmsDir)) fs.cpSync(filmsDir, path.join(outputDir, 'films'), { recursive: true });
 
-  if (fs.existsSync(infographicsDir)) {
-    const publicInfographicsDir = path.join(outputDir, 'infographics');
-    fs.mkdirSync(publicInfographicsDir, { recursive: true });
-    for (const entry of fs.readdirSync(infographicsDir, { withFileTypes: true })) {
-      if (entry.isFile() && path.extname(entry.name).toLowerCase() === '.jpg') fs.copyFileSync(path.join(infographicsDir, entry.name), path.join(publicInfographicsDir, entry.name));
-    }
-  }
+  if (fs.existsSync(infographicsDir)) fs.cpSync(infographicsDir, path.join(outputDir, 'infographics'), { recursive: true });
 
   if (fs.existsSync(figuresDir)) {
     const publicFiguresDir = path.join(outputDir, 'figures');
