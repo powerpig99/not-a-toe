@@ -182,9 +182,9 @@ flowchart TD
     style Feed fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-跨心智的道德评判由此可以读作一种协调权能的让渡、转移解释成本的压缩工具。行为的校准若靠外部的道德评判而不靠直接的反馈，相容的错配便在大范围里蔓延，为中枢的膨胀不断供给因果。
+跨心智的道德评判由此是一种协调权能的让渡、转移解释成本的压缩工具。行为的校准若靠外部的道德评判而不靠直接的反馈，相容的错配便在大范围里蔓延，为中枢的膨胀不断供给因果。
 
-Moral judgment between Minds can thus be read as a tool of compression that coordinates the handing over of capacity and shifts the cost of explanation. Where behavior is calibrated by outside moral judgment and not by direct feedback, compatible misallocation spreads widely and keeps supplying causality to the swelling of a center.
+Moral judgment between Minds is thus a tool of compression that coordinates the handing over of capacity and shifts the cost of explanation. Where behavior is calibrated by outside moral judgment and not by direct feedback, compatible misallocation spreads widely and keeps supplying causality to the swelling of a center.
 
 ## 四、 幂律的聚集与引力的中枢 / 4. Power-Law Aggregation and the Gravitational Center
 
