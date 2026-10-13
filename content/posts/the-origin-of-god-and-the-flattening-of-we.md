@@ -64,9 +64,9 @@ flowchart TD
 
 ## 二、 上帝的概念与宗教的制度 / 2. The Concept of God and the Institution of Religion
 
-忘了自己在原点上的渲染位置之后，这个脱开了的总览须有一个依托。全景的视野广袤、稳定而有威严，内部的自我化身微小，这个总览的视角便被向外剥离，成为一个独立于自身之外的超验实体。上帝的概念由此可以读作：心智把自身俯瞰的能力向外投射之后，被实体化了的外部最高观测者。
+忘了自己在原点上的渲染位置之后，这个脱开了的总览须有一个依托。全景的视野广袤、稳定而有威严，内部的自我化身微小，这个总览的视角便被向外剥离，成为一个独立于自身之外的超验实体。上帝的概念由此便是心智把自身俯瞰的能力向外投射之后，被实体化了的外部最高观测者。
 
-Once one's own rendering position at the origin is forgotten, this detached overview needs something to rest on. The panoramic view is vast, stable and imposing, the avatar of the self inside it is small, and the overview perspective is peeled outward into a transcendent entity independent of oneself. The concept of God can thus be read as the highest outside observer, made into an entity after a Mind has projected its own capacity for overview outward.
+Once one's own rendering position at the origin is forgotten, this detached overview needs something to rest on. The panoramic view is vast, stable and imposing, the avatar of the self inside it is small, and the overview perspective is peeled outward into a transcendent entity independent of oneself. The concept of God is thus the highest outside observer, made into an entity after a Mind has projected its own capacity for overview outward.
 
 这一步在心智的内部把自己的主权放到了外面。当这个结构在人群里被语言符号化、仪式化并广为共享时，它凝成制度化的宗教。宗教把这个最高的观测者立为全域的坐标系，对群体里的每一个心智作自上而下的校准，这对协调个体之间的行动是有用的。它的边界在于，被仰望的那个视角，是千百年来共同投射出去而没有收回的认知总览。
 
