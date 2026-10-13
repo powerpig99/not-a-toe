@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-10-13T05:52:00.713Z",
+    "generated_at": "2026-10-13T07:33:35.447Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -15,7 +15,7 @@
       "assets/covers/STYLES.md": "895364d586da",
       "README.md": "c80bb91e33a1",
       "docs/local-memory.md": "15f2c56cac3c",
-      "build.mjs": "b57226b1e894",
+      "build.mjs": "672d1570283c",
       "scripts/export-absolute-md.mjs": "3bbb08fdfc89",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
@@ -208,7 +208,7 @@
       "path": "build.mjs",
       "owns": "site-build",
       "exists": true,
-      "hash": "b57226b1e894",
+      "hash": "672d1570283c",
       "summary": "binary/script",
       "headings": [],
       "layer": "tracker"

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T05:52:00.604Z",
+    "generated_at": "2026-10-13T07:33:35.348Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -253,7 +253,7 @@
       "content/posts/the-geometry-of-emergence.md": "89925e3a76ab",
       "content/posts/the-geometry-of-mind.md": "92932a073669",
       "content/posts/the-geometry-of-success.md": "dc47507d236b",
-      "content/posts/the-geometry-of-the-cut.md": "8e8f41ec7476",
+      "content/posts/the-geometry-of-the-cut.md": "6d22f06a04c8",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "f7485fc0e38a",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "68e47fce620a",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "298e9d503fa5",
@@ -418,10 +418,10 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5431,
-      "unique_directed": 4481,
+      "edges": 5433,
+      "unique_directed": 4482,
       "missing_targets": 0,
-      "one_way": 87,
+      "one_way": 88,
       "isolated": 38,
       "posts_with_outbound": 352,
       "book_pages": 16,
@@ -5755,7 +5755,7 @@
       "path": "content/posts/the-continuum-is-a-modeling-convenience.md",
       "title": "连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience",
       "hash": "6b9f8a6b0ce8",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -6552,11 +6552,12 @@
       "slug": "the-geometry-of-the-cut",
       "path": "content/posts/the-geometry-of-the-cut.md",
       "title": "切分的几何学 / The Geometry of the Cut",
-      "hash": "8e8f41ec7476",
+      "hash": "6d22f06a04c8",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "the-causal-inversion-of-partnership",
+        "the-continuum-is-a-modeling-convenience",
         "the-explanatory-trap-of-the-ordinary-perspective"
       ]
     },
@@ -30950,6 +30951,18 @@
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
       "label": "The Causal Inversion of Partnership"
+    },
+    {
+      "from": "the-geometry-of-the-cut",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "连续性作为建模的权宜之计"
+    },
+    {
+      "from": "the-geometry-of-the-cut",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "The Continuum is a Modeling Convenience"
     },
     {
       "from": "the-geometry-of-the-cut",
