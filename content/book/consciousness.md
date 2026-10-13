@@ -19,7 +19,7 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [Sensing Before Interpretation](../../posts/sensing-before-interpretation/)
 - [The Defining Seat](../../posts/the-defining-seat/)
 - [The Loop That Can't See Itself](../../posts/the-loop-that-cant-see-itself/)
-- [The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/)
+- [NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/)
 - [Reality Is the Mind's Ongoing Realization](../../posts/reality-is-the-minds-ongoing-realization/)
 - [The Strongest Belief of the Mind](../../posts/the-strongest-belief-of-the-mind/)
 - [No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind](../../posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T18:54:28.718Z",
+    "generated_at": "2026-10-13T19:18:07.273Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -16,7 +16,7 @@
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "2e7b16607892",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "15737ab87ae6",
-      "content/posts/agency-does-not-arise.md": "ce9c7ca0357c",
+      "content/posts/agency-does-not-arise.md": "5c22547d1783",
       "content/posts/agency-relocated-into-the-formal-model.md": "80fd8434fe37",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "24615382c532",
@@ -28,8 +28,8 @@
       "content/posts/beyond-the-hundred-trillion-horizon.md": "342aa576dd67",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
       "content/posts/causality-all-the-way.md": "8c58bfbb394c",
-      "content/posts/causality-and-the-irreducible-prior.md": "ec15b4cff7a1",
-      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "2c6eb7b43f22",
+      "content/posts/causality-and-the-irreducible-prior.md": "2a037b747d53",
+      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "01422703e001",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "24fe759f57fc",
       "content/posts/cheng-gong-xue.md": "5d01ae688bd0",
       "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
@@ -58,7 +58,7 @@
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "bc7f312028fa",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "391c723a2d05",
-      "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "64424f4ee444",
+      "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "ccb4b3e58dea",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "4fdac1ab3e30",
       "content/posts/dimensions-are-projections.md": "08793b415e6c",
       "content/posts/distillation-compression-agency.md": "60354a08e758",
@@ -81,10 +81,10 @@
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "067a958b2103",
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
-      "content/posts/fixed-by-nothing.md": "c99ecc015638",
+      "content/posts/fixed-by-nothing.md": "b28fd3f1db94",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "df8f3a8fb563",
-      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "52a57f2f0bd1",
+      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "71812a697b3f",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "5fe10db25c4f",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "c81f2c71d076",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "a1b926b30911",
@@ -115,7 +115,7 @@
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "9f417328851a",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "7af28dd0211f",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "c73e8a2ee891",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "ef157cded87e",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
@@ -206,7 +206,7 @@
       "content/posts/the-brain-does-not-backprop.md": "0fe20d66ae42",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "7e7fd663a54a",
-      "content/posts/the-category-error-of-better.md": "ba22abca92f3",
+      "content/posts/the-category-error-of-better.md": "3720a667e30e",
       "content/posts/the-causal-inversion-of-partnership.md": "3e0b8b306740",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "bd9d585ead91",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "b3dee0aa5e80",
@@ -220,7 +220,7 @@
       "content/posts/the-continuum-is-a-modeling-convenience.md": "2622676a6816",
       "content/posts/the-continuum-of-the-fold.md": "9427017c6590",
       "content/posts/the-coordinators-category-error.md": "89f6110cc916",
-      "content/posts/the-cut-moves-but-never-vanishes.md": "57ec612f18d1",
+      "content/posts/the-cut-moves-but-never-vanishes.md": "2610f984cd07",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "4122ccc35bfa",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
@@ -243,7 +243,7 @@
       "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "2dd6dcb1b0ac",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
-      "content/posts/the-freedom-of-will-to-deny-itself.md": "767ab21884d4",
+      "content/posts/the-freedom-of-will-to-deny-itself.md": "602ed23ca2b0",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "591395049b84",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "639d817543c0",
       "content/posts/the-generative-contradiction.md": "181c40e6e269",
@@ -302,9 +302,10 @@
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "06673522a545",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "e6296345035d",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "99b5bd10ba18",
-      "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
+      "content/posts/the-npc-impression-is-structural.md": "f080ebfaf58b",
       "content/posts/the-observational-cut-in-ai-debates.md": "5884a66a9a71",
       "content/posts/the-only-coherent-uncaused-effect.md": "e2d429f8fb89",
+      "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
       "content/posts/the-other-coherence.md": "fc324a17a568",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "5f263a356b4c",
@@ -399,10 +400,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "5e61e170d117",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "9ce16a51283f",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
-      "content/book/causality.md": "2dc4f5241969",
-      "content/book/consciousness.md": "1d83131cc406",
+      "content/book/causality.md": "e6ea1a3ffb75",
+      "content/book/consciousness.md": "d6c92ea6f310",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "77794ba59ff0",
+      "content/book/index-of-premises.md": "088f037ac59e",
       "content/book/intelligence.md": "25a34f51bcc4",
       "content/book/knowledge-and-learning.md": "3f449ff6f2d4",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -417,16 +418,16 @@
       "content/book/tools-and-progress.md": "ecdce6e731a7"
     },
     "stats": {
-      "posts": 391,
-      "edges": 5493,
-      "unique_directed": 4515,
+      "posts": 392,
+      "edges": 5543,
+      "unique_directed": 4527,
       "missing_targets": 0,
-      "one_way": 119,
+      "one_way": 125,
       "isolated": 35,
-      "posts_with_outbound": 355,
+      "posts_with_outbound": 356,
       "book_pages": 16,
-      "book_edges": 982,
-      "posts_reached_by_book": 391
+      "book_edges": 985,
+      "posts_reached_by_book": 392
     }
   },
   "hubs_in": [
@@ -456,7 +457,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 51
+      "in_degree": 52
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -820,8 +821,8 @@
       "slug": "agency-does-not-arise",
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现 / Agency Does Not Arise",
-      "hash": "ce9c7ca0357c",
-      "in_degree": 18,
+      "hash": "5c22547d1783",
+      "in_degree": 19,
       "out_degree": 17,
       "links_out": [
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -949,7 +950,7 @@
       "path": "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md",
       "title": "凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable",
       "hash": "fe1a6df798eb",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 7,
       "links_out": [
         "one-cannot-escape-ones-own-mind",
@@ -1103,8 +1104,8 @@
       "kind": "post",
       "slug": "causality-and-the-irreducible-prior",
       "path": "content/posts/causality-and-the-irreducible-prior.md",
-      "title": "Causality and the Irreducible Prior",
-      "hash": "ec15b4cff7a1",
+      "title": "因果与不可化约的先在 / Causality and the Irreducible Prior",
+      "hash": "2a037b747d53",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -1127,7 +1128,7 @@
       "slug": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
-      "hash": "2c6eb7b43f22",
+      "hash": "01422703e001",
       "in_degree": 19,
       "out_degree": 18,
       "links_out": [
@@ -1869,10 +1870,11 @@
       "slug": "demanding-a-toe-freezes-time-into-a-catalog",
       "path": "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md",
       "title": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog",
-      "hash": "64424f4ee444",
+      "hash": "ccb4b3e58dea",
       "in_degree": 7,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
+        "the-cut-moves-but-never-vanishes",
         "the-twin-paradox-and-the-hidden-observer",
         "the-closed-n-and-the-open-reality",
         "the-continuum-is-a-modeling-convenience",
@@ -1888,7 +1890,7 @@
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
       "hash": "4fdac1ab3e30",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 8,
       "links_out": [
         "the-explanatory-trap-of-the-ordinary-perspective",
@@ -2353,12 +2355,13 @@
       "slug": "fixed-by-nothing",
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
-      "hash": "c99ecc015638",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "b28fd3f1db94",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
+        "the-open-question-is-determinisms-demand",
         "not-a-theory-of-everything",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -2408,8 +2411,8 @@
       "slug": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "path": "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md",
       "title": "从AGI的“神性错置”到使用者的自我对齐 / From the Misallocated Sentience of AGI to Human Realignment",
-      "hash": "52a57f2f0bd1",
-      "in_degree": 7,
+      "hash": "71812a697b3f",
+      "in_degree": 8,
       "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -3210,7 +3213,7 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "7af28dd0211f",
+      "hash": "c73e8a2ee891",
       "in_degree": 43,
       "out_degree": 43,
       "links_out": [
@@ -5547,7 +5550,7 @@
       "slug": "the-category-error-of-better",
       "path": "content/posts/the-category-error-of-better.md",
       "title": "「更好」的范畴谬误 / The Category Error of Better",
-      "hash": "ba22abca92f3",
+      "hash": "3720a667e30e",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -5830,14 +5833,14 @@
       "slug": "the-cut-moves-but-never-vanishes",
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
-      "hash": "57ec612f18d1",
-      "in_degree": 16,
+      "hash": "2610f984cd07",
+      "in_degree": 17,
       "out_degree": 5,
       "links_out": [
+        "demanding-a-toe-freezes-time-into-a-catalog",
         "consciousness-ascription-and-the-quantum-cut",
         "the-invisible-gods-eye",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
-        "demanding-a-toe-freezes-time-into-a-catalog",
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records"
       ]
     },
@@ -6339,15 +6342,16 @@
       "slug": "the-freedom-of-will-to-deny-itself",
       "path": "content/posts/the-freedom-of-will-to-deny-itself.md",
       "title": "自由意志的自否自由 / The Freedom of Will to Deny Itself",
-      "hash": "767ab21884d4",
-      "in_degree": 11,
-      "out_degree": 11,
+      "hash": "602ed23ca2b0",
+      "in_degree": 12,
+      "out_degree": 12,
       "links_out": [
         "the-closed-loop-of-representation",
         "the-blind-spot-of-the-frame",
         "the-functionalism-no-functionalist-can-hold",
         "the-moral-reversal-and-the-scripted-subject",
         "the-bank-shot-and-the-magic-trick",
+        "the-open-question-is-determinisms-demand",
         "what-information-is",
         "the-boundary-crossing-of-choice",
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -6478,7 +6482,7 @@
       "path": "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md",
       "title": "共存的几何学 / The Geometry of Coexistence",
       "hash": "8824d18d3289",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 4,
       "links_out": [
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -7396,7 +7400,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "be8e9087d341",
-      "in_degree": 51,
+      "in_degree": 52,
       "out_degree": 45,
       "links_out": [
         "the-category-error-of-better",
@@ -7558,10 +7562,10 @@
       "kind": "post",
       "slug": "the-npc-impression-is-structural",
       "path": "content/posts/the-npc-impression-is-structural.md",
-      "title": "The NPC Impression Is Structural, Not a Ranking of Minds",
-      "hash": "d4c75257f8bc",
+      "title": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds",
+      "hash": "f080ebfaf58b",
       "in_degree": 13,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "intelligence-belongs-only-to-the-mind",
@@ -7571,6 +7575,7 @@
         "hierarchy-from-individual-difference",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-question-that-installs-the-war",
+        "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-unobservable-driver-of-learning",
         "the-path-drawn-one-step-at-a-time",
         "clarity-isnt-a-state-you-arrive-at",
@@ -7616,6 +7621,26 @@
         "the-boundary-of-the-frame",
         "individual-choices-as-the-only-causal-levers",
         "ownership-and-self-worthiness"
+      ]
+    },
+    {
+      "id": "post:the-open-question-is-determinisms-demand",
+      "kind": "post",
+      "slug": "the-open-question-is-determinisms-demand",
+      "path": "content/posts/the-open-question-is-determinisms-demand.md",
+      "title": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand",
+      "hash": "f1804fe05d79",
+      "in_degree": 2,
+      "out_degree": 8,
+      "links_out": [
+        "agency-does-not-arise",
+        "the-model-never-becomes-a-second-edge",
+        "the-freedom-of-will-to-deny-itself",
+        "fixed-by-nothing",
+        "determinism-is-the-statistical-signature-of-micro-indeterminism",
+        "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+        "the-residue-and-the-free-variable",
+        "the-geometry-of-coexistence-and-the-dual-cut"
       ]
     },
     {
@@ -8088,7 +8113,7 @@
       "path": "content/posts/the-residue-and-the-free-variable.md",
       "title": "残余与自由变量 / The Residue and the Free Variable",
       "hash": "eb7e4af88ac4",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -10523,7 +10548,7 @@
       "from": "agency-does-not-arise",
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
-      "label": "因果与不可化约的先验起点"
+      "label": "因果与不可化约的先在"
     },
     {
       "from": "agency-does-not-arise",
@@ -11471,6 +11496,18 @@
       "from": "causality-and-the-irreducible-prior",
       "to": "causality-all-the-way",
       "rel": "points_to",
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "意识从不作为数据出现在数据之中"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
       "label": "Causality all the way"
     },
     {
@@ -11483,6 +11520,18 @@
       "from": "causality-and-the-irreducible-prior",
       "to": "looping-and-graphing",
       "rel": "points_to",
+      "label": "回环与成图"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "攀登从未离开地面"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
       "label": "Looping and graphing"
     },
     {
@@ -11490,6 +11539,30 @@
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
       "label": "Climbing does not leave the ground"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "抽象、边界与现实的移动前沿"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "选择、矛盾与开放的现实"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "因果的自反性与物理的无源假定"
     },
     {
       "from": "causality-and-the-irreducible-prior",
@@ -11514,6 +11587,24 @@
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
       "label": "Causality is Irreducible; The Physical is a View from Nowhere"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "没有外部：跃迁、闭环与心智不可复制的自主"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性不曾涌现"
     },
     {
       "from": "causality-and-the-irreducible-prior",
@@ -11573,7 +11664,7 @@
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
-      "label": "因果与不可约的先验"
+      "label": "因果与不可化约的先在"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -14577,6 +14668,18 @@
     },
     {
       "from": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "demanding-a-toe-freezes-time-into-a-catalog",
       "to": "the-twin-paradox-and-the-hidden-observer",
       "rel": "points_to",
       "label": "双生子佯谬与隐秘观察者"
@@ -16008,6 +16111,18 @@
       "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "rel": "points_to",
       "label": "The Boundary of Perception and the Infinity of Understanding"
+    },
+    {
+      "from": "fixed-by-nothing",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "悬而未决是决定论的索求"
+    },
+    {
+      "from": "fixed-by-nothing",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "The Open Question Is Determinism's Demand"
     },
     {
       "from": "fixed-by-nothing",
@@ -19061,7 +19176,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
-      "label": "同情是对缺乏清晰认知的情感代偿"
+      "label": "同情是缺乏清晰时的占位符"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -27131,7 +27246,7 @@
       "from": "the-category-error-of-better",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "协调者的范畴谬误"
+      "label": "协调者的范畴错误"
     },
     {
       "from": "the-category-error-of-better",
@@ -28104,6 +28219,18 @@
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
       "label": "Agency relocated into the formal model"
+    },
+    {
+      "from": "the-cut-moves-but-never-vanishes",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "索求万物理论是在将当下冻结为清单"
+    },
+    {
+      "from": "the-cut-moves-but-never-vanishes",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "Demanding a Theory of Everything Freezes Time into a Catalog"
     },
     {
       "from": "the-cut-moves-but-never-vanishes",
@@ -30405,6 +30532,12 @@
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "悬而未决是决定论的索求"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
       "to": "what-information-is",
       "rel": "points_to",
       "label": "真正的有效信息"
@@ -30426,6 +30559,12 @@
       "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "rel": "points_to",
       "label": "共情的能力倒错与边界的排序之争"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "The Open Question Is Determinism's Demand"
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
@@ -34649,7 +34788,25 @@
       "from": "the-npc-impression-is-structural",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
       "label": "No Universal Salvation, Only Self-Deliverance"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "悲观是乐观的阴影"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -34662,6 +34819,30 @@
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
       "label": "Pessimism is the shadow of optimism"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "协调者的范畴错误"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "解放的话术始于对囚禁的定义"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "卓异、感知与自我设限的问题场域"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -34691,7 +34872,37 @@
       "from": "the-npc-impression-is-structural",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
+      "label": "安装战争的那个问题"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
       "label": "the question that installs the war"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "从AGI的“神性错置”到使用者的自我对齐"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "From the Misallocated Sentience of AGI to Human Realignment"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "学习中不可观测的驱动力"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "一步一步绘制出的路径"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -34709,13 +34920,31 @@
       "from": "the-npc-impression-is-structural",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
       "label": "Clarity isn’t a state you arrive at"
     },
     {
       "from": "the-npc-impression-is-structural",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
       "label": "Self-image speaks as if from nowhere"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "rel": "points_to",
+      "label": "同情是缺乏清晰时的占位符"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -34824,6 +35053,102 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "ownership and self-worthiness"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性不曾涌现"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "Agency Does Not Arise"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "The Freedom of Will to Deny Itself"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "没有固定者的固定"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "Fixed by Nothing"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "确定性是微观不确定性的统计签名"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "凡可言说皆不可言说之产物"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "残余与自由变量"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "All That Can Be Spoken Is the Product of the Unspeakable"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "The Residue and the Free Variable"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "the-geometry-of-coexistence-and-the-dual-cut",
+      "rel": "points_to",
+      "label": "共存的几何学"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "the-geometry-of-coexistence-and-the-dual-cut",
+      "rel": "points_to",
+      "label": "The Geometry of Coexistence"
     },
     {
       "from": "the-origin-of-god-and-the-flattening-of-we",
@@ -42772,8 +43097,8 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "2dc4f5241969",
-        "out_degree": 32
+        "hash": "e6ea1a3ffb75",
+        "out_degree": 33
       },
       {
         "id": "book:consciousness",
@@ -42781,7 +43106,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "1d83131cc406",
+        "hash": "d6c92ea6f310",
         "out_degree": 37
       },
       {
@@ -42799,8 +43124,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "77794ba59ff0",
-        "out_degree": 391
+        "hash": "088f037ac59e",
+        "out_degree": 392
       },
       {
         "id": "book:intelligence",
@@ -42970,7 +43295,7 @@
         "from": "book:causality",
         "to": "causality-and-the-irreducible-prior",
         "rel": "collects",
-        "label": "Causality and the Irreducible Prior"
+        "label": "因果与不可化约的先在 / Causality and the Irreducible Prior"
       },
       {
         "from": "book:causality",
@@ -43105,6 +43430,12 @@
         "label": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom"
       },
       {
+        "from": "book:causality",
+        "to": "the-open-question-is-determinisms-demand",
+        "rel": "collects",
+        "label": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand"
+      },
+      {
         "from": "book:consciousness",
         "to": "extended-cognition-refined",
         "rel": "collects",
@@ -43150,7 +43481,7 @@
         "from": "book:consciousness",
         "to": "the-npc-impression-is-structural",
         "rel": "collects",
-        "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
+        "label": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds"
       },
       {
         "from": "book:consciousness",
@@ -44446,7 +44777,7 @@
         "from": "book:index-of-premises",
         "to": "the-npc-impression-is-structural",
         "rel": "collects",
-        "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
+        "label": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds"
       },
       {
         "from": "book:index-of-premises",
@@ -44494,7 +44825,7 @@
         "from": "book:index-of-premises",
         "to": "causality-and-the-irreducible-prior",
         "rel": "collects",
-        "label": "Causality and the Irreducible Prior"
+        "label": "因果与不可化约的先在 / Causality and the Irreducible Prior"
       },
       {
         "from": "book:index-of-premises",
@@ -44645,6 +44976,18 @@
         "to": "the-reflexive-dilemma-of-unique-insight",
         "rel": "collects",
         "label": "独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-open-question-is-determinisms-demand",
+        "rel": "collects",
+        "label": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-open-question-is-determinisms-demand",
+        "rel": "collects",
+        "label": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand"
       },
       {
         "from": "book:index-of-premises",
@@ -45448,7 +45791,7 @@
         "from": "book:index-of-premises",
         "to": "causality-and-the-irreducible-prior",
         "rel": "collects",
-        "label": "Causality and the Irreducible Prior"
+        "label": "因果与不可化约的先在 / Causality and the Irreducible Prior"
       },
       {
         "from": "book:index-of-premises",
@@ -46480,7 +46823,7 @@
         "from": "book:index-of-premises",
         "to": "the-npc-impression-is-structural",
         "rel": "collects",
-        "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
+        "label": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds"
       },
       {
         "from": "book:index-of-premises",

@@ -157,10 +157,6 @@
       "title_zh": "生命的意义在起草之中",
       "subtitle_zh": "意义生成于对原因的现场起草，而不是从硬化的结果中找回；目光向外而不回到纸面，意义便会变薄。"
     },
-    "the-npc-impression-is-structural": {
-      "title_zh": "NPC 印象是结构性的",
-      "subtitle_zh": "没有哪个中心觉得自己是被编写的，其他中心却默认显得像被编写的，这是离散性对照一把被保留的能动性标尺。"
-    },
     "the-unclosable-trace": {
       "title_zh": "无法闭合的痕迹",
       "subtitle_zh": "每一种形式本体论都始于一次遗忘，这也是活的哲学无法作为既定内容被继承的原因。"
@@ -374,6 +370,57 @@
     "dimensions-are-projections": {
       "title_zh": "维度即投影",
       "subtitle_zh": "现实是不停息的区分之举；维度是心智投出的认知压缩矩阵，用来在关系中导航、扩展个人的能动并延伸它活的身体。"
+    },
+    "consciousness-never-appears-as-data-among-data": {
+      "title_zh": "意识从不作为数据出现在数据之中",
+      "subtitle_zh": "客观的测量只持有公共的结果；登记这些结果的活动，始终比任何想要捕捉它的数据早一步。"
+    },
+    "looping-and-graphing": {
+      "title_zh": "回环与成图",
+      "subtitle_zh": "回环是心智折回自身的活动；图是这次折叠留给下一次折叠的痕迹。"
+    },
+    "abstraction-boundaries-and-the-moving-edge-of-reality": {
+      "title_zh": "抽象、边界与现实的移动前沿",
+      "subtitle_zh": "成功的感知是一次有损的界定；把它当作场的结构，就把残余冻结起来，仿佛它封住了那条越过每一份清单继续向前的边缘。"
+    },
+    "selection-contradiction-and-open-reality": {
+      "title_zh": "选择、矛盾与开放的现实",
+      "subtitle_zh": "每一次选择都生成一个自相矛盾，即一份描述与超出它的东西之间有生产力的错配。"
+    },
+    "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind": {
+      "title_zh": "没有外部：跃迁、闭环与心智不可复制的自主",
+      "subtitle_zh": "跃迁是局部的延续；只有心智闭合检验它们的回路，而这个回路没有一个可以从中把它重新构成的外部。"
+    },
+    "pessimism-is-the-shadow-of-optimism": {
+      "title_zh": "悲观是乐观的阴影",
+      "subtitle_zh": "区分是运动，稳定是它留下的痕迹，悲观是心智所感知、所解释的那道阴影。"
+    },
+    "the-coordinators-category-error": {
+      "title_zh": "协调者的范畴错误",
+      "subtitle_zh": "在一个位置上体验到的高能动性被分配到脚手架上，再反过来归为他人身上须由基底安装的欠缺，共鸣被错当成一份要求交出边界的共同记录。"
+    },
+    "liberation-rhetoric-begins-by-defining-captivity": {
+      "title_zh": "解放的话术始于对囚禁的定义",
+      "subtitle_zh": "声称要解放他人，先安装下的是他们不自由，并把这次安装当作他们之所是，而不是对所观察到的行为的一种读法。"
+    },
+    "hierarchy-from-individual-difference": {
+      "title_zh": "来自个体差异的层级",
+      "subtitle_zh": "把彼此不同的个体放在一把共同的尺上计分，出现的就是排序，即差异本身在共同登记之下的有序样式。"
+    },
+    "the-question-that-installs-the-war": {
+      "title_zh": "安装战争的那个问题",
+      "subtitle_zh": "一摞只有差异的身份，加上给敌意计分的要求，预设了毫无共同基础，这是比字面的战争更严的前提，在它之下任何交换都是战争本身；拒绝这个框架并远离它，远离不了就做唯一站到最后的人，少于此便是投降或自毁，因为问出这个问题的人并不想要共存。"
+    },
+    "the-path-drawn-one-step-at-a-time": {
+      "title_zh": "一步一步绘制出的路径",
+      "subtitle_zh": "当下是心智一步一步画出的路径上的位置：因引出果，时间是这个方向，无因是观察之前每一个因的名字。"
+    },
+    "clarity-isnt-a-state-you-arrive-at": {
+      "title_zh": "清晰不是抵达的终点，而是运动本身"
+    },
+    "sympathy-is-a-placeholder-for-lack-of-clarity": {
+      "title_zh": "同情是缺乏清晰时的占位符",
+      "subtitle_zh": "对另一个中心的痕迹作进一步区分的努力停住时所登记的情感反应，留在近的这一侧，从不证明那道屏障已被越过。"
     }
   }
 }

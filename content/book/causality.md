@@ -21,7 +21,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [When the Effect Authors the Frame](../../posts/when-the-effect-authors-the-frame/)
 - [Individual Choices as the Only Causal Levers](../../posts/individual-choices-as-the-only-causal-levers/)
 - [前因，后果](../../posts/qian-yin-hou-guo/)
-- [Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
+- [因果与不可化约的先在 / Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
 - [关于归因：从事实到因果，从外部节点到内部迭代](../../posts/guan-yu-gui-yin/)
 - [The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
 - [作茧是观察到的现象，自缚是对现象的解读](../../posts/zuo-jian-bu-shi-zi-fu/)
@@ -44,3 +44,4 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [抉择的跨界 / The Boundary Crossing of Choice](../../posts/the-boundary-crossing-of-choice/)
 - [没有固定者的固定 / Fixed by Nothing](../../posts/fixed-by-nothing/)
 - [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/)
+- [悬而未决是决定论的索求 / The Open Question Is Determinism's Demand](../../posts/the-open-question-is-determinisms-demand/)

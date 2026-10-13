@@ -1214,7 +1214,7 @@ Least action assumes nature inherently seeks optimal paths; it is a variational 
 
 Epistemology questions whether one can prove others possess consciousness; the permanent asymmetry between internal awareness and external observation cannot be closed by logic.
 
-→ [The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/)
+→ [NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/)
 
 ### 生产过剩与意识形态消费 / Productive Surplus and Ideology
 `经济 / Economic`
@@ -1273,11 +1273,11 @@ Carl Schmitt posits the friend-enemy distinction as politics' irreducible core; 
 ### 科学实在论 / Scientific Realism
 `哲学 / Philosophical`
 
-实在论假定独立于心智的实在先于并产生心智；对这一底层的任何描述都已是理解的行动，因此这条箭头只是一个回路有用的一面。
+实在论假定独立于心智的实在先于并产生心智；对这一底层的任何描述都已是理解的行动，无奇迹论证所援引的预测成功只在模型之间挑选、不给起点增添效力，因此这条箭头只是一个回路有用的一面。
 
-Realism assumes mind-independent reality precedes and produces the mind; every description of that substrate is already an act of understanding, so the arrow is useful one face of a loop.
+Realism assumes mind-independent reality precedes and produces the mind; every description of that substrate is already an act of understanding, and the predictive success the no-miracles argument appeals to selects among models without adding validity to the starting point, so the arrow is one useful face of a loop.
 
-→ [Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
+→ [因果与不可化约的先在 / Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
 
 ### 后发优势 / Second-Mover (Fast Follower) Advantage
 `经济 / Economic`
@@ -1494,6 +1494,24 @@ Presumes that embedding correlations between hidden variables and all future det
 Technological vanguardism presumes that once an observer attains a localized realization, the phenomenon possesses a priori necessity that the external world must instantly synchronize with; singular insight relies upon external incomprehension and temporal latency, while demanding instant consensus dissolves non-consensus advantage.
 
 → [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/)
+
+### 相容论 / Compatibilism
+`哲学 / Philosophical`
+
+预设抉择可以被先在的条件与规律固定而仍然属于行动者；“被固定与否”把抉择当作一件已完成的事来问，预设在这里不够用，而在分开自愿与胁迫、协调人与人之间的归责时它依然好用。
+
+Presumes a choice can be fixed by prior conditions and laws and still belong to the agent; the premise runs out where "fixed or not" asks about a choice as a finished thing, and it stays useful for telling willing from coerced acts and coordinating responsibility between people.
+
+→ [悬而未决是决定论的索求 / The Open Question Is Determinism's Demand](../../posts/the-open-question-is-determinisms-demand/)
+
+### 作为选择者的自然选择 / Natural Selection as a Selector
+`科学 / Scientific`
+
+预设演化之中有一位选中某个物种的选择者；“选择”一词借自育种者，理论留下了词而拿掉了人，把它读回成选择者时预设便不够用，而用后代数目的差异追溯世系、解释抗药性时它依然好用。
+
+Presumes a chooser within evolution that picked out a species; the word "selection" was borrowed from breeders and the theory kept the word while removing the breeder, so the premise runs out where it is read back into a selector, and it stays useful for tracing lineages and explaining drug resistance through differing numbers of offspring.
+
+→ [悬而未决是决定论的索求 / The Open Question Is Determinism's Demand](../../posts/the-open-question-is-determinisms-demand/)
 
 ## 概念 / Concepts
 
@@ -2665,7 +2683,7 @@ Relativism treats all cognitive models as arbitrary mirror reflections; analytic
 
 The cascade presumes the larger system causes the smaller; the hierarchy is generated inside the loop, and the unbounded substrate is residual complexity the current compression has not folded in.
 
-→ [Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
+→ [因果与不可化约的先在 / Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
 
 ### 借由否定的自我定义 / Identity via Negation
 `哲学 / Philosophical`
@@ -4177,7 +4195,7 @@ Algorithmic determinism presumes automated models take over system governance; c
 
 The solipsistic NPC trope views others as unthinking automatons; this illusion arises because external minds appear only through sparse mediated traces, whereas self-experience is immediate.
 
-→ [The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/)
+→ [NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/)
 
 ### 成功学 / Success Literature (成功学)
 `成功学 / Self-Help`
