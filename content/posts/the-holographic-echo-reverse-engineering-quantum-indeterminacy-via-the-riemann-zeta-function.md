@@ -2,9 +2,9 @@
 
 *通过黎曼猜想逆向工程量子不确定性 / Reverse-Engineering Quantum Indeterminacy via the Riemann Zeta Function*
 
-黎曼猜想断言 ζ 函数的非平凡零点都落在一条线上，而这些零点的间距统计与量子混沌系统的能级统计吻合。把两者放在一起，数论可以读作一种渐近的压缩：它描摹无限多个涨落在极限处给出的图景，而这个极限被设定为已经完成。实无穷是数学的工作设定，计算在其中可靠。在第一人称的经验里，无穷只以潜能的方式出现，永远还有下一步，把这份潜能宣告为一个封闭的整体，是欲望的急躁。
+黎曼猜想断言 ζ 函数的非平凡零点都落在一条线上，而这些零点的间距统计与量子混沌系统的能级统计吻合。把两者放在一起，数论是一种渐近的压缩：它描摹无限多个涨落在极限处给出的图景，而这个极限被设定为已经完成。实无穷是数学的工作设定，计算在其中可靠。在第一人称的经验里，无穷只以潜能的方式出现，永远还有下一步，把这份潜能宣告为一个封闭的整体，是欲望的急躁。
 
-The Riemann Hypothesis asserts that the non-trivial zeros of the zeta function all lie on one line, and the spacing statistics of those zeros match the level statistics of quantum chaotic systems. Set side by side, the two allow number theory to be read as an asymptotic compression: it traces the picture that infinitely many fluctuations give at the limit, with that limit posited as already complete. Actual infinity is the working posit of mathematics, and calculation is reliable inside it. In first-person experience infinity appears only as potential, with a next step always remaining, and declaring that potential a closed totality is the impatience of desire.
+The Riemann Hypothesis asserts that the non-trivial zeros of the zeta function all lie on one line, and the spacing statistics of those zeros match the level statistics of quantum chaotic systems. Set side by side, the two show number theory as an asymptotic compression: it traces the picture that infinitely many fluctuations give at the limit, with that limit posited as already complete. Actual infinity is the working posit of mathematics, and calculation is reliable inside it. In first-person experience infinity appears only as potential, with a next step always remaining, and declaring that potential a closed totality is the impatience of desire.
 
 ## 一、 作为有界投影的临界带 / 1. The Critical Strip as a Bounded Projection
 
@@ -72,13 +72,13 @@ The same holds for the element dx. The uncertainty relation Δx · Δp ≥ ħ/2 
 
 ## 五、 数学作为渐近压缩 / 5. Mathematics as Asymptotic Compression
 
-于是黎曼猜想可以读作对一个理想化极限的压缩。设定无穷可以抵达、dx 可以平滑地消失之后，数学画出了无限多个涨落的自由度在极限处构成的平衡图景。
+于是黎曼猜想是对一个理想化极限的压缩。设定无穷可以抵达、dx 可以平滑地消失之后，数学画出了无限多个涨落的自由度在极限处构成的平衡图景。
 
-The Riemann Hypothesis can thus be read as the compression of an idealized limit. Having posited that infinity can be reached and that dx can vanish smoothly, mathematics draws the picture of equilibrium that infinitely many fluctuating degrees of freedom form at the limit.
+The Riemann Hypothesis is thus the compression of an idealized limit. Having posited that infinity can be reached and that dx can vanish smoothly, mathematics draws the picture of equilibrium that infinitely many fluctuating degrees of freedom form at the limit.
 
-按这种读法，非平凡零点排在 Re(s) = 1/2 上，是因为只有在这个位置，一个保持酉性的谱才能无损地投出来。测量停在有限的步长上，到不了实无穷，黎曼猜想因此是一张地图，画的是视界不断外推时过程所指的方向。地图在它的设定之内可靠，边界出现在它被当作一个已经走遍的整体的时候。临界线上零点所占比例的下界，也是在这样的闭合之内可靠，[潜无限与数学思维的暂时闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)展开了这一点。
+非平凡零点排在 Re(s) = 1/2 上，是因为只有在这个位置，一个保持酉性的谱才能无损地投出来。测量停在有限的步长上，到不了实无穷，黎曼猜想因此是一张地图，画的是视界不断外推时过程所指的方向。地图在它的设定之内可靠，边界出现在它被当作一个已经走遍的整体的时候。临界线上零点所占比例的下界，也是在这样的闭合之内可靠，[潜无限与数学思维的暂时闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)展开了这一点。
 
-On this reading, the non-trivial zeros line up on Re(s) = 1/2 because only at that position can a spectrum that stays unitary be projected without loss. Measurement stops at finite steps and does not arrive at actual infinity, so the Riemann Hypothesis is a map, drawing the direction in which the process points as the horizon is pushed ever outward. The map is reliable inside its posit, and its boundary appears when it is taken for a whole that has already been surveyed. The lower bounds on the proportion of zeros on the critical line are likewise reliable inside such a closure, as [Potential Infinity and the Temporary Closures of Mathematical Thought](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/) lays out.
+The non-trivial zeros line up on Re(s) = 1/2 because only at that position can a spectrum that stays unitary be projected without loss. Measurement stops at finite steps and does not arrive at actual infinity, so the Riemann Hypothesis is a map, drawing the direction in which the process points as the horizon is pushed ever outward. The map is reliable inside its posit, and its boundary appears when it is taken for a whole that has already been surveyed. The lower bounds on the proportion of zeros on the critical line are likewise reliable inside such a closure, as [Potential Infinity and the Temporary Closures of Mathematical Thought](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/) lays out.
 
 ## 六、 潜无限与整体 / 6. Potential Infinity and Totality
 
