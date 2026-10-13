@@ -1,0 +1,1107 @@
+{
+ "slug": "the-cut-moves-but-never-vanishes",
+ "lang": "zh",
+ "post": "content/posts/the-cut-moves-but-never-vanishes.md",
+ "title": "割点可移不可除",
+ "labels": {
+  "claim": "割点可移，不可除",
+  "precision": "极高的精度",
+  "century": "一百年",
+  "scaffold": "趁手的脚手架",
+  "thecut": "割点",
+  "regions": "一块块地域",
+  "process": "过程",
+  "implicate": "隐序",
+  "wholeness": "整全",
+  "selfref": "自指",
+  "address": "一个住址",
+  "copenhagen": "哥本哈根",
+  "manyworlds": "多世界",
+  "bohm": "玻姆",
+  "held": "某个人持有",
+  "geometry": "新的几何",
+  "boundary": "自己的边界",
+  "exclusion": "不相容",
+  "constraint": "展开的约束",
+  "pattern": "不可分割的模式",
+  "folded": "同一过程的内在折叠",
+  "same": "保持不变",
+  "neighbours": "邻近关系",
+  "possibilities": "各种可能的叠加",
+  "record": "一条确定的记录",
+  "mcut": "测量割点",
+  "screen": "屏",
+  "retina": "视网膜",
+  "cortex": "皮层",
+  "nochange": "不变",
+  "slides": "可以滑动",
+  "notout": "不可剔除",
+  "here": "在此处",
+  "decided": "决定不再追踪",
+  "fact": "可读的事实",
+  "question": "有人选择去问的问题",
+  "seam": "有两边的一道缝",
+  "chosen": "是选的",
+  "notchosen": "不是选的",
+  "born": "玻恩规则",
+  "effect": "已经是果",
+  "cause": "后续的因",
+  "ahead": "领先一步",
+  "thing": "把割点做成一件东西",
+  "removes": "把它抹掉",
+  "onereading": "一个读数，且只有一个",
+  "prop": "一件道具",
+  "apparatus": "在仪器上",
+  "branch": "在分支里",
+  "traj": "在隐藏的轨迹里",
+  "belief": "在更新的信念里",
+  "sample": "在有限的取样里",
+  "firstperson": "第一人称先于任何说明",
+  "nomark": "数字里没有标记",
+  "axis": "又一条坐标轴",
+  "high": "得高分",
+  "low": "得低分",
+  "exhibit": "不是一件展品",
+  "gaze": "审视的目光",
+  "close": "无法从内部闭合",
+  "nowhere": "无处之境",
+  "where": "制图者站在哪里？",
+  "outside": "在每一个分支之外",
+  "nocut": "不受任何割点约束",
+  "higher": "更高一层",
+  "smooth": "一个平滑的空间",
+  "clusters": "相邻的簇",
+  "tags": "顺手的标签",
+  "nobench": "不站在任何实验台边",
+  "cost": "付出过什么",
+  "nosource": "自称无源",
+  "contact": "为接触而造",
+  "shelter": "不是避难所",
+  "weights": "玻恩权重不变",
+  "asserted": "在边界处被认定",
+  "reaches": "每个模型够得着多远",
+  "open": "开放的世界"
+ },
+ "argument_steps": [
+  {
+   "id": "A1",
+   "step": "The formalism predicts readings precisely while its picture has been disputed for a century; each interpretation is a scaffold, a map over all of them repeats the predicament, and the cut moves but never vanishes.",
+   "post_lines": [
+    5,
+    7
+   ]
+  },
+  {
+   "id": "A2",
+   "step": "A familiar impulse projects the conflicting interpretations into a higher space with axes such as process, implicate order, wholeness and self-reference.",
+   "post_lines": [
+    11,
+    13
+   ]
+  },
+  {
+   "id": "A3",
+   "step": "Within its own domain each interpretation is a useful tool.",
+   "post_lines": [
+    15,
+    17
+   ]
+  },
+  {
+   "id": "A4",
+   "step": "Sorting is not extending: restating exclusion or Bell correlations in another vocabulary changes no prediction; taking the sorting for a resolution oversteps the model.",
+   "post_lines": [
+    19,
+    55
+   ]
+  },
+  {
+   "id": "A5",
+   "step": "Von Neumann showed the measurement cut can be placed anywhere along the chain with the probabilities unchanged.",
+   "post_lines": [
+    93,
+    95
+   ]
+  },
+  {
+   "id": "A6",
+   "step": "The cut cannot be removed: it is not a boundary stone in the world but the decision to stop tracking and take a record as fact; the arrangement is the question asked.",
+   "post_lines": [
+    97,
+    99
+   ]
+  },
+  {
+   "id": "A7",
+   "step": "The cut is the seam where the choice of question meets a response that is not chosen; each observation is already an effect and a cause of what follows.",
+   "post_lines": [
+    101,
+    103
+   ]
+  },
+  {
+   "id": "A8",
+   "step": "Objective collapse reifies the cut and strong many worlds erases it; the schools are placements of it; it moves by choice and is irreducible because the first person is prior; the same holds for ascribing consciousness to a model.",
+   "post_lines": [
+    105,
+    147
+   ]
+  },
+  {
+   "id": "A9",
+   "step": "Treating self-reference as a scored axis is a category error: it is the mind differentiating from itself, and a system describing a whole that includes itself cannot close internally.",
+   "post_lines": [
+    191,
+    193
+   ]
+  },
+  {
+   "id": "A10",
+   "step": "The mapmaker must assume a place outside every branch and cut: a second-order view from nowhere.",
+   "post_lines": [
+    195,
+    197
+   ]
+  },
+  {
+   "id": "A11",
+   "step": "Language models produce such maps easily because their space smooths contradictory hypotheses into neighbours and no measurement ever cost them anything.",
+   "post_lines": [
+    199,
+    201
+   ]
+  },
+  {
+   "id": "A12",
+   "step": "Every model is an instrument for contact; the invariance of Born weights shows definiteness is asserted at the boundary; recognising the cut locates the reach of each model.",
+   "post_lines": [
+    203,
+    239
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "id": "b01",
+   "steps": [
+    "A1"
+   ],
+   "narration": "量子力学以极高的精度预测仪器会读到什么，而这套算术描述的是什么，已经争了一百年。每一种诠释在自己的范围内都是趁手的脚手架。在它们之上画一张地图，想从高处把它们调和，却重复了它想了结的难题。每一次测量都是某个人在链条的某一处做的。那一处就是割点。割点可移，不可除；一个理论想把它抹掉或者钉死的地方，就是这个理论不再普遍适用的地方。",
+   "on_screen": [
+    {
+     "text": "极高的精度",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "一百年",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "趁手的脚手架",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "割点",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "割点可移，不可除",
+     "role": "claim",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "A blank blueprint sheet with a faint grid.",
+    "driver": "A long rule is drawn across the sheet with five stations on it and a readout window under it; a glass cursor with a hairline comes onto the rule and slides.",
+    "end": "The rule, the cursor at rest, the readout unchanged."
+   }
+  },
+  {
+   "id": "b02",
+   "steps": [
+    "A2"
+   ],
+   "narration": "面对这场对峙，常见的做法是设想一个更高的空间，把各种诠释在里面铺成一块块地域。坐标轴是过程、隐序、整全、自指这一类。老的图景落在机械、局部的一角，新的被放到过程与整体那一头。每一处张力都化成了一个方向，各派看上去就安顿了，在一张整齐的纸上各有一个住址。",
+   "on_screen": [
+    {
+     "text": "一块块地域",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "过程",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "隐序",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "整全",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "自指",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "一个住址",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The rule sinks to the bottom of the sheet.",
+    "driver": "A second, smaller sheet is laid above it: four axes are ruled on it and outlined regions are placed, some in one corner, some toward the far end.",
+    "end": "A tidy chart of regions over the rule."
+   }
+  },
+  {
+   "id": "b03",
+   "steps": [
+    "A3"
+   ],
+   "narration": "这些每一样都是工具，在它为之而造的地方好用。哥本哈根让实验室守纪律：量子态在一边，经典指针在另一边。多世界保全了演化的完整，正合量子信息与量子计算之用。玻姆的力学把轨迹还给了粒子。量子贝叶斯与关系诠释表明，态是某个人持有的，在某个情境里。计算的图景开出了新的几何可供探索。在自己的边界之内，每一样都在干实事。",
+   "on_screen": [
+    {
+     "text": "哥本哈根",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "多世界",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "玻姆",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "某个人持有",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "新的几何",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "自己的边界",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The chart of regions.",
+    "driver": "The five regions are picked out one at a time, each under its own name.",
+    "end": "Five regions, each inside a dashed boundary of its own."
+   }
+  },
+  {
+   "id": "b04",
+   "steps": [
+    "A4"
+   ],
+   "narration": "给想法归类，不等于拓展了所知。标准理论用一个对调两个就变号的态来描述全同电子，泡利的不相容由此而来。把它重述成展开的约束，或者不可分割的模式，方程预测的还是原来那些。审慎的地图自己也这么说，并把这个负号标为未解的问题。把贝尔实验里的关联叫作同一过程的内在折叠，统计结果保持不变。地图显示的是哪些概念之间有邻近关系。把归类当成解答，就越过了地图能做的事。",
+   "on_screen": [
+    {
+     "text": "不相容",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "展开的约束",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "不可分割的模式",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "同一过程的内在折叠",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "保持不变",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "邻近关系",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The rule and its readout.",
+    "driver": "A name plate over the readout is swapped three times for a longer name; the bars in the readout do not move.",
+    "end": "A new name over the same bars."
+   }
+  },
+  {
+   "id": "b05",
+   "steps": [
+    "A5"
+   ],
+   "narration": "这场争论底下，是冯·诺依曼和海森堡划下的一条线。以各种可能的叠加在演化的体系，总要在某处遇上一台给出一条确定的记录的仪器。相遇的那一处，就是测量割点。冯·诺依曼证明它可以移动：放在粒子和屏之间，放在屏和视网膜之间，放在视神经和皮层之间。无论沿着链条往后推多远，算出的几率都不变。",
+   "on_screen": [
+    {
+     "text": "各种可能的叠加",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "一条确定的记录",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "测量割点",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "屏",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "视网膜",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "皮层",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "不变",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The rule alone, full size.",
+    "driver": "Left of the hairline the track is a bundle of waves; right of it, one dot on a straight line. The cursor is slid to three stops along the chain, and the bars in the readout stay as they are.",
+    "end": "The cursor far along the chain, the same bars."
+   }
+  },
+  {
+   "id": "b06",
+   "steps": [
+    "A6"
+   ],
+   "narration": "割点可以滑动，却不可剔除。人习惯到客体的世界里去找坍缩发生的那个地方。可是沿着链条，粒子、探测器、眼里的光、神经里的电流，都可以写成同一个在演化的叠加。这份描述里没有哪一处标着：在此处。说割点在屏上，意思是实验者决定不再追踪那里的各种可能，把发生的事接受为可读的事实。玻尔说的是同一点：离开了为遇见它而搭起的装置，就没有量子客体可言，而装置是有人选择去问的问题。",
+   "on_screen": [
+    {
+     "text": "可以滑动",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "不可剔除",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "在此处",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "决定不再追踪",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "可读的事实",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "有人选择去问的问题",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The cursor on the rule.",
+    "driver": "The cursor is lifted off and the whole track turns to waves with no dot anywhere; a search mark runs along the stations and finds no mark on any of them; the cursor is set back by its green tab.",
+    "end": "The cursor at the screen, held by its tab."
+   }
+  },
+  {
+   "id": "b07",
+   "steps": [
+    "A7"
+   ],
+   "narration": "这不是心智的虚构，这是发问者的落脚处。割点是有两边的一道缝。在哪里切、怎么切，是选的：测位置还是测动量，双缝后面放不放探测器，现在就读屏还是把仪器再纳入叠加。在割点处回来的，不是选的：读数服从玻恩规则，不随愿望而变。每一个读数在成立的那一刻已经是果，同时又是后续的因。读到的都已经发生，所以因始终比记录至少领先一步。从时间上看，割点就是那个间隙。",
+   "on_screen": [
+    {
+     "text": "有两边的一道缝",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "是选的",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "不是选的",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "玻恩规则",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "已经是果",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "后续的因",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "领先一步",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The hairline, enlarged.",
+    "driver": "The hairline is drawn large as a seam: on its left a green tab is moved between settings; on its right dots land one by one into bars that fill to fixed heights whatever the tab does. Then a row of dots, each landed one a step behind a green mark that runs ahead.",
+    "end": "A green mark one step ahead of the last dot."
+   }
+  },
+  {
+   "id": "b08",
+   "steps": [
+    "A8"
+   ],
+   "narration": "这样看，两种由来已久的努力就显出来了。客观坍缩理论到自然里去找一个常数或阈值，想把割点做成一件东西。多世界最强的形式把它抹掉，然后说不出为什么遇到的是一个读数，且只有一个。两者都把第一人称动作的边缘，当成了第三人称舞台上的一件道具。各派的分歧在于把割点放在哪里：在仪器上，在分支里，在隐藏的轨迹里，在更新的信念里，在有限的取样里。它可移，是因为发问者选择在链条的哪一处遇上阻力。它不可除，是因为第一人称先于任何说明：连一份略去发问者的说明，也是有人给出的。物理之外也是一样。把一个语言模型一个权重一个权重地缩小，直到只剩噪声：数字里没有标记心智在哪个规模上消失，说出一个规模的人，是自己划了线。",
+   "on_screen": [
+    {
+     "text": "把割点做成一件东西",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "把它抹掉",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "一个读数，且只有一个",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "一件道具",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "在仪器上",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "在分支里",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "在隐藏的轨迹里",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "在更新的信念里",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "在有限的取样里",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "第一人称先于任何说明",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "数字里没有标记",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The rule and cursor.",
+    "driver": "A red rivet is driven through the cursor to pin it; then the cursor is struck out in red and the track is all waves. Both are undone. Five ticks are set along the rule where five schools place the cursor. Last, a row of shrinking grids of numbers under the rule, with no mark between any two.",
+    "end": "The free cursor on the rule; under it the shrinking grids."
+   }
+  },
+  {
+   "id": "b09",
+   "steps": [
+    "A9"
+   ],
+   "narration": "在地图上，自指是又一条坐标轴。把观察者写进回路的理论得高分；把观察者留在实验之外的得低分。这类地图里最好的那些自己也指出，这个回路永远合不拢。可是分数是从外面打的，而自指不是一件展品，不能摆在桌上打分。它是心智同自身不停歇的分化。审视的目光，变不成它所审视的标本之一。哥德尔、塔斯基与图灵给出了这件事的形式一面：一个想描述包含自身在内的整体的系统，无法从内部闭合。",
+   "on_screen": [
+    {
+     "text": "又一条坐标轴",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "得高分",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "得低分",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "不是一件展品",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "审视的目光",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "无法从内部闭合",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The chart of regions again.",
+    "driver": "One axis is drawn in purple with a scale of marks, and two regions are scored against it. Then a purple loop is drawn that tries to pass through its own start and is left open by a gap.",
+    "end": "An open loop beside the scored axis."
+   }
+  },
+  {
+   "id": "b10",
+   "steps": [
+    "A10"
+   ],
+   "narration": "从这里，生出第二个、更隐蔽的无处之境。制图者从高处比对哥本哈根、多世界与隐变量各派，在顶峰上观察者与流动合一。审慎的地图承认，它的顶峰有一部分是自己搭出来的。有一个问题仍然开着：制图者站在哪里？每一派都是从同一张图上读出来的，要把它们平铺在这张网格上，画图的人必须假定一个在每一个分支之外的位置，不受任何割点约束。地图批评经典物理用了上帝之眼，自己却坐到了更高一层。",
+   "on_screen": [
+    {
+     "text": "无处之境",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "制图者站在哪里？",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "在每一个分支之外",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "不受任何割点约束",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "更高一层",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The chart over the rule.",
+    "driver": "An empty ring, the mark for you are here, searches the chart and comes to rest nowhere on it; a dashed red outline of a further sheet is drawn above the chart, with the ring on that.",
+    "end": "The ring on a sheet that is not there, one level above the chart."
+   }
+  },
+  {
+   "id": "b11",
+   "steps": [
+    "A11"
+   ],
+   "narration": "这也说明了语言模型为什么这么容易产出这样的地图。模型把人们写下的东西折进一个平滑的空间，在那里互相矛盾的假设成了相邻的簇，自指与过程是顺手的标签。模型自己不站在任何实验台边。没有哪一次不可逆的测量让它付出过什么。一个自称无源的视角，漏掉了具身的接触，而每一条物理规律起初都是从那里读出来的。",
+   "on_screen": [
+    {
+     "text": "一个平滑的空间",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "相邻的簇",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "顺手的标签",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "不站在任何实验台边",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "付出过什么",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "自称无源",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The chart.",
+    "driver": "The chart is redrawn as smooth contour lines; points of two colours settle into clusters side by side and small tags are hung on them. The rule below has no cursor on it and its readout is empty.",
+    "end": "A smooth chart over a rule that nobody is reading."
+   }
+  },
+  {
+   "id": "b12",
+   "steps": [
+    "A12"
+   ],
+   "narration": "想要一个终极理论，是把脚手架当成了闭合的整体。每一个模型，从波动力学到过程图谱，都是为接触而造的器具，接触的是尚未被建模的东西。它不是避难所，发问放不下来。无论割点被推多远，玻恩权重不变。假如链条上有哪一环生产出了那一个结果，把割点挪过那一环就该有所变化，而什么都没变；所以确定性是在边界处被认定的，由把读数当作定论的人认定，不是边界之前的机件生产出来的。说割点可移而不可除，没有从物理学拿走什么。它标出的是每个模型够得着多远。放下无处之境的那个座位，下一步就离开画完的地图，走进开放的世界。割点可移，不可除。",
+   "on_screen": [
+    {
+     "text": "为接触而造",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "不是避难所",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "玻恩权重不变",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "在边界处被认定",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "每个模型够得着多远",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "开放的世界",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "割点可移，不可除",
+     "role": "claim",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The chart folded small in a corner; the rule full size.",
+    "driver": "The cursor is back on the rule with its green tab and is slid end to end; the bars hold. A dimension line marks the length of the rule and stops at its end; past the end the grid of the sheet goes on, undrawn.",
+    "end": "The cursor at rest, the claim over the rule."
+   }
+  }
+ ],
+ "exaggerations": [],
+ "guard_rails": [
+  "Nothing is drawn but a draughtsman's sheet: a rule with stations, a glass cursor with a hairline, a readout of bars, a chart of outlined regions, drafting tools. No person, no face, no eye drawn as an eye, no portrait of any physicist.",
+  "The bars of the readout never change height when the cursor moves or a name is swapped.",
+  "Green is the tab that sets the cursor and what is chosen; red is the rivet, the strike-out and the sheet that is not there; amber is names, scales and the chart; pale blue-white is the drawing itself; purple is the loop of self-reference.",
+  "No school is drawn as mistaken: each is a tool inside a boundary, or a tick where it places the cursor."
+ ],
+ "cues": {
+  "b01": {
+   "precision": {
+    "phrase": "极高的精度"
+   },
+   "hundred": {
+    "phrase": "一百年"
+   },
+   "scaffold": {
+    "phrase": "脚手架"
+   },
+   "map": {
+    "phrase": "地图"
+   },
+   "someone": {
+    "phrase": "某个人"
+   },
+   "cut": {
+    "phrase": "割点"
+   },
+   "moves": {
+    "phrase": "可移"
+   },
+   "universal": {
+    "phrase": "普遍适用"
+   }
+  },
+  "b02": {
+   "space": {
+    "phrase": "更高的空间"
+   },
+   "regions": {
+    "phrase": "地域"
+   },
+   "axes": {
+    "phrase": "坐标轴"
+   },
+   "corner": {
+    "phrase": "一角"
+   },
+   "settled": {
+    "phrase": "安顿"
+   },
+   "address": {
+    "phrase": "住址"
+   }
+  },
+  "b03": {
+   "tool": {
+    "phrase": "工具"
+   },
+   "copenhagen": {
+    "phrase": "哥本哈根"
+   },
+   "worlds": {
+    "phrase": "多世界"
+   },
+   "trajectory": {
+    "phrase": "轨迹"
+   },
+   "someone": {
+    "phrase": "某个人"
+   },
+   "geometry": {
+    "phrase": "几何"
+   },
+   "boundary": {
+    "phrase": "边界"
+   }
+  },
+  "b04": {
+   "sorting": {
+    "phrase": "归类"
+   },
+   "sign": {
+    "phrase": "变号"
+   },
+   "exclusion": {
+    "phrase": "不相容"
+   },
+   "constraint": {
+    "phrase": "展开的约束"
+   },
+   "pattern": {
+    "phrase": "不可分割的模式"
+   },
+   "exactly": {
+    "phrase": "原来那些"
+   },
+   "folded": {
+    "phrase": "内在折叠"
+   },
+   "same": {
+    "phrase": "保持不变"
+   },
+   "neighbours": {
+    "phrase": "邻近关系"
+   },
+   "answer": {
+    "phrase": "解答"
+   }
+  },
+  "b05": {
+   "line": {
+    "phrase": "一条线"
+   },
+   "possibilities": {
+    "phrase": "叠加"
+   },
+   "record": {
+    "phrase": "记录"
+   },
+   "cut": {
+    "phrase": "测量割点"
+   },
+   "moved": {
+    "phrase": "可以移动"
+   },
+   "screen": {
+    "phrase": "粒子和屏"
+   },
+   "retina": {
+    "phrase": "屏和视网膜"
+   },
+   "cortex": {
+    "phrase": "视神经和皮层"
+   },
+   "probabilities": {
+    "phrase": "几率"
+   }
+  },
+  "b06": {
+   "slides": {
+    "phrase": "可以滑动"
+   },
+   "taken": {
+    "phrase": "不可剔除"
+   },
+   "objects": {
+    "phrase": "客体的世界"
+   },
+   "chain": {
+    "phrase": "沿着链条"
+   },
+   "marked": {
+    "phrase": "标着"
+   },
+   "decided": {
+    "phrase": "决定不再追踪"
+   },
+   "fact": {
+    "phrase": "可读的事实"
+   },
+   "arrangement": {
+    "phrase": "装置"
+   },
+   "question": {
+    "phrase": "问的问题"
+   }
+  },
+  "b07": {
+   "seam": {
+    "phrase": "一道缝"
+   },
+   "chosen": {
+    "phrase": "是选的"
+   },
+   "position": {
+    "phrase": "测位置"
+   },
+   "slits": {
+    "phrase": "双缝"
+   },
+   "back": {
+    "phrase": "回来的"
+   },
+   "born": {
+    "phrase": "玻恩规则"
+   },
+   "effect": {
+    "phrase": "已经是果"
+   },
+   "cause": {
+    "phrase": "后续的因"
+   },
+   "ahead": {
+    "phrase": "领先一步"
+   },
+   "gap": {
+    "phrase": "间隙"
+   }
+  },
+  "b08": {
+   "efforts": {
+    "phrase": "两种由来已久的努力"
+   },
+   "threshold": {
+    "phrase": "阈值"
+   },
+   "removes": {
+    "phrase": "抹掉"
+   },
+   "only": {
+    "phrase": "只有一个"
+   },
+   "prop": {
+    "phrase": "道具"
+   },
+   "apparatus": {
+    "phrase": "在仪器上"
+   },
+   "branch": {
+    "phrase": "在分支里"
+   },
+   "trajectory": {
+    "phrase": "在隐藏的轨迹里"
+   },
+   "belief": {
+    "phrase": "在更新的信念里"
+   },
+   "sample": {
+    "phrase": "在有限的取样里"
+   },
+   "moves": {
+    "phrase": "它可移"
+   },
+   "removed": {
+    "phrase": "它不可除"
+   },
+   "model": {
+    "phrase": "语言模型"
+   },
+   "marks": {
+    "phrase": "没有标记"
+   }
+  },
+  "b09": {
+   "axis": {
+    "phrase": "坐标轴"
+   },
+   "high": {
+    "phrase": "得高分"
+   },
+   "low": {
+    "phrase": "得低分"
+   },
+   "exhibit": {
+    "phrase": "展品"
+   },
+   "differentiation": {
+    "phrase": "分化"
+   },
+   "gaze": {
+    "phrase": "审视的目光"
+   },
+   "specimens": {
+    "phrase": "标本"
+   },
+   "formal": {
+    "phrase": "形式一面"
+   },
+   "close": {
+    "phrase": "从内部闭合"
+   }
+  },
+  "b10": {
+   "second": {
+    "phrase": "第二个"
+   },
+   "above": {
+    "phrase": "从高处"
+   },
+   "summit": {
+    "phrase": "顶峰"
+   },
+   "where": {
+    "phrase": "制图者站在哪里"
+   },
+   "grid": {
+    "phrase": "网格"
+   },
+   "outside": {
+    "phrase": "之外的位置"
+   },
+   "bound": {
+    "phrase": "不受任何割点约束"
+   },
+   "eye": {
+    "phrase": "上帝之眼"
+   },
+   "higher": {
+    "phrase": "更高一层"
+   }
+  },
+  "b11": {
+   "readily": {
+    "phrase": "这么容易"
+   },
+   "smooth": {
+    "phrase": "平滑的空间"
+   },
+   "clusters": {
+    "phrase": "相邻的簇"
+   },
+   "tags": {
+    "phrase": "标签"
+   },
+   "bench": {
+    "phrase": "实验台"
+   },
+   "cost": {
+    "phrase": "付出过什么"
+   },
+   "source": {
+    "phrase": "无源"
+   },
+   "contact": {
+    "phrase": "具身的接触"
+   }
+  },
+  "b12": {
+   "final": {
+    "phrase": "终极理论"
+   },
+   "instrument": {
+    "phrase": "器具"
+   },
+   "shelter": {
+    "phrase": "避难所"
+   },
+   "pushed": {
+    "phrase": "推多远"
+   },
+   "weights": {
+    "phrase": "玻恩权重"
+   },
+   "asserted": {
+    "phrase": "被认定"
+   },
+   "physics": {
+    "phrase": "物理学"
+   },
+   "reaches": {
+    "phrase": "够得着多远"
+   },
+   "nowhere": {
+    "phrase": "座位"
+   },
+   "open": {
+    "phrase": "开放的世界"
+   },
+   "vanishes": {
+    "phrase": "割点可移",
+    "nth": 2
+   }
+  }
+ }
+}

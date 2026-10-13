@@ -27,6 +27,8 @@ const outputDir = path.join(scriptDir, 'public');
 const coversDir = path.join(scriptDir, 'assets', 'covers');
 const figuresDir = path.join(scriptDir, 'assets', 'figures');
 const infographicsDir = path.join(scriptDir, 'assets', 'infographics');
+// A film as a live page: assets/films is what studio/bin/export-live.mjs writes (lib/player.html, the kit, jobs/<slug>/).
+const filmsDir = path.join(scriptDir, 'assets', 'films');
 // The films of a post: data/youtube.json is the uploader's ledger, { videos: { <slug>: { en: { id }, zh: { id } } } }.
 const youtubeFile = path.join(scriptDir, 'data', 'youtube.json');
 const YOUTUBE = fs.existsSync(youtubeFile) ? (JSON.parse(fs.readFileSync(youtubeFile, 'utf8')).videos ?? {}) : {};
@@ -1609,12 +1611,16 @@ function renderPostMedia(post) {
   const switchHtml = langs.length > 1
     ? `<div class="media-lang" role="group" aria-label="Language">${langs.map(([lang, name]) => `<button type="button" data-media-lang="${lang}" aria-pressed="false">${name}</button>`).join('')}</div>`
     : '';
+  const live = fs.existsSync(path.join(filmsDir, 'jobs', post.slug, 'film.mjs'));
   const data = (items, key) => items.map((x) => `data-${x.lang}="${escapeHtml(x[key])}"`).join(' ');
-  const videoHtml = videos.length
+  const frameHtml = live
+    ? `<div class="video-frame live"><iframe data-live src="${withBase('films/lib/player.html')}?job=${encodeURIComponent(post.slug)}&amp;embed=1" title="Film" loading="lazy" allow="autoplay; fullscreen" allowfullscreen></iframe></div>`
+    : `<div class="video-frame" data-video ${data(videos, 'id')}><button type="button" class="video-play" aria-label="Play the film"><span class="video-play-mark" aria-hidden="true"></span><span class="video-play-label">视频讲解 · Film</span></button></div>`;
+  const videoHtml = videos.length || live
     ? `<section class="post-media">
         ${switchHtml}
-        <div class="video-frame" data-video ${data(videos, 'id')}><button type="button" class="video-play" aria-label="Play the film"><span class="video-play-mark" aria-hidden="true"></span><span class="video-play-label">视频讲解 · Film</span></button></div>
-        <p class="meta media-links">YouTube: ${videos.map((v) => `<a href="https://youtu.be/${escapeHtml(v.id)}" rel="noopener noreferrer">${v.name}</a>`).join(' · ')}</p>
+        ${frameHtml}
+        ${videos.length ? '' : '<!-- no YouTube copy -->'}<p class="meta media-links"${videos.length ? '' : ' hidden'}>YouTube: ${videos.map((v) => `<a href="https://youtu.be/${escapeHtml(v.id)}" rel="noopener noreferrer">${v.name}</a>`).join(' · ')}</p>
       </section>`
     : '';
   const first = pictures.find((p) => p.lang === 'en') ?? pictures[0];
@@ -1626,7 +1632,8 @@ function renderPostMedia(post) {
   const script = `
       <script>
         (function () {
-          var KEY = 'nat-media-lang', video = document.querySelector('[data-video]'), figure = document.querySelector('[data-infographic]');
+          var KEY = 'nat-media-lang', video = document.querySelector('[data-video]'), figure = document.querySelector('[data-infographic]'), live = document.querySelector('[data-live]');
+          if (live) addEventListener('message', function (e) { if (e.source === live.contentWindow && e.data && e.data.natHeight) live.style.height = e.data.natHeight + 'px'; });
           var buttons = document.querySelectorAll('[data-media-lang]'), lang = null;
           try { lang = localStorage.getItem(KEY); } catch (e) {}
           if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
@@ -1641,6 +1648,7 @@ function renderPostMedia(post) {
             lang = l;
             for (var i = 0; i < buttons.length; i++) buttons[i].setAttribute('aria-pressed', buttons[i].getAttribute('data-media-lang') === l ? 'true' : 'false');
             if (video && video.getAttribute('data-playing')) play();
+            if (live && keep && live.contentWindow) live.contentWindow.postMessage({ natLang: l }, location.origin);
             if (has(figure, l)) { figure.querySelector('img').src = has(figure, l); figure.querySelector('a').href = has(figure, l); }
             if (keep) { try { localStorage.setItem(KEY, l); } catch (e) {} }
           }
@@ -1854,6 +1862,8 @@ function copyStaticAssets() {
       fs.copyFileSync(path.join(coversDir, entry.name), path.join(publicCoversDir, entry.name));
     }
   }
+
+  if (fs.existsSync(filmsDir)) fs.cpSync(filmsDir, path.join(outputDir, 'films'), { recursive: true });
 
   if (fs.existsSync(infographicsDir)) {
     const publicInfographicsDir = path.join(outputDir, 'infographics');

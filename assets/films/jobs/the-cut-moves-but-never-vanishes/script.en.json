@@ -1,0 +1,750 @@
+{
+ "slug": "the-cut-moves-but-never-vanishes",
+ "lang": "en",
+ "post": "content/posts/the-cut-moves-but-never-vanishes.md",
+ "title": "The Cut Moves but Never Vanishes",
+ "labels": {
+  "claim": "The cut moves, and it never vanishes",
+  "precision": "extraordinary precision",
+  "century": "a hundred years",
+  "scaffold": "a working scaffold",
+  "thecut": "the cut",
+  "regions": "regions",
+  "process": "process",
+  "implicate": "implicate order",
+  "wholeness": "wholeness",
+  "selfref": "self-reference",
+  "address": "an address",
+  "copenhagen": "Copenhagen",
+  "manyworlds": "Many worlds",
+  "bohm": "Bohm",
+  "held": "held by someone",
+  "geometry": "a new geometry",
+  "boundary": "its own boundary",
+  "exclusion": "exclusion",
+  "constraint": "a constraint on unfolding",
+  "pattern": "an undivided pattern",
+  "folded": "one process folded into itself",
+  "same": "stay the same",
+  "neighbours": "neighbours",
+  "possibilities": "a sum of possibilities",
+  "record": "one definite record",
+  "mcut": "the measurement cut",
+  "screen": "the screen",
+  "retina": "the retina",
+  "cortex": "the cortex",
+  "nochange": "do not change",
+  "slides": "slides freely",
+  "notout": "cannot be taken out",
+  "here": "here",
+  "decided": "decided to stop tracking",
+  "fact": "a readable fact",
+  "question": "a question someone chose to ask",
+  "seam": "a seam with two sides",
+  "chosen": "is chosen",
+  "notchosen": "is not chosen",
+  "born": "the Born rule",
+  "effect": "already an effect",
+  "cause": "a cause of what follows",
+  "ahead": "one step ahead",
+  "thing": "make the cut a thing",
+  "removes": "removes it",
+  "onereading": "one reading, and only one",
+  "prop": "a prop",
+  "apparatus": "at the apparatus",
+  "branch": "in the branch",
+  "traj": "in a hidden trajectory",
+  "belief": "in an updated belief",
+  "sample": "in a bounded sample",
+  "firstperson": "the first person comes before any account",
+  "nomark": "nothing in the numbers marks",
+  "axis": "one more axis",
+  "high": "scores high",
+  "low": "scores low",
+  "exhibit": "not an exhibit",
+  "gaze": "The gaze that examines",
+  "close": "cannot close from the inside",
+  "nowhere": "view from nowhere",
+  "where": "where is the mapmaker standing?",
+  "outside": "outside every branch",
+  "nocut": "bound by no cut",
+  "higher": "one level higher",
+  "smooth": "one smooth space",
+  "clusters": "neighbouring clusters",
+  "tags": "easy tags",
+  "nobench": "stands at no bench",
+  "cost": "cost it anything",
+  "nosource": "claims no source",
+  "contact": "made for contact",
+  "shelter": "not a shelter",
+  "weights": "the Born weights hold",
+  "asserted": "asserted at the boundary",
+  "reaches": "how far each model reaches",
+  "open": "the open world"
+ },
+ "argument_steps": [
+  {
+   "id": "A1",
+   "step": "The formalism predicts readings precisely while its picture has been disputed for a century; each interpretation is a scaffold, a map over all of them repeats the predicament, and the cut moves but never vanishes.",
+   "post_lines": [
+    5,
+    7
+   ]
+  },
+  {
+   "id": "A2",
+   "step": "A familiar impulse projects the conflicting interpretations into a higher space with axes such as process, implicate order, wholeness and self-reference.",
+   "post_lines": [
+    11,
+    13
+   ]
+  },
+  {
+   "id": "A3",
+   "step": "Within its own domain each interpretation is a useful tool.",
+   "post_lines": [
+    15,
+    17
+   ]
+  },
+  {
+   "id": "A4",
+   "step": "Sorting is not extending: restating exclusion or Bell correlations in another vocabulary changes no prediction; taking the sorting for a resolution oversteps the model.",
+   "post_lines": [
+    19,
+    55
+   ]
+  },
+  {
+   "id": "A5",
+   "step": "Von Neumann showed the measurement cut can be placed anywhere along the chain with the probabilities unchanged.",
+   "post_lines": [
+    93,
+    95
+   ]
+  },
+  {
+   "id": "A6",
+   "step": "The cut cannot be removed: it is not a boundary stone in the world but the decision to stop tracking and take a record as fact; the arrangement is the question asked.",
+   "post_lines": [
+    97,
+    99
+   ]
+  },
+  {
+   "id": "A7",
+   "step": "The cut is the seam where the choice of question meets a response that is not chosen; each observation is already an effect and a cause of what follows.",
+   "post_lines": [
+    101,
+    103
+   ]
+  },
+  {
+   "id": "A8",
+   "step": "Objective collapse reifies the cut and strong many worlds erases it; the schools are placements of it; it moves by choice and is irreducible because the first person is prior; the same holds for ascribing consciousness to a model.",
+   "post_lines": [
+    105,
+    147
+   ]
+  },
+  {
+   "id": "A9",
+   "step": "Treating self-reference as a scored axis is a category error: it is the mind differentiating from itself, and a system describing a whole that includes itself cannot close internally.",
+   "post_lines": [
+    191,
+    193
+   ]
+  },
+  {
+   "id": "A10",
+   "step": "The mapmaker must assume a place outside every branch and cut: a second-order view from nowhere.",
+   "post_lines": [
+    195,
+    197
+   ]
+  },
+  {
+   "id": "A11",
+   "step": "Language models produce such maps easily because their space smooths contradictory hypotheses into neighbours and no measurement ever cost them anything.",
+   "post_lines": [
+    199,
+    201
+   ]
+  },
+  {
+   "id": "A12",
+   "step": "Every model is an instrument for contact; the invariance of Born weights shows definiteness is asserted at the boundary; recognising the cut locates the reach of each model.",
+   "post_lines": [
+    203,
+    239
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "id": "b01",
+   "steps": [
+    "A1"
+   ],
+   "narration": "Quantum mechanics predicts what an instrument will read with extraordinary precision, and what that arithmetic describes has been argued for a hundred years. Each interpretation is a working scaffold inside its own range. A map drawn over all of them, to reconcile them from above, repeats the difficulty it set out to end. Every measurement is taken by someone, at some point along a chain. That point is the cut. The cut moves, and it never vanishes; where a theory tries to erase it or fix it in place is where the theory stops being universal.",
+   "on_screen": [
+    {
+     "text": "extraordinary precision",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "a hundred years",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "a working scaffold",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "the cut",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "The cut moves, and it never vanishes",
+     "role": "claim",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "A blank blueprint sheet with a faint grid.",
+    "driver": "A long rule is drawn across the sheet with five stations on it and a readout window under it; a glass cursor with a hairline comes onto the rule and slides.",
+    "end": "The rule, the cursor at rest, the readout unchanged."
+   }
+  },
+  {
+   "id": "b02",
+   "steps": [
+    "A2"
+   ],
+   "narration": "Faced with the standoff, a familiar move is to imagine a higher space and lay the interpretations out in it as regions. The axes are things like process, implicate order, wholeness and self-reference. The older pictures land in a mechanical, local corner, and the newer ones are placed toward process and the whole. With every tension turned into a direction, the schools look settled, each with an address on one tidy sheet.",
+   "on_screen": [
+    {
+     "text": "regions",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "process",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "implicate order",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "wholeness",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "self-reference",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "an address",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The rule sinks to the bottom of the sheet.",
+    "driver": "A second, smaller sheet is laid above it: four axes are ruled on it and outlined regions are placed, some in one corner, some toward the far end.",
+    "end": "A tidy chart of regions over the rule."
+   }
+  },
+  {
+   "id": "b03",
+   "steps": [
+    "A3"
+   ],
+   "narration": "Each of these is a tool that works where it was made to work. Copenhagen keeps a laboratory disciplined: the quantum state on one side, the classical pointer on the other. Many worlds keeps the evolution whole, which suits quantum information and computing. Bohm's mechanics gives the particle a trajectory again. The Bayesian and relational readings show that a state is held by someone, in a situation. The computational pictures open a new geometry to explore. Inside its own boundary, each one does real work.",
+   "on_screen": [
+    {
+     "text": "Copenhagen",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "Many worlds",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "Bohm",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "held by someone",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "a new geometry",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "its own boundary",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The chart of regions.",
+    "driver": "The five regions are picked out one at a time, each under its own name.",
+    "end": "Five regions, each inside a dashed boundary of its own."
+   }
+  },
+  {
+   "id": "b04",
+   "steps": [
+    "A4"
+   ],
+   "narration": "Sorting ideas is not the same as extending what is known. The standard theory describes identical electrons by a state that changes sign when two are exchanged, and Pauli's exclusion follows from that. Restate it as a constraint on unfolding, or as an undivided pattern, and the equation predicts exactly what it did. A careful map says so itself, and marks the sign as an open problem. Call the correlations in Bell's experiments one process folded into itself, and the statistics stay the same. A map shows which concepts are neighbours. Taking the sorting for an answer steps past what the map can do.",
+   "on_screen": [
+    {
+     "text": "exclusion",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "a constraint on unfolding",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "an undivided pattern",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "one process folded into itself",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "stay the same",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "neighbours",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The rule and its readout.",
+    "driver": "A name plate over the readout is swapped three times for a longer name; the bars in the readout do not move.",
+    "end": "A new name over the same bars."
+   }
+  },
+  {
+   "id": "b05",
+   "steps": [
+    "A5"
+   ],
+   "narration": "Under the dispute is a line that von Neumann and Heisenberg drew. A system evolving as a sum of possibilities has to meet, somewhere, an instrument that gives one definite record. That meeting place is the measurement cut. Von Neumann showed it can be moved: between the particle and the screen, between the screen and the retina, between the optic nerve and the cortex. However far back along the chain it is pushed, the calculated probabilities do not change at all.",
+   "on_screen": [
+    {
+     "text": "a sum of possibilities",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "one definite record",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "the measurement cut",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "the screen",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "the retina",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "the cortex",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "do not change",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The rule alone, full size.",
+    "driver": "Left of the hairline the track is a bundle of waves; right of it, one dot on a straight line. The cursor is slid to three stops along the chain, and the bars in the readout stay as they are.",
+    "end": "The cursor far along the chain, the same bars."
+   }
+  },
+  {
+   "id": "b06",
+   "steps": [
+    "A6"
+   ],
+   "narration": "The cut slides freely, and it cannot be taken out. The habit is to search the world of objects for the place where collapse happens. But along the chain, the particle, the detector, the light in the eye and the current in the nerve can all be written as one evolving sum. Nothing in that description is marked: here. To say the cut is at the screen means the experimenter has decided to stop tracking possibilities there and to take what happened as a readable fact. Bohr made the same point: there is no quantum object apart from the arrangement set up to meet it, and the arrangement is a question someone chose to ask.",
+   "on_screen": [
+    {
+     "text": "slides freely",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "cannot be taken out",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "here",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "decided to stop tracking",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "a readable fact",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "a question someone chose to ask",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The cursor on the rule.",
+    "driver": "The cursor is lifted off and the whole track turns to waves with no dot anywhere; a search mark runs along the stations and finds no mark on any of them; the cursor is set back by its green tab.",
+    "end": "The cursor at the screen, held by its tab."
+   }
+  },
+  {
+   "id": "b07",
+   "steps": [
+    "A7"
+   ],
+   "narration": "This is not a fiction of the mind. It is how the one who asks is anchored. The cut is a seam with two sides. Where to cut and how is chosen: position or momentum, detectors behind the slits or none, read the screen now or carry the instrument further into the sum. What comes back at the cut is not chosen: the readings follow the Born rule, whatever is wished. And each reading, the moment it registers, is already an effect, and at once a cause of what follows. Whatever is read has already happened, so the cause is always at least one step ahead of the record. Seen in time, the cut is that gap.",
+   "on_screen": [
+    {
+     "text": "a seam with two sides",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "is chosen",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "is not chosen",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "the Born rule",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "already an effect",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "a cause of what follows",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "one step ahead",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The hairline, enlarged.",
+    "driver": "The hairline is drawn large as a seam: on its left a green tab is moved between settings; on its right dots land one by one into bars that fill to fixed heights whatever the tab does. Then a row of dots, each landed one a step behind a green mark that runs ahead.",
+    "end": "A green mark one step ahead of the last dot."
+   }
+  },
+  {
+   "id": "b08",
+   "steps": [
+    "A8"
+   ],
+   "narration": "Seen this way, two old efforts come into view. Objective collapse theories look in nature for a constant or a threshold that would make the cut a thing. The strongest form of many worlds removes it, and then cannot say why one reading, and only one, is met. Both treat the edge of a first-person act as a prop on a third-person stage. The schools differ in where they place the cut: at the apparatus, in the branch, in a hidden trajectory, in an updated belief, in a bounded sample. It moves because the asker chooses where along the chain to meet resistance. It cannot be removed because the first person comes before any account: even an account that leaves the asker out is given by someone. The same holds outside physics. Shrink a language model weight by weight, down to noise: nothing in the numbers marks the size at which a mind would be gone, and whoever names one has drawn the line.",
+   "on_screen": [
+    {
+     "text": "make the cut a thing",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "removes it",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "one reading, and only one",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "a prop",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "at the apparatus",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "in the branch",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "in a hidden trajectory",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "in an updated belief",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "in a bounded sample",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "the first person comes before any account",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "nothing in the numbers marks",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The rule and cursor.",
+    "driver": "A red rivet is driven through the cursor to pin it; then the cursor is struck out in red and the track is all waves. Both are undone. Five ticks are set along the rule where five schools place the cursor. Last, a row of shrinking grids of numbers under the rule, with no mark between any two.",
+    "end": "The free cursor on the rule; under it the shrinking grids."
+   }
+  },
+  {
+   "id": "b09",
+   "steps": [
+    "A9"
+   ],
+   "narration": "On the map, self-reference is one more axis. A theory that writes the observer into its loop scores high; one that leaves the observer outside the experiment scores low. The best of such maps note that the loop never fully closes. But a score is given from outside, and self-reference is not an exhibit that can be set on a table and graded. It is the mind's unceasing differentiation from itself. The gaze that examines cannot be turned into one of the specimens it examines. Gödel, Tarski and Turing showed the formal side of this: a system that tries to describe a whole that includes itself cannot close from the inside.",
+   "on_screen": [
+    {
+     "text": "one more axis",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "scores high",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "scores low",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "not an exhibit",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "The gaze that examines",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "cannot close from the inside",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The chart of regions again.",
+    "driver": "One axis is drawn in purple with a scale of marks, and two regions are scored against it. Then a purple loop is drawn that tries to pass through its own start and is left open by a gap.",
+    "end": "An open loop beside the scored axis."
+   }
+  },
+  {
+   "id": "b10",
+   "steps": [
+    "A10"
+   ],
+   "narration": "From that comes a second, quieter view from nowhere. The mapmaker compares Copenhagen, many worlds and the hidden-variable schools from above, and at the summit observer and flow are one. A careful map admits that its summit is partly its own construction. One question is still open: where is the mapmaker standing? Every school is read off a single graph, and to spread them flat on that grid, the one drawing has to assume a place outside every branch, bound by no cut at all. The map faults classical physics for its God's eye, and takes a seat one level higher.",
+   "on_screen": [
+    {
+     "text": "view from nowhere",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "where is the mapmaker standing?",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "outside every branch",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "bound by no cut",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "one level higher",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The chart over the rule.",
+    "driver": "An empty ring, the mark for you are here, searches the chart and comes to rest nowhere on it; a dashed red outline of a further sheet is drawn above the chart, with the ring on that.",
+    "end": "The ring on a sheet that is not there, one level above the chart."
+   }
+  },
+  {
+   "id": "b11",
+   "steps": [
+    "A11"
+   ],
+   "narration": "This is also why language models turn out such maps so readily. A model folds what people have written into one smooth space, where hypotheses that contradict each other become neighbouring clusters, and self-reference and process are easy tags to attach. The model itself stands at no bench. No irreversible measurement has ever cost it anything. A view that claims no source has left out the embodied contact that every physical regularity was first read from.",
+   "on_screen": [
+    {
+     "text": "one smooth space",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "neighbouring clusters",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "easy tags",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "stands at no bench",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "cost it anything",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "claims no source",
+     "role": "label",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The chart.",
+    "driver": "The chart is redrawn as smooth contour lines; points of two colours settle into clusters side by side and small tags are hung on them. The rule below has no cursor on it and its readout is empty.",
+    "end": "A smooth chart over a rule that nobody is reading."
+   }
+  },
+  {
+   "id": "b12",
+   "steps": [
+    "A12"
+   ],
+   "narration": "Wanting a final theory comes from taking the scaffold for a closed whole. Every model, from wave mechanics to the process maps, is an instrument made for contact with what has not been modelled yet. It is not a shelter where the asking can be set down. However far the cut is pushed, the Born weights hold. If some link in the chain produced the one result, moving the cut past that link would change something, and nothing changes; so definiteness is asserted at the boundary, by whoever takes the reading as settled, and is not produced by the machinery before it. To say the cut moves and never vanishes takes nothing from physics. It marks how far each model reaches. With the seat at nowhere given up, the next step leaves the finished map for the open world. The cut moves, and it never vanishes.",
+   "on_screen": [
+    {
+     "text": "made for contact",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "not a shelter",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "the Born weights hold",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "asserted at the boundary",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "how far each model reaches",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "the open world",
+     "role": "label",
+     "post_line": null
+    },
+    {
+     "text": "The cut moves, and it never vanishes",
+     "role": "claim",
+     "post_line": null
+    }
+   ],
+   "visual": {
+    "start": "The chart folded small in a corner; the rule full size.",
+    "driver": "The cursor is back on the rule with its green tab and is slid end to end; the bars hold. A dimension line marks the length of the rule and stops at its end; past the end the grid of the sheet goes on, undrawn.",
+    "end": "The cursor at rest, the claim over the rule."
+   }
+  }
+ ],
+ "exaggerations": [],
+ "guard_rails": [
+  "Nothing is drawn but a draughtsman's sheet: a rule with stations, a glass cursor with a hairline, a readout of bars, a chart of outlined regions, drafting tools. No person, no face, no eye drawn as an eye, no portrait of any physicist.",
+  "The bars of the readout never change height when the cursor moves or a name is swapped.",
+  "Green is the tab that sets the cursor and what is chosen; red is the rivet, the strike-out and the sheet that is not there; amber is names, scales and the chart; pale blue-white is the drawing itself; purple is the loop of self-reference.",
+  "No school is drawn as mistaken: each is a tool inside a boundary, or a tick where it places the cursor."
+ ]
+}
