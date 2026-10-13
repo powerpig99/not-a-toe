@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T11:15:03.837Z",
+    "generated_at": "2026-10-13T11:25:17.335Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -261,7 +261,7 @@
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "010cf824bc55",
       "content/posts/the-illusion-of-free-intelligence.md": "9568470705b9",
-      "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "1db8f7adc1ec",
+      "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "de6493d46028",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "58de2266a588",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "2de4df8e84dd",
       "content/posts/the-illusion-of-the-unmediated.md": "8e56c117ba6d",
@@ -6712,17 +6712,17 @@
       "slug": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "path": "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md",
       "title": "以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation",
-      "hash": "1db8f7adc1ec",
+      "hash": "de6493d46028",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
-        "the-mind-as-vector-and-coordinate-system",
-        "coordinates-in-flux-negation-and-self-anchoring",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "individual-choices-as-the-only-causal-levers",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "po-chu-gai-nian-de-jian-yue",
+        "the-mind-as-vector-and-coordinate-system",
+        "coordinates-in-flux-negation-and-self-anchoring",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth"
       ]
     },
@@ -31395,30 +31395,6 @@
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
-      "to": "the-mind-as-vector-and-coordinate-system",
-      "rel": "points_to",
-      "label": "向量、坐标系与自指心智：几何视角下的投影、冲突与电磁同频"
-    },
-    {
-      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
-      "to": "coordinates-in-flux-negation-and-self-anchoring",
-      "rel": "points_to",
-      "label": "流动中的坐标：关于“否定”、降维与心智的自我锚定"
-    },
-    {
-      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
-      "to": "the-mind-as-vector-and-coordinate-system",
-      "rel": "points_to",
-      "label": "The Mind as Vector and Coordinate System"
-    },
-    {
-      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
-      "to": "coordinates-in-flux-negation-and-self-anchoring",
-      "rel": "points_to",
-      "label": "Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring"
-    },
-    {
-      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
       "label": "自由变量的同构与先验主权"
@@ -31427,13 +31403,13 @@
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体抉择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
-      "label": "涌现的伪因果与集体归因倒错"
+      "label": "涌现的伪因果"
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -31445,7 +31421,7 @@
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "Isomorphism of Free Variables and A Priori Sovereignty"
+      "label": "The Isomorphism of Free Variables and Prior Sovereignty"
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -31457,7 +31433,7 @@
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
-      "label": "The Pseudo-Causality of Emergence and the Fallacy of Collective Attribution"
+      "label": "The Pseudo-Causality of Emergence"
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -31475,7 +31451,31 @@
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "Dismantling the Usurpation of Concepts"
+      "label": "Breaking the Overreach of Concepts"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "向量、坐标系与自指心智"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "coordinates-in-flux-negation-and-self-anchoring",
+      "rel": "points_to",
+      "label": "流动中的坐标"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "coordinates-in-flux-negation-and-self-anchoring",
+      "rel": "points_to",
+      "label": "Coordinates in Flux"
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",

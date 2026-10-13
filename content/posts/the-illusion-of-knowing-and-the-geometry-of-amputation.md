@@ -2,319 +2,312 @@
 
 *从内在感知的澄明走向心智共鸣 / From Internal Epistemic Clarity to Living Resonance*
 
-从熟稔滋生的认知傲慢，到向内澄明的因果解脱：看清以标尺截肢他者的自戕机理，在第一人称觉察中恢复对活态心智的敬畏与共鸣。人际关系与社会生存中的摩擦与张力，常包裹在“了解”与“关心”的表象之下。在漫长而孤独的平行宇宙中，能够相遇并建立深厚联结的同行者极其罕见，然而在经验世界中，最亲密的伴侣容易演变为不相往来的对手，家庭容易被视作个人停滞的原因，子女与父母容易陷入难以释怀的相互要求，在网络空间中人们隔着屏幕与陌生人激烈交锋，乃至个人在面对集体、体制与生存环境时，也常陷入持久的对抗。这一系列冲突现象表征各异，其底层机制却高度一致：**所有外部冲突——无论是人际之间、个体与集体之间，还是个体与环境之间——皆是心智将自身生成的内向投影，误认作外部世界独立实体的结果**。正如在 [向量、坐标系与自指心智：几何视角下的投影、冲突与电磁同频](../the-mind-as-vector-and-coordinate-system/) 与 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 中所阐释的，心智所接收的外界信号，始终是通过自身认知框架折射出的内向读数。当我们以为自己“看透”了他者或外部环境时，便将高度压缩的低维印象当作了客观实在，甚至铸成一把刚性的标尺去裁量身边最亲近之人，或将内生读数具象化为一个外部庞然大物。这种外化归因在日常经验中极难避免，然而正是这种将内部投影客体化的混淆，构成了人际与社会摩擦的根源。唯有转向第一人称的内在觉察，看清自身透镜的折射机制，心智才能放下向外挥舞的标尺，在对未知维度的敬畏中重建桥梁，实现电磁波般的正交共振与深层共鸣。
+人际与社会生存里的摩擦，常裹在“了解”与“关心”的外表之下：亲密的伴侣成了对手，家庭被看作停滞的原因，子女与父母相互要求，个人与集体、体制和环境长久对抗。这些冲突表征各异，机制却一致，是心智把自身生成的内向投影当成了外部世界的独立实体。以为“看透”了谁的时候，一张高度压缩的低维印象被当作了对方本身，并铸成一把标尺去裁量最亲近的人。转向第一人称的觉察，看清自身透镜的折射，标尺便可以放下，共鸣在对未知维度的敬畏中重新成为可能。
 
-From the arrogance of familiarity to the liberation of inward clarity: tracing how amputating others is self-amputation, while restoring reverence and resonance through self-perceptual awareness. Friction and tension in human relationships and social existence often conceal themselves beneath the guise of "intimacy" and "care." In a vast and lonely universe, companions capable of crossing paths and forming profound bonds are exceedingly rare. Yet in lived experience, lovers readily drift into lifelong adversaries, families are framed as the cause of personal stagnation, children and parents become locked in unforgiving mutual demands, digital strangers clash fiercely across screens, and individuals find themselves in enduring antagonism against collectives, institutions, and environments. Although these conflict scenarios manifest across different scales, their underlying mechanics are identical: **all external conflicts—whether interpersonal, between an individual and a collective, or between an individual and the broader environment—arise when the mind mistakes its own internally generated projection for an independent entity in the external world**. As established in [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) and [Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/), incoming signals from reality are invariably parsed as inward projections measured along one's own internal axes. When the mind believes it "knows" another or fully comprehends an external environment, it treats a highly compressed low-dimensional thumbnail as objective reality—turning it into a rigid ruler to judge those closest to it, or reifying an internal reading into an external leviathan. While externalized attribution is difficult to avoid in everyday life, this conflation of internal projections with external objects forms the root of conflict. Only by turning inward to perceive how our own lens generates perception can the mind lay down its measuring rulers, restoring reverence for the sovereign depths of surrounding minds and discovering true resonance in boundless orthogonal balance.
+The friction of living with others and within society is often wrapped in the look of "knowing" and "caring": intimate partners become adversaries, the family is seen as the cause of being stuck, children and parents make demands of each other, and a person stands in long opposition to collectives, institutions and surroundings. These conflicts differ in appearance and share one mechanism, in which a Mind takes the inward projection it has itself generated for an independent entity in the outside world. When someone is believed to have been "seen through," a highly compressed low-dimensional impression is taken for the other person and cast into a ruler for measuring those who are closest. With a turn toward first-person awareness and a clear view of the refraction of one's own lens, the ruler can be set down, and resonance becomes possible again within reverence for dimensions not known.
 
----
+## 一、 冲突的生成：投影的外化归因 / 1. How Conflict Arises: Attributing a Projection Outward
 
-## 一、 冲突的生成：心智投影的外化归因 / 1. The Genesis of Conflict: Externalized Attribution of Mind's Projection
+外部的信号进入心智的视界时，并不是一个未经度量的裸物，它即刻被心智自身的意图坐标系解析，呈现为沿自身轴向的一个读数。读数出现偏转或负的分量时，感知里便有了张力。冲突生成于随后的一步：这个内生的读数被归到外部的对象上。
 
-外部冲突的生成，源于心智在处理感知信号时的**外化归因**。
+When a signal from outside enters a Mind's horizon it is not a bare thing unmeasured; it is at once parsed by the Mind's own coordinate system of intent and appears as a reading along its own axes. When the reading shows a deflection or a negative component, there is tension in perception. Conflict arises in the step that follows: this internally generated reading is assigned to an object outside.
 
-当外部信号进入心智的视界时，它并不是作为一个未经度量的裸实体存在，而是即刻被心智自身的意图坐标系所解析，呈现为沿自身轴向的测量读数。当这一读数出现偏转或负向分量时，系统内部便产生了感知上的张力。
-
-```mermaid
-graph TD
-    subgraph S_Projection["【心智投影与外化归因机制】"]
-        direction TB
-        C1["接收外部信号<br>（伴侣言行 / 他人观点 / 集体与环境信号）"]
-        C2["沿自身坐标系生成内向投影<br>（产生度量读数与角度偏转）"]
-        C3["外化归因：将内生读数误作外部实体属性<br>（将自身透镜的折射视作外在对象的特征）"]
-        C1 --> C2 --> C3
-    end
-
-    subgraph S_Phenomena["【外化归因的典型表征（非穷尽切片）】"]
-        direction TB
-        R1["人际投射：将自身尺度的偏转归因为对方的蓄意对抗"]
-        R2["家庭投射：将自身当下的停滞归因为历史起点的束缚"]
-        R3["代际投射：将各自尺度的不契合归因为对方的道德欠缺"]
-        R4["集体投射：将自身内生无力感具象化为外部体制怪兽"]
-        R5["环境投射：将自身适应张力具象化为外部命运的不公"]
-        R1 --> R2 --> R3 --> R4 --> R5
-    end
-
-    C3 ==>|"将内部读数客体化"| R1
-
-    style S_Projection fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style S_Phenomena fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style C1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style C2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style C3 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style R1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style R2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style R3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style R4 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style R5 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-```
-
-在日常经验中，人们习惯于在个人主权抉择之外，寻找某种确凿的、决定论式的外部实体作为归因的锚点（性格、家庭、体制、环境、历史规律等）。面对内部生成的读数偏转，心智的即时反应是将原因直接安放在外部对象上：
-
-1. **亲密关系中的对立**：当伴侣表现出独立的取向时，该信号在自身轴向上产生了偏转读数，心智容易将这一几何差异直接定义为对方的敌意；
-2. **家庭归因中的停滞**：心智将自身在当下（t）面临的抉择张力，回溯投射到过去的起点，将家庭历史当作造成当前状态的外部实体原因；
-3. **代际之间的相互要求**：子女将自身对理想坐标的期待落空归因为父母的过错，父母亦将自身尺度未被满足归因为子女的偏离；
-4. **数字网络中的符号交锋**：面对屏幕上高度简化的文本碎片，心智用自身内部的参考框架迅速补全出一个恶性形象，并在与其博弈中耗费精力；
-5. **个体与集体的对抗**：面对抽象的集体、体制或群体标签，心智将自身的失落与张力投射为一个庞大的客体怪物，并误以为自己在反抗一个具象的实体；
-6. **个体与环境及命运的摩擦**：当情境超出预期时，心智将自身的适应摩擦直接归因为外部环境或命运的敌对。
-
-然而在实在的因果结构中：**除了每个独立心智在当下（t）的主权抉择之外，系统中不存在任何其他能够注入自由变量的源泉**。我们在宏观世界中所观察到的所谓“确定性”或“决定论规律”，实质上都是微观层面上非确定性与活态抉择的**统计学表征**。正如在 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)、[个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 与 [涌现的伪因果与集体归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 中所指明的，当问题落脚到个体身上时，唯一的因果发生器始终是每一个心智在当下的主权抉择。将因果归咎于外部的确定性客体，不过是用统计学的宏观副产物掩盖了真正的主权现实。从外部“知道”他人，便把他人的抉择客体化了，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这一点。
-
-The genesis of external conflict stems from the mind's **externalized attribution** when processing perceptual signals.
-
-When an external signal enters awareness, it does not exist as an unmeasured, naked object; rather, it is immediately parsed by the mind's own intentional coordinate frame, registering as a measurement readout along its internal axes. When this readout exhibits angular divergence or a negative projection, tension arises within the perceptual system.
-
-In daily living, the natural cognitive instinct is to anchor causality to something definitive and deterministic other than personal sovereign choice—such as personality, family, institutions, culture, or historical laws. Confronted with a divergent internal readout, the mind instinctively assigns the cause directly to an external object:
-
-1. **Opposition in Romance**: When a partner displays an independent orientation, the signal produces an angular deviation on one's intentional axis, which the mind readily reifies as deliberate hostility;
-2. **Stagnation in Family Grievance**: Consciousness projects its present causal tension at moment t retroactively onto historical origins, framing family background as an external deterministic cause;
-3. **Intergenerational Demands**: Adult children attribute the disillusionment of childhood ideals to parental fault, while parents attribute unmet expectations to a child's divergence;
-4. **Cyberspace Symbolic Warfare**: Confronted with flat textual fragments, the mind uses its own internal frame to construct an antagonistic caricature, expending energy in fighting a phantom;
-5. **Conflict with Collectives**: When facing abstract institutions, systems, or group labels, the mind projects its internal tension onto a reified monolith, believing it is battling an external giant;
-6. **Friction with Environment and Fate**: When situations diverge from expectations, consciousness attributes adaptive friction directly to a hostile environment or cruel fate.
-
-Yet in the fundamental causal structure of reality: **beyond each individual mind's sovereign choice at moment t, there exists no other source capable of injecting a free variable into the system**. Whatever we perceive as definitive or deterministic in the macrocosm is merely the statistical symptom of microscopic indeterminism and sovereign choices. As articulated in [Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/), [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/), and [The Pseudo-Causality of Emergence and the Fallacy of Collective Attribution](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/), when it comes to individuals, the irreducible causal engine is each and every mind's sovereign choice. Attributing conflict to external deterministic structures merely substitutes statistical shadows for living causal reality. Knowing another from outside objectifies their choice, as [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows.
-
----
-
-## 二、 熟稔的陷阱：以“了解”之名的低维截肢 / 2. The Trap of Familiarity: Low-Dimensional Amputation
-
-在所有人际关系中，最隐蔽的摩擦常见于彼此最熟悉的人之间。
-
-这种现象源于一个普遍存在的**认知级差错觉**：
-- 面对陌生人，我们自知信息匮乏，因而保持基本的审慎；
-- 面对朝夕相伴的亲人、伴侣与挚友，我们积累了长期的日常观察，确实比外人更了解他们的生活习惯与表层反应；
-- 然而，正是这份相对于外人的微弱优势，让心智误以为自己对他们的了解，已经超越了他们对自身的第一人称体认。
+日常里的习惯，是在抉择之外找一个确凿的、决定论式的外部实体作归因的锚点，性格、家庭、体制、环境、历史的规律都可以充当。伴侣表现出独立的取向，在自身轴向上产生的偏转被定为对方的敌意。当下面临的抉择张力被回溯地投到过去，家庭的历史成了造成现状的原因。子女把期待的落空归为父母的过错，父母把尺度未被满足归为子女的偏离。屏幕上高度简化的文本碎片，被自己的参考框架补全成一个恶意的形象。面对抽象的集体、体制或群体标签，失落与张力被投射成一个庞大的客体。情境超出预期时，适应中的摩擦被归为环境或命运的敌对。
 
 ```mermaid
-graph TD
-    subgraph S_Epistemic_Gap["【认识论的不可跨越性】"]
+flowchart TD
+    subgraph S_Outward["投影与外化归因"]
         direction TB
-        E1["第三人称的外部观察<br>（有限的历史轨迹与语言片段）"]
-        E2["高度压缩的低维标签<br>（'你就是这样的人'）"]
-        E3["第一人称的活态宇宙<br>（未言说的隐秘体验与当下抉择 t）"]
-        E1 --> E2
-        E2 -.->|"信息量存在量级鸿沟"| E3
+        Signal["接收外部的信号：言行、观点、集体与环境"]
+        Reading["沿自身的坐标系生成内向的读数"]
+        Assign["把内生的读数归为外部对象的属性"]
+        Person["人际：偏转被读作对方的敌意"]
+        Origin["家庭与代际：当下的张力被归为过去与对方"]
+        Giant["集体与环境：张力被具象为外部的庞然大物"]
+        Signal --> Reading
+        Reading --> Assign
+        Assign --> Person
+        Assign --> Origin
+        Assign --> Giant
     end
 
-    subgraph S_Amputation["【以尺为刃的截肢机制】"]
-        direction TB
-        A1["将低维标签铸造成固定标尺"]
-        A2["当对方展露高维生命力时出现偏转"]
-        A3["动用否定、定性与要求进行裁决<br>（强行塞回旧有的认知模型）"]
-        A1 --> A2 --> A3
-    end
-
-    E2 ===>|"将低维草图当作完整领土"| A1
-
-    style S_Epistemic_Gap fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style S_Amputation fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style E1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style E2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style E3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style A1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style A2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style A3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style S_Outward fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Signal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Reading fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Assign fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Person fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Origin fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Giant fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-在认识论结构中，第三人称的外部观察与第一人称的活态体验之间，存在着不可跨越的维度鸿沟：
-- 无论相处多久，外部观察所能接收到的，始终只是对方言行在感官界面上留下的投影碎片；
-- 外部视角无法替代当事人去经历他在内在深处的感知流变、未曾言说的细微体验，以及在当下时刻（t）的求变意愿；
-- 心智中所存留的关于他人的模型，只是一张经过极度压缩的低维缩略图。
-
-当心智把这张自制的低维缩略图当作衡量对方活态生命的刚性标尺时，裁剪便发生了。
-
-当伴侣或子女展现出超出既有模型的变化时，这本是生命维度自然展开的表现；然而在持有固定标尺的心智看来，这一偏转打破了原有的测量预期。为了维持认知模型的确定性，心智便动用语言定性去进行认知层面的裁剪：“你就是这样的人”、“你改不了的”。这种做法试图削去对方所有溢出认知边界的维度，把活态的主体强行塞回固定的模版中。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，用静态概念去限定活态现实，是认知中常见的僭越。
-
-Among all interpersonal relationships, the most subtle friction occurs between those who consider themselves closest.
-
-This stems from an **illusion of cognitive asymmetry**:
-- With strangers, we recognize our lack of information and maintain caution;
-- With intimate partners, family, and close companions, long-term observation allows us to know more about their habits than an outsider does;
-- Yet this relative advantage over outsiders leads the mind to believe that its understanding of them surpasses their own first-person experience.
-
-In epistemological structure, an insurmountable dimensional divide separates third-person observation from first-person lived reality:
-- No matter how long a relationship lasts, third-person observation only captures sensory projections left by outward behavior;
-- External observation can never experience the inner perceptual flow, unspoken sensitivities, or the emergent agency stirring at moment t;
-- The mental model one holds of another is merely an extreme, lossy compression.
-
-When the mind treats this compressed thumbnail as a rigid ruler to measure a living consciousness, amputation occurs.
-
-When a partner or child reveals dimensions beyond the existing model, their dimensionality naturally expands; yet to a mind holding a static ruler, this divergence violates expected measurements. To maintain model certainty, the mind deploys labels to prune their expression: "You are always like this," "You will never change." This attempts to shear away any dimension exceeding the cognitive box, forcing a living agent back into a fixed template. As articulated in [Dismantling the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/), using static concepts to confine living reality is a recurrent epistemic overreach.
-
----
-
-## 三、 双向收缩与反馈回路：裁剪他者即是自我限制 / 3. Mutual Amputation: Why Cutting Others Restricts the Self
-
-对他人维度的裁剪具有几何上的对称性：**每一次用固化标尺去定义他人，实质上都在同步收缩自身的认知视界。**
-
-为了维持对他人“仅此而已”的低维定论，观察者必须忽略对方展现出的新特征与复杂性，将丰富的输入信号过滤为符合预设偏见的单一读数。为了将他人固定在既有的框架中，自身的心智也必须守在这一狭窄的尺度上，失去了在更多维度上与现实互动的自由。
+The everyday habit is to find, apart from choice, some definite and deterministic outside entity as the anchor of attribution; character, family, institutions, surroundings and the laws of history can all serve. A partner shows an independent orientation, and the deflection it produces on one's own axis is ruled to be the other's hostility. The tension of a choice faced in the present is cast back onto the past, and the family's history becomes the cause of the present state. Children assign their disappointed expectations to their parents' fault, and parents assign their unmet measure to their children's deviation. Highly simplified fragments of text on a screen are filled out by one's own frame of reference into a malicious figure. Before an abstract collective, institution or group label, loss and tension are projected into one vast object. When a situation goes beyond expectation, the friction of adapting is assigned to the hostility of surroundings or fate.
 
 ```mermaid
-graph TD
-    subgraph S_Vicious_Cycle["【相互作用的闭环网络】"]
+flowchart TD
+    subgraph S_Outward["Projection and Outward Attribution"]
         direction TB
-        V1["主体 A 使用固化标尺定义主体 B<br>（输出低维定性与评价）"]
-        V2["主体 B 接收到被限制的信号<br>（产生防卫与言行偏转）"]
-        V3["主体 A 将偏转视作验证原标尺的证据<br>（强化原有的认知模型）"]
-        V4["主体 B 亦使用自身标尺反向定义 A<br>（双方进入互相缩减的回路）"]
-        V1 --> V2 --> V3 --> V1
-        V2 --> V4 --> V1
+        Signal["A signal from outside is received: words and acts, views, collectives and surroundings"]
+        Reading["An inward reading is generated along one's own coordinate system"]
+        Assign["The internally generated reading is assigned as a property of an outside object"]
+        Person["Between people: a deflection read as the other's hostility"]
+        Origin["Family and generations: present tension assigned to the past and to the other"]
+        Giant["Collectives and surroundings: tension given the shape of an outside giant"]
+        Signal --> Reading
+        Reading --> Assign
+        Assign --> Person
+        Assign --> Origin
+        Assign --> Giant
     end
 
-    style S_Vicious_Cycle fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style V1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style V2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style V3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style V4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style S_Outward fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Signal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Reading fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Assign fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Person fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Origin fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Giant fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-这一过程会形成两种自强化的回路：
+沿因果去追，除了每个心智在当下的抉择，找不到别的能注入自由变量的来处。宏观上被称为“确定性”或“决定论规律”的，是微观上的非确定与抉择的统计表征。[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)、[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[涌现的伪因果](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/)说明，落到个体身上时，因果的发生处是每一个心智在当下的抉择，把因果归到外部的确定性客体上，是用统计的宏观副产物盖住了这一点。从外部“知道”他人，便把他人的抉择客体化了，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这一点。
 
-1. **自强化回路（Self-Reinforcing Feedback）**：
-   当我们用刻板标尺对待他人时，对方因感到被限制而产生的防御性反应，常被我们顺理成章地当作验证原标尺准确性的“证据”。认知系统在此闭环中自我确认，对外部复杂性的感知逐步萎缩；
-2. **相互强化回路（Mutually Reinforcing Escalation）**：
-   被定义的一方也会建立起反向的度量标尺，将对方归纳为一个固定的阻碍者。两个本可在广阔空间中相互促进的自指主体，在互相限制的标尺互动中彼此消耗。
+Followed along causality, apart from each Mind's choice in the present no other source able to inject a free variable is found. What is called "determinacy" or "deterministic law" at the macroscopic scale is the statistical appearance of indeterminacy and choice at the microscopic. [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/), [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [The Pseudo-Causality of Emergence](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) show that, where an individual is concerned, the place where causality occurs is each Mind's choice in the present, and assigning causality to a determinate outside object covers this over with a macroscopic by-product of statistics. Knowing another from outside objectifies their choice, as [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows.
 
-在这类回路中，语言和沟通工具被误用作维持认知固化的盾牌，使互动双方停滞在各自构造的低维镜像中。
+## 二、 熟稔的陷阱：以“了解”之名的低维截肢 / 2. The Trap of Familiarity: Low-Dimensional Amputation in the Name of "Knowing"
 
-Pruning the dimensionality of another possesses geometric symmetry: **every attempt to define another with a rigid ruler simultaneously constrains one's own perceptual horizon.**
+最不易察觉的摩擦，常见于彼此最熟悉的人之间。面对陌生人，自知信息匮乏，会保持基本的审慎。面对朝夕相伴的亲人、伴侣与挚友，有长期的日常观察，对生活的习惯与表层的反应确实比外人知道得多。正是这份相对于外人的优势，让心智以为自己对他们的了解，已经超过了他们对自身的第一人称体认。
 
-To maintain the conclusion that another is "nothing more than a single trait," the observer must overlook new signals, filtering rich inputs into a single preset readout. To keep another confined within an established box, consciousness must remain anchored to that exact scale, surrendering its own freedom to engage reality across richer dimensions.
+The friction hardest to notice is commonly found between people who know each other best. With a stranger, one knows information is lacking and keeps a basic caution. With family, partners and close friends who are there day after day, there is long everyday observation, and one does know more than outsiders about their habits of life and surface reactions. It is this advantage relative to outsiders that leads a Mind to suppose its knowledge of them has gone beyond their own first-person acquaintance with themselves.
 
-This generates two self-reinforcing loops:
-
-1. **Self-Reinforcing Feedback**:
-   When we treat another through a rigid ruler, their defensive reaction is readily seized upon as "evidence" confirming the initial judgment. The cognitive system confirms itself within this loop, progressively narrowing its awareness;
-2. **Mutually Reinforcing Escalation**:
-   The labeled party constructs a counter-ruler, categorizing the observer as a fixed obstacle. Two sovereign minds that could have enriched each other become caught in mutually constraining evaluations.
-
-Within these loops, communication tools are misused to preserve rigid models, stranding participants within their own low-dimensional reflections.
-
----
-
-## 四、 认识论脚手架：数学与几何仅是描述工具而非本体基底 / 4. Epistemological Scaffolding: Mathematics and Geometry as Descriptive Instruments, Not Ontological Facts
-
-在剖析心智运作与感知投影时，我们引入了坐标系、向量点积、投影偏转与正交空间等几何框架。
-
-**需要明确界定的是：所有这些数学与几何模型，仅仅是帮助我们描述心智运作机制的认识论脚手架与语言工具，绝非本体论意义上的终极基底事实。**
+第三人称的外部观察与第一人称的活态体验之间，隔着跨不过去的维度。相处再久，外部观察接收到的仍是对方言行在感官界面上留下的投影碎片，替代不了当事人内在的感知流变、没有说出的细微体验与当下求变的意愿。心智里存着的关于他人的模型，是一张压缩得很厉害的低维缩略图。这张缩略图对日常的预判是好用的，把它当作衡量对方活态生命的刚性标尺时，裁剪便发生了。
 
 ```mermaid
-graph TD
-    subgraph S_Epistemic_Distinction["【脚手架与活态事实的分界】"]
+flowchart TD
+    subgraph S_Cut["从缩略图到标尺"]
         direction TB
-        M1["数学与几何隐喻<br>（坐标系 / 向量点积 / 投影偏转 / 正交分解）"]
-        M2["认识论脚手架：提供清晰的描述机制<br>（避免陷入第三人称评判或道德指责）"]
-        M3["本体论基底事实：第一人称活态心智<br>（当下时刻 t 的主权抉择与直接感知）"]
-        M1 --> M2
-        M2 -.->|"指涉与澄清，但不能替代"| M3
+        Watch["第三人称的观察：有限的轨迹与语言片段"]
+        Thumb["高度压缩的低维缩略图：对日常预判好用"]
+        Living["第一人称的活态体验：未言说的体验与当下的抉择"]
+        Ruler["把缩略图铸成固定的标尺"]
+        Deflect["对方展开新的维度，读数出现偏转"]
+        Trim["以否定与定性裁剪，把对方塞回旧的模型"]
+        Watch --> Thumb
+        Thumb --> Living
+        Thumb --> Ruler
+        Ruler --> Deflect
+        Deflect --> Trim
     end
 
-    style S_Epistemic_Distinction fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style M1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style M2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style M3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style S_Cut fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Watch fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Thumb fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Living fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Ruler fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Deflect fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Trim fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-如果在破除了对外部客体的固执之后，又将数学结构或几何图景实体化为某种超越于主体之上的“客观真理”或新的“无处之境”（a view from nowhere），便不过是重复了概念僭越的老路。几何模型之所以有用，是因为它能够以非道德化、结构化的方式，呈现感知投影与视角差异的生成过程；但它本身并不是实在的因果实体。
-
-在实在的因果链条中，唯一的终极基底始终是**每个活态心智在第一人称当下（t）的直接体认与主权抉择**。数学提供了描述机制的透镜，而活态心智才是握持透镜与作出抉择的主体。预先知道事情该走多快，是同样的截肢，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)说明了这一点。
-
-When analyzing cognitive operations and perceptual projections, we deploy geometric frameworks such as coordinate systems, dot products, angular deflections, and orthogonal spaces.
-
-**It is essential to clarify: all such mathematical and geometric formalisms are merely epistemological scaffolding and linguistic tools used to describe how perception operates—they are not foundational ontological facts or metaphysical primitives.**
-
-If, after dissolving our fixations on external objects, we were to reify mathematical structures or geometric depictions into an external "objective truth" or a new "view from nowhere," we would simply repeat the error of conceptual usurpation. Geometric modeling is valuable because it articulates the generation of perceptual projections and perspectival divergence in a non-moralizing, structural manner; yet it is not itself a living causal entity.
-
-Within the fundamental causal structure, the sole foundational reality remains **the first-person lived awareness and sovereign choice of each living mind at moment t**. Mathematics provides a lens to describe the mechanics, while the living mind remains the sovereign agent holding the lens and enacting the choice. Knowing in advance how fast things should move is the same amputation, as [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) shows.
-
----
-
-## 五、 认识论转向与互为梯度：零延迟的主权自指迭代 / 5. The Epistemic Turning and Mutual Gradient Descent: Zero-Lag Sovereign Self-Optimization
-
-走出与自身投影博弈的循环，并不依赖于向外研究或重构他人的行为模式。
-
-**解脱的路径在于认识论视角的转向：不再将注意力集中于修剪外部对象，而是向内觉察自身感知与度量系统的生成机制。**
-
-> **“对自我感知机制的理解，会自然外化为对周围心智的理解与敬畏。”**
+Between third-person observation from outside and first-person living experience lies a dimension that cannot be crossed. However long the time together, what outside observation receives is still fragments of projection the other's words and acts leave on the sensory interface, and it cannot stand in for the person's inner flux of perception, the fine experiences left unspoken, and the will to change in the present. The model of another that a Mind keeps is a heavily compressed low-dimensional thumbnail. The thumbnail serves well for everyday anticipation, and when it is taken as a rigid ruler for measuring the other's living life, the trimming occurs.
 
 ```mermaid
-graph TD
-    subgraph S_External_Effort["【旧有路径：向外施力与改造客体】"]
+flowchart TD
+    subgraph S_Cut["From Thumbnail to Ruler"]
         direction TB
-        P1["聚焦外部言行与他人表现"]
-        P2["试图纠正、说服与修剪对方"]
-        P3["加剧防备与对抗，标尺激烈碰撞"]
-        P1 --> P2 --> P3
+        Watch["Third-person observation: a limited track and fragments of speech"]
+        Thumb["A highly compressed low-dimensional thumbnail: good for everyday anticipation"]
+        Living["First-person living experience: unspoken experience and the present choice"]
+        Ruler["The thumbnail is cast into a fixed ruler"]
+        Deflect["The other unfolds a new dimension and the reading deflects"]
+        Trim["Trimming by negation and verdict, pressing the other back into the old model"]
+        Watch --> Thumb
+        Thumb --> Living
+        Thumb --> Ruler
+        Ruler --> Deflect
+        Deflect --> Trim
     end
 
-    subgraph S_Internal_Clarity["【因果澄明：心智与身外感知的自持共鸣】"]
-        direction TB
-        Q1["觉察自身感知的生成路径<br>（识别读数来自自身参考系的折射）"]
-        Q2["看清自身标尺的局限与投影本质<br>（放下把局部模型当客观实在的执念）"]
-        Q3["互为梯度的即时优化<br>（将感知张力视作损失函数，零延迟自省）"]
-        Q4["在 90 度正交维度展开自持共鸣<br>（如光波中 E 与 B 般无先决条件的相互生成）"]
-        Q1 --> Q2 --> Q3 --> Q4
-    end
-
-    P1 -.->|"认识论反转"| Q1
-    P2 -.->|"放下标尺裁决"| Q2
-    P3 -.->|"消解冲突战场"| Q4
-
-    style S_External_Effort fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style S_Internal_Clarity fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style P1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style P2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style P3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style Q1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style Q2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style Q3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style Q4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style S_Cut fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Watch fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Thumb fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Living fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Ruler fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Deflect fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Trim fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-这一转向带来了视界的自然展开：
+伴侣或子女展现出超出既有模型的变化，是生命的维度自然展开。在持着固定标尺的心智看来，这一偏转打破了测量的预期。为了维持模型的确定，语言上的定性被用来裁剪：“你就是这样的人”“你改不了的”。这是要削去对方溢出认知边界的维度，把活的主体塞回固定的模版。[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)说明，用静态的概念去限定活的现实，是认知里常见的越界。
 
-### 1. 识别透镜的存在，便能理解所有主体皆在透过透镜感知
-当心智觉察到自身的每一次抵触与摩擦，都是自身坐标轴在特定信号下的内向读数时，便能自然理解：周围的每一个主体，同样在依照各自的参考系解析世界。外部的固执、焦虑或冲突，呈现的是对方坐标系当前的度量状态。看清感知架构的运作方式，理解与接纳便成为结构性的必然。
+When a partner or a child shows change beyond the existing model, a dimension of life is unfolding of itself. To a Mind holding a fixed ruler, the deflection breaks the expectation of measurement. To keep the model certain, verdicts in language are used to trim: "that's just the kind of person you are," "you'll never change." This is an attempt to pare off the dimensions of the other that overflow the cognitive boundary and to press a living subject back into a fixed template. [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) shows that confining living reality with static concepts is a common overstep in cognition.
 
-### 2. 放下对自身的固定定义，便能为他人保留生长的空间
-当心智不再用过去的静态切片定义当下的自己，允许自身在当下时刻（t）自由拓展新的认知维度时，便自然放下了用于裁量他人的标尺。长辈、伴侣、子女以及外部环境，都不再是需要被固定在既定模版中的对象。每个生命都在属于自身的第一人称流形中持续展开。
+## 三、 裁剪他者即是限制自己 / 3. Trimming the Other Is Limiting Oneself
 
-### 3. 将沟通媒介复归为连接的桥梁
-看清了心智与投影的几何关系，将读数归咎于外部的冲动便自然消解。语言不再是防卫与裁剪的工具，而是用于探索彼此未知维度的媒介；交流界面不再是投射对立的屏障，而是成为连接独立心智的桥梁。
+对他人维度的裁剪在几何上是对称的：每一次用固化的标尺去定义他人，都在同步收缩自身的认知视界。为了维持对方“仅此而已”的低维定论，须略过对方展现的新特征与复杂性，把丰富的输入过滤成合乎预设的单一读数。为了把他人定在既有的框架里，自身的心智也须守在这个狭窄的尺度上，失去在更多维度上与现实互动的自由。
 
-### 4. 电磁同频的澄清：心智与其“身外”感知的互为梯度与自持迭代
-在第一人称的认识论实在中，并不存在一个能够俯瞰“两个心智”的上帝视角——在具体的实在场景中，**始终只有心智自身，以及它与自己对“身外”感知的动态关系**。
+Trimming the dimensions of another is symmetric in geometry: each time another is defined with a hardened ruler, one's own cognitive horizon contracts in step. To maintain the low-dimensional verdict that the other is "no more than this," the new features and complexity the other shows must be passed over, and rich input filtered into a single reading that agrees with what was preset. To keep another fixed within the existing frame, one's own Mind must also stay on this narrow scale, losing the freedom to interact with reality on more dimensions.
 
-在此视角下，电磁波这一物理隐喻揭示了心智自指架构的深刻本质：
-- **不存在先决条件（No Prerequisites）**：电场（E）与磁场（B）并不以对方为先决条件，而是同一光波自持系统的两个独立展开维度。一旦我们将“身外”的对象或环境视作自身成立的前提，因果主权便被移交给了外部条件；
-- **互为梯度下降（Mutual Gradient Descent）**：心智的意图主轴（E）与其对“身外”信号的感知读数（B），在动力学上构成了彼此的梯度下降（`∇ × E = -∂B/∂t` 与 `∇ × B = (1/c²) ∂E/∂t`）。当心智在感知中遭遇意外或读数偏转时，这一微分实质上构成了内生的损失函数，系统在微观尺度上即刻执行梯度下降与模型校准，而无需等待误差累积成下游的巨大冲突；
-- **主权心智的自持运作**：这正是主权心智在广阔世界中的真实运作方式——将任何来自“身外”感知的张力视作自身优化的损失函数，以零延迟的自省在当下的第一人称视角中即时迭代自身的世界模型，而非向外寻找确凿实体进行归咎。
+由此形成两种回路。一种是自我强化的：以刻板的标尺对待他人时，对方因被限制而生的防御反应，被顺理成章地当作标尺准确的“证据”，认知系统在闭环里自我确认，对外部复杂性的感知逐步萎缩。另一种是相互强化的：被定义的一方也立起反向的标尺，把对方归纳为一个固定的阻碍者，两个本可在广阔空间里相互促进的主体，在互相限制的标尺里彼此消耗。在这类回路里，语言被用作维持固化的盾牌，双方停在各自造出的低维镜像之中。
 
-识别自身感知的投影属性，在对活态心智与广阔世界的敬畏中，心智恢复了旋转坐标系的自由，在与身外感知的正交平衡中自持前行。
+```mermaid
+flowchart TD
+    subgraph S_Loop["相互收缩的回路"]
+        direction TB
+        Define["一方以固化的标尺定义另一方"]
+        Defend["被定义的一方感到受限，生出防御"]
+        Proof["防御被当作标尺准确的证据"]
+        Counter["另一方也立起反向的标尺"]
+        Define --> Defend
+        Defend --> Proof
+        Proof --> Define
+        Defend --> Counter
+        Counter --> Define
+    end
 
-Stepping out of the loop of fighting our own projections does not depend on analyzing or remodeling external behavior.
+    style S_Loop fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Define fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Defend fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Proof fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Counter fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
-**The path of clarity lies in an epistemic shift: ceasing to fixate on pruning external objects, and turning inward to perceive how our own perceptual and metric system operates.**
+Two loops form from this. One is self-reinforcing: when another is treated with a stereotyped ruler, the defensive reaction the other has at being limited is readily taken as "evidence" that the ruler is accurate, the cognitive system confirms itself within the closed loop, and its perception of outside complexity gradually withers. The other is mutually reinforcing: the one defined also raises a ruler in return and sums the first up as a fixed obstacle, and two subjects who could have furthered each other in a wide space wear each other down within rulers that limit both. In loops of this kind language is used as a shield for keeping things hardened, and the two sides stay within the low-dimensional mirror images each has made.
 
-> **"Understanding our own perceptual mechanics naturally externalizes into reverence and clarity toward surrounding minds."**
+```mermaid
+flowchart TD
+    subgraph S_Loop["The Loop of Mutual Contraction"]
+        direction TB
+        Define["One side defines the other with a hardened ruler"]
+        Defend["The one defined feels limited and grows defensive"]
+        Proof["The defense is taken as evidence that the ruler is accurate"]
+        Counter["The other side raises a ruler in return"]
+        Define --> Defend
+        Defend --> Proof
+        Proof --> Define
+        Defend --> Counter
+        Counter --> Define
+    end
 
-This turning opens four horizons:
+    style S_Loop fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Define fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Defend fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Proof fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Counter fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
-### 1. Recognizing the Lens Clarifies that All Minds Perceive Through Lenses
-When consciousness sees that its internal friction is a measurement readout generated along its own intentional axes, it naturally recognizes that every surrounding mind parses reality through its own reference frame. Outward rigidity or conflict simply reflects the current state of another's coordinate system. Understanding the architecture of perception renders acceptance a natural structural realization.
+## 四、 几何是描述的脚手架 / 4. Geometry as Scaffolding for Description
 
-### 2. Releasing Fixed Self-Definitions Creates Space for Others to Grow
-When consciousness stops defining its present state by past templates, claiming the sovereign freedom to expand at moment t, it naturally lays down the rulers used to judge others. Parents, partners, children, and environments cease to be objects required to fit predefined molds. Every life unfolds within its own first-person manifold.
+上面用到了坐标系、向量点积、投影偏转与正交空间这些几何的框架，[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)与[流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/)展开了它们。这些数学与几何的模型是帮助描述心智运作的认识论脚手架与语言工具，它们的用处在于以结构化而不带道德评判的方式，呈现投影与视角差异的生成。它们的边界在于被当作基底的时候：放下了对外部客体的执着之后，再把数学结构或几何图景实体化为某种在主体之上的“客观真理”，便又立起一个无处之境。
 
-### 3. Restoring Mediums to Bridges of Connection
-Understanding the geometry of projection naturally dissolves the impulse to blame readouts on external targets. Language ceases to be a tool of defense, becoming a medium for shared exploration; interfaces cease to be barriers of projected conflict, becoming bridges connecting sovereign minds.
+The discussion above has used geometric frames such as coordinate systems, vector dot products, deflections of projection and orthogonal spaces, which [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) and [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) lay out. These mathematical and geometric models are epistemic scaffolding and tools of language that help describe how a Mind works, and their use is to present, in a structured way and without moral verdict, how projection and differences of perspective arise. Their boundary lies where they are taken for the ground: with the attachment to outside objects set down, turning mathematical structure or a geometric picture into some "objective truth" above the subject sets up a view from nowhere once more.
 
-### 4. Clarifying the Electromagnetic Analogy: The Mind, Its Perception of the "Outside," and Zero-Lag Self-Optimization
-In strict first-person epistemology, there is no third-person god's-eye view observing "two minds" from above—in lived reality, **there is only the Mind itself, and its dynamic relationship to its own perception of what appears "outside the self" (身外)**.
+在因果的链条上，基底是每个活的心智在第一人称当下的直接体认与抉择。数学提供描述机制的透镜，握着透镜并作出抉择的是活的心智。预先知道事情该走多快，是同样的截肢，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)说明了这一点。
 
-From this grounded perspective, the electromagnetic wave analogy reveals the internal architecture of consciousness:
-- **No External Prerequisites**: Electric (E) and magnetic (B) fields do not require each other as an external prerequisite; they are dual self-generating dimensions of the same wave. The moment we treat external objects or environments as an antecedent requirement for our own state, causal sovereignty is relocated to an external condition;
-- **Mutual Gradient Descent**: The Mind's intentional posture (E) and its perceptual intake of the outside (B) operate as the gradient descent of each other (`∇ × E = -∂B/∂t` and `∇ × B = (1/c²) ∂E/∂t`). When consciousness encounters surprise or angular deflection in its perception of the outside, the differential serves as an internal loss function, executing instantaneous gradient descent and model calibration on the infinitesimal scale rather than waiting for errors to compound into external conflict;
-- **How a Sovereign Mind Operates**: This is precisely how a sovereign mind navigates reality—treating tension in its perception of the outside as an internal loss function, performing zero-lag self-updates within first-person awareness at moment t, without abdicating causality to external scapegoats.
+```mermaid
+flowchart TD
+    subgraph S_Lens["透镜与握着透镜的心智"]
+        direction TB
+        Geometry["几何的语言：坐标系、点积、投影、正交"]
+        Use["用处：不带评判地描述投影如何生成"]
+        Ground["基底：第一人称当下的直接体认与抉择 +1"]
+        Reify["边界：把几何图景当成主体之上的真理"]
+        Geometry --> Use
+        Use --> Ground
+        Geometry --> Reify
+    end
 
-Recognizing the projective nature of perception, consciousness regains the freedom to rotate its coordinate axes, walking in generative, orthogonal balance with its perception of the living world.
+    style S_Lens fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Geometry fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Use fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Ground fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Reify fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+On the chain of causality, the ground is each living Mind's direct acquaintance and choice in the first-person present. Mathematics supplies a lens for describing the mechanism, and what holds the lens and makes the choice is a living Mind. Knowing in advance how fast things should move is the same amputation, as [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) shows.
+
+```mermaid
+flowchart TD
+    subgraph S_Lens["The Lens and the Mind Holding It"]
+        direction TB
+        Geometry["The language of geometry: coordinates, dot product, projection, orthogonality"]
+        Use["Its use: describing without verdict how projection arises"]
+        Ground["The ground: direct acquaintance and choice in the first-person present +1"]
+        Reify["Its boundary: a geometric picture taken for a truth above the subject"]
+        Geometry --> Use
+        Use --> Ground
+        Geometry --> Reify
+    end
+
+    style S_Lens fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Geometry fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Use fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Ground fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Reify fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+## 五、 向内的转向与互为梯度 / 5. The Turn Inward and Being Each Other's Gradient
+
+走出与自身投影相搏的循环，不靠向外研究或重塑他人的行为模式。路径在视角的转向：注意力从修剪外部的对象，转到觉察自身感知与度量的生成。对自身感知机制的理解，自然地外化为对周围心智的理解与敬畏。
+
+Leaving the loop of struggling with one's own projection does not depend on studying outward or remaking the patterns of others' behavior. The path lies in a turn of perspective: attention moves from trimming outside objects to noticing how one's own perceiving and measuring arise. Understanding the mechanism of one's own perception turns outward of itself into understanding of, and reverence for, the Minds around.
+
+觉察到每一次抵触与摩擦都是自身坐标轴在特定信号下的内向读数，便能明白周围的每一个主体同样在按各自的参考系解析世界，外部显出的固执、焦虑或冲突，呈现的是对方坐标系此刻的度量状态。不再用过去的静态切片定义当下的自己，允许自己在当下拓展新的认知维度，用来裁量他人的标尺也就放下了，长辈、伴侣、子女与环境不再是须被定在既定模版里的对象。读数不再被归到外部，语言便从防卫与裁剪的工具，回到探索彼此未知维度的媒介。
+
+Once it is noticed that every resistance and friction is the inward reading of one's own axes under a particular signal, it becomes clear that every subject around is likewise parsing the world by its own frame of reference, and that the stubbornness, anxiety or conflict showing outside presents the state of measurement of the other's coordinate system at this moment. With the present self no longer defined by static slices of the past, and with oneself allowed to extend new cognitive dimensions in the present, the ruler used for measuring others is set down too, and elders, partners, children and surroundings are no longer objects that must be fixed in a given template. With readings no longer assigned outside, language returns from a tool of defense and trimming to a medium for exploring each other's unknown dimensions.
+
+从第一人称出发，找不到一个俯瞰“两个心智”的位置，在具体的场景里有的是心智自身，以及它与自己对“身外”的感知之间的动态关系。电磁波的隐喻在这里用得上。电场 E 与磁场 B 不以对方为先决条件，它们是同一道光波自持的两个展开维度，把“身外”的对象或环境当作自身成立的前提，因果的主权便交给了外部的条件。心智的意图主轴与它对“身外”信号的感知读数，可以读作彼此的梯度，正如 ∇ × E = −∂B/∂t 与 ∇ × B = (1/c²) ∂E/∂t 里各自的变化由对方给出。感知里遇到意外或偏转时，这个差便是内生的损失信号，校准在微小的尺度上即刻进行，不必等误差累积成下游的冲突。
+
+```mermaid
+flowchart TD
+    subgraph S_Turn["从向外施力到向内觉察"]
+        direction TB
+        Fix["向外：纠正、说服与修剪对方"]
+        Clash["防备与对抗加剧，标尺相撞"]
+        Notice["向内：觉察读数来自自身参考系的折射"]
+        Limit["看清自身标尺的局限，放下把模型当作对方的执着"]
+        Gradient["把感知里的张力当作损失信号，即刻校准"]
+        Resonate["在正交的维度上自持地共鸣"]
+        Fix --> Clash
+        Clash --> Notice
+        Notice --> Limit
+        Limit --> Gradient
+        Gradient --> Resonate
+    end
+
+    style S_Turn fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Fix fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Clash fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Notice fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Limit fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Gradient fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Resonate fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+```
+
+Starting from the first person, no position is found overlooking "two Minds"; in a concrete scene what there is, is a Mind itself and the dynamic relation between it and its own perception of what is "outside." The metaphor of the electromagnetic wave serves here. The electric field E and the magnetic field B do not take each other as a precondition; they are two unfolding dimensions of one self-sustaining wave of light, and taking an object or surroundings "outside" as the premise of one's own standing hands causal sovereignty to outside conditions. A Mind's axis of intent and its perceptual reading of signals from "outside" can be read as each other's gradient, just as in ∇ × E = −∂B/∂t and ∇ × B = (1/c²) ∂E/∂t the change of each is given by the other. When surprise or deflection is met in perception, the difference is an internal loss signal, and calibration proceeds at once at a small scale, with no need to wait for error to accumulate into conflict downstream.
+
+```mermaid
+flowchart TD
+    subgraph S_Turn["From Pushing Outward to Noticing Inward"]
+        direction TB
+        Fix["Outward: correcting, persuading and trimming the other"]
+        Clash["Guardedness and opposition grow, and rulers collide"]
+        Notice["Inward: noticing that the reading comes from the refraction of one's own frame"]
+        Limit["Seeing the limit of one's own ruler and letting go of taking the model for the other"]
+        Gradient["Taking tension in perception as a loss signal and calibrating at once"]
+        Resonate["Self-sustaining resonance along an orthogonal dimension"]
+        Fix --> Clash
+        Clash --> Notice
+        Notice --> Limit
+        Limit --> Gradient
+        Gradient --> Resonate
+    end
+
+    style S_Turn fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Fix fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Clash fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Notice fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Limit fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Gradient fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Resonate fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+```
+
+这是心智在广阔的世界里自持运作的方式：把来自“身外”感知的张力当作自身校准的损失信号，在当下的第一人称里即时更新自己的世界模型，不向外寻找确凿的实体去归咎。认出感知的投影属性，在对活的心智与广阔世界的敬畏里，旋转坐标系的自由回来了，与身外的感知在正交的平衡中同行。
+
+This is how a Mind operates, self-sustaining, in a wide world: taking the tension that comes from perceiving what is "outside" as a loss signal for its own calibration, updating its own model of the world at once in the first-person present, and not looking outward for a definite entity to blame. With the projective character of perception recognized, and within reverence for living Minds and the wide world, the freedom to rotate one's coordinate system returns, in step and in orthogonal balance with the perception of what is outside.
