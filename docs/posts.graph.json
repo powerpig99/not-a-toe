@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T15:35:05.598Z",
+    "generated_at": "2026-10-13T15:47:25.724Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -337,7 +337,7 @@
       "content/posts/the-scaling-loop.md": "deedfa49f780",
       "content/posts/the-self-portrait-in-the-projection.md": "f4a97eba16ff",
       "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
-      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "929c252a952b",
+      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "abb60190074e",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "8bc5df7f087d",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "3c66bd80af77",
       "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
@@ -418,10 +418,10 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5445,
-      "unique_directed": 4491,
+      "edges": 5447,
+      "unique_directed": 4492,
       "missing_targets": 0,
-      "one_way": 97,
+      "one_way": 98,
       "isolated": 37,
       "posts_with_outbound": 353,
       "book_pages": 16,
@@ -5825,7 +5825,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "57ec612f18d1",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 5,
       "links_out": [
         "consciousness-ascription-and-the-quantum-cut",
@@ -8414,9 +8414,9 @@
       "slug": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
-      "hash": "929c252a952b",
+      "hash": "abb60190074e",
       "in_degree": 17,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -8428,6 +8428,7 @@
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-ladder-of-abstraction-and-the-executable-entity",
+        "the-cut-moves-but-never-vanishes",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -37583,7 +37584,7 @@
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "所有权与自我配得感"
+      "label": "自我价值感与所有权"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -37605,9 +37606,15 @@
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "The Closed N and the Open Reality"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "demanding-a-toe-freezes-time-into-a-catalog",
       "rel": "points_to",
-      "label": "要求“万物理论”是将时间冻结为标本目录"
+      "label": "索求万物理论是在将当下冻结为清单"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -37625,25 +37632,13 @@
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "the-ladder-of-abstraction-and-the-executable-entity",
       "rel": "points_to",
-      "label": "抽象阶梯与可执行实体"
-    },
-    {
-      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "rel": "points_to",
-      "label": "任务的移交与后果的不可让渡"
-    },
-    {
-      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "to": "the-closed-n-and-the-open-reality",
-      "rel": "points_to",
-      "label": "The Closed N and the Open Reality"
+      "label": "抽象的阶梯与可执行的实体"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "demanding-a-toe-freezes-time-into-a-catalog",
       "rel": "points_to",
-      "label": "Demanding a 'TOE' Freezes Time into a Catalog"
+      "label": "Demanding a Theory of Everything Freezes Time into a Catalog"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -37665,6 +37660,24 @@
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
@@ -37679,7 +37692,19 @@
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普度，只有自度"
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -37695,24 +37720,6 @@
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "to": "agency-does-not-arise",
-      "rel": "points_to",
-      "label": "主体性不曾涌现"
-    },
-    {
-      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "to": "individual-choices-as-the-only-causal-levers",
-      "rel": "points_to",
-      "label": "Individual Choices as the Only Causal Levers"
-    },
-    {
-      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-      "to": "mei-you-pu-du-zhi-you-zi-du",
-      "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
-    },
-    {
-      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
@@ -37722,6 +37729,12 @@
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性不曾涌现"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
