@@ -214,19 +214,19 @@ The idea of a flat Earth takes the same step. In building a skyscraper or a brid
 
 ## 四、 三个常数是采样帧的规格 / 4. Three Constants as the Specifications of the Sample Frame
 
-在物理学的话语里，光速 c、普朗克常数 ħ 与引力常数 G 被看作客观宇宙的三个终极常数，是世界内部的围墙，量子引力的工作便是要把三者合成一套统一的理论。从第一人称的因果出发，这三个常数可以读作心智把现实定住、制作黑白采样帧时确立的三项操作规格。
+在物理学的话语里，光速 c、普朗克常数 ħ 与引力常数 G 被看作客观宇宙的三个终极常数，是世界内部的围墙，量子引力的工作便是要把三者合成一套统一的理论。从第一人称的因果出发，这三个常数是心智把现实定住、制作黑白采样帧时确立的三项操作规格。
 
-In the discourse of physics, the speed of light c, the Planck constant ħ and the gravitational constant G are regarded as three ultimate constants of an objective universe, walls inside the world, and the work of quantum gravity is to combine the three into one unified theory. Starting from first-person causality, the three constants can be read as three operating specifications established when a Mind holds reality still and makes the black-and-white sample frame.
+In the discourse of physics, the speed of light c, the Planck constant ħ and the gravitational constant G are regarded as three ultimate constants of an objective universe, walls inside the world, and the work of quantum gravity is to combine the three into one unified theory. Starting from first-person causality, the three constants are three operating specifications established when a Mind holds reality still and makes the black-and-white sample frame.
 
-普朗克常数是采样帧的像素分辨率。所经验的连续，来自因果在逻辑上的连贯，最小的离散步长小到可以忽略，如同 dx 足够小时被当作零。把 dx 等同于零，并把这一步推到现实本身，是数学的越界，普朗克常数标出的正是这个不为零的最小步长。量子力学里的波粒二象性、测不准关系与概率波函数，由此可以读作连续的微积分数学去探查网格上两个相邻像素之间时留下的涂抹，现实显得悖谬，是因为被要求去合乎模型。把一张低分辨率的位图放大，看到的马赛克与模糊边缘属于显示网格的分辨率，不属于被拍的东西。
+普朗克常数是采样帧的像素分辨率。所经验的连续，来自因果在逻辑上的连贯，最小的离散步长小到可以忽略，如同 dx 足够小时被当作零。把 dx 等同于零，并把这一步推到现实本身，是数学的越界，普朗克常数标出的正是这个不为零的最小步长。量子力学里的波粒二象性、测不准关系与概率波函数，便是连续的微积分数学去探查网格上两个相邻像素之间时留下的涂抹，现实显得悖谬，是因为被要求去合乎模型。把一张低分辨率的位图放大，看到的马赛克与模糊边缘属于显示网格的分辨率，不属于被拍的东西。
 
-The Planck constant is the pixel resolution of the sample frame. The continuity experienced comes from the logical coherence of causality, with the smallest discrete step small enough to be ignored, just as dx is treated as zero when small enough. Equating dx with zero and carrying that step over to reality itself is where mathematics oversteps, and what the Planck constant marks is this smallest step that is not zero. Wave-particle duality, the uncertainty relation and the probability wavefunction in quantum mechanics can then be read as the smear left when the continuous mathematics of calculus probes between two adjacent pixels of the grid; reality seems paradoxical because it is being required to fit the model. Enlarge a low-resolution bitmap and the mosaic and blurred edges seen belong to the resolution of the display grid, not to the thing photographed.
+The Planck constant is the pixel resolution of the sample frame. The continuity experienced comes from the logical coherence of causality, with the smallest discrete step small enough to be ignored, just as dx is treated as zero when small enough. Equating dx with zero and carrying that step over to reality itself is where mathematics oversteps, and what the Planck constant marks is this smallest step that is not zero. Wave-particle duality, the uncertainty relation and the probability wavefunction in quantum mechanics are then the smear left when the continuous mathematics of calculus probes between two adjacent pixels of the grid; reality seems paradoxical because it is being required to fit the model. Enlarge a low-resolution bitmap and the mosaic and blurred edges seen belong to the resolution of the display grid, not to the thing photographed.
 
 光速是采样帧的校准标尺与最高刷新率。在一张定住的切片内部描述像素之间的相对运动与相互作用，须选定一个最高的速度作基准，否则相对的距离与时序无法在同一张图纸上校准。狭义相对论选光速，是因为光是即时感知里能捕获的最快信号，以最快的现象作参照，才能测绘一切较慢的现象。它标出的是感知这块画布的响应带宽，是信号完成因果交握的最高刷新速率。
 
 The speed of light is the calibrating ruler and highest refresh rate of the sample frame. To describe relative motion and interaction among pixels inside a slice held still, a highest speed must be chosen as the benchmark, or relative distances and timings cannot be calibrated on one drawing. Special relativity chooses the speed of light because light is the fastest signal that can be captured in immediate perception, and only with the fastest phenomenon as reference can everything slower be surveyed. What it marks is the response bandwidth of the canvas of perception, the highest refresh rate at which signals complete their causal handshake.
 
-引力常数与时空的弯曲，是宏观视界上的投影畸变。把这张局部平坦的采样帧扩展到整个宇宙时，外部的参照物用尽了，广义相对论以宇宙整体作为最终的参照背景。这相当于把一个球面的感知边界压平在一张纸面上。正如墨卡托地图把格陵兰拉得比南美洲还大，把平坦的采样帧投到宏观视界的边缘时，方程须引入空间的弯曲与度规张量来补偿投影的失真。空间的弯曲由此可以读作把局部平坦的坐标外推到全宇宙视界时的几何代偿。
+引力常数与时空的弯曲，是宏观视界上的投影畸变。把这张局部平坦的采样帧扩展到整个宇宙时，外部的参照物用尽了，广义相对论以宇宙整体作为最终的参照背景。这相当于把一个球面的感知边界压平在一张纸面上。正如墨卡托地图把格陵兰拉得比南美洲还大，把平坦的采样帧投到宏观视界的边缘时，方程须引入空间的弯曲与度规张量来补偿投影的失真。空间的弯曲便是把局部平坦的坐标外推到全宇宙视界时的几何代偿。
 
 ```mermaid
 flowchart TD
@@ -253,7 +253,7 @@ flowchart TD
     style Unify fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-The gravitational constant and the curvature of spacetime are projection distortion at the macroscopic horizon. When this locally flat sample frame is extended to the entire universe, outside objects of reference are used up, and general relativity takes the universe as a whole for the final background of reference. This amounts to pressing a spherical boundary of perception flat on a sheet of paper. Just as a Mercator map stretches Greenland larger than South America, when a flat sample frame is cast to the edge of the macroscopic horizon the equations must bring in spatial curvature and a metric tensor to compensate for the distortion of projection. The curvature of space can thus be read as the geometric compensation made when locally flat coordinates are extrapolated to the horizon of the whole universe.
+The gravitational constant and the curvature of spacetime are projection distortion at the macroscopic horizon. When this locally flat sample frame is extended to the entire universe, outside objects of reference are used up, and general relativity takes the universe as a whole for the final background of reference. This amounts to pressing a spherical boundary of perception flat on a sheet of paper. Just as a Mercator map stretches Greenland larger than South America, when a flat sample frame is cast to the edge of the macroscopic horizon the equations must bring in spatial curvature and a metric tensor to compensate for the distortion of projection. The curvature of space is thus the geometric compensation made when locally flat coordinates are extrapolated to the horizon of the whole universe.
 
 ```mermaid
 flowchart TD
@@ -280,9 +280,9 @@ flowchart TD
     style Unify fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-按这种读法，用弦理论或圈量子引力写出一个把 ħ、c 与 G 合在一起的万物理论，好比写出一个把显示器的像素间距、刷新频率与外壳边框融为一体的方程，并期望由它推出正在播放的电影的情节。三个常数是测量工具的技术边界，电影的内容不在其中。
+用弦理论或圈量子引力写出一个把 ħ、c 与 G 合在一起的万物理论，好比写出一个把显示器的像素间距、刷新频率与外壳边框融为一体的方程，并期望由它推出正在播放的电影的情节。三个常数是测量工具的技术边界，电影的内容不在其中。
 
-On this reading, writing a theory of everything that joins ħ, c and G through string theory or loop quantum gravity is like writing an equation that fuses a monitor's pixel pitch, its refresh frequency and the bezel of its casing, and expecting to derive from it the plot of the film now playing. The three constants are the technical limits of the measuring tool, and the content of the film is not in them.
+Writing a theory of everything that joins ħ, c and G through string theory or loop quantum gravity is like writing an equation that fuses a monitor's pixel pitch, its refresh frequency and the bezel of its casing, and expecting to derive from it the plot of the film now playing. The three constants are the technical limits of the measuring tool, and the content of the film is not in them.
 
 ## 五、 外推出的大爆炸、热寂与块状宇宙 / 5. The Big Bang, Heat Death and Block Universe as Extrapolations
 
@@ -348,9 +348,9 @@ flowchart TD
     style Block fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-[连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/)说明，一个数学函数在极限处出现奇点时，显出的是模型自身失效的位置。大爆炸的奇点与热寂由此可以读作对一张单帧的黑白幻灯片作坐标外推时，符号在纸面上走到尽头的地方。
+[连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/)说明，一个数学函数在极限处出现奇点时，显出的是模型自身失效的位置。大爆炸的奇点与热寂便是对一张单帧的黑白幻灯片作坐标外推时，符号在纸面上走到尽头的地方。
 
-[The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) shows that when a mathematical function meets a singularity at a limit, what appears is the place where the model itself fails. The singularity of the Big Bang and the heat death can thus be read as where the symbols run out on paper when coordinates are extrapolated from a single black-and-white slide.
+[The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) shows that when a mathematical function meets a singularity at a limit, what appears is the place where the model itself fails. The singularity of the Big Bang and the heat death are thus where the symbols run out on paper when coordinates are extrapolated from a single black-and-white slide.
 
 ## 六、 归还测量者 / 6. Returning the One Who Measures
 
