@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T17:18:13.537Z",
+    "generated_at": "2026-10-13T17:23:15.817Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -201,7 +201,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b52ca2cdd064",
       "content/posts/the-blind-spot-of-the-frame.md": "23484e369bf2",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
-      "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "c3031deb99dc",
+      "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "3955e0d6eba0",
       "content/posts/the-boundary-of-the-frame.md": "87ff68f71b62",
       "content/posts/the-brain-does-not-backprop.md": "0fe20d66ae42",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
@@ -418,10 +418,10 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5453,
-      "unique_directed": 4495,
+      "edges": 5455,
+      "unique_directed": 4496,
       "missing_targets": 0,
-      "one_way": 101,
+      "one_way": 102,
       "isolated": 37,
       "posts_with_outbound": 353,
       "book_pages": 16,
@@ -5434,12 +5434,13 @@
       "slug": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "path": "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md",
       "title": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding",
-      "hash": "c3031deb99dc",
+      "hash": "3955e0d6eba0",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+        "the-cut-moves-but-never-vanishes",
         "agency-does-not-arise",
         "fixed-by-nothing",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -5825,7 +5826,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "57ec612f18d1",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 5,
       "links_out": [
         "consciousness-ascription-and-the-quantum-cut",
@@ -26499,13 +26500,13 @@
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "choice-itself-has-no-inherent-weight",
       "rel": "points_to",
-      "label": "选择本身没有任何固有重量"
+      "label": "抉择本身并不沉重"
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
-      "label": "因果不可化约，物理是无人视角的投射"
+      "label": "因果的自反性与物理的无源假定"
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
@@ -26517,13 +26518,25 @@
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
-      "label": "Causality is Irreducible, the Physical is a View from Nowhere"
+      "label": "Causality is Irreducible; The Physical is a View from Nowhere"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "agency-does-not-arise",
       "rel": "points_to",
-      "label": "主体性决非涌现而出"
+      "label": "主体性不曾涌现"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
@@ -26559,13 +26572,13 @@
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
-      "label": "普通人视角的解释陷阱"
+      "label": "“普通人视角”的解释陷阱"
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
-      "label": "The Explanatory Trap of the Ordinary Perspective"
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
@@ -26577,7 +26590,7 @@
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "abstract-pain-and-living-hunger",
       "rel": "points_to",
-      "label": "抽象痛苦与鲜活饥饿"
+      "label": "抽象的苦难与真实的饥饿"
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
