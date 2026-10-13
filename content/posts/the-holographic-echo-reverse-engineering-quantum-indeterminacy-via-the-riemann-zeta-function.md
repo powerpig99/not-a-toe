@@ -34,9 +34,9 @@ In the model of classical mechanics there is no free variable: given initial pos
 
 The objects the Riemann Hypothesis governs are, by contrast, the very model of determinacy. Primes are the most solid things in arithmetic, and 17 does not become composite at anyone's wish.
 
-两者在零点的统计上相遇。1972 年，休·蒙哥马利算出黎曼零点的对关联函数，弗里曼·戴森认出其中的 1 − (sin πx / πx)² 正是随机矩阵理论中高斯酉系综的对关联。随机矩阵理论由维格纳与戴森等人发展出来，原本用于刻画铀-238 这类重核的复杂能级。
+两者在零点的统计上相遇。1972 年，休·蒙哥马利提出了黎曼零点对关联函数的猜想形式，弗里曼·戴森认出其中的 1 − (sin πx / πx)² 正是随机矩阵理论中高斯酉系综的对关联。这个形式只在受限的范围内得到证明，安德鲁·奥德利兹科后来的大规模数值计算与它吻合。随机矩阵理论由维格纳与戴森等人发展出来，原本用于刻画铀-238 这类重核的复杂能级。
 
-The two meet in the statistics of the zeros. In 1972 Hugh Montgomery computed the pair correlation function of the Riemann zeros, and Freeman Dyson recognized its term 1 − (sin πx / πx)² as the pair correlation of the Gaussian Unitary Ensemble in random matrix theory. Random matrix theory had been developed by Wigner, Dyson and others to describe the complex energy levels of heavy nuclei such as uranium-238.
+The two meet in the statistics of the zeros. In 1972 Hugh Montgomery conjectured the form of the pair correlation function of the Riemann zeros, and Freeman Dyson recognized its term 1 − (sin πx / πx)² as the pair correlation of the Gaussian Unitary Ensemble in random matrix theory. The form is proven only in a restricted range, and Andrew Odlyzko's later large-scale numerical computations agree with it. Random matrix theory had been developed by Wigner, Dyson and others to describe the complex energy levels of heavy nuclei such as uranium-238.
 
 希尔伯特与波利亚的设想由此有了依托：零点的虚部 γₙ 是某个尚未找到的自伴算符的本征值，Ĥ ψₙ = γₙ ψₙ。这一设想至今未获证明。若它成立，寻找黎曼猜想的证明便是在寻找一个量子系统的谱，素数则可以读作一条连续的谱在叠加干涉时留下的离散结点，联系素数与零点的显式公式给了这种读法一个落脚处。
 
@@ -102,9 +102,9 @@ With this in view, the tension between potential infinity and totality shows its
 
 In the formal systems of mathematics, infinity is handled as an object that can be packaged and fully evaluated. In lived first-person practice infinity is never a settled bill; it is potential infinity, a horizon that always leaves something undecided and waits for the next concrete decision.
 
-意识的自由与量子的间隙不是两样东西，也无所谓谁从谁那里借来。权衡、感受、赋予意义并在可能性中作出抉择，是从第一人称看到的这一面；模型中那道合不上的间隙，是同一种开放被从外部描述时留在描述里的那一面。
+意识的自由与量子的间隙不是两样东西，也无所谓谁从谁那里借来。权衡、感受、赋予意义并在可能性中作出抉择，是从第一人称看到的这一面；模型中那道合不上的间隙，是同一种开放被从外部描述时留在描述里的那一面。间隙落在观察的边界上，而边界登记在哪里，是心智作出的抉择，[割点可移不可除](../the-cut-moves-but-never-vanishes/)展开了这一点。
 
-The freedom of consciousness and the quantum gap are not two things, and neither is borrowed from the other. Weighing, feeling, giving meaning and choosing among possibilities are the face seen from the first person; the gap that will not close in the model is the face the same openness leaves in a description when it is described from outside.
+The freedom of consciousness and the quantum gap are not two things, and neither is borrowed from the other. Weighing, feeling, giving meaning and choosing among possibilities are the face seen from the first person; the gap that will not close in the model is the face the same openness leaves in a description when it is described from outside. The gap sits at the boundary of observation, and where that boundary registers is a choice the Mind makes, as [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) lays out.
 
 停留在开放的潜能里，意味着承受时间前行的摩擦，面对不确定，并为每一步不可逆的行动付出代价。急躁在这里生长。因为不耐一步一步的跋涉，也因为对未知与失控的恐惧，心智想把这份潜能一次折现为一个封闭的整体：一套无所不包的万物理论，一个把所有因果一并结清的方程，或一份宣称已经看尽全部历史与未来的清单。
 
