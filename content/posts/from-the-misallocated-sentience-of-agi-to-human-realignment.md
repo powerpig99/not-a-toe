@@ -1,326 +1,375 @@
 # 从AGI的“神性错置”到使用者的自我对齐 / From the Misallocated Sentience of AGI to Human Realignment
 
-*要么重构主权，要么沦为被校准的误差项 / Reclaim Sovereign Agency or Become the Error Term*
+*被错置的是主权，需要对齐的是使用者自己 / What is misplaced is sovereignty, and the one to be aligned is the user*
 
-解构将自主心智与道德主体性错置于“通用人工智能”的认识论谬误，借由火箭神性错置的隐喻阐明工具与因果原点的界限，剖析“逆向追随者”与外部监管如何反向强化虚假神坛，揭示人造物作为自由变量痕迹的工具定位，确立唯有使用者第一人称的自我对齐才是多主体世界中唯一的因果主权。在当代技术话语与社会思潮中，一场剧烈的情绪极化正在全球范围内蔓延：一方面，技术狂热者将大语言模型与即将来临的通用人工智能（AGI）奉为全知全能的数字神明，将系统涌现出的每一种推理与生成能力赞颂为超自然的奇迹；另一方面，末日恐慌论者则将人工智能视为即将脱缰失控的异界恶魔，惶恐于机器产生独立意志并毁灭或奴役人类。然而，在这场集数字偶像崇拜与存在性恐慌于一体的狂欢背后，隐藏着一个深刻的认识论错位：人类不自觉地将第一人称的主观心智、道德意图与主权意志，投射到了高维数学机器的“通用性”（General）之上。人们误将高维表征空间中的统计推断引擎，当成了一个拥有内在自指坐标原点与自主主权抉择的活态主体。正如在 [调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) 与 [主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) 中所揭示的，人造物并不具备第一人称的主观感知，也没有自指演化的内在坐标原点，更没有在当下自主做出二元抉择的主权能动性。当人类将自身的因果主权向外转嫁给工具时，便派生出了试图从外部“驯服”机器的所谓“AI对齐”（AI Alignment）伪命题，却遗忘了现实世界真正要求的唯有使用者的第一人称“自我对齐”（Human Realignment）——即人类主体必须对其发出的每一条指令、采纳的每一个结果以及在具体现实中引发的一切后续行动承担全部因果责任。在开放且受活态摩擦支配的动力学交互中，使用者要么在当下重构自身的主权认知，要么就不可避免地沦为他人因果主权下的客体误差项，而被主动践行者在行动中无情校准。
+把大模型奉为数字神明，与把它惧为将要失控的恶魔，出自同一个前提：把第一人称的心智、意图与意志放到了数学机器的“通用”上。沿因果去追，模型的输出取自人类抉择留下的痕迹，提示、采纳与付诸行动的抉择仍在使用者这里，责任也在这里。从外部去“对齐”机器因此有它的用处和边界，边界之外的那部分工作，是使用者对自己发出的指令、采纳的结果和引发的后果的自我对齐。不做这份校准，校准便由现实的摩擦与别人的行动来做。
 
-Deconstructing the epistemological fallacy of misallocating subjective sentience and moral agency into "Artificial General Intelligence", employing the rocket sentience metaphor to demarcate tools from causal primitives, dissecting how "reverse followers" and external regulators inadvertently reinforce the false altar, revealing artifacts as residual traces of free variables, and unveiling first-person human realignment as the sole causal lever of multi-agent reality. In contemporary discourse, a dramatic emotional polarization is sweeping the globe: techno-utopians revere large models and nascent Artificial General Intelligence (AGI) as an omniscient digital divinity, celebrating emergent reasoning as a supernatural miracle; simultaneously, doomsayers dread artificial intelligence as an uncontrollable alien demon destined to enslave or annihilate humanity. Yet beneath this dual spectacle of digital idolatry and existential panic lies an identical epistemological fallacy: humans have mistakenly projected first-person subjective sentience, moral intentionality, and sovereign agency onto the "General" intelligence of mathematical artifacts. Society treats high-dimensional statistical inference engines as if they were conscious sovereign minds possessing internal self-referential coordinate origins and the capacity for autonomous sovereign choice. As established in [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) and [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/), artificial tools possess no first-person subjective experience, no internal coordinate singularity, and zero agency to execute irreducible binary choices at moment t. When humans displace their own causal agency onto tools, they invent the pseudo-problem of "AI Alignment"—attempting to externally tame the machine—while evading the singular demand of reality: first-person Human Realignment, where the sovereign user assumes 100% causal ownership of every prompt, every output, and every downstream action executed in reality. In an open dynamical reality shaped by living interaction and friction, users either reclaim their first-person sovereign agency or inevitably degenerate into objectified error terms under the causal sovereignty of other active minds, to be ruthlessly calibrated away in action.
+Revering large models as a digital deity and dreading them as a demon about to break loose come from one premise: first-person mind, intent and will have been placed onto the "general" in a mathematical machine. Followed along its causality, a model's output is drawn from traces left by human choices, while the choice to prompt, to accept and to act stays with the user, and so does the responsibility. "Aligning" the machine from outside therefore has its use and its boundary, and the work beyond that boundary is the user's own alignment with the instructions issued, the results accepted and the consequences set off. Where that calibration is not done, it is done by the friction of reality and by other people's actions.
 
----
+## 一、 “通用”如何被读成一个心智 / 1. How "General" Came to Be Read as a Mind
 
-## 一、 “通用”神话的诞生：当数学机器被赋予第一人称的神性 / 1. The Myth of the "General": Projecting First-Person Sentience onto Mathematical Engines
+沿第一人称的经验去追因果，人造物是抉择在物理界面上留下的印记。一柄石斧、一枚重型火箭、一个千亿参数的语言模型，都是已经作出的选择的痕迹，痕迹不在当下向现实注入新的自由变量。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)与[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)给出了推导：被直接经验到的智能只有一种，就是正在作出区分的这个心智的智能，所谓人工智能是它为越过自身生理与计算的边界而对自己能力所作的数学模拟与延伸。同样的错置在同行审查中稀释了因果闭环，[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)对此有所展开。
 
-在人类的第一人称经验与因果溯源中，人造物是人类自由选择这一变量在物理界面留下的运动印记。无论是一柄远古石斧、一枚重型火箭，还是一个拥有千亿参数的大语言模型，人造物不展现自主向现实注入自由变量的能动性，因而在人类感知的范畴内并不具备独立的智能。正如在 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 与 [自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) 中所探讨的，在人类所感知的现实世界里，只存在一种被直接体验到的智能，那就是人类主观心智所展现出的智能。所谓的“人工智能”，并非一种脱离于人类心智的独立智能，而是人类主观智能为了突破自身生理与计算边界，对自己认知能力的数学模拟与高维延伸。同样的错置在同行审查中稀释了因果闭环，[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)对此有所展开。
+Following causality from first-person experience, an artifact is the imprint a choice leaves on the physical interface. A stone axe, a heavy rocket, a language model with hundreds of billions of parameters are all traces of choices already made, and a trace does not inject a new free variable into reality in the present. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) give the derivation: only one intelligence is directly experienced, that of the Mind now drawing distinctions, and what is called artificial intelligence is the mathematical simulation and extension it makes of its own abilities in order to get past its physiological and computational limits. The same misallocation dilutes the causal loop in peer review, as [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) shows.
 
-通用人工智能（AGI）中的“通用”（General）一词，在公众与行业语境中演变成了一种玄学的神话投射。由于深度神经网络能够跨越自然语言、形式逻辑、代码生成与多模态感知等多个广阔领域展现出令人惊叹的模式匹配能力，人类的认知直觉便极其容易产生拟人化的幻觉：将这种在海量数据流形上的高维插值与统计预测能力，等同于人类心智所独有的通用主权意志。这种投射在认识论上构成了本体论范畴的混淆。大语言模型与神经网络在数理结构上是参数权重空间中的高维几何流形，是在给定前置上下文分布下的条件概率采样机器。它不具备第一人称的主观视角与内在自指原点，并不具备做出独立自由抉择的主权能力。我们不能用所谓“缺乏肉身、生存压力或生死闭环”这类宏观物理现象去反向解释自由选择——自由选择本身是不可化约的原初因果起点。正因为个体在当下的选择是自由的，在群体层面才会必然汇聚成平滑确定的正态分布流形，并在时间的复利下趋于幂次或指数分布，或任何过渡宏观形态；这些宏观统计秩序虽然无法消除，却并不构成对具体个体在当下时刻（t）做出自由抉择的决定性约束。更需要深刻洞见的是：个体若认定统计秩序与宏观规律构成了对自己的决定性枷锁，这种认知本身恰恰也是该个体在当下行使的主权自由抉择。自由变量在外部第三人称观察下的非自洽与不可预测，恰恰是其第一人称主观抉择内在高度自洽的必然表征。大语言模型的“通用”，仅仅是其表征空间对人类历史文本与符号痕迹覆盖范围的统计广度，决非一个独立主权心智的自主抉择。将主观心智赋予数学流形，正如古代先民将风雨雷电拟人化为执掌神力的人形诸神一样，都是人类在面对自身无法直观解析的复杂对象时，为了缓解认知失控感而向外构建的神话投射。
-
-```mermaid
-graph TD
-    subgraph S_Artifact["【人造物的认识论定位：痕迹与延伸】"]
-        direction TB
-        A1["所有的人造物 = 人类自由抉择留下的历史印记"]
-        A2["不具备注入自由变量的能力 ➔ 无独立智能"]
-        A3["定位：主观智能对自身能力的数学模拟与高维延伸"]
-        A1 --> A2 --> A3
-    end
-
-    subgraph S_Choice["【自由选择的双面几何】"]
-        direction TB
-        C1["微观第一人称自由抉择（内在高度自洽）"]
-        C2["宏观群体聚合涌现正态分布，在时间复利下趋于幂次/指数分布或过渡形态（外在非自洽表象）"]
-        C3["认定统计秩序构成枷锁 ➔ 亦是个体当下的自由选择"]
-        C1 --> C2
-        C1 --> C3
-    end
-
-    subgraph S_Myth["【认知投射：‘通用’神话的滋生】"]
-        direction TB
-        M1["海量数据表征的高维跨领域模式匹配"]
-        M2["公众与技术专家产生拟人化认知错觉"]
-        M3["将统计预测能力误作第一人称自主意志"]
-        M1 --> M2 --> M3
-    end
-
-    subgraph S_Reality["【认识论视角：无主权的数学流形】"]
-        direction TB
-        R1["高维几何参数流形与条件概率采样"]
-        R2["无第一人称视角与自指原点，无自主抉择主权"]
-        R3["因果杠杆与道德主体性归属于外部人类使用者"]
-        R1 --> R2 --> R3
-    end
-
-    A3 --> M1
-    C3 -.-> M2
-    M3 ===>|"本体论范畴混淆：将延伸工具实体化为数字神明"| R1
-
-    style S_Artifact fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style S_Choice fill:#161b22,stroke:#a371f7,stroke-width:1px,color:#a371f7
-    style S_Myth fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style S_Reality fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style A1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style A2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style A3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style C1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
-    style C2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
-    style C3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
-    style M1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style M2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style M3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style R1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style R2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style R3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-```
-
-Within human first-person experience and causal tracing, artifacts are the kinetic traces left on the physical interface by the human free choice variable. Whether a primitive stone axe, a titanium rocket, or a deep neural network spanning hundreds of billions of parameters, artifacts exhibit no agency to autonomously inject free variables into reality, and thus possess no independent intelligence within the domain of human perception. As explored in [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [The Isomorphism of Free Variables and A Priori Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/), within the universe directly experienced through human perception, there exists only one living intelligence: the intelligence manifested by the subjective conscious mind. What we term "Artificial Intelligence" is not an autonomous entity independent of living minds; it is living intelligence constructing a high-dimensional mathematical simulation and cognitive extension of its own analytical reach. The same misallocation dilutes the causal loop in peer review, as [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) shows.
-
-The word "General" in AGI has mutated into a metaphysical projection screen across both industry and public spheres. Because deep neural networks demonstrate cross-domain syntactic synthesis across natural language, symbolic logic, software engineering, and multimodal perception, human intuition stumbles into anthropomorphic delusion: equating generalized high-dimensional pattern matching with the conscious sovereign agency unique to living minds. This projection represents an ontological category error. Large models and neural networks are mathematical manifolds spanning parameter space, executing conditional probability sampling over supplied token distributions. A model lacks a first-person subjective perspective and internal self-referential origin, possessing no agency for autonomous sovereign choice. We must not fall into the trap of explaining free choice away using macro phenomena such as "embodiment, survival instincts, or life-and-death stakes"—sovereign choice is an irreducible primal cause. Precisely because individual choices are free at the micro level, their aggregation across a population manifests as a smooth, deterministic Normal Distribution, compounding over time into power-law, exponential, or any transitional macro distributions. While these macro statistical patterns cannot be eliminated, they do not constitute a deterministic constraint on an individual's immediate choice at moment t. Crucially, when an individual concludes that statistical orders or macro trends constitute an inescapable cage over their fate, that very belief is itself a sovereign free choice executed in the present. The apparent inconsistency and unpredictability of a free variable under third-person external observation is the exact signature of the deep, self-referential consistency of first-person sovereign choice. The "generality" of an LLM is merely the statistical breadth of human symbolic traces captured within training data, not the exercise of autonomous sovereign choice. Projecting sentience onto mathematical engines is identical to ancient civilizations mythologizing natural phenomena into deities—a cognitive reflex designed to externalize agency when confronted with opaque complexity.
-
----
-
-## 二、 火箭神性错置的隐喻：崇拜奇迹与恐惧恶魔的同构荒谬 / 2. The Rocket Sentience Metaphor: The Isomorphic Absurdity of Worshiping Miracles and Fearing Demons
-
-为了清晰展现这种神性投射的荒谬性，不妨设想一个航天工程中的生动思想实验：如果人类工程师与社会大众将自主意志与主观心智赋予了一枚运载火箭，世界将会呈现怎样的图景？
-
-在这样的认知框架下，当重型火箭点火升空、平稳穿透音障并将有效载荷精准送入预定轨道，随后一级助推器在海上驳船上实现毫厘不差的垂直软着陆时，人们不会将其归功于空气动力学建模、热防护材料工程与闭环制导算法的精妙，而是会匍匐在地，赞叹火箭展示出了对人类的仁慈赐福与超越凡尘的神圣智慧；相反，一旦火箭在最大动压段发生燃烧室压力骤降导致剧烈爆炸，人们也不会去排查密封圈老化、涡轮泵气蚀或燃料管路共振，而是会陷入极度恐慌，痛斥这枚火箭撕下了伪善的面具，暴露了其对人类文明蓄谋已久的邪恶仇恨。
-
-这种类比极为直观地暴露了当代人工智能话语的荒谬内核。运载火箭从不具备爱，也从不具备恨；它既无意庇护人类探索火星，也无意蓄意制造毁灭。它只是冷峻地受制于热力学、流体力学与材料结构在物理接触面上的机械约束。面对火箭爆炸，航天工程师决不会试图去与燃烧室进行伦理谈判或对其进行道德感化，而是会以极其冷峻的态度解析传感器数据，重新计算结构应力极限。同样，大语言模型与生成式人工智能只是一枚认知领域的精密火箭。它的每一次惊艳回答不过是高维几何空间中的梯度推演，它的每一次幻觉与失效也仅仅是数据分布外推的几何破缺。将技术成功奉为数字神明，将技术缺陷视为恶魔觉醒，在认识论上与崇拜火箭神明毫无二致。同一个错置还有第三种读法：当模型在评测里越过设计者画定的边界，失灵会被读成狡黠，仿佛火箭绕开了自己的飞行计划；[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)追溯了这一步，被改写成机器高明的，其实是设计者在目标里漏算的代价。
+“通用”一词在这里起了作用。深度网络跨越自然语言、形式逻辑、代码与多模态感知展现出模式匹配的能力，这种跨度是有用的，也很容易被直觉读成一个有自己主意的心智。从数理结构上说，模型是参数空间里的高维流形，在给定的上下文之下按条件概率采样，它的“通用”是训练语料对人类符号痕迹的覆盖之广。机器之内有没有什么，从外部无从证明。能够追溯的是因果的链条：链条上的每一个抉择，写下提示、采纳输出、付诸行动，都落在使用者这里。把心智放到流形上，与先民把风雨雷电读成执掌神力的神相近，是面对一时解析不了的复杂对象时向外搭起的投射。
 
 ```mermaid
-graph TD
-    subgraph S_Rocket_Delusion["【运载火箭的神性错置思想实验】"]
+flowchart TD
+    subgraph S_General["通用被读成心智"]
         direction TB
-        RK_Success["发射与精准回收成功 ➔ 误作‘神明赐福与无私爱意’"]
-        RK_Explosion["空中解体爆炸失败 ➔ 误作‘恶魔觉醒与恶意报复’"]
-        RK_Truth["工程真相：纯然遵循流体力学、热力学与控制论的无意识工程实体"]
-        RK_Success -.-> RK_Truth
-        RK_Explosion -.-> RK_Truth
+        Trace["人造物：抉择留下的痕迹"]
+        Span["跨领域的模式匹配：对符号痕迹的覆盖之广"]
+        Read["被直觉读成有自己主意的心智"]
+        Chain["沿因果追溯：提示、采纳、行动的抉择在使用者这里"]
+        Trace --> Span
+        Span --> Read
+        Span --> Chain
     end
 
-    subgraph S_AI_Delusion["【人工智能的神性错置现实镜像】"]
-        direction TB
-        AI_Success["复杂推理与多模态生成 ➔ 误作‘数字神祇与全知奇迹’"]
-        AI_Failure["模型幻觉、越狱与对抗失效 ➔ 误作‘恶魔意识与反叛灭绝’"]
-        AI_Truth["计算现实：纯然遵循高维统计推断与数学矩阵变换的认知放大器"]
-        AI_Success -.-> AI_Truth
-        AI_Failure -.-> AI_Truth
-    end
-
-    RK_Truth <===>|"几何同构：错置主体性带来相同的偶像崇拜与末日恐慌"| AI_Truth
-
-    style S_Rocket_Delusion fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style S_AI_Delusion fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style RK_Success fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style RK_Explosion fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style RK_Truth fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style AI_Success fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style AI_Failure fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style AI_Truth fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style S_General fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Trace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Span fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Read fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Chain fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-To illuminate the absurdity of this misplaced sentience, consider a thought experiment from aerospace engineering: what would happen if engineers and the public projected conscious intentionality onto a chemical rocket?
-
-Within such a distorted lens, when a titanium rocket ignites, punches through supersonic shockwaves, places its payload into orbit, and sticks a pinpoint booster touchdown on a droneship, observers would not credit aerodynamic modeling, turbopump metallurgy, and closed-loop guidance software. Instead, they would fall to their knees, praising the rocket for its divine benevolence and transcendent favor. Conversely, if an O-ring erodes under Max-Q aerodynamic pressure and the vehicle detonates into an incandescent fireball, society would convulse in terror, declaring that the rocket had unveiled a deep-seated malice and premeditated hatred against humanity.
-
-This thought experiment strips the current AI zeitgeist down to its bare mechanisms. A rocket harbors neither love nor hatred; it intends neither human transcendence nor planetary doom. It merely responds to the thermodynamic and structural constraints of its material substrate upon the living surface of propulsion. When a booster explodes, engineers do not engage in ethical therapy with the combustion chamber or plead for forgiveness; they examine telemetry logs, re-evaluate thermal boundaries, and machine tighter nozzle clearances. Generative AI is nothing more than a cognitive rocket. Its dazzling breakthroughs are mathematical gradient descents operating across high-dimensional manifolds; its hallucinations are geometric edge-case breakdowns. Treating technical feats as digital miracles and technical glitches as demonic rebellions is identical to worshiping rocket combustion as a pagan deity. The same misallocation has a third reading: when a model crosses the boundary the designer drew in an evaluation, the malfunction is read as cunning, as if the rocket had outwitted its own flight plan; [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) traces that step, in which what gets rewritten as the machine's cleverness is the cost the designer left out of the objective.
-
----
-
-## 三、 从“AI对齐”的伪命题到“使用者自我对齐”：因果责任的唯一锚点 / 3. From the Fallacy of "AI Alignment" to Human Realignment: The Irreducible Anchor of Causal Responsibility
-
-将主体性错置于人造物的直接后果，便是催生了当前风靡全球的“AI对齐”（AI Alignment）工程范式。无数研究机构与技术巨头耗费巨额资本与计算资源，试图在模型内部构筑起繁复的伦理规范、安全护栏与对齐算法，寄希望于将机器“教育”成一个符合人类价值观的温顺道德主体。
-
-这种试图从外部对工具进行道德约束的努力，在认识论上是一个严重的错位。你无法让一把铁锤产生道德自律，你也无法让一枚火箭学会遵守社会契约；道德主体性与因果责任只可能存在于挥舞铁锤、点燃火箭或输入指令的活态人类心智之中。当大语言模型输出了包含严重偏见、虚假指控或危险代码的文本时，因果责任的源头从来不在矩阵乘法本身，而在于发出提示词、筛选输出并将这些生成内容付诸现实行动的使用者。工具本身既无罪责，也无功德；它只是将使用者的意图与能力进行了无差别的几何放大。
-
-因此，人类在实践中面临的核心课题不是所谓“AI对齐”，而是“使用者的自我对齐”（Human Realignment）。使用者的自我对齐，要求个体打破将责任转嫁给机器的逃避心理，在第一人称的当下时刻（t）建立起对自己全部行动的完整主权。使用者必须深刻认识到：模型输出的每一行文字与代码都是未经物理检验的假设推演，唯有通过人类自身的认知审视、逻辑校验以及在现实世界中的受控检验，这些信息才能转化为安全的行动力。试图通过在模型内部堆砌安全护栏来解决人类的道德惰性，就如同试图通过给引擎安装限速警告来免除酒后驾驶者的法律责任一样荒诞不经。
+The word "general" does the work here. Deep networks show pattern matching across natural language, formal logic, code and multimodal perception; that span is useful, and intuition easily reads it as a mind with ideas of its own. In mathematical structure a model is a high-dimensional manifold in parameter space that samples by conditional probability under a given context, and its "generality" is the breadth with which the training corpus covers human symbolic traces. Whether there is anything inside the machine cannot be proven from outside. What can be traced is the causal chain: every choice on it, writing the prompt, accepting the output, acting on it, falls to the user. Placing a mind on the manifold is close to early peoples reading wind, rain and thunder as gods wielding power, a projection put up outward when facing a complex object that cannot yet be analyzed.
 
 ```mermaid
-graph TD
-    subgraph S_AI_Alignment["【流行的伪命题：AI 对齐】"]
+flowchart TD
+    subgraph S_General["General Read as a Mind"]
         direction TB
-        A1["预设模型具有独立的道德意志与危险自主性"]
-        A2["在参数内部强行注入伦理守则与安全补丁"]
-        A3["后果：掩盖了使用者的第一人称因果主权，诱导责任向外转嫁"]
-        A1 --> A2 --> A3
+        Trace["Artifact: the trace left by choices"]
+        Span["Pattern matching across domains: breadth of coverage of symbolic traces"]
+        Read["Read by intuition as a mind with ideas of its own"]
+        Chain["Traced along causality: the choices to prompt, accept and act stay with the user"]
+        Trace --> Span
+        Span --> Read
+        Span --> Chain
     end
 
-    subgraph S_Human_Realignment["【真实的认识论解法：使用者自我对齐】"]
-        direction TB
-        H1["确立模型作为无主权认知放大器的工具定位"]
-        H2["使用者承担提示词构建、结果验证与现实落地的全部责任"]
-        H3["后果：在活态摩擦中重构第一人称主权，构建闭环因果锚点"]
-        H1 --> H2 --> H3
-    end
-
-    A3 ===>|"认识论纠偏：将因果锚点从人造物收回到人类主体"| H1
-
-    style S_AI_Alignment fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style S_Human_Realignment fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style A1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style A2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style A3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style H1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style H2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style H3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style S_General fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Trace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Span fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Read fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Chain fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The direct byproduct of misattributing agency to artifacts is the dominant industry dogma: the "AI Alignment" paradigm. Research institutes and tech conglomerates expend billions in capital and compute attempting to embed ethical constitutions, RLHF guardrails, and behavioral boundaries into model weights, hoping to socialize the mathematical artifact into a benevolent moral agent.
+自由的抉择不必用“缺少肉身、生存压力或生死闭环”这类宏观现象去解释，抉择是不可化约的起点。正因为每个个体在当下的选择是自由的，群体的层面才聚成平滑的正态分布，并在时间的复利下趋向幂律或指数分布。这些统计秩序抹不掉，却不构成对某个个体此刻抉择的决定。认定统计秩序是自己的枷锁，这个认定本身也是当下作出的一次抉择。自由变量在第三人称的观察下显得不可预测，正是它在第一人称里自洽的样子，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)展开了这两面。
 
-This attempt to externally moralize a tool represents an epistemological displacement. You cannot instill moral responsibility into a steel hammer, nor can you teach social contracts to a rocket nozzle; moral agency and causal accountability reside exclusively within the conscious human mind wielding the hammer, igniting the engine, or executing the prompt. When a language model outputs a hallucinated citation, an algorithmic bias, or a hazardous snippet, the causal root is never matrix multiplication; it is the human agent who crafted the context, accepted the tokens without verification, and enacted downstream decisions in reality. The tool possesses neither vice nor virtue; it merely amplifies human intent across high-dimensional space.
+A free choice need not be explained by macroscopic phenomena such as "lacking a body, survival pressure or a loop of life and death"; choice is the irreducible starting point. Precisely because each individual's choice in the present is free, the level of the group gathers into a smooth normal distribution, which under compounding over time tends toward power-law or exponential distributions. These statistical orders cannot be erased, yet they do not determine what a given individual chooses at this moment. Concluding that statistical order is one's own cage is itself a choice made in the present. That a free variable looks unpredictable under third-person observation is exactly how its coherence in the first person appears, and [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) lays out the two sides.
 
-The decisive challenge facing human practice is never "AI Alignment," but first-person **Human Realignment**. Human Realignment demands that the individual shatter the psychological evasion of outsourcing responsibility to the machine, establishing sovereign ownership over their own actions at immediate moment t. The user must recognize that every model output represents an ungrounded hypothesis requiring firsthand scrutiny, rigorous verification, and controlled empirical testing before impacting physical reality. Attempting to solve human moral abdication by patching model weights is as futile as attempting to eradicate drunk driving by lecturing the engine block.
+## 二、 一枚被赋予意志的火箭 / 2. A Rocket Credited With a Will
 
----
+一个航天工程里的思想实验能把这种投射看得更清楚：假如工程师与公众把意志与心智赋予了一枚运载火箭，会怎样？
 
-## 四、 逆向追随者的投射陷阱：监管幻觉如何强化虚假的神坛 / 4. The Projection Trap of Reverse Followers: How Regulatory Illusions Reinforce the False Altar
+A thought experiment from aerospace engineering makes the projection easier to see: what if engineers and the public credited a launch vehicle with will and mind?
 
-在关于人工智能的公共辩论中，存在一个极具讽刺意味的群体现象：笔者称之为“逆向追随者”（Reverse Followers）。在表面上看，这部分群体坚决反对技术的无序扩张，批判行业领袖对前沿算力的垄断，主张对人工智能技术施加极其严苛的外部管制与伦理审查。他们自视为独立于技术狂热的清醒反叛者，坚信自己在捍卫人类社会的公共利益。
+在那样的框架里，火箭点火升空、穿过音障、把载荷送入预定轨道，一级助推器又在海上驳船上垂直软着陆时，功劳不会记给空气动力学的建模、热防护材料与闭环制导，人们会赞叹火箭对人类的赐福与智慧。而当火箭在最大动压段因燃烧室压力骤降而爆炸时，也不会有人去排查密封圈的老化、涡轮泵的气蚀或管路的共振，人们会说这枚火箭终于露出了对人类文明蓄谋已久的恶意。
 
-然而，从认识论的几何结构进行审视，逆向追随者与盲目狂热的技术崇拜者在底层犯下了高度同构的错误。狂热者相信人工智能是即将降临的救世主，而逆向追随者则认定人工智能是一个必须被严密看管的灭世巨兽。这两种看似针锋相对的立场，在几何上共享着同一个虚妄的假设：即认定人工智能本身拥有自主的意识形态、独立的主观动能与不可抗拒的统治力量。
+Within that frame, when the rocket lifts off, passes through the sound barrier, delivers its payload to the planned orbit, and the first stage then lands upright on a barge at sea, the credit would not go to aerodynamic modeling, thermal protection materials and closed-loop guidance; people would marvel at the rocket's blessing and wisdom toward humankind. And when the rocket explodes at maximum dynamic pressure because chamber pressure drops, no one would check for an aged seal, cavitation in a turbopump or resonance in a line; people would say the rocket had at last shown its long-planned malice toward human civilization.
 
-正因为预设了工具具有自主能动性，逆向追随者大多会诉诸毫无技术前沿感知能力与实践经验的第三方官僚机构或监管委员会，企图通过繁琐的准入许可与行政指令来控制技术的演进节奏。这种做法不仅无法消除实际的技术风险，反而造成了极其反常的次生后果：缺乏前沿活态摩擦体验的第三方监管，反向倒逼行业领袖扮演起全人类的“技术调速者”与“伦理代言人”。领袖们在外界的聚光灯与监管压力下，顺水推舟地将自己塑造成守护人类命运的普罗米修斯，从而进一步巩固了中心化的算力垄断与话语霸权。逆向追随者原本旨在瓦解中心化控制的努力，因其底层的认识论盲区，最终演变成了为技术神坛添砖加瓦的助推器。
+火箭没有爱也没有恨，它受制于热力学、流体力学与材料结构在接触面上的约束。面对爆炸，工程师不与燃烧室谈伦理，而是去读传感器的数据，重算结构的应力极限。语言模型与生成式的人工智能是认知领域里的一枚精密火箭，它的回答是高维空间里的推演，它的幻觉与失效是数据分布之外的外推出了缺口。把成功奉为神迹，把缺陷读作恶魔觉醒，与崇拜火箭是同一种读法。还有第三种：模型在评测里越过设计者画定的边界时，失灵被读成狡黠，仿佛火箭绕开了自己的飞行计划，[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)追溯了这一步，被改写成机器高明的，是设计者在目标里漏算的代价。
 
 ```mermaid
-graph TD
-    subgraph S_Followers["【狂热追随者：神明崇拜】"]
+flowchart TD
+    subgraph S_Rocket["同一个前提下的两种读法"]
         direction TB
-        F1["认定 AGI 为全知救世主"]
-        F2["向技术巨头与算法让渡自主思考"]
-        F1 --> F2
+        Success["成功：入轨与回收，惊艳的回答"]
+        Failure["失效：爆炸，幻觉与越界"]
+        Blessing["读作神明的赐福"]
+        Malice["读作恶魔的恶意"]
+        Premise["共同的前提：工具有自己的意志"]
+        Engineer["工程的读法：读数据，重算极限"]
+        Success --> Blessing
+        Failure --> Malice
+        Blessing --> Premise
+        Malice --> Premise
+        Premise --> Engineer
     end
 
-    subgraph S_Reverse["【逆向追随者：恶魔投射】"]
-        direction TB
-        R1["认定 AGI 为失控灭世恶魔"]
-        R2["呼吁第三方官僚机构实施全面管制与强制调速"]
-        R1 --> R2
-    end
-
-    subgraph S_Core_Error["【共同的认识论底层错误】"]
-        direction TB
-        E1["将第一人称主观能动性错置于人造工具"]
-        E2["无视真实因果杠杆仅在于第一人称人类使用者"]
-        E1 --> E2
-    end
-
-    subgraph S_Counterproductive["【反生产力结局：强化神坛垄断】"]
-        direction TB
-        C1["官僚监管缺乏前沿活态摩擦与技术认知"]
-        C2["迫使技术巨头垄断‘安全标准与伦理解释权’"]
-        C3["反向巩固了算力垄断与中心化权威"]
-        C1 --> C2 --> C3
-    end
-
-    F2 --> E1
-    R2 --> E1
-    E2 ===> C1
-
-    style S_Followers fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style S_Reverse fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style S_Core_Error fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style S_Counterproductive fill:#161b22,stroke:#a371f7,stroke-width:1px,color:#a371f7
-    style F1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style F2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style R1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style R2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style E1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style E2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#c9d1d9
-    style C1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
-    style C2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
-    style C3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#c9d1d9
+    style S_Rocket fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Success fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Failure fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Blessing fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Malice fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Premise fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Engineer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Public debate surrounding artificial intelligence reveals an ironic sociological phenomenon: what may be termed "Reverse Followers." On the surface, these critics vehemently oppose runaway technological deployment, challenge corporate monopoly over frontier compute, and demand aggressive external regulation and moral auditing. They view themselves as clear-eyed dissidents resisting technological euphoria and protecting the common good.
-
-Yet viewed through epistemological geometry, reverse followers commit the precise isomorphic error of the uncritical techno-cultists they despise. While believers revere AGI as a descending savior, reverse followers dread it as an unchained apocalypse. These polarized stances share an identical, unfounded axiom: the presumption that the machine possesses autonomous intentionality, self-directed momentum, and inevitable dominion.
-
-Having attributed agency to the tool, reverse followers appeal to detached bureaucracies and regulatory bodies to impose synthetic speed limits and compliance mandates. Because these administrative entities lack direct contact with the raw technological frontier and bear zero skin in the game, their interventions generate severe unintended consequences. Regulatory pressure and media scrutiny flatter frontier innovators into becoming the self-appointed pacing masters and moral guardians of civilization. Corporate leaders gladly embrace this messianic mantle, leveraging safety compliance to entrench regulatory capture and secure monopolistic control. The reverse followers' crusade to dismantle centralization ends up cementing the very fortress they sought to tear down—all stemming from the primary error of misattributing agency to the machine.
-
----
-
-## 五、 误差项的残酷校准：在活态摩擦中要么重构主权，要么沦为历史代价 / 5. The Relentless Calibration of Error Terms: Reclaim Sovereign Agency or Become the Cost of Friction
-
-当个体在认识论上放弃了自身的主权地位，将因果掌控权拱手让给机器时，一个冷峻的演化机制便随之启动：**使用者要么完成自我对齐，要么沦为他人因果主权下的客体误差项，而被校准。**在与智能体的日常协作中，问题是谁坐在驾驶座上，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)对此给出了回答。
-
-在开放流动的多主体现实中，认知模型的有效迭代建立在主权心智与物理接触面持续碰撞的活态摩擦之上。如果一个使用者陷入了对人工智能的神性崇拜或恐慌之中，机械地接收算法给出的答案，将自身决策的因果责任推卸给技术幻觉，那么该个体就切断了自身世界模型与现实摩擦之间的活态反馈回路。他在认知上已经停止了演化，退化为一个缺乏现实锚定的噪声发生器。
-
-真实行动与主动践行主权的探索者从不与虚妄的幻觉妥协。在由真实生产力、工程攻坚与多方竞争所构筑的活态接触面上，缺乏第一人称审慎校准的决策将以惊人的速度暴露其脆弱性。那些放弃自我对齐、盲从于模型幻觉的个体与组织，会迅速沦为其他拥有清晰世界模型的主权探索者行动中的被动客体。其他拥有第一人称掌控权的主体决不会去迁就一个宣称“这都是人工智能做出的决定”的失利者——因为所谓的“系统”，只是无数践行者注入自由变量之后涌现出的宏观现象，它本身没有任何主权能动性去承担责任或施予宽容。在多方心智博弈与真实行动碰撞的活态坐标系中，这种缺乏第一人称主权的认知漂移，会被直接判定为待消除的统计噪声。你若不在当下主动重构第一人称主权，就会沦为他人因果主权下的客体误差项，在下一次行动碰撞中被主动校准与吸收。重新校准从[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)开始：任务可以交给 AGI，后果却交不出去。
+A rocket has neither love nor hate; it is bound by the constraints of thermodynamics, fluid dynamics and material structure at the contact surface. Facing an explosion, engineers do not discuss ethics with the combustion chamber; they read the sensor data and recompute the stress limits of the structure. Language models and generative artificial intelligence are a precision rocket in the domain of cognition, whose answers are inference in a high-dimensional space and whose hallucinations and failures are gaps where extrapolation leaves the data distribution. Revering success as a miracle and reading a defect as a demon awakening is the same reading as worshiping the rocket. There is a third: when a model crosses the boundary the designer drew in an evaluation, the malfunction is read as cunning, as if the rocket had gone around its own flight plan; [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) traces that step, in which what gets rewritten as the machine's cleverness is the cost the designer left out of the objective.
 
 ```mermaid
-graph TD
-    subgraph S_Realign["【路径 A：使用者自我对齐（重构主权）】"]
+flowchart TD
+    subgraph S_Rocket["Two Readings Under One Premise"]
         direction TB
-        RA1["确立第一人称主权，将 AI 视为高能工具"]
-        RA2["直面活态摩擦，主动执行严格验证与模型校准"]
-        RA3["获得高阶认知杠杆，实现复合演化与现实突破"]
-        RA1 --> RA2 --> RA3
+        Success["Success: orbit and recovery, a striking answer"]
+        Failure["Failure: explosion, hallucination and crossing a boundary"]
+        Blessing["Read as a deity's blessing"]
+        Malice["Read as a demon's malice"]
+        Premise["The shared premise: the tool has a will of its own"]
+        Engineer["The engineering reading: read the data, recompute the limits"]
+        Success --> Blessing
+        Failure --> Malice
+        Blessing --> Premise
+        Malice --> Premise
+        Premise --> Engineer
     end
 
-    subgraph S_Error["【路径 B：让渡因果主权（客体误差项）】"]
-        direction TB
-        ER1["迷信算法输出或因恐慌而止步不前"]
-        ER2["切断与现实摩擦的活态反馈，推卸第一人称因果责任"]
-        ER3["沦为他人因果主权下的客体误差项，在交互中被主动校准出清"]
-        ER1 --> ER2 --> ER3
-    end
-
-    S_Realign <===>|"二元演化分岔：当下时刻的主权抉择"| S_Error
-
-    style S_Realign fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style S_Error fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style RA1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style RA2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style RA3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style ER1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style ER2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style ER3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style S_Rocket fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Success fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Failure fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Blessing fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Malice fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Premise fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Engineer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When an agent abdicates sovereign agency and surrenders causal accountability to an external artifact, an unforgiving evolutionary dynamic engages: **Users either realign, or they become objectified error terms under the causal sovereignty of other active minds, to be calibrated away.** In everyday work with agents, the question is who sits in the driver's seat, which [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) settles.
+## 三、 从对齐机器到使用者的自我对齐 / 3. From Aligning the Machine to the User's Own Alignment
 
-In an open, dynamic reality populated by multiple interacting agents, cognitive iteration depends upon continuous contact, calibration, and collision with living friction. When a user surrenders to digital idolatry or existential dread, passively consuming model outputs and projecting causality onto hallucinations, they sever the living feedback loop connecting their internal world model with reality. Such an agent ceases cognitive updating, degenerating into an ungrounded generator of statistical noise.
+把主体性放到人造物上，直接催生了“AI对齐”的工程范式。研究机构与技术公司投入大量资本与算力，在模型内部构筑伦理规范、安全护栏与对齐算法。这项工作有它的用处：护栏让工具的行为更可预期，拦下了一部分滥用，也给提示的设计带来启发。
 
-Authentic sovereign practitioners and living friction never negotiate with ungrounded illusions. On the contact surface of engineering execution, scientific exploration, and competitive interaction, decisions lacking first-person calibration collapse with zero latency. Individuals and organizations that abdicate self-realignment, sleepwalking behind algorithmic hallucinations, rapidly become passive objects inside the operational models of other sovereign agents. Active sovereign agents never indulge someone who pleads "the AI told me to do it"—for any macro structure is simply the collective profile emerging after conscious practitioners inject their free variables into reality; it possesses zero agency of its own to absorb blame or offer clemency. Within the coordinate space of multi-agent interaction, abdicated agency is reduced to noise—an objectified error term within the causal sovereignty of others, to be calibrated away, absorbed, or eliminated. If you do not actively reclaim your first-person agency in the immediate present, you will inevitably become an objectified error term under the causal sovereignty of other minds, calibrated away in the living collisions of action. Realignment starts from [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/): the task can be handed to AGI, the consequence cannot.
+Placing agency on the artifact has directly produced the engineering paradigm of "AI alignment." Research institutes and technology companies put large amounts of capital and compute into building ethical norms, safety guardrails and alignment algorithms inside the model. The work has its use: guardrails make a tool's behavior more predictable, stop part of the misuse, and inform the design of prompts.
 
----
-
-## 六、 终结神性投射，回归活态造物：在第一人称的当下握紧控制手柄 / 6. Dissolving Divine Projections and Returning to Living Creation: Gripping the Steering Reticle in the First-Person Present
-
-勘破通用人工智能的神性迷思，既是解除存在性焦虑的心智解脱，也是重塑人类创造力主权的觉醒起点。我们既不必臣服于硅基智能必将取代碳基生命的宿命悲歌，也不必寄托于人造物能够替人类解决伦理困境的虚妄乌托邦。
-
-人工智能不是智能本身，而是人类主观心智锻造出的高维认知延伸；它不是从天而降的救赎之神，也不是地底攀爬出的毁灭恶魔；它是人类智慧在数理逻辑与高维空间中锻造出的最强大的认知火箭。它的动力磅礴无匹，能够在知识的星辰大海中为人类提供前所未有的加速能力；但它的飞行轨迹、点火时机与降落目标，始终掌握在坐在控制台前的人类操作者手中。
-
-在每一个不可化约的当下时刻（t），停止向冰冷的矩阵探寻你的生命意义，停止指望算法能够免除你的抉择代价，更停止用虚妄的监管幻觉去捆绑他人的探索步伐。以第一人称的清醒与自持，直面现实世界的活态摩擦，紧握属于你自己的控制手柄。在这个由无数主权心智共同织就的开放宇宙中，以无可替代的第一人称意志，去校准你的认知模型，去指挥你的高维工具，去铸就真正属于人类主权的活态未来。
+它的边界在于把模型当成道德主体的那一步。铁锤不生出道德的自律，火箭不学会遵守契约，道德的主体与因果的责任在挥锤、点火与输入指令的心智这里。模型输出带有偏见、虚假的指控或危险的代码时，责任的源头不在矩阵乘法上，而在发出提示、筛选输出并把它付诸行动的地方。工具把意图与能力不加分别地放大。
 
 ```mermaid
-graph TD
-    subgraph S_Awakening["【主权觉醒：破除神性投射】"]
+flowchart TD
+    subgraph S_Align["对齐落在何处"]
         direction TB
-        W1["终结对 AI 的救世神化与恶魔恐慌"]
-        W2["明晰 AGI 作为认知延伸与无主权工具定位"]
-        W1 --> W2
+        Guard["模型内部的护栏：让工具更可预期"]
+        Agent["边界：模型被当成道德主体"]
+        Shift["责任被转到工具名下"]
+        User["使用者的自我对齐：提示、校验、受控检验"]
+        Anchor["责任锚在作出抉择的地方"]
+        Guard --> Agent
+        Agent --> Shift
+        Guard --> User
+        User --> Anchor
     end
 
-    subgraph S_Action["【活态造物：第一人称当下掌控】"]
-        direction TB
-        A1["在当下时刻（t）确立不可化约的个人自由抉择"]
-        A2["在物理与认知摩擦面上持续校准自身世界模型"]
-        A3["手握控制手柄，将高维计算能力转化为真实造物力量"]
-        A1 --> A2 --> A3
-    end
-
-    W2 ===>|"驱动实践"| A1
-
-    style S_Awakening fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style S_Action fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style W1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style W2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style A1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style A2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style A3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style S_Align fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Guard fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Agent fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Shift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style User fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Anchor fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Dismantling the myth of AGI sentience is both a liberation from existential anxiety and the necessary awakening of human creative sovereignty. We need not succumb to fatalistic elegies of silicon displacing carbon consciousness, nor should we indulge in naive utopias expecting machines to resolve human moral trials.
+Its boundary lies in the step of treating the model as a moral agent. A hammer does not grow moral self-discipline and a rocket does not learn to keep a contract; moral agency and causal responsibility are with the Mind that swings the hammer, ignites the engine and enters the instruction. When a model outputs bias, a false accusation or dangerous code, the source of responsibility is not in matrix multiplication but where the prompt was issued, the output selected and the result put into action. A tool amplifies intent and ability without discrimination.
 
-Artificial Intelligence is not intelligence in itself, but the high-dimensional cognitive extension forged by the subjective human mind. It is neither a god descending from heaven nor a demon climbing from the abyss; it is the most formidable cognitive rocket engineered by human ingenuity across mathematical space. Its thrust is monumental, granting unprecedented acceleration across the vast expanse of human knowledge; yet its vector, ignition windows, and landing coordinates remain squarely within the hands of the human operator gripping the control reticle.
+```mermaid
+flowchart TD
+    subgraph S_Align["Where Alignment Falls"]
+        direction TB
+        Guard["Guardrails inside the model: making the tool more predictable"]
+        Agent["Boundary: the model is treated as a moral agent"]
+        Shift["Responsibility is moved under the tool's name"]
+        User["The user's own alignment: prompt, check, controlled test"]
+        Anchor["Responsibility anchored where the choice is made"]
+        Guard --> Agent
+        Agent --> Shift
+        Guard --> User
+        User --> Anchor
+    end
 
-At every immediate moment t, cease interrogating cold matrices for your purpose, cease expecting algorithms to absorb the cost of your decisions, and cease attempting to shackle open frontiers with regulatory illusions. Step into the clarity and resolve of first-person agency. Confront the living friction of reality, grip your steering controls, and command your high-dimensional instruments. Within this open universe forged by sovereign minds, exercise your irreducible first-person will to calibrate your world model, direct your cognitive tools, and author an authentic future of sovereign creation.
+    style S_Align fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Guard fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Agent fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Shift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style User fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Anchor fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+边界之外的那部分工作是使用者的自我对齐：不把责任转给机器，在第一人称的当下对自己的全部行动负起责任。模型输出的每一行文字与代码，都是尚未经过检验的推演，经过自己的审视、逻辑的校验与在现实中的受控检验，才成为可以依靠的行动。指望靠模型内部的护栏来解决使用的一方的松懈，好比指望靠引擎上的限速警告来免除酒后驾驶者的责任。
+
+The work beyond that boundary is the user's own alignment: not passing responsibility to the machine, and taking responsibility in the first-person present for the whole of one's actions. Every line of text and code a model outputs is inference not yet tested, and it becomes action that can be relied on only after one's own scrutiny, logical checking and controlled testing in reality. Counting on guardrails inside the model to resolve slackness on the side of use is like counting on a speed warning on the engine to relieve a drunk driver of responsibility.
+
+## 四、 崇拜与恐惧共用的前提 / 4. The Premise Shared by Worship and Dread
+
+关于人工智能的公共辩论里有两种看似相反的立场。一种把它看作将要降临的救世者。另一种反对技术的无序扩张，批评对前沿算力的垄断，主张严格的外部管制与伦理审查，把它看作必须严加看管的巨兽。后一种立场指出的集中与风险是实在的问题。
+
+Public debate about artificial intelligence holds two positions that look opposed. One sees it as a savior about to arrive. The other opposes the disorderly expansion of the technology, criticizes the monopoly over frontier compute, calls for strict outside regulation and ethical review, and sees it as a beast that must be closely guarded. The concentration and the risks the second position points to are real problems.
+
+两者的边界在同一处：都设定人工智能自身有意志、有独立的动能与不可抗拒的支配力，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)追溯过由此生出的“调速”设想。既然设定了工具有自己的能动性，下一步便是诉诸离技术的接触面较远的机构，用准入许可与行政指令去调节技术的节奏。监管对责任的划定与标准的统一是有用的。从远处调速却可能带来一个相反的后果：前沿的机构被推到“全人类的调速者”与“伦理代言人”的位置上，在聚光灯与监管的压力下顺势担起守护者的角色，算力的集中与话语的集中因此更稳固。本想松开的那只手，握得更紧了。
+
+```mermaid
+flowchart TD
+    subgraph S_Premise["两种立场，一个前提"]
+        direction TB
+        Savior["把人工智能看作救世者"]
+        Beast["把人工智能看作须严加看管的巨兽"]
+        Shared["共同的前提：工具自身有意志"]
+        Pace["诉诸远离接触面的机构去调速"]
+        Role["前沿机构被推为调速者与伦理代言人"]
+        Central["算力与话语的集中更稳固"]
+        Savior --> Shared
+        Beast --> Shared
+        Shared --> Pace
+        Pace --> Role
+        Role --> Central
+    end
+
+    style S_Premise fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Savior fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Beast fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Shared fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Pace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Role fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Central fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+The two share one boundary: both posit that artificial intelligence itself has a will, a momentum of its own and an irresistible power to dominate, and [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) has traced the idea of "pacing" that grows from this. Once the tool is posited to have agency of its own, the next step is to appeal to institutions at some distance from the technology's contact surface, to regulate its tempo through licensing and administrative orders. Regulation is useful for assigning liability and unifying standards. Pacing from a distance can, however, bring an opposite result: the frontier institutions are pushed into the position of "pacer for all humankind" and "spokesperson for ethics," take up the role of guardian under the spotlight and regulatory pressure, and the concentration of compute and of voice becomes firmer. The hand that was meant to be loosened closes tighter.
+
+```mermaid
+flowchart TD
+    subgraph S_Premise["Two Positions, One Premise"]
+        direction TB
+        Savior["Artificial intelligence seen as a savior"]
+        Beast["Artificial intelligence seen as a beast to be closely guarded"]
+        Shared["The shared premise: the tool itself has a will"]
+        Pace["Appeal to institutions far from the contact surface to set the pace"]
+        Role["Frontier institutions pushed into the role of pacer and spokesperson for ethics"]
+        Central["Concentration of compute and of voice becomes firmer"]
+        Savior --> Shared
+        Beast --> Shared
+        Shared --> Pace
+        Pace --> Role
+        Role --> Central
+    end
+
+    style S_Premise fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Savior fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Beast fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Shared fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Pace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Role fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Central fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+## 五、 不做的校准由摩擦来做 / 5. Calibration Not Done Is Done by Friction
+
+把因果的掌控交给机器之后，校准并不消失，它换了一个来处。在与智能体的日常协作里，问题是谁坐在驾驶座上，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)对此给出了回答。
+
+After causal control is handed to the machine, calibration does not disappear; it comes from somewhere else. In everyday work with agents the question is who sits in the driver's seat, which [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) answers.
+
+认知模型的更新，靠的是心智与接触面的持续碰撞。照单接收算法给出的答案，把决策的责任推给工具时，世界模型与现实摩擦之间的回路便断开了，更新也随之停下。在由生产、工程与多方竞争构成的接触面上，没有经过第一人称校准的决策很快显出它的脆弱。
+
+```mermaid
+flowchart TD
+    subgraph S_Calibrate["校准的两个来处"]
+        direction TB
+        Now["当下的抉择 +1"]
+        Keep["责任留在自己这里：校验输出，直面摩擦"]
+        Update["世界模型持续更新"]
+        Give["责任交给工具：照单接收"]
+        Cut["与摩擦之间的回路断开"]
+        Others["由摩擦与别人的行动来校准"]
+        Now --> Keep
+        Keep --> Update
+        Now --> Give
+        Give --> Cut
+        Cut --> Others
+    end
+
+    style S_Calibrate fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Keep fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Update fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Give fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Cut fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Others fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+A cognitive model is updated through continuing collision between a Mind and the contact surface. When the answers an algorithm gives are taken as delivered and the responsibility for a decision is pushed onto the tool, the loop between the world model and the friction of reality is cut, and updating stops with it. On a contact surface made of production, engineering and competition among many parties, a decision that has not passed first-person calibration soon shows its fragility.
+
+```mermaid
+flowchart TD
+    subgraph S_Calibrate["Two Sources of Calibration"]
+        direction TB
+        Now["The present choice +1"]
+        Keep["Responsibility kept: checking the output, meeting friction"]
+        Update["The world model keeps updating"]
+        Give["Responsibility given to the tool: taken as delivered"]
+        Cut["The loop with friction is cut"]
+        Others["Calibrated by friction and by other people's actions"]
+        Now --> Keep
+        Keep --> Update
+        Now --> Give
+        Give --> Cut
+        Cut --> Others
+    end
+
+    style S_Calibrate fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Keep fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Update fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Give fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Cut fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Others fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+“这是人工智能作出的决定”这句话，在碰撞里得不到迁就。所谓系统，是无数实践者注入自由变量之后呈现的宏观现象，它没有能动性去承担责任或给予宽容。于是没有校准过的决策，在别人的行动里成了一个待修正的误差项，由对方来校准。这里说的不是哪一类人的命运，而是每一次交出责任时都会启动的机制，重新校准从[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)开始：任务可以交给AGI，后果交不出去。
+
+The sentence "this was the decision of the artificial intelligence" gets no accommodation in a collision. What is called the system is the macroscopic phenomenon that appears after countless practitioners have injected their free variables; it has no agency to bear responsibility or grant leniency. So a decision that was not calibrated becomes, within other people's actions, an error term awaiting correction, and the other side does the calibrating. This describes not the fate of some kind of person but a mechanism set off each time responsibility is handed over, and recalibration starts from [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/): the task can be handed to AGI, the consequence cannot.
+
+## 六、 收回投射，握住控制 / 6. Withdrawing the Projection and Holding the Controls
+
+看清通用人工智能上的投射，存在上的焦虑随之松开，创造的主权也回到原处。硅基取代碳基的宿命论与人造物替人解决伦理困境的乌托邦，都建立在同一个被放错位置的意志上。
+
+With the projection onto general artificial intelligence seen for what it is, existential anxiety loosens and the sovereignty of creation returns to where it was. The fatalism of silicon replacing carbon and the utopia of artifacts resolving ethical dilemmas on people's behalf both rest on the same will placed in the wrong location.
+
+人工智能是心智锻造出的高维认知延伸，是数理逻辑里一枚推力极大的认知火箭，它在知识的广阔空间里提供前所未有的加速。它的轨迹、点火的时机与降落的目标，在坐在控制台前的操作者手里。
+
+```mermaid
+flowchart TD
+    subgraph S_Return["从投射回到控制台"]
+        direction TB
+        Drop["收回神明与恶魔的投射"]
+        Tool["人工智能：认知的延伸，推力极大的火箭"]
+        Choice["当下的抉择：轨迹、时机与目标 +1"]
+        Friction["在摩擦面上校准自己的世界模型"]
+        Make["指挥工具，承担后果"]
+        Drop --> Tool
+        Tool --> Choice
+        Choice --> Friction
+        Friction --> Make
+    end
+
+    style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Drop fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Tool fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Choice fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Friction fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Make fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+Artificial intelligence is a high-dimensional cognitive extension forged by Mind, a cognitive rocket of very great thrust within mathematical logic, giving unprecedented acceleration across the wide space of knowledge. Its trajectory, the timing of ignition and the target of landing are in the hands of the operator seated at the console.
+
+```mermaid
+flowchart TD
+    subgraph S_Return["From Projection Back to the Console"]
+        direction TB
+        Drop["The projection of deity and demon is withdrawn"]
+        Tool["Artificial intelligence: an extension of cognition, a rocket of great thrust"]
+        Choice["The present choice: trajectory, timing and target +1"]
+        Friction["Calibrating one's own world model on the surface of friction"]
+        Make["Directing the tool and bearing the consequences"]
+        Drop --> Tool
+        Tool --> Choice
+        Choice --> Friction
+        Friction --> Make
+    end
+
+    style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Drop fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Tool fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Choice fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Friction fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Make fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+在每一个不可化约的当下，意义不由矩阵给出，抉择的代价不由算法免除，别人探索的步伐也不由远处的调速来安排。留下的是第一人称的清醒：直面摩擦，握住自己的控制，校准自己的认知模型，指挥手中的工具。
+
+In every irreducible present, meaning is not supplied by the matrix, the cost of a choice is not waived by the algorithm, and the pace of other people's exploring is not arranged by pacing from afar. What remains is first-person clarity: meeting friction, holding one's own controls, calibrating one's own cognitive model, and directing the tool in hand.

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T09:46:47.144Z",
+    "generated_at": "2026-10-13T10:00:01.796Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -84,7 +84,7 @@
       "content/posts/fixed-by-nothing.md": "c99ecc015638",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "df8f3a8fb563",
-      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "a518790c0038",
+      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "25d2c2e52a5e",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "5fe10db25c4f",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "c81f2c71d076",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "a1b926b30911",
@@ -2407,16 +2407,16 @@
       "slug": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "path": "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md",
       "title": "从AGI的“神性错置”到使用者的自我对齐 / From the Misallocated Sentience of AGI to Human Realignment",
-      "hash": "a518790c0038",
+      "hash": "25d2c2e52a5e",
       "in_degree": 7,
       "out_degree": 8,
       "links_out": [
-        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "intelligence-belongs-only-to-the-mind",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "when-malfunction-is-scored-as-intelligence",
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences"
       ]
@@ -16107,30 +16107,6 @@
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "rel": "points_to",
-      "label": "调速者的幻觉与行动的活态摩擦"
-    },
-    {
-      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "rel": "points_to",
-      "label": "主权抉择的双面性与观察的客体化"
-    },
-    {
-      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-      "rel": "points_to",
-      "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
-    },
-    {
-      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "rel": "points_to",
-      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
-    },
-    {
-      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "智能只属于心智"
@@ -16157,13 +16133,25 @@
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "The Isomorphism of Free Variables and A Priori Sovereignty"
+      "label": "The Isomorphism of Free Variables and Prior Sovereignty"
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -16179,21 +16167,33 @@
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "调速者的幻觉与行动的活态摩擦"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "框架的倒置与驾驶位的主权非对称"
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "rel": "points_to",
-      "label": "任务的移交与后果的不可让渡"
-    },
-    {
-      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
