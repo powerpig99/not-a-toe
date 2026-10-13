@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T18:11:44.017Z",
+    "generated_at": "2026-10-13T18:23:53.403Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -249,7 +249,7 @@
       "content/posts/the-generative-contradiction.md": "181c40e6e269",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "2335c049939e",
       "content/posts/the-generative-topology-of-free-variables.md": "7a3c85d5294c",
-      "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "a338ecae0be1",
+      "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "a0a3f5bb23b7",
       "content/posts/the-geometry-of-emergence.md": "89925e3a76ab",
       "content/posts/the-geometry-of-mind.md": "92932a073669",
       "content/posts/the-geometry-of-success.md": "dc47507d236b",
@@ -418,12 +418,12 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5477,
-      "unique_directed": 4507,
+      "edges": 5483,
+      "unique_directed": 4510,
       "missing_targets": 0,
-      "one_way": 113,
-      "isolated": 37,
-      "posts_with_outbound": 353,
+      "one_way": 116,
+      "isolated": 36,
+      "posts_with_outbound": 354,
       "book_pages": 16,
       "book_edges": 982,
       "posts_reached_by_book": 391
@@ -622,7 +622,6 @@
     "the-collapsed-debate",
     "the-defining-seat",
     "the-descent-that-doesnt-know-where-its-going",
-    "the-geometry-of-coexistence-and-the-dual-cut",
     "the-illusion-of-distance-and-the-dual-ruler",
     "the-interesting-case-of-rubin",
     "the-loop-accelerates",
@@ -5833,7 +5832,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "57ec612f18d1",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 5,
       "links_out": [
         "consciousness-ascription-and-the-quantum-cut",
@@ -6479,10 +6478,14 @@
       "slug": "the-geometry-of-coexistence-and-the-dual-cut",
       "path": "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md",
       "title": "共存的几何学 / The Geometry of Coexistence",
-      "hash": "a338ecae0be1",
+      "hash": "a0a3f5bb23b7",
       "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "out_degree": 3,
+      "links_out": [
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-cut-moves-but-never-vanishes",
+        "when-electrons-think"
+      ]
     },
     {
       "id": "post:the-geometry-of-emergence",
@@ -8726,7 +8729,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "132e275da6fc",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 19,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -9377,7 +9380,7 @@
       "path": "content/posts/when-electrons-think.md",
       "title": "当电子开始思考 / When Electrons Think",
       "hash": "fbdd3178e8f3",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "objects-are-stabilized-relationships",
@@ -30850,6 +30853,42 @@
       "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "rel": "points_to",
       "label": "The free mind is displaced by what claims to protect it"
+    },
+    {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "when-electrons-think",
+      "rel": "points_to",
+      "label": "当电子开始思考"
+    },
+    {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "when-electrons-think",
+      "rel": "points_to",
+      "label": "When Electrons Think"
     },
     {
       "from": "the-geometry-of-emergence",
