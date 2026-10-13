@@ -229,7 +229,32 @@ function formatInline(text) {
   return processed;
 }
 
-function markdownToHtml(markdownBody) {
+// A bilingual post is written with each Chinese block followed by its English one. The page can show one language
+// at a time, so each top-level block is marked with the language it is in (data-l), and a heading written as
+// `中文 / English` is split into its two halves. A block with no letters of either kind (a rule, a picture) is left
+// unmarked and always shows. A flow chart is read by its quoted labels, since its syntax is Latin either way.
+const CJK = /[\u3400-\u9fff]/g, LATIN = /[A-Za-z]/g;
+function languageOf(text) {
+  const zh = (text.match(CJK) ?? []).length, en = (text.match(LATIN) ?? []).length;
+  return zh + en === 0 ? null : zh / (zh + en) > 0.25 ? 'zh' : 'en';
+}
+function splitLanguages(inner) {
+  for (let at = inner.indexOf(' / '); at >= 0; at = inner.indexOf(' / ', at + 1)) {
+    const left = inner.slice(0, at), right = inner.slice(at + 3);
+    if (languageOf(left.replace(/<[^>]+>/g, '')) === 'zh' && languageOf(right.replace(/<[^>]+>/g, '')) === 'en') return `<span data-l="zh">${left}</span><span class="l-sep"> / </span><span data-l="en">${right}</span>`;
+  }
+  return null;
+}
+function markLanguage(chunk) {
+  const heading = /^<(h[1-6])>([\s\S]*)<\/\1>$/.exec(chunk);
+  if (heading) { const halves = splitLanguages(heading[2]); if (halves) return `<${heading[1]}>${halves}</${heading[1]}>`; }
+  const chart = /<pre class="mermaid">([\s\S]*?)<\/pre>/.exec(chunk);
+  const text = chart ? ((chart[1].match(/&quot;[\s\S]*?&quot;/g) ?? [chart[1]]).join(' ')).replace(/&[a-z#0-9]+;/g, ' ') : chunk.replace(/<[^>]+>/g, ' ').replace(/&[a-z#0-9]+;/g, ' ');
+  const lang = /^<(hr|figure)\b/.test(chunk) ? null : languageOf(text);
+  return lang ? chunk.replace(/^<([a-z0-9]+)/, `<$1 data-l="${lang}"`) : chunk;
+}
+
+function markdownToHtml(markdownBody, { bilingual = false } = {}) {
   const lines = markdownBody.split(/\r?\n/);
   const chunks = [];
 
@@ -465,7 +490,7 @@ function markdownToHtml(markdownBody) {
   }
 
   flushAll();
-  return chunks.join('\n');
+  return (bilingual ? chunks.map(markLanguage) : chunks).join('\n');
 }
 
 function getFileDate(filePath) {
@@ -791,7 +816,12 @@ function readPosts(files) {
 
     const markdownBody = lines.slice(1).join('\n').trimStart();
     const { subtitle, lead, bodyMarkdown } = extractOpening(markdownBody);
-    const htmlBody = markdownToHtml(bodyMarkdown || markdownBody);
+    const bilingual = splitLanguages(escapeHtml(title)) !== null;
+    const htmlBody = markdownToHtml(bodyMarkdown || markdownBody, { bilingual });
+    // A bilingual post whose two languages do not have the same number of blocks was not written in strict alternation:
+    // one language alone would be a partial post, so it opens with both until it is brought into balance.
+    const blocks = (lang) => (htmlBody.match(new RegExp(`^<(?:p|div|ul|ol|blockquote|pre|table)[^>]* data-l="${lang}"`, 'gm')) ?? []).length;
+    const balanced = !bilingual || blocks('zh') === blocks('en');
     const plainText = markdownToSummaryText(markdownBody);
     const dateIso = getFileDate(fullPath);
     const units = readingUnits(plainText);
@@ -815,6 +845,8 @@ function readPosts(files) {
       outputPath: `posts/${slug}/`,
       sourcePath,
       cover,
+      bilingual,
+      balanced,
     };
   });
 }
@@ -1213,6 +1245,7 @@ function renderPage({
 <html lang="${SITE.language}">
 <head>
   <meta charset="utf-8">
+  <script>(function(){var l=null;try{l=localStorage.getItem('nat-lang')}catch(e){}if(l!=='zh'&&l!=='en'&&l!=='both')l=/^zh/i.test(navigator.language||'')?'zh':'en';document.documentElement.setAttribute('data-lang',l)})();</script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="index,follow">
   <title>${escapeHtml(fullTitle)}</title>
@@ -1608,7 +1641,7 @@ function renderPostMedia(post) {
   if (!videos.length && !pictures.length) return { videoHtml: '', body: post.htmlBody, script: '' };
 
   const langs = MEDIA_LANGS.filter(([lang]) => videos.some((v) => v.lang === lang) || pictures.some((p) => p.lang === lang));
-  const switchHtml = langs.length > 1
+  const switchHtml = langs.length > 1 && !post.bilingual
     ? `<div class="media-lang" role="group" aria-label="Language">${langs.map(([lang, name]) => `<button type="button" data-media-lang="${lang}" aria-pressed="false">${name}</button>`).join('')}</div>`
     : '';
   const live = fs.existsSync(path.join(filmsDir, 'jobs', post.slug, 'film.mjs'));
@@ -1661,6 +1694,8 @@ function renderPostMedia(post) {
             if (keep) { try { localStorage.setItem(KEY, l); } catch (e) {} }
           }
           for (var i = 0; i < buttons.length; i++) buttons[i].addEventListener('click', function () { set(this.getAttribute('data-media-lang'), true); });
+          // On a bilingual post the page's own language control sets the film and the infographic too.
+          document.addEventListener('nat-lang', function (e) { if ((e.detail === 'zh' || e.detail === 'en') && e.detail !== lang) set(e.detail, true); });
           if (video) video.querySelector('.video-play').addEventListener('click', play);
           // The infographic page is laid out 1024 px square and scaled to the column, so its text stays text at any size.
           var holder = figure && figure.querySelector('.infographic-frame');
@@ -1687,6 +1722,28 @@ function renderPostMedia(post) {
       </script>`;
   return { videoHtml, body, script };
 }
+
+// The language control of a bilingual post: fixed at the right edge, half way down the window (bottom right on a
+// narrow screen). One language, the other, or both as written; the choice is kept and sets the film and infographic.
+const LANGUAGE_CONTROL = `
+      <div class="lang-float" role="group" aria-label="Language" data-open="">
+        <button type="button" data-nat-lang="zh" aria-pressed="false">中文</button>
+        <button type="button" data-nat-lang="en" aria-pressed="false">EN</button>
+        <button type="button" data-nat-lang="both" aria-pressed="false" title="Both, as written">中 EN</button>
+      </div>
+      <script>
+        (function () {
+          var root = document.documentElement, buttons = document.querySelectorAll('[data-nat-lang]');
+          function show(l, keep) {
+            root.setAttribute('data-lang', l);
+            for (var i = 0; i < buttons.length; i++) buttons[i].setAttribute('aria-pressed', buttons[i].getAttribute('data-nat-lang') === l ? 'true' : 'false');
+            if (keep) { try { localStorage.setItem('nat-lang', l); if (l !== 'both') localStorage.setItem('nat-media-lang', l); } catch (e) {} }
+            document.dispatchEvent(new CustomEvent('nat-lang', { detail: l }));
+          }
+          for (var i = 0; i < buttons.length; i++) buttons[i].addEventListener('click', function () { show(this.getAttribute('data-nat-lang'), true); });
+          show(document.querySelector('.lang-float').getAttribute('data-open') || root.getAttribute('data-lang') || 'both', false);
+        })();
+      </script>`;
 
 function renderPost(post, newerPost, olderPost, book = null) {
   const navLinks = [];
@@ -1741,14 +1798,14 @@ function renderPost(post, newerPost, olderPost, book = null) {
       <header class="essay-header">
         ${breadcrumbHtml}
         ${coverHtml}
-        <h1>${escapeHtml(post.title)}</h1>
-        ${post.subtitle ? `<p class="subtitle">${escapeHtml(post.subtitle)}</p>` : ''}
+        <h1>${(post.bilingual && splitLanguages(escapeHtml(post.title))) || escapeHtml(post.title)}</h1>
+        ${post.subtitle ? `<p class="subtitle">${(post.bilingual && splitLanguages(escapeHtml(post.subtitle))) || escapeHtml(post.subtitle)}</p>` : ''}
         <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
       </header>
       ${media.videoHtml}
       <div class="essay-content">
 ${media.body}
-      </div>${media.script}
+      </div>${media.script}${post.bilingual ? LANGUAGE_CONTROL.replace('data-open=""', `data-open="${post.balanced ? '' : 'both'}"`) : ''}
       ${partNavHtml}
       ${navHtml}
     </article>`;
@@ -1962,6 +2019,9 @@ function build() {
 
   if (book) {
     const entryCount = book.premiseIndex.sections.reduce((n, s) => n + s.entries.length, 0);
+    const open = posts.filter((p) => p.bilingual && !p.balanced);
+    console.log(`Languages: ${posts.filter((p) => p.bilingual).length} bilingual posts, ${open.length} of them unbalanced and opening with both.`);
+    if (process.argv.includes('--unbalanced')) console.log(open.map((p) => p.slug).join('\n'));
     console.log(`Book: ${book.parts.length} parts, ${book.partBySlug.size}/${posts.length} posts placed, ${entryCount} index entries.`);
   }
 }
