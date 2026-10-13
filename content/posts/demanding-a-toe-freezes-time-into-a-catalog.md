@@ -124,9 +124,9 @@ Two things need to be kept apart here: desire, and the assumption that closure c
 
 Taking what can be sought for what can be reached is the same move as taking "infinity" for an existing closed totality instead of an open potential generation. Believing a theory of everything can be completed is like believing counting can reach infinity. It also mirrors a step in the calculus: to let differentiation close, the calculus declares the non-zero, irreversible causal element dx to be zero; to let a panoramic explanation close, a theory of everything declares the irreducible, always non-zero discrete gap between cause and effect to have been sealed by a unified equation. [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) lays out the first of these.
 
-在可观测的物理世界里，这个归不了零的最小因果步长，被物理学记为一个基本常数，普朗克常数 h。因为 h ≠ 0，微观的作用存在不可再分的离散跃迁，模型无法被无限平滑地微分。它可以读作现实的刷新率：现实不是一张平滑的连续画布，它在摩擦中一帧一帧地生成。
+在可观测的物理世界里，这个归不了零的最小因果步长，被物理学记为一个基本常数，普朗克常数 h。因为 h ≠ 0，微观的作用存在不可再分的离散跃迁，模型无法被无限平滑地微分。它是现实的刷新率：现实不是一张平滑的连续画布，它在摩擦中一帧一帧地生成。
 
-In the observable physical world, this smallest causal step that cannot be set to zero is recorded by physics as a fundamental constant, the Planck constant h. Because h ≠ 0, microscopic action involves discrete transitions that cannot be divided further, and a model cannot be differentiated with unlimited smoothness. It can be read as the refresh rate of reality: reality is not a smooth continuous canvas, and it is generated frame by frame within friction.
+In the observable physical world, this smallest causal step that cannot be set to zero is recorded by physics as a fundamental constant, the Planck constant h. Because h ≠ 0, microscopic action involves discrete transitions that cannot be divided further, and a model cannot be differentiated with unlimited smoothness. It is the refresh rate of reality: reality is not a smooth continuous canvas, and it is generated frame by frame within friction.
 
 在这道合不上的间隙里，量子效应与主观的自由感是同一枚硬币的两面。从外部，以第三人称去观测这道间隙时，没有哪一个确定性的方程能跨过那个非零的步长，测得的现象便呈现为概率性的塌缩、不确定性与非决定的跃迁，这被命名为“量子效应”。作为第一人称的主体，在因果发生的前沿承担后果并迈出那一步时，同一道敞开的间隙，在直接的经验里是自由感、决断与对后果的承受。无穷是潜在的，因果的间隙始终非零，所以无法有万物理论；第三人称的形式无法事先决定那一步，所以微观呈现为量子效应；第一人称的主体直接承担每一步的后果，所以生命经验到自由与摩擦。这些都是因果与第一人称视角作为一枚硬币两面的显现。
 
