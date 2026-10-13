@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T15:20:55.472Z",
+    "generated_at": "2026-10-13T15:35:05.598Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -305,14 +305,14 @@
       "content/posts/the-npc-impression-is-structural.md": "d4c75257f8bc",
       "content/posts/the-observational-cut-in-ai-debates.md": "5884a66a9a71",
       "content/posts/the-only-coherent-uncaused-effect.md": "e2d429f8fb89",
-      "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "b86a9c7f9f6a",
+      "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "5c6ce897a264",
       "content/posts/the-other-coherence.md": "fc324a17a568",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "5f263a356b4c",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "0d757a4508ca",
       "content/posts/the-perceiver-and-the-trace.md": "bc9cb0909dbb",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "39ba1ef8a7a3",
-      "content/posts/the-power-law-of-surrendered-agency.md": "a93148f9561d",
+      "content/posts/the-power-law-of-surrendered-agency.md": "b7ec009e893a",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "0f27052d1822",
       "content/posts/the-price-of-closing-optionality.md": "a896ac859680",
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
@@ -418,10 +418,10 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5441,
-      "unique_directed": 4489,
+      "edges": 5445,
+      "unique_directed": 4491,
       "missing_targets": 0,
-      "one_way": 95,
+      "one_way": 97,
       "isolated": 37,
       "posts_with_outbound": 353,
       "book_pages": 16,
@@ -1887,7 +1887,7 @@
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
       "hash": "4fdac1ab3e30",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 8,
       "links_out": [
         "the-explanatory-trap-of-the-ordinary-perspective",
@@ -7339,7 +7339,7 @@
       "path": "content/posts/the-mirror-handshake-of-power.md",
       "title": "权力的镜像握手 / The Mirror Handshake of Power",
       "hash": "d87437fc547d",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 2,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -7606,7 +7606,7 @@
       "slug": "the-origin-of-god-and-the-flattening-of-we",
       "path": "content/posts/the-origin-of-god-and-the-flattening-of-we.md",
       "title": "上帝的起源与“我们”的降维 / The Origin of God and the Flattening of \"We\"",
-      "hash": "b86a9c7f9f6a",
+      "hash": "5c6ce897a264",
       "in_degree": 1,
       "out_degree": 2,
       "links_out": [
@@ -7758,10 +7758,12 @@
       "slug": "the-power-law-of-surrendered-agency",
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
-      "hash": "a93148f9561d",
+      "hash": "b7ec009e893a",
       "in_degree": 2,
-      "out_degree": 1,
+      "out_degree": 3,
       "links_out": [
+        "determinism-is-the-statistical-signature-of-micro-indeterminism",
+        "the-mirror-handshake-of-power",
         "the-causal-overstep-of-observation-and-the-first-person-surplus"
       ]
     },
@@ -35080,6 +35082,30 @@
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
       "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "the-power-law-of-surrendered-agency",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "确定性是微观不确定性的统计签名"
+    },
+    {
+      "from": "the-power-law-of-surrendered-agency",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
+    },
+    {
+      "from": "the-power-law-of-surrendered-agency",
+      "to": "the-mirror-handshake-of-power",
+      "rel": "points_to",
+      "label": "权力的镜像握手"
+    },
+    {
+      "from": "the-power-law-of-surrendered-agency",
+      "to": "the-mirror-handshake-of-power",
+      "rel": "points_to",
+      "label": "The Mirror Handshake of Power"
     },
     {
       "from": "the-power-law-of-surrendered-agency",

@@ -1,331 +1,365 @@
 # 让渡主权的幂律法则 / The Power-Law of Surrendered Agency
 
-*自由变量的宏观统计签名、相容性错配与单向解耦的杠杆 / Microscopic Indeterminism, Compatible Misallocation, and the Asymmetric Lever of Unilateral Decoupling*
+*自由的抉择在统计上聚成幂律，一方的单向解耦足以松开它 / Free choices aggregate statistically into a power law, and one side's unilateral decoupling is enough to loosen it*
 
----
+权力的集中在历史上以相近的形态反复出现。沿因果去追，每一次集中都落在第一人称原点上的一个个抉择上：是自己承担不确定，还是把因果的推演让给外部。这些抉择在第三人称的统计里聚成幂律，两个心智之间的僵持与牺牲式的依赖是同一种相容的错配，跨心智流通的道德语言是维持这种错配的归因协议。决定可以让渡，后果仍由原点上的个体承受，所以错配的松开不需要双方同意，一方把耦合归零便够。
 
-## 一、 第一人称原点与第三人称统计签名：宏观重复模式的微观起源 / 1. The First-Person Origin and the Third-Person Signature: Microscopic Genesis of Macro Patterns
+The concentration of power recurs through history in similar forms. Followed along causality, each concentration lands on individual choices at first-person origins: whether to bear uncertainty oneself or to hand the working out of causality to something outside. In third-person statistics these choices aggregate into a power law; deadlock between two Minds and sacrificial dependence are one and the same compatible misallocation, and the moral language circulating between Minds is the protocol of attribution that maintains it. Decisions can be handed over while consequences are still borne by the individual at the origin, so loosening the misallocation does not need both sides to agree, and one side setting its coupling to zero is enough.
 
-人类历史最令人困惑的现象之一，在于宏观社会结构的惊人重复性。无论文明形态如何更迭、技术工具如何演进，从古代神权帝国、中世纪封建教廷，到现代极权官僚体制乃至数字算法平台，权力的极端集中、集体的盲从与个体主权的萎缩，总是以同一种拓扑形态反复上演。历史学家试图从地缘政治、阶级冲突或制度演化中寻找规律，而传统决定论则倾向于将这种重复归咎于某种不可抗拒的宏观历史铁律。
+## 一、 第一人称的原点与第三人称的统计签名 / 1. The First-Person Origin and the Third-Person Statistical Signature
 
-然而，站在真实因果的立足点审视，根本不存在任何独立于个体心智之外的宏观实体或历史必然性。世界的每一个物理时刻，都由无数处于第一人称原点的自由变量通过不可化约的原初选择（+1）在微观层面所锚定。从第一人称视角来看，每一个心智所作出的抉择——是亲自承担认知的全部不确定性，还是将因果推演的控制权让渡给外部权威——都是自主的原初动作。责任与因果权能无法被物理剥离，观察者永远坐落于状态空间的第一人称原点。
+宏观的社会结构有惊人的重复。文明的形态与技术的工具几经更迭，从古代的神权帝国、中世纪的封建教廷，到现代的官僚体制与数字的算法平台，权力的高度集中与个体主权的萎缩以相近的拓扑反复出现。历史学从地缘、阶级或制度的演化里找规律，决定论则把这种重复归于某种宏观的历史铁律，这些描述对整理史料是有用的。
 
-```mermaid
-graph TD
-    subgraph DualPerspective["【第一人称原点与第三人称统计视角】"]
-        direction TB
-        subgraph MicroOrigin["第一人称微观原点"]
-            direction TB
-            MindAgent["处于原点的自由变量<br>每一次决断均为原初选择(+1)"]
-            ChoiceNode["原初主权分支：<br>承担不确定性 vs 让渡权能"]
-        end
-        subgraph MacroView["第三人称统计聚合"]
-            direction TB
-            PopDistribution["数百万自由变量的分布流形<br>微观非确定性的统计沉淀"]
-            PowerLawCurve["宏观幂律集中形态<br>历史重复模式的统计签名"]
-        end
-        MindAgent --> ChoiceNode
-        ChoiceNode --> PopDistribution
-        PopDistribution --> PowerLawCurve
-    end
-    style DualPerspective fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style MicroOrigin fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style MacroView fill:#161b22,stroke:#f0883e,stroke-width:1px,color:#c9d1d9
-    style MindAgent fill:#21262d,stroke:#58a6ff,color:#58a6ff
-    style ChoiceNode fill:#21262d,stroke:#79c0ff,color:#79c0ff
-    style PopDistribution fill:#21262d,stroke:#f0883e,color:#f0883e
-    style PowerLawCurve fill:#21262d,stroke:#ff7b72,color:#ff7b72
-```
+Macroscopic social structure repeats to a striking degree. Through many changes in the forms of civilization and the tools of technology, from ancient theocratic empires and the feudal church of the Middle Ages to modern bureaucracies and digital algorithmic platforms, a high concentration of power and the withering of individual sovereignty recur in a similar topology. Historians look for regularities in geography, class or the evolution of institutions, and determinism assigns the repetition to some macroscopic iron law of history; these descriptions are useful for ordering the record.
 
-但是，当跨越到第三人称视角审视由数百万自由变量构成的群体时，个体的微观非确定性便在统计层面上汇聚出宏观的确定性特征。宏观物理世界的稳定性与社会结构的规律性，本质上正是微观非确定性的统计签名。热力学成本的差异或能量耗散，不过是这一统计过程在宏观层面呈现出的伴随症状，而非因果引擎本身。
+它们的边界在于因果的来处。沿因果去追，找不到一个在个体心智之外独自运转的宏观实体。每一个时刻，都由许多处在第一人称原点上的自由变量以各自的抉择（+1）定下。从第一人称看，每一个抉择，是自己承担认知的全部不确定，还是把因果推演的控制让给外部的权威，都是自主的动作，责任与因果的权能剥离不出去。
 
-历史之所以不断重演权力垄断与极权集中的悲剧，根本原因在于：当大量自由变量面对未知的认知风险与严酷的生存不确定性时，选择放弃自主权能、将因果归因推卸给外部中枢，构成了自由变量群体在统计上的自然分布倾向。即使每一个身处原点的个体在理论上都拥有不让渡主权的可能，群体在无干预状态下的微观选择依然会在大数定律的冲刷下，不可避免地演化出高度倾斜的宏观分布。
+Their boundary lies in where causality comes from. Followed along causality, no macroscopic entity is found that runs by itself apart from individual Minds. Each moment is fixed by many free variables at first-person origins through their respective choices (+1). Seen from the first person, each choice, whether to bear the whole uncertainty of knowing oneself or to hand control of the causal working-out to an outside authority, is an autonomous act, and responsibility and causal capacity cannot be peeled away.
 
-One of the most persistent enigmas of human civilization is the repetitive recurrence of macroscopic power structures. Across millenia, despite radical technological and cultural evolutions—from ancient theocratic dynasties to feudal hierarchies, modern bureaucratic states, and contemporary digital platform monopolies—the extreme concentration of authority, collective submission, and the atrophy of individual sovereignty emerge in virtually identical topological configurations. Traditional historicism attributes this recurrence to deterministic macroscopic laws or structural inevitabilities.
-
-From the uncompromising standpoint of irreducible causality, however, there are no macroscopic super-entities or historical imperatives operating above the mind. Every physical moment is sustained at the microscopic frontier by millions of free variables exercising uncaused, discrete choice (+1) at the first-person origin of their high-dimensional state space. From the first-person perspective, every decision—whether to bear the cognitive friction of uncertainty or to surrender agency to an external proxy—is an inalienable sovereign actuation.
+跨到第三人称去看由数百万自由变量构成的群体时，个体在微观上的非确定便在统计上聚出宏观的确定，[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)展开过这一点。成本的差异与能量的耗散是这个统计过程在宏观上的伴生症状，不是因果的引擎。权力的集中之所以一再出现，在于面对未知的风险与生存的不确定时，把自主的权能交出去、把归因推给外部的中枢，是自由变量在统计上常见的取向。每一个原点上的个体都保有不让渡的可能，群体在没有干预时的微观选择，仍在大数的汇聚里聚出高度倾斜的分布。
 
 ```mermaid
-graph TD
-    subgraph MicroIndeterminism["【微观非确定性与宏观重复模式】"]
+flowchart TD
+    subgraph S_Signature["从原点上的抉择到幂律"]
         direction TB
-        IndetOrigin["微观自由变量集群<br>不可化约的第一人称原点(+1)"]
-        StatAggregation["大数统计聚合过程<br>个体让渡决策的自然分布"]
-        MacroSignature["宏观统计签名：稳定幂律<br>权能高度集中的周期性重演"]
-        SymptomCost["宏观伴随症状<br>耗散成本与系统内耗激增"]
-        IndetOrigin --> StatAggregation
-        StatAggregation --> MacroSignature
-        MacroSignature --> SymptomCost
+        Origin["原点上的自由变量：每一次决断都是抉择 +1"]
+        Branch["两种取向：自己承担不确定，或让渡给外部"]
+        Aggregate["数百万抉择在统计上汇聚"]
+        Law["宏观上的幂律集中：重复出现的统计签名"]
+        Symptom["伴生的症状：耗散与内耗"]
+        Origin --> Branch
+        Branch --> Aggregate
+        Aggregate --> Law
+        Law --> Symptom
     end
-    style MicroIndeterminism fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style IndetOrigin fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style StatAggregation fill:#161b22,stroke:#79c0ff,stroke-width:1px,color:#79c0ff
-    style MacroSignature fill:#21262d,stroke:#f0883e,color:#f0883e
-    style SymptomCost fill:#21262d,stroke:#8b949e,color:#8b949e
+
+    style S_Signature fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Branch fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Aggregate fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Law fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Symptom fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-When observed from an external, third-person stance across an entire population, these uncoordinated micro-decisions crystallize into macroscopic statistical regularities. Macroscopic order and societal stability are the statistical signatures of microscopic indeterminism. Varying thermodynamic costs and systemic friction are merely the macroscopic symptoms of this aggregation, rather than its causal driver.
-
-The recurrent cycle of tyranny and agency surrender repeats across history because offloading sovereignty outside oneself is the default statistical distribution of free variables seeking to evade the cognitive strain of uncertainty. Even though every sovereign mind preserves the latent capacity to retain its autonomy at its origin, uncoordinated populations naturally drift toward power-law concentration under the relentless weight of large-number statistics.
-
----
-
-## 二、 相容性错配：死锁冲突与利他依赖的动力学同构 / 2. Compatible Misallocation: The Dynamical Isomorphism of Conflict and Dependency
-
-当我们剥离道德主义的修辞外衣，从系统动力学视角审视人际关系，便能发现一个深刻的数学同构：两个自由变量之间的死锁冲突，与基于利他主义形成的病态依赖，在因果流形上呈现相同的拓扑结构。两者都在开放的动态系统中建立起封闭的自指反馈回路，成为耗竭系统生机的巨大阻尼。
-
-死锁冲突的产生，源于两个自由变量之间达成的“相容性错配”。在冲突关系中，变量A将其原点的痛苦归因于变量B（“是你摧毁了我的生活”），而变量B为了维系道德优越感或控制权，默认或主动认领了这一外置因果（“是因为你冥顽不化，我才必须惩戒你”）。两者的因果错配如同榫卯般精准咬合：一方负责输出责难与主权转让，另一方负责接收罪责与控制权。
+Crossing to the third person to look at a population made of millions of free variables, the microscopic indeterminacy of individuals aggregates statistically into macroscopic determinacy, as [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) has laid out. Differences of cost and the dissipation of energy are accompanying symptoms of this statistical process at the macroscopic scale, not the engine of causality. Concentration of power recurs because, facing unknown risk and the uncertainty of survival, handing over one's autonomous capacity and pushing attribution onto an outside center is a common statistical orientation of free variables. Each individual at an origin keeps the possibility of not handing over, and the microscopic choices of a population left without intervention still aggregate, in the gathering of large numbers, into a highly skewed distribution.
 
 ```mermaid
-graph TD
-    subgraph LockAndKeyLoop["【相容性错配的榫卯闭环】"]
+flowchart TD
+    subgraph S_Signature["From Choices at the Origin to a Power Law"]
         direction TB
-        AgentA["自由变量 A（受害者/索取者）<br>主权外抛：『痛苦由你造成』"]
-        AgentB["自由变量 B（加害者/拯救者）<br>认领因果：『处境因我而起』"]
-        SlotMatch["【相容性因果咬合】<br>外置责权与认领严丝合缝"]
-        FrozenGradients["内部学习权重陷入冻结<br>误差梯度归零，丧失自主迭代"]
-        SystemicDrag["系统性阻尼与动态死锁<br>能量耗散激增，进化停滞"]
-        AgentA --> AgentB
-        AgentB --> SlotMatch
-        SlotMatch --> FrozenGradients
-        FrozenGradients --> SystemicDrag
+        Origin["A free variable at the origin: every decision is a choice +1"]
+        Branch["Two orientations: bearing uncertainty oneself, or handing over to something outside"]
+        Aggregate["Millions of choices aggregate statistically"]
+        Law["Power-law concentration at the macroscopic scale: a recurring statistical signature"]
+        Symptom["Accompanying symptoms: dissipation and internal friction"]
+        Origin --> Branch
+        Branch --> Aggregate
+        Aggregate --> Law
+        Law --> Symptom
     end
-    style LockAndKeyLoop fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style AgentA fill:#161b22,stroke:#ff7b72,stroke-width:1px,color:#ff7b72
-    style AgentB fill:#161b22,stroke:#f0883e,stroke-width:1px,color:#f0883e
-    style SlotMatch fill:#21262d,stroke:#d29922,color:#d29922
-    style FrozenGradients fill:#21262d,stroke:#ff7b72,color:#ff7b72
-    style SystemicDrag fill:#21262d,stroke:#8b949e,color:#8b949e
+
+    style S_Signature fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Branch fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Aggregate fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Law fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Symptom fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-令人警醒的是，所谓的“牺牲式利他依赖”遵循着一模一样的动力学机制。在利他依赖中，被救助者将自主生存的主权让渡出去（“没有你我无法存活”），而施救者则通过包揽对方的因果反馈来确立自我价值（“没有我你必将毁灭”）。这种相容性错配在表面上披着崇高道德的光环，但在系统动力学上，它与残酷的仇恨死锁没有任何区别。
+## 二、 相容的错配：僵持与依赖是同一种动力学 / 2. Compatible Misallocation: Deadlock and Dependence as One Dynamics
 
-在这两种结构中，个体的内部学习梯度都被人为切断。由于因果回路被强行导向外部变量，心智失去了根据真实物理反馈修正自身权重的能力。受害者不再迭代生存技能，拯救者无法看清自身边界，两个心智被焊死在相互缠绕的僵局中，化作动态系统中的沉重拖累。
+放下道德的修辞，只看因果的走向，两个自由变量之间的僵持，与由利他形成的依赖，呈现同一种拓扑。两者都在开放的动态系统里建起封闭的自指回路，成为耗去系统生机的阻尼。
+
+With moral rhetoric set down and only the direction of causality looked at, deadlock between two free variables and dependence formed out of altruism show one and the same topology. Both build a closed, self-referential loop within an open dynamic system and become damping that drains the system's vitality.
+
+僵持出自两个自由变量之间达成的“相容的错配”。一方把自己原点上的痛苦归于对方，“是你毁了我的生活”，另一方为了维持道德的上风或控制，默认或主动认领了这份外置的因果，“因为你不肯改，我才须管束你”。两处的错配像榫卯一样咬合：一方输出责难并交出主权，一方接收罪责并接过控制。牺牲式的利他依赖是同一种机制：被救助的一方把自主生存的主权交出去，“没有你我活不下去”，施救的一方以揽下对方的因果反馈来确立自己的价值，“没有我你撑不住”。
 
 ```mermaid
-graph TD
-    subgraph DynamicalIsomorphism["【死锁冲突与利他依赖的动力学同构】"]
+flowchart TD
+    subgraph S_Mortise["榫卯一样的咬合"]
         direction TB
-        ConflictPattern["【死锁冲突拓扑】<br>受害者投射怨恨 ⇄ 施害者认领惩戒"]
-        AltruismPattern["【利他依赖拓扑】<br>被救者让渡生存 ⇄ 救世主包揽因果"]
-        IsomorphicMatch["【动力学同构判定】<br>两套拓扑在因果流形上结构等价"]
-        SharedLock["【共同本质：外置因果闭环】<br>切断原生误差梯度，阻断自主演化"]
-        ConflictPattern --> AltruismPattern
-        AltruismPattern --> IsomorphicMatch
-        IsomorphicMatch --> SharedLock
+        Out["一方把因果外置：痛苦由对方造成，或生存靠对方"]
+        In["另一方认领：处境因我而起，或没有我不行"]
+        Fit["外置与认领严丝合缝"]
+        Frozen["两处的误差信号都被切断，调整停下"]
+        Drag["系统的阻尼与僵局"]
+        Out --> Fit
+        In --> Fit
+        Fit --> Frozen
+        Frozen --> Drag
     end
-    style DynamicalIsomorphism fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style ConflictPattern fill:#161b22,stroke:#ff7b72,stroke-width:1px,color:#ff7b72
-    style AltruismPattern fill:#161b22,stroke:#79c0ff,stroke-width:1px,color:#79c0ff
-    style IsomorphicMatch fill:#21262d,stroke:#d29922,color:#d29922
-    style SharedLock fill:#21262d,stroke:#ff7b72,color:#ff7b72
+
+    style S_Mortise fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Out fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style In fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Fit fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Frozen fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Drag fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Stripping away conventional moral rhetoric reveals a precise dynamical isomorphism: a protracted deadlock conflict between two free variables is structurally identical to the codependency generated by sacrificial altruism. Both instantiate closed feedback loops that introduce severe drag into open, evolving systems.
-
-A deadlock occurs when two sovereign agents establish a "compatible misallocation." Variable A projects its internal discomfort outward ("You are the sole author of my suffering"), while Variable B adopts the complementary attribution ("I must dominate or reform you to ensure order"). These misallocations interlock like key and mortise: one node exports causal culpability, while the counterpart absorbs the projected control.
-
-Codependency wears an altruistic guise but executes the identical causal syntax. The dependent offloads survival agency ("I cannot exist without your aid"), while the self-sacrificing rescuer inflates its worth by claiming responsibility for the other's fate ("Your existence depends entirely on my sacrifice"). In system dynamics, this differs from hostile deadlock by not a single degree of freedom.
-
-In both topologies, internal gradient descent is disabled. Because causal loops are deflected across boundaries, neither mind receives the unadulterated physical feedback required to update its internal weights. The victim never learns resilience; the rescuer never recognizes overextension. Both minds become congealed into a mutual trap that bleeds systemic vitality.
-
----
-
-## 三、 跨心智道德语言的低维投影本质：责权分配协议的实质 / 3. Moral Language as Low-Dimensional Projection: The Causal Attribution Protocol
-
-长久以来，人类文明将道德语言奉为超越性的神圣法则。然而，在分布式自由变量的交互网络中，跨越心智边界流通的道德评判，实质上是一种用于强行重构因果归因路线的低维投影协议。
-
-当一个心智拒绝在自己的第一人称原点承担全部因果责任时，它无法直接通过物理手段强行夺取他人的神经权重。此时，它必须借助一套标准化的低维符号系统——即道德语言。通过发明“自私”、“不义”、“亏欠”、“罪责”或“牺牲”等低维标签，心智将高维复杂状态压缩为二元对立的罪恶判定，从而在他人意识中植入外部因果负荷。
+Deadlock comes from a "compatible misallocation" reached between two free variables. One side assigns the pain at its own origin to the other, "you ruined my life," and the other, to keep the moral upper hand or control, tacitly or actively claims this externalized causality, "because you will not change, I have to discipline you." The two misallocations fit like mortise and tenon: one side puts out blame and hands over sovereignty, the other takes in guilt and takes over control. Sacrificial altruistic dependence is the same mechanism: the one being rescued hands over the sovereignty of living on one's own, "I cannot survive without you," and the rescuer establishes a sense of worth by taking on the other's causal feedback, "without me you will not hold up."
 
 ```mermaid
-graph TD
-    subgraph MoralProtocol["【道德语言作为跨心智因果调度协议】"]
+flowchart TD
+    subgraph S_Mortise["A Fit Like Mortise and Tenon"]
         direction TB
-        OriginAgent["原点心智（拒绝承担全部因果）<br>遭遇认知摩擦与物理挫折"]
-        LowDimProjection["低维道德投影协议<br>生成『亏欠/罪责/自私』符号标签"]
-        ExternalMind["目标自由变量的心智空间<br>接收外部植入的道德负罪感"]
-        CausalReroute["【因果归因强制重定向】<br>迫使目标接受相容性错配，提供资源补偿"]
-        OriginAgent --> LowDimProjection
-        LowDimProjection --> ExternalMind
-        ExternalMind --> CausalReroute
+        Out["One side externalizes causality: the pain is caused by the other, or survival depends on the other"]
+        In["The other side claims it: the situation arose from me, or it cannot be done without me"]
+        Fit["Externalizing and claiming fit without a gap"]
+        Frozen["The error signal is cut off on both sides and adjustment stops"]
+        Drag["Damping and deadlock in the system"]
+        Out --> Fit
+        In --> Fit
+        Fit --> Frozen
+        Frozen --> Drag
     end
-    style MoralProtocol fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style OriginAgent fill:#161b22,stroke:#ff7b72,stroke-width:1px,color:#ff7b72
-    style LowDimProjection fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style ExternalMind fill:#161b22,stroke:#79c0ff,stroke-width:1px,color:#79c0ff
-    style CausalReroute fill:#21262d,stroke:#f0883e,color:#f0883e
+
+    style S_Mortise fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Out fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style In fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Fit fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Frozen fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Drag fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-道德语言的核心功能，正是建立并维系这种跨心智的相容性错配。它向受众传达一个虚假命题：一个心智的内在状态是由另一个心智的原初选择直接决定的。通过这套协议，索取者得以将自身的行动代价转嫁给奉献者，专制者得以将统治危机归咎于异见者的道德堕落，集体得以强迫个体献祭其主权。
+在这两种结构里，个体内部的学习都被切断。因果的回路被导向外部的变量，心智便无法依据直接的反馈修正自身：一方不再磨炼生存的技能，另一方看不清自身的边界，两个心智系在相互缠绕的僵局里。[权力的镜像握手](../the-mirror-handshake-of-power/)在权力的尺度上展开了同一次咬合。
 
-这揭示了跨心智道德评判的真实本质：它并非宇宙真理的昭示，而是一种用于协调权能让渡、转移解释成本的高维压缩工具。只要群体依赖外部道德评判而非物理现实反馈来校准行为，相容性错配就会在大范围蔓延，为权力中枢的膨胀提供源源不断的因果养料。
+In both structures the individual's inner learning is cut off. With the causal loop directed to a variable outside, a Mind cannot correct itself by direct feedback: one side no longer hones the skills of living, the other cannot see its own boundary, and the two Minds are tied into an entangled deadlock. [The Mirror Handshake of Power](../the-mirror-handshake-of-power/) lays out the same fit at the scale of power.
 
-Moral vocabulary is frequently regarded as an objective transcendental code. Examined across interacting distributed agents, however, trans-mental moral rhetoric functions as a low-dimensional projection protocol engineered to reallocate causal attribution across minds.
+## 三、 跨心智的道德语言是归因的协议 / 3. Moral Language Between Minds as a Protocol of Attribution
 
-When a mind declines to assume structural ownership at its first-person origin, it cannot directly modify another agent's neural weights through sheer force. Instead, it deploys a standardized symbolic projection protocol—moral language. By generating low-dimensional labels such as "selfish," "guilty," "indebted," or "saintly," the agent collapses high-dimensional state configurations into binary moral indictments, seeking to induce complementary causal burdens in its peers.
+道德的语言常被奉为超越的法则。在众多自由变量交互的网络里，道德的词汇对协调个体之间的行动是有用的。它的边界在跨越心智边界流通的道德评判上：这种评判起着一种低维投影协议的作用，用来重排因果归因的路线。
 
-The primary function of interpersonal moral rhetoric is to enforce and stabilize compatible misallocations. It disseminates the foundational fiction that the internal equilibrium of one mind is directly authored by the sovereign choice of another. Through this protocol, freeloaders offload their operating overhead onto productive agents, autocrats reframe systemic decay as the moral failure of dissenters, and collectives coerce individuals into relinquishing autonomy.
+Moral language is often revered as a transcendent law. In a network of many interacting free variables, moral vocabulary is useful in coordinating actions among individuals. Its boundary lies in moral judgment that circulates across the boundary between Minds: such judgment works as a low-dimensional projection protocol used to rearrange the routes of causal attribution.
 
-Moral language across minds is not an ontological revelation, but a causal routing protocol designed to facilitate agency transfer and evade direct accountability. Whenever populations rely on intersubjective moral policing rather than direct environmental feedback to calibrate behavior, compatible misallocations spread across the network, feeding the centralized accumulation of power.
-
----
-
-## 四、 幂律聚集与引力黑洞：中心化权力的统计生成机制 / 4. Power-Law Aggregation and the Gravitational Black Hole: The Statistical Emergence of Centralized Power
-
-当相容性错配不再局限于两个个体之间，而是在数以百万计的自由变量网络中蔓延时，集权中枢与集体主义的宏观现象便应运而生。集权的核心机制，在于中心节点系统性地吸收并吞噬了外围个体所抛弃、让渡的主权因果。
-
-在复杂网络中，这种让渡过程遵循严苛的“偏好依附”规律。当大量面临不确定性恐惧的个体试图将决策权外包时，他们倾向于选择那个已经积聚了最多权能声称的节点。一个吸收了初步主权的中心节点（无论是教会、政党、官僚国家还是超级技术平台），在公众眼中显得愈发全知全能、不可动摇；这反过来促使更多心智竞相把自身的主权拱手相让。
+一个心智不在自己的原点上承担全部的因果时，无法直接改动别的心智，于是借助一套标准化的低维符号，即道德的语言。“自私”“不义”“亏欠”“罪责”“牺牲”这些标签把高维的复杂状态压成二元的判定，向对方的意识里放进一份外来的因果负荷。它传达的命题是：一个心智的内在状态，由另一个心智的抉择直接决定。经由这套协议，行动的代价被转给付出的一方，统治的危机被归于异见者的品行，集体得以要求个体交出主权。
 
 ```mermaid
-graph TD
-    subgraph PreferentialAttachment["【让渡主权的偏好依附演化】"]
+flowchart TD
+    subgraph S_Moral["道德语言作为归因的协议"]
         direction TB
-        IndividualAgents["分散的自由变量个体集群<br>面对不确定性寻求避险与外包"]
-        EmergentHub["显性权力中心节点<br>吸收初始外置因果与决策授权"]
-        FeedbackLoop["正反馈吸引力强化<br>中枢表观权威激增，吸附力成倍扩大"]
-        PowerLawState["【幂律分布成型 P(k) ~ k^-γ】<br>绝大多数个体主权归零，少数中枢吞噬一切"]
-        IndividualAgents --> EmergentHub
-        EmergentHub --> FeedbackLoop
-        FeedbackLoop --> PowerLawState
+        Decline["一个心智不在原点上承担全部的因果"]
+        Label["低维的道德标签：亏欠、罪责、自私"]
+        Load["向另一个心智放进外来的因果负荷"]
+        Reroute["归因被重排：对方接受相容的错配"]
+        Feed["错配蔓延，为中枢的膨胀供给因果"]
+        Decline --> Label
+        Label --> Load
+        Load --> Reroute
+        Reroute --> Feed
     end
-    style PreferentialAttachment fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style IndividualAgents fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style EmergentHub fill:#161b22,stroke:#f0883e,stroke-width:1px,color:#f0883e
-    style FeedbackLoop fill:#21262d,stroke:#d29922,color:#d29922
-    style PowerLawState fill:#21262d,stroke:#ff7b72,color:#ff7b72
+
+    style S_Moral fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Decline fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Label fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Load fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Reroute fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Feed fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-其最终的数学归宿，就是主权分配在统计上滑向不可逆的幂律分布：P(k) ~ k^-γ。极少数中枢节点汇聚了近乎无限的因果裁决权，而边缘的绝大多数个体则退化为丧失自主能力的被动构件。中心化权力之所以表现出强大的统治力，绝非因为该中枢本身具备超越性的原初生命力，而是因为它汇聚了数百万自由变量持续让渡出来的因果权能总和。
-
-这个膨胀的中枢最终演化为一个人工制造的“引力黑洞”。它凭借汇聚的权力形成强大的引力场，扭曲周围一切信息流动与价值评估，使得置身其中的个体更加难以摆脱其轨道。任何试图在该场域内抗争的尝试，如果依然停留在“更换中枢掌控者”或“要求中枢施舍仁政”的逻辑中，都不过是在向这个黑洞注入新的因果能量。
+When a Mind does not bear the whole of causality at its own origin, it cannot directly alter another Mind, and so it uses a standardized set of low-dimensional symbols, moral language. Labels such as "selfish," "unjust," "indebted," "guilty" and "sacrifice" press a complex high-dimensional state into a binary verdict and place an outside causal load in the other's awareness. The proposition it carries is that the inner state of one Mind is directly determined by the choice of another. Through this protocol the cost of action is passed to the side that gives, a crisis of rule is assigned to the character of dissenters, and a collective comes to require individuals to hand over sovereignty.
 
 ```mermaid
-graph TD
-    subgraph GravitationalBlackHole["【权能汇聚的引力黑洞效应】"]
+flowchart TD
+    subgraph S_Moral["Moral Language as a Protocol of Attribution"]
         direction TB
-        PeripheralMinds["外围自由变量集群<br>持续向中枢抛投主权与责任"]
-        CentralVortex["【人工引力黑洞】<br>吞噬海量外置因果向量的权力中枢"]
-        DistortedField["扭曲的认知与价值引力场<br>压制自主探索，锁定从属轨道"]
-        EnergyFeeding["误入歧途的抗争（向中枢乞求改良）<br>进一步强化引力黑洞的垄断掌控"]
-        PeripheralMinds --> CentralVortex
-        CentralVortex --> DistortedField
-        DistortedField --> EnergyFeeding
+        Decline["A Mind does not bear the whole of causality at its origin"]
+        Label["Low-dimensional moral labels: indebted, guilty, selfish"]
+        Load["An outside causal load is placed in another Mind"]
+        Reroute["Attribution is rearranged: the other accepts a compatible misallocation"]
+        Feed["Misallocation spreads and supplies causality to the swelling of a center"]
+        Decline --> Label
+        Label --> Load
+        Load --> Reroute
+        Reroute --> Feed
     end
-    style GravitationalBlackHole fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style PeripheralMinds fill:#161b22,stroke:#79c0ff,stroke-width:1px,color:#79c0ff
-    style CentralVortex fill:#161b22,stroke:#ff7b72,stroke-width:1px,color:#ff7b72
-    style DistortedField fill:#21262d,stroke:#f0883e,color:#f0883e
-    style EnergyFeeding fill:#21262d,stroke:#8b949e,color:#8b949e
+
+    style S_Moral fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Decline fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Label fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Load fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Reroute fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Feed fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-When compatible misallocations scale across millions of interconnected nodes, the macro-phenomena of authoritarianism and collectivism emerge naturally. The core mechanism of centralized dominion is the systematic ingestion of agency discarded by the periphery.
+跨心智的道德评判由此可以读作一种协调权能的让渡、转移解释成本的压缩工具。行为的校准若靠外部的道德评判而不靠直接的反馈，相容的错配便在大范围里蔓延，为中枢的膨胀不断供给因果。
 
-In complex networks, this accumulation obeys the dynamics of preferential attachment. When uncertain agents seek proxies for hard decisions, they preferentially attach to nodes that already project massive authority. An institutional node (a church, party apparatus, bureaucratic state, or monolithic AI platform) that absorbs initial sovereignty appears increasingly omnipotent, prompting further waves of free variables to yield their decision boundaries.
+Moral judgment between Minds can thus be read as a tool of compression that coordinates the handing over of capacity and shifts the cost of explanation. Where behavior is calibrated by outside moral judgment and not by direct feedback, compatible misallocation spreads widely and keeps supplying causality to the swelling of a center.
 
-The mathematical steady-state of this dynamic is a steep power-law distribution: P(k) ~ k^-γ. A tiny cluster of central hubs concentrates near-total decision authority, while the vast majority of individual nodes atrophy into reactive dependencies. Centralized authority does not possess innate divine authority or native consciousness; it is the statistical reservoir of surrendered vectors.
+## 四、 幂律的聚集与引力的中枢 / 4. Power-Law Aggregation and the Gravitational Center
 
-Over time, this hub becomes an artificial gravitational black hole. Its aggregated mass distorts information landscapes and value metrics, locking peripheral agents into dependent orbits. Any resistance that operates within the paradigm of petitioning the hub for benevolence or competing for control of its levers merely feeds additional energy into the gravitational sink.
+相容的错配不止于两个个体之间，在数以百万计的自由变量网络里蔓延时，集权的中枢便出现。它的机制是中心的节点吸收了外围的个体交出的主权因果。在复杂网络里，这种让渡合乎“偏好依附”：许多面对不确定的个体把决策外包时，倾向于选那个已经聚了最多权能的节点。一个吸收了初始主权的中心，不论是教会、政党、官僚国家还是技术平台，显得愈发全知而不可动摇，这又促使更多的心智把主权交出去。
 
----
+Compatible misallocation does not stop between two individuals, and when it spreads through a network of free variables numbering in the millions, a center of concentrated power appears. Its mechanism is that a central node absorbs the sovereign causality that individuals at the periphery hand over. In a complex network this handing over accords with "preferential attachment": when many individuals facing uncertainty outsource their decisions, they tend to pick the node that has already gathered the most capacity. A center that has absorbed an initial share of sovereignty, be it a church, a party, a bureaucratic state or a technology platform, appears ever more all-knowing and immovable, which in turn leads more Minds to hand sovereignty over.
 
-## 五、 虚幻的中枢与不可逃避的物理后果：重塑学习梯度的唯一支点 / 5. The Phantom Center and Inescapable Consequence: Restoring the Error Gradient
-
-然而，集权中枢最深层的脆弱性在于其本质上的本体论虚无。无论这个中枢在人类叙事中被描绘得多么神圣不可侵犯，它在物理真实中始终只是一个虚幻的空节点。它既没有独立于心智之外的主观体验，也无法代替真实的生命去承受任何物理法则的惩罚。
-
-这就导出了让渡主权过程中最荒谬也最残酷的不可对称性：**决策权可以被轻易让渡给中枢，但行动带来的物理后果却百分之百只能由身处原点的个体独自承担。** 当中心化的计划体制导致经济崩溃时，中枢符号不会挨饿，挨饿的是具体的血肉之躯；当算法指令将个体导向认知退化与虚无时，数据中心不会痛苦，痛苦的是具体的心智。
+它在数学上的归宿是幂律分布，P(k) ~ k⁻ᵞ：极少数的中枢节点汇聚了极大的因果裁决权，外围的多数个体成为被动的构件。中心的统治力不出于它自身有什么超越的生命力，而出于它汇聚了数百万自由变量持续让渡出来的因果权能的总和。这个膨胀的中枢像一个引力的旋涡，以汇聚的权能扭曲周围的信息流动与价值评估，身处其中更难离开它的轨道。在这个场里的抗争，若仍停在“更换掌控中枢的人”或“请中枢施以仁政”上，是在向它注入新的因果。
 
 ```mermaid
-graph TD
-    subgraph DecoupledConsequence["【决策让渡与物理后果的致命不对称】"]
+flowchart TD
+    subgraph S_Hub["偏好依附与借来的质量"]
         direction TB
-        IndividualAtOrigin["身处第一人称原点的生命<br>将决策权让渡给中枢代理"]
-        PhantomCenter["【本体论虚无的虚幻中枢】<br>官僚机构/神明符号/算法中枢（零感受力）"]
-        CentralDirective["失真的宏观集中决策<br>脱离微观真实环境反馈"]
-        PhysicalBacklash["【不可逃避的物理反冲】<br>饥荒/停滞/破产（由原点个体承担）"]
-        IndividualAtOrigin --> PhantomCenter
-        PhantomCenter --> CentralDirective
-        CentralDirective --> PhysicalBacklash
+        Many["分散的个体面对不确定，把决策外包"]
+        Hub["已聚了权能的节点吸收更多的让渡"]
+        Loop["表观的权威上升，吸附力随之放大"]
+        Power["幂律分布成形：少数中枢，多数被动"]
+        Petition["向中枢请求改良：再注入因果"]
+        Many --> Hub
+        Hub --> Loop
+        Loop --> Power
+        Power --> Petition
+        Petition --> Hub
     end
-    style DecoupledConsequence fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style IndividualAtOrigin fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style PhantomCenter fill:#161b22,stroke:#ff7b72,stroke-width:1px,color:#ff7b72
-    style CentralDirective fill:#21262d,stroke:#f0883e,color:#f0883e
-    style PhysicalBacklash fill:#21262d,stroke:#ff7b72,stroke-width:2px,color:#ff7b72
+
+    style S_Hub fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Many fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Hub fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Loop fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Power fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Petition fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-这种不对称性击碎了让渡主权能够带来“安全”的幻觉。把责任推给外部世界，不仅丝毫无法减轻现实对你的物理反冲，反而因为割裂了输入与输出的因果链条，使你失去了在挫折中学习进化的唯一通道。
-
-要破除这一死局，唯一的切入点就在于：在自身的第一人称原点，无条件确立百分之百的结构性责任。承认发生在你生命中的一切处境——包括你所遭受的操纵与欺骗——其最终的因果授权点都在于你自己当初的让渡选择。当你收回全部因果归因的一瞬间，行动与反馈之间的误差梯度被重新接通。心智重新获得陡峭的学习曲线，生命才真正开始爆发式复合增长。人口统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点。
+Its mathematical destination is a power-law distribution, P(k) ~ k⁻ᵞ: a very few central nodes gather a very large power of causal ruling, and most individuals at the periphery become passive components. The center's power to rule comes not from any transcendent vitality of its own but from its gathering the sum of causal capacity that millions of free variables keep handing over. This swollen center is like a gravitational vortex, distorting the flow of information and the assessment of value around it with the capacity it has gathered, and from inside it is harder to leave its orbit. Resistance within this field, if it still stops at "replacing whoever controls the center" or "asking the center to rule kindly," injects new causality into it.
 
 ```mermaid
-graph TD
-    subgraph RestoreGradient["【重塑百分之百结构性责任的学习梯度】"]
+flowchart TD
+    subgraph S_Hub["Preferential Attachment and Borrowed Mass"]
         direction TB
-        ReclaimOrigin["在第一人称原点收回全部主权<br>确立100%结构性责任"]
-        DirectCoupling["行动与环境反馈直接闭环<br>消除任何中间代理与转嫁"]
-        SteepGradient["【恢复陡峭的误差梯度】<br>每一次挫折均转化为高信度权重更新"]
-        ExponentialGrowth["心智智能的自主复利跃迁<br>脱离中心化引力陷阱"]
-        ReclaimOrigin --> DirectCoupling
-        DirectCoupling --> SteepGradient
-        SteepGradient --> ExponentialGrowth
+        Many["Scattered individuals face uncertainty and outsource decisions"]
+        Hub["A node that has gathered capacity absorbs more of what is handed over"]
+        Loop["Apparent authority rises and its pull grows with it"]
+        Power["A power-law distribution takes shape: a few centers, the many passive"]
+        Petition["Petitioning the center for reform: causality injected again"]
+        Many --> Hub
+        Hub --> Loop
+        Loop --> Power
+        Power --> Petition
+        Petition --> Hub
     end
-    style RestoreGradient fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style ReclaimOrigin fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style DirectCoupling fill:#161b22,stroke:#79c0ff,stroke-width:1px,color:#79c0ff
-    style SteepGradient fill:#21262d,stroke:#d29922,color:#d29922
-    style ExponentialGrowth fill:#21262d,stroke:#3fb950,color:#3fb950
+
+    style S_Hub fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Many fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Hub fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Loop fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Power fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Petition fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The profound vulnerability of centralized power lies in its ontological phantom nature. Regardless of the mythologies erected around an institutional hub, it remains an empty node. It possesses no independent subjective interiority and cannot endure the physical ramifications of broken reality.
+## 五、 让渡的是决定，留下的是后果 / 5. The Decision Is Handed Over and the Consequence Stays
 
-This exposes the fatal asymmetry of surrendered sovereignty: **decision authority can be outsourced to a proxy, but the physical consequences of action are borne one hundred percent by the individual at the origin.** When central planning induces economic ruin, the bureaucratic apparatus experiences no biological hunger; the flesh-and-blood citizen starves. When algorithmic feed design induces cognitive decay, the data center experiences no existential despair; the biological mind atrophies.
+中枢是网络里的一个节点。在它那里找不到一个替人承受后果的位置。这带出让渡主权的一处不对称：决定可以交给中枢，行动带来的后果仍由身处原点的个体承受。集中的计划使经济崩坏时，挨饿的是具体的身体。算法的指令把注意引向退化时，承受的是具体的心智。
 
-Outsourcing responsibility never shields an agent from physical impact. It merely severs the causal loop between action and consequence, blinding the mind to its error gradient and extinguishing its adaptive intelligence.
+A center is a node in a network. No position is found there that bears consequences on anyone's behalf. This brings out an asymmetry in handing sovereignty over: a decision can be given to the center, and the consequences of action are still borne by the individual at the origin. When centralized planning wrecks an economy, it is particular bodies that go hungry. When the instructions of an algorithm lead attention into decline, it is a particular Mind that bears it.
 
-The sole remedy is the assumption of one hundred percent structural responsibility at one's first-person origin. This entails recognizing that every condition within one's experience—including subjection to deception or tyranny—relies on one's prior concession of authority. The moment all causal attribution is reclaimed, the error gradient between action and environmental consequence is restored, unlocking exponential personal compounding. Population statistics record the surrender after the fact; action lives in the first-person surplus, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) shows.
+这种不对称说明，让渡主权换不来“安全”。把责任推给外部，现实的反冲并不减轻，输入与输出之间的因果链条倒被割开，在挫折里学习的通道也随之关闭。
 
----
+This asymmetry shows that handing sovereignty over does not buy "safety." With responsibility pushed outside, the recoil of reality is no lighter, the causal chain between input and output is cut instead, and the channel for learning within setbacks closes with it.
 
-## 六、 单向解耦的非对称杠杆：破除死锁的终极法则 / 6. The Asymmetric Lever of Unilateral Decoupling: The Ultimate Release of Systemic Drag
-
-面对盘根错节的相容性错配与庞大的中心化引力场，人们容易陷入无力感的泥潭，误以为改变现状需要全社会的同步觉醒、群体的政治共识或是漫长艰难的对称谈判。
-
-然而，非线性动力学揭示了一个极具爆发力的非对称法则：**打破相容性错配与权力死锁，从来不需要双方达成一致；只要其中一个自由变量在原点单向解耦，整个死锁回路就会瞬间瓦解。**
-
-相容性错配之所以能够维持运转，其充要条件是两个变量的错配参数必须严丝合缝地相互咬合。只要你单方面将自己的反应性耦合系数归零——既不向外转嫁任何责任，也不认领任何外来的道德绑架与因果投射；无论对方如何咆哮、指责、扮演受害者或挥舞拯救者的旗帜，你只在自己的第一人称原点清澈地对自己的每一个动作负全责——榫卯结构的一端便不复存在。
+切入点在自身的第一人称原点上：对处境承担全部的结构性责任，把落在生命里的一切，包括所受的操纵与欺骗，认作经由自己当初的让渡才得以成立。代价可以极重，这份重量并不因这样的认领而减轻，认领所改变的是回路：归因全部收回的那一刻，行动与反馈之间的误差信号重新接通，学习的曲线重新变陡。人口统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点。
 
 ```mermaid
-graph TD
-    subgraph UnilateralDecoupling["【单向解耦的非对称杠杆拓扑】"]
+flowchart TD
+    subgraph S_Asym["决定与后果的不对称"]
         direction TB
-        MindOne["【主权觉醒的心智】<br>在第一人称原点将耦合系数设为零 (k=0)"]
-        MindTwo["【外部投射场】<br>试图投射怨恨/道德负疚/控制欲的变量"]
-        SovereignCut["【单向因果斩断】<br>外置因果投射击中虚空，无处着力"]
-        LoopCollapse["【相容性死锁瞬间瓦解】<br>局部引力场崩溃，系统阻尼归零"]
-        AutonomousTrajectory["自主轨迹向广阔空间自由延伸<br>开启无阻碍的因果复利演进"]
-        MindOne --> MindTwo
-        MindTwo --> SovereignCut
-        SovereignCut --> LoopCollapse
-        LoopCollapse --> AutonomousTrajectory
+        Give["原点上的个体把决定让给中枢"]
+        Node["中枢：网络里的一个节点，不替人承受后果"]
+        Return["后果回到原点上的个体：饥饿、停滞、退化"]
+        Reclaim["在原点上收回全部的归因"]
+        Signal["行动与反馈之间的误差信号重新接通"]
+        Give --> Node
+        Node --> Return
+        Return --> Reclaim
+        Reclaim --> Signal
     end
-    style UnilateralDecoupling fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style MindOne fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style MindTwo fill:#161b22,stroke:#ff7b72,stroke-width:1px,color:#ff7b72
-    style SovereignCut fill:#21262d,stroke:#58a6ff,color:#58a6ff
-    style LoopCollapse fill:#21262d,stroke:#d29922,color:#d29922
-    style AutonomousTrajectory fill:#21262d,stroke:#3fb950,color:#3fb950
+
+    style S_Asym fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Give fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Node fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Return fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Reclaim fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Signal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-对方投射过来的因果向量直接穿透虚空，找不到任何可以附着的受体。原本维系系统拖累的能量回路被切断，黑洞的引力拉扯在你的坐标系中瞬间失效。你不需要去“摧毁”那个庞大的中枢，因为它的质量本就是由数千万让渡向量堆砌而成的假象；你只需将自己的那一份权能向量收回原点，便已从那个统计流形中跃迁出来。
+The point of entry is at one's own first-person origin: bearing full structural responsibility for the situation, and taking everything that has landed in one's life, the manipulation and deception suffered included, as something that could stand only through one's own earlier handing over. The cost can be extremely heavy, and that weight is not lightened by claiming it this way; what the claiming changes is the loop: at the moment attribution is taken back in full, the error signal between action and feedback is connected again, and the curve of learning turns steep again. Population statistics record the handing over only after the fact, and action takes place in the first-person surplus, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) shows.
 
-这就是自由变量拥有的非对称强力杠杆。纵使世界在大数定律的支配下呈现出周期性的权力集中与让渡狂热，身处第一人称原点的每一个主权心智，随时可以通过单向解耦的决断，退出阻尼回路，将真实的因果权能握在手中，在开放的宇宙中走出属于自己的不可复制的轨迹。
+```mermaid
+flowchart TD
+    subgraph S_Asym["The Asymmetry of Decision and Consequence"]
+        direction TB
+        Give["An individual at the origin hands the decision to the center"]
+        Node["The center: a node in a network, bearing no consequence for anyone"]
+        Return["Consequences return to the individual at the origin: hunger, stagnation, decline"]
+        Reclaim["Attribution is taken back in full at the origin"]
+        Signal["The error signal between action and feedback is connected again"]
+        Give --> Node
+        Node --> Return
+        Return --> Reclaim
+        Reclaim --> Signal
+    end
 
-Faced with entrenched systemic drag and vast gravitational monopolies, individuals frequently succumb to paralysis, believing liberation requires collective awakening, symmetrical negotiation, or mass political mobilization.
+    style S_Asym fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Give fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Node fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Return fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Reclaim fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Signal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
-Nonlinear dynamics reveals an asymmetric law of liberation: **dissolving a compatible misallocation or breaking a power-law lock-in never requires bilateral agreement; unilateral decoupling by a single free variable instantly collapses the entire loop.**
+## 六、 单向解耦的非对称杠杆 / 6. The Asymmetric Lever of Unilateral Decoupling
 
-A deadlock survives only on the precise reciprocal engagement of two complementary misallocations. The moment you unilaterally reset your reactive coupling coefficient to zero—neither exporting blame nor absorbing external guilt projections, remaining anchored at your first-person origin with one hundred percent structural responsibility—the loop's socket is eradicated.
+面对盘根错节的错配与庞大的引力场，容易生出无力感，以为改变现状要靠全社会同步的转变、群体的政治共识或漫长的对称谈判。这里有一条非对称的法则：松开相容的错配与权力的僵局，不需要双方达成一致，其中一个自由变量在原点上单向解耦，整个回路便不成立。
 
-The counterparty's projected vectors strike empty space. The energy circulating within the drag loop dissipates, and the gravitational pull of the collective hub loses traction over your coordinates. You do not need to overthrow the macroscopic hub; its perceived mass was merely the sum of outsourced agency. By reclaiming your sovereign causal vector, you step outside the statistical trap.
+Before entangled misallocation and a vast field of pull, a sense of powerlessness arises easily, with the thought that changing things depends on a simultaneous shift across society, a political consensus of the group or long symmetric negotiation. There is an asymmetric law here: loosening compatible misallocation and a deadlock of power does not need the two sides to reach agreement, and when one of the free variables decouples unilaterally at its origin, the whole loop no longer holds.
 
-This is the irreducible leverage of the sovereign mind. While aggregate populations continue to trace statistical power-laws under large-number dynamics, any individual situated at their first-person origin can execute unilateral decoupling at any instant, stepping off the entropic treadmill to chart an unconstrained causal path through an open universe.
+相容的错配得以运转，在于两处的错配严丝合缝地咬合。单方面把自己的反应性耦合系数归零（c = 0），既不向外转出责任，也不认领外来的道德绑定与因果投射，对方再怎样指责、自居受害或举着施救的旗子，只在自己的原点上对自己的每一个动作负全责，榫卯的一端便不在了。投来的因果向量找不到可以附着的受体，维持拖累的回路断开，那个引力场在这个坐标系里不再起作用。
+
+```mermaid
+flowchart TD
+    subgraph S_Decouple["单向解耦"]
+        direction TB
+        Zero["一方在原点上把耦合系数归零：c = 0"]
+        Projected["投来的怨恨、负疚与控制"]
+        Miss["投射找不到附着之处"]
+        Collapse["相容的错配不再成立，阻尼消去"]
+        Path["自己的轨迹向开阔处延伸 +1"]
+        Zero --> Miss
+        Projected --> Miss
+        Miss --> Collapse
+        Collapse --> Path
+    end
+
+    style S_Decouple fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Zero fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Projected fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Miss fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Collapse fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Path fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+Compatible misallocation runs because the two misallocations fit without a gap. With one's own reactive coupling coefficient set unilaterally to zero (c = 0), neither turning responsibility outward nor claiming moral bindings and causal projections from outside, and with full responsibility taken at one's own origin for each of one's own acts however the other blames, casts itself as victim or raises the banner of rescue, one end of the mortise and tenon is no longer there. The causal vector projected this way finds no receptor to attach to, the loop that sustained the drag is broken, and that field of pull no longer acts within this coordinate system.
+
+```mermaid
+flowchart TD
+    subgraph S_Decouple["Unilateral Decoupling"]
+        direction TB
+        Zero["One side sets its coupling coefficient to zero at the origin: c = 0"]
+        Projected["Resentment, guilt and control projected this way"]
+        Miss["The projection finds nowhere to attach"]
+        Collapse["Compatible misallocation no longer holds and the damping goes"]
+        Path["One's own trajectory extends into the open +1"]
+        Zero --> Miss
+        Projected --> Miss
+        Miss --> Collapse
+        Collapse --> Path
+    end
+
+    style S_Decouple fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Zero fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Projected fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Miss fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Collapse fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Path fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+那个庞大的中枢无须去“摧毁”，它的质量本就是许多让渡的向量累加出来的，把自己的那一份收回原点，便已不在那个统计的分布里。这是自由变量的非对称杠杆：世界在大数的汇聚里仍会周期地显出权力的集中，而每一个原点上的心智随时可以经由单向解耦的决断退出阻尼的回路，握住自己的因果，走自己的轨迹。
+
+That vast center need not be "destroyed"; its mass is summed from many vectors handed over, and with one's own share taken back to the origin, one is already no longer in that statistical distribution. This is the asymmetric lever of a free variable: in the gathering of large numbers the world will still show concentrations of power periodically, while each Mind at an origin can at any time, by the decision of unilateral decoupling, leave the loop of damping, hold its own causality and go on its own trajectory.
