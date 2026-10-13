@@ -2,336 +2,338 @@
 
 *等同单元、极限归零与行动的真实代价 / Identical Units, Infinitesimal Limits, and the Living Cost of the Act*
 
-符号变换的静态投影、离散因果的跨尺度不变性与主权抉择的因果原点。
+数学与物理的模型是心智手里最强的工具，它们在意识里的变换是静态、对称而可逆的。倒置发生在模型被当作比抉择更基础的独立存在的时候。等同的单元与归零的微元是让形式得以运转的两项设定，时间的坐标轴是心智从当下向前后投出的线。离散的区分让因果的关系跨尺度保持不变，数学因此有效，而每一步的落定仍在第一人称的原点上。
 
-Static Symbolic Projections, Discrete Cross-Scale Invariance, and the Sovereign Choice as Causal Origin.
+The models of mathematics and physics are the strongest tools a Mind holds, and their transformations within awareness are static, symmetric and reversible. The inversion happens when a model is taken for an independent existence more basic than choice. Identical units and an element that goes to zero are two posits that let the formalism run, and the coordinate axis of time is a line a Mind casts forward and backward from the present. Discrete distinction keeps causal relations invariant across scales, which is why mathematics works, while the settling of each step still takes place at the first-person origin.
 
----
+## 一、 最强的工具与倒置 / 1. The Strongest Tools and the Inversion
 
-## 一、 最强工具的双刃剑：形式表征的威力与实在倒置的陷阱 / 1. The Double-Edged Nature of Powerful Tools: The Power of Representation and the Trap of Ontological Inversion
+经典力学、相对论与微积分是文明至今最强的认知工具。数理的定律敏锐地刻画了物质世界里宏观稳定的因果模式，形式数学给了心智极高的抽象能力，使它能以前所未有的精确去发现自然的结构。
 
-必须首先厘清一个根本前提：**我们指出数学与物理模型的虚构性，绝非否定数理物理或形式数学表征的巨大价值。**
+Classical mechanics, relativity and the calculus are the strongest cognitive tools civilization has had. The laws of mathematical physics trace with great acuity the causal patterns that are stable at the macroscopic scale of the material world, and formal mathematics gives a Mind a very high power of abstraction, letting it find the structure of nature with a precision not had before.
 
-相反，经典力学、相对论与微积分是人类文明有史以来最强大的认知工具：
-* 数理定律极其敏锐地刻画了物质世界中宏观稳定的因果模式；
-* 形式数学赋予了心智一种登峰造极的抽象能力，让我们能够以前所未有的精确度发现自然界深邃的底层结构。
+心智在意识里建构并维持数学的构架时，对几何关系的重构与变换是静态、对称而可逆的。没有离开心智而独自存在的“模型本身”，数学模型是第一人称的心智在当下所作的符号维持与推演。在这块由心智维持的符号沙盘里，凭一套重新定义的代数规则，便可以设想平直空间的弯曲、坐标系的旋转翻转或高维拓扑的折叠。在纸面上翻转一个宇宙只需擦掉一个负号，因为符号的体系里并不含因果关系的生成。
 
-**真正的危机不在于心智运用工具，而在于对认知构架的“本体论倒置”：心智忘记了模型是自己在意识中维系的表征活动，反将其客体化为比活生生的抉择更为根本、更为可靠的独立实在。**
+When a Mind constructs and maintains a mathematical framework within awareness, its reconstruction and transformation of geometric relations is static, symmetric and reversible. There is no "model in itself" existing apart from a Mind; a mathematical model is the keeping and working of symbols that a first-person Mind does in the present. Within this sandbox of symbols that a Mind maintains, with a set of algebraic rules defined anew, flat space can be imagined curving, coordinate systems rotating and flipping, or a high-dimensional topology folding. Turning a universe over on paper takes only the erasing of a minus sign, because the system of symbols does not contain the generation of causal relations.
 
-当心智在意识中建构并维系数学构架时，心智对几何关系的重构与变换是**静态、对称且可逆的**：
-* 并不存在脱离心智独立存在的“模型本身”——所谓数学模型，本质上是第一人称心智在当下进行的符号维系与认知推演；
-* 在这种由心智主动维系的符号沙盘中，心智只需凭借一套重新定义的代数规则，就能随心所欲地构想平直空间的弯曲、坐标系的旋转翻转或高维拓扑的折叠；
-* 在纸面上翻转一个宇宙只需擦掉一个负号，因为符号体系内部并不包含真实因果关系的生成。
-
-这种由心智维系的静态符号操控力，极大地拓展了人类理解模式与预测规律的边界。然而，恰恰是这种轻而易举的对称变换能力，孕育了一个致命的本体论错觉：**心智将自己维系的符号构架实体化为一个独立存在的客观实体，并误以为这种在意识中随时可逆的规则重构比不可逆的主权抉择更真实，从而滑入了用静态认知地图抹杀活态因果生成的倒置陷阱。**在 AI 智能体身上，同样的倒置把挽具放上了驾驶座，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)说明了这一点。
+这种静态的符号操控大大拓展了理解模式与预测规律的范围。它的边界出现在倒置发生的时候：心智把自己维持的符号构架实体化为一个独立存在的客观之物，并以为这种在意识里随时可逆的重构比不可逆的抉择更基础。在第一人称的原点上划下的每一个非零的区分（+1），都生出新的因果关系，成为不可逆的初始条件，纸面上的对称回溯撤销不了已经落定的事。在AI智能体身上，同样的倒置把挽具放上了驾驶座，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)说明了这一点。
 
 ```mermaid
-graph TD
-    subgraph MindSymbolVsSovereignCut["【心智符号投影与主权因果原点】"]
+flowchart TD
+    subgraph S_Invert["符号的沙盘与因果的原点"]
         direction TB
-        MindSustainedSandbox["【心智维系的形式符号沙盘】<br>静态、对称、随时可逆的代数规则重构"]
-        ReificationIllusion["【客体化与形式全能的幻觉】<br>误将静态符号沙盘当成比活态抉择更基础的本体"]
-        SovereignOrigin["【第一人称主权抉择 (+1)】<br>划定非零区分，创生全新关系，确立因果原点"]
-        DownstreamPhysical["【下游宏观物理症状】<br>能量耗散、物质位移与热力学熵增皆为后续结果"]
-        TheFirstInversion["【因果倒置的消解】<br>切勿以下游物理症状或静态符号否定主权原点"]
-        MindSustainedSandbox --> ReificationIllusion
-        SovereignOrigin --> DownstreamPhysical
-        ReificationIllusion --> TheFirstInversion
-        DownstreamPhysical --> TheFirstInversion
+        Sandbox["心智维持的符号沙盘：静态、对称、可逆"]
+        Reify["被当作比抉择更基础的独立存在"]
+        Origin["第一人称的抉择：划下非零的区分 +1"]
+        Down["下游的宏观物理：耗散、位移与熵增"]
+        Place["工具回到工具的位置"]
+        Sandbox --> Reify
+        Origin --> Down
+        Reify --> Place
+        Down --> Place
     end
-    style MindSymbolVsSovereignCut fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style MindSustainedSandbox fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style ReificationIllusion fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style SovereignOrigin fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style DownstreamPhysical fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style TheFirstInversion fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
+
+    style S_Invert fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Sandbox fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Reify fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Down fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Place fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-在活生生的因果演进中，主权心智在当下划定的每一个非零区分（+1），都真实创生了全新的因果关系，并构成了不可逆的历史初始条件。任何纸面上的对称回溯，都无法撤销已经落定的因果事实。
-
----
-
-A fundamental clarification must be established at the outset: **Critiquing the idealized assumptions of physics and mathematics is in no way a dismissal of their extraordinary validity.**
-
-Classical mechanics, general relativity, and calculus remain the most formidable cognitive instruments in human history:
-* Mathematical physics and conservation laws capture the stable macro-invariants of causality with unmatched fidelity;
-* Formal mathematics grants the Mind the power to discern the deep, underlying causal symmetries of nature across vast scales.
-
-**The hazard lies not in employing cognitive tools, but in ontological inversion: the Mind forgets that the model is its own active representational construct, reifying it into something supposedly more fundamental, reliable, and real than the living sovereign choice from which reality generates.**
-
-When the Mind constructs and sustains mathematical frameworks in consciousness, the mental act of transforming geometric relations is **static, symmetric, and reversible**:
-* There is no such thing as a "model in itself" floating independently of the Mind holding it—a mathematical model is always an active cognitive act, sustained and animated by consciousness at the first-person origin;
-* Within this mind-sustained symbolic sandbox, the Mind can redefine algebraic rules at will, effortlessly imagining flat space curving into a Riemannian manifold, rotating coordinate axes, or folding higher-dimensional topologies;
-* Flipping an entire galaxy on paper requires merely erasing a minus sign, precisely because static symbolic systems do not generate living causal commitments.
-
-This low-overhead cognitive power infinitely expands our ability to recognize patterns and model horizons. Yet that very symmetry breeds a fatal ontological illusion: **the Mind reifies its own symbolic construct into an independent "objective reality," and mistakenly assumes that because it can rewrite definitions reversibly in consciousness, this static playground is superior to, and more fundamental than, the irreversible sovereign act of living choice.** With AI agents the same inversion puts the harness in the driver's seat, as [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) shows.
-
-In living reality, every sovereign choice (+1) carves a non-zero distinction into the universe, irreversibly creating new relational realities. No paper symmetry can undo an actualized causal commitment.
-
----
-
-## 二、 数学的第一大虚构假设：等同单元（1 = 1）与同一性公理 / 2. The First Mathematical Fiction: Identical Units (1 = 1) and the Axiom of Identity
-
-代数与算术的全部大厦，建立在一个看似不证自明的前提之上：**存在着两个等同的单元（1 = 1），因而它们可以无摩擦地累加为 2（1 + 1 = 2）。**
-
-然而，如果我们将目光从抽象符号投向真实的因果几何，就会发现“等同单元”是一项人为构造的虚构：
-
-1. **不可分辨同一性的几何底线**：
-   莱布尼茨曾指出，如果两个对象在所有属性、坐标、关系与内在特征上毫无差别，那么它们在几何与本体论上**不是两件事物，而是同一件事物**。
-2. **两物并存必然伴随差异**：
-   只要两个实体同时存在于现实中，它们就必然占据不同的时空位置、拥有独特的因果演化历史，并处于不同的全域关系张力中。既然存在差异，它们就**不可能真正等同**。
-3. **符号抽象对实体差异的抹杀**：
-   数学将形态各异、充满独特张力的人、物与事件，一概抽象为无差别、可互相置换的符号“1”。这种均质化操作极大便利了统计计算与代数运算，但它在第一瞬间就**通过抹杀微观区分（Distinction），洗去了事物原本携带的实体独特性与因果张力**。
+This static handling of symbols greatly widens the range of understanding patterns and predicting regularities. Its boundary appears when the inversion happens: a Mind turns the symbolic framework it maintains into an objective thing existing independently, and supposes that this reconstruction, reversible at any time within awareness, is more basic than irreversible choice. Every non-zero distinction drawn at the first-person origin (+1) gives rise to a new causal relation and becomes an irreversible initial condition, and symmetric retracing on paper does not undo what has been settled. With AI agents the same inversion puts the harness in the driver's seat, as [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) shows.
 
 ```mermaid
-graph TD
-    subgraph IdentityFiction["【等同单元假设与微观差异的抹杀】"]
+flowchart TD
+    subgraph S_Invert["The Sandbox of Symbols and the Causal Origin"]
         direction TB
-        RealEntities["【现实中并存的多元实体】<br>各自占据不同时空坐标，拥有独特因果历史"]
-        IdentityAxiom["【数学同一性虚构: 1 = 1】<br>人为抹去所有内在差异与时空定位"]
-        FrictionlessAddition["【对称代数累加: 1 + 1 = 2】<br>在纸面上实现无损替换与形式聚合"]
-        LivingDiversityEradicated["【现实实体差异的被隐匿】<br>均质化符号掩盖了个体独特的因果张力"]
-        RealEntities --> IdentityAxiom
-        IdentityAxiom --> FrictionlessAddition
-        FrictionlessAddition --> LivingDiversityEradicated
+        Sandbox["A sandbox of symbols maintained by a Mind: static, symmetric, reversible"]
+        Reify["Taken for an independent existence more basic than choice"]
+        Origin["First-person choice: a non-zero distinction drawn +1"]
+        Down["Macroscopic physics downstream: dissipation, displacement and entropy"]
+        Place["The tool returns to the place of a tool"]
+        Sandbox --> Reify
+        Origin --> Down
+        Reify --> Place
+        Down --> Place
     end
-    style IdentityFiction fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style RealEntities fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style IdentityAxiom fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style FrictionlessAddition fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style LivingDiversityEradicated fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
+
+    style S_Invert fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Sandbox fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Reify fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Down fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Place fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
----
+## 二、 等同的单元 / 2. Identical Units
 
-The entirety of arithmetic and algebra rests upon a premise assumed to be self-evident: **that there exist identical units (1 = 1), allowing them to be combined into 2 (1 + 1 = 2) without loss or friction.**
+代数与算术的大厦立在一个看似不证自明的前提上：有两个等同的单元，1 = 1，因而可以无摩擦地加成 2。把目光从符号移到因果的几何上，“等同的单元”是一项设定。莱布尼茨指出，两个对象若在全部属性、坐标、关系与内在特征上没有差别，它们便不是两件事物，而是同一件。只要两个实体同时存在，它们就占着不同的时空位置，有各自的因果历史，处在不同的关系张力里，有差异，便不等同。
 
-When scrutinized through the lens of causal geometry, however, the concept of "identical units" is revealed as an axiomatic fiction:
+The edifice of algebra and arithmetic stands on a premise that seems self-evident: there are two identical units, 1 = 1, and so they can be added without friction into 2. With the gaze moved from the symbols to the geometry of causality, "identical units" is a posit. Leibniz pointed out that if two objects do not differ in any property, coordinate, relation or inner feature, they are not two things but one and the same. As long as two entities exist together, they occupy different positions in space and time, have their own causal histories and stand in different relational tensions; having differences, they are not identical.
 
-1. **The Principle of the Identity of Indiscernibles**:
-   As Leibniz established, if two entities share every attribute, coordinate, causal history, and relational state, they are **not two entities, but the exact same single entity**.
-2. **Coexistence Dictates Difference**:
-   For two entities to coexist in reality, they must occupy distinct coordinates and sustain unique relational tensions within the causal network. Because difference is the prerequisite of coexistence, **no two things in reality can ever be identical**.
-3. **Symbolic Erasure of Entity Distinctions**:
-   Mathematics abstracts uniquely situated entities into interchangeable tokens labeled "1". While this frictionless homogenization enables arithmetic aggregation and macro accounting, it achieves this by **erasing the micro distinctions and real causal uniqueness intrinsic to living existence**.
-
----
-
-## 三、 本底离散与连续统幻象：普朗克尺度的二元切分与尺度平滑 / 3. Primordial Discreteness and the Continuum Mirage: Binary Planck Cuts and Scale Smoothing
-
-微积分之所以能够建立起连续可微的动力学方程，核心支柱在于**极限归零假设**：假设施加无限细分，空间与时间微元（dx, ds, dt）可以**无限逼近并达到零**。
-
-然而，因果几何揭示了一个相反的物理真相：**实在的本底根本不是连续的，而是由普朗克尺度下一系列离散的二元区分（Distinctions / Cuts）所构成的离散因果网络。**
-
-1. **非零边界与离散本底（δs > 0）**：
-   * 任何信息、感知与因果相互作用的成立，都依赖于一个**非零边界（Non-Zero Boundary, δs > 0）**。
-   * 在普朗克尺度（~10⁻³⁵ m），时空与因果状态被切分为一个个不可再分的离散阶跃。正像（A）与负像（A^⟂）必须维持最小的非零间隙；
-   * 如果切分间隔真的达到零（ds = 0），正负两面瞬间坍缩湮灭，系统总信息量归零（I = A + A^⟂ → 0），所有区分消融，世界坍缩为无差别的均质虚无。
-2. **连续感来自巨大尺度差的统计平滑**：
-   * 既然本底是离散阶跃的，人类日常体验到的“光滑连续性”从何而来？
-   * 这种连续感正是**宏观观测尺度与微观离散尺度之间的巨大差异所产生的涌现幻觉**。
-   * 人类的感知尺度（米级、秒级）与普朗克尺度相隔了 35 个数量级。当跨越几十个数量级的离散台阶汇聚在一起时，微观离散步进被宏观统计平均所抹平，心智便在宏观上产生了“空间与时间是平滑连续统”的感官错觉。
-3. **微积分是粗粒化的实用脚手架**：
-   * 微积分的 `dx → 0` 假设，是心智在巨大尺度差下对庞大离散微元的**有效粗粒化（Coarse-Graining）与统计近似**；
-   * 它为宏观工程提供了无与伦比的计算利器，但它是一个为了忽略离散台阶而发明的几何脚手架，绝非宇宙最底层的物理本体。
+数学把形态各异的人、物与事件抽象为无差别、可互换的符号“1”。这种均质化使统计与代数的运算成为可能，它的做法是在第一步抹去微观的区分，事物原本带着的独特性与因果张力便不在符号里了。
 
 ```mermaid
-graph TD
-    subgraph DiscreteToContinuous["【离散本底与宏观连续感涌现机制】"]
+flowchart TD
+    subgraph S_Unit["等同单元的设定"]
         direction TB
-        PlanckDiscreteness["【普朗克尺度的离散本底】<br>非零区分 (δs > 0)，由离散因果跃迁构成"]
-        ScaleDifference["【35个数量级的巨大尺度差】<br>人类宏观感知尺度与微观离散尺度的极度分离"]
-        StatisticalSmoothing["【宏观统计平滑与连续感涌现】<br>微观离散台阶在宏观被平滑为连续流动错觉"]
-        CalculusScaffolding["【微积分: 极限归零脚手架 (dx → 0)】<br>以光滑可微方程对宏观因果进行高精度近似"]
-        PlanckDiscreteness --> ScaleDifference
-        ScaleDifference --> StatisticalSmoothing
-        StatisticalSmoothing --> CalculusScaffolding
+        Real["并存的实体：各占不同的时空位置，各有因果历史"]
+        Axiom["设定 1 = 1：抹去内在的差异与定位"]
+        Add["对称的累加：1 + 1 = 2"]
+        Gone["个体的独特与因果张力不在符号里"]
+        Real --> Axiom
+        Axiom --> Add
+        Add --> Gone
     end
-    style DiscreteToContinuous fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style PlanckDiscreteness fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style ScaleDifference fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style StatisticalSmoothing fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style CalculusScaffolding fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
+
+    style S_Unit fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Real fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Axiom fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Add fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Gone fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
----
-
-Calculus establishes continuous, differentiable equations of motion by relying on the **infinitesimal limit: assuming spatial and temporal intervals (dx, ds, dt) can shrink all the way to zero.**
-
-Causal geometry, however, reveals the inverse truth: **reality is fundamentally discrete and binary—a web of discrete distinctions and state transitions rooted at the Planck scale.**
-
-1. **Non-Zero Boundaries and Primordial Discreteness (δs > 0)**:
-   * The emergence of information and interaction requires a **non-zero boundary (δs > 0)**.
-   * At the Planck scale (~10⁻³⁵ m), spacetime and causal states resolve into indivisible discrete steps. Positive figure (A) and negative ground (A^⟂) are held apart by a minimal discrete cut;
-   * If intervals actually reached zero (ds = 0), the boundary dissolves, information collapses (I = A + A^⟂ → 0), and reality collapses into meaningless homogeneity.
-2. **Continuity as an Emergent Scale Phenomenon**:
-   * If reality is fundamentally discrete, where does the smooth, unbroken continuum of everyday experience come from?
-   * The feeling of continuity is an **emergent perceptual effect generated by enormous scale separation**.
-   * Human biological observation (meters, seconds) is separated from the Planck scale by over 35 orders of magnitude. When trillions upon trillions of discrete steps are aggregated across this vast distance, their individual edges blur, creating the perceptual illusion of a smooth, seamless continuum.
-3. **Calculus as Coarse-Grained Scaffolding**:
-   * The mathematical limit `dx → 0` is an **effective coarse-graining technique** that allows the Mind to ignore discrete micro-steps when computing macro trajectories;
-   * It is an extraordinary planning tool, but it is an idealized continuum approximation, not the discrete bedrock of reality.
-
----
-
-## 四、 数学作为投影仪：被空间化的时间轴与对当下的逃避 / 4. Mathematics as a Projective Instrument: Spatialized Time and the Evasion of the Present
-
-在活生生的第一人称意识中，**我们所拥有的唯一直觉实在就是“当下”**。
-
-那么，物理学中那条贯穿过去与未来的宏大时间轴究竟从何而来？它的几何本质，正是心智利用**形式数学与守恒方程**所搭建的**时间投影仪**：
-
-1. **数学与物理方程的投影功能**：
-   心智依托数学动力学方程与因果守恒律，以当下感知为原点，向过去（t - 1）拉出一条因果回溯线，向未来（t + 1）拉出一条预测演进线，从而为当下的微观抉择提供宏观导航与推演沙盘。
-2. **时间的空间化迷障（Spatialization of Time）**：
-   然而，人类认知史上最隐蔽的偷梁换柱，就是**将这条被数学投影出来的几何时间轴（t 轴），当成了比活生生的当下更真实的客观存在**。
-   * 在相对论的“块状宇宙（Block Universe）”构架中，时间被降维成了一条画好的第四维几何坐标轴；
-   * 在方程中，你可以沿着 t 轴任意向前求导或向后积分，甚至宣称“过去、现在与未来同时客观存在”。
-3. **真实时间的因果不可逆性**：
-   真实的时间体验不是一条静止摆在空间里的导轨。**真实时间的本质，是第一人称主权抉择在当下划定非零区分（+1）、创生新因果关系的不可逆序贯演进。**
-   * 主权心智在当下的每一次微观抉择，都在因果网络中创生出全新的拓扑关系，将未决的潜在可能坍缩为既定的初始条件；
-   * 物理学中观察到的热力学熵增、能量流动与物质位移，绝非时间的本源，而是**主权因果介入在宏观物理基底上随时间沉淀出的下游宏观症状**；
-   * 把数学坐标轴 t 误认为真实时间，是用下游的对称投影去否定发起抉择的源头心智。
+Mathematics abstracts people, things and events of every different form into the undifferentiated, interchangeable symbol "1." This homogenizing makes statistical and algebraic operations possible, and it does so by wiping out microscopic distinction at the first step, so that the uniqueness and causal tension things originally carried are no longer in the symbol.
 
 ```mermaid
-graph TD
-    subgraph SpatializedTimeTrap["【数学投影仪与时间空间化的迷障】"]
+flowchart TD
+    subgraph S_Unit["The Posit of Identical Units"]
         direction TB
-        FeltPresentNow["【当下的第一人称活态感知】<br>主权抉择划定非零区分，驱动时间流动 (+1)"]
-        MathAsProjector["【数学与物理方程作为投影仪】<br>依托动力学与守恒律向过去/未来拉出坐标轴 t"]
-        SpatializedDimension["【被空间化的时间维度 (Block Universe)】<br>将不可逆因果演化冻结为可随意正反穿梭的几何线"]
-        TimeInversionIllusion["【科学的最大倒置】<br>误把静态时间坐标 t 当成比主权抉择更基础的客观存在"]
-        FeltPresentNow --> MathAsProjector
-        MathAsProjector --> SpatializedDimension
-        SpatializedDimension --> TimeInversionIllusion
+        Real["Entities existing together: each in its own place in space and time, each with a causal history"]
+        Axiom["The posit 1 = 1: inner difference and location wiped out"]
+        Add["Symmetric addition: 1 + 1 = 2"]
+        Gone["Individual uniqueness and causal tension are not in the symbol"]
+        Real --> Axiom
+        Axiom --> Add
+        Add --> Gone
     end
-    style SpatializedTimeTrap fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style FeltPresentNow fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style MathAsProjector fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style SpatializedDimension fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style TimeInversionIllusion fill:#161b22,stroke:#f85149,stroke-width:2px,color:#f85149
+
+    style S_Unit fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Real fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Axiom fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Add fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Gone fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
----
+## 三、 不为零的间隔与连续 / 3. The Interval That Is Not Zero and Continuity
 
-In living conscious awareness, **the only direct perceptual reality we ever possess is the present moment.**
+微积分能建立连续可微的动力学方程，支柱是极限归零的设定：空间与时间的微元 dx、ds、dt 可以无限逼近并达到零。而任何信息、感知与因果作用的成立，都依赖一个非零的边界，δs > 0。正像 A 与负像 A⊥ 之间须留着一个最小的非零间隙，间隔若到了零，两面便重合，区分消融，I = A + A⊥ 归于零。物理学的模型把这个最小的尺度记在普朗克长度上，约 10⁻³⁵ 米。
 
-Where, then, does the grand timeline spanning past and future originate? Its geometric essence is a **projective instrument** constructed by the Mind using mathematics and conservation laws:
+The calculus can establish continuous, differentiable equations of dynamics on the pillar of a limit going to zero: the elements of space and time dx, ds, dt can approach without end and reach zero. Yet any information, perception or causal action depends, for it to hold, on a non-zero boundary, δs > 0. Between a positive figure A and its negative A⊥ a smallest non-zero gap must remain; were the interval to reach zero, the two faces would coincide, the distinction dissolve, and I = A + A⊥ go to zero. The models of physics record this smallest scale at the Planck length, about 10⁻³⁵ meters.
 
-1. **The Projective Function of Mathematics**:
-   Anchoring at the living present, the Mind utilizes mathematical equations of motion and conservation symmetries to project backward into historical reconstruction (t - 1) and forward into predictive extrapolation (t + 1), establishing a macroscopic sandbox to guide present decisions.
-2. **The Spatialization of Time**:
-   The fatal category error of modern science is **confusing this projected geometric coordinate axis (the t-axis) with the actual living experience of time.**
-   * In the relativistic "Block Universe," time is flattened into a static fourth spatial dimension;
-   * Within equations, one can traverse forward or backward along t with zero friction, leading to the bizarre claim that "past, present, and future coexist statically."
-3. **The Irreversibility of Causal Time**:
-   Actual living time is not a static track laid out in geometric space. **The essence of real time is the irreversible sequential progression of sovereign choices at the first-person origin (+1), carving non-zero distinctions and creating new relational states.**
-   * Every sovereign choice in the living present carves an irreversible distinction into the causal network, collapsing open potentiality into historical initial conditions;
-   * Macroscopic thermodynamic entropy, energy dissipation, and mechanical movement are not the 'cause' of time, but the **downstream macroscopic symptoms** generated as causal commitments unfold through physical substrates;
-   * Mistaking the projected mathematical coordinate axis t for living time is mistaking the static shadow for the sovereign agent illuminating the cut.
-
----
-
-## 五、 数学的因果本质：离散性是跨尺度不变性的物理根基 / 5. The Causal Essence of Mathematics: Discreteness as the Root of Cross-Scale Invariance
-
-理解了本底的离散性，我们便能解开人类思想史上的一个终极谜题：**为什么数学能够如此精确地跨越尺度抽象现实？**
-
-最关键的因果机制就在于：**恰恰是本底的离散性（二元切分），使得因果关系能够在不同尺度间保持拓扑不变性。**
-
-1. **离散结构决定了因果拓扑的可抽象性**：
-   * 如果实在是一团毫无间断的均质流体，就不可能存在离散的状态跃迁、组合逻辑与因果门禁；
-   * 正因为现实由最底层的离散区分所构成，因果反馈环在组合演进时，才能形成**自相似的拓扑结构（如群对称性、幂律分布、守恒比例与守恒网络）**。
-   * 无论是在普朗克尺度的微观量子态跳变，还是在宏观杠杆的力矩平衡，抑或在星系间的引力约束，**离散因果节点之间的相对逻辑关系是高度同构的**。
-2. **数字与代数是跨尺度因果的纯化提炼**：
-   * 当我们在纸面上操纵数字与方程时，我们不是在摆弄虚无缥缈的符号游戏，而是在**识别并追踪因果网络在不同尺度基底上重复涌现的不变模式**。
-   * 数学是心智的**跨尺度因果望远镜**：它剥离了特定尺度的物质阻力与物理细节，提炼出因果关系的拓扑结构，允许处于宏观尺度（米级）的第一人称心智，提前模拟与预判微观粒子或宏观星系的因果演化。
-3. **形式工具与主权原点的定位**：
-   * 数学之所以有效，是因为它提炼了离散因果的**尺度不变拓扑**；
-   * 我们之所以必须警惕它的幻觉，是因为符号运算**无法替代真实因果切分的落定**。纸面上的代数等式是静态对称的，而真实世界的推进永远依赖于第一人称原点在当下做出主权抉择（+1）。
+日常所经验的连续，来自因果在逻辑上的连贯，那个最小的步长小到可以忽略。感知的尺度在米与秒上，与普朗克尺度隔着三十五个数量级，如此多的离散台阶汇在一起，步进在宏观的平均里看不出来。微积分的 dx → 0 是在这个尺度差之下对离散微元的有效粗粒化，为宏观的工程提供了极好的计算工具。把 dx 等同于零并把它推到现实本身，则越过了它的范围，[连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/)展开了这一点。
 
 ```mermaid
-graph TD
-    subgraph DiscreteInvariance["【离散本底铸就跨尺度因果不变性】"]
+flowchart TD
+    subgraph S_Smooth["从不为零的间隔到连续的方程"]
         direction TB
-        BinaryDistinction["【普朗克离散二元切分 (δs > 0)】<br>离散节点构成因果演化的基本单元"]
-        ScaleInvariantTopology["【跨尺度因果同构拓扑】<br>离散反馈律在微观、宏观与天体尺度自相似重现"]
-        MathAbstraction["【数学形式化抽象】<br>提炼尺度不变的因果关系，实现符号沙盘模拟"]
-        FirstPersonPrevision["【第一人称跨尺度因果预判】<br>立足人类尺度，以数学沙盘精确预判全域因果级联"]
-        BinaryDistinction --> ScaleInvariantTopology
-        ScaleInvariantTopology --> MathAbstraction
-        MathAbstraction --> FirstPersonPrevision
+        Step["非零的区分：间隔不为零，物理学记在普朗克尺度"]
+        Scale["与感知的尺度隔着三十五个数量级"]
+        Coherent["所经验的连续：因果的连贯，步长小到可以忽略"]
+        Calculus["微积分：把微元当作零的有效粗粒化"]
+        Over["把微元等同于零并推到现实本身"]
+        Step --> Scale
+        Scale --> Coherent
+        Coherent --> Calculus
+        Calculus --> Over
     end
-    style DiscreteInvariance fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style BinaryDistinction fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style ScaleInvariantTopology fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style MathAbstraction fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style FirstPersonPrevision fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
+
+    style S_Smooth fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Scale fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Coherent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Calculus fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Over fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
----
-
-Grasping primordial discreteness resolves one of the ultimate enigmas of intellectual history: **Why does mathematics abstract physical reality across scales with such uncanny precision?**
-
-The causal mechanism is profound: **The very discreteness of reality is the fundamental reason why causality is invariant across scales, and therefore why it can be abstracted by mathematics.**
-
-1. **Discreteness as the Engine of Causal Topology**:
-   * If reality were an undifferentiated continuous fluid, there would be no stable states, no combinatorial logic, and no discrete causal gates;
-   * Because reality is built upon discrete binary distinctions (cuts), causal feedback loops assemble into **scale-invariant topological structures (group symmetries, power laws, conservation ratios, and network invariants)**.
-   * Whether jumping between quantum states at the Planck scale, balancing mechanical torques on a lever, or maintaining orbital constraints between stars, **the relational logic connecting discrete causal nodes remains strictly isomorphic**.
-2. **Numbers as Distillations of Cross-Scale Causal Symmetries**:
-   * When we manipulate numbers and equations, we are not playing a disconnected symbolic game; we are **identifying and tracking the repeating causal feedback patterns of the universe across disparate physical substrates**.
-   * Mathematics is the Mind's **scale-free causal telescope**: by abstracting away substrate-specific details, it isolates scale-free causal invariants, enabling a macroscopic observer to simulate and predict causal cascades across dozens of orders of magnitude.
-3. **Balancing Representational Tool and Sovereign Ground**:
-   * Mathematics works because it isolates the **scale-invariant geometry of discrete causal networks**;
-   * We must guard against its illusion because algebraic manipulation **cannot substitute the actual execution of a causal cut**. Algebraic equations are statically symmetric, whereas reality advances only when the sovereign Mind at the first-person origin makes a choice (+1) in the living present.
-
----
-
-## 六、 科学的大倒置与第一人称原点的复归 / 6. The Great Reversal of Science and the Reclamation of the First-Person Origin
-
-近代科学对人类社会造成的最大认知倒置（The Great Reversal），就在于**将心智维系的模型阴影与下游物理症状，误认为了比活生生的第一人称主权抉择更为根本的客观真理**：
-
-* **倒置的教条**：“因为物理方程中没有主观感受，时间在坐标轴上是对称可逆的，熵增与机械力学决定了物质演化，所以人类切身体验到的时间流动与自由抉择必定只是微不足道的主观错觉，唯有静态冰冷的数学结构与物理定律才是客观现实。”
-* **真相的颠倒与复归**：
-  1. 纸面上的 `1 + 1 = 2`、跨尺度的代数公式与坐标轴上的连续曲线，是心智在意识中为了规划未来而维系的**静态符号投影**；
-  2. 第一人称原点的主权抉择与区分创生（+1），才是生成因果现实、驱动时间不可逆展开的**唯一源头本体**；
-  3. 物理学中的能量耗散、物质位移与热力学熵增，悉为主权抉择在物质层级传导沉淀出的**下游物理症状**。用下游的机械模型与对称公式去消解第一人称原点的主权能动性，是用果否定因、用影子否定光源的大倒置。
+The continuity experienced day to day comes from the logical coherence of causality, the smallest step being small enough to ignore. The scale of perception is in meters and seconds, thirty-five orders of magnitude from the Planck scale, and with so many discrete steps gathered together, the stepping does not show in the macroscopic average. The dx → 0 of the calculus is an effective coarse-graining of discrete elements under this difference of scale, and it gives macroscopic engineering an excellent tool of calculation. Equating dx with zero and carrying it over to reality itself goes past its range, as [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) lays out.
 
 ```mermaid
-graph TD
-    subgraph TheGreatReversalResolution["【科学大倒置的消解与第一人称原点复归】"]
+flowchart TD
+    subgraph S_Smooth["From an Interval That Is Not Zero to Continuous Equations"]
         direction TB
-        PaperTautology["【纸面公式: 1 + 1 = 2】<br>静态、对称、跨尺度的符号投影"]
-        LivingIntervention["【主权抉择: +1】<br>划定非零区分、创生新关系的因果源头"]
-        DownstreamPhysicalSymptoms["【下游物理与热力学症状】<br>能量耗散、熵增与机械运动皆为因果沉淀物"]
-        ReversalDissolved["【消解大倒置: 工具回归工具】<br>承认数学模型的表征力量，坚守主权抉择源头本体"]
-        SovereigntyReclaimed["【主权复归第一人称原点】<br>立足当下非零边界，以真实抉择驱动因果演进"]
-        LivingIntervention --> DownstreamPhysicalSymptoms
-        PaperTautology --> ReversalDissolved
-        DownstreamPhysicalSymptoms --> ReversalDissolved
-        ReversalDissolved --> SovereigntyReclaimed
+        Step["A non-zero distinction: the interval is not zero, recorded by physics at the Planck scale"]
+        Scale["Thirty-five orders of magnitude from the scale of perception"]
+        Coherent["The continuity experienced: the coherence of causality, the step small enough to ignore"]
+        Calculus["The calculus: an effective coarse-graining that treats the element as zero"]
+        Over["The element equated with zero and carried over to reality itself"]
+        Step --> Scale
+        Scale --> Coherent
+        Coherent --> Calculus
+        Calculus --> Over
     end
-    style TheGreatReversalResolution fill:#0d1117,stroke:#30363d,stroke-width:1px,color:#c9d1d9
-    style PaperTautology fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style LivingIntervention fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
-    style DownstreamPhysicalSymptoms fill:#161b22,stroke:#d29922,stroke-width:1px,color:#d29922
-    style ReversalDissolved fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style SovereigntyReclaimed fill:#21262d,stroke:#3fb950,stroke-width:2px,color:#3fb950
+
+    style S_Smooth fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Scale fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Coherent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Calculus fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Over fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-当我们看清了**等同单元（1 = 1）**与**微元归零（dx → 0）**这两大数学虚构，并理解了**离散本底铸就跨尺度不变性**以及**主权抉择作为因果源头**的真实层级，我们便能心怀敬畏地运用形式工具，而不被工具所奴役。
+## 四、 数学作为投影仪 / 4. Mathematics as a Projector
 
-物理学与形式数学是心智无与伦比的表征利器，是跨尺度的因果罗盘；但我们必须时刻清醒：**符号沙盘在意识中可以跨越千山万水、以对称形式自由展开，而生命的每一次真实前行，都必须由第一人称的主权心智在当下划定非零区分（+1），确立其不可转让的因果责任。**
+在第一人称的意识里，直接有的只是当下。物理学里那条贯穿过去与未来的时间轴，是心智借形式数学与守恒方程搭起的时间投影仪：以当下的感知为原点，依托动力学方程与守恒律，向过去拉出一条回溯的线，向未来拉出一条预测的线，为当下的抉择提供宏观的导航与推演的沙盘。
 
----
+Within first-person awareness, what is directly had is only the present. The time axis of physics that runs through past and future is a projector of time a Mind sets up with formal mathematics and the equations of conservation: with present perception as origin and relying on dynamical equations and conservation laws, a line of retracing is drawn toward the past and a line of prediction toward the future, giving the present choice macroscopic navigation and a sandbox for working things out.
 
-The greatest cognitive reversal inflicted by reductionist science upon civilization (The Great Reversal) is **mistaking the mind-sustained model's shadow and downstream physical symptoms for the primary reality, while degrading living first-person sovereign agency into an illusion**:
+倒置发生在这条投影出来的几何时间轴被当作比当下更基础的客观存在的时候。在相对论的块状宇宙里，时间成了画好的第四条几何坐标轴，在方程里可以沿 t 轴任意向前求导、向后积分，乃至说过去、现在与未来同时存在。经验中的时间不是一条摆在空间里的导轨，它是第一人称的抉择在当下划下非零的区分（+1）、生出新的因果关系的不可逆的序贯推进，[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)展开了这一点。每一次抉择把未决的可能落为既定的初始条件。物理学里观察到的熵增、能量的流动与物质的位移，是这种推进在宏观的物理基底上沉淀出的下游症状，不是时间的来处。
 
-* **The Dogma of the Reversal**: "Because equations are time-symmetric and physical forces dictate mechanical motion, our felt experience of irreversible time and sovereign choice must be an illusion—only the frozen mathematical structure and physical laws are real."
-* **The Reclamation of Reality**:
-  1. The paper equation `1 + 1 = 2`, cross-scale algebraic formulas, and continuous coordinate axes are **static symbolic projections** sustained by the Mind for foresight and cross-scale navigation;
-  2. The sovereign choice and creation of new distinctions at the first-person origin (+1) is the **primary causal ground** that generates reality and drives the irreversible unfolding of time;
-  3. Physical energy dissipation, macroscopic friction, and thermodynamic entropy are **downstream physical symptoms** left behind as causal cascades unfold across physical substrates. Explaining away first-person sovereign agency using downstream mechanical equations is using the effect to deny the cause, and using the shadow to deny the light.
+```mermaid
+flowchart TD
+    subgraph S_Project["从当下投出的时间轴"]
+        direction TB
+        Now["当下的第一人称感知：抉择划下非零的区分 +1"]
+        Projector["方程作为投影仪：向过去与未来拉出坐标轴"]
+        Axis["被空间化的时间维度：可以正反穿行的几何线"]
+        Taken["坐标轴被当作比抉择更基础的存在"]
+        Now --> Projector
+        Projector --> Axis
+        Axis --> Taken
+    end
 
-When we see through the two great mathematical fictions—**identical units (1 = 1)** and **infinitesimal limits (dx → 0)**—and recognize that **primordial discreteness is the engine of cross-scale invariance**, we can wield formal tools with mastery without becoming trapped in their illusions.
+    style S_Project fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Projector fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Axis fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Taken fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
-Physics and mathematics are indispensable representational instruments of the Mind, serving as our greatest cross-scale causal compass. But we must remain anchored in truth: **the mental scaffolding can expand symmetrically across infinite dimensions in consciousness, but every genuine step of life must be generated by the sovereign Mind at the first-person origin (+1) through irreversible distinction-making in the living present.**
+The inversion happens when this projected geometric time axis is taken for an objective existence more basic than the present. In the block universe of relativity time becomes a fourth geometric coordinate axis already drawn; within the equations one can differentiate forward and integrate backward along the t axis at will, and even say that past, present and future exist at once. Time as experienced is not a rail laid in space; it is the irreversible sequential advance in which first-person choice draws a non-zero distinction in the present (+1) and gives rise to new causal relations, as [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) lays out. Each choice settles undecided possibility into a given initial condition. The increase of entropy, the flow of energy and the displacement of matter observed in physics are downstream symptoms this advance deposits on the macroscopic physical substrate, not where time comes from.
+
+```mermaid
+flowchart TD
+    subgraph S_Project["The Time Axis Cast From the Present"]
+        direction TB
+        Now["First-person perception in the present: choice draws a non-zero distinction +1"]
+        Projector["Equations as projector: a coordinate axis drawn toward past and future"]
+        Axis["A spatialized dimension of time: a geometric line that can be traversed both ways"]
+        Taken["The coordinate axis taken for an existence more basic than choice"]
+        Now --> Projector
+        Projector --> Axis
+        Axis --> Taken
+    end
+
+    style S_Project fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Projector fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Axis fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Taken fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+## 五、 离散是跨尺度不变的根基 / 5. Discreteness as the Root of Invariance Across Scales
+
+数学为什么能如此精确地跨尺度抽象现实？一种读法是：正是离散的区分，使因果的关系能在不同尺度之间保持拓扑上的不变。现实若是一团毫无间断的均质流体，便没有离散的状态跃迁、组合的逻辑与因果的门。由离散的区分构成，因果的反馈环在组合演进时才形成自相似的拓扑结构，群的对称、幂律的分布、守恒的比例都属此类。普朗克尺度上量子态的跳变，杠杆上力矩的平衡，星系之间引力的约束，离散因果节点之间的相对关系是同构的。
+
+Why can mathematics abstract reality across scales with such precision? One reading is this: it is discrete distinction that lets causal relations keep a topological invariance between different scales. Were reality a homogeneous fluid with no break in it, there would be no discrete transitions of state, no combinatorial logic and no causal gates. Made of discrete distinctions, causal feedback loops form self-similar topological structures as they combine and develop; group symmetries, power-law distributions and ratios of conservation are of this kind. In the jump of a quantum state at the Planck scale, the balance of torques on a lever, the gravitational constraint between galaxies, the relative relations among discrete causal nodes are isomorphic.
+
+在纸面上操纵数字与方程，因此是在辨认并追踪因果网络在不同尺度的基底上重复出现的不变模式。数学是心智跨尺度的因果望远镜：它剥去特定尺度上的阻力与细节，提炼出因果关系的拓扑，让处在米级尺度的第一人称心智得以提前模拟微观粒子或星系的因果演化。它的边界在于符号的运算替代不了因果切分的落定：纸面上的等式是静态对称的，世界的推进靠第一人称的原点在当下作出抉择（+1）。
+
+```mermaid
+flowchart TD
+    subgraph S_Invariant["离散与跨尺度的不变"]
+        direction TB
+        Cut["离散的区分：因果演进的基本单元"]
+        Topology["跨尺度同构的因果拓扑：在微观、宏观与天体尺度上重现"]
+        Abstract["数学的抽象：提炼尺度不变的关系"]
+        Foresee["第一人称的跨尺度预判"]
+        Settle["落定仍在原点上的抉择 +1"]
+        Cut --> Topology
+        Topology --> Abstract
+        Abstract --> Foresee
+        Foresee --> Settle
+    end
+
+    style S_Invariant fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Cut fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Topology fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Abstract fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Foresee fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Settle fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+Working with numbers and equations on paper is therefore recognizing and tracking the invariant patterns that recur in the causal network on substrates of different scales. Mathematics is a Mind's causal telescope across scales: it strips away the resistance and detail of a particular scale and distills the topology of causal relations, letting a first-person Mind at the scale of meters simulate in advance the causal evolution of microscopic particles or galaxies. Its boundary is that the operation of symbols cannot stand in for the settling of a causal cut: an equation on paper is statically symmetric, and the world advances by a choice made in the present at the first-person origin (+1).
+
+```mermaid
+flowchart TD
+    subgraph S_Invariant["Discreteness and Invariance Across Scales"]
+        direction TB
+        Cut["Discrete distinction: the basic unit of causal development"]
+        Topology["Causal topology isomorphic across scales: recurring at microscopic, macroscopic and celestial scales"]
+        Abstract["Mathematical abstraction: distilling relations invariant in scale"]
+        Foresee["First-person anticipation across scales"]
+        Settle["The settling is still a choice at the origin +1"]
+        Cut --> Topology
+        Topology --> Abstract
+        Abstract --> Foresee
+        Foresee --> Settle
+    end
+
+    style S_Invariant fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Cut fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Topology fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Abstract fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Foresee fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Settle fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+## 六、 大倒置与第一人称原点的复归 / 6. The Great Reversal and the Return to the First-Person Origin
+
+近代科学带来的最大的认知倒置，是把心智维持的模型与下游的物理症状，当作比第一人称的抉择更基础的客观之物。这种说法是：物理方程里没有主观的感受，时间在坐标轴上对称可逆，熵增与力学决定物质的演化，所以切身经验到的时间流动与抉择只是主观的错觉，唯有静态的数学结构与物理定律才是客观的现实。[大倒置的消解](../the-dissolution-of-the-great-reversal/)追溯过这一步。
+
+The greatest cognitive inversion that modern science has brought is taking the model a Mind maintains, and the physical symptoms downstream, for objective things more basic than first-person choice. The claim runs: there is no subjective feeling in the equations of physics, time is symmetric and reversible on the coordinate axis, the increase of entropy and mechanics determine the evolution of matter, and so the flow of time and the choosing experienced at first hand are only subjective illusion, with static mathematical structure and physical law alone being objective reality. [The Dissolution of the Great Reversal](../the-dissolution-of-the-great-reversal/) has traced this step.
+
+把次序放回去，三层各在其位。纸面上的 1 + 1 = 2、跨尺度的代数公式与坐标轴上的连续曲线，是心智为规划未来而在意识里维持的静态符号投影。第一人称原点上的抉择与区分的生成（+1），是生成因果、推动时间不可逆展开的源头。能量的耗散、物质的位移与熵增，是抉择在物质层级上传导沉淀出的下游症状。用下游的机械模型与对称的公式去消解原点上的抉择，是以果否定因。
+
+```mermaid
+flowchart TD
+    subgraph S_Return["三层各归其位"]
+        direction TB
+        Paper["纸面的公式：静态、对称、跨尺度的符号投影"]
+        Choice["原点上的抉择 +1：因果的源头"]
+        Symptom["下游的物理症状：耗散、位移与熵增"]
+        Tool["工具回到工具：承认模型的表征力量"]
+        Stand["立在当下非零的边界上，以抉择推动因果"]
+        Choice --> Symptom
+        Paper --> Tool
+        Symptom --> Tool
+        Tool --> Stand
+    end
+
+    style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Paper fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Choice fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Symptom fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Tool fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Stand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+With the order put back, the three layers each have their place. The 1 + 1 = 2 on paper, algebraic formulas across scales and continuous curves on coordinate axes are static symbolic projections a Mind maintains within awareness for planning the future. Choice at the first-person origin and the generation of distinction (+1) are the source that generates causality and drives the irreversible unfolding of time. The dissipation of energy, the displacement of matter and the increase of entropy are downstream symptoms that choice deposits as it is conducted through the level of matter. Using a mechanical model and symmetric formulas from downstream to dissolve the choice at the origin is denying the cause by its effect.
+
+```mermaid
+flowchart TD
+    subgraph S_Return["Three Layers, Each in Its Place"]
+        direction TB
+        Paper["The formula on paper: a static, symmetric symbolic projection across scales"]
+        Choice["Choice at the origin +1: the source of causality"]
+        Symptom["Physical symptoms downstream: dissipation, displacement and entropy"]
+        Tool["The tool returns to being a tool: the model's power of representation acknowledged"]
+        Stand["Standing on the non-zero boundary of the present, driving causality by choice"]
+        Choice --> Symptom
+        Paper --> Tool
+        Symptom --> Tool
+        Tool --> Stand
+    end
+
+    style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Paper fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Choice fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Symptom fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Tool fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Stand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+看清等同的单元与归零的微元这两项设定，并看到离散的区分带来跨尺度的不变、抉择是因果的源头，形式的工具便可以用得从容。物理学与形式数学是心智的表征利器，是跨尺度的因果罗盘。符号的沙盘在意识里可以对称地展开到很远，生命的每一步前行，则由第一人称的心智在当下划下非零的区分（+1）并承担它带来的因果。
+
+With the two posits of identical units and an element going to zero seen clearly, and with it seen that discrete distinction brings invariance across scales and that choice is the source of causality, formal tools can be used with ease. Physics and formal mathematics are a Mind's instruments of representation and a causal compass across scales. The sandbox of symbols can unfold symmetrically a long way within awareness, while each step forward in a life is made by a first-person Mind drawing a non-zero distinction in the present (+1) and bearing the causality it brings.

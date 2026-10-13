@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T14:31:41.141Z",
+    "generated_at": "2026-10-13T14:44:33.427Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -263,7 +263,7 @@
       "content/posts/the-illusion-of-free-intelligence.md": "9568470705b9",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "de6493d46028",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "744ed48a679b",
-      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "2de4df8e84dd",
+      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "d7384a29a960",
       "content/posts/the-illusion-of-the-unmediated.md": "8e56c117ba6d",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
       "content/posts/the-initial-distinction.md": "20cc20e40f0b",
@@ -418,10 +418,10 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5435,
-      "unique_directed": 4485,
+      "edges": 5441,
+      "unique_directed": 4488,
       "missing_targets": 0,
-      "one_way": 91,
+      "one_way": 94,
       "isolated": 37,
       "posts_with_outbound": 353,
       "book_pages": 16,
@@ -5754,7 +5754,7 @@
       "path": "content/posts/the-continuum-is-a-modeling-convenience.md",
       "title": "连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience",
       "hash": "2622676a6816",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 7,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -5995,7 +5995,7 @@
       "path": "content/posts/the-dissolution-of-the-great-reversal.md",
       "title": "大倒置的消解 / The Dissolution of the Great Reversal",
       "hash": "3ef5fa05ee7f",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 1,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring"
@@ -6753,11 +6753,14 @@
       "slug": "the-illusion-of-the-tool-and-the-inversion-of-time",
       "path": "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md",
       "title": "工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time",
-      "hash": "2de4df8e84dd",
+      "hash": "d7384a29a960",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 4,
       "links_out": [
-        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry"
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "the-continuum-is-a-modeling-convenience",
+        "time-is-causality-not-a-dimension",
+        "the-dissolution-of-the-great-reversal"
       ]
     },
     {
@@ -8956,7 +8959,7 @@
       "path": "content/posts/time-is-causality-not-a-dimension.md",
       "title": "Time Is the Irreversible Direction and Discrete Step of Causality",
       "hash": "4b221543ea62",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "dimensions-are-projections",
@@ -31608,6 +31611,42 @@
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "连续性作为建模的权宜之计"
+    },
+    {
+      "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "The Continuum is a Modeling Convenience"
+    },
+    {
+      "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "时间是因果的不可逆方向与离散步长"
+    },
+    {
+      "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
+    },
+    {
+      "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "to": "the-dissolution-of-the-great-reversal",
+      "rel": "points_to",
+      "label": "大倒置的消解"
+    },
+    {
+      "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "to": "the-dissolution-of-the-great-reversal",
+      "rel": "points_to",
+      "label": "The Dissolution of the Great Reversal"
     },
     {
       "from": "the-illusion-of-the-unmediated",
