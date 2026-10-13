@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T16:48:47.204Z",
+    "generated_at": "2026-10-13T16:52:14.164Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -351,7 +351,7 @@
       "content/posts/the-three-shadows-of-the-cut.md": "934b07423dd5",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "1a3388db8649",
-      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "0dc66e0ddaf4",
+      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "d664c0528884",
       "content/posts/the-unclosable-trace.md": "267dd76ab6f4",
       "content/posts/the-unexamined-critic.md": "752a0cbd970f",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
@@ -418,10 +418,10 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5451,
-      "unique_directed": 4494,
+      "edges": 5453,
+      "unique_directed": 4495,
       "missing_targets": 0,
-      "one_way": 100,
+      "one_way": 101,
       "isolated": 37,
       "posts_with_outbound": 353,
       "book_pages": 16,
@@ -8713,9 +8713,9 @@
       "slug": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
-      "hash": "0dc66e0ddaf4",
+      "hash": "d664c0528884",
       "in_degree": 18,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -8729,6 +8729,7 @@
         "the-freedom-of-will-to-deny-itself",
         "the-causal-inversion-of-partnership",
         "the-moral-reversal-and-the-scripted-subject",
+        "when-electrons-think",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -9364,7 +9365,7 @@
       "path": "content/posts/when-electrons-think.md",
       "title": "当电子开始思考 / When Electrons Think",
       "hash": "fbdd3178e8f3",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "objects-are-stabilized-relationships",
@@ -38768,7 +38769,7 @@
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体抉择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -38796,6 +38797,12 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "No Outside Scorekeeper"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
       "label": "自由的测不准"
@@ -38814,21 +38821,15 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "no-outside-scorekeeper",
-      "rel": "points_to",
-      "label": "No Outside Scorekeeper"
-    },
-    {
-      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
-      "label": "The Uncertainty Principle of Freedom"
+      "label": "The Uncertainty of Freedom"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "The Isomorphism of Free Variables and A Priori Sovereignty"
+      "label": "The Isomorphism of Free Variables and Prior Sovereignty"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -38868,18 +38869,6 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-freedom-of-will-to-deny-itself",
-      "rel": "points_to",
-      "label": "自由意志的自否自由"
-    },
-    {
-      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-causal-inversion-of-partnership",
-      "rel": "points_to",
-      "label": "契约的因果倒置"
-    },
-    {
-      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "the-grammar-of-finding-and-the-fading-observer",
       "rel": "points_to",
       "label": "The Grammar of Finding and the Fading Observer"
@@ -38888,7 +38877,19 @@
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "the-freedom-of-will-to-deny-itself",
       "rel": "points_to",
+      "label": "自由意志的自否自由"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
       "label": "The Freedom of Will to Deny Itself"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "契约的因果倒置"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -38904,15 +38905,27 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "the-moral-reversal-and-the-scripted-subject",
+      "rel": "points_to",
+      "label": "The Moral Reversal and the Scripted Subject"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "when-electrons-think",
+      "rel": "points_to",
+      "label": "当电子开始思考"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "“普通人视角”的解释陷阱"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-moral-reversal-and-the-scripted-subject",
+      "to": "when-electrons-think",
       "rel": "points_to",
-      "label": "The Moral Reversal and the Scripted Subject"
+      "label": "When Electrons Think"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -38925,6 +38938,12 @@
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
       "label": "从AGI的“神性错置”到使用者的自我对齐"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "From the Misallocated Sentience of AGI to Human Realignment"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -38946,18 +38965,6 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
-      "rel": "points_to",
-      "label": "笛卡尔的认识论跃迁与造神狂热"
-    },
-    {
-      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "rel": "points_to",
-      "label": "From the Misallocated Sentience of AGI to Human Realignment"
-    },
-    {
-      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "rel": "points_to",
       "label": "The Illusion of Knowing and the Geometry of Amputation"
@@ -38973,6 +38980,12 @@
       "to": "the-boundary-crossing-of-choice",
       "rel": "points_to",
       "label": "The Boundary Crossing of Choice"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "笛卡尔的认识论跃迁与造神狂热"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
