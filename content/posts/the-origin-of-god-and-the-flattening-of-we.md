@@ -68,7 +68,7 @@ flowchart TD
 
 Once one's own rendering position at the origin is forgotten, this detached overview needs something to rest on. The panoramic view is vast, stable and imposing, the avatar of the self inside it is small, and the overview perspective is peeled outward into a transcendent entity independent of oneself. The concept of God can thus be read as the highest outside observer, made into an entity after a Mind has projected its own capacity for overview outward.
 
-这一步在心智的内部把自己的主权放到了外面。当这个结构在人群里被语言符号化、仪式化并广为共享时，它凝成制度化的宗教。宗教把这个最高的观测者立为全域的坐标系，对群体里的每一个心智作自上而下的校准，这对整合群体的秩序是有益的。它的边界在于，被仰望的那个视角，是千百年来共同投射出去而没有收回的认知总览。
+这一步在心智的内部把自己的主权放到了外面。当这个结构在人群里被语言符号化、仪式化并广为共享时，它凝成制度化的宗教。宗教把这个最高的观测者立为全域的坐标系，对群体里的每一个心智作自上而下的校准，这对协调个体之间的行动是有用的。它的边界在于，被仰望的那个视角，是千百年来共同投射出去而没有收回的认知总览。
 
 ```mermaid
 flowchart TD
@@ -93,7 +93,7 @@ flowchart TD
     style Unclaimed fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-This step, within a Mind, puts its own sovereignty outside. When the structure is symbolized in language, ritualized and widely shared among people, it congeals into institutional religion. Religion sets up this highest observer as a coordinate system for the whole domain and calibrates each Mind in the group from above, which is beneficial for integrating the order of a group. Its boundary is that the perspective looked up to is a cognitive overview projected outward in common over centuries and not taken back.
+This step, within a Mind, puts its own sovereignty outside. When the structure is symbolized in language, ritualized and widely shared among people, it congeals into institutional religion. Religion sets up this highest observer as a coordinate system for the whole domain and calibrates each Mind in the group from above, which is useful in coordinating actions among individuals. Its boundary is that the perspective looked up to is a cognitive overview projected outward in common over centuries and not taken back.
 
 ```mermaid
 flowchart TD
@@ -124,7 +124,7 @@ flowchart TD
 
 The rise of the Enlightenment and of scientific reason is often seen as the end of theological constraint. Where the causal mechanism has not been calibrated at the first-person origin, the same structure reappears in the secular domain in different clothes. When a scientific theory leaves the individual Mind's own verification and the causal feedback loop and becomes a conclusion in a textbook beyond question, accepting it is structurally the same as revering an oracle: judgment has been handed to an abstract authority detached from the first-person origin.
 
-更深一层的降维发生在谈论“人类整体”或各种集体概念的时候。跳出具体的个体，站在设想的高处俯瞰“人类”时，所做的是在一个很窄的特征维度上，比如物种的基因、经济的产出或政治的派别，对数以十亿计的心智作一维的统计求均值。均值对公共的协调是有用的。它的边界在于，每一个心智所渲染的那个完整的世界不在这个数里，它成了宏大叙事里无差别的像素点，[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)把这个出清价与内心的图景分了开来。
+更深一层的降维发生在谈论“人类整体”或各种集体概念的时候。跳出具体的个体，站在设想的高处俯瞰“人类”时，所做的是在一个很窄的特征维度上，比如物种的基因、经济的产出或政治的派别，对数以十亿计的心智作一维的统计求均值。均值对协调个体之间的行动是有用的。它的边界在于，每一个心智所渲染的那个完整的世界不在这个数里，它成了宏大叙事里无差别的像素点，[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)把这个出清价与内心的图景分了开来。
 
 ```mermaid
 flowchart TD
@@ -152,7 +152,7 @@ flowchart TD
     style Pixel fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-A deeper reduction of dimension happens in talk of "humanity as a whole" or of collective concepts of various kinds. Stepping out of particular individuals and overlooking "humanity" from an imagined height, what is done is taking a one-dimensional statistical mean, along a very narrow dimension of features such as the genes of the species, economic output or political faction, over Minds numbering in the billions. A mean is useful for public coordination. Its boundary is that the complete world each Mind renders is not in that number; it has become an undifferentiated pixel in a grand narrative, and [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) separates this clearing price from the picture within.
+A deeper reduction of dimension happens in talk of "humanity as a whole" or of collective concepts of various kinds. Stepping out of particular individuals and overlooking "humanity" from an imagined height, what is done is taking a one-dimensional statistical mean, along a very narrow dimension of features such as the genes of the species, economic output or political faction, over Minds numbering in the billions. A mean is useful in coordinating actions among individuals. Its boundary is that the complete world each Mind renders is not in that number; it has become an undifferentiated pixel in a grand narrative, and [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) separates this clearing price from the picture within.
 
 ```mermaid
 flowchart TD
