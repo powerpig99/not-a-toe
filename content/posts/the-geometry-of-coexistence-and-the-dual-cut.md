@@ -332,9 +332,9 @@ flowchart TD
 
 ## 七、 距离遗忘与追逐影子 / 7. Distance Amnesia and Chasing the Shadow
 
-心智沉在抽离观察的假象里、忘了自己是划下切分的第一人称原点时，视差生出一个困局。从拓扑的结构看，所见的整个世界是心智自身之内的感知场，“自我形象”是心智在这个场里的投射。心智在自身与外部世界之间划下的边界，像一面双向的镜子：向外映出宇宙，向内折出局域的自我虚像。这个自我形象在拓扑上像是嵌在世界“之内”，它其实是感知画卷翻到另一面的投影。
+心智沉在抽离观察的假象里、忘了自己是划下切分的第一人称原点时，视差生出一个困局，[距离的幻觉与尺度的双向投影](../the-illusion-of-distance-and-the-dual-ruler/)追溯过这种距离的幻觉。从拓扑的结构看，所见的整个世界是心智自身之内的感知场，“自我形象”是心智在这个场里的投射。心智在自身与外部世界之间划下的边界，像一面双向的镜子：向外映出宇宙，向内折出局域的自我虚像。这个自我形象在拓扑上像是嵌在世界“之内”，它其实是感知画卷翻到另一面的投影。
 
-When a Mind sinks into the appearance of detached observation and forgets that it is the first-person origin that drew the cut, parallax produces a predicament. Seen in its topological structure, the whole world that is seen is the perceptual field within the Mind itself, and the "self-image" is the Mind's projection within that field. The boundary a Mind draws between itself and the outer world is like a two-way mirror: outward it reflects the cosmos, inward it throws a local virtual image of the self. Topologically this self-image seems nested "inside" the world, and it is in fact the projection of the perceptual canvas turned to its other side.
+When a Mind sinks into the appearance of detached observation and forgets that it is the first-person origin that drew the cut, parallax produces a predicament, and [The Illusion of Distance and the Dual Projections of the Ruler](../the-illusion-of-distance-and-the-dual-ruler/) has traced this illusion of distance. Seen in its topological structure, the whole world that is seen is the perceptual field within the Mind itself, and the "self-image" is the Mind's projection within that field. The boundary a Mind draws between itself and the outer world is like a two-way mirror: outward it reflects the cosmos, inward it throws a local virtual image of the self. Topologically this self-image seems nested "inside" the world, and it is in fact the projection of the perceptual canvas turned to its other side.
 
 注意力全落在这个自我形象上时，心智是在追自己的影子。这像硬币的一面要转过身去追另一面：每翻一次去看反面，正面已先走了一步，每一次回头看到的是上一瞬留下的残影，由此生出“外在世界与自我形象总在前面”的滞后感。忘了自己正是翻硬币的原点，心智便陷在不停的翻转里，不断拉锯，原地未动。在这种状态下作出的每一个“新区分”，都是在为上一次切分的匮乏、恐惧或漏洞打补丁；区分都成了防御性的代偿，能量耗尽而没有维度上的生长。
 

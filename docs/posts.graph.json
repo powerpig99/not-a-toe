@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-13T18:23:53.403Z",
+    "generated_at": "2026-10-13T18:35:23.111Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -249,7 +249,7 @@
       "content/posts/the-generative-contradiction.md": "181c40e6e269",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "2335c049939e",
       "content/posts/the-generative-topology-of-free-variables.md": "7a3c85d5294c",
-      "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "a0a3f5bb23b7",
+      "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "5f95796cdcc8",
       "content/posts/the-geometry-of-emergence.md": "89925e3a76ab",
       "content/posts/the-geometry-of-mind.md": "92932a073669",
       "content/posts/the-geometry-of-success.md": "dc47507d236b",
@@ -259,7 +259,7 @@
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
-      "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "010cf824bc55",
+      "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "7e1d40f4d227",
       "content/posts/the-illusion-of-free-intelligence.md": "9568470705b9",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "87c68cdf7df5",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "744ed48a679b",
@@ -418,12 +418,12 @@
     },
     "stats": {
       "posts": 391,
-      "edges": 5483,
-      "unique_directed": 4510,
+      "edges": 5493,
+      "unique_directed": 4515,
       "missing_targets": 0,
-      "one_way": 116,
-      "isolated": 36,
-      "posts_with_outbound": 354,
+      "one_way": 119,
+      "isolated": 35,
+      "posts_with_outbound": 355,
       "book_pages": 16,
       "book_edges": 982,
       "posts_reached_by_book": 391
@@ -622,7 +622,6 @@
     "the-collapsed-debate",
     "the-defining-seat",
     "the-descent-that-doesnt-know-where-its-going",
-    "the-illusion-of-distance-and-the-dual-ruler",
     "the-interesting-case-of-rubin",
     "the-loop-accelerates",
     "the-maintenance-paradox",
@@ -5832,7 +5831,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "57ec612f18d1",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 5,
       "links_out": [
         "consciousness-ascription-and-the-quantum-cut",
@@ -6478,13 +6477,14 @@
       "slug": "the-geometry-of-coexistence-and-the-dual-cut",
       "path": "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md",
       "title": "共存的几何学 / The Geometry of Coexistence",
-      "hash": "a0a3f5bb23b7",
-      "in_degree": 0,
-      "out_degree": 3,
+      "hash": "5f95796cdcc8",
+      "in_degree": 1,
+      "out_degree": 4,
       "links_out": [
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-cut-moves-but-never-vanishes",
-        "when-electrons-think"
+        "when-electrons-think",
+        "the-illusion-of-distance-and-the-dual-ruler"
       ]
     },
     {
@@ -6680,10 +6680,15 @@
       "slug": "the-illusion-of-distance-and-the-dual-ruler",
       "path": "content/posts/the-illusion-of-distance-and-the-dual-ruler.md",
       "title": "距离的幻觉与尺度的双向投影 / The Illusion of Distance and the Dual Projections of the Ruler",
-      "hash": "010cf824bc55",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "hash": "7e1d40f4d227",
+      "in_degree": 1,
+      "out_degree": 4,
+      "links_out": [
+        "the-cut-moves-but-never-vanishes",
+        "the-illusion-of-the-shared-sandbox",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-geometry-of-coexistence-and-the-dual-cut"
+      ]
     },
     {
       "id": "post:the-illusion-of-free-intelligence",
@@ -6746,7 +6751,7 @@
       "path": "content/posts/the-illusion-of-the-shared-sandbox.md",
       "title": "共享沙盒的幻象 / The Illusion of the Shared Sandbox",
       "hash": "744ed48a679b",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 9,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -8729,7 +8734,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "132e275da6fc",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 19,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -30891,6 +30896,18 @@
       "label": "When Electrons Think"
     },
     {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "the-illusion-of-distance-and-the-dual-ruler",
+      "rel": "points_to",
+      "label": "距离的幻觉与尺度的双向投影"
+    },
+    {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "the-illusion-of-distance-and-the-dual-ruler",
+      "rel": "points_to",
+      "label": "The Illusion of Distance and the Dual Projections of the Ruler"
+    },
+    {
       "from": "the-geometry-of-emergence",
       "to": "the-three-shadows-of-the-cut",
       "rel": "points_to",
@@ -31441,6 +31458,54 @@
       "to": "the-observational-cut-in-ai-debates",
       "rel": "points_to",
       "label": "The observational cut in AI debates"
+    },
+    {
+      "from": "the-illusion-of-distance-and-the-dual-ruler",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "the-illusion-of-distance-and-the-dual-ruler",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "the-illusion-of-distance-and-the-dual-ruler",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "共享沙盒的幻象"
+    },
+    {
+      "from": "the-illusion-of-distance-and-the-dual-ruler",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "The Illusion of the Shared Sandbox"
+    },
+    {
+      "from": "the-illusion-of-distance-and-the-dual-ruler",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "the-illusion-of-distance-and-the-dual-ruler",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "the-illusion-of-distance-and-the-dual-ruler",
+      "to": "the-geometry-of-coexistence-and-the-dual-cut",
+      "rel": "points_to",
+      "label": "共存的几何学"
+    },
+    {
+      "from": "the-illusion-of-distance-and-the-dual-ruler",
+      "to": "the-geometry-of-coexistence-and-the-dual-cut",
+      "rel": "points_to",
+      "label": "The Geometry of Coexistence"
     },
     {
       "from": "the-illusion-of-free-intelligence",
