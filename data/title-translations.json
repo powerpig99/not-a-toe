@@ -13,10 +13,6 @@
       "title_en": "Individual Choice: The True Coordinates of Socialization and Being Oneself",
       "subtitle_en": "Social phenomena are the lagging sediment of countless individual choices; being oneself is not fighting the environment but continually reclaiming one's own edge of action within the field of traces."
     },
-    "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi": {
-      "title_en": "Investigating Things and the Nature of Information Complexity",
-      "subtitle_en": "Investigating things was never a static third-person gaze but embodied first-person entry into the working conditions; knowledge is massless compressed information that resonates with reality only along continuous causal reasoning."
-    },
     "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun": {
       "title_en": "The Turn at the Crossroads and the Flat Earther's Paradox of Action",
       "subtitle_en": "Gump wins by never leaving the first-person seat of causal execution, and the flat earther walks safely by live calibration; asking the winner which way he turned misplaces the coordinates of attribution."
@@ -424,6 +420,10 @@
     "guan-yu-gui-yin": {
       "title_en": "On Attribution: From Fact to Cause, From Outside Node to Inner Iteration",
       "subtitle_en": "Taking facts in time order straight as causal relations stops attribution at the conspicuous node, and iteration breaks off there."
+    },
+    "the-closed-loop-of-representation": {
+      "title_zh": "表征的闭环",
+      "subtitle_zh": "叔本华的不读之术显示，感知与误解都在各自私有的模型之内运作；共享的现实是功能上的共振，而不是直接的通达。"
     }
   }
 }

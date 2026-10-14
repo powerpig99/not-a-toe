@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:37:05.387Z",
+    "generated_at": "2026-10-14T21:39:08.985Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -87,7 +87,7 @@
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "71812a697b3f",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "c81f2c71d076",
-      "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "a1b926b30911",
+      "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "dd2c6b4a55e6",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "f0c515ee862c",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "efe569660ce6",
@@ -404,9 +404,9 @@
       "content/book/causality.md": "6cc7c36374ce",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "6981446aec26",
-      "content/book/index-of-premises.md": "004564f64ee4",
+      "content/book/index-of-premises.md": "983978d9b025",
       "content/book/intelligence.md": "5c06fbf5cc01",
-      "content/book/knowledge-and-learning.md": "3df71b75d2b0",
+      "content/book/knowledge-and-learning.md": "242fc0e02bd2",
       "content/book/life-and-statistics.md": "57d582e7bf12",
       "content/book/mathematics.md": "d68e7f2f0b5a",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5942,
+      "edges": 5953,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1046,
+      "book_edges": 1047,
       "posts_reached_by_book": 393
     }
   },
@@ -2473,8 +2473,8 @@
       "kind": "post",
       "slug": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "path": "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md",
-      "title": "格物致知与信息复杂度的本质：从第三人称凝视到具身因果推演",
-      "hash": "a1b926b30911",
+      "title": "格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity",
+      "hash": "dd2c6b4a55e6",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -16742,27 +16742,57 @@
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "Stopping at Judgment Is a Wrong Turn of Cognition"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "Misplaced Causality and the Mind's Compiler"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "to": "the-closed-loop-of-representation",
       "rel": "points_to",
       "label": "表征的闭环"
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "真正的有效信息"
+      "label": "信息是什么"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
-      "label": "涌现的伪因果与集体归因倒错"
+      "label": "涌现的伪因果"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "The Pseudo-Causality of Emergence"
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "涌现作为心智的划界动作"
+      "label": "复杂性遮蔽了涌现"
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
@@ -16772,15 +16802,33 @@
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "rel": "points_to",
+      "label": "The Ladder of Projections and the Anchor of Causality"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "to": "the-mark-and-the-act",
       "rel": "points_to",
-      "label": "痕迹与行动"
+      "label": "印迹与行动"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "彻头彻尾的因果律"
+      "label": "因果贯穿始终"
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
@@ -16792,7 +16840,25 @@
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "From the Myth of Form to the Closed Loop of Logic"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -45552,7 +45618,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "004564f64ee4",
+        "hash": "983978d9b025",
         "out_degree": 393
       },
       {
@@ -45570,7 +45636,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "3df71b75d2b0",
+        "hash": "242fc0e02bd2",
         "out_degree": 33
       },
       {
@@ -46798,6 +46864,12 @@
         "to": "the-unexamined-critic",
         "rel": "collects",
         "label": "未经自我审视的批判者 / The Unexamined Critic"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+        "rel": "collects",
+        "label": "格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity"
       },
       {
         "from": "book:index-of-premises",
@@ -48657,7 +48729,7 @@
         "from": "book:index-of-premises",
         "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "rel": "collects",
-        "label": "格物致知与信息复杂度的本质：从第三人称凝视到具身因果推演"
+        "label": "格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity"
       },
       {
         "from": "book:index-of-premises",
@@ -50571,7 +50643,7 @@
         "from": "book:knowledge-and-learning",
         "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "rel": "collects",
-        "label": "格物致知与信息复杂度的本质：从第三人称凝视到具身因果推演"
+        "label": "格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity"
       },
       {
         "from": "book:knowledge-and-learning",

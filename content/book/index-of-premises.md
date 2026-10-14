@@ -629,6 +629,15 @@ Sowell's point that policies should be judged by incentives, not goals, is accur
 
 → [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/) · [未经自我审视的批判者 / The Unexamined Critic](../../posts/the-unexamined-critic/)
 
+### 王阳明 / Wang Yangming
+`哲学 / Philosophical`
+
+王阳明格竹七日而病，由此离开朱熹的即物穷理、走向知行合一，这一转向有用；把格竹的失败读成格物本身走不通，在此到了边界：失败出在把必须在第一人称之内展开的微观因果推演，做成了第三人称的凝视。
+
+Wang Yangming investigated the bamboo for seven days, fell ill, and so left Zhu Xi's exhausting of principle in things for the unity of knowing and acting, a turn of real use; reading the failure as proof that investigating things cannot work is where it reaches its boundary, since the failure lay in making a micro causal reasoning that must unfold within the first person into a third-person gaze.
+
+→ [格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity](../../posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)
+
 ### 威廉·诺德豪斯 / William Nordhaus
 `经济 / Economic`
 
@@ -3039,11 +3048,11 @@ Invisible free variable presumes complex systems evolve via unmodeled degrees of
 ### 格物致知的信息学重构 / Investigation of Things (Ge Wu Zhi Zhi)
 `哲学 / Philosophical`
 
-理学格物论假定通过沉思心性即可穷尽天下之理；真知必须依托与现实物理边界的亲身摩擦，非书斋冥想所能推演。
+格物致知，即物穷理，在面对外物求知时有用；照着它做第三人称的凝视，在此到了边界：注视提供不了动态的因果输入，格物要在第一人称之内具身地代入对方的工况、推演微观的因果才能致知，而人的知识是无质量的低维压缩，与无尽复杂的物质之间横着越不过去的鸿沟。
 
-Neo-Confucianism presumes contemplating moral principles reveals universal order; exploring reality requires direct empirical friction with complex material constraints beyond armchair contemplation.
+Investigating things to reach knowledge, exhausting the principle by going to things, is of use in seeking knowledge from outside things; done as a third-person gaze it reaches its boundary, since gazing supplies no dynamic causal input, investigation reaches knowledge only by embodied entry, within the first person, into the other's conditions and reasoning through micro causality, and human knowledge is massless low-dimensional compression with an uncrossable gulf between it and endlessly complex matter.
 
-→ [格物致知与信息复杂度的本质：从第三人称凝视到具身因果推演](../../posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)
+→ [格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity](../../posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)
 
 ### 投资基本面 / Investment Fundamentals
 `经济 / Economic`
