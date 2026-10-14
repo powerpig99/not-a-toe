@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:53:13.607Z",
+    "generated_at": "2026-10-14T21:56:37.433Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -370,7 +370,7 @@
       "content/posts/time-is-causality-not-a-dimension.md": "53a16236f39d",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "6b95a39fdecb",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "6d296ae60596",
-      "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "ab4a03e78251",
+      "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "9b2169e85727",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "ca993bca4cc8",
       "content/posts/two-failures-of-trace.md": "b1672bec5b8e",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "f648faf69414",
@@ -403,8 +403,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "6cc7c36374ce",
       "content/book/consciousness.md": "5c18c8537a39",
-      "content/book/economics.md": "6981446aec26",
-      "content/book/index-of-premises.md": "8305e99b46f5",
+      "content/book/economics.md": "fce1fbb82b95",
+      "content/book/index-of-premises.md": "65239fc98446",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "242fc0e02bd2",
       "content/book/life-and-statistics.md": "57d582e7bf12",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5976,
+      "edges": 5985,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1047,
+      "book_edges": 1049,
       "posts_reached_by_book": 393
     }
   },
@@ -9119,8 +9119,8 @@
       "kind": "post",
       "slug": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "path": "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md",
-      "title": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏",
-      "hash": "ab4a03e78251",
+      "title": "投资决策的因果闭环 / The Causal Loop of Investment Decisions",
+      "hash": "9b2169e85727",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -43060,7 +43060,19 @@
       "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
@@ -43070,15 +43082,33 @@
     },
     {
       "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "rel": "points_to",
-      "label": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择"
+      "label": "自尊的刚性外壳与隐性外部归因"
     },
     {
       "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
-      "label": "涌现的伪因果与集体归因倒错"
+      "label": "涌现的伪因果"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "The Rigid Shell of Self-Esteem and Hidden External Attribution"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "The Pseudo-Causality of Emergence"
     },
     {
       "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
@@ -43088,21 +43118,45 @@
     },
     {
       "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "Stopping at Judgment Is a Wrong Turn of Cognition"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
-      "label": "学习过程中不可观察的驱动力"
+      "label": "学习中不可观测的驱动力"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The Unobservable Driver of Learning"
     },
     {
       "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "rel": "points_to",
-      "label": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则"
+      "label": "错置的因果与心智编译器"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "Misplaced Causality and the Mind's Compiler"
     },
     {
       "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "rel": "points_to",
-      "label": "投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构"
+      "label": "投影的阶梯与因果的锚点"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "rel": "points_to",
+      "label": "The Ladder of Projections and the Anchor of Causality"
     },
     {
       "from": "trusting-the-reader-is-the-last-overstep",
@@ -45747,7 +45801,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "6981446aec26",
+        "hash": "fce1fbb82b95",
         "out_degree": 29
       },
       {
@@ -45756,7 +45810,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "8305e99b46f5",
+        "hash": "65239fc98446",
         "out_degree": 393
       },
       {
@@ -46431,7 +46485,7 @@
         "from": "book:economics",
         "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
         "rel": "collects",
-        "label": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏"
+        "label": "投资决策的因果闭环 / The Causal Loop of Investment Decisions"
       },
       {
         "from": "book:economics",
@@ -48361,6 +48415,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+        "rel": "collects",
+        "label": "投资决策的因果闭环 / The Causal Loop of Investment Decisions"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-myth-of-population-collapse-explained",
         "rel": "collects",
         "label": "The Myth of Population Collapse Explained"
@@ -49687,6 +49747,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+        "rel": "collects",
+        "label": "投资决策的因果闭环 / The Causal Loop of Investment Decisions"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-digital-god-and-the-horizon-jump",
         "rel": "collects",
         "label": "数字神祇与视界跳跃 / The Digital God and the Horizon Jump"
@@ -50163,7 +50229,7 @@
         "from": "book:index-of-premises",
         "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
         "rel": "collects",
-        "label": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏"
+        "label": "投资决策的因果闭环 / The Causal Loop of Investment Decisions"
       },
       {
         "from": "book:index-of-premises",

@@ -2316,6 +2316,15 @@ Fragile ego defenses assume attributing failures to bad luck preserves internal 
 
 → [自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)
 
+### 委托代理的资产管理 / Delegated Asset Management
+`经济 / Economic`
+
+把资金交给专业机构，借其投研与执行降低管理摩擦，在这个工况下有用；它在此到了边界：代理切开了决策与最终损失的闭环，管理人容易把募资的变现能力误认为投资能力，被协议、回撤与分散的约束压住真正的重仓，费用与摩擦使建立在财富转移上的体系向负和收敛。
+
+Handing money to professional institutions to lower the friction of management through their research and execution is of use under that condition; it reaches its boundary in that delegation cuts the loop between decision and final loss, managers easily mistake fundraising ability for investment ability, agreements, drawdown limits and forced diversification hold down real concentration, and fees and friction make systems built on wealth transfer converge to a negative sum.
+
+→ [投资决策的因果闭环 / The Causal Loop of Investment Decisions](../../posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)
+
 ### 人口坍塌恐慌论 / Demographic Population Collapse Myth
 `科学 / Scientific`
 
@@ -4197,6 +4206,15 @@ Shared knowledge presumes a common stock held across minds; it is interception o
 
 → [No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)
 
+### 短期择时 / Short-Term Market Timing
+`经济 / Economic`
+
+短期择时在毫秒级、算力顶尖、容量锁死的高频场景下可以成立；把它搬到日线与周线上，在此到了边界：短期价格是全市场即时博弈的混沌汇总，卖掉长期的核心资产去博回调，前提从一开始就错了，卖出合理的场景只有一种，为了更优的新标的而做的置换。
+
+Short-term timing can hold in millisecond-scale, top-computation, capacity-capped high-frequency trading; carried over to daily and weekly scales it reaches its boundary, since short-term prices are the chaotic sum of the whole market's instant game, selling long-term core assets to gamble on a pullback rests on a premise wrong from the start, and a sale has one reasonable occasion, an exchange for a better new holding.
+
+→ [投资决策的因果闭环 / The Causal Loop of Investment Decisions](../../posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)
+
 ### 硅基神祇的视界越界 / Silicon Eschatology
 `技术 / Technological`
 
@@ -4875,11 +4893,11 @@ Authoritarian structures assume individuals can transfer moral responsibility to
 ### 自负盈亏的真实因果反馈 / Unforgiving Causal PnL Feedback
 `经济 / Economic`
 
-投资辩护常声称方案高明只是运气欠佳；损益账目却执行着冷酷的因果清算，毫不留情地击碎任何为亏损开脱的说辞。
+自负盈亏，让决策与最终的损失留在同一个闭环里，在校准投资模型时有用；它在此到了边界：只有在第一人称之内为微观误差立刻买单，闭环才成立，代理、择时与线性外推都把这个闭环切开，把亏损归于运气或市场，就是在宏观上为一个不肯在微观纠正的错误持续付账。
 
-Investment rationalization claims bad trades were fundamentally sound ideas ruined by bad luck; profit-and-loss balances enforce unyielding causal arbitration, punishing self-delusion.
+Bearing one's own profit and loss keeps decision and final loss in one loop, of use in calibrating investment models; it reaches its boundary in that the loop holds only when micro errors are paid for at once within the first person, agency, timing and linear extrapolation all cut it open, and blaming losses on luck or the market keeps paying at the macro level for an error one declines to correct at the micro level.
 
-→ [投资决策的因果闭环：从模型失效、系统负和到真自负盈亏](../../posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)
+→ [投资决策的因果闭环 / The Causal Loop of Investment Decisions](../../posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)
 
 ### 普度众生 / Universal Salvation (Pu Du)
 `宗教 / Religious`
