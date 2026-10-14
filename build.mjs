@@ -1703,7 +1703,12 @@ function renderPostMedia(post) {
       <script>
         (function () {
           var KEY = 'nat-media-lang', video = document.querySelector('[data-video]'), figure = document.querySelector('[data-infographic]'), live = document.querySelector('[data-live]');
-          if (live) addEventListener('message', function (e) { if (e.source === live.contentWindow && e.data && e.data.natHeight) live.style.height = e.data.natHeight + 'px'; });
+          if (live) addEventListener('message', function (e) {
+            if (e.source !== live.contentWindow || !e.data) return;
+            // natFull: the film fills the window (where the browser has no page full screen), and gives it back
+            if ('natFull' in e.data) { live.parentNode.classList.toggle('full', !!e.data.natFull); document.documentElement.style.overflow = e.data.natFull ? 'hidden' : ''; }
+            if (e.data.natHeight) live.style.height = e.data.natHeight + 'px';
+          });
           var buttons = document.querySelectorAll('[data-media-lang]'), lang = null;
           try { lang = localStorage.getItem(KEY); } catch (e) {}
           if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';

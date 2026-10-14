@@ -957,6 +957,21 @@ tr:nth-child(even) {
   border: 0;
 }
 
+/* A live film asked to fill the window where the browser has no page full screen (iPhone Safari): over everything,
+   the site's language switch included, until the film's Exit. */
+.video-frame.live.full {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  border: 0;
+  border-radius: 0;
+  background: #05070d;
+}
+
+.video-frame.live.full iframe {
+  height: 100% !important;
+}
+
 .video-frame iframe {
   position: absolute;
   inset: 0;
