@@ -2217,6 +2217,15 @@ Validation cultures treat self-worth as a reward earned through external praise;
 
 → [Ownership and Self-Worthiness](../../posts/ownership-and-self-worthiness/)
 
+### 意识即幻觉论 / Consciousness as Illusion
+`哲学 / Philosophical`
+
+把心智看作只接收打包好的内容的封闭场所，进而说内省注定失败、自我感与觉知是迟到的报告或幻觉，在描述被保存的自我形象时有用；它在此到了边界：“幻觉”的裁决需要一个封闭前提已排除的外部裁判，意识是同时守住一种形式又溢出它的活的偏移，不是一件可以回看的库存。
+
+Picturing the Mind as a closed arena that receives only packaged contents, and so declaring that introspection must fail and that the sense of self and awareness are late reports or illusions, is of use in describing the conserved self-image; it reaches its boundary in that the verdict "illusion" needs an outside referee the closed premise has already ruled out, and consciousness is the live offset that holds a form and exceeds it at once, not a stock to be looked back on.
+
+→ [稳定与溢出 / Stability and Excess](../../posts/stability-and-excess/)
+
 ### 意识客体化 / Consciousness as Possessable Object
 `哲学 / Philosophical`
 
@@ -2224,7 +2233,7 @@ Validation cultures treat self-worth as a reward earned through external praise;
 
 Reifying awareness assumes mind is an asset that can be hoarded, preserved, or captured; mind is the living locus of seeing, not an artifact to be possessed.
 
-→ [What Cannot Be Kept](../../posts/what-cannot-be-kept/)
+→ [What Cannot Be Kept](../../posts/what-cannot-be-kept/) · [稳定与溢出 / Stability and Excess](../../posts/stability-and-excess/)
 
 ### 意识不能作为数据显现 / Consciousness Beyond Public Data
 `哲学 / Philosophical`
@@ -4439,15 +4448,6 @@ Safety bureaucracy assumes external oversight guarantees systemic reliability; d
 Presumes statistically fluent models can act as authoritative guides for irreversible action; valuable for drafting ideas, it ignores that machines bear zero physical liability.
 
 → [硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence](../../posts/silicon-oracles-and-the-asymmetry-of-consequence/)
-
-### 资本盈余消散机制 / Surplus Capital Dissipation
-`经济 / Economic`
-
-均衡经济学假定富余资本会自动匹配最优投资；稳定的系统必会积攒过剩能量，若不投向探索前沿，便易在金融泡沫中消散。
-
-Equilibrium economics presumes surplus capital automatically finds productive investment; stable systems generate excess energy that risks dissipation in financial bubbles unless channeled into innovation.
-
-→ [Stability and excess: consciousness, introspection, and the cut of observation](../../posts/stability-and-excess/)
 
 ### 抽象苦难与具身饥饿的范畴混淆 / Symbolic Hunger vs Metabolic Reality
 `哲学 / Philosophical`
