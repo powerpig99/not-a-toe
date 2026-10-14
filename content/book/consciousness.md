@@ -31,6 +31,7 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [Consciousness Never Appears as Data Among Data](../../posts/consciousness-never-appears-as-data-among-data/)
 - [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
 - [The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
+- [稳定与溢出 / Stability and Excess](../../posts/stability-and-excess/)
 - [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
 - [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
 - [共享沙盒的幻象 / The Illusion of the Shared Sandbox](../../posts/the-illusion-of-the-shared-sandbox/)

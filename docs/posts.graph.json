@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T22:01:16.909Z",
+    "generated_at": "2026-10-14T22:07:55.941Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -370,7 +370,7 @@
       "content/posts/time-is-causality-not-a-dimension.md": "53a16236f39d",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "6b95a39fdecb",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "6d296ae60596",
-      "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "9b2169e85727",
+      "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "a41257ca3edb",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "ca993bca4cc8",
       "content/posts/two-failures-of-trace.md": "b1672bec5b8e",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "f648faf69414",
@@ -402,8 +402,8 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "9ce16a51283f",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "6cc7c36374ce",
-      "content/book/consciousness.md": "5c18c8537a39",
-      "content/book/economics.md": "ffa1813c3de0",
+      "content/book/consciousness.md": "374c33a2478e",
+      "content/book/economics.md": "5e4b3a021dc3",
       "content/book/index-of-premises.md": "8c77e4e74536",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "242fc0e02bd2",
@@ -9120,7 +9120,7 @@
       "slug": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "path": "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md",
       "title": "投资决策的因果闭环 / The Causal Loop of Investment Decisions",
-      "hash": "9b2169e85727",
+      "hash": "a41257ca3edb",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -45960,8 +45960,8 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "5c18c8537a39",
-        "out_degree": 37
+        "hash": "374c33a2478e",
+        "out_degree": 38
       },
       {
         "id": "book:economics",
@@ -45969,8 +45969,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "ffa1813c3de0",
-        "out_degree": 29
+        "hash": "5e4b3a021dc3",
+        "out_degree": 28
       },
       {
         "id": "book:index-of-premises",
@@ -46405,6 +46405,12 @@
       },
       {
         "from": "book:consciousness",
+        "to": "stability-and-excess",
+        "rel": "collects",
+        "label": "稳定与溢出 / Stability and Excess"
+      },
+      {
+        "from": "book:consciousness",
         "to": "the-other-coherence",
         "rel": "collects",
         "label": "另一种相干 / The Other Coherence"
@@ -46642,12 +46648,6 @@
         "to": "agency-relocated-into-the-formal-model",
         "rel": "collects",
         "label": "Agency Relocated into the Formal Model"
-      },
-      {
-        "from": "book:economics",
-        "to": "stability-and-excess",
-        "rel": "collects",
-        "label": "稳定与溢出 / Stability and Excess"
       },
       {
         "from": "book:economics",
