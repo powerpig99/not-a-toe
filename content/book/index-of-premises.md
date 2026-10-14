@@ -746,7 +746,7 @@ Genetic determinism asserts DNA programs dictate human action and personality; g
 
 Presumes spacetime is an eternal four-dimensional block where past, present, and future coexist; mathematically powerful in relativity, it mistakes a static map for unfolding time.
 
-→ [四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model](../../posts/the-myth-of-the-four-dimensional-deer-and-the-present-model/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
+→ [四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model](../../posts/the-myth-of-the-four-dimensional-deer-and-the-present-model/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
 
 ### 古典功利主义 / Classical Utilitarianism
 `哲学 / Philosophical`
@@ -1252,6 +1252,15 @@ The enshittification model attributes platform decline to executive greed; platf
 
 → [The Platform Doesn't Drift — It Completes](../../posts/platform-decision-capture/)
 
+### 普朗克尺度 / Planck Scale
+`科学 / Scientific`
+
+普朗克时间与普朗克长度标出现有理论预期自身不再成立的尺度，c = ℓ_P / t_P 把它们与光速连在一起，在计算中有用；把它们读成刻在宇宙容器上、先于观察的最短时长与最短距离，在此到了边界，它们描述的是观察者自己由因果步长织成的感知分辨率。
+
+The Planck time and Planck length mark the scale at which current theories expect themselves to stop holding, and c = ℓ_P / t_P ties them to the speed of light, of use in calculation; reading them as a shortest duration and distance engraved on a cosmic container prior to observation is where they reach their boundary, since they describe the perceptual resolution of an observer whose own apparatus is woven from causal steps.
+
+→ [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
+
 ### 幂律分布 / Power Law Distribution
 `科学 / Scientific`
 
@@ -1322,7 +1331,7 @@ RL presumes an external reward function drives optimal policy convergence; machi
 
 Presumes time reversibility in microscopic equations challenges thermodynamic irreversibility; elegant in Hamiltonian mechanics, it forgets that macroscopic observation leaves irreversible traces.
 
-→ [时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../../posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)
+→ [时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../../posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation/) · [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
 
 ### 黎曼猜想 / Riemann Hypothesis
 `数学 / Mathematical`
@@ -4695,11 +4704,11 @@ Security defense metrics treat threat elimination as objective; commercially, or
 ### 时间即不可逆因果 / Time as Irreversible Causality
 `科学 / Scientific`
 
-相对论将时间几何化为块状宇宙的第四维空间坐标；时间实则是前因生成后果的不可逆因果不对称，绝非任意穿梭的坐标。
+时间被建模成与长宽高同形的第四维坐标，用来向后找因、向前测果，这很有用；把模型里的这根轴当成活着所遇到的时间，在此到了边界，从第一人称登记到的只有因果转换的不可逆方向与不为零的步长。
 
-Relativity models time as a fourth geometric coordinate in a block universe; time is the irreversible first-person asymmetry of cause generating effect, not a spatial coordinate.
+Time is modelled as a fourth coordinate of the same form as length, width and depth, of great use for finding causes backward and predicting effects forward; taking that axis of the model for lived time is where it reaches its boundary, since what registers from the first person is only the irreversible direction and non-zero step of causal transitions.
 
-→ [Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
+→ [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
 
 ### Token吞吐量价值等同论 / Token Throughput Equivalence
 `经济 / Economic`

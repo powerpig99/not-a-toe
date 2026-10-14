@@ -16,7 +16,7 @@ The essays in this part examine the twin paradox, quantum measurement, the arrow
 - [Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/)
 - [自由的测不准：微观主权、统计涌现与自由意志的佯谬](../../posts/zi-you-de-ce-bu-zhun/)
 - [The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction](../../posts/the-generative-atlas-of-macroscopic-phenomena/)
-- [Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
+- [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
 - [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
 - [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/)
 - [索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog](../../posts/demanding-a-toe-freezes-time-into-a-catalog/)

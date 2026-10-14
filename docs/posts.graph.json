@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T19:22:18.981Z",
+    "generated_at": "2026-10-14T19:39:45.726Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -367,7 +367,7 @@
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
-      "content/posts/time-is-causality-not-a-dimension.md": "4b221543ea62",
+      "content/posts/time-is-causality-not-a-dimension.md": "e2ba3fc6ea5c",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "6b95a39fdecb",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "3150c6b4c5cf",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "ab4a03e78251",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "8e4681ca1d7b",
       "content/book/consciousness.md": "b6e19af51e3b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "b3d51808504f",
+      "content/book/index-of-premises.md": "db393c4bff3f",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "bfaf3d63d4a0",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -412,7 +412,7 @@
       "content/book/meaning-and-transcendence.md": "5f74283b7779",
       "content/book/method.md": "28b8cec3611e",
       "content/book/morality.md": "25d4f858a2df",
-      "content/book/physics.md": "b59983cb902d",
+      "content/book/physics.md": "bc168c60eb56",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "4e2a471f61f9",
       "content/book/success-and-the-self.md": "7ef691063c43",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5724,
+      "edges": 5735,
       "unique_directed": 4547,
       "missing_targets": 0,
       "one_way": 137,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1013,
+      "book_edges": 1016,
       "posts_reached_by_book": 393
     }
   },
@@ -9041,8 +9041,8 @@
       "kind": "post",
       "slug": "time-is-causality-not-a-dimension",
       "path": "content/posts/time-is-causality-not-a-dimension.md",
-      "title": "Time Is the Irreversible Direction and Discrete Step of Causality",
-      "hash": "4b221543ea62",
+      "title": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality",
+      "hash": "e2ba3fc6ea5c",
       "in_degree": 12,
       "out_degree": 11,
       "links_out": [
@@ -41547,7 +41547,25 @@
       "from": "time-is-causality-not-a-dimension",
       "to": "dimensions-are-projections",
       "rel": "points_to",
+      "label": "维度即投影"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
       "label": "Dimensions Are Projections"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-geometry-of-emergence",
+      "rel": "points_to",
+      "label": "涌现的几何学"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "time-is-causality-not-a-dimension",
@@ -41565,13 +41583,37 @@
       "from": "time-is-causality-not-a-dimension",
       "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "rel": "points_to",
+      "label": "黑白采样帧与外推宇宙"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "rel": "points_to",
       "label": "The Black-and-White Sample Frame and the Extrapolated Universe"
     },
     {
       "from": "time-is-causality-not-a-dimension",
       "to": "the-bank-shot-and-the-magic-trick",
       "rel": "points_to",
+      "label": "翻袋球与魔术戏法"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
       "label": "The Bank Shot and the Magic Trick"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "索求万物理论是在将当下冻结为清单"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
     },
     {
       "from": "time-is-causality-not-a-dimension",
@@ -41589,7 +41631,19 @@
       "from": "time-is-causality-not-a-dimension",
       "to": "the-twin-paradox-and-the-hidden-observer",
       "rel": "points_to",
+      "label": "双生子佯谬与隐秘观察者"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
       "label": "The Twin Paradox and the Hidden Observer"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "因果贯穿始终"
     },
     {
       "from": "time-is-causality-not-a-dimension",
@@ -41601,13 +41655,25 @@
       "from": "time-is-causality-not-a-dimension",
       "to": "the-vector-and-the-puzzle-of-projections",
       "rel": "points_to",
+      "label": "向量与投影的迷局"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
       "label": "The Vector and the Puzzle of Projections"
     },
     {
       "from": "time-is-causality-not-a-dimension",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
-      "label": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon"
+      "label": "心智的几何学"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
     },
     {
       "from": "token-efficiency-emulation-and-the-unclosable-gap",
@@ -44243,7 +44309,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b3d51808504f",
+        "hash": "db393c4bff3f",
         "out_degree": 393
       },
       {
@@ -44315,7 +44381,7 @@
         "slug": "physics",
         "path": "content/book/physics.md",
         "title": "物理即定律的迷思 / The Myth of Physics Is the Law",
-        "hash": "b59983cb902d",
+        "hash": "bc168c60eb56",
         "out_degree": 22
       },
       {
@@ -45570,6 +45636,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "time-is-causality-not-a-dimension",
+        "rel": "collects",
+        "label": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-initial-distinction",
         "rel": "collects",
         "label": "The Initial Distinction, where the rationalism attempted to and failed to escape irrationality"
@@ -45978,6 +46050,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "time-is-causality-not-a-dimension",
+        "rel": "collects",
+        "label": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "mi-lv-shi-jie-guo-de-biao-xiang",
         "rel": "collects",
         "label": "幂律是结果的表象，不是生成的逻辑"
@@ -46041,6 +46119,12 @@
         "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "rel": "collects",
         "label": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "time-is-causality-not-a-dimension",
+        "rel": "collects",
+        "label": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality"
       },
       {
         "from": "book:index-of-premises",
@@ -48386,7 +48470,7 @@
         "from": "book:index-of-premises",
         "to": "time-is-causality-not-a-dimension",
         "rel": "collects",
-        "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
+        "label": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality"
       },
       {
         "from": "book:index-of-premises",
@@ -49748,7 +49832,7 @@
         "from": "book:physics",
         "to": "time-is-causality-not-a-dimension",
         "rel": "collects",
-        "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
+        "label": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality"
       },
       {
         "from": "book:physics",
