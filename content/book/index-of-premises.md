@@ -2890,7 +2890,7 @@ Rights-talk names the pattern of non-aggression after it emerges; treating the n
 
 The debate presumes the moral framing authors whether production compounds; both are overlays on where causal power is located, while the loop runs as the mass consuming the few's surplus.
 
-→ [Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/)
+→ [Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [自由变量的生成拓扑 / The Generative Topology of Free Variables](../../posts/the-generative-topology-of-free-variables/)
 
 ### 通胀与货币作为自行运作的机制 / Inflation and Currency as Self-Acting Mechanisms
 `经济 / Economic`
@@ -4767,11 +4767,11 @@ Productivity dogma assumes endlessly refining workflows boosts output; optimizin
 ### 拓扑自由变量 / Topological Free Variables
 `数学 / Mathematical`
 
-封闭拓扑学将流形当成固定不变的几何结构；自由变量代表了系统边界保留的开放自由度，承载着心智的动态调控。
+把物质、制度与权力当作现成的、固定的结构，在描述已稳定的宏观身份时有用；它在此到了边界：每一个宏观身份都是相互作用的自由变量闭合并稳定下来的反馈回路，在更高一层表现为一个自由变量，把能动性交给集体去躲开摩擦，就关掉了纠错，滑向演化上的过时。
 
-Closed mathematical topology treats shapes as rigid predetermined manifolds; free variables represent the open degrees of freedom through which conscious steering modifies the system.
+Treating matter, institutions and power as ready-made, fixed structures is of use in describing macro identities already stabilised; it reaches its boundary in that every macro identity is a feedback loop of interacting free variables closed and stabilised, behaving as one free variable a tier up, and handing agency to collectives to avoid friction switches off error correction and slides toward evolutionary obsolescence.
 
-→ [The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence](../../posts/the-generative-topology-of-free-variables/)
+→ [自由变量的生成拓扑 / The Generative Topology of Free Variables](../../posts/the-generative-topology-of-free-variables/)
 
 ### 自我形象即身份 / The Self-Image as Identity
 `哲学 / Philosophical`

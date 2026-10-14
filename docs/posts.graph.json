@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:12:47.847Z",
+    "generated_at": "2026-10-14T21:15:28.143Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -249,7 +249,7 @@
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "639d817543c0",
       "content/posts/the-generative-contradiction.md": "181c40e6e269",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
-      "content/posts/the-generative-topology-of-free-variables.md": "7a3c85d5294c",
+      "content/posts/the-generative-topology-of-free-variables.md": "bd4117e215d3",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
       "content/posts/the-geometry-of-emergence.md": "a969fe12c726",
       "content/posts/the-geometry-of-mind.md": "5e64ee6befbf",
@@ -404,11 +404,11 @@
       "content/book/causality.md": "d5d366935d23",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "6981446aec26",
-      "content/book/index-of-premises.md": "df7a0cd01c27",
+      "content/book/index-of-premises.md": "b1425fd917d7",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6a133aa0ce87",
       "content/book/life-and-statistics.md": "1862c4e7034f",
-      "content/book/mathematics.md": "9a84bd5b2e1d",
+      "content/book/mathematics.md": "baeb813686dd",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "9a18c1b149e6",
       "content/book/morality.md": "25d4f858a2df",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5824,
+      "edges": 5834,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1034,
+      "book_edges": 1035,
       "posts_reached_by_book": 393
     }
   },
@@ -6487,8 +6487,8 @@
       "kind": "post",
       "slug": "the-generative-topology-of-free-variables",
       "path": "content/posts/the-generative-topology-of-free-variables.md",
-      "title": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence",
-      "hash": "7a3c85d5294c",
+      "title": "自由变量的生成拓扑 / The Generative Topology of Free Variables",
+      "hash": "bd4117e215d3",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -32002,37 +32002,79 @@
       "from": "the-generative-topology-of-free-variables",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
-      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+      "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena"
     },
     {
       "from": "the-generative-topology-of-free-variables",
       "to": "the-only-coherent-uncaused-effect",
       "rel": "points_to",
-      "label": "The only coherent uncaused effect"
+      "label": "唯一自洽的无因之果"
     },
     {
       "from": "the-generative-topology-of-free-variables",
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
-      "label": "The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication"
+      "label": "折叠的连续谱"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "The Only Coherent Uncaused Effect"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "The Continuum of the Fold"
     },
     {
       "from": "the-generative-topology-of-free-variables",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity first, compounded capability downstream"
+      "label": "好奇先行"
     },
     {
       "from": "the-generative-topology-of-free-variables",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
     },
     {
       "from": "the-generative-topology-of-free-variables",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
-      "label": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon"
+      "label": "心智的几何学"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity First"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "the-other-coherence",
+      "rel": "points_to",
+      "label": "另一种相干"
     },
     {
       "from": "the-generative-topology-of-free-variables",
@@ -32044,19 +32086,37 @@
       "from": "the-generative-topology-of-free-variables",
       "to": "agency-compounding-and-the-argument-over-ai-feudalism",
       "rel": "points_to",
+      "label": "能动性、复利与 AI 封建之争"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "rel": "points_to",
       "label": "Agency, Compounding, and the Argument Over AI Feudalism"
     },
     {
       "from": "the-generative-topology-of-free-variables",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
+      "label": "剩余个人主义"
     },
     {
       "from": "the-generative-topology-of-free-variables",
       "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "rel": "points_to",
-      "label": "The free mind is displaced by what claims to protect it"
+      "label": "自由的心智被声称保护它的东西取代"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "The Free Mind Is Displaced by What Claims to Protect It"
     },
     {
       "from": "the-geometry-of-coexistence-and-the-dual-cut",
@@ -44844,7 +44904,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "df7a0cd01c27",
+        "hash": "b1425fd917d7",
         "out_degree": 393
       },
       {
@@ -44880,7 +44940,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "9a84bd5b2e1d",
+        "hash": "baeb813686dd",
         "out_degree": 20
       },
       {
@@ -47815,6 +47875,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-generative-topology-of-free-variables",
+        "rel": "collects",
+        "label": "自由变量的生成拓扑 / The Generative Topology of Free Variables"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "agency-relocated-into-the-formal-model",
         "rel": "collects",
         "label": "Agency Relocated into the Formal Model"
@@ -49125,7 +49191,7 @@
         "from": "book:index-of-premises",
         "to": "the-generative-topology-of-free-variables",
         "rel": "collects",
-        "label": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence"
+        "label": "自由变量的生成拓扑 / The Generative Topology of Free Variables"
       },
       {
         "from": "book:index-of-premises",
@@ -49995,7 +50061,7 @@
         "from": "book:mathematics",
         "to": "the-generative-topology-of-free-variables",
         "rel": "collects",
-        "label": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence"
+        "label": "自由变量的生成拓扑 / The Generative Topology of Free Variables"
       },
       {
         "from": "book:mathematics",
