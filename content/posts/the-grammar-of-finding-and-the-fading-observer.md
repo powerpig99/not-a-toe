@@ -196,7 +196,7 @@ graph TD
     end
 ```
 
-无处之境仍有其用。为说明一点而借用它，便能把一个模式陈述得仿佛不出自任何位置；论点一旦说明，它便回到借用它的第一人称。客观性正是这种借用所追踪的东西：跨越主观性的不变性，而非主观性的缺席。在不同立足点之间什么算作相同，是由心智登记为相同的；没有任何外部视角能做出这一裁定。作为信号持有时，不变性协调诸心智，引导下一次区分；作为权威持有时，它自命占据一个没有任何观察者坐着的席位。否认观察者也逃不出这一点，因为否认本身就是从观察者位置做出的选择，正如[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/)所追溯的那一步。
+无处之境仍有其用。为说明一点而借用它，便能把一个模式陈述得仿佛不出自任何位置；论点一旦说明，它便回到借用它的第一人称。客观性正是这种借用所追踪的东西：跨越主观性的不变性，而非主观性的缺席。在不同立足点之间什么算作相同，是由心智登记为相同的；没有任何外部视角能做出这一裁定。作为信号持有时，不变性协调诸心智，引导下一次区分；作为权威持有时，它自命占据一个没有任何观察者能坐上的席位。否认观察者也逃不出这一点，因为否认本身就是从观察者位置做出的选择，正如[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/)所追溯的那一步。
 
 The view from nowhere still has a use. Borrowed to make a point, it lets a pattern be stated as if from no position; once the point is made, it returns to the first person that borrowed it. Objectivity is what that borrowing tracks: invariance across subjectivity, not its absence. What counts as the same across standpoints is registered as the same by a Mind; no outside view makes that call. Held as signal, an invariance coordinates Minds and steers the next distinction; held as authority, it claims a seat no observer occupies. Denying the observer does not escape this, because the denial is itself a choice made from the observing position, the move traced in [The Freedom of Will to Deny Itself](../the-freedom-of-will-to-deny-itself/).
 
