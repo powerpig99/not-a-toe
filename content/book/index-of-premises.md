@@ -2073,6 +2073,15 @@ Presumes regulatory committees can centrally pace technological evolution; usefu
 
 → [调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth](../../posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)
 
+### 童年自由在成年时被没收 / Childhood Freedom Confiscated by Adulthood
+`成功学 / Self-Help`
+
+“孩子自由、成年人被现实约束”这句格言，描述了被回收的社会中段的样子，作为对表面的观察有用；把它当作人性规律，在此到了边界：童年的自由是稀疏的历史条件，成年的约束是能动性向后分配去守护痕迹，同一个心智在不同的事情上两种分配都会经过。
+
+The saying that children are free and adults are constrained by reality describes the look of the recaptured social middle, of use as an observation of the surface; taken as a law of human nature it reaches its boundary, since childhood freedom is sparse historical conditioning and adult constraint is agency allocated backward to defend trace, and one Mind passes through both allocations on different matters.
+
+→ [约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom](../../posts/the-look-of-constraint-is-not-the-loss-of-freedom/)
+
 ### 气候感知的模型化投射 / Climate Perception Modeling
 `科学 / Scientific`
 
@@ -2333,15 +2342,6 @@ Linguistic reductionism presumes discrete vocabulary words capture full perceptu
 Physics, cosmology and common sense treat dimensions as pre-existing containers in which events unfold; dimensions are compressions the Mind projects to index distinctions, relation arising through compression and order through projection, so the premise reaches its boundary at the one projecting the dimensions, while as coordinate systems for navigating, calculating and modelling, dimensions stay indispensable.
 
 → [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
-
-### 约束作为自由的必要前提 / Discipline as Prerequisite for Freedom
-`哲学 / Philosophical`
-
-任性自由观将一切物理与形式约束视作压迫；漫无边际的放任只会空耗精力，唯有聚焦的边界方能将能动性淬炼为实效。
-
-Libertarian illusions view every physical and formal constraint as oppression; formless license diffuses energy aimlessly, whereas purposeful constraints channel power into effective action.
-
-→ [The Look of Constraint Is Not the Loss of Freedom](../../posts/the-look-of-constraint-is-not-the-loss-of-freedom/)
 
 ### 生命成长的主体性折现 / Discounting Agency as Capital Return
 `经济 / Economic`

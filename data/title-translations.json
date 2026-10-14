@@ -418,10 +418,6 @@
       "title_zh": "从可辩护的主张到教条的反转",
       "subtitle_zh": "当一个指标被当作安全的全部时，在选定风险曲线上得出的有条件发现就冻结成了定论。"
     },
-    "the-look-of-constraint-is-not-the-loss-of-freedom": {
-      "title_zh": "约束的样子不是自由的失去",
-      "subtitle_zh": "童年不是失去的无约束自由，成年也不是对它的悲剧性没收；看上去的约束，是把能动性向后分配去守护历史的痕迹，而不是向前去延展移动的地平线。"
-    },
     "empowerment-establishes-the-centralization-of-power": {
       "title_zh": "赋权确立权力的集中",
       "subtitle_zh": "赋权或被赋权，就是认可能力从一个已经持有它的中心流出。"
@@ -429,6 +425,10 @@
     "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy": {
       "title_zh": "福利国家的幻象",
       "subtitle_zh": "认为高税收是集体福利必要代价的信念，立在一种不对称的认知扭曲上：公共成本被摊薄到全体人口身上，轻得感觉不到，而纳税被道德地放大为英雄式的牺牲，割断了个人成长所需的控制论反馈回路。"
+    },
+    "the-average-is-residue-not-the-engine": {
+      "title_zh": "平均值是痕迹，不是引擎",
+      "subtitle_zh": "总体的百分比登记的是更广准入之下的构成与筛选；决定性的前沿，仍是在右尾运作的那些稀少的实际数量。"
     }
   }
 }
