@@ -26,7 +26,7 @@ These essays explore hierarchies of infinity, self-referential paradoxes, and th
 - [The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence](../../posts/the-generative-topology-of-free-variables/)
 - [The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
 - [The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication](../../posts/the-continuum-of-the-fold/)
-- [The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field](../../posts/the-arithmetic-of-the-register/)
+- [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/)
 - [连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience](../../posts/the-continuum-is-a-modeling-convenience/)
 - [全息回声 / The Holographic Echo](../../posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function/)
 - [共存的几何学 / The Geometry of Coexistence](../../posts/the-geometry-of-coexistence-and-the-dual-cut/)

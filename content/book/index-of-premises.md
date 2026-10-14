@@ -3855,14 +3855,14 @@ Treating transfer as what the loop requires places causal power on consumption; 
 
 → [Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/)
 
-### 寄存器机的算术界限 / Register Machine Computation
-`数学 / Mathematical`
+### 丰裕会平息零和之争 / Abundance Will Quiet Zero-Sum Contest
+`经济 / Economic`
 
-计算理论将图灵等价的符号存储等同于意识心智；寄存器机机械地执行加一与清零指令，对所挪动的比特所表征的意义毫无感知。
+人们预期物质丰裕会让零和之争平息，平息不了便归咎于道德堕落；这个预期在富余被有界的窗口投影成低维地位坐标之处到了边界，因为丰裕恰恰为零和摩擦提供补贴，作为看清稀缺时摩擦为何难以为继的工具，它依然有用。
 
-Computational theory equates Turing-equivalent symbol storage with conscious mind; register machines mechanically increment and clear bit registers, having zero comprehension of output meaning.
+The expectation is that material abundance will quiet zero-sum contest, and when it does not, moral decay is blamed; the expectation reaches its boundary where bounded windows project the slack onto low-dimensional status coordinates, since abundance is exactly what subsidizes zero-sum friction, while as a tool for seeing why friction cannot be sustained under scarcity it stays useful.
 
-→ [The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field](../../posts/the-arithmetic-of-the-register/)
+→ [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/)
 
 ### 监管万能论 / Regulatory Omnipotence
 `意识形态 / Ideological`
@@ -4879,7 +4879,7 @@ A zero-knowledge proof establishes truth without revealing the witness; the form
 
 Closed-reality premises treat resources and status as a fixed pool; net value arises only under open premises, and zero-sum apparatuses endure on surplus produced in open moments.
 
-→ [One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [Moral Language as Projection](../../posts/moral-language-as-projection/)
+→ [One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/)
 
 ### 梵我一如（奥义书） / Ātman–Brahman Identity (Upanishads)
 `宗教 / Religious`
