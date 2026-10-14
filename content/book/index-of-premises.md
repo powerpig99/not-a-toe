@@ -573,7 +573,7 @@ Rubin treats artistic creation as tuning into cosmic resonance; wonderful for un
 
 Penrose infers non-computable consciousness from human understanding of Gödel; the inference presumes a single-system framing of mind, leaving untouched the intersubjective limit of proof.
 
-→ [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
+→ [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
 
 ### 罗宾·汉森 / Robin Hanson
 `科学 / Scientific`
@@ -609,7 +609,7 @@ Jobs demanded product perfection by rejecting conventional industry timelines; i
 
 Hameroff treats understanding as an act outside rules, supplied by quantum objective reduction; coherent given that ontology, it stops at one mind and never asks how openness is demonstrated to another.
 
-→ [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
+→ [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
 
 ### 托马斯·内格尔 / Thomas Nagel
 `哲学 / Philosophical`
@@ -1250,7 +1250,7 @@ Rationalist debate assumes presenting logical counter-arguments changes convicti
 
 Orch-OR assumes wavefunction collapse supplies the non-computability consciousness needs, joining measurement and hard problems; it remains a physical account of one system's openness.
 
-→ [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
+→ [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
 
 ### 泛心论 / Panpsychism
 `哲学 / Philosophical`
@@ -1775,15 +1775,6 @@ Presumes artificial intelligence represents the natural evolutionary successor t
 Folding all known sequences assumes the catalogue is the domain's full structure; it is real expansion inside a temporary bound, while dynamics, interactions and design space stay generatively open.
 
 → [Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
-
-### 相异视界的内在自洽 / Alternative Internal Coherence
-`哲学 / Philosophical`
-
-知识沙文主义断定异见者全属不可理喻；对立阵营的立场大多在自身采信的前提下自洽严整，满足着其内在诉求。
-
-Intellectual chauvinism assumes opposing political camps act from pure irrationality; rival ideologies build coherent internal logics that satisfy emotional needs within their chosen premises.
-
-→ [The Other Coherence](../../posts/the-other-coherence/)
 
 ### 放大器悖论 / Amplification Paradox
 `哲学 / Philosophical`
@@ -3845,6 +3836,15 @@ Many individualists assume designed legal or cultural systems make freedom possi
 Sociological emergence treats macro trends as autonomous causal agents commanding individuals; statistical patterns are trailing residue produced by countless micro-level choices.
 
 → [涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) · [涌现的几何学 / The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
+
+### 量子脑之争 / The Quantum Brain Debate
+`科学 / Scientific`
+
+量子脑之争先假定温暖潮湿的大脑是现成的剧场，再问量子相位能否在其中存活，作为对微观机制的检验有用；它在此到了边界：大脑是心智编出的模型，在认识的次序上居于下游，而经验的场维系为一体并保持敞开的那种相干，不随相位实验的结果而改变。
+
+The quantum brain debate first assumes the warm, wet brain as a ready-made theatre and then asks whether quantum phase can survive inside it, of use as a test of a microscopic mechanism; it reaches its boundary in that the brain is a model the Mind compiles, downstream in the order of knowing, while the coherence by which the experienced field holds together and stays open does not change with the outcome of phase experiments.
+
+→ [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
 
 ### AI 教育随机对照试验 / Randomized Trials of AI in Education
 `科学 / Scientific`
