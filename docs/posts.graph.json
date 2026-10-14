@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:08:04.453Z",
+    "generated_at": "2026-10-14T21:10:05.919Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -362,7 +362,7 @@
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "686bcbb6a5f7",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e2205554d0d",
-      "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "cbb71d477624",
+      "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "646ffd034d3d",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
@@ -403,8 +403,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "d5d366935d23",
       "content/book/consciousness.md": "5c18c8537a39",
-      "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "5b9a7ffbb0a4",
+      "content/book/economics.md": "ad016ff10817",
+      "content/book/index-of-premises.md": "4ac3cc73e433",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6a133aa0ce87",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5807,
+      "edges": 5814,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -9000,8 +9000,8 @@
       "kind": "post",
       "slug": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "path": "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md",
-      "title": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency",
-      "hash": "cbb71d477624",
+      "title": "福利国家的幻象 / The Welfare State Illusion",
+      "hash": "646ffd034d3d",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -41842,13 +41842,31 @@
       "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
+      "label": "剩余个人主义"
     },
     {
       "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "rel": "points_to",
-      "label": "The free mind is displaced by what claims to protect it"
+      "label": "自由的心智被声称保护它的东西取代"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "The Free Mind Is Displaced by What Claims to Protect It"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
     },
     {
       "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
@@ -41860,19 +41878,43 @@
       "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
+      "label": "公共支出不创造资本"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
       "label": "Public Spending Does Not Create Capital"
     },
     {
       "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "rel": "points_to",
+      "label": "能动性、复利与 AI 封建之争"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Appear as Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "to": "agency-compounding-and-the-argument-over-ai-feudalism",
       "rel": "points_to",
       "label": "Agency, Compounding, and the Argument Over AI Feudalism"
+    },
+    {
+      "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "rel": "points_to",
+      "label": "自我价值、反向财富转移与过去成功的陷阱"
     },
     {
       "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
@@ -44733,7 +44775,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "c2806cad7125",
+        "hash": "ad016ff10817",
         "out_degree": 29
       },
       {
@@ -44742,7 +44784,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "5b9a7ffbb0a4",
+        "hash": "4ac3cc73e433",
         "out_degree": 393
       },
       {
@@ -45429,7 +45471,7 @@
         "from": "book:economics",
         "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
         "rel": "collects",
-        "label": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency"
+        "label": "福利国家的幻象 / The Welfare State Illusion"
       },
       {
         "from": "book:economics",
@@ -46761,7 +46803,7 @@
         "from": "book:index-of-premises",
         "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
         "rel": "collects",
-        "label": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency"
+        "label": "福利国家的幻象 / The Welfare State Illusion"
       },
       {
         "from": "book:index-of-premises",

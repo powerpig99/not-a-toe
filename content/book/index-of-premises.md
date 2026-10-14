@@ -1543,11 +1543,11 @@ Utopian ideologies presume an ideal social design will resolve all human discord
 ### 福利国家依赖困境 / Welfare State Dependency
 `经济 / Economic`
 
-社会民主派假定国家兜底能无痛消灭贫困；成本公摊掩盖了长期负债，长期施予救济反而削弱了个体的自立意愿。
+福利国家假定高税收是互助社会必要而高尚的代价，国家能兜底地生成福祉，给受助者即时缓解时有用；它在此到了边界：集体不是心智，不生成价值，公共成本被摊薄到感觉不到、所纳之税被放大成牺牲，长期资助超出产出的消费会关掉个人的损失函数，压抑没能生成的财富。
 
-Social democracy presumes public welfare nets eliminate poverty without behavioral cost; socializing costs conceals systemic liabilities while gradually atrophying individual self-reliance.
+The welfare state assumes high taxation is the necessary, noble price of a supportive society and that the state can generate well-being as a backstop, of use in giving recipients immediate relief; it reaches its boundary in that a collective is not a Mind and generates no value, public cost is diffused until weightless while the tax paid is amplified into sacrifice, and funding consumption beyond production over the long run switches off the personal loss function and suppresses wealth never generated.
 
-→ [The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency](../../posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy/)
+→ [福利国家的幻象 / The Welfare State Illusion](../../posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy/)
 
 ### 辉格史观（必然进步论） / Whig Theory of History
 `意识形态 / Ideological`
