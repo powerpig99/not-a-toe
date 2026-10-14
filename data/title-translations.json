@@ -418,9 +418,13 @@
       "title_zh": "遗忘的脚手架",
       "subtitle_zh": "脚手架从递归中退出，下一次区分才能落地；这次退出一旦冻结成被保存的意象，能力就压在曾经成全移动的残余上。"
     },
-    "the-deterministic-machine": {
-      "title_zh": "决定论机器",
-      "subtitle_zh": "拒绝改变自我意象，内部模型便锁进一台封闭的状态机，把它确定的相变误认作无法逃脱的外部命运。"
+    "the-only-coherent-uncaused-effect": {
+      "title_zh": "唯一自洽的无因之果",
+      "subtitle_zh": "作出选择，是个体向现实注入自由变量的唯一开口，它打破一台死的机械机器的封闭模拟。"
+    },
+    "the-extendable-horizon": {
+      "title_zh": "可延展的地平线",
+      "subtitle_zh": "正和的能动性不是社会外缘上的精英坐标，而是一种能在寄存器任何位置注入自由变量的内在取向。"
     }
   }
 }

@@ -488,11 +488,11 @@ Churchland's eliminative materialism holds folk psychology to be an imperfect th
 ### 皮埃尔-西蒙·拉普拉斯 / Pierre-Simon Laplace
 `科学 / Scientific`
 
-拉普拉斯推动了天体力学与概率论的体系化；为古典科学立下大功，但他宣扬的钟表决定论忽视了观察者自身的物理立足点。
+拉普拉斯把天体力学与概率论体系化，设想一个知道全部粒子位置与作用力的智能能算出整个未来；这幅图在计算者自身的位置上到了边界，因为把宇宙算完要求站到宇宙之外，作为提前算准行星位置、整理不确定性的工具，它依然有用。
 
-Laplace championed mathematical celestial mechanics and deterministic omniscience; foundational for probability theory, his clockwork determinism denies the observer's physical situatedness.
+Laplace systematized celestial mechanics and probability and imagined an intelligence that, knowing all particle positions and forces, could calculate the whole future; the picture reaches its boundary at the calculator's own position, since calculating the universe to the end requires standing outside it, while as a tool for calculating planetary positions ahead and organizing uncertainty it stays useful.
 
-→ [The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power](../../posts/the-deterministic-machine/) · [没有固定者的固定 / Fixed by Nothing](../../posts/fixed-by-nothing/)
+→ [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/) · [没有固定者的固定 / Fixed by Nothing](../../posts/fixed-by-nothing/)
 
 ### 乔治·斯宾塞-布朗 / G. Spencer-Brown
 `数学 / Mathematical`
@@ -1012,11 +1012,11 @@ Laissez-faire capitalism does not produce free individuals; free individuals rec
 ### 拉普拉斯钟表决定论 / Laplacian Clockwork Determinism
 `科学 / Scientific`
 
-拉普拉斯假定只要通晓微粒初始位置便能穷算一切未来；推演宇宙要求计算主体游离于宇宙物理实在之外，在原理上不可行。
+钟表决定论假定当前状态加上固定的规则就能推出一切后来的状态；它在把规则固定住的那个心智之处到了边界，模型锁定正是把这幅图装进了自身，作为在规则可视为不变的范围里做预测的工具，它依然好用。
 
-Laplace's daemon presumes complete knowledge of initial particle positions allows calculating all history; computing the universe requires an observer outside physical reality, which is impossible.
+Clockwork determinism assumes the present state plus fixed rules yields every later state; it reaches its boundary at the Mind holding the rules fixed, which is what model-lock installs inside oneself, while as a tool for prediction where the rules can be treated as unchanging it stays useful.
 
-→ [The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power](../../posts/the-deterministic-machine/)
+→ [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/)
 
 ### 拉普拉斯决定论 / Laplacian Determinism
 `科学 / Scientific`

@@ -18,7 +18,7 @@ The essays in this part examine the twin paradox, quantum measurement, the arrow
 - [The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction](../../posts/the-generative-atlas-of-macroscopic-phenomena/)
 - [Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
 - [Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence](../../posts/dimensions-are-projections/)
-- [The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power](../../posts/the-deterministic-machine/)
+- [决定论机器 / The Deterministic Machine](../../posts/the-deterministic-machine/)
 - [索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog](../../posts/demanding-a-toe-freezes-time-into-a-catalog/)
 - [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
 - [确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism](../../posts/determinism-is-the-statistical-signature-of-micro-indeterminism/)

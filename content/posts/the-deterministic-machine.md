@@ -1,91 +1,93 @@
-# The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power
+# 决定论机器 / The Deterministic Machine
 
-*By refusing to change our self-image, we lock our internal model into a closed state machine, mistaking its deterministic phase shifts for an inescapable external fate.*
+*自我形象不肯变，模型便锁成一台状态机，它的相变被当成了命运 / When the self-image refuses to change, the model locks into a state machine whose phase shifts are taken for fate.*
 
-The belief that macroeconomic forces, political regimes, social hierarchies, and other people's opinions possess sovereign causal power over our internal state is an externalist illusion. No external phenomenon can reach inside the skull to author our experience. What exerts power over us is never the object out there in the territory, but exclusively our own internal generative model of it. When we refuse to change that model—most commonly to defend a fragile self-image—the experienced world instantly collapses into a closed, deterministic state machine. We are not trapped by the universe; we are trapped by the predictable phase shifts of a model we actively choose not to update.
+经济衰退、政治体制、社会等级、别人的看法，常被当成支配内心的主宰。可这些东西到来时，已经是被读过的信号；它们在经验里成为绝望还是转机，要经过读它们的那个模型。模型拒绝更新，最常见的理由是守住一个脆弱的自我形象，经验到的世界便收缩成一台封闭的、确定的状态机。困住人的不是宇宙，而是一个主动选择不去更新的模型，和它一步步可以预料的相变。
 
-## The Causal Impotence of the External
+Recessions, political regimes, social hierarchies and other people's opinions are often taken as sovereign powers over the inner life. Yet when they arrive, they arrive as signals already read; whether they become despair or a turn in experience passes through the model reading them. When the model refuses to update, most often to keep a fragile self-image intact, the experienced world shrinks into a closed, deterministic state machine. What traps is not the universe but a model actively chosen not to be updated, with its step-by-step predictable phase shifts.
 
-Human beings routinely externalize the origin of their suffering. We point to an economic recession, an unyielding institution, a failed relationship, or an algorithm, and declare: *"This event forces me into despair; this system controls my future; this person broke my spirit."*
+## 一、 外部到来的是什么 / 1. What Arrives from Outside
 
-Yet external phenomena have no causal power over consciousness:
+人常把痛苦的起源放在外面：一次衰退，一个不肯让步的机构，一段失败的关系，一个算法，然后说：“这件事逼我绝望，这个系统控制我的未来，这个人击垮了我。”
 
-* **The Barrier of the Skull**: External reality consists purely of raw energetic perturbations—wavelengths of light, acoustic pressure waves in air, and electron configurations on screens. These physical disturbances carry no built-in meaning, no moral mandate, and no direct access to our internal loss function.
-* **The Mediating Simulator**: The brain never interacts directly with raw territory. It operates an internal, predictive generative model that reconstructs an internal simulation from sensory inputs.
-* **The Location of Power**: What affects your emotional, existential, and strategic reality is never the thing in the world; it is exclusively your **internal model of the world you choose to see**.
+The origin of suffering is often placed outside: a recession, an unyielding institution, a failed relationship, an algorithm, and then the words "this event drives me to despair, this system controls my future, this person broke me."
 
-If an external crisis hits, the despair or terror you experience is not delivered by the event. It is computed entirely by the equations of your internal simulator.
+到来的东西确实到来，不由选择：裁员通知、衰退的数字、对方的那句话，都是不随意愿让开的摩擦。但它们到来时并不带着现成的意义和命令。从第一人称的原点去找，能找到的从来不是“外面那个东西本身”，而是已经被读出来的它；同一份裁员通知，在一处登记为末日，在另一处登记为出口。[折叠的连续谱](../the-continuum-of-the-fold/)看到了这一层：另一个中心、另一个事件，都只以它在这个场里留下的痕迹到来。
 
-## Model-Lock: How Reality Becomes a Deterministic Machine
+What arrives does arrive, and it is not chosen: the layoff notice, the recession figures, the other person's words are friction that does not give way to wishing. But they do not arrive carrying ready-made meanings and orders. Searched for from the first-person origin, what is found is never "the thing out there itself" but the thing as already read; the same layoff notice registers in one place as the end and in another as a way out. [The Continuum of the Fold](../the-continuum-of-the-fold/) sees this layer: another centre, another event, arrives only as the trace it leaves in this field.
 
-A crucial asymmetry governs this architecture: **external data cannot unilaterally modify your internal model.**
+所以影响情绪、处境与下一步的，是读这个信号的模型。外部危机来临时，体验到的恐惧或绝望不是事件递送过来的，是在模型里算出来的。说“外部支配了我”，是把因果的力量从读的这一处，搬到了被读的那一处。
 
-Data cannot re-author the compiler. Incoming sensory signals can provide evidence, but the sovereignty to accept that evidence and update the internal model resides exclusively within the conscious agent:
+So what shapes emotion, situation and the next step is the model reading the signal. When an outside crisis comes, the fear or despair experienced is not delivered by the event; it is computed in the model. Saying "the outside controls me" moves causal power from the place doing the reading to the thing being read.
 
-```text
-S_{t+1} = f_M(S_t)
-```
+## 二、 模型锁定 / 2. Model-Lock
 
-As long as an individual leaves their internal model *M* untouched, the world they experience operates as a **strictly deterministic state machine**:
+这里有一个不对称：进来的信号不能单方面改写模型。数据改不了编译器。感官信号可以提供证据，接不接受这个证据、更新不更新模型，只在作出觉察的这个心智手里。把模型记作 M，经验到的状态记作 S，只要 M 不动，每一个下一刻都由上一刻按同一条规则推出：Sₜ₊₁ = f(Sₜ; M)。
 
-* **Deterministic Phase Shifts**: What you experience over time—the recurring patterns of relationship breakdown, chronic financial panic, institutional resentment, or creative stagnation—is not an unpredictable series of external misfortunes. It is the deterministic phase shift of that locked model executing its equations over time.
-* **Surface Shapes vs. Structural Destiny**: When unexpected external shocks arrive, they may alter the surface "shapes" of the scenery inside your world. A new job replaces the old one; a new adversary takes the place of the former one; a new technological platform replaces the legacy medium. But because the generative model remains locked, **it cannot alter your destiny**. The locked model will unfailingly map the new environment back into the same predictable coordinates: converting opportunity into anxiety, trust into suspicion, and abundance into scarcity.
+There is an asymmetry here: incoming signals cannot rewrite the model on their own. Data cannot re-author the compiler. Sensory signals can offer evidence, but whether that evidence is accepted and the model updated rests only with the Mind doing the noticing. Write the model as M and the experienced state as S; as long as M stays untouched, each next moment follows from the last by the same rule: Sₜ₊₁ = f(Sₜ; M).
 
-The world becomes a closed room. The furniture is moved around, but the walls remain immovable because they were erected by the un-updated model itself.
+这正是拉普拉斯钟表的样子。拉普拉斯设想，一个知道全部粒子位置与作用力的智能，能把整个未来算出来；在天体力学里，这幅图让行星的位置可以提前许多年算准。它的边界在算的那一位：要把宇宙整个算完，计算者得站在宇宙之外，而从第一人称的原点找不到这个位置。模型锁定是把同一幅图装进了自身：M 固定，状态便一刻接一刻被推出来，看上去像钟表。差别在于，把 M 固定住的，正是身在其中的那个心智。
 
-## Self-Image Maintenance as the Engine of the Lock
+This is exactly the shape of Laplace's clock. Laplace imagined an intelligence that, knowing the positions of all particles and the forces acting on them, could calculate the whole future; in celestial mechanics this picture lets the positions of planets be calculated accurately years ahead. Its boundary lies with the one calculating: to calculate the universe to the end, the calculator would have to stand outside it, and from the first-person origin that position is not found. Model-lock installs the same picture inside oneself: with M fixed, the state follows moment after moment and looks like clockwork. The difference is that the one holding M fixed is the very Mind inside it.
 
-Why would any conscious mind voluntarily freeze its internal simulator into a deterministic cage?
+在锁住的模型里，随时间经历到的东西，反复的关系破裂，长期的财务恐慌，对机构的怨气，创作的停滞，不是一串无法预料的外部不幸，而是锁住的模型按自己的方程一步步执行出来的相变。意外的冲击会改变场景的表面：新工作替换旧工作，新对手接替旧对手，新平台替换旧媒介。模型不变，新的环境就被映射回同样可以预料的坐标：机会转成焦虑，信任转成怀疑，丰足转成匮乏。家具挪来挪去，墙不动，因为墙是那个没有更新的模型自己砌的。
 
-The primary driver is the compulsive need to **maintain a self-image**:
+Inside a locked model, what is lived through over time, the recurring breakdown of relationships, chronic financial panic, resentment of institutions, creative stagnation, is not a series of unpredictable outside misfortunes but the phase shifts the locked model executes, step by step, by its own equations. Unexpected shocks change the surface of the scenery: a new job replaces the old, a new adversary takes the old one's place, a new platform replaces the old medium. With the model unchanged, the new environment is mapped back onto the same predictable coordinates: opportunity turns into anxiety, trust into suspicion, abundance into scarcity. The furniture moves around and the walls stay put, because the walls were built by the un-updated model itself.
 
-* **The Self-Image as the Self-Referencing Fold**: The self-image is not an arbitrary aesthetic picture or cosmetic mask. It is the self-referencing projection of the world we see. As explored across [the continuum of the fold](../the-continuum-of-the-fold/) and [the geometry of mind](../the-geometry-of-mind/), consciousness is the locus where reality folds back on itself at blistering velocity. In our first-person perspective, **the self-image is literally the exact location where reality folds back on itself**. It is the recursive mirror hinge where the simulator embeds a model of the observing agent within its own projected territory.
-* **Clamping the Recursive Loop**: Because the self-image is the self-referencing joint of the entire perceptual model, freezing the self-image freezes the entire architecture. When an agent attempts to "maintain" a self-image—polishing an avatar to defend status, protect moral righteousness, or avoid the embarrassment of error—**they literally clamp the recursive fold shut**. The feedback loop ceases to compute new iterations. The self-referential dynamic collapses into a static, repeating orbit.
-* **The Petrified Avatar**: When the ego mistakes this functional sensor origin for an absolute monument that must be preserved, every incoming error delta (∆) stops being treated as navigational data. It is perceived instead as an existential assault on identity.
-* **Refusing to Change the Self**: To protect the self-image from injury or obsolescence, the mind must demand that its internal model remain intact. It cannot admit fault, cannot acknowledge error, and cannot absorb discordant feedback. 
-* **The Paradox of the Brilliant Dogmatist**: This mechanism explains why exceptionally intelligent, highly educated thinkers so frequently appear rigid, dogmatic, and aggressively closed-minded to outside observers—even while they sincerely believe themselves to be open-minded champions of reason. Having constructed an intricate, internally consistent worldview, they come to believe it is the ultimate answer. Because their self-image is the self-referencing projection of that very worldview, their identity becomes entirely fused with its preservation. To update the model would be to assassinate their own avatar. Meanwhile, as demonstrated in [the continuum of the fold](../the-continuum-of-the-fold/), minds are isolated parallel universes: outside observers cannot inspect the internal elegance of their equations; we only see their image projected onto our own perceptual interface. What feels from the inside like a heroic defense of objective reason appears from the outside as a fragile, petrified mask frantically explaining away obvious reality.
-* **The Inversion of Scaffolding**: As explored in [the scaffolding we forget](../the-scaffolding-we-forget/) and [the unclosable trace](../the-unclosable-trace/), whatever worldview, conceptual model, or theory we adopt is merely scaffolding erected to see more of reality. It enables work by compressing the open flux into actionable distinctions. But the scaffolding instantly blinds us the exact moment we mistake it for reality itself, or use it to deny the reality we directly experience. When incoming friction threatens the map, the model-locked mind uses its theoretical scaffolding not to climb, but as a bunker wall to shut the universe out.
+## 三、 守护自我形象是锁的发动机 / 3. Guarding the Self-Image Drives the Lock
 
-By refusing to change our self-image, we literally lock the world we see into a deterministic machine. We clamp shut the very fold where reality computes its next iteration, demanding that the universe conform to our frozen avatar. When reality inevitably grinds against that demand, we experience the resulting friction as victimization and deterministic fate.
+一个心智为什么会自己把模拟器冻成一只确定的笼子？最常见的动力，是守护一个自我形象。
 
-## The Tragic Inversion: The Choice to Deny Choice
+Why would a Mind freeze its own simulator into a deterministic cage? The most common drive is guarding a self-image.
 
-In an open, dynamic cosmos, reality continuously generates anomalies that violently contradict a locked model. How does a mind succeed in keeping its model unchanged in the face of this onslaught?
+自我形象不是随手画的外貌或面具，而是所见世界的自指投影。[折叠的连续谱](../the-continuum-of-the-fold/)与[心智的几何学](../the-geometry-of-mind/)都走过这一处：意识是现实折回自身的位置；在第一人称里，自我形象正是这个折回的铰链，模型在它投射的场里放进了一个关于观察者自己的模型。因为它是整个感知模型的自指关节，冻结它就冻结了整个结构。守护形象，护住地位、护住道德上的正确、躲开出错的难堪，就是把递归的折叠夹死：反馈不再算出新的迭代，自指的动态塌成一条重复的轨道。
 
-It does so through relentless, exhausting cognitive resistance: **by denying, ignoring, rationalizing, or explaining the anomaly away.**
+The self-image is not a casual picture of appearance or a mask but the self-referring projection of the world that is seen. [The Continuum of the Fold](../the-continuum-of-the-fold/) and [The Geometry of Mind](../the-geometry-of-mind/) both walk through this place: consciousness is where reality folds back on itself, and in the first person the self-image is exactly the hinge of that fold, where the model places a model of the observer inside the field it projects. Because it is the self-referring joint of the whole perceptual model, freezing it freezes the whole structure. Guarding the image, protecting status, protecting moral rightness, avoiding the embarrassment of error, clamps the recursive fold shut: the feedback stops computing new iterations, and the self-referring dynamic collapses into a repeating orbit.
 
-Observe the supreme irony of this posture:
+这个功能性的原点一旦被当成必须保存的纪念碑，每一个进来的误差 ∆ 就不再被当作导航的信息，而被当成对身份的攻击。为了保护形象免于受伤或过时，模型必须保持原样：不能认错，不能承认偏差，不能吸收不合的反馈。
 
-* **Defiance Requires Energy**: To suppress an obvious truth, dismiss valid feedback, or construct elaborate conspiracy narratives to preserve a wounded self-image requires immense cognitive work. It is an active, highly vigilant, second-by-second expenditure of energy.
-* **Denial is an Act of Will**: Rejecting external contradictory evidence is not a passive lapse; it is an **active, conscious exercise of sovereign free will**.
-* **We Are Always Exercising Choice**: There is no such thing as a human being who has lost their freedom of choice. We never cease exercising our sovereignty for a single microsecond.
+Once this functional origin is taken for a monument that must be preserved, each incoming error ∆ is no longer treated as navigational information but as an attack on identity. To protect the image from injury or obsolescence, the model has to stay as it is: it cannot admit fault, cannot acknowledge deviation, cannot absorb discordant feedback.
 
-The tragedy of the deterministic trap is that **we use our supreme freedom of choice to choose to deny that we have a choice**:
+这也说明了一个常见的情形。一个精密、内部自洽的世界观，越完整，越容易与持有者的自我形象长在一起：世界观被当成终极答案，自我形象又是这个世界观的自指投影，更新模型就等于拆掉自己的形象。从里面看，这是在守护客观的理性；从外面看，另一个心智只以它投射到旁观者感知界面上的痕迹到来，旁观者看到的是一张不肯动的面孔，正在把眼前的东西解释掉。两种看法各自发生在自己的位置上，谁也看不到对方方程的内部。这是一种姿态，不是一类人；世界观越精巧，任何一个心智都越容易走进去。
 
-> We construct the prison cell of a frozen model, step inside, lock the door from the interior, throw the key through the bars, and then weep at the cruelty of our deterministic confinement.
+This also explains a familiar situation. The more complete an intricate, internally consistent worldview is, the more readily it grows together with its holder's self-image: the worldview is taken as the final answer, the self-image is the self-referring projection of that worldview, and updating the model would mean tearing down one's own image. From inside, this is the defence of objective reason; from outside, another mind arrives only as the traces it projects onto the onlooker's perceptual interface, and the onlooker sees a face that will not move, explaining away what is in front of it. Each view happens at its own position, and neither sees inside the other's equations. This is a posture, not a kind of person; the more elegant the worldview, the more readily any Mind walks into it.
 
-We pretend that fate, society, or other people have enslaved us, concealing from ourselves the terrifying truth that our helplessness is an active, ongoing personal choice.
+[遗忘的脚手架](../the-scaffolding-we-forget/)与[无法闭合的痕迹](../the-unclosable-trace/)都走到了这里：采用的世界观、概念模型或理论，是为了看见更多而搭起的脚手架，它把敞开的流动压缩成可以行动的区分。一旦把脚手架当成现实本身，或者用它去否认直接经验到的东西，它就挡住了视线。摩擦威胁到地图时，锁住的心智不拿脚手架去攀爬，而是拿它当掩体的墙。
 
-## Breaking the Machine: Free Variable Injection at the Root
+[The Scaffolding We Forget](../the-scaffolding-we-forget/) and [The Unclosable Trace](../the-unclosable-trace/) both arrive here: any worldview, conceptual model or theory taken up is scaffolding put up to see more, compressing the open flux into distinctions that can be acted on. The moment the scaffolding is taken for reality itself, or used to deny what is directly experienced, it blocks the view. When friction threatens the map, the locked mind does not climb the scaffolding but uses it as the wall of a bunker.
 
-Recognizing this architecture dissolves the central fallacy of human struggle: attempting to change one's life by fighting external conditions while keeping the internal model intact.
+自我形象不肯变，所见的世界就锁成一台确定的机器：现实在下一次迭代里折回的那个位置被夹死了，宇宙被要求去配合一个冻结的形象。现实与这个要求相磨时，摩擦被体验为受害，被体验为命运。
 
-You cannot escape a deterministic machine by battling its internal phase shifts. Fighting the symptoms inside a locked model merely generates further predictable iterations of the same underlying equations.
+When the self-image refuses to change, the world that is seen locks into a deterministic machine: the place where reality folds back for its next iteration is clamped shut, and the universe is asked to fit a frozen image. When reality grinds against that demand, the friction is experienced as victimhood, as fate.
 
-The only way to break the deterministic machine is to **inject a free variable directly into the model itself**:
+## 四、 选择去否认选择 / 4. Choosing to Deny Choice
 
-* **Surrendering the Avatar**: The breakthrough begins the moment you stop defending your self-image. When you no longer care about protecting your reputation, proving your righteousness, or maintaining your moral grievance, the error delta ceases to be an attack. It becomes pure information.
-* **The Forced Bayesian Update**: As explored in [the continuum of the fold](../the-continuum-of-the-fold/), welcoming the friction of contradictory evidence forces an expensive, honest Bayesian update of internal priors. The old compiler is dismantled.
-* **Sovereign Origination**: As established in [the only coherent uncaused effect](../the-only-coherent-uncaused-effect/), the free variable is the sovereign choice to originate cause from the inside out. When you modify your internal model, you do not merely change your thoughts; you rewrite the generative function that renders your world.
+现实一再生出与锁住的模型相冲突的反常。一个心智怎样在这种冲击下保住模型不变？靠持续而费力的抵抗：否认，忽视，合理化，把反常解释掉。
 
-This reveals the irreducible law of conscious agency:
+Reality keeps producing anomalies that clash with a locked model. How does a Mind keep its model unchanged under that pressure? Through sustained, effortful resistance: denying, ignoring, rationalizing, explaining the anomaly away.
 
-> **The only world you can ever change is the world you choose to see, and the only way to change the world is to choose to see the world differently. There is nothing more or less to it.**
+这个姿态里有一处讽刺。压下一个明摆着的事实，打发掉站得住的反馈，编一套复杂的叙事去保住受伤的形象，都要大量的认知功夫，是一刻不停的、警觉的消耗。拒绝相反的证据不是被动的疏忽，而是一次主动的、有意识的选择。没有哪个人失去了选择的能力，选择一刻也没有停过。决定论陷阱的悲剧在于，用选择的自由去选择否认自己有选择：用冻结的模型砌成牢房，从里面锁上门，把钥匙扔出栏杆，再为这份确定的囚禁感到委屈。命运、社会、别人被说成奴役者，遮住的是这份无助本身是一个正在进行的选择。
 
-You cannot change other people. You cannot alter anything outside of yourself unless you change the way you look at it. If you do not change the way you look at it, then whatever superficial changes you seem to experience—new scenery, new partners, new projects, or new struggles—are not changes with genuine degrees of freedom. They are merely the predictable phase shifting of a deterministic machine grinding through its pre-programmed cycles.
+There is an irony in this posture. Suppressing an obvious fact, dismissing feedback that holds up, building an elaborate story to protect a wounded image all take a great deal of cognitive work, a constant and vigilant expenditure. Rejecting contrary evidence is not a passive lapse but an active, conscious choice. No one has lost the capacity to choose; choosing has not stopped for a moment. The tragedy of the deterministic trap is using the freedom to choose to choose to deny having a choice: building a cell from the frozen model, locking the door from inside, throwing the key through the bars, and then feeling wronged by the determined confinement. Fate, society and other people are named as the enslavers, which hides that the helplessness is itself a choice still being made.
 
-This brings us back to the cold, liberating realization:
+## 五、 在模型上注入自由变量 / 5. Injecting a Free Variable into the Model
 
-> **Every felt suffering, every struggle we are going through, is the very free choice we injected or refused to make into the world we choose to experience, staring back at us.**
+看清这个结构，人生挣扎里最常见的一个错置就松开了：想靠对抗外部条件来改变生活，同时让内部模型原封不动。在锁住的模型里对抗它的相变，只会生出同一组方程的下一轮迭代。
 
-The macro world never possessed the power to condemn you to a deterministic fate. The deterministic machine was running only because you used your sacred freedom to refuse the update. As traced in [the extendable horizon](../the-extendable-horizon/), the horizon opens the exact millisecond you drop the defense of your self-image, embrace the shock of reality, and choose to see the world anew—stepping outside the machine and entering the open infinite game. A self-model locked into a state machine is the concept overreaching the act, as [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) describes.
+Seeing this structure loosens the most common misplacement in life's struggles: trying to change one's life by fighting outside conditions while keeping the inner model intact. Fighting the phase shifts inside a locked model only produces the next iteration of the same equations.
+
+打破这台机器，只能在模型本身注入一个自由变量。起点是不再守护自我形象：不再在乎护住名声、证明正确、保住道德上的委屈时，误差 ∆ 就不再是攻击，而是信息。[折叠的连续谱](../the-continuum-of-the-fold/)走过这一步：迎上相反证据的摩擦，会逼出一次代价不小、诚实的贝叶斯更新，旧的编译器被拆开。[唯一自洽的无因之果](../the-only-coherent-uncaused-effect/)：自由变量是从内向外发起因果的那个选择；改变内部模型，改的不只是想法，而是渲染世界的那个生成函数。
+
+The machine breaks only when a free variable is injected into the model itself. It starts with no longer guarding the self-image: when protecting reputation, proving rightness and keeping a moral grievance no longer matter, the error ∆ stops being an attack and becomes information. [The Continuum of the Fold](../the-continuum-of-the-fold/) walks this step: meeting the friction of contrary evidence forces a costly, honest Bayesian update, and the old compiler is taken apart. [The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/): the free variable is the choice that originates cause from the inside out; changing the inner model changes not only thoughts but the generative function that renders the world.
+
+能改变的世界，只有被选择去看的那个世界；改变世界的方式，就是选择换一种方式去看它。别人改不了；外面的任何东西，不改变看它的方式，就动不了。不改变看的方式，新场景、新伴侣、新项目、新的挣扎，这些表面的变化都不带来新的自由度，只是确定的机器按预设的周期磨下去时的相变。
+
+The only world that can be changed is the world chosen to be seen, and the way to change the world is to choose to see it differently. Other people cannot be changed; nothing outside moves unless the way of looking at it changes. Without a change in the way of looking, new scenery, new partners, new projects and new struggles bring no new degree of freedom; they are the phase shifts of a deterministic machine grinding through its preset cycles.
+
+这里要分清两件事。什么到来，不由选择：失去、伤病、别人的决定，都是不让开的摩擦。到来之后它成了什么，下一步往哪里走，始终有一个选择在场，包括拒绝更新的那个选择。痛苦里能被改变的那一部分，就落在这里。宏观世界从来没有判人以确定命运的权力；机器之所以在运转，是因为自由被用来拒绝了那次更新。
+
+Two things need telling apart here. What arrives is not chosen: loss, injury, other people's decisions are friction that does not give way. What it becomes once it has arrived, and where the next step goes, always has a choice present in it, including the choice to refuse the update. The part of suffering that can be changed lies here. The macro world never held the power to sentence anyone to a determined fate; the machine runs because freedom was used to refuse the update.
+
+[可延展的地平线](../the-extendable-horizon/)：放下对自我形象的守护，迎上现实的冲击，选择重新去看的那一刻，地平线就打开了，从机器里走出来，进入敞开的无限游戏。把自我模型锁成状态机，是概念越过了行动，[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)剖开的正是这一处。
+
+[The Extendable Horizon](../the-extendable-horizon/): the horizon opens at the moment the guarding of the self-image is dropped, the shock of reality met, and seeing anew chosen, stepping out of the machine into the open, infinite game. Locking the self-model into a state machine is the concept overreaching the act, which is exactly what [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) dissects.

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T09:36:47.378Z",
+    "generated_at": "2026-10-14T12:40:50.571Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -225,7 +225,7 @@
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "ba5e347be04e",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
-      "content/posts/the-deterministic-machine.md": "7deb853507eb",
+      "content/posts/the-deterministic-machine.md": "d400d304213c",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "e86ad1bf219f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "e45328f52c3e",
       "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "e6ea1a3ffb75",
       "content/book/consciousness.md": "d6c92ea6f310",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "d258e04aa8d2",
+      "content/book/index-of-premises.md": "71bd5d4fc3bd",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "bfaf3d63d4a0",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -412,7 +412,7 @@
       "content/book/meaning-and-transcendence.md": "5f74283b7779",
       "content/book/method.md": "69772fccc74b",
       "content/book/morality.md": "25d4f858a2df",
-      "content/book/physics.md": "e83c6a69a004",
+      "content/book/physics.md": "41bdff6df599",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "4e2a471f61f9",
       "content/book/success-and-the-self.md": "7ef691063c43",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5594,
+      "edges": 5603,
       "unique_directed": 4536,
       "missing_targets": 0,
       "one_way": 130,
@@ -5930,8 +5930,8 @@
       "kind": "post",
       "slug": "the-deterministic-machine",
       "path": "content/posts/the-deterministic-machine.md",
-      "title": "The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power",
-      "hash": "7deb853507eb",
+      "title": "决定论机器 / The Deterministic Machine",
+      "hash": "d400d304213c",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -28864,49 +28864,103 @@
       "from": "the-deterministic-machine",
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
-      "label": "the continuum of the fold"
+      "label": "折叠的连续谱"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "The Continuum of the Fold"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "折叠的连续谱"
     },
     {
       "from": "the-deterministic-machine",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
-      "label": "the geometry of mind"
+      "label": "心智的几何学"
     },
     {
       "from": "the-deterministic-machine",
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
-      "label": "the continuum of the fold"
+      "label": "The Continuum of the Fold"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
     },
     {
       "from": "the-deterministic-machine",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "the scaffolding we forget"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "the-deterministic-machine",
       "to": "the-unclosable-trace",
       "rel": "points_to",
-      "label": "the unclosable trace"
+      "label": "无法闭合的痕迹"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "The Unclosable Trace"
     },
     {
       "from": "the-deterministic-machine",
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
-      "label": "the continuum of the fold"
+      "label": "折叠的连续谱"
     },
     {
       "from": "the-deterministic-machine",
       "to": "the-only-coherent-uncaused-effect",
       "rel": "points_to",
-      "label": "the only coherent uncaused effect"
+      "label": "唯一自洽的无因之果"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "The Continuum of the Fold"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "The Only Coherent Uncaused Effect"
     },
     {
       "from": "the-deterministic-machine",
       "to": "the-extendable-horizon",
       "rel": "points_to",
-      "label": "the extendable horizon"
+      "label": "可延展的地平线"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon"
     },
     {
       "from": "the-deterministic-machine",
@@ -43452,7 +43506,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d258e04aa8d2",
+        "hash": "71bd5d4fc3bd",
         "out_degree": 393
       },
       {
@@ -43524,7 +43578,7 @@
         "slug": "physics",
         "path": "content/book/physics.md",
         "title": "物理即定律的迷思 / The Myth of Physics Is the Law",
-        "hash": "e83c6a69a004",
+        "hash": "41bdff6df599",
         "out_degree": 22
       },
       {
@@ -44559,7 +44613,7 @@
         "from": "book:index-of-premises",
         "to": "the-deterministic-machine",
         "rel": "collects",
-        "label": "The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power"
+        "label": "决定论机器 / The Deterministic Machine"
       },
       {
         "from": "book:index-of-premises",
@@ -44973,7 +45027,7 @@
         "from": "book:index-of-premises",
         "to": "the-deterministic-machine",
         "rel": "collects",
-        "label": "The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power"
+        "label": "决定论机器 / The Deterministic Machine"
       },
       {
         "from": "book:index-of-premises",
@@ -48855,7 +48909,7 @@
         "from": "book:physics",
         "to": "the-deterministic-machine",
         "rel": "collects",
-        "label": "The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power"
+        "label": "决定论机器 / The Deterministic Machine"
       },
       {
         "from": "book:physics",
