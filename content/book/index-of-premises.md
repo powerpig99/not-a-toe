@@ -1219,9 +1219,9 @@ Orch-OR assumes wavefunction collapse supplies the non-computability consciousne
 ### 泛心论 / Panpsychism
 `哲学 / Philosophical`
 
-泛心论把主观意识赋予电子等基本粒子；亚原子粒子具备量子波粒相互作用，却缺乏支撑心智所必需的宏观递归架构。
+泛心论把主观意识赋予电子等基本粒子；把一切想成以不同速度思考的心智，可以想象，却仍是人的心智按自己所知的样子造出的概念，说电子有意识或没有，都是一个心智把它纳入自己的感知、放下了割点，它在这里到了边界，作为提醒意识不必只在人类大脑皮层里寻找的思路，它依然有用。
 
-Panpsychism attributes conscious awareness to fundamental particles like electrons; subatomic particles exhibit quantum wave-particle interactions, but lack the recursive architecture of mind.
+Panpsychism attributes conscious awareness to fundamental particles such as electrons; everything as a mind thinking at a different speed can be imagined, yet it is still a concept the human Mind makes after the pattern it knows, and saying the electron is conscious or is not takes it into a Mind's own perception and places the cut, which is where the view reaches its boundary, while as a reminder not to look for consciousness only in the human cortex it stays useful.
 
 → [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/)
 
