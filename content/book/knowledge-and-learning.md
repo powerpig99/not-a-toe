@@ -35,7 +35,7 @@ These essays examine academic credentialism, the true advisory scope of expertis
 - [格物致知与信息复杂度的本质：从第三人称凝视到具身因果推演](../../posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)
 - [路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/)
 - [选择看见而非搜寻影子：从注意力的因果错位到知识的自然扩散](../../posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/)
-- [The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/)
+- [翻袋球与魔术戏法 / The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/)
 - [破除概念的僭越 / Breaking the Overreach of Concepts](../../posts/po-chu-gai-nian-de-jian-yue/)
 - [理解的非对称性 / The Asymmetry of Understanding](../../posts/the-asymmetry-of-understanding/)
 - [教育与科学的倒置 / The Inversion of Education and Science](../../posts/the-reversal-of-education-and-science/)

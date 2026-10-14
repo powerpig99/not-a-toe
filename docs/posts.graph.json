@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T20:12:50.113Z",
+    "generated_at": "2026-10-14T20:16:00.354Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -196,7 +196,7 @@
       "content/posts/the-asymmetry-of-understanding.md": "abb8bebb125a",
       "content/posts/the-average-is-residue-not-the-engine.md": "29cdac1a977f",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
-      "content/posts/the-bank-shot-and-the-magic-trick.md": "57156f299c6b",
+      "content/posts/the-bank-shot-and-the-magic-trick.md": "e86d076c0a5b",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "c639024cd10a",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b52ca2cdd064",
       "content/posts/the-blind-spot-of-the-frame.md": "23484e369bf2",
@@ -404,9 +404,9 @@
       "content/book/causality.md": "8e4681ca1d7b",
       "content/book/consciousness.md": "b6e19af51e3b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "727df3c7aa98",
+      "content/book/index-of-premises.md": "d20b8eda9c06",
       "content/book/intelligence.md": "5c06fbf5cc01",
-      "content/book/knowledge-and-learning.md": "bfaf3d63d4a0",
+      "content/book/knowledge-and-learning.md": "6a133aa0ce87",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "ac31dc919f28",
       "content/book/meaning-and-transcendence.md": "5f74283b7779",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5751,
+      "edges": 5764,
       "unique_directed": 4547,
       "missing_targets": 0,
       "one_way": 137,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1017,
+      "book_edges": 1018,
       "posts_reached_by_book": 393
     }
   },
@@ -5324,8 +5324,8 @@
       "kind": "post",
       "slug": "the-bank-shot-and-the-magic-trick",
       "path": "content/posts/the-bank-shot-and-the-magic-trick.md",
-      "title": "The Bank Shot and the Magic Trick",
-      "hash": "57156f299c6b",
+      "title": "翻袋球与魔术戏法 / The Bank Shot and the Magic Trick",
+      "hash": "e86d076c0a5b",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -26595,13 +26595,37 @@
       "from": "the-bank-shot-and-the-magic-trick",
       "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
       "rel": "points_to",
+      "label": "约束的样子不是自由的失去"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "rel": "points_to",
       "label": "The Look of Constraint Is Not the Loss of Freedom"
     },
     {
       "from": "the-bank-shot-and-the-magic-trick",
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
+      "label": "自由的测不准"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
       "label": "The Uncertainty of Freedom"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
     },
     {
       "from": "the-bank-shot-and-the-magic-trick",
@@ -26619,7 +26643,31 @@
       "from": "the-bank-shot-and-the-magic-trick",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
-      "label": "Prior Cause, Subsequent Effect"
+      "label": "前因，后果"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "Cause Before, Effect After"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
     },
     {
       "from": "the-bank-shot-and-the-magic-trick",
@@ -26643,6 +26691,18 @@
       "from": "the-bank-shot-and-the-magic-trick",
       "to": "the-mirage-of-the-infinite-totality",
       "rel": "points_to",
+      "label": "无穷总体的海市蜃楼"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "时间是因果的不可逆方向与离散步长"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
       "label": "The Mirage of the Infinite Totality"
     },
     {
@@ -26655,13 +26715,31 @@
       "from": "the-bank-shot-and-the-magic-trick",
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
       "label": "The Boundary of the Frame"
     },
     {
       "from": "the-bank-shot-and-the-magic-trick",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "向量与投影的迷局"
+    },
+    {
+      "from": "the-bank-shot-and-the-magic-trick",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "the-bank-shot-and-the-magic-trick",
@@ -44405,7 +44483,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "727df3c7aa98",
+        "hash": "d20b8eda9c06",
         "out_degree": 393
       },
       {
@@ -44423,7 +44501,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "bfaf3d63d4a0",
+        "hash": "6a133aa0ce87",
         "out_degree": 33
       },
       {
@@ -47502,6 +47580,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-bank-shot-and-the-magic-trick",
+        "rel": "collects",
+        "label": "翻袋球与魔术戏法 / The Bank Shot and the Magic Trick"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "closed-reality-in-the-pursuit-of-serendipity",
         "rel": "collects",
         "label": "Closed Reality in the Pursuit of Serendipity"
@@ -48360,6 +48444,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-bank-shot-and-the-magic-trick",
+        "rel": "collects",
+        "label": "翻袋球与魔术戏法 / The Bank Shot and the Magic Trick"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "expertise-as-reference-not-replacement",
         "rel": "collects",
         "label": "Expertise as Reference, Not Replacement"
@@ -48537,12 +48627,6 @@
         "to": "the-closed-loop-of-representation",
         "rel": "collects",
         "label": "The Closed Loop of Representation"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-bank-shot-and-the-magic-trick",
-        "rel": "collects",
-        "label": "The Bank Shot and the Magic Trick"
       },
       {
         "from": "book:index-of-premises",
@@ -49268,7 +49352,7 @@
         "from": "book:knowledge-and-learning",
         "to": "the-bank-shot-and-the-magic-trick",
         "rel": "collects",
-        "label": "The Bank Shot and the Magic Trick"
+        "label": "翻袋球与魔术戏法 / The Bank Shot and the Magic Trick"
       },
       {
         "from": "book:knowledge-and-learning",

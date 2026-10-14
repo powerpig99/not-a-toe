@@ -3162,6 +3162,15 @@ Crediting Shanghai factories or Chinese manufacturing assumes one salient node e
 
 → [关于归因：从事实到因果，从外部节点到内部迭代](../../posts/guan-yu-gui-yin/)
 
+### 魔术即因果的悬置 / Magic as Suspended Causality
+`哲学 / Philosophical`
+
+把看不见来路的结果当成奇迹、天赋或运气，是从结局一侧读因果，在只看结局时有用；它在此到了边界：魔术、举重若轻与他人难解的举动，都是一次中间的反弹落在了感知框架之外，冲突是自己的内部模型缺了一环因果。
+
+Taking a result whose path is unseen for a miracle, a gift or luck reads causality from the side of the ending, of use when only endings are needed; it reaches its boundary in that magic, effortless ease and another's puzzling act are each an intermediate bounce fallen outside the frame of perception, and conflict is a link missing from one's own inner model.
+
+→ [翻袋球与魔术戏法 / The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/)
+
 ### 人造偶遇奇迹的悖论 / Manufactured Serendipity
 `成功学 / Self-Help`
 
@@ -4393,7 +4402,7 @@ Activism assumes patterns like regulations hold independent causal power; they a
 
 Elevating talent, opportunity, or systems to decisive causes turns conditions into fate; they remain conditions to use, bypass, or create, while the lever is how one interprets and acts.
 
-→ [外部归因：个人进步的障碍](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)
+→ [外部归因：个人进步的障碍](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) · [翻袋球与魔术戏法 / The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/)
 
 ### 专家治国论权威 / Technocratic Expert Authority
 `哲学 / Philosophical`
@@ -4655,15 +4664,6 @@ Theoretical physics presumes equations describe the cosmos from a detached, sour
 Declaring reality illusory needs the same impossible exterior standpoint as dogmatic realism; an external world is reasonably assumed because it stabilizes experience, neither provable nor disprovable.
 
 → [The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
-
-### 表演性复杂化魔术 / Theatrical Complexity Display
-`哲学 / Philosophical`
-
-经院学者常常把简单事物包装得繁复晦涩以显渊博；营造高深迷宫的魔术，多半是为了转移视线掩盖质朴的因果真相。
-
-Scholastic commentary overcomplicates problems to project intellectual brilliance; spinning Byzantine theoretical labyrinths serves to distract audiences from straightforward causal facts.
-
-→ [The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/)
 
 ### 心理咨询的反馈回路 / Therapeutic Feedback Loop
 `成功学 / Self-Help`
