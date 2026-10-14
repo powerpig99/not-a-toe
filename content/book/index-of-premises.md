@@ -305,6 +305,15 @@ Deleuze replaced static substances with dynamic difference and becoming; brillia
 
 → [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
 
+### 汉娜·阿伦特 / Hannah Arendt
+`哲学 / Philosophical`
+
+阿伦特在《艾希曼在耶路撒冷》里以“恶的庸常”描述不假思索的人怎样参与巨大的恶，并没有免去艾希曼的责任，这个描述有用；它在流行用法里被读作把恶行归给体制的齿轮时，在此到了边界：没有自己转动的齿轮，每一次被叫作庸常的恶，都是具体的人在当下做出的选择。
+
+In Eichmann in Jerusalem, Arendt described with the "banality of evil" how unthinking people take part in great evil, without relieving Eichmann of responsibility, a description of use; read in popular usage as assigning wrongdoing to the system's cogs, it reaches its boundary, since no cog turns by itself and each wrong called banal is a choice a particular person makes in the present.
+
+→ [涌现的伪因果 / The Pseudo-Causality of Emergence](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/)
+
 ### 艾萨克·阿西莫夫 / Isaac Asimov
 `技术 / Technological`
 
@@ -2145,6 +2154,15 @@ New Age and collectivist doctrines proclaim an oceanic universal mind; conscious
 
 → [Shared Consciousness Is Intersecting Individualities](../../posts/shared-consciousness-is-intersecting-individualities/)
 
+### 集体责任均摊 / Collective Responsibility
+`意识形态 / Ideological`
+
+“雪崩之下没有一片雪花是无辜的”，把集体灾难的责任均摊给所有人，作为对人人参与的描述有用；它在此到了边界：均摊让每个人的责任趋近于零，1/N → 0，作恶的私利归自己、代价摊给全社会，自律的成本归自己、收益被众人分享，强调集体责任反而切断了选择与反馈的对应。
+
+"Under an avalanche no snowflake is innocent" spreads responsibility for a collective disaster over everyone, of use as a description of universal participation; it reaches its boundary in that spreading drives each person's responsibility toward zero, 1/N → 0, the private gain of wrongdoing staying with oneself while its cost is spread over society and the cost of restraint staying with oneself while its gains are shared, so that stressing collective responsibility cuts the correspondence between choice and feedback.
+
+→ [涌现的伪因果 / The Pseudo-Causality of Emergence](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/)
+
 ### 集体主义社会改良谬误 / Collective Social Reform Fallacy
 `哲学 / Philosophical`
 
@@ -3840,11 +3858,11 @@ Many individualists assume designed legal or cultural systems make freedom possi
 ### 涌现的伪因果倒错 / Pseudo-Causality of Emergence
 `科学 / Scientific`
 
-宏观涌现论常把群体趋势当成统摄个体的独立因果实体；统计模式不过是数以万计个体抉择沉淀出来的滞后迹象。
+把大势、体制、集体意志或集体智慧当作支配个人的原因，作为对宏观模式的描述有用；它在此到了边界：宏观现象是微观选择汇聚成的统计副产品，被读作原因之后又进入下一次选择，形成自循环，被系统裹挟的感觉，是事后把归因外置，而个人的选择从未失去它的因果位置。
 
-Sociological emergence treats macro trends as autonomous causal agents commanding individuals; statistical patterns are trailing residue produced by countless micro-level choices.
+Treating the tide of the times, the institution, collective will or collective intelligence as causes governing individuals is of use as a description of macro patterns; it reaches its boundary in that macro phenomena are statistical by-products gathered from micro choices which, once read as causes, enter the next choice and form a self-loop, and the feeling of being swept along is attribution moved outward after the fact while individual choice never lost its causal place.
 
-→ [涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) · [涌现的几何学 / The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
+→ [涌现的伪因果 / The Pseudo-Causality of Emergence](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) · [涌现的几何学 / The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
 
 ### 量子脑之争 / The Quantum Brain Debate
 `科学 / Scientific`
