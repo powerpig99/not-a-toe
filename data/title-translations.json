@@ -33,10 +33,6 @@
       "title_en": "Cause Before, Effect After",
       "subtitle_en": "Time is the direction and interval of causality; the trace shapes only one way, and observation always stands on the side of the effect already formed."
     },
-    "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi": {
-      "title_en": "Choosing to See Rather Than Searching for Shadows",
-      "subtitle_en": "Looking outward is not paying attention: the first searches the world for one's own shadow, the second chooses to see, using observation as a reference to expand the world rather than to compete for a better seat in it."
-    },
     "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian": {
       "title_en": "The Ladder of Projections and the Anchor of Causality",
       "subtitle_en": "Formal logic, axioms and physical limits, worldly success and moral judgment are all low-dimensional projections a finite mind cuts under given premises; only reasoning anchored in first-person working conditions sees through the symbolic totems."
@@ -444,6 +440,10 @@
     "curiosity-has-no-final-form": {
       "title_zh": "好奇没有最终的形态",
       "subtitle_zh": "把数学、物理与哲学当作好奇的终点，是把临时的脚手架与不停息的区分活动混为一谈。"
+    },
+    "guan-yu-gui-yin": {
+      "title_en": "On Attribution: From Fact to Cause, From Outside Node to Inner Iteration",
+      "subtitle_en": "Taking facts in time order straight as causal relations stops attribution at the conspicuous node, and iteration breaks off there."
     }
   }
 }

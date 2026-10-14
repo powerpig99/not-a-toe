@@ -4722,11 +4722,11 @@ Therapeutic culture presumes unconditional validation heals distress; softening 
 ### 第三人称知性观瞻的因果倒置 / Third-Person Intellectual Voyeurism
 `哲学 / Philosophical`
 
-经院作风假定必须先通晓万卷理论方能投身实践；被动吞咽解释容易催生自以为是的虚假精通，反使直接行动陷入停滞。
+把观察当作目的，向外张望以搜寻印证自己的影子，把别人的关注当作决策指标，把知识的变现放在升级之前，在描述注意力的流向时有用；它在此到了边界：观察是校准第一人称决策的参考，用来扩展世界而不是争一个座位，价值的扩散是认知结构升级自然溢出的副产品。
 
-Scholasticism presumes accumulating encyclopedic theories precedes competent action; passive consumption of explanations produces an illusion of mastery that paralyzes direct action.
+Taking observation as the end, looking outward to search for shadows that confirm oneself, using others' attention as a decision metric and putting the monetising of knowledge before its upgrading is of use in describing where attention flows; it reaches its boundary in that observation is a reference for calibrating first-person decisions, used to widen the world rather than win a seat, and the diffusion of value is a by-product that spills naturally from the upgrading of cognitive structure.
 
-→ [选择看见而非搜寻影子：从注意力的因果错位到知识的自然扩散](../../posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/)
+→ [选择看见而非搜寻影子 / Choosing to See Rather Than Searching for Shadows](../../posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/)
 
 ### 威胁存续均衡 / Threat-Persistence Equilibrium
 `技术 / Technological`
