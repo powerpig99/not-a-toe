@@ -33,7 +33,7 @@ These essays examine victimhood paralysis, shortcut delusions, and cognitive inv
 - [Not Predicting is Predicting without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
 - [Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time](../../posts/failure-as-information/)
 - [外部归因：个人进步的障碍](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)
-- [有条件的自由](../../posts/you-tiao-jian-de-zi-you/)
+- [有条件的自由 / Conditional Freedom](../../posts/you-tiao-jian-de-zi-you/)
 - [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)
 - [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
 - [成功之后的育儿谬误 / The Fallacy of Post-Success Parenting](../../posts/the-fallacy-of-post-success-parenting/)

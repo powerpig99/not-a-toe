@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T22:12:29.133Z",
+    "generated_at": "2026-10-14T22:23:10.099Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -393,7 +393,7 @@
       "content/posts/xian-shi-de-bian-jie.md": "9ca679fde7fc",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "67d7a9a386eb",
       "content/posts/you-cant-benchmark-the-fluid.md": "5e3f42fa5041",
-      "content/posts/you-tiao-jian-de-zi-you.md": "d4fcc2a945c7",
+      "content/posts/you-tiao-jian-de-zi-you.md": "f25fdfec3ce2",
       "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "914571f5e4e9",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "e4aab029e499",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "6cc7c36374ce",
       "content/book/consciousness.md": "374c33a2478e",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "59517d8d76d1",
+      "content/book/index-of-premises.md": "00b998f636b2",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "242fc0e02bd2",
       "content/book/life-and-statistics.md": "57d582e7bf12",
@@ -415,12 +415,12 @@
       "content/book/physics.md": "4dc78b4befa1",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "583610a3fc34",
-      "content/book/success-and-the-self.md": "11db414e763c",
+      "content/book/success-and-the-self.md": "59aa878b03ef",
       "content/book/tools-and-progress.md": "ecdce6e731a7"
     },
     "stats": {
       "posts": 393,
-      "edges": 6028,
+      "edges": 6035,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -9689,8 +9689,8 @@
       "kind": "post",
       "slug": "you-tiao-jian-de-zi-you",
       "path": "content/posts/you-tiao-jian-de-zi-you.md",
-      "title": "有条件的自由",
-      "hash": "d4fcc2a945c7",
+      "title": "有条件的自由 / Conditional Freedom",
+      "hash": "f25fdfec3ce2",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -45304,13 +45304,19 @@
       "from": "you-tiao-jian-de-zi-you",
       "to": "freedom-as-ground",
       "rel": "points_to",
-      "label": "自由作为地基"
+      "label": "自由即地基"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "Freedom as Ground"
     },
     {
       "from": "you-tiao-jian-de-zi-you",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超越性的僵化意象"
+      "label": "超验的定相"
     },
     {
       "from": "you-tiao-jian-de-zi-you",
@@ -45320,15 +45326,33 @@
     },
     {
       "from": "you-tiao-jian-de-zi-you",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "向外索取确认的因果倒置"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "you-tiao-jian-de-zi-you",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "you-tiao-jian-de-zi-you",
@@ -45341,6 +45365,24 @@
       "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "rel": "points_to",
       "label": "约束基底与自由自否"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "you-tiao-jian-de-zi-you",
+      "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "rel": "points_to",
+      "label": "The Substrate of Constraint and the Self-Denial of Freedom"
     },
     {
       "from": "you-wu-zhi-bian",
@@ -46068,7 +46110,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "59517d8d76d1",
+        "hash": "00b998f636b2",
         "out_degree": 393
       },
       {
@@ -46167,7 +46209,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "11db414e763c",
+        "hash": "59aa878b03ef",
         "out_degree": 33
       },
       {
@@ -47055,7 +47097,7 @@
         "from": "book:index-of-premises",
         "to": "you-tiao-jian-de-zi-you",
         "rel": "collects",
-        "label": "有条件的自由"
+        "label": "有条件的自由 / Conditional Freedom"
       },
       {
         "from": "book:index-of-premises",
@@ -48891,7 +48933,7 @@
         "from": "book:index-of-premises",
         "to": "you-tiao-jian-de-zi-you",
         "rel": "collects",
-        "label": "有条件的自由"
+        "label": "有条件的自由 / Conditional Freedom"
       },
       {
         "from": "book:index-of-premises",
@@ -50493,7 +50535,7 @@
         "from": "book:index-of-premises",
         "to": "you-tiao-jian-de-zi-you",
         "rel": "collects",
-        "label": "有条件的自由"
+        "label": "有条件的自由 / Conditional Freedom"
       },
       {
         "from": "book:index-of-premises",
@@ -52233,7 +52275,7 @@
         "from": "book:success-and-the-self",
         "to": "you-tiao-jian-de-zi-you",
         "rel": "collects",
-        "label": "有条件的自由"
+        "label": "有条件的自由 / Conditional Freedom"
       },
       {
         "from": "book:success-and-the-self",

@@ -330,7 +330,7 @@ Asimov attributes resistance against innovation to the proactive pushback of ves
 
 Rousseau's chains compare current configuration with a freedom unbound by traces; freedom is the next distinction still being drawable, so chains belong to interpretation under crowded finite axes.
 
-→ [作茧是观察到的现象，自缚是对现象的解读](../../posts/zuo-jian-bu-shi-zi-fu/) · [Freedom as Ground](../../posts/freedom-as-ground/) · [有条件的自由](../../posts/you-tiao-jian-de-zi-you/) · [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/)
+→ [作茧是观察到的现象，自缚是对现象的解读](../../posts/zuo-jian-bu-shi-zi-fu/) · [Freedom as Ground](../../posts/freedom-as-ground/) · [有条件的自由 / Conditional Freedom](../../posts/you-tiao-jian-de-zi-you/) · [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/)
 
 ### 让-保罗·萨特 / Jean-Paul Sartre
 `哲学 / Philosophical`
@@ -2620,7 +2620,7 @@ Structural analysis conflates active living discernment with recorded traces; fr
 
 Financial freedom assumes money is the precondition of acting freely; at scarcity lack excuses inaction, at wealth risk and rules do, so the balance sheet proves only where chains are not.
 
-→ [有条件的自由](../../posts/you-tiao-jian-de-zi-you/)
+→ [有条件的自由 / Conditional Freedom](../../posts/you-tiao-jian-de-zi-you/)
 
 ### 第一因与终极地基 / First Cause and Ultimate Foundation
 `哲学 / Philosophical`
@@ -4879,7 +4879,7 @@ Presumes free choice and physical randomness are mutually exclusive; useful for 
 
 Love directed at a frozen image presumes the other will match it; idealization and later demonization share one structure that refuses the other as a living mind with further lines to speak.
 
-→ [有条件的自由](../../posts/you-tiao-jian-de-zi-you/)
+→ [有条件的自由 / Conditional Freedom](../../posts/you-tiao-jian-de-zi-you/)
 
 ### 不可转让的良知主权 / Undelegatable Conscience
 `哲学 / Philosophical`
