@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T17:51:28.693Z",
+    "generated_at": "2026-10-14T18:28:45.979Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -305,7 +305,7 @@
       "content/posts/the-non-definitive-definition-of-intelligence.md": "99b5bd10ba18",
       "content/posts/the-npc-impression-is-structural.md": "f080ebfaf58b",
       "content/posts/the-observational-cut-in-ai-debates.md": "5884a66a9a71",
-      "content/posts/the-only-coherent-uncaused-effect.md": "e2d429f8fb89",
+      "content/posts/the-only-coherent-uncaused-effect.md": "b8d494757a53",
       "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
       "content/posts/the-other-coherence.md": "fc324a17a568",
@@ -401,10 +401,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "5e61e170d117",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "9ce16a51283f",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
-      "content/book/causality.md": "e6ea1a3ffb75",
+      "content/book/causality.md": "8e4681ca1d7b",
       "content/book/consciousness.md": "b6e19af51e3b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "1f3dda0d3f74",
+      "content/book/index-of-premises.md": "4fd956cb9782",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "bfaf3d63d4a0",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -420,10 +420,10 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5670,
-      "unique_directed": 4543,
+      "edges": 5683,
+      "unique_directed": 4544,
       "missing_targets": 0,
-      "one_way": 135,
+      "one_way": 136,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
@@ -5857,7 +5857,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "2610f984cd07",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 5,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -7633,18 +7633,19 @@
       "kind": "post",
       "slug": "the-only-coherent-uncaused-effect",
       "path": "content/posts/the-only-coherent-uncaused-effect.md",
-      "title": "The Only Coherent Uncaused Effect",
-      "hash": "e2d429f8fb89",
+      "title": "唯一自洽的无因之果 / The Only Coherent Uncaused Effect",
+      "hash": "b8d494757a53",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
-        "the-arithmetic-of-the-register",
         "the-generative-mechanics-of-value-money-and-wealth",
+        "the-arithmetic-of-the-register",
         "the-deterministic-machine",
         "the-geometry-of-mind",
         "the-vector-and-the-puzzle-of-projections",
         "the-generative-topology-of-free-variables",
         "the-extendable-horizon",
+        "the-cut-moves-but-never-vanishes",
         "the-boundary-of-the-frame",
         "individual-choices-as-the-only-causal-levers",
         "ownership-and-self-worthiness"
@@ -35697,57 +35698,129 @@
     },
     {
       "from": "the-only-coherent-uncaused-effect",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
-      "label": "The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field"
+      "label": "寄存器的算术"
     },
     {
       "from": "the-only-coherent-uncaused-effect",
       "to": "the-generative-mechanics-of-value-money-and-wealth",
       "rel": "points_to",
-      "label": "the generative mechanics of value, money, and wealth"
+      "label": "The Generative Mechanics of Value, Money, and Wealth"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "The Arithmetic of the Register"
     },
     {
       "from": "the-only-coherent-uncaused-effect",
       "to": "the-deterministic-machine",
       "rel": "points_to",
-      "label": "the deterministic machine"
+      "label": "决定论机器"
     },
     {
       "from": "the-only-coherent-uncaused-effect",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
-      "label": "the geometry of mind"
+      "label": "心智的几何学"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-deterministic-machine",
+      "rel": "points_to",
+      "label": "The Deterministic Machine"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
     },
     {
       "from": "the-only-coherent-uncaused-effect",
       "to": "the-vector-and-the-puzzle-of-projections",
       "rel": "points_to",
-      "label": "mere angle rotations while core magnitude atrophies"
+      "label": "向量与投影的迷局"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "The Vector and the Puzzle of Projections"
     },
     {
       "from": "the-only-coherent-uncaused-effect",
       "to": "the-generative-topology-of-free-variables",
       "rel": "points_to",
-      "label": "the generative topology of free variables"
+      "label": "自由变量的生成拓扑"
     },
     {
       "from": "the-only-coherent-uncaused-effect",
       "to": "the-extendable-horizon",
       "rel": "points_to",
-      "label": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables"
+      "label": "可延展的地平线"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "The Generative Topology of Free Variables"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
     },
     {
       "from": "the-only-coherent-uncaused-effect",
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
-      "label": "the boundary of the frame"
+      "label": "框架的边界"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
     },
     {
       "from": "the-only-coherent-uncaused-effect",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices remain the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "投在狭窄公共截面上的一道闪动的影子"
     },
     {
       "from": "the-only-coherent-uncaused-effect",
@@ -35759,7 +35832,13 @@
       "from": "the-only-coherent-uncaused-effect",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-open-question-is-determinisms-demand",
@@ -43888,7 +43967,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "e6ea1a3ffb75",
+        "hash": "8e4681ca1d7b",
         "out_degree": 33
       },
       {
@@ -43915,7 +43994,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "1f3dda0d3f74",
+        "hash": "4fd956cb9782",
         "out_degree": 393
       },
       {
@@ -44164,7 +44243,7 @@
         "from": "book:causality",
         "to": "the-only-coherent-uncaused-effect",
         "rel": "collects",
-        "label": "The Only Coherent Uncaused Effect"
+        "label": "唯一自洽的无因之果 / The Only Coherent Uncaused Effect"
       },
       {
         "from": "book:causality",
@@ -47968,7 +48047,7 @@
         "from": "book:index-of-premises",
         "to": "the-only-coherent-uncaused-effect",
         "rel": "collects",
-        "label": "The Only Coherent Uncaused Effect"
+        "label": "唯一自洽的无因之果 / The Only Coherent Uncaused Effect"
       },
       {
         "from": "book:index-of-premises",

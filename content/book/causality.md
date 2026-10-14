@@ -34,7 +34,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [自由变量的同构与先验主权：量子、比特与微观选择](../../posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)
 - [The Look of Constraint Is Not the Loss of Freedom](../../posts/the-look-of-constraint-is-not-the-loss-of-freedom/)
 - [The Causal Inversion of Philosophical Agency](../../posts/the-causal-inversion-of-philosophical-agency/)
-- [The Only Coherent Uncaused Effect](../../posts/the-only-coherent-uncaused-effect/)
+- [唯一自洽的无因之果 / The Only Coherent Uncaused Effect](../../posts/the-only-coherent-uncaused-effect/)
 - [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/)
 - [残余与自由变量 / The Residue and the Free Variable](../../posts/the-residue-and-the-free-variable/)
 - [让渡主权的幂律法则 / The Power-Law of Surrendered Agency](../../posts/the-power-law-of-surrendered-agency/)

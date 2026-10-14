@@ -4614,11 +4614,11 @@ Objectivist epistemology forgets the act of measurement; drawing any formal dist
 ### 抉择作为唯一的自发因 / The Uncaused Cause of Choice
 `哲学 / Philosophical`
 
-无穷因果倒退假定每个行动皆由先在物理骨牌撞击而来；第一人称的主观决断是唯一自洽的原发开端，主动确立新的因果之链。
+无穷的因果倒退假定每个行动都由先前的物理骨牌推倒而来；从第一人称的原点去找，自己的选择到来时并不是前一刻推过来的，这个假定在此到了边界，作为在被登记的世界里预料后果、追溯前因的工具，它依然好用。
 
-Infinite causal regress presumes every human act is caused by a prior physical domino; the first-person conscious decision is the sole coherent origin that initiates causal action without prior cause.
+Infinite causal regress presumes every act is pushed over by a prior physical domino; searched for from the first-person origin, one's own choice does not arrive pushed by the moment before, which is where the presumption reaches its boundary, while as a tool for anticipating consequences and tracing causes in the world as registered it stays useful.
 
-→ [The Only Coherent Uncaused Effect](../../posts/the-only-coherent-uncaused-effect/)
+→ [唯一自洽的无因之果 / The Only Coherent Uncaused Effect](../../posts/the-only-coherent-uncaused-effect/)
 
 ### 不可闭合的观察痕迹 / The Unclosable Observational Trace
 `哲学 / Philosophical`
