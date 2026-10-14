@@ -24,7 +24,7 @@ These essays explore hierarchies of infinity, self-referential paradoxes, and th
 - [从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
 - [高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜](../../posts/gao-wei-xin-xi-de-li-san-zhe-she/)
 - [The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence](../../posts/the-generative-topology-of-free-variables/)
-- [The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
+- [涌现的几何学 / The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
 - [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/)
 - [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/)
 - [连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience](../../posts/the-continuum-is-a-modeling-convenience/)
