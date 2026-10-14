@@ -757,6 +757,31 @@ function listPostFiles() {
     .sort((a, b) => a.localeCompare(b));
 }
 
+// When each post was first published: the commit that added its file, followed through renames, so that an edit
+// never moves a post. One git call over the history of content/posts, oldest first. A post with no commit yet (a draft
+// built locally) has none and falls back to its file date.
+function firstPublishedFromGit() {
+  const first = {};
+  let log = '';
+  try {
+    log = execFileSync('git', ['log', '--reverse', '-M', '--name-status', '--format=@%cI', '--', 'content/posts'], {
+      cwd: scriptDir, encoding: 'utf8', maxBuffer: 1 << 28, stdio: ['ignore', 'pipe', 'ignore'],
+    });
+  } catch {
+    return first;
+  }
+  let date = '';
+  for (const line of log.split('\n')) {
+    if (line.startsWith('@')) { date = new Date(line.slice(1)).toISOString(); continue; }
+    const [status, from, to] = line.split('\t');
+    if (!status) continue;
+    const name = (f) => f && f.startsWith('content/posts/') ? f.slice('content/posts/'.length) : null;
+    if (status[0] === 'A' && name(from) && !first[name(from)]) first[name(from)] = date;
+    else if (status[0] === 'R' && name(to)) first[name(to)] = first[name(from)] ?? date;
+  }
+  return first;
+}
+
 function restorePostMtimesFromGit(files) {
   let restored = 0;
   let skipped = 0;
@@ -795,7 +820,7 @@ function restorePostMtimesFromGit(files) {
   console.log(`Restored mtimes for ${restored} files (skipped ${skipped}).`);
 }
 
-function readPosts(files) {
+function readPosts(files, published = {}) {
   const postFiles = files ?? listPostFiles();
 
   return postFiles.map((fileName) => {
@@ -823,7 +848,9 @@ function readPosts(files) {
     const blocks = (lang) => (htmlBody.match(new RegExp(`^<(?:p|div|ul|ol|blockquote|pre|table)[^>]* data-l="${lang}"`, 'gm')) ?? []).length;
     const balanced = !bilingual || blocks('zh') === blocks('en');
     const plainText = markdownToSummaryText(markdownBody);
-    const dateIso = getFileDate(fullPath);
+    // The date shown and the order of the posts are the first publication; the last edit goes to the sitemap only.
+    const updatedIso = getFileDate(fullPath);
+    const dateIso = published[fileName] ?? updatedIso;
     const units = readingUnits(plainText);
     const cover = findCoverForSlug(slug);
     const excerpt = subtitle || lead;
@@ -835,6 +862,7 @@ function readPosts(files) {
       subtitle,
       lead,
       dateIso,
+      updatedIso,
       dateDisplay: formatDate(dateIso),
       readingTime: readingTimeMinutes(units),
       wordCount: units.units,
@@ -1852,7 +1880,7 @@ function generateSitemap(posts, book = null) {
   const staticRows = staticPaths.map((p) => `  <url><loc>${xmlEscape(absoluteUrl(p))}</loc></url>`);
   const postRows = posts.map(
     (post) =>
-      `  <url><loc>${xmlEscape(absoluteUrl(post.outputPath))}</loc><lastmod>${xmlEscape(post.dateIso)}</lastmod></url>`,
+      `  <url><loc>${xmlEscape(absoluteUrl(post.outputPath))}</loc><lastmod>${xmlEscape(post.updatedIso)}</lastmod></url>`,
   );
   const rows = [...staticRows, ...postRows].join('\n');
   return `<?xml version="1.0" encoding="UTF-8"?>
@@ -1869,6 +1897,7 @@ function postMachineRecord(post, book = null) {
     title: post.title,
     subtitle: post.subtitle || null,
     date_iso: post.dateIso,
+    updated_iso: post.updatedIso,
     date_display: post.dateDisplay,
     reading_time_minutes: post.readingTime,
     word_count: post.wordCount,
@@ -1975,7 +2004,7 @@ function build() {
   cleanPublicDir();
   copyStaticAssets();
 
-  const posts = sortPosts(readPosts(files));
+  const posts = sortPosts(readPosts(files, firstPublishedFromGit()));
   const book = readBook(posts);
 
   if (book) {

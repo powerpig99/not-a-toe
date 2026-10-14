@@ -223,6 +223,26 @@
     "processed": "2026-10-13T06:16:38.953Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "the-open-question-is-determinisms-demand": {
+   "en": {
+    "id": "7daX-SeDdvw",
+    "url": "https://youtu.be/7daX-SeDdvw",
+    "privacy": "public",
+    "uploaded": "2026-10-14T07:54:39.053Z",
+    "status": "processed",
+    "processed": "2026-10-14T07:55:21.074Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "PuOIO4Bo1Xs",
+    "url": "https://youtu.be/PuOIO4Bo1Xs",
+    "privacy": "public",
+    "uploaded": "2026-10-14T07:55:32.259Z",
+    "status": "processed",
+    "processed": "2026-10-14T07:56:24.643Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }

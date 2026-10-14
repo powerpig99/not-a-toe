@@ -662,7 +662,9 @@ const tell=()=>{if(embed)parent.postMessage({natHeight:Math.round(innerWidth*CH/
 addEventListener('message',e=>{if(e.origin===location.origin&&(e.data?.natLang==='en'||e.data?.natLang==='zh'))switchTo(e.data.natLang)});
 function fit(){tell();const bh=bar.hidden?0:bar.offsetHeight,aw=innerWidth,ah=innerHeight-bh,s=Math.min(aw/CW,ah/CH);cv.style.width=CW*s+'px';cv.style.height=CH*s+'px';cv.style.left=(aw-CW*s)/2+'px';cv.style.top=(ah-CH*s)/2+'px'}
 function setShape(s){SHAPE=s;[CW,CH]=s==='v'?[1080,1920]:[1920,1080];cv.width=CW;cv.height=CH;OA=mkCanvas(CW,CH);OB=mkCanvas(CW,CH);fit()}
-const autoShape=()=>q.get('shape')||(embed?'h':innerHeight>innerWidth?'v':'h');
+// Inside a post the film takes the shape of the reader's screen, not of its frame: portrait on an upright phone.
+const upright=()=>{try{const w=embed?parent:window;return w.innerHeight>w.innerWidth}catch(e){return innerHeight>innerWidth}};
+const autoShape=()=>q.get('shape')||(upright()?'v':'h');
 let HOLD=null;
 function draw(t){render(t);const total=TL[LANG].total;$('time').textContent=clock(t)+' / '+clock(total);$('seekfill').style.width=(t/total*100)+'%'}
 window.drawAt=t=>{HOLD=t;draw(t)};
