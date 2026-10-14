@@ -64,7 +64,7 @@ Nothing in perception corresponds to this ordering. Perceiving never looks acros
 
 ## 二、 一次感知的两个方向 / 2. Two Directions of One Perception
 
-从不可化约的第一人称感知出发，自身与世界不是两个可以分别丈量的实体，它们是同一个现象朝两个方向的自指展开。被称为“外部世界”的，是内在状态向外投出、显现在感知画布上的部分；被称为“自我意象”的，是同一束感知向内折回、照见自己时留下的曲率。感知因此是一种双向自指投影：向外显现为开阔的世界，向内显现为身心的意象。借拓扑的语言作脚手架，把外显与内折中彼此对应的点认作同一点，得到的是一个连通的商空间 M / ~。在伴侣关系中，“共同体”是被当成原因的世界，[契约的因果倒置](../the-causal-inversion-of-partnership/)把这一倒置拆开。
+从不可化约的第一人称感知出发，自身与世界不是两个可以分别丈量的实体，它们是同一个现象朝两个方向的自指展开。被称为“外部世界”的，是内在状态向外投出、显现在感知画布上的部分；被称为“自我形象”的，是同一束感知向内折回、照见自己时留下的曲率。感知因此是一种双向自指投影：向外显现为开阔的世界，向内显现为身心的意象。借拓扑的语言作脚手架，把外显与内折中彼此对应的点认作同一点，得到的是一个连通的商空间 M / ~。在伴侣关系中，“共同体”是被当成原因的世界，[契约的因果倒置](../the-causal-inversion-of-partnership/)把这一倒置拆开。
 
 ```mermaid
 flowchart TD
@@ -72,7 +72,7 @@ flowchart TD
         direction TB
         Origin["第一人称原点：作出区分的动作 +1"]
         Out["向外投出：显现为世界"]
-        In["向内折回：显现为自我意象"]
+        In["向内折回：显现为自我形象"]
         Quotient["商空间：外显与内折是同一张地图"]
         Origin --> Out
         Origin --> In
@@ -110,7 +110,7 @@ flowchart TD
     style Quotient fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-在这个图景里，被记录为“对外部世界的改变”的事，是这张感知地图自身的局部形变。把行动想成主体跨出门槛、对门外的客体施力，在搬动一张桌子这样的尺度上是好用的模型。它的边界在于，凡是能被指认为“地图之外”的东西，在被指认的那一刻已经落在地图上，没有一个可以站出去核对外部的位置。于是在第一人称原点作出一次抉择（+1），发生变化的是整张地图的曲率，自我意象与世界图景一同改变。
+在这个图景里，被记录为“对外部世界的改变”的事，是这张感知地图自身的局部形变。把行动想成主体跨出门槛、对门外的客体施力，在搬动一张桌子这样的尺度上是好用的模型。它的边界在于，凡是能被指认为“地图之外”的东西，在被指认的那一刻已经落在地图上，没有一个可以站出去核对外部的位置。于是在第一人称原点作出一次抉择（+1），发生变化的是整张地图的曲率，自我形象与世界图景一同改变。
 
 In this picture, whatever is recorded as "a change made to the outside world" is a local deformation of the perceptual map itself. Picturing action as a subject stepping over a threshold and pushing on an object beyond the door is a good model at the scale of moving a table. Its boundary is that anything pointed to as "outside the map" has already landed on the map by being pointed to, and there is no place to step out to from which to check an exterior. So when one choice is made at the first-person origin (+1), what changes is the curvature of the whole map, and the self-image and the picture of the world change together.
 

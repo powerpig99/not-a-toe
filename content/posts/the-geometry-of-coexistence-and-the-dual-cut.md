@@ -106,7 +106,7 @@ flowchart TD
 
 Microscopic indeterminacy and first-person free choice are two sides of one coin of causality, and with this seen the geometry of cognition is complete. [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) has followed this coin from its inner and its outer side.
 
-认知的原初动作，是心智在未分的场里划下一道切分，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说明这道切分可以移动而不会消失。切分先雕出局域的正像 A：为在自己生成的全景地图里导航，心智把自己的抉择投影为一个局域的自我意象。同一瞬间生成负像 A^⟂：正像的轮廓被剪出时，感知画布上余下的广阔背景，外部的宇宙、物理规律与他者，成了自身在自身之内留下的负像。
+认知的原初动作，是心智在未分的场里划下一道切分，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说明这道切分可以移动而不会消失。切分先雕出局域的正像 A：为在自己生成的全景地图里导航，心智把自己的抉择投影为一个局域的自我形象。同一瞬间生成负像 A^⟂：正像的轮廓被剪出时，感知画布上余下的广阔背景，外部的宇宙、物理规律与他者，成了自身在自身之内留下的负像。
 
 The original act of cognition is a Mind drawing a cut in an undivided field, and [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) shows that this cut can be moved and does not disappear. The cut first carves a local positive image A: in order to navigate within the panoramic map it has generated, a Mind projects its own choice as a local self-image. In the same instant the negative image A^⟂ is generated: when the outline of the positive image is cut out, the wide background left on the canvas of perception, the outer cosmos, physical law and others, becomes the negative image of the self left within the self.
 
@@ -117,7 +117,7 @@ flowchart TD
     subgraph S_Image["切分的正像与负像"]
         direction TB
         Cut["切分：在未分的场里划下"]
-        Pos["正像：抉择投影出的局域自我意象"]
+        Pos["正像：抉择投影出的局域自我形象"]
         Neg["负像：余下的背景，宇宙、规律与他者"]
         Edge["同一条边界带着两面的全部信息"]
         Cut --> Pos

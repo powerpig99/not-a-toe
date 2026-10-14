@@ -2,7 +2,7 @@
 
 *忘了自己从未离开原点，手中的尺就成了加于他人的规 / When the origin that was never left is forgotten, the ruler in the hand becomes a rule laid on others*
 
-心智经验到的空间、间隔与距离，是从最初的抉择出发、在自身的感知场之内递归展开的投影；心智从未离开第一人称的原点。只看投影最顶上的两层，宇宙的全景与其中的自我意象，就生出从高处俯瞰的距离幻觉。在这个幻觉之下，三个词各自分成两个指向：尺是手中的量具，也成了加于他人的规；共享是差异之间的连接，也成了均值上的重叠；自动是出于自身的抉择，也成了没有余地的发条。回到原点，三者各归其位。
+心智经验到的空间、间隔与距离，是从最初的抉择出发、在自身的感知场之内递归展开的投影；心智从未离开第一人称的原点。只看投影最顶上的两层，宇宙的全景与其中的自我形象，就生出从高处俯瞰的距离幻觉。在这个幻觉之下，三个词各自分成两个指向：尺是手中的量具，也成了加于他人的规；共享是差异之间的连接，也成了均值上的重叠；自动是出于自身的抉择，也成了没有余地的发条。回到原点，三者各归其位。
 
 The space, interval and distance a Mind experiences are a projection that unfolds recursively, from a first choice, within its own perceptual field; a Mind never leaves the first-person origin. When only the top two layers of the projection are looked at, the panorama of the cosmos and the self-image within it, an illusion of distance arises, of looking down from a height. Under this illusion three words each divide in two directions: a ruler is a measuring tool in the hand and becomes a rule laid on others; shared is a connection among differences and becomes an overlap at the mean; automatic is a choice that comes from oneself and becomes clockwork with no room in it. On returning to the origin, each of the three goes back to its place.
 
@@ -16,11 +16,11 @@ There is a geometric construction in cognition: all the space, interval and dist
 
 The construction can be pictured as an infinitely self-referential recursive loop, self-similar at every level. Looked into more and more deeply, it ends at a wall that cannot be passed, the boundary of perception, as happens in physics when the attempt is made to cross the quantum boundary. On the microscopic side this wall is the boundary of observation, where quantum indeterminacy appears and where, from inside, the starting of a choice (+1) is experienced; [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) has discussed how where this boundary falls is the Mind's choice. On the macroscopic side, the cosmos that is perceived is where macroscopic perception stops in each present.
 
-心智从未离开第一人称的原点。一切观测数据、坐标框架与宇宙的全景，都始于微观感知边界上的最初抉择；由此出发，连续的自指映射一层层向外投出关系的图谱与因果的流形。日常感知到的现实，是这个投影最顶上的两层：向外铺开、宏观感知停住之处的“宇宙全景”，与为在全景里给自身的交互建模而嵌入其中的“自我意象”。
+心智从未离开第一人称的原点。一切观测数据、坐标框架与宇宙的全景，都始于微观感知边界上的最初抉择；由此出发，连续的自指映射一层层向外投出关系的图谱与因果的流形。日常感知到的现实，是这个投影最顶上的两层：向外铺开、宏观感知停住之处的“宇宙全景”，与为在全景里给自身的交互建模而嵌入其中的“自我形象”。
 
 A Mind never leaves the first-person origin. All observational data, coordinate frames and the panorama of the cosmos begin from a first choice at the microscopic boundary of perception; from there, continuous self-referential mapping projects outward, layer upon layer, a map of relations and a manifold of causality. The reality perceived day to day is the top two layers of this projection: the "panorama of the cosmos," spread outward to where macroscopic perception stops, and the "self-image" embedded in it in order to model one's own interaction within the panorama.
 
-只聚焦于这两层时，视差就出现了。看着辽阔的全景与其中局域的自我意象，忘了整座投影从底到顶都由自身的原点递归生成，顶层的全景便被当作独立于观测的实体，随之生出身在高处俯瞰现实的“距离幻觉”。投影的深度被截断之后，心智造出的量具与概念在投射的方向上分化。
+只聚焦于这两层时，视差就出现了。看着辽阔的全景与其中局域的自我形象，忘了整座投影从底到顶都由自身的原点递归生成，顶层的全景便被当作独立于观测的实体，随之生出身在高处俯瞰现实的“距离幻觉”。投影的深度被截断之后，心智造出的量具与概念在投射的方向上分化。
 
 ```mermaid
 flowchart TD
@@ -28,7 +28,7 @@ flowchart TD
         direction TB
         Wall["微观的边界：观察到此为止，从内是抉择的始发"]
         Layers["自指的投影一层层向外展开"]
-        Top["顶上的两层：宇宙的全景与其中的自我意象"]
+        Top["顶上的两层：宇宙的全景与其中的自我形象"]
         Forget["只看这两层：忘了投影由原点生成"]
         Dist["距离的幻觉：仿佛从高处俯瞰"]
         Wall --> Layers
