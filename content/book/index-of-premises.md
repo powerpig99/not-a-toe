@@ -1012,11 +1012,11 @@ Hilbert proposed that all mathematical truths could be completely and consistent
 ### 帝国崩溃演化律 / Imperial Collapse Dynamics
 `意识形态 / Ideological`
 
-帝王将相史常把王朝覆灭归咎于奸佞作乱；帝国实则是因官僚负担畸形膨胀、财政透支掏空生产底气，导致合法性自溃。
+把过度扩张、财政枯竭、制度衰败当作帝国崩溃的规律性原因，在为历史痕迹命名时有用；它在此到了边界：同样的标签解释不了各不相同的崩溃，帝国是许多中心的对齐被压缩到一个容量有限的位点上，崩溃来自自我形象被豁免了再校准。
 
-Political historiography blames revolutions on treasonous conspirators; empires collapse when compounding bureaucratic overhead and fiscal debasement destroy the regime's operational legitimacy.
+Treating overstretch, fiscal exhaustion and institutional decay as lawlike causes of imperial collapse is of use in naming historical traces; it reaches its boundary in that the same labels cannot explain collapses that differ, since an empire is the alignment of many centres compressed onto a locus of finite capacity, and collapse comes from a self-image exempted from recalibration.
 
-→ [War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
+→ [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
 
 ### 信息本体优先论 / Information as Ontologically Primary
 `哲学 / Philosophical`
@@ -2774,6 +2774,15 @@ Relativism treats all cognitive models as arbitrary mirror reflections; analytic
 The cascade presumes the larger system causes the smaller; the hierarchy is generated inside the loop, and the unbounded substrate is residual complexity the current compression has not folded in.
 
 → [因果与不可化约的先在 / Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
+
+### 历史教训作为模板 / Historical Lessons as Templates
+`意识形态 / Ideological`
+
+把储存的历史教训当作当下行动的模板，用“这是 1914 年”一类类比来读眼前，作为记录过去模式的参照有用；它在此到了边界：过去的条件不能原样重现，聚合体被当成行动者，改变能力的理解发生在承担后果的即时反馈之中。
+
+Treating stored historical lessons as templates for present action, reading the moment through analogies like "this is 1914", is of use as a reference recording past patterns; it reaches its boundary in that past conditions cannot be replicated as they were, aggregates get treated as agents, and the understanding that changes capability happens in immediate, consequence-bearing feedback.
+
+→ [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/)
 
 ### 借由否定的自我定义 / Identity via Negation
 `哲学 / Philosophical`
@@ -4924,7 +4933,7 @@ A zero-knowledge proof establishes truth without revealing the witness; the form
 
 Closed-reality premises treat resources and status as a fixed pool; net value arises only under open premises, and zero-sum apparatuses endure on surplus produced in open moments.
 
-→ [One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/)
+→ [One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/)
 
 ### 梵我一如（奥义书） / Ātman–Brahman Identity (Upanishads)
 `宗教 / Religious`
