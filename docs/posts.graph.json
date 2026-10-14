@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T12:40:50.571Z",
+    "generated_at": "2026-10-14T13:51:33.081Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -151,7 +151,7 @@
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "10f5c99c06d4",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "2fe06aa14edd",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/po-chu-gai-nian-de-jian-yue.md": "5870a46f914c",
+      "content/posts/po-chu-gai-nian-de-jian-yue.md": "addbcd06bbe4",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "d08945859623",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "db0acf841a07",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "b3860817582f",
@@ -225,7 +225,7 @@
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "ba5e347be04e",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
-      "content/posts/the-deterministic-machine.md": "d400d304213c",
+      "content/posts/the-deterministic-machine.md": "19a7586b9418",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "e86ad1bf219f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "e45328f52c3e",
       "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
@@ -233,7 +233,7 @@
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "0f743e203782",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "09a58e05b701",
-      "content/posts/the-extendable-horizon.md": "19250e1e8750",
+      "content/posts/the-extendable-horizon.md": "a8e165ee1921",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "bcd662973452",
       "content/posts/the-fallacy-of-post-success-parenting.md": "4a09f0a9cd26",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "41631349ff7c",
@@ -250,17 +250,17 @@
       "content/posts/the-generative-contradiction.md": "181c40e6e269",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "2335c049939e",
       "content/posts/the-generative-topology-of-free-variables.md": "7a3c85d5294c",
-      "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "8824d18d3289",
+      "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
       "content/posts/the-geometry-of-emergence.md": "89925e3a76ab",
       "content/posts/the-geometry-of-mind.md": "92932a073669",
       "content/posts/the-geometry-of-success.md": "dc47507d236b",
-      "content/posts/the-geometry-of-the-cut.md": "53bbb1dae4b1",
+      "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "f7485fc0e38a",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "68e47fce620a",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
-      "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "7e1d40f4d227",
+      "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "d915809609b6",
       "content/posts/the-illusion-of-free-intelligence.md": "9568470705b9",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "87c68cdf7df5",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "744ed48a679b",
@@ -324,7 +324,7 @@
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "74769516764d",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "be4597d289a8",
-      "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "6be2f8057c8f",
+      "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "55476adc8d29",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "f0408f620e78",
       "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
       "content/posts/the-returning-signal-and-its-claim.md": "6a118ede0799",
@@ -404,13 +404,13 @@
       "content/book/causality.md": "e6ea1a3ffb75",
       "content/book/consciousness.md": "d6c92ea6f310",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "71bd5d4fc3bd",
+      "content/book/index-of-premises.md": "f02f699e9e86",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "bfaf3d63d4a0",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "226cf5ec0ee0",
       "content/book/meaning-and-transcendence.md": "5f74283b7779",
-      "content/book/method.md": "69772fccc74b",
+      "content/book/method.md": "28b8cec3611e",
       "content/book/morality.md": "25d4f858a2df",
       "content/book/physics.md": "41bdff6df599",
       "content/book/preface.md": "beeec0b1d73b",
@@ -420,21 +420,21 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5603,
-      "unique_directed": 4536,
+      "edges": 5620,
+      "unique_directed": 4539,
       "missing_targets": 0,
-      "one_way": 130,
+      "one_way": 133,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 994,
+      "book_edges": 998,
       "posts_reached_by_book": 393
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 99
+      "in_degree": 100
     },
     {
       "slug": "openness-is-consistency",
@@ -1209,7 +1209,7 @@
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学: Theories After Success, Mistaken for Theories Leading to Success",
       "hash": "5d01ae688bd0",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 18,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -2827,7 +2827,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "87b30fd0aad3",
-      "in_degree": 99,
+      "in_degree": 100,
       "out_degree": 97,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4154,7 +4154,7 @@
       "slug": "po-chu-gai-nian-de-jian-yue",
       "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
       "title": "破除概念的僭越 / Breaking the Overreach of Concepts",
-      "hash": "5870a46f914c",
+      "hash": "addbcd06bbe4",
       "in_degree": 25,
       "out_degree": 23,
       "links_out": [
@@ -5931,7 +5931,7 @@
       "slug": "the-deterministic-machine",
       "path": "content/posts/the-deterministic-machine.md",
       "title": "决定论机器 / The Deterministic Machine",
-      "hash": "d400d304213c",
+      "hash": "19a7586b9418",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -6112,10 +6112,10 @@
       "kind": "post",
       "slug": "the-extendable-horizon",
       "path": "content/posts/the-extendable-horizon.md",
-      "title": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables",
-      "hash": "19250e1e8750",
+      "title": "可延展的地平线 / The Extendable Horizon",
+      "hash": "a8e165ee1921",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 13,
       "links_out": [
         "the-arithmetic-of-the-register",
         "the-deterministic-machine",
@@ -6125,6 +6125,9 @@
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-closed-n-and-the-open-reality",
         "agency-compounding-and-the-argument-over-ai-feudalism",
+        "individual-choices-as-the-only-causal-levers",
+        "zi-you-de-ce-bu-zhun",
+        "cheng-gong-xue",
         "the-continuum-of-the-fold",
         "dimensions-are-projections"
       ]
@@ -6501,7 +6504,7 @@
       "slug": "the-geometry-of-coexistence-and-the-dual-cut",
       "path": "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md",
       "title": "共存的几何学 / The Geometry of Coexistence",
-      "hash": "8824d18d3289",
+      "hash": "15b9e01b6512",
       "in_degree": 2,
       "out_degree": 4,
       "links_out": [
@@ -6588,7 +6591,7 @@
       "slug": "the-geometry-of-the-cut",
       "path": "content/posts/the-geometry-of-the-cut.md",
       "title": "切分的几何学 / The Geometry of the Cut",
-      "hash": "53bbb1dae4b1",
+      "hash": "ae41a43f7e1a",
       "in_degree": 2,
       "out_degree": 3,
       "links_out": [
@@ -6704,7 +6707,7 @@
       "slug": "the-illusion-of-distance-and-the-dual-ruler",
       "path": "content/posts/the-illusion-of-distance-and-the-dual-ruler.md",
       "title": "距离的幻觉与尺度的双向投影 / The Illusion of Distance and the Dual Projections of the Ruler",
-      "hash": "7e1d40f4d227",
+      "hash": "d915809609b6",
       "in_degree": 2,
       "out_degree": 4,
       "links_out": [
@@ -8091,7 +8094,7 @@
       "slug": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "path": "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md",
       "title": "前台的寓言与缺席的因果倒置 / The Receptionist Parable and the Causal Inversion of Absence",
-      "hash": "6be2f8057c8f",
+      "hash": "55476adc8d29",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -9782,7 +9785,7 @@
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
       "title": "自由的测不准：微观主权、统计涌现与自由意志的佯谬",
       "hash": "5e61e170d117",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 18,
       "links_out": [
         "causality-all-the-way",
@@ -22456,7 +22459,7 @@
       "from": "po-chu-gai-nian-de-jian-yue",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "彻头彻尾的因果律"
+      "label": "因果贯穿始终"
     },
     {
       "from": "po-chu-gai-nian-de-jian-yue",
@@ -22510,7 +22513,7 @@
       "from": "po-chu-gai-nian-de-jian-yue",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "po-chu-gai-nian-de-jian-yue",
@@ -22552,7 +22555,7 @@
       "from": "po-chu-gai-nian-de-jian-yue",
       "to": "the-fallacy-of-post-success-parenting",
       "rel": "points_to",
-      "label": "成功后育儿的谬误"
+      "label": "成功之后的育儿谬误"
     },
     {
       "from": "po-chu-gai-nian-de-jian-yue",
@@ -29854,43 +29857,91 @@
       "from": "the-extendable-horizon",
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
-      "label": "the arithmetic of the register"
+      "label": "寄存器的算术"
     },
     {
       "from": "the-extendable-horizon",
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
-      "label": "ontological inflation"
+      "label": "The Arithmetic of the Register"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "寄存器的算术"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "The Arithmetic of the Register"
     },
     {
       "from": "the-extendable-horizon",
       "to": "the-deterministic-machine",
       "rel": "points_to",
-      "label": "the deterministic machine"
+      "label": "决定论机器"
     },
     {
       "from": "the-extendable-horizon",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
-      "label": "the geometry of mind"
+      "label": "心智的几何学"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "the-deterministic-machine",
+      "rel": "points_to",
+      "label": "The Deterministic Machine"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
     },
     {
       "from": "the-extendable-horizon",
       "to": "the-only-coherent-uncaused-effect",
       "rel": "points_to",
-      "label": "the only coherent uncaused effect"
+      "label": "唯一自洽的无因之果"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "The Only Coherent Uncaused Effect"
     },
     {
       "from": "the-extendable-horizon",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "the scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "the-extendable-horizon",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "闭合的N与开放的现实"
     },
     {
       "from": "the-extendable-horizon",
@@ -29902,19 +29953,73 @@
       "from": "the-extendable-horizon",
       "to": "agency-compounding-and-the-argument-over-ai-feudalism",
       "rel": "points_to",
-      "label": "the compounding dynamics of agency"
+      "label": "能动性、复利与关于 AI 封建主义的争论"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "rel": "points_to",
+      "label": "Agency, Compounding, and the Argument Over AI Feudalism"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "The Uncertainty of Freedom"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "Theories After Success, Mistaken for Theories Leading to Success"
     },
     {
       "from": "the-extendable-horizon",
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
-      "label": "the continuum of the fold"
+      "label": "折叠的连续谱"
     },
     {
       "from": "the-extendable-horizon",
       "to": "dimensions-are-projections",
       "rel": "points_to",
-      "label": "dimensions as projections"
+      "label": "维度即投影"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "The Continuum of the Fold"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "Dimensions Are Projections"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -43506,7 +43611,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "71bd5d4fc3bd",
+        "hash": "f02f699e9e86",
         "out_degree": 393
       },
       {
@@ -43560,7 +43665,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "69772fccc74b",
+        "hash": "28b8cec3611e",
         "out_degree": 26
       },
       {
@@ -44893,6 +44998,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-extendable-horizon",
+        "rel": "collects",
+        "label": "可延展的地平线 / The Extendable Horizon"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
         "rel": "collects",
         "label": "路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox"
@@ -44968,6 +45079,12 @@
         "to": "no-system-can-be-kept-closed",
         "rel": "collects",
         "label": "No System Can Be Kept Closed"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-extendable-horizon",
+        "rel": "collects",
+        "label": "可延展的地平线 / The Extendable Horizon"
       },
       {
         "from": "book:index-of-premises",
@@ -45058,6 +45175,12 @@
         "to": "closed-assumptions-squeeze-compounding-into-s-curves",
         "rel": "collects",
         "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-extendable-horizon",
+        "rel": "collects",
+        "label": "可延展的地平线 / The Extendable Horizon"
       },
       {
         "from": "book:index-of-premises",
@@ -45178,6 +45301,12 @@
         "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
         "rel": "collects",
         "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-extendable-horizon",
+        "rel": "collects",
+        "label": "可延展的地平线 / The Extendable Horizon"
       },
       {
         "from": "book:index-of-premises",
@@ -46005,7 +46134,7 @@
         "from": "book:index-of-premises",
         "to": "the-extendable-horizon",
         "rel": "collects",
-        "label": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables"
+        "label": "可延展的地平线 / The Extendable Horizon"
       },
       {
         "from": "book:index-of-premises",
@@ -48651,7 +48780,7 @@
         "from": "book:method",
         "to": "the-extendable-horizon",
         "rel": "collects",
-        "label": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables"
+        "label": "可延展的地平线 / The Extendable Horizon"
       },
       {
         "from": "book:method",

@@ -847,6 +847,15 @@ Falsification is misused either to explain away counterevidence or to refute opp
 
 → [关于归因：从事实到因果，从外部节点到内部迭代](../../posts/guan-yu-gui-yin/)
 
+### 有限游戏与无限游戏 / Finite and Infinite Games
+`哲学 / Philosophical`
+
+詹姆斯·卡斯把为赢而玩、规则既定的有限游戏，与为让游戏继续而玩、边界可以扩展的无限游戏分开；这一区分在被当成两类人的标签时到了边界，因为同一个心智在不同时刻两种都在玩，作为看清地位竞赛只是一场有限游戏的工具，它依然锋利。
+
+James Carse set finite games, played to win within fixed rules, apart from the infinite game, played to keep the play going with an extendable boundary; the distinction reaches its boundary when it is used to label two kinds of people, since the same Mind plays both at different moments, while as a tool for seeing that a status contest is only a finite game it stays sharp.
+
+→ [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
+
 ### 地平说认知悖论 / Flat Earth Epistemology
 `意识形态 / Ideological`
 
@@ -927,6 +936,15 @@ Machine learning narratives treat optimization as an intelligent agent seeking t
 Gödel proves any consistent formal system containing arithmetic cannot prove its own consistency; formal axiomatic structures cannot achieve closed, self-contained truth.
 
 → [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/)
+
+### 成长型思维 / Growth Mindset
+`成功学 / Self-Help`
+
+成长型思维主张能力可以通过努力增长，而不是固定的禀赋；它在被当成事后给走在前面的人贴的标签、用来排名他人时到了边界，因为结果里还有落在身上的东西，作为不把当前位置当成守恒封闭盒子的取向，它依然好用。
+
+The growth mindset holds that ability grows through effort rather than being a fixed endowment; it reaches its boundary when used as an after-the-fact label for those ahead and a way of ranking others, since outcomes also hold what fell to someone, while as an orientation that refuses to treat the present position as a conserved, closed box it stays useful.
+
+→ [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
 
 ### 哈耶克价格机制 / Hayekian Price Mechanism
 `经济 / Economic`
@@ -1061,7 +1079,7 @@ Multiplying approximately normal log increments yields a log-normal whose right 
 
 Economic forecasting assumes technological development must saturate along fixed S-curves; logistic ceilings reflect the limits of a fixed coordinate frame, not creative frontiers.
 
-→ [Closed Assumptions Squeeze Compounding into S-Curves](../../posts/closed-assumptions-squeeze-compounding-into-s-curves/)
+→ [Closed Assumptions Squeeze Compounding into S-Curves](../../posts/closed-assumptions-squeeze-compounding-into-s-curves/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
 
 ### 无损信息捕获的不可能性 / Lossless Information Capture
 `数学 / Mathematical`
@@ -1214,7 +1232,7 @@ The enshittification model attributes platform decline to executive greed; platf
 
 Power laws describe outcome shapes within an observation window; elevating them to laws one must obey mistakes aggregated traces for the activity, while compounding rate differences generate them.
 
-→ [幂律是结果的表象，不是生成的逻辑](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/)
+→ [幂律是结果的表象，不是生成的逻辑](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
 
 ### 人的行动学 / Praxeology
 `经济 / Economic`
@@ -2406,14 +2424,14 @@ Communicative idealism presumes disagreements stem from insufficient explanation
 
 → [Why Explanation Fails](../../posts/why-explanation-fails/)
 
-### 可延展的认知地平线 / Extendable Epistemic Horizon
-`哲学 / Philosophical`
+### 坐标决定能动性 / Coordinate Determines Agency
+`意识形态 / Ideological`
 
-唯科学主义幻想通过研究敲定对自然的终极答案；每一次解答只是推开了更宽阔的观察视界，掀开前所未见的崭新问询前沿。
+外部视角把正和的能动性划给寄存器最外缘的少数人，把其余位置判给零和的地位之争；它在把一个心智缩成公共账本上的坐标之处到了边界，因为坐标对持有者的取向什么也没说，作为描述富余怎样在公共协调中流动的宏观图景，它依然有用。
 
-Scientism expects research to arrive at a final, closed explanation of nature; each answer establishes a wider observational perimeter, opening up newly imaginable horizons of inquiry.
+The outside view assigns positive-sum agency to the few at the register's outermost edge and sentences every other position to zero-sum status contests; it reaches its boundary where a Mind is shrunk to a coordinate in the public ledger, since the coordinate says nothing about its holder's orientation, while as a macro picture of how slack flows through public coordination it stays useful.
 
-→ [The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables](../../posts/the-extendable-horizon/)
+→ [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
 
 ### 外部认同依赖 / External Validation Dependency
 `哲学 / Philosophical`

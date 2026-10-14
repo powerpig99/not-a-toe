@@ -29,7 +29,7 @@ The essays collected in this part document the emergence and development of this
 - [The Mark and the Act](../../posts/the-mark-and-the-act/)
 - [The Three Shadows of the Cut: On Forrest Landry’s Immanent Metaphysics](../../posts/the-three-shadows-of-the-cut/)
 - [The Boundary of the Frame](../../posts/the-boundary-of-the-frame/)
-- [The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables](../../posts/the-extendable-horizon/)
+- [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
 - [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 - [非万物之理 / Not a Theory of Everything](../../posts/manifesto-of-not-a-theory-of-everything/)
 - [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/)
