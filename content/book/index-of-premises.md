@@ -242,6 +242,15 @@ Schwitzgebel argued materialism implies that if functionalism holds, the United 
 
 → [集聚与人造主体性 / Collective and Artificial Subjectivity](../../posts/subtracting-consciousness-at-the-source/)
 
+### 福雷斯特·兰德里 / Forrest Landry
+`哲学 / Philosophical`
+
+兰德里以第一人称的过程为先，拒绝封闭的宇宙容器与拉普拉斯式的操控，以“爱是使选择成为可能的东西”立起伦理，这些澄清有用；把内在、全知与超越立为原初的三元基元，在此到了边界，它们是同一条移动前沿向后、居中、向前的三个视角。
+
+Landry puts first-person process first, rejects the closed cosmic container and Laplacian steering, and grounds ethics in "love is that which enables choice", clarifications of real use; raising the Immanent, the Omniscient and the Transcendent into primal triadic primitives is where it reaches its boundary, since they are three views, behind, at and ahead, of one moving edge.
+
+→ [切分的三重影子 / The Three Shadows of the Cut](../../posts/the-three-shadows-of-the-cut/)
+
 ### 弗朗索瓦·肖莱 / François Chollet
 `技术 / Technological`
 
@@ -1008,6 +1017,15 @@ The uncertainty principle bounds simultaneous precision of conjugate quantum var
 Hilbert proposed that all mathematical truths could be completely and consistently formalized; Gödel proved formal mathematics is unclosable, forever generating unprovable truths.
 
 → [Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/)
+
+### 内在形而上学 / Immanent Metaphysics
+`哲学 / Philosophical`
+
+内在形而上学以三个不可互换的模态为一切领域建模，以类与实例的循环把它们绑在一起，以不可通约定理表明对称与连续不能同时完美，这在拆解二元论与决定论时有用；把三分法则当作现实的地基，在此到了边界，循环是为了修补切分所割断的连续而造的机械。
+
+Immanent metaphysics models every domain through three non-interchangeable modalities, binds them with a cycle of class and instance, and shows through the Incommensuration Theorem that symmetry and continuity cannot both be perfect, of use in taking apart dualism and determinism; taking the law of triplication as the bedrock of reality is where it reaches its boundary, since the cycle is machinery built to mend the continuity the cut severed.
+
+→ [切分的三重影子 / The Three Shadows of the Cut](../../posts/the-three-shadows-of-the-cut/)
 
 ### 帝国崩溃演化律 / Imperial Collapse Dynamics
 `意识形态 / Ideological`
@@ -4637,15 +4655,6 @@ Social consensus models assume citizens share an identical objective experientia
 Presumes finer measurement in shared metrics yields deeper freedom; useful for technical benchmarking, it binds agency to standardized competitive tracks.
 
 → [自愿的致盲 / The Sovereign Blinding](../../posts/the-sovereign-blinding/)
-
-### 切分投下的三重阴影 / The Three Shadows of the Cut
-`哲学 / Philosophical`
-
-客观主义认识论常遗忘测量本身是一次介入；任何划分在凸显前景目标的同时，必同时生成背景盲区与隐蔽的划界者。
-
-Objectivist epistemology forgets the act of measurement; drawing any formal distinction generates three inseparable terms: the focal figure, the neglected ground, and the unexamined cut-maker.
-
-→ [The Three Shadows of the Cut: On Forrest Landry’s Immanent Metaphysics](../../posts/the-three-shadows-of-the-cut/)
 
 ### 抉择作为唯一的自发因 / The Uncaused Cause of Choice
 `哲学 / Philosophical`

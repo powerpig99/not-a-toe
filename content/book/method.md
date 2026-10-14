@@ -27,7 +27,7 @@ The essays collected in this part document the emergence and development of this
 - [Only If It Is Not Kept Empty](../../posts/only-if-it-is-not-kept-empty/)
 - [The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/)
 - [The Mark and the Act](../../posts/the-mark-and-the-act/)
-- [The Three Shadows of the Cut: On Forrest Landry’s Immanent Metaphysics](../../posts/the-three-shadows-of-the-cut/)
+- [切分的三重影子 / The Three Shadows of the Cut](../../posts/the-three-shadows-of-the-cut/)
 - [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/)
 - [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
 - [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)

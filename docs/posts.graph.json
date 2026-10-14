@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T20:22:44.341Z",
+    "generated_at": "2026-10-14T20:25:37.751Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -350,7 +350,7 @@
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "466ba4f09356",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "ad2f484fe9b0",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
-      "content/posts/the-three-shadows-of-the-cut.md": "934b07423dd5",
+      "content/posts/the-three-shadows-of-the-cut.md": "7c447eb8391e",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "1a3388db8649",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "132e275da6fc",
@@ -404,13 +404,13 @@
       "content/book/causality.md": "09f9d79b986f",
       "content/book/consciousness.md": "b6e19af51e3b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "65d2b16e3bce",
+      "content/book/index-of-premises.md": "d1eda58b768c",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6a133aa0ce87",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "ac31dc919f28",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
-      "content/book/method.md": "9ff7417f4c8f",
+      "content/book/method.md": "9a18c1b149e6",
       "content/book/morality.md": "25d4f858a2df",
       "content/book/physics.md": "bc168c60eb56",
       "content/book/preface.md": "beeec0b1d73b",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5774,
+      "edges": 5778,
       "unique_directed": 4547,
       "missing_targets": 0,
       "one_way": 137,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1024,
+      "book_edges": 1025,
       "posts_reached_by_book": 393
     }
   },
@@ -8736,8 +8736,8 @@
       "kind": "post",
       "slug": "the-three-shadows-of-the-cut",
       "path": "content/posts/the-three-shadows-of-the-cut.md",
-      "title": "The Three Shadows of the Cut: On Forrest Landry’s Immanent Metaphysics",
-      "hash": "934b07423dd5",
+      "title": "切分的三重影子 / The Three Shadows of the Cut",
+      "hash": "7c447eb8391e",
       "in_degree": 4,
       "out_degree": 4,
       "links_out": [
@@ -40305,13 +40305,37 @@
       "from": "the-three-shadows-of-the-cut",
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "the-three-shadows-of-the-cut",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
       "label": "The Boundary of the Frame"
     },
     {
       "from": "the-three-shadows-of-the-cut",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-three-shadows-of-the-cut",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-three-shadows-of-the-cut",
+      "to": "the-other-coherence",
+      "rel": "points_to",
+      "label": "另一种相干"
+    },
+    {
+      "from": "the-three-shadows-of-the-cut",
+      "to": "the-geometry-of-emergence",
+      "rel": "points_to",
+      "label": "涌现的几何学"
     },
     {
       "from": "the-three-shadows-of-the-cut",
@@ -44543,7 +44567,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "65d2b16e3bce",
+        "hash": "d1eda58b768c",
         "out_degree": 393
       },
       {
@@ -44597,7 +44621,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "9ff7417f4c8f",
+        "hash": "9a18c1b149e6",
         "out_degree": 26
       },
       {
@@ -45450,6 +45474,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-three-shadows-of-the-cut",
+        "rel": "collects",
+        "label": "切分的三重影子 / The Three Shadows of the Cut"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "chollet-intelligence-explosion-analysis",
         "rel": "collects",
         "label": "The Shadow Mistaken for the Object: Chollet's Intelligence Explosion Argument"
@@ -46095,6 +46125,12 @@
         "to": "why-mathematics-can-never-be-solved",
         "rel": "collects",
         "label": "Why Mathematics Can Never Be Solved"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-three-shadows-of-the-cut",
+        "rel": "collects",
+        "label": "切分的三重影子 / The Three Shadows of the Cut"
       },
       {
         "from": "book:index-of-premises",
@@ -48684,12 +48720,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-three-shadows-of-the-cut",
-        "rel": "collects",
-        "label": "The Three Shadows of the Cut: On Forrest Landry’s Immanent Metaphysics"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-only-coherent-uncaused-effect",
         "rel": "collects",
         "label": "唯一自洽的无因之果 / The Only Coherent Uncaused Effect"
@@ -49856,7 +49886,7 @@
         "from": "book:method",
         "to": "the-three-shadows-of-the-cut",
         "rel": "collects",
-        "label": "The Three Shadows of the Cut: On Forrest Landry’s Immanent Metaphysics"
+        "label": "切分的三重影子 / The Three Shadows of the Cut"
       },
       {
         "from": "book:method",
