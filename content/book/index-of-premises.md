@@ -2328,11 +2328,11 @@ Presumes interpersonal competition occurs in a fixed shared space; useful for si
 ### 认知维度的离散折射 / Dimensional Reduction in Cognition
 `数学 / Mathematical`
 
-语言还原论假定离散词汇能穷尽完整的感知体验；语词实则是把高维连续的现实世界，投影到了稀疏扁平的符号阴影上。
+为了覆盖最多的人，把多维的现实压成低门槛的口号、结论与捷径，在分发的效率上有用；它在此到了边界：被压平的信息承载不了因果的复杂度，迎合平均带宽让知识平台、公司与创作者把作为结果的规模当成原因，滑向均值，而不压缩的高维表达让每个人在自己的位置上各取所需。
 
-Linguistic reductionism presumes discrete vocabulary words capture full perceptual reality; language projects high-dimensional continuous reality onto sparse categorical shadows.
+Compressing many-dimensional reality into low-threshold slogans, conclusions and shortcuts in order to reach the most people is of use for efficient distribution; it reaches its boundary in that flattened information cannot carry causal complexity, and catering to average bandwidth leads knowledge platforms, companies and creators to take scale, a result, for the cause and slide toward the mean, while uncompressed high-dimensional expression lets each take what fits from their own position.
 
-→ [高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜](../../posts/gao-wei-xin-xi-de-li-san-zhe-she/)
+→ [高维信息的离散折射与认知分层 / The Discrete Refraction of High-Dimensional Information](../../posts/gao-wei-xin-xi-de-li-san-zhe-she/)
 
 ### 维度作为坐标投影 / Dimensions as Coordinate Projections
 `科学 / Scientific`

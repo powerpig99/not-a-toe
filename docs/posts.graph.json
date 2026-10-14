@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:26:46.823Z",
+    "generated_at": "2026-10-14T21:28:50.911Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -85,7 +85,7 @@
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "df8f3a8fb563",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "71812a697b3f",
-      "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "5fe10db25c4f",
+      "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "c81f2c71d076",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "a1b926b30911",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "f0c515ee862c",
@@ -404,11 +404,11 @@
       "content/book/causality.md": "d5d366935d23",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "6981446aec26",
-      "content/book/index-of-premises.md": "6e223eccb40f",
+      "content/book/index-of-premises.md": "36a2dfa6af04",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "3df71b75d2b0",
       "content/book/life-and-statistics.md": "57d582e7bf12",
-      "content/book/mathematics.md": "baeb813686dd",
+      "content/book/mathematics.md": "d68e7f2f0b5a",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "9a18c1b149e6",
       "content/book/morality.md": "25d4f858a2df",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5894,
+      "edges": 5901,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -2434,8 +2434,8 @@
       "kind": "post",
       "slug": "gao-wei-xin-xi-de-li-san-zhe-she",
       "path": "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md",
-      "title": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜",
-      "hash": "5fe10db25c4f",
+      "title": "高维信息的离散折射与认知分层 / The Discrete Refraction of High-Dimensional Information",
+      "hash": "0ea3bc80574b",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -16600,19 +16600,31 @@
       "from": "gao-wei-xin-xi-de-li-san-zhe-she",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "真正的有效信息"
+      "label": "信息是什么"
     },
     {
       "from": "gao-wei-xin-xi-de-li-san-zhe-she",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "自由变量的同构与先验主权：量子、比特与微观选择"
+      "label": "自由变量的同构与先验主权"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "The Isomorphism of Free Variables and Prior Sovereignty"
     },
     {
       "from": "gao-wei-xin-xi-de-li-san-zhe-she",
       "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "rel": "points_to",
-      "label": "错置的因果与心智编译器：工具的伪纯粹、隐性残障与迭代复利法则"
+      "label": "错置的因果与心智编译器"
     },
     {
       "from": "gao-wei-xin-xi-de-li-san-zhe-she",
@@ -16624,7 +16636,25 @@
       "from": "gao-wei-xin-xi-de-li-san-zhe-she",
       "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "rel": "points_to",
-      "label": "路口的转向与地平说的行动悖论：从阿甘到第一人称因果引擎"
+      "label": "路口的转向与地平说的行动悖论"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "Misplaced Causality and the Mind's Compiler"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "rel": "points_to",
+      "label": "The Ladder of Projections and the Anchor of Causality"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "rel": "points_to",
+      "label": "Turning at the Crossroad and the Flat-Earth Action Paradox"
     },
     {
       "from": "gao-wei-xin-xi-de-li-san-zhe-she",
@@ -16637,6 +16667,18 @@
       "to": "the-geometry-of-success",
       "rel": "points_to",
       "label": "成功的几何学"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "Trusting the Reader Is the Last Overstep"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The Geometry of Success"
     },
     {
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
@@ -45264,7 +45306,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "6e223eccb40f",
+        "hash": "36a2dfa6af04",
         "out_degree": 393
       },
       {
@@ -45300,7 +45342,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "baeb813686dd",
+        "hash": "d68e7f2f0b5a",
         "out_degree": 20
       },
       {
@@ -47865,7 +47907,7 @@
         "from": "book:index-of-premises",
         "to": "gao-wei-xin-xi-de-li-san-zhe-she",
         "rel": "collects",
-        "label": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜"
+        "label": "高维信息的离散折射与认知分层 / The Discrete Refraction of High-Dimensional Information"
       },
       {
         "from": "book:index-of-premises",
@@ -50445,7 +50487,7 @@
         "from": "book:mathematics",
         "to": "gao-wei-xin-xi-de-li-san-zhe-she",
         "rel": "collects",
-        "label": "高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜"
+        "label": "高维信息的离散折射与认知分层 / The Discrete Refraction of High-Dimensional Information"
       },
       {
         "from": "book:mathematics",
