@@ -168,7 +168,7 @@ Amodei's ten-fold acceleration holds for a known disease list; treating the open
 
 Chalmers split consciousness into easy computational problems and the hard subjective problem; brilliant for challenging materialist hubris, it risks hypostatizing the gap into dualism.
 
-→ [The Hard Problem of Consciousness Is Consistent with Our Ability to Learn](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/)
+→ [The Hard Problem of Consciousness Is Consistent with Our Ability to Learn](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
 ### 大卫·希尔伯特 / David Hilbert
 `数学 / Mathematical`
@@ -269,6 +269,15 @@ Lichtman frames scientific discovery and engineering resilience through extreme-
 
 → [闭合的N与开放的现实 / The Closed N and the Open Reality](../../posts/the-closed-n-and-the-open-reality/)
 
+### 吉尔伯特·赖尔 / Gilbert Ryle
+`哲学 / Philosophical`
+
+赖尔把心归入可从外部观察的行为倾向，借此驱逐“机器中的幽灵”；它在做出这番观察的那个位置上到了边界，因为阅读行为痕迹的读者本身不在描述之中，作为揭穿把心当成额外齿轮的范畴错误的工具，它依然锋利。
+
+Ryle placed mind in dispositions to behave observable from outside, to exorcise "the ghost in the machine"; it reaches its boundary at the position doing the observing, since the reader of behavioural traces is not in the description, while as a tool for exposing the category mistake of treating mind as an extra cog it stays sharp.
+
+→ [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
+
 ### 吉尔·德勒兹 / Gilles Deleuze
 `哲学 / Philosophical`
 
@@ -304,6 +313,15 @@ Rousseau's chains compare current configuration with a freedom unbound by traces
 Sartre presumes sovereign choice precedes all predetermined designations and possesses unconditioned agency, diagnosing bad faith as agency fleeing responsibility by mimicking passive objects; this premise becomes incomplete without structural constraints to provide the differential substrate for action, while remaining profoundly useful for dissecting how minds exercise sovereignty to manufacture the illusion of their own helplessness.
 
 → [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/)
+
+### 杰里·福多 / Jerry Fodor
+`哲学 / Philosophical`
+
+福多把思维当作对思想语言中符号的句法运算，并想用符号与世界的因果关系从第三人称固定意义；它在需要那个对意义在乎的使用者之处到了边界，作为说明心理状态多重可实现、可独立于底层研究的工具，它依然有用。
+
+Fodor took thinking as syntactic operations on symbols in a language of thought and sought to fix meaning from the third person through causal relations between symbol and world; it reaches its boundary where meaning needs the user to whom it matters, while as a tool for showing that mental states are multiply realizable and can be studied apart from the substrate it stays useful.
+
+→ [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
 ### 约翰·梅纳德·凯恩斯 / John Maynard Keynes
 `经济 / Economic`
@@ -458,6 +476,15 @@ Chamfort captures the asymmetry that happiness cannot be found externally and re
 
 → [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
 
+### 保罗·丘奇兰德 / Paul Churchland
+`哲学 / Philosophical`
+
+丘奇兰德的取消式唯物主义认为常识心理学是一套不完善的理论，其所指的第一人称现象会随神经科学成熟而被取消；它在用第一人称的理智去否认第一人称的理智之处到了边界，作为让神经科学不必迁就日常用语切分大脑的提醒，它依然有用。
+
+Churchland's eliminative materialism holds folk psychology to be an imperfect theory whose first-person referents will be eliminated as neuroscience matures; it reaches its boundary where the first-person intellect is used to deny the first-person intellect, while as a reminder that neuroscience need not carve the brain to fit everyday speech it stays useful.
+
+→ [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
+
 ### 皮埃尔-西蒙·拉普拉斯 / Pierre-Simon Laplace
 `科学 / Scientific`
 
@@ -501,7 +528,7 @@ Kurzweil posits exponential law as history's primary driver; useful for tracking
 
 Descartes grounded epistemological certainty in first-person cogito while separating mind from extension; foundational for modern science, his split led to mechanistic reductions of mind.
 
-→ [笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation](../../posts/the-cartesian-overstep-and-the-frenzy-of-creation/)
+→ [笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation](../../posts/the-cartesian-overstep-and-the-frenzy-of-creation/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
 ### 理查德·道金斯 / Richard Dawkins
 `科学 / Scientific`
@@ -854,7 +881,7 @@ Egalitarian dogma treats all organizational hierarchies as predatory impositions
 
 Functionalism defines mental states by causal role on the premise that the describer can stand outside the mind described; the premise fails once the theory is extended to the mind holding it, since both serious endorsement and the reduction of subjectivity must occupy the observer position it erases, while as a tool for describing multiply realizable information processing and guiding system design it remains sharp and useful.
 
-→ [无人能持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/)
+→ [无人能持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
 ### AGI功能主义理论 / Functionalist Theory of AGI
 `技术 / Technological`
@@ -4551,11 +4578,11 @@ Infinite causal regress presumes every human act is caused by a prior physical d
 ### 不可闭合的观察痕迹 / The Unclosable Observational Trace
 `哲学 / Philosophical`
 
-构建宏大体系者以为本体论能把包含其自身在内的万物一网打尽；划定任何边界，都不可避免地把划定边界的作者置于画框之外。
+构建体系者以为一份本体论能把包括它自身在内的一切编目完毕；每一次书写都添上理论与持有它的理论家这件新事实，清单在划线者的位置上到了边界，作为照亮局部结构的临时边界，本体论依然好用。
 
-System-builders believe an ontology can describe the universe including the ontology itself; drawing a systemic boundary always leaves the observing author outside the formalized frame.
+System-builders hold that an ontology can catalogue everything, itself included; each writing adds the new fact of the theory and the theorist holding it, so the list reaches its boundary at the position of the one drawing the lines, while as a temporary boundary that lights up local structure an ontology stays useful.
 
-→ [The Unclosable Trace: Why Philosophy Cannot Be Inherited](../../posts/the-unclosable-trace/)
+→ [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
 ### 无处之境的上帝之眼 / The View from Nowhere
 `哲学 / Philosophical`

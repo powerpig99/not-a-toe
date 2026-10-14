@@ -30,7 +30,7 @@ The essays collected in this part document the emergence and development of this
 - [The Three Shadows of the Cut: On Forrest Landry’s Immanent Metaphysics](../../posts/the-three-shadows-of-the-cut/)
 - [The Boundary of the Frame](../../posts/the-boundary-of-the-frame/)
 - [The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables](../../posts/the-extendable-horizon/)
-- [The Unclosable Trace: Why Philosophy Cannot Be Inherited](../../posts/the-unclosable-trace/)
+- [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 - [非万物之理 / Not a Theory of Everything](../../posts/manifesto-of-not-a-theory-of-everything/)
 - [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/)
 - [切分的几何学 / The Geometry of the Cut](../../posts/the-geometry-of-the-cut/)
