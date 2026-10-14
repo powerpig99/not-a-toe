@@ -3714,11 +3714,11 @@ Sentimental culture equates love with dependency and mutual helplessness; authen
 ### 富足育儿的成因错位 / Post-Success Parenting Fallacy
 `成功学 / Self-Help`
 
-富足家庭以为给子女提供温室庇护就能复刻阶层跃迁；过度保护恰恰抽离了当年逼迫父母走向自立所必需的磨砺。
+模仿成功者成功之后的育儿方式，以为隔离、定制与复制自己的路能再造能力，在提供安全与稳定时有用；它在此到了边界：那是累积盈余的消费，不是当初生成能力的过程，后见的公式遮住了摩擦中的微观决定，被缓冲的孩子缺少误差信号，起点越高，越可能落进依赖的陷阱。
 
-Wealthy parents assume shielding children from hardship reproduces success; shelter removes the very friction, scarcity, and responsibility that forged the parents' own agency.
+Imitating how the successful raise children after their success, believing insulation, bespoke arrangement and a cloned path will reproduce capability, is of use in providing safety and stability; it reaches its boundary in that this is consumption of accumulated surplus, not the process that first generated capability, hindsight formulas hide the micro-decisions made under friction, and a buffered child lacks error signals, so a higher start can lead the more readily into a reliance trap.
 
-→ [The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle](../../posts/the-fallacy-of-post-success-parenting/)
+→ [成功之后的育儿谬误 / The Fallacy of Post-Success Parenting](../../posts/the-fallacy-of-post-success-parenting/)
 
 ### 后训练强化学习作为独立维度 / Post-Training Reinforcement Learning as Independent Axis
 `技术 / Technological`

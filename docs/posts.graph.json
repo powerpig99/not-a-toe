@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:15:28.143Z",
+    "generated_at": "2026-10-14T21:17:56.859Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -235,7 +235,7 @@
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "09a58e05b701",
       "content/posts/the-extendable-horizon.md": "a8e165ee1921",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "bcd662973452",
-      "content/posts/the-fallacy-of-post-success-parenting.md": "4a09f0a9cd26",
+      "content/posts/the-fallacy-of-post-success-parenting.md": "49cdad0d1952",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "41631349ff7c",
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "e8672622b459",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "d5d366935d23",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "6981446aec26",
-      "content/book/index-of-premises.md": "b1425fd917d7",
+      "content/book/index-of-premises.md": "22ca8599774c",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6a133aa0ce87",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -415,12 +415,12 @@
       "content/book/physics.md": "bc168c60eb56",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "292729b9501d",
-      "content/book/success-and-the-self.md": "d2e99409685f",
+      "content/book/success-and-the-self.md": "f9ade7121b29",
       "content/book/tools-and-progress.md": "ecdce6e731a7"
     },
     "stats": {
       "posts": 393,
-      "edges": 5834,
+      "edges": 5846,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -6165,8 +6165,8 @@
       "kind": "post",
       "slug": "the-fallacy-of-post-success-parenting",
       "path": "content/posts/the-fallacy-of-post-success-parenting.md",
-      "title": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle",
-      "hash": "4a09f0a9cd26",
+      "title": "成功之后的育儿谬误 / The Fallacy of Post-Success Parenting",
+      "hash": "49cdad0d1952",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
@@ -30742,13 +30742,31 @@
       "from": "the-fallacy-of-post-success-parenting",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
-      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+      "label": "宏观现象的生成图谱"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
       "to": "the-geometry-of-success",
       "rel": "points_to",
-      "label": "The geometry of success"
+      "label": "成功的几何学"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The Geometry of Success"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
@@ -30760,31 +30778,73 @@
       "from": "the-fallacy-of-post-success-parenting",
       "to": "guidance-is-not-ownership",
       "rel": "points_to",
-      "label": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control"
+      "label": "引导不是占有"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "Guidance Is Not Ownership"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
       "to": "on-education",
       "rel": "points_to",
-      "label": "On education"
+      "label": "论教育、共振与给人真东西"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "Emotional support as causal interference"
+      "label": "情感支持作为因果干扰"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "on-education",
+      "rel": "points_to",
+      "label": "On Education, Resonance, and Giving Someone the Real Thing"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional Support as Causal Interference"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity first, compounded capability downstream"
+      "label": "好奇先行"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity First"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因：个人进步的障碍"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
@@ -30802,13 +30862,25 @@
       "from": "the-fallacy-of-post-success-parenting",
       "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
       "rel": "points_to",
+      "label": "约束的样子不是自由的失去"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "rel": "points_to",
       "label": "The Look of Constraint Is Not the Loss of Freedom"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "Overcoming the Usurpation of Concepts"
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Breaking the Overreach of Concepts"
     },
     {
       "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
@@ -44904,7 +44976,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b1425fd917d7",
+        "hash": "22ca8599774c",
         "out_degree": 393
       },
       {
@@ -45003,7 +45075,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "d2e99409685f",
+        "hash": "f9ade7121b29",
         "out_degree": 33
       },
       {
@@ -48453,7 +48525,7 @@
         "from": "book:index-of-premises",
         "to": "the-fallacy-of-post-success-parenting",
         "rel": "collects",
-        "label": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle"
+        "label": "成功之后的育儿谬误 / The Fallacy of Post-Success Parenting"
       },
       {
         "from": "book:index-of-premises",
@@ -50985,7 +51057,7 @@
         "from": "book:success-and-the-self",
         "to": "the-fallacy-of-post-success-parenting",
         "rel": "collects",
-        "label": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle"
+        "label": "成功之后的育儿谬误 / The Fallacy of Post-Success Parenting"
       },
       {
         "from": "book:success-and-the-self",

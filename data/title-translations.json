@@ -117,10 +117,6 @@
       "title_zh": "稳定与溢出",
       "subtitle_zh": "意识既非封闭盒中的幻觉，也非超然的旁观者，而是必须同时守住一种形式又溢出它的开放过程。"
     },
-    "the-fallacy-of-post-success-parenting": {
-      "title_zh": "成功之后的育儿谬误",
-      "subtitle_zh": "能力只在摩擦与约束下的微观抉择中锻成；把积累的盈余当成公式去复制路径，便抹去了孩子生成性的挣扎。"
-    },
     "the-fixed-image-of-transcendence": {
       "title_zh": "超验的定相",
       "subtitle_zh": "人类智能是所知一切智能的源头，既不可被自身造物所超越，又在每一瞬间超越自身。"
@@ -441,6 +437,17 @@
     "production-consumption-and-the-minds-distinction": {
       "title_zh": "生产、消费与心智的区分",
       "subtitle_zh": "生产与消费不是两种行为，它们是同一个活动在心智把边界当作敞开或固定时登记出的样子。"
+    },
+    "emotional-support-as-causal-interference": {
+      "title_zh": "情感支持作为因果干扰",
+      "subtitle_zh": "情感支持针对的是感到的状态，而不是产生它的条件；管理了结果，就削弱了本会重组那些条件的压力。"
+    },
+    "on-education": {
+      "title_zh": "论教育、共振与给人真东西"
+    },
+    "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai": {
+      "title_en": "External Attribution: The Obstacle to Personal Growth",
+      "subtitle_en": "The handle for action exists only inside; once a gap is attributed to something outside oneself, it loses the chance of being changed by oneself."
     }
   }
 }

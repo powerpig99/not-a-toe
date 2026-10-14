@@ -36,7 +36,7 @@ These essays examine victimhood paralysis, shortcut delusions, and cognitive inv
 - [有条件的自由](../../posts/you-tiao-jian-de-zi-you/)
 - [自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)
 - [The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the "Rigged Game"](../../posts/the-geometry-of-success/)
-- [The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle](../../posts/the-fallacy-of-post-success-parenting/)
+- [成功之后的育儿谬误 / The Fallacy of Post-Success Parenting](../../posts/the-fallacy-of-post-success-parenting/)
 - [自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../../posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/)
 - [抉择本身并不沉重 / Choice Itself Has No Inherent Weight](../../posts/choice-itself-has-no-inherent-weight/)
 - [契约的因果倒置 / The Causal Inversion of Partnership](../../posts/the-causal-inversion-of-partnership/)
