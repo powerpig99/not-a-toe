@@ -11,7 +11,7 @@ Philosophy:
 
 Checks:
   1. Title and subtitle separation (clean `# Title` without compound delimiters, single-sentence `*Subtitle*` on Line 3, narrative lead on Line 5+)
-  2. Prose over lists (flags lists outside mermaid; reminder to write continuous prose unless necessary)
+  2. Prose over lists by default (flags lists outside mermaid as an advisory, not a failure)
   3. Historical Mermaid inline dark-theme styling (#161b22, #0d1117, semantic color borders)
   4. Bilingual diagram parallelism (Chinese/English paired diagrams)
   5. Relative internal cross-links resolution (all ../slug/ exist; no absolute URLs)
@@ -290,7 +290,7 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 list_lines.append((idx, line.strip()))
 
     if list_lines:
-        msg = f"List syntax detected outside Mermaid ({len(list_lines)} lines). Rule: unless strictly necessary, do not use lists in essay prose."
+        msg = f"List syntax detected outside Mermaid ({len(list_lines)} lines). Advisory: prose is the default; keep a list only where its structure carries meaning prose would blur."
         if allow_lists:
             warnings.append(f"{msg} [ALLOWED via --allow-lists]")
         else:
