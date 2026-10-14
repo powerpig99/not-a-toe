@@ -93,10 +93,6 @@
       "title_zh": "超验的定相",
       "subtitle_zh": "人类智能是所知一切智能的源头，既不可被自身造物所超越，又在每一瞬间超越自身。"
     },
-    "the-mark-and-the-act": {
-      "title_zh": "印迹与行动",
-      "subtitle_zh": "数百个语言模型智能体的实验表明，残余不是第二个心智，涌现只是遗留印迹中的图案。"
-    },
     "the-meaning-of-life-is-in-the-drafting": {
       "title_zh": "生命的意义在起草之中",
       "subtitle_zh": "意义生成于对原因的现场起草，而不是从硬化的结果中找回；目光向外而不回到纸面，意义便会变薄。"
@@ -424,6 +420,10 @@
     "the-closed-loop-of-representation": {
       "title_zh": "表征的闭环",
       "subtitle_zh": "叔本华的不读之术显示，感知与误解都在各自私有的模型之内运作；共享的现实是功能上的共振，而不是直接的通达。"
+    },
+    "when-observation-becomes-performance": {
+      "title_zh": "当观察变成表演",
+      "subtitle_zh": "一个关于别人的观察，只有作为第一人称的参照时才有力量；它一把自己包装成可携带的美德，就失去了这份力量。"
     }
   }
 }

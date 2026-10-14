@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:39:08.985Z",
+    "generated_at": "2026-10-14T21:46:58.949Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -87,7 +87,7 @@
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "71812a697b3f",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "c81f2c71d076",
-      "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "dd2c6b4a55e6",
+      "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "90bc3f766d03",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "f0c515ee862c",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "efe569660ce6",
@@ -246,7 +246,7 @@
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "f90a8819ab4e",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "591395049b84",
-      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "16cd944ce5ec",
+      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "99601f73e350",
       "content/posts/the-generative-contradiction.md": "181c40e6e269",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
       "content/posts/the-generative-topology-of-free-variables.md": "bd4117e215d3",
@@ -289,7 +289,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-map-after-the-territory.md": "6fd00c209991",
-      "content/posts/the-mark-and-the-act.md": "f0e48a6f837a",
+      "content/posts/the-mark-and-the-act.md": "1291c7f118cc",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "3614e0bd6767",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "e5dfc5fb16e4",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "0cf2b1a6b032",
@@ -404,13 +404,13 @@
       "content/book/causality.md": "6cc7c36374ce",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "6981446aec26",
-      "content/book/index-of-premises.md": "983978d9b025",
+      "content/book/index-of-premises.md": "ceb75f579a3a",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "242fc0e02bd2",
       "content/book/life-and-statistics.md": "57d582e7bf12",
       "content/book/mathematics.md": "d68e7f2f0b5a",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
-      "content/book/method.md": "9a18c1b149e6",
+      "content/book/method.md": "d52dd5b06929",
       "content/book/morality.md": "25d4f858a2df",
       "content/book/physics.md": "4dc78b4befa1",
       "content/book/preface.md": "beeec0b1d73b",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5953,
+      "edges": 5968,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -2474,7 +2474,7 @@
       "slug": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "path": "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md",
       "title": "格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity",
-      "hash": "dd2c6b4a55e6",
+      "hash": "90bc3f766d03",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -6416,7 +6416,7 @@
       "slug": "the-generative-atlas-of-macroscopic-phenomena",
       "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
       "title": "宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena",
-      "hash": "16cd944ce5ec",
+      "hash": "99601f73e350",
       "in_degree": 18,
       "out_degree": 18,
       "links_out": [
@@ -7246,8 +7246,8 @@
       "kind": "post",
       "slug": "the-mark-and-the-act",
       "path": "content/posts/the-mark-and-the-act.md",
-      "title": "The Mark and the Act",
-      "hash": "f0e48a6f837a",
+      "title": "印迹与行动 / The Mark and the Act",
+      "hash": "1291c7f118cc",
       "in_degree": 15,
       "out_degree": 15,
       "links_out": [
@@ -35194,25 +35194,55 @@
       "from": "the-mark-and-the-act",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
+      "label": "复杂性遮蔽了涌现"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
       "label": "Complexity Obscures: Emergence as the Act of Mind"
     },
     {
       "from": "the-mark-and-the-act",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "the-mark-and-the-act",
       "to": "the-closed-loop-of-representation",
       "rel": "points_to",
-      "label": "The closed loop of representation"
+      "label": "表征的闭环"
     },
     {
       "from": "the-mark-and-the-act",
       "to": "the-geometry-of-success",
       "rel": "points_to",
-      "label": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\""
+      "label": "成功的几何学"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The Geometry of Success"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准"
     },
     {
       "from": "the-mark-and-the-act",
@@ -35224,37 +35254,85 @@
       "from": "the-mark-and-the-act",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "When observation becomes performance"
+      "label": "当观察变成表演"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
     },
     {
       "from": "the-mark-and-the-act",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
-      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+      "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena"
     },
     {
       "from": "the-mark-and-the-act",
       "to": "rationality-never-travels-across-the-mind",
       "rel": "points_to",
-      "label": "Rationality never travels across the Mind"
+      "label": "理性从不跨越心智"
     },
     {
       "from": "the-mark-and-the-act",
       "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "rel": "points_to",
-      "label": "Stopping at Judgment: The Stray Path of Cognition"
+      "label": "止步于评判，是认知的歧途"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "Rationality Never Travels Across the Mind"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "Stopping at Judgment Is a Wrong Turn of Cognition"
     },
     {
       "from": "the-mark-and-the-act",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "What information is"
+      "label": "信息是什么"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
     },
     {
       "from": "the-mark-and-the-act",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "rel": "points_to",
+      "label": "选择看见而非搜寻影子"
     },
     {
       "from": "the-mark-and-the-act",
@@ -35272,7 +35350,19 @@
       "from": "the-mark-and-the-act",
       "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "rel": "points_to",
-      "label": "The Turn at the Crossroads and the Flat Earther's Paradox of Action"
+      "label": "路口的转向与地平说的行动悖论"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "rel": "points_to",
+      "label": "Turning at the Crossroad and the Flat-Earth Action Paradox"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "rel": "points_to",
+      "label": "格物致知与信息复杂度"
     },
     {
       "from": "the-mark-and-the-act",
@@ -45618,7 +45708,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "983978d9b025",
+        "hash": "ceb75f579a3a",
         "out_degree": 393
       },
       {
@@ -45672,7 +45762,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "9a18c1b149e6",
+        "hash": "d52dd5b06929",
         "out_degree": 26
       },
       {
@@ -48861,7 +48951,7 @@
         "from": "book:index-of-premises",
         "to": "the-mark-and-the-act",
         "rel": "collects",
-        "label": "The Mark and the Act"
+        "label": "印迹与行动 / The Mark and the Act"
       },
       {
         "from": "book:index-of-premises",
@@ -51063,7 +51153,7 @@
         "from": "book:method",
         "to": "the-mark-and-the-act",
         "rel": "collects",
-        "label": "The Mark and the Act"
+        "label": "印迹与行动 / The Mark and the Act"
       },
       {
         "from": "book:method",

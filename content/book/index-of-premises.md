@@ -3246,11 +3246,11 @@ Life-hack culture assumes scheduling blank time automatically produces serendipi
 ### 刻痕与当下判别的区分 / Mark vs Discernment Act
 `哲学 / Philosophical`
 
-符号学常以为留下的字迹本身自带内在含义；文字刻痕只是静态的物质残留，唯有在活生生心智辨识它的当下，意义才成立。
+把智能体群体留下的工具、机器与分工读成一个社会、一个涌现出的第二智能，在描述痕迹的图案时有用；它在此到了边界：痕迹是许多次发出写在场里的印迹，不是第二个行动者，模型的一步是给定参数之内的采样，人的一步是先前记录画不出的边界，把总体当作原因，是后来的心智在选择持有多宽的参照。
 
-Semiotics treats recorded inscriptions as containing intrinsic semantic meaning; marks are static material residue, while meaning exists only in the active discernment of a living observer.
+Reading the tools, machines and division of labour left by a swarm of agents as a society or an emergent second intelligence is of use in describing the pattern of the residue; it reaches its boundary in that residue is marks many emissions wrote into a field, not a second actor, the model's step being a sample inside given parameters and the human step a bound the prior record does not draw, and taking the aggregate for the cause is a later Mind choosing how wide a reference to hold.
 
-→ [The Mark and the Act](../../posts/the-mark-and-the-act/)
+→ [印迹与行动 / The Mark and the Act](../../posts/the-mark-and-the-act/)
 
 ### 人生总图规划论 / Master Life Blueprint
 `哲学 / Philosophical`
