@@ -25,10 +25,6 @@
       "title_en": "The Boundary of Reality",
       "subtitle_en": "The boundary of reality is the edge of present awareness, and the boundary of language is lagging understanding; causality and logic are the self-evident premise of distinction, traceable but never exhausted."
     },
-    "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang": {
-      "title_en": "Knowing That You Don't Know Is a Rhetorical Illusion",
-      "subtitle_en": "Presuming the unknown to be a closed disc that can be outlined outsources, through elevated rhetoric, the work of actually touching the boundary."
-    },
     "evil-as-the-minds-own-creation": {
       "title_zh": "恶是心智自己的造物",
       "subtitle_zh": "当一个中心守着自己是善的偏好图像，与图像的错位便被命名为恶，而命名本身就是那个生成的行动。"
@@ -404,6 +400,10 @@
     "the-scaffolding-that-keeps-growing": {
       "title_zh": "持续生长的脚手架",
       "subtitle_zh": "敞开不是从一个完成的框里退后一步找回来的，它是让每一个框都保持未完成的那个条件。"
+    },
+    "token-efficiency-emulation-and-the-unclosable-gap": {
+      "title_zh": "Token 效率、模拟与无法弥合的间隙",
+      "subtitle_zh": "模型可以被训练去压缩推理，却无法发起让压缩成为内生的那份利害；效率本身是成功的低效推理的结果，而不是跳过它的许可。"
     }
   }
 }

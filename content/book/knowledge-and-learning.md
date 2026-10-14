@@ -31,7 +31,7 @@ These essays examine academic credentialism, the true advisory scope of expertis
 - [Studying the Effect of AI Relocates Causality](../../posts/studying-the-effect-of-ai-relocates-causality/)
 - [学习中不可观测的驱动力 / The Unobservable Driver of Learning](../../posts/the-unobservable-driver-of-learning/)
 - [Curiosity Has No Final Form](../../posts/curiosity-has-no-final-form/)
-- [知道自己不知道：一种被修辞放大的认知假象](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
+- [“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
 - [格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity](../../posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)
 - [路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/)
 - [选择看见而非搜寻影子 / Choosing to See Rather Than Searching for Shadows](../../posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/)

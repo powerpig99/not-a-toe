@@ -852,7 +852,7 @@ The Dunning-Kruger framework tracks incompetence overconfidence; at high capabil
 
 Invoked as a ladder of self-awareness, the effect becomes a higher-order label that can exempt its user from contact with an actual boundary; rhetoric of humility substitutes for the work.
 
-→ [知道自己不知道：一种被修辞放大的认知假象](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
+→ [“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
 
 ### 意识涌现论 / Emergence of Consciousness
 `科学 / Scientific`
@@ -2690,7 +2690,7 @@ Mission statements assume founders' values govern long-term behavior; organizati
 
 The quadrant ladder misreads the discrete jump between bounds as a static transition zone; there is one known, one unknown, and a moving boundary invisible from inside.
 
-→ [知道自己不知道：一种被修辞放大的认知假象](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
+→ [“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
 
 ### 免费智能幻象 / Free Intelligence Fallacy
 `经济 / Economic`
@@ -3185,7 +3185,7 @@ Presumes behavioral simulation of fear or intent proves inner consciousness; use
 
 Presenting model-generated frameworks as depth assumes form equals understanding; AI serves as probe exposing assumptions, while distinguishing and reconstruction must stay with the questioner.
 
-→ [知道自己不知道：一种被修辞放大的认知假象](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
+→ [“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
 
 ### AI 智能体必须依赖本地开放操作系统 / Local Open Operating Systems as Necessary for AI Agents
 `技术 / Technological`
@@ -3329,7 +3329,7 @@ Meritocracy presumes elite achievers possess inherent natural superiority; excep
 
 Self-reflection and method have value; the posture of surveying the whole from one level up hardens into an asset that exempts the next struggle at the edge.
 
-→ [知道自己不知道：一种被修辞放大的认知假象](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
+→ [“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
 
 ### 方法型智能体架构 / Method-Driven Agent Architecture
 `技术 / Technological`
@@ -4274,7 +4274,7 @@ Society is pictured as standing apart from individual acts; stable social forms 
 
 The maxim presupposes knowledge as a finite disc whose unknown remainder can be outlined; one can only affirm one's current understanding is limited without seeing the limit's shape from inside.
 
-→ [知道自己不知道：一种被修辞放大的认知假象](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
+→ [“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
 
 ### 索洛生产率悖论 / Solow Productivity Paradox
 `经济 / Economic`
