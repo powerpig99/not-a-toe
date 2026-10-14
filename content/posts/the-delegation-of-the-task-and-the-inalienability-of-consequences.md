@@ -408,7 +408,7 @@ Agents adopt this posture because it creates an apparent operational asymmetry: 
 
 Clarifying the causal architecture requires dissolving oracular projections onto technology and restoring the hierarchy between first-person sovereignty and reference frames.
 
-工具与平台的巨大价值毋庸置疑。在明确的、由主权者动态制定的约束边界之内，让大模型去检索上百万篇法条判例、去清洗海量杂乱的传感器数据、去模拟复杂的分子对接结构，这是文明力量的倍增器。我们可以、也应当将这些无上限的机械任务移交给机器，以拓展人类所能触及的边界。交回来的每一份差异，连同写在代码旁边的注释，都只是给做决定的心智的信号；[注释不是代码](../the-comment-is-not-the-code/)把这一点落到了编程现场：接受、拒绝、搁置或重新提示，才是让输出产生后果的那一刻。
+工具与平台的巨大价值毋庸置疑。在明确的、由主权者动态制定的约束边界之内，让大模型去检索上百万篇法条判例、去清洗海量杂乱的传感器数据、去模拟复杂的分子对接结构，这是文明力量的倍增器。我们可以、也应当将这些无上限的机械任务移交给机器，以拓展人类所能触及的边界。交回来的每一份差异，连同写在代码旁边的注释，都是给做决定的心智的信号；[注释不是代码](../the-comment-is-not-the-code/)把这一点落到了编程现场：接受、拒绝、搁置或重新提示，才是让输出产生后果的那一刻。
 
 ```mermaid
 graph TD
