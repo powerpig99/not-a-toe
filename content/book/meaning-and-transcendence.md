@@ -21,7 +21,7 @@ The essays in this part examine theological projections, the mirage of physical 
 - [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../../posts/the-meaning-of-life-is-in-the-drafting/)
 - [The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/)
 - [The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
-- [The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
+- [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 - [上帝的起源与“我们”的降维 / The Origin of God and the Flattening of "We"](../../posts/the-origin-of-god-and-the-flattening-of-we/)
 - [凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable](../../posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable/)
 - [开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates](../../posts/the-form-of-enlightenment-and-the-inversion-of-gates/)

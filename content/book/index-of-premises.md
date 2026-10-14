@@ -71,6 +71,15 @@ Clark treats cognitive boundaries as fluid organism-tool assemblies; fruitful fo
 
 → [Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/)
 
+### 亚里士多德 / Aristotle
+`哲学 / Philosophical`
+
+亚里士多德把无限读成潜在的接续，像一天或奥林匹克赛会那样一件接一件地生成，从不作为同时在场的集合，这个区分至今有用；把潜能与现实读成摆在观察之外的两种存在，在此到了边界，从第一人称看，它们是同一个移动前沿的两面。
+
+Aristotle read the infinite as potential succession, generated one event after another like a day or the Olympic games and never present as a simultaneous collection, a distinction still of use; reading potential and actuality as two kinds of being set outside observation is where it reaches its boundary, since from the first person they are two faces of one moving edge.
+
+→ [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
+
 ### 亚瑟·叔本华 / Arthur Schopenhauer
 `哲学 / Philosophical`
 
@@ -177,7 +186,7 @@ Chalmers split consciousness into easy computational problems and the hard subje
 
 Hilbert championed the formal axiomatic closure of all mathematics; his foundational quest propelled modern logic, while his belief in total solvability was refuted.
 
-→ [Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/)
+→ [Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 
 ### 大卫·森拉 / David Senra
 `成功学 / Self-Help`
@@ -1639,7 +1648,7 @@ Ascetic philosophy treats empty awareness as an end in itself; functional emptin
 
 Treating infinity as a finished collection is a contextual premise enabling asymptotic densities and proofs; certification holds while the premise is held, and the potential process itself never finishes.
 
-→ [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
+→ [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 
 ### 实无限与潜无限之辨 / Actual vs Potential Infinity
 `数学 / Mathematical`
@@ -1648,7 +1657,7 @@ Treating infinity as a finished collection is a contextual premise enabling asym
 
 Confusing actual and potential infinity treats infinity as a completed object; potential infinity describes an unfinishable process, while real infinity cannot be stored.
 
-→ [Immortality and the Two-Infinity Confusion](../../posts/immortality-final/)
+→ [Immortality and the Two-Infinity Confusion](../../posts/immortality-final/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 
 ### 精算滞后均值定价谬误 / Actuarial Lagged Average Pricing
 `经济 / Economic`
@@ -3282,11 +3291,11 @@ Mandated floors assume the measured wage is an independent cause of welfare; it 
 ### 无限全知全能的幻象 / Mirage of Infinite Totality
 `哲学 / Philosophical`
 
-全知哲学预设宇宙可被收录为一本写完的终极全书；现实存在是一场永远未竟的生动展开，拒斥任何一劳永逸的终结。
+把无穷当作一个已经完成、可以一眼收齐的总体，在数学里是实现封闭少不了的工具；把它投到现实上，在此到了边界：从第一人称登记到的只有已实现的有限清单与仍敞开的前沿，两面都在，却不能一眼同时看到。
 
-Totalizing metaphysics presumes the universe can be encapsulated in a completed cosmic archive; existence remains an open-ended unfolding that permanently defies exhaustive closure.
+Treating infinity as an already completed totality that can be gathered in one glance is an indispensable tool for closure in mathematics; projected onto reality it reaches its boundary, since what registers from the first person is only the finite realised inventory and the still open edge, both faces present but never seen in one glance.
 
-→ [The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
+→ [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 
 ### 错位的主权归属 / Misaligned Sovereignty
 `哲学 / Philosophical`

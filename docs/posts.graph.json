@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T20:16:00.354Z",
+    "generated_at": "2026-10-14T20:17:56.460Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -293,7 +293,7 @@
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "3614e0bd6767",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "e5dfc5fb16e4",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "0cf2b1a6b032",
-      "content/posts/the-mirage-of-the-infinite-totality.md": "541f1c5d28f6",
+      "content/posts/the-mirage-of-the-infinite-totality.md": "ed9e81aa570c",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "f89cd9fc108e",
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
       "content/posts/the-misallocation-of-agency.md": "d69ef11bb4b8",
@@ -404,12 +404,12 @@
       "content/book/causality.md": "8e4681ca1d7b",
       "content/book/consciousness.md": "b6e19af51e3b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "d20b8eda9c06",
+      "content/book/index-of-premises.md": "4db3cb74a4f4",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6a133aa0ce87",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "ac31dc919f28",
-      "content/book/meaning-and-transcendence.md": "5f74283b7779",
+      "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "9ff7417f4c8f",
       "content/book/morality.md": "25d4f858a2df",
       "content/book/physics.md": "bc168c60eb56",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5764,
+      "edges": 5768,
       "unique_directed": 4547,
       "missing_targets": 0,
       "one_way": 137,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1018,
+      "book_edges": 1022,
       "posts_reached_by_book": 393
     }
   },
@@ -7349,8 +7349,8 @@
       "kind": "post",
       "slug": "the-mirage-of-the-infinite-totality",
       "path": "content/posts/the-mirage-of-the-infinite-totality.md",
-      "title": "The Mirage of the Infinite Totality",
-      "hash": "541f1c5d28f6",
+      "title": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality",
+      "hash": "ed9e81aa570c",
       "in_degree": 4,
       "out_degree": 4,
       "links_out": [
@@ -34863,7 +34863,19 @@
       "from": "the-mirage-of-the-infinite-totality",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
-      "label": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon"
+      "label": "心智的几何学"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "the-other-coherence",
+      "rel": "points_to",
+      "label": "另一种相干"
     },
     {
       "from": "the-mirage-of-the-infinite-totality",
@@ -34875,7 +34887,19 @@
       "from": "the-mirage-of-the-infinite-totality",
       "to": "the-bank-shot-and-the-magic-trick",
       "rel": "points_to",
+      "label": "翻袋球与魔术戏法"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
       "label": "The Bank Shot and the Magic Trick"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
     },
     {
       "from": "the-mirage-of-the-infinite-totality",
@@ -44483,7 +44507,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d20b8eda9c06",
+        "hash": "4db3cb74a4f4",
         "out_degree": 393
       },
       {
@@ -44528,7 +44552,7 @@
         "slug": "meaning-and-transcendence",
         "path": "content/book/meaning-and-transcendence.md",
         "title": "意义追寻与超越之境 / The Search for Meaning and Transcendence",
-        "hash": "5f74283b7779",
+        "hash": "57911cc9b326",
         "out_degree": 13
       },
       {
@@ -45234,6 +45258,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-mirage-of-the-infinite-totality",
+        "rel": "collects",
+        "label": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-closed-loop-of-representation",
         "rel": "collects",
         "label": "The Closed Loop of Representation"
@@ -45327,6 +45357,12 @@
         "to": "why-mathematics-can-never-be-solved",
         "rel": "collects",
         "label": "Why Mathematics Can Never Be Solved"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-mirage-of-the-infinite-totality",
+        "rel": "collects",
+        "label": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality"
       },
       {
         "from": "book:index-of-premises",
@@ -46536,9 +46572,21 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-mirage-of-the-infinite-totality",
+        "rel": "collects",
+        "label": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "immortality-final",
         "rel": "collects",
         "label": "Immortality and the Two-Infinity Confusion"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-mirage-of-the-infinite-totality",
+        "rel": "collects",
+        "label": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality"
       },
       {
         "from": "book:index-of-premises",
@@ -47666,7 +47714,7 @@
         "from": "book:index-of-premises",
         "to": "the-mirage-of-the-infinite-totality",
         "rel": "collects",
-        "label": "The Mirage of the Infinite Totality"
+        "label": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality"
       },
       {
         "from": "book:index-of-premises",
@@ -49646,7 +49694,7 @@
         "from": "book:meaning-and-transcendence",
         "to": "the-mirage-of-the-infinite-totality",
         "rel": "collects",
-        "label": "The Mirage of the Infinite Totality"
+        "label": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality"
       },
       {
         "from": "book:meaning-and-transcendence",
