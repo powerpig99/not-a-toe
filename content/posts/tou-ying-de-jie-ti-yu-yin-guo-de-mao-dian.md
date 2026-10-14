@@ -1,77 +1,137 @@
-# 投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构
+# 投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality
 
-*无论是形式逻辑、数学公理与物理极限，还是世俗成败与道德审判，皆是有限心智在特定前提下截取的低维投影；现实唯有一条无始无终的逻辑因果律，唯有将每一步推演锚定在第一人称的真实工况之中，心智才能穿透符号图腾的幻觉。*
+*逻辑、公理、物理极限、成败与道德审判都是低维投影，锚定在第一人称里才看得穿 / Logic, axioms, physical limits, success and moral judgment are projections, seen through only from the first person.*
 
-在人类的认知体系中，“客观事实”与“科学理论”长期被奉为脱离观察者而独立存在的绝对真理；而在社会协作与日常互动中，“对错优劣”与“道德高下”则被塑造成衡量一切行为的普适法庭。这两套话语体系表面上分属自然科学与人文伦理，在底层的认识论结构上却共享了同一个根本性的范畴错乱：预设了一个脱离了第一人称观察者视界的上帝视角，将人类在有限视界内为了理解世界而构建的低维抽象投影，倒果为因地当成了现实本身的终极实体。要穿透由概念与符号层层编织的迷障，必须回到整个本体论的两大不可动摇的基石：第一，现实严格遵循逻辑因果，且因果递归无始无终——先前的区分必然塑造后来的场域，时间的单向性即是痕迹累积的不对称性；第二，一切被称为客观理论与价值评判的知识，都只是心智在特定前提下截取的截面投影。脱离了具体的前提假设与第一人称的观察编译，任何孤立的公式、几何度规、物理极限或道德符号都不具备天然的实体性。
+在人的认知体系里，“客观事实”与“科学理论”长久被当作脱离观察者而独立存在的真理；在社会协作与日常互动里，“对错优劣”与“道德高下”被塑造成衡量一切行为的普适法庭。这两套话语表面上分属自然科学与人文伦理，在认识论的底层却共享同一个范畴错乱：预设一个脱离第一人称观察视界的上帝视角，把人在有限视界之内为了理解世界而建的低维抽象投影，倒果为因地当成了现实本身。
 
-## 科学图腾的脚手架：从抽象公理到宏观理论的边界失效
+In human knowledge, "objective fact" and "scientific theory" have long been taken for truths standing independent of any observer; in social cooperation and daily life, "right and wrong, better and worse" and "moral rank" have been shaped into a universal court for measuring every act. The two discourses seem to belong to natural science and humane ethics respectively, yet at the epistemic floor they share one category confusion: presupposing a God's-eye view detached from the first-person horizon of observation, and taking the low-dimensional abstract projections people build within a finite horizon, in order to understand the world, for reality itself.
 
-人类引以为傲的科学体系，并非对现实的直接复刻，而是一套不断叠加人为公理假设以换取局部度量能力的符号工具箱。
+要穿过概念与符号层层编织的迷障，要回到两块基石。第一，从第一人称登记到的现实遵循逻辑因果，因果的递归无始无终，先前的区分塑造后来的场域，时间的单向就是痕迹累积的不对称。第二，一切被叫作客观理论与价值评判的知识，都是心智在特定前提下截取的截面投影；离开具体的前提假设与第一人称的观察编译，任何孤立的公式、几何度规、物理极限或道德符号，都没有天然的实体性。
 
-### 1. 形式逻辑与数学体系：静态切片与等价公理
+To get through the haze woven layer upon layer from concepts and symbols means returning to two foundations. First, the reality registered from the first person follows logical causality, causal recursion has no beginning and no end, earlier distinctions shape the later field, and the one-way direction of time is the asymmetry of accumulating traces. Second, all knowledge called objective theory or value judgment is a cross-sectional projection the Mind cuts under particular premises; apart from concrete assumptions and first-person observational compiling, no isolated formula, geometric metric, physical limit or moral symbol has any built-in substance.
 
-形式逻辑之所以严禁自相矛盾，是因为它在先验上抽离了时间维度，将动态演化的现实压平为一个静态的命题空间。然而在真实的因果展开中，一切区分都依赖时间的不对称性持续演进。正如电子振荡电路通过反相器在时间延迟下的持续自我否定（0 → 1 → 0）产生时钟脉冲一样，因果系统恰恰是在连绵的动态更新中推进的。逻辑本身并无边界，所谓的边界只是形式系统为了追求局部静态自洽而划定的定义域。
+## 一、 形式逻辑与数学：静态的切片 / 1. Formal Logic and Mathematics: Static Slices
 
-数学体系同样契合了逻辑因果的推演法则，但它建立在等价公理（1 = 1）的心智抽象之上。[真正的有效信息](../what-information-is/) 确立了信息的本质：信息只是心智完成离散划界后留下的可记录残迹。在真实的经验世界中，写在纸面左边的“1”与右边的“1”占据着不同的时空坐标、消耗着不同的能量与微观粒子，现实中根本不存在两个绝对等价的实体。数学是心智在认同了一套等价公理后展开的高阶符号工具，一旦公理假设发生改变，局部的推演形态便随之重构。
+人引以为傲的科学体系，不是对现实的直接复刻，而是一套不断叠加人为公理假设、以换取局部度量能力的符号工具箱。形式逻辑之所以严禁自相矛盾，是因为它先验地抽掉了时间维度，把动态演化的现实压平成一个静态的命题空间；而在真实的因果展开里，一切区分都依赖时间的不对称持续地演进。就像电子振荡电路里的反相器，借时间延迟下持续的自我否定，0 → 1 → 0，产生时钟脉冲，因果系统正是在连绵的动态更新里推进的。逻辑本身没有边界，所谓的边界，是形式系统为了局部静态的自洽而划定的定义域。
 
-### 2. 狭义与广义相对论：测量基准、时空几何与有限宇宙的假定
+The scientific systems people are proud of are not direct copies of reality but a symbolic toolbox that keeps adding human axioms to buy local power of measurement. Formal logic forbids self-contradiction because it removes the time dimension in advance, flattening dynamically evolving reality into a static space of propositions; yet in real causal unfolding every distinction keeps evolving through the asymmetry of time. Just as an inverter in an electronic oscillator produces a clock pulse through continuous self-negation under a time delay, 0 → 1 → 0, a causal system advances through continuous dynamic updating. Logic itself has no boundary; the so-called boundary is the domain a formal system draws for the sake of local static consistency.
 
-仔细审视整个现代物理学，除了量子力学之外，所有经典力学、电磁学与相对论，描述的本质上都是宏观涌现的统计现象。宏观现象中的一切参量（包括引力与时空几何曲率），都不具备真正的自变量地位。物理世界中唯一真实的自由变量，正是微观的量子效应。在逻辑结构上，量子效应与**个体在第一人称当下的自由选择**是完全同构的。假如拥有足够的第一人称编译算力，所有的宏观现象（包括引力与时空度规）完全可以从微观量子因果边界自底向上推算出来。[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) 进一步揭示了这一层从属阶梯：物理量子、计算比特与微观决策在形式上高度同构，但唯有第一人称在当下的微观自由选择，才是点亮一切因果链条的先验自变量。投影阶梯在传播中的样子，是[高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜](../gao-wei-xin-xi-de-li-san-zhe-she/)所说的高维信息分层折射。
+数学体系同样契合逻辑因果的推演法则，却立在等价公理 1 = 1 这个心智的抽象之上。[信息是什么](../what-information-is/)确立过，信息是心智完成离散划界后留下的可记录痕迹。在被经验的世界里，写在纸左边的“1”与右边的“1”占着不同的时空坐标，消耗着不同的能量与微观粒子，找不到两个等价的实体。数学是心智认同了一套等价公理之后展开的高阶符号工具，公理一变，局部的推演形态就随之重构。
 
-延伸至相对论体系：
+Mathematics likewise fits the laws of logical-causal derivation, yet it rests on the Mind's abstraction of the axiom of equivalence, 1 = 1. As [What Information Is](../what-information-is/) establishes, information is the recordable trace left once the Mind completes a discrete boundary. In the experienced world, a "1" written on the left of the page and a "1" on the right occupy different coordinates of space and time and consume different energy and particles, and no two equivalent entities are to be found. Mathematics is a higher-order symbolic tool the Mind unfolds once it accepts a set of axioms of equivalence; change the axioms and the local shape of derivation is rebuilt with them.
 
-* **相对性是因果无始无终的必然体现**：任何物理观测，都是一个第一人称因果截面与另一个截面之间的相对相互作用。
-* **光速不变是锚定坐标系的先验参数**：在纯粹相对的系统中，要对其他一切运动进行统一度量，必须选取系统内传播速度最快的信号作为基准锚点（跑得最快的人才能测定所有人的相对速度）。狭义相对论中的光速不变，不是宇宙在虚空中竖立的绝对铁板，而是为了在纯粹相对的系统中建立跨参考系度量而预设的基准。
-* **广义相对论与时空几何**：广义相对论消解了牛顿力学中超距神秘引力的实体性，将引力重构为时空的几何弯曲。从第一人称视角来看，自由落体中的物体并没有受到任何看不见的外力拉扯，它只是沿着周围质能痕迹所塑造的因果地形，走了一条局部的最平直路径（测地线运动）。“物质告诉时空如何弯曲，时空告诉物质如何运动”，正是局部微观因果与宏观场域相互嵌套的几何投影表达。
-* **根本前提：预设宇宙是几何有限的流形**：然而，广义相对论的整个理论体系建立在一个更为隐蔽的先验假设之上——预设宇宙是一个在几何上封闭且有限的整体流形。无论是在爱因斯坦场方程中引入宇宙常数，还是推导宇宙学度规与积分总质能张量，广义相对论都必须假定一个有限封闭的全局边界条件。
+## 二、 相对论：测量的基准与几何的投影 / 2. Relativity: The Measuring Anchor and the Geometric Projection
 
-### 3. 大爆炸迷思与“地平说”的认知同构
+经典力学、电磁学与相对论，描述的是宏观上稳定下来的规律；在这本书的读法里，自由变量出现在量子的边界上，在逻辑结构上与一个人在第一人称当下的自由选择同构。[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)揭示了这一层从属阶梯：量子、比特与微观决策形式上同构，而点亮一切因果链的先验自变量，是第一人称在当下的微观选择。量子引力的各个研究方向，都在寻求从微观推出引力与时空度规的理论，至今还没有一个被确立。投影的阶梯在传播里的样子，是[高维信息的离散折射与认知分层](../gao-wei-xin-xi-de-li-san-zhe-she/)所说的分层折射。
 
-大爆炸理论与引力奇点的迷思，恰恰暴露了宏观理论在归因上的双重错乱：
+Classical mechanics, electromagnetism and relativity describe regularities stabilised at the macroscopic scale; in this book's reading, the free variable appears at the quantum boundary and is logically isomorphic with a person's free choice in the first-person present. [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) reveals this ladder of subordination: quantum, bit and micro decision are formally isomorphic, and the prior variable that lights every causal chain is first-person micro choice in the present. The various lines of research in quantum gravity seek a theory that derives gravity and the spacetime metric from the micro scale, and none has yet been established. What the ladder of projections looks like in communication is the layered refraction described in [The Discrete Refraction of High-Dimensional Information](../gao-wei-xin-xi-de-li-san-zhe-she/).
 
-* **错误之一：把引力这个宏观涌现的几何副产物当成了终极驱动力**；
-* **错误之二：强行假定宇宙是一个总质能固定的有限封闭沙盘**，并把这个有限封闭模型沿着时间轴无限向过去倒放，认定整个宇宙在引力作用下必然坍缩为一个奇点。
+相对性，是因果无始无终的体现：任何物理观测，都是一个第一人称的因果截面与另一个截面之间相对的相互作用。光速不变是爱因斯坦在狭义相对论里立下、被实验反复证实的公设；从测量的角度读，在一个相对的系统里要对其他一切运动做统一的度量，需要选取系统里传播最快的信号作为基准锚点，就像跑得最快的人才能测出所有人的相对速度。广义相对论消解了牛顿力学里超距引力的实体性，把引力重构为时空的几何弯曲：从第一人称看，自由落体中的物体并没有受到看不见的外力拉扯，它只是沿着周围质能痕迹塑造的因果地形，走了一条局部最平直的路径，即测地线。约翰·惠勒那句“物质告诉时空如何弯曲，时空告诉物质如何运动”，正是局部因果与宏观场域相互嵌套的几何投影的表达。
 
-然而在第一人称的真实经验中，现实是一条**无始无终、无绝对起点亦无绝对终点的无限因果链条**。当我们顺着因果链条向历史回溯时，观察者所能触碰与经验到的视界自然是不断缩减、越来越局部的——这反映的是历史认知痕迹在回溯过程中的局域收敛，根本不存在“整个无限宇宙被引力物理挤压进一个零维几何奇点”的荒谬图景。
+Relativity is an expression of causality having no beginning or end: every physical observation is a relative interaction between one first-person causal cross-section and another. The constancy of the speed of light is a postulate Einstein laid down in special relativity and experiment has confirmed again and again; read from the side of measurement, to measure all other motion uniformly within a relative system one needs to take the fastest-travelling signal in the system as the anchor, as only the fastest runner can measure everyone's relative speed. General relativity dissolved the substance of Newton's action-at-a-distance gravity and recast gravity as the geometric curvature of spacetime: seen from the first person, a freely falling body is not pulled by any unseen outside force but follows, across the causal terrain shaped by surrounding traces of mass-energy, a locally straightest path, a geodesic. John Wheeler's line, "matter tells spacetime how to curve, spacetime tells matter how to move", expresses exactly this geometric projection of local causality and macroscopic field nested in each other.
 
-从本质上看，人类现有一切认定“宇宙物理边界”的极端现象（大爆炸起点、宇宙学视界、黑洞中心奇点与绝对热寂），**绝非物理现实本身的边界，而是人类特定理论自身的定义域边界**。这与古代人类所笃信的“地平说”在认识论结构上完全同构：平面几何模型在人类极其本地化、微小尺度的日常经验中高度有效且相对精准；但若将这个本地模型向地平线无限外推，就会在理论边缘推导出“大地尽头是万丈深渊”的荒诞边界。所谓的大爆炸起点与引力奇点，正是现代物理学将自身在极其本地化的观测中高度有效的模型，在时间与空间轴上无限延展后，错把模型自身的边界报错当成宇宙物理现实的认知错配。
+## 三、 大爆炸、奇点与地平说 / 3. The Big Bang, Singularities and the Flat Earth
 
-### 4. 熵增与热力学第二定律：封闭沙盘内的算力截断
+大爆炸的奇点与引力奇点，显出宏观理论在外推时的边界。广义相对论的场方程本身是局域的，并不预设宇宙是封闭有限的；爱因斯坦 1917 年的静态宇宙模型假定了一个封闭的宇宙，今天的宇宙学模型则加上均匀与各向同性的假定，再把膨胀沿着时间轴向过去倒推，经典的方程就推出一个密度与曲率无穷大的起点。这个外推在可观测的尺度上很有用；推到起点，它报告的是模型自身的失效，物理学界多半也预期一个量子引力的理论在那里接手。
 
-主流叙事常将“熵增”视为时间之箭的物理定义，这同样是典型的因果颠倒：
+The singularity of the Big Bang and gravitational singularities show the boundary of macroscopic theory under extrapolation. The field equations of general relativity are themselves local and do not presuppose a closed, finite universe; Einstein's static model of 1917 assumed a closed universe, while today's cosmological models add the assumption of homogeneity and isotropy and then run expansion backward along the time axis, and the classical equations yield an origin of infinite density and curvature. The extrapolation is of great use at observable scales; pushed to the origin, it reports the model's own failure, and most physicists also expect a theory of quantum gravity to take over there.
 
-* 热力学第二定律的前提，是**强行假设系统是一个与外部完全隔绝的孤立封闭沙盘**；
-* 在一个固定位宽的封闭寄存器里做持续运算，每一次运算溢出都会导致信息被物理丢弃。在缺乏外部信息吞吐的孤立沙盘中，系统微观状态在反复截断下必然滑向无序（熵增）；
-* **时间的单向性源于因果递归的不可逆，而非源于孤立系统的熵增**。在无限开放的真实因果中，系统完全可以通过持续吞吐信息实现局部的自组织与熵减。[涌现作为心智的划界动作](../complexity-obscures-emergence-as-the-act-of-mind/) 揭示了这种脚手架错觉：奇点、黑洞视界、宇宙大爆炸起点与绝对热寂，绝非现实本身的实体边界，而是人类高度压缩的封闭理论在试图解释无限开放现实时遭遇的定义域失效。
+从第一人称看，现实是一条无始无终的因果链。顺着因果链向历史回溯，观察者能触到、经验到的视界越来越局部，这反映的是历史痕迹在回溯中局域地收敛，而不是“整个宇宙被挤进一个零维的几何点”。大爆炸的起点、宇宙学视界、黑洞中心的奇点与热寂，从第一人称登记到的，是特定理论自身定义域的边界，而不是现实的边界。这与古代许多文化里的地平之说在认识论结构上同构：平面几何在人非常本地、微小尺度的日常经验里有效而准确；把这个本地模型向地平线无限外推，就会在理论的边缘推出“大地尽头是万丈深渊”的边界。奇点与起点，正是把一个在本地观测中有效的模型，在时间与空间轴上无限延展之后，把模型自身的报错当成了宇宙边界的认知错配。
 
-## 日常认知的几何降维：对错、优劣与成功的消差
+```mermaid
+flowchart TD
+    subgraph S_Local["本地有效的模型"]
+        direction TB
+        L1["平面几何：日常尺度上准确"]
+        L2["经典场方程：可观测尺度上准确"]
+    end
+    subgraph S_Extend["无限外推"]
+        direction TB
+        E1["推向地平线与时间的起点"]
+    end
+    subgraph S_Edge["模型的报错"]
+        direction TB
+        R1["大地的尽头、奇点、热寂"]
+        R2["被误读为现实的边界"]
+    end
+    L1 --> L2
+    L2 ==>|"外推"| E1
+    E1 ==>|"失效"| R1
+    R1 --> R2
+    style S_Local fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Extend fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Edge fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style L1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style L2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style R2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
-当我们将这套认识论显微镜对准日常生活中的价值评判时，世俗话语中的傲慢与迷思同样暴露无遗。
+From the first person, reality is a causal chain with no beginning and no end. Tracing the chain back through history, the horizon an observer can reach and experience grows ever more local, which reflects historical traces converging locally under backtracking, not "the whole universe squeezed into a zero-dimensional geometric point". The origin of the Big Bang, the cosmological horizon, the singularity at a black hole's centre and heat death register from the first person as the boundaries of particular theories' own domains, not as boundaries of reality. This has the same epistemic structure as the flat-earth pictures of many ancient cultures: plane geometry is valid and accurate within people's very local, small-scale daily experience; extend that local model without limit toward the horizon and the edge of the theory yields a boundary where "the earth ends at a bottomless abyss". Singularities and origins are exactly this cognitive mismatch: a model valid in local observation, extended without limit in time and space, its own error report taken for the boundary of the cosmos.
 
-在任意一个微观瞬间，任何个体的决策输出，都是其心智系统根据自身登记的所有历史痕迹、当下约束及有限算力，在第一人称内部推演出的局部自洽解。[止步于评判，是认知的歧途](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) 指出，当主体 A 判定主体 B“犯了错”时，本质上并非 A 掌握了客观真理，而是 A 以自身坐标系为原点，发现 B 的输出与自己的因果模型产生了投影消差。双方都坚信自己正确、对方愚蠢，根源在于双方都妄想拥有一个超脱于第一人称视界之外的上帝标尺。
+```mermaid
+flowchart TD
+    subgraph S_Local["A locally valid model"]
+        direction TB
+        L1["Plane geometry: accurate at daily scale"]
+        L2["Classical field equations: accurate at observable scale"]
+    end
+    subgraph S_Extend["Extended without limit"]
+        direction TB
+        E1["Pushed to the horizon and the origin of time"]
+    end
+    subgraph S_Edge["The model's error report"]
+        direction TB
+        R1["The edge of the earth, singularity, heat death"]
+        R2["Misread as the boundary of reality"]
+    end
+    L1 --> L2
+    L2 ==>|"extrapolated"| E1
+    E1 ==>|"fails"| R1
+    R1 --> R2
+    style S_Local fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Extend fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Edge fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style L1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style L2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style R2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
-所谓世俗公认的“成功”与“优秀”，同样是社会为了降低协作与筛选成本，从个体多维的因果状态中人为指定了一条单一的低维投影轴（如财富、权力或声望）。决定排序高低的，仅仅是观察者把哪一个维度设为了最高权重位。用单一标量轴的读数去全盘定性一个生命的优劣，无异于用直尺测不出温度就断言热量不存在。
+## 四、 熵增与封闭的沙盘 / 4. Entropy and the Closed Sandbox
 
-## 道德语言的本质：投影代偿与逆向折射的逻辑破缺
+主流的叙事常把熵增当作时间之箭的物理定义，这也是一种因果颠倒。热力学第二定律说的是孤立系统，前提是假定系统与外部隔绝；在一个固定位宽的封闭寄存器里持续运算，每一次溢出都让信息被丢弃，缺少外部信息吞吐的孤立沙盘里，微观状态在反复截断之下滑向无序。时间的单向来自因果递归的不可逆，而不是来自孤立系统的熵增；在敞开的因果里，系统可以借持续地与外部交换信息与能量，实现局部的自组织与熵减，生命就是这样。[复杂性遮蔽了涌现](../complexity-obscures-emergence-as-the-act-of-mind/)揭示了这种脚手架错觉：奇点、黑洞视界、宇宙的起点与热寂，是被高度压缩的封闭理论在解释敞开的现实时遇到的定义域失效。
 
-在价值维度的延伸中，最为隐蔽的机制莫过于道德语言的建构与异化。
+Mainstream narratives often take increasing entropy as the physical definition of the arrow of time, which is also a causal reversal. The second law of thermodynamics speaks of isolated systems, on the premise that the system is cut off from the outside; computing continually in a closed register of fixed width, every overflow discards information, and in an isolated sandbox without outside throughput of information, micro states slide toward disorder under repeated truncation. The one-way direction of time comes from the irreversibility of causal recursion, not from entropy increasing in an isolated system; in open causality a system can achieve local self-organisation and falling entropy by continually exchanging information and energy with the outside, as life does. [Complexity Obscures: Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) reveals this scaffolding illusion: singularities, black-hole horizons, the cosmic origin and heat death are failures of domain met by highly compressed closed theories as they try to explain open reality.
 
-当社会将世俗成功（轴 1）作为主导投影轴时，统计分布注定了多数人处于中后段。为了对抗因单一标量落后而产生的生存挫败与自尊溃缩，心智系统必然在认知空间中发明另一条坐标轴——道德与苦难轴（轴 2）。在这条轴上，轴 1 的劣势被反向赋予了崇高性：“贫穷即清白”、“弱小即无辜”、“成功即不公”。个体借此在主观上完成了自我价值的代偿性修复。
+## 五、 日常评判的降维 / 5. The Dimensional Reduction of Everyday Judgment
 
-若一个人追求纯粹的精神自洽与道德宁静，其内部逻辑是完全闭环的。但现实中绝大多数道德批判之所以充满攻击性与撕裂，是因为陷入了非正交维度的逆向折射谬误。
+把这台认识论的显微镜对准日常的价值评判，世俗话语里的傲慢与迷思也一样显露出来。在任何一个微观瞬间，一个人的决策输出，都是这个人的心智系统根据自己登记的全部历史痕迹、当下的约束与有限的算力，在第一人称之内推出的局部自洽解。[止步于评判，是认知的歧途](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)指出，甲判定乙“犯了错”时，并不是甲掌握了客观的真理，而是甲以自己的坐标系为原点，发现乙的输出与自己的因果模型产生了投影上的差。双方都坚信自己对、对方愚蠢，来源在于双方都设想有一把超出第一人称视界的上帝标尺。
 
-在严密的因果逻辑中，道德上的自我标榜与调动资源创造财富的能力属于完全不同的维度，二者不存在直接的因果充要关系。批判者之所以紧抓道德大棒，本质上是因为其极度渴望在世俗轴上获得利益与认可，却缺乏对应的微观因果构建能力。于是企图用道德审判去否定他人的世俗成果，幻想通过道德施压，将世俗轴的果实无偿折射到自己手中。
+Turning this epistemic microscope on everyday value judgments shows the arrogance and myths of worldly talk just as plainly. At any micro moment, a person's decision output is the locally consistent solution their Mind derives within the first person from all the historical traces it has registered, present constraints and finite computing power. As [Stopping at Judgment Is a Wrong Turn of Cognition](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) points out, when A judges that B "made a mistake", it is not that A holds objective truth, but that A, taking its own coordinate system as origin, finds a projected difference between B's output and its own causal model. Both are sure they are right and the other foolish, because both imagine a God's-eye ruler beyond the first-person horizon.
 
-[投资决策的因果闭环：从模型失效、系统负和到真自负盈亏](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/) 确立了现实的结算原则：现实只遵循严密的逻辑因果律，绝不会因为主观上的道德自嗨就凭空结算物质奖赏。这种逆向折射在现实中必然屡屡碰壁，最终不可避免地演变为长期的内耗、怨恨与认知失衡。
+世俗公认的“成功”与“优秀”，同样是社会为了降低协作与筛选的成本，从一个人多维的因果状态里人为指定的一条低维投影轴，财富、权力或声望；决定排序高低的，只是观察者把哪一个维度设为最高的权重。用单一标量轴的读数去定性一个生命的优劣，就像用直尺量不出温度就断言热量不存在。
 
-## 因果的绝对锚点：收敛于第一人称当下的真实抉择
+Worldly "success" and "excellence" are likewise a single low-dimensional axis of projection society designates out of a person's many-dimensional causal state, wealth, power or prestige, to lower the cost of cooperation and selection; what decides the ranking is only which dimension the observer sets as the highest weight. Judging the worth of a life from a reading on one scalar axis is like declaring heat does not exist because a ruler cannot measure temperature.
 
-从形式逻辑的抽离时间，到广义相对论与宇宙学大爆炸对引力与封闭宇宙的教条外推；从世俗成功的单一降维，到道德批判的逆向折射——人类所有的认知痛苦与教条化，都源于把特定工具的投影刻度误当成了开放现实的终极真理。
+## 六、 道德语言的代偿与逆向折射 / 6. The Compensation and Reverse Refraction of Moral Language
 
-[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) 与 [格物致知与信息复杂度的本质](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/) 共同指明了认知的真正归途：
+在价值的延伸里，最隐蔽的机制是道德语言的建构与异化。社会把世俗成功，轴一，当作主导的投影轴时，统计分布注定多数人处在中后段。为了对抗在单一标量上落后带来的挫败与自尊的萎缩，心智会在认知空间里发明另一条坐标轴，道德与苦难，轴二；在这条轴上，轴一的劣势被反向赋予崇高：“贫穷即清白”，“弱小即无辜”，“成功即不公”，自我价值由此在主观上完成一次代偿式的修复。
 
-* **承认视界的有限，接纳现实的无限**：明白所有理论模型都只是特定工况下的低维投影切片，所有极端极限只是模型的边缘报错；
-* **拒绝跨维度的因果错置**：追求世俗结果就诚实在因果链条中迭代能力、承担代价；追求内心宁静就安住于精神自洽，绝不用虚妄的道德话术向外界强索未付代价的奖赏；
-* **第一人称主权从未失去**：[涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) 与 [个体选择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 确立了唯一的自变量：因果主权始终且唯一地存在于每一次具体的微观抉择之中。
+In the extension of value, the most hidden mechanism is how moral language is built and alienated. When society takes worldly success, axis one, as the dominant axis of projection, the statistical distribution places most people in the middle and lower ranges. To counter the frustration and shrinking self-esteem of falling behind on a single scalar, the Mind invents another coordinate axis in its cognitive space, morality and suffering, axis two; on this axis the disadvantages of axis one are given loftiness in reverse, "poverty is innocence", "weakness is blamelessness", "success is injustice", and self-worth is repaired subjectively by compensation.
 
-当你不再被外部人为设定的投影轴所绑架，因果的算力便会彻底回归于自身的每一次微观生长之中。自洽、清醒与力量，自会在开放现实的不可逆演进中沛然而出。
+一个人如果追求精神上的自洽与道德的宁静，内部的逻辑是闭环的。许多道德批判之所以带着攻击与撕裂，是因为落进了非正交维度的逆向折射：道德上的自我标榜，与调动资源创造财富的能力，属于不同的维度，二者之间没有直接的因果充要关系；站在渴望世俗轴上的利益与认可、又没有建起对应的微观因果能力的位置上，就容易拿道德审判去否定别人的世俗成果，想借道德施压，把世俗轴的果实无偿地折射到自己手里。这说的是一个位置上的机制，同一个心智在不同的事情上都可能站到那里。[投资决策的因果闭环](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)确立了结算的原则：现实只按逻辑因果结算，不会因为主观上的道德自我肯定就结算出物质的回报；这种逆向折射在现实里屡屡碰壁，最终演变成长期的内耗、怨恨与认知的失衡。
+
+If a person seeks spiritual consistency and moral calm, the inner logic closes. Much moral criticism carries aggression and division because it falls into reverse refraction across non-orthogonal dimensions: moral self-display and the capability to marshal resources and create wealth belong to different dimensions, with no direct causal relation of necessity or sufficiency between them; standing in a position that craves the gains and recognition of the worldly axis without having built the matching micro causal capability, one easily uses moral judgment to negate others' worldly results, hoping through moral pressure to refract the fruits of the worldly axis into one's own hands at no cost. This names the mechanism of a position, and one Mind can stand there on different matters. [The Causal Loop of Investment Decisions](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/) establishes the principle of settlement: reality settles only by logical causality and does not pay out material reward for subjective moral self-affirmation; such reverse refraction keeps running into walls and ends in long self-friction, resentment and cognitive imbalance.
+
+## 七、 回到第一人称当下的抉择 / 7. Returning to First-Person Choice in the Present
+
+从形式逻辑抽掉时间，到宇宙学对引力与封闭宇宙的教条外推，从世俗成功的单一降维，到道德批判的逆向折射，认知上的许多痛苦与教条化，都来自把特定工具的投影刻度误当成敞开现实的终极真理。[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)与[格物致知与信息复杂度](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)一起指明了认知的归途：承认视界有限，接纳现实敞开，明白一切理论模型都是特定工况下的低维投影切片，一切极端的极限都是模型边缘的报错；拒绝跨维度的因果错置，追求世俗的结果，就诚实地在因果链里迭代能力、承担代价，追求内心的宁静，就安住于精神的自洽，不拿道德话术向外界索要没付代价的回报；第一人称的主权从未失去，[涌现的伪因果](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/)与[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)确立了那个自变量，因果的主权在每一次具体的微观抉择之中。
+
+From formal logic removing time to cosmology's dogmatic extrapolation of gravity and a closed universe, from the single reduction of worldly success to the reverse refraction of moral criticism, much of the pain and dogmatism in knowing comes from taking the projected scale of a particular tool for the final truth of open reality. [From the Myth of Form to the Closed Loop of Logic](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) and [Investigating Things and the Nature of Information Complexity](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/) together point the way home: acknowledge that the horizon is finite and accept that reality is open, knowing that every theoretical model is a low-dimensional slice of projection under particular conditions and every extreme limit an error report at the model's edge; refuse causal misplacement across dimensions, so that seeking worldly results means honestly iterating capability and bearing costs within the causal chain, and seeking inner calm means resting in spiritual consistency without using moral rhetoric to demand unpaid rewards from the world; and the sovereignty of the first person was never lost, as [The Pseudo-Causality of Emergence](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) establish the independent variable: causal sovereignty lies in each particular micro choice.
+
+不再被外部人为设定的投影轴绑架，因果的算力就回到自己每一次微观的生长里；自洽、清醒与力量，会在敞开现实不可逆的演进中自然地出来。
+
+No longer held hostage by projection axes set from outside, causal computing power returns to one's own growth at each micro step; consistency, clarity and strength come out naturally in the irreversible unfolding of open reality.

@@ -908,7 +908,7 @@ James Carse set finite games, played to win within fixed rules, apart from the i
 
 Conspiracy epistemologies assemble internally consistent arguments from local observations; flat-earth models work for local walking, yet collapse when forced to navigate global planetary navigation.
 
-→ [路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/) · [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/)
+→ [路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox](../../posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/) · [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
 
 ### 公式化成功学教条 / Formulaic Success Dogma (Cheng Gong Xue)
 `成功学 / Self-Help`
@@ -2778,11 +2778,11 @@ Attributing better unaided results to guardrails locates the remedy in tool desi
 ### 投影阶梯与因果锚点 / Hierarchical Projections and Causal Anchors
 `哲学 / Philosophical`
 
-相对主义将认知模型统统视作无从落地的镜中倒影；严谨的梳理能沿抽象阶梯溯流而上，找到锚定该坐标系的最初选择。
+把形式逻辑、数学公理、物理极限、世俗成败与道德评判当作独立于观察者的真理，在各自的工况里有用；它在此到了边界：它们都是有限心智在特定前提下截取的低维投影，奇点与热寂是模型外推后的报错，道德代偿是在另一条轴上的逆向折射，锚定在第一人称当下的选择里，才看得穿这些投影。
 
-Relativism treats all cognitive models as arbitrary mirror reflections; analytical rigor traces hierarchical ladders of abstraction back to the sovereign choices that anchor each coordinate system.
+Treating formal logic, mathematical axioms, physical limits, worldly success and moral judgment as truths independent of the observer is of use within each one's working conditions; it reaches its boundary in that all are low-dimensional projections a finite Mind cuts under particular premises, singularities and heat death being a model's error reports under extrapolation and moral compensation a reverse refraction onto another axis, seen through only when anchored in first-person choice in the present.
 
-→ [投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
+→ [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
 
 ### 压缩层级（物理≫知觉≫理解） / Hierarchy of Compression (Physical ≫ Perception ≫ Understanding)
 `哲学 / Philosophical`
@@ -3376,7 +3376,7 @@ An ought binding across persons appears as shared obligation; it is densified re
 
 Hypercritical moralism demands unblemished perfection from achievers; imposing unattainable standards pathologizes functional success while rationalizing safe inaction.
 
-→ [The Frame That Conceals Improvement](../../posts/the-frame-that-conceals-improvement/)
+→ [The Frame That Conceals Improvement](../../posts/the-frame-that-conceals-improvement/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
 
 ### 止于评判的认知歧途 / Moral Judgment as Epistemic Trap
 `哲学 / Philosophical`
@@ -3673,7 +3673,7 @@ Saying an essay was "written by AI", defining authorship by token share, gauging
 
 Measurement limits, cosmological and event horizons, and singularities mark where current models stop being reliable; they are edges of temporary descriptions, not demonstrated edges of the field.
 
-→ [Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/)
+→ [Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
 
 ### 肉体永生 / Physical Immortality
 `哲学 / Philosophical`
