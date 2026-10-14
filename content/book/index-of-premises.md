@@ -1932,11 +1932,11 @@ Presumes shielding minds from all adversity fosters healthy flourishing; well-in
 ### 认知框架的边界盲区 / Boundary of Cognitive Framing
 `哲学 / Philosophical`
 
-实证分析以为选定框架即可包揽全貌；任何认知切片在照亮特定数据的同时，必然将边界之外的广阔现象置于盲区。
+每一个形式理论都先做一次原初的切分，把一块领域从因果背景中割出来，在校准的尺度上有用；把切分当成最终的、把观察者留在框外，在此到了边界，奇点与“宇宙边缘”就是模型越过操作地平线时的报告。
 
-Empirical analysis presumes an objective frame examines the whole territory; every cognitive frame illuminates chosen data by casting unmeasured phenomena into systemic invisibility.
+Every formal theory first makes a primary cut that severs a domain from its causal background, and it is of use at the scale it was calibrated for; taking the cut as final and leaving the observer outside the frame is where it reaches its boundary, and singularities and the "edge of the universe" are what a model reports when pushed past its operating horizon.
 
-→ [The Boundary of the Frame](../../posts/the-boundary-of-the-frame/)
+→ [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/)
 
 ### 大脑节能本能 / Brain Energy-Conservation Instinct
 `科学 / Scientific`
@@ -3628,7 +3628,7 @@ Academic philosophy subordinates sovereign choice to impersonal linguistic or hi
 
 Measurement limits, cosmological and event horizons, and singularities mark where current models stop being reliable; they are edges of temporary descriptions, not demonstrated edges of the field.
 
-→ [Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/)
+→ [Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/)
 
 ### 肉体永生 / Physical Immortality
 `哲学 / Philosophical`

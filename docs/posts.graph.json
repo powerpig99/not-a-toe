@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T19:39:45.726Z",
+    "generated_at": "2026-10-14T20:12:50.113Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -202,7 +202,7 @@
       "content/posts/the-blind-spot-of-the-frame.md": "23484e369bf2",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "3955e0d6eba0",
-      "content/posts/the-boundary-of-the-frame.md": "87ff68f71b62",
+      "content/posts/the-boundary-of-the-frame.md": "01c60f9dab43",
       "content/posts/the-brain-does-not-backprop.md": "0fe20d66ae42",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "7e7fd663a54a",
@@ -404,13 +404,13 @@
       "content/book/causality.md": "8e4681ca1d7b",
       "content/book/consciousness.md": "b6e19af51e3b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "db393c4bff3f",
+      "content/book/index-of-premises.md": "727df3c7aa98",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "bfaf3d63d4a0",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "ac31dc919f28",
       "content/book/meaning-and-transcendence.md": "5f74283b7779",
-      "content/book/method.md": "28b8cec3611e",
+      "content/book/method.md": "9ff7417f4c8f",
       "content/book/morality.md": "25d4f858a2df",
       "content/book/physics.md": "bc168c60eb56",
       "content/book/preface.md": "beeec0b1d73b",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5735,
+      "edges": 5751,
       "unique_directed": 4547,
       "missing_targets": 0,
       "one_way": 137,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1016,
+      "book_edges": 1017,
       "posts_reached_by_book": 393
     }
   },
@@ -5462,8 +5462,8 @@
       "kind": "post",
       "slug": "the-boundary-of-the-frame",
       "path": "content/posts/the-boundary-of-the-frame.md",
-      "title": "The Boundary of the Frame",
-      "hash": "87ff68f71b62",
+      "title": "框架的边界 / The Boundary of the Frame",
+      "hash": "01c60f9dab43",
       "in_degree": 17,
       "out_degree": 16,
       "links_out": [
@@ -27171,13 +27171,31 @@
       "from": "the-boundary-of-the-frame",
       "to": "what-information-is",
       "rel": "points_to",
+      "label": "信息是什么"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "时间是因果的不可逆方向与离散步长"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-three-shadows-of-the-cut",
+      "rel": "points_to",
+      "label": "切分的三重影子"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "what-information-is",
+      "rel": "points_to",
       "label": "What Information Is"
     },
     {
       "from": "the-boundary-of-the-frame",
       "to": "time-is-causality-not-a-dimension",
       "rel": "points_to",
-      "label": "Time Is Causality, Not a Dimension"
+      "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -27189,25 +27207,73 @@
       "from": "the-boundary-of-the-frame",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
       "label": "The Scaffolding We Forget"
     },
     {
       "from": "the-boundary-of-the-frame",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
-      "label": "The geometry of mind"
+      "label": "心智的几何学"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
     },
     {
       "from": "the-boundary-of-the-frame",
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
-      "label": "The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field"
+      "label": "寄存器的算术"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "The Arithmetic of the Register"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "无穷总体的海市蜃楼"
     },
     {
       "from": "the-boundary-of-the-frame",
       "to": "the-mirage-of-the-infinite-totality",
       "rel": "points_to",
       "label": "The Mirage of the Infinite Totality"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "唯一自洽的无因之果"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "闭合的N与开放的现实"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -27237,6 +27303,24 @@
       "from": "the-boundary-of-the-frame",
       "to": "causality-all-the-way",
       "rel": "points_to",
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "维度即投影"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
       "label": "Causality All the Way"
     },
     {
@@ -27249,7 +27333,19 @@
       "from": "the-boundary-of-the-frame",
       "to": "dimensions-are-projections",
       "rel": "points_to",
-      "label": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence"
+      "label": "Dimensions Are Projections"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "翻袋球与魔术戏法"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "向量与投影的迷局"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -44309,7 +44405,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "db393c4bff3f",
+        "hash": "727df3c7aa98",
         "out_degree": 393
       },
       {
@@ -44363,7 +44459,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "28b8cec3611e",
+        "hash": "9ff7417f4c8f",
         "out_degree": 26
       },
       {
@@ -46580,7 +46676,7 @@
         "from": "book:index-of-premises",
         "to": "the-boundary-of-the-frame",
         "rel": "collects",
-        "label": "The Boundary of the Frame"
+        "label": "框架的边界 / The Boundary of the Frame"
       },
       {
         "from": "book:index-of-premises",
@@ -47733,6 +47829,12 @@
         "to": "selection-contradiction-and-open-reality",
         "rel": "collects",
         "label": "Selection, Contradiction, and Open Reality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-boundary-of-the-frame",
+        "rel": "collects",
+        "label": "框架的边界 / The Boundary of the Frame"
       },
       {
         "from": "book:index-of-premises",
@@ -49580,7 +49682,7 @@
         "from": "book:method",
         "to": "the-boundary-of-the-frame",
         "rel": "collects",
-        "label": "The Boundary of the Frame"
+        "label": "框架的边界 / The Boundary of the Frame"
       },
       {
         "from": "book:method",

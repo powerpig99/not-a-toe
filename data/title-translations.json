@@ -173,10 +173,6 @@
       "title_zh": "自我形象仿佛从无处发声",
       "subtitle_zh": "自我形象是自我与环境关系的递归投影；被抬升后便冒充超然的外部视界，把能动性错置到脚手架与集体之上。"
     },
-    "the-boundary-of-the-frame": {
-      "title_zh": "框架的边界",
-      "subtitle_zh": "每一个形式化理论都是受其原初切分所约束的有限概念器物；一旦忘却观察者与因果背景，局部的工具便会硬化为教条。"
-    },
     "the-real-scarcity-is-not-memory-but-continuous-re-tracing": {
       "title_zh": "真正稀缺的不是记忆，而是持续的重新追溯",
       "subtitle_zh": "可用结构是在新负荷下被重新渲染出来的形态，既非静态存储的清单，亦非未被纳入当下构型的外部库存。"
@@ -433,6 +429,14 @@
     "the-geometry-of-emergence": {
       "title_zh": "涌现的几何学",
       "subtitle_zh": "涌现是不可观察者变为可观察者的那一次过渡，在每一个尺度上都与观察的心智对分辨率的有意识选择相耦合。"
+    },
+    "the-reversal-from-defensible-claim-to-dogma": {
+      "title_zh": "从可辩护的主张到教条的反转",
+      "subtitle_zh": "当一个指标被当作安全的全部时，在选定风险曲线上得出的有条件发现就冻结成了定论。"
+    },
+    "the-three-shadows-of-the-cut": {
+      "title_zh": "切分的三重影子",
+      "subtitle_zh": "福雷斯特·兰德里的内在形而上学优雅地拆解了笛卡尔二元论与拉普拉斯决定论，却把移动前沿的三个方向视角实体化为公理化的三元根基，把因果光圈投下的影子误认作了生成的源头。"
     }
   }
 }
