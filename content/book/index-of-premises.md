@@ -757,6 +757,15 @@ Genetic determinism asserts DNA programs dictate human action and personality; g
 
 → [Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control](../../posts/guidance-is-not-ownership/)
 
+### 比特币作为价值储存 / Bitcoin as Store of Value
+`经济 / Economic`
+
+比特币起初是一件让人在法币体系之外表达能动性的开放媒介，作为交换的工具有用；把价值归给代币本身、把它当作静态的价值储存，在此到了边界，媒介冻结了资本，转成零和的投机，又靠法币支撑的稳定币补上交易用途。
+
+Bitcoin began as an open medium for expressing agency outside the fiat system, of use as an instrument of exchange; crediting value to the token itself and treating it as a static store of value is where it reaches its boundary, as the medium freezes capital, turns into zero-sum speculation, and leans on fiat-backed stablecoins to patch its transactional use.
+
+→ [自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../../posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/)
+
 ### 块状宇宙世界线理论 / Block Universe Worldline
 `科学 / Scientific`
 
@@ -899,7 +908,7 @@ The Fermi paradox presumes extraterrestrial intelligence would appear in a time 
 
 James Carse set finite games, played to win within fixed rules, apart from the infinite game, played to keep the play going with an extendable boundary; the distinction reaches its boundary when it is used to label two kinds of people, since the same Mind plays both at different moments, while as a tool for seeing that a status contest is only a finite game it stays sharp.
 
-→ [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
+→ [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/) · [自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../../posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/)
 
 ### 地平说认知悖论 / Flat Earth Epistemology
 `意识形态 / Ideological`
@@ -3579,11 +3588,11 @@ Presumes life decisions carry catastrophic, irreversible weight; common in anxio
 ### 既往成功的自证陷阱 / Past-Success Validation Trap
 `成功学 / Self-Help`
 
-既得成功者以为紧抓往昔光环便能永葆声望；耗费资本与精力捍卫既定名位，反使心智错失投入未知前沿的机运。
+把累积的财富、声望与工具当作力量的来源去守护，在保住已有成果时有用；它在此到了边界：财富是追求自我价值的滞后痕迹，被当作源头守护时，与现实的直接碰撞被隔开，损失函数萎缩，过去的成功从杠杆变成累积的拖累，这是同一个心智在不同时期都可能经过的状态。
 
-Achievers assume clinging to past glories guarantees ongoing relevance; pouring wealth into defending past status prevents capital and attention from funding unmapped frontiers.
+Defending accumulated wealth, prestige and tools as the source of power is of use in keeping what has been gained; it reaches its boundary in that wealth is the lagging trace of pursuing self-worthiness, and once defended as the source, direct collision with reality is insulated away, the loss function atrophies, and past success turns from leverage into accumulating drag, a state one Mind can pass through at different times.
 
-→ [Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../../posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/)
+→ [自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../../posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/)
 
 ### 病态利他主义 / Pathological Altruism
 `哲学 / Philosophical`

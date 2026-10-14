@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T20:29:49.137Z",
+    "generated_at": "2026-10-14T20:32:29.879Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -174,7 +174,7 @@
       "content/posts/selection-contradiction-and-open-reality.md": "4d027d2d4957",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "026feb5866bd",
       "content/posts/self-rl-for-humans.md": "9c6e189aabfd",
-      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4a6c1f8bec8d",
+      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "b25f1b49b6e0",
       "content/posts/shared-humanity-is-never-shared.md": "22c1be7732c9",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "09f9d79b986f",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "3506a1545eae",
+      "content/book/index-of-premises.md": "e3bc2578804f",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6a133aa0ce87",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -415,19 +415,19 @@
       "content/book/physics.md": "bc168c60eb56",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "795c78f99a12",
-      "content/book/success-and-the-self.md": "7ef691063c43",
+      "content/book/success-and-the-self.md": "d2e99409685f",
       "content/book/tools-and-progress.md": "ecdce6e731a7"
     },
     "stats": {
       "posts": 393,
-      "edges": 5789,
+      "edges": 5794,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1030,
+      "book_edges": 1032,
       "posts_reached_by_book": 393
     }
   },
@@ -4746,8 +4746,8 @@
       "kind": "post",
       "slug": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "path": "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md",
-      "title": "Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success",
-      "hash": "4a6c1f8bec8d",
+      "title": "自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success",
+      "hash": "4f201d2f0e99",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -24574,7 +24574,19 @@
       "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "to": "the-generative-mechanics-of-value-money-and-wealth",
       "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
+    },
+    {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
       "label": "The Generative Mechanics of Value, Money, and Wealth"
+    },
+    {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
     },
     {
       "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
@@ -24586,13 +24598,31 @@
       "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "rel": "points_to",
-      "label": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency"
+      "label": "福利国家的幻象"
+    },
+    {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "赋权确立权力的集中"
+    },
+    {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "The Welfare State Illusion"
     },
     {
       "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
       "label": "Empowerment Establishes the Centralization of Power"
+    },
+    {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "war-revolution-and-the-fall-of-empires",
+      "rel": "points_to",
+      "label": "战争、革命与帝国的衰落"
     },
     {
       "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
@@ -44634,7 +44664,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "3506a1545eae",
+        "hash": "e3bc2578804f",
         "out_degree": 393
       },
       {
@@ -44733,7 +44763,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "7ef691063c43",
+        "hash": "d2e99409685f",
         "out_degree": 33
       },
       {
@@ -45979,6 +46009,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+        "rel": "collects",
+        "label": "自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
         "rel": "collects",
         "label": "四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model"
@@ -46096,6 +46132,12 @@
         "to": "the-extendable-horizon",
         "rel": "collects",
         "label": "可延展的地平线 / The Extendable Horizon"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+        "rel": "collects",
+        "label": "自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success"
       },
       {
         "from": "book:index-of-premises",
@@ -48069,7 +48111,7 @@
         "from": "book:index-of-premises",
         "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
         "rel": "collects",
-        "label": "Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success"
+        "label": "自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success"
       },
       {
         "from": "book:index-of-premises",
@@ -50691,7 +50733,7 @@
         "from": "book:success-and-the-self",
         "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
         "rel": "collects",
-        "label": "Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success"
+        "label": "自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success"
       },
       {
         "from": "book:success-and-the-self",
