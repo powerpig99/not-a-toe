@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T23:36:14.478Z",
+    "generated_at": "2026-10-14T23:49:56.656Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -212,7 +212,7 @@
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "b3dee0aa5e80",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "6c191f9ad616",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
-      "content/posts/the-closed-loop-of-representation.md": "9b056c332668",
+      "content/posts/the-closed-loop-of-representation.md": "633ffdcca70d",
       "content/posts/the-closed-n-and-the-open-reality.md": "cdca9be1b6fb",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "d71141c2c581",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
@@ -402,9 +402,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "6cc7c36374ce",
-      "content/book/consciousness.md": "374c33a2478e",
+      "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "6061a63bc09f",
+      "content/book/index-of-premises.md": "7ee241ba04b5",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "57d582e7bf12",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6105,
+      "edges": 6119,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1055,
+      "book_edges": 1056,
       "posts_reached_by_book": 393
     }
   },
@@ -5672,8 +5672,8 @@
       "kind": "post",
       "slug": "the-closed-loop-of-representation",
       "path": "content/posts/the-closed-loop-of-representation.md",
-      "title": "The Closed Loop of Representation",
-      "hash": "9b056c332668",
+      "title": "表征的闭环 / The Closed Loop of Representation",
+      "hash": "633ffdcca70d",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -28840,7 +28840,25 @@
       "from": "the-closed-loop-of-representation",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind's ongoing realization"
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "信息是什么"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
     },
     {
       "from": "the-closed-loop-of-representation",
@@ -28852,13 +28870,25 @@
       "from": "the-closed-loop-of-representation",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "the-closed-loop-of-representation",
       "to": "moral-language-as-projection",
       "rel": "points_to",
-      "label": "Moral language as projection"
+      "label": "道德语言作为投影"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "Moral Language as Projection"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准"
     },
     {
       "from": "the-closed-loop-of-representation",
@@ -28870,19 +28900,43 @@
       "from": "the-closed-loop-of-representation",
       "to": "stability-and-excess",
       "rel": "points_to",
-      "label": "Stability and excess: consciousness, introspection, and the cut of observation"
+      "label": "稳定与溢出"
     },
     {
       "from": "the-closed-loop-of-representation",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "the-closed-loop-of-representation",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "Climbing does not leave the ground"
+      "label": "攀登从未离开地面"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "印迹与行动"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "stability-and-excess",
+      "rel": "points_to",
+      "label": "Stability and Excess"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing Does Not Leave the Ground"
     },
     {
       "from": "the-closed-loop-of-representation",
@@ -28894,7 +28948,19 @@
       "from": "the-closed-loop-of-representation",
       "to": "you-tiao-jian-de-zi-you",
       "rel": "points_to",
+      "label": "有条件的自由"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
       "label": "Conditional Freedom"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
     },
     {
       "from": "the-closed-loop-of-representation",
@@ -28906,13 +28972,31 @@
       "from": "the-closed-loop-of-representation",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "the-closed-loop-of-representation",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "rel": "points_to",
+      "label": "格物致知与信息复杂度"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "the-closed-loop-of-representation",
@@ -46512,7 +46596,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "374c33a2478e",
+        "hash": "b829238e63a6",
         "out_degree": 38
       },
       {
@@ -46530,7 +46614,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "6061a63bc09f",
+        "hash": "7ee241ba04b5",
         "out_degree": 393
       },
       {
@@ -46953,7 +47037,7 @@
         "from": "book:consciousness",
         "to": "the-closed-loop-of-representation",
         "rel": "collects",
-        "label": "The Closed Loop of Representation"
+        "label": "表征的闭环 / The Closed Loop of Representation"
       },
       {
         "from": "book:consciousness",
@@ -47289,7 +47373,7 @@
         "from": "book:index-of-premises",
         "to": "the-closed-loop-of-representation",
         "rel": "collects",
-        "label": "The Closed Loop of Representation"
+        "label": "表征的闭环 / The Closed Loop of Representation"
       },
       {
         "from": "book:index-of-premises",
@@ -48267,7 +48351,7 @@
         "from": "book:index-of-premises",
         "to": "the-closed-loop-of-representation",
         "rel": "collects",
-        "label": "The Closed Loop of Representation"
+        "label": "表征的闭环 / The Closed Loop of Representation"
       },
       {
         "from": "book:index-of-premises",
@@ -48406,6 +48490,12 @@
         "to": "the-continuum-of-the-fold",
         "rel": "collects",
         "label": "折叠的连续谱 / The Continuum of the Fold"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-closed-loop-of-representation",
+        "rel": "collects",
+        "label": "表征的闭环 / The Closed Loop of Representation"
       },
       {
         "from": "book:index-of-premises",
@@ -50889,7 +50979,7 @@
         "from": "book:index-of-premises",
         "to": "the-closed-loop-of-representation",
         "rel": "collects",
-        "label": "The Closed Loop of Representation"
+        "label": "表征的闭环 / The Closed Loop of Representation"
       },
       {
         "from": "book:index-of-premises",

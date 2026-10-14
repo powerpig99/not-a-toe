@@ -373,10 +373,6 @@
       "title_en": "On Attribution: From Fact to Cause, From Outside Node to Inner Iteration",
       "subtitle_en": "Taking facts in time order straight as causal relations stops attribution at the conspicuous node, and iteration breaks off there."
     },
-    "the-closed-loop-of-representation": {
-      "title_zh": "表征的闭环",
-      "subtitle_zh": "叔本华的不读之术显示，感知与误解都在各自私有的模型之内运作；共享的现实是功能上的共振，而不是直接的通达。"
-    },
     "when-observation-becomes-performance": {
       "title_zh": "当观察变成表演",
       "subtitle_zh": "一个关于别人的观察，只有作为第一人称的参照时才有力量；它一把自己包装成可携带的美德，就失去了这份力量。"
@@ -392,6 +388,10 @@
     "token-efficiency-emulation-and-the-unclosable-gap": {
       "title_zh": "Token 效率、模拟与无法弥合的间隙",
       "subtitle_zh": "模型可以被训练去压缩推理，却无法发起让压缩成为内生的那份利害；效率本身是成功的低效推理的结果，而不是跳过它的许可。"
+    },
+    "moral-language-as-projection": {
+      "title_zh": "道德语言作为投影",
+      "subtitle_zh": "封闭的现实、制度的能动与对开放边界的承认。"
     }
   }
 }

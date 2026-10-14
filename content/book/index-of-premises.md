@@ -83,11 +83,11 @@ Aristotle read the infinite as potential succession, generated one event after a
 ### 亚瑟·叔本华 / Arthur Schopenhauer
 `哲学 / Philosophical`
 
-叔本华的“不读之术”指向从噪声中筛出信号的能力；技术增加了表征，暴露了这种能力的差异，却不创造它。
+叔本华的“不读之术”主张有意拒绝喧闹而短暂的东西，把注意力留给经得起时间的东西，在照管注意力时有用；它在此到了边界：这门功夫依托的筛选能力，运作在一切认知的底部，技术增加了表征、暴露了这种能力的差异，却不创造它，而筛选与评价都发生在私有的表征之内。
 
-Schopenhauer's art of not reading names the capacity to filter signal from noise; technologies multiply representations and expose differences in that capacity without creating it.
+Schopenhauer's art of not reading urges the deliberate refusal of the noisy and ephemeral to keep attention for what endures, which is of use in tending attention; it reaches its boundary in that the filtering it rests on operates at the base of all cognition, technologies multiply representations and expose differences in that capacity without creating it, and filtering and evaluation both take place inside private representation.
 
-→ [The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
+→ [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
 
 ### 伯恩哈德·黎曼 / Bernhard Riemann
 `数学 / Mathematical`
@@ -1190,11 +1190,11 @@ Frameworks setting wages by decree need continual assumptions about market power
 ### 朴素实在论 / Naive Realism
 `哲学 / Philosophical`
 
-朴素实在论假定观察者共享未经中介的场景；共享现实是私人投射之间的高度功能共振，足以支撑协作，却从不是经验的同一。
+朴素实在论假定观察者共享一个未经中介的场景，在日常协作中作为默认的出发点有用；它在此到了边界：共享的现实是私人投影之间很高的功能共振，足以支撑行动、导航与语言，却从不是经验的同一。
 
-Naive realism assumes observers share an unmediated scene; shared reality is high functional resonance among private projections, robust for coordination yet never identity of experience.
+Naive realism assumes observers share an unmediated scene, which is of use as the default starting point of everyday coordination; it reaches its boundary in that shared reality is high functional resonance among private projections, robust enough for action, navigation and language yet never identity of experience.
 
-→ [The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
+→ [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
 
 ### 消极功利主义（最小化可避免的苦难） / Negative Utilitarianism (Minimizing Avoidable Suffering)
 `哲学 / Philosophical`
@@ -1338,7 +1338,7 @@ Least action assumes nature inherently seeks optimal paths; it is a variational 
 
 Epistemology questions whether one can prove others possess consciousness; the permanent asymmetry between internal awareness and external observation cannot be closed by logic.
 
-→ [NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/)
+→ [NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
 
 ### 生产过剩与意识形态消费 / Productive Surplus and Ideology
 `经济 / Economic`
@@ -4747,11 +4747,11 @@ Theoretical physics presumes equations describe the cosmos from a detached, sour
 ### 世界是幻觉 / The World as Illusion
 `哲学 / Philosophical`
 
-宣称世界是幻觉，需要与教条实在论同样不可能的外部立足点；外部世界被合理假定是因为它稳定经验，既无法证明也无法证伪。
+宣称世界是幻觉，在松动对教条实在的执着时有用；它在此到了边界：它需要与教条实在论同样不可能的外部立足点，而外部世界出于实用被合理假定，因为它稳住经验，既无法证明也无法证伪。
 
-Declaring reality illusory needs the same impossible exterior standpoint as dogmatic realism; an external world is reasonably assumed because it stabilizes experience, neither provable nor disprovable.
+Declaring the world an illusion is of use in loosening an attachment to dogmatic realism; it reaches its boundary in that it needs the same impossible outside standpoint as dogmatic realism, while an outside world is reasonably assumed for practical purposes because it stabilizes experience, neither provable nor disprovable.
 
-→ [The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
+→ [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
 
 ### 心理咨询的反馈回路 / Therapeutic Feedback Loop
 `成功学 / Self-Help`
