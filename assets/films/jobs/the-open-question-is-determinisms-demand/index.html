@@ -614,7 +614,7 @@ function panelV(g,lt,S,P){const x=70,w=940;
     const fl=1-pr(lt,S.stampT,.8);if(fl>0)lit(g,P.col,x+w/2,CH-378,300,fl*.6)}}
 
 // ---------------------------------------------------------------------- frame, HUD, renderer
-let SHAPE='h',CW=1920,CH=1080,BGV,OA,OB,showCC=true;const PLT=mkCanvas(W,H),TR=.95;
+let SHAPE='h',CW=1920,CH=1080,BGV,OA,OB,showCC=true;const PK=1081/940,PLT=mkCanvas(1081,1012),TR=.95;
 function buildBackdropV(h=1920){BGV=mkCanvas(1080,h);const g=BGV.getContext('2d'),w=1080;
   const gr=g.createRadialGradient(w/2,h*.44,80,w/2,h/2,h*.7);gr.addColorStop(0,'#0c1222');gr.addColorStop(.55,'#070a14');gr.addColorStop(1,'#030409');g.fillStyle=gr;g.fillRect(0,0,w,h);
   g.strokeStyle='rgba(159,179,217,0.045)';g.lineWidth=1;for(let k=-4;k<=4;k++){g.beginPath();g.ellipse(w/2,h/2,Math.max(1,Math.abs(k)*150),h*.56,0,0,TAU);g.stroke()}
@@ -624,8 +624,9 @@ function buildBackdropV(h=1920){BGV=mkCanvas(1080,h);const g=BGV.getContext('2d'
 function sceneFrame(g,i,lt){const S=SCN[i];g.save();g.setTransform(1,0,0,1,0,0);g.globalAlpha=1;g.globalCompositeOperation='source-over';g.textAlign='left';g.setLineDash([]);
   try{if(SHAPE==='h'){BARE=false;if(S.P){backdrop(g,S.col,.08,560,520);BARE=true;drawPlate(g,lt,S);BARE=false;layer(g,pr(lt,.95,.45),L2,gg=>panelH(gg,lt,S,S.P))}
       else{backdrop(g,S.col,.08,960,520);BARE=true;g.translate(340,0);drawPlate(g,lt,S)}}
-    else{g.drawImage(BGV,0,0);const py=(S.P?330:300)+Math.round((CH-1920)/3);lit(g,S.col,540,py+470,820,.08);const pc=PLT.getContext('2d');pc.setTransform(1,0,0,1,0,0);pc.clearRect(0,0,W,H);pc.save();BARE=true;drawPlate(pc,lt,S);pc.restore();
-      g.drawImage(PLT,150,110,940,880,0,py,1081,1012);if(S.P)panelV(g,lt,S,S.P)}}catch(e){console.error(S.id,e)}
+    else{g.drawImage(BGV,0,0);const py=(S.P?330:300)+Math.round((CH-1920)/3);lit(g,S.col,540,py+470,820,.08);// the plate is drawn at the size it is shown, not drawn landscape and enlarged
+      const pc=PLT.getContext('2d');pc.setTransform(1,0,0,1,0,0);pc.clearRect(0,0,PLT.width,PLT.height);pc.save();pc.setTransform(PK,0,0,PK,-150*PK,-110*PK);BARE=true;drawPlate(pc,lt,S);pc.restore();
+      g.drawImage(PLT,0,py);if(S.P)panelV(g,lt,S,S.P)}}catch(e){console.error(S.id,e)}
   BARE=false;g.restore()}
 function composite(g,A,B,p,type,acc){const e=eio(p),cx=CW/2,cy=CH/2;g.fillStyle='#000';g.fillRect(0,0,CW,CH);
   if(type==='iris'){g.drawImage(A,0,0);const r=e*Math.hypot(cx,cy)*1.05;g.save();g.beginPath();g.arc(cx,cy,r,0,TAU);g.clip();g.drawImage(B,0,0);g.restore();
@@ -667,7 +668,9 @@ const tell=()=>{if(embed&&!filling)parent.postMessage({natHeight:Math.round(fram
 addEventListener('message',e=>{if(e.origin===location.origin&&(e.data?.natLang==='en'||e.data?.natLang==='zh'))switchTo(e.data.natLang)});
 function fit(){tell();const bh=bar.hidden?0:bar.offsetHeight,aw=frameW(),ah=inPost()?aw*CH/CW:innerHeight-bh,s=Math.min(aw/CW,ah/CH);cv.style.width=CW*s+'px';cv.style.height=CH*s+'px';cv.style.left=(aw-CW*s)/2+'px';cv.style.top=(ah-CH*s)/2+'px'}
 const tall=()=>{if(q.get('shape'))return 1920;let w=frameW(),h=innerHeight-(bar.hidden?0:bar.offsetHeight);try{if(inPost())h=parent.innerHeight-(bar.hidden?0:bar.offsetHeight)-24}catch(e){}return Math.round(clamp(1080*h/Math.max(1,w),1920,2400)/8)*8};
-function setShape(s){const h=s==='v'?tall():1080;if(s===SHAPE&&h===CH&&OA){fit();return}SHAPE=s;[CW,CH]=s==='v'?[1080,h]:[1920,1080];if(s==='v'&&BGV.height!==CH)buildBackdropV(CH);cv.width=CW;cv.height=CH;OA=mkCanvas(CW,CH);OB=mkCanvas(CW,CH);fit()}
+// A change of the frame's size gives the canvas a new bitmap even when its own size stays: on iPhone Safari a canvas
+// resized in an iframe stayed blurred until turning the phone did exactly this.
+function setShape(s){const h=s==='v'?tall():1080;if(s===SHAPE&&h===CH&&OA){cv.width=CW;fit();return}SHAPE=s;[CW,CH]=s==='v'?[1080,h]:[1920,1080];if(s==='v'&&BGV.height!==CH)buildBackdropV(CH);cv.width=CW;cv.height=CH;OA=mkCanvas(CW,CH);OB=mkCanvas(CW,CH);fit()}
 // Inside a post the film takes the shape of the reader's screen, not of its frame: portrait on an upright phone.
 const upright=()=>{try{const w=inPost()?parent:window;return w.innerHeight>w.innerWidth}catch(e){return innerHeight>innerWidth}};
 const autoShape=()=>q.get('shape')||(upright()?'v':'h');
