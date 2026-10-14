@@ -676,6 +676,15 @@ Overfitting treats dense memorization of training sets as generalized wisdom; hi
 
 → [Overfitting as the Follower Mode](../../posts/overfitting-as-the-follower-mode/)
 
+### 无我 / Anattā (Non-Self)
+`宗教 / Religious`
+
+佛教的无我看清自我形象是构造出来的、而非终极的根基，执着于它是苦的根源；当它被读成要消灭自我、根除欲望、让能动消融于虚空时到了边界，佛教自身也拒绝这种断灭见，作为松开对冻结形象之执着的洞察，它依然锋利。
+
+Buddhist non-self sees that the self-image is constructed rather than the final ground, and that clinging to it is the root of suffering; it reaches its boundary when read as a demand to extinguish the self, uproot desire and dissolve agency into a void, a reading Buddhism itself rejects as annihilationism, while as an insight that loosens clinging to a frozen image it stays sharp.
+
+→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
+
 ### 万物有灵论 / Animism
 `宗教 / Religious`
 
@@ -737,7 +746,7 @@ Genetic determinism asserts DNA programs dictate human action and personality; g
 
 Presumes spacetime is an eternal four-dimensional block where past, present, and future coexist; mathematically powerful in relativity, it mistakes a static map for unfolding time.
 
-→ [四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model](../../posts/the-myth-of-the-four-dimensional-deer-and-the-present-model/)
+→ [四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model](../../posts/the-myth-of-the-four-dimensional-deer-and-the-present-model/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
 
 ### 古典功利主义 / Classical Utilitarianism
 `哲学 / Philosophical`
@@ -1403,7 +1412,7 @@ Emergence narratives claim complex interactions spontaneously generate novel law
 
 Stoicism affirms the ruling faculty as wholly one's own, then reinserts it into an assigned cosmic role under the Logos, presuming freedom completes itself only inside a larger rational order.
 
-→ [The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
+→ [The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
 
 ### 主观价值理论 / Subjective Theory of Value
 `经济 / Economic`
@@ -1621,7 +1630,7 @@ Ascetic philosophy treats empty awareness as an end in itself; functional emptin
 
 Treating infinity as a finished collection is a contextual premise enabling asymptotic densities and proofs; certification holds while the premise is held, and the potential process itself never finishes.
 
-→ [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/)
+→ [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
 
 ### 实无限与潜无限之辨 / Actual vs Potential Infinity
 `数学 / Mathematical`
@@ -4719,14 +4728,14 @@ Closed mathematical topology treats shapes as rigid predetermined manifolds; fre
 
 → [The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence](../../posts/the-generative-topology-of-free-variables/)
 
-### 心智的拓扑几何学 / Topological Geometry of Mind
+### 自我形象即身份 / The Self-Image as Identity
 `哲学 / Philosophical`
 
-脑成像试图将主观思绪定位在欧几里得空间坐标里；心智状态实则是质性区别的拓扑流转轨迹，无法被机械的立体坐标固化。
+人们把自我形象当成自己本身，于是要么守护它，要么想消灭它，要么给它披甲；它是心智在低维投影里设下的一个校准原点，三种做法都把探针当成了生成的场，在这里到了边界，作为计算方位与误差的参考点，自我形象依然不可少。
 
-Neuroimaging attempts to map subjective thoughts onto spatial Euclidean coordinates; conscious mental states form topological trajectories of qualitative distinction that defy fixed spatial mapping.
+The self-image is taken for oneself, and so it is guarded, or one tries to extinguish it, or it is armoured; it is a calibration origin the Mind sets inside a low-dimensional projection, and all three take the probe for the generative field, which is where the premise reaches its boundary, while as a reference point for computing orientation and error the self-image stays indispensable.
 
-→ [The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon](../../posts/the-geometry-of-mind/)
+→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
 
 ### 量子测量的拓扑刻痕 / Topological Trace of Measurement
 `科学 / Scientific`

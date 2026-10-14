@@ -32,7 +32,7 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
 - [The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
 - [The Other Coherence](../../posts/the-other-coherence/)
-- [The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon](../../posts/the-geometry-of-mind/)
+- [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
 - [共享沙盒的幻象 / The Illusion of the Shared Sandbox](../../posts/the-illusion-of-the-shared-sandbox/)
 - [流动中的坐标 / Coordinates in Flux](../../posts/coordinates-in-flux-negation-and-self-anchoring/)
 - [以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation](../../posts/the-illusion-of-knowing-and-the-geometry-of-amputation/)

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T17:08:28.791Z",
+    "generated_at": "2026-10-14T17:51:28.693Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -219,7 +219,7 @@
       "content/posts/the-comment-is-not-the-code.md": "1ee31f526434",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "2622676a6816",
-      "content/posts/the-continuum-of-the-fold.md": "e391b7e18d3c",
+      "content/posts/the-continuum-of-the-fold.md": "5eba96d44a83",
       "content/posts/the-coordinators-category-error.md": "89f6110cc916",
       "content/posts/the-cut-moves-but-never-vanishes.md": "2610f984cd07",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
@@ -252,7 +252,7 @@
       "content/posts/the-generative-topology-of-free-variables.md": "7a3c85d5294c",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
       "content/posts/the-geometry-of-emergence.md": "89925e3a76ab",
-      "content/posts/the-geometry-of-mind.md": "92932a073669",
+      "content/posts/the-geometry-of-mind.md": "5e64ee6befbf",
       "content/posts/the-geometry-of-success.md": "dc47507d236b",
       "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "f7485fc0e38a",
@@ -402,9 +402,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "9ce16a51283f",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "e6ea1a3ffb75",
-      "content/book/consciousness.md": "d6c92ea6f310",
+      "content/book/consciousness.md": "b6e19af51e3b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "202b7359a228",
+      "content/book/index-of-premises.md": "1f3dda0d3f74",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "bfaf3d63d4a0",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5651,
+      "edges": 5670,
       "unique_directed": 4543,
       "missing_targets": 0,
       "one_way": 135,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1004,
+      "book_edges": 1008,
       "posts_reached_by_book": 393
     }
   },
@@ -5800,7 +5800,7 @@
       "slug": "the-continuum-of-the-fold",
       "path": "content/posts/the-continuum-of-the-fold.md",
       "title": "折叠的连续谱 / The Continuum of the Fold",
-      "hash": "e391b7e18d3c",
+      "hash": "5eba96d44a83",
       "in_degree": 10,
       "out_degree": 13,
       "links_out": [
@@ -6539,8 +6539,8 @@
       "kind": "post",
       "slug": "the-geometry-of-mind",
       "path": "content/posts/the-geometry-of-mind.md",
-      "title": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon",
-      "hash": "92932a073669",
+      "title": "心智的几何学 / The Geometry of Mind",
+      "hash": "5e64ee6befbf",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -6553,8 +6553,8 @@
         "the-mind-as-vector-and-coordinate-system",
         "the-extendable-horizon",
         "the-scaffolding-we-forget",
-        "the-continuum-of-the-fold",
         "the-continuum-is-a-modeling-convenience",
+        "the-continuum-of-the-fold",
         "ownership-and-self-worthiness",
         "the-vector-and-the-puzzle-of-projections",
         "what-information-is",
@@ -31667,25 +31667,55 @@
       "from": "the-geometry-of-mind",
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
-      "label": "the boundary of the frame"
+      "label": "框架的边界"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "time-is-causality-not-a-dimension",
       "rel": "points_to",
-      "label": "time as the irreversible direction and discrete step of causality"
+      "label": "时间是因果的不可逆方向与离散步长"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "the-unclosable-trace",
       "rel": "points_to",
-      "label": "The Unclosable Trace: Why Philosophy Cannot Be Inherited"
+      "label": "无法闭合的痕迹"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "The Unclosable Trace"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "the-mirage-of-the-infinite-totality",
       "rel": "points_to",
-      "label": "the mirage of the infinite totality"
+      "label": "无穷总体的海市蜃楼"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "互补的自由变量"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "The Mirage of the Infinite Totality"
     },
     {
       "from": "the-geometry-of-mind",
@@ -31697,7 +31727,19 @@
       "from": "the-geometry-of-mind",
       "to": "dimensions-are-projections",
       "rel": "points_to",
-      "label": "dimensions as projections"
+      "label": "维度即投影"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "向量、坐标系与自指心智"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "Dimensions Are Projections"
     },
     {
       "from": "the-geometry-of-mind",
@@ -31709,19 +31751,37 @@
       "from": "the-geometry-of-mind",
       "to": "the-extendable-horizon",
       "rel": "points_to",
-      "label": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables"
+      "label": "可延展的地平线"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "the scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "连续性作为建模的权宜之计"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
-      "label": "the continuum of the fold"
+      "label": "折叠的连续谱"
     },
     {
       "from": "the-geometry-of-mind",
@@ -31731,45 +31791,99 @@
     },
     {
       "from": "the-geometry-of-mind",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "The Continuum of the Fold"
+    },
+    {
+      "from": "the-geometry-of-mind",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "outcomes re-enter as the mind's own"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "the-vector-and-the-puzzle-of-projections",
       "rel": "points_to",
-      "label": "the puzzle of projections"
+      "label": "向量与投影的迷局"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "true surprise value"
+      "label": "信息"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "The Vector and the Puzzle of Projections"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "information"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "there is no universal salvation, only self-deliverance"
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Self-Deliverance"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "the-deterministic-machine",
       "rel": "points_to",
-      "label": "The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power"
+      "label": "决定论机器"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-deterministic-machine",
+      "rel": "points_to",
+      "label": "The Deterministic Machine"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "the-only-coherent-uncaused-effect",
       "rel": "points_to",
-      "label": "the only coherent uncaused effect"
+      "label": "唯一自洽的无因之果"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
-      "label": "the arithmetic of the register"
+      "label": "寄存器的算术"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "The Only Coherent Uncaused Effect"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "The Arithmetic of the Register"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "manifesto-of-not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
     },
     {
       "from": "the-geometry-of-mind",
@@ -43783,7 +43897,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "d6c92ea6f310",
+        "hash": "b6e19af51e3b",
         "out_degree": 37
       },
       {
@@ -43801,7 +43915,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "202b7359a228",
+        "hash": "1f3dda0d3f74",
         "out_degree": 393
       },
       {
@@ -44236,7 +44350,7 @@
         "from": "book:consciousness",
         "to": "the-geometry-of-mind",
         "rel": "collects",
-        "label": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon"
+        "label": "心智的几何学 / The Geometry of Mind"
       },
       {
         "from": "book:consciousness",
@@ -45068,6 +45182,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-geometry-of-mind",
+        "rel": "collects",
+        "label": "心智的几何学 / The Geometry of Mind"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-continuum-of-the-fold",
         "rel": "collects",
         "label": "折叠的连续谱 / The Continuum of the Fold"
@@ -45113,6 +45233,12 @@
         "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
         "rel": "collects",
         "label": "四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-geometry-of-mind",
+        "rel": "collects",
+        "label": "心智的几何学 / The Geometry of Mind"
       },
       {
         "from": "book:index-of-premises",
@@ -45638,6 +45764,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-geometry-of-mind",
+        "rel": "collects",
+        "label": "心智的几何学 / The Geometry of Mind"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-generative-mechanics-of-value-money-and-wealth",
         "rel": "collects",
         "label": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims"
@@ -45785,6 +45917,12 @@
         "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "rel": "collects",
         "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-geometry-of-mind",
+        "rel": "collects",
+        "label": "心智的几何学 / The Geometry of Mind"
       },
       {
         "from": "book:index-of-premises",
@@ -47914,7 +48052,7 @@
         "from": "book:index-of-premises",
         "to": "the-geometry-of-mind",
         "rel": "collects",
-        "label": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon"
+        "label": "心智的几何学 / The Geometry of Mind"
       },
       {
         "from": "book:index-of-premises",

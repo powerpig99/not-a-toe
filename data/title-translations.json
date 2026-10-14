@@ -133,10 +133,6 @@
       "title_zh": "宏观现象的生成图谱",
       "subtitle_zh": "因果是现实唯一的基元，无始无终，只受观察者有限却流动的认识视界约束。"
     },
-    "the-geometry-of-mind": {
-      "title_zh": "心智的几何学",
-      "subtitle_zh": "真正的成长既不是加固自我，也不是虚无地抹去自我，而是让局部的感知对齐整个生成的现实场。"
-    },
     "the-geometry-of-success": {
       "title_zh": "成功的几何学",
       "subtitle_zh": "成功不是在固定棋盘上赢下既有的比赛，而是在别人觉得有趣之前，异步迁入尚未测绘的领地。"
@@ -421,6 +417,10 @@
     "agency-compounding-and-the-argument-over-ai-feudalism": {
       "title_zh": "能动性、复利与关于 AI 封建主义的争论",
       "subtitle_zh": "关于超级智能是否会关闭社会流动的争论，把有限的起点截距误当成动态的改进速率；AI 自身没有能动性，只是加速个体本已维持的强化回路。"
+    },
+    "the-mirage-of-the-infinite-totality": {
+      "title_zh": "无穷总体的海市蜃楼",
+      "subtitle_zh": "无穷描述的是感知不断扩展其地平线的、取之不尽的潜能，而不是坐在经验之外的一件完成了的宇宙对象；现实是已经实现为区分的那一片潜能。"
     }
   }
 }
