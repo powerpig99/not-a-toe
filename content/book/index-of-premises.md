@@ -2058,11 +2058,11 @@ Assumes that target affective states can be retrieved on command as prerequisite
 ### 概念对具身体验的僭越 / Conceptual Usurpation of Sensation
 `哲学 / Philosophical`
 
-唯理主义常将直接的身体感受斥为非理性的杂音；概念模型只是次生的认知压缩，其合法性恰恰取资于最质朴的躯体感知。
+唯理主义把概念模型放在切身感受之上，把错误与负面情绪当作要清除的噪声；它在测绘被当成地形、回传的信号被丢弃之处到了边界，作为导航用的局部测绘，概念始终好用。
 
-Intellectualism disparages direct emotional sensations as irrational errors; conceptual models are secondary compressions, whose legitimacy derives from the ground of primary somatic experience.
+Intellectualism ranks the conceptual model above felt experience and treats error and negative emotion as noise to be cleared; it reaches its boundary where the survey is taken for the terrain and the returning signal is thrown away, and as a local survey for navigating, the concept stays useful.
 
-→ [破除概念的僭越：第一人称、因果之矢与未完的现实](../../posts/po-chu-gai-nian-de-jian-yue/)
+→ [破除概念的僭越 / Breaking the Overreach of Concepts](../../posts/po-chu-gai-nian-de-jian-yue/)
 
 ### 条件式自我价值感 / Conditional Self-Worth
 `成功学 / Self-Help`
