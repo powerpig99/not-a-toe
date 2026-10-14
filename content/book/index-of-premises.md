@@ -2319,11 +2319,11 @@ Standardized education presumes knowledge consists of modular syllabi; it transm
 ### 防御性隐形外部归因 / Defensive External Attribution
 `成功学 / Self-Help`
 
-脆弱的自尊假定把挫折甩锅给运气便能保全颜面；向外归咎虽能暂时掩盖羞耻，却切断了汲取因果反馈以实现迭代的可能。
+说“我这个人 Ego 太大”，看似向内反省，在承认一种性格倾向时有用；它在此到了边界：把当下拒绝改变归给一个固有的“Ego”实体，是隐性的外部归因，事实上每一刻只有打开或关闭接口的二元选择，刚性的自尊不是力量，而是认知位宽不足时的硬性封锁。
 
-Fragile ego defenses assume attributing failures to bad luck preserves internal worth; externalizing fault shields the self-image from shame while blinding the agent to instructive causal feedback.
+Saying "I have too big an Ego" looks like looking inward and is of use in admitting a tendency of character; it reaches its boundary in that crediting a present refusal to change to a fixed "Ego" entity is hidden external attribution, when at each moment there is only the binary choice to open or close the interface, and rigid self-esteem is not strength but the hard lock of too little cognitive bandwidth.
 
-→ [自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)
+→ [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)
 
 ### 委托代理的资产管理 / Delegated Asset Management
 `经济 / Economic`

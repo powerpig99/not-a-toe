@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T22:07:55.941Z",
+    "generated_at": "2026-10-14T22:12:29.133Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -399,12 +399,12 @@
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "e4aab029e499",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "edb2618d9902",
       "content/posts/zi-you-de-ce-bu-zhun.md": "5e61e170d117",
-      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "9ce16a51283f",
+      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "6cc7c36374ce",
       "content/book/consciousness.md": "374c33a2478e",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "8c77e4e74536",
+      "content/book/index-of-premises.md": "59517d8d76d1",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "242fc0e02bd2",
       "content/book/life-and-statistics.md": "57d582e7bf12",
@@ -415,12 +415,12 @@
       "content/book/physics.md": "4dc78b4befa1",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "583610a3fc34",
-      "content/book/success-and-the-self.md": "8f013adf8b98",
+      "content/book/success-and-the-self.md": "11db414e763c",
       "content/book/tools-and-progress.md": "ecdce6e731a7"
     },
     "stats": {
       "posts": 393,
-      "edges": 6013,
+      "edges": 6028,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -9822,8 +9822,8 @@
       "kind": "post",
       "slug": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "path": "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md",
-      "title": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择",
-      "hash": "9ce16a51283f",
+      "title": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution",
+      "hash": "f5883c9440fb",
       "in_degree": 15,
       "out_degree": 15,
       "links_out": [
@@ -45830,51 +45830,111 @@
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "rel": "points_to",
+      "label": "The Unfrictioned Mind and Borrowed Omnipotence"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "真正的有效信息"
+      "label": "信息是什么"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
-      "label": "自由的测不准：微观主权、统计涌现与自由意志的佯谬"
+      "label": "自由的测不准"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "The Uncertainty of Freedom"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "自我意象假装来自无处之境"
+      "label": "自我形象仿佛从无处发声"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超越性的僵化意象"
+      "label": "超验的定相"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "rel": "points_to",
-      "label": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏"
+      "label": "投资决策的因果闭环"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "rel": "points_to",
+      "label": "The Causal Loop of Investment Decisions"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "curiosity-has-no-final-form",
       "rel": "points_to",
-      "label": "好奇心没有最终形态"
+      "label": "好奇没有最终的形态"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "Curiosity Has No Final Form"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "彻头彻尾的因果律"
+      "label": "因果贯穿始终"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
       "rel": "points_to",
       "label": "观察的因果僭越与第一人称的收益差"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "rel": "points_to",
+      "label": "The Causal Overstep of Observation and the First-Person Surplus"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
@@ -45886,7 +45946,19 @@
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "从目的性的评判看认知缺失"
+      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
@@ -45896,15 +45968,33 @@
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Breaking the Overreach of Concepts"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
-      "label": "从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制"
+      "label": "从形式迷思到逻辑闭环"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "From the Myth of Form to the Closed Loop of Logic"
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",
@@ -45978,7 +46068,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "8c77e4e74536",
+        "hash": "59517d8d76d1",
         "out_degree": 393
       },
       {
@@ -46077,7 +46167,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "8f013adf8b98",
+        "hash": "11db414e763c",
         "out_degree": 33
       },
       {
@@ -48603,7 +48693,7 @@
         "from": "book:index-of-premises",
         "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "rel": "collects",
-        "label": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择"
+        "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
       },
       {
         "from": "book:index-of-premises",
@@ -52149,7 +52239,7 @@
         "from": "book:success-and-the-self",
         "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "rel": "collects",
-        "label": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择"
+        "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
       },
       {
         "from": "book:success-and-the-self",
