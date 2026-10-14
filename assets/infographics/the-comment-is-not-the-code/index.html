@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Infographic, picture by an image model</title>
+<style>
+  @font-face { font-family: "Info Sans"; font-weight: 300 900; src: url("../fonts/info-sans.latin.woff2") format("woff2"); unicode-range: U+0000-024F, U+2000-206F, U+20A0-20CF, U+2190-21FF; }
+  @font-face { font-family: "Info Sans"; font-weight: 100 900; src: url("./info-sans.zh.woff2") format("woff2"); unicode-range: U+2E80-9FFF, U+3000-303F, U+FF00-FFEF; }
+  :root { --paper: #f0e5c5; --navy: #1d2147; --ink: #262a50; --green: #2f8a4c; --violet: #6d4fc4; --gold: #a8780e; --coral: #d9503f; --sky: #2a7fc4; }
+  html, body { margin: 0; background: var(--paper); }
+  body { width: 1024px; height: 1024px; overflow: hidden; position: relative; color: var(--ink); font-family: "Info Sans", "Figtree", "Avenir Next", "Noto Sans CJK SC", sans-serif; }
+  .zh { font-family: "Info Sans", "Noto Sans CJK SC", "PingFang SC", sans-serif; }
+  svg.art { position: absolute; left: 0; top: 0; }
+  .pic { position: absolute; left: 202px; top: 150px; width: 620px; height: 620px; -webkit-mask-image: radial-gradient(closest-side, #000 82%, transparent 100%); mask-image: radial-gradient(closest-side, #000 82%, transparent 100%); }
+  .head { position: absolute; top: 30px; width: 450px; }
+  .head h2 { margin: 0 0 6px; font-size: 29px; font-weight: 700; color: var(--navy); }
+  .head p { margin: 0; font-size: 16.5px; line-height: 1.34; }
+  .zh .head h2 { font-size: 30px; letter-spacing: 0.04em; } .zh .head p { font-size: 17px; line-height: 1.5; }
+  .head b, .call b { color: var(--c); font-weight: 700; }
+  .call { position: absolute; }
+  .call h3 { margin: 0 0 4px; font-size: 16px; line-height: 1.2; font-weight: 700; color: var(--c); }
+  .call p { margin: 0; font-size: 13.4px; line-height: 1.34; }
+  .zh .call h3 { font-size: 17px; } .zh .call p { font-size: 14.2px; line-height: 1.5; }
+  .call.l { text-align: right; }
+  .use { position: absolute; left: 44px; top: 778px; width: 936px; box-sizing: border-box; background: #e2f0e2; border-radius: 34px; padding: 12px 28px 13px; display: flex; gap: 18px; align-items: center; }
+  .use h3 { margin: 0; font-size: 17px; font-weight: 700; color: var(--green); white-space: nowrap; }
+  .use p { margin: 0; font-size: 14.4px; line-height: 1.36; }
+  .zh .use p { font-size: 15px; line-height: 1.5; }
+  .banner { position: absolute; left: 0; top: 878px; width: 1024px; height: 146px; background: var(--navy); color: #fff; text-align: center; }
+  .banner h1 { margin: 20px 60px 6px; font-size: 30px; line-height: 1.2; font-weight: 700; }
+  .zh .banner h1 { line-height: 1.3; font-size: 32px; letter-spacing: 0.06em; }
+  .banner .claim { font-size: 18px; color: #f3d57a; margin: 0 70px; line-height: 1.35; }
+  .zh .banner .claim { font-size: 19px; }
+  .banner .url { position: absolute; left: 0; right: 0; bottom: 9px; font: 11px "DejaVu Sans Mono", ui-monospace, monospace; color: #8f93c4; }
+</style>
+</head>
+<body>
+<img class="pic" src="art.jpg" alt="">
+<svg class="art" width="1024" height="1024" viewBox="0 0 1024 1024"><g id="leads" fill="none" stroke="#1d2147" stroke-width="1.6"></g></svg>
+
+<div class="head" style="left: 40px; --c: var(--gold)"><h2 data-k="h_belief"></h2><p data-k="belief"></p></div>
+<div class="head" style="left: 536px; --c: var(--coral)"><h2 data-k="h_stops"></h2><p data-k="stops"></p></div>
+
+<div class="call l" style="left: 14px; top: 236px; width: 196px; --c: var(--gold)"><h3 data-k="c1h"></h3><p data-k="c1"></p></div>
+<div class="call" style="left: 800px; top: 172px; width: 210px; --c: var(--navy)"><h3 data-k="c2h"></h3><p data-k="c2"></p></div>
+<div class="call" style="left: 800px; top: 300px; width: 210px; --c: var(--green)"><h3 data-k="c3h"></h3><p data-k="c3"></p></div>
+<div class="call" style="left: 800px; top: 440px; width: 210px; --c: var(--sky)"><h3 data-k="c4h"></h3><p data-k="c4"></p></div>
+<div class="call l" style="left: 14px; top: 560px; width: 196px; --c: var(--violet)"><h3 data-k="c5h"></h3><p data-k="c5"></p></div>
+<div class="call" style="left: 800px; top: 598px; width: 210px; --c: var(--coral)"><h3 data-k="c6h"></h3><p data-k="c6"></p></div>
+
+<div class="use"><h3 data-k="h_use"></h3><p data-k="use"></p></div>
+<div class="banner"><h1 data-k="title"></h1><div class="claim" data-k="claim"></div><div class="url">powerpig99.github.io/not-a-toe/posts/the-comment-is-not-the-code/</div></div>
+
+<script>
+const S = {
+  en: {
+    h_belief: 'The belief', belief: 'A comment beside the code carries intent <b>as fixedly as the code runs</b>.',
+    h_stops: 'Where it stops', stops: 'A comment is the writer’s living context <b>compressed and released</b>. Every reader, model and later self rebuilds an intent from it under their own priors. No reading recovers the writing.',
+    c1h: 'Written under the writer’s priors', c1: 'The cold-start incident, the vendor’s undocumented behavior, the deadline: they stay outside the text. To the writer, comment and code register as aligned.',
+    c2h: 'Code runs, the note is rebuilt', c2: 'Running the code shows its behavior. The comment yields nothing until a reader rebuilds an intent from it.',
+    c3h: 'Each reading rebuilds', c3: 'A second developer reads a permanent requirement, a stale hack, or a claim with nothing to check. The writer, six months on, reads it with less certainty.',
+    c4h: 'The agent recombines', c4: 'One keeps the retry, one removes it, one asks: preconditions recombined within a signature set by human choices. Seeded randomness is still programmed.',
+    c5h: 'The diff is a proposal', c5: 'Human choice starts the run, steps in along it, and ends it. The diff is code, so running it is part of the check; it lands only through accept, reject, ignore or reprompt.',
+    c6h: 'Signal, or authority', c6: 'Held as signal, the note is checked against the API, the contract, the incident. Held as authority, it stands in for the check.',
+    h_use: 'What stays useful', use: 'The extra signal a comment hands the deciding Mind: an external contract, a historical decision, a bug in someone else’s system, what types, names and tests hold least. As signal, it points to the check.',
+    title: 'The Comment Is Not the Code', claim: 'A comment, like an agent’s diff, is signal to the deciding Mind; held as authority, it stands in for the check.',
+  },
+  zh: {
+    h_belief: '信念', belief: '写在代码旁的注释，<b>与代码运行一样确定地</b>携带意图。',
+    h_stops: '它在何处止步', stops: '注释是写作者落笔时的鲜活语境，<b>被压缩、放出</b>。每个读者、模型与重读的写作者，都在各自的先验下重建出一个意图。没有哪一次阅读能找回那次书写。',
+    c1h: '写在写作者的先验之下', c1: '那次冷启动事故、供应商没写进文档的行为、截止日期，都留在文本之外。在写作者那里，注释与代码登记为一致。',
+    c2h: '代码可运行，注释靠重建', c2: '运行代码，就登记到它的行为。注释则要等读者从中重建出意图，才给出东西。',
+    c3h: '每次阅读都在重建', c3: '第二位开发者读出一条永久要求、一个过时补丁，或一句无从核对的断言；六个月后重读的写作者，把握不如预想。',
+    c4h: '智能体重新组合', c4: '一个保留重试，一个删掉，一个发问：前置条件在人的抉择设定的签名之内重新组合。种子随机仍是编出来的随机。',
+    c5h: '差异是提议', c5: '人的抉择开启运行、途中介入、最后收尾。差异就是代码，运行它是检验的一部分；经由接受、拒绝、搁置或重新提示，它才落地。',
+    c6h: '信号，或权威', c6: '作为信号持有，注释被拿去对照 API、契约与那次事故；作为权威持有，它便顶替了检验。',
+    h_use: '仍然有用的', use: '注释交给做决定的心智的额外信号：一份外部契约、一个历史决定、别人系统里的一个 bug，正是类型、命名和测试最难承载的东西。作为信号，它指向检验。',
+    title: '注释不是代码', claim: '注释和智能体交回的差异一样，是给做决定的心智的信号；当作权威，它就顶替了检验。',
+  },
+};
+const lang = new URLSearchParams(location.search).get('lang') === 'zh' ? 'zh' : 'en', W = S[lang];
+document.documentElement.lang = lang;
+document.body.classList.toggle('zh', lang === 'zh');
+for (const el of document.querySelectorAll('[data-k]')) el.innerHTML = W[el.dataset.k];
+const at = (x, y) => [Math.round(202 + x * 0.6055), Math.round(150 + y * 0.6055)];
+const lead = ([x0, y0], [x1, y1]) => `<path d="M${x0} ${y0}L${x1} ${y1}"/><circle cx="${x1}" cy="${y1}" r="4" fill="#f0e5c5"/>`;
+document.getElementById('leads').innerHTML =
+  lead([214, 262], at(190, 330)) +   // the thought cloud
+  lead([796, 200], at(560, 410)) +   // the gold comment bar
+  lead([796, 326], at(810, 385)) +   // the older writer
+  lead([796, 466], at(880, 505)) +   // the robot reader
+  lead([214, 588], at(640, 640)) +   // the diff sheet handed over
+  lead([796, 624], at(810, 670));    // the magnifier over the connector
+</script>
+</body>
+</html>
