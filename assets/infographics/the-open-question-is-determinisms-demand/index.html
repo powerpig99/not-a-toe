@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Infographic, picture by an image model</title>
+<style>
+  @font-face { font-family: "Info Sans"; font-weight: 300 900; src: url("../fonts/info-sans.latin.woff2") format("woff2"); unicode-range: U+0000-024F, U+2000-206F, U+20A0-20CF, U+2190-21FF; }
+  @font-face { font-family: "Info Sans"; font-weight: 100 900; src: url("./info-sans.zh.woff2") format("woff2"); unicode-range: U+2E80-9FFF, U+3000-303F, U+FF00-FFEF; }
+  :root { --paper: #f0e8d1; --navy: #1d2147; --ink: #262a50; --soft: #5a5d80; --green: #2f8a4c; --violet: #6d4fc4; --gold: #c08a12; --coral: #d9503f; --sky: #2a7fc4; }
+  html, body { margin: 0; background: var(--paper); }
+  body { width: 1024px; height: 1024px; overflow: hidden; position: relative; color: var(--ink); font-family: "Info Sans", "Avenir Next", "Helvetica Neue", "PingFang SC", sans-serif; }
+  .zh { font-family: "Info Sans", "PingFang SC", "Avenir Next", sans-serif; }
+  svg.art { position: absolute; left: 0; top: 0; }
+  .pic { position: absolute; left: 162px; top: 132px; width: 700px; height: 700px; -webkit-mask-image: radial-gradient(closest-side, #000 82%, transparent 100%); mask-image: radial-gradient(closest-side, #000 82%, transparent 100%); }
+  .head { position: absolute; top: 34px; width: 440px; }
+  .head h2 { margin: 0 0 8px; font-size: 31px; font-weight: 700; color: var(--navy); letter-spacing: -0.01em; }
+  .head p { margin: 0; font-size: 17.5px; line-height: 1.34; color: var(--ink); }
+  .zh .head h2 { font-size: 32px; letter-spacing: 0.04em; } .zh .head p { font-size: 18px; line-height: 1.5; }
+  .head b { color: var(--c); font-weight: 700; }
+  .call { position: absolute; width: 196px; }
+  .call h3 { margin: 0 0 4px; font-size: 16.5px; line-height: 1.2; font-weight: 700; color: var(--c); }
+  .call p { margin: 0; font-size: 13.8px; line-height: 1.36; color: var(--ink); }
+  .zh .call h3 { font-size: 17.5px; } .zh .call p { font-size: 14.5px; line-height: 1.5; }
+  .call.r { text-align: left; } .call.l { text-align: right; }
+  .use { position: absolute; left: 44px; top: 784px; width: 936px; box-sizing: border-box; background: #e2f0e2; border-radius: 34px; padding: 13px 28px 14px; display: flex; gap: 18px; align-items: center; }
+  .use h3 { margin: 0; font-size: 17px; font-weight: 700; color: var(--green); white-space: nowrap; }
+  .use p { margin: 0; font-size: 14.6px; line-height: 1.36; }
+  .zh .use p { font-size: 15.2px; line-height: 1.5; }
+  .banner { position: absolute; left: 0; top: 878px; width: 1024px; height: 146px; background: var(--navy); color: #fff; text-align: center; }
+  .banner h1 { margin: 22px 60px 6px; font-size: 25px; line-height: 1.2; font-weight: 700; text-wrap: balance; }
+  .zh .banner h1 { font-size: 31px; letter-spacing: 0.06em; margin-top: 24px; }
+  .banner .claim { font-size: 19px; color: #f3d57a; }
+  .zh .banner .claim { font-size: 21px; margin-top: 10px; }
+  .banner .url { position: absolute; left: 0; right: 0; bottom: 9px; font: 10.5px ui-monospace, "SF Mono", Menlo, monospace; color: #8f93c4; }
+</style>
+</head>
+<body>
+<img class="pic" src="art.jpg" alt="">
+<svg class="art" width="1024" height="1024" viewBox="0 0 1024 1024"><g id="leads" fill="none" stroke="#1d2147" stroke-width="1.6"></g></svg>
+
+<div class="head" style="left: 44px; --c: var(--gold)"><h2 data-k="h_belief"></h2><p data-k="belief"></p></div>
+<div class="head" style="left: 540px; --c: var(--coral)"><h2 data-k="h_stops"></h2><p data-k="stops"></p></div>
+
+<div class="call l" style="left: 26px; top: 292px; width: 230px; --c: var(--green)"><h3 data-k="c1h"></h3><p data-k="c1"></p></div>
+<div class="call r" style="left: 566px; top: 186px; width: 256px; --c: var(--gold)"><h3 data-k="c2h"></h3><p data-k="c2"></p></div>
+<div class="call r" style="left: 806px; top: 330px; width: 200px; --c: var(--violet)"><h3 data-k="c3h"></h3><p data-k="c3"></p></div>
+<div class="call l" style="left: 14px; top: 470px; width: 228px; --c: var(--sky)"><h3 data-k="c4h"></h3><p data-k="c4"></p></div>
+<div class="call r" style="left: 806px; top: 516px; width: 200px; --c: var(--violet)"><h3 data-k="c5h"></h3><p data-k="c5"></p></div>
+<div class="call r" style="left: 620px; top: 662px; width: 340px; --c: var(--coral)"><h3 data-k="c6h"></h3><p data-k="c6"></p></div>
+
+<div class="use"><h3 data-k="h_use"></h3><p data-k="use"></p></div>
+<div class="banner"><h1 data-k="title"></h1><div class="claim" data-k="claim"></div><div class="url">powerpig99.github.io/not-a-toe/posts/the-open-question-is-determinisms-demand/</div></div>
+
+<script>
+const S = {
+  en: {
+    h_belief: 'The belief', belief: 'Evolution <b>chose</b> humans to be the most intelligent species. And whether a choice is determined or not <b>remains open</b>.',
+    h_stops: 'Where it stops', stops: 'The first needs <b>a chooser</b>, who can be taken out with nothing lost. The second needs <b>a finished choice</b> under a gaze that takes in all its conditions. No one holds that gaze.',
+    c1h: 'The description still holds', c1: 'Selection without a selector: individuals vary, leave different numbers of offspring, and lineages shift. Take the chooser out and nothing is lost.',
+    c2h: 'A borrowed word', c2: 'Darwin took “selection” from breeders, who do choose. Read back into a selector, “most intelligent” becomes its target rank, measured by the asker’s ruler.',
+    c3h: 'What is left behind', c3: 'A choice can be looked at only once the differentiating has moved on. The observer is not among the marks.',
+    c4h: 'Chooses for itself', c4: 'Each conscious being chooses one thing, another, or nothing at all, and bears what follows. Denying it is one more instance of it.',
+    c5h: 'A finished thing', c5: 'To ask whether a choice is fixed is to set it down as finished among its conditions. It stays open only if determinism is demanded.',
+    c6h: 'The source, not a first link', c6: 'Indeterminism is the source of deterministic claims: someone picks a system, its variables and a start, and asserts a rule. The source is the differentiating, under way.',
+    h_use: 'What stays useful', use: 'Natural selection traces kinship, drug resistance and the shape of a beak. Compatibilism tells a willing act from a coerced one, and praise, liability, contracts and courts run on it. Deterministic models keep prediction, engineering and testing.',
+    title: 'The Open Question Is Determinism’s Demand', claim: 'The choosing is not on the record.',
+  },
+  zh: {
+    h_belief: '信念', belief: '演化<b>选中了</b>人类，让人类做最聪明的物种。抉择是被决定的还是未被决定的，<b>尚无定论</b>。',
+    h_stops: '它在何处止步', stops: '前一个需要<b>一位选择者</b>，拿掉他，什么都不会少。后一个需要<b>一件已完成的抉择</b>，和一道把条件一次看全的目光。没有人握有这道目光。',
+    c1h: '描述照样成立', c1: '没有选择者的选择：个体有差别，后代有多有少，世系随之偏移。拿掉选择者，什么都不会少。',
+    c2h: '借来的词', c2: '达尔文从育种者那里借来“选择”，育种者确实在选。读回成一位选择者，“最聪明”就成了它瞄准的名次，用的是发问者自己的尺。',
+    c3h: '留在身后的', c3: '要查看一次抉择，区分已经往前去了。观察者不在留下的痕迹里。',
+    c4h: '为自己抉择', c4: '每一个有意识的生命选这一样，选另一样，或者什么都不选，并承担由此而来的一切。否认它，又是它的一个实例。',
+    c5h: '一件已完成的事', c5: '问抉择是否被固定，是把它当作已完成之事摆进条件之间。只有在索求决定论的时候，它才尚无定论。',
+    c6h: '是来源，不是第一环', c6: '不确定论是确定论断的来源：有人选定系统、变量与起点，断言一条规则。这个来源，是正在进行的区分。',
+    h_use: '仍然有用的', use: '自然选择用来追溯亲缘、抗药性与喙的形状。相容论分开自愿与胁迫，称许、追责、订约与法庭都靠它运转。决定论的模型照旧用于预测、工程与检验。',
+    title: '悬而未决是决定论的索求', claim: '抉择不在记录上。',
+  },
+};
+const lang = new URLSearchParams(location.search).get('lang') === 'zh' ? 'zh' : 'en', W = S[lang];
+document.documentElement.lang = lang;
+document.body.classList.toggle('zh', lang === 'zh');
+for (const el of document.querySelectorAll('[data-k]')) el.innerHTML = W[el.dataset.k];
+
+// Leaders from each callout to its part of the picture (the picture's 1024 px scaled to 700 at 162,132).
+const at = (x, y) => [Math.round(162 + x * 0.684), Math.round(132 + y * 0.684)];
+const lead = ([x0, y0], [x1, y1]) => `<path d="M${x0} ${y0}L${x1} ${y1}"/><circle cx="${x1}" cy="${y1}" r="4" fill="#f0e8d1"/>`;
+document.getElementById('leads').innerHTML =
+  lead([262, 340], at(352, 470)) +   // the surveyed ring
+  lead([560, 292], at(540, 300)) +   // the slab
+  lead([802, 372], at(700, 412)) +   // the wake
+  lead([248, 548], at(222, 640)) +   // the figure at the fork
+  lead([802, 556], at(812, 520)) +   // the cube
+  lead([616, 690], at(512, 780));    // the point below the strata
+</script>
+</body>
+</html>

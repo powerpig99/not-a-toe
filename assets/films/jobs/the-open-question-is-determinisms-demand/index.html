@@ -1,0 +1,691 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>The Open Question</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..700;1,6..96,400..700&family=Hanken+Grotesk:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+SC:wght@500;700&family=Noto+Sans+SC:wght@400;500&display=swap">
+<style>
+/* a single dark "night chart" theatre, as in the book atlas: deliberately one theme */
+:root{color-scheme:dark;--ink:#05070d;--deck:#0a0e18;--rule:#222b40;--fg:#e8ecf5;--muted:#8d97b1;--brass:#ffd38a}
+html,body{margin:0;height:100%;background:var(--ink);color:var(--fg);overflow:hidden}
+#stage{position:fixed;display:block;cursor:pointer}
+#bar{position:fixed;left:0;right:0;bottom:0;height:calc(58px + env(safe-area-inset-bottom,0px));box-sizing:border-box;display:flex;align-items:center;gap:12px;padding:0 14px env(safe-area-inset-bottom,0px);background:var(--deck);border-top:1px solid var(--rule);font:500 12px/1 "IBM Plex Mono",ui-monospace,Menlo,monospace;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+#bar[hidden],#bar [hidden]{display:none}
+#bar button{all:unset;cursor:pointer;padding:8px 11px;border:1px solid var(--rule);border-radius:3px;color:var(--fg);white-space:nowrap}
+#bar button[aria-pressed="true"]{border-color:var(--brass);color:var(--brass)}
+#bar button[aria-pressed="false"]{color:var(--muted)}
+#bar button:focus-visible{outline:2px solid var(--brass);outline-offset:2px}
+#time{font-variant-numeric:tabular-nums;white-space:nowrap}
+#seek{position:relative;flex:1 1 80px;min-width:40px;height:30px;cursor:pointer}
+#seek::before{content:"";position:absolute;left:0;right:0;top:14px;height:2px;background:var(--rule)}
+#seekfill{position:absolute;left:0;top:14px;height:2px;background:var(--brass);width:0}
+@media (max-width:520px){#bar{gap:8px;padding:0 10px}#bar button{padding:8px 8px}}
+</style></head><body>
+<canvas id="stage" width="1920" height="1080" aria-label="Animated film: The Open Question Is Determinism’s Demand"></canvas>
+<div id="bar"><button id="play" type="button">Play</button><span id="time">0:00</span><div id="seek"><div id="seekfill"></div></div><button id="cc" type="button" aria-pressed="true">CC</button><button type="button" data-lang="en">EN</button><button type="button" data-lang="zh">中文</button></div>
+<audio id="audio" preload="auto"></audio>
+<script>
+"use strict";
+const TL = {"en":{"total":408.44,"beats":[{"id":"b01","plate":1,"start":0.8,"dur":26.56,"lines":[{"t":1.12,"d":3.76,"text":"Why did evolution choose humans to be the most intelligent species?"},{"t":5.68,"d":5.12,"text":"The question presupposes a chooser, and that part can be taken out with nothing lost."},{"t":11.2,"d":6.72,"text":"A second premise cannot be taken out: each conscious being chooses for itself and bears the consequences."},{"t":18.48,"d":8.72,"text":"And when the reply comes that this still leaves open whether a choice is determined or not, that openness is already determinism's demand."}]},{"id":"b02","plate":1,"start":28.06,"dur":15.52,"lines":[{"t":28.46,"d":1.2,"text":"Start with the question."},{"t":29.98,"d":3.76,"text":"It supposes that humans were chosen, by someone or by something."},{"t":34.3,"d":3.12,"text":"Once that is accepted, only the chooser can answer."},{"t":37.82,"d":5.6,"text":"The chosen cannot: asking the chosen is asking for a report from a seat it never occupied."}]},{"id":"b03","plate":1,"start":44.28,"dur":38.56,"lines":[{"t":44.68,"d":4.96,"text":"The word selection was borrowed by Darwin from breeders, and breeders do choose."},{"t":50.12,"d":2.56,"text":"The theory kept the word and removed the breeder."},{"t":53.16,"d":5.04,"text":"Individuals vary, they leave different numbers of offspring, and lineages shift."},{"t":58.84,"d":6.88,"text":"People trace kinship with this, and the spread of drug resistance, and the shape of a beak, with no foresight anywhere."},{"t":66.28,"d":6.48,"text":"The trouble begins where the word is read back into a selector, and most intelligent into the rank that selector was aiming at."},{"t":73.48,"d":2.96,"text":"The ruler behind that rank belongs to whoever asks."},{"t":76.84,"d":2.96,"text":"Take the chooser out, and the description still holds."},{"t":80.28,"d":2.4,"text":"That is the mark of a premise that can be dropped."}]},{"id":"b04","plate":1,"start":83.54,"dur":17.92,"lines":[{"t":83.94,"d":1.36,"text":"What remains is this."},{"t":85.86,"d":2.08,"text":"No one else makes the choice for anyone."},{"t":88.42,"d":6.56,"text":"Each conscious being chooses for itself, one thing, another, or nothing at all, and bears what follows."},{"t":95.54,"d":3.2,"text":"Agency is no late product of the evolutionary story."},{"t":99.14,"d":2.08,"text":"The one telling that story is an agent."}]},{"id":"b05","plate":2,"start":103.06,"dur":26.4,"lines":[{"t":103.46,"d":4.4,"text":"Hand this to a language model, and it handles it as a claim to be weighed."},{"t":108.42,"d":7.12,"text":"Handling it so is a choice as well, made by the people who built the model and set its goals, its data and its tests."},{"t":116.18,"d":1.28,"text":"The model does not make it."},{"t":118.02,"d":3.04,"text":"Accepting the output makes it the user's own choice."},{"t":121.54,"d":7.76,"text":"Rejecting it, ignoring it, asking again in other words: each is a choice, and its consequences fall to the user."}]},{"id":"b06","plate":2,"start":130.16,"dur":24.32,"lines":[{"t":130.48,"d":3.04,"text":"Now try to drop this premise as the first was dropped."},{"t":134,"d":4.4,"text":"There is one way: to say the denial was not chosen, that it was forced."},{"t":138.88,"d":3.44,"text":"But the denial is something the speaker is doing, and answers for."},{"t":142.32,"d":2.88,"text":"Any refutation is already another instance."},{"t":145.76,"d":3.28,"text":"Under one test, the two premises go opposite ways."},{"t":149.44,"d":2.32,"text":"The chooser drops out and nothing changes."},{"t":152.16,"d":2.16,"text":"This one comes back in the act of dropping it."}]},{"id":"b07","plate":3,"start":156.08,"dur":26.24,"lines":[{"t":156.48,"d":8.88,"text":"The step that usually follows grants all of this and adds: it does not settle whether such choices are determined, undetermined, or something else."},{"t":165.84,"d":1.52,"text":"Two readings are said to fit."},{"t":168,"d":3.2,"text":"In one, the choice is not fixed by what came before."},{"t":171.6,"d":5.6,"text":"In the other it is fixed by prior conditions and laws, and still counts as the agent's own."},{"t":178,"d":4.16,"text":"Since Hobbes and Hume that second reading has been called compatibilism."}]},{"id":"b08","plate":3,"start":183.02,"dur":18.88,"lines":[{"t":183.42,"d":1.76,"text":"Compatibilism has its use."},{"t":185.66,"d":12.4,"text":"People tell what is done from one's own reasons apart from what is done under threat, and on that they praise, hold liable, make contracts, and bring up children, without waiting for any account of the source."},{"t":198.62,"d":3.12,"text":"Courts and everyday dealings run on that distinction."}]},{"id":"b09","plate":3,"start":202.6,"dur":30.72,"lines":[{"t":203,"d":2.16,"text":"Its boundary lies in the word fixed."},{"t":205.64,"d":8.32,"text":"To ask whether a choice is fixed is to ask about it as a finished thing, set among its prior conditions, under a gaze that takes them all in at once."},{"t":214.52,"d":1.44,"text":"No one holds that gaze."},{"t":216.52,"d":2.8,"text":"The choice already arrived at is the open origin."},{"t":219.72,"d":6.08,"text":"Asking whether it is really fixed requires a fixedness to be there in advance, for it to have or to lack."},{"t":226.28,"d":3.04,"text":"It only stays unsettled if determinism is demanded."},{"t":229.8,"d":3.36,"text":"To assert that it is unsettled slips the hidden premise back in."}]},{"id":"b10","plate":3,"start":234.02,"dur":23.2,"lines":[{"t":234.42,"d":5.76,"text":"The neutral reply is that incompatibility is a further claim, one that has to be argued."},{"t":240.58,"d":5.76,"text":"But bringing in a further claim that can be argued is one more instance of choosing, not a refutation."},{"t":247.14,"d":4.64,"text":"The reply also says the two readings differ in which state of affairs obtains."},{"t":252.34,"d":4.64,"text":"That again supposes a state of affairs already finished, standing there to obtain."}]},{"id":"b11","plate":4,"start":258.82,"dur":35.04,"lines":[{"t":259.22,"d":6.16,"text":"The neutral stance treats determinism and indeterminism as rivals, exactly one of them true."},{"t":265.86,"d":3.76,"text":"But indeterminism is not the absence of deterministic claims."},{"t":270.02,"d":1.04,"text":"It is their source."},{"t":271.78,"d":7.28,"text":"Every deterministic claim is issued: someone picks a system, its variables and a starting point, and asserts a rule."},{"t":279.78,"d":6.08,"text":"Inside such an account there is one continuation, so it can only place its other side as a rival."},{"t":286.18,"d":2.32,"text":"It has no room for the act that issued it."},{"t":289.22,"d":4.56,"text":"The models keep their use: prediction, engineering and testing rely on them."}]},{"id":"b12","plate":4,"start":294.56,"dur":28.32,"lines":[{"t":294.96,"d":5.68,"text":"The word source invites a picture: a fixed point upstream, the first link of a chain."},{"t":301.12,"d":2,"text":"The source is not fixed in that sense."},{"t":303.6,"d":8.16,"text":"It is the differentiating, as ongoing action: the ability to make a distribution, one thing, another, or nothing at all."},{"t":312.72,"d":3.76,"text":"To treat it as a fixed source is again a deterministic premise."},{"t":317.04,"d":5.68,"text":"It asks that the ability to distribute was itself distributed already, by conditions before it."}]},{"id":"b13","plate":5,"start":324.48,"dur":26.24,"lines":[{"t":324.8,"d":3.36,"text":"Where does the finished thing come from, the one that could be fixed?"},{"t":328.48,"d":3.2,"text":"What stops is what the differentiating leaves behind."},{"t":332.16,"d":7.28,"text":"To look at a choice, it is set down as a result, and the result can be seen because the differentiating has already moved on."},{"t":340,"d":10.64,"text":"The observer gets lost in its own observation: it accounts for what was left as though that were the source, and misses that the stopping, the looking and the accounting are further instances."}]},{"id":"b14","plate":5,"start":351.42,"dur":22.4,"lines":[{"t":351.82,"d":4.56,"text":"Whatever can be put down here is what has been left behind, these lines among it."},{"t":357.1,"d":2.24,"text":"The observer is not among the things left."},{"t":359.74,"d":5.76,"text":"Another observer can only infer it from them, while its awareness of itself passes through no inference."},{"t":366.06,"d":3.12,"text":"The observed other and the inferred other are not the same."},{"t":369.66,"d":4,"text":"And the inference always arrives later than the differentiating it looks for."}]},{"id":"b15","plate":5,"start":374.52,"dur":31.52,"lines":[{"t":374.92,"d":1.36,"text":"Back to the opening question."},{"t":376.68,"d":5.28,"text":"The chosen cannot give a chooser's reasons, and when the tracing is done no chooser turns up."},{"t":382.6,"d":4.24,"text":"What turns up is each being that chooses for itself and bears the consequences."},{"t":387.48,"d":6.4,"text":"Determined or undetermined asks a finished thing for a property, and the asking is the differentiating under way."},{"t":394.44,"d":9.36,"text":"Deterministic description and compatibilist responsibility keep their use among what is left behind: records, regularities, coordination between people."},{"t":404.36,"d":1.52,"text":"The choosing is not on the record."}]}]},"zh":{"total":303.16,"beats":[{"id":"b01","plate":1,"start":0.8,"dur":17.76,"lines":[{"t":0.96,"d":2.64,"text":"演化为什么选中了人类，让人类做最聪明的物种？"},{"t":4,"d":3.52,"text":"这个问题预设了一位选择者，这一部分可以拿掉，什么都不会少。"},{"t":7.92,"d":3.92,"text":"第二个前提拿不掉：每一个有意识的生命为自己抉择，并承担后果。"},{"t":12.24,"d":6.08,"text":"而当有人回答说，这仍然没有确定抉择是被决定的还是未被决定的，这份悬而未决，已经是决定论的索求。"}]},{"id":"b02","plate":1,"start":19.26,"dur":11.68,"lines":[{"t":19.42,"d":0.72,"text":"先看这个问题。"},{"t":20.62,"d":1.92,"text":"它预设人类是被某人或某物选中的。"},{"t":23.02,"d":2.64,"text":"预设一旦被接受，能回答的就只有那位选择者。"},{"t":26.14,"d":4.64,"text":"被选中的答不了：要它作答，等于向它索要一份来自它从未占据的位置的报告。"}]},{"id":"b03","plate":1,"start":31.64,"dur":27.36,"lines":[{"t":31.8,"d":3.92,"text":"选择这个词，是达尔文从育种者那里借来的，育种者确实在选。"},{"t":36.2,"d":1.92,"text":"理论留下了这个词，拿掉了育种者。"},{"t":38.44,"d":3.04,"text":"个体有差别，留下的后代有多有少，世系随之偏移。"},{"t":41.88,"d":4.48,"text":"人们用它追溯亲缘，解释抗药性的蔓延，解释喙的形状，全程不需要任何预见。"},{"t":46.76,"d":5.28,"text":"麻烦出在这个词被读回成一位选择者的地方，出在最聪明被读成这位选择者所瞄准的名次的地方。"},{"t":52.44,"d":2.24,"text":"名次所依的那把尺，是发问的人自己立的。"},{"t":55.08,"d":1.68,"text":"拿掉选择者，描述照样成立。"},{"t":57.24,"d":1.44,"text":"这就是一个可以拿掉的前提的标志。"}]},{"id":"b04","plate":1,"start":59.7,"dur":12.64,"lines":[{"t":59.86,"d":0.8,"text":"剩下的是这个。"},{"t":60.98,"d":1.28,"text":"没有别人替谁作出抉择。"},{"t":62.66,"d":5.68,"text":"每一个有意识的生命为自己抉择，选这一样，选另一样，或者什么都不选，并承担由此而来的一切。"},{"t":68.74,"d":1.52,"text":"主体不是演化故事后来的产物。"},{"t":70.66,"d":1.36,"text":"讲这个故事的，就是主体。"}]},{"id":"b05","plate":2,"start":73.94,"dur":20.64,"lines":[{"t":74.1,"d":4.08,"text":"把这段话交给一个语言模型，模型把它当作一个有待掂量的主张来处理。"},{"t":78.58,"d":6,"text":"这样处理也是一次抉择，作出它的是造出模型的人，他们定下了目标、数据与检验。"},{"t":84.98,"d":0.88,"text":"模型没有作出它。"},{"t":86.18,"d":2.88,"text":"使用者接受这个输出，输出就成了使用者自己的抉择。"},{"t":89.46,"d":4.96,"text":"拒绝它，不理它，换一种问法再问，每一样都是抉择，后果由使用者承担。"}]},{"id":"b06","plate":2,"start":95.28,"dur":18.56,"lines":[{"t":95.44,"d":2.56,"text":"现在照拿掉前一个那样，试着把这个前提也拿掉。"},{"t":98.48,"d":3.12,"text":"办法只有一种：说这次否认不是选的，是被迫的。"},{"t":101.92,"d":2.64,"text":"可是否认是说话的人正在做的事，也是他要为之负责的事。"},{"t":104.96,"d":2,"text":"任何反驳，都已经是它的又一个实例。"},{"t":107.36,"d":2.24,"text":"同一种检验之下，两个前提走向相反。"},{"t":109.84,"d":1.44,"text":"选择者拿掉了，什么都没变。"},{"t":111.76,"d":1.84,"text":"这一个，在拿掉它的动作里自己回来。"}]},{"id":"b07","plate":3,"start":115.44,"dur":19.68,"lines":[{"t":115.6,"d":7.12,"text":"接下来常见的一步，是承认以上各点，再补上一句：这并没有确定这样的抉择是被决定的，未被决定的，还是别的什么。"},{"t":123.12,"d":1.36,"text":"据说有两种读法都合得上。"},{"t":124.96,"d":1.84,"text":"一种认为抉择不被先前的事情固定。"},{"t":127.2,"d":4.4,"text":"另一种认为抉择被先在的条件与规律固定，却仍然算作行动者自己的抉择。"},{"t":132,"d":2.8,"text":"从霍布斯与休谟以来，后一种读法叫作相容论。"}]},{"id":"b08","plate":3,"start":135.82,"dur":13.92,"lines":[{"t":135.98,"d":1.04,"text":"相容论有它的用处。"},{"t":137.42,"d":9.12,"text":"人们用它分开出于自己的理由而做的事与在胁迫之下做的事，据此称许，追责，订约，教养孩子，不必先等任何关于来源的说法尘埃落定。"},{"t":146.94,"d":2.64,"text":"法庭与日常的交往，每天都靠这条区分运转。"}]},{"id":"b09","plate":3,"start":150.44,"dur":26.56,"lines":[{"t":150.6,"d":1.28,"text":"它的边界在固定这个词上。"},{"t":152.28,"d":8.24,"text":"问一次抉择是否被固定，是把它当作一件已经完成的事来问，把它摆进它的先在条件之间，并且设想有一道目光能把这些条件一次看全。"},{"t":161,"d":0.96,"text":"没有人握有这道目光。"},{"t":162.36,"d":1.92,"text":"已经走到的那个抉择，是开放的起点。"},{"t":164.68,"d":5.12,"text":"再问它究竟有没有被固定，是要求事先有一份固定摆在那里，好让它拥有或者缺少。"},{"t":170.2,"d":3.12,"text":"只有在索求决定论的时候，这件事才显得尚无定论。"},{"t":173.72,"d":3.2,"text":"断言它尚无定论，那个隐藏的前提就又滑了回来。"}]},{"id":"b10","plate":3,"start":177.7,"dur":15.2,"lines":[{"t":177.86,"d":3.36,"text":"中立的回答是：不相容是一个另外的主张，还需要论证。"},{"t":181.62,"d":4,"text":"可是引入一个可以争辩的另外的主张，是抉择的又一个实例，不是反驳。"},{"t":186.02,"d":2.96,"text":"这个回答还说，两种读法差在哪一种事态成立。"},{"t":189.38,"d":3.36,"text":"这又一次假定有一份事态已经完成，摆在那里等着成立。"}]},{"id":"b11","plate":4,"start":194.5,"dur":24.16,"lines":[{"t":194.66,"d":3.92,"text":"中立的立场把决定论与不确定论当作对手，其中恰有一个为真。"},{"t":198.98,"d":2.24,"text":"可是不确定论并不是确定论断的缺席。"},{"t":201.62,"d":1.2,"text":"它是确定论断的来源。"},{"t":203.22,"d":5.04,"text":"每一个确定论断都是被作出的：有人选定系统，变量与起点，断言一条规则。"},{"t":208.66,"d":4.16,"text":"在这样一份叙述之内只有一个后继，它只能把自己的另一面安置成对手。"},{"t":213.22,"d":2.08,"text":"它容纳不了作出这份叙述的那个动作。"},{"t":215.7,"d":2.8,"text":"模型照旧有用：预测，工程与检验都靠它。"}]},{"id":"b12","plate":4,"start":219.36,"dur":19.68,"lines":[{"t":219.52,"d":4.56,"text":"来源这个词容易招来一幅图画：上游有一个固定的点，一条链上的第一环。"},{"t":224.48,"d":1.6,"text":"这个来源不是那种意义上的固定。"},{"t":226.48,"d":5.12,"text":"它是作为持续动作的区分：作出一个分布的能力，选这一样，选另一样，或者什么都不选。"},{"t":232.08,"d":2.64,"text":"把它当成一个固定的来源，又是一个决定论的前提。"},{"t":235.12,"d":3.76,"text":"这等于要求，作出分布的能力自身，已经被先于它的条件分布好了。"}]},{"id":"b13","plate":5,"start":240.64,"dur":18.56,"lines":[{"t":240.8,"d":2.72,"text":"那件已经完成，可以被固定的事，是从哪里来的？"},{"t":243.92,"d":2.08,"text":"停下来的东西，是区分留在身后的东西。"},{"t":246.4,"d":5.36,"text":"要查看一次抉择，就得把它当作一个结果放下来，结果之所以看得见，是因为区分已经往前去了。"},{"t":252.16,"d":6.88,"text":"观察者迷失在自己的观察里：把留下的东西当作来源来交代，看不见停下，查看与交代，都是区分的又一个实例。"}]},{"id":"b14","plate":5,"start":259.9,"dur":17.12,"lines":[{"t":260.06,"d":4,"text":"凡是能在这里写下来的，都是留在身后的东西，这几行字也在其中。"},{"t":264.46,"d":1.76,"text":"观察者不在这些留下的东西里面。"},{"t":266.62,"d":4.56,"text":"另一个观察者只能从留下的东西把它推断出来，而它对自己的觉察不经推断。"},{"t":271.58,"d":2.88,"text":"被观察到的他者与被推断出的他者，不是同一个。"},{"t":274.86,"d":1.92,"text":"推断总是到得比它要找的区分晚。"}]},{"id":"b15","plate":5,"start":277.72,"dur":23.04,"lines":[{"t":277.96,"d":0.88,"text":"回到开头的问题。"},{"t":279.32,"d":4.24,"text":"被选中的说不出选择者的理由，而往回追的时候，也没有一位选择者出现。"},{"t":283.96,"d":2.56,"text":"出现的是每一个为自己抉择并承担后果的生命。"},{"t":287,"d":6.08,"text":"被决定还是未被决定，是向一件已完成的事索要一个性质，而索要这个动作，就是正在进行的区分。"},{"t":293.48,"d":5.92,"text":"决定论的描述与相容论的归责，在留下来的东西里各有其用：记录，规律，人与人之间的协调。"},{"t":299.64,"d":0.8,"text":"抉择不在记录上。"}]}]}};
+const SRC = {"en":"film.en.m4a","zh":"film.zh.m4a"};
+const CJK = "·一选择者可以拿掉的，描述照样成立演化中了人类让做最聪明物种差别后代世系被某背有位亲缘抗药性喙形状信念借来词用处前提检验剩下模型再次二悬而未决着那个问题只在索求定论时候它才显得尚无抉是还或自愿胁迫两读法都合上已完之事件道把条看全目光称许追责订约庭回答对手源不第环“”为什么？己承担果这份经：你文从育里确实留发尺并由此切另故讲就主体段话交给语言当作待掂量张标数据造没出接受使拒绝理每归同也试否认说正任何反驳又例变动固仍算相容霍布斯休谟握开放起点外需要证态其恰真断缺席们统规则继叙预测工程招链游意义区分持续能力好停身东西观察结查几行字推≠到他总晚现各进记录律协调。引子图版所边界溯播暂客日常内备始设部会少识生命然先旦等于向占置报告达尔多随偏移解释蔓延见麻烦地方瞄准名依志替谁产、与输换办负走步补句情却叫教养孩必关尘埃落往天靠运转摆间且想些究竟拥隐藏滑入争辩哪假场面安纳旧易幅画因去迷失凡写觉比找头质";
+// The drawing engine of the book atlas artifact (https://claude.ai/artifact/UeTdhdmhjvSoGGhiAfzcMu), taken without its
+// scenes, score and samples. Patched for two languages (tr, CJK wrapping, font fallbacks) and a larger label floor.
+const W=1920,H=1080,TAU=Math.PI*2;
+let LANG='en',BARE=false;
+const ZH={'held as objective':'被当作客观','its quiet form':'它的日常说法','where the premise sits':'前提所在','useful within':'界内有用','its incompleteness begins here':'不完备从这里开始'};
+const tr=s=>LANG==='zh'&&ZH[s]||s;
+const L=(en,zh)=>LANG==='zh'?zh:en;
+const clamp=(v,a=0,b=1)=>v<a?a:v>b?b:v;
+const lerp=(a,b,t)=>a+(b-a)*t;
+const eo=t=>1-Math.pow(1-clamp(t),3);
+const eio=t=>{t=clamp(t);return t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2};
+const eoe=t=>{t=clamp(t);return t===1?1:1-Math.pow(2,-10*t)};
+const eob=t=>{t=clamp(t);const c1=1.70158,c3=c1+1;return 1+c3*Math.pow(t-1,3)+c1*Math.pow(t-1,2)};
+const pr=(lt,a,d)=>clamp((lt-a)/d);
+const win=(lt,a,b,fi=.5,fo=.5)=>clamp((lt-a)/fi)*clamp((b-lt)/fo);
+function rng(seed){let s=seed>>>0;return()=>{s=(s+0x6D2B79F5)>>>0;let t=s;t=Math.imul(t^t>>>15,t|1);t^=t+Math.imul(t^t>>>7,t|61);return((t^t>>>14)>>>0)/4294967296}}
+function h2(i,j){let h=(Math.imul(i|0,374761393)+Math.imul(j|0,668265263))|0;h=Math.imul(h^(h>>>13),1274126177);return((h^(h>>>16))>>>0)/4294967296}
+function h3(i,j,k){return h2(i+Math.imul(k|0,1442695041),j)}
+function vn(x,y,z){const xi=Math.floor(x),yi=Math.floor(y),zi=Math.floor(z);const xf=x-xi,yf=y-yi,zf=z-zi;
+  const u=xf*xf*(3-2*xf),v=yf*yf*(3-2*yf),w=zf*zf*(3-2*zf);const c=(a,b,d)=>h3(xi+a,yi+b,zi+d);
+  return lerp(lerp(lerp(c(0,0,0),c(1,0,0),u),lerp(c(0,1,0),c(1,1,0),u),v),lerp(lerp(c(0,0,1),c(1,0,1),u),lerp(c(0,1,1),c(1,1,1),u),v),w)}
+function gauss(r){let u=0,v=0;while(u===0)u=r();v=r();return Math.sqrt(-2*Math.log(u))*Math.cos(TAU*v)}
+function rgba(hex,a){const n=parseInt(hex.slice(1),16);return `rgba(${n>>16},${n>>8&255},${n&255},${a})`}
+function mix(h1,h2c,t){const a=parseInt(h1.slice(1),16),b=parseInt(h2c.slice(1),16);const r=Math.round(lerp(a>>16,b>>16,t)),g=Math.round(lerp(a>>8&255,b>>8&255,t)),bl=Math.round(lerp(a&255,b&255,t));return '#'+((1<<24)|(r<<16)|(g<<8)|bl).toString(16).slice(1)}
+const ROMAN=['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX','XXI','XXII','XXIII'];
+function mkCanvas(w,h){const c=document.createElement('canvas');c.width=w;c.height=h;return c}
+const F={disp:'"Bodoni Moda","Didot","Bodoni 72","Noto Serif SC","Songti SC",Georgia,serif',sans:'"Hanken Grotesk","Helvetica Neue","Noto Sans SC","PingFang SC",Arial,sans-serif',mono:'"IBM Plex Mono","Noto Sans SC","PingFang SC",ui-monospace,Menlo,monospace',math:'"IBM Plex Mono","Noto Sans Math","Noto Sans Symbols 2","Cambria Math","STIX Two Math","Segoe UI Symbol",monospace'};
+const C={fg:'#e9edf6',muted:'#8d97b1',line:'#9fb3d9',brass:'#ffd38a',ink:'#05070d'};
+
+// glow sprites
+const glowCache={};
+function glowSprite(hex){if(glowCache[hex])return glowCache[hex];const c=mkCanvas(64,64),g=c.getContext('2d');const gr=g.createRadialGradient(32,32,0,32,32,32);gr.addColorStop(0,rgba(hex,1));gr.addColorStop(.25,rgba(hex,.55));gr.addColorStop(1,rgba(hex,0));g.fillStyle=gr;g.fillRect(0,0,64,64);return glowCache[hex]=c}
+function glow(g,hex,x,y,r,a){if(a<=0.002)return;g.globalAlpha=Math.min(1,a);g.drawImage(glowSprite(hex),x-r,y-r,r*2,r*2);g.globalAlpha=1}
+
+// text
+function font(g,size,fam,style=''){g.font=`${style} ${size}px ${fam}`}
+function txt(g,s,x,y,o={}){
+  if((o.alpha??1)<=0.002)return;
+  if(self.__seen)self.__seen.add(s);if(self.__hold){const v=clamp(o.alpha??1);if(v>(self.__hold.get(s)||0))self.__hold.set(s,v)}
+  font(g,o.size||24,o.font||F.sans,o.style||'');
+  g.fillStyle=o.color||C.fg;g.globalAlpha=clamp(o.alpha??1);g.textAlign=o.align||'left';g.textBaseline=o.base||'alphabetic';
+  if('letterSpacing' in g)g.letterSpacing=(o.track||0)+'px';
+  g.fillText(s,x,y);
+  if('letterSpacing' in g)g.letterSpacing='0px';
+  g.globalAlpha=1;
+}
+function label(g,s,x,y,o={}){const o2=Object.assign({size:19,font:F.mono,color:'#a7b2ca',track:2.2},o);if(o2.size<19){o2.size=19;o2.track=2.2}txt(g,tr(s).toUpperCase(),x,y,o2)}
+const kinCache={};
+function kin(g,s,x,y,t0,lt,o={}){
+  const size=o.size||48,fam=o.font||F.disp,style=o.style||'',st=o.stagger??0.028,dur=o.dur??0.75;
+  const fs=`${style} ${size}px ${fam}`;g.font=fs;
+  const key=fs+'|'+s;let m=kinCache[key];
+  if(!m){const ch=[...s];const ws=ch.map(c=>g.measureText(c).width);m=kinCache[key]={ch,ws,tot:ws.reduce((a,b)=>a+b,0)}}
+  const tr=o.track||0;const tot=m.tot+tr*(m.ch.length-1);
+  let cx=o.align==='center'?x-tot/2:o.align==='right'?x-tot:x;
+  const out=o.out!=null?eio(pr(lt,o.out,o.outDur||.6)):0;
+  g.fillStyle=o.color||C.fg;g.textAlign='left';g.textBaseline='alphabetic';
+  for(let i=0;i<m.ch.length;i++){
+    const p=eo((lt-t0-i*st)/dur);
+    if(p>0){const a=p*(1-out)*(o.alpha??1);if(a>0.003){g.globalAlpha=clamp(a);g.fillText(m.ch[i],cx,y+(1-p)*size*.42-out*size*.3)}}
+    cx+=m.ws[i]+tr;
+  }
+  g.globalAlpha=1;return tot;
+}
+const wrapCache={};
+function wrapLines(g,s,maxW){const key=g.font+'|'+maxW+'|'+s;if(wrapCache[key])return wrapCache[key];
+  const cjk=/[\u3400-\u9fff]/.test(s);const words=cjk?(s.match(/[\u3000-\u303f\uff00-\uffef]*[^\u3000-\u303f\uff00-\uffef][\u3000-\u303f\uff00-\uffef]*/gu)||[s]):s.split(' ');const lines=[];let cur='';
+  for(const w of words){const t=cur?cur+(cjk?'':' ')+w:w;if(g.measureText(t).width>maxW&&cur){lines.push(cur);cur=w}else cur=t}
+  if(cur)lines.push(cur);return wrapCache[key]=lines}
+function para(g,s,x,y,maxW,o={}){font(g,o.size||24,o.font||F.sans,o.style||'');const L=wrapLines(g,s,maxW);
+  L.forEach((l,i)=>txt(g,l,x,y+i*(o.lh||(o.size||24)*1.3),o));return L.length}
+
+// formula markup: _{sub} ^{sup}
+const fCache={};
+function parseF(src){const runs=[];let i=0,buf='';const push=()=>{if(buf){runs.push({s:buf,m:0});buf=''}};
+  while(i<src.length){const c=src[i];if((c==='_'||c==='^')&&src[i+1]==='{'){push();const j=src.indexOf('}',i+2);runs.push({s:src.slice(i+2,j),m:c==='_'?1:2});i=j+1}else{buf+=c;i++}}
+  push();return runs}
+function formula(g,src,x,y,size,col,alpha=1,reveal=1,align='left'){
+  if(alpha<=0.003)return 0;
+  let f=fCache[src+size];
+  if(!f){const runs=parseF(src);let w=0;for(const r of runs){const s=r.m?size*.58:size;font(g,s,F.math);r.w=g.measureText(r.s).width;r.x=w;w+=r.w+(r.m?2:0)}f=fCache[src+size]={runs,w}}
+  const x0=align==='center'?x-f.w/2:align==='right'?x-f.w:x;
+  g.save();if(reveal<1){g.beginPath();g.rect(x0-4,y-size*1.4,f.w*reveal+8,size*2.2);g.clip()}
+  g.fillStyle=col;g.globalAlpha=clamp(alpha);g.textBaseline='alphabetic';g.textAlign='left';
+  for(const r of f.runs){const s=r.m?size*.58:size;font(g,s,F.math);g.fillText(r.s,x0+r.x,y+(r.m===1?size*.22:r.m===2?-size*.42:0))}
+  g.restore();return f.w}
+
+// text → particle points
+const sampCache={};
+function sampleText(str,size,fam,style,n,seed){const key=[str,size,fam,style,n,seed].join('|');if(sampCache[key])return sampCache[key];
+  const c=mkCanvas(10,10),g=c.getContext('2d');const fs=`${style} ${size}px ${fam}`;g.font=fs;
+  const w=Math.ceil(g.measureText(str).width)+20,h=Math.ceil(size*1.6);c.width=w;c.height=h;g.font=fs;g.fillStyle='#fff';g.textBaseline='middle';g.fillText(str,10,h/2);
+  const d=g.getImageData(0,0,w,h).data;const pts=[];
+  for(let y=0;y<h;y+=2)for(let x=0;x<w;x+=2)if(d[(y*w+x)*4+3]>120)pts.push([x-w/2,y-h/2]);
+  const r=rng(seed);for(let i=pts.length-1;i>0;i--){const j=Math.floor(r()*(i+1));[pts[i],pts[j]]=[pts[j],pts[i]]}
+  const out=[];for(let i=0;i<n;i++)out.push(pts.length?pts[i%pts.length]:[0,0]);return sampCache[key]=out}
+
+// ======================================================================
+// Shared backdrop, grain, HUD
+// ======================================================================
+let BG,GRAIN;
+function buildBackdrop(){
+  BG=mkCanvas(W,H);const g=BG.getContext('2d');
+  const gr=g.createRadialGradient(W*.5,H*.46,80,W*.5,H*.5,W*.75);gr.addColorStop(0,'#0c1222');gr.addColorStop(.55,'#070a14');gr.addColorStop(1,'#030409');
+  g.fillStyle=gr;g.fillRect(0,0,W,H);
+  // graticule: projected meridians & parallels
+  g.strokeStyle='rgba(159,179,217,0.045)';g.lineWidth=1;
+  for(let k=-6;k<=6;k++){g.beginPath();const rx=Math.abs(k)*150;g.ellipse(W/2,H/2,Math.max(1,rx),H*.62,0,0,TAU);g.stroke()}
+  for(let k=-5;k<=5;k++){g.beginPath();const y=H/2+k*95;g.moveTo(0,y);for(let x=0;x<=W;x+=40)g.lineTo(x,y+Math.cos((x-W/2)/W*Math.PI)*k*14);g.stroke()}
+  const r=rng(7);for(let i=0;i<520;i++){g.fillStyle=`rgba(210,222,255,${0.05+r()*0.3})`;const s=r()<.08?1.8:1;g.fillRect(r()*W,r()*H,s,s)}
+  const vg=g.createRadialGradient(W/2,H/2,H*.35,W/2,H/2,W*.72);vg.addColorStop(0,'rgba(0,0,0,0)');vg.addColorStop(1,'rgba(0,0,0,0.6)');g.fillStyle=vg;g.fillRect(0,0,W,H);
+  GRAIN=mkCanvas(256,256);const gg=GRAIN.getContext('2d');const id=gg.createImageData(256,256);const rr=rng(11);
+  for(let i=0;i<id.data.length;i+=4){const v=rr()*255;id.data[i]=id.data[i+1]=id.data[i+2]=v;id.data[i+3]=255}gg.putImageData(id,0,0);
+}
+function backdrop(g,accent,a=.1,x=W*.45,y=H*.5){if(BARE)return;g.drawImage(BG,0,0);if(accent){g.globalCompositeOperation='lighter';glow(g,accent,x,y,900,a);g.globalCompositeOperation='source-over'}}
+const L1=mkCanvas(W,H),L2=mkCanvas(W,H);
+function layer(g,a,cv,fn){if(a<=.003)return;if(a>=.997){fn(g);return}const c=cv.getContext('2d');c.setTransform(1,0,0,1,0,0);c.globalAlpha=1;c.globalCompositeOperation='source-over';c.clearRect(0,0,W,H);c.save();fn(c);c.restore();g.save();g.globalAlpha=a;g.drawImage(cv,0,0);g.restore()}
+function sweep(g,lt,t0,oldF,newF,col,dur=1.15){
+  if(lt<t0){oldF(g);return}if(lt>t0+dur){newF(g);return}
+  const p=eio((lt-t0)/dur),X=lerp(40,1270,p);
+  g.save();g.beginPath();g.rect(X,0,1270-X,H);g.clip();oldF(g);g.restore();
+  g.save();g.beginPath();g.rect(0,0,X,H);g.clip();if(!BARE){g.fillStyle='rgba(5,7,13,.35)';g.fillRect(0,0,X,H)}newF(g);g.restore();
+  g.globalCompositeOperation='lighter';g.fillStyle=rgba(col,.9);g.fillRect(X-1.5,120,3,840);glow(g,col,X,540,260,.35);
+  for(let i=0;i<14;i++){const y=140+h2(i,Math.floor(lt*20))*800;glow(g,'#ffffff',X+(h2(i,7)-.5)*14,y,10,.6)}
+  g.globalCompositeOperation='source-over'}
+function stroke(g,col,a,w=2){g.strokeStyle=rgba(col,clamp(a));g.lineWidth=w}
+function fig(g,x,y,s,col,a){stroke(g,col,a,2.4);g.beginPath();g.arc(x,y-s*1.55,s*.3,0,TAU);g.moveTo(x,y-s*1.25);g.lineTo(x,y-s*.5);g.moveTo(x-s*.42,y-s*1.0);g.lineTo(x+s*.42,y-s*1.0);g.moveTo(x,y-s*.5);g.lineTo(x-s*.32,y);g.moveTo(x,y-s*.5);g.lineTo(x+s*.32,y);g.stroke()}
+function cat(g,x,y,s,col,a,dead){g.save();g.translate(x,y);if(dead){g.rotate(-Math.PI/2);g.translate(-s*.1,s*.15)}stroke(g,col,a,2.4);g.fillStyle=rgba(col,a*.12);
+  g.beginPath();g.ellipse(0,-s*.45,s*.4,s*.46,0,0,TAU);g.fill();g.stroke();g.beginPath();g.arc(0,-s*1.05,s*.27,0,TAU);g.fill();g.stroke();
+  g.beginPath();g.moveTo(-s*.24,-s*1.18);g.lineTo(-s*.2,-s*1.45);g.lineTo(-s*.06,-s*1.3);g.moveTo(s*.24,-s*1.18);g.lineTo(s*.2,-s*1.45);g.lineTo(s*.06,-s*1.3);g.stroke();
+  g.beginPath();g.moveTo(s*.36,-s*.2);g.quadraticCurveTo(s*.9,-s*.2,s*.75,-s*.85);g.stroke();
+  if(dead){g.beginPath();for(const ex of [-.1,.1]){g.moveTo(s*ex-s*.05,-s*1.1);g.lineTo(s*ex+s*.05,-s*1.0);g.moveTo(s*ex+s*.05,-s*1.1);g.lineTo(s*ex-s*.05,-s*1.0)}g.stroke()}
+  else{g.fillStyle=rgba(col,a);g.beginPath();g.arc(-s*.1,-s*1.07,2.5,0,TAU);g.arc(s*.1,-s*1.07,2.5,0,TAU);g.fill()}g.restore()}
+function eye(g,x,y,s,col,a){stroke(g,col,a,2);g.beginPath();g.moveTo(x-s,y);g.quadraticCurveTo(x,y-s*.75,x+s,y);g.quadraticCurveTo(x,y+s*.75,x-s,y);g.stroke();g.fillStyle=rgba(col,a);g.beginPath();g.arc(x,y,s*.28,0,TAU);g.fill()}
+function phone(g,x,y,s,col,a,lift=0,shake=0){g.save();g.translate(x+Math.sin(shake*60)*shake*4,y);stroke(g,col,a,2.4);g.fillStyle=rgba(col,a*.12);
+  g.beginPath();g.roundRect?g.roundRect(-s*.55,-s*.25,s*1.1,s*.6,8):g.rect(-s*.55,-s*.25,s*1.1,s*.6);g.fill();g.stroke();
+  g.save();g.translate(0,-s*.42-lift*s*.5);g.rotate(-lift*.5);g.lineWidth=s*.16;g.lineCap='round';g.beginPath();g.moveTo(-s*.5,0);g.quadraticCurveTo(0,-s*.18,s*.5,0);g.stroke();g.restore();
+  for(let i=0;i<3;i++){g.fillStyle=rgba(col,a*.7);g.fillRect(-s*.25+i*s*.2,0,s*.1,s*.1)}g.restore()}
+function chev(g,x,y,col,a,dir=1){stroke(g,col,a,2);g.beginPath();g.moveTo(x-7,y-7*dir);g.lineTo(x,y);g.lineTo(x+7,y-7*dir);g.stroke()}
+function arrowLine(g,x0,y0,x1,y1,col,a,w=2){stroke(g,col,a,w);g.beginPath();g.moveTo(x0,y0);g.lineTo(x1,y1);g.stroke();const an=Math.atan2(y1-y0,x1-x0);g.fillStyle=rgba(col,a);g.beginPath();g.moveTo(x1,y1);g.lineTo(x1-12*Math.cos(an-.4),y1-12*Math.sin(an-.4));g.lineTo(x1-12*Math.cos(an+.4),y1-12*Math.sin(an+.4));g.closePath();g.fill()}
+function cross(g,x,y,s,a){stroke(g,'#ff5d6c',a,3.5);g.beginPath();g.moveTo(x-s,y-s);g.lineTo(x+s,y+s);g.moveTo(x+s,y-s);g.lineTo(x-s,y+s);g.stroke()}
+function check(g,x,y,s,col,a){stroke(g,col,a,3);g.beginPath();g.moveTo(x-s,y);g.lineTo(x-s*.3,y+s*.7);g.lineTo(x+s,y-s*.7);g.stroke()}
+function bars(g,x,y,vals,col,a,w=22,h=150,gap=10){vals.forEach((v,i)=>{g.fillStyle=rgba(col,a*.9);g.fillRect(x+i*(w+gap),y-v*h,w,v*h);g.fillStyle=rgba(col,a*.25);g.fillRect(x+i*(w+gap),y,w,2)})}
+function cloud(g,x,y,s,shade,a){g.fillStyle=rgba(mix('#c9d6f2','#3a4664',shade),a);for(const [dx,dy,r] of [[-.5,.1,.38],[-.1,-.15,.5],[.35,0,.42],[.05,.18,.4]]){g.beginPath();g.arc(x+dx*s,y+dy*s,r*s,0,TAU);g.fill()}}
+function mvTitle(g,t,kind,title,col){label(g,kind,110,182,{color:col,alpha:pr(t,.1,.6)});txt(g,title,110,232,{size:40,font:F.disp,style:'italic',color:C.fg,alpha:pr(t,.25,.7)})}
+
+function plateTitle(g,lt,S,t,sub,col){kin(g,t,960,170,S.cue(0)+.1,lt,{size:58,align:'center',stagger:.022});label(g,sub,960,210,{align:'center',alpha:pr(lt,S.cue(0)+.9,.6),color:col||C.muted})}
+function tracker(g,lt,items,active,col,a=1){items.forEach((s,i)=>{const on=i===active;label(g,s,1860,118+i*26,{align:'right',size:12,color:on?col:C.muted,alpha:a*(on?1:.5)});if(on){g.fillStyle=rgba(col,a);g.beginPath();g.arc(1872,113+i*26,4,0,TAU);g.fill()}})}
+F.zh='"Noto Serif SC","Noto Sans SC","PingFang SC",serif';
+function frameBox(g,x,y,w,h,col,a){if(a<=0)return;g.globalAlpha=a;g.strokeStyle=rgba(col,.35);g.lineWidth=1;g.strokeRect(x,y,w,h);
+  g.strokeStyle=rgba(col,.9);g.lineWidth=2;const k=18;
+  for(const [cx,cy,sx,sy] of [[x,y,1,1],[x+w,y,-1,1],[x,y+h,1,-1],[x+w,y+h,-1,-1]]){g.beginPath();g.moveTo(cx+sx*k,cy);g.lineTo(cx,cy);g.lineTo(cx,cy+sy*k);g.stroke()}
+  g.globalAlpha=1}
+
+// drifting edge-field (the activity, outside every boundary)
+function edgeField(g,lt,a,x0=0,x1=W,seed=9){if(a<=0.004)return;g.globalCompositeOperation='lighter';
+  for(let i=0;i<260;i++){const P=5.5,age=(lt*.8+h2(i,seed)*P)%P,u=age/P;
+    const x=x0+((h2(i,seed+1)*(x1-x0))+u*160)%(x1-x0);const y=90+h2(i,seed+2)*(H-180)+Math.sin(lt*.7+i)*8;
+    g.fillStyle=h2(i,seed+3)<.5?'#ffd38a':'#9fb3ff';g.globalAlpha=Math.sin(Math.PI*u)*.5*a;g.fillRect(x,y,2,2)}
+  g.globalAlpha=1;g.globalCompositeOperation='source-over'}
+
+// the belief monument
+function monolith(g,lt,t0,P,a,cx=620,cy=520,S,noHeld){if(a<=0)return;const up=eio(pr(lt,t0,1.6));
+  const w=330,h=560*up,x=cx-w/2,y=cy+280-h;
+  g.save();
+  // assembling particles
+  if(up<1){g.globalCompositeOperation='lighter';g.fillStyle=rgba(P.col,.8);
+    for(let i=0;i<120;i++){const e=clamp(up*1.4-h2(i,3)*.4);const sx=cx+(h2(i,1)-.5)*1400,sy=cy+300-(h2(i,2))*900;
+      const tx=x+h2(i,4)*w,ty=cy+280-h2(i,5)*560;g.globalAlpha=a*(1-e)*.6;g.fillRect(lerp(sx,tx,eio(e)),lerp(sy,ty,eio(e)),2.4,2.4)}
+    g.globalAlpha=1;g.globalCompositeOperation='source-over'}
+  // slab
+  const grd=g.createLinearGradient(x,y,x+w,y);grd.addColorStop(0,'rgba(16,22,38,.92)');grd.addColorStop(.5,'rgba(28,36,58,.92)');grd.addColorStop(1,'rgba(12,16,30,.92)');
+  g.globalAlpha=a;g.fillStyle=grd;g.fillRect(x,y,w,h);g.strokeStyle=rgba(P.col,.75);g.lineWidth=2;g.strokeRect(x,y,w,h);
+  g.strokeStyle=rgba(P.col,.25);g.strokeRect(x+10,y+10,w-20,Math.max(0,h-20));
+  // floor
+  g.strokeStyle=rgba('#9fb3d9',.35*a);g.lineWidth=1.2;g.beginPath();g.moveTo(120,cy+280);g.lineTo(1150,cy+280);g.stroke();
+  // engraving
+  const ea=pr(lt,t0+1.2,.8)*a;
+  P.mono.forEach((wd,i)=>{txt(g,wd,cx,y+h*.30+i*58,{size:36,font:F.disp,align:'center',color:mix(P.col,'#e9edf6',.3),alpha:ea*up,track:3})});
+  // aura of authority
+  g.globalCompositeOperation='lighter';glow(g,P.col,cx,y+h*.35,300,a*.22*up);g.globalCompositeOperation='source-over';
+  const la=pr(lt,t0+.6,.8)*a;
+  if(!noHeld)label(g,'held as objective',cx+200,cy+180,{alpha:la,color:'#c9d6f2'});
+  // the belief, commonly held: figures gather before the slab
+  if(S){const xs=[380,880,330,930,280,980,230,1030,180,1080,1130,130];const nb=Math.min(12,Math.max(0,Math.floor((lt-t0-1.4)*.75)));
+    for(let i=0;i<nb;i++){const fa=a*clamp((lt-t0-1.4)*.75-i)*.8;fig(g,xs[i],cy+280,15,'#8d97b1',fa)}}
+  // the quiet, everyday form — etched into the slab's base when the narration reaches it
+  if(S&&P.quiet){const qa2=pr(lt,S.cue(1)+.3,.9)*a*up;
+    if(qa2>0){g.globalAlpha=qa2;stroke(g,P.col,.35*qa2,1);g.strokeRect(cx-w/2+26,cy+150,w-52,56);
+      txt(g,'\u201c'+P.quiet+'\u201d',cx,cy+186,{size:21,font:F.disp,style:'italic',align:'center',color:mix(P.col,'#e9edf6',.5),alpha:qa2});
+      label(g,'its quiet form',cx,cy+128,{align:'center',size:10,alpha:qa2*.8});g.globalAlpha=1}}
+  g.restore()}
+
+// premise trace-down
+function traceDown(g,lt,t0,P,a,cx=620){if(a<=0)return;
+  monolith(g,1e3,-10,P,a*.5,cx,420,null,true); // settled, dimmed
+  const fy=700,py=830;const p=eio(pr(lt,t0+.4,1.8));
+  // strata rings
+  for(let k=0;k<3;k++){const ra=pr(lt,t0+.5+k*.3,.6)*a;if(ra<=0)continue;
+    g.strokeStyle=rgba('#9fb3d9',.22*ra);g.lineWidth=1;g.beginPath();g.ellipse(cx,fy+40+k*56,340-k*60+Math.sin(lt*.8+k)*6,26+Math.sin(lt*.6+k*2)*2,0,0,TAU);g.stroke()}
+  for(let k=0;k<14;k++){const u3=((lt*.045)+h2(k,8))%1;const yy3=fy+16+u3*168;const a3=a*.45*Math.sin(Math.PI*u3);
+    g.fillStyle=rgba('#9fb3d9',Math.max(0,a3));g.fillRect(cx+(h2(k,9)-.5)*520*(1-u3*.45),yy3,2,2)}
+  // the thread
+  if(p>0){g.globalCompositeOperation='lighter';g.strokeStyle=rgba('#ffffff',.9*a);g.lineWidth=2;
+    g.beginPath();g.moveTo(cx,fy);for(let i=1;i<=40*p;i++){const u=i/40;g.lineTo(cx+Math.sin(u*14+lt*2)*10*(1-u),fy+(py-fy)*u)}g.stroke();
+    const yy=fy+(py-fy)*p;glow(g,'#ffffff',cx,yy,26,a);
+    if(p>=1)for(let k=0;k<2;k++){const u2=((lt*.5)+k*.5)%1;glow(g,'#ffffff',cx+Math.sin(u2*14)*8*(1-u2),fy+(py-fy)*u2,14,a*.7*Math.sin(Math.PI*u2))}
+    if(p>=1){glow(g,P.col,cx,py,70,a*(.7+.3*Math.sin(lt*3)));g.globalCompositeOperation='source-over';
+      g.fillStyle=rgba(P.col,a);g.beginPath();g.arc(cx,py,6,0,TAU);g.fill();
+      const sa=pr(lt,t0+2.4,.6)*a;
+      label(g,'where the premise sits',cx+90,py-28,{alpha:sa});
+      txt(g,P.stamp,cx+90,py+16,{size:42,font:F.disp,style:'italic',color:P.col,alpha:sa})}
+    g.globalCompositeOperation='source-over'}}
+
+// boundary ring
+function boundaryVisual(g,lt,t0,P,a,cx=620,cy=520){if(a<=0)return;
+  edgeField(g,lt,a*pr(lt,t0+1.6,1.5),90,1180,P.n||7);
+  monolith(g,1e3,-10,P,a*(P.n===8?(.3+.5*(0.5+0.5*Math.sin(lt*.9))):.8),cx,cy-60,null,true);
+  const p=eio(pr(lt,t0+.3,P.ringDur||2.2));
+  if(p>0){const rx=430,ry=330;
+    g.strokeStyle=rgba(P.col,.9*a);g.lineWidth=2;g.setLineDash([12,9]);g.lineDashOffset=-lt*14;
+    g.beginPath();g.ellipse(cx,cy,rx,ry,0,-Math.PI/2,-Math.PI/2+TAU*p);g.stroke();g.setLineDash([]);
+    for(let k=0;k<48*p;k++){const an=k/48*TAU-Math.PI/2;g.strokeStyle=rgba(P.col,.5*a);g.lineWidth=1;
+      g.beginPath();g.moveTo(cx+Math.cos(an)*rx,cy+Math.sin(an)*ry);g.lineTo(cx+Math.cos(an)*(rx+(k%6?7:14)),cy+Math.sin(an)*(ry+(k%6?7:14)));g.stroke()}
+    // warm interior
+    g.save();g.beginPath();g.ellipse(cx,cy,rx,ry,0,0,TAU);g.clip();g.globalCompositeOperation='lighter';glow(g,P.col,cx,cy,rx,a*(.12+.06*(0.5+0.5*Math.sin(lt*.7)))*p);g.restore();g.globalCompositeOperation='source-over';
+    const la=pr(lt,t0+1.6,.7)*a;
+    label(g,'useful within',cx,cy+ry-36,{align:'center',color:mix(P.col,'#ffffff',.4),alpha:la*(.75+.25*Math.sin(lt*1.1))});
+    label(g,'its incompleteness begins here',cx,cy-ry-26,{align:'center',color:P.col,alpha:la});
+    // the ring keeps being surveyed: ticks continue appearing through the section
+    const tp=clamp((lt-t0-2.2)/14);for(let k=0;k<Math.floor(26*tp);k++){const an=(h2(k,5))*TAU;
+      g.fillStyle=rgba(P.col,.8*a);g.fillRect(cx+Math.cos(an)*rx-1.5,cy+Math.sin(an)*ry-1.5,3,3)}
+    // a surveyor keeps walking the boundary
+    if(p>=1){const an2=((lt*.06)%1)*TAU-Math.PI/2;
+      g.globalCompositeOperation='lighter';glow(g,'#ffffff',cx+Math.cos(an2)*rx,cy+Math.sin(an2)*ry,12,a*.7);g.globalCompositeOperation='source-over';
+      g.fillStyle=rgba('#ffffff',a*.9);g.beginPath();g.arc(cx+Math.cos(an2)*rx,cy+Math.sin(an2)*ry,3,0,TAU);g.fill()}
+    // inside the boundary, the instruments named one by one
+    if(P.inside){const n2=P.inside.length;const spx=n2>3?175:n2>2?235:260;
+      P.inside.forEach((nm,i)=>{const e2=pr(lt,t0+(P.chipAt?P.chipAt[i]:2.8+i*2.1),.7)*a*p;if(e2<=0)return;
+        const xx=cx+(i-(n2-1)/2)*spx;const yy=cy+ry*.46+((i%2)?46:0);
+        if(P.icons){P.icons[i](g,xx,yy-32,27,mix(P.col,'#ffffff',.3),e2,lt);label(g,nm,xx,yy+20,{align:'center',size:17,track:2,alpha:e2*e2*.95,color:mix(P.col,'#ffffff',.45)});return}
+        g.font='19px '+F.mono;const w2=g.measureText(nm.toUpperCase()).width+2*nm.length+26;
+        g.globalAlpha=clamp(e2);g.fillStyle='rgba(8,12,22,.94)';g.fillRect(xx-w2/2,yy-19,w2,34);g.globalAlpha=1;stroke(g,mix(P.col,'#ffffff',.3),e2*.6,1);g.strokeRect(xx-w2/2,yy-19,w2,34);
+        label(g,nm,xx,yy+5,{align:'center',size:17,track:2,font:F.mono,alpha:e2*.95,color:mix(P.col,'#ffffff',.45)})})}}}
+
+
+// The film of "The Open Question Is Determinism's Demand", drawn on the atlas engine (engine.js): an opening, two
+// plates and a close. A plate is a row of stages swept one into the next; each stage starts on a narration line and
+// draws in plate space (1920x1080, the picture centred on x=620), which the landscape frame shows beside a panel and
+// the portrait frame crops and enlarges. TL, SRC and CJK are set by film.mjs.
+
+// ---------------------------------------------------------------------- glyphs
+function bird(g,x,y,s,col,a){if(a<=0)return;stroke(g,col,a,2.2);g.beginPath();g.ellipse(x,y,s*.55,s*.36,-.15,0,TAU);g.stroke();
+  g.beginPath();g.arc(x+s*.55,y-s*.38,s*.2,0,TAU);g.stroke();
+  g.beginPath();g.moveTo(x+s*.74,y-s*.42);g.lineTo(x+s*.98,y-s*.34);g.lineTo(x+s*.74,y-s*.3);
+  g.moveTo(x-s*.5,y-s*.1);g.lineTo(x-s*.95,y-s*.3);g.moveTo(x-s*.5,y);g.lineTo(x-s*.95,y+s*.02);
+  g.moveTo(x-s*.1,y+s*.34);g.lineTo(x-s*.1,y+s*.62);g.moveTo(x+s*.12,y+s*.34);g.lineTo(x+s*.12,y+s*.62);g.stroke()}
+// a choice: one thing, another, or nothing at all (the dashed stub)
+function fan(g,x,y,len,col,a,p=1,spread=.5){if(a<=0||p<=0)return;[-spread,0,spread].forEach((an,i)=>{const e=eo(clamp(p*3-i));if(e<=0)return;
+  const x1=x+Math.cos(an)*len*e,y1=y+Math.sin(an)*len*e;if(i===2)g.setLineDash([5,7]);stroke(g,col,a*(i===2?.6:.95),2);
+  g.beginPath();g.moveTo(x,y);g.lineTo(x1,y1);g.stroke();g.setLineDash([]);
+  if(i<2){g.fillStyle=rgba(col,a*e);g.beginPath();g.arc(x1,y1,4,0,TAU);g.fill()}else{stroke(g,col,a*.6*e,1.6);g.beginPath();g.arc(x1,y1,5,0,TAU);g.stroke()}})}
+const fanTip=(x,y,len,i,spread=.5)=>{const an=[-spread,0,spread][i];return[x+Math.cos(an)*len,y+Math.sin(an)*len]};
+// what follows a choice comes back to the one who made it
+function back(g,x1,y1,x0,y0,bend,col,a,lt){if(a<=0)return;stroke(g,col,a,1.6);g.setLineDash([3,6]);g.lineDashOffset=-lt*18;
+  g.beginPath();g.moveTo(x1,y1);g.quadraticCurveTo((x0+x1)/2,(y0+y1)/2+bend,x0,y0);g.stroke();g.setLineDash([]);g.lineDashOffset=0}
+function curve(g,q,p,col,a,w=2,dash){const[x0,y0,x1,y1,x2,y2,x3,y3]=q;let X=x0,Y=y0;if(a<=0||p<=0)return[X,Y];stroke(g,col,a,w);if(dash)g.setLineDash(dash);
+  g.beginPath();const n=48;for(let i=0;i<=n*clamp(p);i++){const u=i/n,v=1-u;X=v*v*v*x0+3*v*v*u*x1+3*v*u*u*x2+u*u*u*x3;Y=v*v*v*y0+3*v*v*u*y1+3*v*u*u*y2+u*u*u*y3;i?g.lineTo(X,Y):g.moveTo(X,Y)}
+  g.stroke();g.setLineDash([]);return[X,Y]}
+function card(g,x,y,w,h,s,col,a,o={}){if(a<=0)return;g.fillStyle=`rgba(8,12,22,${.92*clamp(a)})`;g.fillRect(x-w/2,y-h/2,w,h);stroke(g,col,a*.9,o.w||1.6);
+  if(o.dash){g.setLineDash(o.dash);g.lineDashOffset=o.off||0}g.strokeRect(x-w/2,y-h/2,w,h);g.setLineDash([]);g.lineDashOffset=0;
+  if(s)label(g,s,x,y+7,{align:'center',alpha:a,color:o.color||mix(col,'#ffffff',.45)})}
+function dot(g,x,y,r,col,a){if(a<=0)return;g.fillStyle=rgba(col,clamp(a));g.beginPath();g.arc(x,y,r,0,TAU);g.fill()}
+function lit(g,col,x,y,r,a){g.globalCompositeOperation='lighter';glow(g,col,x,y,r,a);g.globalCompositeOperation='source-over'}
+function head(g,t,kind,title,col){label(g,kind,190,182,{color:col,alpha:pr(t,.1,.6)});txt(g,title,190,232,{size:40,font:F.disp,style:'italic',color:C.fg,alpha:pr(t,.25,.7)})}
+const lab=(g,en,zh,x,y,a,o={})=>label(g,L(en,zh),x,y,Object.assign({align:'center',alpha:a},o));
+
+
+// drawings that stand where a boxed word would: each is (g,x,y,s,col,a,t), centred, s about its half-size, t its clock
+const ICON={
+ target:(g,x,y,s,col,a,t)=>{if(a<=0)return;for(let k=0;k<3;k++){stroke(g,col,a*(1-k*.2),1.6);g.beginPath();g.arc(x,y,s*(1-k*.32),0,TAU);g.stroke()}dot(g,x,y,s*.12,col,a);
+   const e=eio(clamp(t*.8)),ax=lerp(x-s*2.2,x-2,e),ay=lerp(y-s*1.4,y-1,e);arrowLine(g,ax-s*.9,ay-s*.55,ax,ay,C.brass,a*clamp(t*3),1.8)},
+ data:(g,x,y,s,col,a,t)=>{if(a<=0)return;for(let k=0;k<3;k++){const yy=y+s*.45-k*s*.42;g.fillStyle=`rgba(8,12,22,${a})`;g.beginPath();g.ellipse(x,yy,s*.8,s*.26,0,0,TAU);g.fill();stroke(g,col,a,1.6);g.stroke()}
+   for(let i=0;i<4;i++){const u=((t*.6)+i/4)%1;dot(g,x+s*.9+u*s*1.6,y+Math.sin(u*6+i)*4,2.5,col,a*Math.sin(Math.PI*u))}},
+ checks:(g,x,y,s,col,a,t)=>{if(a<=0)return;stroke(g,col,a,1.6);g.strokeRect(x-s*.7,y-s*.9,s*1.4,s*1.8);
+   for(let k=0;k<3;k++){const yy=y-s*.45+k*s*.45;stroke(g,col,a*.6,1.4);g.beginPath();g.moveTo(x-s*.12,yy);g.lineTo(x+s*.5,yy);g.stroke();check(g,x-s*.38,yy-2,s*.15,col,a*clamp(t*1.5-k*.5))}},
+ net:(g,x,y,s,col,a,t)=>{if(a<=0)return;const P=[3,4,3].map((n,i)=>Array.from({length:n},(_,j)=>[x+(i-1)*s*1.1,y+(j-(n-1)/2)*s*.6]));
+   stroke(g,col,a*.3,1);g.beginPath();for(let i=0;i<2;i++)for(const p of P[i])for(const q of P[i+1]){g.moveTo(p[0],p[1]);g.lineTo(q[0],q[1])}g.stroke();
+   for(let k=0;k<6;k++){const c=t*.7+k*.17,ph=c%1,i=ph<.5?0:1,u=(ph%.5)*2,n=Math.floor(c),p=P[i][Math.floor(h2(k,n)*P[i].length)],q=P[i+1][Math.floor(h2(k+9,n)*P[i+1].length)];lit(g,col,lerp(p[0],q[0],u),lerp(p[1],q[1],u),9,a*.8)}
+   for(const l of P)for(const p of l){g.fillStyle=`rgba(8,12,22,${a})`;g.beginPath();g.arc(p[0],p[1],s*.13,0,TAU);g.fill();stroke(g,col,a,1.6);g.stroke()}},
+ scale:(g,x,y,s,col,a,tilt)=>{if(a<=0)return;stroke(g,col,a,1.8);g.beginPath();g.moveTo(x,y);g.lineTo(x,y+s*1.2);g.moveTo(x-s*.45,y+s*1.2);g.lineTo(x+s*.45,y+s*1.2);
+   const c=Math.cos(tilt),sn=Math.sin(tilt),E=[-1,1].map(d=>[x+d*s*c,y+d*s*sn]);g.moveTo(E[0][0],E[0][1]);g.lineTo(E[1][0],E[1][1]);g.stroke();
+   for(const[ex,ey]of E){g.beginPath();g.moveTo(ex,ey);g.lineTo(ex-s*.3,ey+s*.5);g.lineTo(ex+s*.3,ey+s*.5);g.closePath();g.stroke()}dot(g,x,y,3,col,a)},
+ doc:(g,x,y,s,col,a,t,sign)=>{if(a<=0)return;const w=s*1.3,h=s*1.7,x0=x-w/2,y0=y-h/2,f=s*.35;g.fillStyle=`rgba(8,12,22,${.92*a})`;
+   g.beginPath();g.moveTo(x0,y0);g.lineTo(x0+w-f,y0);g.lineTo(x0+w,y0+f);g.lineTo(x0+w,y0+h);g.lineTo(x0,y0+h);g.closePath();g.fill();stroke(g,col,a,1.6);g.stroke();
+   g.beginPath();g.moveTo(x0+w-f,y0);g.lineTo(x0+w-f,y0+f);g.lineTo(x0+w,y0+f);g.stroke();
+   stroke(g,col,a*.6,1.3);g.beginPath();for(let k=0;k<(sign?3:4);k++){const yy=y0+s*(.45+k*.28);g.moveTo(x0+s*.2,yy);g.lineTo(x0+w-s*(k===3?.6:.2),yy)}g.stroke();
+   if(sign){const e=clamp(t);stroke(g,C.brass,a,1.6);g.beginPath();for(let i=0;i<=24*e;i++){const u=i/24,px=x0+s*.2+u*(w-s*.4),py=y0+h-s*.3+Math.sin(u*14)*s*.08;i?g.lineTo(px,py):g.moveTo(px,py)}g.stroke()}},
+ bubble:(g,x,y,w,h,col,a,tx,ty)=>{if(a<=0)return;g.fillStyle=`rgba(8,12,22,${.94*a})`;stroke(g,col,a,1.6);g.beginPath();g.roundRect(x-w/2,y-h/2,w,h,h/2);g.fill();g.stroke();
+   g.beginPath();g.moveTo(x-14,y+h/2-1);g.lineTo(tx,ty);g.lineTo(x+12,y+h/2-1);g.fill();g.stroke()},
+ chain:(g,x,y,s,col,a,t)=>{if(a<=0)return;for(let k=0;k<3;k++){g.save();g.translate(x+(k-1)*s*.78,y+Math.sin(t*3+k)*1.5);stroke(g,col,a,2.2);g.beginPath();g.ellipse(0,0,s*.5,s*.24,0,0,TAU);g.stroke();g.restore()}},
+ fork:(g,x,y,s,col,a,t)=>{if(a<=0)return;stroke(g,col,a,1.8);g.beginPath();g.moveTo(x-s*1.2,y);g.lineTo(x,y);g.lineTo(x+s*1.1,y-s*.6);g.moveTo(x,y);g.lineTo(x+s*1.1,y+s*.6);g.stroke();
+   const u=(t*.4)%1,bx=u<.5?lerp(x-s*1.2,x,eio(u*2)):x+Math.sin(t*6)*3,by=y-7+(u<.5?0:Math.cos(t*4)*2);lit(g,'#ffffff',bx,by,10,a);dot(g,bx,by,4.5,'#ffffff',a)},
+ rail:(g,x,y,s,col,a,t)=>{if(a<=0)return;stroke(g,col,a,1.8);g.beginPath();g.moveTo(x-s*1.2,y-3);g.lineTo(x+s*1.2,y-3);g.moveTo(x-s*1.2,y+3);g.lineTo(x+s*1.2,y+3);for(let k=0;k<=8;k++){g.moveTo(x-s*1.2+k*s*.3,y-7);g.lineTo(x-s*1.2+k*s*.3,y+7)}g.stroke();
+   const bx=lerp(x-s*1.1,x+s*1.1,(t*.35)%1);lit(g,'#ffffff',bx,y-12,10,a*.8);dot(g,bx,y-12,4.5,'#ffffff',a)},
+ cube:(g,x,y,s,col,a,t)=>{if(a<=0)return;const r=t*.4+.5,V=[];for(const X of[-1,1])for(const Y of[-1,1])for(const Z of[-1,1]){V.push([x+(X*Math.cos(r)-Z*Math.sin(r))*s*.7,y+Y*s*.6+(X*Math.sin(r)+Z*Math.cos(r))*s*.25])}
+   g.setLineDash([6,5]);g.lineDashOffset=-t*12;stroke(g,col,a,1.6);g.beginPath();for(let i=0;i<8;i++)for(let j=i+1;j<8;j++){const d=i^j;if(d===1||d===2||d===4){g.moveTo(V[i][0],V[i][1]);g.lineTo(V[j][0],V[j][1])}}g.stroke();g.setLineDash([]);g.lineDashOffset=0},
+ gears:(g,x,y,s,col,a,t)=>{if(a<=0)return;[[x-s*.5,y+s*.1,s*.62,1,12],[x+s*.52,y-s*.28,s*.46,-12/9,9]].forEach(([gx,gy,r,dir,n],k)=>{const rot=t*.8*dir+k*.17;stroke(g,col,a,1.6);g.beginPath();
+   for(let i=0;i<n*4;i++){const an=rot+i/(n*4)*TAU,rr=(i%4<2)?r:r*.8;i?g.lineTo(gx+Math.cos(an)*rr,gy+Math.sin(an)*rr):g.moveTo(gx+Math.cos(an)*rr,gy+Math.sin(an)*rr)}g.closePath();g.stroke();g.beginPath();g.arc(gx,gy,r*.24,0,TAU);g.stroke()})},
+ scatter:(g,x,y,s,col,a,t)=>{if(a<=0)return;for(let i=0;i<20;i++){const px=x+(vn(i*1.7,t*.3,1)-.5)*s*3.2,py=y+(vn(i*1.7,t*.3,7)-.5)*s*2.2;dot(g,px,py,2.6,col,a*.9)}},
+ arc:(g,x,y,s,col,a,t)=>{if(a<=0)return;g.setLineDash([4,5]);stroke(g,col,a*.7,1.4);g.beginPath();g.moveTo(x-s,y+s*.5);g.quadraticCurveTo(x,y-s*1.1,x+s,y+s*.5);g.stroke();g.setLineDash([]);
+   const u=(t*.4)%1,v=1-u,bx=v*v*(x-s)+2*v*u*x+u*u*(x+s),by=v*v*(y+s*.5)+2*v*u*(y-s*1.1)+u*u*(y+s*.5);dot(g,bx,by,4,'#ffffff',a);stroke(g,col,a,1.6);g.beginPath();g.arc(x+s,y+s*.5,6,0,TAU);g.stroke()},
+ truss:(g,x,y,s,col,a)=>{if(a<=0)return;stroke(g,col,a,1.6);const x0=x-s*1.1,w=s*2.2,n=4,h=s*.6;g.beginPath();g.moveTo(x0,y+h/2);g.lineTo(x0+w,y+h/2);g.moveTo(x0,y-h/2);g.lineTo(x0+w,y-h/2);
+   for(let i=0;i<=n;i++){const xx=x0+i*w/n;g.moveTo(xx,y-h/2);g.lineTo(xx,y+h/2);if(i<n){g.moveTo(xx,i%2?y-h/2:y+h/2);g.lineTo(xx+w/n,i%2?y+h/2:y-h/2)}}g.stroke()},
+ flask:(g,x,y,s,col,a,t)=>{if(a<=0)return;stroke(g,col,a,1.6);g.beginPath();g.moveTo(x-s*.2,y-s);g.lineTo(x-s*.2,y-s*.3);g.lineTo(x-s*.7,y+s*.6);g.lineTo(x+s*.7,y+s*.6);g.lineTo(x+s*.2,y-s*.3);g.lineTo(x+s*.2,y-s);g.stroke();
+   for(let i=0;i<4;i++){const u=((t*.5)+i/4)%1;stroke(g,col,a*(1-u),1.2);g.beginPath();g.arc(x+(h2(i,3)-.5)*s*.5,y+s*.45-u*s*.95,2.5,0,TAU);g.stroke()}},
+ ledger:(g,x,y,s,col,a,t)=>{for(let k=2;k>=0;k--)ICON.doc(g,x+k*s*.22,y-k*s*.22,s*.8,col,a*(1-k*.25))},
+ wave:(g,x,y,s,col,a,t)=>{if(a<=0)return;stroke(g,col,a,1.6);g.beginPath();for(let i=0;i<=40;i++){const u=i/40;g.lineTo(x-s*1.2+u*s*2.4,y+Math.sin(u*TAU*2-t*2)*s*.35)}g.stroke();
+   stroke(g,col,a*.5,1);g.beginPath();for(let k=0;k<5;k++){g.moveTo(x-s*1.2+k*s*.6,y+s*.6);g.lineTo(x-s*1.2+k*s*.6,y+s*.75)}g.stroke()},
+ hands:(g,x,y,s,col,a,t)=>{if(a<=0)return;fig(g,x-s,y+s*.7,s*.6,'#e9edf6',a);fig(g,x+s,y+s*.7,s*.6,'#e9edf6',a);const u=(Math.sin(t*1.6)+1)/2;
+   stroke(g,col,a*.4,1);g.setLineDash([3,4]);g.beginPath();g.moveTo(x-s*.7,y);g.lineTo(x+s*.7,y);g.stroke();g.setLineDash([]);lit(g,col,lerp(x-s*.7,x+s*.7,u),y,8,a);dot(g,lerp(x-s*.7,x+s*.7,u),y,3.5,col,a)},
+ tree:(g,x,y,s,col,a)=>{if(a<=0)return;stroke(g,col,a,1.6);g.beginPath();g.moveTo(x,y+s*.8);g.lineTo(x,y);g.lineTo(x-s*.6,y-s*.5);g.moveTo(x,y);g.lineTo(x+s*.5,y-s*.4);
+   g.moveTo(x-s*.6,y-s*.5);g.lineTo(x-s*.9,y-s*.9);g.moveTo(x-s*.6,y-s*.5);g.lineTo(x-s*.35,y-s*.95);g.moveTo(x+s*.5,y-s*.4);g.lineTo(x+s*.75,y-s*.9);g.stroke();
+   for(const[px,py]of[[x-s*.9,y-s*.9],[x-s*.35,y-s*.95],[x+s*.75,y-s*.9]])dot(g,px,py,3,col,a)},
+ pill:(g,x,y,s,col,a,t)=>{if(a<=0)return;g.save();g.translate(x,y);g.rotate(-.5);stroke(g,col,a,1.6);g.beginPath();g.roundRect(-s*.75,-s*.28,s*1.5,s*.56,s*.28);g.stroke();g.beginPath();g.moveTo(0,-s*.28);g.lineTo(0,s*.28);g.stroke();g.restore();
+   for(let i=0;i<5;i++){const an=i/5*TAU+t*.6;dot(g,x+Math.cos(an)*s*1.1,y+Math.sin(an)*s*.8,2.6,col,a*.85)}},
+ beak:(g,x,y,s,col,a)=>{if(a<=0)return;stroke(g,col,a,1.8);g.beginPath();g.arc(x-s*.25,y,s*.55,0,TAU);g.stroke();g.beginPath();g.moveTo(x+s*.25,y-s*.25);g.quadraticCurveTo(x+s*1.05,y-s*.1,x+s*1.1,y+s*.3);g.lineTo(x+s*.27,y+s*.14);g.stroke();dot(g,x-s*.1,y-s*.12,2.5,col,a)},
+ laurel:(g,x,y,s,col,a)=>{if(a<=0)return;stroke(g,col,a,1.5);for(const d of[-1,1]){g.beginPath();g.arc(x,y,s*.8,Math.PI/2+d*.25,Math.PI/2+d*2.4,d<0);g.stroke();
+   for(let k=0;k<4;k++){const an=Math.PI/2+d*(.55+k*.45),lx=x+Math.cos(an)*s*.8,ly=y+Math.sin(an)*s*.8;g.beginPath();g.ellipse(lx+Math.cos(an)*s*.14,ly+Math.sin(an)*s*.14,s*.18,s*.07,an+d*.8,0,TAU);g.stroke()}}},
+ court:(g,x,y,s,col,a)=>{if(a<=0)return;stroke(g,col,a,1.6);g.beginPath();g.moveTo(x-s,y-s*.35);g.lineTo(x,y-s);g.lineTo(x+s,y-s*.35);g.closePath();g.moveTo(x-s,y+s*.7);g.lineTo(x+s,y+s*.7);
+   for(let k=0;k<4;k++){const xx=x-s*.7+k*s*.47;g.moveTo(xx,y-s*.25);g.lineTo(xx,y+s*.6)}g.stroke()}};
+
+// a drawing enters by landing: it rises into place as it fades in, with a slight overshoot
+for(const k of Object.keys(ICON)){const f=ICON[k];ICON[k]=(g,x,y,s,col,a,...r)=>f(g,x,y+(1-eob(clamp(a)))*Math.min(28,s*.8),s,col,a,...r)}
+
+// ---------------------------------------------------------------------- the two plates
+const BOOK={
+ one:{n:1,col:'#7ee08a',ringDur:1.6,
+  en:{name:'I · The Selector',title:'The Chooser That Can Be Dropped',epi:'Take the chooser out, and the description still holds',belief:'Evolution chose humans to be the most intelligent species',
+      mono:['EVOLUTION','CHOSE','HUMANS'],mono2:['VARIATION','OFFSPRING','LINEAGES'],quiet:'chosen, by something',stamp:'The Selector',prem:'a selector behind the selection',
+      inside:['kinship','drug resistance','the shape of a beak'],steps:['the belief','the borrowed word','its use','the premise','the test','what remains','the model','the test, again']},
+  zh:{name:'一 · 选择者',title:'可以拿掉的选择者',epi:'拿掉选择者，描述照样成立',belief:'演化选中了人类，让人类做最聪明的物种',
+      mono:['演化','选中了','人类'],mono2:['差别','后代','世系'],quiet:'被某物选中',stamp:'选择者',prem:'选择背后有一位选择者',
+      inside:['亲缘','抗药性','喙的形状'],steps:['信念','借来的词','用处','前提','检验','剩下的','模型','再检验一次']}},
+ two:{n:2,col:'#c69bff',ringDur:1.6,
+  en:{name:'II · The Open Question',title:'The Question Left Open',epi:'It only stays unsettled if determinism is demanded',belief:'Whether a choice is determined or not remains open',
+      mono:['DETERMINED','OR NOT','STILL OPEN'],mono2:['WILLING','OR','COERCED'],quiet:'two readings fit',stamp:'The Finished Thing',prem:'a finished choice, under a gaze that takes in all its conditions',
+      inside:['praise','liability','contracts','courts'],steps:['the belief','its use','the premise','the neutral reply','rivals, or source','not a first link']},
+  zh:{name:'二 · 悬而未决',title:'悬着的那个问题',epi:'只有在索求决定论的时候，它才显得尚无定论',belief:'抉择是被决定的还是未被决定的，尚无定论',
+      mono:['被决定','或未被决定','尚无定论'],mono2:['自愿','还是','胁迫'],quiet:'两种读法都合得上',stamp:'已完成之事',prem:'一件已完成的抉择，一道把条件一次看全的目光',
+      inside:['称许','追责','订约','法庭'],steps:['信念','用处','前提','中立的回答','对手，还是来源','不是第一环']}}};
+const plateOf=id=>BOOK[id]&&Object.assign({n:BOOK[id].n,col:BOOK[id].col,ringDur:BOOK[id].ringDur},BOOK[id][LANG]);
+const ICONS_OF={one:[ICON.tree,ICON.pill,ICON.beak],two:[ICON.laurel,(g,x,y,s,c,a,t)=>ICON.scale(g,x,y-s*.5,s*.85,c,a,Math.sin(t*1.3)*.28),(g,x,y,s,c,a,t)=>ICON.doc(g,x,y,s*.8,c,a,t*.5,true),ICON.court]};
+const ringed=(P,chipAt)=>Object.assign({},P,{mono:P.mono2,chipAt,icons:ICONS_OF[P.n===1?'one':'two']});
+
+// ---------------------------------------------------------------------- opening
+function openDraw(g,lt,S){const col=S.col;
+  if(LANG==='zh')kin(g,'悬而未决是决定论的索求',620,286,.2,lt,{size:64,font:F.zh,align:'center',stagger:.05});
+  else{kin(g,'The Open Question',620,244,.2,lt,{size:62,align:'center',stagger:.022});kin(g,'Is Determinism’s Demand',620,316,.7,lt,{size:62,align:'center',stagger:.022,style:'italic',color:mix(col,'#ffffff',.55)})}
+  // the question
+  const q=pr(lt,S.c(0,0),.7);font(g,30,F.disp,'italic');
+  wrapLines(g,L('“Why did evolution choose humans to be the most intelligent species?”','“演化为什么选中了人类，让人类做最聪明的物种？”'),760).forEach((l,i)=>txt(g,l,620,420+i*42,{size:30,font:F.disp,style:'italic',align:'center',color:'#c9d6f2',alpha:q}));
+  // a chooser, which can be taken out
+  const c=win(lt,S.c(0,1),S.c(0,2),.6,.7);if(c>0){const out=eio(pr(lt,S.c(0,1)+2.4,1.5)),y=590-out*46;
+    stroke(g,'#c9d6f2',c*.5*(1-out),1.4);g.setLineDash([5,7]);g.beginPath();g.arc(620,590,52,0,TAU);g.stroke();g.setLineDash([]);
+    eye(g,620,y,26,'#ffffff',c*(1-out*.75));cross(g,620,y,22,c*pr(lt,S.c(0,1)+2.2,.4));
+    lab(g,'a chooser · can be taken out','一位选择者 · 可以拿掉',620,690,c)}
+  // each being chooses for itself and bears what follows
+  const s=pr(lt,S.c(0,2),.7);if(s>0){const x=520,y=650,ox=x+36,oy=y-52,p=pr(lt,S.c(0,2)+.6,2.2);
+    lit(g,C.brass,x,y-40,70,s*.25);fig(g,x,y,40,'#e9edf6',s);fan(g,ox,oy,170,'#ffffff',s,p);
+    for(let i=0;i<2;i++){const[tx,ty]=fanTip(ox,oy,170,i);back(g,tx,ty,x+10,y-10,i?70:-90,C.brass,s*pr(lt,S.c(0,2)+3,1),lt)}
+    lab(g,'chooses for itself · bears what follows','为自己抉择 · 承担后果',620,720,s*pr(lt,S.c(0,2)+1,.6))}
+  // the reply that leaves it open
+  const o=pr(lt,S.c(0,3),.7);if(o>0){ICON.rail(g,430,782,64,'#c9d6f2',o,lt);lab(g,'determined','被决定',430,826,o);ICON.fork(g,800,782,58,'#c9d6f2',o,lt);lab(g,'undetermined','未被决定',810,826,o);
+    txt(g,L('?','？'),620,798,{size:46,font:F.disp,style:'italic',align:'center',color:col,alpha:o});
+    lab(g,'this openness · already determinism’s demand','这份悬而未决 · 已经是决定论的索求',620,870,pr(lt,S.c(0,3)+(S.c(0,4)-S.c(0,3))*.4,.7),{color:mix(col,'#ffffff',.4)})}}
+
+// ---------------------------------------------------------------------- plate I
+const oneBelief=(g,lt,S,P)=>{monolith(g,lt,.2,P,1,620,520,S);
+  const a=pr(lt,S.c(0,3),.6);if(a>0){lit(g,P.col,930,760,46,a*.5);fig(g,930,800,17,'#ffffff',a);lab(g,'asked: why you?','被问：为什么是你？',930,640,a,{color:mix(P.col,'#ffffff',.5)})}};
+const oneWord=(g,lt,S,P,t0)=>{const t=lt-t0;head(g,t,L('from the essay','文中'),L('a word borrowed from breeders','从育种者那里借来的词'),P.col);
+  txt(g,L('selection','选择'),620,400,{size:92,font:F.disp,style:'italic',align:'center',color:mix(P.col,'#ffffff',.45),alpha:pr(t,.4,.8)});
+  const br=win(lt,t0,S.c(1,1)+.4,.6,.9),pick=3,pp=pr(t,2.6,.5);
+  for(let i=0;i<5;i++)bird(g,440+i*115,640,26+h2(i,5)*14,i===pick?mix(P.col,'#ffffff',.3):'#c9d6f2',pr(t,.6+i*.15,.5)*(i===pick?1:.7));
+  if(br>0){fig(g,280,670,36,'#e9edf6',br);const e=eio(pr(t,1.4,1.1));arrowLine(g,318,618,lerp(319,440+pick*115-10,e),lerp(618,590,e),C.brass,br*pr(t,1.4,.3),1.8);
+    check(g,440+pick*115,570,13,P.col,pp*br);lab(g,'breeders do choose','育种者确实在选',330,740,br)}
+  lab(g,'the word stays · the breeder is gone','词留下了 · 育种者拿掉了',620,770,pr(lt,S.c(1,1)+.2,.5),{color:mix(P.col,'#ffffff',.45)})};
+const oneUse=(g,lt,S,P,t0)=>{const l3=S.c(1,3)-t0,d=S.c(1,4)-S.c(1,3);boundaryVisual(g,lt-t0,0,ringed(P,[l3+d*.12,l3+d*.42,l3+d*.68]),1)};
+const onePrem=(g,lt,S,P,t0)=>{traceDown(g,lt-t0,0,P,1);const c=S.c(1,5),a=win(lt,c-.2,S.c(1,6)+.6,.6,.5);if(a<=0)return;const t=lt-c,x=950,y=640,ry=y-160;
+  fig(g,x,y,36,'#e9edf6',a);stroke(g,C.brass,a*.6,1.4);g.beginPath();g.moveTo(x,y-68);g.lineTo(x,ry);g.stroke();
+  stroke(g,C.brass,a,2.4);g.beginPath();g.moveTo(x-110,ry);g.lineTo(x+110,ry);for(let k=0;k<=10;k++){g.moveTo(x-110+k*22,ry);g.lineTo(x-110+k*22,ry-(k%5?8:16))}g.stroke();
+  lab(g,'“most intelligent”','“最聪明”',x,ry-40,a,{color:C.brass});lab(g,'the asker’s ruler','发问者自己的尺',x,y+48,a*pr(t,.15,.4))};
+const oneTest=(g,lt,S,P,t0)=>{const t=lt-t0;boundaryVisual(g,60+t,0,ringed(P,[0,0,0]),1);
+  const up=eio(pr(t,1.2,1.4)),y=250-up*34;eye(g,985,y,26,'#ffffff',1-up*.55);cross(g,985,y,22,pr(t,1,.4));
+  lab(g,'chooser out','拿掉选择者',985,312,pr(t,.6,.5));
+  lab(g,'the description still holds','描述照样成立',620,772,pr(t,1.6,.6),{color:'#ffffff',bg:1})};
+const oneRemains=(g,lt,S,P,t0)=>{const t=lt-t0;head(g,t,L('what remains','剩下的'),L('choosing, and bearing what follows','抉择，并承担由此而来的一切'),P.col);
+  const x=400,y=650,ox=x+36,oy=y-52,g1=win(lt,S.c(2,1),S.c(2,2)+.6,.5,.7);
+  if(g1>0){fig(g,x-170,y+6,30,'#8d97b1',g1*.8);arrowLine(g,x-142,y-40,x-52,y-40,'#8d97b1',g1*.8,1.6);cross(g,x-98,y-40,12,g1)}
+  lit(g,C.brass,x,y-40,80,pr(t,.5,.6)*.25);fig(g,x,y,40,'#e9edf6',pr(t,.5,.6));
+  const c2=S.c(2,2),d=S.c(2,3)-c2,p=pr(lt,c2+d*.25,d*.5);fan(g,ox,oy,300,'#ffffff',1,p,.42);
+  [['one thing','选这一样'],['another','选另一样'],['or nothing at all','或者什么都不选']].forEach((w,i)=>{const[tx,ty]=fanTip(ox,oy,300,i,.42);label(g,L(w[0],w[1]),tx+18,ty+7,{alpha:clamp(p*3-i-.4)})});
+  const b=pr(lt,c2+d*.8,.8);for(let i=0;i<2;i++){const[tx,ty]=fanTip(ox,oy,300,i,.42);back(g,tx,ty,x+12,y-6,i?120:-150,C.brass,b,lt)}
+  lab(g,'bears what follows','承担由此而来的一切',560,810,b,{color:C.brass});
+  // the story, and the one telling it
+  const s=pr(lt,S.c(2,3),.7);if(s>0){stroke(g,'#9fb3d9',s*.8,1.6);g.beginPath();g.moveTo(600,330);g.lineTo(1000,330);for(let k=0;k<=8;k++){g.moveTo(600+k*50,330);g.lineTo(600+k*50,322)}g.stroke();
+    const late=win(lt,S.c(2,3),S.c(2,4)+.5,.5,.6);fig(g,1024,360,18,'#8d97b1',late);cross(g,1024,338,11,late*pr(lt,S.c(2,3)+1.6,.4));
+    const tl=pr(lt,S.c(2,4),.6);lab(g,'the evolutionary story','演化的故事',800,300,s*(1-tl));lab(g,'the one telling it · an agent','讲这个故事的 · 就是主体',800,300,tl,{color:mix(P.col,'#ffffff',.5)});
+    if(tl>0){stroke(g,P.col,tl*.8,1.6);g.setLineDash([4,6]);g.beginPath();g.moveTo(x+6,y-118);g.quadraticCurveTo(470,380,600,330);g.stroke();g.setLineDash([])}}};
+const oneModel=(g,lt,S,P,t0)=>{const t=lt-t0,bx=600,by=520,ux=960,uy=640,cy='#9fe0ff';head(g,t,L('from the essay','文中'),L('handed to a language model','把这段话交给一个语言模型'),P.col);
+  ICON.net(g,bx,by,76,cy,pr(t,.4,.6),lt);lab(g,'model','模型',bx,by+100,pr(t,.6,.6),{color:cy});fig(g,ux,uy,36,'#e9edf6',pr(t,.6,.6));
+  const i0=eio(pr(t,1,1.2));arrowLine(g,ux-34,uy-70,lerp(ux-34,bx+92,i0),lerp(uy-70,by-20,i0),'#c9d6f2',pr(t,1,.3)*.8,1.6);
+  const wa=win(lt,S.c(3,0)+1.6,S.c(3,2),.6,.5);ICON.scale(g,bx,by-150,44,'#c9d6f2',wa,Math.sin(lt*1.4)*.22);lab(g,'weighed as a claim','当作一个有待掂量的主张',bx,by-176,wa);
+  // the builders set its goals, data and tests
+  const b=pr(lt,S.c(3,1),.6);[[214,470],[262,500],[214,536]].forEach(([fx,fy],i)=>fig(g,fx,fy+30,22,'#e9edf6',b*clamp((lt-S.c(3,1))*2-i*.3)));
+  [['goals','目标',ICON.target],['data','数据',ICON.data],['tests','检验',ICON.checks]].forEach((w,i)=>{const c1=S.c(3,1)+(S.c(3,2)-S.c(3,1))*(.55+i*.13),e=pr(lt,c1,.5),iy=420+i*96;w[2](g,390,iy,27,C.brass,e,lt-c1);lab(g,w[0],w[1],390,iy+52,e*e,{size:17,color:mix(C.brass,'#ffffff',.3)});if(i!==1)arrowLine(g,422,iy,bx-96,by-30+i*30,C.brass,e*.6,1.4)});
+  lab(g,'the builders chose','造模型的人选的',290,760,b*pr(lt,S.c(3,1)+1,.6),{color:C.brass});
+  lab(g,'no choice made here','这里没有作出抉择',bx,by+136,pr(lt,S.c(3,2),.5),{color:cy});
+  // the output, and what the user does with it
+  const o=pr(lt,S.c(3,3),.5),oe=eio(pr(lt,S.c(3,3),1));arrowLine(g,bx+94,by+24,lerp(bx+94,ux-40,oe),lerp(by+24,uy-36,oe),cy,o*.9,1.8);
+  const acc=win(lt,S.c(3,3)+.4,S.c(3,4)+1.2,.4,.5);check(g,ux,uy-140,14,P.col,acc);lab(g,'accepted · the user’s own','接受 · 就是使用者自己的',880,740,acc,{color:mix(P.col,'#ffffff',.4)});
+  const r=S.c(3,4),dr=S.c(4,0)-r;cross(g,ux-70,uy-150,11,pr(lt,r+dr*.05,.4));
+  const ig=pr(lt,r+dr*.2,.4);stroke(g,'#c9d6f2',ig,3);g.beginPath();g.moveTo(ux-12,uy-150);g.lineTo(ux+12,uy-150);g.stroke();
+  curve(g,[ux+52,uy-140,ux+96,uy-190,ux+110,uy-110,ux+62,uy-128],pr(lt,r+dr*.32,.8),'#c9d6f2',1,2.2);
+  lab(g,'reject · ignore · ask again','拒绝 · 不理 · 再问',860,440,pr(lt,r+dr*.1,.6));
+  const eb=pr(lt,r+dr*.42,.6);back(g,ux-70,uy-138,ux-8,uy-60,40,C.brass,eb,lt);back(g,ux+62,uy-128,ux+8,uy-60,40,C.brass,eb,lt);
+  lab(g,'each a choice · borne by the user','每一样都是抉择 · 后果归使用者',860,740,eb,{color:C.brass})};
+const oneTest2=(g,lt,S,P,t0)=>{const t=lt-t0;head(g,t,L('the same test','同一种检验'),L('now try to drop this one','把这个前提也拿掉试试'),P.col);
+  const A1=win(lt,t0,S.c(4,4)+1,.6,.7);if(A1>0){const x=360,y=680;fig(g,x,y,40,'#e9edf6',A1);
+    const sb=pr(lt,S.c(4,1)+1.6,.5)*A1;ICON.bubble(g,x+90,y-210,250,70,'#c9d6f2',sb,x+14,y-82);ICON.chain(g,x+40,y-210,30,'#ffa8a8',sb,lt);txt(g,L('forced','被迫'),x+140,y-202,{size:24,font:F.disp,style:'italic',color:'#ffa8a8',alpha:sb});
+    const q=[x+40,y-64,x+560,y-300,x+600,y+140,x+46,y-16],p=eio(pr(lt,S.c(4,2),2.4)),[X,Y]=curve(g,q,p,C.brass,A1,2.2);if(p>0&&p<1)lit(g,C.brass,X,Y,18,A1);
+    lab(g,'the denial · the speaker’s own act','否认 · 说话的人正在做的事',800,404,A1*pr(lt,S.c(4,2)+.8,.6),{color:C.brass});
+    curve(g,[x+40,y-40,x+380,y-150,x+400,y+110,x+48,y-4],eio(pr(lt,S.c(4,3),1.8)),P.col,A1,1.8);
+    lab(g,'any refutation · one more instance','任何反驳 · 又一个实例',700,810,A1*pr(lt,S.c(4,3)+.1,.5),{color:mix(P.col,'#ffffff',.45)})}
+  const A2=pr(lt,S.c(4,4)+1.1,.6);if(A2>0){stroke(g,'#9fb3d9',A2*.35,1);g.setLineDash([4,8]);g.beginPath();g.moveTo(620,320);g.lineTo(620,820);g.stroke();g.setLineDash([]);
+    lab(g,'the chooser','选择者',380,350,A2);lab(g,'choosing for oneself','为自己抉择',860,350,A2);
+    const d5=pr(lt,S.c(4,5),.5);eye(g,380,450,28,'#c9d6f2',A2*(1-d5*.6));cross(g,380,450,24,d5);
+    ICON.doc(g,380,590,52,'#c9d6f2',A2);lab(g,'the description','描述',380,680,A2,{size:17});check(g,436,560,12,P.col,pr(lt,S.c(4,5)+.9,.4));
+    lab(g,'drops · nothing changes','拿掉了 · 什么都没变',380,740,pr(lt,S.c(4,5)+.5,.5));
+    fig(g,820,660,40,'#ffffff',A2);const p6=eio(pr(lt,S.c(4,6),1.5)),[X,Y]=curve(g,[856,596,1050,430,1060,760,866,650],p6,C.brass,A2,2.4);if(p6>0&&p6<1)lit(g,C.brass,X,Y,18,1);
+    lit(g,C.brass,820,620,80,p6*.3);lab(g,'returns in the dropping','在拿掉的动作里回来',860,790,pr(lt,S.c(4,6)+.6,.5),{color:C.brass})}};
+
+// ---------------------------------------------------------------------- plate II
+const twoBelief=(g,lt,S,P)=>{monolith(g,lt,.2,P,1,620,520,S);
+  lab(g,'not fixed','不被固定',300,340,pr(lt,S.c(0,2),.6),{color:'#c9d6f2'});
+  lab(g,'fixed, yet one’s own','被固定，仍算自己的',940,340,pr(lt,S.c(0,3),.6),{color:'#c9d6f2'});
+  const a=pr(lt,S.c(0,4),.6);lab(g,'compatibilism','相容论',940,378,a,{color:P.col});lab(g,'Hobbes · Hume','霍布斯 · 休谟',940,412,a*pr(lt,S.c(0,4)+.8,.6))};
+const twoUse=(g,lt,S,P,t0)=>{const l1=S.c(1,1)-t0,d=S.c(1,2)-S.c(1,1);boundaryVisual(g,lt-t0,0,ringed(P,[l1+d*.52,l1+d*.6,l1+d*.68,S.c(1,2)-t0+.3]),1)};
+const twoPrem=(g,lt,S,P,t0)=>{traceDown(g,lt-t0,0,P,1);const c1=S.c(2,1),a=pr(lt,c1,.7);if(a<=0)return;const t=lt-c1,ox=930,oy=560;
+  const open=pr(lt,S.c(2,3),.9),set=1-open*.8,pts=[];
+  for(let k=0;k<9;k++){const an=k/9*TAU+.3,r=74+h2(k,3)*56;pts.push([ox+Math.cos(an)*r*1.2,oy+Math.sin(an)*r*.8,pr(t,.5+k*.14,.4)*a*set])}
+  for(const[x,y,e]of pts){stroke(g,'#9fb3d9',e*.4,1);g.beginPath();g.moveTo(x,y);g.lineTo(ox,oy);g.stroke();dot(g,x,y,4,'#9fb3d9',e)}
+  stroke(g,'#c9d6f2',a*set,1.4);g.strokeRect(ox-17,oy-17,34,34);g.fillStyle=rgba('#e9edf6',a);g.fillRect(ox-6,oy-6,12,12);
+  // the gaze that would take them all in at once, and that no one holds
+  const ga=pr(t,(S.c(2,2)-c1)*.55,.7)*a*set,ey=oy-220;if(ga>0){for(const[x,y]of pts){stroke(g,'#ffffff',ga*.22,1);g.beginPath();g.moveTo(ox,ey+16);g.lineTo(x,y);g.stroke()}
+    eye(g,ox,ey,26,'#ffffff',ga);const na=pr(lt,S.c(2,2),.35);cross(g,ox,ey,22,na*set);
+    lab(g,'a gaze that takes in all','一道看全的目光',ox,ey-44,ga*(1-na));lab(g,'held by no one','没有人握有',ox,ey-44,na*set,{color:'#ffa8a8'})}
+  if(open>0){lit(g,P.col,ox,oy,90,open*.3);fan(g,ox+10,oy,150,'#ffffff',open,pr(lt,S.c(2,3)+.3,1.4),.55);lab(g,'the open origin','开放的起点',ox,oy+124,open,{color:mix(P.col,'#ffffff',.45)})}
+  lab(g,'open · only under the demand','尚无定论 · 只在索求之下',890,760,pr(lt,S.c(2,5),.6),{color:'#ffffff'})};
+const twoReply=(g,lt,S,P,t0)=>{const t=lt-t0;head(g,t,L('the neutral reply','中立的回答'),L('“a further claim, to be argued”','“另外的主张，还需要论证”'),P.col);
+  fig(g,340,680,40,'#e9edf6',pr(t,.4,.6));const c=pr(t,1,.6);stroke(g,'#c9d6f2',c*.6,1.4);g.beginPath();g.moveTo(366,610);g.lineTo(440,500);g.stroke();
+  ICON.doc(g,470,462,50,'#c9d6f2',c);lab(g,'a further claim','另外的主张',470,556,c,{size:17});
+  const dim=1-pr(lt,S.c(3,2),.6)*.5,p=eio(pr(lt,S.c(3,1),2)),[X,Y]=curve(g,[500,470,820,400,740,800,384,664],p,C.brass,dim,2.2);if(p>0&&p<1)lit(g,C.brass,X,Y,18,1);
+  lab(g,'one more instance of choosing','抉择的又一个实例',470,812,pr(lt,S.c(3,1)+1,.6),{color:C.brass});
+  const r=pr(lt,S.c(3,2),.6),r2=r*pr(lt,S.c(3,2)+.5,.5);ICON.fork(g,900,326,56,P.col,r,lt);lab(g,'not fixed','不被固定',900,376,r,{size:17});ICON.rail(g,900,446,60,P.col,r2,lt);lab(g,'fixed, still one’s own','被固定，仍是自己的',900,486,r2,{size:17});
+  const f=pr(lt,S.c(3,3),.6);arrowLine(g,900,490,900,552,P.col,f*.7,1.4);ICON.cube(g,900,612,70,'#ffffff',f,lt);
+  lab(g,'a state of affairs · already finished','一份事态 · 已经完成',850,704,f*pr(lt,S.c(3,3)+1,.6),{color:'#ffa8a8',bg:1})};
+const twoSource=(g,lt,S,P,t0)=>{const t=lt-t0;head(g,t,L('the two “rivals”','两个“对手”'),L('one of them issues the other','其中一个，是另一个的来源'),P.col);
+  const R=win(lt,t0,S.c(4,1)+.9,.6,.8);ICON.gears(g,410,490,100,'#c9d6f2',R,lt);lab(g,'determinism','决定论',410,600,R);ICON.scatter(g,830,490,72,P.col,R,lt);lab(g,'indeterminism','不确定论',830,600,R,{color:mix(P.col,'#ffffff',.4)});
+  txt(g,L('vs','对'),620,512,{size:40,font:F.disp,style:'italic',align:'center',color:C.fg,alpha:R});lab(g,'exactly one of them true','其中恰有一个为真',620,664,R*pr(t,1.1,.5));
+  // the ground that claims are issued from
+  const G=pr(lt,S.c(4,1)+.6,.9),gy=760;if(G<=0)return;stroke(g,P.col,G*.8,2);g.beginPath();g.moveTo(190,gy);g.lineTo(1050,gy);g.stroke();
+  g.globalCompositeOperation='lighter';for(let i=0;i<70;i++){const u=((lt*.12)+h2(i,4))%1;g.fillStyle=rgba(i%2?P.col:'#ffd38a',G*.7*Math.sin(Math.PI*u));g.fillRect(190+h2(i,5)*860+u*40,gy+8+h2(i,6)*70,2,2)}g.globalCompositeOperation='source-over';
+  const s2=pr(lt,S.c(4,2)+.8,.5),s3=pr(lt,S.c(4,3),.6);lab(g,'not the absence of deterministic claims','不是确定论断的缺席',620,gy+52,G*(1-s2));lab(g,'their source','它们的来源',620,gy+52,s2,{color:mix(P.col,'#ffffff',.45)});
+  if(s3<=0)return;const c3=S.c(4,3),d3=S.c(4,4)-c3,fx=280;fig(g,fx,gy,36,'#e9edf6',s3);
+  const x0=470,y0=390,w=500,h=250,fp=eio(pr(lt,c3+d3*.3,d3*.3)),per=2*(w+h);stroke(g,'#c9d6f2',s3,1.8);g.setLineDash([per*fp,per]);g.strokeRect(x0,y0,w,h);g.setLineDash([]);
+  stroke(g,'#c9d6f2',s3*.5,1.2);g.setLineDash([4,6]);g.beginPath();g.moveTo(fx+16,gy-62);g.lineTo(x0,y0+h);g.stroke();g.setLineDash([]);
+  for(let k=0;k<5;k++)dot(g,x0+90+k*85,y0+60+h2(k,9)*120,5,'#9fb3d9',pr(lt,c3+d3*.5+k*.12,.3));
+  dot(g,x0+40,y0+h-40,7,C.brass,pr(lt,c3+d3*.68,.3));
+  const rp=eio(pr(lt,c3+d3*.82,1.6)),[X,Y]=curve(g,[x0+40,y0+h-40,x0+200,y0+h-200,x0+320,y0+h-20,x0+w-30,y0+40],rp,'#ffffff',1,2.2);if(rp>0&&rp<1)lit(g,'#ffffff',X,Y,16,1);
+  lab(g,'a system · its variables · a start · a rule','系统 · 变量 · 起点 · 规则',x0+w/2,y0-22,s3*pr(lt,c3+d3*.35,.6));
+  lab(g,'one continuation','只有一个后继',x0+w-140,y0+h-22,win(lt,S.c(4,4),S.c(4,6),.5,.5));
+  const a5=pr(lt,S.c(4,5),.5);lit(g,C.brass,fx,gy-44,80,a5*.4);lab(g,'the act of issuing · outside','作出它的动作 · 在叙述之外',430,gy+100,a5,{color:C.brass});
+  [['prediction','预测',ICON.arc],['engineering','工程',ICON.truss],['testing','检验',ICON.flask]].forEach((wd,i)=>{const e=pr(lt,S.c(4,6)+.6+i*.7,.5),xx=x0+w/2+(i-1)*190;wd[2](g,xx,y0+h+40,30,P.col,e,lt);lab(g,wd[0],wd[1],xx,y0+h+96,e*e,{size:17,color:mix(P.col,'#ffffff',.4)})})};
+function grow(g,x,y,an,len,depth,u,col,lt){if(depth<=0||u<=0)return;const e=eo(clamp(u));[-.42,.42,0].forEach((da,i)=>{const a2=an+da,l=len*(i===2?.45:1)*e,x1=x+Math.cos(a2)*l,y1=y+Math.sin(a2)*l;
+  if(i===2)g.setLineDash([4,6]);stroke(g,col,(i===2?.45:.85)*(.35+depth*.16),1.6);g.beginPath();g.moveTo(x,y);g.lineTo(x1,y1);g.stroke();g.setLineDash([]);
+  if(i<2){if(u<1.2)lit(g,'#ffffff',x1,y1,10,.8*(1.2-u));grow(g,x1,y1,a2*.55,len*.62,depth-1,u-1,col,lt)}})}
+const twoNotFixed=(g,lt,S,P,t0)=>{const t=lt-t0;head(g,t,L('the word “source”','“来源”这个词'),L('invites a first link','招来一条链的第一环'),P.col);
+  const C1=win(lt,t0,S.c(5,2)+1.2,.6,.8);if(C1>0){for(let k=0;k<5;k++){stroke(g,k?'#c9d6f2':C.brass,C1*pr(t,.6+k*.25,.4),2.4);g.beginPath();g.ellipse(360+k*112,500,66,26,0,0,TAU);g.stroke()}
+    dot(g,300,500,8,C.brass,C1*pr(t,.6,.4));lab(g,'a fixed point upstream','上游一个固定的点',400,420,C1*pr(t,1.6,.6),{color:C.brass});
+    cross(g,300,500,24,C1*pr(lt,S.c(5,1),.4));lab(g,'not fixed in that sense','不是那种意义上的固定',620,600,C1*pr(lt,S.c(5,1)+.1,.4))}
+  // the differentiating, as ongoing action
+  const c2=S.c(5,2),D=pr(lt,c2+.3,.8);if(D<=0)return;const ox=300,oy=600;g.save();g.globalAlpha=D;lit(g,P.col,ox,oy,70,.5+.2*Math.sin(lt*2));dot(g,ox,oy,6,'#ffffff',1);
+  grow(g,ox,oy,0,230,4,(lt-c2-.5)*.62,'#ffffff',lt);g.restore();
+  const k3=pr(lt,S.c(5,3)+.8,.6);lab(g,'one thing · another · or nothing','这一样 · 另一样 · 或者什么都不选',640,850,D*pr(lt,c2+2.4,.6)*(1-k3));
+  label(g,L('the differentiating · ongoing','区分 · 持续的动作'),190,760,{alpha:D*pr(lt,c2+1,.6),color:mix(P.col,'#ffffff',.45)});
+  if(k3>0){card(g,ox,oy,120,120,'','#ffa8a8',k3,{dash:[7,7],off:-lt*14});arrowLine(g,186,540,236,572,'#ffa8a8',k3,1.6);arrowLine(g,186,660,236,628,'#ffa8a8',k3,1.6);
+    lab(g,'a fixed source · determinism again','固定的来源 · 又是决定论的前提',560,850,k3*(1-pr(lt,S.c(5,4)+1.3,.5)),{color:'#ffa8a8'});
+    lab(g,'the distributing · already distributed?','作出分布的能力 · 已被分布好了？',560,850,pr(lt,S.c(5,4)+1.3,.5),{color:'#ffa8a8'})}};
+
+// ---------------------------------------------------------------------- close
+const wakeAt=v=>[240+v*760,590+Math.sin(v*7)*44-v*70];
+const closeWake=(g,lt,S,P,t0)=>{const col=S.col,T=S.c(2,0),u=clamp(lt/T,0,1);head(g,lt,L('what stops','停下来的'),L('is what the differentiating leaves behind','是区分留在身后的东西'),col);
+  const N=56;for(let k=0;k<N;k++){const v=k/N;if(v>u)break;const[x,y]=wakeAt(v),heat=clamp(1-(u-v)*T/3.5);g.fillStyle=rgba(mix('#6f7a96','#ffd38a',heat),.4+.6*heat);g.fillRect(x-3,y-3,6,6)}
+  const[px,py]=wakeAt(u);lit(g,col,px,py,90,.45);lit(g,'#ffffff',px,py,26,.95);dot(g,px,py,5,'#ffffff',1);
+  const ob=pr(lt,S.c(1,1),.5),left=u<.55;label(g,L('the differentiating','区分'),px+(left?20:-20),py-30,{align:left?'left':'right',alpha:pr(lt,S.c(0,1),.6)*(1-ob),color:'#ffffff'});
+  label(g,L('the observer · not among them','观察者 · 不在其中'),px+(left?20:-20),py-30,{align:left?'left':'right',alpha:ob,color:'#ffffff'});
+  // one mark is set down as a result, and looked at
+  const r=pr(lt,S.c(0,2),.6),fade=1-pr(lt,S.c(1,0),.8)*.88,[x0,y0]=wakeAt(8/N);if(r>0){stroke(g,'#c9d6f2',r*fade,1.6);g.strokeRect(x0-16,y0-16,32,32);
+    eye(g,x0+60,y0-190,24,'#ffffff',r*fade);stroke(g,'#ffffff',r*.5*fade,1.2);g.setLineDash([4,6]);g.beginPath();g.moveTo(x0+54,y0-170);g.lineTo(x0+6,y0-20);g.stroke();g.setLineDash([]);
+    lab(g,'set down as a result','当作一个结果放下来',x0+90,y0-232,r*fade);
+    const a3=pr(lt,S.c(0,3),.6)*fade,c3=S.c(0,3),d3=S.c(1,0)-c3;lab(g,'taken for the source','被当作来源',x0+70,y0+62,a3,{color:'#ffa8a8'});
+    lab(g,'stopping · looking · accounting','停下 · 查看 · 交代',x0+150,y0+110,a3*pr(lt,c3+d3*.35,.6));lab(g,'further instances','都是又一个实例',x0+150,y0+146,a3*pr(lt,c3+d3*.5,.6),{color:mix(col,'#ffffff',.3)})}
+  // these lines are among what is left
+  const w=win(lt,S.c(1,0),S.c(1,2)+.4,.6,.6);if(w>0){const[lx,ly]=wakeAt(.3);for(let k=0;k<3;k++){stroke(g,'#c9d6f2',w*.8,2);g.beginPath();g.moveTo(lx-10,ly+40+k*14);g.lineTo(lx+90-k*18,ly+40+k*14);g.stroke()}
+    lab(g,'these lines too','这几行字也在其中',lx+40,ly+114,w)}
+  // another observer can only infer it, and the inference arrives later
+  const i2=pr(lt,S.c(1,2),.6);if(i2>0){const ex=860,ey=300,[gx,gy]=wakeAt(Math.max(0,u-.09));eye(g,ex,ey,24,'#c9d6f2',i2);lab(g,'another observer','另一个观察者',ex,ey-44,i2);
+    stroke(g,'#c9d6f2',i2*.6,1.2);g.setLineDash([4,6]);g.beginPath();g.moveTo(ex-6,ey+20);g.lineTo(gx,gy-14);g.stroke();stroke(g,'#c9d6f2',i2,1.6);g.beginPath();g.arc(gx,gy,12,0,TAU);g.stroke();g.setLineDash([]);
+    lab(g,'inferred','推断出的',gx,gy+52,i2);
+    const a3=pr(lt,S.c(1,3),.5),a4=pr(lt,S.c(1,4)+.5,.5);lab(g,'observed other ≠ inferred other','被观察到的他者 ≠ 被推断出的他者',620,850,a3*(1-a4));lab(g,'the inference arrives later','推断总是到得晚',620,850,a4,{color:mix(col,'#ffffff',.3)})}};
+const closeReturn=(g,lt,S,P,t0)=>{const t=lt-t0,col=S.col,f=pr(lt,S.c(2,5)-.3,.9),dim=1-f*.82;
+  font(g,34,F.disp,'italic');wrapLines(g,L('“Why did evolution choose humans to be the most intelligent species?”','“演化为什么选中了人类，让人类做最聪明的物种？”'),820).forEach((l,i)=>txt(g,l,620,230+i*46,{size:34,font:F.disp,style:'italic',align:'center',color:'#c9d6f2',alpha:pr(t,.3,.8)*dim}));
+  // no chooser turns up
+  const e=win(lt,S.c(2,1),S.c(2,3),.6,.6);if(e>0){stroke(g,'#c9d6f2',e*.7,1.4);g.setLineDash([5,7]);g.lineDashOffset=-lt*10;g.beginPath();g.arc(620,420,46,0,TAU);g.stroke();g.setLineDash([]);g.lineDashOffset=0;
+    eye(g,620,420,22,'#c9d6f2',e*(1-pr(lt,S.c(2,1)+(S.c(2,2)-S.c(2,1))*.5,.9)));lab(g,'no chooser turns up','没有一位选择者出现',620,506,e*pr(lt,S.c(2,1)+(S.c(2,2)-S.c(2,1))*.55,.6))}
+  // each being that chooses for itself
+  const b=pr(lt,S.c(2,2),.6)*dim;for(let i=0;i<5;i++){const x=280+i*165,y=690,a=b*clamp((lt-S.c(2,2))*2-i*.35);fig(g,x,y,30,'#e9edf6',a);fan(g,x+26,y-40,62,'#ffffff',a,pr(lt,S.c(2,2)+.6+i*.3,1.2),.6)}
+  lab(g,'each chooses for itself · bears what follows','各自抉择 · 各自承担后果',620,760,b*pr(lt,S.c(2,2)+1,.6),{color:C.brass});
+  // determined or undetermined: asked of a finished thing
+  const d=win(lt,S.c(2,3),S.c(2,4)+.7,.6,.6);if(d>0){ICON.cube(g,620,416,80,'#ffffff',d,lt);
+    lab(g,'determined?','被决定？',350,428,d);lab(g,'undetermined?','未被决定？',900,428,d);
+    lab(g,'the asking · the differentiating under way','索要这个动作 · 就是正在进行的区分',620,506,d*pr(lt,S.c(2,3)+(S.c(2,4)-S.c(2,3))*.25,.6),{color:mix(col,'#ffffff',.3)})}
+  // what keeps its use among what is left behind
+  const us=win(lt,S.c(2,4),S.c(2,5)-.2,.6,.6);if(us>0){const c4=S.c(2,4),d4=S.c(2,5)-c4;[['records','记录',ICON.ledger],['regularities','规律',ICON.wave],['coordination','协调',ICON.hands]].forEach((w,i)=>{const e=us*pr(lt,c4+d4*(.25+i*.12),.5),xx=620+(i-1)*250;w[2](g,xx,400,36,col,e,lt);lab(g,w[0],w[1],xx,474,e*e,{size:17,color:mix(col,'#ffffff',.3)})});
+    lab(g,'of use · among what is left behind','各有其用 · 在留下来的东西里',620,524,us*pr(lt,c4+.8,.6))}
+  // the choosing is not on the record
+  if(f>0){const x=620+(lt-S.c(2,5))*26;lit(g,col,x,520,120,f*.5);lit(g,'#ffffff',x,520,30,f);dot(g,x,520,5,'#ffffff',f);
+    kin(g,L('The choosing is not on the record.','抉择不在记录上。'),620,440,S.c(2,5)-.1,lt,{size:L(54,60),font:L(F.disp,F.zh),align:'center',stagger:.03})}};
+
+// ---------------------------------------------------------------------- scenes
+const DEF=[
+ {id:'open',beats:['b01'],col:'#7fa8ff',name:['Prologue','引子'],stages:[{draw:openDraw}]},
+ {id:'one',beats:['b02','b03','b04','b05','b06'],stages:[{draw:oneBelief},{at:[1,0],draw:oneWord},{at:[1,2],off:.8,draw:oneUse,key:'use'},{at:[1,4],draw:onePrem,key:'prem'},{at:[1,6],draw:oneTest},{at:[2,0],draw:oneRemains},{at:[3,0],draw:oneModel},{at:[4,0],draw:oneTest2}]},
+ {id:'two',beats:['b07','b08','b09','b10','b11','b12'],stages:[{draw:twoBelief},{at:[1,0],draw:twoUse,key:'use'},{at:[2,0],draw:twoPrem,key:'prem'},{at:[3,0],draw:twoReply},{at:[4,0],draw:twoSource},{at:[5,0],draw:twoNotFixed}]},
+ {id:'close',beats:['b13','b14','b15'],col:'#ffe3a3',name:['The Return','回到问题'],stages:[{draw:closeWake},{at:[2,0],draw:closeReturn}]}];
+function buildScenes(lang){const tl=TL[lang],by=Object.fromEntries(tl.beats.map(b=>[b.id,b]));
+  const starts=DEF.map((d,i)=>i?by[d.beats[0]].start-.5:0);
+  return DEF.map((d,i)=>{const bs=d.beats.map(id=>by[id]),start=starts[i],end=i+1<DEF.length?starts[i+1]:tl.total;
+    const S={id:d.id,idx:i,start,dur:end-start,book:d.id,colOf:d.col,nameOf:d.name};
+    S.c=(b,l)=>b>=bs.length?S.dur:l<bs[b].lines.length?bs[b].lines[l].t-start:b+1<bs.length?bs[b+1].lines[0].t-start:S.dur;
+    S.cue=k=>S.c(0,k);S.lines=bs.flatMap(b=>b.lines.map(l=>({t:l.t-start,d:l.d,text:l.text})));
+    S.stages=d.stages.map(st=>Object.assign({},st,{t:st.at?S.c(st.at[0],st.at[1])+(st.off||0):0}));
+    const at=k=>(S.stages.find(st=>st.key===k)||{t:1e9}).t;S.stampT=at('prem')+2.4;S.useT=at('use');return S})}
+const SCNS={en:buildScenes('en'),zh:buildScenes('zh')};
+let SCN=SCNS.en;
+function setLang(lang){LANG=lang;SCN=SCNS[lang];for(const S of SCN){S.P=plateOf(S.id);S.col=S.P?S.P.col:S.colOf;S.name=S.P?S.P.name:L(S.nameOf[0],S.nameOf[1])}}
+const stageAt=(S,lt)=>{let k=0;for(let j=1;j<S.stages.length;j++)if(lt>=S.stages[j].t-.55)k=j;return k};
+function drawPlate(g,lt,S){const st=S.stages,k=stageAt(S,lt),V=j=>gg=>st[j].draw(gg,lt,S,S.P,st[j].t);
+  if(k===0)V(0)(g);else sweep(g,lt,st[k].t-.55,V(k-1),V(k),S.col)}
+
+// ---------------------------------------------------------------------- panel
+function fitText(g,s,size,fam,style,maxW){let z=size;do{font(g,z,fam,style);if(g.measureText(s).width<=maxW)break;z-=2}while(z>18);return z}
+function panelH(g,lt,S,P){const x=1300,w=520;let y=170;
+  label(g,L(`Plate ${ROMAN[P.n-1]} of II`,`图版 ${'一二'[P.n-1]} / 二`),x,y,{alpha:pr(lt,.35,.6),color:P.col});y+=64;
+  font(g,42,F.disp);const T=wrapLines(g,P.title,w);T.forEach((l,i)=>txt(g,l,x,y+i*50,{size:42,font:F.disp,alpha:pr(lt,.55,.7)}));y+=T.length*50;
+  y+=para(g,P.epi,x,y,w,{size:23,font:F.disp,style:'italic',color:P.col,alpha:pr(lt,1.3,.8),lh:31})*31+30;
+  const ba=pr(lt,2,.6);label(g,L('the belief','信念'),x,y,{alpha:ba,color:'#c9d6f2'});y+=36;
+  y+=para(g,P.belief,x,y,w,{size:25,alpha:ba,lh:33})*33+34;
+  const sa=pr(lt,S.stampT,.4);if(sa>0){const sy=y+34,s=lerp(1.3,1,eob(pr(lt,S.stampT,.5)));g.save();g.translate(x+w/2,sy);g.scale(s,s);g.globalAlpha=sa;g.strokeStyle=P.col;g.lineWidth=1.5;g.strokeRect(-w/2,-44,w,128);g.strokeRect(-w/2+5,-39,w-10,118);g.restore();
+    label(g,L('the premise sits at','前提所在'),x+w/2,sy-12,{align:'center',color:P.col,alpha:sa});
+    txt(g,P.stamp,x+w/2,sy+30,{align:'center',size:fitText(g,P.stamp,38,F.disp,'italic',w-40),font:F.disp,style:'italic',alpha:sa});
+    font(g,17,F.sans);const pl=wrapLines(g,P.prem,w-50);pl.forEach((l,i)=>txt(g,l,x+w/2,sy+58+i*21,{align:'center',size:17,color:'#c9d6f2',alpha:sa}));
+    const fl=1-pr(lt,S.stampT,.8);if(fl>0)lit(g,P.col,x+w/2,sy,260,fl*.6)}
+  y+=150;const ua=pr(lt,S.useT+.3,.7);label(g,L('the boundary','边界'),x,y,{alpha:ua,color:'#c9d6f2'});txt(g,L('traced, not refuted','追溯，不是反驳'),x,y+36,{size:24,font:F.disp,style:'italic',alpha:ua});
+  const act=stageAt(S,lt);P.steps.forEach((s,i)=>{const on=i===act,yy=792+i*26;label(g,s,x+22,yy,{size:19,track:1.6,color:on?P.col:C.muted,alpha:.9*(on?1:i<act?.6:.35)});if(on)dot(g,x+6,yy-6,4,P.col,.9)})}
+function panelV(g,lt,S,P){const x=70,w=940;
+  label(g,L(`Plate ${ROMAN[P.n-1]} of II`,`图版 ${'一二'[P.n-1]} / 二`),x,176,{size:22,alpha:pr(lt,.35,.6),color:P.col});
+  txt(g,P.title,x,242,{size:fitText(g,P.title,54,F.disp,'',w),font:F.disp,alpha:pr(lt,.55,.7)});
+  para(g,P.epi,x,290,w,{size:28,font:F.disp,style:'italic',color:P.col,alpha:pr(lt,1.3,.8),lh:36});
+  const act=stageAt(S,lt),n=P.steps.length;P.steps.forEach((s,i)=>{g.fillStyle=rgba(i===act?P.col:'#8d97b1',i===act?1:i<act?.6:.25);g.fillRect(x+w-n*26+i*26,160,18,4)});
+  const ba=pr(lt,2,.6);label(g,L('the belief','信念'),x,1396,{size:22,alpha:ba,color:'#c9d6f2'});para(g,P.belief,x,1438,w,{size:32,alpha:ba,lh:40});
+  const sa=pr(lt,S.stampT,.4);if(sa>0){g.globalAlpha=sa;g.strokeStyle=P.col;g.lineWidth=1.5;g.strokeRect(x,1500,w,84);g.globalAlpha=1;
+    label(g,L('the premise sits at','前提所在'),x+24,1551,{size:22,color:P.col,alpha:sa});txt(g,P.stamp,x+w-24,1556,{align:'right',size:42,font:F.disp,style:'italic',alpha:sa});
+    const fl=1-pr(lt,S.stampT,.8);if(fl>0)lit(g,P.col,x+w/2,1542,300,fl*.6)}}
+
+// ---------------------------------------------------------------------- frame, HUD, renderer
+let SHAPE='h',CW=1920,CH=1080,BGV,OA,OB,showCC=true;const PLT=mkCanvas(W,H),TR=.95;
+function buildBackdropV(){BGV=mkCanvas(1080,1920);const g=BGV.getContext('2d'),w=1080,h=1920;
+  const gr=g.createRadialGradient(w/2,h*.44,80,w/2,h/2,h*.7);gr.addColorStop(0,'#0c1222');gr.addColorStop(.55,'#070a14');gr.addColorStop(1,'#030409');g.fillStyle=gr;g.fillRect(0,0,w,h);
+  g.strokeStyle='rgba(159,179,217,0.045)';g.lineWidth=1;for(let k=-4;k<=4;k++){g.beginPath();g.ellipse(w/2,h/2,Math.max(1,Math.abs(k)*150),h*.56,0,0,TAU);g.stroke()}
+  for(let k=-9;k<=9;k++){g.beginPath();const y=h/2+k*100;g.moveTo(0,y);for(let x=0;x<=w;x+=40)g.lineTo(x,y+Math.cos((x-w/2)/w*Math.PI)*k*8);g.stroke()}
+  const r=rng(7);for(let i=0;i<520;i++){g.fillStyle=`rgba(210,222,255,${0.05+r()*0.3})`;const s=r()<.08?1.8:1;g.fillRect(r()*w,r()*h,s,s)}
+  const vg=g.createRadialGradient(w/2,h/2,h*.3,w/2,h/2,h*.72);vg.addColorStop(0,'rgba(0,0,0,0)');vg.addColorStop(1,'rgba(0,0,0,0.6)');g.fillStyle=vg;g.fillRect(0,0,w,h)}
+function sceneFrame(g,i,lt){const S=SCN[i];g.save();g.setTransform(1,0,0,1,0,0);g.globalAlpha=1;g.globalCompositeOperation='source-over';g.textAlign='left';g.setLineDash([]);
+  try{if(SHAPE==='h'){BARE=false;if(S.P){backdrop(g,S.col,.08,560,520);BARE=true;drawPlate(g,lt,S);BARE=false;layer(g,pr(lt,.95,.45),L2,gg=>panelH(gg,lt,S,S.P))}
+      else{backdrop(g,S.col,.08,960,520);BARE=true;g.translate(340,0);drawPlate(g,lt,S)}}
+    else{g.drawImage(BGV,0,0);const py=S.P?330:300;lit(g,S.col,540,py+470,820,.08);const pc=PLT.getContext('2d');pc.setTransform(1,0,0,1,0,0);pc.clearRect(0,0,W,H);pc.save();BARE=true;drawPlate(pc,lt,S);pc.restore();
+      g.drawImage(PLT,150,110,940,880,0,py,1081,1012);if(S.P)panelV(g,lt,S,S.P)}}catch(e){console.error(S.id,e)}
+  BARE=false;g.restore()}
+function composite(g,A,B,p,type,acc){const e=eio(p),cx=CW/2,cy=CH/2;g.fillStyle='#000';g.fillRect(0,0,CW,CH);
+  if(type==='iris'){g.drawImage(A,0,0);const r=e*Math.hypot(cx,cy)*1.05;g.save();g.beginPath();g.arc(cx,cy,r,0,TAU);g.clip();g.drawImage(B,0,0);g.restore();
+    g.strokeStyle=rgba(acc,1-e);g.lineWidth=3+10*(1-e);g.beginPath();g.arc(cx,cy,r,0,TAU);g.stroke();lit(g,acc,cx,cy,r*.4,(1-e)*.25)}
+  else{g.save();g.globalAlpha=1-e;g.translate(cx,cy);g.scale(1+e*.5,1+e*.5);g.drawImage(A,-cx,-cy);g.restore();
+    g.save();g.globalAlpha=e;g.translate(cx,cy);const s=1.25-.25*e;g.scale(s,s);g.drawImage(B,-cx,-cy);g.restore();lit(g,acc,cx,cy,900,Math.sin(Math.PI*p)*.35)}}
+function hud(g,t,i,lt){const S=SCN[i],v=SHAPE==='v',m=v?24:34;g.strokeStyle='rgba(200,215,255,0.16)';g.lineWidth=1;g.strokeRect(m,m,CW-2*m,CH-2*m);
+  g.beginPath();for(let x=m+48;x<CW-m-6;x+=48){const l=((x-m-48)/48)%5===0?9:5;g.moveTo(x,m);g.lineTo(x,m+l);g.moveTo(x,CH-m);g.lineTo(x,CH-m-l)}
+  for(let y=m+48;y<CH-m-6;y+=48){const l=((y-m-48)/48)%5===0?9:5;g.moveTo(m,y);g.lineTo(m+l,y);g.moveTo(CW-m,y);g.lineTo(CW-m-l,y)}g.stroke();
+  label(g,v?'not a toe':L('not a toe · the open question is determinism’s demand','NOT A TOE · 悬而未决是决定论的索求'),m+28,m+44,{size:v?22:19,alpha:.6});
+  label(g,S.name,CW-m-28,m+44,{size:v?22:19,align:'right',alpha:.8*(i>0&&lt<TR?pr(lt,.2,.6):1),color:S.col});
+  label(g,`T+ ${String(Math.floor(t/60)).padStart(2,'0')}:${String(Math.floor(t%60)).padStart(2,'0')}`,m+28,CH-m-20,{size:v?22:19,alpha:.5});
+  if(showCC){let cur=null;for(const l of S.lines)if(lt>=l.t-.15&&lt<=l.t+l.d+.35)cur=l;
+    if(cur){const a=clamp((lt-cur.t+.15)/.25)*clamp((cur.t+cur.d+.35-lt)/.3),ip=!!S.P,cx=v?540:ip?655:960,mw=v?950:ip?1150:1400,fs=v?(LANG==='zh'?44:38):29,lh=Math.round(fs*1.34);
+      font(g,fs,F.sans,'500');const Ls=wrapLines(g,cur.text,mw),y0=(v?1856:CH-106)-(Ls.length-1)*lh;
+      if(!v){g.save();g.globalAlpha=a*.88;const gr=g.createLinearGradient(0,y0-60,0,CH-40);gr.addColorStop(0,'rgba(3,4,9,0)');gr.addColorStop(1,'rgba(3,4,9,0.9)');g.fillStyle=gr;g.fillRect(cx-mw/2-80,y0-60,mw+160,CH-40-(y0-60));g.restore()}
+      g.shadowColor='rgba(0,0,0,.9)';g.shadowBlur=14;Ls.forEach((l,k)=>txt(g,l,cx,y0+k*lh,{size:fs,font:F.sans,style:'500',align:'center',color:'#f2f4fa',alpha:a}));g.shadowBlur=0}}
+  g.globalAlpha=.05;g.globalCompositeOperation='overlay';g.fillStyle=g.createPattern(GRAIN,'repeat');g.save();g.translate(Math.floor(Math.random()*256),Math.floor(Math.random()*256));g.fillRect(-256,-256,CW+256,CH+256);g.restore();g.globalCompositeOperation='source-over';g.globalAlpha=1}
+const cv=document.getElementById('stage'),ctx=cv.getContext('2d');
+const sceneAt=t=>{let i=0;for(let k=0;k<SCN.length;k++)if(t>=SCN[k].start)i=k;return i};
+function render(t){const total=TL[LANG].total;t=clamp(t,0,total-.001);const i=sceneAt(t),S=SCN[i],lt=t-S.start;
+  if(i>0&&lt<TR){sceneFrame(OA.getContext('2d'),i-1,t-SCN[i-1].start);sceneFrame(OB.getContext('2d'),i,lt);ctx.save();composite(ctx,OA,OB,lt/TR,i%2?'iris':'zoom',S.col);ctx.restore()}
+  else sceneFrame(ctx,i,lt);
+  hud(ctx,t,i,lt)}
+
+// ---------------------------------------------------------------------- player: the narration is the clock
+const $=id=>document.getElementById(id),q=new URLSearchParams(location.search),audio=$('audio'),bar=$('bar');
+// Inside a post (embed=1) the post's own switch sets the language and the frame is told how tall the film is; it stays landscape.
+const embed=q.get('embed')==='1';
+if(q.get('bar')==='0')bar.hidden=true;
+if(embed)for(const b of bar.querySelectorAll('[data-lang]'))b.hidden=true;
+const clock=s=>Math.floor(s/60)+':'+String(Math.floor(s%60)).padStart(2,'0');
+const tell=()=>{if(embed)parent.postMessage({natHeight:Math.round(innerWidth*CH/CW+(bar.hidden?0:bar.offsetHeight))},location.origin)};
+addEventListener('message',e=>{if(e.origin===location.origin&&(e.data?.natLang==='en'||e.data?.natLang==='zh'))switchTo(e.data.natLang)});
+function fit(){tell();const bh=bar.hidden?0:bar.offsetHeight,aw=innerWidth,ah=innerHeight-bh,s=Math.min(aw/CW,ah/CH);cv.style.width=CW*s+'px';cv.style.height=CH*s+'px';cv.style.left=(aw-CW*s)/2+'px';cv.style.top=(ah-CH*s)/2+'px'}
+function setShape(s){SHAPE=s;[CW,CH]=s==='v'?[1080,1920]:[1920,1080];cv.width=CW;cv.height=CH;OA=mkCanvas(CW,CH);OB=mkCanvas(CW,CH);fit()}
+const autoShape=()=>q.get('shape')||(embed?'h':innerHeight>innerWidth?'v':'h');
+let HOLD=null;
+function draw(t){render(t);const total=TL[LANG].total;$('time').textContent=clock(t)+' / '+clock(total);$('seekfill').style.width=(t/total*100)+'%'}
+window.drawAt=t=>{HOLD=t;draw(t)};
+const now=()=>HOLD!==null?HOLD:audio.paused&&audio.currentTime===0?3.2:audio.currentTime;
+function load(lang,at=0,play=false){setLang(lang);document.documentElement.lang=lang;for(const b of bar.querySelectorAll('[data-lang]'))b.setAttribute('aria-pressed',String(b.dataset.lang===lang));
+  $('play').textContent=L('Play','播放');audio.src=SRC[lang];audio.addEventListener('loadedmetadata',()=>{audio.currentTime=at;if(play)audio.play()},{once:true})}
+// switching language keeps the place: the same beat, the same share of the way through it
+function switchTo(lang){if(lang===LANG)return;const from=TL[LANG],to=TL[lang],t=audio.currentTime;let i=0;from.beats.forEach((b,n)=>{if(t>=b.start)i=n});
+  const share=clamp((t-from.beats[i].start)/from.beats[i].dur);load(lang,to.beats[i].start+share*to.beats[i].dur,!audio.paused)}
+$('play').onclick=()=>(audio.paused?audio.play():audio.pause());
+audio.onplay=()=>{$('play').textContent=L('Pause','暂停')};audio.onpause=()=>{$('play').textContent=L('Play','播放')};
+$('seek').onclick=e=>{const b=$('seek').getBoundingClientRect();audio.currentTime=clamp((e.clientX-b.left)/b.width)*TL[LANG].total};
+for(const b of bar.querySelectorAll('[data-lang]'))b.onclick=()=>switchTo(b.dataset.lang);
+$('cc').onclick=()=>{showCC=!showCC;$('cc').setAttribute('aria-pressed',String(showCC))};
+cv.onclick=()=>$('play').click();
+addEventListener('keydown',e=>{if(e.key===' '){e.preventDefault();$('play').click()}if(e.key==='ArrowRight')audio.currentTime=Math.min(TL[LANG].total,audio.currentTime+5);if(e.key==='ArrowLeft')audio.currentTime=Math.max(0,audio.currentTime-5)});
+addEventListener('resize',()=>{const s=autoShape();if(s!==SHAPE)setShape(s);else fit()});
+buildBackdrop();buildBackdropV();setShape(autoShape());
+let saved=null;try{saved=localStorage.getItem('nat-media-lang')}catch(e){}
+const first=(q.get('lang')||saved||((navigator.language||'').toLowerCase().startsWith('zh')?'zh':'en'))==='zh'?'zh':'en';
+if(q.get('t')!==null){setLang(first);HOLD=Number(q.get('t'))}else load(first);
+const FACES=['400 20px "Bodoni Moda"','italic 400 20px "Bodoni Moda"','400 20px "Hanken Grotesk"','500 20px "Hanken Grotesk"','400 20px "IBM Plex Mono"','500 20px "Noto Serif SC"','400 20px "Noto Sans SC"','500 20px "Noto Sans SC"'];
+window.ready=Promise.all(FACES.map(f=>document.fonts.load(f,CJK+'Aa'))).catch(()=>{}).then(()=>{for(const c of[kinCache,wrapCache,fCache,sampCache])for(const k in c)delete c[k];draw(now())});
+(function tick(){draw(now());requestAnimationFrame(tick)})();
+
+</script></body></html>

@@ -1644,14 +1644,17 @@ function renderPostMedia(post) {
   const switchHtml = langs.length > 1 && !post.bilingual
     ? `<div class="media-lang" role="group" aria-label="Language">${langs.map(([lang, name]) => `<button type="button" data-media-lang="${lang}" aria-pressed="false">${name}</button>`).join('')}</div>`
     : '';
-  const live = fs.existsSync(path.join(filmsDir, 'jobs', post.slug, 'film.mjs'));
+  // A film drawn on its own canvas (the atlas-engine films, #392 on) ships as one page, index.html, with its narration
+  // beside it, and is embedded as it is; a flat film is played by the shared player from its film.mjs.
+  const own = fs.existsSync(path.join(filmsDir, 'jobs', post.slug, 'index.html'));
+  const live = own || fs.existsSync(path.join(filmsDir, 'jobs', post.slug, 'film.mjs'));
   // A version for what a reader's browser may hold from before the last change: the bytes of the files that changed.
   const stamp = (dir) => { const h = crypto.createHash('sha256'); for (const f of fs.readdirSync(dir, { recursive: true }).sort()) { const full = path.join(dir, f); if (fs.statSync(full).isFile()) h.update(f).update(fs.readFileSync(full)); } return h.digest('hex').slice(0, 10); };
   const filmV = live ? stamp(filmsDir) : '';
   const pageDir = path.join(infographicsDir, post.slug), page = fs.existsSync(path.join(pageDir, 'index.html')) ? `${withBase(`infographics/${post.slug}/`)}?v=${stamp(pageDir)}` : '';
   const data = (items, key) => items.map((x) => `data-${x.lang}="${escapeHtml(x[key])}"`).join(' ');
   const frameHtml = live
-    ? `<div class="video-frame live"><iframe data-live src="${withBase('films/lib/player.html')}?job=${encodeURIComponent(post.slug)}&amp;embed=1&amp;v=${filmV}" title="Film" loading="lazy" allow="autoplay; fullscreen" allowfullscreen></iframe></div>`
+    ? `<div class="video-frame live"><iframe data-live src="${own ? `${withBase(`films/jobs/${post.slug}/`)}?embed=1&amp;v=${filmV}` : `${withBase('films/lib/player.html')}?job=${encodeURIComponent(post.slug)}&amp;embed=1&amp;v=${filmV}`}" title="Film" loading="lazy" allow="autoplay; fullscreen" allowfullscreen></iframe></div>`
     : `<div class="video-frame" data-video ${data(videos, 'id')}><button type="button" class="video-play" aria-label="Play the film"><span class="video-play-mark" aria-hidden="true"></span><span class="video-play-label">视频讲解 · Film</span></button></div>`;
   const videoHtml = videos.length || live
     ? `<section class="post-media">
