@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T22:52:17.665Z",
+    "generated_at": "2026-10-14T23:36:14.478Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -54,7 +54,7 @@
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "b7b01bc6f1e2",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "2bdaef8e8573",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "7dc94da22303",
-      "content/posts/curiosity-has-no-final-form.md": "71f0c315581b",
+      "content/posts/curiosity-has-no-final-form.md": "e5422a70910e",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "bc7f312028fa",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "391c723a2d05",
@@ -404,9 +404,9 @@
       "content/book/causality.md": "6cc7c36374ce",
       "content/book/consciousness.md": "374c33a2478e",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "1e41998c289d",
+      "content/book/index-of-premises.md": "6061a63bc09f",
       "content/book/intelligence.md": "5c06fbf5cc01",
-      "content/book/knowledge-and-learning.md": "f7099cdfbe19",
+      "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "57d582e7bf12",
       "content/book/mathematics.md": "8bb7852e7439",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6093,
+      "edges": 6105,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -1781,8 +1781,8 @@
       "kind": "post",
       "slug": "curiosity-has-no-final-form",
       "path": "content/posts/curiosity-has-no-final-form.md",
-      "title": "Curiosity Has No Final Form",
-      "hash": "71f0c315581b",
+      "title": "好奇没有最终的形态 / Curiosity Has No Final Form",
+      "hash": "e5422a70910e",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
@@ -1791,9 +1791,9 @@
         "what-information-is",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "closed-assumptions-squeeze-compounding-into-s-curves",
+        "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "the-scaffolding-that-keeps-growing",
         "intelligence-belongs-only-to-the-mind",
-        "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
         "openness-is-consistency",
         "individual-choices-as-the-only-causal-levers",
@@ -14614,13 +14614,31 @@
       "from": "curiosity-has-no-final-form",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "curiosity-has-no-final-form",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "The fixed image of transcendence"
+      "label": "超验的定相"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "信息是什么"
     },
     {
       "from": "curiosity-has-no-final-form",
@@ -14632,31 +14650,67 @@
       "from": "curiosity-has-no-final-form",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity first: The hidden engine of talent and development"
+      "label": "好奇先行"
     },
     {
       "from": "curiosity-has-no-final-form",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
     },
     {
       "from": "curiosity-has-no-final-form",
-      "to": "the-scaffolding-that-keeps-growing",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "自尊的刚性外壳与隐性外部归因"
     },
     {
       "from": "curiosity-has-no-final-form",
-      "to": "intelligence-belongs-only-to-the-mind",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "Curiosity First: The Hidden Engine of Talent and Development"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
     },
     {
       "from": "curiosity-has-no-final-form",
       "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "rel": "points_to",
       "label": "The Rigid Shell of Self-Esteem and Hidden External Attribution"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "rel": "points_to",
+      "label": "“知道自己不知道”是一种修辞假象"
     },
     {
       "from": "curiosity-has-no-final-form",
@@ -14668,19 +14722,37 @@
       "from": "curiosity-has-no-final-form",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "curiosity-has-no-final-form",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "curiosity-has-no-final-form",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
-      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+      "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena"
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
@@ -46458,7 +46530,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "1e41998c289d",
+        "hash": "6061a63bc09f",
         "out_degree": 393
       },
       {
@@ -46476,7 +46548,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "f7099cdfbe19",
+        "hash": "6b583c403b35",
         "out_degree": 33
       },
       {
@@ -49695,7 +49767,7 @@
         "from": "book:index-of-premises",
         "to": "curiosity-has-no-final-form",
         "rel": "collects",
-        "label": "Curiosity Has No Final Form"
+        "label": "好奇没有最终的形态 / Curiosity Has No Final Form"
       },
       {
         "from": "book:index-of-premises",
@@ -49767,7 +49839,7 @@
         "from": "book:index-of-premises",
         "to": "curiosity-has-no-final-form",
         "rel": "collects",
-        "label": "Curiosity Has No Final Form"
+        "label": "好奇没有最终的形态 / Curiosity Has No Final Form"
       },
       {
         "from": "book:index-of-premises",
@@ -51519,7 +51591,7 @@
         "from": "book:knowledge-and-learning",
         "to": "curiosity-has-no-final-form",
         "rel": "collects",
-        "label": "Curiosity Has No Final Form"
+        "label": "好奇没有最终的形态 / Curiosity Has No Final Form"
       },
       {
         "from": "book:knowledge-and-learning",

@@ -3199,11 +3199,11 @@ The claim assumes agency needs intimate co-location with an inspectable kernel; 
 ### 好奇心随年龄衰退 / Loss of Curiosity with Age
 `成功学 / Self-Help`
 
-感到好奇心消退，预设生成倾向在衰减；新的痕迹要先经过致密的保留自我形象过滤，这种滞后被误归为内在的不足。
+感到好奇心消退，预设了生成的倾向会随年龄、教育或疲惫衰减，在注意到探究变得迟缓时有用；它在此到了边界：新的痕迹要先经过一副致密的、被保留的自我形象的过滤，被感到的消退是这种滞后，却被误归为内在的匮乏。
 
-Felt loss of curiosity presumes the generative tendency declines; incoming traces are filtered through a dense retained self-image, and that lag is misattributed to an inner deficit.
+The felt loss of curiosity presumes that the generative tendency declines with age, education or fatigue, which is of use in noticing that inquiry has slowed; it reaches its boundary in that incoming traces are first filtered through a dense, retained self-image, and the felt decline is that lag, misattributed to an inner deficit.
 
-→ [Curiosity Has No Final Form](../../posts/curiosity-has-no-final-form/)
+→ [好奇没有最终的形态 / Curiosity Has No Final Form](../../posts/curiosity-has-no-final-form/)
 
 ### 损失曲面导航 / Loss Surface Navigation
 `数学 / Mathematical`
@@ -3307,11 +3307,11 @@ Communicative optimism assumes people naturally understand each other given enou
 ### 数学、物理与哲学是求知的顶点 / Mathematics, Physics and Philosophy as Summit of Inquiry
 `科学 / Scientific`
 
-把三门学科奉为终点，是把它们的残余当作求知的天花板；它们仍是强大而可修正的脚手架，深度取决于区分划得多清晰。
+把数学、物理与哲学奉为求知的终点，在把它们当作最精炼的共有脚手架时有用；它在此到了边界：它把它们的残余当作探究的天花板，并拿来裁定什么才算正当的好奇，而深度取决于在活的前沿上一次区分划得多干净。
 
-Canonizing three disciplines as the terminus treats their residue as the ceiling of inquiry; they remain powerful revisable scaffolding, and depth belongs to how cleanly a distinction is drawn.
+Canonizing mathematics, physics and philosophy as the terminus of inquiry is of use in recognizing them as the most refined shared scaffolding; it reaches its boundary in that it treats their residue as the ceiling of inquiry and uses it to rule on what counts as valid curiosity, while depth is a matter of how cleanly a distinction is drawn at the living edge.
 
-→ [Curiosity Has No Final Form](../../posts/curiosity-has-no-final-form/)
+→ [好奇没有最终的形态 / Curiosity Has No Final Form](../../posts/curiosity-has-no-final-form/)
 
 ### 精英主义卓异神话 / Meritocratic Exceptionalism
 `哲学 / Philosophical`
