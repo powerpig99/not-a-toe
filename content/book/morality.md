@@ -31,7 +31,7 @@ These essays dissect victimhood scripts, suicidal empathy inversions, and the ab
 - [The Initial Distinction, where the rationalism attempted to and failed to escape irrationality](../../posts/the-initial-distinction/)
 - [恶是封闭的善，是善的教条化](../../posts/e-shi-feng-bi-de-shan/)
 - [Moral Language as Projection](../../posts/moral-language-as-projection/)
-- [止步于评判，是认知的歧途](../../posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)
+- [止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition](../../posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)
 - [阳台视角的规训僭越与不可代理的未竟之行 / The Balcony Disciplinary Overstep and the Unproxyable Act](../../posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act/)
 - [共情的能力倒错与边界的排序之争 / The Capability Reversal of Empathy and the Contest of Boundaries](../../posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)
 - [道德倒错与被脚本化的主体 / The Moral Reversal and the Scripted Subject](../../posts/the-moral-reversal-and-the-scripted-subject/)

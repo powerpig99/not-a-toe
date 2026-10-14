@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:46:58.949Z",
+    "generated_at": "2026-10-14T21:53:13.607Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -395,7 +395,7 @@
       "content/posts/you-cant-benchmark-the-fluid.md": "5e3f42fa5041",
       "content/posts/you-tiao-jian-de-zi-you.md": "d4fcc2a945c7",
       "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
-      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "57fe4288466c",
+      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "914571f5e4e9",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "e4aab029e499",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "edb2618d9902",
       "content/posts/zi-you-de-ce-bu-zhun.md": "5e61e170d117",
@@ -404,14 +404,14 @@
       "content/book/causality.md": "6cc7c36374ce",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "6981446aec26",
-      "content/book/index-of-premises.md": "ceb75f579a3a",
+      "content/book/index-of-premises.md": "8305e99b46f5",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "242fc0e02bd2",
       "content/book/life-and-statistics.md": "57d582e7bf12",
       "content/book/mathematics.md": "d68e7f2f0b5a",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "d52dd5b06929",
-      "content/book/morality.md": "25d4f858a2df",
+      "content/book/morality.md": "4cf968f4c1ca",
       "content/book/physics.md": "4dc78b4befa1",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "583610a3fc34",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5968,
+      "edges": 5976,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -9724,8 +9724,8 @@
       "kind": "post",
       "slug": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "path": "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md",
-      "title": "止步于评判，是认知的歧途",
-      "hash": "57fe4288466c",
+      "title": "止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition",
+      "hash": "914571f5e4e9",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -45148,49 +45148,97 @@
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "rel": "points_to",
-      "label": "投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构"
+      "label": "投影的阶梯与因果的锚点"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "rel": "points_to",
+      "label": "The Ladder of Projections and the Anchor of Causality"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "当观测沦为表演"
+      "label": "当观察变成表演"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
-      "label": "从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制"
+      "label": "从形式迷思到逻辑闭环"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "rel": "points_to",
-      "label": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏"
+      "label": "投资决策的因果闭环"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "From the Myth of Form to the Closed Loop of Logic"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "rel": "points_to",
+      "label": "The Causal Loop of Investment Decisions"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "rel": "points_to",
-      "label": "格物致知与信息复杂度的本质"
+      "label": "格物致知与信息复杂度"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "rel": "points_to",
+      "label": "Investigating Things and the Nature of Information Complexity"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "生命的意义在于草拟，而非向外凝望"
+      "label": "生命的意义在起草之中"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
-      "label": "学习过程中不可观察的驱动力"
+      "label": "学习中不可观测的驱动力"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "the-mark-and-the-act",
       "rel": "points_to",
       "label": "印迹与行动"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The Unobservable Driver of Learning"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
     },
     {
       "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
@@ -45708,7 +45756,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ceb75f579a3a",
+        "hash": "8305e99b46f5",
         "out_degree": 393
       },
       {
@@ -45771,7 +45819,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "25d4f858a2df",
+        "hash": "4cf968f4c1ca",
         "out_degree": 28
       },
       {
@@ -49071,7 +49119,7 @@
         "from": "book:index-of-premises",
         "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "rel": "collects",
-        "label": "止步于评判，是认知的歧途"
+        "label": "止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition"
       },
       {
         "from": "book:index-of-premises",
@@ -51339,7 +51387,7 @@
         "from": "book:morality",
         "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "rel": "collects",
-        "label": "止步于评判，是认知的歧途"
+        "label": "止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition"
       },
       {
         "from": "book:morality",

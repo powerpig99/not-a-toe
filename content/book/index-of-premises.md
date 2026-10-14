@@ -3408,11 +3408,11 @@ Hypercritical moralism demands unblemished perfection from achievers; imposing u
 ### 止于评判的认知歧途 / Moral Judgment as Epistemic Trap
 `哲学 / Philosophical`
 
-道德义愤以为定性是非即参透了世事；止步于宣判罪过满足了自我正义感，却放弃了深入剖析因果机理的认知苦功。
+看别人的起落、下“聪明反被聪明误”之类的定论，在快速压缩与归类外部信息时有用；它在此到了边界：所见是别人投在自己井壁上的倒影，问题多半在自己解读的错配里，可见的样本自带偏差，评判停下的地方没有任何参数被更新，把倒影折回第一人称、追问自己的约束与盲区，观察才转化成能力。
 
-Righteous indignation assumes passing moral verdicts explains human behavior; stopping at moral condemnation satisfies emotional self-regard while abandoning the analytical labor of tracing causal roots.
+Watching others' rises and falls and passing verdicts like "cleverness undone by cleverness" is of use in quickly compressing and sorting outside information; it reaches its boundary in that what is seen is another's reflection on one's own well wall, the problem mostly lies in one's own mismatched reading, visible samples carry their own bias, and where judgment stops no parameter is updated, observation turning into capability only when the reflection is turned back into the first person to ask after one's own constraints and blind spots.
 
-→ [止步于评判，是认知的歧途](../../posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)
+→ [止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition](../../posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)
 
 ### 道德语言与价值判断 / Moral Language and Value Judgment
 `哲学 / Philosophical`
