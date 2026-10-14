@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T08:30:20.012Z",
+    "generated_at": "2026-10-14T08:39:55.446Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -223,7 +223,7 @@
       "content/posts/the-coordinators-category-error.md": "89f6110cc916",
       "content/posts/the-cut-moves-but-never-vanishes.md": "2610f984cd07",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "4122ccc35bfa",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "127590e9390a",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7deb853507eb",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "e86ad1bf219f",
@@ -420,10 +420,10 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5557,
-      "unique_directed": 4534,
+      "edges": 5559,
+      "unique_directed": 4535,
       "missing_targets": 0,
-      "one_way": 130,
+      "one_way": 129,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
@@ -5748,7 +5748,7 @@
       "path": "content/posts/the-comment-is-not-the-code.md",
       "title": "注释不是代码 / The Comment Is Not the Code",
       "hash": "1ee31f526434",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 6,
       "links_out": [
         "trusting-the-reader-is-the-last-overstep",
@@ -5880,9 +5880,9 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "4122ccc35bfa",
+      "hash": "127590e9390a",
       "in_degree": 30,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
@@ -5908,6 +5908,7 @@
         "individual-choices-as-the-only-causal-levers",
         "the-invisible-gods-eye",
         "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
+        "the-comment-is-not-the-code",
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-irreducible-observer",
         "the-receptionist-parable-and-the-causal-inversion-of-absence"
@@ -28440,30 +28441,6 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "agency-does-not-arise",
-      "rel": "points_to",
-      "label": "主体性不曾涌现"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "ownership-and-self-worthiness",
-      "rel": "points_to",
-      "label": "所有权与配得感"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
-      "rel": "points_to",
-      "label": "知识问题与委托的幻象"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "no-outside-scorekeeper",
-      "rel": "points_to",
-      "label": "没有外部记账员"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to The Mind"
@@ -28496,7 +28473,31 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "agency-does-not-arise",
       "rel": "points_to",
+      "label": "主体性不曾涌现"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
       "label": "Agency Does Not Arise"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "所有权与配得感"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "知识问题与委托的幻象"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "没有外部记账员"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -28524,18 +28525,6 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-illusion-of-the-unmediated",
-      "rel": "points_to",
-      "label": "无中介的幻觉与恩赐的自由"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
-      "rel": "points_to",
-      "label": "硅基神谕与后果的非对称性"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
@@ -28544,7 +28533,19 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-illusion-of-the-unmediated",
       "rel": "points_to",
+      "label": "无中介的幻觉与恩赐的自由"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-illusion-of-the-unmediated",
+      "rel": "points_to",
       "label": "The Illusion of the Unmediated"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -28572,30 +28573,6 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "choice-itself-has-no-inherent-weight",
-      "rel": "points_to",
-      "label": "抉择本身并不沉重"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-causal-inversion-of-partnership",
-      "rel": "points_to",
-      "label": "契约的因果倒置"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
-      "rel": "points_to",
-      "label": "规程的倒置与因果回路的消声"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
-      "rel": "points_to",
-      "label": "因果回路的稀释与能动性的错配"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "The Sleight of Hand in \"Physics Is the Law\""
@@ -28616,6 +28593,18 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "choice-itself-has-no-inherent-weight",
       "rel": "points_to",
+      "label": "抉择本身并不沉重"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-causal-inversion-of-partnership",
+      "rel": "points_to",
+      "label": "契约的因果倒置"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
       "label": "Choice Itself Has No Inherent Weight"
     },
     {
@@ -28628,7 +28617,19 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
+      "label": "规程的倒置与因果回路的消声"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
       "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "因果回路的稀释与能动性的错配"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -28650,12 +28651,6 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
-      "rel": "points_to",
-      "label": "阳台视角的规训僭越与不可代理的未竟之行"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
@@ -28670,7 +28665,25 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "rel": "points_to",
+      "label": "阳台视角的规训僭越与不可代理的未竟之行"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
+      "rel": "points_to",
       "label": "The Balcony Disciplinary Overstep and the Unproxyable Act"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "注释不是代码"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "The Comment Is Not the Code"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -28686,12 +28699,6 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
-      "rel": "points_to",
-      "label": "前台的寓言与缺席的因果倒置"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
       "label": "From the Misallocated Sentience of AGI to Human Realignment"
@@ -28701,6 +28708,12 @@
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "The Irreducible Observer"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "前台的寓言与缺席的因果倒置"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
