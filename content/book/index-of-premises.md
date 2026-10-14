@@ -1412,7 +1412,7 @@ Shannon's channel capacity counts already-performed binary distinctions relative
 
 Presumes physical reality is computational software running on an external computer; provocative as a thought experiment, it confuses formal symbolic description with existence.
 
-→ [凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable](../../posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable/) · [宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena](../../posts/the-generative-atlas-of-macroscopic-phenomena/)
+→ [凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable](../../posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable/) · [宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena](../../posts/the-generative-atlas-of-macroscopic-phenomena/) · [自由变量的同构与先验主权 / The Isomorphism of Free Variables and Prior Sovereignty](../../posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)
 
 ### 社会契约论 / Social Contract Theory
 `哲学 / Philosophical`
@@ -2661,11 +2661,11 @@ Silicon Valley heralds near-zero marginal cost intelligence; cheapening automate
 ### 自由变量与先验主权 / Free Variable as Sovereign Agency
 `数学 / Mathematical`
 
-决定论建模以为封闭方程能解算所有变量；数学体系在求解前必须指定未受约束的自由变量，映射了观察者的选择。
+量子、比特与个人的选择形式同构，都是一次最小的离散划界，由此生出“现实即模拟”的直觉，作为对同构的捕捉有用；它在此到了边界：比特是心智在电压阈值上画出的下游工具，量子是观察的边界，选择是扩展与经历现实的边界，二者是同一件事的两面，模拟的定义权仍在第一人称的选择那里。
 
-Deterministic modeling treats equations as closed systems determining all variables; a mathematical system requires assigning unconstrained free variables, reflecting the choosing observer.
+Quantum, bit and individual choice are formally isomorphic, each one smallest discrete boundary, which gives rise to the intuition that "reality is a simulation", of use as a grasp of the isomorphism; it reaches its boundary in that the bit is a downstream tool the Mind draws at a voltage threshold, the quantum is the boundary of observing and choice the boundary of widening and living reality, the two being faces of one thing, and the right to define any simulation stays with first-person choice.
 
-→ [自由变量的同构与先验主权：量子、比特与微观选择](../../posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)
+→ [自由变量的同构与先验主权 / The Isomorphism of Free Variables and Prior Sovereignty](../../posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)
 
 ### 向封闭系统注入自由变量 / Free Variable Injection
 `哲学 / Philosophical`

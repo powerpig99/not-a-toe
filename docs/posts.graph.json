@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:28:50.911Z",
+    "generated_at": "2026-10-14T21:30:43.949Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -397,14 +397,14 @@
       "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "57fe4288466c",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "e4aab029e499",
-      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "c22db37a991f",
+      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "edb2618d9902",
       "content/posts/zi-you-de-ce-bu-zhun.md": "5e61e170d117",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "9ce16a51283f",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
-      "content/book/causality.md": "d5d366935d23",
+      "content/book/causality.md": "c5f33217834b",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "6981446aec26",
-      "content/book/index-of-premises.md": "36a2dfa6af04",
+      "content/book/index-of-premises.md": "0211c69cbbf3",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "3df71b75d2b0",
       "content/book/life-and-statistics.md": "57d582e7bf12",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5901,
+      "edges": 5917,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1040,
+      "book_edges": 1041,
       "posts_reached_by_book": 393
     }
   },
@@ -9764,8 +9764,8 @@
       "kind": "post",
       "slug": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
-      "title": "自由变量的同构与先验主权：量子、比特与微观选择",
-      "hash": "c22db37a991f",
+      "title": "自由变量的同构与先验主权 / The Isomorphism of Free Variables and Prior Sovereignty",
+      "hash": "edb2618d9902",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -44948,9 +44948,21 @@
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "when-electrons-think",
+      "rel": "points_to",
+      "label": "When Electrons Think"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "真正的有效信息"
+      "label": "信息是什么"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -44960,15 +44972,27 @@
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
       "label": "主权抉择的双面性与观察的客体化"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "涌现作为心智的划界动作"
+      "label": "复杂性遮蔽了涌现"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -44984,9 +45008,33 @@
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "rel": "points_to",
+      "label": "The Ladder of Projections and the Anchor of Causality"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "Guidance Is Not Ownership"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
       "rel": "points_to",
-      "label": "选择看见而非搜寻影子：从注意力的因果错位到知识的自然扩散"
+      "label": "选择看见而非搜寻影子"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "rel": "points_to",
+      "label": "Choosing to See Rather Than Searching for Shadows"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -44998,19 +45046,43 @@
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
-      "label": "涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错"
+      "label": "涌现的伪因果"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "agency-does-not-arise",
       "rel": "points_to",
       "label": "主体性不曾涌现"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "The Pseudo-Causality of Emergence"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "Agency Does Not Arise"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -45026,6 +45098,18 @@
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "The Discrete Refraction of High-Dimensional Information"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "rel": "points_to",
+      "label": "The Illusion of Knowing and the Geometry of Amputation"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "the-geometry-of-success",
       "rel": "points_to",
       "label": "成功的几何学"
@@ -45035,6 +45119,18 @@
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
       "label": "从AGI的“神性错置”到使用者的自我对齐"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The Geometry of Success"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "From the Misallocated Sentience of AGI to Human Realignment"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
@@ -45279,7 +45375,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "d5d366935d23",
+        "hash": "c5f33217834b",
         "out_degree": 33
       },
       {
@@ -45306,7 +45402,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "36a2dfa6af04",
+        "hash": "0211c69cbbf3",
         "out_degree": 393
       },
       {
@@ -45537,7 +45633,7 @@
         "from": "book:causality",
         "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "rel": "collects",
-        "label": "自由变量的同构与先验主权：量子、比特与微观选择"
+        "label": "自由变量的同构与先验主权 / The Isomorphism of Free Variables and Prior Sovereignty"
       },
       {
         "from": "book:causality",
@@ -47233,6 +47329,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+        "rel": "collects",
+        "label": "自由变量的同构与先验主权 / The Isomorphism of Free Variables and Prior Sovereignty"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "freedom-as-ground",
         "rel": "collects",
         "label": "Freedom as Ground"
@@ -48135,7 +48237,7 @@
         "from": "book:index-of-premises",
         "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "rel": "collects",
-        "label": "自由变量的同构与先验主权：量子、比特与微观选择"
+        "label": "自由变量的同构与先验主权 / The Isomorphism of Free Variables and Prior Sovereignty"
       },
       {
         "from": "book:index-of-premises",

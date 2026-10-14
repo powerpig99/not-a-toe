@@ -31,7 +31,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [Freedom as Ground](../../posts/freedom-as-ground/)
 - [错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler](../../posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)
 - [投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
-- [自由变量的同构与先验主权：量子、比特与微观选择](../../posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)
+- [自由变量的同构与先验主权 / The Isomorphism of Free Variables and Prior Sovereignty](../../posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)
 - [约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom](../../posts/the-look-of-constraint-is-not-the-loss-of-freedom/)
 - [哲学能动性的因果倒置 / The Causal Inversion of Philosophical Agency](../../posts/the-causal-inversion-of-philosophical-agency/)
 - [唯一自洽的无因之果 / The Only Coherent Uncaused Effect](../../posts/the-only-coherent-uncaused-effect/)
