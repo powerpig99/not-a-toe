@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T22:47:32.744Z",
+    "generated_at": "2026-10-14T22:52:17.665Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -378,7 +378,7 @@
       "content/posts/what-always-listens-cannot-originate.md": "46463a5182fe",
       "content/posts/what-cannot-be-kept.md": "54489c87b990",
       "content/posts/what-hinton-failed-to-understand.md": "9d99ffa661dc",
-      "content/posts/what-information-is.md": "5b22db292e7c",
+      "content/posts/what-information-is.md": "e960cd1090c7",
       "content/posts/what-works-is-the-belief.md": "37b5d1183dd7",
       "content/posts/whatever-is-one-prompt-away.md": "1f558b4ab069",
       "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
@@ -404,11 +404,11 @@
       "content/book/causality.md": "6cc7c36374ce",
       "content/book/consciousness.md": "374c33a2478e",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "11a7d7e87edf",
+      "content/book/index-of-premises.md": "1e41998c289d",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "f7099cdfbe19",
       "content/book/life-and-statistics.md": "57d582e7bf12",
-      "content/book/mathematics.md": "3c8accfbc7e0",
+      "content/book/mathematics.md": "8bb7852e7439",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "d52dd5b06929",
       "content/book/morality.md": "4cf968f4c1ca",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6070,
+      "edges": 6093,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1053,
+      "book_edges": 1055,
       "posts_reached_by_book": 393
     }
   },
@@ -9322,17 +9322,17 @@
       "kind": "post",
       "slug": "what-information-is",
       "path": "content/posts/what-information-is.md",
-      "title": "What Information Is",
-      "hash": "5b22db292e7c",
+      "title": "信息是什么 / What Information Is",
+      "hash": "e960cd1090c7",
       "in_degree": 23,
       "out_degree": 23,
       "links_out": [
         "the-mark-and-the-act",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "the-freedom-of-will-to-deny-itself",
-        "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "the-scaffolding-we-forget",
         "the-boundary-of-the-frame",
+        "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "zi-you-de-ce-bu-zhun",
         "the-closed-loop-of-representation",
         "stability-and-excess",
@@ -44086,13 +44086,31 @@
       "from": "what-information-is",
       "to": "the-mark-and-the-act",
       "rel": "points_to",
+      "label": "印迹与行动"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
       "label": "The Mark and the Act"
     },
     {
       "from": "what-information-is",
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
-      "label": "The real scarcity is not memory, but continuous re-tracing"
+      "label": "真正稀缺的不是记忆，而是持续的重新追溯"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
     },
     {
       "from": "what-information-is",
@@ -44102,21 +44120,45 @@
     },
     {
       "from": "what-information-is",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "what-information-is",
       "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "rel": "points_to",
-      "label": "The Rigid Shell of Self-Esteem and Hidden External Attribution"
+      "label": "自尊的刚性外壳与隐性外部归因"
     },
     {
       "from": "what-information-is",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "what-information-is",
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
       "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "what-information-is",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "The Rigid Shell of Self-Esteem and Hidden External Attribution"
+    },
+    {
+      "from": "what-information-is",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准"
     },
     {
       "from": "what-information-is",
@@ -44128,31 +44170,67 @@
       "from": "what-information-is",
       "to": "the-closed-loop-of-representation",
       "rel": "points_to",
+      "label": "表征的闭环"
+    },
+    {
+      "from": "what-information-is",
+      "to": "stability-and-excess",
+      "rel": "points_to",
+      "label": "稳定与溢出"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
       "label": "The Closed Loop of Representation"
     },
     {
       "from": "what-information-is",
       "to": "stability-and-excess",
       "rel": "points_to",
-      "label": "Stability and excess: consciousness, introspection, and the cut of observation"
+      "label": "Stability and Excess"
     },
     {
       "from": "what-information-is",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
-      "label": "The Geometry of Mind: Dimensional Expansion, Self-Reference, and the Open Horizon"
+      "label": "心智的几何学"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
     },
     {
       "from": "what-information-is",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动前沿"
     },
     {
       "from": "what-information-is",
       "to": "dimensions-are-projections",
       "rel": "points_to",
-      "label": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence"
+      "label": "维度即投影"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "向量与投影的迷局"
+    },
+    {
+      "from": "what-information-is",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+    },
+    {
+      "from": "what-information-is",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "Dimensions Are Projections"
     },
     {
       "from": "what-information-is",
@@ -44164,7 +44242,19 @@
       "from": "what-information-is",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
+      "label": "自由变量的同构与先验主权"
+    },
+    {
+      "from": "what-information-is",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
       "label": "The Isomorphism of Free Variables and Prior Sovereignty"
+    },
+    {
+      "from": "what-information-is",
+      "to": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "rel": "points_to",
+      "label": "“知道自己不知道”是一种修辞假象"
     },
     {
       "from": "what-information-is",
@@ -44176,7 +44266,25 @@
       "from": "what-information-is",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
-      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+      "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena"
+    },
+    {
+      "from": "what-information-is",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "好奇没有最终的形态"
+    },
+    {
+      "from": "what-information-is",
+      "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "rel": "points_to",
+      "label": "投影的阶梯与因果的锚点"
     },
     {
       "from": "what-information-is",
@@ -44194,25 +44302,55 @@
       "from": "what-information-is",
       "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "rel": "points_to",
+      "label": "格物致知与信息复杂度"
+    },
+    {
+      "from": "what-information-is",
+      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "rel": "points_to",
       "label": "Investigating Things and the Nature of Information Complexity"
     },
     {
       "from": "what-information-is",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "what-information-is",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "what-information-is",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "what-information-is",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "高维信息的离散折射与认知分层"
+    },
+    {
+      "from": "what-information-is",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "what-information-is",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "what-information-is",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "what-information-is",
@@ -46320,7 +46458,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "11a7d7e87edf",
+        "hash": "1e41998c289d",
         "out_degree": 393
       },
       {
@@ -46356,7 +46494,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "3c8accfbc7e0",
+        "hash": "8bb7852e7439",
         "out_degree": 20
       },
       {
@@ -47127,7 +47265,7 @@
         "from": "book:index-of-premises",
         "to": "what-information-is",
         "rel": "collects",
-        "label": "What Information Is"
+        "label": "信息是什么 / What Information Is"
       },
       {
         "from": "book:index-of-premises",
@@ -47959,6 +48097,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "what-information-is",
+        "rel": "collects",
+        "label": "信息是什么 / What Information Is"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-average-is-residue-not-the-engine",
         "rel": "collects",
         "label": "The Average Is Residue, Not the Engine"
@@ -48255,7 +48399,7 @@
         "from": "book:index-of-premises",
         "to": "what-information-is",
         "rel": "collects",
-        "label": "What Information Is"
+        "label": "信息是什么 / What Information Is"
       },
       {
         "from": "book:index-of-premises",
@@ -49383,13 +49527,13 @@
         "from": "book:index-of-premises",
         "to": "what-information-is",
         "rel": "collects",
-        "label": "What Information Is"
+        "label": "信息是什么 / What Information Is"
       },
       {
         "from": "book:index-of-premises",
         "to": "what-information-is",
         "rel": "collects",
-        "label": "What Information Is"
+        "label": "信息是什么 / What Information Is"
       },
       {
         "from": "book:index-of-premises",
@@ -49942,6 +50086,12 @@
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
         "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "what-information-is",
+        "rel": "collects",
+        "label": "信息是什么 / What Information Is"
       },
       {
         "from": "book:index-of-premises",
@@ -51567,7 +51717,7 @@
         "from": "book:mathematics",
         "to": "what-information-is",
         "rel": "collects",
-        "label": "What Information Is"
+        "label": "信息是什么 / What Information Is"
       },
       {
         "from": "book:mathematics",

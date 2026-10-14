@@ -20,7 +20,7 @@ These essays explore hierarchies of infinity, self-referential paradoxes, and th
 - [Closed Assumptions Squeeze Compounding into S-Curves](../../posts/closed-assumptions-squeeze-compounding-into-s-curves/)
 - [Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 - [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/)
-- [What Information Is](../../posts/what-information-is/)
+- [信息是什么 / What Information Is](../../posts/what-information-is/)
 - [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
 - [高维信息的离散折射与认知分层 / The Discrete Refraction of High-Dimensional Information](../../posts/gao-wei-xin-xi-de-li-san-zhe-she/)
 - [自由变量的生成拓扑 / The Generative Topology of Free Variables](../../posts/the-generative-topology-of-free-variables/)

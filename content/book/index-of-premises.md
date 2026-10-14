@@ -128,11 +128,11 @@ Munger advocates mental models and avoiding unforced errors; peerless for capita
 ### 克劳德·香农 / Claude Shannon
 `数学 / Mathematical`
 
-香农通过概率信道奠定了信息熵理论；极大推动了通信工程，但将信道熵硬套到开放的心智意义生成则脱离了原初定义。
+香农把信息定义为通信信道里不确定性的减少，并写明通信的语义方面与工程问题无关，在信道定容与编码上有用；它在此到了边界：信道熵计数的是相对于约定划分已经完成的区分，搬到开放的意义生成或开放场域的无损知识上，就超出了它自己划定的范围。
 
-Shannon defined information entropy through probabilistic communication channels; brilliant for digital transmission, applying formal entropy to open-ended meaning overextends the theory.
+Shannon defined information as the reduction of uncertainty in a communication channel and stated that the semantic aspects of communication are irrelevant to the engineering problem, which is of use in sizing channels and designing codes; it reaches its boundary in that channel entropy counts distinctions already made relative to an agreed partition, and carried over to open-ended meaning or to lossless knowledge of an open field it goes beyond the scope it set for itself.
 
-→ [Lossless Knowledge of an Open Field Is Incoherent](../../posts/lossless-knowledge-of-an-open-field-is-incoherent/) · [What Information Is](../../posts/what-information-is/)
+→ [Lossless Knowledge of an Open Field Is Incoherent](../../posts/lossless-knowledge-of-an-open-field-is-incoherent/) · [信息是什么 / What Information Is](../../posts/what-information-is/)
 
 ### 科利·多克托罗 / Cory Doctorow
 `意识形态 / Ideological`
@@ -1059,7 +1059,7 @@ Treating overstretch, fiscal exhaustion and institutional decay as lawlike cause
 
 Taking information or matter as primary, or both as dual aspects, exempts each position's starting premise from the scrutiny it applies to rivals, producing both coherence and residual incoherence.
 
-→ [Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/)
+→ [Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [信息是什么 / What Information Is](../../posts/what-information-is/)
 
 ### 制度决定论 / Institutional Determinism
 `经济 / Economic`
@@ -1415,11 +1415,11 @@ The latecomer story reads history through launch dates; victors committed to hig
 ### 香农信息论 / Shannon Information Theory
 `数学 / Mathematical`
 
-香农的信道容量计数的是相对于约定划分已完成的二元区分；在工程上严谨，它按设计排除了意义，并未回答信息是什么。
+信道容量计数的是相对于约定划分已经完成的二元区分，在通信工程上严谨有用；它在此到了边界：它按设计排除了意义，并不回答信息是什么，把这把尺当成信息本身，度量的动作就脱落了。
 
-Shannon's channel capacity counts already-performed binary distinctions relative to an agreed partition; rigorous for engineering, it excluded meaning by design and does not say what information is.
+Channel capacity counts already-performed binary distinctions relative to an agreed partition, rigorous and of use in communication engineering; it reaches its boundary in that it excludes meaning by design and does not say what information is, and taking this ruler for information itself lets the act of measuring drop out.
 
-→ [What Information Is](../../posts/what-information-is/) · [向量与投影的迷局 / The Vector and the Puzzle of Projections](../../posts/the-vector-and-the-puzzle-of-projections/)
+→ [信息是什么 / What Information Is](../../posts/what-information-is/) · [向量与投影的迷局 / The Vector and the Puzzle of Projections](../../posts/the-vector-and-the-puzzle-of-projections/)
 
 ### 模拟宇宙假说 / Simulation Hypothesis
 `哲学 / Philosophical`
@@ -2947,20 +2947,20 @@ Treating currency and inflation as mathematical actors presumes they operate on 
 ### 信息即有组织的数据 / Information as Organized Data
 `技术 / Technological`
 
-把信息定义为有组织的数据，已预设了混乱与有序之间的界线；在操作上有用，却预设了它声称要解释的那次区分。
+把信息定义为有组织的数据，在数据工程里有用；它在此到了边界：它已预设了混乱与有序之间的界线，而组织就是区分，于是它预设了它声称要解释的那次区分。
 
-Defining information as organized data already assumes the boundary between chaotic and organized; useful operationally, it presupposes the prior distinction it claims to explain.
+Defining information as organized data is of use in data engineering; it reaches its boundary in that it already assumes the line between the chaotic and the organized, and since organizing is distinguishing, it presupposes the very distinction it claims to explain.
 
-→ [What Information Is](../../posts/what-information-is/)
+→ [信息是什么 / What Information Is](../../posts/what-information-is/)
 
 ### 信息是物理底层 / Information as Physical Substrate
 `科学 / Scientific`
 
-把信息奠基于比特、熵或粒子，假定存在先于区分的实体；命名一个底层本身又是一次区分，这一回溯没有外部终点。
+把信息奠基于比特、熵或粒子，假定存在先于区分的实体，在各自领域的计算中有用；它在此到了边界：命名一个底层本身又是一次区分，回溯没有外部的终点。
 
-Grounding information in bits, entropy or particles assumes a substance prior to distinction; naming a substrate is another distinction, so the regress has no external halt.
+Grounding information in bits, entropy or particles assumes a substance prior to distinction, which is of use in the calculations of each domain; it reaches its boundary in that naming a substrate is itself another distinction, so the regress has no external halt.
 
-→ [What Information Is](../../posts/what-information-is/)
+→ [信息是什么 / What Information Is](../../posts/what-information-is/)
 
 ### 天生的学习能力 / Innate Learning Ability
 `科学 / Scientific`
@@ -3734,7 +3734,7 @@ Physical immortality assumes living consciousness can be immortalized by endless
 
 The dualism presumes two realms needing a bridge; both are one activity under different holds, so informational descriptions track physical regularities usefully while remaining poorer than what generates them.
 
-→ [Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
+→ [Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/) · [信息是什么 / What Information Is](../../posts/what-information-is/)
 
 ### 群体统计规程的倒置 / Population Protocol Fetish
 `科学 / Scientific`
