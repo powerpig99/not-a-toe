@@ -1282,9 +1282,9 @@ The enshittification model attributes platform decline to executive greed; platf
 ### 普朗克尺度 / Planck Scale
 `科学 / Scientific`
 
-普朗克时间与普朗克长度标出现有理论预期自身不再成立的尺度，c = ℓ_P / t_P 把它们与光速连在一起，在计算中有用；把它们读成刻在宇宙容器上、先于观察的最短时长与最短距离，在此到了边界，它们描述的是观察者自己由因果步长织成的感知分辨率。
+普朗克时间与普朗克长度标出现有模型的分辨力用尽的尺度，c = ℓ_P / t_P 把它们与光速连在一起，在计算中有用；把它们读成刻在宇宙容器上、先于观察的最短时长与最短距离，在此到了边界，它们描述的是观察者自己由因果步长织成的感知分辨率。
 
-The Planck time and Planck length mark the scale at which current theories expect themselves to stop holding, and c = ℓ_P / t_P ties them to the speed of light, of use in calculation; reading them as a shortest duration and distance engraved on a cosmic container prior to observation is where they reach their boundary, since they describe the perceptual resolution of an observer whose own apparatus is woven from causal steps.
+The Planck time and Planck length mark the scale where present models run out of resolution, and c = ℓ_P / t_P ties them to the speed of light, of use in calculation; reading them as a shortest duration and distance engraved on a cosmic container prior to observation is where they reach their boundary, since they describe the perceptual resolution of an observer whose own apparatus is woven from causal steps.
 
 → [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
 
