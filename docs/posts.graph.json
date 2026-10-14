@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:05:51.942Z",
+    "generated_at": "2026-10-14T21:08:04.453Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -15,7 +15,7 @@
       "content/posts/abstract-pain-and-living-hunger.md": "4126712ef38f",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "2e7b16607892",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
-      "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "15737ab87ae6",
+      "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "842babd14bbf",
       "content/posts/agency-does-not-arise.md": "5c22547d1783",
       "content/posts/agency-relocated-into-the-formal-model.md": "80fd8434fe37",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "d5d366935d23",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "1894b80ed57f",
+      "content/book/index-of-premises.md": "5b9a7ffbb0a4",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6a133aa0ce87",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -414,13 +414,13 @@
       "content/book/morality.md": "25d4f858a2df",
       "content/book/physics.md": "bc168c60eb56",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "795c78f99a12",
+      "content/book/state-and-collective.md": "292729b9501d",
       "content/book/success-and-the-self.md": "d2e99409685f",
       "content/book/tools-and-progress.md": "ecdce6e731a7"
     },
     "stats": {
       "posts": 393,
-      "edges": 5798,
+      "edges": 5807,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -800,8 +800,8 @@
       "kind": "post",
       "slug": "agency-compounding-and-the-argument-over-ai-feudalism",
       "path": "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md",
-      "title": "Agency, Compounding, and the Argument Over AI Feudalism",
-      "hash": "15737ab87ae6",
+      "title": "能动性、复利与 AI 封建之争 / Agency, Compounding, and the Argument Over AI Feudalism",
+      "hash": "842babd14bbf",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -10456,13 +10456,37 @@
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "自由变量的生成拓扑"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
       "to": "the-generative-topology-of-free-variables",
       "rel": "points_to",
       "label": "The Generative Topology of Free Variables"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
     },
     {
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -10480,7 +10504,19 @@
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
     },
     {
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -10492,19 +10528,37 @@
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
+      "label": "财富转移政策与价格下限中的原因错置"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "福利国家的幻象"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
       "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
     },
     {
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
       "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "rel": "points_to",
-      "label": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency"
+      "label": "The Welfare State Illusion"
     },
     {
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
       "to": "the-extendable-horizon",
       "rel": "points_to",
-      "label": "the extendable horizon"
+      "label": "可延展的地平线"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon"
     },
     {
       "from": "agency-does-not-arise",
@@ -44688,7 +44742,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "1894b80ed57f",
+        "hash": "5b9a7ffbb0a4",
         "out_degree": 393
       },
       {
@@ -44778,7 +44832,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "795c78f99a12",
+        "hash": "292729b9501d",
         "out_degree": 30
       },
       {
@@ -46653,7 +46707,7 @@
         "from": "book:index-of-premises",
         "to": "agency-compounding-and-the-argument-over-ai-feudalism",
         "rel": "collects",
-        "label": "Agency, Compounding, and the Argument Over AI Feudalism"
+        "label": "能动性、复利与 AI 封建之争 / Agency, Compounding, and the Argument Over AI Feudalism"
       },
       {
         "from": "book:index-of-premises",
@@ -50571,7 +50625,7 @@
         "from": "book:state-and-collective",
         "to": "agency-compounding-and-the-argument-over-ai-feudalism",
         "rel": "collects",
-        "label": "Agency, Compounding, and the Argument Over AI Feudalism"
+        "label": "能动性、复利与 AI 封建之争 / Agency, Compounding, and the Argument Over AI Feudalism"
       },
       {
         "from": "book:state-and-collective",

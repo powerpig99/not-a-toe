@@ -1471,11 +1471,11 @@ Classical economics attributes value to embedded labor hours or gold reserves; e
 ### 技术封建主义 / Techno-Feudalism
 `经济 / Economic`
 
-技术封建论断言头部云巨头已将所有开发者变为数字农奴；全盘交出认知主权者沦为附庸，善用工具者则以此放大自主权。
+技术封建论认为资本买下算力就会把人的等级永久冻结，“普通人”跃迁的窗口正在关上，作为对资本集中的观察有用；它在此到了边界：长期位置由复利的改进速率决定，有限的起点会被速率的持续差异压过，AI 只放大带给它的回路，把原因放到外部结构上的信念会自我实现。
 
-Techno-feudalism arguments claim hyperscale cloud platforms turn all developers into digital serfs; users who cede cognitive autonomy become dependents, while sovereign developers harness tools.
+Techno-feudalism holds that capital buying compute will freeze human hierarchy for good and that the window for "ordinary people" to leap is closing, of use as an observation of capital concentration; it reaches its boundary in that long-run standing is decided by the compounded rate of improvement, a finite start is overwhelmed by a persistent rate difference, AI only amplifies the loop brought to it, and the belief that places cause in outside structures fulfils itself.
 
-→ [Agency, Compounding, and the Argument Over AI Feudalism](../../posts/agency-compounding-and-the-argument-over-ai-feudalism/)
+→ [能动性、复利与 AI 封建之争 / Agency, Compounding, and the Argument Over AI Feudalism](../../posts/agency-compounding-and-the-argument-over-ai-feudalism/)
 
 ### 技术决定论 / Technological Determinism
 `技术 / Technological`

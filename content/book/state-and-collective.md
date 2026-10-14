@@ -36,7 +36,7 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 - [One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/)
 - [个人选择：社会化与做自己的真正坐标](../../posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao/)
 - [涌现的伪因果：解构“雪崩之罪”、“平庸之恶”与集体概念的归因倒错](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/)
-- [Agency, Compounding, and the Argument Over AI Feudalism](../../posts/agency-compounding-and-the-argument-over-ai-feudalism/)
+- [能动性、复利与 AI 封建之争 / Agency, Compounding, and the Argument Over AI Feudalism](../../posts/agency-compounding-and-the-argument-over-ai-feudalism/)
 - [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/)
 - [权力的镜像握手 / The Mirror Handshake of Power](../../posts/the-mirror-handshake-of-power/)
 - [“非中介化”的幻象 / The Illusion of the Unmediated](../../posts/the-illusion-of-the-unmediated/)
