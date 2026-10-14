@@ -638,6 +638,15 @@ Wang Yangming investigated the bamboo for seven days, fell ill, and so left Zhu 
 
 → [格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity](../../posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)
 
+### 维尔纳·海森堡 / Werner Heisenberg
+`科学 / Scientific`
+
+海森堡的测不准原理界定了微观共轭变量同时测量的精度极限，为量子理论立下基石；借它作比去读个人的选择，在此到了边界：测不准说的是观察者站的位置取不全变量，而选择在第一人称之内是确定而自洽的，外部测到的随机，正是内部主权的投影。
+
+Heisenberg's uncertainty principle bounds the precision with which conjugate micro variables can be measured together, a cornerstone of quantum theory; borrowed as a figure for individual choice, it reaches its boundary in that uncertainty names the observer's position, from which the variables cannot all be had, while choice within the first person is determinate and consistent, and the randomness measured outside is the projection of inner sovereignty.
+
+→ [自由的测不准 / The Uncertainty of Freedom](../../posts/zi-you-de-ce-bu-zhun/)
+
 ### 威廉·诺德豪斯 / William Nordhaus
 `经济 / Economic`
 
@@ -646,17 +655,6 @@ Wang Yangming investigated the bamboo for seven days, fell ill, and so left Zhu 
 Nordhaus measured the surplus distribution of technological change in the postwar nonfarm economy, recording how tiny private returns dissipate into massive social dividends; providing high-resolution empirical telemetry, this econometric model validates rather than grounds causality, stopping short of tracing the sequence back to the irreducible prior of action.
 
 → [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/)
-
-### 维尔纳·海森堡 / Werner Heisenberg
-`科学 / Scientific`
-
-海森堡奠定了矩阵力学与测量极限；为量子理论立下基石，但他将微观随机外推为人的自由却混淆了物理噪声与主权抉择。
-
-Heisenberg formulated matrix mechanics and epistemic measurement limits; foundational for quantum physics, his philosophical extrapolations into human freedom confuse physical noise with choice.
-
-→ [自由的测不准：微观主权、统计涌现与自由意志的佯谬](../../posts/zi-you-de-ce-bu-zhun/)
-
-## 理论 / Theories
 
 ### 自由意志的必然涌现假说 / The Inevitable Emergence Hypothesis of Free Will
 `科学 / Scientific`
@@ -1021,11 +1019,11 @@ Hayek frames market prices as decentralized information aggregators; prices serv
 ### 海森堡测不准原理 / Heisenberg Uncertainty Principle
 `科学 / Scientific`
 
-测不准原理界定了微观共轭变量的测量精度极限；对量子力学成立，却不能直接等同于第一人称的自由意志。
+测不准原理界定了微观共轭变量同时测量的精度极限，在量子力学里有用；借它作比，在此到了边界：个人的选择在第一人称之内是确定而自洽的，从外部却取不全变量，只能测到统计随机，内部主权越确定，外部测得的表观熵越大，测不准说的是观察的位置，不是选择的缺席。
 
-The uncertainty principle bounds simultaneous precision of conjugate quantum variables; valuable for microscopic wave mechanics, it does not explain conscious free agency.
+The uncertainty principle bounds the precision with which conjugate micro variables can be measured together, of use in quantum mechanics; borrowed as a figure, it reaches its boundary in that an individual's choice is determinate and consistent within the first person while from outside its variables cannot all be had and only statistical randomness is measured, so that the more determinate the inner sovereignty, the greater the apparent entropy measured outside, uncertainty naming the observer's position, not the absence of choice.
 
-→ [自由的测不准：微观主权、统计涌现与自由意志的佯谬](../../posts/zi-you-de-ce-bu-zhun/)
+→ [自由的测不准 / The Uncertainty of Freedom](../../posts/zi-you-de-ce-bu-zhun/)
 
 ### 希尔伯特数学大纲 / Hilbert's Program for Mathematics
 `数学 / Mathematical`
@@ -3916,7 +3914,7 @@ The trials treat access as independent variable and test scores as effect; they 
 
 Calling residual variation random assumes indeterminacy in the activity; it reflects current model resolution, so noise is unresolved information that improving models progressively render intelligible.
 
-→ [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/)
+→ [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [自由的测不准 / The Uncertainty of Freedom](../../posts/zi-you-de-ce-bu-zhun/)
 
 ### 未经诠释的本真感知 / Raw Sensing Prior to Interpretation
 `哲学 / Philosophical`

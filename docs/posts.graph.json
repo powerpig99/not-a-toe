@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T22:23:10.099Z",
+    "generated_at": "2026-10-14T22:34:37.366Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -398,13 +398,13 @@
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "914571f5e4e9",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "e4aab029e499",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "edb2618d9902",
-      "content/posts/zi-you-de-ce-bu-zhun.md": "5e61e170d117",
+      "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "6cc7c36374ce",
       "content/book/consciousness.md": "374c33a2478e",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "00b998f636b2",
+      "content/book/index-of-premises.md": "c07e4fa50121",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "242fc0e02bd2",
       "content/book/life-and-statistics.md": "57d582e7bf12",
@@ -412,7 +412,7 @@
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "d52dd5b06929",
       "content/book/morality.md": "4cf968f4c1ca",
-      "content/book/physics.md": "4dc78b4befa1",
+      "content/book/physics.md": "1f011286f992",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "583610a3fc34",
       "content/book/success-and-the-self.md": "59aa878b03ef",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6035,
+      "edges": 6053,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1052,
+      "book_edges": 1053,
       "posts_reached_by_book": 393
     }
   },
@@ -9792,8 +9792,8 @@
       "kind": "post",
       "slug": "zi-you-de-ce-bu-zhun",
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
-      "title": "自由的测不准：微观主权、统计涌现与自由意志的佯谬",
-      "hash": "5e61e170d117",
+      "title": "自由的测不准 / The Uncertainty of Freedom",
+      "hash": "9c0ed3a2d8d9",
       "in_degree": 19,
       "out_degree": 18,
       "links_out": [
@@ -45754,7 +45754,7 @@
       "from": "zi-you-de-ce-bu-zhun",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "彻头彻尾的因果律"
+      "label": "因果贯穿始终"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
@@ -45764,15 +45764,33 @@
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
-      "label": "从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制"
+      "label": "从形式迷思到逻辑闭环"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "From the Myth of Form to the Closed Loop of Logic"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
       "to": "the-bank-shot-and-the-magic-trick",
       "rel": "points_to",
-      "label": "加塞球与魔术戏法"
+      "label": "翻袋球与魔术戏法"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
@@ -45782,33 +45800,57 @@
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "The Bank Shot and the Magic Trick"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "真正的有效信息"
+      "label": "信息是什么"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
       "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "rel": "points_to",
-      "label": "自尊的刚性外壳与隐性外部归因：穿透概念标签，直面微观选择"
+      "label": "自尊的刚性外壳与隐性外部归因"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "The Rigid Shell of Self-Esteem and Hidden External Attribution"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "个体差异涌现出的层级"
+      "label": "来自个体差异的层级"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "封闭假设将复利压扁为S曲线"
+      "label": "封闭的假设把复利挤成 S 曲线"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
       "to": "the-mark-and-the-act",
       "rel": "points_to",
-      "label": "痕迹与行动"
+      "label": "印迹与行动"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
@@ -45818,21 +45860,57 @@
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "Agency Does Not Arise"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "我们遗忘的脚手架"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
       "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "rel": "points_to",
-      "label": "个人选择：社会化与做自己的真正坐标"
+      "label": "个人选择"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "Individual Choice"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "从目的性的评判看认知缺失"
+      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
@@ -45842,21 +45920,51 @@
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
       "to": "freedom-as-ground",
       "rel": "points_to",
-      "label": "自由作为地基"
+      "label": "自由即地基"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
       "to": "the-freedom-of-will-to-deny-itself",
       "rel": "points_to",
       "label": "自由意志的自否自由"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "Freedom as Ground"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "The Freedom of Will to Deny Itself"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
@@ -46110,7 +46218,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "00b998f636b2",
+        "hash": "c07e4fa50121",
         "out_degree": 393
       },
       {
@@ -46182,7 +46290,7 @@
         "slug": "physics",
         "path": "content/book/physics.md",
         "title": "物理即定律的迷思 / The Myth of Physics Is the Law",
-        "hash": "4dc78b4befa1",
+        "hash": "1f011286f992",
         "out_degree": 22
       },
       {
@@ -47371,6 +47479,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "zi-you-de-ce-bu-zhun",
+        "rel": "collects",
+        "label": "自由的测不准 / The Uncertainty of Freedom"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-causal-order-of-private-residuals-and-social-surplus",
         "rel": "collects",
         "label": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus"
@@ -47380,12 +47494,6 @@
         "to": "beyond-the-hundred-trillion-horizon",
         "rel": "collects",
         "label": "百万亿地平线之外 / Beyond the Hundred-Trillion Horizon"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "zi-you-de-ce-bu-zhun",
-        "rel": "collects",
-        "label": "自由的测不准：微观主权、统计涌现与自由意志的佯谬"
       },
       {
         "from": "book:index-of-premises",
@@ -47715,7 +47823,7 @@
         "from": "book:index-of-premises",
         "to": "zi-you-de-ce-bu-zhun",
         "rel": "collects",
-        "label": "自由的测不准：微观主权、统计涌现与自由意志的佯谬"
+        "label": "自由的测不准 / The Uncertainty of Freedom"
       },
       {
         "from": "book:index-of-premises",
@@ -49861,6 +49969,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "zi-you-de-ce-bu-zhun",
+        "rel": "collects",
+        "label": "自由的测不准 / The Uncertainty of Freedom"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "sensing-before-interpretation",
         "rel": "collects",
         "label": "Sensing Before Interpretation"
@@ -51837,7 +51951,7 @@
         "from": "book:physics",
         "to": "zi-you-de-ce-bu-zhun",
         "rel": "collects",
-        "label": "自由的测不准：微观主权、统计涌现与自由意志的佯谬"
+        "label": "自由的测不准 / The Uncertainty of Freedom"
       },
       {
         "from": "book:physics",
