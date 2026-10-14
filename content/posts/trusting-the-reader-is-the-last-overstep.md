@@ -140,9 +140,9 @@ Once this is seen, the possibility of understanding falls into its proper place.
 
 ## 五、 未来的自己也是另一个读者 / 5. The Future Self Is Another Reader
 
-同样的限度约束着未来的自己。后来的自己与此刻的自我之间，只有记忆、笔记与已经改变的概念框架作为连续；原初的思想不会被直接移交过去。重读是在改变了的条件下的重新构建，作者身份并不保证原样复得。[真正稀缺的不是记忆，而是持续的重新追溯](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/)说的正是这一点：保存下来的只是材料，追溯必须由当下的心智重新做一遍。
+同样的限度约束着未来的自己。后来的自己与此刻的自我之间，只有记忆、笔记与已经改变的概念框架作为连续；原初的思想不会被直接移交过去。重读是在改变了的条件下的重新构建，作者身份并不保证原样复得。[真正稀缺的不是记忆，而是持续的重新追溯](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/)说的正是这一点：保存下来的只是材料，追溯必须由当下的心智重新做一遍。代码注释是同一限度最日常的现场：[注释不是代码](../the-comment-is-not-the-code/)追踪了一句注释如何在每个读者、包括重读的写作者那里被各自重建。
 
-The same limit binds the future self. Between the later self and the present one there is continuity only through memory, notes, and conceptual frames that have already shifted; the original thought is not handed across. Rereading is reconstruction under altered conditions, and authorship does not guarantee recovery as it was. [The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/) says exactly this: what is stored is material, and the tracing has to be done again by the present mind.
+The same limit binds the future self. Between the later self and the present one there is continuity only through memory, notes, and conceptual frames that have already shifted; the original thought is not handed across. Rereading is reconstruction under altered conditions, and authorship does not guarantee recovery as it was. [The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/) says exactly this: what is stored is material, and the tracing has to be done again by the present mind. The code comment is the most everyday site of the same limit: [The Comment Is Not the Code](../the-comment-is-not-the-code/) traces how one comment is rebuilt separately by every reader, the writer rereading included.
 
 ## 六、 写作只对自身的区分负责 / 6. Writing Answers Only to Its Own Distinctions
 

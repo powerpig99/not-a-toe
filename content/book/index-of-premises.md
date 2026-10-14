@@ -4970,3 +4970,21 @@ Presumes the truth lies in the world or the text and can be retrieved without th
 Presumes a returning signal carries its own uptake; the same signal rewrites the next formulation in one Mind and passes through another without trace, which is where the presumption runs out, and it still holds in engineered settings where the loss was chosen in advance by a designer.
 
 → [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/)
+
+### 注释等同于代码 / The Comment as Functionally the Code
+`技术 / Technological`
+
+预设写在代码旁边的注释与代码同样确定地携带意图；注释是写作者在自身先验下作出的压缩选择，每个读者、模型与重读的写作者都在各自先验下重建它，偏差从落笔处开始并逐次累积，它作为指向检验的信号依然有用。
+
+Presumes a comment beside the code carries intent as fixedly as the code runs; a comment is a compressed choice made under the writer's priors, rebuilt by every reader, model, and later self under theirs, so the drift starts at writing and compounds, and it stays useful as signal pointing to the check.
+
+→ [注释不是代码 / The Comment Is Not the Code](../../posts/the-comment-is-not-the-code/)
+
+### 采样的随机即本体的不确定 / Stochastic Sampling as Ontological Indeterminism
+`技术 / Technological`
+
+预设模型采样里的随机就是哲学意义上的不确定；那是被确定地编程出来的随机，种子与温度皆由人选定、可完整追溯至前提条件，混同两种含义时预设失效，它在工程上描述输出分布时依然有用。
+
+Presumes the randomness in a model's sampler is indeterminism in the ontological sense; it is deterministically programmed randomness, its seed and temperature chosen by people and traceable in full to preconditions, so the presumption fails where the two meanings slide together, and it stays useful for describing output distributions in engineering.
+
+→ [注释不是代码 / The Comment Is Not the Code](../../posts/the-comment-is-not-the-code/)

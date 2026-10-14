@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T07:58:06.442Z",
+    "generated_at": "2026-10-14T08:30:20.012Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -216,6 +216,7 @@
       "content/posts/the-closed-n-and-the-open-reality.md": "cdca9be1b6fb",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "d71141c2c581",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
+      "content/posts/the-comment-is-not-the-code.md": "1ee31f526434",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "2622676a6816",
       "content/posts/the-continuum-of-the-fold.md": "9427017c6590",
@@ -370,7 +371,7 @@
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "6b95a39fdecb",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "3150c6b4c5cf",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "ab4a03e78251",
-      "content/posts/trusting-the-reader-is-the-last-overstep.md": "859c815b0925",
+      "content/posts/trusting-the-reader-is-the-last-overstep.md": "ca993bca4cc8",
       "content/posts/two-failures-of-trace.md": "b1672bec5b8e",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "f648faf69414",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "46c405794f54",
@@ -403,8 +404,8 @@
       "content/book/causality.md": "e6ea1a3ffb75",
       "content/book/consciousness.md": "d6c92ea6f310",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "088f037ac59e",
-      "content/book/intelligence.md": "25a34f51bcc4",
+      "content/book/index-of-premises.md": "4c952431ff2d",
+      "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "3f449ff6f2d4",
       "content/book/life-and-statistics.md": "1862c4e7034f",
       "content/book/mathematics.md": "226cf5ec0ee0",
@@ -418,22 +419,22 @@
       "content/book/tools-and-progress.md": "ecdce6e731a7"
     },
     "stats": {
-      "posts": 392,
-      "edges": 5543,
-      "unique_directed": 4527,
+      "posts": 393,
+      "edges": 5557,
+      "unique_directed": 4534,
       "missing_targets": 0,
-      "one_way": 125,
+      "one_way": 130,
       "isolated": 35,
-      "posts_with_outbound": 356,
+      "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 985,
-      "posts_reached_by_book": 392
+      "book_edges": 988,
+      "posts_reached_by_book": 393
     }
   },
   "hubs_in": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 98
+      "in_degree": 99
     },
     {
       "slug": "openness-is-consistency",
@@ -452,11 +453,11 @@
       "in_degree": 58
     },
     {
-      "slug": "ownership-and-self-worthiness",
-      "in_degree": 52
+      "slug": "the-model-never-becomes-a-second-edge",
+      "in_degree": 53
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "ownership-and-self-worthiness",
       "in_degree": 52
     },
     {
@@ -508,7 +509,7 @@
       "in_degree": 30
     },
     {
-      "slug": "two-failures-of-trace",
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "in_degree": 30
     }
   ],
@@ -2826,7 +2827,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
       "hash": "87b30fd0aad3",
-      "in_degree": 98,
+      "in_degree": 99,
       "out_degree": 97,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -5741,6 +5742,24 @@
       "links_out": []
     },
     {
+      "id": "post:the-comment-is-not-the-code",
+      "kind": "post",
+      "slug": "the-comment-is-not-the-code",
+      "path": "content/posts/the-comment-is-not-the-code.md",
+      "title": "注释不是代码 / The Comment Is Not the Code",
+      "hash": "1ee31f526434",
+      "in_degree": 1,
+      "out_degree": 6,
+      "links_out": [
+        "trusting-the-reader-is-the-last-overstep",
+        "the-illusion-of-distance-and-the-dual-ruler",
+        "the-model-never-becomes-a-second-edge",
+        "the-residue-and-the-free-variable",
+        "individual-choices-as-the-only-causal-levers",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+      ]
+    },
+    {
       "id": "post:the-compassion-is-the-mechanism-of-obscuration",
       "kind": "post",
       "slug": "the-compassion-is-the-mechanism-of-obscuration",
@@ -5862,7 +5881,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "4122ccc35bfa",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 27,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
@@ -6685,7 +6704,7 @@
       "path": "content/posts/the-illusion-of-distance-and-the-dual-ruler.md",
       "title": "距离的幻觉与尺度的双向投影 / The Illusion of Distance and the Dual Projections of the Ruler",
       "hash": "7e1d40f4d227",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 4,
       "links_out": [
         "the-cut-moves-but-never-vanishes",
@@ -7400,7 +7419,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "be8e9087d341",
-      "in_degree": 52,
+      "in_degree": 53,
       "out_degree": 45,
       "links_out": [
         "the-category-error-of-better",
@@ -8113,7 +8132,7 @@
       "path": "content/posts/the-residue-and-the-free-variable.md",
       "title": "残余与自由变量 / The Residue and the Free Variable",
       "hash": "eb7e4af88ac4",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 5,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -9108,9 +9127,9 @@
       "slug": "trusting-the-reader-is-the-last-overstep",
       "path": "content/posts/trusting-the-reader-is-the-last-overstep.md",
       "title": "信任读者是最后的越界 / Trusting the Reader Is the Last Overstep",
-      "hash": "859c815b0925",
-      "in_degree": 5,
-      "out_degree": 11,
+      "hash": "ca993bca4cc8",
+      "in_degree": 6,
+      "out_degree": 12,
       "links_out": [
         "rationality-never-travels-across-the-mind",
         "price-as-utterance-understanding-as-trade",
@@ -9122,6 +9141,7 @@
         "the-asymmetry-of-understanding",
         "one-cannot-escape-ones-own-mind",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+        "the-comment-is-not-the-code",
         "gao-wei-xin-xi-de-li-san-zhe-she"
       ]
     },
@@ -27945,6 +27965,78 @@
       "label": "Moral Language Dilutes the Feedback That Scales Freedom"
     },
     {
+      "from": "the-comment-is-not-the-code",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "信任读者是最后的越界"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "Trusting the Reader Is the Last Overstep"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "the-illusion-of-distance-and-the-dual-ruler",
+      "rel": "points_to",
+      "label": "距离的幻觉与尺度的双向投影"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "the-illusion-of-distance-and-the-dual-ruler",
+      "rel": "points_to",
+      "label": "The Illusion of Distance and the Dual Projections of the Ruler"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "自由变量"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "free variable"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "唯一的独立变量"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "only independent variable"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "the delegation of the task and the inalienability of consequences"
+    },
+    {
       "from": "the-compassion-is-the-mechanism-of-obscuration",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
@@ -40852,9 +40944,21 @@
     },
     {
       "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "注释不是代码"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
       "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "The Comment Is Not the Code"
     },
     {
       "from": "trusting-the-reader-is-the-last-overstep",
@@ -43124,8 +43228,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "088f037ac59e",
-        "out_degree": 392
+        "hash": "4c952431ff2d",
+        "out_degree": 393
       },
       {
         "id": "book:intelligence",
@@ -43133,8 +43237,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "25a34f51bcc4",
-        "out_degree": 46
+        "hash": "5c06fbf5cc01",
+        "out_degree": 47
       },
       {
         "id": "book:knowledge-and-learning",
@@ -47378,6 +47482,18 @@
         "label": "回返的信号与认领 / The Returning Signal and Its Claim"
       },
       {
+        "from": "book:index-of-premises",
+        "to": "the-comment-is-not-the-code",
+        "rel": "collects",
+        "label": "注释不是代码 / The Comment Is Not the Code"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-comment-is-not-the-code",
+        "rel": "collects",
+        "label": "注释不是代码 / The Comment Is Not the Code"
+      },
+      {
         "from": "book:intelligence",
         "to": "agents_leia_ontological_clarity",
         "rel": "collects",
@@ -47652,6 +47768,12 @@
         "to": "when-malfunction-is-scored-as-intelligence",
         "rel": "collects",
         "label": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "the-comment-is-not-the-code",
+        "rel": "collects",
+        "label": "注释不是代码 / The Comment Is Not the Code"
       },
       {
         "from": "book:knowledge-and-learning",

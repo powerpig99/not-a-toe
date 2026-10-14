@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-10-13T19:17:19.010Z",
+    "generated_at": "2026-10-14T08:30:20.146Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
@@ -12,18 +12,18 @@
       "docs/export-for-substack.md": "9a2df9f4dfab",
       "docs/export-for-x-article.md": "55ab96853de2",
       "export/README.md": "c0a8866a454d",
-      "assets/covers/STYLES.md": "48ac349cbb66",
+      "assets/covers/STYLES.md": "d9534413df1e",
       "README.md": "c80bb91e33a1",
       "docs/local-memory.md": "15f2c56cac3c",
-      "build.mjs": "672d1570283c",
+      "build.mjs": "4e7b843058a2",
       "scripts/export-absolute-md.mjs": "3bbb08fdfc89",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "75b504173bc9"
+      "MEMORY.md": "279004cd4629"
     },
     "stats": {
-      "posts": 392,
-      "covers": 325,
+      "posts": 393,
+      "covers": 326,
       "trackers_listed": 12,
       "trackers_present": 12
     },
@@ -181,7 +181,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "75b504173bc9",
+      "hash": "279004cd4629",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -208,7 +208,7 @@
       "path": "build.mjs",
       "owns": "site-build",
       "exists": true,
-      "hash": "672d1570283c",
+      "hash": "4e7b843058a2",
       "summary": "binary/script",
       "headings": [],
       "layer": "tracker"
@@ -220,7 +220,7 @@
       "path": "assets/covers/STYLES.md",
       "owns": "cover-styles",
       "exists": true,
-      "hash": "48ac349cbb66",
+      "hash": "d9534413df1e",
       "summary": "Living inventory for essay covers in this folder.",
       "headings": [
         "Cover styles",
