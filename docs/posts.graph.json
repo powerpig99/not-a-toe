@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T18:49:49.002Z",
+    "generated_at": "2026-10-14T19:22:18.981Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -60,7 +60,7 @@
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "391c723a2d05",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "ccb4b3e58dea",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "4fdac1ab3e30",
-      "content/posts/dimensions-are-projections.md": "08793b415e6c",
+      "content/posts/dimensions-are-projections.md": "74ce8777a33a",
       "content/posts/distillation-compression-agency.md": "60354a08e758",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "0baa9e7e7b35",
       "content/posts/e-shi-feng-bi-de-shan.md": "33f9b3a9a8ae",
@@ -255,7 +255,7 @@
       "content/posts/the-geometry-of-mind.md": "5e64ee6befbf",
       "content/posts/the-geometry-of-success.md": "dc47507d236b",
       "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
-      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "96048d5d656b",
+      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "b9ba768691c7",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "68e47fce620a",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "8e4681ca1d7b",
       "content/book/consciousness.md": "b6e19af51e3b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "d5fb6ed4d02e",
+      "content/book/index-of-premises.md": "b3d51808504f",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "bfaf3d63d4a0",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -412,7 +412,7 @@
       "content/book/meaning-and-transcendence.md": "5f74283b7779",
       "content/book/method.md": "28b8cec3611e",
       "content/book/morality.md": "25d4f858a2df",
-      "content/book/physics.md": "41bdff6df599",
+      "content/book/physics.md": "b59983cb902d",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "4e2a471f61f9",
       "content/book/success-and-the-self.md": "7ef691063c43",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5705,
-      "unique_directed": 4546,
+      "edges": 5724,
+      "unique_directed": 4547,
       "missing_targets": 0,
-      "one_way": 136,
+      "one_way": 137,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1010,
+      "book_edges": 1013,
       "posts_reached_by_book": 393
     }
   },
@@ -454,7 +454,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 54
+      "in_degree": 55
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -1909,17 +1909,17 @@
       "kind": "post",
       "slug": "dimensions-are-projections",
       "path": "content/posts/dimensions-are-projections.md",
-      "title": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence",
-      "hash": "08793b415e6c",
+      "title": "维度即投影 / Dimensions Are Projections",
+      "hash": "74ce8777a33a",
       "in_degree": 17,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "not-a-toe-rewrite",
         "what-information-is",
-        "the-continuum-of-the-fold",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "the-geometry-of-mind",
+        "the-continuum-of-the-fold",
         "the-scaffolding-we-forget",
         "time-is-causality-not-a-dimension",
         "the-boundary-of-the-frame",
@@ -1928,6 +1928,7 @@
         "the-arithmetic-of-the-register",
         "war-revolution-and-the-fall-of-empires",
         "the-twin-paradox-and-the-hidden-observer",
+        "the-model-never-becomes-a-second-edge",
         "the-vector-and-the-puzzle-of-projections",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-unclosable-trace"
@@ -6611,7 +6612,7 @@
       "slug": "the-grammar-of-finding-and-the-fading-observer",
       "path": "content/posts/the-grammar-of-finding-and-the-fading-observer.md",
       "title": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer",
-      "hash": "96048d5d656b",
+      "hash": "b9ba768691c7",
       "in_degree": 10,
       "out_degree": 9,
       "links_out": [
@@ -7429,7 +7430,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "be8e9087d341",
-      "in_degree": 54,
+      "in_degree": 55,
       "out_degree": 45,
       "links_out": [
         "the-category-error-of-better",
@@ -14894,7 +14895,19 @@
       "from": "dimensions-are-projections",
       "to": "not-a-toe-rewrite",
       "rel": "points_to",
-      "label": "Not a ToE — Retraced"
+      "label": "非万物之理·重溯"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "信息是什么"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "not-a-toe-rewrite",
+      "rel": "points_to",
+      "label": "Not a ToE - Retraced"
     },
     {
       "from": "dimensions-are-projections",
@@ -14904,9 +14917,15 @@
     },
     {
       "from": "dimensions-are-projections",
-      "to": "the-continuum-of-the-fold",
+      "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
     },
     {
       "from": "dimensions-are-projections",
@@ -14924,7 +14943,31 @@
       "from": "dimensions-are-projections",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
-      "label": "The geometry of mind"
+      "label": "心智的几何学"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "折叠的连续谱"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "The Continuum of the Fold"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
     },
     {
       "from": "dimensions-are-projections",
@@ -14936,7 +14979,19 @@
       "from": "dimensions-are-projections",
       "to": "time-is-causality-not-a-dimension",
       "rel": "points_to",
+      "label": "时间是因果的不可逆方向与离散步长"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
       "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
     },
     {
       "from": "dimensions-are-projections",
@@ -14948,19 +15003,43 @@
       "from": "dimensions-are-projections",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "dimensions-are-projections",
       "to": "the-extendable-horizon",
       "rel": "points_to",
-      "label": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables"
+      "label": "可延展的地平线"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon"
     },
     {
       "from": "dimensions-are-projections",
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
-      "label": "The Arithmetic of the Register: The MSB Expansion, Positional Slack, and the Delusion of the Total Field"
+      "label": "寄存器的算术"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "The Arithmetic of the Register"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "war-revolution-and-the-fall-of-empires",
+      "rel": "points_to",
+      "label": "战争、革命与帝国的衰落"
     },
     {
       "from": "dimensions-are-projections",
@@ -14972,7 +15051,31 @@
       "from": "dimensions-are-projections",
       "to": "the-twin-paradox-and-the-hidden-observer",
       "rel": "points_to",
+      "label": "双生子佯谬与隐秘观察者"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
       "label": "The Twin Paradox and the Hidden Observer"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "向量与投影的迷局"
     },
     {
       "from": "dimensions-are-projections",
@@ -14984,13 +15087,25 @@
       "from": "dimensions-are-projections",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
+      "label": "因果的自反性与物理的无源假定"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
       "label": "Causality is Irreducible; The Physical is a View from Nowhere"
     },
     {
       "from": "dimensions-are-projections",
       "to": "the-unclosable-trace",
       "rel": "points_to",
-      "label": "The Unclosable Trace: Why Philosophy Cannot Be Inherited"
+      "label": "无法闭合的痕迹"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "The Unclosable Trace"
     },
     {
       "from": "distillation-compression-agency",
@@ -44128,7 +44243,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d5fb6ed4d02e",
+        "hash": "b3d51808504f",
         "out_degree": 393
       },
       {
@@ -44200,7 +44315,7 @@
         "slug": "physics",
         "path": "content/book/physics.md",
         "title": "物理即定律的迷思 / The Myth of Physics Is the Law",
-        "hash": "41bdff6df599",
+        "hash": "b59983cb902d",
         "out_degree": 22
       },
       {
@@ -45527,6 +45642,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "dimensions-are-projections",
+        "rel": "collects",
+        "label": "维度即投影 / Dimensions Are Projections"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "guan-yu-gui-yin",
         "rel": "collects",
         "label": "关于归因：从事实到因果，从外部节点到内部迭代"
@@ -45662,6 +45783,12 @@
         "to": "war-revolution-and-the-fall-of-empires",
         "rel": "collects",
         "label": "War, Revolution, and the Fall of Empires"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "dimensions-are-projections",
+        "rel": "collects",
+        "label": "维度即投影 / Dimensions Are Projections"
       },
       {
         "from": "book:index-of-premises",
@@ -46277,6 +46404,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "dimensions-are-projections",
+        "rel": "collects",
+        "label": "维度即投影 / Dimensions Are Projections"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "boletus-compute-storm-and-promethean-fire",
         "rel": "collects",
         "label": "牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire"
@@ -46609,7 +46742,7 @@
         "from": "book:index-of-premises",
         "to": "dimensions-are-projections",
         "rel": "collects",
-        "label": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence"
+        "label": "维度即投影 / Dimensions Are Projections"
       },
       {
         "from": "book:index-of-premises",
@@ -49621,7 +49754,7 @@
         "from": "book:physics",
         "to": "dimensions-are-projections",
         "rel": "collects",
-        "label": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence"
+        "label": "维度即投影 / Dimensions Are Projections"
       },
       {
         "from": "book:physics",

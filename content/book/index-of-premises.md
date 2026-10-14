@@ -854,7 +854,7 @@ Expected-utility rationality treats one coherent preference structure as interpe
 
 Extended cognition argues external artifacts form part of the mind; useful for analyzing computational scaffolds, it blurs the boundary of conscious first-person awareness.
 
-→ [Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/)
+→ [Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
 
 ### 证伪主义 / Falsificationism
 `哲学 / Philosophical`
@@ -1007,7 +1007,7 @@ Hilbert proposed that all mathematical truths could be completely and consistent
 
 Political historiography blames revolutions on treasonous conspirators; empires collapse when compounding bureaucratic overhead and fiscal debasement destroy the regime's operational legitimacy.
 
-→ [War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/)
+→ [War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
 
 ### 信息本体优先论 / Information as Ontologically Primary
 `哲学 / Philosophical`
@@ -1801,7 +1801,7 @@ AGI叙事将比肩人类智能设为固定终点；任何基准一旦被跨越�
 
 AGI narratives define human parity as a fixed finish line; each benchmark met immediately shifts human standards, revealing intelligence as an open-ended horizon.
 
-→ [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../../posts/agi-and-asi-are-temporary-goalposts/) · [The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/)
+→ [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../../posts/agi-and-asi-are-temporary-goalposts/) · [The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
 
 ### 通用人工智能奇点神话 / Artificial General Intelligence Singularity
 `技术 / Technological`
@@ -2292,11 +2292,11 @@ Linguistic reductionism presumes discrete vocabulary words capture full perceptu
 ### 维度作为坐标投影 / Dimensions as Coordinate Projections
 `科学 / Scientific`
 
-弦论与宇宙学常将高维空间实体化为物理容器；维度实则是观察者为了度量连续物理关系所建立的数学坐标轴。
+物理、宇宙学与日常常识把维度当成事先存在的容器，事件在其中展开；维度是心智为了索引区分而投出的压缩，关系生于压缩，次序生于投影，这一预设在投出维度的那一位那里到了边界，作为导航、计算与建模的坐标系，维度依然不可少。
 
-String theory and cosmology reify higher dimensions as physical containers; dimensions are mathematical coordinate axes chosen by an observer to index continuous physical relations.
+Physics, cosmology and common sense treat dimensions as pre-existing containers in which events unfold; dimensions are compressions the Mind projects to index distinctions, relation arising through compression and order through projection, so the premise reaches its boundary at the one projecting the dimensions, while as coordinate systems for navigating, calculating and modelling, dimensions stay indispensable.
 
-→ [Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence](../../posts/dimensions-are-projections/)
+→ [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
 
 ### 约束作为自由的必要前提 / Discipline as Prerequisite for Freedom
 `哲学 / Philosophical`
