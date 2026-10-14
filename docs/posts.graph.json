@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T22:37:34.735Z",
+    "generated_at": "2026-10-14T22:47:32.744Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -86,7 +86,7 @@
       "content/posts/freedom-as-ground.md": "df8f3a8fb563",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "71812a697b3f",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
-      "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "c81f2c71d076",
+      "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "a91cd902a827",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "90bc3f766d03",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "f0c515ee862c",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "6cc7c36374ce",
       "content/book/consciousness.md": "374c33a2478e",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "c2acf7249a94",
+      "content/book/index-of-premises.md": "11a7d7e87edf",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "f7099cdfbe19",
       "content/book/life-and-statistics.md": "57d582e7bf12",
@@ -414,13 +414,13 @@
       "content/book/morality.md": "4cf968f4c1ca",
       "content/book/physics.md": "1f011286f992",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "583610a3fc34",
+      "content/book/state-and-collective.md": "32d9ad39bfa4",
       "content/book/success-and-the-self.md": "59aa878b03ef",
       "content/book/tools-and-progress.md": "ecdce6e731a7"
     },
     "stats": {
       "posts": 393,
-      "edges": 6062,
+      "edges": 6070,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -2453,8 +2453,8 @@
       "kind": "post",
       "slug": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "path": "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md",
-      "title": "个人选择：社会化与做自己的真正坐标",
-      "hash": "c81f2c71d076",
+      "title": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself",
+      "hash": "a91cd902a827",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -16796,21 +16796,45 @@
     },
     {
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "The Name Revolution Files a Life as Evidence"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "to": "freedom-as-ground",
       "rel": "points_to",
-      "label": "自由作为地基"
+      "label": "自由即地基"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "Freedom as Ground"
     },
     {
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
-      "label": "涌现的伪因果与集体归因倒错"
+      "label": "涌现的伪因果"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "The Pseudo-Causality of Emergence"
     },
     {
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
@@ -16822,19 +16846,43 @@
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
-      "label": "自由的测不准：微观主权、统计涌现与自由意志的佯谬"
+      "label": "自由的测不准"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "The Uncertainty of Freedom"
     },
     {
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "从目的性的评判看认知缺失"
+      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
     },
     {
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "自我价值感与所有权"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
@@ -46272,7 +46320,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c2acf7249a94",
+        "hash": "11a7d7e87edf",
         "out_degree": 393
       },
       {
@@ -46362,7 +46410,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "583610a3fc34",
+        "hash": "32d9ad39bfa4",
         "out_degree": 30
       },
       {
@@ -49107,7 +49155,7 @@
         "from": "book:index-of-premises",
         "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "rel": "collects",
-        "label": "个人选择：社会化与做自己的真正坐标"
+        "label": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself"
       },
       {
         "from": "book:index-of-premises",
@@ -50265,13 +50313,13 @@
         "from": "book:index-of-premises",
         "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "rel": "collects",
-        "label": "个人选择：社会化与做自己的真正坐标"
+        "label": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself"
       },
       {
         "from": "book:index-of-premises",
         "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "rel": "collects",
-        "label": "个人选择：社会化与做自己的真正坐标"
+        "label": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself"
       },
       {
         "from": "book:index-of-premises",
@@ -52269,7 +52317,7 @@
         "from": "book:state-and-collective",
         "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "rel": "collects",
-        "label": "个人选择：社会化与做自己的真正坐标"
+        "label": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself"
       },
       {
         "from": "book:state-and-collective",

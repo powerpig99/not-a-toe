@@ -2632,11 +2632,11 @@ The quest for an ultimate ground compensates for the impossibility of proving ca
 ### 固定不变的自我 / Fixed Essential Self
 `哲学 / Philosophical`
 
-做自己被理解为守住一个封装好的自我；自我通过离散选择与反馈持续更新，所谓真实是不断刷新自己的行动边缘。
+做自己被理解为守住一个封装好的不变自我，在抵住外部裹挟、保持选择的连续时有用；它在此到了边界：自我是在离散选择与反馈之中持续更新的行动主体，做自己是不断刷新自己的行动边缘。
 
-Being oneself is read as preserving a sealed essential self; the self updates through discrete choices and feedback, so authenticity is continual refreshing of one's acting edge.
+Being oneself is read as keeping a sealed, unchanging self, which is of use in withstanding outside pressure and keeping one's choices continuous; it reaches its boundary in that the self is an acting subject renewed through discrete choices and feedback, and being oneself is the continual refreshing of one's edge of action.
 
-→ [个人选择：社会化与做自己的真正坐标](../../posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao/)
+→ [个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself](../../posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao/)
 
 ### 固化的开悟相 / Fixed Image of Enlightenment
 `宗教 / Religious`
@@ -4252,20 +4252,20 @@ Social justice assumes a designed fair distribution of an impersonal process; it
 ### 社会化 / Socialization
 `哲学 / Philosophical`
 
-社会化被当作必须服从或反抗的外部命令；它只描述当前痕迹场的密度，顺从与对抗共享同一前提：社会是先于个人的客体。
+社会化被当作必须服从或反抗的外部命令，在描述进入新环境时要面对的规则密度时有用；它在此到了边界：顺从与对抗共享同一个前提，即社会是先于个人的客体，而社会化只描述当前痕迹场的密度，因与杠杆都在选择者一边。
 
-Socialization is treated as an external command to obey or resist; it describes the current density of the trace field, while both conformity and defiance share the premise of society as prior object.
+Socialization is treated as an outside command to obey or resist, which is of use in describing the density of rules met on entering a new environment; it reaches its boundary in that conformity and defiance share one premise, society as an object prior to the individual, while socialization only describes the present density of the trace field, and the cause and the lever stay on the chooser's side.
 
-→ [个人选择：社会化与做自己的真正坐标](../../posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao/)
+→ [个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself](../../posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao/)
 
 ### 社会是先于个人的实体 / Society as Entity Prior to Individuals
 `哲学 / Philosophical`
 
-社会被想象为独立于个人行动之外；稳定的社会形态来自选择之间的互补反馈，是滞后于前沿选择的结果。
+社会被想象为独立于个人行动之外的实体，在短期尺度上把相对坚固的秩序当作可预期的地形时有用；它在此到了边界：稳定的社会形态来自选择之间补偿式与对抗式的互补反馈，是滞后于前沿选择的结果。
 
-Society is pictured as standing apart from individual acts; stable social forms arise from complementary feedback among choices, so they are effects that lag frontier choices.
+Society is pictured as an entity standing apart from individual acts, which is of use on a short scale in treating a relatively solid order as predictable terrain; it reaches its boundary in that stable social forms arise from compensating and adversarial complementary feedback among choices, effects that lag the choices made at the frontier.
 
-→ [个人选择：社会化与做自己的真正坐标](../../posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao/)
+→ [个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself](../../posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao/)
 
 ### 苏格拉底式无知（我知道自己不知道） / Socratic Ignorance (I Know That I Know Nothing)
 `哲学 / Philosophical`
