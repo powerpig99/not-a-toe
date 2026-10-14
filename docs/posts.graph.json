@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:20:12.262Z",
+    "generated_at": "2026-10-14T21:22:35.483Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -246,7 +246,7 @@
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "f90a8819ab4e",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "591395049b84",
-      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "639d817543c0",
+      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "a62200aad766",
       "content/posts/the-generative-contradiction.md": "181c40e6e269",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
       "content/posts/the-generative-topology-of-free-variables.md": "bd4117e215d3",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "d5d366935d23",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "6981446aec26",
-      "content/book/index-of-premises.md": "4495a34504ce",
+      "content/book/index-of-premises.md": "84490b3084a5",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6a133aa0ce87",
       "content/book/life-and-statistics.md": "57d582e7bf12",
@@ -412,7 +412,7 @@
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "9a18c1b149e6",
       "content/book/morality.md": "25d4f858a2df",
-      "content/book/physics.md": "bc168c60eb56",
+      "content/book/physics.md": "4dc78b4befa1",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "292729b9501d",
       "content/book/success-and-the-self.md": "f9ade7121b29",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5855,
+      "edges": 5874,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1035,
+      "book_edges": 1036,
       "posts_reached_by_book": 393
     }
   },
@@ -6415,8 +6415,8 @@
       "kind": "post",
       "slug": "the-generative-atlas-of-macroscopic-phenomena",
       "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
-      "title": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction",
-      "hash": "639d817543c0",
+      "title": "宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena",
+      "hash": "a62200aad766",
       "in_degree": 18,
       "out_degree": 18,
       "links_out": [
@@ -31846,25 +31846,55 @@
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "guidance-is-not-ownership",
       "rel": "points_to",
-      "label": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control"
+      "label": "引导不是占有"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "Guidance Is Not Ownership"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "What Information Is: Selection Under Constraint"
+      "label": "信息是什么"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "Isomorphism of Free Variables and A Priori Sovereignty"
+      "label": "自由变量的同构与先验主权"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "The Isomorphism of Free Variables and Prior Sovereignty"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "翻袋球与魔术戏法"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
@@ -31876,19 +31906,49 @@
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
+      "label": "涌现的伪因果"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "成功的几何学"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "rel": "points_to",
+      "label": "选择看见而非搜寻影子"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
       "label": "The Pseudo-Causality of Emergence"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "the-geometry-of-success",
       "rel": "points_to",
-      "label": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\""
+      "label": "The Geometry of Success"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
       "rel": "points_to",
-      "label": "Choosing to See Rather Than Chasing Shadows"
+      "label": "Choosing to See Rather Than Searching for Shadows"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
@@ -31900,7 +31960,13 @@
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "the-geometry-of-emergence",
+      "rel": "points_to",
+      "label": "涌现的几何学"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
@@ -31912,7 +31978,19 @@
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "the-generative-topology-of-free-variables",
       "rel": "points_to",
-      "label": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence"
+      "label": "自由变量的生成拓扑"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "印迹与行动"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "The Generative Topology of Free Variables"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
@@ -31924,7 +32002,31 @@
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "好奇没有最终的形态"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "the-other-coherence",
+      "rel": "points_to",
+      "label": "另一种相干"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "因果的自反性与物理的无源假定"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
@@ -31948,13 +32050,25 @@
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "manifesto-of-not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "非万物之理 / Not a Theory of Everything"
+      "label": "非万物之理"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "the-fallacy-of-post-success-parenting",
       "rel": "points_to",
-      "label": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle"
+      "label": "成功之后的育儿谬误"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "manifesto-of-not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "The Fallacy of Post-Success Parenting"
     },
     {
       "from": "the-generative-contradiction",
@@ -45030,7 +45144,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "4495a34504ce",
+        "hash": "84490b3084a5",
         "out_degree": 393
       },
       {
@@ -45102,7 +45216,7 @@
         "slug": "physics",
         "path": "content/book/physics.md",
         "title": "物理即定律的迷思 / The Myth of Physics Is the Law",
-        "hash": "bc168c60eb56",
+        "hash": "4dc78b4befa1",
         "out_degree": 22
       },
       {
@@ -46945,6 +47059,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-generative-atlas-of-macroscopic-phenomena",
+        "rel": "collects",
+        "label": "宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "freedom-as-ground",
         "rel": "collects",
         "label": "Freedom as Ground"
@@ -48201,7 +48321,7 @@
         "from": "book:index-of-premises",
         "to": "the-generative-atlas-of-macroscopic-phenomena",
         "rel": "collects",
-        "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+        "label": "宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena"
       },
       {
         "from": "book:index-of-premises",
@@ -50661,7 +50781,7 @@
         "from": "book:physics",
         "to": "the-generative-atlas-of-macroscopic-phenomena",
         "rel": "collects",
-        "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+        "label": "宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena"
       },
       {
         "from": "book:physics",

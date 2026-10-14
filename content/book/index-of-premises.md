@@ -1412,7 +1412,7 @@ Shannon's channel capacity counts already-performed binary distinctions relative
 
 Presumes physical reality is computational software running on an external computer; provocative as a thought experiment, it confuses formal symbolic description with existence.
 
-→ [凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable](../../posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable/)
+→ [凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable](../../posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable/) · [宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena](../../posts/the-generative-atlas-of-macroscopic-phenomena/)
 
 ### 社会契约论 / Social Contract Theory
 `哲学 / Philosophical`
@@ -3183,11 +3183,11 @@ Classical physics views deterministic predictability as nature's fundamental law
 ### 宏观不变性作为物理定律 / Macroscopic Invariance as Physical Law
 `科学 / Scientific`
 
-素朴实在论把物理定律当成镌刻在自然界的金科玉律；定律实则是跨越不同主体认知时保持稳定的宏观不变现象。
+把物理定律、市场、演化与模拟当作独立的、自上而下的实体，作为好用的宏观速记有用；它在此到了边界：除了因果没有别的独立规则，定律是因果链的自相关与互相关结晶出的不变量，计算是人选定的比特逻辑，社会模式是个人选择碰撞出的描述，它们都没有独立的因果能动性。
 
-Naive realism treats physical laws as eternal commandments engraved in nature; physical laws are macroscopic invariances maintaining stability across different subjective observers.
+Treating physical laws, markets, evolution and simulations as independent, top-down entities is of use as handy macroscopic shorthand; it reaches its boundary in that there is no independent rule besides causality, laws being invariants crystallised from the auto- and cross-correlation of causal chains, computation being bit logic chosen by people, and social patterns being descriptions of colliding individual choices, none with independent causal agency.
 
-→ [The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction](../../posts/the-generative-atlas-of-macroscopic-phenomena/)
+→ [宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena](../../posts/the-generative-atlas-of-macroscopic-phenomena/)
 
 ### 中国制造成就特斯拉与苹果 / Made-in-China Explanation of Tesla and Apple Success
 `经济 / Economic`

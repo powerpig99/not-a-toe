@@ -117,10 +117,6 @@
       "title_zh": "超验的定相",
       "subtitle_zh": "人类智能是所知一切智能的源头，既不可被自身造物所超越，又在每一瞬间超越自身。"
     },
-    "the-generative-atlas-of-macroscopic-phenomena": {
-      "title_zh": "宏观现象的生成图谱",
-      "subtitle_zh": "因果是现实唯一的基元，无始无终，只受观察者有限却流动的认识视界约束。"
-    },
     "the-geometry-of-success": {
       "title_zh": "成功的几何学",
       "subtitle_zh": "成功不是在固定棋盘上赢下既有的比赛，而是在别人觉得有趣之前，异步迁入尚未测绘的领地。"
@@ -444,6 +440,10 @@
     "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai": {
       "title_en": "External Attribution: The Obstacle to Personal Growth",
       "subtitle_en": "The handle for action exists only inside; once a gap is attributed to something outside oneself, it loses the chance of being changed by oneself."
+    },
+    "curiosity-has-no-final-form": {
+      "title_zh": "好奇没有最终的形态",
+      "subtitle_zh": "把数学、物理与哲学当作好奇的终点，是把临时的脚手架与不停息的区分活动混为一谈。"
     }
   }
 }
