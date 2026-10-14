@@ -676,6 +676,15 @@ Overfitting treats dense memorization of training sets as generalized wisdom; hi
 
 → [Overfitting as the Follower Mode](../../posts/overfitting-as-the-follower-mode/)
 
+### 万物有灵论 / Animism
+`宗教 / Religious`
+
+万物有灵论把意识归于河流、山岳与森林；它切身登记到了自然中自我调节的回路，却在把人的形象，愤怒、报复、虚荣，投射到这些回路上时到了边界，作为对回路折回自身的那种回响的感受，它依然是一个出发点。
+
+Animism attributes consciousness to rivers, mountains and forests; it registers, directly, the self-regulating loops of nature, and reaches its boundary when it projects the human image, anger, vengeance, vanity, onto those loops, while as a feel for the echo of loops folding back on themselves it remains a starting point.
+
+→ [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/)
+
 ### 反脆弱理论 / Antifragility
 `经济 / Economic`
 
@@ -846,6 +855,15 @@ Extended cognition argues external artifacts form part of the mind; useful for a
 Falsification is misused either to explain away counterevidence or to refute opponents as self-proof; each test lags the process it targets, so the method itself stays revisable rather than a closing tool.
 
 → [关于归因：从事实到因果，从外部节点到内部迭代](../../posts/guan-yu-gui-yin/)
+
+### 费米悖论 / The Fermi Paradox
+`科学 / Scientific`
+
+费米悖论预设地外智能会在与人相近的时间窗口里、以按人的感官格式化的信号出现，于是追问它们为何沉默；这个预设在窗口之外到了边界，因为一个真正“外”的回路无法被认出，一旦能握手便不再是“外”，作为给搜寻一个可操作对象的问题，它依然有用。
+
+The Fermi paradox presumes extraterrestrial intelligence would appear in a time window close to the human one, with signals formatted to human senses, and so asks why it is silent; the presumption reaches its boundary outside that window, since a truly other loop cannot be recognized and stops being other once a handshake is made, while as a question that gives the search something to operate on it stays useful.
+
+→ [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter](../../posts/the-fermi-paradox-reified-agency-and-the-great-filter/)
 
 ### 有限游戏与无限游戏 / Finite and Infinite Games
 `哲学 / Philosophical`
@@ -1205,7 +1223,7 @@ Orch-OR assumes wavefunction collapse supplies the non-computability consciousne
 
 Panpsychism attributes conscious awareness to fundamental particles like electrons; subatomic particles exhibit quantum wave-particle interactions, but lack the recursive architecture of mind.
 
-→ [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/)
+→ [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/)
 
 ### 物理主义的无处之境错觉 / Physicalism as View from Nowhere
 `哲学 / Philosophical`
@@ -1259,7 +1277,7 @@ Least action assumes nature inherently seeks optimal paths; it is a variational 
 
 Epistemology questions whether one can prove others possess consciousness; the permanent asymmetry between internal awareness and external observation cannot be closed by logic.
 
-→ [NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/)
+→ [NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/)
 
 ### 生产过剩与意识形态消费 / Productive Surplus and Ideology
 `经济 / Economic`
@@ -4440,14 +4458,14 @@ The test assumes genuine scientific insight is an optimization problem over hypo
 
 → [The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/)
 
-### 褶皱的连续统 / The Folded Continuum
-`数学 / Mathematical`
+### 心智之间的直接沟通 / Direct Communication Between Minds
+`哲学 / Philosophical`
 
-经典几何预设连续统是光滑无隙的坚实幕布；宏观平滑感实则是大量微观离散事件高密折叠后呈现出的近似视觉。
+人们设想想法与感受能借共鸣或亲密不经中介地从一个心智流到另一个；从第一人称的原点找不到这样的通道，另一个人只以痕迹到来，登记到的是自身重新合成的模型，这一设想在此到了边界，作为确认彼此模型重叠、协调个体之间行动的方式，同意与共识依然好用。
 
-Classical geometry presumes the continuum is an infinitely divisible smooth fabric; smooth continuity is a macroscopic approximation arising from dense relational folding of discrete events.
+The idea is that thoughts and feelings can flow unmediated from one mind to another through resonance or intimacy; from the first-person origin no such channel is found, since another person arrives only as traces and what registers is one's own re-synthesized model, which is where the idea reaches its boundary, while as a way of confirming overlapping models and coordinating action among individuals, agreement and consensus stay useful.
 
-→ [The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication](../../posts/the-continuum-of-the-fold/)
+→ [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/)
 
 ### 框架倒置与驾驶位主权 / The Harness Inversion
 `技术 / Technological`

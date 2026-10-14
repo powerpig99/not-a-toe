@@ -25,7 +25,7 @@ These essays explore hierarchies of infinity, self-referential paradoxes, and th
 - [高维信息的离散折射与认知分层：从廉价手机陷阱到因果闭环的诊断镜](../../posts/gao-wei-xin-xi-de-li-san-zhe-she/)
 - [The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence](../../posts/the-generative-topology-of-free-variables/)
 - [The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
-- [The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication](../../posts/the-continuum-of-the-fold/)
+- [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/)
 - [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/)
 - [连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience](../../posts/the-continuum-is-a-modeling-convenience/)
 - [全息回声 / The Holographic Echo](../../posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function/)

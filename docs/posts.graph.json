@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T15:37:13.398Z",
+    "generated_at": "2026-10-14T17:08:28.791Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -219,7 +219,7 @@
       "content/posts/the-comment-is-not-the-code.md": "1ee31f526434",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "2622676a6816",
-      "content/posts/the-continuum-of-the-fold.md": "9427017c6590",
+      "content/posts/the-continuum-of-the-fold.md": "e391b7e18d3c",
       "content/posts/the-coordinators-category-error.md": "89f6110cc916",
       "content/posts/the-cut-moves-but-never-vanishes.md": "2610f984cd07",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
@@ -404,11 +404,11 @@
       "content/book/causality.md": "e6ea1a3ffb75",
       "content/book/consciousness.md": "d6c92ea6f310",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "e4fa7b5979e2",
+      "content/book/index-of-premises.md": "202b7359a228",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "bfaf3d63d4a0",
       "content/book/life-and-statistics.md": "1862c4e7034f",
-      "content/book/mathematics.md": "f966a11f64c4",
+      "content/book/mathematics.md": "8c00396b50f0",
       "content/book/meaning-and-transcendence.md": "5f74283b7779",
       "content/book/method.md": "28b8cec3611e",
       "content/book/morality.md": "25d4f858a2df",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5634,
-      "unique_directed": 4539,
+      "edges": 5651,
+      "unique_directed": 4543,
       "missing_targets": 0,
-      "one_way": 133,
+      "one_way": 135,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 999,
+      "book_edges": 1004,
       "posts_reached_by_book": 393
     }
   },
@@ -454,7 +454,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 53
+      "in_degree": 54
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -5799,12 +5799,16 @@
       "kind": "post",
       "slug": "the-continuum-of-the-fold",
       "path": "content/posts/the-continuum-of-the-fold.md",
-      "title": "The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication",
-      "hash": "9427017c6590",
+      "title": "折叠的连续谱 / The Continuum of the Fold",
+      "hash": "e391b7e18d3c",
       "in_degree": 10,
-      "out_degree": 9,
+      "out_degree": 13,
       "links_out": [
         "the-geometry-of-mind",
+        "the-model-never-becomes-a-second-edge",
+        "the-cut-moves-but-never-vanishes",
+        "when-electrons-think",
+        "the-fermi-paradox-reified-agency-and-the-great-filter",
         "the-unclosable-trace",
         "the-vector-and-the-puzzle-of-projections",
         "the-extendable-horizon",
@@ -5853,7 +5857,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "2610f984cd07",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 5,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -6186,7 +6190,7 @@
       "path": "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md",
       "title": "费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter",
       "hash": "41631349ff7c",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 6,
       "links_out": [
         "the-misallocation-of-agency",
@@ -7423,7 +7427,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "be8e9087d341",
-      "in_degree": 53,
+      "in_degree": 54,
       "out_degree": 45,
       "links_out": [
         "the-category-error-of-better",
@@ -9435,7 +9439,7 @@
       "path": "content/posts/when-electrons-think.md",
       "title": "当电子开始思考 / When Electrons Think",
       "hash": "fbdd3178e8f3",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 5,
       "links_out": [
         "objects-are-stabilized-relationships",
@@ -28375,31 +28379,121 @@
       "from": "the-continuum-of-the-fold",
       "to": "the-geometry-of-mind",
       "rel": "points_to",
-      "label": "the geometry of mind"
+      "label": "心智的几何学"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "when-electrons-think",
+      "rel": "points_to",
+      "label": "当电子开始思考"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "when-electrons-think",
+      "rel": "points_to",
+      "label": "When Electrons Think"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "rel": "points_to",
+      "label": "费米悖论、主体性错配与大过滤器的投射"
     },
     {
       "from": "the-continuum-of-the-fold",
       "to": "the-unclosable-trace",
       "rel": "points_to",
-      "label": "The Unclosable Trace: Why Philosophy Cannot Be Inherited"
+      "label": "无法闭合的痕迹"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "rel": "points_to",
+      "label": "The Fermi Paradox, Reified Agency, and the Projection of the Great Filter"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "The Unclosable Trace"
     },
     {
       "from": "the-continuum-of-the-fold",
       "to": "the-vector-and-the-puzzle-of-projections",
       "rel": "points_to",
-      "label": "the vector and the puzzle of projections"
+      "label": "向量与投影的迷局"
     },
     {
       "from": "the-continuum-of-the-fold",
       "to": "the-extendable-horizon",
       "rel": "points_to",
-      "label": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables"
+      "label": "可延展的地平线"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "The Vector and the Puzzle of Projections"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon"
     },
     {
       "from": "the-continuum-of-the-fold",
       "to": "the-deterministic-machine",
       "rel": "points_to",
-      "label": "The Deterministic Machine: Model-Lock, the Denial of Choice, and the Relocation of Causal Power"
+      "label": "决定论机器"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-deterministic-machine",
+      "rel": "points_to",
+      "label": "The Deterministic Machine"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "贝叶斯更新"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "N 扩到 N + 1"
     },
     {
       "from": "the-continuum-of-the-fold",
@@ -28411,13 +28505,25 @@
       "from": "the-continuum-of-the-fold",
       "to": "dimensions-are-projections",
       "rel": "points_to",
-      "label": "*N* to *N* + 1"
+      "label": "N to N + 1"
     },
     {
       "from": "the-continuum-of-the-fold",
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
-      "label": "the arithmetic of the register"
+      "label": "寄存器的算术"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "连续性作为建模的权宜之计"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "The Arithmetic of the Register"
     },
     {
       "from": "the-continuum-of-the-fold",
@@ -43695,7 +43801,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "e4fa7b5979e2",
+        "hash": "202b7359a228",
         "out_degree": 393
       },
       {
@@ -43731,7 +43837,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "f966a11f64c4",
+        "hash": "8c00396b50f0",
         "out_degree": 20
       },
       {
@@ -44962,6 +45068,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-continuum-of-the-fold",
+        "rel": "collects",
+        "label": "折叠的连续谱 / The Continuum of the Fold"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "a-new-deeper-look-at-antifragility",
         "rel": "collects",
         "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
@@ -45079,6 +45191,18 @@
         "to": "guan-yu-gui-yin",
         "rel": "collects",
         "label": "关于归因：从事实到因果，从外部节点到内部迭代"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-continuum-of-the-fold",
+        "rel": "collects",
+        "label": "折叠的连续谱 / The Continuum of the Fold"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-fermi-paradox-reified-agency-and-the-great-filter",
+        "rel": "collects",
+        "label": "费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter"
       },
       {
         "from": "book:index-of-premises",
@@ -45364,6 +45488,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-continuum-of-the-fold",
+        "rel": "collects",
+        "label": "折叠的连续谱 / The Continuum of the Fold"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "rel": "collects",
         "label": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere"
@@ -45409,6 +45539,12 @@
         "to": "the-npc-impression-is-structural",
         "rel": "collects",
         "label": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-continuum-of-the-fold",
+        "rel": "collects",
+        "label": "折叠的连续谱 / The Continuum of the Fold"
       },
       {
         "from": "book:index-of-premises",
@@ -47598,7 +47734,7 @@
         "from": "book:index-of-premises",
         "to": "the-continuum-of-the-fold",
         "rel": "collects",
-        "label": "The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication"
+        "label": "折叠的连续谱 / The Continuum of the Fold"
       },
       {
         "from": "book:index-of-premises",
@@ -48648,7 +48784,7 @@
         "from": "book:mathematics",
         "to": "the-continuum-of-the-fold",
         "rel": "collects",
-        "label": "The Continuum of the Fold: Scale, the Alien Contradiction, and the Physics of Communication"
+        "label": "折叠的连续谱 / The Continuum of the Fold"
       },
       {
         "from": "book:mathematics",
