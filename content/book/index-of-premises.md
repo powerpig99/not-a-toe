@@ -393,7 +393,7 @@ Von Neumann's rigorous case for nuclear first strike followed from the model; re
 
 Popper's asymmetry of suffering and happiness opens with 'I believe' and admits it is not rationally decidable; later critical method operates inside that founding cut and cannot certify it.
 
-→ [The Initial Distinction, where the rationalism attempted to and failed to escape irrationality](../../posts/the-initial-distinction/)
+→ [The Initial Distinction, where the rationalism attempted to and failed to escape irrationality](../../posts/the-initial-distinction/) · [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
 
 ### 卡尔·魏尔施特拉斯 / Karl Weierstrass
 `数学 / Mathematical`
@@ -899,7 +899,7 @@ Extended cognition argues external artifacts form part of the mind; useful for a
 
 Falsification is misused either to explain away counterevidence or to refute opponents as self-proof; each test lags the process it targets, so the method itself stays revisable rather than a closing tool.
 
-→ [关于归因：从事实到因果，从外部节点到内部迭代](../../posts/guan-yu-gui-yin/)
+→ [关于归因：从事实到因果，从外部节点到内部迭代](../../posts/guan-yu-gui-yin/) · [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
 
 ### 费米悖论 / The Fermi Paradox
 `科学 / Scientific`
@@ -2661,11 +2661,11 @@ Presumes physical equations prescribe what reality must do; foundational for cal
 ### 形式逻辑闭环 / Formal Logical Closure
 `数学 / Mathematical`
 
-形式逻辑假定公理一致性即可保证现实真理性；封闭推演只能检验自洽，而经验真理必须来自与未建模外部的现实摩擦。
+规定学习的标准形式、引用大师的名字为观点背书，在提供参照与降低起步成本时有用；它在此到了边界：物理通道不等于认知计算，名字背书不了真理，理论是带工况边界的工具，既不神化也不因一个反例全盘推翻，而逻辑与第一人称是认知得以启动的两个前提，因果理顺之后，知行合一就是系统的输出。
 
-Formal logic presumes symbolic consistency guarantees material truth; closed axiomatic deductions reveal internal consistency, while empirical truth requires friction with an unmodeled exterior.
+Prescribing a standard form for learning and citing masters' names to back one's views is of use in offering references and lowering the cost of starting; it reaches its boundary in that a physical channel is not cognitive computation, a name cannot vouch for truth, theory is a tool with boundaries of condition to be neither deified nor overturned wholesale by one counterexample, and logic and the first person are the two premises from which understanding starts, so that once causality is set straight the unity of knowing and acting is simply the system's output.
 
-→ [从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
+→ [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
 
 ### 初衷异化倾向 / Founding Mission Drift
 `意识形态 / Ideological`

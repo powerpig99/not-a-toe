@@ -21,7 +21,7 @@ These essays explore hierarchies of infinity, self-referential paradoxes, and th
 - [Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 - [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/)
 - [What Information Is](../../posts/what-information-is/)
-- [从形式迷思到逻辑闭环：知识获取、权威祛魅与微观决策的底层机制](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
+- [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
 - [高维信息的离散折射与认知分层 / The Discrete Refraction of High-Dimensional Information](../../posts/gao-wei-xin-xi-de-li-san-zhe-she/)
 - [自由变量的生成拓扑 / The Generative Topology of Free Variables](../../posts/the-generative-topology-of-free-variables/)
 - [涌现的几何学 / The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
