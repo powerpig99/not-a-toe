@@ -31,4 +31,4 @@ These essays explore hierarchies of infinity, self-referential paradoxes, and th
 - [全息回声 / The Holographic Echo](../../posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function/)
 - [共存的几何学 / The Geometry of Coexistence](../../posts/the-geometry-of-coexistence-and-the-dual-cut/)
 - [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/)
-- [向量与投影的迷局](../../posts/the-vector-and-the-puzzle-of-projections/)
+- [向量与投影的迷局 / The Vector and the Puzzle of Projections](../../posts/the-vector-and-the-puzzle-of-projections/)

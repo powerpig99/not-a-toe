@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T18:41:21.977Z",
+    "generated_at": "2026-10-14T18:49:49.002Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -359,7 +359,7 @@
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
       "content/posts/the-unobservable-driver-of-learning.md": "884cddc55a98",
       "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
-      "content/posts/the-vector-and-the-puzzle-of-projections.md": "46e3f6710799",
+      "content/posts/the-vector-and-the-puzzle-of-projections.md": "686bcbb6a5f7",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e2205554d0d",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "cbb71d477624",
@@ -404,11 +404,11 @@
       "content/book/causality.md": "8e4681ca1d7b",
       "content/book/consciousness.md": "b6e19af51e3b",
       "content/book/economics.md": "c2806cad7125",
-      "content/book/index-of-premises.md": "58be034be010",
+      "content/book/index-of-premises.md": "d5fb6ed4d02e",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "bfaf3d63d4a0",
       "content/book/life-and-statistics.md": "1862c4e7034f",
-      "content/book/mathematics.md": "8c00396b50f0",
+      "content/book/mathematics.md": "ac31dc919f28",
       "content/book/meaning-and-transcendence.md": "5f74283b7779",
       "content/book/method.md": "28b8cec3611e",
       "content/book/morality.md": "25d4f858a2df",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5687,
+      "edges": 5705,
       "unique_directed": 4546,
       "missing_targets": 0,
       "one_way": 136,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1009,
+      "book_edges": 1010,
       "posts_reached_by_book": 393
     }
   },
@@ -8937,8 +8937,8 @@
       "kind": "post",
       "slug": "the-vector-and-the-puzzle-of-projections",
       "path": "content/posts/the-vector-and-the-puzzle-of-projections.md",
-      "title": "向量与投影的迷局",
-      "hash": "46e3f6710799",
+      "title": "向量与投影的迷局 / The Vector and the Puzzle of Projections",
+      "hash": "686bcbb6a5f7",
       "in_degree": 19,
       "out_degree": 18,
       "links_out": [
@@ -41000,37 +41000,67 @@
       "from": "the-vector-and-the-puzzle-of-projections",
       "to": "dimensions-are-projections",
       "rel": "points_to",
-      "label": "维度作为注意力投影"
+      "label": "维度即投影"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "Dimensions Are Projections"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
-      "label": "观测框架的边界"
+      "label": "框架的边界"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "真正的有效信息"
+      "label": "信息是什么"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "跨越心智妄图普度与强求同频的妄念"
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Self-Deliverance"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
-      "label": "从形式迷思到概念空转的陷阱"
+      "label": "从形式迷思到逻辑闭环"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "From the Myth of Form to the Closed Loop of Logic"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "真正的开放性并不需要外在许可"
+      "label": "开放即一致"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
@@ -41042,13 +41072,37 @@
       "from": "the-vector-and-the-puzzle-of-projections",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "向外索取确认的因果倒置"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "The Continuum of the Fold"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
       "to": "the-generative-mechanics-of-value-money-and-wealth",
       "rel": "points_to",
-      "label": "真实财富与价值的生成机制"
+      "label": "价值、货币与财富的生成机制"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "The Generative Mechanics of Value, Money, and Wealth"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
@@ -41058,15 +41112,33 @@
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
       "label": "向量、坐标系与自指心智"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
       "to": "the-bank-shot-and-the-magic-trick",
       "rel": "points_to",
-      "label": "加塞球与魔术戏法"
+      "label": "翻袋球与魔术戏法"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "The Bank Shot and the Magic Trick"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
@@ -41082,6 +41154,18 @@
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "The Only Coherent Uncaused Effect"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "自我价值感与所有权"
@@ -41094,15 +41178,39 @@
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
-      "label": "因果律的链条自始至终是一致的"
+      "label": "前因，后果"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
       "label": "寄存器的算术"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "Cause Before, Effect After"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "The Arithmetic of the Register"
     },
     {
       "from": "the-walking-tangent-and-the-stumbling-sphere",
@@ -44020,7 +44128,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "58be034be010",
+        "hash": "d5fb6ed4d02e",
         "out_degree": 393
       },
       {
@@ -44056,7 +44164,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "8c00396b50f0",
+        "hash": "ac31dc919f28",
         "out_degree": 20
       },
       {
@@ -45842,6 +45950,12 @@
         "to": "what-information-is",
         "rel": "collects",
         "label": "What Information Is"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-vector-and-the-puzzle-of-projections",
+        "rel": "collects",
+        "label": "向量与投影的迷局 / The Vector and the Puzzle of Projections"
       },
       {
         "from": "book:index-of-premises",
@@ -48241,7 +48355,7 @@
         "from": "book:index-of-premises",
         "to": "the-vector-and-the-puzzle-of-projections",
         "rel": "collects",
-        "label": "向量与投影的迷局"
+        "label": "向量与投影的迷局 / The Vector and the Puzzle of Projections"
       },
       {
         "from": "book:index-of-premises",
@@ -49069,7 +49183,7 @@
         "from": "book:mathematics",
         "to": "the-vector-and-the-puzzle-of-projections",
         "rel": "collects",
-        "label": "向量与投影的迷局"
+        "label": "向量与投影的迷局 / The Vector and the Puzzle of Projections"
       },
       {
         "from": "book:meaning-and-transcendence",

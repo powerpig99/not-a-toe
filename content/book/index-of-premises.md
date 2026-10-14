@@ -1367,7 +1367,7 @@ The latecomer story reads history through launch dates; victors committed to hig
 
 Shannon's channel capacity counts already-performed binary distinctions relative to an agreed partition; rigorous for engineering, it excluded meaning by design and does not say what information is.
 
-→ [What Information Is](../../posts/what-information-is/)
+→ [What Information Is](../../posts/what-information-is/) · [向量与投影的迷局 / The Vector and the Puzzle of Projections](../../posts/the-vector-and-the-puzzle-of-projections/)
 
 ### 模拟宇宙假说 / Simulation Hypothesis
 `哲学 / Philosophical`
@@ -4845,14 +4845,14 @@ Presumes communication transfers meanings into a universal coordinate space; use
 
 → [向量、坐标系与自指心智 / The Mind as Vector and Coordinate System](../../posts/the-mind-as-vector-and-coordinate-system/)
 
-### 向量空间的语义投影 / Vector Space Semantic Projection
-`数学 / Mathematical`
+### 以群体认可为校准 / Group Approval as Calibration
+`成功学 / Self-Help`
 
-向量检索假定在高维空间挨得近就等于理解了概念；向量簇反映的仅是统计共现频次，对深层因果关联网全无知觉。
+人们以为能力必须被看见、被群体认可才算存在，于是用别人的看法校准下一步；成百上千个低维投影的交集缩成一个干瘪的点，模长与角度在投影上分不出来，这一做法在此到了边界，作为从投影这面镜子间接体会自身轮廓的参考坐标，外界的看法依然有用。
 
-Vector search assumes geometric proximity in embedding space equates to conceptual comprehension; spatial clusters index statistical co-occurrences, blind to the causal relations between concepts.
+Ability is taken to exist only once it is seen and approved by a group, so the next step is calibrated by others' views; the intersection of hundreds of low-dimensional projections shrinks to a dry point, and magnitude cannot be told from angle in a projection, which is where the practice reaches its boundary, while as a reference coordinate for sensing one's outline indirectly in the mirror of projection, outside views stay useful.
 
-→ [向量与投影的迷局](../../posts/the-vector-and-the-puzzle-of-projections/)
+→ [向量与投影的迷局 / The Vector and the Puzzle of Projections](../../posts/the-vector-and-the-puzzle-of-projections/)
 
 ### 等待局势明朗 / Waiting for Clarity
 `成功学 / Self-Help`
