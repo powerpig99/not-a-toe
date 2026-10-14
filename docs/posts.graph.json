@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:10:05.919Z",
+    "generated_at": "2026-10-14T21:12:47.847Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -248,7 +248,7 @@
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "591395049b84",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "639d817543c0",
       "content/posts/the-generative-contradiction.md": "181c40e6e269",
-      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "2335c049939e",
+      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
       "content/posts/the-generative-topology-of-free-variables.md": "7a3c85d5294c",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
       "content/posts/the-geometry-of-emergence.md": "a969fe12c726",
@@ -403,8 +403,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "d5d366935d23",
       "content/book/consciousness.md": "5c18c8537a39",
-      "content/book/economics.md": "ad016ff10817",
-      "content/book/index-of-premises.md": "4ac3cc73e433",
+      "content/book/economics.md": "6981446aec26",
+      "content/book/index-of-premises.md": "df7a0cd01c27",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6a133aa0ce87",
       "content/book/life-and-statistics.md": "1862c4e7034f",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5814,
+      "edges": 5824,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1032,
+      "book_edges": 1034,
       "posts_reached_by_book": 393
     }
   },
@@ -6465,8 +6465,8 @@
       "kind": "post",
       "slug": "the-generative-mechanics-of-value-money-and-wealth",
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
-      "title": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims",
-      "hash": "2335c049939e",
+      "title": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth",
+      "hash": "7e70fb60c1b1",
       "in_degree": 11,
       "out_degree": 10,
       "links_out": [
@@ -31882,19 +31882,43 @@
       "from": "the-generative-mechanics-of-value-money-and-wealth",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind's distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity first, compounded capability downstream"
+      "label": "好奇先行"
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity First"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "rel": "points_to",
+      "label": "能动性、复利与 AI 封建之争"
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
@@ -31906,7 +31930,19 @@
       "from": "the-generative-mechanics-of-value-money-and-wealth",
       "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "rel": "points_to",
-      "label": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency"
+      "label": "福利国家的幻象"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "财富转移政策与价格下限中的原因错置"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "The Welfare State Illusion"
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
@@ -31918,7 +31954,19 @@
       "from": "the-generative-mechanics-of-value-money-and-wealth",
       "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "rel": "points_to",
+      "label": "自我价值、反向财富转移与过去成功的陷阱"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "rel": "points_to",
       "label": "Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "成功之后的育儿谬误"
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
@@ -31930,7 +31978,19 @@
       "from": "the-generative-mechanics-of-value-money-and-wealth",
       "to": "the-vector-and-the-puzzle-of-projections",
       "rel": "points_to",
-      "label": "lagging settlement invoices of past exchanges rather than generative engines"
+      "label": "向量与投影的迷局"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "唯一自洽的无因之果"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "The Vector and the Puzzle of Projections"
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
@@ -44775,7 +44835,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "ad016ff10817",
+        "hash": "6981446aec26",
         "out_degree": 29
       },
       {
@@ -44784,7 +44844,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "4ac3cc73e433",
+        "hash": "df7a0cd01c27",
         "out_degree": 393
       },
       {
@@ -45465,7 +45525,7 @@
         "from": "book:economics",
         "to": "the-generative-mechanics-of-value-money-and-wealth",
         "rel": "collects",
-        "label": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims"
+        "label": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth"
       },
       {
         "from": "book:economics",
@@ -46743,7 +46803,7 @@
         "from": "book:index-of-premises",
         "to": "the-generative-mechanics-of-value-money-and-wealth",
         "rel": "collects",
-        "label": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims"
+        "label": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth"
       },
       {
         "from": "book:index-of-premises",
@@ -47140,6 +47200,12 @@
         "to": "empowerment-establishes-the-centralization-of-power",
         "rel": "collects",
         "label": "Empowerment Establishes the Centralization of Power"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-generative-mechanics-of-value-money-and-wealth",
+        "rel": "collects",
+        "label": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth"
       },
       {
         "from": "book:index-of-premises",
@@ -48057,7 +48123,7 @@
         "from": "book:index-of-premises",
         "to": "the-generative-mechanics-of-value-money-and-wealth",
         "rel": "collects",
-        "label": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims"
+        "label": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth"
       },
       {
         "from": "book:index-of-premises",
@@ -48478,6 +48544,12 @@
         "to": "order-surplus-and-the-moral-intercept",
         "rel": "collects",
         "label": "Order, Surplus, and the Moral Intercept"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-generative-mechanics-of-value-money-and-wealth",
+        "rel": "collects",
+        "label": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth"
       },
       {
         "from": "book:index-of-premises",

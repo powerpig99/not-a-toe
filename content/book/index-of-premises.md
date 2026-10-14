@@ -1462,11 +1462,11 @@ Stoicism affirms the ruling faculty as wholly one's own, then reinserts it into 
 ### 主观价值理论 / Subjective Theory of Value
 `经济 / Economic`
 
-古典学派将价值归于耗费的劳动工时或黄金储备；价值实则由活生生的心智在权衡稀缺、开展协作时的主观评价赋予。
+主观价值理论把价值放在活的心智的评价里，这一点有用，第一人称的价值没有外部的尺度；它在此到了边界：价值一旦被记成可储存的数量，借据、货币与资产就被误认为财富本身，而它们只是时间延迟留下的滞后记录，财富在个人实时的创造能力里。
 
-Classical economics attributes value to embedded labor hours or gold reserves; economic value originates in the subjective priorities of living minds trading to overcome scarcity.
+The subjective theory of value places value in the valuations of living minds, which is of use, since first-person value has no outside scale; it reaches its boundary once value is recorded as a storable quantity and IOUs, money and assets are taken for wealth itself, when they are only lagging records left by temporal delay and wealth lies in people's real-time capability to create.
 
-→ [The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
+→ [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
 
 ### 技术封建主义 / Techno-Feudalism
 `经济 / Economic`
@@ -1990,7 +1990,7 @@ Early Buddhism locates liberation in each mind's seeing; constructing the Sangha
 
 Progressive rhetoric celebrates administrative programs that empower marginalized groups; accepting power as a gift ratifies the sovereign authority of the dispenser.
 
-→ [Empowerment Establishes the Centralization of Power](../../posts/empowerment-establishes-the-centralization-of-power/)
+→ [Empowerment Establishes the Centralization of Power](../../posts/empowerment-establishes-the-centralization-of-power/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
 
 ### 责任转嫁的程序剧场 / Bureaucratic Liability Theater
 `意识形态 / Ideological`
@@ -3345,11 +3345,11 @@ Presumes advanced language models possess intrinsic moral agency; helpful for et
 ### 货币作为协作账本 / Money as Coordination Ledger
 `经济 / Economic`
 
-重商主义混淆了堆积货币与创造财富；通货只是延期协调的信息账本，真正的财富始终是解决实际难题的生产能力。
+把货币与累积的资产当作财富，在记录延期的权利、跨越时间交换时有用；它在此到了边界：货币是标准化的借据，资产是过去生产减过去消费的累积，它们的价值取决于活着的社会持续的生产能力，把它们当作源头，就会忘了损失函数，让转移变成萎缩。
 
-Mercantilism confuses accumulating currency reserves with generating wealth; money functions as an informational coordination ledger, while real wealth resides in productive problem-solving capacity.
+Treating money and accumulated assets as wealth is of use in recording deferred claims and exchanging across time; it reaches its boundary in that money is a standardised IOU and assets are past production minus past consumption accumulated, their value depending on a living society's continued capability to produce, so that taking them for the source forgets the loss function and turns transfer into atrophy.
 
-→ [The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
+→ [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
 
 ### 善恶二元论的认知刻痕 / Moral Dualism as Cognitive Knife
 `哲学 / Philosophical`
@@ -3943,7 +3943,7 @@ Singularity enthusiasts treat recursive model improvements as runaway machine wi
 
 Treating transfer as what the loop requires places causal power on consumption; later registration cannot authorize earlier making, so transfer-as-justification thins the return that would sharpen production.
 
-→ [Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/)
+→ [Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
 
 ### 丰裕会平息零和之争 / Abundance Will Quiet Zero-Sum Contest
 `经济 / Economic`
