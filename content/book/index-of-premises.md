@@ -3633,11 +3633,11 @@ Self-help tracking assumes recording daily habits objectively improves disciplin
 ### 哲学能动性的因果倒错 / Philosophical Inversion of Agency
 `哲学 / Philosophical`
 
-学院哲学常把主权抉择归结为客观语言或历史结构的傀儡；活生生的抉择实则是催生一切思辨体系不可还原的源头。
+说文章“由 AI 写成”、用词元比例界定作者、衡量“AI 的哲学能力”、以评审团的共识验证真理，在描述工具的产出与机构的流程时有用；把它们当作哲学行为的源头，在此到了边界，提出问题、引导回路、为断言负责的始终是活着的心智，称某物在探究也是一个心智在划切分。
 
-Academic philosophy subordinates sovereign choice to impersonal linguistic or historical structures; conscious choice is the irreducible prior condition that authors all philosophical discourse.
+Saying an essay was "written by AI", defining authorship by token share, gauging "AI's philosophical capability" and validating truth by a panel's consensus are of use in describing tool output and institutional procedure; taken as the source of the philosophical act they reach their boundary, since the one who poses the question, steers the loop and answers for the claims is the living Mind, and calling something an inquirer is itself a Mind placing a cut.
 
-→ [The Causal Inversion of Philosophical Agency](../../posts/the-causal-inversion-of-philosophical-agency/)
+→ [哲学能动性的因果倒置 / The Causal Inversion of Philosophical Agency](../../posts/the-causal-inversion-of-philosophical-agency/)
 
 ### 物理视界与奇点是实在的边缘 / Physical Horizons and Singularities as Edges of Reality
 `科学 / Scientific`

@@ -33,7 +33,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [投影的阶梯与因果的锚点：从科学图腾到道德代偿的认识论解构](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
 - [自由变量的同构与先验主权：量子、比特与微观选择](../../posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)
 - [The Look of Constraint Is Not the Loss of Freedom](../../posts/the-look-of-constraint-is-not-the-loss-of-freedom/)
-- [The Causal Inversion of Philosophical Agency](../../posts/the-causal-inversion-of-philosophical-agency/)
+- [哲学能动性的因果倒置 / The Causal Inversion of Philosophical Agency](../../posts/the-causal-inversion-of-philosophical-agency/)
 - [唯一自洽的无因之果 / The Only Coherent Uncaused Effect](../../posts/the-only-coherent-uncaused-effect/)
 - [因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere](../../posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere/)
 - [残余与自由变量 / The Residue and the Free Variable](../../posts/the-residue-and-the-free-variable/)
