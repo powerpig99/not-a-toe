@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:17:56.859Z",
+    "generated_at": "2026-10-14T21:20:12.262Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -91,7 +91,7 @@
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "f0c515ee862c",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "efe569660ce6",
-      "content/posts/guidance-is-not-ownership.md": "fe1b23dca1aa",
+      "content/posts/guidance-is-not-ownership.md": "7d51a8692137",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "33876b76477c",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
@@ -404,10 +404,10 @@
       "content/book/causality.md": "d5d366935d23",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "6981446aec26",
-      "content/book/index-of-premises.md": "22ca8599774c",
+      "content/book/index-of-premises.md": "4495a34504ce",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6a133aa0ce87",
-      "content/book/life-and-statistics.md": "1862c4e7034f",
+      "content/book/life-and-statistics.md": "57d582e7bf12",
       "content/book/mathematics.md": "baeb813686dd",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "9a18c1b149e6",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 5846,
+      "edges": 5855,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -2553,8 +2553,8 @@
       "kind": "post",
       "slug": "guidance-is-not-ownership",
       "path": "content/posts/guidance-is-not-ownership.md",
-      "title": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control",
-      "hash": "fe1b23dca1aa",
+      "title": "引导不是占有 / Guidance Is Not Ownership",
+      "hash": "7d51a8692137",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -16888,37 +16888,79 @@
       "from": "guidance-is-not-ownership",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
-      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+      "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena"
     },
     {
       "from": "guidance-is-not-ownership",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
-      "label": "Sympathy is a placeholder for lack of clarity"
+      "label": "同情是缺乏清晰时的占位符"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "rel": "points_to",
+      "label": "Sympathy Is a Placeholder for Lack of Clarity"
     },
     {
       "from": "guidance-is-not-ownership",
       "to": "the-fallacy-of-post-success-parenting",
       "rel": "points_to",
-      "label": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle"
+      "label": "成功之后的育儿谬误"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "The Fallacy of Post-Success Parenting"
     },
     {
       "from": "guidance-is-not-ownership",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "guidance-is-not-ownership",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "Isomorphism of Free Variables and A Priori Sovereignty"
+      "label": "自由变量的同构与先验主权"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "The Isomorphism of Free Variables and Prior Sovereignty"
     },
     {
       "from": "guidance-is-not-ownership",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "Emotional support as causal interference"
+      "label": "情感支持作为因果干扰"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional Support as Causal Interference"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果"
     },
     {
       "from": "guidance-is-not-ownership",
@@ -16930,7 +16972,19 @@
       "from": "guidance-is-not-ownership",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因：个人进步的障碍"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "guidance-is-not-ownership",
@@ -44976,7 +45030,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "22ca8599774c",
+        "hash": "4495a34504ce",
         "out_degree": 393
       },
       {
@@ -45003,7 +45057,7 @@
         "slug": "life-and-statistics",
         "path": "content/book/life-and-statistics.md",
         "title": "生命演化与统计表象 / Living Evolution and Statistical Shadows",
-        "hash": "1862c4e7034f",
+        "hash": "57d582e7bf12",
         "out_degree": 10
       },
       {
@@ -46141,12 +46195,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "guidance-is-not-ownership",
-        "rel": "collects",
-        "label": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-interesting-case-of-rubin",
         "rel": "collects",
         "label": "The Interesting Case of Rubin"
@@ -46317,7 +46365,7 @@
         "from": "book:index-of-premises",
         "to": "guidance-is-not-ownership",
         "rel": "collects",
-        "label": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control"
+        "label": "引导不是占有 / Guidance Is Not Ownership"
       },
       {
         "from": "book:index-of-premises",
@@ -47110,6 +47158,12 @@
         "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "rel": "collects",
         "label": "Ownership Cost Freezes Lagged Averages as Vehicle Property"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "guidance-is-not-ownership",
+        "rel": "collects",
+        "label": "引导不是占有 / Guidance Is Not Ownership"
       },
       {
         "from": "book:index-of-premises",
@@ -50049,7 +50103,7 @@
         "from": "book:life-and-statistics",
         "to": "guidance-is-not-ownership",
         "rel": "collects",
-        "label": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control"
+        "label": "引导不是占有 / Guidance Is Not Ownership"
       },
       {
         "from": "book:life-and-statistics",

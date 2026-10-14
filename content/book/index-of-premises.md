@@ -548,15 +548,6 @@ Descartes grounded epistemological certainty in first-person cogito while separa
 
 → [笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation](../../posts/the-cartesian-overstep-and-the-frenzy-of-creation/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
-### 理查德·道金斯 / Richard Dawkins
-`科学 / Scientific`
-
-道金斯将生物体描画为自私基因的生存机器；极大启发了演化生物学，但若把人类贬为基因木偶则否定了主观意志。
-
-Dawkins framed living organisms as survival vehicles for selfish genes; illuminating for evolutionary biology, treating humans as genetic puppets denies conscious agency.
-
-→ [Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control](../../posts/guidance-is-not-ownership/)
-
 ### 里克·鲁宾 / Rick Rubin
 `成功学 / Self-Help`
 
@@ -751,11 +742,11 @@ Behavioral and ecological refinements add heuristics and environments as patches
 ### 生物基因决定论 / Biological Determinism
 `科学 / Scientific`
 
-基因决定论断言DNA编码主宰人类行为与命运；基因确立了生物机能底色，心智却依然保有着对价值抉择的主权决断。
+把人的行为归于基因、激素与神经回路，在描述选择所受的身体约束时有用；它在此到了边界：生物学的测量是观察者地平线内的相关与约束，不是选择的发起者，约束界定的是选项的菜单，不是选择者，把青少年的决定归于大脑发育，替父母开脱，也冻结了年轻人自己的学习回路。
 
-Genetic determinism asserts DNA programs dictate human action and personality; genetic constraints set biological parameters, while conscious agency retains authorship over value commitments.
+Attributing human behaviour to genes, hormones and neural circuitry is of use in describing the bodily constraints on choice; it reaches its boundary in that biological measurements are correlations and constraints within an observer's horizon, not the originator of the choice, constraints define the menu of options rather than the chooser, and crediting adolescents' decisions to brain development excuses parents while freezing young people's own learning loop.
 
-→ [Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control](../../posts/guidance-is-not-ownership/)
+→ [引导不是占有 / Guidance Is Not Ownership](../../posts/guidance-is-not-ownership/)
 
 ### 比特币作为价值储存 / Bitcoin as Store of Value
 `经济 / Economic`
@@ -1694,6 +1685,15 @@ Confusing actual and potential infinity treats infinity as a completed object; p
 Insurance pricing treats repair costs as intrinsic vehicle properties; premium calculations reflect backward-looking claims averages, failing to account for shifting driver cohorts.
 
 → [Ownership Cost Freezes Lagged Averages as Vehicle Property](../../posts/ownership-cost-freezes-lagged-averages-as-vehicle-property/)
+
+### 青春期大脑缺陷论 / Adolescent Brain as Defect
+`科学 / Scientific`
+
+把亲子冲突诊断为青少年冲动、被激素劫持、神经发育不全，读神经影像的结果时有用；它在此到了边界：大约十三岁时转向陌生声音的反应，是感知地平线朝更广世界的扩展，不是故障，长期的冲突多出自父母升级控制的治理模型，而不是孩子固有的缺陷。
+
+Diagnosing parent–teen conflict as adolescents being impulsive, hormonally hijacked and neurologically incomplete is of use in reading neuroimaging results; it reaches its boundary in that the shift toward unfamiliar voices around age thirteen is the perceptual horizon widening toward a larger world, not a malfunction, and chronic conflict comes mostly from a parental model of governance that escalates control rather than from a defect inherent in the child.
+
+→ [引导不是占有 / Guidance Is Not Ownership](../../posts/guidance-is-not-ownership/)
 
 ### AI 增强 / AI Augmentation
 `技术 / Technological`
