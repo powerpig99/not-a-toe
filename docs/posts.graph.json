@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-14T21:24:37.847Z",
+    "generated_at": "2026-10-14T21:26:46.823Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -253,7 +253,7 @@
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
       "content/posts/the-geometry-of-emergence.md": "a969fe12c726",
       "content/posts/the-geometry-of-mind.md": "5e64ee6befbf",
-      "content/posts/the-geometry-of-success.md": "dc47507d236b",
+      "content/posts/the-geometry-of-success.md": "3b857695b9ab",
       "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "b9ba768691c7",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "68e47fce620a",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "d5d366935d23",
       "content/book/consciousness.md": "5c18c8537a39",
       "content/book/economics.md": "6981446aec26",
-      "content/book/index-of-premises.md": "7b200ede51ef",
+      "content/book/index-of-premises.md": "6e223eccb40f",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "3df71b75d2b0",
       "content/book/life-and-statistics.md": "57d582e7bf12",
@@ -415,19 +415,19 @@
       "content/book/physics.md": "4dc78b4befa1",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "292729b9501d",
-      "content/book/success-and-the-self.md": "f9ade7121b29",
+      "content/book/success-and-the-self.md": "8f013adf8b98",
       "content/book/tools-and-progress.md": "ecdce6e731a7"
     },
     "stats": {
       "posts": 393,
-      "edges": 5882,
+      "edges": 5894,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1036,
+      "book_edges": 1040,
       "posts_reached_by_book": 393
     }
   },
@@ -6573,8 +6573,8 @@
       "kind": "post",
       "slug": "the-geometry-of-success",
       "path": "content/posts/the-geometry-of-success.md",
-      "title": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\"",
-      "hash": "dc47507d236b",
+      "title": "成功的几何学 / The Geometry of Success",
+      "hash": "3b857695b9ab",
       "in_degree": 13,
       "out_degree": 12,
       "links_out": [
@@ -32746,31 +32746,73 @@
       "from": "the-geometry-of-success",
       "to": "cheng-gong-xue",
       "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
       "label": "Theories After Success, Mistaken for Theories Leading to Success"
     },
     {
       "from": "the-geometry-of-success",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
-      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+      "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena"
     },
     {
       "from": "the-geometry-of-success",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
     },
     {
       "from": "the-geometry-of-success",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
     },
     {
       "from": "the-geometry-of-success",
       "to": "the-fallacy-of-post-success-parenting",
       "rel": "points_to",
-      "label": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle"
+      "label": "成功之后的育儿谬误"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "The Fallacy of Post-Success Parenting"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "印迹与行动"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "攀登从未离开地面"
     },
     {
       "from": "the-geometry-of-success",
@@ -32782,31 +32824,61 @@
       "from": "the-geometry-of-success",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "Climbing does not leave the ground"
+      "label": "Climbing Does Not Leave the Ground"
     },
     {
       "from": "the-geometry-of-success",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "the-geometry-of-success",
       "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "rel": "points_to",
-      "label": "The Turning at the Crossroads and the Flat Earth Paradox"
+      "label": "路口的转向与地平说的行动悖论"
     },
     {
       "from": "the-geometry-of-success",
       "to": "gao-wei-xin-xi-de-li-san-zhe-she",
       "rel": "points_to",
-      "label": "Discrete Refraction of High-Dimensional Information"
+      "label": "高维信息的离散折射与认知分层"
     },
     {
       "from": "the-geometry-of-success",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "Isomorphism of Free Variables and A Priori Sovereignty"
+      "label": "自由变量的同构与先验主权"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "rel": "points_to",
+      "label": "Turning at the Crossroad and the Flat-Earth Action Paradox"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "The Discrete Refraction of High-Dimensional Information"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "The Isomorphism of Free Variables and Prior Sovereignty"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "rel": "points_to",
+      "label": "选择看见而非搜寻影子"
     },
     {
       "from": "the-geometry-of-success",
@@ -45192,7 +45264,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "7b200ede51ef",
+        "hash": "6e223eccb40f",
         "out_degree": 393
       },
       {
@@ -45291,7 +45363,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "f9ade7121b29",
+        "hash": "8f013adf8b98",
         "out_degree": 33
       },
       {
@@ -46663,6 +46735,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-geometry-of-success",
+        "rel": "collects",
+        "label": "成功的几何学 / The Geometry of Success"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
         "rel": "collects",
         "label": "路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox"
@@ -46677,7 +46755,7 @@
         "from": "book:index-of-premises",
         "to": "the-geometry-of-success",
         "rel": "collects",
-        "label": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\""
+        "label": "成功的几何学 / The Geometry of Success"
       },
       {
         "from": "book:index-of-premises",
@@ -47977,6 +48055,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-geometry-of-success",
+        "rel": "collects",
+        "label": "成功的几何学 / The Geometry of Success"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "rel": "collects",
         "label": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\""
@@ -48985,9 +49069,21 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-geometry-of-success",
+        "rel": "collects",
+        "label": "成功的几何学 / The Geometry of Success"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "when-malfunction-is-scored-as-intelligence",
         "rel": "collects",
         "label": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-geometry-of-success",
+        "rel": "collects",
+        "label": "成功的几何学 / The Geometry of Success"
       },
       {
         "from": "book:index-of-premises",
@@ -51273,7 +51369,7 @@
         "from": "book:success-and-the-self",
         "to": "the-geometry-of-success",
         "rel": "collects",
-        "label": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\""
+        "label": "成功的几何学 / The Geometry of Success"
       },
       {
         "from": "book:success-and-the-self",

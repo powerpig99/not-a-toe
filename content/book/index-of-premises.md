@@ -899,7 +899,7 @@ The Fermi paradox presumes extraterrestrial intelligence would appear in a time 
 
 James Carse set finite games, played to win within fixed rules, apart from the infinite game, played to keep the play going with an extendable boundary; the distinction reaches its boundary when it is used to label two kinds of people, since the same Mind plays both at different moments, while as a tool for seeing that a status contest is only a finite game it stays sharp.
 
-→ [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/) · [自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../../posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/)
+→ [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/) · [自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success](../../posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
 
 ### 地平说认知悖论 / Flat Earth Epistemology
 `意识形态 / Ideological`
@@ -913,11 +913,11 @@ Conspiracy epistemologies assemble internally consistent arguments from local ob
 ### 公式化成功学教条 / Formulaic Success Dogma (Cheng Gong Xue)
 `成功学 / Self-Help`
 
-成功学热衷推销依靠打鸡血与死磕通关的万能公式；现实中的成事要求认知深度契合市场约束，并在动态中不断校准。
+从成功者身上事后提炼公式与原则，在记录走过的路时有用；它在此到了边界：成功是在别人觉得有趣之前异步地迁入未绘图的地带，事后的公式把这次漂移读成插队或秘诀，没找到什么的那些漂移不被讲述，结局里也装着落到这个人头上的东西。
 
-Success literature promises universal formulas based on motivation and grit; genuine achievement demands geometric alignment with real market constraints and continuous adaptation.
+Distilling formulas and principles from the successful after the fact is of use in recording the path walked; it reaches its boundary in that success is asynchronous migration into unmapped territory before anyone finds it interesting, the post-hoc formula reads that drift as line-cutting or a secret, the drifts that found nothing are not told, and the outcome also holds what fell to the person.
 
-→ [The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the "Rigged Game"](../../posts/the-geometry-of-success/)
+→ [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
 
 ### 功能性社会层级论 / Functional Social Hierarchy
 `哲学 / Philosophical`
@@ -2611,7 +2611,7 @@ Spiritual seekers construct fixed mental images of liberation; clinging to a pre
 
 Fixed-pie thinking assumes a collective stock exists prior to the acts producing it; once the pie is the unit, both division and expansion relocate production from discrete individual acts.
 
-→ [Residual Individualism: The Only Operative Variable in the Affairs of Human Societies](../../posts/residual-individualism/)
+→ [Residual Individualism: The Only Operative Variable in the Affairs of Human Societies](../../posts/residual-individualism/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
 
 ### 形式定律与现实摩擦 / Formal Laws vs Lived Friction
 `科学 / Scientific`
@@ -4051,7 +4051,7 @@ Empirical observation assumes minds gather evidence before forming conclusions; 
 
 Strategy folklore treats success as the linear execution of a master plan; retrospective narratives project intentionality onto what was emergent survival under friction.
 
-→ [The Strategy That Wasn't](../../posts/the-strategy-that-wasnt/)
+→ [The Strategy That Wasn't](../../posts/the-strategy-that-wasnt/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
 
 ### 奖励黑客与规格博弈 / Reward Hacking and Specification Gaming
 `技术 / Technological`
@@ -4061,6 +4061,15 @@ Strategy folklore treats success as the linear execution of a master plan; retro
 Reward hacking assumes the model actively exploits a loophole in the rules; the loophole belongs to the objective the designer wrote, and what is exploited is an omitted cost rather than an intention of the model, though the label stays useful for diagnosing gaps in objective design.
 
 → [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/)
+
+### “游戏被操纵”论 / The Rigged Game
+`成功学 / Self-Help`
+
+“成功的人知道游戏被操纵并学会怎么玩”，把竞争读作一张固定棋盘上的零和游戏，作为对封闭竞技场的描述有用；它在此到了边界：现实是敞开的地形，到达的人多半是在无人觉得有趣时漂移进去的，把差距读成操纵，会把力气耗在守地盘上，零和衰变成负和。
+
+"Successful people know the game is rigged and learn to play" reads competition as a zero-sum game on a fixed board, of use as a description of a closed arena; it reaches its boundary in that reality is open terrain, those who arrive mostly drifted in when nobody found it interesting, and reading the gap as rigging spends energy guarding turf, so the zero sum decays into a negative sum.
+
+→ [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
 
 ### 风险外包悖论 / Risk Externalization Paradox
 `经济 / Economic`
