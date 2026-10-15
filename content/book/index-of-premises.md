@@ -1172,11 +1172,11 @@ The fallacy presumes there is a fixed quantum of useful work in an economy; auto
 ### 现代投资组合理论 / Modern Portfolio Theory
 `经济 / Economic`
 
-现代投资组合理论的钟形曲线假设被认为在厚尾下失效；钟形与厚尾都是结果的统计描述，不是可以据以设计策略的生成逻辑。
+现代投资组合理论以钟形曲线描述回报，在分散配置、控制波动时有用；它在此到了边界：它的钟形与批评它的厚尾一样，都是对已经发生的结果的统计描述，不是可以据以设计策略的生成逻辑。
 
-Portfolio theory's bell-curve assumption is said to fail under heavy tails; both bell curve and tail are statistical descriptions of outcomes, not the generative logic to design strategy around.
+Modern portfolio theory describes returns with a bell curve, which is of use in diversifying and controlling volatility; it reaches its boundary in that its bell curve, like the heavy tail its critics oppose to it, is a statistical description of outcomes already produced, not the generative logic to design strategy around.
 
-→ [幂律是结果的表象，不是生成的逻辑](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/)
+→ [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/)
 
 ### 以买方垄断论证工资下限 / Monopsony Justification for Wage Floors
 `经济 / Economic`
@@ -1311,7 +1311,7 @@ The Planck time and Planck length mark the scale where present models run out of
 
 The power law is of use in describing the shape of outcomes within an observation window; it reaches its boundary in that, once raised into a law that must be obeyed, aggregated traces are taken for the activity itself, while what generates them is the differential of compounding rates.
 
-→ [幂律是结果的表象，不是生成的逻辑](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
+→ [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
 
 ### 人的行动学 / Praxeology
 `经济 / Economic`
@@ -1921,11 +1921,11 @@ Sociology views high-pressure visionaries as disruptive anomalies; charismatic d
 ### 贝叶斯更新作为中立发现 / Bayesian Updating as Neutral Discovery
 `数学 / Mathematical`
 
-AI 辅助的贝叶斯整理依赖所选材料、提示与时间窗口；输出是操作者自身区分的延伸，在前提被重新审视时有用，而非被发现的外部结构。
+在给定痕迹上做贝叶斯更新，在前提被重新审视时有用；它在此到了边界：输出依赖所选的材料、提示与时间窗口，是操作者自己区分的延伸，而不是被发现的外部结构。
 
-AI-assisted Bayesian synthesis depends on chosen inputs, prompts and windows; its outputs extend the operator's distinctions and are useful when those premises are re-examined, not as discovered external structure.
+Bayesian updating on given traces is of use when its premises are re-examined; it reaches its boundary in that its output depends on the chosen material, prompts and window of time, and extends the operator's own distinctions rather than discovering an external structure.
 
-→ [幂律是结果的表象，不是生成的逻辑](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/)
+→ [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/)
 
 ### 有无之辩 / Being and Non-Being (You-Wu)
 `哲学 / Philosophical`

@@ -128,9 +128,9 @@ flowchart TD
 
 ## 五、 长窗口的形状是复利速率的记录 / 5. The Long-Window Shape Is the Record of Compounded Rates
 
-一旦窗口足够长，极端值便主导了总量。这个厚尾的残余，是随时间复利的速率差留下的统计记录。这些速率差至少部分源于提取信号能力那看似正态的分布，又被每个决策中心是把残余误差当作学习的信息，还是让知识问题悬而未决，进一步塑造。幂律的样子始终在生成的活动的下游。[幂律是结果的表象，不是生成的逻辑](../mi-lv-shi-jie-guo-de-biao-xiang/)守的是长窗口：被冻结为生成规律的那个形状，被放回迭代速率不等留下的残余的位置。这里互补的那一面是短窗口的正态：那些相乘之后成为残余的增量。
+一旦窗口足够长，极端值便主导了总量。这个厚尾的残余，是随时间复利的速率差留下的统计记录。这些速率差至少部分源于提取信号能力那看似正态的分布，又被每个决策中心是把残余误差当作学习的信息，还是让知识问题悬而未决，进一步塑造。幂律的样子始终在生成的活动的下游。[幂律是结果的表象](../mi-lv-shi-jie-guo-de-biao-xiang/)守的是长窗口：被冻结为生成规律的那个形状，被放回迭代速率不等留下的残余的位置。这里互补的那一面是短窗口的正态：那些相乘之后成为残余的增量。
 
-Once the window is long enough, the extremes dominate the aggregate. This heavy-tailed residue is the statistical record of rate differentials compounded over time. Those differentials originated, at least in part, in the normal-looking distribution of the ability to separate signal from noise, and were further shaped by whether each decision center treated residual error as information for learning or left the knowledge problem unaddressed. The power-law appearance stays downstream of the generative activity. [Power Law Is the Surface Outcome, Not the Generative Logic](../mi-lv-shi-jie-guo-de-biao-xiang/) holds the long window: the shape frozen as generating law is returned to its place as the residue of unequal rates of iteration. Here the complementary face is the short-window normal: the increments that, multiplied together, become that residue.
+Once the window is long enough, the extremes dominate the aggregate. This heavy-tailed residue is the statistical record of rate differentials compounded over time. Those differentials originated, at least in part, in the normal-looking distribution of the ability to separate signal from noise, and were further shaped by whether each decision center treated residual error as information for learning or left the knowledge problem unaddressed. The power-law appearance stays downstream of the generative activity. [Power Law Is the Surface of Outcomes](../mi-lv-shi-jie-guo-de-biao-xiang/) holds the long window: the shape frozen as generating law is returned to its place as the residue of unequal rates of iteration. Here the complementary face is the short-window normal: the increments that, multiplied together, become that residue.
 
 ## 六、 两种分布都不是下一次决策 / 6. Neither Distribution Is the Next Decision
 
