@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T16:44:59.260Z",
+    "generated_at": "2026-10-15T16:53:50.566Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -400,11 +400,11 @@
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "edb2618d9902",
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
-      "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
-      "content/book/causality.md": "d5550db9b19b",
+      "content/posts/zuo-jian-bu-shi-zi-fu.md": "007cd0dfea7c",
+      "content/book/causality.md": "b8d9371a7e62",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "8f4f48e82113",
-      "content/book/index-of-premises.md": "31afd77ff7cc",
+      "content/book/index-of-premises.md": "78f80bb97e04",
       "content/book/intelligence.md": "98b2a74f71f4",
       "content/book/knowledge-and-learning.md": "c519a684d389",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6347,
+      "edges": 6353,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -9849,8 +9849,8 @@
       "kind": "post",
       "slug": "zuo-jian-bu-shi-zi-fu",
       "path": "content/posts/zuo-jian-bu-shi-zi-fu.md",
-      "title": "作茧是观察到的现象，自缚是对现象的解读",
-      "hash": "582b3e841a80",
+      "title": "作茧不是自缚 / Spinning a Cocoon Is Not Binding Oneself",
+      "hash": "007cd0dfea7c",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
@@ -47914,13 +47914,25 @@
       "from": "zuo-jian-bu-shi-zi-fu",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",
       "to": "du-zhongwen-zhexue-jianshi-you-gan",
       "rel": "points_to",
       "label": "读《中文哲学简史》有感"
+    },
+    {
+      "from": "zuo-jian-bu-shi-zi-fu",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "zuo-jian-bu-shi-zi-fu",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "Reflections on A Short History of Chinese Philosophy"
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",
@@ -47936,6 +47948,18 @@
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
+    },
+    {
+      "from": "zuo-jian-bu-shi-zi-fu",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "zuo-jian-bu-shi-zi-fu",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
       "label": "共享意识是个体性的交集"
@@ -47945,6 +47969,18 @@
       "to": "you-wu-zhi-bian",
       "rel": "points_to",
       "label": "有无之边"
+    },
+    {
+      "from": "zuo-jian-bu-shi-zi-fu",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
+    },
+    {
+      "from": "zuo-jian-bu-shi-zi-fu",
+      "to": "you-wu-zhi-bian",
+      "rel": "points_to",
+      "label": "The Edge of Being and Non-Being"
     }
   ],
   "book": {
@@ -47955,7 +47991,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "d5550db9b19b",
+        "hash": "b8d9371a7e62",
         "out_degree": 33
       },
       {
@@ -47982,7 +48018,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "31afd77ff7cc",
+        "hash": "78f80bb97e04",
         "out_degree": 393
       },
       {
@@ -48171,7 +48207,7 @@
         "from": "book:causality",
         "to": "zuo-jian-bu-shi-zi-fu",
         "rel": "collects",
-        "label": "作茧是观察到的现象，自缚是对现象的解读"
+        "label": "作茧不是自缚 / Spinning a Cocoon Is Not Binding Oneself"
       },
       {
         "from": "book:causality",
@@ -48957,7 +48993,7 @@
         "from": "book:index-of-premises",
         "to": "zuo-jian-bu-shi-zi-fu",
         "rel": "collects",
-        "label": "作茧是观察到的现象，自缚是对现象的解读"
+        "label": "作茧不是自缚 / Spinning a Cocoon Is Not Binding Oneself"
       },
       {
         "from": "book:index-of-premises",
@@ -50895,7 +50931,7 @@
         "from": "book:index-of-premises",
         "to": "zuo-jian-bu-shi-zi-fu",
         "rel": "collects",
-        "label": "作茧是观察到的现象，自缚是对现象的解读"
+        "label": "作茧不是自缚 / Spinning a Cocoon Is Not Binding Oneself"
       },
       {
         "from": "book:index-of-premises",

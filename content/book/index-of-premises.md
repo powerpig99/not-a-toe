@@ -330,7 +330,7 @@ Asimov attributes resistance against innovation to the proactive pushback of ves
 
 Rousseau opens with "Man is born free, and everywhere he is in chains" and asks through the social contract how constraint can be legitimate, which is of use in thinking about the legitimacy of constraint; it reaches its boundary in that the chains compare the present configuration with a freedom unbound by traces, while the social contract is itself the collective trace of free choices, and freedom is the next distinction still being drawable.
 
-→ [作茧是观察到的现象，自缚是对现象的解读](../../posts/zuo-jian-bu-shi-zi-fu/) · [自由即地基 / Freedom as Ground](../../posts/freedom-as-ground/) · [有条件的自由 / Conditional Freedom](../../posts/you-tiao-jian-de-zi-you/) · [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/)
+→ [作茧不是自缚 / Spinning a Cocoon Is Not Binding Oneself](../../posts/zuo-jian-bu-shi-zi-fu/) · [自由即地基 / Freedom as Ground](../../posts/freedom-as-ground/) · [有条件的自由 / Conditional Freedom](../../posts/you-tiao-jian-de-zi-you/) · [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/)
 
 ### 让-保罗·萨特 / Jean-Paul Sartre
 `哲学 / Philosophical`
@@ -2722,11 +2722,11 @@ AI output analysis treats synthesized text as evidence of machine agency; agency
 ### 自由是先于条件的空白 / Freedom as Unconditioned Blank Slate
 `哲学 / Philosophical`
 
-把自由想象为先于一切条件的空白，条件就被读成限制；条件是先前选择的痕迹，塑造可分的轴线，却不取消下一次选择。
+把自由想象为先于一切条件的空白，在提醒现状并非唯一可能时有用；它在此到了边界：条件就此被读成限制，而条件是先前选择留下的痕迹，塑造此刻可分的轴线，却不取消下一次选择，自由是下一次界限仍可被划出。
 
-Imagining freedom as prior to all conditions makes conditions read as limits; conditions are traces of prior choices that shape available axes without cancelling the next choice.
+Imagining freedom as a blank prior to all conditions is of use in recalling that the present is not the only possibility; it reaches its boundary in that conditions are then read as limits, while conditions are traces of earlier choices that shape the axes divisible now without cancelling the next choice, so freedom is the next boundary still being drawable.
 
-→ [作茧是观察到的现象，自缚是对现象的解读](../../posts/zuo-jian-bu-shi-zi-fu/)
+→ [作茧不是自缚 / Spinning a Cocoon Is Not Binding Oneself](../../posts/zuo-jian-bu-shi-zi-fu/)
 
 ### 前沿AGI清单预设 / Frontier AGI Inventory Premise
 `技术 / Technological`
