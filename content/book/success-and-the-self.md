@@ -31,7 +31,7 @@ These essays examine victimhood paralysis, shortcut delusions, and cognitive inv
 - [Self-improvement writing is The Map After the Territory](../../posts/the-map-after-the-territory/)
 - [人生是一个持续的自我迭代过程](../../posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)
 - [Not Predicting is Predicting without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
-- [Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time](../../posts/failure-as-information/)
+- [失败即信息 / Failure as Information](../../posts/failure-as-information/)
 - [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)
 - [有条件的自由 / Conditional Freedom](../../posts/you-tiao-jian-de-zi-you/)
 - [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)

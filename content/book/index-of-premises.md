@@ -218,11 +218,11 @@ Sivers' build-only-what-need-proves method is still prediction that contact beat
 ### 埃隆·马斯克 / Elon Musk
 `技术 / Technological`
 
-马斯克的回路把爆炸当作损失信号，并默认当前模型有误；没有身份占据间隙，单位时间的迭代得以复利，这就是其巨大影响力的含义。
+马斯克默认当前的模型有误、把爆炸当作损失信号，在把每个结果转成下一步工程、让迭代在单位时间里复利时有用；它在此到了边界：“物理学才是定律”把写下的模型、运行中的摩擦与现实本身合在一起，默认有误的那个先验在这里停下，一个模型被当成了定律。
 
-Musk's loop treats explosions as loss signal and assumes his present model is partly in error; with no identity occupying the gap, iterations compound per calendar time, which names his outsized influence.
+Musk assumes the present model is partly wrong and treats an explosion as loss signal, which is of use in turning every outcome into the next engineering step and compounding iterations per unit of time; it reaches its boundary in that "physics is the law" joins the written model, the friction of operation and reality itself, so the prior of being wrong stops there and a model is taken as law.
 
-→ [Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/)
+→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/)
 
 ### 埃里克·雷蒙德 / Eric S. Raymond
 `技术 / Technological`
@@ -2596,11 +2596,11 @@ Industrial schooling presumes standardized grading measures intellectual ability
 ### 失败是对自我的判决 / Failure as Verdict on the Self
 `成功学 / Self-Help`
 
-把失败读成对身份的判决，就插入了是否继续的第二重计算；成功与失败是同一策略的样本，区别只在回写信号的正负。
+把失败读成对自我的判决，在让一个结果的分量被切身感到时有用；它在此到了边界：它在结果与下一步之间插进第二重计算，先问是否继续、再注入勇气，日历时间花在恢复身份上，而成功与失败本是同一策略的样本，区别只在回写信号的正负与大小。
 
-Reading failure as judgment on identity inserts a second computation of whether to continue; success and failure are samples of one policy, differing only in the sign written back.
+Reading failure as a verdict on the self is of use in keeping the weight of an outcome felt; it reaches its boundary in that it inserts a second computation between outcome and next act, asking whether to continue and then injecting courage, so calendar time goes to restoring an identity, while success and failure are samples of one policy that differ only in the sign and magnitude written back.
 
-→ [Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time](../../posts/failure-as-information/)
+→ [失败即信息 / Failure as Information](../../posts/failure-as-information/)
 
 ### 认知溯源的两种坍塌 / Failures of Epistemic Tracing
 `哲学 / Philosophical`

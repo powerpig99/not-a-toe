@@ -377,10 +377,6 @@
       "title_zh": "限制是选择性的税",
       "subtitle_zh": "对他人前进的压制，只拖慢接受它的人，而最重的是执行它的人：他们是这道封印最坚定的信徒。"
     },
-    "failure-as-information": {
-      "title_zh": "失败即信息：为什么埃隆·马斯克是我们时代最具影响的人",
-      "subtitle_zh": "失败与意外都是信息；影响力的复利，取决于在结果与下一步行动之间的间隙里，留存的自我占据得多么少。"
-    },
     "why-mathematics-can-never-be-solved": {
       "title_zh": "为何数学永远解不完",
       "subtitle_zh": "“已解决”把一片有限的形式地形冻结为穷尽的地基；数学是经由开放的区分持续生成结构。"
@@ -419,6 +415,18 @@
     "on-closed-systems-open-minds-and-the-limits-of-proof": {
       "title_zh": "论封闭系统、开放心智与证明的界限",
       "subtitle_zh": "没有哪种关于意识的封闭描述，能传递意识本身所是的那份开放。"
+    },
+    "hardness-is-not-inherent-in-the-action": {
+      "title_zh": "难度不在行动本身",
+      "subtitle_zh": "难与易不是行为的属性，它们只产生于对行动需要什么、预期产生什么结果的不同假设。"
+    },
+    "therapy-opens-the-feedback-loop": {
+      "title_zh": "疗愈打开反馈回路",
+      "subtitle_zh": "一个让登记变得更可承受的第三方所在，降低了本会在第一个所在重新追溯生成条件的压力。"
+    },
+    "power-law-is-the-long-term-consequence-of-normal-distribution": {
+      "title_zh": "幂律是正态分布在决策中的长期后果",
+      "subtitle_zh": "看似幂律的残余，是近似正态的增量经过足够多次相乘之后的样子。"
     }
   }
 }

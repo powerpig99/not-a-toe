@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T13:47:05.713Z",
+    "generated_at": "2026-10-15T14:10:38.731Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -77,7 +77,7 @@
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "cf5fee6f027d",
-      "content/posts/failure-as-information.md": "4183c36cdc9e",
+      "content/posts/failure-as-information.md": "f9a611e59086",
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "067a958b2103",
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "d5550db9b19b",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "980e057c3c88",
-      "content/book/index-of-premises.md": "c6b38321075d",
+      "content/book/index-of-premises.md": "b1bf78d3bab4",
       "content/book/intelligence.md": "eb59e8b28085",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -415,12 +415,12 @@
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "134ad0b257f3",
-      "content/book/success-and-the-self.md": "a8c37abf1220",
+      "content/book/success-and-the-self.md": "54d795826d62",
       "content/book/tools-and-progress.md": "fb71a7a1a375"
     },
     "stats": {
       "posts": 393,
-      "edges": 6282,
+      "edges": 6292,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -2282,8 +2282,8 @@
       "kind": "post",
       "slug": "failure-as-information",
       "path": "content/posts/failure-as-information.md",
-      "title": "Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time",
-      "hash": "4183c36cdc9e",
+      "title": "失败即信息 / Failure as Information",
+      "hash": "f9a611e59086",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -16468,19 +16468,43 @@
       "from": "failure-as-information",
       "to": "hardness-is-not-inherent-in-the-action",
       "rel": "points_to",
-      "label": "Hardness is not inherent in the action"
+      "label": "难度不在行动本身"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "Hardness Is Not Inherent in the Action"
     },
     {
       "from": "failure-as-information",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "failure-as-information",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "减速是加速时感受到的阻力"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "failure-as-information",
@@ -16492,37 +16516,73 @@
       "from": "failure-as-information",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "What looks like RL for AIs is Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
     },
     {
       "from": "failure-as-information",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
-      "label": "Therapy opens the feedback loop"
+      "label": "疗愈打开反馈回路"
     },
     {
       "from": "failure-as-information",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity first"
+      "label": "好奇先行"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy Opens the Feedback Loop"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity First"
     },
     {
       "from": "failure-as-information",
       "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "rel": "points_to",
-      "label": "Power-law is the long-term consequence of normal distribution"
+      "label": "幂律是正态分布在决策中的长期后果"
     },
     {
       "from": "failure-as-information",
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
-      "label": "The price of closing optionality"
+      "label": "关闭选择权的代价"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "Power Law Is the Long-Term Consequence of Normal Distribution"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
     },
     {
       "from": "failure-as-information",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
-      "label": "The reality distortion field names the closed map"
+      "label": "现实扭曲力场指认的是封闭的地图"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Names the Closed Map"
     },
     {
       "from": "fate-loves-irony-refined",
@@ -47592,7 +47652,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c6b38321075d",
+        "hash": "b1bf78d3bab4",
         "out_degree": 393
       },
       {
@@ -47691,7 +47751,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "a8c37abf1220",
+        "hash": "54d795826d62",
         "out_degree": 33
       },
       {
@@ -48471,7 +48531,7 @@
         "from": "book:index-of-premises",
         "to": "failure-as-information",
         "rel": "collects",
-        "label": "Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time"
+        "label": "失败即信息 / Failure as Information"
       },
       {
         "from": "book:index-of-premises",
@@ -50415,7 +50475,7 @@
         "from": "book:index-of-premises",
         "to": "failure-as-information",
         "rel": "collects",
-        "label": "Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time"
+        "label": "失败即信息 / Failure as Information"
       },
       {
         "from": "book:index-of-premises",
@@ -53775,7 +53835,7 @@
         "from": "book:success-and-the-self",
         "to": "failure-as-information",
         "rel": "collects",
-        "label": "Failure as Information: Why Elon Musk Is the Most Consequential Person of Our Time"
+        "label": "失败即信息 / Failure as Information"
       },
       {
         "from": "book:success-and-the-self",
