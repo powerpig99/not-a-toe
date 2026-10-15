@@ -1136,9 +1136,9 @@ Liberation movements present themselves as selfless deliverers from oppression; 
 ### 乘法过程产生的对数正态分布 / Log-normal Distribution from Multiplicative Processes
 `数学 / Mathematical`
 
-近似正态的对数增量相乘得到对数正态分布，在描述复利下水平如何铺展时有用；它在此到了边界：它的右尾在有限尺度上常读作幂律，而正态与厚尾只是同一个递推的暂时视图，不是两条规律。
+近似正态的对数增量逐步累加，使水平成为对数正态分布，这在描述复利下水平如何铺展时有用；它在此到了边界：它的右尾在有限尺度上常读作幂律，而正态与厚尾只是同一个递推的暂时视图，不是两条规律。
 
-Multiplying approximately normal log increments yields a log-normal, which is of use in describing how levels spread under compounding; it reaches its boundary in that its right tail frequently reads as a power law on finite scales, while the normal and the heavy tail are transient views of one recurrence, not two laws.
+Summing approximately normal log increments makes the level log-normal, which is of use in describing how levels spread under compounding; it reaches its boundary in that its right tail frequently reads as a power law on finite scales, while the normal and the heavy tail are transient views of one recurrence, not two laws.
 
 → [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/)
 
