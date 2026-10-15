@@ -243,6 +243,45 @@
     "processed": "2026-10-14T07:56:24.643Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "the-comment-is-not-the-code": {
+   "en": {
+    "id": "JQh_OW2OHAo",
+    "url": "https://youtu.be/JQh_OW2OHAo",
+    "privacy": "public",
+    "uploaded": "2026-10-15T05:39:59.566Z",
+    "status": "processed",
+    "processed": "2026-10-15T05:40:52.178Z",
+    "playlist": "PLMyi7vp2KMyA",
+    "replaced": [
+     {
+      "id": "2cYVsCHIQig",
+      "shape": "16x9",
+      "note": "stuck processing, not yet deleted"
+     },
+     {
+      "id": "6IDCGdgYsY8",
+      "shape": "16x9",
+      "note": "stuck processing, not yet deleted"
+     }
+    ]
+   },
+   "zh": {
+    "id": "WIBl4NocELA",
+    "url": "https://youtu.be/WIBl4NocELA",
+    "privacy": "public",
+    "uploaded": "2026-10-15T00:33:10.467Z",
+    "status": "processed",
+    "processed": "2026-10-15T00:34:13.461Z",
+    "playlist": "PLGrxskF8JnDo",
+    "replaced": [
+     {
+      "id": "zoxuZTL_oso",
+      "shape": "9x16",
+      "note": "old vertical ZH, replaced by 16x9 on 2026-10-15; not yet deleted"
+     }
+    ]
+   }
   }
  }
 }
