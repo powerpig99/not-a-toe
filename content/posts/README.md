@@ -62,7 +62,7 @@ Lead: 2–4 complete sentences summarizing the argument.
 | List formatting | **Blank line before & after (when lists are strictly necessary)**: Always insert an empty newline before and after every list block (`* ` or `1. `), especially after a colon `:`. Never start a list immediately on the following line without an empty line |
 | Mermaid styling | **Historical dark-theme standard**: Subgraphs `fill:#161b22`, nodes `fill:#0d1117`, with green `#3fb950` (Mind/sovereign), red `#f85149` (inversion/failure), amber `#d29922` (mechanical), blue `#58a6ff` (telemetry/models), purple `#a371f7` (loops). Bilingual posts require exact parallel English diagrams |
 | Language separation | **Strict language separation ("中文的归中文，英文的归英文")**: Chinese belongs to Chinese (pure Chinese text, headings, and diagram node labels without English subtitle lines `<br/>...`, unless annotating proper nouns); English belongs to English (pure English text, headings, and diagrams). Bilingual posts must contain complete parallel Chinese and English sections (title, subtitle, lead, section headings, prose paragraphs, and diagrams) |
-| Epistemology & Voice | Agency and will belong strictly to Mind (no "物理意志"); matter/physics is model-reality friction; objective facts are intersubjective invariants; purge moralizing/judgmental rhetoric; zero banned words; zero LaTeX `$` |
+| Epistemology & Voice | Agency and will belong strictly to Mind (no "物理意志"); matter/physics is model-reality friction; objective facts are intersubjective invariants; purge moralizing/judgmental rhetoric; banned-list words only where they name the object; zero LaTeX `$` |
 | Forbidden | YAML frontmatter, HTML, non-prose blocks before first section heading |
 | End | Trailing newline |
 

@@ -59,8 +59,9 @@ For every new or revised essay, the complete deliverable set consists of:
   - **Bilingual completeness**: Essays with bilingual titles must feature complete parallel Chinese and English sections (including title, subtitle, lead, section headings, narrative prose, and Mermaid diagrams).
 - **Relative cross-links**: Weave internal links using relative form only: `[title](../slug/)`. All targets must resolve to existing post files.
 - **Mathematical notation**: Unicode only (e.g. `S₀`, `∇L`, `h`). **Strictly zero `$` or `$$` LaTeX delimiters**, since the site does not render LaTeX. A currency sign before a figure (`$2.00`) is not LaTeX and is allowed.
-- **Vocabulary hygiene**: Zero occurrences of prohibited crutches:
+- **Vocabulary hygiene (by context, 2026-10-15)**: These crutches never carry the essay's own description or evaluation of its object:
   `['纯粹', '绝对', '完全', '彻底', '绝不', '通常', '往往', '或许', '某种意义上', '降维重构', '本质', '根本', '自始至终', '缰绳', '物理现实', '平庸', '物理意志']`.
+  When the prose names a prevailing take or phenomenon in its own terms (the take as an object held up to view, e.g. the absolute reference frame a theory posits), the word is allowed, since barring it outright would leave that take unsayable. The audit cannot tell the two uses apart, so it lists each hit in context as an advisory for the writer to judge.
 - **Epistemological discipline**:
   - Will and agency belong strictly to living Minds. Never subordinate will to physics; never use "物理意志".
   - Matter and physics are macroscopic phenomena arising from friction between cognitive models and reality.
@@ -107,7 +108,7 @@ Stored in the active conversation artifact directory, structured as:
 - **Dense Cognitive Lattice**: An essay is never an isolated leaf node. Identify key upstream and conceptually adjacent essays referenced by the new post.
 - **Backlink Integration**: Establish explicit reverse links from those prior essays back to the new post using the standard relative link format: `[<Title>](../<slug>/)`.
 - **Narrative Prose Refinement**: Do not merely append naked links; organically rewrite and deepen the surrounding narrative prose of the linked essays to weave in the new essay's conceptual advances, epistemological cuts, and distinctions.
-- **Invariant Adherence**: Modified linked essays must preserve strict bilingual symmetry (parallel updates in both Chinese and English sections) and pass all repository invariants (zero banned words, prose over lists by default, proper relative links).
+- **Invariant Adherence**: Modified linked essays must preserve strict bilingual symmetry (parallel updates in both Chinese and English sections) and pass all repository invariants (banned-list words only where they name the object, prose over lists by default, proper relative links).
 - **Single-Language Posts Become Bilingual When Refined (default, 2026-10-12)**: Whenever a refinement or a backlink edits an older post that exists in only one language, convert that whole post to the bilingual layout in the same change: bilingual title and subtitle, unified `## 一、 <中文> / 1. <English>` headings, and every paragraph followed by its parallel in the other language. The conversion is itself a refinement, since the book is living and not a fossil record: the post is re-traced under the current understanding and rewritten wherever it falls short of the present standard (prose over lists, no moralizing, no view-from-nowhere assertions, implicit first person, backlinks woven into the argument, its Index entry brought into line); the two languages then say the same thing, with link anchors in each language taken from the target post's own heading or the registry below. Then give the post's link its bilingual title in its book part and in the Index of Premises, and remove its entry from the registry, since it now carries both headings itself. A post that is only linked to, and not edited, is left alone.
 - **Title Translation Registry**: A monolingual post has no title in the other language. When a backlink in that language needs one, take it from `data/title-translations.json` (`posts.<slug>` holds `title_en`/`subtitle_en` for Chinese posts, `title_zh`/`subtitle_zh` for English posts). If the slug is missing, add a faithful translation there first and reuse it everywhere, so one post never carries two different translated names. Registry entries obey the banned-word list like any prose.
 
@@ -121,7 +122,7 @@ The site is a live book, *非定论的心智指南 / A Non-Definitive Guide for 
   - a `→` line of `[<Title>](../../posts/<slug>/)` links.
 
   Passing name-drops do not earn an entry.
-- **Book prose invariants**: Part prefaces, the book preface, and the Index follow the essay rules: bilingual alternating paragraphs, zero banned words, zero `$` LaTeX delimiters, relative links only. Title and italic subtitle follow the same delimiter rules.
+- **Book prose invariants**: Part prefaces, the book preface, and the Index follow the essay rules: bilingual alternating paragraphs, banned-list words only where they name the object, zero `$` LaTeX delimiters, relative links only. Title and italic subtitle follow the same delimiter rules.
 - **Stay simple**: The build reads membership from the links, and fails if a post is in no part, sits in two, or a book link does not resolve. Never hand-maintain counts or duplicate lists elsewhere.
 
 ---
@@ -129,8 +130,8 @@ The site is a live book, *非定论的心智指南 / A Non-Definitive Guide for 
 ## Standard Automated Audit & Build Pipeline
 
 Always execute the complete verification sequence before finalizing:
-1. `python3 scripts/audit-post.py <slug>` — Verifies the authoring invariants (title/subtitle separation, banned words, latex, links, lists, mermaid dark theme & vertical flow, walkthrough, cover, and live-book placement; the companion prompt is retired and no longer required). Must return **CLEAN PASS**, or **PASSED WITH ADVISORIES** where the only advisory is an intentional list.
-1b. `python3 scripts/audit-book.py` — Verifies the whole live book: every post placed in exactly one part, parts in written order, all book links resolve, book prose invariants, Index entry shape, and per-label balance. Must return **CLEAN PASS**.
+1. `python3 scripts/audit-post.py <slug>` — Verifies the authoring invariants (title/subtitle separation, banned words, latex, links, lists, mermaid dark theme & vertical flow, walkthrough, cover, and live-book placement; the companion prompt is retired and no longer required). Must return **CLEAN PASS**, or **PASSED WITH ADVISORIES** where each advisory is intentional (a list whose structure carries meaning, or a banned-list word that names the object).
+1b. `python3 scripts/audit-book.py` — Verifies the whole live book: every post placed in exactly one part, parts in written order, all book links resolve, book prose invariants, Index entry shape, and per-label balance. Must return **CLEAN PASS**, or **PASSED WITH ADVISORIES** where each advisory is intentional (a banned-list word that names the object).
 2. **Reverse Linking & Prose Refinement** — Establish backlinks and refine surrounding narrative prose in key referenced essays; verify modified essays pass repository invariants.
 3. `node build.mjs` — Compiles the static site into `public/`.
 4. `node scripts/project-posts-graph.mjs` — Re-projects lattice graph; ensures `missing_targets: 0`.

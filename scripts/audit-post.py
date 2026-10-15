@@ -15,7 +15,7 @@ Checks:
   3. Historical Mermaid inline dark-theme styling (#161b22, #0d1117, semantic color borders)
   4. Bilingual diagram parallelism (Chinese/English paired diagrams)
   5. Relative internal cross-links resolution (all ../slug/ exist; no absolute URLs)
-  6. Banned words & essentialist cliches (0 tolerance for cognitive crutches)
+  6. Banned words & essentialist cliches (advisory in context: barred where the prose describes or evaluates with them, allowed where they name the object)
   7. LaTeX syntax prohibition (0 $ or $$ math delimiters; currency $ before a digit allowed; Unicode math only)
   8. Walkthrough structure & Spotify show notes (canonical live URL header, cover embed, Mermaid inventory, cuts, clean prompt code block, Spotify ZH & EN notes)
   9. Companion NotebookLM prompt (Audio Dialogue canonical opening and concise bounds: 2-4 opening turns, < 8.5KB)
@@ -231,15 +231,17 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         if title_sub_clean:
             passes.append("Title and subtitle separation check (clean `# Title` without delimiters, single-sentence `*Subtitle*` on Line 3)")
 
-    # 2. Banned words audit
-    found_banned = {}
+    # 2. Banned words audit. A word is barred where the prose itself uses it to describe or
+    # evaluate; naming a prevailing take in its own terms is allowed. No script can tell
+    # the two apart, so each hit is an advisory shown in context for the writer to judge.
+    banned_hits = []
     for word in BANNED_WORDS:
-        matches = [m.start() for m in re.finditer(re.escape(word), content)]
-        if matches:
-            found_banned[word] = len(matches)
+        for m in re.finditer(re.escape(word), content):
+            ctx = content[max(0, m.start() - 12):m.end() + 8].replace('\n', ' ')
+            banned_hits.append(f"「{ctx}」")
 
-    if found_banned:
-        errors.append(f"Banned words detected: {found_banned}")
+    if banned_hits:
+        warnings.append(f"Banned-list words ({len(banned_hits)}): allowed only where they name the object, not where the prose describes or evaluates with them: " + ' '.join(banned_hits))
     else:
         passes.append("Banned vocabulary check (0 prohibited terms)")
 
@@ -647,7 +649,7 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 sec_text = w_content[zh_pos:end_pos]
                 banned_in_spotify = [w for w in BANNED_WORDS if w in sec_text]
                 if banned_in_spotify:
-                    errors.append(f"Banned words detected in Walkthrough Spotify Podcast (ZH): {banned_in_spotify}")
+                    warnings.append(f"Banned-list words in Walkthrough Spotify Podcast (ZH), check each names the object: {banned_in_spotify}")
 
             # Strictly prohibit any fake/hallucinated domain in walkthrough
             fake_walkthrough_domains = re.findall(r'https?://(?:www\.)?not-?a-?toe\.(?:org|com|net|io|ai|xyz)', w_content, re.IGNORECASE)

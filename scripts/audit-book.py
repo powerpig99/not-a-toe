@@ -102,7 +102,7 @@ def check_prose(name, title, lines, errors, warnings):
     scan = strip_links(title + '\n' + body)
     for w in BANNED:
         if w in scan:
-            errors.append(f'{name}: banned word "{w}"')
+            warnings.append(f'{name}: banned-list word "{w}" (allowed only where it names the object)')
     if re.search(r'\$(?!\d)', scan):
         errors.append(f'{name}: raw "$" found')
     for href in (m.group(2) for m in LINK_RE.finditer(body)):
@@ -230,7 +230,7 @@ def audit_index(slugs, errors, warnings):
             scan = strip_links(line)
             for w in BANNED:
                 if w in scan:
-                    errors.append(f"index: {entry['title']} banned word \"{w}\"")
+                    warnings.append(f"index: {entry['title']} banned-list word \"{w}\" (allowed only where it names the object)")
             if re.search(r'\$(?!\d)', scan):
                 errors.append(f"index: {entry['title']} raw \"$\"")
     finish()
