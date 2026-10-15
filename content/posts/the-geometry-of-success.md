@@ -16,7 +16,7 @@ Seen epistemically, the narrative reverses cause and effect. It looks back at an
 
 Success is not winning a shared, pre-existing contest but arriving at a material or intellectual territory before anyone else finds it interesting. A breakthrough's trajectory passes through four stages. First is solitary drift: when the destination is invisible or uninteresting to everyone, the one who opens the way leaves the familiar origin, not knowing in advance that people will one day care, simply following a local gradient of curiosity, use and trial and error. Second is settlement and the crystallising of value: having reached the unmapped coordinates by their own effort, the one who opened the way builds local infrastructure and makes something visible; only after the value stabilises does the surrounding world look up. Third is the gold rush: once the coordinates prove viable, latecomers converge from every direction, some on foot, some by car, some by train.
 
-第四是后见的错觉：后来者发现开路的人已经牢牢地站在新地带的中心，就发明一个回溯的目的论叙事：“开路的人有内幕消息，懂得被操纵的规则，插了队。”[成功学](../cheng-gong-xue/)认出的正是这种认知倒置：事后从幸存者身上打磨原则，把事后的合理化当成打开这片地形的引擎。后见之明也从另一边起作用：漂移之后什么也没找到的那些人不被讲述，到达的那一个，结局里也装着落到这个人头上的东西。
+第四是后见的错觉：后来者发现开路的人已经牢牢地站在新地带的中心，就发明一个回溯的目的论叙事：“开路的人有内幕消息，懂得被操纵的规则，插了队。”[成功学](../cheng-gong-xue/)认出的正是这种认知倒置：事后从幸存者身上打磨原则，把事后的合理化当成打开这片地形的引擎。
 
 ```mermaid
 flowchart TD
@@ -49,7 +49,7 @@ flowchart TD
     style M1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Fourth is the illusion of hindsight: finding the one who opened the way already firmly at the centre of the new territory, latecomers invent a backward-looking teleological story: "the one who opened the way had inside knowledge, understood the rigged rules and cut the line." [Theories After Success, Mistaken for Theories Leading to Success](../cheng-gong-xue/) recognises exactly this cognitive inversion: polishing principles from survivors after the fact and taking post-hoc rationalisation for the engine that opened the terrain. Hindsight works from the other side too: those who drifted and found nothing are not told, and the outcome of the one who arrived also holds what fell to them.
+Fourth is the illusion of hindsight: finding the one who opened the way already firmly at the centre of the new territory, latecomers invent a backward-looking teleological story: "the one who opened the way had inside knowledge, understood the rigged rules and cut the line." [Theories After Success, Mistaken for Theories Leading to Success](../cheng-gong-xue/) recognises exactly this cognitive inversion: polishing principles from survivors after the fact and taking post-hoc rationalisation for the engine that opened the terrain.
 
 ```mermaid
 flowchart TD
