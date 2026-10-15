@@ -1714,11 +1714,11 @@ Diagnosing parent–teen conflict as adolescents being impulsive, hormonally hij
 ### AI 增强 / AI Augmentation
 `技术 / Technological`
 
-称自己为 AI 增强，是把能动性记在外部工具上；伸手、选择与整合的是我们自己，增强属于自己，向外投射则作为活着的矛盾持续存在。
+把自己称为 AI 增强，把伸手可及的能力记在工具上，在描述一种工作方式用到了什么时有用；它在此到了边界：工具不作为独立的力量作用于人，伸手、选择、解释与整合的是心智自己，增强始终是自己的，把它记在工具上或归咎于工具，是同一次能动的错配，向外的投射则作为活着的矛盾持续存在。
 
-Calling oneself AI-augmented credits the external tool with agency; we reach, select, and integrate, so augmentation is our own, and the outward projection persists as a lived contradiction.
+Calling oneself AI-augmented credits the tool with the capacity now within reach, which is of use in describing what a way of working draws on; it reaches its boundary in that no tool acts on a person as an independent force, the Mind itself reaches, selects, interprets and integrates, so augmentation is always one's own, crediting or blaming the tool is the same misallocation of agency, and the outward projection persists as a lived contradiction.
 
-→ [The Generative Contradiction](../../posts/the-generative-contradiction/)
+→ [生成性的矛盾 / The Generative Contradiction](../../posts/the-generative-contradiction/)
 
 ### AI 算力投资过度或不足 / AI Compute Over- or Under-Investment
 `经济 / Economic`
@@ -4936,11 +4936,11 @@ Believing a paradise is achievable convinces reformers that present cruelty is a
 ### 以差异排名寻求认可 / Validation through Ranking of Differences
 `哲学 / Philosophical`
 
-差异使人独特，也成为排名的工具；向外寻找衡量标准使满足始终落空，因为这份认领只能从内部完成。
+以差异排名来寻求认可，把一把共同的尺放在彼此的差异上，在比较某一项可度量的表现时有用；它在此到了边界：差异使每个人独特，衡量的标准却被向外寻找，满足于是始终落空，因为这份认领只能从内部完成。
 
-Differences make each person unique and become instruments of ranking; seeking the measure outward keeps satisfaction elusive, since the claim can only be made from within.
+Seeking validation by ranking differences lays a shared measure over how people differ, which is of use in comparing some measurable performance; it reaches its boundary in that differences make each person unique while the measure is sought outward, so satisfaction keeps slipping away, since the claim can only be made from within.
 
-→ [The Generative Contradiction](../../posts/the-generative-contradiction/)
+→ [生成性的矛盾 / The Generative Contradiction](../../posts/the-generative-contradiction/)
 
 ### 认知向量的坐标投影折损 / Vector Coordinate Misprojection
 `数学 / Mathematical`

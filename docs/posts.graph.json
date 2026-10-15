@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T10:53:15.460Z",
+    "generated_at": "2026-10-15T11:44:32.309Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -247,7 +247,7 @@
       "content/posts/the-freedom-of-will-to-deny-itself.md": "f90a8819ab4e",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "591395049b84",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "99601f73e350",
-      "content/posts/the-generative-contradiction.md": "181c40e6e269",
+      "content/posts/the-generative-contradiction.md": "932816e7a52b",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
       "content/posts/the-generative-topology-of-free-variables.md": "bd4117e215d3",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
@@ -401,10 +401,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
-      "content/book/causality.md": "70e144b47953",
+      "content/book/causality.md": "19bb48d1f364",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "c7294d5c4ad4",
+      "content/book/index-of-premises.md": "ebb50f547dcf",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6217,
+      "edges": 6225,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -6445,8 +6445,8 @@
       "kind": "post",
       "slug": "the-generative-contradiction",
       "path": "content/posts/the-generative-contradiction.md",
-      "title": "The Generative Contradiction",
-      "hash": "181c40e6e269",
+      "title": "生成性的矛盾 / The Generative Contradiction",
+      "hash": "932816e7a52b",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -32938,6 +32938,18 @@
       "from": "the-generative-contradiction",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
       "label": "Hierarchy from individual difference"
     },
     {
@@ -32950,7 +32962,19 @@
       "from": "the-generative-contradiction",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
       "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "对“AI糟粕”的反感与反复出现的历史模式并无不同"
     },
     {
       "from": "the-generative-contradiction",
@@ -32962,7 +32986,31 @@
       "from": "the-generative-contradiction",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
       "label": "Ownership and self-worthiness"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "选择、矛盾与开放的现实"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因：个人进步的障碍"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "如何在一瞬间修正你的整个人生"
     },
     {
       "from": "the-generative-contradiction",
@@ -47175,7 +47223,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "70e144b47953",
+        "hash": "19bb48d1f364",
         "out_degree": 33
       },
       {
@@ -47202,7 +47250,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c7294d5c4ad4",
+        "hash": "ebb50f547dcf",
         "out_degree": 393
       },
       {
@@ -47403,7 +47451,7 @@
         "from": "book:causality",
         "to": "the-generative-contradiction",
         "rel": "collects",
-        "label": "The Generative Contradiction"
+        "label": "生成性的矛盾 / The Generative Contradiction"
       },
       {
         "from": "book:causality",
@@ -49401,7 +49449,7 @@
         "from": "book:index-of-premises",
         "to": "the-generative-contradiction",
         "rel": "collects",
-        "label": "The Generative Contradiction"
+        "label": "生成性的矛盾 / The Generative Contradiction"
       },
       {
         "from": "book:index-of-premises",
@@ -51693,7 +51741,7 @@
         "from": "book:index-of-premises",
         "to": "the-generative-contradiction",
         "rel": "collects",
-        "label": "The Generative Contradiction"
+        "label": "生成性的矛盾 / The Generative Contradiction"
       },
       {
         "from": "book:index-of-premises",
