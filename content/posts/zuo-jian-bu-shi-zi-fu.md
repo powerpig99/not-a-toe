@@ -1,22 +1,22 @@
 # 作茧不是自缚 / Spinning a Cocoon Is Not Binding Oneself
 
-*自由从未失去，枷锁来自解读 / Freedom is never lost; the chains come from the reading.*
+*自由从未失去，枷锁来自对成形的解读 / Freedom is never lost; the chains come from how the forming is read.*
 
-必须面对的现实背景被当成限制，财富之类再被加成前提，成形中的茧就被读成枷锁。自由不是先于条件的空白，而是还能做出区分：选择不是另有一个站在现状旁边的我，而是这个局面里，下一次界限仍可被划出。卢梭式的「无往不在枷锁之中」，是有限位置上轴线挤在一起时的读法，现实一直没有被封上。亲历的和公认的都还在心智里发生：不是有一个盒子装着万物，谈论正在进行的这个位置，就是心智。
+必须面对的现实背景被当成限制，财富之类再被加成自由本身的前提，成形中的茧就被读成枷锁。自由不是先于条件的空白，而是还能做出区分：选择不是另有一个站在现状旁边的我，而是这个局面里，下一次界限仍可被划出。卢梭式的「无往不在枷锁之中」，是有限位置上轴线挤在一起时的读法；现实一直没有被封上。亲历的和公认的，都还在心智里发生——不是有一个盒子装着万物，谈论正在进行的这个位置，就是心智。
 
-The reality one must face is taken as a limit, wealth and the like are added as preconditions, and the cocoon still forming is read as chains. Freedom is not a blank prior to conditions but the capacity to keep making distinctions: choosing is not a separate I standing beside the present situation, it is the next boundary in this situation still being drawable. Rousseau's "everywhere in chains" is how the axes read when they crowd together at a finite position, and reality has never been sealed. What is lived and what is agreed on both still happen in the Mind: no box holds everything, and the place where the talking is happening is the Mind.
+The background one must face is taken as a limit; wealth and the like are then added as preconditions of freedom itself, and the cocoon still forming is read as chains. Freedom is not a blank prior to conditions. It is the capacity to keep making distinctions: choosing is not a separate I standing beside the present situation, but the next boundary in this situation still being drawable. Rousseau's "everywhere in chains" is how the axes read when they crowd together at a finite position. Reality has never been sealed. What is lived and what is agreed on both still happen in the Mind: no box holds everything, and the place where the talking is happening is the Mind.
 
 ## 一、 作茧是看见的成形 / 1. The Cocoon Is the Forming That Is Seen
 
-作茧是看得见的：局面继续成形。自缚不是另一件事，而是对这同一现象的解读。自由必须面对的现实背景被当成限制；财富之类再被加成自由本身的前提，茧就被读成枷锁。化蝶不是挣脱茧之后去到一块空白，茧就是这个局面继续成形。
+作茧是看得见的——局面继续成形。自缚不是另一件事，而是对这同一现象的解读。自由必须面对的现实背景被当成限制；财富之类再被加成自由本身的前提，茧就被读成枷锁。化蝶不是挣脱茧之后去到一块空白，茧就是这个局面继续成形。
 
-Spinning a cocoon is what can be seen: the situation keeps taking form. Binding oneself is not a second event; it is a reading of this same phenomenon. The background of reality that freedom has to face is taken as a limit; wealth and the like are then added as preconditions of freedom itself, and the cocoon is read as chains. Becoming a butterfly is not breaking out of the cocoon into a blank; the cocoon is this situation continuing to take form.
+Spinning a cocoon is what can be seen—the situation keeps taking form. Binding oneself is not a second event; it is a reading of this same phenomenon. The background of reality that freedom has to face is taken as a limit; wealth and the like are then added as preconditions of freedom itself, and the cocoon is read as chains. Becoming a butterfly is not breaking out of the cocoon into a blank; the cocoon is this situation continuing to take form.
 
 ## 二、 自由是下一次界限仍可被划出 / 2. Freedom Is the Next Boundary Still Drawable
 
-自由不是一块先于任何条件的空白。所谓自由，就是还能做出区分，也就是一般所说的选择。选择不是另有一个站在现状旁边的我，再对现状下手，而是这个局面里，下一次界限仍可以被划出。现状是先前一次次选择留下的痕迹，它塑造此刻能够分开的轴线，却不取消下一次选择。无论眼前是什么样，选择并不因此停住。自由从未失去。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)讲的是同一种归位：条件是场，不是替下一步提供原因的第二个作者。[读《中文哲学简史》有感](../du-zhongwen-zhexue-jianshi-you-gan/)讲的是另一面：「没有选择」本身仍是一次选择。
+自由不是一块先于任何条件的空白。所谓自由，就是还能做出区分，也就是一般所说的选择。选择不是另有一个站在现状旁边的我，再对现状下手，而是这个局面里，下一次界限仍可以被划出。现状是先前一次次选择留下的痕迹。它塑造此刻能够分开的轴线，却不取消下一次选择。无论眼前是什么样，选择并不因此停住。自由从未失去。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)讲的是同一种归位：条件是场，不是替下一步提供原因的第二个作者。[读《中文哲学简史》有感](../du-zhongwen-zhexue-jianshi-you-gan/)讲的是另一面：「没有选择」本身仍是一次选择。
 
-Freedom is not a blank prior to any condition. Freedom is the capacity to keep making distinctions, which is what is generally called choice. Choosing is not a separate I standing beside the present situation and then acting on it; it is the next boundary in this situation still being drawable. The present situation is the trace left by earlier choices, one after another; it shapes the axes along which this moment can be divided, but it does not cancel the next choice. Whatever lies in front, choosing does not stop there. Freedom has never been lost. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) returns cause to the same place: conditions are the field, not a second author supplying the cause of the next step. [Reflections on A Short History of Chinese Philosophy](../du-zhongwen-zhexue-jianshi-you-gan/) shows the other face: "having no choice" is itself still a choice.
+Freedom is not a blank prior to any condition. Freedom is the capacity to keep making distinctions—what is generally called choice. Choosing is not a separate I standing beside the present situation and then acting on it; it is the next boundary in this situation still being drawable. The present situation is the trace left by earlier choices, one after another. It shapes the axes along which this moment can be divided, but it does not cancel the next choice. Whatever lies in front, choosing does not stop there. Freedom has never been lost. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) returns cause to the same place: conditions are the field, not a second author supplying the cause of the next step. [Reflections on A Short History of Chinese Philosophy](../du-zhongwen-zhexue-jianshi-you-gan/) shows the other face: "having no choice" is itself still a choice.
 
 ## 三、 枷锁是拿现状对照一块不受痕迹约束的自由 / 3. Chains Compare the Present with a Freedom Unbound by Traces
 
@@ -28,7 +28,7 @@ flowchart TD
     T["现状：先前选择留下的痕迹"]
     subgraph S_Free["自由的读法"]
         direction TB
-        F1["痕迹塑造可分的轴线"]
+        F1["痕迹塑造此刻可分的轴线"]
         F2["下一次界限仍可被划出"]
     end
     subgraph S_Chain["自缚的读法"]
@@ -60,7 +60,7 @@ flowchart TD
     T["The present: traces left by earlier choices"]
     subgraph S_Free["The Reading as Freedom"]
         direction TB
-        F1["Traces shape the axes that can be divided"]
+        F1["Traces shape the axes divisible now"]
         F2["The next boundary is still drawable"]
     end
     subgraph S_Chain["The Reading as Self-Binding"]
