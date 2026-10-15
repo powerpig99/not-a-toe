@@ -380,11 +380,11 @@ Locke identified the argument from ignorance as a distinct heuristic; while valu
 ### 约翰·冯·诺依曼 / John von Neumann
 `数学 / Mathematical`
 
-冯·诺依曼主张核先发打击的论证从模型严格推出；接收者觉得陌生并拒绝了它，说明形式理性抵达另一心智时已被改写。
+冯·诺依曼主张核先发打击的论证从模型严密地推出，在展示形式推理能走多远时有用；它在此到了边界：接收这些论证的决策者觉得陌生并拒绝了它，一个心智认定为理性的东西，到达另一个心智时已经被改写。
 
-Von Neumann's rigorous case for nuclear first strike followed from the model; recipients experienced it as alien and refused, showing formal rationality arrives in another mind already rewritten.
+Von Neumann's case for a nuclear first strike followed rigorously from the model, which is of use in showing how far formal reasoning can run; it reaches its boundary in that the decision-makers who received it found it alien and refused it, so what one mind registers as rational arrives in another already rewritten.
 
-→ [Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
+→ [理性从不跨越心智 / Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
 
 ### 卡尔·波普尔 / Karl Popper
 `哲学 / Philosophical`
@@ -749,11 +749,11 @@ The Great Filter hypothesis posits one or more extraordinarily improbable evolut
 ### 行为经济学 / Behavioral Economics
 `经济 / Economic`
 
-行为与生态修正把启发式与环境作为补丁加入，使对既往选择的重构更细，却保留了核心前提：共享的形式装置为选择奠基。
+行为经济学把损失厌恶、概率加权等偏离与环境作为修正加进理性选择装置，在让对既往选择的重构更细致时有用；它在此到了边界：先验被修正而从未被挑战，共享的形式装置为选择奠基这一核心前提被保留下来，可携带的演算仍被当作对能动的描述。
 
-Behavioral and ecological refinements add heuristics and environments as patches, densifying reconstruction of past choices while keeping the postulate's core premise that a shared formal apparatus grounds choice.
+Behavioral economics adds departures such as loss aversion and probability weighting, and environments, as revisions to the rational-choice apparatus, which is of use in densifying the reconstruction of past choices; it reaches its boundary in that the prior is conditioned and never challenged, keeping the core premise that a shared formal apparatus grounds choice, so the portable calculus still stands as the description of agency.
 
-→ [The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories](../../posts/the-rational-choice-postulate-is-the-original-sin/) · [Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
+→ [The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories](../../posts/the-rational-choice-postulate-is-the-original-sin/) · [理性从不跨越心智 / Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
 
 ### 生物基因决定论 / Biological Determinism
 `科学 / Scientific`
@@ -875,11 +875,11 @@ Deriving gravity from entropy or quantum information reads mass as information c
 ### 期望效用理论 / Expected Utility Theory
 `经济 / Economic`
 
-期望效用理性把一套连贯偏好结构当作可在人际间移植；每个心智都在本地重新诠释它，因此它只在特定交流中可用，而非可迁移的论断。
+期望效用理论把一套一致的偏好结构当作可以在人与人之间搬运，在一场具体的交换里整理选择时有用；它在此到了边界：每个心智都在本地重新诠释它，它只在特定的交换里好用，而不是一条可以转移的论断。
 
-Expected-utility rationality treats one coherent preference structure as interpersonally portable; each mind reinterprets it locally, so it serves inside particular exchanges rather than as transferable thesis.
+Expected utility theory treats one coherent preference structure as interpersonally portable, which is of use in organizing choices inside a particular exchange; it reaches its boundary in that each mind reinterprets it locally, so it serves inside particular exchanges rather than as a transferable thesis.
 
-→ [Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
+→ [理性从不跨越心智 / Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
 
 ### 延展心智理论 / Extended Mind Thesis
 `哲学 / Philosophical`
@@ -965,11 +965,11 @@ Functionalism presumes matching external human conversational behavior proves th
 ### 博弈论 / Game Theory
 `数学 / Mathematical`
 
-均衡分析假定各主体对价值与风险的内部地图可以互换；在模型内严谨，其建议却会遇到按自身前提重新诠释它的心智。
+均衡分析假定各个主体关于价值与风险的内部地图可以互换，在模型之内推出严密的结论时有用；它在此到了边界：它的建议会遇到按自己的前提重新诠释它的心智。
 
-Equilibrium analysis assumes agents' internal maps of value and risk are interchangeable; rigorous inside the model, its prescriptions meet minds that re-render them under their own premises.
+Equilibrium analysis assumes agents' internal maps of value and risk are interchangeable, which is of use in drawing rigorous conclusions inside the model; it reaches its boundary in that its prescriptions meet minds that re-render them under their own premises.
 
-→ [Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
+→ [理性从不跨越心智 / Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
 
 ### 丰裕时代的生成性价值 / Generative Values of Abundance
 `经济 / Economic`
