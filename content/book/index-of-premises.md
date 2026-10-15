@@ -1903,11 +1903,11 @@ Literary vanity focuses on polishing a prestigious authorial persona; authentic 
 ### 平均化的育儿方法 / Averaged Parenting Methods
 `成功学 / Self-Help`
 
-畅销育儿方法假定平均化规律能指导每个孩子；个体自驱力既看不见也经不起平均，父母能给的主要是更多选择与更少干扰。
+平均化的育儿方法从众多孩子身上总结规律，在了解一个年龄段常见的情形时有用；它在此到了边界：个体的自驱力既看不见，也经不起平均，那个具体的孩子此刻真正在驱动什么，只能靠近距离观察、将心比心去体会，父母能给的，是更多的选择与不徒增的干扰。
 
-Bestselling parenting methods assume averaged patterns guide each child; individual self-drive is neither visible nor averageable, and parents mainly offer more options and less interference.
+Averaged parenting methods distil patterns from many children, which is of use in knowing what is common at a given age; they reach their boundary in that individual self-drive can neither be seen nor averaged, what actually drives a particular child now can only be sensed through close observation and putting oneself in the child's place, and what parents can give is more options and no added interference.
 
-→ [外部归因：个人进步的障碍](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)
+→ [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)
 
 ### 基准面反转机制 / Baseline Inversion Dynamics
 `哲学 / Philosophical`
@@ -4495,11 +4495,11 @@ Activism assumes patterns like regulations hold independent causal power; they a
 ### 天赋与条件即命运 / Talent and Circumstance as Destiny
 `成功学 / Self-Help`
 
-把天赋、机遇或系统升格为决定性原因，条件就成了命运；它们仍是可以利用、绕过或创造的条件，杠杆在于如何解释并行动。
+把天赋、条件、机遇或系统当作命运，在估计一条路的起点与难度时有用；它在此到了边界：这些都只是条件，可以利用、绕过、等待乃至创造，一旦被升格为决定性原因，就成了不可逾越的命运，而杠杆始终在于如何解释发生的事，并据此选择此刻做什么。
 
-Elevating talent, opportunity, or systems to decisive causes turns conditions into fate; they remain conditions to use, bypass, or create, while the lever is how one interprets and acts.
+Taking talent, circumstance, opportunity or systems as destiny is of use in gauging where a path starts and how hard it is; it reaches its boundary in that these are only conditions, to be used, bypassed, waited out or even created, and once raised to decisive causes they become an insurmountable fate, while the lever stays in how what happens is interpreted and what is chosen now on that basis.
 
-→ [外部归因：个人进步的障碍](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) · [翻袋球与魔术戏法 / The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/)
+→ [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) · [翻袋球与魔术戏法 / The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/)
 
 ### 专家治国论权威 / Technocratic Expert Authority
 `哲学 / Philosophical`

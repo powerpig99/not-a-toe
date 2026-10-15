@@ -50,7 +50,7 @@ This is the contradiction inside every existence:
 
 the constant outward projection of agency against the deeper necessity of reclaiming it.
 
-这份矛盾不是要消除的缺陷。它就是生成的源头。没有外在的认可与内在的作者身份之间的摩擦，就没有张力，没有认出，也没有目光转向内在时那一下骤然的清明。差异、评判、不满，以及接纳自己时那份不容易的美，都出自同一个无法消解的运动。[选择、矛盾与开放的现实](../selection-contradiction-and-open-reality/)是这份生成的错位装扮成描述的一面：每一次选择都生出一份它封不住的余数。在这里，摩擦是外在的认可对内在的作者身份。[外部归因：个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)是这份收回，作为唯一属于此处的杠杆：差距一旦被归到外面，就失去了从这道边沿被改变的可能。收回能动只需一瞬间，[如何在一瞬间修正你的整个人生](../how-to-fix-your-whole-life-in-one-split-second/)说的就是这个。
+这份矛盾不是要消除的缺陷。它就是生成的源头。没有外在的认可与内在的作者身份之间的摩擦，就没有张力，没有认出，也没有目光转向内在时那一下骤然的清明。差异、评判、不满，以及接纳自己时那份不容易的美，都出自同一个无法消解的运动。[选择、矛盾与开放的现实](../selection-contradiction-and-open-reality/)是这份生成的错位装扮成描述的一面：每一次选择都生出一份它封不住的余数。在这里，摩擦是外在的认可对内在的作者身份。[外部归因是个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)是这份收回，作为唯一属于此处的杠杆：差距一旦被归到外面，就失去了从这道边沿被改变的可能。收回能动只需一瞬间，[如何在一瞬间修正你的整个人生](../how-to-fix-your-whole-life-in-one-split-second/)说的就是这个。
 
 ```mermaid
 flowchart TD
@@ -82,7 +82,7 @@ flowchart TD
     style C fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-The contradiction is not a defect to eliminate. It is the generative source itself. Without the friction between external credit and internal authorship there would be no tension, no recognition, no sudden clarity when the gaze turns inward. Difference, judgment, dissatisfaction and the hard beauty of self-acceptance all arise from the same irresolvable movement. [Selection, contradiction, and open reality](../selection-contradiction-and-open-reality/) is that generative mismatch in the costume of description: every selection produces a remainder it cannot seal. Here the friction is external credit against internal authorship. [External Attribution: The Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) is the reclaiming as the only lever that belongs here: the gap, once attributed outside, loses the possibility of being changed from this edge. Reclaiming agency takes one split second, as [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) puts it.
+The contradiction is not a defect to eliminate. It is the generative source itself. Without the friction between external credit and internal authorship there would be no tension, no recognition, no sudden clarity when the gaze turns inward. Difference, judgment, dissatisfaction and the hard beauty of self-acceptance all arise from the same irresolvable movement. [Selection, contradiction, and open reality](../selection-contradiction-and-open-reality/) is that generative mismatch in the costume of description: every selection produces a remainder it cannot seal. Here the friction is external credit against internal authorship. [External Attribution Is the Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) is the reclaiming as the only lever that belongs here: the gap, once attributed outside, loses the possibility of being changed from this edge. Reclaiming agency takes one split second, as [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) puts it.
 
 ```mermaid
 flowchart TD

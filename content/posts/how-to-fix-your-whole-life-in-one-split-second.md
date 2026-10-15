@@ -32,7 +32,7 @@ Politicians, institutions and moral rankings materialize as the visible symptoms
 
 Life can be described, without metaphor, as continuous self-iteration. The gap between the present reading and the selected objective is the loss. The parameters available for adjustment, beliefs, habits of attention, default interpretations, even the objective function itself, exist only inside this Mind. External attribution freezes those parameters in place. It declares the loss fixed by forces that cannot be rewritten from here. Once that declaration is made, the grip that action requires disappears, because the grip exists only inside.
 
-[人生是一个持续的自我迭代过程](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)把这条回路看作训练的周期：误差必须回到仍可更新的权重，包括选定目标的那一步。[外部归因：个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)是同一份冻结，看作唯一属于此处的杠杆：差距一旦被归到外面，就失去了被这个中心改变的可能。道德语言在行动者与后果之间覆上一层范畴，于是稀释了本可让自由复利的那份反馈。
+[人生是一个持续的自我迭代过程](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)把这条回路看作训练的周期：误差必须回到仍可更新的权重，包括选定目标的那一步。[外部归因是个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)是同一份冻结，看作唯一属于此处的杠杆：差距一旦被归到外面，就失去了被这个中心改变的可能。道德语言在行动者与后果之间覆上一层范畴，于是稀释了本可让自由复利的那份反馈。
 
 ```mermaid
 flowchart TD
@@ -64,7 +64,7 @@ flowchart TD
     style T fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-[Life as a Continuous Process of Self-Iteration](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) is that loop as a training cycle: error must return to weights that can still be updated, including the step that selected the objective. [External Attribution: The Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) is the same freeze seen as the only lever that belongs here: the gap, once attributed outside, loses the possibility of being altered by this center. Moral language overlays categories between agent and consequence and thereby dilutes the very feedback that would scale freedom.
+[Life as a Continuous Process of Self-Iteration](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) is that loop as a training cycle: error must return to weights that can still be updated, including the step that selected the objective. [External Attribution Is the Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) is the same freeze seen as the only lever that belongs here: the gap, once attributed outside, loses the possibility of being altered by this center. Moral language overlays categories between agent and consequence and thereby dilutes the very feedback that would scale freedom.
 
 ```mermaid
 flowchart TD

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T12:33:39.988Z",
+    "generated_at": "2026-10-15T12:40:13.991Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -100,7 +100,7 @@
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
       "content/posts/hierarchy-from-individual-difference.md": "7c131b8c8217",
       "content/posts/how-belief-actually-changes.md": "b31fc8321707",
-      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "b1e1799200c3",
+      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "6f250adfd9e6",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
       "content/posts/immortality-final.md": "df5d92452896",
@@ -247,7 +247,7 @@
       "content/posts/the-freedom-of-will-to-deny-itself.md": "f90a8819ab4e",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "591395049b84",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "99601f73e350",
-      "content/posts/the-generative-contradiction.md": "932816e7a52b",
+      "content/posts/the-generative-contradiction.md": "87f8ac726456",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
       "content/posts/the-generative-topology-of-free-variables.md": "bd4117e215d3",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
@@ -373,7 +373,7 @@
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "a41257ca3edb",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "ca993bca4cc8",
       "content/posts/two-failures-of-trace.md": "b1672bec5b8e",
-      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "f648faf69414",
+      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "b2fa2be71000",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "93dd1d01f066",
       "content/posts/what-always-listens-cannot-originate.md": "46463a5182fe",
       "content/posts/what-cannot-be-kept.md": "54489c87b990",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "d5550db9b19b",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "980e057c3c88",
-      "content/book/index-of-premises.md": "6442db9398a5",
+      "content/book/index-of-premises.md": "2dfa50786277",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -415,12 +415,12 @@
       "content/book/physics.md": "1f011286f992",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "134ad0b257f3",
-      "content/book/success-and-the-self.md": "59aa878b03ef",
+      "content/book/success-and-the-self.md": "a8c37abf1220",
       "content/book/tools-and-progress.md": "fb71a7a1a375"
     },
     "stats": {
       "posts": 393,
-      "edges": 6249,
+      "edges": 6263,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -2764,7 +2764,7 @@
       "slug": "how-to-fix-your-whole-life-in-one-split-second",
       "path": "content/posts/how-to-fix-your-whole-life-in-one-split-second.md",
       "title": "如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second",
-      "hash": "b1e1799200c3",
+      "hash": "6f250adfd9e6",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -6446,7 +6446,7 @@
       "slug": "the-generative-contradiction",
       "path": "content/posts/the-generative-contradiction.md",
       "title": "生成性的矛盾 / The Generative Contradiction",
-      "hash": "932816e7a52b",
+      "hash": "87f8ac726456",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -9206,8 +9206,8 @@
       "kind": "post",
       "slug": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
-      "title": "外部归因：个人进步的障碍",
-      "hash": "f648faf69414",
+      "title": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth",
+      "hash": "b2fa2be71000",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -18226,7 +18226,7 @@
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "外部归因：个人进步的障碍"
+      "label": "外部归因是个人进步的障碍"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -18238,7 +18238,7 @@
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "External Attribution: The Obstacle to Personal Growth"
+      "label": "External Attribution Is the Obstacle to Personal Growth"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -33148,7 +33148,7 @@
       "from": "the-generative-contradiction",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "外部归因：个人进步的障碍"
+      "label": "外部归因是个人进步的障碍"
     },
     {
       "from": "the-generative-contradiction",
@@ -33166,7 +33166,7 @@
       "from": "the-generative-contradiction",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "External Attribution: The Obstacle to Personal Growth"
+      "label": "External Attribution Is the Obstacle to Personal Growth"
     },
     {
       "from": "the-generative-contradiction",
@@ -44560,7 +44560,7 @@
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
@@ -44576,33 +44576,81 @@
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "rel": "points_to",
+      "label": "Life as a Continuous Process of Self-Iteration"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "On Attribution: From Fact to Cause, From Outside Node to Inner Iteration"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "情绪支持作为因果干涉"
+      "label": "情感支持作为因果干扰"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional support as causal interference"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
-      "label": "当结果倒过来书写框架"
+      "label": "当效果撰写了框架"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the effect authors the frame"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是沉淀的残差，而非引擎"
+      "label": "平均值是痕迹，不是引擎"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "好奇心驱动：天赋与发展的隐秘引擎"
+      "label": "好奇先行"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "the-fallacy-of-post-success-parenting",
       "rel": "points_to",
       "label": "成功之后的育儿谬误"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The average is residue, not the engine"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity First: The Hidden Engine of Talent and Development"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "The Fallacy of Post-Success Parenting"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
@@ -44615,6 +44663,18 @@
       "to": "the-name-revolution-files-a-life-as-evidence",
       "rel": "points_to",
       "label": "革命之名把生活收成证据"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Self-Deliverance"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "The Name Revolution Files a Life as Evidence"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
@@ -44632,13 +44692,37 @@
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
+      "label": "目的性的评判与认知的缺省状态"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "guidance-is-not-ownership",
       "rel": "points_to",
       "label": "引导不是占有"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The Generative Contradiction"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to Fix Your Whole Life in One Split Second"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "Judging by Purpose and the Default State of Cognition"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "Guidance Is Not Ownership"
     },
     {
       "from": "war-revolution-and-the-fall-of-empires",
@@ -47394,7 +47478,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "6442db9398a5",
+        "hash": "2dfa50786277",
         "out_degree": 393
       },
       {
@@ -47493,7 +47577,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "59aa878b03ef",
+        "hash": "a8c37abf1220",
         "out_degree": 33
       },
       {
@@ -49737,7 +49821,7 @@
         "from": "book:index-of-premises",
         "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "rel": "collects",
-        "label": "外部归因：个人进步的障碍"
+        "label": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth"
       },
       {
         "from": "book:index-of-premises",
@@ -51579,7 +51663,7 @@
         "from": "book:index-of-premises",
         "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "rel": "collects",
-        "label": "外部归因：个人进步的障碍"
+        "label": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth"
       },
       {
         "from": "book:index-of-premises",
@@ -53583,7 +53667,7 @@
         "from": "book:success-and-the-self",
         "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "rel": "collects",
-        "label": "外部归因：个人进步的障碍"
+        "label": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth"
       },
       {
         "from": "book:success-and-the-self",
