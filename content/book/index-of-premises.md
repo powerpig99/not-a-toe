@@ -488,9 +488,9 @@ Taleb formalizes convex payoffs under uncertainty; invaluable for risk engineeri
 ### 纳瓦尔·拉维肯特 / Naval Ravikant
 `成功学 / Self-Help`
 
-纳瓦尔把非二元哲学与现代的杠杆学说结合起来，强调空着的日程与最少的承诺，在帮助个人安顿、留出可选性时有用；它在此到了边界：把分离当作病，否认了区分在运作中的必要，而永久停在空的那一面，本身也成了一次不再被审视的预测。
+纳瓦尔把非二元哲学与现代的杠杆学说结合起来，强调空着的日程与最少的承诺，在帮助个人安顿、留出可选性时有用；它在此到了边界：把分离当作病，否认了区分在运作中的必要，而永久停在空的那一面，本身也成了一次未经审视的预测。
 
-Naval blends Advaita non-duality with a modern account of leverage and stresses the empty calendar and minimal commitments, which is of use for personal peace and for keeping optionality; it reaches its boundary in that treating separation as a disease denies the working need for distinction, and staying permanently on the empty face becomes a prediction no longer examined.
+Naval blends Advaita non-duality with a modern account of leverage and stresses the empty calendar and minimal commitments, which is of use for personal peace and for keeping optionality; it reaches its boundary in that treating separation as a disease denies the working need for distinction, and staying permanently on the empty face becomes an unexamined prediction.
 
 → [Separation Isn't the Disease](../../posts/naval-separation-analysis/) · [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
 
