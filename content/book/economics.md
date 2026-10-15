@@ -33,7 +33,7 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 - [No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)
 - [Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
 - [Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/)
-- [Agency Relocated into the Formal Model](../../posts/agency-relocated-into-the-formal-model/)
+- [能动性被转置入形式模型 / Agency Relocated into the Formal Model](../../posts/agency-relocated-into-the-formal-model/)
 - [投资决策的因果闭环 / The Causal Loop of Investment Decisions](../../posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)
 - [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
 - [福利国家的幻象 / The Welfare State Illusion](../../posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy/)

@@ -20,8 +20,6 @@ When utilitarians or cosmopolitan theorists present distant statistics to an int
 
 托马斯·内格尔所警示的“无处之景”，在此处并未提炼道德判断，反而将其推向了因果倒置。在具体的具身生活里，责任首先作为鲜活的关系事件呈现：具体的面孔、共同度过的时间、交织的承诺与当下的困境。然而，普遍主义框架将这些真实涌现的情感纽带重新编码为具有扭曲性质的偏见，主张必须将这些个人依附从等式中扣除，所谓真实的责任才能浮现。个人关系被降格为应当消除的噪音。这种倒置一旦被认同，远方的陌生人甚至无须真正出场；言说者只需念出一个名字并赋予一个抽象数值，就足以对他人施加道德戒律。
 
-The "view from nowhere" cautioned by Thomas Nagel inverts moral judgment rather than refining it. In concrete, embodied existence, obligation first registers as a living relation: a particular face, a shared history, interwoven commitments, and immediate tangible distress. Yet the universalist framework recodes these emergent relational ties as distorting attachments that must be subtracted so that the true duty can be calculated. The personal is treated as the error term. Once this inversion is accepted, the distant stranger does not need to show up in experience at all; it is enough for a speaker to pronounce a name and attach a numerical weight to demand compliance.
-
 ```mermaid
 flowchart TD
     subgraph S_Lived ["具身直面层（第一人称的原初责任）"]
@@ -34,7 +32,6 @@ flowchart TD
         style Field fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
         style LivedObligation fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
-
     subgraph S_Inversion ["倒置账本层（无处之景的抽象强加）"]
         direction TB
         style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -45,15 +42,12 @@ flowchart TD
         style AbstractLedger fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
         style InvertedMandate fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     end
-
     FaceToFace --> Field --> LivedObligation
     LivedObligation ===>|"被贬低为需要扣除的附带误差"| AbstractLedger
     Carrying --> AbstractLedger --> InvertedMandate
 ```
 
-在[协议的倒置与因果回路的沉默](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)中已经揭示，当下游的记录工具篡夺了上游生成源头的主权时，真实的因果反馈便陷入停滞。道德账本原本是人类在协调复杂协作时演化出的辅助契约，旨在记录对等交易与社会契约的边界。然而当这一外在记账工具反客为主，宣称凡是在纸面上被写下的条目都具有与肉身相遇同等的约束力时，主体的具身存在就被抽空了。责任不再取决于某人是否在场、是否与你产生了真实的经验纠缠，而取决于中心化的道德布道者在账本上登记了多少行未被证实的字符。
-
-As uncovered in [the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/), whenever downstream recording instruments usurp the sovereign primacy of generative origins, genuine causal feedback falls silent. The moral ledger was originally an auxiliary artifact evolved to coordinate complex human cooperation, demarcating boundaries of reciprocal trade and social agreements. When this external ledger turns despotic, claiming that every entry inscribed upon its pages exerts the same gravitational pull as a flesh-and-blood encounter, the agent's embodied presence is evacuated. Obligation ceases to depend on whether an entity actually appears before you in living friction, depending instead on how many lines of unverified text a centralized moral ledger-keeper has inscribed.
+The "view from nowhere" cautioned by Thomas Nagel inverts moral judgment rather than refining it. In concrete, embodied existence, obligation first registers as a living relation: a particular face, a shared history, interwoven commitments, and immediate tangible distress. Yet the universalist framework recodes these emergent relational ties as distorting attachments that must be subtracted so that the true duty can be calculated. The personal is treated as the error term. Once this inversion is accepted, the distant stranger does not need to show up in experience at all; it is enough for a speaker to pronounce a name and attach a numerical weight to demand compliance.
 
 ```mermaid
 flowchart TD
@@ -67,7 +61,6 @@ flowchart TD
         style Field fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
         style LivedObligation fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
-
     subgraph S_Inversion ["Inverted Ledger Layer (View from Nowhere)"]
         direction TB
         style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -78,17 +71,18 @@ flowchart TD
         style AbstractLedger fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
         style InvertedMandate fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     end
-
     FaceToFace --> Field --> LivedObligation
     LivedObligation ===>|"Subtracted as Supposed Error Term"| AbstractLedger
     Carrying --> AbstractLedger --> InvertedMandate
 ```
 
+在[协议的倒置与因果回路的沉默](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)中已经揭示，当下游的记录工具篡夺了上游生成源头的主权时，真实的因果反馈便陷入停滞。道德账本原本是人类在协调复杂协作时演化出的辅助契约，旨在记录对等交易与社会契约的边界。然而当这一外在记账工具反客为主，宣称凡是在纸面上被写下的条目都具有与肉身相遇同等的约束力时，主体的具身存在就被抽空了。责任不再取决于某人是否在场、是否与你产生了真实的经验纠缠，而取决于中心化的道德布道者在账本上登记了多少行未被证实的字符。
+
+As uncovered in [the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/), whenever downstream recording instruments usurp the sovereign primacy of generative origins, genuine causal feedback falls silent. The moral ledger was originally an auxiliary artifact evolved to coordinate complex human cooperation, demarcating boundaries of reciprocal trade and social agreements. When this external ledger turns despotic, claiming that every entry inscribed upon its pages exerts the same gravitational pull as a flesh-and-blood encounter, the agent's embodied presence is evacuated. Obligation ceases to depend on whether an entity actually appears before you in living friction, depending instead on how many lines of unverified text a centralized moral ledger-keeper has inscribed.
+
 ## 三、 实用工具的教条化篡位与科学认识论的边界 / 3. The Dogmatic Usurpation of Pragmatic Tools and the Epistemic Horizon of Science
 
 相同的因果倒置发生在任何实用方法被固化为主义的时刻。纠正视野中显现的偏差，只要依然作为视域内部的一个动态事件，就具有无可争议的实践意义：某个假说被反例推翻，某份证词改变了下一次相遇的预期，模型因为主体感受到了真实的背离而发生修正。然而，一旦这种纠偏方法被抽象为凌驾于所有具体心智之上的静态令箭，要求其他从未感受到背离的心智预先遵从时，这一实践就不再向活生生的经验负责，而是变成了先验的立法机器。实用主义退化为僵死的教条，功利考量异化为要求他人牺牲的道德劫持，而原本旨在审视偏见的尝试，蜕变成了傲慢宣称自己早已免于偏见的特权。
-
-The same causal inversion occurs whenever a useful practice hardens into an ideological dogma. Correcting discrepancies within appearance remains genuinely pragmatic as long as it unfolds as an event inside a field: an empirical prediction fails, a compelling testimony reshapes an expectation, and the working model is recalibrated because a palpable gap was registered. However, the moment this methodology is hypostasized into a standing mandate that other conscious minds must already be bound by—even where no discrepancy has registered for them—the practice stops answering to living experience and begins legislating in advance of it. Pragmatism stiffens into scholasticism; utility mutates into an enforced doctrine of sacrifice; and the humble attempt to audit bias turns into the self-righteous claim that bias has already been eliminated.
 
 ```mermaid
 flowchart TD
@@ -102,7 +96,6 @@ flowchart TD
         style Discrepancy fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
         style ModelAdjustment fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     end
-
     subgraph S_Dogma ["教条立法结构（脱离主权的逆向强加）"]
         direction TB
         style S_Dogma fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -111,15 +104,12 @@ flowchart TD
         style StandingMandate fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
         style CoerciveFrame fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     end
-
     Observation --> Discrepancy --> ModelAdjustment
     ModelAdjustment ===>|"异化为脱离主权心智的静态令箭"| StandingMandate
     StandingMandate --> CoerciveFrame
 ```
 
-援引“互为主体性”或“重叠视域”并不能突破第一人称的边界。一致的共识、他人的证词以及标准化的测量刻度，其本身仍然必须在某个第一人称视域中被感知。你听到同伴的纠正，你看到测量仪表上的指针读数，你感受到预期落空带来的张力。并不存在一个超脱于所有视域之外的超然视角，在宇宙高处俯瞰两个心智的视域并为其重合盖章认证。称某种重合为互为主体性，只是命名了一种依然依赖于视角显现的现象，并没有设立第三个无人居住的宇宙法庭。将测量刻度剥离观察者心智、错认为客观事实的企图，正如在[「更好」的范畴谬误](../the-category-error-of-better/)中所辨明的，只会导致决策者在遭遇异质认知时将自身的测量盲区防御性地归咎于外界的非理性。
-
-Invoking "intersubjectivity" or "overlapping horizons" does not escape the inescapable horizon of the first person. Agreement, external testimony, and shared measurement apparatuses are themselves perceived phenomena inside particular minds. You hear the colleague's correction, you read the calibrated pointer on the dial, and you feel the cognitive friction of an unmet expectation. There is no disembodied, extra-perspectival vantage point surveying two independent consciousnesses from above and verifying their coincidence. Calling an experiential convergence intersubjective simply labels an occurrence that remains perspectival; it does not erect an empty, unpeopled tribunal in the sky. The attempt to sever calibrated scales from observing minds and reify them into objective facts, as identified in [The Category Error of Better](../the-category-error-of-better/), merely causes decision-makers to defensively project their own measurement blind spots onto the perceived irrationality of the external world.
+The same causal inversion occurs whenever a useful practice hardens into an ideological dogma. Correcting discrepancies within appearance remains genuinely pragmatic as long as it unfolds as an event inside a field: an empirical prediction fails, a compelling testimony reshapes an expectation, and the working model is recalibrated because a palpable gap was registered. However, the moment this methodology is hypostasized into a standing mandate that other conscious minds must already be bound by—even where no discrepancy has registered for them—the practice stops answering to living experience and begins legislating in advance of it. Pragmatism stiffens into scholasticism; utility mutates into an enforced doctrine of sacrifice; and the humble attempt to audit bias turns into the self-righteous claim that bias has already been eliminated.
 
 ```mermaid
 flowchart TD
@@ -133,7 +123,6 @@ flowchart TD
         style Discrepancy fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
         style ModelAdjustment fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     end
-
     subgraph S_Dogma ["Legislative Dogma (External Coercive Mandate)"]
         direction TB
         style S_Dogma fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -142,13 +131,16 @@ flowchart TD
         style StandingMandate fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
         style CoerciveFrame fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     end
-
     Observation --> Discrepancy --> ModelAdjustment
     ModelAdjustment ===>|"Alienated into Inverted Epistemic Mandate"| StandingMandate
     StandingMandate --> CoerciveFrame
 ```
 
-这一认识论边界同样划定了科学的有效范围。正如在[能动性被置换入形式模型](../agency-relocated-into-the-formal-model/)中所指出的，形式模型的建构始于对生活经验中协变规律的严谨提炼，只有在其持续向主体的具体观察负责时，模型才是有益的认知手杖。然而，当科学主义将形式模型宣布为独一的本体论事实，并将人类的原初感知贬斥为主观幻觉时，科学便亲手拆毁了孕育其自身的根基。凡是无法在任何第一人称视域中被复现与经验的事物，就没有任何主体有权声称其存在，因为宇宙中不存在第二种能够做出声明的实体。视角的不可逃避性并非客观认知上的残疾，而是任何事物得以对某人存在的原初地平。
+援引“互为主体性”或“重叠视域”并不能突破第一人称的边界。一致的共识、他人的证词以及标准化的测量刻度，其本身仍然必须在某个第一人称视域中被感知。你听到同伴的纠正，你看到测量仪表上的指针读数，你感受到预期落空带来的张力。并不存在一个超脱于所有视域之外的超然视角，在宇宙高处俯瞰两个心智的视域并为其重合盖章认证。称某种重合为互为主体性，只是命名了一种依然依赖于视角显现的现象，并没有设立第三个无人居住的宇宙法庭。将测量刻度剥离观察者心智、错认为客观事实的企图，正如在[「更好」的范畴谬误](../the-category-error-of-better/)中所辨明的，只会导致决策者在遭遇异质认知时将自身的测量盲区防御性地归咎于外界的非理性。
+
+Invoking "intersubjectivity" or "overlapping horizons" does not escape the inescapable horizon of the first person. Agreement, external testimony, and shared measurement apparatuses are themselves perceived phenomena inside particular minds. You hear the colleague's correction, you read the calibrated pointer on the dial, and you feel the cognitive friction of an unmet expectation. There is no disembodied, extra-perspectival vantage point surveying two independent consciousnesses from above and verifying their coincidence. Calling an experiential convergence intersubjective simply labels an occurrence that remains perspectival; it does not erect an empty, unpeopled tribunal in the sky. The attempt to sever calibrated scales from observing minds and reify them into objective facts, as identified in [The Category Error of Better](../the-category-error-of-better/), merely causes decision-makers to defensively project their own measurement blind spots onto the perceived irrationality of the external world.
+
+这一认识论边界同样划定了科学的有效范围。正如在[能动性被转置入形式模型](../agency-relocated-into-the-formal-model/)中所指出的，形式模型的建构始于对生活经验中协变规律的严谨提炼，只有在其持续向主体的具体观察负责时，模型才是有益的认知手杖。然而，当科学主义将形式模型宣布为独一的本体论事实，并将人类的原初感知贬斥为主观幻觉时，科学便亲手拆毁了孕育其自身的根基。凡是无法在任何第一人称视域中被复现与经验的事物，就没有任何主体有权声称其存在，因为宇宙中不存在第二种能够做出声明的实体。视角的不可逃避性并非客观认知上的残疾，而是任何事物得以对某人存在的原初地平。
 
 This epistemic boundary circumscribes the validity of empirical science as well. As articulated in [Agency Relocated into the Formal Model](../agency-relocated-into-the-formal-model/), formal modeling begins as disciplined inference from lived regularities, remaining valid only while answerable to what conscious observers actually register. When scientism proclaims the mathematical model to be the sole objective reality and dismisses immediate perception as neural illusion, science demolishes the very ground that made observation possible. What cannot be recovered from within any first-person field cannot be claimed by anyone, because there exists no other category of claimant. The inescapability of perspective is not a defect marring an otherwise accessible absolute reality; it is the boundary condition of what can be said to exist for anyone.
 

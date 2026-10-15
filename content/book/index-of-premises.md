@@ -2938,11 +2938,11 @@ The debate presumes the moral framing authors whether production compounds; both
 ### 通胀与货币作为自行运作的机制 / Inflation and Currency as Self-Acting Mechanisms
 `经济 / Economic`
 
-把货币与通胀当作作用于人的数学行动者；它们是制定规则者与适应者持续选择的产物，静态平均视为噪声的预期变化正是重塑秩序的力量。
+把货币与通胀当作自行运作的机制，在描述价格与币值随时间的变化时有用；它在此到了边界：它们不是自行运作的数学实体，而是制定规则者与适应规则者持续抉择的产物，人们正因为知道规则存在而修正预期，这份反身的变化在静态平均里被记作噪声，却正是重塑秩序的力量。
 
-Treating currency and inflation as mathematical actors presumes they operate on people; they are ongoing products of rule-makers and adapters, with reflexive expectation shifts that static averages score as noise.
+Treating currency and inflation as self-acting mechanisms is of use in describing how prices and the value of money change over time; it reaches its boundary in that they are not self-acting mathematical entities but the ongoing products of choices by those who make rules and those who adapt to them, and the expectation shifts people make precisely because they know the rules exist, scored as noise in a static average, are the forces that reshape the order.
 
-→ [Agency Relocated into the Formal Model](../../posts/agency-relocated-into-the-formal-model/)
+→ [能动性被转置入形式模型 / Agency Relocated into the Formal Model](../../posts/agency-relocated-into-the-formal-model/)
 
 ### 信息即有组织的数据 / Information as Organized Data
 `技术 / Technological`
@@ -3280,11 +3280,11 @@ Teleological planning assumes a pre-existing path waiting to be discovered; the 
 ### 掌握形式模型扩展能动性 / Mastery of Formal Models Extends Agency
 `数学 / Mathematical`
 
-该号召预设掌握模型之前能动性是缺失的；形式知识使约束可见，而行动能力早已在观察与决定中被运用。
+认为掌握形式模型能扩展能动，在鼓励学习、看清约束时有用；它在此到了边界：这一说法预设掌握模型之前能动是缺失的，把自变量从设计与回应的心智移进了抽象，形式知识让约束可见，行动的能力却早已在观察、回应与决定中被运用。
 
-The urging presumes agency is lacking until models are mastered; formal knowledge makes constraints visible, while the capacity to act is already exercised in observation and decision.
+The view that mastering formal models extends agency is of use in encouraging study and making constraints visible; it reaches its boundary in that it presumes agency is lacking until the models are mastered, moving the independent variable from the minds that design and react into the abstractions, while formal knowledge makes constraints visible and the capacity to act is already exercised in observation, reaction and decision.
 
-→ [Agency Relocated into the Formal Model](../../posts/agency-relocated-into-the-formal-model/)
+→ [能动性被转置入形式模型 / Agency Relocated into the Formal Model](../../posts/agency-relocated-into-the-formal-model/)
 
 ### 物质基底的重力锚定 / Material Substrate Anchoring
 `哲学 / Philosophical`
@@ -4999,11 +4999,11 @@ Global design presumes convergence of knowledge into one actionable whole; publi
 ### 零知识证明 / Zero-Knowledge Proofs
 `数学 / Mathematical`
 
-零知识证明能在不泄露证据的情况下证明命题；形式性质本身不含能动性，能动性只出现在设计、部署、激励与回应它的人身上。
+零知识证明能在不泄露证据的情况下证明一个命题为真，在需要验证而不暴露信息时有用；它在此到了边界：形式性质本身不含能动，能动只出现在选择如何设计、部署与激励它的人，以及在保证为人所知之后选择如何回应的人身上。
 
-A zero-knowledge proof establishes truth without revealing the witness; the formal property contains no agency, which appears only in people who design, deploy, incentivize, and respond to it.
+A zero-knowledge proof establishes a statement's truth without revealing its witness, which is of use wherever verification is needed without exposure; it reaches its boundary in that the formal property contains no agency, which appears only in those who choose how it is designed, deployed and incentivized and in those who choose how to respond once its guarantees are known.
 
-→ [Agency Relocated into the Formal Model](../../posts/agency-relocated-into-the-formal-model/)
+→ [能动性被转置入形式模型 / Agency Relocated into the Formal Model](../../posts/agency-relocated-into-the-formal-model/)
 
 ### 零和世界观 / Zero-Sum Worldview
 `经济 / Economic`

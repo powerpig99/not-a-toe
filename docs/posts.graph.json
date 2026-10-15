@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T11:44:32.309Z",
+    "generated_at": "2026-10-15T12:22:14.499Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -12,12 +12,12 @@
       "content/posts/a-creation-cannot-replace-its-source.md": "862ad4195ca4",
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "038c06ecede5",
-      "content/posts/abstract-pain-and-living-hunger.md": "4126712ef38f",
+      "content/posts/abstract-pain-and-living-hunger.md": "2e4f27bcaae8",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "2e7b16607892",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "842babd14bbf",
       "content/posts/agency-does-not-arise.md": "5c22547d1783",
-      "content/posts/agency-relocated-into-the-formal-model.md": "80fd8434fe37",
+      "content/posts/agency-relocated-into-the-formal-model.md": "a0099525e90d",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "24615382c532",
       "content/posts/ai-as-augmentation.md": "a27a4ea86606",
@@ -280,7 +280,7 @@
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "c4cd807f51dd",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "895266756ce9",
-      "content/posts/the-ledger-of-the-unencountered.md": "492fde646aea",
+      "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
       "content/posts/the-living-context.md": "2d1c878d63a5",
       "content/posts/the-local-trap-of-technological-change.md": "573d53fe854b",
@@ -403,8 +403,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "19bb48d1f364",
       "content/book/consciousness.md": "b829238e63a6",
-      "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "ebb50f547dcf",
+      "content/book/economics.md": "980e057c3c88",
+      "content/book/index-of-premises.md": "9899686ae43f",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6225,
+      "edges": 6236,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -720,7 +720,7 @@
       "slug": "abstract-pain-and-living-hunger",
       "path": "content/posts/abstract-pain-and-living-hunger.md",
       "title": "抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger",
-      "hash": "4126712ef38f",
+      "hash": "2e4f27bcaae8",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -850,8 +850,8 @@
       "kind": "post",
       "slug": "agency-relocated-into-the-formal-model",
       "path": "content/posts/agency-relocated-into-the-formal-model.md",
-      "title": "Agency Relocated into the Formal Model",
-      "hash": "80fd8434fe37",
+      "title": "能动性被转置入形式模型 / Agency Relocated into the Formal Model",
+      "hash": "a0099525e90d",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -7118,7 +7118,7 @@
       "slug": "the-ledger-of-the-unencountered",
       "path": "content/posts/the-ledger-of-the-unencountered.md",
       "title": "未被遭遇之物的账本 / The Ledger of the Unencountered",
-      "hash": "492fde646aea",
+      "hash": "8932d526bdcc",
       "in_degree": 7,
       "out_degree": 6,
       "links_out": [
@@ -10156,7 +10156,7 @@
       "from": "abstract-pain-and-living-hunger",
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
-      "label": "能动性被置换入形式模型"
+      "label": "能动性被转置入形式模型"
     },
     {
       "from": "abstract-pain-and-living-hunger",
@@ -10768,6 +10768,18 @@
       "from": "agency-relocated-into-the-formal-model",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
+      "label": "解放的话术始于对囚禁的定义"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "赋权确立权力的集中"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
       "label": "Liberation rhetoric begins by defining captivity"
     },
     {
@@ -10775,6 +10787,18 @@
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
       "label": "Empowerment establishes the centralization of power"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "协调者的范畴错误"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -10792,6 +10816,18 @@
       "from": "agency-relocated-into-the-formal-model",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
       "label": "Individual choices as the only causal levers"
     },
     {
@@ -10804,6 +10840,18 @@
       "from": "agency-relocated-into-the-formal-model",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
+      "label": "平均值是痕迹，不是引擎"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "the-ledger-of-the-unencountered",
+      "rel": "points_to",
+      "label": "未被遭遇之物的账本"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
       "label": "The average is residue, not the engine"
     },
     {
@@ -10811,6 +10859,24 @@
       "to": "the-ledger-of-the-unencountered",
       "rel": "points_to",
       "label": "The Ledger of the Unencountered"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "abstract-pain-and-living-hunger",
+      "rel": "points_to",
+      "label": "抽象的苦难与真实的饥饿"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -35818,7 +35884,7 @@
       "from": "the-ledger-of-the-unencountered",
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
-      "label": "能动性被置换入形式模型"
+      "label": "能动性被转置入形式模型"
     },
     {
       "from": "the-ledger-of-the-unencountered",
@@ -47241,7 +47307,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "5e4b3a021dc3",
+        "hash": "980e057c3c88",
         "out_degree": 28
       },
       {
@@ -47250,7 +47316,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ebb50f547dcf",
+        "hash": "9899686ae43f",
         "out_degree": 393
       },
       {
@@ -47919,7 +47985,7 @@
         "from": "book:economics",
         "to": "agency-relocated-into-the-formal-model",
         "rel": "collects",
-        "label": "Agency Relocated into the Formal Model"
+        "label": "能动性被转置入形式模型 / Agency Relocated into the Formal Model"
       },
       {
         "from": "book:economics",
@@ -50319,7 +50385,7 @@
         "from": "book:index-of-premises",
         "to": "agency-relocated-into-the-formal-model",
         "rel": "collects",
-        "label": "Agency Relocated into the Formal Model"
+        "label": "能动性被转置入形式模型 / Agency Relocated into the Formal Model"
       },
       {
         "from": "book:index-of-premises",
@@ -50547,7 +50613,7 @@
         "from": "book:index-of-premises",
         "to": "agency-relocated-into-the-formal-model",
         "rel": "collects",
-        "label": "Agency Relocated into the Formal Model"
+        "label": "能动性被转置入形式模型 / Agency Relocated into the Formal Model"
       },
       {
         "from": "book:index-of-premises",
@@ -51783,7 +51849,7 @@
         "from": "book:index-of-premises",
         "to": "agency-relocated-into-the-formal-model",
         "rel": "collects",
-        "label": "Agency Relocated into the Formal Model"
+        "label": "能动性被转置入形式模型 / Agency Relocated into the Formal Model"
       },
       {
         "from": "book:index-of-premises",

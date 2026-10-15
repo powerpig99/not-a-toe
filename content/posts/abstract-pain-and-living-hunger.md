@@ -76,7 +76,7 @@ flowchart TD
 
 Within a central banking settlement architecture or macroeconomic statistical ledger, currency units across different accounts exhibit total mathematical isomorphism. Ten thousand tokens in Account A obey the identical arithmetic rules and compounding formulas as ten thousand tokens in Account B, and this algebraic uniformity generates a persistent macro-illusion that wealth and purchasing power are homogeneous fluids circulating through an unowned ether. Guided by utilitarian global calculus, because marginal utility diminishes, transferring numbers from a surplus ledger to a deficit coordinate appears as an indisputable imperative of optimal efficiency.
 
-然而，第一人称的生存现实对这种算术平权构成了坚固的反驳。存放在个人账户中的数字，并非抽象的数学标量，而是行动者在物理世界中抵御未知波动、维系肉身安全并践行主权判断的能量支点。他人账户中的资产即便庞大，也是处于他者意志边界之内的外部坐标，你既无法直接行使微观调配权，也无需为他人账户的归零承担露宿街头的生理恶果。主张他人账户与自身账户具有相同估值要求的人，实质上暗中安插了一个无所不在的超级管家，预先假定全人类的主权意志早已被收缴为一个中央资金池。正如在 [能动性被置换入形式模型](../agency-relocated-into-the-formal-model/) 中所指出的，一旦行动者的因果权能被让渡给形式框架，真实的生存属地便被剥离殆尽。
+然而，第一人称的生存现实对这种算术平权构成了坚固的反驳。存放在个人账户中的数字，并非抽象的数学标量，而是行动者在物理世界中抵御未知波动、维系肉身安全并践行主权判断的能量支点。他人账户中的资产即便庞大，也是处于他者意志边界之内的外部坐标，你既无法直接行使微观调配权，也无需为他人账户的归零承担露宿街头的生理恶果。主张他人账户与自身账户具有相同估值要求的人，实质上暗中安插了一个无所不在的超级管家，预先假定全人类的主权意志早已被收缴为一个中央资金池。正如在 [能动性被转置入形式模型](../agency-relocated-into-the-formal-model/) 中所指出的，一旦行动者的因果权能被让渡给形式框架，真实的生存属地便被剥离殆尽。
 
 ```mermaid
 flowchart TD
