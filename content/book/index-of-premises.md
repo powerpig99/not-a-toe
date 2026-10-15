@@ -263,11 +263,11 @@ Chollet insists intelligence is tied to human environmental priors; useful again
 ### 弗里德里希·哈耶克 / Friedrich Hayek
 `经济 / Economic`
 
-哈耶克深刻论证了分散知识不可被计划垄断；有力捍卫了市场秩序，但对大资本影响规则制定的分析相对偏弱。
+哈耶克论证分散的知识无法被计划垄断，在解释市场如何借价格协调时有用；它在此到了边界：它仍把公开出现的东西想象成一份存量的碎片，并为一种更好的制度设计辩护，而这种设计本身也出自不完备的知识。
 
-Hayek demonstrated that dispersed local knowledge defies central planning; peerless on market coordination, his Austrian framework underplays institutional power dynamics.
+Hayek's argument that dispersed knowledge cannot be monopolized by planning is of use in explaining how markets coordinate through prices; it reaches its boundary in that it still pictures what appears in public as pieces of a stock, and argues for a better institutional design that itself issues from incomplete knowledge.
 
-→ [Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/) · [The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
+→ [Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/) · [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
 
 ### 杰弗里·辛顿 / Geoffrey Hinton
 `科学 / Scientific`
@@ -3109,11 +3109,11 @@ Distillation treats model compression as transferring general reasoning into sma
 ### 知识问题 / Knowledge Problem
 `经济 / Economic`
 
-知识问题把分散知识想象成一份共同存量的碎片；公开痕迹只是各心智各自重构的外化，任何汇集或智力都无法把它们变成可用的整体。
+知识问题把分散的知识想象成一份共同存量的碎片，在说明为何没有中央计划者能取代分散的决策时有用；它在此到了边界：公开的印迹只是各心智各自重构的外化，任何汇集或智力都无法把它们变成一个可用的整体。
 
-The knowledge problem images dispersed pieces of a common stock; public marks are externalizations each mind reconstructs, so no gathering or intelligence converts them into one usable whole.
+The knowledge problem pictures dispersed knowledge as pieces of a common stock, which is of use in showing why no central planner can replace dispersed decisions; it reaches its boundary in that public marks are externalizations each mind reconstructs, so no gathering or intelligence converts them into one usable whole.
 
-→ [The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
+→ [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
 
 ### 财务、精神与存在自由的阶梯 / Ladder of Financial, Spiritual and Existential Freedom
 `成功学 / Self-Help`
@@ -3847,11 +3847,11 @@ Car ownership is taken as the natural form of personal mobility, which is of use
 ### 私有产权 / Private Property Rights
 `经济 / Economic`
 
-私有产权比公有集中产生更小的知识错配；一旦被升格为因果解决方案，它会招来保护性叠加，在私有名义下重新集中控制。
+私有产权把剩余索取留在做决定的人身上，在造出比公有集中更小的知识错配时有用；它在此到了边界：一旦被升格为因果上的解决方案，它就宣称了它没有的完备，并招来保护性的叠加，在私有的名义下重新集中控制。
 
-Private property generates smaller knowledge mismatches than public concentration; elevated as the causal solution, it attracts protective overlays that recentralize control under private language.
+Private property keeps the residual claim with the one who decides, which is of use in producing smaller knowledge mismatches than public concentration; it reaches its boundary in that, once elevated into the causal solution, it claims a completeness it lacks and attracts protective overlays that recentralize control under the name of private property.
 
-→ [The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
+→ [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
 
 ### 产销二元分立 / Production-Consumption Dichotomy
 `经济 / Economic`
@@ -4243,11 +4243,11 @@ Meta-prompting assumes generating commentary on prior tokens constitutes conscio
 ### 社会正义 / Social Justice
 `意识形态 / Ideological`
 
-社会正义假定可以为非人格过程设计公平分配；它需要任何权威都不具备的知识，而这一冲动仍出自替他人判断的具体心智。
+社会正义假定可以为一个非人格的过程设计出公平的分配，在指出真实的不平等时有用；它在此到了边界：它需要任何权威都不具备的知识，而这一冲动仍出自替他人判断的具体心智。
 
-Social justice assumes a designed fair distribution of an impersonal process; it requires knowledge no authority possesses, while the impulse still issues from particular minds judging for others.
+Social justice assumes a fair distribution can be designed for an impersonal process, which is of use in naming real inequality; it reaches its boundary in that it requires knowledge no authority possesses, while the impulse still issues from particular minds judging for others.
 
-→ [The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
+→ [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
 
 ### 社会化 / Socialization
 `哲学 / Philosophical`

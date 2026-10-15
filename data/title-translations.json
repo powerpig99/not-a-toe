@@ -442,10 +442,6 @@
       "title_zh": "共同的人性从不共享",
       "subtitle_zh": "所谓共同的人性，只命名一些私人的诠释，它们凝聚为暂时的集体余留，从来不是跨越心智持有的实体。"
     },
-    "the-knowledge-problem-and-the-illusion-of-delegation": {
-      "title_zh": "知识问题与委托的幻觉",
-      "subtitle_zh": "产权规则与其他每一种委托，都在诠释不完备，它们并不收集知识，也不挪走负荷。"
-    },
     "the-risk-is-the-belief-in-oversight-itself": {
       "title_zh": "风险在于对监管本身的迷信",
       "subtitle_zh": "固定测试下模型的相关错误，是共同持守下的残余；冻结在于把当前的监管前提当成可能发生之事的边界。"
@@ -468,6 +464,10 @@
     },
     "why-explanation-fails": {
       "title_zh": "解释为何失效"
+    },
+    "the-irreducible-prior-of-decision-and-consequence": {
+      "title_zh": "决策与后果不可分割的先验",
+      "subtitle_zh": "离开心智如何感知它所做的选择与它所承受的结果之间的统一，就没有什么独立的断裂。"
     }
   }
 }

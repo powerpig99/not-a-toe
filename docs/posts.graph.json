@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T18:50:28.600Z",
+    "generated_at": "2026-10-15T19:01:18.658Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -278,7 +278,7 @@
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "8a005fc1644a",
       "content/posts/the-irreducible-observer.md": "ad01ade05654",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
-      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "c4cd807f51dd",
+      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ce5d08278019",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "895266756ce9",
       "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
@@ -403,8 +403,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b7511073fe2e",
       "content/book/causality.md": "b8d9371a7e62",
       "content/book/consciousness.md": "b829238e63a6",
-      "content/book/economics.md": "0cbdf0d9f7c2",
-      "content/book/index-of-premises.md": "a1b326573aec",
+      "content/book/economics.md": "3938b54453ed",
+      "content/book/index-of-premises.md": "ab7bd3b30829",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "c519a684d389",
       "content/book/life-and-statistics.md": "271c9c3e4715",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6386,
+      "edges": 6395,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -7077,8 +7077,8 @@
       "kind": "post",
       "slug": "the-knowledge-problem-and-the-illusion-of-delegation",
       "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
-      "title": "The Knowledge Problem and the Illusion of Delegation",
-      "hash": "c4cd807f51dd",
+      "title": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation",
+      "hash": "ce5d08278019",
       "in_degree": 10,
       "out_degree": 9,
       "links_out": [
@@ -36358,19 +36358,43 @@
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
       "to": "no-genius-can-solve-the-knowledge-problem",
       "rel": "points_to",
-      "label": "No genius can solve the knowledge problem"
+      "label": "没有天才能够解决知识问题"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "No Genius Can Solve the Knowledge Problem"
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
-      "label": "Lossless knowledge of an open field is incoherent"
+      "label": "开放场域中的无损知识不自洽"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless Knowledge of an Open Field Is Incoherent"
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
+      "label": "前台的寓言与缺席的因果倒置"
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -36382,19 +36406,43 @@
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
       "to": "the-irreducible-prior-of-decision-and-consequence",
       "rel": "points_to",
-      "label": "The irreducible prior of decision and consequence"
+      "label": "决策与后果不可分割的先验"
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
-      "label": "Sowell observed the surface problem"
+      "label": "索维尔的表象洞察与根因之偏"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "The Irreducible Prior of Decision and Consequence"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell Observed the Surface Problem"
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -36406,7 +36454,13 @@
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
@@ -48207,7 +48261,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "0cbdf0d9f7c2",
+        "hash": "3938b54453ed",
         "out_degree": 28
       },
       {
@@ -48216,7 +48270,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a1b326573aec",
+        "hash": "ab7bd3b30829",
         "out_degree": 393
       },
       {
@@ -48855,7 +48909,7 @@
         "from": "book:economics",
         "to": "the-knowledge-problem-and-the-illusion-of-delegation",
         "rel": "collects",
-        "label": "The Knowledge Problem and the Illusion of Delegation"
+        "label": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation"
       },
       {
         "from": "book:economics",
@@ -49143,7 +49197,7 @@
         "from": "book:index-of-premises",
         "to": "the-knowledge-problem-and-the-illusion-of-delegation",
         "rel": "collects",
-        "label": "The Knowledge Problem and the Illusion of Delegation"
+        "label": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation"
       },
       {
         "from": "book:index-of-premises",
@@ -51399,7 +51453,7 @@
         "from": "book:index-of-premises",
         "to": "the-knowledge-problem-and-the-illusion-of-delegation",
         "rel": "collects",
-        "label": "The Knowledge Problem and the Illusion of Delegation"
+        "label": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation"
       },
       {
         "from": "book:index-of-premises",
@@ -51933,7 +51987,7 @@
         "from": "book:index-of-premises",
         "to": "the-knowledge-problem-and-the-illusion-of-delegation",
         "rel": "collects",
-        "label": "The Knowledge Problem and the Illusion of Delegation"
+        "label": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation"
       },
       {
         "from": "book:index-of-premises",
@@ -52221,7 +52275,7 @@
         "from": "book:index-of-premises",
         "to": "the-knowledge-problem-and-the-illusion-of-delegation",
         "rel": "collects",
-        "label": "The Knowledge Problem and the Illusion of Delegation"
+        "label": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation"
       },
       {
         "from": "book:index-of-premises",
