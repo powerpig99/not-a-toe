@@ -257,12 +257,12 @@
      {
       "id": "2cYVsCHIQig",
       "shape": "16x9",
-      "note": "stuck processing, not yet deleted"
+      "note": "stuck processing, deleted 2026-10-15"
      },
      {
       "id": "6IDCGdgYsY8",
       "shape": "16x9",
-      "note": "stuck processing, not yet deleted"
+      "note": "stuck processing, deleted 2026-10-15"
      }
     ]
    },
@@ -278,7 +278,7 @@
      {
       "id": "zoxuZTL_oso",
       "shape": "9x16",
-      "note": "old vertical ZH, replaced by 16x9 on 2026-10-15; not yet deleted"
+      "note": "old vertical ZH, replaced by 16x9 on 2026-10-15; deleted 2026-10-15"
      }
     ]
    }
