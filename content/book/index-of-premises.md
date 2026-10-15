@@ -1091,11 +1091,11 @@ Keynesian economics asserts state deficits create net capital out of nothing; ev
 ### 自由放任资本主义 / Laissez-faire Capitalism
 `经济 / Economic`
 
-自由放任资本主义并不产生自由的个人；认识到自身能动性并不施加强制的自由个人，产生了后来被冠以此名的模式。
+自由放任资本主义把自愿生产与交易的秩序命名为一套经济制度，在描述一片不施强制的协作场域时有用；它在此到了边界：这个名称是事后的命名，不是引擎，不是这套制度产生自由的个人，而是认出自身能动、不发起强制的个人，产生了后来被冠以此名的样式。
 
-Laissez-faire capitalism does not produce free individuals; free individuals recognizing agency and refraining from force produce the pattern later labeled with that name.
+Laissez-faire capitalism names the order of voluntary production and trade as an economic system, which is of use in describing a field of coordination free of initiated force; it reaches its boundary in that the name comes after the fact and is no engine, since the system does not produce free individuals but individuals who recognize their own agency and initiate no force produce the pattern later given that name.
 
-→ [The Misallocation of Agency](../../posts/the-misallocation-of-agency/)
+→ [能动性的错配 / The Misallocation of Agency](../../posts/the-misallocation-of-agency/)
 
 ### 拉普拉斯钟表决定论 / Laplacian Clockwork Determinism
 `科学 / Scientific`
@@ -2920,11 +2920,11 @@ Macroeconomic models treat aggregate statistics as causal engines; aggregates ar
 ### 个人权利 / Individual Rights
 `哲学 / Philosophical`
 
-权利话语是在不侵犯的模式出现后为其命名；把名称当作引擎就颠倒了因果，自由始于每个心智对自身的认识与克制。
+个人权利的话语把不侵犯的样式表述为每个人所持有的权利，在描述这一样式的规律、在争议中援引它时有用；它在此到了边界：权利话语是在样式出现之后为它命名，把名称当作行为的引擎就颠倒了因果，自由始于每个心智对自身能动的认出与对强制的自愿克制。
 
-Rights-talk names the pattern of non-aggression after it emerges; treating the name as the engine reverses causality, since freedom begins as each mind's self-recognition and restraint.
+Rights-talk states the pattern of non-aggression as rights each person holds, which is of use in describing that pattern's regularities and invoking it in disputes; it reaches its boundary in that rights-talk names the pattern after it emerges, so treating the name as the engine of behavior reverses causality, since freedom begins as each Mind's recognition of its own agency and voluntary restraint from force.
 
-→ [The Misallocation of Agency](../../posts/the-misallocation-of-agency/)
+→ [能动性的错配 / The Misallocation of Agency](../../posts/the-misallocation-of-agency/)
 
 ### 个人主义与集体主义之争 / Individualism versus Collectivism
 `意识形态 / Ideological`
@@ -4315,11 +4315,11 @@ The pattern presumes collective inefficiency is a failure of a collective mind; 
 ### 国家保护权利 / State Protection of Rights
 `意识形态 / Ideological`
 
-要求制度性保障，把能动性移交给行政；它扩散责任、招来强制执行，并削弱维系自由秩序的自我节制的不侵犯。
+要求国家保护权利，把自由的保障托付给宪法、国家或市场装置，在划定一个社会对强制的公开承诺时有用；它在此到了边界：这一托付把能动从内在的自我认出移交给外在的行政，扩散责任，招来以执行为名的强制，并削薄维系自由秩序的自我节制的不侵犯。
 
-Demanding systemic guarantees relocates agency to administration; it diffuses responsibility, invites enforcement force, and thins the self-governed non-aggression that sustains a free order.
+The demand that the state protect rights entrusts the guarantee of freedom to a constitution, a state or a market apparatus, which is of use in setting out a society's public commitments about force; it reaches its boundary in that the entrusting moves agency from inner self-recognition to outer administration, diffuses responsibility, invites force in the name of enforcement, and thins the self-governed non-aggression that sustains a free order.
 
-→ [The Misallocation of Agency](../../posts/the-misallocation-of-agency/)
+→ [能动性的错配 / The Misallocation of Agency](../../posts/the-misallocation-of-agency/)
 
 ### 静态AI基准测试 / Static AI Benchmarks
 `技术 / Technological`

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T10:17:49.614Z",
+    "generated_at": "2026-10-15T10:53:15.460Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -296,7 +296,7 @@
       "content/posts/the-mirage-of-the-infinite-totality.md": "ed9e81aa570c",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "f89cd9fc108e",
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
-      "content/posts/the-misallocation-of-agency.md": "d69ef11bb4b8",
+      "content/posts/the-misallocation-of-agency.md": "0da1123e67af",
       "content/posts/the-model-never-becomes-a-second-edge.md": "be8e9087d341",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "67c15f066b11",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "70e144b47953",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "29e81f7ccedc",
+      "content/book/index-of-premises.md": "c7294d5c4ad4",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -414,13 +414,13 @@
       "content/book/morality.md": "379c67fbc0c1",
       "content/book/physics.md": "1f011286f992",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "bc36cf6046e0",
+      "content/book/state-and-collective.md": "134ad0b257f3",
       "content/book/success-and-the-self.md": "59aa878b03ef",
       "content/book/tools-and-progress.md": "fb71a7a1a375"
     },
     "stats": {
       "posts": 393,
-      "edges": 6204,
+      "edges": 6217,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -7404,8 +7404,8 @@
       "kind": "post",
       "slug": "the-misallocation-of-agency",
       "path": "content/posts/the-misallocation-of-agency.md",
-      "title": "The Misallocation of Agency",
-      "hash": "d69ef11bb4b8",
+      "title": "能动性的错配 / The Misallocation of Agency",
+      "hash": "0da1123e67af",
       "in_degree": 14,
       "out_degree": 13,
       "links_out": [
@@ -36724,7 +36724,25 @@
       "from": "the-misallocation-of-agency",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
       "label": "Individual choices as the only causal levers"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "专家经验作为参考而非替代"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "总在倾听者无法发起"
     },
     {
       "from": "the-misallocation-of-agency",
@@ -36742,7 +36760,31 @@
       "from": "the-misallocation-of-agency",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
+      "label": "价格是言说，理解是交易"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
       "label": "Price as utterance, understanding as trade"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "协调者的范畴错误"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "造物无法取代其源头"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "the-mind-that-statistics-cannot-reveal",
+      "rel": "points_to",
+      "label": "统计学无法揭示的心智"
     },
     {
       "from": "the-misallocation-of-agency",
@@ -36766,6 +36808,24 @@
       "from": "the-misallocation-of-agency",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
+      "label": "赋权确立权力的集中"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "自由即地基"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
       "label": "Empowerment establishes the centralization of power"
     },
     {
@@ -36784,6 +36844,24 @@
       "from": "the-misallocation-of-agency",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "道德语言作为投影"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "目的性的评判与认知的缺省状态"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
       "label": "Causality stays at the edge that steers"
     },
     {
@@ -36796,7 +36874,7 @@
       "from": "the-misallocation-of-agency",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition"
+      "label": "Judging by Purpose and the Default State of Cognition"
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
@@ -47124,7 +47202,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "29e81f7ccedc",
+        "hash": "c7294d5c4ad4",
         "out_degree": 393
       },
       {
@@ -47214,7 +47292,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "bc36cf6046e0",
+        "hash": "134ad0b257f3",
         "out_degree": 30
       },
       {
@@ -48789,7 +48867,7 @@
         "from": "book:index-of-premises",
         "to": "the-misallocation-of-agency",
         "rel": "collects",
-        "label": "The Misallocation of Agency"
+        "label": "能动性的错配 / The Misallocation of Agency"
       },
       {
         "from": "book:index-of-premises",
@@ -50175,7 +50253,7 @@
         "from": "book:index-of-premises",
         "to": "the-misallocation-of-agency",
         "rel": "collects",
-        "label": "The Misallocation of Agency"
+        "label": "能动性的错配 / The Misallocation of Agency"
       },
       {
         "from": "book:index-of-premises",
@@ -51177,7 +51255,7 @@
         "from": "book:index-of-premises",
         "to": "the-misallocation-of-agency",
         "rel": "collects",
-        "label": "The Misallocation of Agency"
+        "label": "能动性的错配 / The Misallocation of Agency"
       },
       {
         "from": "book:index-of-premises",
@@ -53133,7 +53211,7 @@
         "from": "book:state-and-collective",
         "to": "the-misallocation-of-agency",
         "rel": "collects",
-        "label": "The Misallocation of Agency"
+        "label": "能动性的错配 / The Misallocation of Agency"
       },
       {
         "from": "book:state-and-collective",
