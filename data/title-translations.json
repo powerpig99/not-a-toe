@@ -353,10 +353,6 @@
       "title_zh": "主权、信念与规制结构的生成",
       "subtitle_zh": "个人主权无法被委托；生成自律组织与政府的，是相信它可以被委托的那份信念的集体表达。"
     },
-    "not-predicting-is-predicting-without-awareness": {
-      "title_zh": "不预测是没有觉察的预测",
-      "subtitle_zh": "拒绝预测仍是一次预测；落下的只是对选择仍在继续的觉察。"
-    },
     "restriction-is-a-selective-tax": {
       "title_zh": "限制是选择性的税",
       "subtitle_zh": "对他人前进的压制，只拖慢接受它的人，而最重的是执行它的人：他们是这道封印最坚定的信徒。"
@@ -422,6 +418,26 @@
     },
     "context-engineering-essay": {
       "title_zh": "层层皆是语境"
+    },
+    "closed-reality-in-the-pursuit-of-serendipity": {
+      "title_zh": "追求机缘中的封闭现实",
+      "subtitle_zh": "开放不是清空日程造出来的，而是不把任何计划，包括没有计划的计划，保留为固定的参照。"
+    },
+    "only-if-it-is-not-kept-empty": {
+      "title_zh": "只要它不被保持为空",
+      "subtitle_zh": "空是暂时握持之内的剩余容量，不是一种更可取的永久状态，也不是形式的反面。"
+    },
+    "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference": {
+      "title_zh": "基本面的悖论是决策中参照的不自觉切换",
+      "subtitle_zh": "基本面已经退出了正在起作用的范围，回顾的框架却仍把它们当作已知。"
+    },
+    "the-paradoxical-nature-of-bystander-insights": {
+      "title_zh": "旁观者洞察的悖论",
+      "subtitle_zh": "一个只属于某一次观察切口的区分，只有在这个切口被保留为本体时，才会被当作活动的硬性界限。"
+    },
+    "the-utility-men-of-progress": {
+      "title_zh": "进步的多面手",
+      "subtitle_zh": "进步是一批批临时解题者的反复工作；承认、抵抗与集体的吸收，都是一片永不完结的开放场域上的滞后。"
     }
   }
 }

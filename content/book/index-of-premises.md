@@ -209,11 +209,11 @@ Hassabis proposes discovering novel physics as the benchmark for AGI; useful as 
 ### 德里克·西弗斯 / Derek Sivers
 `成功学 / Self-Help`
 
-西弗斯“只建需要证明的东西”的方法，仍是预测接触胜过推想；它在他人预测过的形式中挑选，而能负担这种等待，来自他自己早先的预测。
+西弗斯“只添加需要证明了的东西”的方法，在防范事先推想的某些错误时有用；它在此到了边界：它仍是一次预测，预测接触胜过推想，它在别人早已预测出的形式中挑选，而能负担这种等待，来自他人仍在继续的预测与他自己早先被读作成功的预测。
 
-Sivers' build-only-what-need-proves method is still prediction that contact beats speculation; it selects among forms others predicted, and its affordability is fruit of his own earlier predicting.
+Sivers' method of adding only what need has proven is of use in guarding against certain errors of prior speculation; it reaches its boundary in that it is still a prediction that contact beats speculation, it selects among forms others already predicted, and the ability to afford the waiting is fruit of others' continuing predictions and of his own earlier predicting read as success.
 
-→ [Not Predicting is Predicting without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
+→ [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
 
 ### 埃隆·马斯克 / Elon Musk
 `技术 / Technological`
@@ -488,11 +488,11 @@ Taleb formalizes convex payoffs under uncertainty; invaluable for risk engineeri
 ### 纳瓦尔·拉维肯特 / Naval Ravikant
 `成功学 / Self-Help`
 
-纳瓦尔融合非二元哲学与现代杠杆学；利于个人安顿，但将界限感视作病态却否定了认知区分的必要性。
+纳瓦尔把非二元哲学与现代的杠杆学说结合起来，强调空着的日程与最少的承诺，在帮助个人安顿、留出可选性时有用；它在此到了边界：把分离当作病，否认了区分在运作中的必要，而永久停在空的那一面，本身也成了一次不再被审视的预测。
 
-Naval blends Advaita non-duality with modern leverage; persuasive for personal peace, his framing of separation as pathology denies the functional reality of boundaries.
+Naval blends Advaita non-duality with a modern account of leverage and stresses the empty calendar and minimal commitments, which is of use for personal peace and for keeping optionality; it reaches its boundary in that treating separation as a disease denies the working need for distinction, and staying permanently on the empty face becomes a prediction no longer examined.
 
-→ [Separation Isn't the Disease](../../posts/naval-separation-analysis/) · [Not Predicting is Predicting without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
+→ [Separation Isn't the Disease](../../posts/naval-separation-analysis/) · [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
 
 ### 尼古拉·尚福尔 / Nicolas Chamfort
 `哲学 / Philosophical`
@@ -3343,11 +3343,11 @@ Workflow automation treats agents as sequential task runners; a method agent enf
 ### 极简主义与延迟承诺 / Minimalism and Deferred Commitment
 `成功学 / Self-Help`
 
-保持近乎空的碗能防范错误预测；用处来自容量与内容的关系，永久的空因此成为新的约束，预先限定了能出现的东西。
+把碗保持在近乎空的状态，延迟每一项承诺，在防范错误的预测时有用；它在此到了边界：用处来自容量与内容之间的关系，永久的空因此成了新的约束，预先收窄了能够出现的充盈。
 
-Keeping the bowl near-empty protects against mistaken predictions; usefulness comes from capacity plus content, so permanent emptiness becomes a new constraint that preselects what can emerge.
+Keeping the bowl near-empty and deferring every commitment is of use in guarding against mistaken predictions; it reaches its boundary in that usefulness comes from the relation of capacity and content, so permanent emptiness becomes a new constraint that narrows in advance the fullness that can emerge.
 
-→ [Not Predicting is Predicting without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
+→ [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
 
 ### 最低工资 / Minimum Wage
 `经济 / Economic`
