@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T20:05:47.609Z",
+    "generated_at": "2026-10-15T20:14:43.114Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -135,7 +135,7 @@
       "content/posts/not-a-toe-rewrite.md": "4f8f53b8f5bb",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "8bfa5625bd35",
       "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
-      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b354e525a5d3",
+      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "6d86ead63c69",
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "cb7f119c5157",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "9f63db2c2dfd",
@@ -402,9 +402,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b7511073fe2e",
       "content/book/causality.md": "b8d9371a7e62",
-      "content/book/consciousness.md": "b829238e63a6",
+      "content/book/consciousness.md": "525b07ca41c4",
       "content/book/economics.md": "3938b54453ed",
-      "content/book/index-of-premises.md": "d5aa6ffaa752",
+      "content/book/index-of-premises.md": "838211563048",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "c519a684d389",
       "content/book/life-and-statistics.md": "49a199864e1e",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6400,
+      "edges": 6407,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -3708,8 +3708,8 @@
       "kind": "post",
       "slug": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "path": "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md",
-      "title": "On Closed Systems, Open Minds, and the Limits of Proof",
-      "hash": "b354e525a5d3",
+      "title": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof",
+      "hash": "6d86ead63c69",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -21970,43 +21970,85 @@
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "selection-contradiction-and-open-reality",
       "rel": "points_to",
-      "label": "Selection, contradiction, and open reality"
+      "label": "选择、矛盾与开放的现实"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, Contradiction, and Open Reality"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "Consciousness never appears as data among data"
+      "label": "意识从不作为数据出现在数据之中"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "what-cannot-be-kept",
       "rel": "points_to",
-      "label": "What cannot be kept"
+      "label": "留不住的"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
-      "label": "Advocating openness of others is a desire for closure of the self"
+      "label": "要求他人开放是对自我封闭的渴望"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "what-cannot-be-kept",
+      "rel": "points_to",
+      "label": "What Cannot Be Kept"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating Openness of Others Is a Desire for Closure of the Self"
     },
     {
       "from": "on-education",
@@ -48282,7 +48324,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "b829238e63a6",
+        "hash": "525b07ca41c4",
         "out_degree": 38
       },
       {
@@ -48300,7 +48342,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d5aa6ffaa752",
+        "hash": "838211563048",
         "out_degree": 393
       },
       {
@@ -48717,7 +48759,7 @@
         "from": "book:consciousness",
         "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
         "rel": "collects",
-        "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+        "label": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof"
       },
       {
         "from": "book:consciousness",
@@ -49485,7 +49527,7 @@
         "from": "book:index-of-premises",
         "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
         "rel": "collects",
-        "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+        "label": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof"
       },
       {
         "from": "book:index-of-premises",
@@ -49503,7 +49545,7 @@
         "from": "book:index-of-premises",
         "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
         "rel": "collects",
-        "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+        "label": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof"
       },
       {
         "from": "book:index-of-premises",
@@ -49515,7 +49557,7 @@
         "from": "book:index-of-premises",
         "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
         "rel": "collects",
-        "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+        "label": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof"
       },
       {
         "from": "book:index-of-premises",
@@ -49875,7 +49917,7 @@
         "from": "book:index-of-premises",
         "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
         "rel": "collects",
-        "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+        "label": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof"
       },
       {
         "from": "book:index-of-premises",
@@ -50097,7 +50139,7 @@
         "from": "book:index-of-premises",
         "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
         "rel": "collects",
-        "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+        "label": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof"
       },
       {
         "from": "book:index-of-premises",

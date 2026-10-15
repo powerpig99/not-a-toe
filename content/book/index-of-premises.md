@@ -569,11 +569,11 @@ Rubin treats artistic creation as tuning into cosmic resonance; wonderful for un
 ### 罗杰·彭罗斯 / Roger Penrose
 `科学 / Scientific`
 
-彭罗斯从人对哥德尔定理的理解推出意识不可计算；该推论预设了以单一系统看待心智，没有触及证明在主体之间的界限。
+彭罗斯从人对哥德尔定理的理解推出意识不可计算，在追问心智是否超出算法时有用；它在此到了边界：该推论以单一系统看待心智，没有触及证明在心智之间的界限。
 
-Penrose infers non-computable consciousness from human understanding of Gödel; the inference presumes a single-system framing of mind, leaving untouched the intersubjective limit of proof.
+Penrose's inference from human understanding of Gödel to non-computable consciousness is of use in asking whether mind exceeds algorithm; it reaches its boundary in that it frames mind as a single system and leaves untouched the limit of proof between Minds.
 
-→ [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
+→ [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
 
 ### 罗宾·汉森 / Robin Hanson
 `科学 / Scientific`
@@ -587,11 +587,11 @@ Hanson formulated the Great Filter hypothesis to account for cosmic silence and 
 ### 萨宾·霍森菲尔德 / Sabine Hossenfelder
 `科学 / Scientific`
 
-霍森菲尔德认为理解哥德尔是可形式化的元推理，无需不可计算性；在其前提内成立，却只处理单一系统能否走出封闭。
+霍森菲尔德认为理解哥德尔是可以形式化的元推理，不需要不可计算性，在拆解彭罗斯论证的技术步骤时有用；它在此到了边界：它在前提之内成立，却只处理单一系统能否走出封闭。
 
-Hossenfelder holds understanding Gödel is formalizable meta-reasoning, so needs no non-computability; valid within her premise, it still addresses only whether a single system steps outside closure.
+Hossenfelder's view that understanding Gödel is formalizable meta-reasoning needing no non-computability is of use in taking apart the technical steps of Penrose's argument; it reaches its boundary in that, valid within its premise, it addresses only whether a single system can step outside closure.
 
-→ [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
+→ [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
 
 ### 史蒂夫·乔布斯 / Steve Jobs
 `技术 / Technological`
@@ -605,11 +605,11 @@ Jobs demanded product perfection by rejecting conventional industry timelines; i
 ### 斯图尔特·哈梅罗夫 / Stuart Hameroff
 `科学 / Scientific`
 
-哈梅罗夫把理解视为规则之外的行动，由量子客观还原提供；在该本体论下自洽，却止步于单个心智，不问开放如何向另一心智证明。
+哈梅罗夫把理解看作规则之外的行动，由量子客观还原提供，在把体验放回物理讨论时有用；它在此到了边界：在该本体论下自洽，却止步于单个心智，不问开放如何向另一个心智证明。
 
-Hameroff treats understanding as an act outside rules, supplied by quantum objective reduction; coherent given that ontology, it stops at one mind and never asks how openness is demonstrated to another.
+Hameroff's treatment of understanding as an act outside rules, supplied by quantum objective reduction, is of use in bringing experience back into the physical discussion; it reaches its boundary in that, coherent within that ontology, it stops at one mind and does not ask how openness is demonstrated to another.
 
-→ [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
+→ [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
 
 ### 托马斯·内格尔 / Thomas Nagel
 `哲学 / Philosophical`
@@ -992,11 +992,11 @@ Machine learning narratives treat optimization as an intelligent agent seeking t
 ### 哥德尔不完备定理 / Gödel's Incompleteness Theorems
 `数学 / Mathematical`
 
-哥德尔证明任何包含算术的无矛盾系统都无法在内部证明自身一致；形式公理系统注定无法达致孤立自足的真理封闭。
+哥德尔证明任何一致且包含算术的形式系统都有它无法证明的真命题，也无法在内部证明自身一致，这在精确说明形式系统的界限时有用；它在此到了边界：它被读成心智本身的证明时，同一个限制又在系统之外、在心智之间重现。
 
-Gödel proves any consistent formal system containing arithmetic cannot prove its own consistency; formal axiomatic structures cannot achieve closed, self-contained truth.
+Gödel proves that any consistent formal system containing arithmetic has true statements it cannot prove and cannot prove its own consistency, which is of use in stating the limits of formal systems precisely; it reaches its boundary in that, when read as a proof about mind itself, the same limit reappears outside the system, between Minds.
 
-→ [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
+→ [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
 
 ### 成长型思维 / Growth Mindset
 `成功学 / Self-Help`
@@ -1262,11 +1262,11 @@ Rationalist debate assumes presenting logical counter-arguments changes convicti
 ### 协调客观还原理论 / Orchestrated Objective Reduction (Orch-OR)
 `科学 / Scientific`
 
-协调客观还原理论假定波函数坍缩为意识提供所需的不可计算性，把测量问题与困难问题合并；它仍是对单一系统开放性的物理解释。
+协调客观还原理论假定波函数坍缩为意识提供所需的不可计算性，把测量问题与困难问题合在一起，在为意识寻找物理机制时有用；它在此到了边界：它仍是对单一系统开放性的物理说明。
 
-Orch-OR assumes wavefunction collapse supplies the non-computability consciousness needs, joining measurement and hard problems; it remains a physical account of one system's openness.
+Orch-OR assumes wavefunction collapse supplies the non-computability consciousness needs, joining the measurement problem and the hard problem, which is of use in seeking a physical mechanism for consciousness; it reaches its boundary in that it remains a physical account of one system's openness.
 
-→ [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
+→ [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
 
 ### 泛心论 / Panpsychism
 `哲学 / Philosophical`

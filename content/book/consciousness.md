@@ -29,7 +29,7 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [Pessimism Is the Shadow of Optimism](../../posts/pessimism-is-the-shadow-of-optimism/)
 - [The Hard Problem of Consciousness Is Consistent with Our Ability to Learn](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/)
 - [Consciousness Never Appears as Data Among Data](../../posts/consciousness-never-appears-as-data-among-data/)
-- [On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
+- [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
 - [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
 - [稳定与溢出 / Stability and Excess](../../posts/stability-and-excess/)
 - [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)

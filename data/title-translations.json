@@ -385,10 +385,6 @@
     "nobody-has-seen-anything-yet": {
       "title_zh": "还没有人见过任何东西"
     },
-    "on-closed-systems-open-minds-and-the-limits-of-proof": {
-      "title_zh": "论封闭系统、开放心智与证明的界限",
-      "subtitle_zh": "没有哪种关于意识的封闭描述，能传递意识本身所是的那份开放。"
-    },
     "hardness-is-not-inherent-in-the-action": {
       "title_zh": "难度不在行动本身",
       "subtitle_zh": "难与易不是行为的属性，它们只产生于对行动需要什么、预期产生什么结果的不同假设。"
@@ -465,6 +461,9 @@
     "the-irreducible-prior-of-decision-and-consequence": {
       "title_zh": "决策与后果不可分割的先验",
       "subtitle_zh": "离开心智如何感知它所做的选择与它所承受的结果之间的统一，就没有什么独立的断裂。"
+    },
+    "what-cannot-be-kept": {
+      "title_zh": "留不住的"
     }
   }
 }
