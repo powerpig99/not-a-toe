@@ -239,10 +239,6 @@
       "title_zh": "抽象、边界与现实的移动前沿",
       "subtitle_zh": "成功的感知是一次有损的界定；把它当作场的结构，就把残余冻结起来，仿佛它封住了那条越过每一份清单继续向前的边缘。"
     },
-    "selection-contradiction-and-open-reality": {
-      "title_zh": "选择、矛盾与开放的现实",
-      "subtitle_zh": "每一次选择都生成一个自相矛盾，即一份描述与超出它的东西之间有生产力的错配。"
-    },
     "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind": {
       "title_zh": "没有外部：跃迁、闭环与心智不可复制的自主",
       "subtitle_zh": "跃迁是局部的延续；只有心智闭合检验它们的回路，而这个回路没有一个可以从中把它重新构成的外部。"
@@ -416,6 +412,13 @@
     "the-limitation-is-doing-work": {
       "title_zh": "限制正在做功",
       "subtitle_zh": "把某物标为“AI 生成”，否认了使 AI 成为可能的东西，也否认了其间的差别。"
+    },
+    "nobody-has-seen-anything-yet": {
+      "title_zh": "还没有人见过任何东西"
+    },
+    "on-closed-systems-open-minds-and-the-limits-of-proof": {
+      "title_zh": "论封闭系统、开放心智与证明的界限",
+      "subtitle_zh": "没有哪种关于意识的封闭描述，能传递意识本身所是的那份开放。"
     }
   }
 }

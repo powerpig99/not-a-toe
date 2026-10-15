@@ -13,7 +13,7 @@ The essays in this part examine the twin paradox, quantum measurement, the arrow
 ## 篇目 / Essays
 
 - [The Minimizing Path](../../posts/minimizing-path/)
-- [Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/)
+- [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/)
 - [自由的测不准 / The Uncertainty of Freedom](../../posts/zi-you-de-ce-bu-zhun/)
 - [宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena](../../posts/the-generative-atlas-of-macroscopic-phenomena/)
 - [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)

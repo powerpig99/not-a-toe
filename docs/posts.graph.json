@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T12:47:36.666Z",
+    "generated_at": "2026-10-15T13:47:05.713Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -171,7 +171,7 @@
       "content/posts/restriction-is-a-selective-tax.md": "41418edaaaad",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
-      "content/posts/selection-contradiction-and-open-reality.md": "4d027d2d4957",
+      "content/posts/selection-contradiction-and-open-reality.md": "093e86a3d9ee",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "026feb5866bd",
       "content/posts/self-rl-for-humans.md": "9c6e189aabfd",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "d5550db9b19b",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "980e057c3c88",
-      "content/book/index-of-premises.md": "958818aeaf98",
+      "content/book/index-of-premises.md": "c6b38321075d",
       "content/book/intelligence.md": "eb59e8b28085",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -412,7 +412,7 @@
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "d52dd5b06929",
       "content/book/morality.md": "379c67fbc0c1",
-      "content/book/physics.md": "1f011286f992",
+      "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "134ad0b257f3",
       "content/book/success-and-the-self.md": "a8c37abf1220",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6274,
+      "edges": 6282,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -4652,8 +4652,8 @@
       "kind": "post",
       "slug": "selection-contradiction-and-open-reality",
       "path": "content/posts/selection-contradiction-and-open-reality.md",
-      "title": "Selection, Contradiction, and Open Reality",
-      "hash": "4d027d2d4957",
+      "title": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality",
+      "hash": "093e86a3d9ee",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -25144,19 +25144,43 @@
       "from": "selection-contradiction-and-open-reality",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动前沿"
     },
     {
       "from": "selection-contradiction-and-open-reality",
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
-      "label": "Causality and the irreducible prior"
+      "label": "因果与不可化约的先在"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the Irreducible Prior"
     },
     {
       "from": "selection-contradiction-and-open-reality",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity obscures: emergence as the act of Mind"
+      "label": "复杂性遮蔽了涌现"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "nobody-has-seen-anything-yet",
+      "rel": "points_to",
+      "label": "还没有人见过任何东西"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures"
     },
     {
       "from": "selection-contradiction-and-open-reality",
@@ -25168,25 +25192,49 @@
       "from": "selection-contradiction-and-open-reality",
       "to": "the-generative-contradiction",
       "rel": "points_to",
-      "label": "The generative contradiction"
+      "label": "生成性的矛盾"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The Generative Contradiction"
     },
     {
       "from": "selection-contradiction-and-open-reality",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "selection-contradiction-and-open-reality",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
-      "label": "Potential infinity and the temporary closures of mathematical thought"
+      "label": "潜无限与数学思维的暂时闭合"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
     },
     {
       "from": "selection-contradiction-and-open-reality",
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
-      "label": "On closed systems, open minds, and the limits of proof"
+      "label": "论封闭系统、开放心智与证明的界限"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "On Closed Systems, Open Minds, and the Limits of Proof"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
@@ -47544,7 +47592,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "958818aeaf98",
+        "hash": "c6b38321075d",
         "out_degree": 393
       },
       {
@@ -47616,7 +47664,7 @@
         "slug": "physics",
         "path": "content/book/physics.md",
         "title": "物理即定律的迷思 / The Myth of Physics Is the Law",
-        "hash": "1f011286f992",
+        "hash": "26d82e9eb69f",
         "out_degree": 22
       },
       {
@@ -48981,7 +49029,7 @@
         "from": "book:index-of-premises",
         "to": "selection-contradiction-and-open-reality",
         "rel": "collects",
-        "label": "Selection, Contradiction, and Open Reality"
+        "label": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -49179,7 +49227,7 @@
         "from": "book:index-of-premises",
         "to": "selection-contradiction-and-open-reality",
         "rel": "collects",
-        "label": "Selection, Contradiction, and Open Reality"
+        "label": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -51153,7 +51201,7 @@
         "from": "book:index-of-premises",
         "to": "selection-contradiction-and-open-reality",
         "rel": "collects",
-        "label": "Selection, Contradiction, and Open Reality"
+        "label": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -53295,7 +53343,7 @@
         "from": "book:physics",
         "to": "selection-contradiction-and-open-reality",
         "rel": "collects",
-        "label": "Selection, Contradiction, and Open Reality"
+        "label": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality"
       },
       {
         "from": "book:physics",

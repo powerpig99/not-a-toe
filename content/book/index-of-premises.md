@@ -866,11 +866,11 @@ Presumes conscious awareness arises mechanistically from non-conscious material 
 ### 熵引力 / Entropic Gravity
 `科学 / Scientific`
 
-从熵或量子信息推导引力，把质量读作高度集中的信息；它自洽且富有成效，却仍是一种选择，其临时闭合可用，但不免于重新诠释。
+从熵或量子信息推导引力，把质量读作集中到足以登记为物质的信息，把引力读作这种集中的统计趋势，在复现熟悉的极限、重新诠释引力的微弱时有用；它在此到了边界：它仍是一次选择，舍弃了一份无穷的细节余量，它的临时封闭性可用，却不免于重新诠释。
 
-Deriving gravity from entropy or quantum information reads mass as concentrated information; coherent and productive, it remains a selection whose temporary closure is usable but not exempt from reinterpretation.
+Deriving gravity from entropy or quantum information reads mass as information concentrated enough to register as matter and gravity as a statistical tendency of that concentration, which is of use in recovering familiar limits and reinterpreting gravity's weakness; it reaches its boundary in that it remains a selection that discards an unbounded remainder of detail, its temporary closure usable but not exempt from reinterpretation.
 
-→ [Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/)
+→ [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/)
 
 ### 期望效用理论 / Expected Utility Theory
 `经济 / Economic`
@@ -1055,11 +1055,11 @@ Treating overstretch, fiscal exhaustion and institutional decay as lawlike cause
 ### 信息本体优先论 / Information as Ontologically Primary
 `哲学 / Philosophical`
 
-以信息或物质为本，或视二者为双面，各自都把出发前提豁免于它施加给对手的审视，由此既有自洽，也留下残余的不一致。
+以信息为本、以物质为本，或视二者为双面，在严谨地发展一种描述、取得经验上的用处时有用；它在此到了边界：每一种立场都把自己的出发前提豁免于它施加给对手的审视，一种选择性的描述便呈现得仿佛并非选择，既有自洽的外观，也留下残余的不一致。
 
-Taking information or matter as primary, or both as dual aspects, exempts each position's starting premise from the scrutiny it applies to rivals, producing both coherence and residual incoherence.
+Taking information or matter as primary, or both as dual aspects, is of use in developing a description with rigor and empirical use; it reaches its boundary in that each position exempts its own starting premise from the scrutiny it applies to rivals, so a selective description presents itself as not selective, producing both the appearance of coherence and residual incoherence.
 
-→ [Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [信息是什么 / What Information Is](../../posts/what-information-is/)
+→ [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [信息是什么 / What Information Is](../../posts/what-information-is/)
 
 ### 制度决定论 / Institutional Determinism
 `经济 / Economic`
@@ -3712,11 +3712,11 @@ Saying an essay was "written by AI", defining authorship by token share, gauging
 ### 物理视界与奇点是实在的边缘 / Physical Horizons and Singularities as Edges of Reality
 `科学 / Scientific`
 
-测量极限、宇宙视界、事件视界与奇点，标示当前模型不再可靠之处；它们是临时描述的边缘，而非已被证明的场的边缘。
+把测量极限、宇宙视界、事件视界与奇点读作实在的边缘，在标示当前模型于何处不再可靠时有用；它在此到了边界：它们是临时描述的边缘，并非已被证明的场的边缘，超出描述的东西在任何最终的意义上都无法被确认或否认。
 
-Measurement limits, cosmological and event horizons, and singularities mark where current models stop being reliable; they are edges of temporary descriptions, not demonstrated edges of the field.
+Reading measurement limits, cosmological and event horizons, and singularities as edges of reality is of use in marking where current models stop being reliable; it reaches its boundary in that they are edges of temporary descriptions, not demonstrated edges of the field, and what exceeds description cannot be confirmed or disconfirmed in any final sense.
 
-→ [Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
+→ [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
 
 ### 肉体永生 / Physical Immortality
 `哲学 / Philosophical`

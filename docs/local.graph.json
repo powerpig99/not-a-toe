@@ -3,12 +3,12 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-10-15T12:47:36.778Z",
+    "generated_at": "2026-10-15T13:47:05.813Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
-      "content/posts/README.md": "ec39893daf32",
-      "docs/essay-format.md": "83e146f37904",
+      "content/posts/README.md": "1ae5087e2ced",
+      "docs/essay-format.md": "1b9cf057e71b",
       "docs/export-for-substack.md": "9a2df9f4dfab",
       "docs/export-for-x-article.md": "55ab96853de2",
       "export/README.md": "c0a8866a454d",
@@ -19,7 +19,7 @@
       "scripts/export-absolute-md.mjs": "3bbb08fdfc89",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "6ac66454491e"
+      "MEMORY.md": "38d31159e51e"
     },
     "stats": {
       "posts": 393,
@@ -181,7 +181,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "6ac66454491e",
+      "hash": "38d31159e51e",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -308,7 +308,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "83e146f37904",
+      "hash": "1b9cf057e71b",
       "summary": "**Reference for site scaffold** — not absolute ground over the operator’s draft.",
       "headings": [
         "Essay Formatting Guide",
@@ -361,7 +361,7 @@
       "path": "content/posts/README.md",
       "owns": "authoring",
       "exists": true,
-      "hash": "ec39893daf32",
+      "hash": "1ae5087e2ced",
       "summary": "Living guide for essays in this folder.",
       "headings": [
         "Posts — authoring contract",
