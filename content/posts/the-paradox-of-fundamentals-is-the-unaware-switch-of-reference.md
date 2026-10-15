@@ -4,7 +4,7 @@
 
 自我区分的活动发生着，无因，不息。称它为心智：已经在进行中的观察者，它的每一个动作都是一次区分。注意是有限的；在负荷之下，那些曾经生成这片场域的较早的区分，退出了活跃的范围。
 
-Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Attention is finite; under load, the older distinctions that once generated the field fall out of the active span.
+Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Attention is finite; under load, the earlier distinctions that once generated the field fall out of the active span.
 
 常见的观察是：几乎所有从业者都认为自己懂基本面，几乎从不把它们完整地当作行动的原则来实践，而大多数时候为了此刻想相信的东西把它们搁在一边。悖论的样子，就是那一次没有被察觉的切换；被登记为悖论的是这次切换，而不是正在被决定的那片场域。
 
@@ -14,13 +14,13 @@ The common observation is that almost all practitioners take themselves to know 
 
 几乎所有从业者都认为自己懂基本面。几乎从来没有人把这些区分完整地当作真正支配决策的原则来实践。大多数时候，它们被搁在一边，让位于个人此刻想相信的东西。一个活着的仓位、一个跳动的报价、行情上流传的一个叙事占据了这个范围；剩余风险、机会成本、叙事溢价与净资产之间的差距，并不是正在起作用的参照。事后在复盘里、课堂上、交谈中被问起，同一个人从回顾的框架作答：这些区分当然知道。两次登记被当成一种连续的能力。金融只是典型的那一面；凡是一套知识在回顾中被肯定、却从正在做决定的范围里掉出去的地方，都能看到同样的情形。
 
-Almost all practitioners think they know the fundamentals. Almost never are those distinctions practiced fully as the principle actually governing the decision. Most of the time they are set aside in favor of what the individual wants to believe at the moment. A live position, a moving price, a narrative circulating on the tape occupies the span; residual risk, opportunity cost, and the gap between narrative premium and net asset are not the reference that is operating. Asked later, in review, in a classroom, in conversation, the same individual answers from the retrospective frame: of course those distinctions are known. The two registrations are treated as one continuous competence. Finance is only the typical face; the same observation appears wherever a body of knowledge is affirmed in retrospect and dropped from the span that is deciding.
+Almost all practitioners think they know the fundamentals. Almost never are those distinctions practiced fully as the principle actually governing the decision. Most of the time they are set aside in favor of what the individual wants to believe at the moment. A live position, a moving price or a narrative circulating on the tape occupies the span; residual risk, opportunity cost, and the gap between narrative premium and net asset are not the reference that is operating. Asked later, in review, in a classroom, in conversation, the same individual answers from the retrospective frame: of course those distinctions are known. The two registrations are treated as one continuous competence. Finance is only the typical face; the same observation appears wherever a body of knowledge is affirmed in retrospect and dropped from the span that is deciding.
 
-## 二、 基本面是退出范围的较早的区分 / 2. Fundamentals Are Older Distinctions That Fall Out of the Span
+## 二、 基本面是退出范围的较早的区分 / 2. Fundamentals Are Earlier Distinctions That Fall Out of the Span
 
 基本面就是那些较早的区分：复利、机会成本、剩余风险、激励的对齐、时间价值的不对称、叙事溢价与净资产之间的差距。初次画出时，它们是边缘；后来成了可用的残余；当这个范围被填满，它们便退出了活跃的重新呈现。[遗忘的脚手架](../the-scaffolding-we-forget/)追的是同一种退出：工具必须离开递归，进一步的区分才能落地。这里的退出，是正在起作用的参照发生了切换。
 
-Fundamentals are those older distinctions: compounding, opportunity cost, residual risk, alignment of incentives, the asymmetry of time value, the gap between narrative premium and net asset. When first drawn they were the edge; later they became available residue; when the span fills they fall out of active re-rendering. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces the same drop-out, where the instrument has to leave recursion so that further distinguishing can land. Here the drop-out is the switch of which reference is actually operating.
+Fundamentals are those earlier distinctions: compounding, opportunity cost, residual risk, alignment of incentives, the asymmetry of time value, the gap between narrative premium and net asset. When first drawn they were the edge; later they became available residue; when the span fills they fall out of active re-rendering. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces the same drop-out, where the instrument has to leave recursion so that further distinguishing can land. Here the drop-out is the switch of which reference is actually operating.
 
 ## 三、 回顾的框架仍回答“当然” / 3. The Retrospective Frame Still Answers "Of Course"
 
@@ -98,11 +98,11 @@ flowchart TD
 
 The switch between the two frames happens without awareness. From outside it looks like contradiction: the same person who affirms the fundamentals proceeds as if they did not constrain the choice. From inside there is no contradiction, only two different retained measures, each coherent where it is held, treated as continuous. [Openness Is Consistency](../openness-is-consistency/) traces the surface contradiction that appears when a finite hold is forced to ground what only continues; here the finite hold is the image of already knowing, forced to cover the frame that is actually deciding. [Not Predicting Is Predicting Without Awareness](../not-predicting-is-predicting-without-awareness/) traces the same switch, where the operating reference is already choosing while the retained image is one of not predicting.
 
-## 六、 知识在场，起作用的参照不在 / 6. Knowledge Is Present; the Operating Reference Is Not
+## 六、 知识在场，却不是起作用的参照 / 6. Knowledge Is Present, but Not as the Operating Reference
 
-这种错配就是机制。逻辑上的不自洽之所以出现，是因为决策被拿去对照一个已经不再持有那些本会塑造它的区分的框架。剩余风险、机会成本、激励的对齐不再是活跃的轴，它们作为给定的东西起作用；起作用的是此刻偏爱的信念。决策变坏，不是因为知识缺席，而是因为在行动的那一刻，知识已经不是正在起作用的参照。
+这种错配就是机制。逻辑上的不自洽之所以出现，是因为决策是对照一个已经不再持有那些本会塑造它的区分的框架做出的，事后又被放到仍宣称持有这些区分的回顾框架旁边。剩余风险、机会成本、激励的对齐不再是活跃的轴，它们作为给定的东西起作用；起作用的是此刻偏爱的信念。决策变坏，不是因为知识缺席，而是因为在行动的那一刻，知识已经不是正在起作用的参照。
 
-The mismatch is the mechanism. Logical incoherence appears because the decision is measured against a frame that no longer holds the distinctions that would have shaped it. Residual risk, opportunity cost and the alignment of incentives are no longer active axes; they function as given, and what operates is the preferred belief of the moment. Decisions deteriorate not because the knowledge is absent but because, at the moment of action, the knowledge is no longer the operating reference.
+The mismatch is the mechanism. Logical incoherence appears because the decision was measured against a frame that no longer held the distinctions that would have shaped it, and is then set beside the retrospective frame that still claims them. Residual risk, opportunity cost and the alignment of incentives are no longer active axes; they function as given, and what operates is the preferred belief of the moment. Decisions deteriorate not because the knowledge is absent but because, at the moment of action, the knowledge is no longer the operating reference.
 
 ## 七、 任何推进的负荷下都有同样的退出 / 7. The Same Drop-Out Under Any Advancing Load
 
@@ -114,4 +114,4 @@ The same pattern appears wherever attention advances under load. Protocols that 
 
 痕迹留在连续之中，可以被重新呈现。唯一可做的实践，是察觉切换本身：看见在已经生成下一个决策的那一步上，哪个参照正在起作用。让起作用的参照更靠近这一步，就是功夫所在；没有现成完成的懂得可取。范围始终有限，边缘一直在移动。[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)追的是同一道界限：对正在进行的区分作完整的登记，与有限的活动相矛盾。
 
-The traces remain in continuity and can be re-rendered. The only practice available is noticing the switch itself: seeing which reference is actually operating at the step already generating the next decision. Bringing the operating reference closer to that step is the work; no finished knowing is on offer. The span stays finite, and the edge keeps moving. [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) traces the same bound: a complete registration of ongoing distinguishing contradicts finite activity.
+The traces remain in continuity and can be re-rendered. The only practice available is noticing the switch itself: seeing which reference is actually operating at the step already generating the next decision. Bringing the operating reference closer to that step is the work; no finished knowing is to be had. The span stays finite, and the edge keeps moving. [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) traces the same bound: a complete registration of ongoing distinguishing contradicts finite activity.
