@@ -8,9 +8,9 @@ Bertrand Russell's eightieth-birthday interview treated world government, approx
 
 ## 一、 一个足够深思的心智被认为能统合事实 / 1. A Sufficiently Thoughtful Mind Was Taken to Be Able to Unify the Facts
 
-罗素八十寿辰时的访谈提供了这个例子。被问到世界需要什么才能到达更幸福的状态，他以一贯的自信作答：世界政府，世界各地之间大致的经济平等，以及近乎稳定的人口。他相信，这三项措施能让人类成功适应生活的工业阶段。方案本身倒不如使它们看似可行的那个假定要紧：一个足够深思、足够聪明的心智，能够纵览相关的事实，把它们统合起来，开出一套连贯的全球秩序。说天才与极度深思并不意味着理解世界，就它所及而言是准确的。而“是天才、是极度深思的人”这一身份，本身就已经是那个假定。
+罗素八十寿辰时的访谈提供了这个例子。被问到世界需要什么才能到达更幸福的状态，他以一贯的自信作答：世界政府，世界各地之间大致的经济平等，以及近乎稳定的人口。他相信，这三项措施能让人类成功适应生活的工业阶段。方案本身倒不如使它们看似可行的那个假定要紧：一个足够深思、足够聪明的心智，能够纵览相关的事实，把它们统合起来，开出一套连贯的全球秩序。有人说，天才与极度深思并不因此就理解世界，就这句话所及而言，它是对的。但“是天才、是极度深思的人”这一身份，本身就已经把那个假定带了进来。
 
-Bertrand Russell's interview on the occasion of his eightieth birthday supplies the case. Asked what the world needed to reach a happier state, he answered with characteristic confidence: world government, approximate economic equality between different parts of the globe, and a nearly stationary population. These three measures, he believed, would allow humanity to adapt successfully to the industrial phase of life. The proposals themselves matter less than the assumption that made them seem feasible: that a sufficiently thoughtful and brilliant mind could survey the relevant facts, unify them, and prescribe a coherent global order. The remark that genius and extreme thoughtfulness do not entail understanding the world is accurate as far as it reaches. The identity of being a genius and extremely thoughtful is already that assumption.
+Bertrand Russell's interview on the occasion of his eightieth birthday supplies the case. Asked what the world needed to reach a happier state, he answered with characteristic confidence: world government, approximate economic equality between different parts of the globe, and a nearly stationary population. These three measures, he believed, would allow humanity to adapt successfully to the industrial phase of life. The proposals themselves matter less than the assumption that made them seem feasible: that a sufficiently thoughtful and brilliant mind could survey the relevant facts, unify them, and prescribe a coherent global order. It is accurate, as far as it goes, to say that genius and extreme thoughtfulness do not by themselves entail understanding the world. The identity of being a genius and extremely thoughtful already is that assumption.
 
 ## 二、 知识是私人的，公开的印迹只是外化 / 2. Knowledge Is Private; the Public Mark Is Only Externalization
 
@@ -20,7 +20,7 @@ That assumption collides at once with the fundamental limit of knowledge. The li
 
 ## 三、 共享知识是截获，从不是共同的存量 / 3. Shared Knowledge Is Interception, Never a Common Stock
 
-所以，一般所说的“共享知识”从来不是共享的。它只是私人知识被看得见的截获：一个公开的印迹，每个心智按自己的内部结构接收并重构它。因为每一次重构都是独特的，差异不会相互抵消，也不会向一个共同的内容收敛，它们作为分歧继续下去。一个心智的截获，成了另一个心智的出发点；看似共同的存量，不断被重新分配为相互分歧的私人视角。[共同的人性从不共享](../shared-humanity-is-never-shared/)讲的是同一种回返，落在道德的“我们”上：这个标签是事后的，在内部，什么也没有被共享过。罗素的全球处方需要相反的运动，即知识汇聚成一个单一的、可执行的整体。知识的截获无法产生这种汇聚。
+所以，一般所说的“共享知识”从来不是共享的。它只是私人知识被看得见的截获：一个公开的印迹，每个心智按自己的内部结构接收并重构它。每一次重构都是独特的，所以差异不会相互抵消，也不会汇向某个共同的内容；它们继续作为分歧存在。一个心智的截获，成了另一个心智的出发点；看似共同的存量，不断被重新分配为相互分歧的私人视角。[共同的人性从不共享](../shared-humanity-is-never-shared/)讲的是同一种回返，落在道德的“我们”上：这个标签是事后的，在内部，什么也没有被共享过。罗素的全球处方需要相反的运动，即知识汇聚成一个单一的、可执行的整体。知识的截获无法产生这种汇聚。
 
 ```mermaid
 flowchart TD
@@ -84,4 +84,4 @@ The limit remains absolute precisely because knowledge is always relative. Every
 
 所以，这个问题的结构独立于任何一种智力。它是过去、现在或将来任何天才都无法解决的问题。[索维尔的表象洞察与根因之偏](../sowell-observed-the-surface-problem/)讲的是同一个先验装扮成政策的样子：知识分子的深思，本身已经是相信问题能跨越心智被解决。忘记了自己位置的大思想家，就是[隐秘的上帝之眼](../the-invisible-gods-eye/)所描述的那只上帝之眼。
 
-The structure of the problem is therefore independent of any particular intelligence. It is a problem no genius in the past, present or future can solve. [Sowell Observed the Surface Problem](../sowell-observed-the-surface-problem/) is the same prior dressed as policy: the intellectual's thoughtfulness is already the belief that problems can be solved across Minds. The master thinker who forgets his own position is the god's eye that [The Invisible God's Eye](../the-invisible-gods-eye/) describes.
+The structure of the problem is therefore independent of any particular intelligence. It is a problem no genius in the past, present or future can solve. [Sowell Observed the Surface Problem](../sowell-observed-the-surface-problem/) is the same prior dressed as policy: the intellectual's thoughtfulness is already the belief that problems can be solved across Minds. The master thinker who forgets his own position is the God's eye that [The Invisible God's Eye](../the-invisible-gods-eye/) describes.
