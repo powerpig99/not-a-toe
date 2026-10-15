@@ -110,11 +110,11 @@ Sanders presumes tech founders' balance sheets are a static prize available for 
 ### 伯特兰·罗素 / Bertrand Russell
 `哲学 / Philosophical`
 
-罗素开出世界政府、经济平等与人口稳定的药方，假定聪明的心智能统合事实；他的方案本身也是相对的，恰好显示了它们以为能跨越的屏障。
+罗素开出世界政府、大致的经济平等与近乎稳定的人口的药方，在提出全球协调的方向时有用；它在此到了边界：它假定一个足够聪明的心智能统合事实，而他的方案本身也是相对的，出自一个视角，恰好例证了它们以为能跨越的那道屏障。
 
-Russell's prescription of world government, equality and stationary population assumed a brilliant mind could unify the facts; his proposals were themselves relative, illustrating the barrier they presumed to cross.
+Russell's prescription of world government, approximate economic equality and a nearly stationary population is of use in proposing directions for global coordination; it reaches its boundary in that it assumes a brilliant enough mind can unify the facts, while the proposals were themselves relative, issued from one perspective, illustrating the barrier they presumed to cross.
 
-→ [No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)
+→ [没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)
 
 ### 查理·芒格 / Charlie Munger
 `经济 / Economic`
@@ -4207,11 +4207,11 @@ Self-help assumes polished frames can initiate change; they are retrospective ac
 ### 共享知识 / Shared Knowledge
 `哲学 / Philosophical`
 
-共享知识预设存在跨心智持有的共同存量；它只是对私人知识的截取，是各心智各自重构的公开痕迹，可用于协调，却从未被集体拥有。
+“共享知识”预设存在一份跨心智持有的共同存量，在协调彼此的行动时有用；它在此到了边界：它只是对私人知识的截获，是每个心智各自重构的公开印迹，差异不会收敛，从未被集体拥有。
 
-Shared knowledge presumes a common stock held across minds; it is interception of private knowledge, a public mark each mind reconstructs, useful for coordination without ever being possessed collectively.
+Shared knowledge presumes a common stock held across minds, which is of use in coordinating action; it reaches its boundary in that it is only the interception of private knowledge, a public mark each mind reconstructs on its own, whose differences do not converge, never possessed collectively.
 
-→ [No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)
+→ [没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)
 
 ### 短期择时 / Short-Term Market Timing
 `经济 / Economic`
@@ -4990,11 +4990,11 @@ Transfers are justified by visible short-term relief; substituting payment for t
 ### 世界政府 / World Government
 `意识形态 / Ideological`
 
-全球设计预设知识能汇聚成可执行的整体；公开痕迹在每个心智中被独特重构，截取它们只产生分歧，而非所需的汇聚。
+全球设计预设知识能汇聚成一个可执行的整体，在设想防止战争的制度时有用；它在此到了边界：公开的印迹在每个心智中被独特地重构，截获它们只产生分歧，而不是设计所需要的汇聚。
 
-Global design presumes convergence of knowledge into one actionable whole; public marks are reconstructed uniquely at each mind, so interception produces divergence rather than the required convergence.
+Global design presumes knowledge can converge into one actionable whole, which is of use in imagining institutions that prevent war; it reaches its boundary in that public marks are reconstructed uniquely at each mind, so interception produces divergence rather than the convergence the design requires.
 
-→ [No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)
+→ [没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)
 
 ### 零知识证明 / Zero-Knowledge Proofs
 `数学 / Mathematical`

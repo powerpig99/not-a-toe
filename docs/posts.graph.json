@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T17:04:59.925Z",
+    "generated_at": "2026-10-15T17:07:58.162Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -125,7 +125,7 @@
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "9261da00dc72",
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
-      "content/posts/no-genius-can-solve-the-knowledge-problem.md": "06c8d639c47b",
+      "content/posts/no-genius-can-solve-the-knowledge-problem.md": "4bee694e9466",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
       "content/posts/no-outside-scorekeeper.md": "b0bbe06a0422",
       "content/posts/no-system-can-be-kept-closed.md": "cbd7985349fc",
@@ -403,8 +403,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b7511073fe2e",
       "content/book/causality.md": "b8d9371a7e62",
       "content/book/consciousness.md": "b829238e63a6",
-      "content/book/economics.md": "8f4f48e82113",
-      "content/book/index-of-premises.md": "78f80bb97e04",
+      "content/book/economics.md": "a279d74e9601",
+      "content/book/index-of-premises.md": "3e770963f7f8",
       "content/book/intelligence.md": "98b2a74f71f4",
       "content/book/knowledge-and-learning.md": "c519a684d389",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6353,
+      "edges": 6359,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -3442,8 +3442,8 @@
       "kind": "post",
       "slug": "no-genius-can-solve-the-knowledge-problem",
       "path": "content/posts/no-genius-can-solve-the-knowledge-problem.md",
-      "title": "No Genius Can Solve the Knowledge Problem",
-      "hash": "06c8d639c47b",
+      "title": "没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem",
+      "hash": "4bee694e9466",
       "in_degree": 8,
       "out_degree": 6,
       "links_out": [
@@ -20812,31 +20812,67 @@
       "from": "no-genius-can-solve-the-knowledge-problem",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "Consciousness never appears as data among data"
+      "label": "意识从不作为数据出现在数据之中"
     },
     {
       "from": "no-genius-can-solve-the-knowledge-problem",
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
-      "label": "The knowledge problem and the illusion of delegation"
+      "label": "知识问题与委托的幻觉"
+    },
+    {
+      "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The Knowledge Problem and the Illusion of Delegation"
     },
     {
       "from": "no-genius-can-solve-the-knowledge-problem",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
-      "label": "Shared humanity is never shared"
+      "label": "共同的人性从不共享"
+    },
+    {
+      "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
     },
     {
       "from": "no-genius-can-solve-the-knowledge-problem",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
     },
     {
       "from": "no-genius-can-solve-the-knowledge-problem",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
-      "label": "Sowell observed the surface problem"
+      "label": "索维尔的表象洞察与根因之偏"
+    },
+    {
+      "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "the-invisible-gods-eye",
+      "rel": "points_to",
+      "label": "隐秘的上帝之眼"
+    },
+    {
+      "from": "no-genius-can-solve-the-knowledge-problem",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell Observed the Surface Problem"
     },
     {
       "from": "no-genius-can-solve-the-knowledge-problem",
@@ -48009,7 +48045,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "8f4f48e82113",
+        "hash": "a279d74e9601",
         "out_degree": 28
       },
       {
@@ -48018,7 +48054,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "78f80bb97e04",
+        "hash": "3e770963f7f8",
         "out_degree": 393
       },
       {
@@ -48669,7 +48705,7 @@
         "from": "book:economics",
         "to": "no-genius-can-solve-the-knowledge-problem",
         "rel": "collects",
-        "label": "No Genius Can Solve the Knowledge Problem"
+        "label": "没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem"
       },
       {
         "from": "book:economics",
@@ -48807,7 +48843,7 @@
         "from": "book:index-of-premises",
         "to": "no-genius-can-solve-the-knowledge-problem",
         "rel": "collects",
-        "label": "No Genius Can Solve the Knowledge Problem"
+        "label": "没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem"
       },
       {
         "from": "book:index-of-premises",
@@ -51999,7 +52035,7 @@
         "from": "book:index-of-premises",
         "to": "no-genius-can-solve-the-knowledge-problem",
         "rel": "collects",
-        "label": "No Genius Can Solve the Knowledge Problem"
+        "label": "没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem"
       },
       {
         "from": "book:index-of-premises",
@@ -52545,7 +52581,7 @@
         "from": "book:index-of-premises",
         "to": "no-genius-can-solve-the-knowledge-problem",
         "rel": "collects",
-        "label": "No Genius Can Solve the Knowledge Problem"
+        "label": "没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem"
       },
       {
         "from": "book:index-of-premises",
