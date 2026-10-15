@@ -263,9 +263,9 @@ Chollet insists intelligence is tied to human environmental priors; useful again
 ### 弗里德里希·哈耶克 / Friedrich Hayek
 `经济 / Economic`
 
-哈耶克论证分散的知识无法被计划垄断，在解释市场如何借价格协调时有用；它在此到了边界：它仍把公开出现的东西想象成一份存量的碎片，并为一种更好的制度设计辩护，而这种设计本身也出自不完备的知识。
+哈耶克论证分散的知识无法被计划垄断，在解释市场如何借价格协调时有用；它在此到了边界：它仍把公开出现的东西想象成一份存量的碎片，并把一套固定的产权样式持为一般的回应，而这种持守本身也出自不完备的知识。
 
-Hayek's argument that dispersed knowledge cannot be monopolized by planning is of use in explaining how markets coordinate through prices; it reaches its boundary in that it still pictures what appears in public as pieces of a stock, and argues for a better institutional design that itself issues from incomplete knowledge.
+Hayek's argument that dispersed knowledge cannot be monopolized by planning is of use in explaining how markets coordinate through prices; it reaches its boundary in that it still pictures what appears in public as pieces of a stock, and holds one fixed pattern of property rules as the general response, a holding that itself issues from incomplete knowledge.
 
 → [Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/) · [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
 
@@ -3847,9 +3847,9 @@ Car ownership is taken as the natural form of personal mobility, which is of use
 ### 私有产权 / Private Property Rights
 `经济 / Economic`
 
-私有产权把剩余索取留在做决定的人身上，在造出比公有集中更小的知识错配时有用；它在此到了边界：一旦被升格为因果上的解决方案，它就宣称了它没有的完备，并招来保护性的叠加，在私有的名义下重新集中控制。
+私有产权把剩余索取留在做决定的人身上，在让所决之事与所用印迹之间的错配小于公有集中时有用；它在此到了边界：一旦被升格为因果上的解决方案，它就宣称了它没有的完备，并招来保护性的叠加，在私有的名义下重新集中控制。
 
-Private property keeps the residual claim with the one who decides, which is of use in producing smaller knowledge mismatches than public concentration; it reaches its boundary in that, once elevated into the causal solution, it claims a completeness it lacks and attracts protective overlays that recentralize control under the name of private property.
+Private property keeps the residual claim with the one who decides, which is of use in keeping the mismatch between what is decided and the marks used there smaller than under public concentration; it reaches its boundary in that, once elevated into the causal solution, it claims a completeness it lacks and attracts protective overlays that recentralize control under the name of private property.
 
 → [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
 
