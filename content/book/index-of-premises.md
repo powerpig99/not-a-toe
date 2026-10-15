@@ -2929,7 +2929,7 @@ Rights-talk states the pattern of non-aggression as rights each person holds, wh
 ### 个人主义与集体主义之争 / Individualism versus Collectivism
 `意识形态 / Ideological`
 
-个人主义与集体主义之争，在讲清下一次分配留在产出之处还是被搬到一个集体对象上时有用；它在此到了边界：它预设道德框架决定生产能否复利，而两者只是罩在因果力量所在位置上的外衣，回路照常以大众消费少数人剩余的方式运转。
+个人主义与集体主义之争，在讲清下一次分配留在产出之处还是被搬到一个集体对象上时有用；它在此到了边界：它预设道德框架决定生产能否复利，而两者只是罩在因果权能所在位置上的外衣，回路照常以大众消费少数人剩余的方式运转。
 
 The contest of individualism and collectivism is of use in naming whether the next allocation stays where the output was made or moves onto a collective object; it reaches its boundary in that it presumes the moral framing authors whether production compounds, while both are overlays on where causal power is located and the loop runs as the mass consuming the few's surplus.
 
@@ -3982,7 +3982,7 @@ Singularity enthusiasts treat recursive model improvements as runaway machine wi
 ### 再分配作为授权 / Redistribution as Authorization
 `经济 / Economic`
 
-把转移视为回路所需，在安排后来的、对残差的拾取时有用；它在此到了边界：它把因果力量放在消费上，而后来的登记无法为先前的生产授权，以转移为依据会削弱本可磨利生产的回报。
+把转移视为回路所需，在安排后来的、对残差的拾取时有用；它在此到了边界：它把因果权能放在消费上，而后来的登记无法为先前的生产授权，以转移为依据会削弱本可磨利生产的回报。
 
 Treating transfer as what the loop requires is of use in arranging a later pickup of residue; it reaches its boundary in that it places causal power on consumption, while later registration cannot authorize earlier making, so transfer as justification thins the return that would sharpen production.
 
