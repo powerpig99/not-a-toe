@@ -1,10 +1,6 @@
 {
   "_about": "Registry of faithful title/subtitle translations for posts whose source heading exists in only one language. Used for link anchors in the other language's prose (中文的归中文，英文的归英文). Source of truth for the post's own heading stays content/posts/<slug>.md; this file does not affect rendering.",
   "posts": {
-    "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng": {
-      "title_en": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition",
-      "subtitle_en": "The normal distribution is only the statistical sediment of free choices; even external attribution is an individual freely handing over the right to explain."
-    },
     "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun": {
       "title_en": "The Turn at the Crossroads and the Flat Earther's Paradox of Action",
       "subtitle_en": "Gump wins by never leaving the first-person seat of causal execution, and the flat earther walks safely by live calibration; asking the winner which way he turned misplaces the coordinates of attribution."
@@ -404,6 +400,10 @@
     "sovereignty-belief-and-regulatory-structures": {
       "title_zh": "主权、信念与规制结构的生成",
       "subtitle_zh": "个人主权无法被委托；生成自律组织与政府的，是相信它可以被委托的那份信念的集体表达。"
+    },
+    "the-mind-that-statistics-cannot-reveal": {
+      "title_zh": "统计学无法揭示的心智",
+      "subtitle_zh": "统计把过去选择的痕迹聚合成分布；决定、关注或错误归因的因果力量，严格地留在心智这一边。"
     }
   }
 }

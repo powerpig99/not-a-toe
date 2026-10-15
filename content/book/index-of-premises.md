@@ -1226,11 +1226,11 @@ The theorem proves uniform algorithm parity over all mathematically possible fun
 ### 正态分布 / Normal Distribution
 `科学 / Scientific`
 
-短窗口的正态反映复利之前各心智提取信号能力的不均；若被读作不存在真实差异或内在随机，就遮蔽了乘法过程将放大的东西。
+正态分布在描述大量离散决策在短窗口里聚集于均值附近时有用；它在此到了边界：它是自由选择事后沉淀出的统计表象，反映的是各心智提取信号能力的不均，对任何一个个体此刻的选择没有因果约束力，被读作不存在真实差异或内在随机，就遮蔽了乘法过程将放大的东西。
 
-Short-window normality reflects uneven signal-extraction capacity across minds before compounding; read as evidence of no real differences or intrinsic randomness, it hides what multiplication will magnify.
+The normal distribution is of use in describing how many discrete decisions gather near the mean over a short window; it reaches its boundary in that it is the statistical appearance free choices leave after the fact, reflecting uneven signal-extraction capacity across Minds, with no causal binding force on any individual's choice now, and read as evidence of no real differences or of intrinsic randomness, it hides what multiplication will magnify.
 
-→ [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [从“目的性”的评判，看认知系统的缺省状态与动态跃迁](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) · [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)
+→ [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [从“目的性”的评判，看认知系统的缺省状态与动态跃迁 / Seeing the Default State and Dynamic Leaps of Cognition Through Judgments of Purpose](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) · [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)
 
 ### 观察性行为学 / Observational Behavioral Science
 `科学 / Scientific`
@@ -1984,11 +1984,11 @@ Every formal theory first makes a primary cut that severs a domain from its caus
 ### 大脑节能本能 / Brain Energy-Conservation Instinct
 `科学 / Scientific`
 
-把防御性贴标签解释为大脑节能，把原因移入生物层面；即便是外部归因，也是选择把环境当作自身反应原因的一次选择。
+把防御性的贴标签解释为大脑在节省能量，在描述阻力低的反应为什么常见时有用；它在此到了边界：它把原因移进了生物层面，而即便是外部归因，也是一次选择，选择把环境当作自身反应的原因。
 
-Explaining defensive labelling as the brain saving energy relocates cause into biology; even external attribution is a choice to treat surroundings as the reason for one's reaction.
+Explaining defensive labelling as the brain saving energy is of use in describing why low-resistance reactions are common; it reaches its boundary in that it moves the cause into biology, while even external attribution is a choice, the choice to treat the surroundings as the cause of one's own reaction.
 
-→ [从“目的性”的评判，看认知系统的缺省状态与动态跃迁](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)
+→ [从“目的性”的评判，看认知系统的缺省状态与动态跃迁 / Seeing the Default State and Dynamic Leaps of Cognition Through Judgments of Purpose](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)
 
 ### 佛教僧团 / Buddhist Sangha
 `宗教 / Religious`
@@ -4806,6 +4806,15 @@ Time is modelled as a fourth coordinate of the same form as length, width and de
 Techno-economic models price cognitive labor by processed tokens; machine tokens execute fixed-width pattern matching, while human value originates in sovereign appraisal.
 
 → [Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/)
+
+### “目的性太强”的标签 / Too Goal-Driven as a Label
+`成功学 / Self-Help`
+
+指责对方“目的性太强”，把摩擦归给对方的性格，在说出交互里的不适时有用；它在此到了边界：这是一次外部归因，是主动选择把对方设为自己情绪与决策的原因，交出了解释权，而向内审视自己的诉求是同样可选的另一种自由选择。
+
+Accusing the other of being "too goal-driven" credits the friction to the other's character, which is of use in naming discomfort in an interaction; it reaches its boundary in that it is an external attribution, an active choice to set the other as the cause of one's own emotions and decisions that hands over the right to explain, while looking inward at one's own wants is another free choice equally open.
+
+→ [从“目的性”的评判，看认知系统的缺省状态与动态跃迁 / Seeing the Default State and Dynamic Leaps of Cognition Through Judgments of Purpose](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)
 
 ### 磨刀工具陷阱 / Tool-Sharpening Trap
 `成功学 / Self-Help`
