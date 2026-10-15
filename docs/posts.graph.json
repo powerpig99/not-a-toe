@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T18:26:40.420Z",
+    "generated_at": "2026-10-15T18:29:51.042Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -154,7 +154,7 @@
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "addbcd06bbe4",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "d08945859623",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "db0acf841a07",
-      "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "b3860817582f",
+      "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "e68ca9d083d4",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "cde8a526b40c",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
       "content/posts/price-as-utterance-understanding-as-trade.md": "c9662cffea91",
@@ -404,10 +404,10 @@
       "content/book/causality.md": "b8d9371a7e62",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "0cbdf0d9f7c2",
-      "content/book/index-of-premises.md": "5d38b757f3cf",
+      "content/book/index-of-premises.md": "3fc186aacc3a",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "c519a684d389",
-      "content/book/life-and-statistics.md": "5f28265c4095",
+      "content/book/life-and-statistics.md": "271c9c3e4715",
       "content/book/mathematics.md": "8bb7852e7439",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "d52dd5b06929",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6381,
+      "edges": 6386,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -4239,8 +4239,8 @@
       "kind": "post",
       "slug": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "path": "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md",
-      "title": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making",
-      "hash": "b3860817582f",
+      "title": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution",
+      "hash": "e68ca9d083d4",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -24130,19 +24130,43 @@
       "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
     },
     {
       "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "to": "failure-as-information",
       "rel": "points_to",
-      "label": "Failure as information"
+      "label": "失败即信息"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as Information"
     },
     {
       "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "to": "guan-yu-gui-yin",
       "rel": "points_to",
-      "label": "On Attribution: From External Nodes to Internal Iteration"
+      "label": "关于归因：从事实到因果，从外部节点到内部迭代"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "On Attribution: From Fact to Cause, From Outside Node to Inner Iteration"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "幂律是结果的表象，不是生成的逻辑"
     },
     {
       "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
@@ -24154,7 +24178,13 @@
       "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
@@ -48186,7 +48216,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "5d38b757f3cf",
+        "hash": "3fc186aacc3a",
         "out_degree": 393
       },
       {
@@ -48213,7 +48243,7 @@
         "slug": "life-and-statistics",
         "path": "content/book/life-and-statistics.md",
         "title": "生命演化与统计表象 / Living Evolution and Statistical Shadows",
-        "hash": "5f28265c4095",
+        "hash": "271c9c3e4715",
         "out_degree": 10
       },
       {
@@ -49881,7 +49911,7 @@
         "from": "book:index-of-premises",
         "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
         "rel": "collects",
-        "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+        "label": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution"
       },
       {
         "from": "book:index-of-premises",
@@ -49947,7 +49977,7 @@
         "from": "book:index-of-premises",
         "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
         "rel": "collects",
-        "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+        "label": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution"
       },
       {
         "from": "book:index-of-premises",
@@ -50031,7 +50061,7 @@
         "from": "book:index-of-premises",
         "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
         "rel": "collects",
-        "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+        "label": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution"
       },
       {
         "from": "book:index-of-premises",
@@ -51951,7 +51981,7 @@
         "from": "book:index-of-premises",
         "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
         "rel": "collects",
-        "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+        "label": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution"
       },
       {
         "from": "book:index-of-premises",
@@ -53373,7 +53403,7 @@
         "from": "book:life-and-statistics",
         "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
         "rel": "collects",
-        "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+        "label": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution"
       },
       {
         "from": "book:life-and-statistics",

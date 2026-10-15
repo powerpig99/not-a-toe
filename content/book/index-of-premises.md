@@ -1136,11 +1136,11 @@ Liberation movements present themselves as selfless deliverers from oppression; 
 ### 乘法过程产生的对数正态分布 / Log-normal Distribution from Multiplicative Processes
 `数学 / Mathematical`
 
-近似正态的对数增量相乘得到对数正态分布，其右尾在有限尺度上常像幂律；两种形状只是同一递推的暂时视图，不是两条规律。
+近似正态的对数增量相乘得到对数正态分布，在描述复利下水平如何铺展时有用；它在此到了边界：它的右尾在有限尺度上常读作幂律，而正态与厚尾只是同一个递推的暂时视图，不是两条规律。
 
-Multiplying approximately normal log increments yields a log-normal whose right tail often looks power-law on finite scales; the shapes are transient views of one recurrence, not separate laws.
+Multiplying approximately normal log increments yields a log-normal, which is of use in describing how levels spread under compounding; it reaches its boundary in that its right tail frequently reads as a power law on finite scales, while the normal and the heavy tail are transient views of one recurrence, not two laws.
 
-→ [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/)
+→ [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/)
 
 ### 逻辑斯蒂增长与S曲线 / Logistic Growth and S-Curves
 `科学 / Scientific`
@@ -1230,7 +1230,7 @@ The theorem proves uniform algorithm parity over all mathematically possible fun
 
 The normal distribution is of use in describing how many discrete decisions gather near the mean over a short window; it reaches its boundary in that it is the statistical appearance free choices leave after the fact, reflecting uneven signal-extraction capacity across Minds, with no causal binding force on any individual's choice now, and read as evidence of no real differences or of intrinsic randomness, it hides what multiplication will magnify.
 
-→ [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) · [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)
+→ [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) · [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)
 
 ### 观察性行为学 / Observational Behavioral Science
 `科学 / Scientific`
@@ -1307,11 +1307,11 @@ The Planck time and Planck length mark the scale where present models run out of
 ### 幂律分布 / Power Law Distribution
 `科学 / Scientific`
 
-幂律描述的是某个观测窗口里结果的形状；把它升格为必须服从的规律，是把聚合痕迹误认成活动本身，生成它的是复利的速率差。
+幂律在描述某个观测窗口里结果的形状时有用；它在此到了边界：它被升格为必须服从的规律时，聚合的痕迹被误认作活动本身，而生成它的是复利的速率差。
 
-Power laws describe outcome shapes within an observation window; elevating them to laws one must obey mistakes aggregated traces for the activity, while compounding rate differences generate them.
+The power law is of use in describing the shape of outcomes within an observation window; it reaches its boundary in that, once raised into a law that must be obeyed, aggregated traces are taken for the activity itself, while what generates them is the differential of compounding rates.
 
-→ [幂律是结果的表象，不是生成的逻辑](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
+→ [幂律是结果的表象，不是生成的逻辑](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
 
 ### 人的行动学 / Praxeology
 `经济 / Economic`
@@ -3910,11 +3910,11 @@ Randomized trials of AI in education treat access as the independent variable an
 ### 随机性是内在属性 / Randomness as Intrinsic
 `科学 / Scientific`
 
-把残余变异称作随机，假定活动本身不确定；它反映的是当前模型的分辨率，噪声是尚未被解析的信息，可随模型改进逐步变得可理解。
+把残余变异称作随机，在模型尚无法分辨时为不确定性记账有用；它在此到了边界：它假定活动本身不确定，而随机反映的是当前模型的分辨率，噪声是尚未被解析的信息，可随模型的改进逐步变得可以理解。
 
-Calling residual variation random assumes indeterminacy in the activity; it reflects current model resolution, so noise is unresolved information that improving models progressively render intelligible.
+Calling residual variation random is of use in accounting for uncertainty where models cannot yet resolve it; it reaches its boundary in that it assumes indeterminacy in the activity itself, while randomness reflects the present resolution of models, so noise is unresolved information that improving models progressively render intelligible.
 
-→ [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [自由的测不准 / The Uncertainty of Freedom](../../posts/zi-you-de-ce-bu-zhun/)
+→ [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [自由的测不准 / The Uncertainty of Freedom](../../posts/zi-you-de-ce-bu-zhun/)
 
 ### 未经诠释的本真感知 / Raw Sensing Prior to Interpretation
 `哲学 / Philosophical`

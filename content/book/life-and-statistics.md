@@ -16,7 +16,7 @@ The essays here examine Gaussian limits, power-law dynamics, and the silencing o
 - [The Myth of Population Collapse Explained](../../posts/the-myth-of-population-collapse-explained/)
 - [The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
 - [幂律是结果的表象，不是生成的逻辑](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/)
-- [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/)
+- [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/)
 - [统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal](../../posts/the-mind-that-statistics-cannot-reveal/)
 - [目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)
 - [引导不是占有 / Guidance Is Not Ownership](../../posts/guidance-is-not-ownership/)
