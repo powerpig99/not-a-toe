@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T14:10:38.731Z",
+    "generated_at": "2026-10-15T14:35:00.947Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -185,7 +185,7 @@
       "content/posts/sovereignty-essay.md": "10d294546a2a",
       "content/posts/sowell-observed-the-surface-problem.md": "3cea29eb971a",
       "content/posts/stability-and-excess.md": "ffa61cd205e2",
-      "content/posts/studying-the-effect-of-ai-relocates-causality.md": "ae77b9ede8b3",
+      "content/posts/studying-the-effect-of-ai-relocates-causality.md": "909c9d0b7fac",
       "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "2e63440fe8c1",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "c568de5100d8",
@@ -404,9 +404,9 @@
       "content/book/causality.md": "d5550db9b19b",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "980e057c3c88",
-      "content/book/index-of-premises.md": "b1bf78d3bab4",
+      "content/book/index-of-premises.md": "b342cb49afda",
       "content/book/intelligence.md": "eb59e8b28085",
-      "content/book/knowledge-and-learning.md": "6b583c403b35",
+      "content/book/knowledge-and-learning.md": "a89aa3110f83",
       "content/book/life-and-statistics.md": "5f28265c4095",
       "content/book/mathematics.md": "8bb7852e7439",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6292,
+      "edges": 6299,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -4973,8 +4973,8 @@
       "kind": "post",
       "slug": "studying-the-effect-of-ai-relocates-causality",
       "path": "content/posts/studying-the-effect-of-ai-relocates-causality.md",
-      "title": "Studying the Effect of AI Relocates Causality",
-      "hash": "ae77b9ede8b3",
+      "title": "研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality",
+      "hash": "909c9d0b7fac",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -26440,43 +26440,85 @@
       "from": "studying-the-effect-of-ai-relocates-causality",
       "to": "the-homework-exam-inversion-registers-substitution",
       "rel": "points_to",
+      "label": "作业与考试的倒置折射出替代效应"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
       "label": "the homework–exam inversion"
     },
     {
       "from": "studying-the-effect-of-ai-relocates-causality",
       "to": "amplification-paradox",
       "rel": "points_to",
-      "label": "The amplification paradox"
+      "label": "放大悖论"
     },
     {
       "from": "studying-the-effect-of-ai-relocates-causality",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "amplification-paradox",
+      "rel": "points_to",
+      "label": "The Amplification Paradox"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "studying-the-effect-of-ai-relocates-causality",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
     },
     {
       "from": "studying-the-effect-of-ai-relocates-causality",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin"
     },
     {
       "from": "studying-the-effect-of-ai-relocates-causality",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "studying-the-effect-of-ai-relocates-causality",
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
-      "label": "The unobservable driver of learning"
+      "label": "学习中不可观测的驱动力"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The Unobservable Driver of Learning"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -47652,7 +47694,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b1bf78d3bab4",
+        "hash": "b342cb49afda",
         "out_degree": 393
       },
       {
@@ -47670,7 +47712,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "6b583c403b35",
+        "hash": "a89aa3110f83",
         "out_degree": 33
       },
       {
@@ -50631,7 +50673,7 @@
         "from": "book:index-of-premises",
         "to": "studying-the-effect-of-ai-relocates-causality",
         "rel": "collects",
-        "label": "Studying the Effect of AI Relocates Causality"
+        "label": "研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality"
       },
       {
         "from": "book:index-of-premises",
@@ -51411,7 +51453,7 @@
         "from": "book:index-of-premises",
         "to": "studying-the-effect-of-ai-relocates-causality",
         "rel": "collects",
-        "label": "Studying the Effect of AI Relocates Causality"
+        "label": "研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality"
       },
       {
         "from": "book:index-of-premises",
@@ -52713,7 +52755,7 @@
         "from": "book:knowledge-and-learning",
         "to": "studying-the-effect-of-ai-relocates-causality",
         "rel": "collects",
-        "label": "Studying the Effect of AI Relocates Causality"
+        "label": "研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality"
       },
       {
         "from": "book:knowledge-and-learning",

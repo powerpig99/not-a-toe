@@ -2812,11 +2812,11 @@ Benchmark training assumes maxing score metrics equates to general competence; w
 ### 带护栏的 AI 辅导 / Guardrailed AI Tutors
 `技术 / Technological`
 
-把更好的无辅助成绩归功于护栏，是把解方放在工具设计上；护栏塑造可用的对齐方式，却不决定学生的下一步行动。
+把更好的无辅助成绩归功于护栏，在设计减少照抄答案的界面时有用；它在此到了边界：它把解方放在工具设计上，而护栏只塑造哪些对齐方式可用，并不替学生写出下一步行动，把解方放在更好的工具上，是原先的前提作为政策重走一遍。
 
-Attributing better unaided results to guardrails locates the remedy in tool design; guardrails pattern which alignments are available but do not author the student's next act.
+Attributing better unaided results to guardrails is of use in designing interfaces that discourage copied answers; it reaches its boundary in that it locates the remedy in tool design, while guardrails only pattern which alignments are available and do not author the student's next act, so a better tool is the original premise retraced as policy.
 
-→ [Studying the Effect of AI Relocates Causality](../../posts/studying-the-effect-of-ai-relocates-causality/)
+→ [研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality](../../posts/studying-the-effect-of-ai-relocates-causality/)
 
 ### 投影阶梯与因果锚点 / Hierarchical Projections and Causal Anchors
 `哲学 / Philosophical`
@@ -3901,11 +3901,11 @@ The quantum brain debate first assumes the warm, wet brain as a ready-made theat
 ### AI 教育随机对照试验 / Randomized Trials of AI in Education
 `科学 / Scientific`
 
-这些试验把使用权限当作自变量、分数当作结果；它们平均了替代与放大两种相反姿态，作为能动性分布的数据有价值，而非工具威力的证明。
+随机对照试验把使用权限当作自变量、分数当作因变量，在测量短期的辅助与工具撤走后的下滑时有用；它在此到了边界：它假定工具是因果的施动者，在替代与杠杆两种相反的姿态之间取平均，测到的是能动性在使用者之间的分布，而不是工具的威力。
 
-The trials treat access as independent variable and test scores as effect; they average opposed postures of substitution and amplification, valuable as data on agency distribution rather than tool power.
+Randomized trials of AI in education treat access as the independent variable and scores as the dependent one, which is of use in measuring short-term assistance and the decline once the tool is removed; it reaches its boundary in that it assumes the tool is the causal agent and averages across the opposed postures of substitute and lever, so what it measures is the distribution of agency among users, not the power of the tool.
 
-→ [Studying the Effect of AI Relocates Causality](../../posts/studying-the-effect-of-ai-relocates-causality/)
+→ [研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality](../../posts/studying-the-effect-of-ai-relocates-causality/)
 
 ### 随机性是内在属性 / Randomness as Intrinsic
 `科学 / Scientific`
