@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T09:58:40.788Z",
+    "generated_at": "2026-10-15T10:17:49.614Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -390,7 +390,7 @@
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
       "content/posts/why-mathematics-can-never-be-solved.md": "fe8cd131b75d",
       "content/posts/writing-without-the-image.md": "9009b34790ea",
-      "content/posts/xian-shi-de-bian-jie.md": "9ca679fde7fc",
+      "content/posts/xian-shi-de-bian-jie.md": "62dfac083174",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "67d7a9a386eb",
       "content/posts/you-cant-benchmark-the-fluid.md": "5e3f42fa5041",
       "content/posts/you-tiao-jian-de-zi-you.md": "f25fdfec3ce2",
@@ -401,10 +401,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
-      "content/book/causality.md": "8f21d6cadeb2",
+      "content/book/causality.md": "70e144b47953",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "80356938a112",
+      "content/book/index-of-premises.md": "29e81f7ccedc",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6191,
+      "edges": 6204,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -9620,8 +9620,8 @@
       "kind": "post",
       "slug": "xian-shi-de-bian-jie",
       "path": "content/posts/xian-shi-de-bian-jie.md",
-      "title": "现实的边界",
-      "hash": "9ca679fde7fc",
+      "title": "现实的边界 / The Boundary of Reality",
+      "hash": "62dfac083174",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -45794,21 +45794,39 @@
     },
     {
       "from": "xian-shi-de-bian-jie",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "Cause Before, Effect After"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
-      "label": "真正的稀缺不是记忆，而是持续的重新描摹"
+      "label": "真正稀缺的不是记忆，而是持续的重新追溯"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
     },
     {
       "from": "xian-shi-de-bian-jie",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "并非万物理论"
+      "label": "非万物之理（因果的二重性）"
     },
     {
       "from": "xian-shi-de-bian-jie",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "彻头彻尾的因果律"
+      "label": "因果贯穿始终"
     },
     {
       "from": "xian-shi-de-bian-jie",
@@ -45818,9 +45836,33 @@
     },
     {
       "from": "xian-shi-de-bian-jie",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "manifesto-of-not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "Not a Theory of Everything manifesto"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "破除概念的僭越：第一人称、因果之矢与未完的现实"
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "Breaking the Overreach of Concepts"
     },
     {
       "from": "xian-shi-de-bian-jie",
@@ -45832,31 +45874,67 @@
       "from": "xian-shi-de-bian-jie",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
-      "label": "为何数学永远无法被彻底解答"
+      "label": "为何数学永远解不完"
     },
     {
       "from": "xian-shi-de-bian-jie",
       "to": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
       "rel": "points_to",
-      "label": "知道自己不知道：一种被修辞放大的认知假象"
+      "label": "“知道自己不知道”是一种修辞假象"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "rel": "points_to",
+      "label": "Knowing That You Don’t Know Is a Rhetorical Illusion"
     },
     {
       "from": "xian-shi-de-bian-jie",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
-      "label": "开放场域中的无损知识在结构上不自洽"
+      "label": "开放场域中的无损知识不自洽"
     },
     {
       "from": "xian-shi-de-bian-jie",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
+      "label": "目的性的评判与认知的缺省状态"
     },
     {
       "from": "xian-shi-de-bian-jie",
       "to": "freedom-as-ground",
       "rel": "points_to",
       "label": "自由即地基"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless Knowledge of an Open Field Is Incoherent"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "Judging by Purpose and the Default State of Cognition"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "Freedom as Ground"
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -47019,7 +47097,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "8f21d6cadeb2",
+        "hash": "70e144b47953",
         "out_degree": 33
       },
       {
@@ -47046,7 +47124,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "80356938a112",
+        "hash": "29e81f7ccedc",
         "out_degree": 393
       },
       {
@@ -47253,7 +47331,7 @@
         "from": "book:causality",
         "to": "xian-shi-de-bian-jie",
         "rel": "collects",
-        "label": "现实的边界"
+        "label": "现实的边界 / The Boundary of Reality"
       },
       {
         "from": "book:causality",
@@ -49887,7 +49965,7 @@
         "from": "book:index-of-premises",
         "to": "xian-shi-de-bian-jie",
         "rel": "collects",
-        "label": "现实的边界"
+        "label": "现实的边界 / The Boundary of Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -50241,7 +50319,7 @@
         "from": "book:index-of-premises",
         "to": "xian-shi-de-bian-jie",
         "rel": "collects",
-        "label": "现实的边界"
+        "label": "现实的边界 / The Boundary of Reality"
       },
       {
         "from": "book:index-of-premises",

@@ -2623,11 +2623,11 @@ Financial freedom assumes money is the precondition of acting freely; at scarcit
 ### 第一因与终极地基 / First Cause and Ultimate Foundation
 `哲学 / Philosophical`
 
-对终极地基的追寻，是对因果无法不借助自身而被证明的补偿；因果链可追溯却不可穷尽，所谓地基始终是临时的。
+对第一因与终极地基的追寻，把一切推回一个不再需要原因的起点，在给一段推理安放一个可以暂时停下的起点时有用；它在此到了边界：因果无法不借助因果而被证明，对终极地基的执念是对这份无法闭合的补偿，因果链可追溯却不可穷尽，任何地基都是临时的。
 
-The quest for an ultimate ground compensates for the impossibility of proving causality without already using it; causal chains are traceable yet inexhaustible, so foundations remain provisional.
+The search for a first cause and ultimate foundation carries everything back to a starting point that needs no cause, which is of use in giving a line of reasoning a place to pause; it reaches its boundary in that causality cannot be proved without already using it, the hold on an ultimate ground compensates for that unclosable proof, and causal chains are traceable yet never exhausted, so every foundation stays provisional.
 
-→ [现实的边界](../../posts/xian-shi-de-bian-jie/)
+→ [现实的边界 / The Boundary of Reality](../../posts/xian-shi-de-bian-jie/)
 
 ### 固定不变的自我 / Fixed Essential Self
 `哲学 / Philosophical`
@@ -3127,11 +3127,11 @@ The ladder makes freedom a reward for clearing the financial, spiritual and exis
 ### 语言即现实的边界 / Language as the Limit of Reality
 `哲学 / Philosophical`
 
-把语言的边界等同于现实的边界，忽视了理解总滞后于觉知；语言捕捉的是刚刚过去的痕迹，两道边界从不重合。
+把语言的边界当作现实的边界，在提醒任何描述能说出的范围有限时有用；它在此到了边界：理解始终滞后于觉知的发生，语言捕捉的是刚刚过去的痕迹，现实的边界是此刻觉知所抵达的边缘，两道边界从不重合。
 
-Equating the bounds of language with the bounds of reality overlooks that understanding lags awareness; language captures just-passed traces, so the two boundaries never coincide.
+Taking the limits of language for the limits of reality is of use in recalling that any description can say only so much; it reaches its boundary in that understanding always lags the occurrence of awareness, language captures just-passed traces, and the boundary of reality is the edge present awareness reaches, so the two boundaries never coincide.
 
-→ [现实的边界](../../posts/xian-shi-de-bian-jie/)
+→ [现实的边界 / The Boundary of Reality](../../posts/xian-shi-de-bian-jie/)
 
 ### 线性替代式预测 / Linear Substitution Forecasting
 `经济 / Economic`

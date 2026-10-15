@@ -27,7 +27,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [作茧是观察到的现象，自缚是对现象的解读](../../posts/zuo-jian-bu-shi-zi-fu/)
 - [How to Fix Your Whole Life in One Split Second](../../posts/how-to-fix-your-whole-life-in-one-split-second/)
 - [The Generative Contradiction](../../posts/the-generative-contradiction/)
-- [现实的边界](../../posts/xian-shi-de-bian-jie/)
+- [现实的边界 / The Boundary of Reality](../../posts/xian-shi-de-bian-jie/)
 - [自由即地基 / Freedom as Ground](../../posts/freedom-as-ground/)
 - [错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler](../../posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)
 - [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
