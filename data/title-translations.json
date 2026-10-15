@@ -373,10 +373,6 @@
       "title_zh": "共同改变的本源",
       "subtitle_zh": "共同的改变只始于私下重新处理被登记为既定的东西；痕迹可能落为共同的地基，也可能不会。"
     },
-    "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng": {
-      "title_en": "Life as a Continuous Process of Self-Iteration",
-      "subtitle_en": "The error signal must return to weights that can still be updated, including the step that selected the objective function."
-    },
     "preference-clusters-and-the-language-of-judgment": {
       "title_zh": "偏好聚类与评判语言",
       "subtitle_zh": "对与错，是对齐的偏好在另一个所在不重新追溯同一片场域时发出的声音。"
@@ -465,6 +461,10 @@
     "the-source-of-all-harm": {
       "title_zh": "一切伤害的根源",
       "subtitle_zh": "凝聚为伤害的东西，在一个心智把自己的善冻结为普遍尺度、另一个心智又授予这冻结管辖自身领域的权柄时完成。"
+    },
+    "the-brain-does-not-backprop": {
+      "title_zh": "大脑不进行反向传播，而是正向传导",
+      "subtitle_zh": "大脑是具身；心智顺着感知到的梯度，即因与果之间的差，正向传导。"
     }
   }
 }

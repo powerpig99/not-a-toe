@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T17:34:27.769Z",
+    "generated_at": "2026-10-15T17:49:12.094Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -165,7 +165,7 @@
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "11ef91285e9b",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "cd3ec066c2f8",
-      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "94bfcc776b3f",
+      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "82c0be9d92db",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
       "content/posts/residual-individualism.md": "5036d9e99a57",
       "content/posts/restriction-is-a-selective-tax.md": "41418edaaaad",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "b8d9371a7e62",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "a279d74e9601",
-      "content/book/index-of-premises.md": "95c8671da922",
+      "content/book/index-of-premises.md": "6d8e94956af1",
       "content/book/intelligence.md": "98b2a74f71f4",
       "content/book/knowledge-and-learning.md": "c519a684d389",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -415,12 +415,12 @@
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "134ad0b257f3",
-      "content/book/success-and-the-self.md": "96a0b4ec14fe",
+      "content/book/success-and-the-self.md": "4e0ba3ffb737",
       "content/book/tools-and-progress.md": "fb71a7a1a375"
     },
     "stats": {
       "posts": 393,
-      "edges": 6365,
+      "edges": 6370,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -4528,8 +4528,8 @@
       "kind": "post",
       "slug": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "path": "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md",
-      "title": "人生是一个持续的自我迭代过程",
-      "hash": "94bfcc776b3f",
+      "title": "人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration",
+      "hash": "82c0be9d92db",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -25150,7 +25150,25 @@
       "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "外部归因：个人进步的障碍"
+      "label": "外部归因是个人进步的障碍"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to Fix Your Whole Life in One Split Second"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "On Attribution: From Fact to Cause, From Outside Node to Inner Iteration"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "External Attribution Is the Obstacle to Personal Growth"
     },
     {
       "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
@@ -25160,9 +25178,21 @@
     },
     {
       "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "to": "the-brain-does-not-backprop",
       "rel": "points_to",
       "label": "大脑不进行反向传播，而是正向传导"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "The Brain Does Not Backprop, but Propagates"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
@@ -48090,7 +48120,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "95c8671da922",
+        "hash": "6d8e94956af1",
         "out_degree": 393
       },
       {
@@ -48189,7 +48219,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "96a0b4ec14fe",
+        "hash": "4e0ba3ffb737",
         "out_degree": 33
       },
       {
@@ -49479,7 +49509,7 @@
         "from": "book:index-of-premises",
         "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "rel": "collects",
-        "label": "人生是一个持续的自我迭代过程"
+        "label": "人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration"
       },
       {
         "from": "book:index-of-premises",
@@ -50901,7 +50931,7 @@
         "from": "book:index-of-premises",
         "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "rel": "collects",
-        "label": "人生是一个持续的自我迭代过程"
+        "label": "人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration"
       },
       {
         "from": "book:index-of-premises",
@@ -54261,7 +54291,7 @@
         "from": "book:success-and-the-self",
         "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "rel": "collects",
-        "label": "人生是一个持续的自我迭代过程"
+        "label": "人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration"
       },
       {
         "from": "book:success-and-the-self",

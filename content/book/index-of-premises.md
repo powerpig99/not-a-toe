@@ -794,11 +794,11 @@ The greatest happiness principle treats happiness as an addable quantity across 
 ### 集体无意识 / Collective Unconscious
 `哲学 / Philosophical`
 
-集体无意识看似先于个人的深层结构；它是交出更新与代为决定相互对接、在许多心智间稳定之后留下的共振痕迹。
+集体无意识预设一种先于个人的深层结构，在描述许多人共有的倾向时有用；它在此到了边界：追溯下去，它是交出更新与代为决定相互对接、在许多心智间稳定之后留下的共振痕迹，机制落在每个心智是否把误差传回自己可更新的参数。
 
-The collective unconscious appears as deep structure prior to individuals; it is resonance left when handing over updates meets complementary deciding-for-others, stabilized across many minds.
+The collective unconscious presumes a deep structure prior to individuals, which is of use in describing tendencies many people share; it reaches its boundary in that, traced back, it is the resonance left when handing over updates meets complementary deciding-for-others and stabilizes across many minds, while the mechanism rests on whether each mind carries the error back to its own updatable parameters.
 
-→ [人生是一个持续的自我迭代过程](../../posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)
+→ [人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration](../../posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)
 
 ### 无理解的能力 / Competence Without Comprehension
 `哲学 / Philosophical`
@@ -2578,11 +2578,11 @@ Formalist writing pedagogy demands polished structure from the outset; externali
 ### 外部给定的人生目标 / Externally Given Life Goals
 `成功学 / Self-Help`
 
-相信目标由别人设定，是保留下来的事后解释；它把误差截断在给定节点上，优化照常进行，目标函数本身却从不更新。
+相信人生目标由别人设定，在说明目标从何处习得时有用；它在此到了边界：它是保留下来的事后解释，把误差截断在“外部给定”的节点上，优化照常进行，目标函数本身却从不更新。
 
-Believing goals are set by others is a retained post-hoc interpretation; it truncates the error signal at the given node, so optimization continues while the objective function itself never updates.
+Believing one's life goals are set by others is of use in describing where goals were learned; it reaches its boundary in that it is a retained after-the-fact explanation that cuts the error off at the node "externally given," so optimization goes on while the objective function itself never updates.
 
-→ [人生是一个持续的自我迭代过程](../../posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)
+→ [人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration](../../posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)
 
 ### 工厂化流水线教育 / Factory Model Schooling
 `意识形态 / Ideological`

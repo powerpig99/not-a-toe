@@ -29,7 +29,7 @@ These essays examine victimhood paralysis, shortcut delusions, and cognitive inv
 - [Hardness Is Not Inherent in the Action](../../posts/hardness-is-not-inherent-in-the-action/)
 - [成功学: Theories After Success, Mistaken for Theories Leading to Success](../../posts/cheng-gong-xue/)
 - [Self-improvement writing is The Map After the Territory](../../posts/the-map-after-the-territory/)
-- [人生是一个持续的自我迭代过程](../../posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)
+- [人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration](../../posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)
 - [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
 - [失败即信息 / Failure as Information](../../posts/failure-as-information/)
 - [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)
