@@ -2992,11 +2992,11 @@ Presumes institutional metrics measure genuine understanding; useful for credent
 ### 决策与后果的制度性分离 / Institutional Separation of Decision and Consequence
 `经济 / Economic`
 
-把决策权与剩余后果分离的制度被视为根源；它们只是把个体心智中已在运作的分裂解读结晶化，而非创造了它。
+把决策权与剩余后果分开的制度被当作根源，在指出激励如何错位时有用；它在此到了边界：制度只是把个体心智里已在运作的分裂诠释结晶下来，并没有创造它。
 
-Institutions placing decision rights far from residual consequences are taken as root cause; they crystallize fragmented interpretations already operating in individual minds rather than creating them.
+Institutions placing decision rights at a distance from residual consequences are taken as the root cause, which is of use in showing how incentives misalign; it reaches its boundary in that institutions only crystallize the fragmented interpretations already operating in individual Minds, without creating them.
 
-→ [The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
+→ [决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
 
 ### 体制化善意 / Institutionalized Compassion
 `哲学 / Philosophical`
@@ -3514,11 +3514,11 @@ Seeking an objective meaning assumes meaning is a discovered treasure outside aw
 ### 客观性 / Objectivity
 `哲学 / Philosophical`
 
-把错位当作客观断裂，预设可以脱离知觉而立；任何关于对齐的判断都在某个心智的经验中构成，客观只是不同认知之间的不变性。
+把错位当作客观的断裂，在指认可以共同核对的后果时有用；它在此到了边界：它预设一个脱离知觉的立足点，而每一个关于对齐的判断都在某个心智的经验中构成，客观只是不同认知之间保持不变的东西。
 
-Treating misalignment as an objective break presumes standing apart from perception; every claim of alignment is constituted in some mind's experience, objective only as invariance across cognitions.
+Treating misalignment as an objective break is of use in pointing to consequences that can be checked in common; it reaches its boundary in that it presumes a standing apart from perception, while every judgment of alignment is constituted in some Mind's experience, and the objective is only what stays invariant across different cognitions.
 
-→ [The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
+→ [决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
 
 ### 对象是被稳定化的关系 / Objects as Stabilized Relationships
 `哲学 / Philosophical`
@@ -4306,11 +4306,11 @@ Standard physics treats the speed of light merely as an arbitrary physical veloc
 ### 花别人的钱 / Spending Other People's Money
 `经济 / Economic`
 
-这一模式预设集体低效是某个集体心智的失败；它产生于个体心智在分裂账本下做决定，代价以另一种描述到来。
+“花别人的钱”在解释资源为何被耗到能力枯竭时有用；它在此到了边界：它容易被读成某个集体心智的失败，而集体的低效出自个体心智在分开记的账本下各自做决定，代价以另一种描述到来。
 
-The pattern presumes collective inefficiency is a failure of a collective mind; it emerges from individual minds deciding under split ledgers where costs arrive under another description.
+"Spending other people's money" is of use in explaining why resources are drawn down until capacity is exhausted; it reaches its boundary in that it is easily read as the failure of a collective mind, while collective inefficiency comes from individual Minds deciding under split ledgers, with costs arriving under another description.
 
-→ [The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
+→ [决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
 
 ### 国家保护权利 / State Protection of Rights
 `意识形态 / Ideological`

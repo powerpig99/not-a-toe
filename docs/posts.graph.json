@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T20:26:25.157Z",
+    "generated_at": "2026-10-15T20:32:12.027Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -277,7 +277,7 @@
       "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "8a005fc1644a",
       "content/posts/the-irreducible-observer.md": "ad01ade05654",
-      "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "3bfcee18d35d",
+      "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "7194a7f1eb5c",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "d176be42e553",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "895266756ce9",
       "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
@@ -401,10 +401,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b7511073fe2e",
-      "content/book/causality.md": "b8d9371a7e62",
+      "content/book/causality.md": "c084fe26faa0",
       "content/book/consciousness.md": "525b07ca41c4",
       "content/book/economics.md": "3938b54453ed",
-      "content/book/index-of-premises.md": "838211563048",
+      "content/book/index-of-premises.md": "367466b97f21",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "c519a684d389",
       "content/book/life-and-statistics.md": "49a199864e1e",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6407,
+      "edges": 6413,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -7059,8 +7059,8 @@
       "kind": "post",
       "slug": "the-irreducible-prior-of-decision-and-consequence",
       "path": "content/posts/the-irreducible-prior-of-decision-and-consequence.md",
-      "title": "The Irreducible Prior of Decision and Consequence",
-      "hash": "3bfcee18d35d",
+      "title": "决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence",
+      "hash": "7194a7f1eb5c",
       "in_degree": 7,
       "out_degree": 6,
       "links_out": [
@@ -36394,37 +36394,73 @@
       "from": "the-irreducible-prior-of-decision-and-consequence",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
-      "label": "Prior Cause, Subsequent Effect"
+      "label": "前因，后果"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "Cause Before, Effect After"
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
-      "label": "Sowell observed the surface problem"
+      "label": "索维尔的表象洞察与根因之偏"
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
-      "label": "The knowledge problem and the illusion of delegation"
+      "label": "知识问题与委托的幻觉"
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell Observed the Surface Problem"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The Knowledge Problem and the Illusion of Delegation"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "公共支出不创造资本"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -48315,7 +48351,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "b8d9371a7e62",
+        "hash": "c084fe26faa0",
         "out_degree": 33
       },
       {
@@ -48342,7 +48378,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "838211563048",
+        "hash": "367466b97f21",
         "out_degree": 393
       },
       {
@@ -48525,7 +48561,7 @@
         "from": "book:causality",
         "to": "the-irreducible-prior-of-decision-and-consequence",
         "rel": "collects",
-        "label": "The Irreducible Prior of Decision and Consequence"
+        "label": "决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence"
       },
       {
         "from": "book:causality",
@@ -51447,7 +51483,7 @@
         "from": "book:index-of-premises",
         "to": "the-irreducible-prior-of-decision-and-consequence",
         "rel": "collects",
-        "label": "The Irreducible Prior of Decision and Consequence"
+        "label": "决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence"
       },
       {
         "from": "book:index-of-premises",
@@ -51813,7 +51849,7 @@
         "from": "book:index-of-premises",
         "to": "the-irreducible-prior-of-decision-and-consequence",
         "rel": "collects",
-        "label": "The Irreducible Prior of Decision and Consequence"
+        "label": "决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence"
       },
       {
         "from": "book:index-of-premises",
@@ -52389,7 +52425,7 @@
         "from": "book:index-of-premises",
         "to": "the-irreducible-prior-of-decision-and-consequence",
         "rel": "collects",
-        "label": "The Irreducible Prior of Decision and Consequence"
+        "label": "决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence"
       },
       {
         "from": "book:index-of-premises",
