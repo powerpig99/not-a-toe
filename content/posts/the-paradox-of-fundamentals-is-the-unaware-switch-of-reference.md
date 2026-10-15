@@ -8,19 +8,19 @@ Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: t
 
 常见的观察是：几乎所有从业者都认为自己懂基本面，几乎从不把它们完整地当作行动的原则来实践，而大多数时候为了此刻想相信的东西把它们搁在一边。悖论的样子，就是那一次没有被察觉的切换；被登记为悖论的是这次切换，而不是正在被决定的那片场域。
 
-The common observation is that almost all practitioners think they know the fundamentals, almost never practice them fully as the principle of the act, and most of the time set them aside in favor of what they want to believe at the moment. The appearance of paradox is that unnoticed switch; what registers as paradox is the switch, not the field being decided.
+The common observation is that almost all practitioners take themselves to know the fundamentals, almost never practice those distinctions fully as the principle of the act, and most of the time set them aside for what they want to believe at the moment. What appears as paradox is that unnoticed switch; what registers as paradox is the switch, not the field being decided.
 
 ## 一、 常见的观察把两个框架当成一种懂得 / 1. The Common Observation Treats Two Frames as One Knowing
 
 几乎所有从业者都认为自己懂基本面。几乎从来没有人把这些区分完整地当作真正支配决策的原则来实践。大多数时候，它们被搁在一边，让位于个人此刻想相信的东西。一个活着的仓位、一个跳动的报价、行情上流传的一个叙事占据了这个范围；剩余风险、机会成本、叙事溢价与净资产之间的差距，并不是正在起作用的参照。事后在复盘里、课堂上、交谈中被问起，同一个人从回顾的框架作答：这些区分当然知道。两次登记被当成一种连续的能力。金融只是典型的那一面；凡是一套知识在回顾中被肯定、却从正在做决定的范围里掉出去的地方，都能看到同样的情形。
 
-Almost all practitioners think they know the fundamentals. Almost never are those distinctions practiced fully as the principle actually governing the decision. Most of the time they are set aside in favor of what the individual wants to believe at the moment. A live position, a moving price, a narrative on the tape occupies the span; residual risk, opportunity cost, and the gap between narrative premium and net asset are not the reference that is operating. Asked later, in a review, a classroom, a conversation, the same individual answers from the retrospective frame: of course those distinctions are known. The two registrations are treated as one continuous competence. Finance is only the typical face; the same observation appears wherever a body of knowledge is affirmed in retrospect and dropped from the span that is deciding.
+Almost all practitioners think they know the fundamentals. Almost never are those distinctions practiced fully as the principle actually governing the decision. Most of the time they are set aside in favor of what the individual wants to believe at the moment. A live position, a moving price, a narrative circulating on the tape occupies the span; residual risk, opportunity cost, and the gap between narrative premium and net asset are not the reference that is operating. Asked later, in review, in a classroom, in conversation, the same individual answers from the retrospective frame: of course those distinctions are known. The two registrations are treated as one continuous competence. Finance is only the typical face; the same observation appears wherever a body of knowledge is affirmed in retrospect and dropped from the span that is deciding.
 
 ## 二、 基本面是退出范围的较早的区分 / 2. Fundamentals Are Older Distinctions That Fall Out of the Span
 
 基本面就是那些较早的区分：复利、机会成本、剩余风险、激励的对齐、时间价值的不对称、叙事溢价与净资产之间的差距。初次画出时，它们是边缘；后来成了可用的残余；当这个范围被填满，它们便退出了活跃的重新呈现。[遗忘的脚手架](../the-scaffolding-we-forget/)追的是同一种退出：工具必须离开递归，进一步的区分才能落地。这里的退出，是正在起作用的参照发生了切换。
 
-Fundamentals are those older distinctions: compounding, opportunity cost, residual risk, alignment of incentives, the asymmetry of time value, the gap between narrative premium and net asset. When first drawn they were the edge; later they became available residue; when the span fills they fall out of active re-rendering. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces the same drop-out, where the instrument has to leave recursion so that further distinguishing can land. Here the drop-out is a switch in which reference is actually operating.
+Fundamentals are those older distinctions: compounding, opportunity cost, residual risk, alignment of incentives, the asymmetry of time value, the gap between narrative premium and net asset. When first drawn they were the edge; later they became available residue; when the span fills they fall out of active re-rendering. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces the same drop-out, where the instrument has to leave recursion so that further distinguishing can land. Here the drop-out is the switch of which reference is actually operating.
 
 ## 三、 回顾的框架仍回答“当然” / 3. The Retrospective Frame Still Answers "Of Course"
 
@@ -61,7 +61,7 @@ flowchart TD
     style N fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When the same individual is inside a real-time decision, the frame of reference has already switched. The present span is occupied by the latest prices, narratives, signals of status, the residual pressures of the moment, and what that individual wants to believe right now. The originating distinctions have dropped out and are treated as given, background assumptions that no longer need to be reopened against the field actually generating the decision. The preferred belief of the moment is the operating reference; the fundamentals remain in the image of knowing.
+When the same individual is inside a real-time decision, the frame of reference has already switched. The present span is occupied by the latest prices, narratives, signals of status, the residual pressures of the moment, and what that individual wants to believe right now. The originating distinctions have dropped out and are treated as given, background that no longer needs to be reopened against the field generating the decision. The preferred belief of the moment is the operating reference; the fundamentals remain in the image of knowing.
 
 ```mermaid
 flowchart TD
@@ -102,7 +102,7 @@ The switch between the two frames happens without awareness. From outside it loo
 
 这种错配就是机制。逻辑上的不自洽之所以出现，是因为决策被拿去对照一个已经不再持有那些本会塑造它的区分的框架。剩余风险、机会成本、激励的对齐不再是活跃的轴，它们作为给定的东西起作用；起作用的是此刻偏爱的信念。决策变坏，不是因为知识缺席，而是因为在行动的那一刻，知识已经不是正在起作用的参照。
 
-The mismatch is the mechanism. Logical incoherence appears because the decision is measured against a frame that no longer holds the distinctions that would have shaped it. Residual risk, opportunity cost and the alignment of incentives are no longer active axes; they function as given, and what operates is the preferred belief of the moment. Decisions deteriorate not because the knowledge is absent but because, at the moment of action, the knowledge is no longer the reference that is operating.
+The mismatch is the mechanism. Logical incoherence appears because the decision is measured against a frame that no longer holds the distinctions that would have shaped it. Residual risk, opportunity cost and the alignment of incentives are no longer active axes; they function as given, and what operates is the preferred belief of the moment. Decisions deteriorate not because the knowledge is absent but because, at the moment of action, the knowledge is no longer the operating reference.
 
 ## 七、 任何推进的负荷下都有同样的退出 / 7. The Same Drop-Out Under Any Advancing Load
 
