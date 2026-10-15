@@ -2929,11 +2929,11 @@ Rights-talk states the pattern of non-aggression as rights each person holds, wh
 ### 个人主义与集体主义之争 / Individualism versus Collectivism
 `意识形态 / Ideological`
 
-该争论预设道德框架决定生产能否复利；两者只是对因果力位置的叠加叙述，回路照常以多数人消费少数人剩余的方式运行。
+个人主义与集体主义之争，在讲清下一次分配留在产出之处还是被搬到一个集体对象上时有用；它在此到了边界：它预设道德框架决定生产能否复利，而两者只是罩在因果力量所在位置上的外衣，回路照常以大众消费少数人剩余的方式运转。
 
-The debate presumes the moral framing authors whether production compounds; both are overlays on where causal power is located, while the loop runs as the mass consuming the few's surplus.
+The contest of individualism and collectivism is of use in naming whether the next allocation stays where the output was made or moves onto a collective object; it reaches its boundary in that it presumes the moral framing authors whether production compounds, while both are overlays on where causal power is located and the loop runs as the mass consuming the few's surplus.
 
-→ [Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [自由变量的生成拓扑 / The Generative Topology of Free Variables](../../posts/the-generative-topology-of-free-variables/)
+→ [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [自由变量的生成拓扑 / The Generative Topology of Free Variables](../../posts/the-generative-topology-of-free-variables/)
 
 ### 通胀与货币作为自行运作的机制 / Inflation and Currency as Self-Acting Mechanisms
 `经济 / Economic`
@@ -3604,11 +3604,11 @@ The outsmarting narrative dresses up failure in consequence-free digital sandbox
 ### 一夜突破叙事 / Overnight Breakthrough Narrative
 `科学 / Scientific`
 
-把 mRNA 癌症疫苗三期结果当作希望降临，预设了突然诞生；之前有多年平台积累，这次结果标示的是可重复比较的门槛。
+把一次三期结果当作希望在一夜之间降临，在让一道门槛被广泛看见时有用；它在此到了边界：它预设一种方法的突然诞生，而之前是多年的平台工作，这次结果标示的是一道足以作为新闻被重复的比较门槛。
 
-Hailing a Phase 3 mRNA cancer vaccine as hope arriving presumes a sudden birth; years of platform work preceded it, and the readout marks a threshold of repeatable comparison.
+Hailing a Phase 3 readout as hope arriving overnight is of use in making a threshold widely seen; it reaches its boundary in that it presumes the sudden birth of a method, while years of platform work preceded it and the readout marks a threshold of comparison clean enough to repeat as news.
 
-→ [Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/)
+→ [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/)
 
 ### 范式转移与局部延伸 / Paradigm Shift vs Extension
 `哲学 / Philosophical`
@@ -3982,11 +3982,11 @@ Singularity enthusiasts treat recursive model improvements as runaway machine wi
 ### 再分配作为授权 / Redistribution as Authorization
 `经济 / Economic`
 
-把转移视为回路所需，就把因果力放在消费上；事后登记无法为先前的生产授权，以转移为依据会削弱本可锐化生产的回报。
+把转移视为回路所需，在安排后来的、对残差的拾取时有用；它在此到了边界：它把因果力量放在消费上，而后来的登记无法为先前的生产授权，以转移为依据会削弱本可磨利生产的回报。
 
-Treating transfer as what the loop requires places causal power on consumption; later registration cannot authorize earlier making, so transfer-as-justification thins the return that would sharpen production.
+Treating transfer as what the loop requires is of use in arranging a later pickup of residue; it reaches its boundary in that it places causal power on consumption, while later registration cannot authorize earlier making, so transfer as justification thins the return that would sharpen production.
 
-→ [Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
+→ [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
 
 ### 丰裕会平息零和之争 / Abundance Will Quiet Zero-Sum Contest
 `经济 / Economic`

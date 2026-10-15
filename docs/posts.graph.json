@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T14:35:00.947Z",
+    "generated_at": "2026-10-15T14:40:05.113Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -143,7 +143,7 @@
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
       "content/posts/openness-is-consistency.md": "d59516b9e190",
-      "content/posts/order-surplus-and-the-moral-intercept.md": "08d29149e318",
+      "content/posts/order-surplus-and-the-moral-intercept.md": "48c8574daea1",
       "content/posts/overfitting-as-the-follower-mode.md": "c2ebb1c4e1e2",
       "content/posts/ownership-and-self-worthiness.md": "f5ec65e92962",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
@@ -403,8 +403,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
       "content/book/causality.md": "d5550db9b19b",
       "content/book/consciousness.md": "b829238e63a6",
-      "content/book/economics.md": "980e057c3c88",
-      "content/book/index-of-premises.md": "b342cb49afda",
+      "content/book/economics.md": "ea7e87a7d0b8",
+      "content/book/index-of-premises.md": "43c2a2f0a6b4",
       "content/book/intelligence.md": "eb59e8b28085",
       "content/book/knowledge-and-learning.md": "a89aa3110f83",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6299,
+      "edges": 6312,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -3942,8 +3942,8 @@
       "kind": "post",
       "slug": "order-surplus-and-the-moral-intercept",
       "path": "content/posts/order-surplus-and-the-moral-intercept.md",
-      "title": "Order, Surplus, and the Moral Intercept",
-      "hash": "08d29149e318",
+      "title": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept",
+      "hash": "48c8574daea1",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -22756,55 +22756,121 @@
       "from": "order-surplus-and-the-moral-intercept",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
-      "label": "The illusion of free intelligence"
+      "label": "免费智能的幻觉"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The Illusion of Free Intelligence"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "公共支出不创造资本"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "Technology is residual of human compounding"
+      "label": "技术是人类复利的残差"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology Is Residual of Human Compounding"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "when-need-stops-being-the-measure",
+      "rel": "points_to",
+      "label": "当被需要不再是衡量"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
@@ -22816,13 +22882,25 @@
       "from": "order-surplus-and-the-moral-intercept",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
-      "label": "When need stops being the measure"
+      "label": "When Need Stops Being the Measure"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "Moral language dilutes the feedback that scales freedom"
+      "label": "道德语言稀释自由复利的反馈"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "道德语言作为投影"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
@@ -47685,7 +47763,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "980e057c3c88",
+        "hash": "ea7e87a7d0b8",
         "out_degree": 28
       },
       {
@@ -47694,7 +47772,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b342cb49afda",
+        "hash": "43c2a2f0a6b4",
         "out_degree": 393
       },
       {
@@ -48357,7 +48435,7 @@
         "from": "book:economics",
         "to": "order-surplus-and-the-moral-intercept",
         "rel": "collects",
-        "label": "Order, Surplus, and the Moral Intercept"
+        "label": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept"
       },
       {
         "from": "book:economics",
@@ -50751,7 +50829,7 @@
         "from": "book:index-of-premises",
         "to": "order-surplus-and-the-moral-intercept",
         "rel": "collects",
-        "label": "Order, Surplus, and the Moral Intercept"
+        "label": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept"
       },
       {
         "from": "book:index-of-premises",
@@ -51231,7 +51309,7 @@
         "from": "book:index-of-premises",
         "to": "order-surplus-and-the-moral-intercept",
         "rel": "collects",
-        "label": "Order, Surplus, and the Moral Intercept"
+        "label": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept"
       },
       {
         "from": "book:index-of-premises",
@@ -51513,7 +51591,7 @@
         "from": "book:index-of-premises",
         "to": "order-surplus-and-the-moral-intercept",
         "rel": "collects",
-        "label": "Order, Surplus, and the Moral Intercept"
+        "label": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept"
       },
       {
         "from": "book:index-of-premises",
