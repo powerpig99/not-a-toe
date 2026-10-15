@@ -2974,11 +2974,11 @@ Studies record stable ability differences as traits; ability is accumulated loop
 ### 制度因果论 / Institutional Causality
 `意识形态 / Ideological`
 
-无论叙述为善意守护还是官僚俘获，都把制度当作结果的作者；制度是分布式选择的记录，因能动性错置而被赋予因果优先。
+无论讲成善意的守护还是官僚的俘获，制度因果论都把制度当作结果的作者，在描述集体结构如何协调行动时有用；它在此到了边界：制度是分布式选择的记录，被赋予因果优先，是因为能动性被向外位移了，而技术与采用它的个人被从账本上划掉。
 
-Narratives of benevolent guardianship or bureaucratic capture both treat institutions as authors of outcomes; institutions are records of distributed choices, granted causal priority by misplaced agency.
+Whether told as benevolent guardianship or bureaucratic capture, institutional causality treats institutions as the authors of outcomes, which is of use in describing how collective structures coordinate action; it reaches its boundary in that institutions are records of distributed choices, granted causal priority because agency has been displaced outward, while technology and the individuals who adopt it are written out of the ledger.
 
-→ [Moral Language as Projection](../../posts/moral-language-as-projection/)
+→ [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/)
 
 ### 教育与科学的建制化倒置 / Institutional Inversion of Education
 `哲学 / Philosophical`
@@ -3442,11 +3442,11 @@ Moral vocabulary presumes good and evil describe consequences; it inserts evalua
 ### 道德实在论 / Moral Realism
 `哲学 / Philosophical`
 
-道德范畴被当作世界的属性；它们是由道德语言制造、编码说话者立场的区分，可用于标示站队，却说明不了机制。
+道德实在论把道德范畴当作世界的属性，在标示站队、协调共同期待时有用；它在此到了边界：这些范畴是道德语言划出的区分，编码说话者的地位、威胁感与防御姿态，同一份摩擦可以被称作审慎或减速，它们说明的是位置，不是机制。
 
-Moral categories are taken as properties of the world; they are distinctions manufactured by moral language encoding the speaker's stance, useful for signalling alignment, silent on mechanism.
+Moral realism takes moral categories as properties of the world, which is of use in signalling alignment and coordinating shared expectations; it reaches its boundary in that these categories are distinctions drawn by moral language, encoding the speaker's status, sense of threat and defensive posture, so the same friction can be called caution or deceleration, and they explain position, not mechanism.
 
-→ [Moral Language as Projection](../../posts/moral-language-as-projection/)
+→ [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/)
 
 ### 道德化苛求他人包容 / Moralistic Demand for Openness
 `哲学 / Philosophical`
@@ -5008,11 +5008,11 @@ A zero-knowledge proof establishes truth without revealing the witness; the form
 ### 零和世界观 / Zero-Sum Worldview
 `经济 / Economic`
 
-封闭现实前提把资源与地位当作固定池子；净价值只在开放前提下产生，零和机制依靠开放时刻生产的剩余得以维持。
+封闭现实的前提把资源、地位与可能性当作一个固定的池子，在分配一份确实有限的存量时有用；它在此到了边界：净价值只在开放的前提下被生成，零和的机制本身是负和的，它的延续依靠同一批人在开放时刻生产出的剩余。
 
-Closed-reality premises treat resources and status as a fixed pool; net value arises only under open premises, and zero-sum apparatuses endure on surplus produced in open moments.
+The closed-reality premise treats resources, status and possibility as a fixed pool, which is of use in dividing a stock that really is finite; it reaches its boundary in that net value is generated only under the open premise, zero-sum mechanisms are themselves negative-sum, and they endure on the surplus the same people produce in their open moments.
 
-→ [One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/)
+→ [One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/)
 
 ### 梵我一如（奥义书） / Ātman–Brahman Identity (Upanishads)
 `宗教 / Religious`

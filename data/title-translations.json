@@ -381,10 +381,6 @@
       "title_zh": "Token 效率、模拟与无法弥合的间隙",
       "subtitle_zh": "模型可以被训练去压缩推理，却无法发起让压缩成为内生的那份利害；效率本身是成功的低效推理的结果，而不是跳过它的许可。"
     },
-    "moral-language-as-projection": {
-      "title_zh": "道德语言作为投影",
-      "subtitle_zh": "封闭的现实、制度的能动与对开放边界的承认。"
-    },
     "symptom-and-cause-in-the-narratives-of-progress": {
       "title_zh": "进步叙事中的症候与原因",
       "subtitle_zh": "集体信念是对发起中心已在进行的活动的延迟登记，而不是经济运动的引擎。"
@@ -404,6 +400,18 @@
     "the-mind-that-statistics-cannot-reveal": {
       "title_zh": "统计学无法揭示的心智",
       "subtitle_zh": "统计把过去选择的痕迹聚合成分布；决定、关注或错误归因的因果力量，严格地留在心智这一边。"
+    },
+    "deceleration-is-the-drag-felt-when-accelerating": {
+      "title_zh": "减速是加速时感受到的阻力",
+      "subtitle_zh": "减速不是一股与进步对抗的独立力量，而是速度带来的反作用阻力，只在被当作敌人对抗时才稳定下来。"
+    },
+    "ones-potential-as-threat-or-inspiration": {
+      "title_zh": "潜能作为威胁或启发",
+      "subtitle_zh": "在封闭的前提下，他人的上升被登记为减法；进步取决于心智多频繁地选择把潜能当作地平线的扩展。"
+    },
+    "order-surplus-and-the-moral-intercept": {
+      "title_zh": "秩序、剩余与道德拦截",
+      "subtitle_zh": "拦截是一种道德语言，它把因果力量移到一个从生产到消费早已运转的回路的后一端。"
     }
   }
 }

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T06:32:18.842Z",
+    "generated_at": "2026-10-15T08:19:03.837Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -120,7 +120,7 @@
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "ac0fdb212b18",
-      "content/posts/moral-language-as-projection.md": "bd8b0ba87059",
+      "content/posts/moral-language-as-projection.md": "2e2ec4e93260",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "3db3be1e8677",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "9261da00dc72",
@@ -404,14 +404,14 @@
       "content/book/causality.md": "8f21d6cadeb2",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "ba3208ba7aa9",
+      "content/book/index-of-premises.md": "d4fd573c5982",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "21d66be046ac",
       "content/book/mathematics.md": "8bb7852e7439",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "d52dd5b06929",
-      "content/book/morality.md": "4cf968f4c1ca",
+      "content/book/morality.md": "379c67fbc0c1",
       "content/book/physics.md": "1f011286f992",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "32d9ad39bfa4",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6152,
+      "edges": 6162,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -3357,8 +3357,8 @@
       "kind": "post",
       "slug": "moral-language-as-projection",
       "path": "content/posts/moral-language-as-projection.md",
-      "title": "Moral Language as Projection",
-      "hash": "bd8b0ba87059",
+      "title": "道德语言作为投影 / Moral Language as Projection",
+      "hash": "2e2ec4e93260",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -20344,19 +20344,49 @@
       "from": "moral-language-as-projection",
       "to": "ones-potential-as-threat-or-inspiration",
       "rel": "points_to",
-      "label": "One’s Potential as Threat or Inspiration"
+      "label": "潜能作为威胁或启发"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "One's Potential as Threat or Inspiration"
     },
     {
       "from": "moral-language-as-projection",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
     },
     {
       "from": "moral-language-as-projection",
       "to": "order-surplus-and-the-moral-intercept",
       "rel": "points_to",
-      "label": "Order, surplus, and the moral intercept"
+      "label": "秩序、剩余与道德拦截"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "能动性的错配"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "协调者的范畴错误"
     },
     {
       "from": "moral-language-as-projection",
@@ -20368,13 +20398,43 @@
       "from": "moral-language-as-projection",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The coordinator’s category error"
+      "label": "The Coordinator's Category Error"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "减速是加速时感受到的阻力"
     },
     {
       "from": "moral-language-as-projection",
       "to": "deceleration-is-the-drag-felt-when-accelerating",
       "rel": "points_to",
       "label": "Deceleration Is the Drag Felt When Accelerating"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "表征的闭环"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "the-self-portrait-in-the-projection",
+      "rel": "points_to",
+      "label": "投射中的自画像"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
     },
     {
       "from": "moral-language-as-projection",
@@ -20392,13 +20452,13 @@
       "from": "moral-language-as-projection",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "moral-language-as-projection",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition"
+      "label": "Seeing the Default State and Dynamic Leaps of Cognition Through Judgments of Purpose"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -46812,7 +46872,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ba3208ba7aa9",
+        "hash": "d4fd573c5982",
         "out_degree": 393
       },
       {
@@ -46875,7 +46935,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "4cf968f4c1ca",
+        "hash": "379c67fbc0c1",
         "out_degree": 28
       },
       {
@@ -49905,7 +49965,7 @@
         "from": "book:index-of-premises",
         "to": "moral-language-as-projection",
         "rel": "collects",
-        "label": "Moral Language as Projection"
+        "label": "道德语言作为投影 / Moral Language as Projection"
       },
       {
         "from": "book:index-of-premises",
@@ -50235,7 +50295,7 @@
         "from": "book:index-of-premises",
         "to": "moral-language-as-projection",
         "rel": "collects",
-        "label": "Moral Language as Projection"
+        "label": "道德语言作为投影 / Moral Language as Projection"
       },
       {
         "from": "book:index-of-premises",
@@ -51357,7 +51417,7 @@
         "from": "book:index-of-premises",
         "to": "moral-language-as-projection",
         "rel": "collects",
-        "label": "Moral Language as Projection"
+        "label": "道德语言作为投影 / Moral Language as Projection"
       },
       {
         "from": "book:index-of-premises",
@@ -52497,7 +52557,7 @@
         "from": "book:morality",
         "to": "moral-language-as-projection",
         "rel": "collects",
-        "label": "Moral Language as Projection"
+        "label": "道德语言作为投影 / Moral Language as Projection"
       },
       {
         "from": "book:morality",
