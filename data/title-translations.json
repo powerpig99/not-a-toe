@@ -423,6 +423,9 @@
     "whatever-is-one-prompt-away": {
       "title_zh": "一个提示词之遥",
       "subtitle_zh": "看似底下那一层的永久丧失，其实是难度被同一种活动挪到了新生成的表面上，先前的选项仍在，只是在一片扩张的场中所占的份额越来越小。"
+    },
+    "context-engineering-essay": {
+      "title_zh": "层层皆是语境"
     }
   }
 }

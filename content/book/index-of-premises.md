@@ -1208,11 +1208,11 @@ Minimizing avoidable suffering treats suffering as an object external agency can
 ### 神经网络缩放定律 / Neural Scaling Laws
 `技术 / Technological`
 
-Kaplan 与 Chinchilla 缩放定律把既有产物当作待压缩的固定语料；对预训练效率有效，却冻结了语料持续变化的回路中的一个旋钮。
+Kaplan 与 Chinchilla 的缩放定律把既有产物当作待压缩的给定语料，在安排预训练中参数与数据的配比时有用；它们在此到了边界：语料本身在回路中不断扩张，权重只是当前集合的一张有限快照，把它当作上限，就冻结了回路的一个旋钮。
 
-Kaplan and Chinchilla scaling laws treat a given artifact set as fixed corpus to compress; valid for pre-training efficiency, they freeze one dial of a loop whose corpus keeps changing.
+The Kaplan and Chinchilla scaling laws treat existing artifacts as a given corpus to compress, which is of use in allocating parameters and data in pre-training; they reach their boundary in that the corpus itself keeps expanding in the loop, and the weights are a finite snapshot of the current set, so taking them as the limit freezes one dial of the loop.
 
-→ [The Scaling Loop: Compression, Recombination, and the Minds That Keep Redrawing the Edges](../../posts/the-scaling-loop/)
+→ [规模化回路 / The Scaling Loop](../../posts/the-scaling-loop/)
 
 ### 没有免费午餐定理 / No Free Lunch Theorem
 `数学 / Mathematical`
@@ -3766,11 +3766,11 @@ Imitating how the successful raise children after their success, believing insul
 ### 后训练强化学习作为独立维度 / Post-Training Reinforcement Learning as Independent Axis
 `技术 / Technological`
 
-强调长程强化学习，正确指出了一个被低估的阶段；若视为独立维度，就忽略了重组产物经特定心智的选择重新进入预训练。
+强调长程强化学习，在指出一个此前被低估的阶段时有用；它在此到了边界：把它当作独立的维度，就漏掉了重组出的产物经特定心智的选择重新进入预训练，后训练只是循环中的一个阶段。
 
-Emphasis on long-horizon RL correctly identifies an under-scaled phase; treated as independent, it misses that recombined artifacts re-enter pre-training through selection by particular minds.
+Emphasizing long-horizon reinforcement learning is of use in identifying a previously under-scaled phase; it reaches its boundary in that treating it as an independent axis misses that recombined artifacts re-enter pre-training through selection by particular minds, so post-training is one phase of the circulation.
 
-→ [The Scaling Loop: Compression, Recombination, and the Minds That Keep Redrawing the Edges](../../posts/the-scaling-loop/)
+→ [规模化回路 / The Scaling Loop](../../posts/the-scaling-loop/)
 
 ### 贫困陷阱 / Poverty Trap
 `经济 / Economic`
@@ -4468,11 +4468,11 @@ Sentimental ethics praises emotional sympathy as the peak of virtue; pity projec
 ### 合成数据自我改进 / Synthetic Data Self-Improvement
 `技术 / Technological`
 
-合成数据被想象成模型自我喂养；重新进入的是经人类选择、筛选与评估重塑的残余，回路的边界由判断重新划定。
+把合成数据想象成模型自我喂养，在描述产物集如何扩张时有用；它在此到了边界：重新进入的，是经人类选择、过滤与评估重塑的余留，而不是一条自己吞吃尾巴的蛇，回路的边界由判断重画。
 
-Synthetic data is imagined as a model feeding on itself; what re-enters is residue reshaped by human selection, filtering and evaluation, so the loop's bound is redrawn by judgment.
+Imagining synthetic data as a model feeding on itself is of use in describing how the artifact set expands; it reaches its boundary in that what re-enters is residue reshaped by human selection, filtering and evaluation, not a snake eating its own tail, so the loop's bound is redrawn by judgement.
 
-→ [The Scaling Loop: Compression, Recombination, and the Minds That Keep Redrawing the Edges](../../posts/the-scaling-loop/)
+→ [规模化回路 / The Scaling Loop](../../posts/the-scaling-loop/)
 
 ### 系统性归咎 / Systemic Blame
 `意识形态 / Ideological`
