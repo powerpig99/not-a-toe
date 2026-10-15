@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T12:22:14.499Z",
+    "generated_at": "2026-10-15T12:33:39.988Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -100,7 +100,7 @@
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
       "content/posts/hierarchy-from-individual-difference.md": "7c131b8c8217",
       "content/posts/how-belief-actually-changes.md": "b31fc8321707",
-      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "fdc0ace3645a",
+      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "b1e1799200c3",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
       "content/posts/immortality-final.md": "df5d92452896",
@@ -401,10 +401,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
-      "content/book/causality.md": "19bb48d1f364",
+      "content/book/causality.md": "d5550db9b19b",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "980e057c3c88",
-      "content/book/index-of-premises.md": "9899686ae43f",
+      "content/book/index-of-premises.md": "6442db9398a5",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6236,
+      "edges": 6249,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -2763,8 +2763,8 @@
       "kind": "post",
       "slug": "how-to-fix-your-whole-life-in-one-split-second",
       "path": "content/posts/how-to-fix-your-whole-life-in-one-split-second.md",
-      "title": "How to Fix Your Whole Life in One Split Second",
-      "hash": "fdc0ace3645a",
+      "title": "如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second",
+      "hash": "b1e1799200c3",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -18172,6 +18172,18 @@
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
       "label": "Ownership and self-worthiness"
     },
     {
@@ -18179,6 +18191,18 @@
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "道德语言稀释自由复利的反馈"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -18196,6 +18220,18 @@
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "rel": "points_to",
+      "label": "人生是一个持续的自我迭代过程"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因：个人进步的障碍"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "rel": "points_to",
       "label": "Life as a Continuous Process of Self-Iteration"
     },
     {
@@ -18208,7 +18244,31 @@
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "the-generative-contradiction",
       "rel": "points_to",
+      "label": "生成性的矛盾"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
       "label": "The generative contradiction"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "信念如何真正改变"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "共同改变的本源"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "the-sovereign-blinding",
+      "rel": "points_to",
+      "label": "自愿的致盲"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -18232,6 +18292,18 @@
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
       "label": "The model never becomes a second edge"
     },
     {
@@ -18239,6 +18311,12 @@
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "No Universal Salvation, Only Self-Deliverance"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "现实是心智持续的实现"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -47289,7 +47367,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "19bb48d1f364",
+        "hash": "d5550db9b19b",
         "out_degree": 33
       },
       {
@@ -47316,7 +47394,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "9899686ae43f",
+        "hash": "6442db9398a5",
         "out_degree": 393
       },
       {
@@ -47511,7 +47589,7 @@
         "from": "book:causality",
         "to": "how-to-fix-your-whole-life-in-one-split-second",
         "rel": "collects",
-        "label": "How to Fix Your Whole Life in One Split Second"
+        "label": "如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second"
       },
       {
         "from": "book:causality",
@@ -50703,7 +50781,7 @@
         "from": "book:index-of-premises",
         "to": "how-to-fix-your-whole-life-in-one-split-second",
         "rel": "collects",
-        "label": "How to Fix Your Whole Life in One Split Second"
+        "label": "如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second"
       },
       {
         "from": "book:index-of-premises",
@@ -51201,7 +51279,7 @@
         "from": "book:index-of-premises",
         "to": "how-to-fix-your-whole-life-in-one-split-second",
         "rel": "collects",
-        "label": "How to Fix Your Whole Life in One Split Second"
+        "label": "如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second"
       },
       {
         "from": "book:index-of-premises",

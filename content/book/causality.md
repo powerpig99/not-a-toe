@@ -25,7 +25,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [关于归因：从事实到因果，从外部节点到内部迭代](../../posts/guan-yu-gui-yin/)
 - [The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
 - [作茧是观察到的现象，自缚是对现象的解读](../../posts/zuo-jian-bu-shi-zi-fu/)
-- [How to Fix Your Whole Life in One Split Second](../../posts/how-to-fix-your-whole-life-in-one-split-second/)
+- [如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second](../../posts/how-to-fix-your-whole-life-in-one-split-second/)
 - [生成性的矛盾 / The Generative Contradiction](../../posts/the-generative-contradiction/)
 - [现实的边界 / The Boundary of Reality](../../posts/xian-shi-de-bian-jie/)
 - [自由即地基 / Freedom as Ground](../../posts/freedom-as-ground/)

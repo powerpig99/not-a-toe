@@ -3406,11 +3406,11 @@ Moral dualism presumes Good and Evil exist as contending cosmic forces; they are
 ### 道德义务 / Moral Duty
 `哲学 / Philosophical`
 
-跨人约束的应当看似共同义务；它是私人交出后果的致密残余，在集体中稳定下来，而每一个后果仍落在做决定的位置上。
+道德义务把跨人约束的“应当”当作共同的义务，在协调许多人对彼此的期待时有用；它在此到了边界：这份“应当”是无数私人把后果交出去之后变得稠密的痕迹，在集体中被强化、稳定下来，而每一个后果仍落在做决定的所在之处。
 
-An ought binding across persons appears as shared obligation; it is densified residue of private hand-overs of consequence, stabilized collectively, while each consequence still lands at the deciding locus.
+Moral duty takes an ought binding across persons as shared obligation, which is of use in coordinating what many people expect of one another; it reaches its boundary in that the ought is the densified residue of countless private hand-overs of consequence, reinforced and stabilized collectively, while each consequence still lands at the deciding locus.
 
-→ [How to Fix Your Whole Life in One Split Second](../../posts/how-to-fix-your-whole-life-in-one-split-second/)
+→ [如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second](../../posts/how-to-fix-your-whole-life-in-one-split-second/)
 
 ### 对成就的道德颠倒批判 / Moral Inversion of Achievement
 `哲学 / Philosophical`
@@ -4072,11 +4072,11 @@ Materialist narratives assume having greater capital causes breakthrough success
 ### 责任是附加的伦理要求 / Responsibility as Ethical Add-On
 `成功学 / Self-Help`
 
-把责任当作道德训诫，预设它附加于行动之外；它是从区分到后果再回来的回路通透性，从内部登记即为自我价值感。
+把责任当作附加于行动之外的伦理要求，在提醒行动有其后果时有用；它在此到了边界：责任是结构的，不是伦理的，它是从区分到后果再回到区分的回路的通透性，后果作为自己的重新进入时模型复利，从内部登记到的，就是自我价值感。
 
-Treating responsibility as moral injunction presumes it is extra to action; it is the loop's permeability from distinction to consequence, useful as self-worth registered from inside.
+Treating responsibility as an ethical demand added to action is of use in recalling that actions have consequences; it reaches its boundary in that responsibility is structural rather than ethical, the permeability of the loop that runs from distinction to consequence and back, so that when outcomes re-enter as owned the model compounds, and registered from inside it is self-worth.
 
-→ [How to Fix Your Whole Life in One Split Second](../../posts/how-to-fix-your-whole-life-in-one-split-second/)
+→ [如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second](../../posts/how-to-fix-your-whole-life-in-one-split-second/)
 
 ### 结论反向绑架认知框架 / Retroactive Frame Capture
 `哲学 / Philosophical`
