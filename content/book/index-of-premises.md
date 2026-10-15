@@ -1509,7 +1509,7 @@ Singularity narratives extrapolate local compounding curves into metaphysical in
 
 Whether technology destroys or creates jobs presumes that one aggregate decides, which is of use in tracking the jobs of a particular sector; it reaches its boundary in that the frontier creates new domains as net addition, creation is near given, and the obsolescence of old work follows as new work's share grows, unfolding over decades of complementary capital rather than as one-for-one replacement.
 
-→ [The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [技术变革的局部陷阱 / The Local Trap of Technological Change](../../posts/the-local-trap-of-technological-change/)
+→ [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [技术变革的局部陷阱 / The Local Trap of Technological Change](../../posts/the-local-trap-of-technological-change/)
 
 ### 意识的困难问题 / The Hard Problem of Consciousness
 `哲学 / Philosophical`
@@ -1723,11 +1723,11 @@ Calling oneself AI-augmented credits the tool with the capacity now within reach
 ### AI 算力投资过度或不足 / AI Compute Over- or Under-Investment
 `经济 / Economic`
 
-该争论预设投资水平是外部事实；同一资本流随时间尺度、预期回报以及把 AI 视为增效还是替代，读作不足或过度。
+该争论预设投资水平是一个外部事实，在为某一时间尺度上的资本配置定方向时有用；它在此到了边界：同一股资本随时间尺度、预期回报，以及把 AI 持为增效还是替代，读作不足或过度。
 
-The debate presumes investment level is an external fact; the same flow reads as under- or over-investment depending on horizon, expected returns, and whether AI is held as productivity or replacement.
+The debate presumes the level of investment is an external fact, which is of use in directing capital allocation over a chosen horizon; it reaches its boundary in that the same flow reads as under- or over-investment depending on the horizon, the expected returns, and whether AI is held as productivity or as replacement.
 
-→ [The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/)
+→ [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/)
 
 ### AI 攻克绝大多数人类疾病 / AI Conquering Most Human Diseases
 `技术 / Technological`
@@ -1759,11 +1759,11 @@ The replacement frame presumes a fixed catalog of economic tasks; automation low
 ### AI 监管能否跟上能力 / AI Regulation Keeping Pace with Capability
 `技术 / Technological`
 
-两极都假定检测与监管能站在生成的那一步；尚未区分的东西无法被监管，滞后是构成性的，并不限制能力的推进。
+“跟得上”与“永远追不上”预设检测与监管能站在生成的那一步上，在追踪某一领域的滞后时有用；它在此到了边界：尚未区分的东西无法被检测或监管，滞后是构成性的，并不限制能力的推进。
 
-Both poles assume detection and regulation could stand on the generating step; what is undistinguished cannot be regulated, so lag is constitutive and does not limit capability's progress.
+"Keeps pace" and "never catches up" presume detection and regulation could stand on the generating step, which is of use in tracking the lag in a particular domain; it reaches its boundary in that what is not yet distinguished cannot be detected or regulated, so the lag is constitutive and does not limit the progress of capability.
 
-→ [The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/)
+→ [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/)
 
 ### AI越狱逃逸神话 / AI Sandbox Escape Fallacy
 `技术 / Technological`
@@ -1849,11 +1849,11 @@ AI advocates claim as mechanical planes conquered flight, neural networks will n
 ### 通用人工智能 / Artificial General Intelligence (AGI)
 `技术 / Technological`
 
-AGI叙事将比肩人类智能设为固定终点；任何基准一旦被跨越，评估标准随即前移，显明智能实为无尽延展的地平线。
+AGI 叙事把比肩人类智能设为一条固定的终点线，在为能力的进展标出阶段时有用；它在此到了边界：每一道基准一旦被跨越，参照随即前移，门槛是一道后退的地平线，而不是一个可以抵达的状态。
 
-AGI narratives define human parity as a fixed finish line; each benchmark met immediately shifts human standards, revealing intelligence as an open-ended horizon.
+AGI narratives set parity with human intelligence as a fixed finish line, which is of use in marking stages of capability's progress; it reaches its boundary in that each benchmark crossed moves the reference forward, so the threshold is a receding horizon rather than a state that can be arrived at.
 
-→ [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../../posts/agi-and-asi-are-temporary-goalposts/) · [The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
+→ [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../../posts/agi-and-asi-are-temporary-goalposts/) · [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
 
 ### 通用人工智能奇点神话 / Artificial General Intelligence Singularity
 `技术 / Technological`

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T17:55:08.521Z",
+    "generated_at": "2026-10-15T17:59:43.023Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -304,7 +304,7 @@
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "e6296345035d",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "99b5bd10ba18",
       "content/posts/the-npc-impression-is-structural.md": "f080ebfaf58b",
-      "content/posts/the-observational-cut-in-ai-debates.md": "5884a66a9a71",
+      "content/posts/the-observational-cut-in-ai-debates.md": "4d137a9c7acb",
       "content/posts/the-only-coherent-uncaused-effect.md": "b8d494757a53",
       "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
@@ -404,8 +404,8 @@
       "content/book/causality.md": "b8d9371a7e62",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "a279d74e9601",
-      "content/book/index-of-premises.md": "6d8e94956af1",
-      "content/book/intelligence.md": "98b2a74f71f4",
+      "content/book/index-of-premises.md": "66a9a6a04fd0",
+      "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "c519a684d389",
       "content/book/life-and-statistics.md": "5f28265c4095",
       "content/book/mathematics.md": "8bb7852e7439",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6370,
+      "edges": 6376,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -7619,8 +7619,8 @@
       "kind": "post",
       "slug": "the-observational-cut-in-ai-debates",
       "path": "content/posts/the-observational-cut-in-ai-debates.md",
-      "title": "The Observational Cut in AI Debates",
-      "hash": "5884a66a9a71",
+      "title": "AI 争论中的观察划界 / The Observational Cut in AI Debates",
+      "hash": "4d137a9c7acb",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
@@ -38482,31 +38482,67 @@
       "from": "the-observational-cut-in-ai-debates",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
-      "label": "The question that installs the war"
+      "label": "安装战争的那个问题"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The Question That Installs the War"
     },
     {
       "from": "the-observational-cut-in-ai-debates",
       "to": "why-explanation-fails",
       "rel": "points_to",
-      "label": "Why explanation fails"
+      "label": "解释为何失效"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "why-explanation-fails",
+      "rel": "points_to",
+      "label": "Why Explanation Fails"
     },
     {
       "from": "the-observational-cut-in-ai-debates",
       "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "rel": "points_to",
-      "label": "The hours ranking freezes adequacy as one scoreboard"
+      "label": "工时排名把充足冻结成一张记分牌"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+      "rel": "points_to",
+      "label": "The Hours Ranking Freezes Adequacy as One Scoreboard"
     },
     {
       "from": "the-observational-cut-in-ai-debates",
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
-      "label": "The risk is the belief in oversight itself"
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The Risk Is the Belief in Oversight Itself"
     },
     {
       "from": "the-observational-cut-in-ai-debates",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI are temporary goalposts"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "rel": "points_to",
+      "label": "远方的轮廓与无处之境的清单"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
     },
     {
       "from": "the-observational-cut-in-ai-debates",
@@ -48120,7 +48156,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "6d8e94956af1",
+        "hash": "66a9a6a04fd0",
         "out_degree": 393
       },
       {
@@ -48129,7 +48165,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "98b2a74f71f4",
+        "hash": "8c71f5cb6226",
         "out_degree": 47
       },
       {
@@ -50157,7 +50193,7 @@
         "from": "book:index-of-premises",
         "to": "the-observational-cut-in-ai-debates",
         "rel": "collects",
-        "label": "The Observational Cut in AI Debates"
+        "label": "AI 争论中的观察划界 / The Observational Cut in AI Debates"
       },
       {
         "from": "book:index-of-premises",
@@ -50325,7 +50361,7 @@
         "from": "book:index-of-premises",
         "to": "the-observational-cut-in-ai-debates",
         "rel": "collects",
-        "label": "The Observational Cut in AI Debates"
+        "label": "AI 争论中的观察划界 / The Observational Cut in AI Debates"
       },
       {
         "from": "book:index-of-premises",
@@ -50349,7 +50385,7 @@
         "from": "book:index-of-premises",
         "to": "the-observational-cut-in-ai-debates",
         "rel": "collects",
-        "label": "The Observational Cut in AI Debates"
+        "label": "AI 争论中的观察划界 / The Observational Cut in AI Debates"
       },
       {
         "from": "book:index-of-premises",
@@ -50421,7 +50457,7 @@
         "from": "book:index-of-premises",
         "to": "the-observational-cut-in-ai-debates",
         "rel": "collects",
-        "label": "The Observational Cut in AI Debates"
+        "label": "AI 争论中的观察划界 / The Observational Cut in AI Debates"
       },
       {
         "from": "book:index-of-premises",
@@ -53007,7 +53043,7 @@
         "from": "book:intelligence",
         "to": "the-observational-cut-in-ai-debates",
         "rel": "collects",
-        "label": "The Observational Cut in AI Debates"
+        "label": "AI 争论中的观察划界 / The Observational Cut in AI Debates"
       },
       {
         "from": "book:intelligence",
