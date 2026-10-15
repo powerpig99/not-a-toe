@@ -27,7 +27,7 @@ These essays examine academic credentialism, the true advisory scope of expertis
 - [How Belief Actually Changes](../../posts/how-belief-actually-changes/)
 - [The Reversal from Defensible Claim to Dogma](../../posts/the-reversal-from-defensible-claim-to-dogma/)
 - [读《中文哲学简史》有感](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
-- [The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
+- [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
 - [研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality](../../posts/studying-the-effect-of-ai-relocates-causality/)
 - [学习中不可观测的驱动力 / The Unobservable Driver of Learning](../../posts/the-unobservable-driver-of-learning/)
 - [好奇没有最终的形态 / Curiosity Has No Final Form](../../posts/curiosity-has-no-final-form/)

@@ -116,10 +116,6 @@
     "mi-lv-shi-jie-guo-de-biao-xiang": {
       "title_en": "Power Law Is the Surface Outcome, Not the Generative Logic"
     },
-    "the-homework-exam-inversion-registers-substitution": {
-      "title_zh": "作业与考试的倒置折射出替代效应",
-      "subtitle_zh": "工具只在使用的那一刻放大能力；原生能力此后是否提升，取决于与工具的关系，而不在工具。"
-    },
     "causality-all-the-way": {
       "title_zh": "因果贯穿始终",
       "subtitle_zh": "从持有的结果到划出的模式再到下一步，因果仍是边缘在划出自己的路径。"
@@ -423,6 +419,10 @@
     "amplification-paradox": {
       "title_zh": "放大悖论",
       "subtitle_zh": "AI 工具越好，差别就越取决于操作它的人，而不是越少。"
+    },
+    "whatever-is-one-prompt-away": {
+      "title_zh": "一个提示词之遥",
+      "subtitle_zh": "看似底下那一层的永久丧失，其实是难度被同一种活动挪到了新生成的表面上，先前的选项仍在，只是在一片扩张的场中所占的份额越来越小。"
     }
   }
 }

@@ -2119,11 +2119,11 @@ Venture ideology claims visionary disruption creates open, egalitarian markets; 
 ### 闭卷考试衡量能力 / Closed-Book Examination as Measure of Capability
 `科学 / Scientific`
 
-闭卷考试能有效测量无辅助表现；把它当作全部能力，包括借助工具时的能力，就把一个封闭仪器延伸到了它的范围之外。
+闭卷考试测量无辅助的表现，在评估独立解题时有用；它在此到了边界：把它当作能力的全部，包括借助工具时的能力，就把一个封闭的仪器延伸到了它的握持之外，穷尽性并不随它一起延伸。
 
-Closed-book exams validly measure unaided performance; treating them as the whole of capability, including capability exercised with tools, extends a sealed instrument beyond its hold.
+Closed-book exams measure unaided performance, which is of use in assessing independent problem-solving; they reach their boundary in that treating them as the whole of capability, including capability exercised with tools, extends a sealed instrument beyond its hold, and exhaustiveness does not travel with it.
 
-→ [The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
+→ [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
 
 ### 闭合世界假定 / Closed-World Assumption
 `哲学 / Philosophical`
@@ -2758,11 +2758,11 @@ The model of general-purpose technology diffusion uses electrification and the c
 ### 生成式 AI 损害学习能力 / Generative AI Harms Learning
 `技术 / Technological`
 
-该说法把原因放在工具上；作业分数包含学生加工具，考试只测原始能力，差距登记的是仪器构成、选择效应与每个学生所择的关系。
+说生成式 AI 损害学习，在提醒替代式使用的代价时有用；它在此到了边界：它把原因放在工具上，而作业分数是学生加工具、考试只测原生能力，差距登记的是仪器的构成、选择效应与每个学生所择的关系。
 
-The claim locates cause in the tool; homework scores include student plus tool while exams measure raw capability, so the gap registers instrument composition, selection, and each student's chosen relation.
+The claim that generative AI harms learning is of use in flagging the cost of substitutive use; it reaches its boundary in that it locates the cause in the tool, while homework scores include student plus tool and exams measure raw capability, so the gap registers instrument composition, selection and each student's chosen relation.
 
-→ [The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
+→ [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
 
 ### 自否定的生成性根据 / Generative Ground of Self-Negation
 `哲学 / Philosophical`
@@ -4180,11 +4180,11 @@ Treating mathematics and physics as the furniture of reality assumes the map equ
 ### 选择偏差 / Selection Bias
 `科学 / Scientific`
 
-原始能力越低，在允许时使用 AI 的动机越强；在同等作业分数下比较使用者与非使用者，就把这种选择读成了工具的效果。
+选择偏差提醒，进入一组的人本就与另一组不同，在读任何对照比较时有用；它在此到了边界：原生能力越低，在允许时用 AI 的动机越强，在同等作业分数下比较使用者与非使用者，就把这种选择读成了工具的效应。
 
-Students with lower raw capability have more motive to use AI where allowed; comparing users and non-users at equal homework scores reads that selection as the tool's effect.
+Selection bias recalls that those entering one group already differ from the other, which is of use in reading any comparison; here it reaches its boundary in that lower raw capability gives more motive to use AI where allowed, so comparing users and non-users at equal homework scores reads that selection as the tool's effect.
 
-→ [The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
+→ [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
 
 ### 自身为因的几何学 / Self as Cause Geometry
 `哲学 / Philosophical`

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T15:18:33.097Z",
+    "generated_at": "2026-10-15T15:22:41.051Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -258,7 +258,7 @@
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "b9ba768691c7",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "68e47fce620a",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
-      "content/posts/the-homework-exam-inversion-registers-substitution.md": "3a0a2677ab55",
+      "content/posts/the-homework-exam-inversion-registers-substitution.md": "c1b110edb5b7",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "1940f495097f",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "d915809609b6",
       "content/posts/the-illusion-of-free-intelligence.md": "9568470705b9",
@@ -404,9 +404,9 @@
       "content/book/causality.md": "d5550db9b19b",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "ea7e87a7d0b8",
-      "content/book/index-of-premises.md": "f076264661cd",
+      "content/book/index-of-premises.md": "69c211dcbcb6",
       "content/book/intelligence.md": "eb59e8b28085",
-      "content/book/knowledge-and-learning.md": "a89aa3110f83",
+      "content/book/knowledge-and-learning.md": "c519a684d389",
       "content/book/life-and-statistics.md": "5f28265c4095",
       "content/book/mathematics.md": "8bb7852e7439",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6312,
+      "edges": 6322,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -6673,8 +6673,8 @@
       "kind": "post",
       "slug": "the-homework-exam-inversion-registers-substitution",
       "path": "content/posts/the-homework-exam-inversion-registers-substitution.md",
-      "title": "The Homework–Exam Inversion Registers Substitution",
-      "hash": "3a0a2677ab55",
+      "title": "作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution",
+      "hash": "c1b110edb5b7",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -34444,61 +34444,121 @@
       "from": "the-homework-exam-inversion-registers-substitution",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
       "to": "amplification-paradox",
       "rel": "points_to",
-      "label": "The amplification paradox"
+      "label": "放大悖论"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "amplification-paradox",
+      "rel": "points_to",
+      "label": "The Amplification Paradox"
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
-      "label": "Token efficiency, emulation, and the unclosable gap"
+      "label": "Token 效率、模拟与无法弥合的间隙"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token Efficiency, Emulation, and the Unclosable Gap"
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
-      "label": "Whatever is one prompt away"
+      "label": "一个提示词之遥"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever Is One Prompt Away"
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
       "to": "studying-the-effect-of-ai-relocates-causality",
       "rel": "points_to",
-      "label": "Studying the effect of AI relocates causality"
+      "label": "研究AI效应重置了因果原点"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "Studying the Effect of AI Relocates Causality"
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
-      "label": "The unobservable driver of learning"
+      "label": "学习中不可观测的驱动力"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The Unobservable Driver of Learning"
     },
     {
       "from": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -47772,7 +47832,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "f076264661cd",
+        "hash": "69c211dcbcb6",
         "out_degree": 393
       },
       {
@@ -47790,7 +47850,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "a89aa3110f83",
+        "hash": "c519a684d389",
         "out_degree": 33
       },
       {
@@ -50271,7 +50331,7 @@
         "from": "book:index-of-premises",
         "to": "the-homework-exam-inversion-registers-substitution",
         "rel": "collects",
-        "label": "The Homework–Exam Inversion Registers Substitution"
+        "label": "作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution"
       },
       {
         "from": "book:index-of-premises",
@@ -50709,7 +50769,7 @@
         "from": "book:index-of-premises",
         "to": "the-homework-exam-inversion-registers-substitution",
         "rel": "collects",
-        "label": "The Homework–Exam Inversion Registers Substitution"
+        "label": "作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution"
       },
       {
         "from": "book:index-of-premises",
@@ -51735,7 +51795,7 @@
         "from": "book:index-of-premises",
         "to": "the-homework-exam-inversion-registers-substitution",
         "rel": "collects",
-        "label": "The Homework–Exam Inversion Registers Substitution"
+        "label": "作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution"
       },
       {
         "from": "book:index-of-premises",
@@ -52827,7 +52887,7 @@
         "from": "book:knowledge-and-learning",
         "to": "the-homework-exam-inversion-registers-substitution",
         "rel": "collects",
-        "label": "The Homework–Exam Inversion Registers Substitution"
+        "label": "作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution"
       },
       {
         "from": "book:knowledge-and-learning",
