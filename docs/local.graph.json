@@ -3,12 +3,12 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-local-graph.mjs",
-    "generated_at": "2026-10-15T05:50:41.649Z",
+    "generated_at": "2026-10-15T06:01:56.081Z",
     "project": "not-a-toe",
     "manifest": "docs/local-memory.md",
     "sources": {
       "content/posts/README.md": "ec39893daf32",
-      "docs/essay-format.md": "722fc75d2d2e",
+      "docs/essay-format.md": "83e146f37904",
       "docs/export-for-substack.md": "9a2df9f4dfab",
       "docs/export-for-x-article.md": "55ab96853de2",
       "export/README.md": "c0a8866a454d",
@@ -19,7 +19,7 @@
       "scripts/export-absolute-md.mjs": "3bbb08fdfc89",
       "scripts/publish-x-article.mjs": "13625fa17198",
       "scripts/project-local-graph.mjs": "dde8c1ccc02d",
-      "MEMORY.md": "278b36cb7210"
+      "MEMORY.md": "12590e335ed8"
     },
     "stats": {
       "posts": 393,
@@ -181,7 +181,7 @@
       "kind": "memory",
       "name": "MEMORY.md",
       "path": "~/.claude/projects/-Users-jingliang-Projects-not-a-toe/memory/MEMORY.md",
-      "hash": "278b36cb7210",
+      "hash": "12590e335ed8",
       "summary": "Vanilla JS static site for \"Not a ToE\" essays.",
       "headings": [
         "not-a-toe",
@@ -308,7 +308,7 @@
       "path": "docs/essay-format.md",
       "owns": "llm-format",
       "exists": true,
-      "hash": "722fc75d2d2e",
+      "hash": "83e146f37904",
       "summary": "**Reference for site scaffold** — not absolute ground over the operator’s draft.",
       "headings": [
         "Essay Formatting Guide",

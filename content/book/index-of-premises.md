@@ -326,11 +326,11 @@ Asimov attributes resistance against innovation to the proactive pushback of ves
 ### 让-雅克·卢梭 / Jean-Jacques Rousseau
 `哲学 / Philosophical`
 
-卢梭所说的枷锁，是拿当下配置对照一种不受痕迹约束的自由；自由是下一次界限仍可被划出，枷锁属于有限轴线拥挤时的解读。
+卢梭以“人是生而自由的，但却无往不在枷锁之中”开篇，并以社会契约追问约束如何能是正当的，在思考约束的正当性时有用；它在此到了边界：枷锁是拿当下的配置去对照一种不受痕迹约束的自由，而社会契约本身就是自由选择的集体痕迹，自由是下一次界限仍可被划出。
 
-Rousseau's chains compare current configuration with a freedom unbound by traces; freedom is the next distinction still being drawable, so chains belong to interpretation under crowded finite axes.
+Rousseau opens with "Man is born free, and everywhere he is in chains" and asks through the social contract how constraint can be legitimate, which is of use in thinking about the legitimacy of constraint; it reaches its boundary in that the chains compare the present configuration with a freedom unbound by traces, while the social contract is itself the collective trace of free choices, and freedom is the next distinction still being drawable.
 
-→ [作茧是观察到的现象，自缚是对现象的解读](../../posts/zuo-jian-bu-shi-zi-fu/) · [Freedom as Ground](../../posts/freedom-as-ground/) · [有条件的自由 / Conditional Freedom](../../posts/you-tiao-jian-de-zi-you/) · [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/)
+→ [作茧是观察到的现象，自缚是对现象的解读](../../posts/zuo-jian-bu-shi-zi-fu/) · [自由即地基 / Freedom as Ground](../../posts/freedom-as-ground/) · [有条件的自由 / Conditional Freedom](../../posts/you-tiao-jian-de-zi-you/) · [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/)
 
 ### 让-保罗·萨特 / Jean-Paul Sartre
 `哲学 / Philosophical`
@@ -1433,11 +1433,11 @@ Presumes physical reality is computational software running on an external compu
 ### 社会契约论 / Social Contract Theory
 `哲学 / Philosophical`
 
-社会契约论把社会呈现为需要正当化的约束；它描述的是个人承诺的聚合痕迹，这份痕迹成为后续自由选择的背景。
+社会契约论把社会呈现为一种需要被正当化的约束，在追问制度凭什么约束人时有用；它在此到了边界：社会契约描述的是个人为协调与承诺而自由做出的选择的聚合痕迹，这份痕迹成为后来的自由选择所依托的背景，而不是从外部压下的枷锁。
 
-Social contract theory presents society as a constraint that must be justified; it describes the aggregated trace of individual commitments, which becomes background for further free choices.
+Social contract theory presents society as a constraint that must be justified, which is of use in asking by what right institutions bind people; it reaches its boundary in that the social contract describes the aggregated trace of choices freely made to coordinate and commit, a trace that becomes the background for later free choices rather than chains pressed on from outside.
 
-→ [Freedom as Ground](../../posts/freedom-as-ground/)
+→ [自由即地基 / Freedom as Ground](../../posts/freedom-as-ground/)
 
 ### 狭义相对论 / Special Relativity
 `科学 / Scientific`
@@ -3118,11 +3118,11 @@ The knowledge problem images dispersed pieces of a common stock; public marks ar
 ### 财务、精神与存在自由的阶梯 / Ladder of Financial, Spiritual and Existential Freedom
 `成功学 / Self-Help`
 
-这条阶梯把自由当作通关后的奖赏；迈向它的每一步都已在运用所求的自由，抱负可以照常展开，无需把成就当作前提。
+这条阶梯把自由当作通过财务、精神与存在几层关卡之后的奖赏，在把人生的努力排出先后时有用；它在此到了边界：迈向自由的每一步都已经在运用所求的自由，抱负与创造可以照常展开，却不必被当作自由的前提。
 
-The ladder makes freedom a reward after clearing tiers; every step toward it already exercises the freedom sought, so ambition proceeds without treating achievements as preconditions.
+The ladder makes freedom a reward for clearing the financial, spiritual and existential tiers, which is of use in ordering the efforts of a life; it reaches its boundary in that every step toward freedom already exercises the freedom sought, so ambition and creation can unfold as before without being treated as preconditions of freedom.
 
-→ [Freedom as Ground](../../posts/freedom-as-ground/)
+→ [自由即地基 / Freedom as Ground](../../posts/freedom-as-ground/)
 
 ### 语言即现实的边界 / Language as the Limit of Reality
 `哲学 / Philosophical`

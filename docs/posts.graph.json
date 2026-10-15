@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T05:50:35.019Z",
+    "generated_at": "2026-10-15T06:01:49.371Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -83,7 +83,7 @@
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
       "content/posts/fixed-by-nothing.md": "b28fd3f1db94",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
-      "content/posts/freedom-as-ground.md": "df8f3a8fb563",
+      "content/posts/freedom-as-ground.md": "296085910287",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "71812a697b3f",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "a91cd902a827",
@@ -130,7 +130,7 @@
       "content/posts/no-outside-scorekeeper.md": "b0bbe06a0422",
       "content/posts/no-system-can-be-kept-closed.md": "cbd7985349fc",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
-      "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "0ce4349b321e",
+      "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "50d45e2a7702",
       "content/posts/not-a-theory-of-everything.md": "fc0dcfeec14a",
       "content/posts/not-a-toe-rewrite.md": "4f8f53b8f5bb",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "979df2924891",
@@ -401,10 +401,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "582b3e841a80",
-      "content/book/causality.md": "6cc7c36374ce",
+      "content/book/causality.md": "8f21d6cadeb2",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "9c0392d6e6a3",
+      "content/book/index-of-premises.md": "24401d0f8ed3",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "57d582e7bf12",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6125,
+      "edges": 6138,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -2387,8 +2387,8 @@
       "kind": "post",
       "slug": "freedom-as-ground",
       "path": "content/posts/freedom-as-ground.md",
-      "title": "Freedom as Ground",
-      "hash": "df8f3a8fb563",
+      "title": "自由即地基 / Freedom as Ground",
+      "hash": "296085910287",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -3597,7 +3597,7 @@
       "slug": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
       "path": "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md",
       "title": "一个可能的全自动交通未来的非定论预测 / Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future",
-      "hash": "0ce4349b321e",
+      "hash": "50d45e2a7702",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
@@ -16582,13 +16582,55 @@
       "from": "freedom-as-ground",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "The fixed image of transcendence"
+      "label": "超验的定相"
     },
     {
       "from": "freedom-as-ground",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
+      "label": "有条件的自由"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "rel": "points_to",
+      "label": "约束基底与自由自否"
     },
     {
       "from": "freedom-as-ground",
@@ -16600,19 +16642,19 @@
       "from": "freedom-as-ground",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "freedom-as-ground",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
     },
     {
       "from": "freedom-as-ground",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "From Purposive Judgment to Cognitive Phase Shifts"
+      "label": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition"
     },
     {
       "from": "freedom-as-ground",
@@ -16624,7 +16666,25 @@
       "from": "freedom-as-ground",
       "to": "the-misallocation-of-agency",
       "rel": "points_to",
+      "label": "能动性的错配"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
       "label": "The Misallocation of Agency"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "xian-shi-de-bian-jie",
+      "rel": "points_to",
+      "label": "现实的边界"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
     },
     {
       "from": "freedom-as-ground",
@@ -16636,19 +16696,37 @@
       "from": "freedom-as-ground",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "freedom-as-ground",
       "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "rel": "points_to",
-      "label": "Individual Choice: Coordinates of Socialization and Selfhood"
+      "label": "个人选择、社会化与做自己"
     },
     {
       "from": "freedom-as-ground",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "Individual Choice, Socialization and Being Oneself"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "freedom-as-ground",
@@ -46623,7 +46701,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "6cc7c36374ce",
+        "hash": "8f21d6cadeb2",
         "out_degree": 33
       },
       {
@@ -46650,7 +46728,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "9c0392d6e6a3",
+        "hash": "24401d0f8ed3",
         "out_degree": 393
       },
       {
@@ -46863,7 +46941,7 @@
         "from": "book:causality",
         "to": "freedom-as-ground",
         "rel": "collects",
-        "label": "Freedom as Ground"
+        "label": "自由即地基 / Freedom as Ground"
       },
       {
         "from": "book:causality",
@@ -47631,7 +47709,7 @@
         "from": "book:index-of-premises",
         "to": "freedom-as-ground",
         "rel": "collects",
-        "label": "Freedom as Ground"
+        "label": "自由即地基 / Freedom as Ground"
       },
       {
         "from": "book:index-of-premises",
@@ -48627,7 +48705,7 @@
         "from": "book:index-of-premises",
         "to": "freedom-as-ground",
         "rel": "collects",
-        "label": "Freedom as Ground"
+        "label": "自由即地基 / Freedom as Ground"
       },
       {
         "from": "book:index-of-premises",
@@ -49839,7 +49917,7 @@
         "from": "book:index-of-premises",
         "to": "freedom-as-ground",
         "rel": "collects",
-        "label": "Freedom as Ground"
+        "label": "自由即地基 / Freedom as Ground"
       },
       {
         "from": "book:index-of-premises",
