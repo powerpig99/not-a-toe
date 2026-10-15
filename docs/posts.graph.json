@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T08:28:33.192Z",
+    "generated_at": "2026-10-15T08:41:26.091Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -283,7 +283,7 @@
       "content/posts/the-ledger-of-the-unencountered.md": "492fde646aea",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
       "content/posts/the-living-context.md": "2d1c878d63a5",
-      "content/posts/the-local-trap-of-technological-change.md": "28ac55a33297",
+      "content/posts/the-local-trap-of-technological-change.md": "573d53fe854b",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "b5d22031eddd",
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "8f21d6cadeb2",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "22b236058e03",
+      "content/book/index-of-premises.md": "ab3e3c5f6b5c",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "a34ffa8fedf3",
@@ -416,11 +416,11 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "32d9ad39bfa4",
       "content/book/success-and-the-self.md": "59aa878b03ef",
-      "content/book/tools-and-progress.md": "58571d2e8043"
+      "content/book/tools-and-progress.md": "6332c19d82da"
     },
     "stats": {
       "posts": 393,
-      "edges": 6166,
+      "edges": 6171,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -7164,8 +7164,8 @@
       "kind": "post",
       "slug": "the-local-trap-of-technological-change",
       "path": "content/posts/the-local-trap-of-technological-change.md",
-      "title": "The Local Trap of Technological Change",
-      "hash": "28ac55a33297",
+      "title": "技术变革的局部陷阱 / The Local Trap of Technological Change",
+      "hash": "573d53fe854b",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -35746,25 +35746,55 @@
       "from": "the-local-trap-of-technological-change",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "平均值是痕迹，不是引擎"
+    },
+    {
+      "from": "the-local-trap-of-technological-change",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
     },
     {
       "from": "the-local-trap-of-technological-change",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "Technology is residual of human compounding"
+      "label": "技术是人类复利的残差"
+    },
+    {
+      "from": "the-local-trap-of-technological-change",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology Is Residual of Human Compounding"
     },
     {
       "from": "the-local-trap-of-technological-change",
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
-      "label": "The illusion of free intelligence"
+      "label": "免费智能的幻觉"
+    },
+    {
+      "from": "the-local-trap-of-technological-change",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The Illusion of Free Intelligence"
     },
     {
       "from": "the-local-trap-of-technological-change",
       "to": "deceleration-is-the-drag-felt-when-accelerating",
       "rel": "points_to",
-      "label": "Deceleration is the drag felt when accelerating"
+      "label": "减速是加速时感受到的阻力"
+    },
+    {
+      "from": "the-local-trap-of-technological-change",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "Deceleration Is the Drag Felt When Accelerating"
+    },
+    {
+      "from": "the-local-trap-of-technological-change",
+      "to": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "rel": "points_to",
+      "label": "一个可能的全自动交通未来的非定论预测"
     },
     {
       "from": "the-local-trap-of-technological-change",
@@ -46896,7 +46926,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "22b236058e03",
+        "hash": "ab3e3c5f6b5c",
         "out_degree": 393
       },
       {
@@ -47004,7 +47034,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "58571d2e8043",
+        "hash": "6332c19d82da",
         "out_degree": 32
       }
     ],
@@ -48939,7 +48969,7 @@
         "from": "book:index-of-premises",
         "to": "the-local-trap-of-technological-change",
         "rel": "collects",
-        "label": "The Local Trap of Technological Change"
+        "label": "技术变革的局部陷阱 / The Local Trap of Technological Change"
       },
       {
         "from": "book:index-of-premises",
@@ -49827,7 +49857,7 @@
         "from": "book:index-of-premises",
         "to": "the-local-trap-of-technological-change",
         "rel": "collects",
-        "label": "The Local Trap of Technological Change"
+        "label": "技术变革的局部陷阱 / The Local Trap of Technological Change"
       },
       {
         "from": "book:index-of-premises",
@@ -50925,7 +50955,7 @@
         "from": "book:index-of-premises",
         "to": "the-local-trap-of-technological-change",
         "rel": "collects",
-        "label": "The Local Trap of Technological Change"
+        "label": "技术变革的局部陷阱 / The Local Trap of Technological Change"
       },
       {
         "from": "book:index-of-premises",
@@ -53283,7 +53313,7 @@
         "from": "book:tools-and-progress",
         "to": "the-local-trap-of-technological-change",
         "rel": "collects",
-        "label": "The Local Trap of Technological Change"
+        "label": "技术变革的局部陷阱 / The Local Trap of Technological Change"
       },
       {
         "from": "book:tools-and-progress",

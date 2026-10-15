@@ -1505,11 +1505,11 @@ Singularity narratives extrapolate local compounding curves into metaphysical in
 ### 技术性失业 / Technological Unemployment
 `经济 / Economic`
 
-毁灭岗位还是创造岗位，预设由单一总量裁决；创造几乎是给定的，旧工作的淘汰是新工作份额扩大的后果，而非一对一替换。
+技术毁灭岗位还是创造岗位，预设由单一的总量来裁决，在追踪某一行业的岗位变化时有用；它在此到了边界：前沿以净增量创造新的领域，创造几乎是给定的，旧工作的淘汰是新工作份额扩大的后果，并在几十年的互补资本投入里展开，而不是一对一的替换。
 
-Job-destroying versus job-creating presumes one aggregate decides; creation is near given, and obsolescence follows as new work's share grows, not as one-for-one replacement of prior tasks.
+Whether technology destroys or creates jobs presumes that one aggregate decides, which is of use in tracking the jobs of a particular sector; it reaches its boundary in that the frontier creates new domains as net addition, creation is near given, and the obsolescence of old work follows as new work's share grows, unfolding over decades of complementary capital rather than as one-for-one replacement.
 
-→ [The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [The Local Trap of Technological Change](../../posts/the-local-trap-of-technological-change/)
+→ [The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [技术变革的局部陷阱 / The Local Trap of Technological Change](../../posts/the-local-trap-of-technological-change/)
 
 ### 意识的困难问题 / The Hard Problem of Consciousness
 `哲学 / Philosophical`
@@ -2749,11 +2749,11 @@ Calling full acceptance of consequence radical presumes a milder baseline is neu
 ### 通用技术扩散 / General-Purpose Technology Diffusion
 `技术 / Technological`
 
-电气化历时数十年，是因为工厂必须重新布局；能力曲线不会消除制度摩擦，扩散以社会速度推进，前沿则持续复利。
+通用技术扩散的模型以电气化、计算机为例，说明新技术要几十年才普及，在预期一项技术的社会节奏时有用；它在此到了边界：扩散慢，是因为工厂、流程与制度必须围绕新技术重建，能力曲线不会消除这份互补的摩擦，扩散以社会的速度推进，而前沿同时在持续复利。
 
-Electrification took decades because factories had to be rearchitected; capability curves do not collapse institutional friction, so diffusion moves at social speed while frontiers compound.
+The model of general-purpose technology diffusion uses electrification and the computer to show that new technology takes decades to spread, which is of use in anticipating a technology's social tempo; it reaches its boundary in that diffusion is slow because factories, processes and institutions must be rebuilt around the new technology, capability curves do not remove this complementary friction, and diffusion moves at social speed while the frontier keeps compounding.
 
-→ [The Local Trap of Technological Change](../../posts/the-local-trap-of-technological-change/)
+→ [技术变革的局部陷阱 / The Local Trap of Technological Change](../../posts/the-local-trap-of-technological-change/)
 
 ### 生成式 AI 损害学习能力 / Generative AI Harms Learning
 `技术 / Technological`
@@ -4279,11 +4279,11 @@ The maxim presupposes knowledge as a finite disc whose unknown remainder can be 
 ### 索洛生产率悖论 / Solow Productivity Paradox
 `经济 / Economic`
 
-到处可见计算机却不见于生产率统计，反映扩散受制于互补资本；总量指数滞后于前沿增量，可衡量存量底盘的速度，而非前沿速度。
+索洛说计算机时代随处可见，唯独不见于生产率统计，这在衡量存量底盘的步调时有用；它在此到了边界：总量指数滞后于前沿的增量，反映的是扩散受制于互补资本，读作技术没有带来变化，就把旧底盘的速度当成了前沿的速度。
 
-Computers appearing everywhere but in productivity statistics reflects diffusion bound to complementary capital; aggregate indices lag frontier addition, useful for legacy-base pace, not frontier velocity.
+Solow's remark that the computer age is seen everywhere but in the productivity statistics is of use in measuring the pace of the legacy base; it reaches its boundary in that aggregate indices lag frontier addition and reflect diffusion bound to complementary capital, so reading them as proof that technology changed nothing takes the legacy base's speed for the frontier's.
 
-→ [The Local Trap of Technological Change](../../posts/the-local-trap-of-technological-change/)
+→ [技术变革的局部陷阱 / The Local Trap of Technological Change](../../posts/the-local-trap-of-technological-change/)
 
 ### 源头与造物的非对称性 / Source-Artifact Asymmetry
 `哲学 / Philosophical`
