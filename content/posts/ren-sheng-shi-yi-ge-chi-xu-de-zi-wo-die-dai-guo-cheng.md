@@ -4,11 +4,11 @@
 
 人的一生可以描述为一个持续的自我迭代过程。把机器学习里的训练循环翻译成日常语言，得到一个可操作的反馈模型：目标、当前状态、误差信号，以及根据误差对内部参数的更新。这种对应是一种翻译，并不是在人生之外另有一套过程。循环断在两处：误差停在“外部给定”上，以及目标函数被声明不可更改。两处都是外部归因，把产生下一步的来源登记在自己之外。
 
-A life can be described as a continuous process of self-iteration. Translating the training loop of machine learning into everyday language yields a workable feedback model: a goal, a current state, an error signal, and updates to internal parameters according to the error. The correspondence is a translation, not a second process running somewhere apart from life. The loop breaks in two places: where the error stops at "externally given," and where the objective function is declared unchangeable. Both are external attribution, registering the source of the next step as lying outside oneself.
+A life can be described as a continuous process of self-iteration. Translating the training loop of machine learning into everyday language yields a workable feedback model: a goal, a current state, an error signal, and updates to internal parameters according to the error. The correspondence is a translation, not a second process running somewhere apart from life. The loop breaks in two places: where the error stops at "externally given," and where the objective function is declared unchangeable. Both are external attribution: the source of the next step is registered as lying outside oneself.
 
 在集体层面，看起来先于个人的结构，追溯下去是交出更新与代为更新相互对接之后留下的共振。外部归因就是人们常说的缺乏主观能动性；它进入仍在闭环的人的误差方程，加强那个人的迭代，外显为跨越个体的影响力。
 
-At the collective level, what looks like a structure prior to individuals traces back to the resonance left once handing over updates meets updating on another's behalf. External attribution is what is commonly called a lack of agency; it enters the error equation of someone whose loop is still closed, strengthens that person's iteration, and shows outwardly as influence across individuals.
+At the collective level, what looks like a structure prior to individuals traces back to the resonance left once the handing-over of updates meets proxy updating. External attribution is what is commonly called a lack of agency; it enters the error equation of someone whose loop is still closed, strengthens that person's iteration, and shows outwardly as influence across individuals.
 
 ## 一、 四个对应是同一个循环 / 1. Four Correspondences, One Loop
 
@@ -52,7 +52,7 @@ flowchart TD
     style X2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Gradient descent adjusts the parameters against the gradient so that the next forward pass has a smaller loss. In a life, this is adjusting beliefs, habits or the allocation of attention according to the causal information the review returned, so that the next action comes closer to the goal. The process keeps cycling, action, result, review, adjustment, action again, and that is self-iteration.
+Gradient descent adjusts the parameters against the gradient so that the next forward pass has a smaller loss. In a life, this is adjusting beliefs, habits or the allocation of attention according to the causal information the review returned, so that the next action comes closer to the goal. The process keeps cycling, action, result, review, adjustment, action again, and this continuous cycling is self-iteration.
 
 ```mermaid
 flowchart TD
@@ -92,9 +92,9 @@ When a gap opens between ideal and reality and the cause is located outside, in 
 
 外部归因不是道德问题，而是机制问题：它把后果登记成“从别处来的”，使产生这个后果的内部配置从计算图中消失。没有信号到达参数，就没有更新；没有更新，就没有迭代。[如何在一瞬间修正你的整个人生](../how-to-fix-your-whole-life-in-one-split-second/)追的是同一闭环作为瞬间的归属：通道一开，其余只是读梯度、再调整。[关于归因：从事实到因果，从外部节点到内部迭代](../guan-yu-gui-yin/)是同一截断停在显眼节点上的那一面。[外部归因是个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)把同一截断看成唯一的杠杆：对发生之事的解释，以及此刻做什么，只有这一处在自己手里。
 
-External attribution is not a moral problem but a mechanical one: it registers the consequence as "coming from elsewhere," so the internal configuration that produced it drops out of the computational graph. With no signal reaching the parameters there is no update, and with no update there is no iteration. [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) traces the same loop as an instant of ownership: once the channel opens, the rest is reading the gradient and adjusting again. [On Attribution: From Fact to Cause, From Outside Node to Inner Iteration](../guan-yu-gui-yin/) is the face of the same cut that stops at a conspicuous node. [External Attribution Is the Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) takes the same cut as the only lever: the explanation of what happened and what to do now is the one place that lies in one's own hands.
+External attribution is not a moral problem but a mechanical one: it registers the consequence as arriving from elsewhere, so the internal configuration that produced it drops out of the computational graph. With no signal reaching the parameters there is no update, and with no update there is no iteration. [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) traces the same loop as an instant of ownership: once the channel opens, the rest is reading the gradient and adjusting again. [On Attribution: From Fact to Cause, From Outside Node to Inner Iteration](../guan-yu-gui-yin/) is the face of the same cut that stops at a conspicuous node. [External Attribution Is the Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) takes the same cut as the only lever: the explanation of what happened and what to do now is the one place that lies in one's own hands.
 
-## 三、 交出误差与代为更新对接成外部循环 / 3. Handing Over Error and Updating for Others Join into an External Loop
+## 三、 交出误差与代为更新对接成外部循环 / 3. Handing Over Error Docks with Proxy Updating into an External Loop
 
 集体层面的共振，并不是所有人朝同一方向做外部归因。如果每个人都只是把原因归给外部，循环并不会闭合。形成稳定结构的，是两种互补的操作。一边把原因归给外人，声明自己无法或不该更新自己的目标函数与参数；另一边认为自己有能力、有责任替别人做决定，替对方定义目标或执行更新。
 
@@ -102,7 +102,7 @@ Resonance at the collective level is not everyone making external attributions i
 
 两边一旦对接，就形成一个中心化的外部迭代循环：误差信号被交出，更新动作被代行。原本属于个体自己的反向传播与参数更新，被这个外部循环替换，个体自我迭代的效率降低，停滞或倒退。
 
-Once the two sides join, a centralized external loop of iteration forms: the error signal is handed over and the act of updating is performed by proxy. The backpropagation and parameter updates that belonged to the individual are replaced by this external loop, and the individual's self-iteration loses efficiency, stalls or regresses.
+Once the two sides dock, a centralized external iteration loop forms: the error signal is handed over and the act of updating is performed by proxy. The backpropagation and parameter updates that belonged to the individual are replaced by this external loop, and the individual's self-iteration loses efficiency, stalls or regresses.
 
 集体主义的倾向，是个人在自我迭代中做外部归因，并与互补的“代为决定”对接之后，在集体层面形成的外显。所谓“集体无意识”，是这种互补循环稳定之后留下的共振痕迹。它看起来像先于个人的深层结构，追溯下去是大量个体把迭代外移、彼此互补之后的结果；机制落在每个心智是否把误差信号传回自己可更新的参数。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)是同一道边界：没有任何一个内心能替另一个内心完成返回。
 
