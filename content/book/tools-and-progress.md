@@ -34,7 +34,7 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/)
 - [The Local Trap of Technological Change](../../posts/the-local-trap-of-technological-change/)
 - [The Invisible First Move](../../posts/the-invisible-first-move/)
-- [Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future](../../posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/)
+- [一个可能的全自动交通未来的非定论预测 / Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future](../../posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/)
 - [自愿的致盲 / The Sovereign Blinding](../../posts/the-sovereign-blinding/)
 - [工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time](../../posts/the-illusion-of-the-tool-and-the-inversion-of-time/)
 - [牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire](../../posts/boletus-compute-storm-and-promethean-fire/)

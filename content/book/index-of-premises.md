@@ -3136,11 +3136,11 @@ Equating the bounds of language with the bounds of reality overlooks that unders
 ### 线性替代式预测 / Linear Substitution Forecasting
 `经济 / Economic`
 
-预测把自动驾驶当作去掉方向盘的私家车；去除司机成本约束会消解固定班次、拥车与销量指标，以旧单位衡量会低估被激活的需求。
+线性替代式的预测把自动驾驶当作去掉方向盘的私家车、把电动车当作燃油车的替身，在约束不变的短期里有用；它在此到了边界：去掉司机这个成本约束，会消解固定班次、拥车与单位销量这些旧指标，用旧容器的单位去量，就看不到被新激活的需求。
 
-Forecasts treat autonomy as private cars minus steering wheels; removing the driver cost constraint dissolves schedules, ownership and unit-sales metrics, so legacy units underestimate activated demand.
+Linear substitution forecasting treats autonomy as the private car minus its steering wheel and the electric car as a stand-in for the combustion car, which is of use in the short run while the constraints hold; it reaches its boundary in that removing the driver as a constraint of cost dissolves fixed schedules, ownership and unit sales as metrics, so measuring in the old container's units misses the newly activated demand.
 
-→ [Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future](../../posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/)
+→ [一个可能的全自动交通未来的非定论预测 / Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future](../../posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/)
 
 ### 语言流畅度等同智能 / Linguistic Fluency as Intellect
 `技术 / Technological`
@@ -3838,11 +3838,11 @@ Privacy-by-locality presumes hardware location constitutes privacy; privacy is t
 ### 私家车拥有 / Private Car Ownership
 `经济 / Economic`
 
-拥车被视为个人出行的自然形态；它反映的是资本、驾照与司机约束，按需自动驾驶车队可能把出行从资产转为服务。
+拥车被当作个人出行的自然形态，在司机必不可少、出行需要自备车辆时有用；它在此到了边界：拥车反映的是资本、驾照与司机的约束，按需的自动驾驶车队可能把出行从一件资产转为一种服务，并向不会开车的人敞开。
 
-Ownership is assumed to be the natural form of personal mobility; it reflects capital, licensing and driver constraints, and on-demand autonomous fleets could shift access from asset to service.
+Car ownership is taken as the natural form of personal mobility, which is of use while a driver is indispensable and travel needs a vehicle of one's own; it reaches its boundary in that ownership reflects constraints of capital, licensing and the driver, and on-demand autonomous fleets may turn mobility from an asset into a service open to non-drivers.
 
-→ [Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future](../../posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/)
+→ [一个可能的全自动交通未来的非定论预测 / Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future](../../posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/)
 
 ### 私有产权 / Private Property Rights
 `经济 / Economic`
