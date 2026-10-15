@@ -393,10 +393,6 @@
       "title_zh": "主权、信念与规制结构的生成",
       "subtitle_zh": "个人主权无法被委托；生成自律组织与政府的，是相信它可以被委托的那份信念的集体表达。"
     },
-    "deceleration-is-the-drag-felt-when-accelerating": {
-      "title_zh": "减速是加速时感受到的阻力",
-      "subtitle_zh": "减速不是一股与进步对抗的独立力量，而是速度带来的反作用阻力，只在被当作敌人对抗时才稳定下来。"
-    },
     "order-surplus-and-the-moral-intercept": {
       "title_zh": "秩序、剩余与道德拦截",
       "subtitle_zh": "拦截是一种道德语言，它把因果力量移到一个从生产到消费早已运转的回路的后一端。"
@@ -408,6 +404,10 @@
     "restriction-is-a-selective-tax": {
       "title_zh": "限制是选择性的税",
       "subtitle_zh": "对他人前进的压制，只拖慢接受它的人，而最重的是执行它的人：他们是这道封印最坚定的信徒。"
+    },
+    "failure-as-information": {
+      "title_zh": "失败即信息：为什么埃隆·马斯克是我们时代最具影响的人",
+      "subtitle_zh": "失败与意外都是信息；影响力的复利，取决于在结果与下一步行动之间的间隙里，留存的自我占据得多么少。"
     }
   }
 }

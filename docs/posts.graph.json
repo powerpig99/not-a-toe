@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T09:26:38.619Z",
+    "generated_at": "2026-10-15T09:58:40.788Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -57,7 +57,7 @@
       "content/posts/curiosity-has-no-final-form.md": "e5422a70910e",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "bc7f312028fa",
-      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "391c723a2d05",
+      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6eb20a08626e",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "ccb4b3e58dea",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "4fdac1ab3e30",
       "content/posts/dimensions-are-projections.md": "74ce8777a33a",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "8f21d6cadeb2",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "ca965175302b",
+      "content/book/index-of-premises.md": "80356938a112",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "5f28265c4095",
@@ -416,11 +416,11 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "bc36cf6046e0",
       "content/book/success-and-the-self.md": "59aa878b03ef",
-      "content/book/tools-and-progress.md": "6332c19d82da"
+      "content/book/tools-and-progress.md": "fb71a7a1a375"
     },
     "stats": {
       "posts": 393,
-      "edges": 6183,
+      "edges": 6191,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -1850,8 +1850,8 @@
       "kind": "post",
       "slug": "deceleration-is-the-drag-felt-when-accelerating",
       "path": "content/posts/deceleration-is-the-drag-felt-when-accelerating.md",
-      "title": "Deceleration Is the Drag Felt When Accelerating",
-      "hash": "391c723a2d05",
+      "title": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating",
+      "hash": "6eb20a08626e",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -14974,13 +14974,37 @@
       "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
       "label": "Symptom and cause in the narratives of progress"
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "moral-language-as-projection",
       "rel": "points_to",
+      "label": "道德语言作为投影"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
       "label": "Moral Language as Projection"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "阻力体感与速率差"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "限制是选择性的税"
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
@@ -14998,7 +15022,25 @@
       "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
       "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "失败即信息"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "the-local-trap-of-technological-change",
+      "rel": "points_to",
+      "label": "技术变革的局部陷阱"
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
@@ -15011,6 +15053,12 @@
       "to": "the-local-trap-of-technological-change",
       "rel": "points_to",
       "label": "The Local Trap of Technological Change"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
@@ -46998,7 +47046,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ca965175302b",
+        "hash": "80356938a112",
         "out_degree": 393
       },
       {
@@ -47106,7 +47154,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "6332c19d82da",
+        "hash": "fb71a7a1a375",
         "out_degree": 32
       }
     ],
@@ -49143,7 +49191,7 @@
         "from": "book:index-of-premises",
         "to": "deceleration-is-the-drag-felt-when-accelerating",
         "rel": "collects",
-        "label": "Deceleration Is the Drag Felt When Accelerating"
+        "label": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating"
       },
       {
         "from": "book:index-of-premises",
@@ -49437,7 +49485,7 @@
         "from": "book:index-of-premises",
         "to": "deceleration-is-the-drag-felt-when-accelerating",
         "rel": "collects",
-        "label": "Deceleration Is the Drag Felt When Accelerating"
+        "label": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating"
       },
       {
         "from": "book:index-of-premises",
@@ -53379,7 +53427,7 @@
         "from": "book:tools-and-progress",
         "to": "deceleration-is-the-drag-felt-when-accelerating",
         "rel": "collects",
-        "label": "Deceleration Is the Drag Felt When Accelerating"
+        "label": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating"
       },
       {
         "from": "book:tools-and-progress",

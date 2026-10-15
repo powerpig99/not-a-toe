@@ -1660,11 +1660,11 @@ Acceleration rhetoric presumes faster feedback loops automate direction; speed c
 ### 加速主义与减速主义之争 / Accelerationism versus Decelerationism
 `意识形态 / Ideological`
 
-这场对决预设减速是独立的对立力量；阻力随变化速度增大，把它实体化为敌人，只会扩大迎风面并使摩擦制度化。
+加速与减速之争把进步读作两种意识形态的对决，在辨认一场变革中各方的立场与诉求时有用；它在此到了边界：减速不是自生的独立力量，而是加速穿过既有介质时产生的反作用阻力，把它实体化为敌人，只会扩大迎风面，把一时的摩擦稳定成长期的对立制度。
 
-The duel presumes deceleration is an independent opposing force; resistance scales with speed of change, and reifying it into an enemy enlarges the frontal surface and institutionalizes friction.
+The contest between acceleration and deceleration reads progress as a duel of two ideologies, which is of use in identifying the positions and demands of the parties to a change; it reaches its boundary in that deceleration is no self-originating force but the reactive drag acceleration produces moving through an existing medium, and reifying it as an enemy widens the frontal surface and stabilizes passing friction into lasting institutions of opposition.
 
-→ [Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/)
+→ [减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/)
 
 ### 功能性中空与消极虚空之辨 / Active Emptiness vs Passivity
 `哲学 / Philosophical`
@@ -2029,11 +2029,11 @@ Armchair analysis presumes disinterested neutrality confers superior insight; la
 ### 暂停 AI 的呼吁 / Calls to Pause AI
 `技术 / Technological`
 
-暂停的呼声是变化坡度变陡时出现的阻力峰值；作为诊断反馈来读，它们揭示技术在何处仍与环境耦合不良。
+暂停 AI 的呼吁把放慢当作防范风险的办法，在标出一项技术尚未被理解、尚未被吸收之处时有用；它在此到了边界：这些呼声是变化的坡度变陡时出现的阻力峰值，当作诊断反馈来读，它们显出技术在哪里仍与环境耦合不良，当作要击败的敌人，它们反而被稳定下来。
 
-Demands to pause register as drag spikes when the slope of change steepens; read as diagnostic feedback they expose where a technology remains poorly coupled to its context.
+Calls to pause AI take slowing down as a guard against risk, which is of use in marking where a technology is not yet understood or absorbed; they reach their boundary in that such calls are drag spikes appearing as the slope of change steepens, and read as diagnostic feedback they show where the technology is still poorly coupled to its context, while fought as an enemy they are stabilized instead.
 
-→ [Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/)
+→ [减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/)
 
 ### 劳资替代测度滞后 / Capital-Labor Substitution Lag
 `经济 / Economic`
