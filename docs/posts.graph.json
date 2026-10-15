@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T19:19:09.560Z",
+    "generated_at": "2026-10-15T19:33:21.183Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -38,7 +38,7 @@
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "d013b86da548",
-      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "68c0013503b1",
+      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "68c414272eee",
       "content/posts/closed-reality-in-benchmark-maxing.md": "8ba385aa71a4",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "454c1ba03b68",
@@ -71,13 +71,13 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "42e3f43c2c2d",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
-      "content/posts/evil-as-the-minds-own-creation.md": "9061022ac9e6",
+      "content/posts/evil-as-the-minds-own-creation.md": "a9c673ba9b78",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "3b036ee62bf9",
       "content/posts/expertise-as-reference-not-replacement.md": "fa78713acfa4",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "cf5fee6f027d",
-      "content/posts/failure-as-information.md": "f9a611e59086",
+      "content/posts/failure-as-information.md": "dac0fbefad5a",
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "067a958b2103",
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
@@ -116,7 +116,7 @@
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "c73e8a2ee891",
-      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "ef157cded87e",
+      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "45510f92ce87",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "ac0fdb212b18",
@@ -133,7 +133,7 @@
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "50d45e2a7702",
       "content/posts/not-a-theory-of-everything.md": "fc0dcfeec14a",
       "content/posts/not-a-toe-rewrite.md": "4f8f53b8f5bb",
-      "content/posts/not-predicting-is-predicting-without-awareness.md": "c250a7832f40",
+      "content/posts/not-predicting-is-predicting-without-awareness.md": "8bfa5625bd35",
       "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b354e525a5d3",
       "content/posts/on-education.md": "acf5a581efd1",
@@ -142,7 +142,7 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "3d9516da5576",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
-      "content/posts/openness-is-consistency.md": "d59516b9e190",
+      "content/posts/openness-is-consistency.md": "783f75ee861b",
       "content/posts/order-surplus-and-the-moral-intercept.md": "6af5409d3970",
       "content/posts/overfitting-as-the-follower-mode.md": "c2ebb1c4e1e2",
       "content/posts/ownership-and-self-worthiness.md": "f5ec65e92962",
@@ -160,7 +160,7 @@
       "content/posts/price-as-utterance-understanding-as-trade.md": "c9662cffea91",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
       "content/posts/public-spending-does-not-create-capital.md": "7314fd47c0df",
-      "content/posts/qian-yin-hou-guo.md": "9cf919d655d4",
+      "content/posts/qian-yin-hou-guo.md": "8c66d713f0bf",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "11ef91285e9b",
@@ -183,7 +183,7 @@
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "c36dbacad84b",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
-      "content/posts/sowell-observed-the-surface-problem.md": "3cea29eb971a",
+      "content/posts/sowell-observed-the-surface-problem.md": "37465b2b4af0",
       "content/posts/stability-and-excess.md": "ffa61cd205e2",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "909c9d0b7fac",
       "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
@@ -223,14 +223,14 @@
       "content/posts/the-coordinators-category-error.md": "89f6110cc916",
       "content/posts/the-cut-moves-but-never-vanishes.md": "2610f984cd07",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "ba5e347be04e",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "3fa86a8cd1fa",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "19a7586b9418",
-      "content/posts/the-digital-god-and-the-horizon-jump.md": "e86ad1bf219f",
+      "content/posts/the-digital-god-and-the-horizon-jump.md": "cefee228d49b",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "e45328f52c3e",
       "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
-      "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "0f743e203782",
+      "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cd6f36ce905c",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "fbc2f400c1b1",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "09a58e05b701",
       "content/posts/the-extendable-horizon.md": "a8e165ee1921",
@@ -324,11 +324,11 @@
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "74769516764d",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "be4597d289a8",
-      "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "55476adc8d29",
-      "content/posts/the-reflexive-dilemma-of-unique-insight.md": "f0408f620e78",
+      "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "9c76b27b0f26",
+      "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
       "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
       "content/posts/the-returning-signal-and-its-claim.md": "6a118ede0799",
-      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "b6979918c2cb",
+      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "bd360ece4ee7",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "1cd462d2e211",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "bad6dded7e53",
@@ -342,7 +342,7 @@
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "c492db6aa503",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "8bc5df7f087d",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "3c66bd80af77",
-      "content/posts/the-source-of-all-harm.md": "dba2073c56bd",
+      "content/posts/the-source-of-all-harm.md": "28246d1e392f",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
       "content/posts/the-sovereign-blinding.md": "118b031bf858",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "b8d9371a7e62",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "3938b54453ed",
-      "content/book/index-of-premises.md": "ab7bd3b30829",
+      "content/book/index-of-premises.md": "6e1b225b1923",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "c519a684d389",
       "content/book/life-and-statistics.md": "271c9c3e4715",
@@ -1372,7 +1372,7 @@
       "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "Closed Assumptions Squeeze Compounding into S-Curves",
-      "hash": "68c0013503b1",
+      "hash": "68c414272eee",
       "in_degree": 26,
       "out_degree": 26,
       "links_out": [
@@ -2121,7 +2121,7 @@
       "slug": "evil-as-the-minds-own-creation",
       "path": "content/posts/evil-as-the-minds-own-creation.md",
       "title": "Evil as the Mind’s Own Creation",
-      "hash": "9061022ac9e6",
+      "hash": "a9c673ba9b78",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -2283,7 +2283,7 @@
       "slug": "failure-as-information",
       "path": "content/posts/failure-as-information.md",
       "title": "失败即信息 / Failure as Information",
-      "hash": "f9a611e59086",
+      "hash": "dac0fbefad5a",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -3270,7 +3270,7 @@
       "slug": "mi-lv-shi-jie-guo-de-biao-xiang",
       "path": "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md",
       "title": "幂律是结果的表象，不是生成的逻辑",
-      "hash": "ef157cded87e",
+      "hash": "45510f92ce87",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -3672,7 +3672,7 @@
       "slug": "not-predicting-is-predicting-without-awareness",
       "path": "content/posts/not-predicting-is-predicting-without-awareness.md",
       "title": "不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness",
-      "hash": "c250a7832f40",
+      "hash": "8bfa5625bd35",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -3851,7 +3851,7 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "Openness Is Consistency",
-      "hash": "d59516b9e190",
+      "hash": "783f75ee861b",
       "in_degree": 80,
       "out_degree": 80,
       "links_out": [
@@ -4413,7 +4413,7 @@
       "slug": "qian-yin-hou-guo",
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果",
-      "hash": "9cf919d655d4",
+      "hash": "8c66d713f0bf",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
@@ -4930,7 +4930,7 @@
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem",
-      "hash": "3cea29eb971a",
+      "hash": "37465b2b4af0",
       "in_degree": 11,
       "out_degree": 10,
       "links_out": [
@@ -5885,7 +5885,7 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "ba5e347be04e",
+      "hash": "3fa86a8cd1fa",
       "in_degree": 30,
       "out_degree": 28,
       "links_out": [
@@ -5955,7 +5955,7 @@
       "slug": "the-digital-god-and-the-horizon-jump",
       "path": "content/posts/the-digital-god-and-the-horizon-jump.md",
       "title": "数字神祇与视界跳跃 / The Digital God and the Horizon Jump",
-      "hash": "e86ad1bf219f",
+      "hash": "cefee228d49b",
       "in_degree": 12,
       "out_degree": 11,
       "links_out": [
@@ -6043,7 +6043,7 @@
       "slug": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "path": "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md",
       "title": "远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere",
-      "hash": "0f743e203782",
+      "hash": "cd6f36ce905c",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -8103,7 +8103,7 @@
       "slug": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "path": "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md",
       "title": "前台的寓言与缺席的因果倒置 / The Receptionist Parable and the Causal Inversion of Absence",
-      "hash": "55476adc8d29",
+      "hash": "9c76b27b0f26",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -8124,7 +8124,7 @@
       "slug": "the-reflexive-dilemma-of-unique-insight",
       "path": "content/posts/the-reflexive-dilemma-of-unique-insight.md",
       "title": "独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity",
-      "hash": "f0408f620e78",
+      "hash": "e0b2f868f3d1",
       "in_degree": 3,
       "out_degree": 8,
       "links_out": [
@@ -8181,7 +8181,7 @@
       "slug": "the-reversal-from-defensible-claim-to-dogma",
       "path": "content/posts/the-reversal-from-defensible-claim-to-dogma.md",
       "title": "The Reversal from Defensible Claim to Dogma",
-      "hash": "b6979918c2cb",
+      "hash": "bd360ece4ee7",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
@@ -8561,7 +8561,7 @@
       "slug": "the-source-of-all-harm",
       "path": "content/posts/the-source-of-all-harm.md",
       "title": "The Source of All Harm",
-      "hash": "dba2073c56bd",
+      "hash": "28246d1e392f",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -13162,7 +13162,7 @@
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "rel": "points_to",
-      "label": "Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making"
+      "label": "Power Law Is the Long-Term Consequence of Normal Distribution"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -16060,7 +16060,7 @@
       "from": "evil-as-the-minds-own-creation",
       "to": "e-shi-feng-bi-de-shan",
       "rel": "points_to",
-      "label": "Evil as Dogmatized Good"
+      "label": "Evil Is Closed Good"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -16588,7 +16588,7 @@
       "from": "failure-as-information",
       "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "rel": "points_to",
-      "label": "幂律是正态分布在决策中的长期后果"
+      "label": "幂律是正态分布的长期后果"
     },
     {
       "from": "failure-as-information",
@@ -20410,7 +20410,7 @@
       "from": "mi-lv-shi-jie-guo-de-biao-xiang",
       "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "rel": "points_to",
-      "label": "幂律是微观决策正态分布的长期累积"
+      "label": "幂律是正态分布的长期后果"
     },
     {
       "from": "minimizing-path",
@@ -21892,7 +21892,7 @@
       "from": "not-predicting-is-predicting-without-awareness",
       "to": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
       "rel": "points_to",
-      "label": "基本面的悖论是决策中参照的不自觉切换"
+      "label": "基本面的悖论是参照的不自觉切换"
     },
     {
       "from": "not-predicting-is-predicting-without-awareness",
@@ -22672,7 +22672,7 @@
       "from": "openness-is-consistency",
       "to": "e-shi-feng-bi-de-shan",
       "rel": "points_to",
-      "label": "Evil as Dogmatized Good"
+      "label": "Evil Is Closed Good"
     },
     {
       "from": "openness-is-consistency",
@@ -24820,7 +24820,7 @@
       "from": "qian-yin-hou-guo",
       "to": "the-irreducible-prior-of-decision-and-consequence",
       "rel": "points_to",
-      "label": "决策与后果的不可约减先验"
+      "label": "决策与后果不可分割的先验"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -26614,7 +26614,7 @@
       "from": "sowell-observed-the-surface-problem",
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
-      "label": "知识问题与代理幻觉"
+      "label": "知识问题与委托的幻觉"
     },
     {
       "from": "sowell-observed-the-surface-problem",
@@ -30748,7 +30748,7 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
-      "label": "知识问题与委托的幻象"
+      "label": "知识问题与委托的幻觉"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -31102,7 +31102,7 @@
       "from": "the-digital-god-and-the-horizon-jump",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI 与 ASI 是加速演进中不断推移的虚设坐标"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
@@ -31570,7 +31570,7 @@
       "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI 与 ASI 只是加速通用智能的暂态球门"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
     },
     {
       "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
@@ -40402,7 +40402,7 @@
       "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
-      "label": "知识问题与代理的幻觉"
+      "label": "知识问题与委托的幻觉"
     },
     {
       "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
@@ -40552,7 +40552,7 @@
       "from": "the-reflexive-dilemma-of-unique-insight",
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
-      "label": "知识问题与分派的幻觉"
+      "label": "知识问题与委托的幻觉"
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
@@ -40798,7 +40798,7 @@
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "e-shi-feng-bi-de-shan",
       "rel": "points_to",
-      "label": "Evil as Dogmatized Good"
+      "label": "Evil Is Closed Good"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
@@ -42382,7 +42382,7 @@
       "from": "the-source-of-all-harm",
       "to": "e-shi-feng-bi-de-shan",
       "rel": "points_to",
-      "label": "Evil as Dogmatized Good"
+      "label": "Evil Is Closed Good"
     },
     {
       "from": "the-source-of-all-harm",
@@ -48270,7 +48270,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ab7bd3b30829",
+        "hash": "6e1b225b1923",
         "out_degree": 393
       },
       {

@@ -136,7 +136,7 @@ flowchart TD
 
 ## 八、 觉察无法从痕迹中补全 / 8. Awareness Cannot Be Completed from the Traces
 
-从外面无法确定其中有几分觉察。这种片面，也许只是因为把毫不费力、空的那一面住得太透，掌控与填充的那几面已几乎察觉不到。那几面被抑制得越深，就越难被注意到或说出来。[基本面的悖论是决策中参照的不自觉切换](../the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/)讲的是同一种退场在另一种负荷之下：起作用的参照早已在选择，留下的形象却是不预测。
+从外面无法确定其中有几分觉察。这种片面，也许只是因为把毫不费力、空的那一面住得太透，掌控与填充的那几面已几乎察觉不到。那几面被抑制得越深，就越难被注意到或说出来。[基本面的悖论是参照的不自觉切换](../the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/)讲的是同一种退场在另一种负荷之下：起作用的参照早已在选择，留下的形象却是不预测。
 
 From the outside it is impossible to determine the degree of awareness involved. The one-sidedness may simply be the result of having so thoroughly inhabited the effortless, empty face that the controlling and filling faces have become nearly imperceptible. The more completely those sides are inhibited, the less available they are to be noticed or described. [The Paradox of Fundamentals Is the Unaware Switch of Reference](../the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/) traces the same drop-out under another load: the operating reference is already choosing while the image retained is of not predicting.
 
