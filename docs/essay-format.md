@@ -45,7 +45,7 @@ Output rules (strict):
     - Objective facts: there are no mind-independent objective facts; "objective facts" are macroscopic phenomena that maintain invariance across different subjective cognitions.
     - Clean moralizing rhetoric: purge judgmental, patronizing, or moralizing language that presumes a God's-eye view. Maintain a rigorous first-person analytical perspective.
     - Banned words zero-tolerance: zero occurrences of prohibited buzzwords and clichés (`['纯粹', '绝对', '完全', '彻底', '绝不', '通常', '往往', '或许', '某种意义上', '降维重构', '本质', '根本', '自始至终', '缰绳', '物理现实', '平庸', '物理意志']`).
-22. Mathematical and symbolic notation: Do NOT use LaTeX syntax (`$` or `$$`). `build.mjs`, Substack, and X do not parse LaTeX, leaving raw dollar signs and backslashes in the output. Always use clean Unicode mathematical symbols (e.g. `—∞ → +∞`, `ΔV + ΔE = 0`, `R_perceive = R_collapse`, `V₁ ⇌ V₂ ⇌ V₃ ⇌ V₁`, `(0 or 1)`), emphasis (`*V*`), or backticked code.
+22. Mathematical and symbolic notation: Do NOT use LaTeX syntax (`$` or `$$` as math delimiters; a currency sign before a figure, such as `$2.00`, is fine). `build.mjs`, Substack, and X do not parse LaTeX, leaving raw dollar signs and backslashes in the output. Always use clean Unicode mathematical symbols (e.g. `—∞ → +∞`, `ΔV + ΔE = 0`, `R_perceive = R_collapse`, `V₁ ⇌ V₂ ⇌ V₃ ⇌ V₁`, `(0 or 1)`), emphasis (`*V*`), or backticked code.
 23. Companion NotebookLM Prompts (Standard Deliverable):
     - For every post, generate companion Chinese NotebookLM prompt files under `notebooklm-auto/prompts/`:
       - Audio Dialogue (`notebooklm-auto/prompts/<slug>_zh.txt`): Deep dialogue between 明理 (engineering/systems reality) and 雨涵 (philosophy/cybernetics), containing three mandatory sections:

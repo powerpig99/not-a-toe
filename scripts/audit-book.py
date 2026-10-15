@@ -103,7 +103,7 @@ def check_prose(name, title, lines, errors, warnings):
     for w in BANNED:
         if w in scan:
             errors.append(f'{name}: banned word "{w}"')
-    if '$' in scan:
+    if re.search(r'\$(?!\d)', scan):
         errors.append(f'{name}: raw "$" found')
     for href in (m.group(2) for m in LINK_RE.finditer(body)):
         if re.match(r'^https?://', href):
@@ -231,7 +231,7 @@ def audit_index(slugs, errors, warnings):
             for w in BANNED:
                 if w in scan:
                     errors.append(f"index: {entry['title']} banned word \"{w}\"")
-            if '$' in scan:
+            if re.search(r'\$(?!\d)', scan):
                 errors.append(f"index: {entry['title']} raw \"$\"")
     finish()
     return entries, by_label, by_section, linked

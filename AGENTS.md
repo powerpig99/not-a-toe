@@ -58,7 +58,7 @@ For every new or revised essay, the complete deliverable set consists of:
   - **Link Anchor Language Alignment ("中文段落用中文链接，英文段落用英文链接")**: In Chinese paragraphs, all internal link anchor texts must be translated into proper, natural Chinese (e.g. `[向量、坐标系与自指心智](../...)` instead of `[The Mind as Vector and Coordinate System](../...)`). Compound bilingual titles (e.g. `[中文 / English](../...)`) in Chinese prose are prohibited. English in Chinese link anchors is strictly limited to standard acronyms or recognized technical terms for clarification (e.g. AI, AGI, ASI, API, DNA, LLM). In English paragraphs, all internal link anchor texts must be pure English.
   - **Bilingual completeness**: Essays with bilingual titles must feature complete parallel Chinese and English sections (including title, subtitle, lead, section headings, narrative prose, and Mermaid diagrams).
 - **Relative cross-links**: Weave internal links using relative form only: `[title](../slug/)`. All targets must resolve to existing post files.
-- **Mathematical notation**: Unicode only (e.g. `S₀`, `∇L`, `h`). **Strictly zero raw `$` or `$$` symbols**.
+- **Mathematical notation**: Unicode only (e.g. `S₀`, `∇L`, `h`). **Strictly zero `$` or `$$` LaTeX delimiters**, since the site does not render LaTeX. A currency sign before a figure (`$2.00`) is not LaTeX and is allowed.
 - **Vocabulary hygiene**: Zero occurrences of prohibited crutches:
   `['纯粹', '绝对', '完全', '彻底', '绝不', '通常', '往往', '或许', '某种意义上', '降维重构', '本质', '根本', '自始至终', '缰绳', '物理现实', '平庸', '物理意志']`.
 - **Epistemological discipline**:
@@ -121,7 +121,7 @@ The site is a live book, *非定论的心智指南 / A Non-Definitive Guide for 
   - a `→` line of `[<Title>](../../posts/<slug>/)` links.
 
   Passing name-drops do not earn an entry.
-- **Book prose invariants**: Part prefaces, the book preface, and the Index follow the essay rules: bilingual alternating paragraphs, zero banned words, zero raw `$`, relative links only. Title and italic subtitle follow the same delimiter rules.
+- **Book prose invariants**: Part prefaces, the book preface, and the Index follow the essay rules: bilingual alternating paragraphs, zero banned words, zero `$` LaTeX delimiters, relative links only. Title and italic subtitle follow the same delimiter rules.
 - **Stay simple**: The build reads membership from the links, and fails if a post is in no part, sits in two, or a book link does not resolve. Never hand-maintain counts or duplicate lists elsewhere.
 
 ---

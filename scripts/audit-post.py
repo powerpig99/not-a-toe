@@ -16,7 +16,7 @@ Checks:
   4. Bilingual diagram parallelism (Chinese/English paired diagrams)
   5. Relative internal cross-links resolution (all ../slug/ exist; no absolute URLs)
   6. Banned words & essentialist cliches (0 tolerance for cognitive crutches)
-  7. LaTeX syntax prohibition (0 raw $ or $$; Unicode math only)
+  7. LaTeX syntax prohibition (0 $ or $$ math delimiters; currency $ before a digit allowed; Unicode math only)
   8. Walkthrough structure & Spotify show notes (canonical live URL header, cover embed, Mermaid inventory, cuts, clean prompt code block, Spotify ZH & EN notes)
   9. Companion NotebookLM prompt (Audio Dialogue canonical opening and concise bounds: 2-4 opening turns, < 8.5KB)
   10. Mandatory companion cover art (assets/covers/<slug>.(jpg|png|webp) present, non-empty, and registered in STYLES.md)
@@ -244,12 +244,12 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         passes.append("Banned vocabulary check (0 prohibited terms)")
 
     # 2. LaTeX dollar audit
-    # Literal $ signs in text
-    dollar_count = content.count('$')
+    # A $ opening or closing LaTeX math; a currency sign ($ followed by a digit) is not one
+    dollar_count = len(re.findall(r'\$(?!\d)', content))
     if dollar_count > 0:
         errors.append(f"Raw LaTeX dollar signs detected ({dollar_count} occurrences). Use clean Unicode math symbols.")
     else:
-        passes.append("Mathematical notation check (0 raw $ symbols)")
+        passes.append("Mathematical notation check (0 LaTeX $ delimiters)")
 
     # 3. Absolute URL check
     abs_matches = re.findall(r'https?://(?:powerpig99\.github\.io/not-a-toe)/posts/([a-zA-Z0-9_-]+)/?', content)
