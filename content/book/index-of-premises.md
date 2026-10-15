@@ -2290,11 +2290,11 @@ Administrative planning presumes top-down managers author productive output; coo
 ### 相关与因果 / Correlation and Causation
 `科学 / Scientific`
 
-混淆相关与因果，是心智主动做出又把作者权移给模式的区分；统计记录对齐的频率，可用于把握态势，因果先验仍在心智一侧。
+相关不蕴含因果的告诫把样式与来源分开，在提防仓促的归因、检验共变是否另有缘由时有用；它在此到了边界：把共变读作因果，本身是心智主动做出的区分，它编出一段因果叙事，又把自己的作者身份移到被观察的样式上，统计记录的是痕迹对齐的频率，生成这些痕迹的因果先验仍在心智一侧。
 
-Confusing correlation with causation is an active distinction that relocates authorship onto a pattern; statistics records alignment frequencies, useful for situational awareness, while the causal prior stays with minds.
+The caution that correlation does not imply causation separates a pattern from its source, which is of use in guarding against hasty attribution and testing whether covariation has another cause; it reaches its boundary in that reading covariation as cause is itself an active distinction of the Mind, which invents a causal story and relocates its own authorship onto the observed pattern, and statistics records how often traces align while the causal prior that generates them stays with the Mind.
 
-→ [The Mind That Statistics Cannot Reveal](../../posts/the-mind-that-statistics-cannot-reveal/)
+→ [统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal](../../posts/the-mind-that-statistics-cannot-reveal/)
 
 ### 将降本视为独立善 / Cost Minimization as Independent Good
 `经济 / Economic`
@@ -4360,11 +4360,11 @@ Software engineering assumes comprehensive specs can fully define system behavio
 ### 统计总量作为因果力量 / Statistical Aggregates as Causal Forces
 `科学 / Scientific`
 
-把平均值或趋势线当作推动个人的力量，是把平滑后的概括误作来源；分布描述许多中心已做之事，而非任何一个中心下一步做什么。
+统计总量把千百万个心智的抉择压缩成一条曲线或一个概括指标，在建立基线、描绘环境的摩擦、概括历史频率时有用；它在此到了边界：分布描述许多中心已做之事，不替任何一个中心写下下一步，把平均值或趋势线当作推动个人的力量，就把平滑后的概括误作了来源。
 
-Treating an average or trendline as pushing individuals mistakes the smoothed summary for the source; distributions describe what many centers did, not what any center does next.
+Statistical aggregates compress the choices of millions of Minds into a curve or summary metric, which is of use in setting baselines, mapping environmental friction and summarizing historical frequencies; they reach their boundary in that a distribution describes what many centers have done and authors no center's next step, so treating an average or trendline as a force pushing individuals takes the smoothed summary for the source.
 
-→ [The Mind That Statistics Cannot Reveal](../../posts/the-mind-that-statistics-cannot-reveal/)
+→ [统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal](../../posts/the-mind-that-statistics-cannot-reveal/)
 
 ### 统计平均值作为原因 / Statistical Average as Cause
 `科学 / Scientific`

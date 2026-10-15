@@ -1,39 +1,133 @@
-# The Mind That Statistics Cannot Reveal
+# 统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal
 
-*Statistics aggregate the traces of past choices into distributions; the causal power to decide, attend, or misattribute remains strictly with the Mind.*
+*统计汇集过去抉择的痕迹；决定、关注与误归因的力量留在心智一侧 / Statistics pool the traces of past choices; the power to decide, attend or misattribute stays with the Mind.*
 
-A well-known cartoon depicts a student who, having completed a statistics course, no longer believes that correlation implies causation; when a companion suggests the class must have helped, the response is a hesitant "Well, maybe." That hesitation captures the fundamental asymmetry between trace and cause. The course did not author the change; the mind did, through its discrete choices to enroll, sustain attention, integrate distinctions, and test them in practice. Statistics measures the frequency with which traces align across populations, but the originating causal power that generates those traces remains entirely invisible to the aggregate.
+一幅流传很广的漫画里，一个学生说，上完统计课之后，自己不再相信相关蕴含因果；同伴说，听起来这门课起了作用，得到的回答是迟疑的一句“嗯，也许吧”。这份迟疑抓住了痕迹与原因之间的不对称。改变不是课程写下的；是心智写下的，经由它一连串离散的抉择：报名，持续投注注意，整合区分，再在实践里检验它们。统计度量的是痕迹在人群中对齐的频率，而生成这些痕迹的那份原初的因果力量，在总量里始终看不见。
 
-## The hesitation locates the missing lever
+A well-known cartoon shows a student who, having taken a statistics course, no longer believes that correlation implies causation; when a companion says the class seems to have helped, the answer is a hesitant “Well, maybe.” That hesitation captures the asymmetry between trace and cause. The course did not author the change; the Mind did, through its discrete choices to enroll, sustain attention, integrate distinctions and test them in practice. Statistics measures how often traces align across populations, but the originating causal power that generates those traces stays invisible to the aggregate.
+
+## 一、 迟疑标出了缺失的杠杆 / 1. The Hesitation Locates the Missing Lever
+
+笑话里的迟疑不是对统计的不确定；它是本能地拒绝犯下那个课程本来要治好的范畴错误。
 
 The hesitation in the joke is not uncertainty about statistics; it is the instinctive refusal to commit the very category error the course was meant to cure.
 
-Attributing the student's cognitive shift to "the class" treats an externalized curriculum as an autonomous causal agent acting directly upon a passive vessel. But a course is only structured residue: syllabus, lectures, exercises, and exams. It cannot force a distinction into existence.
+把学生认知上的转变归给“这门课”，就是把一份外化的课程当作自主的因果主体，直接作用于一个被动的容器。可一门课只是结构化的痕迹：大纲、讲授、练习与考试。它无法强迫一个区分出现。
 
-What produced the transformation was a sequence of sovereign acts: the initial decision to register, the continuous discipline of directing attention, the internal resolution of confusion, and the subsequent choice to restrain hasty attributions. Statistics can record the positive correlation between course enrollment and improved reasoning scores. It cannot find the causal engine inside the regression table, because the engine was the individual center doing the thinking. [The average is residue, not the engine](../the-average-is-residue-not-the-engine/) holds that exact bound: mass distributions register composite effects, while the generating edge remains the discrete acts of individual loci.
+Attributing the student’s shift to “the class” treats an externalized curriculum as an autonomous causal agent acting directly on a passive vessel. But a course is only structured residue: syllabus, lectures, exercises and exams. It cannot force a distinction into existence.
 
-## Aggregates smooth away the site of causation
+产生这次转变的，是一连串自主的行动：最初决定报名，持续地引导注意，在内部解开困惑，此后又选择克制仓促的归因。统计可以记录选课与推理得分提高之间的正相关。它在回归表里找不到因果的引擎，因为引擎是那个正在思考的个体中心。[平均值是痕迹，不是引擎](../the-average-is-residue-not-the-engine/)守住的正是这条界线：大规模的分布登记合成的效果，生成的前沿仍是个体所在的离散行动。
 
-Statistics operates by intentionally averaging individual choices away.
+What produced the change was a sequence of self-directed acts: the first decision to register, the continuous discipline of directing attention, the inner resolution of confusion, and the later choice to hold back hasty attributions. Statistics can record the positive correlation between course enrollment and improved reasoning scores. It cannot find the causal engine inside the regression table, because the engine was the individual center doing the thinking. [The average is residue, not the engine](../the-average-is-residue-not-the-engine/) holds that exact bound: mass distributions register composite effects, while the generating edge stays with the discrete acts of individual loci.
 
-To construct a manageable model, statistical methods must collapse the unique intentions, hesitations, breakthroughs, and private commitments of millions of distinct minds into a unified curve or summary metric. This compression is immensely useful as an instrument: it establishes baselines, maps environmental friction, and summarizes historical frequencies.
+## 二、 总量抹平了因果所在之处 / 2. Aggregates Smooth Away the Site of Causation
 
-Yet mistaking that smoothed summary for the generative source of action is ordinary Image lag. A distribution describes what has already happened across many centers; it does not author what any individual center does next. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) demonstrates that social, macroeconomic, and cultural outcomes possess no independent causal substance; they are the compounded arithmetic of discrete choices. When an analyst treats an average as an active force pushing individuals along a trendline, the map is mistaken for the driver.
+统计的运作方式，就是有意地把个体的抉择平均掉。
 
-## Misattribution is an act of agency that disowns itself
+Statistics works by deliberately averaging individual choices away.
 
-Even the cognitive error of confusing correlation with causation reveals the supremacy of the Mind. Reading others from the distribution returns my own model, the self-portrait [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) describes.
+为了建出一个可处理的模型，统计方法必须把千百万个不同心智各自的意图、迟疑、突破与私下的承诺，压缩成一条统一的曲线或一个概括指标。这种压缩作为工具极其有用：它建立基线，描绘环境的摩擦，概括历史的频率。
 
-When an observer sees two events coincide and reflexively declares one to be the cause of the other, that mistake is not a passive malfunction of sensory hardware. It is an active distinction: the Mind perceives a regular pattern in its held residue, invents a causal narrative, and then relocates its own authorship onto the observed correlation.
+To build a manageable model, statistical methods must compress the unique intentions, hesitations, breakthroughs and private commitments of millions of distinct Minds into one curve or summary metric. As an instrument this compression is immensely useful: it sets baselines, maps environmental friction and summarizes historical frequencies.
 
-In the very same motion, the Mind often projects that externalization outward, treating other human beings as passive pawns driven by demographic averages, economic indices, or social conditioning rather than as centers executing their own choices. The confusion of correlation with causation is an act of agency that immediately disowns its own agency. [The misallocation of agency](../the-misallocation-of-agency/) tracks this exact inversion: taking an emergent macro-pattern, naming it an autonomous system, and demanding that the phantom protect or author the individual acts that sustain it. [The Perceiver and the Trace Cannot Collapse](../the-perceiver-and-the-trace/) takes this to its contemporary frontier: when analysts treat other people as algorithmic non-player characters while simultaneously projecting conscious interiority onto the fluent statistical token output of language models, the misallocation is complete. The living perceiver abdicates its own first-person presence and relocates mind into inert statistical distributions.
+然而把这份平滑后的概括误作行动的生成来源，是寻常的形象滞后。一个分布描述的是许多中心已经发生的事；它不替任何一个中心写下下一步。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)追溯了社会、宏观经济与文化的结果并不具有独立的因果实体；它们是离散抉择复合起来的算术。分析者把一个平均值当作推着个人沿趋势线前进的力量时，地图就被当成了驾驶者。
 
-## Data maps the terrain; Mind takes the step
+Yet mistaking that smoothed summary for the generating source of action is ordinary Image lag. A distribution describes what has already happened across many centers; it does not author what any one center does next. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) traces how social, macroeconomic and cultural outcomes hold no independent causal substance; they are the compounded arithmetic of discrete choices. When an analyst treats an average as a force pushing individuals along a trendline, the map is taken for the driver.
 
-The statistical curriculum, the measured improvement in reasoning, and the persistent fallacy of false causation all share a single invariant geometry:
+## 三、 误归因是一次否认自身的能动 / 3. Misattribution Is an Act of Agency That Disowns Itself
 
-1. **The pattern is always downstream:** Whether expressed as a regression line, an average outcome, or an institutional score, the pattern is residual data left by prior movement.
-2. **The causal prior never relocates:** The labor of selecting, interpreting, evaluating, and applying remains anchored at the minded center.
-3. **Data informs, but cannot steer:** Statistical knowledge enriches the landscape of available priors, but the data never walks the terrain.
+就连把相关混同为因果的认知错误，也显出因果的所在是心智。从分布去读别人，读回来的是读者自己的模型，也就是[投射中的自画像](../the-self-portrait-in-the-projection/)所描述的那幅自画像。
 
-Statistics cannot reveal the Mind because the Mind is the uncaused observer that computes, reads, and acts upon the statistics. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/) affirms that no artifact, dataset, or aggregate calculation originates discernment. Consult the distributions for situational awareness, but recognize where the lever resides: every point on the scatterplot is the footprint of a choice, and only the Mind can take the next step. The normal curve is sediment of choices, as [Judging by Purpose: The Default State and Dynamic Leaps of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) argues.
+Even the cognitive error of confusing correlation with causation shows that the site of causation is the Mind. Reading others from the distribution returns the reader’s own model, the self-portrait that [The Self-Portrait in the Projection](../the-self-portrait-in-the-projection/) describes.
+
+一个观察者看见两件事同时发生，反射般地宣布其中一件是另一件的原因，这个错误不是感官硬件的被动故障。它是一次主动的区分：心智在它所持的痕迹里察觉到一个规则的样式，编出一段因果叙事，再把自己的作者身份移到被观察的相关上。
+
+When an observer sees two events coincide and reflexively declares one the cause of the other, the mistake is not a passive malfunction of sensory hardware. It is an active distinction: the Mind perceives a regular pattern in its held residue, invents a causal story, and then relocates its own authorship onto the observed correlation.
+
+在同一个动作里，心智还会把这次外化向外投射，把其他人当作被人口平均值、经济指数或社会条件驱动的被动棋子，而不是执行自己抉择的中心。把相关混同为因果，是一次立刻否认自身能动的能动。[能动性的错配](../the-misallocation-of-agency/)追踪的正是这次倒置：取一个涌现的宏观样式，把它命名为自主的系统，再要求这个幻影去保护或写下维持它的那些个体行动。[感知者与痕迹的不可坍缩](../the-perceiver-and-the-trace/)把这一点推到当下的前沿：分析者把别人当作算法式的非玩家角色，同时又把有意识的内在投射到语言模型流畅的统计词元输出上，错配就完成了。活着的感知者放下自己第一人称的在场，把心智搬进了惰性的统计分布。
+
+```mermaid
+flowchart TD
+    subgraph S_Mind["心智"]
+        direction TB
+        M1["离散的抉择"]
+        M2["读取并行动"]
+    end
+    subgraph S_Stats["统计"]
+        direction TB
+        T1["痕迹在人群中对齐"]
+        T2["分布与趋势线"]
+    end
+    subgraph S_Mis["误归因"]
+        direction TB
+        X1["编出因果叙事"]
+        X2["作者身份移到样式上"]
+    end
+    M1 --> T1 --> T2
+    T2 --> M2
+    M2 -->|"迈出下一步"| M1
+    M2 -.->|"把样式读作原因"| X1 --> X2
+    X2 -.->|"否认自身的能动"| M2
+    style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Stats fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Mis fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style M1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style T1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style T2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style X1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style X2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+In the same motion, the Mind can project that externalization outward, treating other people as passive pawns driven by demographic averages, economic indices or social conditioning rather than as centers carrying out their own choices. Confusing correlation with causation is an act of agency that at once disowns its own agency. [The misallocation of agency](../the-misallocation-of-agency/) tracks this exact inversion: taking an emergent macro-pattern, naming it an autonomous system, and asking the phantom to protect or author the individual acts that sustain it. [The Perceiver and the Trace Cannot Collapse](../the-perceiver-and-the-trace/) carries this to its present frontier: when analysts treat other people as algorithmic non-player characters while projecting conscious interiority onto the fluent statistical token output of language models, the misallocation is complete. The living perceiver sets down its own first-person presence and relocates mind into inert statistical distributions.
+
+```mermaid
+flowchart TD
+    subgraph S_Mind["The Mind"]
+        direction TB
+        M1["Discrete choices"]
+        M2["Reading and acting"]
+    end
+    subgraph S_Stats["Statistics"]
+        direction TB
+        T1["Traces align across populations"]
+        T2["Distributions and trendlines"]
+    end
+    subgraph S_Mis["Misattribution"]
+        direction TB
+        X1["A causal story is invented"]
+        X2["Authorship relocated onto the pattern"]
+    end
+    M1 --> T1 --> T2
+    T2 --> M2
+    M2 -->|"takes the next step"| M1
+    M2 -.->|"reads the pattern as cause"| X1 --> X2
+    X2 -.->|"disowns its own agency"| M2
+    style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Stats fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Mis fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style M1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style T1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style T2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style X1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style X2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+## 四、 数据描绘地形，心智迈出脚步 / 4. Data Maps the Terrain; the Mind Takes the Step
+
+统计课程、被测得的推理进步，以及顽固的虚假因果谬误，共有同一个不变的几何：
+
+The statistics curriculum, the measured improvement in reasoning and the persistent fallacy of false causation all share one invariant geometry:
+
+1. **样式总在下游：** 无论表现为一条回归线、一个平均结果，还是一份制度化的评分，样式都是先前运动留下的痕迹数据。
+2. **因果的先验从不迁移：** 选择、解释、评估与应用的劳作，始终锚定在有心智的中心。
+3. **数据提供信息，却不能掌舵：** 统计知识丰富了可用先验的地形，但数据从不走过这片地形。
+
+1. **The pattern is always downstream:** whether it shows as a regression line, an average outcome or an institutional score, the pattern is residual data left by earlier movement.
+2. **The causal prior never relocates:** the labor of selecting, interpreting, evaluating and applying stays anchored at the minded center.
+3. **Data informs but cannot steer:** statistical knowledge enriches the landscape of available priors, but the data never walks the terrain.
+
+统计无法揭示心智，因为心智正是那个计算、阅读并依据统计而行动的、无因的观察者。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)追溯了为什么没有哪件人造物、哪个数据集或哪次总量计算能生出辨别。分布可以用来把握态势，杠杆却在别处：散点图上的每一个点，都是一次抉择的足迹，下一步只由心智迈出。[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)从另一面走到同一处：正态曲线是抉择沉积下来的痕迹，而不是推动抉择的东西。
+
+Statistics cannot reveal the Mind because the Mind is the uncaused observer that computes, reads and acts on the statistics. [Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/) traces why no artifact, dataset or aggregate calculation originates discernment. The distributions serve situational awareness, while the lever sits elsewhere: every point on the scatterplot is the footprint of a choice, and only the Mind takes the next step. [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) reaches the same place from the other side: the normal curve is the sediment of choices, not what drives them.
