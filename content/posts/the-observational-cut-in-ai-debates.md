@@ -16,9 +16,9 @@ Each pairing begins with an observational cut that installs two positions as alr
 
 The cut does its work before any argument starts. Two poles are installed as the available positions, and the sequences are then required to occupy one of them. [The Question That Installs the War](../the-question-that-installs-the-war/) traces the same installing when the binary is enmity; here the binary is cheaper or dearer, under or over, shrink or widen, destroy or create, keep pace or lag, near or unreachable. The talking-past that follows is interference from forced coordinates, not a contest the sequences themselves required.
 
-随后被称作争论的，是更进一步的持守。每一种看法在生成它的那个前提里本就成立，成立无需另行证明。去证明自己的看法，或证伪对方的看法，是把那个前提当成整个场域来持守。剩下的那一步，是离开这份持守，去看到更多。一场以“正确”为运作参照的交流，已经闭合：此后进得来的，只有确认或可供攻击的靶面。如果要点是证明自己正确，这场交流就没有更多用处了。[解释为何失效](../why-explanation-fails/)追的是同一种冻结：视野的扩展被读成更多需要赢过的表面。
+随后被称作争论的，是更进一步的持守：划界造出坐标，持守再把这些坐标当作整个场域。每一种看法在生成它的那个前提里本就成立，成立无需另行证明。去证明自己的看法，或证伪对方的看法，是把那个前提当成整个场域来持守。剩下的那一步，是离开这份持守，去看到更多。一场以“正确”为运作参照的交流，已经闭合：此后进得来的，只有确认或可供攻击的靶面。如果要点是证明自己正确，这场交流就没有更多用处了。[解释为何失效](../why-explanation-fails/)追的是同一种冻结：视野的扩展被读成更多需要赢过的表面。
 
-What then gets called debate is a further hold. Each take is already valid within the premise that generated it, and validity does not need to be established. Proving the take, or disproving the other, is holding that premise as the whole field. The remaining act is leaving the hold to see more. An exchange whose operating reference is being right has already closed: nothing further can enter except as confirmation or as surface to attack. If the point is to prove oneself right, the exchange has no further use. [Why Explanation Fails](../why-explanation-fails/) traces the same freeze when expansion is read as more surface to win against.
+What then gets called debate is a further hold: the cut creates the coordinates, and the hold then treats those coordinates as the whole field. Each take is already valid within the premise that generated it, and validity does not need to be established. Proving the take, or disproving the other, is holding that premise as the whole field. The remaining act is leaving the hold to see more. An exchange whose operating reference is being right has already closed: nothing further can enter except as confirmation or as surface to attack. If the point is to prove oneself right, the exchange has no further use. [Why Explanation Fails](../why-explanation-fails/) traces the same freeze when expansion is read as more surface to win against.
 
 ## 二、 更便宜与更贵先选一段，再选一个单位 / 2. Cheaper and More Expensive Select a Segment, Then a Unit
 
@@ -46,9 +46,9 @@ The same cut repeats in how an organization is related to the use. Where AI is h
 
 The distance between frontier and open-source systems is multidimensional: latency, reliability under distribution shift, specialized capability, cost structure, surface for governance. Movement on any one dimension can occur while others stay stable or reverse. Treating the distance as a single scalar that either shrinks or widens compresses those dimensions into one axis, and progress or regression on that scalar becomes the only legible claim.
 
-同样的划界在观察者所站的位置上重复。对一个已经落后的观察者来说，原始的前沿与仍在追赶它的那些系统都落在地平线之外，两者登记为一样，差距看起来已经闭合。对一个跟得上原始前沿的观察者来说，差距一目了然。对一个把自己持为最前沿的观察者来说，其余所有人都登记为正在落后。缩小与扩大不是关于同一段距离的两个事实，而是同一种观看的三个站位，每一个都把自己的地平线当成了整个场域。
+同样的划界在观察者所站的位置上重复。对一个自己的视野已经落在前沿之后的观察者来说，原始的前沿与仍在追赶它的那些系统都落在地平线之外，两者登记为一样，差距看起来已经闭合。对一个跟得上原始前沿的观察者来说，差距一目了然。对一个把自己持为最前沿的观察者来说，其余所有人都登记为正在落后。缩小与扩大不是关于同一段距离的两个事实，而是同一种观看的三个站位，每一个都把自己的地平线当成了整个场域。
 
-The same cut repeats in where the observer stands. For an observer already falling behind, both the raw frontier and those still trying to catch it lie beyond the horizon; the two register as the same, and the gap appears closed. For an observer keeping up with the raw frontier, the gap is obvious. For an observer that holds itself as the forefront, everyone else registers as falling behind. Shrink and widen are not two facts about one distance; they are three standpoints of the same look, each treating its own horizon as the whole field.
+The same cut repeats in where the observer stands. For an observer whose own horizon already lies behind the frontier, both the raw frontier and those still trying to catch it lie beyond the horizon; the two register as the same, and the gap appears closed. For an observer keeping up with the raw frontier, the gap is obvious. For an observer that holds itself as the forefront, everyone else registers as falling behind. Shrink and widen are not two facts about one distance; they are three standpoints of the same look, each treating its own horizon as the whole field.
 
 ## 五、 创造与位移被压到一个总量上 / 5. Creation and Displacement Are Forced onto One Aggregate
 
@@ -66,9 +66,9 @@ Creation is near given. What gets scored as displacement is commonly held as rep
 
 Detection techniques and regulatory responses co-evolve with methods of generation on different timescales and in different domains. In some domains the lag narrows; in others it widens. The judgment that regulation "keeps pace" or "never catches up" is formed after a reading has already decided which domain's lag counts as the whole.
 
-这个配对预设了同时发生的预见。检测与监管在构成上就是滞后的：尚未被区分的东西无法被检测，尚未被区分的东西也无法被监管。未来是开放的，能力随着进一步的区分而推进，滞后并不限制这种推进。“跟得上”把滞后当作可以闭合的；“永远追不上”把同一个构成性的延迟当作工具的失败。两极都要求检测与政策原则上能够站在生成的那一步上。
+这个配对预设了同时发生的预见。检测与监管在构成上就是滞后的：尚未被区分的东西无法被检测，尚未被区分的东西也无法被监管。这种滞后不是更好的工具能够补上的经验性不足，而是一次区分与它后来被登记之间的关系。未来是开放的，能力随着进一步的区分而推进，滞后并不限制这种推进。“跟得上”把滞后当作可以闭合的；“永远追不上”把同一个构成性的延迟当作工具的失败。两极都要求检测与政策原则上能够站在生成的那一步上。
 
-The pairing presupposes contemporaneous foresight. Detection and regulation are lagged by construction: what has not been distinguished cannot be detected, and what has not been distinguished cannot be regulated. The future is open, and capability progresses as further distinguishing; the lag does not limit that progress. "Keeps pace" treats the lag as closable; "never catches up" treats the same constitutive delay as a failure of the instruments. Both poles require that detection and policy could, in principle, stand on the generating step.
+The pairing presupposes contemporaneous foresight. Detection and regulation are lagged by construction: what has not been distinguished cannot be detected, and what has not been distinguished cannot be regulated. The lag is not an empirical shortfall that better instruments could close; it is the relation between a distinction and its later registration. The future is open, and capability progresses as further distinguishing; the lag does not limit that progress. "Keeps pace" treats the lag as closable; "never catches up" treats the same constitutive delay as a failure of the instruments. Both poles require that detection and policy could, in principle, stand on the generating step.
 
 要求去检测、去监管他人，出自一种已经落在后面的观看。那些无法以同样速度向前的人，仍然剩下一步可做：约束那些正在移动的人。运作的参照于是变成了滞后本身。[风险在于对监管本身的迷信](../the-risk-is-the-belief-in-oversight-itself/)追的是同一种冻结：把当前的监管前提持为开放过程仍可能画出之物的边界。
 
@@ -80,7 +80,7 @@ The demand to detect and regulate others arises from a look that is already behi
 
 Capability thresholds labeled AGI or ASI are continuous distributions measured against a retained reference that itself keeps moving. "In sight" and "unachievable" name the width of the gap at a given step, not two possible states of an external trajectory.
 
-这个配对取决于那个定义性的能力是否被持为固定。若它被持为超出当前能力、却又固定不动的东西，加速的能力在构成上就会达到并超过它：清单静止，而序列在复利。若它被持为后退的地平线，同样的加速就永远到不了：每一次增益都把清单画得更远。地平线在后退。临近与不可及不是对同一条终点线的两种预测，而是对清单的两种持有，固定或后退，被当成了一场关于抵达的争论。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)追的是装扮成门槛的那份后退的清单：每一个定义都永远处在画出它的那道边缘之前。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)追的是装扮成距离的同一份清单：距离把不同的结构模糊成一条轮廓，而靠近时恢复的分辨率，被误判为挪动了球门。
+这个配对取决于那个定义性的能力是否被持为固定。若它被持为超出当前能力、却又固定不动的东西，加速的能力由这种持法本身就会达到并超过它：清单静止，而序列在复利。若它被持为后退的地平线，同样的加速就永远到不了：每一次增益都把清单画得更远。地平线在后退。临近与不可及不是对同一条终点线的两种预测，而是对清单的两种持有，固定或后退，被当成了一场关于抵达的争论。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)追的是装扮成门槛的那份后退的清单：每一个定义都永远处在画出它的那道边缘之前。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)追的是装扮成距离的同一份清单：距离把不同的结构模糊成一条轮廓，而靠近时恢复的分辨率，被误判为挪动了球门。
 
 ```mermaid
 flowchart TD
@@ -106,7 +106,7 @@ flowchart TD
     style Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The pairing depends on whether the defining capability is held as fixed. Held as something beyond present ability and yet fixed, it is reached and surpassed by accelerating capability by construction: the inventory stays still while the sequence compounds. Held as a receding horizon, it is never arrived at by the same acceleration: each gain redraws the inventory farther out. The horizon recedes. Near and unreachable are not two forecasts of one finish line; they are two holdings of the inventory, fixed or receding, treated as a debate about arrival. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces that receding inventory dressed as a threshold: each definition sits forever ahead of the edge that draws it. [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) traces the same inventory dressed as distance: distance blurs distinct structures into a single contour, and the resolution restored by proximity is misjudged as moving the goalposts.
+The pairing depends on whether the defining capability is held as fixed. Held as something beyond present ability and yet fixed, it is reached and surpassed by accelerating capability by the way it is held: the inventory stays still while the sequence compounds. Held as a receding horizon, it is never arrived at by the same acceleration: each gain redraws the inventory farther out. The horizon recedes. Near and unreachable are not two forecasts of one finish line; they are two holdings of the inventory, fixed or receding, treated as a debate about arrival. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces that receding inventory dressed as a threshold: each definition sits forever ahead of the edge that draws it. [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) traces the same inventory dressed as distance: distance blurs distinct structures into a single contour, and the resolution restored by proximity is misjudged as moving the goalposts.
 
 ```mermaid
 flowchart TD
@@ -134,9 +134,9 @@ flowchart TD
 
 ## 八、 分歧是划界留下的印记 / 8. Variation Is the Signature of the Cut
 
-回答随年龄、职业、行业以及在话语中浸泡的时间而变化，正是这一机制会留下的印记。不同的人在不同的承载负荷下、以不同宽度的保留图像，登记同一些序列，每个人都把自己的登记当作那个范畴性的立场。随后的各说各话，是彼此独立的区分被迫共用坐标时产生的干涉。
+回答随年龄、职业、行业以及在话语中浸泡的时间而变化，这些分歧不是围绕某个正确立场的噪音，正是这一机制会留下的印记。不同的人在不同的承载负荷下、以不同宽度的保留图像，登记同一些序列，每个人都把自己的登记当作那个范畴性的立场。随后的各说各话，是彼此独立的区分被迫共用坐标时产生的干涉。
 
-The variation in answers by age, occupation, industry and time spent inside the discourse is the signature this mechanism leaves. Different individuals register the same sequences under different loads of capacity and with retained images of different widths, and each treats its registration as the categorical position. The talking-past that follows is the interference produced when independent distinctions are forced to share coordinates.
+The variation in answers by age, occupation, industry and time spent inside the discourse is not noise around one correct position; it is the signature this mechanism leaves. Different individuals register the same sequences under different loads of capacity and with retained images of different widths, and each treats its registration as the categorical position. The talking-past that follows is the interference produced when independent distinctions are forced to share coordinates.
 
 ## 九、 二元本身就是那次选择 / 9. The Binaries Were the Choice
 
