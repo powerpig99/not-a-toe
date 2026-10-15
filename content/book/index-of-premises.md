@@ -1406,11 +1406,11 @@ Realism assumes mind-independent reality precedes and produces the mind; every d
 ### 后发优势 / Second-Mover (Fast Follower) Advantage
 `经济 / Economic`
 
-后来者叙事以发布日期解读历史；胜者早在数年前就押注更高杠杆的架构，可用的规律是早期未被验证的复利延后显形。
+后发优势的叙事说耐心的跟随者等市场明朗再入场收割，在描述一些后来者确实借先驱的试错降低了成本时有用；它在此到了边界：它以公开发布的日期去读历史，看不到胜者早在方向仍被共识打发时就押注了更高杠杆的架构，那份未经验证的复利只是延后显形，而这种读法本身也是从结果倒着读回去的。
 
-The latecomer story reads history through launch dates; victors committed to higher-leverage architectures years earlier, so the useful pattern is early unvalidated compounding surfacing late.
+The second-mover story says the patient follower waits for the market to clear and then collects the spoils, which is of use in describing how some latecomers do lower their costs on the pioneers' trial and error; it reaches its boundary in that it reads history by launch dates and misses that the winners committed to a higher-leverage architecture while consensus still dismissed the direction, so the unvalidated compounding only surfaces late, a reading that is itself taken backward from the outcome.
 
-→ [The Invisible First Move](../../posts/the-invisible-first-move/)
+→ [看不见的第一步 / The Invisible First Move](../../posts/the-invisible-first-move/)
 
 ### 香农信息论 / Shannon Information Theory
 `数学 / Mathematical`
@@ -4963,11 +4963,11 @@ Ability is taken to exist only once it is seen and approved by a group, so the n
 ### 等待局势明朗 / Waiting for Clarity
 `成功学 / Self-Help`
 
-等待明朗，假定明朗会自行降临行业；它是有人深入模糊之后留下的产物，等待只会把人绑定在昨日领先者的假设上。
+等待明朗假定明朗会自行降临到一个行业，在控制尚无把握时的投入时有用；它在此到了边界：明朗是有人走进模糊、承担风险之后留下的副产品，等待放下了自主区分与未经验证的坚持，把人绑在昨天领先者的假设上。
 
-Waiting for clarity assumes clarity descends on an industry; it is byproduct created after someone ventures into ambiguity, so waiting binds one to yesterday's leaders.
+Waiting for clarity assumes clarity descends on an industry of its own accord, which is of use in limiting commitments one cannot yet judge; it reaches its boundary in that clarity is the by-product left after someone goes into ambiguity and bears its risk, so waiting sets down autonomous distinction and unvalidated endurance and binds one to the assumptions of yesterday's leaders.
 
-→ [The Invisible First Move](../../posts/the-invisible-first-move/)
+→ [看不见的第一步 / The Invisible First Move](../../posts/the-invisible-first-move/)
 
 ### 财富税 / Wealth Tax
 `经济 / Economic`
