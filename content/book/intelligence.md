@@ -48,7 +48,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [Hardware Locality Is Not the Information Boundary](../../posts/hardware-locality-is-not-the-information-boundary/)
 - [The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/)
 - [The Scaling Loop: Compression, Recombination, and the Minds That Keep Redrawing the Edges](../../posts/the-scaling-loop/)
-- [The Distaste for “AI Slop” Is No Different From the Recurring Historical Pattern](../../posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)
+- [对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern](../../posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)
 - [大倒置的消解 / The Dissolution of the Great Reversal](../../posts/the-dissolution-of-the-great-reversal/)
 - [抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity](../../posts/the-ladder-of-abstraction-and-the-executable-entity/)
 - [从AGI的“神性错置”到使用者的自我对齐 / From the Misallocated Sentience of AGI to Human Realignment](../../posts/from-the-misallocated-sentience-of-agi-to-human-realignment/)

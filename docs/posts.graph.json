@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T12:40:13.991Z",
+    "generated_at": "2026-10-15T12:47:36.666Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -231,7 +231,7 @@
       "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "0f743e203782",
-      "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "f6b314517261",
+      "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "fbc2f400c1b1",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "09a58e05b701",
       "content/posts/the-extendable-horizon.md": "a8e165ee1921",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "bcd662973452",
@@ -247,7 +247,7 @@
       "content/posts/the-freedom-of-will-to-deny-itself.md": "f90a8819ab4e",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "591395049b84",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "99601f73e350",
-      "content/posts/the-generative-contradiction.md": "87f8ac726456",
+      "content/posts/the-generative-contradiction.md": "3ed3376e769b",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
       "content/posts/the-generative-topology-of-free-variables.md": "bd4117e215d3",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
@@ -404,8 +404,8 @@
       "content/book/causality.md": "d5550db9b19b",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "980e057c3c88",
-      "content/book/index-of-premises.md": "2dfa50786277",
-      "content/book/intelligence.md": "5c06fbf5cc01",
+      "content/book/index-of-premises.md": "958818aeaf98",
+      "content/book/intelligence.md": "eb59e8b28085",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "5f28265c4095",
       "content/book/mathematics.md": "8bb7852e7439",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6263,
+      "edges": 6274,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -6065,8 +6065,8 @@
       "kind": "post",
       "slug": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "path": "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md",
-      "title": "The Distaste for “AI Slop” Is No Different From the Recurring Historical Pattern",
-      "hash": "f6b314517261",
+      "title": "对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern",
+      "hash": "fbc2f400c1b1",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -6446,7 +6446,7 @@
       "slug": "the-generative-contradiction",
       "path": "content/posts/the-generative-contradiction.md",
       "title": "生成性的矛盾 / The Generative Contradiction",
-      "hash": "87f8ac726456",
+      "hash": "3ed3376e769b",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -31234,6 +31234,18 @@
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
       "label": "The allocation of causal power in validation"
     },
     {
@@ -31246,13 +31258,43 @@
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "the-frame-that-conceals-improvement",
       "rel": "points_to",
+      "label": "遮蔽进步的框架"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-frame-that-conceals-improvement",
+      "rel": "points_to",
       "label": "The frame that conceals improvement"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
       "label": "Self-image speaks as if from nowhere"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "数据是局部的，智能是分配的"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-limitation-is-doing-work",
+      "rel": "points_to",
+      "label": "限制正在做功"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "安装战争的那个问题"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -31276,6 +31318,18 @@
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
+      "label": "攀登从未离开地面"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "技术是人类复利的残差"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
       "label": "Climbing does not leave the ground"
     },
     {
@@ -31283,6 +31337,18 @@
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
       "label": "Technology is residual of human compounding"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "生成性的矛盾"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -33118,13 +33184,13 @@
       "from": "the-generative-contradiction",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
-      "label": "对“AI糟粕”的反感与反复出现的历史模式并无不同"
+      "label": "对“AI 糟粕”的反感是反复出现的模式"
     },
     {
       "from": "the-generative-contradiction",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
-      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
+      "label": "The distaste for “AI slop” is a recurring pattern"
     },
     {
       "from": "the-generative-contradiction",
@@ -47478,7 +47544,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "2dfa50786277",
+        "hash": "958818aeaf98",
         "out_degree": 393
       },
       {
@@ -47487,7 +47553,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "5c06fbf5cc01",
+        "hash": "eb59e8b28085",
         "out_degree": 47
       },
       {
@@ -49719,7 +49785,7 @@
         "from": "book:index-of-premises",
         "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "rel": "collects",
-        "label": "The Distaste for “AI Slop” Is No Different From the Recurring Historical Pattern"
+        "label": "对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern"
       },
       {
         "from": "book:index-of-premises",
@@ -49809,7 +49875,7 @@
         "from": "book:index-of-premises",
         "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "rel": "collects",
-        "label": "The Distaste for “AI Slop” Is No Different From the Recurring Historical Pattern"
+        "label": "对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern"
       },
       {
         "from": "book:index-of-premises",
@@ -52377,7 +52443,7 @@
         "from": "book:intelligence",
         "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "rel": "collects",
-        "label": "The Distaste for “AI Slop” Is No Different From the Recurring Historical Pattern"
+        "label": "对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern"
       },
       {
         "from": "book:intelligence",

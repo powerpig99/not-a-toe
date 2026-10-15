@@ -1777,11 +1777,11 @@ AI safety alerts claim adversarial prompts allow models to break their container
 ### AI 垃圾内容 / AI Slop
 `技术 / Technological`
 
-把文本斥为 AI 垃圾，假定工具决定价值或污染；内容无论是否借助工具都照样清晰或混乱，按来源过滤让辨别力得不到锻炼。
+把文字斥为 AI 糟粕，以出处判断内容，在提醒留意粗制滥造的大量产出时有用；它在此到了边界：它假定工具是价值或污染的作者，而内容无论是否借助工具，都照样连贯或混乱，按出处过滤在接触之前就拒绝，让辨别力得不到练习。
 
-Dismissing text as AI slop assumes the tool authors value or contamination; content stays coherent or muddled regardless of assistance, so provenance filtering leaves discernment unexercised.
+Dismissing writing as AI slop judges content by provenance, which is of use in flagging carelessly made mass output; it reaches its boundary in that it assumes the tool authors value or contamination, while content stays coherent or muddled whatever assisted it, and filtering by provenance refuses before contact, leaving discernment unpracticed.
 
-→ [The Distaste for “AI Slop” Is No Different From the Recurring Historical Pattern](../../posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)
+→ [对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern](../../posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)
 
 ### 算法降临的阶序说辞 / Algorithmic Successionism
 `意识形态 / Ideological`
@@ -1885,11 +1885,11 @@ Presumes skepticism toward human minds justifies granting equal subjective statu
 ### 手工胜于机器的本真性 / Authenticity of Handmade over Machine-Made
 `哲学 / Philosophical`
 
-以本真之名偏爱手工、马匹或手动挡，是用生产叙事评判产品；这是个人偏好，一旦升格为他人的标准就会冻结。
+以真实之名偏爱手工、马匹或手动挡，用生产的叙事评判产品，在珍视一门手艺与它承载的经验时有用；它在此到了边界：产品被评判的，与其说是它达成了什么，不如说是它的生产与偏爱的叙事是否吻合，这本是个人的口味，一旦被抬升为他人的标准就冻结了。
 
-Preference for handmade, horse, or manual transmission framed as authenticity judges product by production story; it is personal taste that freezes when elevated into a standard for others.
+Preferring the handmade, the horse or the manual transmission in the name of authenticity judges the product by its production story, which is of use in valuing a craft and the experience it carries; it reaches its boundary in that the product is then judged less by what it achieves than by its match to a preferred narrative, a personal taste that freezes once elevated into a standard for others.
 
-→ [The Distaste for “AI Slop” Is No Different From the Recurring Historical Pattern](../../posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)
+→ [对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern](../../posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)
 
 ### 作者人设投射 / Authorial Persona Projection
 `哲学 / Philosophical`

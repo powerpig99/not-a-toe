@@ -28,9 +28,9 @@ Tools, other people, circumstances, even the most advanced AI: none of them act 
 
 ## 三、 “AI 糟粕”是外向的同一错配 / 3. “AI Slop” Is the Same Misallocation Turned Outward
 
-“AI 糟粕”这个说法本身，就是外向翻转的同一错配：能动从人身上剔除，交给工具，再被用作对他人的评判，于是内在本身的长处始终没有被遇见。[对“AI糟粕”的反感与反复出现的历史模式并无不同](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)是那排名装扮成出处的一面：工具被当作价值或玷污的作者。
+“AI 糟粕”这个说法本身，就是外向翻转的同一错配：能动从人身上剔除，交给工具，再被用作对他人的评判，于是内在本身的长处始终没有被遇见。[对“AI 糟粕”的反感是反复出现的模式](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)是那排名装扮成出处的一面：工具被当作价值或玷污的作者。
 
-The very term “AI slop” is the same misallocation turned outward: agency is stripped from the person and assigned to the tool, then used as a judgment of others, so the merits of the content are never met. [The distaste for “AI slop” is no different from the recurring historical pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) is that ranking in the costume of provenance: the instrument treated as the author of value or of contamination.
+The very term “AI slop” is the same misallocation turned outward: agency is stripped from the person and assigned to the tool, then used as a judgment of others, so the merits of the content are never met. [The distaste for “AI slop” is a recurring pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) is that ranking in the costume of provenance: the instrument treated as the author of value or of contamination.
 
 清楚地看见差异、充分地欣赏差异的能力，与对这个错配的觉察同时到来。
 
