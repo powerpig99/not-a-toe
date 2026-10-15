@@ -23,7 +23,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [前因，后果](../../posts/qian-yin-hou-guo/)
 - [因果与不可化约的先在 / Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
 - [关于归因：从事实到因果，从外部节点到内部迭代](../../posts/guan-yu-gui-yin/)
-- [决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
+- [决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
 - [作茧不是自缚 / Spinning a Cocoon Is Not Binding Oneself](../../posts/zuo-jian-bu-shi-zi-fu/)
 - [如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second](../../posts/how-to-fix-your-whole-life-in-one-split-second/)
 - [生成性的矛盾 / The Generative Contradiction](../../posts/the-generative-contradiction/)

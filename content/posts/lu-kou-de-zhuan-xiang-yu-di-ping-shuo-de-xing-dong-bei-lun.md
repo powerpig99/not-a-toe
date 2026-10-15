@@ -106,7 +106,7 @@ Authentic movement is never a frozen route, but the adaptive capacity to test ch
 
 Internalizing this mechanic detaches the mind from external scorecards. Gump never set commercial acclaim as his objective; worldly returns emerged as incidental byproducts. Imitating his demeanor as a technique for social advancement falls into causal inversion, subordinating perception to external arbiters once again.
 
-对于追求自洽生命的主体而言，可靠的锚点在于专注于对自身具有内在逻辑与探索意义的事物，并通过微观尝试与纠偏使自身逐步靠近目标。在行进中若决定探索不同的领域，甚至在半途转向，都是理智而自洽的选择。这是属于第一人称的探险，无需向任何外部观众证明自身的正确。在[所有权与配得感](../ownership-and-self-worthiness/)中，承受真实后果才能沉淀资产；而在[决策与后果不可分割的先验](../the-irreducible-prior-of-decision-and-consequence/)中，选择与承载始终是同一硬币的双面。
+对于追求自洽生命的主体而言，可靠的锚点在于专注于对自身具有内在逻辑与探索意义的事物，并通过微观尝试与纠偏使自身逐步靠近目标。在行进中若决定探索不同的领域，甚至在半途转向，都是理智而自洽的选择。这是属于第一人称的探险，无需向任何外部观众证明自身的正确。在[所有权与配得感](../ownership-and-self-worthiness/)中，承受真实后果才能沉淀资产；而在[决策与后果的不可约先验](../the-irreducible-prior-of-decision-and-consequence/)中，选择与承载始终是同一硬币的双面。
 
 For an agent pursuing self-consistency, the steady anchor is attending to what carries coherent significance, moving toward it via micro-adjustments against material resistance. Pivoting mid-course or charting fresh territory remains legitimate; as a first-person journey, it owes no explanations to spectator balconies. In [Ownership and Self-Worthiness](../ownership-and-self-worthiness/), compounding takes root only when consequences re-enter the actor's ledger; in [The Irreducible Prior of Decision and Consequence](../the-irreducible-prior-of-decision-and-consequence/), choosing and carrying remain indivisible sides of a single token.
 

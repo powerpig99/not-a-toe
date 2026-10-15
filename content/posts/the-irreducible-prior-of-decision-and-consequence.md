@@ -1,14 +1,14 @@
-# 决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence
+# 决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence
 
-*离开心智如何感知它所做的选择与它所承受的结果之间的统一，就没有什么独立的断裂 / There is no break independent of how a Mind perceives the unity of the choices it makes and the results it lives with.*
+*离开心智是否感知到它的选择与它所承受的结果是统一的，就没有什么独立的断裂 / There is no break independent of whether a Mind perceives the choices it makes and the results it lives with as one.*
 
-一切社会的、经济的、心理的现象，都出自每一个心智如何经验它所做的选择与它所承受的结果之间的关系。只要这层关系被感知为同一个连续的自我，反馈就保持完整，能动性就被登记。
+一切社会的、经济的、心理的现象，都出自每一个心智如何经验它所做的选择与它所承受的结果之间的关系。只要选择与结果被感知为属于同一个连续的自我，反馈就保持完整，能动性就被登记。
 
-All social, economic and psychological phenomena emerge from how each Mind experiences the relation between the choices it makes and the results it lives with. While that relation is perceived as one continuous self, feedback stays intact and agency registers.
+All social, economic and psychological phenomena emerge from how each Mind experiences the relation between the choices it makes and the results it lives with. While choices and results are perceived as belonging to one continuous self, feedback stays intact and agency registers.
 
-断裂把同一本账的两面放在不同的描述之下，于是那个本该约束选择的信号被削弱。制度、花别人的钱、亲历的作者感的变薄，都是这种分裂的结晶；它们并不在分裂之下。
+断裂把同一本账的两面放在不同的描述之下，于是那个本该约束选择的信号被削弱。制度、花别人的钱、亲历的作者感的变薄，都是这种分裂的表达；它们不是分裂之下更深的原因。
 
-The rupture keeps the two sides of one ledger under different descriptions, so the signal that would discipline choice is attenuated. Institutions, the spending of other people's money, and the thinning of felt authorship crystallize that split; they do not lie beneath it.
+The rupture keeps the two sides of one ledger under different descriptions, so the signal that would discipline choice is attenuated. Institutions, the spending of other people's money, and the thinning of felt authorship are expressions of that split; they are not a deeper cause beneath it.
 
 ## 一、 每个人都是两者唯一的中心 / 1. Every Individual Is the Sole Center of Both
 
@@ -18,9 +18,9 @@ Every individual is the sole ultimate center of both decision and consequence; t
 
 ## 二、 统一让账本保持为一本 / 2. Unity Keeps the Ledger One
 
-当一个心智把它的决策和这些决策的后果感知为属于同一个连续的自我，反馈就保持完整。局部的知识被用上，剩余的效应被登记为关乎自身的，互动就可以被优化。这个人经验到能动性、自我价值、选择的自由，以及对命运一种连贯的掌控感，因为行动感觉有效，结果感觉是由同一个自我写下的。
+当一个心智把它的决策和这些决策的后果感知为属于同一个连续的自我，反馈就保持完整。局部的知识被用上，剩余的效应被登记为关乎自身的，互动就可以不断改进。这个人经验到能动性、自我价值、选择的自由，以及对命运一种连贯的掌控感，因为行动感觉有效，结果感觉是由同一个自我写下的。
 
-When a Mind perceives its decisions and their consequences as belonging to the same continuous self, feedback stays intact. Local knowledge is used, residual effects are registered as one's own concern, and interactions can be optimized. The individual experiences agency, self-worth, freedom of choice and a coherent sense of control over destiny, because actions feel efficacious and outcomes feel authored by the same self.
+When a Mind perceives its decisions and their consequences as belonging to the same continuous self, feedback stays intact. Local knowledge is used, residual effects are registered as one's own concern, and interactions can keep improving. The individual experiences agency, self-worth, freedom of choice and a coherent sense of control over destiny, because actions feel efficacious and outcomes feel authored by the same self.
 
 [自我价值感与所有权](../ownership-and-self-worthiness/)追的是同一个循环的功能面：只有当后果作为自己的后果重新进入，模型才会复利。
 
@@ -46,9 +46,9 @@ Cognitive framing and the repeated externalization of results are the primary in
 
 由于每一个人始终是唯一真正的决策者，也是唯一真正的后果承受者，这些个人层面的扭曲会聚合起来。互动的样式随之形成：剩余索取变得松散，激励错位，协调恶化。制度性的分离，也就是把决策权有系统地放在离剩余后果有一段距离之处的正式结构，是同一个断裂在集体层面的下游症状。制度并不创造最初的错置，它们把个体心智里已在运作的分裂诠释结晶下来、加以强化。一旦稳定，它们让知觉上的分裂更容易维持，但它们仍是次一层的。
 
-Because every individual remains the only real decision-maker and the only real bearer of consequences, these individual distortions aggregate. Patterns of interaction form in which residual claimancy loosens, incentives misalign and coordination deteriorates. Institutional separation, formal structures that systematically place decision rights at a distance from residual consequences, is a downstream collective symptom of the same break. Institutions do not create the original misallocation; they crystallize and reinforce the fragmented interpretations already operating within individual Minds. Once stabilized they make the perceptual split easier to maintain, but they remain secondary.
+Because every individual remains the only real decision-maker and the only real bearer of consequences, these individual distortions aggregate. Patterns of interaction form in which residual claimancy loosens, incentives misalign and coordination deteriorates. Institutional separation, formal structures that systematically place decision rights at a distance from residual consequences, is a downstream collective symptom of the same break. Institutions do not create the original misplacement; they crystallize and reinforce the fragmented interpretations already operating within individual Minds. Once stabilized they make the perceptual split easier to maintain, but they remain secondary.
 
-[索维尔的表象洞察与根因之偏](../sowell-observed-the-surface-problem/)是同一个先验在激励上的那一面：错位是一种观看的症状，这种观看已经让决策与后果占据了不同的位置。[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)追的是同一种结晶：产权规则被升格为对分散知识的回答。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)追的是聚合本身：样式与条件是离散行动留下的痕迹，从来不是下一次行动的集体作者。
+[索维尔的表象洞察与根因之偏](../sowell-observed-the-surface-problem/)是同一个先验在激励上的那一面：错位是一种观看的症状：相信问题能跨越心智被解决的那种观看，已经把决策与后果当作占据了不同的位置。[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)追的是同一种结晶：产权规则被升格为对分散知识的回答。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)追的是聚合本身：样式与条件是离散行动留下的痕迹，从来不是下一次行动的集体作者。
 
 ```mermaid
 flowchart TD
@@ -60,14 +60,13 @@ flowchart TD
         L1["收益：眼前的、个人的、有理由的"]
         L2["代价：弥散的、延迟的、归到别处"]
     end
-    W["信号被削弱：选择得不到约束"]
+    W["信号被削弱：选择没有在它的边际上被纠正"]
     I["制度、花别人的钱：把分裂结晶下来"]
     T["能动性变薄"]
     U --> A
     U -.->|"不再被感知为统一"| R
-    R ==> L1
-    L1 --- L2
-    L2 --> W
+    R ==> S_Split
+    S_Split --> W
     W --> I
     W --> T
     I -.->|"让分裂更易维持"| R
@@ -82,7 +81,7 @@ flowchart TD
     style T fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-[Sowell Observed the Surface Problem](../sowell-observed-the-surface-problem/) is the same prior on its face of incentives: misalignment is the symptom of a look that has already let decision and consequence occupy different places. [The Knowledge Problem and the Illusion of Delegation](../the-knowledge-problem-and-the-illusion-of-delegation/) traces the same crystallization where property rules are elevated into the answer to dispersed knowledge. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces the aggregation itself: patterns and conditions are the residue of discrete acts, never a collective author of the next one.
+[Sowell Observed the Surface Problem](../sowell-observed-the-surface-problem/) is the same prior on its face of incentives: misalignment is the symptom of a look, the belief that problems can be solved across minds, which already treats decision and consequence as occupying different places. [The Knowledge Problem and the Illusion of Delegation](../the-knowledge-problem-and-the-illusion-of-delegation/) traces the same crystallization where property rules are elevated into the answer to dispersed knowledge. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces the aggregation itself: patterns and conditions are the residue of discrete acts, never a collective author of the next one.
 
 ```mermaid
 flowchart TD
@@ -94,14 +93,13 @@ flowchart TD
         L1["Benefits: immediate, personal, justified"]
         L2["Costs: diffuse, delayed, attributed elsewhere"]
     end
-    W["Signal attenuated: choice goes undisciplined"]
-    I["Institutions, other people's money: the split crystallized"]
+    W["Signal attenuated: choice not corrected at its margin"]
+    I["Institutions, other people's money: crystallize the split"]
     T["Agency thins"]
     U --> A
     U -.->|"no longer perceived as one"| R
-    R ==> L1
-    L1 --- L2
-    L2 --> W
+    R ==> S_Split
+    S_Split --> W
     W --> I
     W --> T
     I -.->|"makes the split easier to keep"| R
@@ -118,7 +116,7 @@ flowchart TD
 
 ## 六、 花别人的钱，直到能力耗尽 / 6. Other People's Money Until the Capacity Is Exhausted
 
-人们熟悉的那种经济样式，资源看起来像“别人的钱”一样被花掉，直到底下的能力耗尽，是这一过程的一种可见的表达。花钱的人在不完整的反馈下做决定，剩余的代价由另一些人在另一种框定下经验，最初的决定因此没有在该被纠正的那个边际上得到纠正。集体的低效不是某个集体心智的失败，而是许多个体心智在受损的信号下各自优化所涌现的结果。
+人们熟悉的那种经济样式，资源看起来像“别人的钱”一样被花掉，直到底下的能力耗尽，是这一过程的一种可见的表达。花钱的人在不完整的反馈下做决定，剩余的代价由个人在另一种框定下经验，最初的决定因此没有在该被纠正的那个边际上得到纠正。集体的低效不是某个集体心智的失败，而是许多个体心智在受损的信号下各自优化所涌现的结果。
 
 The familiar economic pattern in which resources appear to be spent as "other people's money" until the underlying capacity is exhausted is one visible expression of this process. The spender decides under incomplete feedback; the residual costs are experienced by individuals under a different frame; the original decision is therefore not corrected at the proper margin. Collective inefficiency is not the failure of a collective mind. It is the emergent result of many individual Minds optimizing under compromised signals.
 
@@ -128,9 +126,9 @@ The familiar economic pattern in which resources appear to be spent as "other pe
 
 ## 七、 能动性随同一个分裂变薄 / 7. Agency Thins with the Same Split
 
-同一个根源，也造成能动性、自我价值、亲历的自由与对命运的掌控感一同流失。当结果不再被登记为自己决策的透明后果，心智就不再经验到自己是它生命的有效作者。效能感下降，责任更容易被外置，能力与尊严的内在来源得不到清晰的反馈。
+同一个根源，也造成能动性、自我价值、亲历的选择自由与对命运的掌控感一同流失。当结果不再被登记为自己决策的透明后果，心智就不再经验到自己是它生命的有效作者。效能感下降，责任更容易被外置，能力与尊严的内在来源得不到清晰的反馈。
 
-The same root produces the parallel losses of agency, self-worth, experienced freedom and felt control over destiny. When outcomes are no longer registered as the transparent consequences of one's own decisions, the Mind ceases to experience itself as the effective author of its life. Efficacy declines, responsibility is more readily externalized, and the internal sources of competence and dignity are starved of clear feedback.
+The same root produces the parallel losses of agency, self-worth, experienced freedom of choice and felt control over destiny. When outcomes are no longer registered as the transparent consequences of one's own decisions, the Mind ceases to experience itself as the effective author of its life. Efficacy declines, responsibility is more readily externalized, and the internal sources of competence and dignity are starved of clear feedback.
 
 ## 八、 一层关系，每一个层面 / 8. One Relation, Every Layer
 

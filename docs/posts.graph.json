@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T20:32:12.027Z",
+    "generated_at": "2026-10-15T20:44:16.661Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -112,7 +112,7 @@
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "097e33c7e6b5",
       "content/posts/looping-and-graphing.md": "062e2dbb437d",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "5350932aaa7c",
-      "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "9f417328851a",
+      "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "753fa98ec858",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "c73e8a2ee891",
@@ -160,7 +160,7 @@
       "content/posts/price-as-utterance-understanding-as-trade.md": "c9662cffea91",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
       "content/posts/public-spending-does-not-create-capital.md": "7314fd47c0df",
-      "content/posts/qian-yin-hou-guo.md": "d2c4a21fd844",
+      "content/posts/qian-yin-hou-guo.md": "4487db2066b0",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "11ef91285e9b",
@@ -183,7 +183,7 @@
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "c36dbacad84b",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
-      "content/posts/sowell-observed-the-surface-problem.md": "37465b2b4af0",
+      "content/posts/sowell-observed-the-surface-problem.md": "dd44148f070e",
       "content/posts/stability-and-excess.md": "ffa61cd205e2",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "909c9d0b7fac",
       "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
@@ -277,8 +277,8 @@
       "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "8a005fc1644a",
       "content/posts/the-irreducible-observer.md": "ad01ade05654",
-      "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "7194a7f1eb5c",
-      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "d176be42e553",
+      "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "247a3d936241",
+      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "05aea2f69ed2",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "895266756ce9",
       "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
@@ -401,10 +401,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b7511073fe2e",
-      "content/book/causality.md": "c084fe26faa0",
+      "content/book/causality.md": "1a145c6e2e12",
       "content/book/consciousness.md": "525b07ca41c4",
       "content/book/economics.md": "3938b54453ed",
-      "content/book/index-of-premises.md": "367466b97f21",
+      "content/book/index-of-premises.md": "ddeb5c2eb044",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "c519a684d389",
       "content/book/life-and-statistics.md": "49a199864e1e",
@@ -3156,7 +3156,7 @@
       "slug": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "path": "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md",
       "title": "路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox",
-      "hash": "9f417328851a",
+      "hash": "753fa98ec858",
       "in_degree": 9,
       "out_degree": 13,
       "links_out": [
@@ -4413,7 +4413,7 @@
       "slug": "qian-yin-hou-guo",
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果",
-      "hash": "d2c4a21fd844",
+      "hash": "4487db2066b0",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
@@ -4930,7 +4930,7 @@
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem",
-      "hash": "37465b2b4af0",
+      "hash": "dd44148f070e",
       "in_degree": 11,
       "out_degree": 10,
       "links_out": [
@@ -7059,8 +7059,8 @@
       "kind": "post",
       "slug": "the-irreducible-prior-of-decision-and-consequence",
       "path": "content/posts/the-irreducible-prior-of-decision-and-consequence.md",
-      "title": "决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence",
-      "hash": "7194a7f1eb5c",
+      "title": "决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence",
+      "hash": "247a3d936241",
       "in_degree": 7,
       "out_degree": 6,
       "links_out": [
@@ -7078,7 +7078,7 @@
       "slug": "the-knowledge-problem-and-the-illusion-of-delegation",
       "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
       "title": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation",
-      "hash": "d176be42e553",
+      "hash": "05aea2f69ed2",
       "in_degree": 10,
       "out_degree": 9,
       "links_out": [
@@ -19954,7 +19954,7 @@
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "to": "the-irreducible-prior-of-decision-and-consequence",
       "rel": "points_to",
-      "label": "决策与后果不可分割的先验"
+      "label": "决策与后果的不可约先验"
     },
     {
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
@@ -24892,7 +24892,7 @@
       "from": "qian-yin-hou-guo",
       "to": "the-irreducible-prior-of-decision-and-consequence",
       "rel": "points_to",
-      "label": "决策与后果不可分割的先验"
+      "label": "决策与后果的不可约先验"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -26602,7 +26602,7 @@
       "from": "sowell-observed-the-surface-problem",
       "to": "the-irreducible-prior-of-decision-and-consequence",
       "rel": "points_to",
-      "label": "决策与后果不可分割的先验"
+      "label": "决策与后果的不可约先验"
     },
     {
       "from": "sowell-observed-the-surface-problem",
@@ -36514,7 +36514,7 @@
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
       "to": "the-irreducible-prior-of-decision-and-consequence",
       "rel": "points_to",
-      "label": "决策与后果不可分割的先验"
+      "label": "决策与后果的不可约先验"
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -48351,7 +48351,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "c084fe26faa0",
+        "hash": "1a145c6e2e12",
         "out_degree": 33
       },
       {
@@ -48378,7 +48378,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "367466b97f21",
+        "hash": "ddeb5c2eb044",
         "out_degree": 393
       },
       {
@@ -48561,7 +48561,7 @@
         "from": "book:causality",
         "to": "the-irreducible-prior-of-decision-and-consequence",
         "rel": "collects",
-        "label": "决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence"
+        "label": "决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence"
       },
       {
         "from": "book:causality",
@@ -51483,7 +51483,7 @@
         "from": "book:index-of-premises",
         "to": "the-irreducible-prior-of-decision-and-consequence",
         "rel": "collects",
-        "label": "决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence"
+        "label": "决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence"
       },
       {
         "from": "book:index-of-premises",
@@ -51849,7 +51849,7 @@
         "from": "book:index-of-premises",
         "to": "the-irreducible-prior-of-decision-and-consequence",
         "rel": "collects",
-        "label": "决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence"
+        "label": "决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence"
       },
       {
         "from": "book:index-of-premises",
@@ -52425,7 +52425,7 @@
         "from": "book:index-of-premises",
         "to": "the-irreducible-prior-of-decision-and-consequence",
         "rel": "collects",
-        "label": "决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence"
+        "label": "决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence"
       },
       {
         "from": "book:index-of-premises",

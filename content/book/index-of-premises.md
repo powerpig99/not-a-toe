@@ -2996,7 +2996,7 @@ Presumes institutional metrics measure genuine understanding; useful for credent
 
 Institutions placing decision rights at a distance from residual consequences are taken as the root cause, which is of use in showing how incentives misalign; it reaches its boundary in that institutions only crystallize the fragmented interpretations already operating in individual Minds, without creating them.
 
-→ [决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
+→ [决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
 
 ### 体制化善意 / Institutionalized Compassion
 `哲学 / Philosophical`
@@ -3518,7 +3518,7 @@ Seeking an objective meaning assumes meaning is a discovered treasure outside aw
 
 Treating misalignment as an objective break is of use in pointing to consequences that can be checked in common; it reaches its boundary in that it presumes a standing apart from perception, while every judgment of alignment is constituted in some Mind's experience, and the objective is only what stays invariant across different cognitions.
 
-→ [决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
+→ [决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
 
 ### 对象是被稳定化的关系 / Objects as Stabilized Relationships
 `哲学 / Philosophical`
@@ -4310,7 +4310,7 @@ Standard physics treats the speed of light merely as an arbitrary physical veloc
 
 "Spending other people's money" is of use in explaining why resources are drawn down until capacity is exhausted; it reaches its boundary in that it is easily read as the failure of a collective mind, while collective inefficiency comes from individual Minds deciding under split ledgers, with costs arriving under another description.
 
-→ [决策与后果不可分割的先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
+→ [决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
 
 ### 国家保护权利 / State Protection of Rights
 `意识形态 / Ideological`
