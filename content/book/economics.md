@@ -29,7 +29,7 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 - [The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
 - [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/)
 - [The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
-- [The Paradox of Fundamentals is the Unaware Switch of Reference in Decision Making](../../posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/)
+- [基本面的悖论是参照的不自觉切换 / The Paradox of Fundamentals Is the Unaware Switch of Reference](../../posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/)
 - [没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)
 - [理性从不跨越心智 / Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
 - [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/)

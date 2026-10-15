@@ -3073,11 +3073,11 @@ Investigating things to reach knowledge, exhausting the principle by going to th
 ### 投资基本面 / Investment Fundamentals
 `经济 / Economic`
 
-掌握基本面被假定会使其主导决策；在负荷之下它们退出当前注意范围，被当作既定前提，知识仍在，却不再是实际运作的参照。
+掌握基本面被假定会使它们主导决策，在回顾与教学中整理一套可用的区分时有用；它在此到了边界：在负荷之下，它们退出正在做决定的范围，被当作给定，知识仍在，却不再是正在起作用的参照。
 
-Knowing fundamentals is assumed to make them govern decisions; under load they drop out of the active span and function as given, so knowledge remains present while not operating.
+Knowing the fundamentals is assumed to make them govern decisions, which is of use in reviewing and teaching a body of available distinctions; it reaches its boundary in that under load they drop out of the span that is deciding and function as given, so the knowledge remains present while no longer being the reference that operates.
 
-→ [The Paradox of Fundamentals is the Unaware Switch of Reference in Decision Making](../../posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/)
+→ [基本面的悖论是参照的不自觉切换 / The Paradox of Fundamentals Is the Unaware Switch of Reference](../../posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/)
 
 ### 因果的不可还原双重性 / Irreducible Duality of Causality
 `哲学 / Philosophical`
