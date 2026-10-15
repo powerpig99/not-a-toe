@@ -1230,7 +1230,7 @@ The theorem proves uniform algorithm parity over all mathematically possible fun
 
 The normal distribution is of use in describing how many discrete decisions gather near the mean over a short window; it reaches its boundary in that it is the statistical appearance free choices leave after the fact, reflecting uneven signal-extraction capacity across Minds, with no causal binding force on any individual's choice now, and read as evidence of no real differences or of intrinsic randomness, it hides what multiplication will magnify.
 
-→ [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [从“目的性”的评判，看认知系统的缺省状态与动态跃迁 / Seeing the Default State and Dynamic Leaps of Cognition Through Judgments of Purpose](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) · [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)
+→ [Power Law Distribution is the Long Term Consequence of Normal Distribution in Decision Making](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) · [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)
 
 ### 观察性行为学 / Observational Behavioral Science
 `科学 / Scientific`
@@ -1988,7 +1988,7 @@ Every formal theory first makes a primary cut that severs a domain from its caus
 
 Explaining defensive labelling as the brain saving energy is of use in describing why low-resistance reactions are common; it reaches its boundary in that it moves the cause into biology, while even external attribution is a choice, the choice to treat the surroundings as the cause of one's own reaction.
 
-→ [从“目的性”的评判，看认知系统的缺省状态与动态跃迁 / Seeing the Default State and Dynamic Leaps of Cognition Through Judgments of Purpose](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)
+→ [目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)
 
 ### 佛教僧团 / Buddhist Sangha
 `宗教 / Religious`
@@ -4814,7 +4814,7 @@ Techno-economic models price cognitive labor by processed tokens; machine tokens
 
 Accusing the other of being "too goal-driven" credits the friction to the other's character, which is of use in naming discomfort in an interaction; it reaches its boundary in that it is an external attribution, an active choice to set the other as the cause of one's own emotions and decisions that hands over the right to explain, while looking inward at one's own wants is another free choice equally open.
 
-→ [从“目的性”的评判，看认知系统的缺省状态与动态跃迁 / Seeing the Default State and Dynamic Leaps of Cognition Through Judgments of Purpose](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)
+→ [目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)
 
 ### 磨刀工具陷阱 / Tool-Sharpening Trap
 `成功学 / Self-Help`

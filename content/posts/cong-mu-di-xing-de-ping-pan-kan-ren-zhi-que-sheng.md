@@ -1,4 +1,4 @@
-# 从“目的性”的评判，看认知系统的缺省状态与动态跃迁 / Seeing the Default State and Dynamic Leaps of Cognition Through Judgments of Purpose
+# 目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition
 
 *正态分布是自由选择的统计沉淀，外部归因也是自由交出解释权的选择 / The normal distribution is the sediment of free choices; even external attribution freely hands over the right to explain.*
 
