@@ -2866,11 +2866,11 @@ Becoming the person first presumes identity precedes action; the stable identity
 ### 意识形态 / Ideology
 `意识形态 / Ideological`
 
-意识形态，包括主张个人自由的那些，一旦信条成为教条就硬化为集体遏制，压低个体心智面对开放前沿的频率。
+意识形态把一套共享信条立为群体凝聚的所在，在协调众人的行动、给共同生活一套可读的语言时有用；它在此到了边界：信条一旦硬化为教条，越出常规的能力被归为异端，群体以凝聚之名压低个体心智面对开放前沿的频率，主张个人自由的信条也不例外。
 
-Ideologies, including those of individual liberty, harden into collective containment when tenets become dogma, suppressing the frequency with which individual minds engage the open frontier.
+Ideology sets a shared creed as the seat of a group's cohesion, which is of use in coordinating the action of many and giving common life a readable language; it reaches its boundary in that once the creed hardens into dogma, outlier capacity is classed as heresy and the group, in cohesion's name, lowers the frequency with which individual Minds meet the open frontier, creeds of individual liberty included.
 
-→ [One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/)
+→ [潜能作为威胁或启发 / One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/)
 
 ### 不可度量的复利积累 / Illegible Compounding
 `哲学 / Philosophical`
@@ -5012,7 +5012,7 @@ A zero-knowledge proof establishes truth without revealing the witness; the form
 
 The closed-reality premise treats resources, status and possibility as a fixed pool, which is of use in dividing a stock that really is finite; it reaches its boundary in that net value is generated only under the open premise, zero-sum mechanisms are themselves negative-sum, and they endure on the surplus the same people produce in their open moments.
 
-→ [One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/)
+→ [潜能作为威胁或启发 / One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/)
 
 ### 梵我一如（奥义书） / Ātman–Brahman Identity (Upanishads)
 `宗教 / Religious`

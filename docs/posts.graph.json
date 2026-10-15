@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T08:41:26.091Z",
+    "generated_at": "2026-10-15T08:57:18.875Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -138,7 +138,7 @@
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b354e525a5d3",
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "cb7f119c5157",
-      "content/posts/ones-potential-as-threat-or-inspiration.md": "158cff173f93",
+      "content/posts/ones-potential-as-threat-or-inspiration.md": "9f63db2c2dfd",
       "content/posts/only-if-it-is-not-kept-empty.md": "3d9516da5576",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "8f21d6cadeb2",
       "content/book/consciousness.md": "b829238e63a6",
       "content/book/economics.md": "5e4b3a021dc3",
-      "content/book/index-of-premises.md": "ab3e3c5f6b5c",
+      "content/book/index-of-premises.md": "331741b072c7",
       "content/book/intelligence.md": "5c06fbf5cc01",
       "content/book/knowledge-and-learning.md": "6b583c403b35",
       "content/book/life-and-statistics.md": "a34ffa8fedf3",
@@ -414,13 +414,13 @@
       "content/book/morality.md": "379c67fbc0c1",
       "content/book/physics.md": "1f011286f992",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "32d9ad39bfa4",
+      "content/book/state-and-collective.md": "bc36cf6046e0",
       "content/book/success-and-the-self.md": "59aa878b03ef",
       "content/book/tools-and-progress.md": "6332c19d82da"
     },
     "stats": {
       "posts": 393,
-      "edges": 6171,
+      "edges": 6176,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -3767,16 +3767,16 @@
       "kind": "post",
       "slug": "ones-potential-as-threat-or-inspiration",
       "path": "content/posts/ones-potential-as-threat-or-inspiration.md",
-      "title": "One’s Potential as Threat or Inspiration",
-      "hash": "158cff173f93",
+      "title": "潜能作为威胁或启发 / One’s Potential as Threat or Inspiration",
+      "hash": "9f63db2c2dfd",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "hierarchy-from-individual-difference",
         "the-average-is-residue-not-the-engine",
+        "moral-language-as-projection",
         "restriction-is-a-selective-tax",
-        "individual-choices-as-the-only-causal-levers",
-        "moral-language-as-projection"
+        "individual-choices-as-the-only-causal-levers"
       ]
     },
     {
@@ -21778,13 +21778,43 @@
       "from": "ones-potential-as-threat-or-inspiration",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
       "label": "Hierarchy from individual difference"
     },
     {
       "from": "ones-potential-as-threat-or-inspiration",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
+      "label": "平均值是痕迹，不是引擎"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
       "label": "The average is residue, not the engine"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "道德语言作为投影"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "Moral Language as Projection"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "限制是选择性的税"
     },
     {
       "from": "ones-potential-as-threat-or-inspiration",
@@ -21796,13 +21826,13 @@
       "from": "ones-potential-as-threat-or-inspiration",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "ones-potential-as-threat-or-inspiration",
-      "to": "moral-language-as-projection",
+      "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Moral Language as Projection"
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
@@ -46926,7 +46956,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ab3e3c5f6b5c",
+        "hash": "331741b072c7",
         "out_degree": 393
       },
       {
@@ -47016,7 +47046,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "32d9ad39bfa4",
+        "hash": "bc36cf6046e0",
         "out_degree": 30
       },
       {
@@ -49941,7 +49971,7 @@
         "from": "book:index-of-premises",
         "to": "ones-potential-as-threat-or-inspiration",
         "rel": "collects",
-        "label": "One’s Potential as Threat or Inspiration"
+        "label": "潜能作为威胁或启发 / One’s Potential as Threat or Inspiration"
       },
       {
         "from": "book:index-of-premises",
@@ -51465,7 +51495,7 @@
         "from": "book:index-of-premises",
         "to": "ones-potential-as-threat-or-inspiration",
         "rel": "collects",
-        "label": "One’s Potential as Threat or Inspiration"
+        "label": "潜能作为威胁或启发 / One’s Potential as Threat or Inspiration"
       },
       {
         "from": "book:index-of-premises",
@@ -52941,7 +52971,7 @@
         "from": "book:state-and-collective",
         "to": "ones-potential-as-threat-or-inspiration",
         "rel": "collects",
-        "label": "One’s Potential as Threat or Inspiration"
+        "label": "潜能作为威胁或启发 / One’s Potential as Threat or Inspiration"
       },
       {
         "from": "book:state-and-collective",

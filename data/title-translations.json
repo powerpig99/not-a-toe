@@ -401,10 +401,6 @@
       "title_zh": "减速是加速时感受到的阻力",
       "subtitle_zh": "减速不是一股与进步对抗的独立力量，而是速度带来的反作用阻力，只在被当作敌人对抗时才稳定下来。"
     },
-    "ones-potential-as-threat-or-inspiration": {
-      "title_zh": "潜能作为威胁或启发",
-      "subtitle_zh": "在封闭的前提下，他人的上升被登记为减法；进步取决于心智多频繁地选择把潜能当作地平线的扩展。"
-    },
     "order-surplus-and-the-moral-intercept": {
       "title_zh": "秩序、剩余与道德拦截",
       "subtitle_zh": "拦截是一种道德语言，它把因果力量移到一个从生产到消费早已运转的回路的后一端。"
@@ -412,6 +408,10 @@
     "not-predicting-is-predicting-without-awareness": {
       "title_zh": "不预测是没有觉察的预测",
       "subtitle_zh": "拒绝预测仍是一次预测；落下的只是对选择仍在继续的觉察。"
+    },
+    "restriction-is-a-selective-tax": {
+      "title_zh": "限制是选择性的税",
+      "subtitle_zh": "对他人前进的压制，只拖慢接受它的人，而最重的是执行它的人：他们是这道封印最坚定的信徒。"
     }
   }
 }
