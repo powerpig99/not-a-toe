@@ -29,7 +29,7 @@ These essays dissect victimhood scripts, suicidal empathy inversions, and the ab
 - [The Source of All Harm](../../posts/the-source-of-all-harm/)
 - [Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/)
 - [The Initial Distinction, where the rationalism attempted to and failed to escape irrationality](../../posts/the-initial-distinction/)
-- [恶是封闭的善，是善的教条化](../../posts/e-shi-feng-bi-de-shan/)
+- [恶是封闭的善 / Evil Is Closed Good](../../posts/e-shi-feng-bi-de-shan/)
 - [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/)
 - [止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition](../../posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)
 - [阳台视角的规训僭越与不可代理的未竟之行 / The Balcony Disciplinary Overstep and the Unproxyable Act](../../posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act/)

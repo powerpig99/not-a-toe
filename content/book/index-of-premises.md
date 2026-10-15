@@ -164,11 +164,11 @@ Wegner's ironic process theory revealed that intentional mental control operates
 ### 达里奥·阿莫迪 / Dario Amodei
 `技术 / Technological`
 
-阿莫迪的十倍加速在已知疾病清单上成立；把开放的疾病集合当作有限清单，能力乐观便转为价值必然，不再把异议登记为信息。
+阿莫迪的十倍加速在一份已知疾病清单上成立，在设想加快已命名疾病的攻克时有用；它在此到了边界：它把仍在生成的疾病集合当作有限清单，能力乐观便转成价值的必然，异议不再登记为信息。
 
-Amodei's ten-fold acceleration holds for a known disease list; treating the open set of diseases as finite turns capability optimism into value certainty that stops registering dissent as information.
+Amodei's ten-fold acceleration holds for a list of known diseases, which is of use in imagining faster conquest of diseases already named; it reaches its boundary in that it treats the still-generating set of diseases as a finite list, so capability optimism turns into value necessity and dissent stops registering as information.
 
-→ [恶是封闭的善，是善的教条化](../../posts/e-shi-feng-bi-de-shan/)
+→ [恶是封闭的善 / Evil Is Closed Good](../../posts/e-shi-feng-bi-de-shan/)
 
 ### 大卫·查尔默斯 / David Chalmers
 `哲学 / Philosophical`
@@ -1732,11 +1732,11 @@ The debate presumes investment level is an external fact; the same flow reads as
 ### AI 攻克绝大多数人类疾病 / AI Conquering Most Human Diseases
 `技术 / Technological`
 
-该主张预设疾病是等待被覆盖的有限清单；每一次推进都照亮新的区分，清单被改写的速度与能力增长同步。
+该主张预设疾病是一份等着被覆盖的有限清单，在为已知疾病的研究定方向时有用；它在此到了边界：每一次推进都照亮新的区分，清单随能力增长而被重写，“绝大多数”无从关闭。
 
-The claim presumes diseases form a finite inventory awaiting coverage; each advance discloses new distinctions, so the list is rewritten as fast as capability grows.
+The claim presumes diseases form a finite list awaiting coverage, which is of use in directing research on known diseases; it reaches its boundary in that each advance lights up new distinctions, so the list is rewritten as capability grows and "most" can never be closed.
 
-→ [恶是封闭的善，是善的教条化](../../posts/e-shi-feng-bi-de-shan/)
+→ [恶是封闭的善 / Evil Is Closed Good](../../posts/e-shi-feng-bi-de-shan/)
 
 ### AI幻觉作为随机跳跃 / AI Hallucination as Stochastic Jump
 `技术 / Technological`
@@ -2794,11 +2794,11 @@ Optimization assumes a complete loss function captures real-world success; forma
 ### 善作为完成的坐标（道德教条） / Good as a Completed Coordinate (Moral Dogmatism)
 `哲学 / Philosophical`
 
-把自己的善当成已完成的坐标，就把它豁免于再检验；善是持续区分中的临时对齐，它的封闭正是本文所说的恶。
+把自己的善当成已完成的坐标，在需要果断行动时有用；它在此到了边界：它把善豁免于再检验，而善是持续区分中的临时对齐，这种封闭就是恶。
 
-Holding one's good as finished exempts it from re-examination; good is temporary alignment within ongoing distinction, and its closure is what the post names evil.
+Holding one's own good as a completed coordinate is of use where action must be decisive; it reaches its boundary in that it exempts good from re-examination, while good is a temporary alignment within ongoing distinction, and this closure is evil.
 
-→ [恶是封闭的善，是善的教条化](../../posts/e-shi-feng-bi-de-shan/)
+→ [恶是封闭的善 / Evil Is Closed Good](../../posts/e-shi-feng-bi-de-shan/)
 
 ### AI基准测试中的古德哈特定律 / Goodhart's Law in AI Benchmarks
 `技术 / Technological`
@@ -3793,11 +3793,11 @@ Presumes power aggregates through inherent superiority; valid for modeling centr
 ### AI 预部署审批机制 / Pre-Deployment Licensing for AI (AI FDA)
 `技术 / Technological`
 
-类似 FDA 的审批闸门假定当前威胁模型界定了开放过程能产生的东西；它把监管者的坐标视为完成，并把能力决定集中到少数人手中。
+类似 FDA 的审批闸门预设当前的威胁模型界定了开放过程能产生的东西，在为已识别的风险设置检查时有用；它在此到了边界：它把监管者的坐标当作完成，并把能力的决定集中到少数人手中。
 
-An FDA-style gate assumes present threat models bound what open processes can produce; it treats the regulator's coordinate as complete and concentrates capability decisions in few hands.
+An FDA-style licensing gate presumes present threat models bound what open processes can produce, which is of use in setting checks on risks already identified; it reaches its boundary in that it treats the regulator's coordinate as complete and concentrates decisions over capability in a few hands.
 
-→ [恶是封闭的善，是善的教条化](../../posts/e-shi-feng-bi-de-shan/)
+→ [恶是封闭的善 / Evil Is Closed Good](../../posts/e-shi-feng-bi-de-shan/)
 
 ### 预测模型作为历史残差 / Predictive Model as Residue
 `技术 / Technological`
