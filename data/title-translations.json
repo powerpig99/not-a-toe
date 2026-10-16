@@ -196,10 +196,6 @@
       "title_zh": "没有系统能被保持封闭",
       "subtitle_zh": "不完备最直观的一面是一位寄存器上的加法：运算在所持的范围内成立，而真的结果落在范围之外。"
     },
-    "consciousness-never-appears-as-data-among-data": {
-      "title_zh": "意识从不作为数据出现在数据之中",
-      "subtitle_zh": "客观的测量只持有公共的结果；登记这些结果的活动，始终比任何想要捕捉它的数据早一步。"
-    },
     "looping-and-graphing": {
       "title_zh": "回环与成图",
       "subtitle_zh": "回环是心智折回自身的活动；图是这次折叠留给下一次折叠的痕迹。"
@@ -447,6 +443,14 @@
     "you-cant-benchmark-the-fluid": {
       "title_zh": "流动之物无法被基准衡量",
       "subtitle_zh": "肖莱设计 ARC 来衡量流体智能，它的矛盾不在技术，而在结构。"
+    },
+    "the-hard-problem-of-consciousness-is-consistent-with-learning": {
+      "title_zh": "意识的难题与学习的能力相容",
+      "subtitle_zh": "让意识的难题显得难的那份剩余的开放，正是学习得以继续的同一份开放；它既不是等着被删除的二元实体之误，也不是排定了最终闭合的谜题。"
+    },
+    "the-real-lesson-from-the-consciousness-vector-paper": {
+      "title_zh": "意识向量论文的真正教训",
+      "subtitle_zh": "激活空间里一个可控的方向，不是意识的得失；它是一个开放之场被强行塞进封闭握持时出现的、可测的扭曲。"
     }
   }
 }

@@ -190,7 +190,7 @@ flowchart TD
     Erased -.->|"stating it relies on the erased seat"| Observer
 ```
 
-这并不是又一次关于“遗漏了感质”的抱怨，而是同一个“主体先行”之失败的后果。在[不可还原的观察者](../the-irreducible-observer/)中已经确立，构建一套观察者隐去之理论的心智，无法把自身从这一减法中扣除；[意识从不作为数据中的一项出现](../consciousness-never-appears-as-data-among-data/)则说明，登记数据的那个活动，始终比任何试图捕获它的数据领先一步。功能主义把这一结构推到了极致：它不是在物理方程中隐去观察者，而是在关于观察者的理论中隐去观察者，于是隐去者与被隐去者是同一位。
+这并不是又一次关于“遗漏了感质”的抱怨，而是同一个“主体先行”之失败的后果。在[不可还原的观察者](../the-irreducible-observer/)中已经确立，构建一套观察者隐去之理论的心智，无法把自身从这一减法中扣除；[意识从不作为数据出现在数据之中](../consciousness-never-appears-as-data-among-data/)则说明，登记数据的那个活动，始终比任何试图捕获它的数据领先一步。功能主义把这一结构推到了极致：它不是在物理方程中隐去观察者，而是在关于观察者的理论中隐去观察者，于是隐去者与被隐去者是同一位。
 
 This is not an added complaint about missing qualia; it is a consequence of the same subject-first failure. [The Irreducible Observer](../the-irreducible-observer/) established that the mind constructing a theory from which the observer drops out cannot subtract itself from the subtraction; [Consciousness Never Appears as Data Among Data](../consciousness-never-appears-as-data-among-data/) showed that the activity registering data remains one step ahead of every datum that would capture it. Functionalism pushes this structure to its limit: it does not bracket the observer inside physical equations, it brackets the observer inside a theory of the observer, so that the one who erases and the one erased are the same.
 

@@ -2236,11 +2236,11 @@ Reifying awareness assumes mind is an asset that can be hoarded, preserved, or c
 ### 意识不能作为数据显现 / Consciousness Beyond Public Data
 `哲学 / Philosophical`
 
-经验物理主义妄想在仪器中截获作为一个客观变量的意识；心智实则是诠释所有读数的前置觉知主体，永不可能变为客观数据本身。
+经验物理主义预设意识能作为仪器中一个可观察的变量出现，在把必要条件与相关物描绘得越来越精细时有用；它在此到了边界：数据是结果，诠释一切读数的注视本身就是被研究的活动，相关物不会变成它所作为条件的那个私人登记。
 
-Empirical physicalism expects consciousness to appear as an observable variable in an instrument; mind is the prior observing awareness that interprets all data.
+Empirical physicalism presumes consciousness can appear as an observable variable in an instrument, which is of use in mapping necessary conditions and correlates ever more finely; it reaches its boundary in that data are effects and the look interpreting every reading is the activity under study, so a correlate does not become the private registration it conditions.
 
-→ [Consciousness Never Appears as Data Among Data](../../posts/consciousness-never-appears-as-data-among-data/)
+→ [意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data](../../posts/consciousness-never-appears-as-data-among-data/)
 
 ### 共识决定现实裁决 / Consensus Reality Arbitration
 `哲学 / Philosophical`
