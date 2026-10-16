@@ -389,11 +389,11 @@ Von Neumann's case for a nuclear first strike followed rigorously from the model
 ### 卡尔·波普尔 / Karl Popper
 `哲学 / Philosophical`
 
-波普尔关于苦乐不对称的论述以“我相信”开头，并承认这并非理性论证所能裁决；后续批判方法运行在这一刀切开的场地内，无法为它作证。
+波普尔关于苦乐不对称的论述以“我相信”开头，并承认这一点不能完全由理性论证裁决，在为公共政策提出更谦逊的目标时有用；它在此到了边界：后续的批判方法运行在这一刀切开的场域之内，无法为它作证。
 
-Popper's asymmetry of suffering and happiness opens with 'I believe' and admits it is not rationally decidable; later critical method operates inside that founding cut and cannot certify it.
+Popper’s asymmetry of suffering and happiness opens with ‘I believe’ and admits the point is not completely decidable by rational argument, which is of use in proposing a more modest aim for public policy; it reaches its boundary in that later critical method operates inside the field that founding cut opened and cannot certify it.
 
-→ [The Initial Distinction, where the rationalism attempted to and failed to escape irrationality](../../posts/the-initial-distinction/) · [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
+→ [最初的区分 / The Initial Distinction](../../posts/the-initial-distinction/) · [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
 
 ### 卡尔·魏尔施特拉斯 / Karl Weierstrass
 `数学 / Mathematical`
@@ -785,11 +785,11 @@ Presumes spacetime is an eternal four-dimensional block where past, present, and
 ### 古典功利主义 / Classical Utilitarianism
 `哲学 / Philosophical`
 
-最大幸福原则把幸福当作可跨人加总的量；波普尔的修正保留了同一外部供给前提，只是调换了计入的一方。
+最大幸福原则把幸福当作可以跨人加总的量，在比较政策的总体后果时有用；它在此到了边界：波普尔的修正保留了同一个外部供给的前提，只是调换了计入的一方。
 
-The greatest happiness principle treats happiness as an addable quantity across persons; Popper's correction keeps the same external-supply premise and only reverses which side counts.
+The greatest happiness principle treats happiness as a quantity addable across persons, which is of use in comparing the overall consequences of policies; it reaches its boundary in that Popper’s correction keeps the same premise of external supply and only reverses which side counts.
 
-→ [The Initial Distinction, where the rationalism attempted to and failed to escape irrationality](../../posts/the-initial-distinction/)
+→ [最初的区分 / The Initial Distinction](../../posts/the-initial-distinction/)
 
 ### 集体无意识 / Collective Unconscious
 `哲学 / Philosophical`
@@ -821,11 +821,11 @@ Constitutional AI presumes ethics can be operationalized via declarative princip
 ### 批判理性主义 / Critical Rationalism
 `哲学 / Philosophical`
 
-批判性排除能抛弃从某一区分推出的东西，却无法消解使排除成为可能的那个区分；理性始于先于理性的一刀，那一刀是它的条件。
+批判性排除能抛弃从某个区分推出的东西，在区分之内检验后果、排除不一致时有用；它在此到了边界：它消解不了使排除成为可能的那个区分，理性始于先于理性的一刀，那一刀是它的条件。
 
-Critical elimination can discard what follows from a distinction but cannot dissolve the distinction that made elimination possible; rationality begins from a pre-rational cut that conditions it.
+Critical elimination can discard what follows from a distinction, which is of use in testing consequences and removing inconsistencies inside that distinction; it reaches its boundary in that it cannot dissolve the distinction that made elimination possible, since rationality begins from a pre-rational cut that conditions it.
 
-→ [The Initial Distinction, where the rationalism attempted to and failed to escape irrationality](../../posts/the-initial-distinction/)
+→ [最初的区分 / The Initial Distinction](../../posts/the-initial-distinction/)
 
 ### 多巴胺驱动目的论 / Dopamine-Driven Teleology
 `科学 / Scientific`
@@ -1199,11 +1199,11 @@ Naive realism assumes observers share an unmediated scene, which is of use as th
 ### 消极功利主义（最小化可避免的苦难） / Negative Utilitarianism (Minimizing Avoidable Suffering)
 `哲学 / Philosophical`
 
-最小化可避免的苦难，把苦难当作可由外部力量减去的对象，把原因移离登记它的中心；作为政策启发可用，却会再生它所针对的落差。
+最小化可避免的苦难，把苦难当作可以由外部力量减去的对象，作为政策启发时有用；它在此到了边界：它把原因挪离登记苦难的那个中心，于是不断再生它所针对的落差。
 
-Minimizing avoidable suffering treats suffering as an object external agency can subtract, relocating cause away from the registering center; useful as policy heuristic, it regenerates the gap it targets.
+Minimizing avoidable suffering treats suffering as an object external agency can subtract, which is of use as a policy heuristic; it reaches its boundary in that it relocates cause away from the center that registers the suffering, and so keeps regenerating the gap it targets.
 
-→ [The Initial Distinction, where the rationalism attempted to and failed to escape irrationality](../../posts/the-initial-distinction/)
+→ [最初的区分 / The Initial Distinction](../../posts/the-initial-distinction/)
 
 ### 神经网络缩放定律 / Neural Scaling Laws
 `技术 / Technological`

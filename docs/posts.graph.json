@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T07:31:22.139Z",
+    "generated_at": "2026-10-16T07:35:24.267Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -115,7 +115,7 @@
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "753fa98ec858",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "e3a20ad95bec",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "805360c5ec04",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "f66ee1fcea73",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
@@ -214,7 +214,7 @@
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "633ffdcca70d",
       "content/posts/the-closed-n-and-the-open-reality.md": "cdca9be1b6fb",
-      "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "d71141c2c581",
+      "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "f1fdf0129bf6",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-comment-is-not-the-code.md": "1ee31f526434",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
@@ -267,7 +267,7 @@
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "d7384a29a960",
       "content/posts/the-illusion-of-the-unmediated.md": "e034e7dc306c",
       "content/posts/the-imagining-of-ai-risk.md": "334e5e33e5bb",
-      "content/posts/the-initial-distinction.md": "7c80516b01e2",
+      "content/posts/the-initial-distinction.md": "1a9601608ff8",
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "305d17fa1783",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "47a6ffb6ae17",
@@ -404,14 +404,14 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "525b07ca41c4",
       "content/book/economics.md": "f3eee272aa42",
-      "content/book/index-of-premises.md": "4c91fb29c5e0",
+      "content/book/index-of-premises.md": "2f35e4b02e0a",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "49a199864e1e",
       "content/book/mathematics.md": "8bb7852e7439",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "d52dd5b06929",
-      "content/book/morality.md": "7228ede8f51f",
+      "content/book/morality.md": "3bd75443a1f7",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "edc135bd85be",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6456,
+      "edges": 6461,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -3215,7 +3215,7 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "e3a20ad95bec",
+      "hash": "805360c5ec04",
       "in_degree": 43,
       "out_degree": 43,
       "links_out": [
@@ -5719,7 +5719,7 @@
       "slug": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "path": "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md",
       "title": "善恶硬币与通往地狱的善意之路 / The Coin of Good and Evil and the Road to Hell",
-      "hash": "d71141c2c581",
+      "hash": "f1fdf0129bf6",
       "in_degree": 7,
       "out_degree": 6,
       "links_out": [
@@ -6863,8 +6863,8 @@
       "kind": "post",
       "slug": "the-initial-distinction",
       "path": "content/posts/the-initial-distinction.md",
-      "title": "The Initial Distinction, where the rationalism attempted to and failed to escape irrationality",
-      "hash": "7c80516b01e2",
+      "title": "最初的区分 / The Initial Distinction",
+      "hash": "1a9601608ff8",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -20422,7 +20422,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
-      "label": "善恶是硬币的两面与那一记切口"
+      "label": "善恶是硬币的两面与那一刀"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -30316,7 +30316,7 @@
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
-      "label": "善与恶是硬币的两面与切割"
+      "label": "善恶是硬币的两面与那一刀"
     },
     {
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
@@ -35740,13 +35740,31 @@
       "from": "the-initial-distinction",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
-      "label": "Good and evil are the two sides of the coin and the cut"
+      "label": "善恶是硬币的两面与那一刀"
+    },
+    {
+      "from": "the-initial-distinction",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
     },
     {
       "from": "the-initial-distinction",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
+    },
+    {
+      "from": "the-initial-distinction",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "读《中文哲学简史》有感"
+    },
+    {
+      "from": "the-initial-distinction",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
     },
     {
       "from": "the-initial-distinction",
@@ -35758,13 +35776,25 @@
       "from": "the-initial-distinction",
       "to": "help-is-half-the-problem",
       "rel": "points_to",
-      "label": "Help is half the problem"
+      "label": "帮助是问题的一半"
+    },
+    {
+      "from": "the-initial-distinction",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help Is Half the Problem"
     },
     {
       "from": "the-initial-distinction",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-initial-distinction",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
@@ -48636,7 +48666,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "4c91fb29c5e0",
+        "hash": "2f35e4b02e0a",
         "out_degree": 393
       },
       {
@@ -48699,7 +48729,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "7228ede8f51f",
+        "hash": "3bd75443a1f7",
         "out_degree": 28
       },
       {
@@ -49677,7 +49707,7 @@
         "from": "book:index-of-premises",
         "to": "the-initial-distinction",
         "rel": "collects",
-        "label": "The Initial Distinction, where the rationalism attempted to and failed to escape irrationality"
+        "label": "最初的区分 / The Initial Distinction"
       },
       {
         "from": "book:index-of-premises",
@@ -50019,7 +50049,7 @@
         "from": "book:index-of-premises",
         "to": "the-initial-distinction",
         "rel": "collects",
-        "label": "The Initial Distinction, where the rationalism attempted to and failed to escape irrationality"
+        "label": "最初的区分 / The Initial Distinction"
       },
       {
         "from": "book:index-of-premises",
@@ -50043,7 +50073,7 @@
         "from": "book:index-of-premises",
         "to": "the-initial-distinction",
         "rel": "collects",
-        "label": "The Initial Distinction, where the rationalism attempted to and failed to escape irrationality"
+        "label": "最初的区分 / The Initial Distinction"
       },
       {
         "from": "book:index-of-premises",
@@ -50379,7 +50409,7 @@
         "from": "book:index-of-premises",
         "to": "the-initial-distinction",
         "rel": "collects",
-        "label": "The Initial Distinction, where the rationalism attempted to and failed to escape irrationality"
+        "label": "最初的区分 / The Initial Distinction"
       },
       {
         "from": "book:index-of-premises",
@@ -54309,7 +54339,7 @@
         "from": "book:morality",
         "to": "the-initial-distinction",
         "rel": "collects",
-        "label": "The Initial Distinction, where the rationalism attempted to and failed to escape irrationality"
+        "label": "最初的区分 / The Initial Distinction"
       },
       {
         "from": "book:morality",
