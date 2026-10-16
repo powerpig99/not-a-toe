@@ -31,7 +31,7 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 - [The Belief in Utopia Is the Path to Dystopia](../../posts/the-belief-in-utopia-is-the-path-to-dystopia/)
 - [Liberation Rhetoric Begins by Defining Captivity](../../posts/liberation-rhetoric-begins-by-defining-captivity/)
 - [Residual Individualism: The Only Operative Variable in the Affairs of Human Societies](../../posts/residual-individualism/)
-- [Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
+- [政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
 - [能动性的错配 / The Misallocation of Agency](../../posts/the-misallocation-of-agency/)
 - [潜能作为威胁或启发 / One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/)
 - [个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself](../../posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao/)

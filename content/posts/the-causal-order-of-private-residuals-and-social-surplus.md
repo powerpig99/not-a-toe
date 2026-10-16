@@ -102,7 +102,7 @@ The destructive leverage of such intervention is dictated by the forty-five-to-o
 
 ## 四、 相对度量的统计表征与留存消费的不对称 / 4. The Statistical Symptom of Relative Measurement and the Retention-Consumption Asymmetry
 
-指责少数富豪垄断技术成果的政治言说，之所以经久不衰并能持续动员选民热情，是因为它精准契合了人脑对于可见存量的直觉占有欲。在选举政治的博弈场上，将复杂的系统动态折叠为一个关于贪婪与正义的简单故事，能够极具效率地凝结政治支持并巩固个人的权力声望。正如在[政客作为责任扩散的可见表征](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)中所分析的，政客的表态本身是对大众群体心理的回应，其激励结构悉数系于选票与叙事共振，而非项目在经济现实中的存活概率。
+指责少数富豪垄断技术成果的政治言说，之所以经久不衰并能持续动员选民热情，是因为它精准契合了人脑对于可见存量的直觉占有欲。在选举政治的博弈场上，将复杂的系统动态折叠为一个关于贪婪与正义的简单故事，能够极具效率地凝结政治支持并巩固个人的权力声望。正如在[政客是责任扩散的显性症状](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)中所分析的，政客的表态本身是对大众群体心理的回应，其激励结构悉数系于选票与叙事共振，而非项目在经济现实中的存活概率。
 
 Political rhetoric indicting a handful of wealthy founders for monopolizing technological fruit endures because it resonates effortlessly with intuitive human perceptions of visible physical stocks. In the arena of electoral competition, condensing intricate dynamic systems into a binary morality play of greed versus justice efficiently secures public loyalty and bolsters political status. As analyzed in [Politicians Appear as Visible Symptoms of Responsibility Diffusion](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/), rhetorical grandstanding is itself a visible symptom of collective psychological diffusion; its operational incentive lies in ballot capture, not in the survival probability of risky capital ventures in reality.
 

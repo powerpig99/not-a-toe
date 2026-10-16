@@ -101,11 +101,11 @@ Riemann revolutionized differential geometry and analytic number theory; his geo
 ### 伯尼·桑德斯 / Bernie Sanders
 `意识形态 / Ideological`
 
-桑德斯将科技富豪的巨额账面资产预设为可供政治分割的静态存量，把记录创新者消费远少于产出之不对称性的分数账本误当成财富本体；这种修辞极具动员效率并标示了公众对横向相对差异的焦虑，但在因果次序上抹杀了唤起前置试错的私人诱因，并在源头阻断了数十倍于它的下游普遍剩余。
+桑德斯的财富税主张把科技创业者的账面资产当作可供政治分配的静态存量，在把公众对相对差距的焦虑说出来时有用；它在此到了边界：这些资产记录的是创新者消费远少于产出的那份不对称，在因果次序上，压缩这份私人残差会削弱前置试错的诱因，也削弱由此而来的大得多的下游剩余。
 
-Sanders presumes tech founders' balance sheets are a static prize available for political redistribution, mistaking the fractional ledger registering the asymmetry of innovators consuming far less than they produce for the totality of created wealth; this rhetoric powerfully mobilizes public anxiety over horizontal relative inequality, but in the causal sequence it erases the antecedent inducement for risky trial and error, choking off the forty-five-fold downstream surplus before it can be born.
+Sanders’s wealth-tax program treats tech founders’ balance sheets as a static stock available for political redistribution, which is of use in voicing public anxiety over relative inequality; it reaches its boundary in that those assets register the asymmetry of innovators consuming far less than they produce, and in the causal sequence, compressing that private residual weakens the antecedent inducement for risky trial and error, and with it the far larger downstream surplus it brings.
 
-→ [Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) · [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)
+→ [政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) · [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)
 
 ### 伯特兰·罗素 / Bertrand Russell
 `哲学 / Philosophical`
@@ -4477,11 +4477,11 @@ Imagining synthetic data as a model feeding on itself is of use in describing ho
 ### 系统性归咎 / Systemic Blame
 `意识形态 / Ideological`
 
-把模式称为系统，假定决定性能动性在做选择的心智之外；归咎政客或设计新约束都延续了这种扩散，负荷仍在每个做决定的人身上。
+把模式称为系统，假定决定性的能动性在做选择的心智之外，在指出许多相似选择沉淀成的模式时有用；它在此到了边界：归咎政客或设计新的约束都延续了这种扩散，负荷仍在每个做决定的人身上。
 
-Naming the pattern a system assumes decisive agency sits outside choosing minds; blaming politicians or designing new constraints continues the diffusion, while the load stays with each deciding individual.
+Naming the pattern a system assumes decisive agency sits outside choosing minds, which is of use in pointing to the pattern many similar choices settle into; it reaches its boundary in that blaming politicians or designing new constraints continues the diffusion, while the load stays with each deciding individual.
 
-→ [Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
+→ [政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
 
 ### 系统改革与社会运动 / Systemic Reform and Activism
 `意识形态 / Ideological`
@@ -4972,11 +4972,11 @@ Waiting for clarity assumes clarity descends on an industry of its own accord, w
 ### 财富税 / Wealth Tax
 `经济 / Economic`
 
-财富税预设他人资产的剩余控制权可由政治之手导向既定目的；它使所有权回路变薄，而后果依旧落在每个人身上。
+财富税预设他人资产的剩余控制权可以由政治之手导向既定目的，在为公共项目筹集资金时有用；它在此到了边界：它使所有权的回路变薄，而后果依旧落在每个人身上。
 
-A wealth tax presumes residual control over others' assets can be directed toward chosen ends by political hands; it thins the ownership loop whose consequences still land with individuals.
+A wealth tax presumes residual control over others’ assets can be directed toward chosen ends by political hands, which is of use in raising funds for public programs; it reaches its boundary in that it thins the ownership loop whose consequences still land with individuals.
 
-→ [Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
+→ [政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
 
 ### 财富转移政策 / Wealth-Transfer Policies
 `经济 / Economic`
