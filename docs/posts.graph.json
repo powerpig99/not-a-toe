@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T03:49:50.365Z",
+    "generated_at": "2026-10-16T04:22:02.404Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -73,7 +73,7 @@
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
       "content/posts/evil-as-the-minds-own-creation.md": "a9c673ba9b78",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "3b036ee62bf9",
-      "content/posts/expertise-as-reference-not-replacement.md": "fa78713acfa4",
+      "content/posts/expertise-as-reference-not-replacement.md": "8b1aece9d18e",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "cf5fee6f027d",
@@ -99,7 +99,7 @@
       "content/posts/having-more-is-never-the-cause.md": "4f88f0327c1b",
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
       "content/posts/hierarchy-from-individual-difference.md": "7c131b8c8217",
-      "content/posts/how-belief-actually-changes.md": "b31fc8321707",
+      "content/posts/how-belief-actually-changes.md": "61f0223654b3",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "6f250adfd9e6",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
@@ -288,9 +288,9 @@
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
-      "content/posts/the-map-after-the-territory.md": "6fd00c209991",
+      "content/posts/the-map-after-the-territory.md": "6cbd65facbf5",
       "content/posts/the-mark-and-the-act.md": "1291c7f118cc",
-      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "8a1252ef4686",
+      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "cec160d47946",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "e5dfc5fb16e4",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "fd91ab93cd7f",
       "content/posts/the-mirage-of-the-infinite-totality.md": "ed9e81aa570c",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "1a145c6e2e12",
       "content/book/consciousness.md": "525b07ca41c4",
       "content/book/economics.md": "3938b54453ed",
-      "content/book/index-of-premises.md": "f1ef9bd79905",
+      "content/book/index-of-premises.md": "10033d45d770",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "49a199864e1e",
@@ -415,12 +415,12 @@
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "134ad0b257f3",
-      "content/book/success-and-the-self.md": "4e0ba3ffb737",
+      "content/book/success-and-the-self.md": "dea45f4bec49",
       "content/book/tools-and-progress.md": "fb71a7a1a375"
     },
     "stats": {
       "posts": 393,
-      "edges": 6420,
+      "edges": 6424,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -2189,7 +2189,7 @@
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "Expertise as Reference, Not Replacement",
-      "hash": "fa78713acfa4",
+      "hash": "8b1aece9d18e",
       "in_degree": 22,
       "out_degree": 22,
       "links_out": [
@@ -2733,7 +2733,7 @@
       "slug": "how-belief-actually-changes",
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "How Belief Actually Changes",
-      "hash": "b31fc8321707",
+      "hash": "61f0223654b3",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -7230,8 +7230,8 @@
       "kind": "post",
       "slug": "the-map-after-the-territory",
       "path": "content/posts/the-map-after-the-territory.md",
-      "title": "Self-improvement writing is The Map After the Territory",
-      "hash": "6fd00c209991",
+      "title": "行路之后的地图 / The Map After the Territory",
+      "hash": "6cbd65facbf5",
       "in_degree": 4,
       "out_degree": 4,
       "links_out": [
@@ -7274,7 +7274,7 @@
       "slug": "the-meaning-of-life-is-in-the-drafting",
       "path": "content/posts/the-meaning-of-life-is-in-the-drafting.md",
       "title": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing",
-      "hash": "8a1252ef4686",
+      "hash": "cec160d47946",
       "in_degree": 22,
       "out_degree": 22,
       "links_out": [
@@ -16360,7 +16360,7 @@
       "from": "expertise-as-reference-not-replacement",
       "to": "the-map-after-the-territory",
       "rel": "points_to",
-      "label": "Self-improvement writing is The Map After the Territory"
+      "label": "The Map After the Territory"
     },
     {
       "from": "expertise-as-reference-not-replacement",
@@ -18304,7 +18304,7 @@
       "from": "how-belief-actually-changes",
       "to": "the-map-after-the-territory",
       "rel": "points_to",
-      "label": "Self-improvement writing is The Map After the Territory"
+      "label": "The Map After the Territory"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -36922,7 +36922,25 @@
       "from": "the-map-after-the-territory",
       "to": "cheng-gong-xue",
       "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "the-map-after-the-territory",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
       "label": "Theories After Success, Mistaken for Theories Leading to Success"
+    },
+    {
+      "from": "the-map-after-the-territory",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "信念如何真正改变"
+    },
+    {
+      "from": "the-map-after-the-territory",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "生命的意义在起草之中"
     },
     {
       "from": "the-map-after-the-territory",
@@ -36935,6 +36953,12 @@
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
       "label": "The meaning of life is in the drafting"
+    },
+    {
+      "from": "the-map-after-the-territory",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "专家经验作为参考而非替代"
     },
     {
       "from": "the-map-after-the-territory",
@@ -37138,7 +37162,7 @@
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "the-map-after-the-territory",
       "rel": "points_to",
-      "label": "Self-improvement writing is The Map After the Territory"
+      "label": "The Map After the Territory"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
@@ -48420,7 +48444,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "f1ef9bd79905",
+        "hash": "10033d45d770",
         "out_degree": 393
       },
       {
@@ -48519,7 +48543,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "4e0ba3ffb737",
+        "hash": "dea45f4bec49",
         "out_degree": 33
       },
       {
@@ -51429,7 +51453,7 @@
         "from": "book:index-of-premises",
         "to": "the-map-after-the-territory",
         "rel": "collects",
-        "label": "Self-improvement writing is The Map After the Territory"
+        "label": "行路之后的地图 / The Map After the Territory"
       },
       {
         "from": "book:index-of-premises",
@@ -52395,7 +52419,7 @@
         "from": "book:index-of-premises",
         "to": "the-map-after-the-territory",
         "rel": "collects",
-        "label": "Self-improvement writing is The Map After the Territory"
+        "label": "行路之后的地图 / The Map After the Territory"
       },
       {
         "from": "book:index-of-premises",
@@ -54585,7 +54609,7 @@
         "from": "book:success-and-the-self",
         "to": "the-map-after-the-territory",
         "rel": "collects",
-        "label": "Self-improvement writing is The Map After the Territory"
+        "label": "行路之后的地图 / The Map After the Territory"
       },
       {
         "from": "book:success-and-the-self",

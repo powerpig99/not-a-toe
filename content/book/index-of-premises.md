@@ -2857,11 +2857,11 @@ Presumes moral clarity is achieved by denouncing other actors; comforting for gr
 ### 身份先行的改变 / Identity-First Change
 `成功学 / Self-Help`
 
-先成为那个人，预设身份先于行动；叙述中稳定的身份是先前选择的残余，获取描述可能取代真正让生活更新的日常选择。
+先成为那个人的主张预设身份先于行动，在给已经开始的改变一个可以认同的方向时有用；它在此到了边界：叙述中稳定的身份是先前选择的残余，获取描述可能取代真正让生活更新的日常选择。
 
-Becoming the person first presumes identity precedes action; the stable identity in accounts is residue of earlier choices, and acquiring the description can displace the ordinary choices where life updates.
+The claim to become the person first presumes identity precedes action, which is of use in giving change already under way a direction to identify with; it reaches its boundary in that the stable identity in accounts is residue of earlier choices, and acquiring the description can displace the ordinary choices where a life updates.
 
-→ [Self-improvement writing is The Map After the Territory](../../posts/the-map-after-the-territory/)
+→ [行路之后的地图 / The Map After the Territory](../../posts/the-map-after-the-territory/)
 
 ### 意识形态 / Ideology
 `意识形态 / Ideological`
@@ -4198,11 +4198,11 @@ Victim epistemology positions the external world as cause and the self as passiv
 ### 自我提升读物 / Self-Help Literature
 `成功学 / Self-Help`
 
-自我提升读物假定精致的框架能启动改变；它们是改变发生后的回顾性叙述，对已经在迭代的人可作参照，却不是迈步的起点。
+自我提升读物假定精致的框架能启动改变，在为已经在迭代的人提供语言、区分与参照点时有用；它在此到了边界：这些框架是改变发生之后写成的回顾性叙述，不是迈步的起点。
 
-Self-help assumes polished frames can initiate change; they are retrospective accounts composed after change occurred, useful as reference for someone already iterating, not as the start of the walk.
+Self-help literature assumes polished frames can initiate change, which is of use in supplying language, distinctions, and reference points for someone already iterating; it reaches its boundary in that these frames are retrospective accounts composed after change occurred, not the start of the walk.
 
-→ [Self-improvement writing is The Map After the Territory](../../posts/the-map-after-the-territory/)
+→ [行路之后的地图 / The Map After the Territory](../../posts/the-map-after-the-territory/)
 
 ### 共享知识 / Shared Knowledge
 `哲学 / Philosophical`
