@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T08:32:12.688Z",
+    "generated_at": "2026-10-16T08:49:45.951Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -121,7 +121,7 @@
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "ac0fdb212b18",
       "content/posts/moral-language-as-projection.md": "980a9f624f21",
-      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "26036d463329",
+      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "5ca36f397bef",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "9261da00dc72",
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
@@ -214,7 +214,7 @@
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "633ffdcca70d",
       "content/posts/the-closed-n-and-the-open-reality.md": "cdca9be1b6fb",
-      "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "f1fdf0129bf6",
+      "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "fd790ca70240",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-comment-is-not-the-code.md": "1ee31f526434",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
@@ -404,14 +404,14 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "525b07ca41c4",
       "content/book/economics.md": "f3eee272aa42",
-      "content/book/index-of-premises.md": "2f35e4b02e0a",
+      "content/book/index-of-premises.md": "e98e027c398c",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "49a199864e1e",
       "content/book/mathematics.md": "8bb7852e7439",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "d52dd5b06929",
-      "content/book/morality.md": "3bd75443a1f7",
+      "content/book/morality.md": "3b6c3249cdb9",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "edc135bd85be",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6461,
+      "edges": 6475,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -3379,8 +3379,8 @@
       "kind": "post",
       "slug": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "path": "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md",
-      "title": "Moral Language Dilutes the Feedback That Scales Freedom",
-      "hash": "26036d463329",
+      "title": "道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom",
+      "hash": "5ca36f397bef",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -5719,7 +5719,7 @@
       "slug": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "path": "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md",
       "title": "善恶硬币与通往地狱的善意之路 / The Coin of Good and Evil and the Road to Hell",
-      "hash": "f1fdf0129bf6",
+      "hash": "fd790ca70240",
       "in_degree": 7,
       "out_degree": 6,
       "links_out": [
@@ -20884,31 +20884,79 @@
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
-      "label": "How to fix your whole life in one split second"
+      "label": "如何在一瞬间修正你的整个人生"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to Fix Your Whole Life in One Split Second"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
-      "label": "Good and evil are the two sides of the coin and the cut"
+      "label": "善恶是硬币的两面与那一刀"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
-      "label": "Therapy opens the feedback loop"
+      "label": "疗愈打开反馈回路"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "秩序、剩余与道德拦截"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "善恶硬币与通往地狱的善意之路"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy Opens the Feedback Loop"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -20920,7 +20968,7 @@
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "order-surplus-and-the-moral-intercept",
       "rel": "points_to",
-      "label": "Order, surplus, and the moral intercept"
+      "label": "Order, Surplus, and the Moral Intercept"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -20932,13 +20980,31 @@
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "recursive-contradiction-of-entrusted-morality",
       "rel": "points_to",
-      "label": "The recursive contradiction of entrusted morality"
+      "label": "托付道德的自指悖论"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "rel": "points_to",
+      "label": "强求善意的残暴与范畴反馈的因果遮蔽"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "recursive-contradiction-of-entrusted-morality",
+      "rel": "points_to",
+      "label": "The Recursive Contradiction of Entrusted Morality"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -20950,19 +21016,37 @@
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
       "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
     },
     {
       "from": "name-negation-tendency",
@@ -30376,7 +30460,7 @@
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "道德语言稀释了放大自由的反馈"
+      "label": "道德语言稀释自由复利的反馈"
     },
     {
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
@@ -48666,7 +48750,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "2f35e4b02e0a",
+        "hash": "e98e027c398c",
         "out_degree": 393
       },
       {
@@ -48729,7 +48813,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "3bd75443a1f7",
+        "hash": "3b6c3249cdb9",
         "out_degree": 28
       },
       {
@@ -51591,7 +51675,7 @@
         "from": "book:index-of-premises",
         "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
         "rel": "collects",
-        "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+        "label": "道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom"
       },
       {
         "from": "book:index-of-premises",
@@ -52077,7 +52161,7 @@
         "from": "book:index-of-premises",
         "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
         "rel": "collects",
-        "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+        "label": "道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom"
       },
       {
         "from": "book:index-of-premises",
@@ -54333,7 +54417,7 @@
         "from": "book:morality",
         "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
         "rel": "collects",
-        "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+        "label": "道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom"
       },
       {
         "from": "book:morality",

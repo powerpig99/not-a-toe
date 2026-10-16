@@ -2740,11 +2740,11 @@ Frontier AGI framings assume accumulating enough specialized benchmark capabilit
 ### 全盘担责是极端立场 / Full Responsibility as Radical
 `哲学 / Philosophical`
 
-把全盘接纳后果称为极端，预设较温和的基线是中性的；那条基线正是被命名为默认的缺口，激进一词只是它的残余。
+把全盘接纳后果称为极端，预设一条更温和的基线是中性的，在描述常见做法时有用；它在此到了边界：那条基线正是被命名为默认的不足，“激进”这套词汇只是它的残余。
 
-Calling full acceptance of consequence radical presumes a milder baseline is neutral; the baseline is the shortfall named as default, and the vocabulary of radicalism is its residue.
+Calling full acceptance of consequence radical presumes a milder baseline is neutral, which is of use in describing common practice; it reaches its boundary in that the baseline is the shortfall named as default, and the vocabulary of radicalism is its residue.
 
-→ [Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/)
+→ [道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/)
 
 ### 通用技术扩散 / General-Purpose Technology Diffusion
 `技术 / Technological`
@@ -3433,11 +3433,11 @@ Watching others' rises and falls and passing verdicts like "cleverness undone by
 ### 道德语言与价值判断 / Moral Language and Value Judgment
 `哲学 / Philosophical`
 
-道德词汇预设善恶在描述后果；它在行动者与原始结果之间插入评价层，作为群体协调有用，却稀释了使所有权复利的反馈。
+道德词汇预设善恶在描述后果，在协调一个群体的行动时有用；它在此到了边界：它在行动者与原始结果之间插入评价层，稀释了让所有权复利的反馈。
 
-Moral vocabulary presumes good and evil describe consequences; it inserts evaluative overlays between agent and raw outcome, useful for coordinating clusters while diluting the feedback that compounds ownership.
+Moral vocabulary presumes good and evil describe consequences, which is of use in coordinating a group’s action; it reaches its boundary in that it inserts evaluative overlays between agent and raw outcome, diluting the feedback that compounds ownership.
 
-→ [Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/) · [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/)
+→ [道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/) · [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/)
 
 ### 道德实在论 / Moral Realism
 `哲学 / Philosophical`
