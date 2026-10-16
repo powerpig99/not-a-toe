@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T11:56:44.513Z",
+    "generated_at": "2026-10-16T12:14:08.894Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -31,7 +31,7 @@
       "content/posts/causality-and-the-irreducible-prior.md": "2a037b747d53",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "01422703e001",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "24fe759f57fc",
-      "content/posts/cheng-gong-xue.md": "a977d86be82f",
+      "content/posts/cheng-gong-xue.md": "661834ac2957",
       "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "24157a13530f",
@@ -115,7 +115,7 @@
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "753fa98ec858",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "805360c5ec04",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "510fcc57912f",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "316d28d30429",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
@@ -167,7 +167,7 @@
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "cd3ec066c2f8",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f85879109b9b",
       "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
-      "content/posts/residual-individualism.md": "5036d9e99a57",
+      "content/posts/residual-individualism.md": "fdf2e48d069b",
       "content/posts/restriction-is-a-selective-tax.md": "41418edaaaad",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -183,7 +183,7 @@
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "068bebe4646a",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
-      "content/posts/sowell-observed-the-surface-problem.md": "1e3867c786b4",
+      "content/posts/sowell-observed-the-surface-problem.md": "19117d938aab",
       "content/posts/stability-and-excess.md": "ffa61cd205e2",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "909c9d0b7fac",
       "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
@@ -236,7 +236,7 @@
       "content/posts/the-extendable-horizon.md": "8608b4dd4c16",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "bcd662973452",
       "content/posts/the-fallacy-of-post-success-parenting.md": "49cdad0d1952",
-      "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "41631349ff7c",
+      "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "c422640614eb",
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "e8672622b459",
       "content/posts/the-flywheel-of-the-mind.md": "c28e884fa611",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "525b07ca41c4",
       "content/book/economics.md": "e033239d4d7b",
-      "content/book/index-of-premises.md": "1f796902e2b3",
+      "content/book/index-of-premises.md": "d3e215f13b78",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "49a199864e1e",
@@ -414,13 +414,13 @@
       "content/book/morality.md": "3b6c3249cdb9",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "edc135bd85be",
+      "content/book/state-and-collective.md": "f81e1fd3037a",
       "content/book/success-and-the-self.md": "f33f8f68a881",
       "content/book/tools-and-progress.md": "fb71a7a1a375"
     },
     "stats": {
       "posts": 393,
-      "edges": 6509,
+      "edges": 6532,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -1208,7 +1208,7 @@
       "slug": "cheng-gong-xue",
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学 / Theories After Success",
-      "hash": "a977d86be82f",
+      "hash": "661834ac2957",
       "in_degree": 19,
       "out_degree": 18,
       "links_out": [
@@ -3215,7 +3215,7 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "805360c5ec04",
+      "hash": "510fcc57912f",
       "in_degree": 43,
       "out_degree": 43,
       "links_out": [
@@ -4565,8 +4565,8 @@
       "kind": "post",
       "slug": "residual-individualism",
       "path": "content/posts/residual-individualism.md",
-      "title": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies",
-      "hash": "5036d9e99a57",
+      "title": "剩余个人主义 / Residual Individualism",
+      "hash": "fdf2e48d069b",
       "in_degree": 24,
       "out_degree": 23,
       "links_out": [
@@ -4930,7 +4930,7 @@
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem",
-      "hash": "1e3867c786b4",
+      "hash": "19117d938aab",
       "in_degree": 11,
       "out_degree": 10,
       "links_out": [
@@ -6190,7 +6190,7 @@
       "slug": "the-fermi-paradox-reified-agency-and-the-great-filter",
       "path": "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md",
       "title": "费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter",
-      "hash": "41631349ff7c",
+      "hash": "c422640614eb",
       "in_degree": 2,
       "out_degree": 6,
       "links_out": [
@@ -12538,7 +12538,7 @@
       "from": "cheng-gong-xue",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
+      "label": "Residual Individualism"
     },
     {
       "from": "cheng-gong-xue",
@@ -20560,7 +20560,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "残余个体主义：人类事务中唯一的操作变量"
+      "label": "剩余个人主义"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -25732,37 +25732,79 @@
       "from": "residual-individualism",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
     },
     {
       "from": "residual-individualism",
       "to": "when-abundance-looks-like-scarcity",
       "rel": "points_to",
-      "label": "When abundance looks like scarcity"
+      "label": "当丰裕看起来像稀缺"
     },
     {
       "from": "residual-individualism",
       "to": "order-surplus-and-the-moral-intercept",
       "rel": "points_to",
-      "label": "Order, surplus, and the moral intercept"
+      "label": "秩序、剩余与道德拦截"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind’s Distinction"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "when-abundance-looks-like-scarcity",
+      "rel": "points_to",
+      "label": "When Abundance Looks Like Scarcity"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
     },
     {
       "from": "residual-individualism",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "residual-individualism",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "财富转移政策与价格下限中的原因错置"
     },
     {
       "from": "residual-individualism",
       "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "rel": "points_to",
-      "label": "The hours ranking freezes adequacy as one scoreboard"
+      "label": "工时排名把充足度冻结成一张记分牌"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "能动性的错配"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+      "rel": "points_to",
+      "label": "The Hours Ranking Freezes Adequacy as One Scoreboard"
     },
     {
       "from": "residual-individualism",
@@ -25774,97 +25816,193 @@
       "from": "residual-individualism",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "residual-individualism",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "What always listens cannot originate"
+      "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
     },
     {
       "from": "residual-individualism",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
     },
     {
       "from": "residual-individualism",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "residual-individualism",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "residual-individualism",
       "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "rel": "points_to",
-      "label": "The free mind is displaced by what claims to protect it"
+      "label": "自由的心智被声称保护它的东西取代"
     },
     {
       "from": "residual-individualism",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "解放的话术始于对囚禁的定义"
     },
     {
       "from": "residual-individualism",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "residual-individualism",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "Moral language dilutes the feedback that scales freedom"
+      "label": "道德语言稀释自由复利的反馈"
     },
     {
       "from": "residual-individualism",
       "to": "the-generative-topology-of-free-variables",
       "rel": "points_to",
-      "label": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence"
+      "label": "自由变量的生成拓扑"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "The Free Mind Is Displaced by What Claims to Protect It"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "The Generative Topology of Free Variables"
     },
     {
       "from": "residual-individualism",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
-      "label": "Sowell observed the surface problem"
+      "label": "索维尔的表象洞察与根因之偏"
     },
     {
       "from": "residual-individualism",
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
-      "label": "The knowledge problem and the illusion of delegation"
+      "label": "知识问题与委托的幻觉"
     },
     {
       "from": "residual-individualism",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "成功学"
     },
     {
       "from": "residual-individualism",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡"
     },
     {
       "from": "residual-individualism",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
     },
     {
       "from": "residual-individualism",
       "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "rel": "points_to",
-      "label": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency"
+      "label": "福利国家的幻象"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell Observed the Surface Problem"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The Knowledge Problem and the Illusion of Delegation"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "Theories After Success"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "The Welfare State Illusion"
     },
     {
       "from": "restriction-is-a-selective-tax",
@@ -27064,7 +27202,7 @@
       "from": "sowell-observed-the-surface-problem",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "残差个人主义"
+      "label": "剩余个人主义"
     },
     {
       "from": "sowell-observed-the-surface-problem",
@@ -32962,13 +33100,13 @@
       "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "残余的个人主义"
+      "label": "剩余个人主义"
     },
     {
       "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
+      "label": "Residual Individualism"
     },
     {
       "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
@@ -48954,7 +49092,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "1f796902e2b3",
+        "hash": "d3e215f13b78",
         "out_degree": 393
       },
       {
@@ -49044,7 +49182,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "edc135bd85be",
+        "hash": "f81e1fd3037a",
         "out_degree": 30
       },
       {
@@ -51813,7 +51951,7 @@
         "from": "book:index-of-premises",
         "to": "residual-individualism",
         "rel": "collects",
-        "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
+        "label": "剩余个人主义 / Residual Individualism"
       },
       {
         "from": "book:index-of-premises",
@@ -52689,7 +52827,7 @@
         "from": "book:index-of-premises",
         "to": "residual-individualism",
         "rel": "collects",
-        "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
+        "label": "剩余个人主义 / Residual Individualism"
       },
       {
         "from": "book:index-of-premises",
@@ -53133,7 +53271,7 @@
         "from": "book:index-of-premises",
         "to": "residual-individualism",
         "rel": "collects",
-        "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
+        "label": "剩余个人主义 / Residual Individualism"
       },
       {
         "from": "book:index-of-premises",
@@ -54951,7 +55089,7 @@
         "from": "book:state-and-collective",
         "to": "residual-individualism",
         "rel": "collects",
-        "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
+        "label": "剩余个人主义 / Residual Individualism"
       },
       {
         "from": "book:state-and-collective",

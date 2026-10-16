@@ -2650,11 +2650,11 @@ Spiritual seekers construct fixed mental images of liberation; clinging to a pre
 ### 固定蛋糕（零和）思维 / Fixed-Pie (Zero-Sum) Thinking
 `经济 / Economic`
 
-固定蛋糕思维假定先于生产行动存在一份集体存量；一旦以蛋糕为单位，分配与做大都把生产从离散的个人行动上移开。
+固定蛋糕思维假定一份集体存量先于产生它的行动而存在，在讨论既有资源的分配时有用；它在此到了边界：一旦以蛋糕为单位，分配与做大都把生产从离散的个人动作上挪开。
 
-Fixed-pie thinking assumes a collective stock exists prior to the acts producing it; once the pie is the unit, both division and expansion relocate production from discrete individual acts.
+Fixed-pie thinking assumes a collective stock exists prior to the acts producing it, which is of use in discussing the division of existing resources; it reaches its boundary in that once the pie is the unit, both division and expansion relocate production from discrete individual acts.
 
-→ [Residual Individualism: The Only Operative Variable in the Affairs of Human Societies](../../posts/residual-individualism/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
+→ [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
 
 ### 形式定律与现实摩擦 / Formal Laws vs Lived Friction
 `科学 / Scientific`
@@ -3874,11 +3874,11 @@ AI safety discourse frames existential risk as novel algorithmic alienness; cata
 ### 保护性制度是自由的前提 / Protective Institutions as Precondition of Freedom
 `意识形态 / Ideological`
 
-许多个人主义者假定设计好的法律或文化制度使自由成为可能；这把因果力移给制度，作为协调有用，却次于它所概括的选择行动。
+许多个人主义者假定设计好的法律或文化制度使自由成为可能，这作为协调有用；它在此到了边界：它把因果力挪到了制度上，而制度次于它所概括的选择动作。
 
-Many individualists assume designed legal or cultural systems make freedom possible; that relocates causal power onto the system, useful as coordination yet secondary to the choosing acts it summarizes.
+Many individualists assume designed legal or cultural systems make freedom possible, which is of use as coordination; it reaches its boundary in that it relocates causal power onto the system, which stays secondary to the choosing acts it summarizes.
 
-→ [Residual Individualism: The Only Operative Variable in the Affairs of Human Societies](../../posts/residual-individualism/)
+→ [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/)
 
 ### 涌现的伪因果倒错 / Pseudo-Causality of Emergence
 `科学 / Scientific`
@@ -4486,11 +4486,11 @@ Naming the pattern a system assumes decisive agency sits outside choosing minds,
 ### 系统改革与社会运动 / Systemic Reform and Activism
 `意识形态 / Ideological`
 
-社会运动假定规章等模式具有独立因果力；它们是致密的残余，把它们当作中心来反对反而使之稳固，变化依旧发生在个人选择的转移上。
+社会运动假定规章等模式具有独立的因果力，在指出某种约束的代价时有用；它在此到了边界：模式是稠密的残余，把它们当作中心去反对，反而使之稳固，变化仍发生在个人选择的移动上。
 
-Activism assumes patterns like regulations hold independent causal power; they are densified residue, so opposition that keeps them central tends to stabilize them, while change still occurs as shifted individual choices.
+Activism assumes patterns like regulations hold independent causal power, which is of use in pointing out what a constraint costs; it reaches its boundary in that patterns are densified residue, so opposition that keeps them central tends to stabilize them, while change still occurs as shifted individual choices.
 
-→ [Residual Individualism: The Only Operative Variable in the Affairs of Human Societies](../../posts/residual-individualism/)
+→ [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/)
 
 ### 天赋与条件即命运 / Talent and Circumstance as Destiny
 `成功学 / Self-Help`
