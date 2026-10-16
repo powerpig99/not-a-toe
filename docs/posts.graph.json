@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T12:48:09.590Z",
+    "generated_at": "2026-10-16T13:02:52.451Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -153,7 +153,7 @@
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "e21049e90be8",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
-      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "db0acf841a07",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "39e12af575c0",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "cde8a526b40c",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
@@ -300,7 +300,7 @@
       "content/posts/the-model-never-becomes-a-second-edge.md": "be8e9087d341",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "67c15f066b11",
       "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
-      "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "06673522a545",
+      "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "e6296345035d",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "99b5bd10ba18",
       "content/posts/the-npc-impression-is-structural.md": "f080ebfaf58b",
@@ -404,11 +404,11 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "525b07ca41c4",
       "content/book/economics.md": "e033239d4d7b",
-      "content/book/index-of-premises.md": "d3e215f13b78",
+      "content/book/index-of-premises.md": "ad0ddba8e708",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "49a199864e1e",
-      "content/book/mathematics.md": "8bb7852e7439",
+      "content/book/mathematics.md": "21fdd83af9dd",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "d52dd5b06929",
       "content/book/morality.md": "3b6c3249cdb9",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6532,
+      "edges": 6543,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -4216,8 +4216,8 @@
       "kind": "post",
       "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
-      "title": "Potential Infinity and the Temporary Closures of Mathematical Thought",
-      "hash": "db0acf841a07",
+      "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
+      "hash": "39e12af575c0",
       "in_degree": 13,
       "out_degree": 11,
       "links_out": [
@@ -7533,7 +7533,7 @@
       "slug": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "path": "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md",
       "title": "四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model",
-      "hash": "06673522a545",
+      "hash": "971cce019879",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -24520,25 +24520,55 @@
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "selection-contradiction-and-open-reality",
       "rel": "points_to",
-      "label": "Selection, contradiction, and open reality"
+      "label": "选择、矛盾与开放的现实"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, Contradiction, and Open Reality"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
-      "label": "Why mathematics can never be solved"
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "rel": "points_to",
+      "label": "四维长鹿的幻象与当下的模型"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -24550,19 +24580,43 @@
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
-      "label": "Lossless knowledge of an open field is incoherent"
+      "label": "开放场域中的无损知识不自洽"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "e-shi-feng-bi-de-shan",
       "rel": "points_to",
-      "label": "Evil as Dogmatized Good"
+      "label": "恶是封闭的善"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "the-shadow-and-the-infinite",
+      "rel": "points_to",
+      "label": "阴影与无限"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless Knowledge of an Open Field Is Incoherent"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "Evil Is Closed Good"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -24574,13 +24628,25 @@
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动前沿"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn’t a State You Arrive At"
     },
     {
       "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
@@ -38902,7 +38968,7 @@
       "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
-      "label": "潜在无限与数学思维的暂态闭合"
+      "label": "潜无限与数学思维的暂时闭合"
     },
     {
       "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
@@ -49092,7 +49158,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d3e215f13b78",
+        "hash": "ad0ddba8e708",
         "out_degree": 393
       },
       {
@@ -49128,7 +49194,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "8bb7852e7439",
+        "hash": "21fdd83af9dd",
         "out_degree": 20
       },
       {
@@ -50661,7 +50727,7 @@
         "from": "book:index-of-premises",
         "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "rel": "collects",
-        "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+        "label": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought"
       },
       {
         "from": "book:index-of-premises",
@@ -51009,7 +51075,7 @@
         "from": "book:index-of-premises",
         "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "rel": "collects",
-        "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+        "label": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought"
       },
       {
         "from": "book:index-of-premises",
@@ -51249,7 +51315,7 @@
         "from": "book:index-of-premises",
         "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "rel": "collects",
-        "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+        "label": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought"
       },
       {
         "from": "book:index-of-premises",
@@ -54357,7 +54423,7 @@
         "from": "book:mathematics",
         "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "rel": "collects",
-        "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+        "label": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought"
       },
       {
         "from": "book:mathematics",

@@ -996,7 +996,7 @@ Machine learning narratives treat optimization as an intelligent agent seeking t
 
 Gödel proves that any consistent formal system containing arithmetic has true statements it cannot prove and cannot prove its own consistency, which is of use in stating the limits of formal systems precisely; it reaches its boundary in that, when read as a proof about mind itself, the same limit reappears outside the system, between Minds.
 
-→ [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
+→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
 
 ### 成长型思维 / Growth Mindset
 `成功学 / Self-Help`
@@ -1379,11 +1379,11 @@ Presumes time reversibility in microscopic equations challenges thermodynamic ir
 ### 黎曼猜想 / Riemann Hypothesis
 `数学 / Mathematical`
 
-临界线上零点所占比例，预设了一个无尽集合的总量；从百分之四十一点六到六十七点二的下界，在这一设定的闭合内可靠，而非对已遍历整体的测量。
+临界线上零点所占比例的陈述，预设了一个无尽集合的总量，在一次设定的闭合之内推进可认证的下界时有用；它在此到了边界：从百分之四十一点六到六十七点二的下界，在那次闭合之内可靠，而不是对一个已清点整体的测量。
 
-Proportions of zeta zeros on the critical line presuppose a total measure of an unending collection; the 41.6 to 67.2 percent bound is reliable inside that posited closure, not over a surveyed whole.
+Statements of the proportion of zeta zeros on the critical line presuppose a total measure of an unending collection, which is of use in advancing certifiable bounds inside a posited closure; it reaches its boundary in that the 41.6 to 67.2 percent bound is reliable inside that closure, not a measurement over a surveyed whole.
 
-→ [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [全息回声 / The Holographic Echo](../../posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function/)
+→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [全息回声 / The Holographic Echo](../../posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function/)
 
 ### 施密特敌友之分 / Schmittian Friend-Enemy Distinction
 `意识形态 / Ideological`
@@ -1678,11 +1678,11 @@ Ascetic philosophy treats empty awareness as an end in itself; functional emptin
 ### 实无穷（完成的整体） / Actual Infinity (Completed Totality)
 `数学 / Mathematical`
 
-把无穷当作已完成的集合，是使渐近密度与证明成为可能的语境前提；前提被持守时认证有效，潜无限的过程本身却从未完成。
+把无穷当作已完成的集合，是使渐近密度与证明成为可能的语境前提，在前提被握住时使认证有效；它在此到了边界：潜无限的过程本身从未完成，这个前提仍是一次暂时的闭合。
 
-Treating infinity as a finished collection is a contextual premise enabling asymptotic densities and proofs; certification holds while the premise is held, and the potential process itself never finishes.
+Treating infinity as a finished collection is a contextual premise enabling asymptotic densities and proofs, which is of use in that certification holds while the premise is held; it reaches its boundary in that the potential process itself never finishes, so the premise remains a temporary closure.
 
-→ [Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
+→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 
 ### 实无限与潜无限之辨 / Actual vs Potential Infinity
 `数学 / Mathematical`
