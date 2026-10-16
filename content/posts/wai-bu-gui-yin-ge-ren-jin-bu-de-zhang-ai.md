@@ -98,7 +98,7 @@ There are two common ways of doing it.
 
 The first is carrying for the child what they could carry themselves. Overprotecting, doing everything for them, solving problems before they arise, all keep telling the child: “You can’t do it, and you don’t need to.” The causal chain between their actions and the results is cut, and inner attribution cannot grow. [Emotional support as causal interference](../emotional-support-as-causal-interference/) is the same replacement: outside regulation takes the place of the child’s own contact with consequence.
 
-二是让孩子承担本不属于他的。把父母的焦虑、情绪与未完成的欲望投射过去，等于在告诉他：“你的价值取决于别人的心情和期待。”他开始用外部的标准定义自己，内在的驱力逐渐萎缩。[当效果撰写了框架](../when-the-effect-authors-the-frame/)是同一个先验：把登记到的东西当成下一步的作者。
+二是让孩子承担本不属于他的。把父母的焦虑、情绪与未完成的欲望投射过去，等于在告诉他：“你的价值取决于别人的心情和期待。”他开始用外部的标准定义自己，内在的驱力逐渐萎缩。[当效果主宰了框架的叙事](../when-the-effect-authors-the-frame/)是同一个先验：把登记到的东西当成下一步的作者。
 
 The second is making the child carry what was never theirs. Projecting the parents’ anxiety, moods and unfinished desires onto the child amounts to telling them: “Your worth depends on other people’s moods and expectations.” The child begins to define themselves by outside standards, and the inner drive slowly withers. [When the effect authors the frame](../when-the-effect-authors-the-frame/) is the same prior: what registers is taken for the author of the next step.
 
