@@ -1,4 +1,4 @@
-# 政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion
+# 政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion
 
 *剩余控制权经由个体的选择而迁移，政客标记的是这种迁移，而不是它的源头。 / Residual control migrates through individual choices; the politician marks that migration, not its origin.*
 
@@ -50,9 +50,9 @@ The question the possessive raises is who decides he can treat five percent of o
 
 Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. It occurs at loci. Each locus draws discrete distinctions; here the loci are individuals; earlier acts shape the field available to later ones. Causality is that activity registering its own trace asymmetry, not a relation that can be relocated into an office, a party, or a system treated as an independent agent.
 
-这次迁移是同一个分配，以许多公开的形式重复。去争取被许诺的好处，是把政治之手当作下一步的供应者。掂量抵抗的个人代价然后迁就，是把已经稠密的模式当成天气。宁愿把结果说成是别人做的，是把决定性的能动性放到做选择的心智之外。以为自己能托起另一个人，或能成为另一个人结果的作者，是把下一步放到一道无法替别人完成返回的鸿沟对面。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)把这种完成看作范畴错误：痕迹可以被拾起，也可以不被拾起；没有哪个个体能替另一个人走完他的递归。别的形式也都是同一个分配。每一个都是在一个仍在自由决定、仍在独特约束下承担自己先前决定全部后果的心智处做出的离散动作。没有哪一个需要心术不正。守住一个被偏好的参照，也就是“能动性在别处”，是那个形象一旦形成之后自己的指令。
+这次迁移是同一个分配，以许多公开的形式重复。去争取被许诺的好处，是把政治之手当作下一步的供应者。掂量抵抗的个人代价然后迁就，是把已经稠密的模式当成天气。宁愿把结果说成是别人做的，是把决定性的能动性放到做选择的心智之外。以为自己能托起另一个人，或能成为另一个人结果的作者，是把下一步放到一道无法替别人完成返回的鸿沟对面。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)把这种完成看作范畴错误：痕迹可以被拾起，也可以不被拾起；没有哪个个体能替另一个人走完他的递归。别的形式也都是同一个分配。每一个都是在一个仍在自由决定、仍在独特约束下承担自己先前决定全部后果的心智处做出的离散动作。没有哪一个需要恶意。守住一个被偏好的参照，也就是“能动性在别处”，是那个形象一旦形成之后自己的指令。
 
-The migration is one allocation, repeated in many overt forms. Seeking the promised benefit treats the political hand as the supplier of the next step. Weighing the personal cost of resistance and accommodating treats the already-densified pattern as weather. Preferring to describe the outcome as something done by others locates decisive agency outside the choosing mind. Treating oneself as able to lift another, or as author of another’s outcomes, locates the next step across a gap that cannot complete another’s return. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) sees that completion as a category error: traces may be taken up or not; no individual finishes another’s recursion. Further forms remain the same allocation. Each is a discrete act at a Mind still freely deciding, still bearing the full consequences of its own prior decisions under unique constraints. None requires perversity. Preservation of a preferred reference, that agency lives elsewhere, is the Image’s own directive once formed.
+The migration is one allocation, repeated in many overt forms. Seeking the promised benefit treats the political hand as the supplier of the next step. Weighing the personal cost of resistance and accommodating treats the already-densified pattern as weather. Preferring to describe the outcome as something done by others locates decisive agency outside the choosing mind. Treating oneself as able to lift another, or as author of another’s outcomes, locates the next step across a gap that cannot complete another’s return. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) sees that completion as a category error: traces may be taken up or not; no individual finishes another’s recursion. Further forms remain the same allocation. Each is a discrete act at a Mind still freely deciding, still bearing the full consequences of its own prior decisions under unique constraints. None requires malice. Preservation of a preferred reference, that agency lives elsewhere, is the Image’s own directive once formed.
 
 这些决定在足够多的心智之间彼此相似，便造成剩余控制权有系统地迁移到政治之手中。迁移的是对这份控制的看法，也就是它被认为落在哪里；后果仍留在原处。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)说的是这种唯一性：总量与条件无论以什么形式出现，都只为回报定下模式，却不撰写下一个动作。[公共支出不创造资本](../public-spending-does-not-create-capital/)是对已被取走之物的记账：先取走，后政治分配。这里是从认领者的语言而不是从账本去读同一个序列。[福利国家的幻象](../the-welfare-state-illusion-cost-diffusion-and-agency-atrophy/)从付钱的一方追溯同一种扩散的财政形式：成本被摊到千百万人身上，直到个人那条成本与后果的回路被切断。
 
@@ -60,9 +60,9 @@ These decisions, similar across enough minds, produce a systematic migration of 
 
 ## 三、 推诿挪开的是目光，不是负荷 / 3. Blame Relocates the Look, Not the Load
 
-当先前决定的残余撞上一个被偏好的形象，作为“本不该落下的东西”到来时，把责任推给他人便登记为下一个可走的步子，对这个心智自己的结果如此，对别人的结果也如此。这一步不需要心术不正。形象把这次错配的作者放到别处，以此保住自己。
+当先前决定的残余撞上一个被偏好的形象，作为“本不该落下的东西”到来时，把责任推给他人便登记为下一个可走的步子，对这个心智自己的结果如此，对别人的结果也如此。这一步不需要恶意。形象把这次错配的作者放到别处，以此保住自己。
 
-When residue of prior decisions arrives against a preferred Image as something that should not have landed, shifting blame onto others registers as the next available move, for this Mind’s own outcomes and for the outcomes of others. The move requires no perversity. The Image preserves itself by locating the author of the mismatch elsewhere.
+When residue of prior decisions arrives against a preferred Image as something that should not have landed, shifting blame onto others registers as the next available move, for this Mind’s own outcomes and for the outcomes of others. The move requires no malice. The Image preserves itself by locating the author of the mismatch elsewhere.
 
 后果已经是满的。归因并不能从中扣掉什么。变薄的只是那个本可以训练下一个离散动作的信号。负荷仍留在那个以先前决定塑造了场域的个人身上；被送到鸿沟对面的只是目光。[索维尔的表象洞察与根因之偏](../sowell-observed-the-surface-problem/)越过激励的说法，看到的是同一份早已满载的承担：没有系统性的解决办法；接受，登记的是一份从未被移走的负荷。[道德语言稀释自由复利的反馈](../moral-language-dilutes-the-feedback-that-scales-freedom/)说的是评价性的覆盖层隔在行动者与原始后果之间时的那种阻尼。这里的覆盖层就是推诿：给一个在做决定的心智之外的作者起个名字，好让早已满载的残余以陌生的面目到来。
 
@@ -90,13 +90,13 @@ The pattern is then commonly spoken of as a system or an external force. That de
 
 [剩余个人主义](../residual-individualism/)是同一种安放，换成了系统改革的场景：约束被留作中心参照，于是后来模式的变化被记成行动主义的功劳，而发起从未离开一个个接续的个人选择。[主权、信念与规制结构的生成](../sovereignty-belief-and-regulatory-structures/)是同一份残余的制度形态：持久的结构表达的是“主权可以交出去”这个先验；它们并不替个人发起。针对政客设计的新正式约束，是这个先验的又一面：又一个被当成纠正之处的抓手。
 
-[Residual Individualism](../residual-individualism/) is that placement in the setting of system reform: the constraint kept as central reference so later pattern-shifts are scored as activism’s authorship while initiation never left successive individual choices. [Sovereignty, Belief, and the Generation of Regulatory Structures](../sovereignty-belief-and-regulatory-structures/) is the same residue in institutional form: durable structures express a prior that sovereignty can be handed over; they do not initiate in the individual’s place. New formal constraints designed against politicians are a further face of that prior, another handhold treated as the site of correction.
+[Residual Individualism](../residual-individualism/) is that placement in the setting of system reform: the constraint kept as central reference so later pattern-shifts are scored as activism’s authorship while initiation never left successive individual choices. [Sovereignty, Belief, and the Generation of Regulatory Structures](../sovereignty-belief-and-regulatory-structures/) is the same residue in institutional form: durable structures express a prior that sovereignty can be handed over; they do not initiate in the individual’s place. New formal constraints designed against politicians are a further face of that prior, another operational lever treated as the site of correction.
 
 ## 六、 认领者标记的是表达，序列仍在更早处 / 6. The Claimant Marks the Expression; the Sequence Stays Earlier
 
 只要个人继续做同一大类的选择，这个模式就会持续。当心智开始做不同的选择，收回剩余控制权、拒绝那种外置的说法时，它才会移动。政客作为被扩散的控制权的显眼认领者，会随着这种移动而调整，或被取代；这是移动的结果，而不是针对他们的纠正。他们准确地标示出这种集体的表达。凡是从把他们当成改变的主要目标开始的做法，都只是把扩散挪了个地方。
 
-The pattern persists while individuals continue making choices of the same general kind. It shifts when minds begin making different choices, choices that reclaim residual control and decline the externalizing description. Politicians, as the conspicuous claimants of the diffused control, adjust or are displaced as that shift occurs, as its consequence rather than as a correction aimed at them. They are an accurate marker of the collective expression. Every approach that begins by making them the main target of change relocates the diffusion.
+The pattern persists while individuals continue making choices of the same general kind. It shifts when minds begin making different choices, choices that reclaim residual control and decline the externalizing description. Politicians, as the conspicuous claimants of the diffused control, adjust or are displaced as that shift occurs, as its consequence rather than as a correction aimed at them. They are an accurate sign of the collective expression. Every approach that begins by making them the main target of change relocates the diffusion.
 
 [进步叙事中的症候与原因](../symptom-and-cause-in-the-narratives-of-progress/)是同一种倒置的归因：最响亮的残余来得最晚，却被装成杠杆，而发起的序列仍在更早的地方。这里响亮的残余就是政客。[赋权确立权力的集中](../empowerment-establishes-the-centralization-of-power/)是它的另一面：能力被说成来自被授权之手的馈赠，于是请求取代了行使，而杠杆原地不动。把那只手当成问题去针对，是同一种安放，只是符号反了过来。
 

@@ -267,7 +267,7 @@ flowchart TD
     style Refuse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The causal network has another law, which may be called the holographic law of responsibility: every Mind bears the whole of the causal consequences its decisions set off, however those consequences are divided in form. [Politicians Appear as Visible Symptoms of Responsibility Diffusion](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) and [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) show that causal connection is a closed continuum. However an exemption agreement is designed, the breakdowns, interruptions and loss of trust that operational omissions bring still become costs falling on the decision-maker.
+The causal network has another law, which may be called the holographic law of responsibility: every Mind bears the whole of the causal consequences its decisions set off, however those consequences are divided in form. [Politicians Are Visible Symptoms of Responsibility Diffusion](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) and [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) show that causal connection is a closed continuum. However an exemption agreement is designed, the breakdowns, interruptions and loss of trust that operational omissions bring still become costs falling on the decision-maker.
 
 ```mermaid
 flowchart TD

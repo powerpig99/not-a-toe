@@ -105,7 +105,7 @@ Riemann revolutionized differential geometry and analytic number theory; his geo
 
 Sanders’s wealth-tax program treats tech founders’ balance sheets as a static stock available for political redistribution, which is of use in voicing public anxiety over relative inequality; it reaches its boundary in that those assets register the asymmetry of innovators consuming far less than they produce, and in the causal sequence, compressing that private residual weakens the antecedent inducement for risky trial and error, and with it the far larger downstream surplus it brings.
 
-→ [政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) · [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)
+→ [政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) · [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)
 
 ### 伯特兰·罗素 / Bertrand Russell
 `哲学 / Philosophical`
@@ -4481,7 +4481,7 @@ Imagining synthetic data as a model feeding on itself is of use in describing ho
 
 Naming the pattern a system assumes decisive agency sits outside choosing minds, which is of use in pointing to the pattern many similar choices settle into; it reaches its boundary in that blaming politicians or designing new constraints continues the diffusion, while the load stays with each deciding individual.
 
-→ [政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
+→ [政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
 
 ### 系统改革与社会运动 / Systemic Reform and Activism
 `意识形态 / Ideological`
@@ -4976,7 +4976,7 @@ Waiting for clarity assumes clarity descends on an industry of its own accord, w
 
 A wealth tax presumes residual control over others’ assets can be directed toward chosen ends by political hands, which is of use in raising funds for public programs; it reaches its boundary in that it thins the ownership loop whose consequences still land with individuals.
 
-→ [政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
+→ [政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
 
 ### 财富转移政策 / Wealth-Transfer Policies
 `经济 / Economic`

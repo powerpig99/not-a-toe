@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T06:51:10.663Z",
+    "generated_at": "2026-10-16T07:31:22.139Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -67,7 +67,7 @@
       "content/posts/efficiency-without-differentiation.md": "3e2aad7ba924",
       "content/posts/emotional-support-as-causal-interference.md": "502e2b0e04b1",
       "content/posts/empathy-as-projection-collapse.md": "48c21092f783",
-      "content/posts/empowerment-establishes-the-centralization-of-power.md": "2ce7d30710e4",
+      "content/posts/empowerment-establishes-the-centralization-of-power.md": "a47e6b831b62",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "42e3f43c2c2d",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
@@ -100,11 +100,11 @@
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
       "content/posts/hierarchy-from-individual-difference.md": "7c131b8c8217",
       "content/posts/how-belief-actually-changes.md": "61f0223654b3",
-      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "6f250adfd9e6",
+      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "b57804da421d",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
       "content/posts/immortality-final.md": "df5d92452896",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "7156edc7d17a",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "4c7ffe5bd650",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "77e5f7c73d29",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -121,7 +121,7 @@
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "ac0fdb212b18",
       "content/posts/moral-language-as-projection.md": "980a9f624f21",
-      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "3db3be1e8677",
+      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "26036d463329",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "9261da00dc72",
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
@@ -152,14 +152,14 @@
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "2fe06aa14edd",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "addbcd06bbe4",
-      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "4973ca726ac2",
+      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "db0acf841a07",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "cde8a526b40c",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
       "content/posts/price-as-utterance-understanding-as-trade.md": "c9662cffea91",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
-      "content/posts/public-spending-does-not-create-capital.md": "7314fd47c0df",
+      "content/posts/public-spending-does-not-create-capital.md": "08cde0d31c3c",
       "content/posts/qian-yin-hou-guo.md": "aadd55425d9e",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
@@ -181,14 +181,14 @@
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "c742acb86d86",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "abcdead636a7",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "c36dbacad84b",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "068bebe4646a",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
-      "content/posts/sowell-observed-the-surface-problem.md": "d1be8ba839c4",
+      "content/posts/sowell-observed-the-surface-problem.md": "1e3867c786b4",
       "content/posts/stability-and-excess.md": "ffa61cd205e2",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "909c9d0b7fac",
       "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "2e63440fe8c1",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "c568de5100d8",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "0728908bdaaa",
       "content/posts/technology-is-residual-of-human-compounding.md": "7590edf067fc",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "75fd0f9205d1",
       "content/posts/the-arithmetic-of-the-register.md": "1c7a77817624",
@@ -209,7 +209,7 @@
       "content/posts/the-category-error-of-better.md": "3720a667e30e",
       "content/posts/the-causal-inversion-of-partnership.md": "3e0b8b306740",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "c57c3511aac6",
-      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "f6a560dde09d",
+      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "c80a6632d8f6",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "6c191f9ad616",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "633ffdcca70d",
@@ -227,7 +227,7 @@
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "19a7586b9418",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "cefee228d49b",
-      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "e45328f52c3e",
+      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "6bed3375defb",
       "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cd6f36ce905c",
@@ -362,7 +362,7 @@
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "686bcbb6a5f7",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e2205554d0d",
-      "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "646ffd034d3d",
+      "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "0b676c49e3f4",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "525b07ca41c4",
       "content/book/economics.md": "f3eee272aa42",
-      "content/book/index-of-premises.md": "304c0319d8a8",
+      "content/book/index-of-premises.md": "4c91fb29c5e0",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "49a199864e1e",
@@ -414,7 +414,7 @@
       "content/book/morality.md": "7228ede8f51f",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "e7dc5b344ba4",
+      "content/book/state-and-collective.md": "edc135bd85be",
       "content/book/success-and-the-self.md": "dea45f4bec49",
       "content/book/tools-and-progress.md": "fb71a7a1a375"
     },
@@ -2041,7 +2041,7 @@
       "slug": "empowerment-establishes-the-centralization-of-power",
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
       "title": "Empowerment Establishes the Centralization of Power",
-      "hash": "2ce7d30710e4",
+      "hash": "a47e6b831b62",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -2764,7 +2764,7 @@
       "slug": "how-to-fix-your-whole-life-in-one-split-second",
       "path": "content/posts/how-to-fix-your-whole-life-in-one-split-second.md",
       "title": "如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second",
-      "hash": "6f250adfd9e6",
+      "hash": "b57804da421d",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -2827,7 +2827,7 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "7156edc7d17a",
+      "hash": "4c7ffe5bd650",
       "in_degree": 100,
       "out_degree": 97,
       "links_out": [
@@ -3380,7 +3380,7 @@
       "slug": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "path": "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md",
       "title": "Moral Language Dilutes the Feedback That Scales Freedom",
-      "hash": "3db3be1e8677",
+      "hash": "26036d463329",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -4189,8 +4189,8 @@
       "kind": "post",
       "slug": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
-      "title": "政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion",
-      "hash": "4973ca726ac2",
+      "title": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion",
+      "hash": "c7ac0530aeff",
       "in_degree": 15,
       "out_degree": 15,
       "links_out": [
@@ -4385,7 +4385,7 @@
       "slug": "public-spending-does-not-create-capital",
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "Public Spending Does Not Create Capital",
-      "hash": "7314fd47c0df",
+      "hash": "08cde0d31c3c",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -4878,7 +4878,7 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "c36dbacad84b",
+      "hash": "068bebe4646a",
       "in_degree": 27,
       "out_degree": 27,
       "links_out": [
@@ -4930,7 +4930,7 @@
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem",
-      "hash": "d1be8ba839c4",
+      "hash": "1e3867c786b4",
       "in_degree": 11,
       "out_degree": 10,
       "links_out": [
@@ -5037,7 +5037,7 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "c568de5100d8",
+      "hash": "0728908bdaaa",
       "in_degree": 32,
       "out_degree": 32,
       "links_out": [
@@ -5613,7 +5613,7 @@
       "slug": "the-causal-order-of-private-residuals-and-social-surplus",
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
-      "hash": "f6a560dde09d",
+      "hash": "c80a6632d8f6",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -5978,7 +5978,7 @@
       "slug": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
-      "hash": "e45328f52c3e",
+      "hash": "6bed3375defb",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -9001,7 +9001,7 @@
       "slug": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "path": "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md",
       "title": "福利国家的幻象 / The Welfare State Illusion",
-      "hash": "646ffd034d3d",
+      "hash": "0b676c49e3f4",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -15892,7 +15892,7 @@
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
@@ -18412,7 +18412,7 @@
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -18934,7 +18934,7 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -20914,7 +20914,7 @@
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -25006,7 +25006,7 @@
       "from": "public-spending-does-not-create-capital",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "public-spending-does-not-create-capital",
@@ -26704,7 +26704,7 @@
       "from": "sovereignty-belief-and-regulatory-structures",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -26884,7 +26884,7 @@
       "from": "sowell-observed-the-surface-problem",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "sowell-observed-the-surface-problem",
@@ -27400,7 +27400,7 @@
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
@@ -29866,7 +29866,7 @@
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
@@ -31654,7 +31654,7 @@
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -44776,7 +44776,7 @@
       "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
@@ -48636,7 +48636,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "304c0319d8a8",
+        "hash": "4c91fb29c5e0",
         "out_degree": 393
       },
       {
@@ -48726,7 +48726,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "e7dc5b344ba4",
+        "hash": "edc135bd85be",
         "out_degree": 30
       },
       {
@@ -49413,7 +49413,7 @@
         "from": "book:index-of-premises",
         "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "rel": "collects",
-        "label": "政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+        "label": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion"
       },
       {
         "from": "book:index-of-premises",
@@ -52809,7 +52809,7 @@
         "from": "book:index-of-premises",
         "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "rel": "collects",
-        "label": "政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+        "label": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion"
       },
       {
         "from": "book:index-of-premises",
@@ -53151,7 +53151,7 @@
         "from": "book:index-of-premises",
         "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "rel": "collects",
-        "label": "政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+        "label": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion"
       },
       {
         "from": "book:index-of-premises",
@@ -54639,7 +54639,7 @@
         "from": "book:state-and-collective",
         "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "rel": "collects",
-        "label": "政客是责任扩散的显性症状 / Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+        "label": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion"
       },
       {
         "from": "book:state-and-collective",
