@@ -3577,11 +3577,11 @@ Legal prohibitions assume a statute physically prevents illicit activity; laws w
 ### 乐观与悲观的钟摆极性 / Optimism-Pessimism Polarity
 `哲学 / Philosophical`
 
-大众心理学将乐观奉为美德、将悲观斥为心障；二者皆是由对未来的僵化期许催生出的投射，拿主观预期作为裁判客观的标尺。
+乐观与悲观的极性预设二者是对等而独立的两种心态，可以被打分，可以扶持一方去压倒另一方，在描述一个时代的情绪分布时有用；它在此到了边界：二者并不对等，区分是运动，被稳住的痕迹是它的阴影，把一方当作要去对抗或治愈的外在之力，就把这份永久的同在当成了一个可以扳倒的封闭跷跷板。
 
-Popular psychology treats optimism as a moral virtue and pessimism as a defect; both are reactive projections that judge reality against a fixed, self-referential timeline.
+The optimism-pessimism polarity presumes two equal, independent moods that can be scored, one backed to overcome the other, which is of use in describing the distribution of mood in an age; it reaches its boundary in that the two are not equal, distinguishing being the movement and the steadied trace its shadow, and treating either as an external force to contest or cure takes their permanent co-presence for a closed see-saw that could be tipped.
 
-→ [Pessimism Is the Shadow of Optimism](../../posts/pessimism-is-the-shadow-of-optimism/) · [阻力体感与速率差 / Felt Resistance and the Speed Differential](../../posts/felt-resistance-and-the-speed-differential/)
+→ [悲观是乐观的阴影 / Pessimism Is the Shadow of Optimism](../../posts/pessimism-is-the-shadow-of-optimism/) · [阻力体感与速率差 / Felt Resistance and the Speed Differential](../../posts/felt-resistance-and-the-speed-differential/)
 
 ### 阅读的推断次序与依赖图谱 / Order of Textual Inference
 `哲学 / Philosophical`

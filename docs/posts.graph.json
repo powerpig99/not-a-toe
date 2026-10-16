@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T19:13:11.464Z",
+    "generated_at": "2026-10-16T19:18:24.897Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -149,7 +149,7 @@
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
       "content/posts/perception-perspective-refined.md": "e05973d21de9",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "951836df1a89",
-      "content/posts/pessimism-is-the-shadow-of-optimism.md": "2fe06aa14edd",
+      "content/posts/pessimism-is-the-shadow-of-optimism.md": "f99960cb528b",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "e21049e90be8",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
@@ -402,9 +402,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "cbe5d03c5250",
-      "content/book/consciousness.md": "848b57babff1",
+      "content/book/consciousness.md": "3e8d9f0c8fc2",
       "content/book/economics.md": "c85b5981f22a",
-      "content/book/index-of-premises.md": "885444ff0020",
+      "content/book/index-of-premises.md": "678e94a1bc62",
       "content/book/intelligence.md": "33d5903fd201",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "29ed3e1c02fc",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6694,
+      "edges": 6713,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -4112,8 +4112,8 @@
       "kind": "post",
       "slug": "pessimism-is-the-shadow-of-optimism",
       "path": "content/posts/pessimism-is-the-shadow-of-optimism.md",
-      "title": "Pessimism Is the Shadow of Optimism",
-      "hash": "2fe06aa14edd",
+      "title": "悲观是乐观的阴影 / Pessimism Is the Shadow of Optimism",
+      "hash": "f99960cb528b",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -24292,139 +24292,253 @@
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Two failures of Trace"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "Fate loves irony"
+      "label": "命运偏爱反讽"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
-    },
-    {
-      "from": "pessimism-is-the-shadow-of-optimism",
-      "to": "individual-choices-as-the-only-causal-levers",
-      "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
-    },
-    {
-      "from": "pessimism-is-the-shadow-of-optimism",
-      "to": "symptom-and-cause-in-the-narratives-of-progress",
-      "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
-    },
-    {
-      "from": "pessimism-is-the-shadow-of-optimism",
-      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
-      "rel": "points_to",
-      "label": "Good and evil are the two sides of the coin and the cut"
-    },
-    {
-      "from": "pessimism-is-the-shadow-of-optimism",
-      "to": "evil-as-the-minds-own-creation",
-      "rel": "points_to",
-      "label": "Evil as the Mind’s own creation"
-    },
-    {
-      "from": "pessimism-is-the-shadow-of-optimism",
-      "to": "the-allocation-of-causal-power-in-validation",
-      "rel": "points_to",
-      "label": "The allocation of causal power in validation"
-    },
-    {
-      "from": "pessimism-is-the-shadow-of-optimism",
-      "to": "what-always-listens-cannot-originate",
-      "rel": "points_to",
-      "label": "What always listens cannot originate"
-    },
-    {
-      "from": "pessimism-is-the-shadow-of-optimism",
-      "to": "intelligence-belongs-only-to-the-mind",
-      "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
-    },
-    {
-      "from": "pessimism-is-the-shadow-of-optimism",
-      "to": "the-npc-impression-is-structural",
-      "rel": "points_to",
-      "label": "The NPC impression is structural"
-    },
-    {
-      "from": "pessimism-is-the-shadow-of-optimism",
-      "to": "only-if-it-is-not-kept-empty",
-      "rel": "points_to",
-      "label": "Only if it is not kept empty"
+      "label": "人口崩溃神话的拆解"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "fate loves irony"
+      "label": "Fate Loves Irony"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "善恶是硬币的两面与那一刀"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "恶是心智自己的造物"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind's Own Creation"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "NPC 印象是结构性的"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC Impression Is Structural"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "只要它不被保持为空"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "Only If It Is Not Kept Empty"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "命运偏爱反讽"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Fate Loves Irony"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
-      "label": "When the effect authors the frame"
+      "label": "当效果主宰了框架的叙事"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "阻力体感与速率差"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
       "to": "felt-resistance-and-the-speed-differential",
       "rel": "points_to",
       "label": "Felt Resistance and the Speed Differential"
-    },
-    {
-      "from": "pessimism-is-the-shadow-of-optimism",
-      "to": "what-always-listens-cannot-originate",
-      "rel": "points_to",
-      "label": "What always listens cannot originate"
-    },
-    {
-      "from": "pessimism-is-the-shadow-of-optimism",
-      "to": "the-allocation-of-causal-power-in-validation",
-      "rel": "points_to",
-      "label": "The allocation of causal power in validation"
     },
     {
       "from": "po-chu-gai-nian-de-jian-yue",
@@ -50046,7 +50160,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "848b57babff1",
+        "hash": "3e8d9f0c8fc2",
         "out_degree": 38
       },
       {
@@ -50064,7 +50178,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "885444ff0020",
+        "hash": "678e94a1bc62",
         "out_degree": 393
       },
       {
@@ -50463,7 +50577,7 @@
         "from": "book:consciousness",
         "to": "pessimism-is-the-shadow-of-optimism",
         "rel": "collects",
-        "label": "Pessimism Is the Shadow of Optimism"
+        "label": "悲观是乐观的阴影 / Pessimism Is the Shadow of Optimism"
       },
       {
         "from": "book:consciousness",
@@ -53577,7 +53691,7 @@
         "from": "book:index-of-premises",
         "to": "pessimism-is-the-shadow-of-optimism",
         "rel": "collects",
-        "label": "Pessimism Is the Shadow of Optimism"
+        "label": "悲观是乐观的阴影 / Pessimism Is the Shadow of Optimism"
       },
       {
         "from": "book:index-of-premises",
