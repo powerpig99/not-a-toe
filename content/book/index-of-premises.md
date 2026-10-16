@@ -2353,9 +2353,9 @@ Presumes diagnosing someone's tastes reveals objective psychological truths abou
 ### 难度是行动的固有属性 / Difficulty as a Property of Action
 `成功学 / Self-Help`
 
-说一件事难，预设难度属于行为本身，作为现行理论下对负荷的事后估计时有用；它在此到了边界：一旦这个评分被用来许可不行动，不行动又被读作难的证据，循环便自我封闭。
+说一件事难，预设难度属于行动本身，作为现行理论下对负荷的事后估计时有用；它在此到了边界：一旦这个评分被用来许可不行动，不行动又被读作难的证据，循环便自我封闭。
 
-Calling a step hard assumes difficulty inheres in the behavior, which is of use as a later estimate of load under the operating theory; it reaches its boundary in that once the score licenses inaction, the inaction reads as evidence of difficulty and the loop seals itself.
+Calling a step hard assumes difficulty inheres in the action, which is of use as a later estimate of load under the operating theory; it reaches its boundary in that once the score is used to license inaction, the inaction reads as evidence of difficulty and the loop seals itself.
 
 → [难度不在行动本身 / Hardness Is Not Inherent in the Action](../../posts/hardness-is-not-inherent-in-the-action/)
 
