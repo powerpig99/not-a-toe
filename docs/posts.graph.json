@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-15T20:44:16.661Z",
+    "generated_at": "2026-10-16T03:41:52.723Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -62,7 +62,7 @@
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "4fdac1ab3e30",
       "content/posts/dimensions-are-projections.md": "74ce8777a33a",
       "content/posts/distillation-compression-agency.md": "60354a08e758",
-      "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "0baa9e7e7b35",
+      "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "97e9d72b02b8",
       "content/posts/e-shi-feng-bi-de-shan.md": "e02379f1e36c",
       "content/posts/efficiency-without-differentiation.md": "3e2aad7ba924",
       "content/posts/emotional-support-as-causal-interference.md": "502e2b0e04b1",
@@ -404,9 +404,9 @@
       "content/book/causality.md": "1a145c6e2e12",
       "content/book/consciousness.md": "525b07ca41c4",
       "content/book/economics.md": "3938b54453ed",
-      "content/book/index-of-premises.md": "ddeb5c2eb044",
+      "content/book/index-of-premises.md": "6cf2ae6ad660",
       "content/book/intelligence.md": "8c71f5cb6226",
-      "content/book/knowledge-and-learning.md": "c519a684d389",
+      "content/book/knowledge-and-learning.md": "209488142ee8",
       "content/book/life-and-statistics.md": "49a199864e1e",
       "content/book/mathematics.md": "8bb7852e7439",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6413,
+      "edges": 6420,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -1953,8 +1953,8 @@
       "kind": "post",
       "slug": "du-zhongwen-zhexue-jianshi-you-gan",
       "path": "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md",
-      "title": "读《中文哲学简史》有感",
-      "hash": "0baa9e7e7b35",
+      "title": "读《中文哲学简史》有感 / Reflections on A Short History of Chinese Philosophy",
+      "hash": "97e9d72b02b8",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -15560,15 +15560,33 @@
     },
     {
       "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "Cause Before, Effect After"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "生命的意义在于草拟，而非向外凝望"
+      "label": "生命的意义在起草之中"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "du-zhongwen-zhexue-jianshi-you-gan",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "我们遗忘的脚手架"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "du-zhongwen-zhexue-jianshi-you-gan",
@@ -15578,21 +15596,45 @@
     },
     {
       "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "du-zhongwen-zhexue-jianshi-you-gan",
       "to": "zuo-jian-bu-shi-zi-fu",
       "rel": "points_to",
-      "label": "作茧是观察到的现象，自缚是对现象的解读"
+      "label": "作茧不是自缚"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "zuo-jian-bu-shi-zi-fu",
+      "rel": "points_to",
+      "label": "Spinning a Cocoon Is Not Binding Oneself"
     },
     {
       "from": "du-zhongwen-zhexue-jianshi-you-gan",
       "to": "the-initial-distinction",
       "rel": "points_to",
       "label": "最初的区分"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "the-initial-distinction",
+      "rel": "points_to",
+      "label": "The Initial Distinction"
     },
     {
       "from": "e-shi-feng-bi-de-shan",
@@ -48378,7 +48420,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ddeb5c2eb044",
+        "hash": "6cf2ae6ad660",
         "out_degree": 393
       },
       {
@@ -48396,7 +48438,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "c519a684d389",
+        "hash": "209488142ee8",
         "out_degree": 33
       },
       {
@@ -49461,7 +49503,7 @@
         "from": "book:index-of-premises",
         "to": "du-zhongwen-zhexue-jianshi-you-gan",
         "rel": "collects",
-        "label": "读《中文哲学简史》有感"
+        "label": "读《中文哲学简史》有感 / Reflections on A Short History of Chinese Philosophy"
       },
       {
         "from": "book:index-of-premises",
@@ -52329,7 +52371,7 @@
         "from": "book:index-of-premises",
         "to": "du-zhongwen-zhexue-jianshi-you-gan",
         "rel": "collects",
-        "label": "读《中文哲学简史》有感"
+        "label": "读《中文哲学简史》有感 / Reflections on A Short History of Chinese Philosophy"
       },
       {
         "from": "book:index-of-premises",
@@ -52515,7 +52557,7 @@
         "from": "book:index-of-premises",
         "to": "du-zhongwen-zhexue-jianshi-you-gan",
         "rel": "collects",
-        "label": "读《中文哲学简史》有感"
+        "label": "读《中文哲学简史》有感 / Reflections on A Short History of Chinese Philosophy"
       },
       {
         "from": "book:index-of-premises",
@@ -53427,7 +53469,7 @@
         "from": "book:knowledge-and-learning",
         "to": "du-zhongwen-zhexue-jianshi-you-gan",
         "rel": "collects",
-        "label": "读《中文哲学简史》有感"
+        "label": "读《中文哲学简史》有感 / Reflections on A Short History of Chinese Philosophy"
       },
       {
         "from": "book:knowledge-and-learning",

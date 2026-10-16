@@ -443,11 +443,11 @@ Mises deduces economics from human action axioms; brilliant for dismantling soci
 ### 路德维希·维特根斯坦 / Ludwig Wittgenstein
 `哲学 / Philosophical`
 
-“哲学问题即语言问题”的立场把语言当作世界；意义产生于意识对语言的解读，语言框架是有用的仪器，却不是判定异同的地基。
+“哲学问题即语言问题”的立场把语言当作世界，在追查概念如何被语言塑形时有用；它在此到了边界：意义产生于意识对语言的解读，语言的框架是有用的仪器，却不是判定异同的地基。
 
-The stance that philosophy's problems are language problems treats language as world; meaning arises in consciousness interpreting language, so the language frame is a useful instrument, not the ground of difference.
+The stance that the problems of philosophy are problems of language treats language as the world, which is of use in tracing how concepts are shaped by language; it reaches its boundary in that meaning arises in consciousness's interpretation of language, so the frame of language is a useful instrument, not the ground for judging what is the same and what differs.
 
-→ [读《中文哲学简史》有感](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
+→ [读《中文哲学简史》有感 / Reflections on A Short History of Chinese Philosophy](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
 
 ### 马丁·海德格尔 / Martin Heidegger
 `哲学 / Philosophical`
@@ -4162,11 +4162,11 @@ Presumes multidimensional life can be ranked on standardized scalar axes; useful
 ### 科学可被全盘公式化 / Science as Fully Formalizable
 `科学 / Scientific`
 
-科学在其前提内可以公式化、模型化；这种完备是对开放现实的封闭建模，在条件之内成立，超出条件则不成立。
+科学在其前提之内可以完全公式化、模型化，这在条件之内做出可靠的推论时有用；它在此到了边界：这种完备是对开放现实的封闭建模，在条件之内成立，超出条件就不成立。
 
-Science can be formalized and modeled within its premises; that completeness is closed modeling of an open reality, so it holds under its conditions and not beyond them.
+Science can be fully formalized and modeled within its premises, which is of use in drawing reliable inferences under its conditions; it reaches its boundary in that this completeness is closed modeling of an open reality, holding under its conditions and not beyond them.
 
-→ [读《中文哲学简史》有感](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
+→ [读《中文哲学简史》有感 / Reflections on A Short History of Chinese Philosophy](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
 
 ### 科学模型即客观实在 / Scientific Models as Objective Reality
 `科学 / Scientific`
@@ -4423,11 +4423,11 @@ Presumes interest rates and yield curves act as sovereign commanders of the econ
 ### 古汉语比现代汉语更适合承载思想 / Superiority of Classical over Modern Chinese for Thought
 `哲学 / Philosophical`
 
-该论点假定语言越经打磨越能可靠承载思想；它有助于精读，而意义仍落在阅读的意识上，而非文字本身。
+该论点假定语言越经打磨越能可靠地承载思想，在精读古典文本时有用；它在此到了边界：意义仍落在阅读的意识上，而不在文字本身。
 
-The thesis assumes a language's polish makes it a more reliable carrier of thought; it serves close reading, while meaning still rests on the reading consciousness rather than on the script.
+The thesis assumes that the more a language is polished the more reliably it carries thought, which is of use in close reading of classical texts; it reaches its boundary in that meaning still rests on the reading consciousness rather than on the script itself.
 
-→ [读《中文哲学简史》有感](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
+→ [读《中文哲学简史》有感 / Reflections on A Short History of Chinese Philosophy](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
 
 ### 监管把关万能幻觉 / Supervisory Oversight Fallacy
 `意识形态 / Ideological`
