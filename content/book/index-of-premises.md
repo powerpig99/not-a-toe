@@ -362,11 +362,11 @@ Fodor took thinking as syntactic operations on symbols in a language of thought 
 ### 约翰·梅纳德·凯恩斯 / John Maynard Keynes
 `经济 / Economic`
 
-凯恩斯将国家干预立为提振总需求的救世方；在危机时刻充当应急止血贴，却把资本消耗与通胀常态化为长期施政惯性。
+凯恩斯预设，在需求不足、资源闲置时，国家支出可以提振总需求，使产出与就业回升，在说明危机中的需求缺口时有用；它在此到了边界：每一次公共支出都先取自私人的产出或对它的未来索取，再分配并不是资本的净增加，回升在它发生的地方，仍追溯到在抽取之后选择剩余机会的那些中心。
 
-Keynes formulated state intervention as the cure for aggregate demand shortfalls; effective as a crisis patch, his doctrine normalizes permanent capital consumption and inflation.
+Keynes presumes that when demand falls short and resources lie idle, state spending can lift aggregate demand and bring output and employment back, which is of use in describing the demand gap in a crisis; it reaches its boundary in that every public outlay is first taken from private output or from future claims on it, reallocation is not a net addition of capital, and recovery, where it occurs, still traces to the centers that elect the remaining opportunity after the extraction.
 
-→ [Public Spending Does Not Create Capital](../../posts/public-spending-does-not-create-capital/)
+→ [公共支出不创造资本 / Public Spending Does Not Create Capital](../../posts/public-spending-does-not-create-capital/)
 
 ### 约翰·斯坦贝克 / John Steinbeck
 `哲学 / Philosophical`
@@ -1091,11 +1091,11 @@ Jevons paradox shows efficiency gains lower unit resource costs and trigger elas
 ### 凯恩斯财政乘数理论 / Keynesian Fiscal Multiplier
 `经济 / Economic`
 
-凯恩斯主义宣扬财政赤字能凭空创造净财富乘数；政府花的每一分钱都预先借由征税或通胀抽取自民间，挪用了实业积累。
+财政乘数预设，一笔公共支出经由一轮轮相继的花费，使收入增加为支出的数倍，在追踪支出如何在经济中传递时有用；它在此到了边界：这笔支出先被从私人手中取走，“投资”的标签把这次再分配记成了一份由私人去放大的新存量，而放大在它发生的地方，仍属于那些承担上行与下行的私人中心，而不属于一个集体的所在。
 
-Keynesian economics asserts state deficits create net capital out of nothing; every government dollar is first extracted via taxation, debt, or debasement, diverting private capital.
+The fiscal multiplier presumes that a public outlay, through successive rounds of spending, raises income by a multiple of itself, which is of use in tracing how spending passes through an economy; it reaches its boundary in that the outlay was first removed from private hands, the investment label scores that reallocation as a new stock for private centers to multiply, and multiplication, where it occurs, still belongs to the private centers that bear upside and downside, not to a collective locus.
 
-→ [Public Spending Does Not Create Capital](../../posts/public-spending-does-not-create-capital/)
+→ [公共支出不创造资本 / Public Spending Does Not Create Capital](../../posts/public-spending-does-not-create-capital/)
 
 ### 自由放任资本主义 / Laissez-faire Capitalism
 `经济 / Economic`

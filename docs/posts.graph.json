@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T20:32:48.130Z",
+    "generated_at": "2026-10-16T20:36:53.557Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -159,7 +159,7 @@
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
       "content/posts/price-as-utterance-understanding-as-trade.md": "c9662cffea91",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
-      "content/posts/public-spending-does-not-create-capital.md": "08cde0d31c3c",
+      "content/posts/public-spending-does-not-create-capital.md": "9365f5f70776",
       "content/posts/qian-yin-hou-guo.md": "6e45c78bfc7c",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
@@ -403,8 +403,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "3e8d9f0c8fc2",
-      "content/book/economics.md": "c93a45c2ca37",
-      "content/book/index-of-premises.md": "9138ac2f9e2a",
+      "content/book/economics.md": "6ae8129cb1f7",
+      "content/book/index-of-premises.md": "a78e410dcce6",
       "content/book/intelligence.md": "33d5903fd201",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6739,
+      "edges": 6755,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -4384,8 +4384,8 @@
       "kind": "post",
       "slug": "public-spending-does-not-create-capital",
       "path": "content/posts/public-spending-does-not-create-capital.md",
-      "title": "Public Spending Does Not Create Capital",
-      "hash": "08cde0d31c3c",
+      "title": "公共支出不创造资本 / Public Spending Does Not Create Capital",
+      "hash": "9365f5f70776",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -25762,49 +25762,109 @@
       "from": "public-spending-does-not-create-capital",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "order-surplus-and-the-moral-intercept",
       "rel": "points_to",
-      "label": "Order, surplus, and the moral intercept"
+      "label": "秩序、剩余与道德拦截"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "the-irreducible-prior-of-decision-and-consequence",
       "rel": "points_to",
-      "label": "The irreducible prior of decision and consequence"
+      "label": "决策与后果的不可约先验"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "福利国家的幻象"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "The Irreducible Prior of Decision and Consequence"
     },
     {
       "from": "public-spending-does-not-create-capital",
@@ -25816,43 +25876,79 @@
       "from": "public-spending-does-not-create-capital",
       "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "rel": "points_to",
-      "label": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency"
+      "label": "The Welfare State Illusion"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "Fate loves irony"
+      "label": "命运偏爱反讽"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
-      "label": "Restriction is a selective tax"
+      "label": "限制是选择性的税"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Fate Loves Irony"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
+      "label": "人口崩溃神话的拆解"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "财富转移政策与价格下限中的原因错置"
     },
     {
       "from": "public-spending-does-not-create-capital",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -50325,7 +50421,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "c93a45c2ca37",
+        "hash": "6ae8129cb1f7",
         "out_degree": 28
       },
       {
@@ -50334,7 +50430,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "9138ac2f9e2a",
+        "hash": "a78e410dcce6",
         "out_degree": 393
       },
       {
@@ -50937,7 +51033,7 @@
         "from": "book:economics",
         "to": "public-spending-does-not-create-capital",
         "rel": "collects",
-        "label": "Public Spending Does Not Create Capital"
+        "label": "公共支出不创造资本 / Public Spending Does Not Create Capital"
       },
       {
         "from": "book:economics",
@@ -51357,7 +51453,7 @@
         "from": "book:index-of-premises",
         "to": "public-spending-does-not-create-capital",
         "rel": "collects",
-        "label": "Public Spending Does Not Create Capital"
+        "label": "公共支出不创造资本 / Public Spending Does Not Create Capital"
       },
       {
         "from": "book:index-of-premises",
@@ -51999,7 +52095,7 @@
         "from": "book:index-of-premises",
         "to": "public-spending-does-not-create-capital",
         "rel": "collects",
-        "label": "Public Spending Does Not Create Capital"
+        "label": "公共支出不创造资本 / Public Spending Does Not Create Capital"
       },
       {
         "from": "book:index-of-premises",
