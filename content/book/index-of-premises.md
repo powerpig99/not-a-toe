@@ -119,9 +119,9 @@ Russell's prescription of world government, approximate economic equality and a 
 ### 卡洛·罗韦利 / Carlo Rovelli
 `哲学 / Philosophical`
 
-罗韦利预设，拒绝心与身之间的二元实体，就足以把意识的难题当作假问题取消，在把二元的种类并入同一个自然之场时有用；它在此到了边界：宣布鸿沟为假，本身就是一个仍在区分的心智作出的报告，这一宣布所倚靠的剩余的开放，正是它要宣布为零的东西。
+罗韦利预设，拒绝了心与身之间的二元实体之后，剩下的难只是一个复杂的自然现象，表征与其寄身之处之间的铰链既不是形而上的鸿沟，也不是解释的鸿沟，一份穷尽的外部说明并未被证明不可能，这在把二元的种类并入同一个自然之场、把科学知识看作有视角的时有用；它在此到了边界：那道铰链正是注视登记自身的那一步之差，任何说明都装不进给出它的那个动作。
 
-Rovelli presumes that refusing dual substance between mind and body is enough to cancel the hard problem of consciousness as a false problem, which is of use in collapsing dual kinds into one field of nature; it reaches its boundary in that declaring the gap false is itself a report made by a mind still distinguishing, and the residual openness the declaration leans on is what it would declare to be zero.
+Rovelli presumes that once dual substance between mind and body is refused, what remains hard is only a complicated natural phenomenon, that the hinge between a representation and where it is embodied is neither a metaphysical nor an explanatory gap, and that no exhaustive external account has been shown impossible, which is of use in joining dual kinds into one field of nature and in taking scientific knowledge as perspectival; it reaches its boundary in that the hinge is the one-step lag by which the look registers, and no account can contain the act that gives it.
 
 → [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/)
 
