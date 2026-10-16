@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T20:10:06.153Z",
+    "generated_at": "2026-10-16T20:14:12.200Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -146,7 +146,7 @@
       "content/posts/order-surplus-and-the-moral-intercept.md": "6af5409d3970",
       "content/posts/overfitting-as-the-follower-mode.md": "c2ebb1c4e1e2",
       "content/posts/ownership-and-self-worthiness.md": "f5ec65e92962",
-      "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
+      "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "30e2096e9a10",
       "content/posts/perception-perspective-refined.md": "e05973d21de9",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "951836df1a89",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "617f2e3f8622",
@@ -403,8 +403,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "3e8d9f0c8fc2",
-      "content/book/economics.md": "c85b5981f22a",
-      "content/book/index-of-premises.md": "eab98a0f5604",
+      "content/book/economics.md": "c93a45c2ca37",
+      "content/book/index-of-premises.md": "9138ac2f9e2a",
       "content/book/intelligence.md": "33d5903fd201",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6730,
+      "edges": 6739,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -4045,8 +4045,8 @@
       "kind": "post",
       "slug": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "path": "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md",
-      "title": "Ownership Cost Freezes Lagged Averages as Vehicle Property",
-      "hash": "63eb32d51c22",
+      "title": "拥有成本把滞后的平均值冻结为车辆属性 / Ownership Cost Freezes Lagged Averages as Vehicle Property",
+      "hash": "30e2096e9a10",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -24106,55 +24106,109 @@
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "rel": "points_to",
-      "label": "The hours ranking freezes adequacy as one scoreboard"
+      "label": "工时排名把充足度冻结成一张记分牌"
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+      "rel": "points_to",
+      "label": "The Hours Ranking Freezes Adequacy as One Scoreboard"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
+      "label": "现实扭曲力场颠倒了基线"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local; Intelligence Is Allocated"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
-      "label": "What works is the belief"
+      "label": "起作用的是信念"
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
-      "label": "When need stops being the measure"
+      "label": "当被需要不再是衡量"
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "专家经验作为参考而非替代"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "when-need-stops-being-the-measure",
+      "rel": "points_to",
+      "label": "When Need Stops Being the Measure"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
     },
     {
       "from": "perception-perspective-refined",
@@ -50271,7 +50325,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "c85b5981f22a",
+        "hash": "c93a45c2ca37",
         "out_degree": 28
       },
       {
@@ -50280,7 +50334,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "eab98a0f5604",
+        "hash": "9138ac2f9e2a",
         "out_degree": 393
       },
       {
@@ -50889,7 +50943,7 @@
         "from": "book:economics",
         "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "rel": "collects",
-        "label": "Ownership Cost Freezes Lagged Averages as Vehicle Property"
+        "label": "拥有成本把滞后的平均值冻结为车辆属性 / Ownership Cost Freezes Lagged Averages as Vehicle Property"
       },
       {
         "from": "book:economics",
@@ -52473,7 +52527,7 @@
         "from": "book:index-of-premises",
         "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "rel": "collects",
-        "label": "Ownership Cost Freezes Lagged Averages as Vehicle Property"
+        "label": "拥有成本把滞后的平均值冻结为车辆属性 / Ownership Cost Freezes Lagged Averages as Vehicle Property"
       },
       {
         "from": "book:index-of-premises",

@@ -1705,11 +1705,11 @@ Confusing actual and potential infinity treats infinity as a completed object; p
 ### 精算滞后均值定价谬误 / Actuarial Lagged Average Pricing
 `经济 / Economic`
 
-保险精算常把高昂赔付归咎为特定车型的固有属性；保费定价反映的只是滞后的理赔大数据均值，跟不上驾驶人结构的变化。
+以平均值定价的说法预设，传统保费与修理成本反映的是车辆固定的、与知识无关的属性，在没有更细数据时为一个同类群体估计预期理赔有用；它在此到了边界：同一辆车在测得的使用之下报价更低，保费差距的很大一部分就是频率数据被纳入得慢，而碰撞中的生存这类无法定价的剩余，从未进入这块记分牌。
 
-Insurance pricing treats repair costs as intrinsic vehicle properties; premium calculations reflect backward-looking claims averages, failing to account for shifting driver cohorts.
+Pricing by lagged averages presumes that traditional premiums and repair costs reflect fixed, knowledge-independent properties of the vehicle, which is of use in estimating expected claims for a cohort when finer data are absent; it reaches its boundary in that the same car prices lower under measured usage, so much of the premium gap is slower incorporation of frequency data, while unpriceable residuals such as survival in a severe crash never enter the scoreboard.
 
-→ [Ownership Cost Freezes Lagged Averages as Vehicle Property](../../posts/ownership-cost-freezes-lagged-averages-as-vehicle-property/)
+→ [拥有成本把滞后的平均值冻结为车辆属性 / Ownership Cost Freezes Lagged Averages as Vehicle Property](../../posts/ownership-cost-freezes-lagged-averages-as-vehicle-property/)
 
 ### 青春期大脑缺陷论 / Adolescent Brain as Defect
 `科学 / Scientific`

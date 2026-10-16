@@ -23,7 +23,7 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 - [Having More Is Never the Cause](../../posts/having-more-is-never-the-cause/)
 - [Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/)
 - [Public Spending Does Not Create Capital](../../posts/public-spending-does-not-create-capital/)
-- [Ownership Cost Freezes Lagged Averages as Vehicle Property](../../posts/ownership-cost-freezes-lagged-averages-as-vehicle-property/)
+- [拥有成本把滞后的平均值冻结为车辆属性 / Ownership Cost Freezes Lagged Averages as Vehicle Property](../../posts/ownership-cost-freezes-lagged-averages-as-vehicle-property/)
 - [理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin](../../posts/the-rational-choice-postulate-is-the-original-sin/)
 - [财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)
 - [工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
