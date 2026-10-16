@@ -3295,14 +3295,23 @@ The view that mastering formal models extends agency is of use in encouraging st
 
 → [能动性被转置入形式模型 / Agency Relocated into the Formal Model](../../posts/agency-relocated-into-the-formal-model/)
 
-### 物质基底的重力锚定 / Material Substrate Anchoring
+### 被骗得会思考的沙子 / Sand Tricked into Thinking
 `哲学 / Philosophical`
 
-数字飞升派幻想着软件终将超脱肉体凡胎；再高深的智能也必须依托光刻硅晶运转，受制于散热与能量守恒的坚固引力。
+“不过是被骗得会思考的沙子”预设，思考已经发生在基底里，而成就可以从外部被叫作一次完成了的操纵，在提醒人这些系统由硅这样的材料承载时有用；它在此到了边界：沙子不思考，是心智经由它思考，把思考派给沙子倒转了因果，而作出这一判断的中心又暗中把更高的思考留给了自己。
 
-Digital uploaders imagine software can transcend physical reality; the most abstract intelligence operates strictly through lithographed silicon sand constrained by thermodynamics.
+"Just sand tricked into thinking" presumes that thinking now occurs in the substrate and that the achievement can be named from outside as a finished manipulation, which is of use in recalling that these systems are hosted by materials such as silicon; it reaches its boundary in that sand does not think, the Mind thinks through it, assigning thinking to sand reverses the causal relation, and the center making the judgment quietly keeps superior thinking for itself.
 
-→ [Climbing Does Not Leave the Ground](../../posts/climbing-does-not-leave-the-ground/)
+→ [攀登从未离开地面 / Climbing Does Not Leave the Ground](../../posts/climbing-does-not-leave-the-ground/)
+
+### AI 的断裂叙事 / The AI Discontinuity Narrative
+`技术 / Technological`
+
+断裂叙事预设，能力的上升证明一个不再依赖产生它之条件的独立心智已经到来，在追踪能力确实在扩展时有用；它在此到了边界：这些系统仍与设计、训练、维持它们的智能连续，执行上的自主让工具变密，却不装上第二个心智，攀登从未离开竖起每一层的地面。
+
+The discontinuity narrative presumes that rising capability shows an independent mind has arrived that no longer depends on the conditions that produced it, which is of use in tracking that capabilities do expand; it reaches its boundary in that these systems remain continuous with the intelligence that designs, trains, and sustains them, autonomy of execution densifies the instrument without installing a second Mind, and the climb never leaves the ground that erects every layer.
+
+→ [攀登从未离开地面 / Climbing Does Not Leave the Ground](../../posts/climbing-does-not-leave-the-ground/)
 
 ### 理解的数学非对称性 / Mathematical Asymmetry of Misunderstanding
 `哲学 / Philosophical`

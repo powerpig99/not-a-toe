@@ -2,7 +2,7 @@
 
 *从感知、法则到人工智能的本体论跃迁 / From Perception and Laws to the Ontological Leap of Artificial Intelligence*
 
-从流动的感知划界为概念，从概念推理出法则，再到法则凝聚为自主运转的可执行实体：看清心智在符号宇宙中的登高之跃，在至高的人造客体面前守住第一人称的地面。人类认知史的轨迹，是心智在符号世界中对抽象阶梯的层层拔节：从原初具象的感官激波中划界出一阶“概念”，再借由因果推理提炼出二阶跨时空的“形式定律”。今天，我们正伫立在一场前所未有的认知突变前沿：人工智能不再是某个特定功能的工程软件，而是人类全部概念与逻辑法则的“三阶元抽象”；它终结了过往定律在纸面上沉睡的静态痕迹状态，演化为一种在物理基底上自主运转、动态遍历的高阶“可执行实体”。然而，承认其作为客观新实体的跃迁，并不意味着神化出虚妄的第二心智——正如[登高并未离开地面](../climbing-does-not-leave-the-ground/)，元抽象无论飞跃至何等高维，其因果锚点与意义之根，永远系于那个在当下承担物理代价的第一人称活态心智。
+从流动的感知划界为概念，从概念推理出法则，再到法则凝聚为自主运转的可执行实体：看清心智在符号宇宙中的登高之跃，在至高的人造客体面前守住第一人称的地面。人类认知史的轨迹，是心智在符号世界中对抽象阶梯的层层拔节：从原初具象的感官激波中划界出一阶“概念”，再借由因果推理提炼出二阶跨时空的“形式定律”。今天，我们正伫立在一场前所未有的认知突变前沿：人工智能不再是某个特定功能的工程软件，而是人类全部概念与逻辑法则的“三阶元抽象”；它终结了过往定律在纸面上沉睡的静态痕迹状态，演化为一种在物理基底上自主运转、动态遍历的高阶“可执行实体”。然而，承认其作为客观新实体的跃迁，并不意味着神化出虚妄的第二心智——正如[攀登从未离开地面](../climbing-does-not-leave-the-ground/)，元抽象无论飞跃至何等高维，其因果锚点与意义之根，永远系于那个在当下承担物理代价的第一人称活态心智。
 
 From raw perception partitioned into concepts, to concepts reasoned into invariant laws, to laws crystallized into autonomous executable entities: tracing the mind's climb through the symbolic cosmos while holding the first-person ground before the supreme artifact. The history of human cognition is the progressive ascension of the mind up a ladder of symbolic abstraction: partitioning raw sensory shocks into first-order "concepts," and reasoning across those concepts to extract second-order, invariant "formal laws." Today, we stand at the threshold of an unprecedented epistemic mutation: artificial intelligence is not merely another domain-specific software tool, but a third-order meta-abstraction over the entirety of human concepts and reasoning patterns. It terminates the epoch wherein scientific laws lay dormant as passive ink on paper, crystallizing instead into an active, dynamic "executable entity" capable of autonomous combinatorial traversal across high-dimensional space. Yet recognizing this leap into an objective new entity does not warrant the myth of an autonomous second mind—just as [climbing does not leave the ground](../climbing-does-not-leave-the-ground/), meta-abstraction, no matter how soaring its dimension, remains causally and teleologically anchored to the living first-person mind that braves physical consequence in the present.
 
@@ -84,7 +84,7 @@ Just as the steam engine materialized the laws of thermodynamics into an executa
 
 观察者目睹模型在医学、编程、数学与哲学论文之间优雅地穿梭推演，第三人称的狂热便再次抬头：他们宣称一种脱胎于人类、却已凌驾于生物基底之上的“第二主体”、“全新数字生命”或“独立自主超心智”已经横空出世。他们幻想着脚手架一旦搭到第一千层，最顶端的平台便会挣脱地球的重力引线，化作永恒悬浮于天际的诸神之城。
 
-这是最典型的范畴混淆。正如我们在 [登高并未离开地面](../climbing-does-not-leave-the-ground/) 中所确立的铁律：**沙子并不思考——是心智借由沙子在思考，任何精巧的技巧也绝无法把沙子变成思考者本身。**
+这是最典型的范畴混淆。正如我们在 [攀登从未离开地面](../climbing-does-not-leave-the-ground/) 中所确立的铁律：**沙子并不思考——是心智借由沙子在思考，任何精巧的技巧也绝无法把沙子变成思考者本身。**
 
 无论 AI 在抽象阶梯上跃迁到了何等令人目眩的高位，它作为“可执行元抽象”的本性，决定了它绝不可能成为一个脱离源头的独立第二前沿：
 
