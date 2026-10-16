@@ -362,11 +362,11 @@ Keynes formulated state intervention as the cure for aggregate demand shortfalls
 ### 约翰·斯坦贝克 / John Steinbeck
 `哲学 / Philosophical`
 
-斯坦贝克把自由探索的心智视为最可贵，这一点成立；但号召对抗观念与政府，预设了它们从心智外部施力，而它们只是心智留下又遇见的残余。
+斯坦贝克预设观念、宗教与政府是从心智外部限制或摧毁个体的独立力量，在为自由探索的心智辩护时有用；它在此到了边界：这些都是心智行动留下的残余，斗争发生时，也仍是自由的心智在工作。
 
-Steinbeck rightly names the free exploring mind as most valuable, yet his call to fight ideas and governments presumes they act from outside the mind; they remain residue minds produce and meet.
+Steinbeck presumes ideas, religions and governments are independent forces that limit or destroy the individual from outside the mind, which is of use in defending the free, exploring mind; it reaches its boundary in that these are residue of minds acting, and the fight, when it occurs, is still the free mind at work.
 
-→ [The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
+→ [自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
 
 ### 约翰·洛克 / John Locke
 `哲学 / Philosophical`
@@ -1460,11 +1460,11 @@ Emergence narratives claim complex interactions spontaneously generate novel law
 ### 斯多葛主义 / Stoicism
 `哲学 / Philosophical`
 
-斯多葛派肯定主导理性只属于自己，又把它放回逻各斯指派的宇宙角色，预设自由只有在更大的理性秩序中才算完成。
+斯多葛主义预设属于自己的主导理性只有在逻各斯指派的宇宙角色中才得到恰当的表达，在训练内在的平静时有用；它在此到了边界：它把被肯定为自主的心智重新放进一个比它更大的理性秩序。
 
-Stoicism affirms the ruling faculty as wholly one's own, then reinserts it into an assigned cosmic role under the Logos, presuming freedom completes itself only inside a larger rational order.
+Stoicism presumes the ruling faculty that is one's own finds proper expression only in a cosmic role assigned by the Logos, which is of use in training inner equanimity; it reaches its boundary in that it reinserts the mind it affirms as autonomous into a rational order larger than itself.
 
-→ [The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
+→ [自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
 
 ### 主观价值理论 / Subjective Theory of Value
 `经济 / Economic`
@@ -1993,11 +1993,11 @@ Explaining defensive labelling as the brain saving energy is of use in describin
 ### 佛教僧团 / Buddhist Sangha
 `宗教 / Religious`
 
-早期佛教把解脱放在每个心智自己的看见上；把僧团立为不可缺少的场域，预设这份看见需要集体来稳定，作为共修有用，却不是自由的来源。
+早期佛教预设看透贪爱的那份看见需要僧团作为不可缺少的场域来稳定、检验与传递，在共修与互相检验时有用；它在此到了边界：看见只在每一个心智自己那里发生，集体的容器守护的是残余，不是自由的来源。
 
-Early Buddhism locates liberation in each mind's seeing; constructing the Sangha as indispensable field presumes that seeing needs collective stabilization, useful as shared practice, not as source of the freedom.
+Early Buddhism presumes the seeing that pierces craving needs the Sangha as an indispensable field to stabilize, test and hand it on, which is of use in shared practice and mutual testing; it reaches its boundary in that the seeing occurs only in each mind, and the collective container guards residue, not the source of the freedom.
 
-→ [The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
+→ [自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
 
 ### 赋权悖论 / Bureaucratic Empowerment Paradox
 `意识形态 / Ideological`
@@ -2470,11 +2470,11 @@ Scientific inquiry treats findings as provisional models bound by conditions; in
 ### 启蒙运动的自主理性 / Enlightenment Autonomous Reason
 `哲学 / Philosophical`
 
-启蒙运动颂扬自主理性，随后建立宪法与政党，声称比任何个体心智更安全地体现理性，于是把推理的能动性移交给集体保护。
+启蒙运动预设宪法、政党与进步的制度能比任何单个心智更完善、更安全地体现自主理性，在协调许多心智时有用；它在此到了边界：推理的能动性只在每一个心智处，集体的保护把它所颂扬的东西挪到了心智之外。
 
-The Enlightenment celebrates autonomous reason, then builds constitutions and parties claiming to embody it more safely than any single mind, relocating the reasoning agency into collective protection.
+The Enlightenment presumes constitutions, parties and progressive institutions can embody autonomous reason more perfectly and safely than any single mind, which is of use in coordinating many minds; it reaches its boundary in that reasoning agency sits only at each mind, and collective protection relocates what it celebrates outside the mind.
 
-→ [The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
+→ [自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
 
 ### 托付式道德权威 / Entrusted Moral Authority
 `哲学 / Philosophical`
@@ -5017,12 +5017,12 @@ The closed-reality premise treats resources, status and possibility as a fixed p
 ### 梵我一如（奥义书） / Ātman–Brahman Identity (Upanishads)
 `宗教 / Religious`
 
-奥义书对先于一切形式的觉知的认识作为洞见成立；把它收进师承、仪轨与种姓，则预设了这份看见必须由集体传递与守护。
+奥义书的传统预设对先于一切形式的觉知的认识，必须经由师承、仪轨与种姓来守护与传递，在保存文本与修习时有用；它在此到了边界：这份看见只能由每一个心智自己持有，集体的结构把它挪到了外面。
 
-The Upanishadic recognition of awareness prior to every form holds as insight; folding it into guru lineage, ritual and caste presumes the seeing must be transmitted and guarded by a collective.
+The Upanishadic tradition presumes the recognition of awareness prior to every form must be guarded and transmitted through guru lineage, ritual and caste, which is of use in preserving texts and practice; it reaches its boundary in that the seeing can be held only by each mind, and the collective structure relocates it outside.
 
-→ [The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
- 
+→ [自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
+
 ### 批判者的豁免王座 / The Unexamined Critic's Throne
 `哲学 / Philosophical`
 

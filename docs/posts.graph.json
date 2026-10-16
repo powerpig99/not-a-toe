@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T17:58:50.337Z",
+    "generated_at": "2026-10-16T18:03:23.501Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -115,7 +115,7 @@
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "753fa98ec858",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "510fcc57912f",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "8020a2eef85f",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "3253deb787d2",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
@@ -240,9 +240,9 @@
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "e8672622b459",
       "content/posts/the-flywheel-of-the-mind.md": "41c27a04120a",
-      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "0e9ae35c80ce",
+      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "6d5b630b2c56",
       "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
-      "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "2dd6dcb1b0ac",
+      "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "e396b0e1e8f3",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "f90a8819ab4e",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "0cb0a4998c97",
@@ -404,12 +404,12 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "e4239f54f478",
       "content/book/economics.md": "e033239d4d7b",
-      "content/book/index-of-premises.md": "90c806b59306",
+      "content/book/index-of-premises.md": "06c96fe4f688",
       "content/book/intelligence.md": "33d5903fd201",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "29ed3e1c02fc",
       "content/book/mathematics.md": "9aa5763e8276",
-      "content/book/meaning-and-transcendence.md": "57911cc9b326",
+      "content/book/meaning-and-transcendence.md": "be7ba296cb80",
       "content/book/method.md": "d52dd5b06929",
       "content/book/morality.md": "3b6c3249cdb9",
       "content/book/physics.md": "26d82e9eb69f",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6652,
+      "edges": 6660,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -3215,7 +3215,7 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "510fcc57912f",
+      "hash": "8020a2eef85f",
       "in_degree": 43,
       "out_degree": 43,
       "links_out": [
@@ -6291,7 +6291,7 @@
       "slug": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "path": "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md",
       "title": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates",
-      "hash": "0e9ae35c80ce",
+      "hash": "6d5b630b2c56",
       "in_degree": 4,
       "out_degree": 9,
       "links_out": [
@@ -6328,8 +6328,8 @@
       "kind": "post",
       "slug": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "path": "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md",
-      "title": "The Free Mind Is Displaced by What Claims to Protect It",
-      "hash": "2dd6dcb1b0ac",
+      "title": "自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It",
+      "hash": "e396b0e1e8f3",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -20920,7 +20920,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "rel": "points_to",
-      "label": "自由的心智被声称保护它的事物所置换"
+      "label": "自由的心智被声称保护它的东西取代"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -34216,7 +34216,7 @@
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "rel": "points_to",
-      "label": "自由的心智被它声称保护之物所置换"
+      "label": "自由的心智被声称保护它的东西取代"
     },
     {
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
@@ -34288,31 +34288,79 @@
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "to": "the-generative-topology-of-free-variables",
       "rel": "points_to",
-      "label": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence"
+      "label": "自由变量的生成拓扑"
+    },
+    {
+      "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "The Generative Topology of Free Variables"
     },
     {
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "普度众生，是没收回的分别心，是放不下的执念"
     },
     {
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "解放的话术始于对囚禁的定义"
     },
     {
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
+    },
+    {
+      "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
+    },
+    {
+      "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
     },
     {
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
+    },
+    {
+      "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
+    },
+    {
+      "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "开悟的相与门槛的倒置"
+    },
+    {
+      "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "福利国家的幻象"
     },
     {
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
@@ -34324,13 +34372,13 @@
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "Residual Individualism"
     },
     {
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "rel": "points_to",
-      "label": "The Welfare State Illusion: Cost Diffusion, Moral Amplification, and the Atrophy of Agency"
+      "label": "The Welfare State Illusion"
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -49812,7 +49860,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "90c806b59306",
+        "hash": "06c96fe4f688",
         "out_degree": 393
       },
       {
@@ -49857,7 +49905,7 @@
         "slug": "meaning-and-transcendence",
         "path": "content/book/meaning-and-transcendence.md",
         "title": "意义追寻与超越之境 / The Search for Meaning and Transcendence",
-        "hash": "57911cc9b326",
+        "hash": "be7ba296cb80",
         "out_degree": 13
       },
       {
@@ -50835,7 +50883,7 @@
         "from": "book:index-of-premises",
         "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "rel": "collects",
-        "label": "The Free Mind Is Displaced by What Claims to Protect It"
+        "label": "自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It"
       },
       {
         "from": "book:index-of-premises",
@@ -51813,7 +51861,7 @@
         "from": "book:index-of-premises",
         "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "rel": "collects",
-        "label": "The Free Mind Is Displaced by What Claims to Protect It"
+        "label": "自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It"
       },
       {
         "from": "book:index-of-premises",
@@ -52221,7 +52269,7 @@
         "from": "book:index-of-premises",
         "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "rel": "collects",
-        "label": "The Free Mind Is Displaced by What Claims to Protect It"
+        "label": "自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It"
       },
       {
         "from": "book:index-of-premises",
@@ -52551,7 +52599,7 @@
         "from": "book:index-of-premises",
         "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "rel": "collects",
-        "label": "The Free Mind Is Displaced by What Claims to Protect It"
+        "label": "自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It"
       },
       {
         "from": "book:index-of-premises",
@@ -54375,7 +54423,7 @@
         "from": "book:index-of-premises",
         "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "rel": "collects",
-        "label": "The Free Mind Is Displaced by What Claims to Protect It"
+        "label": "自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It"
       },
       {
         "from": "book:index-of-premises",
@@ -55203,7 +55251,7 @@
         "from": "book:meaning-and-transcendence",
         "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "rel": "collects",
-        "label": "The Free Mind Is Displaced by What Claims to Protect It"
+        "label": "自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It"
       },
       {
         "from": "book:meaning-and-transcendence",
