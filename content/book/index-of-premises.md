@@ -753,7 +753,7 @@ The Great Filter hypothesis posits one or more extraordinarily improbable evolut
 
 Behavioral economics adds departures such as loss aversion and probability weighting, and environments, as revisions to the rational-choice apparatus, which is of use in densifying the reconstruction of past choices; it reaches its boundary in that the prior is conditioned and never challenged, keeping the core premise that a shared formal apparatus grounds choice, so the portable calculus still stands as the description of agency.
 
-→ [The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories](../../posts/the-rational-choice-postulate-is-the-original-sin/) · [理性从不跨越心智 / Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
+→ [理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin](../../posts/the-rational-choice-postulate-is-the-original-sin/) · [理性从不跨越心智 / Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
 
 ### 生物基因决定论 / Biological Determinism
 `科学 / Scientific`
@@ -1352,11 +1352,11 @@ Economic narratives assume production serves survival needs; once basic goods re
 ### 理性选择理论 / Rational Choice Theory
 `经济 / Economic`
 
-理性选择理论假定偏好结构足够一致、足够共享，可以支撑加总与均衡；私人且变动的前提给不出这种稳定，所以它解释过去很强，预测未来很弱。
+理性选择理论预设偏好结构足够一致、足够共享，可以为加总、均衡与政策处方奠基，在对已发生的选择作事后重构时有用；它在此到了边界：私人且变动的前提给不出这种一致与稳定，于是它解释过去很强，预见未来很弱。
 
-Rational choice assumes consistent, shared enough preference structures to license aggregation and equilibrium; private shifting premises cannot supply that stability, so the postulate fits the past well yet travels poorly forward.
+Rational choice theory presumes preference structures consistent and shared enough to ground aggregation, equilibrium and policy prescription, which is of use in reconstructing choices already made; it reaches its boundary in that private, shifting premises cannot supply that consistency and stability, so it fits the past well and foresees poorly.
 
-→ [The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories](../../posts/the-rational-choice-postulate-is-the-original-sin/)
+→ [理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin](../../posts/the-rational-choice-postulate-is-the-original-sin/)
 
 ### 强化学习 / Reinforcement Learning (RL)
 `技术 / Technological`
@@ -4045,11 +4045,11 @@ A line at 50 percent of median income presumes comparability across countries, w
 ### 代表性行为人与平均化 / Representative Agent and Averaging
 `经济 / Economic`
 
-平均化预设均值偏好可以充当自变量；它只是集体症状除以人数，作为概括有用，却抵消了推动变化的那些差异。
+平均化预设均值偏好或均值反应可以充当生成模式的自变量，在概括已发生的总量时有用；它在此到了边界：均值只是集体症状除以人数，它抵消掉的差异，正是推动变化的那些差异。
 
-Averaging presumes a mean preference can stand as independent variable; it is the collective symptom divided by headcount, useful as summary while cancelling the differences that drive change.
+Averaging presumes a mean preference or mean response can stand as the independent variable that generates the pattern, which is of use in summarizing totals already produced; it reaches its boundary in that the mean is the collective symptom divided by headcount, and the differences it cancels are the ones that drive change.
 
-→ [The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories](../../posts/the-rational-choice-postulate-is-the-original-sin/)
+→ [理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin](../../posts/the-rational-choice-postulate-is-the-original-sin/)
 
 ### 底层所有权即控制 / Substrate Ownership as Control
 `技术 / Technological`
