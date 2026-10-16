@@ -49,7 +49,7 @@ flowchart TD
     style M1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Fourth is the illusion of hindsight: finding the one who opened the way already firmly at the centre of the new territory, latecomers invent a backward-looking teleological story: "the one who opened the way had inside knowledge, understood the rigged rules and cut the line." [Theories After Success, Mistaken for Theories Leading to Success](../cheng-gong-xue/) recognises exactly this cognitive inversion: polishing principles from survivors after the fact and taking post-hoc rationalisation for the engine that opened the terrain.
+Fourth is the illusion of hindsight: finding the one who opened the way already firmly at the centre of the new territory, latecomers invent a backward-looking teleological story: "the one who opened the way had inside knowledge, understood the rigged rules and cut the line." [Theories After Success](../cheng-gong-xue/) recognises exactly this cognitive inversion: polishing principles from survivors after the fact and taking post-hoc rationalisation for the engine that opened the terrain.
 
 ```mermaid
 flowchart TD

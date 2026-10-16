@@ -533,11 +533,11 @@ Spencer-Brown's Laws of Form established that every formal universe originates i
 ### 瑞·达利欧 / Ray Dalio
 `成功学 / Self-Help`
 
-达利欧的《原则》假定流程与创意择优驱动结果；它事后贴合桥水的历史，作为机构化编码有用，早期优势却来自这套教条无法迁移的判断力。
+达利欧的《原则》假定流程与创意择优驱动结果，作为机构化的编码有用；它在此到了边界：它在事后贴合桥水的历史，而早期的优势来自这套教条无法迁移的判断力。
 
-Dalio's Principles assume process and idea meritocracy drive results; they fit Bridgewater's record retrospectively, useful as institutional codification, while early edge came from judgment the doctrine cannot transfer.
+Dalio’s Principles assume process and idea meritocracy drive results, which is of use as institutional codification; it reaches its boundary in that they fit Bridgewater’s record in hindsight, while the early edge came from judgment the doctrine cannot transfer.
 
-→ [成功学: Theories After Success, Mistaken for Theories Leading to Success](../../posts/cheng-gong-xue/)
+→ [成功学 / Theories After Success](../../posts/cheng-gong-xue/)
 
 ### 雷·库兹韦尔 / Ray Kurzweil
 `技术 / Technological`
@@ -4396,11 +4396,11 @@ The solipsistic NPC trope views others as unthinking automatons; this illusion a
 ### 成功学 / Success Literature (成功学)
 `成功学 / Self-Help`
 
-成功学假定幸存者的原则能产生未来的成功；它在结果之后被整理，解释既成卓越很到位，流通为身份标记，却说不出如何更新前沿。
+成功学假定幸存者的原则能产生未来的成功，在说明已经完成的卓越时有用；它在此到了边界：它在结果之后被整理，作为身份标记流通，却说不出如何让前沿重新生成。
 
-Success literature assumes survivors' principles can generate future success; formalized after outcomes, it explains existing excellence well, travels as status, and stays silent on renewing the edge.
+Success literature assumes survivors’ principles can generate future success, which is of use in explaining excellence already achieved; it reaches its boundary in that it is formalized after the outcome, travels as a status marker, and stays silent on renewing the edge.
 
-→ [成功学: Theories After Success, Mistaken for Theories Leading to Success](../../posts/cheng-gong-xue/) · [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/)
+→ [成功学 / Theories After Success](../../posts/cheng-gong-xue/) · [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/)
 
 ### 共情的能力倒错与自毁陷阱 / Suicidal Empathy Inversion
 `哲学 / Philosophical`

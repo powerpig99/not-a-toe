@@ -52,7 +52,7 @@ In the end, every success is a success of decision. And that decision is not a o
 
 这会造成双重陷阱。对当事人自己：即使是当时做出决策的人，事后也容易被节点吸引，开始相信“因为做了X，所以成功了”。一旦形成这种错误归因，后续决策质量就会下降，他们会过度复制那个节点，而不是继续保持开放迭代的判断方式。很多曾经成功者后来失速，正是踩进这个坑。[成功学](../cheng-gong-xue/)是同一种滞后被做成可迁移原则的那一面：事后把已成的结果整理成引擎。
 
-This sets a double trap. For the people involved: even those who made the decisions at the time are easily drawn to the node afterward and come to believe "it worked because X was done." Once that wrong attribution forms, the quality of later decisions falls; they over-copy the node instead of keeping an open, iterating way of judging. Many who once succeeded and later stalled fell into exactly this pit. [Theories After Success, Mistaken for Theories Leading to Success](../cheng-gong-xue/) is the face where the same lag is made into transferable principle: finished results arranged afterward into an engine.
+This sets a double trap. For the people involved: even those who made the decisions at the time are easily drawn to the node afterward and come to believe "it worked because X was done." Once that wrong attribution forms, the quality of later decisions falls; they over-copy the node instead of keeping an open, iterating way of judging. Many who once succeeded and later stalled fell into exactly this pit. [Theories After Success](../cheng-gong-xue/) is the face where the same lag is made into transferable principle: finished results arranged afterward into an engine.
 
 对旁观者：他们看不到过程中的大量试错与微调，只看到最终留下的节点，因此更容易把成功简化成“抓住了某个机会”。
 

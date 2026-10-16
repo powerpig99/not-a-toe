@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T10:19:16.211Z",
+    "generated_at": "2026-10-16T11:31:21.808Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -27,11 +27,11 @@
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "342aa576dd67",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
-      "content/posts/causality-all-the-way.md": "8c58bfbb394c",
+      "content/posts/causality-all-the-way.md": "b30f3ca08d48",
       "content/posts/causality-and-the-irreducible-prior.md": "2a037b747d53",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "01422703e001",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "24fe759f57fc",
-      "content/posts/cheng-gong-xue.md": "5d01ae688bd0",
+      "content/posts/cheng-gong-xue.md": "0dfd904097af",
       "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "24157a13530f",
@@ -73,7 +73,7 @@
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
       "content/posts/evil-as-the-minds-own-creation.md": "a9c673ba9b78",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "3b036ee62bf9",
-      "content/posts/expertise-as-reference-not-replacement.md": "8b1aece9d18e",
+      "content/posts/expertise-as-reference-not-replacement.md": "4f9116ea83a1",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "cf5fee6f027d",
@@ -90,7 +90,7 @@
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "90bc3f766d03",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "f0c515ee862c",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
-      "content/posts/guan-yu-gui-yin.md": "0ede1ae91c10",
+      "content/posts/guan-yu-gui-yin.md": "0ab85cee9764",
       "content/posts/guidance-is-not-ownership.md": "7d51a8692137",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "33876b76477c",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
@@ -104,7 +104,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
       "content/posts/immortality-final.md": "df5d92452896",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "4c7ffe5bd650",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "7ac88325f6b1",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "77e5f7c73d29",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
@@ -116,10 +116,10 @@
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "805360c5ec04",
-      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "f66ee1fcea73",
+      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "316d28d30429",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "ac0fdb212b18",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "793fa711b79f",
       "content/posts/moral-language-as-projection.md": "980a9f624f21",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "a515d6b3ff1c",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
@@ -148,10 +148,10 @@
       "content/posts/ownership-and-self-worthiness.md": "f5ec65e92962",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "63eb32d51c22",
       "content/posts/perception-perspective-refined.md": "e05973d21de9",
-      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "10f5c99c06d4",
+      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "951836df1a89",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "2fe06aa14edd",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/po-chu-gai-nian-de-jian-yue.md": "addbcd06bbe4",
+      "content/posts/po-chu-gai-nian-de-jian-yue.md": "e21049e90be8",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "db0acf841a07",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
@@ -160,7 +160,7 @@
       "content/posts/price-as-utterance-understanding-as-trade.md": "c9662cffea91",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
       "content/posts/public-spending-does-not-create-capital.md": "08cde0d31c3c",
-      "content/posts/qian-yin-hou-guo.md": "aadd55425d9e",
+      "content/posts/qian-yin-hou-guo.md": "6e45c78bfc7c",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "11ef91285e9b",
@@ -196,7 +196,7 @@
       "content/posts/the-asymmetry-of-understanding.md": "abb8bebb125a",
       "content/posts/the-average-is-residue-not-the-engine.md": "d10a1d2790ed",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
-      "content/posts/the-bank-shot-and-the-magic-trick.md": "b3b459a5b841",
+      "content/posts/the-bank-shot-and-the-magic-trick.md": "2f2534e90b66",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "c639024cd10a",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b52ca2cdd064",
       "content/posts/the-blind-spot-of-the-frame.md": "23484e369bf2",
@@ -233,7 +233,7 @@
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cd6f36ce905c",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "fbc2f400c1b1",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "09a58e05b701",
-      "content/posts/the-extendable-horizon.md": "a8e165ee1921",
+      "content/posts/the-extendable-horizon.md": "8608b4dd4c16",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "bcd662973452",
       "content/posts/the-fallacy-of-post-success-parenting.md": "49cdad0d1952",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "41631349ff7c",
@@ -253,7 +253,7 @@
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
       "content/posts/the-geometry-of-emergence.md": "a969fe12c726",
       "content/posts/the-geometry-of-mind.md": "5e64ee6befbf",
-      "content/posts/the-geometry-of-success.md": "c571f4afbe2b",
+      "content/posts/the-geometry-of-success.md": "ea181327e768",
       "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "b9ba768691c7",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "68e47fce620a",
@@ -288,7 +288,7 @@
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
-      "content/posts/the-map-after-the-territory.md": "28f33eac345f",
+      "content/posts/the-map-after-the-territory.md": "1a231ded3754",
       "content/posts/the-mark-and-the-act.md": "1291c7f118cc",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "cec160d47946",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "e5dfc5fb16e4",
@@ -319,7 +319,7 @@
       "content/posts/the-price-of-closing-optionality.md": "a896ac859680",
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
       "content/posts/the-ramble-within-the-ramble.md": "454a1407f39f",
-      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "9313e893ca27",
+      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "feb2a3ca1829",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "3763c8faf4bb",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "74769516764d",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "da58bc8efbd0",
@@ -358,7 +358,7 @@
       "content/posts/the-unexamined-critic.md": "752a0cbd970f",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
       "content/posts/the-unobservable-driver-of-learning.md": "884cddc55a98",
-      "content/posts/the-utility-men-of-progress.md": "cabb1260b4ad",
+      "content/posts/the-utility-men-of-progress.md": "f378543d8171",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "686bcbb6a5f7",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e2205554d0d",
@@ -385,7 +385,7 @@
       "content/posts/when-electrons-think.md": "fbdd3178e8f3",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "ded5efb3c37b",
       "content/posts/when-need-stops-being-the-measure.md": "a4f550ad30d1",
-      "content/posts/when-observation-becomes-performance.md": "41fa335ad530",
+      "content/posts/when-observation-becomes-performance.md": "e505232d52ad",
       "content/posts/when-the-effect-authors-the-frame.md": "42fba9798842",
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
       "content/posts/why-mathematics-can-never-be-solved.md": "fe8cd131b75d",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "525b07ca41c4",
       "content/book/economics.md": "e033239d4d7b",
-      "content/book/index-of-premises.md": "9b6108fc65af",
+      "content/book/index-of-premises.md": "1f796902e2b3",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "49a199864e1e",
@@ -415,12 +415,12 @@
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "edc135bd85be",
-      "content/book/success-and-the-self.md": "dea45f4bec49",
+      "content/book/success-and-the-self.md": "f33f8f68a881",
       "content/book/tools-and-progress.md": "fb71a7a1a375"
     },
     "stats": {
       "posts": 393,
-      "edges": 6491,
+      "edges": 6509,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -1057,7 +1057,7 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "Causality All the Way",
-      "hash": "8c58bfbb394c",
+      "hash": "b30f3ca08d48",
       "in_degree": 37,
       "out_degree": 37,
       "links_out": [
@@ -1207,8 +1207,8 @@
       "kind": "post",
       "slug": "cheng-gong-xue",
       "path": "content/posts/cheng-gong-xue.md",
-      "title": "成功学: Theories After Success, Mistaken for Theories Leading to Success",
-      "hash": "5d01ae688bd0",
+      "title": "成功学 / Theories After Success",
+      "hash": "0dfd904097af",
       "in_degree": 19,
       "out_degree": 18,
       "links_out": [
@@ -2189,7 +2189,7 @@
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "Expertise as Reference, Not Replacement",
-      "hash": "8b1aece9d18e",
+      "hash": "4f9116ea83a1",
       "in_degree": 22,
       "out_degree": 22,
       "links_out": [
@@ -2532,7 +2532,7 @@
       "slug": "guan-yu-gui-yin",
       "path": "content/posts/guan-yu-gui-yin.md",
       "title": "关于归因 / On Attribution",
-      "hash": "0ede1ae91c10",
+      "hash": "0ab85cee9764",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -2827,7 +2827,7 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "Individual Choices as the Only Causal Levers",
-      "hash": "4c7ffe5bd650",
+      "hash": "7ac88325f6b1",
       "in_degree": 100,
       "out_degree": 97,
       "links_out": [
@@ -3270,7 +3270,7 @@
       "slug": "mi-lv-shi-jie-guo-de-biao-xiang",
       "path": "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md",
       "title": "幂律是结果的表象 / Power Law Is the Surface of Outcomes",
-      "hash": "f66ee1fcea73",
+      "hash": "316d28d30429",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -3312,7 +3312,7 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "Mistaking the Expression for the Intelligence",
-      "hash": "ac0fdb212b18",
+      "hash": "793fa711b79f",
       "in_degree": 33,
       "out_degree": 34,
       "links_out": [
@@ -4080,7 +4080,7 @@
       "slug": "performative-hindsight-that-pretends-to-be-foresight",
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "Performative Hindsight That Pretends to Be Foresight",
-      "hash": "10f5c99c06d4",
+      "hash": "951836df1a89",
       "in_degree": 21,
       "out_degree": 21,
       "links_out": [
@@ -4155,7 +4155,7 @@
       "slug": "po-chu-gai-nian-de-jian-yue",
       "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
       "title": "破除概念的僭越 / Breaking the Overreach of Concepts",
-      "hash": "addbcd06bbe4",
+      "hash": "e21049e90be8",
       "in_degree": 25,
       "out_degree": 23,
       "links_out": [
@@ -4413,7 +4413,7 @@
       "slug": "qian-yin-hou-guo",
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果",
-      "hash": "aadd55425d9e",
+      "hash": "6e45c78bfc7c",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
@@ -5325,7 +5325,7 @@
       "slug": "the-bank-shot-and-the-magic-trick",
       "path": "content/posts/the-bank-shot-and-the-magic-trick.md",
       "title": "翻袋球与魔术戏法 / The Bank Shot and the Magic Trick",
-      "hash": "b3b459a5b841",
+      "hash": "2f2534e90b66",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -6118,7 +6118,7 @@
       "slug": "the-extendable-horizon",
       "path": "content/posts/the-extendable-horizon.md",
       "title": "可延展的地平线 / The Extendable Horizon",
-      "hash": "a8e165ee1921",
+      "hash": "8608b4dd4c16",
       "in_degree": 10,
       "out_degree": 13,
       "links_out": [
@@ -6574,7 +6574,7 @@
       "slug": "the-geometry-of-success",
       "path": "content/posts/the-geometry-of-success.md",
       "title": "成功的几何学 / The Geometry of Success",
-      "hash": "c571f4afbe2b",
+      "hash": "ea181327e768",
       "in_degree": 13,
       "out_degree": 12,
       "links_out": [
@@ -7231,7 +7231,7 @@
       "slug": "the-map-after-the-territory",
       "path": "content/posts/the-map-after-the-territory.md",
       "title": "行路之后的地图 / The Map After the Territory",
-      "hash": "28f33eac345f",
+      "hash": "1a231ded3754",
       "in_degree": 4,
       "out_degree": 4,
       "links_out": [
@@ -7953,7 +7953,7 @@
       "slug": "the-rational-choice-postulate-is-the-original-sin",
       "path": "content/posts/the-rational-choice-postulate-is-the-original-sin.md",
       "title": "The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories",
-      "hash": "9313e893ca27",
+      "hash": "feb2a3ca1829",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -8911,7 +8911,7 @@
       "slug": "the-utility-men-of-progress",
       "path": "content/posts/the-utility-men-of-progress.md",
       "title": "The Utility Men of Progress",
-      "hash": "cabb1260b4ad",
+      "hash": "f378543d8171",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
@@ -9496,7 +9496,7 @@
       "slug": "when-observation-becomes-performance",
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "When Observation Becomes Performance",
-      "hash": "41fa335ad530",
+      "hash": "e505232d52ad",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -11620,7 +11620,7 @@
       "from": "causality-all-the-way",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "causality-all-the-way",
@@ -12454,7 +12454,19 @@
       "from": "cheng-gong-xue",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
-      "label": "Performative hindsight that pretends to be foresight"
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "翻袋球与魔术戏法"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
     },
     {
       "from": "cheng-gong-xue",
@@ -12466,55 +12478,115 @@
       "from": "cheng-gong-xue",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin of all the wrongs in modern economics theories"
+      "label": "理性选择公设是现代经济学理论一切错误的原罪"
     },
     {
       "from": "cheng-gong-xue",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
     },
     {
       "from": "cheng-gong-xue",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
     },
     {
       "from": "cheng-gong-xue",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "专家经验作为参考而非替代"
     },
     {
       "from": "cheng-gong-xue",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
     },
     {
       "from": "cheng-gong-xue",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "cheng-gong-xue",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "When observation becomes performance"
+      "label": "当观察变成表演"
     },
     {
       "from": "cheng-gong-xue",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "cheng-gong-xue",
       "to": "the-map-after-the-territory",
       "rel": "points_to",
-      "label": "Self-improvement writing is The Map After the Territory"
+      "label": "行路之后的地图"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "the-map-after-the-territory",
+      "rel": "points_to",
+      "label": "The Map After the Territory"
     },
     {
       "from": "cheng-gong-xue",
@@ -12526,37 +12598,73 @@
       "from": "cheng-gong-xue",
       "to": "the-geometry-of-success",
       "rel": "points_to",
-      "label": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\""
+      "label": "成功的几何学"
     },
     {
       "from": "cheng-gong-xue",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
     },
     {
       "from": "cheng-gong-xue",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
-      "label": "Prior Cause, Subsequent Effect"
+      "label": "前因，后果"
     },
     {
       "from": "cheng-gong-xue",
       "to": "guan-yu-gui-yin",
       "rel": "points_to",
-      "label": "On Attribution: From External Nodes to Internal Iteration"
+      "label": "关于归因"
     },
     {
       "from": "cheng-gong-xue",
       "to": "mi-lv-shi-jie-guo-de-biao-xiang",
       "rel": "points_to",
-      "label": "Power Law Is the Surface Outcome, Not the Generative Logic"
+      "label": "幂律是结果的表象"
     },
     {
       "from": "cheng-gong-xue",
       "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "rel": "points_to",
-      "label": "The Turn at the Crossroads and the Flat Earther's Paradox of Action"
+      "label": "路口的转向与地平说的行动悖论"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The Geometry of Success"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "Cause Before, Effect After"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "On Attribution"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "Power Law Is the Surface of Outcomes"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "rel": "points_to",
+      "label": "Turning at the Crossroad and the Flat-Earth Action Paradox"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
@@ -16366,7 +16474,7 @@
       "from": "expertise-as-reference-not-replacement",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "expertise-as-reference-not-replacement",
@@ -17620,7 +17728,7 @@
       "from": "guan-yu-gui-yin",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "guan-yu-gui-yin",
@@ -19108,7 +19216,7 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -20518,7 +20626,7 @@
       "from": "mi-lv-shi-jie-guo-de-biao-xiang",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "mi-lv-shi-jie-guo-de-biao-xiang",
@@ -20686,7 +20794,7 @@
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -23800,7 +23908,7 @@
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
@@ -24124,7 +24232,7 @@
       "from": "po-chu-gai-nian-de-jian-yue",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "po-chu-gai-nian-de-jian-yue",
@@ -25228,7 +25336,7 @@
       "from": "qian-yin-hou-guo",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "成功学"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -28510,7 +28618,7 @@
       "from": "the-bank-shot-and-the-magic-trick",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "the-bank-shot-and-the-magic-trick",
@@ -32524,7 +32632,7 @@
       "from": "the-extendable-horizon",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "the-extendable-horizon",
@@ -34642,7 +34750,7 @@
       "from": "the-geometry-of-success",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "the-geometry-of-success",
@@ -37234,7 +37342,7 @@
       "from": "the-map-after-the-territory",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "the-map-after-the-territory",
@@ -40414,7 +40522,7 @@
       "from": "the-rational-choice-postulate-is-the-original-sin",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "the-real-lesson-from-the-consciousness-vector-paper",
@@ -44560,7 +44668,7 @@
       "from": "the-utility-men-of-progress",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "the-utility-men-of-progress",
@@ -47164,7 +47272,7 @@
       "from": "when-observation-becomes-performance",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "Theories After Success, Mistaken for Theories Leading to Success"
+      "label": "Theories After Success"
     },
     {
       "from": "when-observation-becomes-performance",
@@ -48846,7 +48954,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "9b6108fc65af",
+        "hash": "1f796902e2b3",
         "out_degree": 393
       },
       {
@@ -48945,7 +49053,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "dea45f4bec49",
+        "hash": "f33f8f68a881",
         "out_degree": 33
       },
       {
@@ -50001,7 +50109,7 @@
         "from": "book:index-of-premises",
         "to": "cheng-gong-xue",
         "rel": "collects",
-        "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
+        "label": "成功学 / Theories After Success"
       },
       {
         "from": "book:index-of-premises",
@@ -52959,7 +53067,7 @@
         "from": "book:index-of-premises",
         "to": "cheng-gong-xue",
         "rel": "collects",
-        "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
+        "label": "成功学 / Theories After Success"
       },
       {
         "from": "book:index-of-premises",
@@ -55005,7 +55113,7 @@
         "from": "book:success-and-the-self",
         "to": "cheng-gong-xue",
         "rel": "collects",
-        "label": "成功学: Theories After Success, Mistaken for Theories Leading to Success"
+        "label": "成功学 / Theories After Success"
       },
       {
         "from": "book:success-and-the-self",

@@ -27,7 +27,7 @@ These essays examine victimhood paralysis, shortcut delusions, and cognitive inv
 - [The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/)
 - [The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 - [Hardness Is Not Inherent in the Action](../../posts/hardness-is-not-inherent-in-the-action/)
-- [成功学: Theories After Success, Mistaken for Theories Leading to Success](../../posts/cheng-gong-xue/)
+- [成功学 / Theories After Success](../../posts/cheng-gong-xue/)
 - [行路之后的地图 / The Map After the Territory](../../posts/the-map-after-the-territory/)
 - [人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration](../../posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)
 - [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
