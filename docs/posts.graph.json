@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T21:37:31.950Z",
+    "generated_at": "2026-10-16T21:46:12.994Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -176,7 +176,7 @@
       "content/posts/self-rl-for-humans.md": "9c6e189aabfd",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
-      "content/posts/shared-consciousness-is-intersecting-individualities.md": "b25f1b49b6e0",
+      "content/posts/shared-consciousness-is-intersecting-individualities.md": "1a482ccb508e",
       "content/posts/shared-humanity-is-never-shared.md": "22c1be7732c9",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "c742acb86d86",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "abcdead636a7",
@@ -402,9 +402,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "cbe5d03c5250",
-      "content/book/consciousness.md": "3e8d9f0c8fc2",
+      "content/book/consciousness.md": "4147fac01705",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "07c6669932ef",
+      "content/book/index-of-premises.md": "d2bee3a9babc",
       "content/book/intelligence.md": "33d5903fd201",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6793,
+      "edges": 6806,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -4774,8 +4774,8 @@
       "kind": "post",
       "slug": "shared-consciousness-is-intersecting-individualities",
       "path": "content/posts/shared-consciousness-is-intersecting-individualities.md",
-      "title": "Shared Consciousness Is Intersecting Individualities",
-      "hash": "b25f1b49b6e0",
+      "title": "共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities",
+      "hash": "1a482ccb508e",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -27562,79 +27562,157 @@
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
-      "label": "Shared humanity is never shared"
+      "label": "共同的人性从不共享"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind’s ongoing realization"
+      "label": "现实是心智持续的实现"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "zuo-jian-bu-shi-zi-fu",
       "rel": "points_to",
-      "label": "Spin a Cocoon: Observation vs. Interpretation"
+      "label": "作茧不是自缚"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "zuo-jian-bu-shi-zi-fu",
+      "rel": "points_to",
+      "label": "Spinning a Cocoon Is Not Binding Oneself"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "Price as utterance, understanding as trade"
+      "label": "价格是言说，理解是交易"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "rel": "points_to",
-      "label": "The free mind is displaced by what claims to protect it"
+      "label": "自由的心智被声称保护它的东西取代"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "The Free Mind Is Displaced by What Claims to Protect It"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "Consciousness never appears as data among data"
+      "label": "意识从不作为数据出现在数据之中"
     },
     {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
-      "label": "On closed systems, open minds, and the limits of proof"
+      "label": "论封闭系统、开放心智与证明的界限"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "shared-consciousness-is-intersecting-individualities",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "On Closed Systems, Open Minds, and the Limits of Proof"
     },
     {
       "from": "shared-humanity-is-never-shared",
@@ -50640,7 +50718,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "3e8d9f0c8fc2",
+        "hash": "4147fac01705",
         "out_degree": 38
       },
       {
@@ -50658,7 +50736,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "07c6669932ef",
+        "hash": "d2bee3a9babc",
         "out_degree": 393
       },
       {
@@ -51051,7 +51129,7 @@
         "from": "book:consciousness",
         "to": "shared-consciousness-is-intersecting-individualities",
         "rel": "collects",
-        "label": "Shared Consciousness Is Intersecting Individualities"
+        "label": "共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities"
       },
       {
         "from": "book:consciousness",
@@ -53187,7 +53265,7 @@
         "from": "book:index-of-premises",
         "to": "shared-consciousness-is-intersecting-individualities",
         "rel": "collects",
-        "label": "Shared Consciousness Is Intersecting Individualities"
+        "label": "共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities"
       },
       {
         "from": "book:index-of-premises",

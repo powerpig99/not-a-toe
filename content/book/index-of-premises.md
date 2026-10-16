@@ -2161,14 +2161,14 @@ Scaffolding theory treats external prompts and guardrails as part of model compe
 
 → [Scaffolds or Specialized Contexts?](../../posts/scaffolds-or-specialized-contexts/)
 
-### 集体意识蜂巢错觉 / Collective Consciousness Fallacy
+### 共享即共同性 / Sharedness as Commonality
 `哲学 / Philosophical`
 
-神秘主义与集权教条宣扬汇入一体的浩瀚共识；意识只真切存在于各个独立的个体中心，所谓共有不过是局部沟通碰撞出的交集。
+把“共享”读作共同性的持守，预设共享意识、共享价值或共同信念是一池跨越心智而被持有的相同特质，于是统一可以靠制造同一来达成，在指认一群人确实能够协调行动时有用；它在此到了边界：共享是一个心智登记到的不同个体性之间不完整的交集，不需要另一边的互补登记，理解是暂时不去登记余下的差异，而把个体性逼成同一，就抹去了交集得以被登记的唯一条件。
 
-New Age and collectivist doctrines proclaim an oceanic universal mind; consciousness exists strictly in discrete centers, with shared culture naming partial communication overlaps.
+The hold that reads "shared" as commonality presumes that shared consciousness, shared value, or shared belief is a pool of identical traits held across Minds, so that unity can be reached by manufacturing identity, which is of use in naming that a group can indeed coordinate its action; it reaches its boundary in that sharedness is incomplete intersection of distinct individualities registered by one Mind, needing no complementary registration on the other side, understanding is the temporary non-registration of residual difference, and forcing individualities into identity erases the only condition under which intersection can register.
 
-→ [Shared Consciousness Is Intersecting Individualities](../../posts/shared-consciousness-is-intersecting-individualities/)
+→ [共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities](../../posts/shared-consciousness-is-intersecting-individualities/)
 
 ### 集体责任均摊 / Collective Responsibility
 `意识形态 / Ideological`
