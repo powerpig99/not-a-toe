@@ -116,6 +116,15 @@ Russell's prescription of world government, approximate economic equality and a 
 
 → [没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem](../../posts/no-genius-can-solve-the-knowledge-problem/)
 
+### 卡洛·罗韦利 / Carlo Rovelli
+`哲学 / Philosophical`
+
+罗韦利预设，拒绝心与身之间的二元实体，就足以把意识的难题当作假问题取消，在把二元的种类并入同一个自然之场时有用；它在此到了边界：宣布鸿沟为假，本身就是一个仍在区分的心智作出的报告，这一宣布所倚靠的剩余的开放，正是它要宣布为零的东西。
+
+Rovelli presumes that refusing dual substance between mind and body is enough to cancel the hard problem of consciousness as a false problem, which is of use in collapsing dual kinds into one field of nature; it reaches its boundary in that declaring the gap false is itself a report made by a mind still distinguishing, and the residual openness the declaration leans on is what it would declare to be zero.
+
+→ [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/)
+
 ### 查理·芒格 / Charlie Munger
 `经济 / Economic`
 
@@ -173,11 +182,11 @@ Amodei's ten-fold acceleration holds for a list of known diseases, which is of u
 ### 大卫·查尔默斯 / David Chalmers
 `哲学 / Philosophical`
 
-查尔默斯将意识划分为可计算的容易问题与主观体验的困难问题；有力击碎了机械唯物主义狂妄，却易将解释鸿沟实体化为二元对立。
+查尔默斯把意识分成可以用功能解释的容易问题与主观体验的困难问题，在指出第三人称的解释留下了第一人称的剩余时有用；它在此到了边界：当这份剩余被实体化为一种有待解释的独立之物，或一道终将被填平的鸿沟时，注视本身的构成性滞后就被当成了对象。
 
-Chalmers split consciousness into easy computational problems and the hard subjective problem; brilliant for challenging materialist hubris, it risks hypostatizing the gap into dualism.
+Chalmers divides consciousness into easy problems open to functional explanation and the hard problem of subjective experience, which is of use in showing that third-person explanation leaves a first-person residual; it reaches its boundary in that, once the residual is hypostatized as a separate thing awaiting explanation or a gap that will finally be filled, the constitutive lag of the look itself is taken for an object.
 
-→ [The Hard Problem of Consciousness Is Consistent with Our Ability to Learn](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
+→ [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
 ### 大卫·希尔伯特 / David Hilbert
 `数学 / Mathematical`
@@ -1514,11 +1523,11 @@ Whether technology destroys or creates jobs presumes that one aggregate decides,
 ### 意识的困难问题 / The Hard Problem of Consciousness
 `哲学 / Philosophical`
 
-查尔默斯指出主观质感无法被客观脑神经状态推导；这准确划定了客观数据与第一人称的解释鸿沟，却无须走向不可知的二元实体。
+困难问题预设主观体验与物理过程之间有一道需要被解释、也就可能被合上的鸿沟，在标出第三人称描述留下的剩余时有用；它在此到了边界：这份难，是闭合的要求加在剩余的开放上造出来的，而剩余的开放正是学习得以继续的地方，既不待删除，也不待最终合上。
 
-David Chalmers argues subjective experience cannot be deduced from physical brain states; while identifying the epistemic explanatory gap, it need not invoke mysterious non-physical substances.
+The hard problem presumes a gap between subjective experience and physical process that calls for explanation and so might be closed, which is of use in marking the residual that third-person description leaves; it reaches its boundary in that the hardness is made by the demand for closure laid on residual openness, and that openness is where learning continues, neither awaiting deletion nor scheduled for final closure.
 
-→ [The Hard Problem of Consciousness Is Consistent with Our Ability to Learn](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/)
+→ [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/)
 
 ### 万物理论 / Theory of Everything (ToE)
 `科学 / Scientific`

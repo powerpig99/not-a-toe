@@ -27,7 +27,7 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [The Real Lesson from the Consciousness Vector Paper](../../posts/the-real-lesson-from-the-consciousness-vector-paper/)
 - [Shared Consciousness Is Intersecting Individualities](../../posts/shared-consciousness-is-intersecting-individualities/)
 - [Pessimism Is the Shadow of Optimism](../../posts/pessimism-is-the-shadow-of-optimism/)
-- [The Hard Problem of Consciousness Is Consistent with Our Ability to Learn](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/)
+- [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/)
 - [意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data](../../posts/consciousness-never-appears-as-data-among-data/)
 - [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
 - [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
