@@ -16,7 +16,7 @@ At the frontier, among specialized labs, frontier practitioners and early-adopti
 
 New instruments cross capability thresholds, compounding the speed of iteration and unlocking domains of production that could not exist before. The incremental economic value at this edge is created mainly as net addition: new possibilities, new markets and higher-order distinctions, rather than the simple one-for-one substitution of old labour.
 
-与此同时，更广的经济带着深厚的物质、组织与认知惯性运转。组织的工作流程、企业的风险姿态、已有的资产承诺、监管审批，以及根深蒂固的习惯，变化得比技术能力本身慢得多。旧底盘从不在一次颠覆的浪潮里一夜蒸发；新的前沿在它周围扩张的同时，它被逐步摊销、逐步退出。[平均值是痕迹，不是引擎](../the-average-is-residue-not-the-engine/)守着的正是这个区别：宏观经济指数记录的是群体延迟的、被平滑过的构成，而决定性的差异在薄薄的边缘上复利。
+与此同时，更广的经济带着深厚的物质、组织与认知惯性运转。组织的工作流程、企业的风险姿态、已有的资产承诺、监管审批，以及根深蒂固的习惯，变化得比技术能力本身慢得多。旧底盘从不在一次颠覆的浪潮里一夜蒸发；新的前沿在它周围扩张的同时，它被逐步摊销、逐步退出。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)守着的正是这个区别：宏观经济指数记录的是群体延迟的、被平滑过的构成，而决定性的差异在薄薄的边缘上复利。
 
 Meanwhile the broader economy runs with deep physical, organizational and cognitive inertia. Organizational workflows, corporate risk postures, existing asset commitments, regulatory approvals and ingrained habits change far more slowly than the technological capability itself. The legacy base is never vaporized overnight in one disruptive wave; it is gradually amortized and phased out while the new frontier expands around it. [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) holds this distinction: macroeconomic indices record the delayed, smoothed composition of the mass, while the decisive variance compounds at the thin edge.
 

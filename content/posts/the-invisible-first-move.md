@@ -30,7 +30,7 @@ What looks from outside like a sudden overtake is the mathematical consequence o
 
 While the visible incumbent scales an established, lower-leverage architecture to meet existing demand, the eventual challenger works on a steeper slope from a lower base. The challenger's early iteration happens in relative obscurity: internal prototypes, foundational refactors and architectural bets that win no outside applause.
 
-在这段区间里，挑战者的工作在随意的观察者眼中，像是无关紧要的试验，甚至是失败。可因为其轨迹底下的杠杆更高，每一次迭代都带来更深的结构性复利。等公众终于注意到挑战者，交叉点已经到了。这次超越不是靠更好的时机取得的；它是多年安静的功夫累积下的优势浮出水面。这是从结果倒着读回去的一种看法：并不是每一条安静的曲线都会浮出水面，结果里也有落到各人身上的那一份。[平均值是痕迹，不是引擎](../the-average-is-residue-not-the-engine/)守着这一点：大众采用的指标度量的是滞后的残余，而决定性的转变，是由在未经验证的边缘上复利的薄薄的少数写成的。
+在这段区间里，挑战者的工作在随意的观察者眼中，像是无关紧要的试验，甚至是失败。可因为其轨迹底下的杠杆更高，每一次迭代都带来更深的结构性复利。等公众终于注意到挑战者，交叉点已经到了。这次超越不是靠更好的时机取得的；它是多年安静的功夫累积下的优势浮出水面。这是从结果倒着读回去的一种看法：并不是每一条安静的曲线都会浮出水面，结果里也有落到各人身上的那一份。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)守着这一点：大众采用的指标度量的是滞后的残余，而决定性的转变，是由在未经验证的边缘上复利的薄薄的少数写成的。
 
 ```mermaid
 flowchart TD

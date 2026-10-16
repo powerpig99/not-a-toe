@@ -1064,11 +1064,11 @@ Taking information or matter as primary, or both as dual aspects, is of use in d
 ### 制度决定论 / Institutional Determinism
 `经济 / Economic`
 
-制度解释假定好制度造就能人；制度却是先前自我选择的沉淀，作为约束的描述有用，因果次序仍在做选择的个人一侧。
+制度解释预设好制度造就能人，在描述约束、比较不同环境时有用；它在此到了边界：制度是先前自我选择稳定下来的残余，因果次序仍在做选择的个人一侧。
 
-Institutional explanations assume good institutions produce capable people; institutions are sediment of prior self-selection, so they remain useful descriptions of constraints while the causal order stays with choosing individuals.
+Institutional explanation presumes good institutions produce capable people, which is of use in describing constraints and comparing environments; it reaches its boundary in that institutions are the stabilized residue of prior self-selection, so the causal order stays with choosing individuals.
 
-→ [The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
+→ [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
 
 ### 软件领域的杰文斯悖论 / Jevons Paradox in Software
 `经济 / Economic`
@@ -2884,11 +2884,11 @@ Achievement metrics assume success can be decomposed into public variables; deci
 ### 移民造就美国例外论 / Immigration as Engine of American Exceptionalism
 `意识形态 / Ideological`
 
-该叙事把移民当作单一正向力量，混同了早期高选择群体与后期规模流入；作为历史相关性可用，却分不清哪种选择承载了生产前沿。
+该叙事预设移民是解释美国例外论的单一正向力量，在记录一种历史相关性时有用；它在此到了边界：它把早期高度筛选的群体与后来的规模流入塌缩进一个词，便分不清是哪一种筛选承载了生产的边缘。
 
-The narrative treats immigration as one positive force; it merges early high-selection cohorts with later volume, so a useful historical correlation stops describing which selection carried the productive edge.
+The narrative presumes immigration is a single positive force explaining American exceptionalism, which is of use in recording a historical correlation; it reaches its boundary in that it collapses early highly selected cohorts and later volume into one word, so it cannot say which selection carried the productive edge.
 
-→ [The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
+→ [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
 
 ### 后果的不可让渡性 / Inalienability of Consequences
 `哲学 / Philosophical`
@@ -4369,11 +4369,11 @@ Statistical aggregates compress the choices of millions of Minds into a curve or
 ### 统计平均值作为原因 / Statistical Average as Cause
 `科学 / Scientific`
 
-平均值预设总体构成稳定、均值能主导模式；构成与选择一变，它只登记残差，可用于描述，却说明不了推动前沿的少数个体行动。
+平均值预设总体构成稳定、均值能代表推动模式的东西，在描述构成不变的总体时有用；它在此到了边界：构成与筛选一变，平均值登记的就是残余，说不出推动前沿的右尾行动。
 
-Averages presume a stable population whose mean authors the pattern; under shifting composition and selection they register residue, useful for description but silent on the right-tail acts that move frontiers.
+The average presumes a stable population whose mean stands for what drives the pattern, which is of use in describing a population whose composition holds; it reaches its boundary in that once composition and selection shift, the average registers residue and is silent on the right-tail acts that move frontiers.
 
-→ [The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
+→ [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
 
 ### 把握因果的操舵边界 / Steering Edge of Causality
 `哲学 / Philosophical`

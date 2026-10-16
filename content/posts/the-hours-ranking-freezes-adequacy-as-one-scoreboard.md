@@ -38,7 +38,7 @@ OECD 另有一份平行计算，把法定最低工资换成一个更贴近现实
 
 A parallel OECD calculation replaces the statutory minimum with a more realistic low-wage benchmark, 67 percent of the national average wage. Under that metric the United States requires about 26 hours, near the OECD average of 21. Japan, on the same benchmark, sits near 16. The extreme outlier therefore turns on the statutory wage input: with the relative line and the phase-outs unchanged, the United States sits near the average. Change one instrument, the wage benchmark, and the ranking reorders.
 
-[平均值是痕迹，不是引擎](../the-average-is-residue-not-the-engine/)讲的是相邻的一种冻结：一个总量被当作模式的作者。在这里扮演这个角色的是工时排名：三个指标合成的一个数，被当成了充足度的引擎。换一个工资输入，排名就重新洗牌，这说明第一张记分牌离开工资这一项，从来没有衡量过充足度。
+[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)讲的是相邻的一种冻结：一个总量被当作模式的作者。在这里扮演这个角色的是工时排名：三个指标合成的一个数，被当成了充足度的引擎。换一个工资输入，排名就重新洗牌，这说明第一张记分牌离开工资这一项，从来没有衡量过充足度。
 
 [The average is residue, not the engine](../the-average-is-residue-not-the-engine/) is the adjacent freeze, when an aggregate is held as author of the pattern. Here the hours ranking plays that part: a composite of three instruments taken as if it were the engine of adequacy. The reordering under a different wage input is evidence that the first scoreboard never held adequacy apart from its wage input.
 

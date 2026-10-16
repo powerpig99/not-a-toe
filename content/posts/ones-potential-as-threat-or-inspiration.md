@@ -36,7 +36,7 @@ No one is immune to zero-sum alarm, and no one is incapable of non-zero-sum reso
 - **The defensive loop:** In the moments a center reads another’s excellence as a threat, it spends its scarce capacity on containment, comparison and the upkeep of artificial ceilings. Attention bound to holding others down holds the center back too.
 - **The generative loop:** In the moments a center sees another’s breakthrough as evidence of what is possible, it turns its capacity toward its own next distinction. Another’s advance becomes evidence that the frontier is wider than it was mapped.
 
-进步在这些离散的迭代中复利累积。一个人把潜能当作启发的频率提高，私人的能力便复利增长；一张中心网络里的总频率上升，共享的现实边界便向外扩展。[平均值是痕迹，不是引擎](../the-average-is-residue-not-the-engine/)反映的正是这种频率分布：文明的推进由极端正向离群者的复利速度承载，而不是由大众的均衡承载。
+进步在这些离散的迭代中复利累积。一个人把潜能当作启发的频率提高，私人的能力便复利增长；一张中心网络里的总频率上升，共享的现实边界便向外扩展。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)反映的正是这种频率分布：文明的推进由极端正向离群者的复利速度承载，而不是由大众的均衡承载。
 
 ```mermaid
 flowchart TD

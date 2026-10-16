@@ -112,7 +112,7 @@ These two ways grind down, bit by bit, the child’s self-drive, faint at first 
 
 The parenting methods in bestselling books mostly study phenomena, sum up patterns and average experience, and miss what really matters: what is actually driving that particular child inside, right now. Individual self-drive can neither be seen nor averaged. Only close observation and putting oneself in the child’s place can sense what is at work in it. That sensing happens on the observer’s side; it is not an entry into the child’s mind.
 
-[平均值是痕迹，不是引擎](../the-average-is-residue-not-the-engine/)是同一份冻结：把平均的痕迹当成引擎。[好奇先行](../curiosity-first-the-hidden-engine-of-talent-and-development/)是那份具体驱动的一面：好奇的回路，不是可以平均的天赋库存。成功的父母把自己的路径当作公式，孩子的差距便被归于外部，[成功之后的育儿谬误](../the-fallacy-of-post-success-parenting/)对此有所剖析。
+[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)是同一份冻结：把平均的痕迹当成引擎。[好奇先行](../curiosity-first-the-hidden-engine-of-talent-and-development/)是那份具体驱动的一面：好奇的回路，不是可以平均的天赋库存。成功的父母把自己的路径当作公式，孩子的差距便被归于外部，[成功之后的育儿谬误](../the-fallacy-of-post-success-parenting/)对此有所剖析。
 
 [The average is residue, not the engine](../the-average-is-residue-not-the-engine/) is the same freeze: averaged residue taken for the engine. [Curiosity First: The Hidden Engine of Talent and Development](../curiosity-first-the-hidden-engine-of-talent-and-development/) is the face of that particular drive: the loop of curiosity, not an averageable stock of talent. Successful parents take their own path as a formula, and the child’s gap is then attributed outside, as [The Fallacy of Post-Success Parenting](../the-fallacy-of-post-success-parenting/) dissects.
 

@@ -16,7 +16,7 @@ The hesitation in the joke is not uncertainty about statistics; it is the instin
 
 Attributing the student’s shift to “the class” treats an externalized curriculum as an autonomous causal agent acting directly on a passive vessel. But a course is only structured residue: syllabus, lectures, exercises and exams. It cannot force a distinction into existence.
 
-产生这次转变的，是一连串自主的行动：最初决定报名，持续地引导注意，在内部解开困惑，此后又选择克制仓促的归因。统计可以记录选课与推理得分提高之间的正相关。它在回归表里找不到因果的引擎，因为引擎是那个正在思考的个体中心。[平均值是痕迹，不是引擎](../the-average-is-residue-not-the-engine/)守住的正是这条界线：大规模的分布登记合成的效果，生成的前沿仍是个体所在的离散行动。
+产生这次转变的，是一连串自主的行动：最初决定报名，持续地引导注意，在内部解开困惑，此后又选择克制仓促的归因。统计可以记录选课与推理得分提高之间的正相关。它在回归表里找不到因果的引擎，因为引擎是那个正在思考的个体中心。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)守住的正是这条界线：大规模的分布登记合成的效果，生成的前沿仍是个体所在的离散行动。
 
 What produced the change was a sequence of self-directed acts: the first decision to register, the continuous discipline of directing attention, the inner resolution of confusion, and the later choice to hold back hasty attributions. Statistics can record the positive correlation between course enrollment and improved reasoning scores. It cannot find the causal engine inside the regression table, because the engine was the individual center doing the thinking. [The average is residue, not the engine](../the-average-is-residue-not-the-engine/) holds that exact bound: mass distributions register composite effects, while the generating edge stays with the discrete acts of individual loci.
 

@@ -42,7 +42,7 @@ The same pattern governs the wider abstractions of currency and inflation. These
 
 Individuals already observe systems, anticipate responses and alter their conduct in ways that feed back into the systems themselves. The dynamics that appear as mere variance or noise in any static average are the forces that reshape the order from moment to moment. By treating the mathematical model as the site where agency is gained, the original premise understates this continuous, reflexive activity. The study offered in the name of extending agency then serves the freeze it was offered to dissolve.
 
-[平均值是痕迹，不是引擎](../the-average-is-residue-not-the-engine/)是同一个归还装扮成百分比的一面：大规模的比率追踪的是构成，决定性的前沿仍在接连的行动上。一个封闭模型记作噪声的，正是活着的更新。全球义务的账本，是又一个被要求承载能动的形式模型，[未被遭遇之物的账本](../the-ledger-of-the-unencountered/)追溯了这一点。
+[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)是同一个归还装扮成百分比的一面：大规模的比率追踪的是构成，决定性的前沿仍在接连的行动上。一个封闭模型记作噪声的，正是活着的更新。全球义务的账本，是又一个被要求承载能动的形式模型，[未被遭遇之物的账本](../the-ledger-of-the-unencountered/)追溯了这一点。
 
 ```mermaid
 flowchart TD

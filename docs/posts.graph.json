@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T17:07:01.118Z",
+    "generated_at": "2026-10-16T17:12:36.040Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -17,7 +17,7 @@
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "842babd14bbf",
       "content/posts/agency-does-not-arise.md": "5c22547d1783",
-      "content/posts/agency-relocated-into-the-formal-model.md": "a0099525e90d",
+      "content/posts/agency-relocated-into-the-formal-model.md": "da682966ae6c",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "24615382c532",
       "content/posts/ai-as-augmentation.md": "a27a4ea86606",
@@ -43,7 +43,7 @@
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "454c1ba03b68",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "5d20d9b6a45c",
-      "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "679e8c0b6e4a",
+      "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "cca7ab69ed23",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "2214839a1db5",
       "content/posts/conscience-power-delegation.md": "d11e1672ae5d",
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "f0b1af83a286",
@@ -116,7 +116,7 @@
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "510fcc57912f",
-      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "316d28d30429",
+      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "3253deb787d2",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "793fa711b79f",
@@ -138,7 +138,7 @@
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "225df52b0b69",
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "cb7f119c5157",
-      "content/posts/ones-potential-as-threat-or-inspiration.md": "9f63db2c2dfd",
+      "content/posts/ones-potential-as-threat-or-inspiration.md": "dcc2fad90d4c",
       "content/posts/only-if-it-is-not-kept-empty.md": "3d9516da5576",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
@@ -194,7 +194,7 @@
       "content/posts/the-arithmetic-of-the-register.md": "1c7a77817624",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
       "content/posts/the-asymmetry-of-understanding.md": "abb8bebb125a",
-      "content/posts/the-average-is-residue-not-the-engine.md": "d10a1d2790ed",
+      "content/posts/the-average-is-residue-not-the-engine.md": "c32b29ca871b",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "2f2534e90b66",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "c639024cd10a",
@@ -259,7 +259,7 @@
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "68e47fce620a",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "45f6b91bfb1c",
-      "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "88a33ea75c55",
+      "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "cb240a9929c8",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "d915809609b6",
       "content/posts/the-illusion-of-free-intelligence.md": "9568470705b9",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "87c68cdf7df5",
@@ -273,7 +273,7 @@
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "47a6ffb6ae17",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "6bb1ab2dad94",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "5ccd04ebe2f8",
-      "content/posts/the-invisible-first-move.md": "f4a272675bd1",
+      "content/posts/the-invisible-first-move.md": "24e7e1373e4c",
       "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "8a005fc1644a",
       "content/posts/the-irreducible-observer.md": "ad01ade05654",
@@ -283,8 +283,8 @@
       "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
       "content/posts/the-living-context.md": "2d1c878d63a5",
-      "content/posts/the-local-trap-of-technological-change.md": "573d53fe854b",
-      "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "b5d22031eddd",
+      "content/posts/the-local-trap-of-technological-change.md": "64ebb0eae126",
+      "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "9c43b9beb0a3",
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
@@ -292,7 +292,7 @@
       "content/posts/the-mark-and-the-act.md": "1291c7f118cc",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "cec160d47946",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "e5dfc5fb16e4",
-      "content/posts/the-mind-that-statistics-cannot-reveal.md": "fd91ab93cd7f",
+      "content/posts/the-mind-that-statistics-cannot-reveal.md": "fd3f9916d247",
       "content/posts/the-mirage-of-the-infinite-totality.md": "ed9e81aa570c",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "f89cd9fc108e",
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
@@ -357,7 +357,7 @@
       "content/posts/the-unclosable-trace.md": "bd17d2a04bd6",
       "content/posts/the-unexamined-critic.md": "752a0cbd970f",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
-      "content/posts/the-unobservable-driver-of-learning.md": "3c16e9fa6452",
+      "content/posts/the-unobservable-driver-of-learning.md": "927e2e949f7e",
       "content/posts/the-utility-men-of-progress.md": "f378543d8171",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "686bcbb6a5f7",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
@@ -373,7 +373,7 @@
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "a41257ca3edb",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "ca993bca4cc8",
       "content/posts/two-failures-of-trace.md": "b1672bec5b8e",
-      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "2d64e3b9cdb9",
+      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "381d2968b3c2",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "93dd1d01f066",
       "content/posts/what-always-listens-cannot-originate.md": "46463a5182fe",
       "content/posts/what-cannot-be-kept.md": "54489c87b990",
@@ -404,10 +404,10 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "e4239f54f478",
       "content/book/economics.md": "e033239d4d7b",
-      "content/book/index-of-premises.md": "fceb9d474614",
+      "content/book/index-of-premises.md": "e1d25385e7ef",
       "content/book/intelligence.md": "33d5903fd201",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
-      "content/book/life-and-statistics.md": "49a199864e1e",
+      "content/book/life-and-statistics.md": "29ed3e1c02fc",
       "content/book/mathematics.md": "9aa5763e8276",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "d52dd5b06929",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6612,
+      "edges": 6634,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -851,7 +851,7 @@
       "slug": "agency-relocated-into-the-formal-model",
       "path": "content/posts/agency-relocated-into-the-formal-model.md",
       "title": "能动性被转置入形式模型 / Agency Relocated into the Formal Model",
-      "hash": "a0099525e90d",
+      "hash": "da682966ae6c",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -1546,7 +1546,7 @@
       "slug": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "path": "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md",
       "title": "目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition",
-      "hash": "679e8c0b6e4a",
+      "hash": "cca7ab69ed23",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -3270,7 +3270,7 @@
       "slug": "mi-lv-shi-jie-guo-de-biao-xiang",
       "path": "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md",
       "title": "幂律是结果的表象 / Power Law Is the Surface of Outcomes",
-      "hash": "316d28d30429",
+      "hash": "3253deb787d2",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -3768,7 +3768,7 @@
       "slug": "ones-potential-as-threat-or-inspiration",
       "path": "content/posts/ones-potential-as-threat-or-inspiration.md",
       "title": "潜能作为威胁或启发 / One’s Potential as Threat or Inspiration",
-      "hash": "9f63db2c2dfd",
+      "hash": "dcc2fad90d4c",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -5273,8 +5273,8 @@
       "kind": "post",
       "slug": "the-average-is-residue-not-the-engine",
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
-      "title": "The Average Is Residue, Not the Engine",
-      "hash": "d10a1d2790ed",
+      "title": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine",
+      "hash": "c32b29ca871b",
       "in_degree": 22,
       "out_degree": 22,
       "links_out": [
@@ -6696,7 +6696,7 @@
       "slug": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "path": "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md",
       "title": "工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard",
-      "hash": "88a33ea75c55",
+      "hash": "cb240a9929c8",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -6977,7 +6977,7 @@
       "slug": "the-invisible-first-move",
       "path": "content/posts/the-invisible-first-move.md",
       "title": "看不见的第一步 / The Invisible First Move",
-      "hash": "f4a272675bd1",
+      "hash": "24e7e1373e4c",
       "in_degree": 4,
       "out_degree": 4,
       "links_out": [
@@ -7165,7 +7165,7 @@
       "slug": "the-local-trap-of-technological-change",
       "path": "content/posts/the-local-trap-of-technological-change.md",
       "title": "技术变革的局部陷阱 / The Local Trap of Technological Change",
-      "hash": "573d53fe854b",
+      "hash": "64ebb0eae126",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -7182,7 +7182,7 @@
       "slug": "the-look-of-constraint-is-not-the-loss-of-freedom",
       "path": "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md",
       "title": "约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom",
-      "hash": "b5d22031eddd",
+      "hash": "9c43b9beb0a3",
       "in_degree": 4,
       "out_degree": 4,
       "links_out": [
@@ -7332,7 +7332,7 @@
       "slug": "the-mind-that-statistics-cannot-reveal",
       "path": "content/posts/the-mind-that-statistics-cannot-reveal.md",
       "title": "统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal",
-      "hash": "fd91ab93cd7f",
+      "hash": "fd3f9916d247",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -8885,7 +8885,7 @@
       "slug": "the-unobservable-driver-of-learning",
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "学习中不可观测的驱动力 / The Unobservable Driver of Learning",
-      "hash": "3c16e9fa6452",
+      "hash": "927e2e949f7e",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -9207,7 +9207,7 @@
       "slug": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth",
-      "hash": "2d64e3b9cdb9",
+      "hash": "381d2968b3c2",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -10990,7 +10990,7 @@
       "from": "agency-relocated-into-the-formal-model",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是痕迹，不是引擎"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -14032,7 +14032,7 @@
       "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是痕迹，不是引擎"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
@@ -20986,7 +20986,7 @@
       "from": "mi-lv-shi-jie-guo-de-biao-xiang",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是痕迹，不是引擎"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "mi-lv-shi-jie-guo-de-biao-xiang",
@@ -22912,7 +22912,7 @@
       "from": "ones-potential-as-threat-or-inspiration",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是痕迹，不是引擎"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "ones-potential-as-threat-or-inspiration",
@@ -29008,25 +29008,55 @@
       "from": "the-average-is-residue-not-the-engine",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "理性选择公设是现代经济学理论一切错误的原罪"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
-      "label": "The unobservable driver of learning"
+      "label": "学习中不可观测的驱动力"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
       "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "rel": "points_to",
-      "label": "The hours ranking freezes adequacy as one scoreboard"
+      "label": "工时排名把充足度冻结成一张记分牌"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "潜能作为威胁或启发"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The Unobservable Driver of Learning"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+      "rel": "points_to",
+      "label": "The Hours Ranking Freezes Adequacy as One Scoreboard"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
@@ -29038,25 +29068,55 @@
       "from": "the-average-is-residue-not-the-engine",
       "to": "the-local-trap-of-technological-change",
       "rel": "points_to",
+      "label": "技术变革的局部陷阱"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "the-local-trap-of-technological-change",
+      "rel": "points_to",
       "label": "The Local Trap of Technological Change"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "Technology is residual of human compounding"
+      "label": "技术是人类复利的残差"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "the-invisible-first-move",
+      "rel": "points_to",
+      "label": "看不见的第一步"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology Is Residual of Human Compounding"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
@@ -29068,31 +29128,103 @@
       "from": "the-average-is-residue-not-the-engine",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
-      "label": "The illusion of free intelligence"
+      "label": "免费智能的幻觉"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The Illusion of Free Intelligence"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "幂律是结果的表象"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "rel": "points_to",
+      "label": "约束的样子不是自由的失去"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因是个人进步的障碍"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "能动性被转置入形式模型"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "the-mind-that-statistics-cannot-reveal",
+      "rel": "points_to",
+      "label": "统计学无法揭示的心智"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "目的性的评判与认知的缺省状态"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
@@ -29104,7 +29236,7 @@
       "from": "the-average-is-residue-not-the-engine",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
@@ -29116,13 +29248,13 @@
       "from": "the-average-is-residue-not-the-engine",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "External Attribution: The Obstacle to Personal Growth"
+      "label": "External Attribution Is the Obstacle to Personal Growth"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
-      "label": "Agency relocated into the formal model"
+      "label": "Agency Relocated into the Formal Model"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
@@ -29134,7 +29266,7 @@
       "from": "the-average-is-residue-not-the-engine",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition"
+      "label": "Judging by Purpose and the Default State of Cognition"
     },
     {
       "from": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
@@ -35890,7 +36022,7 @@
       "from": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是痕迹，不是引擎"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -37066,7 +37198,7 @@
       "from": "the-invisible-first-move",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是痕迹，不是引擎"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "the-invisible-first-move",
@@ -37846,7 +37978,7 @@
       "from": "the-local-trap-of-technological-change",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是痕迹，不是引擎"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "the-local-trap-of-technological-change",
@@ -37918,7 +38050,7 @@
       "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是痕迹，不是引擎"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
@@ -38470,7 +38602,7 @@
       "from": "the-mind-that-statistics-cannot-reveal",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是痕迹，不是引擎"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
@@ -45166,7 +45298,7 @@
       "from": "the-unobservable-driver-of-learning",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是沉淀的残差，而非引擎"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -46678,7 +46810,7 @@
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "平均值是痕迹，不是引擎"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
@@ -49572,7 +49704,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "fceb9d474614",
+        "hash": "e1d25385e7ef",
         "out_degree": 393
       },
       {
@@ -49599,7 +49731,7 @@
         "slug": "life-and-statistics",
         "path": "content/book/life-and-statistics.md",
         "title": "生命演化与统计表象 / Living Evolution and Statistical Shadows",
-        "hash": "49a199864e1e",
+        "hash": "29ed3e1c02fc",
         "out_degree": 10
       },
       {
@@ -51219,7 +51351,7 @@
         "from": "book:index-of-premises",
         "to": "the-average-is-residue-not-the-engine",
         "rel": "collects",
-        "label": "The Average Is Residue, Not the Engine"
+        "label": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine"
       },
       {
         "from": "book:index-of-premises",
@@ -52599,7 +52731,7 @@
         "from": "book:index-of-premises",
         "to": "the-average-is-residue-not-the-engine",
         "rel": "collects",
-        "label": "The Average Is Residue, Not the Engine"
+        "label": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine"
       },
       {
         "from": "book:index-of-premises",
@@ -53667,7 +53799,7 @@
         "from": "book:index-of-premises",
         "to": "the-average-is-residue-not-the-engine",
         "rel": "collects",
-        "label": "The Average Is Residue, Not the Engine"
+        "label": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine"
       },
       {
         "from": "book:index-of-premises",
@@ -54747,7 +54879,7 @@
         "from": "book:life-and-statistics",
         "to": "the-average-is-residue-not-the-engine",
         "rel": "collects",
-        "label": "The Average Is Residue, Not the Engine"
+        "label": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine"
       },
       {
         "from": "book:life-and-statistics",
