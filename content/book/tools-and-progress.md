@@ -29,7 +29,7 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [The Utility Men of Progress](../../posts/the-utility-men-of-progress/)
 - [The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/)
 - [Climbing Does Not Leave the Ground](../../posts/climbing-does-not-leave-the-ground/)
-- [Technology Is Residual of Human Compounding](../../posts/technology-is-residual-of-human-compounding/)
+- [技术是人类复利的残差 / Technology Is Residual of Human Compounding](../../posts/technology-is-residual-of-human-compounding/)
 - [要紧的控制迁往边缘 / Essential Control Moves to the Edge](../../posts/residual-control-recedes-to-the-edge/)
 - [减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/)
 - [技术变革的局部陷阱 / The Local Trap of Technological Change](../../posts/the-local-trap-of-technological-change/)

@@ -1487,11 +1487,11 @@ Techno-feudalism holds that capital buying compute will freeze human hierarchy f
 ### 技术决定论 / Technological Determinism
 `技术 / Technological`
 
-技术决定论将机器描绘为独立凌驾并奴役人类的外在力量；技术实则是历代人类心智在直面生存摩擦时，所凝结出的物质沉淀。
+技术决定论预设技术是一股立于人类之外、推动或支配人类的力量，在追踪工具如何改变可做之事时有用；它在此到了边界：技术是人类被自身相继的修改因子连乘之后超出基线的残差，没有独立的基底，也不能逆转塑造的方向。
 
-Technological determinism casts machines as an independent force enslaving humanity; technology is the accumulating material residue authored by generations of human problem-solving.
+Technological determinism presumes technology is a force standing apart from humanity that drives or governs it, which is of use in tracking how tools change what can be done; it reaches its boundary in that technology is the excess of Human, multiplied by successive factors of its own modification, over the baseline, with no separate substrate and no power to reverse the direction of shaping.
 
-→ [Technology Is Residual of Human Compounding](../../posts/technology-is-residual-of-human-compounding/)
+→ [技术是人类复利的残差 / Technology Is Residual of Human Compounding](../../posts/technology-is-residual-of-human-compounding/)
 
 ### 技术奇点理论 / Technological Singularity
 `技术 / Technological`

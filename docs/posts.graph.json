@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T17:35:19.659Z",
+    "generated_at": "2026-10-16T17:39:18.552Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -189,7 +189,7 @@
       "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "2e63440fe8c1",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "0728908bdaaa",
-      "content/posts/technology-is-residual-of-human-compounding.md": "61082491a4fe",
+      "content/posts/technology-is-residual-of-human-compounding.md": "f276ef57fe6d",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "75fd0f9205d1",
       "content/posts/the-arithmetic-of-the-register.md": "1c7a77817624",
       "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
@@ -279,7 +279,7 @@
       "content/posts/the-irreducible-observer.md": "ad01ade05654",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "247a3d936241",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "05aea2f69ed2",
-      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "895266756ce9",
+      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "6d48c01379f5",
       "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
       "content/posts/the-living-context.md": "2d1c878d63a5",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "e4239f54f478",
       "content/book/economics.md": "e033239d4d7b",
-      "content/book/index-of-premises.md": "e1d25385e7ef",
+      "content/book/index-of-premises.md": "90c806b59306",
       "content/book/intelligence.md": "33d5903fd201",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "29ed3e1c02fc",
@@ -416,11 +416,11 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "f81e1fd3037a",
       "content/book/success-and-the-self.md": "cb5117241af0",
-      "content/book/tools-and-progress.md": "0343ea0c8731"
+      "content/book/tools-and-progress.md": "e973b8ae1921"
     },
     "stats": {
       "posts": 393,
-      "edges": 6634,
+      "edges": 6652,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -5080,8 +5080,8 @@
       "kind": "post",
       "slug": "technology-is-residual-of-human-compounding",
       "path": "content/posts/technology-is-residual-of-human-compounding.md",
-      "title": "Technology Is Residual of Human Compounding",
-      "hash": "61082491a4fe",
+      "title": "技术是人类复利的残差 / Technology Is Residual of Human Compounding",
+      "hash": "f276ef57fe6d",
       "in_degree": 18,
       "out_degree": 18,
       "links_out": [
@@ -7099,7 +7099,7 @@
       "slug": "the-ladder-of-abstraction-and-the-executable-entity",
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity",
-      "hash": "895266756ce9",
+      "hash": "6d48c01379f5",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -28300,73 +28300,151 @@
       "from": "technology-is-residual-of-human-compounding",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
-      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
+      "label": "对“AI 糟粕”的反感是反复出现的模式"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The Distaste for “AI Slop” Is a Recurring Pattern"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "not-predicting-is-predicting-without-awareness",
       "rel": "points_to",
-      "label": "Not predicting is predicting without awareness"
+      "label": "不预测是没有觉察的预测"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "order-surplus-and-the-moral-intercept",
       "rel": "points_to",
-      "label": "Order, surplus, and the moral intercept"
+      "label": "秩序、剩余与道德拦截"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not Predicting Is Predicting Without Awareness"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "the-artifacts-of-self-amplification",
       "rel": "points_to",
-      "label": "The artifacts of self-amplification"
+      "label": "自我放大的制品"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "A creation cannot replace its source"
+      "label": "造物无法取代其源头"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "the-artifacts-of-self-amplification",
+      "rel": "points_to",
+      "label": "The Artifacts of Self-Amplification"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind’s Distinction"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "the-local-trap-of-technological-change",
+      "rel": "points_to",
+      "label": "技术变革的局部陷阱"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
@@ -28378,25 +28456,55 @@
       "from": "technology-is-residual-of-human-compounding",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "Climbing does not leave the ground"
+      "label": "攀登从未离开地面"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "要紧的控制迁往边缘"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing Does Not Leave the Ground"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
       "to": "residual-control-recedes-to-the-edge",
       "rel": "points_to",
       "label": "Essential Control Moves to the Edge"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "抽象的阶梯与可执行的实体"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
@@ -37846,7 +37954,7 @@
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "技术的复利残差"
+      "label": "技术是人类复利的残差"
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
@@ -49704,7 +49812,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "e1d25385e7ef",
+        "hash": "90c806b59306",
         "out_degree": 393
       },
       {
@@ -49812,7 +49920,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "0343ea0c8731",
+        "hash": "e973b8ae1921",
         "out_degree": 32
       }
     ],
@@ -51729,7 +51837,7 @@
         "from": "book:index-of-premises",
         "to": "technology-is-residual-of-human-compounding",
         "rel": "collects",
-        "label": "Technology Is Residual of Human Compounding"
+        "label": "技术是人类复利的残差 / Technology Is Residual of Human Compounding"
       },
       {
         "from": "book:index-of-premises",
@@ -56073,7 +56181,7 @@
         "from": "book:tools-and-progress",
         "to": "technology-is-residual-of-human-compounding",
         "rel": "collects",
-        "label": "Technology Is Residual of Human Compounding"
+        "label": "技术是人类复利的残差 / Technology Is Residual of Human Compounding"
       },
       {
         "from": "book:tools-and-progress",
