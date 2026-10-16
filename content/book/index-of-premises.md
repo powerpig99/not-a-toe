@@ -1181,11 +1181,11 @@ Modern portfolio theory describes returns with a bell curve, which is of use in 
 ### 以买方垄断论证工资下限 / Monopsony Justification for Wage Floors
 `经济 / Economic`
 
-以法令设定工资的框架需要不断补充关于市场力量与需求无弹性的假设；它能贴合局部案例，却要不断调整以应对方向性的失业证据。
+以法令设定工资的框架借助市场力量与需求无弹性的假设，在解释局部的买方垄断案例时有用；它在此到了边界：这些假设必须不断重新调校，才能容纳失业与技能积累放慢出现在相对生产率最低者之中的方向性证据。
 
-Frameworks setting wages by decree need continual assumptions about market power and inelastic demand; they can fit local cases while requiring retuning against directional disemployment evidence.
+Frameworks setting wages by decree lean on assumptions about market power and inelastic demand, which is of use in explaining local monopsony cases; it reaches its boundary in that those assumptions need continual retuning to accommodate directional evidence that disemployment and slowed skill accumulation appear among the least productive workers.
 
-→ [The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)
+→ [财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)
 
 ### 朴素实在论 / Naive Realism
 `哲学 / Philosophical`
@@ -3356,7 +3356,7 @@ Keeping the bowl near-empty and deferring every commitment is of use in guarding
 
 Mandated wage floors assume the measured wage is an independent cause of welfare, which is of use in drawing an enforceable floor under employment; it reaches its boundary in that the wage is a relative signal of prior conditions, so decreeing it suppresses feedback for those whose productivity sits below the floor.
 
-→ [The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/) · [工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
+→ [财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/) · [工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
 
 ### 无限全知全能的幻象 / Mirage of Infinite Totality
 `哲学 / Philosophical`
@@ -4981,11 +4981,11 @@ A wealth tax presumes residual control over others’ assets can be directed tow
 ### 财富转移政策 / Wealth-Transfer Policies
 `经济 / Economic`
 
-转移支付以看得见的短期缓解为依据；以支付替代市场结果，扭曲了本可缩小差距的信号，代价集中落在最不显眼的地方。
+转移支付以看得见的短期缓解为依据，在缓解眼前的困境时有用；它在此到了边界：以支付替代市场结果，压制了本可以弥合差距的相对信号，代价集中落在最不显眼的地方。
 
-Transfers are justified by visible short-term relief; substituting payment for the market outcome distorts the signal that would close the gap, with costs concentrated where they re-enter least visibly.
+Transfers are justified by visible short-term relief, which is of use in easing immediate hardship; it reaches its boundary in that substituting payment for the market outcome suppresses the relative signal that would close the gap, with costs concentrated where they re-enter least visibly.
 
-→ [The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)
+→ [财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)
 
 ### 世界政府 / World Government
 `意识形态 / Ideological`

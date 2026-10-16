@@ -279,10 +279,6 @@
       "title_zh": "拥有更多从不是原因",
       "subtitle_zh": "优势的复利是持续的区分留下偏好的痕迹；占有说的是当前的呈现，不是一股独立的力量。"
     },
-    "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors": {
-      "title_zh": "财富转移政策与价格下限中的原因错置",
-      "subtitle_zh": "被测得的工资是先前条件的痕迹；把它当作独立的原因去干预，会压制本可以弥合差距的相对信号。"
-    },
     "public-spending-does-not-create-capital": {
       "title_zh": "公共支出不创造资本",
       "subtitle_zh": "每一次部署都先从私人手中取走资源；“投资”这个标签把这次再分配冻结起来，好像有一个集体的中心在书写创造。"
@@ -449,6 +445,9 @@
     },
     "help-is-half-the-problem": {
       "title_zh": "帮助是问题的一半"
+    },
+    "the-myth-of-population-collapse-explained": {
+      "title_zh": "人口崩溃神话的拆解"
     }
   }
 }

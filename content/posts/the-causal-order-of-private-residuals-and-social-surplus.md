@@ -96,7 +96,7 @@ flowchart TD
     style ZERO fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-这种干预的破坏性是由前述97.8%与2.2%的悬殊比例所决定的巨大杠杆效应。由于每一单位留存于创新者的私人回报在下游对应着大约45单位的公众福利，当政策决策者通过管制或抽税抹去1单位的预期私人回报并自诩在促进均等时，真实发生的物理后果是阻断了45单位的公众红利生成。正如在[财富转移政策与价格下限中的因果错位](../the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)以及[秩序、剩余与道德拦截](../order-surplus-and-the-moral-intercept/)中所阐明的那样，自上而下的行政拦截无法凭空变出可供享用的财富；当它自以为是在分割存量利益时，它实际上是在未来的时间轴上清除了包含更低物价、更广服务和更强生产力的庞大增量。
+这种干预的破坏性是由前述97.8%与2.2%的悬殊比例所决定的巨大杠杆效应。由于每一单位留存于创新者的私人回报在下游对应着大约45单位的公众福利，当政策决策者通过管制或抽税抹去1单位的预期私人回报并自诩在促进均等时，真实发生的物理后果是阻断了45单位的公众红利生成。正如在[财富转移政策与价格下限中的原因错置](../the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)以及[秩序、剩余与道德拦截](../order-surplus-and-the-moral-intercept/)中所阐明的那样，自上而下的行政拦截无法凭空变出可供享用的财富；当它自以为是在分割存量利益时，它实际上是在未来的时间轴上清除了包含更低物价、更广服务和更强生产力的庞大增量。
 
 The destructive leverage of such intervention is dictated by the forty-five-to-one ratio between 97.8 percent and 2.2 percent. Because each unit of private return retained by an innovator supports approximately forty-five units of downstream public surplus, wiping out one unit of expected payoff under the banner of egalitarianism eliminates forty-five units of consumer surplus. As articulated in [The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/) and [Order, Surplus, and the Moral Intercept](../order-surplus-and-the-moral-intercept/), top-down administrative intercepts cannot conjure edible surplus out of moral decrees; while planners believe they are dividing an existing prize, they are actually erasing the future arrival of lower prices, wider access, and compounded productivity.
 

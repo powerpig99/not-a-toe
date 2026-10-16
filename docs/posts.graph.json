@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T09:39:31.876Z",
+    "generated_at": "2026-10-16T09:43:21.039Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -209,7 +209,7 @@
       "content/posts/the-category-error-of-better.md": "3720a667e30e",
       "content/posts/the-causal-inversion-of-partnership.md": "3e0b8b306740",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "c57c3511aac6",
-      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "c80a6632d8f6",
+      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "fbf5eec7b863",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "6c191f9ad616",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
       "content/posts/the-closed-loop-of-representation.md": "633ffdcca70d",
@@ -329,7 +329,7 @@
       "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
       "content/posts/the-returning-signal-and-its-claim.md": "6a118ede0799",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "bd360ece4ee7",
-      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "1cd462d2e211",
+      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "4f50931bd230",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "bad6dded7e53",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "e4da611b6c1d",
@@ -403,8 +403,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "525b07ca41c4",
-      "content/book/economics.md": "f3eee272aa42",
-      "content/book/index-of-premises.md": "e98e027c398c",
+      "content/book/economics.md": "e033239d4d7b",
+      "content/book/index-of-premises.md": "9b6108fc65af",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "49a199864e1e",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6475,
+      "edges": 6491,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -5613,7 +5613,7 @@
       "slug": "the-causal-order-of-private-residuals-and-social-surplus",
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
-      "hash": "c80a6632d8f6",
+      "hash": "fbf5eec7b863",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -8209,8 +8209,8 @@
       "kind": "post",
       "slug": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "path": "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md",
-      "title": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors",
-      "hash": "1cd462d2e211",
+      "title": "财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors",
+      "hash": "4f50931bd230",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -29920,7 +29920,7 @@
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "财富转移政策与价格下限中的因果错位"
+      "label": "财富转移政策与价格下限中的原因错置"
     },
     {
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
@@ -41314,55 +41314,115 @@
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
-      "label": "When the effect authors the frame"
+      "label": "当效果主宰了框架的叙事"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "rel": "points_to",
-      "label": "The hours ranking freezes adequacy as one scoreboard"
+      "label": "工时排名把充足度冻结成一张记分牌"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "Emotional support as causal interference"
+      "label": "情感支持作为因果干扰"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+      "rel": "points_to",
+      "label": "The Hours Ranking Freezes Adequacy as One Scoreboard"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional Support as Causal Interference"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "Price as utterance, understanding as trade"
+      "label": "价格是言说，理解是交易"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
-      "label": "Therapy opens the feedback loop"
+      "label": "疗愈打开反馈回路"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "公共支出不创造资本"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
+      "label": "人口崩溃神话的拆解"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "rel": "points_to",
+      "label": "能动性、复利与 AI 封建之争"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy Opens the Feedback Loop"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -41374,19 +41434,49 @@
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
-      "label": "Restriction is a selective tax"
+      "label": "限制是选择性的税"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind’s Distinction"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -41404,7 +41494,13 @@
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
     },
     {
       "from": "the-reversal-of-education-and-science",
@@ -48741,7 +48837,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "f3eee272aa42",
+        "hash": "e033239d4d7b",
         "out_degree": 28
       },
       {
@@ -48750,7 +48846,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "e98e027c398c",
+        "hash": "9b6108fc65af",
         "out_degree": 393
       },
       {
@@ -49371,7 +49467,7 @@
         "from": "book:economics",
         "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "rel": "collects",
-        "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+        "label": "财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
       },
       {
         "from": "book:economics",
@@ -50481,7 +50577,7 @@
         "from": "book:index-of-premises",
         "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "rel": "collects",
-        "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+        "label": "财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
       },
       {
         "from": "book:index-of-premises",
@@ -52095,7 +52191,7 @@
         "from": "book:index-of-premises",
         "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "rel": "collects",
-        "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+        "label": "财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
       },
       {
         "from": "book:index-of-premises",
@@ -53271,7 +53367,7 @@
         "from": "book:index-of-premises",
         "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "rel": "collects",
-        "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+        "label": "财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
       },
       {
         "from": "book:index-of-premises",
