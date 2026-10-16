@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T20:56:02.229Z",
+    "generated_at": "2026-10-16T20:59:53.255Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -17,7 +17,7 @@
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "842babd14bbf",
       "content/posts/agency-does-not-arise.md": "5c22547d1783",
-      "content/posts/agency-relocated-into-the-formal-model.md": "da682966ae6c",
+      "content/posts/agency-relocated-into-the-formal-model.md": "c961561b57a8",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "24615382c532",
       "content/posts/ai-as-augmentation.md": "a27a4ea86606",
@@ -109,13 +109,13 @@
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "d714a4732f36",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
-      "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "097e33c7e6b5",
+      "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "156e79b99bf0",
       "content/posts/looping-and-graphing.md": "062e2dbb437d",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "5350932aaa7c",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "753fa98ec858",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "8020a2eef85f",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "d4fb9ab26507",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "3253deb787d2",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
@@ -167,7 +167,7 @@
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "cd3ec066c2f8",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f85879109b9b",
       "content/posts/residual-control-recedes-to-the-edge.md": "48dea51167fd",
-      "content/posts/residual-individualism.md": "7ce6d17d0bad",
+      "content/posts/residual-individualism.md": "b3c7a0af86ff",
       "content/posts/restriction-is-a-selective-tax.md": "41418edaaaad",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -242,7 +242,7 @@
       "content/posts/the-flywheel-of-the-mind.md": "41c27a04120a",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "6d5b630b2c56",
       "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
-      "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "bde0508734b3",
+      "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "dde3f74f7d30",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "f90a8819ab4e",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "0cb0a4998c97",
@@ -301,9 +301,9 @@
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "67c15f066b11",
       "content/posts/the-myth-of-population-collapse-explained.md": "891609ded049",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
-      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "e6296345035d",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "cb2cf97eb23c",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "99b5bd10ba18",
-      "content/posts/the-npc-impression-is-structural.md": "f080ebfaf58b",
+      "content/posts/the-npc-impression-is-structural.md": "c38c187ff805",
       "content/posts/the-observational-cut-in-ai-debates.md": "4c40a00e0ba9",
       "content/posts/the-only-coherent-uncaused-effect.md": "b8d494757a53",
       "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "3e8d9f0c8fc2",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "a78e410dcce6",
+      "content/book/index-of-premises.md": "d7c27e66275a",
       "content/book/intelligence.md": "33d5903fd201",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -414,13 +414,13 @@
       "content/book/morality.md": "3b6c3249cdb9",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "f81e1fd3037a",
+      "content/book/state-and-collective.md": "7ad34d65cf9d",
       "content/book/success-and-the-self.md": "cb5117241af0",
       "content/book/tools-and-progress.md": "e973b8ae1921"
     },
     "stats": {
       "posts": 393,
-      "edges": 6755,
+      "edges": 6770,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -851,7 +851,7 @@
       "slug": "agency-relocated-into-the-formal-model",
       "path": "content/posts/agency-relocated-into-the-formal-model.md",
       "title": "能动性被转置入形式模型 / Agency Relocated into the Formal Model",
-      "hash": "da682966ae6c",
+      "hash": "c961561b57a8",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -3068,8 +3068,8 @@
       "kind": "post",
       "slug": "liberation-rhetoric-begins-by-defining-captivity",
       "path": "content/posts/liberation-rhetoric-begins-by-defining-captivity.md",
-      "title": "Liberation Rhetoric Begins by Defining Captivity",
-      "hash": "097e33c7e6b5",
+      "title": "解放的言辞始于定义囚禁 / Liberation Rhetoric Begins by Defining Captivity",
+      "hash": "156e79b99bf0",
       "in_degree": 15,
       "out_degree": 15,
       "links_out": [
@@ -3215,7 +3215,7 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "8020a2eef85f",
+      "hash": "d4fb9ab26507",
       "in_degree": 43,
       "out_degree": 43,
       "links_out": [
@@ -4566,7 +4566,7 @@
       "slug": "residual-individualism",
       "path": "content/posts/residual-individualism.md",
       "title": "剩余个人主义 / Residual Individualism",
-      "hash": "7ce6d17d0bad",
+      "hash": "b3c7a0af86ff",
       "in_degree": 24,
       "out_degree": 23,
       "links_out": [
@@ -6329,7 +6329,7 @@
       "slug": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "path": "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md",
       "title": "自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It",
-      "hash": "bde0508734b3",
+      "hash": "dde3f74f7d30",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -7550,7 +7550,7 @@
       "slug": "the-name-revolution-files-a-life-as-evidence",
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
-      "hash": "e6296345035d",
+      "hash": "cb2cf97eb23c",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -7594,7 +7594,7 @@
       "slug": "the-npc-impression-is-structural",
       "path": "content/posts/the-npc-impression-is-structural.md",
       "title": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds",
-      "hash": "f080ebfaf58b",
+      "hash": "c38c187ff805",
       "in_degree": 13,
       "out_degree": 14,
       "links_out": [
@@ -10918,7 +10918,7 @@
       "from": "agency-relocated-into-the-formal-model",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "解放的话术始于对囚禁的定义"
+      "label": "解放的言辞始于定义囚禁"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -20134,55 +20134,133 @@
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "The NPC impression is structural"
+      "label": "NPC 印象是结构性的"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC Impression Is Structural"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
-      "label": "The paradoxical nature of bystander insights"
+      "label": "旁观者洞察的悖论"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "When observation becomes performance"
+      "label": "当观察变成表演"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The coordinator’s category error"
+      "label": "协调者的范畴错误"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "赋权确立权力的集中"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "rel": "points_to",
-      "label": "The free mind is displaced by what claims to protect it"
+      "label": "自由的心智被声称保护它的东西取代"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
-      "label": "Agency relocated into the formal model"
+      "label": "能动性被转置入形式模型"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "the-name-revolution-files-a-life-as-evidence",
       "rel": "points_to",
-      "label": "The name revolution files a life as evidence"
+      "label": "革命之名把生活收成证据"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The Coordinator's Category Error"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "The Free Mind Is Displaced by What Claims to Protect It"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "Agency Relocated into the Formal Model"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "The Name Revolution Files a Life as Evidence"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "帮助是问题的一半"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "the-compassion-is-the-mechanism-of-obscuration",
+      "rel": "points_to",
+      "label": "慈悲即遮蔽的机制"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "剩余个人主义"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
@@ -20194,31 +20272,43 @@
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "help-is-half-the-problem",
       "rel": "points_to",
-      "label": "Help is half the problem"
+      "label": "Help Is Half the Problem"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "the-compassion-is-the-mechanism-of-obscuration",
       "rel": "points_to",
-      "label": "the compassion is the mechanism of obscuration"
+      "label": "The Compassion Is the Mechanism of Obscuration"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "Residual Individualism"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "ownership and self-worthiness"
+      "label": "自我价值感与所有权"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "专家经验作为参考而非替代"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
     },
     {
       "from": "looping-and-graphing",
@@ -20782,7 +20872,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "解放的话术始于对囚禁的定义"
+      "label": "解放的言辞始于定义囚禁"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -26638,7 +26728,7 @@
       "from": "residual-individualism",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "解放的话术始于对囚禁的定义"
+      "label": "解放的言辞始于定义囚禁"
     },
     {
       "from": "residual-individualism",
@@ -34582,7 +34672,7 @@
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "解放的话术始于对囚禁的定义"
+      "label": "解放的言辞始于定义囚禁"
     },
     {
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
@@ -40204,7 +40294,7 @@
       "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "解放的话术始于对囚禁的定义"
+      "label": "解放的言辞始于定义囚禁"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
@@ -40384,7 +40474,7 @@
       "from": "the-npc-impression-is-structural",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "解放的话术始于对囚禁的定义"
+      "label": "解放的言辞始于定义囚禁"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -50430,7 +50520,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a78e410dcce6",
+        "hash": "d7c27e66275a",
         "out_degree": 393
       },
       {
@@ -50520,7 +50610,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "f81e1fd3037a",
+        "hash": "7ad34d65cf9d",
         "out_degree": 30
       },
       {
@@ -52125,7 +52215,7 @@
         "from": "book:index-of-premises",
         "to": "liberation-rhetoric-begins-by-defining-captivity",
         "rel": "collects",
-        "label": "Liberation Rhetoric Begins by Defining Captivity"
+        "label": "解放的言辞始于定义囚禁 / Liberation Rhetoric Begins by Defining Captivity"
       },
       {
         "from": "book:index-of-premises",
@@ -56427,7 +56517,7 @@
         "from": "book:state-and-collective",
         "to": "liberation-rhetoric-begins-by-defining-captivity",
         "rel": "collects",
-        "label": "Liberation Rhetoric Begins by Defining Captivity"
+        "label": "解放的言辞始于定义囚禁 / Liberation Rhetoric Begins by Defining Captivity"
       },
       {
         "from": "book:state-and-collective",

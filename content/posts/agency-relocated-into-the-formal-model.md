@@ -12,7 +12,7 @@ A public urging asks mathematicians and the curious to study the abstraction of 
 
 The urging frames study as a path to greater individual agency. That framing quietly presumes that agency is lacking now and must be acquired by mastering the formal models. Agency is treated as something that resides in, or is granted by, the mathematical constructions and the system designs built on them. The independent variable, individual choice, is relocated from the minds that design and react into the abstractions themselves. The stated intention locates agency in the models. That location is the displacement.
 
-[解放的话术始于对囚禁的定义](../liberation-rhetoric-begins-by-defining-captivity/)是这同一个前提装扮成身份的一面：先把他人看作不自由的，解放的言说才能站上源头的位置。这里的诊断更薄、更技术：不是说这个人是囚徒，而是说能动要等着进入模型。[赋权确立权力的集中](../empowerment-establishes-the-centralization-of-power/)是授予的一面：能力被框定为一个被授权的源头送来的礼物。在这份号召里，被授权的源头就是构造本身。
+[解放的言辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)是这同一个前提装扮成身份的一面：先把他人看作不自由的，解放的言说才能站上源头的位置。这里的诊断更薄、更技术：不是说这个人是囚徒，而是说能动要等着进入模型。[赋权确立权力的集中](../empowerment-establishes-the-centralization-of-power/)是授予的一面：能力被框定为一个被授权的源头送来的礼物。在这份号召里，被授权的源头就是构造本身。
 
 [Liberation rhetoric begins by defining captivity](../liberation-rhetoric-begins-by-defining-captivity/) is that prior in the costume of identity: the other is first held as unfree so that the speech of release can stand as source. Here the diagnosis is thinner and more technical: not that the person is a captive, but that agency waits on entry into the model. [Empowerment establishes the centralization of power](../empowerment-establishes-the-centralization-of-power/) is the face of conferral: capacity framed as a gift from an authorized source. In this urging, the authorized source is the construction itself.
 

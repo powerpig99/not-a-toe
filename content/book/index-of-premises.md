@@ -1136,11 +1136,11 @@ Difference-making presumes that under given laws and prior conditions, causal co
 ### 解放叙事的俘虏身份陷阱 / Liberationist Identity Trap
 `意识形态 / Ideological`
 
-解放运动自许为拯民于水火的正义使者；高筑解救者人设的前提，却是先把所指称的受众死死钉在任人宰割的受害者耻辱柱上。
+解放的言辞预设，观察者能从他人的行为里读出他们已经被俘，并由此成为他们自由的来源，在提醒人注意一个习惯或一种媒介的拉力时有用；它在此到了边界：把被观察到的动作定为他人之所是，就已经在这里画出了一份等级，而建立在这份定义之上的解放，只会让它更密，自我定义仍只能由那个继续着的所在来进行。
 
-Liberation movements present themselves as selfless deliverers from oppression; proclaiming oneself a liberator requires first fixing the client population into a helpless captive identity.
+Liberation rhetoric presumes that an observer can read in another's behavior that they are already captive, and so become the source of their freedom, which is of use in drawing attention to the pull of a habit or a medium; it reaches its boundary in that defining the observed act as what the other is already draws a hierarchy here, a liberation built on that definition only densifies it, and self-definition can still be performed only by the locus that continues.
 
-→ [Liberation Rhetoric Begins by Defining Captivity](../../posts/liberation-rhetoric-begins-by-defining-captivity/)
+→ [解放的言辞始于定义囚禁 / Liberation Rhetoric Begins by Defining Captivity](../../posts/liberation-rhetoric-begins-by-defining-captivity/)
 
 ### 乘法过程产生的对数正态分布 / Log-normal Distribution from Multiplicative Processes
 `数学 / Mathematical`

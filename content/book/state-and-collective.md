@@ -29,7 +29,7 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 - [Shared Humanity Is Never Shared](../../posts/shared-humanity-is-never-shared/)
 - [Empowerment Establishes the Centralization of Power](../../posts/empowerment-establishes-the-centralization-of-power/)
 - [The Belief in Utopia Is the Path to Dystopia](../../posts/the-belief-in-utopia-is-the-path-to-dystopia/)
-- [Liberation Rhetoric Begins by Defining Captivity](../../posts/liberation-rhetoric-begins-by-defining-captivity/)
+- [解放的言辞始于定义囚禁 / Liberation Rhetoric Begins by Defining Captivity](../../posts/liberation-rhetoric-begins-by-defining-captivity/)
 - [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/)
 - [政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
 - [能动性的错配 / The Misallocation of Agency](../../posts/the-misallocation-of-agency/)
