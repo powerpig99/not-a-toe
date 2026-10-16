@@ -4058,7 +4058,7 @@ Averaging presumes a mean preference can stand as independent variable; it is th
 
 The premise takes hands-on ownership of the substrate stack as the primary seat of agency, which is of use where constraints are unclear or verification is missing and configuring by hand is needed; it reaches its boundary in that once agents provision and maintain the substrate with less friction, that ownership becomes optional residue and essential control relocates to criteria, bounds and verification, at rates that differ across contexts.
 
-→ [剩余控制退向边缘 / Residual Control Recedes to the Edge](../../posts/residual-control-recedes-to-the-edge/)
+→ [要紧的控制迁往边缘 / Essential Control Moves to the Edge](../../posts/residual-control-recedes-to-the-edge/)
 
 ### 资源丰裕作为因果源头 / Resource Abundance as Cause
 `哲学 / Philosophical`
