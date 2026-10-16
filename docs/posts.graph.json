@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T11:31:21.808Z",
+    "generated_at": "2026-10-16T11:56:44.513Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -31,7 +31,7 @@
       "content/posts/causality-and-the-irreducible-prior.md": "2a037b747d53",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "01422703e001",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "24fe759f57fc",
-      "content/posts/cheng-gong-xue.md": "0dfd904097af",
+      "content/posts/cheng-gong-xue.md": "a977d86be82f",
       "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "24157a13530f",
@@ -1208,7 +1208,7 @@
       "slug": "cheng-gong-xue",
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学 / Theories After Success",
-      "hash": "0dfd904097af",
+      "hash": "a977d86be82f",
       "in_degree": 19,
       "out_degree": 18,
       "links_out": [
@@ -1225,8 +1225,8 @@
         "the-map-after-the-territory",
         "po-chu-gai-nian-de-jian-yue",
         "the-geometry-of-success",
-        "causality-all-the-way",
         "qian-yin-hou-guo",
+        "causality-all-the-way",
         "guan-yu-gui-yin",
         "mi-lv-shi-jie-guo-de-biao-xiang",
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun"
@@ -12538,7 +12538,7 @@
       "from": "cheng-gong-xue",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual Individualism"
+      "label": "Residual Individualism: The Only Operative Variable in the Affairs of Human Societies"
     },
     {
       "from": "cheng-gong-xue",
@@ -12602,15 +12602,33 @@
     },
     {
       "from": "cheng-gong-xue",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
+    },
+    {
+      "from": "cheng-gong-xue",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "因果贯穿始终"
     },
     {
       "from": "cheng-gong-xue",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "The Geometry of Success"
+    },
+    {
+      "from": "cheng-gong-xue",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
-      "label": "前因，后果"
+      "label": "Cause Before, Effect After"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
     },
     {
       "from": "cheng-gong-xue",
@@ -12629,24 +12647,6 @@
       "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "rel": "points_to",
       "label": "路口的转向与地平说的行动悖论"
-    },
-    {
-      "from": "cheng-gong-xue",
-      "to": "the-geometry-of-success",
-      "rel": "points_to",
-      "label": "The Geometry of Success"
-    },
-    {
-      "from": "cheng-gong-xue",
-      "to": "causality-all-the-way",
-      "rel": "points_to",
-      "label": "Causality All the Way"
-    },
-    {
-      "from": "cheng-gong-xue",
-      "to": "qian-yin-hou-guo",
-      "rel": "points_to",
-      "label": "Cause Before, Effect After"
     },
     {
       "from": "cheng-gong-xue",
