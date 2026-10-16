@@ -30,7 +30,7 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/)
 - [Climbing Does Not Leave the Ground](../../posts/climbing-does-not-leave-the-ground/)
 - [Technology Is Residual of Human Compounding](../../posts/technology-is-residual-of-human-compounding/)
-- [Residual Control Recedes to the Edge](../../posts/residual-control-recedes-to-the-edge/)
+- [剩余控制退向边缘 / Residual Control Recedes to the Edge](../../posts/residual-control-recedes-to-the-edge/)
 - [减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/)
 - [技术变革的局部陷阱 / The Local Trap of Technological Change](../../posts/the-local-trap-of-technological-change/)
 - [看不见的第一步 / The Invisible First Move](../../posts/the-invisible-first-move/)

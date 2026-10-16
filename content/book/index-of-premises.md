@@ -4051,14 +4051,14 @@ Averaging presumes a mean preference can stand as independent variable; it is th
 
 → [The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories](../../posts/the-rational-choice-postulate-is-the-original-sin/)
 
-### 剩余控制权边缘后撤 / Residual Control Rights Receding
-`经济 / Economic`
+### 底层所有权即控制 / Substrate Ownership as Control
+`技术 / Technological`
 
-管理模型假定自动化免除了人的监督负担；把执行细节交托给系统，反倒使真正的剩余控制权高度凝聚于定夺边界准则的前哨。
+该前提把对底层技术栈的亲手掌握当作能动性的首要所在，在约束未明或验证尚缺、需要亲手配置时有用；它在此到了边界：当智能体能更省力地配置并维护底层，那份掌握便成了可选的剩余，要紧的控制迁往标准、界限与验证，而迁移的速率在不同情境中并不均匀。
 
-Management models assume automation eliminates the need for human supervision; delegating mechanics pushes decisive residual control to the final edge where boundary criteria are fixed.
+The premise takes hands-on ownership of the substrate stack as the primary seat of agency, which is of use where constraints are unclear or verification is missing and configuring by hand is needed; it reaches its boundary in that once agents provision and maintain the substrate with less friction, that ownership becomes optional residue and essential control relocates to criteria, bounds and verification, at rates that differ across contexts.
 
-→ [Residual Control Recedes to the Edge](../../posts/residual-control-recedes-to-the-edge/)
+→ [剩余控制退向边缘 / Residual Control Recedes to the Edge](../../posts/residual-control-recedes-to-the-edge/)
 
 ### 资源丰裕作为因果源头 / Resource Abundance as Cause
 `哲学 / Philosophical`

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T13:31:14.849Z",
+    "generated_at": "2026-10-16T16:48:09.362Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -13,7 +13,7 @@
       "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
       "content/posts/a-new-deeper-look-at-antifragility.md": "038c06ecede5",
       "content/posts/abstract-pain-and-living-hunger.md": "2e4f27bcaae8",
-      "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "2e7b16607892",
+      "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "8943c579dc0d",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "aea47030ee7c",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "842babd14bbf",
       "content/posts/agency-does-not-arise.md": "5c22547d1783",
@@ -28,8 +28,8 @@
       "content/posts/beyond-the-hundred-trillion-horizon.md": "342aa576dd67",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
       "content/posts/causality-all-the-way.md": "b30f3ca08d48",
-      "content/posts/causality-and-the-irreducible-prior.md": "2a037b747d53",
-      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "01422703e001",
+      "content/posts/causality-and-the-irreducible-prior.md": "cbc0529e71e3",
+      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "7af25db31047",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "24fe759f57fc",
       "content/posts/cheng-gong-xue.md": "661834ac2957",
       "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
@@ -47,7 +47,7 @@
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "2214839a1db5",
       "content/posts/conscience-power-delegation.md": "d11e1672ae5d",
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "f0b1af83a286",
-      "content/posts/consciousness-never-appears-as-data-among-data.md": "734f80912b47",
+      "content/posts/consciousness-never-appears-as-data-among-data.md": "c3c2abf241da",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "07c48bc35eff",
@@ -92,8 +92,8 @@
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "0ab85cee9764",
       "content/posts/guidance-is-not-ownership.md": "7d51a8692137",
-      "content/posts/hardness-is-not-inherent-in-the-action.md": "33876b76477c",
-      "content/posts/hardware-locality-is-not-the-information-boundary.md": "eb4b20bef020",
+      "content/posts/hardness-is-not-inherent-in-the-action.md": "316eb567ee9c",
+      "content/posts/hardware-locality-is-not-the-information-boundary.md": "fb77c02bd72d",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "5c4fc62c8e77",
       "content/posts/having-more-is-never-the-cause.md": "4f88f0327c1b",
@@ -153,7 +153,7 @@
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "e21049e90be8",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
-      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "d5be4ec1e161",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "8bec08ba7c40",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "cde8a526b40c",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
@@ -166,12 +166,12 @@
       "content/posts/reality-is-the-minds-ongoing-realization.md": "11ef91285e9b",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "cd3ec066c2f8",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f85879109b9b",
-      "content/posts/residual-control-recedes-to-the-edge.md": "f58149fbe577",
+      "content/posts/residual-control-recedes-to-the-edge.md": "f6ccf267380e",
       "content/posts/residual-individualism.md": "7ce6d17d0bad",
       "content/posts/restriction-is-a-selective-tax.md": "41418edaaaad",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
-      "content/posts/selection-contradiction-and-open-reality.md": "093e86a3d9ee",
+      "content/posts/selection-contradiction-and-open-reality.md": "04f7665fb1f4",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "026feb5866bd",
       "content/posts/self-rl-for-humans.md": "9c6e189aabfd",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
@@ -245,7 +245,7 @@
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "2dd6dcb1b0ac",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "f90a8819ab4e",
-      "content/posts/the-functionalism-no-functionalist-can-hold.md": "591395049b84",
+      "content/posts/the-functionalism-no-functionalist-can-hold.md": "0cb0a4998c97",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "99601f73e350",
       "content/posts/the-generative-contradiction.md": "3ed3376e769b",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
@@ -312,7 +312,7 @@
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "ef81ddddf533",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "0d757a4508ca",
-      "content/posts/the-perceiver-and-the-trace.md": "bc9cb0909dbb",
+      "content/posts/the-perceiver-and-the-trace.md": "0f2f19a2e04a",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "39ba1ef8a7a3",
       "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "0f27052d1822",
@@ -340,7 +340,7 @@
       "content/posts/the-self-portrait-in-the-projection.md": "f4a97eba16ff",
       "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "c492db6aa503",
-      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "8bc5df7f087d",
+      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "21721c0327cd",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "3c66bd80af77",
       "content/posts/the-source-of-all-harm.md": "28246d1e392f",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
@@ -357,7 +357,7 @@
       "content/posts/the-unclosable-trace.md": "bd17d2a04bd6",
       "content/posts/the-unexamined-critic.md": "752a0cbd970f",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
-      "content/posts/the-unobservable-driver-of-learning.md": "884cddc55a98",
+      "content/posts/the-unobservable-driver-of-learning.md": "3c16e9fa6452",
       "content/posts/the-utility-men-of-progress.md": "f378543d8171",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "686bcbb6a5f7",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
@@ -378,7 +378,7 @@
       "content/posts/what-always-listens-cannot-originate.md": "46463a5182fe",
       "content/posts/what-cannot-be-kept.md": "54489c87b990",
       "content/posts/what-hinton-failed-to-understand.md": "9d99ffa661dc",
-      "content/posts/what-information-is.md": "e960cd1090c7",
+      "content/posts/what-information-is.md": "7cd6825d3ad0",
       "content/posts/what-works-is-the-belief.md": "37b5d1183dd7",
       "content/posts/whatever-is-one-prompt-away.md": "1f558b4ab069",
       "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
@@ -396,31 +396,31 @@
       "content/posts/you-tiao-jian-de-zi-you.md": "f25fdfec3ce2",
       "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "914571f5e4e9",
-      "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "ff31b706345a",
+      "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "fbf15c433774",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "edb2618d9902",
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "cbe5d03c5250",
-      "content/book/consciousness.md": "525b07ca41c4",
+      "content/book/consciousness.md": "e4239f54f478",
       "content/book/economics.md": "e033239d4d7b",
-      "content/book/index-of-premises.md": "ad0ddba8e708",
-      "content/book/intelligence.md": "8c71f5cb6226",
+      "content/book/index-of-premises.md": "844a430ff38f",
+      "content/book/intelligence.md": "33d5903fd201",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "49a199864e1e",
-      "content/book/mathematics.md": "21fdd83af9dd",
+      "content/book/mathematics.md": "9aa5763e8276",
       "content/book/meaning-and-transcendence.md": "57911cc9b326",
       "content/book/method.md": "d52dd5b06929",
       "content/book/morality.md": "3b6c3249cdb9",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "f81e1fd3037a",
-      "content/book/success-and-the-self.md": "f33f8f68a881",
-      "content/book/tools-and-progress.md": "fb71a7a1a375"
+      "content/book/success-and-the-self.md": "cb5117241af0",
+      "content/book/tools-and-progress.md": "ead3ab12d7ea"
     },
     "stats": {
       "posts": 393,
-      "edges": 6543,
+      "edges": 6612,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -739,8 +739,8 @@
       "kind": "post",
       "slug": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "path": "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md",
-      "title": "Abstraction, Boundaries, and the Moving Edge of Reality",
-      "hash": "2e7b16607892",
+      "title": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality",
+      "hash": "8943c579dc0d",
       "in_degree": 24,
       "out_degree": 24,
       "links_out": [
@@ -1106,7 +1106,7 @@
       "slug": "causality-and-the-irreducible-prior",
       "path": "content/posts/causality-and-the-irreducible-prior.md",
       "title": "因果与不可化约的先在 / Causality and the Irreducible Prior",
-      "hash": "2a037b747d53",
+      "hash": "cbc0529e71e3",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -1129,7 +1129,7 @@
       "slug": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
-      "hash": "01422703e001",
+      "hash": "7af25db31047",
       "in_degree": 19,
       "out_degree": 18,
       "links_out": [
@@ -1631,8 +1631,8 @@
       "kind": "post",
       "slug": "consciousness-never-appears-as-data-among-data",
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
-      "title": "Consciousness Never Appears as Data Among Data",
-      "hash": "734f80912b47",
+      "title": "意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data",
+      "hash": "c3c2abf241da",
       "in_degree": 23,
       "out_degree": 23,
       "links_out": [
@@ -2574,8 +2574,8 @@
       "kind": "post",
       "slug": "hardness-is-not-inherent-in-the-action",
       "path": "content/posts/hardness-is-not-inherent-in-the-action.md",
-      "title": "Hardness Is Not Inherent in the Action",
-      "hash": "33876b76477c",
+      "title": "难度不在行动本身 / Hardness Is Not Inherent in the Action",
+      "hash": "316eb567ee9c",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
@@ -2591,8 +2591,8 @@
       "kind": "post",
       "slug": "hardware-locality-is-not-the-information-boundary",
       "path": "content/posts/hardware-locality-is-not-the-information-boundary.md",
-      "title": "Hardware Locality Is Not the Information Boundary",
-      "hash": "eb4b20bef020",
+      "title": "硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary",
+      "hash": "fb77c02bd72d",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -4217,7 +4217,7 @@
       "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
-      "hash": "d5be4ec1e161",
+      "hash": "8bec08ba7c40",
       "in_degree": 13,
       "out_degree": 11,
       "links_out": [
@@ -4545,8 +4545,8 @@
       "kind": "post",
       "slug": "residual-control-recedes-to-the-edge",
       "path": "content/posts/residual-control-recedes-to-the-edge.md",
-      "title": "Residual Control Recedes to the Edge",
-      "hash": "f58149fbe577",
+      "title": "剩余控制退向边缘 / Residual Control Recedes to the Edge",
+      "hash": "f6ccf267380e",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -4653,7 +4653,7 @@
       "slug": "selection-contradiction-and-open-reality",
       "path": "content/posts/selection-contradiction-and-open-reality.md",
       "title": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality",
-      "hash": "093e86a3d9ee",
+      "hash": "04f7665fb1f4",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -6395,7 +6395,7 @@
       "slug": "the-functionalism-no-functionalist-can-hold",
       "path": "content/posts/the-functionalism-no-functionalist-can-hold.md",
       "title": "无人能持有的功能主义 / The Functionalism No Functionalist Can Hold",
-      "hash": "591395049b84",
+      "hash": "0cb0a4998c97",
       "in_degree": 11,
       "out_degree": 9,
       "links_out": [
@@ -7796,7 +7796,7 @@
       "slug": "the-perceiver-and-the-trace",
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
-      "hash": "bc9cb0909dbb",
+      "hash": "0f2f19a2e04a",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -8518,7 +8518,7 @@
       "slug": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
-      "hash": "8bc5df7f087d",
+      "hash": "21721c0327cd",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -8885,7 +8885,7 @@
       "slug": "the-unobservable-driver-of-learning",
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "学习中不可观测的驱动力 / The Unobservable Driver of Learning",
-      "hash": "884cddc55a98",
+      "hash": "3c16e9fa6452",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -9323,7 +9323,7 @@
       "slug": "what-information-is",
       "path": "content/posts/what-information-is.md",
       "title": "信息是什么 / What Information Is",
-      "hash": "e960cd1090c7",
+      "hash": "7cd6825d3ad0",
       "in_degree": 23,
       "out_degree": 23,
       "links_out": [
@@ -9745,7 +9745,7 @@
       "slug": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
       "path": "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md",
       "title": "“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion",
-      "hash": "ff31b706345a",
+      "hash": "fbf15c433774",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -10228,37 +10228,79 @@
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
-      "label": "Lossless knowledge of an open field is incoherent"
+      "label": "开放场域中的无损知识不自洽"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless Knowledge of an Open Field Is Incoherent"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "selection-contradiction-and-open-reality",
       "rel": "points_to",
-      "label": "Selection, contradiction, and open reality"
+      "label": "选择、矛盾与开放的现实"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, Contradiction, and Open Reality"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "causality all the way"
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "信息是什么"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -10270,103 +10312,211 @@
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
-      "label": "Why mathematics can never be solved"
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
-      "label": "The reality distortion field names the closed map"
+      "label": "现实扭曲力场指认的是封闭的地图"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Names the Closed Map"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
-      "label": "Whatever is one prompt away"
+      "label": "一个提示词之遥"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI are temporary goalposts"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever Is One Prompt Away"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "心智最坚固的信念"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "you-cant-benchmark-the-fluid",
       "rel": "points_to",
-      "label": "You can’t benchmark the fluid"
+      "label": "流动之物无法被基准衡量"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "You Can't Benchmark the Fluid"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
-      "label": "Causality and the irreducible prior"
+      "label": "因果与不可化约的先在"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
-      "label": "Potential infinity and the temporary closures of mathematical thought"
+      "label": "潜无限与数学思维的暂时闭合"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "rel": "points_to",
+      "label": "“知道自己不知道”是一种修辞假象"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the Irreducible Prior"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -11704,7 +11854,7 @@
       "from": "causality-and-the-irreducible-prior",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "抽象、边界与现实的移动前沿"
+      "label": "抽象、边界与现实的移动边缘"
     },
     {
       "from": "causality-and-the-irreducible-prior",
@@ -11842,7 +11992,7 @@
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "意识不会作为数据中的数据出现"
+      "label": "意识从不作为数据出现在数据之中"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -14326,37 +14476,85 @@
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "no-genius-can-solve-the-knowledge-problem",
       "rel": "points_to",
-      "label": "No genius can solve the knowledge problem"
+      "label": "没有天才能够解决知识问题"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "No Genius Can Solve the Knowledge Problem"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
-      "label": "The hard problem of consciousness is consistent with learning"
+      "label": "意识的难题与学习的能力相容"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
+      "label": "意识向量论文的真正教训"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "感知者与痕迹的不可坍缩"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "意识的魔术戏法与推断的非对称性"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The Hard Problem of Consciousness Is Consistent with Our Ability to Learn"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
@@ -14374,37 +14572,79 @@
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity obscures: emergence as the act of Mind"
+      "label": "复杂性遮蔽了涌现"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "理性选择公设是现代经济学理论一切错误的原罪"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind’s ongoing realization"
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "无人能持有的功能主义"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
@@ -14416,25 +14656,55 @@
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
+      "label": "集聚与人造主体性"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
       "label": "Collective and Artificial Subjectivity"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
-      "label": "The unobservable driver of learning"
+      "label": "学习中不可观测的驱动力"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "主体性不曾涌现"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The Unobservable Driver of Learning"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local; Intelligence Is Allocated"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
@@ -14446,19 +14716,37 @@
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
-      "label": "Causality and the irreducible prior"
+      "label": "因果与不可化约的先在"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
-      "label": "On closed systems, open minds, and the limits of proof"
+      "label": "论封闭系统、开放心智与证明的界限"
     },
     {
       "from": "consciousness-never-appears-as-data-among-data",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
-      "label": "Causality is Irreducible; The Physical is a View from Nowhere"
+      "label": "因果的自反性与物理的无源假定"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the Irreducible Prior"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+    },
+    {
+      "from": "consciousness-never-appears-as-data-among-data",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "Causality Is Irreducible; The Physical Is a View from Nowhere"
     },
     {
       "from": "context-engineering-essay",
@@ -17914,79 +18202,157 @@
       "from": "hardness-is-not-inherent-in-the-action",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
     },
     {
       "from": "hardness-is-not-inherent-in-the-action",
       "to": "failure-as-information",
       "rel": "points_to",
-      "label": "Failure as information"
+      "label": "失败即信息"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as Information"
     },
     {
       "from": "hardness-is-not-inherent-in-the-action",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity first"
+      "label": "好奇先行"
     },
     {
       "from": "hardness-is-not-inherent-in-the-action",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity First"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "hardness-is-not-inherent-in-the-action",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
-      "label": "What works is the belief"
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
       "to": "residual-control-recedes-to-the-edge",
       "rel": "points_to",
-      "label": "Residual control recedes to the edge"
+      "label": "剩余控制退向边缘"
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
       "to": "the-scaffolding-we-forget-local-models-as-default",
       "rel": "points_to",
-      "label": "The scaffolding we forget: local models as default"
+      "label": "我们遗忘的脚手架"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Residual Control Recedes to the Edge"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "the-scaffolding-we-forget-local-models-as-default",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local; Intelligence Is Allocated"
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
-      "label": "Advocating openness of others is a desire for closure of the self"
+      "label": "要求他人开放是对自我封闭的渴望"
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating Openness of Others Is a Desire for Closure of the Self"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "hassabis-frontier-agi-premise",
@@ -24628,7 +24994,7 @@
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "抽象、边界与现实的移动前沿"
+      "label": "抽象、边界与现实的移动边缘"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -25750,49 +26116,97 @@
       "from": "residual-control-recedes-to-the-edge",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
-      "label": "Whatever is one prompt away"
+      "label": "一个提示词之遥"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever Is One Prompt Away"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
-      "label": "The flywheel of the Mind"
+      "label": "心智的飞轮"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "Technology is residual of human compounding"
+      "label": "技术是人类复利的残差"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
       "to": "hardware-locality-is-not-the-information-boundary",
       "rel": "points_to",
-      "label": "Hardware locality is not the information boundary"
+      "label": "硬件的本地性不是信息的边界"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "The Flywheel of the Mind"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology Is Residual of Human Compounding"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware Locality Is Not the Information Boundary"
     },
     {
       "from": "residual-individualism",
@@ -26182,7 +26596,7 @@
       "from": "selection-contradiction-and-open-reality",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "抽象、边界与现实的移动前沿"
+      "label": "抽象、边界与现实的移动边缘"
     },
     {
       "from": "selection-contradiction-and-open-reality",
@@ -33970,7 +34384,7 @@
       "from": "the-functionalism-no-functionalist-can-hold",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "意识从不作为数据中的一项出现"
+      "label": "意识从不作为数据出现在数据之中"
     },
     {
       "from": "the-functionalism-no-functionalist-can-hold",
@@ -40072,7 +40486,7 @@
       "from": "the-perceiver-and-the-trace",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "意识从未以数据形式现身于数据之间"
+      "label": "意识从不作为数据出现在数据之中"
     },
     {
       "from": "the-perceiver-and-the-trace",
@@ -43078,7 +43492,7 @@
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "意识从不作为数据中的数据出现"
+      "label": "意识从不作为数据出现在数据之中"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -43090,7 +43504,7 @@
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "consciousness-never-appears-as-data-among-data"
+      "label": "Consciousness Never Appears as Data Among Data"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -44746,7 +45160,7 @@
       "from": "the-unobservable-driver-of-learning",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "意识从未作为数据中的数据出现"
+      "label": "意识从不作为数据出现在数据之中"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -46792,7 +47206,7 @@
       "from": "what-information-is",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "抽象、边界与现实的移动前沿"
+      "label": "抽象、边界与现实的移动边缘"
     },
     {
       "from": "what-information-is",
@@ -48376,7 +48790,7 @@
       "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "抽象、边界与现实的移动前沿"
+      "label": "抽象、边界与现实的移动边缘"
     },
     {
       "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
@@ -49140,7 +49554,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "525b07ca41c4",
+        "hash": "e4239f54f478",
         "out_degree": 38
       },
       {
@@ -49158,7 +49572,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ad0ddba8e708",
+        "hash": "844a430ff38f",
         "out_degree": 393
       },
       {
@@ -49167,7 +49581,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "8c71f5cb6226",
+        "hash": "33d5903fd201",
         "out_degree": 47
       },
       {
@@ -49194,7 +49608,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "21fdd83af9dd",
+        "hash": "9aa5763e8276",
         "out_degree": 20
       },
       {
@@ -49257,7 +49671,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "f33f8f68a881",
+        "hash": "cb5117241af0",
         "out_degree": 33
       },
       {
@@ -49266,7 +49680,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "fb71a7a1a375",
+        "hash": "ead3ab12d7ea",
         "out_degree": 32
       }
     ],
@@ -49569,7 +49983,7 @@
         "from": "book:consciousness",
         "to": "consciousness-never-appears-as-data-among-data",
         "rel": "collects",
-        "label": "Consciousness Never Appears as Data Among Data"
+        "label": "意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data"
       },
       {
         "from": "book:consciousness",
@@ -51249,7 +51663,7 @@
         "from": "book:index-of-premises",
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
-        "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+        "label": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -51411,7 +51825,7 @@
         "from": "book:index-of-premises",
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
-        "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+        "label": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -51741,7 +52155,7 @@
         "from": "book:index-of-premises",
         "to": "consciousness-never-appears-as-data-among-data",
         "rel": "collects",
-        "label": "Consciousness Never Appears as Data Among Data"
+        "label": "意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data"
       },
       {
         "from": "book:index-of-premises",
@@ -51819,7 +52233,7 @@
         "from": "book:index-of-premises",
         "to": "hardness-is-not-inherent-in-the-action",
         "rel": "collects",
-        "label": "Hardness Is Not Inherent in the Action"
+        "label": "难度不在行动本身 / Hardness Is Not Inherent in the Action"
       },
       {
         "from": "book:index-of-premises",
@@ -52395,7 +52809,7 @@
         "from": "book:index-of-premises",
         "to": "hardware-locality-is-not-the-information-boundary",
         "rel": "collects",
-        "label": "Hardware Locality Is Not the Information Boundary"
+        "label": "硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary"
       },
       {
         "from": "book:index-of-premises",
@@ -52791,7 +53205,7 @@
         "from": "book:index-of-premises",
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
-        "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+        "label": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -52863,7 +53277,7 @@
         "from": "book:index-of-premises",
         "to": "hardware-locality-is-not-the-information-boundary",
         "rel": "collects",
-        "label": "Hardware Locality Is Not the Information Boundary"
+        "label": "硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary"
       },
       {
         "from": "book:index-of-premises",
@@ -53031,7 +53445,7 @@
         "from": "book:index-of-premises",
         "to": "residual-control-recedes-to-the-edge",
         "rel": "collects",
-        "label": "Residual Control Recedes to the Edge"
+        "label": "剩余控制退向边缘 / Residual Control Recedes to the Edge"
       },
       {
         "from": "book:index-of-premises",
@@ -53115,7 +53529,7 @@
         "from": "book:index-of-premises",
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
-        "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+        "label": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -54039,7 +54453,7 @@
         "from": "book:intelligence",
         "to": "hardware-locality-is-not-the-information-boundary",
         "rel": "collects",
-        "label": "Hardware Locality Is Not the Information Boundary"
+        "label": "硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary"
       },
       {
         "from": "book:intelligence",
@@ -54417,7 +54831,7 @@
         "from": "book:mathematics",
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
-        "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+        "label": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality"
       },
       {
         "from": "book:mathematics",
@@ -55311,7 +55725,7 @@
         "from": "book:success-and-the-self",
         "to": "hardness-is-not-inherent-in-the-action",
         "rel": "collects",
-        "label": "Hardness Is Not Inherent in the Action"
+        "label": "难度不在行动本身 / Hardness Is Not Inherent in the Action"
       },
       {
         "from": "book:success-and-the-self",
@@ -55533,7 +55947,7 @@
         "from": "book:tools-and-progress",
         "to": "residual-control-recedes-to-the-edge",
         "rel": "collects",
-        "label": "Residual Control Recedes to the Edge"
+        "label": "剩余控制退向边缘 / Residual Control Recedes to the Edge"
       },
       {
         "from": "book:tools-and-progress",
