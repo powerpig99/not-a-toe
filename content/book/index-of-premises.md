@@ -447,7 +447,7 @@ Mises deduces economics from human action axioms; brilliant for dismantling soci
 
 The stance that the problems of philosophy are problems of language treats language as the world, which is of use in tracing how concepts are shaped by language; it reaches its boundary in that meaning arises in consciousness's interpretation of language, so the frame of language is a useful instrument, not the ground for judging what is the same and what differs.
 
-→ [读《中文哲学简史》有感 / Reflections on A Short History of Chinese Philosophy](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
+→ [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
 
 ### 马丁·海德格尔 / Martin Heidegger
 `哲学 / Philosophical`
@@ -4166,7 +4166,7 @@ Presumes multidimensional life can be ranked on standardized scalar axes; useful
 
 Science can be fully formalized and modeled within its premises, which is of use in drawing reliable inferences under its conditions; it reaches its boundary in that this completeness is closed modeling of an open reality, holding under its conditions and not beyond them.
 
-→ [读《中文哲学简史》有感 / Reflections on A Short History of Chinese Philosophy](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
+→ [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
 
 ### 科学模型即客观实在 / Scientific Models as Objective Reality
 `科学 / Scientific`
@@ -4427,7 +4427,7 @@ Presumes interest rates and yield curves act as sovereign commanders of the econ
 
 The thesis assumes that the more a language is polished the more reliably it carries thought, which is of use in close reading of classical texts; it reaches its boundary in that meaning still rests on the reading consciousness rather than on the script itself.
 
-→ [读《中文哲学简史》有感 / Reflections on A Short History of Chinese Philosophy](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
+→ [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
 
 ### 监管把关万能幻觉 / Supervisory Oversight Fallacy
 `意识形态 / Ideological`
