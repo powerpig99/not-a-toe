@@ -2353,11 +2353,11 @@ Presumes diagnosing someone's tastes reveals objective psychological truths abou
 ### 难度是行动的固有属性 / Difficulty as a Property of Action
 `成功学 / Self-Help`
 
-说一件事难，预设难度属于行为本身；它是现行理论下的事后评分，作为负荷估计可用，一旦被用来许可不行动，就会自我封闭。
+说一件事难，预设难度属于行为本身，作为现行理论下对负荷的事后估计时有用；它在此到了边界：一旦这个评分被用来许可不行动，不行动又被读作难的证据，循环便自我封闭。
 
-Calling a step hard assumes difficulty inheres in the behavior; it is a later score under the operating theory, useful as a load estimate but self-sealing once it licenses inaction.
+Calling a step hard assumes difficulty inheres in the behavior, which is of use as a later estimate of load under the operating theory; it reaches its boundary in that once the score licenses inaction, the inaction reads as evidence of difficulty and the loop seals itself.
 
-→ [Hardness Is Not Inherent in the Action](../../posts/hardness-is-not-inherent-in-the-action/)
+→ [难度不在行动本身 / Hardness Is Not Inherent in the Action](../../posts/hardness-is-not-inherent-in-the-action/)
 
 ### 低维投影与冲突根源 / Dimensional Projection Conflict
 `哲学 / Philosophical`

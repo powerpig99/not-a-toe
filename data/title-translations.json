@@ -357,10 +357,6 @@
     "nobody-has-seen-anything-yet": {
       "title_zh": "还没有人见过任何东西"
     },
-    "hardness-is-not-inherent-in-the-action": {
-      "title_zh": "难度不在行动本身",
-      "subtitle_zh": "难与易不是行为的属性，它们只产生于对行动需要什么、预期产生什么结果的不同假设。"
-    },
     "therapy-opens-the-feedback-loop": {
       "title_zh": "疗愈打开反馈回路",
       "subtitle_zh": "一个让登记变得更可承受的第三方所在，降低了本会在第一个所在重新追溯生成条件的压力。"
@@ -443,6 +439,10 @@
     "the-scaffolding-we-forget-local-models-as-default": {
       "title_zh": "我们遗忘的脚手架：以本地模型为默认",
       "subtitle_zh": "一种能力被登记为开放；其上竖起一个确定的默认；竖起的过程隐去，默认便被登记为情境本身所指示的东西。"
+    },
+    "what-works-is-the-belief": {
+      "title_zh": "起作用的是信念",
+      "subtitle_zh": "一道禁令在场域里什么也封不住；它稳定的是那些把封印当作根据的人所持的信念。"
     }
   }
 }
