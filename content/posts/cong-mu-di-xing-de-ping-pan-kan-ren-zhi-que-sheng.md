@@ -126,9 +126,9 @@ flowchart TD
 
 Recognizing that external attribution is also a free choice lets one step past the binary of "judging others" and "deifying oneself".
 
-向外观察是必要的，因为人无法在虚空中看清自己。无论外界反馈的是同频的协作，还是对“目的性太强”的抵触，都是一面面提供真实坐标的镜子。[关于归因：从事实到因果，从外部节点到内部迭代](../guan-yu-gui-yin/)指出：外部现象是事实的镜像，而因果链的解释权留在自身。
+向外观察是必要的，因为人无法在虚空中看清自己。无论外界反馈的是同频的协作，还是对“目的性太强”的抵触，都是一面面提供真实坐标的镜子。[关于归因](../guan-yu-gui-yin/)指出：外部现象是事实的镜像，而因果链的解释权留在自身。
 
-Looking outward is necessary, because no one can see oneself clearly in a void. Whether the outside world returns attuned collaboration or resistance to being "too goal-driven", each is a mirror that supplies real coordinates. [On Attribution: From Fact to Cause, From Outside Node to Inner Iteration](../guan-yu-gui-yin/) points out that outside phenomena are mirror images of fact, while the right to explain the causal chain stays with oneself.
+Looking outward is necessary, because no one can see oneself clearly in a void. Whether the outside world returns attuned collaboration or resistance to being "too goal-driven", each is a mirror that supplies real coordinates. [On Attribution](../guan-yu-gui-yin/) points out that outside phenomena are mirror images of fact, while the right to explain the causal chain stays with oneself.
 
 外界呈现的评判与态度只是环境的参数，因果链最终的解释权与决策权一直在自身。遭遇“目的性太强”的指责时，如果同样陷入“对方认知低、对方在逃避”的反向指责，这依然是又一次自由地选择了外部归因，把自己放在了被外部参数推动的位置上。[能动性的错配](../the-misallocation-of-agency/)记录了这种因果倒置：把外部的镜子误认作自身行动的作者，自身的能动性就会耗散。
 

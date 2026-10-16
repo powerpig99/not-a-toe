@@ -893,11 +893,11 @@ Extended cognition argues external artifacts form part of the mind; useful for a
 ### 证伪主义 / Falsificationism
 `哲学 / Philosophical`
 
-证伪常被误用为把反面证据解释掉或靠驳倒对方证明自己；每次检验都晚于其针对的过程一步，方法本身因此可修正，而非结案工具。
+证伪主义主张理论只能被反驳、不能被最终证实，在把判断放到能被推翻的位置上时有用；它在此到了边界：每次检验都晚于它所针对的过程一步，方法本身因此可修正，被拿来解释掉反面证据或驳倒对方以证明自己时，它就成了结案的工具。
 
-Falsification is misused either to explain away counterevidence or to refute opponents as self-proof; each test lags the process it targets, so the method itself stays revisable rather than a closing tool.
+Falsificationism holds that theories can be refuted but never finally confirmed, which is of use in placing a judgment where it can be overturned; it reaches its boundary in that each test lags the process it targets, so the method itself stays revisable, and once it is used to explain away counterevidence or to refute opponents as self-proof it becomes a tool for closing the case.
 
-→ [关于归因：从事实到因果，从外部节点到内部迭代](../../posts/guan-yu-gui-yin/) · [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
+→ [关于归因 / On Attribution](../../posts/guan-yu-gui-yin/) · [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
 
 ### 费米悖论 / The Fermi Paradox
 `科学 / Scientific`
@@ -2056,11 +2056,11 @@ Presumes product quality is an objective scalar attribute independent of human e
 ### 以时间顺序推断因果 / Causal Attribution from Temporal Sequence
 `哲学 / Philosophical`
 
-把已发生的路径直接当成因果，跳过了永远无法直接观察的反事实；显眼节点只是贡献因素，归因误差可以缩小，却无法消除。
+把已发生的路径直接当成因果，在提出可供检验的假设时有用；它在此到了边界：反事实永远无法被直接观察，显眼节点只是贡献因素，归因误差可以缩小，却无法消除。
 
-Treating an observed path as causation skips counterfactuals that can never be directly observed; salient nodes are contributing factors, and attribution error can be narrowed but never eliminated.
+Treating an observed path as causation is of use in proposing hypotheses to test; it reaches its boundary in that counterfactuals can never be observed directly, salient nodes are contributing factors, and attribution error can be narrowed but never eliminated.
 
-→ [关于归因：从事实到因果，从外部节点到内部迭代](../../posts/guan-yu-gui-yin/)
+→ [关于归因 / On Attribution](../../posts/guan-yu-gui-yin/)
 
 ### 因果作为第一人称先验 / Causality as First-Person Prior
 `哲学 / Philosophical`
@@ -3235,11 +3235,11 @@ Treating physical laws, markets, evolution and simulations as independent, top-d
 ### 中国制造成就特斯拉与苹果 / Made-in-China Explanation of Tesla and Apple Success
 `经济 / Economic`
 
-把成功归于上海建厂或中国制造，假定单一显眼节点能解释成功；事实呈现的是相互成就，产品定义与决策质量先于制造环节。
+把成功归于上海建厂或中国制造，假定单一显眼节点能解释成功，在指出制造环节的真实贡献时有用；它在此到了边界：事实呈现的是相互成就，产品定义与决策质量先于制造环节。
 
-Crediting Shanghai factories or Chinese manufacturing assumes one salient node explains success; the record shows mutual enablement, with product definition and decision quality preceding manufacturing.
+Crediting Shanghai factories or Chinese manufacturing assumes one salient node explains success, which is of use in pointing to manufacturing's real contribution; it reaches its boundary in that the record shows mutual enablement, with product definition and decision quality preceding manufacturing.
 
-→ [关于归因：从事实到因果，从外部节点到内部迭代](../../posts/guan-yu-gui-yin/)
+→ [关于归因 / On Attribution](../../posts/guan-yu-gui-yin/)
 
 ### 魔术即因果的悬置 / Magic as Suspended Causality
 `哲学 / Philosophical`

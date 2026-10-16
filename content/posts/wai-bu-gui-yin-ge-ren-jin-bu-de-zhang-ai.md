@@ -26,7 +26,7 @@ Talent, circumstance, opportunity and systems are all only conditions, and so ar
 
 The part a person can really move has only ever been this one place: how what happens to oneself is interpreted, and what one chooses to do now on the basis of that interpretation.
 
-[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)是同一次归位：条件是场域，不是替下一步供给原因的第二个作者。[人生是一个持续的自我迭代过程](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)是同一处截断：误差停在“外部给定”上，回不到可更新的权重。[关于归因：从事实到因果，从外部节点到内部迭代](../guan-yu-gui-yin/)是同一种外置停在一个显眼节点上的样子。
+[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)是同一次归位：条件是场域，不是替下一步供给原因的第二个作者。[人生是一个持续的自我迭代过程](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)是同一处截断：误差停在“外部给定”上，回不到可更新的权重。[关于归因](../guan-yu-gui-yin/)是同一种外置停在一个显眼节点上的样子。
 
 ```mermaid
 flowchart TD
@@ -55,7 +55,7 @@ flowchart TD
     style I2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) is the same return to place: conditions are field, not a second author supplying the cause of the next step. [Life as a Continuous Process of Self-Iteration](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) is the same cut-off: the error stops at “externally given” and never returns to the weights that can be updated. [On Attribution: From Fact to Cause, From Outside Node to Inner Iteration](../guan-yu-gui-yin/) is the same externalizing as it comes to rest on a conspicuous node.
+[Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) is the same return to place: conditions are field, not a second author supplying the cause of the next step. [Life as a Continuous Process of Self-Iteration](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) is the same cut-off: the error stops at “externally given” and never returns to the weights that can be updated. [On Attribution](../guan-yu-gui-yin/) is the same externalizing as it comes to rest on a conspicuous node.
 
 ```mermaid
 flowchart TD

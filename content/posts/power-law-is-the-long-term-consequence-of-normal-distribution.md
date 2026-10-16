@@ -50,7 +50,7 @@ Because short-term outcomes have not yet been heavily compounded, they closely t
 
 When a decision-making center treats that residual error as a loss function and updates its model accordingly, a form of gradient descent on its own judgment, the quality of subsequent decisions tends to improve. The claim concerns the distribution of the εₜ themselves: updating shifts later increments, while ignoring or externalizing the residual leaves the distribution of increments static or worse. Updating therefore modulates the long-horizon log-normal: updating shifts mass rightward, and updating at unequal rates produces a heavier effective tail. Better decisions produce better short-term outcomes, which in turn supply cleaner signals for further updating; the improvement compounds, raising both near-term performance and the long-term trajectory, and converts more of what previously appeared random into usable knowledge. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) traces the same loop on its functional face: the model compounds only when outcomes re-enter as one's own. [Failure as Information](../failure-as-information/) traces that loss function where the gap between outcome and next act stays empty: success and failure are written as samples of one policy rather than as verdicts on the self.
 
-当残余误差被忽视、被过去的成功掩盖，或被归给与决策过程无关的外部因素，判断的质量就停滞或下降。这种折损本身也随时间复合，在最终的厚尾分布里塑造出一个更不利的位置；知识问题，那个更新只能局部地、相继地推进而永不封闭的问题，持续或恶化。[关于归因：从事实到因果，从外部节点到内部迭代](../guan-yu-gui-yin/)追的是落在一个显眼节点上的同一种向外归因：作者被挪到一个看得见的外部，信号变薄，下一个区分无法从完整的反馈中更新。
+当残余误差被忽视、被过去的成功掩盖，或被归给与决策过程无关的外部因素，判断的质量就停滞或下降。这种折损本身也随时间复合，在最终的厚尾分布里塑造出一个更不利的位置；知识问题，那个更新只能局部地、相继地推进而永不封闭的问题，持续或恶化。[关于归因](../guan-yu-gui-yin/)追的是落在一个显眼节点上的同一种向外归因：作者被挪到一个看得见的外部，信号变薄，下一个区分无法从完整的反馈中更新。
 
 ```mermaid
 flowchart TD
@@ -88,7 +88,7 @@ flowchart TD
     style F fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-When residual error is ignored, masked by past successes, or attributed to external factors unrelated to the decision process, the quality of judgment stagnates or declines. That impairment is itself compounded over time, shaping a less favorable position inside the eventual heavy-tailed distribution, and the knowledge problem, which updating moves only locally and successively and never closes, persists or worsens. [On Attribution: From Fact to Cause, From Outside Node to Inner Iteration](../guan-yu-gui-yin/) traces the same outward attribution, settled on a conspicuous node: the author is relocated to a visible exterior, the signal thins, and the next distinction cannot update from complete feedback.
+When residual error is ignored, masked by past successes, or attributed to external factors unrelated to the decision process, the quality of judgment stagnates or declines. That impairment is itself compounded over time, shaping a less favorable position inside the eventual heavy-tailed distribution, and the knowledge problem, which updating moves only locally and successively and never closes, persists or worsens. [On Attribution](../guan-yu-gui-yin/) traces the same outward attribution, settled on a conspicuous node: the author is relocated to a visible exterior, the signal thins, and the next distinction cannot update from complete feedback.
 
 ```mermaid
 flowchart TD
