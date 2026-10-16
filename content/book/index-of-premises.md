@@ -3775,7 +3775,7 @@ Emphasizing long-horizon reinforcement learning is of use in identifying a previ
 ### 贫困陷阱 / Poverty Trap
 `经济 / Economic`
 
-贫困陷阱常被读作一个要用更多转移去填补的缺口，在指出多出的工时几乎留不下净收入时有用；它在此到了边界：陷阱来自低法定下限之下的经济审查式退坡，高有效边际税率抵消了多工作的所得，扩大同类转移会加深它。
+贫困陷阱常被读作一个要用更多转移支付去填补的缺口，在指出多干的工时几乎留不下净收入时有用；它在此到了边界：陷阱来自低法定最低工资之下按收入审核的福利收缩，很高的有效边际税率抵消了多干活的所得，扩大同类转移支付会加深它。
 
 The poverty trap is often read as a gap that more transfers will fill, which is of use in naming how little net remains from additional hours; it reaches its boundary in that the trap arises from means-tested withdrawal under a low statutory floor, where high effective marginal rates cancel the gain from more work, so expanding the same transfers tends to deepen it.
 
@@ -4036,7 +4036,7 @@ Presumes a relationship forms a third entity possessing independent causal claim
 ### 相对贫困线 / Relative Poverty Line
 `经济 / Economic`
 
-以中位收入的百分之五十划线预设各国可比，在追踪一国之内的相对处境时有用；它在此到了边界：这条线随各自的中位数伸缩，基于它的跨国排名登记的是工具间的交互，而非单一的充足度尺度。
+以中位收入的百分之五十划线预设各国可比，在追踪一国之内的相对处境时有用；它在此到了边界：这条线随各自的中位数伸缩，基于它的跨国排名反映的是指标间的相互作用，而非单一的充足度尺度。
 
 A line at 50 percent of median income presumes comparability across countries, which is of use in tracking relative standing within one country; it reaches its boundary in that the line scales with each median, so cross-country rankings built on it register instrument interactions rather than a single adequacy measure.
 
