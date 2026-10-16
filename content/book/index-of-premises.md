@@ -3829,9 +3829,9 @@ Industrial planners rush to standardize emerging paradigms around an early favor
 ### 隐私即数据本地化 / Privacy as Data Locality
 `技术 / Technological`
 
-以本地化保障隐私，预设硬件位置构成隐私，在本地硬件被用来执行一条选定的边界时有用；它在此到了边界：隐私是规定共享什么、与谁共享、附带何种保证的那条边界的属性，硬件只是执行或未能执行它的机制。
+以本地化保障隐私，预设硬件位置构成隐私，在本地硬件被用来执行一条选定的边界时有用；它在此到了边界：隐私是规定共享什么、与谁共享、在什么条件下共享的那条边界的属性，硬件及其提供的保证只是执行或未能执行它的机制。
 
-Privacy-by-locality presumes hardware location constitutes privacy, which is of use where local hardware enforces a chosen boundary; it reaches its boundary in that privacy is a property of the boundary governing what is shared, with whom and under what assurances, and hardware only enforces it or fails to.
+Privacy-by-locality presumes hardware location constitutes privacy, which is of use where local hardware enforces a chosen boundary; it reaches its boundary in that privacy is a property of the boundary governing what is shared, with whom and under what conditions, and hardware with its assurances only enforces it or fails to.
 
 → [硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary](../../posts/hardware-locality-is-not-the-information-boundary/)
 
