@@ -1577,11 +1577,11 @@ The Yoneda lemma establishes that an object is determined by its relationships; 
 ### 芝诺悖论 / Zeno's Paradoxes
 `数学 / Mathematical`
 
-用收敛级数化解阿基里斯追龟，在连续运动与固定赛道的前提下成立；赛道被领先者不断延长的前沿过程，并不适用这一解法。
+用收敛级数化解阿基里斯追龟，预设连续运动与固定赛道，在这一抽象框架内把无穷级数当作有限时间内可走完时有用；它在此到了边界：前沿的赛道被领先者不断延长，这一解法不能直接移用。
 
-The convergent-series resolution of Achilles and the tortoise holds under continuous motion on a static course; it does not transfer to frontiers where leaders keep lengthening the track.
+The convergent-series resolution of Achilles and the tortoise presumes continuous motion on a static course, which is of use in treating an infinite series as completable in finite time inside that abstracted frame; it reaches its boundary in that a frontier's course is lengthened by its leaders, so the resolution does not transfer directly.
 
-→ [Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
+→ [抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 
 ### 玻姆力学 / Bohmian Mechanics
 `科学 / Scientific`
@@ -1795,11 +1795,11 @@ Presumes artificial intelligence represents the natural evolutionary successor t
 ### AlphaFold 蛋白质结构全库 / AlphaFold Protein Structure Catalogue
 `技术 / Technological`
 
-折叠全部已知序列，预设这份清单就是领域的完整结构；它是临时边界内的真实扩展，而动态、相互作用与设计空间仍在开放生成。
+折叠全部已知序列，预设这份清单就是领域的完整结构，作为临时界限内的真实扩展时有用；它在此到了边界：界限一放大，动态折叠、相互作用与设计空间便重新显现为开放的生成连续体。
 
-Folding all known sequences assumes the catalogue is the domain's full structure; it is real expansion inside a temporary bound, while dynamics, interactions and design space stay generatively open.
+Folding all known sequences presumes the catalogue is the domain's full structure, which is of use as real expansion inside a temporary bound; it reaches its boundary in that once the bound is enlarged, dynamic folding, interactions and design space reappear as an open generative continuum.
 
-→ [Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
+→ [抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 
 ### 放大器悖论 / Amplification Paradox
 `哲学 / Philosophical`
@@ -3730,11 +3730,11 @@ Physical immortality assumes living consciousness can be immortalized by endless
 ### 物理与信息二元论 / Physical–Informational Dualism
 `哲学 / Philosophical`
 
-该二元论预设两个需要桥接的领域；二者是同一活动在不同持守下的登记，信息描述能有效追踪物理规律，却总比生成它的场贫乏。
+该二元论预设物理与信息是两个需要桥接的领域，在区分两种登记方式时有用；它在此到了边界：二者是同一活动在不同握持下的登记，信息的描述能追踪物理的规律，却总比生成它的场更贫乏。
 
-The dualism presumes two realms needing a bridge; both are one activity under different holds, so informational descriptions track physical regularities usefully while remaining poorer than what generates them.
+The dualism presumes the physical and the informational are two realms needing a bridge, which is of use in telling two modes of registration apart; it reaches its boundary in that both are one activity under different holds, so informational descriptions track physical regularities while staying poorer than the field that generates them.
 
-→ [Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/) · [信息是什么 / What Information Is](../../posts/what-information-is/)
+→ [抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/) · [信息是什么 / What Information Is](../../posts/what-information-is/)
 
 ### 群体统计规程的倒置 / Population Protocol Fetish
 `科学 / Scientific`
@@ -4171,11 +4171,11 @@ Science can be fully formalized and modeled within its premises, which is of use
 ### 科学模型即客观实在 / Scientific Models as Objective Reality
 `科学 / Scientific`
 
-把数学与物理当作实在的陈设，预设地图等于疆域；它们在不同观察者间保持不变，因此是可靠的压缩，却可修正，也不等同于所追踪的对象。
+把数学与物理当作现实的客观陈设，预设地图等于疆域，在它们跨越观察者保持不变、作为可靠压缩使用时有用；它在此到了边界：它们可以修正，从不等同于所追踪的整体，提醒其临时性并不是对严谨的攻击。
 
-Treating mathematics and physics as the furniture of reality assumes the map equals the territory; their invariance across observers makes them reliable compressions, revisable and never identical with what they track.
+Treating mathematics and physics as the objective furniture of reality presumes the map equals the territory, which is of use where their invariance across observers makes them reliable compressions; it reaches its boundary in that they stay revisable and never identical with the whole they track, so recalling their provisional status is no attack on rigor.
 
-→ [Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
+→ [抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 
 ### 选择偏差 / Selection Bias
 `科学 / Scientific`

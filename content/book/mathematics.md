@@ -18,7 +18,7 @@ These essays explore hierarchies of infinity, self-referential paradoxes, and th
 - [Lossless Knowledge of an Open Field Is Incoherent](../../posts/lossless-knowledge-of-an-open-field-is-incoherent/)
 - [Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/)
 - [Closed Assumptions Squeeze Compounding into S-Curves](../../posts/closed-assumptions-squeeze-compounding-into-s-curves/)
-- [Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
+- [抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 - [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/)
 - [信息是什么 / What Information Is](../../posts/what-information-is/)
 - [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)

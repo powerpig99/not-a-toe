@@ -204,10 +204,6 @@
       "title_zh": "回环与成图",
       "subtitle_zh": "回环是心智折回自身的活动；图是这次折叠留给下一次折叠的痕迹。"
     },
-    "abstraction-boundaries-and-the-moving-edge-of-reality": {
-      "title_zh": "抽象、边界与现实的移动前沿",
-      "subtitle_zh": "成功的感知是一次有损的界定；把它当作场的结构，就把残余冻结起来，仿佛它封住了那条越过每一份清单继续向前的边缘。"
-    },
     "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind": {
       "title_zh": "没有外部：跃迁、闭环与心智不可复制的自主",
       "subtitle_zh": "跃迁是局部的延续；只有心智闭合检验它们的回路，而这个回路没有一个可以从中把它重新构成的外部。"
@@ -443,6 +439,14 @@
     "what-works-is-the-belief": {
       "title_zh": "起作用的是信念",
       "subtitle_zh": "一道禁令在场域里什么也封不住；它稳定的是那些把封印当作根据的人所持的信念。"
+    },
+    "the-strongest-belief-of-the-mind": {
+      "title_zh": "心智最坚固的信念",
+      "subtitle_zh": "凝得最紧的东西，是握住它的那道目光的基石，却仍是那道目光自己的产物。"
+    },
+    "you-cant-benchmark-the-fluid": {
+      "title_zh": "流动之物无法被基准衡量",
+      "subtitle_zh": "肖莱设计 ARC 来衡量流体智能，它的矛盾不在技术，而在结构。"
     }
   }
 }
