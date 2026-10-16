@@ -447,10 +447,6 @@
       "title_zh": "AGI 与 ASI 是加速通用智能的暂时球门",
       "subtitle_zh": "每一道门槛都永远处在画出它的那道边缘之前，且在每一个位置各不相同，因为能力的增益正是那道边缘在自我强化。"
     },
-    "the-hours-ranking-freezes-adequacy-as-one-scoreboard": {
-      "title_zh": "工时排名把充足冻结成一张记分牌",
-      "subtitle_zh": "一条每周工时轴，把底线、相对标线与逐步退出冻结成一份充足程度的排名。"
-    },
     "why-explanation-fails": {
       "title_zh": "解释为何失效"
     },
@@ -459,6 +455,9 @@
     },
     "the-initial-distinction": {
       "title_zh": "最初的区分"
+    },
+    "ownership-cost-freezes-lagged-averages-as-vehicle-property": {
+      "title_zh": "拥有成本把滞后的平均值冻结为车辆属性"
     }
   }
 }

@@ -3352,11 +3352,11 @@ Keeping the bowl near-empty and deferring every commitment is of use in guarding
 ### 最低工资 / Minimum Wage
 `经济 / Economic`
 
-法定工资下限假定测得的工资是福利的独立原因；工资是先前条件的相对信号，强行设定会压制信号，使生产率低于下限者失去反馈。
+法定工资下限假定测得的工资是福利的独立原因，在给雇佣划出一条可执行的底线时有用；它在此到了边界：工资是先前条件的相对信号，强行设定会压制信号，使生产率低于下限者失去反馈。
 
-Mandated floors assume the measured wage is an independent cause of welfare; it is a relative signal of prior conditions, so decreeing it suppresses feedback for those whose productivity sits below.
+Mandated wage floors assume the measured wage is an independent cause of welfare, which is of use in drawing an enforceable floor under employment; it reaches its boundary in that the wage is a relative signal of prior conditions, so decreeing it suppresses feedback for those whose productivity sits below the floor.
 
-→ [The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/) · [The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
+→ [The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/) · [工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
 
 ### 无限全知全能的幻象 / Mirage of Infinite Totality
 `哲学 / Philosophical`
@@ -3775,11 +3775,11 @@ Emphasizing long-horizon reinforcement learning is of use in identifying a previ
 ### 贫困陷阱 / Poverty Trap
 `经济 / Economic`
 
-陷阱来自低法定下限之下的经济审查式退坡；高有效边际税率抵消了多工作所得，扩大同类转移会加深陷阱。
+贫困陷阱常被读作一个要用更多转移去填补的缺口，在指出多出的工时几乎留不下净收入时有用；它在此到了边界：陷阱来自低法定下限之下的经济审查式退坡，高有效边际税率抵消了多工作的所得，扩大同类转移会加深它。
 
-The trap arises from means-tested withdrawal under a low statutory floor; high effective marginal rates cancel net gain from additional hours, so expanding the same transfers tends to deepen it.
+The poverty trap is often read as a gap that more transfers will fill, which is of use in naming how little net remains from additional hours; it reaches its boundary in that the trap arises from means-tested withdrawal under a low statutory floor, where high effective marginal rates cancel the gain from more work, so expanding the same transfers tends to deepen it.
 
-→ [The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
+→ [工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
 
 ### 能动性出让的幂律 / Power Law of Surrendered Agency
 `经济 / Economic`
@@ -4036,11 +4036,11 @@ Presumes a relationship forms a third entity possessing independent causal claim
 ### 相对贫困线 / Relative Poverty Line
 `经济 / Economic`
 
-以中位收入百分之五十划线，预设各国可比；它随各自中位数伸缩，基于它的排名登记的是工具间的交互，而非单一的充足度尺度。
+以中位收入的百分之五十划线预设各国可比，在追踪一国之内的相对处境时有用；它在此到了边界：这条线随各自的中位数伸缩，基于它的跨国排名登记的是工具间的交互，而非单一的充足度尺度。
 
-A line at 50 percent of median income presumes comparability across countries; it scales with each median, so rankings built on it register instrument interactions rather than a single adequacy measure.
+A line at 50 percent of median income presumes comparability across countries, which is of use in tracking relative standing within one country; it reaches its boundary in that the line scales with each median, so cross-country rankings built on it register instrument interactions rather than a single adequacy measure.
 
-→ [The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
+→ [工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
 
 ### 代表性行为人与平均化 / Representative Agent and Averaging
 `经济 / Economic`
