@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T19:47:54.242Z",
+    "generated_at": "2026-10-16T19:52:00.521Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -299,7 +299,7 @@
       "content/posts/the-misallocation-of-agency.md": "0da1123e67af",
       "content/posts/the-model-never-becomes-a-second-edge.md": "ce70498007ea",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "67c15f066b11",
-      "content/posts/the-myth-of-population-collapse-explained.md": "05ed7d37e0e3",
+      "content/posts/the-myth-of-population-collapse-explained.md": "1b49458d4b13",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "e6296345035d",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "99b5bd10ba18",
@@ -404,10 +404,10 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "3e8d9f0c8fc2",
       "content/book/economics.md": "c85b5981f22a",
-      "content/book/index-of-premises.md": "678e94a1bc62",
+      "content/book/index-of-premises.md": "eab98a0f5604",
       "content/book/intelligence.md": "33d5903fd201",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
-      "content/book/life-and-statistics.md": "29ed3e1c02fc",
+      "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "9aa5763e8276",
       "content/book/meaning-and-transcendence.md": "be7ba296cb80",
       "content/book/method.md": "d52dd5b06929",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6715,
+      "edges": 6730,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -7505,8 +7505,8 @@
       "kind": "post",
       "slug": "the-myth-of-population-collapse-explained",
       "path": "content/posts/the-myth-of-population-collapse-explained.md",
-      "title": "The Myth of Population Collapse Explained",
-      "hash": "05ed7d37e0e3",
+      "title": "人口崩溃神话的拆解 / The Myth of Population Collapse Explained",
+      "hash": "1b49458d4b13",
       "in_degree": 15,
       "out_degree": 15,
       "links_out": [
@@ -39778,91 +39778,181 @@
       "from": "the-myth-of-population-collapse-explained",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "公共支出不创造资本"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "财富转移政策与价格下限中的原因错置"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "Fate loves irony"
+      "label": "命运偏爱反讽"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Fate Loves Irony"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "What always listens cannot originate"
+      "label": "总在倾听者无法发起"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "help-is-half-the-problem",
       "rel": "points_to",
-      "label": "Help is half the problem"
+      "label": "帮助是问题的一半"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help Is Half the Problem"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "when-abundance-looks-like-scarcity",
       "rel": "points_to",
-      "label": "When abundance looks like scarcity"
+      "label": "当丰裕看起来像稀缺"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "when-abundance-looks-like-scarcity",
+      "rel": "points_to",
+      "label": "When Abundance Looks Like Scarcity"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
@@ -50190,7 +50280,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "678e94a1bc62",
+        "hash": "eab98a0f5604",
         "out_degree": 393
       },
       {
@@ -50217,7 +50307,7 @@
         "slug": "life-and-statistics",
         "path": "content/book/life-and-statistics.md",
         "title": "生命演化与统计表象 / Living Evolution and Statistical Shadows",
-        "hash": "29ed3e1c02fc",
+        "hash": "607fbb67569d",
         "out_degree": 10
       },
       {
@@ -52845,7 +52935,7 @@
         "from": "book:index-of-premises",
         "to": "the-myth-of-population-collapse-explained",
         "rel": "collects",
-        "label": "The Myth of Population Collapse Explained"
+        "label": "人口崩溃神话的拆解 / The Myth of Population Collapse Explained"
       },
       {
         "from": "book:index-of-premises",
@@ -55365,7 +55455,7 @@
         "from": "book:life-and-statistics",
         "to": "the-myth-of-population-collapse-explained",
         "rel": "collects",
-        "label": "The Myth of Population Collapse Explained"
+        "label": "人口崩溃神话的拆解 / The Myth of Population Collapse Explained"
       },
       {
         "from": "book:life-and-statistics",

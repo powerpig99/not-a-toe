@@ -2344,11 +2344,11 @@ Handing money to professional institutions to lower the friction of management t
 ### 人口坍塌恐慌论 / Demographic Population Collapse Myth
 `科学 / Scientific`
 
-人口危机论将生育率走低视为非理性的末日大劫；少子化实则是个体面对城市化养育成本高企时，理性权衡后自发做出的行为调整。
+人口崩溃论预设生育率下降是由技术、资源或机会的稀缺造成的一个永久终局，在让代际的人口变化被注意到时有用；它在此到了边界：在盈余之下，生育率是外置的能动在转移中被一再强化之后的迟到登记，以更多转移回应这份警报只会加深同一个回路，而选择仍在继续，剩余的能动会重建盈余的条件。
 
-Demographic alarmism treats declining birth rates as an irrational existential doom; lower fertility reflects calculated individual adaptations as urban child-rearing costs escalate.
+Population collapse theory presumes that falling fertility is a permanent terminus caused by scarcity of technology, resources, or opportunity, which is of use in drawing attention to generational change in population; it reaches its boundary in that, under surplus, fertility is the delayed registration of externalized agency reinforced through transfers, answering the alarm with more transfers deepens the same loop, and selection continues until residual agency rebuilds the conditions for surplus.
 
-→ [The Myth of Population Collapse Explained](../../posts/the-myth-of-population-collapse-explained/)
+→ [人口崩溃神话的拆解 / The Myth of Population Collapse Explained](../../posts/the-myth-of-population-collapse-explained/)
 
 ### 审美诊断的投射自画像 / Diagnostic Self-Projection
 `哲学 / Philosophical`

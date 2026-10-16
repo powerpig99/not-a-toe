@@ -13,7 +13,7 @@ The essays here examine Gaussian limits, power-law dynamics, and the silencing o
 ## 篇目 / Essays
 
 - [The Brain Does Not Backprop, but Propagates](../../posts/the-brain-does-not-backprop/)
-- [The Myth of Population Collapse Explained](../../posts/the-myth-of-population-collapse-explained/)
+- [人口崩溃神话的拆解 / The Myth of Population Collapse Explained](../../posts/the-myth-of-population-collapse-explained/)
 - [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
 - [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/)
 - [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/)
