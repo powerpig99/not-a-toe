@@ -3356,7 +3356,7 @@ Keeping the bowl near-empty and deferring every commitment is of use in guarding
 
 Mandated wage floors assume the measured wage is an independent cause of welfare, which is of use in drawing an enforceable floor under employment; it reaches its boundary in that the wage is a relative signal of prior conditions, so decreeing it suppresses feedback for those whose productivity sits below the floor.
 
-→ [The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/) · [工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
+→ [The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/) · [工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
 
 ### 无限全知全能的幻象 / Mirage of Infinite Totality
 `哲学 / Philosophical`
@@ -3779,7 +3779,7 @@ Emphasizing long-horizon reinforcement learning is of use in identifying a previ
 
 The poverty trap is often read as a gap that more transfers will fill, which is of use in naming how little net remains from additional hours; it reaches its boundary in that the trap arises from means-tested withdrawal under a low statutory floor, where high effective marginal rates cancel the gain from more work, so expanding the same transfers tends to deepen it.
 
-→ [工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
+→ [工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
 
 ### 能动性出让的幂律 / Power Law of Surrendered Agency
 `经济 / Economic`
@@ -4040,7 +4040,7 @@ Presumes a relationship forms a third entity possessing independent causal claim
 
 A line at 50 percent of median income presumes comparability across countries, which is of use in tracking relative standing within one country; it reaches its boundary in that the line scales with each median, so cross-country rankings built on it register instrument interactions rather than a single adequacy measure.
 
-→ [工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
+→ [工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
 
 ### 代表性行为人与平均化 / Representative Agent and Averaging
 `经济 / Economic`

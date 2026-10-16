@@ -26,7 +26,7 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 - [Ownership Cost Freezes Lagged Averages as Vehicle Property](../../posts/ownership-cost-freezes-lagged-averages-as-vehicle-property/)
 - [The Rational Choice Postulate Is the Original Sin of All the Wrongs in Modern Economics Theories](../../posts/the-rational-choice-postulate-is-the-original-sin/)
 - [The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)
-- [工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
+- [工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
 - [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/)
 - [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
 - [基本面的悖论是参照的不自觉切换 / The Paradox of Fundamentals Is the Unaware Switch of Reference](../../posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/)

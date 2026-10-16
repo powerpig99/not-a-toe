@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-16T04:51:43.860Z",
+    "generated_at": "2026-10-16T05:03:20.701Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -259,7 +259,7 @@
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "68e47fce620a",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "45f6b91bfb1c",
-      "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "6ab388052479",
+      "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "bea14a75ab9f",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "d915809609b6",
       "content/posts/the-illusion-of-free-intelligence.md": "9568470705b9",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "87c68cdf7df5",
@@ -304,7 +304,7 @@
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "e6296345035d",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "99b5bd10ba18",
       "content/posts/the-npc-impression-is-structural.md": "f080ebfaf58b",
-      "content/posts/the-observational-cut-in-ai-debates.md": "3fa7bea3b845",
+      "content/posts/the-observational-cut-in-ai-debates.md": "4c40a00e0ba9",
       "content/posts/the-only-coherent-uncaused-effect.md": "b8d494757a53",
       "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
@@ -403,8 +403,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "1a145c6e2e12",
       "content/book/consciousness.md": "525b07ca41c4",
-      "content/book/economics.md": "a0668a2ce1c5",
-      "content/book/index-of-premises.md": "18611a3d484b",
+      "content/book/economics.md": "f3eee272aa42",
+      "content/book/index-of-premises.md": "7513cfa00477",
       "content/book/intelligence.md": "8c71f5cb6226",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "49a199864e1e",
@@ -6695,8 +6695,8 @@
       "kind": "post",
       "slug": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "path": "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md",
-      "title": "工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard",
-      "hash": "6ab388052479",
+      "title": "工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard",
+      "hash": "bea14a75ab9f",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -7620,7 +7620,7 @@
       "slug": "the-observational-cut-in-ai-debates",
       "path": "content/posts/the-observational-cut-in-ai-debates.md",
       "title": "AI 争论中的观察划界 / The Observational Cut in AI Debates",
-      "hash": "3fa7bea3b845",
+      "hash": "4c40a00e0ba9",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
@@ -38806,7 +38806,7 @@
       "from": "the-observational-cut-in-ai-debates",
       "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "rel": "points_to",
-      "label": "工时排名把充足冻结成一张记分牌"
+      "label": "工时排名把充足度冻结成一张记分牌"
     },
     {
       "from": "the-observational-cut-in-ai-debates",
@@ -48477,7 +48477,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "a0668a2ce1c5",
+        "hash": "f3eee272aa42",
         "out_degree": 28
       },
       {
@@ -48486,7 +48486,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "18611a3d484b",
+        "hash": "7513cfa00477",
         "out_degree": 393
       },
       {
@@ -49113,7 +49113,7 @@
         "from": "book:economics",
         "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
         "rel": "collects",
-        "label": "工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard"
+        "label": "工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard"
       },
       {
         "from": "book:economics",
@@ -51837,7 +51837,7 @@
         "from": "book:index-of-premises",
         "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
         "rel": "collects",
-        "label": "工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard"
+        "label": "工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard"
       },
       {
         "from": "book:index-of-premises",
@@ -52155,7 +52155,7 @@
         "from": "book:index-of-premises",
         "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
         "rel": "collects",
-        "label": "工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard"
+        "label": "工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard"
       },
       {
         "from": "book:index-of-premises",
@@ -52347,7 +52347,7 @@
         "from": "book:index-of-premises",
         "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
         "rel": "collects",
-        "label": "工时排名把充足冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard"
+        "label": "工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard"
       },
       {
         "from": "book:index-of-premises",
