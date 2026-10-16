@@ -37,7 +37,7 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers — a livi
 
 ## Sleep audit procedure
 
-**Pipeline:** session (perception) → **`/bridge`** working memory `memory/context.graph.json` → **`/sleep`** writes provisional packages under `memory/packages/` (living graph untouched; context left on disk; ignored by new sessions without `/resume-bridge`; next bridge replaces it) → **`/deep-sleep`** resonance-tests packages, regenerates the living graph, climbs bottom→top (+ store/trackers; dual-write to `.grok/memory-graph/`). Mid-day: bridge then `/clear` + later `/resume-bridge`. Operator call only.
+**Pipeline:** session (perception) → **`/bridge`** working memory `memory/bridges/<id>.graph.json` (one per thread; `/retire` deletes a finished one) → **`/sleep`** writes provisional packages under `memory/packages/` (living graph untouched; context left on disk; ignored by new sessions without `/resume-bridge`; next bridge replaces it) → **`/deep-sleep`** resonance-tests packages, regenerates the living graph, climbs bottom→top (+ store/trackers; dual-write to `.grok/memory-graph/`). Mid-day: bridge then `/clear` + later `/resume-bridge`. Operator call only.
 
 1. **Load graphs** — `docs/local.graph.json` and `docs/posts.graph.json` if present (speed); else walk the tracker table and regenerate posts graph.
 2. **Per tracker** — open file; for each claim that is a fact about the repo (paths, commands, counts, inventories):
