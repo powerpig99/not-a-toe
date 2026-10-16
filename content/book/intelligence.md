@@ -45,7 +45,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [The Illusion of Free Intelligence](../../posts/the-illusion-of-free-intelligence/)
 - [The Imagining of AI Risk](../../posts/the-imagining-of-ai-risk/)
 - [Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/)
-- [Hardware Locality Is Not the Information Boundary](../../posts/hardware-locality-is-not-the-information-boundary/)
+- [硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary](../../posts/hardware-locality-is-not-the-information-boundary/)
 - [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/)
 - [规模化回路 / The Scaling Loop](../../posts/the-scaling-loop/)
 - [对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern](../../posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)

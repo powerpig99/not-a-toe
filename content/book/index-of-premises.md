@@ -3190,11 +3190,11 @@ Presenting model-generated frameworks as depth assumes form equals understanding
 ### AI 智能体必须依赖本地开放操作系统 / Local Open Operating Systems as Necessary for AI Agents
 `技术 / Technological`
 
-该主张假定能动性需要与可检视内核紧密共处；智能体已经通过稳定抽象运作，本地栈在成本与信任上仍是可用选择，而非能动性的必要条件。
+该主张预设能动性需要与一套可检视的内核紧密同处，在成本、延迟与信任模式上选择本地技术栈时有用；它在此到了边界：智能体已经经由稳定的抽象运作，与内核同处是一种可改的设计，而不是能动性的条件。
 
-The claim assumes agency needs intimate co-location with an inspectable kernel; agents already act through stable abstractions, so local stacks remain useful choices on cost and trust, not requirements of agency.
+The claim presumes agency needs intimate co-location with an inspectable kernel, which is of use in choosing local stacks on cost, latency and trust; it reaches its boundary in that agents already act through stable abstractions, so co-location is a changeable design, not a condition of agency.
 
-→ [Hardware Locality Is Not the Information Boundary](../../posts/hardware-locality-is-not-the-information-boundary/)
+→ [硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary](../../posts/hardware-locality-is-not-the-information-boundary/)
 
 ### 好奇心随年龄衰退 / Loss of Curiosity with Age
 `成功学 / Self-Help`
@@ -3829,11 +3829,11 @@ Industrial planners rush to standardize emerging paradigms around an early favor
 ### 隐私即数据本地化 / Privacy as Data Locality
 `技术 / Technological`
 
-以本地化保障隐私，预设硬件位置构成隐私；隐私是规定共享什么、在何种保证下共享的边界，硬件只是执行或未能执行这条边界的机制。
+以本地化保障隐私，预设硬件位置构成隐私，在本地硬件被用来执行一条选定的边界时有用；它在此到了边界：隐私是规定共享什么、与谁共享、附带何种保证的那条边界的属性，硬件只是执行或未能执行它的机制。
 
-Privacy-by-locality presumes hardware location constitutes privacy; privacy is the boundary governing what is shared under what assurances, and hardware merely enforces or fails to enforce it.
+Privacy-by-locality presumes hardware location constitutes privacy, which is of use where local hardware enforces a chosen boundary; it reaches its boundary in that privacy is a property of the boundary governing what is shared, with whom and under what assurances, and hardware only enforces it or fails to.
 
-→ [Hardware Locality Is Not the Information Boundary](../../posts/hardware-locality-is-not-the-information-boundary/)
+→ [硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary](../../posts/hardware-locality-is-not-the-information-boundary/)
 
 ### 私家车拥有 / Private Car Ownership
 `经济 / Economic`
