@@ -701,6 +701,15 @@ Hossenfelder's view that understanding Gödel is formalizable meta-reasoning nee
 
 → [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/)
 
+### 选择性移民 / Selective Immigration
+`意识形态 / Ideological`
+
+选择性移民预设，一套读取来源国结果、偏好已显出高能动性者的过滤器，挑选出有能力的人，并由此决定一个社会的轨迹，在登记有选择的接纳如何在近期改变财政平衡、制度质量与文化走向时有用；它在此到了边界：它把一个可见的模式冻结为首要原因，而过滤器本身是已占据杠杆者先前自我选择的沉积，改变过滤器调整的是当下的构成，触不到持续产生流入之需求与维系它的联盟的生成层。
+
+Selective immigration presumes that a filter which reads source-country outcomes and prefers persons already showing high agency selects the capable and thereby sets a society's trajectory, which is of use in registering how selective intake can shift fiscal balances, institutional quality, and cultural trajectories in the near term; it reaches its boundary in that it freezes a visible pattern as primary cause, while the filter is itself sediment of prior self-selection by those already holding leverage, so changing it adjusts present composition without touching the generative layer that keeps producing the demand for inflows and the coalitions that sustain it.
+
+→ [卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems](../../posts/exceptionality-perception-and-the-self-limiting-field-of-problems/)
+
 ### 史蒂夫·乔布斯 / Steve Jobs
 `技术 / Technological`
 
@@ -3397,11 +3406,11 @@ Canonizing mathematics, physics and philosophy as the terminus of inquiry is of 
 ### 精英主义卓异神话 / Meritocratic Exceptionalism
 `哲学 / Philosophical`
 
-优绩主义假定顶尖赢家天然身怀旷世奇才；显赫身份只是在特定历史评价体系下适者生存的相对产物，并无神圣特权。
+精英主义卓异论预设，卓异是一份内在的、或由挑选制度产出的品质，赢家的位置证明了它，在登记谁在一个共享尺度下解开了难题时有用；它在此到了边界：卓异是共享感知之场里的关系性地位，需要当下框架内寻常胜任解不开的问题，卓异的人自我选择进入后来建立制度的位置，而制度是这些自我选择的沉积，不是产出边缘的引擎。
 
-Meritocracy presumes elite achievers possess inherent natural superiority; exceptional status is a relational byproduct of self-selection under historically contingent evaluation rules.
+Meritocratic exceptionalism presumes that exceptionality is an inherent quality, or one produced by systems of selection, which a winner's position proves, which is of use in registering who resolved a difficulty under a shared measure; it reaches its boundary in that exceptionality is relational status in a shared field of perception, requiring problems that ordinary competence under the present frame cannot resolve, and exceptional people self-select into the positions from which systems are later built, systems being sediment of those self-selections rather than engines of the edge.
 
-→ [Exceptionality, Perception, and the Self-Limiting Field of Problems](../../posts/exceptionality-perception-and-the-self-limiting-field-of-problems/)
+→ [卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems](../../posts/exceptionality-perception-and-the-self-limiting-field-of-problems/)
 
 ### 元认知 / Metacognition
 `哲学 / Philosophical`

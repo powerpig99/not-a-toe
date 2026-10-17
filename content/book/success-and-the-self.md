@@ -23,7 +23,7 @@ These essays examine victimhood paralysis, shortcut delusions, and cognitive inv
 - [The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)
 - [Therapy Opens the Feedback Loop](../../posts/therapy-opens-the-feedback-loop/)
 - [When Observation Becomes Performance](../../posts/when-observation-becomes-performance/)
-- [Exceptionality, Perception, and the Self-Limiting Field of Problems](../../posts/exceptionality-perception-and-the-self-limiting-field-of-problems/)
+- [卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems](../../posts/exceptionality-perception-and-the-self-limiting-field-of-problems/)
 - [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/)
 - [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 - [难度不在行动本身 / Hardness Is Not Inherent in the Action](../../posts/hardness-is-not-inherent-in-the-action/)

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T09:07:43.738Z",
+    "generated_at": "2026-10-17T09:37:55.921Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -72,7 +72,7 @@
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
       "content/posts/evil-as-the-minds-own-creation.md": "a9c673ba9b78",
-      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "3b036ee62bf9",
+      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "983b65889033",
       "content/posts/expertise-as-reference-not-replacement.md": "4f9116ea83a1",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "22bd9ba373af",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "659dc8276d0f",
+      "content/book/index-of-premises.md": "0ece4dc1c48d",
       "content/book/intelligence.md": "21e872236527",
       "content/book/knowledge-and-learning.md": "08a95fa3219e",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -415,19 +415,19 @@
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "41c374cc5308",
-      "content/book/success-and-the-self.md": "e41f062f3ec6",
+      "content/book/success-and-the-self.md": "24179a1b74d7",
       "content/book/tools-and-progress.md": "2db21b3550ba"
     },
     "stats": {
       "posts": 393,
-      "edges": 7059,
+      "edges": 7084,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1069,
+      "book_edges": 1070,
       "posts_reached_by_book": 393
     }
   },
@@ -2151,8 +2151,8 @@
       "kind": "post",
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "path": "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md",
-      "title": "Exceptionality, Perception, and the Self-Limiting Field of Problems",
-      "hash": "3b036ee62bf9",
+      "title": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems",
+      "hash": "983b65889033",
       "in_degree": 25,
       "out_degree": 25,
       "links_out": [
@@ -16798,151 +16798,301 @@
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
-      "label": "The paradoxical nature of bystander insights"
+      "label": "旁观者洞察的悖论"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
-      "label": "Shared humanity is never shared"
+      "label": "共同的人性从不共享"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "help-is-half-the-problem",
       "rel": "points_to",
-      "label": "Help is half the problem"
+      "label": "帮助是问题的一半"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
-      "label": "When the effect authors the frame"
+      "label": "当效果主宰了框架的叙事"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help Is Half the Problem"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "赋权确立权力的集中"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
-      "label": "The climate problem registers only as perception"
+      "label": "气候问题只作为感知被登记"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-climate-problem-registers-only-as-perception",
+      "rel": "points_to",
+      "label": "The Climate Problem Registers Only as Perception"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local; Intelligence Is Allocated"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The coordinator’s category error"
+      "label": "协调者的范畴错误"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The Coordinator's Category Error"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "The NPC impression is structural"
+      "label": "NPC 印象是结构性的"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动边缘"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
     },
     {
       "from": "expertise-as-reference-not-replacement",
@@ -52254,7 +52404,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "659dc8276d0f",
+        "hash": "0ece4dc1c48d",
         "out_degree": 393
       },
       {
@@ -52353,7 +52503,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "e41f062f3ec6",
+        "hash": "24179a1b74d7",
         "out_degree": 33
       },
       {
@@ -53536,6 +53686,12 @@
         "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
         "rel": "collects",
         "label": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "rel": "collects",
+        "label": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems"
       },
       {
         "from": "book:index-of-premises",
@@ -55659,7 +55815,7 @@
         "from": "book:index-of-premises",
         "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "rel": "collects",
-        "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+        "label": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems"
       },
       {
         "from": "book:index-of-premises",
@@ -58461,7 +58617,7 @@
         "from": "book:success-and-the-self",
         "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "rel": "collects",
-        "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+        "label": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems"
       },
       {
         "from": "book:success-and-the-self",
