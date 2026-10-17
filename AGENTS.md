@@ -122,7 +122,7 @@ The site is a live book, *非定论的心智指南 / A Non-Definitive Guide for 
   - one Chinese sentence, then one English sentence, naming the foundational premise, where it becomes incomplete, and where it stays useful (no verdicts of "false", no moralizing);
   - a `→` line of `[<Title>](../../posts/<slug>/)` links.
 
-  Passing name-drops do not earn an entry.
+  Passing name-drops do not earn an entry. Extending an existing entry is the default. A new entry names a commonly known concept, theory or figure. A concept of the blog's own earns an entry only if it's a core concept used repeatedly across posts, not one coined for a single post (owner, 2026-10-17: "Let's focus on existing. commonly know Concepts, and for our own, it has to be a core concept we repeatedly use, not just any concept we come up with").
 - **Book prose invariants**: Part prefaces, the book preface, and the Index follow the essay rules: bilingual alternating paragraphs, banned-list words only where they name the object, zero `$` LaTeX delimiters, relative links only. Title and italic subtitle follow the same delimiter rules.
 - **Stay simple**: The build reads membership from the links, and fails if a post is in no part, sits in two, or a book link does not resolve. Never hand-maintain counts or duplicate lists elsewhere.
 
