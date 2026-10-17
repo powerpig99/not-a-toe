@@ -1442,11 +1442,11 @@ Symbolic architectures assume meaning can be preregistered in formal ontologies;
 ### 实践摩擦改变信念机制 / Operational Belief Transformation
 `哲学 / Philosophical`
 
-理性辩论预设摆出推演逻辑就能使人折服；根深蒂固的前提大多只在现实撞击导致既有图式不再奏效时，才被迫重构。
+理性辩论预设，摆出论证或证据就能改变信服，在暴露一个持守所掩盖的矛盾、为替代的前提提供材料时有用；它在此到了边界：论证与后果都经由仍然有效的前提被评价，没有多少摩擦能让重画自行发生，信念的改变是这个心智同意把一个坐标置于风险之中的离散动作，由随后被感到的更大融贯来认可，而没有哪个所在能替另一个完成这次重画。
 
-Rationalist debate assumes presenting logical counter-arguments changes conviction; deeply held premises shift only when direct reality friction makes previous beliefs unworkable.
+Rationalist debate presumes that presenting argument or evidence changes conviction, which is of use in exposing tensions a hold had been covering and in supplying material for alternative premises; it reaches its boundary in that argument and consequence are both evaluated through premises still in force, no amount of friction makes the re-draw happen by itself, a change of belief is this Mind's discrete act of consenting to put a coordinate at risk, ratified by the greater coherence felt afterward, and no locus completes that re-draw for another.
 
-→ [How Belief Actually Changes](../../posts/how-belief-actually-changes/)
+→ [信念如何真正改变 / How Belief Actually Changes](../../posts/how-belief-actually-changes/)
 
 ### 协调客观还原理论 / Orchestrated Objective Reduction (Orch-OR)
 `科学 / Scientific`

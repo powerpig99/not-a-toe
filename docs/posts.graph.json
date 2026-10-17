@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T16:58:41.752Z",
+    "generated_at": "2026-10-17T17:50:57.250Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -99,7 +99,7 @@
       "content/posts/having-more-is-never-the-cause.md": "4f88f0327c1b",
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
       "content/posts/hierarchy-from-individual-difference.md": "7c131b8c8217",
-      "content/posts/how-belief-actually-changes.md": "61f0223654b3",
+      "content/posts/how-belief-actually-changes.md": "5bd4a1b82fa2",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "b57804da421d",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
@@ -405,9 +405,9 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "034dd3e2146d",
+      "content/book/index-of-premises.md": "05d76a59986c",
       "content/book/intelligence.md": "02f9b1d891c7",
-      "content/book/knowledge-and-learning.md": "dc8655adf208",
+      "content/book/knowledge-and-learning.md": "48c27dab2b11",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "be7ba296cb80",
@@ -421,7 +421,7 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7234,
+      "edges": 7253,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -2733,8 +2733,8 @@
       "kind": "post",
       "slug": "how-belief-actually-changes",
       "path": "content/posts/how-belief-actually-changes.md",
-      "title": "How Belief Actually Changes",
-      "hash": "61f0223654b3",
+      "title": "信念如何真正改变 / How Belief Actually Changes",
+      "hash": "5bd4a1b82fa2",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -19673,109 +19673,223 @@
       "from": "how-belief-actually-changes",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "心智最坚固的信念"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "the-initial-distinction",
       "rel": "points_to",
-      "label": "The initial distinction"
+      "label": "最初的区分"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-initial-distinction",
+      "rel": "points_to",
+      "label": "The Initial Distinction"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "why-explanation-fails",
       "rel": "points_to",
-      "label": "Why explanation fails"
+      "label": "解释为何失效"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "why-explanation-fails",
+      "rel": "points_to",
+      "label": "Why Explanation Fails"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
+      "label": "现实扭曲力场颠倒了基线"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
-      "label": "The imagining of AI risk"
+      "label": "对 AI 风险的想象"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
-      "label": "When the effect authors the frame"
+      "label": "当效果主宰了框架的叙事"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
-      "label": "How to fix your whole life in one split second"
+      "label": "如何在一瞬间修正你的整个人生"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to Fix Your Whole Life in One Split Second"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s own creation"
+      "label": "恶是心智自己的造物"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind's Own Creation"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind’s ongoing realization"
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
     },
     {
       "from": "how-belief-actually-changes",
       "to": "hardness-is-not-inherent-in-the-action",
       "rel": "points_to",
-      "label": "Hardness is not inherent in the action"
+      "label": "难度不在行动本身"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "the-map-after-the-territory",
+      "rel": "points_to",
+      "label": "行路之后的地图"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "Hardness Is Not Inherent in the Action"
     },
     {
       "from": "how-belief-actually-changes",
@@ -53329,7 +53443,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "034dd3e2146d",
+        "hash": "05d76a59986c",
         "out_degree": 394
       },
       {
@@ -53347,7 +53461,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "dc8655adf208",
+        "hash": "48c27dab2b11",
         "out_degree": 34
       },
       {
@@ -55270,7 +55384,7 @@
         "from": "book:index-of-premises",
         "to": "how-belief-actually-changes",
         "rel": "collects",
-        "label": "How Belief Actually Changes"
+        "label": "信念如何真正改变 / How Belief Actually Changes"
       },
       {
         "from": "book:index-of-premises",
@@ -58498,7 +58612,7 @@
         "from": "book:knowledge-and-learning",
         "to": "how-belief-actually-changes",
         "rel": "collects",
-        "label": "How Belief Actually Changes"
+        "label": "信念如何真正改变 / How Belief Actually Changes"
       },
       {
         "from": "book:knowledge-and-learning",

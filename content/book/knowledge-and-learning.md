@@ -24,7 +24,7 @@ These essays examine academic credentialism, the true advisory scope of expertis
 - [Curiosity First: The Hidden Engine of Talent and Development](../../posts/curiosity-first-the-hidden-engine-of-talent-and-development/)
 - [Writing Without the Image](../../posts/writing-without-the-image/)
 - [Expertise as Reference, Not Replacement](../../posts/expertise-as-reference-not-replacement/)
-- [How Belief Actually Changes](../../posts/how-belief-actually-changes/)
+- [信念如何真正改变 / How Belief Actually Changes](../../posts/how-belief-actually-changes/)
 - [从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma](../../posts/the-reversal-from-defensible-claim-to-dogma/)
 - [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
 - [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
