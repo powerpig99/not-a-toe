@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T21:27:49.574Z",
+    "generated_at": "2026-10-17T22:05:02.860Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -390,7 +390,7 @@
       "content/posts/when-the-effect-authors-the-frame.md": "42fba9798842",
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
       "content/posts/why-mathematics-can-never-be-solved.md": "fe8cd131b75d",
-      "content/posts/writing-without-the-image.md": "9009b34790ea",
+      "content/posts/writing-without-the-image.md": "95d5b9194141",
       "content/posts/xian-shi-de-bian-jie.md": "62dfac083174",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "67d7a9a386eb",
       "content/posts/you-cant-benchmark-the-fluid.md": "5e3f42fa5041",
@@ -405,9 +405,9 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "4514d71d644f",
+      "content/book/index-of-premises.md": "6870198befc7",
       "content/book/intelligence.md": "9528af4528a9",
-      "content/book/knowledge-and-learning.md": "083c5ccc02d2",
+      "content/book/knowledge-and-learning.md": "8c2cce815605",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "be7ba296cb80",
@@ -421,7 +421,7 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7338,
+      "edges": 7345,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -9626,8 +9626,8 @@
       "kind": "post",
       "slug": "writing-without-the-image",
       "path": "content/posts/writing-without-the-image.md",
-      "title": "Writing Without the Image",
-      "hash": "9009b34790ea",
+      "title": "无形象的写作 / Writing Without the Image",
+      "hash": "95d5b9194141",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -52535,43 +52535,85 @@
       "from": "writing-without-the-image",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity first: the hidden engine of talent and development"
+      "label": "好奇先行"
     },
     {
       "from": "writing-without-the-image",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "When observation becomes performance"
+      "label": "当观察变成表演"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity First: The Hidden Engine of Talent and Development"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
     },
     {
       "from": "writing-without-the-image",
       "to": "closed-reality-in-the-pursuit-of-serendipity",
       "rel": "points_to",
-      "label": "Closed reality in the pursuit of serendipity"
+      "label": "追求机缘中的封闭现实"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
+      "label": "Closed Reality in the Pursuit of Serendipity"
     },
     {
       "from": "writing-without-the-image",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The meaning of life is in the drafting"
+      "label": "生命的意义在起草之中"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
     },
     {
       "from": "writing-without-the-image",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts as expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "writing-without-the-image",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
     },
     {
       "from": "writing-without-the-image",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn’t a State You Arrive At. It’s the Movement Itself"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
     },
     {
       "from": "xian-shi-de-bian-jie",
@@ -53953,7 +53995,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "4514d71d644f",
+        "hash": "6870198befc7",
         "out_degree": 394
       },
       {
@@ -53971,7 +54013,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "083c5ccc02d2",
+        "hash": "8c2cce815605",
         "out_degree": 34
       },
       {
@@ -56434,7 +56476,7 @@
         "from": "book:index-of-premises",
         "to": "writing-without-the-image",
         "rel": "collects",
-        "label": "Writing Without the Image"
+        "label": "无形象的写作 / Writing Without the Image"
       },
       {
         "from": "book:index-of-premises",
@@ -59110,7 +59152,7 @@
         "from": "book:knowledge-and-learning",
         "to": "writing-without-the-image",
         "rel": "collects",
-        "label": "Writing Without the Image"
+        "label": "无形象的写作 / Writing Without the Image"
       },
       {
         "from": "book:knowledge-and-learning",

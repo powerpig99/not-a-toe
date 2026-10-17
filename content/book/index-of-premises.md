@@ -2056,11 +2056,11 @@ Preferring the handmade, the horse or the manual transmission in the name of aut
 ### 作者人设投射 / Authorial Persona Projection
 `哲学 / Philosophical`
 
-文人习气容易倾力雕琢令人仰望的作家头衔；真正的写作要求拆除自我形象的修辞包袱，如实传达撞击现实的痕迹。
+作者人设预设，作品是写作者是谁的证据，它作为与媒介的递归接触、一份份草稿地重新渲染朝向时有用；它在此到了边界：一旦实验者被安放在页面中心、其自我形象被保存过它的那一步，作品就被俘获去喂养一幅肖像，而抹除观察者只是在反向的符号下保存同一份滞后，注意力于是离开了活动所揭示的东西。
 
-Literary vanity focuses on polishing a prestigious authorial persona; authentic writing demands discarding self-conscious imagery to convey direct contact with reality.
+The authorial persona presumes that the work is evidence of who the writer is, which is of use as recursive contact with the medium, re-rendering a heading draft by draft; it reaches its boundary in that once the experimenter is placed at the center of the page and the self-image is preserved past its step, the work is captured to feed a portrait, erasing the observer only preserves the same lag under an opposite sign, and attention leaves what the activity reveals.
 
-→ [Writing Without the Image](../../posts/writing-without-the-image/)
+→ [无形象的写作 / Writing Without the Image](../../posts/writing-without-the-image/)
 
 ### 平均化的育儿方法 / Averaged Parenting Methods
 `成功学 / Self-Help`
