@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T04:54:29.331Z",
+    "generated_at": "2026-10-17T04:58:21.693Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -38,7 +38,7 @@
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "eac734d2e657",
-      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "6f59cf02f993",
+      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "ef00d0f0a679",
       "content/posts/closed-reality-in-benchmark-maxing.md": "8ba385aa71a4",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "454c1ba03b68",
@@ -404,11 +404,11 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "4147fac01705",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "0acb2ba1a2b4",
+      "content/book/index-of-premises.md": "fc5dc7acb37b",
       "content/book/intelligence.md": "a9d1647128b7",
       "content/book/knowledge-and-learning.md": "a365218a3fb1",
       "content/book/life-and-statistics.md": "607fbb67569d",
-      "content/book/mathematics.md": "9aa5763e8276",
+      "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "be7ba296cb80",
       "content/book/method.md": "d52dd5b06929",
       "content/book/morality.md": "3b6c3249cdb9",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6873,
+      "edges": 6899,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -1371,8 +1371,8 @@
       "kind": "post",
       "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
-      "title": "Closed Assumptions Squeeze Compounding into S-Curves",
-      "hash": "6f59cf02f993",
+      "title": "封闭的假设把复利挤成 S 曲线 / Closed Assumptions Squeeze Compounding into S-Curves",
+      "hash": "ef00d0f0a679",
       "in_degree": 26,
       "out_degree": 26,
       "links_out": [
@@ -13420,97 +13420,199 @@
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
-      "label": "The reality distortion field names the closed map"
+      "label": "现实扭曲力场指认的是封闭的地图"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
+      "label": "现实扭曲力场颠倒了基线"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI are temporary goalposts"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "the-scaling-loop",
       "rel": "points_to",
-      "label": "The scaling loop"
+      "label": "规模化回路"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Names the Closed Map"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-scaling-loop",
+      "rel": "points_to",
+      "label": "The Scaling Loop"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "心智最坚固的信念"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
-      "label": "Whatever is one prompt away"
+      "label": "一个提示词之遥"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
-      "label": "The price of closing optionality"
+      "label": "关闭选择权的代价"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever Is One Prompt Away"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
-      "label": "What works is the belief"
+      "label": "起作用的是信念"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
-      "label": "Why mathematics can never be solved"
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "好奇没有最终的形态"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -13522,13 +13624,31 @@
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -13540,13 +13660,49 @@
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "理性选择公设是原罪"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动边缘"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "幂律是结果的表象"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "幂律是正态分布的长期后果"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "可延展的地平线"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-geometry-of-success",
+      "rel": "points_to",
+      "label": "成功的几何学"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -13570,7 +13726,7 @@
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "the-geometry-of-success",
       "rel": "points_to",
-      "label": "The Geometry of Success: Finite Game Traps, Negative-Sum Friction, and the Myth of the \"Rigged Game\""
+      "label": "The Geometry of Success"
     },
     {
       "from": "closed-reality-in-benchmark-maxing",
@@ -51138,7 +51294,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "0acb2ba1a2b4",
+        "hash": "fc5dc7acb37b",
         "out_degree": 393
       },
       {
@@ -51174,7 +51330,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "9aa5763e8276",
+        "hash": "da0f22846972",
         "out_degree": 20
       },
       {
@@ -52899,7 +53055,7 @@
         "from": "book:index-of-premises",
         "to": "closed-assumptions-squeeze-compounding-into-s-curves",
         "rel": "collects",
-        "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+        "label": "封闭的假设把复利挤成 S 曲线 / Closed Assumptions Squeeze Compounding into S-Curves"
       },
       {
         "from": "book:index-of-premises",
@@ -56451,7 +56607,7 @@
         "from": "book:mathematics",
         "to": "closed-assumptions-squeeze-compounding-into-s-curves",
         "rel": "collects",
-        "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+        "label": "封闭的假设把复利挤成 S 曲线 / Closed Assumptions Squeeze Compounding into S-Curves"
       },
       {
         "from": "book:mathematics",

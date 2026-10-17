@@ -1208,11 +1208,11 @@ Summing approximately normal log increments makes the level log-normal, which is
 ### 逻辑斯蒂增长与S曲线 / Logistic Growth and S-Curves
 `科学 / Scientific`
 
-经济预测假定技术发展必将顺着固定的S曲线趋于饱和；饱和上限反映的仅是特定坐标系的承载边界，而非人类创新的绝境。
+逻辑斯蒂增长预设，增长面对一个自然的承载容量 K，早期的指数只是一条本就要变平之曲线的左肩，在一个持守之内拟合序列、在当下的约束之下组织规划时有用；它在此到了边界：天花板是进步在其下被观察的那些前提的属性，而不是进步的属性，一条 S 曲线开始变平，暴露的是框架的局限，而当共享的框定松动、持守被重画时，复利就恢复，而相互重叠的 S 曲线，是用尽一条曲线的有限游戏与点燃下一条的取向一起生出的。
 
-Economic forecasting assumes technological development must saturate along fixed S-curves; logistic ceilings reflect the limits of a fixed coordinate frame, not creative frontiers.
+Logistic growth presumes that growth faces a natural carrying capacity K and that the early exponential is only the left shoulder of a curve that was always going to flatten, which is of use in fitting series inside a hold and organizing planning under present constraints; it reaches its boundary in that the ceiling is a property of the premises under which progress is observed, not of progress, a flattening S-curve exposes the limits of the frame, compounding resumes when the shared framing loosens and the hold is redrawn, and overlapping S-curves arise from finite games that exhaust one curve together with the orientation that ignites the next.
 
-→ [Closed Assumptions Squeeze Compounding into S-Curves](../../posts/closed-assumptions-squeeze-compounding-into-s-curves/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
+→ [封闭的假设把复利挤成 S 曲线 / Closed Assumptions Squeeze Compounding into S-Curves](../../posts/closed-assumptions-squeeze-compounding-into-s-curves/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
 
 ### 无损信息捕获的不可能性 / Lossless Information Capture
 `数学 / Mathematical`
