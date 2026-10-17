@@ -43,7 +43,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/)
 - [Data Is Local; Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
 - [The Illusion of Free Intelligence](../../posts/the-illusion-of-free-intelligence/)
-- [The Imagining of AI Risk](../../posts/the-imagining-of-ai-risk/)
+- [对 AI 风险的想象 / The Imagining of AI Risk](../../posts/the-imagining-of-ai-risk/)
 - [智能向自身的回折 / Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/)
 - [硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary](../../posts/hardware-locality-is-not-the-information-boundary/)
 - [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/)

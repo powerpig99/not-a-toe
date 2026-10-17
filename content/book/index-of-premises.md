@@ -3880,14 +3880,14 @@ Economics treats production and consumption as separate spheres; both represent 
 
 → [Production, Consumption, and the Mind’s Distinction](../../posts/production-consumption-and-the-minds-distinction/)
 
-### 投射性AI终末论 / Projective AI Catastrophism
-`哲学 / Philosophical`
+### AI 的内在风险 / Inherent AI Risk
+`技术 / Technological`
 
-AI安全界将存在风险描摹为异星算法的突然降临；末世灾难叙事投射的依然是人类对失控、被主宰及道德报应的古老焦虑。
+内在风险的说法预设，AI 的风险是系统的一种属性，独立于每一个框定它的位置，可以从每一种视角之外被勘察、被封住，在把注意力引向负载之下的程序错误、误用与失败时有用；它在此到了边界：能被命名的风险已经被框定，是人的风险，把灾难的图像当作封闭的清单来持守，会让那条使危险得以运作的人的回应链条变密，于是倾向于产生它声称要防止的结果，而同一份想象也产生益处，区分两者的，是回应是否与它声称的意图保持连贯。
 
-AI safety discourse frames existential risk as novel algorithmic alienness; cataclysmic narratives project timeless human fears of helplessness, domination, and moral retribution.
+The claim of inherent risk presumes that AI risk is a property of the system, independent of every locus that frames it, which can be surveyed and sealed from outside every perspective, and it is of use in directing attention to bugs, misuse, and failures under load; it reaches its boundary in that a risk that can be named is already framed and is human risk, holding the catastrophe image as a sealed inventory densifies the human response chain that makes the danger operational and so tends to produce the outcome it claims to prevent, and the same imagining also produces benefit, the two separated by whether the response stays coherent with its stated intention.
 
-→ [The Imagining of AI Risk](../../posts/the-imagining-of-ai-risk/)
+→ [对 AI 风险的想象 / The Imagining of AI Risk](../../posts/the-imagining-of-ai-risk/)
 
 ### 保护性制度是自由的前提 / Protective Institutions as Precondition of Freedom
 `意识形态 / Ideological`
