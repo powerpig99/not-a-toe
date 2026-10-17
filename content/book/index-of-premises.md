@@ -629,6 +629,15 @@ The phrase "reality distortion field" presumes that the mass picture is the fiel
 
 → [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 
+### 递归自我改进 / Recursive Self-Improvement
+`技术 / Technological`
+
+递归自我改进预设，一个能改进自身的系统，会经由一个越来越快的回路变成独立的发起者，在描述更长的连贯链条、中途修订与自己提出的实验如何加快执行时有用；它在此到了边界：执行上的自主提高了回路的速度，却不搬动它们的源头，留下还是舍弃仍交给那个唯一闭合于自身的回路，而每一次回折所产出的开放，来自回折本身，不来自器物。
+
+Recursive self-improvement presumes that a system able to improve itself becomes an independent initiator through an ever faster loop, which is of use in describing how longer coherent chains, intermediate revision, and self-proposed experiments speed execution; it reaches its boundary in that autonomy of execution raises the velocity of the loops without relocating their source, retain-or-discard is still deferred to the only circuit that closes on itself, and the openness each fold yields comes from the fold, not from the artifact.
+
+→ [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/)
+
 ### 勒内·笛卡尔 / René Descartes
 `哲学 / Philosophical`
 
@@ -1586,11 +1595,11 @@ Technological determinism presumes technology is a force standing apart from hum
 ### 技术奇点理论 / Technological Singularity
 `技术 / Technological`
 
-奇点叙事将局部的复合增长曲线外推为形而上无限；对吸纳投资有用，却忽视了物理瓶颈与感知重置。
+技术奇点理论预设，复利增长的能力曲线会越过一道门槛，过了它，器物便越过自己的源头去改进自身，在登记前沿上亲身感到的加速、在为努力动员资源时有用；它在此到了边界：门槛永远立在画出它的边缘前方，把一条局部的曲线外推，是把图像保留到它那一步之后，而更密的脚手架仍是由心智掌舵的脚手架。
 
-Singularity narratives extrapolate local compounding curves into metaphysical infinity; highly motivating for investment, they neglect physical bottlenecks and perceptual resets.
+Technological Singularity theory presumes that a compounding capability curve crosses a threshold past which the artifact improves itself beyond its source, which is of use in registering the acceleration felt at the frontier and in mobilizing effort; it reaches its boundary in that the threshold sits forever ahead of the edge that draws it, extrapolating a local curve keeps the image past its step, and denser scaffolding stays scaffolding steered by the Mind.
 
-→ [The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/)
+→ [The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/) · [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/)
 
 ### 技术性失业 / Technological Unemployment
 `经济 / Economic`
@@ -4032,15 +4041,6 @@ Chain-of-thought distillation assumes compressed scratchpads replicate genuine r
 The reading of "emergent capability" presumes that the model has crossed a threshold, that the harness is a key unlocking powers already latent in the model, and that inner loops running on their own are a new kind of intelligence, which is of use in tracking that models and harnesses do raise reach and velocity; it reaches its boundary in that the model is denser residue of prior distinguishing, the harness is further acts of the only edge that steers, the inner loops still take their objectives, evaluation criteria, and judgment of what counts as progress from the outer loop, and what looks like the model becoming more capable is the Mind realizing more of the field through a finer map while refining that map in the same motion.
 
 → [智能向自身的回折 / Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/)
-
-### 工具的递归自我放大 / Recursive Tool Amplification
-`技术 / Technological`
-
-奇点拥趸将模型的自我迭代视同机器意志的觉醒；递归放大的管线只是浓缩了人类沉淀的启发式规律，绝无自主生成目的之能。
-
-Singularity enthusiasts treat recursive model improvements as runaway machine will; self-amplifying pipelines densify historical heuristics without generating independent purpose.
-
-→ [The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/)
 
 ### 再分配作为授权 / Redistribution as Authorization
 `经济 / Economic`

@@ -27,7 +27,7 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [The Climate Problem Registers Only as Perception](../../posts/the-climate-problem-registers-only-as-perception/)
 - [Symptom and Cause in the Narratives of Progress](../../posts/symptom-and-cause-in-the-narratives-of-progress/)
 - [The Utility Men of Progress](../../posts/the-utility-men-of-progress/)
-- [The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/)
+- [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/)
 - [攀登从未离开地面 / Climbing Does Not Leave the Ground](../../posts/climbing-does-not-leave-the-ground/)
 - [技术是人类复利的残差 / Technology Is Residual of Human Compounding](../../posts/technology-is-residual-of-human-compounding/)
 - [要紧的控制迁往边缘 / Essential Control Moves to the Edge](../../posts/residual-control-recedes-to-the-edge/)
