@@ -242,6 +242,15 @@ Hassabis proposes discovering novel physics as the benchmark for AGI; useful as 
 
 → [The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/)
 
+### 智能的民主化 / Democratization of Intelligence
+`技术 / Technological`
+
+“智能的民主化”预设，接近零边际成本的流畅输出，让智能本身变得免费，并让人人对它有了同等的接触，在登记残余一次实际的变密、即昨天稀缺的综合如今轻易可复制时有用；它在此到了边界：变便宜的是残余，不是智能，容易接触不是同等接触，放大跟随每一个心智如何持守器具，而每一个心智作出自己选择的自由，从来不是一份媒介能分发的东西。
+
+The democratization of intelligence presumes that near-zero-marginal-cost fluent output makes intelligence itself free and gives everyone equal access to it, which is of use in registering an actual densification of residue, yesterday's scarce synthesis now trivially reproducible; it reaches its boundary in that what cheapens is residue, not intelligence, easy access is not equal access, amplification tracks how each Mind holds the instrument, and each Mind's freedom to make its own choice was never something a medium could distribute.
+
+→ [免费智能的幻觉 / The Illusion of Free Intelligence](../../posts/the-illusion-of-free-intelligence/)
+
 ### 德里克·西弗斯 / Derek Sivers
 `成功学 / Self-Help`
 
@@ -2754,15 +2763,6 @@ Mission statements assume founders' values govern long-term behavior; organizati
 The quadrant ladder misreads the discrete jump between bounds as a static transition zone; there is one known, one unknown, and a moving boundary invisible from inside.
 
 → [“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
-
-### 免费智能幻象 / Free Intelligence Fallacy
-`经济 / Economic`
-
-硅谷高呼边际成本归零的免费智能；普及廉价的词元输出贬值了通用套路，反而使具备真知灼见的主权定夺变得前所未有地昂贵。
-
-Silicon Valley heralds near-zero marginal cost intelligence; cheapening automated text generation devalues common patterns, driving up the premium on genuine sovereign discernment.
-
-→ [The Illusion of Free Intelligence](../../posts/the-illusion-of-free-intelligence/)
 
 ### 自由变量与先验主权 / Free Variable as Sovereign Agency
 `数学 / Mathematical`
