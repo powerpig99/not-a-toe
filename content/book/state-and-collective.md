@@ -27,7 +27,7 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 - [The Source of Shared Change](../../posts/the-source-of-shared-change/)
 - [Restriction Is a Selective Tax](../../posts/restriction-is-a-selective-tax/)
 - [Shared Humanity Is Never Shared](../../posts/shared-humanity-is-never-shared/)
-- [Empowerment Establishes the Centralization of Power](../../posts/empowerment-establishes-the-centralization-of-power/)
+- [赋权确立权力的集中 / Empowerment Establishes the Centralization of Power](../../posts/empowerment-establishes-the-centralization-of-power/)
 - [对乌托邦的信念是通往反乌托邦之路 / The Belief in Utopia Is the Path to Dystopia](../../posts/the-belief-in-utopia-is-the-path-to-dystopia/)
 - [解放的言辞始于定义囚禁 / Liberation Rhetoric Begins by Defining Captivity](../../posts/liberation-rhetoric-begins-by-defining-captivity/)
 - [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/)

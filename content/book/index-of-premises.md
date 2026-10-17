@@ -2159,7 +2159,7 @@ Early Buddhism presumes the seeing that pierces craving needs the Sangha as an i
 
 Progressive rhetoric celebrates administrative programs that empower marginalized groups; accepting power as a gift ratifies the sovereign authority of the dispenser.
 
-→ [Empowerment Establishes the Centralization of Power](../../posts/empowerment-establishes-the-centralization-of-power/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
+→ [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
 
 ### 责任转嫁的程序剧场 / Bureaucratic Liability Theater
 `意识形态 / Ideological`
@@ -2601,6 +2601,15 @@ Theological dogmas project evil as an invasive demonic entity; malice originates
 Moral empathy assumes feeling another's distress guarantees ethical action; it often projects one's own emotional models, substituting self-referential resonance for real understanding.
 
 → [The Word Does the Damage: Empathy as Projection Collapse](../../posts/empathy-as-projection-collapse/)
+
+### 赋权即授予能力 / Empowerment as Conferral of Capacity
+`意识形态 / Ideological`
+
+赋权的说法预设，能力是一个已经持有它的中心可以授予或解锁的存量，在描述资源、信息或机会如何在人与人之间转移时有用；它在此到了边界：选择的自由无法转移，提出与接受赋权都认可了同一个不对称，请求与许可让那道门保持首要，而能力在每一个边缘上经由相继的选择复利，扩展可得选项的场。
+
+Empowerment presumes that capacity is a stock that a center already holding it can bestow or unlock, which is of use in describing how resources, information, or opportunities move between people; it reaches its boundary in that the freedom of choice cannot be transferred, offering and accepting empowerment ratify the same asymmetry, petition and permission keep the gate primary, and capacity compounds at each edge through successive choices that enlarge the field of available options.
+
+→ [赋权确立权力的集中 / Empowerment Establishes the Centralization of Power](../../posts/empowerment-establishes-the-centralization-of-power/)
 
 ### 启蒙运动的自主理性 / Enlightenment Autonomous Reason
 `哲学 / Philosophical`

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T10:58:04.536Z",
+    "generated_at": "2026-10-17T11:24:50.470Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -67,16 +67,16 @@
       "content/posts/efficiency-without-differentiation.md": "3e2aad7ba924",
       "content/posts/emotional-support-as-causal-interference.md": "502e2b0e04b1",
       "content/posts/empathy-as-projection-collapse.md": "48c21092f783",
-      "content/posts/empowerment-establishes-the-centralization-of-power.md": "a47e6b831b62",
+      "content/posts/empowerment-establishes-the-centralization-of-power.md": "a56e85b1dcc0",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "42e3f43c2c2d",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
       "content/posts/evil-as-the-minds-own-creation.md": "a9c673ba9b78",
-      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "983b65889033",
+      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "1650c2360801",
       "content/posts/expertise-as-reference-not-replacement.md": "4f9116ea83a1",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
-      "content/posts/externalized-virtue-becomes-its-opposite.md": "87053d0f1181",
+      "content/posts/externalized-virtue-becomes-its-opposite.md": "7deaf3a290d0",
       "content/posts/failure-as-information.md": "dac0fbefad5a",
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "067a958b2103",
@@ -197,7 +197,7 @@
       "content/posts/the-average-is-residue-not-the-engine.md": "436750ca56fb",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "2f2534e90b66",
-      "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "724dd2818605",
+      "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "97547be1fe48",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b52ca2cdd064",
       "content/posts/the-blind-spot-of-the-frame.md": "23484e369bf2",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "464f471e2c78",
+      "content/book/index-of-premises.md": "04e4b17f6b88",
       "content/book/intelligence.md": "02f9b1d891c7",
       "content/book/knowledge-and-learning.md": "08a95fa3219e",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -414,13 +414,13 @@
       "content/book/morality.md": "f9f8e36b3576",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "41c374cc5308",
+      "content/book/state-and-collective.md": "165b6fc0eeaf",
       "content/book/success-and-the-self.md": "24179a1b74d7",
       "content/book/tools-and-progress.md": "2db21b3550ba"
     },
     "stats": {
       "posts": 393,
-      "edges": 7165,
+      "edges": 7184,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -2040,8 +2040,8 @@
       "kind": "post",
       "slug": "empowerment-establishes-the-centralization-of-power",
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
-      "title": "Empowerment Establishes the Centralization of Power",
-      "hash": "a47e6b831b62",
+      "title": "赋权确立权力的集中 / Empowerment Establishes the Centralization of Power",
+      "hash": "a56e85b1dcc0",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -2152,7 +2152,7 @@
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "path": "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md",
       "title": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems",
-      "hash": "983b65889033",
+      "hash": "1650c2360801",
       "in_degree": 25,
       "out_degree": 25,
       "links_out": [
@@ -2245,7 +2245,7 @@
       "slug": "externalized-virtue-becomes-its-opposite",
       "path": "content/posts/externalized-virtue-becomes-its-opposite.md",
       "title": "外化善意走向其反面 / Externalized Virtue Becomes Its Opposite",
-      "hash": "87053d0f1181",
+      "hash": "7deaf3a290d0",
       "in_degree": 26,
       "out_degree": 26,
       "links_out": [
@@ -5350,7 +5350,7 @@
       "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
       "path": "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md",
       "title": "对乌托邦的信念是通往反乌托邦之路 / The Belief in Utopia Is the Path to Dystopia",
-      "hash": "724dd2818605",
+      "hash": "97547be1fe48",
       "in_degree": 23,
       "out_degree": 23,
       "links_out": [
@@ -16618,19 +16618,43 @@
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "the-misallocation-of-agency",
       "rel": "points_to",
-      "label": "The misallocation of agency"
+      "label": "能动性的错配"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The Misallocation of Agency"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "主体性的折现"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
@@ -16642,37 +16666,79 @@
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "解放的言辞始于定义囚禁"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
-      "label": "Agency relocated into the formal model"
+      "label": "能动性被转置入形式模型"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "Agency Relocated into the Formal Model"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "rel": "points_to",
+      "label": "未历摩擦的心智与借来的全能"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
@@ -16684,31 +16750,73 @@
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
-      "label": "Whatever is one prompt away"
+      "label": "一个提示词之遥"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever Is One Prompt Away"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "rel": "points_to",
+      "label": "自我价值、反向财富转移与过去成功的陷阱"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
@@ -16726,7 +16834,13 @@
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
@@ -52890,7 +53004,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "464f471e2c78",
+        "hash": "04e4b17f6b88",
         "out_degree": 393
       },
       {
@@ -52980,7 +53094,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "41c374cc5308",
+        "hash": "165b6fc0eeaf",
         "out_degree": 30
       },
       {
@@ -55441,12 +55555,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "empowerment-establishes-the-centralization-of-power",
-        "rel": "collects",
-        "label": "Empowerment Establishes the Centralization of Power"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-generative-mechanics-of-value-money-and-wealth",
         "rel": "collects",
         "label": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth"
@@ -55750,6 +55858,12 @@
         "to": "empathy-as-projection-collapse",
         "rel": "collects",
         "label": "The Word Does the Damage: Empathy as Projection Collapse"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "empowerment-establishes-the-centralization-of-power",
+        "rel": "collects",
+        "label": "赋权确立权力的集中 / Empowerment Establishes the Centralization of Power"
       },
       {
         "from": "book:index-of-premises",
@@ -58983,7 +59097,7 @@
         "from": "book:state-and-collective",
         "to": "empowerment-establishes-the-centralization-of-power",
         "rel": "collects",
-        "label": "Empowerment Establishes the Centralization of Power"
+        "label": "赋权确立权力的集中 / Empowerment Establishes the Centralization of Power"
       },
       {
         "from": "book:state-and-collective",
