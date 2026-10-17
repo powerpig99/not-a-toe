@@ -348,7 +348,7 @@ Chollet insists intelligence is tied to human environmental priors; useful again
 
 Hayek's argument that dispersed knowledge cannot be monopolized by planning is of use in explaining how markets coordinate through prices; it reaches its boundary in that it still pictures what appears in public as pieces of a stock, and holds one fixed pattern of property rules as the general response, a holding that itself issues from incomplete knowledge.
 
-→ [Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/) · [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
+→ [价格是言说，理解是交易 / Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/) · [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
 
 ### 杰弗里·辛顿 / Geoffrey Hinton
 `科学 / Scientific`
@@ -1199,11 +1199,11 @@ The growth mindset holds that ability grows through effort rather than being a f
 ### 哈耶克价格机制 / Hayekian Price Mechanism
 `经济 / Economic`
 
-哈耶克将市场价格视作分散知识的协调信号；价格是各方表达主观诉求的动态发声，而非静态公式能算定的恒常锚点。
+哈耶克价格机制预设，价格是在没有计划者的情况下协调分散知识的信号，它在解释相对价格如何塑造各中心在解读稀缺与回报时所发现的东西、并化为弥合缺口的激励时有用；它在此到了边界：传过去的是成交价，而不是作为存量从一个内在移到另一个内在的知识，每个中心都在自己的所在重新推导价格意味着什么，而成交只需要对同一物品相反的排序，不需要价值模型的同一。
 
-Hayek frames market prices as decentralized information aggregators; prices serve as communicative signals coordinating private knowledge, rather than static equilibrium anchors.
+The Hayekian price mechanism presumes the price to be a signal that coordinates dispersed knowledge without a planner, which is of use in explaining how a relative price patterns what each center finds when it reads scarcity and yield and so issues in incentives that close a shortfall; it reaches its boundary in that what travels is the print, not knowledge moving as a stock from one interior to another, each center re-derives at its own locus what the price means, and a clearing needs only opposite rankings of one good, not identity of models of value.
 
-→ [Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/)
+→ [价格是言说，理解是交易 / Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/)
 
 ### 海森堡测不准原理 / Heisenberg Uncertainty Principle
 `科学 / Scientific`

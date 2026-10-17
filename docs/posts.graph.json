@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T22:05:02.860Z",
+    "generated_at": "2026-10-17T22:48:34.823Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -158,7 +158,7 @@
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "ba92992e9c52",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
-      "content/posts/price-as-utterance-understanding-as-trade.md": "c9662cffea91",
+      "content/posts/price-as-utterance-understanding-as-trade.md": "f09b5278942b",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
       "content/posts/public-spending-does-not-create-capital.md": "4ecd2dec23ca",
       "content/posts/qian-yin-hou-guo.md": "6e45c78bfc7c",
@@ -404,8 +404,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
-      "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "6870198befc7",
+      "content/book/economics.md": "e488107cbd4f",
+      "content/book/index-of-premises.md": "b29c06660978",
       "content/book/intelligence.md": "9528af4528a9",
       "content/book/knowledge-and-learning.md": "8c2cce815605",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -421,7 +421,7 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7345,
+      "edges": 7361,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -4333,8 +4333,8 @@
       "kind": "post",
       "slug": "price-as-utterance-understanding-as-trade",
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
-      "title": "Price as Utterance, Understanding as Trade",
-      "hash": "c9662cffea91",
+      "title": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade",
+      "hash": "f09b5278942b",
       "in_degree": 17,
       "out_degree": 16,
       "links_out": [
@@ -4343,10 +4343,10 @@
         "what-works-is-the-belief",
         "causality-all-the-way",
         "rationality-never-travels-across-the-mind",
+        "shared-consciousness-is-intersecting-individualities",
         "reality-is-the-minds-ongoing-realization",
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
-        "shared-consciousness-is-intersecting-individualities",
         "the-scaffolding-we-forget",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-coordinators-category-error",
@@ -27359,73 +27359,169 @@
       "from": "price-as-utterance-understanding-as-trade",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
-      "label": "What works is the belief"
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
       "to": "rationality-never-travels-across-the-mind",
       "rel": "points_to",
-      "label": "Rationality never travels across the Mind"
+      "label": "理性从不跨越心智"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
-      "to": "reality-is-the-minds-ongoing-realization",
+      "to": "rationality-never-travels-across-the-mind",
       "rel": "points_to",
-      "label": "Reality is the Mind’s ongoing realization"
-    },
-    {
-      "from": "price-as-utterance-understanding-as-trade",
-      "to": "the-source-of-shared-change",
-      "rel": "points_to",
-      "label": "The source of shared change"
-    },
-    {
-      "from": "price-as-utterance-understanding-as-trade",
-      "to": "shared-humanity-is-never-shared",
-      "rel": "points_to",
-      "label": "Shared humanity is never shared"
+      "label": "Rationality Never Travels Across the Mind"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "共同改变的本源"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "共同的人性从不共享"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind’s Ongoing Realization"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "财富转移政策与价格下限中的原因错置"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The coordinator’s category error"
+      "label": "协调者的范畴错误"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The Coordinator’s Category Error"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "共享沙盒的幻象"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "对乌托邦的信念是通往反乌托邦之路"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "能动性的错配"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
@@ -27437,13 +27533,13 @@
       "from": "price-as-utterance-understanding-as-trade",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "The Belief in Utopia Is the Path to Dystopia"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "The Rational Choice Postulate Is the Original Sin"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
@@ -53986,7 +54082,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "6ae8129cb1f7",
+        "hash": "e488107cbd4f",
         "out_degree": 28
       },
       {
@@ -53995,7 +54091,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "6870198befc7",
+        "hash": "b29c06660978",
         "out_degree": 394
       },
       {
@@ -54592,7 +54688,7 @@
         "from": "book:economics",
         "to": "price-as-utterance-understanding-as-trade",
         "rel": "collects",
-        "label": "Price as Utterance, Understanding as Trade"
+        "label": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade"
       },
       {
         "from": "book:economics",
@@ -54976,7 +55072,7 @@
         "from": "book:index-of-premises",
         "to": "price-as-utterance-understanding-as-trade",
         "rel": "collects",
-        "label": "Price as Utterance, Understanding as Trade"
+        "label": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade"
       },
       {
         "from": "book:index-of-premises",
@@ -55744,7 +55840,7 @@
         "from": "book:index-of-premises",
         "to": "price-as-utterance-understanding-as-trade",
         "rel": "collects",
-        "label": "Price as Utterance, Understanding as Trade"
+        "label": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade"
       },
       {
         "from": "book:index-of-premises",
