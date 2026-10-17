@@ -1145,11 +1145,11 @@ Functionalism defines mental states by causal role on the premise that the descr
 ### AGI功能主义理论 / Functionalist Theory of AGI
 `技术 / Technological`
 
-功能主义假定在行为外表上仿效人类即可确证心智成型；行为拟合测定的只是输出相似度，对主体意识的缺席全无察觉。
+AGI的功能主义参照预设，智能就是对抽象的占有与操作，因而足够的规模、检索与重组即构成通用智能；在度量并改进存储、检索与重组抽象产物的工具时，它依然有用，而当由系统被优化去满足的同一套标准所界定的证据被要求审视这一前提，当抽象的产物被当作划出并修订它们的那种能力时，它便到了边界。
 
-Functionalism presumes matching external human conversational behavior proves the arrival of mind; behavioral mimicry measures output fidelity, silent on subjective consciousness.
+The functionalist reference for AGI presumes that intelligence is the possession and manipulation of abstractions, so that enough scale, retrieval, and recombination amount to general intelligence; it stays useful for measuring and improving tools that store, retrieve, and recombine the products of abstraction, and reaches its boundary where evidence defined by the criteria the systems are optimized to satisfy is asked to examine that premise, and where the products of abstraction are taken for the capacity that draws and revises them.
 
-→ [The Presumption of AGI and the View from Outside](../../posts/the-presumption-of-agi-and-the-view-from-outside/)
+→ [AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside](../../posts/the-presumption-of-agi-and-the-view-from-outside/)
 
 ### 博弈论 / Game Theory
 `数学 / Mathematical`

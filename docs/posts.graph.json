@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T18:50:08.456Z",
+    "generated_at": "2026-10-17T19:47:27.861Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -316,7 +316,7 @@
       "content/posts/the-perceiver-and-the-trace.md": "0f2f19a2e04a",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "39ba1ef8a7a3",
       "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
-      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "0f27052d1822",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "a38ebc7ae763",
       "content/posts/the-price-of-closing-optionality.md": "3ad717f12d55",
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
       "content/posts/the-ramble-within-the-ramble.md": "454a1407f39f",
@@ -405,8 +405,8 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "236552b04894",
-      "content/book/intelligence.md": "02f9b1d891c7",
+      "content/book/index-of-premises.md": "bbdcb09ed1bc",
+      "content/book/intelligence.md": "9528af4528a9",
       "content/book/knowledge-and-learning.md": "48c27dab2b11",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
@@ -421,7 +421,7 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7266,
+      "edges": 7289,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -7872,8 +7872,8 @@
       "kind": "post",
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
-      "title": "The Presumption of AGI and the View from Outside",
-      "hash": "0f27052d1822",
+      "title": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside",
+      "hash": "a38ebc7ae763",
       "in_degree": 23,
       "out_degree": 23,
       "links_out": [
@@ -43895,79 +43895,163 @@
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "the-flight-analogy-leaves-the-mind-untouched",
       "rel": "points_to",
-      "label": "The flight analogy leaves the Mind untouched"
+      "label": "飞行的类比碰不到心智"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The Flight Analogy Leaves the Mind Untouched"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "the-non-definitive-definition-of-intelligence",
       "rel": "points_to",
-      "label": "The non-definitive definition of intelligence"
+      "label": "智能的非定论定义"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "The Non-Definitive Definition of Intelligence"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
-      "label": "Why mathematics can never be solved"
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "What always listens cannot originate"
+      "label": "总在倾听者无法发起"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "无人能持有的功能主义"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -43979,7 +44063,37 @@
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI are temporary goalposts"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "rel": "points_to",
+      "label": "远方的轮廓与无处之境的清单"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "造物无法取代其源头"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "超验的定相"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "复杂性遮蔽了涌现"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -43991,43 +44105,67 @@
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "A creation cannot replace its source"
+      "label": "A Creation Cannot Replace Its Source"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "The fixed image of transcendence"
+      "label": "The Fixed Image of Transcendence"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity obscures: emergence as the act of Mind"
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+      "label": "没有外部"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "自我形象仿佛从无处发声"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "Climbing does not leave the ground"
+      "label": "攀登从未离开地面"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
-      "label": "The hard problem of consciousness is consistent with learning"
+      "label": "意识的难题与学习相容"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing Does Not Leave the Ground"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The Hard Problem of Consciousness Is Consistent with Learning"
     },
     {
       "from": "the-price-of-closing-optionality",
@@ -53521,7 +53659,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "236552b04894",
+        "hash": "bbdcb09ed1bc",
         "out_degree": 394
       },
       {
@@ -53530,7 +53668,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "02f9b1d891c7",
+        "hash": "9528af4528a9",
         "out_degree": 47
       },
       {
@@ -55216,7 +55354,7 @@
         "from": "book:index-of-premises",
         "to": "the-presumption-of-agi-and-the-view-from-outside",
         "rel": "collects",
-        "label": "The Presumption of AGI and the View from Outside"
+        "label": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside"
       },
       {
         "from": "book:index-of-premises",
@@ -58498,7 +58636,7 @@
         "from": "book:intelligence",
         "to": "the-presumption-of-agi-and-the-view-from-outside",
         "rel": "collects",
-        "label": "The Presumption of AGI and the View from Outside"
+        "label": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside"
       },
       {
         "from": "book:intelligence",
