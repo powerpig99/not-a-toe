@@ -3529,14 +3529,14 @@ Treating money and accumulated assets as wealth is of use in recording deferred 
 
 → [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
 
-### 善恶二元论的认知刻痕 / Moral Dualism as Cognitive Knife
+### 善恶二元论 / Moral Dualism
 `哲学 / Philosophical`
 
-善恶二分法预设天地间存在争战不休的正邪实体；二者实则是同一个心智依据自我存续偏好剖分现实所刻下的对称标签。
+善恶二元论预设，善与恶是先于任何心智而在世界中相争的两股力量，在一个中心把道德的轴当作每一步重新画出的朝向来用时有用；它在此到了边界：两极是一个中心画出的一刀的残余，那一刀一旦被忘记、中心自己为善的偏好图像被豁免于重新追溯并被抬到其他中心之上，两极便被登记为发现，英雄的故事、对评判的许可与后来两面的轮换由此而来，而差异只在已经做出那一刀的感知之内成立。
 
-Moral dualism presumes Good and Evil exist as contending cosmic forces; they are symmetrical evaluations assigned by a mind carving reality to fit its preferred survival model.
+Moral dualism presumes that good and evil are forces contending in the world prior to any Mind, which is of use where a center holds its moral axis as a heading redrawn at each step; it reaches its boundary in that the poles are residue of a cut a center draws, and once the cut is forgotten and the center's preferred image of itself as good is exempted from re-tracing and elevated over other centers, the poles register as discovery, from which follow the hero story, the licensing of judgment, and the later rotation of faces, while differences hold only within the perception that has already performed the cut.
 
-→ [Good and Evil Are the Two Sides of the Coin and the Cut](../../posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut/)
+→ [善恶是硬币的两面与那一刀 / Good and Evil Are the Two Sides of the Coin and the Cut](../../posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut/)
 
 ### 道德义务 / Moral Duty
 `哲学 / Philosophical`

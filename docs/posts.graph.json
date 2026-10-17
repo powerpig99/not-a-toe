@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T11:24:50.470Z",
+    "generated_at": "2026-10-17T12:02:02.703Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -88,7 +88,7 @@
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "49e11e207c1c",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "90bc3f766d03",
-      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "f0c515ee862c",
+      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "a043d85b6ab3",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "0ab85cee9764",
       "content/posts/guidance-is-not-ownership.md": "7d51a8692137",
@@ -404,14 +404,14 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "04e4b17f6b88",
+      "content/book/index-of-premises.md": "08c4d2aefa27",
       "content/book/intelligence.md": "02f9b1d891c7",
       "content/book/knowledge-and-learning.md": "08a95fa3219e",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "be7ba296cb80",
       "content/book/method.md": "d52dd5b06929",
-      "content/book/morality.md": "f9f8e36b3576",
+      "content/book/morality.md": "239fe35130e2",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "165b6fc0eeaf",
@@ -420,7 +420,7 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 7184,
+      "edges": 7196,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -2496,8 +2496,8 @@
       "kind": "post",
       "slug": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "path": "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md",
-      "title": "Good and Evil Are the Two Sides of the Coin and the Cut",
-      "hash": "f0c515ee862c",
+      "title": "善恶是硬币的两面与那一刀 / Good and Evil Are the Two Sides of the Coin and the Cut",
+      "hash": "a043d85b6ab3",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
@@ -18748,67 +18748,139 @@
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s own creation"
+      "label": "恶是心智自己的造物"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind's Own Creation"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
-      "label": "The question that installs the war"
+      "label": "安装战争的那个问题"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "Moral language dilutes the feedback that scales freedom"
+      "label": "道德语言稀释自由复利的反馈"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The Question That Installs the War"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡的无限可能"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "the-initial-distinction",
       "rel": "points_to",
-      "label": "The initial distinction"
+      "label": "最初的区分"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "the-initial-distinction",
+      "rel": "points_to",
+      "label": "The Initial Distinction"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "一切伤害的根源"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "善恶硬币与通往地狱的善意之路"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -53004,7 +53076,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "04e4b17f6b88",
+        "hash": "08c4d2aefa27",
         "out_degree": 393
       },
       {
@@ -53067,7 +53139,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "f9f8e36b3576",
+        "hash": "239fe35130e2",
         "out_degree": 28
       },
       {
@@ -56511,7 +56583,7 @@
         "from": "book:index-of-premises",
         "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "rel": "collects",
-        "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
+        "label": "善恶是硬币的两面与那一刀 / Good and Evil Are the Two Sides of the Coin and the Cut"
       },
       {
         "from": "book:index-of-premises",
@@ -58767,7 +58839,7 @@
         "from": "book:morality",
         "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "rel": "collects",
-        "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
+        "label": "善恶是硬币的两面与那一刀 / Good and Evil Are the Two Sides of the Coin and the Cut"
       },
       {
         "from": "book:morality",
