@@ -44,7 +44,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [Data Is Local; Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
 - [The Illusion of Free Intelligence](../../posts/the-illusion-of-free-intelligence/)
 - [The Imagining of AI Risk](../../posts/the-imagining-of-ai-risk/)
-- [Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/)
+- [智能向自身的回折 / Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/)
 - [硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary](../../posts/hardware-locality-is-not-the-information-boundary/)
 - [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/)
 - [规模化回路 / The Scaling Loop](../../posts/the-scaling-loop/)

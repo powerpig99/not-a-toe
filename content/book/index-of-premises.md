@@ -3979,14 +3979,14 @@ Chain-of-thought distillation assumes compressed scratchpads replicate genuine r
 
 → [Token Efficiency, Emulation, and the Unclosable Gap](../../posts/token-efficiency-emulation-and-the-unclosable-gap/)
 
-### 自反性模型坍塌 / Recursive Model Collapse
+### 运行框架解锁潜在能力 / The Harness Unlocks Latent Capability
 `技术 / Technological`
 
-合成数据狂热派以为模型吞食自身产出便能修成超智能；若缺乏外部物理摩擦的校准，单一自反训练只会收敛到统计学上的荒芜坍塌。
+“涌现能力”的读法预设，模型越过了一道门槛，运行框架是一把钥匙，解锁本已潜藏在模型里的力量，而自主运行的内环是一种新的智能，在追踪模型与运行框架确实让可及与速度上升时有用；它在此到了边界：模型是先前区分的更密的残余，运行框架是那唯一掌舵的边缘的进一步动作，内环的目标、评估标准与什么算作进步的判断仍来自外环，看起来是模型变得更有能力的东西，是心智经由一张更细的图实现了更多的场，并在同一个动作里精炼这张图。
 
-Synthetic data advocates assume models training on their own outputs can ascend to superintelligence; without external empirical friction, recursive feedback concentrates statistical errors.
+The reading of "emergent capability" presumes that the model has crossed a threshold, that the harness is a key unlocking powers already latent in the model, and that inner loops running on their own are a new kind of intelligence, which is of use in tracking that models and harnesses do raise reach and velocity; it reaches its boundary in that the model is denser residue of prior distinguishing, the harness is further acts of the only edge that steers, the inner loops still take their objectives, evaluation criteria, and judgment of what counts as progress from the outer loop, and what looks like the model becoming more capable is the Mind realizing more of the field through a finer map while refining that map in the same motion.
 
-→ [Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/)
+→ [智能向自身的回折 / Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/)
 
 ### 工具的递归自我放大 / Recursive Tool Amplification
 `技术 / Technological`
