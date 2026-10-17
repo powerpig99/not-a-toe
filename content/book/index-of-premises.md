@@ -89,6 +89,15 @@ Schopenhauer's art of not reading urges the deliberate refusal of the noisy and 
 
 → [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
 
+### 本华·曼德博 / Benoit Mandelbrot
+`数学 / Mathematical`
+
+曼德博的幂律与分形几何，用无尺度的规律与自相似的结构描述跨越量级的不规则，在登记打开如何在表面上分布、局部一致与断裂的张力如何在每个尺度上重现时有用；它在此到了边界：这些规律是机制在结果上的数学纹理，不是机制本身，生成它们的是在平均之外运作的中心逼出的打开，而次级理论把这些模式抬升为可管理的属性时，又重新装上一个可封闭的未来。
+
+Mandelbrot's power laws and fractal geometry describe irregularity across magnitudes through scale-free regularities and self-similar structure, which is of use in registering how openings distribute at the surface and how the tension between local coherence and rupture recurs at every scale; it reaches its boundary in that these regularities are the mechanism's mathematical texture in its effects, not the mechanism itself, what generates them is openings forced by centers outside the average, and secondary theories that raise the patterns into manageable properties reinstall a closable future.
+
+→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
+
 ### 伯恩哈德·黎曼 / Bernhard Riemann
 `数学 / Mathematical`
 
@@ -124,6 +133,15 @@ Russell's prescription of world government, approximate economic equality and a 
 Rovelli presumes that once dual substance between mind and body is refused, what remains hard is only a complicated natural phenomenon, that the hinge between a representation and where it is embodied is neither a metaphysical nor an explanatory gap, and that no exhaustive external account has been shown impossible, which is of use in joining dual kinds into one field of nature and in taking scientific knowledge as perspectival; it reaches its boundary in that the hinge is the one-step lag by which the look registers, and no account can contain the act that gives it.
 
 → [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/)
+
+### 混沌理论 / Chaos Theory
+`科学 / Scientific`
+
+混沌理论把敏感依赖与预测的界限形式化，在命名确定性系统里长期预测的界限时有用；它在此到了边界：命名并数学化这份开放的动作，又重新装上一幅一致的图景，未知在其中显得已被标绘、可以理解，而极端的打开仍从任何被形式化的混沌之外到来。
+
+Chaos theory formalizes sensitive dependence and the limits of prediction, which is of use in naming the limits of long-range prediction in deterministic systems; it reaches its boundary in that the act of naming and mathematizing that openness reinstalls a picture of coherence in which the unknown appears charted and intelligible, while extreme openings keep arriving from outside any formalized chaos.
+
+→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 
 ### 查理·芒格 / Charlie Munger
 `经济 / Economic`
@@ -232,6 +250,15 @@ Sivers' method of adding only what need has proven is of use in guarding against
 Musk assumes the present model is partly wrong and treats an explosion as loss signal, which is of use in turning every outcome into the next engineering step and compounding iterations per unit of time; it reaches its boundary in that "physics is the law" joins the written model, the friction of operation and reality itself, so the prior of being wrong stops there and a model is taken as law.
 
 → [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/)
+
+### 认知谦逊 / Epistemic Humility
+`哲学 / Philosophical`
+
+认知谦逊预设，预先培养对未知知识的接纳，能让共识事先保持开放，在提醒任何图景都有局限时有用；它在此到了边界：打开不是大众让出空间而产生的，而是从外部被逼出来的，谦逊的框定事后把吸收命名为旧图景的失败，事前又让封闭的系统宣称已有准备，同时仍把当下的偏离归为扭曲或不胜任。
+
+Epistemic humility presumes that cultivating receptivity to unknown knowledge in advance keeps a consensus open beforehand, which is of use in recalling that every picture has limits; it reaches its boundary in that openings are not produced by the mass granting space but forced from outside, and the humility framing names absorption afterward as the old picture's failure while letting the closed system claim readiness beforehand and still classify present deviations as distortion or incompetence.
+
+→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 
 ### 埃里克·雷蒙德 / Eric S. Raymond
 `技术 / Technological`
@@ -557,6 +584,15 @@ Kurzweil posits exponential law as history's primary driver; useful for tracking
 
 → [The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/)
 
+### 现实扭曲力场 / Reality Distortion Field
+`成功学 / Self-Help`
+
+“现实扭曲力场”的说法预设，大众的图景是场本身，而罕见的被实现的打开是一个人弯曲这个场的特殊力量，在指认少数人的工作确实越过了当时被认为可行的东西时有用；它在此到了边界：大众靠选择与自身的一致来保持一致，打开是由平均之外的细薄中心逼出、随后被吸收的，被登记为扭曲的东西是活动越过了一个自称封闭的持守，而这个标签把滞后冻结为罕见结果的属性。
+
+The phrase "reality distortion field" presumes that the mass picture is the field itself and that a rare realized opening is one person's special power to bend that field, which is of use in naming that a minority's work did go past what was then held feasible; it reaches its boundary in that the mass stays coherent by selecting for consistency with itself, openings are forced by thin centers outside the average and absorbed later, what registers as distortion is the activity continuing past a hold that claimed closure, and the label freezes lag as a property of the rare outcome.
+
+→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
+
 ### 勒内·笛卡尔 / René Descartes
 `哲学 / Philosophical`
 
@@ -619,6 +655,15 @@ Jobs demanded product perfection by rejecting conventional industry timelines; i
 Hameroff's treatment of understanding as an act outside rules, supplied by quantum objective reduction, is of use in bringing experience back into the physical discussion; it reaches its boundary in that, coherent within that ontology, it stops at one mind and does not ask how openness is demonstrated to another.
 
 → [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
+
+### 托马斯·库恩 / Thomas Kuhn
+`哲学 / Philosophical`
+
+库恩的范式转移预设，科学按常规科学、反常积累、危机与范式更替的阶段前进，在描述一个领域如何吸收已无法否认的新看法、又如何改写自己的历史时有用；它在此到了边界：这套词汇在吸收之后才到来，结果并没有变，崩塌的只是听众否认它的能力，而把这些阶段保留为未来打开的时间表，就把残余冻结为一张尚未被逼开之物的地图。
+
+Kuhn's account of paradigm shifts presumes that science advances through stages of normal science, accumulating anomaly, crisis, and paradigm replacement, which is of use in describing how a field absorbs a view it can no longer deny and rewrites its own history; it reaches its boundary in that the vocabulary arrives after absorption, the effect has not changed and only the audience's ability to deny it has collapsed, and preserving the stages as a schedule of future openings freezes residue as a map of what has not yet been forced.
+
+→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 
 ### 托马斯·内格尔 / Thomas Nagel
 `哲学 / Philosophical`
@@ -731,11 +776,11 @@ Animism attributes consciousness to rivers, mountains and forests; it registers,
 ### 反脆弱理论 / Antifragility
 `经济 / Economic`
 
-反脆弱论主张系统能从冲击中获益；在可承受阈值内有效，一旦强冲击击穿系统底座，反脆弱便难以为继。
+反脆弱论预设，系统可以被设计得从冲击与波动中获益，在可承受的阈值之内、作为局部器具应对肥尾的冲击时有用；它在此到了边界：症状在一个持守之下被登记，而持守不是区分之前的结构，把这个统计模式抬升为普遍的处方，就把一个由外部逼出、不可预先确定的过程转成可事先设计的属性，假定了一个有界到足以为之准备的未来。
 
-Antifragility posits systems benefit from shock and volatility; this holds within survivable thresholds, but collapses when structural shocks destroy the coordinating frame.
+Antifragility presumes that systems can be designed to gain from shock and volatility, which is of use within survivable thresholds and as a local instrument for fat-tailed shocks; it reaches its boundary in that symptoms register under a hold and the hold is not the structure prior to distinguishing, so raising the statistical pattern into a general prescription converts an externally forced, non-predeterminable process into a property engineered in advance and assumes a future bounded enough to prepare for.
 
-→ [A New Deeper Look at Antifragility: Prosthesis, Not Driver](../../posts/a-new-deeper-look-at-antifragility/)
+→ [A New Deeper Look at Antifragility: Prosthesis, Not Driver](../../posts/a-new-deeper-look-at-antifragility/) · [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 
 ### 大脑反向传播假说 / Backpropagation in the Brain
 `科学 / Scientific`
@@ -857,11 +902,11 @@ The Dunning-Kruger framework tracks incompetence overconfidence; at high capabil
 ### 达克效应 / Dunning–Kruger Effect
 `科学 / Scientific`
 
-被当作自我觉察阶梯使用时，这一效应成了高阶标签，可让使用者免于真正触碰边界；谦逊的修辞替代了实际的劳作。
+达克效应预设，自信与能力之间的落差可以从一个共享的尺度上读出，低能者高估自己，在指出自我评估会偏离表现时有用；它在此到了边界：被当作自我觉察的阶梯时，它成了让使用者免于触碰真实边界的高阶标签，而被用来给共识之外仍在进行的打开计分时，它把不同记为没有资格修订图景，让与平均的一致充当胜任的尺度。
 
-Invoked as a ladder of self-awareness, the effect becomes a higher-order label that can exempt its user from contact with an actual boundary; rhetoric of humility substitutes for the work.
+The Dunning–Kruger effect presumes that the gap between confidence and competence can be read off a shared measure, with the low-skilled overestimating themselves, which is of use in noting that self-assessment can drift from performance; it reaches its boundary in that, invoked as a ladder of self-awareness, it becomes a higher-order label that exempts its user from contact with an actual boundary, and applied to an opening still under way outside the consensus, it scores difference as lacking standing to revise the picture, letting consistency with the average stand as the measure of competence.
 
-→ [“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
+→ [“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/) · [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 
 ### 意识涌现论 / Emergence of Consciousness
 `科学 / Scientific`
@@ -1320,7 +1365,7 @@ The Planck time and Planck length mark the scale where present models run out of
 
 The power law is of use in describing the shape of outcomes within an observation window; it reaches its boundary in that, once raised into a law that must be obeyed, aggregated traces are taken for the activity itself, while what generates them is the differential of compounding rates.
 
-→ [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
+→ [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/) · [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 
 ### 人的行动学 / Praxeology
 `经济 / Economic`
@@ -1917,15 +1962,6 @@ Literary vanity focuses on polishing a prestigious authorial persona; authentic 
 Averaged parenting methods distil patterns from many children, which is of use in knowing what is common at a given age; they reach their boundary in that individual self-drive can neither be seen nor averaged, what actually drives a particular child now can only be sensed through close observation and putting oneself in the child's place, and what parents can give is more options and no added interference.
 
 → [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)
-
-### 基准面反转机制 / Baseline Inversion Dynamics
-`哲学 / Philosophical`
-
-大众社会学将强势领袖视作偏离常规的异类；坚不可摧的主观意志反转了群体的妥协基准，强行拉高了集体对极致产出的容忍底线。
-
-Sociology views high-pressure visionaries as disruptive anomalies; charismatic determination inverts social baselines, pulling collective tolerance toward extraordinary performance standards.
-
-→ [The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 
 ### 贝叶斯更新作为中立发现 / Bayesian Updating as Neutral Discovery
 `数学 / Mathematical`

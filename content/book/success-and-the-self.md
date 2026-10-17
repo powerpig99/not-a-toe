@@ -25,7 +25,7 @@ These essays examine victimhood paralysis, shortcut delusions, and cognitive inv
 - [When Observation Becomes Performance](../../posts/when-observation-becomes-performance/)
 - [Exceptionality, Perception, and the Self-Limiting Field of Problems](../../posts/exceptionality-perception-and-the-self-limiting-field-of-problems/)
 - [The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/)
-- [The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
+- [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 - [难度不在行动本身 / Hardness Is Not Inherent in the Action](../../posts/hardness-is-not-inherent-in-the-action/)
 - [成功学 / Theories After Success](../../posts/cheng-gong-xue/)
 - [行路之后的地图 / The Map After the Territory](../../posts/the-map-after-the-territory/)
