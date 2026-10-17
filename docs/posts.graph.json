@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T10:37:16.148Z",
+    "generated_at": "2026-10-17T10:58:04.536Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -76,7 +76,7 @@
       "content/posts/expertise-as-reference-not-replacement.md": "4f9116ea83a1",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
-      "content/posts/externalized-virtue-becomes-its-opposite.md": "cf5fee6f027d",
+      "content/posts/externalized-virtue-becomes-its-opposite.md": "87053d0f1181",
       "content/posts/failure-as-information.md": "dac0fbefad5a",
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "067a958b2103",
@@ -228,7 +228,7 @@
       "content/posts/the-deterministic-machine.md": "19a7586b9418",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "cefee228d49b",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "6bed3375defb",
-      "content/posts/the-discount-on-agency.md": "e1aa4e5fb392",
+      "content/posts/the-discount-on-agency.md": "c8523c34eab4",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cd6f36ce905c",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "fbc2f400c1b1",
@@ -404,14 +404,14 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "0ba462a7a911",
+      "content/book/index-of-premises.md": "464f471e2c78",
       "content/book/intelligence.md": "02f9b1d891c7",
       "content/book/knowledge-and-learning.md": "08a95fa3219e",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "be7ba296cb80",
       "content/book/method.md": "d52dd5b06929",
-      "content/book/morality.md": "af4f61303cff",
+      "content/book/morality.md": "f9f8e36b3576",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "41c374cc5308",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 7139,
+      "edges": 7165,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1075,
+      "book_edges": 1076,
       "posts_reached_by_book": 393
     }
   },
@@ -2244,8 +2244,8 @@
       "kind": "post",
       "slug": "externalized-virtue-becomes-its-opposite",
       "path": "content/posts/externalized-virtue-becomes-its-opposite.md",
-      "title": "Externalized Virtue Becomes Its Opposite",
-      "hash": "cf5fee6f027d",
+      "title": "外化善意走向其反面 / Externalized Virtue Becomes Its Opposite",
+      "hash": "87053d0f1181",
       "in_degree": 26,
       "out_degree": 26,
       "links_out": [
@@ -6009,7 +6009,7 @@
       "slug": "the-discount-on-agency",
       "path": "content/posts/the-discount-on-agency.md",
       "title": "主体性的折现 / The Discount on Agency",
-      "hash": "e1aa4e5fb392",
+      "hash": "c8523c34eab4",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -17362,109 +17362,223 @@
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s own creation"
+      "label": "恶是心智自己的造物"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
-      "label": "Good and evil are the two sides of the coin and the cut"
+      "label": "善恶是硬币的两面与那一刀"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind's Own Creation"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "赋权确立权力的集中"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "解放的言辞始于定义囚禁"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "recursive-contradiction-of-entrusted-morality",
       "rel": "points_to",
-      "label": "The recursive contradiction of entrusted morality"
+      "label": "托付道德的自指悖论"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "recursive-contradiction-of-entrusted-morality",
+      "rel": "points_to",
+      "label": "The Recursive Contradiction of Entrusted Morality"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
-      "label": "The question that installs the war"
+      "label": "安装战争的那个问题"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The Question That Installs the War"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
-      "label": "The risk is the belief in oversight itself"
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The Risk Is the Belief in Oversight Itself"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
-      "label": "Shared humanity is never shared"
+      "label": "共同的人性从不共享"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
-      "label": "The imagining of AI risk"
+      "label": "对 AI 风险的想象"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "rel": "points_to",
-      "label": "The free mind is displaced by what claims to protect it"
+      "label": "自由的心智被声称保护它的东西取代"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "主体性的折现"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "The Free Mind Is Displaced by What Claims to Protect It"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
@@ -17476,13 +17590,55 @@
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "Moral language dilutes the feedback that scales freedom"
+      "label": "道德语言稀释自由复利的反馈"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "rel": "points_to",
+      "label": "强求善意的残暴与范畴反馈的因果遮蔽"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "对乌托邦的信念是通往反乌托邦之路"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "一切伤害的根源"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
@@ -17494,25 +17650,25 @@
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "The Belief in Utopia Is the Path to Dystopia"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "The Source of All Harm"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
+      "label": "The Reversal from Defensible Claim to Dogma"
     },
     {
       "from": "failure-as-information",
@@ -34486,7 +34642,7 @@
       "from": "the-discount-on-agency",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "外化的美德走向其反面"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "the-discount-on-agency",
@@ -52734,7 +52890,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "0ba462a7a911",
+        "hash": "464f471e2c78",
         "out_degree": 393
       },
       {
@@ -52797,7 +52953,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "af4f61303cff",
+        "hash": "f9f8e36b3576",
         "out_degree": 28
       },
       {
@@ -53734,6 +53890,12 @@
         "to": "what-hinton-failed-to-understand",
         "rel": "collects",
         "label": "辛顿未曾理解的心智 / What Hinton Failed to Understand"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "externalized-virtue-becomes-its-opposite",
+        "rel": "collects",
+        "label": "外化善意走向其反面 / Externalized Virtue Becomes Its Opposite"
       },
       {
         "from": "book:index-of-premises",
@@ -55651,12 +55813,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "externalized-virtue-becomes-its-opposite",
-        "rel": "collects",
-        "label": "Externalized Virtue Becomes Its Opposite"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-ramble-within-the-ramble",
         "rel": "collects",
         "label": "The Ramble Within the Ramble"
@@ -55942,6 +56098,12 @@
         "to": "moral-language-as-projection",
         "rel": "collects",
         "label": "道德语言作为投影 / Moral Language as Projection"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "externalized-virtue-becomes-its-opposite",
+        "rel": "collects",
+        "label": "外化善意走向其反面 / Externalized Virtue Becomes Its Opposite"
       },
       {
         "from": "book:index-of-premises",
@@ -58497,7 +58659,7 @@
         "from": "book:morality",
         "to": "externalized-virtue-becomes-its-opposite",
         "rel": "collects",
-        "label": "Externalized Virtue Becomes Its Opposite"
+        "label": "外化善意走向其反面 / Externalized Virtue Becomes Its Opposite"
       },
       {
         "from": "book:morality",

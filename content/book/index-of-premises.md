@@ -359,6 +359,15 @@ Hinton pioneered deep learning architectures modeled after neural intuitions; br
 
 → [The Brain Does Not Backprop, but Propagates](../../posts/the-brain-does-not-backprop/) · [辛顿未曾理解的心智 / What Hinton Failed to Understand](../../posts/what-hinton-failed-to-understand/)
 
+### 以更大之善为压过的依据 / The Greater Good as Warrant to Override
+`哲学 / Philosophical`
+
+以更大之善为依据的说法预设，一个对更大之善足够确信的中心，有权压过不同意者的判断，在一个中心私下持守关于善与威胁的判断、并让它与下一个动作连续可修订时有用；它在此到了边界：这一步需要一对确信，对自己道德可靠的确信与对异议者有所欠缺的确信，它只在别人的自由顺从中变密为容器，善一旦被视为理所当然，便让它自己的依据过期而走向反面，英雄被重新归类为恶人，而制度只是这笔交易的残余，唯一持久的打断，是每一个位置上对任何确信自动有权压过独立判断的一再拒绝。
+
+The greater good as warrant presumes that a center sufficiently certain of a greater good is entitled to override the judgment of those who disagree, which is of use where a center holds its judgment of good and threat privately, revisable and continuous with its next act; it reaches its boundary in that the move needs a dual certainty, of one's own moral reliability and of dissenters' deficiency, it densifies into a vessel only through others' free compliance, the good once taken for granted expires its own warrant and becomes its opposite, heroes are reclassified as villains, institutions are residue of the transaction, and the only durable interruption is repeated refusal at each locus to treat any conviction as automatically entitled to override independent judgment.
+
+→ [外化善意走向其反面 / Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/)
+
 ### 杰里德·杜克·利希特曼 / Jared Duker Lichtman
 `科学 / Scientific`
 
@@ -2683,15 +2692,6 @@ Presumes that virtue, vice, and the costs of choice are objectively calibrated b
 
 → [没有外部记账员 / No Outside Scorekeeper](../../posts/no-outside-scorekeeper/)
 
-### 外化美德异化为暴政 / Externalized Coercive Virtue
-`哲学 / Philosophical`
-
-道德专制假定强制推行善行即可塑造崇高社会；将自愿美德变为强权法令，直接扼杀了善行赖以立足的自由意志。
-
-Moral authoritarianism assumes forcing righteous behavior creates a virtuous society; turning voluntary virtue into legal coercion strips acts of moral agency.
-
-→ [Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/)
-
 ### 外化认知卸载 / Externalized Cognitive Offloading
 `哲学 / Philosophical`
 
@@ -3095,7 +3095,7 @@ Studies record stable ability differences as traits; ability is accumulated loop
 
 Whether told as benevolent guardianship or bureaucratic capture, institutional causality treats institutions as the authors of outcomes, which is of use in describing how collective structures coordinate action; it reaches its boundary in that institutions are records of distributed choices, granted causal priority because agency has been displaced outward, while technology and the individuals who adopt it are written out of the ledger.
 
-→ [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/)
+→ [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [外化善意走向其反面 / Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/)
 
 ### 教育与科学的建制化倒置 / Institutional Inversion of Education
 `哲学 / Philosophical`
