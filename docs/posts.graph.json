@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T15:08:43.260Z",
+    "generated_at": "2026-10-17T16:14:31.001Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -67,7 +67,7 @@
       "content/posts/efficiency-without-differentiation.md": "3e2aad7ba924",
       "content/posts/emotional-support-as-causal-interference.md": "502e2b0e04b1",
       "content/posts/empathy-as-projection-collapse.md": "48c21092f783",
-      "content/posts/empowerment-establishes-the-centralization-of-power.md": "82bbe5f4fa8f",
+      "content/posts/empowerment-establishes-the-centralization-of-power.md": "7b9c7a3669a8",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "42e3f43c2c2d",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
@@ -178,7 +178,7 @@
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "7cfea3a2001a",
-      "content/posts/shared-humanity-is-never-shared.md": "0caf3eed7c6d",
+      "content/posts/shared-humanity-is-never-shared.md": "22c1be7732c9",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "c742acb86d86",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "abcdead636a7",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
@@ -421,7 +421,7 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7215,
+      "edges": 7220,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -2041,8 +2041,8 @@
       "kind": "post",
       "slug": "empowerment-establishes-the-centralization-of-power",
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
-      "title": "Empowerment Establishes the Centralization of Power",
-      "hash": "82bbe5f4fa8f",
+      "title": "赋权确立权力的集中 / Empowerment Establishes the Centralization of Power",
+      "hash": "7b9c7a3669a8",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -4823,8 +4823,8 @@
       "kind": "post",
       "slug": "shared-humanity-is-never-shared",
       "path": "content/posts/shared-humanity-is-never-shared.md",
-      "title": "共同的人性从不共享 / Shared Humanity Is Never Shared",
-      "hash": "0caf3eed7c6d",
+      "title": "Shared Humanity Is Never Shared",
+      "hash": "22c1be7732c9",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -16643,6 +16643,18 @@
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "能动性的错配"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
       "label": "The Allocation of Causal Power in Validation"
     },
     {
@@ -16655,6 +16667,18 @@
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
+      "label": "外化善意走向其反面"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "主体性的折现"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
       "label": "Externalized Virtue Becomes Its Opposite"
     },
     {
@@ -16662,6 +16686,30 @@
       "to": "the-discount-on-agency",
       "rel": "points_to",
       "label": "The Discount on Agency"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡的无限可能"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "解放的言辞始于定义囚禁"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "能动性被转置入形式模型"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
@@ -16691,6 +16739,24 @@
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "rel": "points_to",
+      "label": "未历摩擦的心智与借来的全能"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
     },
     {
@@ -16709,6 +16775,18 @@
       "from": "empowerment-establishes-the-centralization-of-power",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
+      "label": "一个提示词之遥"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
       "label": "Whatever Is One Prompt Away"
     },
     {
@@ -16716,6 +16794,36 @@
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
       "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "共同改变的本源"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "rel": "points_to",
+      "label": "自我价值、反向财富转移与过去成功的陷阱"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
@@ -16746,6 +16854,12 @@
       "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "rel": "points_to",
       "label": "Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "对乌托邦的信念是通往反乌托邦之路"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
@@ -28937,169 +29051,85 @@
       "from": "shared-humanity-is-never-shared",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "现实是心智持续的实现"
+      "label": "Reality is the Mind’s ongoing realization"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "共同改变的本源"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "reality-is-the-minds-ongoing-realization",
-      "rel": "points_to",
-      "label": "Reality Is the Mind's Ongoing Realization"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "the-source-of-shared-change",
-      "rel": "points_to",
-      "label": "The Source of Shared Change"
+      "label": "The source of shared change"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "no-genius-can-solve-the-knowledge-problem",
       "rel": "points_to",
-      "label": "没有天才能够解决知识问题"
+      "label": "No genius can solve the knowledge problem"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "价格是言说，理解是交易"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "no-genius-can-solve-the-knowledge-problem",
-      "rel": "points_to",
-      "label": "No Genius Can Solve the Knowledge Problem"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "price-as-utterance-understanding-as-trade",
-      "rel": "points_to",
-      "label": "Price as Utterance, Understanding as Trade"
+      "label": "Price as utterance, understanding as trade"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "偏好聚类与评判语言"
+      "label": "Preference clusters and the language of judgment"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡的无限可能"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "preference-clusters-and-the-language-of-judgment",
-      "rel": "points_to",
-      "label": "Preference Clusters and the Language of Judgment"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "mei-you-pu-du-zhi-you-zi-du",
-      "rel": "points_to",
-      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+      "label": "No Universal Salvation, Only Self-Deliverance"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体抉择是唯一的因果杠杆"
+      "label": "Individual choices as the only causal levers"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "主权、信念与规制结构的生成"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "individual-choices-as-the-only-causal-levers",
-      "rel": "points_to",
-      "label": "Individual Choices as the Only Causal Levers"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "sovereignty-belief-and-regulatory-structures",
-      "rel": "points_to",
-      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+      "label": "Sovereignty, belief, and the generation of regulatory structures"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "外化善意走向其反面"
+      "label": "Externalized virtue becomes its opposite"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "对乌托邦的信念是通往反乌托邦之路"
+      "label": "The belief in utopia is the path to dystopia"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "卓异、感知与自我设限的问题场域"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "externalized-virtue-becomes-its-opposite",
-      "rel": "points_to",
-      "label": "Externalized Virtue Becomes Its Opposite"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
-      "rel": "points_to",
-      "label": "The Belief in Utopia Is the Path to Dystopia"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "rel": "points_to",
-      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+      "label": "Exceptionality, perception, and the self-limiting field of problems"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "共享意识是个体性的交集"
+      "label": "Shared consciousness is intersecting individualities"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "自我形象仿佛从无处发声"
+      "label": "Self-image speaks as if from nowhere"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
-      "label": "意识向量论文的真正教训"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "shared-consciousness-is-intersecting-individualities",
-      "rel": "points_to",
-      "label": "Shared Consciousness Is Intersecting Individualities"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "self-image-speaks-as-if-from-nowhere",
-      "rel": "points_to",
-      "label": "Self-Image Speaks as if from Nowhere"
-    },
-    {
-      "from": "shared-humanity-is-never-shared",
-      "to": "the-real-lesson-from-the-consciousness-vector-paper",
-      "rel": "points_to",
-      "label": "The Real Lesson from the Consciousness Vector Paper"
+      "label": "The real lesson from the consciousness vector paper"
     },
     {
       "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
