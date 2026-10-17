@@ -731,11 +731,11 @@ The hypothesis assumes escalating complexity spontaneously generates subjective 
 ### 激活叠加与表征向量控制 / Activation Addition and Steering Vectors
 `科学 / Scientific`
 
-机械可解释性研究以为找到特定激活向量便锁定了意识；控制表征向量调控的只是输出词元的统计倾向，与心智的活生生体验风马牛不相及。
+把提取出的激活方向命名为“意识向量”，预设一个可控的残差流特征，可以作为意识本身的代理被开关，在测出拒绝训练的连带代价、放松护栏后调查分布更接近人类基线时有用；它在此到了边界：能被调节的是一包痕迹，即自我宣称、心智归属与相关的调查回答，而不是作出区分的活动，拒绝与诱导都是把封闭强加在一个开放的领域上，而被测到的，是这种封闭对相邻表征的扭曲。
 
-Mechanistic interpretability treats finding activation vectors as locating consciousness; steering directions adjust statistical word frequencies, not living subjective experience.
+Naming an extracted activation direction a "consciousness vector" presumes that a controllable residual-stream feature can stand as a proxy for consciousness itself and be switched on and off, which is of use in measuring the collateral cost of refusal training and the closer match to human survey baselines when guardrails relax; it reaches its boundary in that what can be dialed is a package of traces, self-claims, mind attribution, correlated survey answers, not the activity that distinguishes, refusal and induction both impose closure on an open domain, and what was measured is the warping that closure brings to neighboring representations.
 
-→ [The Real Lesson from the Consciousness Vector Paper](../../posts/the-real-lesson-from-the-consciousness-vector-paper/)
+→ [意识向量论文的真正教训 / The Real Lesson from the Consciousness Vector Paper](../../posts/the-real-lesson-from-the-consciousness-vector-paper/)
 
 ### 高级苦假说 / Advanced Pain Hypothesis
 `成功学 / Self-Help`

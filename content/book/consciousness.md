@@ -24,7 +24,7 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [The Strongest Belief of the Mind](../../posts/the-strongest-belief-of-the-mind/)
 - [No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind](../../posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)
 - [Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/)
-- [The Real Lesson from the Consciousness Vector Paper](../../posts/the-real-lesson-from-the-consciousness-vector-paper/)
+- [意识向量论文的真正教训 / The Real Lesson from the Consciousness Vector Paper](../../posts/the-real-lesson-from-the-consciousness-vector-paper/)
 - [共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities](../../posts/shared-consciousness-is-intersecting-individualities/)
 - [悲观是乐观的阴影 / Pessimism Is the Shadow of Optimism](../../posts/pessimism-is-the-shadow-of-optimism/)
 - [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/)
