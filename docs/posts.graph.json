@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T06:20:28.530Z",
+    "generated_at": "2026-10-17T06:32:55.918Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -192,7 +192,7 @@
       "content/posts/technology-is-residual-of-human-compounding.md": "c3e3b6d44dfb",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "75fd0f9205d1",
       "content/posts/the-arithmetic-of-the-register.md": "1c7a77817624",
-      "content/posts/the-artifacts-of-self-amplification.md": "7ed267ad7ee6",
+      "content/posts/the-artifacts-of-self-amplification.md": "3052ed444268",
       "content/posts/the-asymmetry-of-understanding.md": "abb8bebb125a",
       "content/posts/the-average-is-residue-not-the-engine.md": "436750ca56fb",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
@@ -328,7 +328,7 @@
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
       "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
       "content/posts/the-returning-signal-and-its-claim.md": "6a118ede0799",
-      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "1f17e7ff9ca9",
+      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "0be08d1c69ae",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "2adccac13fb5",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "bad6dded7e53",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "8f6777888e56",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "7c8b0023a2f7",
+      "content/book/index-of-premises.md": "c9439a9425eb",
       "content/book/intelligence.md": "a9d1647128b7",
       "content/book/knowledge-and-learning.md": "08a95fa3219e",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -416,18 +416,18 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "7ad34d65cf9d",
       "content/book/success-and-the-self.md": "e41f062f3ec6",
-      "content/book/tools-and-progress.md": "f01d6c251e81"
+      "content/book/tools-and-progress.md": "44ba14401b9a"
     },
     "stats": {
       "posts": 393,
-      "edges": 6951,
+      "edges": 6973,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1068,
+      "book_edges": 1069,
       "posts_reached_by_book": 393
     }
   },
@@ -5222,8 +5222,8 @@
       "kind": "post",
       "slug": "the-artifacts-of-self-amplification",
       "path": "content/posts/the-artifacts-of-self-amplification.md",
-      "title": "The Artifacts of Self-Amplification",
-      "hash": "7ed267ad7ee6",
+      "title": "自我放大的制品 / The Artifacts of Self-Amplification",
+      "hash": "3052ed444268",
       "in_degree": 22,
       "out_degree": 22,
       "links_out": [
@@ -8181,7 +8181,7 @@
       "slug": "the-reversal-from-defensible-claim-to-dogma",
       "path": "content/posts/the-reversal-from-defensible-claim-to-dogma.md",
       "title": "从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma",
-      "hash": "1f17e7ff9ca9",
+      "hash": "0be08d1c69ae",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
@@ -29782,133 +29782,265 @@
       "from": "the-artifacts-of-self-amplification",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
-      "label": "The flywheel of the Mind"
+      "label": "心智的飞轮"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+      "label": "没有外部：跃迁、闭环与心智不可复制的自主"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "The Flywheel of the Mind"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
-      "label": "The illusion of free intelligence"
+      "label": "免费智能的幻觉"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI are temporary goalposts"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The Illusion of Free Intelligence"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "amplification-paradox",
       "rel": "points_to",
-      "label": "The amplification paradox"
+      "label": "放大悖论"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "amplification-paradox",
+      "rel": "points_to",
+      "label": "The Amplification Paradox"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity obscures emergence as the act of Mind"
+      "label": "复杂性遮蔽了涌现"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "A creation cannot replace its source"
+      "label": "造物无法取代其源头"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "Technology is residual of human compounding"
+      "label": "技术是人类复利的残差"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology Is Residual of Human Compounding"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "intelligence-folding-back-on-itself",
       "rel": "points_to",
-      "label": "Intelligence folding back on itself"
+      "label": "智能向自身的回折"
     },
     {
       "from": "the-artifacts-of-self-amplification",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "Climbing does not leave the ground"
+      "label": "攀登从未离开地面"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "Intelligence Folding Back on Itself"
+    },
+    {
+      "from": "the-artifacts-of-self-amplification",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing Does Not Leave the Ground"
     },
     {
       "from": "the-asymmetry-of-understanding",
@@ -51606,7 +51738,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "7c8b0023a2f7",
+        "hash": "c9439a9425eb",
         "out_degree": 393
       },
       {
@@ -51714,7 +51846,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "f01d6c251e81",
+        "hash": "44ba14401b9a",
         "out_degree": 32
       }
     ],
@@ -52831,6 +52963,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-artifacts-of-self-amplification",
+        "rel": "collects",
+        "label": "自我放大的制品 / The Artifacts of Self-Amplification"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
         "rel": "collects",
         "label": "笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation"
@@ -53722,6 +53860,12 @@
         "to": "Analysis_Adolescence_of_Technology",
         "rel": "collects",
         "label": "The Exponential and the Linear Eye"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-artifacts-of-self-amplification",
+        "rel": "collects",
+        "label": "自我放大的制品 / The Artifacts of Self-Amplification"
       },
       {
         "from": "book:index-of-premises",
@@ -55480,12 +55624,6 @@
         "to": "intelligence-folding-back-on-itself",
         "rel": "collects",
         "label": "智能向自身的回折 / Intelligence Folding Back on Itself"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-artifacts-of-self-amplification",
-        "rel": "collects",
-        "label": "The Artifacts of Self-Amplification"
       },
       {
         "from": "book:index-of-premises",
@@ -58029,7 +58167,7 @@
         "from": "book:tools-and-progress",
         "to": "the-artifacts-of-self-amplification",
         "rel": "collects",
-        "label": "The Artifacts of Self-Amplification"
+        "label": "自我放大的制品 / The Artifacts of Self-Amplification"
       },
       {
         "from": "book:tools-and-progress",

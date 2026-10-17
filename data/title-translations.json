@@ -219,10 +219,6 @@
       "title_zh": "非万物之理·重溯",
       "subtitle_zh": "它自相矛盾。"
     },
-    "the-reversal-from-defensible-claim-to-dogma": {
-      "title_zh": "从可辩护的主张到教条的反转",
-      "subtitle_zh": "当一个指标被当作安全的全部时，在选定风险曲线上得出的有条件发现就冻结成了定论。"
-    },
     "empowerment-establishes-the-centralization-of-power": {
       "title_zh": "赋权确立权力的集中",
       "subtitle_zh": "赋权或被赋权，就是认可能力从一个已经持有它的中心流出。"
@@ -401,6 +397,10 @@
     "the-belief-in-utopia-is-the-path-to-dystopia": {
       "title_zh": "对乌托邦的信念是通往反乌托邦之路",
       "subtitle_zh": "一个具体的善的理想，一旦被抬升为每个心智都必须接受的尺度，对每个目的本不与它相合的心智而言，就是反乌托邦。"
+    },
+    "the-climate-problem-registers-only-as-perception": {
+      "title_zh": "气候问题只作为感知被登记",
+      "subtitle_zh": "“问题”的身份是装上它的那些中心的一种持守，而不是大气为了继续下去所需要的属性。"
     }
   }
 }

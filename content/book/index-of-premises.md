@@ -548,6 +548,15 @@ Chamfort captures the asymmetry that happiness cannot be found externally and re
 
 → [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
 
+### 饮酒没有安全剂量 / No Safe Level of Alcohol
+`科学 / Scientific`
+
+“饮酒没有安全剂量”预设，选定终点上相对风险曲线的最低点，就为每一个位置定义了安全，在声明的模型与假设之内，把剂量反应报告为对这些终点的预期伤害时有用；它在此到了边界：安全有多条轴，生活质量、文化、余下的年岁与个人的估价，都不坍缩进一条流行病学曲线，而把有条件的发现压平为二元的定论，会让人们连同底下的数据一起打折扣。
+
+"There is no safe level of alcohol" presumes that the lowest point on relative-risk curves for chosen endpoints defines safety for every locus, which is of use in reporting the dose–response as expected harm on those endpoints within stated models and assumptions; it reaches its boundary in that safety has many axes, quality of life, culture, remaining years, and personal valuation do not collapse into one epidemiological curve, and flattening a conditional finding into a binary absolute leads people to discount the underlying data along with it.
+
+→ [从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma](../../posts/the-reversal-from-defensible-claim-to-dogma/)
+
 ### 家长主义 / Paternalism
 `哲学 / Philosophical`
 
@@ -2520,15 +2529,6 @@ Theological dogmas project evil as an invasive demonic entity; malice originates
 Moral empathy assumes feeling another's distress guarantees ethical action; it often projects one's own emotional models, substituting self-referential resonance for real understanding.
 
 → [The Word Does the Damage: Empathy as Projection Collapse](../../posts/empathy-as-projection-collapse/)
-
-### 经验假说异化为封闭教条 / Empirical Claim Hardening into Dogma
-`哲学 / Philosophical`
-
-科学探索本将结论视作特定边界内的暂定模型；但经由体制反复宣讲，适用条件被抽空，实用的假说硬生生被捧成了不容置疑的神条。
-
-Scientific inquiry treats findings as provisional models bound by conditions; institutional repetition strips away contextual boundaries, elevating pragmatic hypotheses into sacred dogma.
-
-→ [The Reversal from Defensible Claim to Dogma](../../posts/the-reversal-from-defensible-claim-to-dogma/)
 
 ### 启蒙运动的自主理性 / Enlightenment Autonomous Reason
 `哲学 / Philosophical`
