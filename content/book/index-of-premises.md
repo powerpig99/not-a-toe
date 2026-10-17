@@ -3592,14 +3592,14 @@ The demand that others open presumes openness to be an unconditional good that c
 
 → [要求他人开放是对自我封闭的渴望 / Advocating Openness of Others Is a Desire for Closure of the Self](../../posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self/)
 
-### 偏好集合的道德化伪装 / Moralized Preference Clusters
+### 道德化的偏好聚类 / Moralized Preference Clusters
 `哲学 / Philosophical`
 
-道德义愤常把私人厌恶拔高为宇宙道德法则；审判式辞令不过是将特定群体的文化偏好披上了普世真理的庄严外衣。
+评判语言预设，对与错是立于分歧之上的坐标，这在它作为一步之宽的罗盘、为一个中心自己的下一个动作定向时有用；它的边界在于：这些词是对齐的偏好增密到显而易见之物的密度时生成的标签，一旦被持为要求其他所在重新追溯同一对齐的凭据，被登记的共振就被读作发现，不对齐的偏好则被计为缺陷，而不是另一个所在。
 
-Moralistic outrage presents subjective revulsions as universal ethical laws; judgment language dresses contingent cultural preference clusters in objective clothing.
+Judgment language presumes that right and wrong are coordinates standing above a disagreement, which is of use as a one-step compass orienting a center's own next act; it reaches its boundary in that the words are labels generated when aligned preferences densify until they carry the density of the obvious, and once they are held as a warrant that other loci must re-trace the same alignment, registered resonance is read as discovery and a misaligned preference is scored as defect rather than as another locus.
 
-→ [Preference Clusters and the Language of Judgment](../../posts/preference-clusters-and-the-language-of-judgment/)
+→ [偏好聚类与评判语言 / Preference Clusters and the Language of Judgment](../../posts/preference-clusters-and-the-language-of-judgment/)
 
 ### 次词预测的被动回应性 / Next-Token Reactive Nature
 `技术 / Technological`

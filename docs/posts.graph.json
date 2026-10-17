@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T19:47:27.861Z",
+    "generated_at": "2026-10-17T20:38:21.664Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -156,7 +156,7 @@
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "8bec08ba7c40",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
-      "content/posts/preference-clusters-and-the-language-of-judgment.md": "cde8a526b40c",
+      "content/posts/preference-clusters-and-the-language-of-judgment.md": "ba92992e9c52",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
       "content/posts/price-as-utterance-understanding-as-trade.md": "c9662cffea91",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
@@ -405,14 +405,14 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "bbdcb09ed1bc",
+      "content/book/index-of-premises.md": "87f4ea6c47e8",
       "content/book/intelligence.md": "9528af4528a9",
       "content/book/knowledge-and-learning.md": "48c27dab2b11",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "be7ba296cb80",
       "content/book/method.md": "d52dd5b06929",
-      "content/book/morality.md": "b858e54b7a75",
+      "content/book/morality.md": "e521d5811053",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "52908cb98984",
@@ -421,7 +421,7 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7289,
+      "edges": 7314,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -4280,8 +4280,8 @@
       "kind": "post",
       "slug": "preference-clusters-and-the-language-of-judgment",
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
-      "title": "Preference Clusters and the Language of Judgment",
-      "hash": "cde8a526b40c",
+      "title": "偏好聚类与评判语言 / Preference Clusters and the Language of Judgment",
+      "hash": "ba92992e9c52",
       "in_degree": 25,
       "out_degree": 25,
       "links_out": [
@@ -26867,151 +26867,301 @@
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
-      "label": "Shared humanity is never shared"
+      "label": "共同的人性从不共享"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s own creation"
+      "label": "恶是心智自己的造物"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
-      "label": "Good and evil are the two sides of the coin and the cut"
+      "label": "善恶是硬币的两面与那一刀"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind’s Own Creation"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
-      "label": "Restriction is a selective tax"
+      "label": "限制是选择性的税"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
-      "label": "What works is the belief"
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "专家经验作为参考而非替代"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local; Intelligence Is Allocated"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "Moral language dilutes the feedback that scales freedom"
+      "label": "道德语言稀释自由复利的反馈"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
-      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
+      "label": "对“AI 糟粕”的反感是反复出现的模式"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The Distaste for “AI Slop” Is a Recurring Pattern"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
-      "label": "The question that installs the war"
+      "label": "安装战争的那个问题"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The Question That Installs the War"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "open-vision-in-a-closed-arena",
       "rel": "points_to",
-      "label": "Open vision in a closed arena"
+      "label": "封闭竞技场中的开放视野"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
-      "label": "Advocating openness of others is a desire for closure of the self"
+      "label": "要求他人开放是对自我封闭的渴望"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open Vision in a Closed Arena"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating Openness of Others Is a Desire for Closure of the Self"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "一切伤害的根源"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
+      "label": "意识向量论文的真正教训"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
     },
     {
       "from": "present-contact-and-the-obscuration-of-desired-feeling",
@@ -53659,7 +53809,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "bbdcb09ed1bc",
+        "hash": "87f4ea6c47e8",
         "out_degree": 394
       },
       {
@@ -53722,7 +53872,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "b858e54b7a75",
+        "hash": "e521d5811053",
         "out_degree": 28
       },
       {
@@ -57232,7 +57382,7 @@
         "from": "book:index-of-premises",
         "to": "preference-clusters-and-the-language-of-judgment",
         "rel": "collects",
-        "label": "Preference Clusters and the Language of Judgment"
+        "label": "偏好聚类与评判语言 / Preference Clusters and the Language of Judgment"
       },
       {
         "from": "book:index-of-premises",
@@ -59434,7 +59584,7 @@
         "from": "book:morality",
         "to": "preference-clusters-and-the-language-of-judgment",
         "rel": "collects",
-        "label": "Preference Clusters and the Language of Judgment"
+        "label": "偏好聚类与评判语言 / Preference Clusters and the Language of Judgment"
       },
       {
         "from": "book:morality",
