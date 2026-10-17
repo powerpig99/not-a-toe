@@ -23,7 +23,7 @@ These essays dissect victimhood scripts, suicidal empathy inversions, and the ab
 - [When Need Stops Being the Measure](../../posts/when-need-stops-being-the-measure/)
 - [Sympathy Is a Placeholder for Lack of Clarity](../../posts/sympathy-is-a-placeholder-for-lack-of-clarity/)
 - [Preference Clusters and the Language of Judgment](../../posts/preference-clusters-and-the-language-of-judgment/)
-- [Advocating Openness of Others Is a Desire for Closure of the Self](../../posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self/)
+- [要求他人开放是对自我封闭的渴望 / Advocating Openness of Others Is a Desire for Closure of the Self](../../posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self/)
 - [善恶是硬币的两面与那一刀 / Good and Evil Are the Two Sides of the Coin and the Cut](../../posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut/)
 - [外化善意走向其反面 / Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/)
 - [一切伤害的根源 / The Source of All Harm](../../posts/the-source-of-all-harm/)

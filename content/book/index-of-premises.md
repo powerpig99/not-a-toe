@@ -3586,11 +3586,11 @@ Moral realism takes moral categories as properties of the world, which is of use
 ### 道德化苛求他人包容 / Moralistic Demand for Openness
 `哲学 / Philosophical`
 
-道德训诫者高调要求外界保持包容；对他人思想横加指责，多半是为了筑起高墙保护自身不容挑战的狭隘教条。
+要求他人开放的主张预设，开放是可以向他人索要的无条件之善，这在揭示被隐藏的取用不对称、为具体的释放安排提供理由时有用；它的边界在于：中心之间移动的只有残余，释放无论在哪里都是选择性的，而要求者自己的选择在同一时刻被冠以隐私或主权之名、免于质询，于是这个要求成了要求者自身封闭的一种形式。
 
-Moral crusaders demand radical openness and vulnerability from the public; stridently policing others' views serves to shield one's own sacred dogmas from critical scrutiny.
+The demand that others open presumes openness to be an unconditional good that can be required of others, which is of use in exposing hidden asymmetries of access and in arguing for concrete arrangements of release; it reaches its boundary in that only residue moves between centers, release is selective wherever it occurs, and the demander's own selection is at the same moment kept out of question under the names of privacy or sovereignty, so that the demand becomes a form of the demander's own closure.
 
-→ [Advocating Openness of Others Is a Desire for Closure of the Self](../../posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self/)
+→ [要求他人开放是对自我封闭的渴望 / Advocating Openness of Others Is a Desire for Closure of the Self](../../posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self/)
 
 ### 偏好集合的道德化伪装 / Moralized Preference Clusters
 `哲学 / Philosophical`

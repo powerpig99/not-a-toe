@@ -85,10 +85,6 @@
       "title_zh": "智能只属于心智",
       "subtitle_zh": "能被设计、放大或转移的都是残余；智能只属于心智。"
     },
-    "advocating-openness-of-others-is-a-desire-for-closure-of-the-self": {
-      "title_zh": "要求他人开放是对自我封闭的渴望",
-      "subtitle_zh": "中心之间无法全额敞开；要求他人开放是本中心在开放形象下维持自身边界的方式。"
-    },
     "a-living-external-cortex": {
       "title_zh": "活的外部皮层",
       "subtitle_zh": "植根于不可约先验的知识图谱是保持一步之宽的技术，是持续学习最贴近的持久承载，而不把承载误认作心智。"
@@ -358,6 +354,10 @@
     "the_analogy_trap": {
       "title_zh": "类比的陷阱：共享的逻辑不是共享的结构",
       "subtitle_zh": "类比之所以起作用，在于揭示两个领域之间共享的逻辑，它的力量恰恰在于它不映射的东西。"
+    },
+    "open-vision-in-a-closed-arena": {
+      "title_zh": "封闭竞技场中的开放视野",
+      "subtitle_zh": "开放系统的认识能组织一家公司，却封不住仍在奖励圈占的激励之场。"
     }
   }
 }
