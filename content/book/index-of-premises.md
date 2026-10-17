@@ -249,7 +249,7 @@ Sivers' method of adding only what need has proven is of use in guarding against
 
 Musk assumes the present model is partly wrong and treats an explosion as loss signal, which is of use in turning every outcome into the next engineering step and compounding iterations per unit of time; it reaches its boundary in that "physics is the law" joins the written model, the friction of operation and reality itself, so the prior of being wrong stops there and a model is taken as law.
 
-→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/)
+→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/)
 
 ### 认知谦逊 / Epistemic Humility
 `哲学 / Philosophical`
@@ -565,6 +565,15 @@ Laplace systematized celestial mechanics and probability and imagined an intelli
 Spencer-Brown's Laws of Form established that every formal universe originates in the primordial act of drawing a distinction; fails when cognition forgets distinctions are drawn by situated centers and reifies marks into autonomous cosmic laws; remains irreplaceable in formalizing self-referential closure and the first-person origin of form.
 
 → [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
+
+### 对未知风险的先发制人 / Preempting Unknown Risk
+`经济 / Economic`
+
+对未知风险的先发制人预设，未知的风险是一个已经封闭的案例集合，当下的前提能在它出现之前把它勘察、列出并中和，在让威胁模型、安全规程与发布关卡作为器具约束当下负载时有用；它在此到了边界：让清单免于重新追溯，就把未曾探索的东西记为赢得的安全，缩小了一个组织愿意探索的未来，以先发制人之名放慢了反应，而过去主导地位的缓冲让这种滞后能被负担得更久，落后是这次冻结迟到的账单。
+
+Preempting unknown risk presumes that unknown risk is already a closed set of cases that present premises can survey, enumerate, and neutralize before it appears, which is of use in letting threat models, safety protocols, and release gates bound present load as instruments; it reaches its boundary in that exempting the inventory from re-tracing scores what is left unexplored as safety gained, shrinks the futures an organization is willing to explore, and slows reaction under the name of preemption, while the buffer of prior dominance makes the lag affordable for longer, so falling behind is the freeze's delayed bill.
+
+→ [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/)
 
 ### 瑞·达利欧 / Ray Dalio
 `成功学 / Self-Help`
@@ -3870,15 +3879,6 @@ AI autonomy narratives claim statistical models act as self-willing agents; mode
 Identity preservation assumes defending a positive self-image preserves mental integrity; actively curating a self-concept requires continual distortion of contradictory facts.
 
 → [The Maintenance Paradox](../../posts/the-maintenance-paradox/)
-
-### 过早封闭选择权的代价 / Premature Optionality Closure
-`经济 / Economic`
-
-产业推手急于在未分胜负前选定赢家确立标准；过早封闭探索的选择权阻断了潜在的演化分支，使行业深陷路径依赖。
-
-Industrial planners rush to standardize emerging paradigms around an early favorite; prematurely locking technical standards forecloses alternative evolutions, creating stagnant lock-in.
-
-→ [The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/)
 
 ### 隐私即数据本地化 / Privacy as Data Locality
 `技术 / Technological`
